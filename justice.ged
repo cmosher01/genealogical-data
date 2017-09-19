@@ -14,10 +14,11 @@
 1 SUBM @Umy2qBWIRUiwVSS6Hcn4@
 1 FILE Mosher_Disosway_Harrison_Pazmino_2017-08-03.ged
 1 DATE 19 SEP 2017
-2 TIME 20:22:10
+2 TIME 21:53:09
 0 @Umy2qBWIRUiwVSS6Hcn4@ SUBM
 1 NAME Christopher Alan Mosher
 1 RIN Umy2qBWIRUiwVSS6Hcn4
+1 REFN 445fd90e-20aa-4d1a-9a8f-86e092c7984c
 0 @I2278@ INDI
 1 _XY 164338 227
 1 REFN 10754155-36f5-4c50-ba52-ded2650744e9
@@ -45,12 +46,14 @@
 3 QUAY 0
 0 @P2986@ INDI
 1 _XY 158470 284
+1 REFN 15d4fefb-84e6-4aa7-908a-93281f9ba899
 1 RIN P2986
 1 NAME Richard /Banks/
 1 SEX M
 1 FAMS @F_P2986_P1908@
 0 @P2732@ INDI
 1 _XY 160021 613
+1 REFN 84807709-1d77-4c38-82ad-c06fb15f744b
 1 RIN P2732
 1 NAME Alice /Berry/
 1 SEX F
@@ -85,12 +88,14 @@
 3 QUAY 1
 0 @P2729@ INDI
 1 _XY 159804 613
+1 REFN da39e99d-2d2b-4fb6-8ada-6291853d360f
 1 RIN P2729
 1 NAME Elizabeth /Berry/
 1 SEX F
 1 FAMC @F_P2716_P2715@
 0 @P2734@ INDI
 1 _XY 160299 613
+1 REFN 8a1e6137-6b20-4a18-bbe3-a9d876378cca
 1 RIN P2734
 1 NAME George /Berry/
 1 SEX M
@@ -129,6 +134,7 @@
 4 LONG W77.0821
 0 @P2738@ INDI
 1 _XY 160073 522
+1 REFN 409b8fcc-e2f8-4164-a5e2-8ac275cd9104
 1 RIN P2738
 1 NAME Margaret /Berry/
 1 SEX F
@@ -138,6 +144,7 @@
 2 DATE ABT 1685
 0 @P2731@ INDI
 1 _XY 159703 612
+1 REFN f0dd968f-babf-48aa-9f8e-d2ebbce1b8b7
 1 RIN P2731
 1 NAME Patience /Berry/
 1 SEX F
@@ -145,6 +152,7 @@
 1 FAMS @F_P2736_P2731@
 0 @P2715@ INDI
 1 _XY 159677 516
+1 REFN 9aa32994-b4a6-412a-a2d7-dfafa461b2bc
 1 RIN P2715
 1 NAME Patience wife of Thomas /Berry/
 1 SEX F
@@ -159,6 +167,7 @@
 4 LONG W76.3791
 0 @P2730@ INDI
 1 _XY 159920 613
+1 REFN d01e82e6-f155-40d1-a201-9c295444b9ac
 1 RIN P2730
 1 NAME Sarah /Berry/
 1 SEX F
@@ -232,6 +241,7 @@
 4 LONG W76.3791
 0 @P2721@ INDI
 1 _XY 160436 607
+1 REFN 7c9af365-243d-4909-a91d-6e445479a35e
 1 RIN P2721
 1 NAME William /Berry/
 1 SEX M
@@ -239,6 +249,7 @@
 1 FAMS @F_P2721_P2720@
 0 @P1734@ INDI
 1 _XY 157304 1036
+1 REFN 9aef420b-1864-448e-ac80-57f66c9ee90e
 1 RIN P1734
 1 NAME Margaret Anne /Blackwell/
 2 SOUR @S-340304055@
@@ -474,7 +485,8 @@
 3 MAP
 4 LATI N35.1085
 4 LONG W77.0441
-2 NOTE @T946@
+2 NOTE The 1810 Census for Craven County was lost. Assume she live
+3 CONC d with her husband in New Bern at the time.
 1 CENS
 2 DATE 01 JUN 1840
 2 PLAC New Bern, Craven, North Carolina, USA
@@ -744,7 +756,7 @@
 4 LONG W77.0821
 2 SOUR @S574@
 3 QUAY 1
-2 NOTE @T962@
+2 NOTE palce is from RGB24.GED
 0 @I2264@ INDI
 1 _XY 162975 506
 1 REFN 7963fd0c-713b-4ec9-848a-9d3382396c87
@@ -1765,7 +1777,7 @@
 4 LONG W76.7112
 2 SOUR @S575@
 3 QUAY 1
-2 NOTE @T947@
+2 NOTE 941 acres
 1 EVEN
 2 TYPE granted land
 2 DATE 1682
@@ -1775,7 +1787,7 @@
 4 LONG W76.7112
 2 SOUR @S575@
 3 QUAY 1
-2 NOTE @T948@
+2 NOTE 320 acres
 1 WILL
 2 DATE 09 AUG 1699
 2 PLAC Isle of Wight, Virginia, USA
@@ -2106,7 +2118,7 @@
 2 PLAC Saint Stephens, Northumberland, Virginia, USA
 2 SOUR @S563@
 3 QUAY 1
-2 NOTE @T945@
+2 NOTE place is from Ancestral File
 1 OCCU minister
 2 PLAC Saint Stephens, Northumberland, Virginia, USA
 2 SOUR @S563@
@@ -2119,7 +2131,8 @@
 4 LONG W78.5833
 2 SOUR @S563@
 3 QUAY 1
-2 NOTE @T910@
+2 NOTE One of the original trustees of the College of William and M
+3 CONC ary.
 0 @I1633@ INDI
 1 _XY 158163 423
 1 REFN 667215ca-e8b6-4689-ba73-007430b76ca6
@@ -2166,7 +2179,7 @@
 3 MAP
 4 LATI N51.514
 4 LONG W0.1019
-2 NOTE @T820@
+2 NOTE from Jeanne Ratliff Barfield
 1 IMMI
 2 DATE 1622
 2 PLAC Virginia, USA
@@ -2175,7 +2188,7 @@
 4 LONG W78.5833
 2 SOUR @S528@
 3 QUAY 1
-2 NOTE @T862@
+2 NOTE on ship "Southampton", from London
 1 RESI
 2 DATE FROM 1622 TO 1625
 2 PLAC Jordan Point, Prince George, Virginia, USA
@@ -2188,7 +2201,7 @@
 3 MAP
 4 LATI N38.0667
 4 LONG W78.5833
-2 NOTE @T634@
+2 NOTE indentured to the Farrar plantation
 1 EVEN
 2 TYPE Arrival
 2 DATE 1624
@@ -2220,7 +2233,7 @@
 4 LONG W78.5833
 2 SOUR @S338@
 3 QUAY 1
-2 NOTE @T612@
+2 NOTE to Captain John Harvey
 0 @I1627@ INDI
 1 _XY 157937 441
 1 REFN 73214507-a726-4ebb-862e-217f750c8383
@@ -2285,6 +2298,7 @@
 1 FAMS @F_I2181_I2188@
 0 @P2740@ INDI
 1 _XY 160170 529
+1 REFN 0aa3ca2a-f1b7-4688-b8fc-19c4b29ea9e9
 1 RIN P2740
 1 NAME Thomas /Gill/
 1 SEX M
@@ -2312,6 +2326,7 @@
 3 QUAY 0
 0 @P1877@ INDI
 1 _XY 160746 637
+1 REFN a083eda9-cd4b-4ebf-a6b5-8e39e57c9a90
 1 RIN P1877
 1 NAME Ann /Gouge/
 2 SOUR @S-289352606@
@@ -2334,6 +2349,7 @@
 4 LONG W78.5833
 0 @P2717@ INDI
 1 _XY 160784 515
+1 REFN fe8bece5-e882-44dd-831f-fdbf5d8a4b00
 1 RIN P2717
 1 NAME Elizabeth wife of Jeffrey /Gouge/
 1 SEX F
@@ -2341,6 +2357,7 @@
 1 FAMS @F_P2718_P2717@
 0 @P2720@ INDI
 1 _XY 160660 594
+1 REFN 0a1a8efe-2682-45c6-81ea-4c02039147f8
 1 RIN P2720
 1 NAME Grace /Gouge/
 1 SEX F
@@ -2356,6 +2373,7 @@
 2 DATE ABT 1790
 0 @P2718@ INDI
 1 _XY 160674 508
+1 REFN c9261dc4-c45d-4029-9332-ce18150daf64
 1 RIN P2718
 1 NAME Jeffrey /Gouge/
 1 SEX M
@@ -2369,6 +2387,7 @@
 4 LONG W78.5833
 0 @P2719@ INDI
 1 _XY 160592 426
+1 REFN 0bb089b4-976b-488a-8fa6-4235fac96ca5
 1 RIN P2719
 1 NAME John /Gouge/
 1 SEX M
@@ -2387,6 +2406,7 @@
 4 LONG W76.3791
 0 @P2722@ INDI
 1 _XY 160574 508
+1 REFN 20edb931-a5a0-42e7-9a66-f0a9d605283f
 1 RIN P2722
 1 NAME Mary /Gouge/
 1 SEX F
@@ -2425,7 +2445,7 @@
 4 LONG W76.414
 2 SOUR @S588@
 3 QUAY 1
-2 NOTE @T965@
+2 NOTE place is from Ancestral File
 1 DEAT
 2 DATE ABT 1757
 2 SOUR @S588@
@@ -2475,7 +2495,7 @@
 2 PLAC Greens Creek, Oriental, Pamlico, North Carolina, USA
 2 SOUR @S588@
 3 QUAY 1
-2 NOTE @T964@
+2 NOTE Killed by Native Americans.
 0 @I2217@ INDI
 1 _XY 165529 533
 1 REFN 41dc6ade-061d-4258-9475-339577fdbe8f
@@ -2692,6 +2712,7 @@
 3 QUAY 1
 0 @P1738@ INDI
 1 _XY 158396 1049
+1 REFN 88ed34f8-33be-4ded-a421-8b9202101091
 1 RIN P1738
 1 NAME Sidney E. /Green/
 2 SOUR @S-301650192@
@@ -2815,6 +2836,7 @@
 3 QUAY 1
 0 @P1733@ INDI
 1 _XY 157605 1036
+1 REFN 82aeeb1e-9f87-45c8-97a6-5479f5caa8c9
 1 RIN P1733
 1 NAME Fereba Eliza /Guion/
 2 SOUR @S-333259714@
@@ -2953,7 +2975,7 @@
 4 LONG W76.7112
 2 SOUR @S585@
 3 QUAY 0
-2 NOTE @T961@
+2 NOTE to Peter Hayes
 1 EVEN
 2 TYPE owned
 2 DATE 1640
@@ -3033,7 +3055,8 @@
 4 LONG W76.7112
 2 SOUR @S586@
 3 QUAY 0
-2 NOTE @T963@
+2 NOTE Year is given as "167_"; 1676 is a guess. Place is from RGB2
+3 CONC 4.GED.
 1 DEAT
 2 DATE ABT 08 JUN 1677
 1 PROB
@@ -3116,6 +3139,7 @@
 3 QUAY 0
 0 @P2985@ INDI
 1 _XY 158762 215
+1 REFN bd32cf20-94ba-4010-a77a-f81cbdcdae7c
 1 RIN P2985
 1 NAME /Hatton/
 1 SEX M
@@ -3127,6 +3151,7 @@
 4 LONG W1.4611
 0 @P2982@ INDI
 1 _XY 159055 371
+1 REFN 6616a36b-2e49-45f0-b464-ee8b3e88d319
 1 RIN P2982
 1 NAME Barbara /Hatton/
 1 SEX F
@@ -3137,6 +3162,7 @@
 2 DATE ABT 1700
 0 @P2980@ INDI
 1 _XY 159173 371
+1 REFN 4b72e989-63b9-4ba2-aa40-f5dbb692c6da
 1 RIN P2980
 1 NAME Eleanor /Hatton/
 1 SEX F
@@ -3147,12 +3173,14 @@
 2 DATE 1725
 0 @P2981@ INDI
 1 _XY 158676 384
+1 REFN ddf7c1a7-f0ad-419a-be32-4651f97fd78b
 1 RIN P2981
 1 NAME Elizabeth /Hatton/
 1 SEX F
 1 FAMC @F_P1909_P1908@
 0 @P1908@ INDI
 1 _XY 158568 271
+1 REFN 250f8a57-a1a6-41a8-9d0a-dedf3ff028b3
 1 RIN P1908
 1 NAME Margaret wife of Richard /Hatton/
 2 SOUR @S-299818046@
@@ -3229,6 +3257,7 @@
 3 _APID 1,60525::118763234
 0 @P2983@ INDI
 1 _XY 158800 377
+1 REFN c5e93364-5045-4a28-afd9-49c237798288
 1 RIN P2983
 1 NAME Richard /Hatton/
 1 SEX M
@@ -3238,6 +3267,7 @@
 2 PLAC Saint Mary, Maryland, USA
 0 @P1909@ INDI
 1 _XY 158715 271
+1 REFN 5d45344d-762d-4c02-a638-8f116b4f916e
 1 RIN P1909
 1 NAME Richard /Hatton/
 2 SOUR @S-339816646@
@@ -3269,6 +3299,7 @@
 4 LONG W1.4611
 0 @P2987@ INDI
 1 _XY 158833 277
+1 REFN 9220ca1d-3798-49f1-98ee-a412b066d254
 1 RIN P2987
 1 NAME Thomas /Hatton/
 1 SEX M
@@ -3281,6 +3312,7 @@
 4 LONG W1.4611
 0 @P2984@ INDI
 1 _XY 158941 377
+1 REFN 3c1b6a60-93a9-4624-8dd1-9df5a69355b8
 1 RIN P2984
 1 NAME William /Hatton/
 1 SEX M
@@ -3289,6 +3321,7 @@
 2 DATE 1713
 0 @P2736@ INDI
 1 _XY 159637 612
+1 REFN e472203f-87aa-4392-a7b2-d1b8fde7a7fe
 1 RIN P2736
 1 NAME /Ingram/
 1 SEX M
@@ -3364,6 +3397,7 @@
 1 FAMS @F_I2227_I2228@
 0 @P2724@ INDI
 1 _XY 160972 502
+1 REFN 897d347b-55ec-4dfe-8204-16f6262ae460
 1 RIN P2724
 1 NAME Robert /Jones/
 1 SEX M
@@ -3595,7 +3629,7 @@
 2 SOUR @S33@
 3 QUAY 3
 2 SOUR @S413@
-2 NOTE @T667@
+2 NOTE household had 22 slaves
 1 RESI
 2 DATE BEF 1840
 2 PLAC New Bern, Craven, North Carolina, USA
@@ -3701,7 +3735,7 @@
 3 _APID 1,60525::94080729
 2 SOUR @S-313778072@
 3 _APID 1,60525::102916551
-2 NOTE @T593@
+2 NOTE place is assumed
 1 BURI
 2 DATE ABT 20 JUL 1886
 2 PLAC Cedar Grove Cemetery, New Bern, Craven, North Carolina, USA
@@ -3713,9 +3747,12 @@
 3 _APID 1,60525::94080729
 2 SOUR @S-313778072@
 3 _APID 1,60525::102916551
-2 NOTE @T1088@
+2 NOTE date is a guess;
+3 CONT findagrave.com lists it as "Cedar Grove Cemetery" (Find A Gr
+3 CONC ave Memorial# 28305030)
 0 @P1023@ INDI
 1 _XY 158111 1036
+1 REFN 865ed87b-1ef8-4c6c-96c4-99a6087623c0
 1 RIN P1023
 1 NAME Ann Rebecca /Justice/
 2 SOUR @S-313778072@
@@ -3779,7 +3816,10 @@
 4 LONG W77.0821
 2 SOUR @S565@
 3 QUAY 1
-2 NOTE @T914@
+2 NOTE Since Elias, Barabara, anbd Silvanus are the only Justices l
+3 CONC isted in Craven Co. in this census, I assume that they are t
+3 CONC his Elias and his mother Barbara, and his grandfather Silvan
+3 CONC us.
 1 EVEN
 2 TYPE owned slaves
 2 DATE 17 JUN 1784
@@ -3832,7 +3872,7 @@
 3 OBJE @LCBrr0y8QuWDueC5l1Tc@
 3 OBJE @LEv5Ol76QVKSnB8mZt0x@
 3 OBJE @kW2A1QYTRiam9HUhUCcx@
-2 NOTE @T912@
+2 NOTE place of death is assumed
 1 PROB
 2 DATE ABT OCT 1784
 2 PLAC Craven, North Carolina, USA
@@ -3869,9 +3909,10 @@
 2 NOTE will registered
 1 EVEN
 2 TYPE note
-2 NOTE @T451@
+2 NOTE family had 11 slaves in 1790 census
 0 @P1025@ INDI
 1 _XY 157867 1036
+1 REFN 8901632b-6d26-46d9-ade0-e207b22d55b8
 1 RIN P1025
 1 NAME Elias /Justice/
 2 SOUR @S-313778072@
@@ -4279,6 +4320,7 @@
 3 _APID 1,60525::70132792
 0 @P1024@ INDI
 1 _XY 157984 1036
+1 REFN a5ad169c-fe66-4bbd-8784-772a59a041b2
 1 RIN P1024
 1 NAME Jannet T. /Justice/
 2 SOUR @S-313778072@
@@ -4438,7 +4480,8 @@
 1 RESI
 2 DATE ABT 1845
 2 PLAC 216 Pollock Street, New Bern, Craven, North Carolina, USA
-2 NOTE @T487@
+2 NOTE This John Justice may be the same person referred to by th
+3 CONC e "Dr. John R. Justice House" at this address.
 1 RESI
 2 DATE 1850
 2 PLAC New Bern, Craven, North Carolina, USA
@@ -4537,7 +4580,8 @@
 3 MAP
 4 LATI N35.1085
 4 LONG W77.0441
-2 NOTE @T632@
+2 NOTE The 1810 US Census for Craven County is lost. Assume he live
+3 CONC d in New Bern at the time.
 1 RESI
 2 DATE 1820
 2 PLAC New Bern, Craven, North Carolina, USA
@@ -4565,7 +4609,7 @@
 4 LONG W77.0441
 2 SOUR @S410@
 3 QUAY 3
-2 NOTE @T668@
+2 NOTE household had 35 slaves
 1 RESI
 2 DATE 1830
 2 PLAC New Bern, Craven, North Carolina, USA
@@ -4588,7 +4632,7 @@
 3 QUAY 1
 2 SOUR @S-313778072@
 3 _APID 1,60525::61533296
-2 NOTE @T450@
+2 NOTE in the afternoon
 1 BURI
 2 DATE 07 OCT 1831
 2 PLAC New Bern, Craven, North Carolina, USA
@@ -4743,7 +4787,7 @@
 3 _APID 1,7836::672152
 3 PAGE Source number: 228.000; Source type: Electronic Database; Nu
 4 CONC mber of Pages: 1; Submitter Code: BUR
-2 NOTE @T474@
+2 NOTE Place is from Ancestral File. (or could be Weyanoke)
 1 DEAT
 2 DATE 1720
 2 PLAC Charles City, Virginia, USA
@@ -4816,7 +4860,7 @@
 4 LONG W75.7951
 2 SOUR @S338@
 3 QUAY 1
-2 NOTE @T472@
+2 NOTE or Weynoke Parish, Charles City, VA
 1 DEAT
 2 DATE 1729
 2 SOUR @S338@
@@ -4890,7 +4934,7 @@
 4 LONG W77.0441
 2 SOUR @S432@
 3 QUAY 3
-2 NOTE @T669@
+2 NOTE household had 11 slaves
 1 DEAT
 2 DATE ABT 24 JUL 1823
 2 PLAC New Bern, Craven, North Carolina, USA
@@ -4965,7 +5009,7 @@
 4 LONG W77.0614
 2 SOUR @S239@
 3 QUAY 0
-2 NOTE @T475@
+2 NOTE place is just a guess
 1 RESI
 2 DATE 1769
 2 PLAC Craven, North Carolina, USA
@@ -5020,7 +5064,7 @@
 3 OBJE @iJRVZ63aQi2hhlOFfiAy@
 3 OBJE @8I98iVuCTfySw4BYvT2n@
 3 OBJE @LdXct7uyRyeHdNcHnona@
-2 NOTE @T913@
+2 NOTE not sure if this will belongs to this Silvanus Justice
 0 @I1641@ INDI
 1 _XY 158279 849
 1 REFN 5f778880-5504-494e-b335-29667efbffb4
@@ -5053,6 +5097,7 @@
 3 QUAY 0
 0 @P1873@ INDI
 1 _XY 157936 637
+1 REFN bb4813a4-7d32-4cea-b191-cfda2f799d34
 1 RIN P1873
 1 NAME unknown wife of Silvanus /Justice/
 1 SEX F
@@ -5105,7 +5150,7 @@
 3 CONC irginia, USA
 2 SOUR @S339@
 3 QUAY 1
-2 NOTE @T473@
+2 NOTE 1190 acres
 1 EVEN
 2 TYPE owned land
 2 DATE 1656
@@ -5133,10 +5178,10 @@
 4 LONG W2.5954
 2 SOUR @S339@
 3 QUAY 1
-2 NOTE @T819@
+2 NOTE "Edward"
 1 EVEN
 2 TYPE member
-2 NOTE @T471@
+2 NOTE of the House of Burgesses
 0 @I2231@ INDI
 1 _XY 166236 245
 1 REFN 492dae8b-d7d6-484f-a164-199b0f6ae4a7
@@ -5148,6 +5193,7 @@
 1 FAMS @F_I2230_I2231@
 0 @P2735@ INDI
 1 _XY 160099 613
+1 REFN 4ade188c-d3d8-49c2-a4ce-a946e4903486
 1 RIN P2735
 1 NAME /Lattimore/
 1 SEX M
@@ -5233,7 +5279,8 @@
 4 LONG W77.0733
 1 EVEN
 2 TYPE note
-2 NOTE @T643@
+2 NOTE could this be Nicholas Moger, b c 1637, brother of Hugh Moge
+3 CONC r/Mosher?
 0 @I2191@ INDI
 1 _XY 164661 822
 1 REFN 58e0bdb4-8e80-4ac6-82e5-b610188263b7
@@ -5695,6 +5742,7 @@
 3 QUAY 0
 0 @P2727@ INDI
 1 _XY 159770 422
+1 REFN fb10c436-caf5-4718-8d84-b6bfbb335a39
 1 RIN P2727
 1 NAME Margaret wife of Thomas /Smythe/
 2 SOUR @S-289352606@
@@ -5705,12 +5753,14 @@
 1 FAMS @F_P2728_P2727@
 0 @P2739@ INDI
 1 _XY 159918 429
+1 REFN 19fc8ab0-b20d-454f-a83b-025742063592
 1 RIN P2739
 1 NAME Thomas /Smythe/
 1 SEX M
 1 FAMS @F_P2739_P2727@
 0 @P2723@ INDI
 1 _XY 160488 508
+1 REFN e645ba63-2eea-40c0-a277-c2583c04f420
 1 RIN P2723
 1 NAME John /Sutton/
 1 SEX M
@@ -5723,6 +5773,7 @@
 4 LONG W78.5833
 0 @P2725@ INDI
 1 _XY 161079 515
+1 REFN 09d2cb91-9323-4364-9d28-1a4e00a95bb4
 1 RIN P2725
 1 NAME Elizabeth wife of Thomas /Taylor/
 1 SEX F
@@ -5730,6 +5781,7 @@
 1 FAMS @F_P2724_P2725@
 0 @P1910@ INDI
 1 _XY 158162 943
+1 REFN 04ae0f21-fe4e-4dbb-af5b-910b3bbc2a7b
 1 RIN P1910
 1 NAME Isaac /Taylor/
 2 SOUR @S-289236926@
@@ -5757,12 +5809,14 @@
 3 _APID 1,60525::98542765
 0 @P2726@ INDI
 1 _XY 161272 515
+1 REFN 5b74f022-23e8-4687-889c-837b5594951f
 1 RIN P2726
 1 NAME Thomas /Taylor/
 1 SEX M
 1 FAMS @F_P2726_P2725@
 0 @P1737@ INDI
 1 _XY 158613 1042
+1 REFN 7d04544e-a799-4cec-a290-3b703cc6c1e8
 1 RIN P1737
 1 NAME Mary Benjamin /Tillman/
 2 SOUR @S-340166919@
@@ -5854,6 +5908,7 @@
 3 QUAY 0
 0 @P1903@ INDI
 1 _XY 158904 538
+1 REFN 1cf1ca3e-d3ce-4088-b5fb-17dbc7023b04
 1 RIN P1903
 1 NAME Edward /Wade/
 1 SEX M
@@ -5872,6 +5927,7 @@
 4 LONG W77.0117
 0 @P1905@ INDI
 1 _XY 158565 544
+1 REFN 27db9593-da95-408f-9406-7304fbf217da
 1 RIN P1905
 1 NAME Jane /Wade/
 1 SEX F
@@ -5884,6 +5940,7 @@
 4 LONG W77.0117
 0 @P1879@ INDI
 1 _XY 158449 538
+1 REFN ed2d5ebc-3afe-4e0f-b857-fd6fb12aa9aa
 1 RIN P1879
 1 NAME Mary /Wade/
 2 SOUR @S-338600151@
@@ -5942,6 +5999,7 @@
 3 PAGE Birth year: 1664; Birth city: Charles; Birth state: MD
 0 @P1907@ INDI
 1 _XY 158794 538
+1 REFN 64215d24-7182-45ca-be0d-040083ad76bc
 1 RIN P1907
 1 NAME Robert /Wade/
 2 SOUR @S-301582645@
@@ -5969,6 +6027,7 @@
 3 _APID 1,60525::118409671
 0 @P1904@ INDI
 1 _XY 158666 538
+1 REFN 379d37b1-c15b-4775-8313-18c2a4dd2197
 1 RIN P1904
 1 NAME Theodosia /Wade/
 1 SEX F
@@ -5983,6 +6042,7 @@
 2 DATE ABT 1749
 0 @P1902@ INDI
 1 _XY 159018 538
+1 REFN 786c3a8d-2de3-4f22-9e28-a35b58c1325c
 1 RIN P1902
 1 NAME William /Wade/
 1 SEX M
@@ -6218,10 +6278,12 @@
 1 HUSB @I2278@
 1 WIFE @I2277@
 0 @F_P2986_P1908@ FAM
+1 REFN c4ee1bc3-68e4-43de-ab56-b497ee6fc7ce
 1 RIN F_P2986_P1908
 1 HUSB @P2986@
 1 WIFE @P1908@
 0 @F_P1878_P1877@ FAM
+1 REFN 38ed2eea-e321-498c-88c9-c43149fed6fd
 1 RIN F_P1878_P1877
 1 HUSB @P1878@
 1 WIFE @P1877@
@@ -6236,6 +6298,7 @@
 3 _APID 1,5063::525
 3 OBJE @dK7yMiR1Qgy8KneV5SsQ@
 0 @F_P2728_P2727@ FAM
+1 REFN 94b2b1d6-bbef-45fc-acbb-07615f9cddde
 1 RIN F_P2728_P2727
 1 HUSB @P2728@
 1 WIFE @P2727@
@@ -6252,6 +6315,7 @@
 3 _APID 1,5063::528
 3 OBJE @dK7yMiR1Qgy8KneV5SsQ@
 0 @F_P2716_P2715@ FAM
+1 REFN 9aca2dd4-4faa-4b8a-99b1-471da18ec28f
 1 RIN F_P2716_P2715
 1 HUSB @P2716@
 1 WIFE @P2715@
@@ -6264,6 +6328,7 @@
 1 CHIL @P2734@
 1 CHIL @P1878@
 0 @F_P2721_P2720@ FAM
+1 REFN 415c53e4-c120-42e3-aa23-1f62547b4e47
 1 RIN F_P2721_P2720
 1 HUSB @P2721@
 1 WIFE @P2720@
@@ -6299,7 +6364,7 @@
 1 CHIL @I2252@
 1 MARR
 2 DATE 1719
-2 NOTE @T960@
+2 NOTE based on birth years of children
 0 @F_I2240_I2242@ FAM
 1 REFN 0f325d4b-9e7a-4739-a65a-12ea08959041
 1 RIN F_I2240_I2242
@@ -6348,7 +6413,9 @@
 4 LONG W77.0821
 2 SOUR @S589@
 3 QUAY 1
-2 NOTE @T968@
+2 NOTE Bond #24993
+3 CONT Bondsmen: Samuel Chapman, J. K. Morgan
+3 CONT Witness: S. Chapman
 0 @F_I2181_I2191@ FAM
 1 REFN b0c84ffd-106b-447d-b680-b2b752dd819b
 1 RIN F_I2181_I2191
@@ -6470,7 +6537,9 @@
 3 OBJE @DU0pGz2YQjieNXwCkZlW@
 2 SOUR @S-301650192@
 3 OBJE @DU0pGz2YQjieNXwCkZlW@
-2 NOTE @T966@
+2 NOTE Bond #25783
+3 CONT Bondsman: Albert G. Hubb
+3 CONT Witness: J. G. Stanly
 0 @F_I2224_I2225@ FAM
 1 REFN 2a45d2d7-0cb8-4eda-b26f-723f12b114e0
 1 RIN F_I2224_I2225
@@ -6494,16 +6563,19 @@
 2 SOUR @S238@
 3 QUAY 0
 0 @F_P2740_P2738@ FAM
+1 REFN 6a0a4273-91a5-4f72-83a4-d444019a9554
 1 RIN F_P2740_P2738
 1 HUSB @P2740@
 1 WIFE @P2738@
 0 @F_P2718_P2717@ FAM
+1 REFN d208504b-1050-40b6-b48e-ea12cfeb5cbc
 1 RIN F_P2718_P2717
 1 HUSB @P2718@
 1 WIFE @P2717@
 1 CHIL @P1877@
 1 CHIL @P2720@
 0 @F_P2719_P2718@ FAM
+1 REFN 3ca7895d-eea7-47d4-a630-50dde552fbb3
 1 RIN F_P2719_P2718
 1 HUSB @P2719@
 1 CHIL @P2718@
@@ -6577,11 +6649,13 @@
 1 HUSB @I2270@
 1 WIFE @I2277@
 0 @F_P2985_P1909@ FAM
+1 REFN de924c0e-b996-4ecf-95b9-1bf8ebeba5da
 1 RIN F_P2985_P1909
 1 HUSB @P2985@
 1 CHIL @P1909@
 1 CHIL @P2987@
 0 @F_P1909_P1908@ FAM
+1 REFN 7990ae0f-0ec4-464a-a46a-2074f00359a2
 1 RIN F_P1909_P1908
 1 HUSB @P1909@
 1 WIFE @P1908@
@@ -6599,6 +6673,7 @@
 3 PAGE Source number: 16472.000; Source type: Electronic Database
 4 CONC ; Number of Pages: 1; Submitter Code: WAY
 0 @F_P2736_P2731@ FAM
+1 REFN 55ad9e08-093a-4833-a990-e016fbe649ed
 1 RIN F_P2736_P2731
 1 HUSB @P2736@
 1 WIFE @P2731@
@@ -6624,14 +6699,17 @@
 1 MARR
 2 DATE ABT 1724
 0 @F_P2724_P2717@ FAM
+1 REFN 1f410d4a-46e2-4d7d-becd-5d17d77ac6bb
 1 RIN F_P2724_P2717
 1 HUSB @P2724@
 1 WIFE @P2717@
 0 @F_P2724_P2725@ FAM
+1 REFN 08618c59-bed6-4603-b5bd-7b16060ce59e
 1 RIN F_P2724_P2725
 1 HUSB @P2724@
 1 WIFE @P2725@
 0 @F_I1474_P1738@ FAM
+1 REFN 88d14570-2362-44af-9db7-828e9756e5d2
 1 RIN F_I1474_P1738
 1 HUSB @I1474@
 1 WIFE @P1738@
@@ -6664,6 +6742,7 @@
 3 OBJE @eHRxUlg3ThSbFZaauogP@
 3 NOTE $1000 bond
 0 @F_I1474_P1737@ FAM
+1 REFN ea174845-6021-4865-b9da-7e5428a727b8
 1 RIN F_I1474_P1737
 1 HUSB @I1474@
 1 WIFE @P1737@
@@ -6696,6 +6775,7 @@
 2 SOUR @S238@
 3 QUAY 0
 0 @F_I1472_P1734@ FAM
+1 REFN 9491c917-a2cf-42c6-8290-e75883d0a564
 1 RIN F_I1472_P1734
 1 HUSB @I1472@
 1 WIFE @P1734@
@@ -6706,6 +6786,7 @@
 4 LATI N35.1204
 4 LONG W77.0821
 0 @F_I1622_P1879@ FAM
+1 REFN 2442556c-4d10-4e3a-b5f8-ec28bfa68cfa
 1 RIN F_I1622_P1879
 1 HUSB @I1622@
 1 WIFE @P1879@
@@ -6713,6 +6794,7 @@
 1 CHIL @I1625@
 1 CHIL @I1617@
 0 @F_I1471_P1733@ FAM
+1 REFN 6bf5d111-fe5c-4ea1-8ae7-39a331a9ae55
 1 RIN F_I1471_P1733
 1 HUSB @I1471@
 1 WIFE @P1733@
@@ -6750,7 +6832,8 @@
 2 SOUR @S589@
 3 QUAY 1
 2 SOUR @bDLKfVHBQ7Kn1nsN4ynU@
-2 NOTE @T1034@
+2 NOTE bond #27618 (see also Raleigh Register newspaper Jan. 14, 18
+3 CONC 08)
 0 @F_I1615_I1616@ FAM
 1 REFN d47b7f06-2bb3-400f-859b-80cd76ee5f2a
 1 RIN F_I1615_I1616
@@ -6771,10 +6854,12 @@
 2 SOUR @S-289352606@
 3 OBJE @hk3vdsHfQuC5mDxzPoOp@
 0 @F_I1628_I1719@ FAM
+1 REFN 6a0ed4a1-3594-48fe-b898-d792e9e2ecb4
 1 RIN F_I1628_I1719
 1 HUSB @I1628@
 1 WIFE @I1719@
 0 @F_I1617_P1873@ FAM
+1 REFN 49d00dd9-b643-44c0-8450-24a48c66fed4
 1 RIN F_I1617_P1873
 1 HUSB @I1617@
 1 WIFE @P1873@
@@ -6802,8 +6887,9 @@
 4 LONG W77.0614
 2 SOUR @S239@
 3 QUAY 0
-2 NOTE @T692@
+2 NOTE date is from Steve Williamson
 0 @F_P2735_P2732@ FAM
+1 REFN d29f22a0-5217-49d1-8a89-499b9b83a081
 1 RIN F_P2735_P2732
 1 HUSB @P2735@
 1 WIFE @P2732@
@@ -6854,14 +6940,17 @@
 1 CHIL @I2236@
 1 CHIL @I2237@
 0 @F_P2739_P2727@ FAM
+1 REFN 47094b54-2210-43cf-bd21-8ff819c737df
 1 RIN F_P2739_P2727
 1 HUSB @P2739@
 1 WIFE @P2727@
 0 @F_P2723_P2722@ FAM
+1 REFN f24b3c09-3336-4a41-8eb5-ab77b7aa2ca7
 1 RIN F_P2723_P2722
 1 HUSB @P2723@
 1 WIFE @P2722@
 0 @F_P1910_I1643@ FAM
+1 REFN e0f13bc9-478d-4078-9169-b3c3023d55f1
 1 RIN F_P1910_I1643
 1 HUSB @P1910@
 1 WIFE @I1643@
@@ -6875,6 +6964,7 @@
 3 _APID 1,8909::2092405
 3 PAGE Data Source: County Court Records - FHL # 0296803-0296808
 0 @F_P2726_P2725@ FAM
+1 REFN 3c95b3ab-4a46-41ee-9449-7517b646b618
 1 RIN F_P2726_P2725
 1 HUSB @P2726@
 1 WIFE @P2725@
@@ -6942,14 +7032,17 @@
 1 EMAIL
 1 PHON
 1 RIN R-899050557
+1 REFN 8f66ea08-6e73-4ad7-a563-17c9309875f2
 0 @dIuP1jfcRrCeiZcZz5qZ@ REPO
 1 NAME Ancestry.com, II, OLD
 1 ADDR
 1 EMAIL
 1 PHON
 1 RIN dIuP1jfcRrCeiZcZz5qZ
+1 REFN 459517e7-1b8c-4914-ab79-be004106d2aa
 0 @S-338822154@ SOUR
 1 _APID 1,5058::0
+1 REFN 0c77b33e-0be4-40ed-8962-a3f857878028
 1 RIN S-338822154
 1 REPO @R-899050557@
 1 TITL 1790 United States Federal Census
@@ -6958,6 +7051,7 @@
 2 CONC e: 2010
 0 @S-338822331@ SOUR
 1 _APID 1,7590::0
+1 REFN 645ef800-763b-4740-bf5c-0e314b0a7bca
 1 RIN S-338822331
 1 REPO @R-899050557@
 1 TITL 1800 United States Federal Census
@@ -6966,6 +7060,7 @@
 2 CONC : 2010
 0 @S-338822425@ SOUR
 1 _APID 1,7734::0
+1 REFN 35819295-cb53-4440-9ef4-373ba83836a2
 1 RIN S-338822425
 1 REPO @R-899050557@
 1 TITL 1820 United States Federal Census
@@ -6974,6 +7069,7 @@
 2 CONC e: 2010
 0 @S-338822437@ SOUR
 1 _APID 1,8058::0
+1 REFN b6ad44a7-1345-419e-a9e7-ccfde07fed42
 1 RIN S-338822437
 1 REPO @R-899050557@
 1 TITL 1830 United States Federal Census
@@ -6982,6 +7078,7 @@
 2 CONC e: 2010
 0 @S-340042669@ SOUR
 1 _APID 1,8057::0
+1 REFN 033b90de-da44-43f6-b9ae-eca9c0f26448
 1 RIN S-340042669
 1 REPO @R-899050557@
 1 TITL 1840 United States Federal Census
@@ -6990,6 +7087,7 @@
 2 CONC e: 2010
 0 @S-289242697@ SOUR
 1 _APID 1,8055::0
+1 REFN 54f91d57-a5bb-4980-b7a6-0f30e35d3dee
 1 RIN S-289242697
 1 REPO @R-899050557@
 1 TITL 1850 U.S. Federal Census - Slave Schedules
@@ -6998,6 +7096,7 @@
 2 CONC : 2004
 0 @S-340037843@ SOUR
 1 _APID 1,8054::0
+1 REFN 833e22fd-2295-4335-ad68-0fa1d41a2395
 1 RIN S-340037843
 1 REPO @R-899050557@
 1 TITL 1850 United States Federal Census
@@ -7006,6 +7105,7 @@
 2 CONC e: 2009
 0 @S-340166919@ SOUR
 1 _APID 1,7667::0
+1 REFN d6af3b5b-69c3-4632-8d03-253a19ee3b52
 1 RIN S-340166919
 1 REPO @R-899050557@
 1 TITL 1860 United States Federal Census
@@ -7014,6 +7114,7 @@
 2 CONC e: 2009
 0 @S-338823707@ SOUR
 1 _APID 1,7163::0
+1 REFN 19fa57ad-4685-4a91-9b38-6eb40a63f74d
 1 RIN S-338823707
 1 REPO @R-899050557@
 1 TITL 1870 United States Federal Census
@@ -7022,6 +7123,7 @@
 2 CONC e: 2009
 0 @S-340166898@ SOUR
 1 _APID 1,6742::0
+1 REFN 2cdd5488-c3cb-4bf5-be2c-e315050c2406
 1 RIN S-340166898
 1 REPO @R-899050557@
 1 TITL 1880 United States Federal Census
@@ -7031,6 +7133,7 @@
 2 CONC : 2010
 0 @S-340038419@ SOUR
 1 _APID 1,7602::0
+1 REFN 8f5b9799-b325-43b3-b4cf-4a5f15be38c0
 1 RIN S-340038419
 1 REPO @R-899050557@
 1 TITL 1900 United States Federal Census
@@ -7044,6 +7147,7 @@
 1 AUTH LDS
 1 PUBL http://www.familysearch.org/
 0 @S-340304055@ SOUR
+1 REFN 3b21e735-9f37-45f3-a58f-288328b05df9
 1 RIN S-340304055
 1 REPO @R-899050557@
 1 TITL Ancestry Family Trees
@@ -7232,6 +7336,7 @@
 1 PUBL http://freepages.genealogy.rootsweb.com/~ethrdge/
 0 @S-338600151@ SOUR
 1 _APID 1,5769::0
+1 REFN 66c4b7d8-d995-4df9-994b-4695234f8e0e
 1 RIN S-338600151
 1 REPO @R-899050557@
 1 TITL Family Data Collection - Births
@@ -7240,6 +7345,7 @@
 2 CONC : 2001
 0 @S-290179224@ SOUR
 1 _APID 1,5771::0
+1 REFN 4da052a6-cad6-49da-98bd-d595fabb6904
 1 RIN S-290179224
 1 REPO @R-899050557@
 1 TITL Family Data Collection - Deaths
@@ -7248,6 +7354,7 @@
 2 CONC : 2001
 0 @S-338653628@ SOUR
 1 _APID 1,4725::0
+1 REFN 26b58549-fb39-433e-962a-23c9ab2f83fa
 1 RIN S-338653628
 1 REPO @R-899050557@
 1 TITL Family Data Collection - Individual Records
@@ -7256,6 +7363,7 @@
 2 CONC : 2000
 0 @S-299842455@ SOUR
 1 _APID 1,5774::0
+1 REFN 2c786c6f-1d26-4c9e-b50b-a7d09a18068b
 1 RIN S-299842455
 1 REPO @R-899050557@
 1 TITL Family Data Collection - Marriages
@@ -7339,6 +7447,7 @@
 1 PUBL http://www.esva.net/ghotes/wjustice/
 0 @S-301582645@ SOUR
 1 _APID 1,60541::0
+1 REFN e03d52f4-4c3a-464c-a930-89a62d26f113
 1 RIN S-301582645
 1 REPO @R-899050557@
 1 TITL Global, Find A Grave Index for Burials at Sea and other Sele
@@ -7394,6 +7503,7 @@
 1 PUBL http://www.charleston.quik.com/jeffkat/index.htm
 0 @S-287689707@ SOUR
 1 _APID 1,9068::0
+1 REFN 3d7944cb-c042-4773-bd3a-13fe13bb9a62
 1 RIN S-287689707
 1 REPO @R-899050557@
 1 TITL Maryland, Wills and Probate Records, 1604-1878
@@ -7402,6 +7512,7 @@
 2 CONC e: 2015
 0 @S-299819019@ SOUR
 1 _APID 1,7249::0
+1 REFN c3d5283e-0080-4518-9ddb-4c207ee6238a
 1 RIN S-299819019
 1 REPO @R-899050557@
 1 TITL Millennium File
@@ -7430,6 +7541,7 @@
 2 CONC orth Carolina Division of Archives and History, 1977.
 0 @S-290092468@ SOUR
 1 _APID 1,3566::0
+1 REFN 0bac2cd8-1f6e-4970-aac5-f498d7a10ee9
 1 RIN S-290092468
 1 REPO @R-899050557@
 1 TITL North Carolina, Compiled Census and Census Substitutes Index
@@ -7439,6 +7551,7 @@
 2 CONC : 1999
 0 @S-293802501@ SOUR
 1 _APID 1,1121::0
+1 REFN ff037286-3c81-448f-8863-74d926a747bd
 1 RIN S-293802501
 1 REPO @R-899050557@
 1 TITL North Carolina, Death Certificates, 1909-1976
@@ -7447,6 +7560,7 @@
 2 CONC : 2007
 0 @S-301669667@ SOUR
 1 _APID 1,60090::0
+1 REFN 3f2001d9-2941-4261-b87c-bfd923b54d48
 1 RIN S-301669667
 1 REPO @R-899050557@
 1 TITL North Carolina, Deaths, 1906-1930
@@ -7455,6 +7569,7 @@
 2 CONC e: 2014
 0 @S-333259714@ SOUR
 1 _APID 1,4802::0
+1 REFN eff27c04-724f-4405-9b00-5f83199cb9a4
 1 RIN S-333259714
 1 REPO @R-899050557@
 1 TITL North Carolina, Marriage Bonds, 1741-1868
@@ -7463,6 +7578,7 @@
 2 CONC : 2000
 0 @S-289236926@ SOUR
 1 _APID 1,8909::0
+1 REFN 8c5d31da-2784-4e57-9cf5-829a108dfc76
 1 RIN S-289236926
 1 REPO @R-899050557@
 1 TITL North Carolina, Marriage Index, 1741-2004
@@ -7471,6 +7587,7 @@
 2 CONC : 2007
 0 @S-301650192@ SOUR
 1 _APID 1,60548::0
+1 REFN 5ded9d15-60f3-489a-ab93-a30a1fd0d499
 1 RIN S-301650192
 1 REPO @R-899050557@
 1 TITL North Carolina, Marriage Records, 1741-2011
@@ -7479,6 +7596,7 @@
 2 CONC e: 2015
 0 @S-301649977@ SOUR
 1 _APID 1,9061::0
+1 REFN 654186e4-416d-42ce-93f0-f3131fda24ab
 1 RIN S-301649977
 1 REPO @R-899050557@
 1 TITL North Carolina, Wills and Probate Records, 1665-1998
@@ -7524,6 +7642,7 @@
 1 PUBL Ancestry World Tree at Ancestry.com
 0 @S-299818046@ SOUR
 1 _APID 1,7486::0
+1 REFN fb629d02-6eb9-469e-9e78-eb35cb479a93
 1 RIN S-299818046
 1 REPO @R-899050557@
 1 TITL U.S. and Canada, Passenger and Immigration Lists Index, 1500
@@ -7533,6 +7652,7 @@
 2 CONC : 2010
 0 @S-339816646@ SOUR
 1 _APID 1,7836::0
+1 REFN caf314de-0b19-4750-a885-b0ab3c8de34d
 1 RIN S-339816646
 1 REPO @R-899050557@
 1 TITL U.S. and International Marriage Records, 1560-1900
@@ -7541,6 +7661,7 @@
 2 CONC : 2004
 0 @S-333063533@ SOUR
 1 _APID 1,8756::0
+1 REFN 4e472c75-80cb-4edf-9bc9-97c833e3f78b
 1 RIN S-333063533
 1 REPO @R-899050557@
 1 TITL U.S. Federal Census Mortality Schedules, 1850-1885
@@ -7549,6 +7670,7 @@
 2 CONC e: 2010
 0 @S-313778072@ SOUR
 1 _APID 1,60525::0
+1 REFN c9577f21-6cbf-4659-930f-f1aa49d2f05a
 1 RIN S-313778072
 1 REPO @R-899050557@
 1 TITL U.S., Find A Grave Index, 1600s-Current
@@ -7557,6 +7679,7 @@
 2 CONC e: 2012
 0 @S-301602632@ SOUR
 1 _APID 1,50015::0
+1 REFN 4450ca00-f65c-44c7-8705-bf8aee6e84c2
 1 RIN S-301602632
 1 REPO @R-899050557@
 1 TITL U.S., Newspaper Extractions from the Northeast, 1704-1930
@@ -7904,6 +8027,7 @@
 2 CONC wrence twice.<br />
 0 @S-289352606@ SOUR
 1 _APID 1,5063::0
+1 REFN 89cbc6ab-4547-4e17-bc80-12521d200a62
 1 RIN S-289352606
 1 REPO @R-899050557@
 1 TITL Virginia, Marriages of the Northern Neck of Virginia, 1649-1
@@ -7912,6 +8036,7 @@
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2012
 0 @S-340304011@ SOUR
+1 REFN 0becb66b-4931-4c8f-89b7-684b7eb019bf
 1 RIN S-340304011
 1 REPO @dIuP1jfcRrCeiZcZz5qZ@
 1 TITL Web: North Carolina, Find A Grave Index, 1716-2012
@@ -7930,6 +8055,7 @@
 3 CONC 37; Roll: 7; Page: 429; Image: 573; Family History Library F
 3 CONC ilm: 0568147
 1 RIN 1sxy0DBzQomd1ga61YZG
+1 REFN a69a45f5-ecec-4606-bcb4-98f9824a3368
 0 @OjiBdWEHTfOReL8ruSb4@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\1800 United States Federal Census(1)
@@ -7940,6 +8066,7 @@
 3 CONC ; Series: M32; Roll: 31; Page: 123; Image: 253; Family Histo
 3 CONC ry Library Film: 337907
 1 RIN OjiBdWEHTfOReL8ruSb4
+1 REFN fc6824ca-2ae1-4fce-aa9c-7418f2aeea54
 0 @MVqa8mdDQuuO8ygx1gA2@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\1820 United States Federal Census(3)
@@ -7949,6 +8076,7 @@
 2 _TEXT 1820 U S Census; Census Place: New Bern, Craven, North Carol
 3 CONC ina; Page: 73; NARA Roll: M33_84; Image: 78
 1 RIN MVqa8mdDQuuO8ygx1gA2
+1 REFN aea1d62d-7db0-4ee2-9905-892de112468c
 0 @vyJgRLF4TjyDcN31qP7u@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\1830 United States Federal Census(4)
@@ -7959,6 +8087,7 @@
 3 CONC : M19; Roll: 119; Page: 132; Family History Library Film: 00
 3 CONC 18085
 1 RIN vyJgRLF4TjyDcN31qP7u
+1 REFN 94e63e5e-bff1-4dda-afba-adf835032e23
 0 @Oqw30dvWQASD0KE9VYox@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\1840 United States Federal Census(6)
@@ -7969,6 +8098,7 @@
 3 CONC oll: 358; Page: 67; Image: 770; Family History Library Film
 3 CONC : 0018093
 1 RIN Oqw30dvWQASD0KE9VYox
+1 REFN 2b6907f2-7a2a-416a-9697-328a31fd81b2
 0 @5BpNf04bSxOAW0syfqWM@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\1850 U.S. Federal Census - Slave Sch
@@ -7976,6 +8106,7 @@
 2 FORM jpg
 2 TITL 1850 U.S. Federal Census - Slave Schedules
 1 RIN 5BpNf04bSxOAW0syfqWM
+1 REFN 338efa35-32cd-46aa-b7f0-8971c2c3c736
 0 @mc1T1i0nSFGaPaws22NK@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\1850 United States Federal Census(10
@@ -7985,6 +8116,7 @@
 2 _TEXT Year: 1850; Census Place: New Berne, Craven, North Carolina
 3 CONC ; Roll: M432_626; Page: 305B; Image: 173
 1 RIN mc1T1i0nSFGaPaws22NK
+1 REFN 787da3c1-a754-482c-9ea4-0a3d953ca7aa
 0 @hkTHNgNoRvOddIIgpJbV@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\1850 United States Federal Census(12
@@ -7994,6 +8126,7 @@
 2 _TEXT Year: 1850; Census Place: New Berne, Craven, North Carolina
 3 CONC ; Roll: M432_626; Page: 306B; Image: 175
 1 RIN hkTHNgNoRvOddIIgpJbV
+1 REFN 55aef205-85db-4b03-90e7-e215fcdb774a
 0 @lkEnzzHBTRW0aXFYRJd9@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\1850 United States Federal Census(22
@@ -8003,6 +8136,7 @@
 2 _TEXT Year: 1850; Census Place: New Berne, Craven, North Carolina
 3 CONC ; Roll: M432_626; Page: 293B; Image: 149
 1 RIN lkEnzzHBTRW0aXFYRJd9
+1 REFN d6eafbff-3e41-430e-976f-0997e6b416f1
 0 @jEWvaUaVSpO6wYKSosOa@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\1850 United States Federal Census(24
@@ -8012,6 +8146,7 @@
 2 _TEXT Year: 1850; Census Place: New Berne, Craven, North Carolina
 3 CONC ; Roll: M432_626; Page: 296A; Image: 154
 1 RIN jEWvaUaVSpO6wYKSosOa
+1 REFN 7df1b41c-2263-40c1-b224-bc8e4415fce3
 0 @kDsl2SDMQiy7A6CiqdFh@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\1850 United States Federal Census(26
@@ -8021,6 +8156,7 @@
 2 _TEXT Year: 1850; Census Place: New Berne, Craven, North Carolina
 3 CONC ; Roll: M432_626; Page: 299B; Image: 161
 1 RIN kDsl2SDMQiy7A6CiqdFh
+1 REFN 97d5beed-fbc7-4248-a174-c8fba2c309c9
 0 @TxqTec1UROavRycSDolL@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\1860 United States Federal Census(14
@@ -8031,6 +8167,7 @@
 3 CONC ; Roll: M653_894; Page: 49; Image: 100; Family History Libra
 3 CONC ry Film: 803894
 1 RIN TxqTec1UROavRycSDolL
+1 REFN f159be57-1389-4cdf-be18-e40fb96beb65
 0 @mFPbD3QqSHelb97ut7E4@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\1860 United States Federal Census(31
@@ -8041,6 +8178,7 @@
 3 CONC ; Roll: M653_894; Page: 46; Image: 93; Family History Librar
 3 CONC y Film: 803894
 1 RIN mFPbD3QqSHelb97ut7E4
+1 REFN ec4944e4-af17-47d8-b906-4c4b622858a7
 0 @8D2q43JARJejh3mynV1o@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\1860 United States Federal Census(32
@@ -8051,6 +8189,7 @@
 3 CONC ; Roll: M653_894; Page: 39; Image: 79; Family History Librar
 3 CONC y Film: 803894
 1 RIN 8D2q43JARJejh3mynV1o
+1 REFN 1570576a-fad4-4fea-8824-a37ecb151547
 0 @7QRancUuQC6qMjoRSbtc@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\1870 United States Federal Census(11
@@ -8061,6 +8200,7 @@
 3 CONC rolina; Roll: M593_1132; Page: 358B; Image: 170; Family Hist
 3 CONC ory Library Film: 552631
 1 RIN 7QRancUuQC6qMjoRSbtc
+1 REFN dfade0d1-19fc-46a7-9538-d2bb9aa9d692
 0 @9kHnBzQjTPm0JEyBKIqL@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\1870 United States Federal Census(34
@@ -8070,6 +8210,7 @@
 2 _TEXT Year: 1870; Census Place: Arcola, Douglas, Illinois; Image
 3 CONC : 207709
 1 RIN 9kHnBzQjTPm0JEyBKIqL
+1 REFN 42f6a8a7-f9ea-4b47-9bb4-ecbdeb9274f8
 0 @fdZ9SemrRsWBJwr80Zei@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\1880 United States Federal Census(11
@@ -8080,6 +8221,7 @@
 3 CONC ; Roll: 959; Family History Film: 1254959; Page: 257B; Enume
 3 CONC ration District: 041; Image: 0684
 1 RIN fdZ9SemrRsWBJwr80Zei
+1 REFN 797da5ae-0b7b-4bb3-a52f-43ca9097d0c8
 0 @wa1UyPdnSuGTEyCe7Rx0@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\1880 United States Federal Census(37
@@ -8090,6 +8232,7 @@
 3 CONC 03; Family History Film: 1254203; Page: 1A; Enumeration Dist
 3 CONC rict: 082; Image: 0411
 1 RIN wa1UyPdnSuGTEyCe7Rx0
+1 REFN 542835da-319e-474e-bcbf-709374032788
 0 @ZO6HLkEoTYaze9GPlKm3@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\1880 United States Federal Census(44
@@ -8100,6 +8243,7 @@
 3 CONC lina; Roll: 972; Family History Film: 1254972; Page: 289B; E
 3 CONC numeration District: 105; Image: 0006
 1 RIN ZO6HLkEoTYaze9GPlKm3
+1 REFN d9e8fab9-dd27-4e7f-80c1-2c77ec2916f0
 0 @d408fkPQQPynKae9xtVk@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\1900 United States Federal Census(39
@@ -8110,12 +8254,14 @@
 3 CONC ois; Roll: 240; Page: 2A; Enumeration District: 0007; FHL mi
 3 CONC crofilm: 1240240
 1 RIN d408fkPQQPynKae9xtVk
+1 REFN ff8f0659-eb5d-46a7-9af3-5b739cdbf252
 0 @i4aS9JIiSIyBWipkO5Qa@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\chrchurbapts.txt
 2 FORM jpg
 2 TITL chrchurbapts
 1 RIN i4aS9JIiSIyBWipkO5Qa
+1 REFN 29b79748-654f-4ad1-b8d3-c9d73354a2a0
 0 @O126@ OBJE
 1 FILE http://trees.ancestry.com/rd?f=document&guid=53960bb1-65e6-4
 2 CONC ea6-becd-e5ecbab3e54c&tid=61407337
@@ -8126,6 +8272,7 @@
 2 FORM jpg
 2 TITL chrchurbapts
 1 RIN O126
+1 REFN af157398-0b91-461b-a91a-df797f608c3b
 0 @O21@ OBJE
 1 FILE http://trees.ancestry.com/rd?f=image&guid=5477ab06-bd25-4234
 2 CONC -834d-d34eb5e1c196&tid=61407337
@@ -8136,6 +8283,7 @@
 2 FORM jpg
 2 TITL Isreal M. Disosway
 1 RIN O21
+1 REFN 1ec39106-b9b9-442a-9928-fe7629bad507
 0 @O166@ OBJE
 1 FILE http://trees.ancestry.com/rd?f=image&guid=429bb2d2-308a-44e5
 2 CONC -949f-a60b9c9ca608&tid=61407337
@@ -8147,12 +8295,14 @@
 2 FORM jpg
 2 TITL James Cicero & Margaret Ann Blackwell Justice
 1 RIN O166
+1 REFN d39a5500-4743-4d23-bc0f-4db2922c8cea
 0 @THlH9L3XSaO2if2Iu2Ds@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\James Cicero Justice 1821-1905.jpg
 2 FORM jpg
 2 TITL James Cicero Justice 1821-1905
 1 RIN THlH9L3XSaO2if2Iu2Ds
+1 REFN 869f0a75-b931-4e4e-9c54-dc39ddd58ec0
 0 @vQ8yQKuoQM2XI9dtVOQK@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\James Cicero Justice 1821-1905(1).jp
@@ -8160,6 +8310,7 @@
 2 FORM jpg
 2 TITL James Cicero Justice 1821-1905
 1 RIN vQ8yQKuoQM2XI9dtVOQK
+1 REFN 7fd3aeb7-f70b-4e8e-abdc-e2e0a642c9ed
 0 @O168@ OBJE
 1 FILE http://trees.ancestry.com/rd?f=image&guid=cc769c18-6607-4c9b
 2 CONC -a58b-584b69cad196&tid=61407337
@@ -8171,6 +8322,7 @@
 2 FORM jpg
 2 TITL James Cicero Justice 1821-1905
 1 RIN O168
+1 REFN 0755aa49-d70b-4826-bd10-1cff9b5f37e3
 0 @O167@ OBJE
 1 FILE http://trees.ancestry.com/rd?f=image&guid=9b0e66fa-6058-45c6
 2 CONC -84c2-a4f7bf78d7d6&tid=61407337
@@ -8182,6 +8334,7 @@
 2 FORM jpg
 2 TITL Margaret Ann Blackwell Justice 1823-1899
 1 RIN O167
+1 REFN a55c1447-08ad-4143-81a5-beaceb363f63
 0 @oxya7T9TRLWExGXG5EuW@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\Maryland, Wills and Probate Records
@@ -8191,6 +8344,7 @@
 2 _TEXT Will books; Author: Maryland. Prerogative Court; Probate Pla
 3 CONC ce: Maryland
 1 RIN oxya7T9TRLWExGXG5EuW
+1 REFN 46b8a025-5095-4a50-887f-add8d6f889e5
 0 @O170@ OBJE
 1 FILE http://trees.ancestry.com/rd?f=image&guid=ea4a549f-e268-4c9a
 2 CONC -a0c1-6a4cef906fe8&tid=61407337
@@ -8204,6 +8358,7 @@
 3 CONC o Zachariah Wade and others on whose land the Federal City (
 3 CONC D.C.) was built.
 1 RIN O170
+1 REFN 3c59ba9c-b775-4990-a383-1321123aac5a
 0 @0cgT90kUQIOhW9laiUR0@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\North Carolina, Death Certificates
@@ -8211,6 +8366,7 @@
 2 FORM jpg
 2 TITL North Carolina, Death Certificates, 1909-1976
 1 RIN 0cgT90kUQIOhW9laiUR0
+1 REFN 9cc6bc4a-9c2b-4c50-bc60-9b21ee7c03ca
 0 @re6Kx7CJTsOc5XVJ0vXL@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\North Carolina, Death Certificates
@@ -8218,6 +8374,7 @@
 2 FORM jpg
 2 TITL North Carolina, Death Certificates, 1909-1976
 1 RIN re6Kx7CJTsOc5XVJ0vXL
+1 REFN 6aa343f8-e148-48c5-bf4e-1cd7711aa301
 0 @DnIFhoPwQqmgcvg6AS3j@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\North Carolina, Deaths, 1906-1930.jp
@@ -8225,6 +8382,7 @@
 2 FORM jpg
 2 TITL North Carolina, Deaths, 1906-1930
 1 RIN DnIFhoPwQqmgcvg6AS3j
+1 REFN 58fb7513-d180-41cb-bdaf-36052916ee97
 0 @DU0pGz2YQjieNXwCkZlW@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\North Carolina, Marriage Records, 17
@@ -8232,6 +8390,7 @@
 2 FORM jpg
 2 TITL North Carolina, Marriage Records, 1741-2011
 1 RIN DU0pGz2YQjieNXwCkZlW
+1 REFN 0b904e99-5ed0-4575-b098-c7f315147bec
 0 @aW5zqhLPRsiFJSg4k9u1@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\North Carolina, Marriage Records, 17
@@ -8239,6 +8398,7 @@
 2 FORM jpg
 2 TITL North Carolina, Marriage Records, 1741-2011
 1 RIN aW5zqhLPRsiFJSg4k9u1
+1 REFN 3b383fcc-daf4-433b-84d3-1f48845d61be
 0 @Bvkx6qxmRgewcTR39H7a@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\North Carolina, Marriage Records, 17
@@ -8246,6 +8406,7 @@
 2 FORM jpg
 2 TITL North Carolina, Marriage Records, 1741-2011
 1 RIN Bvkx6qxmRgewcTR39H7a
+1 REFN e04d9350-c1f9-4ecb-8ebb-677dc0ed471d
 0 @eHRxUlg3ThSbFZaauogP@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\North Carolina, Marriage Records, 17
@@ -8253,6 +8414,7 @@
 2 FORM jpg
 2 TITL North Carolina, Marriage Records, 1741-2011
 1 RIN eHRxUlg3ThSbFZaauogP
+1 REFN f5f9dd83-f762-4098-a957-61c6e332d7c2
 0 @4bBS5uiSSXmbCAmR2Vjq@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\North Carolina, Marriage Records, 17
@@ -8260,6 +8422,7 @@
 2 FORM jpg
 2 TITL North Carolina, Marriage Records, 1741-2011
 1 RIN 4bBS5uiSSXmbCAmR2Vjq
+1 REFN 347b182a-227d-4832-b919-caa48cd66ce7
 0 @b3HWmdCjRaacjfDg4nAu@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\North Carolina, Wills and Probate Re
@@ -8270,6 +8433,7 @@
 3 CONC : North Carolina. Division of Archives and History; Probat
 3 CONC e Place: Craven, North Carolina
 1 RIN b3HWmdCjRaacjfDg4nAu
+1 REFN 93e56da8-7197-4eb3-960a-51967dd588b3
 0 @KbrDz4dnR4CZzo5Ds78o@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\North Carolina, Wills and Probate Re
@@ -8280,6 +8444,7 @@
 3 CONC : North Carolina. Division of Archives and History; Probat
 3 CONC e Place: Craven, North Carolina
 1 RIN KbrDz4dnR4CZzo5Ds78o
+1 REFN 09eeabf3-834b-43e5-a0c5-b82d119ec096
 0 @Ob7SYNAtQOGCMZQS9itF@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\North Carolina, Wills and Probate Re
@@ -8290,6 +8455,7 @@
 3 CONC : North Carolina. Division of Archives and History; Probat
 3 CONC e Place: Craven, North Carolina
 1 RIN Ob7SYNAtQOGCMZQS9itF
+1 REFN 786f954f-533a-4806-93c9-88b9204ee85e
 0 @vKOhPVxyR9uaL9gZ21XK@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\North Carolina, Wills and Probate Re
@@ -8300,6 +8466,7 @@
 3 CONC : North Carolina. Division of Archives and History; Probat
 3 CONC e Place: Craven, North Carolina
 1 RIN vKOhPVxyR9uaL9gZ21XK
+1 REFN b932f579-e544-4e96-a479-faa26943af77
 0 @vZV25Ou3RM6SBNnwCNcB@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\North Carolina, Wills and Probate Re
@@ -8310,6 +8477,7 @@
 3 CONC : North Carolina. Division of Archives and History; Probat
 3 CONC e Place: Craven, North Carolina
 1 RIN vZV25Ou3RM6SBNnwCNcB
+1 REFN b31c84e5-9734-4093-ac40-6f738d90d9ec
 0 @ykShqnCGTrKlo3jKaDYo@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\North Carolina, Wills and Probate Re
@@ -8319,6 +8487,7 @@
 2 _TEXT Wills; Author: North Carolina. Superior Court (Craven County
 3 CONC ); Probate Place: Craven, North Carolina
 1 RIN ykShqnCGTrKlo3jKaDYo
+1 REFN 60ca38fc-1752-4f9f-9e0a-ec50d3368251
 0 @VkEBtutLTl208YQfz3Wa@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\North Carolina, Wills and Probate Re
@@ -8329,6 +8498,7 @@
 3 CONC : North Carolina. Division of Archives and History (Raleigh
 3 CONC , North Carolina); Probate Place: Craven, North Carolina
 1 RIN VkEBtutLTl208YQfz3Wa
+1 REFN 7b1e38e1-0e88-4956-b2bd-b101872fdd85
 0 @KTfIspXpS3KG8AOOglNV@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\North Carolina, Wills and Probate Re
@@ -8339,6 +8509,7 @@
 3 CONC : North Carolina. Division of Archives and History (Raleigh
 3 CONC , North Carolina); Probate Place: Craven, North Carolina
 1 RIN KTfIspXpS3KG8AOOglNV
+1 REFN 3948083b-b14e-4c1b-8a7f-dd4442756c11
 0 @pNksKxtbQM2Odwm5rjrH@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\North Carolina, Wills and Probate Re
@@ -8348,6 +8519,7 @@
 2 _TEXT Wills; Author: North Carolina. Superior Court (Craven County
 3 CONC ); Probate Place: Craven, North Carolina
 1 RIN pNksKxtbQM2Odwm5rjrH
+1 REFN 867ddbcc-2c9a-495e-bc50-43c79281f1ca
 0 @IImsnHW9SXipEuSqrlmj@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\North Carolina, Wills and Probate Re
@@ -8358,6 +8530,7 @@
 3 CONC : North Carolina. Division of Archives and History; Probat
 3 CONC e Place: Craven, North Carolina
 1 RIN IImsnHW9SXipEuSqrlmj
+1 REFN ba88c5c1-a389-4378-98a6-b67c99d491a7
 0 @qjQqPIgXQReLVKJT6WEW@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\North Carolina, Wills and Probate Re
@@ -8368,6 +8541,7 @@
 3 CONC : North Carolina. Division of Archives and History; Probat
 3 CONC e Place: Craven, North Carolina
 1 RIN qjQqPIgXQReLVKJT6WEW
+1 REFN 482ea240-eb36-4693-b03e-c4748fd734e1
 0 @LFuadIzCSRWgFxNuVJLf@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\North Carolina, Wills and Probate Re
@@ -8378,6 +8552,7 @@
 3 CONC : North Carolina. Division of Archives and History; Probat
 3 CONC e Place: Craven, North Carolina
 1 RIN LFuadIzCSRWgFxNuVJLf
+1 REFN cdba8379-8e75-4f2d-993e-3d0cea902cf9
 0 @elpFFWtcT7KMXmH9tcxo@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\North Carolina, Wills and Probate Re
@@ -8388,6 +8563,7 @@
 3 CONC : North Carolina. Division of Archives and History; Probat
 3 CONC e Place: Craven, North Carolina
 1 RIN elpFFWtcT7KMXmH9tcxo
+1 REFN 1424d41b-8b78-483f-ba2f-dcafc9f1ae65
 0 @oydQchpfTGutWuszkMZV@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\North Carolina, Wills and Probate Re
@@ -8398,6 +8574,7 @@
 3 CONC : North Carolina. Division of Archives and History; Probat
 3 CONC e Place: Craven, North Carolina
 1 RIN oydQchpfTGutWuszkMZV
+1 REFN 24f649bb-8020-4f1e-9ff2-9e356f32566f
 0 @smoE4mf1SDuksme4I1Ue@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\North Carolina, Wills and Probate Re
@@ -8408,6 +8585,7 @@
 3 CONC : North Carolina. Division of Archives and History; Probat
 3 CONC e Place: Craven, North Carolina
 1 RIN smoE4mf1SDuksme4I1Ue
+1 REFN 79f35ab0-5811-404d-b45a-5df566ebe43f
 0 @e6tinBJkSaeXAI2tc8YE@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\North Carolina, Wills and Probate Re
@@ -8418,6 +8596,7 @@
 3 CONC : North Carolina. Division of Archives and History (Raleigh
 3 CONC , North Carolina); Probate Place: Craven, North Carolina
 1 RIN e6tinBJkSaeXAI2tc8YE
+1 REFN ad8c1e94-ac88-4082-95f9-4a753e8d0322
 0 @EAqk46sHTqmcjQYf0ggb@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\North Carolina, Wills and Probate Re
@@ -8428,6 +8607,7 @@
 3 CONC : North Carolina. Division of Archives and History (Raleigh
 3 CONC , North Carolina); Probate Place: Craven, North Carolina
 1 RIN EAqk46sHTqmcjQYf0ggb
+1 REFN dfe181eb-2f89-4527-9314-e85f6856b84e
 0 @AsOUYYW5Qoedm1d8Y3yr@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\North Carolina, Wills and Probate Re
@@ -8438,6 +8618,7 @@
 3 CONC : North Carolina. Division of Archives and History (Raleigh
 3 CONC , North Carolina); Probate Place: Craven, North Carolina
 1 RIN AsOUYYW5Qoedm1d8Y3yr
+1 REFN f67422bc-9048-4077-96af-56589b22d738
 0 @6lP348eSQyWwoMDpZJ80@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\North Carolina, Wills and Probate Re
@@ -8448,6 +8629,7 @@
 3 CONC : North Carolina. Division of Archives and History (Raleigh
 3 CONC , North Carolina); Probate Place: Craven, North Carolina
 1 RIN 6lP348eSQyWwoMDpZJ80
+1 REFN 66a3ff8f-b966-4624-9a36-1fe26f87aab8
 0 @gJNVrCANTziaeyozsdYX@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\North Carolina, Wills and Probate Re
@@ -8458,6 +8640,7 @@
 3 CONC : North Carolina. Division of Archives and History (Raleigh
 3 CONC , North Carolina); Probate Place: Craven, North Carolina
 1 RIN gJNVrCANTziaeyozsdYX
+1 REFN c263b80b-f37c-4fcb-83d9-d4c60fe58ee2
 0 @GoTscwJiQxeNwRnwnESJ@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\North Carolina, Wills and Probate Re
@@ -8468,6 +8651,7 @@
 3 CONC : North Carolina. Division of Archives and History (Raleigh
 3 CONC , North Carolina); Probate Place: Craven, North Carolina
 1 RIN GoTscwJiQxeNwRnwnESJ
+1 REFN 61f2d1b7-f75c-4f11-9c08-dc2c194400fb
 0 @PiRm6RvmQJSzxMM3iIJ5@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\North Carolina, Wills and Probate Re
@@ -8478,6 +8662,7 @@
 3 CONC : North Carolina. Division of Archives and History (Raleigh
 3 CONC , North Carolina); Probate Place: Craven, North Carolina
 1 RIN PiRm6RvmQJSzxMM3iIJ5
+1 REFN cf9a99e5-652b-41c8-8b5d-f817445a1b90
 0 @Bpx8RioXQWyfMxjdKmpt@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\North Carolina, Wills and Probate Re
@@ -8488,6 +8673,7 @@
 3 CONC : North Carolina. Division of Archives and History (Raleigh
 3 CONC , North Carolina); Probate Place: Craven, North Carolina
 1 RIN Bpx8RioXQWyfMxjdKmpt
+1 REFN 0e0efdf2-5870-4e5a-81ce-86548f90d692
 0 @TN3qHbwLR7K4BPSdSckj@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\North Carolina, Wills and Probate Re
@@ -8498,6 +8684,7 @@
 3 CONC : North Carolina. Division of Archives and History (Raleigh
 3 CONC , North Carolina); Probate Place: Craven, North Carolina
 1 RIN TN3qHbwLR7K4BPSdSckj
+1 REFN 5241a6e5-e46b-4855-9d68-627b7c1ea45c
 0 @Xwkt7I2JTxaFsFmbErII@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\North Carolina, Wills and Probate Re
@@ -8508,6 +8695,7 @@
 3 CONC : North Carolina. Division of Archives and History (Raleigh
 3 CONC , North Carolina); Probate Place: Craven, North Carolina
 1 RIN Xwkt7I2JTxaFsFmbErII
+1 REFN 350ae0ef-6fbf-486d-943e-425d062874cb
 0 @SaojxmpDQpe4sivn7y2d@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\North Carolina, Wills and Probate Re
@@ -8518,6 +8706,7 @@
 3 CONC : North Carolina. Division of Archives and History (Raleigh
 3 CONC , North Carolina); Probate Place: Craven, North Carolina
 1 RIN SaojxmpDQpe4sivn7y2d
+1 REFN 3ade8c23-356e-4f77-a134-e5e0122d0631
 0 @V1FVeIMgRf2P64cltLK7@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\North Carolina, Wills and Probate Re
@@ -8528,6 +8717,7 @@
 3 CONC : North Carolina. Division of Archives and History (Raleigh
 3 CONC , North Carolina); Probate Place: Craven, North Carolina
 1 RIN V1FVeIMgRf2P64cltLK7
+1 REFN 1820fef4-1f7c-43c6-9b63-760d990e7427
 0 @juNYW2SDTYuLPIn43XUj@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\North Carolina, Wills and Probate Re
@@ -8538,6 +8728,7 @@
 3 CONC : North Carolina. Division of Archives and History (Raleigh
 3 CONC , North Carolina); Probate Place: Craven, North Carolina
 1 RIN juNYW2SDTYuLPIn43XUj
+1 REFN e1a160a9-f789-4568-8714-8f86f2f3ada7
 0 @9scy8iTSQE2IUkmbztAw@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\North Carolina, Wills and Probate Re
@@ -8548,6 +8739,7 @@
 3 CONC : North Carolina. Division of Archives and History (Raleigh
 3 CONC , North Carolina); Probate Place: Craven, North Carolina
 1 RIN 9scy8iTSQE2IUkmbztAw
+1 REFN c1efd41d-e537-4a37-8541-306b26bee92b
 0 @iJRVZ63aQi2hhlOFfiAy@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\North Carolina, Wills and Probate Re
@@ -8558,6 +8750,7 @@
 3 CONC : North Carolina. Division of Archives and History; Probat
 3 CONC e Place: Craven, North Carolina
 1 RIN iJRVZ63aQi2hhlOFfiAy
+1 REFN fea9ebb9-74e5-4d5c-9439-00967f7bb3b4
 0 @8I98iVuCTfySw4BYvT2n@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\North Carolina, Wills and Probate Re
@@ -8568,6 +8761,7 @@
 3 CONC : North Carolina. Division of Archives and History; Probat
 3 CONC e Place: Craven, North Carolina
 1 RIN 8I98iVuCTfySw4BYvT2n
+1 REFN c01fd3a0-7a2c-46ff-9197-46a0c077d4aa
 0 @LdXct7uyRyeHdNcHnona@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\North Carolina, Wills and Probate Re
@@ -8578,6 +8772,7 @@
 3 CONC : North Carolina. Division of Archives and History; Probat
 3 CONC e Place: Craven, North Carolina
 1 RIN LdXct7uyRyeHdNcHnona
+1 REFN 9964e0bc-fef8-4ed9-9722-e5e8d40da2dd
 0 @O9bkckQcS3m0T4h7Ig7H@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\North Carolina, Wills and Probate Re
@@ -8588,6 +8783,7 @@
 3 CONC : North Carolina. Division of Archives and History; Probat
 3 CONC e Place: Craven, North Carolina
 1 RIN O9bkckQcS3m0T4h7Ig7H
+1 REFN d267b5bf-5e30-4768-a110-baf69bec3eca
 0 @UfChZAEjRPuDk5jT1aLN@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\North Carolina, Wills and Probate Re
@@ -8598,6 +8794,7 @@
 3 CONC : North Carolina. Division of Archives and History; Probat
 3 CONC e Place: Craven, North Carolina
 1 RIN UfChZAEjRPuDk5jT1aLN
+1 REFN 09689241-b5f9-4744-8de3-d134fa814dec
 0 @LCBrr0y8QuWDueC5l1Tc@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\North Carolina, Wills and Probate Re
@@ -8608,6 +8805,7 @@
 3 CONC : North Carolina. Division of Archives and History; Probat
 3 CONC e Place: Craven, North Carolina
 1 RIN LCBrr0y8QuWDueC5l1Tc
+1 REFN f1fc6d76-594e-426f-9bfc-f6252d955084
 0 @LEv5Ol76QVKSnB8mZt0x@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\North Carolina, Wills and Probate Re
@@ -8618,6 +8816,7 @@
 3 CONC : North Carolina. Division of Archives and History; Probat
 3 CONC e Place: Craven, North Carolina
 1 RIN LEv5Ol76QVKSnB8mZt0x
+1 REFN 2bb3af46-9c52-411c-a51f-510541998f0f
 0 @kW2A1QYTRiam9HUhUCcx@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\North Carolina, Wills and Probate Re
@@ -8628,6 +8827,7 @@
 3 CONC : North Carolina. Division of Archives and History; Probat
 3 CONC e Place: Craven, North Carolina
 1 RIN kW2A1QYTRiam9HUhUCcx
+1 REFN 1c68dec1-7272-49c8-a7a7-a0f9420bd80c
 0 @f2pXg6CmQ62abqig7aQY@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\U.S. Federal Census Mortality Schedu
@@ -8636,6 +8836,7 @@
 2 TITL U.S. Federal Census Mortality Schedules, 1850-1885
 2 _TEXT Census Year: 1880; Census Location: Craven, North Carolina
 1 RIN f2pXg6CmQ62abqig7aQY
+1 REFN 178391fe-ad43-49dc-8e70-d8decbcd5ae5
 0 @ogJRl4gbTG2dAio9oagu@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\U.S., Newspaper Extractions from th
@@ -8643,6 +8844,7 @@
 2 FORM jpg
 2 TITL U.S., Newspaper Extractions from the Northeast, 1704-1930
 1 RIN ogJRl4gbTG2dAio9oagu
+1 REFN 7f5338f6-dbd1-4e9a-8dff-4be2d7f2589b
 0 @hk3vdsHfQuC5mDxzPoOp@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\Virginia, Marriages of the Norther
@@ -8651,6 +8853,7 @@
 2 TITL Virginia, Marriages of the Northern Neck of Virginia, 1649-1
 3 CONC 800
 1 RIN hk3vdsHfQuC5mDxzPoOp
+1 REFN 5079bba3-e55f-4d23-be89-aebe625d47fc
 0 @dK7yMiR1Qgy8KneV5SsQ@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\Virginia, Marriages of the Norther
@@ -8659,6 +8862,7 @@
 2 TITL Virginia, Marriages of the Northern Neck of Virginia, 1649-1
 3 CONC 800
 1 RIN dK7yMiR1Qgy8KneV5SsQ
+1 REFN 50671205-5c47-434b-b8b1-2fb397a7ed42
 0 @O169@ OBJE
 1 FILE http://trees.ancestry.com/rd?f=image&guid=2c04c8e0-efeb-476e
 2 CONC -9b9d-c6b8ee1c3d25&tid=61407337
@@ -8670,134 +8874,5 @@
 2 FORM jpg
 2 TITL Wade Zachary land fr Margaret Brent
 1 RIN O169
-0 @T819@ NOTE "Edward"
-1 REFN 7987faf0-b8a6-45f5-9fd5-232b6fdcf0af
-1 RIN T819
-0 @T473@ NOTE 1190 acres
-1 REFN 2f74be20-78ac-46ac-aac8-8f9b55073e89
-1 RIN T473
-0 @T948@ NOTE 320 acres
-1 REFN deea408b-b2af-4a96-9edb-411b74ce17c7
-1 RIN T948
-0 @T947@ NOTE 941 acres
-1 REFN 0c2ed4e6-033d-4571-bcb5-840c44bd068a
-1 RIN T947
-0 @T968@ NOTE Bond #24993
-1 CONT Bondsmen: Samuel Chapman, J. K. Morgan
-1 CONT Witness: S. Chapman
-1 REFN 6c14d1b1-edb1-4aae-918b-3b784457fc68
-1 RIN T968
-0 @T966@ NOTE Bond #25783
-1 CONT Bondsman: Albert G. Hubb
-1 CONT Witness: J. G. Stanly
-1 REFN a484c52f-3444-406f-936e-ca044a5a8f06
-1 RIN T966
-0 @T964@ NOTE Killed by Native Americans.
-1 REFN 128c1fdd-863a-43d5-94b6-6f4f6c222d48
-1 RIN T964
-0 @T910@ NOTE One of the original trustees of the College of William and M
-1 CONC ary.
-1 REFN 9c53edbf-828f-4fc6-987c-b55e1512c9c8
-1 RIN T910
-0 @T474@ NOTE Place is from Ancestral File. (or could be Weyanoke)
-1 REFN bd54fd81-0869-4f87-a9bf-d83a79e8e987
-1 RIN T474
-0 @T914@ NOTE Since Elias, Barabara, anbd Silvanus are the only Justices l
-1 CONC isted in Craven Co. in this census, I assume that they are t
-1 CONC his Elias and his mother Barbara, and his grandfather Silvan
-1 CONC us.
-1 REFN a8550c42-926e-48b5-910d-d8f6e28351ab
-1 RIN T914
-0 @T946@ NOTE The 1810 Census for Craven County was lost. Assume she live
-1 CONC d with her husband in New Bern at the time.
-1 REFN abdfd718-ece3-44cd-9963-8e38bf48a159
-1 RIN T946
-0 @T632@ NOTE The 1810 US Census for Craven County is lost. Assume he live
-1 CONC d in New Bern at the time.
-1 REFN 16086798-44f2-435a-b527-1200804c903c
-1 RIN T632
-0 @T487@ NOTE This John Justice may be the same person referred to by th
-1 CONC e "Dr. John R. Justice House" at this address.
-1 REFN a0989f1c-cfbc-498b-8f5a-1c015489cfd1
-1 RIN T487
-0 @T963@ NOTE Year is given as "167_"; 1676 is a guess. Place is from RGB2
-1 CONC 4.GED.
-1 REFN c1ea370e-4424-4189-a0e5-14eca2f3a4c9
-1 RIN T963
-0 @T960@ NOTE based on birth years of children
-1 REFN c517b659-b0df-40e9-a94f-1f75e078cb6a
-1 RIN T960
-0 @T1034@ NOTE bond #27618 (see also Raleigh Register newspaper Jan. 14, 18
-1 CONC 08)
-1 REFN 11c9c60e-afa2-493f-9fb8-eb7d2b70e752
-1 RIN T1034
-0 @T643@ NOTE could this be Nicholas Moger, b c 1637, brother of Hugh Moge
-1 CONC r/Mosher?
-1 REFN 8ad87880-2672-4022-855c-3a2d029e2ea5
-1 RIN T643
-0 @T1088@ NOTE date is a guess;
-1 CONT findagrave.com lists it as "Cedar Grove Cemetery" (Find A Gr
-1 CONC ave Memorial# 28305030)
-1 REFN 1de01e60-bf3c-4aa1-953f-8c50f3568821
-1 RIN T1088
-0 @T692@ NOTE date is from Steve Williamson
-1 REFN b53ba1aa-b7af-4011-9477-c604b68b7c33
-1 RIN T692
-0 @T451@ NOTE family had 11 slaves in 1790 census
-1 REFN 268d742d-f112-4313-a5c0-2339f3a79e39
-1 RIN T451
-0 @T820@ NOTE from Jeanne Ratliff Barfield
-1 REFN ed7c36cf-70af-433e-ac4e-673696808aaa
-1 RIN T820
-0 @T669@ NOTE household had 11 slaves
-1 REFN 05895995-b41c-4d84-902c-9719e1b093c4
-1 RIN T669
-0 @T667@ NOTE household had 22 slaves
-1 REFN 2c1f83de-ad5c-429f-bfe3-8322e194d6c9
-1 RIN T667
-0 @T668@ NOTE household had 35 slaves
-1 REFN 309c2651-f266-4f82-94a2-955f9d946d5b
-1 RIN T668
-0 @T450@ NOTE in the afternoon
-1 REFN 15f7a0c4-b2d8-4037-81d1-5210dcc83e91
-1 RIN T450
-0 @T634@ NOTE indentured to the Farrar plantation
-1 REFN 66f4a3eb-0f14-421c-aed5-3018f43cc397
-1 RIN T634
-0 @T913@ NOTE not sure if this will belongs to this Silvanus Justice
-1 REFN 0c7b217c-6a1f-4a96-9b43-4dfa79872f2a
-1 RIN T913
-0 @T471@ NOTE of the House of Burgesses
-1 REFN ec1d6fb1-47ef-4e41-b2ff-fc27e3e2c15f
-1 RIN T471
-0 @T862@ NOTE on ship "Southampton", from London
-1 REFN 513c949f-e227-47a9-a0cf-bfb4d0ea41ad
-1 RIN T862
-0 @T472@ NOTE or Weynoke Parish, Charles City, VA
-1 REFN 6662af23-fc78-4cf4-9b4e-0a0f779a1819
-1 RIN T472
-0 @T962@ NOTE palce is from RGB24.GED
-1 REFN ff32884d-c578-4d88-8e43-ba9ece74bf72
-1 RIN T962
-0 @T593@ NOTE place is assumed
-1 REFN 65e38143-51fe-4bc3-86a3-435be5a4aceb
-1 RIN T593
-0 @T945@ NOTE place is from Ancestral File
-1 REFN d6419019-8d30-4bb3-8ff6-c61cb15d88fb
-1 RIN T945
-0 @T965@ NOTE place is from Ancestral File
-1 REFN f76dcad1-018c-40a4-9b7d-d72494be8841
-1 RIN T965
-0 @T475@ NOTE place is just a guess
-1 REFN 0edaa049-7015-428c-b951-57dacb22502c
-1 RIN T475
-0 @T912@ NOTE place of death is assumed
-1 REFN 8c929c18-01a6-44a1-a9ec-7f2e61f50060
-1 RIN T912
-0 @T612@ NOTE to Captain John Harvey
-1 REFN a2fa98b5-0f40-45d1-9524-ee66f8bc560a
-1 RIN T612
-0 @T961@ NOTE to Peter Hayes
-1 REFN 5f881002-0475-449a-a0ce-faa57461c65b
-1 RIN T961
+1 REFN d251db7b-384f-4285-bd23-3b285a995676
 0 TRLR

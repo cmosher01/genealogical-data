@@ -14,10 +14,11 @@
 1 SUBM @Umy2qBWIRUiwVSS6Hcn4@
 1 FILE Mosher_Disosway_Harrison_Pazmino_2017-08-03.ged
 1 DATE 19 SEP 2017
-2 TIME 20:22:10
+2 TIME 21:52:59
 0 @Umy2qBWIRUiwVSS6Hcn4@ SUBM
 1 NAME Christopher Alan Mosher
 1 RIN Umy2qBWIRUiwVSS6Hcn4
+1 REFN 010aa19c-c01c-40cd-9e0d-e5dc7ceed472
 0 @I730@ INDI
 1 _XY 74288 1215
 1 REFN cc6bfe8f-cb26-42a2-b11b-bbe1862de737
@@ -46,7 +47,7 @@
 3 _APID 1,70572::470418
 2 SOUR @S-313778072@
 3 _APID 1,60525::30656528
-2 NOTE @T1071@
+2 NOTE place is just a guess
 1 DEAT
 2 DATE 19 JAN 1894
 2 PLAC Oneida Castle, Oneida, New York, USA
@@ -59,7 +60,8 @@
 3 _APID 1,70572::470418
 2 SOUR @S-313778072@
 3 _APID 1,60525::30656528
-2 NOTE @T1073@
+2 NOTE at 7:30 AM EST, of pneumonia; place is assumed from residenc
+3 CONC e of father (and he was burried in Oneida Castle Cemetery)
 1 BURI
 2 PLAC Oneida, Madison County, New York, USA
 3 MAP
@@ -227,7 +229,9 @@
 4 CONC roup Title: Records of the Selective Service System; Recor
 4 CONC d Group Number: 14
 3 OBJE @3Nl8d0oQScaXkqFmX0Yi@
-2 NOTE @T1016@
+2 NOTE Posthumously. Place is assumed to be uncle James Colvin's ho
+3 CONC use (where his father and presumably the whole family move
+3 CONC d into when his father became sick).
 1 RESI
 2 DATE 1900
 2 PLAC Eaton, Madison, New York, USA
@@ -347,7 +351,7 @@
 2 DATE BEF 1951
 2 SOUR @S7@
 3 QUAY 3
-2 NOTE @T1007@
+2 NOTE issued through Railroad Board
 1 DEAT
 2 DATE 20 FEB 1979
 2 PLAC Waverly, Tioga, New York, USA
@@ -367,7 +371,10 @@
 3 QUAY 2
 2 SOUR @S-313778072@
 3 _APID 1,60525::64177499
-2 NOTE @T1113@
+2 NOTE Place of last residence is given as Waverly, Tioga, NY, so a
+3 CONC ssume that is the place of death, also. 20th is from U.S., D
+3 CONC epartment of Veterans Affairs BIRLS Death File, 1850-2010 (a
+3 CONC ncestry.com)
 1 BURI
 2 PLAC Chemung Village Cemetery, Chemung, Chemung, New York, USA
 2 SOUR @S-340037888@
@@ -376,6 +383,7 @@
 3 _APID 1,60525::64177499
 0 @P992@ INDI
 1 _XY 73775 1147
+1 REFN d6317935-4b28-4b1d-8a57-96068e877c4e
 1 RIN P992
 1 NAME Cornelia /Colvin/
 2 SOUR @S-340166898@
@@ -413,6 +421,7 @@
 2 NOTE Marital Status: Single; Relation to Head of House: Daughter
 0 @P985@ INDI
 1 _XY 72966 1074
+1 REFN ac53ccc1-18b1-4ca3-af34-eb36e341e0ba
 1 RIN P985
 1 NAME Cornelia O. wife of James /Colvin/
 2 SOUR @S-340037973@
@@ -613,7 +622,9 @@
 3 QUAY 1
 2 SOUR @S-313778072@
 3 _APID 1,60525::78010130
-2 NOTE @T762@
+2 NOTE This source says Ellen was the "only daughter of James." I'
+3 CONC m assuming there were other sons, and that the daughter(s?
+3 CONC ) listed 1830 and 1840 census also already died (young).
 1 BURI
 2 DATE ABT 10 MAR 1848
 2 PLAC Evergreen Cemetery, Cazenovia, Madison, New York, USA
@@ -729,6 +740,7 @@
 2 NOTE Age: 15; Census Post Office: Cazenovia
 0 @P982@ INDI
 1 _XY 73113 1176
+1 REFN f32081c5-62d4-435e-b863-dc0b9856f4d9
 1 RIN P982
 1 NAME Frank /Colvin/
 2 SOUR @S-313778072@
@@ -757,6 +769,7 @@
 3 _APID 1,60525::12390006
 0 @P983@ INDI
 1 _XY 73218 1182
+1 REFN 78fc043f-d76b-4f12-af1a-8e8f93c52345
 1 RIN P983
 1 NAME Harriet M. /Colvin/
 2 SOUR @S-340166898@
@@ -888,14 +901,16 @@
 2 SOUR @S-301664923@
 3 _APID 1,7218::1906355
 3 OBJE @QzUUIDyoSPq6gLUDMJTm@
-2 NOTE @T453@
+2 NOTE There are discrepancies in the ages given by James in variou
+3 CONC s censuses for him and his wife.
 1 RESI
 2 DATE FROM 1829 TO 1847
 2 PLAC Onondaga, New York, USA
 3 MAP
 4 LATI N43.2291
 4 LONG W76.1427
-2 NOTE @T781@
+2 NOTE Starting date is before 1830. Ending date is a guess, base
+3 CONC d on child Thomas who b. c. 1845 in Onondaga Co.
 1 CENS
 2 DATE 01 JUN 1830
 2 PLAC Lysander, Onondaga, New York, USA
@@ -942,7 +957,7 @@
 3 PAGE vol. BI, p. 154
 3 OBJE @O93@
 2 OBJE @O93@
-2 NOTE @T1108@
+2 NOTE 1875 NY census shows son James born c1846, Onondaga Co,
 1 PROP bought land from Elisha Farnham
 2 DATE 30 JUL 1847
 2 PLAC Farnham Street, Cazenovia, Madison, New York, USA
@@ -997,7 +1012,7 @@
 2 SOUR @S246@
 3 PAGE v. BQ, p. 243
 3 QUAY 3
-2 NOTE @T185@
+2 NOTE [with Henrietta]
 1 PROP bought land, north of intersection of Corwin and Sweetland S
 2 CONC treets to the Cazenovia line
 2 DATE 10 APR 1851
@@ -1049,7 +1064,8 @@
 3 _LINK http://www.historicmapworks.com/Map/US/705734/Cazenovia+1852
 4 CONC +36x46/
 3 PAGE 3 locations
-2 NOTE @T761@
+2 NOTE house is between Lincklaen Street and Farnham Street, on nor
+3 CONC th side of street
 1 PROP sold land, Cazenovia township: beginning from SE corner of l
 2 CONC ot 81:  `W 3.425c  N01.00E 19.180c  N89.15W 03.500c  S01.30
 2 CONC W 19.200c  S89.00E 03.425c
@@ -1189,7 +1205,7 @@
 4 LONG W75.7369
 2 SOUR @S160@
 3 QUAY 3
-2 NOTE @T63@
+2 NOTE until death?
 1 PROP bought land on east side of Sweetland Street, near corner o
 2 CONC f Corwin Street
 2 DATE 05 APR 1855
@@ -1228,7 +1244,13 @@
 3 QUAY 2
 2 SOUR @S192@
 3 PAGE b. 1, p. 6
-2 NOTE @T186@
+2 NOTE house on what is now Wilcox Road (which runs between NY Stat
+3 CONC e Route 80 and Chapman Road) which is now a dirt road, and d
+3 CONC oesn't go all the way through. Heading from Route 80 (just i
+3 CONC nside Georgetown from the De Ruyter township line), take a r
+3 CONC ight on the first road in Georgetown. This is Wilcox Road. T
+3 CONC he map shows J. Covin less than half a mile up this road o
+3 CONC n the left.
 1 CENS
 2 DATE 01 JUN 1860
 2 PLAC Georgetown, Madison, New York, USA
@@ -1290,7 +1312,8 @@
 3 QUAY 1
 2 SOUR @S-313778072@
 3 _APID 1,60525::41925922
-2 NOTE @T1106@
+2 NOTE because his wife Henrietta is alone in 1870 census, and Jame
+3 CONC s is not found in 1870 census
 1 BURI
 2 PLAC Evergreen Cemetery, Cazenovia, Madison, New York, USA
 2 SOUR @S-313778072@
@@ -1433,7 +1456,7 @@
 2 SOUR @S-339390060@
 3 _APID 1,3212::3149984
 3 OBJE @U8XdEZw4QQCdB9Wk2gdF@
-2 NOTE @T1107@
+2 NOTE place is from 1875 NY census
 1 RESI
 2 DATE 1850
 2 PLAC Cazenovia, Madison, New York, USA
@@ -1839,6 +1862,7 @@
 3 _APID 1,70572::6465138
 0 @P2609@ INDI
 1 _XY 72793 1182
+1 REFN e8b0620a-fa9e-41d7-9ea7-eefca1786659
 1 RIN P2609
 1 NAME Lena May wife of William /Colvin/
 2 SOUR @S-322419782@
@@ -1963,7 +1987,7 @@
 3 _APID 1,70572::6742837
 2 SOUR @S-313778072@
 3 _APID 1,60525::30656541
-2 NOTE @T1074@
+2 NOTE of inflammatory rheumatism, at 4:00 PM EST
 1 BURI
 2 PLAC Oneida Castle Cemetery, Oneida, Madison, New York, USA
 2 SOUR @S-340037888@
@@ -2186,7 +2210,8 @@
 2 SOUR @S-301664923@
 3 _APID 1,7218::1912331
 3 OBJE @QzUUIDyoSPq6gLUDMJTm@
-2 NOTE @T1147@
+2 NOTE Date is from 1900 census (where she is the wife of Isaac Mar
+3 CONC sh in Hamilton, NY).
 1 RESI
 2 DATE 1855
 2 PLAC Georgetown, Madison, New York, USA
@@ -2300,6 +2325,7 @@
 4 LONG W74.2224
 0 @P991@ INDI
 1 _XY 73686 1080
+1 REFN 59f869f7-bdee-4448-863c-2c6a8e12fa73
 1 RIN P991
 1 NAME Mary wife of John /Colvin/
 2 SOUR @S-340166898@
@@ -2500,29 +2526,36 @@
 2 SOUR @UmsKbAYOQB6aapLuVzmU@
 3 _APID 1,61377::900142590
 3 OBJE @lzMp77vxT1SLud1iom7x@
-2 NOTE @T65@
+2 NOTE date from SSDI
 1 RESI
 2 DATE FROM 16 MAY 1882 TO 1886
 2 PLAC Morrisville, Eaton, Madison, New York, USA
-2 NOTE @T1008@
+2 NOTE Assumed based on parents' residence. End date is a guess.
 1 RESI
 2 DATE FROM 1886 TO 09 FEB 1894
 2 PLAC Oneida Castle, Oneida, New York, USA
 3 MAP
 4 LATI N43.0826
 4 LONG W75.6335
-2 NOTE @T1014@
+2 NOTE Assumed based on father.
 1 RESI
 2 DATE FROM 09 FEB 1894 TO 1897
 2 PLAC Siloam, Smithfield, Madison, New York, USA
-2 NOTE @T1015@
+2 NOTE Assume she lived with her uncle James Colvin after her fathe
+3 CONC r died. Then assume she moved along with James sometime befo
+3 CONC re 1900 census, maybe after mother died in 1897.
 1 RESI
 2 DATE FROM 1897 TO 1903
 2 PLAC Madison, Madison, New York, USA
 3 MAP
 4 LATI N42.899
 4 LONG W75.5121
-2 NOTE @T1017@
+2 NOTE Assume she moved (after her mother's death) with her uncle J
+3 CONC ames to Madison, where they appear in 1900 census. Assume sh
+3 CONC e moved out around age 21. Possibly her brother Clarence a
+3 CONC t this time moved in with their grandfather Aaron Spohn(er)
+3 CONC , where he is listed as "Clarence Spooner" in the 1900 censu
+3 CONC s (in Morrisville).
 1 CENS
 2 DATE 01 JUN 1900
 2 PLAC Madison, Madison, New York, USA
@@ -2553,7 +2586,14 @@
 1 RESI
 2 DATE FROM 1903 TO 29 JUL 1908
 2 PLAC Payne Street, Hamilton, Madison, New York, USA
-2 NOTE @T1013@
+2 NOTE Alta Benedict says she lived at "Payne" in Hamilton, when Le
+3 CONC wis worked at bakery, when they met. Also, on back of portra
+3 CONC it of Bertie Colvin, the note says, "Brother to Pearl Colvi
+3 CONC n "Mosher" Payne St Hamilton Bertie Colvin 14...." Bertie wa
+3 CONC s b. c. 1881, so would be 14 in c. 1895, so must be after 18
+3 CONC 95. Maybe when she turned 21, she moved out of her uncle Jam
+3 CONC es's house and into this house on Payne St. Assume she move
+3 CONC d with husband to Solsville when they got married.
 1 CENS
 2 DATE 01 JUN 1905
 2 PLAC Payne Street, Hamilton, Madison, New York, USA
@@ -2608,7 +2648,7 @@
 3 MAP
 4 LATI N42.9106
 4 LONG W75.5181
-2 NOTE @T1018@
+2 NOTE Assume lived with husband after they were married.
 1 CENS
 2 DATE 15 APR 1910
 2 PLAC Lebanon, Madison, New York, USA
@@ -2770,7 +2810,7 @@
 2 DATE FROM 1949 TO AUG 1968
 2 PLAC 9 Eaton Street, Hamilton, Madison, New York, USA
 2 SOUR @S196@
-2 NOTE @T659@
+2 NOTE dates are approximate
 1 EVEN
 2 TYPE photograph
 2 DATE ABT 1950
@@ -2813,7 +2853,14 @@
 3 QUAY 1
 2 SOUR @S-313778072@
 3 _APID 1,60525::47590333
-2 NOTE @T1111@
+2 NOTE SSDI gives Sep 1968; and funeral receipt (in possession of C
+3 CONC hris Mosher) is dated 17 Sep 1968. Transcript of death recor
+3 CONC ds in Madison Town says died Madison, resided Hamilton, leng
+3 CONC th of stay 1 month. I interpret this to mean she lived a
+3 CONC t 9 Eaton St., Hamilton, then she became sick and moving i
+3 CONC n with one of her children back at the farm house, then die
+3 CONC d about a month later. Transcript also gives cause as corona
+3 CONC ry artereosclerosis (15 years).
 1 BURI
 2 DATE 21 SEP 1968
 2 PLAC Woodlawn Cemetery, Lebanon Street, Hamilton, Madison, New Yo
@@ -2829,7 +2876,7 @@
 2 SOUR @S-313778072@
 3 _APID 1,60525::47590333
 2 SOUR @S-313778072@
-2 NOTE @T1112@
+2 NOTE Funeral started at 10:30.
 1 SSN 056-38-7497
 2 PLAC Hamilton, Madison, New York, USA
 3 MAP
@@ -2918,13 +2965,15 @@
 3 QUAY 1
 2 SOUR @S-313778072@
 3 _APID 1,60525::78009637
-2 NOTE @T1093@
+2 NOTE not listed as kindred in her mother's probate records, so pr
+3 CONC obably died earlier
 1 BURI
 2 PLAC Evergreen Cemetery, Cazenovia, Madison, New York, USA
 2 SOUR @S-313778072@
 3 _APID 1,60525::78009637
 0 @P526@ INDI
 1 _XY 73848 853
+1 REFN 5990ae89-e6c7-4c50-8b8f-a058d1ccb66b
 1 RIN P526
 1 NAME unknown /Colvin/
 1 SEX M
@@ -2950,6 +2999,7 @@
 3 QUAY 1
 0 @P984@ INDI
 1 _XY 72970 1182
+1 REFN 5c2332b2-945d-432e-8711-8b53ed76acf0
 1 RIN P984
 1 NAME William Edwin /Colvin/
 2 SOUR @S-333148567@
@@ -3270,7 +3320,8 @@
 1 RESI
 2 DATE FROM 1875 TO 1886
 2 PLAC Morrisville, Eaton, Madison, New York, USA
-2 NOTE @T1009@
+2 NOTE Dates are just guesses. Not sure if actually in Morrisvill
+3 CONC e area, or somewhere else in Eaton Township.
 1 RESI
 2 DATE 03 JUL 1879
 2 PLAC Eaton, Madison, New York, USA
@@ -3279,7 +3330,7 @@
 4 LONG W75.6122
 2 SOUR @S162@
 3 QUAY 1
-2 NOTE @T61@
+2 NOTE lived in Eaton when married
 1 CENS
 2 DATE 01 JUN 1880
 2 PLAC Eaton, Madison, New York, USA
@@ -3291,7 +3342,8 @@
 1 EVEN
 2 TYPE name change
 2 DATE ABT 1880
-2 NOTE @T735@
+2 NOTE Started using "George William Colvin" probably just after h
+3 CONC e was married
 1 EVEN
 2 TYPE photograph
 2 DATE ABT 1885
@@ -3308,7 +3360,9 @@
 3 DATA
 4 TEXT 9. Date and Hour of Death:--Died on the 1 day of Mch 1894, a
 5 CONC t about 1015 A.M.
-2 NOTE @T959@
+2 NOTE This was his residence before moving to his brother James'
+3 CONC s house while he was sick, for about 4 weeks before his deat
+3 CONC h. Start date is just a guess.
 1 RESI
 2 DATE FROM 09 FEB 1894 TO 01 MAR 1894
 2 PLAC Siloam, Smithfield, Madison, New York, USA
@@ -3317,7 +3371,7 @@
 3 DATA
 4 TEXT 9. Date and Hour of Death:--Died on the 1 day of Mch 1894, a
 5 CONC t about 1015 A.M.
-2 NOTE @T243@
+2 NOTE sick at brother James Colvin's house
 1 DEAT
 2 DATE 01 MAR 1894
 2 PLAC Siloam, Smithfield, Madison, New York, USA
@@ -3330,7 +3384,9 @@
 5 CONC t about 1015 A.M.
 2 SOUR @S-313778072@
 3 _APID 1,60525::30656534
-2 NOTE @T242@
+2 NOTE At residence of brother James.
+3 CONT time: 10:15 AM ET,
+3 CONT cause: cancer of the stomach
 1 BURI
 2 DATE 03 MAR 1894
 2 PLAC Oneida Castle Cemetery, Oneida Castle, Oneida, New York, USA
@@ -3344,7 +3400,7 @@
 2 SOUR @S14@
 2 SOUR @S-313778072@
 3 _APID 1,60525::30656534
-2 NOTE @T1072@
+2 NOTE Pearl's note says burried on Sunday.
 0 @I2338@ INDI
 1 _XY 73522 950
 1 REFN 503db42b-8faa-45f5-9403-306dd9d78f63
@@ -3454,14 +3510,15 @@
 4 CONC : M653_780; Page: 78; Image: 83; Family History Library Film
 4 CONC : 803780
 3 OBJE @KecWaPqkS16uSmzfJDjP@
-2 NOTE @T1090@
+2 NOTE place is from 1850 census
 1 CENS
 2 DATE 1840
 2 PLAC Fenner, Madison, New York, USA
 3 MAP
 4 LATI N42.9694
 4 LONG W75.7872
-2 NOTE @T1091@
+2 NOTE 1840 US Census:
+3 CONT M20-29, F0-5, F20-29, F20-29
 1 RESI
 2 DATE 1840
 2 PLAC Fenner, Madison, New York, USA
@@ -3620,7 +3677,10 @@
 3 QUAY 2
 1 EVEN
 2 TYPE note
-2 NOTE @T1092@
+2 NOTE do not confuse with Charles Cranson b. 1806-04-10 d. 1835-03
+3 CONC -31 (Venice, NY) son of Caleb and Hannah Porter; or Charle
+3 CONC s Cranson b. 1824 d. 1850-01-12 son of Elisha and Abigail (N
+3 CONC abby) Read
 0 @I176@ INDI
 1 _XY 73651 947
 1 REFN 26db3c88-2305-422b-afd5-463a4d44aab8
@@ -3716,7 +3776,9 @@
 2 SOUR @S-301664923@
 3 _APID 1,7218::1912326
 3 OBJE @QzUUIDyoSPq6gLUDMJTm@
-2 NOTE @T782@
+2 NOTE Date is a very rough guess, as there are discrepancies in th
+3 CONC e ages given for her in various census records. 1830 and 184
+3 CONC 0 census give birth 1800-1810.
 1 CENS
 2 DATE 01 JUN 1830
 2 PLAC Lysander, Onondaga, New York, USA
@@ -3901,9 +3963,11 @@
 4 LONG W71.55
 2 SOUR @S480@
 3 QUAY 1
-2 NOTE @T1095@
+2 NOTE Other census records give New York as place. Date is jus
+3 CONC t a guess.
 0 @P1311@ INDI
 1 _XY 74704 1215
+1 REFN ec41a6e9-fc0b-4c28-88fd-2ec8189f7fdf
 1 RIN P1311
 1 NAME Lulu Blanche /Hughes/
 2 SOUR @S-340304048@
@@ -4098,6 +4162,7 @@
 3 _APID 1,60525::64178171
 0 @P986@ INDI
 1 _XY 74312 1077
+1 REFN 8cc17cbd-8fee-4e21-ad92-df4dbfe18f95
 1 RIN P986
 1 NAME Isaac B. /Marsh/
 2 SOUR @S-340038419@
@@ -4383,6 +4448,7 @@
 2 DATE 04 JUL 1984
 0 @P990@ INDI
 1 _XY 73925 1074
+1 REFN fe32b72f-92a9-4ae7-8780-0e0ec4cf66c7
 1 RIN P990
 1 NAME Jessie Ada /Seely/
 2 SOUR @S-340038419@
@@ -4617,6 +4683,7 @@
 1 DEAT
 2 DATE 01 JUN 1897
 0 @F_I729_P1311@ FAM
+1 REFN 90e95ed0-e859-4fcc-8b11-3976047bf154
 1 RIN F_I729_P1311
 1 HUSB @I729@
 1 WIFE @P1311@
@@ -4640,6 +4707,7 @@
 4 LATI N42.7531
 4 LONG W74.2224
 0 @F_I273_P985@ FAM
+1 REFN 30156ab2-5c2f-474d-abdf-7f0a9c62c37c
 1 RIN F_I273_P985
 1 HUSB @I273@
 1 WIFE @P985@
@@ -4655,6 +4723,7 @@
 4 CONC : 1241072
 3 OBJE @6HoMumU6R9GlVOksNDJT@
 0 @F_I276_P991@ FAM
+1 REFN 9da477ed-0858-4896-b2f1-59daca6a9b23
 1 RIN F_I276_P991
 1 HUSB @I276@
 1 WIFE @P991@
@@ -4666,6 +4735,7 @@
 4 LATI N42.9118
 4 LONG W75.6682
 0 @F_I276_P990@ FAM
+1 REFN da1c2f18-29d6-41d6-96e5-7ebcc71b5ca7
 1 RIN F_I276_P990
 1 HUSB @I276@
 1 WIFE @P990@
@@ -4678,11 +4748,13 @@
 4 CONC 1071
 3 OBJE @t03OgxrfSruefhuOKjHF@
 0 @F_P526_I532@ FAM
+1 REFN 19432323-132d-4423-a76d-04b29a478159
 1 RIN F_P526_I532
 1 HUSB @P526@
 1 CHIL @I532@
 1 CHIL @I175@
 0 @F_P984_P2609@ FAM
+1 REFN 036ebb0c-2123-4c14-a0e1-de8fb9e80a1d
 1 RIN F_P984_P2609
 1 HUSB @P984@
 1 WIFE @P2609@
@@ -4703,13 +4775,15 @@
 4 LONG W75.6481
 2 SOUR @S162@
 3 QUAY 2
-2 NOTE @T104@
+2 NOTE by Reverend S. M. Dodge (from family interviews)
 0 @F_I2339_I2338@ FAM
+1 REFN 8a9699b4-3773-4591-bae2-14174d712336
 1 RIN F_I2339_I2338
 1 HUSB @I2339@
 1 CHIL @I2338@
 1 CHIL @I176@
 0 @F_P986_I274@ FAM
+1 REFN fa3df241-8ee9-42d5-9713-5f8cce6b6ac6
 1 RIN F_P986_I274
 1 HUSB @P986@
 1 WIFE @I274@
@@ -4754,7 +4828,9 @@
 2 SOUR @UmsKbAYOQB6aapLuVzmU@
 3 _APID 1,61377::142590
 3 OBJE @lzMp77vxT1SLud1iom7x@
-2 NOTE @T1103@
+2 NOTE By F. W. Tomlinson, Minister.
+3 CONT Alta Benedict says they were married in the house they rente
+3 CONC d in Solsville.
 1 EVEN
 2 TYPE photograph (M)
 2 DATE 29 JUL 1908
@@ -4763,21 +4839,25 @@
 4 LATI N42.899
 4 LONG W75.5121
 2 SOUR @S504@
-2 NOTE @xpFn6fkWTW65znujj8ED@
+2 NOTE wedding photograph, probably taken near Solsville (in Madiso
+3 CONC n Township, Madison County, NY), where they were married
 0 @R-899050557@ REPO
 1 NAME Ancestry.com
 1 ADDR http://www.Ancestry.com
 1 EMAIL
 1 PHON
 1 RIN R-899050557
+1 REFN c3bbe581-bece-4e63-a96d-3b9a257bf6bf
 0 @dIuP1jfcRrCeiZcZz5qZ@ REPO
 1 NAME Ancestry.com, II, OLD
 1 ADDR
 1 EMAIL
 1 PHON
 1 RIN dIuP1jfcRrCeiZcZz5qZ
+1 REFN 54421224-09c8-4782-a668-4974f834f24f
 0 @S-340042669@ SOUR
 1 _APID 1,8057::0
+1 REFN 9ca4c4ef-5bcd-4fe9-a685-d62ce3f13241
 1 RIN S-340042669
 1 REPO @R-899050557@
 1 TITL 1840 United States Federal Census
@@ -4786,6 +4866,7 @@
 2 CONC e: 2010
 0 @S-340037843@ SOUR
 1 _APID 1,8054::0
+1 REFN 10133f3b-336d-42b4-925a-fa66e01de7c3
 1 RIN S-340037843
 1 REPO @R-899050557@
 1 TITL 1850 United States Federal Census
@@ -4805,6 +4886,7 @@
 2 CONC n listed.<br />
 0 @S-340166919@ SOUR
 1 _APID 1,7667::0
+1 REFN fecff3e8-6f57-4213-bfaa-d56c159bef1b
 1 RIN S-340166919
 1 REPO @R-899050557@
 1 TITL 1860 United States Federal Census
@@ -4822,6 +4904,7 @@
 2 CONC l and farmer 45.
 0 @S-338823707@ SOUR
 1 _APID 1,7163::0
+1 REFN b2fd85f3-7b17-486b-ac7b-4f5872d30de5
 1 RIN S-338823707
 1 REPO @R-899050557@
 1 TITL 1870 United States Federal Census
@@ -4830,6 +4913,7 @@
 2 CONC e: 2009
 0 @S-340166898@ SOUR
 1 _APID 1,6742::0
+1 REFN a8eacf88-80c0-4c5b-984b-65ff742c1ceb
 1 RIN S-340166898
 1 REPO @R-899050557@
 1 TITL 1880 United States Federal Census
@@ -4839,6 +4923,7 @@
 2 CONC : 2010
 0 @S-340038419@ SOUR
 1 _APID 1,7602::0
+1 REFN def184d4-fd9f-4900-8003-4dfbe80f187b
 1 RIN S-340038419
 1 REPO @R-899050557@
 1 TITL 1900 United States Federal Census
@@ -4847,6 +4932,7 @@
 2 CONC : 2004
 0 @S-340037973@ SOUR
 1 _APID 1,7884::0
+1 REFN 8232ab35-92d5-44f5-9035-784afe038cfe
 1 RIN S-340037973
 1 REPO @R-899050557@
 1 TITL 1910 United States Federal Census
@@ -4854,6 +4940,7 @@
 1 PUBL Ancestry.com Operations Inc; Location: Provo, UT, USA; Date
 2 CONC : 2006
 0 @S-340304044@ SOUR
+1 REFN cd5bfc77-dd07-4836-8a40-c5b1ef4f8204
 1 RIN S-340304044
 1 REPO @dIuP1jfcRrCeiZcZz5qZ@
 1 TITL 1920 United States Federal Census
@@ -4870,6 +4957,7 @@
 2 CONC 9 are on roll 323 (Chicago City).
 0 @S-340120723@ SOUR
 1 _APID 1,6061::0
+1 REFN 6234afaf-6437-47bc-a151-ff231adae7b1
 1 RIN S-340120723
 1 REPO @R-899050557@
 1 TITL 1920 United States Federal Census, OLD
@@ -4878,6 +4966,7 @@
 2 CONC : 2010
 0 @S-340304045@ SOUR
 1 _APID 1,6224::0
+1 REFN ad9a30db-d99e-4621-89a0-e497ff482a4d
 1 RIN S-340304045
 1 REPO @R-899050557@
 1 TITL 1930 United States Federal Census
@@ -4885,6 +4974,7 @@
 1 PUBL Ancestry.com Operations Inc; Location: Provo, UT, USA; Date
 2 CONC : 2002
 0 @S-340304056@ SOUR
+1 REFN 21f26ed7-9f0d-4a32-8362-2e76bbfe7e74
 1 RIN S-340304056
 1 REPO @dIuP1jfcRrCeiZcZz5qZ@
 1 TITL 1940 United States Federal Census
@@ -4927,6 +5017,7 @@
 2 CONC :15 AM Age 36 years And 21 days
 2 CONT </p>
 0 @S-340304055@ SOUR
+1 REFN 66627a9e-d31c-4a71-9ff4-8cf26f412eb9
 1 RIN S-340304055
 1 REPO @R-899050557@
 1 TITL Ancestry Family Trees
@@ -5084,6 +5175,7 @@
 2 CONC >
 2 CONT July 29, 1908, Solsville
 0 @S-330915893@ SOUR
+1 REFN e9ba750a-d9f4-40dc-b4fb-9eb61eea1767
 1 RIN S-330915893
 1 TITL Madison County (New York) Land Records
 1 AUTH Madison County (New York)
@@ -5096,6 +5188,7 @@
 1 PUBL 1852
 1 TEXT <img src="mosher_files/map_ny_cazenovia_1852.jpg">
 0 @S-340304047@ SOUR
+1 REFN 1bf79c11-0142-4254-bc0a-8b4726f447b7
 1 RIN S-340304047
 1 REPO @dIuP1jfcRrCeiZcZz5qZ@
 1 TITL New York, Abstracts of World War I Military Service, 1917-19
@@ -5108,6 +5201,7 @@
 2 CONT Series B0808. New York State Archives, Albany, New York.
 0 @S-333063249@ SOUR
 1 _APID 1,1965::0
+1 REFN a15e1242-eb80-4556-93de-8598062807ea
 1 RIN S-333063249
 1 REPO @R-899050557@
 1 TITL New York, Civil War Muster Roll Abstracts, 1861-1900
@@ -5116,6 +5210,7 @@
 2 CONC e: 2011
 0 @S-330977537@ SOUR
 1 _APID 1,3564::0
+1 REFN 956ed0bb-3517-42fc-b530-00e5b2be3627
 1 RIN S-330977537
 1 REPO @R-899050557@
 1 TITL New York, Compiled Census and Census Substitutes Index, 1790
@@ -5124,6 +5219,7 @@
 1 PUBL Ancestry.com Operations Inc; Location: Provo, UT, USA; Date
 2 CONC : 1999
 0 @UmsKbAYOQB6aapLuVzmU@ SOUR
+1 REFN 0ec5e7f9-9089-48bf-902d-748b2b4efe7c
 1 RIN UmsKbAYOQB6aapLuVzmU
 1 REPO @dIuP1jfcRrCeiZcZz5qZ@
 1 TITL New York, County Marriages, 1847-1849; 1907-1936
@@ -5132,6 +5228,7 @@
 2 CONC : 2016
 0 @S-330979816@ SOUR
 1 _APID 1,7181::0
+1 REFN 7aceee0b-28fd-4c99-b48d-12e7882b5e0c
 1 RIN S-330979816
 1 REPO @R-899050557@
 1 TITL New York, State Census, 1855
@@ -5140,6 +5237,7 @@
 2 CONC e: 2013
 0 @S-301664923@ SOUR
 1 _APID 1,7218::0
+1 REFN d52634a3-8324-454e-a10a-cf74f766f85d
 1 RIN S-301664923
 1 REPO @R-899050557@
 1 TITL New York, State Census, 1865
@@ -5148,6 +5246,7 @@
 2 CONC e: 2014
 0 @S-333148567@ SOUR
 1 _APID 1,7250::0
+1 REFN 2ea69517-ca04-403c-b73c-1b3609916616
 1 RIN S-333148567
 1 REPO @R-899050557@
 1 TITL New York, State Census, 1875
@@ -5156,6 +5255,7 @@
 2 CONC e: 2013
 0 @S-339390060@ SOUR
 1 _APID 1,3212::0
+1 REFN f938cc2e-1d08-41ad-b38c-360ffa9a238e
 1 RIN S-339390060
 1 REPO @R-899050557@
 1 TITL New York, State Census, 1892
@@ -5164,6 +5264,7 @@
 2 CONC e: 2012
 0 @S-322419782@ SOUR
 1 _APID 1,7364::0
+1 REFN 9f75bdaa-4dc0-4f98-b881-9c060e94206a
 1 RIN S-322419782
 1 REPO @R-899050557@
 1 TITL New York, State Census, 1905
@@ -5172,6 +5273,7 @@
 2 CONC e: 2014
 0 @S-340037965@ SOUR
 1 _APID 1,2703::0
+1 REFN 160b534b-3be3-47e7-942d-ec69b0b6fb7f
 1 RIN S-340037965
 1 REPO @R-899050557@
 1 TITL New York, State Census, 1915
@@ -5180,6 +5282,7 @@
 2 CONC e: 2012
 0 @S-333322453@ SOUR
 1 _APID 1,2704::0
+1 REFN 35a76225-2b78-4df4-b67a-aa3e58d0095e
 1 RIN S-333322453
 1 REPO @R-899050557@
 1 TITL New York, State Census, 1925
@@ -5188,6 +5291,7 @@
 2 CONC e: 2012
 0 @S-301664500@ SOUR
 1 _APID 1,8800::0
+1 REFN 0e32455a-7aa5-4ff8-a234-c04cc8710070
 1 RIN S-301664500
 1 REPO @R-899050557@
 1 TITL New York, Wills and Probate Records, 1659-1999
@@ -5355,6 +5459,7 @@
 2 CONT </tbody>
 2 CONT </table>
 0 @S-340304098@ SOUR
+1 REFN 7e9174e2-e91f-4b90-b740-dc5737bce4db
 1 RIN S-340304098
 1 TITL NY Census, 1875, Madison Co., Eaton, ED 1, image 9 of 47
 1 AUTH New York State
@@ -5755,6 +5860,7 @@
 1 PUBL 22 Aug 1881, Madison Country, NY, USA
 0 @S-322413031@ SOUR
 1 _APID 1,1276::0
+1 REFN 6e01ad04-8642-449b-ab61-f5a7fa04e5ab
 1 RIN S-322413031
 1 REPO @R-899050557@
 1 TITL Selected U.S. Federal Census Non-Population Schedules, 1850-
@@ -5769,6 +5875,7 @@
 1 AUTH US Social Security Administration
 0 @S-299818046@ SOUR
 1 _APID 1,7486::0
+1 REFN 086e4aa4-8adb-49f1-9f25-c669cd208503
 1 RIN S-299818046
 1 REPO @R-899050557@
 1 TITL U.S. and Canada, Passenger and Immigration Lists Index, 1500
@@ -5778,6 +5885,7 @@
 2 CONC : 2010
 0 @S-333262532@ SOUR
 1 _APID 1,1791::0
+1 REFN 3e50cef9-64ef-403b-9a82-56c1316c2605
 1 RIN S-333262532
 1 REPO @R-899050557@
 1 TITL U.S. Census Non-Population Schedules, New York, 1850-1880
@@ -5786,6 +5894,7 @@
 2 CONC e: 2010
 0 @S-330978146@ SOUR
 1 _APID 1,4654::0
+1 REFN 80b8e234-8b1b-48ef-8186-020858e2fc4a
 1 RIN S-330978146
 1 REPO @R-899050557@
 1 TITL U.S., Civil War Pension Index: General Index to Pension File
@@ -5795,6 +5904,7 @@
 2 CONC : 2000
 0 @S-333063515@ SOUR
 1 _APID 1,1555::0
+1 REFN 342eac05-e4a6-4d63-b61a-06e165a18846
 1 RIN S-333063515
 1 REPO @R-899050557@
 1 TITL U.S., Civil War Soldier Records and Profiles, 1861-1865
@@ -5803,6 +5913,7 @@
 2 CONC : 2009
 0 @S250738481@ SOUR
 1 _APID 1,2441::0
+1 REFN 708487a3-ca47-4e4b-80a6-7095a9ddfaa6
 1 RIN S250738481
 1 REPO @R-899050557@
 1 TITL U.S., Department of Veterans Affairs BIRLS Death File, 1850-
@@ -5812,6 +5923,7 @@
 2 CONC e: 2011
 0 @S-313778072@ SOUR
 1 _APID 1,60525::0
+1 REFN fb29f2e0-3b67-4fa2-9665-554f90441a9c
 1 RIN S-313778072
 1 REPO @R-899050557@
 1 TITL U.S., Find A Grave Index, 1600s-Current
@@ -5820,6 +5932,7 @@
 2 CONC e: 2012
 0 @S-288113826@ SOUR
 1 _APID 1,1127::0
+1 REFN 4880a24a-4dea-4e3a-a21a-e0aab0675c58
 1 RIN S-288113826
 1 REPO @R-899050557@
 1 TITL U.S., Indexed County Land Ownership Maps, 1860-1918
@@ -5827,6 +5940,7 @@
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2010
 0 @S-340304048@ SOUR
+1 REFN 2206a1ed-4c9d-4d91-8c61-925b92e4e627
 1 RIN S-340304048
 1 REPO @dIuP1jfcRrCeiZcZz5qZ@
 1 TITL U.S., Social Security Death Index, 1935-2014
@@ -5837,6 +5951,7 @@
 2 CONC ex, Master File</i>. Social Security Administration.
 0 @S-333070379@ SOUR
 1 _APID 1,6482::0
+1 REFN 69c43fb4-1828-42d8-9e5e-8d4e11ba687f
 1 RIN S-333070379
 1 REPO @R-899050557@
 1 TITL U.S., World War I Draft Registration Cards, 1917-1918
@@ -5845,6 +5960,7 @@
 2 CONC : 2005
 0 @S-301653532@ SOUR
 1 _APID 1,1002::0
+1 REFN baf48101-bd3b-49b7-863d-91d984044f52
 1 RIN S-301653532
 1 REPO @R-899050557@
 1 TITL U.S., World War II Draft Registration Cards, 1942
@@ -6443,6 +6559,7 @@
 2 CONC t Church..."].
 0 @S-340037888@ SOUR
 1 _APID 1,70572::0
+1 REFN 40d09219-b800-4e70-a08e-5e2b20dca5e4
 1 RIN S-340037888
 1 REPO @R-899050557@
 1 TITL Web: New York, Find A Grave Index, 1660-2012
@@ -6460,6 +6577,7 @@
 2 TITL 0040_Colvin_Pearl_Mae
 2 _DATE 9/27/2013 7:43:42 PM
 1 RIN O7
+1 REFN 7f1dd62e-2bb6-4e8d-98cb-cefcd5e5d2e3
 0 @yTPu5au5TbSBf5zsKNxJ@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\1840 United States Federal Census(7)
@@ -6470,6 +6588,7 @@
 3 CONC 95; Page: 50; Image: 107; Family History Library Film: 00171
 3 CONC 92
 1 RIN yTPu5au5TbSBf5zsKNxJ
+1 REFN a6766998-cd40-4f38-b51e-0b750f120645
 0 @0qV5WOjDT9GIkQSke7vo@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\1850 United States Federal Census(4)
@@ -6479,6 +6598,7 @@
 2 _TEXT Year: 1850; Census Place: Cazenovia, Madison, New York; Roll
 3 CONC : M432_526; Page: 73A; Image: 152
 1 RIN 0qV5WOjDT9GIkQSke7vo
+1 REFN fdd52880-6ae9-4559-8944-130bc7f2e0f0
 0 @39hUo32QTqGeK4F5c3KZ@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\1850 United States Federal Census(30
@@ -6488,6 +6608,7 @@
 2 _TEXT Year: 1850; Census Place: Cazenovia, Madison, New York; Roll
 3 CONC : M432_526; Page: 110B; Image: 227
 1 RIN 39hUo32QTqGeK4F5c3KZ
+1 REFN fe042a29-ece8-4910-9e16-dcd04c43083c
 0 @a7YikRwmS1yRYoWXTb4J@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\1850 United States Federal Census(34
@@ -6497,6 +6618,7 @@
 2 _TEXT Year: 1850; Census Place: Batavia, Genesee, New York; Roll
 3 CONC : M432_508; Page: 248B; Image: 134
 1 RIN a7YikRwmS1yRYoWXTb4J
+1 REFN bbd927d8-7d22-4c1f-a19a-1fdc4a239b01
 0 @lGhWYGdwQ3WrZ3lxkn6S@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\1860 United States Federal Census(10
@@ -6507,6 +6629,7 @@
 3 CONC : M653_780; Page: 291; Image: 296; Family History Library Fi
 3 CONC lm: 803780
 1 RIN lGhWYGdwQ3WrZ3lxkn6S
+1 REFN 30ca7e12-1d49-436b-91da-dbe8e8be4ea5
 0 @KecWaPqkS16uSmzfJDjP@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\1860 United States Federal Census(36
@@ -6517,6 +6640,7 @@
 3 CONC : M653_780; Page: 78; Image: 83; Family History Library Film
 3 CONC : 803780
 1 RIN KecWaPqkS16uSmzfJDjP
+1 REFN 15b40a88-3c6b-4df3-b75d-0e7e85bbfd26
 0 @EO2qBY8FTqSLooqZFDcB@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\1860 United States Federal Census(39
@@ -6527,6 +6651,7 @@
 3 CONC : M653_781; Page: 908; Image: 410; Family History Library Fi
 3 CONC lm: 803781
 1 RIN EO2qBY8FTqSLooqZFDcB
+1 REFN 73fb05c5-c02d-47d4-b870-36842b39a29a
 0 @vzQU5ZlYRzSuKKmX5pxr@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\1870 United States Federal Census(7)
@@ -6537,6 +6662,7 @@
 3 CONC : M593_967; Page: 118B; Image: 240; Family History Library F
 3 CONC ilm: 552466
 1 RIN vzQU5ZlYRzSuKKmX5pxr
+1 REFN 7ad09ec4-09fa-47b8-ae51-ab711ff8e7e5
 0 @pJwQDhWhTvWxcU4wZD81@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\1870 United States Federal Census(41
@@ -6547,6 +6673,7 @@
 3 CONC l: M593_967; Page: 194A; Image: 392; Family History Librar
 3 CONC y Film: 552466
 1 RIN pJwQDhWhTvWxcU4wZD81
+1 REFN d0249b80-1a28-491f-aba8-bffe8f52f0f3
 0 @927Q3S7XSueI6ByDYlsM@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\1870 United States Federal Census(46
@@ -6557,6 +6684,7 @@
 3 CONC 93_967; Page: 134A; Image: 272; Family History Library Film
 3 CONC : 552466
 1 RIN 927Q3S7XSueI6ByDYlsM
+1 REFN d2091811-d418-4bcc-8705-a67c669d4849
 0 @aRqeb0cyTIq3bod386TL@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\1880 United States Federal Census(5)
@@ -6567,6 +6695,7 @@
 3 CONC : 860; Family History Film: 1254860; Page: 204C; Enumeratio
 3 CONC n District: 060; Image: 0257
 1 RIN aRqeb0cyTIq3bod386TL
+1 REFN 1d73a706-580f-4707-a323-172284466596
 0 @X9prVr8hRTifTYKOMgr2@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\1880 United States Federal Census(8)
@@ -6577,6 +6706,7 @@
 3 CONC : 860; Family History Film: 1254860; Page: 203B; Enumeratio
 3 CONC n District: 060; Image: 0256
 1 RIN X9prVr8hRTifTYKOMgr2
+1 REFN 8f9d60ca-d191-4a19-901e-f34e17f0ad0c
 0 @gfuz3sgTSaCRwZPbyuWz@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\1880 United States Federal Census(9)
@@ -6585,6 +6715,7 @@
 2 TITL 1880 United States Federal Census
 2 _TEXT Year: 1880; Census Place: Sherburne, Chenango, New York
 1 RIN gfuz3sgTSaCRwZPbyuWz
+1 REFN 3fc796a2-66a2-469c-8922-2dd7d945c00f
 0 @Ix5pZJQsSvWRUVZS23wU@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\1880 United States Federal Census(41
@@ -6595,6 +6726,7 @@
 3 CONC l: 860; Family History Film: 1254860; Page: 149C; Enumeratio
 3 CONC n District: 057; Image: 0147
 1 RIN Ix5pZJQsSvWRUVZS23wU
+1 REFN eed3fdf9-6cd3-4957-8728-5262ece00e72
 0 @uy4R0zW4QQik8r4CR8uN@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\1880 United States Federal Census(50
@@ -6605,6 +6737,7 @@
 3 CONC l: 860; Family History Film: 1254860; Page: 157C; Enumeratio
 3 CONC n District: 057; Image: 0163
 1 RIN uy4R0zW4QQik8r4CR8uN
+1 REFN bd6fe93b-7496-4583-9923-425116c55072
 0 @MS8ohwKuSDa7MGeHIxhw@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\1900 United States Federal Census(4)
@@ -6615,6 +6748,7 @@
 3 CONC 71; Page: 12A; Enumeration District: 0009; FHL microfilm: 12
 3 CONC 41071
 1 RIN MS8ohwKuSDa7MGeHIxhw
+1 REFN e71f7e7f-55e6-4a2e-969c-84dd1f8ac4e7
 0 @6HoMumU6R9GlVOksNDJT@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\1900 United States Federal Census(7)
@@ -6625,6 +6759,7 @@
 3 CONC : 1072; Page: 8B; Enumeration District: 0023; FHL microfilm
 3 CONC : 1241072
 1 RIN 6HoMumU6R9GlVOksNDJT
+1 REFN c9125d70-7a3b-404e-9d07-049ff1eb90e8
 0 @hoOUFkQ4Svuo214VrmY4@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\1900 United States Federal Census(8)
@@ -6635,6 +6770,7 @@
 3 CONC : 1071; Page: 5B; Enumeration District: 0012; FHL microfilm
 3 CONC : 1241071
 1 RIN hoOUFkQ4Svuo214VrmY4
+1 REFN 0fd7768c-6a24-4272-ae1a-39e794f80a3d
 0 @t03OgxrfSruefhuOKjHF@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\1900 United States Federal Census(10
@@ -6645,6 +6781,7 @@
 3 CONC 71; Page: 6A; Enumeration District: 0009; FHL microfilm: 124
 3 CONC 1071
 1 RIN t03OgxrfSruefhuOKjHF
+1 REFN 850557f5-59db-49d2-a017-3d85b09fc395
 0 @IQl17TcmTEOibc5QL7e6@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\1900 United States Federal Census(44
@@ -6655,6 +6792,7 @@
 3 CONC : 1071; Page: 5A; Enumeration District: 0012; FHL microfilm
 3 CONC : 1241071
 1 RIN IQl17TcmTEOibc5QL7e6
+1 REFN 049a0520-015e-4437-9459-30f3c41e1151
 0 @3P6DkXmrTuaHqSD7o4Sk@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\1900 United States Federal Census(48
@@ -6665,6 +6803,7 @@
 3 CONC : 1017; Page: 1A; Enumeration District: 0062; FHL microfilm
 3 CONC : 1241017
 1 RIN 3P6DkXmrTuaHqSD7o4Sk
+1 REFN c50cbf82-2516-4310-aec8-a9d249e92fbe
 0 @qBHt7gBmTZqrkdqZHBVX@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\1910 United States Federal Census(3)
@@ -6675,6 +6814,7 @@
 3 CONC : T624_987; Page: 8A; Enumeration District: 0016; FHL microf
 3 CONC ilm: 1375000
 1 RIN qBHt7gBmTZqrkdqZHBVX
+1 REFN 10ca14e3-aa6c-422f-8e39-2a71734b8b2d
 0 @PkD6WNh2Qg6mxa4JCNqd@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\1910 United States Federal Census(6)
@@ -6685,6 +6825,7 @@
 3 CONC 24_987; Page: 1A; Enumeration District: 0009; FHL microfilm
 3 CONC : 1375000
 1 RIN PkD6WNh2Qg6mxa4JCNqd
+1 REFN 5151408d-9236-45a3-b4ec-60cada04c248
 0 @o1BIo73GRECx5GoqxGlD@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\1910 United States Federal Census(38
@@ -6695,6 +6836,7 @@
 3 CONC l: T624_987; Page: 7B; Enumeration District: 0032; FHL micro
 3 CONC film: 1375000
 1 RIN o1BIo73GRECx5GoqxGlD
+1 REFN 16d796b2-cfcf-475c-917a-276702bb0e59
 0 @D7k4MkMfRPGQO7H4Mkxo@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\1920 United States Federal Census(1)
@@ -6704,6 +6846,7 @@
 2 _TEXT Year: 1920; Census Place: Lebanon, Madison, New York; Roll
 3 CONC : T625_1119; Page: 5A; Enumeration District: 113; Image: 26
 1 RIN D7k4MkMfRPGQO7H4Mkxo
+1 REFN 5c2136e6-09ad-41ef-99b5-6b2d0ed05543
 0 @c1Qs2bp4SFCqTOqbfYur@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\1920 United States Federal Census(5)
@@ -6714,6 +6857,7 @@
 3 CONC l: T625_1119; Page: 2B; Enumeration District: 129; Image: 44
 3 CONC 5
 1 RIN c1Qs2bp4SFCqTOqbfYur
+1 REFN abb11116-8504-4663-b169-822875e866e8
 0 @rtBogKBGTJ6efhuN16fw@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\1920 United States Federal Census(20
@@ -6722,6 +6866,7 @@
 2 TITL 1920 United States Federal Census
 2 _TEXT Year: 1920; Census Place: Waverly, Tioga, New York
 1 RIN rtBogKBGTJ6efhuN16fw
+1 REFN 96759531-695c-41de-b8e1-0d5d1180c640
 0 @X3n7NB1uRNqSFAi3xjDy@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\1920 United States Federal Census(27
@@ -6730,6 +6875,7 @@
 2 TITL 1920 United States Federal Census
 2 _TEXT Year: 1920; Census Place: Wampoville, Madison, New York
 1 RIN X3n7NB1uRNqSFAi3xjDy
+1 REFN 2631b1bd-247f-4670-bde9-f75ceb2b2730
 0 @LSWUf5yUSIm79C1pkf3S@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\1920 United States Federal Census(31
@@ -6740,6 +6886,7 @@
 3 CONC rk; Roll: T625_1249; Page: 3B; Enumeration District: 228; Im
 3 CONC age: 464
 1 RIN LSWUf5yUSIm79C1pkf3S
+1 REFN 3935bf0d-e3f3-4328-b35f-81fc24ec8c95
 0 @9DyMDSVUTzOAcgdHQRXx@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\1930 United States Federal Census(1)
@@ -6750,6 +6897,7 @@
 3 CONC : 1446; Page: 5B; Enumeration District: 30; Image: 194.0; FH
 3 CONC L microfilm: 2341181
 1 RIN 9DyMDSVUTzOAcgdHQRXx
+1 REFN b3f953a7-83fb-429e-8789-415208e2d831
 0 @KF7opHwRRJ29xhVAsfLW@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\1930 United States Federal Census(13
@@ -6760,6 +6908,7 @@
 3 CONC 53; Page: 20B; Enumeration District: 3; Image: 736.0; FHL mi
 3 CONC crofilm: 2341387
 1 RIN KF7opHwRRJ29xhVAsfLW
+1 REFN 3dd6db45-2d78-4ed9-af94-7cf80340cb68
 0 @mJv809ebTPeprGd1S7x4@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\1930 United States Federal Census(20
@@ -6770,6 +6919,7 @@
 3 CONC l: 1446; Page: 2A; Enumeration District: 0040; Image: 452.0
 3 CONC ; FHL microfilm: 2341181
 1 RIN mJv809ebTPeprGd1S7x4
+1 REFN 50f89e17-08b7-4086-b08a-6d712c4eb5d5
 0 @IWnFDuQATDCmYQoAjjJm@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\1940 United States Federal Census(6)
@@ -6779,6 +6929,7 @@
 2 _TEXT Year: 1940; Census Place: Madison, Madison, New York; Roll
 3 CONC : T627_2624; Page: 4A; Enumeration District: 27-35
 1 RIN IWnFDuQATDCmYQoAjjJm
+1 REFN c16572c6-63e9-4f0d-8960-8c9cedb9395a
 0 @Syab1Np6ReuxnebzchUu@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\1940 United States Federal Census(21
@@ -6788,6 +6939,7 @@
 2 _TEXT Year: 1940; Census Place: Chemung, Chemung, New York; Roll
 3 CONC : T627_2513; Page: 4B; Enumeration District: 8-7
 1 RIN Syab1Np6ReuxnebzchUu
+1 REFN 4feead4f-7db0-4f30-82ba-c98abba00c3c
 0 @Ox8q0BsOReGYdbl7LtCC@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\Cazenovia NY Republican 1892-189
@@ -6798,6 +6950,7 @@
 2 _TEXT Cazenovia Republican (newspaper) account of William Colvin'
 3 CONC s death and commentary on James Sr. and Jr.
 1 RIN Ox8q0BsOReGYdbl7LtCC
+1 REFN 89c09385-ff8c-49c7-97ab-4dcf92c3162b
 0 @O95@ OBJE
 1 FILE http://trees.ancestry.com/rd?f=image&guid=008172b1-6e4b-4ffc
 2 CONC -8885-528f0900371b&tid=61407337
@@ -6812,6 +6965,7 @@
 2 _TEXT Cazenovia Republican (newspaper) account of William Colvin'
 3 CONC s death and commentary on James Sr. and Jr.
 1 RIN O95
+1 REFN bee13e62-3a74-4108-b576-3de27c188a37
 0 @O103@ OBJE
 1 FILE http://trees.ancestry.com/rd?f=image&guid=c23fa2d2-95d3-41f0
 2 CONC -9f8b-42fe20218223&tid=61407337
@@ -6827,6 +6981,7 @@
 2 _DATE 25 Apr 1915
 2 _TEXT Newspaper account of James Colvin Jr's death
 1 RIN O103
+1 REFN ec2f9d99-d60f-4fba-a767-27d2da9b09fb
 0 @O65@ OBJE
 1 FILE http://trees.ancestry.com/rd?f=image&guid=20032f81-b3d7-4d61
 2 CONC -a14e-fea72fad86d5&tid=61407337
@@ -6839,6 +6994,7 @@
 2 TITL Clarence Colvin and Clara COLVIN Lofstrom
 2 _DATE 1975
 1 RIN O65
+1 REFN b2fd0cbd-39c9-44f0-992d-e5d19514f35b
 0 @O73@ OBJE
 1 FILE http://trees.ancestry.com/rd?f=image&guid=f27c71df-6e83-47c7
 2 CONC -a7b9-17703a3857ba&tid=61407337
@@ -6851,6 +7007,7 @@
 2 TITL Clarence Colvin and his daughter, Clara
 2 _DATE circa 1920
 1 RIN O73
+1 REFN 27729f87-69f7-4f13-9de7-655a86d046dd
 0 @O66@ OBJE
 1 FILE http://trees.ancestry.com/rd?f=document&guid=46c505d0-cce7-4
 2 CONC b48-b29d-d95810840045&tid=61407337
@@ -6861,6 +7018,7 @@
 2 FORM jpg
 2 TITL Clarence Ernest Colvin
 1 RIN O66
+1 REFN 37b5fe5d-f2b4-447b-bf4d-46684b4a2577
 0 @O97@ OBJE
 1 FILE http://trees.ancestry.com/rd?f=image&guid=fb4f7044-b808-4a91
 2 CONC -9abd-aa6728455087&tid=61407337
@@ -6872,6 +7030,7 @@
 2 TITL Colvin_Bertie_William
 2 _DATE 9/28/2013 8:22:11 PM
 1 RIN O97
+1 REFN bb8e5ae4-1565-4ca8-bb3a-41df8c74b031
 0 @O67@ OBJE
 1 FILE http://trees.ancestry.com/rd?f=image&guid=58d9af7e-fd87-4fa3
 2 CONC -874a-433f32b57bea&tid=61407337
@@ -6883,6 +7042,7 @@
 2 TITL Colvin_Clarence_Ernest
 2 _DATE 9/28/2013 8:29:24 PM
 1 RIN O67
+1 REFN e9cdb585-3174-4b78-859e-b44195c76d69
 0 @AZJUDYHjR7OQkm7saxnm@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\Death Notice - Charles Cranson.jpg
@@ -6890,6 +7050,7 @@
 2 TITL Death Notice - Charles Cranson
 2 _DATE 18887
 1 RIN AZJUDYHjR7OQkm7saxnm
+1 REFN 47aca0a1-f643-42f6-9acb-202203e9c1d8
 0 @O93@ OBJE
 1 FILE http://trees.ancestry.com/rd?f=image&guid=51faa227-13a2-46cc
 2 CONC -8f3d-79d077460181&tid=61407337
@@ -6901,6 +7062,7 @@
 2 FORM jpg
 2 TITL Deed, Colvin, James, Farnham Street, Cazenovia, NY
 1 RIN O93
+1 REFN 77a6b903-81b6-461d-9b9c-f65f865a2ed2
 0 @O101@ OBJE
 1 FILE http://trees.ancestry.com/rd?f=image&guid=8f0c0259-2c10-461b
 2 CONC -b7b7-498806798bb0&tid=61407337
@@ -6915,6 +7077,7 @@
 3 CONC uyter sent 168 soldiers to the Civil War, from a populatio
 3 CONC n of 2,000.
 1 RIN O101
+1 REFN 262c03d6-554e-48a1-aaae-f241e8674468
 0 @O74@ OBJE
 1 FILE http://trees.ancestry.com/rd?f=image&guid=25011359-8973-4e79
 2 CONC -90bc-d28922427a51&tid=61407337
@@ -6931,6 +7094,7 @@
 3 CONC , gets a pension of $1,696, and $8 per month during her lif
 3 CONC e time."
 1 RIN O74
+1 REFN 517706e4-2d87-49b0-a5e3-978009a40e50
 0 @O100@ OBJE
 1 FILE http://trees.ancestry.com/rd?f=image&guid=25011359-8973-4e79
 2 CONC -90bc-d28922427a51&tid=61407337
@@ -6951,6 +7115,7 @@
 3 CONC , gets a pension of $1,696, and $8 per month during her lif
 3 CONC e time."
 1 RIN O100
+1 REFN 7ab2383b-9d61-4639-92d5-5829bffe0335
 0 @O71@ OBJE
 1 FILE http://trees.ancestry.com/rd?f=image&guid=e561a039-96e8-47c9
 2 CONC -9876-10c69499cba0&tid=61407337
@@ -6963,6 +7128,7 @@
 2 _DATE circa 1968
 2 _TEXT Gramma died not long after this photo was taken
 1 RIN O71
+1 REFN e0ddffea-3aec-4b50-bf7e-5c10cbab7da6
 0 @O160@ OBJE
 1 FILE http://trees.ancestry.com/rd?f=image&guid=977b3ab0-772b-4952
 2 CONC -b9bb-89249c2cfa2b&tid=61407337
@@ -6975,6 +7141,7 @@
 2 _DATE circa 1968
 2 _TEXT Gramma died not long after this photo was taken
 1 RIN O160
+1 REFN 67efcb62-ed77-480c-a82d-b354b07133a9
 0 @TZLSvDHqRTOX9d2j0YBw@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\Gramma-and-Grampa.jpg
@@ -6982,6 +7149,7 @@
 2 TITL Gramma-and-Grampa
 2 _DATE Circa 1918
 1 RIN TZLSvDHqRTOX9d2j0YBw
+1 REFN d69f9e4e-6698-4deb-8bca-a6a2f441203e
 0 @MYNlujIBRq6ONCIOf9ai@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\Gramma-and-Grampa(1).jpg
@@ -6989,6 +7157,7 @@
 2 TITL Gramma-and-Grampa
 2 _DATE Circa 1918
 1 RIN MYNlujIBRq6ONCIOf9ai
+1 REFN 67142335-bce0-4d44-b2e6-26c61290a69b
 0 @otUchSyFQay2fRKMs96h@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\Gramma-and-Mom.jpg
@@ -6996,6 +7165,7 @@
 2 TITL Gramma-and-Mom
 2 _DATE Circa 1918
 1 RIN otUchSyFQay2fRKMs96h
+1 REFN 86464b55-de04-437d-b710-ce590cb13a4e
 0 @eGlmsBnTSSW6rjIsfdsr@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\Gramma-and-Mom(1).jpg
@@ -7003,6 +7173,7 @@
 2 TITL Gramma-and-Mom
 2 _DATE Circa 1918
 1 RIN eGlmsBnTSSW6rjIsfdsr
+1 REFN 3903d852-8385-4735-ba1e-586427117701
 0 @O69@ OBJE
 1 FILE http://trees.ancestry.com/rd?f=image&guid=c4d58820-ad40-4efc
 2 CONC -ae15-fbffa92e3dd9&tid=61407337
@@ -7015,6 +7186,7 @@
 2 _DATE 1974
 2 _TEXT Grampa was never without a dog.
 1 RIN O69
+1 REFN 405ab401-fdc8-4553-bda4-ecc2d31847d8
 0 @O72@ OBJE
 1 FILE http://trees.ancestry.com/rd?f=image&guid=f102419b-5063-4af2
 2 CONC -ac27-0fcf99d8e6af&tid=61407337
@@ -7027,6 +7199,7 @@
 2 TITL Headstone for Clarence and Lula Colvin
 2 _DATE 22 Oct 2012
 1 RIN O72
+1 REFN be2fec5f-2d7c-40dc-8d0f-fa38f044f05e
 0 @O162@ OBJE
 1 FILE http://trees.ancestry.com/rd?f=image&guid=bc28fcba-bd62-4033
 2 CONC -bc0e-0265ae32e85a&tid=61407337
@@ -7039,6 +7212,7 @@
 2 TITL Headstone for Clarence and Lula Colvin
 2 _DATE 22 Oct 2012
 1 RIN O162
+1 REFN 20f2c109-5bed-4cf7-9504-2255db550748
 0 @O163@ OBJE
 1 FILE http://trees.ancestry.com/rd?f=image&guid=ee118c33-6d0f-4982
 2 CONC -82c5-ddb0b5413aa2&tid=61407337
@@ -7050,6 +7224,7 @@
 2 TITL Hughes_Lulu
 2 _DATE 9/28/2013 8:29:55 PM
 1 RIN O163
+1 REFN bb90dab4-4e16-4170-b52c-57d860265a49
 0 @O96@ OBJE
 1 FILE http://trees.ancestry.com/rd?f=image&guid=6d6a3523-b863-4391
 2 CONC -9cae-08c3c23963b0&tid=61407337
@@ -7061,6 +7236,7 @@
 2 FORM jpg
 2 TITL James and Henrietta Colvin Headstone
 1 RIN O96
+1 REFN a611726a-53fa-46c6-a62c-b7efdd99ccc6
 0 @O75@ OBJE
 1 FILE http://trees.ancestry.com/rd?f=image&guid=b08faba7-3c0c-475a
 2 CONC -a7ce-4a947e3202d2&tid=61407337
@@ -7072,6 +7248,7 @@
 2 FORM jpg
 2 TITL James and Henrietta Colvin Headstone
 1 RIN O75
+1 REFN d6017b17-b099-45d2-b317-82207bed0f7d
 0 @O102@ OBJE
 1 FILE http://trees.ancestry.com/rd?f=image&guid=b9fe7ee1-599a-49e5
 2 CONC -a7b4-9d0cde360859&tid=61407337
@@ -7083,6 +7260,7 @@
 2 TITL James Colvin portrait
 2 _DATE abt 1900
 1 RIN O102
+1 REFN 6bb1732c-bf26-4a55-a3ed-3a5acfaa4974
 0 @O121@ OBJE
 1 FILE http://trees.ancestry.com/rd?f=image&guid=63ab530f-4f82-49e6
 2 CONC -9ba7-86d8e680a59c&tid=61407337
@@ -7094,6 +7272,7 @@
 2 TITL John and Jessie Colvin headstone
 2 _DATE 15 May 2010
 1 RIN O121
+1 REFN 95222411-5b33-4e97-8caf-3ff106ef7077
 0 @zJkbJ8H7QCSuK2aRg1DN@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\Land Deed, Colvin, James, Albany Str
@@ -7101,6 +7280,7 @@
 2 FORM jpg
 2 TITL Land Deed, Colvin, James, Albany Street, Cazenovia, NY
 1 RIN zJkbJ8H7QCSuK2aRg1DN
+1 REFN fdae517a-91c6-4c48-8c58-2d4b8b7485b2
 0 @yqkufS3QTeSumQ27iCO7@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\Land Deed, Colvin, James, Albany Str
@@ -7108,6 +7288,7 @@
 2 FORM jpg
 2 TITL Land Deed, Colvin, James, Albany Street, Cazenovia, NY
 1 RIN yqkufS3QTeSumQ27iCO7
+1 REFN f82e6186-2c80-4480-bd62-96ca82324ef2
 0 @O84@ OBJE
 1 FILE http://trees.ancestry.com/rd?f=image&guid=287be282-93e3-4e89
 2 CONC -a558-d9e5e9c47fd1&tid=61407337
@@ -7119,6 +7300,7 @@
 2 FORM jpg
 2 TITL Land Deed, Colvin, James, Burton Street, Cazenovia, NY
 1 RIN O84
+1 REFN 79a27b07-41ce-48f1-bc2c-3bc4373acac1
 0 @O78@ OBJE
 1 FILE http://trees.ancestry.com/rd?f=image&guid=21de4273-7db2-46a4
 2 CONC -8554-8c6019d36aeb&tid=61407337
@@ -7130,6 +7312,7 @@
 2 FORM jpg
 2 TITL Land Deed, Colvin, James, Chapman Road, Cazenovia, NY
 1 RIN O78
+1 REFN 228c9aae-df19-47dc-9f2e-605a8103f36a
 0 @O81@ OBJE
 1 FILE http://trees.ancestry.com/rd?f=image&guid=336d5b9f-1718-4f35
 2 CONC -9ffc-7ba7134b3b1b&tid=61407337
@@ -7141,6 +7324,7 @@
 2 FORM jpg
 2 TITL Land Deed, Colvin, James, Corkinsville Road, Cazenovia, NY
 1 RIN O81
+1 REFN 92442fa2-154c-4fcd-86b1-ce62fe7351b6
 0 @UTMBzBsPSs665zHpRyw7@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\Land Deed, Colvin, James, Farnham St
@@ -7148,6 +7332,7 @@
 2 FORM jpg
 2 TITL Land Deed, Colvin, James, Farnham Street, Cazenovia, NY
 1 RIN UTMBzBsPSs665zHpRyw7
+1 REFN 3eef40e3-1b00-4b61-bdac-5d8a33ee42dc
 0 @9BeuaM6CQ36jHgH7VKkr@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\Land Deed, Colvin, James, Farnham St
@@ -7155,6 +7340,7 @@
 2 FORM jpg
 2 TITL Land Deed, Colvin, James, Farnham Street, Cazenovia, NY
 1 RIN 9BeuaM6CQ36jHgH7VKkr
+1 REFN 892bc679-4a64-4e94-8a86-0cf646b2af3e
 0 @303wHZCcQsWkefgpWrM6@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\Land Deed, Colvin, James, Farnham St
@@ -7162,6 +7348,7 @@
 2 FORM jpg
 2 TITL Land Deed, Colvin, James, Farnham Street, Cazenovia, NY
 1 RIN 303wHZCcQsWkefgpWrM6
+1 REFN 4adfcc31-e330-4215-b715-a62a411eb11c
 0 @O89@ OBJE
 1 FILE http://trees.ancestry.com/rd?f=image&guid=02f4d1ff-55a2-4a7a
 2 CONC -adab-82395354a3aa&tid=61407337
@@ -7173,6 +7360,7 @@
 2 FORM jpg
 2 TITL Land Deed, Colvin, James, Georgetown, NY
 1 RIN O89
+1 REFN d36f84b5-fe74-42bc-bbde-0cd766f81719
 0 @O92@ OBJE
 1 FILE http://trees.ancestry.com/rd?f=image&guid=0e18e14f-708c-4f43
 2 CONC -b99c-3a960e10daa1&tid=61407337
@@ -7184,6 +7372,7 @@
 2 FORM jpg
 2 TITL Land Deed, Colvin, James, Lincklaen Street, Cazenovia, NY
 1 RIN O92
+1 REFN cd6c7fd9-9eb8-46f5-8fb6-1f7e62d6c86d
 0 @O79@ OBJE
 1 FILE http://trees.ancestry.com/rd?f=image&guid=d3c468d7-25e8-4e38
 2 CONC -a69d-d76c905f2fdc&tid=61407337
@@ -7197,6 +7386,7 @@
 2 TITL Land Deed, Colvin, James, Sweetland Street and Farnham Stree
 3 CONC t, Cazenovia, NY
 1 RIN O79
+1 REFN badb326a-e219-4c43-a9a9-de9d0a8e85b2
 0 @MVDd1HkYT9eCEiQj9VLJ@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\Land Deed, Colvin, James, Sweetlan
@@ -7204,6 +7394,7 @@
 2 FORM jpg
 2 TITL Land Deed, Colvin, James, Sweetland Street, Cazenovia, NY
 1 RIN MVDd1HkYT9eCEiQj9VLJ
+1 REFN 1763711a-e7d1-4f8e-a83d-307aa4d439f8
 0 @9CFM9RjrSKiJgSfWzOVe@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\Land Deed, Colvin, James, Sweetlan
@@ -7211,6 +7402,7 @@
 2 FORM jpg
 2 TITL Land Deed, Colvin, James, Sweetland Street, Cazenovia, NY
 1 RIN 9CFM9RjrSKiJgSfWzOVe
+1 REFN b44cc1b9-dc79-4889-a945-f821cfac01e6
 0 @O77@ OBJE
 1 FILE http://trees.ancestry.com/rd?f=image&guid=c0012b20-e287-4094
 2 CONC -b9b6-07c6ea5933ab&tid=61407337
@@ -7224,6 +7416,7 @@
 2 TITL Land Deed, Colvin, James, Upper Farnham Street, Cazenovia, N
 3 CONC Y
 1 RIN O77
+1 REFN c3af7db9-28d3-4675-bd74-02b437c22563
 0 @vDrFlV8GQNKD9Uskitqe@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\Land Deed, Colvin, James, Williams S
@@ -7231,6 +7424,7 @@
 2 FORM jpg
 2 TITL Land Deed, Colvin, James, Williams Street, Cazenovia, NY
 1 RIN vDrFlV8GQNKD9Uskitqe
+1 REFN 82a3f38b-cd34-4bdf-8b14-4c0ee0036544
 0 @yJVGaIRXQYqSc4dI5Duq@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\Land Deed, Colvin, James, Williams S
@@ -7238,6 +7432,7 @@
 2 FORM jpg
 2 TITL Land Deed, Colvin, James, Williams Street, Cazenovia, NY
 1 RIN yJVGaIRXQYqSc4dI5Duq
+1 REFN 6815f3ad-30d7-43a2-96de-f54dc1fe5ec9
 0 @ErbJZb8nTF2IXWRydtct@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\Land Deed, Colvin, James, Williams S
@@ -7245,6 +7440,7 @@
 2 FORM jpg
 2 TITL Land Deed, Colvin, James, Williams Street, Cazenovia, NY
 1 RIN ErbJZb8nTF2IXWRydtct
+1 REFN e053af2c-0024-41cf-b318-4173bf4e40e0
 0 @O173@ OBJE
 1 FILE http://trees.ancestry.com/rd?f=image&guid=b9c1900f-7267-480b
 2 CONC -8969-cb4349c1077f&tid=61407337
@@ -7256,6 +7452,7 @@
 2 FORM jpg
 2 TITL Land Deed, Colvin, Mary, Albany Street, Cazenovia, NY
 1 RIN O173
+1 REFN 9d3f28bc-ba88-43e3-9ef2-ea7a256a5a19
 0 @O158@ OBJE
 1 FILE http://trees.ancestry.com/rd?f=document&guid=6e949919-c6ea-4
 2 CONC 753-ae3f-00351232349d&tid=61407337
@@ -7266,6 +7463,7 @@
 2 FORM jpg
 2 TITL Lulu Hughes Colvin
 1 RIN O158
+1 REFN 8124f44a-1376-45c7-af87-02a6f52466a8
 0 @O68@ OBJE
 1 FILE http://trees.ancestry.com/rd?f=image&guid=7997b165-2a9f-41f8
 2 CONC -8816-562f9a8251f7&tid=61407337
@@ -7277,6 +7475,7 @@
 2 TITL Miitary headstone
 2 _DATE 22 Oct 2012
 1 RIN O68
+1 REFN da97ccda-801d-4d1e-84e6-b22dbfca7819
 0 @EZx1ee1iT7Gk7OuFybkI@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\New York, Abstracts of World War I M
@@ -7285,6 +7484,7 @@
 2 TITL New York, Abstracts of World War I Military Service, 1917-19
 3 CONC 19
 1 RIN EZx1ee1iT7Gk7OuFybkI
+1 REFN e8fef4a8-d3dd-4a0f-b758-74c3cfc52885
 0 @nOaIxkopRfKUSjBAjOMJ@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\New York, Civil War Muster Roll Abst
@@ -7295,6 +7495,7 @@
 3 CONC , New York; New York Civil War Muster Roll Abstracts, 1861-1
 3 CONC 900; Archive Collection #: 13775-83; Box #: 670; Roll #: 326
 1 RIN nOaIxkopRfKUSjBAjOMJ
+1 REFN 4576a26b-bbb8-4ee1-8803-0c6c9308a797
 0 @lzMp77vxT1SLud1iom7x@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\New York, County Marriages, 1847-184
@@ -7302,66 +7503,77 @@
 2 FORM jpg
 2 TITL New York, County Marriages, 1847-1849; 1907-1936
 1 RIN lzMp77vxT1SLud1iom7x
+1 REFN 88d28f99-89cb-4ca8-b1d6-58a0e3c30a04
 0 @q914luInRhKXf5iaRCE1@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\New York, State Census, 1855(5).jpg
 2 FORM jpg
 2 TITL New York, State Census, 1855
 1 RIN q914luInRhKXf5iaRCE1
+1 REFN aef4ec18-87e8-4f05-8233-ad215ce3c069
 0 @5K0ooiJkRvK084vKHH3d@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\New York, State Census, 1855(8).jpg
 2 FORM jpg
 2 TITL New York, State Census, 1855
 1 RIN 5K0ooiJkRvK084vKHH3d
+1 REFN 85efa8cf-5cd3-4539-a1ca-37be3224b811
 0 @wWC9fYDBQKeYCYbQzxMl@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\New York, State Census, 1855(16).jpg
 2 FORM jpg
 2 TITL New York, State Census, 1855
 1 RIN wWC9fYDBQKeYCYbQzxMl
+1 REFN 2fa2c2f6-95de-4e0e-aafc-5fd88af1e9bd
 0 @QzUUIDyoSPq6gLUDMJTm@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\New York, State Census, 1865(5).jpg
 2 FORM jpg
 2 TITL New York, State Census, 1865
 1 RIN QzUUIDyoSPq6gLUDMJTm
+1 REFN a6e8b776-7454-4e35-9970-b990bc2a6f36
 0 @0FlC4D7BRiSOv90v2n6x@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\New York, State Census, 1865(19).jpg
 2 FORM jpg
 2 TITL New York, State Census, 1865
 1 RIN 0FlC4D7BRiSOv90v2n6x
+1 REFN fff10300-7c90-429c-888b-24a798e09ef3
 0 @gdeK1oVZQcOvE3dOdkDS@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\New York, State Census, 1875(8).jpg
 2 FORM jpg
 2 TITL New York, State Census, 1875
 1 RIN gdeK1oVZQcOvE3dOdkDS
+1 REFN 8ff96a85-8855-47da-bf32-98331b8a5666
 0 @xK4KUWZtRcKeJNcm1jlB@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\New York, State Census, 1875(11).jpg
 2 FORM jpg
 2 TITL New York, State Census, 1875
 1 RIN xK4KUWZtRcKeJNcm1jlB
+1 REFN ca8aac77-b56c-472a-8730-948833d0ce3f
 0 @KwVSLPfxQfS2byzijBfd@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\New York, State Census, 1875(21).jpg
 2 FORM jpg
 2 TITL New York, State Census, 1875
 1 RIN KwVSLPfxQfS2byzijBfd
+1 REFN afc609e7-becd-40d8-970f-c58fc4b08c93
 0 @U8XdEZw4QQCdB9Wk2gdF@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\New York, State Census, 1892(5).jpg
 2 FORM jpg
 2 TITL New York, State Census, 1892
 1 RIN U8XdEZw4QQCdB9Wk2gdF
+1 REFN 2cc410f1-aec3-438d-acd4-b89c2f98f30b
 0 @QG0XVtMITBOpFdGPXGxa@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\New York, State Census, 1892(6).jpg
 2 FORM jpg
 2 TITL New York, State Census, 1892
 1 RIN QG0XVtMITBOpFdGPXGxa
+1 REFN c921d4b1-b485-49c5-a217-388e1122deb3
 0 @o4xsneUdT6ayO893pinP@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\New York, State Census, 1905(4).jpg
@@ -7371,6 +7583,7 @@
 3 CONC n Census Schedules, 1905; Election District: E.D. 02; City
 3 CONC : Hamilton; County: Madison; Page: 1
 1 RIN o4xsneUdT6ayO893pinP
+1 REFN 038e8467-1c9a-4bac-8b5a-27e8165244e0
 0 @zLYJKd7TQf61VsGq8hfi@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\New York, State Census, 1905(5).jpg
@@ -7380,6 +7593,7 @@
 3 CONC n Census Schedules, 1905; Election District: E.D. 02; City
 3 CONC : Hamilton; County: Madison; Page: 15
 1 RIN zLYJKd7TQf61VsGq8hfi
+1 REFN 39fe4354-48f2-4f7b-9086-b42d708b4b5d
 0 @Iux1O0H7QnWGbtqvbmsW@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\New York, State Census, 1905(6).jpg
@@ -7389,6 +7603,7 @@
 3 CONC n Census Schedules, 1905; Election District: E.D. 02; City
 3 CONC : Eaton; County: Madison
 1 RIN Iux1O0H7QnWGbtqvbmsW
+1 REFN 2a9fe060-0984-4a4e-a14f-1185dd01e51f
 0 @BqYEvAxNSee73bcaCee6@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\New York, State Census, 1905(7).jpg
@@ -7398,6 +7613,7 @@
 3 CONC n Census Schedules, 1905; Election District: E.D. 05; City
 3 CONC : Hamilton; County: Madison; Page: 5
 1 RIN BqYEvAxNSee73bcaCee6
+1 REFN 40364788-eb8a-4c48-90fe-7b32b46a3152
 0 @OlnNyETDSKOnhWae0n41@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\New York, State Census, 1905(8).jpg
@@ -7407,6 +7623,7 @@
 3 CONC n Census Schedules, 1905; Election District: E.D. 04; City
 3 CONC : Eaton; County: Madison; Page: 2
 1 RIN OlnNyETDSKOnhWae0n41
+1 REFN 5122c8fd-e6b8-4102-925e-9d0899216e55
 0 @i3el5JplSIGGcw4qY5Vq@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\New York, State Census, 1905(20).jpg
@@ -7416,6 +7633,7 @@
 3 CONC n Census Schedules, 1905; Election District: E.D. 03; City
 3 CONC : Oneida Ward 03; County: Madison; Page: 7
 1 RIN i3el5JplSIGGcw4qY5Vq
+1 REFN a3fb5d24-e4f9-4f49-8ddc-223b0334e48e
 0 @rPcyKFNFRv29MOZNnD2b@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\New York, State Census, 1915(1).jpg
@@ -7425,6 +7643,7 @@
 3 CONC n Census Schedules, 1915; Election District: 01; Assembly Di
 3 CONC strict: 01; City: Lebanon; County: Madison; Page: 07
 1 RIN rPcyKFNFRv29MOZNnD2b
+1 REFN 33a044b2-88c1-4564-9937-e29840a95c60
 0 @xerIiyCUTxSYj42YuIol@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\New York, State Census, 1915(4).jpg
@@ -7434,6 +7653,7 @@
 3 CONC n Census Schedules, 1915; Election District: 05; Assembly Di
 3 CONC strict: 01; City: Hamilton; County: Madison; Page: 06
 1 RIN xerIiyCUTxSYj42YuIol
+1 REFN c1469978-856e-4250-b55e-cc0e24eefe97
 0 @te7tBZfhQx6DE9p6243e@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\New York, State Census, 1915(5).jpg
@@ -7443,6 +7663,7 @@
 3 CONC n Census Schedules, 1915; Election District: 01; Assembly Di
 3 CONC strict: 01; City: Nelson; County: Madison; Page: 10
 1 RIN te7tBZfhQx6DE9p6243e
+1 REFN 89c8aa11-73aa-4d33-a47d-d3d7af59dee4
 0 @4osNBtT2T5yTRaoEvZZL@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\New York, State Census, 1925(2).jpg
@@ -7452,6 +7673,7 @@
 3 CONC n Census Schedules, 1925; Election District: 02; Assembly Di
 3 CONC strict: 01; City: Madison; County: Madison; Page: 4
 1 RIN 4osNBtT2T5yTRaoEvZZL
+1 REFN a397acd1-89d2-4fac-9e0e-7439b918a0d4
 0 @gvdfbvjaSPaiIlGdl7DN@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\New York, State Census, 1925(13).jpg
@@ -7461,6 +7683,7 @@
 3 CONC n Census Schedules, 1925; Election District: 04; Assembly Di
 3 CONC strict: 01; City: Barton; County: Tioga; Page: 12
 1 RIN gvdfbvjaSPaiIlGdl7DN
+1 REFN 7c9e1dcc-df5a-4157-9437-22befca28139
 0 @jiucDan7Q0qUPR51VUQK@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\New York, State Census, 1925(15).jpg
@@ -7471,6 +7694,7 @@
 3 CONC strict: 02; City: Syracuse Ward 19; County: Onondaga; Page
 3 CONC : 31
 1 RIN jiucDan7Q0qUPR51VUQK
+1 REFN ffe2d81f-d22a-4a0e-a070-4c48c14da4b9
 0 @R82VXyVgRsmuaUmr19i6@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\New York, Wills and Probate Records
@@ -7481,6 +7705,7 @@
 3 CONC , Madison County, New York; Author: New York. Surrogate's Co
 3 CONC urt (Madison County); Probate Place: Madison, New York
 1 RIN R82VXyVgRsmuaUmr19i6
+1 REFN 468f95ed-1d7f-48f7-bdf6-e9bab87feb34
 0 @O70@ OBJE
 1 FILE http://trees.ancestry.com/rd?f=image&guid=cd10a188-112e-4f49
 2 CONC -bd1c-cc611b2d19e0&tid=61407337
@@ -7496,6 +7721,7 @@
 3 CONC e 8 Obituary - Lulu Blanche Hughes
 2 _DATE Sat, Jan 6, 1968
 1 RIN O70
+1 REFN eb15d29e-b76e-4114-a005-6a3fa719b034
 0 @Uz1fHOeMStSSLepMVqkX@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\Obituary - Lulu Blanche Hughes.jpg
@@ -7503,6 +7729,7 @@
 2 TITL Obituary - Lulu Blanche Hughes
 2 _DATE 6 Jan 1968
 1 RIN Uz1fHOeMStSSLepMVqkX
+1 REFN 45328060-2943-470a-9af1-654e139db0bd
 0 @O174@ OBJE
 1 FILE http://trees.ancestry.com/rd?f=image&guid=7f42a3d4-7d35-4fe7
 2 CONC -968e-0544c28c2124&tid=61407337
@@ -7514,6 +7741,7 @@
 2 FORM jpg
 2 TITL Power of Attorney, Colvin, Mary, Cazenovia, NY
 1 RIN O174
+1 REFN 4be164a8-42b5-44e9-ad0b-0a4795190430
 0 @O83@ OBJE
 1 FILE http://trees.ancestry.com/rd?f=image&guid=426f08c6-5cf7-424a
 2 CONC -bf6e-7efd9431d44e&tid=61407337
@@ -7524,6 +7752,7 @@
 2 FORM jpg
 2 TITL record-image (28)
 1 RIN O83
+1 REFN 1b1d2d76-e8f0-4626-8172-8c47b5955743
 0 @nUMNvDIySnCM4XmfqDAK@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\Selected U.S. Federal Census Non-Pop
@@ -7534,6 +7763,7 @@
 2 _TEXT Census Year: 1880; Census Place: Georgetown, Madison, New Yo
 3 CONC rk
 1 RIN nUMNvDIySnCM4XmfqDAK
+1 REFN 0e6a0f8b-1670-4cab-a1a2-ba43110c6554
 0 @9CDmE5dVSheiDsRvpvSL@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\U.S. Census Non-Population Schedules
@@ -7544,6 +7774,7 @@
 3 CONC rk; Archive Collection Number: A50; Roll: 50; Page: 10; Line
 3 CONC : 6
 1 RIN 9CDmE5dVSheiDsRvpvSL
+1 REFN d6faf789-a83d-409f-bfd7-94755d42d9e8
 0 @wI5uBdNyQ8iZr82NY7xq@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\US Civil War Pension Index General I
@@ -7552,6 +7783,7 @@
 2 TITL U.S., Civil War Pension Index: General Index to Pension File
 3 CONC s, 1861-1934
 1 RIN wI5uBdNyQ8iZr82NY7xq
+1 REFN 8c242f61-2c3f-4fc0-b325-30ca4d731238
 0 @KwikzQs7SDqiZcfuNfJ4@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\U.S., Indexed County Land Ownershi
@@ -7560,6 +7792,7 @@
 2 TITL U.S., Indexed County Land Ownership Maps, 1860-1918
 2 _TEXT Collection Number: G&M_9; Roll Number: 9
 1 RIN KwikzQs7SDqiZcfuNfJ4
+1 REFN 1a8d8d22-fcca-4437-a1a2-ab2eb96675bf
 0 @eyczd133SPmYa1VyK2oV@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\U.S., World War I Draft Registratio
@@ -7569,6 +7802,7 @@
 2 _TEXT Registration Location: Tioga County, New York; Roll: 1819047
 3 CONC ; Draft Board: 0.
 1 RIN eyczd133SPmYa1VyK2oV
+1 REFN 44a0dcec-521b-4ce1-a0d8-c76e57fd30ea
 0 @8KHxgHYIQOWoovEFe7aK@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\U.S., World War I Draft Registratio
@@ -7578,6 +7812,7 @@
 2 _TEXT Registration State: New York; Registration County: Onondaga
 3 CONC ; Roll: 1819046; Draft Board: 5
 1 RIN 8KHxgHYIQOWoovEFe7aK
+1 REFN edf3ef3d-f586-40e3-b468-7d3d60f42ee7
 0 @3Nl8d0oQScaXkqFmX0Yi@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\U.S., World War II Draft Registratio
@@ -7590,6 +7825,7 @@
 3 CONC roup Title: Records of the Selective Service System; Recor
 3 CONC d Group Number: 14
 1 RIN 3Nl8d0oQScaXkqFmX0Yi
+1 REFN 54c45bf2-4846-4813-b098-40d079d8a430
 0 @O17@ OBJE
 1 FILE http://trees.ancestry.com/rd?f=image&guid=2262c07a-c9af-4a54
 2 CONC -ba1b-4557a0f4394c&tid=61407337
@@ -7601,188 +7837,5 @@
 2 TITL William Colvin Gravestone
 2 _DATE 10 Feb 2012
 1 RIN O17
-0 @T1091@ NOTE 1840 US Census:
-1 CONT M20-29, F0-5, F20-29, F20-29
-1 REFN da806916-b33b-4bcf-a0db-5cbe3fc13990
-1 RIN T1091
-0 @T1108@ NOTE 1875 NY census shows son James born c1846, Onondaga Co,
-1 REFN e15d8d5e-d063-46fb-9ee0-07fa4ad16eda
-1 RIN T1108
-0 @T1013@ NOTE Alta Benedict says she lived at "Payne" in Hamilton, when Le
-1 CONC wis worked at bakery, when they met. Also, on back of portra
-1 CONC it of Bertie Colvin, the note says, "Brother to Pearl Colvi
-1 CONC n "Mosher" Payne St Hamilton Bertie Colvin 14...." Bertie wa
-1 CONC s b. c. 1881, so would be 14 in c. 1895, so must be after 18
-1 CONC 95. Maybe when she turned 21, she moved out of her uncle Jam
-1 CONC es's house and into this house on Payne St. Assume she move
-1 CONC d with husband to Solsville when they got married.
-1 REFN 11a6f12f-9719-43c9-b5ea-d914b40ace82
-1 RIN T1013
-0 @T1018@ NOTE Assume lived with husband after they were married.
-1 REFN 0b0569aa-c1b9-4758-8627-51258e003d35
-1 RIN T1018
-0 @T1015@ NOTE Assume she lived with her uncle James Colvin after her fathe
-1 CONC r died. Then assume she moved along with James sometime befo
-1 CONC re 1900 census, maybe after mother died in 1897.
-1 REFN 65e1fde3-aef0-438a-9bfd-b7aa8723eb64
-1 RIN T1015
-0 @T1017@ NOTE Assume she moved (after her mother's death) with her uncle J
-1 CONC ames to Madison, where they appear in 1900 census. Assume sh
-1 CONC e moved out around age 21. Possibly her brother Clarence a
-1 CONC t this time moved in with their grandfather Aaron Spohn(er)
-1 CONC , where he is listed as "Clarence Spooner" in the 1900 censu
-1 CONC s (in Morrisville).
-1 REFN e671a34f-f9c3-4dc8-ae49-11105d06cdf5
-1 RIN T1017
-0 @T1014@ NOTE Assumed based on father.
-1 REFN 7143aa83-0a4f-400c-ac74-9b18af7becd2
-1 RIN T1014
-0 @T1008@ NOTE Assumed based on parents' residence. End date is a guess.
-1 REFN 2addc432-516a-4ac9-a30a-2152ec211eac
-1 RIN T1008
-0 @T242@ NOTE At residence of brother James.
-1 CONT time: 10:15 AM ET,
-1 CONT cause: cancer of the stomach
-1 REFN c4347911-9631-4d8d-8514-dd73e5a51146
-1 RIN T242
-0 @T1103@ NOTE By F. W. Tomlinson, Minister.
-1 CONT Alta Benedict says they were married in the house they rente
-1 CONC d in Solsville.
-1 REFN 5aede853-dad8-4f6a-83e3-578909b900dd
-1 RIN T1103
-0 @T782@ NOTE Date is a very rough guess, as there are discrepancies in th
-1 CONC e ages given for her in various census records. 1830 and 184
-1 CONC 0 census give birth 1800-1810.
-1 REFN b2f43db6-40c5-404b-a398-8c2986455394
-1 RIN T782
-0 @T1147@ NOTE Date is from 1900 census (where she is the wife of Isaac Mar
-1 CONC sh in Hamilton, NY).
-1 RIN T1147
-0 @T1009@ NOTE Dates are just guesses. Not sure if actually in Morrisvill
-1 CONC e area, or somewhere else in Eaton Township.
-1 REFN 2692199f-fe14-497c-b8e5-d39ead2834a0
-1 RIN T1009
-0 @T1112@ NOTE Funeral started at 10:30.
-1 REFN 0fdf14d5-7dc9-4835-9c5f-102c36955688
-1 RIN T1112
-0 @T1095@ NOTE Other census records give New York as place. Date is jus
-1 CONC t a guess.
-1 REFN 6cdc97fd-f0a1-494d-8868-efa819ccb4da
-1 RIN T1095
-0 @T1072@ NOTE Pearl's note says burried on Sunday.
-1 REFN ae31f42a-c8c3-4336-b951-e943bdf66cf3
-1 RIN T1072
-0 @T1113@ NOTE Place of last residence is given as Waverly, Tioga, NY, so a
-1 CONC ssume that is the place of death, also. 20th is from U.S., D
-1 CONC epartment of Veterans Affairs BIRLS Death File, 1850-2010 (a
-1 CONC ncestry.com)
-1 REFN fda4872f-e2c1-457c-9169-2f1fa527b16a
-1 RIN T1113
-0 @T1016@ NOTE Posthumously. Place is assumed to be uncle James Colvin's ho
-1 CONC use (where his father and presumably the whole family move
-1 CONC d into when his father became sick).
-1 REFN 92bb0551-6f3d-42f2-8592-6061d1692944
-1 RIN T1016
-0 @T1111@ NOTE SSDI gives Sep 1968; and funeral receipt (in possession of C
-1 CONC hris Mosher) is dated 17 Sep 1968. Transcript of death recor
-1 CONC ds in Madison Town says died Madison, resided Hamilton, leng
-1 CONC th of stay 1 month. I interpret this to mean she lived a
-1 CONC t 9 Eaton St., Hamilton, then she became sick and moving i
-1 CONC n with one of her children back at the farm house, then die
-1 CONC d about a month later. Transcript also gives cause as corona
-1 CONC ry artereosclerosis (15 years).
-1 REFN b63dc1b0-d1a3-452c-a12c-8549a6261780
-1 RIN T1111
-0 @T735@ NOTE Started using "George William Colvin" probably just after h
-1 CONC e was married
-1 REFN 72e270da-77b4-4308-840b-65642b2a52c1
-1 RIN T735
-0 @T781@ NOTE Starting date is before 1830. Ending date is a guess, base
-1 CONC d on child Thomas who b. c. 1845 in Onondaga Co.
-1 REFN 745ca193-72a4-40ec-8b1c-acab4a1f53d5
-1 RIN T781
-0 @T453@ NOTE There are discrepancies in the ages given by James in variou
-1 CONC s censuses for him and his wife.
-1 REFN 748f1bb5-b843-4e85-a36b-6ce2954ce181
-1 RIN T453
-0 @T762@ NOTE This source says Ellen was the "only daughter of James." I'
-1 CONC m assuming there were other sons, and that the daughter(s?
-1 CONC ) listed 1830 and 1840 census also already died (young).
-1 REFN f82e0bb0-a4ac-4b98-8571-d9caede3a089
-1 RIN T762
-0 @T959@ NOTE This was his residence before moving to his brother James'
-1 CONC s house while he was sick, for about 4 weeks before his deat
-1 CONC h. Start date is just a guess.
-1 REFN 1bcce95d-7cf8-4f59-a086-92cd53ede98e
-1 RIN T959
-0 @T185@ NOTE [with Henrietta]
-1 REFN db8dc541-8613-4240-9ff6-643890f8ff8d
-1 RIN T185
-0 @T1073@ NOTE at 7:30 AM EST, of pneumonia; place is assumed from residenc
-1 CONC e of father (and he was burried in Oneida Castle Cemetery)
-1 REFN 2f4d1ab4-aa69-46dd-9669-7c9dbb68d522
-1 RIN T1073
-0 @T1106@ NOTE because his wife Henrietta is alone in 1870 census, and Jame
-1 CONC s is not found in 1870 census
-1 REFN 29d301b3-612a-4d03-be29-e8a0b9c47d5e
-1 RIN T1106
-0 @T104@ NOTE by Reverend S. M. Dodge (from family interviews)
-1 REFN 58331e93-2e68-4b64-99d1-09b39a07f728
-1 RIN T104
-0 @T65@ NOTE date from SSDI
-1 REFN 3ae6f88b-0014-43c7-b6a9-6e62c7570d0d
-1 RIN T65
-0 @T659@ NOTE dates are approximate
-1 REFN 1e2968d2-a470-4b5f-9c5e-be32b788c6f2
-1 RIN T659
-0 @T1092@ NOTE do not confuse with Charles Cranson b. 1806-04-10 d. 1835-03
-1 CONC -31 (Venice, NY) son of Caleb and Hannah Porter; or Charle
-1 CONC s Cranson b. 1824 d. 1850-01-12 son of Elisha and Abigail (N
-1 CONC abby) Read
-1 REFN 50c679ea-a03c-4d24-95ca-f5ca2ac0cf95
-1 RIN T1092
-0 @T761@ NOTE house is between Lincklaen Street and Farnham Street, on nor
-1 CONC th side of street
-1 REFN cce24bfb-928b-4808-826a-aee56e7bab6c
-1 RIN T761
-0 @T186@ NOTE house on what is now Wilcox Road (which runs between NY Stat
-1 CONC e Route 80 and Chapman Road) which is now a dirt road, and d
-1 CONC oesn't go all the way through. Heading from Route 80 (just i
-1 CONC nside Georgetown from the De Ruyter township line), take a r
-1 CONC ight on the first road in Georgetown. This is Wilcox Road. T
-1 CONC he map shows J. Covin less than half a mile up this road o
-1 CONC n the left.
-1 REFN 0a1309ed-1e85-4f90-9ee2-b964b0bef9ad
-1 RIN T186
-0 @T1007@ NOTE issued through Railroad Board
-1 REFN 0025cd8c-3ae6-43dd-ba78-eaa1c250eaca
-1 RIN T1007
-0 @T61@ NOTE lived in Eaton when married
-1 REFN 43a67468-0642-4594-9a2a-95f78a9afaf7
-1 RIN T61
-0 @T1093@ NOTE not listed as kindred in her mother's probate records, so pr
-1 CONC obably died earlier
-1 REFN 8141199a-12c8-48c8-86a1-42b0035f3c7f
-1 RIN T1093
-0 @T1074@ NOTE of inflammatory rheumatism, at 4:00 PM EST
-1 REFN 772bc131-6c0b-46f3-b150-13f32dda981c
-1 RIN T1074
-0 @T1090@ NOTE place is from 1850 census
-1 REFN a6fdb402-4c05-468d-bcb8-ebdb17b786cd
-1 RIN T1090
-0 @T1107@ NOTE place is from 1875 NY census
-1 REFN 65f22b81-5c22-4907-af26-bf78b91d3ceb
-1 RIN T1107
-0 @T1071@ NOTE place is just a guess
-1 REFN dd8c63c2-1c5e-4b09-bb71-09e956f62000
-1 RIN T1071
-0 @T243@ NOTE sick at brother James Colvin's house
-1 REFN 9d5203c1-1cec-4f08-9f66-c80e8686d671
-1 RIN T243
-0 @T63@ NOTE until death?
-1 REFN 2dbd7f20-2f1f-4620-820b-748943af69bc
-1 RIN T63
-0 @xpFn6fkWTW65znujj8ED@ NOTE wedding photograph, probably taken near Solsville (in Madiso
-1 CONC n Township, Madison County, NY), where they were married
-1 RIN xpFn6fkWTW65znujj8ED
+1 REFN 345632c1-f479-40f8-9331-08b41400835c
 0 TRLR

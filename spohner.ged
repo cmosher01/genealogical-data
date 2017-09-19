@@ -14,10 +14,11 @@
 1 SUBM @Umy2qBWIRUiwVSS6Hcn4@
 1 FILE Mosher_Disosway_Harrison_Pazmino_2017-08-03.ged
 1 DATE 19 SEP 2017
-2 TIME 20:22:10
+2 TIME 21:53:27
 0 @Umy2qBWIRUiwVSS6Hcn4@ SUBM
 1 NAME Christopher Alan Mosher
 1 RIN Umy2qBWIRUiwVSS6Hcn4
+1 REFN c19b7323-ddf9-4bb3-bd33-2aca11651b59
 0 @I2089@ INDI
 1 _XY 76604 3672
 1 REFN 1b76fe95-5679-4c1a-bac3-268d416a98ae
@@ -193,7 +194,10 @@
 4 LONG W75.3327
 2 SOUR @S539@
 3 QUAY 1
-2 NOTE @T885@
+2 NOTE Fought in the Battle of Oriskany. Note that it is a well kno
+3 CONC wn fact that Hessian soldiers fought on the side of the Brit
+3 CONC ish against the Americans in the Revolution. I don't know wh
+3 CONC ich side Johann Georg Adle was fighting for.
 1 CENS
 2 DATE 02 AUG 1790
 2 PLAC Manheim, Herkimer, New York, USA
@@ -202,7 +206,10 @@
 4 LONG W74.8057
 2 SOUR @S545@
 3 QUAY 3
-2 NOTE @T894@
+2 NOTE Census gives Palatine, Mongomery Co. for the place. Manhei
+3 CONC m was formed from (part of Palatine) in 1817, so I'm assumin
+3 CONC g that he is in the part of Palatine that became Manheim, be
+3 CONC cause he is in Manheim later.
 1 CENS
 2 DATE 04 AUG 1800
 2 PLAC Manheim, Herkimer, New York, USA
@@ -228,7 +235,7 @@
 4 LONG W76.1191
 2 SOUR @S539@
 3 QUAY 1
-2 NOTE @T884@
+2 NOTE Battle of Sackets (Sackett's) Harbor, War of 1812.
 1 DEAT
 2 DATE 1819
 2 PLAC Manheim, Herkimer, New York, USA
@@ -304,7 +311,7 @@
 4 LONG W74.4366
 2 SOUR @S306@
 3 QUAY 0
-2 NOTE @T940@
+2 NOTE I am assuming "baptism" means confirmation
 1 DEAT
 2 DATE 28 MAY 1852
 2 PLAC Sterling, Cayuga, New York, USA
@@ -414,7 +421,9 @@
 2 SOUR @S-330979816@
 3 _APID 1,7181::1653745451
 3 OBJE @wAoDcfwkRjqaY3rlQGVT@
-2 NOTE @T902@
+2 NOTE place from NY Census 1875, which also gives age 67 (therefor
+3 CONC e b. c. 1808).
+3 CONT Nolan gives Clockville, Madison Co. as place.
 1 CENS
 2 DATE 01 JUN 1830
 2 PLAC Manheim, Herkimer, New York, USA
@@ -462,7 +471,8 @@
 2 NOTE Relation to Head of House: Aunt
 1 CENS
 2 DATE 01 JUN 1860
-2 NOTE @T742@
+2 NOTE Can find her in 1860 census (she is not the Lydia Strough li
+3 CONC sted in Fenner, that is her daughter).
 1 RESI
 2 DATE 1865
 2 PLAC Smithfield, Madison, New York, USA
@@ -608,6 +618,7 @@
 3 QUAY 1
 0 @P2259@ INDI
 1 _XY 73778 3733
+1 REFN fe7ba31f-c8a8-41a5-9e60-1a73db1fd160
 1 RIN P2259
 1 NAME Norton /Bellinger/
 2 SOUR @S-330979816@
@@ -779,6 +790,7 @@
 1 FAMS @F_I2153_I2152@
 0 @P2257@ INDI
 1 _XY 70305 3190
+1 REFN c6170582-4d5a-49fd-b14d-4d709637e31e
 1 RIN P2257
 1 NAME Anna Margaretha /Frolich/
 1 SEX F
@@ -886,6 +898,7 @@
 3 QUAY 1
 0 @P2218@ INDI
 1 _XY 70208 3384
+1 REFN 713aedc9-f5c4-47ec-8d80-9c698f1daa26
 1 RIN P2218
 1 NAME Katharina /House/
 1 SEX F
@@ -1007,7 +1020,7 @@
 2 SOUR @S466@
 3 PAGE p. 5
 3 QUAY 1
-2 NOTE @T699@
+2 NOTE date is just a guess
 1 DEAT
 2 DATE ABT 1772
 2 PLAC New York, USA
@@ -1378,6 +1391,7 @@
 2 DATE ABT 1665
 0 @P2280@ INDI
 1 _XY 77673 3553
+1 REFN 2a3d7b97-16b8-4e73-91c2-a3eb3661ce11
 1 RIN P2280
 1 NAME Anneb Eva /Klock/
 1 SEX F
@@ -1448,7 +1462,7 @@
 4 LONG W74.6833
 2 SOUR @S534@
 3 QUAY 1
-2 NOTE @T883@
+2 NOTE Lot 13 of the Harrison Patent, 650 acres
 1 WILL
 2 DATE 1742
 2 SOUR @S534@
@@ -1475,7 +1489,8 @@
 2 DATE 22 APR 1770
 2 SOUR @S534@
 3 QUAY 1
-2 NOTE @T895@
+2 NOTE this is probably not correct, due to dates of birth of him a
+3 CONC nd his father
 0 @I2098@ INDI
 1 _XY 78530 3564
 1 REFN e40b3ca4-6eaf-45a2-8b5a-81cfe58ba164
@@ -1546,6 +1561,7 @@
 3 _APID 1,60525::99821856
 0 @P2282@ INDI
 1 _XY 77901 3547
+1 REFN 7179601e-20ff-4e28-8508-165305a6807f
 1 RIN P2282
 1 NAME Jakob Heinrich /Klock/
 2 SOUR @S-340166919@
@@ -1612,7 +1628,7 @@
 2 DATE 05 OCT 1711
 2 SOUR @S534@
 3 QUAY 0
-2 NOTE @T878@
+2 NOTE "10-50-1711"
 0 @I2109@ INDI
 1 _XY 77670 3356
 1 REFN b8230a02-655d-49ae-8b86-fcebf798f4d0
@@ -1633,7 +1649,7 @@
 4 LONG W75.3327
 2 SOUR @S534@
 3 QUAY 1
-2 NOTE @T880@
+2 NOTE Killed in the Battle of Oriskany (Revolutionary War).
 0 @I2107@ INDI
 1 _XY 78207 3374
 1 REFN e8bfe9a3-128c-4f23-b19e-eab9143e8c19
@@ -1680,7 +1696,7 @@
 2 PLAC Germany
 2 SOUR @S535@
 3 QUAY 1
-2 NOTE @T879@
+2 NOTE source gives "1705/1708"
 1 BIRT
 2 DATE ABT 1720
 1 EVEN
@@ -1688,13 +1704,15 @@
 2 DATE ABT 1776
 2 SOUR @S534@
 3 QUAY 1
-2 NOTE @T875@
+2 NOTE commanded 2nd Regiment of Tryon County, NY militia in Revolu
+3 CONC tionary War
 1 EVEN
 2 TYPE signed
 2 DATE 04 JUL 1776
 2 SOUR @S534@
 3 QUAY 1
-2 NOTE @T877@
+2 NOTE Signed the Mohawk Valley Declaration of Independence (fina
+3 CONC l version).
 1 DEAT
 2 DATE 09 MAY 1798
 2 PLAC St Johnsville, Montgomery, New York, USA
@@ -1708,22 +1726,29 @@
 2 PLAC Old Klock Cemetery, St Johnsville, Montgomery, New York, USA
 2 SOUR @S534@
 3 QUAY 1
-2 NOTE @T886@
+2 NOTE date is from Ancestral File
 1 RESI
 2 PLAC Fort Klock, St Johnsville, Montgomery, New York, USA
 2 SOUR @S534@
 3 QUAY 1
-2 NOTE @T874@
+2 NOTE 3/4 miles east of Saint Johnsville. The "Fort Klock" of th
+3 CONC e Revolutionary War. (Note that there is another Fort Kloc
+3 CONC k 2 miles east of Saint Johnsville.)
 1 EVEN
 2 TYPE military
 2 SOUR @S534@
 3 QUAY 1
-2 NOTE @T873@
+2 NOTE He was an officer in the French and Indian War. He was take
+3 CONC n prisoner.
 1 EVEN
 2 TYPE bibliography
 2 SOUR @S534@
 3 QUAY 1
-2 NOTE @T876@
+2 NOTE "Drums Along the Mohawk" by Edmonds has many references to C
+3 CONC ol. Jacob, as has- "Little Red Foot", "Cardigan", "Maid at A
+3 CONC rms", and "America", all novels by Robert W. Chambers, base
+3 CONC d on fact. "Red Heritage" by Marritt Parmelee Allen is anoth
+3 CONC er novel in which Col. Jacob is mentioned
 0 @I2110@ INDI
 1 _XY 77811 3362
 1 REFN 1229b7c3-788f-4092-a4a2-772cf181c6da
@@ -1886,7 +1911,7 @@
 3 CONC A
 2 SOUR @S534@
 3 QUAY 1
-2 NOTE @T870@
+2 NOTE date is just a guess
 0 @I2102@ INDI
 1 _XY 78227 3495
 1 REFN b7e3dd6d-0c00-40d4-9947-1d81ffc7c717
@@ -1898,6 +1923,7 @@
 1 FAMC @F_I2101_I2115@
 0 @P2281@ INDI
 1 _XY 77802 3553
+1 REFN af932fa3-790d-4a09-b84e-c190d4b39627
 1 RIN P2281
 1 NAME Mary /Klock/
 1 SEX F
@@ -1928,6 +1954,7 @@
 2 DATE ABT 1680
 0 @P995@ INDI
 1 _XY 70814 3884
+1 REFN e88fdc81-628b-4023-83fd-e11c8826af2c
 1 RIN P995
 1 NAME James D. /Moon/
 2 SOUR @S-340038419@
@@ -2125,7 +2152,7 @@
 2 SOUR @S466@
 3 PAGE p. 4
 3 QUAY 1
-2 NOTE @T851@
+2 NOTE date is a guess based on age of first child
 0 @I2115@ INDI
 1 _XY 78461 3382
 1 REFN ebe66b27-0030-4f1e-9db9-017aaa48ec3a
@@ -2137,6 +2164,7 @@
 1 FAMS @F_I2101_I2115@
 0 @P1204@ INDI
 1 _XY 73936 3851
+1 REFN 05a3a8e6-ddf1-4d21-a135-1f23762752a2
 1 RIN P1204
 1 NAME Alice Arabelle /Nye/
 1 SEX F
@@ -2151,6 +2179,7 @@
 2 DATE 1881
 0 @P1201@ INDI
 1 _XY 74444 3851
+1 REFN b26fd39d-1f53-4423-87a2-aaa19aa100c6
 1 RIN P1201
 1 NAME Arabella L /Nye/
 1 SEX F
@@ -2165,6 +2194,7 @@
 2 DATE 1876
 0 @P1197@ INDI
 1 _XY 74305 3851
+1 REFN 043913e4-46fe-4996-98a0-609b1ec12945
 1 RIN P1197
 1 NAME Archibald Leon /Nye/
 2 SOUR @S-340038419@
@@ -2285,6 +2315,7 @@
 4 LONG W75.6402
 0 @P1203@ INDI
 1 _XY 74188 3851
+1 REFN cd6564e8-2724-4e81-b9b5-e0854aaf7d3d
 1 RIN P1203
 1 NAME Arthur W /Nye/
 1 SEX M
@@ -2299,6 +2330,7 @@
 2 DATE 02 JUN 1875
 0 @P1200@ INDI
 1 _XY 74682 3851
+1 REFN 60a2dd65-32f0-43ec-982d-39743ae938c2
 1 RIN P1200
 1 NAME Ernest C /Nye/
 1 SEX M
@@ -2313,6 +2345,7 @@
 2 DATE 08 JUN 1889
 0 @P1198@ INDI
 1 _XY 74789 3857
+1 REFN f1f77391-e353-437e-8bc0-ed84b7d8aa26
 1 RIN P1198
 1 NAME Ethel Stella /Nye/
 2 SOUR @S-340038419@
@@ -2403,6 +2436,7 @@
 3 CONC : Daughter
 0 @P1196@ INDI
 1 _XY 74562 3851
+1 REFN db4e5638-c99f-49d6-820d-5bf16c6e8757
 1 RIN P1196
 1 NAME Floyd Earl /Nye/
 1 SEX M
@@ -2421,6 +2455,7 @@
 4 LONG W74.2224
 0 @P1202@ INDI
 1 _XY 74068 3851
+1 REFN 9f9b8fbd-66bb-4cb3-be72-e53e9e738094
 1 RIN P1202
 1 NAME Mary Anna /Nye/
 1 SEX F
@@ -2435,6 +2470,7 @@
 2 DATE 29 MAY 1875
 0 @P1199@ INDI
 1 _XY 74259 3727
+1 REFN 9be6d37c-2834-41f1-aa8c-6be8a7fa06e2
 1 RIN P1199
 1 NAME Wilson G. /Nye/
 2 SOUR @S-340038419@
@@ -2581,7 +2617,7 @@
 4 LONG W74.8596
 2 SOUR @S540@
 3 QUAY 1
-2 NOTE @T891@
+2 NOTE on Glen Patent (north of Little Falls)
 0 @I2142@ INDI
 1 _XY 75304 3433
 1 REFN db0d4aeb-6beb-4127-8dfd-572c74a3e343
@@ -2720,7 +2756,7 @@
 2 DATE FROM 1775 TO 1776
 2 SOUR @S540@
 3 QUAY 1
-2 NOTE @T889@
+2 NOTE Revolutionary War
 1 DEAT
 2 DATE 07 JUN 1847
 2 PLAC Manheim, Herkimer, New York, USA
@@ -2754,7 +2790,7 @@
 4 LONG W75.3327
 2 SOUR @S239@
 3 QUAY 0
-2 NOTE @T888@
+2 NOTE Killed in the Battle of Oriskany, Revolutionary War
 0 @I2132@ INDI
 1 _XY 75390 3512
 1 REFN 5a701f60-d8f3-47b4-bd15-38eb6a876147
@@ -2806,7 +2842,8 @@
 4 LONG E7.7333
 2 SOUR @S239@
 3 QUAY 0
-2 NOTE @T890@
+2 NOTE This date seems a little too early. Maybe c. 1737 is a bette
+3 CONC r fit.
 1 DEAT
 2 DATE 06 AUG 1777
 2 PLAC Oriskany, Oneida, New York, USA
@@ -2815,7 +2852,7 @@
 4 LONG W75.3327
 2 SOUR @S239@
 3 QUAY 0
-2 NOTE @T887@
+2 NOTE Killed in the Battle of Oriskany, Revolutionary War.
 0 @I2133@ INDI
 1 _XY 75268 3506
 1 REFN 90a65125-a2c3-4d95-93b7-a7ec6b6dad9f
@@ -2867,6 +2904,7 @@
 4 LONG W74.9852
 0 @P2707@ INDI
 1 _XY 77524 3553
+1 REFN 865bd66c-fcb6-4a18-970d-01e1c9afdd1b
 1 RIN P2707
 1 NAME Mattheus Johannes /Ritter/
 1 SEX M
@@ -2929,7 +2967,7 @@
 2 SOUR @S549@
 2 SOUR @S552@
 3 QUAY 1
-2 NOTE @T899@
+2 NOTE Killed in the Battle of Oriskany, Revolutionary War.
 0 @I2155@ INDI
 1 _XY 79020 3485
 1 REFN fe128207-5c27-428d-a898-2e5aa8aa7d94
@@ -3048,7 +3086,7 @@
 2 SOUR @S549@
 2 SOUR @S552@
 3 QUAY 1
-2 NOTE @T898@
+2 NOTE Killed in the Battle of Oriskany, Revolutionary War
 0 @I2164@ INDI
 1 _XY 79402 3389
 1 REFN bbf33a24-a72e-4ba7-9399-76a540bdccd6
@@ -3119,12 +3157,13 @@
 2 DATE 06 AUG 1777
 2 SOUR @S549@
 3 QUAY 1
-2 NOTE @T897@
+2 NOTE Held rank of Major in the Battle of Oriskany, Revolutionar
+3 CONC y War, where he was mortally wounded.
 1 DEAT
 2 DATE 01 SEP 1777
 2 SOUR @S549@
 3 QUAY 1
-2 NOTE @T896@
+2 NOTE From wounds received in the Battle of Oriskany
 0 @I2154@ INDI
 1 _XY 78862 3485
 1 REFN bfb65ea3-bde9-4f08-9e78-c8b866dabc89
@@ -3151,7 +3190,7 @@
 4 LONG W74.5585
 2 SOUR @S550@
 3 QUAY 1
-2 NOTE @T900@
+2 NOTE place is from Marcia Seeber Alary's Seeber web site.
 0 @I2099@ INDI
 1 _XY 78734 3485
 1 REFN d784a764-5e8c-45ad-a796-621a4bd4f883
@@ -3250,7 +3289,7 @@
 2 SOUR @S549@
 2 SOUR @S552@
 3 QUAY 1
-2 NOTE @T901@
+2 NOTE Killed in the Battle of Oriskany, Revolutionary War.
 0 @I2018@ INDI
 1 _XY 72645 3340
 1 REFN 633a18e4-982b-425e-8c41-b232543c2930
@@ -3357,7 +3396,8 @@
 2 SOUR @S-333148567@
 3 _APID 1,7250::1398344014
 3 OBJE @VL1lUUBRR4m0J3nkBbwg@
-2 NOTE @T1089@
+2 NOTE Later sources (e.g., census and cemetery inscriptions) giv
+3 CONC e birth year as 1830.
 1 BAPM
 2 DATE 04 MAR 1832
 2 PLAC Dutch Reformed Church, 102 Church Street, Herkimer, Herkimer
@@ -3396,7 +3436,7 @@
 1 EVEN
 2 TYPE name change
 2 DATE BET 07 SEP 1850 AND 1860
-2 NOTE @T746@
+2 NOTE changed last name to "Spohner" or "Spooner"
 1 CENS
 2 DATE 01 JUN 1860
 2 PLAC Smithfield, Madison, New York, USA
@@ -3434,7 +3474,7 @@
 2 PLAC Morrisville, Eaton, Madison, New York, USA
 2 SOUR @S525@
 3 QUAY 2
-2 NOTE @T770@
+2 NOTE same location as in 1875 altas
 1 RESI
 2 DATE 1870
 2 PLAC Morrisville, Eaton, Madison, New York, USA
@@ -3473,7 +3513,10 @@
 2 PLAC Spohner House, Morrisville, Madison, New York, USA
 2 SOUR @S487@
 3 QUAY 2
-2 NOTE @T1099@
+2 NOTE A. Spohner
+3 CONT [house is shown at south-east corner of what is today (2002
+3 CONC ) US Route 20 and Williams Corners Road.]
+3 CONT [house is within lot] 22 [in] DIST. No. 4
 1 CENS
 2 DATE 16 FEB 1892
 2 PLAC Eaton, Madison, New York, USA
@@ -3535,7 +3578,7 @@
 2 SOUR @S397@
 2 SOUR @S-313778072@
 3 _APID 1,60525::12601234
-2 NOTE @T881@
+2 NOTE date is just a guess
 0 @I1994@ INDI
 1 _XY 70591 3790
 1 REFN 04405fee-1173-4cc4-a5b7-ce1c4894de5d
@@ -3603,6 +3646,7 @@
 3 QUAY 0
 0 @P2607@ INDI
 1 _XY 70814 3290
+1 REFN a2e28252-4cda-4807-9cbe-1816d7286ece
 1 RIN P2607
 1 NAME Anna Margaretha /Spohn/
 1 SEX F
@@ -3704,6 +3748,7 @@
 4 LONG W74.9586
 0 @P1183@ INDI
 1 _XY 70948 3790
+1 REFN 3204ac9a-5f6c-49a6-9b1f-7f84884a3734
 1 RIN P1183
 1 NAME Esther /Spohn/
 2 SOUR @S-340304055@
@@ -3771,7 +3816,7 @@
 3 PAGE Year: 1850; Census Place: Herkimer, Herkimer, New York; Roll
 4 CONC : M432_513; Page: 2A; Image: 252
 3 OBJE @LgBNtRI8QPaY3Ah1zaFp@
-2 NOTE @T1006@
+2 NOTE place is from Descendants of Johann Conrad Kilts
 1 CENS
 2 DATE 06 AUG 1810
 2 PLAC Herkimer, Herkimer, New York, USA
@@ -3829,7 +3874,8 @@
 3 MAP
 4 LATI N43.0256
 4 LONG W74.986
-2 NOTE @T707@
+2 NOTE Date is just a guess based on the fact that he is in 1850 ce
+3 CONC nsus, and not 1860 census. Place is just a guess.
 0 @I2055@ INDI
 1 _XY 71298 3790
 1 REFN 75aef006-b873-42fe-a96c-6f032a76602a
@@ -3884,6 +3930,7 @@
 3 OBJE @LgBNtRI8QPaY3Ah1zaFp@
 0 @P2225@ INDI
 1 _XY 70871 3584
+1 REFN f6df4bdf-fbd1-4d24-a9f7-c377018b7ef9
 1 RIN P2225
 1 NAME Heinrich M. /Spohn/
 1 SEX M
@@ -3968,6 +4015,7 @@
 3 OBJE @fudOAFi2SgaBqDDFdfBk@
 0 @P2608@ INDI
 1 _XY 70675 3290
+1 REFN b5ac6c25-3702-411b-a7be-a27379250855
 1 RIN P2608
 1 NAME Johan Adam /Spohn/
 1 SEX M
@@ -3982,6 +4030,7 @@
 2 PLAC New York, United States
 0 @P2606@ INDI
 1 _XY 70525 3297
+1 REFN b2335b5b-c4cc-47da-9b27-3ed98b604449
 1 RIN P2606
 1 NAME Johan Valentin /Spohn/
 1 SEX M
@@ -4060,19 +4109,24 @@
 4 LONG W73.9353
 2 SOUR @S470@
 3 QUAY 1
-2 NOTE @T706@
+2 NOTE based on birth date and place of son Johann Henrich, assum
+3 CONC e the family came with the Palatine immigration to this area
 1 RESI
 2 DATE FROM 1713 TO 1722
 2 PLAC Hartmansdorf, Middleburgh, Schoharie, New York, USA
 2 SOUR @S469@
 3 QUAY 1
-2 NOTE @T703@
+2 NOTE Since Henrich is on Simmendinger's list as a resident of Har
+3 CONC tmansdorf, I assume he came there with all the other Palatin
+3 CONC e families. Dates are approximate.
 1 RESI
 2 DATE ABT 1717
 2 PLAC Hartmansdorf, Middleburgh, Schoharie, New York, USA
 2 SOUR @S468@
 3 QUAY 1
-2 NOTE @T702@
+2 NOTE "Hartman's dorf" was a Palatine settlement between Middlebur
+3 CONC gh and Schoharie, which only existed from
+3 CONT about 1713 to about 1722.
 1 RESI
 2 DATE FROM 1722
 2 PLAC East Herkimer, Herkimer, New York, USA
@@ -4081,7 +4135,16 @@
 4 LONG W74.964
 2 SOUR @S476@
 3 QUAY 1
-2 NOTE @T710@
+2 NOTE "Hendrick Spoon" lot #7 on north side of Mohawk River (100 a
+3 CONC cres), of the list of patentees on the "Burnetsfield Patent
+3 CONC " (request 1721, issued 25 Apr 1725). Also see "History of t
+3 CONC he Mohawk Palatines" at http://us.geocities.com/christman19/
+3 CONC mvmp.html. The patent covered lands in present-day (2002) He
+3 CONC rkimer Village and surrounding. Heinrich Spoon (Sr.)'s lot w
+3 CONC as near present-day East Herkimer Village (in Herkimer towns
+3 CONC hip), and his son Heinrich Spoon (Jr.)'s lot was on the oppo
+3 CONC site side of Mohawk River (in today's German Flatts township
+3 CONC ).
 1 DEAT
 2 DATE ABT 1745
 2 PLAC Herkimer, New York, USA
@@ -4112,7 +4175,7 @@
 3 MAP
 4 LATI N42.1231
 4 LONG W73.9353
-2 NOTE @T712@
+2 NOTE Assume he was living with his father.
 1 BAPM
 2 DATE 10 AUG 1712
 2 PLAC Saint Paul's Lutheran Church, West Camp, Ulster, New York, U
@@ -4122,7 +4185,7 @@
 1 RESI
 2 DATE FROM 1713 TO 1722
 2 PLAC Hartmansdorf, Middleburgh, Schoharie, New York, USA
-2 NOTE @T709@
+2 NOTE Assume he was living with his father.
 1 RESI
 2 DATE FROM 1722
 2 PLAC German Flatts, Herkimer, New York, USA
@@ -4131,7 +4194,8 @@
 4 LONG W74.9852
 2 SOUR @S476@
 3 QUAY 1
-2 NOTE @T708@
+2 NOTE "Henrick Spoon Jr." on Burnetsfield patent (see father's not
+3 CONC e).
 1 DEAT
 2 DATE 1750
 2 PLAC Herkimer, Herkimer, New York, USA
@@ -4147,7 +4211,7 @@
 4 LONG W74.9852
 2 SOUR @S477@
 3 QUAY 1
-2 NOTE @T711@
+2 NOTE "Staley Patent" from Indians
 0 @I2048@ INDI
 1 _XY 70472 3384
 1 REFN b8719fec-68f9-44af-a8a1-c3e4e139f8e0
@@ -4162,13 +4226,15 @@
 2 PLAC Hartmansdorf, Middleburgh, Schoharie, New York, USA
 2 SOUR @S467@
 3 QUAY 1
-2 NOTE @T704@
+2 NOTE source shows "Schoharie"; Hartmansdorf is assumed from resid
+3 CONC ence of father
 1 BAPM
 2 DATE 22 JAN 1716
 2 PLAC Hartmansdorf, Middleburgh, Schoharie, New York, USA
 2 SOUR @S467@
 3 QUAY 1
-2 NOTE @T705@
+2 NOTE source shows "Schoharie"; Hartmansdorf is assumed from resid
+3 CONC ence of father
 1 DEAT
 2 DATE 30 AUG 1817
 2 PLAC Herkimer, Herkimer, New York, USA
@@ -4177,7 +4243,8 @@
 4 LONG W74.986
 2 SOUR @S239@
 3 QUAY 0
-2 NOTE @T852@
+2 NOTE date is probably wrong, because it would make him over 100 y
+3 CONC ears old
 0 @I1997@ INDI
 1 _XY 70208 3584
 1 REFN 57fac85d-a1d0-401a-ac89-a47fcda08823
@@ -4229,7 +4296,7 @@
 2 SOUR @S466@
 3 PAGE p. 46
 3 QUAY 1
-2 NOTE @T697@
+2 NOTE place is assumed from burial
 1 BURI
 2 DATE 30 APR 1830
 2 PLAC Reformed Church Cemetery, German Flatts, Herkimer, New York
@@ -4237,7 +4304,7 @@
 2 SOUR @S466@
 3 PAGE p. 46
 3 QUAY 1
-2 NOTE @T698@
+2 NOTE is this the Old Fort Herkimer Church?
 0 @I2000@ INDI
 1 _XY 70494 3684
 1 REFN d89f85f2-b932-48bd-8de6-ded80c7062cc
@@ -4292,6 +4359,7 @@
 3 QUAY 0
 0 @P2223@ INDI
 1 _XY 70745 3590
+1 REFN 23dd8eeb-6490-40c2-a676-34f72a031852
 1 RIN P2223
 1 NAME Johannes /Spohn/
 1 SEX M
@@ -4304,6 +4372,7 @@
 4 LONG W74.9852
 0 @P2252@ INDI
 1 _XY 70607 3490
+1 REFN 20c228d9-a448-4163-a7c4-f8950062d534
 1 RIN P2252
 1 NAME Katharina /Spohn/
 1 SEX F
@@ -4453,7 +4522,7 @@
 4 LONG W74.9586
 1 EVEN
 2 TYPE note
-2 NOTE @T701@
+2 NOTE name is given elsewhere as Johann Nicholas Spohn
 0 @I2053@ INDI
 1 _XY 71058 3790
 1 REFN 7a73e7ce-4428-4813-b021-a76b6bc72736
@@ -4543,6 +4612,7 @@
 2 NOTE Age: 7
 0 @P1186@ INDI
 1 _XY 70838 3790
+1 REFN 6642cf97-f370-4026-a2f2-b1dad380ce1e
 1 RIN P1186
 1 NAME Susan /Spohn/
 2 SOUR @S-340304055@
@@ -4604,6 +4674,7 @@
 4 LONG W74.8596
 0 @P2253@ INDI
 1 _XY 70492 3484
+1 REFN 6b7c3120-34e6-4751-a25e-51448c13fd03
 1 RIN P2253
 1 NAME Warner /Spohn/
 1 SEX M
@@ -4614,6 +4685,7 @@
 2 DATE BEF 1800
 0 @P2258@ INDI
 1 _XY 70208 3184
+1 REFN 08deae94-fe16-42bf-84fb-72222189e005
 1 RIN P2258
 1 NAME Werner /Spohn/
 1 SEX M
@@ -4784,7 +4856,7 @@
 2 SOUR @S-333148567@
 3 _APID 1,7250::1398344020
 3 OBJE @VL1lUUBRR4m0J3nkBbwg@
-2 NOTE @T1087@
+2 NOTE place is from Nolan
 1 RESI
 2 DATE 1870
 2 PLAC Morrisville,Eaton, Madison, New York, United States
@@ -4881,6 +4953,7 @@
 3 OBJE @7R1qmlRpQPmgRukRvhrf@
 0 @P994@ INDI
 1 _XY 70208 3890
+1 REFN 6eaff59f-5d48-408e-aca2-e27bd1e7107d
 1 RIN P994
 1 NAME Emma wife of Herman /Spohner/
 2 SOUR @S-340038419@
@@ -5007,6 +5080,7 @@
 3 OBJE @KQ1pkPYSSAG1Xr34mntO@
 0 @P1623@ INDI
 1 _XY 71073 3884
+1 REFN 68e8851d-0da6-4c74-b977-4b2cc8626700
 1 RIN P1623
 1 NAME Florence E. wife of Aaron /Spohner/
 2 SOUR @S-340037973@
@@ -5317,7 +5391,9 @@
 4 LONG W75.6682
 2 SOUR @S602@
 3 QUAY 1
-2 NOTE @T1041@
+2 NOTE But he is age 19 in 1875 NY census (so born c. 1856). Plac
+3 CONC e is from 1875 NY census. 1900 census gives "Dec 1853" age "
+3 CONC 46".
 1 RESI
 2 DATE 1860
 2 PLAC Smithfield, Madison, New York, USA
@@ -5494,7 +5570,7 @@
 2 SOUR @S-333148567@
 3 _APID 1,7250::1398344017
 3 OBJE @VL1lUUBRR4m0J3nkBbwg@
-2 NOTE @T1085@
+2 NOTE place is a guess
 1 RESI
 2 DATE 1860
 2 PLAC Smithfield, Madison, New York, USA
@@ -5857,7 +5933,7 @@
 1 RESI
 2 DATE FROM 1861 TO 1886
 2 PLAC Morrisville, Eaton, Madison, New York, USA
-2 NOTE @T1011@
+2 NOTE Dates are guesses.
 1 BIRT
 2 DATE 26 JUL 1861
 2 PLAC Madison, New York, USA
@@ -5883,7 +5959,7 @@
 2 SOUR @S-333148567@
 3 _APID 1,7250::1398344018
 3 OBJE @VL1lUUBRR4m0J3nkBbwg@
-2 NOTE @T1086@
+2 NOTE place from NY Census, 1875
 1 RESI
 2 DATE 1865
 2 PLAC Smithfield, Madison, New York, USA
@@ -5949,11 +6025,14 @@
 3 MAP
 4 LATI N43.0826
 4 LONG W75.6335
-2 NOTE @T1010@
+2 NOTE Assume based on husband. Dates are guesses.
 1 RESI
 2 DATE FROM 09 FEB 1894 TO 01 JUN 1897
 2 PLAC Siloam, Smithfield, Madison, New York, USA
-2 NOTE @T1012@
+2 NOTE Assumed based on husband (assume family moved in with Willia
+3 CONC m's brother, James Colvin, when William became sick). Assum
+3 CONC e Nancy and Pearl (at least) continued living there after Wi
+3 CONC lliam's death.
 1 DEAT
 2 DATE 01 JUN 1897
 2 PLAC Morrisville, Eaton, Madison, New York, USA
@@ -5961,7 +6040,8 @@
 3 _APID 1,70572::515282
 2 SOUR @S-313778072@
 3 _APID 1,60525::30656547
-2 NOTE @T831@
+2 NOTE [need to check NY Vital Records: death certificate #23117 "N
+3 CONC ancy A. Colvin", this might not be her]
 1 BURI
 2 DATE JUN 1897
 2 PLAC Oneida Castle Cemetery, Oneida Castle, Oneida, New York, USA
@@ -5982,7 +6062,7 @@
 2 DATE 24 SEP 1753
 2 SOUR @S534@
 3 QUAY 0
-2 NOTE @T871@
+2 NOTE or the 20th
 1 DEAT
 2 DATE 10 JAN 1841
 2 SOUR @S534@
@@ -5993,7 +6073,7 @@
 3 CONC r, New York, USA
 2 SOUR @S534@
 3 QUAY 1
-2 NOTE @T872@
+2 NOTE date is just a guess
 0 @I2146@ INDI
 1 _XY 74497 3633
 1 REFN ea98b30d-c254-4444-a92c-65753bd244dc
@@ -6073,13 +6153,15 @@
 4 LONG E9.2833
 2 SOUR @S536@
 3 QUAY 1
-2 NOTE @T941@
+2 NOTE Hessian Soldier (before coming to USA)
 1 EVEN
 2 TYPE military
 2 DATE 20 SEP 1782
 2 SOUR @S542@
 3 QUAY 1
-2 NOTE @T892@
+2 NOTE He was a "Hessian Solidier" in the Revolutionary War, in Com
+3 CONC pany 4 of Erb Prinz Regiment. This is the date that he deser
+3 CONC ted the British troops and joined the American troops.
 1 CENS
 2 DATE 02 AUG 1790
 2 PLAC Canajoharie, Montgomery, New York, USA
@@ -6693,7 +6775,11 @@
 2 SOUR @S-333148567@
 3 _APID 1,7250::1398344015
 3 OBJE @VL1lUUBRR4m0J3nkBbwg@
-2 NOTE @T893@
+2 NOTE place from NY Census, 1875;
+3 CONT US Census 1850 gives age 18;
+3 CONT 1900 census gives Oct 1830 age 69;
+3 CONT (other census ages conflict as well);
+3 CONT Cemetery Inscriptions of Madison Co. gives 5 Oct 1831
 1 BAPM
 2 DATE 22 MAY 1831
 2 PLAC Old Yellow Church, Manheim, Herkimer, New York, USA
@@ -6858,7 +6944,7 @@
 3 PAGE vol. 4, p. 23
 2 SOUR @S-340037888@
 3 _APID 1,70572::6350983
-2 NOTE @T673@
+2 NOTE place is a guess, based on burial
 1 BURI
 2 DATE ABT 18 FEB 1908
 2 PLAC Morrisville Cemetery, Morrisville, Madison, New York, USA
@@ -6867,7 +6953,7 @@
 2 SOUR @S397@
 2 SOUR @S-340037888@
 3 _APID 1,70572::6350983
-2 NOTE @T882@
+2 NOTE date is just a guess
 0 @I534@ INDI
 1 _XY 74142 3733
 1 REFN e3f1ccf6-c63e-437b-ad79-988a99299873
@@ -6908,6 +6994,7 @@
 3 OBJE @8qyGGTqCT2Gr4ZTQn30L@
 0 @P547@ INDI
 1 _XY 74012 3733
+1 REFN 8349b31b-43ea-462c-964c-ec80d7fb2c67
 1 RIN P547
 1 NAME unknown /Strough/
 2 SOUR @S473@
@@ -6918,6 +7005,7 @@
 2 SOUR @S473@
 0 @P1195@ INDI
 1 _XY 74495 3740
+1 REFN 35368f4e-8155-41dd-b641-e9587597c9ed
 1 RIN P1195
 1 NAME Hiram /Sylvester/
 1 SEX M
@@ -7165,7 +7253,7 @@
 2 PLAC Germany
 2 SOUR @S239@
 3 QUAY 0
-2 NOTE @T700@
+2 NOTE also gives Oberulikon, Zurich, Switzerland
 0 @I2040@ INDI
 1 _XY 72943 3433
 1 REFN 778c0ab2-8ad0-4eb8-bfee-bdbc97c75eab
@@ -7207,6 +7295,7 @@
 1 CHIL @I2090@
 1 CHIL @I2091@
 0 @F_P2259_I2057@ FAM
+1 REFN 594e51cd-9392-4aba-84ce-b9ee2177612d
 1 RIN F_P2259_I2057
 1 HUSB @P2259@
 1 WIFE @I2057@
@@ -7227,7 +7316,7 @@
 4 LONG W75.6481
 2 SOUR @S162@
 3 QUAY 2
-2 NOTE @T104@
+2 NOTE by Reverend S. M. Dodge (from family interviews)
 0 @F_I2128_I2082@ FAM
 1 REFN 3234e9b2-4b19-4e5a-b1d1-11685570be2b
 1 RIN F_I2128_I2082
@@ -7333,6 +7422,7 @@
 2 SOUR @S535@
 3 QUAY 1
 0 @F_I2109_I2092@ FAM
+1 REFN 031c7fb1-39f2-41ea-9a74-c8149eaf812b
 1 RIN F_I2109_I2092
 1 HUSB @I2109@
 1 CHIL @I2092@
@@ -7361,6 +7451,7 @@
 4 LATI N42.9537
 4 LONG W74.5585
 0 @F_P995_I281@ FAM
+1 REFN 8532b322-55da-40c8-92e2-732eb7524e98
 1 RIN F_P995_I281
 1 HUSB @P995@
 1 WIFE @I281@
@@ -7374,6 +7465,7 @@
 4 CONC 1071
 3 OBJE @9ws01bJ7S1KqNNVQNVnj@
 0 @F_P1199_I535@ FAM
+1 REFN 27422ebc-e627-4644-9581-576ac7067e64
 1 RIN F_P1199_I535
 1 HUSB @P1199@
 1 WIFE @I535@
@@ -7420,6 +7512,7 @@
 1 MARR
 2 DATE ABT 1758
 0 @F_P2707_P2280@ FAM
+1 REFN 317786f6-3125-471e-95a3-27249921982b
 1 RIN F_P2707_P2280
 1 HUSB @P2707@
 1 WIFE @P2280@
@@ -7531,6 +7624,7 @@
 2 SOUR @S239@
 3 QUAY 0
 0 @F_I2045_P2218@ FAM
+1 REFN aea73d98-855c-43ab-a8e3-3bc689a106a0
 1 RIN F_I2045_P2218
 1 HUSB @I2045@
 1 WIFE @P2218@
@@ -7576,6 +7670,7 @@
 4 LATI N43.0256
 4 LONG W74.986
 0 @F_P2258_P2257@ FAM
+1 REFN cff7b7cc-50ce-4635-af9c-faaac3a03ad6
 1 RIN F_P2258_P2257
 1 HUSB @P2258@
 1 WIFE @P2257@
@@ -7584,6 +7679,7 @@
 1 CHIL @P2608@
 1 CHIL @P2607@
 0 @F_I1153_P1623@ FAM
+1 REFN 6c983b7b-91b6-445c-842b-e30fddb4a7e6
 1 RIN F_I1153_P1623
 1 HUSB @I1153@
 1 WIFE @P1623@
@@ -7602,6 +7698,7 @@
 4 CONC rofilm: 1241075
 3 OBJE @9bjB4kEgSvilPjdvRSRL@
 0 @F_I279_P994@ FAM
+1 REFN c685e79e-effe-479a-b948-5b5c958cb392
 1 RIN F_I279_P994
 1 HUSB @I279@
 1 WIFE @P994@
@@ -7674,6 +7771,7 @@
 1 CHIL @I2173@
 1 CHIL @I2174@
 0 @F_P1195_I535@ FAM
+1 REFN b13ef99e-70c8-431a-afe9-72c367828a22
 1 RIN F_P1195_I535
 1 HUSB @P1195@
 1 WIFE @I535@
@@ -7705,14 +7803,17 @@
 1 EMAIL
 1 PHON
 1 RIN R-899050557
+1 REFN b9dab4bb-5e85-43bf-bd8d-249f94d7a8a8
 0 @dIuP1jfcRrCeiZcZz5qZ@ REPO
 1 NAME Ancestry.com, II, OLD
 1 ADDR
 1 EMAIL
 1 PHON
 1 RIN dIuP1jfcRrCeiZcZz5qZ
+1 REFN 6bee6509-1ba2-4f11-82d7-701c4aba9fa1
 0 @S-340037843@ SOUR
 1 _APID 1,8054::0
+1 REFN d3b79b0d-e472-4df1-8602-b376d4551eac
 1 RIN S-340037843
 1 REPO @R-899050557@
 1 TITL 1850 United States Federal Census
@@ -7721,6 +7822,7 @@
 2 CONC e: 2009
 0 @S-340166919@ SOUR
 1 _APID 1,7667::0
+1 REFN 7d0a13ab-cb14-471c-8695-81a7d6772e81
 1 RIN S-340166919
 1 REPO @R-899050557@
 1 TITL 1860 United States Federal Census
@@ -7729,6 +7831,7 @@
 2 CONC e: 2009
 0 @S-338823707@ SOUR
 1 _APID 1,7163::0
+1 REFN 1620f80a-6d52-46e4-81d4-32cf945119d1
 1 RIN S-338823707
 1 REPO @R-899050557@
 1 TITL 1870 United States Federal Census
@@ -7737,6 +7840,7 @@
 2 CONC e: 2009
 0 @S-340166898@ SOUR
 1 _APID 1,6742::0
+1 REFN 70b1f776-da3e-47ba-870a-dcb2f9cc99f3
 1 RIN S-340166898
 1 REPO @R-899050557@
 1 TITL 1880 United States Federal Census
@@ -7746,6 +7850,7 @@
 2 CONC : 2010
 0 @S-340038419@ SOUR
 1 _APID 1,7602::0
+1 REFN cf83a02f-fa30-40b2-bd2c-3aa4be6340e1
 1 RIN S-340038419
 1 REPO @R-899050557@
 1 TITL 1900 United States Federal Census
@@ -7754,6 +7859,7 @@
 2 CONC : 2004
 0 @S-340037973@ SOUR
 1 _APID 1,7884::0
+1 REFN 5a967872-658e-4d5d-a20a-48dbdeaf3025
 1 RIN S-340037973
 1 REPO @R-899050557@
 1 TITL 1910 United States Federal Census
@@ -7761,6 +7867,7 @@
 1 PUBL Ancestry.com Operations Inc; Location: Provo, UT, USA; Date
 2 CONC : 2006
 0 @S-340304044@ SOUR
+1 REFN ec1168bc-6982-4ff2-bd2c-1b28c72bca45
 1 RIN S-340304044
 1 REPO @dIuP1jfcRrCeiZcZz5qZ@
 1 TITL 1920 United States Federal Census
@@ -7777,6 +7884,7 @@
 2 CONC 9 are on roll 323 (Chicago City).
 0 @S-340304045@ SOUR
 1 _APID 1,6224::0
+1 REFN 0272824d-4fef-411c-ae34-26d97d9c8ecf
 1 RIN S-340304045
 1 REPO @R-899050557@
 1 TITL 1930 United States Federal Census
@@ -7784,6 +7892,7 @@
 1 PUBL Ancestry.com Operations Inc; Location: Provo, UT, USA; Date
 2 CONC : 2002
 0 @S-340304056@ SOUR
+1 REFN 9be9804e-4938-4376-89e5-288842a07ec1
 1 RIN S-340304056
 1 REPO @dIuP1jfcRrCeiZcZz5qZ@
 1 TITL 1940 United States Federal Census
@@ -7796,6 +7905,7 @@
 2 CONC 43 rolls.
 0 @S-340121165@ SOUR
 1 _APID 1,2442::0
+1 REFN 6374e254-416f-4cd7-ab60-0015588c1171
 1 RIN S-340121165
 1 REPO @R-899050557@
 1 TITL 1940 United States Federal Census, OLD
@@ -7825,6 +7935,7 @@
 1 AUTH LDS
 1 PUBL http://www.familysearch.org/
 0 @S-340304055@ SOUR
+1 REFN c46fae46-e655-445e-9bf6-eb3032aa3711
 1 RIN S-340304055
 1 REPO @R-899050557@
 1 TITL Ancestry Family Trees
@@ -7975,6 +8086,7 @@
 2 CONC endrick Spoon Jr., Lot No. 7, 100 acres North.<br />
 0 @S-301582645@ SOUR
 1 _APID 1,60541::0
+1 REFN 17037752-dfa6-41a0-8b50-4c956ee722b0
 1 RIN S-301582645
 1 REPO @R-899050557@
 1 TITL Global, Find A Grave Index for Burials at Sea and other Sele
@@ -8081,6 +8193,7 @@
 1 PUBL http://www.moongenealogy.com/
 0 @S-330977537@ SOUR
 1 _APID 1,3564::0
+1 REFN 4d51b632-fe5f-44d7-807b-4417da3e154a
 1 RIN S-330977537
 1 REPO @R-899050557@
 1 TITL New York, Compiled Census and Census Substitutes Index, 1790
@@ -8090,6 +8203,7 @@
 2 CONC : 1999
 0 @S-330979816@ SOUR
 1 _APID 1,7181::0
+1 REFN e16b27c8-0921-4997-b0a8-0b6ff23ebd88
 1 RIN S-330979816
 1 REPO @R-899050557@
 1 TITL New York, State Census, 1855
@@ -8098,6 +8212,7 @@
 2 CONC e: 2013
 0 @S-301664923@ SOUR
 1 _APID 1,7218::0
+1 REFN 3721d96a-9434-4858-a103-c7c8eec3b695
 1 RIN S-301664923
 1 REPO @R-899050557@
 1 TITL New York, State Census, 1865
@@ -8106,6 +8221,7 @@
 2 CONC e: 2014
 0 @S-333148567@ SOUR
 1 _APID 1,7250::0
+1 REFN 689c7013-af38-426c-a8bf-f3fc1ec6e6e2
 1 RIN S-333148567
 1 REPO @R-899050557@
 1 TITL New York, State Census, 1875
@@ -8114,6 +8230,7 @@
 2 CONC e: 2013
 0 @S-339390060@ SOUR
 1 _APID 1,3212::0
+1 REFN c0ef60a6-5ed8-4d17-b5ae-1ddb414425d6
 1 RIN S-339390060
 1 REPO @R-899050557@
 1 TITL New York, State Census, 1892
@@ -8122,6 +8239,7 @@
 2 CONC e: 2012
 0 @S-322419782@ SOUR
 1 _APID 1,7364::0
+1 REFN a193c4aa-562a-4117-8c90-9b8dd752c96f
 1 RIN S-322419782
 1 REPO @R-899050557@
 1 TITL New York, State Census, 1905
@@ -8130,6 +8248,7 @@
 2 CONC e: 2014
 0 @S-340037965@ SOUR
 1 _APID 1,2703::0
+1 REFN 9627c0c9-1fd2-4e6a-9c68-9179585ac06d
 1 RIN S-340037965
 1 REPO @R-899050557@
 1 TITL New York, State Census, 1915
@@ -8138,6 +8257,7 @@
 2 CONC e: 2012
 0 @S-301664500@ SOUR
 1 _APID 1,8800::0
+1 REFN c9cd086f-ac63-41f7-b3a2-c32dcdbb5c3a
 1 RIN S-301664500
 1 REPO @R-899050557@
 1 TITL New York, Wills and Probate Records, 1659-1999
@@ -8172,6 +8292,7 @@
 2 CONC d></tr>
 2 CONT </table>
 0 @S-340304097@ SOUR
+1 REFN 14d01f94-b276-4675-b0c9-198d092ce65f
 1 RIN S-340304097
 1 TITL NY Census, 1892, Madison Co., Eaton, ED 1, image 3 of 8
 1 AUTH New York State
@@ -8191,6 +8312,7 @@
 2 CONT </tbody>
 2 CONT </table>
 0 @S-340304096@ SOUR
+1 REFN c37b7e76-95d0-498f-b824-dedd8967a018
 1 RIN S-340304096
 1 TITL NY Census, 1905, Madison Co., Eaton, ED 1, image 2 of 4
 1 AUTH New York State
@@ -8273,6 +8395,7 @@
 2 CONC Forum=4&Thread=49
 0 @S-333154349@ SOUR
 1 _APID 1,4600::0
+1 REFN bdcc46fc-8aae-4585-a2bc-5c73c1a7c964
 1 RIN S-333154349
 1 REPO @R-899050557@
 1 TITL Rochester, New York Directory, 1888-91
@@ -8311,6 +8434,7 @@
 1 PUBL Ancestry World Tree at Ancestry.com
 0 @S-333067367@ SOUR
 1 _APID 1,2469::0
+1 REFN b78cccbe-3d48-4f71-96c0-1cc552407de0
 1 RIN S-333067367
 1 REPO @R-899050557@
 1 TITL U.S. City Directories, 1821-1989
@@ -8318,6 +8442,7 @@
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2011
 0 @Az56mpgwSMelraoOX2HL@ SOUR
+1 REFN c62f7850-ef5a-48dd-998b-efc3e18abc5c
 1 RIN Az56mpgwSMelraoOX2HL
 1 REPO @dIuP1jfcRrCeiZcZz5qZ@
 1 TITL U.S. City Directories, 1822-1995
@@ -8331,6 +8456,7 @@
 2 CONC ication information.
 0 @S-290253233@ SOUR
 1 _APID 1,6961::0
+1 REFN d32b7edd-f03c-47fd-8027-952c03c9e8a2
 1 RIN S-290253233
 1 REPO @R-899050557@
 1 TITL U.S., Dutch Reformed Church Records in Selected States, 1639
@@ -8340,6 +8466,7 @@
 2 CONC e: 2014
 0 @S-313778072@ SOUR
 1 _APID 1,60525::0
+1 REFN 5f8a8c34-99ea-41af-b664-9c27eefa1e72
 1 RIN S-313778072
 1 REPO @R-899050557@
 1 TITL U.S., Find A Grave Index, 1600s-Current
@@ -8815,6 +8942,7 @@
 1 PUBL T623.1134, p. 9A
 0 @S-340037888@ SOUR
 1 _APID 1,70572::0
+1 REFN 5e2a6f3c-2c5d-4d6f-aed7-5eebe5976191
 1 RIN S-340037888
 1 REPO @R-899050557@
 1 TITL Web: New York, Find A Grave Index, 1660-2012
@@ -8832,6 +8960,7 @@
 2 TITL 0009_Spohner_Aaron_Ezelous
 2 _DATE 9/26/2013 9:23:44 PM
 1 RIN O106
+1 REFN 217107f1-758e-4d2a-8142-a35a8b35b3e6
 0 @O135@ OBJE
 1 FILE http://trees.ancestry.com/rd?f=image&guid=4c4329c9-cbf8-463b
 2 CONC -823e-8b01c0354b75&tid=61407337
@@ -8843,6 +8972,7 @@
 2 TITL 0010_Nye_Ethel_S
 2 _DATE 9/26/2013 9:47:29 PM
 1 RIN O135
+1 REFN ec389bda-5259-4860-ba6f-36aa4838c6a8
 0 @8qyGGTqCT2Gr4ZTQn30L@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\1850 United States Federal Census(6)
@@ -8852,6 +8982,7 @@
 2 _TEXT Year: 1850; Census Place: Manheim, Herkimer, New York; Roll
 3 CONC : M432_513; Page: 369B; Image: 231
 1 RIN 8qyGGTqCT2Gr4ZTQn30L
+1 REFN 268194c0-388d-498d-919e-5f449425accc
 0 @LgBNtRI8QPaY3Ah1zaFp@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\1850 United States Federal Census(7)
@@ -8861,6 +8992,7 @@
 2 _TEXT Year: 1850; Census Place: Herkimer, Herkimer, New York; Roll
 3 CONC : M432_513; Page: 2A; Image: 252
 1 RIN LgBNtRI8QPaY3Ah1zaFp
+1 REFN 8600c279-8eec-4ffd-8f33-81759db71df8
 0 @p4SLTJHMQWqCt22MP3Nl@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\1850 United States Federal Census(27
@@ -8870,6 +9002,7 @@
 2 _TEXT Year: 1850; Census Place: Manheim, Herkimer, New York; Roll
 3 CONC : M432_513; Page: 370A; Image: 232
 1 RIN p4SLTJHMQWqCt22MP3Nl
+1 REFN 514253a4-6557-453c-8b1b-0095394bbb9e
 0 @rHYS9lz2TweYvipUvp8c@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\1860 United States Federal Census(9)
@@ -8880,6 +9013,7 @@
 3 CONC l: M653_780; Page: 445; Image: 450; Family History Library F
 3 CONC ilm: 803780
 1 RIN rHYS9lz2TweYvipUvp8c
+1 REFN fa3beb39-d8e4-47ec-b0c7-c112e51abaf2
 0 @5BnB6DnyS1SGPB7mMLKy@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\1860 United States Federal Census(22
@@ -8890,6 +9024,7 @@
 3 CONC 653_780; Page: 329; Image: 334; Family History Library Film
 3 CONC : 803780
 1 RIN 5BnB6DnyS1SGPB7mMLKy
+1 REFN 88071e4e-9a95-4d3c-9575-af83ab372582
 0 @NW10yclvS5aR7Erksvtg@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\1860 United States Federal Census(33
@@ -8900,6 +9035,7 @@
 3 CONC : M653_759; Page: 133; Image: 138; Family History Library Fi
 3 CONC lm: 803759
 1 RIN NW10yclvS5aR7Erksvtg
+1 REFN 008f282f-e68a-4288-abcf-901e06eb659e
 0 @PspJozlaSvWU1YVAITCB@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\1860 United States Federal Census(47
@@ -8910,6 +9046,7 @@
 3 CONC : M653_762; Page: 750; Image: 749; Family History Library Fi
 3 CONC lm: 803762
 1 RIN PspJozlaSvWU1YVAITCB
+1 REFN cf03407e-1e03-40df-82c7-d21e4e4df829
 0 @D6MBABkQSBm9c94BkibG@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\1870 United States Federal Census(8)
@@ -8920,6 +9057,7 @@
 3 CONC 93_967; Page: 160A; Image: 324; Family History Library Film
 3 CONC : 552466
 1 RIN D6MBABkQSBm9c94BkibG
+1 REFN e702c249-f38a-49e3-af63-a1b06ab0cc0b
 0 @fudOAFi2SgaBqDDFdfBk@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\1870 United States Federal Census(33
@@ -8930,6 +9068,7 @@
 3 CONC : M593_942; Page: 6A; Image: 16; Family History Library Film
 3 CONC : 552441
 1 RIN fudOAFi2SgaBqDDFdfBk
+1 REFN 795a0b08-214c-469e-b52f-12c06f3eac8e
 0 @i9u975M2RV6G4rcS70pI@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\1880 United States Federal Census(17
@@ -8940,6 +9079,7 @@
 3 CONC : 818; Family History Film: 1254818; Page: 306C; Enumeratio
 3 CONC n District: 107; Image: 0614
 1 RIN i9u975M2RV6G4rcS70pI
+1 REFN 8d0f2b7e-abc3-4a24-86de-03b0fa0bb8d6
 0 @MS8ohwKuSDa7MGeHIxhw@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\1900 United States Federal Census(4)
@@ -8950,6 +9090,7 @@
 3 CONC 71; Page: 12A; Enumeration District: 0009; FHL microfilm: 12
 3 CONC 41071
 1 RIN MS8ohwKuSDa7MGeHIxhw
+1 REFN d7a47ee8-97ef-455e-a29f-08b98ac2d589
 0 @TUfP0hraRmqgk9oxothg@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\1900 United States Federal Census(9)
@@ -8960,6 +9101,7 @@
 3 CONC : 1134; Page: 9A; Enumeration District: 0046; FHL microfilm
 3 CONC : 1241134
 1 RIN TUfP0hraRmqgk9oxothg
+1 REFN 0d84ca78-5ef7-4140-be4a-ebd97a609a22
 0 @9ws01bJ7S1KqNNVQNVnj@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\1900 United States Federal Census(15
@@ -8970,6 +9112,7 @@
 3 CONC 71; Page: 2B; Enumeration District: 0008; FHL microfilm: 124
 3 CONC 1071
 1 RIN 9ws01bJ7S1KqNNVQNVnj
+1 REFN 7e6770db-d778-48e8-8bea-10e2a0e3d62c
 0 @38oDMMdqQpOFUABIsl76@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\1900 United States Federal Census(21
@@ -8980,6 +9123,7 @@
 3 CONC 71; Page: 9A; Enumeration District: 0008; FHL microfilm: 124
 3 CONC 1071
 1 RIN 38oDMMdqQpOFUABIsl76
+1 REFN 0c7e485c-652c-4231-93fc-0c4c15340eb7
 0 @9bjB4kEgSvilPjdvRSRL@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\1900 United States Federal Census(37
@@ -8990,6 +9134,7 @@
 3 CONC k; Roll: 1075; Page: 2A; Enumeration District: 0094; FHL mic
 3 CONC rofilm: 1241075
 1 RIN 9bjB4kEgSvilPjdvRSRL
+1 REFN bfc86182-f92c-499c-b182-1bb6d6bfecdd
 0 @5WG4ZjpVTRaDP7rTFMn6@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\1910 United States Federal Census(10
@@ -9000,6 +9145,7 @@
 3 CONC : T624_1054; Page: 3B; Enumeration District: 0052; FHL micro
 3 CONC film: 1375067
 1 RIN 5WG4ZjpVTRaDP7rTFMn6
+1 REFN df3efda6-ab2d-41c5-9c3e-55911d78ec33
 0 @005z18VhQn6jvMpclyqf@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\1910 United States Federal Census(11
@@ -9010,6 +9156,7 @@
 3 CONC l: T624_987; Page: 8A; Enumeration District: 0032; FHL micro
 3 CONC film: 1375000
 1 RIN 005z18VhQn6jvMpclyqf
+1 REFN 229b519f-084b-4238-8186-a079410c0c10
 0 @oe8WuRUuQ8SlIj3KTJ29@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\1910 United States Federal Census(16
@@ -9020,6 +9167,7 @@
 3 CONC 24_987; Page: 3A; Enumeration District: 0008; FHL microfilm
 3 CONC : 1375000
 1 RIN oe8WuRUuQ8SlIj3KTJ29
+1 REFN 0b0bb3a7-8f5e-41ba-8215-1c2d33c0e44c
 0 @H75Sog2hRFemPzLssTJM@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\1910 United States Federal Census(30
@@ -9030,6 +9178,7 @@
 3 CONC k; Roll: T624_992; Page: 6A; Enumeration District: 0133; FH
 3 CONC L microfilm: 1375005
 1 RIN H75Sog2hRFemPzLssTJM
+1 REFN 06bc2cf8-ad86-4d52-8212-4a6b70d4fd59
 0 @LFOghHXfSgeGIwQ8dS1S@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\1920 United States Federal Census(8)
@@ -9038,6 +9187,7 @@
 2 TITL 1920 United States Federal Census
 2 _TEXT Year: 1920; Census Place: Eaton, Madison, New York
 1 RIN LFOghHXfSgeGIwQ8dS1S
+1 REFN 63090562-9110-42d8-aa38-645c5ce8bd14
 0 @OTOgloqlTtSa19aeIj7C@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\1920 United States Federal Census(21
@@ -9047,6 +9197,7 @@
 2 _TEXT Year: 1920; Census Place: Rochester Ward 13, Monroe, New Yor
 3 CONC k
 1 RIN OTOgloqlTtSa19aeIj7C
+1 REFN ca220a63-bc7c-4a97-bfe8-8d47525af8f6
 0 @qYNGSaH3TY6opMxjR7Kk@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\1930 United States Federal Census(5)
@@ -9057,6 +9208,7 @@
 3 CONC ; Roll: 1416; Page: 3A; Enumeration District: 0017; Image: 1
 3 CONC 75.0; FHL microfilm: 2341151
 1 RIN qYNGSaH3TY6opMxjR7Kk
+1 REFN 3c0a9c9a-5c3a-4610-b44d-07d78fd7932a
 0 @JlD2ZgOWT5KfrPcyIu8Y@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\1930 United States Federal Census(15
@@ -9067,6 +9219,7 @@
 3 CONC : 1451; Page: 9A; Enumeration District: 86; Image: 530.0; FH
 3 CONC L microfilm: 2341186
 1 RIN JlD2ZgOWT5KfrPcyIu8Y
+1 REFN 7933f5a2-b1cc-4226-9276-19046a20dcfc
 0 @uViD3qI9Td6cTjrH4gMV@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\1940 United States Federal Census(7)
@@ -9076,6 +9229,7 @@
 2 _TEXT Year: 1940; Census Place: Lenox, Madison, New York; Roll: T6
 3 CONC 27_2624; Page: 9A; Enumeration District: 27-30
 1 RIN uViD3qI9Td6cTjrH4gMV
+1 REFN 43c55225-1558-4cf6-951a-664c730d1030
 0 @MSMS2geBQrW4WgyOuLF2@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\1940 United States Federal Census(23
@@ -9085,6 +9239,7 @@
 2 _TEXT Year: 1940; Census Place: Rochester, Monroe, New York; Roll
 3 CONC : T627_2846; Page: 9A; Enumeration District: 65-157
 1 RIN MSMS2geBQrW4WgyOuLF2
+1 REFN 17c31490-0ce6-4cb0-a015-3fd7d83fb160
 0 @O98@ OBJE
 1 FILE http://trees.ancestry.com/rd?f=image&guid=18bfada7-5afe-4b8b
 2 CONC -81f8-8bf83ba28394&tid=61407337
@@ -9095,6 +9250,7 @@
 2 FORM jpg
 2 TITL Aaron Spohner
 1 RIN O98
+1 REFN d1fbbdf5-cb01-4007-af29-103e01a951b8
 0 @O105@ OBJE
 1 FILE http://trees.ancestry.com/rd?f=image&guid=c2002a4d-58aa-4b2c
 2 CONC -b770-1f4da036bdea&tid=61407337
@@ -9105,6 +9261,7 @@
 2 FORM jpg
 2 TITL Betsey Zoller
 1 RIN O105
+1 REFN ffb28674-cd18-4dd4-9fb7-16597236fd14
 0 @ODNZVGfdTEqxfhHUHX6b@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\Death of Nancy Spohner Colvin.pdf
@@ -9116,6 +9273,7 @@
 3 CONC d Mrs. Aaron Spooner, two miles west of Morrisville, from a
 3 CONC n over dose of chloroform, taken to relieve pain.
 1 RIN ODNZVGfdTEqxfhHUHX6b
+1 REFN d6bdcb1e-d385-4fbd-a37a-8e00372fa437
 0 @O122@ OBJE
 1 FILE http://trees.ancestry.com/rd?f=image&guid=5d42991c-dfe9-4601
 2 CONC -add2-ba6d3df965c6&tid=61407337
@@ -9126,6 +9284,7 @@
 2 FORM jpg
 2 TITL James D. Moon
 1 RIN O122
+1 REFN a64e5990-78db-4805-9626-aa2541ef87c3
 0 @O107@ OBJE
 1 FILE http://trees.ancestry.com/rd?f=image&guid=1acfb8c6-3392-4edc
 2 CONC -bf31-192cd6fa5ad6&tid=61407337
@@ -9136,6 +9295,7 @@
 2 FORM jpg
 2 TITL Mary Eleanor Spohner Moon
 1 RIN O107
+1 REFN e02e42a6-bd4b-4f4b-aaf3-853f5d8c6f1f
 0 @O16@ OBJE
 1 FILE http://trees.ancestry.com/rd?f=image&guid=5b3caac0-04b7-4db1
 2 CONC -ae50-50efdf327145&tid=61407337
@@ -9146,42 +9306,49 @@
 2 FORM jpg
 2 TITL Nancy E. Colvin
 1 RIN O16
+1 REFN e93cd2fe-7058-4751-86d6-8f659bf560f4
 0 @wAoDcfwkRjqaY3rlQGVT@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\New York, State Census, 1855(3).jpg
 2 FORM jpg
 2 TITL New York, State Census, 1855
 1 RIN wAoDcfwkRjqaY3rlQGVT
+1 REFN 33e6e73f-312e-457a-8c87-f212080fb3e7
 0 @h10MNjXKSjKgzWZPiNJq@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\New York, State Census, 1855(13).jpg
 2 FORM jpg
 2 TITL New York, State Census, 1855
 1 RIN h10MNjXKSjKgzWZPiNJq
+1 REFN 20f1b604-6468-4153-8f49-f01e1c3d3363
 0 @9JPLQ7hrQTKiz2KYJ9gC@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\New York, State Census, 1865(6).jpg
 2 FORM jpg
 2 TITL New York, State Census, 1865
 1 RIN 9JPLQ7hrQTKiz2KYJ9gC
+1 REFN c2ac8793-49bd-4070-9d95-f0727e27b527
 0 @VL1lUUBRR4m0J3nkBbwg@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\New York, State Census, 1875(7).jpg
 2 FORM jpg
 2 TITL New York, State Census, 1875
 1 RIN VL1lUUBRR4m0J3nkBbwg
+1 REFN bcd84416-38ea-4834-8652-020d7de05210
 0 @hQ9vz5eDQEWrWRK0IjwG@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\New York, State Census, 1892(3).jpg
 2 FORM jpg
 2 TITL New York, State Census, 1892
 1 RIN hQ9vz5eDQEWrWRK0IjwG
+1 REFN 460b4349-1dc2-494a-9244-7467a3c67de2
 0 @vVMHnEv6TkecUFRkEs9I@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\New York, State Census, 1892(10).jpg
 2 FORM jpg
 2 TITL New York, State Census, 1892
 1 RIN vVMHnEv6TkecUFRkEs9I
+1 REFN bede7177-3fe3-47fb-8f13-4d1d4f073392
 0 @iVeKZxt9TbGqV2dNW7BA@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\New York, State Census, 1905(9).jpg
@@ -9191,6 +9358,7 @@
 3 CONC n Census Schedules, 1905; Election District: E.D. 01; City
 3 CONC : Eaton; County: Madison; Page: 8
 1 RIN iVeKZxt9TbGqV2dNW7BA
+1 REFN e10eafaf-ec23-499c-8928-2d3f2aeaf327
 0 @jtFnG3uvRuOg3Ojm52eE@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\New York, State Census, 1905(10).jpg
@@ -9200,6 +9368,7 @@
 3 CONC n Census Schedules, 1905; Election District: E.D. 02; City
 3 CONC : Elbridge; County: Onondaga; Page: 5
 1 RIN jtFnG3uvRuOg3Ojm52eE
+1 REFN 4f61d479-bf26-4ee8-b457-9342bef69998
 0 @1H00n4tmQwmMtFY4aVpr@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\New York, State Census, 1905(12).jpg
@@ -9209,6 +9378,7 @@
 3 CONC n Census Schedules, 1905; Election District: E.D. 01; City
 3 CONC : Eaton; County: Madison; Page: 15
 1 RIN 1H00n4tmQwmMtFY4aVpr
+1 REFN 766e9ab1-1db0-4a8e-868e-926703043e94
 0 @5YOBs02xT0uKJ7HgTn5t@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\New York, State Census, 1915(6).jpg
@@ -9218,6 +9388,7 @@
 3 CONC n Census Schedules, 1915; Election District: 02; Assembly Di
 3 CONC strict: 01; City: Elbridge; County: Onondaga; Page: 01
 1 RIN 5YOBs02xT0uKJ7HgTn5t
+1 REFN df6457da-3bab-4847-a9a9-3d22bca0cc06
 0 @Jhw3ozQ0RbyIxV4Wd2Ws@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\New York, State Census, 1915(9).jpg
@@ -9227,6 +9398,7 @@
 3 CONC n Census Schedules, 1915; Election District: 01; Assembly Di
 3 CONC strict: 01; City: Eaton; County: Madison; Page: 15
 1 RIN Jhw3ozQ0RbyIxV4Wd2Ws
+1 REFN 762430b5-3d29-4f0f-b840-b8fdcfb4c604
 0 @7QpNvjGwQia5FfxRTjrc@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\New York, Wills and Probate Records
@@ -9237,6 +9409,7 @@
 3 CONC urrogate's Court (Herkimer County); Probate Place: Herkimer
 3 CONC , New York
 1 RIN 7QpNvjGwQia5FfxRTjrc
+1 REFN ca4ab76c-0b81-48df-b87b-4f67a60f8ff3
 0 @O108@ OBJE
 1 FILE http://trees.ancestry.com/rd?f=image&guid=afd88b51-0170-4e39
 2 CONC -8bac-70a12ec74cab&tid=61407337
@@ -9249,6 +9422,7 @@
 2 TITL Nye, Wilson G (14333-19) 1831-1907 & Candace L Stroogh
 2 _TEXT Location: Morrisville, Madison, New York
 1 RIN O108
+1 REFN 0b6792cf-bcb0-44de-91cf-1f8965370827
 0 @7R1qmlRpQPmgRukRvhrf@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\U.S. City Directories, 1821-1989(29)
@@ -9256,6 +9430,7 @@
 2 FORM jpg
 2 TITL U.S. City Directories, 1821-1989
 1 RIN 7R1qmlRpQPmgRukRvhrf
+1 REFN fcba23db-4793-4fe4-bca8-34e2c1ee0e60
 0 @WwDJ9AJuRFKrT9T7gGwE@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\U.S. City Directories, 1821-1989(31)
@@ -9263,6 +9438,7 @@
 2 FORM jpg
 2 TITL U.S. City Directories, 1821-1989
 1 RIN WwDJ9AJuRFKrT9T7gGwE
+1 REFN 112fe6c1-ca5c-4b1c-90c2-c0cd9cb70cfe
 0 @KQ1pkPYSSAG1Xr34mntO@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\U.S. City Directories, 1822-1995(4).
@@ -9270,6 +9446,7 @@
 2 FORM jpg
 2 TITL U.S. City Directories, 1822-1995
 1 RIN KQ1pkPYSSAG1Xr34mntO
+1 REFN 61c6e74b-2587-42da-a809-15c41aca8da4
 0 @0Fbtl6xBTU6IiszthQpe@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\U.S. City Directories, 1822-1995(11)
@@ -9277,6 +9454,7 @@
 2 FORM jpg
 2 TITL U.S. City Directories, 1822-1995
 1 RIN 0Fbtl6xBTU6IiszthQpe
+1 REFN e45bb164-eae4-4fe3-86e4-9e1c8ae9e254
 0 @XztgaGSASHmBrYBgbBwk@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\U.S. City Directories, 1822-1995(12)
@@ -9284,6 +9462,7 @@
 2 FORM jpg
 2 TITL U.S. City Directories, 1822-1995
 1 RIN XztgaGSASHmBrYBgbBwk
+1 REFN c06150f6-125e-408c-b39d-9ac22e781dad
 0 @8NsBTI2tQgmZ3Khvt84u@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\U.S., Dutch Reformed Church Record
@@ -9294,6 +9473,7 @@
 2 _TEXT Holland Society of New York; New York, New York; Stone Arabi
 3 CONC a and Staten Island, Book 48
 1 RIN 8NsBTI2tQgmZ3Khvt84u
+1 REFN 4bfa1a5c-915a-4dce-8223-46033bbddf98
 0 @1kogrFwvTaiymIoBeKJj@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\U.S., Dutch Reformed Church Record
@@ -9305,6 +9485,7 @@
 3 CONC k, New Jersey; Stone Arabia Church, Baptisms, Members, Death
 3 CONC s, 1739-1987
 1 RIN 1kogrFwvTaiymIoBeKJj
+1 REFN 10f65c9b-fd41-4ec7-a6b6-74bb3ab585b1
 0 @O136@ OBJE
 1 FILE http://trees.ancestry.com/rd?f=image&guid=7e200009-7f7a-4dcc
 2 CONC -9948-7a1c93101795&tid=61407337
@@ -9316,6 +9497,7 @@
 2 TITL Wilson Nye 1831
 2 _DATE 10/2/2011 Andrew L.
 1 RIN O136
+1 REFN e1c55e8e-cfe0-4d6a-9362-5b0896fb5689
 0 @O104@ OBJE
 1 FILE http://trees.ancestry.com/rd?f=image&guid=27eaba7e-37db-4aa9
 2 CONC -9c0f-b091dbb6c92c&tid=61407337
@@ -9327,267 +9509,5 @@
 2 TITL Zoeller_Elisabeth
 2 _DATE 9/28/2013 8:35:06 PM
 1 RIN O104
-0 @T878@ NOTE "10-50-1711"
-1 REFN e0474341-0416-4123-99db-a521dba9cf91
-1 RIN T878
-0 @T876@ NOTE "Drums Along the Mohawk" by Edmonds has many references to C
-1 CONC ol. Jacob, as has- "Little Red Foot", "Cardigan", "Maid at A
-1 CONC rms", and "America", all novels by Robert W. Chambers, base
-1 CONC d on fact. "Red Heritage" by Marritt Parmelee Allen is anoth
-1 CONC er novel in which Col. Jacob is mentioned
-1 REFN 40490beb-71d7-4af6-96b4-2ca6ca8bda70
-1 RIN T876
-0 @T702@ NOTE "Hartman's dorf" was a Palatine settlement between Middlebur
-1 CONC gh and Schoharie, which only existed from
-1 CONT about 1713 to about 1722.
-1 REFN e3837537-97fd-417a-920b-667072945e07
-1 RIN T702
-0 @T710@ NOTE "Hendrick Spoon" lot #7 on north side of Mohawk River (100 a
-1 CONC cres), of the list of patentees on the "Burnetsfield Patent
-1 CONC " (request 1721, issued 25 Apr 1725). Also see "History of t
-1 CONC he Mohawk Palatines" at http://us.geocities.com/christman19/
-1 CONC mvmp.html. The patent covered lands in present-day (2002) He
-1 CONC rkimer Village and surrounding. Heinrich Spoon (Sr.)'s lot w
-1 CONC as near present-day East Herkimer Village (in Herkimer towns
-1 CONC hip), and his son Heinrich Spoon (Jr.)'s lot was on the oppo
-1 CONC site side of Mohawk River (in today's German Flatts township
-1 CONC ).
-1 REFN da706dd5-c2ee-4756-be5c-1549e3d13321
-1 RIN T710
-0 @T708@ NOTE "Henrick Spoon Jr." on Burnetsfield patent (see father's not
-1 CONC e).
-1 REFN b2dcd72c-b27c-4c58-b4c9-6324e82a5f3a
-1 RIN T708
-0 @T711@ NOTE "Staley Patent" from Indians
-1 REFN ca7b0bc9-5319-4326-a256-94956db563d2
-1 RIN T711
-0 @T874@ NOTE 3/4 miles east of Saint Johnsville. The "Fort Klock" of th
-1 CONC e Revolutionary War. (Note that there is another Fort Kloc
-1 CONC k 2 miles east of Saint Johnsville.)
-1 REFN a312ea52-4973-470a-be79-3d832c4f432a
-1 RIN T874
-0 @T1099@ NOTE A. Spohner
-1 CONT [house is shown at south-east corner of what is today (2002
-1 CONC ) US Route 20 and Williams Corners Road.]
-1 CONT [house is within lot] 22 [in] DIST. No. 4
-1 REFN 5dcb430f-1245-4192-99bc-92e1e754a31d
-1 RIN T1099
-0 @T1010@ NOTE Assume based on husband. Dates are guesses.
-1 REFN 2334fe76-348e-4b26-a5cb-41c099f668ca
-1 RIN T1010
-0 @T709@ NOTE Assume he was living with his father.
-1 REFN b946f158-94a8-4bbb-8520-5cec2279efc2
-1 RIN T709
-0 @T712@ NOTE Assume he was living with his father.
-1 REFN 9de8f7b3-d866-4e55-83f1-ff162f88ae8e
-1 RIN T712
-0 @T1012@ NOTE Assumed based on husband (assume family moved in with Willia
-1 CONC m's brother, James Colvin, when William became sick). Assum
-1 CONC e Nancy and Pearl (at least) continued living there after Wi
-1 CONC lliam's death.
-1 REFN cc2ffce2-5990-4aac-be04-93112dc0210c
-1 RIN T1012
-0 @T884@ NOTE Battle of Sackets (Sackett's) Harbor, War of 1812.
-1 REFN 084d47a0-947b-4b24-bca4-bfd49454fcb8
-1 RIN T884
-0 @T1041@ NOTE But he is age 19 in 1875 NY census (so born c. 1856). Plac
-1 CONC e is from 1875 NY census. 1900 census gives "Dec 1853" age "
-1 CONC 46".
-1 REFN 09507a53-ec41-4f88-89c3-06241b8c85aa
-1 RIN T1041
-0 @T742@ NOTE Can find her in 1860 census (she is not the Lydia Strough li
-1 CONC sted in Fenner, that is her daughter).
-1 REFN b8ee6463-18e1-4b25-b80f-1d5815b32eb9
-1 RIN T742
-0 @T894@ NOTE Census gives Palatine, Mongomery Co. for the place. Manhei
-1 CONC m was formed from (part of Palatine) in 1817, so I'm assumin
-1 CONC g that he is in the part of Palatine that became Manheim, be
-1 CONC cause he is in Manheim later.
-1 REFN fc7380da-a99c-41b4-bca0-6cd520bd5e1b
-1 RIN T894
-0 @T707@ NOTE Date is just a guess based on the fact that he is in 1850 ce
-1 CONC nsus, and not 1860 census. Place is just a guess.
-1 REFN 86bf7372-fe55-478a-9a38-0ffae65f5a1b
-1 RIN T707
-0 @T1011@ NOTE Dates are guesses.
-1 REFN ded2afe2-e2d5-4dd7-8d37-1a423bd6b172
-1 RIN T1011
-0 @T885@ NOTE Fought in the Battle of Oriskany. Note that it is a well kno
-1 CONC wn fact that Hessian soldiers fought on the side of the Brit
-1 CONC ish against the Americans in the Revolution. I don't know wh
-1 CONC ich side Johann Georg Adle was fighting for.
-1 REFN 141ac767-dd1b-45d0-924f-37b54c1d0560
-1 RIN T885
-0 @T896@ NOTE From wounds received in the Battle of Oriskany
-1 REFN 80cde44e-2b55-4822-a773-b4904d258238
-1 RIN T896
-0 @T892@ NOTE He was a "Hessian Solidier" in the Revolutionary War, in Com
-1 CONC pany 4 of Erb Prinz Regiment. This is the date that he deser
-1 CONC ted the British troops and joined the American troops.
-1 REFN d1f37a89-2b35-4a6e-b352-c5401e0dce68
-1 RIN T892
-0 @T873@ NOTE He was an officer in the French and Indian War. He was take
-1 CONC n prisoner.
-1 REFN f44c0b72-6562-43be-8dc6-0e39771cf272
-1 RIN T873
-0 @T897@ NOTE Held rank of Major in the Battle of Oriskany, Revolutionar
-1 CONC y War, where he was mortally wounded.
-1 REFN c6b0bc8d-d528-4d20-ab33-980dd8399ab5
-1 RIN T897
-0 @T941@ NOTE Hessian Soldier (before coming to USA)
-1 REFN 202a560e-a761-4bc2-9cb4-5bb2928e683b
-1 RIN T941
-0 @T940@ NOTE I am assuming "baptism" means confirmation
-1 REFN b66656e5-3d53-44ff-b674-42f030fe77b9
-1 RIN T940
-0 @T880@ NOTE Killed in the Battle of Oriskany (Revolutionary War).
-1 REFN 361141f9-3fab-4095-9d33-cd2c1f344cb9
-1 RIN T880
-0 @T888@ NOTE Killed in the Battle of Oriskany, Revolutionary War
-1 REFN a5f5f0e9-5c86-4f4e-bdd5-06b73e8460d5
-1 RIN T888
-0 @T898@ NOTE Killed in the Battle of Oriskany, Revolutionary War
-1 REFN 7b1c88d3-9d74-466a-bad7-a7d689f2c9b2
-1 RIN T898
-0 @T887@ NOTE Killed in the Battle of Oriskany, Revolutionary War.
-1 REFN f91e8d80-a609-4394-92ef-5f3d6d095806
-1 RIN T887
-0 @T899@ NOTE Killed in the Battle of Oriskany, Revolutionary War.
-1 REFN 7e5df4a5-6785-4075-afbb-70ebd2c78c82
-1 RIN T899
-0 @T901@ NOTE Killed in the Battle of Oriskany, Revolutionary War.
-1 REFN 1b75ea3e-ddc1-4f6b-ab30-f5e157ff01de
-1 RIN T901
-0 @T1089@ NOTE Later sources (e.g., census and cemetery inscriptions) giv
-1 CONC e birth year as 1830.
-1 REFN 862d6d6b-1bff-434c-9b09-cb5795887f7e
-1 RIN T1089
-0 @T883@ NOTE Lot 13 of the Harrison Patent, 650 acres
-1 REFN 26d51e6a-a649-4947-bb74-e95d8883ff2d
-1 RIN T883
-0 @T889@ NOTE Revolutionary War
-1 REFN 45784ddc-937c-41af-a5c6-53e4543b4b7c
-1 RIN T889
-0 @T877@ NOTE Signed the Mohawk Valley Declaration of Independence (fina
-1 CONC l version).
-1 REFN c6b51997-7992-47af-a44c-fa745c47a70a
-1 RIN T877
-0 @T703@ NOTE Since Henrich is on Simmendinger's list as a resident of Har
-1 CONC tmansdorf, I assume he came there with all the other Palatin
-1 CONC e families. Dates are approximate.
-1 REFN d596cd17-874d-414f-b894-2b9f34b60466
-1 RIN T703
-0 @T890@ NOTE This date seems a little too early. Maybe c. 1737 is a bette
-1 CONC r fit.
-1 REFN 8d5374a4-fc5f-460e-a8e3-200bcc61f619
-1 RIN T890
-0 @T831@ NOTE [need to check NY Vital Records: death certificate #23117 "N
-1 CONC ancy A. Colvin", this might not be her]
-1 REFN b829b90a-8649-4cd0-be53-13d4757bc73e
-1 RIN T831
-0 @T700@ NOTE also gives Oberulikon, Zurich, Switzerland
-1 REFN cf5f772c-d6cd-45b4-a89d-17b9c9fce8d9
-1 RIN T700
-0 @T706@ NOTE based on birth date and place of son Johann Henrich, assum
-1 CONC e the family came with the Palatine immigration to this area
-1 REFN 808f6532-7c42-4e47-9726-0eb516ef2352
-1 RIN T706
-0 @T104@ NOTE by Reverend S. M. Dodge (from family interviews)
-1 REFN 58331e93-2e68-4b64-99d1-09b39a07f728
-1 RIN T104
-0 @T746@ NOTE changed last name to "Spohner" or "Spooner"
-1 REFN 5e88d2d3-e9b2-4241-8a36-02f22d094019
-1 RIN T746
-0 @T875@ NOTE commanded 2nd Regiment of Tryon County, NY militia in Revolu
-1 CONC tionary War
-1 REFN 157b1c6c-12b4-4c29-ae45-7fe5a3f95415
-1 RIN T875
-0 @T851@ NOTE date is a guess based on age of first child
-1 REFN 5c9ab415-8c45-4bbe-a214-0af9b1b28d76
-1 RIN T851
-0 @T886@ NOTE date is from Ancestral File
-1 REFN 21658299-24c6-43d2-afd1-d1ed7ffbcfba
-1 RIN T886
-0 @T699@ NOTE date is just a guess
-1 REFN edf39aeb-8743-4089-b06d-74084ef3a255
-1 RIN T699
-0 @T870@ NOTE date is just a guess
-1 REFN 4a175fc6-c3eb-4417-b7db-da1924fadf59
-1 RIN T870
-0 @T872@ NOTE date is just a guess
-1 REFN 3489adda-f682-4cc0-91e6-623c8f72ed49
-1 RIN T872
-0 @T881@ NOTE date is just a guess
-1 REFN 9bd38275-efe1-4f1b-b2d6-26c4ed5570be
-1 RIN T881
-0 @T882@ NOTE date is just a guess
-1 REFN ed34054d-6638-46de-b35d-e6340677cab7
-1 RIN T882
-0 @T852@ NOTE date is probably wrong, because it would make him over 100 y
-1 CONC ears old
-1 REFN a90ca3b4-9ee2-4ee9-9114-8cf655ae1cf2
-1 RIN T852
-0 @T698@ NOTE is this the Old Fort Herkimer Church?
-1 REFN 778401d3-5052-41e2-9a69-6ad9cedffa6d
-1 RIN T698
-0 @T701@ NOTE name is given elsewhere as Johann Nicholas Spohn
-1 REFN ffd595a0-612b-495c-8d6c-a6b687c35844
-1 RIN T701
-0 @T891@ NOTE on Glen Patent (north of Little Falls)
-1 REFN 26e43240-e027-49f2-b594-e25d036f76fa
-1 RIN T891
-0 @T871@ NOTE or the 20th
-1 REFN 9d8d1f0c-417d-493d-a399-c5e104714d92
-1 RIN T871
-0 @T902@ NOTE place from NY Census 1875, which also gives age 67 (therefor
-1 CONC e b. c. 1808).
-1 CONT Nolan gives Clockville, Madison Co. as place.
-1 REFN f197c501-5e2e-4a4f-a6ed-8b5170053d9a
-1 RIN T902
-0 @T1086@ NOTE place from NY Census, 1875
-1 REFN ea84b930-d574-4bae-83bd-5259699d6b4f
-1 RIN T1086
-0 @T893@ NOTE place from NY Census, 1875;
-1 CONT US Census 1850 gives age 18;
-1 CONT 1900 census gives Oct 1830 age 69;
-1 CONT (other census ages conflict as well);
-1 CONT Cemetery Inscriptions of Madison Co. gives 5 Oct 1831
-1 REFN 9c73bbf4-7b6d-4140-ad49-b31d3f4e5059
-1 RIN T893
-0 @T1085@ NOTE place is a guess
-1 REFN ce677f66-d547-47c7-b9e2-f380df5297eb
-1 RIN T1085
-0 @T673@ NOTE place is a guess, based on burial
-1 REFN 7fb6f5ca-38fd-44d6-b7a1-63a653f7adfa
-1 RIN T673
-0 @T697@ NOTE place is assumed from burial
-1 REFN 50c1a70a-fd23-46ae-94db-3a373063a158
-1 RIN T697
-0 @T1006@ NOTE place is from Descendants of Johann Conrad Kilts
-1 REFN 83950833-6b5b-4026-8ad9-d4debfbe42e8
-1 RIN T1006
-0 @T900@ NOTE place is from Marcia Seeber Alary's Seeber web site.
-1 REFN c630522b-cd1a-4bdb-be94-200a049011cc
-1 RIN T900
-0 @T1087@ NOTE place is from Nolan
-1 REFN 1e17dfa8-e60b-403e-8709-446e4c0a387c
-1 RIN T1087
-0 @T770@ NOTE same location as in 1875 altas
-1 REFN daa57ce7-6e67-46d0-abbb-20598fd88e8d
-1 RIN T770
-0 @T879@ NOTE source gives "1705/1708"
-1 REFN 3abb0f47-679a-41a7-abe0-737cf947fdfe
-1 RIN T879
-0 @T704@ NOTE source shows "Schoharie"; Hartmansdorf is assumed from resid
-1 CONC ence of father
-1 REFN c516be73-de9c-48c9-9d7e-7a8aa8bb9895
-1 RIN T704
-0 @T705@ NOTE source shows "Schoharie"; Hartmansdorf is assumed from resid
-1 CONC ence of father
-1 REFN 6fa7362a-d1bb-4d3c-8c7f-390619ae44a5
-1 RIN T705
-0 @T895@ NOTE this is probably not correct, due to dates of birth of him a
-1 CONC nd his father
-1 REFN 5e13e212-52cc-4432-859f-001e15ccc6eb
-1 RIN T895
+1 REFN 827328c1-634f-4257-94e8-509b9786df27
 0 TRLR

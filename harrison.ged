@@ -14,10 +14,11 @@
 1 SUBM @Umy2qBWIRUiwVSS6Hcn4@
 1 FILE Mosher_Disosway_Harrison_Pazmino_2017-08-03.ged
 1 DATE 19 SEP 2017
-2 TIME 20:22:10
+2 TIME 21:53:07
 0 @Umy2qBWIRUiwVSS6Hcn4@ SUBM
 1 NAME Christopher Alan Mosher
 1 RIN Umy2qBWIRUiwVSS6Hcn4
+1 REFN 400729ab-478f-44d5-b7fc-1400480ca115
 0 @I238@ INDI
 1 _XY 86935 3823
 1 REFN 4036ec4c-c860-4cc6-924c-0be46c21ff2c
@@ -38,7 +39,7 @@
 4 LONG W73.6285
 2 SOUR @S230@
 3 PAGE v. I, s. 2
-2 NOTE @T1063@
+2 NOTE "South Beach Ave Cemetery in Old Greenwich"
 0 @I1464@ INDI
 1 _XY 97500 3903
 1 REFN f05d6eb3-1f83-4ef9-8cf9-c4aaa27df6c0
@@ -54,7 +55,7 @@
 2 SOUR @S315@
 3 PAGE p. 406
 3 QUAY 1
-2 NOTE @T436@
+2 NOTE This Joanne did not marry Thomas Skidmore
 0 @I1426@ INDI
 1 _XY 97945 3745
 1 REFN 04d14d36-e166-4d2b-945a-5bc14121164e
@@ -66,6 +67,7 @@
 1 FAMS @F_I1430_I1426@
 0 @P2535@ INDI
 1 _XY 85470 1699
+1 REFN 058c7d48-3b95-4808-a0b1-86ab56a17b4e
 1 RIN P2535
 1 NAME Margaret /Alred/
 2 SOUR @S-340304061@
@@ -114,7 +116,7 @@
 2 SOUR @S315@
 3 PAGE p. 411
 3 QUAY 1
-2 NOTE @T438@
+2 NOTE Jacobus gives 15 Nov in History of Old Fairfield
 1 BAPM
 2 DATE 27 MAR 1659
 2 PLAC New Haven, New Haven, Connecticut, USA
@@ -146,7 +148,7 @@
 3 MAP
 4 LATI N41.289
 4 LONG W72.6818
-2 NOTE @T427@
+2 NOTE probably moved to Middletown when married
 1 RESI
 2 DATE FROM 24 JUN 1697 TO 24 AUG 1745
 2 PLAC Middletown, Middlesex, Connecticut, USA
@@ -215,7 +217,7 @@
 4 LONG W72.6818
 2 SOUR @S313@
 3 QUAY 1
-2 NOTE @T428@
+2 NOTE place assumed from father's residence
 1 DEAT
 2 DATE 05 DEC 1681
 2 PLAC Guilford, New Haven, Connecticut, USA
@@ -241,7 +243,7 @@
 4 LONG W72.6818
 2 SOUR @S313@
 3 QUAY 1
-2 NOTE @T429@
+2 NOTE place assumed from father's residence
 0 @I1418@ INDI
 1 _XY 98214 3938
 1 REFN fe642f28-687a-4a8f-9345-ec4185e29256
@@ -272,7 +274,7 @@
 2 SOUR @S315@
 3 PAGE p. 299
 3 QUAY 0
-2 NOTE @T425@
+2 NOTE Marshall Genealogy Page says 13 Jun 1665
 1 BAPM
 2 DATE 28 OCT 1666
 2 SOUR @S313@
@@ -311,7 +313,7 @@
 4 LONG W72.6818
 2 SOUR @S313@
 3 QUAY 1
-2 NOTE @T430@
+2 NOTE place assumed from father's residence
 1 DEAT
 2 DATE 21 MAR 1751
 2 PLAC Branford, New Haven, Connecticut, USA
@@ -321,7 +323,7 @@
 2 SOUR @S317@
 3 PAGE v. 1, p. 24
 3 QUAY 1
-2 NOTE @T435@
+2 NOTE 21 Mar is from Marshall Genealogy Page
 0 @I270@ INDI
 1 _XY 97329 3912
 1 REFN 349cf7fc-f2c9-49fd-bda9-807248feaa29
@@ -356,13 +358,15 @@
 2 SOUR @S315@
 3 PAGE p. 298
 3 QUAY 1
-2 NOTE @T423@
+2 NOTE was a settler, but not a "Free Planter" (because he was no
+3 CONC t a member of the church)
 1 RESI
 2 DATE 1646
 2 PLAC West River Street, Milford, New Haven, Connecticut, USA
 2 SOUR @S316@
 3 QUAY 1
-2 NOTE @T426@
+2 NOTE Lot #13, on west side of street, third on the right headin
+3 CONC g south from West Main Street.
 1 RELI joined church
 2 DATE 19 MAR 1648
 2 PLAC Milford, New Haven, Connecticut, USA
@@ -542,7 +546,7 @@
 4 LONG W73.2637
 2 SOUR @S313@
 3 QUAY 1
-2 NOTE @T420@
+2 NOTE 22 Mar is from Ancestral File
 1 PROB
 2 DATE 19 OCT 1658
 2 PLAC Fairfield, Fairfield, Connecticut, USA
@@ -623,7 +627,7 @@
 4 LONG W72.6818
 2 SOUR @S313@
 3 QUAY 1
-2 NOTE @T433@
+2 NOTE place assumed from father's residence
 1 DEAT
 2 DATE 18 OCT 1760
 2 SOUR @S313@
@@ -669,7 +673,7 @@
 3 QUAY 1
 3 DATA
 4 TEXT 2nd week of June
-2 NOTE @T424@
+2 NOTE Marshall Genealogy Page gives the place
 1 BAPM
 2 DATE 30 DEC 1666
 2 SOUR @S313@
@@ -745,7 +749,8 @@
 2 SOUR @S315@
 3 PAGE p. 411
 3 QUAY 1
-2 NOTE @T442@
+2 NOTE Town of Guilford invited him to move there in order to provi
+3 CONC de them blacksmithing services.
 1 EVEN
 2 TYPE granted land
 2 DATE 15 FEB 1677
@@ -756,7 +761,8 @@
 2 SOUR @S322@
 3 PAGE pp. 133, 249
 3 QUAY 1
-2 NOTE @T443@
+2 NOTE Half an acre, upon the green, east side. Baldwin Genealogy g
+3 CONC ives "opposite John Bishop's house."
 1 EVEN
 2 TYPE granted land
 2 DATE 19 MAR 1677
@@ -777,7 +783,7 @@
 2 SOUR @S317@
 3 PAGE v. 1, p. 23
 3 QUAY 1
-2 NOTE @T434@
+2 NOTE land from Thomas Skidmore (father-in-law)
 1 EVEN
 2 TYPE sold land
 2 DATE 06 MAR 1679
@@ -828,7 +834,7 @@
 4 LONG W72.6818
 2 SOUR @S313@
 3 QUAY 1
-2 NOTE @T431@
+2 NOTE place assumed from father's residence
 0 @I1395@ INDI
 1 _XY 97256 4027
 1 REFN 0c65b016-bb03-4e49-b3bc-d43751d64d0a
@@ -885,7 +891,7 @@
 4 LONG W72.6818
 2 SOUR @S313@
 3 QUAY 1
-2 NOTE @T432@
+2 NOTE place assumed from father's residence
 1 DEAT
 2 DATE 04 AUG 1757
 2 SOUR @S313@
@@ -1131,7 +1137,10 @@
 2 SOUR @S231@
 3 PAGE p. 156
 3 QUAY 1
-2 NOTE @T574@
+2 NOTE Descendants of John Bishop gives 03 June 1700, which conflic
+3 CONC ts with Nathan's birth. Huntington gives "Jan. 3, 1700" whic
+3 CONC h probably means 3 Jan 1700/1, because 3 Jan 1699/1700 confl
+3 CONC icts with Nathan's birth.
 1 DEAT
 2 DATE 12 JAN 1706
 2 PLAC Stamford, Fairfield, Connecticut, USA
@@ -1385,7 +1394,7 @@
 4 LONG W73.5387
 2 SOUR @S307@
 3 QUAY 1
-2 NOTE @T396@
+2 NOTE young
 0 @I1233@ INDI
 1 _XY 96918 1937
 1 REFN a0d9e371-127c-43ca-b054-e29bfed7aeb9
@@ -1650,7 +1659,8 @@
 2 SOUR @S315@
 3 PAGE p. 841
 3 QUAY 1
-2 NOTE @T816@
+2 NOTE "Bruen Stapleford," the estate of the Bruen family, is a fe
+3 CONC w miles east of Chester.
 1 BIRT
 2 DATE 1560
 2 PLAC Bruen Stapleford, Cheshire, England
@@ -1776,7 +1786,8 @@
 2 DATE ABT JUN 1622
 2 SOUR @S313@
 3 QUAY 1
-2 NOTE @T571@
+2 NOTE This source gives Mary's father as Obadiah Bruen (son of Joh
+3 CONC n Bruen), instead of John Bruen.
 1 IMMI
 2 DATE 1640
 2 SOUR @S313@
@@ -2251,11 +2262,11 @@
 2 SOUR @S227@
 3 PAGE p. 4
 3 QUAY 0
-2 NOTE @T367@
+2 NOTE place is assumed from father's residence
 1 DEAT
 2 DATE AFT 1728
 2 PLAC Matinecock, Oyster Bay, Nassau, New York, USA
-2 NOTE @T368@
+2 NOTE from date of latest child birth, place is a guess
 0 @I617@ INDI
 1 _XY 91459 1793
 1 REFN e8d267a4-1b10-4d8d-b0ef-6ee549a367d0
@@ -2320,12 +2331,19 @@
 2 SOUR @S227@
 3 PAGE p. 2
 3 QUAY 1
-2 NOTE @T117@
+2 NOTE She burned to death by the fireplace in her house.
+3 CONT Her son Thomas was convicted for her murder and hanged.
+3 CONT The conviction was based on testimony by John Briggs of a dr
+3 CONC eam.
 1 EVEN
 2 TYPE note
 2 SOUR @S523@
 3 QUAY 1
-2 NOTE @T763@
+2 NOTE This Rebecca is often reported as being Rebecca Briggs, ful
+3 CONC l sister of John Briggs. However, these claims are based o
+3 CONC n flimsy evidence. I don't believe that John Briggs would ha
+3 CONC ve refered to his sister saying "I am your sister <i>Cornell
+3 CONC </i>" if they were indeed full siblings.
 0 @I616@ INDI
 1 _XY 91341 1793
 1 REFN 8b34e37f-bdc8-4f68-a7a6-6905563669ed
@@ -2429,7 +2447,7 @@
 2 SOUR @S227@
 3 PAGE p. 2
 3 QUAY 1
-2 NOTE @T789@
+2 NOTE Terling is 20 miles SSE of Saffron-Walden
 1 RESI
 2 DATE ABT 1635
 2 PLAC Saffron Walden, Essex, England
@@ -2445,7 +2463,7 @@
 2 SOUR @S227@
 3 PAGE p. 2
 3 QUAY 1
-2 NOTE @T147@
+2 NOTE Washington Street, between Summer and Milk
 1 RESI
 2 DATE 1640
 2 PLAC Portsmouth, Newport, Rhode Island, USA
@@ -2515,7 +2533,7 @@
 3 QUAY 1
 2 SOUR @S227@
 3 PAGE p. 4
-2 NOTE @T118@
+2 NOTE hanged
 0 @I614@ INDI
 1 _XY 91096 1787
 1 REFN 175da344-154c-40be-b033-c8db0fa173ea
@@ -2601,6 +2619,7 @@
 5 CONC r the 18th: in the year--1687
 0 @P2708@ INDI
 1 _XY 86920 2293
+1 REFN 3bdb17a1-bc52-4f9c-93e2-3905ddcfb2c4
 1 RIN P2708
 1 NAME John /Dawson/
 2 SOUR @S-301664923@
@@ -2763,7 +2782,7 @@
 2 SOUR @S228@
 3 PAGE p. 533
 3 QUAY 1
-2 NOTE @T124@
+2 NOTE place from Ferris Genealogy
 1 RESI
 2 DATE 1776
 2 PLAC South Salem, Westchester, New York, USA
@@ -2782,7 +2801,8 @@
 2 SOUR @S228@
 3 PAGE p. 533
 3 QUAY 1
-2 NOTE @T125@
+2 NOTE Ferris Genealogy says "Salem, Westchester, NY", so I assum
+3 CONC e S. Salem
 0 @I687@ INDI
 1 _XY 87257 4017
 1 REFN 483380f5-0109-40a8-9b5c-1f4b0eb07179
@@ -2833,7 +2853,7 @@
 2 SOUR @S230@
 3 PAGE v. I, s. 3
 3 QUAY 1
-2 NOTE @T516@
+2 NOTE Fritz Knapp says after 19 Feb 1760
 0 @I681@ INDI
 1 _XY 87154 3917
 1 REFN a553f280-c72e-4ee8-ba8e-ebfeae339dfc
@@ -2899,7 +2919,7 @@
 2 SOUR @S230@
 3 PAGE v. I, s. 2
 3 QUAY 1
-2 NOTE @T122@
+2 NOTE "South Beach Ave Cemetery in Old Greenwich"
 0 @I680@ INDI
 1 _XY 87040 3917
 1 REFN 15ff9b6d-4606-4004-980a-6a3ab2465f6b
@@ -2971,7 +2991,7 @@
 2 SOUR @S230@
 3 PAGE v. I, s. 3
 3 QUAY 0
-2 NOTE @T123@
+2 NOTE or May 1736???
 1 PROB
 2 DATE 04 MAY 1736
 2 SOUR @S230@
@@ -3104,7 +3124,7 @@
 2 SOUR @S230@
 3 PAGE v. I, s. 3
 3 QUAY 1
-2 NOTE @T515@
+2 NOTE Fritz Knapp gives Watertown
 1 EVEN
 2 TYPE signed
 2 DATE 06 OCT 1656
@@ -3115,7 +3135,8 @@
 2 SOUR @S231@
 3 PAGE p. 81
 3 QUAY 1
-2 NOTE @T127@
+2 NOTE signed the document giving jurisdiction of Greenwich to th
+3 CONC e New Haven Colony
 1 DEAT
 2 DATE 28 SEP 1706
 2 PLAC Greenwich, Fairfield, Connecticut, USA
@@ -3146,7 +3167,20 @@
 3 QUAY 1
 3 DATA
 4 TEXT a son, 20, 6, 59
-2 NOTE @T522@
+2 NOTE Assume this means a son with the same name, Peter, and 20t
+3 CONC h day of 6th month (August), 1659. However 20 Aug 1659 woul
+3 CONC d conflict with sister Elizabeth's birth date of 28 Jan 1659
+3 CONC /60. So one of the two are wrong. I am guessing that the bir
+3 CONC th for Peter is incorrect. The evidence is that it is that t
+3 CONC he month and year listed are exactly the same as the month a
+3 CONC nd year for the previous child (Joseph), so I'm assuming tha
+3 CONC t the current town records (which I think are really just co
+3 CONC pies) were copied incorrectly from the ancient originals. Gi
+3 CONC ven that, if I assume that the year is correct, and 20 Aug i
+3 CONC s too late, then the only possible non-conflicting days in 1
+3 CONC 659 would be 25 Mar 1659 (the first day of the year 1659) an
+3 CONC d about 23 Apr 1659 (close to when the next child Elizabet
+3 CONC h was conceived).
 1 DEAT
 2 DATE 02 JAN 1737
 2 PLAC Stamford, Fairfield, Connecticut, USA
@@ -3203,6 +3237,7 @@
 1 FAMS @F_I1430_I1451@
 0 @P2547@ INDI
 1 _XY 86406 2393
+1 REFN 16113cbb-78cf-4af4-ae67-b41124ec1467
 1 RIN P2547
 1 NAME Ellen M. /Gates/
 2 SOUR @S-301609605@
@@ -3215,6 +3250,7 @@
 3 _APID 1,60284::1699027
 0 @P1002@ INDI
 1 _XY 85231 2387
+1 REFN eafcfaf3-b36a-47d9-9858-abf11b940e36
 1 RIN P1002
 1 NAME Jennie /Gates/
 2 SOUR @S-340038419@
@@ -3418,6 +3454,7 @@
 4 LONG W89.6962
 0 @P1000@ INDI
 1 _XY 87965 2287
+1 REFN cf4c4a80-cdcd-464a-9e73-de84ad143ab7
 1 RIN P1000
 1 NAME Candace /Gaylord/
 2 SOUR @S-338823810@
@@ -3480,6 +3517,7 @@
 3 _APID 1,70509::5567165
 0 @P1001@ INDI
 1 _XY 87601 2287
+1 REFN a9707421-375e-4a12-b220-295bc2fdc138
 1 RIN P1001
 1 NAME Willis H. /Gaylord/
 2 SOUR @S-330979816@
@@ -3536,6 +3574,7 @@
 3 QUAY 0
 0 @P999@ INDI
 1 _XY 87258 2287
+1 REFN 968dfacb-042b-4a58-91e8-9afc08eac1dd
 1 RIN P999
 1 NAME Sally /Haasze/
 2 SOUR @S-339816608@
@@ -3657,6 +3696,7 @@
 1 FAMS @F_I537_I538@
 0 @P1284@ INDI
 1 _XY 85877 2287
+1 REFN cf0d01eb-9ba3-40ee-a0f0-d96d45b49e86
 1 RIN P1284
 1 NAME Catherine /Hammond/
 2 SOUR @S-330979816@
@@ -4001,7 +4041,11 @@
 3 PAGE Year: 1850; Census Place: Hornby, Steuben, New York; Roll: M
 4 CONC 432_598; Page: 109B; Image: 223
 3 OBJE @1v4T55XTRBKkJXFeFoHv@
-2 NOTE @T649@
+2 NOTE Sands/Harrison family bible says July 13, 1805
+3 CONT Applicants Working Sheet DAR sayd July 18, 1805
+3 CONT George Rogers says 13 Jul 1805 or 13 Jul 1802, and Orange Co
+3 CONC ., NY
+3 CONT Place is from 1810 census ("John Harrison")
 1 CENS
 2 DATE 06 AUG 1810
 2 PLAC Warwick, Orange, New York, USA
@@ -4018,7 +4062,7 @@
 4 LONG W77.0444
 2 SOUR @S424@
 3 QUAY 3
-2 NOTE @T648@
+2 NOTE Hornby was then a part of Painted Post
 1 EVEN
 2 TYPE bought land
 2 DATE 07 JUL 1831
@@ -4026,7 +4070,7 @@
 3 CONC ew York, USA
 2 SOUR @S282@
 3 QUAY 3
-2 NOTE @T955@
+2 NOTE 50 acres (east part) of lot 56
 1 CENS
 2 DATE 1835
 2 PLAC Hornby, Steuben, New York, USA
@@ -4067,7 +4111,8 @@
 2 PLAC Harrison Homestead, Hornby, Steuben, New York, USA
 2 SOUR @S279@
 3 QUAY 3
-2 NOTE @T956@
+2 NOTE 48 acres (west half) of lot 51 (adjoins his 1831 purchase o
+3 CONC n its east border)
 1 CENS
 2 DATE 01 JUN 1850
 2 PLAC Hornby, Steuben, New York, USA
@@ -4261,7 +4306,8 @@
 3 _APID 1,60525::46327852
 2 SOUR @S-301670017@
 3 _APID 1,60901::1054494
-2 NOTE @T951@
+2 NOTE 1900 census: Nov. 1873, NY.
+3 CONT Leo Harrison says Harrison Homestead
 1 RESI
 2 DATE FROM 11 NOV 1873 TO 1908
 2 PLAC Harrison Homestead, Hornby, Steuben, New York, USA
@@ -4436,7 +4482,8 @@
 4 LONG W77.0444
 2 SOUR @S485@
 3 QUAY 3
-2 NOTE @T726@
+2 NOTE pages after 23 Jan are not dated, so may have extended pas
+3 CONC t the 23rd.
 1 RESI
 2 DATE 1920
 2 PLAC Hornby, Steuben, New York, USA
@@ -4458,7 +4505,9 @@
 4 LONG W77.0444
 2 SOUR @S278@
 3 QUAY 3
-2 NOTE @T334@
+2 NOTE Lot was near corner of Dry Run Road and Corning/Hornby Roa
+3 CONC d in center of Hornby, around three other lots in that locat
+3 CONC ion, including the town hall lot and a store lot.
 1 RESI
 2 DATE 01 JUN 1925
 2 PLAC Hornby, Steuben, New York, USA
@@ -4540,7 +4589,9 @@
 3 OBJE @fY89o8dkTBWEqBhWOt1U@
 2 SOUR @S-313778072@
 3 _APID 1,60525::46327852
-2 NOTE @T1122@
+2 NOTE 12:30 AM
+3 CONT of neurofibro sarcoma (from autopsy report in possession o
+3 CONC f Chris Mosher)
 1 BURI
 2 DATE 02 MAY 1943
 2 PLAC Central Valley Cemetery, Hornby, Steuben, New York, USA
@@ -4552,7 +4603,7 @@
 2 SOUR @S-313778072@
 3 _APID 1,60525::46327852
 2 SOUR @fOTzsKrKQzuj4SqBrUUY@
-2 NOTE @T1121@
+2 NOTE 2:35 PM EST
 1 RELI Catholic
 2 SOUR @S199@
 3 QUAY 1
@@ -4587,14 +4638,19 @@
 3 MAP
 4 LATI N42.2442
 4 LONG W77.0444
-2 NOTE @T1117@
+2 NOTE Place is assumed from parents' reidence. Leo says she was ma
+3 CONC ybe 12 years old when she died, and she doesn't appear in th
+3 CONC e 1880 or 1892 censuses, which are 12 years apart, so she mu
+3 CONC st have been born just after 1880 and died just before 1892.
 1 DEAT
 2 DATE 1895
 2 PLAC Hornby, Steuben, New York, USA
 3 MAP
 4 LATI N42.2442
 4 LONG W77.0444
-2 NOTE @T1104@
+2 NOTE Young (age 12 or younger, says Leo Harrison). See note in bi
+3 CONC rth event. Place is assumed. She is not in the household i
+3 CONC n the NY State 1892 census.
 0 @I181@ INDI
 1 _XY 86521 2387
 1 REFN 82499566-a27b-42ea-95e9-e8b691c92155
@@ -4782,7 +4838,14 @@
 2 PLAC Harrison Homestead, Hornby, Steuben, New York, USA
 2 SOUR @S280@
 3 QUAY 3
-2 NOTE @T953@
+2 NOTE His brothers and sisters quit claim the Harrison Homestead t
+3 CONC o him. Note that this is just months before the death of Pri
+3 CONC scilla Sayre; if she died intestate, land would go to all ch
+3 CONC ildren; assume this is why other children are quiting clai
+3 CONC m to Henry. The land consists of 3 parts: two lots were th
+3 CONC e ones purchased by George D. Harrison in 1831 (50 acres) an
+3 CONC d 1841 (48 acres), and there is another 8.125 acre lot whic
+3 CONC h may or may not adjoin the 50 acre lot.
 1 CENS
 2 DATE 01 JUN 1870
 2 PLAC Hornby, Steuben, New York, USA
@@ -4830,7 +4893,8 @@
 2 PLAC Harrison Homestead, Hornby, Steuben, New York, USA
 2 SOUR @S283@
 3 QUAY 3
-2 NOTE @T954@
+2 NOTE 30 acres (the west half of which overlap the southern part o
+3 CONC f the 1841 lot of 40 acres
 1 EVEN
 2 TYPE mortgage
 2 DATE 02 JAN 1878
@@ -4982,7 +5046,7 @@
 3 QUAY 1
 2 SOUR @S-313778072@
 3 _APID 1,60525::46328064
-2 NOTE @T239@
+2 NOTE [need to check NY Vital Records: death certificate #30172]
 1 BURI
 2 PLAC Central Valley Cemetery, Hornby, Steuben, New York, USA
 2 SOUR @S-340037888@
@@ -5036,14 +5100,15 @@
 2 SOUR @S99@
 3 PAGE p. 345
 3 QUAY 0
-2 NOTE @T783@
+2 NOTE date from family papers
 1 RESI
 2 DATE FROM 1801 TO 1817
 2 PLAC Warwick, Orange, New York, USA
 3 MAP
 4 LATI N41.2565
 4 LONG W74.3599
-2 NOTE @T651@
+2 NOTE This is just a guess, based on 1810 census, and fact that h
+3 CONC e is not in Warwick in 1800 census.
 1 RESI
 2 DATE 1810
 2 PLAC Warwick, Orange, New York, USA
@@ -5073,7 +5138,7 @@
 2 SOUR @S99@
 3 PAGE p. 345
 3 QUAY 0
-2 NOTE @T650@
+2 NOTE Aassume he lived there until his death.
 1 RESI
 2 DATE 1820
 2 PLAC Painted Post, Steuben, New York, USA
@@ -5093,7 +5158,7 @@
 4 LONG W77.0444
 2 SOUR @S424@
 3 QUAY 3
-2 NOTE @T646@
+2 NOTE Hornby was then a part of Painted Post
 1 CENS
 2 DATE 1825
 2 PLAC Hornby, Steuben, New York, USA
@@ -5105,7 +5170,7 @@
 3 QUAY 1
 3 DATA
 4 TEXT p. 7
-2 NOTE @T647@
+2 NOTE Hornby was then a part of Painted Post
 1 CENS
 2 DATE 1830
 2 PLAC Hornby, Steuben, New York, USA
@@ -5161,7 +5226,7 @@
 3 QUAY 0
 2 SOUR @S-313778072@
 3 _APID 1,60525::86932045
-2 NOTE @T652@
+2 NOTE Place is assumed.
 1 BURI
 2 DATE ABT 11 JUN 1847
 2 PLAC Harrison Cemetery, Hornby, Steuben, New York, USA
@@ -5169,7 +5234,7 @@
 3 QUAY 2
 2 SOUR @S-313778072@
 3 _APID 1,60525::86932045
-2 NOTE @T142@
+2 NOTE date assumed approx. from death
 0 @I586@ INDI
 1 REFN f9c77660-dcc2-4338-b761-ee3c3a45d610
 1 RIN I586
@@ -5367,7 +5432,7 @@
 3 OBJE @XRl4exguS66qL6Tfehvc@
 2 SOUR @S-313778072@
 3 _APID 1,60525::104108182
-2 NOTE @T143@
+2 NOTE month and day from family papers
 1 RESI
 2 DATE 1850
 2 PLAC Hornby, Steuben, New York, USA
@@ -5507,6 +5572,7 @@
 3 _APID 1,60525::104107037
 0 @P1285@ INDI
 1 _XY 87031 2287
+1 REFN 30cf6338-4ba0-4dbf-9299-4bd270366a0d
 1 RIN P1285
 1 NAME Melvin William /Harrison/
 2 SOUR @S-340166898@
@@ -6264,7 +6330,37 @@
 4 LONG W78.5833
 2 SOUR @S198@
 3 QUAY 1
-2 NOTE @T631@
+2 NOTE Also from ancestry.com, need to check these sources: Box #55
+3 CONC 1, Extraction #60, Records 1533, 1565, 1583. Also, this sour
+3 CONC ce (Clayton, W. Woodford, History of Steuben County, New Yor
+3 CONC k: with illustrations and biographical sketches of some of i
+3 CONC ts prominent men and pioneers, (Philadelphia: Lewis, Pec
+3 CONC k & Co., 1879 (Philadelphia: Press of J.B. Lippincott)), pp
+3 CONC . 313-316) says "Harrison, Wm. Nelson, priv. 10th Cav., Co
+3 CONC . H; enl. Oct. 28, 1861, three years; pro. to corp. Feb. 186
+3 CONC 2; must. out at exp. of service." (unconfirmed)
+3 CONT From ancestry.com: source "New York: Report of the Adjutant-
+3 CONC General. (NYRoster) Published in 1894-1906" enlisted 28 Oc
+3 CONC t 1861 in Elmira, NY as Private age 24. Enlisted in Compan
+3 CONC y H, 10th Cavalry Regiment New York, 31 Oct 1861 (mustered i
+3 CONC n for 3 years). Mustered out 3 Nov 1864 in Petersburg, VA.
+3 CONT From ancestry.com: "Phisterer, p. 920" says "its companies w
+3 CONC ere mustered in... [companies] B, C, D, E, F, G and H at Elm
+3 CONC ira, December 28, 1861" ... "The regiment (eight companies
+3 CONC ) left the State December 24, 1861, and served at Gettysburg
+3 CONC , Pa.; from March, 1862, in the Middle Department, 8th Corps
+3 CONC , guarding railroads; from August, 1862, in the defenses o
+3 CONC f Washington, D. C.; in Gregg's Cavalry Brigade, Army of th
+3 CONC e Potomac, all mounted, from October, 1862; in the 1st Briga
+3 CONC de, 3d Division, Cavalry Corps, Army of the Potomac, from Fe
+3 CONC bruary, 1863; in the 3d Brigade, 2d Division, Cavalry Corps
+3 CONC , Army of the Potomac, from June 14, 1863, serving, however
+3 CONC , with the 12th Corps from June 22 to 27, 1863; in the 2d Br
+3 CONC igade, same division, from August, 1863; Company K served a
+3 CONC s escort with headquarters, 2d Corps, in September, 1863; an
+3 CONC d Company M from September to December, 1863; the regiment i
+3 CONC n the 1st Brigade, 2d Division, Cavalry Corps, Army of the P
+3 CONC otomac, from May 17, 1864."
 1 RESI
 2 DATE 1880
 2 PLAC Sterling, Whiteside, Illinois, USA
@@ -6327,6 +6423,7 @@
 1 FAMS @F_I1371_I262@
 0 @P1309@ INDI
 1 _XY 86794 2287
+1 REFN 01efee03-27ca-409a-8a9e-c02a71fec02f
 1 RIN P1309
 1 NAME Harriet Maria /Holmes/
 2 SOUR @S-313778072@
@@ -6409,6 +6506,7 @@
 3 _APID 1,60525::104107065
 0 @P2519@ INDI
 1 _XY 85372 1892
+1 REFN b0cbddd0-b27e-491b-a707-a3ad53e0eba7
 1 RIN P2519
 1 NAME Susannah /Howell/
 2 SOUR @S-340304061@
@@ -6581,7 +6679,7 @@
 2 TYPE note
 2 SOUR @S310@
 3 QUAY 1
-2 NOTE @T400@
+2 NOTE illegitimate
 0 @I1313@ INDI
 1 _XY 89481 4117
 1 REFN bdc13c03-7a52-4f41-b258-5ccf41144eef
@@ -7063,7 +7161,7 @@
 2 DATE 1629
 2 SOUR @S310@
 3 QUAY 1
-2 NOTE @T398@
+2 NOTE on ship Lyons Whelp
 1 RESI
 2 DATE FROM 1629 TO 1633
 2 PLAC Charlestown, Suffolk, Massachusetts, USA
@@ -7145,7 +7243,9 @@
 2 TYPE note
 2 SOUR @S310@
 3 QUAY 1
-2 NOTE @T408@
+2 NOTE Did not have a son named Thomas Hoyt (those referneces are t
+3 CONC o Thomas Hyatt). Also, did not have daughters named Ruth o
+3 CONC r Deborah. Also, his first wife was not Deborah Stowers.
 0 @I1314@ INDI
 1 _XY 89601 4123
 1 REFN 8ac01c0b-827e-4c91-a3e2-6cadb67b4aac
@@ -7170,7 +7270,7 @@
 4 LONG W73.5387
 2 SOUR @S310@
 3 QUAY 1
-2 NOTE @T401@
+2 NOTE young
 0 @I251@ INDI
 1 _XY 88244 3930
 1 REFN 929fd845-5ce7-4536-8a28-7705fd8c71e5
@@ -7184,7 +7284,7 @@
 2 TYPE note
 2 SOUR @S310@
 3 QUAY 1
-2 NOTE @T399@
+2 NOTE This woman's last name is not Smith.
 0 @I1310@ INDI
 1 _XY 89761 4017
 1 REFN fa268fbb-2818-4774-a846-e5600ec345d2
@@ -7289,7 +7389,9 @@
 2 SOUR @S225@
 3 PAGE p. 307
 3 QUAY 1
-2 NOTE @T791@
+2 NOTE Chosen to be deputy governor of the Massachusetts Company, b
+3 CONC ut since he decided to remain in England, Thomas Dudley wa
+3 CONC s elected instead.
 1 RESI
 2 DATE FROM 1634
 2 PLAC Saugus, Essex, Massachusetts, USA
@@ -7493,14 +7595,16 @@
 4 LONG W71.0603
 2 SOUR @S333@
 3 QUAY 3
-2 NOTE @T457@
+2 NOTE as "Edward Hutchinson, Sr." (note that "Edward Hutchinson, J
+3 CONC r." was probably the son of William and Anne Hutchinson)
 1 DEAT
 2 DATE 19 AUG 1675
 2 SOUR @S239@
 3 QUAY 0
 1 EVEN
 2 TYPE note
-2 NOTE @T282@
+2 NOTE Edward's brother was William Hutchinson, husband of Anne Mar
+3 CONC bury
 0 @I1215@ INDI
 1 _XY 89090 1687
 1 REFN 3fec87b2-4816-41e5-902f-092d99166b6d
@@ -7629,7 +7733,13 @@
 4 LONG W1.4611
 2 SOUR @S-299819019@
 3 _APID 1,7249::10689496
-2 NOTE @T788@
+2 NOTE I am tentatively assuming Katherine's parents are Edward an
+3 CONC d Susanna. No proof of this has been found. Based on assume
+3 CONC d birth dates, I am rejecting the commonly proposed lineage
+3 CONC s of Katherine as daughter of Edward and Sarah, and daughte
+3 CONC r of Edward and Katherine Hamby. Still, it is a guess that s
+3 CONC he is related to the William Hutchinson (m. Anne Marbury) fa
+3 CONC mily (of Alford, Lincolnshire, England) at all.
 1 DEAT
 2 DATE 20 AUG 1643
 2 PLAC Portsmouth, Newport, Rhode Island, USA
@@ -7776,7 +7886,8 @@
 4 LONG E0.1798
 2 SOUR @S305@
 3 QUAY 1
-2 NOTE @T815@
+2 NOTE source actually has impossible date of 25 Nov 1601, assume 1
+3 CONC 599
 1 DEAT
 2 DATE 05 AUG 1601
 2 PLAC Alford, Lincolnshire, England
@@ -7896,7 +8007,7 @@
 3 MAP
 4 LATI N42.3583
 4 LONG W71.0603
-2 NOTE @T395@
+2 NOTE on ship "Griffin"
 1 EVEN
 2 TYPE signed Portsmouth compact
 2 DATE 07 MAR 1638
@@ -7922,9 +8033,10 @@
 4 LONG W71.2503
 2 SOUR @S305@
 3 QUAY 1
-2 NOTE @T393@
+2 NOTE place is assumed
 0 @P584@ INDI
 1 _XY 85372 2092
+1 REFN ab0669a7-87d9-4953-a765-00b77cad5f21
 1 RIN P584
 1 NAME Abigail /Jarvis/
 2 SOUR @S-340304061@
@@ -8002,7 +8114,7 @@
 4 LONG E0.8901
 2 SOUR @S197@
 3 QUAY 1
-2 NOTE @T798@
+2 NOTE date is just a guess
 1 RESI
 2 DATE FROM 1619 TO 1628
 2 PLAC Cambridge, Cambridgeshire, England
@@ -8019,7 +8131,9 @@
 4 LONG W70.275
 2 SOUR @S197@
 3 QUAY 0
-2 NOTE @T79@
+2 NOTE on ship Hopewell.
+3 CONT other dates are given: 1629, 1631/32, 1635.
+3 CONT other ships are given: Nector, Lyon.
 1 RESI
 2 DATE FROM 1635 TO 1640
 2 PLAC Ipswich, Essex, Massachusetts, USA
@@ -8036,13 +8150,13 @@
 4 LONG W71.0603
 2 SOUR @S197@
 3 QUAY 0
-2 NOTE @T80@
+2 NOTE ?
 1 RESI
 2 DATE FROM 1650 TO 1652
 2 PLAC Hashamomuck Neck, Southold, Suffolk, New York, USA
 2 SOUR @S197@
 3 QUAY 0
-2 NOTE @T81@
+2 NOTE dates are guesses
 1 RESI
 2 DATE FROM 1652 TO 1655
 2 PLAC Stratford, Fairfield, Connecticut, USA
@@ -8051,7 +8165,7 @@
 4 LONG W73.1332
 2 SOUR @S197@
 3 QUAY 0
-2 NOTE @T82@
+2 NOTE from date approx; until his death
 1 DEAT
 2 DATE ABT 08 JUN 1655
 2 PLAC Stratford, Fairfield, Connecticut, USA
@@ -8124,7 +8238,7 @@
 4 LONG W73.4257
 2 SOUR @S197@
 3 QUAY 1
-2 NOTE @T373@
+2 NOTE Williamson gives 17 Apr 1678
 1 DEAT
 2 DATE BEF 22 APR 1693
 2 PLAC Huntington, Suffolk, New York, USA
@@ -8304,7 +8418,8 @@
 3 MAP
 4 LATI N40.8682
 4 LONG W73.4257
-2 NOTE @T374@
+2 NOTE this date is given for his father John Ketcham, so may be un
+3 CONC reliable
 0 @I564@ INDI
 1 _XY 94087 2037
 1 REFN 11b0dbf7-eeb2-4db8-87bf-6493d7a24566
@@ -8341,7 +8456,8 @@
 4 LONG W73.4257
 2 SOUR @S197@
 3 QUAY 1
-2 NOTE @T84@
+2 NOTE 1688/89 or 1689/90?
+3 CONT also found as 6 Feb 1689
 1 DEAT
 2 DATE AFT 04 APR 1740
 2 SOUR @S197@
@@ -8508,7 +8624,10 @@
 3 _APID 1,2204::1238455
 3 PAGE Volume: 298
 3 OBJE @ozgkH2zaRwyYHQI0zHB1@
-2 NOTE @T86@
+2 NOTE Ketcham Genealogy Website gives 14 Jun 1734 or 19 Oct 1734
+3 CONT and gives both Stamford, CT and Huntington, NY as places
+3 CONT Same birth dates and places are given for her brother Zophar
+3 CONC ; either this is a mistake or they were twins.
 1 CENS
 2 DATE 02 AUG 1790
 2 PLAC Yorktown, Westchester, New York, USA
@@ -8541,7 +8660,7 @@
 3 _APID 1,2204::1238455
 3 PAGE Volume: 298
 3 OBJE @ozgkH2zaRwyYHQI0zHB1@
-2 NOTE @T88@
+2 NOTE Ketcham Genealogy Website gives Apr 1814 age 79
 0 @I540@ INDI
 1 _XY 94030 1843
 1 REFN 8c6615e0-4328-4875-8c03-c182a93e62a2
@@ -8615,7 +8734,7 @@
 3 QUAY 1
 1 SEX M
 1 FAMC @F_I541_I549@
-1 NOTE @pugrYPh4SdO7Rfapn7jB@
+1 NOTE West Farms area of Bronx
 1 BIRT
 2 DATE ABT 1681
 2 SOUR @S197@
@@ -8679,7 +8798,7 @@
 4 LONG W73.4257
 2 SOUR @S197@
 3 QUAY 1
-2 NOTE @T83@
+2 NOTE 1690/91 or 1691/92?
 0 @I545@ INDI
 1 _XY 94789 1843
 1 REFN fbb51794-b807-470a-9869-7c58867e4210
@@ -8868,7 +8987,7 @@
 4 LONG W73.4257
 2 SOUR @S197@
 3 QUAY 1
-2 NOTE @T85@
+2 NOTE other date given: 19 Oct 1732
 1 DEAT
 2 DATE BEF 1816
 2 PLAC Hanover, Grafton, New Hampshire, USA
@@ -8912,6 +9031,7 @@
 3 _APID 1,60525::95465728
 0 @P1681@ INDI
 1 _XY 98184 1843
+1 REFN f9cfb39f-8ca5-410b-9b6e-ed66887010b7
 1 RIN P1681
 1 NAME Elizabeth /Knowles/
 1 SEX F
@@ -8991,6 +9111,7 @@
 2 DATE AFT 1682
 0 @P1680@ INDI
 1 _XY 98316 1837
+1 REFN 1714cf66-345c-4bc0-afa4-668e1154fcb5
 1 RIN P1680
 1 NAME Joshua /Knowles/
 1 SEX M
@@ -9158,21 +9279,22 @@
 3 MAP
 4 LATI N42.3583
 4 LONG W71.0603
-2 NOTE @T394@
+2 NOTE on ship "Griffin"
 1 DEAT
 2 DATE 20 AUG 1643
 2 PLAC Eastchester, Westchester, New York, USA
 3 MAP
 4 LATI N40.9578
 4 LONG W73.808
-2 NOTE @T588@
+2 NOTE murdered by members of the Mohegan tribe of Native Americans
 1 EVEN
 2 TYPE note
 2 SOUR @S332@
 3 QUAY 1
-2 NOTE @T456@
+2 NOTE This is the famous "Anne Hutchinson."
 0 @P1004@ INDI
 1 _XY 86304 2387
+1 REFN 6f7c3c65-889a-4be7-8a1b-94960537694c
 1 RIN P1004
 1 NAME David /Masters/
 2 SOUR @S-340038419@
@@ -9443,6 +9565,7 @@
 3 QUAY 0
 0 @P1003@ INDI
 1 _XY 86067 2393
+1 REFN 63b20761-c75b-4531-a0d5-2a73b2900698
 1 RIN P1003
 1 NAME Fanny D /Nunson/
 2 SOUR @S-340166898@
@@ -9915,7 +10038,7 @@
 2 SOUR @S26@
 3 PAGE p. 22
 3 QUAY 1
-2 NOTE @T792@
+2 NOTE injured in the attack on Taunton by the Royalists
 1 OCCU taylor apprentice
 2 DATE FROM 05 JUN 1644 TO 04 JUN 1649
 2 PLAC Francis Brown's house, East Water Street, New Haven, New Hav
@@ -9930,7 +10053,8 @@
 2 SOUR @S26@
 3 PAGE pp. 60-61, 81
 3 QUAY 1
-2 NOTE @T287@
+2 NOTE on north side of Water Street, probably near Brown Street o
+3 CONC r Forbes Avenue
 1 OCCU ferryman apprentice
 2 DATE FROM 16 JUN 1645 TO 03 OCT 1650
 2 PLAC Tomlinson Bridge, Quinnipiac River, New Haven, New Haven, Co
@@ -9938,7 +10062,8 @@
 2 SOUR @S26@
 3 PAGE pp. 60, 81
 3 QUAY 1
-2 NOTE @T286@
+2 NOTE where the Forbes Avenue bridge now exists ("when the ferry w
+3 CONC as at the end of Water street")
 1 OCCU ferryman
 2 DATE FROM 03 OCT 1650 TO 07 OCT 1661
 2 PLAC Tomlinson Bridge, Quinnipiac River, New Haven, New Haven, Co
@@ -9952,7 +10077,8 @@
 2 SOUR @S26@
 3 PAGE pp. 61, 72, 81
 3 QUAY 1
-2 NOTE @T293@
+2 NOTE north side of Water Street, between Olive Street and Brown S
+3 CONC treet
 1 EVEN
 2 TYPE took oath of allegance
 2 DATE 04 APR 1654
@@ -9963,7 +10089,7 @@
 2 SOUR @S26@
 3 PAGE p. 62
 3 QUAY 1
-2 NOTE @T288@
+2 NOTE but was not admitted a freeman of the Court yet
 1 EVEN
 2 TYPE appointed
 2 DATE MAR 1655
@@ -9974,7 +10100,8 @@
 2 SOUR @S26@
 3 PAGE p. 62
 3 QUAY 1
-2 NOTE @T289@
+2 NOTE to "stake out the way at dragon poynt [Fair Haven]... Georg
+3 CONC e Pardy in stead of Francis Browne."
 1 EVEN
 2 TYPE law suit
 2 DATE 04 MAR 1656
@@ -9985,7 +10112,8 @@
 2 SOUR @S26@
 3 PAGE p. 62
 3 QUAY 1
-2 NOTE @T290@
+2 NOTE Timothy Ford, George Pardy, and Richard Johnson against Alle
+3 CONC n Ball for losing their 3 canoes
 1 EVEN
 2 TYPE admitted freeman
 2 DATE 16 JUN 1662
@@ -10003,7 +10131,8 @@
 2 SOUR @S26@
 3 PAGE pp. 65, 68
 3 QUAY 1
-2 NOTE @T291@
+2 NOTE "near Church St. in front of meeting house"
+3 CONT 1st rector of that school
 1 OCCU ferryman
 2 DATE FROM 1668
 2 PLAC Tomlinson Bridge, Quinnipiac River, New Haven, New Haven, Co
@@ -10011,7 +10140,7 @@
 2 SOUR @S26@
 3 PAGE p. 68
 3 QUAY 1
-2 NOTE @T292@
+2 NOTE c. 1670 the ferry was moved up-river to "Red Rock"
 1 OCCU rector
 2 DATE FROM 22 APR 1674 TO 1681
 2 PLAC Hopkins Grammar School, New Haven, New Haven, Connecticut, U
@@ -10026,7 +10155,7 @@
 2 SOUR @S26@
 3 PAGE pp. 69, 71
 3 QUAY 1
-2 NOTE @T294@
+2 NOTE site of Battell Chapel, Yale U.
 1 RESI
 2 DATE FROM 1682 TO 26 APR 1700
 2 PLAC Alling Ball's house, College Street (betw. Chapel and George
@@ -10183,7 +10312,8 @@
 4 LONG W73.5387
 2 SOUR @S296@
 3 QUAY 1
-2 NOTE @T376@
+2 NOTE assume he was aged 16+ in 1790 census; place assumed from fa
+3 CONC ther's residence
 0 @I646@ INDI
 1 _XY 88633 3167
 1 REFN 71184ef5-35d2-4879-8c24-dee0ff7bddb4
@@ -10330,7 +10460,10 @@
 2 SOUR @S26@
 3 PAGE p. 126
 3 QUAY 1
-2 NOTE @T303@
+2 NOTE house, barn, fruit trees, 50 acres, in "Dead Plains" Stamfor
+3 CONC d. Bought from Edward Thorpe, sold to David Lockwood III. Ib
+3 CONC id., p. 178, gives "west side of Mill River" property whic
+3 CONC h may be the same as this property.
 1 EVEN
 2 TYPE sold land
 2 DATE 05 APR 1771
@@ -10341,7 +10474,8 @@
 2 SOUR @S320@
 3 PAGE Grantor vol. 2, p. 139
 3 QUAY 1
-2 NOTE @T439@
+2 NOTE Original record in book I, p. 39.
+3 CONT To Thaddeus Hait
 1 EVEN
 2 TYPE military
 2 DATE FROM 28 JAN 1777 TO 21 MAR 1777
@@ -10352,7 +10486,8 @@
 2 SOUR @S26@
 3 PAGE p. 126
 3 QUAY 1
-2 NOTE @T311@
+2 NOTE Corporal in Captain Johnathan Whitney's Company, 9th Regimen
+3 CONC t, CT Militia (Revolutionary War)
 1 TITL private
 2 DATE FROM 03 APR 1780 TO 01 JAN 1781
 2 PLAC Connecticut, USA
@@ -10362,7 +10497,7 @@
 2 SOUR @S230@
 3 PAGE person 11157
 3 QUAY 1
-2 NOTE @T126@
+2 NOTE in Capt. Phineas Bradley's Co. of Artillery Guards, CT
 1 CENS
 2 DATE 02 AUG 1790
 2 PLAC Greenwich, Fairfield, Connecticut, USA
@@ -10389,7 +10524,8 @@
 2 SOUR @S320@
 3 PAGE Grantor vol. 2, p. 139
 3 QUAY 1
-2 NOTE @T440@
+2 NOTE Original record is in book N, p. 625.
+3 CONT To David Lockwood, III
 1 RESI
 2 DATE FROM 1801 TO 26 APR 1808
 2 PLAC Crompond, Westchester, New York, USA
@@ -10399,7 +10535,8 @@
 2 SOUR @S26@
 3 PAGE p. 126
 3 QUAY 1
-2 NOTE @T301@
+2 NOTE near "Crumb Pond" [is this name now Crompond?] [Is this pon
+3 CONC d now Gregory Pond?]
 1 DEAT
 2 DATE 26 APR 1808
 2 PLAC Cortlandt, Westchester, New York, USA
@@ -10408,7 +10545,7 @@
 4 LONG W73.9002
 2 SOUR @S24@
 3 QUAY 3
-2 NOTE @T300@
+2 NOTE Pardee Genealogy gives place
 1 PROB
 2 DATE 03 NOV 1808
 2 PLAC Westchester, New York, USA
@@ -10418,7 +10555,7 @@
 2 SOUR @S26@
 3 PAGE p. 126
 3 QUAY 1
-2 NOTE @T421@
+2 NOTE Westchester Co. Archives: file A0018(9)L
 0 @I639@ INDI
 1 _XY 88275 3567
 1 REFN fa8b3f2a-c10a-463e-ade7-19946b0380dd
@@ -10508,7 +10645,9 @@
 2 SOUR @S228@
 3 PAGE p. 533
 3 QUAY 1
-2 NOTE @T296@
+2 NOTE his father and grandfather were living in Evance house durin
+3 CONC g this time [Pardee Genealogy], so he was probably born ther
+3 CONC e
 1 RESI
 2 DATE FROM 09 AUG 1693 TO MAR 1709
 2 PLAC John Evance's house, SW cor. College and Elm Streets, New Ha
@@ -10548,7 +10687,8 @@
 2 SOUR @S26@
 3 PAGE p. 101
 3 QUAY 1
-2 NOTE @T295@
+2 NOTE sawmill, dam, and half an acre of land from Jonathan Jagger
+3 CONC , on Brothers Brook near Mianus River.
 1 RESI
 2 DATE FROM 09 MAR 1721 TO 07 JUN 1723
 2 PLAC Greenwich, Fairfield, Connecticut, USA
@@ -10573,7 +10713,8 @@
 2 SOUR @S26@
 3 PAGE p. 101
 3 QUAY 1
-2 NOTE @T297@
+2 NOTE grist mill, house, and 20 acres of land, on east side of Mia
+3 CONC nus River "above the main county road"
 1 WILL
 2 DATE 17 FEB 1762
 2 SOUR @S230@
@@ -10655,7 +10796,7 @@
 3 QUAY 1
 1 SEX M
 1 FAMC @F_I216_I217@
-1 NOTE @aLjdoGOMTkmTWPaSg3cb@
+1 NOTE or North Salem?
 1 BIRT
 2 DATE 09 MAY 1730
 2 PLAC Greenwich, Fairfield, Connecticut, USA
@@ -10809,14 +10950,16 @@
 2 SOUR @S-289788356@
 3 _APID 1,1034::21935
 3 OBJE @nTuHiPl7SLqt4Hs66OGA@
-2 NOTE @T302@
+2 NOTE Pardee Genealogy gives place, and gives same date as bible
 1 RESI
 2 DATE FROM 18 JUN 1768 TO 20 FEB 1800
 2 PLAC Stamford, Fairfield, Connecticut, USA
 3 MAP
 4 LATI N41.0534
 4 LONG W73.5387
-2 NOTE @T304@
+2 NOTE "Dead Plains" area. This is where her father was living at t
+3 CONC he time, so I assume she was living there as well, and proba
+3 CONC bly did so until she was married
 1 RESI
 2 DATE FROM 20 FEB 1800 TO 1820
 2 PLAC Cortlandt, Westchester, New York, USA
@@ -10865,7 +11008,7 @@
 3 _APID 1,2204::1238453
 3 PAGE Volume: 298
 3 OBJE @ozgkH2zaRwyYHQI0zHB1@
-2 NOTE @T17@
+2 NOTE Hornby from DAR sheet
 0 @I634@ INDI
 1 _XY 88529 3467
 1 REFN 41b13036-80e4-4521-a544-5c9bb6223864
@@ -10917,7 +11060,7 @@
 2 SOUR @S26@
 3 PAGE p. 103
 3 QUAY 1
-2 NOTE @T298@
+2 NOTE young
 0 @I667@ INDI
 1 _XY 88256 3167
 1 REFN f6f097db-0c85-4645-bfea-2303fd982369
@@ -11192,6 +11335,7 @@
 2 DATE ABT 1610
 0 @P2525@ INDI
 1 _XY 85470 1786
+1 REFN 40ab50de-73aa-4d1d-9532-07ccde5701e2
 1 RIN P2525
 1 NAME Hannah /Raynor/
 2 SOUR @S-340304061@
@@ -11241,7 +11385,8 @@
 4 LONG W72.6526
 2 SOUR @S361@
 3 QUAY 1
-2 NOTE @T517@
+2 NOTE gives Watertown, Fairfield, CT which is probably Wethersfiel
+3 CONC d
 1 DEAT
 2 DATE ABT 1703
 2 PLAC Stamford, Fairfield, Connecticut, USA
@@ -11336,6 +11481,7 @@
 1 FAMS @F_I541_I549@
 0 @P1310@ INDI
 1 _XY 86392 2287
+1 REFN 279bcf56-06a0-437f-a45f-ccb8a6e62c25
 1 RIN P1310
 1 NAME Phoebe Ann /Rogers/
 2 SOUR @S-330979816@
@@ -11541,7 +11687,7 @@
 2 SOUR @S220@
 3 PAGE p. 4
 3 QUAY 1
-2 NOTE @T790@
+2 NOTE place from "Akin-Slocum..."
 1 RESI
 2 DATE FROM 1642 TO 1661
 2 PLAC Marshfield, Plymouth, Massachusetts, USA
@@ -11566,7 +11712,7 @@
 2 DATE 1665
 2 SOUR @S221@
 3 QUAY 0
-2 NOTE @T115@
+2 NOTE representative from Dartmouth
 1 RESI
 2 DATE FROM 1665 TO 13 FEB 1695
 2 PLAC Dartmouth, Bristol, Massachusetts, USA
@@ -11595,7 +11741,7 @@
 4 LONG W70.966
 2 SOUR @S221@
 3 QUAY 0
-2 NOTE @T116@
+2 NOTE bought Miles Standish's interest in Dartmouth
 0 @I607@ INDI
 1 _XY 92965 1787
 1 REFN 6252913c-b11f-4ca2-a0b3-85d315e656eb
@@ -11669,7 +11815,7 @@
 2 SOUR @S220@
 3 PAGE p. 8
 3 QUAY 1
-2 NOTE @T114@
+2 NOTE place assumed from parents' residence
 1 DEAT
 2 DATE 11 DEC 1739
 2 PLAC Dartmouth, Bristol, Massachusetts, USA
@@ -11695,7 +11841,7 @@
 2 SOUR @S220@
 3 PAGE p. 4
 3 QUAY 1
-2 NOTE @T113@
+2 NOTE place assumed from parents' residence
 1 DEAT
 2 DATE BEF 1706
 1 BURI
@@ -11846,7 +11992,7 @@
 2 SOUR @S-330979816@
 3 _APID 1,7181::1655632058
 3 OBJE @wpXOEw1GRgy67qAEyXCK@
-2 NOTE @T308@
+2 NOTE place is assumed from father's residence
 1 RESI
 2 DATE 1855
 2 PLAC Hornby, Steuben, New York, USA
@@ -11897,7 +12043,7 @@
 3 _APID 1,2204::1238450
 3 PAGE Volume: 298; SAR Membership Number: 59590
 3 OBJE @ozgkH2zaRwyYHQI0zHB1@
-2 NOTE @T1135@
+2 NOTE place is from ancestry.com OneWorldTree
 0 @I195@ INDI
 1 _XY 87258 1887
 1 REFN 7b496bb7-0e29-427b-bea4-0b4290d93e2f
@@ -11944,7 +12090,8 @@
 2 PLAC Matinecock, Oyster Bay, Nassau, New York, USA
 2 SOUR @S111@
 3 QUAY 3
-2 NOTE @T371@
+2 NOTE his house and farm were on this land in the "Old Purchase" o
+3 CONC f Oyster Bay
 1 EVEN
 2 TYPE bought land
 2 DATE BEF 20 SEP 1730
@@ -11954,7 +12101,7 @@
 4 LONG W73.5321
 2 SOUR @S111@
 3 QUAY 3
-2 NOTE @T370@
+2 NOTE "West Lot," bought from Anthony Wright
 1 WILL
 2 DATE 21 SEP 1730
 2 PLAC Oyster Bay, Nassau, New York, USA
@@ -12002,7 +12149,7 @@
 2 DATE 1759
 2 SOUR @S270@
 3 QUAY 1
-2 NOTE @T283@
+2 NOTE in the "French War"
 0 @I358@ INDI
 1 _XY 88108 1993
 1 REFN 02b00350-4a60-4d13-95c2-d1096e697bca
@@ -12093,14 +12240,16 @@
 3 _APID 1,2204::1238452
 3 PAGE Volume: 298
 3 OBJE @ozgkH2zaRwyYHQI0zHB1@
-2 NOTE @T93@
+2 NOTE place from George Rogers
 1 RESI
 2 DATE FROM 07 JUN 1768 TO 20 FEB 1800
 2 PLAC Cortlandt, Westchester, New York, USA
 3 MAP
 4 LATI N41.2548
 4 LONG W73.9002
-2 NOTE @T305@
+2 NOTE probably lived with his father until he was married. 1800 ce
+3 CONC nsus (just after he was married) shows Othiniel Sands and Je
+3 CONC ssee Sands in two different households
 1 CENS
 2 DATE 02 AUG 1790
 2 PLAC Yorktown, Westchester, New York, USA
@@ -12109,7 +12258,7 @@
 4 LONG W73.8086
 2 SOUR @S294@
 3 QUAY 0
-2 NOTE @T375@
+2 NOTE probably counted with his father Othiniel
 1 RESI
 2 DATE FROM 20 FEB 1800 TO 1816
 2 PLAC Cortlandt, Westchester, New York, USA
@@ -12208,7 +12357,8 @@
 3 QUAY 1
 3 DATA
 4 TEXT p. 7
-2 NOTE @T306@
+2 NOTE source gives "Painted Post" because Hornby was then a part o
+3 CONC f Painted Post
 1 RESI
 2 DATE 1830
 2 PLAC Hornby, Steuben, New York, USA
@@ -12277,7 +12427,8 @@
 3 _APID 1,2204::1238452
 3 PAGE Volume: 298
 3 OBJE @ozgkH2zaRwyYHQI0zHB1@
-2 NOTE @T90@
+2 NOTE Hornby from DAR sheet
+3 CONT Ketcham Genealogy gives 30 Nov 1842
 0 @I347@ INDI
 1 _XY 87701 1887
 1 REFN 62904934-5ba2-42fb-80ff-b3cf399efe96
@@ -12293,7 +12444,7 @@
 4 LONG W71.2503
 2 SOUR @S218@
 3 QUAY 1
-2 NOTE @T586@
+2 NOTE place based on father's residence
 1 DEAT
 2 DATE 15 MAR 1712
 2 PLAC Sands Point, Nassau, New York, USA
@@ -12336,7 +12487,7 @@
 1 DEAT
 2 SOUR @S270@
 3 QUAY 1
-2 NOTE @T284@
+2 NOTE young
 0 @I342@ INDI
 1 _XY 87375 2187
 1 REFN a545f1cf-8971-429c-93f7-c9db03f78ff4
@@ -12444,7 +12595,7 @@
 4 CONC : 258; Family History Film: 1254258; Page: 147C; Enumeratio
 4 CONC n District: 203; Image: 0728
 3 OBJE @Z5wlqYYuQniQi2j7BErt@
-2 NOTE @T309@
+2 NOTE place is assumed from father's residence
 1 RESI
 2 DATE 1830
 2 PLAC Hornby, Steuben, New York, USA
@@ -12542,7 +12693,7 @@
 2 DATE ABT 1736
 2 SOUR @S270@
 3 QUAY 1
-2 NOTE @T993@
+2 NOTE young [date is just a guess]
 0 @I345@ INDI
 1 _XY 87735 2193
 1 REFN f4e5c76b-8108-4a35-b624-2f8f76af0cf3
@@ -12588,7 +12739,7 @@
 2 DATE ABT 1748
 2 SOUR @S270@
 3 QUAY 1
-2 NOTE @T992@
+2 NOTE young [date is just a guess]
 0 @I186@ INDI
 1 _XY 87724 2287
 1 REFN 0e6a36cd-f303-468f-8003-26126dc7ea58
@@ -12684,7 +12835,7 @@
 2 SOUR @S-330979816@
 3 _APID 1,7181::1655632048
 3 OBJE @wpXOEw1GRgy67qAEyXCK@
-2 NOTE @T307@
+2 NOTE place is assumed from father's residence at the time
 1 RESI
 2 DATE FROM 14 MAR 1809 TO 1815
 2 PLAC Cortlandt, Westchester, New York, USA
@@ -12909,14 +13060,15 @@
 2 DATE 20 AUG 1773
 2 SOUR @S106@
 3 QUAY 1
-2 NOTE @T91@
+2 NOTE Ketcham Genealogy Website gives 30 Aug 1773
 1 DEAT
 2 DATE 21 AUG 1777
 2 SOUR @S197@
 3 QUAY 1
-2 NOTE @T92@
+2 NOTE age 3
 0 @P597@ INDI
 1 _XY 87972 2187
+1 REFN 9fc24d48-4aec-4ffb-8105-cd4743dc33d2
 1 RIN P597
 1 NAME Nathaniel /Sands/
 2 SOUR @S-340304055@
@@ -12951,13 +13103,15 @@
 2 PLAC Matinecock, Oyster Bay, Nassau, New York, USA
 2 SOUR @S107@
 3 QUAY 0
-2 NOTE @T365@
+2 NOTE place is assumed from father's residence
 1 RESI
 2 DATE FROM 1699 TO 1746
 2 PLAC Matinecock, Oyster Bay, Nassau, New York, USA
 2 SOUR @S107@
 3 QUAY 0
-2 NOTE @T366@
+2 NOTE Both his and his father's wills refer to land owned in "Ol
+3 CONC d Purchase, Oyster Bay" which is probably Matinecock. Sand
+3 CONC s Family Papers give "Long Island"
 1 RESI
 2 DATE FROM 1746 TO 01 APR 1761
 2 PLAC Bedford, Westchester, New York, USA
@@ -12972,7 +13126,7 @@
 2 PLAC Matinecock, Oyster Bay, Nassau, New York, USA
 2 SOUR @S293@
 3 QUAY 3
-2 NOTE @T369@
+2 NOTE land and house next to "Plain Land"
 1 WILL
 2 DATE 19 AUG 1757
 2 PLAC Bedford, Westchester, New York, USA
@@ -12997,7 +13151,7 @@
 4 LONG W73.6438
 2 SOUR @S110@
 3 QUAY 3
-2 NOTE @T508@
+2 NOTE based on date of will probate
 1 PROB
 2 DATE 02 APR 1761
 2 PLAC Bedford, Westchester, New York, USA
@@ -13044,7 +13198,7 @@
 3 _APID 1,2204::1238454
 3 PAGE Volume: 298
 3 OBJE @ozgkH2zaRwyYHQI0zHB1@
-2 NOTE @T364@
+2 NOTE place is assumed from father's residence
 1 EVEN
 2 TYPE granted land
 2 DATE ABT 1776
@@ -13055,7 +13209,9 @@
 2 SOUR @S217@
 3 PAGE p. 267
 3 QUAY 1
-2 NOTE @T784@
+2 NOTE Applicant's Working Sheet, National Society, DAR has "Land B
+3 CONC ounty Rights of 160 acres".
+3 CONT Need to look at Rev. War NARA records on LDS film 972118.
 1 EVEN
 2 TYPE military
 2 DATE ABT 1776
@@ -13066,7 +13222,8 @@
 2 SOUR @S217@
 3 PAGE p. 267
 3 QUAY 2
-2 NOTE @T786@
+2 NOTE 3rd Regiment, Westchester Co., NY, Militia, under Captain Sa
+3 CONC muel Haight
 1 RESI
 2 DATE 1779
 2 PLAC Yorktown, Westchester, New York, USA
@@ -13075,7 +13232,11 @@
 4 LONG W73.8086
 2 SOUR @S215@
 3 QUAY 1
-2 NOTE @T753@
+2 NOTE Shows "middle ward of Cortlandt", which was called Hanover
+3 CONC . "Prior to 1788, Yorktown and Somers constituted the old to
+3 CONC wnship of Hanover, within Cortlandt's manor." Since 1790 cen
+3 CONC sus shows him in Yorktown, I'm assuming this 1779 location i
+3 CONC s also Yorktown.
 1 CENS
 2 DATE 02 AUG 1790
 2 PLAC Yorktown, Westchester, New York, USA
@@ -13116,7 +13277,8 @@
 3 MAP
 4 LATI N41.2548
 4 LONG W73.9002
-2 NOTE @T372@
+2 NOTE Possibly living with his son Samuel in 1820 census, p. 202
+3 CONC ; need to check original census record.
 1 DEAT
 2 DATE 05 JAN 1823
 2 PLAC Cortlandt, Westchester, New York, USA
@@ -13133,7 +13295,7 @@
 3 _APID 1,2204::1238454
 3 PAGE Volume: 298
 3 OBJE @ozgkH2zaRwyYHQI0zHB1@
-2 NOTE @T754@
+2 NOTE place is assumed
 1 EVEN
 2 TYPE military
 2 PLAC Orange, New York, USA
@@ -13142,7 +13304,7 @@
 4 LONG W74.3063
 2 SOUR @S109@
 3 QUAY 1
-2 NOTE @T785@
+2 NOTE Mounted Cavalry
 0 @I343@ INDI
 1 _XY 87495 2187
 1 REFN f4ce1f02-2e1c-4803-8149-aef763899b16
@@ -13159,7 +13321,7 @@
 2 DATE 29 DEC 1763
 2 SOUR @S106@
 3 QUAY 1
-2 NOTE @T89@
+2 NOTE Ketcham Gen. Website gives 29 Apr 1763
 1 DEAT
 2 DATE 29 AUG 1787
 2 SOUR @S357@
@@ -13179,7 +13341,7 @@
 4 LONG W71.2503
 2 SOUR @S218@
 3 QUAY 1
-2 NOTE @T587@
+2 NOTE place based on father's residence
 1 DEAT
 2 DATE 1730
 2 SOUR @S218@
@@ -13229,7 +13391,7 @@
 4 LONG W71.2503
 2 SOUR @S239@
 3 QUAY 0
-2 NOTE @T585@
+2 NOTE place based on father's residence
 1 DEAT
 2 DATE 15 MAY 1726
 2 PLAC Sands Point, Nassau, New York, USA
@@ -13335,7 +13497,7 @@
 4 CONC 33; Family History Film: 1254933; Page: 265A; Enumeration Di
 4 CONC strict: 177; Image: 0534
 3 OBJE @iXlT0jOjR6abzFzmBKNL@
-2 NOTE @T310@
+2 NOTE place is assumed from father's residence
 1 RESI
 2 DATE 1855
 2 PLAC Hornby, Steuben, New York, USA
@@ -13429,7 +13591,7 @@
 3 QUAY 1
 1 EVEN
 2 TYPE note
-2 NOTE @T363@
+2 NOTE This might be the "Zerviah" referenced in her father's will
 0 @I366@ INDI
 1 _XY 88158 2093
 1 REFN 3a6842a0-641c-4058-aa4c-640a8080030c
@@ -13452,7 +13614,7 @@
 3 MAP
 4 LATI N41.1724
 4 LONG W71.5578
-2 NOTE @T18@
+2 NOTE drowned in the mill pond at a young age
 0 @I360@ INDI
 1 _XY 87386 2093
 1 REFN bd02e459-e784-401e-b430-8e7af8e0c82a
@@ -13521,7 +13683,10 @@
 2 SOUR @S112@
 3 PAGE p. 10
 3 QUAY 1
-2 NOTE @T390@
+2 NOTE Note that Portsmouth was founded March 7, 1637/8 OS, by Ann
+3 CONC e Hutchinson and followers. James was probably closely invol
+3 CONC ved and therefore moved there probably shortly around Marc
+3 CONC h 1637/8.
 1 RESI
 2 DATE FROM 1641 TO 1643
 2 PLAC Eastchester, Westchester, New York, USA
@@ -13531,7 +13696,11 @@
 2 SOUR @S112@
 3 PAGE p. 12
 3 QUAY 1
-2 NOTE @T392@
+2 NOTE Anne Hutchinson moved here (what is now Pelham Bay Park) i
+3 CONC n 1642 (after her husband died). James Sands may have gone w
+3 CONC ith her at this time. Built house for Anne Hutchinson and wa
+3 CONC s driven out by local Indians who later killed Anne Hutchins
+3 CONC on.
 1 RESI
 2 DATE FROM 1643 TO APR 1661
 2 PLAC Portsmouth, Newport, Rhode Island, USA
@@ -13568,7 +13737,7 @@
 4 LONG W71.2503
 2 SOUR @S218@
 3 QUAY 1
-2 NOTE @T112@
+2 NOTE James was a commissioner from Portsmouth
 1 RESI
 2 DATE FROM APR 1661 TO 13 MAR 1695
 2 PLAC Block Island, Washington, Rhode Island, USA
@@ -13585,7 +13754,7 @@
 2 SOUR @S116@
 3 PAGE p. 303
 3 QUAY 1
-2 NOTE @T110@
+2 NOTE This was the organizing meeting for the Assembly of RI
 1 EVEN
 2 TYPE at Assembly of RI
 2 DATE 04 MAY 1664
@@ -13596,7 +13765,8 @@
 2 SOUR @S116@
 3 PAGE p. 303
 3 QUAY 1
-2 NOTE @T111@
+2 NOTE This was the first regular Assembly of RI.
+3 CONT James appeared here on behalf of Block Island.
 1 WILL
 2 DATE 18 JUN 1694
 2 PLAC Block Island, Washington, Rhode Island, USA
@@ -13641,9 +13811,11 @@
 2 PLAC Willow Lane, Portsmouth, Newport, Rhode Island, USA
 2 SOUR @S304@
 3 QUAY 1
-2 NOTE @T391@
+2 NOTE on north side of street, half-way between Sprague Street an
+3 CONC d Brownell Lane
 0 @P2534@ INDI
 1 _XY 86390 1992
+1 REFN 4dbf7cd0-3f80-407b-93e0-2f39ddc43367
 1 RIN P2534
 1 NAME Abigail /Sayre/
 2 SOUR @S-340304061@
@@ -13654,6 +13826,7 @@
 2 SOUR @S-340304061@
 0 @P2537@ INDI
 1 _XY 85602 1892
+1 REFN fc3e923c-69ca-4639-9fbb-14d6f3aedcaf
 1 RIN P2537
 1 NAME Benjamin /Sayre/
 2 SOUR @S-340304061@
@@ -13666,6 +13839,7 @@
 3 QUAY 1
 0 @P2533@ INDI
 1 _XY 86271 1992
+1 REFN 9246b76a-e6db-4c29-950a-fa3e88bb165b
 1 RIN P2533
 1 NAME Benjamin /Sayre/
 2 SOUR @S-340304061@
@@ -13678,6 +13852,7 @@
 3 QUAY 1
 0 @P2515@ INDI
 1 _XY 85698 2186
+1 REFN 573b034f-69c5-4e2b-bdc8-8a995c4b9d8e
 1 RIN P2515
 1 NAME Benjamin /Sayre/
 2 SOUR @S-340304061@
@@ -13704,6 +13879,7 @@
 3 _APID 1,70572::6425487
 0 @P2529@ INDI
 1 _XY 85826 1986
+1 REFN 0d16e592-3fae-42bd-9c9b-b79d1c0e7794
 1 RIN P2529
 1 NAME Elizabeth /Sayre/
 2 SOUR @S-340304061@
@@ -13720,6 +13896,7 @@
 3 QUAY 1
 0 @P2521@ INDI
 1 _XY 85589 2086
+1 REFN 3ff277f6-c743-429f-a2d1-bb0a96c06937
 1 RIN P2521
 1 NAME Elizabeth /Sayre/
 2 SOUR @S-340304061@
@@ -13733,6 +13910,7 @@
 2 SOUR @S-340304061@
 0 @P2532@ INDI
 1 _XY 86161 1986
+1 REFN 9e1d6c91-7482-483a-be50-3096c0618c1f
 1 RIN P2532
 1 NAME Ezekiel /Sayre/
 2 SOUR @S-340304061@
@@ -13746,6 +13924,7 @@
 2 SOUR @S-340304061@
 0 @P2524@ INDI
 1 _XY 85814 2086
+1 REFN 7243d827-c6fc-4977-8aa1-1a924c671f05
 1 RIN P2524
 1 NAME Hannah /Sayre/
 2 SOUR @S-340304061@
@@ -13782,6 +13961,7 @@
 3 OBJE @BEycAGPtTrWZzWs37shE@
 0 @P2538@ INDI
 1 _XY 85721 1886
+1 REFN 4a13496a-013e-42b3-bf30-a4952af64b2e
 1 RIN P2538
 1 NAME James /Sayre/
 2 SOUR @S-340304061@
@@ -13795,6 +13975,7 @@
 2 SOUR @S-340304061@
 0 @P2530@ INDI
 1 _XY 85945 1986
+1 REFN cbe98c6d-a00d-44d6-82f7-f87575ddae72
 1 RIN P2530
 1 NAME James /Sayre/
 2 SOUR @S-340304061@
@@ -13808,6 +13989,7 @@
 2 SOUR @S-340304061@
 0 @P2522@ INDI
 1 _XY 85708 2086
+1 REFN 37ba7c03-d1b7-4097-9b9a-9f1ee96aa228
 1 RIN P2522
 1 NAME James /Sayre/
 2 SOUR @S-340304061@
@@ -13821,6 +14003,7 @@
 2 SOUR @S-340304061@
 0 @P2523@ INDI
 1 _XY 85934 2086
+1 REFN 9b42004f-a1f7-4a2e-b11e-faeb6632337c
 1 RIN P2523
 1 NAME Jane /Sayre/
 2 SOUR @S-340304061@
@@ -13936,6 +14119,7 @@
 3 QUAY 1
 0 @P2527@ INDI
 1 _XY 85592 1986
+1 REFN edb7a82b-5f64-4719-b1a3-04b2162ef3af
 1 RIN P2527
 1 NAME Joseph /Sayre/
 2 SOUR @S-340304061@
@@ -13949,6 +14133,7 @@
 2 SOUR @S-340304061@
 0 @P2531@ INDI
 1 _XY 86051 1986
+1 REFN cded08f3-4c55-42bd-8ee8-215cf26cbe68
 1 RIN P2531
 1 NAME Joseph /Sayre/
 2 SOUR @S-340304061@
@@ -13962,6 +14147,7 @@
 2 SOUR @S-340304061@
 0 @P2518@ INDI
 1 _XY 85468 1986
+1 REFN 1cf99645-295f-44d4-afe0-3f961292ac02
 1 RIN P2518
 1 NAME Nehemiah /Sayre/
 2 SOUR @S-340304061@
@@ -14054,7 +14240,8 @@
 4 CONC 653_863; Page: 266; Image: 271; Family History Library Film
 4 CONC : 803863
 3 OBJE @5pvv6fqeQ56vjKceTpdM@
-2 NOTE @T654@
+2 NOTE Place is assumed, based on 1810 census. Date is from famil
+3 CONC y interviews.
 1 CENS
 2 DATE 06 AUG 1810
 2 PLAC Warwick, Orange, New York, USA
@@ -14139,13 +14326,14 @@
 4 LONG W77.0444
 2 SOUR @S-313778072@
 3 _APID 1,60525::86932038
-2 NOTE @T653@
+2 NOTE Place is just a guess. Date is from family interviews.
 1 BURI
 2 PLAC Harrison Cemetery, Hornby, Steuben, New York, USA
 2 SOUR @S-313778072@
 3 _APID 1,60525::86932038
 0 @P2516@ INDI
 1 _XY 85590 2186
+1 REFN 6d4f1436-bc3c-470a-b9b8-c8b4777d9f0c
 1 RIN P2516
 1 NAME Rhoda /Sayre/
 2 SOUR @S-340304061@
@@ -14159,6 +14347,7 @@
 2 SOUR @S-340304061@
 0 @P2528@ INDI
 1 _XY 85702 1986
+1 REFN f79e6ff0-39e3-4096-a466-e39deab1fdf0
 1 RIN P2528
 1 NAME Susannah /Sayre/
 2 SOUR @S-340304061@
@@ -14172,6 +14361,7 @@
 2 SOUR @S-340304061@
 0 @P2536@ INDI
 1 _XY 85372 1686
+1 REFN a5b733a6-52ca-4847-9663-4720e0e28ae1
 1 RIN P2536
 1 NAME Thomas /Sayre/
 2 SOUR @S-340304061@
@@ -14407,7 +14597,7 @@
 4 LONG W72.0995
 2 SOUR @S313@
 3 QUAY 1
-2 NOTE @T419@
+2 NOTE place is from Ancestral File
 0 @I263@ INDI
 1 _XY 93942 3817
 1 REFN 6abfe0ce-9d20-459a-9c6f-fef4302d2462
@@ -14438,7 +14628,7 @@
 4 LONG W71.1056
 2 SOUR @S313@
 3 QUAY 1
-2 NOTE @T404@
+2 NOTE on ship Hercules
 1 RESI
 2 DATE 1638
 2 PLAC Duxbury, Plymouth, Massachusetts, USA
@@ -14493,7 +14683,7 @@
 4 LONG W70.7259
 2 SOUR @S313@
 3 QUAY 1
-2 NOTE @T414@
+2 NOTE 15 Nov is from Ancestral File
 1 BAPM
 2 DATE 07 JUN 1646
 2 PLAC Second Church, Scituate, Plymouth, Massachusetts, USA
@@ -14611,7 +14801,7 @@
 4 LONG W71.0625
 2 SOUR @S313@
 3 QUAY 1
-2 NOTE @T415@
+2 NOTE place is from Ancestral File
 0 @I1358@ INDI
 1 _XY 95540 3823
 1 REFN e4b8aefc-ef1a-44dd-9ba8-511044036af5
@@ -14698,10 +14888,19 @@
 2 DATE 03 JUN 1621
 2 SOUR @S313@
 3 QUAY 1
-2 NOTE @T572@
+2 NOTE Source give 3 Jun 1622, but I'm assuming it's actually 1621
+3 CONC , due to conflicting birth dates (see note on birth event)
 1 BIRT
 2 DATE ABT JUN 1621
-2 NOTE @T573@
+2 NOTE Given Elizabeth's baptism date of 3 Jun 1622, she and her si
+3 CONC ster Hannah would have been baptized less than nine months a
+3 CONC part, so I'm assuming Elizabeth was born probably earlier th
+3 CONC an nine months before Hannah was baptized. Also, I'm assumin
+3 CONC g Mary was born about when baptized, so nine months after th
+3 CONC at is about the earliest Elizabeth could have been born. So
+3 CONC , I'm assuming 1621 (between Jan and Oct). Since Marshall Ge
+3 CONC nealogy gives 3 Jun 1622 for baptism, I'm assuming 3 Jun 162
+3 CONC 1 for baptism.
 0 @I1374@ INDI
 1 _XY 94190 4023
 1 REFN 7b44ad69-3676-4974-9801-220d872d0d2e
@@ -14867,7 +15066,7 @@
 4 LONG W71.0625
 2 SOUR @S313@
 3 QUAY 0
-2 NOTE @T416@
+2 NOTE place is from Ancestral File
 0 @I1445@ INDI
 1 _XY 94071 4123
 1 REFN 6a45136b-84e1-4b0d-abf8-edbd75d555ce
@@ -15081,7 +15280,7 @@
 4 LONG W72.6506
 2 SOUR @S239@
 3 QUAY 0
-2 NOTE @T418@
+2 NOTE place is given as in MA, but is prob. in CT
 1 DEAT
 2 DATE 08 OCT 1747
 2 PLAC Middletown, Middlesex, Connecticut, USA
@@ -15195,7 +15394,7 @@
 2 TYPE note
 2 SOUR @S313@
 3 QUAY 0
-2 NOTE @T407@
+2 NOTE last name may have been Harris or Willoughby
 0 @I1448@ INDI
 1 _XY 94576 4117
 1 REFN 0e9d63a0-0493-49a7-a6be-8b93cf550092
@@ -15399,7 +15598,7 @@
 4 LONG W70.275
 2 SOUR @S313@
 3 QUAY 1
-2 NOTE @T403@
+2 NOTE on ship "Hercules"
 1 DEAT
 2 DATE 02 MAR 1641
 2 PLAC Dorchester, Suffolk, Massachusetts, USA
@@ -15451,7 +15650,7 @@
 4 LONG W71.1056
 2 SOUR @S313@
 3 QUAY 1
-2 NOTE @T405@
+2 NOTE on ship Hercules
 1 RESI
 2 DATE 1638
 2 PLAC Duxbury, Plymouth, Massachusetts, USA
@@ -15468,7 +15667,7 @@
 4 LONG W70.6723
 2 SOUR @S313@
 3 QUAY 1
-2 NOTE @T413@
+2 NOTE place is from Ancestral File
 1 RESI
 2 PLAC Sandwich, Kent, England
 3 MAP
@@ -15479,7 +15678,7 @@
 1 OCCU surgeon
 2 SOUR @S313@
 3 QUAY 1
-2 NOTE @T406@
+2 NOTE in Pequot War
 1 RESI
 2 PLAC Yarmouth, Barnstable, Massachusetts, USA
 3 MAP
@@ -15511,7 +15710,7 @@
 4 LONG W70.7259
 2 SOUR @S313@
 3 QUAY 1
-2 NOTE @T502@
+2 NOTE place is from Ancestral File
 0 @I1449@ INDI
 1 _XY 94696 4123
 1 REFN 81d0b461-bf21-434a-ad45-72578eccc7dc
@@ -15722,7 +15921,7 @@
 4 LONG W71.0603
 2 SOUR @S239@
 3 QUAY 0
-2 NOTE @T411@
+2 NOTE place is assumed
 0 @I1443@ INDI
 1 _XY 96005 4398
 1 REFN a90ced8a-54e8-492d-868a-52abfce96ab8
@@ -15813,7 +16012,7 @@
 1 DEAT
 2 SOUR @S239@
 3 QUAY 0
-2 NOTE @T412@
+2 NOTE young
 0 @I1298@ INDI
 1 _XY 88512 3930
 1 REFN 2ed39f8c-a7fa-4a08-9d77-c37b552fa3e4
@@ -15899,7 +16098,7 @@
 4 LONG W1.4611
 2 SOUR @S238@
 3 QUAY 0
-2 NOTE @T803@
+2 NOTE probably later, considering birth date of mother
 1 DEAT
 2 DATE 17 APR 1640
 2 SOUR @S239@
@@ -15985,7 +16184,8 @@
 3 _APID 1,7249::10032950
 2 SOUR @S239@
 3 QUAY 0
-2 NOTE @T787@
+2 NOTE Date is just a guess, based on birth dates of children, fath
+3 CONC er, and husband.
 1 WILL
 2 DATE 17 OCT 1703
 2 PLAC Block Island, Washington, Rhode Island, USA
@@ -16478,7 +16678,9 @@
 3 QUAY 1
 3 DATA
 4 TEXT MAR 10, 1651
-2 NOTE @T441@
+2 NOTE Origianl record is in book I-2, p. 47.
+3 CONT From Richard Rugg.
+3 CONT Either this Richard Webb, or his father.
 1 WILL
 2 DATE 15 MAR 1676
 2 PLAC Stamford, Fairfield, Connecticut, USA
@@ -16504,7 +16706,8 @@
 3 QUAY 1
 1 EVEN
 2 TYPE note
-2 NOTE @T449@
+2 NOTE There are two other comtemporary Richard Webbs: R. W. of Wey
+3 CONC mouth, MA and R. W. of Hartford, CT (probably his father).
 0 @I1258@ INDI
 1 _XY 92326 4023
 1 REFN 5a468cc2-1862-4e51-b881-68b87df82b4b
@@ -16668,13 +16871,13 @@
 2 SOUR @S26@
 3 PAGE p. 126
 3 QUAY 1
-2 NOTE @T422@
+2 NOTE Westchester Co. Archives: file A0018(10)L
 1 EVEN
 2 TYPE note
 2 SOUR @S26@
 3 PAGE p. 126
 3 QUAY 1
-2 NOTE @T299@
+2 NOTE aunt of Brig. Gen. Samuel B. Webb of the Revolutionary War
 0 @I1261@ INDI
 1 _XY 92659 4010
 1 REFN 180ab62e-0195-45fa-b4d7-97999877c75a
@@ -16840,7 +17043,7 @@
 3 QUAY 1
 1 IMMI
 2 DATE 1630
-2 NOTE @T402@
+2 NOTE on ship Arebella, Captain Peter Milburne
 1 RESI
 2 DATE FROM 1630 TO 1635
 2 PLAC Watertown, Middlesex, Massachusetts, USA
@@ -17045,7 +17248,7 @@
 1 FAMS @F_I563_I1687@
 1 EVEN
 2 TYPE note
-2 NOTE @T483@
+2 NOTE or Isabel Harcourt
 0 @I563@ INDI
 1 _XY 95761 1837
 1 REFN d00fc470-2cce-49c3-a076-5360b891e480
@@ -17274,7 +17477,7 @@
 2 SOUR @S314@
 3 PAGE p. 36
 3 QUAY 1
-2 NOTE @T409@
+2 NOTE in Roxbury Training Band (militia)
 1 EVEN
 2 TYPE note
 2 DATE 1638
@@ -17284,7 +17487,7 @@
 4 LONG W71.0958
 2 SOUR @S332@
 3 QUAY 1
-2 NOTE @T455@
+2 NOTE held Anne Hutchinson in custody in his house
 1 DEAT
 2 DATE 07 OCT 1646
 2 PLAC Roxbury, Suffolk, Massachusetts, USA
@@ -17305,7 +17508,8 @@
 2 SOUR @S314@
 3 PAGE p. 37
 3 QUAY 1
-2 NOTE @T410@
+2 NOTE member of Boston Ancient and Honorable Artillery Company (3r
+3 CONC d member)
 1 OCCU cloth merchant
 2 SOUR @S314@
 3 PAGE p. 36
@@ -17394,7 +17598,7 @@
 4 LONG E0.7333
 2 SOUR @S239@
 3 QUAY 0
-2 NOTE @T817@
+2 NOTE place is just a guess
 1 CHR
 2 DATE 03 JUL 1629
 2 PLAC All Saints' Church, Sudbury, Suffolk, England
@@ -17458,7 +17662,7 @@
 4 LONG E0.7333
 2 SOUR @S239@
 3 QUAY 0
-2 NOTE @T818@
+2 NOTE place is just a guess
 1 DEAT
 2 DATE 09 SEP 1649
 2 PLAC Roxbury, Suffolk, Massachusetts, USA
@@ -17637,7 +17841,7 @@
 4 LONG W73.5387
 2 SOUR @S307@
 3 QUAY 1
-2 NOTE @T397@
+2 NOTE by Jonathan Bell
 0 @F_I1430_I1426@ FAM
 1 REFN 91ddd5d8-0604-4162-aa26-6f3a9346ee59
 1 RIN F_I1430_I1426
@@ -17734,6 +17938,7 @@
 3 PAGE p. 2
 3 QUAY 1
 0 @F_P2708_P1309@ FAM
+1 REFN 2728057c-d697-4d55-bf32-dbb2f6082633
 1 RIN F_P2708_P1309
 1 HUSB @P2708@
 1 WIFE @P1309@
@@ -17814,7 +18019,7 @@
 4 LONG W73.5387
 2 SOUR @S360@
 3 QUAY 1
-2 NOTE @T514@
+2 NOTE Ferris Genealogy and E. B. Huntington give 5 July 1654
 0 @F_I235_I682@ FAM
 1 REFN 5f9204e6-227d-49fe-ac5f-bbfc01f4a7ce
 1 RIN F_I235_I682
@@ -17831,6 +18036,7 @@
 1 HUSB @I1468@
 1 WIFE @I253@
 0 @F_P1001_I288@ FAM
+1 REFN 77813333-9d71-4960-a35b-e0ff69fdeea9
 1 RIN F_P1001_I288
 1 HUSB @P1001@
 1 WIFE @I288@
@@ -17853,7 +18059,7 @@
 2 PLAC Jesse Sands's house, Hornby, Steuben, New York, USA
 2 SOUR @S105@
 3 QUAY 3
-2 NOTE @T1064@
+2 NOTE by Charles Goodrich
 0 @F_I51_I52@ FAM
 1 REFN bc6cf0d4-2d12-408a-a75a-f1547949127f
 1 RIN F_I51_I52
@@ -17875,7 +18081,7 @@
 3 OBJE @3Rpwv5KbRfOuL0dpP3sP@
 2 SOUR @S203@
 3 QUAY 2
-2 NOTE @T1132@
+2 NOTE by Rev. James M. Bustin
 0 @F_I181_I182@ FAM
 1 REFN 9d39796b-c817-4c86-8e5d-09cdcca6c11a
 1 RIN F_I181_I182
@@ -17907,27 +18113,33 @@
 1 MARR
 2 DATE 04 OCT 1804
 0 @F_I293_P1003@ FAM
+1 REFN 704f69c9-a0a8-4ecc-a9bb-2c6130e59e39
 1 RIN F_I293_P1003
 1 HUSB @I293@
 1 WIFE @P1003@
 0 @F_I596_P1284@ FAM
+1 REFN b9b2467e-a75a-4fd0-99dd-304009c5b391
 1 RIN F_I596_P1284
 1 HUSB @I596@
 1 WIFE @P1284@
 1 CHIL @P1285@
 0 @F_I721_P1309@ FAM
+1 REFN 55108c6b-5e80-4381-8d8e-47e0e32b48a7
 1 RIN F_I721_P1309
 1 HUSB @I721@
 1 WIFE @P1309@
 0 @F_P1285_P1310@ FAM
+1 REFN 0be9188c-663e-4238-bcf0-61729f413ce2
 1 RIN F_P1285_P1310
 1 HUSB @P1285@
 1 WIFE @P1310@
 0 @F_I727_P1310@ FAM
+1 REFN 4bad5e72-4dd4-46e9-b729-b69f57be5f73
 1 RIN F_I727_P1310
 1 HUSB @I727@
 1 WIFE @P1310@
 0 @F_I290_P1002@ FAM
+1 REFN 7f8f4aea-9822-4704-b27b-446830a0a67a
 1 RIN F_I290_P1002
 1 HUSB @I290@
 1 WIFE @P1002@
@@ -18265,6 +18477,7 @@
 3 PAGE p. 24
 3 QUAY 1
 0 @F_P1004_P2547@ FAM
+1 REFN 7f88be27-d0fa-4f77-958f-22ed28a86239
 1 RIN F_P1004_P2547
 1 HUSB @P1004@
 1 WIFE @P2547@
@@ -18277,6 +18490,7 @@
 2 SOUR @S-301609605@
 3 _APID 1,60284::1699028
 0 @F_P1004_I294@ FAM
+1 REFN e4225803-e7d5-434c-a44c-d4757ccc978f
 1 RIN F_P1004_I294
 1 HUSB @P1004@
 1 WIFE @I294@
@@ -18482,6 +18696,7 @@
 1 CHIL @I605@
 1 CHIL @I607@
 0 @F_I286_P999@ FAM
+1 REFN aee8e57c-ee29-437d-90fe-af258cd75bd4
 1 RIN F_I286_P999
 1 HUSB @I286@
 1 WIFE @P999@
@@ -18517,6 +18732,7 @@
 2 SOUR @S24@
 3 QUAY 3
 0 @F_I287_P1000@ FAM
+1 REFN 58007f1d-cf71-40d9-808d-f02373180398
 1 RIN F_I287_P1000
 1 HUSB @I287@
 1 WIFE @P1000@
@@ -18550,7 +18766,7 @@
 4 LONG W73.8395
 2 SOUR @S107@
 3 QUAY 0
-2 NOTE @T362@
+2 NOTE place is from Ancestry.com
 0 @F_I191_I192@ FAM
 1 REFN 4c1429ba-d855-4ef4-97ee-fe37be70bf56
 1 RIN F_I191_I192
@@ -18571,7 +18787,7 @@
 4 LONG W73.9204
 2 SOUR @S107@
 3 QUAY 0
-2 NOTE @T87@
+2 NOTE place from Ketcham Genealogy Website.
 0 @F_I200_I199@ FAM
 1 REFN 0bd7ff49-b658-4e55-a8d7-0988ed52d4a8
 1 RIN F_I200_I199
@@ -18594,6 +18810,7 @@
 3 PAGE p. 13
 3 QUAY 1
 0 @F_I2365_P2525@ FAM
+1 REFN 1a2e0df3-e7d0-4ec7-9340-4cdb7cc055f7
 1 RIN F_I2365_P2525
 1 HUSB @I2365@
 1 WIFE @P2525@
@@ -18601,6 +18818,7 @@
 1 CHIL @P2537@
 1 CHIL @P2538@
 0 @F_I2355_P2519@ FAM
+1 REFN f3a5cae7-1f77-49ee-a5ed-8f6f62395138
 1 RIN F_I2355_P2519
 1 HUSB @I2355@
 1 WIFE @P2519@
@@ -18614,6 +18832,7 @@
 1 CHIL @P2533@
 1 CHIL @P2534@
 0 @F_I2343_P584@ FAM
+1 REFN 967e5f8c-0626-4b69-8d6e-56951e6c403a
 1 RIN F_I2343_P584
 1 HUSB @I2343@
 1 WIFE @P584@
@@ -18629,6 +18848,7 @@
 4 LONG W74.2224
 2 SOUR @S-340304060@
 0 @F_P2518_I2350@ FAM
+1 REFN f03fba0e-7e57-400d-8722-5fa6bf67db1e
 1 RIN F_P2518_I2350
 1 HUSB @P2518@
 1 WIFE @I2350@
@@ -18644,6 +18864,7 @@
 3 PAGE Source number: 2784.039; Source type: Family group sheet, FG
 4 CONC SE, listed as parents; Number of Pages: 1
 0 @F_P2536_P2535@ FAM
+1 REFN dc02dfb3-7e8f-4cd5-a655-a21794b3dc83
 1 RIN F_P2536_P2535
 1 HUSB @P2536@
 1 WIFE @P2535@
@@ -18709,7 +18930,7 @@
 4 LONG W71.0603
 2 SOUR @S313@
 3 QUAY 1
-2 NOTE @T417@
+2 NOTE 4 Jul is from Ancestral File
 0 @F_I226_I227@ FAM
 1 REFN 10f9a8aa-b3c9-4da9-8cad-d97a61a3e720
 1 RIN F_I226_I227
@@ -18989,14 +19210,17 @@
 1 EMAIL
 1 PHON
 1 RIN R-899050557
+1 REFN 8f1fefd7-a8a8-4c20-924d-1c37684dcd91
 0 @dIuP1jfcRrCeiZcZz5qZ@ REPO
 1 NAME Ancestry.com, II, OLD
 1 ADDR
 1 EMAIL
 1 PHON
 1 RIN dIuP1jfcRrCeiZcZz5qZ
+1 REFN 3aecc05a-a00f-42ae-aa30-0d72cada0436
 0 @S-338822417@ SOUR
 1 _APID 1,7613::0
+1 REFN 8bf8d935-8cef-4796-b756-eb2aa6be8b14
 1 RIN S-338822417
 1 REPO @R-899050557@
 1 TITL 1810 United States Federal Census
@@ -19005,6 +19229,7 @@
 2 CONC e: 2010
 0 @S-338822425@ SOUR
 1 _APID 1,7734::0
+1 REFN cebaa6f1-ce17-4719-b9b4-e06618ef738f
 1 RIN S-338822425
 1 REPO @R-899050557@
 1 TITL 1820 United States Federal Census
@@ -19013,6 +19238,7 @@
 2 CONC e: 2010
 0 @S-338822437@ SOUR
 1 _APID 1,8058::0
+1 REFN 3be73f68-037e-4de2-a2ad-1a8809ffda4c
 1 RIN S-338822437
 1 REPO @R-899050557@
 1 TITL 1830 United States Federal Census
@@ -19021,6 +19247,7 @@
 2 CONC e: 2010
 0 @S-340042669@ SOUR
 1 _APID 1,8057::0
+1 REFN 8d6554f2-3390-42f3-8056-ee741905cefe
 1 RIN S-340042669
 1 REPO @R-899050557@
 1 TITL 1840 United States Federal Census
@@ -19029,6 +19256,7 @@
 2 CONC e: 2010
 0 @S-340037843@ SOUR
 1 _APID 1,8054::0
+1 REFN a44d1295-8349-4fcf-ae64-b0ed38518d31
 1 RIN S-340037843
 1 REPO @R-899050557@
 1 TITL 1850 United States Federal Census
@@ -19037,6 +19265,7 @@
 2 CONC e: 2009
 0 @S-340166919@ SOUR
 1 _APID 1,7667::0
+1 REFN aa2c3368-5615-4dce-b7cb-90b87d0e3f1b
 1 RIN S-340166919
 1 REPO @R-899050557@
 1 TITL 1860 United States Federal Census
@@ -19045,6 +19274,7 @@
 2 CONC e: 2009
 0 @S-338823707@ SOUR
 1 _APID 1,7163::0
+1 REFN b361a7b6-117f-4095-bcca-4f3b09a54cb4
 1 RIN S-338823707
 1 REPO @R-899050557@
 1 TITL 1870 United States Federal Census
@@ -19053,6 +19283,7 @@
 2 CONC e: 2009
 0 @S-340166898@ SOUR
 1 _APID 1,6742::0
+1 REFN 1d67e14d-0acf-42c2-96a0-4aeece729876
 1 RIN S-340166898
 1 REPO @R-899050557@
 1 TITL 1880 United States Federal Census
@@ -19062,6 +19293,7 @@
 2 CONC : 2010
 0 @S-340038419@ SOUR
 1 _APID 1,7602::0
+1 REFN 2222f094-fd0e-4db1-960f-11cb9fccf411
 1 RIN S-340038419
 1 REPO @R-899050557@
 1 TITL 1900 United States Federal Census
@@ -19070,6 +19302,7 @@
 2 CONC : 2004
 0 @S-340037973@ SOUR
 1 _APID 1,7884::0
+1 REFN 356cc4a1-1d81-43eb-99d6-1e5459009596
 1 RIN S-340037973
 1 REPO @R-899050557@
 1 TITL 1910 United States Federal Census
@@ -19077,6 +19310,7 @@
 1 PUBL Ancestry.com Operations Inc; Location: Provo, UT, USA; Date
 2 CONC : 2006
 0 @S-340304044@ SOUR
+1 REFN 9ca9b340-b881-4a59-ba01-ac9aa9ba2b7f
 1 RIN S-340304044
 1 REPO @dIuP1jfcRrCeiZcZz5qZ@
 1 TITL 1920 United States Federal Census
@@ -19093,6 +19327,7 @@
 2 CONC 9 are on roll 323 (Chicago City).
 0 @S-340304045@ SOUR
 1 _APID 1,6224::0
+1 REFN bf7a7fac-6431-4870-bf88-a5ac07592f5d
 1 RIN S-340304045
 1 REPO @R-899050557@
 1 TITL 1930 United States Federal Census
@@ -19100,6 +19335,7 @@
 1 PUBL Ancestry.com Operations Inc; Location: Provo, UT, USA; Date
 2 CONC : 2002
 0 @S-340304056@ SOUR
+1 REFN cd25eff1-7de7-49ce-be39-ac00e709397b
 1 RIN S-340304056
 1 REPO @dIuP1jfcRrCeiZcZz5qZ@
 1 TITL 1940 United States Federal Census
@@ -19298,6 +19534,7 @@
 1 PUBL Rhode Island Historical Society, 1942
 0 @S-339816664@ SOUR
 1 _APID 1,3599::0
+1 REFN 96451ade-1b55-427a-9168-4f00e021c685
 1 RIN S-339816664
 1 REPO @R-899050557@
 1 TITL American Genealogical-Biographical Index (AGBI)
@@ -19317,6 +19554,7 @@
 1 AUTH LDS
 1 PUBL http://www.familysearch.org/
 0 @S-340304055@ SOUR
+1 REFN 6a1a97a7-cc0a-49d1-8450-ccb8d2d020a0
 1 RIN S-340304055
 1 REPO @R-899050557@
 1 TITL Ancestry Family Trees
@@ -19354,6 +19592,7 @@
 1 PUBL Steuben Co. Clerks Office, Bath, NY
 0 @S-289788356@ SOUR
 1 _APID 1,1034::0
+1 REFN d8440def-4d8d-4107-a438-c1c577f53b13
 1 RIN S-289788356
 1 REPO @R-899050557@
 1 TITL Connecticut Town Birth Records, pre-1870 (Barbour Collection
@@ -19363,6 +19602,7 @@
 2 CONC : 2006
 0 @S-338824070@ SOUR
 1 _APID 1,3032::0
+1 REFN b964a52e-91ab-4a84-80f8-eddc98276e5f
 1 RIN S-338824070
 1 REPO @R-899050557@
 1 TITL Connecticut, Church Record Abstracts, 1630-1920
@@ -19473,6 +19713,7 @@
 1 PUBL Westport, CT, 1966
 0 @S-290179224@ SOUR
 1 _APID 1,5771::0
+1 REFN bf04f823-1f31-4808-8332-5bcadf0c3cce
 1 RIN S-290179224
 1 REPO @R-899050557@
 1 TITL Family Data Collection - Deaths
@@ -19703,6 +19944,7 @@
 2 CONC usetts.<br />
 0 @S-290428214@ SOUR
 1 _APID 1,60984::0
+1 REFN 1ac08047-ab76-4e2b-baa2-69d1b1c6e8f9
 1 RIN S-290428214
 1 REPO @R-899050557@
 1 TITL Illinois, Marriage Index, 1860-1920
@@ -19711,6 +19953,7 @@
 2 CONC e: 2015
 0 @S-299849414@ SOUR
 1 _APID 1,9048::0
+1 REFN decdd0a3-1a17-4828-9a6a-9c0ec4b0023a
 1 RIN S-299849414
 1 REPO @R-899050557@
 1 TITL Illinois, Wills and Probate Records, 1772-1999
@@ -19771,6 +20014,7 @@
 1 PUBL 9 Jan 2000, Shelton, CT
 0 @S-322412916@ SOUR
 1 _APID 1,4711::0
+1 REFN b9426d13-4f73-44b4-8004-96f04ed80e3f
 1 RIN S-322412916
 1 REPO @R-899050557@
 1 TITL Iowa, Cemetery Records, 1662-1999
@@ -19779,6 +20023,7 @@
 2 CONC : 2000
 0 @S-301646887@ SOUR
 1 _APID 1,60283::0
+1 REFN f3d35308-d390-44aa-bfe8-3b8fa069e485
 1 RIN S-301646887
 1 REPO @R-899050557@
 1 TITL Iowa, Select Deaths and Burials, 1850-1990
@@ -19787,6 +20032,7 @@
 2 CONC : 2014
 0 @S-301609605@ SOUR
 1 _APID 1,60284::0
+1 REFN 68d1a26d-0689-4b67-9e59-ccddb8176e06
 1 RIN S-301609605
 1 REPO @R-899050557@
 1 TITL Iowa, Select Marriages, 1809-1992
@@ -19794,6 +20040,7 @@
 1 PUBL Ancestry.com Operations, Inc; Location: Provo, UT, USA; Date
 2 CONC : 2014
 0 @S-340303975@ SOUR
+1 REFN 4049e20d-f8be-4338-93b2-fb8f0fffa2fb
 1 RIN S-340303975
 1 REPO @dIuP1jfcRrCeiZcZz5qZ@
 1 TITL Iowa, State Census Collection, 1836-1925
@@ -19806,6 +20053,7 @@
 2 CONC e Quest.
 0 @S-290426992@ SOUR
 1 _APID 1,1084::0
+1 REFN 70f9b8cc-3f41-4b73-991c-afffd870555f
 1 RIN S-290426992
 1 REPO @R-899050557@
 1 TITL Iowa, State Census Collection, 1836-1925, OLD
@@ -19824,6 +20072,7 @@
 1 TITL Land Contract, Eddy, Myron A., to Harrison, Elmer
 1 PUBL In possession of Chris Mosher
 0 @S-340304100@ SOUR
+1 REFN 206793b0-0a61-4940-91d0-a8d683f83e1e
 1 RIN S-340304100
 1 TITL Leise Family Tree
 1 AUTH limajest ancestry.com user
@@ -19892,6 +20141,7 @@
 1 PUBL http://homepages.rootsweb.com/~marshall/
 0 @S-299819019@ SOUR
 1 _APID 1,7249::0
+1 REFN e64d9fc3-5d79-4ea5-9f17-e848a7ba6b60
 1 RIN S-299819019
 1 REPO @R-899050557@
 1 TITL Millennium File
@@ -19922,6 +20172,7 @@
 2 CONT ...<br />
 2 CONT Sands Ohniel<br />
 0 @S-340304060@ SOUR
+1 REFN 9fc67889-fbe1-4c80-a4cd-143293864c74
 1 RIN S-340304060
 1 TITL New York Marriages, 1600-1784 [database on-line]
 1 AUTH Ancestry.com
@@ -19932,6 +20183,7 @@
 2 CONC f New York, 1860.
 0 @S-299820751@ SOUR
 1 _APID 1,7831::0
+1 REFN fbd9ebcc-c238-41f3-b2c5-b69bbe2bde6b
 1 RIN S-299820751
 1 REPO @R-899050557@
 1 TITL New York, Genealogical Records, 1675-1920
@@ -19940,6 +20192,7 @@
 2 CONC : 2004
 0 @S-330979816@ SOUR
 1 _APID 1,7181::0
+1 REFN fb8e68d2-82fb-4b05-b92b-fc0066053a5d
 1 RIN S-330979816
 1 REPO @R-899050557@
 1 TITL New York, State Census, 1855
@@ -19948,6 +20201,7 @@
 2 CONC e: 2013
 0 @S-301664923@ SOUR
 1 _APID 1,7218::0
+1 REFN 0a81988c-62eb-48ef-96d2-ebef51bd45f3
 1 RIN S-301664923
 1 REPO @R-899050557@
 1 TITL New York, State Census, 1865
@@ -19956,6 +20210,7 @@
 2 CONC e: 2014
 0 @S-333148567@ SOUR
 1 _APID 1,7250::0
+1 REFN 38469dcf-6242-45c5-b1a1-e1b144aeba52
 1 RIN S-333148567
 1 REPO @R-899050557@
 1 TITL New York, State Census, 1875
@@ -19964,6 +20219,7 @@
 2 CONC e: 2013
 0 @S-339390060@ SOUR
 1 _APID 1,3212::0
+1 REFN 9e52ae14-4c6a-4b75-969b-d110914dec35
 1 RIN S-339390060
 1 REPO @R-899050557@
 1 TITL New York, State Census, 1892
@@ -19972,6 +20228,7 @@
 2 CONC e: 2012
 0 @S-322419782@ SOUR
 1 _APID 1,7364::0
+1 REFN dc8057ef-26a2-4f4f-9ce7-a20e7068710b
 1 RIN S-322419782
 1 REPO @R-899050557@
 1 TITL New York, State Census, 1905
@@ -19980,6 +20237,7 @@
 2 CONC e: 2014
 0 @S-340037965@ SOUR
 1 _APID 1,2703::0
+1 REFN 001b9745-1655-436d-a7eb-8b79565cae1c
 1 RIN S-340037965
 1 REPO @R-899050557@
 1 TITL New York, State Census, 1915
@@ -19988,6 +20246,7 @@
 2 CONC e: 2012
 0 @S-333322453@ SOUR
 1 _APID 1,2704::0
+1 REFN f9bbe302-05d9-4b2d-b453-cee9732f91fb
 1 RIN S-333322453
 1 REPO @R-899050557@
 1 TITL New York, State Census, 1925
@@ -19995,6 +20254,7 @@
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2012
 0 @aUg0BC9dTP2qrq0iavqG@ SOUR
+1 REFN 55deffbd-33cf-49ad-8629-825c36fbbb3f
 1 RIN aUg0BC9dTP2qrq0iavqG
 1 REPO @dIuP1jfcRrCeiZcZz5qZ@
 1 TITL New York, Tax Assessment Rolls of Real and Personal Estates
@@ -20107,6 +20367,7 @@
 1 PUBL http://www.familysearch.org/
 0 @S-322419789@ SOUR
 1 _APID 1,5164::0
+1 REFN f315cc48-8dcf-4e37-9cc0-496d95df443a
 1 RIN S-322419789
 1 REPO @R-899050557@
 1 TITL Pennsylvania, Death Certificates, 1906-1944
@@ -20457,6 +20718,7 @@
 1 PUBL Ferguson Library, Stamford, CT, 1972
 0 @S-322413031@ SOUR
 1 _APID 1,1276::0
+1 REFN 11dc511a-d752-4b24-950a-56cf581b2539
 1 RIN S-322413031
 1 REPO @R-899050557@
 1 TITL Selected U.S. Federal Census Non-Population Schedules, 1850-
@@ -20471,6 +20733,7 @@
 1 AUTH Huntington, E. B.
 1 PUBL William W. Gillespie and Company, Stamford, 1874
 0 @S-330866504@ SOUR
+1 REFN 56fb1384-557e-4ce4-8690-038bfbaf4fb4
 1 RIN S-330866504
 1 TITL Steuben County (New York) Land Deeds
 1 AUTH Steuben County (New York)
@@ -20500,6 +20763,7 @@
 1 PUBL Glazier, P., Sarasota FL, 1975
 0 @S-299818046@ SOUR
 1 _APID 1,7486::0
+1 REFN a238e13f-1dd4-4e7c-9283-faa5a801f848
 1 RIN S-299818046
 1 REPO @R-899050557@
 1 TITL U.S. and Canada, Passenger and Immigration Lists Index, 1500
@@ -20509,6 +20773,7 @@
 2 CONC : 2010
 0 @S-339816646@ SOUR
 1 _APID 1,7836::0
+1 REFN 20c3634c-3d30-46c5-9fce-3bdf93b9b747
 1 RIN S-339816646
 1 REPO @R-899050557@
 1 TITL U.S. and International Marriage Records, 1560-1900
@@ -20516,6 +20781,7 @@
 1 PUBL Ancestry.com Operations Inc; Location: Provo, UT, USA; Date
 2 CONC : 2004
 0 @Az56mpgwSMelraoOX2HL@ SOUR
+1 REFN aad377b7-2a52-48ab-9277-c97a9df42dbf
 1 RIN Az56mpgwSMelraoOX2HL
 1 REPO @dIuP1jfcRrCeiZcZz5qZ@
 1 TITL U.S. City Directories, 1822-1995
@@ -20529,6 +20795,7 @@
 2 CONC ication information.
 0 @S-333063515@ SOUR
 1 _APID 1,1555::0
+1 REFN debcf69e-2b06-46bc-ac02-8084473dc802
 1 RIN S-333063515
 1 REPO @R-899050557@
 1 TITL U.S., Civil War Soldier Records and Profiles, 1861-1865
@@ -20537,6 +20804,7 @@
 2 CONC : 2009
 0 @S-313778072@ SOUR
 1 _APID 1,60525::0
+1 REFN 61726be3-f3b9-482c-acf7-9a10c8965f29
 1 RIN S-313778072
 1 REPO @R-899050557@
 1 TITL U.S., Find A Grave Index, 1600s-Current
@@ -20545,6 +20813,7 @@
 2 CONC e: 2012
 0 @S-301670017@ SOUR
 1 _APID 1,60901::0
+1 REFN 25b57835-25b5-4d65-8ce4-63260608ffbe
 1 RIN S-301670017
 1 REPO @R-899050557@
 1 TITL U.S., Social Security Applications and Claims Index, 1936-20
@@ -20554,6 +20823,7 @@
 2 CONC e: 2015
 0 @S-339816608@ SOUR
 1 _APID 1,2204::0
+1 REFN 6204610e-5fb9-470d-9ab7-2c798642bfa3
 1 RIN S-339816608
 1 REPO @R-899050557@
 1 TITL U.S., Sons of the American Revolution Membership Application
@@ -20562,6 +20832,7 @@
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2011
 0 @S-340304099@ SOUR
+1 REFN f8976903-5172-4b6e-88d2-b0d5ffa622f7
 1 RIN S-340304099
 1 TITL U.S., Sons of the American Revolution Membership Application
 2 CONC s, 1889-1970 [database on-line]
@@ -20573,6 +20844,7 @@
 2 CONC lls.]
 0 @S-333070379@ SOUR
 1 _APID 1,6482::0
+1 REFN c3dc877b-44f3-458a-b9a3-446b02504980
 1 RIN S-333070379
 1 REPO @R-899050557@
 1 TITL U.S., World War I Draft Registration Cards, 1917-1918
@@ -21472,6 +21744,7 @@
 1 PUBL Hornby Historical Society, Hornby, NY
 0 @S-338823810@ SOUR
 1 _APID 1,70509::0
+1 REFN 0b6de65b-5035-4a53-9aab-39b0d5091a22
 1 RIN S-338823810
 1 REPO @R-899050557@
 1 TITL Web: Illinois, Find A Grave Index, 1809-2012
@@ -21479,6 +21752,7 @@
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2012
 0 @S-340303967@ SOUR
+1 REFN e6e8eab3-017b-42de-af91-0d5633bd1256
 1 RIN S-340303967
 1 REPO @dIuP1jfcRrCeiZcZz5qZ@
 1 TITL Web: Iowa, Find A Grave Index, 1800-2012
@@ -21489,6 +21763,7 @@
 2 CONC /cgi-bin/fg.cgi: accessed 18 January 2013.
 0 @S-340037888@ SOUR
 1 _APID 1,70572::0
+1 REFN ee160d2a-8f32-455a-8c86-735ac4ada829
 1 RIN S-340037888
 1 REPO @R-899050557@
 1 TITL Web: New York, Find A Grave Index, 1660-2012
@@ -21903,6 +22178,7 @@
 2 TITL 0001_sq_96
 2 _DATE 9/25/2013 10:15:51 PM
 1 RIN O110
+1 REFN 7d10e287-ec01-4d87-b599-c55e80cc47c1
 0 @O45@ OBJE
 1 FILE http://trees.ancestry.com/rd?f=image&guid=e8c55c38-1ad7-477c
 2 CONC -86b9-1b13c275880c&tid=61407337
@@ -21914,6 +22190,7 @@
 2 TITL 0003_Harrison_Henry_Francis
 2 _DATE 9/26/2013 9:19:51 PM
 1 RIN O45
+1 REFN 4c75e7d2-5486-4cfa-a308-31bc86ba84b5
 0 @O10@ OBJE
 1 FILE http://trees.ancestry.com/rd?f=image&guid=5f46a550-91bd-44bf
 2 CONC -9930-0f8def9b8549&tid=61407337
@@ -21925,6 +22202,7 @@
 2 TITL 0025_Harrison_George_Elmer
 2 _DATE 9/27/2013 8:47:28 PM
 1 RIN O10
+1 REFN dab455f0-96a0-498a-b9f9-d011879f6665
 0 @O116@ OBJE
 1 FILE http://trees.ancestry.com/rd?f=image&guid=c569946e-dcc7-4479
 2 CONC -823c-def377dd8293&tid=61407337
@@ -21936,6 +22214,7 @@
 2 TITL 0103_Harrison_Sarah_A
 2 _DATE 9/27/2013 8:25:39 PM
 1 RIN O116
+1 REFN b7a81a63-5033-4cb6-9ae7-09732271fd86
 0 @O123@ OBJE
 1 FILE http://trees.ancestry.com/rd?f=image&guid=fa39902f-f913-4494
 2 CONC -876c-74f075112b84&tid=61407337
@@ -21947,6 +22226,7 @@
 2 TITL 0103_Masters_David
 2 _DATE 9/27/2013 8:26:58 PM
 1 RIN O123
+1 REFN 6dacc0b2-49bf-41d1-91b1-cd36b6373c63
 0 @1N0Slt9BSPuezAHyyUEv@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\1810 United States Federal Census(1)
@@ -21957,6 +22237,7 @@
 3 CONC 9; Page: 347; Image: 00195; Family History Library Film: 018
 3 CONC 1383
 1 RIN 1N0Slt9BSPuezAHyyUEv
+1 REFN 54ff08b4-617c-487f-a968-75eda9f6f67f
 0 @VgacQ4JbT8OhDmUA83AO@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\1810 United States Federal Census(2)
@@ -21967,6 +22248,7 @@
 3 CONC ; Roll: 37; Page: 1002; Image: 00190; Family History Librar
 3 CONC y Film: 0181391
 1 RIN VgacQ4JbT8OhDmUA83AO
+1 REFN ae1e8a35-c074-4bff-aef2-0b9db3f2bad9
 0 @SRj92g16TiWCmbdOqeDa@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\1820 United States Federal Census(2)
@@ -21976,6 +22258,7 @@
 2 _TEXT 1820 U S Census; Census Place: Painted Post, Steuben, New Yo
 3 CONC rk; Page: 188; NARA Roll: M33_74; Image: 199
 1 RIN SRj92g16TiWCmbdOqeDa
+1 REFN 9318c649-fe30-4b05-bf23-4d3e64c09112
 0 @yHogBbsURBiqc3WUbAS8@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\1830 United States Federal Census(3)
@@ -21985,6 +22268,7 @@
 2 _TEXT 1830; Census Place: Hornby, Steuben, New York; Series: M19
 3 CONC ; Roll: 107; Page: 339; Family History Library Film: 0017167
 1 RIN yHogBbsURBiqc3WUbAS8
+1 REFN 8abc798a-4d5d-46ae-a26f-27c6022a2bcc
 0 @ak8UGg4ZTuaQ9dYnaJf9@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\1840 United States Federal Census(4)
@@ -21995,6 +22279,7 @@
 3 CONC : 341; Page: 174; Image: 352; Family History Library Film: 0
 3 CONC 017207
 1 RIN ak8UGg4ZTuaQ9dYnaJf9
+1 REFN fab062e7-c496-4968-b2c8-1c4e0389c3ac
 0 @1v4T55XTRBKkJXFeFoHv@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\1850 United States Federal Census(5)
@@ -22004,6 +22289,7 @@
 2 _TEXT Year: 1850; Census Place: Hornby, Steuben, New York; Roll: M
 3 CONC 432_598; Page: 109B; Image: 223
 1 RIN 1v4T55XTRBKkJXFeFoHv
+1 REFN 3f201250-6a6f-484a-904b-54d7ac7ac286
 0 @6dW1tJOaTguKQogJT3mc@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\1850 United States Federal Census(9)
@@ -22013,6 +22299,7 @@
 2 _TEXT Year: 1850; Census Place: Hornby, Steuben, New York; Roll: M
 3 CONC 432_598; Page: 110A; Image: 224
 1 RIN 6dW1tJOaTguKQogJT3mc
+1 REFN fd794d25-5e1e-4554-8246-3b6193b4ec52
 0 @o6G8aBGbRWibcn8mPPc9@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\1850 United States Federal Census(14
@@ -22022,6 +22309,7 @@
 2 _TEXT Year: 1850; Census Place: District 37, Whiteside, Illinois
 3 CONC ; Roll: M432_132; Page: 383A; Image: 240
 1 RIN o6G8aBGbRWibcn8mPPc9
+1 REFN 99576615-f156-46d5-a2e7-70b05c2b62b7
 0 @PwSMuuw2TBSykEJejASB@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\1850 United States Federal Census(46
@@ -22031,6 +22319,7 @@
 2 _TEXT Year: 1850; Census Place: Hornby, Steuben, New York; Roll: M
 3 CONC 432_598; Page: 103A; Image: 210
 1 RIN PwSMuuw2TBSykEJejASB
+1 REFN b4bae8b4-3228-4361-9855-55f849c813ac
 0 @UItOmg2bQzysFOcmBqhM@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\1860 United States Federal Census(11
@@ -22041,6 +22330,7 @@
 3 CONC 653_863; Page: 272; Image: 277; Family History Library Film
 3 CONC : 803863
 1 RIN UItOmg2bQzysFOcmBqhM
+1 REFN e101bc73-2d2e-4ba8-92b0-4fa5eaaf8777
 0 @5pvv6fqeQ56vjKceTpdM@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\1860 United States Federal Census(13
@@ -22051,6 +22341,7 @@
 3 CONC 653_863; Page: 266; Image: 271; Family History Library Film
 3 CONC : 803863
 1 RIN 5pvv6fqeQ56vjKceTpdM
+1 REFN ae3483bb-749b-442b-b1e4-73434ce7ed10
 0 @0jBe7AMrSsSNUwGwrXny@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\1860 United States Federal Census(16
@@ -22061,6 +22352,7 @@
 3 CONC : M653_237; Page: 860; Image: 232; Family History Library Fi
 3 CONC lm: 803237
 1 RIN 0jBe7AMrSsSNUwGwrXny
+1 REFN 94c55f33-3352-477c-ada9-7e934c6166b0
 0 @jLyP8NnBRm2zK25KDF5h@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\1860 United States Federal Census(17
@@ -22071,6 +22363,7 @@
 3 CONC 653_863; Page: 262; Image: 267; Family History Library Film
 3 CONC : 803863
 1 RIN jLyP8NnBRm2zK25KDF5h
+1 REFN de5a34c8-c4e2-4ebf-9c6b-2d9b89c028b8
 0 @Tem4DxITRNuxRcOsjpKW@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\1870 United States Federal Census(3)
@@ -22081,6 +22374,7 @@
 3 CONC 593_1095; Page: 218A; Image: 446; Family History Library Fil
 3 CONC m: 552594
 1 RIN Tem4DxITRNuxRcOsjpKW
+1 REFN 88f05b58-1453-4906-a933-361fd17eb6de
 0 @hv4daLAHSB6sSKNc9Qqe@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\1870 United States Federal Census(13
@@ -22091,6 +22385,7 @@
 3 CONC : M593_290; Page: 172A; Image: 349; Family History Library F
 3 CONC ilm: 545789
 1 RIN hv4daLAHSB6sSKNc9Qqe
+1 REFN eb473d39-e89a-4641-a2c1-ac6964ebdde0
 0 @IBafuAikREmmnW9MKX7Q@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\1870 United States Federal Census(14
@@ -22101,6 +22396,7 @@
 3 CONC 593_1095; Page: 218B; Image: 447; Family History Library Fil
 3 CONC m: 552594
 1 RIN IBafuAikREmmnW9MKX7Q
+1 REFN 7d5f4320-33dc-482f-bda3-5ba6df97803f
 0 @pXk9oE4TRQuSoemso31q@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\1870 United States Federal Census(15
@@ -22111,6 +22407,7 @@
 3 CONC k; Roll: M593_1118; Page: 461A; Image: 320; Family History L
 3 CONC ibrary Film: 552617
 1 RIN pXk9oE4TRQuSoemso31q
+1 REFN 60813712-049c-46ee-a91c-3e6c4b501727
 0 @ySleR61CRzKXIWRBOBVV@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\1870 United States Federal Census(21
@@ -22121,6 +22418,7 @@
 3 CONC 593_1095; Page: 219A; Image: 448; Family History Library Fil
 3 CONC m: 552594
 1 RIN ySleR61CRzKXIWRBOBVV
+1 REFN 2fe41ab7-de31-4015-b8af-4e4f48fde19b
 0 @h7Ig8E2LSdysyFtWRrCf@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\1870 United States Federal Census(39
@@ -22131,6 +22429,7 @@
 3 CONC is; Roll: M593_290; Page: 284B; Image: 574; Family History L
 3 CONC ibrary Film: 545789
 1 RIN h7Ig8E2LSdysyFtWRrCf
+1 REFN 8989ef84-922c-484a-8ef6-c54274c9afc1
 0 @iujoFwwFTeaQ53pf6zcs@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\1870 United States Federal Census(48
@@ -22141,6 +22440,7 @@
 3 CONC ll: M593_377; Page: 506A; Image: 421; Family History Librar
 3 CONC y Film: 545876
 1 RIN iujoFwwFTeaQ53pf6zcs
+1 REFN 4b9687ba-6527-4f70-b0db-6ba5b3fb667f
 0 @9aMZVT8cRDyYaHTP177r@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\1880 United States Federal Census(1)
@@ -22151,6 +22451,7 @@
 3 CONC 33; Family History Film: 1254933; Page: 266C; Enumeration Di
 3 CONC strict: 177; Image: 0536
 1 RIN 9aMZVT8cRDyYaHTP177r
+1 REFN c7993c66-3bcc-4f10-a53c-fbf09391688a
 0 @Z5wlqYYuQniQi2j7BErt@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\1880 United States Federal Census(12
@@ -22161,6 +22462,7 @@
 3 CONC : 258; Family History Film: 1254258; Page: 147C; Enumeratio
 3 CONC n District: 203; Image: 0728
 1 RIN Z5wlqYYuQniQi2j7BErt
+1 REFN 19ad7c23-105f-40a3-b157-79225e6d4876
 0 @kjBxdfu9QVW5ymgnr4g7@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\1880 United States Federal Census(13
@@ -22171,6 +22473,7 @@
 3 CONC l: 429; Family History Film: 1254429; Page: 425D; Enumeratio
 3 CONC n District: 163; Image: 0296
 1 RIN kjBxdfu9QVW5ymgnr4g7
+1 REFN 35c1d5a1-b215-448b-8777-f8ae452dfeed
 0 @iXlT0jOjR6abzFzmBKNL@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\1880 United States Federal Census(15
@@ -22181,6 +22484,7 @@
 3 CONC 33; Family History Film: 1254933; Page: 265A; Enumeration Di
 3 CONC strict: 177; Image: 0534
 1 RIN iXlT0jOjR6abzFzmBKNL
+1 REFN 4752d816-0e25-40d1-8eca-1471fd827887
 0 @kZD4e0GVTE678dQfH0Ka@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\1880 United States Federal Census(16
@@ -22191,6 +22495,7 @@
 3 CONC l: 259; Family History Film: 1254259; Page: 292C; Enumeratio
 3 CONC n District: 212; Image: 0204
 1 RIN kZD4e0GVTE678dQfH0Ka
+1 REFN c7c3dca1-c0b0-42eb-8c04-f742139395f1
 0 @XRl4exguS66qL6Tfehvc@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\1880 United States Federal Census(27
@@ -22201,6 +22506,7 @@
 3 CONC 33; Family History Film: 1254933; Page: 265B; Enumeration Di
 3 CONC strict: 177; Image: 0535
 1 RIN XRl4exguS66qL6Tfehvc
+1 REFN 62df02bb-4dbb-4768-90f9-98c811a38dc5
 0 @TjENPUe7TFivmE4LuaCm@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\1880 United States Federal Census(28
@@ -22209,6 +22515,7 @@
 2 TITL 1880 United States Federal Census
 2 _TEXT Year: 1880; Census Place: Hornby, Steuben, New York
 1 RIN TjENPUe7TFivmE4LuaCm
+1 REFN 3fdf2f25-21a6-461d-8b1c-7cdde38b2a87
 0 @ce853KPPR02c5F0rLxBz@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\1880 United States Federal Census(46
@@ -22219,6 +22526,7 @@
 3 CONC ll: 327; Family History Film: 1254327; Page: 545A; Enumerati
 3 CONC on District: 058; Image: 0712
 1 RIN ce853KPPR02c5F0rLxBz
+1 REFN 45661124-d3c1-4c91-9688-dc5a8f1b907b
 0 @3Rpwv5KbRfOuL0dpP3sP@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\1900 United States Federal Census(1)
@@ -22229,6 +22537,7 @@
 3 CONC 163; Page: 3B; Enumeration District: 0087; FHL microfilm: 12
 3 CONC 41163
 1 RIN 3Rpwv5KbRfOuL0dpP3sP
+1 REFN 0c20b2f8-9ece-4307-8402-880ad78a4079
 0 @fcurTsMHT4ChJkd8Yknm@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\1900 United States Federal Census(12
@@ -22239,6 +22548,7 @@
 3 CONC ll: 418; Page: 2A; Enumeration District: 0019; FHL microfilm
 3 CONC : 1240418
 1 RIN fcurTsMHT4ChJkd8Yknm
+1 REFN 19817d8c-565d-4eea-bd42-010709ddd691
 0 @yMPzvFxWT0qTsjtH3vLk@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\1900 United States Federal Census(16
@@ -22249,6 +22559,7 @@
 3 CONC l: 352; Page: 1B; Enumeration District: 0159; FHL microfilm
 3 CONC : 1240352
 1 RIN yMPzvFxWT0qTsjtH3vLk
+1 REFN 537c064f-f85c-483d-b594-54f8861e0cb5
 0 @kbvgj0sjRHKpK74tU2pd@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\1900 United States Federal Census(25
@@ -22259,6 +22570,7 @@
 3 CONC 163; Page: 4A; Enumeration District: 0087; FHL microfilm: 12
 3 CONC 41163
 1 RIN kbvgj0sjRHKpK74tU2pd
+1 REFN 930aac50-4719-4c9b-8e09-27bbb049dd2b
 0 @MDNmGmuEQ3eyjneOAqTD@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\1900 United States Federal Census(55
@@ -22269,6 +22581,7 @@
 3 CONC 163; Page: 2B; Enumeration District: 0087; FHL microfilm: 12
 3 CONC 41163
 1 RIN MDNmGmuEQ3eyjneOAqTD
+1 REFN c14cd626-8900-48bf-8f54-e6ec4b906082
 0 @xSmUqXi8R3SXtJdI7cEM@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\1910 United States Federal Census.jp
@@ -22279,6 +22592,7 @@
 3 CONC 624_1080; Page: 9B; Enumeration District: 0132; FHL microfil
 3 CONC m: 1375093
 1 RIN xSmUqXi8R3SXtJdI7cEM
+1 REFN 0417a2ad-893d-499c-bcf0-cfcb09ec8df6
 0 @Rti0NLfRQzuPkgMMoDw8@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\1910 United States Federal Census(12
@@ -22289,6 +22603,7 @@
 3 CONC 393; Page: 4B; Enumeration District: 0064; FHL microfilm: 13
 3 CONC 74406
 1 RIN Rti0NLfRQzuPkgMMoDw8
+1 REFN b70850e2-0324-4174-86b2-cfb246df05a8
 0 @dpSoNkJORsaNKWmV48h4@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\1910 United States Federal Census(25
@@ -22299,6 +22614,7 @@
 3 CONC 624_1080; Page: 1A; Enumeration District: 0132; FHL microfil
 3 CONC m: 1375093
 1 RIN dpSoNkJORsaNKWmV48h4
+1 REFN cadea628-8618-46c3-9e46-5931b334c050
 0 @8miK30bwTf6hZvxt8nB7@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\1910 United States Federal Census(33
@@ -22309,6 +22625,7 @@
 3 CONC s; Roll: T624_1586; Page: 2B; Enumeration District: 0138; FH
 3 CONC L microfilm: 1375599
 1 RIN 8miK30bwTf6hZvxt8nB7
+1 REFN 05aa969d-61ba-44c4-8366-69239d4a0277
 0 @ie2g3GjcSl6qfo7aM98S@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\1920 United States Federal Census.jp
@@ -22317,6 +22634,7 @@
 2 TITL 1920 United States Federal Census
 2 _TEXT Year: 1920; Census Place: Hornby, Steuben, New York
 1 RIN ie2g3GjcSl6qfo7aM98S
+1 REFN 75749f84-6e8e-44fc-98e8-92d00c459ddc
 0 @GeV5MQbxS32f4D25ARv2@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\1920 United States Federal Census(25
@@ -22325,6 +22643,7 @@
 2 TITL 1920 United States Federal Census
 2 _TEXT Year: 1920; Census Place: Perry, Buchanan, Iowa
 1 RIN GeV5MQbxS32f4D25ARv2
+1 REFN 199f81ac-0f38-458c-a2f0-a7de1ed7d811
 0 @Ntg9MI47RBSXiAE7jUeO@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\1930 United States Federal Census.jp
@@ -22335,6 +22654,7 @@
 3 CONC 648; Page: 7B; Enumeration District: 44; Image: 1002.0; FH
 3 CONC L microfilm: 2341382
 1 RIN Ntg9MI47RBSXiAE7jUeO
+1 REFN 1711f430-cce9-43cc-ade5-bf37e4276505
 0 @JTt7ZTt3R7mDjmvYE4Yc@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\1930 United States Federal Census(6)
@@ -22345,6 +22665,7 @@
 3 CONC 42; Page: 3B; Enumeration District: 0001; Image: 9.0; FHL mi
 3 CONC crofilm: 2340377
 1 RIN JTt7ZTt3R7mDjmvYE4Yc
+1 REFN 53ccef4e-9b6d-4d24-a0d7-6f1ec2060859
 0 @lOhnZ9ofROeY7R3FqjKy@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\1940 United States Federal Census.jp
@@ -22354,6 +22675,7 @@
 2 _TEXT Year: 1940; Census Place: Hornby, Steuben, New York; Roll: T
 3 CONC 627_2781; Page: 5A; Enumeration District: 51-54
 1 RIN lOhnZ9ofROeY7R3FqjKy
+1 REFN 7d6cce38-8443-45bf-b359-c0fc863b02af
 0 @O109@ OBJE
 1 FILE http://trees.ancestry.com/rd?f=image&guid=91df136c-5203-475a
 2 CONC -9997-502942741930&tid=61407337
@@ -22365,6 +22687,7 @@
 2 TITL 6242004607_74ce788dc2_o
 2 _DATE 9/24/2013 8:36:32 PM
 1 RIN O109
+1 REFN 49947ddb-3614-4ca5-a07d-17847d646dbe
 0 @nTuHiPl7SLqt4Hs66OGA@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\Connecticut Town Birth Records, pre-
@@ -22373,6 +22696,7 @@
 2 TITL Connecticut Town Birth Records, pre-1870 (Barbour Collection
 3 CONC )
 1 RIN nTuHiPl7SLqt4Hs66OGA
+1 REFN 573a2701-28ab-46b1-b494-1ed7951f5881
 0 @b5z8hZU4QeyhtCCBeLAg@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\Connecticut Town Birth Records, pre-
@@ -22381,6 +22705,7 @@
 2 TITL Connecticut Town Birth Records, pre-1870 (Barbour Collection
 3 CONC )
 1 RIN b5z8hZU4QeyhtCCBeLAg
+1 REFN a1aef939-5058-4351-8efe-b5940b483eab
 0 @PEXWcy4iSmedlUGa2bD7@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\Connecticut, Church Record Abstracts
@@ -22388,6 +22713,7 @@
 2 FORM jpg
 2 TITL Connecticut, Church Record Abstracts, 1630-1920
 1 RIN PEXWcy4iSmedlUGa2bD7
+1 REFN c24f84c3-9e05-473c-b438-a3c4e0cf4bf0
 0 @7Z16VlpMRbKHiKMJotwt@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\Connecticut, Church Record Abstracts
@@ -22395,6 +22721,7 @@
 2 FORM jpg
 2 TITL Connecticut, Church Record Abstracts, 1630-1920
 1 RIN 7Z16VlpMRbKHiKMJotwt
+1 REFN 05ad755d-6fb8-40fb-8747-4a142c370fd2
 0 @O117@ OBJE
 1 FILE http://trees.ancestry.com/rd?f=image&guid=129fee65-2169-4375
 2 CONC -af9e-c7c642ff8dcc&tid=61407337
@@ -22406,6 +22733,7 @@
 2 TITL Gaylord, Sarah Webb Sands
 2 _DATE Sept 2012
 1 RIN O117
+1 REFN c19cfb85-dffd-4071-b2e4-fb8680412e1e
 0 @Zmpuk5YKSTCRuy2V4EGM@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\Illinois, Wills and Probate Records
@@ -22415,6 +22743,7 @@
 2 _TEXT Probate records, 1852-1904; Author: Illinois. County Court (
 3 CONC Whiteside County)
 1 RIN Zmpuk5YKSTCRuy2V4EGM
+1 REFN 21587df8-ce30-45aa-82bb-7b4fd994cf58
 0 @7nl9n3XKQYOopMG1YIof@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\Iowa, State Census Collection, 1836-
@@ -22422,6 +22751,7 @@
 2 FORM jpg
 2 TITL Iowa, State Census Collection, 1836-1925
 1 RIN 7nl9n3XKQYOopMG1YIof
+1 REFN 10dd8285-7bc0-43c4-a7e6-4354d635968f
 0 @ByFK4WpDSrOBSDUymFeV@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\Iowa, State Census Collection, 1836-
@@ -22429,6 +22759,7 @@
 2 FORM jpg
 2 TITL Iowa, State Census Collection, 1836-1925
 1 RIN ByFK4WpDSrOBSDUymFeV
+1 REFN 5c15d49c-419f-49c9-8025-264d4632d916
 0 @mwEMl36fTQWQGKeC6Bmh@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\Iowa, State Census Collection, 1836-
@@ -22436,6 +22767,7 @@
 2 FORM jpg
 2 TITL Iowa, State Census Collection, 1836-1925
 1 RIN mwEMl36fTQWQGKeC6Bmh
+1 REFN bbf9de87-729e-4d2a-bff4-4afd7a629ab1
 0 @O118@ OBJE
 1 FILE http://trees.ancestry.com/rd?f=document&guid=1adcab9d-0129-4
 2 CONC 42a-93d7-3fbefafcd3aa&tid=61407337
@@ -22452,6 +22784,7 @@
 3 CONC s of Prominent and Representative   Citizens of the County
 3 CONC . Chicago: Chapman Brothers, 1885.
 1 RIN O118
+1 REFN 6d69797b-14ab-4525-a8ac-9c26a748719c
 0 @O120@ OBJE
 1 FILE http://trees.ancestry.com/rd?f=image&guid=aefcaf30-2ef3-452d
 2 CONC -9d3a-ffec41653a4c&tid=61407337
@@ -22463,78 +22796,91 @@
 2 FORM jpg
 2 TITL Land Deed, Sands, Harvey, Lot 64, Hornby, NY
 1 RIN O120
+1 REFN 97cf7ab6-705f-4e15-aa56-09c33d4cbcf1
 0 @wpXOEw1GRgy67qAEyXCK@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\New York, State Census, 1855(6).jpg
 2 FORM jpg
 2 TITL New York, State Census, 1855
 1 RIN wpXOEw1GRgy67qAEyXCK
+1 REFN 6c6023ca-2708-4f22-b8ce-b5150d07864d
 0 @Mf15yJsSS8GUvS1YL49V@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\New York, State Census, 1855(7).jpg
 2 FORM jpg
 2 TITL New York, State Census, 1855
 1 RIN Mf15yJsSS8GUvS1YL49V
+1 REFN f8fdcc3a-5ff0-48d6-b7f0-8f1b43a98e8e
 0 @pdI2MrnUTKaOXUb8MXQY@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\New York, State Census, 1855(9).jpg
 2 FORM jpg
 2 TITL New York, State Census, 1855
 1 RIN pdI2MrnUTKaOXUb8MXQY
+1 REFN 7883ca2f-24e4-4648-b4c5-be951b05e118
 0 @RQxZqCbQS6KQI7MTsopa@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\New York, State Census, 1855(11).jpg
 2 FORM jpg
 2 TITL New York, State Census, 1855
 1 RIN RQxZqCbQS6KQI7MTsopa
+1 REFN 583dc2bf-1f84-4414-8589-64664cb994b6
 0 @bl1VmKfHR4ugA238dyHD@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\New York, State Census, 1865(9).jpg
 2 FORM jpg
 2 TITL New York, State Census, 1865
 1 RIN bl1VmKfHR4ugA238dyHD
+1 REFN 5fa2ff37-6f98-4602-ab94-779f946f9e2a
 0 @rPEcgSIPRCiOv128yxyp@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\New York, State Census, 1865(12).jpg
 2 FORM jpg
 2 TITL New York, State Census, 1865
 1 RIN rPEcgSIPRCiOv128yxyp
+1 REFN aa074cae-c8db-429b-9e54-38bcac2df8f5
 0 @gyPPLfVOSsezOCBBXErD@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\New York, State Census, 1875(2).jpg
 2 FORM jpg
 2 TITL New York, State Census, 1875
 1 RIN gyPPLfVOSsezOCBBXErD
+1 REFN 18c19509-739c-4406-adf9-21883a2310f0
 0 @mFaSqtfvQGaea3w1KHKb@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\New York, State Census, 1875(14).jpg
 2 FORM jpg
 2 TITL New York, State Census, 1875
 1 RIN mFaSqtfvQGaea3w1KHKb
+1 REFN 3a7d7229-d698-4120-b8f6-8116df6e4fc0
 0 @kzHKFovFRQ25i93U1cj4@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\New York, State Census, 1875(27).jpg
 2 FORM jpg
 2 TITL New York, State Census, 1875
 1 RIN kzHKFovFRQ25i93U1cj4
+1 REFN d17ecdd1-5965-4cc2-b782-4e16109a3dce
 0 @FnINobJBQEyYorrw4bHi@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\New York, State Census, 1875(31).jpg
 2 FORM jpg
 2 TITL New York, State Census, 1875
 1 RIN FnINobJBQEyYorrw4bHi
+1 REFN a543e694-3635-4476-b6fe-417abbb85dfa
 0 @QXvANNhQRUytWmGZsQ1o@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\New York, State Census, 1892(1).jpg
 2 FORM jpg
 2 TITL New York, State Census, 1892
 1 RIN QXvANNhQRUytWmGZsQ1o
+1 REFN b1c6ea75-46b3-4ed8-98d1-4dc0c27bc71d
 0 @Mie9aG3mTBmWv06XSOe9@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\New York, State Census, 1905(1).jpg
 2 FORM jpg
 2 TITL New York, State Census, 1905
 1 RIN Mie9aG3mTBmWv06XSOe9
+1 REFN 65e25ce9-3dfe-4533-af2d-6a2ca90509c4
 0 @Y0FewPu2S5SsVsNdwHpv@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\New York, State Census, 1915.jpg
@@ -22544,6 +22890,7 @@
 3 CONC n Census Schedules, 1915; Election District: 01; Assembly Di
 3 CONC strict: 01; City: Hornby; County: Steuben; Page: 14
 1 RIN Y0FewPu2S5SsVsNdwHpv
+1 REFN 37362e02-f51a-45a0-8006-eac9b654db70
 0 @q0tvtExQRhKNm1pmhE8p@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\New York, State Census, 1925.jpg
@@ -22553,6 +22900,7 @@
 3 CONC n Census Schedules, 1925; Election District: 01; Assembly Di
 3 CONC strict: 01; City: Hornby; County: Steuben; Page: 13
 1 RIN q0tvtExQRhKNm1pmhE8p
+1 REFN 1f5e30dc-9546-4f5d-85bc-84eb02edde82
 0 @dMeA3CeYTLemVJJdu3Uv@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\New York, Tax Assessment Rolls of Re
@@ -22561,6 +22909,7 @@
 2 TITL New York, Tax Assessment Rolls of Real and Personal Estates
 3 CONC , 1799-1804
 1 RIN dMeA3CeYTLemVJJdu3Uv
+1 REFN 8eda0912-9a17-4855-b6c8-552ed073d027
 0 @sRZs1JsITMaUX9C4gKbL@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\New York, Tax Assessment Rolls of Re
@@ -22569,6 +22918,7 @@
 2 TITL New York, Tax Assessment Rolls of Real and Personal Estates
 3 CONC , 1799-1804
 1 RIN sRZs1JsITMaUX9C4gKbL
+1 REFN 933af214-fca0-40b2-bbc7-89f265f18173
 0 @viSMNbv9R7GBKBm6pR9x@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\New York, Tax Assessment Rolls of Re
@@ -22577,6 +22927,7 @@
 2 TITL New York, Tax Assessment Rolls of Real and Personal Estates
 3 CONC , 1799-1804
 1 RIN viSMNbv9R7GBKBm6pR9x
+1 REFN 23ce9f7a-03a7-4b47-a422-3c4c26e0b0e9
 0 @sxUB3acST2GkGV8ZXJod@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\New York, Tax Assessment Rolls of Re
@@ -22585,6 +22936,7 @@
 2 TITL New York, Tax Assessment Rolls of Real and Personal Estates
 3 CONC , 1799-1804
 1 RIN sxUB3acST2GkGV8ZXJod
+1 REFN 6b643bc0-45ac-4b43-bdb9-da3d01ba3861
 0 @fY89o8dkTBWEqBhWOt1U@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\Pennsylvania, Death Certificates, 19
@@ -22592,6 +22944,7 @@
 2 FORM jpg
 2 TITL Pennsylvania, Death Certificates, 1906-1944
 1 RIN fY89o8dkTBWEqBhWOt1U
+1 REFN 7129c245-acbb-4099-8bfe-03bde0f908ac
 0 @O119@ OBJE
 1 FILE http://trees.ancestry.com/rd?f=document&guid=5e670321-e897-4
 2 CONC 2e9-b89a-41d5ceb0ffb0&tid=61407337
@@ -22606,6 +22959,7 @@
 3 CONC e County, Illinois, Chapman Brothers Publishing Co., Chicago
 3 CONC , 1885., Page 474
 1 RIN O119
+1 REFN 699e6c1a-e3ed-43b2-be4b-6ecf5e7247a7
 0 @Ddt4x6p7QzSsUvjAjfys@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\Selected U.S. Federal Census Non-Pop
@@ -22615,6 +22969,7 @@
 3 CONC 1880
 2 _TEXT Census Year: 1860; Census Place: Hornby, Steuben, New York
 1 RIN Ddt4x6p7QzSsUvjAjfys
+1 REFN bb33f65d-c2f8-4a09-afe4-a5615f9a3a39
 0 @UfgY3oxfQluT3YqanQAM@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\U.S. City Directories, 1822-1995(5).
@@ -22622,6 +22977,7 @@
 2 FORM jpg
 2 TITL U.S. City Directories, 1822-1995
 1 RIN UfgY3oxfQluT3YqanQAM
+1 REFN ac527cb8-f772-4443-9dd5-39de553146d6
 0 @ozgkH2zaRwyYHQI0zHB1@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\U.S., Sons of the American Revolutio
@@ -22631,6 +22987,7 @@
 3 CONC s, 1889-1970
 2 _TEXT Volume: 298
 1 RIN ozgkH2zaRwyYHQI0zHB1
+1 REFN e2e88a66-8f74-4ffb-8c13-c0263bd6a619
 0 @9ql28ZbyS42s2MTqRjuI@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\U.S., Sons of the American Revolutio
@@ -22640,6 +22997,7 @@
 3 CONC s, 1889-1970
 2 _TEXT Volume: 298; SAR Membership Number: 59590
 1 RIN 9ql28ZbyS42s2MTqRjuI
+1 REFN 4d093eb4-a12b-4a93-b6de-0afff2da44b3
 0 @BEycAGPtTrWZzWs37shE@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\U.S., Sons of the American Revolutio
@@ -22649,6 +23007,7 @@
 3 CONC s, 1889-1970
 2 _TEXT SAR Membership Number: 98721
 1 RIN BEycAGPtTrWZzWs37shE
+1 REFN 684b9290-eec2-40b7-a9bd-5ff45714b1ea
 0 @Nmn3O1M5TWmb3WVE5ed6@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\U.S., World War I Draft Registratio
@@ -22658,770 +23017,5 @@
 2 _TEXT Registration State: New York; Registration County: Steuben
 3 CONC ; Roll: 1818989; Draft Board: 1
 1 RIN Nmn3O1M5TWmb3WVE5ed6
-0 @T816@ NOTE "Bruen Stapleford," the estate of the Bruen family, is a fe
-1 CONC w miles east of Chester.
-1 REFN c5008c92-08f9-4a2e-bfb8-e5644b9c3bc7
-1 RIN T816
-0 @T304@ NOTE "Dead Plains" area. This is where her father was living at t
-1 CONC he time, so I assume she was living there as well, and proba
-1 CONC bly did so until she was married
-1 REFN 972b9603-ea19-4b4f-ae03-a300bc3f6401
-1 RIN T304
-0 @T1063@ NOTE "South Beach Ave Cemetery in Old Greenwich"
-1 REFN aca3936d-5e3a-422d-b12f-d1fd36981ed5
-1 RIN T1063
-0 @T122@ NOTE "South Beach Ave Cemetery in Old Greenwich"
-1 REFN 0d378d42-c99f-48e6-88be-5d767b5a7057
-1 RIN T122
-0 @T370@ NOTE "West Lot," bought from Anthony Wright
-1 REFN 0f6def39-c5e0-4fa4-8bcd-a4ab7e491e70
-1 RIN T370
-0 @T291@ NOTE "near Church St. in front of meeting house"
-1 CONT 1st rector of that school
-1 REFN dbef177e-491a-4820-9c4d-dcafca358b49
-1 RIN T291
-0 @T1122@ NOTE 12:30 AM
-1 CONT of neurofibro sarcoma (from autopsy report in possession o
-1 CONC f Chris Mosher)
-1 REFN 0d32e458-4bee-44f4-a6be-cba05fcebff5
-1 RIN T1122
-0 @T414@ NOTE 15 Nov is from Ancestral File
-1 REFN c53a31cb-ea8f-48d8-93ee-766870257254
-1 RIN T414
-0 @T84@ NOTE 1688/89 or 1689/90?
-1 CONT also found as 6 Feb 1689
-1 REFN 4b2e15c2-3365-44de-93bc-b2159d1f01a2
-1 RIN T84
-0 @T83@ NOTE 1690/91 or 1691/92?
-1 REFN 313de051-0d66-4f28-a3ce-48066cd9c3b6
-1 RIN T83
-0 @T951@ NOTE 1900 census: Nov. 1873, NY.
-1 CONT Leo Harrison says Harrison Homestead
-1 REFN b68e5d28-88f5-4fc5-8e4c-aa4195b04dd1
-1 RIN T951
-0 @T435@ NOTE 21 Mar is from Marshall Genealogy Page
-1 REFN c00452bc-ae19-433c-8dd7-2119d8d5e00e
-1 RIN T435
-0 @T420@ NOTE 22 Mar is from Ancestral File
-1 REFN 235ff377-5d1a-424a-954e-7f99c041c3dd
-1 RIN T420
-0 @T1121@ NOTE 2:35 PM EST
-1 REFN d315fa84-e367-42b6-b1cf-bbd2d1f667ad
-1 RIN T1121
-0 @T954@ NOTE 30 acres (the west half of which overlap the southern part o
-1 CONC f the 1841 lot of 40 acres
-1 REFN 0f08fb17-2ac8-4ea3-ba1b-b946e6e537b4
-1 RIN T954
-0 @T786@ NOTE 3rd Regiment, Westchester Co., NY, Militia, under Captain Sa
-1 CONC muel Haight
-1 REFN c97fab9d-92c5-4e05-8bcb-e3fe9da1e0e3
-1 RIN T786
-0 @T417@ NOTE 4 Jul is from Ancestral File
-1 REFN a28cf7f0-c80d-430f-9c2a-c68a4780b651
-1 RIN T417
-0 @T956@ NOTE 48 acres (west half) of lot 51 (adjoins his 1831 purchase o
-1 CONC n its east border)
-1 REFN c3292d2b-052b-4263-9c82-1baa75991f67
-1 RIN T956
-0 @T955@ NOTE 50 acres (east part) of lot 56
-1 REFN 4d5972fc-5159-4acd-9a50-8f9853f5519d
-1 RIN T955
-0 @T80@ NOTE ?
-1 REFN 45d9fc22-c917-47a5-9ba0-4f345182aea4
-1 RIN T80
-0 @T650@ NOTE Aassume he lived there until his death.
-1 REFN 4aa34ac9-bba2-4986-a763-92629f5e6263
-1 RIN T650
-0 @T631@ NOTE Also from ancestry.com, need to check these sources: Box #55
-1 CONC 1, Extraction #60, Records 1533, 1565, 1583. Also, this sour
-1 CONC ce (Clayton, W. Woodford, History of Steuben County, New Yor
-1 CONC k: with illustrations and biographical sketches of some of i
-1 CONC ts prominent men and pioneers, (Philadelphia: Lewis, Pec
-1 CONC k & Co., 1879 (Philadelphia: Press of J.B. Lippincott)), pp
-1 CONC . 313-316) says "Harrison, Wm. Nelson, priv. 10th Cav., Co
-1 CONC . H; enl. Oct. 28, 1861, three years; pro. to corp. Feb. 186
-1 CONC 2; must. out at exp. of service." (unconfirmed)
-1 CONT From ancestry.com: source "New York: Report of the Adjutant-
-1 CONC General. (NYRoster) Published in 1894-1906" enlisted 28 Oc
-1 CONC t 1861 in Elmira, NY as Private age 24. Enlisted in Compan
-1 CONC y H, 10th Cavalry Regiment New York, 31 Oct 1861 (mustered i
-1 CONC n for 3 years). Mustered out 3 Nov 1864 in Petersburg, VA.
-1 CONT From ancestry.com: "Phisterer, p. 920" says "its companies w
-1 CONC ere mustered in... [companies] B, C, D, E, F, G and H at Elm
-1 CONC ira, December 28, 1861" ... "The regiment (eight companies
-1 CONC ) left the State December 24, 1861, and served at Gettysburg
-1 CONC , Pa.; from March, 1862, in the Middle Department, 8th Corps
-1 CONC , guarding railroads; from August, 1862, in the defenses o
-1 CONC f Washington, D. C.; in Gregg's Cavalry Brigade, Army of th
-1 CONC e Potomac, all mounted, from October, 1862; in the 1st Briga
-1 CONC de, 3d Division, Cavalry Corps, Army of the Potomac, from Fe
-1 CONC bruary, 1863; in the 3d Brigade, 2d Division, Cavalry Corps
-1 CONC , Army of the Potomac, from June 14, 1863, serving, however
-1 CONC , with the 12th Corps from June 22 to 27, 1863; in the 2d Br
-1 CONC igade, same division, from August, 1863; Company K served a
-1 CONC s escort with headquarters, 2d Corps, in September, 1863; an
-1 CONC d Company M from September to December, 1863; the regiment i
-1 CONC n the 1st Brigade, 2d Division, Cavalry Corps, Army of the P
-1 CONC otomac, from May 17, 1864."
-1 REFN d54b7a85-0652-40ad-be0c-8356a7e7d9c2
-1 RIN T631
-0 @T392@ NOTE Anne Hutchinson moved here (what is now Pelham Bay Park) i
-1 CONC n 1642 (after her husband died). James Sands may have gone w
-1 CONC ith her at this time. Built house for Anne Hutchinson and wa
-1 CONC s driven out by local Indians who later killed Anne Hutchins
-1 CONC on.
-1 REFN ed9f4db7-0541-4df7-a534-70a8c9cf6216
-1 RIN T392
-0 @T784@ NOTE Applicant's Working Sheet, National Society, DAR has "Land B
-1 CONC ounty Rights of 160 acres".
-1 CONT Need to look at Rev. War NARA records on LDS film 972118.
-1 REFN 26536e5f-4c87-41c9-8484-8e6564230e93
-1 RIN T784
-0 @T522@ NOTE Assume this means a son with the same name, Peter, and 20t
-1 CONC h day of 6th month (August), 1659. However 20 Aug 1659 woul
-1 CONC d conflict with sister Elizabeth's birth date of 28 Jan 1659
-1 CONC /60. So one of the two are wrong. I am guessing that the bir
-1 CONC th for Peter is incorrect. The evidence is that it is that t
-1 CONC he month and year listed are exactly the same as the month a
-1 CONC nd year for the previous child (Joseph), so I'm assuming tha
-1 CONC t the current town records (which I think are really just co
-1 CONC pies) were copied incorrectly from the ancient originals. Gi
-1 CONC ven that, if I assume that the year is correct, and 20 Aug i
-1 CONC s too late, then the only possible non-conflicting days in 1
-1 CONC 659 would be 25 Mar 1659 (the first day of the year 1659) an
-1 CONC d about 23 Apr 1659 (close to when the next child Elizabet
-1 CONC h was conceived).
-1 REFN d457213f-29ed-49c1-8a92-ce1c465fb788
-1 RIN T522
-0 @T366@ NOTE Both his and his father's wills refer to land owned in "Ol
-1 CONC d Purchase, Oyster Bay" which is probably Matinecock. Sand
-1 CONC s Family Papers give "Long Island"
-1 REFN 8d5ff8f0-abac-428b-ac26-5e9dbb7f3d1a
-1 RIN T366
-0 @T791@ NOTE Chosen to be deputy governor of the Massachusetts Company, b
-1 CONC ut since he decided to remain in England, Thomas Dudley wa
-1 CONC s elected instead.
-1 REFN 8977d24c-fe65-4b5c-8fd3-4180f9a1b5b9
-1 RIN T791
-0 @T311@ NOTE Corporal in Captain Johnathan Whitney's Company, 9th Regimen
-1 CONC t, CT Militia (Revolutionary War)
-1 REFN c12795ce-e036-4707-a10e-e0dacb919073
-1 RIN T311
-0 @T787@ NOTE Date is just a guess, based on birth dates of children, fath
-1 CONC er, and husband.
-1 REFN d6219072-a089-467e-a8d8-987d523245d8
-1 RIN T787
-0 @T574@ NOTE Descendants of John Bishop gives 03 June 1700, which conflic
-1 CONC ts with Nathan's birth. Huntington gives "Jan. 3, 1700" whic
-1 CONC h probably means 3 Jan 1700/1, because 3 Jan 1699/1700 confl
-1 CONC icts with Nathan's birth.
-1 REFN 0b499105-5940-43c8-988c-584dfdf65805
-1 RIN T574
-0 @T408@ NOTE Did not have a son named Thomas Hoyt (those referneces are t
-1 CONC o Thomas Hyatt). Also, did not have daughters named Ruth o
-1 CONC r Deborah. Also, his first wife was not Deborah Stowers.
-1 REFN 577150f4-1754-44dd-9292-ca6ece603de7
-1 RIN T408
-0 @T282@ NOTE Edward's brother was William Hutchinson, husband of Anne Mar
-1 CONC bury
-1 REFN 9bba8e5c-e3f1-418c-85a9-9c074108d1a2
-1 RIN T282
-0 @T514@ NOTE Ferris Genealogy and E. B. Huntington give 5 July 1654
-1 REFN 8fa682ea-77bc-4203-95a2-8d254f94d0f1
-1 RIN T514
-0 @T125@ NOTE Ferris Genealogy says "Salem, Westchester, NY", so I assum
-1 CONC e S. Salem
-1 REFN d5aa613f-c03b-40d3-bc86-1948d26461c4
-1 RIN T125
-0 @T515@ NOTE Fritz Knapp gives Watertown
-1 REFN b46c657b-15ae-4780-a374-ac6429085523
-1 RIN T515
-0 @T516@ NOTE Fritz Knapp says after 19 Feb 1760
-1 REFN 2b10e75c-9dea-46f7-bf9a-4c6dbbfb44a9
-1 RIN T516
-0 @T573@ NOTE Given Elizabeth's baptism date of 3 Jun 1622, she and her si
-1 CONC ster Hannah would have been baptized less than nine months a
-1 CONC part, so I'm assuming Elizabeth was born probably earlier th
-1 CONC an nine months before Hannah was baptized. Also, I'm assumin
-1 CONC g Mary was born about when baptized, so nine months after th
-1 CONC at is about the earliest Elizabeth could have been born. So
-1 CONC , I'm assuming 1621 (between Jan and Oct). Since Marshall Ge
-1 CONC nealogy gives 3 Jun 1622 for baptism, I'm assuming 3 Jun 162
-1 CONC 1 for baptism.
-1 REFN 00082a71-10ef-4e1a-bffa-5063b3811b24
-1 RIN T573
-0 @T443@ NOTE Half an acre, upon the green, east side. Baldwin Genealogy g
-1 CONC ives "opposite John Bishop's house."
-1 REFN 86ccb0eb-c1f8-4934-ac00-d71aeeb57ca4
-1 RIN T443
-0 @T953@ NOTE His brothers and sisters quit claim the Harrison Homestead t
-1 CONC o him. Note that this is just months before the death of Pri
-1 CONC scilla Sayre; if she died intestate, land would go to all ch
-1 CONC ildren; assume this is why other children are quiting clai
-1 CONC m to Henry. The land consists of 3 parts: two lots were th
-1 CONC e ones purchased by George D. Harrison in 1831 (50 acres) an
-1 CONC d 1841 (48 acres), and there is another 8.125 acre lot whic
-1 CONC h may or may not adjoin the 50 acre lot.
-1 REFN 301f0a11-336a-49ab-9d55-9cff4b78fbdc
-1 RIN T953
-0 @T17@ NOTE Hornby from DAR sheet
-1 REFN 44a56342-e80e-42b6-b525-e889a3272d41
-1 RIN T17
-0 @T90@ NOTE Hornby from DAR sheet
-1 CONT Ketcham Genealogy gives 30 Nov 1842
-1 REFN dfda515e-b6da-4a1c-a13f-109911df77a7
-1 RIN T90
-0 @T646@ NOTE Hornby was then a part of Painted Post
-1 REFN 8262bb88-9bba-4407-9a80-befaba1421a2
-1 RIN T646
-0 @T647@ NOTE Hornby was then a part of Painted Post
-1 REFN 78556243-23d2-4fff-b645-4dd2c7f57962
-1 RIN T647
-0 @T648@ NOTE Hornby was then a part of Painted Post
-1 REFN c593ba68-ae27-41d6-ac0c-a1e54473becd
-1 RIN T648
-0 @T788@ NOTE I am tentatively assuming Katherine's parents are Edward an
-1 CONC d Susanna. No proof of this has been found. Based on assume
-1 CONC d birth dates, I am rejecting the commonly proposed lineage
-1 CONC s of Katherine as daughter of Edward and Sarah, and daughte
-1 CONC r of Edward and Katherine Hamby. Still, it is a guess that s
-1 CONC he is related to the William Hutchinson (m. Anne Marbury) fa
-1 CONC mily (of Alford, Lincolnshire, England) at all.
-1 REFN 4ed2b604-527a-4d4d-bd40-468b66e3c128
-1 RIN T788
-0 @T438@ NOTE Jacobus gives 15 Nov in History of Old Fairfield
-1 REFN f2c9a626-ea91-4d2b-93f0-843d7c5e29cd
-1 RIN T438
-0 @T112@ NOTE James was a commissioner from Portsmouth
-1 REFN 1bbac69c-8daf-4e7e-a98d-3d32d150da24
-1 RIN T112
-0 @T89@ NOTE Ketcham Gen. Website gives 29 Apr 1763
-1 REFN 001572ad-ce7f-4cc3-bb43-79252e118cf0
-1 RIN T89
-0 @T86@ NOTE Ketcham Genealogy Website gives 14 Jun 1734 or 19 Oct 1734
-1 CONT and gives both Stamford, CT and Huntington, NY as places
-1 CONT Same birth dates and places are given for her brother Zophar
-1 CONC ; either this is a mistake or they were twins.
-1 REFN d45c9afc-fede-4ce7-a124-457f8313d4fc
-1 RIN T86
-0 @T91@ NOTE Ketcham Genealogy Website gives 30 Aug 1773
-1 REFN d0ca809c-0512-4c60-86fa-786f03b3e710
-1 RIN T91
-0 @T88@ NOTE Ketcham Genealogy Website gives Apr 1814 age 79
-1 REFN fcad150d-1981-41f8-a537-a7c6c198fc85
-1 RIN T88
-0 @T426@ NOTE Lot #13, on west side of street, third on the right headin
-1 CONC g south from West Main Street.
-1 REFN dd9d0fd9-5299-4574-a827-f0720b021413
-1 RIN T426
-0 @T334@ NOTE Lot was near corner of Dry Run Road and Corning/Hornby Roa
-1 CONC d in center of Hornby, around three other lots in that locat
-1 CONC ion, including the town hall lot and a store lot.
-1 REFN afe80921-cb1b-4595-a5d8-a3da64a42cc8
-1 RIN T334
-0 @T424@ NOTE Marshall Genealogy Page gives the place
-1 REFN 53000a5b-f049-4c88-bf87-eb9d63246635
-1 RIN T424
-0 @T425@ NOTE Marshall Genealogy Page says 13 Jun 1665
-1 REFN f8670456-0695-48ec-a482-1b96cee570e1
-1 RIN T425
-0 @T785@ NOTE Mounted Cavalry
-1 REFN c710b26b-1bad-47e1-bfe3-d7642dc216c2
-1 RIN T785
-0 @T390@ NOTE Note that Portsmouth was founded March 7, 1637/8 OS, by Ann
-1 CONC e Hutchinson and followers. James was probably closely invol
-1 CONC ved and therefore moved there probably shortly around Marc
-1 CONC h 1637/8.
-1 REFN 2786aa02-6b45-436d-b346-d188ab2046a4
-1 RIN T390
-0 @T441@ NOTE Origianl record is in book I-2, p. 47.
-1 CONT From Richard Rugg.
-1 CONT Either this Richard Webb, or his father.
-1 REFN 809eed4b-6fe0-46d0-bd8c-810daf5f31df
-1 RIN T441
-0 @T439@ NOTE Original record in book I, p. 39.
-1 CONT To Thaddeus Hait
-1 REFN 5fbcdd71-61b9-471b-8f84-eb10e875a822
-1 RIN T439
-0 @T440@ NOTE Original record is in book N, p. 625.
-1 CONT To David Lockwood, III
-1 REFN e46cbdfe-660f-4c97-b4bf-b5fa52bbe2d6
-1 RIN T440
-0 @T300@ NOTE Pardee Genealogy gives place
-1 REFN c9f5bcdc-b297-4056-9151-713875c55e56
-1 RIN T300
-0 @T302@ NOTE Pardee Genealogy gives place, and gives same date as bible
-1 REFN 8b376852-4c28-4b69-b843-187ed2006b91
-1 RIN T302
-0 @T1117@ NOTE Place is assumed from parents' reidence. Leo says she was ma
-1 CONC ybe 12 years old when she died, and she doesn't appear in th
-1 CONC e 1880 or 1892 censuses, which are 12 years apart, so she mu
-1 CONC st have been born just after 1880 and died just before 1892.
-1 REFN 622f96d0-dcfe-4aa4-88c1-0e48d4653335
-1 RIN T1117
-0 @T654@ NOTE Place is assumed, based on 1810 census. Date is from famil
-1 CONC y interviews.
-1 REFN 9c6f7f1d-a4da-41a2-ace2-6ecd226db27a
-1 RIN T654
-0 @T652@ NOTE Place is assumed.
-1 REFN f32251d6-f3cf-4858-b77c-67b5469579e4
-1 RIN T652
-0 @T653@ NOTE Place is just a guess. Date is from family interviews.
-1 REFN 4d3afa2b-96ee-4202-a538-39696aec1cd2
-1 RIN T653
-0 @T372@ NOTE Possibly living with his son Samuel in 1820 census, p. 202
-1 CONC ; need to check original census record.
-1 REFN 3c5dccb3-c8ec-40c4-a7f9-cfb4387e27e0
-1 RIN T372
-0 @T649@ NOTE Sands/Harrison family bible says July 13, 1805
-1 CONT Applicants Working Sheet DAR sayd July 18, 1805
-1 CONT George Rogers says 13 Jul 1805 or 13 Jul 1802, and Orange Co
-1 CONC ., NY
-1 CONT Place is from 1810 census ("John Harrison")
-1 REFN fe21516b-f621-4c3e-95c5-271feb06ce43
-1 RIN T649
-0 @T117@ NOTE She burned to death by the fireplace in her house.
-1 CONT Her son Thomas was convicted for her murder and hanged.
-1 CONT The conviction was based on testimony by John Briggs of a dr
-1 CONC eam.
-1 REFN 4e0552f0-37b4-4db6-ae91-234b47624650
-1 RIN T117
-0 @T753@ NOTE Shows "middle ward of Cortlandt", which was called Hanover
-1 CONC . "Prior to 1788, Yorktown and Somers constituted the old to
-1 CONC wnship of Hanover, within Cortlandt's manor." Since 1790 cen
-1 CONC sus shows him in Yorktown, I'm assuming this 1779 location i
-1 CONC s also Yorktown.
-1 REFN 38cba309-46f0-4af8-a52b-27bfaa71712a
-1 RIN T753
-0 @T572@ NOTE Source give 3 Jun 1622, but I'm assuming it's actually 1621
-1 CONC , due to conflicting birth dates (see note on birth event)
-1 REFN 109ebd2d-1b37-4f81-a36c-a8853692f915
-1 RIN T572
-0 @T789@ NOTE Terling is 20 miles SSE of Saffron-Walden
-1 REFN 97ad60e1-b260-4cd6-b5c6-41d95859d0b9
-1 RIN T789
-0 @T449@ NOTE There are two other comtemporary Richard Webbs: R. W. of Wey
-1 CONC mouth, MA and R. W. of Hartford, CT (probably his father).
-1 REFN 1c3444b0-d1ee-422d-8922-6587ca3483a5
-1 RIN T449
-0 @T436@ NOTE This Joanne did not marry Thomas Skidmore
-1 REFN decdb3f5-3362-4f2e-bb0a-f1b43d658aa8
-1 RIN T436
-0 @T763@ NOTE This Rebecca is often reported as being Rebecca Briggs, ful
-1 CONC l sister of John Briggs. However, these claims are based o
-1 CONC n flimsy evidence. I don't believe that John Briggs would ha
-1 CONC ve refered to his sister saying "I am your sister <i>Cornell
-1 CONC </i>" if they were indeed full siblings.
-1 REFN b3927ec7-366d-4577-b22c-0a72ba4eff42
-1 RIN T763
-0 @T651@ NOTE This is just a guess, based on 1810 census, and fact that h
-1 CONC e is not in Warwick in 1800 census.
-1 REFN 3f723772-e537-4151-9e5e-5d42ddcb3a72
-1 RIN T651
-0 @T456@ NOTE This is the famous "Anne Hutchinson."
-1 REFN 8bd716b0-4ce4-4c31-a26f-607bacd2b1c8
-1 RIN T456
-0 @T363@ NOTE This might be the "Zerviah" referenced in her father's will
-1 REFN 1e069879-bc0a-4617-bd12-10631c0edea3
-1 RIN T363
-0 @T571@ NOTE This source gives Mary's father as Obadiah Bruen (son of Joh
-1 CONC n Bruen), instead of John Bruen.
-1 REFN 24778aa3-35ea-452a-9888-8ddb03f851bd
-1 RIN T571
-0 @T111@ NOTE This was the first regular Assembly of RI.
-1 CONT James appeared here on behalf of Block Island.
-1 REFN 076e50b9-a993-48b6-bff4-3cadd33501e6
-1 RIN T111
-0 @T110@ NOTE This was the organizing meeting for the Assembly of RI
-1 REFN c6262b1e-bb1e-4399-9d85-8c7ca505322a
-1 RIN T110
-0 @T399@ NOTE This woman's last name is not Smith.
-1 REFN 47d57d16-37b3-49b5-83a2-b6f4b3c90f3f
-1 RIN T399
-0 @T290@ NOTE Timothy Ford, George Pardy, and Richard Johnson against Alle
-1 CONC n Ball for losing their 3 canoes
-1 REFN 0dd8ae37-801d-4c75-bacb-0dd511cbb079
-1 RIN T290
-0 @T442@ NOTE Town of Guilford invited him to move there in order to provi
-1 CONC de them blacksmithing services.
-1 REFN 4a7501c5-0616-44a7-abec-8e05460c0fde
-1 RIN T442
-0 @T147@ NOTE Washington Street, between Summer and Milk
-1 REFN d6b3b0f3-a855-4d78-8ce9-4bbe716a5586
-1 RIN T147
-0 @pugrYPh4SdO7Rfapn7jB@ NOTE West Farms area of Bronx
-1 RIN pugrYPh4SdO7Rfapn7jB
-0 @T422@ NOTE Westchester Co. Archives: file A0018(10)L
-1 REFN 98f44083-0975-43d9-9bca-753f643b6038
-1 RIN T422
-0 @T421@ NOTE Westchester Co. Archives: file A0018(9)L
-1 REFN 0ffd24ce-1929-4be6-98b5-e16d86000652
-1 RIN T421
-0 @T373@ NOTE Williamson gives 17 Apr 1678
-1 REFN 66df0aa1-5ab5-4222-a9ff-e2737d521b87
-1 RIN T373
-0 @T1104@ NOTE Young (age 12 or younger, says Leo Harrison). See note in bi
-1 CONC rth event. Place is assumed. She is not in the household i
-1 CONC n the NY State 1892 census.
-1 REFN 15536299-0a55-4332-9510-c54dd465b328
-1 RIN T1104
-0 @T239@ NOTE [need to check NY Vital Records: death certificate #30172]
-1 REFN 7d4091bb-6037-4e6a-a08f-399d679532c2
-1 RIN T239
-0 @T92@ NOTE age 3
-1 REFN 3baf7ef9-43b1-4f11-8a5b-5de9efb3a641
-1 RIN T92
-0 @T457@ NOTE as "Edward Hutchinson, Sr." (note that "Edward Hutchinson, J
-1 CONC r." was probably the son of William and Anne Hutchinson)
-1 REFN d1793a3e-2bff-42c5-8ed8-8196587f467b
-1 RIN T457
-0 @T376@ NOTE assume he was aged 16+ in 1790 census; place assumed from fa
-1 CONC ther's residence
-1 REFN 9dfd03f6-d16a-41b4-9931-6c2c260e50ef
-1 RIN T376
-0 @T299@ NOTE aunt of Brig. Gen. Samuel B. Webb of the Revolutionary War
-1 REFN 89837ce8-508c-4554-94c7-6d0b8f3a4c7a
-1 RIN T299
-0 @T508@ NOTE based on date of will probate
-1 REFN 24e5c31c-9eae-487e-857f-dd2b3a659e81
-1 RIN T508
-0 @T116@ NOTE bought Miles Standish's interest in Dartmouth
-1 REFN fb3697eb-782a-47d3-89c2-aae2be7211bc
-1 RIN T116
-0 @T288@ NOTE but was not admitted a freeman of the Court yet
-1 REFN 27541641-3597-49b5-8033-012b5e93abbe
-1 RIN T288
-0 @T1064@ NOTE by Charles Goodrich
-1 REFN 09f1b94b-83d8-4f08-8fa1-f548f9da9cb5
-1 RIN T1064
-0 @T397@ NOTE by Jonathan Bell
-1 REFN d0808b84-ae54-4e63-b7eb-268462b3dc62
-1 RIN T397
-0 @T1132@ NOTE by Rev. James M. Bustin
-1 REFN c7717b2a-9e6b-49f0-8ba8-64339d9caf10
-1 RIN T1132
-0 @T292@ NOTE c. 1670 the ferry was moved up-river to "Red Rock"
-1 REFN 46e9b9a0-6041-4914-9340-7247061c335b
-1 RIN T292
-0 @T142@ NOTE date assumed approx. from death
-1 REFN e37b0a11-44c8-4d01-a053-d06398e87658
-1 RIN T142
-0 @T783@ NOTE date from family papers
-1 REFN f8f38437-e133-40c1-8406-2de52748795d
-1 RIN T783
-0 @T798@ NOTE date is just a guess
-1 REFN afef365c-a136-47d7-9682-fce98ad733fc
-1 RIN T798
-0 @T81@ NOTE dates are guesses
-1 REFN b089e2d7-adce-4442-b0b1-5a1259eb5aa3
-1 RIN T81
-0 @T18@ NOTE drowned in the mill pond at a young age
-1 REFN 2565bac8-3632-4a86-ae4c-b0e878a85fc9
-1 RIN T18
-0 @T82@ NOTE from date approx; until his death
-1 REFN f2c855e2-ff8f-4373-84f2-3bd213f42d83
-1 RIN T82
-0 @T368@ NOTE from date of latest child birth, place is a guess
-1 REFN 2f553f4b-87e9-4cb8-ae5e-b4f9314ced19
-1 RIN T368
-0 @T517@ NOTE gives Watertown, Fairfield, CT which is probably Wethersfiel
-1 CONC d
-1 REFN 35a81725-f933-4e39-86ef-221f42534cd0
-1 RIN T517
-0 @T297@ NOTE grist mill, house, and 20 acres of land, on east side of Mia
-1 CONC nus River "above the main county road"
-1 REFN 8cd1fb1f-843b-4ea8-bd85-4f6f9bbd6dd3
-1 RIN T297
-0 @T118@ NOTE hanged
-1 REFN 08cfb8d1-8e87-4116-a85a-5b60add589f6
-1 RIN T118
-0 @T455@ NOTE held Anne Hutchinson in custody in his house
-1 REFN 1dd6ccd3-eb85-4941-b9a3-0e4b08f24f8c
-1 RIN T455
-0 @T296@ NOTE his father and grandfather were living in Evance house durin
-1 CONC g this time [Pardee Genealogy], so he was probably born ther
-1 CONC e
-1 REFN 65027576-7cf0-46c9-8810-41c3a6cc5194
-1 RIN T296
-0 @T371@ NOTE his house and farm were on this land in the "Old Purchase" o
-1 CONC f Oyster Bay
-1 REFN 113cd8e6-91fa-4db6-9270-2e4d5081b7c1
-1 RIN T371
-0 @T303@ NOTE house, barn, fruit trees, 50 acres, in "Dead Plains" Stamfor
-1 CONC d. Bought from Edward Thorpe, sold to David Lockwood III. Ib
-1 CONC id., p. 178, gives "west side of Mill River" property whic
-1 CONC h may be the same as this property.
-1 REFN a11da047-0e14-46e9-a673-1022b1960019
-1 RIN T303
-0 @T400@ NOTE illegitimate
-1 REFN 87b821b4-810b-405f-8471-9c661581266d
-1 RIN T400
-0 @T126@ NOTE in Capt. Phineas Bradley's Co. of Artillery Guards, CT
-1 REFN 184727a3-e6d6-4aa6-9ade-0fdb3199020f
-1 RIN T126
-0 @T406@ NOTE in Pequot War
-1 REFN 2fdf49eb-975a-41ad-b0de-5e6f8d5902c7
-1 RIN T406
-0 @T409@ NOTE in Roxbury Training Band (militia)
-1 REFN 733f443a-697b-4d91-8857-8ff3cd4a6983
-1 RIN T409
-0 @T283@ NOTE in the "French War"
-1 REFN 818f07e6-540c-45f5-b566-89dce7dc897f
-1 RIN T283
-0 @T792@ NOTE injured in the attack on Taunton by the Royalists
-1 REFN 98b483a7-70b8-4305-a8c1-32a865162352
-1 RIN T792
-0 @T369@ NOTE land and house next to "Plain Land"
-1 REFN bd45e3d2-aa2d-4d21-b23c-d95fda046c45
-1 RIN T369
-0 @T434@ NOTE land from Thomas Skidmore (father-in-law)
-1 REFN 2452f91f-86b8-46d2-bc1c-066bb3ab968d
-1 RIN T434
-0 @T407@ NOTE last name may have been Harris or Willoughby
-1 REFN e6273214-b791-47e9-a312-54518b8b18e0
-1 RIN T407
-0 @T410@ NOTE member of Boston Ancient and Honorable Artillery Company (3r
-1 CONC d member)
-1 REFN 3d6dc1a8-6357-464b-a25c-6bb7516799b8
-1 RIN T410
-0 @T143@ NOTE month and day from family papers
-1 REFN 58d2415f-daa2-40d9-8e63-a0074a129751
-1 RIN T143
-0 @T588@ NOTE murdered by members of the Mohegan tribe of Native Americans
-1 REFN 40f42ba2-17b5-423e-9645-834e472e470b
-1 RIN T588
-0 @T301@ NOTE near "Crumb Pond" [is this name now Crompond?] [Is this pon
-1 CONC d now Gregory Pond?]
-1 REFN 9f948cc1-4377-423a-8ed4-ebe5d8a723c7
-1 RIN T301
-0 @T293@ NOTE north side of Water Street, between Olive Street and Brown S
-1 CONC treet
-1 REFN f9fe94b6-e543-4800-97dc-f2d3345f481e
-1 RIN T293
-0 @T287@ NOTE on north side of Water Street, probably near Brown Street o
-1 CONC r Forbes Avenue
-1 REFN f8cc3706-c03c-4920-ab30-8e2bf5f61c03
-1 RIN T287
-0 @T391@ NOTE on north side of street, half-way between Sprague Street an
-1 CONC d Brownell Lane
-1 REFN 6b636abd-ab7d-4543-b627-57aaacb2daf5
-1 RIN T391
-0 @T394@ NOTE on ship "Griffin"
-1 REFN 6ae7676d-80a0-4c03-85c5-daa17a6fa6a0
-1 RIN T394
-0 @T395@ NOTE on ship "Griffin"
-1 REFN 570cc3a8-ed94-440c-9071-e4a470f4e32b
-1 RIN T395
-0 @T403@ NOTE on ship "Hercules"
-1 REFN 792ef28b-6a02-4220-89a9-7874184796c4
-1 RIN T403
-0 @T402@ NOTE on ship Arebella, Captain Peter Milburne
-1 REFN e3c58a16-2108-49db-9312-3d83cf91fe41
-1 RIN T402
-0 @T404@ NOTE on ship Hercules
-1 REFN 3e04a0f1-cbef-4127-8f6a-1d9f033c6ad8
-1 RIN T404
-0 @T405@ NOTE on ship Hercules
-1 REFN dc113f6f-abee-491a-b448-c183ca1c88a4
-1 RIN T405
-0 @T79@ NOTE on ship Hopewell.
-1 CONT other dates are given: 1629, 1631/32, 1635.
-1 CONT other ships are given: Nector, Lyon.
-1 REFN c222b3aa-f6bc-48e1-b599-a95a28909f4d
-1 RIN T79
-0 @T398@ NOTE on ship Lyons Whelp
-1 REFN fbb58ae6-cfaf-460f-a0b3-e87ab8ec395f
-1 RIN T398
-0 @T483@ NOTE or Isabel Harcourt
-1 REFN 9a0937e9-8b66-4d5d-a806-097bb93a6239
-1 RIN T483
-0 @T123@ NOTE or May 1736???
-1 REFN 0bdbcd4a-5a58-461e-9270-a8a1398001d3
-1 RIN T123
-0 @aLjdoGOMTkmTWPaSg3cb@ NOTE or North Salem?
-1 RIN aLjdoGOMTkmTWPaSg3cb
-0 @T85@ NOTE other date given: 19 Oct 1732
-1 REFN c63840fa-95de-445c-a2ca-f3be7ff424c4
-1 RIN T85
-0 @T726@ NOTE pages after 23 Jan are not dated, so may have extended pas
-1 CONC t the 23rd.
-1 REFN 032e7d96-fe6b-425f-8197-1917b01371a7
-1 RIN T726
-0 @T428@ NOTE place assumed from father's residence
-1 REFN 5b9c03f5-9e0b-428a-b733-7ecc969515a9
-1 RIN T428
-0 @T429@ NOTE place assumed from father's residence
-1 REFN 5086cd55-b02a-44a6-ab45-eadf9ebd5796
-1 RIN T429
-0 @T430@ NOTE place assumed from father's residence
-1 REFN 8b692cb8-a19c-46a1-a48d-0ad70883eb91
-1 RIN T430
-0 @T431@ NOTE place assumed from father's residence
-1 REFN f481fba6-b950-4e6a-bcab-4892ae4aad00
-1 RIN T431
-0 @T432@ NOTE place assumed from father's residence
-1 REFN fb376347-79f0-44e1-8780-c531d991b69a
-1 RIN T432
-0 @T433@ NOTE place assumed from father's residence
-1 REFN 8c030cc9-a7fc-40de-a7f2-5d19105a8097
-1 RIN T433
-0 @T113@ NOTE place assumed from parents' residence
-1 REFN 648b8ef4-047a-4fc9-924d-f2300e9b737a
-1 RIN T113
-0 @T114@ NOTE place assumed from parents' residence
-1 REFN 96cb1460-4138-4943-914e-99dc34500291
-1 RIN T114
-0 @T585@ NOTE place based on father's residence
-1 REFN 166893a1-9ecb-4e85-86e9-116bdb5f36b3
-1 RIN T585
-0 @T586@ NOTE place based on father's residence
-1 REFN 05c43101-3eec-46e6-87ca-71aac9573a8d
-1 RIN T586
-0 @T587@ NOTE place based on father's residence
-1 REFN 0c78dc2f-c96a-431d-bf22-fffddbc2ba92
-1 RIN T587
-0 @T790@ NOTE place from "Akin-Slocum..."
-1 REFN 5e7ed062-7806-498b-bce8-3588ec2d1d9b
-1 RIN T790
-0 @T124@ NOTE place from Ferris Genealogy
-1 REFN 0ab201a1-d9ac-4a8c-a855-8b47f145a28c
-1 RIN T124
-0 @T93@ NOTE place from George Rogers
-1 REFN 1a1fbe0e-80dd-45e8-9aa2-fc926ba0306a
-1 RIN T93
-0 @T87@ NOTE place from Ketcham Genealogy Website.
-1 REFN d311cb69-5d26-44e5-8c8b-d0b9a2634965
-1 RIN T87
-0 @T393@ NOTE place is assumed
-1 REFN 2d6e3d2b-03a1-4944-9cf2-4cbd4dd4e7cc
-1 RIN T393
-0 @T411@ NOTE place is assumed
-1 REFN 251a0a81-74f7-4abf-b157-811b03b79f53
-1 RIN T411
-0 @T754@ NOTE place is assumed
-1 REFN cd61b780-b91e-4b7d-a2df-b1d2a7cd0a14
-1 RIN T754
-0 @T308@ NOTE place is assumed from father's residence
-1 REFN 7b88c038-c4c7-4b68-8ea9-f6aba46929f9
-1 RIN T308
-0 @T309@ NOTE place is assumed from father's residence
-1 REFN bc4e75d9-84ae-4c69-85fc-b25eb851979c
-1 RIN T309
-0 @T310@ NOTE place is assumed from father's residence
-1 REFN 234619bb-ff98-4fb8-b3ba-709e6d15e443
-1 RIN T310
-0 @T364@ NOTE place is assumed from father's residence
-1 REFN ad4ffd9d-df07-41f6-8146-3baef0b145d3
-1 RIN T364
-0 @T365@ NOTE place is assumed from father's residence
-1 REFN 75f7ae05-c456-45ce-8a66-fb1959b0738a
-1 RIN T365
-0 @T367@ NOTE place is assumed from father's residence
-1 REFN aa91a4ff-b2d9-46d4-829d-2be0eb11d973
-1 RIN T367
-0 @T307@ NOTE place is assumed from father's residence at the time
-1 REFN b0c13e38-6981-4714-a014-7774720bc9f6
-1 RIN T307
-0 @T413@ NOTE place is from Ancestral File
-1 REFN e5fab78a-39fe-4b69-8fe7-7c115feaa44c
-1 RIN T413
-0 @T415@ NOTE place is from Ancestral File
-1 REFN bfd15dbb-0f3d-497d-9f8e-efc5df20a8a1
-1 RIN T415
-0 @T416@ NOTE place is from Ancestral File
-1 REFN 0dbc7618-63e3-4c2f-bc7d-97ad5d78bf2b
-1 RIN T416
-0 @T419@ NOTE place is from Ancestral File
-1 REFN 08320334-d687-4cd9-9c1a-0ef970271221
-1 RIN T419
-0 @T502@ NOTE place is from Ancestral File
-1 REFN 336c3a20-793e-499f-95d4-0881fd476f99
-1 RIN T502
-0 @T362@ NOTE place is from Ancestry.com
-1 REFN f7d3bfba-9356-4265-9d69-b4f9db354e58
-1 RIN T362
-0 @T1135@ NOTE place is from ancestry.com OneWorldTree
-1 RIN T1135
-0 @T418@ NOTE place is given as in MA, but is prob. in CT
-1 REFN fdd50e18-88de-4c27-8e8a-849340f4e548
-1 RIN T418
-0 @T817@ NOTE place is just a guess
-1 REFN 952bbe09-b38d-41b5-87ae-27249da336de
-1 RIN T817
-0 @T818@ NOTE place is just a guess
-1 REFN 3d37c686-f6ee-4971-a153-3760d3fa48e5
-1 RIN T818
-0 @T375@ NOTE probably counted with his father Othiniel
-1 REFN fe1618c7-553a-4f25-8322-191a49eec062
-1 RIN T375
-0 @T803@ NOTE probably later, considering birth date of mother
-1 REFN fbdd2c44-58b2-4cd5-8b70-e8f9675be726
-1 RIN T803
-0 @T305@ NOTE probably lived with his father until he was married. 1800 ce
-1 CONC nsus (just after he was married) shows Othiniel Sands and Je
-1 CONC ssee Sands in two different households
-1 REFN fa7bb303-5094-4e53-850c-ec07373a5438
-1 RIN T305
-0 @T427@ NOTE probably moved to Middletown when married
-1 REFN e3b1f006-2718-4529-8ab3-ba0b78c94e27
-1 RIN T427
-0 @T115@ NOTE representative from Dartmouth
-1 REFN 8693368f-f3a2-4385-83e7-dd5c99456d57
-1 RIN T115
-0 @T295@ NOTE sawmill, dam, and half an acre of land from Jonathan Jagger
-1 CONC , on Brothers Brook near Mianus River.
-1 REFN 8ec592af-e14e-4c42-bfdf-b52421b0e7ff
-1 RIN T295
-0 @T127@ NOTE signed the document giving jurisdiction of Greenwich to th
-1 CONC e New Haven Colony
-1 REFN 7778b561-b518-439b-92e6-6c1890c92f4c
-1 RIN T127
-0 @T294@ NOTE site of Battell Chapel, Yale U.
-1 REFN efc77397-0c4b-4a2e-8894-124f6c3a8a17
-1 RIN T294
-0 @T815@ NOTE source actually has impossible date of 25 Nov 1601, assume 1
-1 CONC 599
-1 REFN 604e6a56-7c13-4299-866d-b48487d7ee69
-1 RIN T815
-0 @T306@ NOTE source gives "Painted Post" because Hornby was then a part o
-1 CONC f Painted Post
-1 REFN 92199f43-ab88-4d21-9321-f30046ce6604
-1 RIN T306
-0 @T374@ NOTE this date is given for his father John Ketcham, so may be un
-1 CONC reliable
-1 REFN 626d721a-f1ed-4337-8e87-8a8a41801b50
-1 RIN T374
-0 @T289@ NOTE to "stake out the way at dragon poynt [Fair Haven]... Georg
-1 CONC e Pardy in stead of Francis Browne."
-1 REFN 310a87a9-15c6-40c6-b3c7-2607b7d3be62
-1 RIN T289
-0 @T423@ NOTE was a settler, but not a "Free Planter" (because he was no
-1 CONC t a member of the church)
-1 REFN 5074b5a8-b7e6-4e00-80aa-35dda9beb5ee
-1 RIN T423
-0 @T286@ NOTE where the Forbes Avenue bridge now exists ("when the ferry w
-1 CONC as at the end of Water street")
-1 REFN 476e4333-ec8c-4cdf-a11c-214a31c32c32
-1 RIN T286
-0 @T284@ NOTE young
-1 REFN 1dbe275d-87a6-4758-ac54-741ff1751ca0
-1 RIN T284
-0 @T298@ NOTE young
-1 REFN 0f180757-c230-48e9-9418-0a71999fc878
-1 RIN T298
-0 @T396@ NOTE young
-1 REFN c20dede5-a021-49b4-8517-b355fcb4f7a3
-1 RIN T396
-0 @T401@ NOTE young
-1 REFN 68d1f0fa-d95b-416b-836c-8e5f86a1f553
-1 RIN T401
-0 @T412@ NOTE young
-1 REFN 0d5daa59-c9ef-4ae8-a106-ec67c339799e
-1 RIN T412
-0 @T992@ NOTE young [date is just a guess]
-1 REFN a25d56a2-8d55-4f20-9a8c-9298962be786
-1 RIN T992
-0 @T993@ NOTE young [date is just a guess]
-1 REFN 98152b2e-6ae1-4f53-9cf8-67bbf0888172
-1 RIN T993
+1 REFN debcd97e-a270-4877-a01a-58107b00df1c
 0 TRLR

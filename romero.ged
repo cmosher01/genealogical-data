@@ -14,10 +14,11 @@
 1 SUBM @Umy2qBWIRUiwVSS6Hcn4@
 1 FILE Mosher_Disosway_Harrison_Pazmino_2017-08-03.ged
 1 DATE 19 SEP 2017
-2 TIME 20:22:10
+2 TIME 21:53:23
 0 @Umy2qBWIRUiwVSS6Hcn4@ SUBM
 1 NAME Christopher Alan Mosher
 1 RIN Umy2qBWIRUiwVSS6Hcn4
+1 REFN 4a0affcd-a71b-417a-96d5-fdd6a984554f
 0 @I801@ INDI
 1 REFN a36b9459-5e27-4781-a336-93e0a7241a73
 1 RIN I801
@@ -206,7 +207,7 @@
 4 CONC n Census Schedules, 1905; Election District: A.D. 18 E.D. 16
 4 CONC ; City: Brooklyn; County: Kings; Page: 34
 3 OBJE @50JmJ6bwS6egZLb2QJ9E@
-2 NOTE @T106@
+2 NOTE place from Joseph Dudley
 1 EVEN
 2 TYPE Arrival
 2 DATE 1901
@@ -279,7 +280,9 @@
 4 LONG W60.1268
 2 SOUR @S251@
 3 QUAY 1
-2 NOTE @T1115@
+2 NOTE With son Aquiles. Start date is a guess (based on death of h
+3 CONC usband). After Aquiles died in 1929, she moved back to Brook
+3 CONC lyn.
 1 RESI
 2 DATE 30 JUN 1919
 2 PLAC 85 Hicks Street, Brooklyn, Kings, New York, USA
@@ -354,7 +357,7 @@
 2 PLAC 2114 Glenwood Road, Brooklyn, Kings, New York, USA
 2 SOUR @S23@
 3 QUAY 3
-2 NOTE @T766@
+2 NOTE time: 1:30 PM ET
 1 BURI
 2 DATE 16 OCT 1940
 2 PLAC Evergreen Cemetery, Queens, Queens, New York, USA
@@ -394,8 +397,10 @@
 1 EMAIL
 1 PHON
 1 RIN R-899050557
+1 REFN e63b5b2a-f680-4b84-96b9-1f18319ab5bc
 0 @S-340038419@ SOUR
 1 _APID 1,7602::0
+1 REFN 1a59f9f9-293a-4bcb-a2f2-860c4f0c0472
 1 RIN S-340038419
 1 REPO @R-899050557@
 1 TITL 1900 United States Federal Census
@@ -404,6 +409,7 @@
 2 CONC : 2004
 0 @S-340037973@ SOUR
 1 _APID 1,7884::0
+1 REFN 878092d8-39e3-4dfa-8374-6d2ba5ec13c5
 1 RIN S-340037973
 1 REPO @R-899050557@
 1 TITL 1910 United States Federal Census
@@ -412,6 +418,7 @@
 2 CONC : 2006
 0 @S-340120723@ SOUR
 1 _APID 1,6061::0
+1 REFN 068f8ffa-e2e9-4456-b47c-757917e82601
 1 RIN S-340120723
 1 REPO @R-899050557@
 1 TITL 1920 United States Federal Census, OLD
@@ -420,6 +427,7 @@
 2 CONC : 2010
 0 @S-340304045@ SOUR
 1 _APID 1,6224::0
+1 REFN d173fccd-44b0-4491-95c3-3a4ce4648375
 1 RIN S-340304045
 1 REPO @R-899050557@
 1 TITL 1930 United States Federal Census
@@ -428,6 +436,7 @@
 2 CONC : 2002
 0 @S-340121165@ SOUR
 1 _APID 1,2442::0
+1 REFN f9081a1f-9b35-4ef2-9a88-91aa04406058
 1 RIN S-340121165
 1 REPO @R-899050557@
 1 TITL 1940 United States Federal Census, OLD
@@ -516,6 +525,7 @@
 1 TEXT FRANCISCA DE LOPEZ 1850-1940
 0 @S-322419782@ SOUR
 1 _APID 1,7364::0
+1 REFN ea8653ed-ff8a-4980-986d-8a4ca09c8757
 1 RIN S-322419782
 1 REPO @R-899050557@
 1 TITL New York, State Census, 1905
@@ -524,6 +534,7 @@
 2 CONC e: 2014
 0 @S-340037965@ SOUR
 1 _APID 1,2703::0
+1 REFN 940dc100-768e-40f0-8528-bb52bde7bc56
 1 RIN S-340037965
 1 REPO @R-899050557@
 1 TITL New York, State Census, 1915
@@ -953,6 +964,7 @@
 2 TITL 0253_Romero_Francisca
 2 _DATE 9/27/2013 8:55:28 PM
 1 RIN O18
+1 REFN 60c51968-e29c-42af-bb5e-d40a1fac2576
 0 @IsrzwjFfSjazD5UiS5pA@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\1900 United States Federal Census(5)
@@ -963,6 +975,7 @@
 3 CONC ; Roll: 1062; Page: 7B; Enumeration District: 0414; FHL micr
 3 CONC ofilm: 1241062
 1 RIN IsrzwjFfSjazD5UiS5pA
+1 REFN adbbddfb-587b-445c-973b-7a2ed15152f4
 0 @Ygq2HP45RUClwG4rOvj3@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\1910 United States Federal Census(5)
@@ -973,6 +986,7 @@
 3 CONC ; Roll: T624_982; Page: 3B; Enumeration District: 0931; FH
 3 CONC L microfilm: 1374995
 1 RIN Ygq2HP45RUClwG4rOvj3
+1 REFN 3fcbb4df-4575-467b-9de5-da9d90cf1f0e
 0 @LlmYYK6xQpy7jZ5xtDpr@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\1920 United States Federal Census(4)
@@ -982,6 +996,7 @@
 2 _TEXT Year: 1920; Census Place: Brooklyn Assembly District 1, King
 3 CONC s, New York
 1 RIN LlmYYK6xQpy7jZ5xtDpr
+1 REFN 5fe4e354-9a13-4fce-ae4f-0335fd4acf58
 0 @PFDQ3ZEzStSTdWpAMRqv@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\1930 United States Federal Census(4)
@@ -992,6 +1007,7 @@
 3 CONC 538; Page: 18A; Enumeration District: 877; Image: 827.0; FH
 3 CONC L microfilm: 2341273
 1 RIN PFDQ3ZEzStSTdWpAMRqv
+1 REFN f1553807-d179-4861-ba2b-515cbc039bbe
 0 @1e2a6xKTTVq8wijfRH2B@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\1940 United States Federal Census(5)
@@ -1001,6 +1017,7 @@
 2 _TEXT Year: 1940; Census Place: New York, Kings, New York; Roll: T
 3 CONC 627_2615; Page: 2A; Enumeration District: 24-2589
 1 RIN 1e2a6xKTTVq8wijfRH2B
+1 REFN cd77fe6d-3f67-4626-a3ba-111eb74e50cd
 0 @50JmJ6bwS6egZLb2QJ9E@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\New York, State Census, 1905(3).jpg
@@ -1010,6 +1027,7 @@
 3 CONC n Census Schedules, 1905; Election District: A.D. 18 E.D. 16
 3 CONC ; City: Brooklyn; County: Kings; Page: 34
 1 RIN 50JmJ6bwS6egZLb2QJ9E
+1 REFN c7d7f69b-baf0-4585-93db-aa0460d9ffde
 0 @fhHQgTtbTP2mLBDgKMIP@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\New York, State Census, 1915(2).jpg
@@ -1019,15 +1037,5 @@
 3 CONC n Census Schedules, 1915; Election District: 24; Assembly Di
 3 CONC strict: 18; City: New York; County: Kings; Page: 48
 1 RIN fhHQgTtbTP2mLBDgKMIP
-0 @T1115@ NOTE With son Aquiles. Start date is a guess (based on death of h
-1 CONC usband). After Aquiles died in 1929, she moved back to Brook
-1 CONC lyn.
-1 REFN e22cbd67-ec90-4ccd-a473-d6a3dd9241be
-1 RIN T1115
-0 @T106@ NOTE place from Joseph Dudley
-1 REFN c17ee9b3-6758-438c-ba37-4bfc8589e855
-1 RIN T106
-0 @T766@ NOTE time: 1:30 PM ET
-1 REFN 74b594eb-0043-4af4-a637-72c293f18ff8
-1 RIN T766
+1 REFN 009a89c9-6fbc-4676-b618-16783083fd9b
 0 TRLR

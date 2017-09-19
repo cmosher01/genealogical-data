@@ -14,12 +14,14 @@
 1 SUBM @Umy2qBWIRUiwVSS6Hcn4@
 1 FILE Mosher_Disosway_Harrison_Pazmino_2017-08-03.ged
 1 DATE 19 SEP 2017
-2 TIME 20:22:10
+2 TIME 21:53:29
 0 @Umy2qBWIRUiwVSS6Hcn4@ SUBM
 1 NAME Christopher Alan Mosher
 1 RIN Umy2qBWIRUiwVSS6Hcn4
+1 REFN ec02176d-1e5d-45ed-8331-31be5e36ea34
 0 @P2550@ INDI
 1 _XY 181504 4048
+1 REFN 2287b07c-4938-4b8f-974d-a3e0ef8105ab
 1 RIN P2550
 1 NAME George Swart /Bull/
 2 SOUR @S-340037973@
@@ -178,6 +180,7 @@
 3 CONC : Head
 0 @P2513@ INDI
 1 _XY 181860 3760
+1 REFN 8986562e-db17-444b-b03b-28914312bea1
 1 RIN P2513
 1 NAME Susan /Davenport/
 1 SEX F
@@ -196,6 +199,7 @@
 4 LONG W76.9369
 0 @P1280@ INDI
 1 _XY 182717 4011
+1 REFN 907ea277-5faa-46ac-b078-5f9fd6e05d0e
 1 RIN P1280
 1 NAME Leonard /Dodd/
 2 SOUR @S-340038419@
@@ -441,6 +445,7 @@
 3 CONC : Aunt
 0 @P1281@ INDI
 1 _XY 181635 3934
+1 REFN d7bf4578-7d23-4f79-9163-dea31f7917f4
 1 RIN P1281
 1 NAME Effingham P. /Edminster/
 2 SOUR @S-338823707@
@@ -543,6 +548,7 @@
 3 _APID 1,70572::1129545
 0 @P1283@ INDI
 1 _XY 181617 4042
+1 REFN 6f7cc92f-56ce-4d52-bfb7-fdfce4bd7faf
 1 RIN P1283
 1 NAME Jessie E. /Edminster/
 2 SOUR @S-340037973@
@@ -697,6 +703,7 @@
 3 _APID 1,60525::22965253
 0 @P2512@ INDI
 1 _XY 181754 3760
+1 REFN 95854072-bae6-4beb-851b-73f5e0960296
 1 RIN P2512
 1 NAME Lewis /Edminster/
 2 SOUR @S-340121694@
@@ -716,6 +723,7 @@
 4 LONG W76.9369
 0 @P1282@ INDI
 1 _XY 181754 4048
+1 REFN d28c6eb0-0840-43d3-a56b-28bdb6a0a48f
 1 RIN P1282
 1 NAME Rufus T. /Edminster/
 2 SOUR @S-340037973@
@@ -754,6 +762,7 @@
 3 CONC d of House: Head
 0 @P2541@ INDI
 1 _XY 182937 4011
+1 REFN bbe58a75-2265-4424-b990-21af3f400dc5
 1 RIN P2541
 1 NAME John W. /Githler/
 2 SOUR @S-340166898@
@@ -1029,7 +1038,7 @@
 4 CONC 3; Family History Film: 1254933; Page: 219A; Enumeration Dis
 4 CONC trict: 173; Image: 0441
 3 OBJE @fQnkWAo1TjCPvZY0qX1V@
-2 NOTE @T1077@
+2 NOTE date is from 1860 census
 1 RESI
 2 DATE 1855
 2 PLAC Erwin, Steuben, New York, USA
@@ -1112,6 +1121,7 @@
 3 CONC : Mother
 0 @P1279@ INDI
 1 _XY 182242 4017
+1 REFN 04391868-79a3-4392-a577-93b837c53676
 1 RIN P1279
 1 NAME Mary M. /Pier/
 2 SOUR @S-340166898@
@@ -1322,7 +1332,7 @@
 2 SOUR @S-301664923@
 3 _APID 1,7218::728636
 3 OBJE @KnBn1AMqRWKxSzKD5NjD@
-2 NOTE @T1050@
+2 NOTE place is from 1841 England census
 1 BAPM
 2 DATE 05 SEP 1824
 2 PLAC St. Thomas', Stockton-on-Tees, Durham, England
@@ -1359,7 +1369,7 @@
 4 LONG W73.9721
 2 SOUR @S558@
 3 QUAY 3
-2 NOTE @T908@
+2 NOTE On ship "Hermes."
 1 EVEN
 2 TYPE Arrival
 2 DATE 05 JUL 1849
@@ -1458,7 +1468,7 @@
 4 LONG W77.0547
 2 SOUR @S206@
 3 QUAY 1
-2 NOTE @T109@
+2 NOTE Steuben Co. Abstract of Wills and Admins. gives Feb 1872
 0 @I2333@ INDI
 1 _XY 183517 3856
 1 REFN edc1c1d7-d005-4603-8e30-6c4582320ea9
@@ -2169,7 +2179,8 @@
 3 QUAY 0
 2 SOUR @S-313778072@
 3 _APID 1,60525::46327910
-2 NOTE @T240@
+2 NOTE Applicants Working Sheet DAR agrees
+3 CONT [need to check NY Vital Records: death certificate #22790]
 1 BURI
 2 PLAC Central Valley Cemetery, Hornby, Steuben, New York, USA
 2 SOUR @S209@
@@ -2239,7 +2250,8 @@
 2 SOUR @S-333148567@
 3 _APID 1,7250::1382745708
 3 OBJE @C3iqw5i7RgCIgdisY7Lx@
-2 NOTE @T1129@
+2 NOTE Believe she is listed in 1900 census as "Lizzie H Edminster
+3 CONC " in Conklin, Broome, NY.
 1 RESI
 2 DATE 1865
 2 PLAC Corning, Steuben, New York, USA
@@ -2679,7 +2691,8 @@
 2 SOUR @S-301664923@
 3 _APID 1,7218::728639
 3 OBJE @KnBn1AMqRWKxSzKD5NjD@
-2 NOTE @T1124@
+2 NOTE 1900 US Census (listed under "Sabinia Dodd or Lavinia Dodd
+3 CONC , etc." Place is just assumed.
 1 RESI
 2 DATE 1855
 2 PLAC Corning, Steuben, New York, USA
@@ -2860,7 +2873,7 @@
 2 SOUR @S622@
 2 SOUR @S-313778072@
 3 _APID 1,60525::106593300
-2 NOTE @T1123@
+2 NOTE in the morning, at a nursing home
 1 BURI
 2 DATE NOV 1942
 2 PLAC Hope Cemetery, Corning, Steuben, New York, USA
@@ -3160,7 +3173,7 @@
 4 LONG W73.9721
 2 SOUR @S558@
 3 QUAY 3
-2 NOTE @T909@
+2 NOTE On ship "Hermes."
 1 EVEN
 2 TYPE Arrival
 2 DATE 05 JUL 1849
@@ -3471,13 +3484,15 @@
 2 SOUR @S-333148567@
 3 _APID 1,7250::1382745705
 3 OBJE @C3iqw5i7RgCIgdisY7Lx@
-2 NOTE @T1052@
+2 NOTE 1850 US Census gives England; 1841 England census gives ag
+3 CONC e 15 (b. c. 1826)
 1 CENS
 2 DATE 06 JUN 1841
 2 PLAC Castle Building, Stockton-on-Tees, Durham, England
 2 SOUR @S626@
 3 QUAY 3
-2 NOTE @T1051@
+2 NOTE somewhere in the neighborhood of High Street and Park Row i
+3 CONC n Stockton upon Tees
 1 RESI
 2 DATE 14 AUG 1847
 2 PLAC North Street, Middlesbrough, Stockton-on-Tees, Durham, Engla
@@ -3492,7 +3507,10 @@
 4 LONG W73.9721
 2 SOUR @S558@
 3 QUAY 3
-2 NOTE @T1053@
+2 NOTE On ship "Hermes." In 1849, there was an HMS Hermes (the sixt
+3 CONC h ship so named), an 830 ton paddle wheel sloop, launched i
+3 CONC n 1835, and was sold for breaking up in 1864. Is this the sh
+3 CONC ip the Taylorsons immigrated on?
 1 EVEN
 2 TYPE Arrival
 2 DATE 05 JUL 1849
@@ -3656,7 +3674,8 @@
 3 MAP
 4 LATI N42.167
 4 LONG W76.8205
-2 NOTE @T1047@
+2 NOTE There is a Thomas "Tailerson" in Horsehaeads in 1880 censu
+3 CONC s married to a Catharine; could this be him re-married?
 1 RESI
 2 DATE 1880
 2 PLAC Horseheads, Chemung, New York, USA
@@ -3683,7 +3702,7 @@
 2 PLAC Hope Cemetery, Corning, Steuben, New York, USA
 2 SOUR @S206@
 3 QUAY 1
-2 NOTE @T1046@
+2 NOTE date is just a guess based on death date
 1 OCCU ran funeral home
 2 PLAC Corning, Steuben, New York, USA
 3 MAP
@@ -3739,7 +3758,9 @@
 4 CONC : M653_863; Page: 217; Image: 222; Family History Library Fi
 4 CONC lm: 803863
 3 OBJE @i7DVqwWMR0KFlsIWQElR@
-2 NOTE @T1045@
+2 NOTE Steuben Co. is from 1860 census; Painted Post is assumed fro
+3 CONC m place of residence in 1850 census (when he was two month
+3 CONC s old).
 1 RESI
 2 DATE 1850
 2 PLAC Painted Post, Steuben, New York, USA
@@ -3779,12 +3800,15 @@
 3 MAP
 4 LATI N42.1429
 4 LONG W77.0547
-2 NOTE @T994@
+2 NOTE This is just a pure guess, based on the fact that he is in t
+3 CONC he 1860 census, but not in the 1870 census.
 0 @F_P2550_P1283@ FAM
+1 REFN 5c505ddf-fb8a-488c-a1bd-34b464953e7b
 1 RIN F_P2550_P1283
 1 HUSB @P2550@
 1 WIFE @P1283@
 0 @F_P1280_I594@ FAM
+1 REFN 5cc2fceb-b6c8-4ed0-beda-9686e15e9568
 1 RIN F_P1280_I594
 1 HUSB @P1280@
 1 WIFE @I594@
@@ -3797,18 +3821,21 @@
 4 CONC ofilm: 1241016
 3 OBJE @VQk2RwBoTnOjwPx282J1@
 0 @F_P1281_I595@ FAM
+1 REFN 711d2971-b372-4366-b86c-de91eb593d30
 1 RIN F_P1281_I595
 1 HUSB @P1281@
 1 WIFE @I595@
 1 CHIL @P1282@
 1 CHIL @P1283@
 0 @F_P2512_P2513@ FAM
+1 REFN 071c0949-a813-4f8d-83ba-b8ad3b0c7b2b
 1 RIN F_P2512_P2513
 1 HUSB @P2512@
 1 WIFE @P2513@
 1 CHIL @I2341@
 1 CHIL @P1281@
 0 @F_P2541_I720@ FAM
+1 REFN 1334ca67-a8ba-4615-b289-ccdcb96f2c60
 1 RIN F_P2541_I720
 1 HUSB @P2541@
 1 WIFE @I720@
@@ -3839,6 +3866,7 @@
 2 SOUR @S693@
 3 QUAY 1
 0 @F_I592_P1279@ FAM
+1 REFN 1869b511-8ad7-4d55-8b37-e48125efca75
 1 RIN F_I592_P1279
 1 HUSB @I592@
 1 WIFE @P1279@
@@ -3903,7 +3931,7 @@
 4 LONG W76.8205
 2 SOUR @S692@
 3 QUAY 1
-2 NOTE @T1131@
+2 NOTE by Reverend Mr. Bowman
 0 @F_I183_I184@ FAM
 1 REFN 6143300b-0898-40ba-b12d-e6ef3605b018
 1 RIN F_I183_I184
@@ -3932,13 +3960,16 @@
 1 EMAIL
 1 PHON
 1 RIN R-899050557
+1 REFN 28372fb9-e374-42b1-b2e2-2aa9c5714f26
 0 @dIuP1jfcRrCeiZcZz5qZ@ REPO
 1 NAME Ancestry.com, II, OLD
 1 ADDR
 1 EMAIL
 1 PHON
 1 RIN dIuP1jfcRrCeiZcZz5qZ
+1 REFN 41e4d161-3d32-456e-b2e3-2ef5fd499678
 0 @S-340303979@ SOUR
+1 REFN d7481680-ac92-49d4-9cbe-81c4287c5b3c
 1 RIN S-340303979
 1 REPO @R-899050557@
 1 TITL 1841 England Census
@@ -3947,6 +3978,7 @@
 2 CONC : 2010
 0 @S-340037843@ SOUR
 1 _APID 1,8054::0
+1 REFN e4378df5-60e2-454e-b8c0-b8bc8c34f553
 1 RIN S-340037843
 1 REPO @R-899050557@
 1 TITL 1850 United States Federal Census
@@ -3955,6 +3987,7 @@
 2 CONC e: 2009
 0 @S-340166919@ SOUR
 1 _APID 1,7667::0
+1 REFN 2e9de23c-5897-4bf2-a4a2-fa0f374ea103
 1 RIN S-340166919
 1 REPO @R-899050557@
 1 TITL 1860 United States Federal Census
@@ -3963,6 +3996,7 @@
 2 CONC e: 2009
 0 @S-338823707@ SOUR
 1 _APID 1,7163::0
+1 REFN 5eab0f70-911c-4599-9786-0b345c22e185
 1 RIN S-338823707
 1 REPO @R-899050557@
 1 TITL 1870 United States Federal Census
@@ -3971,6 +4005,7 @@
 2 CONC e: 2009
 0 @S-340166898@ SOUR
 1 _APID 1,6742::0
+1 REFN 5d5d0eb7-77dc-4076-845c-e52dbfd680ea
 1 RIN S-340166898
 1 REPO @R-899050557@
 1 TITL 1880 United States Federal Census
@@ -3980,6 +4015,7 @@
 2 CONC : 2010
 0 @S-340038419@ SOUR
 1 _APID 1,7602::0
+1 REFN 46b3831d-b1f3-4dde-a073-4d6310c5c0c8
 1 RIN S-340038419
 1 REPO @R-899050557@
 1 TITL 1900 United States Federal Census
@@ -3988,6 +4024,7 @@
 2 CONC : 2004
 0 @S-340037973@ SOUR
 1 _APID 1,7884::0
+1 REFN 3e80ac6a-6d60-4d8a-9f49-fb6b70b7ee0f
 1 RIN S-340037973
 1 REPO @R-899050557@
 1 TITL 1910 United States Federal Census
@@ -3995,6 +4032,7 @@
 1 PUBL Ancestry.com Operations Inc; Location: Provo, UT, USA; Date
 2 CONC : 2006
 0 @S-340304044@ SOUR
+1 REFN b6ed10f2-f18d-4fe3-bd7f-b383c7044f24
 1 RIN S-340304044
 1 REPO @dIuP1jfcRrCeiZcZz5qZ@
 1 TITL 1920 United States Federal Census
@@ -4011,6 +4049,7 @@
 2 CONC 9 are on roll 323 (Chicago City).
 0 @S-340120723@ SOUR
 1 _APID 1,6061::0
+1 REFN 4e44e437-12a8-4f5a-abf2-c1994f828bf9
 1 RIN S-340120723
 1 REPO @R-899050557@
 1 TITL 1920 United States Federal Census, OLD
@@ -4019,6 +4058,7 @@
 2 CONC : 2010
 0 @S-340304045@ SOUR
 1 _APID 1,6224::0
+1 REFN 604a2995-325a-49e2-8a04-ecf91a67741e
 1 RIN S-340304045
 1 REPO @R-899050557@
 1 TITL 1930 United States Federal Census
@@ -4026,6 +4066,7 @@
 1 PUBL Ancestry.com Operations Inc; Location: Provo, UT, USA; Date
 2 CONC : 2002
 0 @S-340304056@ SOUR
+1 REFN 61d7e281-450b-4ef8-bf38-6e12fda8cc84
 1 RIN S-340304056
 1 REPO @dIuP1jfcRrCeiZcZz5qZ@
 1 TITL 1940 United States Federal Census
@@ -4065,6 +4106,7 @@
 2 CONT d: Lavina Dodd, Hattie Edminster, Hannah Harrison<br />
 2 CONT s: George O.
 0 @S-340304055@ SOUR
+1 REFN 8c7a45a4-7e91-4b5a-b0a7-2a6e05354cd0
 1 RIN S-340304055
 1 REPO @R-899050557@
 1 TITL Ancestry Family Trees
@@ -4077,6 +4119,7 @@
 2 CONT The owners of these tree files may have removed or changed i
 2 CONC nformation since this source citation was created.
 0 @S-340121694@ SOUR
+1 REFN 9c7744ac-0a1d-4672-87fa-98d713518673
 1 RIN S-340121694
 1 REPO @R-899050557@
 1 TITL Ancestry Family Trees, OLD
@@ -4366,6 +4409,7 @@
 1 AUTH [Winn, Nancy] NancyWinn51 ancestry.com user
 1 PUBL ancestry.com
 0 @cMIuSPXAQBGU7j9MVfaQ@ SOUR
+1 REFN fa5074df-3dcc-4728-923f-a7539f56bdda
 1 RIN cMIuSPXAQBGU7j9MVfaQ
 1 REPO @dIuP1jfcRrCeiZcZz5qZ@
 1 TITL England & Wales, Civil Registration Birth Index, 1837-1915
@@ -4381,6 +4425,7 @@
 2 CONC m Hart, Ben Laurie, Camilla von Massenbach and David Mayall.
 0 @S251805419@ SOUR
 1 _APID 1,8912::0
+1 REFN 5548731d-6276-4fda-a827-e828bff06666
 1 RIN S251805419
 1 REPO @R-899050557@
 1 TITL England & Wales, FreeBMD Birth Index, 1837-1915
@@ -4389,6 +4434,7 @@
 2 CONC : 2006
 0 @S-300872792@ SOUR
 1 _APID 1,8914::0
+1 REFN 1621b523-222c-4e13-83e0-e8b01a366ce9
 1 RIN S-300872792
 1 REPO @R-899050557@
 1 TITL England & Wales, FreeBMD Death Index, 1837-1915
@@ -4397,6 +4443,7 @@
 2 CONC : 2006
 0 @S-300257066@ SOUR
 1 _APID 1,8913::0
+1 REFN 3556fe10-312b-4fb6-a62e-5ec65696b0b5
 1 RIN S-300257066
 1 REPO @R-899050557@
 1 TITL England & Wales, FreeBMD Marriage Index, 1837-1915
@@ -4547,6 +4594,7 @@
 2 CONT </table>
 0 @S-300257057@ SOUR
 1 _APID 1,9841::0
+1 REFN 0c0d7b95-dd39-4014-8c02-16ae6e9db7b8
 1 RIN S-300257057
 1 REPO @R-899050557@
 1 TITL England, Select Births and Christenings, 1538-1975
@@ -4555,6 +4603,7 @@
 2 CONC e: 2014
 0 @S-291934883@ SOUR
 1 _APID 1,9852::0
+1 REFN c9b320bd-c2b6-4720-a1e3-4d2c72c88366
 1 RIN S-291934883
 1 REPO @R-899050557@
 1 TITL England, Select Marriages, 1538–1973
@@ -4563,6 +4612,7 @@
 2 CONC e: 2014
 0 @S-301668852@ SOUR
 1 _APID 1,8842::0
+1 REFN 0aa5ab46-0bb6-4681-a5ee-89bbddacc423
 1 RIN S-301668852
 1 REPO @R-899050557@
 1 TITL Florida Passenger Lists, 1898-1964
@@ -5006,6 +5056,7 @@
 2 CONT </tbody>
 2 CONT </table>
 0 @nRNMZacHTCKNmTBeSG7l@ SOUR
+1 REFN ed054794-d76c-48ee-a50f-b1ccf715b4bb
 1 RIN nRNMZacHTCKNmTBeSG7l
 1 REPO @dIuP1jfcRrCeiZcZz5qZ@
 1 TITL New York, Irish Immigrant Arrival Records, 1846-1851
@@ -5016,6 +5067,7 @@
 2 CONC C.: National Archives and Records Administration.
 0 @S-340119858@ SOUR
 1 _APID 1,7488::0
+1 REFN 483ac81a-1fc2-483b-9a40-4973d858493d
 1 RIN S-340119858
 1 REPO @R-899050557@
 1 TITL New York, Passenger Lists, 1820-1957
@@ -5024,6 +5076,7 @@
 2 CONC e: 2010
 0 @S-330979816@ SOUR
 1 _APID 1,7181::0
+1 REFN f995469d-de6e-4f8a-b9b5-5d2a0ffd5e25
 1 RIN S-330979816
 1 REPO @R-899050557@
 1 TITL New York, State Census, 1855
@@ -5032,6 +5085,7 @@
 2 CONC e: 2013
 0 @S-301664923@ SOUR
 1 _APID 1,7218::0
+1 REFN 59225912-66cd-4d33-a51e-147570d74d6c
 1 RIN S-301664923
 1 REPO @R-899050557@
 1 TITL New York, State Census, 1865
@@ -5040,6 +5094,7 @@
 2 CONC e: 2014
 0 @S-333148567@ SOUR
 1 _APID 1,7250::0
+1 REFN 70b53fc8-be2b-480f-940d-34fb9697f10b
 1 RIN S-333148567
 1 REPO @R-899050557@
 1 TITL New York, State Census, 1875
@@ -5048,6 +5103,7 @@
 2 CONC e: 2013
 0 @S-339390060@ SOUR
 1 _APID 1,3212::0
+1 REFN 421a3559-6aa7-465c-ab13-479137b518e3
 1 RIN S-339390060
 1 REPO @R-899050557@
 1 TITL New York, State Census, 1892
@@ -5056,6 +5112,7 @@
 2 CONC e: 2012
 0 @S-322419782@ SOUR
 1 _APID 1,7364::0
+1 REFN e6b7df74-cd4b-4460-a429-54751ee5401f
 1 RIN S-322419782
 1 REPO @R-899050557@
 1 TITL New York, State Census, 1905
@@ -5064,6 +5121,7 @@
 2 CONC e: 2014
 0 @S-340037965@ SOUR
 1 _APID 1,2703::0
+1 REFN 27f04933-14e3-44e9-8670-40c6cfe55434
 1 RIN S-340037965
 1 REPO @R-899050557@
 1 TITL New York, State Census, 1915
@@ -5072,6 +5130,7 @@
 2 CONC e: 2012
 0 @S-333322453@ SOUR
 1 _APID 1,2704::0
+1 REFN 1b6cb1fe-cfa3-4ce4-877e-c4fdbb846eed
 1 RIN S-333322453
 1 REPO @R-899050557@
 1 TITL New York, State Census, 1925
@@ -5398,6 +5457,7 @@
 2 CONC <br />
 2 CONT Hannah Harrison/J. H. DAMPF./Corning, N.Y.
 0 @S-330866504@ SOUR
+1 REFN 84ed57df-a4ba-4112-8a6f-3a366a3bb339
 1 RIN S-330866504
 1 TITL Steuben County (New York) Land Deeds
 1 AUTH Steuben County (New York)
@@ -5441,6 +5501,7 @@
 1 AUTH Ancestry.com
 1 PUBL Provo, UT, USA: Ancestry.com Operations, Inc., 2010
 0 @S-340303855@ SOUR
+1 REFN fa59e7d8-204f-4737-a6ee-b5f95e9009b8
 1 RIN S-340303855
 1 REPO @dIuP1jfcRrCeiZcZz5qZ@
 1 TITL U.S. City Directories
@@ -5454,6 +5515,7 @@
 2 CONC ication information.
 0 @S-333067367@ SOUR
 1 _APID 1,2469::0
+1 REFN 97848603-79f1-4dcd-abc8-0e58523481b3
 1 RIN S-333067367
 1 REPO @R-899050557@
 1 TITL U.S. City Directories, 1821-1989
@@ -5461,6 +5523,7 @@
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2011
 0 @Az56mpgwSMelraoOX2HL@ SOUR
+1 REFN 5279ef12-0e5f-41a7-9116-fa55425df9aa
 1 RIN Az56mpgwSMelraoOX2HL
 1 REPO @dIuP1jfcRrCeiZcZz5qZ@
 1 TITL U.S. City Directories, 1822-1995
@@ -5473,6 +5536,7 @@
 2 CONT Check the directory title page image for full title and publ
 2 CONC ication information.
 0 @S-340303976@ SOUR
+1 REFN 475d9a39-7fbf-421f-84dd-a51602b2b69c
 1 RIN S-340303976
 1 REPO @dIuP1jfcRrCeiZcZz5qZ@
 1 TITL U.S. IRS Tax Assessment Lists, 1862-1918
@@ -5486,6 +5550,7 @@
 2 CONC e Citations</a>.</p>
 0 @S-313778072@ SOUR
 1 _APID 1,60525::0
+1 REFN 3c2005c6-3d38-46be-80f8-7100e468f384
 1 RIN S-313778072
 1 REPO @R-899050557@
 1 TITL U.S., Find A Grave Index, 1600s-Current
@@ -5494,6 +5559,7 @@
 2 CONC e: 2012
 0 @S-333070379@ SOUR
 1 _APID 1,6482::0
+1 REFN fda57307-52d8-4d6e-a2c8-209984c57b81
 1 RIN S-333070379
 1 REPO @R-899050557@
 1 TITL U.S., World War I Draft Registration Cards, 1917-1918
@@ -5807,6 +5873,7 @@
 1 AUTH US Census Bureau
 0 @S-340037888@ SOUR
 1 _APID 1,70572::0
+1 REFN 8f80be72-7f09-4ab0-87cc-ae5d90ca3842
 1 RIN S-340037888
 1 REPO @R-899050557@
 1 TITL Web: New York, Find A Grave Index, 1660-2012
@@ -5824,6 +5891,7 @@
 2 TITL 0002_Taylorson_Hannah_L
 2 _DATE 9/26/2013 9:19:12 PM
 1 RIN O46
+1 REFN 952ba9ab-8b1c-445d-b197-2b8d533aee6d
 0 @O113@ OBJE
 1 FILE http://trees.ancestry.com/rd?f=image&guid=692dc157-b161-4877
 2 CONC -89f5-91ae7da390d9&tid=61407337
@@ -5835,6 +5903,7 @@
 2 TITL 0019_Taylorson_Jessie
 2 _DATE 9/26/2013 10:07:41 PM
 1 RIN O113
+1 REFN 3e01ce36-1c3d-46cd-b528-c8f264ec4591
 0 @O114@ OBJE
 1 FILE http://trees.ancestry.com/rd?f=image&guid=ed602de8-0234-4a49
 2 CONC -8740-66e28656bc76&tid=61407337
@@ -5846,6 +5915,7 @@
 2 TITL 0019_Taylorson_Lavinia
 2 _DATE 9/26/2013 10:08:15 PM
 1 RIN O114
+1 REFN 5eba02f4-a445-4368-9920-2fcef6197da3
 0 @O150@ OBJE
 1 FILE http://trees.ancestry.com/rd?f=image&guid=79d424d8-2a62-4dea
 2 CONC -91b0-1634a9511180&tid=61407337
@@ -5857,6 +5927,7 @@
 2 TITL 0090_Edminster_Jessie_E
 2 _DATE 9/27/2013 8:21:45 PM
 1 RIN O150
+1 REFN 6930b603-185d-4264-8529-18eeec16698b
 0 @rPOti2OcQGGwtN0KxSg8@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\1841 England Census.jpg
@@ -5866,6 +5937,7 @@
 3 CONC pon Tees; County: Durham; Enumeration District: 2; Folio: 27
 3 CONC ; Page: 22; Line: 18; GSU roll: 241357
 1 RIN rPOti2OcQGGwtN0KxSg8
+1 REFN 7f83244d-f88b-4f79-8bca-22373a1dcb54
 0 @NVnClT2BQdGWzL77Podj@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\1850 United States Federal Census(8)
@@ -5875,6 +5947,7 @@
 2 _TEXT Year: 1850; Census Place: Painted Post, Steuben, New York; R
 3 CONC oll: M432_598; Page: 1A; Image: 9
 1 RIN NVnClT2BQdGWzL77Podj
+1 REFN 965ca434-b667-4944-a144-0e0894742d1e
 0 @i7DVqwWMR0KFlsIWQElR@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\1860 United States Federal Census(12
@@ -5885,6 +5958,7 @@
 3 CONC : M653_863; Page: 217; Image: 222; Family History Library Fi
 3 CONC lm: 803863
 1 RIN i7DVqwWMR0KFlsIWQElR
+1 REFN 9c2a1d10-f56a-49c4-8db5-4ea53794b087
 0 @LRhdN703QBGA33sGT2s9@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\1860 United States Federal Census(38
@@ -5895,6 +5969,7 @@
 3 CONC 653_730; Page: 422; Image: 44; Family History Library Film
 3 CONC : 803730
 1 RIN LRhdN703QBGA33sGT2s9
+1 REFN 2a60f3ce-39d2-4b67-b6f6-3727900abd9d
 0 @mBC0NTnYTby9da32Jb0W@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\1870 United States Federal Census(9)
@@ -5905,6 +5980,7 @@
 3 CONC : M593_1095; Page: 49A; Image: 102; Family History Library F
 3 CONC ilm: 552594
 1 RIN mBC0NTnYTby9da32Jb0W
+1 REFN 4b8ef700-fd9d-49f6-bb76-2d5c170c5364
 0 @oIi9T8y6S62OJV2bBR4V@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\1870 United States Federal Census(40
@@ -5915,6 +5991,7 @@
 3 CONC 593_1095; Page: 223A; Image: 456; Family History Library Fil
 3 CONC m: 552594
 1 RIN oIi9T8y6S62OJV2bBR4V
+1 REFN 45718147-d28c-4749-bcb8-665a6ab9b4f2
 0 @6Mk8LL04SJ6cNDUJs0j9@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\1870 United States Federal Census(53
@@ -5925,6 +6002,7 @@
 3 CONC 93_1095; Page: 158A; Image: 324; Family History Library Film
 3 CONC : 552594
 1 RIN 6Mk8LL04SJ6cNDUJs0j9
+1 REFN 61062653-d010-421a-9e9c-9e4b8ca7f58d
 0 @esE1exOMQsO8h8gShqXE@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\1870 United States Federal Census(56
@@ -5935,6 +6013,7 @@
 3 CONC : M593_914; Page: 32B; Image: 69; Family History Library Fil
 3 CONC m: 552413
 1 RIN esE1exOMQsO8h8gShqXE
+1 REFN cfe08e68-0fc9-452f-b3e8-26ca7a03aeff
 0 @9aMZVT8cRDyYaHTP177r@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\1880 United States Federal Census(1)
@@ -5945,6 +6024,7 @@
 3 CONC 33; Family History Film: 1254933; Page: 266C; Enumeration Di
 3 CONC strict: 177; Image: 0536
 1 RIN 9aMZVT8cRDyYaHTP177r
+1 REFN 19b7a019-71c8-4d1c-bf5c-e7f5b5c5c867
 0 @GIwXDtnySki4dYkFzxpV@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\1880 United States Federal Census(6)
@@ -5955,6 +6035,7 @@
 3 CONC l: 817; Family History Film: 1254817; Page: 510D; Enumeratio
 3 CONC n District: 083; Image: 0600
 1 RIN GIwXDtnySki4dYkFzxpV
+1 REFN 402e2bf6-94cf-4da3-97f8-30f79b7e140d
 0 @ormD1wcuRfigkdztWumT@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\1880 United States Federal Census(20
@@ -5965,6 +6046,7 @@
 3 CONC ; Family History Film: 1254828; Page: 35B; Enumeration Distr
 3 CONC ict: 120; Image: 0426
 1 RIN ormD1wcuRfigkdztWumT
+1 REFN b2b87235-74c4-492e-bfff-c5705d349eeb
 0 @lOeLNVaqRjaSI16jOVGs@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\1880 United States Federal Census(22
@@ -5975,6 +6057,7 @@
 3 CONC : 933; Family History Film: 1254933; Page: 167A; Enumeratio
 3 CONC n District: 171; Image: 0337
 1 RIN lOeLNVaqRjaSI16jOVGs
+1 REFN edb7d5d5-325d-4955-950b-559a4ae8c0e8
 0 @fQnkWAo1TjCPvZY0qX1V@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\1880 United States Federal Census(38
@@ -5985,6 +6068,7 @@
 3 CONC 3; Family History Film: 1254933; Page: 219A; Enumeration Dis
 3 CONC trict: 173; Image: 0441
 1 RIN fQnkWAo1TjCPvZY0qX1V
+1 REFN 9cf51969-fae4-4dca-9ac8-9471c1377407
 0 @zOT2KzKCTjW0UzZQeSZX@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\1880 United States Federal Census(42
@@ -5995,6 +6079,7 @@
 3 CONC : 933; Family History Film: 1254933; Page: 165B; Enumeratio
 3 CONC n District: 171; Image: 0334
 1 RIN zOT2KzKCTjW0UzZQeSZX
+1 REFN 93d9efd9-78dd-4798-a67a-1e40bb980413
 0 @sBdHY0zOQC6xmNE4HTNp@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\1900 United States Federal Census(22
@@ -6005,6 +6090,7 @@
 3 CONC : 1011; Page: 4A; Enumeration District: 0056; FHL microfilm
 3 CONC : 1241011
 1 RIN sBdHY0zOQC6xmNE4HTNp
+1 REFN 95636459-7be3-4107-bf53-330b7da1197f
 0 @VQk2RwBoTnOjwPx282J1@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\1900 United States Federal Census(26
@@ -6015,6 +6101,7 @@
 3 CONC ; Roll: 1016; Page: 7B; Enumeration District: 0029; FHL micr
 3 CONC ofilm: 1241016
 1 RIN VQk2RwBoTnOjwPx282J1
+1 REFN 7be513af-5032-4054-b811-a495c5d22b60
 0 @B9jcZzTaQx6NB8T3GURm@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\1900 United States Federal Census(41
@@ -6025,6 +6112,7 @@
 3 CONC 63; Page: 6B; Enumeration District: 0082; FHL microfilm: 124
 3 CONC 1163
 1 RIN B9jcZzTaQx6NB8T3GURm
+1 REFN 7cd2b5c7-e874-470f-b440-0c8081a466e1
 0 @mMznT0nkS2yyUctsRN93@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\1900 United States Federal Census(47
@@ -6035,6 +6123,7 @@
 3 CONC : 1016; Page: 2B; Enumeration District: 0003; FHL microfilm
 3 CONC : 1241016
 1 RIN mMznT0nkS2yyUctsRN93
+1 REFN b5dc3066-c22f-4096-9c1c-062239c54058
 0 @v6USbfS7SAeMAXBMO8mg@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\1910 United States Federal Census(18
@@ -6045,6 +6134,7 @@
 3 CONC k; Roll: T624_927; Page: 7A; Enumeration District: 0078; FH
 3 CONC L microfilm: 1374940
 1 RIN v6USbfS7SAeMAXBMO8mg
+1 REFN 680bd5e5-683b-44fb-acbb-2c5eb5fb56fc
 0 @upns1GC9RTKT4QR2XdrG@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\1910 United States Federal Census(22
@@ -6055,6 +6145,7 @@
 3 CONC ; Roll: T624_931; Page: 4B; Enumeration District: 0032; FH
 3 CONC L microfilm: 1374944
 1 RIN upns1GC9RTKT4QR2XdrG
+1 REFN f51059d6-609d-4ddc-af2c-35c9a206b1f3
 0 @Q6Oh0tY7Q0OCL5hznJzG@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\1910 United States Federal Census(27
@@ -6065,6 +6156,7 @@
 3 CONC ll: T624_1423; Page: 12A; Enumeration District: 0170; FHL mi
 3 CONC crofilm: 1375436
 1 RIN Q6Oh0tY7Q0OCL5hznJzG
+1 REFN 3e2c58e6-70f5-4c80-bd40-f7de96494cf3
 0 @N6MdJCcXTgqwugyhw6o0@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\1910 United States Federal Census(40
@@ -6075,6 +6167,7 @@
 3 CONC : T624_931; Page: 8A; Enumeration District: 0004; FHL microf
 3 CONC ilm: 1374944
 1 RIN N6MdJCcXTgqwugyhw6o0
+1 REFN 5190d12e-785e-476f-819a-51b7a2bb486c
 0 @8wrZMuJnTGargWFwQAw8@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\1920 United States Federal Census(11
@@ -6084,6 +6177,7 @@
 2 _TEXT Year: 1920; Census Place: Olean Ward 3, Cattaraugus, New Yor
 3 CONC k
 1 RIN 8wrZMuJnTGargWFwQAw8
+1 REFN 914fade4-000d-4602-a966-f2605b42862b
 0 @yt0paVn6RyKWWTkW7nNu@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\1920 United States Federal Census(16
@@ -6092,6 +6186,7 @@
 2 TITL 1920 United States Federal Census
 2 _TEXT Year: 1920; Census Place: Elmira Ward 9, Chemung, New York
 1 RIN yt0paVn6RyKWWTkW7nNu
+1 REFN 624dd24f-edf2-47b7-bebc-145b7d2ff6b3
 0 @LinCm6e8Ra2lG1jeQBpC@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\1920 United States Federal Census(33
@@ -6101,6 +6196,7 @@
 2 _TEXT Year: 1920; Census Place: Triangle, Broome, New York; Roll
 3 CONC : T625_1085; Page: 5B; Enumeration District: 84; Image: 424
 1 RIN LinCm6e8Ra2lG1jeQBpC
+1 REFN b42c21ab-8f91-45e4-ae12-a2c2f8eaeaf1
 0 @0P8etmd5S4WqiGvzFTL6@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\1930 United States Federal Census(10
@@ -6111,6 +6207,7 @@
 3 CONC 415; Page: 2A; Enumeration District: 31; FHL microfilm: 2341
 3 CONC 150
 1 RIN 0P8etmd5S4WqiGvzFTL6
+1 REFN e86cb2c9-7e2f-43e0-b585-0b20cd5540e4
 0 @ntAnF0nSSwKw6p6NhxBp@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\1930 United States Federal Census(23
@@ -6121,6 +6218,7 @@
 3 CONC ia; Roll: 345; Page: 5B; Enumeration District: 0059; Image
 3 CONC : 571.0; FHL microfilm: 2340080
 1 RIN ntAnF0nSSwKw6p6NhxBp
+1 REFN e821f726-4fc9-4be3-a48d-b4a165ad2b7e
 0 @C03WdhGDSI6y8uEPPk42@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\1940 United States Federal Census(16
@@ -6130,6 +6228,7 @@
 2 _TEXT Year: 1940; Census Place: Elmira, Chemung, New York; Roll: T
 3 CONC 627_2514; Page: 3A; Enumeration District: 8-57
 1 RIN C03WdhGDSI6y8uEPPk42
+1 REFN 68cfec90-931a-486e-8f68-ebfd7bbfe7e2
 0 @MV6h77J4RKWc6ZZhn771@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\1940 United States Federal Census(25
@@ -6139,6 +6238,7 @@
 2 _TEXT Year: 1940; Census Place: New York, New York, New York; Roll
 3 CONC : T627_2656; Page: 61A; Enumeration District: 31-1374
 1 RIN MV6h77J4RKWc6ZZhn771
+1 REFN 78ddbd9f-ccb8-4c16-a664-1ed59542cdad
 0 @O112@ OBJE
 1 FILE http://trees.ancestry.com/rd?f=image&guid=74084c77-4275-4c60
 2 CONC -b51a-32178561f201&tid=61407337
@@ -6153,6 +6253,7 @@
 3 CONC d warehouse of Thomas Taylorson, from Corning (New York) Jou
 3 CONC rnal newspaper, October 9, 1862.
 1 RIN O112
+1 REFN b4901546-d120-47f0-b5cb-c93df114f293
 0 @9NWwqYxVSvKNcQMfkqpv@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\England & Wales, Civil Registratio
@@ -6160,6 +6261,7 @@
 2 FORM jpg
 2 TITL England & Wales, Civil Registration Birth Index, 1837-1915
 1 RIN 9NWwqYxVSvKNcQMfkqpv
+1 REFN 0da99197-6e30-47f0-9c95-1acc20ad50ab
 0 @bnvlfuKwQhKLQndWXu5a@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\England & Wales, FreeBMD Birth Index
@@ -6167,6 +6269,7 @@
 2 FORM jpg
 2 TITL England & Wales, FreeBMD Birth Index, 1837-1915
 1 RIN bnvlfuKwQhKLQndWXu5a
+1 REFN ff77cb13-fd48-4963-978c-abc086855df2
 0 @QJaon1esST2FW5pJV92a@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\England & Wales, FreeBMD Death Index
@@ -6174,6 +6277,7 @@
 2 FORM jpg
 2 TITL England & Wales, FreeBMD Death Index, 1837-1915
 1 RIN QJaon1esST2FW5pJV92a
+1 REFN 4875063f-d24e-402a-837b-21683bf091ac
 0 @ywnVC6HTT7WTVoqZcj7Q@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\England & Wales, FreeBMD Marriage In
@@ -6181,6 +6285,7 @@
 2 FORM jpg
 2 TITL England & Wales, FreeBMD Marriage Index, 1837-1915
 1 RIN ywnVC6HTT7WTVoqZcj7Q
+1 REFN c0922152-d01e-40d5-aebd-8559b40a230b
 0 @sy1a7mynTqW0JPRyGD0z@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\Florida Passenger Lists, 1898-1964.j
@@ -6188,6 +6293,7 @@
 2 FORM jpg
 2 TITL Florida Passenger Lists, 1898-1964
 1 RIN sy1a7mynTqW0JPRyGD0z
+1 REFN 94ca9ef5-1212-4d12-872f-a7f88ed0326e
 0 @O115@ OBJE
 1 FILE http://trees.ancestry.com/rd?f=image&guid=6014c123-1370-4c5d
 2 CONC -8479-c9a2852a1e75&tid=61407337
@@ -6201,6 +6307,7 @@
 2 TITL Land Deed, Taylorson, Robert, Chemung Street, Painted Post
 3 CONC , NY
 1 RIN O115
+1 REFN e7348ab3-e799-4a04-8d54-6a8450035b5a
 0 @O111@ OBJE
 1 FILE http://trees.ancestry.com/rd?f=image&guid=d001b4d3-db40-406b
 2 CONC -942c-84523d40df81&tid=61407337
@@ -6212,6 +6319,7 @@
 2 FORM jpg
 2 TITL Land Deed, Taylorson, Thomas, Canton Road, South Corning, NY
 1 RIN O111
+1 REFN 30882525-bbee-4ca7-8f60-15b1a5fcc821
 0 @RCcltBW4TrOFnBTtKuRR@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\New York, Passenger Lists, 1820-1957
@@ -6221,66 +6329,77 @@
 2 _TEXT Year: 1849; Arrival:  , ; Microfilm serial: M237; Microfil
 3 CONC m roll: M237_81; Line: ; List number: .
 1 RIN RCcltBW4TrOFnBTtKuRR
+1 REFN bcb0b8b5-6cb7-451a-be32-d4d929fd837e
 0 @5kHUtMpBQVCmQZIz9Wfa@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\New York, State Census, 1855(4).jpg
 2 FORM jpg
 2 TITL New York, State Census, 1855
 1 RIN 5kHUtMpBQVCmQZIz9Wfa
+1 REFN 28f658d5-c5a7-40f3-b054-4547723e1a34
 0 @PEelrJLASimKhFfjTNIZ@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\New York, State Census, 1855(12).jpg
 2 FORM jpg
 2 TITL New York, State Census, 1855
 1 RIN PEelrJLASimKhFfjTNIZ
+1 REFN 5b776a2f-721c-404e-b475-3a4ad4188d70
 0 @KnBn1AMqRWKxSzKD5NjD@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\New York, State Census, 1865(7).jpg
 2 FORM jpg
 2 TITL New York, State Census, 1865
 1 RIN KnBn1AMqRWKxSzKD5NjD
+1 REFN fed3674a-1eb0-4a8b-8bd4-4b774d394d57
 0 @QA2RWmrKTluqLGoDDOnR@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\New York, State Census, 1865(22).jpg
 2 FORM jpg
 2 TITL New York, State Census, 1865
 1 RIN QA2RWmrKTluqLGoDDOnR
+1 REFN 6866895f-5aa8-4011-b00b-d90da4b4c20b
 0 @0f1UmDfnThyEPSGUnZ6q@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\New York, State Census, 1865(23).jpg
 2 FORM jpg
 2 TITL New York, State Census, 1865
 1 RIN 0f1UmDfnThyEPSGUnZ6q
+1 REFN 451903e5-8120-4e2f-ad0b-186cad228c1f
 0 @gyPPLfVOSsezOCBBXErD@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\New York, State Census, 1875(2).jpg
 2 FORM jpg
 2 TITL New York, State Census, 1875
 1 RIN gyPPLfVOSsezOCBBXErD
+1 REFN ec1a5804-bcca-4467-acba-c9164111f36d
 0 @C3iqw5i7RgCIgdisY7Lx@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\New York, State Census, 1875(9).jpg
 2 FORM jpg
 2 TITL New York, State Census, 1875
 1 RIN C3iqw5i7RgCIgdisY7Lx
+1 REFN 44e1205c-5a64-4cc2-af41-7ada0c92bb29
 0 @Ox75WGviTOuE35UCpzOq@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\New York, State Census, 1875(18).jpg
 2 FORM jpg
 2 TITL New York, State Census, 1875
 1 RIN Ox75WGviTOuE35UCpzOq
+1 REFN 0a8f8be0-7f9f-4b39-ad3a-45bfbd367277
 0 @lRQZsKRtR5OOySguubQW@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\New York, State Census, 1892(12).jpg
 2 FORM jpg
 2 TITL New York, State Census, 1892
 1 RIN lRQZsKRtR5OOySguubQW
+1 REFN 19c7c677-2bb3-48b0-a9f1-fdb6909a02e5
 0 @wER1yPlnQZG4FYbnD8mR@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\New York, State Census, 1905(15).jpg
 2 FORM jpg
 2 TITL New York, State Census, 1905
 1 RIN wER1yPlnQZG4FYbnD8mR
+1 REFN c7140763-d87b-41f6-83a1-93f841259719
 0 @hct4nwxpQtqlYKEN8SqB@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\New York, State Census, 1915(18).jpg
@@ -6290,6 +6409,7 @@
 3 CONC n Census Schedules, 1915; Election District: 01; Assembly Di
 3 CONC strict: 01; City: Triangle; County: Broome; Page: 05
 1 RIN hct4nwxpQtqlYKEN8SqB
+1 REFN c9db7291-6301-4d1d-bf99-400782d9a7a4
 0 @2svA0gjrRGWAdRoxmFUZ@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\New York, State Census, 1925(9).jpg
@@ -6299,6 +6419,7 @@
 3 CONC n Census Schedules, 1925; Election District: 02; Assembly Di
 3 CONC strict: 01; City: Elmira Ward 09; County: Chemung; Page: 6
 1 RIN 2svA0gjrRGWAdRoxmFUZ
+1 REFN 98fcee16-da2a-42a2-9c36-02264d2017ba
 0 @petPX7GsQdyc4h9d9jkf@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\New York, State Census, 1925(16).jpg
@@ -6308,12 +6429,14 @@
 3 CONC n Census Schedules, 1925; Election District: 01; Assembly Di
 3 CONC strict: 01; City: Triangle; County: Broome; Page: 9
 1 RIN petPX7GsQdyc4h9d9jkf
+1 REFN f579a484-5914-46a6-86ef-424240b17614
 0 @if1PUXWaR3iTsEChYHED@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\U.S. City Directories.jpg
 2 FORM jpg
 2 TITL U.S. City Directories
 1 RIN if1PUXWaR3iTsEChYHED
+1 REFN e1013570-1fb8-42f6-bde2-95eb5ef2ea65
 0 @iLHr2CPvRSWcTnimg31y@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\U.S. City Directories, 1821-1989(30)
@@ -6321,6 +6444,7 @@
 2 FORM jpg
 2 TITL U.S. City Directories, 1821-1989
 1 RIN iLHr2CPvRSWcTnimg31y
+1 REFN 392254fb-c89b-430a-8d41-009f4629f8c9
 0 @pC2Cl6BpRdOuTWoroOhU@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\U.S. City Directories, 1821-1989(35)
@@ -6328,6 +6452,7 @@
 2 FORM jpg
 2 TITL U.S. City Directories, 1821-1989
 1 RIN pC2Cl6BpRdOuTWoroOhU
+1 REFN 984f1e93-8444-474d-8cc1-2c57b307bf75
 0 @Q1zIJduVSWeaNnsgyKWd@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\U.S. City Directories, 1821-1989(36)
@@ -6335,6 +6460,7 @@
 2 FORM jpg
 2 TITL U.S. City Directories, 1821-1989
 1 RIN Q1zIJduVSWeaNnsgyKWd
+1 REFN e2277052-51fe-4d40-bbf6-81963a3f4feb
 0 @hspRQ6CQSnafsYFLvBNB@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\U.S. City Directories, 1822-1995(8).
@@ -6342,6 +6468,7 @@
 2 FORM jpg
 2 TITL U.S. City Directories, 1822-1995
 1 RIN hspRQ6CQSnafsYFLvBNB
+1 REFN 238c3e39-de1d-4bb6-a189-cfed0778ab9e
 0 @P9cTMcX8TBKF51mfSjwP@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\U.S. City Directories, 1822-1995(10)
@@ -6349,6 +6476,7 @@
 2 FORM jpg
 2 TITL U.S. City Directories, 1822-1995
 1 RIN P9cTMcX8TBKF51mfSjwP
+1 REFN fa890567-44bc-48d9-b326-1445a31fe5b5
 0 @tNcQqjy0RgySL2D2B9fQ@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\U.S. IRS Tax Assessment Lists, 1862-
@@ -6356,6 +6484,7 @@
 2 FORM jpg
 2 TITL U.S. IRS Tax Assessment Lists, 1862-1918
 1 RIN tNcQqjy0RgySL2D2B9fQ
+1 REFN 94e420bf-1979-4efd-a582-38c6c47f5fc7
 0 @8MXWBeggTTit0cYprcB8@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\U.S., World War I Draft Registratio
@@ -6365,67 +6494,5 @@
 2 _TEXT Registration State: New York; Registration County: Broome; R
 3 CONC oll: 1712045
 1 RIN 8MXWBeggTTit0cYprcB8
-0 @T1052@ NOTE 1850 US Census gives England; 1841 England census gives ag
-1 CONC e 15 (b. c. 1826)
-1 REFN 849ca29d-7ad9-49fa-aaa2-d9356fc58ebd
-1 RIN T1052
-0 @T1124@ NOTE 1900 US Census (listed under "Sabinia Dodd or Lavinia Dodd
-1 CONC , etc." Place is just assumed.
-1 REFN bb65a524-543c-4ada-a395-ca834a33fb4f
-1 RIN T1124
-0 @T240@ NOTE Applicants Working Sheet DAR agrees
-1 CONT [need to check NY Vital Records: death certificate #22790]
-1 REFN 787eb74e-620d-4478-9b86-21d3212cded5
-1 RIN T240
-0 @T1129@ NOTE Believe she is listed in 1900 census as "Lizzie H Edminster
-1 CONC " in Conklin, Broome, NY.
-1 REFN 5eed6380-36af-49a0-b9de-95192a3d3352
-1 RIN T1129
-0 @T908@ NOTE On ship "Hermes."
-1 REFN 3748fcfd-faed-4dc8-8419-d0d6ae685c95
-1 RIN T908
-0 @T909@ NOTE On ship "Hermes."
-1 REFN c363a03e-2bb4-40da-bbd4-589b07c11e02
-1 RIN T909
-0 @T1053@ NOTE On ship "Hermes." In 1849, there was an HMS Hermes (the sixt
-1 CONC h ship so named), an 830 ton paddle wheel sloop, launched i
-1 CONC n 1835, and was sold for breaking up in 1864. Is this the sh
-1 CONC ip the Taylorsons immigrated on?
-1 REFN 6877cc58-a9bb-46f7-a422-da1dfe0c8460
-1 RIN T1053
-0 @T109@ NOTE Steuben Co. Abstract of Wills and Admins. gives Feb 1872
-1 REFN ddf259c5-be58-46fb-b751-b276a86345c2
-1 RIN T109
-0 @T1045@ NOTE Steuben Co. is from 1860 census; Painted Post is assumed fro
-1 CONC m place of residence in 1850 census (when he was two month
-1 CONC s old).
-1 REFN 5901da20-b2a4-4b41-b4a3-2b1f3af54e85
-1 RIN T1045
-0 @T1047@ NOTE There is a Thomas "Tailerson" in Horsehaeads in 1880 censu
-1 CONC s married to a Catharine; could this be him re-married?
-1 REFN 81e978fd-8604-461a-a884-74e1565e68c1
-1 RIN T1047
-0 @T994@ NOTE This is just a pure guess, based on the fact that he is in t
-1 CONC he 1860 census, but not in the 1870 census.
-1 REFN 3a9beb7b-48ec-4c82-a1e6-5b6392cbb341
-1 RIN T994
-0 @T1131@ NOTE by Reverend Mr. Bowman
-1 REFN e011aada-44d0-4a10-83d5-1b38ce40e378
-1 RIN T1131
-0 @T1077@ NOTE date is from 1860 census
-1 REFN 0cd8a515-afc4-49df-8547-a9a0fa28194c
-1 RIN T1077
-0 @T1046@ NOTE date is just a guess based on death date
-1 REFN 293cbbce-76e7-4f90-af90-b07f8f11d37c
-1 RIN T1046
-0 @T1123@ NOTE in the morning, at a nursing home
-1 REFN fdbcb521-5fac-4139-ab6a-c00bfc33f5af
-1 RIN T1123
-0 @T1050@ NOTE place is from 1841 England census
-1 REFN 19efc95d-55b7-4a01-bc80-105a8fa31818
-1 RIN T1050
-0 @T1051@ NOTE somewhere in the neighborhood of High Street and Park Row i
-1 CONC n Stockton upon Tees
-1 REFN d164e55e-e01a-4904-b636-3cf675a5e5c8
-1 RIN T1051
+1 REFN 175c93b1-7c90-4028-bf68-14ee02b9e488
 0 TRLR

@@ -14,12 +14,14 @@
 1 SUBM @Umy2qBWIRUiwVSS6Hcn4@
 1 FILE Mosher_Disosway_Harrison_Pazmino_2017-08-03.ged
 1 DATE 19 SEP 2017
-2 TIME 20:22:10
+2 TIME 21:53:11
 0 @Umy2qBWIRUiwVSS6Hcn4@ SUBM
 1 NAME Christopher Alan Mosher
 1 RIN Umy2qBWIRUiwVSS6Hcn4
+1 REFN 390c39f0-97da-4c81-9947-52fbf0651b95
 0 @xFeSTbDaSiaDcYs5wql0@ INDI
 1 _XY 172586 3353
+1 REFN 61078e47-94d4-4f88-8bd1-1636986a3452
 1 RIN xFeSTbDaSiaDcYs5wql0
 1 NAME Beatrice //
 1 SEX F
@@ -28,6 +30,7 @@
 2 DATE ABT 1920
 0 @NcCkDcnsT0e46EJpQu1t@ INDI
 1 _XY 173254 3250
+1 REFN ee0b82b8-faa7-449f-bfaf-1f48c0f0bbc9
 1 RIN NcCkDcnsT0e46EJpQu1t
 1 NAME Joseph Judson /Cohn/
 2 SOUR @S-340304045@
@@ -203,6 +206,7 @@
 3 _APID 1,60525::1354178
 0 @g6ouC2DwSkujYlpdciUh@ INDI
 1 _XY 173153 3250
+1 REFN 42754408-722a-4e09-a534-25f10e1b155b
 1 RIN g6ouC2DwSkujYlpdciUh
 1 NAME Bessie /Cooke/
 2 SOUR @UmsKbAYOQB6aapLuVzmU@
@@ -417,6 +421,7 @@
 3 _APID 1,60525::36337865
 0 @E433oASoThyAdyVptJ9d@ INDI
 1 _XY 173999 3215
+1 REFN ea74aad7-984b-4ba0-acf6-205847ca4093
 1 RIN E433oASoThyAdyVptJ9d
 1 NAME Nellie Estelle /Davis/
 2 SOUR @S-340121694@
@@ -458,6 +463,7 @@
 4 LONG W92.716
 0 @kSAK3lWERlWHMz0Ma8s1@ INDI
 1 _XY 172945 3263
+1 REFN f93133fe-86bc-44f0-b105-8cb46f2636a5
 1 RIN kSAK3lWERlWHMz0Ma8s1
 1 NAME Enid /Espinosa/
 1 SEX F
@@ -466,6 +472,7 @@
 2 DATE ABT 1885
 0 @CSBo5298RQipYij0UhLc@ INDI
 1 _XY 172768 3360
+1 REFN 0394761d-7e0b-4bdc-a4c4-b2e9159ac71a
 1 RIN CSBo5298RQipYij0UhLc
 1 NAME Alicia /López/
 1 SEX F
@@ -758,7 +765,7 @@
 4 CONC siana; Roll: T625_624; Page: 11B; Enumeration District: 248
 4 CONC ; Image: 896
 3 OBJE @X9XD2SG9QW2XU4DEsWxt@
-2 NOTE @T317@
+2 NOTE date is from SSDI (Dolores Zilker)
 1 EVEN
 2 TYPE Arrival
 2 DATE 1901
@@ -882,7 +889,8 @@
 1 SSN 099-10-6893
 2 SOUR @S7@
 3 QUAY 3
-2 NOTE @T722@
+2 NOTE show as Dolores Zilker (I am just assuming that this is righ
+3 CONC t Dolores, because birth and death dates match)
 0 @I795@ INDI
 1 _XY 172286 3250
 1 REFN fe9a8417-4b2c-4108-a56e-76147cd72175
@@ -993,13 +1001,15 @@
 4 CONC n Census Schedules, 1905; Election District: A.D. 18 E.D. 16
 4 CONC ; City: Brooklyn; County: Kings; Page: 34
 3 OBJE @50JmJ6bwS6egZLb2QJ9E@
-2 NOTE @T1059@
+2 NOTE Consistent with being 11 months old at baptism on April 10
+3 CONC , 1883.
 1 BAPM
 2 DATE 10 APR 1883
 2 PLAC San Lorenzo, Jipijapa, Manabi, Ecuador
 2 SOUR @S637@
 3 QUAY 3
-2 NOTE @T1109@
+2 NOTE godparents: Eloy Alfaro (future president of Ecuador) and Se
+3 CONC bastiana Gutierrez
 1 EVEN
 2 TYPE Arrival
 2 DATE 1901
@@ -1112,6 +1122,7 @@
 3 QUAY 1
 0 @GqePjGcvRyCRuUyNxHmu@ INDI
 1 _XY 172871 3360
+1 REFN 56a556da-62fb-4558-9f4c-ae09397028e3
 1 RIN GqePjGcvRyCRuUyNxHmu
 1 NAME Enid /López/
 1 SEX F
@@ -1141,7 +1152,7 @@
 4 LONG W80.3073
 2 SOUR @S237@
 3 QUAY 0
-2 NOTE @T193@
+2 NOTE of wounds obtained in a military battle
 0 @I27@ INDI
 1 _XY 172139 3167
 1 REFN ac139ee4-c9a3-40d7-a8c7-7a6060a645d5
@@ -1225,7 +1236,12 @@
 4 CONC n Census Schedules, 1905; Election District: A.D. 18 E.D. 16
 4 CONC ; City: Brooklyn; County: Kings; Page: 34
 3 OBJE @50JmJ6bwS6egZLb2QJ9E@
-2 NOTE @T105@
+2 NOTE 1900 Census (Jun) lists birth as Aug 1849.
+3 CONT Death cert. lists as Aug 6, 1847.
+3 CONT Assume Aug 6 from death cert. and Aug 1849 from census.
+3 CONT But: 1910 Census (Apr) lists age as 62, which would be consi
+3 CONC stent with Aug 1847.
+3 CONT Joseph Dudley says 6 Aug 1847 Quito
 1 RESI
 2 DATE FROM 06 AUG 1847 TO 1873
 2 PLAC Quito, Pichincha, Ecuador
@@ -1239,14 +1255,16 @@
 2 PLAC Colegio de los Jesuítas, Quito, Pichincha, Ecuador
 2 SOUR @S237@
 3 QUAY 1
-2 NOTE @T165@
+2 NOTE Latin teacher: Buenaventura Proaño.
+3 CONT Humanities teacher: Padre Hernáez.
+3 CONT Dates approx.
 1 EDUC
 2 DATE FROM 1868 TO 1872
 2 PLAC Facultad de Ciencias Medicas de la Universidad Central, Quit
 3 CONC o, Pichincha, Ecuador
 2 SOUR @S564@
 3 QUAY 1
-2 NOTE @T911@
+2 NOTE dates are guesses
 1 OCCU doctor
 2 DATE FROM 1873 TO 1885
 2 PLAC Jipijapa, Manabi, Ecuador
@@ -1255,7 +1273,7 @@
 4 LONG W80.5833
 2 SOUR @S237@
 3 QUAY 1
-2 NOTE @T168@
+2 NOTE End date approx.
 1 RESI
 2 DATE FROM 1873 TO 1885
 2 PLAC Jipijapa, Manabi, Ecuador
@@ -1272,17 +1290,20 @@
 4 LONG W80.5833
 2 SOUR @S237@
 3 QUAY 1
-2 NOTE @T198@
+2 NOTE after 1873, while still a doctor
 1 EVEN
 2 TYPE enlisted
 2 DATE 1882
 2 SOUR @S237@
 3 QUAY 1
-2 NOTE @T166@
+2 NOTE The same day General Veintimilla declared himself Jefe Supre
+3 CONC mo de la Repúbilca.
+3 CONT Enlisted as a medic with the forces opposing Veintimilla.
 1 EVEN
 2 TYPE military
 2 DATE FROM 1884 TO 1885
-2 NOTE @T167@
+2 NOTE Joined forces under General Eloy Alfaro.
+3 CONT Became Surgeon General of the Revolutionary Forces.
 1 RESI
 2 DATE FROM 1885 TO 1888
 2 PLAC Peru
@@ -1345,7 +1366,8 @@
 4 LONG W79.9
 2 SOUR @S237@
 3 QUAY 1
-2 NOTE @T169@
+2 NOTE of Esmeraldas Province, but was uncontitutionally denied th
+3 CONC e seat, because he had been excommunicated
 1 TITL Colector de Rentas Fiscales
 2 DATE FROM 1895 TO 1900
 2 SOUR @S237@
@@ -1359,7 +1381,7 @@
 4 LONG W78.5
 2 SOUR @S237@
 3 QUAY 1
-2 NOTE @T191@
+2 NOTE delegate to the convention from Manabi Province
 1 RESI
 2 DATE FROM 1896 TO 1897
 2 PLAC Quito, Pichincha, Ecuador
@@ -1374,7 +1396,7 @@
 2 PLAC Palacio de Gobierno, Quito, Pichincha, Ecuador
 2 SOUR @S529@
 3 QUAY 3
-2 NOTE @T863@
+2 NOTE signed the Constitution of Ecuador (14 Jan 1897)
 1 RESI
 2 DATE FROM 1897 TO 01 FEB 1900
 2 PLAC Guayaquil, Guayas, Ecuador
@@ -1387,18 +1409,29 @@
 2 DATE FROM 01 FEB 1900 TO 14 FEB 1900
 2 SOUR @S251@
 3 QUAY 1
-2 NOTE @T1116@
+2 NOTE Left Guayaquil 1 Feb 1900 (w/ dau. Lelia, her husb Victor, a
+3 CONC nd the latters' son Victor). Took ship to Panama, crossed b
+3 CONC y train, took ship (named "Advance") to Manhattan, arrived 1
+3 CONC 4 Feb. Since Felicisimo was a diplomat, there was no immigra
+3 CONC tion services necessary (so there is probably no official re
+3 CONC cord of the arrival). They stayed night of 14 Feb in the 5t
+3 CONC h Avenue Hotel (since demolished) (at 23rd St) opposite Flat
+3 CONC iron Building. Stayed for a few days, then moved to 6 Agat
+3 CONC e Court, Brooklyn.
+3 CONT Note that "A History of the New York Stage," by Thomas Allst
+3 CONC on Brown, vol. 3, p. 477, shows "1900... Feb. 14, 'Carmen,
+3 CONC ' with Mlle. Olitzka as the heroine."
 1 OCCU Consul General of Ecuador
 2 DATE FROM FEB 1900 TO OCT 1900
 2 PLAC Ecuadorian Consulate, Room 1402, 11 Broadway, New York, Ne
 3 CONC w York, USA
 2 SOUR @S237@
 3 QUAY 1
-2 NOTE @T683@
+2 NOTE appointed by Eloy Alfaro, President of Ecuador
 1 RESI
 2 DATE FROM 20 FEB 1900 TO OCT 1900
 2 PLAC 6 Agate Court, Brooklyn, Kings, New York, USA
-2 NOTE @T713@
+2 NOTE Start date is approx.; end date October is a guess.
 1 CENS
 2 DATE 01 JUN 1900
 2 PLAC 6 Agate Court, Brooklyn, Kings, New York, USA
@@ -1420,30 +1453,30 @@
 2 PLAC Venezuela
 2 SOUR @S237@
 3 QUAY 1
-2 NOTE @T197@
+2 NOTE honorary title. date approx
 1 TITL Minister Plenipotenciary to Venezuela
 2 DATE OCT 1900
 2 SOUR @S237@
 3 QUAY 1
-2 NOTE @T192@
+2 NOTE while living in Brooklyn?
 1 RESI
 2 DATE FROM OCT 1900 TO DEC 1900
 2 PLAC Nicaragua
 2 SOUR @S237@
 3 QUAY 1
-2 NOTE @T201@
+2 NOTE maybe first Ecuador, then Venesuela, then Nicaragua?
 1 TITL Minister of Education
 2 DATE FROM DEC 1900 TO 1901
 2 PLAC Ecuador
 2 SOUR @S237@
 3 QUAY 1
-2 NOTE @T196@
+2 NOTE dates approx.
 1 RESI
 2 DATE FROM DEC 1900 TO AUG 1901
 2 PLAC Ecuador
 2 SOUR @S237@
 3 QUAY 1
-2 NOTE @T195@
+2 NOTE December is a guess
 1 TITL Minister of the Interior
 2 DATE ABT JAN 1901
 2 PLAC Ecuador
@@ -1455,7 +1488,12 @@
 2 PLAC Ecuador
 2 SOUR @S237@
 3 QUAY 1
-2 NOTE @T203@
+2 NOTE published first Atlas of Ecuador (while he was Minister of E
+3 CONC ducation)
+3 CONT Title: Atlas geográfico del Ecuador, arreglado según la ca
+3 CONC rta del Dr. Teodoro Wolf / por Felicísimo López
+3 CONT Publication: American Bank Note Co., New York, 1907.
+3 CONT Copy is at the New York Public Library, Map Division.
 1 RESI
 2 DATE FROM AUG 1901 TO 1911
 2 PLAC New York, USA
@@ -1464,7 +1502,8 @@
 4 LONG W74.2224
 2 SOUR @S237@
 3 QUAY 1
-2 NOTE @T202@
+2 NOTE Assuming first 6 Agate Court?, then moved (unknown when, may
+3 CONC be before 1906) to 65 Rutland Road.
 1 RESI
 2 DATE 1905
 2 PLAC 680 Saint John's Place, Brooklyn, Kings, New York, USA
@@ -1504,7 +1543,9 @@
 4 LONG W74.2224
 2 SOUR @S237@
 3 QUAY 1
-2 NOTE @T1062@
+2 NOTE Virutas [meaning Shavings in English]
+3 CONT Title: Virutas, o Almanaque de pensamientos sinceros
+3 CONT Publication: New York, [s. n.], 1908.
 1 EVEN
 2 TYPE wrote
 2 DATE 1909
@@ -1514,16 +1555,20 @@
 4 LONG W74.2224
 2 SOUR @S237@
 3 QUAY 1
-2 NOTE @T204@
+2 NOTE Title: Historia de una excomunión en el Ecuador.
+3 CONT Publication: American Bank Note Co., New York, 1909.
+3 CONT [copies at New York Public Library and Library of Congress]
 1 CENS
 2 DATE 20 APR 1910
 2 PLAC 65 Rutland Road, Brooklyn, Kings, New York, USA
 2 SOUR @S58@
 3 QUAY 3
-2 NOTE @T200@
+2 NOTE This place is in Prospect-Lefferts Gardens section of Brookl
+3 CONC yn, near Prospect Park.
 1 RESI
 2 DATE FROM 21 APR 1910 TO DEC 1910
-2 NOTE @T717@
+2 NOTE Unknown residence during this time period. He may have gon
+3 CONC e to Ecuador for a while before travelling to Puerto Rico.
 1 RESI
 2 DATE 1910
 2 PLAC Brooklyn, Kings, New York, USA
@@ -1543,13 +1588,15 @@
 2 DATE DEC 1910
 2 SOUR @S481@
 3 QUAY 2
-2 NOTE @T715@
+2 NOTE arrived Dec 1910 (day is illegible, 20 is a guess) on ship "
+3 CONC S. S. Philadelphia" in Puerto Rico
 1 RESI
 2 DATE FROM 20 DEC 1910 TO 18 FEB 1911
 2 PLAC Puerto Rico
 2 SOUR @S481@
 3 QUAY 2
-2 NOTE @T714@
+2 NOTE The day of the start date is mostly illegible on the origina
+3 CONC l. Appears to be two digits, starting with a 2.
 1 EVEN
 2 TYPE Departure
 2 DATE 18 FEB 1911
@@ -1565,7 +1612,12 @@
 2 DATE FROM 18 FEB 1911 TO 23 FEB 1911
 2 SOUR @S481@
 3 QUAY 3
-2 NOTE @T719@
+2 NOTE from San Juan, Puerto Rico, to New York, NY, USA, on ship "S
+3 CONC . S. Caracas". Info about ship Caracas from US Maritime Comm
+3 CONC ission list transcribed at www.usmm.org/ships1914.html: ship
+3 CONC : Caracas; line: Atlantic & Caribbean Steam Navigation Co. (
+3 CONC Red "D" Line); type: Passenger; tonnage: 2,886. Photo availa
+3 CONC ble in: "Marine Steam" (by Babcock & Wilcox: 1928), p. 226.
 1 EVEN
 2 TYPE Arrival
 2 DATE 23 FEB 1911
@@ -1587,13 +1639,13 @@
 4 LONG W74.2224
 2 SOUR @S237@
 3 QUAY 1
-2 NOTE @T716@
+2 NOTE possibly 2205 Beverly Rd.
 1 OCCU Minister of the Interior
 2 DATE FROM 1911 TO JAN 1912
 2 PLAC Ecuador
 2 SOUR @S237@
 3 QUAY 1
-2 NOTE @T199@
+2 NOTE ending date assumed
 1 RESI
 2 DATE 01 JUN 1915
 2 PLAC Brooklyn, Kings, New York, USA
@@ -1617,7 +1669,9 @@
 2 SOUR @S-301602632@
 3 _APID 1,50015::564651
 3 OBJE @W5gd1JGQQpONWRP6mQOD@
-2 NOTE @T765@
+2 NOTE time: 3:00 AM ET
+3 CONT Cause: cancer of the rectum
+3 CONT [note: this is in Brooklyn Heights]
 1 BURI
 2 DATE 17 DEC 1917
 2 PLAC Evergreen Cemetery, Queens, Queens, New York, USA
@@ -1710,7 +1764,11 @@
 2 SOUR @hsrdQGitTsSkFUdX2wih@
 3 _APID 1,9177::13635
 3 OBJE @NEQQ2fMYR5ScqahIq2V1@
-2 NOTE @T1114@
+2 NOTE Joseph Dudley says Chone, Manabi, Ecuador; WWI Registratio
+3 CONC n Card give Guayaquil. I scanned Baptism records for two yea
+3 CONC rs after Aug. 1891 in Chone and found none for Samuel. Possi
+3 CONC ble he was born in Chone and baptised in Guayaquil. Need t
+3 CONC o check baptism records in Guayaquil.
 1 BIRT
 2 DATE 20 AUG 1891
 2 PLAC Guayaquil, Guayas, Ecuador
@@ -1989,7 +2047,11 @@
 4 CONC n Census Schedules, 1905; Election District: A.D. 18 E.D. 16
 4 CONC ; City: Brooklyn; County: Kings; Page: 34
 3 OBJE @50JmJ6bwS6egZLb2QJ9E@
-2 NOTE @T164@
+2 NOTE 1900 Census lists birth as Aug 1878.
+3 CONT Death cert. lists as Aug 26, 1877.
+3 CONT But: 1910 Census (Apr) gives age 32, which would be consiste
+3 CONC nt with Aug 1877.
+3 CONT Joseph Dudley says 26 Aug 1877, Jipijapa
 1 RESI
 2 DATE FROM 26 AUG 1877 TO 1889
 2 PLAC Jipijapa, Manabi, Ecuador
@@ -2038,7 +2100,7 @@
 4 LONG W73.9721
 2 SOUR @S237@
 3 QUAY 1
-2 NOTE @T194@
+2 NOTE with her father Felicisimo
 1 CENS
 2 DATE 09 JUN 1900
 2 PLAC 6 Agate Court, Brooklyn, Kings, New York, USA
@@ -2114,7 +2176,7 @@
 1 RESI
 2 DATE FROM 1918 TO 29 DEC 1962
 2 PLAC 2114 Glenwood Road, Brooklyn, Kings, New York, USA
-2 NOTE @T666@
+2 NOTE start date is approx.
 1 CENS
 2 DATE 01 JAN 1920
 2 PLAC 2114 Glenwood Road, Brooklyn, Kings, New York, USA
@@ -2201,7 +2263,7 @@
 3 CONC , USA
 2 SOUR @S21@
 3 QUAY 3
-2 NOTE @T767@
+2 NOTE time: 4:30 PM ET
 1 BURI
 2 DATE 02 JAN 1963
 2 PLAC Evergreen Cemetery, Queens, Queens, New York, USA
@@ -2210,9 +2272,10 @@
 2 SOUR @aFPs3Y8jSma5ydYzwH9J@
 1 EVEN
 2 TYPE note
-2 NOTE @T189@
+2 NOTE she remained a citizen of Ecuador her whole life
 0 @oCQCbfOyTYKvFNxMcN7i@ INDI
 1 _XY 173461 3360
+1 REFN 5ccb0439-0d95-4db0-a7b1-56797c022a5e
 1 RIN oCQCbfOyTYKvFNxMcN7i
 1 NAME Margarita Cecilia /López/
 1 SEX F
@@ -2294,12 +2357,14 @@
 3 QUAY 1
 0 @Pd4XMTJCSOSbqpzUg28G@ INDI
 1 _XY 172970 3360
+1 REFN 053d593b-ac66-4569-9812-31b98fbf87ad
 1 RIN Pd4XMTJCSOSbqpzUg28G
 1 NAME Olga /López/
 1 SEX F
 1 FAMC @F_I800_kSAK3lWERlWHMz0Ma8s1@
 0 @XzRFsVHLRuycmGAPR1uh@ INDI
 1 _XY 173102 3360
+1 REFN f54bfbbf-a9f4-4a17-bd6d-1db2952e304a
 1 RIN XzRFsVHLRuycmGAPR1uh
 1 NAME Robert A. /López/
 2 SOUR @S-340037965@
@@ -2442,6 +2507,7 @@
 3 PAGE Date: 1984-02-26
 0 @V5CSimQIQAym3DqbvWNv@ INDI
 1 _XY 172662 3360
+1 REFN 9c15c519-1a96-4d1c-afa6-cbe7f8f11874
 1 RIN V5CSimQIQAym3DqbvWNv
 1 NAME Ulises /López/
 1 SEX M
@@ -2471,7 +2537,7 @@
 4 LONG W80.5833
 2 SOUR @S637@
 3 QUAY 2
-2 NOTE @T1061@
+2 NOTE Pazmino Lopez Family History (Joseph Dudley) gives 1881
 1 BAPM
 2 DATE 05 MAR 1884
 2 PLAC Jipijapa, Manabi, Ecuador
@@ -2480,7 +2546,7 @@
 4 LONG W80.5833
 2 SOUR @S637@
 3 QUAY 3
-2 NOTE @T1060@
+2 NOTE godparents: Adolfo H. Campozano, and Rosario Romero
 1 DEAT
 2 DATE 1897
 2 PLAC Guayaquil, Guayas, Ecuador
@@ -2709,7 +2775,12 @@
 4 CONC 715, 1897-1957; Microfilm Roll: Roll 1760; Line: 3; Page Num
 4 CONC ber: 191
 3 OBJE @nLySBHJcQ3CJGz0gsuVP@
-2 NOTE @T103@
+2 NOTE 1900 Census (Jun) lists birth as Dec 1874.
+3 CONT Death cert. lists as Dec 7, 1871.
+3 CONT Assume Dec 7 from death cert. and Dec 1874 from census.
+3 CONT But: 1910 Census (Apr) gives age 38, which would be consiste
+3 CONC nt with 1871.
+3 CONT Joseph Dudley says 7 Dec 1871 Quito
 1 RESI
 2 DATE FROM 07 DEC 1871 TO 1897
 2 PLAC Quito, Pichincha, Ecuador
@@ -2729,7 +2800,8 @@
 1 IMMI
 2 DATE FROM 01 FEB 1900 TO 14 FEB 1900
 2 SOUR @S53@
-2 NOTE @T718@
+2 NOTE US Census 1900 gives 1899 as immigration year; Jospeh Dudle
+3 CONC y says 14 Feb 1900 (with father-in-law Felicisimo Lopez).
 1 CENS
 2 DATE 09 JUN 1900
 2 PLAC 6 Agate Court, Brooklyn, Kings, New York, USA
@@ -2758,7 +2830,7 @@
 3 CONC w York, USA
 2 SOUR @S251@
 3 QUAY 1
-2 NOTE @T655@
+2 NOTE in place of his father-in-law Felicisimo
 1 RESI
 2 DATE BET 1902 AND 1903
 2 PLAC 72 Midwood Street, Brooklyn, Kings, New York, USA
@@ -2874,7 +2946,8 @@
 4 LONG W78.5
 2 SOUR @S251@
 3 QUAY 1
-2 NOTE @T190@
+2 NOTE settling inheritance suits resulting from the death of his m
+3 CONC other
 1 RESI
 2 DATE 01 JUN 1915
 2 PLAC Brooklyn, Kings, New York, USA
@@ -2978,7 +3051,7 @@
 3 QUAY 3
 2 SOUR @S-333253456@
 3 _APID 1,9131::4259816
-2 NOTE @T768@
+2 NOTE Joseph Dudley says of uremia
 1 BURI
 2 DATE 04 MAY 1944
 2 PLAC Evergreen Cemetery, Queens, Queens, New York, USA
@@ -2992,7 +3065,7 @@
 3 CONC rk, USA
 2 SOUR @S-340304085@
 3 QUAY 1
-2 NOTE @T1151@
+2 NOTE 13:00 EST
 0 @I28@ INDI
 1 REFN f0a16daf-2789-4774-8d42-12d10761033a
 1 RIN I28
@@ -3005,6 +3078,7 @@
 2 DATE 14 OCT 1940
 0 @BW9R2I8uSTe69QHSB1Fh@ INDI
 1 _XY 174265 3251
+1 REFN c1aae287-d761-48e8-a119-8b0616d508c2
 1 RIN BW9R2I8uSTe69QHSB1Fh
 1 NAME Byron /Stevens/
 2 SOUR @S-340037973@
@@ -3041,6 +3115,7 @@
 2 DATE 1919
 0 @yjd4ySkmQEe3gBu5WS2b@ INDI
 1 _XY 174194 3360
+1 REFN c31a3e25-38e2-4509-869a-82db795cdb6f
 1 RIN yjd4ySkmQEe3gBu5WS2b
 1 NAME Malcolm Byron /Stevens/
 2 SOUR @S-313778072@
@@ -3098,6 +3173,7 @@
 3 _APID 1,60525::94672660
 0 @qheIRySGRreGohdnOxn9@ INDI
 1 _XY 174338 3360
+1 REFN 45b077a8-dbc8-497f-a7c0-32678dd448ff
 1 RIN qheIRySGRreGohdnOxn9
 1 NAME Ruby Catherine /Stevens/
 2 SOUR @S-340304048@
@@ -3164,6 +3240,7 @@
 3 PAGE Date: 1990-01-20
 0 @p3APeCGfSkWrzyEuvCsh@ INDI
 1 _XY 173529 3256
+1 REFN b5ed3df2-a4a4-4e09-aad3-a5376433cb2c
 1 RIN p3APeCGfSkWrzyEuvCsh
 1 NAME /Villanueva/
 1 SEX F
@@ -3172,6 +3249,7 @@
 2 DATE ABT 1895
 0 @pw4O0VnNToGUN9cbxvnn@ INDI
 1 _XY 173641 3360
+1 REFN f846796e-443b-406c-9c7f-706ae9baac67
 1 RIN pw4O0VnNToGUN9cbxvnn
 1 NAME Anthony /Yusa/
 1 SEX M
@@ -3180,6 +3258,7 @@
 2 DATE ABT 1910
 0 @bwBEvnyHRk2vGDpp8EIK@ INDI
 1 _XY 173692 3444
+1 REFN 79039190-ba8c-4570-8613-59904bf5006c
 1 RIN bwBEvnyHRk2vGDpp8EIK
 1 NAME Dennis /Yusa/
 1 SEX M
@@ -3192,6 +3271,7 @@
 4 LONG W73.95
 0 @HgdpFMAcQ8KP7LXeiCOQ@ INDI
 1 _XY 173737 3360
+1 REFN f8f425a8-019b-44f7-9377-17d34e4b7ba5
 1 RIN HgdpFMAcQ8KP7LXeiCOQ
 1 NAME Dolores /Zilker/
 2 SOUR @S-340037965@
@@ -3336,6 +3416,7 @@
 2 NOTE Marital Status: Single; Relation to Head of House: Daughter
 0 @ARcWt59CQ9yaMWIYWN2o@ INDI
 1 _XY 174080 3360
+1 REFN 949715e2-768d-49cc-a8a4-c749ceceb847
 1 RIN ARcWt59CQ9yaMWIYWN2o
 1 NAME Elizabeth /Zilker/
 2 SOUR @S-340037965@
@@ -3415,6 +3496,7 @@
 3 _APID 1,60525::13280937
 0 @DYK7Jk3FTsGRHfv8Pbbl@ INDI
 1 _XY 173893 3360
+1 REFN f35ed01f-bde2-49a5-8662-c71963a3eef2
 1 RIN DYK7Jk3FTsGRHfv8Pbbl
 1 NAME Frank /Zilker/
 2 SOUR @S-340037965@
@@ -3506,6 +3588,7 @@
 2 NOTE Relation to Head of House: Son
 0 @AZ5vAqOaTz295FZfekLp@ INDI
 1 _XY 173854 3250
+1 REFN 415c7064-f241-4e03-8aef-08c809d86a1a
 1 RIN AZ5vAqOaTz295FZfekLp
 1 NAME Frank Xavier /Zilker/
 2 SOUR @S-340037965@
@@ -4001,6 +4084,7 @@
 3 _APID 1,9131::4332567
 0 @g1nUtaBVSNeVOzMfk7T6@ INDI
 1 _XY 173987 3360
+1 REFN bb3e4bab-de5e-4459-bb27-8b8e1b01fa7b
 1 RIN g1nUtaBVSNeVOzMfk7T6
 1 NAME Frederick /Zilker/
 2 SOUR @S-340037965@
@@ -4088,6 +4172,7 @@
 2 NOTE Relation to Head of House: Son
 0 @sexwNkXhTgKM1pIBc6Hx@ INDI
 1 _XY 173998 3289
+1 REFN bba5c11e-2a95-4003-a83f-1b3a8afd797a
 1 RIN sexwNkXhTgKM1pIBc6Hx
 1 NAME Unknown first wife of Frank /Zilker/
 1 SEX F
@@ -4095,10 +4180,12 @@
 1 BIRT
 2 DATE ABT 1880
 0 @F_NcCkDcnsT0e46EJpQu1t_g6ouC2DwSkujYlpdciUh@ FAM
+1 REFN f2b63b0f-3fd4-4944-bc91-97939a3fdaf1
 1 RIN F_NcCkDcnsT0e46EJpQu1t_g6ouC2DwSkujYlpdciUh
 1 HUSB @NcCkDcnsT0e46EJpQu1t@
 1 WIFE @g6ouC2DwSkujYlpdciUh@
 0 @F_I801_g6ouC2DwSkujYlpdciUh@ FAM
+1 REFN 008dcc95-323a-4b77-a375-7d101741fefb
 1 RIN F_I801_g6ouC2DwSkujYlpdciUh
 1 HUSB @I801@
 1 WIFE @g6ouC2DwSkujYlpdciUh@
@@ -4160,11 +4247,13 @@
 2 SOUR @S237@
 3 QUAY 1
 0 @F_I802_p3APeCGfSkWrzyEuvCsh@ FAM
+1 REFN 0176020d-e66c-45a8-b816-9ee08be5f781
 1 RIN F_I802_p3APeCGfSkWrzyEuvCsh
 1 HUSB @I802@
 1 WIFE @p3APeCGfSkWrzyEuvCsh@
 1 CHIL @oCQCbfOyTYKvFNxMcN7i@
 0 @F_I800_kSAK3lWERlWHMz0Ma8s1@ FAM
+1 REFN f36df747-8c9d-4fd1-9d5e-d4aeed133126
 1 RIN F_I800_kSAK3lWERlWHMz0Ma8s1
 1 HUSB @I800@
 1 WIFE @kSAK3lWERlWHMz0Ma8s1@
@@ -4173,6 +4262,7 @@
 1 CHIL @Pd4XMTJCSOSbqpzUg28G@
 1 CHIL @V5CSimQIQAym3DqbvWNv@
 0 @F_V5CSimQIQAym3DqbvWNv_xFeSTbDaSiaDcYs5wql0@ FAM
+1 REFN bdec9697-bc8b-4473-810e-3ff59ba6054a
 1 RIN F_V5CSimQIQAym3DqbvWNv_xFeSTbDaSiaDcYs5wql0
 1 HUSB @V5CSimQIQAym3DqbvWNv@
 1 WIFE @xFeSTbDaSiaDcYs5wql0@
@@ -4203,22 +4293,26 @@
 3 OBJE @IsrzwjFfSjazD5UiS5pA@
 2 SOUR @S251@
 3 QUAY 1
-2 NOTE @T682@
+2 NOTE he gives 1897 and 1898
 0 @F_BW9R2I8uSTe69QHSB1Fh_yjd4ySkmQEe3gBu5WS2b@ FAM
+1 REFN 0a421fad-32fc-4e70-94d5-815b44a15a00
 1 RIN F_BW9R2I8uSTe69QHSB1Fh_yjd4ySkmQEe3gBu5WS2b
 1 HUSB @BW9R2I8uSTe69QHSB1Fh@
 1 CHIL @yjd4ySkmQEe3gBu5WS2b@
 1 CHIL @qheIRySGRreGohdnOxn9@
 0 @F_yjd4ySkmQEe3gBu5WS2b_ARcWt59CQ9yaMWIYWN2o@ FAM
+1 REFN c2fe564e-b035-4e68-a364-a6c19fb95763
 1 RIN F_yjd4ySkmQEe3gBu5WS2b_ARcWt59CQ9yaMWIYWN2o
 1 HUSB @yjd4ySkmQEe3gBu5WS2b@
 1 WIFE @ARcWt59CQ9yaMWIYWN2o@
 0 @F_pw4O0VnNToGUN9cbxvnn_HgdpFMAcQ8KP7LXeiCOQ@ FAM
+1 REFN 5b1d6e1d-1d71-4ae9-a8a4-632a5593a52c
 1 RIN F_pw4O0VnNToGUN9cbxvnn_HgdpFMAcQ8KP7LXeiCOQ
 1 HUSB @pw4O0VnNToGUN9cbxvnn@
 1 WIFE @HgdpFMAcQ8KP7LXeiCOQ@
 1 CHIL @bwBEvnyHRk2vGDpp8EIK@
 0 @F_AZ5vAqOaTz295FZfekLp_E433oASoThyAdyVptJ9d@ FAM
+1 REFN 7a7a1771-249e-40f0-8ada-7174f3b680ac
 1 RIN F_AZ5vAqOaTz295FZfekLp_E433oASoThyAdyVptJ9d
 1 HUSB @AZ5vAqOaTz295FZfekLp@
 1 WIFE @E433oASoThyAdyVptJ9d@
@@ -4229,6 +4323,7 @@
 4 LATI N29.9546
 4 LONG W90.0751
 0 @F_AZ5vAqOaTz295FZfekLp_I796@ FAM
+1 REFN 742c49bf-bd92-4225-987e-b30f5e4e17bd
 1 RIN F_AZ5vAqOaTz295FZfekLp_I796
 1 HUSB @AZ5vAqOaTz295FZfekLp@
 1 WIFE @I796@
@@ -4236,6 +4331,7 @@
 1 MARR
 2 DATE ABT 1911
 0 @F_AZ5vAqOaTz295FZfekLp_sexwNkXhTgKM1pIBc6Hx@ FAM
+1 REFN a1be2e7c-a61e-4aec-9fb8-534e3d3c60c7
 1 RIN F_AZ5vAqOaTz295FZfekLp_sexwNkXhTgKM1pIBc6Hx
 1 HUSB @AZ5vAqOaTz295FZfekLp@
 1 WIFE @sexwNkXhTgKM1pIBc6Hx@
@@ -4250,14 +4346,17 @@
 1 EMAIL
 1 PHON
 1 RIN R-899050557
+1 REFN cfa73660-f828-416b-a53b-2ac7818058ef
 0 @dIuP1jfcRrCeiZcZz5qZ@ REPO
 1 NAME Ancestry.com, II, OLD
 1 ADDR
 1 EMAIL
 1 PHON
 1 RIN dIuP1jfcRrCeiZcZz5qZ
+1 REFN 7cc49eee-9887-4021-9822-b26b375b44b3
 0 @S-340038419@ SOUR
 1 _APID 1,7602::0
+1 REFN 2ff93d99-b16e-45ff-8cba-6100c08a8b7a
 1 RIN S-340038419
 1 REPO @R-899050557@
 1 TITL 1900 United States Federal Census
@@ -4266,6 +4365,7 @@
 2 CONC : 2004
 0 @S-340037973@ SOUR
 1 _APID 1,7884::0
+1 REFN 5cab9c6d-2209-4f37-96f2-539ddb26e6f2
 1 RIN S-340037973
 1 REPO @R-899050557@
 1 TITL 1910 United States Federal Census
@@ -4273,6 +4373,7 @@
 1 PUBL Ancestry.com Operations Inc; Location: Provo, UT, USA; Date
 2 CONC : 2006
 0 @S-340304044@ SOUR
+1 REFN 9a650392-58ca-42bd-a11a-615445b03d57
 1 RIN S-340304044
 1 REPO @dIuP1jfcRrCeiZcZz5qZ@
 1 TITL 1920 United States Federal Census
@@ -4289,6 +4390,7 @@
 2 CONC 9 are on roll 323 (Chicago City).
 0 @S-340120723@ SOUR
 1 _APID 1,6061::0
+1 REFN 615774af-4e6b-4992-9a8b-f5d5fb7fefd1
 1 RIN S-340120723
 1 REPO @R-899050557@
 1 TITL 1920 United States Federal Census, OLD
@@ -4297,6 +4399,7 @@
 2 CONC : 2010
 0 @S-340304045@ SOUR
 1 _APID 1,6224::0
+1 REFN eccf4ca6-3002-487c-92b4-2a685a3bd747
 1 RIN S-340304045
 1 REPO @R-899050557@
 1 TITL 1930 United States Federal Census
@@ -4304,6 +4407,7 @@
 1 PUBL Ancestry.com Operations Inc; Location: Provo, UT, USA; Date
 2 CONC : 2002
 0 @S-340304056@ SOUR
+1 REFN 225cbe9a-e3c2-4f13-b8ca-70b896b25005
 1 RIN S-340304056
 1 REPO @dIuP1jfcRrCeiZcZz5qZ@
 1 TITL 1940 United States Federal Census
@@ -4315,6 +4419,7 @@
 2 CONC ational Archives and Records Administration, 1940. T627, 4,6
 2 CONC 43 rolls.
 0 @S-340304055@ SOUR
+1 REFN 0a5a39f4-3596-4c9b-ab54-0df9511aae75
 1 RIN S-340304055
 1 REPO @R-899050557@
 1 TITL Ancestry Family Trees
@@ -4327,6 +4432,7 @@
 2 CONT The owners of these tree files may have removed or changed i
 2 CONC nformation since this source citation was created.
 0 @S-340121694@ SOUR
+1 REFN 11f21b2e-ff62-4c28-b685-792f2b9f489a
 1 RIN S-340121694
 1 REPO @R-899050557@
 1 TITL Ancestry Family Trees, OLD
@@ -4389,6 +4495,7 @@
 2 CONT MR74<br />
 2 CONT Form 500-B
 0 @VApbqzjTS7iZRl87GMjA@ SOUR
+1 REFN c7b533f3-afec-4a99-82a0-f40f680df74c
 1 RIN VApbqzjTS7iZRl87GMjA
 1 REPO @dIuP1jfcRrCeiZcZz5qZ@
 1 TITL Border Crossings: From Mexico to U.S., 1895-1964
@@ -4397,6 +4504,7 @@
 2 CONC e: 2006
 0 @S-338590332@ SOUR
 1 _APID 1,5180::0
+1 REFN 09f66942-52b2-4759-b9cc-4d3cde4afe8a
 1 RIN S-338590332
 1 REPO @R-899050557@
 1 TITL California, Death Index, 1940-1997
@@ -4405,6 +4513,7 @@
 2 CONC : 2000
 0 @S-340120679@ SOUR
 1 _APID 1,1086::0
+1 REFN 3adf3bef-c858-4dd3-8dba-1ea2317e0677
 1 RIN S-340120679
 1 REPO @R-899050557@
 1 TITL Canada, Soldiers of the First World War, 1914-1918
@@ -4459,6 +4568,7 @@
 2 CONC l gran sello de la República y refrendado por el Ministro S
 2 CONC ecretario de Estado en el Despacho de lo Interior.<br />
 0 @S-340303939@ SOUR
+1 REFN d9c676b2-3a7a-41ca-b907-a2467391bd76
 1 RIN S-340303939
 1 REPO @R-899050557@
 1 TITL Directory of Deceased American Physicians, 1804-1929
@@ -4490,6 +4600,7 @@
 1 PUBL In possession of Chris Mosher
 0 @S-301668852@ SOUR
 1 _APID 1,8842::0
+1 REFN a3786c96-3038-4858-8aca-5e07de9defe8
 1 RIN S-301668852
 1 REPO @R-899050557@
 1 TITL Florida Passenger Lists, 1898-1964
@@ -4516,6 +4627,7 @@
 1 TEXT PAZMIÑO VICTOR M. 1871-1944
 0 @S-331886630@ SOUR
 1 _APID 1,7484::0
+1 REFN 7d72f232-946b-4096-af24-b0eb568af2ff
 1 RIN S-331886630
 1 REPO @R-899050557@
 1 TITL New Orleans, Passenger Lists, 1813-1945
@@ -4685,6 +4797,7 @@
 2 CONT </tbody>
 2 CONT </table>
 0 @UmsKbAYOQB6aapLuVzmU@ SOUR
+1 REFN 829454e4-2eca-4936-9966-6c61ac2d5465
 1 RIN UmsKbAYOQB6aapLuVzmU
 1 REPO @dIuP1jfcRrCeiZcZz5qZ@
 1 TITL New York, County Marriages, 1847-1849; 1907-1936
@@ -4693,6 +4806,7 @@
 2 CONC : 2016
 0 @S-333253478@ SOUR
 1 _APID 1,9089::0
+1 REFN 35d810d6-3e3b-4741-b0b0-365c67627054
 1 RIN S-333253478
 1 REPO @R-899050557@
 1 TITL New York, New York, Birth Index, 1878-1909
@@ -4701,6 +4815,7 @@
 2 CONC e: 2014
 0 @S-333253456@ SOUR
 1 _APID 1,9131::0
+1 REFN e5c77eb5-c6be-4b71-b43f-8909904d0a7c
 1 RIN S-333253456
 1 REPO @R-899050557@
 1 TITL New York, New York, Death Index, 1862-1948
@@ -4709,6 +4824,7 @@
 2 CONC e: 2014
 0 @S-340119858@ SOUR
 1 _APID 1,7488::0
+1 REFN d12f6d0f-a436-4eb6-8094-681f32d73687
 1 RIN S-340119858
 1 REPO @R-899050557@
 1 TITL New York, Passenger Lists, 1820-1957
@@ -4717,6 +4833,7 @@
 2 CONC e: 2010
 0 @S-322419782@ SOUR
 1 _APID 1,7364::0
+1 REFN 1dcb059e-43f8-4d34-a677-cb5ddf3f0d57
 1 RIN S-322419782
 1 REPO @R-899050557@
 1 TITL New York, State Census, 1905
@@ -4725,6 +4842,7 @@
 2 CONC e: 2014
 0 @S-340037965@ SOUR
 1 _APID 1,2703::0
+1 REFN d6516fa9-a395-4494-90a3-875fc58ae28a
 1 RIN S-340037965
 1 REPO @R-899050557@
 1 TITL New York, State Census, 1915
@@ -4733,6 +4851,7 @@
 2 CONC e: 2012
 0 @S-333322453@ SOUR
 1 _APID 1,2704::0
+1 REFN 6d3e621d-f050-4355-a9a5-a62c1bc3bde1
 1 RIN S-333322453
 1 REPO @R-899050557@
 1 TITL New York, State Census, 1925
@@ -4746,6 +4865,7 @@
 1 AUTH Dudley, Joseph
 1 PUBL In possession of Chris Mosher
 0 @S-340304085@ SOUR
+1 REFN 5b919eae-571d-4b91-8aa2-e7cb39652f8e
 1 RIN S-340304085
 1 TITL Pazmino, Victor M., obituary
 1 AUTH Brooklyn Daily Eagle [newspaper]
@@ -4791,6 +4911,7 @@
 2 CONT My father, Mr. Lopez, is going to meet Stella.<br />
 2 CONT Mrs. V. M. Pazmino.<br />
 0 @BugVcQhzT4i1wUmnmg9P@ SOUR
+1 REFN 122b5075-8a9a-4f38-ba42-54a2f2b013b1
 1 RIN BugVcQhzT4i1wUmnmg9P
 1 REPO @dIuP1jfcRrCeiZcZz5qZ@
 1 TITL Puerto Rico, Passenger and Crew Lists, 1901-1962
@@ -5038,6 +5159,7 @@
 1 AUTH US Social Security Administration
 0 @S-333067367@ SOUR
 1 _APID 1,2469::0
+1 REFN ab34aa28-03e3-437d-9585-3b13df4e76c7
 1 RIN S-333067367
 1 REPO @R-899050557@
 1 TITL U.S. City Directories, 1821-1989
@@ -5045,6 +5167,7 @@
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2011
 0 @Az56mpgwSMelraoOX2HL@ SOUR
+1 REFN 4420782a-0ede-484a-910b-5ee821a1e0a7
 1 RIN Az56mpgwSMelraoOX2HL
 1 REPO @dIuP1jfcRrCeiZcZz5qZ@
 1 TITL U.S. City Directories, 1822-1995
@@ -5058,6 +5181,7 @@
 2 CONC ication information.
 0 @S-293801999@ SOUR
 1 _APID 1,1174::0
+1 REFN 597f3bf9-f988-440c-b4e5-5566eabc8b1b
 1 RIN S-293801999
 1 REPO @R-899050557@
 1 TITL U.S. Passport Applications, 1795-1925
@@ -5065,6 +5189,7 @@
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2007
 0 @Wf5AVihUTGau5G3Ko6SR@ SOUR
+1 REFN 02031712-40fa-41c6-9cb7-0983146f6e42
 1 RIN Wf5AVihUTGau5G3Ko6SR
 1 REPO @dIuP1jfcRrCeiZcZz5qZ@
 1 TITL U.S. Public Records Index, 1950-1993, Volume 2
@@ -5076,6 +5201,7 @@
 2 CONC s</i>.
 0 @S-313778072@ SOUR
 1 _APID 1,60525::0
+1 REFN a7ca453e-9c6f-4aa4-830c-6d2be00a67d3
 1 RIN S-313778072
 1 REPO @R-899050557@
 1 TITL U.S., Find A Grave Index, 1600s-Current
@@ -5084,6 +5210,7 @@
 2 CONC e: 2012
 0 @S-301602632@ SOUR
 1 _APID 1,50015::0
+1 REFN 153fc756-6177-4ab6-a1d8-7de2915fe6fc
 1 RIN S-301602632
 1 REPO @R-899050557@
 1 TITL U.S., Newspaper Extractions from the Northeast, 1704-1930
@@ -5091,6 +5218,7 @@
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2014
 0 @hsrdQGitTsSkFUdX2wih@ SOUR
+1 REFN c80125e3-7ac4-425d-a702-384be0b3d346
 1 RIN hsrdQGitTsSkFUdX2wih
 1 REPO @dIuP1jfcRrCeiZcZz5qZ@
 1 TITL U.S., Residents Serving in Canadian Expeditionary Forces, 19
@@ -5100,6 +5228,7 @@
 2 CONC e: 2015
 0 @S-301670017@ SOUR
 1 _APID 1,60901::0
+1 REFN efe7e3f3-2f4d-4fee-9155-e91345132ab1
 1 RIN S-301670017
 1 REPO @R-899050557@
 1 TITL U.S., Social Security Applications and Claims Index, 1936-20
@@ -5108,6 +5237,7 @@
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2015
 0 @S-340304048@ SOUR
+1 REFN 8600af61-d324-4e17-a173-6f27c3aabf9d
 1 RIN S-340304048
 1 REPO @dIuP1jfcRrCeiZcZz5qZ@
 1 TITL U.S., Social Security Death Index, 1935-2014
@@ -5118,6 +5248,7 @@
 2 CONC ex, Master File</i>. Social Security Administration.
 0 @S-333070379@ SOUR
 1 _APID 1,6482::0
+1 REFN 8a21b08f-e9f6-4a4c-95b7-ecd9649fc085
 1 RIN S-333070379
 1 REPO @R-899050557@
 1 TITL U.S., World War I Draft Registration Cards, 1917-1918
@@ -5126,6 +5257,7 @@
 2 CONC : 2005
 0 @S-301653532@ SOUR
 1 _APID 1,1002::0
+1 REFN 4cde04fd-67be-49f8-83cd-3ac3d36a710a
 1 RIN S-301653532
 1 REPO @R-899050557@
 1 TITL U.S., World War II Draft Registration Cards, 1942
@@ -5133,6 +5265,7 @@
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2010
 0 @s8L3YWcTQoeMYlOJ0Qgl@ SOUR
+1 REFN bc667901-6ffc-4c34-88f9-2622599ebb17
 1 RIN s8L3YWcTQoeMYlOJ0Qgl
 1 REPO @dIuP1jfcRrCeiZcZz5qZ@
 1 TITL UK, Incoming Passenger Lists, 1878-1960
@@ -5140,6 +5273,7 @@
 1 PUBL Ancestry.com Operations Inc; Location: Provo, UT, USA; Date
 2 CONC : 2008
 0 @S-336882578@ SOUR
+1 REFN 80f74b2b-785c-4190-a4db-f80f6fc50c36
 1 RIN S-336882578
 1 TITL Upington, George, Upington's General Directory of Brooklyn
 2 CONC , New York City
@@ -5985,6 +6119,7 @@
 2 TITL 0226_Lopez_Hector_Samuel
 2 _DATE 9/27/2013 9:09:28 PM
 1 RIN O19
+1 REFN baa4b919-7c4c-4795-abcb-e33ce0d4e790
 0 @IsrzwjFfSjazD5UiS5pA@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\1900 United States Federal Census(5)
@@ -5995,6 +6130,7 @@
 3 CONC ; Roll: 1062; Page: 7B; Enumeration District: 0414; FHL micr
 3 CONC ofilm: 1241062
 1 RIN IsrzwjFfSjazD5UiS5pA
+1 REFN 66008b20-5f36-4a9b-ace2-c5628cb64366
 0 @JrhdYV6aQnWCgh91ZZC1@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\1910 United States Federal Census(2)
@@ -6005,6 +6141,7 @@
 3 CONC ; Roll: T624_982; Page: 4A; Enumeration District: 0931; FH
 3 CONC L microfilm: 1374995
 1 RIN JrhdYV6aQnWCgh91ZZC1
+1 REFN 0adb0832-ffac-42b7-a1d3-61d18b4cdea3
 0 @Ygq2HP45RUClwG4rOvj3@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\1910 United States Federal Census(5)
@@ -6015,6 +6152,7 @@
 3 CONC ; Roll: T624_982; Page: 3B; Enumeration District: 0931; FH
 3 CONC L microfilm: 1374995
 1 RIN Ygq2HP45RUClwG4rOvj3
+1 REFN 454a1248-54a6-462a-8de0-97b71e770200
 0 @FX21vN2vQZu7IxosNGMO@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\1910 United States Federal Census(47
@@ -6025,6 +6163,7 @@
 3 CONC ; Roll: T624_957; Page: 10B; Enumeration District: 0100; FH
 3 CONC L microfilm: 1374970
 1 RIN FX21vN2vQZu7IxosNGMO
+1 REFN 539b904b-f5bd-4f3b-8c32-dadd4ca1737f
 0 @GdN4frprSpSxhcYOz6Hv@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\1910 United States Federal Census(51
@@ -6035,6 +6174,7 @@
 3 CONC ; Roll: T624_982; Page: 6A; Enumeration District: 0927; FH
 3 CONC L microfilm: 1374995
 1 RIN GdN4frprSpSxhcYOz6Hv
+1 REFN eae92561-0bd4-4dac-b2a9-7296f8323657
 0 @3X9tSpsiQSOgaZcjju8P@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\1920 United States Federal Census(2)
@@ -6044,6 +6184,7 @@
 2 _TEXT Year: 1920; Census Place: Brooklyn Assembly District 21, Kin
 3 CONC gs, New York
 1 RIN 3X9tSpsiQSOgaZcjju8P
+1 REFN ecd40baa-ac6f-4154-b34f-f626e95941b3
 0 @LlmYYK6xQpy7jZ5xtDpr@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\1920 United States Federal Census(4)
@@ -6053,6 +6194,7 @@
 2 _TEXT Year: 1920; Census Place: Brooklyn Assembly District 1, King
 3 CONC s, New York
 1 RIN LlmYYK6xQpy7jZ5xtDpr
+1 REFN e6b35288-5465-40e6-9404-418899739e98
 0 @X9XD2SG9QW2XU4DEsWxt@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\1920 United States Federal Census(14
@@ -6063,6 +6205,7 @@
 3 CONC siana; Roll: T625_624; Page: 11B; Enumeration District: 248
 3 CONC ; Image: 896
 1 RIN X9XD2SG9QW2XU4DEsWxt
+1 REFN 626cc52f-a046-4cd6-98c7-3b5e951780eb
 0 @nWUzY9axTGKKl2A2n2Y2@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\1920 United States Federal Census(39
@@ -6073,6 +6216,7 @@
 3 CONC nia; Roll: T625_116; Page: 11B; Enumeration District: 604; I
 3 CONC mage: 971
 1 RIN nWUzY9axTGKKl2A2n2Y2
+1 REFN 9163e10d-e5be-4b9e-9245-1966b5ee489c
 0 @OOt9KeonR5S3s7gJR9GC@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\1930 United States Federal Census(2)
@@ -6083,6 +6227,7 @@
 3 CONC 538; Page: 16A; Enumeration District: 870; Image: 506.0; FH
 3 CONC L microfilm: 2341273
 1 RIN OOt9KeonR5S3s7gJR9GC
+1 REFN 7a82b629-f117-473d-a2f4-e106ecbd8d5e
 0 @PFDQ3ZEzStSTdWpAMRqv@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\1930 United States Federal Census(4)
@@ -6093,6 +6238,7 @@
 3 CONC 538; Page: 18A; Enumeration District: 877; Image: 827.0; FH
 3 CONC L microfilm: 2341273
 1 RIN PFDQ3ZEzStSTdWpAMRqv
+1 REFN eb74c3b3-1691-4360-9fcd-98c7400f9638
 0 @L8NsqYklR5Cn6et8I6JW@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\1930 United States Federal Census(31
@@ -6103,6 +6249,7 @@
 3 CONC rnia; Roll: 124; Page: 17A; Enumeration District: 0826; Imag
 3 CONC e: 406.0; FHL microfilm: 2339859
 1 RIN L8NsqYklR5Cn6et8I6JW
+1 REFN 8126edb9-0b42-49bf-8cea-3572f9f280bb
 0 @GfcHjQgbQlSZj43p5m17@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\1930 United States Federal Census(33
@@ -6113,6 +6260,7 @@
 3 CONC oll: 810; Page: 10A; Enumeration District: 0215; Image: 574.
 3 CONC 0; FHL microfilm: 2340545
 1 RIN GfcHjQgbQlSZj43p5m17
+1 REFN c8e6794f-5c4b-4ead-86a1-ba69d02fb1ba
 0 @1e2a6xKTTVq8wijfRH2B@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\1940 United States Federal Census(5)
@@ -6122,6 +6270,7 @@
 2 _TEXT Year: 1940; Census Place: New York, Kings, New York; Roll: T
 3 CONC 627_2615; Page: 2A; Enumeration District: 24-2589
 1 RIN 1e2a6xKTTVq8wijfRH2B
+1 REFN 11379404-d8e9-4f50-b1f7-1e5176650d2b
 0 @JjnxT0TYQFiLqyrJITUj@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\1940 United States Federal Census(14
@@ -6131,6 +6280,7 @@
 2 _TEXT Year: 1940; Census Place: New York, Kings, New York; Roll: T
 3 CONC 627_2612; Page: 61B; Enumeration District: 24-2506
 1 RIN JjnxT0TYQFiLqyrJITUj
+1 REFN 1f639686-ccaa-44c7-bbd9-a61403c796cb
 0 @JPeA7SngRS2rAXMsAYQJ@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\1940 United States Federal Census(33
@@ -6140,6 +6290,7 @@
 2 _TEXT Year: 1940; Census Place: Beverly Hills, Los Angeles, Califo
 3 CONC rnia; Roll: T627_220; Page: 11B; Enumeration District: 19-36
 1 RIN JPeA7SngRS2rAXMsAYQJ
+1 REFN b4a48b85-ffd6-4e7d-9f05-b95ef166340e
 0 @960DFxAaSgGcTaNIOYlt@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\1940 United States Federal Census(35
@@ -6149,6 +6300,7 @@
 2 _TEXT Year: 1940; Census Place: New York, Richmond, New York; Roll
 3 CONC : T627_2760; Page: 2B; Enumeration District: 43-26
 1 RIN 960DFxAaSgGcTaNIOYlt
+1 REFN eb3c64a3-0185-429c-b7ea-c80684803c62
 0 @fi2IKWbTTYWUWWKT93ts@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\Border Crossings From Mexico to US 1
@@ -6161,6 +6313,7 @@
 3 CONC 929; NAI: 2843448; Record Group Title: Records of the Immigr
 3 CONC ation and Naturali
 1 RIN fi2IKWbTTYWUWWKT93ts
+1 REFN 037ad1dc-9a0e-4480-aec9-87cbc46b2fa8
 0 @5E799lgmR5ad9AfDuawG@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\Border Crossings From Mexico to US 1
@@ -6173,6 +6326,7 @@
 3 CONC 929; NAI: 2843448; Record Group Title: Records of the Immigr
 3 CONC ation and Naturali
 1 RIN 5E799lgmR5ad9AfDuawG
+1 REFN 9355bb79-e66b-4be1-ac1b-60a327057ccf
 0 @sNSbanQQS5CYM1LuVD7D@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\Canada, Soldiers of the First Worl
@@ -6180,6 +6334,7 @@
 2 FORM jpg
 2 TITL Canada, Soldiers of the First World War, 1914-1918
 1 RIN sNSbanQQS5CYM1LuVD7D
+1 REFN f2d1edfc-3909-487e-a49f-cc31f3e25246
 0 @uDsHj4OHSB6I95HxlvUM@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\Florida Passenger Lists, 1898-1964(1
@@ -6187,6 +6342,7 @@
 2 FORM jpg
 2 TITL Florida Passenger Lists, 1898-1964
 1 RIN uDsHj4OHSB6I95HxlvUM
+1 REFN e1e9f486-224d-4794-9625-0e5ac05b8d1c
 0 @IReuhQI0TfWCoVSJ6dLA@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\New Orleans, Passenger Lists, 1813-1
@@ -6199,6 +6355,7 @@
 3 CONC ords of the Immigration and Naturalization Service; Record G
 3 CONC roup Number: 85
 1 RIN IReuhQI0TfWCoVSJ6dLA
+1 REFN ff2dafc2-1a96-40f8-b904-41b255fcff87
 0 @F4HRJnbvRReloyne6oFc@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\New Orleans, Passenger Lists, 1813-1
@@ -6211,6 +6368,7 @@
 3 CONC ords of the Immigration and Naturalization Service; Record G
 3 CONC roup Number: 85
 1 RIN F4HRJnbvRReloyne6oFc
+1 REFN dee74928-44b4-4eb6-8896-2741d2dc7f78
 0 @zHhCike6TdeuZwTZ0xUO@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\New Orleans, Passenger Lists, 1813-1
@@ -6223,6 +6381,7 @@
 3 CONC ords of the Immigration and Naturalization Service; Record G
 3 CONC roup Number: 85
 1 RIN zHhCike6TdeuZwTZ0xUO
+1 REFN fe0e32d1-268f-43ee-b912-e7c1a897af61
 0 @MbPkl2cmTvmRy7WDMv5a@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\New York, County Marriages, 1847-184
@@ -6230,6 +6389,7 @@
 2 FORM jpg
 2 TITL New York, County Marriages, 1847-1849; 1907-1936
 1 RIN MbPkl2cmTvmRy7WDMv5a
+1 REFN 765e980d-a33c-49e4-ad78-1a6f8219712c
 0 @FxuJS5lvTPCNLO20hiHr@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\New York, County Marriages, 1847-184
@@ -6237,6 +6397,7 @@
 2 FORM jpg
 2 TITL New York, County Marriages, 1847-1849; 1907-1936
 1 RIN FxuJS5lvTPCNLO20hiHr
+1 REFN 8aaef40a-4c06-426f-afb6-626e98397a0a
 0 @cvnAPhGSTsexjpvHo5yg@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\New York, County Marriages, 1847-184
@@ -6244,6 +6405,7 @@
 2 FORM jpg
 2 TITL New York, County Marriages, 1847-1849; 1907-1936
 1 RIN cvnAPhGSTsexjpvHo5yg
+1 REFN 7bf75d92-ff6b-4c5f-92ee-938da7468bed
 0 @d7Y3zMznQZ6erfk8UMhd@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\New York, County Marriages, 1847-184
@@ -6251,6 +6413,7 @@
 2 FORM jpg
 2 TITL New York, County Marriages, 1847-1849; 1907-1936
 1 RIN d7Y3zMznQZ6erfk8UMhd
+1 REFN cfab5cfe-e8da-48a7-a579-5e94fcf9366e
 0 @nLySBHJcQ3CJGz0gsuVP@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\New York, Passenger Lists, 1820-1957
@@ -6261,6 +6424,7 @@
 3 CONC 715, 1897-1957; Microfilm Roll: Roll 1760; Line: 3; Page Num
 3 CONC ber: 191
 1 RIN nLySBHJcQ3CJGz0gsuVP
+1 REFN c58575e4-1c6e-4a20-acd8-774ed9785d2d
 0 @8CPfX7lvQ2OF6dyii10i@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\New York, Passenger Lists, 1820-1957
@@ -6271,6 +6435,7 @@
 3 CONC 715, 1897-1957; Microfilm Roll: Roll 1631; Line: 2; Page Num
 3 CONC ber: 194
 1 RIN 8CPfX7lvQ2OF6dyii10i
+1 REFN 3d75d2ca-4a46-4f72-8c31-ed3d6afeda20
 0 @IeqizN6JSryfr67df8D6@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\New York, Passenger Lists, 1820-1957
@@ -6279,6 +6444,7 @@
 2 TITL New York, Passenger Lists, 1820-1957
 2 _TEXT Year: 1911
 1 RIN IeqizN6JSryfr67df8D6
+1 REFN b48a5397-26e2-43e3-97f3-f900b6ad7694
 0 @fqRRtLhPT1yf8ZaJB9J2@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\New York, Passenger Lists, 1820-1957
@@ -6289,6 +6455,7 @@
 3 CONC 715, 1897-1957; Microfilm Roll: Roll 2692; Line: 1; Page Num
 3 CONC ber: 116
 1 RIN fqRRtLhPT1yf8ZaJB9J2
+1 REFN e913f408-b495-4fed-861b-f981d97d3afb
 0 @50JmJ6bwS6egZLb2QJ9E@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\New York, State Census, 1905(3).jpg
@@ -6298,6 +6465,7 @@
 3 CONC n Census Schedules, 1905; Election District: A.D. 18 E.D. 16
 3 CONC ; City: Brooklyn; County: Kings; Page: 34
 1 RIN 50JmJ6bwS6egZLb2QJ9E
+1 REFN 787d2f6e-ee97-4cd0-9e9c-7bee955f0a15
 0 @fhHQgTtbTP2mLBDgKMIP@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\New York, State Census, 1915(2).jpg
@@ -6307,6 +6475,7 @@
 3 CONC n Census Schedules, 1915; Election District: 24; Assembly Di
 3 CONC strict: 18; City: New York; County: Kings; Page: 48
 1 RIN fhHQgTtbTP2mLBDgKMIP
+1 REFN 104e15e1-1252-47e0-a84f-6801489e5b13
 0 @Vw27nZgbSmmXzknlGsbL@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\New York, State Census, 1915(13).jpg
@@ -6316,6 +6485,7 @@
 3 CONC n Census Schedules, 1915; Election District: 60; Assembly Di
 3 CONC strict: 22; City: New York; County: Kings; Page: 59
 1 RIN Vw27nZgbSmmXzknlGsbL
+1 REFN db3acaae-baea-4e63-b09f-06c8bd5ca580
 0 @GpSbksVfTcitlU2qNpWz@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\New York, State Census, 1925(1).jpg
@@ -6325,6 +6495,7 @@
 3 CONC n Census Schedules, 1925; Election District: 62; Assembly Di
 3 CONC strict: 21; City: Brooklyn; County: Kings; Page: 14
 1 RIN GpSbksVfTcitlU2qNpWz
+1 REFN 5652ed59-341c-41b1-ba7b-294869358e14
 0 @xRCjrpyeRMOO6UYnUFhM@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\New York, State Census, 1925(12).jpg
@@ -6334,6 +6505,7 @@
 3 CONC n Census Schedules, 1925; Election District: 45; Assembly Di
 3 CONC strict: 21; City: Brooklyn; County: Kings; Page: 17
 1 RIN xRCjrpyeRMOO6UYnUFhM
+1 REFN 97f37dcb-db9c-4893-a7e4-a80fce928c06
 0 @45EqczXrRS2m8AsosY0r@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\Puerto Rico, Passenger and Crew List
@@ -6346,6 +6518,7 @@
 3 CONC 34; Record Group Title: Records of the Immigration and Natur
 3 CONC alization Service,
 1 RIN 45EqczXrRS2m8AsosY0r
+1 REFN ebd721cb-8b08-4c65-849d-31a28fc37af4
 0 @6HuHJfJjQwa7ivGoHCsy@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\Puerto Rico, Passenger and Crew List
@@ -6358,6 +6531,7 @@
 3 CONC 34; Record Group Title: Records of the Immigration and Natur
 3 CONC alization Service,
 1 RIN 6HuHJfJjQwa7ivGoHCsy
+1 REFN 166e2418-2d8b-444e-8eee-4c1bf8e729f7
 0 @eH0hUKFpT4io7zrx8DaB@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\Ruby (Barbara Stanwyck) Stevens (190
@@ -6365,6 +6539,7 @@
 2 FORM jpg
 2 TITL Ruby (Barbara Stanwyck) Stevens (1907 - 1990)
 1 RIN eH0hUKFpT4io7zrx8DaB
+1 REFN 044174db-b4a4-4530-a0ea-c75b4a5bd7c0
 0 @FAxTiHzDQOaCAg3xSVH4@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\U.S. City Directories, 1821-1989(39)
@@ -6372,12 +6547,14 @@
 2 FORM jpg
 2 TITL U.S. City Directories, 1821-1989
 1 RIN FAxTiHzDQOaCAg3xSVH4
+1 REFN 68059b5b-1121-4354-a6a6-9a22eed07787
 0 @P5f3cSA8QQCRxYD43mii@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\U.S. City Directories, 1822-1995.jpg
 2 FORM jpg
 2 TITL U.S. City Directories, 1822-1995
 1 RIN P5f3cSA8QQCRxYD43mii
+1 REFN 346d8930-9bdb-4be6-ae51-6e19ae615ad5
 0 @jmGf5AYKTlKIODhYRrey@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\U.S. Passport Applications, 1795-192
@@ -6389,6 +6566,7 @@
 3 CONC 6 - March 31, 1925; Roll #: 797; Volume #: Roll 0797 - Certi
 3 CONC ficates: 87750-87999, 11 Jun 1919-12 Jun 1919
 1 RIN jmGf5AYKTlKIODhYRrey
+1 REFN 75449317-21e7-4e34-ba37-267de428d0d7
 0 @ktuPdHHQTvWEkp6fraGq@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\U.S. Passport Applications, 1795-192
@@ -6400,6 +6578,7 @@
 3 CONC 6 - March 31, 1925; Roll #: 1440; Volume #: Roll 1440 - Cert
 3 CONC ificates: 121250-121625, 18 Dec 1920-20 Dec 1920
 1 RIN ktuPdHHQTvWEkp6fraGq
+1 REFN f3101a4d-1244-4ab8-8492-6da3c9879908
 0 @W5gd1JGQQpONWRP6mQOD@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\U.S., Newspaper Extractions from th
@@ -6407,6 +6586,7 @@
 2 FORM jpg
 2 TITL U.S., Newspaper Extractions from the Northeast, 1704-1930
 1 RIN W5gd1JGQQpONWRP6mQOD
+1 REFN 9719f46a-a6b4-4e26-8df6-bed92a305f37
 0 @NEQQ2fMYR5ScqahIq2V1@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\U.S., Residents Serving in Canadia
@@ -6415,6 +6595,7 @@
 2 TITL U.S., Residents Serving in Canadian Expeditionary Forces, 19
 3 CONC 17-1918
 1 RIN NEQQ2fMYR5ScqahIq2V1
+1 REFN 27de2b11-bde6-4310-95a8-6d9da66a7034
 0 @yVuTCmqgREmLmPB2KpP1@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\U.S., World War I Draft Registratio
@@ -6424,6 +6605,7 @@
 2 _TEXT Registration State: New York; Registration County: Bronx; Ro
 3 CONC ll: 1754133; Draft Board: 22
 1 RIN yVuTCmqgREmLmPB2KpP1
+1 REFN c7e6095f-0f64-4af6-bacd-33282d83683d
 0 @9JvqIw1CThm9Gg4Nt1rn@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\U.S., World War I Draft Registratio
@@ -6433,6 +6615,7 @@
 2 _TEXT Registration State: New York; Registration County: Nassau; R
 3 CONC oll: 1754388; Draft Board: 3
 1 RIN 9JvqIw1CThm9Gg4Nt1rn
+1 REFN 8c287c67-12af-4a74-af10-4dd34355cf8a
 0 @CxKNLDAZQwSq04zBjCBT@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\U.S., World War II Draft Registratio
@@ -6445,6 +6628,7 @@
 3 CONC p Title: Records of the Selective Service System; Record Gro
 3 CONC up Number: 147
 1 RIN CxKNLDAZQwSq04zBjCBT
+1 REFN f96e77b9-135f-4333-be94-d79f07318c66
 0 @tA5nsZKBSGOvooUHFyF5@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\U.S., World War II Draft Registratio
@@ -6457,6 +6641,7 @@
 3 CONC roup Title: Records of the Selective Service System; Recor
 3 CONC d Group Number: 14
 1 RIN tA5nsZKBSGOvooUHFyF5
+1 REFN f4a8dc98-6b86-4339-b307-286d11ce2ded
 0 @PNlWd1laR9qrjHSpEQWF@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\UK, Incoming Passenger Lists, 1878-1
@@ -6468,214 +6653,5 @@
 3 CONC sors: Inwards Passenger Lists.; Class: BT26; Piece: 1354; It
 3 CONC em: 81
 1 RIN PNlWd1laR9qrjHSpEQWF
-0 @T1151@ NOTE 13:00 EST
-1 RIN T1151
-0 @T105@ NOTE 1900 Census (Jun) lists birth as Aug 1849.
-1 CONT Death cert. lists as Aug 6, 1847.
-1 CONT Assume Aug 6 from death cert. and Aug 1849 from census.
-1 CONT But: 1910 Census (Apr) lists age as 62, which would be consi
-1 CONC stent with Aug 1847.
-1 CONT Joseph Dudley says 6 Aug 1847 Quito
-1 REFN 91dbe48f-4b19-4b89-a592-1cad82a72fe3
-1 RIN T105
-0 @T103@ NOTE 1900 Census (Jun) lists birth as Dec 1874.
-1 CONT Death cert. lists as Dec 7, 1871.
-1 CONT Assume Dec 7 from death cert. and Dec 1874 from census.
-1 CONT But: 1910 Census (Apr) gives age 38, which would be consiste
-1 CONC nt with 1871.
-1 CONT Joseph Dudley says 7 Dec 1871 Quito
-1 REFN e72d9b29-65ce-4847-8c9b-a513f75939ac
-1 RIN T103
-0 @T164@ NOTE 1900 Census lists birth as Aug 1878.
-1 CONT Death cert. lists as Aug 26, 1877.
-1 CONT But: 1910 Census (Apr) gives age 32, which would be consiste
-1 CONC nt with Aug 1877.
-1 CONT Joseph Dudley says 26 Aug 1877, Jipijapa
-1 REFN 48b6b42e-1398-4e91-af2a-7de801aae235
-1 RIN T164
-0 @T202@ NOTE Assuming first 6 Agate Court?, then moved (unknown when, may
-1 CONC be before 1906) to 65 Rutland Road.
-1 REFN 7b9f1dbb-4094-4874-a56b-41d54d499b63
-1 RIN T202
-0 @T1059@ NOTE Consistent with being 11 months old at baptism on April 10
-1 CONC , 1883.
-1 REFN bf5b49a7-8d5a-4ec2-bb37-f82d300f977f
-1 RIN T1059
-0 @T195@ NOTE December is a guess
-1 REFN 95b11587-9c37-4f94-839d-73edab42cd9f
-1 RIN T195
-0 @T168@ NOTE End date approx.
-1 REFN feb54cd2-29e2-49d7-9ae0-cc44b6fb4cfd
-1 RIN T168
-0 @T167@ NOTE Joined forces under General Eloy Alfaro.
-1 CONT Became Surgeon General of the Revolutionary Forces.
-1 REFN 35c636a4-7def-4df7-924c-e167263c3ecf
-1 RIN T167
-0 @T1114@ NOTE Joseph Dudley says Chone, Manabi, Ecuador; WWI Registratio
-1 CONC n Card give Guayaquil. I scanned Baptism records for two yea
-1 CONC rs after Aug. 1891 in Chone and found none for Samuel. Possi
-1 CONC ble he was born in Chone and baptised in Guayaquil. Need t
-1 CONC o check baptism records in Guayaquil.
-1 REFN 682c29f8-7191-424f-b332-60b81d9f33fe
-1 RIN T1114
-0 @T768@ NOTE Joseph Dudley says of uremia
-1 REFN 58b70c15-cbcc-4309-8039-a2a4db883010
-1 RIN T768
-0 @T165@ NOTE Latin teacher: Buenaventura Proaño.
-1 CONT Humanities teacher: Padre Hernáez.
-1 CONT Dates approx.
-1 REFN 3846eb8f-d966-47d7-9e7f-484851be8150
-1 RIN T165
-0 @T1116@ NOTE Left Guayaquil 1 Feb 1900 (w/ dau. Lelia, her husb Victor, a
-1 CONC nd the latters' son Victor). Took ship to Panama, crossed b
-1 CONC y train, took ship (named "Advance") to Manhattan, arrived 1
-1 CONC 4 Feb. Since Felicisimo was a diplomat, there was no immigra
-1 CONC tion services necessary (so there is probably no official re
-1 CONC cord of the arrival). They stayed night of 14 Feb in the 5t
-1 CONC h Avenue Hotel (since demolished) (at 23rd St) opposite Flat
-1 CONC iron Building. Stayed for a few days, then moved to 6 Agat
-1 CONC e Court, Brooklyn.
-1 CONT Note that "A History of the New York Stage," by Thomas Allst
-1 CONC on Brown, vol. 3, p. 477, shows "1900... Feb. 14, 'Carmen,
-1 CONC ' with Mlle. Olitzka as the heroine."
-1 REFN 7ddf6fb0-993a-4fcf-86cd-882c2b03bdf8
-1 RIN T1116
-0 @T1061@ NOTE Pazmino Lopez Family History (Joseph Dudley) gives 1881
-1 REFN 393a6728-1f8d-4177-afc1-d234f4c8dfca
-1 RIN T1061
-0 @T713@ NOTE Start date is approx.; end date October is a guess.
-1 REFN da4b49d9-0445-4fc5-a54e-3a33af02afe0
-1 RIN T713
-0 @T714@ NOTE The day of the start date is mostly illegible on the origina
-1 CONC l. Appears to be two digits, starting with a 2.
-1 REFN dc9a0be7-47ea-475f-87fc-6e4acc67b210
-1 RIN T714
-0 @T166@ NOTE The same day General Veintimilla declared himself Jefe Supre
-1 CONC mo de la Repúbilca.
-1 CONT Enlisted as a medic with the forces opposing Veintimilla.
-1 REFN a76e780c-a22d-4bbf-a02a-af56df6df99b
-1 RIN T166
-0 @T200@ NOTE This place is in Prospect-Lefferts Gardens section of Brookl
-1 CONC yn, near Prospect Park.
-1 REFN b6657224-5b8d-4e3c-a3e2-e3d1c67b77e4
-1 RIN T200
-0 @T204@ NOTE Title: Historia de una excomunión en el Ecuador.
-1 CONT Publication: American Bank Note Co., New York, 1909.
-1 CONT [copies at New York Public Library and Library of Congress]
-1 REFN 05901f1e-f905-489b-8056-15a8402777fd
-1 RIN T204
-0 @T718@ NOTE US Census 1900 gives 1899 as immigration year; Jospeh Dudle
-1 CONC y says 14 Feb 1900 (with father-in-law Felicisimo Lopez).
-1 REFN 169464ea-e7d3-40dc-8974-5cb5bb9619d2
-1 RIN T718
-0 @T717@ NOTE Unknown residence during this time period. He may have gon
-1 CONC e to Ecuador for a while before travelling to Puerto Rico.
-1 REFN a79826f0-a181-4a92-a75f-6968a09284c4
-1 RIN T717
-0 @T1062@ NOTE Virutas [meaning Shavings in English]
-1 CONT Title: Virutas, o Almanaque de pensamientos sinceros
-1 CONT Publication: New York, [s. n.], 1908.
-1 REFN 7fb1bf14-e290-476c-aa9f-05b70725338d
-1 RIN T1062
-0 @T198@ NOTE after 1873, while still a doctor
-1 REFN c88fa624-70a1-4fac-b972-405cfcb50f2b
-1 RIN T198
-0 @T683@ NOTE appointed by Eloy Alfaro, President of Ecuador
-1 REFN e9798be6-b673-41e9-a41c-75973b6969ac
-1 RIN T683
-0 @T715@ NOTE arrived Dec 1910 (day is illegible, 20 is a guess) on ship "
-1 CONC S. S. Philadelphia" in Puerto Rico
-1 REFN f54c16fc-21a1-4c4d-9ad5-fc1a91995a6b
-1 RIN T715
-0 @T317@ NOTE date is from SSDI (Dolores Zilker)
-1 REFN e0580a54-ecd4-46c7-936f-04012c85de25
-1 RIN T317
-0 @T196@ NOTE dates approx.
-1 REFN 0a2e897e-aee6-4291-b510-aaaedb46295a
-1 RIN T196
-0 @T911@ NOTE dates are guesses
-1 REFN 8e52c58d-4d59-4b41-a4ca-1f25182dd310
-1 RIN T911
-0 @T191@ NOTE delegate to the convention from Manabi Province
-1 REFN c1134a52-1459-4c81-b6e3-9a36910472f0
-1 RIN T191
-0 @T199@ NOTE ending date assumed
-1 REFN afa1027e-9bd7-4591-8c3e-cd99287e4d62
-1 RIN T199
-0 @T719@ NOTE from San Juan, Puerto Rico, to New York, NY, USA, on ship "S
-1 CONC . S. Caracas". Info about ship Caracas from US Maritime Comm
-1 CONC ission list transcribed at www.usmm.org/ships1914.html: ship
-1 CONC : Caracas; line: Atlantic & Caribbean Steam Navigation Co. (
-1 CONC Red "D" Line); type: Passenger; tonnage: 2,886. Photo availa
-1 CONC ble in: "Marine Steam" (by Babcock & Wilcox: 1928), p. 226.
-1 REFN 67af478d-b8da-47b0-9566-32ed1c7c300c
-1 RIN T719
-0 @T1060@ NOTE godparents: Adolfo H. Campozano, and Rosario Romero
-1 REFN 19588eae-aed7-4e00-963d-5787bf3fc3df
-1 RIN T1060
-0 @T1109@ NOTE godparents: Eloy Alfaro (future president of Ecuador) and Se
-1 CONC bastiana Gutierrez
-1 REFN f968795d-803d-4701-a1cd-44a0924be69f
-1 RIN T1109
-0 @T682@ NOTE he gives 1897 and 1898
-1 REFN c7e26711-119e-4803-88ce-6e8a568372dc
-1 RIN T682
-0 @T197@ NOTE honorary title. date approx
-1 REFN fcd73c0a-dfe6-4a4d-bfd5-bd3e56378ab3
-1 RIN T197
-0 @T655@ NOTE in place of his father-in-law Felicisimo
-1 REFN 139a903b-07d9-47cd-9fc7-c44872dd5c60
-1 RIN T655
-0 @T201@ NOTE maybe first Ecuador, then Venesuela, then Nicaragua?
-1 REFN 29d6aa62-f435-4305-9502-3eb5c2cc217c
-1 RIN T201
-0 @T169@ NOTE of Esmeraldas Province, but was uncontitutionally denied th
-1 CONC e seat, because he had been excommunicated
-1 REFN 73016019-7088-4223-9413-54b9e1b8519b
-1 RIN T169
-0 @T193@ NOTE of wounds obtained in a military battle
-1 REFN 9c593fe3-7b32-4734-9039-65ed27a2f3ef
-1 RIN T193
-0 @T716@ NOTE possibly 2205 Beverly Rd.
-1 REFN 99c0320d-4ac8-4086-a426-16d9948f52c3
-1 RIN T716
-0 @T203@ NOTE published first Atlas of Ecuador (while he was Minister of E
-1 CONC ducation)
-1 CONT Title: Atlas geográfico del Ecuador, arreglado según la ca
-1 CONC rta del Dr. Teodoro Wolf / por Felicísimo López
-1 CONT Publication: American Bank Note Co., New York, 1907.
-1 CONT Copy is at the New York Public Library, Map Division.
-1 REFN 35b81f37-8652-48e5-a47c-954b6bb81506
-1 RIN T203
-0 @T190@ NOTE settling inheritance suits resulting from the death of his m
-1 CONC other
-1 REFN af6e53ee-8334-4ea3-bced-5b7cbcbd99a4
-1 RIN T190
-0 @T189@ NOTE she remained a citizen of Ecuador her whole life
-1 REFN c39820df-8fe4-4e54-a3c1-85778e484b99
-1 RIN T189
-0 @T722@ NOTE show as Dolores Zilker (I am just assuming that this is righ
-1 CONC t Dolores, because birth and death dates match)
-1 REFN fbb7cb60-f9e1-4723-a001-1c855cf7fd2e
-1 RIN T722
-0 @T863@ NOTE signed the Constitution of Ecuador (14 Jan 1897)
-1 REFN a1047634-ef6a-4c4d-9b6c-40b1da043d46
-1 RIN T863
-0 @T666@ NOTE start date is approx.
-1 REFN c8a2ca74-fe61-4fd8-8a96-6f4c2d001d1d
-1 RIN T666
-0 @T765@ NOTE time: 3:00 AM ET
-1 CONT Cause: cancer of the rectum
-1 CONT [note: this is in Brooklyn Heights]
-1 REFN d732f9d6-d5f7-4abb-ba7d-a5bb861b3871
-1 RIN T765
-0 @T767@ NOTE time: 4:30 PM ET
-1 REFN 781acd40-c4cc-4e66-98d9-4e77c69e38d0
-1 RIN T767
-0 @T192@ NOTE while living in Brooklyn?
-1 REFN 65eee3f9-88f3-4a7e-938b-339209e12fe7
-1 RIN T192
-0 @T194@ NOTE with her father Felicisimo
-1 REFN 1877a15b-1c5f-4cde-ab15-24bc6b87af22
-1 RIN T194
+1 REFN 9bb88ff2-ea9d-44dd-9986-daa78e675122
 0 TRLR
