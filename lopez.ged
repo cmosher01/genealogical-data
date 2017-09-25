@@ -14,7 +14,7 @@
 1 SUBM @7gRqCK4CSVyNCk4tvpit@
 1 FILE Lopez_2017-09-25.ged
 1 DATE 25 SEP 2017
-2 TIME 02:54:56
+2 TIME 03:52:55
 0 @7gRqCK4CSVyNCk4tvpit@ SUBM
 1 NAME Christopher Alan Mosher
 1 REFN 390c39f0-97da-4c81-9947-52fbf0651b95
@@ -1268,12 +1268,12 @@
 3 CONT Humanities teacher: Padre Hernáez.
 3 CONT Dates approx.
 1 EDUC
-2 DATE FROM 1868 TO 1872
+2 DATE ABT 1870
 2 PLAC Facultad de Ciencias Medicas de la Universidad Central, Quit
 3 CONC o, Pichincha, Ecuador
-2 SOUR @qmMqwSf4RzGhuPIU2PgN@
-3 QUAY 1
-2 NOTE dates are guesses
+2 SOUR @rF6T1DrXQt2JZCH7KGmd@
+3 _APID 1,7833::81066
+2 NOTE date is a guess
 1 OCCU doctor
 2 DATE FROM 1873 TO 1885
 2 PLAC Jipijapa, Manabi, Ecuador
@@ -1971,11 +1971,6 @@
 3 PAGE Year: 1940; Census Place: New York, Kings, New York; Roll: T
 4 CONC 627_2615; Page: 2A; Enumeration District: 24-2589
 3 OBJE @EuNyrMxrSMqPhfJjXwGK@
-2 SOUR @k2uf836cSGuizWFf890w@
-3 PAGE Ancestry Family Tree
-3 DATA
-4 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=62861
-5 CONC &pid=32
 2 SOUR @Ap7270q8QDmqnp4oKY6u@
 3 _APID 1,7364::1035434
 3 PAGE New York State Archives; Albany, New York; State Populatio
@@ -2668,11 +2663,6 @@
 3 PAGE Year: 1940; Census Place: New York, Kings, New York; Roll: T
 4 CONC 627_2615; Page: 2A; Enumeration District: 24-2589
 3 OBJE @EuNyrMxrSMqPhfJjXwGK@
-2 SOUR @k2uf836cSGuizWFf890w@
-3 PAGE Ancestry Family Tree
-3 DATA
-4 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=62861
-5 CONC &pid=33
 2 SOUR @AjMegeGBTpu0nJWDRMDA@
 3 _APID 1,9131::4259816
 2 SOUR @6GMfgI81RfCDdjYEIKCD@
@@ -4475,22 +4465,10 @@
 2 CONC h Census of the United States, 1940</i>. Washington, D.C.: N
 2 CONC ational Archives and Records Administration, 1940. T627, 4,6
 2 CONC 43 rolls.
-0 @k2uf836cSGuizWFf890w@ SOUR
-1 REFN 0a5a39f4-3596-4c9b-ab54-0df9511aae75
-1 REPO @xHe9QECyQEOJwnc6BXii@
-1 TITL Ancestry Family Trees
-1 PUBL Online publication - Provo, UT, USA: Ancestry.com.  Origina
-2 CONC l data:  Family Tree files submitted by Ancestry members.
-1 TEXT This information comes from 1 or more individual Ancestry Fa
-2 CONC mily Tree files. This source citation points you to a curren
-2 CONC t version of those files.
-2 CONT Note:
-2 CONT The owners of these tree files may have removed or changed i
-2 CONC nformation since this source citation was created.
 0 @G8TESznJRGCKBg1WwF0w@ SOUR
 1 REFN 11f21b2e-ff62-4c28-b685-792f2b9f489a
 1 REPO @xHe9QECyQEOJwnc6BXii@
-1 TITL Ancestry Family Trees, OLD
+1 TITL Ancestry Family Trees
 1 PUBL Online publication - Provo, UT, USA: Ancestry.com.  Origina
 2 CONC l data:  Family Tree files submitted by Ancestry members.
 0 @VNJmTT54QfGaE5JoCuYv@ SOUR
@@ -4616,25 +4594,6 @@
 1 REFN d9c676b2-3a7a-41ca-b907-a2467391bd76
 1 REPO @xHe9QECyQEOJwnc6BXii@
 1 TITL Directory of Deceased American Physicians, 1804-1929
-0 @qmMqwSf4RzGhuPIU2PgN@ SOUR
-1 REFN d3e00ac1-4fe5-4e34-b73b-eba3e4360855
-1 TITL Directory of Deceased American Physicians, 1804-1929
-1 PUBL Genealogy.com
-1 TEXT Vital Records: Directory of Deceased American Physicians, 18
-2 CONC 04-1929<br />
-2 CONT Died:
-2 CONT Dec 15, 1917
-2 CONT in:
-2 CONT Brooklyn, NY<br />
-2 CONT Born:
-2 CONT 1847<br />
-2 CONT Type of practice:
-2 CONT Allopath<br />
-2 CONT Medical school:
-2 CONT Facultad de Ciencias Medicas de la Universidad Central, Quit
-2 CONC o, 1874, (G)<br />
-2 CONT Journal of the American Medical Asociation citation:
-2 CONT 70:43
 0 @7hzCF6rURECkbdc8IJaU@ SOUR
 1 REFN 3e2d0186-93fe-45a5-b3e2-47d789bd9342
 1 TITL Dudley, Joseph Letters
