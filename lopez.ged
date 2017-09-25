@@ -12,9 +12,9 @@
 3 PHON (617) 227-6681
 1 DEST FTM
 1 SUBM @7gRqCK4CSVyNCk4tvpit@
-1 FILE Lopez_2017-09-24-3.ged
-1 DATE 24 SEP 2017
-2 TIME 22:49:34
+1 FILE Lopez_2017-09-25.ged
+1 DATE 25 SEP 2017
+2 TIME 02:54:56
 0 @7gRqCK4CSVyNCk4tvpit@ SUBM
 1 NAME Christopher Alan Mosher
 1 REFN 390c39f0-97da-4c81-9947-52fbf0651b95
@@ -1994,8 +1994,6 @@
 4 CONC n Census Schedules, 1925; Election District: 62; Assembly Di
 4 CONC strict: 21; City: Brooklyn; County: Kings; Page: 14
 3 OBJE @wsV4DyQST5mb92NIWFap@
-2 SOUR @B4LTPHjqR4KGlxrleg4F@
-3 _APID 1,1732::250737643
 1 SEX F
 1 FAMC @KHbLkt6WRqSDo0DTyyKL@
 1 FAMS @1SlIoqLYRCqfA1ineuNc@
@@ -2259,8 +2257,13 @@
 1 RESI
 2 DATE ABT 1950
 2 PLAC 1620 Avenue I, Brooklyn, Kings, New York, USA
-2 SOUR @B4LTPHjqR4KGlxrleg4F@
+2 SOUR @S61@
 3 _APID 1,1732::250737643
+1 RESI
+2 DATE ABT 1951
+2 PLAC 1620 Avenue I, Brooklyn, Kings, New York, USA
+2 SOUR @S61@
+3 _APID 1,1732::250737834
 1 DEAT
 2 DATE 29 DEC 1962
 2 PLAC Ward C-11, Kings County Hospital, Brooklyn, Kings, New York
@@ -5198,16 +5201,13 @@
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2007
-0 @B4LTPHjqR4KGlxrleg4F@ SOUR
+0 @S61@ SOUR
 1 REFN 02031712-40fa-41c6-9cb7-0983146f6e42
-1 REPO @4C3FCKv9R0Kn02eq28g7@
+1 REPO @xHe9QECyQEOJwnc6BXii@
 1 TITL U.S. Public Records Index, 1950-1993, Volume 2
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2010
-1 TEXT <i>Voter Registration Lists, Public Record Filings, Historic
-2 CONC al Residential Records, and Other Household Database Listing
-2 CONC s</i>.
 0 @8SpggOHIRZiow2E3C3cu@ SOUR
 1 REFN a7ca453e-9c6f-4aa4-830c-6d2be00a67d3
 1 REPO @xHe9QECyQEOJwnc6BXii@
