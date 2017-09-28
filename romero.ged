@@ -3,25 +3,23 @@
 1 GEDC
 2 VERS 5.5.1
 2 FORM LINEAGE-LINKED
-1 SOUR GRO
-2 NAME Genealogy Research Organizer
-2 VERS 1.5
-2 CORP http://mosher.mine.nu/gotogro
-3 ADDR 41 Brook Pine Drive
-4 CONT Shelton, CT 06484-5912
-4 CONT USA
-3 EMAIL cmosher01@@gmail.com
+1 SOUR FTM
+2 VERS 23.0.2.1343
+2 NAME Family Tree Maker for Windows
+2 CORP The Software MacKiev Company
+3 ADDR 30 Union Wharf
+4 CONT Boston, MA 02109
+3 PHON (617) 227-6681
+1 DEST FTM
 1 SUBM @q617a8cVTOqfOshz2hQ4@
-1 FILE Mosher_Disosway_Harrison_Pazmino_2017-08-03.ged
-1 DATE 20 SEP 2017
-2 TIME 03:48:10
+1 FILE Romero_2017-09-28.ged
+1 DATE 28 SEP 2017
+2 TIME 20:45:01
 0 @q617a8cVTOqfOshz2hQ4@ SUBM
 1 NAME Christopher Alan Mosher
 1 RIN Umy2qBWIRUiwVSS6Hcn4
-1 REFN 4a0affcd-a71b-417a-96d5-fdd6a984554f
 0 @oXKpX114SpmiHrBOOpxL@ INDI
 1 REFN a36b9459-5e27-4781-a336-93e0a7241a73
-1 RIN I801
 1 NAME Aquiles /López/
 1 SEX M
 1 FAMC @lcMabrYtRUygPJbNpN6U@
@@ -31,7 +29,6 @@
 2 DATE 1928
 0 @xpg4NMN5S3OjFuvt8g62@ INDI
 1 REFN 546c81e8-3a75-45a9-b6e9-65abf3520283
-1 RIN I796
 1 NAME Dolores /López/
 1 SEX F
 1 FAMC @lcMabrYtRUygPJbNpN6U@
@@ -41,7 +38,6 @@
 2 DATE 06 JUN 1963
 0 @XhjCXd6cQVy1UYUFRr3v@ INDI
 1 REFN fe9a8417-4b2c-4108-a56e-76147cd72175
-1 RIN I795
 1 NAME Dolores Olympia /López/
 1 SEX F
 1 FAMC @lcMabrYtRUygPJbNpN6U@
@@ -51,7 +47,6 @@
 2 DATE 1877
 0 @vTOF6oIUQoufiemBQJnl@ INDI
 1 REFN 08c98db7-c65e-4ab9-9b9d-a5823834074a
-1 RIN I799
 1 NAME Eloyísa /López/
 1 SEX F
 1 FAMC @lcMabrYtRUygPJbNpN6U@
@@ -61,7 +56,6 @@
 2 DATE 30 MAY 1965
 0 @Fb7O40VzTbG41Ghtnusq@ INDI
 1 REFN a5fab8d4-0403-4d45-a909-ecb490581ada
-1 RIN I797
 1 NAME Estenio /López/
 1 SEX M
 1 FAMC @lcMabrYtRUygPJbNpN6U@
@@ -71,7 +65,6 @@
 2 DATE 1897
 0 @rI0L2Q74TyqxKXNGfI1U@ INDI
 1 REFN ac139ee4-c9a3-40d7-a8c7-7a6060a645d5
-1 RIN I27
 1 NAME Felicísimo /López/
 1 SEX M
 1 FAMS @lcMabrYtRUygPJbNpN6U@
@@ -81,7 +74,6 @@
 2 DATE 15 DEC 1917
 0 @VMCCp1ueSt2ywV4blCAY@ INDI
 1 REFN 870d6f88-cb55-4dc9-b155-5b9a1a2f95fc
-1 RIN I802
 1 NAME Hector Samuel /López/
 1 SEX M
 1 FAMC @lcMabrYtRUygPJbNpN6U@
@@ -93,7 +85,6 @@
 2 DATE 12 SEP 1933
 0 @2aAXjBLVR1yvoVuM0BJl@ INDI
 1 REFN 1b5b6e74-7605-445e-bce4-91fd39e89553
-1 RIN I26
 1 NAME Lelia /López/
 1 SEX F
 1 FAMC @lcMabrYtRUygPJbNpN6U@
@@ -103,7 +94,6 @@
 2 DATE 29 DEC 1962
 0 @IhWQxX7lQh2wfUhKmrLs@ INDI
 1 REFN 2f91e775-889a-46ce-9730-9a8fcc10e19f
-1 RIN I800
 1 NAME Miguel Angel /López/
 1 SEX M
 1 FAMC @lcMabrYtRUygPJbNpN6U@
@@ -113,7 +103,6 @@
 2 DATE 1935
 0 @esqWSVLVQPCQpT77C3Mg@ INDI
 1 REFN c11d9537-9e6b-4567-86c1-cfc02e17bdf8
-1 RIN I798
 1 NAME Ulises /López/
 1 SEX M
 1 FAMC @lcMabrYtRUygPJbNpN6U@
@@ -126,7 +115,6 @@
 0 @obAZ9TAOQymqUjtnyXI7@ INDI
 1 _XY 173129 2708
 1 REFN f0a16daf-2789-4774-8d42-12d10761033a
-1 RIN I28
 1 NAME Francisca /Romero/
 2 SOUR @LSlAMZ6dT2mXk2j4khXV@
 3 _APID 1,7884::119643252
@@ -134,34 +122,79 @@
 4 CONC ; Roll: T624_982; Page: 3B; Enumeration District: 0931; FH
 4 CONC L microfilm: 1374995
 3 OBJE @qZU4RMdOQSGAfOUfnaYS@
+2 SOUR @KbSWduELTkyN1CsH1CuP@
+3 _APID 1,6061::103419866
+3 PAGE Year: 1920; Census Place: Brooklyn Assembly District 1, King
+4 CONC s, New York
+3 OBJE @6wLIyvohQBWAM7ldG1EB@
 2 SOUR @lWhOJZejTEe0yfHQBzgX@
 3 _APID 1,6224::40616546
 3 PAGE Year: 1930; Census Place: Brooklyn, Kings, New York; Roll: 1
 4 CONC 538; Page: 18A; Enumeration District: 877; Image: 827.0; FH
 4 CONC L microfilm: 2341273
 3 OBJE @irgvhRNwTPus1e2PjWzS@
-2 SOUR @RroUDsupQ1qkFGegm6R5@
-3 _APID 1,2703::4343077
-3 PAGE New York State Archives; Albany, New York; State Populatio
-4 CONC n Census Schedules, 1915; Election District: 24; Assembly Di
-4 CONC strict: 18; City: New York; County: Kings; Page: 48
-3 OBJE @CmhTgnjUQVuJwfIZUSUA@
 2 SOUR @NcO1hUAjSMC6yB7BVILF@
 3 _APID 1,2442::5009224
 3 PAGE Year: 1940; Census Place: New York, Kings, New York; Roll: T
 4 CONC 627_2615; Page: 2A; Enumeration District: 24-2589
 3 OBJE @Tvr4zibYShGtBKtMmK2u@
-2 SOUR @KbSWduELTkyN1CsH1CuP@
-3 _APID 1,6061::103419866
-3 PAGE Year: 1920; Census Place: Brooklyn Assembly District 1, King
-4 CONC s, New York
-3 OBJE @6wLIyvohQBWAM7ldG1EB@
 2 SOUR @HNlukgjJS92CYnfZMphO@
 3 _APID 1,7364::1517652
 3 PAGE New York State Archives; Albany, New York; State Populatio
 4 CONC n Census Schedules, 1905; Election District: A.D. 18 E.D. 16
 4 CONC ; City: Brooklyn; County: Kings; Page: 34
 3 OBJE @BAYtYmyESHSSqsfUvnfA@
+2 SOUR @RroUDsupQ1qkFGegm6R5@
+3 _APID 1,2703::4343077
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1915; Election District: 24; Assembly Di
+4 CONC strict: 18; City: New York; County: Kings; Page: 48
+3 OBJE @CmhTgnjUQVuJwfIZUSUA@
+2 SOUR @S15@
+3 _APID 1,1075::5082143
+3 PAGE "Manifests of Alien Arrivals at Buffalo, Lewiston, Niagara F
+4 CONC alls, and Rochester, New York, 1902-1954," Record Group #85
+4 CONC , "Records of the Immigration and Naturalization Service, 17
+4 CONC 87-2004," series M1480, roll 67, image 3784
+3 DATA
+4 TEXT BUFFALO, N.Y. 6/30/19
+5 CONT Family name LOPEZ
+5 CONT Given name SAMUEL
+5 CONT Accompanied by -
+5 CONT Place of birth Chone, Equador [sic]
+5 CONT Age 28 Yrs. [blank] Mos.
+5 CONT Sex. M.
+5 CONT S[ingle] X
+5 CONT Occupation Salesman
+5 CONT Read y[es]
+5 CONT Write y[es]
+5 CONT Race Spanish
+5 CONT Nationality Ecquador [sic]
+5 CONT Last permanent residence Toronto, Ont.
+5 CONT Name and address of nearest relative or friend in country wh
+5 CONC ence alien came none
+5 CONT Ever in U.S. y[es]
+5 CONT From 1901
+5 CONT To May 1918
+5 CONT Where N.Y.C.
+5 CONT Passage paid by s[elf].
+5 CONT Destination, and name and address of relative or friend to j
+5 CONC oin there Brooklyn, N.Y. - Mother Francesca (Perm:) 85 Hick
+5 CONC s St.
+5 CONT Money shown $110.00
+5 CONT Ever arrested and deported or excluded from admission [blank
+5 CONC ]
+5 CONT Head tax status P.R. 44
+5 CONT Height 5 Ft. 10 In.
+5 CONT Complexion Dark
+5 CONT Hair brn
+5 CONT Eyes Brn
+5 CONT Distinguishing marks -
+5 CONT Seaport and date of landing and name of steamship N.Y. 190
+5 CONC 1 Advance
+5 CONT MR74
+5 CONT Form 500-B
+3 OBJE @M9@
 1 SEX F
 1 FAMS @lcMabrYtRUygPJbNpN6U@
 1 OBJE @PXFcCtdzSl6TdajEtEOO@
@@ -177,51 +210,50 @@
 4 CONC ; Roll: T624_982; Page: 3B; Enumeration District: 0931; FH
 4 CONC L microfilm: 1374995
 3 OBJE @qZU4RMdOQSGAfOUfnaYS@
+2 SOUR @KbSWduELTkyN1CsH1CuP@
+3 _APID 1,6061::103419866
+3 PAGE Year: 1920; Census Place: Brooklyn Assembly District 1, King
+4 CONC s, New York
+3 OBJE @6wLIyvohQBWAM7ldG1EB@
 2 SOUR @lWhOJZejTEe0yfHQBzgX@
 3 _APID 1,6224::40616546
 3 PAGE Year: 1930; Census Place: Brooklyn, Kings, New York; Roll: 1
 4 CONC 538; Page: 18A; Enumeration District: 877; Image: 827.0; FH
 4 CONC L microfilm: 2341273
 3 OBJE @irgvhRNwTPus1e2PjWzS@
-2 SOUR @RroUDsupQ1qkFGegm6R5@
-3 _APID 1,2703::4343077
-3 PAGE New York State Archives; Albany, New York; State Populatio
-4 CONC n Census Schedules, 1915; Election District: 24; Assembly Di
-4 CONC strict: 18; City: New York; County: Kings; Page: 48
-3 OBJE @CmhTgnjUQVuJwfIZUSUA@
-2 SOUR @DHlf5w33Rp6xJqMYIsbd@
-3 QUAY 0
 2 SOUR @NcO1hUAjSMC6yB7BVILF@
 3 _APID 1,2442::5009224
 3 PAGE Year: 1940; Census Place: New York, Kings, New York; Roll: T
 4 CONC 627_2615; Page: 2A; Enumeration District: 24-2589
 3 OBJE @Tvr4zibYShGtBKtMmK2u@
-2 SOUR @KbSWduELTkyN1CsH1CuP@
-3 _APID 1,6061::103419866
-3 PAGE Year: 1920; Census Place: Brooklyn Assembly District 1, King
-4 CONC s, New York
-3 OBJE @6wLIyvohQBWAM7ldG1EB@
+2 SOUR @DHlf5w33Rp6xJqMYIsbd@
 2 SOUR @HNlukgjJS92CYnfZMphO@
 3 _APID 1,7364::1517652
 3 PAGE New York State Archives; Albany, New York; State Populatio
 4 CONC n Census Schedules, 1905; Election District: A.D. 18 E.D. 16
 4 CONC ; City: Brooklyn; County: Kings; Page: 34
 3 OBJE @BAYtYmyESHSSqsfUvnfA@
+2 SOUR @RroUDsupQ1qkFGegm6R5@
+3 _APID 1,2703::4343077
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1915; Election District: 24; Assembly Di
+4 CONC strict: 18; City: New York; County: Kings; Page: 48
+3 OBJE @CmhTgnjUQVuJwfIZUSUA@
 2 NOTE place from Joseph Dudley
 1 EVEN
 2 TYPE Arrival
 2 DATE 1901
+2 SOUR @KbSWduELTkyN1CsH1CuP@
+3 _APID 1,6061::103419866
+3 PAGE Year: 1920; Census Place: Brooklyn Assembly District 1, King
+4 CONC s, New York
+3 OBJE @6wLIyvohQBWAM7ldG1EB@
 2 SOUR @lWhOJZejTEe0yfHQBzgX@
 3 _APID 1,6224::40616546
 3 PAGE Year: 1930; Census Place: Brooklyn, Kings, New York; Roll: 1
 4 CONC 538; Page: 18A; Enumeration District: 877; Image: 827.0; FH
 4 CONC L microfilm: 2341273
 3 OBJE @irgvhRNwTPus1e2PjWzS@
-2 SOUR @KbSWduELTkyN1CsH1CuP@
-3 _APID 1,6061::103419866
-3 PAGE Year: 1920; Census Place: Brooklyn Assembly District 1, King
-4 CONC s, New York
-3 OBJE @6wLIyvohQBWAM7ldG1EB@
 1 IMMI
 2 DATE ABT 1901
 2 PLAC New York, USA
@@ -286,8 +318,52 @@
 1 RESI
 2 DATE 30 JUN 1919
 2 PLAC 85 Hicks Street, Brooklyn, Kings, New York, USA
-2 SOUR @VH2DynJaSqKIngnH97XJ@
-3 QUAY 2
+2 SOUR @S15@
+3 _APID 1,1075::5082143
+3 PAGE "Manifests of Alien Arrivals at Buffalo, Lewiston, Niagara F
+4 CONC alls, and Rochester, New York, 1902-1954," Record Group #85
+4 CONC , "Records of the Immigration and Naturalization Service, 17
+4 CONC 87-2004," series M1480, roll 67, image 3784
+3 QUAY 3
+3 DATA
+4 TEXT BUFFALO, N.Y. 6/30/19
+5 CONT Family name LOPEZ
+5 CONT Given name SAMUEL
+5 CONT Accompanied by -
+5 CONT Place of birth Chone, Equador [sic]
+5 CONT Age 28 Yrs. [blank] Mos.
+5 CONT Sex. M.
+5 CONT S[ingle] X
+5 CONT Occupation Salesman
+5 CONT Read y[es]
+5 CONT Write y[es]
+5 CONT Race Spanish
+5 CONT Nationality Ecquador [sic]
+5 CONT Last permanent residence Toronto, Ont.
+5 CONT Name and address of nearest relative or friend in country wh
+5 CONC ence alien came none
+5 CONT Ever in U.S. y[es]
+5 CONT From 1901
+5 CONT To May 1918
+5 CONT Where N.Y.C.
+5 CONT Passage paid by s[elf].
+5 CONT Destination, and name and address of relative or friend to j
+5 CONC oin there Brooklyn, N.Y. - Mother Francesca (Perm:) 85 Hick
+5 CONC s St.
+5 CONT Money shown $110.00
+5 CONT Ever arrested and deported or excluded from admission [blank
+5 CONC ]
+5 CONT Head tax status P.R. 44
+5 CONT Height 5 Ft. 10 In.
+5 CONT Complexion Dark
+5 CONT Hair brn
+5 CONT Eyes Brn
+5 CONT Distinguishing marks -
+5 CONT Seaport and date of landing and name of steamship N.Y. 190
+5 CONC 1 Advance
+5 CONT MR74
+5 CONT Form 500-B
+3 OBJE @M9@
 1 RESI
 2 DATE 1920
 2 PLAC Brooklyn, Kings, New York, USA
@@ -369,18 +445,35 @@
 3 QUAY 1
 0 @lcMabrYtRUygPJbNpN6U@ FAM
 1 REFN 3b444045-cf3a-4b71-889e-29a3b14a0a47
-1 RIN F_I27_I28
 1 HUSB @rI0L2Q74TyqxKXNGfI1U@
 1 WIFE @obAZ9TAOQymqUjtnyXI7@
 1 CHIL @XhjCXd6cQVy1UYUFRr3v@
+2 _FREL Natural
+2 _MREL Natural
 1 CHIL @2aAXjBLVR1yvoVuM0BJl@
+2 _FREL Natural
+2 _MREL Natural
 1 CHIL @xpg4NMN5S3OjFuvt8g62@
+2 _FREL Natural
+2 _MREL Natural
 1 CHIL @Fb7O40VzTbG41Ghtnusq@
+2 _FREL Natural
+2 _MREL Natural
 1 CHIL @vTOF6oIUQoufiemBQJnl@
+2 _FREL Natural
+2 _MREL Natural
 1 CHIL @esqWSVLVQPCQpT77C3Mg@
+2 _FREL Natural
+2 _MREL Natural
 1 CHIL @IhWQxX7lQh2wfUhKmrLs@
+2 _FREL Natural
+2 _MREL Natural
 1 CHIL @oXKpX114SpmiHrBOOpxL@
+2 _FREL Natural
+2 _MREL Natural
 1 CHIL @VMCCp1ueSt2ywV4blCAY@
+2 _FREL Natural
+2 _MREL Natural
 1 MARR
 2 DATE 1875
 2 SOUR @rlpYS3tSSjao8Xeg12lu@
@@ -396,115 +489,47 @@
 1 ADDR http://www.Ancestry.com
 1 EMAIL
 1 PHON
-1 RIN R-899050557
 1 REFN e63b5b2a-f680-4b84-96b9-1f18319ab5bc
 0 @rlpYS3tSSjao8Xeg12lu@ SOUR
-1 _APID 1,7602::0
 1 REFN 1a59f9f9-293a-4bcb-a2f2-860c4f0c0472
-1 RIN S-340038419
 1 REPO @qDCkU0fbTVicukE5NbqB@
 1 TITL 1900 United States Federal Census
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations Inc; Location: Provo, UT, USA; Date
 2 CONC : 2004
 0 @LSlAMZ6dT2mXk2j4khXV@ SOUR
-1 _APID 1,7884::0
 1 REFN 878092d8-39e3-4dfa-8374-6d2ba5ec13c5
-1 RIN S-340037973
 1 REPO @qDCkU0fbTVicukE5NbqB@
 1 TITL 1910 United States Federal Census
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations Inc; Location: Provo, UT, USA; Date
 2 CONC : 2006
 0 @KbSWduELTkyN1CsH1CuP@ SOUR
-1 _APID 1,6061::0
 1 REFN 068f8ffa-e2e9-4456-b47c-757917e82601
-1 RIN S-340120723
 1 REPO @qDCkU0fbTVicukE5NbqB@
-1 TITL 1920 United States Federal Census, OLD
+1 TITL 1920 United States Federal Census
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations Inc; Location: Provo, UT, USA; Date
 2 CONC : 2010
 0 @lWhOJZejTEe0yfHQBzgX@ SOUR
-1 _APID 1,6224::0
 1 REFN d173fccd-44b0-4491-95c3-3a4ce4648375
-1 RIN S-340304045
 1 REPO @qDCkU0fbTVicukE5NbqB@
 1 TITL 1930 United States Federal Census
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations Inc; Location: Provo, UT, USA; Date
 2 CONC : 2002
 0 @NcO1hUAjSMC6yB7BVILF@ SOUR
-1 _APID 1,2442::0
 1 REFN f9081a1f-9b35-4ef2-9a88-91aa04406058
-1 RIN S-340121165
 1 REPO @qDCkU0fbTVicukE5NbqB@
-1 TITL 1940 United States Federal Census, OLD
+1 TITL 1940 United States Federal Census
 1 AUTH Ancestry.com
 1 PUBL Online publication - Provo, UT, USA: Ancestry.com Operations
 2 CONC , Inc., 2012.Original data - United States of America, Burea
 2 CONC u of the Census. Sixteenth Census of the United States, 1940
 2 CONC . Washington, D.C.: National Archives and Records Administra
 2 CONC tion, 1940. T627
-0 @VH2DynJaSqKIngnH97XJ@ SOUR
-1 REFN 85a25b7a-9e15-4767-94cc-2d211ca472c9
-1 RIN S678
-1 TITL Border Crossings: From Canada to U.S., 1895-1956 [database o
-2 CONC n-line]
-1 AUTH Ancestry.com
-1 PUBL Provo, UT, USA: Ancestry.com Operations, Inc., 2010
-1 TEXT <p>
-2 CONT [original source: National Archives and Records Administrati
-2 CONC on (NARA),
-2 CONT Washington, D.C.;
-2 CONT Manifests of Alien Arrivals at Buffalo, Lewiston, Niagara Fa
-2 CONC lls, and Rochester, New York, 1902-1954; Record Group: 85, R
-2 CONC ecords of the Immigration and Naturalization Service; Microf
-2 CONC ilm Serial: M1480; Microfilm Roll: 67.]
-2 CONT </p>
-2 CONT <p>
-2 CONT [New York, Buffalo, Cards, L, Unknown, image 2449 of 21586]
-2 CONT </p>
-2 CONT BUFFALO, N.Y. 6/30/19<br />
-2 CONT Family name LOPEZ<br />
-2 CONT Given name SAMUEL<br />
-2 CONT Accompanied by -<br />
-2 CONT Place of birth Chone, Equador [sic]<br />
-2 CONT Age 28 Yrs. [blank] Mos.<br />
-2 CONT Sex. M.<br />
-2 CONT S[ingle] X<br />
-2 CONT Occupation Salesman<br />
-2 CONT Read y[es]<br />
-2 CONT Write y[es]<br />
-2 CONT Race Spanish<br />
-2 CONT Nationality Ecquador [sic]<br />
-2 CONT Last permanent residence Toronto, Ont.<br />
-2 CONT Name and address of nearest relative or friend in country wh
-2 CONC ence alien came none<br />
-2 CONT Ever in U.S. y[es]<br />
-2 CONT From 1901<br />
-2 CONT To May 1918<br />
-2 CONT Where N.Y.C.<br />
-2 CONT Passage paid by s[elf?]<br />
-2 CONT Destination, and name and address of relative or friend to j
-2 CONC oin there Brooklyn, N.Y. - Mother Francesca (Perm:) 85 Hick
-2 CONC s St.<br />
-2 CONT Money shown $110.<sup)00</sup><br />
-2 CONT Ever arrested and deported or excluded from admission [blank
-2 CONC ]<br />
-2 CONT [?] tax status P.R. 44<br />
-2 CONT Height 5 Ft. 10 In.<br />
-2 CONT Complexion Dark<br />
-2 CONT Hair brn<br />
-2 CONT Eyes Brn<br />
-2 CONT Distinguishing marks -<br />
-2 CONT Seaport and date of landing and name of steamship N.Y. 190
-2 CONC 1 Advance<br />
-2 CONT MR74<br />
-2 CONT Form 500-B
 0 @DHlf5w33Rp6xJqMYIsbd@ SOUR
 1 REFN 7919eb54-3534-47ed-9fa6-2e7fa4763f32
-1 RIN S23
 1 TITL Certificate of death, de [sic] Lopez, Francisica [sic], Numb
 2 CONC er 20442
 1 AUTH Bureau of Vital Records, Department of Health, Brooklyn, NY
@@ -513,29 +538,23 @@
 1 TEXT <img src="mosher_files/romero_francisca_death.jpg">
 0 @73ZS8dNFTg2dkzcCTk5y@ SOUR
 1 REFN 3e2d0186-93fe-45a5-b3e2-47d789bd9342
-1 RIN S251
 1 TITL Dudley, Joseph Letters
 1 AUTH Dudley, Joseph
 1 PUBL In possession of Chris Mosher
 0 @pSPkbr67S8ycZLwfYOet@ SOUR
 1 REFN 9a65bee9-cb9e-458a-aedc-3e60c34420c2
-1 RIN I3c967oxRci5TU3rS2eh
 1 TITL Gravestone, de Lopez, Francisca
 1 PUBL Evergreens Cemetery, Brooklyn & Queens, NY, USA
 1 TEXT FRANCISCA DE LOPEZ 1850-1940
 0 @HNlukgjJS92CYnfZMphO@ SOUR
-1 _APID 1,7364::0
 1 REFN ea8653ed-ff8a-4980-986d-8a4ca09c8757
-1 RIN S-322419782
 1 REPO @qDCkU0fbTVicukE5NbqB@
 1 TITL New York, State Census, 1905
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2014
 0 @RroUDsupQ1qkFGegm6R5@ SOUR
-1 _APID 1,2703::0
 1 REFN 940dc100-768e-40f0-8528-bb52bde7bc56
-1 RIN S-340037965
 1 REPO @qDCkU0fbTVicukE5NbqB@
 1 TITL New York, State Census, 1915
 1 AUTH Ancestry.com
@@ -543,13 +562,17 @@
 2 CONC e: 2012
 0 @AmmouxfZQcWccceDFZqO@ SOUR
 1 REFN 7e6bc3c7-6ce6-4036-9cb8-a0ae4693ef6d
-1 RIN S237
 1 TITL Pazmino Lopez Family History
 1 AUTH Dudley, Joseph
 1 PUBL In possession of Chris Mosher
+0 @S15@ SOUR
+1 REPO @qDCkU0fbTVicukE5NbqB@
+1 TITL U.S., Border Crossings from Canada to U.S., 1825-1960
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.; Location: Lehi, UT, USA; Date
+2 CONC : 2010
 0 @ICjAi58HTL2R8nKZtLR3@ SOUR
 1 REFN d27e3202-8b1f-4023-8e40-d5afecb85636
-1 RIN S58
 1 TITL US Census, 1910, NY, Brooklyn, ed931, s3
 1 AUTH US Census Bureau
 1 PUBL Brooklyn, NY, 20 Apr 1910
@@ -633,7 +656,6 @@
 2 CONT [grandd* "granddaughter"]
 0 @rERSJEr5RqSgOcQg2z1T@ SOUR
 1 REFN fc744976-a116-4700-aed2-7a2780ee4db2
-1 RIN S583
 1 TITL US Census, 1930, NY, Kings, Brooklyn, ED 877
 1 AUTH US Census Bureau
 1 PUBL T626.1538
@@ -954,16 +976,11 @@
 2 CONT </table>
 2 CONT Col. 27&mdash;Wage or salary worker: W<br />
 0 @PXFcCtdzSl6TdajEtEOO@ OBJE
-1 FILE http://trees.ancestry.com/rd?f=image&guid=83fbf029-2806-48e5
-2 CONC -b6a9-1563f0781fdb&tid=61407337
-2 FORM jpg
-2 TITL 0253_Romero_Francisca
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\0253_Romero_Francisca.jpg
 2 FORM jpg
 2 TITL 0253_Romero_Francisca
 2 _DATE 9/27/2013 8:55:28 PM
-1 RIN O18
 1 REFN 60c51968-e29c-42af-bb5e-d40a1fac2576
 0 @HokIKS1UQpmFhWDqGKxA@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
@@ -974,7 +991,6 @@
 2 _TEXT Year: 1900; Census Place: Brooklyn Ward 23, Kings, New York
 3 CONC ; Roll: 1062; Page: 7B; Enumeration District: 0414; FHL micr
 3 CONC ofilm: 1241062
-1 RIN IsrzwjFfSjazD5UiS5pA
 1 REFN adbbddfb-587b-445c-973b-7a2ed15152f4
 0 @qZU4RMdOQSGAfOUfnaYS@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
@@ -985,7 +1001,6 @@
 2 _TEXT Year: 1910; Census Place: Brooklyn Ward 29, Kings, New York
 3 CONC ; Roll: T624_982; Page: 3B; Enumeration District: 0931; FH
 3 CONC L microfilm: 1374995
-1 RIN Ygq2HP45RUClwG4rOvj3
 1 REFN 3fcbb4df-4575-467b-9de5-da9d90cf1f0e
 0 @6wLIyvohQBWAM7ldG1EB@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
@@ -995,7 +1010,6 @@
 2 TITL 1920 United States Federal Census
 2 _TEXT Year: 1920; Census Place: Brooklyn Assembly District 1, King
 3 CONC s, New York
-1 RIN LlmYYK6xQpy7jZ5xtDpr
 1 REFN 5fe4e354-9a13-4fce-ae4f-0335fd4acf58
 0 @irgvhRNwTPus1e2PjWzS@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
@@ -1006,7 +1020,6 @@
 2 _TEXT Year: 1930; Census Place: Brooklyn, Kings, New York; Roll: 1
 3 CONC 538; Page: 18A; Enumeration District: 877; Image: 827.0; FH
 3 CONC L microfilm: 2341273
-1 RIN PFDQ3ZEzStSTdWpAMRqv
 1 REFN f1553807-d179-4861-ba2b-515cbc039bbe
 0 @Tvr4zibYShGtBKtMmK2u@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
@@ -1016,7 +1029,6 @@
 2 TITL 1940 United States Federal Census
 2 _TEXT Year: 1940; Census Place: New York, Kings, New York; Roll: T
 3 CONC 627_2615; Page: 2A; Enumeration District: 24-2589
-1 RIN 1e2a6xKTTVq8wijfRH2B
 1 REFN cd77fe6d-3f67-4626-a3ba-111eb74e50cd
 0 @BAYtYmyESHSSqsfUvnfA@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
@@ -1026,7 +1038,6 @@
 2 _TEXT New York State Archives; Albany, New York; State Populatio
 3 CONC n Census Schedules, 1905; Election District: A.D. 18 E.D. 16
 3 CONC ; City: Brooklyn; County: Kings; Page: 34
-1 RIN 50JmJ6bwS6egZLb2QJ9E
 1 REFN c7d7f69b-baf0-4585-93db-aa0460d9ffde
 0 @CmhTgnjUQVuJwfIZUSUA@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
@@ -1036,6 +1047,14 @@
 2 _TEXT New York State Archives; Albany, New York; State Populatio
 3 CONC n Census Schedules, 1915; Election District: 24; Assembly Di
 3 CONC strict: 18; City: New York; County: Kings; Page: 48
-1 RIN fhHQgTtbTP2mLBDgKMIP
 1 REFN 009a89c9-6fbc-4676-b618-16783083fd9b
+0 @M9@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Romero Media\U.
+2 CONC S., Border Crossings from Canada to U.S., 1825-1960.jpg
+2 FORM jpg
+2 TITL U.S., Border Crossings from Canada to U.S., 1825-1960
+2 _TEXT "Manifests of Alien Arrivals at Buffalo, Lewiston, Niagara F
+3 CONC alls, and Rochester, New York, 1902-1954," Record Group #85
+3 CONC , "Records of the Immigration and Naturalization Service, 17
+3 CONC 87-2004," series M1480, roll 67, image 3784
 0 TRLR
