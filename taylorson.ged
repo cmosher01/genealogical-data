@@ -3,26 +3,24 @@
 1 GEDC
 2 VERS 5.5.1
 2 FORM LINEAGE-LINKED
-1 SOUR GRO
-2 NAME Genealogy Research Organizer
-2 VERS 1.5
-2 CORP http://mosher.mine.nu/gotogro
-3 ADDR 41 Brook Pine Drive
-4 CONT Shelton, CT 06484-5912
-4 CONT USA
-3 EMAIL cmosher01@@gmail.com
+1 SOUR FTM
+2 VERS 23.0.2.1343
+2 NAME Family Tree Maker for Windows
+2 CORP The Software MacKiev Company
+3 ADDR 30 Union Wharf
+4 CONT Boston, MA 02109
+3 PHON (617) 227-6681
+1 DEST FTM
 1 SUBM @VdPGXI7USp6vpFdFFmSU@
-1 FILE Mosher_Disosway_Harrison_Pazmino_2017-08-03.ged
-1 DATE 20 SEP 2017
-2 TIME 03:48:17
+1 FILE Taylorson_2017-09-29.ged
+1 DATE 29 SEP 2017
+2 TIME 17:20:08
 0 @VdPGXI7USp6vpFdFFmSU@ SUBM
 1 NAME Christopher Alan Mosher
 1 RIN Umy2qBWIRUiwVSS6Hcn4
-1 REFN ec02176d-1e5d-45ed-8331-31be5e36ea34
 0 @fKPuctm5RyC81oct8sFI@ INDI
 1 _XY 181504 4048
 1 REFN 2287b07c-4938-4b8f-974d-a3e0ef8105ab
-1 RIN P2550
 1 NAME George Swart /Bull/
 2 SOUR @c4Kpe8hwRqSW5hMTvu1S@
 3 _APID 1,7884::25924633
@@ -35,12 +33,6 @@
 3 PAGE Year: 1920; Census Place: Triangle, Broome, New York; Roll
 4 CONC : T625_1085; Page: 5B; Enumeration District: 84; Image: 424
 3 OBJE @CQh0oq7cRFuTgHq9Z5Qy@
-2 SOUR @7LxrgfRmTNWyu6slXQjR@
-3 _APID 1,2704::23052953
-3 PAGE New York State Archives; Albany, New York; State Populatio
-4 CONC n Census Schedules, 1925; Election District: 01; Assembly Di
-4 CONC strict: 01; City: Triangle; County: Broome; Page: 9
-3 OBJE @rWcKZXjfQla5Tn5Oxjxk@
 2 SOUR @z1TPRpwkRpi0Hb52420e@
 3 _APID 1,6224::22425078
 3 PAGE Year: 1930; Census Place: Militia District 8, Chatham, Georg
@@ -53,6 +45,12 @@
 4 CONC n Census Schedules, 1915; Election District: 01; Assembly Di
 4 CONC strict: 01; City: Triangle; County: Broome; Page: 05
 3 OBJE @OIK2qEQJQt27BDzaZlSn@
+2 SOUR @7LxrgfRmTNWyu6slXQjR@
+3 _APID 1,2704::23052953
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1925; Election District: 01; Assembly Di
+4 CONC strict: 01; City: Triangle; County: Broome; Page: 9
+3 OBJE @rWcKZXjfQla5Tn5Oxjxk@
 2 SOUR @f9TGKjo7Q0eOosH9qjGk@
 3 _APID 1,6482::16202341
 3 PAGE Registration State: New York; Registration County: Broome; R
@@ -77,12 +75,6 @@
 3 PAGE Year: 1920; Census Place: Triangle, Broome, New York; Roll
 4 CONC : T625_1085; Page: 5B; Enumeration District: 84; Image: 424
 3 OBJE @CQh0oq7cRFuTgHq9Z5Qy@
-2 SOUR @7LxrgfRmTNWyu6slXQjR@
-3 _APID 1,2704::23052953
-3 PAGE New York State Archives; Albany, New York; State Populatio
-4 CONC n Census Schedules, 1925; Election District: 01; Assembly Di
-4 CONC strict: 01; City: Triangle; County: Broome; Page: 9
-3 OBJE @rWcKZXjfQla5Tn5Oxjxk@
 2 SOUR @z1TPRpwkRpi0Hb52420e@
 3 _APID 1,6224::22425078
 3 PAGE Year: 1930; Census Place: Militia District 8, Chatham, Georg
@@ -95,6 +87,12 @@
 4 CONC n Census Schedules, 1915; Election District: 01; Assembly Di
 4 CONC strict: 01; City: Triangle; County: Broome; Page: 05
 3 OBJE @OIK2qEQJQt27BDzaZlSn@
+2 SOUR @7LxrgfRmTNWyu6slXQjR@
+3 _APID 1,2704::23052953
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1925; Election District: 01; Assembly Di
+4 CONC strict: 01; City: Triangle; County: Broome; Page: 9
+3 OBJE @rWcKZXjfQla5Tn5Oxjxk@
 2 SOUR @f9TGKjo7Q0eOosH9qjGk@
 3 _APID 1,6482::16202341
 3 PAGE Registration State: New York; Registration County: Broome; R
@@ -181,7 +179,6 @@
 0 @9WAccuOOSxeL794NGODe@ INDI
 1 _XY 181860 3760
 1 REFN 8986562e-db17-444b-b03b-28914312bea1
-1 RIN P2513
 1 NAME Susan /Davenport/
 1 SEX F
 1 FAMS @WjmbSMpISim4MuXH6gKY@
@@ -200,8 +197,13 @@
 0 @H67Ja6P6T1a1Zne59bfx@ INDI
 1 _XY 182717 4011
 1 REFN 907ea277-5faa-46ac-b078-5f9fd6e05d0e
-1 RIN P1280
 1 NAME Leonard /Dodd/
+2 SOUR @tagmH3kSS5mNE6mkVQFl@
+3 _APID 1,6742::5159197
+3 PAGE Year: 1880; Census Place: Corning, Steuben, New York; Roll
+4 CONC : 933; Family History Film: 1254933; Page: 167A; Enumeratio
+4 CONC n District: 171; Image: 0337
+3 OBJE @9fekSPhgS6eGJGlIKd5Y@
 2 SOUR @NDN2XTgxTLmnX7Bgq4LP@
 3 _APID 1,7602::18575300
 3 PAGE Year: 1900; Census Place: Elmira Ward 9, Chemung, New York
@@ -214,15 +216,6 @@
 4 CONC ; Roll: T624_931; Page: 4B; Enumeration District: 0032; FH
 4 CONC L microfilm: 1374944
 3 OBJE @b734qYM2RbSlfVJjNEgL@
-2 SOUR @tagmH3kSS5mNE6mkVQFl@
-3 _APID 1,6742::5159197
-3 PAGE Year: 1880; Census Place: Corning, Steuben, New York; Roll
-4 CONC : 933; Family History Film: 1254933; Page: 167A; Enumeratio
-4 CONC n District: 171; Image: 0337
-3 OBJE @9fekSPhgS6eGJGlIKd5Y@
-2 SOUR @xcXXXJstR1iS4OizBZKh@
-3 _APID 1,2469::85584815
-3 OBJE @6xe0YWM6RW2e4ItJnpRy@
 2 SOUR @N62jTQiMTmmRVQc5KCCK@
 3 PAGE Ancestry Family Tree
 3 DATA
@@ -231,6 +224,9 @@
 2 SOUR @4jCt5j3VRkqTuhypLl9x@
 3 _APID 1,7364::3325050
 3 OBJE @3aa407SjRJWvIepXS4R2@
+2 SOUR @xcXXXJstR1iS4OizBZKh@
+3 _APID 1,2469::85584815
+3 OBJE @6xe0YWM6RW2e4ItJnpRy@
 1 SEX M
 1 FAMS @7Oru3OoaSFiSLD0h0ctk@
 1 BIRT
@@ -239,6 +235,12 @@
 3 MAP
 4 LATI N52.5898
 4 LONG W1.4611
+2 SOUR @tagmH3kSS5mNE6mkVQFl@
+3 _APID 1,6742::5159197
+3 PAGE Year: 1880; Census Place: Corning, Steuben, New York; Roll
+4 CONC : 933; Family History Film: 1254933; Page: 167A; Enumeratio
+4 CONC n District: 171; Image: 0337
+3 OBJE @9fekSPhgS6eGJGlIKd5Y@
 2 SOUR @NDN2XTgxTLmnX7Bgq4LP@
 3 _APID 1,7602::18575300
 3 PAGE Year: 1900; Census Place: Elmira Ward 9, Chemung, New York
@@ -251,12 +253,6 @@
 4 CONC ; Roll: T624_931; Page: 4B; Enumeration District: 0032; FH
 4 CONC L microfilm: 1374944
 3 OBJE @b734qYM2RbSlfVJjNEgL@
-2 SOUR @tagmH3kSS5mNE6mkVQFl@
-3 _APID 1,6742::5159197
-3 PAGE Year: 1880; Census Place: Corning, Steuben, New York; Roll
-4 CONC : 933; Family History Film: 1254933; Page: 167A; Enumeratio
-4 CONC n District: 171; Image: 0337
-3 OBJE @9fekSPhgS6eGJGlIKd5Y@
 2 SOUR @4jCt5j3VRkqTuhypLl9x@
 3 _APID 1,7364::3325050
 3 OBJE @3aa407SjRJWvIepXS4R2@
@@ -336,16 +332,7 @@
 0 @W4pdcIGCSZmd8JedOduR@ INDI
 1 _XY 181983 3856
 1 REFN 560ed73d-9210-465e-9641-b50161c18607
-1 RIN I2341
 1 NAME Catherine /Edminster/
-2 SOUR @uCbrD4YUQIiXVgJwjDWE@
-3 QUAY 1
-2 SOUR @NDN2XTgxTLmnX7Bgq4LP@
-3 _APID 1,7602::18542709
-3 PAGE Year: 1900; Census Place: Big Flats, Chemung, New York; Roll
-4 CONC : 1016; Page: 2B; Enumeration District: 0003; FHL microfilm
-4 CONC : 1241016
-3 OBJE @aCcLzDjzTFKBYJsHRbt8@
 2 SOUR @jmFGuFh1RiicUCdCiNYx@
 3 _APID 1,7667::45958762
 3 PAGE Year: 1860; Census Place: Elmira, Chemung, New York; Roll: M
@@ -358,6 +345,14 @@
 4 CONC l: 817; Family History Film: 1254817; Page: 510D; Enumeratio
 4 CONC n District: 083; Image: 0600
 3 OBJE @x9Ek0jDvRxGDBg7agg40@
+2 SOUR @NDN2XTgxTLmnX7Bgq4LP@
+3 _APID 1,7602::18542709
+3 PAGE Year: 1900; Census Place: Big Flats, Chemung, New York; Roll
+4 CONC : 1016; Page: 2B; Enumeration District: 0003; FHL microfilm
+4 CONC : 1241016
+3 OBJE @aCcLzDjzTFKBYJsHRbt8@
+2 SOUR @uCbrD4YUQIiXVgJwjDWE@
+3 QUAY 1
 2 SOUR @74P5lXIpRomDQfd5WmFi@
 3 _APID 1,7250::1382745706
 3 OBJE @XA9Vo3BZQR2gnVPVkgzL@
@@ -371,14 +366,6 @@
 3 MAP
 4 LATI N42.1373
 4 LONG W76.9369
-2 SOUR @5qMhuSQnSDaq5a3QWOkH@
-3 QUAY 1
-2 SOUR @NDN2XTgxTLmnX7Bgq4LP@
-3 _APID 1,7602::18542709
-3 PAGE Year: 1900; Census Place: Big Flats, Chemung, New York; Roll
-4 CONC : 1016; Page: 2B; Enumeration District: 0003; FHL microfilm
-4 CONC : 1241016
-3 OBJE @aCcLzDjzTFKBYJsHRbt8@
 2 SOUR @jmFGuFh1RiicUCdCiNYx@
 3 _APID 1,7667::45958762
 3 PAGE Year: 1860; Census Place: Elmira, Chemung, New York; Roll: M
@@ -391,6 +378,14 @@
 4 CONC l: 817; Family History Film: 1254817; Page: 510D; Enumeratio
 4 CONC n District: 083; Image: 0600
 3 OBJE @x9Ek0jDvRxGDBg7agg40@
+2 SOUR @NDN2XTgxTLmnX7Bgq4LP@
+3 _APID 1,7602::18542709
+3 PAGE Year: 1900; Census Place: Big Flats, Chemung, New York; Roll
+4 CONC : 1016; Page: 2B; Enumeration District: 0003; FHL microfilm
+4 CONC : 1241016
+3 OBJE @aCcLzDjzTFKBYJsHRbt8@
+2 SOUR @5qMhuSQnSDaq5a3QWOkH@
+3 QUAY 1
 2 SOUR @74P5lXIpRomDQfd5WmFi@
 3 _APID 1,7250::1382745706
 3 OBJE @XA9Vo3BZQR2gnVPVkgzL@
@@ -446,7 +441,6 @@
 0 @EB6NjE3oQVGO87LT1YtO@ INDI
 1 _XY 181635 3934
 1 REFN d7bf4578-7d23-4f79-9163-dea31f7917f4
-1 RIN P1281
 1 NAME Effingham P. /Edminster/
 2 SOUR @VqbyczWoTAunjNaTg1gt@
 3 _APID 1,7163::29583713
@@ -549,7 +543,6 @@
 0 @SYu4FgiIQpijrK9kHfmA@ INDI
 1 _XY 181617 4042
 1 REFN 6f7cc92f-56ce-4d52-bfb7-fdfce4bd7faf
-1 RIN P1283
 1 NAME Jessie E. /Edminster/
 2 SOUR @c4Kpe8hwRqSW5hMTvu1S@
 3 _APID 1,7884::114459489
@@ -562,12 +555,6 @@
 3 PAGE Year: 1920; Census Place: Triangle, Broome, New York; Roll
 4 CONC : T625_1085; Page: 5B; Enumeration District: 84; Image: 424
 3 OBJE @CQh0oq7cRFuTgHq9Z5Qy@
-2 SOUR @7LxrgfRmTNWyu6slXQjR@
-3 _APID 1,2704::23052958
-3 PAGE New York State Archives; Albany, New York; State Populatio
-4 CONC n Census Schedules, 1925; Election District: 01; Assembly Di
-4 CONC strict: 01; City: Triangle; County: Broome; Page: 9
-3 OBJE @rWcKZXjfQla5Tn5Oxjxk@
 2 SOUR @z1TPRpwkRpi0Hb52420e@
 3 _APID 1,6224::19049154
 3 PAGE Year: 1930; Census Place: Militia District 8, Chatham, Georg
@@ -580,6 +567,12 @@
 4 CONC n Census Schedules, 1915; Election District: 01; Assembly Di
 4 CONC strict: 01; City: Triangle; County: Broome; Page: 05
 3 OBJE @OIK2qEQJQt27BDzaZlSn@
+2 SOUR @7LxrgfRmTNWyu6slXQjR@
+3 _APID 1,2704::23052958
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1925; Election District: 01; Assembly Di
+4 CONC strict: 01; City: Triangle; County: Broome; Page: 9
+3 OBJE @rWcKZXjfQla5Tn5Oxjxk@
 2 SOUR @PTkUNEaISa61ijB7VnKA@
 3 _APID 1,60525::22965253
 1 SEX F
@@ -603,12 +596,6 @@
 3 PAGE Year: 1920; Census Place: Triangle, Broome, New York; Roll
 4 CONC : T625_1085; Page: 5B; Enumeration District: 84; Image: 424
 3 OBJE @CQh0oq7cRFuTgHq9Z5Qy@
-2 SOUR @7LxrgfRmTNWyu6slXQjR@
-3 _APID 1,2704::23052958
-3 PAGE New York State Archives; Albany, New York; State Populatio
-4 CONC n Census Schedules, 1925; Election District: 01; Assembly Di
-4 CONC strict: 01; City: Triangle; County: Broome; Page: 9
-3 OBJE @rWcKZXjfQla5Tn5Oxjxk@
 2 SOUR @z1TPRpwkRpi0Hb52420e@
 3 _APID 1,6224::19049154
 3 PAGE Year: 1930; Census Place: Militia District 8, Chatham, Georg
@@ -621,6 +608,12 @@
 4 CONC n Census Schedules, 1915; Election District: 01; Assembly Di
 4 CONC strict: 01; City: Triangle; County: Broome; Page: 05
 3 OBJE @OIK2qEQJQt27BDzaZlSn@
+2 SOUR @7LxrgfRmTNWyu6slXQjR@
+3 _APID 1,2704::23052958
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1925; Election District: 01; Assembly Di
+4 CONC strict: 01; City: Triangle; County: Broome; Page: 9
+3 OBJE @rWcKZXjfQla5Tn5Oxjxk@
 2 SOUR @PTkUNEaISa61ijB7VnKA@
 3 _APID 1,60525::22965253
 1 RESI
@@ -704,7 +697,6 @@
 0 @ukQpywN8TxGzUzVMBsqS@ INDI
 1 _XY 181754 3760
 1 REFN 95854072-bae6-4beb-851b-73f5e0960296
-1 RIN P2512
 1 NAME Lewis /Edminster/
 2 SOUR @PObiOXVGRgCKWE0ue3OS@
 1 SEX M
@@ -724,7 +716,6 @@
 0 @J2G7NMjCRACgR1HOLINv@ INDI
 1 _XY 181754 4048
 1 REFN d28c6eb0-0840-43d3-a56b-28bdb6a0a48f
-1 RIN P1282
 1 NAME Rufus T. /Edminster/
 2 SOUR @c4Kpe8hwRqSW5hMTvu1S@
 3 _APID 1,7884::17151172
@@ -763,7 +754,6 @@
 0 @LmanY00ISmSHfOkpVndB@ INDI
 1 _XY 182937 4011
 1 REFN bbe58a75-2265-4424-b990-21af3f400dc5
-1 RIN P2541
 1 NAME John W. /Githler/
 2 SOUR @tagmH3kSS5mNE6mkVQFl@
 3 _APID 1,6742::5159210
@@ -771,14 +761,14 @@
 4 CONC : 933; Family History Film: 1254933; Page: 165B; Enumeratio
 4 CONC n District: 171; Image: 0334
 3 OBJE @k2xDoMfDQ2CEf4yVCuqo@
-2 SOUR @eaHR0oxuTfOp5myA78b9@
-3 _APID 1,3212::279025
-3 OBJE @SGnHaKBtQYGRR9ubBWg4@
 2 SOUR @N62jTQiMTmmRVQc5KCCK@
 3 PAGE Ancestry Family Tree
 3 DATA
 4 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=62861
 5 CONC &pid=1203
+2 SOUR @eaHR0oxuTfOp5myA78b9@
+3 _APID 1,3212::279025
+3 OBJE @SGnHaKBtQYGRR9ubBWg4@
 2 SOUR @mDWKwIsCRaCKr5iO25hg@
 3 _APID 1,2469::1224098616
 3 OBJE @cw72CZy8Sa2fFE5yZQ21@
@@ -817,6 +807,10 @@
 3 OBJE @k2xDoMfDQ2CEf4yVCuqo@
 2 NOTE Age: 26; Marital Status: Married; Relation to Head of House
 3 CONC : Self
+1 DEAT
+2 DATE 1892
+2 SOUR @PTkUNEaISa61ijB7VnKA@
+3 _APID 1,60525::105603154
 1 RESI
 2 DATE 1892
 2 PLAC Corning, Steuben, New York, USA
@@ -827,17 +821,12 @@
 3 _APID 1,3212::279025
 3 OBJE @SGnHaKBtQYGRR9ubBWg4@
 2 NOTE Age: 36
-1 DEAT
-2 DATE 1892
-2 SOUR @PTkUNEaISa61ijB7VnKA@
-3 _APID 1,60525::105603154
 1 BURI
 2 PLAC Hope Cemetery, Corning, Steuben, New York, USA
 2 SOUR @PTkUNEaISa61ijB7VnKA@
 3 _APID 1,60525::105603154
 0 @jnoSTucrQgqucWKYBL8O@ INDI
 1 REFN 92ad4118-36fa-4dd3-b167-6214d3146d91
-1 RIN I51
 1 NAME George Elmer /Harrison/
 1 SEX M
 1 FAMC @L61a6IAeSyK5VaVeWT9V@
@@ -847,7 +836,6 @@
 2 DATE 29 APR 1943
 0 @x3gMSG40RiC2bkzW21WP@ INDI
 1 REFN 13d9c0d7-cf92-45f6-8842-43663f962c40
-1 RIN I584
 1 NAME Hannah /Harrison/
 1 SEX F
 1 FAMC @L61a6IAeSyK5VaVeWT9V@
@@ -857,7 +845,6 @@
 2 DATE 1895
 0 @RLBiZk8zQ7GzqZdaLguh@ INDI
 1 REFN 82499566-a27b-42ea-95e9-e8b691c92155
-1 RIN I181
 1 NAME Henry Francis /Harrison/
 1 SEX M
 1 FAMS @L61a6IAeSyK5VaVeWT9V@
@@ -868,21 +855,20 @@
 0 @eqjrwzpxTiyQLvNx06kf@ INDI
 1 _XY 183177 3695
 1 REFN d071f7c3-15c1-469c-91ff-a9b2474c7858
-1 RIN I2322
 1 NAME Esther /Lister/
-2 SOUR @PPoEna95SvGGrbNZGrWG@
-3 QUAY 1
-2 SOUR @7kJ3C8C4QFesOwUmgdI4@
-2 SOUR @tftkH4FoRDy9YV8UqUaZ@
 2 SOUR @8r0fX153SZWQXOlPdnxp@
 3 _APID 1,8978::4479730
 3 PAGE Class: HO107; Piece: 317; Book: 23; Civil Parish: Stockton U
 4 CONC pon Tees; County: Durham; Enumeration District: 2; Folio: 27
 4 CONC ; Page: 22; Line: 17; GSU roll: 241357
 3 OBJE @fkkFGltLRgGeUuNdFwkz@
+2 SOUR @PPoEna95SvGGrbNZGrWG@
+3 QUAY 1
+2 SOUR @tftkH4FoRDy9YV8UqUaZ@
 2 SOUR @OeOCLbwlTzu3dQqftwwk@
 3 _APID 1,8914::32992822
 3 OBJE @6ad42r9ySR286aDp5r82@
+2 SOUR @7kJ3C8C4QFesOwUmgdI4@
 2 SOUR @MLDnHhQZSGGw5BVQo9qM@
 3 _APID 1,9841::44353563
 2 SOUR @GZJmaUYeSMK4Fd2VWmk7@
@@ -895,14 +881,14 @@
 3 MAP
 4 LATI N54.9248
 4 LONG W1.5757
-2 SOUR @7kJ3C8C4QFesOwUmgdI4@
-3 QUAY 1
 2 SOUR @8r0fX153SZWQXOlPdnxp@
 3 _APID 1,8978::4479730
 3 PAGE Class: HO107; Piece: 317; Book: 23; Civil Parish: Stockton U
 4 CONC pon Tees; County: Durham; Enumeration District: 2; Folio: 27
 4 CONC ; Page: 22; Line: 17; GSU roll: 241357
 3 OBJE @fkkFGltLRgGeUuNdFwkz@
+2 SOUR @7kJ3C8C4QFesOwUmgdI4@
+3 QUAY 1
 1 CENS
 2 DATE 06 JUN 1841
 2 PLAC Brunswick Street, Stockton-on-Tees, Durham, England
@@ -940,16 +926,15 @@
 0 @wOdCOhFCRTaQXwucacDH@ INDI
 1 _XY 181851 3856
 1 REFN 65bc05e1-39ad-4e35-86a6-03060ffceae8
-1 RIN I2342
 1 NAME Horatio J. /Lombard/
-2 SOUR @qNGRvFLKRVCetGMY4KMl@
-3 QUAY 1
 2 SOUR @jmFGuFh1RiicUCdCiNYx@
 3 _APID 1,7667::45958761
 3 PAGE Year: 1860; Census Place: Elmira, Chemung, New York; Roll: M
 4 CONC 653_730; Page: 422; Image: 44; Family History Library Film
 4 CONC : 803730
 3 OBJE @889BnmNXRsGuR9Tf7azK@
+2 SOUR @qNGRvFLKRVCetGMY4KMl@
+3 QUAY 1
 2 SOUR @mDWKwIsCRaCKr5iO25hg@
 3 _APID 1,2469::1400102586
 3 OBJE @XML95beXRRqyNjAogSfG@
@@ -988,38 +973,41 @@
 0 @oWkOgOV1Tp6JTZoU93DW@ INDI
 1 _XY 183458 3701
 1 REFN 7a0fb84d-ead0-42a9-aee0-fdfa2e62a992
-1 RIN I2331
 1 NAME Christina /McLean/
+2 SOUR @tagmH3kSS5mNE6mkVQFl@
+3 _APID 1,6742::5174211
+3 PAGE Year: 1880; Census Place: Erwin, Steuben, New York; Roll: 93
+4 CONC 3; Family History Film: 1254933; Page: 219A; Enumeration Dis
+4 CONC trict: 173; Image: 0441
+3 OBJE @xNxl4cTfRbaETAVSHqgQ@
+2 SOUR @NDN2XTgxTLmnX7Bgq4LP@
+3 _APID 1,7602::56731112
+3 PAGE Year: 1900; Census Place: Erwin, Steuben, New York; Roll: 11
+4 CONC 63; Page: 6B; Enumeration District: 0082; FHL microfilm: 124
+4 CONC 1163
+3 OBJE @blNQH6aXRTWrpDosAT1j@
+2 SOUR @h7WBKNgwRSOUt2BNNsOI@
+3 _APID 1,7181::1655632241
+3 OBJE @e2itw6lqSXqxQ9OzyjyJ@
+2 SOUR @74P5lXIpRomDQfd5WmFi@
+3 _APID 1,7250::1382752965
+3 OBJE @kWmywm3ESauERQbRJVR3@
 2 SOUR @2W7E32UHQqKiWPSvCYOW@
 3 QUAY 1
 2 SOUR @mDWKwIsCRaCKr5iO25hg@
 3 _APID 1,2469::53821327
 3 OBJE @5LeyQN3uRPG0yM2uCFqI@
-2 SOUR @NDN2XTgxTLmnX7Bgq4LP@
-3 _APID 1,7602::56731112
-3 PAGE Year: 1900; Census Place: Erwin, Steuben, New York; Roll: 11
-4 CONC 63; Page: 6B; Enumeration District: 0082; FHL microfilm: 124
-4 CONC 1163
-3 OBJE @blNQH6aXRTWrpDosAT1j@
-2 SOUR @h7WBKNgwRSOUt2BNNsOI@
-3 _APID 1,7181::1655632241
-3 OBJE @e2itw6lqSXqxQ9OzyjyJ@
-2 SOUR @74P5lXIpRomDQfd5WmFi@
-3 _APID 1,7250::1382752965
-3 OBJE @kWmywm3ESauERQbRJVR3@
-2 SOUR @tagmH3kSS5mNE6mkVQFl@
-3 _APID 1,6742::5174211
-3 PAGE Year: 1880; Census Place: Erwin, Steuben, New York; Roll: 93
-4 CONC 3; Family History Film: 1254933; Page: 219A; Enumeration Dis
-4 CONC trict: 173; Image: 0441
-3 OBJE @xNxl4cTfRbaETAVSHqgQ@
 1 SEX F
 1 FAMS @9lQRIZf6SYK7Y5hx8Llz@
 1 BIRT
 2 DATE OCT 1820
 2 PLAC Cromarty, Cromartyshire, Scotland
-2 SOUR @2W7E32UHQqKiWPSvCYOW@
-3 QUAY 1
+2 SOUR @tagmH3kSS5mNE6mkVQFl@
+3 _APID 1,6742::5174211
+3 PAGE Year: 1880; Census Place: Erwin, Steuben, New York; Roll: 93
+4 CONC 3; Family History Film: 1254933; Page: 219A; Enumeration Dis
+4 CONC trict: 173; Image: 0441
+3 OBJE @xNxl4cTfRbaETAVSHqgQ@
 2 SOUR @NDN2XTgxTLmnX7Bgq4LP@
 3 _APID 1,7602::56731112
 3 PAGE Year: 1900; Census Place: Erwin, Steuben, New York; Roll: 11
@@ -1032,12 +1020,8 @@
 2 SOUR @74P5lXIpRomDQfd5WmFi@
 3 _APID 1,7250::1382752965
 3 OBJE @kWmywm3ESauERQbRJVR3@
-2 SOUR @tagmH3kSS5mNE6mkVQFl@
-3 _APID 1,6742::5174211
-3 PAGE Year: 1880; Census Place: Erwin, Steuben, New York; Roll: 93
-4 CONC 3; Family History Film: 1254933; Page: 219A; Enumeration Dis
-4 CONC trict: 173; Image: 0441
-3 OBJE @xNxl4cTfRbaETAVSHqgQ@
+2 SOUR @2W7E32UHQqKiWPSvCYOW@
+3 QUAY 1
 2 NOTE date is from 1860 census
 1 RESI
 2 DATE 1855
@@ -1122,7 +1106,6 @@
 0 @xVTACTXwRVeBYyOibXVl@ INDI
 1 _XY 182242 4017
 1 REFN 04391868-79a3-4392-a577-93b837c53676
-1 RIN P1279
 1 NAME Mary M. /Pier/
 2 SOUR @tagmH3kSS5mNE6mkVQFl@
 3 _APID 1,6742::2211012
@@ -1147,14 +1130,14 @@
 3 PAGE Year: 1920; Census Place: Olean Ward 3, Cattaraugus, New Yor
 4 CONC k
 3 OBJE @ski6SX2XRdSwVekHG1fj@
-2 SOUR @xcXXXJstR1iS4OizBZKh@
-3 _APID 1,2469::1208138167
-3 OBJE @8LVfnfmpSXeZbCrHJqfp@
 2 SOUR @N62jTQiMTmmRVQc5KCCK@
 3 PAGE Ancestry Family Tree
 3 DATA
 4 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=62861
 5 CONC &pid=1186
+2 SOUR @xcXXXJstR1iS4OizBZKh@
+3 _APID 1,2469::1208138167
+3 OBJE @8LVfnfmpSXeZbCrHJqfp@
 1 SEX F
 1 FAMS @x0FfmvNVTaardWNmUxSB@
 1 BIRT
@@ -1247,29 +1230,13 @@
 0 @YhiPH712RKmaIbDrXHIj@ INDI
 1 _XY 182295 3850
 1 REFN 209acc3f-c7bc-4b91-bf43-92cd7b1994ea
-1 RIN I184
 1 NAME Ann /Taylorson/
-2 SOUR @XGGvH505QiGDGXaNUUub@
-3 _APID 1,5969::564781
 2 SOUR @8r0fX153SZWQXOlPdnxp@
 3 _APID 1,8978::4479731
 3 PAGE Class: HO107; Piece: 317; Book: 23; Civil Parish: Stockton U
 4 CONC pon Tees; County: Durham; Enumeration District: 2; Folio: 27
 4 CONC ; Page: 22; Line: 18; GSU roll: 241357
 3 OBJE @fkkFGltLRgGeUuNdFwkz@
-2 SOUR @N62jTQiMTmmRVQc5KCCK@
-3 PAGE Ancestry Family Tree
-3 DATA
-4 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=62861
-5 CONC &pid=528
-2 SOUR @h7WBKNgwRSOUt2BNNsOI@
-3 _APID 1,7181::1655634890
-3 OBJE @YYd8YtQCTaO3vcc9rJqb@
-2 SOUR @STI3sk0lQsyDfygLDOjf@
-3 _APID 1,8913::28151377
-3 OBJE @oi1Or17IT4m6nzElyser@
-2 SOUR @MLDnHhQZSGGw5BVQo9qM@
-3 _APID 1,9841::44353561
 2 SOUR @JkzVLCTZRve6xkWeiQJy@
 3 _APID 1,8054::8387273
 3 PAGE Year: 1850; Census Place: Painted Post, Steuben, New York; R
@@ -1287,6 +1254,21 @@
 4 CONC : M593_1095; Page: 49A; Image: 102; Family History Library F
 4 CONC ilm: 552594
 3 OBJE @pmMZwiYLSwS64UMhv6PB@
+2 SOUR @N62jTQiMTmmRVQc5KCCK@
+3 PAGE Ancestry Family Tree
+3 DATA
+4 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=62861
+5 CONC &pid=528
+2 SOUR @STI3sk0lQsyDfygLDOjf@
+3 _APID 1,8913::28151377
+3 OBJE @oi1Or17IT4m6nzElyser@
+2 SOUR @MLDnHhQZSGGw5BVQo9qM@
+3 _APID 1,9841::44353561
+2 SOUR @XGGvH505QiGDGXaNUUub@
+3 _APID 1,5969::564781
+2 SOUR @h7WBKNgwRSOUt2BNNsOI@
+3 _APID 1,7181::1655634890
+3 OBJE @YYd8YtQCTaO3vcc9rJqb@
 2 SOUR @2bg2kSXxR9G5oJVTCXgV@
 3 _APID 1,7218::728636
 3 OBJE @zDWuPkvNQy6AqcVvTWKS@
@@ -1299,19 +1281,12 @@
 3 MAP
 4 LATI N54.5833
 4 LONG E1.4167
-2 SOUR @XGGvH505QiGDGXaNUUub@
-3 _APID 1,5969::564781
 2 SOUR @8r0fX153SZWQXOlPdnxp@
 3 _APID 1,8978::4479731
 3 PAGE Class: HO107; Piece: 317; Book: 23; Civil Parish: Stockton U
 4 CONC pon Tees; County: Durham; Enumeration District: 2; Folio: 27
 4 CONC ; Page: 22; Line: 18; GSU roll: 241357
 3 OBJE @fkkFGltLRgGeUuNdFwkz@
-2 SOUR @RdkuIHc9QdiI8rbGMkHb@
-3 QUAY 0
-2 SOUR @h7WBKNgwRSOUt2BNNsOI@
-3 _APID 1,7181::1655634890
-3 OBJE @YYd8YtQCTaO3vcc9rJqb@
 2 SOUR @JkzVLCTZRve6xkWeiQJy@
 3 _APID 1,8054::8387273
 3 PAGE Year: 1850; Census Place: Painted Post, Steuben, New York; R
@@ -1329,6 +1304,12 @@
 4 CONC : M593_1095; Page: 49A; Image: 102; Family History Library F
 4 CONC ilm: 552594
 3 OBJE @pmMZwiYLSwS64UMhv6PB@
+2 SOUR @RdkuIHc9QdiI8rbGMkHb@
+2 SOUR @XGGvH505QiGDGXaNUUub@
+3 _APID 1,5969::564781
+2 SOUR @h7WBKNgwRSOUt2BNNsOI@
+3 _APID 1,7181::1655634890
+3 OBJE @YYd8YtQCTaO3vcc9rJqb@
 2 SOUR @2bg2kSXxR9G5oJVTCXgV@
 3 _APID 1,7218::728636
 3 OBJE @zDWuPkvNQy6AqcVvTWKS@
@@ -1472,13 +1453,12 @@
 0 @eSATTRXURDaNBnm977gU@ INDI
 1 _XY 183517 3856
 1 REFN edc1c1d7-d005-4603-8e30-6c4582320ea9
-1 RIN I2333
 1 NAME Christina /Taylorson/
-2 SOUR @WA6UwoKUTnCqPE5cO5ER@
-3 QUAY 1
 2 SOUR @h7WBKNgwRSOUt2BNNsOI@
 3 _APID 1,7181::1655632243
 3 OBJE @e2itw6lqSXqxQ9OzyjyJ@
+2 SOUR @WA6UwoKUTnCqPE5cO5ER@
+3 QUAY 1
 1 SEX F
 1 FAMC @9lQRIZf6SYK7Y5hx8Llz@
 1 BIRT
@@ -1487,11 +1467,11 @@
 3 MAP
 4 LATI N42.7531
 4 LONG W74.2224
-2 SOUR @WA6UwoKUTnCqPE5cO5ER@
-3 QUAY 1
 2 SOUR @h7WBKNgwRSOUt2BNNsOI@
 3 _APID 1,7181::1655632243
 3 OBJE @e2itw6lqSXqxQ9OzyjyJ@
+2 SOUR @WA6UwoKUTnCqPE5cO5ER@
+3 QUAY 1
 1 RESI
 2 DATE 1855
 2 PLAC Erwin, Steuben, New York, USA
@@ -1505,16 +1485,14 @@
 0 @BbbwuN7NS0KOfVbBorj2@ INDI
 1 _XY 182414 3856
 1 REFN f075d7d6-c526-4658-b668-b32883bbaeaf
-1 RIN I2323
 1 NAME Elizabeth /Taylorson/
-2 SOUR @7kJ3C8C4QFesOwUmgdI4@
-3 QUAY 0
 2 SOUR @8r0fX153SZWQXOlPdnxp@
 3 _APID 1,8978::4479732
 3 PAGE Class: HO107; Piece: 317; Book: 23; Civil Parish: Stockton U
 4 CONC pon Tees; County: Durham; Enumeration District: 2; Folio: 27
 4 CONC ; Page: 22; Line: 19; GSU roll: 241357
 3 OBJE @fkkFGltLRgGeUuNdFwkz@
+2 SOUR @7kJ3C8C4QFesOwUmgdI4@
 2 SOUR @MLDnHhQZSGGw5BVQo9qM@
 3 _APID 1,9841::20268137
 1 SEX F
@@ -1525,14 +1503,14 @@
 3 MAP
 4 LATI N54.9248
 4 LONG W1.5757
-2 SOUR @7kJ3C8C4QFesOwUmgdI4@
-3 QUAY 1
 2 SOUR @8r0fX153SZWQXOlPdnxp@
 3 _APID 1,8978::4479732
 3 PAGE Class: HO107; Piece: 317; Book: 23; Civil Parish: Stockton U
 4 CONC pon Tees; County: Durham; Enumeration District: 2; Folio: 27
 4 CONC ; Page: 22; Line: 19; GSU roll: 241357
 3 OBJE @fkkFGltLRgGeUuNdFwkz@
+2 SOUR @7kJ3C8C4QFesOwUmgdI4@
+3 QUAY 1
 1 BAPM
 2 DATE 16 JUL 1826
 2 PLAC Saint Thomas' Church, Stockton-on-Tees, Durham, England
@@ -1553,18 +1531,17 @@
 0 @t69e9zVpQzqtTG4aD2Rl@ INDI
 1 _XY 182953 3856
 1 REFN d2ce250c-c2e4-49cc-a852-9c782bf587a6
-1 RIN I2327
 1 NAME Esther Emma /Taylorson/
-2 SOUR @0MacWIUSR0yCwHHfzvGN@
-3 QUAY 1
-2 SOUR @XGGvH505QiGDGXaNUUub@
-3 _APID 1,5969::564782
 2 SOUR @8r0fX153SZWQXOlPdnxp@
 3 _APID 1,8978::4479736
 3 PAGE Class: HO107; Piece: 317; Book: 23; Civil Parish: Stockton U
 4 CONC pon Tees; County: Durham; Enumeration District: 2; Folio: 27
 4 CONC ; Page: 22; Line: 23; GSU roll: 241357
 3 OBJE @fkkFGltLRgGeUuNdFwkz@
+2 SOUR @0MacWIUSR0yCwHHfzvGN@
+3 QUAY 1
+2 SOUR @XGGvH505QiGDGXaNUUub@
+3 _APID 1,5969::564782
 1 SEX F
 1 FAMC @SBsOGRdKSbijpGIgiBgo@
 1 BIRT
@@ -1573,8 +1550,6 @@
 3 MAP
 4 LATI N54.9248
 4 LONG W1.5757
-2 SOUR @XGGvH505QiGDGXaNUUub@
-3 _APID 1,5969::564782
 2 SOUR @8r0fX153SZWQXOlPdnxp@
 3 _APID 1,8978::4479736
 3 PAGE Class: HO107; Piece: 317; Book: 23; Civil Parish: Stockton U
@@ -1583,6 +1558,8 @@
 3 OBJE @fkkFGltLRgGeUuNdFwkz@
 2 SOUR @7kJ3C8C4QFesOwUmgdI4@
 3 QUAY 1
+2 SOUR @XGGvH505QiGDGXaNUUub@
+3 _APID 1,5969::564782
 1 RESI
 2 DATE 1841
 2 PLAC Stockton-on-Tees, Durham, England
@@ -1604,20 +1581,19 @@
 0 @ckfxNTKHTiGp0GxlaIQm@ INDI
 1 _XY 182820 3856
 1 REFN 4a501e56-96b0-4ecd-8370-21b804827878
-1 RIN I2326
 1 NAME Frances /Taylorson/
-2 SOUR @7kJ3C8C4QFesOwUmgdI4@
-3 QUAY 1
-2 SOUR @XGGvH505QiGDGXaNUUub@
-3 _APID 1,5969::564783
 2 SOUR @8r0fX153SZWQXOlPdnxp@
 3 _APID 1,8978::4479735
 3 PAGE Class: HO107; Piece: 317; Book: 23; Civil Parish: Stockton U
 4 CONC pon Tees; County: Durham; Enumeration District: 2; Folio: 27
 4 CONC ; Page: 22; Line: 22; GSU roll: 241357
 3 OBJE @fkkFGltLRgGeUuNdFwkz@
+2 SOUR @7kJ3C8C4QFesOwUmgdI4@
+3 QUAY 1
 2 SOUR @MLDnHhQZSGGw5BVQo9qM@
 3 _APID 1,9841::144940117
+2 SOUR @XGGvH505QiGDGXaNUUub@
+3 _APID 1,5969::564783
 1 SEX F
 1 FAMC @SBsOGRdKSbijpGIgiBgo@
 1 BIRT
@@ -1626,16 +1602,16 @@
 3 MAP
 4 LATI N54.9248
 4 LONG W1.5757
-2 SOUR @7kJ3C8C4QFesOwUmgdI4@
-3 QUAY 1
-2 SOUR @XGGvH505QiGDGXaNUUub@
-3 _APID 1,5969::564783
 2 SOUR @8r0fX153SZWQXOlPdnxp@
 3 _APID 1,8978::4479735
 3 PAGE Class: HO107; Piece: 317; Book: 23; Civil Parish: Stockton U
 4 CONC pon Tees; County: Durham; Enumeration District: 2; Folio: 27
 4 CONC ; Page: 22; Line: 22; GSU roll: 241357
 3 OBJE @fkkFGltLRgGeUuNdFwkz@
+2 SOUR @7kJ3C8C4QFesOwUmgdI4@
+3 QUAY 1
+2 SOUR @XGGvH505QiGDGXaNUUub@
+3 _APID 1,5969::564783
 1 BAPM
 2 DATE 03 AUG 1832
 2 PLAC Saint Thomas' Church, Stockton-on-Tees, Durham, England
@@ -1662,11 +1638,24 @@
 0 @te7t7Lo2QraoEgWshr1c@ INDI
 1 _XY 182328 4011
 1 REFN e77ed17b-9eb9-44b8-8c5b-0c0ed38cfe2b
-1 RIN I592
 1 NAME George Ord /Taylorson/
-2 SOUR @g1kvijD7QFuspa8K7nFd@
-3 _APID 1,8912::54486335
-3 OBJE @0kjuZ5g4SAO42LgBAmTw@
+2 SOUR @JkzVLCTZRve6xkWeiQJy@
+3 _APID 1,8054::8446448
+3 PAGE Year: 1850; Census Place: Painted Post, Steuben, New York; R
+4 CONC oll: M432_598; Page: 1A; Image: 9
+3 OBJE @Sb0wdP9kRhCZ8ZFMto5r@
+2 SOUR @jmFGuFh1RiicUCdCiNYx@
+3 _APID 1,7667::48686999
+3 PAGE Year: 1860; Census Place: Corning, Steuben, New York; Roll
+4 CONC : M653_863; Page: 217; Image: 222; Family History Library Fi
+4 CONC lm: 803863
+3 OBJE @8Lh2FaDrRvS7dppiyXOL@
+2 SOUR @VqbyczWoTAunjNaTg1gt@
+3 _APID 1,7163::32326405
+3 PAGE Year: 1870; Census Place: Corning, Steuben, New York; Roll
+4 CONC : M593_1095; Page: 49A; Image: 102; Family History Library F
+4 CONC ilm: 552594
+3 OBJE @pmMZwiYLSwS64UMhv6PB@
 2 SOUR @tagmH3kSS5mNE6mkVQFl@
 3 _APID 1,6742::1594081
 3 PAGE Year: 1880; Census Place: Buffalo, Erie, New York; Roll: 828
@@ -1690,51 +1679,51 @@
 3 PAGE Year: 1920; Census Place: Olean Ward 3, Cattaraugus, New Yor
 4 CONC k
 3 OBJE @ski6SX2XRdSwVekHG1fj@
-2 SOUR @xcXXXJstR1iS4OizBZKh@
-3 _APID 1,2469::104829283
-3 OBJE @8LVfnfmpSXeZbCrHJqfp@
-2 SOUR @XGGvH505QiGDGXaNUUub@
-3 _APID 1,5969::564784
 2 SOUR @N62jTQiMTmmRVQc5KCCK@
 3 PAGE Ancestry Family Tree
 3 DATA
 4 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=62861
 5 CONC &pid=535
-2 SOUR @h7WBKNgwRSOUt2BNNsOI@
-3 _APID 1,7181::1655634891
-3 OBJE @YYd8YtQCTaO3vcc9rJqb@
+2 SOUR @g1kvijD7QFuspa8K7nFd@
+3 _APID 1,8912::54486335
+3 OBJE @0kjuZ5g4SAO42LgBAmTw@
 2 SOUR @lfO2pboiTVupZdmq8c8n@
 3 _APID 1,8842::3261842
 3 OBJE @jJJVXiNLTJOtnFzmfuE6@
-2 SOUR @JkzVLCTZRve6xkWeiQJy@
-3 _APID 1,8054::8446448
-3 PAGE Year: 1850; Census Place: Painted Post, Steuben, New York; R
-4 CONC oll: M432_598; Page: 1A; Image: 9
-3 OBJE @Sb0wdP9kRhCZ8ZFMto5r@
-2 SOUR @jmFGuFh1RiicUCdCiNYx@
-3 _APID 1,7667::48686999
-3 PAGE Year: 1860; Census Place: Corning, Steuben, New York; Roll
-4 CONC : M653_863; Page: 217; Image: 222; Family History Library Fi
-4 CONC lm: 803863
-3 OBJE @8Lh2FaDrRvS7dppiyXOL@
-2 SOUR @VqbyczWoTAunjNaTg1gt@
-3 _APID 1,7163::32326405
-3 PAGE Year: 1870; Census Place: Corning, Steuben, New York; Roll
-4 CONC : M593_1095; Page: 49A; Image: 102; Family History Library F
-4 CONC ilm: 552594
-3 OBJE @pmMZwiYLSwS64UMhv6PB@
+2 SOUR @XGGvH505QiGDGXaNUUub@
+3 _APID 1,5969::564784
+2 SOUR @h7WBKNgwRSOUt2BNNsOI@
+3 _APID 1,7181::1655634891
+3 OBJE @YYd8YtQCTaO3vcc9rJqb@
 2 SOUR @2bg2kSXxR9G5oJVTCXgV@
 3 _APID 1,7218::728637
 3 OBJE @zDWuPkvNQy6AqcVvTWKS@
+2 SOUR @xcXXXJstR1iS4OizBZKh@
+3 _APID 1,2469::104829283
+3 OBJE @8LVfnfmpSXeZbCrHJqfp@
 1 SEX M
 1 FAMC @VVoxPoqYQb2s80iiPRRo@
 1 FAMS @x0FfmvNVTaardWNmUxSB@
 1 BIRT
 2 DATE 05 JAN 1848
 2 PLAC Victoria Place, Hartlepool, Durham, England
-2 SOUR @g1kvijD7QFuspa8K7nFd@
-3 _APID 1,8912::54486335
-3 OBJE @0kjuZ5g4SAO42LgBAmTw@
+2 SOUR @JkzVLCTZRve6xkWeiQJy@
+3 _APID 1,8054::8446448
+3 PAGE Year: 1850; Census Place: Painted Post, Steuben, New York; R
+4 CONC oll: M432_598; Page: 1A; Image: 9
+3 OBJE @Sb0wdP9kRhCZ8ZFMto5r@
+2 SOUR @jmFGuFh1RiicUCdCiNYx@
+3 _APID 1,7667::48686999
+3 PAGE Year: 1860; Census Place: Corning, Steuben, New York; Roll
+4 CONC : M653_863; Page: 217; Image: 222; Family History Library Fi
+4 CONC lm: 803863
+3 OBJE @8Lh2FaDrRvS7dppiyXOL@
+2 SOUR @VqbyczWoTAunjNaTg1gt@
+3 _APID 1,7163::32326405
+3 PAGE Year: 1870; Census Place: Corning, Steuben, New York; Roll
+4 CONC : M593_1095; Page: 49A; Image: 102; Family History Library F
+4 CONC ilm: 552594
+3 OBJE @pmMZwiYLSwS64UMhv6PB@
 2 SOUR @tagmH3kSS5mNE6mkVQFl@
 3 _APID 1,6742::1594081
 3 PAGE Year: 1880; Census Place: Buffalo, Erie, New York; Roll: 828
@@ -1758,37 +1747,23 @@
 3 PAGE Year: 1920; Census Place: Olean Ward 3, Cattaraugus, New Yor
 4 CONC k
 3 OBJE @ski6SX2XRdSwVekHG1fj@
-2 SOUR @XGGvH505QiGDGXaNUUub@
-3 _APID 1,5969::564784
 2 SOUR @amQ48G9oSLGJYInGx0OC@
 3 QUAY 3
-2 SOUR @v9lVJ9JWSlCCClNlNzyE@
-2 SOUR @h7WBKNgwRSOUt2BNNsOI@
-3 _APID 1,7181::1655634891
-3 OBJE @YYd8YtQCTaO3vcc9rJqb@
+2 SOUR @g1kvijD7QFuspa8K7nFd@
+3 _APID 1,8912::54486335
+3 OBJE @0kjuZ5g4SAO42LgBAmTw@
 2 SOUR @lfO2pboiTVupZdmq8c8n@
 3 _APID 1,8842::3261842
 3 OBJE @jJJVXiNLTJOtnFzmfuE6@
-2 SOUR @JkzVLCTZRve6xkWeiQJy@
-3 _APID 1,8054::8446448
-3 PAGE Year: 1850; Census Place: Painted Post, Steuben, New York; R
-4 CONC oll: M432_598; Page: 1A; Image: 9
-3 OBJE @Sb0wdP9kRhCZ8ZFMto5r@
-2 SOUR @jmFGuFh1RiicUCdCiNYx@
-3 _APID 1,7667::48686999
-3 PAGE Year: 1860; Census Place: Corning, Steuben, New York; Roll
-4 CONC : M653_863; Page: 217; Image: 222; Family History Library Fi
-4 CONC lm: 803863
-3 OBJE @8Lh2FaDrRvS7dppiyXOL@
-2 SOUR @VqbyczWoTAunjNaTg1gt@
-3 _APID 1,7163::32326405
-3 PAGE Year: 1870; Census Place: Corning, Steuben, New York; Roll
-4 CONC : M593_1095; Page: 49A; Image: 102; Family History Library F
-4 CONC ilm: 552594
-3 OBJE @pmMZwiYLSwS64UMhv6PB@
+2 SOUR @XGGvH505QiGDGXaNUUub@
+3 _APID 1,5969::564784
+2 SOUR @h7WBKNgwRSOUt2BNNsOI@
+3 _APID 1,7181::1655634891
+3 OBJE @YYd8YtQCTaO3vcc9rJqb@
 2 SOUR @2bg2kSXxR9G5oJVTCXgV@
 3 _APID 1,7218::728637
 3 OBJE @zDWuPkvNQy6AqcVvTWKS@
+2 SOUR @v9lVJ9JWSlCCClNlNzyE@
 1 EVEN
 2 TYPE Arrival
 2 DATE 1848
@@ -1952,7 +1927,6 @@
 0 @TV5ID2LuRiW5x8cwWgSf@ INDI
 1 _XY 182158 4123
 1 REFN 9814cb22-068d-4d6e-85e1-742d4582e207
-1 RIN I182
 1 NAME Hannah L. /Taylorson/
 2 SOUR @jmFGuFh1RiicUCdCiNYx@
 3 _APID 1,7667::48687001
@@ -1960,30 +1934,30 @@
 4 CONC : M653_863; Page: 217; Image: 222; Family History Library Fi
 4 CONC lm: 803863
 3 OBJE @8Lh2FaDrRvS7dppiyXOL@
-2 SOUR @74P5lXIpRomDQfd5WmFi@
-3 _APID 1,7250::1382758777
-3 OBJE @MkjqZjVXTQ6rkkGn6INa@
 2 SOUR @h7WBKNgwRSOUt2BNNsOI@
 3 _APID 1,7181::1655634893
 3 OBJE @YYd8YtQCTaO3vcc9rJqb@
-2 SOUR @PTkUNEaISa61ijB7VnKA@
-3 _APID 1,60525::46327910
 2 SOUR @2bg2kSXxR9G5oJVTCXgV@
 3 _APID 1,7218::728638
 3 OBJE @zDWuPkvNQy6AqcVvTWKS@
+2 SOUR @74P5lXIpRomDQfd5WmFi@
+3 _APID 1,7250::1382758777
+3 OBJE @MkjqZjVXTQ6rkkGn6INa@
+2 SOUR @PTkUNEaISa61ijB7VnKA@
+3 _APID 1,60525::46327910
 1 NAME Hannah S. /Taylorson/
-2 SOUR @tagmH3kSS5mNE6mkVQFl@
-3 _APID 1,6742::39384914
-3 PAGE Year: 1880; Census Place: Hornby, Steuben, New York; Roll: 9
-4 CONC 33; Family History Film: 1254933; Page: 266C; Enumeration Di
-4 CONC strict: 177; Image: 0536
-3 OBJE @7Qe3Q54kTFen6vc1sLFi@
 2 SOUR @VqbyczWoTAunjNaTg1gt@
 3 _APID 1,7163::32326420
 3 PAGE Year: 1870; Census Place: Corning, Steuben, New York; Roll
 4 CONC : M593_1095; Page: 49A; Image: 102; Family History Library F
 4 CONC ilm: 552594
 3 OBJE @pmMZwiYLSwS64UMhv6PB@
+2 SOUR @tagmH3kSS5mNE6mkVQFl@
+3 _APID 1,6742::39384914
+3 PAGE Year: 1880; Census Place: Hornby, Steuben, New York; Roll: 9
+4 CONC 33; Family History Film: 1254933; Page: 266C; Enumeration Di
+4 CONC strict: 177; Image: 0536
+3 OBJE @7Qe3Q54kTFen6vc1sLFi@
 2 SOUR @N62jTQiMTmmRVQc5KCCK@
 3 PAGE Ancestry Family Tree
 3 DATA
@@ -1999,37 +1973,36 @@
 3 MAP
 4 LATI N42.1429
 4 LONG W77.0547
-2 SOUR @73BbZwueSqGkdeK8ueNP@
-3 QUAY 0
-2 SOUR @tagmH3kSS5mNE6mkVQFl@
-3 _APID 1,6742::39384914
-3 PAGE Year: 1880; Census Place: Hornby, Steuben, New York; Roll: 9
-4 CONC 33; Family History Film: 1254933; Page: 266C; Enumeration Di
-4 CONC strict: 177; Image: 0536
-3 OBJE @7Qe3Q54kTFen6vc1sLFi@
-2 SOUR @VqbyczWoTAunjNaTg1gt@
-3 _APID 1,7163::32326420
-3 PAGE Year: 1870; Census Place: Corning, Steuben, New York; Roll
-4 CONC : M593_1095; Page: 49A; Image: 102; Family History Library F
-4 CONC ilm: 552594
-3 OBJE @pmMZwiYLSwS64UMhv6PB@
 2 SOUR @jmFGuFh1RiicUCdCiNYx@
 3 _APID 1,7667::48687001
 3 PAGE Year: 1860; Census Place: Corning, Steuben, New York; Roll
 4 CONC : M653_863; Page: 217; Image: 222; Family History Library Fi
 4 CONC lm: 803863
 3 OBJE @8Lh2FaDrRvS7dppiyXOL@
-2 SOUR @74P5lXIpRomDQfd5WmFi@
-3 _APID 1,7250::1382758777
-3 OBJE @MkjqZjVXTQ6rkkGn6INa@
+2 SOUR @VqbyczWoTAunjNaTg1gt@
+3 _APID 1,7163::32326420
+3 PAGE Year: 1870; Census Place: Corning, Steuben, New York; Roll
+4 CONC : M593_1095; Page: 49A; Image: 102; Family History Library F
+4 CONC ilm: 552594
+3 OBJE @pmMZwiYLSwS64UMhv6PB@
+2 SOUR @tagmH3kSS5mNE6mkVQFl@
+3 _APID 1,6742::39384914
+3 PAGE Year: 1880; Census Place: Hornby, Steuben, New York; Roll: 9
+4 CONC 33; Family History Film: 1254933; Page: 266C; Enumeration Di
+4 CONC strict: 177; Image: 0536
+3 OBJE @7Qe3Q54kTFen6vc1sLFi@
+2 SOUR @73BbZwueSqGkdeK8ueNP@
 2 SOUR @h7WBKNgwRSOUt2BNNsOI@
 3 _APID 1,7181::1655634893
 3 OBJE @YYd8YtQCTaO3vcc9rJqb@
-2 SOUR @PTkUNEaISa61ijB7VnKA@
-3 _APID 1,60525::46327910
 2 SOUR @2bg2kSXxR9G5oJVTCXgV@
 3 _APID 1,7218::728638
 3 OBJE @zDWuPkvNQy6AqcVvTWKS@
+2 SOUR @74P5lXIpRomDQfd5WmFi@
+3 _APID 1,7250::1382758777
+3 OBJE @MkjqZjVXTQ6rkkGn6INa@
+2 SOUR @PTkUNEaISa61ijB7VnKA@
+3 _APID 1,60525::46327910
 1 RESI
 2 DATE 1855
 2 PLAC Corning, Steuben, New York, USA
@@ -2176,7 +2149,6 @@
 4 LATI N42.2442
 4 LONG W77.0444
 2 SOUR @QjqphwFCTh22O6HarJAj@
-3 QUAY 0
 2 SOUR @PTkUNEaISa61ijB7VnKA@
 3 _APID 1,60525::46327910
 2 NOTE Applicants Working Sheet DAR agrees
@@ -2190,20 +2162,19 @@
 0 @dFnJrONrTXmSUU1bpTty@ INDI
 1 _XY 182088 4016
 1 REFN 193d1da7-a6c6-47e3-9fc8-d095b17f3aad
-1 RIN I595
 1 NAME Harriet Ellen /Taylorson/
-2 SOUR @c4Kpe8hwRqSW5hMTvu1S@
-3 _APID 1,7884::25924631
-3 PAGE Year: 1910; Census Place: Westfield, Tioga, Pennsylvania; Ro
-4 CONC ll: T624_1423; Page: 12A; Enumeration District: 0170; FHL mi
-4 CONC crofilm: 1375436
-3 OBJE @NOtiDwokQXi1m65EbyOt@
 2 SOUR @VqbyczWoTAunjNaTg1gt@
 3 _APID 1,7163::32326423
 3 PAGE Year: 1870; Census Place: Corning, Steuben, New York; Roll
 4 CONC : M593_1095; Page: 49A; Image: 102; Family History Library F
 4 CONC ilm: 552594
 3 OBJE @pmMZwiYLSwS64UMhv6PB@
+2 SOUR @c4Kpe8hwRqSW5hMTvu1S@
+3 _APID 1,7884::25924631
+3 PAGE Year: 1910; Census Place: Westfield, Tioga, Pennsylvania; Ro
+4 CONC ll: T624_1423; Page: 12A; Enumeration District: 0170; FHL mi
+4 CONC crofilm: 1375436
+3 OBJE @NOtiDwokQXi1m65EbyOt@
 2 SOUR @2bg2kSXxR9G5oJVTCXgV@
 3 _APID 1,7218::728642
 3 OBJE @zDWuPkvNQy6AqcVvTWKS@
@@ -2229,27 +2200,27 @@
 3 MAP
 4 LATI N42.1429
 4 LONG W77.0547
-2 SOUR @2WoDCiydQiS8tg1JkJWc@
-3 QUAY 1
-2 SOUR @WjJ6YPanRKegWyl1IRoB@
-2 SOUR @c4Kpe8hwRqSW5hMTvu1S@
-3 _APID 1,7884::25924631
-3 PAGE Year: 1910; Census Place: Westfield, Tioga, Pennsylvania; Ro
-4 CONC ll: T624_1423; Page: 12A; Enumeration District: 0170; FHL mi
-4 CONC crofilm: 1375436
-3 OBJE @NOtiDwokQXi1m65EbyOt@
 2 SOUR @VqbyczWoTAunjNaTg1gt@
 3 _APID 1,7163::32326423
 3 PAGE Year: 1870; Census Place: Corning, Steuben, New York; Roll
 4 CONC : M593_1095; Page: 49A; Image: 102; Family History Library F
 4 CONC ilm: 552594
 3 OBJE @pmMZwiYLSwS64UMhv6PB@
+2 SOUR @c4Kpe8hwRqSW5hMTvu1S@
+3 _APID 1,7884::25924631
+3 PAGE Year: 1910; Census Place: Westfield, Tioga, Pennsylvania; Ro
+4 CONC ll: T624_1423; Page: 12A; Enumeration District: 0170; FHL mi
+4 CONC crofilm: 1375436
+3 OBJE @NOtiDwokQXi1m65EbyOt@
 2 SOUR @2bg2kSXxR9G5oJVTCXgV@
 3 _APID 1,7218::728642
 3 OBJE @zDWuPkvNQy6AqcVvTWKS@
 2 SOUR @74P5lXIpRomDQfd5WmFi@
 3 _APID 1,7250::1382745708
 3 OBJE @XA9Vo3BZQR2gnVPVkgzL@
+2 SOUR @2WoDCiydQiS8tg1JkJWc@
+3 QUAY 1
+2 SOUR @WjJ6YPanRKegWyl1IRoB@
 2 NOTE Believe she is listed in 1900 census as "Lizzie H Edminster
 3 CONC " in Conklin, Broome, NY.
 1 RESI
@@ -2305,22 +2276,20 @@
 4 LATI N42.329
 4 LONG W75.9677
 2 SOUR @cloCGCgMQYqTs7SReZRJ@
-3 QUAY 0
 0 @JGTsqYB9SdiI2txJXQIS@ INDI
 1 _XY 182689 3856
 1 REFN 0ee270de-4193-466f-8463-dea0f9b96e24
-1 RIN I2325
 1 NAME Isabella /Taylorson/
-2 SOUR @7kJ3C8C4QFesOwUmgdI4@
-3 QUAY 1
-2 SOUR @XGGvH505QiGDGXaNUUub@
-3 _APID 1,5969::564785
 2 SOUR @8r0fX153SZWQXOlPdnxp@
 3 _APID 1,8978::4479734
 3 PAGE Class: HO107; Piece: 317; Book: 23; Civil Parish: Stockton U
 4 CONC pon Tees; County: Durham; Enumeration District: 2; Folio: 27
 4 CONC ; Page: 22; Line: 21; GSU roll: 241357
 3 OBJE @fkkFGltLRgGeUuNdFwkz@
+2 SOUR @7kJ3C8C4QFesOwUmgdI4@
+3 QUAY 1
+2 SOUR @XGGvH505QiGDGXaNUUub@
+3 _APID 1,5969::564785
 1 SEX F
 1 FAMC @SBsOGRdKSbijpGIgiBgo@
 1 BIRT
@@ -2329,16 +2298,16 @@
 3 MAP
 4 LATI N54.9248
 4 LONG W1.5757
-2 SOUR @7kJ3C8C4QFesOwUmgdI4@
-3 QUAY 1
-2 SOUR @XGGvH505QiGDGXaNUUub@
-3 _APID 1,5969::564785
 2 SOUR @8r0fX153SZWQXOlPdnxp@
 3 _APID 1,8978::4479734
 3 PAGE Class: HO107; Piece: 317; Book: 23; Civil Parish: Stockton U
 4 CONC pon Tees; County: Durham; Enumeration District: 2; Folio: 27
 4 CONC ; Page: 22; Line: 21; GSU roll: 241357
 3 OBJE @fkkFGltLRgGeUuNdFwkz@
+2 SOUR @7kJ3C8C4QFesOwUmgdI4@
+3 QUAY 1
+2 SOUR @XGGvH505QiGDGXaNUUub@
+3 _APID 1,5969::564785
 1 RESI
 2 DATE 1841
 2 PLAC Stockton-on-Tees, Durham, England
@@ -2360,10 +2329,7 @@
 0 @Lmx965BAQlylTqGWwUO8@ INDI
 1 _XY 182831 4011
 1 REFN 08cef02e-a7f7-46f4-8569-7582cd71b1dd
-1 RIN I720
 1 NAME Jessie /Taylorson/
-2 SOUR @LgUvDQExRraJTm0SceCH@
-3 QUAY 1
 2 SOUR @jmFGuFh1RiicUCdCiNYx@
 3 _APID 1,7667::48687003
 3 PAGE Year: 1860; Census Place: Corning, Steuben, New York; Roll
@@ -2381,23 +2347,25 @@
 3 PAGE Year: 1940; Census Place: New York, New York, New York; Roll
 4 CONC : T627_2656; Page: 61A; Enumeration District: 31-1374
 3 OBJE @HxENyvXZQBqj46tAufBU@
-2 SOUR @eaHR0oxuTfOp5myA78b9@
-3 _APID 1,3212::279026
-3 OBJE @SGnHaKBtQYGRR9ubBWg4@
 2 SOUR @N62jTQiMTmmRVQc5KCCK@
 3 PAGE Ancestry Family Tree
 3 DATA
 4 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=62861
 5 CONC &pid=533
-2 SOUR @mDWKwIsCRaCKr5iO25hg@
-3 _APID 1,2469::1224098615
-3 OBJE @cw72CZy8Sa2fFE5yZQ21@
 2 SOUR @2bg2kSXxR9G5oJVTCXgV@
 3 _APID 1,7218::728640
 3 OBJE @zDWuPkvNQy6AqcVvTWKS@
 2 SOUR @74P5lXIpRomDQfd5WmFi@
 3 _APID 1,7250::1382745707
 3 OBJE @XA9Vo3BZQR2gnVPVkgzL@
+2 SOUR @eaHR0oxuTfOp5myA78b9@
+3 _APID 1,3212::279026
+3 OBJE @SGnHaKBtQYGRR9ubBWg4@
+2 SOUR @mDWKwIsCRaCKr5iO25hg@
+3 _APID 1,2469::1224098615
+3 OBJE @cw72CZy8Sa2fFE5yZQ21@
+2 SOUR @LgUvDQExRraJTm0SceCH@
+3 QUAY 1
 1 SEX F
 1 FAMC @VVoxPoqYQb2s80iiPRRo@
 1 FAMS @Frfm36v7QBCGN8pZPXpa@
@@ -2408,7 +2376,6 @@
 3 MAP
 4 LATI N42.1429
 4 LONG W77.0547
-2 SOUR @LgUvDQExRraJTm0SceCH@
 2 SOUR @jmFGuFh1RiicUCdCiNYx@
 3 _APID 1,7667::48687003
 3 PAGE Year: 1860; Census Place: Corning, Steuben, New York; Roll
@@ -2426,9 +2393,6 @@
 3 PAGE Year: 1940; Census Place: New York, New York, New York; Roll
 4 CONC : T627_2656; Page: 61A; Enumeration District: 31-1374
 3 OBJE @HxENyvXZQBqj46tAufBU@
-2 SOUR @eaHR0oxuTfOp5myA78b9@
-3 _APID 1,3212::279026
-3 OBJE @SGnHaKBtQYGRR9ubBWg4@
 2 SOUR @P03XE2GqQSunPkn5yDpr@
 3 QUAY 1
 2 SOUR @2bg2kSXxR9G5oJVTCXgV@
@@ -2437,6 +2401,10 @@
 2 SOUR @74P5lXIpRomDQfd5WmFi@
 3 _APID 1,7250::1382745707
 3 OBJE @XA9Vo3BZQR2gnVPVkgzL@
+2 SOUR @eaHR0oxuTfOp5myA78b9@
+3 _APID 1,3212::279026
+3 OBJE @SGnHaKBtQYGRR9ubBWg4@
+2 SOUR @LgUvDQExRraJTm0SceCH@
 1 RESI
 2 DATE 1860
 2 PLAC Corning, Steuben, New York, USA
@@ -2532,7 +2500,6 @@
 0 @PRBlkLKCSUKFRPTlxW7h@ INDI
 1 _XY 182148 3763
 1 REFN 0194d49c-c780-45d8-b9ed-c20c1e5124bc
-1 RIN I2330
 1 NAME Jonathan /Taylorson/
 2 SOUR @Ok2EiItMTYaIoVo6zEWZ@
 3 QUAY 1
@@ -2544,10 +2511,25 @@
 0 @lOqV0HFoS0eFxVLV9X46@ INDI
 1 _XY 182606 4011
 1 REFN ac050d7e-6c5c-4c54-85db-84d6e7a8bc65
-1 RIN I594
 1 NAME Lavinia /Taylorson/
-2 SOUR @WjJ6YPanRKegWyl1IRoB@
-3 QUAY 1
+2 SOUR @jmFGuFh1RiicUCdCiNYx@
+3 _APID 1,7667::48687002
+3 PAGE Year: 1860; Census Place: Corning, Steuben, New York; Roll
+4 CONC : M653_863; Page: 217; Image: 222; Family History Library Fi
+4 CONC lm: 803863
+3 OBJE @8Lh2FaDrRvS7dppiyXOL@
+2 SOUR @VqbyczWoTAunjNaTg1gt@
+3 _APID 1,7163::32326421
+3 PAGE Year: 1870; Census Place: Corning, Steuben, New York; Roll
+4 CONC : M593_1095; Page: 49A; Image: 102; Family History Library F
+4 CONC ilm: 552594
+3 OBJE @pmMZwiYLSwS64UMhv6PB@
+2 SOUR @tagmH3kSS5mNE6mkVQFl@
+3 _APID 1,6742::5159013
+3 PAGE Year: 1880; Census Place: Corning, Steuben, New York; Roll
+4 CONC : 933; Family History Film: 1254933; Page: 167A; Enumeratio
+4 CONC n District: 171; Image: 0337
+3 OBJE @9fekSPhgS6eGJGlIKd5Y@
 2 SOUR @NDN2XTgxTLmnX7Bgq4LP@
 3 _APID 1,7602::18575301
 3 PAGE Year: 1900; Census Place: Elmira Ward 9, Chemung, New York
@@ -2560,37 +2542,16 @@
 4 CONC ; Roll: T624_931; Page: 4B; Enumeration District: 0032; FH
 4 CONC L microfilm: 1374944
 3 OBJE @b734qYM2RbSlfVJjNEgL@
-2 SOUR @tagmH3kSS5mNE6mkVQFl@
-3 _APID 1,6742::5159013
-3 PAGE Year: 1880; Census Place: Corning, Steuben, New York; Roll
-4 CONC : 933; Family History Film: 1254933; Page: 167A; Enumeratio
-4 CONC n District: 171; Image: 0337
-3 OBJE @9fekSPhgS6eGJGlIKd5Y@
-2 SOUR @jmFGuFh1RiicUCdCiNYx@
-3 _APID 1,7667::48687002
-3 PAGE Year: 1860; Census Place: Corning, Steuben, New York; Roll
-4 CONC : M653_863; Page: 217; Image: 222; Family History Library Fi
-4 CONC lm: 803863
-3 OBJE @8Lh2FaDrRvS7dppiyXOL@
+2 SOUR @gEzHretGQ9iAdPxO8HPJ@
+3 _APID 1,6061::31234024
+3 PAGE Year: 1920; Census Place: Elmira Ward 9, Chemung, New York
+3 OBJE @UPKQIecMQOG7HmNjyCuN@
 2 SOUR @z1TPRpwkRpi0Hb52420e@
 3 _APID 1,6224::1105665834
 3 PAGE Year: 1930; Census Place: Elmira, Chemung, New York; Roll: 1
 4 CONC 415; Page: 2A; Enumeration District: 31; FHL microfilm: 2341
 4 CONC 150
 3 OBJE @RMTRznOgTyKbSzKbFd6b@
-2 SOUR @xcXXXJstR1iS4OizBZKh@
-3 _APID 1,2469::85584814
-3 OBJE @6xe0YWM6RW2e4ItJnpRy@
-2 SOUR @7LxrgfRmTNWyu6slXQjR@
-3 _APID 1,2704::23623856
-3 PAGE New York State Archives; Albany, New York; State Populatio
-4 CONC n Census Schedules, 1925; Election District: 02; Assembly Di
-4 CONC strict: 01; City: Elmira Ward 09; County: Chemung; Page: 6
-3 OBJE @2jGTC07gTD6rNgHwuMW9@
-2 SOUR @gEzHretGQ9iAdPxO8HPJ@
-3 _APID 1,6061::31234024
-3 PAGE Year: 1920; Census Place: Elmira Ward 9, Chemung, New York
-3 OBJE @UPKQIecMQOG7HmNjyCuN@
 2 SOUR @krZH9vsSTamYxiNlOr6t@
 3 _APID 1,2442::3047495
 3 PAGE Year: 1940; Census Place: Elmira, Chemung, New York; Roll: T
@@ -2604,20 +2565,25 @@
 2 SOUR @h7WBKNgwRSOUt2BNNsOI@
 3 _APID 1,7181::1655634894
 3 OBJE @YYd8YtQCTaO3vcc9rJqb@
-2 SOUR @4jCt5j3VRkqTuhypLl9x@
-3 _APID 1,7364::3920290
-3 OBJE @3aa407SjRJWvIepXS4R2@
-2 SOUR @PTkUNEaISa61ijB7VnKA@
-3 _APID 1,60525::106593300
-2 SOUR @VqbyczWoTAunjNaTg1gt@
-3 _APID 1,7163::32326421
-3 PAGE Year: 1870; Census Place: Corning, Steuben, New York; Roll
-4 CONC : M593_1095; Page: 49A; Image: 102; Family History Library F
-4 CONC ilm: 552594
-3 OBJE @pmMZwiYLSwS64UMhv6PB@
 2 SOUR @2bg2kSXxR9G5oJVTCXgV@
 3 _APID 1,7218::728639
 3 OBJE @zDWuPkvNQy6AqcVvTWKS@
+2 SOUR @4jCt5j3VRkqTuhypLl9x@
+3 _APID 1,7364::3920290
+3 OBJE @3aa407SjRJWvIepXS4R2@
+2 SOUR @7LxrgfRmTNWyu6slXQjR@
+3 _APID 1,2704::23623856
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1925; Election District: 02; Assembly Di
+4 CONC strict: 01; City: Elmira Ward 09; County: Chemung; Page: 6
+3 OBJE @2jGTC07gTD6rNgHwuMW9@
+2 SOUR @xcXXXJstR1iS4OizBZKh@
+3 _APID 1,2469::85584814
+3 OBJE @6xe0YWM6RW2e4ItJnpRy@
+2 SOUR @PTkUNEaISa61ijB7VnKA@
+3 _APID 1,60525::106593300
+2 SOUR @WjJ6YPanRKegWyl1IRoB@
+3 QUAY 1
 1 SEX F
 1 FAMC @VVoxPoqYQb2s80iiPRRo@
 1 FAMS @7Oru3OoaSFiSLD0h0ctk@
@@ -2628,6 +2594,24 @@
 3 MAP
 4 LATI N42.1429
 4 LONG W77.0547
+2 SOUR @jmFGuFh1RiicUCdCiNYx@
+3 _APID 1,7667::48687002
+3 PAGE Year: 1860; Census Place: Corning, Steuben, New York; Roll
+4 CONC : M653_863; Page: 217; Image: 222; Family History Library Fi
+4 CONC lm: 803863
+3 OBJE @8Lh2FaDrRvS7dppiyXOL@
+2 SOUR @VqbyczWoTAunjNaTg1gt@
+3 _APID 1,7163::32326421
+3 PAGE Year: 1870; Census Place: Corning, Steuben, New York; Roll
+4 CONC : M593_1095; Page: 49A; Image: 102; Family History Library F
+4 CONC ilm: 552594
+3 OBJE @pmMZwiYLSwS64UMhv6PB@
+2 SOUR @tagmH3kSS5mNE6mkVQFl@
+3 _APID 1,6742::5159013
+3 PAGE Year: 1880; Census Place: Corning, Steuben, New York; Roll
+4 CONC : 933; Family History Film: 1254933; Page: 167A; Enumeratio
+4 CONC n District: 171; Image: 0337
+3 OBJE @9fekSPhgS6eGJGlIKd5Y@
 2 SOUR @NDN2XTgxTLmnX7Bgq4LP@
 3 _APID 1,7602::18575301
 3 PAGE Year: 1900; Census Place: Elmira Ward 9, Chemung, New York
@@ -2640,57 +2624,39 @@
 4 CONC ; Roll: T624_931; Page: 4B; Enumeration District: 0032; FH
 4 CONC L microfilm: 1374944
 3 OBJE @b734qYM2RbSlfVJjNEgL@
-2 SOUR @tagmH3kSS5mNE6mkVQFl@
-3 _APID 1,6742::5159013
-3 PAGE Year: 1880; Census Place: Corning, Steuben, New York; Roll
-4 CONC : 933; Family History Film: 1254933; Page: 167A; Enumeratio
-4 CONC n District: 171; Image: 0337
-3 OBJE @9fekSPhgS6eGJGlIKd5Y@
-2 SOUR @jmFGuFh1RiicUCdCiNYx@
-3 _APID 1,7667::48687002
-3 PAGE Year: 1860; Census Place: Corning, Steuben, New York; Roll
-4 CONC : M653_863; Page: 217; Image: 222; Family History Library Fi
-4 CONC lm: 803863
-3 OBJE @8Lh2FaDrRvS7dppiyXOL@
+2 SOUR @gEzHretGQ9iAdPxO8HPJ@
+3 _APID 1,6061::31234024
+3 PAGE Year: 1920; Census Place: Elmira Ward 9, Chemung, New York
+3 OBJE @UPKQIecMQOG7HmNjyCuN@
 2 SOUR @z1TPRpwkRpi0Hb52420e@
 3 _APID 1,6224::1105665834
 3 PAGE Year: 1930; Census Place: Elmira, Chemung, New York; Roll: 1
 4 CONC 415; Page: 2A; Enumeration District: 31; FHL microfilm: 2341
 4 CONC 150
 3 OBJE @RMTRznOgTyKbSzKbFd6b@
+2 SOUR @krZH9vsSTamYxiNlOr6t@
+3 _APID 1,2442::3047495
+3 PAGE Year: 1940; Census Place: Elmira, Chemung, New York; Roll: T
+4 CONC 627_2514; Page: 3A; Enumeration District: 8-57
+3 OBJE @NWt8uo0tQv2t1cVZiK3m@
+2 SOUR @h7WBKNgwRSOUt2BNNsOI@
+3 _APID 1,7181::1655634894
+3 OBJE @YYd8YtQCTaO3vcc9rJqb@
+2 SOUR @2bg2kSXxR9G5oJVTCXgV@
+3 _APID 1,7218::728639
+3 OBJE @zDWuPkvNQy6AqcVvTWKS@
+2 SOUR @4jCt5j3VRkqTuhypLl9x@
+3 _APID 1,7364::3920290
+3 OBJE @3aa407SjRJWvIepXS4R2@
 2 SOUR @7LxrgfRmTNWyu6slXQjR@
 3 _APID 1,2704::23623856
 3 PAGE New York State Archives; Albany, New York; State Populatio
 4 CONC n Census Schedules, 1925; Election District: 02; Assembly Di
 4 CONC strict: 01; City: Elmira Ward 09; County: Chemung; Page: 6
 3 OBJE @2jGTC07gTD6rNgHwuMW9@
-2 SOUR @gEzHretGQ9iAdPxO8HPJ@
-3 _APID 1,6061::31234024
-3 PAGE Year: 1920; Census Place: Elmira Ward 9, Chemung, New York
-3 OBJE @UPKQIecMQOG7HmNjyCuN@
-2 SOUR @krZH9vsSTamYxiNlOr6t@
-3 _APID 1,2442::3047495
-3 PAGE Year: 1940; Census Place: Elmira, Chemung, New York; Roll: T
-4 CONC 627_2514; Page: 3A; Enumeration District: 8-57
-3 OBJE @NWt8uo0tQv2t1cVZiK3m@
-2 SOUR @LgUvDQExRraJTm0SceCH@
-2 SOUR @h7WBKNgwRSOUt2BNNsOI@
-3 _APID 1,7181::1655634894
-3 OBJE @YYd8YtQCTaO3vcc9rJqb@
-2 SOUR @4jCt5j3VRkqTuhypLl9x@
-3 _APID 1,7364::3920290
-3 OBJE @3aa407SjRJWvIepXS4R2@
 2 SOUR @PTkUNEaISa61ijB7VnKA@
 3 _APID 1,60525::106593300
-2 SOUR @VqbyczWoTAunjNaTg1gt@
-3 _APID 1,7163::32326421
-3 PAGE Year: 1870; Census Place: Corning, Steuben, New York; Roll
-4 CONC : M593_1095; Page: 49A; Image: 102; Family History Library F
-4 CONC ilm: 552594
-3 OBJE @pmMZwiYLSwS64UMhv6PB@
-2 SOUR @2bg2kSXxR9G5oJVTCXgV@
-3 _APID 1,7218::728639
-3 OBJE @zDWuPkvNQy6AqcVvTWKS@
+2 SOUR @LgUvDQExRraJTm0SceCH@
 2 NOTE 1900 US Census (listed under "Sabinia Dodd or Lavinia Dodd
 3 CONC , etc." Place is just assumed.
 1 RESI
@@ -2882,32 +2848,32 @@
 0 @EdyRn2BhRdOyia90zmi2@ INDI
 1 _XY 182552 3856
 1 REFN 1117a599-805b-4429-ae35-2a61694c3111
-1 RIN I2324
 1 NAME Margaret /Taylorson/
-2 SOUR @7kJ3C8C4QFesOwUmgdI4@
-3 QUAY 1
 2 SOUR @8r0fX153SZWQXOlPdnxp@
 3 _APID 1,8978::4479733
 3 PAGE Class: HO107; Piece: 317; Book: 23; Civil Parish: Stockton U
 4 CONC pon Tees; County: Durham; Enumeration District: 2; Folio: 27
 4 CONC ; Page: 22; Line: 20; GSU roll: 241357
 3 OBJE @fkkFGltLRgGeUuNdFwkz@
+2 SOUR @7kJ3C8C4QFesOwUmgdI4@
+3 QUAY 1
 1 SEX F
 1 FAMC @SBsOGRdKSbijpGIgiBgo@
+1 NOTE _UID 1117a599-805b-4429-ae35-2a61694c3111
 1 BIRT
 2 DATE ABT 1828
 2 PLAC Durham, England
 3 MAP
 4 LATI N54.9248
 4 LONG W1.5757
-2 SOUR @7kJ3C8C4QFesOwUmgdI4@
-3 QUAY 1
 2 SOUR @8r0fX153SZWQXOlPdnxp@
 3 _APID 1,8978::4479733
 3 PAGE Class: HO107; Piece: 317; Book: 23; Civil Parish: Stockton U
 4 CONC pon Tees; County: Durham; Enumeration District: 2; Folio: 27
 4 CONC ; Page: 22; Line: 20; GSU roll: 241357
 3 OBJE @fkkFGltLRgGeUuNdFwkz@
+2 SOUR @7kJ3C8C4QFesOwUmgdI4@
+3 QUAY 1
 1 RESI
 2 DATE 1841
 2 PLAC Stockton-on-Tees, Durham, England
@@ -2923,10 +2889,7 @@
 0 @LDWl6FlpTzuo2KFKCln3@ INDI
 1 _XY 183380 3856
 1 REFN 866a15e5-02e5-49a8-ab0c-b263c0dcfa17
-1 RIN I2332
 1 NAME Margaret /Taylorson/
-2 SOUR @WA6UwoKUTnCqPE5cO5ER@
-3 QUAY 1
 2 SOUR @NDN2XTgxTLmnX7Bgq4LP@
 3 _APID 1,7602::56731111
 3 PAGE Year: 1900; Census Place: Erwin, Steuben, New York; Roll: 11
@@ -2939,16 +2902,17 @@
 2 SOUR @74P5lXIpRomDQfd5WmFi@
 3 _APID 1,7250::1382752966
 3 OBJE @kWmywm3ESauERQbRJVR3@
+2 SOUR @WA6UwoKUTnCqPE5cO5ER@
+3 QUAY 1
 1 SEX F
 1 FAMC @9lQRIZf6SYK7Y5hx8Llz@
+1 NOTE _UID 866a15e5-02e5-49a8-ab0c-b263c0dcfa17
 1 BIRT
 2 DATE JUN 1851
 2 PLAC New York, USA
 3 MAP
 4 LATI N42.7531
 4 LONG W74.2224
-2 SOUR @WA6UwoKUTnCqPE5cO5ER@
-3 QUAY 1
 2 SOUR @NDN2XTgxTLmnX7Bgq4LP@
 3 _APID 1,7602::56731111
 3 PAGE Year: 1900; Census Place: Erwin, Steuben, New York; Roll: 11
@@ -2961,6 +2925,8 @@
 2 SOUR @74P5lXIpRomDQfd5WmFi@
 3 _APID 1,7250::1382752966
 3 OBJE @kWmywm3ESauERQbRJVR3@
+2 SOUR @WA6UwoKUTnCqPE5cO5ER@
+3 QUAY 1
 1 RESI
 2 DATE 1855
 2 PLAC Erwin, Steuben, New York, USA
@@ -2998,7 +2964,6 @@
 0 @sYcIbAElSS6iNamoD9pr@ INDI
 1 _XY 183110 3856
 1 REFN 440be94f-44ed-4901-a461-daa925513fff
-1 RIN I2328
 1 NAME Mary Jane /Taylorson/
 2 SOUR @uPgDQtkWRY6IqBhtzHie@
 3 QUAY 3
@@ -3006,8 +2971,6 @@
 3 _APID 1,8912::54486500
 3 OBJE @kd3IvfIYQ4WNqYfrIaLw@
 1 NAME Mary Ann /Taylorson/
-2 SOUR @XGGvH505QiGDGXaNUUub@
-3 _APID 1,5969::564786
 2 SOUR @8r0fX153SZWQXOlPdnxp@
 3 _APID 1,8978::4479737
 3 PAGE Class: HO107; Piece: 317; Book: 23; Civil Parish: Stockton U
@@ -3015,6 +2978,8 @@
 4 CONC ; Page: 22; Line: 24; GSU roll: 241357
 3 OBJE @fkkFGltLRgGeUuNdFwkz@
 2 SOUR @0MacWIUSR0yCwHHfzvGN@
+2 SOUR @XGGvH505QiGDGXaNUUub@
+3 _APID 1,5969::564786
 1 SEX F
 1 FAMC @SBsOGRdKSbijpGIgiBgo@
 1 BIRT
@@ -3023,20 +2988,20 @@
 3 MAP
 4 LATI N54.5833
 4 LONG E1.4167
-2 SOUR @uPgDQtkWRY6IqBhtzHie@
-3 QUAY 3
-2 SOUR @7kJ3C8C4QFesOwUmgdI4@
-2 SOUR @XGGvH505QiGDGXaNUUub@
-3 _APID 1,5969::564786
 2 SOUR @8r0fX153SZWQXOlPdnxp@
 3 _APID 1,8978::4479737
 3 PAGE Class: HO107; Piece: 317; Book: 23; Civil Parish: Stockton U
 4 CONC pon Tees; County: Durham; Enumeration District: 2; Folio: 27
 4 CONC ; Page: 22; Line: 24; GSU roll: 241357
 3 OBJE @fkkFGltLRgGeUuNdFwkz@
+2 SOUR @uPgDQtkWRY6IqBhtzHie@
+3 QUAY 3
 2 SOUR @XIqTsRCAQmO5BvSmizub@
 3 _APID 1,8912::54486500
 3 OBJE @kd3IvfIYQ4WNqYfrIaLw@
+2 SOUR @7kJ3C8C4QFesOwUmgdI4@
+2 SOUR @XGGvH505QiGDGXaNUUub@
+3 _APID 1,5969::564786
 1 RESI
 2 DATE 1841
 2 PLAC Stockton-on-Tees, Durham, England
@@ -3058,46 +3023,45 @@
 0 @BQ6oOeJnQFGzhVudXWcy@ INDI
 1 _XY 183299 3695
 1 REFN cd69b404-83a4-4f57-95e1-20ae15876818
-1 RIN I2180
 1 NAME Robert /Taylorson/
-2 SOUR @0MacWIUSR0yCwHHfzvGN@
-3 QUAY 1
-2 SOUR @XGGvH505QiGDGXaNUUub@
-3 _APID 1,5969::564788
 2 SOUR @8r0fX153SZWQXOlPdnxp@
 3 _APID 1,8978::4479729
 3 PAGE Class: HO107; Piece: 317; Book: 23; Civil Parish: Stockton U
 4 CONC pon Tees; County: Durham; Enumeration District: 2; Folio: 27
 4 CONC ; Page: 22; Line: 16; GSU roll: 241357
 3 OBJE @fkkFGltLRgGeUuNdFwkz@
-2 SOUR @mDWKwIsCRaCKr5iO25hg@
-3 _APID 1,2469::53821328
-3 OBJE @5LeyQN3uRPG0yM2uCFqI@
-2 SOUR @MLDnHhQZSGGw5BVQo9qM@
-3 _APID 1,9841::44353562
-2 SOUR @h7WBKNgwRSOUt2BNNsOI@
-3 _APID 1,7181::1655632240
-3 OBJE @e2itw6lqSXqxQ9OzyjyJ@
-2 SOUR @GZJmaUYeSMK4Fd2VWmk7@
-3 _APID 1,9852::34987081
-2 SOUR @74P5lXIpRomDQfd5WmFi@
-3 _APID 1,7250::1382752964
-3 OBJE @kWmywm3ESauERQbRJVR3@
-2 SOUR @tagmH3kSS5mNE6mkVQFl@
-3 _APID 1,6742::4062664
-3 PAGE Year: 1880; Census Place: Erwin, Steuben, New York; Roll: 93
-4 CONC 3; Family History Film: 1254933; Page: 219A; Enumeration Dis
-4 CONC trict: 173; Image: 0441
-3 OBJE @xNxl4cTfRbaETAVSHqgQ@
 2 SOUR @VqbyczWoTAunjNaTg1gt@
 3 _APID 1,7163::32333315
 3 PAGE Year: 1870; Census Place: Erwin, Steuben, New York; Roll: M5
 4 CONC 93_1095; Page: 158A; Image: 324; Family History Library Film
 4 CONC : 552594
 3 OBJE @s8ynwYiPQLuIV6VOEw7U@
+2 SOUR @tagmH3kSS5mNE6mkVQFl@
+3 _APID 1,6742::4062664
+3 PAGE Year: 1880; Census Place: Erwin, Steuben, New York; Roll: 93
+4 CONC 3; Family History Film: 1254933; Page: 219A; Enumeration Dis
+4 CONC trict: 173; Image: 0441
+3 OBJE @xNxl4cTfRbaETAVSHqgQ@
+2 SOUR @MLDnHhQZSGGw5BVQo9qM@
+3 _APID 1,9841::44353562
+2 SOUR @GZJmaUYeSMK4Fd2VWmk7@
+3 _APID 1,9852::34987081
+2 SOUR @0MacWIUSR0yCwHHfzvGN@
+3 QUAY 1
+2 SOUR @XGGvH505QiGDGXaNUUub@
+3 _APID 1,5969::564788
+2 SOUR @h7WBKNgwRSOUt2BNNsOI@
+3 _APID 1,7181::1655632240
+3 OBJE @e2itw6lqSXqxQ9OzyjyJ@
 2 SOUR @2bg2kSXxR9G5oJVTCXgV@
 3 _APID 1,7218::791636
 3 OBJE @2spUibxcTFmJOtiRvf5u@
+2 SOUR @74P5lXIpRomDQfd5WmFi@
+3 _APID 1,7250::1382752964
+3 OBJE @kWmywm3ESauERQbRJVR3@
+2 SOUR @mDWKwIsCRaCKr5iO25hg@
+3 _APID 1,2469::53821328
+3 OBJE @5LeyQN3uRPG0yM2uCFqI@
 1 SEX M
 1 FAMS @SBsOGRdKSbijpGIgiBgo@
 1 FAMS @9lQRIZf6SYK7Y5hx8Llz@
@@ -3108,37 +3072,37 @@
 3 MAP
 4 LATI N54.9248
 4 LONG W1.5757
-2 SOUR @XGGvH505QiGDGXaNUUub@
-3 _APID 1,5969::564788
 2 SOUR @8r0fX153SZWQXOlPdnxp@
 3 _APID 1,8978::4479729
 3 PAGE Class: HO107; Piece: 317; Book: 23; Civil Parish: Stockton U
 4 CONC pon Tees; County: Durham; Enumeration District: 2; Folio: 27
 4 CONC ; Page: 22; Line: 16; GSU roll: 241357
 3 OBJE @fkkFGltLRgGeUuNdFwkz@
-2 SOUR @7kJ3C8C4QFesOwUmgdI4@
-3 QUAY 1
-2 SOUR @h7WBKNgwRSOUt2BNNsOI@
-3 _APID 1,7181::1655632240
-3 OBJE @e2itw6lqSXqxQ9OzyjyJ@
-2 SOUR @74P5lXIpRomDQfd5WmFi@
-3 _APID 1,7250::1382752964
-3 OBJE @kWmywm3ESauERQbRJVR3@
-2 SOUR @tagmH3kSS5mNE6mkVQFl@
-3 _APID 1,6742::4062664
-3 PAGE Year: 1880; Census Place: Erwin, Steuben, New York; Roll: 93
-4 CONC 3; Family History Film: 1254933; Page: 219A; Enumeration Dis
-4 CONC trict: 173; Image: 0441
-3 OBJE @xNxl4cTfRbaETAVSHqgQ@
 2 SOUR @VqbyczWoTAunjNaTg1gt@
 3 _APID 1,7163::32333315
 3 PAGE Year: 1870; Census Place: Erwin, Steuben, New York; Roll: M5
 4 CONC 93_1095; Page: 158A; Image: 324; Family History Library Film
 4 CONC : 552594
 3 OBJE @s8ynwYiPQLuIV6VOEw7U@
+2 SOUR @tagmH3kSS5mNE6mkVQFl@
+3 _APID 1,6742::4062664
+3 PAGE Year: 1880; Census Place: Erwin, Steuben, New York; Roll: 93
+4 CONC 3; Family History Film: 1254933; Page: 219A; Enumeration Dis
+4 CONC trict: 173; Image: 0441
+3 OBJE @xNxl4cTfRbaETAVSHqgQ@
+2 SOUR @7kJ3C8C4QFesOwUmgdI4@
+3 QUAY 1
+2 SOUR @XGGvH505QiGDGXaNUUub@
+3 _APID 1,5969::564788
+2 SOUR @h7WBKNgwRSOUt2BNNsOI@
+3 _APID 1,7181::1655632240
+3 OBJE @e2itw6lqSXqxQ9OzyjyJ@
 2 SOUR @2bg2kSXxR9G5oJVTCXgV@
 3 _APID 1,7218::791636
 3 OBJE @2spUibxcTFmJOtiRvf5u@
+2 SOUR @74P5lXIpRomDQfd5WmFi@
+3 _APID 1,7250::1382752964
+3 OBJE @kWmywm3ESauERQbRJVR3@
 1 OCCU grocer
 2 DATE 1834
 2 PLAC Brunswick Street, Stockton-on-Tees, Durham, England
@@ -3191,13 +3155,13 @@
 2 DATE FROM 1851 TO 20 DEC 1889
 2 PLAC Corner of Chemung Street and Charles Street, Painted Post, S
 3 CONC teuben, New York, USA
-2 SOUR @2W7E32UHQqKiWPSvCYOW@
-3 QUAY 1
 2 SOUR @b4jYUWYOQaqnPwDilUxZ@
 3 _LINK https://familysearch.org/pal:/MM9.3.1/TH-1961-32683-74-69?cc
 4 CONC =2078654&wc=M9M4-FF3:n495289433
 3 PAGE vol. 83, p. 600
 3 OBJE @a29rouemTyuezBT9XapO@
+2 SOUR @2W7E32UHQqKiWPSvCYOW@
+3 QUAY 1
 2 OBJE @a29rouemTyuezBT9XapO@
 1 PROP bought land
 2 DATE 15 JUL 1853
@@ -3301,12 +3265,7 @@
 0 @8ZQjjsaHTTqHOdv5t3Us@ INDI
 1 _XY 183250 3850
 1 REFN bc58a003-262f-442d-94aa-06477a95242b
-1 RIN I2329
 1 NAME Robert /Taylorson/
-2 SOUR @7kJ3C8C4QFesOwUmgdI4@
-3 QUAY 1
-2 SOUR @XGGvH505QiGDGXaNUUub@
-3 _APID 1,5969::564787
 2 SOUR @8r0fX153SZWQXOlPdnxp@
 3 _APID 1,8978::4479738
 3 PAGE Class: HO107; Piece: 317; Book: 23; Civil Parish: Stockton U
@@ -3319,6 +3278,10 @@
 4 CONC 593_1095; Page: 223A; Image: 456; Family History Library Fil
 4 CONC m: 552594
 3 OBJE @gmzJ2mv3Q92sNpwZzTg1@
+2 SOUR @7kJ3C8C4QFesOwUmgdI4@
+3 QUAY 1
+2 SOUR @XGGvH505QiGDGXaNUUub@
+3 _APID 1,5969::564787
 1 SEX M
 1 FAMC @SBsOGRdKSbijpGIgiBgo@
 1 BIRT
@@ -3327,9 +3290,6 @@
 3 MAP
 4 LATI N54.5833
 4 LONG E1.4167
-2 SOUR @7kJ3C8C4QFesOwUmgdI4@
-2 SOUR @XGGvH505QiGDGXaNUUub@
-3 _APID 1,5969::564787
 2 SOUR @8r0fX153SZWQXOlPdnxp@
 3 _APID 1,8978::4479738
 3 PAGE Class: HO107; Piece: 317; Book: 23; Civil Parish: Stockton U
@@ -3344,6 +3304,9 @@
 3 OBJE @gmzJ2mv3Q92sNpwZzTg1@
 2 SOUR @PPoEna95SvGGrbNZGrWG@
 3 QUAY 3
+2 SOUR @7kJ3C8C4QFesOwUmgdI4@
+2 SOUR @XGGvH505QiGDGXaNUUub@
+3 _APID 1,5969::564787
 1 RESI
 2 DATE 1841
 2 PLAC Stockton-on-Tees, Durham, England
@@ -3385,8 +3348,25 @@
 0 @6QhngKLWSYmHZD5Bqxx0@ INDI
 1 _XY 182148 3850
 1 REFN ca6908f6-090c-4341-88f9-7fce933ad7f2
-1 RIN I183
 1 NAME Thomas /Taylorson/
+2 SOUR @JkzVLCTZRve6xkWeiQJy@
+3 _APID 1,8054::8387272
+3 PAGE Year: 1850; Census Place: Painted Post, Steuben, New York; R
+4 CONC oll: M432_598; Page: 1A; Image: 9
+3 OBJE @Sb0wdP9kRhCZ8ZFMto5r@
+2 SOUR @tagmH3kSS5mNE6mkVQFl@
+3 _APID 1,6742::1370612
+3 PAGE Year: 1880; Census Place: Horseheads, Chemung, New York; Rol
+4 CONC l: 817; Family History Film: 1254817; Page: 510D; Enumeratio
+4 CONC n District: 083; Image: 0600
+3 OBJE @x9Ek0jDvRxGDBg7agg40@
+2 SOUR @N62jTQiMTmmRVQc5KCCK@
+3 PAGE Ancestry Family Tree
+3 DATA
+4 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=62861
+5 CONC &pid=529
+2 SOUR @XGGvH505QiGDGXaNUUub@
+3 _APID 1,5969::564789
 2 SOUR @vSTctLqpQBOn58w94Odp@
 3 _APID 1,7488::1023563168
 3 PAGE Year: 1849; Arrival:  , ; Microfilm serial: M237; Microfil
@@ -3401,43 +3381,25 @@
 5 CONT Departure Place:
 5 CONT Newcastle On Tyne, England
 3 OBJE @aS6JRZtMREG9oKSAp4Jl@
-2 SOUR @JuHilP68RmSAugv75uhL@
-3 _APID 1,1264::3283025
-3 OBJE @CsKj7hxCT7KfNOwW7nJ0@
-2 SOUR @k7ap0rujQFex5IgQ5CXx@
-3 _APID 1,1540::695726
-3 OBJE @7NmGDrRTQsmoRy5W87LG@
-2 SOUR @XGGvH505QiGDGXaNUUub@
-3 _APID 1,5969::564789
-2 SOUR @N62jTQiMTmmRVQc5KCCK@
-3 PAGE Ancestry Family Tree
-3 DATA
-4 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=62861
-5 CONC &pid=529
 2 SOUR @h7WBKNgwRSOUt2BNNsOI@
 3 _APID 1,7181::1655634889
 3 OBJE @YYd8YtQCTaO3vcc9rJqb@
-2 SOUR @JkzVLCTZRve6xkWeiQJy@
-3 _APID 1,8054::8387272
-3 PAGE Year: 1850; Census Place: Painted Post, Steuben, New York; R
-4 CONC oll: M432_598; Page: 1A; Image: 9
-3 OBJE @Sb0wdP9kRhCZ8ZFMto5r@
 2 SOUR @2bg2kSXxR9G5oJVTCXgV@
 3 _APID 1,7218::728635
 3 OBJE @zDWuPkvNQy6AqcVvTWKS@
-2 SOUR @tagmH3kSS5mNE6mkVQFl@
-3 _APID 1,6742::1370612
-3 PAGE Year: 1880; Census Place: Horseheads, Chemung, New York; Rol
-4 CONC l: 817; Family History Film: 1254817; Page: 510D; Enumeratio
-4 CONC n District: 083; Image: 0600
-3 OBJE @x9Ek0jDvRxGDBg7agg40@
 2 SOUR @74P5lXIpRomDQfd5WmFi@
 3 _APID 1,7250::1382745705
 3 OBJE @XA9Vo3BZQR2gnVPVkgzL@
+2 SOUR @k7ap0rujQFex5IgQ5CXx@
+3 _APID 1,1540::695726
+3 OBJE @7NmGDrRTQsmoRy5W87LG@
+2 SOUR @JuHilP68RmSAugv75uhL@
+3 _APID 1,1264::3283025
+3 OBJE @CsKj7hxCT7KfNOwW7nJ0@
 1 SEX M
 1 FAMC @nnem1nCLTQuG59X3AQKM@
-1 FAMS @VVoxPoqYQb2s80iiPRRo@
 1 FAMS @dAW8wNGnQgOhALuwIepD@
+1 FAMS @VVoxPoqYQb2s80iiPRRo@
 1 OBJE @GdEop12iQKCgubsvVmdV@
 1 OBJE @UApIl18aQxyH5g5K2jkU@
 1 BIRT
@@ -3446,6 +3408,20 @@
 3 MAP
 4 LATI N54.9248
 4 LONG W1.5757
+2 SOUR @JkzVLCTZRve6xkWeiQJy@
+3 _APID 1,8054::8387272
+3 PAGE Year: 1850; Census Place: Painted Post, Steuben, New York; R
+4 CONC oll: M432_598; Page: 1A; Image: 9
+3 OBJE @Sb0wdP9kRhCZ8ZFMto5r@
+2 SOUR @tagmH3kSS5mNE6mkVQFl@
+3 _APID 1,6742::1370612
+3 PAGE Year: 1880; Census Place: Horseheads, Chemung, New York; Rol
+4 CONC l: 817; Family History Film: 1254817; Page: 510D; Enumeratio
+4 CONC n District: 083; Image: 0600
+3 OBJE @x9Ek0jDvRxGDBg7agg40@
+2 SOUR @RdkuIHc9QdiI8rbGMkHb@
+2 SOUR @XGGvH505QiGDGXaNUUub@
+3 _APID 1,5969::564789
 2 SOUR @vSTctLqpQBOn58w94Odp@
 3 _APID 1,7488::1023563168
 3 PAGE Year: 1849; Arrival:  , ; Microfilm serial: M237; Microfil
@@ -3460,27 +3436,12 @@
 5 CONT Departure Place:
 5 CONT Newcastle On Tyne, England
 3 OBJE @aS6JRZtMREG9oKSAp4Jl@
-2 SOUR @XGGvH505QiGDGXaNUUub@
-3 _APID 1,5969::564789
-2 SOUR @RdkuIHc9QdiI8rbGMkHb@
-3 QUAY 0
 2 SOUR @h7WBKNgwRSOUt2BNNsOI@
 3 _APID 1,7181::1655634889
 3 OBJE @YYd8YtQCTaO3vcc9rJqb@
-2 SOUR @JkzVLCTZRve6xkWeiQJy@
-3 _APID 1,8054::8387272
-3 PAGE Year: 1850; Census Place: Painted Post, Steuben, New York; R
-4 CONC oll: M432_598; Page: 1A; Image: 9
-3 OBJE @Sb0wdP9kRhCZ8ZFMto5r@
 2 SOUR @2bg2kSXxR9G5oJVTCXgV@
 3 _APID 1,7218::728635
 3 OBJE @zDWuPkvNQy6AqcVvTWKS@
-2 SOUR @tagmH3kSS5mNE6mkVQFl@
-3 _APID 1,6742::1370612
-3 PAGE Year: 1880; Census Place: Horseheads, Chemung, New York; Rol
-4 CONC l: 817; Family History Film: 1254817; Page: 510D; Enumeratio
-4 CONC n District: 083; Image: 0600
-3 OBJE @x9Ek0jDvRxGDBg7agg40@
 2 SOUR @74P5lXIpRomDQfd5WmFi@
 3 _APID 1,7250::1382745705
 3 OBJE @XA9Vo3BZQR2gnVPVkgzL@
@@ -3696,7 +3657,6 @@
 4 LATI N42.7531
 4 LONG W74.2224
 2 SOUR @RdkuIHc9QdiI8rbGMkHb@
-3 QUAY 0
 1 BURI
 2 DATE ABT 19 JUN 1886
 2 PLAC Hope Cemetery, Corning, Steuben, New York, USA
@@ -3711,10 +3671,18 @@
 0 @ak7Nx2hgROSzahNLtXBH@ INDI
 1 _XY 182478 4011
 1 REFN 5a5b50f5-3e75-4495-b198-fb402df68ca9
-1 RIN I593
 1 NAME William /Taylorson/
-2 SOUR @GGFJAebSQ06ZNolWRXDN@
-3 QUAY 1
+2 SOUR @JkzVLCTZRve6xkWeiQJy@
+3 _APID 1,8054::8446449
+3 PAGE Year: 1850; Census Place: Painted Post, Steuben, New York; R
+4 CONC oll: M432_598; Page: 1A; Image: 9
+3 OBJE @Sb0wdP9kRhCZ8ZFMto5r@
+2 SOUR @jmFGuFh1RiicUCdCiNYx@
+3 _APID 1,7667::48687000
+3 PAGE Year: 1860; Census Place: Corning, Steuben, New York; Roll
+4 CONC : M653_863; Page: 217; Image: 222; Family History Library Fi
+4 CONC lm: 803863
+3 OBJE @8Lh2FaDrRvS7dppiyXOL@
 2 SOUR @N62jTQiMTmmRVQc5KCCK@
 3 PAGE Ancestry Family Tree
 3 DATA
@@ -3723,17 +3691,8 @@
 2 SOUR @h7WBKNgwRSOUt2BNNsOI@
 3 _APID 1,7181::1655634892
 3 OBJE @YYd8YtQCTaO3vcc9rJqb@
-2 SOUR @JkzVLCTZRve6xkWeiQJy@
-3 _APID 1,8054::8446449
-3 PAGE Year: 1850; Census Place: Painted Post, Steuben, New York; R
-4 CONC oll: M432_598; Page: 1A; Image: 9
-3 OBJE @Sb0wdP9kRhCZ8ZFMto5r@
-2 SOUR @jmFGuFh1RiicUCdCiNYx@
-3 _APID 1,7667::48687000
-3 PAGE Year: 1860; Census Place: Corning, Steuben, New York; Roll
-4 CONC : M653_863; Page: 217; Image: 222; Family History Library Fi
-4 CONC lm: 803863
-3 OBJE @8Lh2FaDrRvS7dppiyXOL@
+2 SOUR @GGFJAebSQ06ZNolWRXDN@
+3 QUAY 1
 1 SEX M
 1 FAMC @VVoxPoqYQb2s80iiPRRo@
 1 BIRT
@@ -3742,11 +3701,6 @@
 3 MAP
 4 LATI N42.162
 4 LONG W77.0941
-2 SOUR @GGFJAebSQ06ZNolWRXDN@
-3 QUAY 0
-2 SOUR @h7WBKNgwRSOUt2BNNsOI@
-3 _APID 1,7181::1655634892
-3 OBJE @YYd8YtQCTaO3vcc9rJqb@
 2 SOUR @JkzVLCTZRve6xkWeiQJy@
 3 _APID 1,8054::8446449
 3 PAGE Year: 1850; Census Place: Painted Post, Steuben, New York; R
@@ -3758,6 +3712,10 @@
 4 CONC : M653_863; Page: 217; Image: 222; Family History Library Fi
 4 CONC lm: 803863
 3 OBJE @8Lh2FaDrRvS7dppiyXOL@
+2 SOUR @h7WBKNgwRSOUt2BNNsOI@
+3 _APID 1,7181::1655634892
+3 OBJE @YYd8YtQCTaO3vcc9rJqb@
+2 SOUR @GGFJAebSQ06ZNolWRXDN@
 2 NOTE Steuben Co. is from 1860 census; Painted Post is assumed fro
 3 CONC m place of residence in 1850 census (when he was two month
 3 CONC s old).
@@ -3804,12 +3762,10 @@
 3 CONC he 1860 census, but not in the 1870 census.
 0 @fI43Fj8ISFedoJZOHhUW@ FAM
 1 REFN 5c505ddf-fb8a-488c-a1bd-34b464953e7b
-1 RIN F_P2550_P1283
 1 HUSB @fKPuctm5RyC81oct8sFI@
 1 WIFE @SYu4FgiIQpijrK9kHfmA@
 0 @7Oru3OoaSFiSLD0h0ctk@ FAM
 1 REFN 5cc2fceb-b6c8-4ed0-beda-9686e15e9568
-1 RIN F_P1280_I594
 1 HUSB @H67Ja6P6T1a1Zne59bfx@
 1 WIFE @lOqV0HFoS0eFxVLV9X46@
 1 MARR
@@ -3822,30 +3778,38 @@
 3 OBJE @lC8XOZvVRhKv5mXdghJR@
 0 @qtAzdYXQTPuUIVc7IQWS@ FAM
 1 REFN 711d2971-b372-4366-b86c-de91eb593d30
-1 RIN F_P1281_I595
 1 HUSB @EB6NjE3oQVGO87LT1YtO@
 1 WIFE @dFnJrONrTXmSUU1bpTty@
 1 CHIL @J2G7NMjCRACgR1HOLINv@
+2 _FREL Natural
+2 _MREL Natural
 1 CHIL @SYu4FgiIQpijrK9kHfmA@
+2 _FREL Natural
+2 _MREL Natural
 0 @WjmbSMpISim4MuXH6gKY@ FAM
 1 REFN 071c0949-a813-4f8d-83ba-b8ad3b0c7b2b
-1 RIN F_P2512_P2513
 1 HUSB @ukQpywN8TxGzUzVMBsqS@
 1 WIFE @9WAccuOOSxeL794NGODe@
 1 CHIL @W4pdcIGCSZmd8JedOduR@
+2 _FREL Natural
+2 _MREL Natural
 1 CHIL @EB6NjE3oQVGO87LT1YtO@
+2 _FREL Natural
+2 _MREL Natural
 0 @Frfm36v7QBCGN8pZPXpa@ FAM
 1 REFN 1334ca67-a8ba-4615-b289-ccdcb96f2c60
-1 RIN F_P2541_I720
 1 HUSB @LmanY00ISmSHfOkpVndB@
 1 WIFE @Lmx965BAQlylTqGWwUO8@
 0 @L61a6IAeSyK5VaVeWT9V@ FAM
 1 REFN 9d39796b-c817-4c86-8e5d-09cdcca6c11a
-1 RIN F_I181_I182
 1 HUSB @RLBiZk8zQ7GzqZdaLguh@
 1 WIFE @TV5ID2LuRiW5x8cwWgSf@
 1 CHIL @jnoSTucrQgqucWKYBL8O@
+2 _FREL Natural
+2 _MREL Natural
 1 CHIL @x3gMSG40RiC2bkzW21WP@
+2 _FREL Natural
+2 _MREL Natural
 1 MARR
 2 DATE 16 OCT 1872
 2 PLAC Thomas Taylorson house, Corning, Steuben, New York, USA
@@ -3854,7 +3818,6 @@
 3 QUAY 1
 0 @DCtlZtRIRVm4T1ZfUDC3@ FAM
 1 REFN 73a80109-9548-495b-8bc6-ed7c7e8626da
-1 RIN F_I2342_I2341
 1 HUSB @wOdCOhFCRTaQXwucacDH@
 1 WIFE @W4pdcIGCSZmd8JedOduR@
 1 MARR
@@ -3867,7 +3830,6 @@
 3 QUAY 1
 0 @x0FfmvNVTaardWNmUxSB@ FAM
 1 REFN 1869b511-8ad7-4d55-8b37-e48125efca75
-1 RIN F_I592_P1279
 1 HUSB @te7t7Lo2QraoEgWshr1c@
 1 WIFE @xVTACTXwRVeBYyOibXVl@
 1 MARR
@@ -3882,22 +3844,37 @@
 2 DATE ABT 1875
 0 @nnem1nCLTQuG59X3AQKM@ FAM
 1 REFN 238f96b2-1e81-4525-a688-f9359df43b16
-1 RIN F_I2330_I183
 1 HUSB @PRBlkLKCSUKFRPTlxW7h@
 1 CHIL @6QhngKLWSYmHZD5Bqxx0@
+2 _FREL Natural
 0 @SBsOGRdKSbijpGIgiBgo@ FAM
 1 REFN 34813d4a-b085-426e-9b51-e1818cbfaf9c
-1 RIN F_I2180_I2322
 1 HUSB @BQ6oOeJnQFGzhVudXWcy@
 1 WIFE @eqjrwzpxTiyQLvNx06kf@
 1 CHIL @YhiPH712RKmaIbDrXHIj@
+2 _FREL Natural
+2 _MREL Natural
 1 CHIL @BbbwuN7NS0KOfVbBorj2@
+2 _FREL Natural
+2 _MREL Natural
 1 CHIL @EdyRn2BhRdOyia90zmi2@
+2 _FREL Natural
+2 _MREL Natural
 1 CHIL @JGTsqYB9SdiI2txJXQIS@
+2 _FREL Natural
+2 _MREL Natural
 1 CHIL @ckfxNTKHTiGp0GxlaIQm@
+2 _FREL Natural
+2 _MREL Natural
 1 CHIL @t69e9zVpQzqtTG4aD2Rl@
+2 _FREL Natural
+2 _MREL Natural
 1 CHIL @sYcIbAElSS6iNamoD9pr@
+2 _FREL Natural
+2 _MREL Natural
 1 CHIL @8ZQjjsaHTTqHOdv5t3Us@
+2 _FREL Natural
+2 _MREL Natural
 1 MARR
 2 DATE 11 OCT 1823
 2 PLAC Stockton Parish, Durham, England
@@ -3905,11 +3882,14 @@
 3 _APID 1,9852::34987081
 0 @9lQRIZf6SYK7Y5hx8Llz@ FAM
 1 REFN ab77c28b-2bc9-4708-bd2a-3c60d588bed6
-1 RIN F_I2180_I2331
 1 HUSB @BQ6oOeJnQFGzhVudXWcy@
 1 WIFE @oWkOgOV1Tp6JTZoU93DW@
 1 CHIL @LDWl6FlpTzuo2KFKCln3@
+2 _FREL Natural
+2 _MREL Natural
 1 CHIL @eSATTRXURDaNBnm977gU@
+2 _FREL Natural
+2 _MREL Natural
 1 MARR
 2 DATE 1850
 2 PLAC Steuben, New York, USA
@@ -3920,7 +3900,6 @@
 3 QUAY 1
 0 @dAW8wNGnQgOhALuwIepD@ FAM
 1 REFN f94ce1ba-5901-4e3d-afed-b9070d7aa674
-1 RIN F_I183_I2341
 1 HUSB @6QhngKLWSYmHZD5Bqxx0@
 1 WIFE @W4pdcIGCSZmd8JedOduR@
 1 MARR
@@ -3934,79 +3913,77 @@
 2 NOTE by Reverend Mr. Bowman
 0 @VVoxPoqYQb2s80iiPRRo@ FAM
 1 REFN 6143300b-0898-40ba-b12d-e6ef3605b018
-1 RIN F_I183_I184
 1 HUSB @6QhngKLWSYmHZD5Bqxx0@
 1 WIFE @YhiPH712RKmaIbDrXHIj@
 1 CHIL @te7t7Lo2QraoEgWshr1c@
+2 _FREL Natural
+2 _MREL Natural
 1 CHIL @ak7Nx2hgROSzahNLtXBH@
+2 _FREL Natural
+2 _MREL Natural
 1 CHIL @TV5ID2LuRiW5x8cwWgSf@
+2 _FREL Natural
+2 _MREL Natural
 1 CHIL @lOqV0HFoS0eFxVLV9X46@
+2 _FREL Natural
+2 _MREL Natural
 1 CHIL @Lmx965BAQlylTqGWwUO8@
+2 _FREL Natural
+2 _MREL Natural
 1 CHIL @dFnJrONrTXmSUU1bpTty@
+2 _FREL Natural
+2 _MREL Natural
 1 MARR
 2 DATE 14 AUG 1847
 2 PLAC Stockton-on-Tees, Durham, England
 3 MAP
 4 LATI N54.5833
 4 LONG E1.4167
-2 SOUR @Ok2EiItMTYaIoVo6zEWZ@
-3 QUAY 3
 2 SOUR @STI3sk0lQsyDfygLDOjf@
 3 _APID 1,8913::28151377
 3 OBJE @oi1Or17IT4m6nzElyser@
+2 SOUR @Ok2EiItMTYaIoVo6zEWZ@
+3 QUAY 3
 0 @hTXt7qBMQKeFqTG4cc4G@ REPO
 1 NAME Ancestry.com
 1 ADDR http://www.Ancestry.com
 1 EMAIL
 1 PHON
-1 RIN R-899050557
-1 REFN 28372fb9-e374-42b1-b2e2-2aa9c5714f26
 0 @cJV7UxM4QEWWRiWbYius@ REPO
 1 NAME Ancestry.com, II, OLD
 1 ADDR
 1 EMAIL
 1 PHON
-1 RIN dIuP1jfcRrCeiZcZz5qZ
-1 REFN 41e4d161-3d32-456e-b2e3-2ef5fd499678
 0 @8r0fX153SZWQXOlPdnxp@ SOUR
 1 REFN d7481680-ac92-49d4-9cbe-81c4287c5b3c
-1 RIN S-340303979
 1 REPO @hTXt7qBMQKeFqTG4cc4G@
 1 TITL 1841 England Census
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc; Location: Provo, UT, USA; Date
 2 CONC : 2010
 0 @JkzVLCTZRve6xkWeiQJy@ SOUR
-1 _APID 1,8054::0
 1 REFN e4378df5-60e2-454e-b8c0-b8bc8c34f553
-1 RIN S-340037843
 1 REPO @hTXt7qBMQKeFqTG4cc4G@
 1 TITL 1850 United States Federal Census
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2009
 0 @jmFGuFh1RiicUCdCiNYx@ SOUR
-1 _APID 1,7667::0
 1 REFN 2e9de23c-5897-4bf2-a4a2-fa0f374ea103
-1 RIN S-340166919
 1 REPO @hTXt7qBMQKeFqTG4cc4G@
 1 TITL 1860 United States Federal Census
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2009
 0 @VqbyczWoTAunjNaTg1gt@ SOUR
-1 _APID 1,7163::0
 1 REFN 5eab0f70-911c-4599-9786-0b345c22e185
-1 RIN S-338823707
 1 REPO @hTXt7qBMQKeFqTG4cc4G@
 1 TITL 1870 United States Federal Census
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2009
 0 @tagmH3kSS5mNE6mkVQFl@ SOUR
-1 _APID 1,6742::0
 1 REFN 5d5d0eb7-77dc-4076-845c-e52dbfd680ea
-1 RIN S-340166898
 1 REPO @hTXt7qBMQKeFqTG4cc4G@
 1 TITL 1880 United States Federal Census
 1 AUTH Ancestry.com and The Church of Jesus Christ of Latter-day Sa
@@ -4014,18 +3991,14 @@
 1 PUBL Ancestry.com Operations Inc; Location: Provo, UT, USA; Date
 2 CONC : 2010
 0 @NDN2XTgxTLmnX7Bgq4LP@ SOUR
-1 _APID 1,7602::0
 1 REFN 46b3831d-b1f3-4dde-a073-4d6310c5c0c8
-1 RIN S-340038419
 1 REPO @hTXt7qBMQKeFqTG4cc4G@
 1 TITL 1900 United States Federal Census
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations Inc; Location: Provo, UT, USA; Date
 2 CONC : 2004
 0 @c4Kpe8hwRqSW5hMTvu1S@ SOUR
-1 _APID 1,7884::0
 1 REFN 3e80ac6a-6d60-4d8a-9f49-fb6b70b7ee0f
-1 RIN S-340037973
 1 REPO @hTXt7qBMQKeFqTG4cc4G@
 1 TITL 1910 United States Federal Census
 1 AUTH Ancestry.com
@@ -4033,7 +4006,6 @@
 2 CONC : 2006
 0 @gEzHretGQ9iAdPxO8HPJ@ SOUR
 1 REFN b6ed10f2-f18d-4fe3-bd7f-b383c7044f24
-1 RIN S-340304044
 1 REPO @cJV7UxM4QEWWRiWbYius@
 1 TITL 1920 United States Federal Census
 1 AUTH Ancestry.com
@@ -4048,18 +4020,14 @@
 2 CONC rget="_blank">NARA</a>. Note: Enumeration Districts 819-83
 2 CONC 9 are on roll 323 (Chicago City).
 0 @g5UbHIcvQmKXO31cZi9v@ SOUR
-1 _APID 1,6061::0
 1 REFN 4e44e437-12a8-4f5a-abf2-c1994f828bf9
-1 RIN S-340120723
 1 REPO @hTXt7qBMQKeFqTG4cc4G@
 1 TITL 1920 United States Federal Census, OLD
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations Inc; Location: Provo, UT, USA; Date
 2 CONC : 2010
 0 @z1TPRpwkRpi0Hb52420e@ SOUR
-1 _APID 1,6224::0
 1 REFN 604a2995-325a-49e2-8a04-ecf91a67741e
-1 RIN S-340304045
 1 REPO @hTXt7qBMQKeFqTG4cc4G@
 1 TITL 1930 United States Federal Census
 1 AUTH Ancestry.com
@@ -4067,7 +4035,6 @@
 2 CONC : 2002
 0 @krZH9vsSTamYxiNlOr6t@ SOUR
 1 REFN 61d7e281-450b-4ef8-bf38-6e12fda8cc84
-1 RIN S-340304056
 1 REPO @cJV7UxM4QEWWRiWbYius@
 1 TITL 1940 United States Federal Census
 1 AUTH Ancestry.com
@@ -4079,7 +4046,6 @@
 2 CONC 43 rolls.
 0 @QjqphwFCTh22O6HarJAj@ SOUR
 1 REFN 9f691956-c254-4282-99f2-63097e7c4103
-1 RIN S101
 1 TITL [Unknown newspaper, clipping, Harrison/Taylorson, Hannah, ob
 2 CONC ituary]
 1 PUBL In possession of Chris Mosher, 1897
@@ -4088,7 +4054,6 @@
 2 CONC ged 45 years.<br />
 0 @lCxbRWUpRmWLryAWJU56@ SOUR
 1 REFN 9b698d46-48d4-463d-9e9c-bd671e149e35
-1 RIN S204
 1 TITL Abstract of Wills and Administrations
 1 PUBL Steuben Co. Clerks Office, Bath, NY
 1 TEXT case #5110<br />
@@ -4107,7 +4072,6 @@
 2 CONT s: George O.
 0 @N62jTQiMTmmRVQc5KCCK@ SOUR
 1 REFN 8c7a45a4-7e91-4b5a-b0a7-2a6e05354cd0
-1 RIN S-340304055
 1 REPO @hTXt7qBMQKeFqTG4cc4G@
 1 TITL Ancestry Family Trees
 1 PUBL Online publication - Provo, UT, USA: Ancestry.com.  Origina
@@ -4120,21 +4084,18 @@
 2 CONC nformation since this source citation was created.
 0 @PObiOXVGRgCKWE0ue3OS@ SOUR
 1 REFN 9c7744ac-0a1d-4672-87fa-98d713518673
-1 RIN S-340121694
 1 REPO @hTXt7qBMQKeFqTG4cc4G@
 1 TITL Ancestry Family Trees, OLD
 1 PUBL Online publication - Provo, UT, USA: Ancestry.com.  Origina
 2 CONC l data:  Family Tree files submitted by Ancestry members.
 0 @73BbZwueSqGkdeK8ueNP@ SOUR
 1 REFN 26cb8f82-ad49-4c2a-bfae-8c17e3693e32
-1 RIN S109
 1 TITL Applicant's Working Sheet, National Society, Daughters of th
 2 CONC e American Revolution
 1 AUTH Harrison, Alice
 1 PUBL In possession of Chris Mosher
 0 @uPgDQtkWRY6IqBhtzHie@ SOUR
 1 REFN 3d1bbfff-8610-455a-8a20-d46eb6d1ec12
-1 RIN S630
 1 TITL Birth certificate, Taylerson, Mary Jane
 1 AUTH General Register Office, England
 1 PUBL 1837 Q4, Stockton on Tees district, vol. 24, p. 148
@@ -4188,7 +4149,6 @@
 2 CONT </table>
 0 @PPoEna95SvGGrbNZGrWG@ SOUR
 1 REFN ea14a294-ca40-4417-901c-4d940bfbbab6
-1 RIN S628
 1 TITL Birth certificate, Taylerson, Robert
 1 AUTH General Register Office, England
 1 PUBL 1839 Q2, Stockton and Sedgefield district, vol. 24, p. 207
@@ -4242,7 +4202,6 @@
 2 CONT </table>
 0 @amQ48G9oSLGJYInGx0OC@ SOUR
 1 REFN 961532aa-efda-4c4c-beb4-93982ac95b63
-1 RIN S629
 1 TITL Birth certificate, Taylorson, George Ord
 1 AUTH General Register Office, England
 1 PUBL 1848 Q1, Stockton and Sedgefield district, vol. 24, p. 212
@@ -4297,7 +4256,6 @@
 2 CONT </table>
 0 @RdkuIHc9QdiI8rbGMkHb@ SOUR
 1 REFN 5d1b3cac-788c-49a9-9619-d7b3f52b0521
-1 RIN S206
 1 TITL Cemetery Transcripts
 1 PUBL Steuben Co. Clerks Office, Bath, NY
 1 TEXT p. 25<br />
@@ -4309,12 +4267,10 @@
 2 CONT Ann his wife Aug 11, 1824 - Jan 28, 1873 48 yr 5 mo<br />
 0 @SqxGBxUyRXGgmKWjAJSi@ SOUR
 1 REFN 08855628-7ae4-4830-8fbd-f57750204aed
-1 RIN S212
 1 TITL Census Index
 1 PUBL Steuben Co. Clerks Office, Bath, NY
 0 @tftkH4FoRDy9YV8UqUaZ@ SOUR
 1 REFN 0a77a732-e6ec-4a4f-8fbe-5f32749d4c47
-1 RIN S631
 1 TITL Death certificate, Taylerson, Esther
 1 AUTH General Register Office, England
 1 PUBL 1845 Q2, Stockton and Sedgefield district, vol. 24, p. 155
@@ -4366,12 +4322,10 @@
 2 CONT </table>
 0 @mv0gWXR8Qcy35UfhfGKO@ SOUR
 1 REFN 8f6cd074-2b9b-44f4-a337-dbfec99e2b74
-1 RIN S207
 1 TITL Deeds
 1 PUBL Steuben Co. Clerks Office, Bath, NY
 0 @XQ7MA9lOQxC0JsT3vGLs@ SOUR
 1 REFN 63f25cdf-f164-414f-a3da-60db9b6317f7
-1 RIN S684
 1 TITL Dodd, Mrs. Leonard, obituary
 1 AUTH Corning, New York, Evening Leader [newspaper]
 1 PUBL Corning, NY: 1942-11-13, vol. 80, no. 266, p. 14, col. 2
@@ -4404,13 +4358,11 @@
 2 CONT </p>
 0 @5qMhuSQnSDaq5a3QWOkH@ SOUR
 1 REFN 52f563c7-202e-4345-887e-b9467721050a
-1 RIN S694
 1 TITL Edminster Winn Clark Family Tree
 1 AUTH [Winn, Nancy] NancyWinn51 ancestry.com user
 1 PUBL ancestry.com
 0 @g1kvijD7QFuspa8K7nFd@ SOUR
 1 REFN fa5074df-3dcc-4728-923f-a7539f56bdda
-1 RIN cMIuSPXAQBGU7j9MVfaQ
 1 REPO @cJV7UxM4QEWWRiWbYius@
 1 TITL England & Wales, Civil Registration Birth Index, 1837-1915
 1 AUTH FreeBMD
@@ -4424,27 +4376,21 @@
 2 CONC or permission of ONS. Database Copyright © 1998-2003 Graha
 2 CONC m Hart, Ben Laurie, Camilla von Massenbach and David Mayall.
 0 @XIqTsRCAQmO5BvSmizub@ SOUR
-1 _APID 1,8912::0
 1 REFN 5548731d-6276-4fda-a827-e828bff06666
-1 RIN S251805419
 1 REPO @hTXt7qBMQKeFqTG4cc4G@
 1 TITL England & Wales, FreeBMD Birth Index, 1837-1915
 1 AUTH FreeBMD
 1 PUBL Ancestry.com Operations Inc; Location: Provo, UT, USA; Date
 2 CONC : 2006
 0 @OeOCLbwlTzu3dQqftwwk@ SOUR
-1 _APID 1,8914::0
 1 REFN 1621b523-222c-4e13-83e0-e8b01a366ce9
-1 RIN S-300872792
 1 REPO @hTXt7qBMQKeFqTG4cc4G@
 1 TITL England & Wales, FreeBMD Death Index, 1837-1915
 1 AUTH FreeBMD
 1 PUBL Ancestry.com Operations Inc; Location: Provo, UT, USA; Date
 2 CONC : 2006
 0 @STI3sk0lQsyDfygLDOjf@ SOUR
-1 _APID 1,8913::0
 1 REFN 3556fe10-312b-4fb6-a62e-5ec65696b0b5
-1 RIN S-300257066
 1 REPO @hTXt7qBMQKeFqTG4cc4G@
 1 TITL England & Wales, FreeBMD Marriage Index, 1837-1915
 1 AUTH FreeBMD
@@ -4452,7 +4398,6 @@
 2 CONC : 2006
 0 @4pjQnw1jRuKfW2ZrDbdV@ SOUR
 1 REFN f706bacf-57ca-4003-8776-7a03172daad3
-1 RIN S626
 1 TITL England Census, 1841, Durham, Stockton upon Tees, ED 1, imag
 2 CONC e 3 of 8
 1 AUTH UK National Archives
@@ -4527,7 +4472,6 @@
 2 CONT </table>
 0 @7kJ3C8C4QFesOwUmgdI4@ SOUR
 1 REFN 335041db-4042-4c73-924d-c2d0c94d924a
-1 RIN S623
 1 TITL England Census, 1841, Durham, Stockton upon Tees, ED 2, imag
 2 CONC e 11 of 28
 1 AUTH UK National Archives
@@ -4593,27 +4537,21 @@
 2 CONT </tbody>
 2 CONT </table>
 0 @MLDnHhQZSGGw5BVQo9qM@ SOUR
-1 _APID 1,9841::0
 1 REFN 0c0d7b95-dd39-4014-8c02-16ae6e9db7b8
-1 RIN S-300257057
 1 REPO @hTXt7qBMQKeFqTG4cc4G@
 1 TITL England, Select Births and Christenings, 1538-1975
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2014
 0 @GZJmaUYeSMK4Fd2VWmk7@ SOUR
-1 _APID 1,9852::0
 1 REFN c9b320bd-c2b6-4720-a1e3-4d2c72c88366
-1 RIN S-291934883
 1 REPO @hTXt7qBMQKeFqTG4cc4G@
 1 TITL England, Select Marriages, 1538–1973
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2014
 0 @lfO2pboiTVupZdmq8c8n@ SOUR
-1 _APID 1,8842::0
 1 REFN 0aa5ab46-0bb6-4681-a5ee-89bbddacc423
-1 RIN S-301668852
 1 REPO @hTXt7qBMQKeFqTG4cc4G@
 1 TITL Florida Passenger Lists, 1898-1964
 1 AUTH Ancestry.com
@@ -4621,7 +4559,6 @@
 2 CONC : 2006
 0 @P03XE2GqQSunPkn5yDpr@ SOUR
 1 REFN 11b7f9fa-d902-45b1-9207-30db0fa07b26
-1 RIN S686
 1 TITL Githler, Mrs. John , obituary
 1 AUTH Corning, New York, Evening Leader [newspaper]
 1 PUBL Corning, NY: 1942-05-25, vol. 80, no. 122, p. 10, col. 4
@@ -4660,14 +4597,12 @@
 2 CONT </p>
 0 @3811HBnDStKtooOM2mFC@ SOUR
 1 REFN b93be728-09cd-47fd-8d86-623f83692bca
-1 RIN S209
 1 TITL Gravestone, Harrison, Henry F. and Taylorson, Hannah
 1 PUBL Central Valley Cemetery, Hornby, NY
 1 TEXT HARRISON HENRY F. 1840-1912<br />
 2 CONT HANNAH T. 1852-1897
 0 @uw0H4pf3RKmP8ZVVO51L@ SOUR
 1 REFN 80f9ef21-507e-4342-bc55-5f600cb7123b
-1 RIN S683
 1 TITL Harrison, Henry, and Hannah, marriage announcement
 1 AUTH Corning, New York, Journal [newspaper]
 1 PUBL Corning, NY: 1872-10-24, vol. 26, no. 43, p. 3, col. 5
@@ -4681,7 +4616,6 @@
 2 CONT </p>
 0 @MmtApHSUSCWLMSwFiufL@ SOUR
 1 REFN 67a036d9-db4f-4b84-9003-c578ae4669dc
-1 RIN S656
 1 TITL Henry Francis Harrison, Hannah S. Taylorson, and George Elme
 2 CONC r Harrison
 1 AUTH [unknown]
@@ -4696,7 +4630,6 @@
 2 CONC : Leo Harrison
 0 @yfJejJTbTyae3CxS1bJt@ SOUR
 1 REFN 7795a74a-3ad5-4c09-b42a-5525bcee6a5e
-1 RIN S622
 1 TITL Hope Cemetery Interment List
 1 PUBL http://www.paintedhills.org/STEUBEN/HopeCem/CorningHopeTitle
 2 CONC .html
@@ -4811,7 +4744,6 @@
 2 CONT </p>
 0 @0MacWIUSR0yCwHHfzvGN@ SOUR
 1 REFN 17a9772e-795d-4569-8356-108c3e28e853
-1 RIN S558
 1 TITL Irish to America, 1846-1865 Passenger and Immigration Lists
 1 PUBL Genealogy.com
 1 TEXT <table border="1">
@@ -4978,7 +4910,6 @@
 2 CONT </table>
 0 @uCbrD4YUQIiXVgJwjDWE@ SOUR
 1 REFN e77248b1-1239-4689-bb09-c89c11b501c4
-1 RIN S693
 1 TITL Lombard, Edminster, marriage
 1 AUTH Corning [New York] Journal [newspaper]
 1 PUBL Corning, NY: 1854-03-05, p. 2
@@ -4991,7 +4922,6 @@
 2 CONT </p>
 0 @Ok2EiItMTYaIoVo6zEWZ@ SOUR
 1 REFN f60f91f5-ccb2-47fb-9680-a7b8ad2f0b13
-1 RIN S625
 1 TITL Marriage certificate, Taylerson, Thomas, and Taylerson, Ann
 1 AUTH General Register Office, England
 1 PUBL 1847 Q3, Stockton district, vol. 24, p. 241
@@ -5057,7 +4987,6 @@
 2 CONT </table>
 0 @XGGvH505QiGDGXaNUUub@ SOUR
 1 REFN ed054794-d76c-48ee-a50f-b1ccf715b4bb
-1 RIN nRNMZacHTCKNmTBeSG7l
 1 REPO @cJV7UxM4QEWWRiWbYius@
 1 TITL New York, Irish Immigrant Arrival Records, 1846-1851
 1 AUTH Ancestry.com
@@ -5066,72 +4995,56 @@
 1 TEXT <i>Famine Irish Entry Project, 1846-1851</i>. Washington, D.
 2 CONC C.: National Archives and Records Administration.
 0 @vSTctLqpQBOn58w94Odp@ SOUR
-1 _APID 1,7488::0
 1 REFN 483ac81a-1fc2-483b-9a40-4973d858493d
-1 RIN S-340119858
 1 REPO @hTXt7qBMQKeFqTG4cc4G@
 1 TITL New York, Passenger Lists, 1820-1957
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2010
 0 @h7WBKNgwRSOUt2BNNsOI@ SOUR
-1 _APID 1,7181::0
 1 REFN f995469d-de6e-4f8a-b9b5-5d2a0ffd5e25
-1 RIN S-330979816
 1 REPO @hTXt7qBMQKeFqTG4cc4G@
 1 TITL New York, State Census, 1855
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2013
 0 @2bg2kSXxR9G5oJVTCXgV@ SOUR
-1 _APID 1,7218::0
 1 REFN 59225912-66cd-4d33-a51e-147570d74d6c
-1 RIN S-301664923
 1 REPO @hTXt7qBMQKeFqTG4cc4G@
 1 TITL New York, State Census, 1865
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2014
 0 @74P5lXIpRomDQfd5WmFi@ SOUR
-1 _APID 1,7250::0
 1 REFN 70b53fc8-be2b-480f-940d-34fb9697f10b
-1 RIN S-333148567
 1 REPO @hTXt7qBMQKeFqTG4cc4G@
 1 TITL New York, State Census, 1875
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2013
 0 @eaHR0oxuTfOp5myA78b9@ SOUR
-1 _APID 1,3212::0
 1 REFN 421a3559-6aa7-465c-ab13-479137b518e3
-1 RIN S-339390060
 1 REPO @hTXt7qBMQKeFqTG4cc4G@
 1 TITL New York, State Census, 1892
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2012
 0 @4jCt5j3VRkqTuhypLl9x@ SOUR
-1 _APID 1,7364::0
 1 REFN e6b7df74-cd4b-4460-a429-54751ee5401f
-1 RIN S-322419782
 1 REPO @hTXt7qBMQKeFqTG4cc4G@
 1 TITL New York, State Census, 1905
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2014
 0 @Qxz8JDP7SuCtqVmDijnb@ SOUR
-1 _APID 1,2703::0
 1 REFN 27f04933-14e3-44e9-8670-40c6cfe55434
-1 RIN S-340037965
 1 REPO @hTXt7qBMQKeFqTG4cc4G@
 1 TITL New York, State Census, 1915
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2012
 0 @7LxrgfRmTNWyu6slXQjR@ SOUR
-1 _APID 1,2704::0
 1 REFN 1b6cb1fe-cfa3-4ce4-877e-c4fdbb846eed
-1 RIN S-333322453
 1 REPO @hTXt7qBMQKeFqTG4cc4G@
 1 TITL New York, State Census, 1925
 1 AUTH Ancestry.com
@@ -5139,7 +5052,6 @@
 2 CONC e: 2012
 0 @Iei3CqvQTlOZK8WBxJrE@ SOUR
 1 REFN fe03e589-f706-4723-8777-389e71459730
-1 RIN S685
 1 TITL Novelty Block [advertisement]
 1 AUTH Coring, New York, Journal [newspaper]
 1 PUBL Corning, NY: 1856-05-15: p. 1?, col. 3
@@ -5177,7 +5089,6 @@
 2 CONT </p>
 0 @2WoDCiydQiS8tg1JkJWc@ SOUR
 1 REFN a75eb0ac-0d53-46b6-84a8-bbf6ea9946e1
-1 RIN S691
 1 TITL NY Census, 1865, Steuben Co., Corning [Village], ED 1, imag
 2 CONC e 11 of 65
 1 AUTH New York State
@@ -5253,7 +5164,6 @@
 2 CONT </table>
 0 @tVyBCFQyRBWxkBkdo347@ SOUR
 1 REFN 11692311-35e5-48c8-b683-ff08245cfc07
-1 RIN S690
 1 TITL NY Census, 1865, Steuben Co., Corning, ED 1, image 22 of 25
 1 AUTH New York State
 1 PUBL FamilySearch.org
@@ -5341,7 +5251,6 @@
 2 CONT </table>
 0 @OJXgv3KcTJyDa7ZI7paz@ SOUR
 1 REFN d61eca3e-457e-432b-b437-1f09b3c5e884
-1 RIN S689
 1 TITL NY Census, 1875, Steuben Co., Corning, ED 1, image 55 of 75
 1 AUTH New York State
 1 PUBL FamilySearch.org
@@ -5384,7 +5293,6 @@
 2 CONT </table>
 0 @F0KKpgr1Q3Skg6UZzB1R@ SOUR
 1 REFN e4e630ba-5073-4cd5-a60f-d3177b7dbcd9
-1 RIN S670
 1 TITL NY Census, 1892, Steuben Co., Hornby, ED 1, image 3 of 9
 1 AUTH New York State
 1 PUBL FamilySearch.org
@@ -5440,13 +5348,11 @@
 2 CONT </table>
 0 @cloCGCgMQYqTs7SReZRJ@ SOUR
 1 REFN d0c63547-8cbd-40ff-a9ed-b992c1083332
-1 RIN S306
 1 TITL Pedigree Resource File
 1 AUTH LDS
 1 PUBL http://www.familysearch.org/
 0 @HBeZSEmET9G9ZSBs14SB@ SOUR
 1 REFN e0d9b608-e6d8-401b-a994-6a26e30294bf
-1 RIN S654
 1 TITL Portrait of Taylorson, Hannah S
 1 AUTH Dampf, J. H.
 1 PUBL In possession of Chris Mosher.
@@ -5458,12 +5364,10 @@
 2 CONT Hannah Harrison/J. H. DAMPF./Corning, N.Y.
 0 @b4jYUWYOQaqnPwDilUxZ@ SOUR
 1 REFN 84ed57df-a4ba-4112-8a6f-3a366a3bb339
-1 RIN S-330866504
 1 TITL Steuben County (New York) Land Deeds
 1 AUTH Steuben County (New York)
 0 @qNGRvFLKRVCetGMY4KMl@ SOUR
 1 REFN 5a153778-16e7-40b0-adfc-def3dba976bf
-1 RIN S692
 1 TITL Taylerson, Thomas, marriage
 1 AUTH Corning, New York, Journal
 1 PUBL Corning, NY: 1874-04-16
@@ -5476,7 +5380,6 @@
 2 CONT </p>
 0 @2W7E32UHQqKiWPSvCYOW@ SOUR
 1 REFN 13a58543-3edb-4c1a-9b6b-2eee0850837c
-1 RIN S648
 1 TITL Taylorson, Robert, obituary
 1 AUTH Corning [New York] Journal [newspaper]
 1 PUBL 1889-12-26, Corning, NY
@@ -5495,14 +5398,12 @@
 2 CONC l his obligations.
 0 @1VqrKCzLQli3cd2xUush@ SOUR
 1 REFN 3cf96fea-bd09-48c1-91c2-3485d65da92d
-1 RIN S651
 1 TITL U.K., City and County Directories, 1600s-1900s [database on-
 2 CONC line]
 1 AUTH Ancestry.com
 1 PUBL Provo, UT, USA: Ancestry.com Operations, Inc., 2010
 0 @k7ap0rujQFex5IgQ5CXx@ SOUR
 1 REFN fa59e7d8-204f-4737-a6ee-b5f95e9009b8
-1 RIN S-340303855
 1 REPO @cJV7UxM4QEWWRiWbYius@
 1 TITL U.S. City Directories
 1 AUTH Ancestry.com
@@ -5514,9 +5415,7 @@
 2 CONT Check the directory title page image for full title and publ
 2 CONC ication information.
 0 @mDWKwIsCRaCKr5iO25hg@ SOUR
-1 _APID 1,2469::0
 1 REFN 97848603-79f1-4dcd-abc8-0e58523481b3
-1 RIN S-333067367
 1 REPO @hTXt7qBMQKeFqTG4cc4G@
 1 TITL U.S. City Directories, 1821-1989
 1 AUTH Ancestry.com
@@ -5524,7 +5423,6 @@
 2 CONC e: 2011
 0 @xcXXXJstR1iS4OizBZKh@ SOUR
 1 REFN 5279ef12-0e5f-41a7-9116-fa55425df9aa
-1 RIN Az56mpgwSMelraoOX2HL
 1 REPO @cJV7UxM4QEWWRiWbYius@
 1 TITL U.S. City Directories, 1822-1995
 1 AUTH Ancestry.com
@@ -5537,7 +5435,6 @@
 2 CONC ication information.
 0 @JuHilP68RmSAugv75uhL@ SOUR
 1 REFN 475d9a39-7fbf-421f-84dd-a51602b2b69c
-1 RIN S-340303976
 1 REPO @cJV7UxM4QEWWRiWbYius@
 1 TITL U.S. IRS Tax Assessment Lists, 1862-1918
 1 AUTH Ancestry.com
@@ -5549,18 +5446,14 @@
 2 CONT <p><a href="/search/dbextra.aspx?dbid=1264">See Full Sourc
 2 CONC e Citations</a>.</p>
 0 @PTkUNEaISa61ijB7VnKA@ SOUR
-1 _APID 1,60525::0
 1 REFN 3c2005c6-3d38-46be-80f8-7100e468f384
-1 RIN S-313778072
 1 REPO @hTXt7qBMQKeFqTG4cc4G@
 1 TITL U.S., Find A Grave Index, 1600s-Current
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2012
 0 @f9TGKjo7Q0eOosH9qjGk@ SOUR
-1 _APID 1,6482::0
 1 REFN fda57307-52d8-4d6e-a2c8-209984c57b81
-1 RIN S-333070379
 1 REPO @hTXt7qBMQKeFqTG4cc4G@
 1 TITL U.S., World War I Draft Registration Cards, 1917-1918
 1 AUTH Ancestry.com
@@ -5568,7 +5461,6 @@
 2 CONC : 2005
 0 @GGFJAebSQ06ZNolWRXDN@ SOUR
 1 REFN 7447873b-604c-4c5c-97a9-f25b49595f4c
-1 RIN S202
 1 TITL US Census, 1850, NY, Steuben, Painted Post
 1 AUTH US Census Bureau
 1 PUBL M432.598, p. 1
@@ -5590,7 +5482,6 @@
 2 CONT </table>
 0 @xbtkeA3NQVK7k9HX2Njs@ SOUR
 1 REFN 1cc31fe6-426c-4700-bdfe-eb0e50380075
-1 RIN Dx1DbeSLQx2FumPVzYiK
 1 TITL US Census, 1850, NY, Steuben, Painted Post (Robert Taylorson
 2 CONC )
 1 AUTH US Census Bureau
@@ -5632,7 +5523,6 @@
 2 CONT </table>
 0 @LgUvDQExRraJTm0SceCH@ SOUR
 1 REFN f309a04a-e62d-471c-b538-204431a6c03a
-1 RIN S243
 1 TITL US Census, 1860, NY, Steuben, Corning
 1 AUTH US Census Bureau
 1 PUBL M653.863, pp. 216-217
@@ -5678,7 +5568,6 @@
 2 CONT </table>
 0 @WA6UwoKUTnCqPE5cO5ER@ SOUR
 1 REFN b591d2be-5bcf-45ba-b467-c95d4fabc9f9
-1 RIN S632
 1 TITL US Census, 1860, NY, Steuben, Erwin, image 11 of 48
 1 AUTH US Census Bureau
 1 PUBL M653.863
@@ -5707,7 +5596,6 @@
 2 CONT </table>
 0 @WjJ6YPanRKegWyl1IRoB@ SOUR
 1 REFN 92e1de3b-649c-4ac2-96d8-2d877b3bb58f
-1 RIN S423
 1 TITL US Census, 1870, NY, Steuben, Corning
 1 AUTH US Census Bureau
 1 PUBL M593.1095, p. 49
@@ -5739,7 +5627,6 @@
 2 CONT </table>
 0 @n7G61FEfRNyigKbRHvfR@ SOUR
 1 REFN bedfdab7-3ac1-416c-8ccf-5fea5eeedcd9
-1 RIN S633
 1 TITL US Census, 1870, NY, Steuben, Erwin, image 33 of 50
 1 AUTH US Census Bureau
 1 PUBL M593.1095
@@ -5771,7 +5658,6 @@
 2 CONT </table>
 0 @cArep5bJQb6fWFM4F0l8@ SOUR
 1 REFN 23961806-199a-46cc-b225-ab8573abda28
-1 RIN S634
 1 TITL US Census, 1880, NY, Stebuen, Erwin, ED173, image 37 of 41
 1 AUTH US Census Bureau
 1 PUBL T9.933
@@ -5802,7 +5688,6 @@
 2 CONT </table>
 0 @pYKg3AhbTdSvGj83umRU@ SOUR
 1 REFN 9d0cf581-df8b-4c71-b97a-961b4c74bb48
-1 RIN S242
 1 TITL US Census, 1880, NY, Steuben Co
 1 AUTH US Census Bureau
 1 PUBL Hornby, Steuben, NY, 10 Jun 1880
@@ -5868,65 +5753,42 @@
 2 CONT </table>
 0 @v9lVJ9JWSlCCClNlNzyE@ SOUR
 1 REFN f13b9672-e263-4c40-ae80-02597a8943bd
-1 RIN S577
 1 TITL US Census, 1900, NY, Cattaraugus, Olean
 1 AUTH US Census Bureau
 0 @7jxFiZGcR16IjiRnFxmM@ SOUR
-1 _APID 1,70572::0
 1 REFN 8f80be72-7f09-4ab0-87cc-ae5d90ca3842
-1 RIN S-340037888
 1 REPO @hTXt7qBMQKeFqTG4cc4G@
 1 TITL Web: New York, Find A Grave Index, 1660-2012
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2012
 0 @N7y6pNMQSQqOHwJJtOxS@ OBJE
-1 FILE http://trees.ancestry.com/rd?f=image&guid=fffe7908-56a3-45b6
-2 CONC -89ed-86399a986bc2&tid=61407337
-2 FORM jpg
-2 TITL 0002_Taylorson_Hannah_L
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\0002_Taylorson_Hannah_L.jpg
 2 FORM jpg
 2 TITL 0002_Taylorson_Hannah_L
 2 _DATE 9/26/2013 9:19:12 PM
-1 RIN O46
 1 REFN 952ba9ab-8b1c-445d-b197-2b8d533aee6d
 0 @yIcc6Zt8T5Skx2BfWvVF@ OBJE
-1 FILE http://trees.ancestry.com/rd?f=image&guid=692dc157-b161-4877
-2 CONC -89f5-91ae7da390d9&tid=61407337
-2 FORM jpg
-2 TITL 0019_Taylorson_Jessie
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\0019_Taylorson_Jessie.jpg
 2 FORM jpg
 2 TITL 0019_Taylorson_Jessie
 2 _DATE 9/26/2013 10:07:41 PM
-1 RIN O113
 1 REFN 3e01ce36-1c3d-46cd-b528-c8f264ec4591
 0 @JhTF9BoKTIKGi4OxEGiI@ OBJE
-1 FILE http://trees.ancestry.com/rd?f=image&guid=ed602de8-0234-4a49
-2 CONC -8740-66e28656bc76&tid=61407337
-2 FORM jpg
-2 TITL 0019_Taylorson_Lavinia
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\0019_Taylorson_Lavinia.jpg
 2 FORM jpg
 2 TITL 0019_Taylorson_Lavinia
 2 _DATE 9/26/2013 10:08:15 PM
-1 RIN O114
 1 REFN 5eba02f4-a445-4368-9920-2fcef6197da3
 0 @nj58FScOQgu4WauwfdaZ@ OBJE
-1 FILE http://trees.ancestry.com/rd?f=image&guid=79d424d8-2a62-4dea
-2 CONC -91b0-1634a9511180&tid=61407337
-2 FORM jpg
-2 TITL 0090_Edminster_Jessie_E
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\0090_Edminster_Jessie_E.jpg
 2 FORM jpg
 2 TITL 0090_Edminster_Jessie_E
 2 _DATE 9/27/2013 8:21:45 PM
-1 RIN O150
 1 REFN 6930b603-185d-4264-8529-18eeec16698b
 0 @fkkFGltLRgGeUuNdFwkz@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
@@ -5936,7 +5798,6 @@
 2 _TEXT Class: HO107; Piece: 317; Book: 23; Civil Parish: Stockton U
 3 CONC pon Tees; County: Durham; Enumeration District: 2; Folio: 27
 3 CONC ; Page: 22; Line: 18; GSU roll: 241357
-1 RIN rPOti2OcQGGwtN0KxSg8
 1 REFN 7f83244d-f88b-4f79-8bca-22373a1dcb54
 0 @Sb0wdP9kRhCZ8ZFMto5r@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
@@ -5946,7 +5807,6 @@
 2 TITL 1850 United States Federal Census
 2 _TEXT Year: 1850; Census Place: Painted Post, Steuben, New York; R
 3 CONC oll: M432_598; Page: 1A; Image: 9
-1 RIN NVnClT2BQdGWzL77Podj
 1 REFN 965ca434-b667-4944-a144-0e0894742d1e
 0 @8Lh2FaDrRvS7dppiyXOL@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
@@ -5957,7 +5817,6 @@
 2 _TEXT Year: 1860; Census Place: Corning, Steuben, New York; Roll
 3 CONC : M653_863; Page: 217; Image: 222; Family History Library Fi
 3 CONC lm: 803863
-1 RIN i7DVqwWMR0KFlsIWQElR
 1 REFN 9c2a1d10-f56a-49c4-8db5-4ea53794b087
 0 @889BnmNXRsGuR9Tf7azK@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
@@ -5968,7 +5827,6 @@
 2 _TEXT Year: 1860; Census Place: Elmira, Chemung, New York; Roll: M
 3 CONC 653_730; Page: 422; Image: 44; Family History Library Film
 3 CONC : 803730
-1 RIN LRhdN703QBGA33sGT2s9
 1 REFN 2a60f3ce-39d2-4b67-b6f6-3727900abd9d
 0 @pmMZwiYLSwS64UMhv6PB@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
@@ -5979,7 +5837,6 @@
 2 _TEXT Year: 1870; Census Place: Corning, Steuben, New York; Roll
 3 CONC : M593_1095; Page: 49A; Image: 102; Family History Library F
 3 CONC ilm: 552594
-1 RIN mBC0NTnYTby9da32Jb0W
 1 REFN 4b8ef700-fd9d-49f6-bb76-2d5c170c5364
 0 @gmzJ2mv3Q92sNpwZzTg1@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
@@ -5990,7 +5847,6 @@
 2 _TEXT Year: 1870; Census Place: Hornby, Steuben, New York; Roll: M
 3 CONC 593_1095; Page: 223A; Image: 456; Family History Library Fil
 3 CONC m: 552594
-1 RIN oIi9T8y6S62OJV2bBR4V
 1 REFN 45718147-d28c-4749-bcb8-665a6ab9b4f2
 0 @s8ynwYiPQLuIV6VOEw7U@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
@@ -6001,7 +5857,6 @@
 2 _TEXT Year: 1870; Census Place: Erwin, Steuben, New York; Roll: M5
 3 CONC 93_1095; Page: 158A; Image: 324; Family History Library Film
 3 CONC : 552594
-1 RIN 6Mk8LL04SJ6cNDUJs0j9
 1 REFN 61062653-d010-421a-9e9c-9e4b8ca7f58d
 0 @2Wig0snFRv6jTr0YLJzt@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
@@ -6012,7 +5867,6 @@
 2 _TEXT Year: 1870; Census Place: Big Flats, Chemung, New York; Roll
 3 CONC : M593_914; Page: 32B; Image: 69; Family History Library Fil
 3 CONC m: 552413
-1 RIN esE1exOMQsO8h8gShqXE
 1 REFN cfe08e68-0fc9-452f-b3e8-26ca7a03aeff
 0 @7Qe3Q54kTFen6vc1sLFi@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
@@ -6023,7 +5877,6 @@
 2 _TEXT Year: 1880; Census Place: Hornby, Steuben, New York; Roll: 9
 3 CONC 33; Family History Film: 1254933; Page: 266C; Enumeration Di
 3 CONC strict: 177; Image: 0536
-1 RIN 9aMZVT8cRDyYaHTP177r
 1 REFN 19b7a019-71c8-4d1c-bf5c-e7f5b5c5c867
 0 @x9Ek0jDvRxGDBg7agg40@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
@@ -6034,7 +5887,6 @@
 2 _TEXT Year: 1880; Census Place: Horseheads, Chemung, New York; Rol
 3 CONC l: 817; Family History Film: 1254817; Page: 510D; Enumeratio
 3 CONC n District: 083; Image: 0600
-1 RIN GIwXDtnySki4dYkFzxpV
 1 REFN 402e2bf6-94cf-4da3-97f8-30f79b7e140d
 0 @b5CvY48XSSOaRlEiT0q5@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
@@ -6045,7 +5897,6 @@
 2 _TEXT Year: 1880; Census Place: Buffalo, Erie, New York; Roll: 828
 3 CONC ; Family History Film: 1254828; Page: 35B; Enumeration Distr
 3 CONC ict: 120; Image: 0426
-1 RIN ormD1wcuRfigkdztWumT
 1 REFN b2b87235-74c4-492e-bfff-c5705d349eeb
 0 @9fekSPhgS6eGJGlIKd5Y@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
@@ -6056,7 +5907,6 @@
 2 _TEXT Year: 1880; Census Place: Corning, Steuben, New York; Roll
 3 CONC : 933; Family History Film: 1254933; Page: 167A; Enumeratio
 3 CONC n District: 171; Image: 0337
-1 RIN lOeLNVaqRjaSI16jOVGs
 1 REFN edb7d5d5-325d-4955-950b-559a4ae8c0e8
 0 @xNxl4cTfRbaETAVSHqgQ@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
@@ -6067,7 +5917,6 @@
 2 _TEXT Year: 1880; Census Place: Erwin, Steuben, New York; Roll: 93
 3 CONC 3; Family History Film: 1254933; Page: 219A; Enumeration Dis
 3 CONC trict: 173; Image: 0441
-1 RIN fQnkWAo1TjCPvZY0qX1V
 1 REFN 9cf51969-fae4-4dca-9ac8-9471c1377407
 0 @k2xDoMfDQ2CEf4yVCuqo@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
@@ -6078,7 +5927,6 @@
 2 _TEXT Year: 1880; Census Place: Corning, Steuben, New York; Roll
 3 CONC : 933; Family History Film: 1254933; Page: 165B; Enumeratio
 3 CONC n District: 171; Image: 0334
-1 RIN zOT2KzKCTjW0UzZQeSZX
 1 REFN 93d9efd9-78dd-4798-a67a-1e40bb980413
 0 @nUHy1YBHRXSE4eLmMUJo@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
@@ -6089,7 +5937,6 @@
 2 _TEXT Year: 1900; Census Place: Olean, Cattaraugus, New York; Roll
 3 CONC : 1011; Page: 4A; Enumeration District: 0056; FHL microfilm
 3 CONC : 1241011
-1 RIN sBdHY0zOQC6xmNE4HTNp
 1 REFN 95636459-7be3-4107-bf53-330b7da1197f
 0 @lC8XOZvVRhKv5mXdghJR@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
@@ -6100,7 +5947,6 @@
 2 _TEXT Year: 1900; Census Place: Elmira Ward 9, Chemung, New York
 3 CONC ; Roll: 1016; Page: 7B; Enumeration District: 0029; FHL micr
 3 CONC ofilm: 1241016
-1 RIN VQk2RwBoTnOjwPx282J1
 1 REFN 7be513af-5032-4054-b811-a495c5d22b60
 0 @blNQH6aXRTWrpDosAT1j@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
@@ -6111,7 +5957,6 @@
 2 _TEXT Year: 1900; Census Place: Erwin, Steuben, New York; Roll: 11
 3 CONC 63; Page: 6B; Enumeration District: 0082; FHL microfilm: 124
 3 CONC 1163
-1 RIN B9jcZzTaQx6NB8T3GURm
 1 REFN 7cd2b5c7-e874-470f-b440-0c8081a466e1
 0 @aCcLzDjzTFKBYJsHRbt8@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
@@ -6122,7 +5967,6 @@
 2 _TEXT Year: 1900; Census Place: Big Flats, Chemung, New York; Roll
 3 CONC : 1016; Page: 2B; Enumeration District: 0003; FHL microfilm
 3 CONC : 1241016
-1 RIN mMznT0nkS2yyUctsRN93
 1 REFN b5dc3066-c22f-4096-9c1c-062239c54058
 0 @RIbmdKWERFWQyvHXdKyl@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
@@ -6133,7 +5977,6 @@
 2 _TEXT Year: 1910; Census Place: Olean Ward 3, Cattaraugus, New Yor
 3 CONC k; Roll: T624_927; Page: 7A; Enumeration District: 0078; FH
 3 CONC L microfilm: 1374940
-1 RIN v6USbfS7SAeMAXBMO8mg
 1 REFN 680bd5e5-683b-44fb-acbb-2c5eb5fb56fc
 0 @b734qYM2RbSlfVJjNEgL@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
@@ -6144,7 +5987,6 @@
 2 _TEXT Year: 1910; Census Place: Elmira Ward 9, Chemung, New York
 3 CONC ; Roll: T624_931; Page: 4B; Enumeration District: 0032; FH
 3 CONC L microfilm: 1374944
-1 RIN upns1GC9RTKT4QR2XdrG
 1 REFN f51059d6-609d-4ddc-af2c-35c9a206b1f3
 0 @NOtiDwokQXi1m65EbyOt@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
@@ -6155,7 +5997,6 @@
 2 _TEXT Year: 1910; Census Place: Westfield, Tioga, Pennsylvania; Ro
 3 CONC ll: T624_1423; Page: 12A; Enumeration District: 0170; FHL mi
 3 CONC crofilm: 1375436
-1 RIN Q6Oh0tY7Q0OCL5hznJzG
 1 REFN 3e2c58e6-70f5-4c80-bd40-f7de96494cf3
 0 @CAnv2YCMRHe7oSHYxN9l@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
@@ -6166,7 +6007,6 @@
 2 _TEXT Year: 1910; Census Place: Big Flats, Chemung, New York; Roll
 3 CONC : T624_931; Page: 8A; Enumeration District: 0004; FHL microf
 3 CONC ilm: 1374944
-1 RIN N6MdJCcXTgqwugyhw6o0
 1 REFN 5190d12e-785e-476f-819a-51b7a2bb486c
 0 @ski6SX2XRdSwVekHG1fj@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
@@ -6176,7 +6016,6 @@
 2 TITL 1920 United States Federal Census
 2 _TEXT Year: 1920; Census Place: Olean Ward 3, Cattaraugus, New Yor
 3 CONC k
-1 RIN 8wrZMuJnTGargWFwQAw8
 1 REFN 914fade4-000d-4602-a966-f2605b42862b
 0 @UPKQIecMQOG7HmNjyCuN@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
@@ -6185,7 +6024,6 @@
 2 FORM jpg
 2 TITL 1920 United States Federal Census
 2 _TEXT Year: 1920; Census Place: Elmira Ward 9, Chemung, New York
-1 RIN yt0paVn6RyKWWTkW7nNu
 1 REFN 624dd24f-edf2-47b7-bebc-145b7d2ff6b3
 0 @CQh0oq7cRFuTgHq9Z5Qy@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
@@ -6195,7 +6033,6 @@
 2 TITL 1920 United States Federal Census
 2 _TEXT Year: 1920; Census Place: Triangle, Broome, New York; Roll
 3 CONC : T625_1085; Page: 5B; Enumeration District: 84; Image: 424
-1 RIN LinCm6e8Ra2lG1jeQBpC
 1 REFN b42c21ab-8f91-45e4-ae12-a2c2f8eaeaf1
 0 @RMTRznOgTyKbSzKbFd6b@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
@@ -6206,7 +6043,6 @@
 2 _TEXT Year: 1930; Census Place: Elmira, Chemung, New York; Roll: 1
 3 CONC 415; Page: 2A; Enumeration District: 31; FHL microfilm: 2341
 3 CONC 150
-1 RIN 0P8etmd5S4WqiGvzFTL6
 1 REFN e86cb2c9-7e2f-43e0-b585-0b20cd5540e4
 0 @dPbzlcp5SKu5yzm2rorL@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
@@ -6217,7 +6053,6 @@
 2 _TEXT Year: 1930; Census Place: Militia District 8, Chatham, Georg
 3 CONC ia; Roll: 345; Page: 5B; Enumeration District: 0059; Image
 3 CONC : 571.0; FHL microfilm: 2340080
-1 RIN ntAnF0nSSwKw6p6NhxBp
 1 REFN e821f726-4fc9-4be3-a48d-b4a165ad2b7e
 0 @NWt8uo0tQv2t1cVZiK3m@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
@@ -6227,7 +6062,6 @@
 2 TITL 1940 United States Federal Census
 2 _TEXT Year: 1940; Census Place: Elmira, Chemung, New York; Roll: T
 3 CONC 627_2514; Page: 3A; Enumeration District: 8-57
-1 RIN C03WdhGDSI6y8uEPPk42
 1 REFN 68cfec90-931a-486e-8f68-ebfd7bbfe7e2
 0 @HxENyvXZQBqj46tAufBU@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
@@ -6237,13 +6071,8 @@
 2 TITL 1940 United States Federal Census
 2 _TEXT Year: 1940; Census Place: New York, New York, New York; Roll
 3 CONC : T627_2656; Page: 61A; Enumeration District: 31-1374
-1 RIN MV6h77J4RKWc6ZZhn771
 1 REFN 78ddbd9f-ccb8-4c16-a664-1ed59542cdad
 0 @GdEop12iQKCgubsvVmdV@ OBJE
-1 FILE http://trees.ancestry.com/rd?f=image&guid=74084c77-4275-4c60
-2 CONC -b51a-32178561f201&tid=61407337
-2 FORM jpg
-2 TITL 6407693337_f01dfabd1e_o
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\6407693337_f01dfabd1e_o.jpg
 2 FORM jpg
@@ -6252,7 +6081,6 @@
 2 _TEXT Advertisement for Coffins at the Cabinet, Chair, and Bedstea
 3 CONC d warehouse of Thomas Taylorson, from Corning (New York) Jou
 3 CONC rnal newspaper, October 9, 1862.
-1 RIN O112
 1 REFN b4901546-d120-47f0-b5cb-c93df114f293
 0 @0kjuZ5g4SAO42LgBAmTw@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
@@ -6260,7 +6088,6 @@
 2 CONC n Birth Index, 1837-1915.jpg
 2 FORM jpg
 2 TITL England & Wales, Civil Registration Birth Index, 1837-1915
-1 RIN 9NWwqYxVSvKNcQMfkqpv
 1 REFN 0da99197-6e30-47f0-9c95-1acc20ad50ab
 0 @kd3IvfIYQ4WNqYfrIaLw@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
@@ -6268,7 +6095,6 @@
 2 CONC , 1837-1915.jpg
 2 FORM jpg
 2 TITL England & Wales, FreeBMD Birth Index, 1837-1915
-1 RIN bnvlfuKwQhKLQndWXu5a
 1 REFN ff77cb13-fd48-4963-978c-abc086855df2
 0 @6ad42r9ySR286aDp5r82@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
@@ -6276,7 +6102,6 @@
 2 CONC , 1837-1915.jpg
 2 FORM jpg
 2 TITL England & Wales, FreeBMD Death Index, 1837-1915
-1 RIN QJaon1esST2FW5pJV92a
 1 REFN 4875063f-d24e-402a-837b-21683bf091ac
 0 @oi1Or17IT4m6nzElyser@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
@@ -6284,7 +6109,6 @@
 2 CONC dex, 1837-1915.jpg
 2 FORM jpg
 2 TITL England & Wales, FreeBMD Marriage Index, 1837-1915
-1 RIN ywnVC6HTT7WTVoqZcj7Q
 1 REFN c0922152-d01e-40d5-aebd-8559b40a230b
 0 @jJJVXiNLTJOtnFzmfuE6@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
@@ -6292,33 +6116,21 @@
 2 CONC pg
 2 FORM jpg
 2 TITL Florida Passenger Lists, 1898-1964
-1 RIN sy1a7mynTqW0JPRyGD0z
 1 REFN 94ca9ef5-1212-4d12-872f-a7f88ed0326e
 0 @a29rouemTyuezBT9XapO@ OBJE
-1 FILE http://trees.ancestry.com/rd?f=image&guid=6014c123-1370-4c5d
-2 CONC -8479-c9a2852a1e75&tid=61407337
-2 FORM jpg
-2 TITL Land Deed, Taylorson, Robert, Chemung Street, Painted Post
-3 CONC , NY
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\Land Deed, Taylorson, Robert, Chemun
 2 CONC g Street, Painted Post, NY.jpg
 2 FORM jpg
 2 TITL Land Deed, Taylorson, Robert, Chemung Street, Painted Post
 3 CONC , NY
-1 RIN O115
 1 REFN e7348ab3-e799-4a04-8d54-6a8450035b5a
 0 @UApIl18aQxyH5g5K2jkU@ OBJE
-1 FILE http://trees.ancestry.com/rd?f=image&guid=d001b4d3-db40-406b
-2 CONC -942c-84523d40df81&tid=61407337
-2 FORM jpg
-2 TITL Land Deed, Taylorson, Thomas, Canton Road, South Corning, NY
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\Land Deed, Taylorson, Thomas, Canto
 2 CONC n Road, South Corning, NY.jpg
 2 FORM jpg
 2 TITL Land Deed, Taylorson, Thomas, Canton Road, South Corning, NY
-1 RIN O111
 1 REFN 30882525-bbee-4ca7-8f60-15b1a5fcc821
 0 @aS6JRZtMREG9oKSAp4Jl@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
@@ -6328,77 +6140,66 @@
 2 TITL New York, Passenger Lists, 1820-1957
 2 _TEXT Year: 1849; Arrival:  , ; Microfilm serial: M237; Microfil
 3 CONC m roll: M237_81; Line: ; List number: .
-1 RIN RCcltBW4TrOFnBTtKuRR
 1 REFN bcb0b8b5-6cb7-451a-be32-d4d929fd837e
 0 @YYd8YtQCTaO3vcc9rJqb@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\New York, State Census, 1855(4).jpg
 2 FORM jpg
 2 TITL New York, State Census, 1855
-1 RIN 5kHUtMpBQVCmQZIz9Wfa
 1 REFN 28f658d5-c5a7-40f3-b054-4547723e1a34
 0 @e2itw6lqSXqxQ9OzyjyJ@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\New York, State Census, 1855(12).jpg
 2 FORM jpg
 2 TITL New York, State Census, 1855
-1 RIN PEelrJLASimKhFfjTNIZ
 1 REFN 5b776a2f-721c-404e-b475-3a4ad4188d70
 0 @zDWuPkvNQy6AqcVvTWKS@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\New York, State Census, 1865(7).jpg
 2 FORM jpg
 2 TITL New York, State Census, 1865
-1 RIN KnBn1AMqRWKxSzKD5NjD
 1 REFN fed3674a-1eb0-4a8b-8bd4-4b774d394d57
 0 @2spUibxcTFmJOtiRvf5u@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\New York, State Census, 1865(22).jpg
 2 FORM jpg
 2 TITL New York, State Census, 1865
-1 RIN QA2RWmrKTluqLGoDDOnR
 1 REFN 6866895f-5aa8-4011-b00b-d90da4b4c20b
 0 @4SyVrL4jSEyARW3Yyqoh@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\New York, State Census, 1865(23).jpg
 2 FORM jpg
 2 TITL New York, State Census, 1865
-1 RIN 0f1UmDfnThyEPSGUnZ6q
 1 REFN 451903e5-8120-4e2f-ad0b-186cad228c1f
 0 @MkjqZjVXTQ6rkkGn6INa@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\New York, State Census, 1875(2).jpg
 2 FORM jpg
 2 TITL New York, State Census, 1875
-1 RIN gyPPLfVOSsezOCBBXErD
 1 REFN ec1a5804-bcca-4467-acba-c9164111f36d
 0 @XA9Vo3BZQR2gnVPVkgzL@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\New York, State Census, 1875(9).jpg
 2 FORM jpg
 2 TITL New York, State Census, 1875
-1 RIN C3iqw5i7RgCIgdisY7Lx
 1 REFN 44e1205c-5a64-4cc2-af41-7ada0c92bb29
 0 @kWmywm3ESauERQbRJVR3@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\New York, State Census, 1875(18).jpg
 2 FORM jpg
 2 TITL New York, State Census, 1875
-1 RIN Ox75WGviTOuE35UCpzOq
 1 REFN 0a8f8be0-7f9f-4b39-ad3a-45bfbd367277
 0 @SGnHaKBtQYGRR9ubBWg4@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\New York, State Census, 1892(12).jpg
 2 FORM jpg
 2 TITL New York, State Census, 1892
-1 RIN lRQZsKRtR5OOySguubQW
 1 REFN 19c7c677-2bb3-48b0-a9f1-fdb6909a02e5
 0 @3aa407SjRJWvIepXS4R2@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\New York, State Census, 1905(15).jpg
 2 FORM jpg
 2 TITL New York, State Census, 1905
-1 RIN wER1yPlnQZG4FYbnD8mR
 1 REFN c7140763-d87b-41f6-83a1-93f841259719
 0 @OIK2qEQJQt27BDzaZlSn@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
@@ -6408,7 +6209,6 @@
 2 _TEXT New York State Archives; Albany, New York; State Populatio
 3 CONC n Census Schedules, 1915; Election District: 01; Assembly Di
 3 CONC strict: 01; City: Triangle; County: Broome; Page: 05
-1 RIN hct4nwxpQtqlYKEN8SqB
 1 REFN c9db7291-6301-4d1d-bf99-400782d9a7a4
 0 @2jGTC07gTD6rNgHwuMW9@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
@@ -6418,7 +6218,6 @@
 2 _TEXT New York State Archives; Albany, New York; State Populatio
 3 CONC n Census Schedules, 1925; Election District: 02; Assembly Di
 3 CONC strict: 01; City: Elmira Ward 09; County: Chemung; Page: 6
-1 RIN 2svA0gjrRGWAdRoxmFUZ
 1 REFN 98fcee16-da2a-42a2-9c36-02264d2017ba
 0 @rWcKZXjfQla5Tn5Oxjxk@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
@@ -6428,14 +6227,12 @@
 2 _TEXT New York State Archives; Albany, New York; State Populatio
 3 CONC n Census Schedules, 1925; Election District: 01; Assembly Di
 3 CONC strict: 01; City: Triangle; County: Broome; Page: 9
-1 RIN petPX7GsQdyc4h9d9jkf
 1 REFN f579a484-5914-46a6-86ef-424240b17614
 0 @7NmGDrRTQsmoRy5W87LG@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\U.S. City Directories.jpg
 2 FORM jpg
 2 TITL U.S. City Directories
-1 RIN if1PUXWaR3iTsEChYHED
 1 REFN e1013570-1fb8-42f6-bde2-95eb5ef2ea65
 0 @5LeyQN3uRPG0yM2uCFqI@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
@@ -6443,7 +6240,6 @@
 2 CONC .jpg
 2 FORM jpg
 2 TITL U.S. City Directories, 1821-1989
-1 RIN iLHr2CPvRSWcTnimg31y
 1 REFN 392254fb-c89b-430a-8d41-009f4629f8c9
 0 @cw72CZy8Sa2fFE5yZQ21@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
@@ -6451,7 +6247,6 @@
 2 CONC .jpg
 2 FORM jpg
 2 TITL U.S. City Directories, 1821-1989
-1 RIN pC2Cl6BpRdOuTWoroOhU
 1 REFN 984f1e93-8444-474d-8cc1-2c57b307bf75
 0 @XML95beXRRqyNjAogSfG@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
@@ -6459,7 +6254,6 @@
 2 CONC .jpg
 2 FORM jpg
 2 TITL U.S. City Directories, 1821-1989
-1 RIN Q1zIJduVSWeaNnsgyKWd
 1 REFN e2277052-51fe-4d40-bbf6-81963a3f4feb
 0 @8LVfnfmpSXeZbCrHJqfp@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
@@ -6467,7 +6261,6 @@
 2 CONC jpg
 2 FORM jpg
 2 TITL U.S. City Directories, 1822-1995
-1 RIN hspRQ6CQSnafsYFLvBNB
 1 REFN 238c3e39-de1d-4bb6-a189-cfed0778ab9e
 0 @6xe0YWM6RW2e4ItJnpRy@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
@@ -6475,7 +6268,6 @@
 2 CONC .jpg
 2 FORM jpg
 2 TITL U.S. City Directories, 1822-1995
-1 RIN P9cTMcX8TBKF51mfSjwP
 1 REFN fa890567-44bc-48d9-b326-1445a31fe5b5
 0 @CsKj7hxCT7KfNOwW7nJ0@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
@@ -6483,7 +6275,6 @@
 2 CONC 1918.jpg
 2 FORM jpg
 2 TITL U.S. IRS Tax Assessment Lists, 1862-1918
-1 RIN tNcQqjy0RgySL2D2B9fQ
 1 REFN 94e420bf-1979-4efd-a582-38c6c47f5fc7
 0 @kgWfkHKETxaxTbVRoUEK@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
@@ -6493,6 +6284,5 @@
 2 TITL U.S., World War I Draft Registration Cards, 1917-1918
 2 _TEXT Registration State: New York; Registration County: Broome; R
 3 CONC oll: 1712045
-1 RIN 8MXWBeggTTit0cYprcB8
 1 REFN 175c93b1-7c90-4028-bf68-14ee02b9e488
 0 TRLR
