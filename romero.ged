@@ -14,23 +14,17 @@
 1 SUBM @q617a8cVTOqfOshz2hQ4@
 1 FILE Romero_2017-10-08_01.ged
 1 DATE 08 OCT 2017
-2 TIME 03:43:33
+2 TIME 04:16:46
 0 @q617a8cVTOqfOshz2hQ4@ SUBM
 1 NAME Christopher Alan Mosher
 1 RIN Umy2qBWIRUiwVSS6Hcn4
 0 @I12@ INDI
 1 _XY 46 889
 1 REFN 6ea54655-2765-4178-91fb-ab7fc7173708
-1 NAME
+1 NAME [unknown] /[unknown] de la Orden/
 1 SEX F
 1 FAMC @F10@
 1 FAMS @F11@
-0 @I13@ INDI
-1 REFN 74a4593f-22a5-43fd-85c6-234202d8a614
-1 NAME
-1 SEX F
-1 FAMC @F12@
-1 FAMS @F13@
 0 @I14@ INDI
 1 _XY 3123 602
 1 REFN 22f3182f-eb1f-42f4-a968-99405f506e5a
@@ -355,23 +349,8 @@
 1 REFN b28eaf2d-af6d-4645-be73-3653aeb2b0e4
 1 NAME Ana /de la Orden/
 2 SOUR @S19@
-3 QUAY 1
 1 SEX F
 1 FAMS @F10@
-1 BIRT
-2 PLAC Villaverde del Monte, Soria, Spain
-2 SOUR @S19@
-3 QUAY 1
-1 DEAT
-2 PLAC Villaverde del Monte, Soria, Spain
-2 SOUR @S19@
-3 QUAY 1
-0 @I39@ INDI
-1 REFN 457d0338-dbfa-448c-b5f8-a4bcafaade82
-1 NAME Ana /de la Orden/
-2 SOUR @S19@
-1 SEX F
-1 FAMS @F12@
 1 BIRT
 2 PLAC Villaverde del Monte, Soria, Spain
 2 SOUR @S19@
@@ -736,7 +715,6 @@
 3 QUAY 1
 1 SEX F
 1 FAMC @F11@
-1 FAMC @F13@
 1 FAMS @F49@
 1 BIRT
 2 PLAC Villaverde del Monte, Soria, Spain
@@ -1188,6 +1166,16 @@
 2 DATE 11 JUN 1875
 2 SOUR @S21@
 3 QUAY 1
+0 @I84@ INDI
+1 REFN b0c17e32-6052-48b7-819f-068576d46613
+1 NAME Gabriel /García y del Alcázar/
+2 SOUR @S17@
+3 PAGE Ancestry Family Tree
+3 DATA
+4 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=60917
+5 CONC 627&pid=13
+1 SEX M
+1 FAMC @F41@
 0 @I81@ INDI
 1 _XY 147 1051
 1 REFN 822e6fbd-2edd-429e-a8cc-1a8436e3a0fa
@@ -1239,16 +1227,6 @@
 2 PLAC Villaverde del Monte, Soria, Spain
 2 SOUR @S19@
 3 QUAY 1
-0 @I84@ INDI
-1 REFN b0c17e32-6052-48b7-819f-068576d46613
-1 NAME Gabriel /García y del Alcázar/
-2 SOUR @S17@
-3 PAGE Ancestry Family Tree
-3 DATA
-4 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=60917
-5 CONC 627&pid=13
-1 SEX M
-1 FAMC @F41@
 0 @I85@ INDI
 1 _XY 2766 337
 1 REFN 48697990-3a00-4178-8dbf-294da3b83346
@@ -1256,7 +1234,6 @@
 2 SOUR @S16@
 1 SEX M
 1 FAMC @F57@
-1 FAMC @F58@
 1 FAMS @F34@
 1 BIRT
 2 DATE 1531
@@ -3473,12 +3450,6 @@
 2 SOUR @S16@
 1 SEX M
 1 FAMS @F57@
-0 @I204@ INDI
-1 REFN 7187fb5b-d090-4ad0-8f4d-cc31c7f1adf1
-1 NAME Juan /Sanchez de Carranza/
-2 SOUR @S16@
-1 SEX M
-1 FAMS @F58@
 0 @I205@ INDI
 1 _XY 786 765
 1 REFN b96e3402-6855-4260-8632-3847ead103a4
@@ -3542,11 +3513,6 @@
 1 WIFE @I12@
 1 CHIL @I63@
 2 _MREL Natural
-0 @F13@ FAM
-1 REFN 08295891-d5c9-4be0-b860-701440a8f7a0
-1 WIFE @I13@
-1 CHIL @I63@
-2 _MREL Natural
 0 @F20@ FAM
 1 REFN a41fb4a8-b368-404e-ba43-ef1cb76cc0a5
 1 HUSB @I19@
@@ -3598,11 +3564,6 @@
 1 REFN 3428f55b-95bd-43e6-babf-7b0dabc3cd14
 1 WIFE @I38@
 1 CHIL @I12@
-2 _MREL Natural
-0 @F12@ FAM
-1 REFN 77bdad57-e1c8-46e2-9961-565e500ac755
-1 WIFE @I39@
-1 CHIL @I13@
 2 _MREL Natural
 0 @F26@ FAM
 1 REFN 3e175c30-f4e6-48d9-bab3-6b8eb48b1528
@@ -4364,11 +4325,6 @@
 0 @F57@ FAM
 1 REFN 582c0aba-bcc6-4def-8155-2e2e16d308c7
 1 HUSB @I203@
-1 CHIL @I85@
-2 _FREL Natural
-0 @F58@ FAM
-1 REFN 309c3ea2-c92e-4963-80c6-6a5f9b0bb8f2
-1 HUSB @I204@
 1 CHIL @I85@
 2 _FREL Natural
 0 @F64@ FAM
