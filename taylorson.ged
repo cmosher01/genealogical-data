@@ -12,12 +12,118 @@
 3 PHON (617) 227-6681
 1 DEST FTM
 1 SUBM @VdPGXI7USp6vpFdFFmSU@
-1 FILE Taylorson_2017-09-29.ged
-1 DATE 29 SEP 2017
-2 TIME 17:20:08
+1 FILE Taylorson_2017-10-11.ged
+1 DATE 11 OCT 2017
+2 TIME 03:18:03
 0 @VdPGXI7USp6vpFdFFmSU@ SUBM
 1 NAME Christopher Alan Mosher
 1 RIN Umy2qBWIRUiwVSS6Hcn4
+0 @I36@ INDI
+1 _XY 382 30
+1 REFN 0172e965-2ca7-472c-9a41-f30008bc71fb
+1 NAME Agnes /[unknown]/
+2 SOUR @S79@
+3 QUAY 1
+1 SEX F
+1 FAMS @F24@
+1 BIRT
+2 DATE ABT 1540
+2 PLAC Aislaby, Stockton upon Tees, Durham, England, UK
+2 SOUR @S79@
+3 QUAY 1
+1 DEAT
+2 DATE 04 DEC 1587
+2 PLAC Aislaby, Stockton upon Tees, Durham, England, UK
+2 SOUR @S79@
+3 QUAY 1
+0 @I37@ INDI
+1 _XY 140 1860
+1 REFN 55701dab-6af5-4635-93cb-086d8d92bd49
+1 NAME Ann /[unknown]/
+2 SOUR @7kJ3C8C4QFesOwUmgdI4@
+3 QUAY 1
+1 SEX F
+1 FAMS @F25@
+1 BIRT
+2 DATE ABT 1762
+2 PLAC Durham, England, UK
+2 SOUR @7kJ3C8C4QFesOwUmgdI4@
+3 QUAY 1
+1 CENS
+2 DATE 06 JUN 1841
+2 PLAC Hart, Hartlepool, Durham, England, UK
+2 SOUR @7kJ3C8C4QFesOwUmgdI4@
+3 QUAY 3
+1 DEAT
+2 DATE ABT 1846
+2 NOTE just a guess
+0 @I38@ INDI
+1 _XY 525 535
+1 REFN 056e25e6-b23a-4819-a00d-ad7fab3490fb
+1 NAME Bartholomew /Bales/
+2 SOUR @S79@
+3 QUAY 1
+2 SOUR @MLDnHhQZSGGw5BVQo9qM@
+3 _APID 1,9841::64084142
+1 SEX M
+1 FAMS @F26@
+1 BIRT
+2 DATE ABT 1570
+2 PLAC Durham, England, UK
+2 SOUR @S79@
+3 QUAY 1
+2 SOUR @MLDnHhQZSGGw5BVQo9qM@
+3 _APID 1,9841::64084142
+0 @I39@ INDI
+1 _XY 564 597
+1 REFN 58268388-7660-4d08-aaec-4d9be5fb7e62
+1 NAME Cecily /Bales/
+2 SOUR @S79@
+3 QUAY 1
+2 SOUR @MLDnHhQZSGGw5BVQo9qM@
+3 _APID 1,9841::64086626
+1 SEX F
+1 FAMC @F26@
+1 FAMS @F27@
+1 BIRT
+2 DATE 1605
+2 PLAC Elton, Stockton upon Tees, Durham, England, UK
+2 SOUR @S79@
+3 QUAY 1
+1 BAPM
+2 DATE 03 NOV 1605
+2 PLAC Elton, Stockton upon Tees, Durham, England, UK
+2 SOUR @MLDnHhQZSGGw5BVQo9qM@
+3 _APID 1,9841::64084143
+0 @I40@ INDI
+1 _XY 719 1089
+1 REFN 3859bdea-1048-4acb-a4fd-07e738d74f33
+1 NAME Anne /Barker/
+2 SOUR @S79@
+3 QUAY 1
+1 SEX F
+1 FAMS @F28@
+1 BIRT
+2 DATE ABT 12 FEB 1700
+2 PLAC Aycliffe, Sedgefield, Durham, England, UK
+1 BAPM
+2 DATE 13 FEB 1700
+2 PLAC Aycliffe, Sedgefield, Durham, England, UK
+2 SOUR @S79@
+3 QUAY 1
+0 @I41@ INDI
+1 _XY 105 316
+1 REFN d5477b63-2dc1-4472-9d26-8701cf99a0bf
+1 NAME Elizabeth /Barwicke/
+2 SOUR @S79@
+3 QUAY 1
+1 SEX F
+1 FAMS @F29@
+1 BIRT
+2 DATE ABT 1570
+2 PLAC North Yorkshire, England, UK
+2 SOUR @S79@
+3 QUAY 1
 0 @fKPuctm5RyC81oct8sFI@ INDI
 1 _XY 181504 4048
 1 REFN 2287b07c-4938-4b8f-974d-a3e0ef8105ab
@@ -28,7 +134,7 @@
 4 CONC ll: T624_1423; Page: 12A; Enumeration District: 0170; FHL mi
 4 CONC crofilm: 1375436
 3 OBJE @NOtiDwokQXi1m65EbyOt@
-2 SOUR @g5UbHIcvQmKXO31cZi9v@
+2 SOUR @gEzHretGQ9iAdPxO8HPJ@
 3 _APID 1,6061::30990994
 3 PAGE Year: 1920; Census Place: Triangle, Broome, New York; Roll
 4 CONC : T625_1085; Page: 5B; Enumeration District: 84; Image: 424
@@ -70,7 +176,7 @@
 4 CONC ll: T624_1423; Page: 12A; Enumeration District: 0170; FHL mi
 4 CONC crofilm: 1375436
 3 OBJE @NOtiDwokQXi1m65EbyOt@
-2 SOUR @g5UbHIcvQmKXO31cZi9v@
+2 SOUR @gEzHretGQ9iAdPxO8HPJ@
 3 _APID 1,6061::30990994
 3 PAGE Year: 1920; Census Place: Triangle, Broome, New York; Roll
 4 CONC : T625_1085; Page: 5B; Enumeration District: 84; Image: 424
@@ -142,7 +248,7 @@
 3 MAP
 4 LATI N42.3397
 4 LONG W75.8806
-2 SOUR @g5UbHIcvQmKXO31cZi9v@
+2 SOUR @gEzHretGQ9iAdPxO8HPJ@
 3 _APID 1,6061::30990994
 3 PAGE Year: 1920; Census Place: Triangle, Broome, New York; Roll
 4 CONC : T625_1085; Page: 5B; Enumeration District: 84; Image: 424
@@ -176,6 +282,19 @@
 3 OBJE @dPbzlcp5SKu5yzm2rorL@
 2 NOTE Age: 57; Marital Status: Married; Relation to Head of House
 3 CONC : Head
+0 @I42@ INDI
+1 _XY 254 1629
+1 REFN aa5dd8f6-07a9-42cb-8b3c-b3f689dc150b
+1 NAME Elizabeth /Coalpits/
+2 SOUR @S79@
+3 QUAY 1
+1 SEX F
+1 FAMS @F30@
+1 BIRT
+2 DATE ABT 1760
+2 PLAC Durham, England, UK
+2 SOUR @S79@
+3 QUAY 1
 0 @9WAccuOOSxeL794NGODe@ INDI
 1 _XY 181860 3760
 1 REFN 8986562e-db17-444b-b03b-28914312bea1
@@ -194,6 +313,98 @@
 3 MAP
 4 LATI N42.1373
 4 LONG W76.9369
+0 @I43@ INDI
+1 _XY 233 1429
+1 REFN 2544c7df-3e66-4ce4-b0a7-8bfcb12d5c50
+1 NAME Ann /Dobson/
+2 SOUR @S79@
+3 QUAY 1
+1 SEX F
+1 FAMC @F31@
+1 FAMS @F32@
+1 BIRT
+2 DATE 1734
+2 PLAC Easington, Durham, England, UK
+2 SOUR @S79@
+3 QUAY 1
+0 @I44@ INDI
+1 _XY 211 1478
+1 REFN aebccb0f-4410-43d9-a910-a263e83fcd6f
+1 NAME Elizabeth /Dobson/
+2 SOUR @S79@
+3 QUAY 1
+1 SEX F
+1 FAMC @F31@
+1 BIRT
+2 DATE 29 MAY 1739
+2 PLAC Easington, Durham, England, UK
+2 SOUR @S79@
+3 QUAY 1
+0 @I45@ INDI
+1 _XY 121 1477
+1 REFN a88c966f-72a4-4f17-b7ad-783da4ac106b
+1 NAME George /Dobson/
+2 SOUR @S79@
+3 QUAY 1
+1 SEX M
+1 FAMC @F31@
+1 BIRT
+2 DATE 22 FEB 1737
+2 PLAC Easington, Durham, England, UK
+2 SOUR @S79@
+3 QUAY 1
+0 @I46@ INDI
+1 _XY 124 1432
+1 REFN 70d3fa7c-1e89-4cb2-9b9b-b6defd3e3fc2
+1 NAME Jane /Dobson/
+2 SOUR @S79@
+3 QUAY 1
+1 SEX F
+1 FAMC @F31@
+1 BIRT
+2 DATE 17 MAR 1730
+2 PLAC Easington, Durham, England, UK
+2 SOUR @S79@
+3 QUAY 1
+0 @I47@ INDI
+1 _XY 35 1432
+1 REFN 4da182a0-55eb-448c-8855-4189821be054
+1 NAME John /Dobson/
+2 SOUR @S79@
+3 QUAY 1
+1 SEX M
+1 FAMC @F31@
+1 BIRT
+2 DATE 24 NOV 1728
+2 PLAC Easington, Durham, England, UK
+2 SOUR @S79@
+3 QUAY 1
+0 @I48@ INDI
+1 _XY 36 1352
+1 REFN 28e7434b-d837-4728-bce5-b0b4053536fa
+1 NAME Robert /Dobson/
+2 SOUR @S79@
+3 QUAY 1
+1 SEX M
+1 FAMS @F31@
+1 BIRT
+2 DATE ABT 1700
+2 PLAC Easington, Durham, England, UK
+2 SOUR @S79@
+3 QUAY 1
+0 @I49@ INDI
+1 _XY 30 1476
+1 REFN eec0fab4-0a5b-463a-9e39-9d91e91c0fdb
+1 NAME Thomas /Dobson/
+2 SOUR @S79@
+3 QUAY 1
+1 SEX M
+1 FAMC @F31@
+1 BIRT
+2 DATE 05 OCT 1735
+2 PLAC Easington, Durham, England, UK
+2 SOUR @S79@
+3 QUAY 1
 0 @H67Ja6P6T1a1Zne59bfx@ INDI
 1 _XY 182717 4011
 1 REFN 907ea277-5faa-46ac-b078-5f9fd6e05d0e
@@ -329,6 +540,53 @@
 3 MAP
 4 LATI N42.0898
 4 LONG W76.8077
+0 @I50@ INDI
+1 REFN 6e78bc9f-3139-4c15-83c6-fb415d4029a3
+1 NAME Sarah /Douglass/
+2 SOUR @8r0fX153SZWQXOlPdnxp@
+3 _APID 1,8978::4478944
+3 PAGE Class: HO107; Piece: 317; Book: 23; Civil Parish: Stockton U
+4 CONC pon Tees; County: Durham; Enumeration District: 1; Folio: 5
+4 CONC ; Page: 5; Line: 6; GSU roll: 241357
+3 OBJE @M64@
+2 SOUR @MLDnHhQZSGGw5BVQo9qM@
+3 _APID 1,9841::63730348
+2 SOUR @S80@
+3 _APID 1,9840::3262826
+2 SOUR @GZJmaUYeSMK4Fd2VWmk7@
+3 _APID 1,9852::27081379
+1 SEX F
+1 FAMS @F33@
+1 BIRT
+2 DATE ABT 1764
+2 PLAC England, UK
+2 SOUR @8r0fX153SZWQXOlPdnxp@
+3 _APID 1,8978::4478944
+3 PAGE Class: HO107; Piece: 317; Book: 23; Civil Parish: Stockton U
+4 CONC pon Tees; County: Durham; Enumeration District: 1; Folio: 5
+4 CONC ; Page: 5; Line: 6; GSU roll: 241357
+3 OBJE @M64@
+2 SOUR @S80@
+3 _APID 1,9840::3262826
+1 RESI
+2 DATE 1841
+2 PLAC Castle Building, Stockton upon Tees, Durham, England, UK
+2 SOUR @8r0fX153SZWQXOlPdnxp@
+3 _APID 1,8978::4478944
+3 PAGE Class: HO107; Piece: 317; Book: 23; Civil Parish: Stockton U
+4 CONC pon Tees; County: Durham; Enumeration District: 1; Folio: 5
+4 CONC ; Page: 5; Line: 6; GSU roll: 241357
+3 OBJE @M64@
+1 BURI
+2 DATE 17 JAN 1851
+2 PLAC Stockton upon Tees, Durham, England, UK
+2 SOUR @S80@
+3 _APID 1,9840::3262826
+1 DEAT
+2 DATE ABT MAR 1851
+2 PLAC Middlesbrough, Yorkshire, England, UK
+2 SOUR @S80@
+3 _APID 1,9840::3262826
 0 @W4pdcIGCSZmd8JedOduR@ INDI
 1 _XY 181983 3856
 1 REFN 560ed73d-9210-465e-9641-b50161c18607
@@ -550,7 +808,7 @@
 4 CONC ll: T624_1423; Page: 12A; Enumeration District: 0170; FHL mi
 4 CONC crofilm: 1375436
 3 OBJE @NOtiDwokQXi1m65EbyOt@
-2 SOUR @g5UbHIcvQmKXO31cZi9v@
+2 SOUR @gEzHretGQ9iAdPxO8HPJ@
 3 _APID 1,6061::30990995
 3 PAGE Year: 1920; Census Place: Triangle, Broome, New York; Roll
 4 CONC : T625_1085; Page: 5B; Enumeration District: 84; Image: 424
@@ -591,7 +849,7 @@
 4 CONC ll: T624_1423; Page: 12A; Enumeration District: 0170; FHL mi
 4 CONC crofilm: 1375436
 3 OBJE @NOtiDwokQXi1m65EbyOt@
-2 SOUR @g5UbHIcvQmKXO31cZi9v@
+2 SOUR @gEzHretGQ9iAdPxO8HPJ@
 3 _APID 1,6061::30990995
 3 PAGE Year: 1920; Census Place: Triangle, Broome, New York; Roll
 4 CONC : T625_1085; Page: 5B; Enumeration District: 84; Image: 424
@@ -649,7 +907,7 @@
 3 MAP
 4 LATI N42.3397
 4 LONG W75.8806
-2 SOUR @g5UbHIcvQmKXO31cZi9v@
+2 SOUR @gEzHretGQ9iAdPxO8HPJ@
 3 _APID 1,6061::30990995
 3 PAGE Year: 1920; Census Place: Triangle, Broome, New York; Roll
 4 CONC : T625_1085; Page: 5B; Enumeration District: 84; Image: 424
@@ -698,7 +956,7 @@
 1 _XY 181754 3760
 1 REFN 95854072-bae6-4beb-851b-73f5e0960296
 1 NAME Lewis /Edminster/
-2 SOUR @PObiOXVGRgCKWE0ue3OS@
+2 SOUR @N62jTQiMTmmRVQc5KCCK@
 1 SEX M
 1 FAMS @WjmbSMpISim4MuXH6gKY@
 1 BIRT
@@ -825,6 +1083,38 @@
 2 PLAC Hope Cemetery, Corning, Steuben, New York, USA
 2 SOUR @PTkUNEaISa61ijB7VnKA@
 3 _APID 1,60525::105603154
+0 @I51@ INDI
+1 _XY 653 1664
+1 REFN cf314538-9f20-4b1c-8888-fd07a9ba5cb1
+1 NAME Elizabeth /Hardy/
+2 SOUR @S79@
+3 QUAY 1
+1 SEX F
+1 FAMS @F34@
+1 OBJE @M65@
+1 BIRT
+2 DATE 1771
+2 PLAC Ayton Banks, Great Ayton, Middlesbrough, North Yorkshire, En
+3 CONC gland, UK
+2 SOUR @S79@
+3 QUAY 1
+1 DEAT
+2 DATE 03 AUG 1834
+2 PLAC Hart, Hartlepool, Durham, England, UK
+2 SOUR @S79@
+3 QUAY 1
+0 @I52@ INDI
+1 _XY 590 811
+1 REFN e3f58cc1-6935-4c12-9c04-7c7f0ac05095
+1 NAME Elizabeth /Harrison/
+2 SOUR @S79@
+3 QUAY 1
+1 SEX F
+1 FAMS @F35@
+1 BIRT
+2 DATE ABT 1635
+2 PLAC Bishop Auckland, Durham, England, UK
+2 SOUR @S79@
 0 @jnoSTucrQgqucWKYBL8O@ INDI
 1 REFN 92ad4118-36fa-4dd3-b167-6214d3146d91
 1 NAME George Elmer /Harrison/
@@ -844,6 +1134,7 @@
 1 DEAT
 2 DATE 1895
 0 @RLBiZk8zQ7GzqZdaLguh@ INDI
+1 _XY 30 2412
 1 REFN 82499566-a27b-42ea-95e9-e8b691c92155
 1 NAME Henry Francis /Harrison/
 1 SEX M
@@ -852,6 +1143,24 @@
 2 DATE 24 MAY 1840
 1 DEAT
 2 DATE 14 JUN 1912
+0 @I53@ INDI
+1 _XY 612 1430
+1 REFN f0e06bf7-0ad3-4918-adbb-661a45a3a2cc
+1 NAME Frances /Hull/
+2 SOUR @S79@
+3 QUAY 1
+1 SEX F
+1 FAMS @F36@
+1 BIRT
+2 DATE 11 NOV 1750
+2 PLAC Chester-le-Street, Durham, England, UK
+2 SOUR @S79@
+3 QUAY 1
+1 DEAT
+2 DATE 29 JUN 1834
+2 PLAC Hart, Hartlepool, Durham, England, UK
+2 SOUR @S79@
+3 QUAY 1
 0 @eqjrwzpxTiyQLvNx06kf@ INDI
 1 _XY 183177 3695
 1 REFN d071f7c3-15c1-469c-91ff-a9b2474c7858
@@ -874,13 +1183,11 @@
 2 SOUR @GZJmaUYeSMK4Fd2VWmk7@
 3 _APID 1,9852::34987084
 1 SEX F
+1 FAMC @F33@
 1 FAMS @SBsOGRdKSbijpGIgiBgo@
 1 BIRT
-2 DATE ABT 1800
-2 PLAC Durham, England
-3 MAP
-4 LATI N54.9248
-4 LONG W1.5757
+2 DATE 03 JUN 1801
+2 PLAC Marton, Middlesbrough, North Yorkshire, England, UK
 2 SOUR @8r0fX153SZWQXOlPdnxp@
 3 _APID 1,8978::4479730
 3 PAGE Class: HO107; Piece: 317; Book: 23; Civil Parish: Stockton U
@@ -889,17 +1196,15 @@
 3 OBJE @fkkFGltLRgGeUuNdFwkz@
 2 SOUR @7kJ3C8C4QFesOwUmgdI4@
 3 QUAY 1
+2 NOTE place is from P. Sidgwick
 1 CENS
 2 DATE 06 JUN 1841
-2 PLAC Brunswick Street, Stockton-on-Tees, Durham, England
+2 PLAC Brunswick Street, Stockton upon Tees, Durham, England, UK
 2 SOUR @7kJ3C8C4QFesOwUmgdI4@
 3 QUAY 3
 1 RESI
 2 DATE 1841
-2 PLAC Stockton-on-Tees, Durham, England
-3 MAP
-4 LATI N54.5833
-4 LONG E1.4167
+2 PLAC Stockton upon Tees, Durham, England, UK
 2 SOUR @8r0fX153SZWQXOlPdnxp@
 3 _APID 1,8978::4479730
 3 PAGE Class: HO107; Piece: 317; Book: 23; Civil Parish: Stockton U
@@ -908,8 +1213,8 @@
 3 OBJE @fkkFGltLRgGeUuNdFwkz@
 1 DEAT
 2 DATE 17 MAY 1845
-2 PLAC Commercial Steet, Middlesbrough, Stockton-on-Tees, Durham, E
-3 CONC ngland
+2 PLAC Commercial Steet, Middlesbrough, Stockton upon Tees, Durham
+3 CONC , England, UK
 2 SOUR @tftkH4FoRDy9YV8UqUaZ@
 3 QUAY 3
 2 SOUR @OeOCLbwlTzu3dQqftwwk@
@@ -923,6 +1228,123 @@
 2 SOUR @GZJmaUYeSMK4Fd2VWmk7@
 3 _APID 1,9852::34987084
 2 NOTE Marital Status: Single
+0 @I54@ INDI
+1 REFN 106384cf-459d-4982-b11d-184a2b077655
+1 NAME Robert /Lister/
+2 SOUR @8r0fX153SZWQXOlPdnxp@
+3 _APID 1,8978::1583282
+3 PAGE Class: HO107; Piece: 317; Book: 27; Civil Parish: Stockton U
+4 CONC pon Tees; County: Durham; Enumeration District: 12; Folio: 3
+4 CONC 3; Page: 30; Line: 5; GSU roll: 241357
+3 OBJE @M66@
+2 SOUR @S81@
+3 _APID 1,8860::14435579
+3 PAGE Class: HO107; Piece: 2383; Folio: 722; Page: 1; GSU roll: 87
+4 CONC 061
+3 OBJE @M67@
+2 SOUR @OeOCLbwlTzu3dQqftwwk@
+3 _APID 1,8914::21087128
+3 OBJE @M68@
+2 SOUR @MLDnHhQZSGGw5BVQo9qM@
+3 _APID 1,9841::63730071
+2 SOUR @S80@
+3 _APID 1,9840::7872730
+1 SEX M
+1 FAMC @F33@
+1 BAPM
+2 DATE 27 MAR 1793
+2 PLAC Egglescliffe, Stockton upon Tees, Durham, England, UK
+2 SOUR @MLDnHhQZSGGw5BVQo9qM@
+3 _APID 1,9841::63730071
+1 BIRT
+2 DATE ABT 1793
+2 PLAC Eaglescliffe, Durham, England, UK
+2 SOUR @8r0fX153SZWQXOlPdnxp@
+3 _APID 1,8978::1583282
+3 PAGE Class: HO107; Piece: 317; Book: 27; Civil Parish: Stockton U
+4 CONC pon Tees; County: Durham; Enumeration District: 12; Folio: 3
+4 CONC 3; Page: 30; Line: 5; GSU roll: 241357
+3 OBJE @M66@
+2 SOUR @S81@
+3 _APID 1,8860::14435579
+3 PAGE Class: HO107; Piece: 2383; Folio: 722; Page: 1; GSU roll: 87
+4 CONC 061
+3 OBJE @M67@
+2 SOUR @S80@
+3 _APID 1,9840::7872730
+1 RESI
+2 DATE 1841
+2 PLAC Stockton upon Tees, Durham, England, UK
+2 SOUR @8r0fX153SZWQXOlPdnxp@
+3 _APID 1,8978::1583282
+3 PAGE Class: HO107; Piece: 317; Book: 27; Civil Parish: Stockton U
+4 CONC pon Tees; County: Durham; Enumeration District: 12; Folio: 3
+4 CONC 3; Page: 30; Line: 5; GSU roll: 241357
+3 OBJE @M66@
+1 RESI
+2 DATE 1851
+2 PLAC Stockton upon Tees, Durham, England, UK
+2 SOUR @S81@
+3 _APID 1,8860::14435579
+3 PAGE Class: HO107; Piece: 2383; Folio: 722; Page: 1; GSU roll: 87
+4 CONC 061
+3 OBJE @M67@
+2 NOTE Relationship: Head
+1 DEAT
+2 DATE JAN 1861
+2 PLAC Stockton upon Tees, Durham, England, UK
+2 SOUR @OeOCLbwlTzu3dQqftwwk@
+3 _APID 1,8914::21087128
+3 OBJE @M68@
+2 SOUR @S80@
+3 _APID 1,9840::7872730
+1 BURI
+2 DATE 06 FEB 1861
+2 PLAC Holy Trinity, Stockton upon Tees, Durham, England, UK
+2 SOUR @S80@
+3 _APID 1,9840::7872730
+0 @I55@ INDI
+1 REFN 82451606-6252-4b43-a4ce-fdf5dfdb3d86
+1 NAME Simon /Lister/
+2 SOUR @8r0fX153SZWQXOlPdnxp@
+3 _APID 1,8978::4478943
+3 PAGE Class: HO107; Piece: 317; Book: 23; Civil Parish: Stockton U
+4 CONC pon Tees; County: Durham; Enumeration District: 1; Folio: 5
+4 CONC ; Page: 5; Line: 5; GSU roll: 241357
+3 OBJE @M64@
+2 SOUR @OeOCLbwlTzu3dQqftwwk@
+3 _APID 1,8914::21088004
+3 OBJE @M69@
+2 SOUR @MLDnHhQZSGGw5BVQo9qM@
+3 _APID 1,9841::63730347
+2 SOUR @GZJmaUYeSMK4Fd2VWmk7@
+3 _APID 1,9852::27081380
+1 SEX M
+1 FAMS @F33@
+1 BIRT
+2 DATE ABT 1763
+2 PLAC England, UK
+2 SOUR @8r0fX153SZWQXOlPdnxp@
+3 _APID 1,8978::4478943
+3 PAGE Class: HO107; Piece: 317; Book: 23; Civil Parish: Stockton U
+4 CONC pon Tees; County: Durham; Enumeration District: 1; Folio: 5
+4 CONC ; Page: 5; Line: 5; GSU roll: 241357
+3 OBJE @M64@
+1 RESI
+2 DATE 1841
+2 PLAC Castle Building, Stockton upon Tees, Durham, England, UK
+2 SOUR @8r0fX153SZWQXOlPdnxp@
+3 _APID 1,8978::4478943
+3 PAGE Class: HO107; Piece: 317; Book: 23; Civil Parish: Stockton U
+4 CONC pon Tees; County: Durham; Enumeration District: 1; Folio: 5
+4 CONC ; Page: 5; Line: 5; GSU roll: 241357
+3 OBJE @M64@
+1 DEAT
+2 DATE ABT NOV 1847
+2 PLAC Stockton upon Tees, Durham, England, UK
+2 SOUR @OeOCLbwlTzu3dQqftwwk@
+3 _APID 1,8914::21088004
+3 OBJE @M69@
 0 @wOdCOhFCRTaQXwucacDH@ INDI
 1 _XY 181851 3856
 1 REFN 65bc05e1-39ad-4e35-86a6-03060ffceae8
@@ -1001,28 +1423,16 @@
 1 FAMS @9lQRIZf6SYK7Y5hx8Llz@
 1 BIRT
 2 DATE OCT 1820
-2 PLAC Cromarty, Cromartyshire, Scotland
-2 SOUR @tagmH3kSS5mNE6mkVQFl@
-3 _APID 1,6742::5174211
-3 PAGE Year: 1880; Census Place: Erwin, Steuben, New York; Roll: 93
-4 CONC 3; Family History Film: 1254933; Page: 219A; Enumeration Dis
-4 CONC trict: 173; Image: 0441
-3 OBJE @xNxl4cTfRbaETAVSHqgQ@
+2 PLAC Cromarty, Ross and Cromarty, Highland, Scotland, UK
 2 SOUR @NDN2XTgxTLmnX7Bgq4LP@
 3 _APID 1,7602::56731112
 3 PAGE Year: 1900; Census Place: Erwin, Steuben, New York; Roll: 11
 4 CONC 63; Page: 6B; Enumeration District: 0082; FHL microfilm: 124
 4 CONC 1163
 3 OBJE @blNQH6aXRTWrpDosAT1j@
-2 SOUR @h7WBKNgwRSOUt2BNNsOI@
-3 _APID 1,7181::1655632241
-3 OBJE @e2itw6lqSXqxQ9OzyjyJ@
-2 SOUR @74P5lXIpRomDQfd5WmFi@
-3 _APID 1,7250::1382752965
-3 OBJE @kWmywm3ESauERQbRJVR3@
-2 SOUR @2W7E32UHQqKiWPSvCYOW@
+2 SOUR @S82@
 3 QUAY 1
-2 NOTE date is from 1860 census
+2 NOTE place is from husband's obituary
 1 RESI
 2 DATE 1855
 2 PLAC Erwin, Steuben, New York, USA
@@ -1103,6 +1513,127 @@
 3 OBJE @blNQH6aXRTWrpDosAT1j@
 2 NOTE Age: 79; Marital Status: Widowed; Relation to Head of House
 3 CONC : Mother
+0 @I56@ INDI
+1 _XY 37 1866
+1 REFN ec70f18a-05ec-4133-9fe5-d78d061aa9b9
+1 NAME [unknown] /Ord/
+1 SEX M
+1 FAMS @F25@
+1 BIRT
+2 DATE ABT 1760
+0 @I57@ INDI
+1 _XY 83 1927
+1 REFN bea11a22-7ed6-4c08-ae7a-8d09f12ff4f1
+1 NAME Hannah /Ord/
+2 SOUR @8r0fX153SZWQXOlPdnxp@
+3 _APID 1,8978::4077000
+3 PAGE Class: HO107; Piece: 315; Book: 17; Civil Parish: Hart; Coun
+4 CONC ty: Durham; Enumeration District: 6a; Folio: 6; Page: 8; Lin
+4 CONC e: 2; GSU roll: 241356
+3 OBJE @M70@
+2 SOUR @S81@
+3 _APID 1,8860::14453571
+3 PAGE Class: HO107; Piece: 2384; Folio: 421; Page: 16; GSU roll: 8
+4 CONC 7062
+3 OBJE @M71@
+2 SOUR @S83@
+3 _APID 1,8767::12361431
+3 PAGE Class: RG 9; Piece: 3704; Folio: 107; Page: 28; GSU roll: 54
+4 CONC 3175
+3 OBJE @M72@
+2 SOUR @N62jTQiMTmmRVQc5KCCK@
+3 PAGE Ancestry Family Tree
+3 DATA
+4 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=60929
+5 CONC 414&pid=13
+2 SOUR @OeOCLbwlTzu3dQqftwwk@
+3 _APID 1,8914::32992838
+3 OBJE @M73@
+2 SOUR @S84@
+3 QUAY 1
+2 SOUR @GZJmaUYeSMK4Fd2VWmk7@
+3 _APID 1,9852::1653089
+1 SEX F
+1 FAMC @F25@
+1 FAMS @F37@
+1 BIRT
+2 DATE 1799
+2 PLAC Hart, Hartlepool, Durham, England, UK
+2 SOUR @8r0fX153SZWQXOlPdnxp@
+3 _APID 1,8978::4077000
+3 PAGE Class: HO107; Piece: 315; Book: 17; Civil Parish: Hart; Coun
+4 CONC ty: Durham; Enumeration District: 6a; Folio: 6; Page: 8; Lin
+4 CONC e: 2; GSU roll: 241356
+3 OBJE @M70@
+2 SOUR @S81@
+3 _APID 1,8860::14453571
+3 PAGE Class: HO107; Piece: 2384; Folio: 421; Page: 16; GSU roll: 8
+4 CONC 7062
+3 OBJE @M71@
+2 SOUR @S83@
+3 _APID 1,8767::12361431
+3 PAGE Class: RG 9; Piece: 3704; Folio: 107; Page: 28; GSU roll: 54
+4 CONC 3175
+3 OBJE @M72@
+2 SOUR @OeOCLbwlTzu3dQqftwwk@
+3 _APID 1,8914::32992838
+3 OBJE @M73@
+2 SOUR @S85@
+3 QUAY 1
+1 CENS
+2 DATE 06 JUN 1841
+2 PLAC Hart, Hartlepool, Durham, England, UK
+2 SOUR @S84@
+3 QUAY 3
+1 RESI
+2 DATE 1841
+2 PLAC Hart, Durham, England, UK
+2 SOUR @8r0fX153SZWQXOlPdnxp@
+3 _APID 1,8978::4077000
+3 PAGE Class: HO107; Piece: 315; Book: 17; Civil Parish: Hart; Coun
+4 CONC ty: Durham; Enumeration District: 6a; Folio: 6; Page: 8; Lin
+4 CONC e: 2; GSU roll: 241356
+3 OBJE @M70@
+1 CENS
+2 DATE 30 MAR 1851
+2 PLAC Northgate, Hartlepool, Hartlepool, Durham, England, UK
+2 SOUR @S85@
+3 QUAY 3
+1 RESI
+2 DATE 1851
+2 PLAC Hartlepool, Durham, England, UK
+2 SOUR @S81@
+3 _APID 1,8860::14453571
+3 PAGE Class: HO107; Piece: 2384; Folio: 421; Page: 16; GSU roll: 8
+4 CONC 7062
+3 OBJE @M71@
+2 NOTE Relationship: Wife
+1 CENS
+2 DATE 07 APR 1861
+2 PLAC Milbank Terrace, Throston, Hartlepool, Durham, England, UK
+2 SOUR @S86@
+3 QUAY 3
+1 RESI
+2 DATE 1861
+2 PLAC Throston, Durham, England
+3 MAP
+4 LATI N54.7
+4 LONG W1.25
+2 SOUR @S83@
+3 _APID 1,8767::12361431
+3 PAGE Class: RG 9; Piece: 3704; Folio: 107; Page: 28; GSU roll: 54
+4 CONC 3175
+3 OBJE @M72@
+2 NOTE Relationship: Wife
+1 DEAT
+2 DATE 14 AUG 1868
+2 PLAC Hart, Hartlepool, Durham, England, UK
+2 SOUR @S79@
+3 QUAY 1
+2 SOUR @OeOCLbwlTzu3dQqftwwk@
+3 _APID 1,8914::32992838
+3 OBJE @M73@
+2 NOTE need to order death cert. from England
 0 @xVTACTXwRVeBYyOibXVl@ INDI
 1 _XY 182242 4017
 1 REFN 04391868-79a3-4392-a577-93b837c53676
@@ -1227,6 +1758,1571 @@
 3 OBJE @8LVfnfmpSXeZbCrHJqfp@
 2 NOTE Age: 65; Marital Status: Married; Relation to Head of House
 3 CONC : Wife
+0 @I58@ INDI
+1 _XY 253 1670
+1 REFN aecb49b8-7ff5-4d98-9154-c1c7dde33e06
+1 NAME Ann /Robinson/
+2 SOUR @S79@
+3 QUAY 1
+1 SEX F
+1 FAMS @F38@
+1 BIRT
+2 DATE ABT 1760
+2 PLAC Hart, Hartlepool, Durham, England, UK
+2 SOUR @S79@
+3 QUAY 1
+0 @I59@ INDI
+1 _XY 247 1292
+1 REFN b01b1343-23be-4e75-8334-217774e7a2e3
+1 NAME Elizabeth /Tayleron/
+2 SOUR @S79@
+3 QUAY 1
+1 SEX F
+1 FAMC @F39@
+1 BIRT
+2 DATE 01 JAN 1711
+2 PLAC Aycliffe, Sedgefield, Durham, England, UK
+2 SOUR @S79@
+3 QUAY 1
+1 DEAT
+2 DATE 13 JAN 1711
+2 SOUR @S79@
+3 QUAY 1
+0 @I60@ INDI
+1 _XY 447 1079
+1 REFN 4cee59ec-3519-4c34-8184-2f4caa7d153a
+1 NAME Abraham /Taylerson/
+2 SOUR @S79@
+3 QUAY 1
+1 SEX M
+1 FAMC @F35@
+1 BIRT
+2 DATE 19 AUG 1678
+2 PLAC Elton, Stockton upon Tees, Durham, England, UK
+2 SOUR @S79@
+3 QUAY 1
+1 DEAT
+2 DATE ABT 1683
+2 SOUR @S79@
+3 QUAY 1
+0 @I61@ INDI
+1 _XY 243 1128
+1 REFN 6efb9436-0877-42a7-8546-f1e981eb40b8
+1 NAME Abraham /Taylerson/
+2 SOUR @S79@
+3 QUAY 1
+1 SEX M
+1 FAMC @F35@
+1 BIRT
+2 DATE 01 APR 1683
+2 PLAC Elton, Stockton upon Tees, Durham, England, UK
+2 SOUR @S79@
+3 QUAY 1
+1 DEAT
+2 DATE 18 SEP 1717
+2 PLAC Aycliffe, Sedgefield, Durham, England, UK
+2 SOUR @S79@
+3 QUAY 1
+0 @I62@ INDI
+1 _XY 633 315
+1 REFN 498d4544-81ad-4746-96be-52f4ab1793bf
+1 NAME Agnes /Taylerson/
+2 SOUR @S79@
+3 QUAY 1
+1 SEX F
+1 FAMC @F24@
+1 BIRT
+2 DATE ABT 23 JUN 1582
+2 PLAC Stainton, Middlesbrough, North Yorkshire, England, UK
+2 SOUR @S79@
+3 QUAY 1
+1 BAPM
+2 DATE 24 JUN 1582
+2 SOUR @S79@
+3 QUAY 1
+0 @I63@ INDI
+1 _XY 389 911
+1 REFN 44094cc3-dda4-492f-ba19-3186751ef1c1
+1 NAME Ann /Taylerson/
+2 SOUR @S79@
+3 QUAY 1
+1 SEX F
+1 FAMC @F27@
+1 BIRT
+2 DATE 1646
+2 PLAC Elton, Stockton upon Tees, Durham, England, UK
+2 SOUR @S79@
+3 QUAY 1
+0 @I64@ INDI
+1 _XY 445 1342
+1 REFN 8d1e5176-3b4f-4a49-818c-fe0197a1921c
+1 NAME Ann /Taylerson/
+2 SOUR @S79@
+3 QUAY 1
+1 SEX F
+1 FAMC @F39@
+1 BIRT
+2 DATE 1718
+2 PLAC Aycliffe, Sedgefield, Durham, England, UK
+2 SOUR @S79@
+3 QUAY 1
+0 @I65@ INDI
+1 _XY 748 1380
+1 REFN 6deb06ba-8a8e-4a20-93ac-5f0a9dcbffe2
+1 NAME Ann /Taylerson/
+2 SOUR @S79@
+3 QUAY 1
+1 SEX F
+1 FAMC @F40@
+1 BIRT
+2 DATE 08 AUG 1728
+2 PLAC Aycliffe, Sedgefield, Durham, England, UK
+2 SOUR @S79@
+3 QUAY 1
+0 @I66@ INDI
+1 _XY 625 1906
+1 REFN 03239d91-d848-478d-b42e-3c8fb7cc56d6
+1 NAME Ann /Taylerson/
+2 SOUR @S79@
+3 QUAY 1
+1 SEX F
+1 FAMC @F34@
+1 BIRT
+2 DATE 1801
+2 PLAC Hart, Hartlepool, Durham, England, UK
+2 SOUR @S79@
+3 QUAY 1
+1 DEAT
+2 DATE ABT 1883
+2 PLAC Sedgefield, Durham, England, UK
+2 SOUR @S79@
+3 QUAY 1
+0 @I67@ INDI
+1 _XY 276 1044
+1 REFN 8f98329c-2999-44d0-a98f-86c7322f6d51
+1 NAME Anne /Taylerson/
+2 SOUR @S79@
+3 QUAY 1
+1 SEX F
+1 FAMC @F35@
+1 BIRT
+2 DATE 22 SEP 1668
+2 PLAC Elton, Stockton upon Tees, Durham, England, UK
+2 SOUR @S79@
+3 QUAY 1
+0 @I68@ INDI
+1 _XY 544 1717
+1 REFN 93007e75-d899-4212-aa5d-a6a27746f209
+1 NAME Anne /Taylerson/
+2 SOUR @S79@
+3 QUAY 1
+1 SEX F
+1 FAMC @F32@
+1 BIRT
+2 DATE 24 JUN 1764
+2 PLAC Aycliffe, Sedgefield, Durham, England, UK
+2 SOUR @S79@
+3 QUAY 1
+0 @I69@ INDI
+1 _XY 544 1770
+1 REFN 66c4b6d5-4216-45d4-a7c1-8c49d6223709
+1 NAME Anne /Taylerson/
+2 SOUR @S79@
+3 QUAY 1
+1 SEX F
+1 FAMC @F32@
+1 BIRT
+2 DATE 26 SEP 1768
+2 PLAC Aycliffe, Sedgefield, Durham, England, UK
+2 SOUR @S79@
+3 QUAY 1
+0 @I70@ INDI
+1 _XY 301 597
+1 REFN a23548b8-05e2-4730-97a5-6852606e449b
+1 NAME Anthony /Taylerson/
+2 SOUR @S79@
+3 QUAY 1
+2 SOUR @MLDnHhQZSGGw5BVQo9qM@
+3 _APID 1,9841::100199535
+1 SEX M
+1 FAMC @F29@
+1 BAPM
+2 DATE 15 MAY 1603
+2 PLAC Egglescliffe, Stockton upon Tees, Durham, England, UK
+2 SOUR @MLDnHhQZSGGw5BVQo9qM@
+3 _APID 1,9841::100199535
+1 BIRT
+2 DATE 1603
+2 PLAC Egglescliffe, Stockton upon Tees, Durham, England, UK
+2 SOUR @S79@
+3 QUAY 1
+1 DEAT
+2 DATE 23 SEP 1604
+2 PLAC Egglescliffe, Stockton upon Tees, Durham, England, UK
+2 SOUR @S79@
+3 QUAY 1
+0 @I71@ INDI
+1 _XY 298 911
+1 REFN 6575c323-885f-4fc2-8912-dda2c3441883
+1 NAME Cecily /Taylerson/
+2 SOUR @S79@
+3 QUAY 1
+2 SOUR @MLDnHhQZSGGw5BVQo9qM@
+3 _APID 1,9841::64086620
+1 SEX F
+1 FAMC @F27@
+1 BIRT
+2 DATE 1644
+2 PLAC Elton, Stockton upon Tees, Durham, England, UK
+2 SOUR @S79@
+3 QUAY 1
+1 BAPM
+2 DATE 25 AUG 1644
+2 PLAC Elton, Stockton upon Tees, Durham, England, UK
+2 SOUR @MLDnHhQZSGGw5BVQo9qM@
+3 _APID 1,9841::64086620
+0 @I72@ INDI
+1 _XY 323 316
+1 REFN 52711ab8-9160-4a24-bda6-24e9eff37226
+1 NAME Cuthbert /Taylerson/
+2 SOUR @S79@
+3 QUAY 1
+1 SEX M
+1 FAMC @F24@
+1 BIRT
+2 DATE ABT 1570
+2 PLAC Egglescliffe, Stockton upon Tees, Durham, England, UK
+2 SOUR @S79@
+3 QUAY 1
+0 @I73@ INDI
+1 _XY 340 1127
+1 REFN 1867df2d-4d96-4175-8ae6-df8566a7066c
+1 NAME Daniel /Taylerson/
+2 SOUR @S79@
+3 QUAY 1
+1 SEX M
+1 FAMC @F35@
+1 BIRT
+2 DATE 15 JAN 1685
+2 PLAC Elton, Stockton upon Tees, Durham, England, UK
+2 SOUR @S79@
+3 QUAY 1
+0 @I74@ INDI
+1 _XY 734 1158
+1 REFN 43cb9608-8493-4747-bfbd-5bfb4e1c04d6
+1 NAME Daniel /Taylerson/
+2 SOUR @S79@
+3 QUAY 1
+1 SEX M
+1 FAMC @F28@
+1 BIRT
+2 DATE 23 FEB 1721
+2 PLAC Aycliffe, Sedgefield, Durham, England, UK
+2 SOUR @S79@
+3 QUAY 1
+0 @I75@ INDI
+1 _XY 357 1770
+1 REFN 64955ead-5f4a-4fff-bafd-7c57fe54fdfd
+1 NAME Daniel /Taylerson/
+2 SOUR @S79@
+3 QUAY 1
+1 SEX M
+1 FAMC @F32@
+1 BIRT
+2 DATE 03 NOV 1765
+2 PLAC Aycliffe, Sedgefield, Durham, England, UK
+2 SOUR @S79@
+3 QUAY 1
+0 @I76@ INDI
+1 _XY 634 1600
+1 REFN 0b3acabd-60be-4340-a0cb-0051ae31c36f
+1 NAME Daniel /Taylerson/
+2 SOUR @S79@
+3 QUAY 1
+1 SEX M
+1 FAMC @F36@
+1 BIRT
+2 DATE 02 APR 1777
+2 PLAC Hart, Hartlepool, Durham, England, UK
+2 SOUR @S79@
+3 QUAY 1
+0 @I77@ INDI
+1 _XY 561 1136
+1 REFN 1915c7f1-4764-4a07-8243-a13bdff92916
+1 NAME David /Taylerson/
+2 SOUR @S79@
+3 QUAY 1
+1 SEX M
+1 FAMC @F35@
+1 FAMS @F28@
+1 FAMS @F39@
+1 FAMS @F40@
+1 BIRT
+2 DATE 15 JAN 1682
+2 PLAC Aycliffe, Sedgefield, Durham, England, UK
+2 SOUR @S79@
+3 QUAY 1
+0 @I78@ INDI
+1 _XY 251 1342
+1 REFN 7fcf3a82-32a3-4601-b9f7-00b434b54ed1
+1 NAME David /Taylerson/
+2 SOUR @S79@
+3 QUAY 1
+1 SEX M
+1 FAMC @F39@
+1 BIRT
+2 DATE 12 JUL 1715
+2 PLAC Aycliffe, Sedgefield, Durham, England, UK
+2 SOUR @S79@
+3 QUAY 1
+0 @I79@ INDI
+1 _XY 358 1664
+1 REFN 627586c9-ee27-4357-8090-59f41aeb0133
+1 NAME David /Taylerson/
+2 SOUR @S79@
+3 QUAY 1
+2 SOUR @MLDnHhQZSGGw5BVQo9qM@
+3 _APID 1,9841::135030320
+1 SEX M
+1 FAMC @F32@
+1 FAMS @F30@
+1 FAMS @F38@
+1 OBJE @M65@
+1 BIRT
+2 DATE 04 APR 1758
+2 PLAC Aycliffe, Sedgefield, Durham, England, UK
+2 SOUR @S79@
+3 QUAY 1
+1 BAPM
+2 DATE 04 APR 1758
+2 PLAC Aycliffe Village, Durham, England, UK
+2 SOUR @MLDnHhQZSGGw5BVQo9qM@
+3 _APID 1,9841::135030320
+1 DEAT
+2 DATE 14 AUG 1834
+2 PLAC Hart, Hartlepool, Durham, England, UK
+2 SOUR @S79@
+3 QUAY 1
+0 @I80@ INDI
+1 _XY 47 2214
+1 REFN 7851c981-28ed-4dd6-9936-82a1327c55b2
+1 NAME David /Taylerson/
+2 SOUR @8r0fX153SZWQXOlPdnxp@
+3 _APID 1,8978::4077003
+3 PAGE Class: HO107; Piece: 315; Book: 17; Civil Parish: Hart; Coun
+4 CONC ty: Durham; Enumeration District: 6a; Folio: 6; Page: 8; Lin
+4 CONC e: 5; GSU roll: 241356
+3 OBJE @M70@
+2 SOUR @S81@
+3 _APID 1,8860::14453572
+3 PAGE Class: HO107; Piece: 2384; Folio: 421; Page: 16; GSU roll: 8
+4 CONC 7062
+3 OBJE @M71@
+2 SOUR @N62jTQiMTmmRVQc5KCCK@
+3 PAGE Ancestry Family Tree
+3 DATA
+4 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=60929
+5 CONC 414&pid=20
+2 SOUR @S84@
+3 QUAY 1
+1 SEX M
+1 FAMC @F37@
+1 BIRT
+2 DATE ABT 31 JUL 1833
+2 PLAC Hart, Hartlepool, Durham, England, UK
+2 SOUR @8r0fX153SZWQXOlPdnxp@
+3 _APID 1,8978::4077003
+3 PAGE Class: HO107; Piece: 315; Book: 17; Civil Parish: Hart; Coun
+4 CONC ty: Durham; Enumeration District: 6a; Folio: 6; Page: 8; Lin
+4 CONC e: 5; GSU roll: 241356
+3 OBJE @M70@
+2 SOUR @S81@
+3 _APID 1,8860::14453572
+3 PAGE Class: HO107; Piece: 2384; Folio: 421; Page: 16; GSU roll: 8
+4 CONC 7062
+3 OBJE @M71@
+1 BAPM
+2 DATE 01 AUG 1833
+2 PLAC Hart, Hartlepool, Durham, England, UK
+2 SOUR @S79@
+3 QUAY 1
+1 RESI
+2 DATE 1841
+2 PLAC Hart, Durham, England, UK
+2 SOUR @8r0fX153SZWQXOlPdnxp@
+3 _APID 1,8978::4077003
+3 PAGE Class: HO107; Piece: 315; Book: 17; Civil Parish: Hart; Coun
+4 CONC ty: Durham; Enumeration District: 6a; Folio: 6; Page: 8; Lin
+4 CONC e: 5; GSU roll: 241356
+3 OBJE @M70@
+1 RESI
+2 DATE 1851
+2 PLAC Hartlepool, Durham, England, UK
+2 SOUR @S81@
+3 _APID 1,8860::14453572
+3 PAGE Class: HO107; Piece: 2384; Folio: 421; Page: 16; GSU roll: 8
+4 CONC 7062
+3 OBJE @M71@
+2 NOTE Relationship: Son
+1 DEAT
+2 DATE 17 DEC 1889
+2 PLAC Durham, England
+3 MAP
+4 LATI N54.9248
+4 LONG W1.5757
+0 @I81@ INDI
+1 _XY 109 598
+1 REFN 3d3bae09-bc68-4e68-ad11-52fbae20ad0a
+1 NAME Elizabeth /Taylerson/
+2 SOUR @S79@
+3 QUAY 1
+2 SOUR @MLDnHhQZSGGw5BVQo9qM@
+3 _APID 1,9841::158580176
+1 SEX F
+1 FAMC @F29@
+1 BIRT
+2 DATE 1596
+2 PLAC Egglescliffe, Stockton upon Tees, Durham, England, UK
+2 SOUR @S79@
+3 QUAY 1
+1 BAPM
+2 DATE 11 JUL 1596
+2 PLAC Egglescliffe, Stockton upon Tees, Durham, England, UK
+2 SOUR @MLDnHhQZSGGw5BVQo9qM@
+3 _APID 1,9841::158580176
+0 @I82@ INDI
+1 _XY 287 813
+1 REFN 59fc5530-2ef7-43e0-8835-caaeb1f1e727
+1 NAME Elizabeth /Taylerson/
+2 SOUR @S79@
+3 QUAY 1
+1 SEX F
+1 FAMC @F27@
+1 BIRT
+2 DATE 1631
+2 PLAC Longnewton, Stockton upon Tees, Durham, England, UK
+2 SOUR @S79@
+3 QUAY 1
+0 @I83@ INDI
+1 _XY 351 1717
+1 REFN a6efaf77-e047-45bf-a639-470e0333b0ab
+1 NAME Elizabeth /Taylerson/
+2 SOUR @S79@
+3 QUAY 1
+1 SEX F
+1 FAMC @F32@
+1 BIRT
+2 DATE 1762
+2 PLAC Aycliffe, Sedgefield, Durham, England, UK
+2 SOUR @S79@
+3 QUAY 1
+0 @I84@ INDI
+1 _XY 519 1955
+1 REFN 1e5d238d-44bb-4227-8e6c-098b7a49f753
+1 NAME Elizabeth /Taylerson/
+2 SOUR @S79@
+3 QUAY 1
+1 SEX F
+1 FAMC @F34@
+1 BIRT
+2 DATE 1809
+2 PLAC Hart, Hartlepool, Durham, England, UK
+2 SOUR @S79@
+3 QUAY 1
+1 DEAT
+2 DATE 1814
+2 SOUR @S79@
+3 QUAY 1
+0 @I85@ INDI
+1 _XY 728 1595
+1 REFN b099a15a-eaf7-4efe-bc49-4403b2b3fb0b
+1 NAME Frances /Taylerson/
+2 SOUR @S79@
+3 QUAY 1
+1 SEX F
+1 FAMC @F36@
+1 BIRT
+2 DATE 31 DEC 1778
+2 PLAC Hart, Hartlepool, Durham, England, UK
+2 SOUR @S79@
+3 QUAY 1
+1 DEAT
+2 DATE 14 MAR 1847
+2 PLAC Hart, Hartlepool, Durham, England, UK
+2 SOUR @S79@
+3 QUAY 1
+0 @I86@ INDI
+1 _XY 33 2263
+1 REFN f4409130-c2cc-4d56-8570-812f30442739
+1 NAME Frances Ann /Taylerson/
+2 SOUR @8r0fX153SZWQXOlPdnxp@
+3 _APID 1,8978::4077005
+3 PAGE Class: HO107; Piece: 315; Book: 17; Civil Parish: Hart; Coun
+4 CONC ty: Durham; Enumeration District: 6a; Folio: 6; Page: 8; Lin
+4 CONC e: 7; GSU roll: 241356
+3 OBJE @M70@
+2 SOUR @S81@
+3 _APID 1,8860::14453573
+3 PAGE Class: HO107; Piece: 2384; Folio: 421; Page: 16; GSU roll: 8
+4 CONC 7062
+3 OBJE @M71@
+2 SOUR @N62jTQiMTmmRVQc5KCCK@
+3 PAGE Ancestry Family Tree
+3 DATA
+4 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=60929
+5 CONC 414&pid=18
+2 SOUR @S85@
+3 QUAY 1
+1 SEX F
+1 FAMC @F37@
+1 BIRT
+2 DATE ABT DEC 1838
+2 PLAC Hart, Hartlepool, Durham, England, UK
+2 SOUR @8r0fX153SZWQXOlPdnxp@
+3 _APID 1,8978::4077005
+3 PAGE Class: HO107; Piece: 315; Book: 17; Civil Parish: Hart; Coun
+4 CONC ty: Durham; Enumeration District: 6a; Folio: 6; Page: 8; Lin
+4 CONC e: 7; GSU roll: 241356
+3 OBJE @M70@
+2 SOUR @S81@
+3 _APID 1,8860::14453573
+3 PAGE Class: HO107; Piece: 2384; Folio: 421; Page: 16; GSU roll: 8
+4 CONC 7062
+3 OBJE @M71@
+1 RESI
+2 DATE 1841
+2 PLAC Hart, Durham, England, UK
+2 SOUR @8r0fX153SZWQXOlPdnxp@
+3 _APID 1,8978::4077005
+3 PAGE Class: HO107; Piece: 315; Book: 17; Civil Parish: Hart; Coun
+4 CONC ty: Durham; Enumeration District: 6a; Folio: 6; Page: 8; Lin
+4 CONC e: 7; GSU roll: 241356
+3 OBJE @M70@
+1 RESI
+2 DATE 1851
+2 PLAC Hartlepool, Durham, England, UK
+2 SOUR @S81@
+3 _APID 1,8860::14453573
+3 PAGE Class: HO107; Piece: 2384; Folio: 421; Page: 16; GSU roll: 8
+4 CONC 7062
+3 OBJE @M71@
+2 NOTE Relationship: Daughter
+0 @I87@ INDI
+1 _XY 36 2115
+1 REFN c6f04ebe-d14b-4c4c-aa47-076291f10610
+1 NAME George Ord /Taylerson/
+2 SOUR @N62jTQiMTmmRVQc5KCCK@
+3 PAGE Ancestry Family Tree
+3 DATA
+4 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=60929
+5 CONC 414&pid=21
+2 SOUR @S79@
+3 QUAY 1
+1 SEX M
+1 FAMC @F37@
+1 BIRT
+2 DATE ABT 11 FEB 1820
+2 PLAC Hart, Hartlepool, Durham, England, UK
+2 SOUR @S79@
+3 QUAY 1
+1 BAPM
+2 DATE 12 FEB 1820
+2 PLAC Hart, Hartlepool, Durham, England, UK
+2 SOUR @S79@
+3 QUAY 1
+1 DEAT
+2 DATE BEF 1823
+0 @I88@ INDI
+1 _XY 133 2163
+1 REFN 368b0ba1-308b-47b3-af52-bbefd6635d58
+1 NAME Hannah /Taylerson/
+2 SOUR @8r0fX153SZWQXOlPdnxp@
+3 _APID 1,8978::4077001
+3 PAGE Class: HO107; Piece: 315; Book: 17; Civil Parish: Hart; Coun
+4 CONC ty: Durham; Enumeration District: 6a; Folio: 6; Page: 8; Lin
+4 CONC e: 3; GSU roll: 241356
+3 OBJE @M70@
+2 SOUR @N62jTQiMTmmRVQc5KCCK@
+3 PAGE Ancestry Family Tree
+3 DATA
+4 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=60929
+5 CONC 414&pid=14
+2 SOUR @S84@
+3 QUAY 1
+1 SEX F
+1 FAMC @F37@
+1 BIRT
+2 DATE 1827
+2 PLAC Bishopwearmouth, Durham, England
+3 MAP
+4 LATI N54.7793
+4 LONG W1.5814
+2 SOUR @8r0fX153SZWQXOlPdnxp@
+3 _APID 1,8978::4077001
+3 PAGE Class: HO107; Piece: 315; Book: 17; Civil Parish: Hart; Coun
+4 CONC ty: Durham; Enumeration District: 6a; Folio: 6; Page: 8; Lin
+4 CONC e: 3; GSU roll: 241356
+3 OBJE @M70@
+2 SOUR @N62jTQiMTmmRVQc5KCCK@
+3 PAGE Ancestry Family Tree
+3 DATA
+4 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=60929
+5 CONC 414&pid=18
+1 RESI
+2 DATE 1841
+2 PLAC Hart, Durham, England, UK
+2 SOUR @8r0fX153SZWQXOlPdnxp@
+3 _APID 1,8978::4077001
+3 PAGE Class: HO107; Piece: 315; Book: 17; Civil Parish: Hart; Coun
+4 CONC ty: Durham; Enumeration District: 6a; Folio: 6; Page: 8; Lin
+4 CONC e: 3; GSU roll: 241356
+3 OBJE @M70@
+1 DEAT
+2 DATE JUL 1903
+2 PLAC Sunderland, Durham, England
+3 MAP
+4 LATI N54.7
+4 LONG W3.2667
+0 @I89@ INDI
+1 _XY 277 1080
+1 REFN bdfcc64f-32ea-4fef-a2a1-947fac4ea79d
+1 NAME Isaac /Taylerson/
+2 SOUR @S79@
+3 QUAY 1
+1 SEX M
+1 FAMC @F35@
+1 BIRT
+2 DATE 21 JUN 1674
+2 PLAC Elton, Stockton upon Tees, Durham, England, UK
+2 SOUR @S79@
+3 QUAY 1
+0 @I90@ INDI
+1 _XY 441 1292
+1 REFN 78742dcd-70fb-4ee2-bf07-fccb2d73b942
+1 NAME Isaac /Taylerson/
+2 SOUR @S79@
+3 QUAY 1
+1 SEX M
+1 FAMC @F39@
+1 BIRT
+2 DATE 05 APR 1714
+2 PLAC Aycliffe, Sedgefield, Durham, England, UK
+2 SOUR @S79@
+3 QUAY 1
+1 DEAT
+2 DATE 14 JAN 1721
+2 SOUR @S79@
+3 QUAY 1
+0 @I91@ INDI
+1 _XY 360 1081
+1 REFN c266b754-58d3-4c6d-af50-a038b35d0439
+1 NAME Jacob /Taylerson/
+2 SOUR @S79@
+3 QUAY 1
+1 SEX M
+1 FAMC @F35@
+1 BIRT
+2 DATE 22 AUG 1676
+2 PLAC Elton, Stockton upon Tees, Durham, England, UK
+2 SOUR @S79@
+3 QUAY 1
+0 @I92@ INDI
+1 _XY 818 1599
+1 REFN 7baf7867-8a35-4597-8d3c-d91864e518df
+1 NAME Jane /Taylerson/
+2 SOUR @S79@
+3 QUAY 1
+1 SEX F
+1 FAMC @F36@
+1 BIRT
+2 DATE 09 SEP 1780
+2 PLAC Hart, Hartlepool, Durham, England, UK
+2 SOUR @S79@
+3 QUAY 1
+0 @I93@ INDI
+1 _XY 332 1927
+1 REFN ea16c486-e4f6-4f8b-ae6d-91d03ce7febc
+1 NAME Jane /Taylerson/
+2 SOUR @S79@
+3 QUAY 1
+1 SEX F
+1 FAMC @F38@
+1 BIRT
+2 DATE 1786
+2 PLAC Hart, Hartlepool, Durham, England, UK
+2 SOUR @S79@
+3 QUAY 1
+0 @I94@ INDI
+1 _XY 135 2214
+1 REFN 740cc42d-d9e9-4ba0-a325-d8be3150285d
+1 NAME Jane /Taylerson/
+2 SOUR @N62jTQiMTmmRVQc5KCCK@
+3 PAGE Ancestry Family Tree
+3 DATA
+4 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=60929
+5 CONC 414&pid=15
+2 SOUR @S79@
+3 QUAY 1
+1 SEX F
+1 FAMC @F37@
+1 BIRT
+2 DATE ABT 11 AUG 1835
+2 PLAC Hart, Hartlepool, Durham, England, UK
+1 BAPM
+2 DATE 12 AUG 1835
+2 PLAC Hart, Hartlepool, Durham, England, UK
+2 SOUR @S79@
+3 QUAY 1
+1 DEAT
+2 DATE 27 JAN 1840
+2 PLAC Hart, Hartlepool, Durham, England, UK
+2 SOUR @S79@
+3 QUAY 1
+0 @I95@ INDI
+1 _XY 262 36
+1 REFN edeb9202-4b06-4304-b121-f740b4821211
+1 NAME John /Taylerson/
+2 SOUR @S79@
+3 QUAY 1
+1 SEX M
+1 FAMS @F24@
+1 BIRT
+2 DATE ABT 1540
+2 PLAC Stainton, Middlesbrough, North Yorkshire, England, UK
+2 SOUR @S79@
+3 QUAY 1
+0 @I96@ INDI
+1 _XY 537 315
+1 REFN 8a028a62-c60a-453e-b0b5-207d86880f80
+1 NAME John /Taylerson/
+2 SOUR @S79@
+3 QUAY 1
+1 SEX M
+1 FAMC @F24@
+1 BIRT
+2 DATE ABT 25 JUN 1575
+2 PLAC Stainton, Middlesbrough, North Yorkshire, England, UK
+2 SOUR @S79@
+3 QUAY 1
+1 BAPM
+2 DATE 26 JUN 1575
+2 SOUR @S79@
+3 QUAY 1
+0 @I97@ INDI
+1 _XY 397 597
+1 REFN 17406db9-b3c1-44d6-be25-1fbd7aa57db7
+1 NAME John /Taylerson/
+2 SOUR @S79@
+3 QUAY 1
+2 SOUR @MLDnHhQZSGGw5BVQo9qM@
+3 _APID 1,9841::64086623
+1 SEX M
+1 FAMC @F29@
+1 FAMS @F27@
+1 BIRT
+2 DATE 1606
+2 PLAC Egglescliffe, Stockton upon Tees, Durham, England, UK
+2 SOUR @S79@
+3 QUAY 1
+0 @I98@ INDI
+1 _XY 491 811
+1 REFN a3267dec-d22c-49db-84d4-32edd23a6e02
+1 NAME John /Taylerson/
+2 SOUR @S79@
+3 QUAY 1
+1 SEX M
+1 FAMC @F27@
+1 FAMS @F35@
+1 BIRT
+2 DATE 1633
+2 PLAC Longnewton, Stockton upon Tees, Durham, England, UK
+2 SOUR @S79@
+3 QUAY 1
+0 @I99@ INDI
+1 _XY 447 1043
+1 REFN d47611bb-3bf7-48b2-9ded-fe4d4700957a
+1 NAME John /Taylerson/
+2 SOUR @S79@
+3 QUAY 1
+1 SEX M
+1 FAMC @F35@
+1 BIRT
+2 DATE 26 MAR 1671
+2 PLAC Elton, Stockton upon Tees, Durham, England, UK
+2 SOUR @S79@
+3 QUAY 1
+0 @I100@ INDI
+1 _XY 345 1292
+1 REFN f87bc277-70f4-4e5c-83e4-122f32028c37
+1 NAME John /Taylerson/
+2 SOUR @S79@
+3 QUAY 1
+1 SEX M
+1 FAMC @F39@
+1 BIRT
+2 DATE 05 JAN 1713
+2 PLAC Aycliffe, Sedgefield, Durham, England, UK
+2 SOUR @S79@
+3 QUAY 1
+1 DEAT
+2 DATE 22 FEB 1713
+2 SOUR @S79@
+3 QUAY 1
+0 @I101@ INDI
+1 _XY 569 1379
+1 REFN f06e293a-9dfa-4a91-9536-5de08a0ba9a8
+1 NAME John /Taylerson/
+2 SOUR @S79@
+3 QUAY 1
+1 SEX M
+1 FAMC @F40@
+1 BIRT
+2 DATE 15 MAR 1725
+2 PLAC Aycliffe, Sedgefield, Durham, England, UK
+2 SOUR @S79@
+3 QUAY 1
+1 DEAT
+2 DATE ABT 1728
+2 SOUR @S79@
+3 QUAY 1
+0 @I102@ INDI
+1 _XY 829 1380
+1 REFN c389d98d-d2c1-4b05-9543-b0c0aca05c74
+1 NAME John /Taylerson/
+2 SOUR @S79@
+3 QUAY 1
+1 SEX M
+1 FAMC @F40@
+1 BIRT
+2 DATE 20 OCT 1729
+2 PLAC Aycliffe, Sedgefield, Durham, England, UK
+2 SOUR @S79@
+3 QUAY 1
+0 @I103@ INDI
+1 _XY 545 1664
+1 REFN 6e13b32b-2bc1-40b8-8042-7214ffa6da90
+1 NAME John /Taylerson/
+2 SOUR @S79@
+3 QUAY 1
+2 SOUR @MLDnHhQZSGGw5BVQo9qM@
+3 _APID 1,9841::34020788
+1 SEX M
+1 FAMC @F32@
+1 FAMS @F34@
+1 BIRT
+2 DATE 14 JAN 1761
+2 PLAC Aycliffe, Sedgefield, Durham, England, UK
+2 SOUR @S79@
+3 QUAY 1
+1 BAPM
+2 DATE 14 JAN 1761
+2 PLAC Aycliffe, Sedgefield, Durham, England, UK
+2 SOUR @MLDnHhQZSGGw5BVQo9qM@
+3 _APID 1,9841::34020788
+1 CENS
+2 DATE 06 JUN 1841
+2 PLAC Hart, Hartlepool, Durham, England, UK
+2 SOUR @S87@
+3 QUAY 3
+1 DEAT
+2 DATE 06 NOV 1848
+2 PLAC Hart, Hartlepool, Durham, England, UK
+2 SOUR @S79@
+3 QUAY 1
+0 @I104@ INDI
+1 _XY 623 1955
+1 REFN b2efe5b5-d88f-4683-b426-731bab6f5aad
+1 NAME John /Taylerson/
+2 SOUR @S79@
+3 QUAY 1
+1 SEX M
+1 FAMC @F34@
+1 BIRT
+2 DATE 1812
+2 PLAC Hart, Hartlepool, Durham, England, UK
+2 SOUR @S79@
+3 QUAY 1
+0 @I105@ INDI
+1 _XY 238 2214
+1 REFN 11e393cf-f7cb-4707-b032-fd6e6152da37
+1 NAME John /Taylerson/
+2 SOUR @8r0fX153SZWQXOlPdnxp@
+3 _APID 1,8978::4077004
+3 PAGE Class: HO107; Piece: 315; Book: 17; Civil Parish: Hart; Coun
+4 CONC ty: Durham; Enumeration District: 6a; Folio: 6; Page: 8; Lin
+4 CONC e: 6; GSU roll: 241356
+3 OBJE @M70@
+2 SOUR @S81@
+3 _APID 1,8860::14453574
+3 PAGE Class: HO107; Piece: 2384; Folio: 421; Page: 16; GSU roll: 8
+4 CONC 7062
+3 OBJE @M71@
+2 SOUR @S83@
+3 _APID 1,8767::12361432
+3 PAGE Class: RG 9; Piece: 3704; Folio: 107; Page: 28; GSU roll: 54
+4 CONC 3175
+3 OBJE @M72@
+2 SOUR @N62jTQiMTmmRVQc5KCCK@
+3 PAGE Ancestry Family Tree
+3 DATA
+4 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=60929
+5 CONC 414&pid=17
+2 SOUR @7kJ3C8C4QFesOwUmgdI4@
+3 QUAY 1
+1 SEX M
+1 FAMC @F37@
+1 BIRT
+2 DATE 1837
+2 PLAC Hart, Hartlepool, Durham, England, UK
+2 SOUR @8r0fX153SZWQXOlPdnxp@
+3 _APID 1,8978::4077004
+3 PAGE Class: HO107; Piece: 315; Book: 17; Civil Parish: Hart; Coun
+4 CONC ty: Durham; Enumeration District: 6a; Folio: 6; Page: 8; Lin
+4 CONC e: 6; GSU roll: 241356
+3 OBJE @M70@
+2 SOUR @S81@
+3 _APID 1,8860::14453574
+3 PAGE Class: HO107; Piece: 2384; Folio: 421; Page: 16; GSU roll: 8
+4 CONC 7062
+3 OBJE @M71@
+2 SOUR @S83@
+3 _APID 1,8767::12361432
+3 PAGE Class: RG 9; Piece: 3704; Folio: 107; Page: 28; GSU roll: 54
+4 CONC 3175
+3 OBJE @M72@
+2 SOUR @S85@
+3 QUAY 1
+1 RESI
+2 DATE 1841
+2 PLAC Hart, Durham, England, UK
+2 SOUR @8r0fX153SZWQXOlPdnxp@
+3 _APID 1,8978::4077004
+3 PAGE Class: HO107; Piece: 315; Book: 17; Civil Parish: Hart; Coun
+4 CONC ty: Durham; Enumeration District: 6a; Folio: 6; Page: 8; Lin
+4 CONC e: 6; GSU roll: 241356
+3 OBJE @M70@
+1 RESI
+2 DATE 1851
+2 PLAC Hartlepool, Durham, England, UK
+2 SOUR @S81@
+3 _APID 1,8860::14453574
+3 PAGE Class: HO107; Piece: 2384; Folio: 421; Page: 16; GSU roll: 8
+4 CONC 7062
+3 OBJE @M71@
+2 NOTE Relationship: Son
+1 RESI
+2 DATE 1861
+2 PLAC Throston, Durham, England
+3 MAP
+4 LATI N54.7
+4 LONG W1.25
+2 SOUR @S83@
+3 _APID 1,8767::12361432
+3 PAGE Class: RG 9; Piece: 3704; Folio: 107; Page: 28; GSU roll: 54
+4 CONC 3175
+3 OBJE @M72@
+2 NOTE Relationship: Son
+1 DEAT
+2 DATE 11 MAR 1865
+2 PLAC Hartlepool, Durham
+2 SOUR @S79@
+3 QUAY 1
+0 @I106@ INDI
+1 _XY 432 1128
+1 REFN db520158-e479-4afd-bc8e-d719487830e7
+1 NAME Jonathan /Taylerson/
+2 SOUR @S79@
+3 QUAY 1
+1 SEX M
+1 FAMC @F35@
+1 BIRT
+2 DATE 1688
+2 PLAC Norton, Stockton upon Tees, Durham, England, UK
+2 SOUR @S79@
+3 QUAY 1
+0 @I107@ INDI
+1 _XY 450 1717
+1 REFN 3b98908e-0ab9-4a8f-8cb5-7a46cd1e9357
+1 NAME Jonathan /Taylerson/
+2 SOUR @S79@
+3 QUAY 1
+1 SEX M
+1 FAMC @F32@
+1 BIRT
+2 DATE 19 APR 1763
+2 PLAC Aycliffe, Sedgefield, Durham, England, UK
+2 SOUR @S79@
+3 QUAY 1
+1 DEAT
+2 DATE 22 JUN 1787
+2 PLAC Hart, Hartlepool, Durham, England, UK
+2 SOUR @S79@
+3 QUAY 1
+0 @PRBlkLKCSUKFRPTlxW7h@ INDI
+1 _XY 226 1927
+1 REFN 0194d49c-c780-45d8-b9ed-c20c1e5124bc
+1 NAME Jonathan /Taylerson/
+2 SOUR @8r0fX153SZWQXOlPdnxp@
+3 _APID 1,8978::4076999
+3 PAGE Class: HO107; Piece: 315; Book: 17; Civil Parish: Hart; Coun
+4 CONC ty: Durham; Enumeration District: 6a; Folio: 6; Page: 8; Lin
+4 CONC e: 1; GSU roll: 241356
+3 OBJE @M70@
+2 SOUR @S81@
+3 _APID 1,8860::14453570
+3 PAGE Class: HO107; Piece: 2384; Folio: 421; Page: 16; GSU roll: 8
+4 CONC 7062
+3 OBJE @M71@
+2 SOUR @S83@
+3 _APID 1,8767::12361430
+3 PAGE Class: RG 9; Piece: 3704; Folio: 107; Page: 28; GSU roll: 54
+4 CONC 3175
+3 OBJE @M72@
+2 SOUR @S88@
+3 _APID 1,7619::16843916
+3 PAGE Class: RG10; Piece: 5024; Folio: 71; Page: 53; GSU roll: 848
+4 CONC 490
+3 OBJE @M74@
+2 SOUR @S79@
+2 SOUR @OeOCLbwlTzu3dQqftwwk@
+3 _APID 1,8914::33251417
+3 OBJE @M75@
+2 SOUR @GZJmaUYeSMK4Fd2VWmk7@
+3 _APID 1,9852::1653088
+2 SOUR @Ok2EiItMTYaIoVo6zEWZ@
+3 QUAY 1
+1 SEX M
+1 FAMC @F38@
+1 FAMS @F37@
+1 FAMS @nnem1nCLTQuG59X3AQKM@
+1 OBJE @M76@
+1 OBJE @M77@
+1 BIRT
+2 DATE 1790
+2 PLAC Sheraton, Durham, England, UK
+2 SOUR @8r0fX153SZWQXOlPdnxp@
+3 _APID 1,8978::4076999
+3 PAGE Class: HO107; Piece: 315; Book: 17; Civil Parish: Hart; Coun
+4 CONC ty: Durham; Enumeration District: 6a; Folio: 6; Page: 8; Lin
+4 CONC e: 1; GSU roll: 241356
+3 OBJE @M70@
+2 SOUR @S81@
+3 _APID 1,8860::14453570
+3 PAGE Class: HO107; Piece: 2384; Folio: 421; Page: 16; GSU roll: 8
+4 CONC 7062
+3 OBJE @M71@
+2 SOUR @S83@
+3 _APID 1,8767::12361430
+3 PAGE Class: RG 9; Piece: 3704; Folio: 107; Page: 28; GSU roll: 54
+4 CONC 3175
+3 OBJE @M72@
+2 SOUR @S88@
+3 _APID 1,7619::16843916
+3 PAGE Class: RG10; Piece: 5024; Folio: 71; Page: 53; GSU roll: 848
+4 CONC 490
+3 OBJE @M74@
+2 SOUR @OeOCLbwlTzu3dQqftwwk@
+3 _APID 1,8914::33251417
+3 OBJE @M75@
+2 SOUR @S85@
+3 QUAY 1
+2 NOTE P. Sidgwick gives place as Monk Hesleden.
+1 CENS
+2 DATE 06 JUN 1841
+2 PLAC Hart, Hartlepool, Durham, England, UK
+2 SOUR @S84@
+3 QUAY 3
+1 RESI
+2 DATE 1841
+2 PLAC Hart, Durham, England, UK
+2 SOUR @8r0fX153SZWQXOlPdnxp@
+3 _APID 1,8978::4076999
+3 PAGE Class: HO107; Piece: 315; Book: 17; Civil Parish: Hart; Coun
+4 CONC ty: Durham; Enumeration District: 6a; Folio: 6; Page: 8; Lin
+4 CONC e: 1; GSU roll: 241356
+3 OBJE @M70@
+1 CENS
+2 DATE 30 MAR 1851
+2 PLAC Northgate, Hartlepool, Hartlepool, Durham, England, UK
+2 SOUR @S85@
+3 QUAY 3
+2 NOTE Assume "North Terrace" is Northgate. Later entry lists Well
+3 CONC s St., which is a short street off of Northgate.
+1 RESI
+2 DATE 1851
+2 PLAC Hartlepool, Durham, England, UK
+2 SOUR @S81@
+3 _APID 1,8860::14453570
+3 PAGE Class: HO107; Piece: 2384; Folio: 421; Page: 16; GSU roll: 8
+4 CONC 7062
+3 OBJE @M71@
+2 NOTE Relationship: Head
+1 CENS
+2 DATE 07 APR 1861
+2 PLAC Milbank Terrace, Throston, Hartlepool, Durham, England, UK
+2 SOUR @S86@
+3 QUAY 3
+1 RESI
+2 DATE 1861
+2 PLAC Throston, Durham, England
+3 MAP
+4 LATI N54.7
+4 LONG W1.25
+2 SOUR @S83@
+3 _APID 1,8767::12361430
+3 PAGE Class: RG 9; Piece: 3704; Folio: 107; Page: 28; GSU roll: 54
+4 CONC 3175
+3 OBJE @M72@
+2 NOTE Relationship: Head
+1 DEAT
+2 DATE 14 JUN 1871
+2 PLAC Durham, England, UK
+2 SOUR @S79@
+3 QUAY 1
+2 SOUR @OeOCLbwlTzu3dQqftwwk@
+3 _APID 1,8914::33251417
+3 OBJE @M75@
+2 NOTE need to order death cert. from England
+1 RESI
+2 DATE 1871
+2 PLAC Monk Wearmouth Shore, Durham, England, UK
+2 SOUR @S88@
+3 _APID 1,7619::16843916
+3 PAGE Class: RG10; Piece: 5024; Folio: 71; Page: 53; GSU roll: 848
+4 CONC 490
+3 OBJE @M74@
+2 NOTE Relationship: Visitor
+1 OCCU farmer
+2 SOUR @Ok2EiItMTYaIoVo6zEWZ@
+3 QUAY 1
+0 @I109@ INDI
+1 _XY 229 2163
+1 REFN 6560b51a-ed20-48c6-98e1-2a0d1eb2664a
+1 NAME Jonathan /Taylerson/
+2 SOUR @8r0fX153SZWQXOlPdnxp@
+3 _APID 1,8978::4077002
+3 PAGE Class: HO107; Piece: 315; Book: 17; Civil Parish: Hart; Coun
+4 CONC ty: Durham; Enumeration District: 6a; Folio: 6; Page: 8; Lin
+4 CONC e: 4; GSU roll: 241356
+3 OBJE @M70@
+2 SOUR @N62jTQiMTmmRVQc5KCCK@
+3 PAGE Ancestry Family Tree
+3 DATA
+4 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=60929
+5 CONC 414&pid=19
+2 SOUR @S84@
+3 QUAY 1
+1 SEX M
+1 FAMC @F37@
+1 BIRT
+2 DATE ABT 1831
+2 PLAC Durham, England, UK
+2 SOUR @8r0fX153SZWQXOlPdnxp@
+3 _APID 1,8978::4077002
+3 PAGE Class: HO107; Piece: 315; Book: 17; Civil Parish: Hart; Coun
+4 CONC ty: Durham; Enumeration District: 6a; Folio: 6; Page: 8; Lin
+4 CONC e: 4; GSU roll: 241356
+3 OBJE @M70@
+2 SOUR @S84@
+3 QUAY 1
+1 RESI
+2 DATE 1841
+2 PLAC Hart, Durham, England, UK
+2 SOUR @8r0fX153SZWQXOlPdnxp@
+3 _APID 1,8978::4077002
+3 PAGE Class: HO107; Piece: 315; Book: 17; Civil Parish: Hart; Coun
+4 CONC ty: Durham; Enumeration District: 6a; Folio: 6; Page: 8; Lin
+4 CONC e: 4; GSU roll: 241356
+3 OBJE @M70@
+1 DEAT
+2 DATE 26 DEC 1864
+2 PLAC Monkwearmouth Shore, Sunderland, Durham, England
+0 @I110@ INDI
+1 _XY 358 1043
+1 REFN a6ade635-8ca5-4b29-9c08-b412f01a69e0
+1 NAME Joseph /Taylerson/
+2 SOUR @S79@
+3 QUAY 1
+1 SEX M
+1 FAMC @F35@
+1 BIRT
+2 DATE 04 APR 1670
+2 PLAC Elton, Stockton upon Tees, Durham, England, UK
+2 SOUR @S79@
+3 QUAY 1
+0 @I111@ INDI
+1 _XY 544 1600
+1 REFN a0998051-3276-4ac7-b3b2-d53b6ff20ddf
+1 NAME Joseph /Taylerson/
+2 SOUR @S79@
+3 QUAY 1
+1 SEX M
+1 FAMC @F36@
+1 BIRT
+2 DATE 04 JAN 1775
+2 PLAC Hart, Hartlepool, Durham, England, UK
+2 SOUR @S79@
+3 QUAY 1
+0 @I112@ INDI
+1 _XY 387 867
+1 REFN 556e29c0-0ab8-4129-837d-a9ebf992b005
+1 NAME Margaret /Taylerson/
+2 SOUR @S79@
+3 QUAY 1
+2 SOUR @MLDnHhQZSGGw5BVQo9qM@
+3 _APID 1,9841::14109692
+1 SEX F
+1 FAMC @F27@
+1 BAPM
+2 DATE 01 JAN 1639
+2 PLAC Longnewton, Stockton upon Tees, Durham, England, UK
+2 SOUR @MLDnHhQZSGGw5BVQo9qM@
+3 _APID 1,9841::14109692
+1 BIRT
+2 DATE 1639
+2 PLAC Longnewton, Stockton upon Tees, Durham, England, UK
+2 SOUR @S79@
+3 QUAY 1
+0 @I113@ INDI
+1 _XY 339 1342
+1 REFN bfda2955-bac9-454c-80ad-52d0d137f705
+1 NAME Margaret /Taylerson/
+2 SOUR @S79@
+3 QUAY 1
+1 SEX F
+1 FAMC @F39@
+1 BIRT
+2 DATE 04 OCT 1716
+2 PLAC Aycliffe, Sedgefield, Durham, England, UK
+2 SOUR @S79@
+3 QUAY 1
+0 @I114@ INDI
+1 _XY 519 1906
+1 REFN dd21ea75-124c-4664-a36f-5ea9b3cb9bb3
+1 NAME Margaret /Taylerson/
+2 SOUR @S79@
+3 QUAY 1
+1 SEX F
+1 FAMC @F34@
+1 BIRT
+2 DATE 1799
+2 PLAC Hart, Hartlepool, Durham, England, UK
+2 SOUR @S79@
+3 QUAY 1
+1 DEAT
+2 DATE 22 JAN 1844
+2 PLAC Hart, Hartlepool, Durham, England, UK
+2 SOUR @S79@
+3 QUAY 1
+0 @I115@ INDI
+1 _XY 303 756
+1 REFN 079f2ec5-2238-48c2-b96f-c5aba7d1664f
+1 NAME Mary /Taylerson/
+2 SOUR @S79@
+3 QUAY 1
+1 SEX F
+1 FAMC @F27@
+1 BIRT
+2 DATE 1628
+2 PLAC Egglescliffe, Stockton upon Tees, Durham, England, UK
+2 SOUR @S79@
+3 QUAY 1
+1 DEAT
+2 DATE 1628
+2 SOUR @S79@
+3 QUAY 1
+0 @I116@ INDI
+1 _XY 485 756
+1 REFN 7528a192-f842-402d-a03e-2bd81cbe3a75
+1 NAME Mary /Taylerson/
+2 SOUR @S79@
+3 QUAY 1
+1 SEX F
+1 FAMC @F27@
+1 BIRT
+2 DATE 1629
+2 PLAC Egglescliffe, Stockton upon Tees, Durham, England, UK
+2 SOUR @S79@
+3 QUAY 1
+0 @I117@ INDI
+1 _XY 488 866
+1 REFN d1fe4a94-84c9-47a5-be7f-02294c807c37
+1 NAME Mary /Taylerson/
+2 SOUR @S79@
+3 QUAY 1
+1 SEX F
+1 FAMC @F27@
+1 BIRT
+2 DATE 1641
+2 PLAC Elton, Stockton upon Tees, Durham, England, UK
+2 SOUR @S79@
+3 QUAY 1
+0 @I118@ INDI
+1 _XY 524 1042
+1 REFN 3144b503-29a4-4a4d-b23e-3d5c34f7ee7e
+1 NAME Mary /Taylerson/
+2 SOUR @S79@
+3 QUAY 1
+1 SEX F
+1 FAMC @F35@
+1 BIRT
+2 DATE 26 MAR 1671
+2 PLAC Elton, Stockton upon Tees, Durham, England, UK
+2 SOUR @S79@
+3 QUAY 1
+0 @I119@ INDI
+1 _XY 666 1379
+1 REFN 4dc1dad5-af01-4068-ba58-0093bb471a67
+1 NAME Mary /Taylerson/
+2 SOUR @S79@
+3 QUAY 1
+1 SEX F
+1 FAMC @F40@
+1 BIRT
+2 DATE 13 OCT 1726
+2 PLAC Aycliffe, Sedgefield, Durham, England, UK
+2 SOUR @S79@
+3 QUAY 1
+0 @I120@ INDI
+1 _XY 992 1598
+1 REFN 4fdd6fe4-6f91-4d51-8a6e-b0dd07bc9ead
+1 NAME Mary /Taylerson/
+2 SOUR @S79@
+3 QUAY 1
+1 SEX F
+1 FAMC @F36@
+1 BIRT
+2 DATE 02 SEP 1786
+2 PLAC Hart, Hartlepool, Durham, England, UK
+2 SOUR @S79@
+3 QUAY 1
+0 @I121@ INDI
+1 _XY 712 1906
+1 REFN 7671e8f5-ff20-4b01-8160-bf7aeb292917
+1 NAME Mary /Taylerson/
+2 SOUR @S79@
+3 QUAY 1
+1 SEX F
+1 FAMC @F34@
+1 BIRT
+2 DATE 19 FEB 1802
+2 PLAC Hart, Hartlepool, Durham, England, UK
+2 SOUR @S79@
+3 QUAY 1
+1 DEAT
+2 DATE 29 MAR 1835
+2 PLAC Hart, Hartlepool, Durham, England, UK
+2 SOUR @S79@
+3 QUAY 1
+0 @I122@ INDI
+1 _XY 506 1430
+1 REFN 9d9f09ea-4ab9-433a-a80f-dc9e3fcebf41
+1 NAME Robert /Taylerson/
+2 SOUR @S79@
+3 QUAY 1
+2 SOUR @MLDnHhQZSGGw5BVQo9qM@
+3 _APID 1,9841::135030321
+3 PAGE baptism of child David Taylerson, 4 Apr 1758
+2 SOUR @MLDnHhQZSGGw5BVQo9qM@
+3 _APID 1,9841::34020789
+3 PAGE baptism of child John Taylerson, 14 Jan 1761
+2 SOUR @S89@
+3 _APID 1,70699::1620985
+1 SEX M
+1 FAMC @F40@
+1 FAMS @F32@
+1 FAMS @F36@
+1 BIRT
+2 DATE 13 AUG 1723
+2 PLAC Aycliffe, Sedgefield, Durham, England, UK
+2 SOUR @S79@
+3 QUAY 1
+1 DEAT
+2 DATE 10 OCT 1789
+2 PLAC Hart, Hartlepool, Durham, England, UK
+2 SOUR @S79@
+3 QUAY 1
+2 SOUR @S89@
+3 _APID 1,70699::1620985
+1 BURI
+2 PLAC Saint Mary Magdalene Churchyard, Hart, Hartlepool, Durham, E
+3 CONC ngland, UK
+2 SOUR @S89@
+3 _APID 1,70699::1620985
+0 @I123@ INDI
+1 _XY 455 1664
+1 REFN b5545ea8-d26b-42fb-a860-4bfaa98944c6
+1 NAME Robert /Taylerson/
+2 SOUR @S79@
+3 QUAY 1
+1 SEX M
+1 FAMC @F32@
+1 DEAT
+2 DATE 27 JUN 1750
+2 PLAC Hart, Hartlepool, Durham, England, UK
+2 SOUR @S79@
+3 QUAY 1
+1 BIRT
+2 DATE 1759
+2 PLAC Aycliffe, Sedgefield, Durham, England, UK
+2 SOUR @S79@
+3 QUAY 1
+0 @I124@ INDI
+1 _XY 211 316
+1 REFN a65ed18d-ebf5-432e-a86a-48559d79222c
+1 NAME Rowland /Taylerson/
+2 SOUR @S79@
+3 QUAY 1
+2 SOUR @MLDnHhQZSGGw5BVQo9qM@
+3 _APID 1,9841::158580177
+1 SEX M
+1 FAMC @F24@
+1 FAMS @F29@
+1 NOTE _UID a65ed18d-ebf5-432e-a86a-48559d79222c
+1 BIRT
+2 DATE ABT 1570
+2 PLAC North Yorkshire, England, UK
+2 SOUR @S79@
+3 QUAY 1
+0 @I125@ INDI
+1 _XY 386 756
+1 REFN d1b3efa5-50d9-467a-bb6f-6daf4b10259a
+1 NAME Rowland /Taylerson/
+2 SOUR @S79@
+3 QUAY 1
+2 SOUR @MLDnHhQZSGGw5BVQo9qM@
+3 _APID 1,9841::20738976
+1 SEX M
+1 FAMC @F27@
+1 NOTE _UID d1b3efa5-50d9-467a-bb6f-6daf4b10259a
+1 BIRT
+2 DATE 1629
+2 PLAC Egglescliffe, Stockton upon Tees, Durham, England, UK
+2 SOUR @S79@
+3 QUAY 1
+1 BAPM
+2 DATE 03 DEC 1629
+2 PLAC Egglescliffe, Stockton upon Tees, Durham, England, UK
+2 SOUR @MLDnHhQZSGGw5BVQo9qM@
+3 _APID 1,9841::20738976
+0 @I126@ INDI
+1 _XY 209 598
+1 REFN 6f2cfe22-bb95-490a-8542-e14871307789
+1 NAME Thomas /Taylerson/
+2 SOUR @S79@
+3 QUAY 1
+1 SEX M
+1 FAMC @F29@
+1 BIRT
+2 DATE 1600
+2 PLAC Egglescliffe, Stockton upon Tees, Durham, England, UK
+2 SOUR @S79@
+3 QUAY 1
+0 @I127@ INDI
+1 _XY 434 315
+1 REFN bb6183f4-c00b-4c26-b4dd-93610d72972f
+1 NAME William /Taylerson/
+2 SOUR @S79@
+3 QUAY 1
+1 SEX M
+1 FAMC @F24@
+1 BIRT
+2 DATE ABT 1570
+2 PLAC Egglescliffe, Stockton upon Tees, Durham, England, UK
+2 SOUR @S79@
+3 QUAY 1
+0 @I128@ INDI
+1 _XY 385 810
+1 REFN e0812599-908a-42b8-a7e1-b26a39e23fe9
+1 NAME William /Taylerson/
+2 SOUR @S79@
+3 QUAY 1
+1 SEX M
+1 FAMC @F27@
+1 BIRT
+2 DATE 1632
+2 PLAC Longnewton, Stockton upon Tees, Durham, England, UK
+2 SOUR @S79@
+3 QUAY 1
+1 DEAT
+2 DATE ABT 1637
+2 SOUR @S79@
+3 QUAY 1
+0 @I129@ INDI
+1 _XY 293 866
+1 REFN 23ddd9fe-5b39-474d-890c-c7e79a3c1fda
+1 NAME William /Taylerson/
+2 SOUR @S79@
+3 QUAY 1
+1 SEX M
+1 FAMC @F27@
+1 BIRT
+2 DATE 1637
+2 PLAC Longnewton, Stockton upon Tees, Durham, England, UK
+2 SOUR @S79@
+3 QUAY 1
+0 @I130@ INDI
+1 _XY 30 1516
+1 REFN 7538b2d1-3448-4c16-89de-36a1b7e9a239
+1 NAME William /Taylerson/
+2 SOUR @S79@
+3 QUAY 1
+1 SEX M
+1 FAMC @F31@
+1 BIRT
+2 DATE 10 FEB 1741
+2 PLAC Easington, Durham, England, UK
+2 SOUR @S79@
+3 QUAY 1
+0 @I131@ INDI
+1 _XY 454 1770
+1 REFN 7804d396-94eb-495d-8566-b63541088bab
+1 NAME William /Taylerson/
+2 SOUR @S79@
+3 QUAY 1
+1 SEX M
+1 FAMC @F32@
+1 BIRT
+2 DATE 29 MAY 1767
+2 PLAC Aycliffe, Sedgefield, Durham, England, UK
+2 SOUR @S79@
+3 QUAY 1
+0 @I132@ INDI
+1 _XY 901 1598
+1 REFN 30dac700-09e1-456c-9122-7985e7f8f559
+1 NAME William /Taylerson/
+2 SOUR @S79@
+3 QUAY 1
+1 SEX M
+1 FAMC @F36@
+1 BIRT
+2 DATE 08 AUG 1783
+2 PLAC Hart, Hartlepool, Durham, England, UK
+2 SOUR @S79@
+3 QUAY 1
+0 @I133@ INDI
+1 _XY 44 2163
+1 REFN 7430c7c5-e1a5-4fc5-a944-b39339e3af7f
+1 NAME William /Taylerson/
+2 SOUR @N62jTQiMTmmRVQc5KCCK@
+3 PAGE Ancestry Family Tree
+3 DATA
+4 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=60929
+5 CONC 414&pid=16
+2 SOUR @S79@
+3 QUAY 1
+1 SEX M
+1 FAMC @F37@
+1 BIRT
+2 DATE ABT 1827
+2 PLAC Whitburn, South Tyneside, Tyne and Wear, England, UK
+2 SOUR @S79@
+3 QUAY 1
+1 DEAT
+2 DATE ABT 1876
+2 PLAC Faversham, Swale, Kent, England, UK
+2 SOUR @S79@
+3 QUAY 1
 0 @YhiPH712RKmaIbDrXHIj@ INDI
 1 _XY 182295 3850
 1 REFN 209acc3f-c7bc-4b91-bf43-92cd7b1994ea
@@ -1316,7 +3412,7 @@
 2 NOTE place is from 1841 England census
 1 BAPM
 2 DATE 05 SEP 1824
-2 PLAC St. Thomas', Stockton-on-Tees, Durham, England
+2 PLAC Saint Thomas, Stockton upon Tees, Durham, England, UK
 2 SOUR @MLDnHhQZSGGw5BVQo9qM@
 3 _APID 1,9841::44353561
 1 CENS
@@ -1497,25 +3593,16 @@
 3 _APID 1,9841::20268137
 1 SEX F
 1 FAMC @SBsOGRdKSbijpGIgiBgo@
-1 BIRT
-2 DATE ABT 1826
-2 PLAC Durham, England
-3 MAP
-4 LATI N54.9248
-4 LONG W1.5757
-2 SOUR @8r0fX153SZWQXOlPdnxp@
-3 _APID 1,8978::4479732
-3 PAGE Class: HO107; Piece: 317; Book: 23; Civil Parish: Stockton U
-4 CONC pon Tees; County: Durham; Enumeration District: 2; Folio: 27
-4 CONC ; Page: 22; Line: 19; GSU roll: 241357
-3 OBJE @fkkFGltLRgGeUuNdFwkz@
-2 SOUR @7kJ3C8C4QFesOwUmgdI4@
-3 QUAY 1
 1 BAPM
 2 DATE 16 JUL 1826
 2 PLAC Saint Thomas' Church, Stockton-on-Tees, Durham, England
 2 SOUR @MLDnHhQZSGGw5BVQo9qM@
 3 _APID 1,9841::20268137
+1 BIRT
+2 DATE 16 JUL 1826
+2 PLAC Stockton upon Tees, Durham, England, UK
+2 SOUR @S79@
+3 QUAY 1
 1 RESI
 2 DATE 1841
 2 PLAC Stockton-on-Tees, Durham, England
@@ -1545,21 +3632,15 @@
 1 SEX F
 1 FAMC @SBsOGRdKSbijpGIgiBgo@
 1 BIRT
-2 DATE ABT 1834
-2 PLAC Durham, England
-3 MAP
-4 LATI N54.9248
-4 LONG W1.5757
-2 SOUR @8r0fX153SZWQXOlPdnxp@
-3 _APID 1,8978::4479736
-3 PAGE Class: HO107; Piece: 317; Book: 23; Civil Parish: Stockton U
-4 CONC pon Tees; County: Durham; Enumeration District: 2; Folio: 27
-4 CONC ; Page: 22; Line: 23; GSU roll: 241357
-3 OBJE @fkkFGltLRgGeUuNdFwkz@
-2 SOUR @7kJ3C8C4QFesOwUmgdI4@
+2 DATE 06 JUL 1834
+2 PLAC Stockton upon Tees, Durham, England, UK
+2 SOUR @S79@
 3 QUAY 1
-2 SOUR @XGGvH505QiGDGXaNUUub@
-3 _APID 1,5969::564782
+1 BAPM
+2 DATE 06 JUL 1834
+2 PLAC Saint Thomas, Stockton upon Tees, Durham, England, UK
+2 SOUR @MLDnHhQZSGGw5BVQo9qM@
+3 _APID 1,9841::82700338
 1 RESI
 2 DATE 1841
 2 PLAC Stockton-on-Tees, Durham, England
@@ -1597,11 +3678,8 @@
 1 SEX F
 1 FAMC @SBsOGRdKSbijpGIgiBgo@
 1 BIRT
-2 DATE ABT 1832
-2 PLAC Durham, England
-3 MAP
-4 LATI N54.9248
-4 LONG W1.5757
+2 DATE ABT JUL 1832
+2 PLAC Stockton upon Tees, Durham, England, UK
 2 SOUR @8r0fX153SZWQXOlPdnxp@
 3 _APID 1,8978::4479735
 3 PAGE Class: HO107; Piece: 317; Book: 23; Civil Parish: Stockton U
@@ -1609,9 +3687,8 @@
 4 CONC ; Page: 22; Line: 22; GSU roll: 241357
 3 OBJE @fkkFGltLRgGeUuNdFwkz@
 2 SOUR @7kJ3C8C4QFesOwUmgdI4@
-3 QUAY 1
-2 SOUR @XGGvH505QiGDGXaNUUub@
-3 _APID 1,5969::564783
+2 SOUR @MLDnHhQZSGGw5BVQo9qM@
+3 _APID 1,9841::144940117
 1 BAPM
 2 DATE 03 AUG 1832
 2 PLAC Saint Thomas' Church, Stockton-on-Tees, Durham, England
@@ -1629,6 +3706,7 @@
 4 CONC pon Tees; County: Durham; Enumeration District: 2; Folio: 27
 4 CONC ; Page: 22; Line: 22; GSU roll: 241357
 3 OBJE @fkkFGltLRgGeUuNdFwkz@
+2 SOUR @7kJ3C8C4QFesOwUmgdI4@
 1 EVEN
 2 TYPE Arrival
 2 DATE 05 JUL 1849
@@ -1684,6 +3762,11 @@
 3 DATA
 4 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=62861
 5 CONC &pid=535
+2 SOUR @N62jTQiMTmmRVQc5KCCK@
+3 PAGE Ancestry Family Tree
+3 DATA
+4 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=60929
+5 CONC 414&pid=26
 2 SOUR @g1kvijD7QFuspa8K7nFd@
 3 _APID 1,8912::54486335
 3 OBJE @0kjuZ5g4SAO42LgBAmTw@
@@ -1706,7 +3789,7 @@
 1 FAMS @x0FfmvNVTaardWNmUxSB@
 1 BIRT
 2 DATE 05 JAN 1848
-2 PLAC Victoria Place, Hartlepool, Durham, England
+2 PLAC Victoria Place, Hartlepool, Durham, England, UK
 2 SOUR @JkzVLCTZRve6xkWeiQJy@
 3 _APID 1,8054::8446448
 3 PAGE Year: 1850; Census Place: Painted Post, Steuben, New York; R
@@ -1724,46 +3807,8 @@
 4 CONC : M593_1095; Page: 49A; Image: 102; Family History Library F
 4 CONC ilm: 552594
 3 OBJE @pmMZwiYLSwS64UMhv6PB@
-2 SOUR @tagmH3kSS5mNE6mkVQFl@
-3 _APID 1,6742::1594081
-3 PAGE Year: 1880; Census Place: Buffalo, Erie, New York; Roll: 828
-4 CONC ; Family History Film: 1254828; Page: 35B; Enumeration Distr
-4 CONC ict: 120; Image: 0426
-3 OBJE @b5CvY48XSSOaRlEiT0q5@
-2 SOUR @NDN2XTgxTLmnX7Bgq4LP@
-3 _APID 1,7602::18439145
-3 PAGE Year: 1900; Census Place: Olean, Cattaraugus, New York; Roll
-4 CONC : 1011; Page: 4A; Enumeration District: 0056; FHL microfilm
-4 CONC : 1241011
-3 OBJE @nUHy1YBHRXSE4eLmMUJo@
-2 SOUR @c4Kpe8hwRqSW5hMTvu1S@
-3 _APID 1,7884::17076312
-3 PAGE Year: 1910; Census Place: Olean Ward 3, Cattaraugus, New Yor
-4 CONC k; Roll: T624_927; Page: 7A; Enumeration District: 0078; FH
-4 CONC L microfilm: 1374940
-3 OBJE @RIbmdKWERFWQyvHXdKyl@
-2 SOUR @gEzHretGQ9iAdPxO8HPJ@
-3 _APID 1,6061::81631796
-3 PAGE Year: 1920; Census Place: Olean Ward 3, Cattaraugus, New Yor
-4 CONC k
-3 OBJE @ski6SX2XRdSwVekHG1fj@
 2 SOUR @amQ48G9oSLGJYInGx0OC@
 3 QUAY 3
-2 SOUR @g1kvijD7QFuspa8K7nFd@
-3 _APID 1,8912::54486335
-3 OBJE @0kjuZ5g4SAO42LgBAmTw@
-2 SOUR @lfO2pboiTVupZdmq8c8n@
-3 _APID 1,8842::3261842
-3 OBJE @jJJVXiNLTJOtnFzmfuE6@
-2 SOUR @XGGvH505QiGDGXaNUUub@
-3 _APID 1,5969::564784
-2 SOUR @h7WBKNgwRSOUt2BNNsOI@
-3 _APID 1,7181::1655634891
-3 OBJE @YYd8YtQCTaO3vcc9rJqb@
-2 SOUR @2bg2kSXxR9G5oJVTCXgV@
-3 _APID 1,7218::728637
-3 OBJE @zDWuPkvNQy6AqcVvTWKS@
-2 SOUR @v9lVJ9JWSlCCClNlNzyE@
 1 EVEN
 2 TYPE Arrival
 2 DATE 1848
@@ -2196,6 +4241,7 @@
 1 FAMS @qtAzdYXQTPuUIVc7IQWS@
 1 BIRT
 2 DATE JUN 1863
+2 DATE ABT 1863
 2 PLAC Corning, Steuben, New York, USA
 3 MAP
 4 LATI N42.1429
@@ -2221,6 +4267,8 @@
 2 SOUR @2WoDCiydQiS8tg1JkJWc@
 3 QUAY 1
 2 SOUR @WjJ6YPanRKegWyl1IRoB@
+2 SOUR @WjJ6YPanRKegWyl1IRoB@
+3 QUAY 1
 2 NOTE Believe she is listed in 1900 census as "Lizzie H Edminster
 3 CONC " in Conklin, Broome, NY.
 1 RESI
@@ -2293,21 +4341,10 @@
 1 SEX F
 1 FAMC @SBsOGRdKSbijpGIgiBgo@
 1 BIRT
-2 DATE ABT 1830
-2 PLAC Durham, England
-3 MAP
-4 LATI N54.9248
-4 LONG W1.5757
-2 SOUR @8r0fX153SZWQXOlPdnxp@
-3 _APID 1,8978::4479734
-3 PAGE Class: HO107; Piece: 317; Book: 23; Civil Parish: Stockton U
-4 CONC pon Tees; County: Durham; Enumeration District: 2; Folio: 27
-4 CONC ; Page: 22; Line: 21; GSU roll: 241357
-3 OBJE @fkkFGltLRgGeUuNdFwkz@
-2 SOUR @7kJ3C8C4QFesOwUmgdI4@
+2 DATE 04 NOV 1829
+2 PLAC Stockton upon Tees, Durham, England, UK
+2 SOUR @S79@
 3 QUAY 1
-2 SOUR @XGGvH505QiGDGXaNUUub@
-3 _APID 1,5969::564785
 1 RESI
 2 DATE 1841
 2 PLAC Stockton-on-Tees, Durham, England
@@ -2326,8 +4363,24 @@
 2 PLAC USA
 2 SOUR @XGGvH505QiGDGXaNUUub@
 3 _APID 1,5969::564785
+0 @I134@ INDI
+1 _XY 815 2115
+1 REFN 219ec0a8-0093-4917-8b76-516e336317cf
+1 NAME Jane /Taylorson/
+2 SOUR @S79@
+3 QUAY 1
+1 SEX F
+1 FAMC @SBsOGRdKSbijpGIgiBgo@
+1 BIRT
+2 DATE 17 AUG 1831
+2 PLAC Stockton upon Tees, Durham, England, UK
+2 SOUR @S79@
+3 QUAY 1
+1 DEAT
+2 DATE 1840
+2 PLAC Stockton upon Tees, Durham, England, UK
 0 @Lmx965BAQlylTqGWwUO8@ INDI
-1 _XY 182831 4011
+1 _XY 364 2400
 1 REFN 08cef02e-a7f7-46f4-8569-7582cd71b1dd
 1 NAME Jessie /Taylorson/
 2 SOUR @jmFGuFh1RiicUCdCiNYx@
@@ -2336,6 +4389,11 @@
 4 CONC : M653_863; Page: 217; Image: 222; Family History Library Fi
 4 CONC lm: 803863
 3 OBJE @8Lh2FaDrRvS7dppiyXOL@
+2 SOUR @VqbyczWoTAunjNaTg1gt@
+3 _APID 1,7163::32326422
+3 PAGE Year: 1870; Census Place: Corning, Steuben, New York; Roll
+4 CONC : M593_1095; Page: 49A; Family History Library Film: 552594
+3 OBJE @M82@
 2 SOUR @tagmH3kSS5mNE6mkVQFl@
 3 _APID 1,6742::5159176
 3 PAGE Year: 1880; Census Place: Corning, Steuben, New York; Roll
@@ -2382,6 +4440,11 @@
 4 CONC : M653_863; Page: 217; Image: 222; Family History Library Fi
 4 CONC lm: 803863
 3 OBJE @8Lh2FaDrRvS7dppiyXOL@
+2 SOUR @VqbyczWoTAunjNaTg1gt@
+3 _APID 1,7163::32326422
+3 PAGE Year: 1870; Census Place: Corning, Steuben, New York; Roll
+4 CONC : M593_1095; Page: 49A; Family History Library Film: 552594
+3 OBJE @M82@
 2 SOUR @tagmH3kSS5mNE6mkVQFl@
 3 _APID 1,6742::5159176
 3 PAGE Year: 1880; Census Place: Corning, Steuben, New York; Roll
@@ -2428,6 +4491,17 @@
 3 _APID 1,7218::728640
 3 OBJE @zDWuPkvNQy6AqcVvTWKS@
 2 NOTE Relation to Head of House: Daughter
+1 RESI Residence Post Office: Corning
+2 DATE 1870
+2 PLAC Corning, Steuben, New York, USA
+3 MAP
+4 LATI N42.1429
+4 LONG W77.0547
+2 SOUR @VqbyczWoTAunjNaTg1gt@
+3 _APID 1,7163::32326422
+3 PAGE Year: 1870; Census Place: Corning, Steuben, New York; Roll
+4 CONC : M593_1095; Page: 49A; Family History Library Film: 552594
+3 OBJE @M82@
 1 RESI
 2 DATE 01 JUN 1875
 2 PLAC Corning, Steuben, New York, USA
@@ -2496,17 +4570,6 @@
 2 DATE 23 MAY 1942
 2 PLAC 222 West 56th Street, New York, New York, USA
 2 SOUR @P03XE2GqQSunPkn5yDpr@
-3 QUAY 1
-0 @PRBlkLKCSUKFRPTlxW7h@ INDI
-1 _XY 182148 3763
-1 REFN 0194d49c-c780-45d8-b9ed-c20c1e5124bc
-1 NAME Jonathan /Taylorson/
-2 SOUR @Ok2EiItMTYaIoVo6zEWZ@
-3 QUAY 1
-1 SEX M
-1 FAMS @nnem1nCLTQuG59X3AQKM@
-1 OCCU farmer
-2 SOUR @Ok2EiItMTYaIoVo6zEWZ@
 3 QUAY 1
 0 @lOqV0HFoS0eFxVLV9X46@ INDI
 1 _XY 182606 4011
@@ -2861,18 +4924,9 @@
 1 FAMC @SBsOGRdKSbijpGIgiBgo@
 1 NOTE _UID 1117a599-805b-4429-ae35-2a61694c3111
 1 BIRT
-2 DATE ABT 1828
-2 PLAC Durham, England
-3 MAP
-4 LATI N54.9248
-4 LONG W1.5757
-2 SOUR @8r0fX153SZWQXOlPdnxp@
-3 _APID 1,8978::4479733
-3 PAGE Class: HO107; Piece: 317; Book: 23; Civil Parish: Stockton U
-4 CONC pon Tees; County: Durham; Enumeration District: 2; Folio: 27
-4 CONC ; Page: 22; Line: 20; GSU roll: 241357
-3 OBJE @fkkFGltLRgGeUuNdFwkz@
-2 SOUR @7kJ3C8C4QFesOwUmgdI4@
+2 DATE 03 APR 1828
+2 PLAC Stockton upon Tees, Durham, England, UK
+2 SOUR @S79@
 3 QUAY 1
 1 RESI
 2 DATE 1841
@@ -2886,6 +4940,11 @@
 4 CONC pon Tees; County: Durham; Enumeration District: 2; Folio: 27
 4 CONC ; Page: 22; Line: 20; GSU roll: 241357
 3 OBJE @fkkFGltLRgGeUuNdFwkz@
+1 DEAT
+2 DATE 10 DEC 1898
+2 PLAC Stockton upon Tees, Durham, England, UK
+2 SOUR @S79@
+3 QUAY 1
 0 @LDWl6FlpTzuo2KFKCln3@ INDI
 1 _XY 183380 3856
 1 REFN 866a15e5-02e5-49a8-ab0c-b263c0dcfa17
@@ -2984,24 +5043,12 @@
 1 FAMC @SBsOGRdKSbijpGIgiBgo@
 1 BIRT
 2 DATE 02 OCT 1837
-2 PLAC Stockton-on-Tees, Durham, England
-3 MAP
-4 LATI N54.5833
-4 LONG E1.4167
-2 SOUR @8r0fX153SZWQXOlPdnxp@
-3 _APID 1,8978::4479737
-3 PAGE Class: HO107; Piece: 317; Book: 23; Civil Parish: Stockton U
-4 CONC pon Tees; County: Durham; Enumeration District: 2; Folio: 27
-4 CONC ; Page: 22; Line: 24; GSU roll: 241357
-3 OBJE @fkkFGltLRgGeUuNdFwkz@
+2 PLAC Stockton upon Tees, Durham, England, UK
 2 SOUR @uPgDQtkWRY6IqBhtzHie@
 3 QUAY 3
-2 SOUR @XIqTsRCAQmO5BvSmizub@
-3 _APID 1,8912::54486500
-3 OBJE @kd3IvfIYQ4WNqYfrIaLw@
-2 SOUR @7kJ3C8C4QFesOwUmgdI4@
-2 SOUR @XGGvH505QiGDGXaNUUub@
-3 _APID 1,5969::564786
+1 BIRT
+2 DATE 29 OCT 1837
+2 PLAC Stockton upon Tees, Durham, England, UK
 1 RESI
 2 DATE 1841
 2 PLAC Stockton-on-Tees, Durham, England
@@ -3022,6 +5069,7 @@
 3 _APID 1,5969::564786
 0 @BQ6oOeJnQFGzhVudXWcy@ INDI
 1 _XY 183299 3695
+1 _XY 821 1955
 1 REFN cd69b404-83a4-4f57-95e1-20ae15876818
 1 NAME Robert /Taylorson/
 2 SOUR @8r0fX153SZWQXOlPdnxp@
@@ -3063,46 +5111,16 @@
 3 _APID 1,2469::53821328
 3 OBJE @5LeyQN3uRPG0yM2uCFqI@
 1 SEX M
+1 FAMC @F34@
 1 FAMS @SBsOGRdKSbijpGIgiBgo@
 1 FAMS @9lQRIZf6SYK7Y5hx8Llz@
 1 OBJE @a29rouemTyuezBT9XapO@
 1 BIRT
-2 DATE ABT 1796
-2 PLAC Durham, England
-3 MAP
-4 LATI N54.9248
-4 LONG W1.5757
-2 SOUR @8r0fX153SZWQXOlPdnxp@
-3 _APID 1,8978::4479729
-3 PAGE Class: HO107; Piece: 317; Book: 23; Civil Parish: Stockton U
-4 CONC pon Tees; County: Durham; Enumeration District: 2; Folio: 27
-4 CONC ; Page: 22; Line: 16; GSU roll: 241357
-3 OBJE @fkkFGltLRgGeUuNdFwkz@
-2 SOUR @VqbyczWoTAunjNaTg1gt@
-3 _APID 1,7163::32333315
-3 PAGE Year: 1870; Census Place: Erwin, Steuben, New York; Roll: M5
-4 CONC 93_1095; Page: 158A; Image: 324; Family History Library Film
-4 CONC : 552594
-3 OBJE @s8ynwYiPQLuIV6VOEw7U@
-2 SOUR @tagmH3kSS5mNE6mkVQFl@
-3 _APID 1,6742::4062664
-3 PAGE Year: 1880; Census Place: Erwin, Steuben, New York; Roll: 93
-4 CONC 3; Family History Film: 1254933; Page: 219A; Enumeration Dis
-4 CONC trict: 173; Image: 0441
-3 OBJE @xNxl4cTfRbaETAVSHqgQ@
+2 DATE 20 APR 1794
+2 PLAC Heighington, Darlington, Durham, England, UK
 2 SOUR @7kJ3C8C4QFesOwUmgdI4@
 3 QUAY 1
-2 SOUR @XGGvH505QiGDGXaNUUub@
-3 _APID 1,5969::564788
-2 SOUR @h7WBKNgwRSOUt2BNNsOI@
-3 _APID 1,7181::1655632240
-3 OBJE @e2itw6lqSXqxQ9OzyjyJ@
-2 SOUR @2bg2kSXxR9G5oJVTCXgV@
-3 _APID 1,7218::791636
-3 OBJE @2spUibxcTFmJOtiRvf5u@
-2 SOUR @74P5lXIpRomDQfd5WmFi@
-3 _APID 1,7250::1382752964
-3 OBJE @kWmywm3ESauERQbRJVR3@
+2 NOTE place is from P. Sidgwick
 1 OCCU grocer
 2 DATE 1834
 2 PLAC Brunswick Street, Stockton-on-Tees, Durham, England
@@ -3113,7 +5131,7 @@
 4 TEXT 1834 Pigot's Directory, Durham, England
 1 CENS
 2 DATE 06 JUN 1841
-2 PLAC Brunswick Street, Stockton-on-Tees, Durham, England
+2 PLAC Brunswick Street, Stockton upon Tees, Durham, England, UK
 2 SOUR @7kJ3C8C4QFesOwUmgdI4@
 3 QUAY 3
 1 RESI
@@ -3144,6 +5162,9 @@
 2 PLAC USA
 2 SOUR @XGGvH505QiGDGXaNUUub@
 3 _APID 1,5969::564788
+1 CENS
+2 DATE 01 JUN 1850
+2 PLAC Painted Post, Erwin, Steuben, New York, USA
 1 CENS
 2 DATE 1850
 2 PLAC Painted Post, Steuben, New York, USA
@@ -3183,6 +5204,9 @@
 3 _APID 1,7181::1655632240
 3 OBJE @e2itw6lqSXqxQ9OzyjyJ@
 2 NOTE Relation to Head of House: Head
+1 CENS
+2 DATE 01 JUN 1860
+2 PLAC Painted Post, Erwin, Steuben, New York, USA
 1 RESI
 2 DATE 1865
 2 PLAC Erwin, Steuben, New York, USA
@@ -3192,6 +5216,9 @@
 2 SOUR @2bg2kSXxR9G5oJVTCXgV@
 3 _APID 1,7218::791636
 3 OBJE @2spUibxcTFmJOtiRvf5u@
+1 CENS
+2 DATE 01 JUN 1870
+2 PLAC Painted Post, Erwin, Steuben, New York, USA
 1 RESI
 2 DATE 1870
 2 PLAC Erwin, Steuben, New York, USA
@@ -3214,6 +5241,9 @@
 3 _APID 1,7250::1382752964
 3 OBJE @kWmywm3ESauERQbRJVR3@
 2 NOTE Relation to Head of House: Head
+1 CENS
+2 DATE 01 JUN 1880
+2 PLAC Painted Post, Erwin, Steuben, New York, USA
 1 RESI
 2 DATE 1880
 2 PLAC Erwin, Steuben, New York, USA
@@ -3229,10 +5259,7 @@
 2 NOTE Marital Status: Married; Relation to Head of House: Self
 1 DEAT
 2 DATE 20 DEC 1889
-2 PLAC Painted Post, Steuben, New York, USA
-3 MAP
-4 LATI N42.162
-4 LONG W77.0941
+2 PLAC Painted Post, Erwin, Steuben, New York, USA
 2 SOUR @2W7E32UHQqKiWPSvCYOW@
 3 QUAY 2
 1 EVEN
@@ -3286,27 +5313,12 @@
 1 FAMC @SBsOGRdKSbijpGIgiBgo@
 1 BIRT
 2 DATE 07 MAY 1839
-2 PLAC Stockton-on-Tees, Durham, England
-3 MAP
-4 LATI N54.5833
-4 LONG E1.4167
-2 SOUR @8r0fX153SZWQXOlPdnxp@
-3 _APID 1,8978::4479738
-3 PAGE Class: HO107; Piece: 317; Book: 23; Civil Parish: Stockton U
-4 CONC pon Tees; County: Durham; Enumeration District: 2; Folio: 27
-4 CONC ; Page: 22; Line: 25; GSU roll: 241357
-3 OBJE @fkkFGltLRgGeUuNdFwkz@
-2 SOUR @VqbyczWoTAunjNaTg1gt@
-3 _APID 1,7163::32339542
-3 PAGE Year: 1870; Census Place: Hornby, Steuben, New York; Roll: M
-4 CONC 593_1095; Page: 223A; Image: 456; Family History Library Fil
-4 CONC m: 552594
-3 OBJE @gmzJ2mv3Q92sNpwZzTg1@
+2 PLAC Stockton upon Tees, Durham, England, UK
 2 SOUR @PPoEna95SvGGrbNZGrWG@
 3 QUAY 3
-2 SOUR @7kJ3C8C4QFesOwUmgdI4@
-2 SOUR @XGGvH505QiGDGXaNUUub@
-3 _APID 1,5969::564787
+1 BIRT
+2 DATE 09 JUN 1839
+2 PLAC Stockton upon Tees, Durham, England, UK
 1 RESI
 2 DATE 1841
 2 PLAC Stockton-on-Tees, Durham, England
@@ -3354,6 +5366,11 @@
 3 PAGE Year: 1850; Census Place: Painted Post, Steuben, New York; R
 4 CONC oll: M432_598; Page: 1A; Image: 9
 3 OBJE @Sb0wdP9kRhCZ8ZFMto5r@
+2 SOUR @VqbyczWoTAunjNaTg1gt@
+3 _APID 1,7163::32326403
+3 PAGE Year: 1870; Census Place: Corning, Steuben, New York; Roll
+4 CONC : M593_1095; Page: 49A; Family History Library Film: 552594
+3 OBJE @M82@
 2 SOUR @tagmH3kSS5mNE6mkVQFl@
 3 _APID 1,6742::1370612
 3 PAGE Year: 1880; Census Place: Horseheads, Chemung, New York; Rol
@@ -3397,6 +5414,7 @@
 3 _APID 1,1264::3283025
 3 OBJE @CsKj7hxCT7KfNOwW7nJ0@
 1 SEX M
+1 FAMC @F37@
 1 FAMC @nnem1nCLTQuG59X3AQKM@
 1 FAMS @dAW8wNGnQgOhALuwIepD@
 1 FAMS @VVoxPoqYQb2s80iiPRRo@
@@ -3413,6 +5431,11 @@
 3 PAGE Year: 1850; Census Place: Painted Post, Steuben, New York; R
 4 CONC oll: M432_598; Page: 1A; Image: 9
 3 OBJE @Sb0wdP9kRhCZ8ZFMto5r@
+2 SOUR @VqbyczWoTAunjNaTg1gt@
+3 _APID 1,7163::32326403
+3 PAGE Year: 1870; Census Place: Corning, Steuben, New York; Roll
+4 CONC : M593_1095; Page: 49A; Family History Library Film: 552594
+3 OBJE @M82@
 2 SOUR @tagmH3kSS5mNE6mkVQFl@
 3 _APID 1,6742::1370612
 3 PAGE Year: 1880; Census Place: Horseheads, Chemung, New York; Rol
@@ -3449,7 +5472,7 @@
 3 CONC e 15 (b. c. 1826)
 1 CENS
 2 DATE 06 JUN 1841
-2 PLAC Castle Building, Stockton-on-Tees, Durham, England
+2 PLAC Castle Building, Stockton upon Tees, Durham, England, UK
 2 SOUR @4pjQnw1jRuKfW2ZrDbdV@
 3 QUAY 3
 2 NOTE somewhere in the neighborhood of High Street and Park Row i
@@ -3486,6 +5509,9 @@
 4 LONG W77.0941
 2 SOUR @GGFJAebSQ06ZNolWRXDN@
 3 QUAY 3
+1 CENS
+2 DATE 01 JUN 1850
+2 PLAC Painted Post, Erwin, Steuben, New York, USA
 1 RESI
 2 DATE 1850
 2 PLAC Painted Post, Steuben, New York, USA
@@ -3518,6 +5544,12 @@
 3 QUAY 1
 3 DATA
 4 TEXT p. 86
+1 CENS
+2 DATE 1855
+2 PLAC Corning, Steuben, New York, USA
+3 MAP
+4 LATI N42.1429
+4 LONG W77.0547
 1 OCCU cabinet maker and undertaker
 2 DATE 1856
 2 PLAC Corning, Steuben, New York, USA
@@ -3534,6 +5566,12 @@
 4 LONG W77.0547
 2 SOUR @LgUvDQExRraJTm0SceCH@
 3 QUAY 3
+1 CENS
+2 DATE 01 JUN 1860
+2 PLAC Corning, Steuben, New York, USA
+3 MAP
+4 LATI N42.1429
+4 LONG W77.0547
 1 PROP bought land;  original plot had some mistakes; this is the b
 2 CONC est guess at the correct plot:  S80.54W 11.08c  S46.00W 34.5
 2 CONC 0c  N04.30E 10.25c  N48.30E 27.17c  S26.00E 02.79c  E01.00
@@ -3598,6 +5636,12 @@
 3 OBJE @zDWuPkvNQy6AqcVvTWKS@
 2 NOTE Relation to Head of House: Head
 1 CENS
+2 DATE 1865
+2 PLAC Corning, Steuben, New York, USA
+3 MAP
+4 LATI N42.1429
+4 LONG W77.0547
+1 CENS
 2 DATE 01 JUN 1870
 2 PLAC Corning, Steuben, New York, USA
 3 MAP
@@ -3605,6 +5649,23 @@
 4 LONG W77.0547
 2 SOUR @WjJ6YPanRKegWyl1IRoB@
 3 QUAY 3
+1 CENS
+2 DATE 01 JUN 1870
+2 PLAC Corning, Steuben, New York, USA
+3 MAP
+4 LATI N42.1429
+4 LONG W77.0547
+1 RESI Residence Post Office: Corning
+2 DATE 1870
+2 PLAC Corning, Steuben, New York, USA
+3 MAP
+4 LATI N42.1429
+4 LONG W77.0547
+2 SOUR @VqbyczWoTAunjNaTg1gt@
+3 _APID 1,7163::32326403
+3 PAGE Year: 1870; Census Place: Corning, Steuben, New York; Roll
+4 CONC : M593_1095; Page: 49A; Family History Library Film: 552594
+3 OBJE @M82@
 1 RESI
 2 DATE 1874
 2 PLAC 35 West Market Street, Corning, Steuben, New York, USA
@@ -3630,6 +5691,12 @@
 2 SOUR @OJXgv3KcTJyDa7ZI7paz@
 3 QUAY 3
 1 CENS
+2 DATE 1875
+2 PLAC Corning, Steuben, New York, USA
+3 MAP
+4 LATI N42.1429
+4 LONG W77.0547
+1 CENS
 2 DATE 01 JUN 1880
 2 PLAC Horseheads, Chemung County, New York, USA
 3 MAP
@@ -3637,6 +5704,8 @@
 4 LONG W76.8205
 2 NOTE There is a Thomas "Tailerson" in Horsehaeads in 1880 censu
 3 CONC s married to a Catharine; could this be him re-married?
+1 CENS
+2 DATE 01 JUN 1880
 1 RESI
 2 DATE 1880
 2 PLAC Horseheads, Chemung, New York, USA
@@ -3760,10 +5829,100 @@
 4 LONG W77.0547
 2 NOTE This is just a pure guess, based on the fact that he is in t
 3 CONC he 1860 census, but not in the 1870 census.
+0 @I136@ INDI
+1 _XY 443 1192
+1 REFN 15584f0d-f264-4e71-8882-00b595089b89
+1 NAME Elizabeth /Walker/
+2 SOUR @S79@
+3 QUAY 1
+1 SEX F
+1 FAMS @F39@
+1 BIRT
+2 DATE ABT 1692
+2 PLAC Gainford upon Tees, Durham, England, UK
+2 SOUR @S79@
+3 QUAY 1
+1 DEAT
+2 DATE 1718
+2 SOUR @S79@
+3 QUAY 1
+0 @I137@ INDI
+1 _XY 820 1283
+1 REFN c3f69a86-d6dc-465f-8dfa-8929ea9d9a6a
+1 NAME Ann /Walton/
+2 SOUR @S79@
+3 QUAY 1
+1 SEX F
+1 FAMC @F42@
+1 FAMS @F40@
+1 BIRT
+2 DATE ABT 21 NOV 1692
+2 PLAC Sedgefield, Durham, England, UK
+1 BAPM
+2 DATE 22 NOV 1692
+2 PLAC Sedgefield, Durham, England, UK
+2 SOUR @S79@
+3 QUAY 1
+0 @I139@ INDI
+1 _XY 892 1225
+1 REFN d3f308fc-9b14-4785-9462-6f0f4e786ef5
+1 NAME Robert /Walton/
+2 SOUR @S79@
+3 QUAY 1
+1 SEX M
+1 FAMS @F42@
+1 BIRT
+2 DATE 1670
+2 PLAC Sedgefield, Durham, England, UK
+2 SOUR @S79@
+3 QUAY 1
+0 @I140@ INDI
+1 _XY 133 1352
+1 REFN ce5915bf-0193-4342-b2d0-cffd0ef5da24
+1 NAME Elizabeth /Wheldon/
+2 SOUR @S79@
+3 QUAY 1
+1 SEX F
+1 FAMS @F31@
+1 BIRT
+2 DATE ABT 1700
+2 PLAC Durham, England, UK
+2 SOUR @S79@
+3 QUAY 1
+0 @F26@ FAM
+1 REFN 00831322-ed69-4ebb-9191-692e37bca1e7
+1 HUSB @I38@
+1 CHIL @I39@
+2 _FREL Natural
 0 @fI43Fj8ISFedoJZOHhUW@ FAM
 1 REFN 5c505ddf-fb8a-488c-a1bd-34b464953e7b
 1 HUSB @fKPuctm5RyC81oct8sFI@
 1 WIFE @SYu4FgiIQpijrK9kHfmA@
+0 @F31@ FAM
+1 REFN 247c6cf4-5ec2-4709-b4f0-38628cf59bb7
+1 HUSB @I48@
+1 WIFE @I140@
+1 CHIL @I47@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I46@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I43@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I49@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I45@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I44@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I130@
+2 _FREL Natural
+2 _MREL Natural
 0 @7Oru3OoaSFiSLD0h0ctk@ FAM
 1 REFN 5cc2fceb-b6c8-4ed0-beda-9686e15e9568
 1 HUSB @H67Ja6P6T1a1Zne59bfx@
@@ -3816,6 +5975,21 @@
 2 SOUR @73BbZwueSqGkdeK8ueNP@
 2 SOUR @uw0H4pf3RKmP8ZVVO51L@
 3 QUAY 1
+0 @F33@ FAM
+1 REFN 43d1efb9-34e3-4736-9ef2-89eb55cf153f
+1 HUSB @I55@
+1 WIFE @I50@
+1 CHIL @I54@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @eqjrwzpxTiyQLvNx06kf@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR
+2 DATE 13 MAY 1790
+2 PLAC Hutton Rudby, Yorkshire, England, UK
+2 SOUR @GZJmaUYeSMK4Fd2VWmk7@
+3 _APID 1,9852::27081380
 0 @DCtlZtRIRVm4T1ZfUDC3@ FAM
 1 REFN 73a80109-9548-495b-8bc6-ed7c7e8626da
 1 HUSB @wOdCOhFCRTaQXwucacDH@
@@ -3827,6 +6001,336 @@
 4 LATI N42.1373
 4 LONG W76.9369
 2 SOUR @uCbrD4YUQIiXVgJwjDWE@
+3 QUAY 1
+0 @F25@ FAM
+1 REFN bc699f3d-ab9d-44ee-9eb6-ab0d57b09003
+1 HUSB @I56@
+1 WIFE @I37@
+1 CHIL @I57@
+2 _FREL Natural
+2 _MREL Natural
+0 @F28@ FAM
+1 REFN 1be313cd-dd22-4007-8b2a-fa4b50f1983a
+1 HUSB @I77@
+1 WIFE @I40@
+1 CHIL @I74@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR
+2 DATE 17 APR 1720
+2 PLAC Aycliffe, Sedgefield, Durham, England, UK
+2 SOUR @S79@
+3 QUAY 1
+0 @F39@ FAM
+1 REFN 16c0966b-ed3c-42df-b7ad-24dd04d946e0
+1 HUSB @I77@
+1 WIFE @I136@
+1 CHIL @I59@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I100@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I90@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I78@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I113@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I64@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR
+2 DATE 27 NOV 1712
+2 PLAC Gainford upon Tees, Durham, England, UK
+2 SOUR @S79@
+3 QUAY 1
+0 @F40@ FAM
+1 REFN df3190ff-248e-412a-9450-3935d20e6b8e
+1 HUSB @I77@
+1 WIFE @I137@
+1 CHIL @I122@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I101@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I119@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I65@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I102@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR
+2 DATE 01 MAY 1722
+2 PLAC Stockton upon Tees, Durham, England, UK
+2 SOUR @S79@
+3 QUAY 1
+0 @F30@ FAM
+1 REFN 264a0570-2af5-4a2e-9d0c-b50ca2557606
+1 HUSB @I79@
+1 WIFE @I42@
+0 @F38@ FAM
+1 REFN aef59e99-a954-4cca-a8ba-fc4613331a31
+1 HUSB @I79@
+1 WIFE @I58@
+1 CHIL @I93@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @PRBlkLKCSUKFRPTlxW7h@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR
+2 DATE 31 OCT 1787
+2 PLAC Hart, Hartlepool, Durham, England, UK
+2 SOUR @S79@
+3 QUAY 1
+0 @F24@ FAM
+1 REFN dbb8e4ce-0794-4283-8d4d-b80c4d99772c
+1 HUSB @I95@
+1 WIFE @I36@
+1 CHIL @I124@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I127@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I72@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I96@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I62@
+2 _FREL Natural
+2 _MREL Natural
+0 @F27@ FAM
+1 REFN f5f788e3-35d1-4bf2-b555-183c91e0c0dc
+1 HUSB @I97@
+1 WIFE @I39@
+1 CHIL @I115@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I116@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I125@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I82@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I128@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I98@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I129@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I112@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I117@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I71@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I63@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR
+2 DATE 10 JUN 1627
+2 PLAC Egglescliffe, Stockton upon Tees, Durham, England, UK
+2 SOUR @S79@
+3 QUAY 1
+0 @F35@ FAM
+1 REFN e210d7c4-e240-4f12-9dad-cfdb3d1aac51
+1 HUSB @I98@
+1 WIFE @I52@
+1 CHIL @I67@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I110@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I118@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I99@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I89@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I91@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I60@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I77@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I61@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I73@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I106@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR
+2 DATE ABT 1667
+0 @F34@ FAM
+1 REFN 6457f262-e10b-49f0-b0f1-23d18f077bae
+1 HUSB @I103@
+1 WIFE @I51@
+1 CHIL @BQ6oOeJnQFGzhVudXWcy@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I114@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I66@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I121@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I84@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I104@
+2 _FREL Natural
+2 _MREL Natural
+0 @F37@ FAM
+1 REFN 40334e4c-83bf-4048-bb9e-f0a6f936df07
+1 HUSB @PRBlkLKCSUKFRPTlxW7h@
+1 WIFE @I57@
+1 CHIL @I87@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @6QhngKLWSYmHZD5Bqxx0@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I133@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I88@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I109@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I80@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I94@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I105@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I86@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR
+2 DATE 06 MAR 1819
+2 PLAC Hartlepool, Durham, England, UK
+2 SOUR @GZJmaUYeSMK4Fd2VWmk7@
+3 _APID 1,9852::1653088
+0 @nnem1nCLTQuG59X3AQKM@ FAM
+1 REFN 238f96b2-1e81-4525-a688-f9359df43b16
+1 HUSB @PRBlkLKCSUKFRPTlxW7h@
+1 CHIL @6QhngKLWSYmHZD5Bqxx0@
+2 _FREL Natural
+0 @F32@ FAM
+1 REFN 77c78f51-bafd-48d8-b1ca-150d5b374cc1
+1 HUSB @I122@
+1 WIFE @I43@
+1 CHIL @I79@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I123@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I103@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I83@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I107@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I68@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I75@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I131@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I69@
+2 _FREL Natural
+2 _MREL Natural
+0 @F36@ FAM
+1 REFN 63beb3ea-1a61-484c-85b4-d7475c208cf3
+1 HUSB @I122@
+1 WIFE @I53@
+1 CHIL @I111@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I76@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I85@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I92@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I132@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I120@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR
+2 DATE 1774
+2 SOUR @S79@
+3 QUAY 1
+0 @F29@ FAM
+1 REFN 587623d8-2f1a-4c63-9679-8c9c227ed4e7
+1 HUSB @I124@
+1 WIFE @I41@
+1 CHIL @I81@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I126@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I70@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I97@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR
+2 DATE 05 MAY 1594
+2 PLAC Egglescliffe, Stockton upon Tees, Durham, England, UK
+2 SOUR @S79@
 3 QUAY 1
 0 @x0FfmvNVTaardWNmUxSB@ FAM
 1 REFN 1869b511-8ad7-4d55-8b37-e48125efca75
@@ -3842,11 +6346,6 @@
 3 OBJE @nUHy1YBHRXSE4eLmMUJo@
 1 MARR
 2 DATE ABT 1875
-0 @nnem1nCLTQuG59X3AQKM@ FAM
-1 REFN 238f96b2-1e81-4525-a688-f9359df43b16
-1 HUSB @PRBlkLKCSUKFRPTlxW7h@
-1 CHIL @6QhngKLWSYmHZD5Bqxx0@
-2 _FREL Natural
 0 @SBsOGRdKSbijpGIgiBgo@ FAM
 1 REFN 34813d4a-b085-426e-9b51-e1818cbfaf9c
 1 HUSB @BQ6oOeJnQFGzhVudXWcy@
@@ -3863,6 +6362,9 @@
 1 CHIL @JGTsqYB9SdiI2txJXQIS@
 2 _FREL Natural
 2 _MREL Natural
+1 CHIL @I134@
+2 _FREL Natural
+2 _MREL Natural
 1 CHIL @ckfxNTKHTiGp0GxlaIQm@
 2 _FREL Natural
 2 _MREL Natural
@@ -3877,7 +6379,10 @@
 2 _MREL Natural
 1 MARR
 2 DATE 11 OCT 1823
-2 PLAC Stockton Parish, Durham, England
+2 PLAC Saint Thomas Stockton Parish Church, Stockton upon Tees, Dur
+3 CONC ham, England, UK
+2 SOUR @S79@
+3 QUAY 1
 2 SOUR @GZJmaUYeSMK4Fd2VWmk7@
 3 _APID 1,9852::34987081
 0 @9lQRIZf6SYK7Y5hx8Llz@ FAM
@@ -3935,15 +6440,19 @@
 2 _MREL Natural
 1 MARR
 2 DATE 14 AUG 1847
-2 PLAC Stockton-on-Tees, Durham, England
-3 MAP
-4 LATI N54.5833
-4 LONG E1.4167
+2 PLAC Stockton upon Tees, Durham, England, UK
+2 SOUR @S90@
+3 OBJE @M79@
 2 SOUR @STI3sk0lQsyDfygLDOjf@
 3 _APID 1,8913::28151377
 3 OBJE @oi1Or17IT4m6nzElyser@
 2 SOUR @Ok2EiItMTYaIoVo6zEWZ@
 3 QUAY 3
+0 @F42@ FAM
+1 REFN f174871e-6892-44ee-beee-f8b8a1b2b628
+1 HUSB @I139@
+1 CHIL @I137@
+2 _FREL Natural
 0 @hTXt7qBMQKeFqTG4cc4G@ REPO
 1 NAME Ancestry.com
 1 ADDR http://www.Ancestry.com
@@ -3951,6 +6460,16 @@
 1 PHON
 0 @cJV7UxM4QEWWRiWbYius@ REPO
 1 NAME Ancestry.com, II, OLD
+1 ADDR
+1 EMAIL
+1 PHON
+0 @hTXt7qBMQKeFqTG4cc4G@ REPO
+1 NAME Ancestry.com
+1 ADDR
+1 EMAIL
+1 PHON
+0 @hTXt7qBMQKeFqTG4cc4G@ REPO
+1 NAME Ancestry.com
 1 ADDR
 1 EMAIL
 1 PHON
@@ -3968,6 +6487,13 @@
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2009
+0 @S81@ SOUR
+1 REFN 631ba11b-9771-4aa4-872b-86b945dd4d21
+1 REPO @hTXt7qBMQKeFqTG4cc4G@
+1 TITL 1851 England Census
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations Inc; Location: Provo, UT, USA; Date
+2 CONC : 2005
 0 @jmFGuFh1RiicUCdCiNYx@ SOUR
 1 REFN 2e9de23c-5897-4bf2-a4a2-fa0f374ea103
 1 REPO @hTXt7qBMQKeFqTG4cc4G@
@@ -3975,6 +6501,13 @@
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2009
+0 @S83@ SOUR
+1 REFN 2f9b8a45-3281-44df-ab95-4ca0cb3c1872
+1 REPO @hTXt7qBMQKeFqTG4cc4G@
+1 TITL 1861 England Census
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations Inc; Location: Provo, UT, USA; Date
+2 CONC : 2005
 0 @VqbyczWoTAunjNaTg1gt@ SOUR
 1 REFN 5eab0f70-911c-4599-9786-0b345c22e185
 1 REPO @hTXt7qBMQKeFqTG4cc4G@
@@ -3982,6 +6515,13 @@
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2009
+0 @S88@ SOUR
+1 REFN ff707158-a92e-4222-a798-c73fcd613da7
+1 REPO @hTXt7qBMQKeFqTG4cc4G@
+1 TITL 1871 England Census
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations Inc; Location: Provo, UT, USA; Date
+2 CONC : 2004
 0 @tagmH3kSS5mNE6mkVQFl@ SOUR
 1 REFN 5d5d0eb7-77dc-4076-845c-e52dbfd680ea
 1 REPO @hTXt7qBMQKeFqTG4cc4G@
@@ -4019,13 +6559,6 @@
 2 CONC publications/microfilm-catalogs/census/1920/part-07.html" ta
 2 CONC rget="_blank">NARA</a>. Note: Enumeration Districts 819-83
 2 CONC 9 are on roll 323 (Chicago City).
-0 @g5UbHIcvQmKXO31cZi9v@ SOUR
-1 REFN 4e44e437-12a8-4f5a-abf2-c1994f828bf9
-1 REPO @hTXt7qBMQKeFqTG4cc4G@
-1 TITL 1920 United States Federal Census, OLD
-1 AUTH Ancestry.com
-1 PUBL Ancestry.com Operations Inc; Location: Provo, UT, USA; Date
-2 CONC : 2010
 0 @z1TPRpwkRpi0Hb52420e@ SOUR
 1 REFN 604a2995-325a-49e2-8a04-ecf91a67741e
 1 REPO @hTXt7qBMQKeFqTG4cc4G@
@@ -4049,6 +6582,13 @@
 1 TITL [Unknown newspaper, clipping, Harrison/Taylorson, Hannah, ob
 2 CONC ituary]
 1 PUBL In possession of Chris Mosher, 1897
+1 TEXT DIED<br />
+2 CONT In Hornby, May 30th, 1897, Hannah, wife of Henry Harrison, a
+2 CONC ged 45 years.<br />
+0 @S91@ SOUR
+1 REFN 32a0e2a3-e998-421f-9d0b-7b147aecab66
+1 TITL [Unknown newspaper, clipping]
+1 PUBL In posession of Chris Mosher, 1897
 1 TEXT DIED<br />
 2 CONT In Hornby, May 30th, 1897, Hannah, wife of Henry Harrison, a
 2 CONC ged 45 years.<br />
@@ -4082,12 +6622,6 @@
 2 CONT Note:
 2 CONT The owners of these tree files may have removed or changed i
 2 CONC nformation since this source citation was created.
-0 @PObiOXVGRgCKWE0ue3OS@ SOUR
-1 REFN 9c7744ac-0a1d-4672-87fa-98d713518673
-1 REPO @hTXt7qBMQKeFqTG4cc4G@
-1 TITL Ancestry Family Trees, OLD
-1 PUBL Online publication - Provo, UT, USA: Ancestry.com.  Origina
-2 CONC l data:  Family Tree files submitted by Ancestry members.
 0 @73BbZwueSqGkdeK8ueNP@ SOUR
 1 REFN 26cb8f82-ad49-4c2a-bfae-8c17e3693e32
 1 TITL Applicant's Working Sheet, National Society, Daughters of th
@@ -4324,6 +6858,11 @@
 1 REFN 8f6cd074-2b9b-44f4-a337-dbfec99e2b74
 1 TITL Deeds
 1 PUBL Steuben Co. Clerks Office, Bath, NY
+0 @S79@ SOUR
+1 REFN 8984d5f7-3bdc-4048-b4a9-dd181877469a
+1 TITL Denton Family Tree
+1 AUTH Sidgwick, Pamela
+1 PUBL genesreunited.co.uk, 2009
 0 @XQ7MA9lOQxC0JsT3vGLs@ SOUR
 1 REFN 63f25cdf-f164-414f-a3da-60db9b6317f7
 1 TITL Dodd, Mrs. Leonard, obituary
@@ -4375,6 +6914,21 @@
 2 CONC t not copy on, transfer or reproduce records without the pri
 2 CONC or permission of ONS. Database Copyright © 1998-2003 Graha
 2 CONC m Hart, Ben Laurie, Camilla von Massenbach and David Mayall.
+0 @S90@ SOUR
+1 REFN 93f452bd-4626-4bea-8967-76937a042ad7
+1 REPO @hTXt7qBMQKeFqTG4cc4G@
+1 TITL England & Wales, Civil Registration Marriage Index, 1837-191
+2 CONC 5
+1 AUTH FreeBMD
+1 PUBL Ancestry.com Operations Inc; Location: Provo, UT, USA; Date
+2 CONC : 2006
+1 TEXT General Register Office. <i>England and Wales Civil Registra
+2 CONC tion Indexes</i>. London, England: General Register Office
+2 CONC . © Crown copyright. Published by permission of the Controll
+2 CONC er of HMSO and the Office for National Statistics. You mus
+2 CONC t not copy on, transfer or reproduce records without the pri
+2 CONC or permission of ONS. Database Copyright © 1998-2003 Graha
+2 CONC m Hart, Ben Laurie, Camilla von Massenbach and David Mayall.
 0 @XIqTsRCAQmO5BvSmizub@ SOUR
 1 REFN 5548731d-6276-4fda-a827-e828bff06666
 1 REPO @hTXt7qBMQKeFqTG4cc4G@
@@ -4396,6 +6950,117 @@
 1 AUTH FreeBMD
 1 PUBL Ancestry.com Operations Inc; Location: Provo, UT, USA; Date
 2 CONC : 2006
+0 @S84@ SOUR
+1 REFN b6135008-2293-48b3-8c28-0a777929aca6
+1 TITL England Census, 1841, Durham, Hart, Hartlepool, District 6a
+2 CONC , p. 4 of 6
+1 AUTH UK National Archives
+1 PUBL class HO107, piece 315, book 17, folio 5, page 8
+1 TEXT [page] <b>8</b><br />
+2 CONT Township of Hart<br />
+2 CONT <table border="1">
+2 CONT <thead>
+2 CONT <tr>
+2 CONT <th rowspan="2">PLACE</th>
+2 CONT <th colspan="2">HOUSES</th>
+2 CONT <th colspan="2" rowspan="2">NAMES<br />of each Person who ab
+2 CONC ode therein<br /> the preceding Night.</th>
+2 CONT <th colspan="2">AGE<br />and<br />SEX</th>
+2 CONT <th rowspan="2">PROFESSION, TRADE,<br />EMPLOYMENT,<br />o
+2 CONC r of<br />INDEPENDENT MEANS.</th>
+2 CONT <th colspan="2">Where Born</th>
+2 CONT </tr>
+2 CONT <tr>
+2 CONT <th>Uninhabited<br />or Building</th>
+2 CONT <th>Inhabited</th>
+2 CONT <th>Males</th>
+2 CONT <th>Females</th>
+2 CONT <th>Whether Born<br />in same County</th>
+2 CONT <th>Whether Born in<br />Scotland, Ireland,<br />or Foreig
+2 CONC n Parts.</th>
+2 CONT </tr>
+2 CONT </thead>
+2 CONT <tbody>
+2 CONT <tr><td rowspan="9">Village</td><td>&nbsp;</td><td>1</td><td
+2 CONC >Jonathan</td><td>Taylerson</td><td>50</td><td>&nbsp;</td><t
+2 CONC d>Ag. lab</td><td>yes</td><td>&nbsp;</td></tr>
+2 CONT <tr><td>&nbsp;</td><td>&nbsp;</td><td>Hannah</td><td>d[itt]o
+2 CONC </td><td>&nbsp;</td><td>44</td><td>&nbsp;</td><td>yes</td><t
+2 CONC d>&nbsp;</td></tr>
+2 CONT <tr><td>&nbsp;</td><td>&nbsp;</td><td>Hannah</td><td>d[itt]
+2 CONC o Jun<sup>r</sup></td><td>&nbsp;</td><td>12</td><td>&nbsp;</
+2 CONC td><td>yes</td><td>&nbsp;</td></tr>
+2 CONT <tr><td>&nbsp;</td><td>&nbsp;</td><td>Jonathan</td><td>d[itt
+2 CONC ]o d[itt]o</td><td>10</td><td>&nbsp;</td><td>&nbsp;</td><td>
+2 CONC yes</td><td>&nbsp;</td></tr>
+2 CONT <tr><td>&nbsp;</td><td>&nbsp;</td><td>David</td><td>d[itt]o<
+2 CONC /td><td>7</td><td>&nbsp;</td><td>&nbsp;</td><td>yes</td><td>
+2 CONC &nbsp;</td></tr>
+2 CONT <tr><td>&nbsp;</td><td>&nbsp;</td><td>John</td><td>d[itt]o</
+2 CONC td><td>4</td><td>&nbsp;</td><td>&nbsp;</td><td>yes</td><td>&
+2 CONC nbsp;</td></tr>
+2 CONT <tr><td>&nbsp;</td><td>&nbsp;</td><td>Frances</td><td>d[itt]
+2 CONC o</td><td>&nbsp;</td><td>2</td><td>&nbsp;</td><td>yes</td><t
+2 CONC d>&nbsp;</td></tr>
+2 CONT <tr><td>&nbsp;</td><td>&nbsp;</td><td>Ann</td><td>Ord</td><t
+2 CONC d>&nbsp;</td><td>79</td><td>Ind</td><td>yes</td><td>&nbsp;</
+2 CONC td></tr>
+2 CONT <tr><td>&nbsp;</td><td>&nbsp;</td><td>Isabella</td><td>Surte
+2 CONC es</td><td>&nbsp;</td><td>26</td><td>&nbsp;</td><td>yes</td>
+2 CONC <td>&nbsp;</td></tr>
+2 CONT </tbody>
+2 CONT </table>
+0 @S87@ SOUR
+1 REFN 07450ed7-7d00-40b2-b591-af3bf83697e5
+1 TITL England Census, 1841, Durham, Hart, Hartlepool, District 6a
+2 CONC , p. 6 of 6
+1 AUTH UK National Archives
+1 PUBL class HO107, piece 315, book 17, folio 8, page 12
+1 TEXT [page] <b>12</b> [folio] <b>8</b><br />
+2 CONT Township of Hart<br />
+2 CONT <table border="1">
+2 CONT <thead>
+2 CONT <tr>
+2 CONT <th rowspan="2">PLACE</th>
+2 CONT <th colspan="2">HOUSES</th>
+2 CONT <th colspan="2" rowspan="2">NAMES<br />of each Person who ab
+2 CONC ode therein<br /> the preceding Night.</th>
+2 CONT <th colspan="2">AGE<br />and<br />SEX</th>
+2 CONT <th rowspan="2">PROFESSION, TRADE,<br />EMPLOYMENT,<br />o
+2 CONC r of<br />INDEPENDENT MEANS.</th>
+2 CONT <th colspan="2">Where Born</th>
+2 CONT </tr>
+2 CONT <tr>
+2 CONT <th>Uninhabited<br />or Building</th>
+2 CONT <th>Inhabited</th>
+2 CONT <th>Males</th>
+2 CONT <th>Females</th>
+2 CONT <th>Whether Born<br />in same County</th>
+2 CONT <th>Whether Born in<br />Scotland, Ireland,<br />or Foreig
+2 CONC n Parts.</th>
+2 CONT </tr>
+2 CONT </thead>
+2 CONT <tbody>
+2 CONT <tr><td rowspan="9">Village</td><td>&nbsp;</td><td>1</td><td
+2 CONC >John</td><td>Garret</td><td>35</td><td>&nbsp;</td><td>Ag. l
+2 CONC ab.</td><td>yes</td><td>&nbsp;</td></tr>
+2 CONT <tr><td>&nbsp;</td><td>&nbsp;</td><td>John</td><td>d[itt]o J
+2 CONC un<sup>r</sup>.</td><td>12</td><td>&nbsp;</td><td>&nbsp;</td
+2 CONC ><td>yes</td><td>&nbsp;</td></tr>
+2 CONT <tr><td>&nbsp;</td><td>&nbsp;</td><td>Mary</td><td>d[itt]o</
+2 CONC td><td>&nbsp;</td><td>9</td><td>&nbsp;</td><td>yes</td><td>&
+2 CONC nbsp;</td></tr>
+2 CONT <tr><td>&nbsp;</td><td>&nbsp;</td><td>John</td><td>Taylerson
+2 CONC </td><td>80</td><td>&nbsp;</td><td>Ag. lab.</td><td>yes</td>
+2 CONC <td>&nbsp;</td></tr>
+2 CONT <tr><td>&nbsp;</td><td>&nbsp;</td><td>Margaret</td><td>d[itt
+2 CONC ]o</td><td>&nbsp;</td><td>40</td><td>&nbsp;</td><td>yes</td>
+2 CONC <td>&nbsp;</td></tr>
+2 CONT <tr><td>&nbsp;</td><td>&nbsp;</td><td>Stephen</td><td>Beelma
+2 CONC n</td><td>5</td><td>&nbsp;</td><td>&nbsp;</td><td>yes</td><t
+2 CONC d>&nbsp;</td></tr>
+2 CONT </tbody>
+2 CONT </table>
 0 @4pjQnw1jRuKfW2ZrDbdV@ SOUR
 1 REFN f706bacf-57ca-4003-8776-7a03172daad3
 1 TITL England Census, 1841, Durham, Stockton upon Tees, ED 1, imag
@@ -4536,10 +7201,142 @@
 2 CONC nbsp</td><td>y</td><td>&nbsp;</td></tr>
 2 CONT </tbody>
 2 CONT </table>
+0 @S85@ SOUR
+1 REFN 0719e3d5-892d-4e41-b1dd-4e1344192d5f
+1 TITL England Census, 1851, Durham, Hartlepool, District 10f, p. 1
+2 CONC 00 of 103
+1 AUTH UK National Archives
+1 PUBL class HO107, piece 2384, folio 421, page 16
+1 TEXT [page] <b>16</b> [folio] <b>421</b><br />
+2 CONT Parish of <b>Hartlepool</b><br />
+2 CONT Borough of <b>Hatlepool</b><br />
+2 CONT <table border="1">
+2 CONT <thead>
+2 CONT <tr>
+2 CONT <th rowspan="2">No. of<br />
+2 CONT House-<br />
+2 CONT holder's<br />
+2 CONT Schedule</th><br />
+2 CONT <th rowspan="2">Name of Street, Place, or<br />
+2 CONT Road, and Name or<br />
+2 CONT No. of House</th>
+2 CONT <th rowspan="2" colspan="2">Name and Surname of each Person<
+2 CONC br />
+2 CONT who abode in the house,<br />
+2 CONT on the Night of the 30th March, 1851</th>
+2 CONT <th rowspan="2">Relation<br />
+2 CONT to<br />
+2 CONT Head of Family</th>
+2 CONT <th rowspan="2">Condition</th>
+2 CONT <th colspan="2">Age<br />of</th>
+2 CONT <th rowspan="2">Rank, Profession,<br />
+2 CONT or<br />
+2 CONT Occupation</th>
+2 CONT <th rowspan="2" colspan="2">Where Born</th>
+2 CONT <th rowspan="2">Whether<br />
+2 CONT Blind, or Deaf<br />
+2 CONT and-Dumb</th>
+2 CONT </tr>
+2 CONT <tr>
+2 CONT <th>Males</th>
+2 CONT <th>Females</th>
+2 CONT </tr>
+2 CONT </thead>
+2 CONT <tbody>
+2 CONT <tr><td>383</td><td>North Terrace</td><td>Jonathan</td><td>T
+2 CONC aylerson</td><td>Head</td><td>Mar.</td><td>61</td><td>&nbsp;
+2 CONC </td><td>Railway Labourer</td><td>D<sup>o</sup> [Durham]</td
+2 CONC ><td>Sheraton</td><td>&nbsp;</td></tr>
+2 CONT <tr><td>&nbsp;</td><td>&nbsp;</td><td>Hannah</td><td>D<sup>o
+2 CONC </sup></td><td>Wife</td><td>Mar.</td><td>&nbsp;</td><td>52</
+2 CONC td><td>&nbsp;</td><td>D<sup>o</sup></td><td>Hart</td><td>&nb
+2 CONC sp;</td></tr>
+2 CONT <tr><td>&nbsp;</td><td>&nbsp;</td><td>David</td><td>D<sup>o<
+2 CONC /sup></td><td>Son</td><td>&nbsp;</td><td>17</td><td>&nbsp;</
+2 CONC td><td>Engine Fitter</td><td>D<sup>o</sup></td><td>D<sup>o</
+2 CONC sup></td><td>&nbsp;</td></tr>
+2 CONT <tr><td>&nbsp;</td><td>&nbsp;</td><td>Frances Ann</td><td>D<
+2 CONC sup>o</sup></td><td>Dau<sup>r</sup></td><td>&nbsp;</td><td>&
+2 CONC nbsp;</td><td>12</td><td>&nbsp;</td><td>D<sup>o</sup></td><t
+2 CONC d>D<sup>o</sup></td><td>&nbsp;</td></tr>
+2 CONT <tr><td>&nbsp;</td><td>&nbsp;</td><td>John</td><td>D<sup>o</
+2 CONC sup></td><td>Son</td><td>&nbsp;</td><td>14</td><td>&nbsp;</t
+2 CONC d><td>Iron Monger (App)</td><td>D<sup>o</sup></td><td>D<sup>
+2 CONC o</sup></td><td>&nbsp;</td></tr>
+2 CONT </tbody>
+2 CONT </table>
+0 @S86@ SOUR
+1 REFN dcf2877f-1dc9-4737-9b95-239832285db0
+1 TITL England Census, 1861, Durham, Throston, District 34, p. 28 o
+2 CONC f 31
+1 AUTH UK National Archives
+1 PUBL class RG9, piece 3704, folio 107, page 28
+1 TEXT Page <b>28</b><br />
+2 CONT The undermentioned Houses are situate within the Boundarie
+2 CONC s of the<br />
+2 CONT Township of <b>Throston</b><br />
+2 CONT Ecclesiastical District of <b>Holy Trinity</b><br />
+2 CONT <table border="1">
+2 CONT <thead>
+2 CONT <tr>
+2 CONT <th rowspan="2">No. of<br />
+2 CONT Schedule</th>
+2 CONT <th rowspan="2">Road, Street, &c.,<br />
+2 CONT and No. or Name of<br />
+2 CONT House</th>
+2 CONT <th colspan="2">HOUSES</th>
+2 CONT <th rowspan="2" colspan="2">Name and Surname of each<br />
+2 CONT Person</th>
+2 CONT <th rowspan="2">Relation<br />
+2 CONT to Head of<br />
+2 CONT Family</th>
+2 CONT <th rowspan="2">Condition</th>
+2 CONT <th colspan="2">Age<br />of</th>
+2 CONT <th rowspan="2">Rank, Profession, or Occupation</th>
+2 CONT <th rowspan="2" colspan="2">Where Born</th>
+2 CONT <th rowspan="2">Whether<br />
+2 CONT Blind, or Deaf<br />
+2 CONT and-Dumb</th>
+2 CONT </tr>
+2 CONT <tr>
+2 CONT <th>In-<br />habited</th>
+2 CONT <th>Unin-<br />habited<br />
+2 CONT (U.), or<br />
+2 CONT Building<br />
+2 CONT (B.)</th>
+2 CONT <th>Males</th>
+2 CONT <th>Females</th>
+2 CONT </tr>
+2 CONT </thead>
+2 CONT <tbody>
+2 CONT <tr><td>[...]</td><td>Milbank Terrace</td><td colspan="12">[
+2 CONC ...]</td></tr>
+2 CONT <tr><td colspan="14">[...]</td></tr>
+2 CONT <tr><td>136</td><td>10, D[itt]o.</td><td>1</td><td>&nbsp;</t
+2 CONC d><td>Jonathan</td><td>Taylerson</td><td>Head</td><td>Mar.</
+2 CONC td><td>71</td><td>&nbsp;</td><td>Watchman for Rai[?]g Co.</t
+2 CONC d><td>Durham,</td><td>Hart</td><td>&nbsp;</td></tr>
+2 CONT <tr><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;<
+2 CONC /td><td>Hannah</td><td>D[itt]o.</td><td>Wife</td><td>Mar</td
+2 CONC ><td>&nbsp;</td><td>62</td><td>&nbsp;</td><td>D[itt]o.</td><
+2 CONC td>D[itt]o.</td><td>&nbsp;</td></tr>
+2 CONT <tr><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;<
+2 CONC /td><td>John</td><td>D[itt]o.</td><td>Son</td><td>Sin.</td><
+2 CONC td>24</td><td>&nbsp;</td><td>Joiner</td><td>D[itt]o.</td><td
+2 CONC >D[itt]o.</td><td>&nbsp;</td></tr>
+2 CONT </tbody>
+2 CONT </table>
 0 @MLDnHhQZSGGw5BVQo9qM@ SOUR
 1 REFN 0c0d7b95-dd39-4014-8c02-16ae6e9db7b8
 1 REPO @hTXt7qBMQKeFqTG4cc4G@
 1 TITL England, Select Births and Christenings, 1538-1975
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
+2 CONC e: 2014
+0 @S80@ SOUR
+1 REFN f798de37-7a32-47ed-a804-0b4ecd2ba727
+1 REPO @hTXt7qBMQKeFqTG4cc4G@
+1 TITL England, Select Deaths and Burials, 1538-1991
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2014
@@ -5421,6 +8218,13 @@
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2011
+0 @S93@ SOUR
+1 REFN 2defb8b3-4d2a-40ea-a198-6547ad0ec0e3
+1 REPO @hTXt7qBMQKeFqTG4cc4G@
+1 TITL U.S. City Directories, 1822-1989
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
+2 CONC e: 2011
 0 @xcXXXJstR1iS4OizBZKh@ SOUR
 1 REFN 5279ef12-0e5f-41a7-9116-fa55425df9aa
 1 REPO @cJV7UxM4QEWWRiWbYius@
@@ -5479,6 +8283,46 @@
 2 CONC <td>&nbsp;</td><td>England</td></tr>
 2 CONT <tr><td>William</td><td>Taylorson</td><td>2/12</td><td>M</td
 2 CONC ><td>&nbsp;</td><td>N.Y.</td></tr>
+2 CONT </table>
+0 @S94@ SOUR
+1 REFN c8f24597-de74-4390-9060-b96effb4e75f
+1 TITL US Census, 1850, NY, Steuben, Painted Post
+1 AUTH US Census Bureau
+1 PUBL M432.598, p. 3
+1 TEXT SCHEDULE I.--Free Inhabitants in the Town of Painted Post i
+2 CONC n the County of Steuben State of New York enumerated by me
+2 CONC , on the 29<sup>th</sup> day of August 1850.<br />
+2 CONT [...]<br />
+2 CONT [Dwelling] 3<br />
+2 CONT [Family] 3<br />
+2 CONT <table border="1">
+2 CONT <tr><td>32</td><td>35</td><td>Robert</td><td>Talerson</td><t
+2 CONC d>50</td><td>M.</td><td>Carpenter.</td><td>300</td><td>Engla
+2 CONC nd</td></tr>
+2 CONT <tr><td>&nbsp;</td><td>&nbsp;</td><td>Robert</td><td>Talerso
+2 CONC n</td><td>4</td><td>M.</td><td>&nbsp;</td><td>&nbsp;</td><td
+2 CONC >England</td></tr>
+2 CONT <tr><td>&nbsp;</td><td>&nbsp;</td><td>John</td><td>Coak</td>
+2 CONC <td>19</td><td>M.</td><td>Brick layer.</td><td>&nbsp;</td><t
+2 CONC d>England</td></tr>
+2 CONT <tr><td>&nbsp;</td><td>&nbsp;</td><td>Elizabeth</td><td>Davi
+2 CONC son</td><td>34</td><td>F.</td><td>&nbsp;</td><td>&nbsp;</td>
+2 CONC <td>England</td></tr>
+2 CONT <tr><td>33</td><td>36</td><td>William</td><td>Davison</td><t
+2 CONC d>34</td><td>M.</td><td>Brick layer</td><td>&nbsp;</td><td>E
+2 CONC ngland</td></tr>
+2 CONT <tr><td>&nbsp;</td><td>&nbsp;</td><td>Thomas</td><td>Davison
+2 CONC </td><td>25</td><td>M.</td><td>Brick layer.</td><td>&nbsp;</
+2 CONC td><td>England</td></tr>
+2 CONT <tr><td>&nbsp;</td><td>&nbsp;</td><td>James</td><td>Davison<
+2 CONC /td><td>21</td><td>M.</td><td>Prentice</td><td>&nbsp;</td><t
+2 CONC d>England</td></tr>
+2 CONT <tr><td>&nbsp;</td><td>&nbsp;</td><td>Ellen</td><td>Carter</
+2 CONC td><td>4</td><td>F.</td><td>&nbsp</td><td>&nbsp;</td><td>Eng
+2 CONC land</td></tr>
+2 CONT <tr><td>&nbsp;</td><td>&nbsp;</td><td>William H</td><td>Davi
+2 CONC son</td><td>7/12</td><td>M.</td><td>&nbsp</td><td>&nbsp;</td
+2 CONC ><td>Pa</td></tr>
 2 CONT </table>
 0 @xbtkeA3NQVK7k9HX2Njs@ SOUR
 1 REFN 1cc31fe6-426c-4700-bdfe-eb0e50380075
@@ -5755,6 +8599,29 @@
 1 REFN f13b9672-e263-4c40-ae80-02597a8943bd
 1 TITL US Census, 1900, NY, Cattaraugus, Olean
 1 AUTH US Census Bureau
+0 @S95@ SOUR
+1 REFN 6c33f357-8773-495f-8c45-cce0fefd9090
+1 TITL US Census, 1900, NY, Chemung, Elmina, Ward 9, District 29, p
+2 CONC . 14 of 22
+1 AUTH US Census Bureau
+1 PUBL 1900-06-11
+1 TEXT Dodd Labinia Jan. 1854 48
+0 @S82@ SOUR
+1 REFN 2f1e6fe9-b7f0-4cc2-9696-c1700f487c78
+1 TITL US Census, 1900, NY, Steuben, Erwin, District 82, p. 11 of 2
+2 CONC 1
+1 AUTH US Census Bureau
+1 PUBL 1900-06-06
+1 TEXT Steuben St.<br />
+2 CONT Tobais Margret June 1851 48 W[d]<br />
+2 CONT Taylerson Christein mother Oct 1820 79 Wd
+0 @S89@ SOUR
+1 REFN 06226370-3053-48c8-a0a1-9ee264b7f2ca
+1 REPO @hTXt7qBMQKeFqTG4cc4G@
+1 TITL Web: International, Find A Grave Index
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
+2 CONC e: 2013
 0 @7jxFiZGcR16IjiRnFxmM@ SOUR
 1 REFN 8f80be72-7f09-4ab0-87cc-ae5d90ca3842
 1 REPO @hTXt7qBMQKeFqTG4cc4G@
@@ -6285,4 +9152,152 @@
 2 _TEXT Registration State: New York; Registration County: Broome; R
 3 CONC oll: 1712045
 1 REFN 175c93b1-7c90-4028-bf68-14ee02b9e488
+0 @M64@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Taylerson_Taylo
+2 CONC rson(1) Media\1841 England Census.jpg
+2 FORM jpg
+2 TITL 1841 England Census
+2 _TEXT Class: HO107; Piece: 317; Book: 23; Civil Parish: Stockton U
+3 CONC pon Tees; County: Durham; Enumeration District: 1; Folio: 5
+3 CONC ; Page: 5; Line: 5; GSU roll: 241357
+1 REFN 476b653a-c34e-4f6c-9833-89a1187fd2f8
+0 @M65@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Taylerson_Taylo
+2 CONC rson(1) Media\Wife's burial.jpg
+2 FORM jpg
+2 TITL Wife's burial
+1 REFN e0cd3e7e-9368-4019-801c-beee0e120668
+0 @M66@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Taylerson_Taylo
+2 CONC rson(1) Media\1841 England Census(1).jpg
+2 FORM jpg
+2 TITL 1841 England Census
+2 _TEXT Class: HO107; Piece: 317; Book: 27; Civil Parish: Stockton U
+3 CONC pon Tees; County: Durham; Enumeration District: 12; Folio: 3
+3 CONC 3; Page: 30; Line: 5; GSU roll: 241357
+1 REFN 92098c58-b62f-45e5-8b53-753f64ba20ab
+0 @M67@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Taylerson_Taylo
+2 CONC rson(1) Media\1851 England Census.jpg
+2 FORM jpg
+2 TITL 1851 England Census
+2 _TEXT Class: HO107; Piece: 2383; Folio: 722; Page: 1; GSU roll: 87
+3 CONC 061
+1 REFN 1443f8de-a594-422d-9fe4-f5da4b788c2a
+0 @M68@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Taylerson_Taylo
+2 CONC rson(1) Media\England & Wales, FreeBMD Death Index, 1837-191
+2 CONC 5(1).jpg
+2 FORM jpg
+2 TITL England & Wales, FreeBMD Death Index, 1837-1915
+1 REFN 84f2deb1-377a-468d-8c78-949a3d505752
+0 @M69@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Taylerson_Taylo
+2 CONC rson(1) Media\England & Wales, FreeBMD Death Index, 1837-191
+2 CONC 5.jpg
+2 FORM jpg
+2 TITL England & Wales, FreeBMD Death Index, 1837-1915
+1 REFN 22c4f112-c761-454e-a509-c897380aa937
+0 @M70@ OBJE
+1 FILE 1841 England Census(2).jpg
+2 FORM jpg
+2 TITL 1841 England Census
+2 _TEXT Class: HO107; Piece: 315; Book: 17; Civil Parish: Hart; Coun
+3 CONC ty: Durham; Enumeration District: 6a; Folio: 6; Page: 8; Lin
+3 CONC e: 1; GSU roll: 241356
+1 REFN 2e1b3571-73b3-49db-a38f-447d612999af
+0 @M71@ OBJE
+1 FILE 1851 England Census(1).jpg
+2 FORM jpg
+2 TITL 1851 England Census
+2 _TEXT Class: HO107; Piece: 2384; Folio: 421; Page: 16; GSU roll: 8
+3 CONC 7062
+1 REFN 7392b16a-5962-467a-af69-2016a6f4cc55
+0 @M72@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Taylerson_Taylo
+2 CONC rson(1) Media\1861 England Census.jpg
+2 FORM jpg
+2 TITL 1861 England Census
+2 _TEXT Class: RG 9; Piece: 3704; Folio: 107; Page: 28; GSU roll: 54
+3 CONC 3175
+1 REFN 8a8851ae-e8db-41b2-85a5-63ddbad126d5
+0 @M73@ OBJE
+1 FILE England & Wales, FreeBMD Death Index, 1837-1915(4).jpg
+2 FORM jpg
+2 TITL England & Wales, FreeBMD Death Index, 1837-1915
+1 REFN 09e3506f-47d0-4727-a42c-e1872692cd88
+0 @M74@ OBJE
+1 FILE 1871 England Census.jpg
+2 FORM jpg
+2 TITL 1871 England Census
+2 _TEXT Class: RG10; Piece: 5024; Folio: 71; Page: 53; GSU roll: 848
+3 CONC 490
+1 REFN e5b82d4a-af60-4841-9a35-d541b3b09e42
+0 @M75@ OBJE
+1 FILE England & Wales, FreeBMD Death Index, 1837-1915(2).jpg
+2 FORM jpg
+2 TITL England & Wales, FreeBMD Death Index, 1837-1915
+1 REFN 7ea8418e-8597-4d56-bd18-56721d1cf0a7
+0 @M76@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Taylerson_Taylo
+2 CONC rson(1) Media\Burial.jpg
+2 FORM jpg
+2 TITL Burial
+1 REFN 6202015d-f945-4928-b2da-fb1840298032
+0 @M77@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Taylerson_Taylo
+2 CONC rson(1) Media\Marriage.jpg
+2 FORM jpg
+2 TITL Marriage
+1 REFN 0d63e16d-a196-44df-ac17-b798a0d929cf
+0 @M78@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Taylerson_Taylo
+2 CONC rson(1) Media\1870 United States Federal Census.jpg
+2 FORM jpg
+2 TITL 1870 United States Federal Census
+2 _TEXT Year: 1870; Census Place: Corning, Steuben, New York; Roll
+3 CONC : M593_1095; Page: 49A; Image: 102; Family History Library F
+3 CONC ilm: 552594
+1 REFN 36ebf2b4-c76f-46bc-ac85-2e19160e5d45
+0 @M79@ OBJE
+1 FILE England & Wales, Civil Registration Marriage Index, 1837-191
+2 CONC 5.jpg
+2 FORM jpg
+2 TITL England & Wales, Civil Registration Marriage Index, 1837-191
+3 CONC 5
+1 REFN 4a02c136-3dff-4738-83bd-bf7ea5682e15
+0 @M80@ OBJE
+1 FILE U.S. City Directories, 1822-1989.jpg
+2 FORM jpg
+2 TITL U.S. City Directories, 1822-1989
+1 REFN 66f97a38-b23c-4658-a53f-788e4ca950e3
+0 @M81@ OBJE
+1 FILE 1860 United States Federal Census(1).jpg
+2 FORM jpg
+2 TITL 1860 United States Federal Census
+2 _TEXT Year: 1860; Census Place: Corning, Steuben, New York; Roll
+3 CONC : M653_863; Page: 216; Image: 221; Family History Library Fi
+3 CONC lm: 803863
+1 REFN 7d4c7de7-2b0f-492c-a2b8-4b1aaebd9efc
+0 @M82@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Taylorson Media
+2 CONC \1870 United States Federal Census.jpg
+2 FORM jpg
+2 TITL 1870 United States Federal Census
+2 _TEXT Year: 1870; Census Place: Corning, Steuben, New York; Roll
+3 CONC : M593_1095; Page: 49A; Family History Library Film: 552594
+0 @N240@ NOTE P. Sidgwick gives place as Monk Hesleden.
+0 @N162@ NOTE __GEDCOM__: DATE ABT 1796 __GEDCOM__
+0 @N94@ NOTE __GEDCOM__: DATE ABT 1800 __GEDCOM__
+0 @N113@ NOTE __GEDCOM__: DATE ABT 1826 __GEDCOM__
+0 @N157@ NOTE __GEDCOM__: DATE ABT 1828 __GEDCOM__
+0 @N135@ NOTE __GEDCOM__: DATE ABT 1830 __GEDCOM__
+0 @N115@ NOTE __GEDCOM__: DATE ABT 1832 __GEDCOM__
+0 @N114@ NOTE __GEDCOM__: DATE ABT 1834 __GEDCOM__
+0 @N97@ NOTE __GEDCOM__: DATE OCT 1820 __GEDCOM__
+1 CONT
+1 CONT date is from 1860 census
+0 @N241@ NOTE need to order death cert. from England
+0 @N172@ NOTE somewhere in the neighborhood of High Street and Park Row i
+1 CONC n Stockton upon Tees
 0 TRLR
