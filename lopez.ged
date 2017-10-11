@@ -14,7 +14,7 @@
 1 SUBM @7gRqCK4CSVyNCk4tvpit@
 1 FILE Lopez_2017-10-11.ged
 1 DATE 11 OCT 2017
-2 TIME 04:46:34
+2 TIME 20:10:07
 0 @7gRqCK4CSVyNCk4tvpit@ SUBM
 1 NAME Christopher Alan Mosher
 1 RIN Umy2qBWIRUiwVSS6Hcn4
@@ -124,9 +124,7 @@
 5 CONC 892&pid=19
 2 SOUR @S65@
 3 PAGE http://gw.geneanet.org/ecuadorgen?lang=en;pz=fausto+anibal;n
-4 CONC z=alvarado;ocz=0;p=jose;n=auz;oc=1http://gw.geneanet.org/ecu
-4 CONC adorgen?lang=en;pz=fausto+anibal;nz=alvarado;ocz=0;p=jose;n=
-4 CONC auz;oc=1
+4 CONC z=alvarado;ocz=0;p=jose;n=auz;oc=1
 1 SEX M
 1 FAMC @F19@
 1 FAMS @F16@
@@ -134,23 +132,17 @@
 2 DATE 1710
 2 SOUR @S65@
 3 PAGE http://gw.geneanet.org/ecuadorgen?lang=en;pz=fausto+anibal;n
-4 CONC z=alvarado;ocz=0;p=jose;n=auz;oc=1http://gw.geneanet.org/ecu
-4 CONC adorgen?lang=en;pz=fausto+anibal;nz=alvarado;ocz=0;p=jose;n=
-4 CONC auz;oc=1
+4 CONC z=alvarado;ocz=0;p=jose;n=auz;oc=1
 1 DEAT
 2 DATE 1780
 2 SOUR @S65@
 3 PAGE http://gw.geneanet.org/ecuadorgen?lang=en;pz=fausto+anibal;n
-4 CONC z=alvarado;ocz=0;p=jose;n=auz;oc=1http://gw.geneanet.org/ecu
-4 CONC adorgen?lang=en;pz=fausto+anibal;nz=alvarado;ocz=0;p=jose;n=
-4 CONC auz;oc=1
+4 CONC z=alvarado;ocz=0;p=jose;n=auz;oc=1
 0 @I56@ INDI
 1 _XY 400 142
 1 REFN 8a6f14c7-4cf8-4f1c-bff1-b6be9e820fd9
 1 NAME Mariano /Auz/
 2 SOUR @S68@
-2 SOUR @S68@
-3 QUAY 1
 1 SEX M
 1 FAMC @F17@
 1 FAMS @F20@
@@ -163,8 +155,6 @@
 4 LATI S0.2167
 4 LONG W78.5
 2 SOUR @S68@
-2 SOUR @S68@
-3 QUAY 1
 1 TITL Comendador del Convento
 2 DATE FROM 1861 TO 1864
 2 PLAC Iglesia de la Merced [Church of Mercy], Calle Chile y Call
@@ -183,18 +173,12 @@
 2 PLAC Iglesia de la Merced [Church of Mercy], Calle Chile y Call
 3 CONC e Cuenca, Quito, Pichincha, Ecuador
 2 SOUR @S68@
-2 SOUR @S68@
-3 QUAY 1
 1 RELI Catholic
 2 SOUR @S68@
-2 SOUR @S68@
-3 QUAY 1
 1 RESI
 2 PLAC Calle del Cebollar [Onion Patch Street], Quito, Pichincha, E
 3 CONC cuador
 2 SOUR @S68@
-2 SOUR @S68@
-3 QUAY 1
 0 @I57@ INDI
 1 REFN 69209f94-0525-46d6-8366-157c0830b93c
 1 NAME Gustavo /Barba/
@@ -923,8 +907,6 @@
 1 REFN f33bae71-57c6-4e62-b426-0e93de0721a0
 1 NAME Rosario /Daste/
 2 SOUR @S68@
-2 SOUR @S68@
-3 QUAY 1
 1 SEX F
 1 FAMC @F20@
 0 @I78@ INDI
@@ -932,8 +914,6 @@
 1 REFN a6ba9592-c18d-4e17-84cb-b6226bc0a01d
 1 NAME unknown wife of Mariano Auz /Daste/
 2 SOUR @S68@
-2 SOUR @S68@
-3 QUAY 1
 1 SEX F
 1 FAMS @F20@
 0 @gsDzouYTSfifaq2wjI7f@ INDI
@@ -1916,7 +1896,6 @@
 2 DATE 1802
 2 PLAC San Pablo del Lago, Imbabura, Ecuador
 2 SOUR @S72@
-2 SOUR @S73@
 1 DEAT
 2 DATE 1873
 2 PLAC Quito, Pichincha, Ecuador
@@ -1924,7 +1903,6 @@
 4 LATI S0.2167
 4 LONG W78.5
 2 SOUR @S72@
-2 SOUR @S73@
 0 @I145@ INDI
 1 _XY 1012 30
 1 REFN 4c261fe2-a4f1-42e2-9061-d8f4782fe2d3
@@ -1964,9 +1942,6 @@
 1 NAME Adela /Donoso/
 2 SOUR @S68@
 3 PAGE p. 25
-2 SOUR @S68@
-3 PAGE p. 25
-3 QUAY 1
 1 SEX F
 1 FAMC @F55@
 1 BIRT
@@ -1996,9 +1971,6 @@
 1 NAME Camila /Donoso/
 2 SOUR @S68@
 3 PAGE p. 25
-2 SOUR @S68@
-3 PAGE p. 25
-3 QUAY 1
 1 SEX F
 1 FAMC @F55@
 0 @I149@ INDI
@@ -2007,9 +1979,6 @@
 1 NAME Modesto /Donoso/
 2 SOUR @S68@
 3 PAGE p. 25
-2 SOUR @S68@
-3 PAGE p. 25
-3 QUAY 1
 1 SEX M
 1 FAMC @F55@
 1 BIRT
@@ -2025,9 +1994,6 @@
 1 NAME Teresa /Donoso/
 2 SOUR @S68@
 3 PAGE p. 25
-2 SOUR @S68@
-3 PAGE p. 25
-3 QUAY 1
 1 SEX F
 1 FAMC @F55@
 1 BIRT
@@ -2256,8 +2222,6 @@
 1 REFN 6b10f95a-5352-4f2a-b544-94bcd16d774d
 1 NAME Amalia /Hurtado Zambrano/
 2 SOUR @S68@
-2 SOUR @S68@
-3 QUAY 1
 1 SEX F
 1 FAMC @F60@
 1 FAMS @F61@
@@ -2270,9 +2234,6 @@
 4 LONG W78.5
 2 SOUR @S68@
 3 PAGE p. 25
-2 SOUR @S68@
-3 PAGE p. 25
-3 QUAY 1
 1 DEAT
 2 DATE 1913
 2 PLAC Quito, Pichincha, Ecuador
@@ -2280,15 +2241,11 @@
 4 LATI S0.2167
 4 LONG W78.5
 2 SOUR @S68@
-2 SOUR @S68@
-3 QUAY 1
 0 @I166@ INDI
 1 _XY 607 96
 1 REFN 8197e007-47c8-444f-9a7c-b0d249bc1c4b
 1 NAME [unknown] /Hurtado/
 2 SOUR @S68@
-2 SOUR @S68@
-3 QUAY 1
 1 SEX M
 1 FAMS @F60@
 1 BIRT
@@ -2297,8 +2254,6 @@
 1 RESI
 2 PLAC Los Ríos, Ecuador
 2 SOUR @S68@
-2 SOUR @S68@
-3 QUAY 1
 0 @I167@ INDI
 1 REFN df41ecdd-7570-43b7-86fd-9fac29f59d9b
 1 NAME Anserma /India/
@@ -2574,18 +2529,13 @@
 1 REFN 737b79c9-ed1a-4abe-b5c0-c57685310f60
 1 NAME Camila /López/
 2 SOUR @S68@
-2 SOUR @S68@
-3 QUAY 1
 1 SEX F
-1 FAMC @F64@
 1 FAMC @F65@
 0 @I172@ INDI
 1 _XY 160 273
 1 REFN 45ddcab7-4fc0-467b-9a51-bde9f3e5d301
 1 NAME Carlos /López/
 2 SOUR @S68@
-2 SOUR @S68@
-3 QUAY 1
 1 SEX M
 1 FAMC @F21@
 0 @4CmHCHL9SeWqrg5IQwEM@ INDI
@@ -2606,10 +2556,7 @@
 1 REFN 4848199e-b999-4d0f-8b48-d40d285d5e41
 1 NAME Dolores /López/
 2 SOUR @S68@
-2 SOUR @S68@
-3 QUAY 1
 1 SEX F
-1 FAMC @F64@
 1 FAMC @F65@
 1 FAMS @F21@
 1 BIRT
@@ -2619,14 +2566,10 @@
 4 LATI S0.2167
 4 LONG W78.5
 2 SOUR @S68@
-2 SOUR @S68@
-3 QUAY 1
 1 RESI
 2 PLAC Calle del Cebollar [Onion Patch Street], Quito, Pichincha, E
 3 CONC cuador
 2 SOUR @S68@
-2 SOUR @S68@
-3 QUAY 1
 0 @MXy97gGiR8OdDYExTOv7@ INDI
 1 _XY 173695 3250
 1 REFN 546c81e8-3a75-45a9-b6e9-65abf3520283
@@ -2865,8 +2808,6 @@
 1 REFN ba7669c9-57c0-49c8-b0c0-b36c7f4fe8d7
 1 NAME Dolores Malvina /López/
 2 SOUR @S68@
-2 SOUR @S68@
-3 QUAY 1
 1 SEX F
 1 FAMC @F61@
 1 BIRT
@@ -2876,8 +2817,6 @@
 4 LATI S0.2167
 4 LONG W78.5
 2 SOUR @S68@
-2 SOUR @S68@
-3 QUAY 1
 1 DEAT
 2 DATE 22 MAR 1977
 2 PLAC Quito, Pichincha, Ecuador
@@ -2885,8 +2824,6 @@
 4 LATI S0.2167
 4 LONG W78.5
 2 SOUR @S68@
-2 SOUR @S68@
-3 QUAY 1
 0 @M2VYIcfGShuHHjLxRLLO@ INDI
 1 _XY 172286 3250
 1 REFN fe9a8417-4b2c-4108-a56e-76147cd72175
@@ -3685,8 +3622,6 @@
 4 LATI S0.2167
 4 LONG W78.5
 2 SOUR @S68@
-2 SOUR @S68@
-3 QUAY 1
 1 DEAT
 2 DATE 1918
 2 PLAC Quito, Pichincha, Ecuador
@@ -3694,17 +3629,12 @@
 4 LATI S0.2167
 4 LONG W78.5
 2 SOUR @S68@
-2 SOUR @S68@
-3 QUAY 1
 0 @I176@ INDI
 1 _XY 93 174
 1 REFN b01f6a83-6303-4178-986d-c2f2120a983c
 1 NAME Gregoria /López/
 2 SOUR @S68@
-2 SOUR @S68@
-3 QUAY 1
 1 SEX F
-1 FAMC @F64@
 1 FAMC @F65@
 0 @NaIT2nB5R8G9YqCemqbB@ INDI
 1 _XY 173399 3250
@@ -4158,8 +4088,6 @@
 1 REFN 77b6c54a-0f00-459a-84e4-5551642ba792
 1 NAME Joaquín /López/
 2 SOUR @S68@
-2 SOUR @S68@
-3 QUAY 1
 1 SEX M
 1 FAMC @F21@
 0 @I178@ INDI
@@ -4167,8 +4095,6 @@
 1 REFN 18fb523d-b435-43e8-b33d-373b8dc1c886
 1 NAME Julia /López/
 2 SOUR @S68@
-2 SOUR @S68@
-3 QUAY 1
 1 SEX F
 1 FAMC @F61@
 1 BIRT
@@ -4178,8 +4104,6 @@
 4 LATI S0.2167
 4 LONG W78.5
 2 SOUR @S68@
-2 SOUR @S68@
-3 QUAY 1
 1 DEAT
 2 DATE ABT 1880
 2 PLAC Quito, Pichincha, Ecuador
@@ -4187,15 +4111,11 @@
 4 LATI S0.2167
 4 LONG W78.5
 2 SOUR @S68@
-2 SOUR @S68@
-3 QUAY 1
 0 @I179@ INDI
 1 _XY 455 413
 1 REFN 21a9997a-f44e-41c3-a7f4-d8498f3165f0
 1 NAME Julio César /López/
 2 SOUR @S68@
-2 SOUR @S68@
-3 QUAY 1
 1 SEX M
 1 FAMC @F61@
 1 BIRT
@@ -4205,8 +4125,6 @@
 4 LATI S0.2167
 4 LONG W78.5
 2 SOUR @S68@
-2 SOUR @S68@
-3 QUAY 1
 1 DEAT
 2 DATE 08 JUN 1896
 2 PLAC Quito, Pichincha, Ecuador
@@ -4214,8 +4132,6 @@
 4 LATI S0.2167
 4 LONG W78.5
 2 SOUR @S68@
-2 SOUR @S68@
-3 QUAY 1
 0 @1C3rIQUbRIOk40Lcs7MR@ INDI
 1 _XY 166 477
 1 REFN 1b5b6e74-7605-445e-bce4-91fd39e89553
@@ -4548,18 +4464,12 @@
 1 EVEN
 2 TYPE note
 2 NOTE she remained a citizen of Ecuador her whole life
-0 @I180@ INDI
-1 _XY 61 69
-1 REFN 057927f8-f6e5-4860-8df3-4a3d257ef3f1
-1 NAME Lorenzo /López/
-2 SOUR @S68@
-3 QUAY 1
-1 SEX M
-1 FAMS @F64@
 0 @I181@ INDI
+1 _XY 61 69
 1 REFN cf418531-cb55-4c14-b82e-1c070f3191b0
 1 NAME Lorenzo /López/
 2 SOUR @S68@
+3 QUAY 1
 1 SEX M
 1 FAMS @F65@
 1 BIRT
@@ -4641,8 +4551,6 @@
 1 REFN a1e4b37e-1b09-4884-bfc3-1344dc61b5e2
 1 NAME Nicolás /López/
 2 SOUR @S68@
-2 SOUR @S68@
-3 QUAY 1
 1 SEX M
 1 FAMC @F21@
 0 @HAYOXGGYSyeeyhariRKI@ INDI
@@ -4656,10 +4564,7 @@
 1 REFN 3584b62c-f541-422d-a403-0c21cb103243
 1 NAME Pacífica /López/
 2 SOUR @S68@
-2 SOUR @S68@
-3 QUAY 1
 1 SEX F
-1 FAMC @F64@
 1 FAMC @F65@
 0 @lfzXmEJlR7yx4R6MSYy4@ INDI
 1 _XY 173102 3360
@@ -4808,10 +4713,7 @@
 1 REFN 032d8ed2-8762-4289-b16e-25cc986dc1ee
 1 NAME Rosario /López/
 2 SOUR @S68@
-2 SOUR @S68@
-3 QUAY 1
 1 SEX F
-1 FAMC @F64@
 1 FAMC @F65@
 0 @sZfFfcdfR6i8oeEOmcHP@ INDI
 1 _XY 172662 3360
@@ -4951,8 +4853,6 @@
 1 REFN e0565871-9cda-400d-bf7e-de6f62248f09
 1 NAME José Manuel /Paz y Miño/
 2 SOUR @S68@
-2 SOUR @S68@
-3 QUAY 1
 1 SEX M
 1 FAMC @F67@
 1 FAMS @F62@
@@ -4986,23 +4886,17 @@
 4 LATI S0.2167
 4 LONG W78.5
 2 SOUR @S68@
-2 SOUR @S68@
-3 QUAY 1
 1 BIRT
 2 PLAC Quito, Pichincha, Ecuador
 3 MAP
 4 LATI S0.2167
 4 LONG W78.5
 2 SOUR @S68@
-2 SOUR @S68@
-3 QUAY 1
 0 @I193@ INDI
 1 _XY 965 279
 1 REFN 82cad4c3-de97-4c9e-b4a3-29cf70f4c310
 1 NAME Ramón /Paz y Miño/
 2 SOUR @S68@
-2 SOUR @S68@
-3 QUAY 1
 1 SEX M
 1 FAMC @F67@
 1 FAMS @F26@
@@ -5038,8 +4932,6 @@
 1 REFN 8de8458e-2dca-4a2d-80ce-0ab5be981d9a
 1 NAME Diocelina /Pazmiño/
 2 SOUR @S68@
-2 SOUR @S68@
-3 QUAY 1
 1 SEX F
 1 FAMC @F62@
 1 DEAT
@@ -5049,16 +4941,12 @@
 4 LATI S0.2167
 4 LONG W78.5
 2 SOUR @S68@
-2 SOUR @S68@
-3 QUAY 1
 1 BIRT
 2 PLAC Quito, Pichincha, Ecuador
 3 MAP
 4 LATI S0.2167
 4 LONG W78.5
 2 SOUR @S68@
-2 SOUR @S68@
-3 QUAY 1
 0 @4p97S4PRROqpAsXPq5TW@ INDI
 1 REFN 0212f1de-4ba1-4347-8fbd-5642f6d1ed2c
 1 NAME Graciela Elena /Pazmiño/
@@ -5111,8 +4999,6 @@
 1 REFN 6034cd99-90bc-4258-a56b-23b0c3a0808e
 1 NAME Rosario /Pazmiño/
 2 SOUR @S68@
-2 SOUR @S68@
-3 QUAY 1
 1 SEX F
 1 FAMC @F62@
 1 DEAT
@@ -5122,16 +5008,12 @@
 4 LATI S0.2167
 4 LONG W78.5
 2 SOUR @S68@
-2 SOUR @S68@
-3 QUAY 1
 1 BIRT
 2 PLAC Quito, Pichincha, Ecuador
 3 MAP
 4 LATI S0.2167
 4 LONG W78.5
 2 SOUR @S68@
-2 SOUR @S68@
-3 QUAY 1
 0 @CfNvHZZyS5qd0UXAmPV8@ INDI
 1 REFN 6e791551-8717-48ca-9a5a-a27890ac627c
 1 NAME Víctor Estenio /Pazmiño/
@@ -6029,8 +5911,6 @@
 1 REFN 5b65707a-97c5-44e2-94ad-dcb870b3ed6b
 1 NAME Dolores /Zambrano/
 2 SOUR @S68@
-2 SOUR @S68@
-3 QUAY 1
 1 SEX F
 1 FAMS @F55@
 1 FAMS @F60@
@@ -6041,8 +5921,6 @@
 4 LATI S0.2167
 4 LONG W78.5
 2 SOUR @S68@
-2 SOUR @S68@
-3 QUAY 1
 2 NOTE date is just a guess based on age of husband Joaquin
 1 PROP bought second house down from Calle de Juan Pío Montúfar
 2 CONC , on the north-east side of the street, from Daniel Carvajal
@@ -6155,8 +6033,6 @@
 1 DEAT
 2 DATE ABT FEB 1873
 2 SOUR @S68@
-2 SOUR @S68@
-3 QUAY 1
 0 @sbahjdXgTgemP1XmcDMb@ INDI
 1 _XY 173737 3360
 1 REFN f8f425a8-019b-44f7-9377-17d34e4b7ba5
@@ -7501,7 +7377,6 @@
 1 MARR
 2 DATE ABT 1830
 2 SOUR @S72@
-2 SOUR @S73@
 0 @F53@ FAM
 1 REFN 214bf3a4-25c5-4db9-8d9a-bec486ac05af
 1 HUSB @I145@
@@ -7513,7 +7388,6 @@
 2 DATE ABT 1797
 2 PLAC San Pablo del Lago, Imbabura, Ecuador
 2 SOUR @S72@
-2 SOUR @S73@
 0 @F25@ FAM
 1 REFN c21b70a4-460b-4586-81ef-980b255ad879
 1 HUSB @I151@
@@ -7704,19 +7578,6 @@
 4 CONC a de Jesus Villanueva, 06 Aug 1925; citing Marriage, Crist
 4 CONC o de Aranza, Maracaibo, Zulia, Venezuela, parroquias Católi
 4 CONC cas; FHL microfilm 1,
-0 @F64@ FAM
-1 REFN b1af99b2-35c6-4531-85d7-261666cf89d4
-1 HUSB @I180@
-1 CHIL @I171@
-2 _FREL Natural
-1 CHIL @I176@
-2 _FREL Natural
-1 CHIL @I183@
-2 _FREL Natural
-1 CHIL @I184@
-2 _FREL Natural
-1 CHIL @I173@
-2 _FREL Natural
 0 @F65@ FAM
 1 REFN 9e00d876-2420-4cf7-9a46-3d9950b75c26
 1 HUSB @I181@
@@ -7963,14 +7824,9 @@
 2 _MREL Natural
 1 MARR
 2 DATE ABT 1903
-0 @xHe9QECyQEOJwnc6BXii@ REPO
+0 @R1@ REPO
 1 NAME Ancestry.com
-1 ADDR http://www.Ancestry.com
-1 EMAIL
-1 PHON
-0 @4C3FCKv9R0Kn02eq28g7@ REPO
-1 NAME Ancestry.com, II, OLD
-1 ADDR
+1 ADDR http://www.ancestry.com
 1 EMAIL
 1 PHON
 0 @R3@ REPO
@@ -7978,33 +7834,23 @@
 1 ADDR Salt Lake City, Utah, USA
 1 EMAIL
 1 PHON
-0 @xHe9QECyQEOJwnc6BXii@ REPO
-1 NAME Ancestry.com
-1 ADDR
-1 EMAIL
-1 PHON
-0 @xHe9QECyQEOJwnc6BXii@ REPO
-1 NAME Ancestry.com
-1 ADDR
-1 EMAIL
-1 PHON
 0 @zznD1WJ7RJetSxS9JJ2R@ SOUR
 1 REFN 2ff93d99-b16e-45ff-8cba-6100c08a8b7a
-1 REPO @xHe9QECyQEOJwnc6BXii@
+1 REPO @R1@
 1 TITL 1900 United States Federal Census
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations Inc; Location: Provo, UT, USA; Date
 2 CONC : 2004
 0 @Z0SQaG1kRbWQtiKMUjof@ SOUR
 1 REFN 5cab9c6d-2209-4f37-96f2-539ddb26e6f2
-1 REPO @xHe9QECyQEOJwnc6BXii@
+1 REPO @R1@
 1 TITL 1910 United States Federal Census
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations Inc; Location: Provo, UT, USA; Date
 2 CONC : 2006
 0 @pZSp306qQOGHvPqm0c60@ SOUR
 1 REFN 9a650392-58ca-42bd-a11a-615445b03d57
-1 REPO @4C3FCKv9R0Kn02eq28g7@
+1 REPO @R1@
 1 TITL 1920 United States Federal Census
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
@@ -8019,14 +7865,14 @@
 2 CONC 9 are on roll 323 (Chicago City).
 0 @cYpH9GKbREexd30xG7Ri@ SOUR
 1 REFN eccf4ca6-3002-487c-92b4-2a685a3bd747
-1 REPO @xHe9QECyQEOJwnc6BXii@
+1 REPO @R1@
 1 TITL 1930 United States Federal Census
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations Inc; Location: Provo, UT, USA; Date
 2 CONC : 2002
 0 @wasQXzkoQbebWtJVQDxQ@ SOUR
 1 REFN 225cbe9a-e3c2-4f13-b8ca-70b896b25005
-1 REPO @4C3FCKv9R0Kn02eq28g7@
+1 REPO @R1@
 1 TITL 1940 United States Federal Census
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
@@ -8037,7 +7883,7 @@
 2 CONC 43 rolls.
 0 @G8TESznJRGCKBg1WwF0w@ SOUR
 1 REFN 11f21b2e-ff62-4c28-b685-792f2b9f489a
-1 REPO @xHe9QECyQEOJwnc6BXii@
+1 REPO @R1@
 1 TITL Ancestry Family Trees
 1 PUBL Online publication - Provo, UT, USA: Ancestry.com.  Origina
 2 CONC l data:  Family Tree files submitted by Ancestry members.
@@ -8049,14 +7895,14 @@
 1 TEXT http://gw.geneanet.org/ferneche
 0 @fGtagMi3TwuZAiqyWBib@ SOUR
 1 REFN c7b533f3-afec-4a99-82a0-f40f680df74c
-1 REPO @4C3FCKv9R0Kn02eq28g7@
+1 REPO @R1@
 1 TITL Border Crossings: From Mexico to U.S., 1895-1964
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2006
 0 @wN4p8JORTTCTcTlwT98u@ SOUR
 1 REFN 09f66942-52b2-4759-b9cc-4d3cde4afe8a
-1 REPO @xHe9QECyQEOJwnc6BXii@
+1 REPO @R1@
 1 TITL California, Death Index, 1940-1997
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations Inc; Location: Provo, UT, USA; Date
@@ -8068,7 +7914,7 @@
 1 PUBL Fonsal; Location: Ecuador
 0 @f0AWP7VFTda2mleQdi2Z@ SOUR
 1 REFN 3adf3bef-c858-4dd3-8dba-1ea2317e0677
-1 REPO @xHe9QECyQEOJwnc6BXii@
+1 REPO @R1@
 1 TITL Canada, Soldiers of the First World War, 1914-1918
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
@@ -8126,7 +7972,7 @@
 2 CONC 16>
 0 @rF6T1DrXQt2JZCH7KGmd@ SOUR
 1 REFN d9c676b2-3a7a-41ca-b907-a2467391bd76
-1 REPO @xHe9QECyQEOJwnc6BXii@
+1 REPO @R1@
 1 TITL Directory of Deceased American Physicians, 1804-1929
 0 @7hzCF6rURECkbdc8IJaU@ SOUR
 1 REFN 3e2d0186-93fe-45a5-b3e2-47d789bd9342
@@ -8162,7 +8008,7 @@
 2 CONC rced.]
 0 @azre2a3yQZ6Gpr6CCL84@ SOUR
 1 REFN a3786c96-3038-4858-8aca-5e07de9defe8
-1 REPO @xHe9QECyQEOJwnc6BXii@
+1 REPO @R1@
 1 TITL Florida Passenger Lists, 1898-1964
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations Inc; Location: Provo, UT, USA; Date
@@ -8201,13 +8047,13 @@
 2 CONT Fonsal, 2004.
 0 @DaUw03A1QHqLXyRjHuOq@ SOUR
 1 REFN 7d72f232-946b-4096-af24-b0eb568af2ff
-1 REPO @xHe9QECyQEOJwnc6BXii@
+1 REPO @R1@
 1 TITL New Orleans, Passenger Lists, 1813-1945
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2006
 0 @S60@ SOUR
-1 REPO @xHe9QECyQEOJwnc6BXii@
+1 REPO @R1@
 1 TITL New York City, Marriage License Indexes, 1907-1995
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Lehi, UT, USA; Date
@@ -8375,56 +8221,56 @@
 2 CONT </table>
 0 @uc6TY0trSKKxEHYlsSze@ SOUR
 1 REFN 829454e4-2eca-4936-9966-6c61ac2d5465
-1 REPO @4C3FCKv9R0Kn02eq28g7@
+1 REPO @R1@
 1 TITL New York, County Marriages, 1847-1849; 1907-1936
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Lehi, UT, USA; Date
 2 CONC : 2016
 0 @Ju7QFFoAQjKaE1Ey19sj@ SOUR
 1 REFN 35d810d6-3e3b-4741-b0b0-365c67627054
-1 REPO @xHe9QECyQEOJwnc6BXii@
+1 REPO @R1@
 1 TITL New York, New York, Birth Index, 1878-1909
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2014
 0 @AjMegeGBTpu0nJWDRMDA@ SOUR
 1 REFN e5c77eb5-c6be-4b71-b43f-8909904d0a7c
-1 REPO @xHe9QECyQEOJwnc6BXii@
+1 REPO @R1@
 1 TITL New York, New York, Death Index, 1862-1948
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2014
 0 @6GMfgI81RfCDdjYEIKCD@ SOUR
 1 REFN d12f6d0f-a436-4eb6-8094-681f32d73687
-1 REPO @xHe9QECyQEOJwnc6BXii@
+1 REPO @R1@
 1 TITL New York, Passenger Lists, 1820-1957
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2010
 0 @S63@ SOUR
 1 REFN 57e17c1c-da61-4e6f-abc9-da26693cd52e
-1 REPO @xHe9QECyQEOJwnc6BXii@
+1 REPO @R1@
 1 TITL New York, Passenger Lists, 1820-1957
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2010
 0 @Ap7270q8QDmqnp4oKY6u@ SOUR
 1 REFN 1dcb059e-43f8-4d34-a677-cb5ddf3f0d57
-1 REPO @xHe9QECyQEOJwnc6BXii@
+1 REPO @R1@
 1 TITL New York, State Census, 1905
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2014
 0 @es9CfZUrS7S7jzWga8jJ@ SOUR
 1 REFN d6516fa9-a395-4494-90a3-875fc58ae28a
-1 REPO @xHe9QECyQEOJwnc6BXii@
+1 REPO @R1@
 1 TITL New York, State Census, 1915
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2012
 0 @qbJrAuEoSlOpEAW1dC2d@ SOUR
 1 REFN 6d3e621d-f050-4355-a9a5-a62c1bc3bde1
-1 REPO @xHe9QECyQEOJwnc6BXii@
+1 REPO @R1@
 1 TITL New York, State Census, 1925
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
@@ -8485,7 +8331,7 @@
 2 CONT Mrs. V. M. Pazmino.<br />
 0 @FKSKK0JtSlqtGZ1MZl4W@ SOUR
 1 REFN 122b5075-8a9a-4f38-ba42-54a2f2b013b1
-1 REPO @4C3FCKv9R0Kn02eq28g7@
+1 REPO @R1@
 1 TITL Puerto Rico, Passenger and Crew Lists, 1901-1962
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operation, Inc.; Location: Provo, UT, USA; Date
@@ -8726,7 +8572,7 @@
 1 AUTH US Social Security Administration
 0 @S75@ SOUR
 1 REFN e8f86420-4e12-4317-b4a2-5d12776f27d4
-1 REPO @xHe9QECyQEOJwnc6BXii@
+1 REPO @R1@
 1 TITL U.S. and Canada, Passenger and Immigration Lists Index, 1500
 2 CONC s-1900s
 1 AUTH Ancestry.com
@@ -8737,14 +8583,14 @@
 2 CONC ch, 2012.
 0 @Oy22YaudTC62HcdmoSkr@ SOUR
 1 REFN ab34aa28-03e3-437d-9585-3b13df4e76c7
-1 REPO @xHe9QECyQEOJwnc6BXii@
+1 REPO @R1@
 1 TITL U.S. City Directories, 1821-1989
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2011
 0 @JuvN02kJRnW0gePqwLr2@ SOUR
 1 REFN 4420782a-0ede-484a-910b-5ee821a1e0a7
-1 REPO @4C3FCKv9R0Kn02eq28g7@
+1 REPO @R1@
 1 TITL U.S. City Directories, 1822-1995
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
@@ -8756,41 +8602,41 @@
 2 CONC ication information.
 0 @qpTDKzDDQdu7knNOyc6m@ SOUR
 1 REFN 597f3bf9-f988-440c-b4e5-5566eabc8b1b
-1 REPO @xHe9QECyQEOJwnc6BXii@
+1 REPO @R1@
 1 TITL U.S. Passport Applications, 1795-1925
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2007
 0 @S61@ SOUR
 1 REFN 02031712-40fa-41c6-9cb7-0983146f6e42
-1 REPO @xHe9QECyQEOJwnc6BXii@
+1 REPO @R1@
 1 TITL U.S. Public Records Index, 1950-1993, Volume 2
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2010
 0 @S62@ SOUR
-1 REPO @xHe9QECyQEOJwnc6BXii@
+1 REPO @R1@
 1 TITL U.S., Border Crossings from Canada to U.S., 1825-1960
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Lehi, UT, USA; Date
 2 CONC : 2010
 0 @8SpggOHIRZiow2E3C3cu@ SOUR
 1 REFN a7ca453e-9c6f-4aa4-830c-6d2be00a67d3
-1 REPO @xHe9QECyQEOJwnc6BXii@
+1 REPO @R1@
 1 TITL U.S., Find A Grave Index, 1600s-Current
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2012
 0 @DcGYKHpaRGm6ojIcId4e@ SOUR
 1 REFN 153fc756-6177-4ab6-a1d8-7de2915fe6fc
-1 REPO @xHe9QECyQEOJwnc6BXii@
+1 REPO @R1@
 1 TITL U.S., Newspaper Extractions from the Northeast, 1704-1930
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2014
 0 @vNJdxKubTEGSLeFQMo6f@ SOUR
 1 REFN c80125e3-7ac4-425d-a702-384be0b3d346
-1 REPO @4C3FCKv9R0Kn02eq28g7@
+1 REPO @R1@
 1 TITL U.S., Residents Serving in Canadian Expeditionary Forces, 19
 2 CONC 17-1918
 1 AUTH Ancestry.com
@@ -8798,7 +8644,7 @@
 2 CONC e: 2015
 0 @S2fyUKW7QvupWtUQHBOs@ SOUR
 1 REFN efe7e3f3-2f4d-4fee-9155-e91345132ab1
-1 REPO @xHe9QECyQEOJwnc6BXii@
+1 REPO @R1@
 1 TITL U.S., Social Security Applications and Claims Index, 1936-20
 2 CONC 07
 1 AUTH Ancestry.com
@@ -8806,7 +8652,7 @@
 2 CONC e: 2015
 0 @GFCLw2yOQvibba3edsSE@ SOUR
 1 REFN 8600af61-d324-4e17-a173-6f27c3aabf9d
-1 REPO @4C3FCKv9R0Kn02eq28g7@
+1 REPO @R1@
 1 TITL U.S., Social Security Death Index, 1935-2014
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations Inc; Location: Provo, UT, USA; Date
@@ -8815,21 +8661,21 @@
 2 CONC ex, Master File</i>. Social Security Administration.
 0 @dqHcxE1wRc6wPON8Y87m@ SOUR
 1 REFN 8a21b08f-e9f6-4a4c-95b7-ecd9649fc085
-1 REPO @xHe9QECyQEOJwnc6BXii@
+1 REPO @R1@
 1 TITL U.S., World War I Draft Registration Cards, 1917-1918
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations Inc; Location: Provo, UT, USA; Date
 2 CONC : 2005
 0 @EVQKUqUsRpSjkR6xDfl1@ SOUR
 1 REFN 4cde04fd-67be-49f8-83cd-3ac3d36a710a
-1 REPO @xHe9QECyQEOJwnc6BXii@
+1 REPO @R1@
 1 TITL U.S., World War II Draft Registration Cards, 1942
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2010
 0 @WyAcKDcLTWqt25ov9LYE@ SOUR
 1 REFN bc667901-6ffc-4c34-88f9-2622599ebb17
-1 REPO @4C3FCKv9R0Kn02eq28g7@
+1 REPO @R1@
 1 TITL UK, Incoming Passenger Lists, 1878-1960
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations Inc; Location: Provo, UT, USA; Date
