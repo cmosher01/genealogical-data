@@ -12,12 +12,201 @@
 3 PHON (617) 227-6681
 1 DEST FTM
 1 SUBM @7gRqCK4CSVyNCk4tvpit@
-1 FILE Lopez_2017-09-29.ged
-1 DATE 29 SEP 2017
-2 TIME 01:29:08
+1 FILE Lopez_2017-10-11.ged
+1 DATE 11 OCT 2017
+2 TIME 04:46:34
 0 @7gRqCK4CSVyNCk4tvpit@ SUBM
 1 NAME Christopher Alan Mosher
 1 RIN Umy2qBWIRUiwVSS6Hcn4
+0 @I48@ INDI
+1 REFN 36c71e16-e697-4941-9395-041a3936a159
+1 NAME [unknown] /Auz/
+2 SOUR @G8TESznJRGCKBg1WwF0w@
+3 PAGE Ancestry Family Tree
+3 DATA
+4 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=60916
+5 CONC 892&pid=151
+2 SOUR @S65@
+3 PAGE http://gw.geneanet.org/ecuadorgen?lang=en;pz=fausto+anibal;n
+4 CONC z=alvarado;ocz=0;p=n;n=auz
+1 SEX M
+1 FAMC @F16@
+1 BIRT
+2 DATE 1741
+2 PLAC Ibarra, Imbabura, Ecuador
+3 MAP
+4 LATI N0.35
+4 LONG W78.1167
+2 SOUR @S65@
+3 PAGE http://gw.geneanet.org/ecuadorgen?lang=en;pz=fausto+anibal;n
+4 CONC z=alvarado;ocz=0;p=n;n=auz
+0 @I49@ INDI
+1 REFN 69e4b47c-a2c1-4c71-b902-5895faba3b70
+1 NAME Carlos /Auz/
+2 SOUR @S66@
+3 _LINK http://gw.geneanet.org/ferneche?lang=en;p=carlos;n=auz
+3 PAGE Carlos Auz
+2 SOUR @S65@
+3 PAGE http://gw.geneanet.org/ecuadorgen?lang=en;pz=fausto+anibal;n
+4 CONC z=alvarado;ocz=0;p=carlos;n=auz
+1 SEX M
+1 FAMC @F17@
+1 BIRT
+2 DATE 1819
+2 PLAC Ibarra, Imbabura, Ecuador
+3 MAP
+4 LATI N0.35
+4 LONG W78.1167
+2 SOUR @S66@
+3 _LINK http://gw.geneanet.org/ferneche?lang=en;p=carlos;n=auz
+3 PAGE Carlos Auz
+2 SOUR @S65@
+3 PAGE http://gw.geneanet.org/ecuadorgen?lang=en;pz=fausto+anibal;n
+4 CONC z=alvarado;ocz=0;p=carlos;n=auz
+0 @I51@ INDI
+1 REFN e858f89b-240d-4372-a1ed-638c3010c11a
+1 NAME Carlota /Auz/
+1 SEX F
+1 FAMC @F18@
+0 @I52@ INDI
+1 REFN 7efbd820-83a0-4153-8ea8-db4990ef8a1c
+1 NAME Felisa /Auz/
+2 SOUR @S66@
+3 _LINK http://gw.geneanet.org/ferneche?lang=en;p=felisa;n=auz
+3 PAGE Felisa Auz
+2 SOUR @S65@
+3 PAGE http://gw.geneanet.org/ecuadorgen?lang=en;pz=fausto+anibal;n
+4 CONC z=alvarado;ocz=0;p=felisa;n=auz
+1 SEX F
+1 FAMC @F17@
+1 BIRT
+2 PLAC Otavalo, Imbabura, Ecuador
+3 MAP
+4 LATI N0.2333
+4 LONG W78.2667
+2 SOUR @S66@
+3 _LINK http://gw.geneanet.org/ferneche?lang=en;p=felisa;n=auz
+3 PAGE Felisa Auz
+0 @I54@ INDI
+1 REFN f2059582-29f8-4797-a3b5-20066bfee431
+1 NAME José /Auz/
+2 SOUR @S66@
+3 _LINK http://gw.geneanet.org/ferneche?lang=en;p=jose;n=auz;oc=2
+3 PAGE Jose Auz
+2 SOUR @S65@
+3 PAGE http://gw.geneanet.org/ecuadorgen?lang=en;pz=fausto+anibal;n
+4 CONC z=alvarado;ocz=0;p=jose;n=auz
+2 SOUR @S68@
+1 SEX M
+1 FAMC @F16@
+1 FAMS @F17@
+1 BIRT
+2 PLAC Quito, Pichincha, Ecuador
+3 MAP
+4 LATI S0.2167
+4 LONG W78.5
+2 SOUR @S68@
+1 BIRT
+2 PLAC Ibarra, Imbabura, Ecuador
+3 MAP
+4 LATI N0.35
+4 LONG W78.1167
+2 SOUR @S66@
+3 _LINK http://gw.geneanet.org/ferneche?lang=en;p=jose;n=auz;oc=2
+3 PAGE Jose Auz
+0 @I55@ INDI
+1 REFN dcde420f-1f3d-4791-b729-27313f9582c9
+1 NAME José /Auz/
+2 SOUR @G8TESznJRGCKBg1WwF0w@
+3 PAGE Ancestry Family Tree
+3 DATA
+4 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=60916
+5 CONC 892&pid=19
+2 SOUR @S65@
+3 PAGE http://gw.geneanet.org/ecuadorgen?lang=en;pz=fausto+anibal;n
+4 CONC z=alvarado;ocz=0;p=jose;n=auz;oc=1http://gw.geneanet.org/ecu
+4 CONC adorgen?lang=en;pz=fausto+anibal;nz=alvarado;ocz=0;p=jose;n=
+4 CONC auz;oc=1
+1 SEX M
+1 FAMC @F19@
+1 FAMS @F16@
+1 BIRT
+2 DATE 1710
+2 SOUR @S65@
+3 PAGE http://gw.geneanet.org/ecuadorgen?lang=en;pz=fausto+anibal;n
+4 CONC z=alvarado;ocz=0;p=jose;n=auz;oc=1http://gw.geneanet.org/ecu
+4 CONC adorgen?lang=en;pz=fausto+anibal;nz=alvarado;ocz=0;p=jose;n=
+4 CONC auz;oc=1
+1 DEAT
+2 DATE 1780
+2 SOUR @S65@
+3 PAGE http://gw.geneanet.org/ecuadorgen?lang=en;pz=fausto+anibal;n
+4 CONC z=alvarado;ocz=0;p=jose;n=auz;oc=1http://gw.geneanet.org/ecu
+4 CONC adorgen?lang=en;pz=fausto+anibal;nz=alvarado;ocz=0;p=jose;n=
+4 CONC auz;oc=1
+0 @I56@ INDI
+1 _XY 400 142
+1 REFN 8a6f14c7-4cf8-4f1c-bff1-b6be9e820fd9
+1 NAME Mariano /Auz/
+2 SOUR @S68@
+2 SOUR @S68@
+3 QUAY 1
+1 SEX M
+1 FAMC @F17@
+1 FAMS @F20@
+1 FAMS @F18@
+1 FAMS @F21@
+1 BIRT
+2 DATE ABT 1815
+2 PLAC Quito, Pichincha, Ecuador
+3 MAP
+4 LATI S0.2167
+4 LONG W78.5
+2 SOUR @S68@
+2 SOUR @S68@
+3 QUAY 1
+1 TITL Comendador del Convento
+2 DATE FROM 1861 TO 1864
+2 PLAC Iglesia de la Merced [Church of Mercy], Calle Chile y Call
+3 CONC e Cuenca, Quito, Pichincha, Ecuador
+2 SOUR @S69@
+3 PAGE p. 139
+3 QUAY 1
+1 EVEN
+2 TYPE blessed
+2 DATE 21 APR 1872
+2 PLAC Cementerio de San Diego, Imbabura 119, Quito, Pichincha, Ecu
+3 CONC ador
+2 SOUR @S70@
+3 QUAY 1
+1 OCCU priest
+2 PLAC Iglesia de la Merced [Church of Mercy], Calle Chile y Call
+3 CONC e Cuenca, Quito, Pichincha, Ecuador
+2 SOUR @S68@
+2 SOUR @S68@
+3 QUAY 1
+1 RELI Catholic
+2 SOUR @S68@
+2 SOUR @S68@
+3 QUAY 1
+1 RESI
+2 PLAC Calle del Cebollar [Onion Patch Street], Quito, Pichincha, E
+3 CONC cuador
+2 SOUR @S68@
+2 SOUR @S68@
+3 QUAY 1
+0 @I57@ INDI
+1 REFN 69209f94-0525-46d6-8366-157c0830b93c
+1 NAME Gustavo /Barba/
+2 SOUR @S65@
+3 PAGE http://gw.geneanet.org/ecuadorgen?p=gustavo;n=barba
+1 SEX M
+1 FAMS @F22@
+1 BIRT
+2 DATE 1874
+2 PLAC Barcelona, Cataluña, España
+2 SOUR @S65@
+3 PAGE http://gw.geneanet.org/ecuadorgen?p=gustavo;n=barba
 0 @52mgd7vpQE2Z27chsEvC@ INDI
 1 _XY 172586 3353
 1 REFN 61078e47-94d4-4f88-8bd1-1636986a3452
@@ -26,6 +215,234 @@
 1 FAMS @HaQjByxJQbeJhpJGL9ai@
 1 BIRT
 2 DATE ABT 1920
+0 @I58@ INDI
+1 REFN 51fe9e22-0004-41be-b783-61b53321c61f
+1 NAME Salvador /Benites y Calderón de la Barca/
+2 SOUR @G8TESznJRGCKBg1WwF0w@
+3 PAGE Ancestry Family Tree
+3 DATA
+4 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=60916
+5 CONC 892&pid=45
+1 SEX M
+1 FAMC @F23@
+1 FAMS @F24@
+1 BIRT
+2 DATE 1688
+2 PLAC Ibarra, Imbabura, Ecuador
+3 MAP
+4 LATI N0.35
+4 LONG W78.1167
+2 SOUR @G8TESznJRGCKBg1WwF0w@
+3 PAGE Ancestry Family Tree
+3 DATA
+4 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=60916
+5 CONC 892&pid=45
+0 @I59@ INDI
+1 REFN d145a977-d80b-464e-9669-4a3dcf06eced
+1 NAME Antonio /Benites y Erazo/
+2 SOUR @G8TESznJRGCKBg1WwF0w@
+3 PAGE Ancestry Family Tree
+3 DATA
+4 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=60916
+5 CONC 892&pid=52
+1 SEX M
+1 FAMC @F24@
+1 BIRT
+2 DATE ABT 1731
+2 PLAC Ibarra, Imbabura, Ecuador
+3 MAP
+4 LATI N0.35
+4 LONG W78.1167
+1 DEAT
+2 DATE 15 JAN 1796
+2 PLAC Tulcán, Carchi, Ecuador
+3 MAP
+4 LATI N0.8
+4 LONG W77.7167
+0 @I60@ INDI
+1 REFN a69f546e-76b7-4977-82bf-5f46f1d617e5
+1 NAME Bernardo /Benites y Erazo/
+2 SOUR @G8TESznJRGCKBg1WwF0w@
+3 PAGE Ancestry Family Tree
+3 DATA
+4 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=60916
+5 CONC 892&pid=53
+1 SEX M
+1 FAMC @F24@
+1 BIRT
+2 DATE ABT 1725
+2 PLAC Ibarra, Imbabura, Ecuador
+3 MAP
+4 LATI N0.35
+4 LONG W78.1167
+0 @I61@ INDI
+1 REFN 05c32255-b8b2-423a-a87c-f7fa6025ae98
+1 NAME Juana Florentina /Benites y Erazo/
+2 SOUR @G8TESznJRGCKBg1WwF0w@
+3 PAGE Ancestry Family Tree
+3 DATA
+4 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=60916
+5 CONC 892&pid=47
+1 SEX F
+1 FAMC @F24@
+0 @I62@ INDI
+1 REFN d37eb02b-0d8b-48a9-b67e-a314d8b9b22c
+1 NAME Manuel /Benites y Erazo/
+2 SOUR @G8TESznJRGCKBg1WwF0w@
+3 PAGE Ancestry Family Tree
+3 DATA
+4 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=60916
+5 CONC 892&pid=54
+1 SEX M
+1 FAMC @F24@
+1 BIRT
+2 DATE 1727
+2 PLAC Ibarra, Imbabura, Ecuador
+3 MAP
+4 LATI N0.35
+4 LONG W78.1167
+1 DEAT
+2 DATE BEF SEP 1788
+0 @I63@ INDI
+1 REFN 00cccf6b-b46b-40e1-9efd-da0f4455f84f
+1 NAME María Josefa /Benites y Erazo/
+2 SOUR @G8TESznJRGCKBg1WwF0w@
+3 PAGE Ancestry Family Tree
+3 DATA
+4 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=60916
+5 CONC 892&pid=20
+2 SOUR @S65@
+3 PAGE http://gw.geneanet.org/ecuadorgen?lang=en;pz=fausto+anibal;n
+4 CONC z=alvarado;ocz=0;p=maria+josefa;n=benitez;oc=1
+1 SEX F
+1 FAMC @F24@
+1 FAMS @F16@
+1 FAMS @F25@
+1 BIRT
+2 DATE 1714
+2 PLAC Ibarra, Imbabura, Ecuador
+3 MAP
+4 LATI N0.35
+4 LONG W78.1167
+2 SOUR @S65@
+3 PAGE http://gw.geneanet.org/ecuadorgen?lang=en;pz=fausto+anibal;n
+4 CONC z=alvarado;ocz=0;p=maria+josefa;n=benitez;oc=1
+0 @I64@ INDI
+1 REFN 29105cca-47b4-4a0f-84c8-fec458384a03
+1 NAME María Marta /Benites y Erazo/
+2 SOUR @G8TESznJRGCKBg1WwF0w@
+3 PAGE Ancestry Family Tree
+3 DATA
+4 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=60916
+5 CONC 892&pid=48
+1 SEX F
+1 FAMC @F24@
+1 BIRT
+2 DATE ABT 1717
+2 PLAC Ibarra, Imbabura, Ecuador
+3 MAP
+4 LATI N0.35
+4 LONG W78.1167
+0 @I65@ INDI
+1 REFN 3795860e-ecb1-4248-affc-f0d034981699
+1 NAME María Nicolasa /Benites y Erazo/
+2 SOUR @G8TESznJRGCKBg1WwF0w@
+3 PAGE Ancestry Family Tree
+3 DATA
+4 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=60916
+5 CONC 892&pid=46
+1 SEX F
+1 FAMC @F24@
+0 @I66@ INDI
+1 REFN e9424734-e4e8-44b5-b069-3518747d9b73
+1 NAME Nicolás /Benites y Erazo/
+2 SOUR @G8TESznJRGCKBg1WwF0w@
+3 PAGE Ancestry Family Tree
+3 DATA
+4 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=60916
+5 CONC 892&pid=51
+1 SEX M
+1 FAMC @F24@
+1 BIRT
+2 DATE ABT 1729
+2 PLAC Ibarra, Imbabura, Ecuador
+3 MAP
+4 LATI N0.35
+4 LONG W78.1167
+1 DEAT
+2 DATE BEF 1780
+0 @I67@ INDI
+1 REFN d5d9eff8-3890-4594-9498-72826d62fd13
+1 NAME Sebastiana /Benites y Erazo/
+2 SOUR @G8TESznJRGCKBg1WwF0w@
+3 PAGE Ancestry Family Tree
+3 DATA
+4 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=60916
+5 CONC 892&pid=49
+1 SEX F
+1 FAMC @F24@
+0 @I68@ INDI
+1 REFN a4c80eec-32f2-4b02-b201-9720903f6bd9
+1 NAME Tiburcio /Benites y Erazo/
+2 SOUR @G8TESznJRGCKBg1WwF0w@
+3 PAGE Ancestry Family Tree
+3 DATA
+4 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=60916
+5 CONC 892&pid=55
+1 SEX M
+1 FAMC @F24@
+1 BIRT
+2 DATE ABT 1723
+2 PLAC Ibarra, Imbabura, Ecuador
+3 MAP
+4 LATI N0.35
+4 LONG W78.1167
+0 @I69@ INDI
+1 REFN d5f3377b-4954-4d9b-8bd6-be8e2878dc93
+1 NAME Tomasa /Benites y Erazo/
+2 SOUR @G8TESznJRGCKBg1WwF0w@
+3 PAGE Ancestry Family Tree
+3 DATA
+4 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=60916
+5 CONC 892&pid=56
+1 SEX F
+1 FAMC @F24@
+1 BIRT
+2 DATE 1721
+2 PLAC Ibarra, Imbabura, Ecuador
+3 MAP
+4 LATI N0.35
+4 LONG W78.1167
+0 @I70@ INDI
+1 REFN 07725746-b062-4a79-8a28-b2b095fa13c2
+1 NAME Vicente /Benites y Erazo/
+2 SOUR @G8TESznJRGCKBg1WwF0w@
+3 PAGE Ancestry Family Tree
+3 DATA
+4 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=60916
+5 CONC 892&pid=50
+1 SEX M
+1 FAMC @F24@
+1 BIRT
+2 DATE ABT 1733
+2 PLAC Ibarra, Imbabura, Ecuador
+3 MAP
+4 LATI N0.35
+4 LONG W78.1167
+1 DEAT
+2 DATE AFT 1780
+0 @I71@ INDI
+1 REFN f1a8147a-f4dd-4cba-b1b6-4ec07ff475ee
+1 NAME Diego /Benites/
+2 SOUR @G8TESznJRGCKBg1WwF0w@
+3 PAGE Ancestry Family Tree
+3 DATA
+4 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=60916
+5 CONC 892&pid=59
+1 SEX M
+1 FAMS @F23@
+1 BIRT
+2 DATE BET 1650 AND 1660
 0 @I47@ INDI
 1 NAME Alcira Teresa /Bozo/
 2 SOUR @S64@
@@ -39,6 +456,72 @@
 1 FAMS @F15@
 1 BIRT
 2 DATE ABT 1883
+0 @I72@ INDI
+1 REFN 3a3f5a27-659e-4d8b-8182-fe0303ddbc08
+1 NAME Alejandra /Cabezas/
+2 SOUR @S65@
+3 PAGE http://gw.geneanet.org/ecuadorgen?p=alejandrina;n=cabezas
+1 SEX F
+1 FAMS @F22@
+1 FAMS @F26@
+1 BIRT
+2 DATE ABT 1860
+2 PLAC Quito, Pichincha, Ecuador
+3 MAP
+4 LATI S0.2167
+4 LONG W78.5
+2 SOUR @S65@
+3 PAGE http://gw.geneanet.org/ecuadorgen?p=alejandrina;n=cabezas
+1 DEAT
+2 DATE 1953
+2 SOUR @S65@
+3 PAGE http://gw.geneanet.org/ecuadorgen?p=alejandrina;n=cabezas
+0 @I73@ INDI
+1 REFN 380c3dd7-f633-4d1e-92b9-10811c4da418
+1 NAME María /Calca/
+2 SOUR @G8TESznJRGCKBg1WwF0w@
+3 PAGE Ancestry Family Tree
+3 DATA
+4 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=60916
+5 CONC 892&pid=143
+1 SEX F
+1 FAMS @F27@
+0 @I74@ INDI
+1 REFN 5de62ae1-0362-46fd-bb77-c6f636bde680
+1 NAME Maria /Calderón de la Barca Romero y Orbe/
+2 SOUR @G8TESznJRGCKBg1WwF0w@
+3 PAGE Ancestry Family Tree
+3 DATA
+4 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=60916
+5 CONC 892&pid=60
+1 SEX F
+1 FAMC @F28@
+1 FAMS @F23@
+1 BIRT
+2 DATE ABT 1660
+0 @I75@ INDI
+1 REFN 54c9fd1f-8362-4033-b316-43f5899005e6
+1 NAME Felipe /Calderón de la Barca/
+2 SOUR @G8TESznJRGCKBg1WwF0w@
+3 PAGE Ancestry Family Tree
+3 DATA
+4 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=60916
+5 CONC 892&pid=61
+1 SEX M
+1 FAMS @F28@
+0 @I76@ INDI
+1 REFN dad84936-55f0-426a-8ea9-6e2f4127b4c0
+1 NAME Juana /Cepeda Enríquez de Guzmán y Gamarra/
+2 SOUR @G8TESznJRGCKBg1WwF0w@
+3 PAGE Ancestry Family Tree
+3 DATA
+4 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=60916
+5 CONC 892&pid=70
+1 SEX F
+1 FAMC @F29@
+1 FAMS @F30@
+1 BIRT
+2 PLAC San Juan de Pasto, Nariño, Colombia
 0 @K0gk4jcYQdijxbxDOqnW@ INDI
 1 _XY 173254 3250
 1 REFN ee0b82b8-faa7-449f-bfaf-1f48c0f0bbc9
@@ -435,6 +918,24 @@
 4 LONG W118.2551
 2 SOUR @8SpggOHIRZiow2E3C3cu@
 3 _APID 1,60525::36337865
+0 @I77@ INDI
+1 _XY 437 192
+1 REFN f33bae71-57c6-4e62-b426-0e93de0721a0
+1 NAME Rosario /Daste/
+2 SOUR @S68@
+2 SOUR @S68@
+3 QUAY 1
+1 SEX F
+1 FAMC @F20@
+0 @I78@ INDI
+1 _XY 500 142
+1 REFN a6ba9592-c18d-4e17-84cb-b6226bc0a01d
+1 NAME unknown wife of Mariano Auz /Daste/
+2 SOUR @S68@
+2 SOUR @S68@
+3 QUAY 1
+1 SEX F
+1 FAMS @F20@
 0 @gsDzouYTSfifaq2wjI7f@ INDI
 1 _XY 173999 3215
 1 REFN ea74aad7-984b-4ba0-acf6-205847ca4093
@@ -476,6 +977,1066 @@
 3 MAP
 4 LATI N32.2413
 4 LONG W92.716
+0 @I79@ INDI
+1 REFN 01b78557-b118-4de9-b3fc-40cc50c4eedc
+1 NAME Isabel /de Benalcázar Cepeda/
+2 SOUR @G8TESznJRGCKBg1WwF0w@
+3 PAGE Ancestry Family Tree
+3 DATA
+4 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=60916
+5 CONC 892&pid=78
+1 SEX F
+1 FAMC @F31@
+1 BIRT
+2 DATE ABT 1562
+2 PLAC Popayán, Cauca, Colombia
+3 MAP
+4 LATI N2.8488
+4 LONG W76.1157
+0 @I80@ INDI
+1 REFN 1e32ac6d-7302-4ad8-ab1b-94e352a22f44
+1 NAME Sebastián /de Benalcázar y Cepeda/
+2 SOUR @G8TESznJRGCKBg1WwF0w@
+3 PAGE Ancestry Family Tree
+3 DATA
+4 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=60916
+5 CONC 892&pid=154
+1 SEX M
+1 FAMC @F31@
+1 BIRT
+2 DATE ABT 1549
+2 PLAC Popayán, Cauca, Colombia
+3 MAP
+4 LATI N2.8488
+4 LONG W76.1157
+1 DEAT
+2 DATE 1613
+0 @I81@ INDI
+1 REFN bbb98021-56d8-4d8b-9cab-f62bf8ff52e9
+1 NAME Catalina /de Benalcázar/ I
+2 SOUR @G8TESznJRGCKBg1WwF0w@
+3 PAGE Ancestry Family Tree
+3 DATA
+4 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=60916
+5 CONC 892&pid=76
+1 SEX F
+1 FAMC @F32@
+1 FAMS @F31@
+1 BIRT
+2 DATE BET 1526 AND 1527
+2 PLAC Leon, Nicaragua
+3 MAP
+4 LATI N12.5717
+4 LONG W86.6542
+1 DEAT
+2 DATE 19 JUL 1612
+2 PLAC Pasto, Nariño, Colombia
+0 @I82@ INDI
+1 REFN 6167a7b9-c461-4a12-bf84-9c1e220e4ddf
+1 NAME Francisco /de Benalcázar/
+2 SOUR @G8TESznJRGCKBg1WwF0w@
+3 PAGE Ancestry Family Tree
+3 DATA
+4 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=60916
+5 CONC 892&pid=90
+1 SEX M
+1 FAMC @F32@
+1 BIRT
+2 DATE ABT 1519
+2 PLAC Natá, Cocle, Panamá
+0 @I83@ INDI
+1 REFN b022bb6c-d916-46aa-b484-21038da07641
+1 NAME Isabel /de Benalcázar/
+2 SOUR @G8TESznJRGCKBg1WwF0w@
+3 PAGE Ancestry Family Tree
+3 DATA
+4 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=60916
+5 CONC 892&pid=91
+1 SEX F
+1 FAMC @F32@
+1 BIRT
+2 DATE ABT 1544
+2 PLAC Popayán, Cauca, Colombia
+3 MAP
+4 LATI N2.8488
+4 LONG W76.1157
+0 @I84@ INDI
+1 REFN 28ebc961-53d7-4aea-bbf9-a7d207e0c9c9
+1 NAME Lázaro /de Benalcázar/
+2 SOUR @G8TESznJRGCKBg1WwF0w@
+3 PAGE Ancestry Family Tree
+3 DATA
+4 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=60916
+5 CONC 892&pid=88
+1 SEX M
+1 FAMC @F32@
+1 BIRT
+2 DATE ABT 1530
+0 @I85@ INDI
+1 REFN 384a296e-26f5-4848-903a-c872af9b7f22
+1 NAME Magdalena /de Benalcázar/ I
+2 SOUR @G8TESznJRGCKBg1WwF0w@
+3 PAGE Ancestry Family Tree
+3 DATA
+4 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=60916
+5 CONC 892&pid=92
+1 SEX F
+1 FAMC @F32@
+1 BIRT
+2 DATE ABT 1538
+0 @I86@ INDI
+1 REFN 25f5042a-6e1a-4e6b-ab23-528a4ea79115
+1 NAME María /de Benalcázar/ 1
+2 SOUR @G8TESznJRGCKBg1WwF0w@
+3 PAGE Ancestry Family Tree
+3 DATA
+4 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=60916
+5 CONC 892&pid=87
+1 SEX F
+1 FAMC @F32@
+1 FAMS @F33@
+1 FAMS @F34@
+1 BIRT
+2 DATE BET 1521 AND 1528
+2 PLAC Leon, Nicaragua
+3 MAP
+4 LATI N12.5717
+4 LONG W86.6542
+1 DEAT
+2 DATE BEF APR 1608
+0 @I87@ INDI
+1 REFN 486b0c64-95a2-4317-b036-ebe535aecf7d
+1 NAME María /de Benalcázar/ 2
+2 SOUR @G8TESznJRGCKBg1WwF0w@
+3 PAGE Ancestry Family Tree
+3 DATA
+4 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=60916
+5 CONC 892&pid=89
+1 SEX M
+1 FAMC @F32@
+0 @I88@ INDI
+1 REFN 75da5da2-ad48-4fd0-9028-b7e036a08aae
+1 NAME María Magdalena /de Benalcázar/
+2 SOUR @G8TESznJRGCKBg1WwF0w@
+3 PAGE Ancestry Family Tree
+3 DATA
+4 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=60916
+5 CONC 892&pid=160
+1 SEX F
+1 FAMS @F35@
+1 BIRT
+2 DATE 1521
+2 PLAC Leon, Nicaragua
+3 MAP
+4 LATI N12.5717
+4 LONG W86.6542
+1 DEAT
+2 DATE 15 APR 1608
+2 PLAC Cali, Valle del Cauca, Colombia
+3 MAP
+4 LATI N3.4372
+4 LONG W76.5225
+0 @I89@ INDI
+1 REFN 18430eb6-d49b-4350-ba45-6d06f4bbd8ac
+1 NAME Miguel /de Benalcázar/
+2 SOUR @G8TESznJRGCKBg1WwF0w@
+3 PAGE Ancestry Family Tree
+3 DATA
+4 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=60916
+5 CONC 892&pid=94
+1 SEX M
+1 FAMC @F36@
+1 BIRT
+2 DATE ABT 1539
+2 PLAC Popayán, Cauca, Colombia
+3 MAP
+4 LATI N2.8488
+4 LONG W76.1157
+0 @I90@ INDI
+1 REFN 4b41d3b7-a48c-4c61-b407-6a34aea580d9
+1 NAME Sebastián /de Benalcázar/ II
+2 SOUR @G8TESznJRGCKBg1WwF0w@
+3 PAGE Ancestry Family Tree
+3 DATA
+4 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=60916
+5 CONC 892&pid=93
+1 SEX M
+1 FAMC @F32@
+1 BIRT
+2 DATE ABT 1517
+2 PLAC Natá, Cocle, Panamá
+1 DEAT
+2 DATE 1576
+2 PLAC Burgos, Castilla-León, España
+0 @I91@ INDI
+1 REFN a6a8f709-952f-4bd0-8a78-2e75a1b28375
+1 NAME [unknown] /de Caraveo/
+2 SOUR @G8TESznJRGCKBg1WwF0w@
+3 PAGE Ancestry Family Tree
+3 DATA
+4 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=60916
+5 CONC 892&pid=83
+1 SEX F
+1 FAMS @F37@
+0 @I92@ INDI
+1 REFN 511509f5-4315-4756-887c-c9f62b84c81e
+1 NAME Alonso /de Carvajal/
+2 SOUR @G8TESznJRGCKBg1WwF0w@
+3 PAGE Ancestry Family Tree
+3 DATA
+4 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=60916
+5 CONC 892&pid=81
+1 SEX M
+1 FAMS @F38@
+1 BIRT
+2 DATE ABT 1450
+2 PLAC Baeza, Jaen, Andalucia, Spain
+3 MAP
+4 LATI N37.9833
+4 LONG W3.4667
+0 @I93@ INDI
+1 REFN 1167a273-94b5-42e6-82e1-efdb585d200c
+1 NAME Maria /de Castañeda/
+2 SOUR @G8TESznJRGCKBg1WwF0w@
+3 PAGE Ancestry Family Tree
+3 DATA
+4 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=60916
+5 CONC 892&pid=73
+1 SEX F
+1 FAMS @F39@
+1 BIRT
+2 PLAC Popayán, Cauca, Colombia
+3 MAP
+4 LATI N2.8488
+4 LONG W76.1157
+0 @I94@ INDI
+1 REFN 480e8ae9-7990-4f3b-a064-ab8f2bea74c7
+1 NAME Hernando /de Cepeda Caraveo y Benalcázar/
+2 SOUR @G8TESznJRGCKBg1WwF0w@
+3 PAGE Ancestry Family Tree
+3 DATA
+4 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=60916
+5 CONC 892&pid=74
+1 SEX M
+1 FAMC @F31@
+1 FAMS @F39@
+1 BIRT
+2 DATE 1552
+2 PLAC Popayán, Cauca, Colombia
+3 MAP
+4 LATI N2.8488
+4 LONG W76.1157
+1 DEAT
+2 DATE 24 AUG 1599
+2 PLAC Popayán, Cauca, Colombia
+3 MAP
+4 LATI N2.8488
+4 LONG W76.1157
+0 @I95@ INDI
+1 REFN e8a4aadf-ed51-44dd-ab02-e8122f518ef6
+1 NAME Hernando /de Cepeda Caraveo y Carvajal/
+2 SOUR @G8TESznJRGCKBg1WwF0w@
+3 PAGE Ancestry Family Tree
+3 DATA
+4 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=60916
+5 CONC 892&pid=77
+1 SEX M
+1 FAMC @F37@
+1 FAMS @F31@
+1 BIRT
+2 DATE ABT 1515
+2 PLAC Plasencia, Extremadura, España
+1 DEAT
+2 DATE 1585
+2 PLAC Pasto, Nariño, Colombia
+0 @I96@ INDI
+1 REFN 3ca69aae-83e5-4ffc-81f5-da24103e712e
+1 NAME Hernando /de Cepeda Caraveo y Castañeda/
+2 SOUR @G8TESznJRGCKBg1WwF0w@
+3 PAGE Ancestry Family Tree
+3 DATA
+4 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=60916
+5 CONC 892&pid=71
+1 SEX M
+1 FAMC @F39@
+1 FAMS @F29@
+1 BIRT
+2 DATE 1580
+2 PLAC Pasto, Nariño, Colombia
+1 DEAT
+2 PLAC Pasto, Nariño, Colombia
+0 @I97@ INDI
+1 REFN af849e19-e0b1-467b-89f7-823bd715a0a2
+1 NAME [unknown] /de Cepeda Carvajal/
+2 SOUR @G8TESznJRGCKBg1WwF0w@
+3 PAGE Ancestry Family Tree
+3 DATA
+4 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=60916
+5 CONC 892&pid=80
+1 SEX M
+1 FAMC @F38@
+1 FAMS @F37@
+1 BIRT
+2 PLAC Baeza, Jaen, Andalucia, Spain
+3 MAP
+4 LATI N37.9833
+4 LONG W3.4667
+0 @I98@ INDI
+1 REFN 44c28fa7-c901-4385-bcfd-f127b0337b09
+1 NAME Beatriz /de Cepeda y Benalcázar/
+2 SOUR @G8TESznJRGCKBg1WwF0w@
+3 PAGE Ancestry Family Tree
+3 DATA
+4 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=60916
+5 CONC 892&pid=75
+1 SEX F
+1 FAMC @F31@
+1 BIRT
+2 DATE 1551
+2 PLAC Popayán, Cauca, Colombia
+3 MAP
+4 LATI N2.8488
+4 LONG W76.1157
+0 @I99@ INDI
+1 REFN 2d2687fb-a924-4a14-921f-df8a860fda0e
+1 NAME Francisco /de Cepeda y Benalcázar/
+2 SOUR @G8TESznJRGCKBg1WwF0w@
+3 PAGE Ancestry Family Tree
+3 DATA
+4 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=60916
+5 CONC 892&pid=79
+1 SEX M
+1 FAMC @F31@
+1 BIRT
+2 DATE ABT 1553
+0 @I100@ INDI
+1 REFN 607ab84f-391c-470c-b47d-3b3ddca270af
+1 NAME Francisca /de Cepeda y Santa Catalina/
+2 SOUR @G8TESznJRGCKBg1WwF0w@
+3 PAGE Ancestry Family Tree
+3 DATA
+4 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=60916
+5 CONC 892&pid=82
+1 SEX F
+1 FAMC @F40@
+1 FAMS @F38@
+1 BIRT
+2 DATE ABT 1450
+2 PLAC Toledo, Castilla-La Mancha, España
+0 @I101@ INDI
+1 REFN 0c8cabda-712a-47d8-b9c2-00becb331b19
+1 NAME Inés /de Cepeda y Santa Catalina/
+2 SOUR @G8TESznJRGCKBg1WwF0w@
+3 PAGE Ancestry Family Tree
+3 DATA
+4 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=60916
+5 CONC 892&pid=155
+1 SEX F
+1 FAMC @F40@
+1 BIRT
+2 PLAC Tordesillas, Valladolid, Castilla-León, España
+0 @I102@ INDI
+1 REFN a72bbc3e-e31c-4b72-ae58-7b60a58a5ffc
+1 NAME [unknown] /de Cepeda/
+2 SOUR @G8TESznJRGCKBg1WwF0w@
+3 PAGE Ancestry Family Tree
+3 DATA
+4 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=60916
+5 CONC 892&pid=84
+1 SEX M
+1 FAMS @F40@
+0 @I103@ INDI
+1 REFN ee8e230b-cffc-4313-a86e-a892d442ca47
+1 NAME Bernardo /de Erazo Quintero y Cepeda/
+2 SOUR @G8TESznJRGCKBg1WwF0w@
+3 PAGE Ancestry Family Tree
+3 DATA
+4 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=60916
+5 CONC 892&pid=44
+1 SEX M
+1 FAMC @F30@
+1 FAMS @F41@
+1 BIRT
+2 DATE 1640
+2 PLAC Pasto, Nariño, Colombia
+1 DEAT
+2 DATE 01 DEC 1698
+2 PLAC Pasto, Nariño, Colombia
+0 @I104@ INDI
+1 REFN 8aa91c9f-c834-47f7-80d1-02152b1b4e25
+1 NAME Sebastián /de Erazo Quintero/
+2 SOUR @G8TESznJRGCKBg1WwF0w@
+3 PAGE Ancestry Family Tree
+3 DATA
+4 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=60916
+5 CONC 892&pid=69
+1 SEX M
+1 FAMS @F30@
+0 @I105@ INDI
+1 REFN 451e7c7f-d616-4a21-b397-83686038dd77
+1 NAME Bernardo /de Erazo y Diez de Fuenmayor/
+2 SOUR @G8TESznJRGCKBg1WwF0w@
+3 PAGE Ancestry Family Tree
+3 DATA
+4 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=60916
+5 CONC 892&pid=68
+1 SEX M
+1 FAMC @F41@
+1 BIRT
+2 DATE ABT 1671
+2 PLAC Pasto, Nariño, Colombia
+0 @I106@ INDI
+1 REFN 3c7a86eb-3383-429b-b1a3-c373b95efe1f
+1 NAME Dionisio /de Erazo y Diez de Fuenmayor/
+2 SOUR @G8TESznJRGCKBg1WwF0w@
+3 PAGE Ancestry Family Tree
+3 DATA
+4 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=60916
+5 CONC 892&pid=65
+1 SEX M
+1 FAMC @F41@
+1 BIRT
+2 DATE ABT 1673
+2 PLAC Pasto, Nariño, Colombia
+0 @I107@ INDI
+1 REFN a44fa245-d174-40a7-8d4c-617963f341f4
+1 NAME Juana de San Bernardo /de Erazo y Diez de Fuenmayor/
+2 SOUR @G8TESznJRGCKBg1WwF0w@
+3 PAGE Ancestry Family Tree
+3 DATA
+4 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=60916
+5 CONC 892&pid=67
+1 SEX F
+1 FAMC @F41@
+0 @I108@ INDI
+1 REFN 2d0e3ccb-8807-4c98-8e1f-300326b3a6b4
+1 NAME María Tomasa /de Erazo y Diez de Fuenmayor/
+2 SOUR @G8TESznJRGCKBg1WwF0w@
+3 PAGE Ancestry Family Tree
+3 DATA
+4 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=60916
+5 CONC 892&pid=42
+1 SEX F
+1 FAMC @F41@
+1 FAMS @F24@
+1 BIRT
+2 DATE ABT 1693
+2 PLAC Pasto, Nariño, Colombia
+0 @I109@ INDI
+1 REFN 1d53c202-ff7e-44f8-a38f-478267032742
+1 NAME Nicolás /de Erazo y Diez de Fuenmayor/
+2 SOUR @G8TESznJRGCKBg1WwF0w@
+3 PAGE Ancestry Family Tree
+3 DATA
+4 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=60916
+5 CONC 892&pid=66
+1 SEX M
+1 FAMC @F41@
+1 BIRT
+2 DATE ABT 1675
+2 PLAC Pasto, Nariño, Colombia
+1 DEAT
+2 DATE AFT 1745
+0 @I110@ INDI
+1 REFN 5f270b93-cb99-4cb4-aa51-ff4a0dba69fd
+1 NAME José /de Erazo y Fuenmayor/
+2 SOUR @G8TESznJRGCKBg1WwF0w@
+3 PAGE Ancestry Family Tree
+3 DATA
+4 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=60916
+5 CONC 892&pid=64
+1 SEX M
+1 FAMC @F41@
+1 BIRT
+2 DATE ABT 1679
+2 PLAC Pasto, Nariño, Colombia
+0 @I111@ INDI
+1 REFN e7aaa23d-4a05-40ab-9a40-e76b35ab6544
+1 NAME Vicente /De Insuasti/
+2 SOUR @G8TESznJRGCKBg1WwF0w@
+3 PAGE Ancestry Family Tree
+3 DATA
+4 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=60916
+5 CONC 892&pid=117
+1 SEX M
+1 FAMS @F33@
+1 BIRT
+2 DATE 1552
+2 PLAC Yurre, Vizcaya, Pais Vasco, Spain
+3 MAP
+4 LATI N43.1667
+4 LONG W2.7667
+0 @I112@ INDI
+1 REFN 674c9a26-923f-4fd6-b54c-098e97af9390
+1 NAME Leonor /de Leyba/
+2 SOUR @G8TESznJRGCKBg1WwF0w@
+3 PAGE Ancestry Family Tree
+3 DATA
+4 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=60916
+5 CONC 892&pid=131
+1 SEX F
+1 FAMS @F42@
+0 @I113@ INDI
+1 REFN 59aa9799-f4d6-4433-a39c-59eaf6a76c4c
+1 NAME Ana María /de Oviedo/
+2 SOUR @G8TESznJRGCKBg1WwF0w@
+3 PAGE Ancestry Family Tree
+3 DATA
+4 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=60916
+5 CONC 892&pid=124
+1 SEX F
+1 FAMC @F43@
+0 @I114@ INDI
+1 REFN 2537a2a2-72be-4381-8793-0df4d69e3b35
+1 NAME Rodrigo /de Valverde/
+2 SOUR @G8TESznJRGCKBg1WwF0w@
+3 PAGE Ancestry Family Tree
+3 DATA
+4 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=60916
+5 CONC 892&pid=127
+1 SEX M
+1 FAMS @F44@
+1 BIRT
+2 PLAC Torrenueva, Ciudad Real, Castilla-La Mancha, España
+0 @I115@ INDI
+1 REFN 53a833f0-ad65-428a-a8e8-6211822104d4
+1 NAME Petronila /del Campo y Fernández Floriano/
+2 SOUR @G8TESznJRGCKBg1WwF0w@
+3 PAGE Ancestry Family Tree
+3 DATA
+4 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=60916
+5 CONC 892&pid=120
+1 SEX F
+1 FAMC @F45@
+1 FAMS @F43@
+1 BIRT
+2 DATE 1550
+2 PLAC Plasencia, Extremadura, España
+0 @I116@ INDI
+1 REFN 827a6fbc-3a05-4111-8753-5c6670b8afd1
+1 NAME Alonso /del Campo/
+2 SOUR @G8TESznJRGCKBg1WwF0w@
+3 PAGE Ancestry Family Tree
+3 DATA
+4 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=60916
+5 CONC 892&pid=141
+1 SEX M
+1 FAMC @F27@
+1 FAMS @F46@
+1 BIRT
+2 PLAC Villafrechós, Valladolid, Castilla-Leon, España
+0 @I117@ INDI
+1 REFN 3c733c8d-a46a-43a3-b453-6f21c4fa4c59
+1 NAME Isabel /del Campo/
+2 SOUR @G8TESznJRGCKBg1WwF0w@
+3 PAGE Ancestry Family Tree
+3 DATA
+4 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=60916
+5 CONC 892&pid=126
+1 SEX F
+1 FAMC @F47@
+1 FAMS @F45@
+1 BIRT
+2 DATE ABT 1531
+0 @I118@ INDI
+1 REFN 9e87b957-173a-4761-ac2f-1f51fe7f9195
+1 NAME Luis /del Campo/
+2 SOUR @G8TESznJRGCKBg1WwF0w@
+3 PAGE Ancestry Family Tree
+3 DATA
+4 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=60916
+5 CONC 892&pid=137
+1 SEX M
+1 FAMC @F46@
+1 FAMS @F48@
+0 @I119@ INDI
+1 REFN 27804fb7-d750-456a-a350-e7f714ecdd92
+1 NAME Pedro /del Campo/
+2 SOUR @G8TESznJRGCKBg1WwF0w@
+3 PAGE Ancestry Family Tree
+3 DATA
+4 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=60916
+5 CONC 892&pid=142
+1 SEX M
+1 FAMS @F27@
+0 @I120@ INDI
+1 REFN ed66971a-9e77-4d8f-94a1-f11e237602de
+1 NAME Isabel /Diez de Fuenmayor y Belalcázar/
+2 SOUR @G8TESznJRGCKBg1WwF0w@
+3 PAGE Ancestry Family Tree
+3 DATA
+4 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=60916
+5 CONC 892&pid=102
+1 SEX F
+1 FAMC @F34@
+1 FAMS @F49@
+1 BIRT
+2 DATE ABT 1544
+2 PLAC Santiago de Cali, Valle del Cauca, Colombia
+0 @I121@ INDI
+1 REFN 6dfe1e69-8bb7-4e36-ad5d-47e32a1827d1
+1 NAME Catalina /Diez de Fuenmayor y Benalcázar/
+2 SOUR @G8TESznJRGCKBg1WwF0w@
+3 PAGE Ancestry Family Tree
+3 DATA
+4 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=60916
+5 CONC 892&pid=116
+1 SEX F
+1 FAMC @F34@
+1 BIRT
+2 DATE ABT 1543
+0 @I122@ INDI
+1 REFN 5087b9ff-041e-4b9a-be3c-31396780d6c2
+1 NAME Alonso /Diez de Fuenmayor y Diez de Fuenmayor/
+2 SOUR @G8TESznJRGCKBg1WwF0w@
+3 PAGE Ancestry Family Tree
+3 DATA
+4 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=60916
+5 CONC 892&pid=110
+1 SEX M
+1 FAMC @F49@
+1 BIRT
+2 DATE ABT 1560
+2 PLAC Buga, Valle, Colombia
+1 DEAT
+2 DATE AFT 1632
+2 PLAC Buga, Valle, Colombia
+0 @I123@ INDI
+1 REFN 53d102f9-97ea-4aea-affb-153a69178321
+1 NAME Ana /Diez de Fuenmayor y Diez de Fuenmayor/
+2 SOUR @G8TESznJRGCKBg1WwF0w@
+3 PAGE Ancestry Family Tree
+3 DATA
+4 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=60916
+5 CONC 892&pid=108
+1 SEX F
+1 FAMC @F49@
+1 BIRT
+2 DATE ABT 1570
+2 PLAC Buga, Valle, Colombia
+0 @I124@ INDI
+1 REFN 401b2cc2-8419-4ba4-ab74-4b7f79c7d641
+1 NAME Diego /Diez de Fuenmayor y Diez de Fuenmayor/
+2 SOUR @G8TESznJRGCKBg1WwF0w@
+3 PAGE Ancestry Family Tree
+3 DATA
+4 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=60916
+5 CONC 892&pid=105
+1 SEX M
+1 FAMC @F49@
+1 FAMS @F50@
+1 BIRT
+2 DATE ABT 1562
+2 PLAC Buga, Valle, Colombia
+0 @I125@ INDI
+1 REFN 597d7564-06fd-44f2-b2ce-3ae765d6836b
+1 NAME Diego Gaspar /Diez de Fuenmayor y Diez de Fuenmayor/
+2 SOUR @G8TESznJRGCKBg1WwF0w@
+3 PAGE Ancestry Family Tree
+3 DATA
+4 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=60916
+5 CONC 892&pid=97
+1 SEX M
+1 FAMC @F49@
+1 FAMS @F51@
+1 BIRT
+2 DATE ABT 1564
+2 PLAC Buga, Valle, Colombia
+1 DEAT
+2 DATE 1633
+0 @I126@ INDI
+1 REFN c4023468-823f-4473-9cef-b0426a7ee2cf
+1 NAME Juan /Diez de Fuenmayor y Diez de Fuenmayor/
+2 SOUR @G8TESznJRGCKBg1WwF0w@
+3 PAGE Ancestry Family Tree
+3 DATA
+4 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=60916
+5 CONC 892&pid=109
+1 SEX M
+1 FAMC @F49@
+1 BIRT
+2 DATE ABT 1566
+2 PLAC Buga, Valle, Colombia
+0 @I127@ INDI
+1 REFN 0df3503c-d630-4955-bfd8-f9c422f3810c
+1 NAME Leonor /Diez de Fuenmayor y Diez de Fuenmayor/
+2 SOUR @G8TESznJRGCKBg1WwF0w@
+3 PAGE Ancestry Family Tree
+3 DATA
+4 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=60916
+5 CONC 892&pid=107
+1 SEX F
+1 FAMC @F49@
+1 BIRT
+2 DATE ABT 1568
+2 PLAC Buga, Valle, Colombia
+0 @I128@ INDI
+1 REFN 94fa01d7-2003-4f3a-ba8d-b08ab56a7a3a
+1 NAME Rodrigo /Diez de Fuenmayor y Diez de Fuenmayor/
+2 SOUR @G8TESznJRGCKBg1WwF0w@
+3 PAGE Ancestry Family Tree
+3 DATA
+4 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=60916
+5 CONC 892&pid=106
+1 SEX M
+1 FAMC @F49@
+1 BIRT
+2 DATE ABT 1572
+2 PLAC Buga, Valle, Colombia
+1 DEAT
+2 DATE BEF 1629
+0 @I129@ INDI
+1 REFN 9c0caa9c-1155-4c56-9d70-493c51bcd8ad
+1 NAME Bernanrdino /Diez de Fuenmayor y Ramírez del Campo/
+2 SOUR @G8TESznJRGCKBg1WwF0w@
+3 PAGE Ancestry Family Tree
+3 DATA
+4 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=60916
+5 CONC 892&pid=157
+1 SEX M
+1 FAMC @F51@
+1 BIRT
+2 DATE ABT 1594
+2 PLAC Santiago de Cali, Valle del Cauca, Colombia
+1 DEAT
+2 DATE ABT 07 JAN 1636
+0 @I130@ INDI
+1 REFN 69ff198c-1603-459c-a3eb-6d99d06241d6
+1 NAME Gaspar /Diez de Fuenmayor y Ramírez del Campo/
+2 SOUR @G8TESznJRGCKBg1WwF0w@
+3 PAGE Ancestry Family Tree
+3 DATA
+4 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=60916
+5 CONC 892&pid=63
+1 SEX M
+1 FAMC @F51@
+1 FAMS @F52@
+1 BIRT
+2 DATE 1614
+2 PLAC Pasto, Nariño, Colombia
+0 @I131@ INDI
+1 REFN c71cd253-ee62-4315-a2b7-972a77b4bc93
+1 NAME Isabel /Diez de Fuenmayor y Ramírez del Campo/
+2 SOUR @G8TESznJRGCKBg1WwF0w@
+3 PAGE Ancestry Family Tree
+3 DATA
+4 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=60916
+5 CONC 892&pid=111
+1 SEX F
+1 FAMC @F51@
+1 BIRT
+2 PLAC Santiago de Cali, Valle del Cauca, Colombia
+0 @I132@ INDI
+1 REFN 17cfee74-226c-49e7-ad8c-587ec5432765
+1 NAME Marcela /Diez de Fuenmayor y Ramírez del Campo/
+2 SOUR @G8TESznJRGCKBg1WwF0w@
+3 PAGE Ancestry Family Tree
+3 DATA
+4 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=60916
+5 CONC 892&pid=159
+1 SEX F
+1 FAMC @F51@
+1 BIRT
+2 DATE ABT 1615
+2 PLAC Santiago de Cali, Valle del Cauca, Colombia
+1 DEAT
+2 DATE BEF 1683
+0 @I133@ INDI
+1 REFN 375f338a-c556-4c8d-b436-f7fa89210216
+1 NAME Martín Diego /Diez de Fuenmayor y Ramírez del Campo/
+2 SOUR @G8TESznJRGCKBg1WwF0w@
+3 PAGE Ancestry Family Tree
+3 DATA
+4 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=60916
+5 CONC 892&pid=156
+1 SEX M
+1 FAMC @F51@
+1 BIRT
+2 DATE ABT 1592
+2 PLAC Santiago de Cali, Valle del Cauca, Colombia
+1 DEAT
+2 DATE 02 JUL 1675
+0 @I134@ INDI
+1 REFN 7b6d1f38-ea3a-48f5-a628-4e918f4c3f46
+1 NAME Sebastián /Diez de Fuenmayor y Ramírez del Campo/
+2 SOUR @G8TESznJRGCKBg1WwF0w@
+3 PAGE Ancestry Family Tree
+3 DATA
+4 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=60916
+5 CONC 892&pid=158
+1 SEX M
+1 FAMC @F51@
+1 DEAT
+2 DATE BEF 1675
+1 BIRT
+2 PLAC Santiago de Cali, Valle del Cauca, Colombia
+0 @I135@ INDI
+1 REFN c6fb3fc1-3e85-4d4f-b8b2-9acb3a499d8e
+1 NAME Alonso /Diez De Fuenmayor/
+2 SOUR @G8TESznJRGCKBg1WwF0w@
+3 PAGE Ancestry Family Tree
+3 DATA
+4 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=60916
+5 CONC 892&pid=103
+1 SEX M
+1 FAMS @F34@
+1 FAMS @F35@
+1 BIRT
+2 DATE 1518
+2 PLAC Navarra, , España
+1 BIRT
+2 DATE 1518
+2 PLAC Navarra, España
+1 DEAT
+2 DATE ABT 1604
+2 PLAC Santiago de Cali, Valle del Cauca, Colombia
+1 DEAT
+2 DATE 1604
+2 PLAC Cali, Valle Del Cauco, Colombia
+0 @I136@ INDI
+1 REFN 8d0477d0-0773-4496-842c-76136a772d64
+1 NAME Florentina /Diez de Fuenmayor/
+2 SOUR @G8TESznJRGCKBg1WwF0w@
+3 PAGE Ancestry Family Tree
+3 DATA
+4 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=60916
+5 CONC 892&pid=43
+1 SEX F
+1 FAMC @F52@
+1 FAMS @F41@
+1 BIRT
+2 DATE 1652
+2 PLAC Pasto, Nariño, Colombia
+0 @I137@ INDI
+1 REFN c7ce7c67-01e2-4024-9134-f097a39f2075
+1 NAME Gaspar Carlos /Diez de Fuenmayor/
+2 SOUR @G8TESznJRGCKBg1WwF0w@
+3 PAGE Ancestry Family Tree
+3 DATA
+4 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=60916
+5 CONC 892&pid=101
+1 SEX M
+1 FAMC @F52@
+1 BIRT
+2 DATE 1651
+2 PLAC Pasto, Nariño, Colombia
+0 @I138@ INDI
+1 REFN 423bbea1-815c-404e-82f8-4ce81de41bef
+1 NAME Lorenzo /Diez de Fuenmayor/
+2 SOUR @G8TESznJRGCKBg1WwF0w@
+3 PAGE Ancestry Family Tree
+3 DATA
+4 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=60916
+5 CONC 892&pid=98
+1 SEX M
+1 FAMC @F52@
+1 BIRT
+2 DATE 1648
+2 PLAC Pasto, Nariño, Colombia
+0 @I139@ INDI
+1 REFN fb983492-9fc0-4f46-929c-6a10e227603a
+1 NAME Martín Alfonso /Diez de Fuenmayor/
+2 SOUR @G8TESznJRGCKBg1WwF0w@
+3 PAGE Ancestry Family Tree
+3 DATA
+4 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=60916
+5 CONC 892&pid=99
+1 SEX M
+1 FAMC @F52@
+1 BIRT
+2 DATE 1646
+2 PLAC Pasto, Nariño, Colombia
+1 DEAT
+2 DATE 28 APR 1720
+0 @I140@ INDI
+1 REFN 8a3b38f8-1d39-4413-916d-843ba7041670
+1 NAME Petronila /Diez de Fuenmayor/
+2 SOUR @G8TESznJRGCKBg1WwF0w@
+3 PAGE Ancestry Family Tree
+3 DATA
+4 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=60916
+5 CONC 892&pid=100
+1 SEX F
+1 FAMC @F52@
+1 BIRT
+2 DATE 1653
+2 PLAC Pasto, Nariño, Colombia
+0 @I141@ INDI
+1 REFN b06b47a1-061d-4f53-b5fb-58b24ec8cd4e
+1 NAME Rodrigo /Diez de Fuenmayor/
+2 SOUR @G8TESznJRGCKBg1WwF0w@
+3 PAGE Ancestry Family Tree
+3 DATA
+4 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=60916
+5 CONC 892&pid=104
+1 SEX M
+1 FAMC @F35@
+1 FAMS @F49@
+1 BIRT
+2 DATE 1528
+2 PLAC Navarra, España
+1 DEAT
+2 DATE 1599
+2 PLAC Buga, Valle, Colombia
+0 @I142@ INDI
+1 REFN df655d66-426a-4de9-9a84-308107d1573a
+1 NAME Francisco /Díaz del Campo/
+2 SOUR @G8TESznJRGCKBg1WwF0w@
+3 PAGE Ancestry Family Tree
+3 DATA
+4 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=60916
+5 CONC 892&pid=135
+1 SEX M
+1 FAMC @F48@
+1 FAMS @F47@
+1 BIRT
+2 PLAC Villafrechós, Valladolid, Castilla-Leon, España
+0 @I143@ INDI
+1 REFN 78c6eb0c-4493-44dd-9c38-44560896869c
+1 NAME Leonor /Díaz/
+2 SOUR @G8TESznJRGCKBg1WwF0w@
+3 PAGE Ancestry Family Tree
+3 DATA
+4 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=60916
+5 CONC 892&pid=136
+1 SEX F
+1 FAMS @F48@
+1 BIRT
+2 PLAC Liébana, Cantabria, España
+0 @I144@ INDI
+1 _XY 1119 90
+1 REFN c0abad42-0e3b-4d88-b6e9-02f5429d2606
+1 NAME Joaquín /Donoso Ortiz/
+2 SOUR @S71@
+1 SEX M
+1 FAMC @F53@
+1 FAMS @F54@
+1 FAMS @F55@
+1 BIRT
+2 DATE 1802
+2 PLAC San Pablo del Lago, Imbabura, Ecuador
+2 SOUR @S72@
+2 SOUR @S73@
+1 DEAT
+2 DATE 1873
+2 PLAC Quito, Pichincha, Ecuador
+3 MAP
+4 LATI S0.2167
+4 LONG W78.5
+2 SOUR @S72@
+2 SOUR @S73@
+0 @I145@ INDI
+1 _XY 1012 30
+1 REFN 4c261fe2-a4f1-42e2-9061-d8f4782fe2d3
+1 NAME Diego Mariano Ambrosio /Donoso y Chiriboga/
+2 SOUR @G8TESznJRGCKBg1WwF0w@
+3 PAGE Ancestry Family Tree
+3 DATA
+4 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=60916
+5 CONC 892&pid=34
+2 SOUR @S68@
+2 SOUR @S71@
+1 SEX M
+1 FAMS @F53@
+1 BIRT
+2 DATE ABT 07 DEC 1777
+2 PLAC Quito, Pichincha, Ecuador
+3 MAP
+4 LATI S0.2167
+4 LONG W78.5
+2 SOUR @S71@
+1 CHR
+2 DATE 08 DEC 1777
+2 PLAC Quito, Pichincha, Ecuador
+3 MAP
+4 LATI S0.2167
+4 LONG W78.5
+2 SOUR @S71@
+1 DEAT
+2 DATE 21 APR 1846
+2 PLAC Riobamba, Chimborazo, Ecuador
+3 MAP
+4 LATI S1.6667
+4 LONG W78.6334
+0 @I146@ INDI
+1 _XY 1078 180
+1 REFN e7cea020-3b2a-4eab-b3ee-99abbc38f63f
+1 NAME Adela /Donoso/
+2 SOUR @S68@
+3 PAGE p. 25
+2 SOUR @S68@
+3 PAGE p. 25
+3 QUAY 1
+1 SEX F
+1 FAMC @F55@
+1 BIRT
+2 DATE 1836
+2 PLAC Quito, Pichincha, Ecuador
+3 MAP
+4 LATI S0.2167
+4 LONG W78.5
+2 SOUR @S71@
+0 @I147@ INDI
+1 _XY 1254 179
+1 REFN c8a5ed35-b439-4bf0-8eb4-0b09ee2eccab
+1 NAME Antonio /Donoso/
+2 SOUR @S74@
+1 SEX M
+1 FAMC @F54@
+1 BIRT
+2 DATE 1845
+2 PLAC Vinces, Los Rios, Ecuador
+3 MAP
+4 LATI S1.55
+4 LONG W79.7333
+2 SOUR @S74@
+0 @I148@ INDI
+1 _XY 1154 180
+1 REFN fd0ef36e-6d18-4c41-919a-c6dbbe0db906
+1 NAME Camila /Donoso/
+2 SOUR @S68@
+3 PAGE p. 25
+2 SOUR @S68@
+3 PAGE p. 25
+3 QUAY 1
+1 SEX F
+1 FAMC @F55@
+0 @I149@ INDI
+1 _XY 900 180
+1 REFN af404ae6-f4a2-4014-927f-78b71fb0c705
+1 NAME Modesto /Donoso/
+2 SOUR @S68@
+3 PAGE p. 25
+2 SOUR @S68@
+3 PAGE p. 25
+3 QUAY 1
+1 SEX M
+1 FAMC @F55@
+1 BIRT
+2 DATE 1831
+2 PLAC Quito, Pichincha, Ecuador
+3 MAP
+4 LATI S0.2167
+4 LONG W78.5
+2 SOUR @S71@
+0 @I150@ INDI
+1 _XY 995 179
+1 REFN a9403471-42a4-4452-bc8a-a607c73fb9f7
+1 NAME Teresa /Donoso/
+2 SOUR @S68@
+3 PAGE p. 25
+2 SOUR @S68@
+3 PAGE p. 25
+3 QUAY 1
+1 SEX F
+1 FAMC @F55@
+1 BIRT
+2 DATE 1834
+2 PLAC Quito, Pichincha, Ecuador
+3 MAP
+4 LATI S0.2167
+4 LONG W78.5
+2 SOUR @S71@
 0 @cIbRXenQRiq6juLUmspF@ INDI
 1 _XY 172945 3263
 1 REFN f93133fe-86bc-44f0-b105-8cb46f2636a5
@@ -484,6 +2045,314 @@
 1 FAMS @KjS0id0VT222TBWVkqOg@
 1 BIRT
 2 DATE ABT 1885
+0 @I151@ INDI
+1 REFN 166604ba-9dc1-4c50-9296-72abe388a684
+1 NAME Bernardo /Fernández de Antesana/
+2 SOUR @G8TESznJRGCKBg1WwF0w@
+3 PAGE Ancestry Family Tree
+3 DATA
+4 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=60916
+5 CONC 892&pid=57
+1 SEX M
+1 FAMS @F25@
+0 @I152@ INDI
+1 REFN cb918708-6e43-4fb7-9f18-c12f8088185a
+1 NAME Francisco /Fernández Floriano/
+2 SOUR @G8TESznJRGCKBg1WwF0w@
+3 PAGE Ancestry Family Tree
+3 DATA
+4 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=60916
+5 CONC 892&pid=125
+2 SOUR @S75@
+3 _APID 1,7486::1609447
+3 PAGE Place: New Granada; Year: 1555; Page Number: 228
+1 SEX M
+1 FAMC @F42@
+1 FAMS @F45@
+1 FAMS @F56@
+1 BIRT
+2 DATE 1518
+2 PLAC Plasencia, Extremadura, España
+1 EVEN
+2 TYPE Arrival
+2 DATE 1555
+2 PLAC New Granada
+2 SOUR @S75@
+3 _APID 1,7486::1609447
+3 PAGE Place: New Granada; Year: 1555; Page Number: 228
+0 @I153@ INDI
+1 REFN f27f6015-5ab3-466b-bb0f-6f2d19cffc63
+1 NAME Juan /Fernández Floriano/
+2 SOUR @G8TESznJRGCKBg1WwF0w@
+3 PAGE Ancestry Family Tree
+3 DATA
+4 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=60916
+5 CONC 892&pid=132
+1 SEX M
+1 FAMS @F42@
+0 @I154@ INDI
+1 REFN 9097a4c2-c68f-4453-b025-92b8a012aad9
+1 NAME María Nicolasa /Fernández y Benies/
+2 SOUR @G8TESznJRGCKBg1WwF0w@
+3 PAGE Ancestry Family Tree
+3 DATA
+4 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=60916
+5 CONC 892&pid=58
+1 SEX F
+1 FAMC @F25@
+0 @I155@ INDI
+1 REFN 8db0bbbd-da78-49cb-bb8c-195226bce19d
+1 NAME Catalina /Fuenmayor de Benalcazar/
+2 SOUR @G8TESznJRGCKBg1WwF0w@
+3 PAGE Ancestry Family Tree
+3 DATA
+4 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=60916
+5 CONC 892&pid=161
+1 SEX F
+1 FAMC @F35@
+1 BIRT
+2 PLAC Buga, Valle del Cauca, Colombia
+3 MAP
+4 LATI N3.9022
+4 LONG W76.3028
+1 DEAT
+2 PLAC Buga, Valle del Cauca, Colombia
+3 MAP
+4 LATI N3.9022
+4 LONG W76.3028
+0 @I156@ INDI
+1 REFN 31b5bdbc-1918-4bd3-b8fa-496778af79d9
+1 NAME Diego /Fuenmayor y Peguero/
+2 SOUR @G8TESznJRGCKBg1WwF0w@
+3 PAGE Ancestry Family Tree
+3 DATA
+4 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=60916
+5 CONC 892&pid=114
+1 SEX M
+1 FAMC @F50@
+1 BIRT
+2 DATE ABT 1595
+2 PLAC Buga, Valle, Colombia
+0 @I157@ INDI
+1 REFN 88caea8c-c149-4d4c-92db-773f5a8e58b4
+1 NAME Juan /Fuenmayor y Peguero/
+2 SOUR @G8TESznJRGCKBg1WwF0w@
+3 PAGE Ancestry Family Tree
+3 DATA
+4 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=60916
+5 CONC 892&pid=113
+1 SEX M
+1 FAMC @F50@
+1 BIRT
+2 DATE ABT 1596
+2 PLAC Buga, Valle, Colombia
+1 DEAT
+2 DATE 1686
+2 PLAC Buga, Valle, Colombia
+0 @I158@ INDI
+1 REFN 92765fc3-08bb-4647-8e39-b7e0c3ac2009
+1 NAME María /Fuenmayor y Peguero/
+2 SOUR @G8TESznJRGCKBg1WwF0w@
+3 PAGE Ancestry Family Tree
+3 DATA
+4 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=60916
+5 CONC 892&pid=115
+1 SEX F
+1 FAMC @F50@
+1 BIRT
+2 DATE ABT 1594
+2 PLAC Buga, Valle, Colombia
+0 @I159@ INDI
+1 REFN bb3da81d-9227-4537-93c0-309b773441e1
+1 NAME Francisco /Gamarra Sarmiento/
+2 SOUR @G8TESznJRGCKBg1WwF0w@
+3 PAGE Ancestry Family Tree
+3 DATA
+4 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=60916
+5 CONC 892&pid=153
+1 SEX M
+1 FAMS @F57@
+1 BIRT
+2 PLAC España
+1 DEAT
+2 PLAC Pasto, Nariño, Colombia
+0 @I160@ INDI
+1 REFN bcc51310-2a2c-4c9d-a56e-2ca02e76a133
+1 NAME Francisca Beatriz /Gamarra y Zúñiga/
+2 SOUR @G8TESznJRGCKBg1WwF0w@
+3 PAGE Ancestry Family Tree
+3 DATA
+4 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=60916
+5 CONC 892&pid=72
+1 SEX F
+1 FAMC @F57@
+1 FAMS @F29@
+1 BIRT
+2 PLAC Pasto, Nariño, Colombia
+1 DEAT
+2 PLAC Pasto, Nariño, Colombia
+0 @I161@ INDI
+1 REFN e6eb1245-1e2a-44e7-8b7b-257141b3a131
+1 NAME Alonso /González/
+2 SOUR @G8TESznJRGCKBg1WwF0w@
+3 PAGE Ancestry Family Tree
+3 DATA
+4 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=60916
+5 CONC 892&pid=129
+1 SEX M
+1 FAMS @F58@
+1 BIRT
+2 PLAC Membrilla, Toledo, Espana
+0 @I162@ INDI
+1 REFN b7c89d8e-73bc-4cdb-9c8b-489c19d9c565
+1 NAME Beatriz /Gómez/
+2 SOUR @G8TESznJRGCKBg1WwF0w@
+3 PAGE Ancestry Family Tree
+3 DATA
+4 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=60916
+5 CONC 892&pid=138
+1 SEX F
+1 FAMS @F59@
+1 DEAT
+2 DATE BEF MAY 1594
+1 BIRT
+2 PLAC El Barco de Ávila, Avila, Castilla-Leon, Spain
+3 MAP
+4 LATI N40.35
+4 LONG W5.5167
+0 @I163@ INDI
+1 REFN 5fc8f0ff-6c1b-44f1-aa81-2ff99a95314d
+1 NAME Beatriz /Gómez/
+2 SOUR @G8TESznJRGCKBg1WwF0w@
+3 PAGE Ancestry Family Tree
+3 DATA
+4 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=60916
+5 CONC 892&pid=134
+1 SEX F
+1 FAMC @F59@
+1 FAMS @F47@
+1 BIRT
+2 DATE ABT 1495
+2 PLAC Plasencia, Caceres, Extremadura, España
+0 @I164@ INDI
+1 REFN 6b099187-1602-4634-a8ce-e9af2805942c
+1 NAME Jorge /Gómez/
+2 SOUR @G8TESznJRGCKBg1WwF0w@
+3 PAGE Ancestry Family Tree
+3 DATA
+4 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=60916
+5 CONC 892&pid=139
+1 SEX M
+1 FAMS @F59@
+1 DEAT
+2 DATE BEF MAY 1594
+1 BIRT
+2 PLAC El Barco de Ávila, Avila, Castilla-Leon, Spain
+3 MAP
+4 LATI N40.35
+4 LONG W5.5167
+0 @I165@ INDI
+1 _XY 665 273
+1 REFN 6b10f95a-5352-4f2a-b544-94bcd16d774d
+1 NAME Amalia /Hurtado Zambrano/
+2 SOUR @S68@
+2 SOUR @S68@
+3 QUAY 1
+1 SEX F
+1 FAMC @F60@
+1 FAMS @F61@
+1 FAMS @F62@
+1 BIRT
+2 DATE ABT 1840
+2 PLAC Quito, Pichincha, Ecuador
+3 MAP
+4 LATI S0.2167
+4 LONG W78.5
+2 SOUR @S68@
+3 PAGE p. 25
+2 SOUR @S68@
+3 PAGE p. 25
+3 QUAY 1
+1 DEAT
+2 DATE 1913
+2 PLAC Quito, Pichincha, Ecuador
+3 MAP
+4 LATI S0.2167
+4 LONG W78.5
+2 SOUR @S68@
+2 SOUR @S68@
+3 QUAY 1
+0 @I166@ INDI
+1 _XY 607 96
+1 REFN 8197e007-47c8-444f-9a7c-b0d249bc1c4b
+1 NAME [unknown] /Hurtado/
+2 SOUR @S68@
+2 SOUR @S68@
+3 QUAY 1
+1 SEX M
+1 FAMS @F60@
+1 BIRT
+2 DATE ABT 1800
+2 NOTE just a guess
+1 RESI
+2 PLAC Los Ríos, Ecuador
+2 SOUR @S68@
+2 SOUR @S68@
+3 QUAY 1
+0 @I167@ INDI
+1 REFN df41ecdd-7570-43b7-86fd-9fac29f59d9b
+1 NAME Anserma /India/
+2 SOUR @G8TESznJRGCKBg1WwF0w@
+3 PAGE Ancestry Family Tree
+3 DATA
+4 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=60916
+5 CONC 892&pid=144
+1 SEX F
+1 FAMS @F63@
+0 @I168@ INDI
+1 REFN 951064cc-4c5e-4d35-a9f0-c2d706c06ef9
+1 NAME Catalina /India/
+2 SOUR @G8TESznJRGCKBg1WwF0w@
+3 PAGE Ancestry Family Tree
+3 DATA
+4 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=60916
+5 CONC 892&pid=85
+1 SEX F
+1 FAMS @F32@
+1 BIRT
+2 DATE 1505
+2 PLAC Nicaragua
+0 @I169@ INDI
+1 REFN a91b92b3-99b8-4df4-9483-e3643bb85a34
+1 NAME Leonor /India/
+2 SOUR @G8TESznJRGCKBg1WwF0w@
+3 PAGE Ancestry Family Tree
+3 DATA
+4 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=60916
+5 CONC 892&pid=95
+1 SEX F
+1 FAMS @F36@
+1 BIRT
+2 PLAC Panamá, Panamá
+0 @I170@ INDI
+1 REFN ea1564ad-3338-425c-bc5c-88b932da20e7
+1 NAME Catalina /Insuasti Benalcázar/
+2 SOUR @G8TESznJRGCKBg1WwF0w@
+3 PAGE Ancestry Family Tree
+3 DATA
+4 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=60916
+5 CONC 892&pid=118
+1 SEX F
+1 FAMC @F33@
+1 BIRT
+2 DATE 1587
+2 PLAC Pasto, Nariño, Colombia
+1 DEAT
+2 DATE 1656
+2 PLAC Ibarra, Imbabura, Ecuador
+3 MAP
+4 LATI N0.35
+4 LONG W78.1167
 0 @ZcSGLg2cTTWnz1GaM2o9@ INDI
 1 _XY 173461 3360
 1 REFN 5ccb0439-0d95-4db0-a7b1-56797c022a5e
@@ -552,7 +2421,7 @@
 4 CONC n Census Schedules, 1915; Election District: 24; Assembly Di
 4 CONC strict: 18; City: New York; County: Kings; Page: 48
 3 OBJE @Ytym72GVSnyP9XaO24dZ@
-2 SOUR @Dw4GexiaRgOYCe8R2xHN@
+2 SOUR @S68@
 3 QUAY 1
 2 SOUR @FKSKK0JtSlqtGZ1MZl4W@
 3 _APID 1,2257::1146046
@@ -610,7 +2479,7 @@
 4 CONC n Census Schedules, 1915; Election District: 24; Assembly Di
 4 CONC strict: 18; City: New York; County: Kings; Page: 48
 3 OBJE @Ytym72GVSnyP9XaO24dZ@
-2 SOUR @Dw4GexiaRgOYCe8R2xHN@
+2 SOUR @S68@
 2 SOUR @FKSKK0JtSlqtGZ1MZl4W@
 3 _APID 1,2257::1146046
 3 PAGE "Passenger Lists of Vessels Arriving at San Juan, Puerto Ric
@@ -698,13 +2567,32 @@
 3 MAP
 4 LATI S34.667
 4 LONG W58.4
-2 SOUR @Dw4GexiaRgOYCe8R2xHN@
+2 SOUR @S68@
 3 QUAY 1
+0 @I171@ INDI
+1 _XY 157 142
+1 REFN 737b79c9-ed1a-4abe-b5c0-c57685310f60
+1 NAME Camila /López/
+2 SOUR @S68@
+2 SOUR @S68@
+3 QUAY 1
+1 SEX F
+1 FAMC @F64@
+1 FAMC @F65@
+0 @I172@ INDI
+1 _XY 160 273
+1 REFN 45ddcab7-4fc0-467b-9a51-bde9f3e5d301
+1 NAME Carlos /López/
+2 SOUR @S68@
+2 SOUR @S68@
+3 QUAY 1
+1 SEX M
+1 FAMC @F21@
 0 @4CmHCHL9SeWqrg5IQwEM@ INDI
 1 _XY 171877 3250
 1 REFN 870f9461-40fc-4e91-890a-dac826545baf
 1 NAME Carlos /López/
-2 SOUR @Dw4GexiaRgOYCe8R2xHN@
+2 SOUR @S68@
 3 QUAY 1
 1 SEX M
 1 FAMC @NFIwsVBuTjOSRokJd8v0@
@@ -712,6 +2600,32 @@
 2 DATE ABT 1886
 2 PLAC Peru
 2 SOUR @7hzCF6rURECkbdc8IJaU@
+3 QUAY 1
+0 @I173@ INDI
+1 _XY 265 142
+1 REFN 4848199e-b999-4d0f-8b48-d40d285d5e41
+1 NAME Dolores /López/
+2 SOUR @S68@
+2 SOUR @S68@
+3 QUAY 1
+1 SEX F
+1 FAMC @F64@
+1 FAMC @F65@
+1 FAMS @F21@
+1 BIRT
+2 DATE ABT 1820
+2 PLAC Quito, Pichincha, Ecuador
+3 MAP
+4 LATI S0.2167
+4 LONG W78.5
+2 SOUR @S68@
+2 SOUR @S68@
+3 QUAY 1
+1 RESI
+2 PLAC Calle del Cebollar [Onion Patch Street], Quito, Pichincha, E
+3 CONC cuador
+2 SOUR @S68@
+2 SOUR @S68@
 3 QUAY 1
 0 @MXy97gGiR8OdDYExTOv7@ INDI
 1 _XY 173695 3250
@@ -758,7 +2672,7 @@
 4 CONC n Census Schedules, 1925; Election District: 45; Assembly Di
 4 CONC strict: 21; City: Brooklyn; County: Kings; Page: 17
 3 OBJE @PRwNqIQfQbWmE2tzOjmU@
-2 SOUR @Dw4GexiaRgOYCe8R2xHN@
+2 SOUR @S68@
 3 QUAY 1
 2 SOUR @GFCLw2yOQvibba3edsSE@
 3 _APID 1,3693::69779249
@@ -814,7 +2728,7 @@
 4 CONC n Census Schedules, 1925; Election District: 45; Assembly Di
 4 CONC strict: 21; City: Brooklyn; County: Kings; Page: 17
 3 OBJE @PRwNqIQfQbWmE2tzOjmU@
-2 SOUR @Dw4GexiaRgOYCe8R2xHN@
+2 SOUR @S68@
 3 QUAY 1
 2 SOUR @GFCLw2yOQvibba3edsSE@
 3 _APID 1,3693::69779249
@@ -935,7 +2849,7 @@
 3 MAP
 4 LATI N40.65
 4 LONG W73.95
-2 SOUR @Dw4GexiaRgOYCe8R2xHN@
+2 SOUR @S68@
 3 QUAY 1
 2 SOUR @GFCLw2yOQvibba3edsSE@
 3 _APID 1,3693::69779249
@@ -946,11 +2860,38 @@
 3 QUAY 3
 2 NOTE show as Dolores Zilker (I am just assuming that this is righ
 3 CONC t Dolores, because birth and death dates match)
+0 @I174@ INDI
+1 _XY 575 413
+1 REFN ba7669c9-57c0-49c8-b0c0-b36c7f4fe8d7
+1 NAME Dolores Malvina /López/
+2 SOUR @S68@
+2 SOUR @S68@
+3 QUAY 1
+1 SEX F
+1 FAMC @F61@
+1 BIRT
+2 DATE 08 APR 1881
+2 PLAC Quito, Pichincha, Ecuador
+3 MAP
+4 LATI S0.2167
+4 LONG W78.5
+2 SOUR @S68@
+2 SOUR @S68@
+3 QUAY 1
+1 DEAT
+2 DATE 22 MAR 1977
+2 PLAC Quito, Pichincha, Ecuador
+3 MAP
+4 LATI S0.2167
+4 LONG W78.5
+2 SOUR @S68@
+2 SOUR @S68@
+3 QUAY 1
 0 @M2VYIcfGShuHHjLxRLLO@ INDI
 1 _XY 172286 3250
 1 REFN fe9a8417-4b2c-4108-a56e-76147cd72175
 1 NAME Dolores Olympia /López/
-2 SOUR @Dw4GexiaRgOYCe8R2xHN@
+2 SOUR @S68@
 3 QUAY 1
 1 SEX F
 1 FAMC @KHbLkt6WRqSDo0DTyyKL@
@@ -960,7 +2901,7 @@
 3 MAP
 4 LATI S1.3333
 4 LONG W80.5833
-2 SOUR @Dw4GexiaRgOYCe8R2xHN@
+2 SOUR @S68@
 3 QUAY 1
 1 DEAT
 2 DATE 1877
@@ -968,7 +2909,7 @@
 3 MAP
 4 LATI S1.3333
 4 LONG W80.5833
-2 SOUR @Dw4GexiaRgOYCe8R2xHN@
+2 SOUR @S68@
 3 QUAY 1
 0 @t1pW5s3GTzqlEPfJTbOL@ INDI
 1 _XY 172659 3250
@@ -980,7 +2921,7 @@
 4 CONC ; Roll: T624_982; Page: 3B; Enumeration District: 0931; FH
 4 CONC L microfilm: 1374995
 3 OBJE @i1TqjIxIRTO5IYm8HjII@
-2 SOUR @9aP0Jv3QR2S5briSRgPn@
+2 SOUR @pZSp306qQOGHvPqm0c60@
 3 _APID 1,6061::103419867
 3 PAGE Year: 1920; Census Place: Brooklyn Assembly District 1, King
 4 CONC s, New York
@@ -1008,7 +2949,7 @@
 4 CONC n Census Schedules, 1915; Election District: 24; Assembly Di
 4 CONC strict: 18; City: New York; County: Kings; Page: 48
 3 OBJE @Ytym72GVSnyP9XaO24dZ@
-2 SOUR @Dw4GexiaRgOYCe8R2xHN@
+2 SOUR @S68@
 3 QUAY 1
 1 SEX F
 1 FAMC @KHbLkt6WRqSDo0DTyyKL@
@@ -1024,7 +2965,7 @@
 4 CONC ; Roll: T624_982; Page: 3B; Enumeration District: 0931; FH
 4 CONC L microfilm: 1374995
 3 OBJE @i1TqjIxIRTO5IYm8HjII@
-2 SOUR @9aP0Jv3QR2S5briSRgPn@
+2 SOUR @pZSp306qQOGHvPqm0c60@
 3 _APID 1,6061::103419867
 3 PAGE Year: 1920; Census Place: Brooklyn Assembly District 1, King
 4 CONC s, New York
@@ -1052,7 +2993,7 @@
 4 CONC n Census Schedules, 1915; Election District: 24; Assembly Di
 4 CONC strict: 18; City: New York; County: Kings; Page: 48
 3 OBJE @Ytym72GVSnyP9XaO24dZ@
-2 SOUR @Dw4GexiaRgOYCe8R2xHN@
+2 SOUR @S68@
 3 QUAY 1
 2 NOTE Consistent with being 11 months old at baptism on April 10
 3 CONC , 1883.
@@ -1066,7 +3007,7 @@
 1 EVEN
 2 TYPE Arrival
 2 DATE 1901
-2 SOUR @9aP0Jv3QR2S5briSRgPn@
+2 SOUR @pZSp306qQOGHvPqm0c60@
 3 _APID 1,6061::103419867
 3 PAGE Year: 1920; Census Place: Brooklyn Assembly District 1, King
 4 CONC s, New York
@@ -1120,7 +3061,7 @@
 3 MAP
 4 LATI N40.65
 4 LONG W73.95
-2 SOUR @9aP0Jv3QR2S5briSRgPn@
+2 SOUR @pZSp306qQOGHvPqm0c60@
 3 _APID 1,6061::103419867
 3 PAGE Year: 1920; Census Place: Brooklyn Assembly District 1, King
 4 CONC s, New York
@@ -1171,7 +3112,7 @@
 3 MAP
 4 LATI S0.2167
 4 LONG W78.5
-2 SOUR @Dw4GexiaRgOYCe8R2xHN@
+2 SOUR @S68@
 3 QUAY 1
 0 @fv0n8R3TSkK0bmwnSXdA@ INDI
 1 _XY 172871 3360
@@ -1183,7 +3124,7 @@
 1 _XY 172440 3250
 1 REFN a5fab8d4-0403-4d45-a909-ecb490581ada
 1 NAME Estenio /López/
-2 SOUR @Dw4GexiaRgOYCe8R2xHN@
+2 SOUR @S68@
 3 QUAY 1
 1 SEX M
 1 FAMC @KHbLkt6WRqSDo0DTyyKL@
@@ -1193,7 +3134,7 @@
 3 MAP
 4 LATI S1.3333
 4 LONG W80.5833
-2 SOUR @Dw4GexiaRgOYCe8R2xHN@
+2 SOUR @S68@
 3 QUAY 1
 1 DEAT
 2 DATE 1897
@@ -1201,10 +3142,10 @@
 3 MAP
 4 LATI S0.9141
 4 LONG W80.3073
-2 SOUR @Dw4GexiaRgOYCe8R2xHN@
+2 SOUR @S68@
 2 NOTE of wounds obtained in a military battle
 0 @y4408aI7RySfx8XbRwvy@ INDI
-1 _XY 172139 3167
+1 _XY 204 305
 1 REFN ac139ee4-c9a3-40d7-a8c7-7a6060a645d5
 1 NAME Felicísimo /López/
 2 SOUR @zznD1WJ7RJetSxS9JJ2R@
@@ -1243,8 +3184,12 @@
 3 _APID 1,50015::564651
 3 OBJE @V73uFtl5QxKCndz1XQzs@
 1 SEX M
+1 FAMC @F21@
 1 FAMS @NFIwsVBuTjOSRokJd8v0@
 1 FAMS @KHbLkt6WRqSDo0DTyyKL@
+1 NOTE This tree contains genealogy on the Pazmi'f1o family of Quit
+2 CONC o, Ecuador. Also these related families: Auz, L'f3pez, Hurta
+2 CONC do, Zambrano.
 1 BIRT
 2 DATE 06 AUG 1847
 2 PLAC Quito, Pichincha, Ecuador
@@ -1296,12 +3241,12 @@
 3 MAP
 4 LATI S0.2167
 4 LONG W78.5
-2 SOUR @Dw4GexiaRgOYCe8R2xHN@
+2 SOUR @S68@
 3 QUAY 1
 1 EDUC
 2 DATE FROM 1864 TO 1868
 2 PLAC Colegio de los Jesuítas, Quito, Pichincha, Ecuador
-2 SOUR @Dw4GexiaRgOYCe8R2xHN@
+2 SOUR @S68@
 3 QUAY 1
 2 NOTE Latin teacher: Buenaventura Proaño.
 3 CONT Humanities teacher: Padre Hernáez.
@@ -1319,7 +3264,7 @@
 3 MAP
 4 LATI S1.3333
 4 LONG W80.5833
-2 SOUR @Dw4GexiaRgOYCe8R2xHN@
+2 SOUR @S68@
 3 QUAY 1
 2 NOTE End date approx.
 1 RESI
@@ -1328,7 +3273,7 @@
 3 MAP
 4 LATI S1.3333
 4 LONG W80.5833
-2 SOUR @Dw4GexiaRgOYCe8R2xHN@
+2 SOUR @S68@
 3 QUAY 1
 1 OCCU ran store
 2 DATE ABT 1874
@@ -1336,13 +3281,13 @@
 3 MAP
 4 LATI S1.3333
 4 LONG W80.5833
-2 SOUR @Dw4GexiaRgOYCe8R2xHN@
+2 SOUR @S68@
 3 QUAY 1
 2 NOTE after 1873, while still a doctor
 1 EVEN
 2 TYPE enlisted
 2 DATE 1882
-2 SOUR @Dw4GexiaRgOYCe8R2xHN@
+2 SOUR @S68@
 3 QUAY 1
 2 NOTE The same day General Veintimilla declared himself Jefe Supre
 3 CONC mo de la Repúbilca.
@@ -1355,7 +3300,7 @@
 1 RESI
 2 DATE FROM 1885 TO 1888
 2 PLAC Peru
-2 SOUR @Dw4GexiaRgOYCe8R2xHN@
+2 SOUR @S68@
 3 QUAY 1
 1 RESI
 2 DATE FROM 1888 TO 1889
@@ -1363,7 +3308,7 @@
 3 MAP
 4 LATI S1.3333
 4 LONG W80.5833
-2 SOUR @Dw4GexiaRgOYCe8R2xHN@
+2 SOUR @S68@
 3 QUAY 1
 1 RESI
 2 DATE FROM 1889 TO 1892
@@ -1371,7 +3316,7 @@
 3 MAP
 4 LATI S0.6833
 4 LONG W80.1
-2 SOUR @Dw4GexiaRgOYCe8R2xHN@
+2 SOUR @S68@
 3 QUAY 1
 1 OCCU doctor
 2 DATE FROM 1889 TO 1892
@@ -1379,7 +3324,7 @@
 3 MAP
 4 LATI S0.6833
 4 LONG W80.1
-2 SOUR @Dw4GexiaRgOYCe8R2xHN@
+2 SOUR @S68@
 3 QUAY 1
 1 EVEN
 2 TYPE excommunication
@@ -1388,14 +3333,14 @@
 3 MAP
 4 LATI S0.6833
 4 LONG W80.1
-2 SOUR @Dw4GexiaRgOYCe8R2xHN@
+2 SOUR @S68@
 1 OCCU doctor
 2 DATE FROM 1892
 2 PLAC Guayaquil, Guayas, Ecuador
 3 MAP
 4 LATI S2.1667
 4 LONG W79.9
-2 SOUR @Dw4GexiaRgOYCe8R2xHN@
+2 SOUR @S68@
 3 QUAY 1
 1 RESI
 2 DATE FROM 1892 TO 1896
@@ -1412,13 +3357,13 @@
 3 MAP
 4 LATI S2.1667
 4 LONG W79.9
-2 SOUR @Dw4GexiaRgOYCe8R2xHN@
+2 SOUR @S68@
 3 QUAY 1
 2 NOTE of Esmeraldas Province, but was uncontitutionally denied th
 3 CONC e seat, because he had been excommunicated
 1 TITL Colector de Rentas Fiscales
 2 DATE FROM 1895 TO 1900
-2 SOUR @Dw4GexiaRgOYCe8R2xHN@
+2 SOUR @S68@
 3 QUAY 1
 1 EVEN
 2 TYPE delegate
@@ -1427,7 +3372,7 @@
 3 MAP
 4 LATI S0.2167
 4 LONG W78.5
-2 SOUR @Dw4GexiaRgOYCe8R2xHN@
+2 SOUR @S68@
 3 QUAY 1
 2 NOTE delegate to the convention from Manabi Province
 1 RESI
@@ -1473,7 +3418,7 @@
 2 DATE FROM FEB 1900 TO OCT 1900
 2 PLAC Ecuadorian Consulate, Room 1402, 11 Broadway, New York, Ne
 3 CONC w York, USA
-2 SOUR @Dw4GexiaRgOYCe8R2xHN@
+2 SOUR @S68@
 3 QUAY 1
 2 NOTE appointed by Eloy Alfaro, President of Ecuador
 1 RESI
@@ -1499,42 +3444,42 @@
 1 TITL Condecoración de Segunda Clase del Busto del Libertador
 2 DATE OCT 1900
 2 PLAC Venezuela
-2 SOUR @Dw4GexiaRgOYCe8R2xHN@
+2 SOUR @S68@
 3 QUAY 1
 2 NOTE honorary title. date approx
 1 TITL Minister Plenipotenciary to Venezuela
 2 DATE OCT 1900
-2 SOUR @Dw4GexiaRgOYCe8R2xHN@
+2 SOUR @S68@
 3 QUAY 1
 2 NOTE while living in Brooklyn?
 1 RESI
 2 DATE FROM OCT 1900 TO DEC 1900
 2 PLAC Nicaragua
-2 SOUR @Dw4GexiaRgOYCe8R2xHN@
+2 SOUR @S68@
 3 QUAY 1
 2 NOTE maybe first Ecuador, then Venesuela, then Nicaragua?
 1 TITL Minister of Education
 2 DATE FROM DEC 1900 TO 1901
 2 PLAC Ecuador
-2 SOUR @Dw4GexiaRgOYCe8R2xHN@
+2 SOUR @S68@
 3 QUAY 1
 2 NOTE dates approx.
 1 RESI
 2 DATE FROM DEC 1900 TO AUG 1901
 2 PLAC Ecuador
-2 SOUR @Dw4GexiaRgOYCe8R2xHN@
+2 SOUR @S68@
 3 QUAY 1
 2 NOTE December is a guess
 1 TITL Minister of the Interior
 2 DATE ABT JAN 1901
 2 PLAC Ecuador
-2 SOUR @Dw4GexiaRgOYCe8R2xHN@
+2 SOUR @S68@
 3 QUAY 1
 1 EVEN
 2 TYPE published
 2 DATE ABT 1901
 2 PLAC Ecuador
-2 SOUR @Dw4GexiaRgOYCe8R2xHN@
+2 SOUR @S68@
 3 QUAY 1
 2 NOTE published first Atlas of Ecuador (while he was Minister of E
 3 CONC ducation)
@@ -1548,7 +3493,7 @@
 3 MAP
 4 LATI N42.7531
 4 LONG W74.2224
-2 SOUR @Dw4GexiaRgOYCe8R2xHN@
+2 SOUR @S68@
 3 QUAY 1
 2 NOTE Assuming first 6 Agate Court?, then moved (unknown when, may
 3 CONC be before 1906) to 65 Rutland Road.
@@ -1589,7 +3534,7 @@
 3 MAP
 4 LATI N42.7531
 4 LONG W74.2224
-2 SOUR @Dw4GexiaRgOYCe8R2xHN@
+2 SOUR @S68@
 3 QUAY 1
 2 NOTE Virutas [meaning Shavings in English]
 3 CONT Title: Virutas, o Almanaque de pensamientos sinceros
@@ -1601,7 +3546,7 @@
 3 MAP
 4 LATI N42.7531
 4 LONG W74.2224
-2 SOUR @Dw4GexiaRgOYCe8R2xHN@
+2 SOUR @S68@
 3 QUAY 1
 2 NOTE Title: Historia de una excomunión en el Ecuador.
 3 CONT Publication: American Bank Note Co., New York, 1909.
@@ -1685,13 +3630,13 @@
 3 MAP
 4 LATI N42.7531
 4 LONG W74.2224
-2 SOUR @Dw4GexiaRgOYCe8R2xHN@
+2 SOUR @S68@
 3 QUAY 1
 2 NOTE possibly 2205 Beverly Rd.
 1 OCCU Minister of the Interior
 2 DATE FROM 1911 TO JAN 1912
 2 PLAC Ecuador
-2 SOUR @Dw4GexiaRgOYCe8R2xHN@
+2 SOUR @S68@
 3 QUAY 1
 2 NOTE ending date assumed
 1 RESI
@@ -1726,11 +3671,46 @@
 2 SOUR @nZgHgzU3RTaPdoV8tiPC@
 3 QUAY 1
 2 SOUR @VfFgMYfGS9eDLgFo6tfB@
+0 @I175@ INDI
+1 _XY 434 273
+1 REFN 36b7b80b-98ad-40da-8b5e-3a4155516222
+1 NAME Francisco Mariano /López/
+1 SEX M
+1 FAMC @F21@
+1 FAMS @F61@
+1 BIRT
+2 DATE 1841
+2 PLAC Quito, Pichincha, Ecuador
+3 MAP
+4 LATI S0.2167
+4 LONG W78.5
+2 SOUR @S68@
+2 SOUR @S68@
+3 QUAY 1
+1 DEAT
+2 DATE 1918
+2 PLAC Quito, Pichincha, Ecuador
+3 MAP
+4 LATI S0.2167
+4 LONG W78.5
+2 SOUR @S68@
+2 SOUR @S68@
+3 QUAY 1
+0 @I176@ INDI
+1 _XY 93 174
+1 REFN b01f6a83-6303-4178-986d-c2f2120a983c
+1 NAME Gregoria /López/
+2 SOUR @S68@
+2 SOUR @S68@
+3 QUAY 1
+1 SEX F
+1 FAMC @F64@
+1 FAMC @F65@
 0 @NaIT2nB5R8G9YqCemqbB@ INDI
 1 _XY 173399 3250
 1 REFN 870d6f88-cb55-4dc9-b155-5b9a1a2f95fc
 1 NAME Hector Samuel /López/
-2 SOUR @9aP0Jv3QR2S5briSRgPn@
+2 SOUR @pZSp306qQOGHvPqm0c60@
 3 _APID 1,6061::103419865
 3 PAGE Year: 1920; Census Place: Brooklyn Assembly District 1, King
 4 CONC s, New York
@@ -1767,7 +3747,7 @@
 4 CONC n Census Schedules, 1915; Election District: 24; Assembly Di
 4 CONC strict: 18; City: New York; County: Kings; Page: 48
 3 OBJE @Ytym72GVSnyP9XaO24dZ@
-2 SOUR @Dw4GexiaRgOYCe8R2xHN@
+2 SOUR @S68@
 3 QUAY 1
 2 SOUR @S62@
 3 _APID 1,1075::5082143
@@ -1840,7 +3820,7 @@
 3 MAP
 4 LATI S0.6833
 4 LONG W80.1
-2 SOUR @9aP0Jv3QR2S5briSRgPn@
+2 SOUR @pZSp306qQOGHvPqm0c60@
 3 _APID 1,6061::103419865
 3 PAGE Year: 1920; Census Place: Brooklyn Assembly District 1, King
 4 CONC s, New York
@@ -1952,7 +3932,7 @@
 1 EVEN
 2 TYPE Arrival
 2 DATE 1901
-2 SOUR @9aP0Jv3QR2S5briSRgPn@
+2 SOUR @pZSp306qQOGHvPqm0c60@
 3 _APID 1,6061::103419865
 3 PAGE Year: 1920; Census Place: Brooklyn Assembly District 1, King
 4 CONC s, New York
@@ -2101,7 +4081,7 @@
 3 MAP
 4 LATI N40.65
 4 LONG W73.95
-2 SOUR @9aP0Jv3QR2S5briSRgPn@
+2 SOUR @pZSp306qQOGHvPqm0c60@
 3 _APID 1,6061::103419865
 3 PAGE Year: 1920; Census Place: Brooklyn Assembly District 1, King
 4 CONC s, New York
@@ -2171,10 +4151,73 @@
 4 LONG W73.95
 2 SOUR @AjMegeGBTpu0nJWDRMDA@
 3 _APID 1,9131::3345252
-2 SOUR @Dw4GexiaRgOYCe8R2xHN@
+2 SOUR @S68@
+3 QUAY 1
+0 @I177@ INDI
+1 _XY 347 273
+1 REFN 77b6c54a-0f00-459a-84e4-5551642ba792
+1 NAME Joaquín /López/
+2 SOUR @S68@
+2 SOUR @S68@
+3 QUAY 1
+1 SEX M
+1 FAMC @F21@
+0 @I178@ INDI
+1 _XY 371 413
+1 REFN 18fb523d-b435-43e8-b33d-373b8dc1c886
+1 NAME Julia /López/
+2 SOUR @S68@
+2 SOUR @S68@
+3 QUAY 1
+1 SEX F
+1 FAMC @F61@
+1 BIRT
+2 DATE ABT 1878
+2 PLAC Quito, Pichincha, Ecuador
+3 MAP
+4 LATI S0.2167
+4 LONG W78.5
+2 SOUR @S68@
+2 SOUR @S68@
+3 QUAY 1
+1 DEAT
+2 DATE ABT 1880
+2 PLAC Quito, Pichincha, Ecuador
+3 MAP
+4 LATI S0.2167
+4 LONG W78.5
+2 SOUR @S68@
+2 SOUR @S68@
+3 QUAY 1
+0 @I179@ INDI
+1 _XY 455 413
+1 REFN 21a9997a-f44e-41c3-a7f4-d8498f3165f0
+1 NAME Julio César /López/
+2 SOUR @S68@
+2 SOUR @S68@
+3 QUAY 1
+1 SEX M
+1 FAMC @F61@
+1 BIRT
+2 DATE ABT 1879
+2 PLAC Quito, Pichincha, Ecuador
+3 MAP
+4 LATI S0.2167
+4 LONG W78.5
+2 SOUR @S68@
+2 SOUR @S68@
+3 QUAY 1
+1 DEAT
+2 DATE 08 JUN 1896
+2 PLAC Quito, Pichincha, Ecuador
+3 MAP
+4 LATI S0.2167
+4 LONG W78.5
+2 SOUR @S68@
+2 SOUR @S68@
 3 QUAY 1
 0 @1C3rIQUbRIOk40Lcs7MR@ INDI
-1 _XY 172166 3250
+1 _XY 166 477
 1 REFN 1b5b6e74-7605-445e-bce4-91fd39e89553
 1 NAME Lelia /López/
 2 SOUR @zznD1WJ7RJetSxS9JJ2R@
@@ -2330,7 +4373,7 @@
 3 MAP
 4 LATI N40.7744
 4 LONG W73.9721
-2 SOUR @Dw4GexiaRgOYCe8R2xHN@
+2 SOUR @S68@
 3 QUAY 1
 2 NOTE with her father Felicisimo
 1 CENS
@@ -2505,6 +4548,22 @@
 1 EVEN
 2 TYPE note
 2 NOTE she remained a citizen of Ecuador her whole life
+0 @I180@ INDI
+1 _XY 61 69
+1 REFN 057927f8-f6e5-4860-8df3-4a3d257ef3f1
+1 NAME Lorenzo /López/
+2 SOUR @S68@
+3 QUAY 1
+1 SEX M
+1 FAMS @F64@
+0 @I181@ INDI
+1 REFN cf418531-cb55-4c14-b82e-1c070f3191b0
+1 NAME Lorenzo /López/
+2 SOUR @S68@
+1 SEX M
+1 FAMS @F65@
+1 BIRT
+2 DATE ABT 1790
 0 @T46ONNPWS42AsEogaSOu@ INDI
 1 _XY 172779 3250
 1 REFN 2f91e775-889a-46ce-9730-9a8fcc10e19f
@@ -2519,7 +4578,7 @@
 4 CONC n Census Schedules, 1905; Election District: A.D. 18 E.D. 16
 4 CONC ; City: Brooklyn; County: Kings; Page: 34
 3 OBJE @oVVo6benTzaeKBTMZDEv@
-2 SOUR @Dw4GexiaRgOYCe8R2xHN@
+2 SOUR @S68@
 3 QUAY 1
 1 SEX M
 1 FAMC @KHbLkt6WRqSDo0DTyyKL@
@@ -2540,7 +4599,7 @@
 4 CONC n Census Schedules, 1905; Election District: A.D. 18 E.D. 16
 4 CONC ; City: Brooklyn; County: Kings; Page: 34
 3 OBJE @oVVo6benTzaeKBTMZDEv@
-2 SOUR @Dw4GexiaRgOYCe8R2xHN@
+2 SOUR @S68@
 2 SOUR @HCAlSp2XSuysa69AIdrJ@
 3 QUAY 2
 1 BAPM
@@ -2575,14 +4634,33 @@
 3 MAP
 4 LATI S2.1667
 4 LONG W79.9
-2 SOUR @Dw4GexiaRgOYCe8R2xHN@
+2 SOUR @S68@
 3 QUAY 1
+0 @I182@ INDI
+1 _XY 268 273
+1 REFN a1e4b37e-1b09-4884-bfc3-1344dc61b5e2
+1 NAME Nicolás /López/
+2 SOUR @S68@
+2 SOUR @S68@
+3 QUAY 1
+1 SEX M
+1 FAMC @F21@
 0 @HAYOXGGYSyeeyhariRKI@ INDI
 1 _XY 172970 3360
 1 REFN 053d593b-ac66-4569-9812-31b98fbf87ad
 1 NAME Olga /López/
 1 SEX F
 1 FAMC @KjS0id0VT222TBWVkqOg@
+0 @I183@ INDI
+1 _XY 40 142
+1 REFN 3584b62c-f541-422d-a403-0c21cb103243
+1 NAME Pacífica /López/
+2 SOUR @S68@
+2 SOUR @S68@
+3 QUAY 1
+1 SEX F
+1 FAMC @F64@
+1 FAMC @F65@
 0 @lfzXmEJlR7yx4R6MSYy4@ INDI
 1 _XY 173102 3360
 1 REFN f54bfbbf-a9f4-4a17-bd6d-1db2952e304a
@@ -2725,6 +4803,16 @@
 2 SOUR @wN4p8JORTTCTcTlwT98u@
 3 _APID 1,5180::14566074
 3 PAGE Date: 1984-02-26
+0 @I184@ INDI
+1 _XY 208 174
+1 REFN 032d8ed2-8762-4289-b16e-25cc986dc1ee
+1 NAME Rosario /López/
+2 SOUR @S68@
+2 SOUR @S68@
+3 QUAY 1
+1 SEX F
+1 FAMC @F64@
+1 FAMC @F65@
 0 @sZfFfcdfR6i8oeEOmcHP@ INDI
 1 _XY 172662 3360
 1 REFN 9c15c519-1a96-4d1c-afa6-cbe7f8f11874
@@ -2736,7 +4824,7 @@
 1 _XY 172553 3250
 1 REFN c11d9537-9e6b-4567-86c1-cfc02e17bdf8
 1 NAME Ulises /López/
-2 SOUR @Dw4GexiaRgOYCe8R2xHN@
+2 SOUR @S68@
 3 QUAY 1
 1 SEX M
 1 FAMC @KHbLkt6WRqSDo0DTyyKL@
@@ -2746,7 +4834,7 @@
 3 MAP
 4 LATI S1.3333
 4 LONG W80.5833
-2 SOUR @Dw4GexiaRgOYCe8R2xHN@
+2 SOUR @S68@
 1 BIRT
 2 DATE ABT FEB 1884
 2 PLAC Jipijapa, Manabi, Ecuador
@@ -2771,7 +4859,7 @@
 3 MAP
 4 LATI S2.1667
 4 LONG W79.9
-2 SOUR @Dw4GexiaRgOYCe8R2xHN@
+2 SOUR @S68@
 3 QUAY 1
 0 @ExDZxRYgTCWBJ19SGxAE@ INDI
 1 _XY 171941 3173
@@ -2779,6 +4867,154 @@
 1 NAME unknown partner of Felicísimo /López/
 1 SEX F
 1 FAMS @NFIwsVBuTjOSRokJd8v0@
+0 @I185@ INDI
+1 REFN d12a1501-394c-445b-b41c-aea44440f371
+1 NAME Lucía /Martín/
+2 SOUR @G8TESznJRGCKBg1WwF0w@
+3 PAGE Ancestry Family Tree
+3 DATA
+4 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=60916
+5 CONC 892&pid=133
+1 SEX F
+1 FAMS @F56@
+0 @I186@ INDI
+1 REFN 3a9f989b-d46c-4aea-a123-9b2af7cd3f93
+1 NAME Sebastián /Moyano/
+2 SOUR @G8TESznJRGCKBg1WwF0w@
+3 PAGE Ancestry Family Tree
+3 DATA
+4 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=60916
+5 CONC 892&pid=86
+1 NAME Sebastián /de Benalcázar/
+1 SEX M
+1 FAMS @F63@
+1 FAMS @F32@
+1 FAMS @F36@
+1 BIRT
+2 DATE 1480
+2 PLAC Belalcázar, Córdoba, Andalucía, España
+1 DEAT
+2 DATE 30 APR 1551
+2 PLAC Cartagena de Indias, Colombia
+0 @I187@ INDI
+1 REFN 894c879f-6e6d-46f2-9ef4-11857f920b2b
+1 NAME Maria /Nuñez de Oviedo/
+2 SOUR @G8TESznJRGCKBg1WwF0w@
+3 PAGE Ancestry Family Tree
+3 DATA
+4 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=60916
+5 CONC 892&pid=122
+1 SEX F
+1 FAMC @F44@
+1 FAMS @F66@
+1 BIRT
+2 PLAC Membrilla, Toledo, Espana
+0 @I188@ INDI
+1 REFN fdf32243-834a-4d2c-b006-e87d58becee5
+1 NAME María /Núñez/
+2 SOUR @G8TESznJRGCKBg1WwF0w@
+3 PAGE Ancestry Family Tree
+3 DATA
+4 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=60916
+5 CONC 892&pid=128
+1 SEX F
+1 FAMS @F44@
+1 BIRT
+2 PLAC Torrenueva, Ciudad Real, Castilla-La Mancha, España
+0 @I189@ INDI
+1 _XY 1179 42
+1 REFN b28ece98-e1c2-4b80-a023-a14c27419190
+1 NAME Sarafina /Ortiz/
+2 SOUR @S71@
+1 SEX F
+1 FAMS @F53@
+0 @I190@ INDI
+1 REFN 3982de0a-e7db-4ec4-8035-b4bcfe7044a6
+1 NAME /Paliz/
+1 SEX F
+1 FAMS @F18@
+0 @I191@ INDI
+1 REFN 3a368c79-cb81-4b2e-be21-ef62a8bf70ed
+1 NAME /Paz y Miño/
+1 SEX M
+1 FAMS @F67@
+1 OBJE @M58@
+1 BIRT
+2 DATE ABT 1825
+2 PLAC Quito, Pichincha, Ecuador
+3 MAP
+4 LATI S0.2167
+4 LONG W78.5
+2 NOTE Just a guess based on birth of son Ramon, 1855.
+0 @I192@ INDI
+1 _XY 799 279
+1 REFN e0565871-9cda-400d-bf7e-de6f62248f09
+1 NAME José Manuel /Paz y Miño/
+2 SOUR @S68@
+2 SOUR @S68@
+3 QUAY 1
+1 SEX M
+1 FAMC @F67@
+1 FAMS @F62@
+1 BIRT
+2 DATE ABT 1850
+2 PLAC Quito, Pichincha, Ecuador
+3 MAP
+4 LATI S0.2167
+4 LONG W78.5
+1 PROP bought second house down from Calle de Juan Pío Montúfar
+2 CONC , on the north-east side of the street, from Dolores Zambran
+2 CONC o
+2 DATE 13 DEC 1864
+2 PLAC Calle de los Milagros, Quito, Pichincha, Ecuador
+2 SOUR @S76@
+3 _LINK http://www.patrimonio.quito.gob.ec/index.php/centro-document
+4 CONC al/fondo-editorial?id=308
+3 PAGE Tomo II, p. 237
+1 PROP sold second house down from Calle de Juan Pío Montúfar, o
+2 CONC n the north-east side of the street, to Benjamin Paz y Miño
+2 DATE 1871
+2 PLAC Calle de los Milagros, Quito, Pichincha, Ecuador
+2 SOUR @S76@
+3 _LINK http://www.patrimonio.quito.gob.ec/index.php/centro-document
+4 CONC al/fondo-editorial?id=308
+3 PAGE Tomo II, p. 237
+1 DEAT
+2 DATE AFT 23 JAN 1873
+2 PLAC Quito, Pichincha, Ecuador
+3 MAP
+4 LATI S0.2167
+4 LONG W78.5
+2 SOUR @S68@
+2 SOUR @S68@
+3 QUAY 1
+1 BIRT
+2 PLAC Quito, Pichincha, Ecuador
+3 MAP
+4 LATI S0.2167
+4 LONG W78.5
+2 SOUR @S68@
+2 SOUR @S68@
+3 QUAY 1
+0 @I193@ INDI
+1 _XY 965 279
+1 REFN 82cad4c3-de97-4c9e-b4a3-29cf70f4c310
+1 NAME Ramón /Paz y Miño/
+2 SOUR @S68@
+2 SOUR @S68@
+3 QUAY 1
+1 SEX M
+1 FAMC @F67@
+1 FAMS @F26@
+1 BIRT
+2 DATE ABT 1855
+2 PLAC Chillogallo, Quito, Pichincha, Ecuador
+2 SOUR @S73@
+3 QUAY 1
+1 DEAT
+2 DATE 1895
+2 SOUR @S73@
+3 QUAY 1
 0 @BWtACvWjTEOJhfN1lpVU@ INDI
 1 REFN 16a56ce3-6b6f-4eda-99f1-fec798f7de74
 1 NAME Alberto Augusto /Pazmiño/
@@ -2797,6 +5033,32 @@
 2 DATE 25 MAY 1902
 1 DEAT
 2 DATE 16 NOV 1953
+0 @I194@ INDI
+1 _XY 822 477
+1 REFN 8de8458e-2dca-4a2d-80ce-0ab5be981d9a
+1 NAME Diocelina /Pazmiño/
+2 SOUR @S68@
+2 SOUR @S68@
+3 QUAY 1
+1 SEX F
+1 FAMC @F62@
+1 DEAT
+2 DATE 1943
+2 PLAC Quito, Pichincha, Ecuador
+3 MAP
+4 LATI S0.2167
+4 LONG W78.5
+2 SOUR @S68@
+2 SOUR @S68@
+3 QUAY 1
+1 BIRT
+2 PLAC Quito, Pichincha, Ecuador
+3 MAP
+4 LATI S0.2167
+4 LONG W78.5
+2 SOUR @S68@
+2 SOUR @S68@
+3 QUAY 1
 0 @4p97S4PRROqpAsXPq5TW@ INDI
 1 REFN 0212f1de-4ba1-4347-8fbd-5642f6d1ed2c
 1 NAME Graciela Elena /Pazmiño/
@@ -2844,6 +5106,32 @@
 2 DATE 26 APR 1907
 1 DEAT
 2 DATE 27 MAR 1946
+0 @I195@ INDI
+1 _XY 936 477
+1 REFN 6034cd99-90bc-4258-a56b-23b0c3a0808e
+1 NAME Rosario /Pazmiño/
+2 SOUR @S68@
+2 SOUR @S68@
+3 QUAY 1
+1 SEX F
+1 FAMC @F62@
+1 DEAT
+2 DATE 1957
+2 PLAC Quito, Pichincha, Ecuador
+3 MAP
+4 LATI S0.2167
+4 LONG W78.5
+2 SOUR @S68@
+2 SOUR @S68@
+3 QUAY 1
+1 BIRT
+2 PLAC Quito, Pichincha, Ecuador
+3 MAP
+4 LATI S0.2167
+4 LONG W78.5
+2 SOUR @S68@
+2 SOUR @S68@
+3 QUAY 1
 0 @CfNvHZZyS5qd0UXAmPV8@ INDI
 1 REFN 6e791551-8717-48ca-9a5a-a27890ac627c
 1 NAME Víctor Estenio /Pazmiño/
@@ -2854,7 +5142,7 @@
 1 DEAT
 2 DATE 06 JUN 1970
 0 @LFyrTkO8TJeRCMYIp1k4@ INDI
-1 _XY 172028 3250
+1 _XY 685 477
 1 REFN f24fbb22-c61e-4de9-bd3e-2a2432b2b8a4
 1 NAME Víctor Manuel /Pazmiño/
 2 SOUR @zznD1WJ7RJetSxS9JJ2R@
@@ -2915,6 +5203,7 @@
 3 _APID 1,2469::111470341
 3 OBJE @X8wLD1fkTCSseBhVxcyN@
 1 SEX M
+1 FAMC @F62@
 1 FAMS @1SlIoqLYRCqfA1ineuNc@
 1 BIRT
 2 DATE 07 DEC 1871
@@ -3269,15 +5558,154 @@
 2 SOUR @gYNJE6bDRwm6ZR8JX235@
 3 QUAY 1
 2 NOTE 13:00 EST
+0 @I196@ INDI
+1 REFN 6a2c63ae-af1d-441b-92cc-7a1f87256c2c
+1 NAME Francisca /Peguero y Escarza/
+2 SOUR @G8TESznJRGCKBg1WwF0w@
+3 PAGE Ancestry Family Tree
+3 DATA
+4 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=60916
+5 CONC 892&pid=112
+1 SEX F
+1 FAMS @F50@
+1 BIRT
+2 PLAC Buga, Valle, Colombia
+0 @I197@ INDI
+1 REFN 23f179b0-2a49-4242-99fa-6a677222a49b
+1 NAME Francisca /Pérez de Zúñiga/
+2 SOUR @G8TESznJRGCKBg1WwF0w@
+3 PAGE Ancestry Family Tree
+3 DATA
+4 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=60916
+5 CONC 892&pid=152
+1 SEX F
+1 FAMS @F57@
+1 BIRT
+2 DATE 1550
+2 PLAC Pasto, Nariño, Colombia
+1 DEAT
+2 PLAC Pasto, Nariño, Colombia
+0 @I198@ INDI
+1 REFN e02a44e2-3d0f-4202-8b0f-d0e985c80757
+1 NAME María /Pérez/
+2 SOUR @G8TESznJRGCKBg1WwF0w@
+3 PAGE Ancestry Family Tree
+3 DATA
+4 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=60916
+5 CONC 892&pid=140
+1 SEX F
+1 FAMS @F46@
+1 BIRT
+2 PLAC Villafrechós, Valladolid, Castilla-Leon, España
+0 @I199@ INDI
+1 REFN 5450b68d-73bb-4e9c-92fa-87fbb7687b81
+1 NAME /Pueyo/
+1 SEX F
+1 FAMS @F19@
+0 @I200@ INDI
+1 REFN 752d3e3c-0eb3-41a9-9f74-66d69beca663
+1 NAME Alonso /Ramírez de Oviedo/
+2 SOUR @G8TESznJRGCKBg1WwF0w@
+3 PAGE Ancestry Family Tree
+3 DATA
+4 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=60916
+5 CONC 892&pid=119
+1 SEX M
+1 FAMC @F66@
+1 FAMS @F43@
+1 BIRT
+2 DATE ABT 1549
+2 PLAC Membrilla, Toledo, Espana
+0 @I201@ INDI
+1 REFN e0d2553e-79f2-4dbc-95a2-e1fa87c8e268
+1 NAME Isabel /Ramírez del Campo y Oviedo/
+2 SOUR @G8TESznJRGCKBg1WwF0w@
+3 PAGE Ancestry Family Tree
+3 DATA
+4 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=60916
+5 CONC 892&pid=96
+1 SEX F
+1 FAMC @F43@
+1 FAMS @F51@
+1 BIRT
+2 DATE ABT 1576
+2 PLAC Santiago de Cali, Valle del Cauca, Colombia
+1 DEAT
+2 DATE AFT 1663
+0 @I202@ INDI
+1 REFN 9c908771-a8f2-4767-8a80-c8361a35cefa
+1 NAME Diego /Ramírez Floreano/
+2 SOUR @G8TESznJRGCKBg1WwF0w@
+3 PAGE Ancestry Family Tree
+3 DATA
+4 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=60916
+5 CONC 892&pid=123
+1 SEX M
+1 FAMC @F43@
+1 BIRT
+2 PLAC La Palma, Antioquia, Colombia
+3 MAP
+4 LATI N6.5819
+4 LONG W75.6091
+0 @I203@ INDI
+1 REFN a9cc1835-8cb6-4f21-adea-e810717646c1
+1 NAME Diego /Ramírez/
+2 SOUR @G8TESznJRGCKBg1WwF0w@
+3 PAGE Ancestry Family Tree
+3 DATA
+4 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=60916
+5 CONC 892&pid=121
+1 SEX M
+1 FAMC @F58@
+1 FAMS @F66@
+1 DEAT
+2 DATE BEF 1565
+1 BIRT
+2 PLAC Membrilla, Toledo, Espana
+0 @I204@ INDI
+1 REFN eac83e2f-6cb5-4833-9d98-7fb51cc92a1d
+1 NAME /Rojas/
+2 SOUR @S65@
+3 PAGE http://gw.geneanet.org/ecuadorgen?p=ramon;n=paz+y+mino
+1 SEX F
+1 FAMS @F67@
+1 BIRT
+2 DATE ABT 1830
+2 NOTE Just a guess based on birth date of husband.
+0 @I205@ INDI
+1 REFN d32680e8-d92f-4fb9-a33f-054cf29d1625
+1 NAME Francisca /Romero y Orbe/
+2 SOUR @G8TESznJRGCKBg1WwF0w@
+3 PAGE Ancestry Family Tree
+3 DATA
+4 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=60916
+5 CONC 892&pid=62
+1 SEX F
+1 FAMS @F28@
+1 BIRT
+2 DATE 1640
 0 @IbtmRqXpR8uV8qwLr1kQ@ INDI
 1 REFN f0a16daf-2789-4774-8d42-12d10761033a
 1 NAME Francisca /Romero/
 1 SEX F
 1 FAMS @KHbLkt6WRqSDo0DTyyKL@
+1 OBJE @M59@
 1 BIRT
 2 DATE 25 SEP 1850
 1 DEAT
 2 DATE 14 OCT 1940
+0 @I206@ INDI
+1 REFN be20cccf-ed1d-4ceb-9afd-5ef309ce06bf
+1 NAME María /Ruiz/
+2 SOUR @G8TESznJRGCKBg1WwF0w@
+3 PAGE Ancestry Family Tree
+3 DATA
+4 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=60916
+5 CONC 892&pid=130
+1 SEX F
+1 FAMS @F58@
+1 BIRT
+2 PLAC Membrilla, Toledo, Espana
 0 @FJk6qyKJTzCXM3s8ubkE@ INDI
 1 _XY 174265 3251
 1 REFN c1aae287-d761-48e8-a119-8b0616d508c2
@@ -3437,6 +5865,28 @@
 3 _APID 1,3693::59521294
 3 PAGE Number: 568-12-2985; Issue State: California; Issue Date: Be
 4 CONC fore 1951
+0 @I207@ INDI
+1 REFN 2b41e5f6-cf83-4573-9094-930cbef8c9e7
+1 NAME unknown /Valdospinos/
+2 SOUR @S65@
+3 PAGE http://gw.geneanet.org/ecuadorgen?lang=en;pz=fausto+anibal;n
+4 CONC z=alvarado;ocz=0;p=n;n=valdospinos
+2 SOUR @S68@
+1 SEX F
+1 FAMS @F17@
+1 BIRT
+2 PLAC Quito, Pichincha, Ecuador
+3 MAP
+4 LATI S0.2167
+4 LONG W78.5
+2 SOUR @S68@
+0 @I208@ INDI
+1 _XY 1244 102
+1 REFN 88168a95-716c-4103-bb2a-d47fbcd5c33c
+1 NAME [unknown] /Villacis/
+2 SOUR @S71@
+1 SEX F
+1 FAMS @F54@
 0 @I46@ INDI
 1 NAME Julio /Villanueva/
 2 SOUR @S63@
@@ -3574,6 +6024,139 @@
 3 MAP
 4 LATI N40.65
 4 LONG W73.95
+0 @I209@ INDI
+1 _XY 745 90
+1 REFN 5b65707a-97c5-44e2-94ad-dcb870b3ed6b
+1 NAME Dolores /Zambrano/
+2 SOUR @S68@
+2 SOUR @S68@
+3 QUAY 1
+1 SEX F
+1 FAMS @F55@
+1 FAMS @F60@
+1 BIRT
+2 DATE ABT 1805
+2 PLAC Quito, Pichincha, Ecuador
+3 MAP
+4 LATI S0.2167
+4 LONG W78.5
+2 SOUR @S68@
+2 SOUR @S68@
+3 QUAY 1
+2 NOTE date is just a guess based on age of husband Joaquin
+1 PROP bought second house down from Calle de Juan Pío Montúfar
+2 CONC , on the north-east side of the street, from Daniel Carvajal
+2 DATE SEP 1862
+2 PLAC Calle de los Milagros, Quito, Pichincha, Ecuador
+2 SOUR @S77@
+3 PAGE vol. 2, ("Protagonistas y calles en sentido oriente-occident
+4 CONC e, de 1534 a 1950, de la calle Espejo a la calle Bolívar")
+4 CONC , pp. 237-242
+3 DATA
+4 TEXT En septiembre de 1862, Daniel Carvajal vendió su casa a Dol
+5 CONC ores Zambrano.
+5 CONT [In Sep 1862, Daniel Carvajal sold his house to Dolores Zamb
+5 CONC rano.]
+5 CONT ...
+5 CONT Dos años después, el 13 de diciembre de 1864, la señora Z
+5 CONC ambrano vendió la casa a José Paz y Miño. Esta propieda
+5 CONC d era, sin duda, la segunda de la segunda cuadra y en el lad
+5 CONC o norte.
+5 CONT [Two years later, on 13 Dec 1864 , Mrs. Zambrano sold the ho
+5 CONC use to José Paz y Miño. This property was undoubtedly th
+5 CONC e second on the second block, on the north side.]
+5 CONT ...
+5 CONT En 1894, había siete casas en el lado norte:
+5 CONT [In 1894, there were seven houses on the north side:]
+5 CONT ...
+5 CONT De Benjamín Paz y Miño, que de seguro es la adquirida en 1
+5 CONC 871 por José Paz y Miño, que antes fuera de los Carvaja
+5 CONC l y luego, de los Zambrano. Una generación después, paso
+5 CONC ́ a los Agami, también libaneses.
+5 CONT [second was the house of Benjamin Paz y Miño, who probabl
+5 CONC y acquired it in 1871 from José Paz y Miño, which previous
+5 CONC ly came from the Carvajals and then the Zambranos. A generat
+5 CONC ion later, it passed to the Agamis, also Lebanese.]
+5 CONT ...
+5 CONT Un año después, se registran, en la Pereira número 4, do
+5 CONC n Enrique Trajano Hurtado y su esposa Dioselina, que matricu
+5 CONC lan a su hija Adriana, de 12 años y con beca en el mentad
+5 CONC o Instituto, el 25 de septiembre. El 28 de enero de 1907, Di
+5 CONC oselina, de cinco años–su otra hija–se matriculará en el K
+5 CONC indergarten y será su apoderada la señora Malvina D. Lópe
+5 CONC z.
+5 CONT [In 1906, registered at No. 4 Pereira are Enrique Trajano Hu
+5 CONC rtado and his wife Dioselina, who (on 25 Sep) enrolled thei
+5 CONC r daughter Adriana, age 12, and with a scholarship, in the a
+5 CONC forementioned institute, the Normal School. On 28 Jan 1907
+5 CONC , Dioselina, age 5, his other daughter, was enrolled in kind
+5 CONC ergarten they were taught by Mrs. Malvina D. López.]
+5 CONT ...
+5 CONT En 1911, el sastre Benjamín N. Pazmiño anuncia que traslad
+5 CONC a su taller desde la calle Guayaquil a la casa
+5 CONT de su propiedad, en la Pereira número 8 (Loma Chica).
+5 CONT [In 1911, the tailor Benjamín N. Pazmiño announced that mo
+5 CONC ved his workshop from Guayaquil Street to No. 8 Pereira Stre
+5 CONC et (Loma Chica Street).]
+1 PROP sold second house down from Calle de Juan Pío Montúfar, o
+2 CONC n the north-east side of the street, to José Paz y Miño
+2 DATE 13 DEC 1864
+2 PLAC Calle de los Milagros, Quito, Pichincha, Ecuador
+2 SOUR @S77@
+3 PAGE vol. 2, ("Protagonistas y calles en sentido oriente-occident
+4 CONC e, de 1534 a 1950, de la calle Espejo a la calle Bolívar")
+4 CONC , pp. 237-242
+3 DATA
+4 TEXT En septiembre de 1862, Daniel Carvajal vendió su casa a Dol
+5 CONC ores Zambrano.
+5 CONT [In Sep 1862, Daniel Carvajal sold his house to Dolores Zamb
+5 CONC rano.]
+5 CONT ...
+5 CONT Dos años después, el 13 de diciembre de 1864, la señora Z
+5 CONC ambrano vendió la casa a José Paz y Miño. Esta propieda
+5 CONC d era, sin duda, la segunda de la segunda cuadra y en el lad
+5 CONC o norte.
+5 CONT [Two years later, on 13 Dec 1864 , Mrs. Zambrano sold the ho
+5 CONC use to José Paz y Miño. This property was undoubtedly th
+5 CONC e second on the second block, on the north side.]
+5 CONT ...
+5 CONT En 1894, había siete casas en el lado norte:
+5 CONT [In 1894, there were seven houses on the north side:]
+5 CONT ...
+5 CONT De Benjamín Paz y Miño, que de seguro es la adquirida en 1
+5 CONC 871 por José Paz y Miño, que antes fuera de los Carvaja
+5 CONC l y luego, de los Zambrano. Una generación después, paso
+5 CONC ́ a los Agami, también libaneses.
+5 CONT [second was the house of Benjamin Paz y Miño, who probabl
+5 CONC y acquired it in 1871 from José Paz y Miño, which previous
+5 CONC ly came from the Carvajals and then the Zambranos. A generat
+5 CONC ion later, it passed to the Agamis, also Lebanese.]
+5 CONT ...
+5 CONT Un año después, se registran, en la Pereira número 4, do
+5 CONC n Enrique Trajano Hurtado y su esposa Dioselina, que matricu
+5 CONC lan a su hija Adriana, de 12 años y con beca en el mentad
+5 CONC o Instituto, el 25 de septiembre. El 28 de enero de 1907, Di
+5 CONC oselina, de cinco años–su otra hija–se matriculará en el K
+5 CONC indergarten y será su apoderada la señora Malvina D. Lópe
+5 CONC z.
+5 CONT [In 1906, registered at No. 4 Pereira are Enrique Trajano Hu
+5 CONC rtado and his wife Dioselina, who (on 25 Sep) enrolled thei
+5 CONC r daughter Adriana, age 12, and with a scholarship, in the a
+5 CONC forementioned institute, the Normal School. On 28 Jan 1907
+5 CONC , Dioselina, age 5, his other daughter, was enrolled in kind
+5 CONC ergarten they were taught by Mrs. Malvina D. López.]
+5 CONT ...
+5 CONT En 1911, el sastre Benjamín N. Pazmiño anuncia que traslad
+5 CONC a su taller desde la calle Guayaquil a la casa
+5 CONT de su propiedad, en la Pereira número 8 (Loma Chica).
+5 CONT [In 1911, the tailor Benjamín N. Pazmiño announced that mo
+5 CONC ved his workshop from Guayaquil Street to No. 8 Pereira Stre
+5 CONC et (Loma Chica Street).]
+1 DEAT
+2 DATE ABT FEB 1873
+2 SOUR @S68@
+2 SOUR @S68@
+3 QUAY 1
 0 @sbahjdXgTgemP1XmcDMb@ INDI
 1 _XY 173737 3360
 1 REFN f8f425a8-019b-44f7-9377-17d34e4b7ba5
@@ -4505,10 +7088,502 @@
 1 FAMS @GfXPo47fS6ObLCP0vT4w@
 1 BIRT
 2 DATE ABT 1880
+0 @F17@ FAM
+1 REFN 9e8a722b-7cfd-43bf-9d55-8617839f447b
+1 HUSB @I54@
+1 WIFE @I207@
+1 CHIL @I52@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I56@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I49@
+2 _FREL Natural
+2 _MREL Natural
+0 @F16@ FAM
+1 REFN eb78110b-2550-4a91-8a56-5f8d24deb24d
+1 HUSB @I55@
+1 WIFE @I63@
+1 CHIL @I54@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I48@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR
+2 DATE BEF 1741
+0 @F20@ FAM
+1 REFN 4b29985a-c269-4403-ab34-43a5bbe4d6fc
+1 HUSB @I56@
+1 WIFE @I78@
+1 CHIL @I77@
+2 _FREL Natural
+2 _MREL Natural
+0 @F21@ FAM
+1 REFN b3120cb3-cbbf-413e-8818-69302c28d1ea
+1 HUSB @I56@
+1 WIFE @I173@
+1 CHIL @I172@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I177@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I182@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I175@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @y4408aI7RySfx8XbRwvy@
+2 _FREL Natural
+2 _MREL Natural
+0 @F18@ FAM
+1 REFN eb03b991-bcd3-43c6-8d2d-f576f9a07f6b
+1 HUSB @I56@
+1 WIFE @I190@
+1 CHIL @I51@
+2 _FREL Natural
+2 _MREL Natural
+0 @F22@ FAM
+1 REFN ac2a28ef-550e-4d41-872a-0ab0b836cd73
+1 HUSB @I57@
+1 WIFE @I72@
+1 MARR
+2 DATE 1899
+2 PLAC Quito, Pichincha, Ecuador
+3 MAP
+4 LATI S0.2167
+4 LONG W78.5
+2 SOUR @S65@
+3 PAGE http://gw.geneanet.org/ecuadorgen?p=gustavo;n=barba
+0 @F24@ FAM
+1 REFN 548281d3-86e8-44be-8435-93fc9b31349e
+1 HUSB @I58@
+1 WIFE @I108@
+1 CHIL @I61@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I65@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I67@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I63@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I64@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I69@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I68@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I60@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I62@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I66@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I59@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I70@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR
+2 DATE ABT 1713
+2 PLAC Ibarra, Imbabura, Ecuador
+3 MAP
+4 LATI N0.35
+4 LONG W78.1167
+0 @F23@ FAM
+1 REFN d554f317-9932-48fb-bbb5-605529fef1a7
+1 HUSB @I71@
+1 WIFE @I74@
+1 CHIL @I58@
+2 _FREL Natural
+2 _MREL Natural
+0 @F28@ FAM
+1 REFN 4388101a-8c69-4b5e-bedd-8d353ec66d85
+1 HUSB @I75@
+1 WIFE @I205@
+1 CHIL @I74@
+2 _FREL Natural
+2 _MREL Natural
 0 @s2HVxHkRRw2pf6OMH6NF@ FAM
 1 REFN f2b63b0f-3fd4-4944-bc91-97939a3fdaf1
 1 HUSB @K0gk4jcYQdijxbxDOqnW@
 1 WIFE @k71urNFWTqGNlRZnKxQA@
+0 @F38@ FAM
+1 REFN b38d18c0-c1f0-4ee1-b98d-be87bdebe967
+1 HUSB @I92@
+1 WIFE @I100@
+1 CHIL @I97@
+2 _FREL Natural
+2 _MREL Natural
+0 @F39@ FAM
+1 REFN a2e83d8c-6c80-431f-8ef0-f38a27951b66
+1 HUSB @I94@
+1 WIFE @I93@
+1 CHIL @I96@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR
+2 PLAC Popayán, Cauca, Colombia
+3 MAP
+4 LATI N2.8488
+4 LONG W76.1157
+0 @F31@ FAM
+1 REFN 6e9169d4-bbcc-45b0-8141-feb00a772c60
+1 HUSB @I95@
+1 WIFE @I81@
+1 CHIL @I80@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I98@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I94@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I99@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I79@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR
+2 DATE 1548
+0 @F29@ FAM
+1 REFN 4a940de1-045c-4b1d-9084-b7cbaab96a66
+1 HUSB @I96@
+1 WIFE @I160@
+1 CHIL @I76@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR
+2 DATE BEF 1619
+0 @F37@ FAM
+1 REFN ba9afaf6-07a2-43e9-b4f3-504ed42d2956
+1 HUSB @I97@
+1 WIFE @I91@
+1 CHIL @I95@
+2 _FREL Natural
+2 _MREL Natural
+0 @F40@ FAM
+1 REFN e9ba8ed9-de86-4b97-842a-46f6f66bd98d
+1 HUSB @I102@
+1 CHIL @I101@
+2 _FREL Natural
+1 CHIL @I100@
+2 _FREL Natural
+0 @F41@ FAM
+1 REFN d881a185-c0b7-41e4-9be8-11a089a7f278
+1 HUSB @I103@
+1 WIFE @I136@
+1 CHIL @I107@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I105@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I106@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I109@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I110@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I108@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR
+2 DATE 1670
+2 PLAC Pasto, Nariño, Colombia
+0 @F30@ FAM
+1 REFN 6c367c45-aaf5-44d0-9a9f-ff2e740a430d
+1 HUSB @I104@
+1 WIFE @I76@
+1 CHIL @I103@
+2 _FREL Natural
+2 _MREL Natural
+0 @F33@ FAM
+1 REFN 58aa62fe-61fd-4e80-bc80-abb476b0e834
+1 HUSB @I111@
+1 WIFE @I86@
+1 CHIL @I170@
+2 _FREL Natural
+2 _MREL Natural
+0 @F44@ FAM
+1 REFN 03146bf0-0384-4bf3-bc44-2174fbb80d7e
+1 HUSB @I114@
+1 WIFE @I188@
+1 CHIL @I187@
+2 _FREL Natural
+2 _MREL Natural
+0 @F46@ FAM
+1 REFN 1236c5c8-91f7-4d3c-af91-a5af0a60836f
+1 HUSB @I116@
+1 WIFE @I198@
+1 CHIL @I118@
+2 _FREL Natural
+2 _MREL Natural
+0 @F48@ FAM
+1 REFN a0a61a43-aa32-47a5-81cd-6a6b580a3e42
+1 HUSB @I118@
+1 WIFE @I143@
+1 CHIL @I142@
+2 _FREL Natural
+2 _MREL Natural
+0 @F27@ FAM
+1 REFN 19385c49-b678-4a8d-a25b-cb4d1e1106a6
+1 HUSB @I119@
+1 WIFE @I73@
+1 CHIL @I116@
+2 _FREL Natural
+2 _MREL Natural
+0 @F50@ FAM
+1 REFN 78b3da92-439b-4aa3-a9e8-d8bcb474e092
+1 HUSB @I124@
+1 WIFE @I196@
+1 CHIL @I158@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I156@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I157@
+2 _FREL Natural
+2 _MREL Natural
+0 @F51@ FAM
+1 REFN ba46e007-8275-4ee4-92fb-036d8c0fa631
+1 HUSB @I125@
+1 WIFE @I201@
+1 CHIL @I131@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I134@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I133@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I129@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I130@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I132@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR
+2 DATE ABT 1591
+2 PLAC Santiago de Cali, Valle del Cauca, Colombia
+0 @F52@ FAM
+1 REFN 6bd51143-b5e1-45c1-b75c-06c913d98f25
+1 HUSB @I130@
+1 CHIL @I139@
+2 _FREL Natural
+1 CHIL @I138@
+2 _FREL Natural
+1 CHIL @I137@
+2 _FREL Natural
+1 CHIL @I136@
+2 _FREL Natural
+1 CHIL @I140@
+2 _FREL Natural
+0 @F34@ FAM
+1 REFN 391ba26d-28cb-4a97-9ec1-b757cc3a27f1
+1 HUSB @I135@
+1 WIFE @I86@
+1 CHIL @I121@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I120@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR
+2 DATE ABT 1542
+0 @F35@ FAM
+1 REFN dca5fe96-9e7e-4e3b-8f0f-6c6e7103e325
+1 HUSB @I135@
+1 WIFE @I88@
+1 CHIL @I155@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I141@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR
+2 DATE 1542
+2 PLAC of Cali, Valle de Cauca, Colmbia
+1 MARR
+2 PLAC Cali, Valle del Cauca, Colombia
+3 MAP
+4 LATI N3.4372
+4 LONG W76.5225
+0 @F49@ FAM
+1 REFN faf5087d-7525-4817-9102-1dcf78ae4e60
+1 HUSB @I141@
+1 WIFE @I120@
+1 CHIL @I122@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I124@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I125@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I126@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I127@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I123@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I128@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR
+2 DATE ABT 1559
+2 PLAC Santiago de Cali, Valle del Cauca, Colombia
+0 @F47@ FAM
+1 REFN 307fd2a3-e835-4630-b87a-85228977f238
+1 HUSB @I142@
+1 WIFE @I163@
+1 CHIL @I117@
+2 _FREL Natural
+2 _MREL Natural
+0 @F54@ FAM
+1 REFN 45bf5df6-6ab6-4264-b1c4-3a95f609047f
+1 HUSB @I144@
+1 WIFE @I208@
+1 CHIL @I147@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR
+2 DATE 1843
+2 PLAC Vinces, Los Rios, Ecuador
+3 MAP
+4 LATI S1.55
+4 LONG W79.7333
+2 SOUR @S74@
+0 @F55@ FAM
+1 REFN 53c8e00c-a123-402c-a66d-eaf8ec3049f6
+1 HUSB @I144@
+1 WIFE @I209@
+1 CHIL @I148@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I149@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I150@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I146@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR
+2 DATE ABT 1830
+2 SOUR @S72@
+2 SOUR @S73@
+0 @F53@ FAM
+1 REFN 214bf3a4-25c5-4db9-8d9a-bec486ac05af
+1 HUSB @I145@
+1 WIFE @I189@
+1 CHIL @I144@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR
+2 DATE ABT 1797
+2 PLAC San Pablo del Lago, Imbabura, Ecuador
+2 SOUR @S72@
+2 SOUR @S73@
+0 @F25@ FAM
+1 REFN c21b70a4-460b-4586-81ef-980b255ad879
+1 HUSB @I151@
+1 WIFE @I63@
+1 CHIL @I154@
+2 _FREL Natural
+2 _MREL Natural
+0 @F45@ FAM
+1 REFN f7d6c0c7-42d7-4f98-8a52-fe6a046928ec
+1 HUSB @I152@
+1 WIFE @I117@
+1 CHIL @I115@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR
+2 PLAC Plasencia, Extremadura, España
+0 @F56@ FAM
+1 REFN 3bd22eba-c5ef-499c-8778-8b0396fffeca
+1 HUSB @I152@
+1 WIFE @I185@
+0 @F42@ FAM
+1 REFN 17c9f954-e039-492d-8140-f1530105caa9
+1 HUSB @I153@
+1 WIFE @I112@
+1 CHIL @I152@
+2 _FREL Natural
+2 _MREL Natural
+0 @F57@ FAM
+1 REFN f0eecd09-113e-4267-9db9-02941eb47335
+1 HUSB @I159@
+1 WIFE @I197@
+1 CHIL @I160@
+2 _FREL Natural
+2 _MREL Natural
+0 @F58@ FAM
+1 REFN fd23962e-b485-4f95-9589-166197d7e8a1
+1 HUSB @I161@
+1 WIFE @I206@
+1 CHIL @I203@
+2 _FREL Natural
+2 _MREL Natural
+0 @F59@ FAM
+1 REFN a861d2f3-9011-4e9e-96e8-88c604b47ece
+1 HUSB @I164@
+1 WIFE @I162@
+1 CHIL @I163@
+2 _FREL Natural
+2 _MREL Natural
+0 @F60@ FAM
+1 REFN 64ebd315-0e39-4c7b-87f1-d1b6bfff9975
+1 HUSB @I166@
+1 WIFE @I209@
+1 CHIL @I165@
+2 _FREL Natural
+2 _MREL Natural
+1 EVEN
+2 TYPE partnered
+2 DATE ABT 1840
+2 PLAC Quito, Pichincha, Ecuador
+3 MAP
+4 LATI S0.2167
+4 LONG W78.5
+2 NOTE based on birth date of child Amalia
+1 EVEN
+2 TYPE Event
+2 DATE ABT 1840
+2 PLAC Quito, Pichincha, Ecuador
+3 MAP
+4 LATI S0.2167
+4 LONG W78.5
 0 @OKdDV6OTTgqa6v5V076w@ FAM
 1 REFN 008dcc95-323a-4b77-a375-7d101741fefb
 1 HUSB @6aeVf5NSTjWavUj0L48r@
@@ -4588,8 +7663,21 @@
 4 CONC ; Roll: 1062; Page: 7B; Enumeration District: 0414; FHL micr
 4 CONC ofilm: 1241062
 3 OBJE @WQIKjlraSvyuh75lMcGV@
-2 SOUR @Dw4GexiaRgOYCe8R2xHN@
+2 SOUR @S68@
 3 QUAY 1
+0 @F61@ FAM
+1 REFN 7fef65a9-8569-46dd-9a17-2fb978d4c8d6
+1 HUSB @I175@
+1 WIFE @I165@
+1 CHIL @I178@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I179@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I174@
+2 _FREL Natural
+2 _MREL Natural
 0 @DnBgQnFRRUKpvOAH0yMh@ FAM
 1 REFN 0176020d-e66c-45a8-b816-9ee08be5f781
 1 HUSB @NaIT2nB5R8G9YqCemqbB@
@@ -4616,6 +7704,32 @@
 4 CONC a de Jesus Villanueva, 06 Aug 1925; citing Marriage, Crist
 4 CONC o de Aranza, Maracaibo, Zulia, Venezuela, parroquias Católi
 4 CONC cas; FHL microfilm 1,
+0 @F64@ FAM
+1 REFN b1af99b2-35c6-4531-85d7-261666cf89d4
+1 HUSB @I180@
+1 CHIL @I171@
+2 _FREL Natural
+1 CHIL @I176@
+2 _FREL Natural
+1 CHIL @I183@
+2 _FREL Natural
+1 CHIL @I184@
+2 _FREL Natural
+1 CHIL @I173@
+2 _FREL Natural
+0 @F65@ FAM
+1 REFN 9e00d876-2420-4cf7-9a46-3d9950b75c26
+1 HUSB @I181@
+1 CHIL @I171@
+2 _FREL Natural
+1 CHIL @I176@
+2 _FREL Natural
+1 CHIL @I183@
+2 _FREL Natural
+1 CHIL @I184@
+2 _FREL Natural
+1 CHIL @I173@
+2 _FREL Natural
 0 @KjS0id0VT222TBWVkqOg@ FAM
 1 REFN f36df747-8c9d-4fd1-9d5e-d4aeed133126
 1 HUSB @T46ONNPWS42AsEogaSOu@
@@ -4636,6 +7750,76 @@
 1 REFN bdec9697-bc8b-4473-810e-3ff59ba6054a
 1 HUSB @sZfFfcdfR6i8oeEOmcHP@
 1 WIFE @52mgd7vpQE2Z27chsEvC@
+0 @F63@ FAM
+1 REFN d229a268-4f26-4719-9150-aab91000c8ff
+1 HUSB @I186@
+1 WIFE @I167@
+0 @F32@ FAM
+1 REFN f247c8d1-84e5-4c98-bdb2-3122e1734bcd
+1 HUSB @I186@
+1 WIFE @I168@
+1 CHIL @I87@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I90@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I82@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I86@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I81@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I84@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I85@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I83@
+2 _FREL Natural
+2 _MREL Natural
+0 @F36@ FAM
+1 REFN b7136b0e-e2b9-4e5e-97b6-0ae3bea4a311
+1 HUSB @I186@
+1 WIFE @I169@
+1 CHIL @I89@
+2 _FREL Natural
+2 _MREL Natural
+0 @F67@ FAM
+1 REFN 3f0dee57-41f9-4079-8cd4-13618f20ae13
+1 HUSB @I191@
+1 WIFE @I204@
+1 CHIL @I192@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I193@
+2 _FREL Natural
+2 _MREL Natural
+0 @F62@ FAM
+1 REFN 1b53fb11-ceb8-40e8-96dd-e7a30bea2f90
+1 HUSB @I192@
+1 WIFE @I165@
+1 CHIL @I194@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I195@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @LFyrTkO8TJeRCMYIp1k4@
+2 _FREL Natural
+2 _MREL Natural
+0 @F26@ FAM
+1 REFN db2266d3-33e7-48a1-8536-e5d0dfcf35d7
+1 HUSB @I193@
+1 WIFE @I72@
+1 MARR
+2 DATE 1890
+2 SOUR @S65@
+3 PAGE http://gw.geneanet.org/ecuadorgen?p=alejandrina;n=cabezas
 0 @1SlIoqLYRCqfA1ineuNc@ FAM
 1 REFN d3a98f33-9be7-463b-a043-62ec930cf2d7
 1 HUSB @LFyrTkO8TJeRCMYIp1k4@
@@ -4679,6 +7863,36 @@
 2 SOUR @7hzCF6rURECkbdc8IJaU@
 3 QUAY 1
 2 NOTE he gives 1897 and 1898
+0 @F19@ FAM
+1 REFN 265bee1d-4b71-4a1f-897b-8ae742fcc0de
+1 WIFE @I199@
+1 CHIL @I55@
+2 _MREL Natural
+0 @F43@ FAM
+1 REFN b210a532-3dfd-4540-a5a5-b0233940f0fe
+1 HUSB @I200@
+1 WIFE @I115@
+1 CHIL @I113@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I202@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I201@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR
+2 PLAC Bogotá, Cundinamarca, Colombia
+3 MAP
+4 LATI N4.6
+4 LONG W74.0833
+0 @F66@ FAM
+1 REFN a08caedb-f129-4e66-82c1-9a73971dd5ef
+1 HUSB @I203@
+1 WIFE @I187@
+1 CHIL @I200@
+2 _FREL Natural
+2 _MREL Natural
 0 @0hUG78KTRD2eo4kjPIdq@ FAM
 1 REFN 0a421fad-32fc-4e70-94d5-815b44a15a00
 1 HUSB @FJk6qyKJTzCXM3s8ubkE@
@@ -4712,7 +7926,6 @@
 4 CONC h: Brooklyn, image 1675
 3 OBJE @M53@
 2 SOUR @S60@
-3 _APID 1,61406::928016
 3 PAGE New York City Municipal Archives; New York, New York; Boroug
 4 CONC h: Brooklyn, image 1677
 3 OBJE @M54@
@@ -4765,6 +7978,16 @@
 1 ADDR Salt Lake City, Utah, USA
 1 EMAIL
 1 PHON
+0 @xHe9QECyQEOJwnc6BXii@ REPO
+1 NAME Ancestry.com
+1 ADDR
+1 EMAIL
+1 PHON
+0 @xHe9QECyQEOJwnc6BXii@ REPO
+1 NAME Ancestry.com
+1 ADDR
+1 EMAIL
+1 PHON
 0 @zznD1WJ7RJetSxS9JJ2R@ SOUR
 1 REFN 2ff93d99-b16e-45ff-8cba-6100c08a8b7a
 1 REPO @xHe9QECyQEOJwnc6BXii@
@@ -4794,13 +8017,6 @@
 2 CONC publications/microfilm-catalogs/census/1920/part-07.html" ta
 2 CONC rget="_blank">NARA</a>. Note: Enumeration Districts 819-83
 2 CONC 9 are on roll 323 (Chicago City).
-0 @9aP0Jv3QR2S5briSRgPn@ SOUR
-1 REFN 615774af-4e6b-4992-9a8b-f5d5fb7fefd1
-1 REPO @xHe9QECyQEOJwnc6BXii@
-1 TITL 1920 United States Federal Census, OLD
-1 AUTH Ancestry.com
-1 PUBL Ancestry.com Operations Inc; Location: Provo, UT, USA; Date
-2 CONC : 2010
 0 @cYpH9GKbREexd30xG7Ri@ SOUR
 1 REFN eccf4ca6-3002-487c-92b4-2a685a3bd747
 1 REPO @xHe9QECyQEOJwnc6BXii@
@@ -4825,6 +8041,12 @@
 1 TITL Ancestry Family Trees
 1 PUBL Online publication - Provo, UT, USA: Ancestry.com.  Origina
 2 CONC l data:  Family Tree files submitted by Ancestry members.
+0 @S66@ SOUR
+1 REFN f1934673-9c82-48fb-8560-0cb528a11ab2
+1 TITL Bienvenido al árbol de Lorenzo de Garaycoa Raffo
+1 AUTH Garaycoa Taylor,  Deyda
+1 PUBL Geneanet; Location: http://en.geneanet.org/
+1 TEXT http://gw.geneanet.org/ferneche
 0 @fGtagMi3TwuZAiqyWBib@ SOUR
 1 REFN c7b533f3-afec-4a99-82a0-f40f680df74c
 1 REPO @4C3FCKv9R0Kn02eq28g7@
@@ -4839,6 +8061,11 @@
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations Inc; Location: Provo, UT, USA; Date
 2 CONC : 2000
+0 @S76@ SOUR
+1 REFN b780079a-e0bb-4fa7-b8c0-9092d65a4505
+1 TITL Calles, casas y gente del Centro Histórico de Quito
+1 AUTH Jurado Noboa, Fernando
+1 PUBL Fonsal; Location: Ecuador
 0 @f0AWP7VFTda2mleQdi2Z@ SOUR
 1 REFN 3adf3bef-c858-4dd3-8dba-1ea2317e0677
 1 REPO @xHe9QECyQEOJwnc6BXii@
@@ -4889,6 +8116,14 @@
 2 CONC guese y circúlese.-Dado y firmado de mi mano, sellado con e
 2 CONC l gran sello de la República y refrendado por el Ministro S
 2 CONC ecretario de Estado en el Despacho de lo Interior.<br />
+0 @S69@ SOUR
+1 REFN a4428c65-eca2-4f4e-bea9-6a925c71edcc
+1 TITL Contribuciones a la Historia del Arte en el Ecuador. Volume
+2 CONC n II
+1 AUTH Navarro, José Gabriel (1881-1965)
+1 PUBL Alicante : Biblioteca Virtual Miguel de Cervantes, 2005 <htt
+2 CONC p://www.cervantesvirtual.com/FichaObra.html?portal=0&Ref=135
+2 CONC 16>
 0 @rF6T1DrXQt2JZCH7KGmd@ SOUR
 1 REFN d9c676b2-3a7a-41ca-b907-a2467391bd76
 1 REPO @xHe9QECyQEOJwnc6BXii@
@@ -4898,6 +8133,33 @@
 1 TITL Dudley, Joseph Letters
 1 AUTH Dudley, Joseph
 1 PUBL In possession of Chris Mosher
+0 @S72@ SOUR
+1 REFN aba4b2aa-c2e6-48f2-af51-2dad8d839e0a
+1 TITL Ecuadorgen [GeneaNet Family Tree]
+1 AUTH [unknown]
+1 PUBL http://gw1.geneanet.org/index.php3?b=ecuadorgen&lang=en;p=jo
+2 CONC aquin;n=donoso
+1 TEXT [original sources appear to be mostly "Los Donoso en el Ecua
+2 CONC dor" by Fernando Jurado Noboa]
+0 @S73@ SOUR
+1 REFN 2e05f3bb-7fb5-4e95-9590-a94acc1aaab6
+1 TITL Ecuadorgen [GeneaNet Family Tree]
+1 AUTH [unknown]
+1 PUBL http://gw1.geneanet.org/ecuadorgen?lang=es;p=ramon;n=paz+y+m
+2 CONC ino
+0 @S70@ SOUR
+1 REFN 2e16a80b-a7a6-42b5-896e-3f75cf7d6a14
+1 TITL El tradicional cementerio de San Diego
+1 AUTH [anonymous]
+1 PUBL http://www.terraecuador.net/revista%2038/cementerio%20san%20
+2 CONC diego.htm
+1 TEXT El cementerio de San Diego abrió sus puertas el 21 de abri
+2 CONC l de 1872, con la bendición de fray Mariano Auz, de la Orde
+2 CONC n Mercedaria.
+2 CONT <br />
+2 CONT [San Diego Cemetery opened its doors on April 21, 1872, wit
+2 CONC h the benedicion of Friar Mariano Auz, of the Order of La Me
+2 CONC rced.]
 0 @azre2a3yQZ6Gpr6CCL84@ SOUR
 1 REFN a3786c96-3038-4858-8aca-5e07de9defe8
 1 REPO @xHe9QECyQEOJwnc6BXii@
@@ -4905,6 +8167,9 @@
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations Inc; Location: Provo, UT, USA; Date
 2 CONC : 2006
+0 @S65@ SOUR
+1 REFN 51382e2e-150d-41cf-a36b-82894fde44b1
+1 TITL Genealogía de Ecuador
 0 @VfFgMYfGS9eDLgFo6tfB@ SOUR
 1 REFN 12b964e5-7a68-4944-8f31-ccd5314ad2bd
 1 TITL Gravestone, Lopez, Felicisimo
@@ -4920,6 +8185,20 @@
 1 TITL Gravestone, Pazmino, Victor M
 1 PUBL Evergreens Cemetery, Brooklyn & Queens, NY, USA
 1 TEXT PAZMIÑO VICTOR M. 1871-1944
+0 @S74@ SOUR
+1 REFN 978f89d9-2b16-4998-ba1b-6380efafd0ee
+1 TITL International Genealogical Index
+1 AUTH LDS Church
+1 PUBL familysearch.org
+0 @S77@ SOUR
+1 REFN ca44b6bb-e368-4ee0-9dc0-34d7905a04e5
+1 TITL Jurado Noboa, Fernando, Calles, Casas y Gente del Centro His
+2 CONC tórico de Quito
+1 TEXT Jurado Noboa, Fernando.
+2 CONT Calles, Casas y Gente del Centro Histórico de Quito.
+2 CONT 12 volumes.
+2 CONT Quito, Ecuador:
+2 CONT Fonsal, 2004.
 0 @DaUw03A1QHqLXyRjHuOq@ SOUR
 1 REFN 7d72f232-946b-4096-af24-b0eb568af2ff
 1 REPO @xHe9QECyQEOJwnc6BXii@
@@ -5150,11 +8429,6 @@
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2012
-0 @Dw4GexiaRgOYCe8R2xHN@ SOUR
-1 REFN 7e6bc3c7-6ce6-4036-9cb8-a0ae4693ef6d
-1 TITL Pazmino Lopez Family History
-1 AUTH Dudley, Joseph
-1 PUBL In possession of Chris Mosher
 0 @gYNJE6bDRwm6ZR8JX235@ SOUR
 1 REFN 5b919eae-571d-4b91-8aa2-e7cb39652f8e
 1 TITL Pazmino, Victor M., obituary
@@ -5166,6 +8440,16 @@
 2 CONC s at the Fairchild Chapel, 86 Lefferts Place, on Thursday
 2 CONC , 1 p.m.
 2 CONT </p>
+0 @S68@ SOUR
+1 REFN e17b3091-c035-4980-a34e-a934aea2a4b3
+1 TITL Pazmiño López Family History
+1 AUTH Dudley, Joseph
+1 PUBL In possession of Chris Mosher
+0 @S71@ SOUR
+1 REFN 83fb8d39-3432-44bf-81a7-728e7fa29850
+1 TITL Pedigree Resource File
+1 AUTH LDS Church
+1 PUBL familysearch.org
 0 @6HGHatPgSRab8O4UmjMk@ SOUR
 1 REFN abd5db2a-0cee-4f6d-b7ee-ee62559c0240
 1 TITL Postcard to Mrs. Pazmino from New York Hospital
@@ -5440,6 +8724,17 @@
 1 REFN cceb6bd8-f346-4605-8690-7e07f0d84636
 1 TITL Social Security Death Index
 1 AUTH US Social Security Administration
+0 @S75@ SOUR
+1 REFN e8f86420-4e12-4317-b4a2-5d12776f27d4
+1 REPO @xHe9QECyQEOJwnc6BXii@
+1 TITL U.S. and Canada, Passenger and Immigration Lists Index, 1500
+2 CONC s-1900s
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc; Location: Provo, UT, USA; Date
+2 CONC : 2010
+1 TEXT Filby, P. William, ed. <i>Passenger and Immigration Lists In
+2 CONC dex, 1500s-1900s</i>. Farmington Hills, MI, USA: Gale Resear
+2 CONC ch, 2012.
 0 @Oy22YaudTC62HcdmoSkr@ SOUR
 1 REFN ab34aa28-03e3-437d-9585-3b13df4e76c7
 1 REPO @xHe9QECyQEOJwnc6BXii@
@@ -6894,6 +10189,63 @@
 3 CONC alls, and Rochester, New York, 1902-1954," Record Group #85
 3 CONC , "Records of the Immigration and Naturalization Service, 17
 3 CONC 87-2004," series M1480, roll 67, image 3784
+0 @M58@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Pazmino_Lopez M
+2 CONC edia\Pazmiño Coat of Arms.jpg
+2 FORM jpg
+2 TITL Pazmiño Coat of Arms
+1 REFN 50973ce2-7135-4bfb-826d-23d973386678
+0 @M59@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Pazmino_Lopez M
+2 CONC edia\0253_Romero_Francisca.jpg
+2 FORM jpg
+2 TITL 0253_Romero_Francisca
+2 _DATE 9/27/2013 8:55:28 PM
+1 REFN 1f9bb042-33b9-4a2c-a3ef-e83735ed0e7a
+0 @M60@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Pazmino_Lopez M
+2 CONC edia\1910 United States Federal Census.jpg
+2 FORM jpg
+2 TITL 1910 United States Federal Census
+2 _TEXT Year: 1910; Census Place: Brooklyn Ward 29, Kings, New York
+3 CONC ; Roll: T624_982; Page: 3B; Enumeration District: 0931; FH
+3 CONC L microfilm: 1374995
+1 REFN f99559ef-241e-49e1-899f-4ea0a76d9b7f
+0 @M61@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Pazmino_Lopez M
+2 CONC edia\1920 United States Federal Census(1).jpg
+2 FORM jpg
+2 TITL 1920 United States Federal Census
+2 _TEXT Year: 1920; Census Place: Brooklyn Assembly District 1, King
+3 CONC s, New York; Roll: T625_1143; Page: 10A; Enumeration Distric
+3 CONC t: 4; Image: 723
+1 REFN 8970675c-4647-44e1-ac3a-6899870407dc
+0 @M62@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Pazmino_Lopez M
+2 CONC edia\1930 United States Federal Census(1).jpg
+2 FORM jpg
+2 TITL 1930 United States Federal Census
+2 _TEXT Year: 1930; Census Place: Brooklyn, Kings, New York; Roll: 1
+3 CONC 538; Page: 18A; Enumeration District: 877; Image: 827.0; FH
+3 CONC L microfilm: 2341273
+1 REFN 1941ba65-5371-49aa-a372-50dee100ae1c
+0 @M63@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Pazmino_Lopez M
+2 CONC edia\1940 United States Federal Census.jpg
+2 FORM jpg
+2 TITL 1940 United States Federal Census
+2 _TEXT Year: 1940; Census Place: New York, Kings, New York; Roll: T
+3 CONC 627_2615; Page: 2A; Enumeration District: 24-2589
+1 REFN cde5e397-1055-4b3a-b86c-eb7c59d21ae4
+0 @M64@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Pazmino_Lopez M
+2 CONC edia\New York, State Census, 1915.jpg
+2 FORM jpg
+2 TITL New York, State Census, 1915
+2 _TEXT New York State Archives; Albany, New York; State Populatio
+3 CONC n Census Schedules, 1915; Election District: 24; Assembly Di
+3 CONC strict: 18; City: New York; County: Kings; Page: 48
+1 REFN 551d4e90-b0e2-403a-b37e-96773198799d
 0 @N224@ NOTE affidavit, page 1
 0 @N223@ NOTE affidavit, page 2
 0 @N222@ NOTE certificate
