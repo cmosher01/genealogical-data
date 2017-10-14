@@ -3,6 +3,8 @@
 1 GEDC
 2 VERS 5.5.1
 2 FORM LINEAGE-LINKED
+1 COPR Copyright © 1998, Christopher Alan Mosher, Shelton, CT, USA.
+1 SUBM @Umy2qBWIRUiwVSS6Hcn4@
 1 SOUR FTM
 2 VERS 23.0.2.1343
 2 NAME Family Tree Maker for Windows
@@ -11,12 +13,28 @@
 4 CONT Boston, MA 02109
 3 PHON (617) 227-6681
 1 DEST FTM
-1 SUBM @Mq0qpysjQ1ilE5lm21fQ@
-1 FILE Colvin_2017-10-01.ged
-1 DATE 01 OCT 2017
-2 TIME 01:42:01
-0 @Mq0qpysjQ1ilE5lm21fQ@ SUBM
+1 FILE Colvin_2017-10-14.ged
+1 DATE 14 OCT 2017
+2 TIME 03:12:18
+0 @Umy2qBWIRUiwVSS6Hcn4@ SUBM
 1 NAME Christopher Alan Mosher
+2 ADDR 41 Brook Pine Drive
+3 CONT Shelton, Connecticut 06484-5912
+3 CONT USA
+3 ADR1 41 Brook Pine Drive
+3 ADR2 Shelton, Connecticut 06484-5912
+3 ADR3 USA
+3 CITY Shelton
+3 STAE Connecticut
+3 POST 06484-5912
+3 CTRY USA
+2 PHON +1-203-414-7716
+2 PHON +1-203-944-9487
+2 PHON +1-203-513-9292
+2 EMAIL cmosher01@@gmail.com
+2 WWW http://mosher.mine.nu/
+2 WWW https://github.com/cmosher01/
+1 LANG English
 1 RIN Umy2qBWIRUiwVSS6Hcn4
 0 @xRdTBlLTQu6cfNUHklAt@ INDI
 1 _XY 74288 1215
@@ -438,14 +456,24 @@
 4 CONC : 1375000
 3 OBJE @3QRFDaVRQliOZ6vL6EKZ@
 2 SOUR @GpcA8GZ1Qyuc3mwiGu82@
+3 _APID 1,6061::87028233
+3 PAGE Year: 1920; Census Place: Eaton, Madison, New York; Roll: T6
+4 CONC 25_1118; Page: 7B; Enumeration District: 106
+3 OBJE @M123@
+2 SOUR @GpcA8GZ1Qyuc3mwiGu82@
 3 _APID 1,6061::19071470
-3 PAGE Year: 1920; Census Place: Wampoville, Madison, New York
+3 PAGE Year: 1920; Census Place: Wampsville, Madison, New York
 3 OBJE @2GKoAeTCQpafrTb59NYw@
 2 SOUR @Yx5x4pPfQPaIwEkNhAZ7@
 3 PAGE Ancestry Family Tree
 3 DATA
 4 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=62861
 5 CONC &pid=958
+2 SOUR @S89@
+3 _APID 1,61535::1925618
+3 PAGE New York Department of Health; Albany, NY; NY State Death In
+4 CONC dex; Certificate Number: 29177
+3 OBJE @M122@
 2 SOUR @jANkQjFXQQyO81Vgzx22@
 3 _APID 1,7250::1398341614
 3 OBJE @TLR6ldmKRuWN9p1u5zxV@
@@ -464,10 +492,10 @@
 1 FAMS @3fM36AuRSSeQ7RZ27kX3@
 1 BIRT
 2 DATE SEP 1848
-2 PLAC New York, USA
+2 PLAC Chenango, New York, USA
 3 MAP
-4 LATI N42.7531
-4 LONG W74.2224
+4 LATI N42.4954
+4 LONG W75.615
 2 SOUR @9SIEhYikRnW7x0y08og9@
 3 _APID 1,6742::3304766
 3 PAGE Year: 1880; Census Place: Lebanon, Madison, New York; Roll
@@ -487,8 +515,13 @@
 4 CONC : 1375000
 3 OBJE @3QRFDaVRQliOZ6vL6EKZ@
 2 SOUR @GpcA8GZ1Qyuc3mwiGu82@
+3 _APID 1,6061::87028233
+3 PAGE Year: 1920; Census Place: Eaton, Madison, New York; Roll: T6
+4 CONC 25_1118; Page: 7B; Enumeration District: 106
+3 OBJE @M123@
+2 SOUR @GpcA8GZ1Qyuc3mwiGu82@
 3 _APID 1,6061::19071470
-3 PAGE Year: 1920; Census Place: Wampoville, Madison, New York
+3 PAGE Year: 1920; Census Place: Wampsville, Madison, New York
 3 OBJE @2GKoAeTCQpafrTb59NYw@
 2 SOUR @jANkQjFXQQyO81Vgzx22@
 3 _APID 1,7250::1398341614
@@ -579,18 +612,37 @@
 2 NOTE Age: 62; Marital Status: Married; Relation to Head of House
 3 CONC : Wife
 1 RESI
-2 DATE 1920
-2 PLAC Wampsville, Madison, New York, USA
-3 MAP
-4 LATI N43.0753
-4 LONG W75.7069
+2 DATE 03 JAN 1920
+2 PLAC Madison County Jail, Court Street, Wampsville, Lenox, Madiso
+3 CONC n, New York, USA
 2 SOUR @GpcA8GZ1Qyuc3mwiGu82@
 3 _APID 1,6061::19071470
-3 PAGE Year: 1920; Census Place: Wampoville, Madison, New York
+3 PAGE Year: 1920; Census Place: Wampsville, Madison, New York
 3 OBJE @2GKoAeTCQpafrTb59NYw@
 2 NOTE Age: 72; Marital Status: Widowed; Marital Status: Widow; Rel
 3 CONC ation to Head of House: Boarder
+1 RESI
+2 DATE 27 JAN 1920
+2 PLAC Brooklyn Street, Eaton, Madison, New York, USA
+2 SOUR @GpcA8GZ1Qyuc3mwiGu82@
+3 _APID 1,6061::87028233
+3 PAGE Year: 1920; Census Place: Eaton, Madison, New York; Roll: T6
+4 CONC 25_1118; Page: 7B; Enumeration District: 106
+3 OBJE @M123@
+2 NOTE Relation to Head: Head; Residence Marital Status: Widowed
+1 DEAT
+2 DATE 04 MAY 1921
+2 PLAC Eaton, Madison, New York, USA
+3 MAP
+4 LATI N42.8497
+4 LONG W75.6122
+2 SOUR @S89@
+3 _APID 1,61535::1925618
+3 PAGE New York Department of Health; Albany, NY; NY State Death In
+4 CONC dex; Certificate Number: 29177
+3 OBJE @M122@
 1 BURI
+2 DATE ABT 08 MAY 1921
 2 PLAC Sheds Cemetery, Sheds, Madison, New York, USA
 2 SOUR @JAWvOIvVTmOLbDIk7C17@
 3 _APID 1,60525::12389994
@@ -806,6 +858,36 @@
 2 SOUR @Da4QmjDCTO26NSEbXkWM@
 3 _APID 1,3212::3149987
 3 OBJE @UL0Hy5nFTjua39IMcoro@
+0 @I34@ INDI
+1 NAME Irving W. /Colvin/
+2 SOUR @sTsOC4iyTF2NoQPhD3Hq@
+3 _APID 1,61377::368289
+3 OBJE @M121@
+2 SOUR @NOkWCGM8RZO0xw4vd39X@
+3 _APID 1,3693::11876585
+3 PAGE Number: 721-07-4133; Issue State: Railroad Board (Issued Thr
+4 CONC ough); Issue Date: Before 1951
+1 SEX M
+1 FAMC @x42Aaj2fS0av2Kl1kArM@
+1 BIRT
+2 DATE 27 NOV 1884
+2 SOUR @sTsOC4iyTF2NoQPhD3Hq@
+3 _APID 1,61377::368289
+3 OBJE @M121@
+2 SOUR @NOkWCGM8RZO0xw4vd39X@
+3 _APID 1,3693::11876585
+3 PAGE Number: 721-07-4133; Issue State: Railroad Board (Issued Thr
+4 CONC ough); Issue Date: Before 1951
+1 DEAT
+2 DATE MAY 1966
+2 PLAC Hamilton, Madison, New York, USA
+3 MAP
+4 LATI N42.827
+4 LONG W75.5446
+2 SOUR @NOkWCGM8RZO0xw4vd39X@
+3 _APID 1,3693::11876585
+3 PAGE Number: 721-07-4133; Issue State: Railroad Board (Issued Thr
+4 CONC ough); Issue Date: Before 1951
 0 @jCIZgs93RCS8PwzqeUls@ INDI
 1 _XY 73848 947
 1 REFN 99b1a7ae-5958-42db-96e3-d62be8759ff6
@@ -1048,8 +1130,6 @@
 1 RESI
 2 DATE 1852
 2 PLAC William Street, Cazenovia, Madison, New York, USA
-2 SOUR @DVVmQpUbSyeiascsoCuO@
-3 QUAY 2
 2 SOUR @DVVmQpUbSyeiascsoCuO@
 3 _LINK http://www.historicmapworks.com/Map/US/705734/Cazenovia+1852
 4 CONC +36x46/
@@ -1352,6 +1432,11 @@
 3 DATA
 4 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=62861
 5 CONC &pid=513
+2 SOUR @S89@
+3 _APID 1,61535::2419987
+3 PAGE New York Department of Health; Albany, NY; NY State Death In
+4 CONC dex; Certificate Number: 23293
+3 OBJE @M124@
 2 SOUR @bpt8c0uQRfCTW2vNfJ3k@
 3 _APID 1,7181::1655679078
 3 OBJE @McB8qKIlRF2SHVVK0GuQ@
@@ -1584,6 +1669,11 @@
 3 MAP
 4 LATI N42.7585
 4 LONG W75.8868
+2 SOUR @S89@
+3 _APID 1,61535::2419987
+3 PAGE New York Department of Health; Albany, NY; NY State Death In
+4 CONC dex; Certificate Number: 23293
+3 OBJE @M124@
 2 SOUR @JAWvOIvVTmOLbDIk7C17@
 3 _APID 1,60525::12390022
 2 SOUR @rp9Z8lHgQkCUwI6kJGpm@
@@ -1618,12 +1708,20 @@
 4 CONC 71; Page: 6A; Enumeration District: 0009; FHL microfilm: 124
 4 CONC 1071
 3 OBJE @bCad3siyRdyjDMdhaaF4@
-2 SOUR @fbm1JFCcTSynOlnGwx3Z@
+2 SOUR @GpcA8GZ1Qyuc3mwiGu82@
 3 _APID 1,6061::19091182
 3 PAGE Year: 1920; Census Place: Smithfield, Madison, New York; Rol
 4 CONC l: T625_1119; Page: 2B; Enumeration District: 129; Image: 44
 4 CONC 5
 3 OBJE @qHXxoYLgS1OXDhHP4ELs@
+2 SOUR @sTsOC4iyTF2NoQPhD3Hq@
+3 _APID 1,61377::1050368289
+3 OBJE @M121@
+2 SOUR @S89@
+3 _APID 1,61535::3483282
+3 PAGE New York Department of Health; Albany, NY; NY State Death In
+4 CONC dex; Certificate Number: 4730
+3 OBJE @M125@
 2 SOUR @bpt8c0uQRfCTW2vNfJ3k@
 3 _APID 1,7181::1655653699
 3 OBJE @ulSk604QTombPbrP3BW2@
@@ -1680,7 +1778,7 @@
 4 CONC 71; Page: 6A; Enumeration District: 0009; FHL microfilm: 124
 4 CONC 1071
 3 OBJE @bCad3siyRdyjDMdhaaF4@
-2 SOUR @fbm1JFCcTSynOlnGwx3Z@
+2 SOUR @GpcA8GZ1Qyuc3mwiGu82@
 3 _APID 1,6061::19091182
 3 PAGE Year: 1920; Census Place: Smithfield, Madison, New York; Rol
 4 CONC l: T625_1119; Page: 2B; Enumeration District: 129; Image: 44
@@ -1827,7 +1925,7 @@
 3 MAP
 4 LATI N42.9712
 4 LONG W75.6768
-2 SOUR @fbm1JFCcTSynOlnGwx3Z@
+2 SOUR @GpcA8GZ1Qyuc3mwiGu82@
 3 _APID 1,6061::19091182
 3 PAGE Year: 1920; Census Place: Smithfield, Madison, New York; Rol
 4 CONC l: T625_1119; Page: 2B; Enumeration District: 129; Image: 44
@@ -1835,15 +1933,24 @@
 3 OBJE @qHXxoYLgS1OXDhHP4ELs@
 2 NOTE Age: 75; Marital Status: Married; Relation to Head of House
 3 CONC : Head
-1 BURI
-2 DATE 1930
-2 PLAC Welsh Church Union Cemetery, Nelson, Madison, New York, USA
+1 DEAT
+2 DATE 02 JAN 1930
+2 PLAC Smithfield, Madison, New York, USA
+3 MAP
+4 LATI N42.9712
+4 LONG W75.6768
+2 SOUR @S89@
+3 _APID 1,61535::3483282
+3 PAGE New York Department of Health; Albany, NY; NY State Death In
+4 CONC dex; Certificate Number: 4730
+3 OBJE @M125@
 2 SOUR @JAWvOIvVTmOLbDIk7C17@
 3 _APID 1,60525::26810913
 2 SOUR @rp9Z8lHgQkCUwI6kJGpm@
 3 _APID 1,70572::6465138
-1 DEAT
+1 BURI
 2 DATE 1930
+2 PLAC Welsh Church Union Cemetery, Nelson, Madison, New York, USA
 2 SOUR @JAWvOIvVTmOLbDIk7C17@
 3 _APID 1,60525::26810913
 2 SOUR @rp9Z8lHgQkCUwI6kJGpm@
@@ -1852,7 +1959,7 @@
 1 _XY 72793 1182
 1 REFN e8b0620a-fa9e-41d7-9ea7-eefca1786659
 1 NAME Lena May wife of William /Colvin/
-2 SOUR @fbm1JFCcTSynOlnGwx3Z@
+2 SOUR @GpcA8GZ1Qyuc3mwiGu82@
 3 _APID 1,6061::58501647
 3 PAGE Year: 1920; Census Place: Syracuse Ward 19, Onondaga, New Yo
 4 CONC rk; Roll: T625_1249; Page: 3B; Enumeration District: 228; Im
@@ -1879,7 +1986,7 @@
 3 MAP
 4 LATI N42.7531
 4 LONG W74.2224
-2 SOUR @fbm1JFCcTSynOlnGwx3Z@
+2 SOUR @GpcA8GZ1Qyuc3mwiGu82@
 3 _APID 1,6061::58501647
 3 PAGE Year: 1920; Census Place: Syracuse Ward 19, Onondaga, New Yo
 4 CONC rk; Roll: T625_1249; Page: 3B; Enumeration District: 228; Im
@@ -1914,7 +2021,7 @@
 1 RESI
 2 DATE 1920
 2 PLAC 206 McAllister Avenue, Syracuse, Onondaga, New York, USA
-2 SOUR @fbm1JFCcTSynOlnGwx3Z@
+2 SOUR @GpcA8GZ1Qyuc3mwiGu82@
 3 _APID 1,6061::58501647
 3 PAGE Year: 1920; Census Place: Syracuse Ward 19, Onondaga, New Yo
 4 CONC rk; Roll: T625_1249; Page: 3B; Enumeration District: 228; Im
@@ -2117,6 +2224,11 @@
 3 DATA
 4 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=62861
 5 CONC &pid=511
+2 SOUR @S89@
+3 _APID 1,61535::2175249
+3 PAGE New York Department of Health; Albany, NY; NY State Death In
+4 CONC dex; Certificate Number: 29336
+3 OBJE @M126@
 2 SOUR @bpt8c0uQRfCTW2vNfJ3k@
 3 _APID 1,7181::1655653689
 3 OBJE @ulSk604QTombPbrP3BW2@
@@ -2301,11 +2413,16 @@
 3 _APID 1,4654::834088
 3 OBJE @MOLWxTgtToeqTSwkPD3j@
 1 DEAT
-2 DATE 1929
-2 PLAC New York, USA
+2 DATE 23 APR 1929
+2 PLAC Madison, New York, USA
 3 MAP
-4 LATI N42.7531
-4 LONG W74.2224
+4 LATI N42.9118
+4 LONG W75.6682
+2 SOUR @S89@
+3 _APID 1,61535::2175249
+3 PAGE New York Department of Health; Albany, NY; NY State Death In
+4 CONC dex; Certificate Number: 29336
+3 OBJE @M126@
 0 @P2KfDcwtTC6A0m59N6ht@ INDI
 1 _XY 73686 1080
 1 REFN 59f869f7-bdee-4448-863c-2c6a8e12fa73
@@ -2878,6 +2995,12 @@
 2 SOUR @zyS3wM5BSLCZ9mW53ORr@
 0 @zdliojhETeqb4CHNt37Z@ INDI
 1 _XY 73556 1074
+1 _MILT
+2 PLAC New York, USA
+3 MAP
+4 LATI N42.7531
+4 LONG W74.2224
+2 SOUR @S93@
 1 REFN 2556fd6e-3c86-47dd-a918-d44069c5e12f
 1 NAME Thomas H. /Colvin/
 2 SOUR @L8nVWbaPS16IxbJgxhiQ@
@@ -2888,6 +3011,8 @@
 2 SOUR @bpt8c0uQRfCTW2vNfJ3k@
 3 _APID 1,7181::1655655107
 3 OBJE @ulSk604QTombPbrP3BW2@
+2 SOUR @S93@
+3 _APID 1,1138::2371085
 2 SOUR @6qMAVZyIQsq0KGYRHB0h@
 3 _APID 1,1555::3618309
 2 SOUR @JAWvOIvVTmOLbDIk7C17@
@@ -2944,6 +3069,8 @@
 3 MAP
 4 LATI N42.7585
 4 LONG W75.8868
+2 SOUR @S93@
+3 _APID 1,1138::2371085
 2 SOUR @6qMAVZyIQsq0KGYRHB0h@
 3 _APID 1,1555::3618309
 2 NOTE 76th New York Infantry, Company D
@@ -3001,7 +3128,7 @@
 4 CONC : 1072; Page: 8B; Enumeration District: 0023; FHL microfilm
 4 CONC : 1241072
 3 OBJE @CRmoVmPPSguandbdQW4u@
-2 SOUR @fbm1JFCcTSynOlnGwx3Z@
+2 SOUR @GpcA8GZ1Qyuc3mwiGu82@
 3 _APID 1,6061::58501646
 3 PAGE Year: 1920; Census Place: Syracuse Ward 19, Onondaga, New Yo
 4 CONC rk; Roll: T625_1249; Page: 3B; Enumeration District: 228; Im
@@ -3050,7 +3177,7 @@
 4 CONC : 1072; Page: 8B; Enumeration District: 0023; FHL microfilm
 4 CONC : 1241072
 3 OBJE @CRmoVmPPSguandbdQW4u@
-2 SOUR @fbm1JFCcTSynOlnGwx3Z@
+2 SOUR @GpcA8GZ1Qyuc3mwiGu82@
 3 _APID 1,6061::58501646
 3 PAGE Year: 1920; Census Place: Syracuse Ward 19, Onondaga, New Yo
 4 CONC rk; Roll: T625_1249; Page: 3B; Enumeration District: 228; Im
@@ -3152,7 +3279,7 @@
 1 RESI
 2 DATE 1920
 2 PLAC 206 McAllister Avenue, Syracuse, Onondaga, New York, USA
-2 SOUR @fbm1JFCcTSynOlnGwx3Z@
+2 SOUR @GpcA8GZ1Qyuc3mwiGu82@
 3 _APID 1,6061::58501646
 3 PAGE Year: 1920; Census Place: Syracuse Ward 19, Onondaga, New Yo
 4 CONC rk; Roll: T625_1249; Page: 3B; Enumeration District: 228; Im
@@ -3423,6 +3550,11 @@
 3 OBJE @QduZTtH4TNGG3b8GpqGf@
 2 SOUR @iFtgCb0MREO71v5LWojo@
 3 _APID 1,3564::21324844
+2 SOUR @S89@
+3 _APID 1,61535::1879112
+3 PAGE New York Department of Health; Albany, NY; NY State Death In
+4 CONC dex; Certificate Number: 16301
+3 OBJE @M127@
 2 SOUR @bpt8c0uQRfCTW2vNfJ3k@
 3 _APID 1,7181::1655684824
 3 OBJE @hBbUEb24TqiH3S5JaCqL@
@@ -3574,10 +3706,7 @@
 3 OBJE @E5x9RPNhRnyadhNdprh3@
 1 RESI
 2 DATE 01 JUN 1875
-2 PLAC Georgetown, Madison, New York, USA
-3 MAP
-4 LATI N42.7683
-4 LONG W75.7369
+2 PLAC Wilcox Road, Georgetown, Madison, New York, USA
 2 SOUR @jANkQjFXQQyO81Vgzx22@
 3 _APID 1,7250::1398347782
 3 OBJE @aZwCiFtsSkmfSExBCUxH@
@@ -3586,6 +3715,7 @@
 3 PAGE Collection Number: G&M_9; Roll Number: 9
 3 OBJE @9yPU7NQWTqiiQkox89gL@
 2 NOTE Relation to Head of House: Head
+2 NOTE District 7, Plot 25
 1 RESI
 2 DATE 1880
 2 PLAC Georgetown, Madison, New York, USA
@@ -3627,6 +3757,11 @@
 4 LONG W75.8666
 2 SOUR @pCylTqPHQbGiYF7OdWYH@
 3 QUAY 1
+2 SOUR @S89@
+3 _APID 1,61535::1879112
+3 PAGE New York Department of Health; Albany, NY; NY State Death In
+4 CONC dex; Certificate Number: 16301
+3 OBJE @M127@
 2 SOUR @0yv77y0QTf2dWDaHqAU0@
 3 _APID 1,8800::2358507
 3 PAGE Letters of Administration, 1830-1903, and Index, 1806-1890
@@ -4445,7 +4580,7 @@
 4 CONC l: T624_987; Page: 7B; Enumeration District: 0032; FHL micro
 4 CONC film: 1375000
 3 OBJE @wyOiqcQjQ2mWPXNO677l@
-2 SOUR @fbm1JFCcTSynOlnGwx3Z@
+2 SOUR @GpcA8GZ1Qyuc3mwiGu82@
 3 _APID 1,6061::19091183
 3 PAGE Year: 1920; Census Place: Smithfield, Madison, New York; Rol
 4 CONC l: T625_1119; Page: 2B; Enumeration District: 129; Image: 44
@@ -4457,6 +4592,9 @@
 4 CONC l: 1446; Page: 2A; Enumeration District: 0040; Image: 452.0
 4 CONC ; FHL microfilm: 2341181
 3 OBJE @NMJzpdYPTvWZfOSHw9PJ@
+2 SOUR @sTsOC4iyTF2NoQPhD3Hq@
+3 _APID 1,61377::1200368289
+3 OBJE @M121@
 2 SOUR @Da4QmjDCTO26NSEbXkWM@
 3 _APID 1,3212::3150013
 3 OBJE @UL0Hy5nFTjua39IMcoro@
@@ -4503,7 +4641,7 @@
 4 CONC l: T624_987; Page: 7B; Enumeration District: 0032; FHL micro
 4 CONC film: 1375000
 3 OBJE @wyOiqcQjQ2mWPXNO677l@
-2 SOUR @fbm1JFCcTSynOlnGwx3Z@
+2 SOUR @GpcA8GZ1Qyuc3mwiGu82@
 3 _APID 1,6061::19091183
 3 PAGE Year: 1920; Census Place: Smithfield, Madison, New York; Rol
 4 CONC l: T625_1119; Page: 2B; Enumeration District: 129; Image: 44
@@ -4616,7 +4754,7 @@
 3 MAP
 4 LATI N42.9712
 4 LONG W75.6768
-2 SOUR @fbm1JFCcTSynOlnGwx3Z@
+2 SOUR @GpcA8GZ1Qyuc3mwiGu82@
 3 _APID 1,6061::19091183
 3 PAGE Year: 1920; Census Place: Smithfield, Madison, New York; Rol
 4 CONC l: T625_1119; Page: 2B; Enumeration District: 129; Image: 44
@@ -4733,6 +4871,9 @@
 1 REFN da1c2f18-29d6-41d6-96e5-7ebcc71b5ca7
 1 HUSB @Dic6oehpQdKdrzLgI0o4@
 1 WIFE @yrnKQjobSD6JZVEjMntA@
+1 CHIL @I34@
+2 _FREL Natural
+2 _MREL Natural
 1 MARR
 2 DATE 1882
 2 SOUR @tPClZMdVRNCZDOmnmsWz@
@@ -4852,11 +4993,6 @@
 1 ADDR http://www.Ancestry.com
 1 EMAIL
 1 PHON
-0 @0sgfTZTTQuySsYxMf2EX@ REPO
-1 NAME Ancestry.com, II, OLD
-1 ADDR
-1 EMAIL
-1 PHON
 0 @FcDCEG30RK61CW4RyPgD@ SOUR
 1 REFN 9ca4c4ef-5bcd-4fe9-a685-d62ce3f13241
 1 REPO @k6E4RMjOSJmHe9c6u2Rb@
@@ -4927,7 +5063,7 @@
 2 CONC : 2006
 0 @GpcA8GZ1Qyuc3mwiGu82@ SOUR
 1 REFN cd5bfc77-dd07-4836-8a40-c5b1ef4f8204
-1 REPO @0sgfTZTTQuySsYxMf2EX@
+1 REPO @k6E4RMjOSJmHe9c6u2Rb@
 1 TITL 1920 United States Federal Census
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
@@ -4940,13 +5076,6 @@
 2 CONC publications/microfilm-catalogs/census/1920/part-07.html" ta
 2 CONC rget="_blank">NARA</a>. Note: Enumeration Districts 819-83
 2 CONC 9 are on roll 323 (Chicago City).
-0 @fbm1JFCcTSynOlnGwx3Z@ SOUR
-1 REFN 6234afaf-6437-47bc-a151-ff231adae7b1
-1 REPO @k6E4RMjOSJmHe9c6u2Rb@
-1 TITL 1920 United States Federal Census, OLD
-1 AUTH Ancestry.com
-1 PUBL Ancestry.com Operations Inc; Location: Provo, UT, USA; Date
-2 CONC : 2010
 0 @Z6rqhHe6TT6AOpzl0BeY@ SOUR
 1 REFN ad9a30db-d99e-4621-89a0-e497ff482a4d
 1 REPO @k6E4RMjOSJmHe9c6u2Rb@
@@ -4956,7 +5085,7 @@
 2 CONC : 2002
 0 @Uy92PZYtTYyuTqW66j1r@ SOUR
 1 REFN 21f26ed7-9f0d-4a32-8362-2e76bbfe7e74
-1 REPO @0sgfTZTTQuySsYxMf2EX@
+1 REPO @k6E4RMjOSJmHe9c6u2Rb@
 1 TITL 1940 United States Federal Census
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
@@ -5155,7 +5284,7 @@
 1 TEXT <img src="mosher_files/map_ny_cazenovia_1852.jpg">
 0 @IhLpv5gQTcOgm6vCvQLJ@ SOUR
 1 REFN 1bf79c11-0142-4254-bc0a-8b4726f447b7
-1 REPO @0sgfTZTTQuySsYxMf2EX@
+1 REPO @k6E4RMjOSJmHe9c6u2Rb@
 1 TITL New York, Abstracts of World War I Military Service, 1917-19
 2 CONC 19
 1 AUTH Ancestry.com
@@ -5181,11 +5310,17 @@
 2 CONC : 1999
 0 @sTsOC4iyTF2NoQPhD3Hq@ SOUR
 1 REFN 0ec5e7f9-9089-48bf-902d-748b2b4efe7c
-1 REPO @0sgfTZTTQuySsYxMf2EX@
+1 REPO @k6E4RMjOSJmHe9c6u2Rb@
 1 TITL New York, County Marriages, 1847-1849; 1907-1936
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Lehi, UT, USA; Date
 2 CONC : 2016
+0 @S89@ SOUR
+1 REPO @k6E4RMjOSJmHe9c6u2Rb@
+1 TITL New York, Death Index, 1880-1956
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.; Location: Lehi, UT, USA; Date
+2 CONC : 2017
 0 @bpt8c0uQRfCTW2vNfJ3k@ SOUR
 1 REFN 7aceee0b-28fd-4c99-b48d-12e7882b5e0c
 1 REPO @k6E4RMjOSJmHe9c6u2Rb@
@@ -5806,6 +5941,12 @@
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2010
+0 @S93@ SOUR
+1 REPO @k6E4RMjOSJmHe9c6u2Rb@
+1 TITL U.S. Civil War Soldiers, 1861-1865
+1 AUTH National Park Service
+1 PUBL Ancestry.com Operations Inc; Location: Provo, UT, USA; Date
+2 CONC : 2007
 0 @q04NumQxRxOu0t0Janfk@ SOUR
 1 REFN 80b8e234-8b1b-48ef-8186-020858e2fc4a
 1 REPO @k6E4RMjOSJmHe9c6u2Rb@
@@ -5845,7 +5986,7 @@
 2 CONC e: 2010
 0 @NOkWCGM8RZO0xw4vd39X@ SOUR
 1 REFN 2206a1ed-4c9d-4d91-8c61-925b92e4e627
-1 REPO @0sgfTZTTQuySsYxMf2EX@
+1 REPO @k6E4RMjOSJmHe9c6u2Rb@
 1 TITL U.S., Social Security Death Index, 1935-2014
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations Inc; Location: Provo, UT, USA; Date
@@ -7450,4 +7591,51 @@
 2 TITL William Colvin Gravestone
 2 _DATE 10 Feb 2012
 1 REFN 345632c1-f479-40f8-9331-08b41400835c
+0 @M121@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Colvin Media\Ne
+2 CONC w York, County Marriages, 1847-1849 1907-1936.jpg
+2 FORM jpg
+2 TITL New York, County Marriages, 1847-1849; 1907-1936
+0 @M122@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Colvin Media\Ne
+2 CONC w York, Death Index, 1880-1956.jpg
+2 FORM jpg
+2 TITL New York, Death Index, 1880-1956
+2 _TEXT New York Department of Health; Albany, NY; NY State Death In
+3 CONC dex; Certificate Number: 29177
+0 @M123@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Colvin Media\19
+2 CONC 20 United States Federal Census.jpg
+2 FORM jpg
+2 TITL 1920 United States Federal Census
+2 _TEXT Year: 1920; Census Place: Eaton, Madison, New York; Roll: T6
+3 CONC 25_1118; Page: 7B; Enumeration District: 106
+0 @M124@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Colvin Media\Ne
+2 CONC w York, Death Index, 1880-1956(1).jpg
+2 FORM jpg
+2 TITL New York, Death Index, 1880-1956
+2 _TEXT New York Department of Health; Albany, NY; NY State Death In
+3 CONC dex; Certificate Number: 23293
+0 @M125@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Colvin Media\Ne
+2 CONC w York, Death Index, 1880-1956(2).jpg
+2 FORM jpg
+2 TITL New York, Death Index, 1880-1956
+2 _TEXT New York Department of Health; Albany, NY; NY State Death In
+3 CONC dex; Certificate Number: 4730
+0 @M126@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Colvin Media\Ne
+2 CONC w York, Death Index, 1880-1956(3).jpg
+2 FORM jpg
+2 TITL New York, Death Index, 1880-1956
+2 _TEXT New York Department of Health; Albany, NY; NY State Death In
+3 CONC dex; Certificate Number: 29336
+0 @M127@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Colvin Media\Ne
+2 CONC w York, Death Index, 1880-1956(4).jpg
+2 FORM jpg
+2 TITL New York, Death Index, 1880-1956
+2 _TEXT New York Department of Health; Albany, NY; NY State Death In
+3 CONC dex; Certificate Number: 16301
 0 TRLR
