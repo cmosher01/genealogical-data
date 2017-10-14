@@ -15,9 +15,12 @@
 1 DEST FTM
 1 FILE Colvin_2017-10-14.ged
 1 DATE 14 OCT 2017
-2 TIME 03:12:18
+2 TIME 04:13:08
 0 @Umy2qBWIRUiwVSS6Hcn4@ SUBM
 1 NAME Christopher Alan Mosher
+2 EMAIL cmosher01@@gmail.com
+2 WWW http://mosher.mine.nu/
+2 WWW https://github.com/cmosher01/
 2 ADDR 41 Brook Pine Drive
 3 CONT Shelton, Connecticut 06484-5912
 3 CONT USA
@@ -31,9 +34,6 @@
 2 PHON +1-203-414-7716
 2 PHON +1-203-944-9487
 2 PHON +1-203-513-9292
-2 EMAIL cmosher01@@gmail.com
-2 WWW http://mosher.mine.nu/
-2 WWW https://github.com/cmosher01/
 1 LANG English
 1 RIN Umy2qBWIRUiwVSS6Hcn4
 0 @xRdTBlLTQu6cfNUHklAt@ INDI
@@ -2995,12 +2995,6 @@
 2 SOUR @zyS3wM5BSLCZ9mW53ORr@
 0 @zdliojhETeqb4CHNt37Z@ INDI
 1 _XY 73556 1074
-1 _MILT
-2 PLAC New York, USA
-3 MAP
-4 LATI N42.7531
-4 LONG W74.2224
-2 SOUR @S93@
 1 REFN 2556fd6e-3c86-47dd-a918-d44069c5e12f
 1 NAME Thomas H. /Colvin/
 2 SOUR @L8nVWbaPS16IxbJgxhiQ@
@@ -3069,8 +3063,6 @@
 3 MAP
 4 LATI N42.7585
 4 LONG W75.8868
-2 SOUR @S93@
-3 _APID 1,1138::2371085
 2 SOUR @6qMAVZyIQsq0KGYRHB0h@
 3 _APID 1,1555::3618309
 2 NOTE 76th New York Infantry, Company D
@@ -3090,6 +3082,14 @@
 2 PLAC Evergreen Cemetery, Cazenovia, Madison, New York, USA
 2 SOUR @JAWvOIvVTmOLbDIk7C17@
 3 _APID 1,60525::78009637
+1 EVEN
+2 TYPE military
+2 PLAC New York, USA
+3 MAP
+4 LATI N42.7531
+4 LONG W74.2224
+2 SOUR @S93@
+3 _APID 1,1138::2371085
 0 @FMvsQ0MPQ5SEpcurt17S@ INDI
 1 _XY 73848 853
 1 REFN 5990ae89-e6c7-4c50-8b8f-a058d1ccb66b
