@@ -3,6 +3,8 @@
 1 GEDC
 2 VERS 5.5.1
 2 FORM LINEAGE-LINKED
+1 COPR Copyright © 1998, Christopher Alan Mosher, Shelton, CT, USA.
+1 SUBM @Umy2qBWIRUiwVSS6Hcn4@
 1 SOUR FTM
 2 VERS 23.0.2.1343
 2 NAME Family Tree Maker for Windows
@@ -11,12 +13,28 @@
 4 CONT Boston, MA 02109
 3 PHON (617) 227-6681
 1 DEST FTM
-1 SUBM @7gRqCK4CSVyNCk4tvpit@
-1 FILE Lopez_2017-10-11.ged
-1 DATE 11 OCT 2017
-2 TIME 20:10:07
-0 @7gRqCK4CSVyNCk4tvpit@ SUBM
+1 FILE Lopez_2017-10-17.ged
+1 DATE 17 OCT 2017
+2 TIME 02:05:58
+0 @Umy2qBWIRUiwVSS6Hcn4@ SUBM
 1 NAME Christopher Alan Mosher
+2 ADDR 41 Brook Pine Drive
+3 CONT Shelton, Connecticut 06484-5912
+3 CONT USA
+3 ADR1 41 Brook Pine Drive
+3 ADR2 Shelton, Connecticut 06484-5912
+3 ADR3 USA
+3 CITY Shelton
+3 STAE Connecticut
+3 POST 06484-5912
+3 CTRY USA
+2 PHON +1-203-414-7716
+2 PHON +1-203-944-9487
+2 PHON +1-203-513-9292
+2 EMAIL cmosher01@@gmail.com
+2 WWW http://mosher.mine.nu/
+2 WWW https://github.com/cmosher01/
+1 LANG English
 1 RIN Umy2qBWIRUiwVSS6Hcn4
 0 @I48@ INDI
 1 REFN 36c71e16-e697-4941-9395-041a3936a159
@@ -159,6 +177,9 @@
 2 DATE FROM 1861 TO 1864
 2 PLAC Iglesia de la Merced [Church of Mercy], Calle Chile y Call
 3 CONC e Cuenca, Quito, Pichincha, Ecuador
+3 MAP
+4 LATI S0.218
+4 LONG W78.5139
 2 SOUR @S69@
 3 PAGE p. 139
 3 QUAY 1
@@ -172,12 +193,18 @@
 1 OCCU priest
 2 PLAC Iglesia de la Merced [Church of Mercy], Calle Chile y Call
 3 CONC e Cuenca, Quito, Pichincha, Ecuador
+3 MAP
+4 LATI S0.218
+4 LONG W78.5139
 2 SOUR @S68@
 1 RELI Catholic
 2 SOUR @S68@
 1 RESI
 2 PLAC Calle del Cebollar [Onion Patch Street], Quito, Pichincha, E
 3 CONC cuador
+3 MAP
+4 LATI S0.2147
+4 LONG W78.517
 2 SOUR @S68@
 0 @I57@ INDI
 1 REFN 69209f94-0525-46d6-8366-157c0830b93c
@@ -2566,9 +2593,58 @@
 4 LATI S0.2167
 4 LONG W78.5
 2 SOUR @S68@
+1 DEAT
+2 DATE 1872
+2 PLAC Quito, Pichincha, Ecuador
+3 MAP
+4 LATI S0.2167
+4 LONG W78.5
+2 SOUR @S80@
+3 _LINK http://www.patrimonio.quito.gob.ec/index.php/centro-document
+4 CONC al/fondo-editorial?id=303
+3 PAGE Fernando Jurado Noboa, _Calles, casas y gente del Centro His
+4 CONC tórico de Quito,_ vol. 1 (Quito: Fonsal, 2004), 231; digiti
+4 CONC zed as _Instituto Metropolitano de Patrimonio_ (http://www.p
+4 CONC atrimonio.quito.gob.ec/index.php/centro-documental/fondo-edi
+4 CONC torial?id=303 : accessed 16 Oct 2017).
+3 DATA
+4 TEXT La casa de los López
+5 CONT
+5 CONT La señora Dolores López, que tenía su casa en la acera su
+5 CONC r, mantuvo largos años la propiedad; la casa fue donada po
+5 CONC r el mercedario fray Mariano Auz Valdospinos. El 23 de octub
+5 CONC re de 1855, ante Cosme Salazar, se cita la escritura de comp
+5 CONC ra de la casa por parte de la aludida señora López; al mor
+5 CONC ir la señora en 1872, su hijo Joaquín López vendió sus d
+5 CONC erechos en 310 pesos a su hermano el ilustre abogado Dr. Fel
+5 CONC icísimo López López [sic], el 24 de julio de 1872. La cas
+5 CONC a, como sabemos, quedaba en la acera sur, con estos límites
+5 CONC :
+5 CONT Por un costado y por detrás: la casa y la enorme cuadra d
+5 CONC e Ramón Aguilar.
+5 CONT Por el otro lado: la cuadra del señor Luis Rivadeneira.
+5 CONT
+5 CONT [The López house
+5 CONT
+5 CONT Mrs. Dolores López, who had her house on the southern sidew
+5 CONC alk, kept the property for many years; the house was donate
+5 CONC d by the Mercedarian friar Mariano Auz Valdospinos. On 23 Oc
+5 CONC tober 1855, before Cosme Salazar, cites the writing of purch
+5 CONC ase of the house on the part of the mentioned Mrs. López; w
+5 CONC hen the lady died in 1872, her son Joaquín López sold hi
+5 CONC s rights for 310 pesos to his brother, the illustrious lawye
+5 CONC r Dr. Felicísimo López López [sic], on 24 July 1872. Th
+5 CONC e house, as we know, was on the southern sidewalk, with thes
+5 CONC e limits:
+5 CONT On one side and behind: the house and the huge block of Ramo
+5 CONC n Aguilar.
+5 CONT On the other side: the stable of Mr. Luis Rivadeneira.]
 1 RESI
 2 PLAC Calle del Cebollar [Onion Patch Street], Quito, Pichincha, E
 3 CONC cuador
+3 MAP
+4 LATI S0.2147
+4 LONG W78.517
 2 SOUR @S68@
 0 @MXy97gGiR8OdDYExTOv7@ INDI
 1 _XY 173695 3250
@@ -4862,31 +4938,132 @@
 3 MAP
 4 LATI S0.2167
 4 LONG W78.5
+2 SOUR @S68@
 1 PROP bought second house down from Calle de Juan Pío Montúfar
 2 CONC , on the north-east side of the street, from Dolores Zambran
 2 CONC o
 2 DATE 13 DEC 1864
 2 PLAC Calle de los Milagros, Quito, Pichincha, Ecuador
-2 SOUR @S76@
+3 MAP
+4 LATI S0.2243
+4 LONG W78.5111
+2 SOUR @S80@
 3 _LINK http://www.patrimonio.quito.gob.ec/index.php/centro-document
 4 CONC al/fondo-editorial?id=308
-3 PAGE Tomo II, p. 237
+3 PAGE Fernando Jurado Noboa, _Calles, casas y gente del Centro His
+4 CONC tórico de Quito,_ vol. 2 (Quito: Fonsal, 2005), 237-242; di
+4 CONC gitized as _Instituto Metropolitano de Patrimonio_ (http://w
+4 CONC ww.patrimonio.quito.gob.ec/index.php/centro-documental/fondo
+4 CONC -editorial?id=308 : accessed 16 Oct 2017).
+3 DATA
+4 TEXT En septiembre de 1862, Daniel Carvajal vendió su casa a Dol
+5 CONC ores Zambrano.
+5 CONT [In Sep 1862, Daniel Carvajal sold his house to Dolores Zamb
+5 CONC rano.]
+5 CONT ...
+5 CONT Dos años después, el 13 de diciembre de 1864, la señora Z
+5 CONC ambrano vendió la casa a José Paz y Miño. Esta propieda
+5 CONC d era, sin duda, la segunda de la segunda cuadra y en el lad
+5 CONC o norte.
+5 CONT [Two years later, on 13 Dec 1864 , Mrs. Zambrano sold the ho
+5 CONC use to José Paz y Miño. This property was undoubtedly th
+5 CONC e second on the second block, on the north side.]
+5 CONT ...
+5 CONT En 1894, había siete casas en el lado norte:
+5 CONT [In 1894, there were seven houses on the north side:]
+5 CONT ...
+5 CONT De Benjamín Paz y Miño, que de seguro es la adquirida en 1
+5 CONC 871 por José Paz y Miño, que antes fuera de los Carvaja
+5 CONC l y luego, de los Zambrano. Una generación después, paso
+5 CONC ́ a los Agami, también libaneses.
+5 CONT [second was the house of Benjamin Paz y Miño, who probabl
+5 CONC y acquired it in 1871 from José Paz y Miño, which previous
+5 CONC ly came from the Carvajals and then the Zambranos. A generat
+5 CONC ion later, it passed to the Agamis, also Lebanese.]
+5 CONT ...
+5 CONT Un año después, se registran, en la Pereira número 4, do
+5 CONC n Enrique Trajano Hurtado y su esposa Dioselina, que matricu
+5 CONC lan a su hija Adriana, de 12 años y con beca en el mentad
+5 CONC o Instituto, el 25 de septiembre. El 28 de enero de 1907, Di
+5 CONC oselina, de cinco años–su otra hija–se matriculará en el K
+5 CONC indergarten y será su apoderada la señora Malvina D. Lópe
+5 CONC z.
+5 CONT [In 1906, registered at No. 4 Pereira are Enrique Trajano Hu
+5 CONC rtado and his wife Dioselina, who (on 25 Sep) enrolled thei
+5 CONC r daughter Adriana, age 12, and with a scholarship, in the a
+5 CONC forementioned institute, the Normal School. On 28 Jan 1907
+5 CONC , Dioselina, age 5, his other daughter, was enrolled in kind
+5 CONC ergarten they were taught by Mrs. Malvina D. López.]
+5 CONT ...
+5 CONT En 1911, el sastre Benjamín N. Pazmiño anuncia que traslad
+5 CONC a su taller desde la calle Guayaquil a la casa
+5 CONT de su propiedad, en la Pereira número 8 (Loma Chica).
+5 CONT [In 1911, the tailor Benjamín N. Pazmiño announced that mo
+5 CONC ved his workshop from Guayaquil Street to No. 8 Pereira Stre
+5 CONC et (Loma Chica Street).]
 1 PROP sold second house down from Calle de Juan Pío Montúfar, o
 2 CONC n the north-east side of the street, to Benjamin Paz y Miño
 2 DATE 1871
 2 PLAC Calle de los Milagros, Quito, Pichincha, Ecuador
-2 SOUR @S76@
+3 MAP
+4 LATI S0.2243
+4 LONG W78.5111
+2 SOUR @S80@
 3 _LINK http://www.patrimonio.quito.gob.ec/index.php/centro-document
 4 CONC al/fondo-editorial?id=308
-3 PAGE Tomo II, p. 237
+3 PAGE Fernando Jurado Noboa, _Calles, casas y gente del Centro His
+4 CONC tórico de Quito,_ vol. 2 (Quito: Fonsal, 2005), 237-242; di
+4 CONC gitized as _Instituto Metropolitano de Patrimonio_ (http://w
+4 CONC ww.patrimonio.quito.gob.ec/index.php/centro-documental/fondo
+4 CONC -editorial?id=308 : accessed 16 Oct 2017).
+3 DATA
+4 TEXT En septiembre de 1862, Daniel Carvajal vendió su casa a Dol
+5 CONC ores Zambrano.
+5 CONT [In Sep 1862, Daniel Carvajal sold his house to Dolores Zamb
+5 CONC rano.]
+5 CONT ...
+5 CONT Dos años después, el 13 de diciembre de 1864, la señora Z
+5 CONC ambrano vendió la casa a José Paz y Miño. Esta propieda
+5 CONC d era, sin duda, la segunda de la segunda cuadra y en el lad
+5 CONC o norte.
+5 CONT [Two years later, on 13 Dec 1864 , Mrs. Zambrano sold the ho
+5 CONC use to José Paz y Miño. This property was undoubtedly th
+5 CONC e second on the second block, on the north side.]
+5 CONT ...
+5 CONT En 1894, había siete casas en el lado norte:
+5 CONT [In 1894, there were seven houses on the north side:]
+5 CONT ...
+5 CONT De Benjamín Paz y Miño, que de seguro es la adquirida en 1
+5 CONC 871 por José Paz y Miño, que antes fuera de los Carvaja
+5 CONC l y luego, de los Zambrano. Una generación después, paso
+5 CONC ́ a los Agami, también libaneses.
+5 CONT [second was the house of Benjamin Paz y Miño, who probabl
+5 CONC y acquired it in 1871 from José Paz y Miño, which previous
+5 CONC ly came from the Carvajals and then the Zambranos. A generat
+5 CONC ion later, it passed to the Agamis, also Lebanese.]
+5 CONT ...
+5 CONT Un año después, se registran, en la Pereira número 4, do
+5 CONC n Enrique Trajano Hurtado y su esposa Dioselina, que matricu
+5 CONC lan a su hija Adriana, de 12 años y con beca en el mentad
+5 CONC o Instituto, el 25 de septiembre. El 28 de enero de 1907, Di
+5 CONC oselina, de cinco años–su otra hija–se matriculará en el K
+5 CONC indergarten y será su apoderada la señora Malvina D. Lópe
+5 CONC z.
+5 CONT [In 1906, registered at No. 4 Pereira are Enrique Trajano Hu
+5 CONC rtado and his wife Dioselina, who (on 25 Sep) enrolled thei
+5 CONC r daughter Adriana, age 12, and with a scholarship, in the a
+5 CONC forementioned institute, the Normal School. On 28 Jan 1907
+5 CONC , Dioselina, age 5, his other daughter, was enrolled in kind
+5 CONC ergarten they were taught by Mrs. Malvina D. López.]
+5 CONT ...
+5 CONT En 1911, el sastre Benjamín N. Pazmiño anuncia que traslad
+5 CONC a su taller desde la calle Guayaquil a la casa
+5 CONT de su propiedad, en la Pereira número 8 (Loma Chica).
+5 CONT [In 1911, the tailor Benjamín N. Pazmiño announced that mo
+5 CONC ved his workshop from Guayaquil Street to No. 8 Pereira Stre
+5 CONC et (Loma Chica Street).]
 1 DEAT
 2 DATE AFT 23 JAN 1873
-2 PLAC Quito, Pichincha, Ecuador
-3 MAP
-4 LATI S0.2167
-4 LONG W78.5
-2 SOUR @S68@
-1 BIRT
 2 PLAC Quito, Pichincha, Ecuador
 3 MAP
 4 LATI S0.2167
@@ -5926,10 +6103,17 @@
 2 CONC , on the north-east side of the street, from Daniel Carvajal
 2 DATE SEP 1862
 2 PLAC Calle de los Milagros, Quito, Pichincha, Ecuador
-2 SOUR @S77@
-3 PAGE vol. 2, ("Protagonistas y calles en sentido oriente-occident
-4 CONC e, de 1534 a 1950, de la calle Espejo a la calle Bolívar")
-4 CONC , pp. 237-242
+3 MAP
+4 LATI S0.2243
+4 LONG W78.5111
+2 SOUR @S80@
+3 _LINK http://www.patrimonio.quito.gob.ec/index.php/centro-document
+4 CONC al/fondo-editorial?id=308
+3 PAGE Fernando Jurado Noboa, _Calles, casas y gente del Centro His
+4 CONC tórico de Quito,_ vol. 2 (Quito: Fonsal, 2005), 237-242; di
+4 CONC gitized as _Instituto Metropolitano de Patrimonio_ (http://w
+4 CONC ww.patrimonio.quito.gob.ec/index.php/centro-documental/fondo
+4 CONC -editorial?id=308 : accessed 16 Oct 2017).
 3 DATA
 4 TEXT En septiembre de 1862, Daniel Carvajal vendió su casa a Dol
 5 CONC ores Zambrano.
@@ -5980,10 +6164,17 @@
 2 CONC n the north-east side of the street, to José Paz y Miño
 2 DATE 13 DEC 1864
 2 PLAC Calle de los Milagros, Quito, Pichincha, Ecuador
-2 SOUR @S77@
-3 PAGE vol. 2, ("Protagonistas y calles en sentido oriente-occident
-4 CONC e, de 1534 a 1950, de la calle Espejo a la calle Bolívar")
-4 CONC , pp. 237-242
+3 MAP
+4 LATI S0.2243
+4 LONG W78.5111
+2 SOUR @S80@
+3 _LINK http://www.patrimonio.quito.gob.ec/index.php/centro-document
+4 CONC al/fondo-editorial?id=308
+3 PAGE Fernando Jurado Noboa, _Calles, casas y gente del Centro His
+4 CONC tórico de Quito,_ vol. 2 (Quito: Fonsal, 2005), 237-242; di
+4 CONC gitized as _Instituto Metropolitano de Patrimonio_ (http://w
+4 CONC ww.patrimonio.quito.gob.ec/index.php/centro-documental/fondo
+4 CONC -editorial?id=308 : accessed 16 Oct 2017).
 3 DATA
 4 TEXT En septiembre de 1862, Daniel Carvajal vendió su casa a Dol
 5 CONC ores Zambrano.
@@ -7907,11 +8098,11 @@
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations Inc; Location: Provo, UT, USA; Date
 2 CONC : 2000
-0 @S76@ SOUR
-1 REFN b780079a-e0bb-4fa7-b8c0-9092d65a4505
-1 TITL Calles, casas y gente del Centro Histórico de Quito
+0 @S80@ SOUR
+1 TITL Calles, casas y gente del Centro Histórico de Quito [Street
+2 CONC s, houses, and people, of the historic center of Quito]
 1 AUTH Jurado Noboa, Fernando
-1 PUBL Fonsal; Location: Ecuador
+1 PUBL Fonsal; Location: Quito; Date: 2004-
 0 @f0AWP7VFTda2mleQdi2Z@ SOUR
 1 REFN 3adf3bef-c858-4dd3-8dba-1ea2317e0677
 1 REPO @R1@
@@ -8036,15 +8227,6 @@
 1 TITL International Genealogical Index
 1 AUTH LDS Church
 1 PUBL familysearch.org
-0 @S77@ SOUR
-1 REFN ca44b6bb-e368-4ee0-9dc0-34d7905a04e5
-1 TITL Jurado Noboa, Fernando, Calles, Casas y Gente del Centro His
-2 CONC tórico de Quito
-1 TEXT Jurado Noboa, Fernando.
-2 CONT Calles, Casas y Gente del Centro Histórico de Quito.
-2 CONT 12 volumes.
-2 CONT Quito, Ecuador:
-2 CONT Fonsal, 2004.
 0 @DaUw03A1QHqLXyRjHuOq@ SOUR
 1 REFN 7d72f232-946b-4096-af24-b0eb568af2ff
 1 REPO @R1@
@@ -8290,7 +8472,8 @@
 1 REFN e17b3091-c035-4980-a34e-a934aea2a4b3
 1 TITL Pazmiño López Family History
 1 AUTH Dudley, Joseph
-1 PUBL In possession of Chris Mosher
+1 PUBL In possession of Chris Mosher; Location: http://mosher.mine.
+2 CONC nu/dudley_joseph_genealogy_lopez_pazmino.html
 0 @S71@ SOUR
 1 REFN 83fb8d39-3432-44bf-81a7-728e7fa29850
 1 TITL Pedigree Resource File
