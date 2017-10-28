@@ -13,11 +13,14 @@
 4 CONT Boston, MA 02109
 3 PHON (617) 227-6681
 1 DEST FTM
-1 FILE Lopez_2017-10-17.ged
-1 DATE 17 OCT 2017
-2 TIME 02:05:58
+1 FILE Lopez_2017-10-28.ged
+1 DATE 28 OCT 2017
+2 TIME 22:46:51
 0 @Umy2qBWIRUiwVSS6Hcn4@ SUBM
 1 NAME Christopher Alan Mosher
+2 EMAIL cmosher01@@gmail.com
+2 WWW http://mosher.mine.nu/
+2 WWW https://github.com/cmosher01/
 2 ADDR 41 Brook Pine Drive
 3 CONT Shelton, Connecticut 06484-5912
 3 CONT USA
@@ -31,9 +34,6 @@
 2 PHON +1-203-414-7716
 2 PHON +1-203-944-9487
 2 PHON +1-203-513-9292
-2 EMAIL cmosher01@@gmail.com
-2 WWW http://mosher.mine.nu/
-2 WWW https://github.com/cmosher01/
 1 LANG English
 1 RIN Umy2qBWIRUiwVSS6Hcn4
 0 @I48@ INDI
@@ -203,8 +203,8 @@
 2 PLAC Calle del Cebollar [Onion Patch Street], Quito, Pichincha, E
 3 CONC cuador
 3 MAP
-4 LATI S0.2147
-4 LONG W78.517
+4 LATI S0.2166
+4 LONG W78.5163
 2 SOUR @S68@
 0 @I57@ INDI
 1 REFN 69209f94-0525-46d6-8366-157c0830b93c
@@ -2643,8 +2643,8 @@
 2 PLAC Calle del Cebollar [Onion Patch Street], Quito, Pichincha, E
 3 CONC cuador
 3 MAP
-4 LATI S0.2147
-4 LONG W78.517
+4 LATI S0.2166
+4 LONG W78.5163
 2 SOUR @S68@
 0 @MXy97gGiR8OdDYExTOv7@ INDI
 1 _XY 173695 3250
@@ -3730,6 +3730,26 @@
 2 SOUR @f0AWP7VFTda2mleQdi2Z@
 3 _APID 1,1086::584052
 3 OBJE @Mb6dNKMbSMKLqAaD5PZU@
+2 SOUR @S81@
+3 _LINK https://familysearch.org/ark:/61903/1:1:QLBS-L5L4
+3 PAGE "Ecuador, Catholic Church Records, 1565-2011," database wit
+4 CONC h images, _FamilySearch_ (https://familysearch.org/ark:/6190
+4 CONC 3/1:1:QLBS-L5L4 : 25 Oct 2017), Samuel Hector Lopez Romero b
+4 CONC aptism, 19 Feb 1893; citing Parroquia de San Cayetano (Chone
+4 CONC , Ecuador), "Libro de Bautismo, Tomo II, N.o 13, Diciembr
+4 CONC e 8 1892 a Sepbre. 1895," p. 14; "Bautismos 1859-1897 (falta
+4 CONC n años)," FHL microfilm 1,220,272, item 6, image 510 of 690
+4 CONC .
+3 DATA
+4 TEXT Hector
+5 CONT Samuel
+5 CONT
+5 CONT En la parroquia de Chone á diez y nueve de Febrero de mil o
+5 CONC chocientos noventa y tres bautizé solemnemente á Samuel He
+5 CONC ctor de diez y ocho meses, hijo legítimo de Feliasimo Lope
+5 CONC z y Franzisca Romero. Fueron padrinos Jose [?] y Rosa de Rod
+5 CONC riquez.
+5 CONT
 2 SOUR @azre2a3yQZ6Gpr6CCL84@
 3 _APID 1,8842::2030170
 3 OBJE @MxWZ7cDwShiYsD837OtO@
@@ -3840,6 +3860,26 @@
 2 SOUR @f0AWP7VFTda2mleQdi2Z@
 3 _APID 1,1086::584052
 3 OBJE @Mb6dNKMbSMKLqAaD5PZU@
+2 SOUR @S81@
+3 _LINK https://familysearch.org/ark:/61903/1:1:QLBS-L5L4
+3 PAGE "Ecuador, Catholic Church Records, 1565-2011," database wit
+4 CONC h images, _FamilySearch_ (https://familysearch.org/ark:/6190
+4 CONC 3/1:1:QLBS-L5L4 : 25 Oct 2017), Samuel Hector Lopez Romero b
+4 CONC aptism, 19 Feb 1893; citing Parroquia de San Cayetano (Chone
+4 CONC , Ecuador), "Libro de Bautismo, Tomo II, N.o 13, Diciembr
+4 CONC e 8 1892 a Sepbre. 1895," p. 14; "Bautismos 1859-1897 (falta
+4 CONC n años)," FHL microfilm 1,220,272, item 6, image 510 of 690
+4 CONC .
+3 DATA
+4 TEXT Hector
+5 CONT Samuel
+5 CONT
+5 CONT En la parroquia de Chone á diez y nueve de Febrero de mil o
+5 CONC chocientos noventa y tres bautizé solemnemente á Samuel He
+5 CONC ctor de diez y ocho meses, hijo legítimo de Feliasimo Lope
+5 CONC z y Franzisca Romero. Fueron padrinos Jose [?] y Rosa de Rod
+5 CONC riquez.
+5 CONT
 2 SOUR @azre2a3yQZ6Gpr6CCL84@
 3 _APID 1,8842::2030170
 3 OBJE @MxWZ7cDwShiYsD837OtO@
@@ -3935,6 +3975,29 @@
 3 PAGE Registration State: New York; Registration County: Bronx; Ro
 4 CONC ll: 1754133; Draft Board: 22
 3 OBJE @yjOpndKHRtSaowOcsgfs@
+1 BAPM
+2 DATE 19 FEB 1893
+2 PLAC San Cayetano, Chone, Manabi, Ecuador
+2 SOUR @S81@
+3 _LINK https://familysearch.org/ark:/61903/1:1:QLBS-L5L4
+3 PAGE "Ecuador, Catholic Church Records, 1565-2011," database wit
+4 CONC h images, _FamilySearch_ (https://familysearch.org/ark:/6190
+4 CONC 3/1:1:QLBS-L5L4 : 25 Oct 2017), Samuel Hector Lopez Romero b
+4 CONC aptism, 19 Feb 1893; citing Parroquia de San Cayetano (Chone
+4 CONC , Ecuador), "Libro de Bautismo, Tomo II, N.o 13, Diciembr
+4 CONC e 8 1892 a Sepbre. 1895," p. 14; "Bautismos 1859-1897 (falta
+4 CONC n años)," FHL microfilm 1,220,272, item 6, image 510 of 690
+4 CONC .
+3 DATA
+4 TEXT Hector
+5 CONT Samuel
+5 CONT
+5 CONT En la parroquia de Chone á diez y nueve de Febrero de mil o
+5 CONC chocientos noventa y tres bautizé solemnemente á Samuel He
+5 CONC ctor de diez y ocho meses, hijo legítimo de Feliasimo Lope
+5 CONC z y Franzisca Romero. Fueron padrinos Jose [?] y Rosa de Rod
+5 CONC riquez.
+5 CONT
 1 EVEN
 2 TYPE Arrival
 2 DATE 1901
@@ -8170,6 +8233,11 @@
 1 TITL Dudley, Joseph Letters
 1 AUTH Dudley, Joseph
 1 PUBL In possession of Chris Mosher
+0 @S81@ SOUR
+1 REPO @R3@
+1 TITL Ecuador, Catholic Church Records, 1565-2011
+1 AUTH Family Search
+1 PUBL Family Search; Location: Salt Lake City, Utah, USA
 0 @S72@ SOUR
 1 REFN aba4b2aa-c2e6-48f2-af51-2dad8d839e0a
 1 TITL Ecuadorgen [GeneaNet Family Tree]
