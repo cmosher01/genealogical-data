@@ -15,12 +15,13 @@
 1 DEST FTM
 1 FILE Lopez_2017-10-29.ged
 1 DATE 29 OCT 2017
-2 TIME 17:09:15
+2 TIME 20:49:47
 0 @Umy2qBWIRUiwVSS6Hcn4@ SUBM
 1 NAME Christopher Alan Mosher
 2 EMAIL cmosher01@@gmail.com
 2 WWW http://mosher.mine.nu/
 2 WWW https://github.com/cmosher01/
+2 WWW https://www.ancestry.com/connect/Profile/0065664a-0000-0000-0000-000000000000
 2 ADDR 41 Brook Pine Drive
 3 CONT Shelton, Connecticut 06484-5912
 3 CONT USA
@@ -3809,6 +3810,11 @@
 2 SOUR @f0AWP7VFTda2mleQdi2Z@
 3 _APID 1,1086::584052
 3 OBJE @Mb6dNKMbSMKLqAaD5PZU@
+2 SOUR @S82@
+3 _APID 1,61084::1167060
+3 PAGE Library and Archives Canada; Ottawa, Ontario, Canada; CEF Pe
+4 CONC rsonnel Files; Reference: RG 150; Volume: Box 5737 - 17
+3 OBJE @M67@
 2 SOUR @S81@
 3 _LINK https://familysearch.org/ark:/61903/1:1:QLBS-L5L4
 3 PAGE "Ecuador, Catholic Church Records, 1565-2011," database wit
@@ -3941,6 +3947,11 @@
 2 SOUR @f0AWP7VFTda2mleQdi2Z@
 3 _APID 1,1086::584052
 3 OBJE @Mb6dNKMbSMKLqAaD5PZU@
+2 SOUR @S82@
+3 _APID 1,61084::1167060
+3 PAGE Library and Archives Canada; Ottawa, Ontario, Canada; CEF Pe
+4 CONC rsonnel Files; Reference: RG 150; Volume: Box 5737 - 17
+3 OBJE @M67@
 2 SOUR @S81@
 3 _LINK https://familysearch.org/ark:/61903/1:1:QLBS-L5L4
 3 PAGE "Ecuador, Catholic Church Records, 1565-2011," database wit
@@ -4148,6 +4159,16 @@
 3 _APID 1,8842::2030170
 3 OBJE @MxWZ7cDwShiYsD837OtO@
 1 RESI
+2 DATE APR 1918
+2 PLAC 85 Hicks Street, Brooklyn, Kings, New York, USA
+2 SOUR @f0AWP7VFTda2mleQdi2Z@
+3 _APID 1,1086::584052
+3 OBJE @Mb6dNKMbSMKLqAaD5PZU@
+2 SOUR @vNJdxKubTEGSLeFQMo6f@
+3 _APID 1,9177::13635
+3 OBJE @wVcNo1EURGejPrCC7MmX@
+2 NOTE Marital Status: Single
+1 RESI
 2 DATE MAY 1918
 2 PLAC Toronto, Ontario, Canada
 3 MAP
@@ -4162,16 +4183,32 @@
 4 CONC rt of arrival; July 1919, Buffalo (New York), sheet 9, stamp
 4 CONC ed folio 256, Samuel Lopez, line 20, images 743-746 of 1076.
 3 OBJE @M55@
-1 RESI
+1 EVEN
+2 TYPE military
 2 DATE 16 MAY 1918
-2 PLAC 85 Hicks Street, Brooklyn, Kings, New York, USA
-2 SOUR @f0AWP7VFTda2mleQdi2Z@
-3 _APID 1,1086::584052
-3 OBJE @Mb6dNKMbSMKLqAaD5PZU@
-2 SOUR @vNJdxKubTEGSLeFQMo6f@
-3 _APID 1,9177::13635
-3 OBJE @wVcNo1EURGejPrCC7MmX@
-2 NOTE Marital Status: Single
+2 PLAC Toronto, Ontario, Canada
+3 MAP
+4 LATI N43.6486
+4 LONG W79.3853
+2 SOUR @S82@
+3 _APID 1,61084::1167060
+3 PAGE Library and Archives Canada; Ottawa, Ontario, Canada; CEF Pe
+4 CONC rsonnel Files; Reference: RG 150; Volume: Box 5737 - 17
+3 OBJE @M67@
+2 NOTE enlisted
+1 EVEN
+2 TYPE military
+2 DATE 29 JUN 1919
+2 PLAC Toronto, Ontario, Canada
+3 MAP
+4 LATI N43.6486
+4 LONG W79.3853
+2 SOUR @S82@
+3 _APID 1,61084::1167060
+3 PAGE Library and Archives Canada; Ottawa, Ontario, Canada; CEF Pe
+4 CONC rsonnel Files; Reference: RG 150; Volume: Box 5737 - 17
+3 OBJE @M67@
+2 NOTE discharged
 1 EVEN
 2 TYPE Arrival
 2 DATE 30 JUN 1919
@@ -8262,6 +8299,12 @@
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2006
+0 @S82@ SOUR
+1 REPO @R1@
+1 TITL Canada, WWI CEF Personnel Files, 1914-1918
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.; Location: Lehi, UT, USA; Date
+2 CONC : 2016
 0 @nZgHgzU3RTaPdoV8tiPC@ SOUR
 1 REFN 088304f6-4101-4fa8-a0a6-2206230e7084
 1 TITL Certificate of death, Loper [Lopez], Felicisimo, Number 2429
@@ -10425,6 +10468,13 @@
 3 CONC mo, Tomo II, N.o 13, Diciembre 8 1892 a Sepbre. 1895," pp. 1
 3 CONC 4-15; "Bautismos 1859-1897 (faltan años)," FHL microfilm 1,
 3 CONC 220,272, item 6, image 510 of 690.
+0 @M67@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Lopez Media\Can
+2 CONC ada, WWI CEF Personnel Files, 1914-1918.jpg
+2 FORM jpg
+2 TITL Canada, WWI CEF Personnel Files, 1914-1918
+2 _TEXT Library and Archives Canada; Ottawa, Ontario, Canada; CEF Pe
+3 CONC rsonnel Files; Reference: RG 150; Volume: Box 5737 - 17
 0 @N224@ NOTE affidavit, page 1
 0 @N223@ NOTE affidavit, page 2
 0 @N222@ NOTE certificate
