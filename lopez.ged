@@ -13,15 +13,16 @@
 4 CONT Boston, MA 02109
 3 PHON (617) 227-6681
 1 DEST FTM
-1 FILE Lopez_2017-10-29.ged
-1 DATE 29 OCT 2017
-2 TIME 20:49:47
+1 FILE Lopez_2017-11-01.ged
+1 DATE 01 NOV 2017
+2 TIME 23:41:24
 0 @Umy2qBWIRUiwVSS6Hcn4@ SUBM
 1 NAME Christopher Alan Mosher
 2 EMAIL cmosher01@@gmail.com
 2 WWW http://mosher.mine.nu/
 2 WWW https://github.com/cmosher01/
-2 WWW https://www.ancestry.com/connect/Profile/0065664a-0000-0000-0000-000000000000
+2 WWW https://www.ancestry.com/connect/Profile/0065664a-0000-0000-
+3 CONC 0000-000000000000
 2 ADDR 41 Brook Pine Drive
 3 CONT Shelton, Connecticut 06484-5912
 3 CONT USA
@@ -2572,6 +2573,13 @@
 5 CONC ]
 5 CONT
 3 OBJE @M65@
+1 IMMI
+2 DATE 1901
+2 PLAC New York, New York, USA
+3 MAP
+4 LATI N40.7744
+4 LONG W73.9721
+2 SOUR @S68@
 1 RESI
 2 DATE 1905
 2 PLAC 680 Saint John's Place, Brooklyn, Kings, New York, USA
@@ -3100,6 +3108,10 @@
 1 EVEN
 2 TYPE Arrival
 2 DATE 1901
+2 PLAC New York, New York, USA
+3 MAP
+4 LATI N40.7744
+4 LONG W73.9721
 2 SOUR @pZSp306qQOGHvPqm0c60@
 3 _APID 1,6061::103419867
 3 PAGE Year: 1920; Census Place: Brooklyn Assembly District 1, King
@@ -3278,11 +3290,8 @@
 3 OBJE @V73uFtl5QxKCndz1XQzs@
 1 SEX M
 1 FAMC @F21@
-1 FAMS @NFIwsVBuTjOSRokJd8v0@
 1 FAMS @KHbLkt6WRqSDo0DTyyKL@
-1 NOTE This tree contains genealogy on the Pazmi'f1o family of Quit
-2 CONC o, Ecuador. Also these related families: Auz, L'f3pez, Hurta
-2 CONC do, Zambrano.
+1 FAMS @NFIwsVBuTjOSRokJd8v0@
 1 BIRT
 2 DATE 06 AUG 1847
 2 PLAC Quito, Pichincha, Ecuador
@@ -3495,6 +3504,8 @@
 2 DATE FROM 01 FEB 1900 TO 14 FEB 1900
 2 SOUR @7hzCF6rURECkbdc8IJaU@
 3 QUAY 1
+2 SOUR @S83@
+3 _APID 1,8944::11605
 2 NOTE Left Guayaquil 1 Feb 1900 (w/ dau. Lelia, her husb Victor, a
 3 CONC nd the latters' son Victor). Took ship to Panama, crossed b
 3 CONC y train, took ship (named "Advance") to Manhattan, arrived 1
@@ -3524,7 +3535,7 @@
 2 SOUR @6aqPLR14TiS7VI3rS1TL@
 3 QUAY 3
 1 RESI
-2 DATE 1900
+2 DATE 01 JUN 1900
 2 PLAC 6 Agate Court, Brooklyn, Kings, New York, USA
 2 SOUR @zznD1WJ7RJetSxS9JJ2R@
 3 _APID 1,7602::55538888
@@ -4099,6 +4110,10 @@
 1 EVEN
 2 TYPE Arrival
 2 DATE 1901
+2 PLAC New York, New York, USA
+3 MAP
+4 LATI N40.7744
+4 LONG W73.9721
 2 SOUR @pZSp306qQOGHvPqm0c60@
 3 _APID 1,6061::103419865
 3 PAGE Year: 1920; Census Place: Brooklyn Assembly District 1, King
@@ -4110,6 +4125,51 @@
 4 CONC 538; Page: 18A; Enumeration District: 877; Image: 827.0; FH
 4 CONC L microfilm: 2341273
 3 OBJE @cpMYvtrBS0CdaCvMYlTD@
+2 SOUR @S62@
+3 _APID 1,1075::5082143
+3 PAGE "Manifests of Alien Arrivals at Buffalo, Lewiston, Niagara F
+4 CONC alls, and Rochester, New York, 1902-1954," Record Group #85
+4 CONC , "Records of the Immigration and Naturalization Service, 17
+4 CONC 87-2004," series M1480, roll 67, image 3784
+3 DATA
+4 TEXT BUFFALO, N.Y. 6/30/19
+5 CONT Family name LOPEZ
+5 CONT Given name SAMUEL
+5 CONT Accompanied by -
+5 CONT Place of birth Chone, Equador [sic]
+5 CONT Age 28 Yrs. [blank] Mos.
+5 CONT Sex. M.
+5 CONT S[ingle] X
+5 CONT Occupation Salesman
+5 CONT Read y[es]
+5 CONT Write y[es]
+5 CONT Race Spanish
+5 CONT Nationality Ecquador [sic]
+5 CONT Last permanent residence Toronto, Ont.
+5 CONT Name and address of nearest relative or friend in country wh
+5 CONC ence alien came none
+5 CONT Ever in U.S. y[es]
+5 CONT From 1901
+5 CONT To May 1918
+5 CONT Where N.Y.C.
+5 CONT Passage paid by s[elf].
+5 CONT Destination, and name and address of relative or friend to j
+5 CONC oin there Brooklyn, N.Y. - Mother Francesca (Perm:) 85 Hick
+5 CONC s St.
+5 CONT Money shown $110.00
+5 CONT Ever arrested and deported or excluded from admission [blank
+5 CONC ]
+5 CONT Head tax status P.R. 44
+5 CONT Height 5 Ft. 10 In.
+5 CONT Complexion Dark
+5 CONT Hair brn
+5 CONT Eyes Brn
+5 CONT Distinguishing marks -
+5 CONT Seaport and date of landing and name of steamship N.Y. 190
+5 CONC 1 Advance
+5 CONT MR74
+5 CONT Form 500-B
+3 OBJE @M57@
 1 RESI
 2 DATE 1905
 2 PLAC 680 Saint John's Place, Brooklyn, Kings, New York, USA
@@ -4782,6 +4842,13 @@
 2 PLAC San Lorenzo, Jipijapa, Manabi, Ecuador
 2 SOUR @HCAlSp2XSuysa69AIdrJ@
 3 QUAY 3
+1 IMMI
+2 DATE 1901
+2 PLAC New York, New York, USA
+3 MAP
+4 LATI N40.7744
+4 LONG W73.9721
+2 SOUR @S68@
 1 RESI
 2 DATE 1905
 2 PLAC 680 Saint John's Place, Brooklyn, Kings, New York, USA
@@ -8657,6 +8724,12 @@
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2012
+0 @S83@ SOUR
+1 REPO @R1@
+1 TITL Passenger Ships and Images
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations Inc; Location: Provo, UT, USA; Date
+2 CONC : 2007
 0 @gYNJE6bDRwm6ZR8JX235@ SOUR
 1 REFN 5b919eae-571d-4b91-8aa2-e7cb39652f8e
 1 TITL Pazmino, Victor M., obituary
