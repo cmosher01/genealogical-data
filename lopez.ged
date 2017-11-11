@@ -13,9 +13,9 @@
 4 CONT Boston, MA 02109
 3 PHON (617) 227-6681
 1 DEST FTM
-1 FILE Lopez_2017-11-01.ged
-1 DATE 01 NOV 2017
-2 TIME 23:41:24
+1 FILE Lopez_2017-11-11.ged
+1 DATE 11 NOV 2017
+2 TIME 16:12:24
 0 @Umy2qBWIRUiwVSS6Hcn4@ SUBM
 1 NAME Christopher Alan Mosher
 2 EMAIL cmosher01@@gmail.com
@@ -6331,6 +6331,14 @@
 1 _XY 173692 3444
 1 REFN 79039190-ba8c-4570-8613-59904bf5006c
 1 NAME Dennis /Yusa/
+2 SOUR @S84@
+3 _APID 1,61457::2807701
+3 OBJE @M68@
+2 SOUR @S86@
+3 _APID 1,7339::106040892
+3 PAGE City: Rochester; State: New York; Year(s): 2002
+2 SOUR @S85@
+3 _APID 1,1788::144971736
 1 SEX M
 1 FAMC @TcKNFOmqRtWzC9Od1r8R@
 1 BIRT
@@ -6339,6 +6347,22 @@
 3 MAP
 4 LATI N40.65
 4 LONG W73.95
+2 SOUR @S84@
+3 _APID 1,61457::2807701
+3 OBJE @M68@
+2 SOUR @S85@
+3 _APID 1,1788::144971736
+1 RESI
+2 DATE 1993
+2 PLAC 137 Curtice Road, Rochester, Monroe, New York, USA
+2 SOUR @S85@
+3 _APID 1,1788::144971736
+1 RESI
+2 DATE 2002
+2 PLAC 311 Mount Airy Drive, Rochester, Monroe, New York, USA
+2 SOUR @S86@
+3 _APID 1,7339::106040892
+3 PAGE City: Rochester; State: New York; Year(s): 2002
 0 @I209@ INDI
 1 _XY 745 90
 1 REFN 5b65707a-97c5-44e2-94ad-dcb870b3ed6b
@@ -8356,7 +8380,7 @@
 2 CONC : 2000
 0 @S80@ SOUR
 1 TITL Calles, casas y gente del Centro Histórico de Quito [Street
-2 CONC s, houses, and people, of the historic center of Quito]
+2 CONC s, houses, and people, in the historical center of Quito]
 1 AUTH Jurado Noboa, Fernando
 1 PUBL Fonsal; Location: Quito; Date: 2004-
 0 @f0AWP7VFTda2mleQdi2Z@ SOUR
@@ -8682,6 +8706,12 @@
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2014
+0 @S84@ SOUR
+1 REPO @R1@
+1 TITL New York, New York, Births, 1910-1965
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.; Location: Lehi, UT, USA; Date
+2 CONC : 2017
 0 @AjMegeGBTpu0nJWDRMDA@ SOUR
 1 REFN e5c77eb5-c6be-4b71-b43f-8909904d0a7c
 1 REPO @R1@
@@ -9036,6 +9066,18 @@
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2007
+0 @S86@ SOUR
+1 REPO @R1@
+1 TITL U.S. Phone and Address Directories, 1993-2002
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations Inc; Location: Provo, UT, USA; Date
+2 CONC : 2005
+0 @S85@ SOUR
+1 REPO @R1@
+1 TITL U.S. Public Records Index, 1950-1993, Volume 1
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
+2 CONC e: 2010
 0 @S61@ SOUR
 1 REFN 02031712-40fa-41c6-9cb7-0983146f6e42
 1 REPO @R1@
@@ -10548,6 +10590,11 @@
 2 TITL Canada, WWI CEF Personnel Files, 1914-1918
 2 _TEXT Library and Archives Canada; Ottawa, Ontario, Canada; CEF Pe
 3 CONC rsonnel Files; Reference: RG 150; Volume: Box 5737 - 17
+0 @M68@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Lopez Media\Ne
+2 CONC w York, New York, Births, 1910-1965.jpg
+2 FORM jpg
+2 TITL New York, New York, Births, 1910-1965
 0 @N224@ NOTE affidavit, page 1
 0 @N223@ NOTE affidavit, page 2
 0 @N222@ NOTE certificate
