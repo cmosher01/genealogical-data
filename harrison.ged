@@ -3,6 +3,8 @@
 1 GEDC
 2 VERS 5.5.1
 2 FORM LINEAGE-LINKED
+1 COPR Copyright © 1998, Christopher Alan Mosher, Shelton, CT, USA.
+1 SUBM @Umy2qBWIRUiwVSS6Hcn4@
 1 SOUR FTM
 2 VERS 23.0.2.1343
 2 NAME Family Tree Maker for Windows
@@ -11,12 +13,30 @@
 4 CONT Boston, MA 02109
 3 PHON (617) 227-6681
 1 DEST FTM
-1 SUBM @m7yvyVx2SMS6qSoTV3jk@
-1 FILE Harrison_2017-10-01.ged
-1 DATE 01 OCT 2017
-2 TIME 18:36:56
-0 @m7yvyVx2SMS6qSoTV3jk@ SUBM
+1 FILE Harrison_2017-12-23.ged
+1 DATE 23 DEC 2017
+2 TIME 22:29:52
+0 @Umy2qBWIRUiwVSS6Hcn4@ SUBM
 1 NAME Christopher Alan Mosher
+2 EMAIL cmosher01@@gmail.com
+2 WWW http://mosher.mine.nu/
+2 WWW https://github.com/cmosher01/
+2 WWW https://www.ancestry.com/connect/Profile/0065664a-0000-0000-
+3 CONC 0000-000000000000
+2 ADDR 41 Brook Pine Drive
+3 CONT Shelton, Connecticut 06484-5912
+3 CONT USA
+3 ADR1 41 Brook Pine Drive
+3 ADR2 Shelton, Connecticut 06484-5912
+3 ADR3 USA
+3 CITY Shelton
+3 STAE Connecticut
+3 POST 06484-5912
+3 CTRY USA
+2 PHON +1-203-414-7716
+2 PHON +1-203-944-9487
+2 PHON +1-203-513-9292
+1 LANG English
 1 RIN Umy2qBWIRUiwVSS6Hcn4
 0 @M3PUsfj8SLKRnHuCORy3@ INDI
 1 _XY 86935 3823
@@ -15474,22 +15494,10 @@
 4 LATI N41.1724
 4 LONG W71.5578
 2 SOUR @84I6bDJeSyC6L0XXV7Sr@
+3 PAGE Town of New Shoreham (Rhode Island. USA), “Land Evidence”, 1
+4 CONC : 416–417, estate of Sarah Sands, 1709; Town Clerk's Office
+4 CONC , Block Island.
 3 QUAY 2
-3 DATA
-4 TEXT seventeenth of October, one thousand seven hundred and three
-5 CONC , and in ye second year of hur magistys Queen An of Inglan
-5 CONC d Scotland
-1 WILL
-2 DATE 17 OCT 1703
-2 PLAC Block Island, Washington, Rhode Island, USA
-3 MAP
-4 LATI N41.1724
-4 LONG W71.5578
-2 SOUR @84I6bDJeSyC6L0XXV7Sr@
-3 DATA
-4 TEXT seventeenth of October, one thousand seven hundred and three
-5 CONC , and in ye second year of hur magistys Queen An of Inglan
-5 CONC d Scotland
 1 PROB
 2 DATE 13 JUN 1709
 2 PLAC Block Island, Washington, Rhode Island, USA
@@ -15497,24 +15505,22 @@
 4 LATI N41.1724
 4 LONG W71.5578
 2 SOUR @84I6bDJeSyC6L0XXV7Sr@
-3 QUAY 2
-3 DATA
-4 TEXT June ye 13th, 1709
+3 PAGE Town of New Shoreham (Rhode Island. USA), “Land Evidence”, 1
+4 CONC : 416–417, estate of Sarah Sands, 1709; Town Clerk's Office
+4 CONC , Block Island.
 1 DEAT
 2 DATE ABT 13 JUN 1709
 2 PLAC Block Island, Washington, Rhode Island, USA
 3 MAP
 4 LATI N41.1724
 4 LONG W71.5578
+2 SOUR @84I6bDJeSyC6L0XXV7Sr@
+3 PAGE Town of New Shoreham (Rhode Island. USA), “Land Evidence”, 1
+4 CONC : 416–417, estate of Sarah Sands, 1709; Town Clerk's Office
+4 CONC , Block Island.
+3 QUAY 3
 2 SOUR @PXfI0YHYQUKRMhHLFv7r@
 3 _APID 1,7249::10032950
-2 SOUR @84I6bDJeSyC6L0XXV7Sr@
-3 QUAY 3
-3 DATA
-4 TEXT seventeenth of October, one thousand seven hundred and three
-5 CONC , and in ye second year of hur magistys Queen An of Inglan
-5 CONC d Scotland
-2 SOUR @84I6bDJeSyC6L0XXV7Sr@
 0 @fKazVMz2QlufUiMUxFK0@ INDI
 1 _XY 92827 4217
 1 REFN 512b189c-dea1-4349-874d-8d7c52781865
@@ -19979,6 +19985,377 @@
 1 REFN 11451089-6015-4b62-8b31-c0aecc411dc4
 1 TITL Land Contract, Eddy, Myron A., to Harrison, Elmer
 1 PUBL In possession of Chris Mosher
+0 @84I6bDJeSyC6L0XXV7Sr@ SOUR
+1 REFN cf8b2adc-9f81-4631-b723-575545d7897b
+1 TITL Land Evidence
+1 AUTH USA, Rhode Island, Town of New Shoreham
+1 PUBL Town Clerk's Office; Location: Block Island
+1 NOTE
+2 CONT __GEDCOM__: TEXT <?xml version="1.0" encoding="UTF-8"?>
+2 CONT <?xml-model href="http://www.tei-c.org/release/xml/tei/custo
+2 CONC m/schema/relaxng/tei_all.rng" schematypens="http://relaxng.o
+2 CONC rg/ns/structure/1.0"?>
+2 CONT <TEI xml:lang="en" xmlns="http://www.tei-c.org/ns/1.0">
+2 CONT <teiHeader>
+2 CONT <fileDesc>
+2 CONT <titleStmt>
+2 CONT <title>Sarah Sands Probate Records: a digital transcription<
+2 CONC /title>
+2 CONT </titleStmt>
+2 CONT <publicationStmt>
+2 CONT <p>Christopher A. Mosher, Shelton, CT, USA, 2017.</p>
+2 CONT </publicationStmt>
+2 CONT <sourceDesc>
+2 CONT <bibl>
+2 CONT Town of New Shoreham (Rhode Island), “Land Evidence”, 1: 416
+2 CONC –417,
+2 CONT estate of Sarah Sands, 1709; Town Clerk's Office, Block Isla
+2 CONC nd.
+2 CONT </bibl>
+2 CONT </sourceDesc>
+2 CONT </fileDesc>
+2 CONT
+2 CONT <profileDesc>
+2 CONT <particDesc>
+2 CONT <person xml:id="SarahSands"><persName><forename>Sarah</foren
+2 CONC ame><surname type="married">Sands</surname></persName></pers
+2 CONC on>
+2 CONT <person xml:id="JamesSandsSr"><persName><forename>James</for
+2 CONC ename><surname>Sands</surname></persName></person>
+2 CONT <person xml:id="EdwardSands"><persName><forename>Edward</for
+2 CONC ename><surname>Sands</surname></persName></person>
+2 CONT <person xml:id="JohnSands"><persName><forename>John</forenam
+2 CONC e><surname>Sands</surname></persName></person>
+2 CONT <person xml:id="JamesSandsJr"><persName><forename>James</for
+2 CONC ename><surname>Sands</surname></persName></person>
+2 CONT <person xml:id="SamuelSands"><persName><forename>Samuel</for
+2 CONC ename><surname>Sands</surname></persName></person>
+2 CONT <person xml:id="SarahNiles"><persName><forename>Sarah</foren
+2 CONC ame><surname type="married">Niles</surname></persName></pers
+2 CONC on>
+2 CONT <person xml:id="MercyRaymond"><persName><forename>Mercy</for
+2 CONC ename><surname type="married">Raymond</surname></persName></
+2 CONC person>
+2 CONT <person xml:id="MarySands"><persName><forename>Mary</forenam
+2 CONC e><surname type="married">Sands</surname></persName></person
+2 CONC >
+2 CONT <person xml:id="SamuelNiles"><persName><forename>Samuel</for
+2 CONC ename><surname>Niles</surname></persName></person>
+2 CONT <person xml:id="SarahNiles2"><persName><forename>Sarah</fore
+2 CONC name><surname>Niles</surname></persName></person>
+2 CONT <person xml:id="DavidBrown"><persName><forename>David</foren
+2 CONC ame><surname>Brown</surname></persName></person>
+2 CONT <person xml:id="Leano"><persName><forename>Leano</forename><
+2 CONC /persName></person>
+2 CONT <person xml:id="HannahRose"><persName><forename>Hannah</fore
+2 CONC name><surname>Rose</surname></persName></person>
+2 CONT <person xml:id="NathanielMott"><persName><forename>Nathaniel
+2 CONC </forename><surname>Mott</surname></persName></person>
+2 CONT <person xml:id="JobCard"><persName><forename>Job</forename><
+2 CONC surname>Card</surname></persName></person>
+2 CONT <person xml:id="ThomasRathbone"><persName><forename>Thomas</
+2 CONC forename><surname>Rathbone</surname></persName></person>
+2 CONT <person xml:id="SimonRay"><persName><forename>Simon</forenam
+2 CONC e><surname>Ray</surname></persName></person>
+2 CONT <person xml:id="EdwardBall"><persName><forename>Edward</fore
+2 CONC name><surname>Ball</surname></persName></person>
+2 CONT </particDesc>
+2 CONT </profileDesc>
+2 CONT </teiHeader>
+2 CONT
+2 CONT <text xml:lang="en-emodeng">
+2 CONT <body>
+2 CONT <pb type="new" n="416" />
+2 CONT <pb type="original" n="350" />
+2 CONT <head>
+2 CONT <persName ref="#SarahSands">Sarah Sands</persName> seall <gr
+2 CONC aphic url=""/> Block Island alias New Shorum
+2 CONT </head>
+2 CONT
+2 CONT <div type="will">
+2 CONT <div type="header">
+2 CONT <ab>
+2 CONT <lb/>In
+2 CONT <w xml:id="the"><choice><abbr>þ<hi rend="sup">e</hi></abbr><
+2 CONC expan>the</expan></choice></w>
+2 CONT name of God Amen I <persName ref="#SarahSands">Sarah Sands</
+2 CONC persName> of
+2 CONT <lb/><placeName>Block Island alias New Shorum in <w copyOf="
+2 CONC #the"/> Coliny of Rhod Is
+2 CONT <lb break="no"/>land and providence plantations in new ingla
+2 CONC nd</placeName>
+2 CONT <lb/>being aged and weake in body but of sound and
+2 CONT <lb/>perfect memory praise be given to almighty
+2 CONT <lb/>God for <w copyOf="#the"/> same and knowing <w copyOf="
+2 CONC #the"/> unsertainty of this
+2 CONT <lb/>life one Earth and being desireous to settel things
+2 CONT <lb/>in order before my death dow make this my last
+2 CONT <lb/>will and testament in maner and forme foloing
+2 CONT </ab>
+2 CONT </div>
+2 CONT <div type="overview">
+2 CONT <div type="dower">
+2 CONT <ab>
+2 CONT <lb/>I being wife to
+2 CONT <persName ref="#JamesSandsSr">
+2 CONT <roleName type="honorific" full="abb">
+2 CONT <choice><abbr>M<hi rend="sup">r</hi></abbr><expan>Mister</ex
+2 CONC pan></choice>
+2 CONT </roleName>
+2 CONT James Sands
+2 CONT </persName>
+2 CONT deseased and
+2 CONT <lb/>made sole executrix by my
+2 CONT <w xml:id="said"><choice><abbr>sd</abbr><expan>said</expan><
+2 CONC /choice></w>
+2 CONT husband as by will
+2 CONT <lb/>bareing date
+2 CONT <date calendar="julian" datingMethod="julian" when-custom="1
+2 CONC 694-06-18">
+2 CONT June <w copyOf="#the"/> 18<hi rend="sup">th</hi> 1694
+2 CONT </date>
+2 CONT may plainly appear
+2 CONT </ab>
+2 CONT </div>
+2 CONT <div type="soul">
+2 CONT <ab>
+2 CONT <lb/>that is to saye first and prinsipally I commend my
+2 CONT <lb/>soul to allmity God my creatur assueredly be<pc force="
+2 CONC weak">-</pc>
+2 CONT <lb break="no"/>leiving that I shall receive full pardon an
+2 CONC d free
+2 CONT <lb/>remision of all my sins and be savid by <w copyOf="#the
+2 CONC "/> presi
+2 CONT <lb break="no"/>ous death and merits of my blesed saviour an
+2 CONC d re
+2 CONT <lb break="no"/>deamer Christ Jesus
+2 CONT </ab>
+2 CONT </div>
+2 CONT <div type="body">
+2 CONT <ab>
+2 CONT and my body to <w copyOf="#the"/> earth from
+2 CONT <lb/>whence it was first tacken to be buried in such dease
+2 CONT <seg type="turnover"><lb/><pc force="weak">(</pc>nt</seg>
+2 CONT <lb/>and Christian maner as to my <rs type="person" ref="#Ed
+2 CONC wardSands">executer</rs> hearafter
+2 CONT <lb/>named shall be thought most meet and convenient
+2 CONT </ab>
+2 CONT </div>
+2 CONT <div type="estate">
+2 CONT <ab>
+2 CONT <lb/>and as touching such worldly <seg xml:id="estate">estat
+2 CONC e</seg> as <w copyOf="#the"/> Lord in
+2 CONT <lb/>marcy hath lent me my will and meaning is <seg corresp=
+2 CONC "#estate"><w copyOf="#the"/>
+2 CONT <lb/>same</seg> shall be impleied and bestowed as hear
+2 CONT <lb break="no"/>after by this my will is exspresed
+2 CONT </ab>
+2 CONT </div>
+2 CONT <div type="revoke">
+2 CONT <ab>
+2 CONT and first I dow
+2 CONT <lb/>renounce revock <choice><orig>floustarate</orig><reg>fr
+2 CONC ustrate</reg></choice> and make void all
+2 CONT <lb/>wills by me formerly made and declared and apoint
+2 CONT <lb/>this my last will and testament in maner and form
+2 CONT <lb/>following
+2 CONT </ab>
+2 CONT </div>
+2 CONT </div>
+2 CONT <div n="1" type="item">
+2 CONT <ab>
+2 CONT Itum furst I give and bequea<subst><del>f</del><add type="ov
+2 CONC erwrite">th</add></subst> and
+2 CONT <lb/>my will is that all my debts and funarall charg
+2 CONT <seg type="turnover"><lb/><pc force="weak">(</pc>es</seg>
+2 CONT <lb/>be payed and discharged
+2 CONT </ab>
+2 CONT </div>
+2 CONT <div n="2" type="item">
+2 CONT <ab>
+2 CONT Item 2ly I give and
+2 CONT <lb/>prins<subst><del rend="overstrike">e</del><add type="ov
+2 CONC erwrite">a</add></subst>pelly
+2 CONT make my youngest sonn <persName ref="#EdwardSands">Edward Sa
+2 CONC nds</persName>
+2 CONT <lb/>my sole executor of all my hole estate both catell shee
+2 CONC p
+2 CONT <lb/>hors coyne and housal stuf or what so ever I shall leav
+2 CONC e
+2 CONT <lb/>at my death exsepting and reserving what is hear
+2 CONT <lb break="no"/>after mentioned which is five cows and one h
+2 CONC un
+2 CONT <lb break="no"/>dred sheep which my will is that thay shal
+2 CONC l be e
+2 CONT <lb break="no"/>quilly devided amoungst my five children whi
+2 CONC ch
+2 CONT <lb/>are as followeth
+2 CONT <persName ref="#JohnSands">John Sands</persName>
+2 CONT <persName ref="#JamesSandsJr">James Sands</persName>
+2 CONT <persName ref="#SamuelSands">Samuel<lb/>Sands</persName> and
+2 CONT <persName ref="#SarahNiles">Sarah Niels</persName> and
+2 CONT <persName ref="#MercyRaymond">Marcy Ramond</persName> and
+2 CONT <lb/>dow freely give and bequea<unclear>f</unclear>e to eac
+2 CONC h of them
+2 CONT <pb type="new" n="417" />
+2 CONT <pb type="original" n="351" />
+2 CONT <fw type="pageNum" place="top" rend="center">351</fw>
+2 CONT <lb/>all former gifts or monys due to me from them all
+2 CONT <lb break="no"/>ways
+2 CONT
+2 CONT provided that <persName ref="#JamesSandsJr">James Sands</per
+2 CONC sName> doth forever aqui<unclear>r</unclear>
+2 CONT <seg type="turnover"><lb/><unclear>e</unclear></seg>
+2 CONT <lb/>any protended <del rend="overstrike"><unclear>or</uncle
+2 CONC ar></del> right or clame of asertain<pc>:</pc> ne
+2 CONT <lb break="no"/>gero woman comanly caled by <w copyOf="#the"
+2 CONC /> name of <persName ref="#Leano">Leano</persName> <pc>- -</
+2 CONC pc>
+2 CONT <lb/>bought of <persName ref="#DavidBrown">David Broun</pers
+2 CONC Name>
+2 CONT otherways <w copyOf="#the"/> <w copyOf="#said"/> <persName r
+2 CONC ef="#JamesSandsJr">James
+2 CONT <lb/>Sands</persName> shall paye to <w copyOf="#the"/> perso
+2 CONC n home shall be dispose
+2 CONT <seg type="turnover"><lb/><pc force="weak">(</pc>s</seg>
+2 CONT <lb break="no"/>ed of <w copyOf="#said"/> <rs type="person
+2 CONC " ref="#Leano">neagore woman</rs> by <w copyOf="#said"/> <pe
+2 CONC rsName ref="#JamesSandsJr">Sands</persName> meanes
+2 CONT <lb/>twenty pounds currant mony which he <w copyOf="#the"/
+2 CONC > <w copyOf="#said"/> <persName ref="#JamesSandsJr">James
+2 CONT <lb/>Sands</persName> hath allredy reseived of me tenn pound
+2 CONC s by
+2 CONT <lb/>his brother <persName ref="#JohnSands">John Sands</pers
+2 CONC Name> and tenn pounds of <rs type="person" ref="#SarahSands"
+2 CONC >myself</rs>
+2 CONT <lb/>in wool and cheas and butter which <rs type="person" re
+2 CONC f="#JamesSandsJr">he</rs> hath received
+2 CONT <lb/>upon <w copyOf="#the"/> acounte of <w copyOf="#said"/
+2 CONC > <rs type="person" ref="#Leano">negero</rs>
+2 CONT </ab>
+2 CONT </div>
+2 CONT <div n="3" type="item">
+2 CONT <ab>
+2 CONT Itum 3 I give to
+2 CONT <lb/>my grandaughter <persName ref="#SarahNiles2">Sarah Niel
+2 CONC s</persName> one good fether beed
+2 CONT <lb/>and bolster and tow pillows and one blancket
+2 CONT </ab>
+2 CONT </div>
+2 CONT <div n="4" type="item">
+2 CONT <ab>
+2 CONT Itum
+2 CONT <lb/>4 I give to my daughter <persName ref="#MercyRaymond">M
+2 CONC arcy Ramond</persName> one good
+2 CONT <lb/>larg chest onely what goods shall be left in <w copyOf=
+2 CONC "#said"/> chest
+2 CONT <lb/>shall be equilly devided betwene hurself and my
+2 CONT <lb/>daughter in law <persName ref="#MarySands">Mary Sands</
+2 CONC persName> wife to my sonn
+2 CONT <lb/><persName ref="#EdwardSands">Edward Sands</persName>
+2 CONT </ab>
+2 CONT </div>
+2 CONT <div n="5" type="item">
+2 CONT <ab>
+2 CONT Itum 5 I give to my tow daughters
+2 CONT <lb/><persName ref="#SarahNiles">Sarah Niels</persName> an
+2 CONC d <persName ref="#MercyRaymond">Marcy Ramond</persName> eac
+2 CONC h of them a
+2 CONT <lb/>good larg puter platter apease
+2 CONT </ab>
+2 CONT </div>
+2 CONT <div type="residue">
+2 CONT <ab>
+2 CONT all <w copyOf="#the"/> rest of my <w copyOf="#said"/>
+2 CONT <lb/><seg corresp="#estate">estate</seg> I dow freely give u
+2 CONC nto my executor <persName ref="#EdwardSands">Ed
+2 CONT <lb break="no"/>ward Sands</persName> him and his hayors for
+2 CONC ever
+2 CONT </ab>
+2 CONT </div>
+2 CONT <div type="execution">
+2 CONT <ab>
+2 CONT as<pc> - -</pc>
+2 CONT <lb/>witness my hand and seall this
+2 CONT <date calendar="julian" datingMethod="julian" when-custom="1
+2 CONC 703-10-17">
+2 CONT sevent<subst><del>h</del><add type="overwrite">eenth</add></
+2 CONC subst>
+2 CONT <lb/>of October one thousand seven hundred and<lb/>three
+2 CONT </date>
+2 CONT and
+2 CONT <date datingMethod="EnglandRegnalYear" when-custom="2 Anne">
+2 CONT in <w copyOf="#the"/> second year of hur magistys
+2 CONT <lb/>Queen An of Ingland Scotland
+2 CONT </date>
+2 CONT <pc>¶</pc>
+2 CONT <lb/>
+2 CONT <lb/><persName ref="#SarahSands">Sarah Sands</persName> hu
+2 CONC r seall <graphic url=""/>
+2 CONT </ab>
+2 CONT </div>
+2 CONT <div type="witness">
+2 CONT <p>
+2 CONT <lb/>signed sealed and delivered in presence of<lb/>us
+2 CONT <lb/><persName ref="#SamuelNiles">Samuel Niels</persName>
+2 CONT <lb/><persName ref="#HannahRose">Hanah Rose</persName> hur m
+2 CONC ark H
+2 CONT <lb/><persName ref="#NathanielMott">Nathell Mot</persName>
+2 CONT </p>
+2 CONT </div>
+2 CONT </div>
+2 CONT <div type="certified">
+2 CONT <p>
+2 CONT <lb/>A tru copy taken
+2 CONT <lb/>out of <w copyOf="#the"/> origanall
+2 CONT <lb/>will by me <persName ref="#JobCard">Job
+2 CONT <lb/>Card <roleName type="office">Town
+2 CONT <lb/>Clark</roleName></persName>
+2 CONT </p>
+2 CONT </div>
+2 CONT <div type="proved">
+2 CONT <p>
+2 CONT <lb/>At a meeting at <w copyOf="#the"/> hous of <persName re
+2 CONC f="#EdwardBall">Edward Ball</persName>s
+2 CONT <lb/>by <w copyOf="#the"/> Town Counsell of Shorum
+2 CONT <date calendar="julian" datingMethod="julian" when-custom="1
+2 CONC 709-06-13">
+2 CONT June <w copyOf="#the"/> 13<hi rend="sup">th</hi><lb/>1709
+2 CONT </date>
+2 CONT <persName ref="#SamuelNiles">Samuel Niels</persName> of King
+2 CONC stown and
+2 CONT <lb/><persName ref="#NathanielMott">Nathanal Mott</persName
+2 CONC > of Shorum both of <w copyOf="#the"/> Coliny
+2 CONT <lb/>of Rhod Island personaly apearing before
+2 CONT <lb/>us and testifeeing upon oath that <w copyOf="#the"/> <r
+2 CONC s type="person" ref="#SarahSands">tes
+2 CONT <lb break="no"/>tater</rs> was in her per<subst><del><gap re
+2 CONC ason="overwriting illegible" quantity="1" unit="chars"/></de
+2 CONC l><add type="overwrite">p</add></subst>het mind and
+2 CONT <lb/>memory at <w copyOf="#the"/> signings
+2 CONT <lb/>and sealing of this tes
+2 CONT <lb break="no"/>tament
+2 CONT </p>
+2 CONT <p>
+2 CONT <lb/>as atested by us
+2 CONT <lb/><persName ref="#SimonRay">Simon Ray <roleName type="off
+2 CONC ice">Ward<unclear>en</unclear></roleName></persName>
+2 CONT <lb/>and <persName ref="#EdwardBall">Edward Ball <roleName t
+2 CONC ype="office">War<unclear>den</unclear></roleName></persName>
+2 CONT </p>
+2 CONT <p>
+2 CONT <lb/><persName ref="#SimonRay">Simon Ray</persName>
+2 CONT <lb/><persName ref="#JobCard">Job Card</persName>
+2 CONT <lb/><persName ref="#ThomasRathbone">Thomas Rathbon</persNam
+2 CONC e>
+2 CONT </p>
+2 CONT </div>
+2 CONT
+2 CONT </body>
+2 CONT </text>
+2 CONT
+2 CONT </TEI>
+2 CONT __GEDCOM__
 0 @sAdcjQl0SMmGcU30tv9D@ SOUR
 1 REFN 206793b0-0a61-4940-91d0-a8d683f83e1e
 1 TITL Leise Family Tree
@@ -21861,108 +22238,6 @@
 2 CONC n[] [Simon Ray &] Joshua Raymond hath [] & [took] oath tha
 2 CONC t this [instrument] was an [official] []</td></tr>
 2 CONT </table>
-0 @84I6bDJeSyC6L0XXV7Sr@ SOUR
-1 REFN cf8b2adc-9f81-4631-b723-575545d7897b
-1 TITL Will, Walker, Sarah (copy), in New Shoreham Land Evidence Re
-2 CONC cords vol. 1, pp. 416-417
-1 AUTH Town of New Shoreham, RI, USA
-1 PUBL Town Hall, Block Island, RI, USA
-1 TEXT [Capitalization, punctuation, and paragraphing added.
-2 CONT All spelling reproduced sic.]<br />
-2 CONT <br />
-2 CONT <table border="1">
-2 CONT <tr><td>&nbsp;</td><td>Sarah Sands seall X Block Island alia
-2 CONC s New Shorum.</td></tr>
-2 CONT <tr><td>&nbsp;</td><td>In ye name of God, amen, I, Sarah San
-2 CONC ds of Block Island alias New Shorum in ye coliny of Rhod Isl
-2 CONC and and Providence Plantations in New Ingland, being aged an
-2 CONC d weake in body but of sound and perfect memory praise be gi
-2 CONC ven to almighty God for ye same, and knowing ye unsertaint
-2 CONC y of this life one Earth, and being desireous to settel thin
-2 CONC gs in order before my death, dew make this my last will an
-2 CONC d testament in maner and forme foloing:</td></tr>
-2 CONT <tr><td>&nbsp;</td><td>I, being wife to Mr. James Sands dese
-2 CONC ased, and made sole executrix by my sd. husband as by will b
-2 CONC areing date June ye 18th, 1694, may plainly appear, that i
-2 CONC s to saye, first and prinsipally I commend my soul to almit
-2 CONC y God my creatur, assueredly beleiving that I shall receiv
-2 CONC e full pardon and free remision of all my sins and be savi
-2 CONC d by ye presious death and merits of my blesed saviour and r
-2 CONC edeamer Christ Jesus; and my body to ye earth from whence i
-2 CONC t was first tacken, to be buried in such deasent and Christi
-2 CONC an maner as to my executer hearafter named shall be though
-2 CONC t most meet and convenient; and, as touching such worldly es
-2 CONC tate as ye Lord in marcy hath lent me, my will and meaning i
-2 CONC s ye same shall be impleied and bestowed as hearafter by thi
-2 CONC s my will is exspresed; and first I dew renounce, revock, fl
-2 CONC oustarate, and make void, all wills by me formerly made an
-2 CONC d declared, and apoint this my last will and testament in ma
-2 CONC ner and form following:</td></tr>
-2 CONT <tr><td>&nbsp;</td><td>Itum furst: I give and bequeath and m
-2 CONC y will is that all my debts and funarall charges be payed an
-2 CONC d discharged.</td></tr>
-2 CONT <tr><td>&nbsp;</td><td>Item 2ly: I give and prinsepally mak
-2 CONC e my youngest sonn Edward Sands my sole executor of all my h
-2 CONC ole estate both catell, sheep, hors coynd, and hous al stuf
-2 CONC , or what so ever I shall heave at my death, exsepting and r
-2 CONC eserving what is hearafter mentioned, which is five cows an
-2 CONC d one hundred sheep which my will is that thay shall be equi
-2 CONC lly devided amoungst my five children which are as followeth
-2 CONC : John Sands, James Sands, Samuel Sands, and Sarah Niels, an
-2 CONC d Marcy Ramond; and dew freely give and bequeayd to each o
-2 CONC f them all former gifts or monys due to me from them allways
-2 CONC ; provided that James Sands doth forever aquire any protende
-2 CONC d right or clame of a sertain negero woman comanly caled b
-2 CONC y ye name of Leana, bought of David Broun, otherways ye sd
-2 CONC . James Sands shall paye to ye person home shall be disposes
-2 CONC ed of sd. neagore woman by sd. Sands meanes twenty pounds cu
-2 CONC rrant mony which he ye sd. James Sands hath allredy reseive
-2 CONC d of me tenn pounds by his brother John Sands and tenn pound
-2 CONC s of myself in wool and cheas and butter which he hath recei
-2 CONC ved upon ye acounte of sd. negero.</td></tr>
-2 CONT <tr><td>&nbsp;</td><td>Itum 3: I give to my grandaughter Sar
-2 CONC ah Niels one good fether beed and bolster and tow pillows an
-2 CONC d one blancket.</td></tr>
-2 CONT <tr><td>&nbsp;</td><td>Itum 4: I give to my daughter Marcy R
-2 CONC amond one good larg chest onely what goods shall be left i
-2 CONC n sd. chest shall be equilly devided betwene hurself and m
-2 CONC y daughter-in-law Mary Sands wife to my sonn Edward Sands.</
-2 CONC td></tr>
-2 CONT <tr><td>&nbsp;</td><td>Itum 5: I give to my tow daughters Sa
-2 CONC rah Niels and Marcy Ramond each of them a good larg puter pl
-2 CONC atter apease.</td></tr>
-2 CONT <tr><td>&nbsp;</td><td>All ye rest of my sd. estate I dew fr
-2 CONC eely give unto my executor Edward Sands, him and his hayors
-2 CONC , forever.</td></tr>
-2 CONT <tr><td>&nbsp;</td><td>As witness my hand and seall, this se
-2 CONC venteenth of October, one thousand seven hundred and three
-2 CONC , and in ye second year of hur magistys Queen An of Inglan
-2 CONC d Scotland.</td></tr>
-2 CONT </table>
-2 CONT <br />
-2 CONT Signed sealed and delivered in presence of us.<br />
-2 CONT Sarah Sands hur seall X<br />
-2 CONT Samuel Niels<br />
-2 CONT Hanah Rose hur mark H<br />
-2 CONT Nathell Mot<br />
-2 CONT <br />
-2 CONT <table border="1">
-2 CONT <tr><td>&nbsp;</td><td>At a meeting at ye hous of Edward Bal
-2 CONC l by ye Town Counsell of Shorum June ye 13th, 1709, Samuel N
-2 CONC iels of Kingstown and Nathanal Mott of Shorum both of ye Col
-2 CONC iny of Rhod Island personaly apearing before us and testifee
-2 CONC ing upon oath that ye testater was in her perphet mind and m
-2 CONC emory at ye signing and sealing of this testament.</td></tr>
-2 CONT </table>
-2 CONT <br />
-2 CONT As atested by us Simon Ray, Warden, and Edward Ball, Warden.
-2 CONC <br />
-2 CONT Simon Ray<br />
-2 CONT Thomas Rathbon<br />
-2 CONT Job Card<br />
-2 CONT <br />
-2 CONT A tru copy taken out of ye origanall will by me Job Card, To
-2 CONC wn Clark.<br />
 0 @c8zP0SZpTVeQ3PmqU7u3@ SOUR
 1 REFN 5cb4af32-bbf7-44b3-9a89-eab8aec0ca62
 1 TITL Williamson Family
