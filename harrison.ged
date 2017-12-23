@@ -15,7 +15,7 @@
 1 DEST FTM
 1 FILE Harrison_2017-12-23.ged
 1 DATE 23 DEC 2017
-2 TIME 22:29:52
+2 TIME 22:51:17
 0 @Umy2qBWIRUiwVSS6Hcn4@ SUBM
 1 NAME Christopher Alan Mosher
 2 EMAIL cmosher01@@gmail.com
@@ -15494,7 +15494,7 @@
 4 LATI N41.1724
 4 LONG W71.5578
 2 SOUR @84I6bDJeSyC6L0XXV7Sr@
-3 PAGE Town of New Shoreham (Rhode Island. USA), “Land Evidence”, 1
+3 PAGE Town of New Shoreham (Rhode Island, USA), “Land Evidence”, 1
 4 CONC : 416–417, estate of Sarah Sands, 1709; Town Clerk's Office
 4 CONC , Block Island.
 3 QUAY 2
@@ -15505,7 +15505,7 @@
 4 LATI N41.1724
 4 LONG W71.5578
 2 SOUR @84I6bDJeSyC6L0XXV7Sr@
-3 PAGE Town of New Shoreham (Rhode Island. USA), “Land Evidence”, 1
+3 PAGE Town of New Shoreham (Rhode Island, USA), “Land Evidence”, 1
 4 CONC : 416–417, estate of Sarah Sands, 1709; Town Clerk's Office
 4 CONC , Block Island.
 1 DEAT
@@ -15515,7 +15515,7 @@
 4 LATI N41.1724
 4 LONG W71.5578
 2 SOUR @84I6bDJeSyC6L0XXV7Sr@
-3 PAGE Town of New Shoreham (Rhode Island. USA), “Land Evidence”, 1
+3 PAGE Town of New Shoreham (Rhode Island, USA), “Land Evidence”, 1
 4 CONC : 416–417, estate of Sarah Sands, 1709; Town Clerk's Office
 4 CONC , Block Island.
 3 QUAY 3
@@ -19990,8 +19990,7 @@
 1 TITL Land Evidence
 1 AUTH USA, Rhode Island, Town of New Shoreham
 1 PUBL Town Clerk's Office; Location: Block Island
-1 NOTE
-2 CONT __GEDCOM__: TEXT <?xml version="1.0" encoding="UTF-8"?>
+1 TEXT <?xml version="1.0" encoding="UTF-8"?>
 2 CONT <?xml-model href="http://www.tei-c.org/release/xml/tei/custo
 2 CONC m/schema/relaxng/tei_all.rng" schematypens="http://relaxng.o
 2 CONC rg/ns/structure/1.0"?>
@@ -20355,7 +20354,6 @@
 2 CONT </text>
 2 CONT
 2 CONT </TEI>
-2 CONT __GEDCOM__
 0 @sAdcjQl0SMmGcU30tv9D@ SOUR
 1 REFN 206793b0-0a61-4940-91d0-a8d683f83e1e
 1 TITL Leise Family Tree
