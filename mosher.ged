@@ -3,6 +3,8 @@
 1 GEDC
 2 VERS 5.5.1
 2 FORM LINEAGE-LINKED
+1 COPR Copyright © 1998, Christopher Alan Mosher, Shelton, CT, USA.
+1 SUBM @Umy2qBWIRUiwVSS6Hcn4@
 1 SOUR FTM
 2 VERS 23.0.2.1343
 2 NAME Family Tree Maker for Windows
@@ -11,12 +13,30 @@
 4 CONT Boston, MA 02109
 3 PHON (617) 227-6681
 1 DEST FTM
-1 SUBM @Mq6jpaQNR5CMneAx4KXo@
-1 FILE Mosher_2017-10-04.ged
-1 DATE 04 OCT 2017
-2 TIME 03:35:52
-0 @Mq6jpaQNR5CMneAx4KXo@ SUBM
+1 FILE Mosher_2017-12-31.ged
+1 DATE 31 DEC 2017
+2 TIME 22:39:46
+0 @Umy2qBWIRUiwVSS6Hcn4@ SUBM
 1 NAME Christopher Alan Mosher
+2 EMAIL cmosher01@@gmail.com
+2 WWW http://mosher.mine.nu/
+2 WWW https://github.com/cmosher01/
+2 WWW https://www.ancestry.com/connect/Profile/0065664a-0000-0000-
+3 CONC 0000-000000000000
+2 ADDR 41 Brook Pine Drive
+3 CONT Shelton, Connecticut 06484-5912
+3 CONT USA
+3 ADR1 41 Brook Pine Drive
+3 ADR2 Shelton, Connecticut 06484-5912
+3 ADR3 USA
+3 CITY Shelton
+3 STAE Connecticut
+3 POST 06484-5912
+3 CTRY USA
+2 PHON +1-203-414-7716
+2 PHON +1-203-944-9487
+2 PHON +1-203-513-9292
+1 LANG English
 1 RIN Umy2qBWIRUiwVSS6Hcn4
 0 @G9wsDndtSnmhUlczYoI8@ INDI
 1 _XY 9416 249
@@ -71,7 +91,7 @@
 4 LONG W71.0603
 2 SOUR @lYr7kPYrRx2kDzIqcySz@
 3 QUAY 1
-2 NOTE os hip "William and Francis"
+2 NOTE on ship "William and Francis"
 1 DEAT
 2 DATE BET 1655 AND 1680
 2 PLAC Yarmouth, Barnstable, Massachusetts, USA
@@ -5387,6 +5407,41 @@
 3 MAP
 4 LATI N41.6023
 4 LONG W71.2503
+2 SOUR @S176@
+3 _LINK https://archive.org/details/earlyrecordsofto00port
+3 PAGE <bibl>     [<editor>Clarence S. Brigham</editor>], editor
+4 CONC ,     <title level="m">The Early Records of the Town of Port
+4 CONC smouth [Rhode Island, USA]</title>,     (<pubPlace>Providenc
+4 CONC e, RI, USA</pubPlace>: <publisher>E. L. Freeman &amp; Sons</
+4 CONC publisher>, <date>1901</date>),     <citedRange>150</citedRa
+4 CONC nge>;     citing     <author>Town of Portsmouth (Rhode Islan
+4 CONC d, USA)</author>,     <title level="u">Town Council [and oth
+4 CONC er misc.] Records</title>,     <citedRange>vol. 1 (1639–1697
+4 CONC ): 146</citedRange>;     digital images,     <title level="m
+4 CONC ">Internet Archive</title>     (<ref target="https://archive
+4 CONC .org/details/earlyrecordsofto00port"/> : accessed 31 Dec 201
+4 CONC 7). </bibl>
+3 DATA
+4 TEXT <text xml:lang="en">
+5 CONT <body>
+5 CONT <head>
+5 CONT <lb/>At a Meettinge of the ffree-Inhabitants of portsmouth
+5 CONT <lb/>the:
+5 CONT <date calendar="julian" datingMethod="julian" when-custom="1
+5 CONC 669-10-16">
+5 CONT 16<hi rend="sup">th</hi> of October. <hi rend="underline">16
+5 CONC 69</hi>
+5 CONT </date>
+5 CONT </head>
+5 CONT <p>
+5 CONT <lb/>m<hi rend="sup">r</hi> William Baulston chossen Moderat
+5 CONC or for this meettinge:
+5 CONT <lb/>Anthony Shaw, Hugh Moissier, and John pinner are admitt
+5 CONC ed
+5 CONT <lb/>ffreemen
+5 CONT </p>
+5 CONT </body>
+5 CONT </text>
 2 SOUR @BPVPXOPuQ7uv2cdscTbO@
 3 PAGE p. 146
 3 QUAY 3
@@ -17142,6 +17197,12 @@
 2 CONT <br />
 2 CONT Ruth Roberts Coker<br />
 2 CONT Arlington, TX<br />
+0 @S176@ SOUR
+1 TITL Early Records of the Town of Portsmouth [Rhode Island, USA]
+2 CONC , The
+1 AUTH Clarence S. Brigham
+1 PUBL E. L. Freeman & Sons; Location: Providence, RI, USA; Date: 1
+2 CONC 901
 0 @3y9bKxGuT62fnO88lLx3@ SOUR
 1 REFN 22c670b2-098a-4bea-9f49-b2371ae5091e
 1 REPO @qoiFARVHSJOlOdzOUsT9@
