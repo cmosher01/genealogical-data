@@ -15,7 +15,7 @@
 1 DEST FTM
 1 FILE Mosher_2018-01-01.ged
 1 DATE 01 JAN 2018
-2 TIME 19:36:12
+2 TIME 21:06:26
 0 @Umy2qBWIRUiwVSS6Hcn4@ SUBM
 1 NAME Christopher Alan Mosher
 2 EMAIL cmosher01@@gmail.com
@@ -5561,6 +5561,20 @@
 3 MAP
 4 LATI N41.3776
 4 LONG W71.8273
+2 SOUR @S177@
+3 _LINK https://archive.org/details/cu31924028840011
+3 PAGE <bibl>     <author>J. R. Cole</author>,     <title level="m"
+4 CONC >History of Washington and Kent Counties, Rhode Island, incl
+4 CONC uding their early settlement and progress to the present tim
+4 CONC e; a description of their historic and interesting localitie
+4 CONC s; sketches of their towns and villages; portraits of some o
+4 CONC f their prominent men, and biographies of many of their repr
+4 CONC esentative citizens</title>     (<pubPlace>New York</pubPlac
+4 CONC e>: <publisher>W. W. Preston &amp; Co.</publisher>, <date>18
+4 CONC 89</date>),     <citedRange>243–245</citedRange>;     imag
+4 CONC e copy,     <title level="m">Internet Archive</title>     (<
+4 CONC ref target="https://archive.org/details/cu31924028840011"/
+4 CONC > : accessed 1 Jan 2018). </bibl>
 2 SOUR @jZMYr27IR9mVIf92aqy3@
 3 QUAY 1
 2 NOTE Land was the original purchase of Westerly, RI,
@@ -17569,6 +17583,11 @@
 1 ADDR
 1 EMAIL
 1 PHON
+0 @R3@ REPO
+1 NAME Internet Archive
+1 ADDR https://archive.org/
+1 EMAIL info@@archive.org
+1 PHON +1-415-561-6767
 0 @9jhPyuNjT7Crw4hkg6Gj@ SOUR
 1 REFN 4ce69e52-b9c8-415f-b515-4218aa9b9a33
 1 REPO @qoiFARVHSJOlOdzOUsT9@
@@ -18227,6 +18246,8 @@
 2 CONT Arlington, TX<br />
 0 @S176@ SOUR
 1 REFN d18e1abf-03fa-41ac-acf8-c3ca4c7b8dd3
+1 REPO @R3@
+2 CALN 31833000847696
 1 TITL Early Records of the Town of Portsmouth [Rhode Island, USA]
 2 CONC , The
 1 AUTH Clarence S. Brigham
@@ -18334,6 +18355,13 @@
 1 TITL Hampton, N.H. Area Genealogy
 1 AUTH Lane Memorial Library, Hampton, NH, USA
 1 PUBL http://www.hampton.lib.nh.us/genealog/
+0 @S177@ SOUR
+1 REFN 9b42c86d-a1a2-4baa-9d93-7be522ac1ed0
+1 REPO @R3@
+2 CALN F87.W3 C6
+1 TITL History of Washington and Kent Counties, Rhode Island
+1 AUTH J. R. Cole
+1 PUBL W. W. Preston & Co.; Location: New York; Date: 1889
 0 @FAZkd3k4TA6n5YAQ6nj3@ SOUR
 1 REFN 68848bcd-51e9-4968-8b50-2d3b05bc7e58
 1 TITL Interments, Record of, Flandreau, Elijah P
