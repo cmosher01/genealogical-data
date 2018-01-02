@@ -13,9 +13,9 @@
 4 CONT Boston, MA 02109
 3 PHON (617) 227-6681
 1 DEST FTM
-1 FILE Mosher_2018-01-01.ged
-1 DATE 01 JAN 2018
-2 TIME 21:22:10
+1 FILE Mosher_2018-01-02.ged
+1 DATE 02 JAN 2018
+2 TIME 23:31:49
 0 @Umy2qBWIRUiwVSS6Hcn4@ SUBM
 1 NAME Christopher Alan Mosher
 2 EMAIL cmosher01@@gmail.com
@@ -5091,14 +5091,6 @@
 3 PAGE p. 1
 3 QUAY 1
 2 NOTE with John Maxson (Westerly is assumed)
-1 EVEN
-2 TYPE member
-2 DATE 1680
-2 PLAC Tiverton Baptist Church, 7 Old Stone Church Road, Tiverton
-3 CONC , Newport, Rhode Island, USA
-2 SOUR @CNCZKGpeSrKJ6BUTT9Hu@
-3 PAGE p. 1
-3 QUAY 1
 1 DEAT
 2 DATE ABT 1680
 2 PLAC Tiverton, Newport, Rhode Island, USA
@@ -5108,6 +5100,14 @@
 2 SOUR @kOQuH9mwRDqTOZLdOU6s@
 2 NOTE IGI and Pedigree Resource File also give 2 Feb 1717/8, whic
 3 CONC h would make her 104 years old, and so is probably wrong.
+1 EVEN First Baptist Society in Tiverton
+2 TYPE member
+2 DATE ABT 1683
+2 PLAC Tiverton Baptist Church, 7 Old Stone Church Road, Tiverton
+3 CONC , Newport, Rhode Island, USA
+2 SOUR @CNCZKGpeSrKJ6BUTT9Hu@
+3 PAGE p. 1
+3 QUAY 1
 0 @PxJWQm2AS6ScWY2BywNL@ INDI
 1 _XY 7276 404
 1 REFN 5db36a01-3d4a-473a-9ed6-764db651fac8
@@ -5319,9 +5319,9 @@
 5 CONT </p>
 5 CONT </body>
 5 CONT </text>
-1 EVEN
+1 EVEN First Baptist Society in Tiverton
 2 TYPE member
-2 DATE 1680
+2 DATE ABT 1683
 2 PLAC Tiverton Baptist Church, 7 Old Stone Church Road, Tiverton
 3 CONC , Newport, Rhode Island, USA
 2 SOUR @CNCZKGpeSrKJ6BUTT9Hu@
@@ -6499,15 +6499,47 @@
 5 CONT </p>
 5 CONT </body>
 5 CONT </text>
-1 OCCU pastor
-2 DATE 1680
+1 OCCU first minister on the First Baptist Society in Tiverton
+2 DATE ABT 1683
 2 PLAC Tiverton Baptist Church, 7 Old Stone Church Road, Tiverton
 3 CONC , Newport, Rhode Island, USA
 2 SOUR @CNCZKGpeSrKJ6BUTT9Hu@
 3 PAGE p. 1
 3 QUAY 1
+2 SOUR @S178@
+3 _LINK https://www.nps.gov/nr/feature/places/pdfs/13000569.pdf
+3 PAGE <bibl> <author>Joanna M. Doherty (Senior Architectural Histo
+4 CONC rian, Rhode Island Historical Preservation and Heritage Comm
+4 CONC ission, Providence, RI, USA)</author>, <title level="u">Nati
+4 CONC onal Register of Historic Places Registration Form, First Ba
+4 CONC ptist Church of Tiverton, Rhode Island</title>, <citedRange>
+4 CONC p. 14</citedRange>; 22 May 2013 form completed; digital cop
+4 CONC y archived <title level="a">2013–2016 Weekly Lists</title>
+4 CONC , database with images, <title level="m">National Register o
+4 CONC f Historic Places</title> (<ref target="https://www.nps.gov/
+4 CONC nr/feature/places/pdfs/13000569.pdf"/> : accessed 1 Jan 2018
+4 CONC ), entry for reference #13000569, First Baptist Church of Ti
+4 CONC verton, listed 30 Jul 2013. </bibl>
+3 DATA
+4 TEXT The church was organized by John Cooke, who had come to Plym
+5 CONC outh
+5 CONT Colony as a child on the Mayflower and was expelled from th
+5 CONC e Pilgrim church in Plymouth in
+5 CONT 1654 for “the error of Anabaptistry”. Cooke relocated to Dar
+5 CONC tmouth, joined the Baptist Church in
+5 CONT Newport and then, sometime between 1680 and 1685, gathered f
+5 CONC ellow members from Little
+5 CONT Compton, Dartmouth and present-day Tiverton to form a new re
+5 CONC ligious society, with Hugh
+5 CONT Mosier (or Mosher) as minister. This society, which eventual
+5 CONC ly became known as the First
+5 CONT Baptist Society in Tiverton, was therefore among the earlies
+5 CONC t to be established in America; the
+5 CONT 19th-century Baptist historian David Benedict states that i
+5 CONC t is the ninth-oldest Baptist
+5 CONT congregation in the country.
 1 RESI
-2 DATE 1680
+2 DATE ABT 1683
 2 PLAC Tiverton, Newport, Rhode Island, USA
 3 MAP
 4 LATI N41.6259
@@ -6597,6 +6629,39 @@
 2 SOUR @CNCZKGpeSrKJ6BUTT9Hu@
 3 PAGE p. 1
 3 QUAY 1
+1 RELI Baptist
+2 SOUR @S178@
+3 _LINK https://www.nps.gov/nr/feature/places/pdfs/13000569.pdf
+3 PAGE <bibl> <author>Joanna M. Doherty (Senior Architectural Histo
+4 CONC rian, Rhode Island Historical Preservation and Heritage Comm
+4 CONC ission, Providence, RI, USA)</author>, <title level="u">Nati
+4 CONC onal Register of Historic Places Registration Form, First Ba
+4 CONC ptist Church of Tiverton, Rhode Island</title>, <citedRange>
+4 CONC p. 14</citedRange>; 22 May 2013 form completed; digital cop
+4 CONC y archived <title level="a">2013–2016 Weekly Lists</title>
+4 CONC , database with images, <title level="m">National Register o
+4 CONC f Historic Places</title> (<ref target="https://www.nps.gov/
+4 CONC nr/feature/places/pdfs/13000569.pdf"/> : accessed 1 Jan 2018
+4 CONC ), entry for reference #13000569, First Baptist Church of Ti
+4 CONC verton, listed 30 Jul 2013. </bibl>
+3 DATA
+4 TEXT The church was organized by John Cooke, who had come to Plym
+5 CONC outh
+5 CONT Colony as a child on the Mayflower and was expelled from th
+5 CONC e Pilgrim church in Plymouth in
+5 CONT 1654 for “the error of Anabaptistry”. Cooke relocated to Dar
+5 CONC tmouth, joined the Baptist Church in
+5 CONT Newport and then, sometime between 1680 and 1685, gathered f
+5 CONC ellow members from Little
+5 CONT Compton, Dartmouth and present-day Tiverton to form a new re
+5 CONC ligious society, with Hugh
+5 CONT Mosier (or Mosher) as minister. This society, which eventual
+5 CONC ly became known as the First
+5 CONT Baptist Society in Tiverton, was therefore among the earlies
+5 CONC t to be established in America; the
+5 CONT 19th-century Baptist historian David Benedict states that i
+5 CONC t is the ninth-oldest Baptist
+5 CONT congregation in the country.
 0 @1WmbPQwhTI6jRnazFtZJ@ INDI
 1 _XY 6771 284
 1 REFN 2380f9f2-cad8-45ef-9547-6d062f9605e5
@@ -18786,6 +18851,10 @@
 2 CONT [no month or day given] 1908<br />
 2 CONT Julia Ann Douglass (Mosher)<br />
 2 CONT (born 1845) Sept 15, 1913
+0 @S178@ SOUR
+1 REFN a2e2cd8c-97c5-4260-8971-a56ff2a6bfe4
+1 TITL National Register of Historic Places
+1 PUBL Location: https://www.nps.gov/nr/;
 0 @FQeZFhW8SJe3P11p5Qz3@ SOUR
 1 REFN 09b31054-13ee-42f3-ae11-98faa251f913
 1 TITL NEHGR
