@@ -15,7 +15,7 @@
 1 DEST FTM
 1 FILE Lopez_2018-01-04.ged
 1 DATE 04 JAN 2018
-2 TIME 19:36:05
+2 TIME 19:54:35
 0 @Umy2qBWIRUiwVSS6Hcn4@ SUBM
 1 NAME Christopher Alan Mosher
 2 EMAIL cmosher01@@gmail.com
@@ -1448,7 +1448,7 @@
 2 PLAC Pasto, Nariño, Colombia
 0 @I111@ INDI
 1 REFN e7aaa23d-4a05-40ab-9a40-e76b35ab6544
-1 NAME Vicente /De Insuasti/
+1 NAME Vicente /de Insuasti/
 2 SOUR @G8TESznJRGCKBg1WwF0w@
 3 PAGE Ancestry Family Tree
 3 DATA
@@ -1555,20 +1555,6 @@
 5 CONC 892&pid=142
 1 SEX M
 1 FAMS @F27@
-0 @I120@ INDI
-1 REFN ed66971a-9e77-4d8f-94a1-f11e237602de
-1 NAME Isabel /Diez de Fuenmayor y Belalcázar/
-2 SOUR @G8TESznJRGCKBg1WwF0w@
-3 PAGE Ancestry Family Tree
-3 DATA
-4 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=60916
-5 CONC 892&pid=102
-1 SEX F
-1 FAMC @F35@
-1 FAMS @F49@
-1 BIRT
-2 DATE ABT 1544
-2 PLAC Santiago de Cali, Valle del Cauca, Colombia
 0 @I121@ INDI
 1 REFN 6dfe1e69-8bb7-4e36-ad5d-47e32a1827d1
 1 NAME Catalina /Diez de Fuenmayor y Benalcázar/
@@ -1591,6 +1577,20 @@
 3 MAP
 4 LATI N3.9022
 4 LONG W76.3028
+0 @I120@ INDI
+1 REFN ed66971a-9e77-4d8f-94a1-f11e237602de
+1 NAME Isabel /Diez de Fuenmayor y Benalcázar/
+2 SOUR @G8TESznJRGCKBg1WwF0w@
+3 PAGE Ancestry Family Tree
+3 DATA
+4 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=60916
+5 CONC 892&pid=102
+1 SEX F
+1 FAMC @F35@
+1 FAMS @F49@
+1 BIRT
+2 DATE ABT 1544
+2 PLAC Santiago de Cali, Valle del Cauca, Colombia
 0 @I122@ INDI
 1 REFN 5087b9ff-041e-4b9a-be3c-31396780d6c2
 1 NAME Alonso /Diez de Fuenmayor y Diez de Fuenmayor/
@@ -1778,7 +1778,7 @@
 2 PLAC Santiago de Cali, Valle del Cauca, Colombia
 0 @I135@ INDI
 1 REFN c6fb3fc1-3e85-4d4f-b8b2-9acb3a499d8e
-1 NAME Alonso /Diez De Fuenmayor/
+1 NAME Alonso /Diez de Fuenmayor/
 2 SOUR @G8TESznJRGCKBg1WwF0w@
 3 PAGE Ancestry Family Tree
 3 DATA
