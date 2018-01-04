@@ -15,7 +15,7 @@
 1 DEST FTM
 1 FILE Lopez_2018-01-04.ged
 1 DATE 04 JAN 2018
-2 TIME 03:34:46
+2 TIME 19:36:05
 0 @Umy2qBWIRUiwVSS6Hcn4@ SUBM
 1 NAME Christopher Alan Mosher
 2 EMAIL cmosher01@@gmail.com
@@ -1093,26 +1093,6 @@
 1 FAMC @F32@
 1 BIRT
 2 DATE ABT 1538
-0 @I86@ INDI
-1 REFN 25f5042a-6e1a-4e6b-ab23-528a4ea79115
-1 NAME María /de Benalcázar/ 1
-2 SOUR @G8TESznJRGCKBg1WwF0w@
-3 PAGE Ancestry Family Tree
-3 DATA
-4 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=60916
-5 CONC 892&pid=87
-1 SEX F
-1 FAMC @F32@
-1 FAMS @F33@
-1 FAMS @F34@
-1 BIRT
-2 DATE BET 1521 AND 1528
-2 PLAC Leon, Nicaragua
-3 MAP
-4 LATI N12.5717
-4 LONG W86.6542
-1 DEAT
-2 DATE BEF APR 1608
 0 @I87@ INDI
 1 REFN 486b0c64-95a2-4317-b036-ebe535aecf7d
 1 NAME María /de Benalcázar/ 2
@@ -1131,16 +1111,23 @@
 3 DATA
 4 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=60916
 5 CONC 892&pid=160
+2 SOUR @G8TESznJRGCKBg1WwF0w@
+3 PAGE Ancestry Family Tree
+3 DATA
+4 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=60916
+5 CONC 892&pid=87
 1 SEX F
+1 FAMC @F32@
+1 FAMS @F33@
 1 FAMS @F35@
 1 BIRT
-2 DATE 1521
+2 DATE BET 1521 AND 1528
 2 PLAC Leon, Nicaragua
 3 MAP
 4 LATI N12.5717
 4 LONG W86.6542
 1 DEAT
-2 DATE 15 APR 1608
+2 DATE BEF APR 1608
 2 PLAC Cali, Valle del Cauca, Colombia
 3 MAP
 4 LATI N3.4372
@@ -1577,7 +1564,7 @@
 4 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=60916
 5 CONC 892&pid=102
 1 SEX F
-1 FAMC @F34@
+1 FAMC @F35@
 1 FAMS @F49@
 1 BIRT
 2 DATE ABT 1544
@@ -1590,10 +1577,20 @@
 3 DATA
 4 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=60916
 5 CONC 892&pid=116
+2 SOUR @G8TESznJRGCKBg1WwF0w@
+3 PAGE Ancestry Family Tree
+3 DATA
+4 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=60916
+5 CONC 892&pid=161
 1 SEX F
-1 FAMC @F34@
+1 FAMC @F35@
 1 BIRT
 2 DATE ABT 1543
+1 DEAT
+2 PLAC Buga, Valle del Cauca, Colombia
+3 MAP
+4 LATI N3.9022
+4 LONG W76.3028
 0 @I122@ INDI
 1 REFN 5087b9ff-041e-4b9a-be3c-31396780d6c2
 1 NAME Alonso /Diez de Fuenmayor y Diez de Fuenmayor/
@@ -1788,20 +1785,13 @@
 4 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=60916
 5 CONC 892&pid=103
 1 SEX M
-1 FAMS @F34@
 1 FAMS @F35@
-1 BIRT
-2 DATE 1518
-2 PLAC Navarra, , España
 1 BIRT
 2 DATE 1518
 2 PLAC Navarra, España
 1 DEAT
 2 DATE ABT 1604
 2 PLAC Santiago de Cali, Valle del Cauca, Colombia
-1 DEAT
-2 DATE 1604
-2 PLAC Cali, Valle Del Cauco, Colombia
 0 @I136@ INDI
 1 REFN 8d0477d0-0773-4496-842c-76136a772d64
 1 NAME Florentina /Diez de Fuenmayor/
@@ -1879,7 +1869,6 @@
 4 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=60916
 5 CONC 892&pid=104
 1 SEX M
-1 FAMC @F35@
 1 FAMS @F49@
 1 BIRT
 2 DATE 1528
@@ -2095,26 +2084,6 @@
 5 CONC 892&pid=58
 1 SEX F
 1 FAMC @F25@
-0 @I155@ INDI
-1 REFN 8db0bbbd-da78-49cb-bb8c-195226bce19d
-1 NAME Catalina /Fuenmayor de Benalcazar/
-2 SOUR @G8TESznJRGCKBg1WwF0w@
-3 PAGE Ancestry Family Tree
-3 DATA
-4 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=60916
-5 CONC 892&pid=161
-1 SEX F
-1 FAMC @F35@
-1 BIRT
-2 PLAC Buga, Valle del Cauca, Colombia
-3 MAP
-4 LATI N3.9022
-4 LONG W76.3028
-1 DEAT
-2 PLAC Buga, Valle del Cauca, Colombia
-3 MAP
-4 LATI N3.9022
-4 LONG W76.3028
 0 @I156@ INDI
 1 REFN 31b5bdbc-1918-4bd3-b8fa-496778af79d9
 1 NAME Diego /Fuenmayor y Peguero/
@@ -7694,7 +7663,7 @@
 0 @F33@ FAM
 1 REFN 58aa62fe-61fd-4e80-bc80-abb476b0e834
 1 HUSB @I111@
-1 WIFE @I86@
+1 WIFE @I88@
 1 CHIL @I170@
 2 _FREL Natural
 2 _MREL Natural
@@ -7777,10 +7746,10 @@
 2 _FREL Natural
 1 CHIL @I140@
 2 _FREL Natural
-0 @F34@ FAM
-1 REFN 391ba26d-28cb-4a97-9ec1-b757cc3a27f1
+0 @F35@ FAM
+1 REFN dca5fe96-9e7e-4e3b-8f0f-6c6e7103e325
 1 HUSB @I135@
-1 WIFE @I86@
+1 WIFE @I88@
 1 CHIL @I121@
 2 _FREL Natural
 2 _MREL Natural
@@ -7788,21 +7757,7 @@
 2 _FREL Natural
 2 _MREL Natural
 1 MARR
-2 DATE ABT 1542
-0 @F35@ FAM
-1 REFN dca5fe96-9e7e-4e3b-8f0f-6c6e7103e325
-1 HUSB @I135@
-1 WIFE @I88@
-1 CHIL @I155@
-2 _FREL Natural
-2 _MREL Natural
-1 CHIL @I141@
-2 _FREL Natural
-2 _MREL Natural
-1 MARR
 2 DATE 1542
-2 PLAC of Cali, Valle de Cauca, Colmbia
-1 MARR
 2 PLAC Cali, Valle del Cauca, Colombia
 3 MAP
 4 LATI N3.4372
@@ -8126,7 +8081,7 @@
 1 CHIL @I82@
 2 _FREL Natural
 2 _MREL Natural
-1 CHIL @I86@
+1 CHIL @I88@
 2 _FREL Natural
 2 _MREL Natural
 1 CHIL @I81@
@@ -10622,6 +10577,8 @@
 2 CONC w York, New York, Births, 1910-1965.jpg
 2 FORM jpg
 2 TITL New York, New York, Births, 1910-1965
+0 @N249@ NOTE __GEDCOM__: DATE BEF APR 1608 __GEDCOM__
+0 @N248@ NOTE __GEDCOM__: DATE BET 1521 AND 1528 __GEDCOM__
 0 @N224@ NOTE affidavit, page 1
 0 @N223@ NOTE affidavit, page 2
 0 @N222@ NOTE certificate
