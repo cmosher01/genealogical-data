@@ -13,9 +13,9 @@
 4 CONT Boston, MA 02109
 3 PHON (617) 227-6681
 1 DEST FTM
-1 FILE Harrison_2017-12-23.ged
-1 DATE 23 DEC 2017
-2 TIME 22:51:17
+1 FILE Harrison_2018-01-08.ged
+1 DATE 08 JAN 2018
+2 TIME 00:27:57
 0 @Umy2qBWIRUiwVSS6Hcn4@ SUBM
 1 NAME Christopher Alan Mosher
 2 EMAIL cmosher01@@gmail.com
@@ -12694,7 +12694,7 @@
 3 PAGE Volume: 298; SAR Membership Number: 59590
 3 OBJE @Bq83PYhfSii5BrQumIDe@
 2 NOTE place is assumed from father's residence
-1 EVEN
+1 EVEN 500 acres
 2 TYPE granted land
 2 DATE ABT 1776
 2 PLAC Westchester, New York, USA
@@ -12702,8 +12702,36 @@
 4 LATI N41.1536
 4 LONG W73.754
 2 SOUR @Yb5VQblvQOKqvmQyMB79@
-3 PAGE p. 267
-3 QUAY 1
+3 _LINK https://archive.org/details/newyorkinrevolut01newyuoft
+3 PAGE <bibl>     <author>James Arthur Roberts (Comptroller, New Yo
+4 CONC rk State, USA)</author>     <title level="m">New York in th
+4 CONC e Revolution as Colony and State</title>, 2 vols.     (<pubP
+4 CONC lace>Albany</pubPlace>: <publisher>J. B. Lyon Company</publi
+4 CONC sher>, <date>1904</date>),     <citedRange>1: 267</citedRang
+4 CONC e>;     image copy,     <title level="m">Internet Archive</t
+4 CONC itle>     (<ref target="https://archive.org/details/newyorki
+4 CONC nrevolut01newyuoft"/> : accessed <date>7 Jan 2018</date>)
+4 CONC ;     citing     vol. 25 (Westchester County), <title level=
+4 CONC "u">Land Bounty Rights</title>,     Comptroller's Office rec
+4 CONC ords, Albany;     later removed to state archives as     <ti
+4 CONC tle level="u">New York State Comptroller’s Office Revolution
+4 CONC ary War Accounts and Claims</title>,     series no. A0200; N
+4 CONC ew York State Archives, Albany. </bibl>
+3 QUAY 3
+3 DATA
+4 TEXT <text xml:lang="en">
+5 CONT <head>
+5 CONT <lb/>Westchester County Militia (Land Bounty Rights)—Third R
+5 CONC egiment
+5 CONT </head>
+5 CONT <body>
+5 CONT <p><lb/>Capt. Samuel Haight</p>
+5 CONT <list>
+5 CONT <head>ENLISTED MEN</head>
+5 CONT <item>Sands Ohniel</item>
+5 CONT </list>
+5 CONT </body>
+5 CONT </text>
 2 NOTE Applicant's Working Sheet, National Society, DAR has "Land B
 3 CONC ounty Rights of 160 acres".
 3 CONT Need to look at Rev. War NARA records on LDS film 972118.
@@ -12715,8 +12743,36 @@
 4 LATI N41.1536
 4 LONG W73.754
 2 SOUR @Yb5VQblvQOKqvmQyMB79@
-3 PAGE p. 267
+3 _LINK https://archive.org/details/newyorkinrevolut01newyuoft
+3 PAGE <bibl>     <author>James Arthur Roberts (Comptroller, New Yo
+4 CONC rk State, USA)</author>     <title level="m">New York in th
+4 CONC e Revolution as Colony and State</title>, 2 vols.     (<pubP
+4 CONC lace>Albany</pubPlace>: <publisher>J. B. Lyon Company</publi
+4 CONC sher>, <date>1904</date>),     <citedRange>1: 267</citedRang
+4 CONC e>;     image copy,     <title level="m">Internet Archive</t
+4 CONC itle>     (<ref target="https://archive.org/details/newyorki
+4 CONC nrevolut01newyuoft"/> : accessed <date>7 Jan 2018</date>)
+4 CONC ;     citing     vol. 25 (Westchester County), <title level=
+4 CONC "u">Land Bounty Rights</title>,     Comptroller's Office rec
+4 CONC ords, Albany;     later removed to state archives as     <ti
+4 CONC tle level="u">New York State Comptroller’s Office Revolution
+4 CONC ary War Accounts and Claims</title>,     series no. A0200; N
+4 CONC ew York State Archives, Albany. </bibl>
 3 QUAY 2
+3 DATA
+4 TEXT <text xml:lang="en">
+5 CONT <head>
+5 CONT <lb/>Westchester County Militia (Land Bounty Rights)—Third R
+5 CONC egiment
+5 CONT </head>
+5 CONT <body>
+5 CONT <p><lb/>Capt. Samuel Haight</p>
+5 CONT <list>
+5 CONT <head>ENLISTED MEN</head>
+5 CONT <item>Sands Ohniel</item>
+5 CONT </list>
+5 CONT </body>
+5 CONT </text>
 2 NOTE 3rd Regiment, Westchester Co., NY, Militia, under Captain Sa
 3 CONC muel Haight
 1 RESI
@@ -15494,10 +15550,12 @@
 4 LATI N41.1724
 4 LONG W71.5578
 2 SOUR @84I6bDJeSyC6L0XXV7Sr@
-3 PAGE Town of New Shoreham (Rhode Island, USA), “Land Evidence”, 1
-4 CONC : 416–417, estate of Sarah Sands, 1709; Town Clerk's Office
-4 CONC , Block Island.
-3 QUAY 2
+3 PAGE <bibl>     <author>Town of New Shoreham (Rhode Island, USA)<
+4 CONC /author>,     <title level="u">Land Evidence</title>,     <c
+4 CONC itedRange>1: 416–417, estate of Sarah Sands, 1709</citedRang
+4 CONC e>;     <location>Town Clerk's Office, Block Island</locatio
+4 CONC n>. </bibl>
+3 QUAY 4
 1 PROB
 2 DATE 13 JUN 1709
 2 PLAC Block Island, Washington, Rhode Island, USA
@@ -15505,9 +15563,12 @@
 4 LATI N41.1724
 4 LONG W71.5578
 2 SOUR @84I6bDJeSyC6L0XXV7Sr@
-3 PAGE Town of New Shoreham (Rhode Island, USA), “Land Evidence”, 1
-4 CONC : 416–417, estate of Sarah Sands, 1709; Town Clerk's Office
-4 CONC , Block Island.
+3 PAGE <bibl>     <author>Town of New Shoreham (Rhode Island, USA)<
+4 CONC /author>,     <title level="u">Land Evidence</title>,     <c
+4 CONC itedRange>1: 416–417, estate of Sarah Sands, 1709</citedRang
+4 CONC e>;     <location>Town Clerk's Office, Block Island</locatio
+4 CONC n>. </bibl>
+3 QUAY 4
 1 DEAT
 2 DATE ABT 13 JUN 1709
 2 PLAC Block Island, Washington, Rhode Island, USA
@@ -15515,9 +15576,11 @@
 4 LATI N41.1724
 4 LONG W71.5578
 2 SOUR @84I6bDJeSyC6L0XXV7Sr@
-3 PAGE Town of New Shoreham (Rhode Island, USA), “Land Evidence”, 1
-4 CONC : 416–417, estate of Sarah Sands, 1709; Town Clerk's Office
-4 CONC , Block Island.
+3 PAGE <bibl>     <author>Town of New Shoreham (Rhode Island, USA)<
+4 CONC /author>,     <title level="u">Land Evidence</title>,     <c
+4 CONC itedRange>1: 416–417, estate of Sarah Sands, 1709</citedRang
+4 CONC e>;     <location>Town Clerk's Office, Block Island</locatio
+4 CONC n>. </bibl>
 3 QUAY 3
 2 SOUR @PXfI0YHYQUKRMhHLFv7r@
 3 _APID 1,7249::10032950
@@ -20433,15 +20496,8 @@
 0 @Yb5VQblvQOKqvmQyMB79@ SOUR
 1 REFN 292d91c1-e4b0-4716-93ad-fb5f1dccb623
 1 TITL New York in the Revolution as Colony and State
-1 AUTH Roberts, James A.
-1 PUBL Brandow Printing Co., Albany, NY, 1898
-1 TEXT [p. 267]<br />
-2 CONT Westchester County Militia (Land Bounty Rights)--Third Regim
-2 CONC ent<br />
-2 CONT CAPT. SAMUEL HAIGHT<br />
-2 CONT ENLISTED MEN<br />
-2 CONT ...<br />
-2 CONT Sands Ohniel<br />
+1 AUTH Roberts, James Arthur
+1 PUBL J. B. Lyon Company; Location: Albany, New York; Date: 1904
 0 @0W7JdD4bQGa12Dv8Uo5y@ SOUR
 1 REFN 9fc67889-fbe1-4c80-a4cd-143293864c74
 1 TITL New York Marriages, 1600-1784 [database on-line]
