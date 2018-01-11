@@ -13,9 +13,9 @@
 4 CONT Boston, MA 02109
 3 PHON (617) 227-6681
 1 DEST FTM
-1 FILE Mosher_2018-01-07.ged
-1 DATE 07 JAN 2018
-2 TIME 03:43:29
+1 FILE Mosher_2018-01-11.ged
+1 DATE 11 JAN 2018
+2 TIME 18:26:19
 0 @Umy2qBWIRUiwVSS6Hcn4@ SUBM
 1 NAME Christopher Alan Mosher
 2 EMAIL cmosher01@@gmail.com
@@ -5167,10 +5167,10 @@
 4 CONC uthor>,     <title level="u">Portsmouth Records, Portsmouth
 4 CONC , Rhode Island</title>,     <citedRange>vol. 1 (1638–1700)
 4 CONC : 337</citedRange>;     <title level="u">Town records, 1638–
-4 CONC 1850</title>,     FHL microfilm 945,382, item 1;     citin
-4 CONC g     <author>Town of Portsmouth (Rhode Island, USA)</author
-4 CONC >,     <title level="u">Land Evidence Records</title>,     <
-4 CONC citedRange>1: 81</citedRange>. </bibl>
+4 CONC 1850</title>,     FHL microfilm 945,382, DGS 7649106, item 1
+4 CONC ;     citing     <author>Town of Portsmouth (Rhode Island, U
+4 CONC SA)</author>,     <title level="u">Land Evidence Records</ti
+4 CONC tle>,     <citedRange>1: 81</citedRange>. </bibl>
 3 DATA
 4 TEXT <text xml:lang="en">
 5 CONT <head>
@@ -5274,10 +5274,10 @@
 4 CONC uthor>,     <title level="u">Portsmouth Records, Portsmouth
 4 CONC , Rhode Island</title>,     <citedRange>vol. 1 (1638–1700)
 4 CONC : 337</citedRange>;     <title level="u">Town records, 1638–
-4 CONC 1850</title>,     FHL microfilm 945,382, item 1;     citin
-4 CONC g     <author>Town of Portsmouth (Rhode Island, USA)</author
-4 CONC >,     <title level="u">Land Evidence Records</title>,     <
-4 CONC citedRange>1: 81</citedRange>. </bibl>
+4 CONC 1850</title>,     FHL microfilm 945,382, DGS 7649106, item 1
+4 CONC ;     citing     <author>Town of Portsmouth (Rhode Island, U
+4 CONC SA)</author>,     <title level="u">Land Evidence Records</ti
+4 CONC tle>,     <citedRange>1: 81</citedRange>. </bibl>
 3 DATA
 4 TEXT <text xml:lang="en">
 5 CONT <head>
@@ -5597,20 +5597,35 @@
 3 MAP
 4 LATI N41.3776
 4 LONG W71.8273
-2 SOUR @S177@
-3 _LINK https://archive.org/details/cu31924028840011
-3 PAGE <bibl>     <author>J. R. Cole</author>,     <title level="m"
-4 CONC >History of Washington and Kent Counties, Rhode Island, incl
-4 CONC uding their early settlement and progress to the present tim
-4 CONC e; a description of their historic and interesting localitie
-4 CONC s; sketches of their towns and villages; portraits of some o
-4 CONC f their prominent men, and biographies of many of their repr
-4 CONC esentative citizens</title>     (<pubPlace>New York</pubPlac
-4 CONC e>: <publisher>W. W. Preston &amp; Co.</publisher>, <date>18
-4 CONC 89</date>),     <citedRange>243–245</citedRange>;     imag
-4 CONC e copy,     <title level="m">Internet Archive</title>     (<
-4 CONC ref target="https://archive.org/details/cu31924028840011"/
-4 CONC > : accessed 1 Jan 2018). </bibl>
+2 SOUR @S180@
+3 _LINK https://books.google.com/books?id=RDIqdXhz9A4C
+3 PAGE <bibl>     <author>Elisha Reynolds Potter, Jr.</author>
+4 CONC ,     <title level="m">         The Early History of Narraga
+4 CONC nsett; with an Appendix of Original Documents, Many of Whic
+4 CONC h Are Now for the First Time Published     </title>,     add
+4 CONC itions and corrections by     <author>William Henry Potter</
+4 CONC author>, transcriber,     <title level="a">         Notes an
+4 CONC d Additional Matter [by Elisha Reynolds Potter, Jr.
+4 CONC ]         in Illustration of the Preceding Portion of this V
+4 CONC olume     </title>     (1835; reprint, <pubPlace>Providence
+4 CONC , RI</pubPlace>: <publisher>Marshall, Brown, and Co.</publis
+4 CONC her>, <date>1886</date>);     <title level="m">Collections o
+4 CONC f the Rhode‐Island Historical Society</title>,     <citedRan
+4 CONC ge>3: 242, 383</citedRange>;     preservation photocopy (<pu
+4 CONC bPlace>Charlestown, Mass.</pubPlace>: <publisher>Acme Bookbi
+4 CONC nding</publisher>, <date>1995</date>);     digital images, <
+4 CONC title level="m">Google Books</title> (<ref target="https://b
+4 CONC ooks.google.com/books?id=RDIqdXhz9A4C"> : accessed <date>9 J
+4 CONC an 2018<date>) </bibl>
+2 SOUR @S179@
+3 _LINK https://www.familysearch.org/search/film/007896694
+3 PAGE <bibl>     <author>Town of Westerly (Rhode Island, USA)</aut
+4 CONC hor>,     <title level="u">Town Records, Land Evidence, Tow
+4 CONC n of Westerly</title>,     <citedRange>vol. 1 (1661–1707): s
+4 CONC tamped spread no. 2, Sosoa to William Vaughan, et. al., 29 J
+4 CONC un 1660</citedRange>;     digital images, FHL microfilm 940,
+4 CONC 222, item 4; </bibl>
+3 OBJE @M158@
 2 NOTE Land was the original purchase of Westerly, RI,
 3 CONT from Native Americans. Hugh's residence is listed as Newpor
 3 CONC t at the time.
@@ -5620,20 +5635,15 @@
 3 MAP
 4 LATI N41.3776
 4 LONG W71.8273
-2 SOUR @S177@
-3 _LINK https://archive.org/details/cu31924028840011
-3 PAGE <bibl>     <author>J. R. Cole</author>,     <title level="m"
-4 CONC >History of Washington and Kent Counties, Rhode Island, incl
-4 CONC uding their early settlement and progress to the present tim
-4 CONC e; a description of their historic and interesting localitie
-4 CONC s; sketches of their towns and villages; portraits of some o
-4 CONC f their prominent men, and biographies of many of their repr
-4 CONC esentative citizens</title>     (<pubPlace>New York</pubPlac
-4 CONC e>: <publisher>W. W. Preston &amp; Co.</publisher>, <date>18
-4 CONC 89</date>),     <citedRange>243–245</citedRange>;     imag
-4 CONC e copy,     <title level="m">Internet Archive</title>     (<
-4 CONC ref target="https://archive.org/details/cu31924028840011"/
-4 CONC > : accessed 1 Jan 2018). </bibl>
+2 SOUR @S179@
+3 _LINK https://www.familysearch.org/search/film/007896694
+3 PAGE <bibl>     <author>Town of Westerly (Rhode Island, USA)</aut
+4 CONC hor>,     <title level="u">Town Records, Land Evidence, Tow
+4 CONC n of Westerly</title>,     <citedRange>vol. 1 (1661–1707): s
+4 CONC tamped spread no. 2, Sosoa to William Vaughan, et. al., 29 J
+4 CONC un 1660</citedRange>;     digital images, FHL microfilm 940,
+4 CONC 222, item 4; </bibl>
+3 OBJE @M158@
 1 PROP bought land
 2 DATE ABT JAN 1668
 2 PLAC Portsmouth, Newport, Rhode Island, USA
@@ -5661,10 +5671,10 @@
 4 CONC uthor>,     <title level="u">Portsmouth Records, Portsmouth
 4 CONC , Rhode Island</title>,     <citedRange>vol. 1 (1638–1700)
 4 CONC : 337</citedRange>;     <title level="u">Town records, 1638–
-4 CONC 1850</title>,     FHL microfilm 945,382, item 1;     citin
-4 CONC g     <author>Town of Portsmouth (Rhode Island, USA)</author
-4 CONC >,     <title level="u">Land Evidence Records</title>,     <
-4 CONC citedRange>1: 81</citedRange>. </bibl>
+4 CONC 1850</title>,     FHL microfilm 945,382, DGS 7649106, item 1
+4 CONC ;     citing     <author>Town of Portsmouth (Rhode Island, U
+4 CONC SA)</author>,     <title level="u">Land Evidence Records</ti
+4 CONC tle>,     <citedRange>1: 81</citedRange>. </bibl>
 3 DATA
 4 TEXT <text xml:lang="en">
 5 CONT <head>
@@ -5804,10 +5814,10 @@
 4 CONC uthor>,     <title level="u">Portsmouth Records, Portsmouth
 4 CONC , Rhode Island</title>,     <citedRange>vol. 1 (1638–1700)
 4 CONC : 337</citedRange>;     <title level="u">Town records, 1638–
-4 CONC 1850</title>,     FHL microfilm 945,382, item 1;     citin
-4 CONC g     <author>Town of Portsmouth (Rhode Island, USA)</author
-4 CONC >,     <title level="u">Land Evidence Records</title>,     <
-4 CONC citedRange>1: 81</citedRange>. </bibl>
+4 CONC 1850</title>,     FHL microfilm 945,382, DGS 7649106, item 1
+4 CONC ;     citing     <author>Town of Portsmouth (Rhode Island, U
+4 CONC SA)</author>,     <title level="u">Land Evidence Records</ti
+4 CONC tle>,     <citedRange>1: 81</citedRange>. </bibl>
 3 DATA
 4 TEXT <text xml:lang="en">
 5 CONT <head>
@@ -5911,10 +5921,10 @@
 4 CONC uthor>,     <title level="u">Portsmouth Records, Portsmouth
 4 CONC , Rhode Island</title>,     <citedRange>vol. 1 (1638–1700)
 4 CONC : 337</citedRange>;     <title level="u">Town records, 1638–
-4 CONC 1850</title>,     FHL microfilm 945,382, item 1;     citin
-4 CONC g     <author>Town of Portsmouth (Rhode Island, USA)</author
-4 CONC >,     <title level="u">Land Evidence Records</title>,     <
-4 CONC citedRange>1: 81</citedRange>. </bibl>
+4 CONC 1850</title>,     FHL microfilm 945,382, DGS 7649106, item 1
+4 CONC ;     citing     <author>Town of Portsmouth (Rhode Island, U
+4 CONC SA)</author>,     <title level="u">Land Evidence Records</ti
+4 CONC tle>,     <citedRange>1: 81</citedRange>. </bibl>
 3 DATA
 4 TEXT <text xml:lang="en">
 5 CONT <head>
@@ -6027,10 +6037,10 @@
 4 CONC uthor>,     <title level="u">Portsmouth Records, Portsmouth
 4 CONC , Rhode Island</title>,     <citedRange>vol. 1 (1638–1700)
 4 CONC : 337</citedRange>;     <title level="u">Town records, 1638–
-4 CONC 1850</title>,     FHL microfilm 945,382, item 1;     citin
-4 CONC g     <author>Town of Portsmouth (Rhode Island, USA)</author
-4 CONC >,     <title level="u">Land Evidence Records</title>,     <
-4 CONC citedRange>1: 81</citedRange>. </bibl>
+4 CONC 1850</title>,     FHL microfilm 945,382, DGS 7649106, item 1
+4 CONC ;     citing     <author>Town of Portsmouth (Rhode Island, U
+4 CONC SA)</author>,     <title level="u">Land Evidence Records</ti
+4 CONC tle>,     <citedRange>1: 81</citedRange>. </bibl>
 3 DATA
 4 TEXT <text xml:lang="en">
 5 CONT <head>
@@ -17764,6 +17774,12 @@
 1 ADDR https://archive.org/
 1 EMAIL info@@archive.org
 1 PHON +1-415-561-6767
+0 @R4@ REPO
+1 NAME Google Books
+1 ADDR Googleplex 1600 Amphitheatre Parkway Mountain View, CA 9404
+2 CONC 3 USA
+1 EMAIL https://books.google.com/
+1 PHON +1-650-253-0000
 0 @9jhPyuNjT7Crw4hkg6Gj@ SOUR
 1 REFN 4ce69e52-b9c8-415f-b515-4218aa9b9a33
 1 REPO @qoiFARVHSJOlOdzOUsT9@
@@ -18420,6 +18436,20 @@
 2 CONT <br />
 2 CONT Ruth Roberts Coker<br />
 2 CONT Arlington, TX<br />
+0 @S180@ SOUR
+1 REFN 9bafd420-5f9c-4eff-b90f-3fe6085501fa
+1 REPO @R4@
+2 CALN RDIqdXhz9A4C
+1 TITL Early History of Narragansett, The
+1 AUTH Potter, Elisha Reynolds, Jr.
+1 PUBL Marshall, Brown, and Co.; Location: Providence, RI; Date: 18
+2 CONC 86
+1 NOTE
+2 CONT The addendum with William Potter's transcription is only ava
+2 CONC ilable in the 1886 reprint of this volume, and begins at pag
+2 CONC e 317.
+2 CONT Tthe reprinting is not indicated on the title page, but is e
+2 CONC xplained on page 319.
 0 @S176@ SOUR
 1 REFN d18e1abf-03fa-41ac-acf8-c3ca4c7b8dd3
 1 REPO @R3@
@@ -18603,10 +18633,6 @@
 2 CONC 630-1635
 1 AUTH Luther, George A., and Luther, Leslie L.
 1 PUBL Geroge A. Luther, Lakeland, FL, 2001
-0 @K3K8R2iUQJy4cl787i9L@ SOUR
-1 REFN 8e8a6164-4639-4419-a1c0-2e845c1b92dd
-1 TITL Madison Co., NY, Land Records
-1 PUBL Madison Co., NY, Clerks Office, Wampsville, NY
 0 @fg8ByyuyQca6Ws6serI9@ SOUR
 1 REFN 385457dd-4577-4775-bfc6-b511906dc98e
 1 TITL Madison Co., NY, Map Books: Hamilton, Lebanon, Georgetown
@@ -19561,10 +19587,6 @@
 2 CONT + <br />
 2 CONT Henry Bull ["his mark" written next to name] <br />
 2 CONT Randall Holden <br />
-0 @BPVPXOPuQ7uv2cdscTbO@ SOUR
-1 REFN 23e299b8-9044-4d11-99dc-b6945312475e
-1 TITL Portsmouth Records, Portsmouth, Rhode Island
-1 AUTH Town of Portsmouth (Rhode Island, USA)
 0 @O7SACcx4TXyPRkL8Q4Kw@ SOUR
 1 REFN ded594fa-fc87-49cb-9c7e-ceb9d73ad177
 1 TITL Probate records, Lovejoy, Algenas, file 6326
@@ -19814,11 +19836,6 @@
 1 TITL Steele Family History
 1 AUTH Steele, Ted
 1 PUBL Ancestry World Tree at Ancestry.com
-0 @GRiUn3XDSsGw0VRNQcU9@ SOUR
-1 REFN 58b567c6-03d0-41fa-8e18-f85df3c7832f
-1 TITL Town Records, Dartmouth, MA
-1 AUTH Dartmouth, MA, Town Clerk
-1 PUBL LDS film 903381 item 1
 0 @XkYfWXOxTRycLRJJyxNy@ SOUR
 1 REFN b74dbd0b-fce4-4e2a-bfa6-97c2be7eb18a
 1 REPO @qoiFARVHSJOlOdzOUsT9@
@@ -20841,6 +20858,23 @@
 2 CONT </tr>
 2 CONT </table>
 2 CONT Col. 27&mdash;Working on own account. O
+0 @GRiUn3XDSsGw0VRNQcU9@ SOUR
+1 REFN 58b567c6-03d0-41fa-8e18-f85df3c7832f
+1 TITL USA. Massachusetts. Dartmouth, Town of. Records
+1 AUTH USA. Massachusetts. Dartmouth, Town of
+0 @K3K8R2iUQJy4cl787i9L@ SOUR
+1 REFN 8e8a6164-4639-4419-a1c0-2e845c1b92dd
+1 TITL USA. New York. Madison, County of. Land Records
+1 AUTH USA. New York. Madison, County of
+1 PUBL Clerks Office; Location: Wampsville, New York
+0 @BPVPXOPuQ7uv2cdscTbO@ SOUR
+1 REFN 23e299b8-9044-4d11-99dc-b6945312475e
+1 TITL USA. Rhode Island. Portsmouth, Town of. Records
+1 AUTH USA. Rhode Island. Portsmouth, Town of
+0 @S179@ SOUR
+1 REFN 11267da7-7352-4f74-9662-52dc7abea91a
+1 TITL USA. Rhode Island. Westerly, Town of. Land Evidence
+1 AUTH USA. Rhode Island. Westerly, Town of
 0 @4trkWGgbQYWDaxdosw8R@ SOUR
 1 REFN 2459defa-426b-4c6a-bbf6-450540486039
 1 TITL Various Letters of Emory Luther
@@ -22251,4 +22285,10 @@
 2 FORM jpg
 2 TITL record-image_3Q9M-C9PY-69JM-R
 2 _DATE 1/7/2018 3:38:50 AM
+0 @M158@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher Media\re
+2 CONC cord-image_3Q9M-CS4X-XQS9-K.jpg
+2 FORM jpg
+2 TITL record-image_3Q9M-CS4X-XQS9-K
+2 _DATE 1/11/2018 5:45:57 PM
 0 TRLR
