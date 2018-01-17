@@ -13,9 +13,9 @@
 4 CONT Boston, MA 02109
 3 PHON (617) 227-6681
 1 DEST FTM
-1 FILE Mosher_2018-01-13.ged
-1 DATE 13 JAN 2018
-2 TIME 21:01:04
+1 FILE Mosher_2018-01-17.ged
+1 DATE 17 JAN 2018
+2 TIME 03:44:58
 0 @Umy2qBWIRUiwVSS6Hcn4@ SUBM
 1 NAME Christopher Alan Mosher
 2 EMAIL cmosher01@@gmail.com
@@ -38,6 +38,19 @@
 2 PHON +1-203-513-9292
 1 LANG English
 1 RIN Umy2qBWIRUiwVSS6Hcn4
+0 @I375@ INDI
+1 REFN 822a103a-c24a-490a-8cfd-5c7fad1df3d3
+1 NAME Ann Agnes //
+2 SOUR @S182@
+3 _APID 1,60856::301071745
+3 PAGE Somerset Heritage Service; Taunton, Somerset, England; Somer
+4 CONC set Parish Records, 1538-1914; Reference Number: D\P\winc/2/
+4 CONC 1/1
+3 OBJE @M167@
+1 SEX F
+1 FAMS @F298@
+1 BIRT
+2 DATE ABT 1615
 0 @G9wsDndtSnmhUlczYoI8@ INDI
 1 _XY 9416 249
 1 REFN c2d8f434-5ada-4cde-adfc-055c42331397
@@ -393,6 +406,19 @@
 1 NAME Eleazer /Bockus/
 1 SEX M
 1 FAMS @0AHPJQMgRoaRteWxND3Z@
+0 @I376@ INDI
+1 _XY 94 42
+1 REFN dca118e0-f084-4850-a147-d9c2fe0de884
+1 NAME Denise /Browne/
+2 SOUR @S183@
+2 SOUR @S182@
+3 _APID 1,60856::901881824
+3 PAGE Somerset Heritage Service; Taunton, Somerset, England; Somer
+4 CONC set Parish Records, 1538-1913; Reference Number: D\P\cuck/2/
+4 CONC 1/1
+3 OBJE @M161@
+1 SEX F
+1 FAMS @F299@
 0 @WOVMrbNIRvSvseSmRQXW@ INDI
 1 _XY 6637 504
 1 REFN fee0cf25-f193-425c-8bac-d5944ef40ae1
@@ -792,6 +818,49 @@
 4 LONG E0.25
 2 SOUR @r54uocVXQUSDYQ0iWG0q@
 3 QUAY 1
+0 @I377@ INDI
+1 _XY 314 30
+1 REFN 231c0661-7722-4ca8-aa0c-c2ea5e2dfcfa
+1 NAME Edith /Crosse/
+2 SOUR @S183@
+2 SOUR @S182@
+3 _APID 1,60856::901881897
+3 PAGE Somerset Heritage Service; Taunton, Somerset, England; Somer
+4 CONC set Parish Records, 1538-1914; Reference Number: D\P\cuck/2/
+4 CONC 1/1; 1576
+3 OBJE @M168@
+2 SOUR @S182@
+3 _APID 1,60856::1882350
+3 PAGE Somerset Heritage Service; Taunton, Somerset, England; Somer
+4 CONC set Parish Records, 1538-1914; Reference Number: D\P\cuck/2/
+4 CONC 1/1; 1619
+3 OBJE @M169@
+1 SEX F
+1 FAMS @F300@
+1 BIRT
+2 DATE ABT 1555
+2 SOUR @S184@
+1 DEAT
+2 DATE ABT APR 1619
+2 PLAC Cucklington, Somerset, England
+2 SOUR @S182@
+3 _APID 1,60856::1882350
+3 PAGE Somerset Heritage Service; Taunton, Somerset, England; Somer
+4 CONC set Parish Records, 1538-1914; Reference Number: D\P\cuck/2/
+4 CONC 1/1; 1619
+3 OBJE @M169@
+1 BURI
+2 DATE 22 APR 1619
+2 PLAC Cucklington, Somerset, England
+2 SOUR @S185@
+3 PAGE p. viii
+3 QUAY 1
+2 SOUR @S182@
+3 _APID 1,60856::1882350
+3 PAGE Somerset Heritage Service; Taunton, Somerset, England; Somer
+4 CONC set Parish Records, 1538-1914; Reference Number: D\P\cuck/2/
+4 CONC 1/1; 1619
+3 OBJE @M169@
 0 @qm5fPkbcToyaNccz0qU7@ INDI
 1 _XY 13177 321
 1 REFN 10dc013c-1296-4d85-b9af-0757b8563f94
@@ -1702,6 +1771,13 @@
 3 _APID 1,60525::13875949
 2 SOUR @Q3pDaZrXQzi0fjGmGdhC@
 3 _APID 1,70500::1455673
+0 @I378@ INDI
+1 REFN da2829a9-5348-4981-9010-5b1b2dad31dd
+1 NAME Elizabeth //
+1 SEX F
+1 FAMS @F301@
+1 BIRT
+2 DATE ABT 1645
 0 @8gjyDknGRFmADlQ7U1VJ@ INDI
 1 _XY 8251 627
 1 REFN ca4885ba-bc38-461f-963b-ab1c3dfdcfec
@@ -4498,6 +4574,35 @@
 3 PAGE p. 2
 3 QUAY 2
 2 NOTE early date is from daughter Eliza's birth
+0 @I379@ INDI
+1 _XY 183 209
+1 REFN 331b7a24-4612-45bd-8a6e-b350736c98e8
+1 NAME Margaret //
+2 SOUR @S183@
+1 SEX F
+1 FAMS @F302@
+1 BIRT
+2 DATE ABT 1584
+2 SOUR @S184@
+1 WILL
+2 DATE 22 JUL 1658
+2 SOUR @CNCZKGpeSrKJ6BUTT9Hu@
+3 PAGE p. xi
+3 QUAY 1
+1 DEAT
+2 DATE ABT 30 JUL 1658
+2 PLAC Wincanton, Somerset, England
+1 BURI
+2 DATE 01 AUG 1658
+2 PLAC Wincanton, Somerset, England
+2 SOUR @S185@
+3 PAGE p. viii
+3 QUAY 1
+1 PROB
+2 DATE 06 DEC 1658
+2 SOUR @CNCZKGpeSrKJ6BUTT9Hu@
+3 PAGE p. xi
+3 QUAY 1
 0 @23SIWBEDQcSc1zULNk3d@ INDI
 1 _XY 9665 50
 1 REFN fd854473-9d1e-49f4-b197-577edd033cc3
@@ -5069,16 +5174,38 @@
 1 _XY 7496 217
 1 REFN 01b405eb-ec0e-4f11-92f9-1da774476259
 1 NAME Lydia /Maxson/
+2 SOUR @N6EpiaNTS4y7ivSXES5Z@
+3 _APID 1,5769::2931910
+2 SOUR @S183@
+2 SOUR @S186@
+3 _APID 1,7486::3597890
+3 PAGE Place: Providence, Rhode Island; Year: 1650; Page Number: 52
+2 SOUR @XkYfWXOxTRycLRJJyxNy@
+3 _APID 1,7836::793126
+3 PAGE Source number: 251.000; Source type: Electronic Database; Nu
+4 CONC mber of Pages: 1; Submitter Code: RWK
 1 SEX F
 1 FAMC @qj7Sa6FVQPC1ks066NyF@
 1 FAMS @Y1EqC4eHRReB91rN6BHl@
 1 BIRT
 2 DATE ABT 1612
-2 PLAC England
-3 MAP
-4 LATI N52.5898
-4 LONG W1.4611
-2 SOUR @91JIXBEJQz6bVLkVlmAF@
+2 PLAC Somerset, England
+2 SOUR @CNCZKGpeSrKJ6BUTT9Hu@
+3 PAGE p. xi
+2 SOUR @N6EpiaNTS4y7ivSXES5Z@
+3 _APID 1,5769::2931910
+2 SOUR @sFy5W6Q1RfCy4MELthoo@
+2 SOUR @XkYfWXOxTRycLRJJyxNy@
+3 _APID 1,7836::793126
+3 PAGE Source number: 251.000; Source type: Electronic Database; Nu
+4 CONC mber of Pages: 1; Submitter Code: RWK
+1 EVEN
+2 TYPE Arrival
+2 DATE 1650
+2 PLAC Providence, Rhode Island
+2 SOUR @S186@
+3 _APID 1,7486::3597890
+3 PAGE Place: Providence, Rhode Island; Year: 1650; Page Number: 52
 1 IMMI
 2 DATE ABT 1658
 1 RESI
@@ -5097,6 +5224,7 @@
 3 MAP
 4 LATI N41.6259
 4 LONG W71.2134
+2 SOUR @sFy5W6Q1RfCy4MELthoo@
 2 SOUR @kOQuH9mwRDqTOZLdOU6s@
 2 NOTE IGI and Pedigree Resource File also give 2 Feb 1717/8, whic
 3 CONC h would make her 104 years old, and so is probably wrong.
@@ -5114,10 +5242,16 @@
 1 _XY 7276 404
 1 REFN 5db36a01-3d4a-473a-9ed6-764db651fac8
 1 NAME Rebecca /Maxson/
+2 SOUR @lIFoQFKzTHCalwRjxIxf@
+3 _APID 1,7249::106210022
 2 SOUR @XkYfWXOxTRycLRJJyxNy@
 3 _APID 1,7836::793148
 3 PAGE Source number: 1514.000; Source type: Electronic Database; N
 4 CONC umber of Pages: 1; Submitter Code: CGA
+2 SOUR @XkYfWXOxTRycLRJJyxNy@
+3 _APID 1,7836::793151
+3 PAGE Source number: 253.000; Source type: Electronic Database; Nu
+4 CONC mber of Pages: 1; Submitter Code: RWK
 1 SEX F
 1 FAMC @LlcJAdH6T26e0JPuLaxN@
 1 FAMS @FpSmj7eiSECEkyexIYXl@
@@ -5128,6 +5262,8 @@
 4 LATI N41.6282
 4 LONG W70.966
 2 SOUR @91JIXBEJQz6bVLkVlmAF@
+2 SOUR @lIFoQFKzTHCalwRjxIxf@
+3 _APID 1,7249::106210022
 2 SOUR @XkYfWXOxTRycLRJJyxNy@
 3 _APID 1,7836::793148
 3 PAGE Source number: 1514.000; Source type: Electronic Database; N
@@ -5387,8 +5523,8 @@
 1 NAME Rebecca wife of Richard /Maxson/
 2 SOUR @cHqs3hdITfGhgYkNTQzb@
 1 SEX F
-1 FAMS @9s2toM8HQyqgZt4COopO@
 1 FAMS @LlcJAdH6T26e0JPuLaxN@
+1 FAMS @9s2toM8HQyqgZt4COopO@
 1 BIRT
 2 DATE ABT 1609
 2 PLAC England
@@ -5531,6 +5667,418 @@
 3 QUAY 1
 2 NOTE Murdered, with Anne Hutchinson (and her children), and wit
 3 CONC h his father.
+0 @I380@ INDI
+1 _XY 30 155
+1 REFN d21fd1f0-c164-45e4-9b73-96488ba20159
+1 NAME Agnes /Moger/
+2 SOUR @S183@
+2 SOUR @S182@
+3 _APID 1,60856::1881843
+3 PAGE Somerset Heritage Service; Taunton, Somerset, England; Somer
+4 CONC set Parish Records, 1538-1914; Reference Number: D\P\cuck/2/
+4 CONC 1/1
+3 OBJE @M161@
+1 SEX F
+1 FAMC @F299@
+1 BIRT
+2 DATE ABT DEC 1568
+1 BAPM
+2 DATE 20 DEC 1568
+2 PLAC Cucklington, Somerset, England
+2 SOUR @CNCZKGpeSrKJ6BUTT9Hu@
+3 PAGE p. vii
+2 SOUR @S182@
+3 _APID 1,60856::1881843
+3 PAGE Somerset Heritage Service; Taunton, Somerset, England; Somer
+4 CONC set Parish Records, 1538-1914; Reference Number: D\P\cuck/2/
+4 CONC 1/1
+3 OBJE @M161@
+0 @I381@ INDI
+1 _XY 1181 354
+1 REFN 21126d61-5585-4309-bc45-9d385daafbb9
+1 NAME Daniel /Moger/
+2 SOUR @S183@
+1 SEX M
+1 FAMC @Y1EqC4eHRReB91rN6BHl@
+1 BIRT
+2 DATE ABT 1642
+2 PLAC Cucklington, Somerset, England
+2 SOUR @S183@
+2 NOTE place is assumed
+1 DEAT
+2 DATE 1656
+2 SOUR @S187@
+3 QUAY 1
+0 @I382@ INDI
+1 _XY 434 354
+1 REFN b6a65850-d701-4e98-bc25-ad2e0723c9bd
+1 NAME Dashwood /Moger/
+2 SOUR @S183@
+2 SOUR @S182@
+3 _APID 1,60856::1882351
+3 PAGE Somerset Heritage Service; Taunton, Somerset, England; Somer
+4 CONC set Parish Records, 1538-1914; Reference Number: D\P\cuck/2/
+4 CONC 1/1; baptism of Dashwood Moger (1619)
+3 OBJE @M169@
+2 SOUR @S182@
+3 _APID 1,60856::1882359
+3 PAGE Somerset Heritage Service; Taunton, Somerset, England; Somer
+4 CONC set Parish Records, 1538-1914; Reference Number: D\P\cuck/2/
+4 CONC 1/1; burial of Dashwood Moger (1619)
+3 OBJE @M169@
+1 SEX M
+1 FAMC @F302@
+1 BIRT
+2 DATE ABT JUN 1619
+1 BAPM
+2 DATE 29 JUN 1619
+2 PLAC Cucklington, Somerset, England
+2 SOUR @CNCZKGpeSrKJ6BUTT9Hu@
+3 PAGE p. viii
+2 SOUR @S182@
+3 _APID 1,60856::1882351
+3 PAGE Somerset Heritage Service; Taunton, Somerset, England; Somer
+4 CONC set Parish Records, 1538-1914; Reference Number: D\P\cuck/2/
+4 CONC 1/1; baptism of Dashwood Moger (1619)
+3 OBJE @M169@
+1 DEAT
+2 DATE ABT NOV 1619
+1 BURI
+2 DATE 28 NOV 1619
+2 PLAC Cucklington, Somerset, England
+2 SOUR @CNCZKGpeSrKJ6BUTT9Hu@
+3 PAGE p. viii
+2 SOUR @S182@
+3 _APID 1,60856::1882359
+3 PAGE Somerset Heritage Service; Taunton, Somerset, England; Somer
+4 CONC set Parish Records, 1538-1914; Reference Number: D\P\cuck/2/
+4 CONC 1/1; burial of Dashwood Moger (1619)
+3 OBJE @M169@
+0 @I383@ INDI
+1 _XY 232 155
+1 REFN a99842e3-8662-4c9e-ad59-1f6d00f3a176
+1 NAME Edith /Moger/
+2 SOUR @S183@
+2 SOUR @S182@
+3 _APID 1,60856::1881931
+3 PAGE Somerset Heritage Service; Taunton, Somerset, England; Somer
+4 CONC set Parish Records, 1538-1914; Reference Number: D\P\cuck/2/
+4 CONC 1/1
+3 OBJE @M170@
+1 SEX F
+1 FAMC @F300@
+1 BIRT
+2 DATE ABT DEC 1581
+2 PLAC Cucklington, Somerset, England
+1 BAPM
+2 DATE 25 DEC 1581
+2 PLAC Cucklington, Somerset, England
+2 SOUR @CNCZKGpeSrKJ6BUTT9Hu@
+3 PAGE p. vii
+2 SOUR @S182@
+3 _APID 1,60856::1881931
+3 PAGE Somerset Heritage Service; Taunton, Somerset, England; Somer
+4 CONC set Parish Records, 1538-1914; Reference Number: D\P\cuck/2/
+4 CONC 1/1
+3 OBJE @M170@
+1 DEAT
+2 DATE ABT 1593
+0 @I384@ INDI
+1 _XY 567 209
+1 REFN 73668e87-ea26-445b-b77c-5c5c88da3451
+1 NAME Edith /Moger/
+2 SOUR @S183@
+2 SOUR @S182@
+3 _APID 1,60856::1882045
+3 PAGE Somerset Heritage Service; Taunton, Somerset, England; Somer
+4 CONC set Parish Records, 1538-1914; Reference Number: D\P\cuck/2/
+4 CONC 1/1
+3 OBJE @M171@
+1 SEX F
+1 FAMC @F300@
+1 BIRT
+2 DATE ABT APR 1595
+1 BAPM
+2 DATE 22 APR 1595
+2 PLAC Cucklington, Somerset, England
+2 SOUR @CNCZKGpeSrKJ6BUTT9Hu@
+3 PAGE p. viii
+2 SOUR @S182@
+3 _APID 1,60856::1882045
+3 PAGE Somerset Heritage Service; Taunton, Somerset, England; Somer
+4 CONC set Parish Records, 1538-1914; Reference Number: D\P\cuck/2/
+4 CONC 1/1
+3 OBJE @M171@
+0 @I385@ INDI
+1 _XY 111 354
+1 REFN bc9d49f2-20f0-4674-af14-f9f12a9bfaa4
+1 NAME Edith /Moger/
+2 SOUR @S182@
+3 _APID 1,60856::1882254
+3 PAGE Somerset Heritage Service; Taunton, Somerset, England; Somer
+4 CONC set Parish Records, 1538-1914; Reference Number: D\P\cuck/2/
+4 CONC 1/1
+3 OBJE @M172@
+1 SEX F
+1 FAMC @F303@
+1 BIRT
+2 DATE ABT FEB 1611
+1 BAPM
+2 DATE 24 FEB 1611
+2 PLAC Cucklington, Somerset, England
+2 SOUR @S182@
+3 _APID 1,60856::1882254
+3 PAGE Somerset Heritage Service; Taunton, Somerset, England; Somer
+4 CONC set Parish Records, 1538-1914; Reference Number: D\P\cuck/2/
+4 CONC 1/1
+3 OBJE @M172@
+0 @I386@ INDI
+1 _XY 196 354
+1 REFN fe733273-8602-4332-84b5-13ec187a273e
+1 NAME Edith /Moger/
+2 SOUR @S183@
+2 SOUR @S182@
+3 _APID 1,60856::1882262
+3 PAGE Somerset Heritage Service; Taunton, Somerset, England; Somer
+4 CONC set Parish Records, 1538-1914; Reference Number: D\P\cuck/2/
+4 CONC 1/1
+3 OBJE @M172@
+2 SOUR @XkYfWXOxTRycLRJJyxNy@
+3 _APID 1,7836::847514
+3 PAGE Source number: 7969.000; Source type: Electronic Database; N
+4 CONC umber of Pages: 1; Submitter Code: HDG
+1 SEX F
+1 FAMC @F302@
+1 FAMS @F304@
+1 BAPM
+2 DATE 10 APR 1611
+2 PLAC Cucklington, Somerset, England
+2 SOUR @CNCZKGpeSrKJ6BUTT9Hu@
+3 PAGE p. viii
+2 SOUR @S182@
+3 _APID 1,60856::1882262
+3 PAGE Somerset Heritage Service; Taunton, Somerset, England; Somer
+4 CONC set Parish Records, 1538-1914; Reference Number: D\P\cuck/2/
+4 CONC 1/1
+3 OBJE @M172@
+1 BIRT
+2 DATE ABT APR 1611
+0 @I387@ INDI
+1 _XY 477 209
+1 REFN a7ea8074-fa99-41e9-b14b-183181fd2f33
+1 NAME Francis /Moger/
+2 SOUR @CNCZKGpeSrKJ6BUTT9Hu@
+3 PAGE p. viii
+3 QUAY 1
+3 DATA
+4 TEXT ffrauncis ["ff" in Parish Registers really just means "F", a
+5 CONC nd I'm assuming the normal spelling of the (female) name Fra
+5 CONC nces]
+2 SOUR @S182@
+3 _APID 1,60856::1882172
+3 PAGE Somerset Heritage Service; Taunton, Somerset, England; Somer
+4 CONC set Parish Records, 1538-1914; Reference Number: D\P\cuck/2/
+4 CONC 1/1
+3 OBJE @M173@
+1 SEX F
+1 FAMC @F300@
+1 BURI
+2 DATE 04 SEP 1605
+2 PLAC Cucklington, Somerset, England
+2 SOUR @CNCZKGpeSrKJ6BUTT9Hu@
+3 PAGE p. viii
+3 QUAY 1
+2 SOUR @S182@
+3 _APID 1,60856::1882172
+3 PAGE Somerset Heritage Service; Taunton, Somerset, England; Somer
+4 CONC set Parish Records, 1538-1914; Reference Number: D\P\cuck/2/
+4 CONC 1/1
+3 OBJE @M173@
+1 DEAT
+2 DATE ABT SEP 1605
+2 PLAC Cucklington, Somerset, England
+1 EVEN
+2 TYPE note
+2 NOTE This person's name is often shown as "ffrauncis," beginnin
+3 CONC g with two lower-case f's. This is incorrect; the source o
+3 CONC f the confusion is the style of writing the capital F in ol
+3 CONC d English Parish records. The capital F is often written a
+3 CONC s "ff," but the actual letter is just a single, capital F. A
+3 CONC lso, the female version of the name is (usually) correctly s
+3 CONC pelled with an e instead of an i: Frances rather than Franci
+3 CONC s.
+0 @I388@ INDI
+1 _XY 274 209
+1 REFN 948b2486-d8cc-407e-af77-b1f18a59c40e
+1 NAME Hugh /Moger/
+2 SOUR @S183@
+2 SOUR @S182@
+3 _APID 1,60856::151882375
+3 PAGE Somerset Heritage Service; Taunton, Somerset, England; Somer
+4 CONC set Parish Records, 1538-1914; Reference Number: D\P\cuck/2/
+4 CONC 1/1
+3 OBJE @M169@
+2 SOUR @S182@
+3 _APID 1,60856::1051882262
+3 PAGE Somerset Heritage Service; Taunton, Somerset, England; Somer
+4 CONC set Parish Records, 1538-1914; Reference Number: D\P\cuck/2/
+4 CONC 1/1; baptism of Edith Moger (1611)
+3 OBJE @M172@
+2 SOUR @S182@
+3 _APID 1,60856::151882288
+3 PAGE Somerset Heritage Service; Taunton, Somerset, England; Somer
+4 CONC set Parish Records, 1538-1914; Reference Number: D\P\cuck/2/
+4 CONC 1/1; baptism of Jhon Moger (1613)
+3 OBJE @M174@
+2 SOUR @S182@
+3 _APID 1,60856::151882311
+3 PAGE Somerset Heritage Service; Taunton, Somerset, England; Somer
+4 CONC set Parish Records, 1538-1914; Reference Number: D\P\cuck/2/
+4 CONC 1/1; baptism of Mabel Moger (1616)
+3 OBJE @M174@
+2 SOUR @S182@
+3 _APID 1,60856::601882359
+3 PAGE Somerset Heritage Service; Taunton, Somerset, England; Somer
+4 CONC set Parish Records, 1538-1914; Reference Number: D\P\cuck/2/
+4 CONC 1/1; burial of Dashwode Moger (1619).
+3 OBJE @M169@
+2 SOUR @XkYfWXOxTRycLRJJyxNy@
+3 _APID 1,7836::847519
+3 PAGE Source number: 2423.000; Source type: Electronic Database; N
+4 CONC umber of Pages: 1; Submitter Code: RKM
+2 SOUR @XkYfWXOxTRycLRJJyxNy@
+3 _APID 1,7836::847518
+3 PAGE Source number: 7963.000; Source type: Electronic Database; N
+4 CONC umber of Pages: 1; Submitter Code: HDG
+2 SOUR @S188@
+3 _APID 1,1610::638703
+1 SEX M
+1 FAMC @F300@
+1 FAMS @F302@
+1 BIRT
+2 DATE 1579
+2 PLAC England
+2 SOUR @S183@
+2 SOUR @XkYfWXOxTRycLRJJyxNy@
+3 _APID 1,7836::847519
+3 PAGE Source number: 2423.000; Source type: Electronic Database; N
+4 CONC umber of Pages: 1; Submitter Code: RKM
+1 WILL
+2 DATE 09 JUL 1656
+2 PLAC Wincanton, Somerset, England
+2 SOUR @CNCZKGpeSrKJ6BUTT9Hu@
+3 PAGE p. viii
+3 QUAY 1
+1 DEAT
+2 DATE JAN 1657
+2 PLAC Wincanton, Somerset, England
+2 SOUR @S188@
+3 _APID 1,1610::638703
+1 BURI
+2 DATE 23 JAN 1657
+2 PLAC Wincanton, Somerset, England
+2 SOUR @CNCZKGpeSrKJ6BUTT9Hu@
+3 PAGE p. viii
+3 QUAY 1
+1 PROB
+2 DATE 30 JUN 1657
+2 SOUR @CNCZKGpeSrKJ6BUTT9Hu@
+3 PAGE p. viii
+3 QUAY 1
+2 NOTE see Talbot v. Moger (in UK National Archives: C10/46/188)
+0 @I389@ INDI
+1 _XY 30 354
+1 REFN dae2e19f-c237-40dc-bd14-be388368e0cf
+1 NAME Hugh /Moger/
+2 SOUR @S183@
+2 SOUR @wUzo8nJ5TOiqkGFxDvd2@
+3 _APID 1,2496::56922
+3 OBJE @M175@
+2 SOUR @S182@
+3 _APID 1,60856::1882221
+3 PAGE Somerset Heritage Service; Taunton, Somerset, England; Somer
+4 CONC set Parish Records, 1538-1913; Reference Number: D\P\cuck/2/
+4 CONC 1/1
+3 OBJE @M162@
+1 SEX M
+1 FAMC @F302@
+1 FAMS @F305@
+1 BAPM
+2 DATE 05 MAR 1609
+2 PLAC Cucklington, Somerset, England
+2 SOUR @S185@
+3 PAGE p. 1
+2 SOUR @S182@
+3 _APID 1,60856::1882221
+3 PAGE Somerset Heritage Service; Taunton, Somerset, England; Somer
+4 CONC set Parish Records, 1538-1913; Reference Number: D\P\cuck/2/
+4 CONC 1/1
+3 OBJE @M162@
+1 BIRT
+2 DATE ABT MAR 1609
+1 BIRT
+2 DATE 1613
+2 SOUR @wUzo8nJ5TOiqkGFxDvd2@
+3 _APID 1,2496::56922
+3 OBJE @M175@
+1 IMMI
+2 DATE FROM 05 APR 1632 TO 05 JUN 1632
+2 PLAC Boston, Suffolk, Massachusetts, USA
+2 SOUR @S187@
+3 QUAY 1
+3 DATA
+4 TEXT There is a listing in the book "Directory of the Ancestral H
+5 CONC eads of New England Families that says a Hugh Mosher came t
+5 CONC o America in 1632, settled at Salam, Mass. and then moved t
+5 CONC o RI in 1661. This is supported by a note in "Banks Topograp
+5 CONC hical Dictionary of 2885 English Emigrants to New England (1
+5 CONC 620-1650)" lists Hugh Mosier of Cucklington, Somersetshire
+5 CONC , England as Traveling to America in 1632 on the James and e
+5 CONC ventually settling in RI.
+5 CONT
+5 CONT This is confirmed by a passenger list in Winthrop's Journal
+5 CONC . The heading of the list was:
+5 CONT
+5 CONT James, Captain Grant, Master. Sailed from london about the f
+5 CONC irst week of April - Arrived Boston June 5. She brought 12 P
+5 CONC assengers
+5 CONT The London Rolls Office supports this in a volume called "
+5 CONC A Booke of Entrie for Pafsengers by ye comifsion, and Souldi
+5 CONC ers according to the Statuti pafsing beyond the Seas, begu
+5 CONC n at Chriftmas, 1631. and ending at Criftmas, 1632", which l
+5 CONC ists all the other passengers of the James, including "Hug
+5 CONC h Moier" under the heading:
+5 CONT Aprilis, 1632.-The names of such Men women and children wc
+5 CONC h are to passe to New England to be resident there vppon a P
+5 CONC lantacon, have tendred and taken the oath of allegeance acco
+5 CONC rding to ye Statute
+5 CONT It should be noted that Winthrop's Journal listed "Casco Bay
+5 CONC " - a town in Maine - beside the name of Hugh Mosher.
+2 NOTE on ship "James"
+1 EVEN
+2 TYPE Departure
+2 DATE 1632
+2 SOUR @wUzo8nJ5TOiqkGFxDvd2@
+3 _APID 1,2496::56922
+3 OBJE @M175@
+1 RESI
+2 DATE FROM JUL 1632 TO 26 SEP 1666
+2 PLAC Casco Bay, Maine, USA
+1 DEAT
+2 DATE 1666
+2 SOUR @wUzo8nJ5TOiqkGFxDvd2@
+3 _APID 1,2496::56922
+3 OBJE @M175@
+1 PROB
+2 DATE 26 SEP 1666
+2 PLAC Casco Bay, Maine, USA
+2 SOUR @S189@
+1 RESI
+2 PLAC Portland, Cumberland, Maine, USA
+2 SOUR @wUzo8nJ5TOiqkGFxDvd2@
+3 _APID 1,2496::56922
+3 OBJE @M175@
+2 NOTE Portland was named "Casco" at this time.
 0 @GEj80RhFQ2CaELtO6d5B@ INDI
 1 _XY 6751 474
 1 REFN 3cdab693-9c71-406f-87e7-3f0164dce623
@@ -5539,14 +6087,25 @@
 3 _APID 1,3599::756328
 2 SOUR @N6EpiaNTS4y7ivSXES5Z@
 3 _APID 1,5769::3190320
+2 SOUR @ZtAQnlXATEaLcqcHzjiT@
+3 _APID 1,5771::1858318
+2 SOUR @S183@
+2 SOUR @lIFoQFKzTHCalwRjxIxf@
+3 _APID 1,7249::10629958
 2 SOUR @XkYfWXOxTRycLRJJyxNy@
 3 _APID 1,7836::867302
 3 PAGE Source number: 1514.000; Source type: Electronic Database; N
 4 CONC umber of Pages: 1; Submitter Code: CGA
+2 SOUR @XkYfWXOxTRycLRJJyxNy@
+3 _APID 1,7836::867307
+3 PAGE Source number: 253.000; Source type: Electronic Database; Nu
+4 CONC mber of Pages: 1; Submitter Code: RWK
 1 SEX M
 1 FAMC @Y1EqC4eHRReB91rN6BHl@
-1 FAMS @pIDPVHBGQM6lxsUt5lcg@
 1 FAMS @FpSmj7eiSECEkyexIYXl@
+1 FAMS @pIDPVHBGQM6lxsUt5lcg@
+1 OBJE @M159@
+1 OBJE @M160@
 1 BIRT
 2 DATE 12 JUN 1632
 2 PLAC Cucklington, Somerset, England
@@ -5558,17 +6117,18 @@
 2 SOUR @91JIXBEJQz6bVLkVlmAF@
 2 SOUR @N6EpiaNTS4y7ivSXES5Z@
 3 _APID 1,5769::3190320
+2 SOUR @S183@
+2 SOUR @lIFoQFKzTHCalwRjxIxf@
+3 _APID 1,7249::10629958
 2 SOUR @XkYfWXOxTRycLRJJyxNy@
 3 _APID 1,7836::867302
 3 PAGE Source number: 1514.000; Source type: Electronic Database; N
 4 CONC umber of Pages: 1; Submitter Code: CGA
+2 SOUR @XkYfWXOxTRycLRJJyxNy@
+3 _APID 1,7836::867307
+3 PAGE Source number: 253.000; Source type: Electronic Database; Nu
+4 CONC mber of Pages: 1; Submitter Code: RWK
 2 NOTE Cucklington is just a guess
-1 RESI
-2 DATE FROM 12 JUN 1632 TO 1658
-2 PLAC Cucklington, Somerset, England
-3 MAP
-4 LATI N51.0465
-4 LONG W2.3503
 1 IMMI
 2 DATE ABT 1658
 2 PLAC Newport, Newport, Rhode Island, USA
@@ -5584,12 +6144,6 @@
 3 CONC d Jun 1657. Assume emigrated left not too long thereafter. A
 3 CONC lso, this Hugh is in Newport for the Westerly land deed of 2
 3 CONC 9 Jun 1660.
-1 RESI
-2 DATE FROM 1658 TO 01 SEP 1661
-2 PLAC Newport, Newport, Rhode Island, USA
-3 MAP
-4 LATI N41.4901
-4 LONG W71.3129
 1 EVEN
 2 TYPE purchased land
 2 DATE 29 JUN 1660
@@ -6936,6 +7490,9 @@
 4 LATI N41.4901
 4 LONG W71.3129
 2 SOUR @91JIXBEJQz6bVLkVlmAF@
+2 SOUR @S184@
+2 SOUR @lIFoQFKzTHCalwRjxIxf@
+3 _APID 1,7249::10629958
 1 BURI
 2 DATE 07 DEC 1713
 2 PLAC Dartmouth, Bristol, Massachusetts, USA
@@ -6985,12 +7542,390 @@
 5 CONT 19th-century Baptist historian David Benedict states that i
 5 CONC t is the ninth-oldest Baptist
 5 CONT congregation in the country.
+0 @I390@ INDI
+1 _XY 1259 354
+1 REFN 5291840c-be13-405d-891c-19fd826c7a89
+1 NAME James /Moger/
+2 SOUR @S183@
+1 SEX M
+1 FAMC @Y1EqC4eHRReB91rN6BHl@
+1 BIRT
+2 DATE ABT 1643
+2 PLAC Cucklington, Somerset, England
+2 SOUR @S183@
+2 NOTE place is assumed
+1 DEAT
+2 DATE 07 DEC 1713
+2 PLAC Boston, Massachusetts, USA
+2 SOUR @S184@
 0 @1WmbPQwhTI6jRnazFtZJ@ INDI
 1 _XY 6771 284
 1 REFN 2380f9f2-cad8-45ef-9547-6d062f9605e5
 1 NAME John /Moger/
+2 SOUR @S183@
+2 SOUR @S182@
+3 _APID 1,60856::1881824
+3 PAGE Somerset Heritage Service; Taunton, Somerset, England; Somer
+4 CONC set Parish Records, 1538-1913; Reference Number: D\P\cuck/2/
+4 CONC 1/1; Moger/Browne marriage (1566)
+3 OBJE @M161@
+2 SOUR @S182@
+3 _APID 1,60856::1881897
+3 PAGE Somerset Heritage Service; Taunton, Somerset, England; Somer
+4 CONC set Parish Records, 1538-1914; Reference Number: D\P\cuck/2/
+4 CONC 1/1; 1576
+3 OBJE @M168@
+2 SOUR @S182@
+3 _APID 1,60856::151882045
+3 PAGE Somerset Heritage Service; Taunton, Somerset, England; Somer
+4 CONC set Parish Records, 1538-1914; Reference Number: D\P\cuck/2/
+4 CONC 1/1; baptism of Edeth Moger (1595)
+3 OBJE @M171@
+2 SOUR @S182@
+3 _APID 1,60856::151881931
+3 PAGE Somerset Heritage Service; Taunton, Somerset, England; Somer
+4 CONC set Parish Records, 1538-1914; Reference Number: D\P\cuck/2/
+4 CONC 1/1; baptism of Edith Moger (1581)
+3 OBJE @M170@
+2 SOUR @S182@
+3 _APID 1,60856::151881948
+3 PAGE Somerset Heritage Service; Taunton, Somerset, England; Somer
+4 CONC set Parish Records, 1538-1914; Reference Number: D\P\cuck/2/
+4 CONC 1/1; baptism of John Moger (1585)
+3 OBJE @M170@
+2 SOUR @S182@
+3 _APID 1,60856::151882017
+3 PAGE Somerset Heritage Service; Taunton, Somerset, England; Somer
+4 CONC set Parish Records, 1538-1914; Reference Number: D\P\cuck/2/
+4 CONC 1/1; baptism of John Moger (1590)
+3 OBJE @M171@
+2 SOUR @S182@
+3 _APID 1,60856::151882064
+3 PAGE Somerset Heritage Service; Taunton, Somerset, England; Somer
+4 CONC set Parish Records, 1538-1914; Reference Number: D\P\cuck/2/
+4 CONC 1/1; baptism of Nicholas Moger (1596)
+3 OBJE @M177@
+2 SOUR @S182@
+3 _APID 1,60856::151881974
+3 PAGE Somerset Heritage Service; Taunton, Somerset, England; Somer
+4 CONC set Parish Records, 1538-1914; Reference Number: D\P\cuck/2/
+4 CONC 1/1; baptism of Robert Moger (1587)
+3 OBJE @M176@
+2 SOUR @S182@
+3 _APID 1,60856::151882001
+3 PAGE Somerset Heritage Service; Taunton, Somerset, England; Somer
+4 CONC set Parish Records, 1538-1914; Reference Number: D\P\cuck/2/
+4 CONC 1/1; baptism of Robert Moger (1589)
+3 OBJE @M176@
+2 SOUR @S182@
+3 _APID 1,60856::601882172
+3 PAGE Somerset Heritage Service; Taunton, Somerset, England; Somer
+4 CONC set Parish Records, 1538-1914; Reference Number: D\P\cuck/2/
+4 CONC 1/1; burial of Frauncis Moger (1605)
+3 OBJE @M173@
+2 SOUR @S182@
+3 _APID 1,60856::1882266
+3 PAGE Somerset Heritage Service; Taunton, Somerset, England; Somer
+4 CONC set Parish Records, 1538-1914; Reference Number: D\P\cuck/2/
+4 CONC 1/1; burial of Jhon Moger (1611)
+3 OBJE @M174@
 1 SEX M
-1 FAMS @rBmkmaTuSmiKEXNPWjXf@
+1 FAMS @F300@
+1 FAMS @F299@
+1 NOTE This tree contains the English descendants of John Moger, o
+2 CONC f Cucklington, Somerset, England, through 2 generations.
+2 CONT
+2 CONT The name Moger was later changed to Mosher or Moshier.
+2 CONT
+2 CONT The most notable descendants are the two Hugh Mosher's tha
+2 CONC t emigrated to the USA. One was known as "Hugh Mosher of Cas
+2 CONC co Bay, Maine." His father is often listed (in other genealo
+2 CONC gies) as John Moger/Mosher, but this is incorrect. His rea
+2 CONC l father was Hugh Moger (who was the son of John Moger). Th
+2 CONC e error can be traced to the second edition of "Descendant
+2 CONC s of Hugh Mosher and Rebecca Maxson Through Seven Generation
+2 CONC s," which contained this typo (on page viii). The "Errata an
+2 CONC d Addenda" lists the correction.
+2 CONT
+2 CONT The other Hugh Mosher is known as "Hugh Mosher of Portsmouth
+2 CONC , Rhode Island," or "Hugh Mosher of Dartmouth, Massachusetts
+2 CONC ," or even "Hugh Mosher of Tiverton, Rhode Island." This i
+2 CONC s the Hugh Mosher that signed the first land deed of Westerl
+2 CONC y, Rhode Island on 29 June 1660. This Hugh's father was Nich
+2 CONC olas Moger (son of John Moger). Note that another error in t
+2 CONC he "Descendants of Hugh Mosher" book (on page 1) lists Nicho
+2 CONC las's father as Hugh Moger; again, the "Errata and Addenda
+2 CONC " lists the correction: Nicholas's father was John Moger.
+1 BIRT
+2 DATE ABT 1546
+2 PLAC Cucklington, Somerset, England
+2 SOUR @S183@
+1 BURI
+2 DATE 15 JAN 1612
+2 PLAC Cucklington, Somerset, England
+2 SOUR @S185@
+3 PAGE p. viii
+3 QUAY 1
+2 SOUR @S182@
+3 _APID 1,60856::1882266
+3 PAGE Somerset Heritage Service; Taunton, Somerset, England; Somer
+4 CONC set Parish Records, 1538-1914; Reference Number: D\P\cuck/2/
+4 CONC 1/1; burial of Jhon Moger (1611)
+3 OBJE @M174@
+1 DEAT
+2 DATE ABT JAN 1612
+2 PLAC Cucklington, Somerset, England
+2 SOUR @S182@
+3 _APID 1,60856::1882266
+3 PAGE Somerset Heritage Service; Taunton, Somerset, England; Somer
+4 CONC set Parish Records, 1538-1914; Reference Number: D\P\cuck/2/
+4 CONC 1/1; burial of Jhon Moger (1611)
+3 OBJE @M174@
+0 @I391@ INDI
+1 _XY 329 155
+1 REFN 93da5bfc-9993-481f-bb4d-79449a94105b
+1 NAME John /Moger/
+2 SOUR @S183@
+2 SOUR @S182@
+3 _APID 1,60856::1881948
+3 PAGE Somerset Heritage Service; Taunton, Somerset, England; Somer
+4 CONC set Parish Records, 1538-1914; Reference Number: D\P\cuck/2/
+4 CONC 1/1; baptism of John Moger (1584)
+3 OBJE @M170@
+2 SOUR @S182@
+3 _FOOT Ancestry.com, Somerset, England, Church of England Baptisms
+4 CONC , Marriages, and Burials, 1531-1812 (Ancestry.com Operations
+4 CONC , Inc.), Ancestry.com, Somerset Heritage Service; Taunton, S
+4 CONC omerset, England; Somerset Parish Records, 1538-1914; Refere
+4 CONC nce Number: D\P\cuck/2/1/1; burial of John Moger (1584).
+3 _APID 1,60856::1881949
+3 PAGE Somerset Heritage Service; Taunton, Somerset, England; Somer
+4 CONC set Parish Records, 1538-1914; Reference Number: D\P\cuck/2/
+4 CONC 1/1; burial of John Moger (1585)
+3 OBJE @M170@
+1 SEX M
+1 FAMC @F300@
+1 BIRT
+2 DATE ABT OCT 1584
+1 BAPM
+2 DATE 27 OCT 1584
+2 PLAC Cucklington, Somerset, England
+2 SOUR @CNCZKGpeSrKJ6BUTT9Hu@
+3 PAGE p. viii
+2 SOUR @S182@
+3 _APID 1,60856::1881948
+3 PAGE Somerset Heritage Service; Taunton, Somerset, England; Somer
+4 CONC set Parish Records, 1538-1914; Reference Number: D\P\cuck/2/
+4 CONC 1/1; baptism of John Moger (1584)
+3 OBJE @M170@
+1 DEAT
+2 DATE 27 NOV 1584
+2 PLAC Cucklington, Somerset, England
+2 SOUR @CNCZKGpeSrKJ6BUTT9Hu@
+3 PAGE p. viii
+3 QUAY 1
+2 SOUR @S182@
+3 _FOOT Ancestry.com, Somerset, England, Church of England Baptisms
+4 CONC , Marriages, and Burials, 1531-1812 (Ancestry.com Operations
+4 CONC , Inc.), Ancestry.com, Somerset Heritage Service; Taunton, S
+4 CONC omerset, England; Somerset Parish Records, 1538-1914; Refere
+4 CONC nce Number: D\P\cuck/2/1/1; burial of John Moger (1584).
+3 _APID 1,60856::1881949
+3 PAGE Somerset Heritage Service; Taunton, Somerset, England; Somer
+4 CONC set Parish Records, 1538-1914; Reference Number: D\P\cuck/2/
+4 CONC 1/1; burial of John Moger (1585)
+3 OBJE @M170@
+1 BURI
+2 DATE 28 NOV 1584
+2 PLAC Cucklington, Somerset, England
+2 SOUR @S182@
+3 _FOOT Ancestry.com, Somerset, England, Church of England Baptisms
+4 CONC , Marriages, and Burials, 1531-1812 (Ancestry.com Operations
+4 CONC , Inc.), Ancestry.com, Somerset Heritage Service; Taunton, S
+4 CONC omerset, England; Somerset Parish Records, 1538-1914; Refere
+4 CONC nce Number: D\P\cuck/2/1/1; burial of John Moger (1584).
+3 _APID 1,60856::1881949
+3 PAGE Somerset Heritage Service; Taunton, Somerset, England; Somer
+4 CONC set Parish Records, 1538-1914; Reference Number: D\P\cuck/2/
+4 CONC 1/1; burial of John Moger (1585)
+3 OBJE @M170@
+0 @I392@ INDI
+1 _XY 605 155
+1 REFN 48dfb101-a395-4406-9f75-db4272e7afd9
+1 NAME John /Moger/
+2 SOUR @S183@
+2 SOUR @S182@
+3 _APID 1,60856::1882017
+3 PAGE Somerset Heritage Service; Taunton, Somerset, England; Somer
+4 CONC set Parish Records, 1538-1914; Reference Number: D\P\cuck/2/
+4 CONC 1/1
+3 OBJE @M171@
+1 SEX M
+1 FAMC @F300@
+1 BIRT
+2 DATE ABT JUL 1590
+1 BAPM
+2 DATE 26 JUL 1590
+2 PLAC Cucklington, Somerset, England
+2 SOUR @CNCZKGpeSrKJ6BUTT9Hu@
+3 PAGE p. viii
+2 SOUR @S182@
+3 _APID 1,60856::1882017
+3 PAGE Somerset Heritage Service; Taunton, Somerset, England; Somer
+4 CONC set Parish Records, 1538-1914; Reference Number: D\P\cuck/2/
+4 CONC 1/1
+3 OBJE @M171@
+0 @I393@ INDI
+1 _XY 271 354
+1 REFN 31fec660-5938-4f62-9649-cbcb3261bab7
+1 NAME John /Moger/
+2 SOUR @S183@
+2 SOUR @S182@
+3 _APID 1,60856::1882288
+3 PAGE Somerset Heritage Service; Taunton, Somerset, England; Somer
+4 CONC set Parish Records, 1538-1914; Reference Number: D\P\cuck/2/
+4 CONC 1/1
+3 OBJE @M174@
+2 SOUR @S182@
+3 _APID 1,60856::151071745
+3 PAGE Somerset Heritage Service; Taunton, Somerset, England; Somer
+4 CONC set Parish Records, 1538-1914; Reference Number: D\P\winc/2/
+4 CONC 1/1
+3 OBJE @M167@
+1 SEX M
+1 FAMC @F302@
+1 FAMS @F298@
+1 BIRT
+2 DATE ABT NOV 1613
+1 BAPM
+2 DATE 18 NOV 1613
+2 PLAC Cucklington, Somerset, England
+2 SOUR @S182@
+3 _APID 1,60856::1882288
+3 PAGE Somerset Heritage Service; Taunton, Somerset, England; Somer
+4 CONC set Parish Records, 1538-1914; Reference Number: D\P\cuck/2/
+4 CONC 1/1
+3 OBJE @M174@
+1 CHR
+2 DATE 18 NOV 1613
+2 PLAC Cucklington, Somerset, England
+2 SOUR @S185@
+3 PAGE p. viii
+3 QUAY 1
+1 BURI
+2 DATE 15 AUG 1670
+2 PLAC Wincanton, Somerset, England
+2 SOUR @S185@
+3 PAGE p. viii
+3 QUAY 1
+1 DEAT
+2 DATE ABT AUG 1670
+2 PLAC Wincanton, Somerset, England
+0 @I394@ INDI
+1 _XY 861 354
+1 REFN df37822b-6296-4b97-aa3d-710c84413d35
+1 NAME John /Moger/
+2 SOUR @S183@
+1 SEX M
+1 FAMC @Y1EqC4eHRReB91rN6BHl@
+1 BIRT
+2 DATE 1635
+2 PLAC Cucklington, Somerset, England
+2 SOUR @S184@
+2 NOTE place is assumed
+1 DEAT
+2 DATE 1656
+2 SOUR @S187@
+3 QUAY 1
+0 @I395@ INDI
+1 REFN d9baf863-1355-40d1-adf4-888c5bb0febe
+1 NAME John /Moger/
+2 SOUR @S182@
+3 _APID 1,60856::1071896
+3 PAGE Somerset, England, Church of England Baptisms, Marriages, an
+4 CONC d Burials, 1531-1812 Record
+3 OBJE @M178@
+1 SEX M
+1 FAMC @F298@
+1 BIRT
+2 DATE ABT JAN 1656
+2 PLAC Wincanton, Somerset, England
+2 SOUR @S182@
+3 _APID 1,60856::1071896
+3 PAGE Somerset, England, Church of England Baptisms, Marriages, an
+4 CONC d Burials, 1531-1812 Record
+3 OBJE @M178@
+1 BAPM
+2 DATE 16 JAN 1656
+2 PLAC Wincanton, Somerset, England
+2 SOUR @S182@
+3 _APID 1,60856::1071896
+3 PAGE Somerset, England, Church of England Baptisms, Marriages, an
+4 CONC d Burials, 1531-1812 Record
+3 OBJE @M178@
+0 @I396@ INDI
+1 _XY 1017 354
+1 REFN 1c1138cb-1e57-41c6-9379-af6315470aba
+1 NAME Joseph /Moger/
+2 SOUR @S183@
+1 SEX M
+1 FAMC @Y1EqC4eHRReB91rN6BHl@
+1 BIRT
+2 DATE ABT 1640
+2 PLAC Cucklington, Somerset, England
+2 SOUR @S183@
+0 @I397@ INDI
+1 _XY 349 354
+1 REFN 286cae09-0777-4154-9eac-d70117ee7f97
+1 NAME Mabel /Moger/
+2 SOUR @S183@
+2 SOUR @S182@
+3 _APID 1,60856::1882311
+3 PAGE Somerset Heritage Service; Taunton, Somerset, England; Somer
+4 CONC set Parish Records, 1538-1914; Reference Number: D\P\cuck/2/
+4 CONC 1/1
+3 OBJE @M174@
+1 SEX F
+1 FAMC @F302@
+1 BAPM
+2 DATE 11 FEB 1616
+2 PLAC Cucklington, Somerset, England
+2 SOUR @CNCZKGpeSrKJ6BUTT9Hu@
+3 PAGE p. viii
+2 SOUR @S182@
+3 _APID 1,60856::1882311
+3 PAGE Somerset Heritage Service; Taunton, Somerset, England; Somer
+4 CONC set Parish Records, 1538-1914; Reference Number: D\P\cuck/2/
+4 CONC 1/1
+3 OBJE @M174@
+1 BIRT
+2 DATE ABT FEB 1616
+0 @I398@ INDI
+1 REFN 917c15d8-bcae-4e79-8129-7c7673da6a20
+1 NAME Margaret /Moger/
+2 SOUR @S182@
+3 _APID 1,60856::1071745
+3 PAGE Somerset, England, Church of England Baptisms, Marriages, an
+4 CONC d Burials, 1531-1812 Record
+3 OBJE @M167@
+1 SEX F
+1 FAMC @F298@
+1 BIRT
+2 DATE ABT JAN 1652
+2 PLAC Wincanton, Somerset, England
+2 SOUR @S182@
+3 _APID 1,60856::1071745
+3 PAGE Somerset, England, Church of England Baptisms, Marriages, an
+4 CONC d Burials, 1531-1812 Record
+3 OBJE @M167@
+1 BAPM
+2 DATE 16 JAN 1652
+2 PLAC Wincanton, Somerset, England
+2 SOUR @S182@
+3 _APID 1,60856::1071745
+3 PAGE Somerset, England, Church of England Baptisms, Marriages, an
+4 CONC d Burials, 1531-1812 Record
+3 OBJE @M167@
 0 @kHudFuGSTuuBIALbg37c@ INDI
 1 _XY 6905 452
 1 REFN 2d0f9dc2-a1dd-4d0b-9557-45bc5acce66d
@@ -6998,19 +7933,126 @@
 1 SEX F
 1 FAMC @Y1EqC4eHRReB91rN6BHl@
 1 FAMS @cYd5V1CvQvmlIvrdsmMQ@
+0 @I399@ INDI
+1 _XY 120 155
+1 REFN feedc37e-e00f-4328-81b1-52c85e1a5cfa
+1 NAME Mary /Moger/
+2 SOUR @S183@
+2 SOUR @S182@
+3 _APID 1,60856::1881866
+3 PAGE Somerset Heritage Service; Taunton, Somerset, England; Somer
+4 CONC set Parish Records, 1538-1914; Reference Number: D\P\cuck/2/
+4 CONC 1/1
+3 OBJE @M168@
+1 SEX F
+1 FAMC @F299@
+1 BIRT
+2 DATE ABT SEP 1570
+1 BAPM
+2 DATE 29 SEP 1570
+2 PLAC Cucklington, Somerset, England
+2 SOUR @CNCZKGpeSrKJ6BUTT9Hu@
+3 PAGE p. vii
+2 SOUR @S182@
+3 _APID 1,60856::1881866
+3 PAGE Somerset Heritage Service; Taunton, Somerset, England; Somer
+4 CONC set Parish Records, 1538-1914; Reference Number: D\P\cuck/2/
+4 CONC 1/1
+3 OBJE @M168@
+0 @I400@ INDI
+1 _XY 530 354
+1 REFN 270a48b3-b944-4d70-88e2-0c8403f45728
+1 NAME Mary /Moger/
+2 SOUR @S183@
+2 SOUR @S182@
+3 _APID 1,60856::1882375
+3 PAGE Somerset Heritage Service; Taunton, Somerset, England; Somer
+4 CONC set Parish Records, 1538-1914; Reference Number: D\P\cuck/2/
+4 CONC 1/1
+3 OBJE @M169@
+1 SEX F
+1 FAMC @F302@
+1 BIRT
+2 DATE ABT JUN 1621
+1 BAPM
+2 DATE 15 JUN 1621
+2 PLAC Cucklington, Somerset, England
+2 SOUR @S182@
+3 _APID 1,60856::1882375
+3 PAGE Somerset Heritage Service; Taunton, Somerset, England; Somer
+4 CONC set Parish Records, 1538-1914; Reference Number: D\P\cuck/2/
+4 CONC 1/1
+3 OBJE @M169@
+1 DEAT
+2 DATE BEF 09 JUL 1656
+2 SOUR @CNCZKGpeSrKJ6BUTT9Hu@
+3 PAGE p. ix
+3 QUAY 1
+0 @I402@ INDI
+1 REFN 2ad47f2e-7d86-47cb-9888-918aee4f9d34
+1 NAME Mary /Moger/
+2 SOUR @S182@
+3 _APID 1,60856::1071990
+3 PAGE Somerset, England, Church of England Baptisms, Marriages, an
+4 CONC d Burials, 1531-1812 Record
+3 OBJE @M179@
+1 SEX F
+1 FAMC @F298@
+1 BIRT
+2 DATE ABT 1658
+2 PLAC Wincanton, Somerset, England
+2 SOUR @S182@
+3 _APID 1,60856::1071990
+3 PAGE Somerset, England, Church of England Baptisms, Marriages, an
+4 CONC d Burials, 1531-1812 Record
+3 OBJE @M179@
+0 @kHudFuGSTuuBIALbg37c@ INDI
+1 _XY 1096 354
+1 REFN 2d0f9dc2-a1dd-4d0b-9557-45bc5acce66d
+1 NAME Mary /Moger/
+2 SOUR @S183@
+1 SEX F
+1 FAMC @Y1EqC4eHRReB91rN6BHl@
+1 BIRT
+2 DATE ABT 1641
+2 PLAC Cucklington, Somerset, England
+2 SOUR @S183@
+2 NOTE place is assumed
+1 DEAT
+2 DATE 02 FEB 1718
+2 PLAC Westerly, Washington, Rhode Island, USA
+2 SOUR @S184@
 0 @jfMptGYWSuWvYZDgBw9o@ INDI
 1 _XY 6788 351
 1 REFN 341de419-8aab-48bc-9060-0bcde3cd7e2a
 1 NAME Nicholas /Moger/
+2 SOUR @S190@
+3 _APID 1,5774::1726582
+2 SOUR @S183@
+2 SOUR @S182@
+3 _APID 1,60856::1882064
+3 PAGE Somerset Heritage Service; Taunton, Somerset, England; Somer
+4 CONC set Parish Records, 1538-1914; Reference Number: D\P\cuck/2/
+4 CONC 1/1
+3 OBJE @M177@
+2 SOUR @XkYfWXOxTRycLRJJyxNy@
+3 _APID 1,7836::847528
+3 PAGE Source number: 2420.000; Source type: Electronic Database; N
+4 CONC umber of Pages: 1; Submitter Code: RKM
+2 SOUR @XkYfWXOxTRycLRJJyxNy@
+3 _APID 1,7836::847529
+3 PAGE Source number: 251.000; Source type: Electronic Database; Nu
+4 CONC mber of Pages: 1; Submitter Code: RWK
+2 SOUR @XkYfWXOxTRycLRJJyxNy@
+3 _APID 1,7836::847527
+3 PAGE Source number: 7967.000; Source type: Electronic Database; N
+4 CONC umber of Pages: 1; Submitter Code: HDG
 1 SEX M
-1 FAMC @rBmkmaTuSmiKEXNPWjXf@
+1 FAMC @F300@
 1 FAMS @Y1EqC4eHRReB91rN6BHl@
 1 BIRT
 2 DATE ABT DEC 1596
 2 PLAC Cucklington, Somerset, England
-3 MAP
-4 LATI N51.0465
-4 LONG W2.3503
 1 CHR
 2 DATE 19 DEC 1596
 2 PLAC Cucklington, Somerset, England
@@ -7020,14 +8062,120 @@
 2 SOUR @CNCZKGpeSrKJ6BUTT9Hu@
 3 PAGE p. viii
 3 QUAY 1
+1 BAPM
+2 DATE 19 DEC 1596
+2 PLAC Cucklington, Somerset, England
+2 SOUR @CNCZKGpeSrKJ6BUTT9Hu@
+3 PAGE p. viii
+2 SOUR @S182@
+3 _APID 1,60856::1882064
+3 PAGE Somerset Heritage Service; Taunton, Somerset, England; Somer
+4 CONC set Parish Records, 1538-1914; Reference Number: D\P\cuck/2/
+4 CONC 1/1
+3 OBJE @M177@
 1 IMMI
 2 DATE ABT 1658
+2 SOUR @CNCZKGpeSrKJ6BUTT9Hu@
+3 PAGE pp. viii-xi
+1 DEAT
+2 DATE ABT 1670
+2 NOTE just a guess
 1 RESI
 2 PLAC Westerly, Washington, Rhode Island, USA
 3 MAP
 4 LATI N41.3776
 4 LONG W71.8273
 2 SOUR @91JIXBEJQz6bVLkVlmAF@
+0 @I403@ INDI
+1 _XY 934 354
+1 REFN 2e77a746-b3d1-40b8-96ff-305cb5e7044b
+1 NAME Nicholas /Moger/
+2 SOUR @S183@
+1 SEX M
+1 FAMC @Y1EqC4eHRReB91rN6BHl@
+1 BIRT
+2 DATE ABT 1637
+2 PLAC Cucklington, Somerset, England
+2 SOUR @S183@
+2 NOTE place is assumed
+0 @I404@ INDI
+1 _XY 418 155
+1 REFN 12020742-2080-4e25-b40f-690ade4c1f66
+1 NAME Robert /Moger/
+2 SOUR @S183@
+2 SOUR @S182@
+3 _APID 1,60856::1881974
+3 PAGE Somerset Heritage Service; Taunton, Somerset, England; Somer
+4 CONC set Parish Records, 1538-1914; Reference Number: D\P\cuck/2/
+4 CONC 1/1
+3 OBJE @M176@
+1 SEX M
+1 FAMC @F300@
+1 BIRT
+2 DATE ABT SEP 1587
+1 BAPM
+2 DATE 21 SEP 1587
+2 PLAC Cucklington, Somerset, England
+2 SOUR @CNCZKGpeSrKJ6BUTT9Hu@
+3 PAGE p. viii
+2 SOUR @S182@
+3 _APID 1,60856::1881974
+3 PAGE Somerset Heritage Service; Taunton, Somerset, England; Somer
+4 CONC set Parish Records, 1538-1914; Reference Number: D\P\cuck/2/
+4 CONC 1/1
+3 OBJE @M176@
+1 DEAT
+2 DATE BEF 04 FEB 1589
+2 PLAC Cucklington, Somerset, England
+0 @I405@ INDI
+1 _XY 522 155
+1 REFN 8a1fc0d6-f101-49dd-8dbc-989c5de26794
+1 NAME Robert /Moger/
+2 SOUR @S183@
+2 SOUR @S182@
+3 _APID 1,60856::1882001
+3 PAGE Somerset Heritage Service; Taunton, Somerset, England; Somer
+4 CONC set Parish Records, 1538-1914; Reference Number: D\P\cuck/2/
+4 CONC 1/1
+3 OBJE @M176@
+1 SEX M
+1 FAMC @F300@
+1 BAPM
+2 DATE 04 FEB 1589
+2 PLAC Cucklington, Somerset, England
+2 SOUR @CNCZKGpeSrKJ6BUTT9Hu@
+3 PAGE p. viii
+2 SOUR @S182@
+3 _APID 1,60856::1882001
+3 PAGE Somerset Heritage Service; Taunton, Somerset, England; Somer
+4 CONC set Parish Records, 1538-1914; Reference Number: D\P\cuck/2/
+4 CONC 1/1
+3 OBJE @M176@
+1 BIRT
+2 DATE ABT FEB 1589
+0 @I406@ INDI
+1 REFN 5be651ae-98be-4285-b6ef-6e51f615f9df
+1 NAME Thomas /Moger/
+2 SOUR @S182@
+3 _APID 1,60856::151882254
+3 PAGE Somerset Heritage Service; Taunton, Somerset, England; Somer
+4 CONC set Parish Records, 1538-1914; Reference Number: D\P\cuck/2/
+4 CONC 1/1
+3 OBJE @M172@
+1 SEX M
+1 FAMS @F303@
+1 BIRT
+2 DATE ABT 1580
+0 @I407@ INDI
+1 _XY 373 209
+1 REFN 699b7faa-f393-4a37-a843-7b1d01adb535
+1 NAME Tristram /Moger/
+2 SOUR @S183@
+1 SEX M
+1 FAMC @F300@
+1 EVEN
+2 TYPE note
+2 NOTE there may be two Tristrams
 0 @DOLZ0VhPS5aeZqKyaadC@ INDI
 1 _XY 7000 949
 1 REFN 8507ada9-7ff0-48a5-8fbe-af74f86a9cbb
@@ -8665,6 +9813,13 @@
 2 SOUR @nfGl7WzrRE2Hc60cvLD2@
 3 _APID 1,4725::3371837
 3 PAGE Birth year: 1722; Birth city: Dartmouth; Birth state: MA
+0 @I408@ INDI
+1 REFN f5fb54b6-c846-477c-86dd-e0838eb210d2
+1 NAME James /Mosher/
+1 SEX M
+1 FAMC @F305@
+1 BIRT
+2 DATE ABT 1638
 0 @kMrKRC5sQVWkp3rsNY1Y@ INDI
 1 _XY 7125 743
 1 REFN 4379e241-955f-4465-955c-e9301bbabb76
@@ -8733,6 +9888,14 @@
 2 SOUR @CNCZKGpeSrKJ6BUTT9Hu@
 3 PAGE p. 17
 3 QUAY 1
+0 @I409@ INDI
+1 REFN e266e920-2351-4d0b-b469-e98d934ee1be
+1 NAME John /Mosher/
+1 SEX M
+1 FAMC @F305@
+1 FAMS @F301@
+1 BIRT
+2 DATE ABT 1640
 0 @0YhUurZNR6O35DmUqd8m@ INDI
 1 _XY 6618 743
 1 REFN 22a19c9d-49ed-4ca2-aca7-4b6ef603d94c
@@ -12544,6 +13707,15 @@
 3 _APID 1,60525::66164883
 2 SOUR @GkjP7MzzQPeWUNGeYMpx@
 3 _APID 1,70572::8421594
+0 @I410@ INDI
+1 REFN 0060f60b-a88e-4b12-9bf2-a9cabbc67cb6
+1 NAME Richard /Oake/
+2 SOUR @XkYfWXOxTRycLRJJyxNy@
+3 _APID 1,7836::902227
+3 PAGE Source number: 7969.000; Source type: Electronic Database; N
+4 CONC umber of Pages: 1; Submitter Code: HDG
+1 SEX M
+1 FAMS @F304@
 0 @bOCKQ8hKSHSh1oPO4Ccg@ INDI
 1 _XY 2974 397
 1 REFN 103215d1-acc0-402c-abec-2b264fd2b87d
@@ -16818,11 +17990,142 @@
 4 LONG W71.8273
 2 SOUR @cHqs3hdITfGhgYkNTQzb@
 2 NOTE place is just a guess
-0 @rBmkmaTuSmiKEXNPWjXf@ FAM
-1 REFN 917de82c-3b57-482c-a3e9-70d2e7c2a73b
+0 @F38@ FAM
+1 MARR
+2 DATE 08 SEP 1566
+2 PLAC Cucklington, Somerset, England
+2 SOUR @CNCZKGpeSrKJ6BUTT9Hu@
+3 PAGE vii
+3 QUAY 1
+2 SOUR @S182@
+3 PAGE Somerset Heritage Service; Taunton, Somerset, England; Somer
+4 CONC set Parish Records, 1538-1913; Reference Number: D\P\cuck/2/
+4 CONC 1/1; Moger/Browne marriage (1566)
+3 OBJE @M161@
+1 MARR
+2 DATE 16 OCT 1576
+2 PLAC Cucklington, Somerset, England
+2 SOUR @CNCZKGpeSrKJ6BUTT9Hu@
+3 PAGE p. vii
+3 QUAY 1
+2 SOUR @S182@
+3 PAGE Somerset Heritage Service; Taunton, Somerset, England; Somer
+4 CONC set Parish Records, 1538-1914; Reference Number: D\P\cuck/2/
+4 CONC 1/1; 1576
+3 OBJE @M168@
+0 @F302@ FAM
+1 REFN 1c6dda96-f245-4b8f-b40f-27702d6bad58
+1 HUSB @I388@
+1 WIFE @I379@
+1 CHIL @I386@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I389@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I393@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I397@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I382@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I400@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR
+2 DATE ABT 1608
+2 NOTE based on birth dates of children
+0 @F305@ FAM
+1 REFN ab7a5638-c62a-4bf4-b44a-d345d2e02a87
+1 HUSB @I389@
+1 CHIL @I408@
+2 _FREL Natural
+1 CHIL @I409@
+2 _FREL Natural
+0 @F299@ FAM
+1 REFN 118437df-f1bd-4db4-8b60-2451fc5fda95
 1 HUSB @1WmbPQwhTI6jRnazFtZJ@
+1 WIFE @I376@
+1 CHIL @I380@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I399@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR
+2 DATE 08 SEP 1566
+2 PLAC Cucklington, Somerset, England
+2 SOUR @CNCZKGpeSrKJ6BUTT9Hu@
+3 PAGE vii
+3 QUAY 1
+2 SOUR @S182@
+3 _APID 1,60856::1881824
+3 PAGE Somerset Heritage Service; Taunton, Somerset, England; Somer
+4 CONC set Parish Records, 1538-1913; Reference Number: D\P\cuck/2/
+4 CONC 1/1; Moger/Browne marriage (1566)
+3 OBJE @M161@
+0 @F300@ FAM
+1 REFN 7c8b00ad-2aa4-4819-b68d-96bcb3cc2552
+1 HUSB @1WmbPQwhTI6jRnazFtZJ@
+1 WIFE @I377@
+1 CHIL @I387@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I407@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I388@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I383@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I391@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I404@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I405@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I392@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I384@
+2 _FREL Natural
+2 _MREL Natural
 1 CHIL @jfMptGYWSuWvYZDgBw9o@
 2 _FREL Natural
+2 _MREL Natural
+1 MARR
+2 DATE 16 OCT 1576
+2 PLAC Cucklington, Somerset, England
+2 SOUR @CNCZKGpeSrKJ6BUTT9Hu@
+3 PAGE p. vii
+3 QUAY 1
+2 SOUR @S182@
+3 _APID 1,60856::1881897
+3 PAGE Somerset Heritage Service; Taunton, Somerset, England; Somer
+4 CONC set Parish Records, 1538-1914; Reference Number: D\P\cuck/2/
+4 CONC 1/1; 1576
+3 OBJE @M168@
+0 @F298@ FAM
+1 REFN eeae672c-56b9-4b27-864a-a4673f0b8ef8
+1 HUSB @I393@
+1 WIFE @I375@
+1 CHIL @I398@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I395@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I402@
+2 _FREL Natural
+2 _MREL Natural
 0 @Y1EqC4eHRReB91rN6BHl@ FAM
 1 REFN 6de1ec00-8498-4ecc-9712-2047ad900135
 1 HUSB @jfMptGYWSuWvYZDgBw9o@
@@ -16830,9 +18133,42 @@
 1 CHIL @kHudFuGSTuuBIALbg37c@
 2 _FREL Natural
 2 _MREL Natural
+1 CHIL @kHudFuGSTuuBIALbg37c@
+2 _FREL Natural
+2 _MREL Natural
 1 CHIL @GEj80RhFQ2CaELtO6d5B@
 2 _FREL Natural
 2 _MREL Natural
+1 CHIL @I394@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I403@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I396@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I381@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I390@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR
+2 DATE ABT 1631
+2 PLAC Cucklington, Somerset, England
+2 SOUR @S190@
+3 _APID 1,5774::1726582
+2 SOUR @XkYfWXOxTRycLRJJyxNy@
+3 _APID 1,7836::847529
+3 PAGE Source number: 251.000; Source type: Electronic Database; Nu
+4 CONC mber of Pages: 1; Submitter Code: RWK
+2 NOTE Based on birth dates of children. Place is a guess.
+0 @F303@ FAM
+1 REFN e39a7f49-d03f-436c-a5d7-951eae924349
+1 HUSB @I406@
+1 CHIL @I385@
+2 _FREL Natural
 0 @OCH2zFVDRhC5fcvAXv4n@ FAM
 1 REFN be5e7fef-37df-435f-b8af-75807832a4a2
 1 HUSB @H9y77R6iTue1OqKRYmis@
@@ -17135,6 +18471,10 @@
 2 SOUR @H9NsrdLJQZi4I3umdlYg@
 3 PAGE p. 19
 3 QUAY 1
+0 @F301@ FAM
+1 REFN 42a3b56a-5afd-4006-893f-afd1a1633fd7
+1 HUSB @I409@
+1 WIFE @I378@
 0 @vI58j6lGTpKJxvAR6gKB@ FAM
 1 REFN 30dcdeb1-ef44-48dc-a266-089943c3b767
 1 HUSB @XiIS8Y13Q9it0577Fs2n@
@@ -17348,6 +18688,10 @@
 1 REFN 53cda838-60d9-440b-88cf-30d616243cc5
 1 HUSB @BrGmL6YCR7KAzaxkI3I3@
 1 WIFE @wlEBNfTgT4ukPcJ0CQ7q@
+0 @F304@ FAM
+1 REFN 7008678c-24b2-4b73-92d3-4ebd246a2efe
+1 HUSB @I410@
+1 WIFE @I386@
 0 @br9gNGeFRRymnZGFqPve@ FAM
 1 REFN 0b436519-a2a0-4186-97af-0d1d92f13aa9
 1 HUSB @MXWCwLiKTbaSRgaJzxHu@
@@ -17994,6 +19338,11 @@
 2 CONC 3 USA
 1 EMAIL https://books.google.com/
 1 PHON +1-650-253-0000
+0 @qoiFARVHSJOlOdzOUsT9@ REPO
+1 NAME Ancestry.com
+1 ADDR
+1 EMAIL
+1 PHON
 0 @9jhPyuNjT7Crw4hkg6Gj@ SOUR
 1 REFN 4ce69e52-b9c8-415f-b515-4218aa9b9a33
 1 REPO @qoiFARVHSJOlOdzOUsT9@
@@ -18146,6 +19495,11 @@
 1 TITL Ancestral File
 1 AUTH LDS
 1 PUBL http://www.familysearch.org/
+0 @S184@ SOUR
+1 REFN f5d2633b-4226-41db-8a58-d3e770d1707b
+1 TITL Ancestral File
+1 AUTH LDS
+1 PUBL http://www.familysearch.org
 0 @8mC6kbR7T2mY5Hq8QWJl@ SOUR
 1 REFN 5df06745-408d-48d3-b5eb-079a2bb0145e
 1 REPO @qoiFARVHSJOlOdzOUsT9@
@@ -18680,6 +20034,12 @@
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2014
+0 @S185@ SOUR
+1 REFN 17ab65b9-1451-4af5-966b-b18d1b687c39
+1 TITL Errata and Addenda [for Descendants of Hugh Mosher and Rebec
+2 CONC ca Maxson Through Seven Generations (revised edition)]
+1 AUTH Clarenbach, Laura
+1 PUBL Clarenbach, Laura, Madison, WI, c. 1990
 0 @N6EpiaNTS4y7ivSXES5Z@ SOUR
 1 REFN 31e32435-fe51-402a-86a6-9896dd6c8a9e
 1 REPO @qoiFARVHSJOlOdzOUsT9@
@@ -18701,6 +20061,12 @@
 1 AUTH Edmund West, comp.
 1 PUBL Ancestry.com Operations Inc; Location: Provo, UT, USA; Date
 2 CONC : 2000
+0 @S190@ SOUR
+1 REFN 9c718ac5-29e8-4f49-8317-c44a4bf3ccb6
+1 REPO @qoiFARVHSJOlOdzOUsT9@
+1 TITL Family Data Collection - Marriages
+1 AUTH Edmund West, comp.
+1 PUBL Ancestry.com Operations Inc
 0 @73MFgFRQQmyuFofOAHbp@ SOUR
 1 REFN 94de22b3-bcae-4e61-86e6-2ff2005e1fca
 1 TITL Farm Journal Illustrated Rural Directory of Madison County
@@ -18817,6 +20183,11 @@
 1 TITL International Genealogical Index (IGI)
 1 AUTH LDS
 1 PUBL http://www.familysearch.org/
+0 @S183@ SOUR
+1 REFN bc1e04d8-cf4c-4835-ad09-7a98ed8a6aa7
+1 TITL International Genealogical Index (IGI)
+1 AUTH LDS
+1 PUBL http://www.familysearch.org
 0 @lRr5AS5mR3GKMk74lPPQ@ SOUR
 1 REFN 50f4135e-62df-49fd-b1ad-5e91aa1c3e95
 1 TITL Interview
@@ -19467,6 +20838,11 @@
 1 TITL Pedigree Resource File
 1 AUTH LDS
 1 PUBL http://www.familysearch.org/
+0 @S189@ SOUR
+1 REFN f0efc7fb-0fc4-451d-b6b2-5d8363efd0b8
+1 TITL Pedigree Resource File
+1 AUTH LDS
+1 PUBL http://www.familysearch.org
 0 @3PtTlRYqTkOm5KNlPfu9@ SOUR
 1 REFN fc3f5fed-f361-47a1-a007-3d9e2dae92a0
 1 REPO @qoiFARVHSJOlOdzOUsT9@
@@ -20031,6 +21407,11 @@
 1 TITL Rob Altenburg's Genealogy Page
 1 AUTH Altenburg, Robert C.
 1 PUBL http://www.xlation.com/rca/gene/index.htm
+0 @S187@ SOUR
+1 REFN f5e15203-9bb2-49a1-88b2-d8203b57ccd2
+1 TITL Rob Altenburg's Genealogy Page: The Mosher (Moger) Family
+1 AUTH Altenburg, Robert C.
+1 PUBL http://altenburgs.com/gene/mosher.htm
 0 @deXrM73wSEiQKlXQZ7E9@ SOUR
 1 REFN 6c4c428b-fef1-434a-9b6b-6dcd8e523e35
 1 REPO @rJ40xD39QRCwDgz3kEPv@
@@ -20045,11 +21426,25 @@
 1 REFN cceb6bd8-f346-4605-8690-7e07f0d84636
 1 TITL Social Security Death Index
 1 AUTH US Social Security Administration
+0 @S182@ SOUR
+1 REFN 7cd19ef2-b540-4c23-a361-7d17959a8c23
+1 REPO @qoiFARVHSJOlOdzOUsT9@
+1 TITL Somerset, England, Church of England Baptisms, Marriages, an
+2 CONC d Burials, 1531-1812
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.
 0 @SqwXPSsLSwSsuwSC1sFJ@ SOUR
 1 REFN 21f52df1-bd0f-4e51-99e4-cf6c2326e459
 1 TITL Steele Family History
 1 AUTH Steele, Ted
 1 PUBL Ancestry World Tree at Ancestry.com
+0 @S186@ SOUR
+1 REFN 68a2fd66-d946-4f84-a103-75ca2697cf8a
+1 REPO @qoiFARVHSJOlOdzOUsT9@
+1 TITL U.S. and Canada, Passenger and Immigration Lists Index, 1500
+2 CONC s-1900s
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc
 0 @XkYfWXOxTRycLRJJyxNy@ SOUR
 1 REFN b74dbd0b-fce4-4e2a-bfa6-97c2be7eb18a
 1 REPO @qoiFARVHSJOlOdzOUsT9@
@@ -20124,6 +21519,12 @@
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2010
+0 @S188@ SOUR
+1 REFN 4a985836-6d96-47fb-892a-20313fd7db4a
+1 REPO @qoiFARVHSJOlOdzOUsT9@
+1 TITL UK, Extracted Probate Records, 1269-1975
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations Inc
 0 @LZJVUhMpTB2yopporvjn@ SOUR
 1 REFN 46addea5-08ea-424a-bfd8-6cbd9ddc7abb
 1 TITL US Census, 1790, MA, Bristol, Dartmouth
@@ -22512,4 +23913,161 @@
 2 FORM jpg
 2 TITL record-image_3Q9M-CS4X-XQS9-K
 2 _DATE 1/11/2018 5:45:57 PM
+0 @M159@ OBJE
+1 FILE http://trees.ancestry.com/rd?f=document&guid=5ac8c8fd-aebe-4
+2 CONC 6c6-a6c6-c8969d5ffeff&tid=61408113&pid=17
+2 FORM jpg
+2 TITL Hugh Moger/Mosher (1629-1713) - Immigrant
+0 @M160@ OBJE
+1 FILE http://trees.ancestry.com/rd?f=document&guid=a54ecf70-0b9b-4
+2 CONC bec-8c4f-13d683381900&tid=61408113&pid=17
+2 FORM jpg
+2 TITL Hugh Moger/Mosher&#39;s confusing Parentage
+0 @M161@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher Media\So
+2 CONC merset, England, Church of England Baptisms, Marriages, an
+2 CONC d Burials, 1531-1812.jpg
+2 FORM jpg
+2 TITL Somerset, England, Church of England Baptisms, Marriages, an
+3 CONC d Burials, 1531-1812
+2 _DATE 1/16/2018 3:23:53 AM
+0 @M162@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher Media\So
+2 CONC merset, England, Church of England Baptisms, Marriages, an
+2 CONC d Burials, 1531(1813).jpg
+2 FORM jpg
+2 TITL Somerset, England, Church of England Baptisms, Marriages, an
+3 CONC d Burials, 1531(1813)
+2 _DATE 1/16/2018 3:24:44 AM
+0 @M163@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher Media\18
+2 CONC 60 United States Federal Census.jpg
+2 FORM jpg
+2 TITL 1860 United States Federal Census
+2 _DATE 1/16/2018 3:41:50 AM
+0 @M164@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher Media\18
+2 CONC 70 United States Federal Census.jpg
+2 FORM jpg
+2 TITL 1870 United States Federal Census
+2 _DATE 1/16/2018 3:41:56 AM
+0 @M165@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher Media\18
+2 CONC 50 United States Federal Census.jpg
+2 FORM jpg
+2 TITL 1850 United States Federal Census
+2 _DATE 1/16/2018 3:42:06 AM
+0 @M166@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher Media\US
+2 CONC , New England Marriages Prior to 1700.jpg
+2 FORM jpg
+2 TITL US, New England Marriages Prior to 1700
+2 _DATE 1/16/2018 3:42:51 AM
+0 @M167@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher Media\So
+2 CONC merset, England, Church of England Baptisms, Marriages, an
+2 CONC d Burials, 1531(1814).jpg
+2 FORM jpg
+2 TITL Somerset, England, Church of England Baptisms, Marriages, an
+3 CONC d Burials, 1531(1814)
+2 _DATE 1/16/2018 3:42:58 AM
+0 @M168@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher Media\So
+2 CONC merset, England, Church of England Baptisms, Marriages, an
+2 CONC d Burials, 1531(1815).jpg
+2 FORM jpg
+2 TITL Somerset, England, Church of England Baptisms, Marriages, an
+3 CONC d Burials, 1531(1815)
+2 _DATE 1/16/2018 3:43:02 AM
+0 @M169@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher Media\So
+2 CONC merset, England, Church of England Baptisms, Marriages, an
+2 CONC d Burials, 1531(1816).jpg
+2 FORM jpg
+2 TITL Somerset, England, Church of England Baptisms, Marriages, an
+3 CONC d Burials, 1531(1816)
+2 _DATE 1/16/2018 3:43:07 AM
+0 @M170@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher Media\So
+2 CONC merset, England, Church of England Baptisms, Marriages, an
+2 CONC d Burials, 1531(1817).jpg
+2 FORM jpg
+2 TITL Somerset, England, Church of England Baptisms, Marriages, an
+3 CONC d Burials, 1531(1817)
+2 _DATE 1/16/2018 3:43:23 AM
+0 @M171@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher Media\So
+2 CONC merset, England, Church of England Baptisms, Marriages, an
+2 CONC d Burials, 1531(1818).jpg
+2 FORM jpg
+2 TITL Somerset, England, Church of England Baptisms, Marriages, an
+3 CONC d Burials, 1531(1818)
+2 _DATE 1/16/2018 3:43:31 AM
+0 @M172@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher Media\So
+2 CONC merset, England, Church of England Baptisms, Marriages, an
+2 CONC d Burials, 1531(1819).jpg
+2 FORM jpg
+2 TITL Somerset, England, Church of England Baptisms, Marriages, an
+3 CONC d Burials, 1531(1819)
+2 _DATE 1/16/2018 3:43:36 AM
+0 @M173@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher Media\So
+2 CONC merset, England, Church of England Baptisms, Marriages, an
+2 CONC d Burials, 1531(1820).jpg
+2 FORM jpg
+2 TITL Somerset, England, Church of England Baptisms, Marriages, an
+3 CONC d Burials, 1531(1820)
+2 _DATE 1/16/2018 3:43:43 AM
+0 @M174@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher Media\So
+2 CONC merset, England, Church of England Baptisms, Marriages, an
+2 CONC d Burials, 1531(1821).jpg
+2 FORM jpg
+2 TITL Somerset, England, Church of England Baptisms, Marriages, an
+3 CONC d Burials, 1531(1821)
+2 _DATE 1/16/2018 3:43:49 AM
+0 @M175@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher Media\Ne
+2 CONC w England, The Great Migration and The Great Migration Begin
+2 CONC s, 1620-1635.jpg
+2 FORM jpg
+2 TITL New England, The Great Migration and The Great Migration Beg
+3 CONC ins, 1620-1635
+2 _DATE 1/16/2018 3:43:55 AM
+0 @M176@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher Media\So
+2 CONC merset, England, Church of England Baptisms, Marriages, an
+2 CONC d Burials, 1531(1822).jpg
+2 FORM jpg
+2 TITL Somerset, England, Church of England Baptisms, Marriages, an
+3 CONC d Burials, 1531(1822)
+2 _DATE 1/16/2018 3:44:04 AM
+0 @M177@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher Media\So
+2 CONC merset, England, Church of England Baptisms, Marriages, an
+2 CONC d Burials, 1531(1823).jpg
+2 FORM jpg
+2 TITL Somerset, England, Church of England Baptisms, Marriages, an
+3 CONC d Burials, 1531(1823)
+2 _DATE 1/16/2018 3:44:12 AM
+0 @M178@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher Media\So
+2 CONC merset, England, Church of England Baptisms, Marriages, an
+2 CONC d Burials, 1531(1824).jpg
+2 FORM jpg
+2 TITL Somerset, England, Church of England Baptisms, Marriages, an
+3 CONC d Burials, 1531(1824)
+2 _DATE 1/16/2018 3:44:22 AM
+0 @M179@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher Media\So
+2 CONC merset, England, Church of England Baptisms, Marriages, an
+2 CONC d Burials, 1531(1825).jpg
+2 FORM jpg
+2 TITL Somerset, England, Church of England Baptisms, Marriages, an
+3 CONC d Burials, 1531(1825)
+2 _DATE 1/16/2018 3:44:29 AM
+0 @N353@ NOTE __GEDCOM__: DATE ABT 1612 __GEDCOM__
+0 @N381@ NOTE __GEDCOM__: DATE ABT 1658 __GEDCOM__
+0 @N380@ NOTE __GEDCOM__: DATE ABT DEC 1596 __GEDCOM__
 0 TRLR
