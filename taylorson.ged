@@ -13,11 +13,16 @@
 4 CONT Boston, MA 02109
 3 PHON (617) 227-6681
 1 DEST FTM
-1 FILE Taylorson_2017-10-11.ged
-1 DATE 11 OCT 2017
-2 TIME 03:18:03
+1 FILE Taylorson_2018-01-18-22-28-13.ftm.ged
+1 DATE 18 JAN 2018
+2 TIME 22:29:37
 0 @Umy2qBWIRUiwVSS6Hcn4@ SUBM
 1 NAME Christopher Alan Mosher
+2 EMAIL cmosher01@@gmail.com
+2 WWW http://mosher.mine.nu/
+2 WWW https://github.com/cmosher01/
+2 WWW https://www.ancestry.com/connect/Profile/0065664a-0000-0000-
+3 CONC 0000-000000000000
 2 ADDR 41 Brook Pine Drive
 3 CONT Shelton, Connecticut 06484-5912
 3 CONT USA
@@ -31,9 +36,6 @@
 2 PHON +1-203-414-7716
 2 PHON +1-203-944-9487
 2 PHON +1-203-513-9292
-2 EMAIL cmosher01@@gmail.com
-2 WWW http://mosher.mine.nu/
-2 WWW https://github.com/cmosher01/
 1 LANG English
 1 RIN Umy2qBWIRUiwVSS6Hcn4
 0 @I36@ INDI
@@ -54,27 +56,6 @@
 2 PLAC Aislaby, Stockton upon Tees, Durham, England, UK
 2 SOUR @S79@
 3 QUAY 1
-0 @I37@ INDI
-1 _XY 140 1860
-1 REFN 55701dab-6af5-4635-93cb-086d8d92bd49
-1 NAME Ann /[unknown]/
-2 SOUR @7kJ3C8C4QFesOwUmgdI4@
-3 QUAY 1
-1 SEX F
-1 FAMS @F25@
-1 BIRT
-2 DATE ABT 1762
-2 PLAC Durham, England, UK
-2 SOUR @7kJ3C8C4QFesOwUmgdI4@
-3 QUAY 1
-1 CENS
-2 DATE 06 JUN 1841
-2 PLAC Hart, Hartlepool, Durham, England, UK
-2 SOUR @7kJ3C8C4QFesOwUmgdI4@
-3 QUAY 3
-1 DEAT
-2 DATE ABT 1846
-2 NOTE just a guess
 0 @I38@ INDI
 1 _XY 525 535
 1 REFN 056e25e6-b23a-4819-a00d-ad7fab3490fb
@@ -1027,6 +1008,27 @@
 3 OBJE @CAnv2YCMRHe7oSHYxN9l@
 2 NOTE Age: 29; Age: 29; Marital Status: Married; Relation to Hea
 3 CONC d of House: Head
+0 @I37@ INDI
+1 _XY 140 1860
+1 REFN 55701dab-6af5-4635-93cb-086d8d92bd49
+1 NAME Ann /Gent/
+2 SOUR @7kJ3C8C4QFesOwUmgdI4@
+3 QUAY 1
+1 SEX F
+1 FAMS @F25@
+1 BIRT
+2 DATE ABT 1762
+2 PLAC Durham, England, UK
+2 SOUR @7kJ3C8C4QFesOwUmgdI4@
+3 QUAY 1
+1 CENS
+2 DATE 06 JUN 1841
+2 PLAC Hart, Hartlepool, Durham, England, UK
+2 SOUR @7kJ3C8C4QFesOwUmgdI4@
+3 QUAY 3
+1 DEAT
+2 DATE ABT 1846
+2 NOTE just a guess
 0 @LmanY00ISmSHfOkpVndB@ INDI
 1 _XY 182937 4011
 1 REFN bbe58a75-2265-4424-b990-21af3f400dc5
@@ -1531,14 +1533,6 @@
 3 OBJE @blNQH6aXRTWrpDosAT1j@
 2 NOTE Age: 79; Marital Status: Widowed; Relation to Head of House
 3 CONC : Mother
-0 @I56@ INDI
-1 _XY 37 1866
-1 REFN ec70f18a-05ec-4133-9fe5-d78d061aa9b9
-1 NAME [unknown] /Ord/
-1 SEX M
-1 FAMS @F25@
-1 BIRT
-2 DATE ABT 1760
 0 @I57@ INDI
 1 _XY 83 1927
 1 REFN bea11a22-7ed6-4c08-ae7a-8d09f12ff4f1
@@ -1574,8 +1568,12 @@
 1 SEX F
 1 FAMC @F25@
 1 FAMS @F37@
+1 BAPM
+2 DATE 10 APR 1797
+2 PLAC Saint Mary Magdalene Church, Hart, Hartlepool, Durham, Engla
+3 CONC nd, UK
 1 BIRT
-2 DATE 1799
+2 DATE ABT APR 1797
 2 PLAC Hart, Hartlepool, Durham, England, UK
 2 SOUR @8r0fX153SZWQXOlPdnxp@
 3 _APID 1,8978::4077000
@@ -1652,6 +1650,14 @@
 3 _APID 1,8914::32992838
 3 OBJE @M73@
 2 NOTE need to order death cert. from England
+0 @I56@ INDI
+1 _XY 37 1866
+1 REFN ec70f18a-05ec-4133-9fe5-d78d061aa9b9
+1 NAME Thomas /Ord/
+1 SEX M
+1 FAMS @F25@
+1 BIRT
+2 DATE ABT 1760
 0 @xVTACTXwRVeBYyOibXVl@ INDI
 1 _XY 182242 4017
 1 REFN 04391868-79a3-4392-a577-93b837c53676
@@ -6266,7 +6272,8 @@
 2 _MREL Natural
 1 MARR
 2 DATE 06 MAR 1819
-2 PLAC Hartlepool, Durham, England, UK
+2 PLAC Saint Mary Magdalene Church, Hart, Hartlepool, Durham, Engla
+3 CONC nd, UK
 2 SOUR @GZJmaUYeSMK4Fd2VWmk7@
 3 _APID 1,9852::1653088
 0 @nnem1nCLTQuG59X3AQKM@ FAM
@@ -6473,78 +6480,63 @@
 1 HUSB @I139@
 1 CHIL @I137@
 2 _FREL Natural
-0 @hTXt7qBMQKeFqTG4cc4G@ REPO
+0 @R1@ REPO
 1 NAME Ancestry.com
 1 ADDR http://www.Ancestry.com
 1 EMAIL
 1 PHON
-0 @cJV7UxM4QEWWRiWbYius@ REPO
-1 NAME Ancestry.com, II, OLD
-1 ADDR
-1 EMAIL
-1 PHON
-0 @hTXt7qBMQKeFqTG4cc4G@ REPO
-1 NAME Ancestry.com
-1 ADDR
-1 EMAIL
-1 PHON
-0 @hTXt7qBMQKeFqTG4cc4G@ REPO
-1 NAME Ancestry.com
-1 ADDR
-1 EMAIL
-1 PHON
 0 @8r0fX153SZWQXOlPdnxp@ SOUR
 1 REFN d7481680-ac92-49d4-9cbe-81c4287c5b3c
-1 REPO @hTXt7qBMQKeFqTG4cc4G@
+1 REPO @R1@
 1 TITL 1841 England Census
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc; Location: Provo, UT, USA; Date
 2 CONC : 2010
 0 @JkzVLCTZRve6xkWeiQJy@ SOUR
 1 REFN e4378df5-60e2-454e-b8c0-b8bc8c34f553
-1 REPO @hTXt7qBMQKeFqTG4cc4G@
+1 REPO @R1@
 1 TITL 1850 United States Federal Census
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2009
 0 @S81@ SOUR
 1 REFN 631ba11b-9771-4aa4-872b-86b945dd4d21
-1 REPO @hTXt7qBMQKeFqTG4cc4G@
+1 REPO @R1@
 1 TITL 1851 England Census
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations Inc; Location: Provo, UT, USA; Date
 2 CONC : 2005
 0 @jmFGuFh1RiicUCdCiNYx@ SOUR
 1 REFN 2e9de23c-5897-4bf2-a4a2-fa0f374ea103
-1 REPO @hTXt7qBMQKeFqTG4cc4G@
+1 REPO @R1@
 1 TITL 1860 United States Federal Census
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2009
 0 @S83@ SOUR
 1 REFN 2f9b8a45-3281-44df-ab95-4ca0cb3c1872
-1 REPO @hTXt7qBMQKeFqTG4cc4G@
+1 REPO @R1@
 1 TITL 1861 England Census
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations Inc; Location: Provo, UT, USA; Date
 2 CONC : 2005
 0 @VqbyczWoTAunjNaTg1gt@ SOUR
 1 REFN 5eab0f70-911c-4599-9786-0b345c22e185
-1 REPO @hTXt7qBMQKeFqTG4cc4G@
+1 REPO @R1@
 1 TITL 1870 United States Federal Census
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2009
 0 @S88@ SOUR
 1 REFN ff707158-a92e-4222-a798-c73fcd613da7
-1 REPO @hTXt7qBMQKeFqTG4cc4G@
+1 REPO @R1@
 1 TITL 1871 England Census
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations Inc; Location: Provo, UT, USA; Date
 2 CONC : 2004
 0 @tagmH3kSS5mNE6mkVQFl@ SOUR
 1 REFN 5d5d0eb7-77dc-4076-845c-e52dbfd680ea
-1 REPO @hTXt7qBMQKeFqTG4cc4G@
+1 REPO @R1@
 1 TITL 1880 United States Federal Census
 1 AUTH Ancestry.com and The Church of Jesus Christ of Latter-day Sa
 2 CONC ints
@@ -6552,21 +6544,21 @@
 2 CONC : 2010
 0 @NDN2XTgxTLmnX7Bgq4LP@ SOUR
 1 REFN 46b3831d-b1f3-4dde-a073-4d6310c5c0c8
-1 REPO @hTXt7qBMQKeFqTG4cc4G@
+1 REPO @R1@
 1 TITL 1900 United States Federal Census
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations Inc; Location: Provo, UT, USA; Date
 2 CONC : 2004
 0 @c4Kpe8hwRqSW5hMTvu1S@ SOUR
 1 REFN 3e80ac6a-6d60-4d8a-9f49-fb6b70b7ee0f
-1 REPO @hTXt7qBMQKeFqTG4cc4G@
+1 REPO @R1@
 1 TITL 1910 United States Federal Census
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations Inc; Location: Provo, UT, USA; Date
 2 CONC : 2006
 0 @gEzHretGQ9iAdPxO8HPJ@ SOUR
 1 REFN b6ed10f2-f18d-4fe3-bd7f-b383c7044f24
-1 REPO @cJV7UxM4QEWWRiWbYius@
+1 REPO @R1@
 1 TITL 1920 United States Federal Census
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
@@ -6581,14 +6573,14 @@
 2 CONC 9 are on roll 323 (Chicago City).
 0 @z1TPRpwkRpi0Hb52420e@ SOUR
 1 REFN 604a2995-325a-49e2-8a04-ecf91a67741e
-1 REPO @hTXt7qBMQKeFqTG4cc4G@
+1 REPO @R1@
 1 TITL 1930 United States Federal Census
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations Inc; Location: Provo, UT, USA; Date
 2 CONC : 2002
 0 @krZH9vsSTamYxiNlOr6t@ SOUR
 1 REFN 61d7e281-450b-4ef8-bf38-6e12fda8cc84
-1 REPO @cJV7UxM4QEWWRiWbYius@
+1 REPO @R1@
 1 TITL 1940 United States Federal Census
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
@@ -6632,7 +6624,7 @@
 2 CONT s: George O.
 0 @N62jTQiMTmmRVQc5KCCK@ SOUR
 1 REFN 8c7a45a4-7e91-4b5a-b0a7-2a6e05354cd0
-1 REPO @hTXt7qBMQKeFqTG4cc4G@
+1 REPO @R1@
 1 TITL Ancestry Family Trees
 1 PUBL Online publication - Provo, UT, USA: Ancestry.com.  Origina
 2 CONC l data:  Family Tree files submitted by Ancestry members.
@@ -6922,7 +6914,7 @@
 1 PUBL ancestry.com
 0 @g1kvijD7QFuspa8K7nFd@ SOUR
 1 REFN fa5074df-3dcc-4728-923f-a7539f56bdda
-1 REPO @cJV7UxM4QEWWRiWbYius@
+1 REPO @R1@
 1 TITL England & Wales, Civil Registration Birth Index, 1837-1915
 1 AUTH FreeBMD
 1 PUBL Ancestry.com Operations Inc; Location: Provo, UT, USA; Date
@@ -6936,7 +6928,7 @@
 2 CONC m Hart, Ben Laurie, Camilla von Massenbach and David Mayall.
 0 @S90@ SOUR
 1 REFN 93f452bd-4626-4bea-8967-76937a042ad7
-1 REPO @hTXt7qBMQKeFqTG4cc4G@
+1 REPO @R1@
 1 TITL England & Wales, Civil Registration Marriage Index, 1837-191
 2 CONC 5
 1 AUTH FreeBMD
@@ -6951,21 +6943,21 @@
 2 CONC m Hart, Ben Laurie, Camilla von Massenbach and David Mayall.
 0 @XIqTsRCAQmO5BvSmizub@ SOUR
 1 REFN 5548731d-6276-4fda-a827-e828bff06666
-1 REPO @hTXt7qBMQKeFqTG4cc4G@
+1 REPO @R1@
 1 TITL England & Wales, FreeBMD Birth Index, 1837-1915
 1 AUTH FreeBMD
 1 PUBL Ancestry.com Operations Inc; Location: Provo, UT, USA; Date
 2 CONC : 2006
 0 @OeOCLbwlTzu3dQqftwwk@ SOUR
 1 REFN 1621b523-222c-4e13-83e0-e8b01a366ce9
-1 REPO @hTXt7qBMQKeFqTG4cc4G@
+1 REPO @R1@
 1 TITL England & Wales, FreeBMD Death Index, 1837-1915
 1 AUTH FreeBMD
 1 PUBL Ancestry.com Operations Inc; Location: Provo, UT, USA; Date
 2 CONC : 2006
 0 @STI3sk0lQsyDfygLDOjf@ SOUR
 1 REFN 3556fe10-312b-4fb6-a62e-5ec65696b0b5
-1 REPO @hTXt7qBMQKeFqTG4cc4G@
+1 REPO @R1@
 1 TITL England & Wales, FreeBMD Marriage Index, 1837-1915
 1 AUTH FreeBMD
 1 PUBL Ancestry.com Operations Inc; Location: Provo, UT, USA; Date
@@ -7348,28 +7340,28 @@
 2 CONT </table>
 0 @MLDnHhQZSGGw5BVQo9qM@ SOUR
 1 REFN 0c0d7b95-dd39-4014-8c02-16ae6e9db7b8
-1 REPO @hTXt7qBMQKeFqTG4cc4G@
+1 REPO @R1@
 1 TITL England, Select Births and Christenings, 1538-1975
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2014
 0 @S80@ SOUR
 1 REFN f798de37-7a32-47ed-a804-0b4ecd2ba727
-1 REPO @hTXt7qBMQKeFqTG4cc4G@
+1 REPO @R1@
 1 TITL England, Select Deaths and Burials, 1538-1991
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2014
 0 @GZJmaUYeSMK4Fd2VWmk7@ SOUR
 1 REFN c9b320bd-c2b6-4720-a1e3-4d2c72c88366
-1 REPO @hTXt7qBMQKeFqTG4cc4G@
+1 REPO @R1@
 1 TITL England, Select Marriages, 1538–1973
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2014
 0 @lfO2pboiTVupZdmq8c8n@ SOUR
 1 REFN 0aa5ab46-0bb6-4681-a5ee-89bbddacc423
-1 REPO @hTXt7qBMQKeFqTG4cc4G@
+1 REPO @R1@
 1 TITL Florida Passenger Lists, 1898-1964
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations Inc; Location: Provo, UT, USA; Date
@@ -7804,7 +7796,7 @@
 2 CONT </table>
 0 @XGGvH505QiGDGXaNUUub@ SOUR
 1 REFN ed054794-d76c-48ee-a50f-b1ccf715b4bb
-1 REPO @cJV7UxM4QEWWRiWbYius@
+1 REPO @R1@
 1 TITL New York, Irish Immigrant Arrival Records, 1846-1851
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations Inc; Location: Provo, UT, USA; Date
@@ -7813,56 +7805,56 @@
 2 CONC C.: National Archives and Records Administration.
 0 @vSTctLqpQBOn58w94Odp@ SOUR
 1 REFN 483ac81a-1fc2-483b-9a40-4973d858493d
-1 REPO @hTXt7qBMQKeFqTG4cc4G@
+1 REPO @R1@
 1 TITL New York, Passenger Lists, 1820-1957
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2010
 0 @h7WBKNgwRSOUt2BNNsOI@ SOUR
 1 REFN f995469d-de6e-4f8a-b9b5-5d2a0ffd5e25
-1 REPO @hTXt7qBMQKeFqTG4cc4G@
+1 REPO @R1@
 1 TITL New York, State Census, 1855
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2013
 0 @2bg2kSXxR9G5oJVTCXgV@ SOUR
 1 REFN 59225912-66cd-4d33-a51e-147570d74d6c
-1 REPO @hTXt7qBMQKeFqTG4cc4G@
+1 REPO @R1@
 1 TITL New York, State Census, 1865
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2014
 0 @74P5lXIpRomDQfd5WmFi@ SOUR
 1 REFN 70b53fc8-be2b-480f-940d-34fb9697f10b
-1 REPO @hTXt7qBMQKeFqTG4cc4G@
+1 REPO @R1@
 1 TITL New York, State Census, 1875
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2013
 0 @eaHR0oxuTfOp5myA78b9@ SOUR
 1 REFN 421a3559-6aa7-465c-ab13-479137b518e3
-1 REPO @hTXt7qBMQKeFqTG4cc4G@
+1 REPO @R1@
 1 TITL New York, State Census, 1892
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2012
 0 @4jCt5j3VRkqTuhypLl9x@ SOUR
 1 REFN e6b7df74-cd4b-4460-a429-54751ee5401f
-1 REPO @hTXt7qBMQKeFqTG4cc4G@
+1 REPO @R1@
 1 TITL New York, State Census, 1905
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2014
 0 @Qxz8JDP7SuCtqVmDijnb@ SOUR
 1 REFN 27f04933-14e3-44e9-8670-40c6cfe55434
-1 REPO @hTXt7qBMQKeFqTG4cc4G@
+1 REPO @R1@
 1 TITL New York, State Census, 1915
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2012
 0 @7LxrgfRmTNWyu6slXQjR@ SOUR
 1 REFN 1b6cb1fe-cfa3-4ce4-877e-c4fdbb846eed
-1 REPO @hTXt7qBMQKeFqTG4cc4G@
+1 REPO @R1@
 1 TITL New York, State Census, 1925
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
@@ -8221,7 +8213,7 @@
 1 PUBL Provo, UT, USA: Ancestry.com Operations, Inc., 2010
 0 @k7ap0rujQFex5IgQ5CXx@ SOUR
 1 REFN fa59e7d8-204f-4737-a6ee-b5f95e9009b8
-1 REPO @cJV7UxM4QEWWRiWbYius@
+1 REPO @R1@
 1 TITL U.S. City Directories
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
@@ -8233,21 +8225,21 @@
 2 CONC ication information.
 0 @mDWKwIsCRaCKr5iO25hg@ SOUR
 1 REFN 97848603-79f1-4dcd-abc8-0e58523481b3
-1 REPO @hTXt7qBMQKeFqTG4cc4G@
+1 REPO @R1@
 1 TITL U.S. City Directories, 1821-1989
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2011
 0 @S93@ SOUR
 1 REFN 2defb8b3-4d2a-40ea-a198-6547ad0ec0e3
-1 REPO @hTXt7qBMQKeFqTG4cc4G@
+1 REPO @R1@
 1 TITL U.S. City Directories, 1822-1989
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2011
 0 @xcXXXJstR1iS4OizBZKh@ SOUR
 1 REFN 5279ef12-0e5f-41a7-9116-fa55425df9aa
-1 REPO @cJV7UxM4QEWWRiWbYius@
+1 REPO @R1@
 1 TITL U.S. City Directories, 1822-1995
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
@@ -8259,7 +8251,7 @@
 2 CONC ication information.
 0 @JuHilP68RmSAugv75uhL@ SOUR
 1 REFN 475d9a39-7fbf-421f-84dd-a51602b2b69c
-1 REPO @cJV7UxM4QEWWRiWbYius@
+1 REPO @R1@
 1 TITL U.S. IRS Tax Assessment Lists, 1862-1918
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations Inc; Location: Provo, UT, USA; Date
@@ -8271,14 +8263,14 @@
 2 CONC e Citations</a>.</p>
 0 @PTkUNEaISa61ijB7VnKA@ SOUR
 1 REFN 3c2005c6-3d38-46be-80f8-7100e468f384
-1 REPO @hTXt7qBMQKeFqTG4cc4G@
+1 REPO @R1@
 1 TITL U.S., Find A Grave Index, 1600s-Current
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2012
 0 @f9TGKjo7Q0eOosH9qjGk@ SOUR
 1 REFN fda57307-52d8-4d6e-a2c8-209984c57b81
-1 REPO @hTXt7qBMQKeFqTG4cc4G@
+1 REPO @R1@
 1 TITL U.S., World War I Draft Registration Cards, 1917-1918
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations Inc; Location: Provo, UT, USA; Date
@@ -8637,14 +8629,14 @@
 2 CONT Taylerson Christein mother Oct 1820 79 Wd
 0 @S89@ SOUR
 1 REFN 06226370-3053-48c8-a0a1-9ee264b7f2ca
-1 REPO @hTXt7qBMQKeFqTG4cc4G@
+1 REPO @R1@
 1 TITL Web: International, Find A Grave Index
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2013
 0 @7jxFiZGcR16IjiRnFxmM@ SOUR
 1 REFN 8f80be72-7f09-4ab0-87cc-ae5d90ca3842
-1 REPO @hTXt7qBMQKeFqTG4cc4G@
+1 REPO @R1@
 1 TITL Web: New York, Find A Grave Index, 1660-2012
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
