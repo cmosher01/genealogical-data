@@ -13,9 +13,9 @@
 4 CONT Boston, MA 02109
 3 PHON (617) 227-6681
 1 DEST FTM
-1 FILE Lopez_2018-01-04.ged
-1 DATE 04 JAN 2018
-2 TIME 19:54:35
+1 FILE Lopez_2018-01-21-04-26-31.ftm.ged
+1 DATE 21 JAN 2018
+2 TIME 04:28:00
 0 @Umy2qBWIRUiwVSS6Hcn4@ SUBM
 1 NAME Christopher Alan Mosher
 2 EMAIL cmosher01@@gmail.com
@@ -3239,7 +3239,7 @@
 3 OBJE @i1TqjIxIRTO5IYm8HjII@
 2 SOUR @rF6T1DrXQt2JZCH7KGmd@
 3 _APID 1,7833::81066
-2 SOUR @6GMfgI81RfCDdjYEIKCD@
+2 SOUR @S63@
 3 _APID 1,7488::2147483647
 3 PAGE Year: 1911; Arrival: New York, New York; Microfilm Serial: T
 4 CONC 715, 1897-1957; Microfilm Roll: Roll 1631; Line: 2; Page Num
@@ -3284,7 +3284,7 @@
 3 OBJE @i1TqjIxIRTO5IYm8HjII@
 2 SOUR @rF6T1DrXQt2JZCH7KGmd@
 3 _APID 1,7833::81066
-2 SOUR @6GMfgI81RfCDdjYEIKCD@
+2 SOUR @S63@
 3 _APID 1,7488::2147483647
 3 PAGE Year: 1911; Arrival: New York, New York; Microfilm Serial: T
 4 CONC 715, 1897-1957; Microfilm Roll: Roll 1631; Line: 2; Page Num
@@ -3670,7 +3670,7 @@
 2 TYPE Departure
 2 DATE 18 FEB 1911
 2 PLAC Puerto de San Juan, San Juan, Puerto Rico
-2 SOUR @6GMfgI81RfCDdjYEIKCD@
+2 SOUR @S63@
 3 _APID 1,7488::2147483647
 3 PAGE Year: 1911; Arrival: New York, New York; Microfilm Serial: T
 4 CONC 715, 1897-1957; Microfilm Roll: Roll 1631; Line: 2; Page Num
@@ -3694,7 +3694,7 @@
 3 MAP
 4 LATI N40.7744
 4 LONG W73.9721
-2 SOUR @6GMfgI81RfCDdjYEIKCD@
+2 SOUR @S63@
 3 _APID 1,7488::2147483647
 3 PAGE Year: 1911; Arrival: New York, New York; Microfilm Serial: T
 4 CONC 715, 1897-1957; Microfilm Roll: Roll 1631; Line: 2; Page Num
@@ -3829,10 +3829,157 @@
 2 SOUR @AjMegeGBTpu0nJWDRMDA@
 3 _APID 1,9131::3345252
 2 SOUR @S63@
+3 _APID 1,7488::2147483647
+3 PAGE Year: 1922; Arrival: New York, New York; Microfilm Serial: T
+4 CONC 715, 1897-1957; Microfilm Roll: Roll 3094; Line: 1; Page Num
+4 CONC ber: 154
+3 DATA
+4 TEXT <p>
+5 CONT [image 264 of 1043]
+5 CONT </p>
+5 CONT <p>
+5 CONT S. S. "ZULIA," Passengers sailing from Maracaibo, Venezuela
+5 CONC , March 18th, 1922.
+5 CONT </p>
+5 CONT <table border="1">
+5 CONT <thead>
+5 CONT <tr><th>No. on List.</th><th>HEAD-TAX STATUS.</th><th>Famil
+5 CONC y name.</th><th>Given name.</th><th>Yrs.</th><th>Mos.</th><t
+5 CONC h>Sex.</th><th>Married or single.</th><th>Calling or occupat
+5 CONC ion</th><th>Read.</th><th>language</th><th>Write.</th><th>Na
+5 CONC tionality.</th><th>Race</th><th>permanant residence country<
+5 CONC /th><th>city</th><th>nearest relative or friend in country w
+5 CONC hence alien came.</th><th>Final destination. State.</th><th>
+5 CONC City or town.</th></tr>
+5 CONT <thead>
+5 CONT <tbody>
+5 CONT <tr><td>1</td><td>IN TRANSIT 253934</td><td>Lopez.</td><td>S
+5 CONC amuel</td><td>30</td><td>[check]</td><td>M</td><td>S</td><td
+5 CONC >Clerk</td><td>Yes</td><td>English Spanish</td><td>Yes</td><
+5 CONC td>Ecuador</td><td>Sp/Am.</td><td>Venez.</td><td>Maracaibo</
+5 CONC td><td>Friend, A. A. Sobalbarro, Maracaibo, Venez.</td><td>V
+5 CONC enez</td><td>Maracaibo.</td></tr>
+5 CONT </tbody>
+5 CONT </table>
+5 CONT
+5 CONT <p>
+5 CONT [image 265 of 1043]
+5 CONT </p>
+5 CONT <p>
+5 CONT Arriving at Port of New York, March 27th, 1922.
+5 CONT </p>
+5 CONT <table border="1">
+5 CONT <thead>
+5 CONT <tr><th>No. on List.</th><th>ticket</th><th>By whom was pass
+5 CONC age paid?</th><th>in possession of $50</th><th>ever before i
+5 CONC n US</th><th>period of years.</th><th>Where?</th><th>join re
+5 CONC lative or friend</th><th>intends to return to country from w
+5 CONC hence he came</th><th>Lenght of time alien intends to remai
+5 CONC n in US</th><th>intends to become a citizen of US</th><th>Ev
+5 CONC er in prison</th><th>polygamist</th><th>anarchist</th><th>ad
+5 CONC vocates overthrow US Gov't</th><th>coming to US by offer o
+5 CONC f labor</th><th>deported w/i one year</th><th>condition</th>
+5 CONC <th>crippled</th><th>Height. Feet.</th><th>Inches.</th><th>C
+5 CONC omplexion.</th><th>Color of Hair.</th><th>Eyes.</th><th>Mark
+5 CONC s of ID</th><th>Place of birth. Country</th><th>City</th></t
+5 CONC r>
+5 CONT </thead>
+5 CONT <tbody>
+5 CONT <tr><td>1</td><td>No</td><td>British Equestorial Oil Co.</td
+5 CONC ><td>$400</td><td>Yes</td><td>1901-1916</td><td>New York</td
+5 CONC ><td>On visit; to home of mother Mrs. M. [sic] Lopez, 2114 A
+5 CONC venue G, Brooklyn, N.Y.</td><td>Yes</td><td>1 month</td><td>
+5 CONC No</td><td>No</td><td>No</td><td>No</td><td>No</td><td>No</t
+5 CONC d><td>No</td><td>Good</td><td>No</td><td>5</td><td>10</td><t
+5 CONC d>Lgt</td><td>Dk</td><td>Br.</td><td>[check]</td><td>Ecuador
+5 CONC .</td><td>Chone.</td></tr>
+5 CONT </tbody>
+5 CONT </table>
+3 OBJE @M69@
+2 SOUR @S63@
 3 _APID 1,7488::2001318501
 3 PAGE Year: 1925; Arrival: New York, New York; Microfilm Serial: T
 4 CONC 715, 1897-1957; Microfilm Roll: Roll 3703; Line: 4; Page Num
 4 CONC ber: 222
+3 DATA
+4 TEXT <p>
+5 CONT [image 397 of 847]
+5 CONT </p>
+5 CONT <p>
+5 CONT S. S. NICKERIE. Passengers sailing from CURACAO, AUGUST 9th
+5 CONC , 1925.
+5 CONT </p>
+5 CONT <table>
+5 CONT <thead>
+5 CONT <tr><th>No. on List.</th><th>HEAD-TAX STATUS.</th><th>Famil
+5 CONC y name.</th><th>Given name.</th><th>Yrs.</th><th>Mos.</th><t
+5 CONC h>Sex.</th><th>Married or single.</th><th>Calling or occupat
+5 CONC ion</th><th>Read.</th><th>language</th><th>Write.</th><th>Na
+5 CONC tionality.</th><th>Race</th><th>permanant residence country<
+5 CONC /th><th>city</th><th>nearest relative or friend in country w
+5 CONC hence alien came.</th><th>Final destination. State.</th><th>
+5 CONC City or town.</th></tr>
+5 CONT <thead>
+5 CONT <tbody>
+5 CONT <tr><td>4</td><td>[blank]</td><td>Lopez.</td><td>Samuel</td>
+5 CONC <td>33</td><td>[check]</td><td>M</td><td>M</td><td>Office Cl
+5 CONC erk</td><td>yes</td><td>English Spanish</td><td>yes</td><td>
+5 CONC Ecuador</td><td>Span. Amer</td><td>&quot; [Venezuela]</td><t
+5 CONC d>&quot; [Maracaibo]</td><td>Father in law: Julio Villanueva
+5 CONC , Maracaibo Venezuela</td><td><strike>N Y</strike> Venezuela
+5 CONC </td><td><strike>Brooklyn</strike> Maracaibo.</td></tr>
+5 CONT <tr><td>5</td><td>[blank]</td><td>Lopez</td><td>Maria Villan
+5 CONC ueva w[i]f[e]</td><td>22</td><td>[check]</td><td>F</td><td>M
+5 CONC </td><td>None</td><td>yes</td><td>Spanish</td><td>yes</td><t
+5 CONC d>&quot;</td><td>&quot;</td><td>&quot;</td><td>&quot;</td><t
+5 CONC d>Same</td><td><strike>N Y</strike> &quot;</td><td><strike>
+5 CONC N Y</strike> &quot;</td></tr>
+5 CONT </tbody>
+5 CONT </table>
+5 CONT
+5 CONT <p>
+5 CONT [image 398 of 847]
+5 CONT </p>
+5 CONT <p>
+5 CONT Arriving at Port of New York, August 20th, 1925
+5 CONT </p>
+5 CONT <table>
+5 CONT <thead>
+5 CONT <tr><th>No. on List.</th><th>ticket</th><th>By whom was pass
+5 CONC age paid?</th><th>in possession of $50</th><th>ever before i
+5 CONC n US</th><th>period of years.</th><th>Where?</th><th>join re
+5 CONC lative or friend</th><th>intends to return to country from w
+5 CONC hence he came</th><th>Lenght of time alien intends to remai
+5 CONC n in US</th><th>intends to become a citizen of US</th><th>Ev
+5 CONC er in prison</th><th>polygamist</th><th>anarchist</th><th>ad
+5 CONC vocates overthrow US Gov't</th><th>coming to US by offer o
+5 CONC f labor</th><th>deported w/i one year</th><th>condition</th>
+5 CONC <th>crippled</th><th>Height. Feet.</th><th>Inches.</th><th>C
+5 CONC omplexion.</th><th>Color of Hair.</th><th>Eyes.</th><th>Mark
+5 CONC s of ID</th><th>Place of birth. Country</th><th>City</th><th
+5 CONC >Immigration Visa Number</th><th>Issued at</th><th>Date</th>
+5 CONC </tr>
+5 CONT </thead>
+5 CONT <tbody>
+5 CONT <tr><td>4</td><td>yes</td><td>himself</td><td>yes 200</td><t
+5 CONC d>yes</td><td>1900[-]1917[,] 1922 7 weeks</td><td>B'lyn</td>
+5 CONC <td>Mother: Francisca de Lopez 2114 Avenue G,B'lyn, NY</td><
+5 CONC td>yes</td><td><strike>3 or</strike> 4 mnths</td><td>no</td>
+5 CONC <td>no</td><td>no</td><td>no</td><td>no</td><td>no</td><td>n
+5 CONC o</td><td>good</td><td>no</td><td>5</td><td>10</td><td>dark<
+5 CONC /td><td>dark</td><td>brown</td><td>none</td><td>Ecuador</td>
+5 CONC <td>Chone</td><td>52</td><td>Curacao</td><td>Aug. 8th '25</t
+5 CONC d></tr>
+5 CONT <tr><td>5</td><td>yes</td><td>husband</td><td>yes</td><td>no
+5 CONC </td><td>[blank]</td><td>[blank]</td><td>Same, Motherin law.
+5 CONC </td><td>yes</td><td>&quot;</td><td>no</td><td>no</td><td>no
+5 CONC </td><td>no</td><td>no</td><td>no</td><td>no</td><td>good</t
+5 CONC d><td>no</td><td>5</td><td>[blank]</td><td>&quot;</td><td>&q
+5 CONC uot;</td><td>&quot;</td><td>none</td><td>Velezuela</td><td>M
+5 CONC aracaibo</td><td>&quot;</td><td>&quot;</td><td>&quot;</td></
+5 CONC tr>
+5 CONT </tbody>
+5 CONT </table>
 3 OBJE @M56@
 2 SOUR @Ap7270q8QDmqnp4oKY6u@
 3 _APID 1,7364::1518426
@@ -3970,10 +4117,157 @@
 2 SOUR @AjMegeGBTpu0nJWDRMDA@
 3 _APID 1,9131::3345252
 2 SOUR @S63@
+3 _APID 1,7488::2147483647
+3 PAGE Year: 1922; Arrival: New York, New York; Microfilm Serial: T
+4 CONC 715, 1897-1957; Microfilm Roll: Roll 3094; Line: 1; Page Num
+4 CONC ber: 154
+3 DATA
+4 TEXT <p>
+5 CONT [image 264 of 1043]
+5 CONT </p>
+5 CONT <p>
+5 CONT S. S. "ZULIA," Passengers sailing from Maracaibo, Venezuela
+5 CONC , March 18th, 1922.
+5 CONT </p>
+5 CONT <table border="1">
+5 CONT <thead>
+5 CONT <tr><th>No. on List.</th><th>HEAD-TAX STATUS.</th><th>Famil
+5 CONC y name.</th><th>Given name.</th><th>Yrs.</th><th>Mos.</th><t
+5 CONC h>Sex.</th><th>Married or single.</th><th>Calling or occupat
+5 CONC ion</th><th>Read.</th><th>language</th><th>Write.</th><th>Na
+5 CONC tionality.</th><th>Race</th><th>permanant residence country<
+5 CONC /th><th>city</th><th>nearest relative or friend in country w
+5 CONC hence alien came.</th><th>Final destination. State.</th><th>
+5 CONC City or town.</th></tr>
+5 CONT <thead>
+5 CONT <tbody>
+5 CONT <tr><td>1</td><td>IN TRANSIT 253934</td><td>Lopez.</td><td>S
+5 CONC amuel</td><td>30</td><td>[check]</td><td>M</td><td>S</td><td
+5 CONC >Clerk</td><td>Yes</td><td>English Spanish</td><td>Yes</td><
+5 CONC td>Ecuador</td><td>Sp/Am.</td><td>Venez.</td><td>Maracaibo</
+5 CONC td><td>Friend, A. A. Sobalbarro, Maracaibo, Venez.</td><td>V
+5 CONC enez</td><td>Maracaibo.</td></tr>
+5 CONT </tbody>
+5 CONT </table>
+5 CONT
+5 CONT <p>
+5 CONT [image 265 of 1043]
+5 CONT </p>
+5 CONT <p>
+5 CONT Arriving at Port of New York, March 27th, 1922.
+5 CONT </p>
+5 CONT <table border="1">
+5 CONT <thead>
+5 CONT <tr><th>No. on List.</th><th>ticket</th><th>By whom was pass
+5 CONC age paid?</th><th>in possession of $50</th><th>ever before i
+5 CONC n US</th><th>period of years.</th><th>Where?</th><th>join re
+5 CONC lative or friend</th><th>intends to return to country from w
+5 CONC hence he came</th><th>Lenght of time alien intends to remai
+5 CONC n in US</th><th>intends to become a citizen of US</th><th>Ev
+5 CONC er in prison</th><th>polygamist</th><th>anarchist</th><th>ad
+5 CONC vocates overthrow US Gov't</th><th>coming to US by offer o
+5 CONC f labor</th><th>deported w/i one year</th><th>condition</th>
+5 CONC <th>crippled</th><th>Height. Feet.</th><th>Inches.</th><th>C
+5 CONC omplexion.</th><th>Color of Hair.</th><th>Eyes.</th><th>Mark
+5 CONC s of ID</th><th>Place of birth. Country</th><th>City</th></t
+5 CONC r>
+5 CONT </thead>
+5 CONT <tbody>
+5 CONT <tr><td>1</td><td>No</td><td>British Equestorial Oil Co.</td
+5 CONC ><td>$400</td><td>Yes</td><td>1901-1916</td><td>New York</td
+5 CONC ><td>On visit; to home of mother Mrs. M. [sic] Lopez, 2114 A
+5 CONC venue G, Brooklyn, N.Y.</td><td>Yes</td><td>1 month</td><td>
+5 CONC No</td><td>No</td><td>No</td><td>No</td><td>No</td><td>No</t
+5 CONC d><td>No</td><td>Good</td><td>No</td><td>5</td><td>10</td><t
+5 CONC d>Lgt</td><td>Dk</td><td>Br.</td><td>[check]</td><td>Ecuador
+5 CONC .</td><td>Chone.</td></tr>
+5 CONT </tbody>
+5 CONT </table>
+3 OBJE @M69@
+2 SOUR @S63@
 3 _APID 1,7488::2001318501
 3 PAGE Year: 1925; Arrival: New York, New York; Microfilm Serial: T
 4 CONC 715, 1897-1957; Microfilm Roll: Roll 3703; Line: 4; Page Num
 4 CONC ber: 222
+3 DATA
+4 TEXT <p>
+5 CONT [image 397 of 847]
+5 CONT </p>
+5 CONT <p>
+5 CONT S. S. NICKERIE. Passengers sailing from CURACAO, AUGUST 9th
+5 CONC , 1925.
+5 CONT </p>
+5 CONT <table>
+5 CONT <thead>
+5 CONT <tr><th>No. on List.</th><th>HEAD-TAX STATUS.</th><th>Famil
+5 CONC y name.</th><th>Given name.</th><th>Yrs.</th><th>Mos.</th><t
+5 CONC h>Sex.</th><th>Married or single.</th><th>Calling or occupat
+5 CONC ion</th><th>Read.</th><th>language</th><th>Write.</th><th>Na
+5 CONC tionality.</th><th>Race</th><th>permanant residence country<
+5 CONC /th><th>city</th><th>nearest relative or friend in country w
+5 CONC hence alien came.</th><th>Final destination. State.</th><th>
+5 CONC City or town.</th></tr>
+5 CONT <thead>
+5 CONT <tbody>
+5 CONT <tr><td>4</td><td>[blank]</td><td>Lopez.</td><td>Samuel</td>
+5 CONC <td>33</td><td>[check]</td><td>M</td><td>M</td><td>Office Cl
+5 CONC erk</td><td>yes</td><td>English Spanish</td><td>yes</td><td>
+5 CONC Ecuador</td><td>Span. Amer</td><td>&quot; [Venezuela]</td><t
+5 CONC d>&quot; [Maracaibo]</td><td>Father in law: Julio Villanueva
+5 CONC , Maracaibo Venezuela</td><td><strike>N Y</strike> Venezuela
+5 CONC </td><td><strike>Brooklyn</strike> Maracaibo.</td></tr>
+5 CONT <tr><td>5</td><td>[blank]</td><td>Lopez</td><td>Maria Villan
+5 CONC ueva w[i]f[e]</td><td>22</td><td>[check]</td><td>F</td><td>M
+5 CONC </td><td>None</td><td>yes</td><td>Spanish</td><td>yes</td><t
+5 CONC d>&quot;</td><td>&quot;</td><td>&quot;</td><td>&quot;</td><t
+5 CONC d>Same</td><td><strike>N Y</strike> &quot;</td><td><strike>
+5 CONC N Y</strike> &quot;</td></tr>
+5 CONT </tbody>
+5 CONT </table>
+5 CONT
+5 CONT <p>
+5 CONT [image 398 of 847]
+5 CONT </p>
+5 CONT <p>
+5 CONT Arriving at Port of New York, August 20th, 1925
+5 CONT </p>
+5 CONT <table>
+5 CONT <thead>
+5 CONT <tr><th>No. on List.</th><th>ticket</th><th>By whom was pass
+5 CONC age paid?</th><th>in possession of $50</th><th>ever before i
+5 CONC n US</th><th>period of years.</th><th>Where?</th><th>join re
+5 CONC lative or friend</th><th>intends to return to country from w
+5 CONC hence he came</th><th>Lenght of time alien intends to remai
+5 CONC n in US</th><th>intends to become a citizen of US</th><th>Ev
+5 CONC er in prison</th><th>polygamist</th><th>anarchist</th><th>ad
+5 CONC vocates overthrow US Gov't</th><th>coming to US by offer o
+5 CONC f labor</th><th>deported w/i one year</th><th>condition</th>
+5 CONC <th>crippled</th><th>Height. Feet.</th><th>Inches.</th><th>C
+5 CONC omplexion.</th><th>Color of Hair.</th><th>Eyes.</th><th>Mark
+5 CONC s of ID</th><th>Place of birth. Country</th><th>City</th><th
+5 CONC >Immigration Visa Number</th><th>Issued at</th><th>Date</th>
+5 CONC </tr>
+5 CONT </thead>
+5 CONT <tbody>
+5 CONT <tr><td>4</td><td>yes</td><td>himself</td><td>yes 200</td><t
+5 CONC d>yes</td><td>1900[-]1917[,] 1922 7 weeks</td><td>B'lyn</td>
+5 CONC <td>Mother: Francisca de Lopez 2114 Avenue G,B'lyn, NY</td><
+5 CONC td>yes</td><td><strike>3 or</strike> 4 mnths</td><td>no</td>
+5 CONC <td>no</td><td>no</td><td>no</td><td>no</td><td>no</td><td>n
+5 CONC o</td><td>good</td><td>no</td><td>5</td><td>10</td><td>dark<
+5 CONC /td><td>dark</td><td>brown</td><td>none</td><td>Ecuador</td>
+5 CONC <td>Chone</td><td>52</td><td>Curacao</td><td>Aug. 8th '25</t
+5 CONC d></tr>
+5 CONT <tr><td>5</td><td>yes</td><td>husband</td><td>yes</td><td>no
+5 CONC </td><td>[blank]</td><td>[blank]</td><td>Same, Motherin law.
+5 CONC </td><td>yes</td><td>&quot;</td><td>no</td><td>no</td><td>no
+5 CONC </td><td>no</td><td>no</td><td>no</td><td>no</td><td>good</t
+5 CONC d><td>no</td><td>5</td><td>[blank]</td><td>&quot;</td><td>&q
+5 CONC uot;</td><td>&quot;</td><td>none</td><td>Velezuela</td><td>M
+5 CONC aracaibo</td><td>&quot;</td><td>&quot;</td><td>&quot;</td></
+5 CONC tr>
+5 CONT </tbody>
+5 CONT </table>
 3 OBJE @M56@
 2 SOUR @Ap7270q8QDmqnp4oKY6u@
 3 _APID 1,7364::1518426
@@ -4328,14 +4622,155 @@
 2 NOTE Age: 28; Marital Status: Single; Relation to Head of House
 3 CONC : Head
 1 EVEN
-2 TYPE travel
-2 DATE 22 MAR 1922
-2 PLAC Brooklyn, Kings, New York, USA
+2 TYPE Departure
+2 DATE 18 MAR 1922
+2 PLAC Maracaibo, Zulia, Venezuela
 3 MAP
-4 LATI N40.65
-4 LONG W73.95
-2 SOUR @i9ohdMjzSqCr0MyYvX3B@
-3 QUAY 3
+4 LATI N10.6317
+4 LONG W71.6406
+2 SOUR @S63@
+3 _APID 1,7488::2147483647
+3 PAGE Year: 1922; Arrival: New York, New York; Microfilm Serial: T
+4 CONC 715, 1897-1957; Microfilm Roll: Roll 3094; Line: 1; Page Num
+4 CONC ber: 154
+3 DATA
+4 TEXT <p>
+5 CONT [image 264 of 1043]
+5 CONT </p>
+5 CONT <p>
+5 CONT S. S. "ZULIA," Passengers sailing from Maracaibo, Venezuela
+5 CONC , March 18th, 1922.
+5 CONT </p>
+5 CONT <table border="1">
+5 CONT <thead>
+5 CONT <tr><th>No. on List.</th><th>HEAD-TAX STATUS.</th><th>Famil
+5 CONC y name.</th><th>Given name.</th><th>Yrs.</th><th>Mos.</th><t
+5 CONC h>Sex.</th><th>Married or single.</th><th>Calling or occupat
+5 CONC ion</th><th>Read.</th><th>language</th><th>Write.</th><th>Na
+5 CONC tionality.</th><th>Race</th><th>permanant residence country<
+5 CONC /th><th>city</th><th>nearest relative or friend in country w
+5 CONC hence alien came.</th><th>Final destination. State.</th><th>
+5 CONC City or town.</th></tr>
+5 CONT <thead>
+5 CONT <tbody>
+5 CONT <tr><td>1</td><td>IN TRANSIT 253934</td><td>Lopez.</td><td>S
+5 CONC amuel</td><td>30</td><td>[check]</td><td>M</td><td>S</td><td
+5 CONC >Clerk</td><td>Yes</td><td>English Spanish</td><td>Yes</td><
+5 CONC td>Ecuador</td><td>Sp/Am.</td><td>Venez.</td><td>Maracaibo</
+5 CONC td><td>Friend, A. A. Sobalbarro, Maracaibo, Venez.</td><td>V
+5 CONC enez</td><td>Maracaibo.</td></tr>
+5 CONT </tbody>
+5 CONT </table>
+5 CONT
+5 CONT <p>
+5 CONT [image 265 of 1043]
+5 CONT </p>
+5 CONT <p>
+5 CONT Arriving at Port of New York, March 27th, 1922.
+5 CONT </p>
+5 CONT <table border="1">
+5 CONT <thead>
+5 CONT <tr><th>No. on List.</th><th>ticket</th><th>By whom was pass
+5 CONC age paid?</th><th>in possession of $50</th><th>ever before i
+5 CONC n US</th><th>period of years.</th><th>Where?</th><th>join re
+5 CONC lative or friend</th><th>intends to return to country from w
+5 CONC hence he came</th><th>Lenght of time alien intends to remai
+5 CONC n in US</th><th>intends to become a citizen of US</th><th>Ev
+5 CONC er in prison</th><th>polygamist</th><th>anarchist</th><th>ad
+5 CONC vocates overthrow US Gov't</th><th>coming to US by offer o
+5 CONC f labor</th><th>deported w/i one year</th><th>condition</th>
+5 CONC <th>crippled</th><th>Height. Feet.</th><th>Inches.</th><th>C
+5 CONC omplexion.</th><th>Color of Hair.</th><th>Eyes.</th><th>Mark
+5 CONC s of ID</th><th>Place of birth. Country</th><th>City</th></t
+5 CONC r>
+5 CONT </thead>
+5 CONT <tbody>
+5 CONT <tr><td>1</td><td>No</td><td>British Equestorial Oil Co.</td
+5 CONC ><td>$400</td><td>Yes</td><td>1901-1916</td><td>New York</td
+5 CONC ><td>On visit; to home of mother Mrs. M. [sic] Lopez, 2114 A
+5 CONC venue G, Brooklyn, N.Y.</td><td>Yes</td><td>1 month</td><td>
+5 CONC No</td><td>No</td><td>No</td><td>No</td><td>No</td><td>No</t
+5 CONC d><td>No</td><td>Good</td><td>No</td><td>5</td><td>10</td><t
+5 CONC d>Lgt</td><td>Dk</td><td>Br.</td><td>[check]</td><td>Ecuador
+5 CONC .</td><td>Chone.</td></tr>
+5 CONT </tbody>
+5 CONT </table>
+3 OBJE @M69@
+1 EVEN
+2 TYPE Arrival
+2 DATE 27 MAR 1922
+2 PLAC New York, New York, USA
+3 MAP
+4 LATI N40.7744
+4 LONG W73.9721
+2 SOUR @S63@
+3 _APID 1,7488::2147483647
+3 PAGE Year: 1922; Arrival: New York, New York; Microfilm Serial: T
+4 CONC 715, 1897-1957; Microfilm Roll: Roll 3094; Line: 1; Page Num
+4 CONC ber: 154
+3 DATA
+4 TEXT <p>
+5 CONT [image 264 of 1043]
+5 CONT </p>
+5 CONT <p>
+5 CONT S. S. "ZULIA," Passengers sailing from Maracaibo, Venezuela
+5 CONC , March 18th, 1922.
+5 CONT </p>
+5 CONT <table border="1">
+5 CONT <thead>
+5 CONT <tr><th>No. on List.</th><th>HEAD-TAX STATUS.</th><th>Famil
+5 CONC y name.</th><th>Given name.</th><th>Yrs.</th><th>Mos.</th><t
+5 CONC h>Sex.</th><th>Married or single.</th><th>Calling or occupat
+5 CONC ion</th><th>Read.</th><th>language</th><th>Write.</th><th>Na
+5 CONC tionality.</th><th>Race</th><th>permanant residence country<
+5 CONC /th><th>city</th><th>nearest relative or friend in country w
+5 CONC hence alien came.</th><th>Final destination. State.</th><th>
+5 CONC City or town.</th></tr>
+5 CONT <thead>
+5 CONT <tbody>
+5 CONT <tr><td>1</td><td>IN TRANSIT 253934</td><td>Lopez.</td><td>S
+5 CONC amuel</td><td>30</td><td>[check]</td><td>M</td><td>S</td><td
+5 CONC >Clerk</td><td>Yes</td><td>English Spanish</td><td>Yes</td><
+5 CONC td>Ecuador</td><td>Sp/Am.</td><td>Venez.</td><td>Maracaibo</
+5 CONC td><td>Friend, A. A. Sobalbarro, Maracaibo, Venez.</td><td>V
+5 CONC enez</td><td>Maracaibo.</td></tr>
+5 CONT </tbody>
+5 CONT </table>
+5 CONT
+5 CONT <p>
+5 CONT [image 265 of 1043]
+5 CONT </p>
+5 CONT <p>
+5 CONT Arriving at Port of New York, March 27th, 1922.
+5 CONT </p>
+5 CONT <table border="1">
+5 CONT <thead>
+5 CONT <tr><th>No. on List.</th><th>ticket</th><th>By whom was pass
+5 CONC age paid?</th><th>in possession of $50</th><th>ever before i
+5 CONC n US</th><th>period of years.</th><th>Where?</th><th>join re
+5 CONC lative or friend</th><th>intends to return to country from w
+5 CONC hence he came</th><th>Lenght of time alien intends to remai
+5 CONC n in US</th><th>intends to become a citizen of US</th><th>Ev
+5 CONC er in prison</th><th>polygamist</th><th>anarchist</th><th>ad
+5 CONC vocates overthrow US Gov't</th><th>coming to US by offer o
+5 CONC f labor</th><th>deported w/i one year</th><th>condition</th>
+5 CONC <th>crippled</th><th>Height. Feet.</th><th>Inches.</th><th>C
+5 CONC omplexion.</th><th>Color of Hair.</th><th>Eyes.</th><th>Mark
+5 CONC s of ID</th><th>Place of birth. Country</th><th>City</th></t
+5 CONC r>
+5 CONT </thead>
+5 CONT <tbody>
+5 CONT <tr><td>1</td><td>No</td><td>British Equestorial Oil Co.</td
+5 CONC ><td>$400</td><td>Yes</td><td>1901-1916</td><td>New York</td
+5 CONC ><td>On visit; to home of mother Mrs. M. [sic] Lopez, 2114 A
+5 CONC venue G, Brooklyn, N.Y.</td><td>Yes</td><td>1 month</td><td>
+5 CONC No</td><td>No</td><td>No</td><td>No</td><td>No</td><td>No</t
+5 CONC d><td>No</td><td>Good</td><td>No</td><td>5</td><td>10</td><t
+5 CONC d>Lgt</td><td>Dk</td><td>Br.</td><td>[check]</td><td>Ecuador
+5 CONC .</td><td>Chone.</td></tr>
+5 CONT </tbody>
+5 CONT </table>
+3 OBJE @M69@
 1 RESI
 2 DATE ABT 01 AUG 1925
 2 PLAC Maracaibo, Zulia, Venezuela
@@ -4347,26 +4782,263 @@
 3 PAGE Year: 1925; Arrival: New York, New York; Microfilm Serial: T
 4 CONC 715, 1897-1957; Microfilm Roll: Roll 3703; Line: 4; Page Num
 4 CONC ber: 222
+3 DATA
+4 TEXT <p>
+5 CONT [image 397 of 847]
+5 CONT </p>
+5 CONT <p>
+5 CONT S. S. NICKERIE. Passengers sailing from CURACAO, AUGUST 9th
+5 CONC , 1925.
+5 CONT </p>
+5 CONT <table>
+5 CONT <thead>
+5 CONT <tr><th>No. on List.</th><th>HEAD-TAX STATUS.</th><th>Famil
+5 CONC y name.</th><th>Given name.</th><th>Yrs.</th><th>Mos.</th><t
+5 CONC h>Sex.</th><th>Married or single.</th><th>Calling or occupat
+5 CONC ion</th><th>Read.</th><th>language</th><th>Write.</th><th>Na
+5 CONC tionality.</th><th>Race</th><th>permanant residence country<
+5 CONC /th><th>city</th><th>nearest relative or friend in country w
+5 CONC hence alien came.</th><th>Final destination. State.</th><th>
+5 CONC City or town.</th></tr>
+5 CONT <thead>
+5 CONT <tbody>
+5 CONT <tr><td>4</td><td>[blank]</td><td>Lopez.</td><td>Samuel</td>
+5 CONC <td>33</td><td>[check]</td><td>M</td><td>M</td><td>Office Cl
+5 CONC erk</td><td>yes</td><td>English Spanish</td><td>yes</td><td>
+5 CONC Ecuador</td><td>Span. Amer</td><td>&quot; [Venezuela]</td><t
+5 CONC d>&quot; [Maracaibo]</td><td>Father in law: Julio Villanueva
+5 CONC , Maracaibo Venezuela</td><td><strike>N Y</strike> Venezuela
+5 CONC </td><td><strike>Brooklyn</strike> Maracaibo.</td></tr>
+5 CONT <tr><td>5</td><td>[blank]</td><td>Lopez</td><td>Maria Villan
+5 CONC ueva w[i]f[e]</td><td>22</td><td>[check]</td><td>F</td><td>M
+5 CONC </td><td>None</td><td>yes</td><td>Spanish</td><td>yes</td><t
+5 CONC d>&quot;</td><td>&quot;</td><td>&quot;</td><td>&quot;</td><t
+5 CONC d>Same</td><td><strike>N Y</strike> &quot;</td><td><strike>
+5 CONC N Y</strike> &quot;</td></tr>
+5 CONT </tbody>
+5 CONT </table>
+5 CONT
+5 CONT <p>
+5 CONT [image 398 of 847]
+5 CONT </p>
+5 CONT <p>
+5 CONT Arriving at Port of New York, August 20th, 1925
+5 CONT </p>
+5 CONT <table>
+5 CONT <thead>
+5 CONT <tr><th>No. on List.</th><th>ticket</th><th>By whom was pass
+5 CONC age paid?</th><th>in possession of $50</th><th>ever before i
+5 CONC n US</th><th>period of years.</th><th>Where?</th><th>join re
+5 CONC lative or friend</th><th>intends to return to country from w
+5 CONC hence he came</th><th>Lenght of time alien intends to remai
+5 CONC n in US</th><th>intends to become a citizen of US</th><th>Ev
+5 CONC er in prison</th><th>polygamist</th><th>anarchist</th><th>ad
+5 CONC vocates overthrow US Gov't</th><th>coming to US by offer o
+5 CONC f labor</th><th>deported w/i one year</th><th>condition</th>
+5 CONC <th>crippled</th><th>Height. Feet.</th><th>Inches.</th><th>C
+5 CONC omplexion.</th><th>Color of Hair.</th><th>Eyes.</th><th>Mark
+5 CONC s of ID</th><th>Place of birth. Country</th><th>City</th><th
+5 CONC >Immigration Visa Number</th><th>Issued at</th><th>Date</th>
+5 CONC </tr>
+5 CONT </thead>
+5 CONT <tbody>
+5 CONT <tr><td>4</td><td>yes</td><td>himself</td><td>yes 200</td><t
+5 CONC d>yes</td><td>1900[-]1917[,] 1922 7 weeks</td><td>B'lyn</td>
+5 CONC <td>Mother: Francisca de Lopez 2114 Avenue G,B'lyn, NY</td><
+5 CONC td>yes</td><td><strike>3 or</strike> 4 mnths</td><td>no</td>
+5 CONC <td>no</td><td>no</td><td>no</td><td>no</td><td>no</td><td>n
+5 CONC o</td><td>good</td><td>no</td><td>5</td><td>10</td><td>dark<
+5 CONC /td><td>dark</td><td>brown</td><td>none</td><td>Ecuador</td>
+5 CONC <td>Chone</td><td>52</td><td>Curacao</td><td>Aug. 8th '25</t
+5 CONC d></tr>
+5 CONT <tr><td>5</td><td>yes</td><td>husband</td><td>yes</td><td>no
+5 CONC </td><td>[blank]</td><td>[blank]</td><td>Same, Motherin law.
+5 CONC </td><td>yes</td><td>&quot;</td><td>no</td><td>no</td><td>no
+5 CONC </td><td>no</td><td>no</td><td>no</td><td>no</td><td>good</t
+5 CONC d><td>no</td><td>5</td><td>[blank]</td><td>&quot;</td><td>&q
+5 CONC uot;</td><td>&quot;</td><td>none</td><td>Velezuela</td><td>M
+5 CONC aracaibo</td><td>&quot;</td><td>&quot;</td><td>&quot;</td></
+5 CONC tr>
+5 CONT </tbody>
+5 CONT </table>
 3 OBJE @M56@
 1 EVEN
 2 TYPE Departure
-2 DATE 08 AUG 1925
+2 DATE 09 AUG 1925
 2 PLAC Curaçao
 2 SOUR @S63@
 3 _APID 1,7488::2001318501
 3 PAGE Year: 1925; Arrival: New York, New York; Microfilm Serial: T
 4 CONC 715, 1897-1957; Microfilm Roll: Roll 3703; Line: 4; Page Num
 4 CONC ber: 222
+3 DATA
+4 TEXT <p>
+5 CONT [image 397 of 847]
+5 CONT </p>
+5 CONT <p>
+5 CONT S. S. NICKERIE. Passengers sailing from CURACAO, AUGUST 9th
+5 CONC , 1925.
+5 CONT </p>
+5 CONT <table>
+5 CONT <thead>
+5 CONT <tr><th>No. on List.</th><th>HEAD-TAX STATUS.</th><th>Famil
+5 CONC y name.</th><th>Given name.</th><th>Yrs.</th><th>Mos.</th><t
+5 CONC h>Sex.</th><th>Married or single.</th><th>Calling or occupat
+5 CONC ion</th><th>Read.</th><th>language</th><th>Write.</th><th>Na
+5 CONC tionality.</th><th>Race</th><th>permanant residence country<
+5 CONC /th><th>city</th><th>nearest relative or friend in country w
+5 CONC hence alien came.</th><th>Final destination. State.</th><th>
+5 CONC City or town.</th></tr>
+5 CONT <thead>
+5 CONT <tbody>
+5 CONT <tr><td>4</td><td>[blank]</td><td>Lopez.</td><td>Samuel</td>
+5 CONC <td>33</td><td>[check]</td><td>M</td><td>M</td><td>Office Cl
+5 CONC erk</td><td>yes</td><td>English Spanish</td><td>yes</td><td>
+5 CONC Ecuador</td><td>Span. Amer</td><td>&quot; [Venezuela]</td><t
+5 CONC d>&quot; [Maracaibo]</td><td>Father in law: Julio Villanueva
+5 CONC , Maracaibo Venezuela</td><td><strike>N Y</strike> Venezuela
+5 CONC </td><td><strike>Brooklyn</strike> Maracaibo.</td></tr>
+5 CONT <tr><td>5</td><td>[blank]</td><td>Lopez</td><td>Maria Villan
+5 CONC ueva w[i]f[e]</td><td>22</td><td>[check]</td><td>F</td><td>M
+5 CONC </td><td>None</td><td>yes</td><td>Spanish</td><td>yes</td><t
+5 CONC d>&quot;</td><td>&quot;</td><td>&quot;</td><td>&quot;</td><t
+5 CONC d>Same</td><td><strike>N Y</strike> &quot;</td><td><strike>
+5 CONC N Y</strike> &quot;</td></tr>
+5 CONT </tbody>
+5 CONT </table>
+5 CONT
+5 CONT <p>
+5 CONT [image 398 of 847]
+5 CONT </p>
+5 CONT <p>
+5 CONT Arriving at Port of New York, August 20th, 1925
+5 CONT </p>
+5 CONT <table>
+5 CONT <thead>
+5 CONT <tr><th>No. on List.</th><th>ticket</th><th>By whom was pass
+5 CONC age paid?</th><th>in possession of $50</th><th>ever before i
+5 CONC n US</th><th>period of years.</th><th>Where?</th><th>join re
+5 CONC lative or friend</th><th>intends to return to country from w
+5 CONC hence he came</th><th>Lenght of time alien intends to remai
+5 CONC n in US</th><th>intends to become a citizen of US</th><th>Ev
+5 CONC er in prison</th><th>polygamist</th><th>anarchist</th><th>ad
+5 CONC vocates overthrow US Gov't</th><th>coming to US by offer o
+5 CONC f labor</th><th>deported w/i one year</th><th>condition</th>
+5 CONC <th>crippled</th><th>Height. Feet.</th><th>Inches.</th><th>C
+5 CONC omplexion.</th><th>Color of Hair.</th><th>Eyes.</th><th>Mark
+5 CONC s of ID</th><th>Place of birth. Country</th><th>City</th><th
+5 CONC >Immigration Visa Number</th><th>Issued at</th><th>Date</th>
+5 CONC </tr>
+5 CONT </thead>
+5 CONT <tbody>
+5 CONT <tr><td>4</td><td>yes</td><td>himself</td><td>yes 200</td><t
+5 CONC d>yes</td><td>1900[-]1917[,] 1922 7 weeks</td><td>B'lyn</td>
+5 CONC <td>Mother: Francisca de Lopez 2114 Avenue G,B'lyn, NY</td><
+5 CONC td>yes</td><td><strike>3 or</strike> 4 mnths</td><td>no</td>
+5 CONC <td>no</td><td>no</td><td>no</td><td>no</td><td>no</td><td>n
+5 CONC o</td><td>good</td><td>no</td><td>5</td><td>10</td><td>dark<
+5 CONC /td><td>dark</td><td>brown</td><td>none</td><td>Ecuador</td>
+5 CONC <td>Chone</td><td>52</td><td>Curacao</td><td>Aug. 8th '25</t
+5 CONC d></tr>
+5 CONT <tr><td>5</td><td>yes</td><td>husband</td><td>yes</td><td>no
+5 CONC </td><td>[blank]</td><td>[blank]</td><td>Same, Motherin law.
+5 CONC </td><td>yes</td><td>&quot;</td><td>no</td><td>no</td><td>no
+5 CONC </td><td>no</td><td>no</td><td>no</td><td>no</td><td>good</t
+5 CONC d><td>no</td><td>5</td><td>[blank]</td><td>&quot;</td><td>&q
+5 CONC uot;</td><td>&quot;</td><td>none</td><td>Velezuela</td><td>M
+5 CONC aracaibo</td><td>&quot;</td><td>&quot;</td><td>&quot;</td></
+5 CONC tr>
+5 CONT </tbody>
+5 CONT </table>
 3 OBJE @M56@
 1 EVEN
 2 TYPE Arrival
-2 DATE 09 AUG 1925
+2 DATE 20 AUG 1925
 2 PLAC New York City, New York, USA
 2 SOUR @S63@
 3 _APID 1,7488::2001318501
 3 PAGE Year: 1925; Arrival: New York, New York; Microfilm Serial: T
 4 CONC 715, 1897-1957; Microfilm Roll: Roll 3703; Line: 4; Page Num
 4 CONC ber: 222
+3 DATA
+4 TEXT <p>
+5 CONT [image 397 of 847]
+5 CONT </p>
+5 CONT <p>
+5 CONT S. S. NICKERIE. Passengers sailing from CURACAO, AUGUST 9th
+5 CONC , 1925.
+5 CONT </p>
+5 CONT <table>
+5 CONT <thead>
+5 CONT <tr><th>No. on List.</th><th>HEAD-TAX STATUS.</th><th>Famil
+5 CONC y name.</th><th>Given name.</th><th>Yrs.</th><th>Mos.</th><t
+5 CONC h>Sex.</th><th>Married or single.</th><th>Calling or occupat
+5 CONC ion</th><th>Read.</th><th>language</th><th>Write.</th><th>Na
+5 CONC tionality.</th><th>Race</th><th>permanant residence country<
+5 CONC /th><th>city</th><th>nearest relative or friend in country w
+5 CONC hence alien came.</th><th>Final destination. State.</th><th>
+5 CONC City or town.</th></tr>
+5 CONT <thead>
+5 CONT <tbody>
+5 CONT <tr><td>4</td><td>[blank]</td><td>Lopez.</td><td>Samuel</td>
+5 CONC <td>33</td><td>[check]</td><td>M</td><td>M</td><td>Office Cl
+5 CONC erk</td><td>yes</td><td>English Spanish</td><td>yes</td><td>
+5 CONC Ecuador</td><td>Span. Amer</td><td>&quot; [Venezuela]</td><t
+5 CONC d>&quot; [Maracaibo]</td><td>Father in law: Julio Villanueva
+5 CONC , Maracaibo Venezuela</td><td><strike>N Y</strike> Venezuela
+5 CONC </td><td><strike>Brooklyn</strike> Maracaibo.</td></tr>
+5 CONT <tr><td>5</td><td>[blank]</td><td>Lopez</td><td>Maria Villan
+5 CONC ueva w[i]f[e]</td><td>22</td><td>[check]</td><td>F</td><td>M
+5 CONC </td><td>None</td><td>yes</td><td>Spanish</td><td>yes</td><t
+5 CONC d>&quot;</td><td>&quot;</td><td>&quot;</td><td>&quot;</td><t
+5 CONC d>Same</td><td><strike>N Y</strike> &quot;</td><td><strike>
+5 CONC N Y</strike> &quot;</td></tr>
+5 CONT </tbody>
+5 CONT </table>
+5 CONT
+5 CONT <p>
+5 CONT [image 398 of 847]
+5 CONT </p>
+5 CONT <p>
+5 CONT Arriving at Port of New York, August 20th, 1925
+5 CONT </p>
+5 CONT <table>
+5 CONT <thead>
+5 CONT <tr><th>No. on List.</th><th>ticket</th><th>By whom was pass
+5 CONC age paid?</th><th>in possession of $50</th><th>ever before i
+5 CONC n US</th><th>period of years.</th><th>Where?</th><th>join re
+5 CONC lative or friend</th><th>intends to return to country from w
+5 CONC hence he came</th><th>Lenght of time alien intends to remai
+5 CONC n in US</th><th>intends to become a citizen of US</th><th>Ev
+5 CONC er in prison</th><th>polygamist</th><th>anarchist</th><th>ad
+5 CONC vocates overthrow US Gov't</th><th>coming to US by offer o
+5 CONC f labor</th><th>deported w/i one year</th><th>condition</th>
+5 CONC <th>crippled</th><th>Height. Feet.</th><th>Inches.</th><th>C
+5 CONC omplexion.</th><th>Color of Hair.</th><th>Eyes.</th><th>Mark
+5 CONC s of ID</th><th>Place of birth. Country</th><th>City</th><th
+5 CONC >Immigration Visa Number</th><th>Issued at</th><th>Date</th>
+5 CONC </tr>
+5 CONT </thead>
+5 CONT <tbody>
+5 CONT <tr><td>4</td><td>yes</td><td>himself</td><td>yes 200</td><t
+5 CONC d>yes</td><td>1900[-]1917[,] 1922 7 weeks</td><td>B'lyn</td>
+5 CONC <td>Mother: Francisca de Lopez 2114 Avenue G,B'lyn, NY</td><
+5 CONC td>yes</td><td><strike>3 or</strike> 4 mnths</td><td>no</td>
+5 CONC <td>no</td><td>no</td><td>no</td><td>no</td><td>no</td><td>n
+5 CONC o</td><td>good</td><td>no</td><td>5</td><td>10</td><td>dark<
+5 CONC /td><td>dark</td><td>brown</td><td>none</td><td>Ecuador</td>
+5 CONC <td>Chone</td><td>52</td><td>Curacao</td><td>Aug. 8th '25</t
+5 CONC d></tr>
+5 CONT <tr><td>5</td><td>yes</td><td>husband</td><td>yes</td><td>no
+5 CONC </td><td>[blank]</td><td>[blank]</td><td>Same, Motherin law.
+5 CONC </td><td>yes</td><td>&quot;</td><td>no</td><td>no</td><td>no
+5 CONC </td><td>no</td><td>no</td><td>no</td><td>no</td><td>good</t
+5 CONC d><td>no</td><td>5</td><td>[blank]</td><td>&quot;</td><td>&q
+5 CONC uot;</td><td>&quot;</td><td>none</td><td>Velezuela</td><td>M
+5 CONC aracaibo</td><td>&quot;</td><td>&quot;</td><td>&quot;</td></
+5 CONC tr>
+5 CONT </tbody>
+5 CONT </table>
 3 OBJE @M56@
 1 RESI
 2 DATE 1930
@@ -4787,7 +5459,7 @@
 1 _XY 172779 3250
 1 REFN 2f91e775-889a-46ce-9730-9a8fcc10e19f
 1 NAME Miguel Angel /López/
-2 SOUR @6GMfgI81RfCDdjYEIKCD@
+2 SOUR @S63@
 3 _APID 1,7488::2147483647
 3 PAGE Year: 1911
 3 OBJE @6xXNWQPsRv6JLcDqHSik@
@@ -4808,7 +5480,7 @@
 3 MAP
 4 LATI S1.3333
 4 LONG W80.5833
-2 SOUR @6GMfgI81RfCDdjYEIKCD@
+2 SOUR @S63@
 3 _APID 1,7488::2147483647
 3 PAGE Year: 1911
 3 OBJE @6xXNWQPsRv6JLcDqHSik@
@@ -4850,7 +5522,7 @@
 3 MAP
 4 LATI N40.7744
 4 LONG W73.9721
-2 SOUR @6GMfgI81RfCDdjYEIKCD@
+2 SOUR @S63@
 3 _APID 1,7488::2147483647
 3 PAGE Year: 1911
 3 OBJE @6xXNWQPsRv6JLcDqHSik@
@@ -5480,7 +6152,7 @@
 3 OBJE @EuNyrMxrSMqPhfJjXwGK@
 2 SOUR @AjMegeGBTpu0nJWDRMDA@
 3 _APID 1,9131::4259816
-2 SOUR @6GMfgI81RfCDdjYEIKCD@
+2 SOUR @S63@
 3 _APID 1,7488::2147483647
 3 PAGE Year: 1911; Arrival: New York, New York; Microfilm Serial: T
 4 CONC 715, 1897-1957; Microfilm Roll: Roll 1760; Line: 3; Page Num
@@ -5546,7 +6218,7 @@
 3 OBJE @EuNyrMxrSMqPhfJjXwGK@
 2 SOUR @AjMegeGBTpu0nJWDRMDA@
 3 _APID 1,9131::4259816
-2 SOUR @6GMfgI81RfCDdjYEIKCD@
+2 SOUR @S63@
 3 _APID 1,7488::2147483647
 3 PAGE Year: 1911; Arrival: New York, New York; Microfilm Serial: T
 4 CONC 715, 1897-1957; Microfilm Roll: Roll 1760; Line: 3; Page Num
@@ -5702,7 +6374,7 @@
 2 TYPE Departure
 2 DATE 14 OCT 1911
 2 PLAC Colón, Colón, Panama
-2 SOUR @6GMfgI81RfCDdjYEIKCD@
+2 SOUR @S63@
 3 _APID 1,7488::2147483647
 3 PAGE Year: 1911; Arrival: New York, New York; Microfilm Serial: T
 4 CONC 715, 1897-1957; Microfilm Roll: Roll 1760; Line: 3; Page Num
@@ -5715,7 +6387,7 @@
 3 MAP
 4 LATI N40.7744
 4 LONG W73.9721
-2 SOUR @6GMfgI81RfCDdjYEIKCD@
+2 SOUR @S63@
 3 _APID 1,7488::2147483647
 3 PAGE Year: 1911; Arrival: New York, New York; Microfilm Serial: T
 4 CONC 715, 1897-1957; Microfilm Roll: Roll 1760; Line: 3; Page Num
@@ -6888,7 +7560,7 @@
 3 OBJE @yHskedmsTqKmgHx2SCiC@
 2 SOUR @AjMegeGBTpu0nJWDRMDA@
 3 _APID 1,9131::4332567
-2 SOUR @6GMfgI81RfCDdjYEIKCD@
+2 SOUR @S63@
 3 _APID 1,7488::2147483647
 3 PAGE Year: 1919; Arrival: New York, New York; Microfilm Serial: T
 4 CONC 715, 1897-1957; Microfilm Roll: Roll 2692; Line: 1; Page Num
@@ -7007,7 +7679,7 @@
 3 OBJE @yHskedmsTqKmgHx2SCiC@
 2 SOUR @AjMegeGBTpu0nJWDRMDA@
 3 _APID 1,9131::4332567
-2 SOUR @6GMfgI81RfCDdjYEIKCD@
+2 SOUR @S63@
 3 _APID 1,7488::2147483647
 3 PAGE Year: 1919; Arrival: New York, New York; Microfilm Serial: T
 4 CONC 715, 1897-1957; Microfilm Roll: Roll 2692; Line: 1; Page Num
@@ -7126,7 +7798,7 @@
 1 RESI
 2 DATE 1919
 2 PLAC 1729 Pine Street, New Orleans, Orleans, Louisiana, USA
-2 SOUR @6GMfgI81RfCDdjYEIKCD@
+2 SOUR @S63@
 3 _APID 1,7488::2147483647
 3 PAGE Year: 1919; Arrival: New York, New York; Microfilm Serial: T
 4 CONC 715, 1897-1957; Microfilm Roll: Roll 2692; Line: 1; Page Num
@@ -7136,7 +7808,7 @@
 2 TYPE Departure
 2 DATE OCT 1919
 2 PLAC Progreso, Yucatán, Mexico
-2 SOUR @6GMfgI81RfCDdjYEIKCD@
+2 SOUR @S63@
 3 _APID 1,7488::2147483647
 3 PAGE Year: 1919; Arrival: New York, New York; Microfilm Serial: T
 4 CONC 715, 1897-1957; Microfilm Roll: Roll 2692; Line: 1; Page Num
@@ -7149,7 +7821,7 @@
 3 MAP
 4 LATI N40.7744
 4 LONG W73.9721
-2 SOUR @6GMfgI81RfCDdjYEIKCD@
+2 SOUR @S63@
 3 _APID 1,7488::2147483647
 3 PAGE Year: 1919; Arrival: New York, New York; Microfilm Serial: T
 4 CONC 715, 1897-1957; Microfilm Roll: Roll 2692; Line: 1; Page Num
@@ -8513,167 +9185,6 @@
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Lehi, UT, USA; Date
 2 CONC : 2017
-0 @i9ohdMjzSqCr0MyYvX3B@ SOUR
-1 REFN 53430abb-b6d9-480f-8856-0fa319a1adcb
-1 TITL New York Passenger Lists, 1820-1957 [database on-line]
-1 AUTH Ancestry.com
-1 PUBL Provo, UT, USA: Ancestry.com Operations, Inc., 2010
-1 TEXT [Original data:<br />
-2 CONT <p>
-2 CONT Passenger Lists of Vessels Arriving at New York, New York, 1
-2 CONC 820-1897; (National Archives Microfilm Publication M237, 67
-2 CONC 5 rolls); Records of the U.S. Customs Service, Record Grou
-2 CONC p 36; National Archives, Washington, D.C.
-2 CONT </p>
-2 CONT <p>
-2 CONT Passenger and Crew Lists of Vessels Arriving at New York, Ne
-2 CONC w York, 1897-1957; (National Archives Microfilm Publicatio
-2 CONC n T715, 8892 rolls); Records of the Immigration and Naturali
-2 CONC zation Service; National Archives, Washington, D.C.]
-2 CONT </p>
-2 CONT <p>
-2 CONT [1922, March, 27, ship: Zulia]
-2 CONT </p>
-2 CONT <p>
-2 CONT [image 3 of 18]
-2 CONT </p>
-2 CONT <p>
-2 CONT S. S. "ZULIA," Passengers sailing from Maracaibo, Venezuela
-2 CONC , March 18th, 1922.
-2 CONT </p>
-2 CONT <table border="1">
-2 CONT <thead>
-2 CONT <tr><th>No. on List.</th><th>HEAD-TAX STATUS.</th><th>Famil
-2 CONC y name.</th><th>Given name.</th><th>Yrs.</th><th>Mos.</th><t
-2 CONC h>Sex.</th><th>Married or single.</th><th>Calling or occupat
-2 CONC ion</th><th>Read.</th><th>language</th><th>Write.</th><th>Na
-2 CONC tionality.</th><th>Race</th><th>permanant residence country<
-2 CONC /th><th>city</th><th>nearest relative or friend in country w
-2 CONC hence alien came.</th><th>Final destination. State.</th><th>
-2 CONC City or town.</th></tr>
-2 CONT <thead>
-2 CONT <tbody>
-2 CONT <tr><td>1</td><td>IN TRANSIT 253934</td><td>Lopez.</td><td>S
-2 CONC amuel</td><td>30</td><td>[check]</td><td>M</td><td>S</td><td
-2 CONC >Clerk</td><td>Yes</td><td>English Spanish</td><td>Yes</td><
-2 CONC td>Ecuador</td><td>Sp/Am.</td><td>Venez.</td><td>Maracaibo</
-2 CONC td><td>Friend, A. A. Sobalbarro, Maracaibo, Venez.</td><td>V
-2 CONC enez</td><td>Maracaibo.</td></tr>
-2 CONT </tbody>
-2 CONT </table>
-2 CONT <p>
-2 CONT [image 4 of 18]
-2 CONT </p>
-2 CONT <p>
-2 CONT Arriving at Port of New York, March 27th, 1922.
-2 CONT </p>
-2 CONT <table border="1">
-2 CONT <thead>
-2 CONT <tr><th>No. on List.</th><th>ticket</th><th>By whom was pass
-2 CONC age paid?</th><th>in posession of $50</th><th>ever before i
-2 CONC n US</th><th>period of years.</th><th>Where?</th><th>join re
-2 CONC lative or friend</th><th>intends to return to country from w
-2 CONC hence he came</th><th>Lenght of time alien intends to remai
-2 CONC n in US</th><th>intends to become a citizen of US</th><th>Ev
-2 CONC er in prison</th><th>polygamist</th><th>anarchist</th><th>ad
-2 CONC vocates overthrow US Gov't</th><th>coming to US by offer o
-2 CONC f labor</th><th>deported w/i one year</th><th>condition</th>
-2 CONC <th>crippled</th><th>Height. Feet.</th><th>Inches.</th><th>C
-2 CONC omplexion.</th><th>Color of Hair.</th><th>Eyes.</th><th>Mark
-2 CONC s of ID</th><th>Place of birth. Country</th><th>City</th></t
-2 CONC r>
-2 CONT </thead>
-2 CONT <tbody>
-2 CONT <tr><td>1</td><td>No</td><td>British Equestorial Oil Co.</td
-2 CONC ><td>$400</td><td>Yes</td><td>1901-1916</td><td>New York</td
-2 CONC ><td>On visit; to home of mother Mrs. M. [sic] Lopez, 2114 A
-2 CONC venue G, Brooklyn, N.Y.</td><td>Yes</td><td>1 month</td><td>
-2 CONC No</td><td>No</td><td>No</td><td>No</td><td>No</td><td>No</t
-2 CONC d><td>No</td><td>Good</td><td>No</td><td>5</td><td>10</td><t
-2 CONC d>Lgt</td><td>Dk</td><td>Br.</td><td>[check]</td><td>Ecuador
-2 CONC .</td><td>Chone.</td></tr>
-2 CONT </tbody>
-2 CONT </table>
-2 CONT <p>
-2 CONT [1925, August, 20, ship: Nickerie]
-2 CONT </p>
-2 CONT <p>
-2 CONT [image 5 of 21]
-2 CONT </p>
-2 CONT <p>
-2 CONT S. S. NICKERIE. Passengers sailing from CURACAO, AUGUST 9th
-2 CONC , 1925.
-2 CONT </p>
-2 CONT <table border="1">
-2 CONT <thead>
-2 CONT <tr><th>No. on List.</th><th>HEAD-TAX STATUS.</th><th>Famil
-2 CONC y name.</th><th>Given name.</th><th>Yrs.</th><th>Mos.</th><t
-2 CONC h>Sex.</th><th>Married or single.</th><th>Calling or occupat
-2 CONC ion</th><th>Read.</th><th>language</th><th>Write.</th><th>Na
-2 CONC tionality.</th><th>Race</th><th>permanant residence country<
-2 CONC /th><th>city</th><th>nearest relative or friend in country w
-2 CONC hence alien came.</th><th>Final destination. State.</th><th>
-2 CONC City or town.</th></tr>
-2 CONT <thead>
-2 CONT <tbody>
-2 CONT <tr><td>4</td><td>[blank]</td><td>Lopez.</td><td>Samuel</td>
-2 CONC <td>33</td><td>[check]</td><td>M</td><td>M</td><td>Office Cl
-2 CONC erk</td><td>yes</td><td>English Spanish</td><td>yes</td><td>
-2 CONC Ecuador</td><td>Span. Amer</td><td>&quot; [Venezuela]</td><t
-2 CONC d>&quot; [Maracaibo]</td><td>Father in law: Julio Villanueva
-2 CONC , Maracaibo Venezuela</td><td><strike>N Y</strike> Venezuela
-2 CONC </td><td><strike>Brooklyn</strike> Maracaibo.</td></tr>
-2 CONT <tr><td>5</td><td>[blank]</td><td>Lopez</td><td>Maria Villan
-2 CONC ueva w[i]f[e]</td><td>22</td><td>[check]</td><td>F</td><td>M
-2 CONC </td><td>None</td><td>yes</td><td>Spanish</td><td>yes</td><t
-2 CONC d>&quot;</td><td>&quot;</td><td>&quot;</td><td>&quot;</td><t
-2 CONC d>Same</td><td><strike>N Y</strike> &quot;</td><td><strike>
-2 CONC N Y</strike> &quot;</td></tr>
-2 CONT </tbody>
-2 CONT </table>
-2 CONT <p>
-2 CONT [image 6 of 18]
-2 CONT </p>
-2 CONT <p>
-2 CONT Arriving at Port of New York, August 20th, 1925
-2 CONT </p>
-2 CONT <table border="1">
-2 CONT <thead>
-2 CONT <tr><th>No. on List.</th><th>ticket</th><th>By whom was pass
-2 CONC age paid?</th><th>in posession of $50</th><th>ever before i
-2 CONC n US</th><th>period of years.</th><th>Where?</th><th>join re
-2 CONC lative or friend</th><th>intends to return to country from w
-2 CONC hence he came</th><th>Lenght of time alien intends to remai
-2 CONC n in US</th><th>intends to become a citizen of US</th><th>Ev
-2 CONC er in prison</th><th>polygamist</th><th>anarchist</th><th>ad
-2 CONC vocates overthrow US Gov't</th><th>coming to US by offer o
-2 CONC f labor</th><th>deported w/i one year</th><th>condition</th>
-2 CONC <th>crippled</th><th>Height. Feet.</th><th>Inches.</th><th>C
-2 CONC omplexion.</th><th>Color of Hair.</th><th>Eyes.</th><th>Mark
-2 CONC s of ID</th><th>Place of birth. Country</th><th>City</th><th
-2 CONC >Immigration Visa Number</th><th>Issued at</th><th>Date</th>
-2 CONC </tr>
-2 CONT </thead>
-2 CONT <tbody>
-2 CONT <tr><td>4</td><td>yes</td><td>himself</td><td>yes 200</td><t
-2 CONC d>yes</td><td>1900[-]1917[,] 1922 7 weeks</td><td>B'lyn</td>
-2 CONC <td>Mother: Francisca de Lopez 2114 Avenue G,B'lyn, NY</td><
-2 CONC td>yes</td><td><strike>3 or</strike> 4 mnths</td><td>no</td>
-2 CONC <td>no</td><td>no</td><td>no</td><td>no</td><td>no</td><td>n
-2 CONC o</td><td>good</td><td>no</td><td>5</td><td>10</td><td>dark<
-2 CONC /td><td>dark</td><td>brown</td><td>none</td><td>Ecuador</td>
-2 CONC <td>Chone</td><td>52</td><td>Curacao</td><td>Aug. 8th '25</t
-2 CONC d></tr>
-2 CONT <tr><td>5</td><td>yes</td><td>husband</td><td>yes</td><td>no
-2 CONC </td><td>[blank]</td><td>[blank]</td><td>Same, Motherin law.
-2 CONC </td><td>yes</td><td>&quot;</td><td>no</td><td>no</td><td>no
-2 CONC </td><td>no</td><td>no</td><td>no</td><td>no</td><td>good</t
-2 CONC d><td>no</td><td>5</td><td>[blank]</td><td>&quot;</td><td>&q
-2 CONC uot;</td><td>&quot;</td><td>none</td><td>Velezuela</td><td>M
-2 CONC aracaibo</td><td>&quot;</td><td>&quot;</td><td>&quot;</td></
-2 CONC tr>
-2 CONT </tbody>
-2 CONT </table>
 0 @uc6TY0trSKKxEHYlsSze@ SOUR
 1 REFN 829454e4-2eca-4936-9966-6c61ac2d5465
 1 REPO @R1@
@@ -8701,13 +9212,6 @@
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2014
-0 @6GMfgI81RfCDdjYEIKCD@ SOUR
-1 REFN d12f6d0f-a436-4eb6-8094-681f32d73687
-1 REPO @R1@
-1 TITL New York, Passenger Lists, 1820-1957
-1 AUTH Ancestry.com
-1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
-2 CONC e: 2010
 0 @S63@ SOUR
 1 REFN 57e17c1c-da61-4e6f-abc9-da26693cd52e
 1 REPO @R1@
@@ -10577,6 +11081,14 @@
 2 CONC w York, New York, Births, 1910-1965.jpg
 2 FORM jpg
 2 TITL New York, New York, Births, 1910-1965
+0 @M69@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Lopez Media\Ne
+2 CONC w York, Passenger Lists, 1820-1957(1).jpg
+2 FORM jpg
+2 TITL New York, Passenger Lists, 1820-1957
+2 _TEXT Year: 1922; Arrival: New York, New York; Microfilm Serial: T
+3 CONC 715, 1897-1957; Microfilm Roll: Roll 3094; Line: 1; Page Num
+3 CONC ber: 154
 0 @N249@ NOTE __GEDCOM__: DATE BEF APR 1608 __GEDCOM__
 0 @N248@ NOTE __GEDCOM__: DATE BET 1521 AND 1528 __GEDCOM__
 0 @N224@ NOTE affidavit, page 1
