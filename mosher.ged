@@ -13,9 +13,9 @@
 4 CONT Boston, MA 02109
 3 PHON (617) 227-6681
 1 DEST FTM
-1 FILE Mosher_2018-01-17.ged
-1 DATE 17 JAN 2018
-2 TIME 03:44:58
+1 FILE Mosher_2018-01-21-00-27-03.ftm.ged
+1 DATE 21 JAN 2018
+2 TIME 00:28:18
 0 @Umy2qBWIRUiwVSS6Hcn4@ SUBM
 1 NAME Christopher Alan Mosher
 2 EMAIL cmosher01@@gmail.com
@@ -489,7 +489,7 @@
 4 CONC ecords; Reel: 393
 3 OBJE @T5aoDhg2QS65xo0LIETp@
 2 SOUR @no3WOAYZQe6N33Va0Xqa@
-3 _APID 1,60525::63166809
+3 _APID 1,60525::123249206
 1 SEX M
 1 FAMS @Jdd3sX1MR0iVDQbISzEI@
 1 BIRT
@@ -541,7 +541,7 @@
 4 CONC strict: 01; City: Elmira Ward 11; County: Chemung; Page: 6
 3 OBJE @a0Yt9lrnRgKtHGFVjf58@
 2 SOUR @no3WOAYZQe6N33Va0Xqa@
-3 _APID 1,60525::63166809
+3 _APID 1,60525::123249206
 1 RESI
 2 DATE 1880
 2 PLAC Mansfield, Tioga, Pennsylvania, USA
@@ -627,7 +627,7 @@
 4 LATI N42.0162
 4 LONG W76.7269
 2 SOUR @no3WOAYZQe6N33Va0Xqa@
-3 _APID 1,60525::63166809
+3 _APID 1,60525::123249206
 1 DEAT
 2 DATE 1930
 2 PLAC Chemung, New York, USA
@@ -635,7 +635,7 @@
 4 LATI N42.1409
 4 LONG W76.76
 2 SOUR @no3WOAYZQe6N33Va0Xqa@
-3 _APID 1,60525::63166809
+3 _APID 1,60525::123249206
 1 RESI
 2 DATE 1930
 2 PLAC Wellsburg, Chemung, New York, USA
@@ -1534,7 +1534,7 @@
 4 CONC : Hamilton; County: Madison
 3 OBJE @RTJ3xAR4Sxi2cySY7jnZ@
 2 SOUR @no3WOAYZQe6N33Va0Xqa@
-3 _APID 1,60525::13875949
+3 _APID 1,60525::123249206
 2 SOUR @Q3pDaZrXQzi0fjGmGdhC@
 3 _APID 1,70500::1455673
 1 SEX M
@@ -1605,7 +1605,7 @@
 4 CONC : Hamilton; County: Madison
 3 OBJE @RTJ3xAR4Sxi2cySY7jnZ@
 2 SOUR @no3WOAYZQe6N33Va0Xqa@
-3 _APID 1,60525::13875949
+3 _APID 1,60525::123249206
 2 SOUR @Q3pDaZrXQzi0fjGmGdhC@
 3 _APID 1,70500::1455673
 1 RESI
@@ -1761,14 +1761,14 @@
 4 LATI N38.4455
 4 LONG W121.8233
 2 SOUR @no3WOAYZQe6N33Va0Xqa@
-3 _APID 1,60525::13875949
+3 _APID 1,60525::123249206
 1 BURI
 2 PLAC Red Bluff, Tehama, California, USA
 3 MAP
 4 LATI N40.1785
 4 LONG W122.2359
 2 SOUR @no3WOAYZQe6N33Va0Xqa@
-3 _APID 1,60525::13875949
+3 _APID 1,60525::123249206
 2 SOUR @Q3pDaZrXQzi0fjGmGdhC@
 3 _APID 1,70500::1455673
 0 @I378@ INDI
@@ -2804,18 +2804,11 @@
 1 REFN cdf05d10-e0e1-4833-97b0-afff7fbb03d4
 1 NAME Alonzo /Luther/
 2 SOUR @r4nPkehUQcqkh4guUlYE@
-3 _LINK http://search.ancestry.com/cgi-bin/sse.dll?db=1860usfedcenan
-4 CONC cestry&h=5050566&ti=0&indiv=try&gss=pt
 3 _APID 1,7667::5050566
 3 PAGE Year: 1860; Census Place: Deerfield, Tioga, Pennsylvania; Ro
-4 CONC ll: ; Page: 261; Image: 265.
-3 DATA
-4 TEXT Name:
-5 CONT Alonzo Luther
-5 CONT Birth:
-5 CONT abt 1856 in Pennsylvania
-5 CONT Death:
-3 OBJE @I2cct7f4RWWZSn1wg7TS@
+4 CONC ll: M653_1187; Page: 261; Family History Library Film: 80518
+4 CONC 7
+3 OBJE @M163@
 2 SOUR @KACzv5F4SuGVL7nmOul5@
 3 _APID 1,7163::32329471
 3 PAGE Year: 1870; Census Place: Corning, Steuben, New York; Roll
@@ -2857,18 +2850,11 @@
 2 DATE AUG 1855
 2 PLAC Academy Corners, Deerfield, Tioga, Pennsylvania, USA
 2 SOUR @r4nPkehUQcqkh4guUlYE@
-3 _LINK http://search.ancestry.com/cgi-bin/sse.dll?db=1860usfedcenan
-4 CONC cestry&h=5050566&ti=0&indiv=try&gss=pt
 3 _APID 1,7667::5050566
 3 PAGE Year: 1860; Census Place: Deerfield, Tioga, Pennsylvania; Ro
-4 CONC ll: ; Page: 261; Image: 265.
-3 DATA
-4 TEXT Name:
-5 CONT Alonzo Luther
-5 CONT Birth:
-5 CONT abt 1856 in Pennsylvania
-5 CONT Death:
-3 OBJE @I2cct7f4RWWZSn1wg7TS@
+4 CONC ll: M653_1187; Page: 261; Family History Library Film: 80518
+4 CONC 7
+3 OBJE @M163@
 2 SOUR @KACzv5F4SuGVL7nmOul5@
 3 _APID 1,7163::32329471
 3 PAGE Year: 1870; Census Place: Corning, Steuben, New York; Roll
@@ -4578,20 +4564,53 @@
 1 _XY 183 209
 1 REFN 331b7a24-4612-45bd-8a6e-b350736c98e8
 1 NAME Margaret //
+2 SOUR @S191@
+3 _APID 1,5111::723596
+3 PAGE The National Archives; Kew, England; Prerogative Court of Ca
+4 CONC nterbury and Related Probate Jurisdictions: Will Registers
+4 CONC ; Class: PROB 11; Piece: 285
+3 OBJE @M181@
 2 SOUR @S183@
 1 SEX F
 1 FAMS @F302@
 1 BIRT
 2 DATE ABT 1584
 2 SOUR @S184@
+1 RESI
+2 DATE 1658
+2 PLAC Wincanton, Somerset, England
+3 MAP
+4 LATI N51.0538
+4 LONG W2.409
+2 SOUR @S191@
+3 _APID 1,5111::723596
+3 PAGE The National Archives; Kew, England; Prerogative Court of Ca
+4 CONC nterbury and Related Probate Jurisdictions: Will Registers
+4 CONC ; Class: PROB 11; Piece: 285
+3 OBJE @M181@
 1 WILL
 2 DATE 22 JUL 1658
 2 SOUR @CNCZKGpeSrKJ6BUTT9Hu@
 3 PAGE p. xi
 3 QUAY 1
+2 SOUR @S191@
+3 _APID 1,5111::723596
+3 PAGE The National Archives; Kew, England; Prerogative Court of Ca
+4 CONC nterbury and Related Probate Jurisdictions: Will Registers
+4 CONC ; Class: PROB 11; Piece: 285
+3 OBJE @M181@
 1 DEAT
 2 DATE ABT 30 JUL 1658
 2 PLAC Wincanton, Somerset, England
+3 MAP
+4 LATI N51.0538
+4 LONG W2.409
+2 SOUR @S191@
+3 _APID 1,5111::723596
+3 PAGE The National Archives; Kew, England; Prerogative Court of Ca
+4 CONC nterbury and Related Probate Jurisdictions: Will Registers
+4 CONC ; Class: PROB 11; Piece: 285
+3 OBJE @M181@
 1 BURI
 2 DATE 01 AUG 1658
 2 PLAC Wincanton, Somerset, England
@@ -4603,6 +4622,12 @@
 2 SOUR @CNCZKGpeSrKJ6BUTT9Hu@
 3 PAGE p. xi
 3 QUAY 1
+2 SOUR @S191@
+3 _APID 1,5111::723596
+3 PAGE The National Archives; Kew, England; Prerogative Court of Ca
+4 CONC nterbury and Related Probate Jurisdictions: Will Registers
+4 CONC ; Class: PROB 11; Piece: 285
+3 OBJE @M181@
 0 @23SIWBEDQcSc1zULNk3d@ INDI
 1 _XY 9665 50
 1 REFN fd854473-9d1e-49f4-b197-577edd033cc3
@@ -5911,6 +5936,12 @@
 1 _XY 274 209
 1 REFN 948b2486-d8cc-407e-af77-b1f18a59c40e
 1 NAME Hugh /Moger/
+2 SOUR @S191@
+3 _APID 1,5111::762183
+3 PAGE The National Archives; Kew, England; Prerogative Court of Ca
+4 CONC nterbury and Related Probate Jurisdictions: Will Registers
+4 CONC ; Class: PROB 11; Piece: 265
+3 OBJE @M182@
 2 SOUR @S183@
 2 SOUR @S182@
 3 _APID 1,60856::151882375
@@ -5963,15 +5994,45 @@
 3 _APID 1,7836::847519
 3 PAGE Source number: 2423.000; Source type: Electronic Database; N
 4 CONC umber of Pages: 1; Submitter Code: RKM
+1 RESI
+2 DATE 1656
+2 PLAC Wincanton, Somerset, England
+3 MAP
+4 LATI N51.0538
+4 LONG W2.409
+2 SOUR @S191@
+3 _APID 1,5111::762183
+3 PAGE The National Archives; Kew, England; Prerogative Court of Ca
+4 CONC nterbury and Related Probate Jurisdictions: Will Registers
+4 CONC ; Class: PROB 11; Piece: 265
+3 OBJE @M182@
 1 WILL
 2 DATE 09 JUL 1656
 2 PLAC Wincanton, Somerset, England
+3 MAP
+4 LATI N51.0538
+4 LONG W2.409
 2 SOUR @CNCZKGpeSrKJ6BUTT9Hu@
 3 PAGE p. viii
 3 QUAY 1
+2 SOUR @S191@
+3 _APID 1,5111::762183
+3 PAGE The National Archives; Kew, England; Prerogative Court of Ca
+4 CONC nterbury and Related Probate Jurisdictions: Will Registers
+4 CONC ; Class: PROB 11; Piece: 265
+3 OBJE @M182@
 1 DEAT
 2 DATE JAN 1657
 2 PLAC Wincanton, Somerset, England
+3 MAP
+4 LATI N51.0538
+4 LONG W2.409
+2 SOUR @S191@
+3 _APID 1,5111::762183
+3 PAGE The National Archives; Kew, England; Prerogative Court of Ca
+4 CONC nterbury and Related Probate Jurisdictions: Will Registers
+4 CONC ; Class: PROB 11; Piece: 265
+3 OBJE @M182@
 2 SOUR @S188@
 3 _APID 1,1610::638703
 1 BURI
@@ -5985,6 +6046,12 @@
 2 SOUR @CNCZKGpeSrKJ6BUTT9Hu@
 3 PAGE p. viii
 3 QUAY 1
+2 SOUR @S191@
+3 _APID 1,5111::762183
+3 PAGE The National Archives; Kew, England; Prerogative Court of Ca
+4 CONC nterbury and Related Probate Jurisdictions: Will Registers
+4 CONC ; Class: PROB 11; Piece: 265
+3 OBJE @M182@
 2 NOTE see Talbot v. Moger (in UK National Archives: C10/46/188)
 0 @I389@ INDI
 1 _XY 30 354
@@ -6092,6 +6159,9 @@
 2 SOUR @S183@
 2 SOUR @lIFoQFKzTHCalwRjxIxf@
 3 _APID 1,7249::10629958
+2 SOUR @wUzo8nJ5TOiqkGFxDvd2@
+3 _APID 1,2496::39593
+3 OBJE @M180@
 2 SOUR @XkYfWXOxTRycLRJJyxNy@
 3 _APID 1,7836::867302
 3 PAGE Source number: 1514.000; Source type: Electronic Database; N
@@ -6100,6 +6170,8 @@
 3 _APID 1,7836::867307
 3 PAGE Source number: 253.000; Source type: Electronic Database; Nu
 4 CONC mber of Pages: 1; Submitter Code: RWK
+2 SOUR @no3WOAYZQe6N33Va0Xqa@
+3 _APID 1,60525::123249206
 1 SEX M
 1 FAMC @Y1EqC4eHRReB91rN6BHl@
 1 FAMS @FpSmj7eiSECEkyexIYXl@
@@ -7500,6 +7572,8 @@
 4 LATI N41.6282
 4 LONG W70.966
 2 SOUR @91JIXBEJQz6bVLkVlmAF@
+2 SOUR @no3WOAYZQe6N33Va0Xqa@
+3 _APID 1,60525::123249206
 1 PROB
 2 DATE 07 DEC 1713
 2 PLAC Dartmouth, Bristol, Massachusetts, USA
@@ -7926,13 +8000,6 @@
 3 PAGE Somerset, England, Church of England Baptisms, Marriages, an
 4 CONC d Burials, 1531-1812 Record
 3 OBJE @M167@
-0 @kHudFuGSTuuBIALbg37c@ INDI
-1 _XY 6905 452
-1 REFN 2d0f9dc2-a1dd-4d0b-9557-45bc5acce66d
-1 NAME Mary /Moger/
-1 SEX F
-1 FAMC @Y1EqC4eHRReB91rN6BHl@
-1 FAMS @cYd5V1CvQvmlIvrdsmMQ@
 0 @I399@ INDI
 1 _XY 120 155
 1 REFN feedc37e-e00f-4328-81b1-52c85e1a5cfa
@@ -7988,6 +8055,29 @@
 2 SOUR @CNCZKGpeSrKJ6BUTT9Hu@
 3 PAGE p. ix
 3 QUAY 1
+0 @kHudFuGSTuuBIALbg37c@ INDI
+1 _XY 1096 354
+1 REFN 2d0f9dc2-a1dd-4d0b-9557-45bc5acce66d
+1 NAME Mary /Moger/
+2 SOUR @cHqs3hdITfGhgYkNTQzb@
+1 SEX F
+1 FAMC @Y1EqC4eHRReB91rN6BHl@
+1 FAMS @cYd5V1CvQvmlIvrdsmMQ@
+1 BIRT
+2 DATE ABT 1641
+2 PLAC Cucklington, Somerset, England
+3 MAP
+4 LATI N51.0465
+4 LONG W2.3503
+2 SOUR @cHqs3hdITfGhgYkNTQzb@
+2 NOTE place is assumed
+1 DEAT
+2 DATE 02 FEB 1718
+2 PLAC Westerly, Washington, Rhode Island, USA
+3 MAP
+4 LATI N41.3776
+4 LONG W71.8273
+2 SOUR @91JIXBEJQz6bVLkVlmAF@
 0 @I402@ INDI
 1 REFN 2ad47f2e-7d86-47cb-9888-918aee4f9d34
 1 NAME Mary /Moger/
@@ -8006,22 +8096,6 @@
 3 PAGE Somerset, England, Church of England Baptisms, Marriages, an
 4 CONC d Burials, 1531-1812 Record
 3 OBJE @M179@
-0 @kHudFuGSTuuBIALbg37c@ INDI
-1 _XY 1096 354
-1 REFN 2d0f9dc2-a1dd-4d0b-9557-45bc5acce66d
-1 NAME Mary /Moger/
-2 SOUR @S183@
-1 SEX F
-1 FAMC @Y1EqC4eHRReB91rN6BHl@
-1 BIRT
-2 DATE ABT 1641
-2 PLAC Cucklington, Somerset, England
-2 SOUR @S183@
-2 NOTE place is assumed
-1 DEAT
-2 DATE 02 FEB 1718
-2 PLAC Westerly, Washington, Rhode Island, USA
-2 SOUR @S184@
 0 @jfMptGYWSuWvYZDgBw9o@ INDI
 1 _XY 6788 351
 1 REFN 341de419-8aab-48bc-9060-0bcde3cd7e2a
@@ -17938,6 +18012,31 @@
 4 LATI N52.5898
 4 LONG W1.4611
 2 SOUR @91JIXBEJQz6bVLkVlmAF@
+0 @F302@ FAM
+1 REFN 1c6dda96-f245-4b8f-b40f-27702d6bad58
+1 HUSB @I388@
+1 WIFE @I379@
+1 CHIL @I386@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I389@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I393@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I397@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I382@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I400@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR
+2 DATE ABT 1608
+2 NOTE based on birth dates of children
 0 @pIDPVHBGQM6lxsUt5lcg@ FAM
 1 REFN 267dff55-60ca-42f0-9c5f-015e95496a48
 1 HUSB @GEj80RhFQ2CaELtO6d5B@
@@ -17991,53 +18090,6 @@
 2 SOUR @cHqs3hdITfGhgYkNTQzb@
 2 NOTE place is just a guess
 0 @F38@ FAM
-1 MARR
-2 DATE 08 SEP 1566
-2 PLAC Cucklington, Somerset, England
-2 SOUR @CNCZKGpeSrKJ6BUTT9Hu@
-3 PAGE vii
-3 QUAY 1
-2 SOUR @S182@
-3 PAGE Somerset Heritage Service; Taunton, Somerset, England; Somer
-4 CONC set Parish Records, 1538-1913; Reference Number: D\P\cuck/2/
-4 CONC 1/1; Moger/Browne marriage (1566)
-3 OBJE @M161@
-1 MARR
-2 DATE 16 OCT 1576
-2 PLAC Cucklington, Somerset, England
-2 SOUR @CNCZKGpeSrKJ6BUTT9Hu@
-3 PAGE p. vii
-3 QUAY 1
-2 SOUR @S182@
-3 PAGE Somerset Heritage Service; Taunton, Somerset, England; Somer
-4 CONC set Parish Records, 1538-1914; Reference Number: D\P\cuck/2/
-4 CONC 1/1; 1576
-3 OBJE @M168@
-0 @F302@ FAM
-1 REFN 1c6dda96-f245-4b8f-b40f-27702d6bad58
-1 HUSB @I388@
-1 WIFE @I379@
-1 CHIL @I386@
-2 _FREL Natural
-2 _MREL Natural
-1 CHIL @I389@
-2 _FREL Natural
-2 _MREL Natural
-1 CHIL @I393@
-2 _FREL Natural
-2 _MREL Natural
-1 CHIL @I397@
-2 _FREL Natural
-2 _MREL Natural
-1 CHIL @I382@
-2 _FREL Natural
-2 _MREL Natural
-1 CHIL @I400@
-2 _FREL Natural
-2 _MREL Natural
-1 MARR
-2 DATE ABT 1608
-2 NOTE based on birth dates of children
 0 @F305@ FAM
 1 REFN ab7a5638-c62a-4bf4-b44a-d345d2e02a87
 1 HUSB @I389@
@@ -18130,12 +18182,6 @@
 1 REFN 6de1ec00-8498-4ecc-9712-2047ad900135
 1 HUSB @jfMptGYWSuWvYZDgBw9o@
 1 WIFE @d9GpsgbpTKWWJ8ogl1gJ@
-1 CHIL @kHudFuGSTuuBIALbg37c@
-2 _FREL Natural
-2 _MREL Natural
-1 CHIL @kHudFuGSTuuBIALbg37c@
-2 _FREL Natural
-2 _MREL Natural
 1 CHIL @GEj80RhFQ2CaELtO6d5B@
 2 _FREL Natural
 2 _MREL Natural
@@ -18146,6 +18192,9 @@
 2 _FREL Natural
 2 _MREL Natural
 1 CHIL @I396@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @kHudFuGSTuuBIALbg37c@
 2 _FREL Natural
 2 _MREL Natural
 1 CHIL @I381@
@@ -19322,11 +19371,6 @@
 1 ADDR http://www.Ancestry.com
 1 EMAIL
 1 PHON
-0 @rJ40xD39QRCwDgz3kEPv@ REPO
-1 NAME Ancestry.com, II, OLD
-1 ADDR
-1 EMAIL
-1 PHON
 0 @R3@ REPO
 1 NAME Internet Archive
 1 ADDR https://archive.org/
@@ -19338,11 +19382,6 @@
 2 CONC 3 USA
 1 EMAIL https://books.google.com/
 1 PHON +1-650-253-0000
-0 @qoiFARVHSJOlOdzOUsT9@ REPO
-1 NAME Ancestry.com
-1 ADDR
-1 EMAIL
-1 PHON
 0 @9jhPyuNjT7Crw4hkg6Gj@ SOUR
 1 REFN 4ce69e52-b9c8-415f-b515-4218aa9b9a33
 1 REPO @qoiFARVHSJOlOdzOUsT9@
@@ -19430,7 +19469,7 @@
 2 CONC : 2006
 0 @KOlQI7sYTwK7LlHDw40B@ SOUR
 1 REFN bd245785-6a80-4d9a-b48c-5516d7dfd702
-1 REPO @rJ40xD39QRCwDgz3kEPv@
+1 REPO @qoiFARVHSJOlOdzOUsT9@
 1 TITL 1920 United States Federal Census
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
@@ -19459,7 +19498,7 @@
 2 CONC : 2002
 0 @TqjCy2KgTyOtW8WXPZCw@ SOUR
 1 REFN 4a37322f-613b-4abb-9c44-a88f3ff47e5a
-1 REPO @rJ40xD39QRCwDgz3kEPv@
+1 REPO @qoiFARVHSJOlOdzOUsT9@
 1 TITL 1940 United States Federal Census
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
@@ -20027,6 +20066,13 @@
 1 AUTH Clarence S. Brigham
 1 PUBL E. L. Freeman & Sons; Location: Providence, RI, USA; Date: 1
 2 CONC 901
+0 @S191@ SOUR
+1 REPO @qoiFARVHSJOlOdzOUsT9@
+1 TITL England & Wales, Prerogative Court of Canterbury Wills, 1384
+2 CONC -1858
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
+2 CONC e: 2013
 0 @3y9bKxGuT62fnO88lLx3@ SOUR
 1 REFN 22c670b2-098a-4bea-9f49-b2371ae5091e
 1 REPO @qoiFARVHSJOlOdzOUsT9@
@@ -20593,7 +20639,7 @@
 2 CONC e: 2011
 0 @QwuMFr0PTxCseS1Q3Gk6@ SOUR
 1 REFN 5f54adda-ae0a-4751-9830-2880e60c6563
-1 REPO @rJ40xD39QRCwDgz3kEPv@
+1 REPO @qoiFARVHSJOlOdzOUsT9@
 1 TITL New York, County Marriages, 1847-1849; 1907-1936
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Lehi, UT, USA; Date
@@ -21414,7 +21460,7 @@
 1 PUBL http://altenburgs.com/gene/mosher.htm
 0 @deXrM73wSEiQKlXQZ7E9@ SOUR
 1 REFN 6c4c428b-fef1-434a-9b6b-6dcd8e523e35
-1 REPO @rJ40xD39QRCwDgz3kEPv@
+1 REPO @qoiFARVHSJOlOdzOUsT9@
 1 TITL Saratoga County, New York, Cemetery Index, 1795-1971
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations Inc; Location: Provo, UT, USA; Date
@@ -21491,7 +21537,7 @@
 2 CONC e: 2015
 0 @GiRV6qtXRuyAs1U8KkQP@ SOUR
 1 REFN d8918865-d7af-43e3-b935-3620940f1410
-1 REPO @rJ40xD39QRCwDgz3kEPv@
+1 REPO @qoiFARVHSJOlOdzOUsT9@
 1 TITL U.S., Social Security Death Index, 1935-2014
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations Inc; Location: Provo, UT, USA; Date
@@ -22502,7 +22548,7 @@
 1 PUBL http://members.tripod.com/wainwrights/wainwright.html
 0 @Q3pDaZrXQzi0fjGmGdhC@ SOUR
 1 REFN 0d3030f3-183f-4643-8ec1-f21addc1ba4b
-1 REPO @rJ40xD39QRCwDgz3kEPv@
+1 REPO @qoiFARVHSJOlOdzOUsT9@
 1 TITL Web: California, Find A Grave Index, 1775-2012
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
@@ -24067,6 +24113,33 @@
 2 TITL Somerset, England, Church of England Baptisms, Marriages, an
 3 CONC d Burials, 1531(1825)
 2 _DATE 1/16/2018 3:44:29 AM
+0 @M180@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher Media\Ne
+2 CONC w England, The Great Migration and The Great Migration Begin
+2 CONC s, 1620-1635(1).jpg
+2 FORM jpg
+2 TITL New England, The Great Migration and The Great Migration Beg
+3 CONC ins, 1620-1635
+0 @M181@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher Media\En
+2 CONC gland & Wales, Prerogative Court of Canterbury Wills, 1384-1
+2 CONC 858.jpg
+2 FORM jpg
+2 TITL England & Wales, Prerogative Court of Canterbury Wills, 1384
+3 CONC -1858
+2 _TEXT The National Archives; Kew, England; Prerogative Court of Ca
+3 CONC nterbury and Related Probate Jurisdictions: Will Registers
+3 CONC ; Class: PROB 11; Piece: 285
+0 @M182@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher Media\En
+2 CONC gland & Wales, Prerogative Court of Canterbury Wills, 1384-1
+2 CONC 858(1).jpg
+2 FORM jpg
+2 TITL England & Wales, Prerogative Court of Canterbury Wills, 1384
+3 CONC -1858
+2 _TEXT The National Archives; Kew, England; Prerogative Court of Ca
+3 CONC nterbury and Related Probate Jurisdictions: Will Registers
+3 CONC ; Class: PROB 11; Piece: 265
 0 @N353@ NOTE __GEDCOM__: DATE ABT 1612 __GEDCOM__
 0 @N381@ NOTE __GEDCOM__: DATE ABT 1658 __GEDCOM__
 0 @N380@ NOTE __GEDCOM__: DATE ABT DEC 1596 __GEDCOM__
