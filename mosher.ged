@@ -13,9 +13,9 @@
 4 CONT Boston, MA 02109
 3 PHON (617) 227-6681
 1 DEST FTM
-1 FILE Mosher_2018-01-21-00-27-03.ftm.ged
+1 FILE Mosher_2018-01-21-20-34-24.ftm.ged
 1 DATE 21 JAN 2018
-2 TIME 00:28:18
+2 TIME 20:35:57
 0 @Umy2qBWIRUiwVSS6Hcn4@ SUBM
 1 NAME Christopher Alan Mosher
 2 EMAIL cmosher01@@gmail.com
@@ -429,6 +429,22 @@
 1 BIRT
 2 DATE 1652
 2 SOUR @91JIXBEJQz6bVLkVlmAF@
+1 WILL
+2 DATE 01 MAY 1716
+2 PLAC Newport, Newport, Rhode Island, USA
+3 MAP
+4 LATI N41.4901
+4 LONG W71.3129
+2 SOUR @S194@
+3 PAGE <bibl>     <author>Town of Newport (Rhode Island, USA)</auth
+4 CONC or>,     <title level="u">Town Council Records</title>
+4 CONC ,     <citedRange>3: 78–83, Sarah Mosher, probate records
+4 CONC , 4 Jun 1716</citedRange>;     digital images, FHL microfil
+4 CONC m 944,997, DGS 7649102, item 3, images 302–4 of 415. </bibl>
+3 QUAY 4
+3 OBJE @M184@
+3 OBJE @M185@
+3 OBJE @M186@
 1 DEAT
 2 DATE 07 MAY 1716
 2 PLAC Newport, Newport, Rhode Island, USA
@@ -436,6 +452,22 @@
 4 LATI N41.4901
 4 LONG W71.3129
 2 SOUR @91JIXBEJQz6bVLkVlmAF@
+1 PROB
+2 DATE 04 JUN 1716
+2 PLAC Newport, Newport, Rhode Island, USA
+3 MAP
+4 LATI N41.4901
+4 LONG W71.3129
+2 SOUR @S194@
+3 PAGE <bibl>     <author>Town of Newport (Rhode Island, USA)</auth
+4 CONC or>,     <title level="u">Town Council Records</title>
+4 CONC ,     <citedRange>3: 78–83, Sarah Mosher, probate records
+4 CONC , 4 Jun 1716</citedRange>;     digital images, FHL microfil
+4 CONC m 944,997, DGS 7649102, item 3, images 302–4 of 415. </bibl>
+3 QUAY 4
+3 OBJE @M184@
+3 OBJE @M185@
+3 OBJE @M186@
 0 @O6cUmdBbRWWqLxJvbI4f@ INDI
 1 _XY 9499 1744
 1 REFN 3845b350-7dde-4a22-b831-e87510829be0
@@ -5329,9 +5361,10 @@
 4 CONC , Rhode Island</title>,     <citedRange>vol. 1 (1638–1700)
 4 CONC : 337</citedRange>;     <title level="u">Town records, 1638–
 4 CONC 1850</title>,     FHL microfilm 945,382, DGS 7649106, item 1
-4 CONC ;     citing     <author>Town of Portsmouth (Rhode Island, U
-4 CONC SA)</author>,     <title level="u">Land Evidence Records</ti
-4 CONC tle>,     <citedRange>1: 81</citedRange>. </bibl>
+4 CONC , image 198 of 586;     citing     <author>Town of Portsmout
+4 CONC h (Rhode Island, USA)</author>,     <title level="u">Land Ev
+4 CONC idence Records</title>,     <citedRange>1: 81</citedRange>
+4 CONC . </bibl>
 3 DATA
 4 TEXT <text xml:lang="en">
 5 CONT <head>
@@ -5436,9 +5469,10 @@
 4 CONC , Rhode Island</title>,     <citedRange>vol. 1 (1638–1700)
 4 CONC : 337</citedRange>;     <title level="u">Town records, 1638–
 4 CONC 1850</title>,     FHL microfilm 945,382, DGS 7649106, item 1
-4 CONC ;     citing     <author>Town of Portsmouth (Rhode Island, U
-4 CONC SA)</author>,     <title level="u">Land Evidence Records</ti
-4 CONC tle>,     <citedRange>1: 81</citedRange>. </bibl>
+4 CONC , image 198 of 586;     citing     <author>Town of Portsmout
+4 CONC h (Rhode Island, USA)</author>,     <title level="u">Land Ev
+4 CONC idence Records</title>,     <citedRange>1: 81</citedRange>
+4 CONC . </bibl>
 3 DATA
 4 TEXT <text xml:lang="en">
 5 CONT <head>
@@ -6293,7 +6327,7 @@
 4 CONC n of Westerly</title>,     <citedRange>vol. 1 (1661–1707): s
 4 CONC tamped spread no. 2, deed, Sosoa to William Vaughan, et. al.
 4 CONC , 29 Jun 1660</citedRange>;     digital images, FHL microfil
-4 CONC m 940,222, DGS 7896694, item 4. </bibl>
+4 CONC m 940,222, DGS 7896694, item 4, image 320 of 911. </bibl>
 3 OBJE @M158@
 2 NOTE Land was the original purchase of Westerly, RI,
 3 CONT from Native Americans. Hugh's residence is listed as Newpor
@@ -6468,6 +6502,23 @@
 4 CONC al images, <title level="m">Google Books</title> (<ref targe
 4 CONC t="https://books.google.com/books?id=RDIqdXhz9A4C"/> : acces
 4 CONC sed <date>9 Jan 2018</date>) </bibl>
+1 PROP owned land later belonging to “Danill Layton” and “William C
+2 CONC hamplin”
+2 DATE ABT 1662
+2 PLAC Westerly, Washington, Rhode Island, USA
+3 MAP
+4 LATI N41.3776
+4 LONG W71.8273
+2 SOUR @S179@
+3 PAGE <bibl>     <author>Town of Westerly (Rhode Island, USA)</aut
+4 CONC hor>,     <title level="u">Town Records, Land Evidence, Tow
+4 CONC n of Westerly</title>,     <citedRange>vol. 1 (1661–1707): s
+4 CONC tamped spread no. 68, survey return, 11 Apr 1690</citedRange
+4 CONC >;     digital images, FHL microfilm 940,222, DGS 7896694, i
+4 CONC tem 5, image 395 of 911. </bibl>
+3 QUAY 4
+2 OBJE @M183@
+2 NOTE The date 1662 is just a guesss
 1 EVEN regarding purchase of Westerly from Sosoa
 2 TYPE deposition
 2 DATE 04 MAR 1663
@@ -6480,12 +6531,13 @@
 3 PAGE <bibl>     <author>Town of Westerly (Rhode Island, USA)</aut
 4 CONC hor>,     <title level="u">Town Records, Land Evidence, Tow
 4 CONC n of Westerly</title>,     <citedRange>vol. 1 (1661–1707): s
-4 CONC tamped spread no. 2, depositions, 4 Mar 1663</citedRange>
-4 CONC ;     digital images, FHL microfilm 940,222, DGS 7896694, it
-4 CONC em 4. </bibl>
+4 CONC tamped spread no. 2, depositions of         Robert Stanton
+4 CONC , Hugh Mossi[e]r, and John Fairfeild, 4 Mar 1663</citedRange
+4 CONC >;     digital images, FHL microfilm 940,222, DGS 7896694, i
+4 CONC tem 4, image 320 of 911. </bibl>
 3 OBJE @M158@
-1 PROP bought land
-2 DATE ABT JAN 1668
+1 PROP bought land from Thomas Lawton
+2 DATE 13 OCT 1667
 2 PLAC Portsmouth, Newport, Rhode Island, USA
 3 MAP
 4 LATI N41.6023
@@ -6506,15 +6558,27 @@
 4 CONC h (Rhode Island, USA)</author>,     <title level="u">Land Ev
 4 CONC idence Records</title>,     <citedRange>1: 81</citedRange>
 4 CONC . </bibl>
+2 SOUR @S195@
+3 PAGE <bibl>     <author>Town of Portsmouth (Rhode Island, USA)</a
+4 CONC uthor>,     <title level="u">Book of Land Evidence belongin
+4 CONC g to         <w xml:id="the"><choice><abbr>þ<hi rend="sup">e
+4 CONC </hi></abbr><expan>the</expan></choice></w>         Town o
+4 CONC f Portsmouth, 1647, Book No 1</title>,     <citedRange>1: 81
+4 CONC , Thomas Lawton to Hugh Mosher, deed, 13 Oct 1667</citedRang
+4 CONC e>;     <title level="u">Land evidence records v.1–2 1647–17
+4 CONC 28</title>,     FHL microfilm 945,375, DGS 7898456, image 7
+4 CONC 2 of 680. </bibl>
+3 OBJE @M187@
 2 SOUR @BPVPXOPuQ7uv2cdscTbO@
 3 PAGE <bibl>     <author>Town of Portsmouth (Rhode Island, USA)</a
 4 CONC uthor>,     <title level="u">Portsmouth Records, Portsmouth
 4 CONC , Rhode Island</title>,     <citedRange>vol. 1 (1638–1700)
 4 CONC : 337</citedRange>;     <title level="u">Town records, 1638–
 4 CONC 1850</title>,     FHL microfilm 945,382, DGS 7649106, item 1
-4 CONC ;     citing     <author>Town of Portsmouth (Rhode Island, U
-4 CONC SA)</author>,     <title level="u">Land Evidence Records</ti
-4 CONC tle>,     <citedRange>1: 81</citedRange>. </bibl>
+4 CONC , image 198 of 586;     citing     <author>Town of Portsmout
+4 CONC h (Rhode Island, USA)</author>,     <title level="u">Land Ev
+4 CONC idence Records</title>,     <citedRange>1: 81</citedRange>
+4 CONC . </bibl>
 3 DATA
 4 TEXT <text xml:lang="en">
 5 CONT <head>
@@ -6590,6 +6654,29 @@
 5 CONT </body>
 5 CONT </text>
 3 OBJE @M157@
+1 PROP bought land from Thomas Lawton
+2 DATE 31 OCT 1667
+2 PLAC Portsmouth, Newport, Rhode Island, USA
+3 MAP
+4 LATI N41.6023
+4 LONG W71.2503
+2 SOUR @S195@
+3 PAGE <bibl>     <author>Town of Portsmouth (Rhode Island, USA)</a
+4 CONC uthor>,     <title level="u">Book of Land Evidence belongin
+4 CONC g to         <w xml:id="the"><choice><abbr>þ<hi rend="sup">e
+4 CONC </hi></abbr><expan>the</expan></choice></w>         Town o
+4 CONC f Portsmouth, 1647, Book No 1</title>,     <citedRange>1: 82
+4 CONC , Thomas Lawton to Hugh Mosher, deed, 31 Oct 1667</citedRang
+4 CONC e>;     <title level="u">Land evidence records v.1–2 1647–17
+4 CONC 28</title>,     FHL microfilm 945,375, DGS 7898456, image 7
+4 CONC 2 of 680. </bibl>
+3 OBJE @M187@
+1 RESI
+2 DATE ABT NOV 1667
+2 PLAC Portsmouth, Newport, Rhode Island, USA
+3 MAP
+4 LATI N41.6023
+4 LONG W71.2503
 1 OCCU cattle farmer
 2 DATE 19 FEB 1668
 2 PLAC Portsmouth, Newport, Rhode Island, USA
@@ -6655,9 +6742,10 @@
 4 CONC , Rhode Island</title>,     <citedRange>vol. 1 (1638–1700)
 4 CONC : 337</citedRange>;     <title level="u">Town records, 1638–
 4 CONC 1850</title>,     FHL microfilm 945,382, DGS 7649106, item 1
-4 CONC ;     citing     <author>Town of Portsmouth (Rhode Island, U
-4 CONC SA)</author>,     <title level="u">Land Evidence Records</ti
-4 CONC tle>,     <citedRange>1: 81</citedRange>. </bibl>
+4 CONC , image 198 of 586;     citing     <author>Town of Portsmout
+4 CONC h (Rhode Island, USA)</author>,     <title level="u">Land Ev
+4 CONC idence Records</title>,     <citedRange>1: 81</citedRange>
+4 CONC . </bibl>
 3 DATA
 4 TEXT <text xml:lang="en">
 5 CONT <head>
@@ -6762,9 +6850,10 @@
 4 CONC , Rhode Island</title>,     <citedRange>vol. 1 (1638–1700)
 4 CONC : 337</citedRange>;     <title level="u">Town records, 1638–
 4 CONC 1850</title>,     FHL microfilm 945,382, DGS 7649106, item 1
-4 CONC ;     citing     <author>Town of Portsmouth (Rhode Island, U
-4 CONC SA)</author>,     <title level="u">Land Evidence Records</ti
-4 CONC tle>,     <citedRange>1: 81</citedRange>. </bibl>
+4 CONC , image 198 of 586;     citing     <author>Town of Portsmout
+4 CONC h (Rhode Island, USA)</author>,     <title level="u">Land Ev
+4 CONC idence Records</title>,     <citedRange>1: 81</citedRange>
+4 CONC . </bibl>
 3 DATA
 4 TEXT <text xml:lang="en">
 5 CONT <head>
@@ -6840,15 +6929,25 @@
 5 CONT </body>
 5 CONT </text>
 3 OBJE @M157@
-1 RESI
-2 DATE 1668
+1 EVEN agreement to build fence
+2 TYPE contract
+2 DATE 08 JUL 1668
 2 PLAC Portsmouth, Newport, Rhode Island, USA
 3 MAP
 4 LATI N41.6023
 4 LONG W71.2503
-2 SOUR @H9NsrdLJQZi4I3umdlYg@
-3 PAGE p. 2
-3 QUAY 1
+2 SOUR @S195@
+3 PAGE <bibl>     <author>Town of Portsmouth (Rhode Island, USA)</a
+4 CONC uthor>,     <title level="u">Book of Land Evidence belongin
+4 CONC g to         <w xml:id="the"><choice><abbr>þ<hi rend="sup">e
+4 CONC </hi></abbr><expan>the</expan></choice></w>         Town o
+4 CONC f Portsmouth, 1647, Book No 1</title>,     <citedRange>1: 82
+4 CONC , Hugh Mosher to Thomas Lawton, fence agreement, 8 Jul 1668<
+4 CONC /citedRange>;     <title level="u">Land evidence records v.1
+4 CONC –2 1647–1728</title>,     FHL microfilm 945,375, DGS 7898456
+4 CONC , image 72 of 680. </bibl>
+3 QUAY 4
+3 OBJE @M187@
 1 EVEN canceled
 2 TYPE contract
 2 DATE 27 AUG 1668
@@ -6878,9 +6977,10 @@
 4 CONC , Rhode Island</title>,     <citedRange>vol. 1 (1638–1700)
 4 CONC : 337</citedRange>;     <title level="u">Town records, 1638–
 4 CONC 1850</title>,     FHL microfilm 945,382, DGS 7649106, item 1
-4 CONC ;     citing     <author>Town of Portsmouth (Rhode Island, U
-4 CONC SA)</author>,     <title level="u">Land Evidence Records</ti
-4 CONC tle>,     <citedRange>1: 81</citedRange>. </bibl>
+4 CONC , image 198 of 586;     citing     <author>Town of Portsmout
+4 CONC h (Rhode Island, USA)</author>,     <title level="u">Land Ev
+4 CONC idence Records</title>,     <citedRange>1: 81</citedRange>
+4 CONC . </bibl>
 3 DATA
 4 TEXT <text xml:lang="en">
 5 CONT <head>
@@ -20376,9 +20476,9 @@
 2 CONC r has facsimilie copies obtained in July 2002 from Ruth Coke
 2 CONC r, who obtained them from Dorothy Marie Douglass Padgett, wh
 2 CONC o obtained them from Harriet Louise Douglass Conner, who i
-2 CONC s in posession of the original bible (as of July 2002). Th
-2 CONC e chain of posession of the original bible is as follows (ju
-2 CONC st a guess on my part, with very rough dates):<br />
+2 CONC s in possession of the original bible (as of July 2002). Th
+2 CONC e chain of possession of the original bible is as follows (j
+2 CONC ust a guess on my part, with very rough dates):<br />
 2 CONT c. 1830 David Mosher (Greenfield, NY)<br />
 2 CONT c. 1837 (to Owego, NY)<br />
 2 CONT c. 1845 William George Mosher & Rensselaer Seneca Mosher (so
@@ -21032,7 +21132,7 @@
 1 REFN 736c31c6-d9cd-48ca-89ec-b1a6fb55960d
 1 TITL photograph, Mosher, Lewis William, and Colvin, Pearl Mae, c
 2 CONC . 1923
-1 PUBL In posession of Chris Mosher
+1 PUBL In possession of Chris Mosher
 1 TEXT <img src="mosher_files/mosher_lewis_colvin_pearl_1923.jpg"><
 2 CONC br /><br />
 2 CONT Back has writing: "Lewis Wm. Mosher at farm house, Pearl hi
@@ -22528,6 +22628,12 @@
 1 TITL USA. New York. Madison, County of. Land Records
 1 AUTH USA. New York. Madison, County of
 1 PUBL Clerks Office; Location: Wampsville, New York
+0 @S194@ SOUR
+1 TITL USA. Rhode Island. Newport, Town of. Town Council Records
+1 AUTH USA. Rhode Island. Newport, Town of.
+0 @S195@ SOUR
+1 TITL USA. Rhode Island. Portsmouth, Town of. Land Evidence
+1 AUTH USA. Rhode Island. Portsmouth, Town of.
 0 @BPVPXOPuQ7uv2cdscTbO@ SOUR
 1 REFN 23e299b8-9044-4d11-99dc-b6945312475e
 1 TITL USA. Rhode Island. Portsmouth, Town of. Records
@@ -22535,7 +22641,7 @@
 0 @S179@ SOUR
 1 REFN 11267da7-7352-4f74-9662-52dc7abea91a
 1 TITL USA. Rhode Island. Westerly, Town of. Land Evidence
-1 AUTH USA. Rhode Island. Westerly, Town of
+1 AUTH USA. Rhode Island. Westerly, Town of.
 0 @4trkWGgbQYWDaxdosw8R@ SOUR
 1 REFN 2459defa-426b-4c6a-bbf6-450540486039
 1 TITL Various Letters of Emory Luther
@@ -24140,6 +24246,36 @@
 2 _TEXT The National Archives; Kew, England; Prerogative Court of Ca
 3 CONC nterbury and Related Probate Jurisdictions: Will Registers
 3 CONC ; Class: PROB 11; Piece: 265
+0 @M183@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher Media\re
+2 CONC cord-image_3Q9M-CS4X-XQ9L-4.jpg
+2 FORM jpg
+2 TITL record-image_3Q9M-CS4X-XQ9L-4
+2 _DATE 1/21/2018 5:29:09 PM
+0 @M184@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher Media\re
+2 CONC cord-image_3Q9M-C9PY-6R6H.jpg
+2 FORM jpg
+2 TITL record-image_3Q9M-C9PY-6R6H
+2 _DATE 1/21/2018 5:57:03 PM
+0 @M185@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher Media\re
+2 CONC cord-image_3Q9M-C9PY-6R6S.jpg
+2 FORM jpg
+2 TITL record-image_3Q9M-C9PY-6R6S
+2 _DATE 1/21/2018 5:57:03 PM
+0 @M186@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher Media\re
+2 CONC cord-image_3Q9M-C9PY-6RNQ.jpg
+2 FORM jpg
+2 TITL record-image_3Q9M-C9PY-6RNQ
+2 _DATE 1/21/2018 5:57:03 PM
+0 @M187@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher Media\re
+2 CONC cord-image_3Q9M-CS4K-NWCK-8.jpg
+2 FORM jpg
+2 TITL record-image_3Q9M-CS4K-NWCK-8
+2 _DATE 1/21/2018 7:00:28 PM
 0 @N353@ NOTE __GEDCOM__: DATE ABT 1612 __GEDCOM__
 0 @N381@ NOTE __GEDCOM__: DATE ABT 1658 __GEDCOM__
 0 @N380@ NOTE __GEDCOM__: DATE ABT DEC 1596 __GEDCOM__
