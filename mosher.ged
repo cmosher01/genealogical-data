@@ -13,9 +13,9 @@
 4 CONT Boston, MA 02109
 3 PHON (617) 227-6681
 1 DEST FTM
-1 FILE Mosher_2018-01-21-22-47-47.ftm.ged
-1 DATE 21 JAN 2018
-2 TIME 22:54:46
+1 FILE Mosher_2018-01-25-17-36-00.ftm.ged
+1 DATE 25 JAN 2018
+2 TIME 17:38:15
 0 @Umy2qBWIRUiwVSS6Hcn4@ SUBM
 1 NAME Christopher Alan Mosher
 2 EMAIL cmosher01@@gmail.com
@@ -424,8 +424,8 @@
 1 REFN fee0cf25-f193-425c-8bac-d5944ef40ae1
 1 NAME Sarah /Butcher/
 1 SEX F
-1 FAMS @wYylLD5FQgSYuigmkj08@
 1 FAMS @pIDPVHBGQM6lxsUt5lcg@
+1 FAMS @wYylLD5FQgSYuigmkj08@
 1 BIRT
 2 DATE 1652
 2 SOUR @91JIXBEJQz6bVLkVlmAF@
@@ -6722,8 +6722,12 @@
 5 CONT <body>
 5 CONT <p>
 5 CONT <lb/>Eare marke of Hugh Mosher his Cattell is
-5 CONT <lb/>o hapenis before vpon the Right Eare and one hapeny
-5 CONT <lb/>ne the left Eare before of seuen yeares Standinge
+5 CONT <lb/><damage type="missing"><supplied>tw</supplied></damage>
+5 CONC o
+5 CONT hapenis before vpon the Right Eare and one hapeny
+5 CONT <lb/><damage type="missing"><supplied>o</supplied></damage>n
+5 CONC e
+5 CONT the left Eare before of seuen yeares Standinge
 5 CONT <lb/>and is Entred vpon Record this
 5 CONT <date calendar="julian" datingMethod="julian" when-custom="1
 5 CONC 668-02-19">
