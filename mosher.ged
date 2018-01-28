@@ -13,9 +13,9 @@
 4 CONT Boston, MA 02109
 3 PHON (617) 227-6681
 1 DEST FTM
-1 FILE Mosher_2018-01-25-17-36-00.ftm.ged
-1 DATE 25 JAN 2018
-2 TIME 17:38:15
+1 FILE Mosher_2018-01-28-04-58-30.ftm.ged
+1 DATE 28 JAN 2018
+2 TIME 04:59:50
 0 @Umy2qBWIRUiwVSS6Hcn4@ SUBM
 1 NAME Christopher Alan Mosher
 2 EMAIL cmosher01@@gmail.com
@@ -7389,6 +7389,67 @@
 4 LONG W71.2503
 2 SOUR @H9NsrdLJQZi4I3umdlYg@
 3 PAGE p. 2
+1 PROP sold land to Henry Brightman
+2 DATE 28 JAN 1689
+2 PLAC Portsmouth, Newport, Rhode Island, USA
+3 MAP
+4 LATI N41.6023
+4 LONG W71.2503
+2 SOUR @S196@
+3 _LINK https://archive.org/details/rhodeislandlande00wort
+3 PAGE <bibl> <author>Doroty Worthington</author>, transcriber, <ti
+4 CONC tle level="m">Rhode Island Land Evidences</title>, vol. 1, <
+4 CONC title level="m">1648–1696 Abstracts</title> (<pubPlace>Provi
+4 CONC dence</pubPlace>: <publisher>Rhode Island Historical Society
+4 CONC </publisher>, 1921), <citedRange>225–6, deed, Hugh Mosher t
+4 CONC o Henry Brightman, 30 Jan 1689</citedRange>; digital images
+4 CONC , <title level="m">Internet Archive</title> (<ref target="ht
+4 CONC tps://archive.org/details/rhodeislandlande00wort"/> : access
+4 CONC ed 27 Jan 2018); citing <author>Colony of Rhode Island</auth
+4 CONC or>, <title level="u">Rhode‐Island Land Records 1648 to 1696
+4 CONC </title>, vol. 1, pages watermarked with urn, <citedRange>p
+4 CONC . 398 of 445</citedRange>; possibly digital images, <title l
+4 CONC evel="u">Land records—vol. 1–3 1648–1721</title>, FHL microf
+4 CONC ilm 947,370, DGS 7902110, item 2. </bibl>
+3 DATA
+4 TEXT <text xml:lang="en-emodeng">
+5 CONT <body>
+5 CONT <pb type="original" n="398"/>
+5 CONT <head>Hugh Mosher to Henry Brightman.</head>
+5 CONT <ab>
+5 CONT …Hugh Mosher of portsmouth…Black Smith…for…two hundred And t
+5 CONC hirty pounds in mony…payd by henry Brightman of Portsmouth…h
+5 CONC ave given…Land…in the township of Portsmouth…And part In new
+5 CONC port bounds…thirty Eight Acres…bounded northward by Land o
+5 CONC f John Vahan Eastwardly partly by…Land of Daniell Lawton, Ca
+5 CONC lled hunting Swamps &amp;…by the Common Southwardly partly b
+5 CONC y the Common &amp; partly by Land of witherington, westwardl
+5 CONC y by the Common…with all the dwelling houses Barnes Orchards
+5 CONC …I…Hugh mosher…granted unto him…Rebeckah Mosher the wife o
+5 CONC f mee…Consent…<date calendar="julian" datingMethod="julian
+5 CONC " when-custom="1689-01-28">twenty eight Day of January…One t
+5 CONC housand six hundred Eighty nine</date>
+5 CONT </ab>
+5 CONT <list>
+5 CONT <item>Hugh Mosher</item>
+5 CONT <item>the mark X of Rebeckah Mosher</item>
+5 CONT </list>
+5 CONT <list>
+5 CONT <head>Wit.</head>
+5 CONT <item>Peleg Trip</item>
+5 CONT <item>Thomas Cornell</item>
+5 CONT <item>John Yelthro:</item>
+5 CONT </list>
+5 CONT <ab>
+5 CONT Hugh &amp; Rebeckah Mosher…<date calendar="julian" datingMet
+5 CONC hod="julian" when-custom="1689-01-30">the 30th day of Januar
+5 CONC y 1689</date>…owned the above written
+5 CONT </ab>
+5 CONT <ab>
+5 CONT John Coggeshall Depty Genr
+5 CONT </ab>
+5 CONT </body>
+5 CONT </text>
 1 RESI
 2 DATE 16 APR 1690
 2 PLAC Dartmouth, Bristol, Massachusetts, USA
@@ -21322,6 +21383,11 @@
 1 TITL Rev. Stephen Bachiler
 1 AUTH Lane Memorial Library, Hampton, NH, USA
 1 PUBL http://www.hampton.lib.nh.us/hampton/biog/bachilertoc.htm
+0 @S196@ SOUR
+1 TITL Rhode Island Land Evidences
+1 AUTH Rhode Island Historical Society.
+1 PUBL Rhode Island Historical Society.; Location: Providence, RI
+2 CONC , USA.; Date: 1921–
 0 @9wMdFE3iTDe2CrzzBY3l@ SOUR
 1 REFN 575b4323-084b-4c45-a8f3-616262b8f876
 1 REPO @qoiFARVHSJOlOdzOUsT9@
