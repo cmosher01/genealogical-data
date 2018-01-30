@@ -13,9 +13,9 @@
 4 CONT Boston, MA 02109
 3 PHON (617) 227-6681
 1 DEST FTM
-1 FILE Mosher_2018-01-28-04-58-30.ftm.ged
-1 DATE 28 JAN 2018
-2 TIME 04:59:50
+1 FILE Mosher_2018-01-30-05-09-27.ftm.ged
+1 DATE 30 JAN 2018
+2 TIME 05:10:56
 0 @Umy2qBWIRUiwVSS6Hcn4@ SUBM
 1 NAME Christopher Alan Mosher
 2 EMAIL cmosher01@@gmail.com
@@ -7525,6 +7525,96 @@
 2 SOUR @CNCZKGpeSrKJ6BUTT9Hu@
 3 PAGE p. 1
 3 QUAY 1
+2 SOUR @S197@
+3 _LINK https://www.familysearch.org/ark:/61903/3:1:3Q9M-C9YT-987J
+3 PAGE <bibl> <author>County of Bristol (Massachusetts, USA)</autho
+4 CONC r>, <title level="u">[Probate] Records, No. 3, 1710–1721</ti
+4 CONC tle>, <citedRange>unnumbered index page for “M”, 4 entries f
+4 CONC or Hugh Mosher</citedRange>; digital images, <title level="u
+4 CONC ">Probates, v. 1–4 1687–1723</title>, FHL microfilm 461,882
+4 CONC , DGS 7703530, item 3, image 302 of 745. </bibl>
+3 QUAY 4
+3 DATA
+4 TEXT <text xml:lang="en-emodeng">
+5 CONT <body>
+5 CONT <lb/>Hugh Moshers Will 171 : his Inventory 173 —
+5 CONT <lb/>A<gap reason="illegible" quantity="about 6" unit="chars
+5 CONC "/>it
+5 CONT for longer time 216 to finish administration on
+5 CONT <w xml:id="the"><choice><abbr>þ<hi rend="sup">e</hi></abbr><
+5 CONC expan>the</expan></choice></w>
+5 CONT <supplied reason="omitted-in-original">e</supplied>state of
+5 CONT <lb/>Hugh Moisher The account of <w copyOf="#the"/> executor
+5 CONC s on
+5 CONT <w xml:id="said"><choice><abbr>sd</abbr><expan>said</expan><
+5 CONC /choice></w>
+5 CONT estate : 220 : 221
+5 CONT </body>
+5 CONT </text>
+3 OBJE @M193@
+1 PROB
+2 DATE 11 JAN 1715
+2 PLAC Bristol, Massachusetts, USA
+3 MAP
+4 LATI N41.7533
+4 LONG W71.0909
+2 SOUR @S197@
+3 _LINK https://www.familysearch.org/ark:/61903/3:1:3Q9M-C9YT-989X
+3 PAGE <bibl> <author>County of Bristol (Massachusetts, USA)</autho
+4 CONC r>, <title level="u">[Probate] Records, No. 3, 1710–1721</ti
+4 CONC tle>, <citedRange> (page numbers 211–216 are duplicated, th
+4 CONC e pages being renumbered in lighter ink), earlier page 216 (
+4 CONC originally unnumbered but renumbered as 213½), petition fo
+4 CONC r longer time, estate of Hugh Mosher, 11 Jan 1714/5 </citedR
+4 CONC ange>; digital images, <title level="u">Probates, v. 1–4 168
+4 CONC 7–1723</title>, FHL microfilm 461,882, DGS 7703530, item 3
+4 CONC , image 428 of 745. </bibl>
+3 QUAY 4
+3 DATA
+4 TEXT <text xml:lang="en-emodeng">
+5 CONT <body>
+5 CONT <lb/><w xml:id="mister"><choice><abbr>M<hi rend="sup">r</hi>
+5 CONC </abbr><expan>Mister</expan></choice></w>
+5 CONT Daniel Sabeers one of the executors to the will of <w copyOf
+5 CONC ="#mister"/> Hugh Mosher
+5 CONT <lb/>Appearing according to the bonds g<unclear>ua</unclear>
+5 CONC ing to the
+5 CONT <choice><abbr>Hon<hi rend="sup underline">rble</hi></abbr><e
+5 CONC xpan>Honorable</expan></choice>
+5 CONT <choice><abbr>Natha<hi rend="sup">l</hi></abbr><expan>Nathan
+5 CONC iel</expan></choice>
+5 CONT Pain<supplied reason="omitted-in-original">e</supplied>
+5 CONT <lb/><choice><abbr>Esq<hi rend="sup">r</hi></abbr><expan>Esq
+5 CONC uire</expan></choice>
+5 CONT Judge of Probate for the County of Bristol to Render an actt
+5 CONT <lb/>of their
+5 CONT <choice><sic>Administation</sic><corr>Administration</corr><
+5 CONC /choice>
+5 CONT upon
+5 CONT <subst>
+5 CONT <del><w xml:id="said"><choice><abbr>sd</abbr><expan>said</ex
+5 CONC pan></choice></w></del>
+5 CONT <add type="overwrite"><w xml:id="the"><choice><abbr>þ<hi ren
+5 CONC d="sup">e</hi></abbr><expan>the</expan></choice></w></add>
+5 CONT </subst>
+5 CONT estate of the deceased &amp; his coexecut<hi rend="sup">r</h
+5 CONC i>
+5 CONT <lb/>not appearing with him , they have longer time allowe
+5 CONC d them to
+5 CONT <lb/>finish their said Administration
+5 CONT <choice><abbr>vi⁊<hi rend="sup">t</hi></abbr><expan xml:lang
+5 CONC ="la">videlicet</expan></choice>
+5 CONT till
+5 CONT <date calendar="julian" datingMethod="julian" when-custom="1
+5 CONC 715-06-03">
+5 CONT the first munday<lb/>in <del rend="strikethrough"><unclear>J
+5 CONC une next</unclear></del>
+5 CONT </date> ,
+5 CONT <date calendar="julian" datingMethod="julian" when-custom="1
+5 CONC 715-01-11">January 11 : 1714</date> :
+5 CONT </body>
+5 CONT </text>
+3 OBJE @M194@
 1 RELI Baptist
 2 SOUR @S178@
 3 _LINK https://www.nps.gov/nr/feature/places/pdfs/13000569.pdf
@@ -22466,6 +22556,9 @@
 2 CONT </tr>
 2 CONT </table>
 2 CONT Col. 27&mdash;Working on own account. O
+0 @S197@ SOUR
+1 TITL USA. Massachusetts. Bristol, County of. Probate Records
+1 AUTH USA. Massachusetts. Bristol, County of.
 0 @GRiUn3XDSsGw0VRNQcU9@ SOUR
 1 REFN 58b567c6-03d0-41fa-8e18-f85df3c7832f
 1 TITL USA. Massachusetts. Dartmouth, Town of. Records
@@ -24153,6 +24246,18 @@
 2 FORM jpg
 2 TITL record-image_3Q9M-C9PY-69VS-1
 2 _DATE 1/21/2018 10:07:37 PM
+0 @M193@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher Media\re
+2 CONC cord-image_3Q9M-C9YT-987J.jpg
+2 FORM jpg
+2 TITL record-image_3Q9M-C9YT-987J
+2 _DATE 1/30/2018 3:31:48 AM
+0 @M194@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher Media\re
+2 CONC cord-image_3Q9M-C9YT-989X.jpg
+2 FORM jpg
+2 TITL record-image_3Q9M-C9YT-989X
+2 _DATE 1/30/2018 5:07:10 AM
 0 @N353@ NOTE __GEDCOM__: DATE ABT 1612 __GEDCOM__
 0 @N381@ NOTE __GEDCOM__: DATE ABT 1658 __GEDCOM__
 0 @N380@ NOTE __GEDCOM__: DATE ABT DEC 1596 __GEDCOM__
