@@ -13,9 +13,9 @@
 4 CONT Boston, MA 02109
 3 PHON (617) 227-6681
 1 DEST FTM
-1 FILE Mosher_2018-02-04-01-19-11.ftm.ged
+1 FILE Mosher_2018-02-04-03-22-44.ftm.ged
 1 DATE 04 FEB 2018
-2 TIME 01:20:55
+2 TIME 03:23:59
 0 @Umy2qBWIRUiwVSS6Hcn4@ SUBM
 1 NAME Christopher Alan Mosher
 2 EMAIL cmosher01@@gmail.com
@@ -7829,7 +7829,7 @@
 5 CONT <fw type="pageNum" place="top left margin">173</fw>
 5 CONT
 5 CONT <p>
-5 CONT <lb/>A true Inventory of all &amp; singular the Goods Chatte
+5 CONT <lb/>A true Inventory of all &amp; singuler the Goods Chatte
 5 CONC ls &amp; Credits of
 5 CONT <lb/>Hugh Mosher of the Town of Dartmouth yeoman Deceased pr
 5 CONC aised
@@ -8330,8 +8330,7 @@
 5 CONC </abbr><expan>Mister</expan></choice></w>
 5 CONT Daniel Sabeers one of the executors to the will of <w copyOf
 5 CONC ="#mister"/> Hugh Mosher
-5 CONT <lb/>Appearing according to the bonds g<unclear>ua</unclear>
-5 CONC ing to the
+5 CONT <lb/>Appearing according to the bonds goeing to the
 5 CONT <choice><abbr>Hon<hi rend="sup underline">rble</hi></abbr><e
 5 CONC xpan>Honorable</expan></choice>
 5 CONT <choice><abbr>Natha<hi rend="sup">l</hi></abbr><expan>Nathan
@@ -8398,14 +8397,14 @@
 5 CONT and Daniel Sabeers of newport on Rhod Island in his Majestie
 5 CONC s Col
 5 CONT <lb break="no"/><pc force="weak">=</pc>lony of Rhode Islan
-5 CONC d <phr copyOf+"#andc"/>:
+5 CONC d <phr copyOf="#andc"/>:
 5 CONT Executors to the last will &amp; Testament of Hugh <pc>—</pc
 5 CONC >
 5 CONT <lb/>Mosher late of dartmouth deceased <del rend="strikethro
 5 CONC ugh">as well of and for so</del> and executors
-5 CONT <lb/>of all &amp; singular the Goods and chattells of Hugh M
+5 CONT <lb/>of all &amp; singuler the Goods and chattells of Hugh M
 5 CONC osher aforeseid
-5 CONT <lb/>Deceased as well of and for suck &amp; so much of the s
+5 CONT <lb/>Deceased as well of and for such &amp; so much of the s
 5 CONC ame Goods &amp; Chattell<supplied>s</supplied>
 5 CONT <lb/>as come to their hands as of and for their payments &am
 5 CONC p; disbursments
@@ -8416,21 +8415,22 @@
 5 CONT <row><cell/><cell>£</cell><cell>s</cell><cell>d</cell></row>
 5 CONT <row><cell>The said Accomptants chargeth themselues with al
 5 CONC l &amp;
-5 CONT <lb/>singular the goods and chattells of the sd Deceased spe
+5 CONT <lb/>singuler the goods and chattells of the sd Deceased spe
 5 CONC cifyed
 5 CONT <lb/>in an Inventory thereof made and exhibitted into
 5 CONT <w xml:id="the"><choice><abbr>þ<hi rend="sup">e</hi></abbr><
 5 CONC expan>the</expan></choice></w>
-5 CONT Reg<hi rend="sup">r</hi> office for the County of Bristol
+5 CONT <lb/>Reg<hi rend="sup">r</hi> office for the County of Brist
+5 CONC ol
 5 CONT <date calendar="julian" datingMethod="julian" when-custom="1
 5 CONC 713-12-07">
 5 CONT decemb<hi rend="sup">r</hi> 7<hi rend="sup">th</hi> <hi rend
 5 CONC ="underline">1713</hi>
 5 CONT </date>
-5 CONT <lb/>and bears date
+5 CONT <lb/><gap/> and bears date
 5 CONT <date calendar="julian" datingMethod="julian" when-custom="1
 5 CONC 713-11-10">
-5 CONT 10 of novemb<hi rend="sup">r</hi> 1713
+5 CONT 10 of nouemb<hi rend="sup">r</hi> 1713
 5 CONT </date>
 5 CONT amounting as by
 5 CONT <lb/>the same Inventory appeareth to the sum of
@@ -8440,10 +8440,12 @@
 5 CONC primis</expan></choice>
 5 CONT the sd accomptants desire Allowance of the
 5 CONT <lb/>several charges of the sd deceased as followeth <unclea
-5 CONC r>s</unclear>
-5 CONT and by them payd and disbursted
+5 CONC r>as</unclear>
+5 CONT <lb/>and by them payd and disbursted
 5 CONT <choice><abbr>vi⁊<hi rend="sup">t</hi></abbr><expan xml:lang
 5 CONC ="la">videlicet</expan></choice>
+5 CONT <cell/><cell/><cell/></row>
+5 CONT <row><cell>
 5 CONT <lb/>The Charges of the Probate of his will and for fune
 5 CONT <lb break="no"/>rall expenses :
 5 CONT <date calendar="julian" datingMethod="julian" when-custom="1
@@ -8459,27 +8461,26 @@
 5 CONT December the 8<hi rend="sup">th</hi> <hi rend="underline">17
 5 CONC 15</hi>
 5 CONT </date>
-5 CONT payd to M<hi rend="sup">r</hi> Cary Regist by Iames Mosher<p
-5 CONC c>— — — } —</pc>
+5 CONT payd to m<hi rend="sup">r</hi> Cary Regist by
+5 CONT <lb/>Iames Mosher<pc>— — — } —</pc>
 5 CONT </cell><cell>000</cell><cell>11</cell><cell>00</cell></row>
 5 CONT <row><cell>
 5 CONT <date calendar="julian" datingMethod="julian" when-custom="1
 5 CONC 713-12-12">
-5 CONT December the 12<hi rend="sup">th</hi>: <hi rend="underline">
-5 CONC 1713</hi>
+5 CONT December the 12<hi rend="sup">th</hi>: 1713
 5 CONT </date>
-5 CONT payd to Iohn Bayly Iun<hi rend="sup">r</hi> one the
+5 CONT payd to Iohn Bayly Iun<hi rend="sup">r</hi> one of
 5 CONT <lb/>the witnesses to the sd will for his goeing to Bristo
 5 CONC l &amp;
 5 CONT <lb/>his horss and Feriage by daniel Sabeers<pc>— — — }</pc>
 5 CONT </cell><cell>000</cell><cell>13</cell><cell>02</cell></row>
 5 CONT <row><cell>
-5 CONT payd to Samuel Roades one of the witnesses goeing to
+5 CONT payd to Samuel Roades one of the wittnesses goeing to
 5 CONT <lb/>Bristol two dayes and horss hire by daniel Sabeers<pc>
 5 CONC — }</pc>
 5 CONT </cell><cell>000</cell><cell>14</cell><cell>00</cell></row>
 5 CONT <row><cell>
-5 CONT payd to Iohn Stanton for this horss hyre to Iohn Sabeers
+5 CONT payd to Iohn Stanton for his horss hyre to Iohn Sabeers
 5 CONT <lb/>one of the witnesses to goe to Bristol by Daniel Sabeer
 5 CONC s<pc>}</pc>
 5 CONT </cell><cell>000</cell><cell>04</cell><cell>00</cell></row>
@@ -8505,7 +8506,7 @@
 5 CONT <lb/>Daniel Sabeers<pc>— — — — — — — }</pc>
 5 CONT </cell><cell>001</cell><cell>02</cell><cell>08</cell></row>
 5 CONT <row><cell>
-5 CONT payd to Iohn Greenman for my horss Hyre to doe to
+5 CONT payd to Iohn Greenman for my horss Hyre to goe to
 5 CONT <lb/>Dartmouth and Bristo<supplied reason="omitted-in-origin
 5 CONC al">l</supplied>
 5 CONT to take an Inventory to proue sd will
@@ -8542,7 +8543,7 @@
 5 CONT Brought over from the other side the sum of<pc>—</pc>
 5 CONT </cell><cell>004</cell><cell>16</cell><cell>02</cell></row>
 5 CONT <row><cell>
-5 CONT Then the accomptants desireth allowance of certain
+5 CONT Then the Accomptants desireth allowance of certain
 5 CONT <lb/>Debts due by <w copyOf="#the"/> Deceased at his death
 5 CONT w<hi rend="sup">ch</hi> they haue since
 5 CONT <lb/>his death payd and discharged as followeth
@@ -8558,38 +8559,45 @@
 5 CONT </cell><cell>000</cell><cell>17</cell><cell>00</cell></row>
 5 CONT <row><cell>
 5 CONT Payd Ioseph Tillinghast in full of all accounts of my
-5 CONT father by me Iames Mosher the sum of<pc>— — }</pc>
+5 CONT <lb/>father by me Iames Mosher the sum of<pc>— — }</pc>
 5 CONT </cell><cell>000</cell><cell>13</cell><cell>06</cell></row>
 5 CONT <row><cell>
 5 CONT Payd to George Lawton in full of all accounts due
-5 CONT from my father the sum of <pc>— — — — —</pc>
+5 CONT <lb/>from my father the sum of <pc>— — — — —</pc>
 5 CONT </cell><cell>000</cell><cell>1<unclear>3</unclear></cell><ce
 5 CONC ll>08</cell></row>
 5 CONT <row><cell>
 5 CONT payd to Iohn Mosher for a debt due from my father
-5 CONT by me Iames Mosher the sum of <pc>— — —</pc>
+5 CONT <lb/>by me Iames Mosher the sum of <pc>— — —</pc>
 5 CONT </cell><cell>001</cell><cell>16</cell><cell>00</cell></row>
 5 CONT <row><cell>
 5 CONT payd Samual Tewel for my horss hyre to goe to
 5 CONT <lb/>Bristol to giue an acco<hi rend="sup">t</hi>
-5 CONT of my administr<hi rend="sup">con</hi> by me daniel
+5 CONT of my administ<hi rend="sup">con</hi> by me daniel
 5 CONT <lb/>Sabeers <pc>— — — — — — — — }</pc>
 5 CONT </cell><cell>000</cell><cell>05</cell><cell>00</cell></row>
+5 CONT <row><cell>
+5 CONT payd for my Ferriage &amp; expence while there at Bristol
+5 CONT <lb/>upon <w copyOf="#the"/> account of my
+5 CONT Administ<hi rend="sup">con</hi> &amp; expense at <w copyOf="
+5 CONC #the"/> Ferry
+5 CONT <lb/>till I got over by daniel Sabeers <pc>— — — —</pc>
+5 CONT </cell><cell>000</cell><cell>05</cell><cell>03</cell></row>
 5 CONT <row><cell>
 5 CONT payd to m<hi rend="sup">r</hi> Cary Reg<hi rend="sup">r</hi>
 5 CONT for a coppy of the record &amp;
 5 CONT <lb/>recording the order of the Iudge of Probates for
 5 CONT <lb/>further time to make up our accounts by
-5 CONT dan<hi rend="sup">r</hi> Sabeers
+5 CONT dan<hi rend="sup">l</hi> Sabeers
 5 CONT </cell><cell>000</cell><cell>01</cell><cell>00</cell></row>
 5 CONT <row><cell>
 5 CONT To my horss Hyre and comeing to Bristol the
-5 CONT <lb/>second time to giue an acount of our Administr<hi rend=
-5 CONC "sup">con</hi>
+5 CONT <lb/>second time to giue an acount of our Administ<hi rend="
+5 CONC sup">con</hi>
 5 CONT <lb/>by daniel Sabeers<pc>— — — — — —</pc>
 5 CONT </cell><cell>000</cell><cell>04</cell><cell>00</cell></row>
 5 CONT <row><cell>
-5 CONT To Daniel Sabeers Ferrage &amp; expence in coming
+5 CONT To Daniel Sabeers Ferrage &amp; expence in comeing
 5 CONT <lb/>about the same<pc>— — — — — — —</pc>
 5 CONT </cell><cell>000</cell><cell>00</cell><cell>11</cell></row>
 5 CONT <row><cell>
@@ -8609,7 +8617,7 @@
 5 CONT </table>
 5 CONT
 5 CONT <p>
-5 CONT <lb/>Bristol Ss: <pc>— —</pc>
+5 CONT <lb/>Bristol ss: <pc>— —</pc>
 5 CONT <date calendar="julian" datingMethod="julian" when-custom="1
 5 CONC 715-06-06">
 5 CONT Iune <w copyOf="#the"/> 6 : 1715
@@ -8618,19 +8626,19 @@
 5 CONT <p>
 5 CONT <lb/>By the Hon<hi rend="sup underline">rable</hi> Natha<h
 5 CONC i rend="sup">l</hi>
-5 CONT Paine Iudge of Probate <choice><abbr>&amp;c</abbr><expan xml
-5 CONC :lang="la">et cetera</expan></choice>
+5 CONT Paine Iudge of Probates <choice><abbr>&amp;c</abbr><expan xm
+5 CONC l:lang="la">et cetera</expan></choice>
 5 CONT <lb/>m<hi rend="sup">r</hi> Iames Mosher &amp; m<hi rend="su
 5 CONC p">r</hi> Daniel Sabeers presented the aboue
-5 CONT written and made Oath that it containe a Iust &amp; true acc
-5 CONC ompt
+5 CONT <lb/>written and made Oath that it containe a Iust &amp; tru
+5 CONC e accompt
 5 CONT <lb/>of their Administ<hi rend="sup">con</hi> on the estat
 5 CONC e of
 5 CONT m<hi rend="sup">r</hi> Hugh Mosher lat of
 5 CONT <lb/>dartmouth deceased so far as they haue proceeded whic
 5 CONC h account
 5 CONT <lb/>accordingly I do allow and Approue off
-5 CONT <lb/>Iurr<hi rend="sup">b</hi> Co?am Natha<hi rend="sup">l</
+5 CONT <lb/>Iurr<hi rend="sup">t</hi> Coram Natha<hi rend="sup">l</
 5 CONC hi> Paine
 5 CONT </p>
 5 CONT <p>
