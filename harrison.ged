@@ -13,9 +13,9 @@
 4 CONT Boston, MA 02109
 3 PHON (617) 227-6681
 1 DEST FTM
-1 FILE Harrison_2018-02-05-04-41-14.ftm.ged
-1 DATE 05 FEB 2018
-2 TIME 04:43:19
+1 FILE Harrison_2018-02-06-03-38-37.ftm.ged
+1 DATE 06 FEB 2018
+2 TIME 03:40:00
 0 @Umy2qBWIRUiwVSS6Hcn4@ SUBM
 1 NAME Christopher Alan Mosher
 2 EMAIL cmosher01@@gmail.com
@@ -13311,6 +13311,40 @@
 3 QUAY 1
 2 NOTE This was the first regular Assembly of RI.
 3 CONT James appeared here on behalf of Block Island.
+1 PROP bought land from Samuel Deering
+2 DATE 10 FEB 1669
+2 PLAC Block Island, Washington, Rhode Island, USA
+3 MAP
+4 LATI N41.1724
+4 LONG W71.5578
+2 SOUR @S172@
+3 _LINK https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSLR-PQ11-7
+3 PAGE <bibl> <author>Colony of Rhode Island (America)</author>, <t
+4 CONC itle level="u">Colony Records</title>, <citedRange>2: 344, d
+4 CONC eed, Samuell Dearen [Samuel Deering] to James Sands, recorde
+4 CONC d 5 Oct 1669</citedRange>; digital images, FHL microfilm 954
+4 CONC ,959, DGS 8203292, item 2, image 238 of 609. </bibl>
+3 QUAY 4
+3 OBJE @M86@
+1 PROP bought property from Mary Deering
+2 DATE 11 NOV 1671
+2 PLAC Block Island, Washington, Rhode Island, USA
+3 MAP
+4 LATI N41.1724
+4 LONG W71.5578
+2 SOUR @S173@
+3 _LINK https://archive.org/details/rhodeislandlande00wort
+3 PAGE <bibl> <author>Doroty Worthington</author>, transcriber, <ti
+4 CONC tle level="m">Rhode Island Land Evidences</title>, vol. 1, <
+4 CONC title level="m">1648–1696 Abstracts</title> (<pubPlace>Provi
+4 CONC dence</pubPlace>: <publisher>Rhode Island Historical Society
+4 CONC </publisher>, 1921), <citedRange>12, sale of property, Mar
+4 CONC y Dering to James Sands, 11 Nov 1671</citedRange>; digital i
+4 CONC mages, <title level="m">Internet Archive</title> (<ref targe
+4 CONC t="https://archive.org/details/rhodeislandlande00wort"/> : a
+4 CONC ccessed 27 Jan 2018); citing <author>Colony of Rhode Islan
+4 CONC d (America)</author>, <title level="u">Rhode Island Land Rec
+4 CONC ords</title>, <citedRange>1: 8</citedRange>. </bibl>
 1 WILL
 2 DATE 18 JUN 1694
 2 PLAC Block Island, Washington, Rhode Island, USA
@@ -20804,6 +20838,11 @@
 2 CONT <br />
 2 CONT The foregoing and the list of signers are from "Early Record
 2 CONC s of Town of Portsmouth R.I." <br />
+0 @S173@ SOUR
+1 TITL Rhode Island Land Evidences
+1 AUTH Rhode Island Historical Society.
+1 PUBL Rhode Island Historical Society.; Location: Providence, RI
+2 CONC , USA.; Date: 1921–
 0 @0Dxb4nZvR4OA3lrEmWMq@ SOUR
 1 REFN e303a2c4-df35-478e-bea1-d58dc8796ba7
 1 TITL Russell Families of Seventeenth Century New England
@@ -21974,6 +22013,9 @@
 1 REFN 56fb1384-557e-4ce4-8690-038bfbaf4fb4
 1 TITL USA. New York. Steuben, County of. Land Deeds
 1 AUTH USA. New York. Steuben, County of.
+0 @S172@ SOUR
+1 TITL USA. Rhode Island, Colony of. Records
+1 AUTH USA. Rhode Island, Colony of.
 0 @hWvVO7cKQAyK88DGadtr@ SOUR
 1 REFN 83e7d11b-ab1b-40f2-a8aa-17b6ed471d8b
 1 TITL Vital Records of Marshfield, Mass
@@ -23029,4 +23071,10 @@
 2 _TEXT Registration State: New York; Registration County: Steuben
 3 CONC ; Roll: 1818989; Draft Board: 1
 1 REFN debcd97e-a270-4877-a01a-58107b00df1c
+0 @M86@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Harrison Media\
+2 CONC record-image_3Q9M-CSLR-PQ11-7.jpg
+2 FORM jpg
+2 TITL record-image_3Q9M-CSLR-PQ11-7
+2 _DATE 2/6/2018 3:36:06 AM
 0 TRLR
