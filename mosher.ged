@@ -13,9 +13,9 @@
 4 CONT Boston, MA 02109
 3 PHON (617) 227-6681
 1 DEST FTM
-1 FILE Mosher_2018-02-04-22-03-30.ftm.ged
-1 DATE 04 FEB 2018
-2 TIME 22:04:47
+1 FILE Mosher_2018-02-06-02-55-11.ftm.ged
+1 DATE 06 FEB 2018
+2 TIME 02:57:34
 0 @Umy2qBWIRUiwVSS6Hcn4@ SUBM
 1 NAME Christopher Alan Mosher
 2 EMAIL cmosher01@@gmail.com
@@ -6398,6 +6398,15 @@
 4 CONC al images, <title level="m">Google Books</title> (<ref targe
 4 CONC t="https://books.google.com/books?id=RDIqdXhz9A4C"/> : acces
 4 CONC sed <date>9 Jan 2018</date>) </bibl>
+2 SOUR @S200@
+3 _LINK https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSLR-P7MP-V
+3 PAGE <bibl> <author>Colony of Rhode Island (America)</author>, <t
+4 CONC itle level="u">Colony Records</title>, <citedRange>2: 157, p
+4 CONC etition, Askomicutt (Misquamicut, or Westerly) purchase, 2
+4 CONC 7 Aug 1661</citedRange>; digital images, FHL microfilm 954,9
+4 CONC 59, DGS 8203292, item 2, image 99 of 609. </bibl>
+3 QUAY 4
+3 OBJE @M201@
 1 RESI
 2 DATE 01 SEP 1661
 2 PLAC Westerly, Washington, Rhode Island, USA
@@ -6503,8 +6512,9 @@
 4 CONC hor>,     <title level="u">Town Records, Land Evidence, Tow
 4 CONC n of Westerly</title>,     <citedRange>vol. 1 (1661–1707): s
 4 CONC tamped spread no. 68, survey return, 11 Apr 1690</citedRange
-4 CONC >;     digital images, FHL microfilm 940,222, DGS 7896694, i
-4 CONC tem 5, image 395 of 911. </bibl>
+4 CONC >;     digital images, <title level="u">Land evidence [Weste
+4 CONC rly, RI] vol. 1–3 1661–1728</title>,     FHL microfilm 940,2
+4 CONC 22, DGS 7896694, item 4, image 395 of 911. </bibl>
 3 QUAY 4
 3 OBJE @M183@
 2 OBJE @M183@
@@ -7500,9 +7510,9 @@
 5 CONC ry brightman his <sic>heire</sic>
 5 CONT <lb/>And Assignes for euer Acertain Tract or parciell of Lan
 5 CONC d Scituate
-5 CONT <lb/>Lying And being part in <w copyOf="#the"/>township of p
-5 CONC ortsmouth Afore said And part
-5 CONT <lb/>In new port bounds cantaining by Estamation thirty Eigh
+5 CONT <lb/>Lying And being part in <w copyOf="#the"/> township o
+5 CONC f portsmouth Afore said And part
+5 CONT <lb/>In new port bounds containing by Estamation thirty Eigh
 5 CONC t Acers be it more
 5 CONT <lb/>or Less And is bounded northward by Land of Iohn vaha
 5 CONC n Eastward by partly
@@ -8504,6 +8514,24 @@
 5 CONT </body>
 5 CONT </text>
 3 OBJE @M193@
+1 PROP sold land in Misquamicut (Westerly)
+2 DATE 02 JUN 1714
+2 PLAC Westerly, Washington, Rhode Island, USA
+3 MAP
+4 LATI N41.3776
+4 LONG W71.8273
+2 SOUR @S179@
+3 _LINK https://www.familysearch.org/ark:/61903/3:1:3Q9M-CS4X-XQ9Q-J
+3 PAGE <bibl> <author>Town of Westerly (Rhode Island, USA)</author>
+4 CONC , <title level="u">Town Records, Land Evidence, Town of West
+4 CONC erly</title>, <citedRange>vol. 2 (1707–1717): stamped sprea
+4 CONC d no. 143, quitclaim deed, John and James Mosher to Willia
+4 CONC m Champlin, recorded 4 Jun 1714</citedRange>; digital images
+4 CONC , <title level="u">Land evidence [Westerly, Rhode Island] vo
+4 CONC l. 1–3 1661–1728</title>, FHL microfilm 940,222, DGS 7896694
+4 CONC , item 5, image 618 of 911. </bibl>
+3 QUAY 4
+3 OBJE @M200@
 1 PROB
 2 DATE 11 JAN 1715
 2 PLAC Bristol, Massachusetts, USA
@@ -23815,6 +23843,9 @@
 0 @S199@ SOUR
 1 TITL USA. Rhode Island, Colony of. Land Records
 1 AUTH USA. Rhode Island, Colony of.
+0 @S200@ SOUR
+1 TITL USA. Rhode Island, Colony of. Records
+1 AUTH USA. Rhode Island, Colony of.
 0 @S194@ SOUR
 1 TITL USA. Rhode Island. Newport, Town of. Town Council Records
 1 AUTH USA. Rhode Island. Newport, Town of.
@@ -25535,6 +25566,18 @@
 2 FORM jpg
 2 TITL record-image_3Q9M-CS4Y-4GSW
 2 _DATE 2/4/2018 5:02:10 PM
+0 @M200@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher Media\re
+2 CONC cord-image_3Q9M-CS4X-XQ9Q-J.jpg
+2 FORM jpg
+2 TITL record-image_3Q9M-CS4X-XQ9Q-J
+2 _DATE 2/6/2018 2:08:40 AM
+0 @M201@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher Media\re
+2 CONC cord-image_3Q9M-CSLR-P7MP-V.jpg
+2 FORM jpg
+2 TITL record-image_3Q9M-CSLR-P7MP-V
+2 _DATE 2/6/2018 2:51:58 AM
 0 @N353@ NOTE __GEDCOM__: DATE ABT 1612 __GEDCOM__
 0 @N381@ NOTE __GEDCOM__: DATE ABT 1658 __GEDCOM__
 0 @N380@ NOTE __GEDCOM__: DATE ABT DEC 1596 __GEDCOM__
