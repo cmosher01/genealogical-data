@@ -13,9 +13,9 @@
 4 CONT Boston, MA 02109
 3 PHON (617) 227-6681
 1 DEST FTM
-1 FILE Mosher_2018-02-08-22-50-38.ftm.ged
+1 FILE Mosher_2018-02-08-23-14-30.ftm.ged
 1 DATE 08 FEB 2018
-2 TIME 22:52:04
+2 TIME 23:16:10
 0 @Umy2qBWIRUiwVSS6Hcn4@ SUBM
 1 NAME Christopher Alan Mosher
 2 EMAIL cmosher01@@gmail.com
@@ -5914,11 +5914,6 @@
 1 NAME Francis /Moger/
 2 SOUR @CNCZKGpeSrKJ6BUTT9Hu@
 3 PAGE p. viii
-3 QUAY 1
-3 DATA
-4 TEXT ffrauncis ["ff" in Parish Registers really just means "F", a
-5 CONC nd I'm assuming the normal spelling of the (female) name Fra
-5 CONC nces]
 2 SOUR @S182@
 3 _APID 1,60856::1882172
 3 PAGE Somerset Heritage Service; Taunton, Somerset, England; Somer
@@ -9307,6 +9302,8 @@
 1 BAPM
 2 DATE 18 NOV 1613
 2 PLAC Cucklington, Somerset, England
+2 SOUR @CNCZKGpeSrKJ6BUTT9Hu@
+3 PAGE p. viii
 2 SOUR @S201@
 3 PAGE <bibl> <author>Parish of Cucklington (Somerset, England)</au
 4 CONC thor>, <title level="u">Bishops’ Transcripts</title>, <cited
@@ -9322,12 +9319,6 @@
 4 CONC 1/1
 3 QUAY 4
 3 OBJE @M174@
-1 CHR
-2 DATE 18 NOV 1613
-2 PLAC Cucklington, Somerset, England
-2 SOUR @S185@
-3 PAGE p. viii
-3 QUAY 1
 1 BURI
 2 DATE 15 AUG 1670
 2 PLAC Wincanton, Somerset, England
@@ -9597,15 +9588,6 @@
 1 BIRT
 2 DATE ABT DEC 1596
 2 PLAC Cucklington, Somerset, England
-1 CHR
-2 DATE 19 DEC 1596
-2 PLAC Cucklington, Somerset, England
-3 MAP
-4 LATI N51.0465
-4 LONG W2.3503
-2 SOUR @CNCZKGpeSrKJ6BUTT9Hu@
-3 PAGE p. viii
-3 QUAY 1
 1 BAPM
 2 DATE 19 DEC 1596
 2 PLAC Cucklington, Somerset, England
