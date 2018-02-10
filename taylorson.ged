@@ -13,9 +13,9 @@
 4 CONT Boston, MA 02109
 3 PHON (617) 227-6681
 1 DEST FTM
-1 FILE Taylorson_2018-01-18-22-28-13.ftm.ged
-1 DATE 18 JAN 2018
-2 TIME 22:29:37
+1 FILE Taylorson_2018-02-10-22-18-18.ftm.ged
+1 DATE 10 FEB 2018
+2 TIME 22:20:14
 0 @Umy2qBWIRUiwVSS6Hcn4@ SUBM
 1 NAME Christopher Alan Mosher
 2 EMAIL cmosher01@@gmail.com
@@ -116,6 +116,7 @@
 1 NAME Elizabeth /Barwicke/
 2 SOUR @S79@
 3 QUAY 1
+2 SOUR @S97@
 1 SEX F
 1 FAMS @F29@
 1 BIRT
@@ -3199,6 +3200,7 @@
 3 QUAY 1
 2 SOUR @MLDnHhQZSGGw5BVQo9qM@
 3 _APID 1,9841::158580177
+2 SOUR @S97@
 1 SEX M
 1 FAMC @F24@
 1 FAMS @F29@
@@ -6359,6 +6361,8 @@
 2 PLAC Egglescliffe, Stockton upon Tees, Durham, England, UK
 2 SOUR @S79@
 3 QUAY 1
+2 SOUR @S97@
+2 SOUR @S97@
 0 @x0FfmvNVTaardWNmUxSB@ FAM
 1 REFN 1869b511-8ad7-4d55-8b37-e48125efca75
 1 HUSB @te7t7Lo2QraoEgWshr1c@
@@ -7354,6 +7358,12 @@
 2 CONC e: 2014
 0 @GZJmaUYeSMK4Fd2VWmk7@ SOUR
 1 REFN c9b320bd-c2b6-4720-a1e3-4d2c72c88366
+1 REPO @R1@
+1 TITL England, Select Marriages, 1538–1973
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
+2 CONC e: 2014
+0 @S97@ SOUR
 1 REPO @R1@
 1 TITL England, Select Marriages, 1538–1973
 1 AUTH Ancestry.com
@@ -9211,7 +9221,8 @@
 2 TITL England & Wales, FreeBMD Death Index, 1837-1915
 1 REFN 22c4f112-c761-454e-a509-c897380aa937
 0 @M70@ OBJE
-1 FILE 1841 England Census(2).jpg
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Taylerson_Taylo
+2 CONC rson Media\1841 England Census(2).jpg
 2 FORM jpg
 2 TITL 1841 England Census
 2 _TEXT Class: HO107; Piece: 315; Book: 17; Civil Parish: Hart; Coun
@@ -9219,7 +9230,8 @@
 3 CONC e: 1; GSU roll: 241356
 1 REFN 2e1b3571-73b3-49db-a38f-447d612999af
 0 @M71@ OBJE
-1 FILE 1851 England Census(1).jpg
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Taylorson Media
+2 CONC \1851 England Census(1).jpg
 2 FORM jpg
 2 TITL 1851 England Census
 2 _TEXT Class: HO107; Piece: 2384; Folio: 421; Page: 16; GSU roll: 8
@@ -9234,19 +9246,22 @@
 3 CONC 3175
 1 REFN 8a8851ae-e8db-41b2-85a5-63ddbad126d5
 0 @M73@ OBJE
-1 FILE England & Wales, FreeBMD Death Index, 1837-1915(4).jpg
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Taylorson Media
+2 CONC \England & Wales, FreeBMD Death Index, 1837-1915(4).jpg
 2 FORM jpg
 2 TITL England & Wales, FreeBMD Death Index, 1837-1915
 1 REFN 09e3506f-47d0-4727-a42c-e1872692cd88
 0 @M74@ OBJE
-1 FILE 1871 England Census.jpg
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Taylorson Media
+2 CONC \1871 England Census.jpg
 2 FORM jpg
 2 TITL 1871 England Census
 2 _TEXT Class: RG10; Piece: 5024; Folio: 71; Page: 53; GSU roll: 848
 3 CONC 490
 1 REFN e5b82d4a-af60-4841-9a35-d541b3b09e42
 0 @M75@ OBJE
-1 FILE England & Wales, FreeBMD Death Index, 1837-1915(2).jpg
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Taylorson Media
+2 CONC \England & Wales, FreeBMD Death Index, 1837-1915(2).jpg
 2 FORM jpg
 2 TITL England & Wales, FreeBMD Death Index, 1837-1915
 1 REFN 7ea8418e-8597-4d56-bd18-56721d1cf0a7
@@ -9272,19 +9287,22 @@
 3 CONC ilm: 552594
 1 REFN 36ebf2b4-c76f-46bc-ac85-2e19160e5d45
 0 @M79@ OBJE
-1 FILE England & Wales, Civil Registration Marriage Index, 1837-191
-2 CONC 5.jpg
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Taylorson Media
+2 CONC \England & Wales, Civil Registration Marriage Index, 1837-19
+2 CONC 15.jpg
 2 FORM jpg
 2 TITL England & Wales, Civil Registration Marriage Index, 1837-191
 3 CONC 5
 1 REFN 4a02c136-3dff-4738-83bd-bf7ea5682e15
 0 @M80@ OBJE
-1 FILE U.S. City Directories, 1822-1989.jpg
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Taylorson Media
+2 CONC \U.S. City Directories, 1822-1989.jpg
 2 FORM jpg
 2 TITL U.S. City Directories, 1822-1989
 1 REFN 66f97a38-b23c-4658-a53f-788e4ca950e3
 0 @M81@ OBJE
-1 FILE 1860 United States Federal Census(1).jpg
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Taylorson Media
+2 CONC \1860 United States Federal Census(1).jpg
 2 FORM jpg
 2 TITL 1860 United States Federal Census
 2 _TEXT Year: 1860; Census Place: Corning, Steuben, New York; Roll
