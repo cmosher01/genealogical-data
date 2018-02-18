@@ -13,14 +13,16 @@
 4 CONT Boston, MA 02109
 3 PHON (617) 227-6681
 1 DEST FTM
-1 FILE Colvin_2017-10-14.ged
-1 DATE 14 OCT 2017
-2 TIME 04:13:08
+1 FILE Colvin_2018-02-18-04-20-50.ftm.ged
+1 DATE 18 FEB 2018
+2 TIME 04:23:14
 0 @Umy2qBWIRUiwVSS6Hcn4@ SUBM
 1 NAME Christopher Alan Mosher
 2 EMAIL cmosher01@@gmail.com
 2 WWW http://mosher.mine.nu/
 2 WWW https://github.com/cmosher01/
+2 WWW https://www.ancestry.com/connect/Profile/0065664a-0000-0000-
+3 CONC 0000-000000000000
 2 ADDR 41 Brook Pine Drive
 3 CONT Shelton, Connecticut 06484-5912
 3 CONT USA
@@ -859,6 +861,7 @@
 3 _APID 1,3212::3149987
 3 OBJE @UL0Hy5nFTjua39IMcoro@
 0 @I34@ INDI
+1 _XY 73877 1145
 1 NAME Irving W. /Colvin/
 2 SOUR @sTsOC4iyTF2NoQPhD3Hq@
 3 _APID 1,61377::368289
@@ -916,10 +919,6 @@
 2 SOUR @yyAkQxoDR02oezmc7VEf@
 3 _APID 1,7218::1906355
 3 OBJE @nDVecHOiTp2S2fFWFdgW@
-2 SOUR @oMMJlIG2SFWpvG3cpisc@
-3 _APID 1,7486::3375642
-3 PAGE Place: Philadelphia, Pennsylvania; Year: 1840; Page Number
-4 CONC : 168
 2 SOUR @JAWvOIvVTmOLbDIk7C17@
 3 _APID 1,60525::41925922
 1 SEX M
@@ -975,14 +974,6 @@
 3 _APID 1,60525::41925922
 2 NOTE There are discrepancies in the ages given by James in variou
 3 CONC s censuses for him and his wife.
-1 RESI
-2 DATE FROM 1829 TO 1847
-2 PLAC Onondaga, New York, USA
-3 MAP
-4 LATI N43.2291
-4 LONG W76.1427
-2 NOTE Starting date is before 1830. Ending date is a guess, base
-3 CONC d on child Thomas who b. c. 1845 in Onondaga Co.
 1 CENS
 2 DATE 01 JUN 1830
 2 PLAC Lysander, Onondaga, New York, USA
@@ -1006,17 +997,6 @@
 4 LONG W76.4594
 2 SOUR @TNUw8LnBTd2MqnA7GuA0@
 3 QUAY 3
-1 EVEN
-2 TYPE Arrival
-2 DATE 1840
-2 PLAC Philadelphia, Pennsylvania, USA
-3 MAP
-4 LATI N40.0068
-4 LONG W75.1347
-2 SOUR @oMMJlIG2SFWpvG3cpisc@
-3 _APID 1,7486::3375642
-3 PAGE Place: Philadelphia, Pennsylvania; Year: 1840; Page Number
-4 CONC : 168
 1 RESI
 2 DATE FROM 1847 TO JAN 1855
 2 PLAC Cazenovia, Madison, New York, USA
@@ -4523,6 +4503,7 @@
 2 SOUR @rp9Z8lHgQkCUwI6kJGpm@
 3 _APID 1,70572::7718700
 0 @aRnSyVy2RNCIhMsIj2K9@ INDI
+1 _XY 74199 1319
 1 REFN b7b0516c-904a-434c-a23b-a4d4a5cd2238
 1 NAME Alta Elnor /Mosher/
 1 SEX F
@@ -4532,6 +4513,7 @@
 1 DEAT
 2 DATE 02 AUG 1995
 0 @UhQOtFltRHGkuy92Uqcy@ INDI
+1 _XY 74051 1319
 1 REFN 43900649-9104-49d9-a27a-938b367b26c0
 1 NAME Frederick Colvin /Mosher/
 1 SEX M
@@ -4541,6 +4523,7 @@
 1 DEAT
 2 DATE 04 JUL 1992
 0 @QrzTltnITPyfJXgWxOqa@ INDI
+1 _XY 74004 1217
 1 REFN fed793b9-5aa0-4033-bbd3-b58ee0283ca1
 1 NAME Lewis William /Mosher/
 1 SEX M
@@ -4550,6 +4533,7 @@
 1 DEAT
 2 DATE 28 NOV 1962
 0 @baI6s77QSrqDdubFS4Jw@ INDI
+1 _XY 73905 1319
 1 REFN 235ff87b-6177-4bd9-b228-3ae4c97f8639
 1 NAME William George /Mosher/
 1 SEX M
@@ -4787,6 +4771,7 @@
 2 SOUR @rp9Z8lHgQkCUwI6kJGpm@
 3 _APID 1,70572::6465140
 0 @ZegodOJWSJuUyMb3nk3I@ INDI
+1 _XY 74592 1077
 1 REFN 5e41c00a-4428-490f-b38e-06afa5109879
 1 NAME Nancy Elnora /Spohner/
 1 SEX F
