@@ -3,6 +3,8 @@
 1 GEDC
 2 VERS 5.5.1
 2 FORM LINEAGE-LINKED
+1 COPR Copyright © 1998, Christopher Alan Mosher, Shelton, CT, USA.
+1 SUBM @Umy2qBWIRUiwVSS6Hcn4@
 1 SOUR FTM
 2 VERS 23.0.2.1343
 2 NAME Family Tree Maker for Windows
@@ -11,12 +13,30 @@
 4 CONT Boston, MA 02109
 3 PHON (617) 227-6681
 1 DEST FTM
-1 SUBM @xf0kzoVSQaugnZniFClb@
-1 FILE Disosway_2017-10-01.ged
-1 DATE 01 OCT 2017
-2 TIME 04:37:32
-0 @xf0kzoVSQaugnZniFClb@ SUBM
+1 FILE Disosway_2018-03-13-21-20-41.ftm.ged
+1 DATE 13 MAR 2018
+2 TIME 21:22:41
+0 @Umy2qBWIRUiwVSS6Hcn4@ SUBM
 1 NAME Christopher Alan Mosher
+2 EMAIL cmosher01@@gmail.com
+2 WWW http://mosher.mine.nu/
+2 WWW https://github.com/cmosher01/
+2 WWW https://www.ancestry.com/connect/Profile/0065664a-0000-0000-
+3 CONC 0000-000000000000
+2 ADDR 41 Brook Pine Drive
+3 CONT Shelton, Connecticut 06484-5912
+3 CONT USA
+3 ADR1 41 Brook Pine Drive
+3 ADR2 Shelton, Connecticut 06484-5912
+3 ADR3 USA
+3 CITY Shelton
+3 STAE Connecticut
+3 POST 06484-5912
+3 CTRY USA
+2 PHON +1-203-414-7716
+2 PHON +1-203-944-9487
+2 PHON +1-203-513-9292
+1 LANG English
 1 RIN Umy2qBWIRUiwVSS6Hcn4
 0 @WiBRtmSxTTiwCzIKBcNK@ INDI
 1 _XY 146166 1186
@@ -2033,6 +2053,7 @@
 2 TYPE note
 2 NOTE This Hannah may be the same person as Anneti Ann
 0 @eYn8G9aNSSi2pscNlNpJ@ INDI
+1 _XY 143432 2246
 1 REFN 707d49da-5f83-4b74-ab43-f8d3ce729934
 1 NAME Harry Flandreau /Disosway/
 1 SEX M
@@ -4877,6 +4898,7 @@
 2 SOUR @lDuG27hSTACWHq7z54Ba@
 3 _APID 1,60525::17056389
 0 @9jmMKQ4kRliQfouKgWAX@ INDI
+1 _XY 143376 2156
 1 REFN 9bbe1eba-7c5f-4bbf-9e7b-6642722bc24b
 1 NAME Lola Potter /Flandreau/
 1 SEX F
@@ -5262,6 +5284,7 @@
 2 SOUR @gOSP4ehXQt2LuIckJ5Zl@
 3 QUAY 1
 0 @7nAjtoHjQEaNxO44L4VR@ INDI
+1 _XY 143015 1842
 1 REFN b0c4c217-9b4d-4fa6-88f9-eb18d543488f
 1 NAME Ann Mason /Justice/
 1 NAME Ann Maria /Justice/
