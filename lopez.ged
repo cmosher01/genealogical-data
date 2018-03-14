@@ -13,9 +13,9 @@
 4 CONT Boston, MA 02109
 3 PHON (617) 227-6681
 1 DEST FTM
-1 FILE Lopez_2018-01-21-04-26-31.ftm.ged
-1 DATE 21 JAN 2018
-2 TIME 04:28:00
+1 FILE Lopez_2018-03-14-02-50-36.ftm.ged
+1 DATE 14 MAR 2018
+2 TIME 02:52:17
 0 @Umy2qBWIRUiwVSS6Hcn4@ SUBM
 1 NAME Christopher Alan Mosher
 2 EMAIL cmosher01@@gmail.com
@@ -39,6 +39,7 @@
 1 LANG English
 1 RIN Umy2qBWIRUiwVSS6Hcn4
 0 @I48@ INDI
+1 _XY 1934 1131
 1 REFN 36c71e16-e697-4941-9395-041a3936a159
 1 NAME [unknown] /Auz/
 2 SOUR @G8TESznJRGCKBg1WwF0w@
@@ -61,6 +62,7 @@
 3 PAGE http://gw.geneanet.org/ecuadorgen?lang=en;pz=fausto+anibal;n
 4 CONC z=alvarado;ocz=0;p=n;n=auz
 0 @I49@ INDI
+1 _XY 1832 1287
 1 REFN 69e4b47c-a2c1-4c71-b902-5895faba3b70
 1 NAME Carlos /Auz/
 2 SOUR @S66@
@@ -84,11 +86,13 @@
 3 PAGE http://gw.geneanet.org/ecuadorgen?lang=en;pz=fausto+anibal;n
 4 CONC z=alvarado;ocz=0;p=carlos;n=auz
 0 @I51@ INDI
+1 _XY 1529 1259
 1 REFN e858f89b-240d-4372-a1ed-638c3010c11a
 1 NAME Carlota /Auz/
 1 SEX F
 1 FAMC @F18@
 0 @I52@ INDI
+1 _XY 1734 1295
 1 REFN 7efbd820-83a0-4153-8ea8-db4990ef8a1c
 1 NAME Felisa /Auz/
 2 SOUR @S66@
@@ -108,6 +112,7 @@
 3 _LINK http://gw.geneanet.org/ferneche?lang=en;p=felisa;n=auz
 3 PAGE Felisa Auz
 0 @I54@ INDI
+1 _XY 1843 1139
 1 REFN f2059582-29f8-4797-a3b5-20066bfee431
 1 NAME José /Auz/
 2 SOUR @S66@
@@ -135,6 +140,7 @@
 3 _LINK http://gw.geneanet.org/ferneche?lang=en;p=jose;n=auz;oc=2
 3 PAGE Jose Auz
 0 @I55@ INDI
+1 _XY 1886 1029
 1 REFN dcde420f-1f3d-4791-b729-27313f9582c9
 1 NAME José /Auz/
 2 SOUR @G8TESznJRGCKBg1WwF0w@
@@ -159,7 +165,7 @@
 3 PAGE http://gw.geneanet.org/ecuadorgen?lang=en;pz=fausto+anibal;n
 4 CONC z=alvarado;ocz=0;p=jose;n=auz;oc=1
 0 @I56@ INDI
-1 _XY 400 142
+1 _XY 1625 1312
 1 REFN 8a6f14c7-4cf8-4f1c-bff1-b6be9e820fd9
 1 NAME Mariano /Auz/
 2 SOUR @S68@
@@ -209,6 +215,7 @@
 4 LONG W78.5163
 2 SOUR @S68@
 0 @I57@ INDI
+1 _XY 30 1694
 1 REFN 69209f94-0525-46d6-8366-157c0830b93c
 1 NAME Gustavo /Barba/
 2 SOUR @S65@
@@ -221,7 +228,7 @@
 2 SOUR @S65@
 3 PAGE http://gw.geneanet.org/ecuadorgen?p=gustavo;n=barba
 0 @52mgd7vpQE2Z27chsEvC@ INDI
-1 _XY 172586 3353
+1 _XY 2449 2157
 1 REFN 61078e47-94d4-4f88-8bd1-1636986a3452
 1 NAME Beatrice //
 1 SEX F
@@ -229,6 +236,7 @@
 1 BIRT
 2 DATE ABT 1920
 0 @I58@ INDI
+1 _XY 2578 900
 1 REFN 51fe9e22-0004-41be-b783-61b53321c61f
 1 NAME Salvador /Benites y Calderón de la Barca/
 2 SOUR @G8TESznJRGCKBg1WwF0w@
@@ -251,6 +259,7 @@
 4 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=60916
 5 CONC 892&pid=45
 0 @I59@ INDI
+1 _XY 3244 1011
 1 REFN d145a977-d80b-464e-9669-4a3dcf06eced
 1 NAME Antonio /Benites y Erazo/
 2 SOUR @G8TESznJRGCKBg1WwF0w@
@@ -273,6 +282,7 @@
 4 LATI N0.8
 4 LONG W77.7167
 0 @I60@ INDI
+1 _XY 2999 1078
 1 REFN a69f546e-76b7-4977-82bf-5f46f1d617e5
 1 NAME Bernardo /Benites y Erazo/
 2 SOUR @G8TESznJRGCKBg1WwF0w@
@@ -289,6 +299,7 @@
 4 LATI N0.35
 4 LONG W78.1167
 0 @I61@ INDI
+1 _XY 2508 1081
 1 REFN 05c32255-b8b2-423a-a87c-f7fa6025ae98
 1 NAME Juana Florentina /Benites y Erazo/
 2 SOUR @G8TESznJRGCKBg1WwF0w@
@@ -299,6 +310,7 @@
 1 SEX F
 1 FAMC @F24@
 0 @I62@ INDI
+1 _XY 3083 1013
 1 REFN d37eb02b-0d8b-48a9-b67e-a314d8b9b22c
 1 NAME Manuel /Benites y Erazo/
 2 SOUR @G8TESznJRGCKBg1WwF0w@
@@ -317,6 +329,7 @@
 1 DEAT
 2 DATE BEF SEP 1788
 0 @I63@ INDI
+1 _XY 2042 1035
 1 REFN 00cccf6b-b46b-40e1-9efd-da0f4455f84f
 1 NAME María Josefa /Benites y Erazo/
 2 SOUR @G8TESznJRGCKBg1WwF0w@
@@ -341,6 +354,7 @@
 3 PAGE http://gw.geneanet.org/ecuadorgen?lang=en;pz=fausto+anibal;n
 4 CONC z=alvarado;ocz=0;p=maria+josefa;n=benitez;oc=1
 0 @I64@ INDI
+1 _XY 2754 1032
 1 REFN 29105cca-47b4-4a0f-84c8-fec458384a03
 1 NAME María Marta /Benites y Erazo/
 2 SOUR @G8TESznJRGCKBg1WwF0w@
@@ -357,6 +371,7 @@
 4 LATI N0.35
 4 LONG W78.1167
 0 @I65@ INDI
+1 _XY 2592 1033
 1 REFN 3795860e-ecb1-4248-affc-f0d034981699
 1 NAME María Nicolasa /Benites y Erazo/
 2 SOUR @G8TESznJRGCKBg1WwF0w@
@@ -367,6 +382,7 @@
 1 SEX F
 1 FAMC @F24@
 0 @I66@ INDI
+1 _XY 3167 1076
 1 REFN e9424734-e4e8-44b5-b069-3518747d9b73
 1 NAME Nicolás /Benites y Erazo/
 2 SOUR @G8TESznJRGCKBg1WwF0w@
@@ -385,6 +401,7 @@
 1 DEAT
 2 DATE BEF 1780
 0 @I67@ INDI
+1 _XY 2672 1084
 1 REFN d5d9eff8-3890-4594-9498-72826d62fd13
 1 NAME Sebastiana /Benites y Erazo/
 2 SOUR @G8TESznJRGCKBg1WwF0w@
@@ -395,6 +412,7 @@
 1 SEX F
 1 FAMC @F24@
 0 @I68@ INDI
+1 _XY 2923 1031
 1 REFN a4c80eec-32f2-4b02-b201-9720903f6bd9
 1 NAME Tiburcio /Benites y Erazo/
 2 SOUR @G8TESznJRGCKBg1WwF0w@
@@ -411,6 +429,7 @@
 4 LATI N0.35
 4 LONG W78.1167
 0 @I69@ INDI
+1 _XY 2849 1078
 1 REFN d5f3377b-4954-4d9b-8bd6-be8e2878dc93
 1 NAME Tomasa /Benites y Erazo/
 2 SOUR @G8TESznJRGCKBg1WwF0w@
@@ -427,6 +446,7 @@
 4 LATI N0.35
 4 LONG W78.1167
 0 @I70@ INDI
+1 _XY 3326 1074
 1 REFN 07725746-b062-4a79-8a28-b2b095fa13c2
 1 NAME Vicente /Benites y Erazo/
 2 SOUR @G8TESznJRGCKBg1WwF0w@
@@ -445,6 +465,7 @@
 1 DEAT
 2 DATE AFT 1780
 0 @I71@ INDI
+1 _XY 2578 807
 1 REFN f1a8147a-f4dd-4cba-b1b6-4ec07ff475ee
 1 NAME Diego /Benites/
 2 SOUR @G8TESznJRGCKBg1WwF0w@
@@ -457,6 +478,7 @@
 1 BIRT
 2 DATE BET 1650 AND 1660
 0 @I47@ INDI
+1 _XY 3508 1999
 1 NAME Alcira Teresa /Bozo/
 2 SOUR @S64@
 3 _LINK https://familysearch.org/ark:/61903/1:1:QVMV-RT9C
@@ -470,6 +492,7 @@
 1 BIRT
 2 DATE ABT 1883
 0 @I72@ INDI
+1 _XY 149 1686
 1 REFN 3a3f5a27-659e-4d8b-8182-fe0303ddbc08
 1 NAME Alejandra /Cabezas/
 2 SOUR @S65@
@@ -490,6 +513,7 @@
 2 SOUR @S65@
 3 PAGE http://gw.geneanet.org/ecuadorgen?p=alejandrina;n=cabezas
 0 @I73@ INDI
+1 _XY 8573 30
 1 REFN 380c3dd7-f633-4d1e-92b9-10811c4da418
 1 NAME María /Calca/
 2 SOUR @G8TESznJRGCKBg1WwF0w@
@@ -500,6 +524,7 @@
 1 SEX F
 1 FAMS @F27@
 0 @I74@ INDI
+1 _XY 2729 799
 1 REFN 5de62ae1-0362-46fd-bb77-c6f636bde680
 1 NAME Maria /Calderón de la Barca Romero y Orbe/
 2 SOUR @G8TESznJRGCKBg1WwF0w@
@@ -513,6 +538,7 @@
 1 BIRT
 2 DATE ABT 1660
 0 @I75@ INDI
+1 _XY 2729 714
 1 REFN 54c9fd1f-8362-4033-b316-43f5899005e6
 1 NAME Felipe /Calderón de la Barca/
 2 SOUR @G8TESznJRGCKBg1WwF0w@
@@ -523,6 +549,7 @@
 1 SEX M
 1 FAMS @F28@
 0 @I76@ INDI
+1 _XY 3593 706
 1 REFN dad84936-55f0-426a-8ea9-6e2f4127b4c0
 1 NAME Juana /Cepeda Enríquez de Guzmán y Gamarra/
 2 SOUR @G8TESznJRGCKBg1WwF0w@
@@ -536,7 +563,7 @@
 1 BIRT
 2 PLAC San Juan de Pasto, Nariño, Colombia
 0 @K0gk4jcYQdijxbxDOqnW@ INDI
-1 _XY 173254 3250
+1 _XY 3107 1970
 1 REFN ee0b82b8-faa7-449f-bfaf-1f48c0f0bbc9
 1 NAME Joseph Judson /Cohn/
 2 SOUR @cYpH9GKbREexd30xG7Ri@
@@ -711,7 +738,7 @@
 2 SOUR @8SpggOHIRZiow2E3C3cu@
 3 _APID 1,60525::1354178
 0 @k71urNFWTqGNlRZnKxQA@ INDI
-1 _XY 173153 3250
+1 _XY 3006 1970
 1 REFN 42754408-722a-4e09-a534-25f10e1b155b
 1 NAME Bessie /Cooke/
 2 SOUR @Z0SQaG1kRbWQtiKMUjof@
@@ -932,21 +959,21 @@
 2 SOUR @8SpggOHIRZiow2E3C3cu@
 3 _APID 1,60525::36337865
 0 @I77@ INDI
-1 _XY 437 192
+1 _XY 1522 1396
 1 REFN f33bae71-57c6-4e62-b426-0e93de0721a0
 1 NAME Rosario /Daste/
 2 SOUR @S68@
 1 SEX F
 1 FAMC @F20@
 0 @I78@ INDI
-1 _XY 500 142
+1 _XY 1456 1328
 1 REFN a6ba9592-c18d-4e17-84cb-b6226bc0a01d
 1 NAME unknown wife of Mariano Auz /Daste/
 2 SOUR @S68@
 1 SEX F
 1 FAMS @F20@
 0 @gsDzouYTSfifaq2wjI7f@ INDI
-1 _XY 173999 3215
+1 _XY 4194 1914
 1 REFN ea74aad7-984b-4ba0-acf6-205847ca4093
 1 NAME Nellie Estelle /Davis/
 2 SOUR @cYpH9GKbREexd30xG7Ri@
@@ -987,6 +1014,7 @@
 4 LATI N32.2413
 4 LONG W92.716
 0 @I79@ INDI
+1 _XY 4442 507
 1 REFN 01b78557-b118-4de9-b3fc-40cc50c4eedc
 1 NAME Isabel /de Benalcázar Cepeda/
 2 SOUR @G8TESznJRGCKBg1WwF0w@
@@ -1003,6 +1031,7 @@
 4 LATI N2.8488
 4 LONG W76.1157
 0 @I80@ INDI
+1 _XY 3940 492
 1 REFN 1e32ac6d-7302-4ad8-ab1b-94e352a22f44
 1 NAME Sebastián /de Benalcázar y Cepeda/
 2 SOUR @G8TESznJRGCKBg1WwF0w@
@@ -1021,6 +1050,7 @@
 1 DEAT
 2 DATE 1613
 0 @I81@ INDI
+1 _XY 4388 368
 1 REFN bbb98021-56d8-4d8b-9cab-f62bf8ff52e9
 1 NAME Catalina /de Benalcázar/ I
 2 SOUR @G8TESznJRGCKBg1WwF0w@
@@ -1041,6 +1071,7 @@
 2 DATE 19 JUL 1612
 2 PLAC Pasto, Nariño, Colombia
 0 @I82@ INDI
+1 _XY 4879 368
 1 REFN 6167a7b9-c461-4a12-bf84-9c1e220e4ddf
 1 NAME Francisco /de Benalcázar/
 2 SOUR @G8TESznJRGCKBg1WwF0w@
@@ -1054,6 +1085,7 @@
 2 DATE ABT 1519
 2 PLAC Natá, Cocle, Panamá
 0 @I83@ INDI
+1 _XY 5391 368
 1 REFN b022bb6c-d916-46aa-b484-21038da07641
 1 NAME Isabel /de Benalcázar/
 2 SOUR @G8TESznJRGCKBg1WwF0w@
@@ -1070,6 +1102,7 @@
 4 LATI N2.8488
 4 LONG W76.1157
 0 @I84@ INDI
+1 _XY 5050 368
 1 REFN 28ebc961-53d7-4aea-bbf9-a7d207e0c9c9
 1 NAME Lázaro /de Benalcázar/
 2 SOUR @G8TESznJRGCKBg1WwF0w@
@@ -1082,6 +1115,7 @@
 1 BIRT
 2 DATE ABT 1530
 0 @I85@ INDI
+1 _XY 5205 368
 1 REFN 384a296e-26f5-4848-903a-c872af9b7f22
 1 NAME Magdalena /de Benalcázar/ I
 2 SOUR @G8TESznJRGCKBg1WwF0w@
@@ -1094,6 +1128,7 @@
 1 BIRT
 2 DATE ABT 1538
 0 @I87@ INDI
+1 _XY 4539 376
 1 REFN 486b0c64-95a2-4317-b036-ebe535aecf7d
 1 NAME María /de Benalcázar/ 2
 2 SOUR @G8TESznJRGCKBg1WwF0w@
@@ -1104,6 +1139,7 @@
 1 SEX M
 1 FAMC @F32@
 0 @I88@ INDI
+1 _XY 5609 364
 1 REFN 75da5da2-ad48-4fd0-9028-b7e036a08aae
 1 NAME María Magdalena /de Benalcázar/
 2 SOUR @G8TESznJRGCKBg1WwF0w@
@@ -1133,6 +1169,7 @@
 4 LATI N3.4372
 4 LONG W76.5225
 0 @I89@ INDI
+1 _XY 5540 276
 1 REFN 18430eb6-d49b-4350-ba45-6d06f4bbd8ac
 1 NAME Miguel /de Benalcázar/
 2 SOUR @G8TESznJRGCKBg1WwF0w@
@@ -1149,6 +1186,7 @@
 4 LATI N2.8488
 4 LONG W76.1157
 0 @I90@ INDI
+1 _XY 4699 361
 1 REFN 4b41d3b7-a48c-4c61-b407-6a34aea580d9
 1 NAME Sebastián /de Benalcázar/ II
 2 SOUR @G8TESznJRGCKBg1WwF0w@
@@ -1165,6 +1203,7 @@
 2 DATE 1576
 2 PLAC Burgos, Castilla-León, España
 0 @I91@ INDI
+1 _XY 3984 283
 1 REFN a6a8f709-952f-4bd0-8a78-2e75a1b28375
 1 NAME [unknown] /de Caraveo/
 2 SOUR @G8TESznJRGCKBg1WwF0w@
@@ -1175,6 +1214,7 @@
 1 SEX F
 1 FAMS @F37@
 0 @I92@ INDI
+1 _XY 3836 175
 1 REFN 511509f5-4315-4756-887c-c9f62b84c81e
 1 NAME Alonso /de Carvajal/
 2 SOUR @G8TESznJRGCKBg1WwF0w@
@@ -1191,6 +1231,7 @@
 4 LATI N37.9833
 4 LONG W3.4667
 0 @I93@ INDI
+1 _XY 3647 515
 1 REFN 1167a273-94b5-42e6-82e1-efdb585d200c
 1 NAME Maria /de Castañeda/
 2 SOUR @G8TESznJRGCKBg1WwF0w@
@@ -1206,6 +1247,7 @@
 4 LATI N2.8488
 4 LONG W76.1157
 0 @I94@ INDI
+1 _XY 3779 492
 1 REFN 480e8ae9-7990-4f3b-a064-ab8f2bea74c7
 1 NAME Hernando /de Cepeda Caraveo y Benalcázar/
 2 SOUR @G8TESznJRGCKBg1WwF0w@
@@ -1229,6 +1271,7 @@
 4 LATI N2.8488
 4 LONG W76.1157
 0 @I95@ INDI
+1 _XY 3836 360
 1 REFN e8a4aadf-ed51-44dd-ab02-e8122f518ef6
 1 NAME Hernando /de Cepeda Caraveo y Carvajal/
 2 SOUR @G8TESznJRGCKBg1WwF0w@
@@ -1246,6 +1289,7 @@
 2 DATE 1585
 2 PLAC Pasto, Nariño, Colombia
 0 @I96@ INDI
+1 _XY 3647 600
 1 REFN 3ca69aae-83e5-4ffc-81f5-da24103e712e
 1 NAME Hernando /de Cepeda Caraveo y Castañeda/
 2 SOUR @G8TESznJRGCKBg1WwF0w@
@@ -1262,6 +1306,7 @@
 1 DEAT
 2 PLAC Pasto, Nariño, Colombia
 0 @I97@ INDI
+1 _XY 3836 275
 1 REFN af849e19-e0b1-467b-89f7-823bd715a0a2
 1 NAME [unknown] /de Cepeda Carvajal/
 2 SOUR @G8TESznJRGCKBg1WwF0w@
@@ -1278,6 +1323,7 @@
 4 LATI N37.9833
 4 LONG W3.4667
 0 @I98@ INDI
+1 _XY 4123 500
 1 REFN 44c28fa7-c901-4385-bcfd-f127b0337b09
 1 NAME Beatriz /de Cepeda y Benalcázar/
 2 SOUR @G8TESznJRGCKBg1WwF0w@
@@ -1294,6 +1340,7 @@
 4 LATI N2.8488
 4 LONG W76.1157
 0 @I99@ INDI
+1 _XY 4275 500
 1 REFN 2d2687fb-a924-4a14-921f-df8a860fda0e
 1 NAME Francisco /de Cepeda y Benalcázar/
 2 SOUR @G8TESznJRGCKBg1WwF0w@
@@ -1306,6 +1353,7 @@
 1 BIRT
 2 DATE ABT 1553
 0 @I100@ INDI
+1 _XY 3994 168
 1 REFN 607ab84f-391c-470c-b47d-3b3ddca270af
 1 NAME Francisca /de Cepeda y Santa Catalina/
 2 SOUR @G8TESznJRGCKBg1WwF0w@
@@ -1320,6 +1368,7 @@
 2 DATE ABT 1450
 2 PLAC Toledo, Castilla-La Mancha, España
 0 @I101@ INDI
+1 _XY 4189 175
 1 REFN 0c8cabda-712a-47d8-b9c2-00becb331b19
 1 NAME Inés /de Cepeda y Santa Catalina/
 2 SOUR @G8TESznJRGCKBg1WwF0w@
@@ -1332,6 +1381,7 @@
 1 BIRT
 2 PLAC Tordesillas, Valladolid, Castilla-León, España
 0 @I102@ INDI
+1 _XY 3994 83
 1 REFN a72bbc3e-e31c-4b72-ae58-7b60a58a5ffc
 1 NAME [unknown] /de Cepeda/
 2 SOUR @G8TESznJRGCKBg1WwF0w@
@@ -1342,6 +1392,7 @@
 1 SEX M
 1 FAMS @F40@
 0 @I103@ INDI
+1 _XY 3407 791
 1 REFN ee8e230b-cffc-4313-a86e-a892d442ca47
 1 NAME Bernardo /de Erazo Quintero y Cepeda/
 2 SOUR @G8TESznJRGCKBg1WwF0w@
@@ -1359,6 +1410,7 @@
 2 DATE 01 DEC 1698
 2 PLAC Pasto, Nariño, Colombia
 0 @I104@ INDI
+1 _XY 3407 714
 1 REFN 8aa91c9f-c834-47f7-80d1-02152b1b4e25
 1 NAME Sebastián /de Erazo Quintero/
 2 SOUR @G8TESznJRGCKBg1WwF0w@
@@ -1369,6 +1421,7 @@
 1 SEX M
 1 FAMS @F30@
 0 @I105@ INDI
+1 _XY 3773 899
 1 REFN 451e7c7f-d616-4a21-b397-83686038dd77
 1 NAME Bernardo /de Erazo y Diez de Fuenmayor/
 2 SOUR @G8TESznJRGCKBg1WwF0w@
@@ -1382,6 +1435,7 @@
 2 DATE ABT 1671
 2 PLAC Pasto, Nariño, Colombia
 0 @I106@ INDI
+1 _XY 3967 899
 1 REFN 3c7a86eb-3383-429b-b1a3-c373b95efe1f
 1 NAME Dionisio /de Erazo y Diez de Fuenmayor/
 2 SOUR @G8TESznJRGCKBg1WwF0w@
@@ -1395,6 +1449,7 @@
 2 DATE ABT 1673
 2 PLAC Pasto, Nariño, Colombia
 0 @I107@ INDI
+1 _XY 3586 906
 1 REFN a44fa245-d174-40a7-8d4c-617963f341f4
 1 NAME Juana de San Bernardo /de Erazo y Diez de Fuenmayor/
 2 SOUR @G8TESznJRGCKBg1WwF0w@
@@ -1405,6 +1460,7 @@
 1 SEX F
 1 FAMC @F41@
 0 @I108@ INDI
+1 _XY 3407 899
 1 REFN 2d0e3ccb-8807-4c98-8e1f-300326b3a6b4
 1 NAME María Tomasa /de Erazo y Diez de Fuenmayor/
 2 SOUR @G8TESznJRGCKBg1WwF0w@
@@ -1419,6 +1475,7 @@
 2 DATE ABT 1693
 2 PLAC Pasto, Nariño, Colombia
 0 @I109@ INDI
+1 _XY 4156 891
 1 REFN 1d53c202-ff7e-44f8-a38f-478267032742
 1 NAME Nicolás /de Erazo y Diez de Fuenmayor/
 2 SOUR @G8TESznJRGCKBg1WwF0w@
@@ -1434,6 +1491,7 @@
 1 DEAT
 2 DATE AFT 1745
 0 @I110@ INDI
+1 _XY 4341 906
 1 REFN 5f270b93-cb99-4cb4-aa51-ff4a0dba69fd
 1 NAME José /de Erazo y Fuenmayor/
 2 SOUR @G8TESznJRGCKBg1WwF0w@
@@ -1447,6 +1505,7 @@
 2 DATE ABT 1679
 2 PLAC Pasto, Nariño, Colombia
 0 @I111@ INDI
+1 _XY 5434 418
 1 REFN e7aaa23d-4a05-40ab-9a40-e76b35ab6544
 1 NAME Vicente /de Insuasti/
 2 SOUR @G8TESznJRGCKBg1WwF0w@
@@ -1463,6 +1522,7 @@
 4 LATI N43.1667
 4 LONG W2.7667
 0 @I112@ INDI
+1 _XY 8266 330
 1 REFN 674c9a26-923f-4fd6-b54c-098e97af9390
 1 NAME Leonor /de Leyba/
 2 SOUR @G8TESznJRGCKBg1WwF0w@
@@ -1473,6 +1533,7 @@
 1 SEX F
 1 FAMS @F42@
 0 @I113@ INDI
+1 _XY 7755 624
 1 REFN 59aa9799-f4d6-4433-a39c-59eaf6a76c4c
 1 NAME Ana María /de Oviedo/
 2 SOUR @G8TESznJRGCKBg1WwF0w@
@@ -1483,6 +1544,7 @@
 1 SEX F
 1 FAMC @F43@
 0 @I114@ INDI
+1 _XY 7791 324
 1 REFN 2537a2a2-72be-4381-8793-0df4d69e3b35
 1 NAME Rodrigo /de Valverde/
 2 SOUR @G8TESznJRGCKBg1WwF0w@
@@ -1495,6 +1557,7 @@
 1 BIRT
 2 PLAC Torrenueva, Ciudad Real, Castilla-La Mancha, España
 0 @I115@ INDI
+1 _XY 8111 515
 1 REFN 53a833f0-ad65-428a-a8e8-6211822104d4
 1 NAME Petronila /del Campo y Fernández Floriano/
 2 SOUR @G8TESznJRGCKBg1WwF0w@
@@ -1509,6 +1572,7 @@
 2 DATE 1550
 2 PLAC Plasencia, Extremadura, España
 0 @I116@ INDI
+1 _XY 8453 130
 1 REFN 827a6fbc-3a05-4111-8753-5c6670b8afd1
 1 NAME Alonso /del Campo/
 2 SOUR @G8TESznJRGCKBg1WwF0w@
@@ -1522,6 +1586,7 @@
 1 BIRT
 2 PLAC Villafrechós, Valladolid, Castilla-Leon, España
 0 @I117@ INDI
+1 _XY 8453 422
 1 REFN 3c733c8d-a46a-43a3-b453-6f21c4fa4c59
 1 NAME Isabel /del Campo/
 2 SOUR @G8TESznJRGCKBg1WwF0w@
@@ -1535,6 +1600,7 @@
 1 BIRT
 2 DATE ABT 1531
 0 @I118@ INDI
+1 _XY 8453 230
 1 REFN 9e87b957-173a-4761-ac2f-1f51fe7f9195
 1 NAME Luis /del Campo/
 2 SOUR @G8TESznJRGCKBg1WwF0w@
@@ -1546,6 +1612,7 @@
 1 FAMC @F46@
 1 FAMS @F48@
 0 @I119@ INDI
+1 _XY 8453 30
 1 REFN 27804fb7-d750-456a-a350-e7f714ecdd92
 1 NAME Pedro /del Campo/
 2 SOUR @G8TESznJRGCKBg1WwF0w@
@@ -1556,6 +1623,7 @@
 1 SEX M
 1 FAMS @F27@
 0 @I121@ INDI
+1 _XY 5806 519
 1 REFN 6dfe1e69-8bb7-4e36-ad5d-47e32a1827d1
 1 NAME Catalina /Diez de Fuenmayor y Benalcázar/
 2 SOUR @G8TESznJRGCKBg1WwF0w@
@@ -1578,6 +1646,7 @@
 4 LATI N3.9022
 4 LONG W76.3028
 0 @I120@ INDI
+1 _XY 6009 518
 1 REFN ed66971a-9e77-4d8f-94a1-f11e237602de
 1 NAME Isabel /Diez de Fuenmayor y Benalcázar/
 2 SOUR @G8TESznJRGCKBg1WwF0w@
@@ -1592,6 +1661,7 @@
 2 DATE ABT 1544
 2 PLAC Santiago de Cali, Valle del Cauca, Colombia
 0 @I122@ INDI
+1 _XY 6308 607
 1 REFN 5087b9ff-041e-4b9a-be3c-31396780d6c2
 1 NAME Alonso /Diez de Fuenmayor y Diez de Fuenmayor/
 2 SOUR @G8TESznJRGCKBg1WwF0w@
@@ -1608,6 +1678,7 @@
 2 DATE AFT 1632
 2 PLAC Buga, Valle, Colombia
 0 @I123@ INDI
+1 _XY 6886 615
 1 REFN 53d102f9-97ea-4aea-affb-153a69178321
 1 NAME Ana /Diez de Fuenmayor y Diez de Fuenmayor/
 2 SOUR @G8TESznJRGCKBg1WwF0w@
@@ -1621,6 +1692,7 @@
 2 DATE ABT 1570
 2 PLAC Buga, Valle, Colombia
 0 @I124@ INDI
+1 _XY 6115 615
 1 REFN 401b2cc2-8419-4ba4-ab74-4b7f79c7d641
 1 NAME Diego /Diez de Fuenmayor y Diez de Fuenmayor/
 2 SOUR @G8TESznJRGCKBg1WwF0w@
@@ -1635,6 +1707,7 @@
 2 DATE ABT 1562
 2 PLAC Buga, Valle, Colombia
 0 @I125@ INDI
+1 _XY 7264 600
 1 REFN 597d7564-06fd-44f2-b2ce-3ae765d6836b
 1 NAME Diego Gaspar /Diez de Fuenmayor y Diez de Fuenmayor/
 2 SOUR @G8TESznJRGCKBg1WwF0w@
@@ -1651,6 +1724,7 @@
 1 DEAT
 2 DATE 1633
 0 @I126@ INDI
+1 _XY 6504 615
 1 REFN c4023468-823f-4473-9cef-b0426a7ee2cf
 1 NAME Juan /Diez de Fuenmayor y Diez de Fuenmayor/
 2 SOUR @G8TESznJRGCKBg1WwF0w@
@@ -1664,6 +1738,7 @@
 2 DATE ABT 1566
 2 PLAC Buga, Valle, Colombia
 0 @I127@ INDI
+1 _XY 6690 615
 1 REFN 0df3503c-d630-4955-bfd8-f9c422f3810c
 1 NAME Leonor /Diez de Fuenmayor y Diez de Fuenmayor/
 2 SOUR @G8TESznJRGCKBg1WwF0w@
@@ -1677,6 +1752,7 @@
 2 DATE ABT 1568
 2 PLAC Buga, Valle, Colombia
 0 @I128@ INDI
+1 _XY 7069 607
 1 REFN 94fa01d7-2003-4f3a-ba8d-b08ab56a7a3a
 1 NAME Rodrigo /Diez de Fuenmayor y Diez de Fuenmayor/
 2 SOUR @G8TESznJRGCKBg1WwF0w@
@@ -1692,6 +1768,7 @@
 1 DEAT
 2 DATE BEF 1629
 0 @I129@ INDI
+1 _XY 7077 700
 1 REFN 9c0caa9c-1155-4c56-9d70-493c51bcd8ad
 1 NAME Bernanrdino /Diez de Fuenmayor y Ramírez del Campo/
 2 SOUR @G8TESznJRGCKBg1WwF0w@
@@ -1707,6 +1784,7 @@
 1 DEAT
 2 DATE ABT 07 JAN 1636
 0 @I130@ INDI
+1 _XY 7259 715
 1 REFN 69ff198c-1603-459c-a3eb-6d99d06241d6
 1 NAME Gaspar /Diez de Fuenmayor y Ramírez del Campo/
 2 SOUR @G8TESznJRGCKBg1WwF0w@
@@ -1721,6 +1799,7 @@
 2 DATE 1614
 2 PLAC Pasto, Nariño, Colombia
 0 @I131@ INDI
+1 _XY 6521 722
 1 REFN c71cd253-ee62-4315-a2b7-972a77b4bc93
 1 NAME Isabel /Diez de Fuenmayor y Ramírez del Campo/
 2 SOUR @G8TESznJRGCKBg1WwF0w@
@@ -1733,6 +1812,7 @@
 1 BIRT
 2 PLAC Santiago de Cali, Valle del Cauca, Colombia
 0 @I132@ INDI
+1 _XY 7454 707
 1 REFN 17cfee74-226c-49e7-ad8c-587ec5432765
 1 NAME Marcela /Diez de Fuenmayor y Ramírez del Campo/
 2 SOUR @G8TESznJRGCKBg1WwF0w@
@@ -1748,6 +1828,7 @@
 1 DEAT
 2 DATE BEF 1683
 0 @I133@ INDI
+1 _XY 6895 700
 1 REFN 375f338a-c556-4c8d-b436-f7fa89210216
 1 NAME Martín Diego /Diez de Fuenmayor y Ramírez del Campo/
 2 SOUR @G8TESznJRGCKBg1WwF0w@
@@ -1763,6 +1844,7 @@
 1 DEAT
 2 DATE 02 JUL 1675
 0 @I134@ INDI
+1 _XY 6713 707
 1 REFN 7b6d1f38-ea3a-48f5-a628-4e918f4c3f46
 1 NAME Sebastián /Diez de Fuenmayor y Ramírez del Campo/
 2 SOUR @G8TESznJRGCKBg1WwF0w@
@@ -1777,6 +1859,7 @@
 1 BIRT
 2 PLAC Santiago de Cali, Valle del Cauca, Colombia
 0 @I135@ INDI
+1 _XY 5929 373
 1 REFN c6fb3fc1-3e85-4d4f-b8b2-9acb3a499d8e
 1 NAME Alonso /Diez de Fuenmayor/
 2 SOUR @G8TESznJRGCKBg1WwF0w@
@@ -1793,6 +1876,7 @@
 2 DATE ABT 1604
 2 PLAC Santiago de Cali, Valle del Cauca, Colombia
 0 @I136@ INDI
+1 _XY 7085 865
 1 REFN 8d0477d0-0773-4496-842c-76136a772d64
 1 NAME Florentina /Diez de Fuenmayor/
 2 SOUR @G8TESznJRGCKBg1WwF0w@
@@ -1807,6 +1891,7 @@
 2 DATE 1652
 2 PLAC Pasto, Nariño, Colombia
 0 @I137@ INDI
+1 _XY 7589 865
 1 REFN c7ce7c67-01e2-4024-9134-f097a39f2075
 1 NAME Gaspar Carlos /Diez de Fuenmayor/
 2 SOUR @G8TESznJRGCKBg1WwF0w@
@@ -1820,6 +1905,7 @@
 2 DATE 1651
 2 PLAC Pasto, Nariño, Colombia
 0 @I138@ INDI
+1 _XY 7397 872
 1 REFN 423bbea1-815c-404e-82f8-4ce81de41bef
 1 NAME Lorenzo /Diez de Fuenmayor/
 2 SOUR @G8TESznJRGCKBg1WwF0w@
@@ -1833,6 +1919,7 @@
 2 DATE 1648
 2 PLAC Pasto, Nariño, Colombia
 0 @I139@ INDI
+1 _XY 7228 857
 1 REFN fb983492-9fc0-4f46-929c-6a10e227603a
 1 NAME Martín Alfonso /Diez de Fuenmayor/
 2 SOUR @G8TESznJRGCKBg1WwF0w@
@@ -1848,6 +1935,7 @@
 1 DEAT
 2 DATE 28 APR 1720
 0 @I140@ INDI
+1 _XY 7751 865
 1 REFN 8a3b38f8-1d39-4413-916d-843ba7041670
 1 NAME Petronila /Diez de Fuenmayor/
 2 SOUR @G8TESznJRGCKBg1WwF0w@
@@ -1861,6 +1949,7 @@
 2 DATE 1653
 2 PLAC Pasto, Nariño, Colombia
 0 @I141@ INDI
+1 _XY 6212 518
 1 REFN b06b47a1-061d-4f53-b5fb-58b24ec8cd4e
 1 NAME Rodrigo /Diez de Fuenmayor/
 2 SOUR @G8TESznJRGCKBg1WwF0w@
@@ -1877,6 +1966,7 @@
 2 DATE 1599
 2 PLAC Buga, Valle, Colombia
 0 @I142@ INDI
+1 _XY 8453 330
 1 REFN df655d66-426a-4de9-9a84-308107d1573a
 1 NAME Francisco /Díaz del Campo/
 2 SOUR @G8TESznJRGCKBg1WwF0w@
@@ -1890,6 +1980,7 @@
 1 BIRT
 2 PLAC Villafrechós, Valladolid, Castilla-Leon, España
 0 @I143@ INDI
+1 _XY 8563 230
 1 REFN 78c6eb0c-4493-44dd-9c38-44560896869c
 1 NAME Leonor /Díaz/
 2 SOUR @G8TESznJRGCKBg1WwF0w@
@@ -1902,7 +1993,7 @@
 1 BIRT
 2 PLAC Liébana, Cantabria, España
 0 @I144@ INDI
-1 _XY 1119 90
+1 _XY 794 1522
 1 REFN c0abad42-0e3b-4d88-b6e9-02f5429d2606
 1 NAME Joaquín /Donoso Ortiz/
 2 SOUR @S71@
@@ -1922,7 +2013,7 @@
 4 LONG W78.5
 2 SOUR @S72@
 0 @I145@ INDI
-1 _XY 1012 30
+1 _XY 699 1431
 1 REFN 4c261fe2-a4f1-42e2-9061-d8f4782fe2d3
 1 NAME Diego Mariano Ambrosio /Donoso y Chiriboga/
 2 SOUR @G8TESznJRGCKBg1WwF0w@
@@ -1955,7 +2046,7 @@
 4 LATI S1.6667
 4 LONG W78.6334
 0 @I146@ INDI
-1 _XY 1078 180
+1 _XY 1237 1642
 1 REFN e7cea020-3b2a-4eab-b3ee-99abbc38f63f
 1 NAME Adela /Donoso/
 2 SOUR @S68@
@@ -1970,7 +2061,7 @@
 4 LONG W78.5
 2 SOUR @S71@
 0 @I147@ INDI
-1 _XY 1254 179
+1 _XY 710 1641
 1 REFN c8a5ed35-b439-4bf0-8eb4-0b09ee2eccab
 1 NAME Antonio /Donoso/
 2 SOUR @S74@
@@ -1984,7 +2075,7 @@
 4 LONG W79.7333
 2 SOUR @S74@
 0 @I148@ INDI
-1 _XY 1154 180
+1 _XY 850 1650
 1 REFN fd0ef36e-6d18-4c41-919a-c6dbbe0db906
 1 NAME Camila /Donoso/
 2 SOUR @S68@
@@ -1992,7 +2083,7 @@
 1 SEX F
 1 FAMC @F55@
 0 @I149@ INDI
-1 _XY 900 180
+1 _XY 977 1642
 1 REFN af404ae6-f4a2-4014-927f-78b71fb0c705
 1 NAME Modesto /Donoso/
 2 SOUR @S68@
@@ -2007,7 +2098,7 @@
 4 LONG W78.5
 2 SOUR @S71@
 0 @I150@ INDI
-1 _XY 995 179
+1 _XY 1114 1642
 1 REFN a9403471-42a4-4452-bc8a-a607c73fb9f7
 1 NAME Teresa /Donoso/
 2 SOUR @S68@
@@ -2022,7 +2113,7 @@
 4 LONG W78.5
 2 SOUR @S71@
 0 @cIbRXenQRiq6juLUmspF@ INDI
-1 _XY 172945 3263
+1 _XY 2785 1977
 1 REFN f93133fe-86bc-44f0-b105-8cb46f2636a5
 1 NAME Enid /Espinosa/
 1 SEX F
@@ -2030,6 +2121,7 @@
 1 BIRT
 2 DATE ABT 1885
 0 @I151@ INDI
+1 _XY 2218 1035
 1 REFN 166604ba-9dc1-4c50-9296-72abe388a684
 1 NAME Bernardo /Fernández de Antesana/
 2 SOUR @G8TESznJRGCKBg1WwF0w@
@@ -2040,6 +2132,7 @@
 1 SEX M
 1 FAMS @F25@
 0 @I152@ INDI
+1 _XY 8111 415
 1 REFN cb918708-6e43-4fb7-9f18-c12f8088185a
 1 NAME Francisco /Fernández Floriano/
 2 SOUR @G8TESznJRGCKBg1WwF0w@
@@ -2065,6 +2158,7 @@
 3 _APID 1,7486::1609447
 3 PAGE Place: New Granada; Year: 1555; Page Number: 228
 0 @I153@ INDI
+1 _XY 8111 330
 1 REFN f27f6015-5ab3-466b-bb0f-6f2d19cffc63
 1 NAME Juan /Fernández Floriano/
 2 SOUR @G8TESznJRGCKBg1WwF0w@
@@ -2075,6 +2169,7 @@
 1 SEX M
 1 FAMS @F42@
 0 @I154@ INDI
+1 _XY 2126 1131
 1 REFN 9097a4c2-c68f-4453-b025-92b8a012aad9
 1 NAME María Nicolasa /Fernández y Benies/
 2 SOUR @G8TESznJRGCKBg1WwF0w@
@@ -2085,6 +2180,7 @@
 1 SEX F
 1 FAMC @F25@
 0 @I156@ INDI
+1 _XY 6136 722
 1 REFN 31b5bdbc-1918-4bd3-b8fa-496778af79d9
 1 NAME Diego /Fuenmayor y Peguero/
 2 SOUR @G8TESznJRGCKBg1WwF0w@
@@ -2098,6 +2194,7 @@
 2 DATE ABT 1595
 2 PLAC Buga, Valle, Colombia
 0 @I157@ INDI
+1 _XY 6332 715
 1 REFN 88caea8c-c149-4d4c-92db-773f5a8e58b4
 1 NAME Juan /Fuenmayor y Peguero/
 2 SOUR @G8TESznJRGCKBg1WwF0w@
@@ -2114,6 +2211,7 @@
 2 DATE 1686
 2 PLAC Buga, Valle, Colombia
 0 @I158@ INDI
+1 _XY 5941 722
 1 REFN 92765fc3-08bb-4647-8e39-b7e0c3ac2009
 1 NAME María /Fuenmayor y Peguero/
 2 SOUR @G8TESznJRGCKBg1WwF0w@
@@ -2127,6 +2225,7 @@
 2 DATE ABT 1594
 2 PLAC Buga, Valle, Colombia
 0 @I159@ INDI
+1 _XY 3282 507
 1 REFN bb3da81d-9227-4537-93c0-309b773441e1
 1 NAME Francisco /Gamarra Sarmiento/
 2 SOUR @G8TESznJRGCKBg1WwF0w@
@@ -2141,6 +2240,7 @@
 1 DEAT
 2 PLAC Pasto, Nariño, Colombia
 0 @I160@ INDI
+1 _XY 3282 607
 1 REFN bcc51310-2a2c-4c9d-a56e-2ca02e76a133
 1 NAME Francisca Beatriz /Gamarra y Zúñiga/
 2 SOUR @G8TESznJRGCKBg1WwF0w@
@@ -2156,6 +2256,7 @@
 1 DEAT
 2 PLAC Pasto, Nariño, Colombia
 0 @I161@ INDI
+1 _XY 7561 324
 1 REFN e6eb1245-1e2a-44e7-8b7b-257141b3a131
 1 NAME Alonso /González/
 2 SOUR @G8TESznJRGCKBg1WwF0w@
@@ -2168,6 +2269,7 @@
 1 BIRT
 2 PLAC Membrilla, Toledo, Espana
 0 @I162@ INDI
+1 _XY 8869 222
 1 REFN b7c89d8e-73bc-4cdb-9c8b-489c19d9c565
 1 NAME Beatriz /Gómez/
 2 SOUR @G8TESznJRGCKBg1WwF0w@
@@ -2185,6 +2287,7 @@
 4 LATI N40.35
 4 LONG W5.5167
 0 @I163@ INDI
+1 _XY 8758 322
 1 REFN 5fc8f0ff-6c1b-44f1-aa81-2ff99a95314d
 1 NAME Beatriz /Gómez/
 2 SOUR @G8TESznJRGCKBg1WwF0w@
@@ -2199,6 +2302,7 @@
 2 DATE ABT 1495
 2 PLAC Plasencia, Caceres, Extremadura, España
 0 @I164@ INDI
+1 _XY 8758 222
 1 REFN 6b099187-1602-4634-a8ce-e9af2805942c
 1 NAME Jorge /Gómez/
 2 SOUR @G8TESznJRGCKBg1WwF0w@
@@ -2216,7 +2320,7 @@
 4 LATI N40.35
 4 LONG W5.5167
 0 @I165@ INDI
-1 _XY 665 273
+1 _XY 1373 1684
 1 REFN 6b10f95a-5352-4f2a-b544-94bcd16d774d
 1 NAME Amalia /Hurtado Zambrano/
 2 SOUR @S68@
@@ -2240,7 +2344,7 @@
 4 LONG W78.5
 2 SOUR @S68@
 0 @I166@ INDI
-1 _XY 607 96
+1 _XY 1459 1529
 1 REFN 8197e007-47c8-444f-9a7c-b0d249bc1c4b
 1 NAME [unknown] /Hurtado/
 2 SOUR @S68@
@@ -2253,6 +2357,7 @@
 2 PLAC Los Ríos, Ecuador
 2 SOUR @S68@
 0 @I167@ INDI
+1 _XY 5585 90
 1 REFN df41ecdd-7570-43b7-86fd-9fac29f59d9b
 1 NAME Anserma /India/
 2 SOUR @G8TESznJRGCKBg1WwF0w@
@@ -2263,6 +2368,7 @@
 1 SEX F
 1 FAMS @F63@
 0 @I168@ INDI
+1 _XY 5310 178
 1 REFN 951064cc-4c5e-4d35-a9f0-c2d706c06ef9
 1 NAME Catalina /India/
 2 SOUR @G8TESznJRGCKBg1WwF0w@
@@ -2276,6 +2382,7 @@
 2 DATE 1505
 2 PLAC Nicaragua
 0 @I169@ INDI
+1 _XY 5580 186
 1 REFN a91b92b3-99b8-4df4-9483-e3643bb85a34
 1 NAME Leonor /India/
 2 SOUR @G8TESznJRGCKBg1WwF0w@
@@ -2288,6 +2395,7 @@
 1 BIRT
 2 PLAC Panamá, Panamá
 0 @I170@ INDI
+1 _XY 5470 479
 1 REFN ea1564ad-3338-425c-bc5c-88b932da20e7
 1 NAME Catalina /Insuasti Benalcázar/
 2 SOUR @G8TESznJRGCKBg1WwF0w@
@@ -2307,7 +2415,7 @@
 4 LATI N0.35
 4 LONG W78.1167
 0 @ZcSGLg2cTTWnz1GaM2o9@ INDI
-1 _XY 173461 3360
+1 _XY 3346 2159
 1 REFN 5ccb0439-0d95-4db0-a7b1-56797c022a5e
 1 NAME Margarita Cecilia /López Villanueva/
 2 SOUR @S64@
@@ -2333,13 +2441,13 @@
 4 CONC a de la Chiquinquirá y San Juan de Dios, Maracaibo, Zulia
 4 CONC , Venezuela, parroquias
 0 @prTbcfE9SrCQ6cfpCO7h@ INDI
-1 _XY 172768 3360
+1 _XY 2844 2165
 1 REFN 0394761d-7e0b-4bdc-a4c4-b2e9159ac71a
 1 NAME Alicia /López/
 1 SEX F
 1 FAMC @KjS0id0VT222TBWVkqOg@
 0 @6aeVf5NSTjWavUj0L48r@ INDI
-1 _XY 173058 3250
+1 _XY 2901 1970
 1 REFN a36b9459-5e27-4781-a336-93e0a7241a73
 1 NAME Aquiles /López/
 2 SOUR @S81@
@@ -2609,21 +2717,21 @@
 2 SOUR @S68@
 3 QUAY 1
 0 @I171@ INDI
-1 _XY 157 142
+1 _XY 2123 1368
 1 REFN 737b79c9-ed1a-4abe-b5c0-c57685310f60
 1 NAME Camila /López/
 2 SOUR @S68@
 1 SEX F
 1 FAMC @F65@
 0 @I172@ INDI
-1 _XY 160 273
+1 _XY 1813 1699
 1 REFN 45ddcab7-4fc0-467b-9a51-bde9f3e5d301
 1 NAME Carlos /López/
 2 SOUR @S68@
 1 SEX M
 1 FAMC @F21@
 0 @4CmHCHL9SeWqrg5IQwEM@ INDI
-1 _XY 171877 3250
+1 _XY 2357 1768
 1 REFN 870f9461-40fc-4e91-890a-dac826545baf
 1 NAME Carlos /López/
 2 SOUR @S68@
@@ -2636,7 +2744,7 @@
 2 SOUR @7hzCF6rURECkbdc8IJaU@
 3 QUAY 1
 0 @I173@ INDI
-1 _XY 265 142
+1 _XY 2003 1353
 1 REFN 4848199e-b999-4d0f-8b48-d40d285d5e41
 1 NAME Dolores /López/
 2 SOUR @S68@
@@ -2707,7 +2815,7 @@
 4 LONG W78.5163
 2 SOUR @S68@
 0 @MXy97gGiR8OdDYExTOv7@ INDI
-1 _XY 173695 3250
+1 _XY 3872 1989
 1 REFN 546c81e8-3a75-45a9-b6e9-65abf3520283
 1 NAME Dolores /López/
 2 SOUR @Z0SQaG1kRbWQtiKMUjof@
@@ -2940,7 +3048,7 @@
 2 NOTE show as Dolores Zilker (I am just assuming that this is righ
 3 CONC t Dolores, because birth and death dates match)
 0 @I174@ INDI
-1 _XY 575 413
+1 _XY 1661 1921
 1 REFN ba7669c9-57c0-49c8-b0c0-b36c7f4fe8d7
 1 NAME Dolores Malvina /López/
 2 SOUR @S68@
@@ -2961,7 +3069,7 @@
 4 LONG W78.5
 2 SOUR @S68@
 0 @M2VYIcfGShuHHjLxRLLO@ INDI
-1 _XY 172286 3250
+1 _XY 2078 1970
 1 REFN fe9a8417-4b2c-4108-a56e-76147cd72175
 1 NAME Dolores Olympia /López/
 2 SOUR @S68@
@@ -2985,7 +3093,7 @@
 2 SOUR @S68@
 3 QUAY 1
 0 @t1pW5s3GTzqlEPfJTbOL@ INDI
-1 _XY 172659 3250
+1 _XY 2364 1970
 1 REFN 08c98db7-c65e-4ab9-9b9d-a5823834074a
 1 NAME Eloyísa /López/
 2 SOUR @Z0SQaG1kRbWQtiKMUjof@
@@ -3192,13 +3300,13 @@
 2 SOUR @S68@
 3 QUAY 1
 0 @fv0n8R3TSkK0bmwnSXdA@ INDI
-1 _XY 172871 3360
+1 _XY 2741 2165
 1 REFN 56a556da-62fb-4558-9f4c-ae09397028e3
 1 NAME Enid /López/
 1 SEX F
 1 FAMC @KjS0id0VT222TBWVkqOg@
 0 @xIbKHbuVTlWiV0hBbeI7@ INDI
-1 _XY 172440 3250
+1 _XY 2246 1970
 1 REFN a5fab8d4-0403-4d45-a909-ecb490581ada
 1 NAME Estenio /López/
 2 SOUR @S68@
@@ -3222,7 +3330,7 @@
 2 SOUR @S68@
 2 NOTE of wounds obtained in a military battle
 0 @y4408aI7RySfx8XbRwvy@ INDI
-1 _XY 204 305
+1 _XY 2288 1684
 1 REFN ac139ee4-c9a3-40d7-a8c7-7a6060a645d5
 1 NAME Felicísimo /López/
 2 SOUR @zznD1WJ7RJetSxS9JJ2R@
@@ -3748,7 +3856,7 @@
 3 QUAY 1
 2 SOUR @VfFgMYfGS9eDLgFo6tfB@
 0 @I175@ INDI
-1 _XY 434 273
+1 _XY 1636 1684
 1 REFN 36b7b80b-98ad-40da-8b5e-3a4155516222
 1 NAME Francisco Mariano /López/
 1 SEX M
@@ -3769,14 +3877,14 @@
 4 LONG W78.5
 2 SOUR @S68@
 0 @I176@ INDI
-1 _XY 93 174
+1 _XY 2240 1368
 1 REFN b01f6a83-6303-4178-986d-c2f2120a983c
 1 NAME Gregoria /López/
 2 SOUR @S68@
 1 SEX F
 1 FAMC @F65@
 0 @NaIT2nB5R8G9YqCemqbB@ INDI
-1 _XY 173399 3250
+1 _XY 3284 2054
 1 REFN 870d6f88-cb55-4dc9-b155-5b9a1a2f95fc
 1 NAME Hector Samuel /López/
 2 SOUR @pZSp306qQOGHvPqm0c60@
@@ -5065,14 +5173,14 @@
 2 SOUR @S68@
 3 QUAY 1
 0 @I177@ INDI
-1 _XY 347 273
+1 _XY 1926 1699
 1 REFN 77b6c54a-0f00-459a-84e4-5551642ba792
 1 NAME Joaquín /López/
 2 SOUR @S68@
 1 SEX M
 1 FAMC @F21@
 0 @I178@ INDI
-1 _XY 371 413
+1 _XY 1422 1921
 1 REFN 18fb523d-b435-43e8-b33d-373b8dc1c886
 1 NAME Julia /López/
 2 SOUR @S68@
@@ -5093,7 +5201,7 @@
 4 LONG W78.5
 2 SOUR @S68@
 0 @I179@ INDI
-1 _XY 455 413
+1 _XY 1525 1921
 1 REFN 21a9997a-f44e-41c3-a7f4-d8498f3165f0
 1 NAME Julio César /López/
 2 SOUR @S68@
@@ -5114,7 +5222,7 @@
 4 LONG W78.5
 2 SOUR @S68@
 0 @1C3rIQUbRIOk40Lcs7MR@ INDI
-1 _XY 166 477
+1 _XY 1936 1972
 1 REFN 1b5b6e74-7605-445e-bce4-91fd39e89553
 1 NAME Lelia /López/
 2 SOUR @zznD1WJ7RJetSxS9JJ2R@
@@ -5446,7 +5554,7 @@
 2 TYPE note
 2 NOTE she remained a citizen of Ecuador her whole life
 0 @I181@ INDI
-1 _XY 61 69
+1 _XY 2211 1267
 1 REFN cf418531-cb55-4c14-b82e-1c070f3191b0
 1 NAME Lorenzo /López/
 2 SOUR @S68@
@@ -5456,7 +5564,7 @@
 1 BIRT
 2 DATE ABT 1790
 0 @T46ONNPWS42AsEogaSOu@ INDI
-1 _XY 172779 3250
+1 _XY 2605 1962
 1 REFN 2f91e775-889a-46ce-9730-9a8fcc10e19f
 1 NAME Miguel Angel /López/
 2 SOUR @S63@
@@ -5535,27 +5643,27 @@
 2 SOUR @S68@
 3 QUAY 1
 0 @I182@ INDI
-1 _XY 268 273
+1 _XY 2047 1699
 1 REFN a1e4b37e-1b09-4884-bfc3-1344dc61b5e2
 1 NAME Nicolás /López/
 2 SOUR @S68@
 1 SEX M
 1 FAMC @F21@
 0 @HAYOXGGYSyeeyhariRKI@ INDI
-1 _XY 172970 3360
+1 _XY 2636 2165
 1 REFN 053d593b-ac66-4569-9812-31b98fbf87ad
 1 NAME Olga /López/
 1 SEX F
 1 FAMC @KjS0id0VT222TBWVkqOg@
 0 @I183@ INDI
-1 _XY 40 142
+1 _XY 2365 1368
 1 REFN 3584b62c-f541-422d-a403-0c21cb103243
 1 NAME Pacífica /López/
 2 SOUR @S68@
 1 SEX F
 1 FAMC @F65@
 0 @lfzXmEJlR7yx4R6MSYy4@ INDI
-1 _XY 173102 3360
+1 _XY 2948 2151
 1 REFN f54bfbbf-a9f4-4a17-bd6d-1db2952e304a
 1 NAME Robert A. /López/
 2 SOUR @pZSp306qQOGHvPqm0c60@
@@ -5697,21 +5805,21 @@
 3 _APID 1,5180::14566074
 3 PAGE Date: 1984-02-26
 0 @I184@ INDI
-1 _XY 208 174
+1 _XY 2486 1368
 1 REFN 032d8ed2-8762-4289-b16e-25cc986dc1ee
 1 NAME Rosario /López/
 2 SOUR @S68@
 1 SEX F
 1 FAMC @F65@
 0 @sZfFfcdfR6i8oeEOmcHP@ INDI
-1 _XY 172662 3360
+1 _XY 2526 2165
 1 REFN 9c15c519-1a96-4d1c-afa6-cbe7f8f11874
 1 NAME Ulises /López/
 1 SEX M
 1 FAMC @KjS0id0VT222TBWVkqOg@
 1 FAMS @HaQjByxJQbeJhpJGL9ai@
 0 @gbOkUQZ3S6iP3G5QQpd8@ INDI
-1 _XY 172553 3250
+1 _XY 2488 1970
 1 REFN c11d9537-9e6b-4567-86c1-cfc02e17bdf8
 1 NAME Ulises /López/
 2 SOUR @S68@
@@ -5752,12 +5860,13 @@
 2 SOUR @S68@
 3 QUAY 1
 0 @ExDZxRYgTCWBJ19SGxAE@ INDI
-1 _XY 171941 3173
+1 _XY 2403 1691
 1 REFN 446511c7-e446-41a6-8a2d-21e64536e43e
 1 NAME unknown partner of Felicísimo /López/
 1 SEX F
 1 FAMS @NFIwsVBuTjOSRokJd8v0@
 0 @I185@ INDI
+1 _XY 8009 430
 1 REFN d12a1501-394c-445b-b41c-aea44440f371
 1 NAME Lucía /Martín/
 2 SOUR @G8TESznJRGCKBg1WwF0w@
@@ -5768,6 +5877,7 @@
 1 SEX F
 1 FAMS @F56@
 0 @I186@ INDI
+1 _XY 5417 171
 1 REFN 3a9f989b-d46c-4aea-a123-9b2af7cd3f93
 1 NAME Sebastián /Moyano/
 2 SOUR @G8TESznJRGCKBg1WwF0w@
@@ -5787,6 +5897,7 @@
 2 DATE 30 APR 1551
 2 PLAC Cartagena de Indias, Colombia
 0 @I187@ INDI
+1 _XY 7791 424
 1 REFN 894c879f-6e6d-46f2-9ef4-11857f920b2b
 1 NAME Maria /Nuñez de Oviedo/
 2 SOUR @G8TESznJRGCKBg1WwF0w@
@@ -5800,6 +5911,7 @@
 1 BIRT
 2 PLAC Membrilla, Toledo, Espana
 0 @I188@ INDI
+1 _XY 7924 324
 1 REFN fdf32243-834a-4d2c-b006-e87d58becee5
 1 NAME María /Núñez/
 2 SOUR @G8TESznJRGCKBg1WwF0w@
@@ -5812,18 +5924,20 @@
 1 BIRT
 2 PLAC Torrenueva, Ciudad Real, Castilla-La Mancha, España
 0 @I189@ INDI
-1 _XY 1179 42
+1 _XY 877 1454
 1 REFN b28ece98-e1c2-4b80-a023-a14c27419190
 1 NAME Sarafina /Ortiz/
 2 SOUR @S71@
 1 SEX F
 1 FAMS @F53@
 0 @I190@ INDI
+1 _XY 1566 1295
 1 REFN 3982de0a-e7db-4ec4-8035-b4bcfe7044a6
 1 NAME /Paliz/
 1 SEX F
 1 FAMS @F18@
 0 @I191@ INDI
+1 _XY 302 1598
 1 REFN 3a368c79-cb81-4b2e-be21-ef62a8bf70ed
 1 NAME /Paz y Miño/
 1 SEX M
@@ -5837,7 +5951,7 @@
 4 LONG W78.5
 2 NOTE Just a guess based on birth of son Ramon, 1855.
 0 @I192@ INDI
-1 _XY 799 279
+1 _XY 415 1686
 1 REFN e0565871-9cda-400d-bf7e-de6f62248f09
 1 NAME José Manuel /Paz y Miño/
 2 SOUR @S68@
@@ -5988,7 +6102,7 @@
 4 LONG W78.5
 2 SOUR @S68@
 0 @I193@ INDI
-1 _XY 965 279
+1 _XY 287 1687
 1 REFN 82cad4c3-de97-4c9e-b4a3-29cf70f4c310
 1 NAME Ramón /Paz y Miño/
 2 SOUR @S68@
@@ -6005,6 +6119,7 @@
 2 SOUR @S73@
 3 QUAY 1
 0 @BWtACvWjTEOJhfN1lpVU@ INDI
+1 _XY 1176 2166
 1 REFN 16a56ce3-6b6f-4eda-99f1-fec798f7de74
 1 NAME Alberto Augusto /Pazmiño/
 1 SEX M
@@ -6014,6 +6129,7 @@
 1 DEAT
 2 DATE 24 AUG 1986
 0 @j1yCKUy8RY2O8Xjdk7B7@ INDI
+1 _XY 681 2166
 1 REFN 3787c013-2c9e-4f18-810e-ed02a1f65137
 1 NAME Alfredo Ulises /Pazmiño/
 1 SEX M
@@ -6023,7 +6139,7 @@
 1 DEAT
 2 DATE 16 NOV 1953
 0 @I194@ INDI
-1 _XY 822 477
+1 _XY 347 1979
 1 REFN 8de8458e-2dca-4a2d-80ce-0ab5be981d9a
 1 NAME Diocelina /Pazmiño/
 2 SOUR @S68@
@@ -6043,6 +6159,7 @@
 4 LONG W78.5
 2 SOUR @S68@
 0 @4p97S4PRROqpAsXPq5TW@ INDI
+1 _XY 1358 2166
 1 REFN 0212f1de-4ba1-4347-8fbd-5642f6d1ed2c
 1 NAME Graciela Elena /Pazmiño/
 1 SEX F
@@ -6056,6 +6173,7 @@
 1 DEAT
 2 DATE 26 JUL 1992
 0 @rAtpdJIvTMiVe7kpmsMB@ INDI
+1 _XY 1526 2173
 1 REFN b57ebd1f-373c-41ec-9287-021ddd9cb07e
 1 NAME Jorge Huberto /Pazmiño/
 1 SEX M
@@ -6063,6 +6181,7 @@
 1 BIRT
 2 DATE 04 MAR 1913
 0 @WoxchgtUThaqilYvgwn2@ INDI
+1 _XY 529 2166
 1 REFN 54162e9d-6e2e-4fd9-b65e-bb5ffe20d3e4
 1 NAME Lelia Estela /Pazmiño/
 1 SEX F
@@ -6072,6 +6191,7 @@
 1 DEAT
 2 DATE 23 JUL 1960
 0 @kw0WWcXGTV2pDI8nqtIM@ INDI
+1 _XY 848 2166
 1 REFN 99bf2438-bf0a-4f71-a1af-fa54f421433c
 1 NAME Lucila Marieta /Pazmiño/
 1 SEX F
@@ -6081,6 +6201,7 @@
 1 DEAT
 2 DATE 21 AUG 1906
 0 @7dwtINhERSyVygimODYv@ INDI
+1 _XY 1017 2166
 1 REFN dc5e324d-13e2-4a1d-81c9-fbd10c56138f
 1 NAME Lucila María /Pazmiño/
 1 SEX F
@@ -6090,7 +6211,7 @@
 1 DEAT
 2 DATE 27 MAR 1946
 0 @I195@ INDI
-1 _XY 936 477
+1 _XY 491 1979
 1 REFN 6034cd99-90bc-4258-a56b-23b0c3a0808e
 1 NAME Rosario /Pazmiño/
 2 SOUR @S68@
@@ -6110,6 +6231,7 @@
 4 LONG W78.5
 2 SOUR @S68@
 0 @CfNvHZZyS5qd0UXAmPV8@ INDI
+1 _XY 362 2166
 1 REFN 6e791551-8717-48ca-9a5a-a27890ac627c
 1 NAME Víctor Estenio /Pazmiño/
 1 SEX M
@@ -6119,7 +6241,7 @@
 1 DEAT
 2 DATE 06 JUN 1970
 0 @LFyrTkO8TJeRCMYIp1k4@ INDI
-1 _XY 685 477
+1 _XY 631 1975
 1 REFN f24fbb22-c61e-4de9-bd3e-2a2432b2b8a4
 1 NAME Víctor Manuel /Pazmiño/
 2 SOUR @zznD1WJ7RJetSxS9JJ2R@
@@ -6536,6 +6658,7 @@
 3 QUAY 1
 2 NOTE 13:00 EST
 0 @I196@ INDI
+1 _XY 5941 630
 1 REFN 6a2c63ae-af1d-441b-92cc-7a1f87256c2c
 1 NAME Francisca /Peguero y Escarza/
 2 SOUR @G8TESznJRGCKBg1WwF0w@
@@ -6548,6 +6671,7 @@
 1 BIRT
 2 PLAC Buga, Valle, Colombia
 0 @I197@ INDI
+1 _XY 3411 507
 1 REFN 23f179b0-2a49-4242-99fa-6a677222a49b
 1 NAME Francisca /Pérez de Zúñiga/
 2 SOUR @G8TESznJRGCKBg1WwF0w@
@@ -6563,6 +6687,7 @@
 1 DEAT
 2 PLAC Pasto, Nariño, Colombia
 0 @I198@ INDI
+1 _XY 8579 130
 1 REFN e02a44e2-3d0f-4202-8b0f-d0e985c80757
 1 NAME María /Pérez/
 2 SOUR @G8TESznJRGCKBg1WwF0w@
@@ -6575,11 +6700,13 @@
 1 BIRT
 2 PLAC Villafrechós, Valladolid, Castilla-Leon, España
 0 @I199@ INDI
+1 _XY 1923 969
 1 REFN 5450b68d-73bb-4e9c-92fa-87fbb7687b81
 1 NAME /Pueyo/
 1 SEX F
 1 FAMS @F19@
 0 @I200@ INDI
+1 _XY 7561 516
 1 REFN 752d3e3c-0eb3-41a9-9f74-66d69beca663
 1 NAME Alonso /Ramírez de Oviedo/
 2 SOUR @G8TESznJRGCKBg1WwF0w@
@@ -6594,6 +6721,7 @@
 2 DATE ABT 1549
 2 PLAC Membrilla, Toledo, Espana
 0 @I201@ INDI
+1 _XY 7561 601
 1 REFN e0d2553e-79f2-4dbc-95a2-e1fa87c8e268
 1 NAME Isabel /Ramírez del Campo y Oviedo/
 2 SOUR @G8TESznJRGCKBg1WwF0w@
@@ -6610,6 +6738,7 @@
 1 DEAT
 2 DATE AFT 1663
 0 @I202@ INDI
+1 _XY 7912 624
 1 REFN 9c908771-a8f2-4767-8a80-c8361a35cefa
 1 NAME Diego /Ramírez Floreano/
 2 SOUR @G8TESznJRGCKBg1WwF0w@
@@ -6625,6 +6754,7 @@
 4 LATI N6.5819
 4 LONG W75.6091
 0 @I203@ INDI
+1 _XY 7561 416
 1 REFN a9cc1835-8cb6-4f21-adea-e810717646c1
 1 NAME Diego /Ramírez/
 2 SOUR @G8TESznJRGCKBg1WwF0w@
@@ -6640,6 +6770,7 @@
 1 BIRT
 2 PLAC Membrilla, Toledo, Espana
 0 @I204@ INDI
+1 _XY 388 1598
 1 REFN eac83e2f-6cb5-4833-9d98-7fb51cc92a1d
 1 NAME /Rojas/
 2 SOUR @S65@
@@ -6650,6 +6781,7 @@
 2 DATE ABT 1830
 2 NOTE Just a guess based on birth date of husband.
 0 @I205@ INDI
+1 _XY 2899 706
 1 REFN d32680e8-d92f-4fb9-a33f-054cf29d1625
 1 NAME Francisca /Romero y Orbe/
 2 SOUR @G8TESznJRGCKBg1WwF0w@
@@ -6662,6 +6794,7 @@
 1 BIRT
 2 DATE 1640
 0 @IbtmRqXpR8uV8qwLr1kQ@ INDI
+1 _XY 2166 1684
 1 REFN f0a16daf-2789-4774-8d42-12d10761033a
 1 NAME Francisca /Romero/
 1 SEX F
@@ -6672,6 +6805,7 @@
 1 DEAT
 2 DATE 14 OCT 1940
 0 @I206@ INDI
+1 _XY 7676 324
 1 REFN be20cccf-ed1d-4ceb-9afd-5ef309ce06bf
 1 NAME María /Ruiz/
 2 SOUR @G8TESznJRGCKBg1WwF0w@
@@ -6684,7 +6818,7 @@
 1 BIRT
 2 PLAC Membrilla, Toledo, Espana
 0 @FJk6qyKJTzCXM3s8ubkE@ INDI
-1 _XY 174265 3251
+1 _XY 4456 1992
 1 REFN c1aae287-d761-48e8-a119-8b0616d508c2
 1 NAME Byron /Stevens/
 2 SOUR @Z0SQaG1kRbWQtiKMUjof@
@@ -6720,7 +6854,7 @@
 1 DEAT
 2 DATE 1919
 0 @EDqgGyG6Sci0iMPwgOaE@ INDI
-1 _XY 174194 3360
+1 _XY 4449 2159
 1 REFN c31a3e25-38e2-4509-869a-82db795cdb6f
 1 NAME Malcolm Byron /Stevens/
 2 SOUR @Z0SQaG1kRbWQtiKMUjof@
@@ -6777,7 +6911,7 @@
 2 SOUR @8SpggOHIRZiow2E3C3cu@
 3 _APID 1,60525::94672660
 0 @5ZkCsZyNQpqdklcXn6QW@ INDI
-1 _XY 174338 3360
+1 _XY 4619 2159
 1 REFN 45b077a8-dbc8-497f-a7c0-32678dd448ff
 1 NAME Ruby Catherine /Stevens/
 2 SOUR @Z0SQaG1kRbWQtiKMUjof@
@@ -6843,6 +6977,7 @@
 3 PAGE Number: 568-12-2985; Issue State: California; Issue Date: Be
 4 CONC fore 1951
 0 @I207@ INDI
+1 _XY 1699 1139
 1 REFN 2b41e5f6-cf83-4573-9094-930cbef8c9e7
 1 NAME unknown /Valdospinos/
 2 SOUR @S65@
@@ -6858,13 +6993,14 @@
 4 LONG W78.5
 2 SOUR @S68@
 0 @I208@ INDI
-1 _XY 1244 102
+1 _XY 644 1537
 1 REFN 88168a95-716c-4103-bb2a-d47fbcd5c33c
 1 NAME [unknown] /Villacis/
 2 SOUR @S71@
 1 SEX F
 1 FAMS @F54@
 0 @I46@ INDI
+1 _XY 3399 1999
 1 NAME Julio /Villanueva/
 2 SOUR @S63@
 3 _APID 1,7488::2001318502
@@ -6896,7 +7032,7 @@
 4 CONC ber: 222
 3 OBJE @M56@
 0 @i8Zw35JcRuSjN7sdAwfN@ INDI
-1 _XY 173529 3256
+1 _XY 3452 2053
 1 REFN b5ed3df2-a4a4-4e09-aad3-a5376433cb2c
 1 NAME Maria /Villanueva/
 2 SOUR @S63@
@@ -6977,7 +7113,7 @@
 4 CONC acaibo, Zulia, Venezuela, parroquias Católicas, FHL microfi
 4 CONC lm 1,934,948.
 0 @RKDtXT7CTaGirogilDFk@ INDI
-1 _XY 173641 3360
+1 _XY 3933 2160
 1 REFN f846796e-443b-406c-9c7f-706ae9baac67
 1 NAME Anthony /Yusa/
 2 SOUR @S60@
@@ -6990,7 +7126,7 @@
 1 BIRT
 2 DATE ABT 1910
 0 @hGjmpsgMTHWygn5zsshb@ INDI
-1 _XY 173692 3444
+1 _XY 3883 2227
 1 REFN 79039190-ba8c-4570-8613-59904bf5006c
 1 NAME Dennis /Yusa/
 2 SOUR @S84@
@@ -7026,7 +7162,7 @@
 3 _APID 1,7339::106040892
 3 PAGE City: Rochester; State: New York; Year(s): 2002
 0 @I209@ INDI
-1 _XY 745 90
+1 _XY 1320 1522
 1 REFN 5b65707a-97c5-44e2-94ad-dcb870b3ed6b
 1 NAME Dolores /Zambrano/
 2 SOUR @S68@
@@ -7173,7 +7309,7 @@
 2 DATE ABT FEB 1873
 2 SOUR @S68@
 0 @sbahjdXgTgemP1XmcDMb@ INDI
-1 _XY 173737 3360
+1 _XY 3833 2160
 1 REFN f8f425a8-019b-44f7-9377-17d34e4b7ba5
 1 NAME Dolores /Zilker/
 2 SOUR @pZSp306qQOGHvPqm0c60@
@@ -7322,7 +7458,7 @@
 3 OBJE @RRPDB9qeREGC0JPHIqez@
 2 NOTE Marital Status: Single; Relation to Head of House: Daughter
 0 @JgVznf1CTfSUfXpRtG2y@ INDI
-1 _XY 174080 3360
+1 _XY 4299 2159
 1 REFN 949715e2-768d-49cc-a8a4-c749ceceb847
 1 NAME Elizabeth /Zilker/
 2 SOUR @pZSp306qQOGHvPqm0c60@
@@ -7401,7 +7537,7 @@
 2 SOUR @8SpggOHIRZiow2E3C3cu@
 3 _APID 1,60525::13280937
 0 @POWDHP2bQjqkKfE00kuZ@ INDI
-1 _XY 173893 3360
+1 _XY 4092 2161
 1 REFN f35ed01f-bde2-49a5-8662-c71963a3eef2
 1 NAME Frank /Zilker/
 2 SOUR @pZSp306qQOGHvPqm0c60@
@@ -7492,7 +7628,7 @@
 3 OBJE @PRwNqIQfQbWmE2tzOjmU@
 2 NOTE Relation to Head of House: Son
 0 @u4yEbmpGRvSWkl6jfQ0X@ INDI
-1 _XY 173854 3250
+1 _XY 4041 1989
 1 REFN 415c7064-f241-4e03-8aef-08c809d86a1a
 1 NAME Frank Xavier /Zilker/
 2 SOUR @pZSp306qQOGHvPqm0c60@
@@ -8009,7 +8145,7 @@
 2 SOUR @S2fyUKW7QvupWtUQHBOs@
 3 _APID 1,60901::1650038
 0 @GRrhZV8kRnaAp6q7eGiN@ INDI
-1 _XY 173987 3360
+1 _XY 4190 2163
 1 REFN bb3e4bab-de5e-4459-bb27-8b8e1b01fa7b
 1 NAME Frederick /Zilker/
 2 SOUR @pZSp306qQOGHvPqm0c60@
@@ -8096,7 +8232,7 @@
 3 OBJE @PRwNqIQfQbWmE2tzOjmU@
 2 NOTE Relation to Head of House: Son
 0 @EmLEN5KHSMmV9NnEgxY4@ INDI
-1 _XY 173998 3289
+1 _XY 4180 1989
 1 REFN bba5c11e-2a95-4003-a83f-1b3a8afd797a
 1 NAME Unknown first wife of Frank /Zilker/
 1 SEX F
