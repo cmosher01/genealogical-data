@@ -3,6 +3,8 @@
 1 GEDC
 2 VERS 5.5.1
 2 FORM LINEAGE-LINKED
+1 COPR Copyright © 1998, Christopher Alan Mosher, Shelton, CT, USA.
+1 SUBM @Umy2qBWIRUiwVSS6Hcn4@
 1 SOUR FTM
 2 VERS 23.0.2.1343
 2 NAME Family Tree Maker for Windows
@@ -11,22 +13,40 @@
 4 CONT Boston, MA 02109
 3 PHON (617) 227-6681
 1 DEST FTM
-1 SUBM @q617a8cVTOqfOshz2hQ4@
-1 FILE Romero_2017-10-08_01.ged
-1 DATE 08 OCT 2017
-2 TIME 04:16:46
-0 @q617a8cVTOqfOshz2hQ4@ SUBM
+1 FILE Romero_2018-03-15-02-31-50.ftm.ged
+1 DATE 15 MAR 2018
+2 TIME 02:33:01
+0 @Umy2qBWIRUiwVSS6Hcn4@ SUBM
 1 NAME Christopher Alan Mosher
+2 EMAIL cmosher01@@gmail.com
+2 WWW http://mosher.mine.nu/
+2 WWW https://github.com/cmosher01/
+2 WWW https://www.ancestry.com/connect/Profile/0065664a-0000-0000-
+3 CONC 0000-000000000000
+2 ADDR 41 Brook Pine Drive
+3 CONT Shelton, Connecticut 06484-5912
+3 CONT USA
+3 ADR1 41 Brook Pine Drive
+3 ADR2 Shelton, Connecticut 06484-5912
+3 ADR3 USA
+3 CITY Shelton
+3 STAE Connecticut
+3 POST 06484-5912
+3 CTRY USA
+2 PHON +1-203-414-7716
+2 PHON +1-203-944-9487
+2 PHON +1-203-513-9292
+1 LANG English
 1 RIN Umy2qBWIRUiwVSS6Hcn4
 0 @I12@ INDI
-1 _XY 46 889
+1 _XY 1047 1494
 1 REFN 6ea54655-2765-4178-91fb-ab7fc7173708
 1 NAME [unknown] /[unknown] de la Orden/
 1 SEX F
 1 FAMC @F10@
 1 FAMS @F11@
 0 @I14@ INDI
-1 _XY 3123 602
+1 _XY 3672 771
 1 REFN 22f3182f-eb1f-42f4-a968-99405f506e5a
 1 NAME María /Aller/
 2 SOUR @S16@
@@ -36,7 +56,7 @@
 2 PLAC Puertollano, La Mancha, Spain
 2 SOUR @S16@
 0 @I15@ INDI
-1 _XY 1740 462
+1 _XY 835 477
 1 REFN 778d559a-8868-4998-a511-b6dd3344f964
 1 NAME Feliciana /Alvarado Villa Corte/
 2 SOUR @S16@
@@ -49,6 +69,7 @@
 4 LONG W80.45
 2 SOUR @S16@
 0 @I16@ INDI
+1 _XY 2730 32
 1 REFN 1103a3fa-2447-40be-be54-a47796823012
 1 NAME [unknown] /Aragon/
 2 SOUR @S17@
@@ -62,7 +83,7 @@
 2 DATE 1432
 2 PLAC Gandia, Valencia, Spain
 0 @I17@ INDI
-1 _XY 1592 554
+1 _XY 2085 637
 1 REFN 309b1b81-0efd-4b50-aaf6-4458101abbdc
 1 NAME Bernarda /Arroyo/
 2 SOUR @S16@
@@ -75,7 +96,7 @@
 4 LONG W79.9
 2 SOUR @S16@
 0 @I18@ INDI
-1 _XY 2124 702
+1 _XY 329 791
 1 REFN 1d55dbf8-7a9a-4445-b358-48aa1dc9ed16
 1 NAME Bernarda /Bohorquez/
 2 SOUR @S16@
@@ -90,7 +111,7 @@
 4 LONG W79.9
 2 SOUR @S16@
 0 @I19@ INDI
-1 _XY 2189 589
+1 _XY 395 668
 1 REFN ca52fc26-8c1f-4411-8b11-5bff24475cd5
 1 NAME Esteban /Bohorquez/
 2 SOUR @S16@
@@ -101,14 +122,14 @@
 2 PLAC Spain
 2 SOUR @S16@
 0 @I20@ INDI
-1 _XY 949 367
+1 _XY 1046 379
 1 REFN 53b96af0-abef-4dc1-b5e1-0b219613e17a
 1 NAME Josefa Herrera /Campusano/
 2 SOUR @S16@
 1 SEX F
 1 FAMS @F21@
 0 @I21@ INDI
-1 _XY 1604 462
+1 _XY 673 485
 1 REFN d878bbd0-dcc8-4579-8b9d-e408ed1b08de
 1 NAME Juan /Carranza Valdivieso/
 2 SOUR @S16@
@@ -118,7 +139,7 @@
 2 PLAC Panama
 2 SOUR @S16@
 0 @I22@ INDI
-1 _XY 1584 513
+1 _XY 848 599
 1 REFN 7d896b4d-c573-43b0-9fa6-7eaaf26bcf8c
 1 NAME Baltasara /Carranza/
 2 SOUR @S16@
@@ -132,7 +153,7 @@
 4 LONG W80.45
 2 SOUR @S16@
 0 @I23@ INDI
-1 _XY 1690 515
+1 _XY 702 599
 1 REFN bf310957-9f47-4932-8e86-bab69912c543
 1 NAME Catalina /Carranza/
 2 SOUR @S16@
@@ -152,7 +173,7 @@
 4 LONG W80.45
 2 SOUR @S16@
 0 @I24@ INDI
-1 _XY 2926 524
+1 _XY 3503 693
 1 REFN e1378dbf-7e78-45e7-89da-fbf37b0de4e0
 1 NAME Catalina /Carranza/
 2 SOUR @S16@
@@ -166,7 +187,7 @@
 4 LONG W79.9
 2 SOUR @S16@
 0 @I25@ INDI
-1 _XY 2190 385
+1 _XY 2624 520
 1 REFN 9268132c-e108-4855-aeeb-618f41cfc68b
 1 NAME Toribio /Castro Grijuela/
 2 SOUR @S16@
@@ -184,7 +205,7 @@
 2 PLAC Iruz, Santander, Spain
 2 SOUR @S16@
 0 @I26@ INDI
-1 _XY 1981 519
+1 _XY 2651 612
 1 REFN 3b795184-fe7f-48cf-9a78-1c5dd5706760
 1 NAME Catalina /Castro Guzmán/
 2 SOUR @S16@
@@ -193,14 +214,14 @@
 1 FAMS @F26@
 1 FAMS @F27@
 0 @I27@ INDI
-1 _XY 1481 456
+1 _XY 1820 458
 1 REFN 39dd67e5-8954-4bec-9e6e-aa4b0c6bf68d
 1 NAME Angela /Castro/
 2 SOUR @S16@
 1 SEX F
 1 FAMS @F28@
 0 @I28@ INDI
-1 _XY 2057 320
+1 _XY 2558 464
 1 REFN 281d2753-8413-48ba-b18d-f964f11c76c5
 1 NAME Toribio /Castro/
 2 SOUR @S16@
@@ -211,7 +232,7 @@
 2 PLAC Iruz, Toranzo, Santander, Spain
 2 SOUR @S16@
 0 @I29@ INDI
-1 _XY 1683 557
+1 _XY 2200 637
 1 REFN 7e8422e4-ea1b-44a3-84f4-0b982ab0b013
 1 NAME Benito /Cisneros de Mendoza/
 2 SOUR @S16@
@@ -219,7 +240,7 @@
 1 FAMS @F17@
 1 FAMS @F30@
 0 @I30@ INDI
-1 _XY 1767 599
+1 _XY 2306 739
 1 REFN ee338cf5-dc5d-45df-8f41-c9bdd2757915
 1 NAME Catalina /Cisneros de Mendoza/
 2 SOUR @S16@
@@ -233,7 +254,7 @@
 4 LONG W79.9
 2 SOUR @S16@
 0 @I31@ INDI
-1 _XY 2783 526
+1 _XY 3349 695
 1 REFN 37aec959-9549-4c92-8e68-b6a139c5d7b8
 1 NAME Andrés /Contero de Porres/
 2 SOUR @S16@
@@ -247,7 +268,7 @@
 4 LONG W79.9
 2 SOUR @S16@
 0 @I32@ INDI
-1 _XY 2913 276
+1 _XY 3494 428
 1 REFN ef3dafcc-d370-46b3-802f-19df36b69621
 1 NAME Andres /Contero/
 2 SOUR @S16@
@@ -263,6 +284,7 @@
 4 LONG W79.9
 2 SOUR @S16@
 0 @I33@ INDI
+1 _XY 3077 2037
 1 REFN d640b2e2-81b1-4306-a4da-4c448dbd057f
 1 NAME Rosa /de Ascasubi y Matheu/
 2 SOUR @S17@
@@ -279,7 +301,7 @@
 4 LATI S0.2167
 4 LONG W78.5
 0 @I34@ INDI
-1 _XY 2743 462
+1 _XY 3284 621
 1 REFN dbbfb944-d9ff-48df-8556-3b24e62f6976
 1 NAME Catalina /de Carranza y Contero/
 2 SOUR @S18@
@@ -295,7 +317,7 @@
 4 LONG W79.9
 2 SOUR @S16@
 0 @I35@ INDI
-1 _XY 2896 418
+1 _XY 3474 578
 1 REFN c78b2609-71e3-4480-a558-0c7580b3c313
 1 NAME Cristobal /de Carranza y Contero/
 2 SOUR @S18@
@@ -309,7 +331,7 @@
 4 LONG W79.9
 2 SOUR @S18@
 0 @I36@ INDI
-1 _XY 2927 343
+1 _XY 3532 496
 1 REFN 709986cc-3c87-4f97-87a9-4455423218b5
 1 NAME Ana /de Contero y Ponce/
 2 SOUR @S16@
@@ -324,7 +346,7 @@
 4 LONG W76.58
 2 SOUR @S16@
 0 @I37@ INDI
-1 _XY 774 885
+1 _XY 2262 1465
 1 REFN 11847ff9-1273-4935-9706-e365d8615682
 1 NAME María /de la Concepción Gonzales/
 2 SOUR @S16@
@@ -345,7 +367,7 @@
 4 LONG W79.9
 2 SOUR @S16@
 0 @I38@ INDI
-1 _XY 49 845
+1 _XY 1137 1436
 1 REFN b28eaf2d-af6d-4645-be73-3653aeb2b0e4
 1 NAME Ana /de la Orden/
 2 SOUR @S19@
@@ -358,7 +380,7 @@
 2 PLAC Villaverde del Monte, Soria, Spain
 2 SOUR @S19@
 0 @I40@ INDI
-1 _XY 348 1012
+1 _XY 1403 1648
 1 REFN b6d7a05e-622a-4051-bcab-6cb9d13a45a6
 1 NAME Cecilia /de la Orden/
 2 SOUR @S19@
@@ -373,14 +395,14 @@
 2 SOUR @S19@
 3 QUAY 1
 0 @I41@ INDI
-1 _XY 1876 515
+1 _XY 2316 565
 1 REFN 9b1c43b2-7a98-454a-a22f-c978e1d95d5c
 1 NAME Francisco /de la Pe/ Pe
 2 SOUR @S16@
 1 SEX M
 1 FAMS @F26@
 0 @I42@ INDI
-1 _XY 1936 568
+1 _XY 2392 637
 1 REFN f5050ccc-9389-436a-ae66-30e8234893f6
 1 NAME Josepfa /de la Pe/ Pe
 2 SOUR @S16@
@@ -388,7 +410,7 @@
 1 FAMC @F26@
 1 FAMS @F30@
 0 @I43@ INDI
-1 _XY 3791 433
+1 _XY 4737 618
 1 REFN 168df888-6ba4-488f-a6c9-b66d8f904786
 1 NAME Leonor /de Rendón Palomino y Guzmán/
 2 SOUR @S16@
@@ -409,7 +431,7 @@
 4 LONG W79.9
 2 SOUR @S16@
 0 @I44@ INDI
-1 _XY 477 879
+1 _XY 1924 1473
 1 REFN f6f06d6a-2bb9-4433-a997-52af7b3967a6
 1 NAME Ana Manuela /de Sylva Santistevan y Larralde/
 2 SOUR @S16@
@@ -433,7 +455,7 @@
 1 BIRT
 2 SOUR @S16@
 0 @I45@ INDI
-1 _XY 303 919
+1 _XY 1745 1476
 1 REFN a7f7798e-43d6-48e7-bbbd-a141ef795f92
 1 NAME Juan /de Sylva Santistevan y Larralde/
 2 SOUR @S16@
@@ -447,7 +469,7 @@
 4 LONG W79.9
 2 SOUR @S16@
 0 @I46@ INDI
-1 _XY 305 864
+1 _XY 1575 1473
 1 REFN 8986e829-cde7-4daa-bccd-b8bfae7feb53
 1 NAME María Eugenia /de Sylva Santistevan y Larralde/
 2 SOUR @S16@
@@ -468,7 +490,7 @@
 4 LONG W79.9
 2 SOUR @S16@
 0 @I47@ INDI
-1 _XY 371 823
+1 _XY 1675 1397
 1 REFN 6d02c5d1-db4d-44ca-a17f-838aa6add474
 1 NAME Juan /de Sylva Santistevan/
 2 SOUR @S16@
@@ -484,6 +506,7 @@
 4 LONG W79.9
 2 SOUR @S16@
 0 @I48@ INDI
+1 _XY 3075 2120
 1 REFN 1d15848a-226e-4929-a253-4731129fd186
 1 NAME Mariana /del Alcázar y de Ascásubi/
 2 SOUR @S17@
@@ -494,7 +517,7 @@
 1 SEX F
 1 FAMS @F41@
 0 @I49@ INDI
-1 _XY 1115 895
+1 _XY 1427 1052
 1 REFN e94be517-2e40-4027-bc42-c3394914f952
 1 NAME Juan Francisco /del Castillo Gómez Sarmiento/
 2 SOUR @S16@
@@ -511,7 +534,7 @@
 2 PLAC Burgos, Spain
 2 SOUR @S16@
 0 @I50@ INDI
-1 _XY 1280 969
+1 _XY 1825 1179
 1 REFN d3cbffa2-8c39-430e-881b-ca167e963cba
 1 NAME Antonia /del Castillo y Navarro Navarrete/
 2 SOUR @S16@
@@ -525,7 +548,7 @@
 4 LONG W79.9
 2 SOUR @S16@
 0 @I51@ INDI
-1 _XY 996 969
+1 _XY 1473 1179
 1 REFN 168f3fbe-f061-4af1-9d84-293d160e74c5
 1 NAME Juan /del Castillo y Navarro Navarrete/
 2 SOUR @S16@
@@ -539,7 +562,7 @@
 4 LONG W79.9
 2 SOUR @S16@
 0 @I52@ INDI
-1 _XY 1426 966
+1 _XY 1971 1179
 1 REFN 63546562-3e49-4f8c-b5da-0e14d22a1ccd
 1 NAME María Jacinta /del Castillo y Navarro Navarrete/
 2 SOUR @S17@
@@ -560,7 +583,7 @@
 4 LONG W79.9
 2 SOUR @S16@
 0 @I53@ INDI
-1 _XY 1136 969
+1 _XY 1647 1179
 1 REFN 3c4d7511-6813-47c4-bd72-e64d99a09a2f
 1 NAME María Manuela /del Castillo y Navarro Navarrete/
 2 SOUR @S16@
@@ -581,7 +604,7 @@
 4 LONG W79.9
 2 SOUR @S16@
 0 @I54@ INDI
-1 _XY 1110 362
+1 _XY 1226 371
 1 REFN d07c5bad-b695-422c-83ca-40ac53a15392
 1 NAME Pedro /del Castillo y Perea/
 2 SOUR @S16@
@@ -602,14 +625,14 @@
 4 LONG W2.5805
 2 SOUR @S16@
 0 @I55@ INDI
-1 _XY 2473 941
+1 _XY 2997 1100
 1 REFN 9b524d45-3a4a-4ef6-b2a4-fdbfcaadebdc
 1 NAME Fidel /del Castillo/
 2 SOUR @S16@
 1 SEX M
 1 FAMS @F45@
 0 @I56@ INDI
-1 _XY 1193 450
+1 _XY 1408 450
 1 REFN c1a5e6a5-dbbc-4506-abb1-f02de0ce8939
 1 NAME Leonor /del Castillo/
 2 SOUR @S16@
@@ -630,7 +653,7 @@
 4 LONG W79.9
 2 SOUR @S16@
 0 @I57@ INDI
-1 _XY 1094 452
+1 _XY 1285 451
 1 REFN 0199e0d0-dec2-4f18-b707-de6e9b831177
 1 NAME María /del Castillo/
 2 SOUR @S16@
@@ -643,14 +666,14 @@
 4 LONG W79.9
 2 SOUR @S16@
 0 @I58@ INDI
-1 _XY 2083 636
+1 _XY 310 728
 1 REFN f0495860-e853-4834-8f03-bc97d954fb4d
 1 NAME Diego /Diaz Galban/
 2 SOUR @S16@
 1 SEX M
 1 FAMS @F18@
 0 @I59@ INDI
-1 _XY 3704 200
+1 _XY 4470 296
 1 REFN 00cf393f-7001-454e-9f19-909817d415ef
 1 NAME Benito /Díaz Bravo/
 2 SOUR @S17@
@@ -668,7 +691,7 @@
 1 DEAT
 2 PLAC Ecuador
 0 @I60@ INDI
-1 _XY 3911 312
+1 _XY 4667 419
 1 REFN fe156c8e-4a60-4a1e-8b0c-1bc24bf05a54
 1 NAME Benito /Díaz Bravo/
 2 SOUR @S16@
@@ -681,7 +704,7 @@
 4 LONG W79.9
 2 SOUR @S16@
 0 @I61@ INDI
-1 _XY 3638 132
+1 _XY 4394 205
 1 REFN 4c9f95cd-04cf-4a8b-8761-f68f8fb017f7
 1 NAME Alonso /Díaz Coronado/
 2 SOUR @S17@
@@ -698,7 +721,7 @@
 1 DEAT
 2 PLAC Ecuador
 0 @I62@ INDI
-1 _XY 2925 602
+1 _XY 3490 763
 1 REFN ac2baef9-0084-4746-b135-f717e103ac44
 1 NAME Francisco /Dominguez de Mestanza/
 2 SOUR @S16@
@@ -708,7 +731,7 @@
 2 PLAC Puertollano, La Mancha, Spain
 2 SOUR @S16@
 0 @I63@ INDI
-1 _XY 42 934
+1 _XY 984 1557
 1 REFN ff944266-8a7e-4790-b865-4d663a542efe
 1 NAME Catalina /Escribano/
 2 SOUR @S19@
@@ -725,7 +748,7 @@
 2 SOUR @S19@
 3 QUAY 1
 0 @I64@ INDI
-1 _XY 1987 30
+1 _XY 2433 127
 1 REFN 302d030c-4e47-4c9c-bb45-035462035b2f
 1 NAME Catalina /Florencia/
 2 SOUR @S17@
@@ -745,20 +768,21 @@
 1 DEAT
 2 PLAC España
 0 @I65@ INDI
-1 _XY 1875 30
+1 _XY 2330 48
 1 REFN 4612ec31-a358-490a-80de-07b628fa55a6
 1 NAME Juan /Florencia/
 2 SOUR @S16@
 1 SEX M
 1 FAMS @F50@
 0 @I66@ INDI
+1 _XY 2207 50
 1 REFN d0525d19-a1b0-41a5-8f0c-9367b5924f9d
 1 NAME Juan /Florencia/
 2 SOUR @S16@
 1 SEX M
 1 FAMS @F51@
 0 @I67@ INDI
-1 _XY 1262 368
+1 _XY 1398 379
 1 REFN 2ed16b0a-5c03-43c1-8434-e7ac44504767
 1 NAME Leonor /García de Herrera/
 2 SOUR @S16@
@@ -768,7 +792,7 @@
 2 PLAC Burgos, Spain
 2 SOUR @S16@
 0 @I68@ INDI
-1 _XY 30 1137
+1 _XY 1195 1824
 1 REFN 7832a2df-2444-4fcd-bc48-05a7be38e701
 1 NAME Gabriel /García Gómez/
 2 SOUR @S17@
@@ -799,7 +823,7 @@
 2 SOUR @S19@
 3 QUAY 1
 0 @I69@ INDI
-1 _XY 192 1272
+1 _XY 2125 2064
 1 REFN c90ceb8b-4983-4e86-b422-d0c012f3da42
 1 NAME Carmen /García Moreno/
 2 SOUR @S19@
@@ -820,7 +844,7 @@
 2 SOUR @S21@
 3 QUAY 1
 0 @I70@ INDI
-1 _XY 253 1319
+1 _XY 1537 2064
 1 REFN 88a95831-5cd4-4937-ac5a-8f2d2f7c7c93
 1 NAME Concepción /García Moreno/
 2 SOUR @S19@
@@ -841,7 +865,7 @@
 2 SOUR @S21@
 3 QUAY 1
 0 @I71@ INDI
-1 _XY 796 1319
+1 _XY 2907 2064
 1 REFN 1480d0ed-b196-48e5-a4e6-11595e569eea
 1 NAME Gabriel /García Moreno/
 2 SOUR @S17@
@@ -936,11 +960,8 @@
 1 EVEN
 2 TYPE note (I)
 2 SOUR @S25@
-1 EVEN
-2 TYPE note (I)
-2 SOUR @S25@
 0 @I72@ INDI
-1 _XY 30 1274
+1 _XY 1379 2064
 1 REFN aa12dc9c-6ad0-4178-966c-3d07f99c50ab
 1 NAME Josefa Dominga /García Moreno/
 2 SOUR @S19@
@@ -961,7 +982,7 @@
 3 PAGE p. 17
 3 QUAY 1
 0 @I73@ INDI
-1 _XY 461 1278
+1 _XY 1855 2064
 1 REFN 61d5a7fe-710b-4a06-80d3-7a82e32e02a4
 1 NAME José /García Moreno/
 2 SOUR @S19@
@@ -982,7 +1003,7 @@
 2 SOUR @S21@
 3 QUAY 1
 0 @I74@ INDI
-1 _XY 635 1321
+1 _XY 1981 2064
 1 REFN 9a0e4cee-26dc-4902-a0bc-7bb90beb06b7
 1 NAME José /García Moreno/
 2 SOUR @S21@
@@ -1002,7 +1023,7 @@
 2 SOUR @S21@
 3 QUAY 1
 0 @I75@ INDI
-1 _XY 703 1278
+1 _XY 2591 2064
 1 REFN 5f8160c2-7bbf-4aa9-94a8-5a26c3e160d7
 1 NAME José Fernando /García Moreno/
 2 SOUR @S20@
@@ -1022,7 +1043,7 @@
 2 SOUR @S21@
 3 QUAY 1
 0 @I76@ INDI
-1 _XY 376 1371
+1 _XY 1228 2064
 1 REFN 90e84e05-5f0f-43b4-88e5-490d1f0fab41
 1 NAME Manuel Ignacio /García Moreno/
 2 SOUR @S19@
@@ -1060,7 +1081,7 @@
 2 SOUR @S19@
 3 QUAY 1
 0 @I77@ INDI
-1 _XY 121 1319
+1 _XY 1701 2064
 1 REFN d59f2990-7b7a-4575-aa7f-f8984503d0a4
 1 NAME Mercedes /García Moreno/
 2 SOUR @S17@
@@ -1086,7 +1107,7 @@
 2 SOUR @S21@
 3 QUAY 1
 0 @I78@ INDI
-1 _XY 581 1278
+1 _XY 2272 2064
 1 REFN 2e83d749-a847-4fe7-84a2-e09477378495
 1 NAME Miguel /García Moreno/
 2 SOUR @S19@
@@ -1111,7 +1132,7 @@
 2 SOUR @S21@
 3 QUAY 1
 0 @I79@ INDI
-1 _XY 498 1317
+1 _XY 2415 2064
 1 REFN 7ec85ca8-9d10-4f22-9d5b-0275ba559c81
 1 NAME Pedro Pablo /García Moreno/
 2 SOUR @S17@
@@ -1141,7 +1162,7 @@
 2 SOUR @S21@
 3 QUAY 1
 0 @I80@ INDI
-1 _XY 323 1278
+1 _XY 2749 2064
 1 REFN 44fc7763-7838-4e13-a948-832e5d2e1138
 1 NAME Rosario /García Moreno/
 2 SOUR @S17@
@@ -1167,6 +1188,7 @@
 2 SOUR @S21@
 3 QUAY 1
 0 @I84@ INDI
+1 _XY 2965 2201
 1 REFN b0c17e32-6052-48b7-819f-068576d46613
 1 NAME Gabriel /García y del Alcázar/
 2 SOUR @S17@
@@ -1177,7 +1199,7 @@
 1 SEX M
 1 FAMC @F41@
 0 @I81@ INDI
-1 _XY 147 1051
+1 _XY 1110 1674
 1 REFN 822e6fbd-2edd-429e-a8cc-1a8436e3a0fa
 1 NAME Diego /García Yanguas y Martinez/
 2 SOUR @S17@
@@ -1199,7 +1221,7 @@
 2 SOUR @S19@
 3 QUAY 1
 0 @I82@ INDI
-1 _XY 128 989
+1 _XY 1104 1614
 1 REFN 7cf41b8f-a55b-42d1-aae1-6e50a346bab8
 1 NAME Juan /García Yanguas/
 2 SOUR @S19@
@@ -1214,7 +1236,7 @@
 2 SOUR @S19@
 3 QUAY 1
 0 @I83@ INDI
-1 _XY 30 1050
+1 _XY 969 1675
 1 REFN ab045e4e-bf7b-469d-a331-3196e2d774ac
 1 NAME María /García Yanguas/
 2 SOUR @S16@
@@ -1228,7 +1250,7 @@
 2 SOUR @S19@
 3 QUAY 1
 0 @I85@ INDI
-1 _XY 2766 337
+1 _XY 3347 489
 1 REFN 48697990-3a00-4178-8dbf-294da3b83346
 1 NAME Martín Alonso /Gonzalez de Carranza y Mendoza/
 2 SOUR @S16@
@@ -1243,7 +1265,7 @@
 4 LONG W3.6827
 2 SOUR @S16@
 0 @I86@ INDI
-1 _XY 2001 703
+1 _XY 185 791
 1 REFN 63d2411e-d4a3-480c-b706-a83afa139fb0
 1 NAME Blas /Gonzalez de Vera/
 2 SOUR @S16@
@@ -1258,7 +1280,7 @@
 4 LONG W79.9
 2 SOUR @S16@
 0 @I87@ INDI
-1 _XY 2101 787
+1 _XY 287 906
 1 REFN 9e37cd7d-501a-4a37-bd5e-446cf5ab0a9d
 1 NAME Jacinta /Gonzalez de Vera/
 2 SOUR @S16@
@@ -1272,7 +1294,7 @@
 4 LONG W79.9
 2 SOUR @S16@
 0 @I88@ INDI
-1 _XY 1885 664
+1 _XY 30 739
 1 REFN 972093a4-48ca-4d82-82e6-9e1ba9cf3c8d
 1 NAME Pedro /Gonzalez de Vera/
 2 SOUR @S16@
@@ -1282,7 +1304,7 @@
 2 PLAC Logroño, Castilla, Spain
 2 SOUR @S16@
 0 @I89@ INDI
-1 _XY 302 1057
+1 _XY 1310 1689
 1 REFN 36e545a8-fdd2-42cf-9fc6-e2d9dce71b4e
 1 NAME María /Gómez de la Orden/
 2 SOUR @S17@
@@ -1303,7 +1325,7 @@
 2 SOUR @S19@
 3 QUAY 1
 0 @I90@ INDI
-1 _XY 263 1012
+1 _XY 1298 1648
 1 REFN 566553c8-e950-49fb-9c23-68636e6e9b89
 1 NAME Juan /Gómez/
 2 SOUR @S19@
@@ -1318,7 +1340,7 @@
 2 SOUR @S19@
 3 QUAY 1
 0 @I91@ INDI
-1 _XY 2160 321
+1 _XY 2661 465
 1 REFN 2f59f7ae-835d-4188-a7ca-6af6e48d6007
 1 NAME Toribia /Grijuela/
 2 SOUR @S16@
@@ -1328,7 +1350,7 @@
 2 PLAC Iruz, Toranzo, Santander, Spain
 2 SOUR @S16@
 0 @I92@ INDI
-1 _XY 1981 262
+1 _XY 2453 416
 1 REFN ab5454bb-781e-44c0-9b86-bb8b13c40ced
 1 NAME Juan /Gutierrex de Castro/
 2 SOUR @S16@
@@ -1338,7 +1360,7 @@
 2 PLAC Cudon, Santander, Spain
 2 SOUR @S16@
 0 @I93@ INDI
-1 _XY 2020 664
+1 _XY 190 731
 1 REFN 8a051916-76e9-4c4c-9030-9ef7223cf066
 1 NAME Catalina /Gutierrex Monedero/
 2 SOUR @S16@
@@ -1348,7 +1370,7 @@
 2 PLAC Logroño, Castilla, Spain
 2 SOUR @S16@
 0 @I94@ INDI
-1 _XY 1598 107
+1 _XY 2074 207
 1 REFN a7e0971e-0312-434c-9c87-e5695fe2ba74
 1 NAME Francisca /Gutierrez de Aguilar/
 2 SOUR @S16@
@@ -1358,7 +1380,7 @@
 2 PLAC Spain
 2 SOUR @S16@
 0 @I95@ INDI
-1 _XY 3778 159
+1 _XY 4726 202
 1 REFN 2b26764b-bb7b-4fa6-acda-179474755f60
 1 NAME Francisco /Gutiérrez de Haro/
 2 SOUR @S17@
@@ -1378,7 +1400,7 @@
 4 LATI S2.1667
 4 LONG W79.9
 0 @I96@ INDI
-1 _XY 2321 384
+1 _XY 2822 528
 1 REFN 456aee54-90a9-4e75-8dc3-5649fbe3dfba
 1 NAME Leonor /Guzmán Vargas/
 2 SOUR @S16@
@@ -1386,7 +1408,7 @@
 1 FAMC @F64@
 1 FAMS @F25@
 0 @I97@ INDI
-1 _XY 2392 236
+1 _XY 2887 386
 1 REFN c92940ef-36fe-4356-8e52-3dd35ec1d2cf
 1 NAME Leonor /Guzmán/
 2 SOUR @S16@
@@ -1396,7 +1418,7 @@
 2 PLAC Valdemoro, Madrid, Spain
 2 SOUR @S16@
 0 @I98@ INDI
-1 _XY 2125 264
+1 _XY 2626 408
 1 REFN f18de991-f6be-482b-8139-e8d7bf753195
 1 NAME María /Hernandez de la Calleja/
 2 SOUR @S16@
@@ -1406,7 +1428,7 @@
 2 PLAC Cudon, Santander, Spain
 2 SOUR @S16@
 0 @I99@ INDI
-1 _XY 665 765
+1 _XY 1969 1339
 1 REFN a758e42e-903b-4b49-881a-082129163e05
 1 NAME Antonio /Larralde/
 2 SOUR @S16@
@@ -1425,7 +1447,7 @@
 4 LONG W79.9
 2 SOUR @S16@
 0 @I100@ INDI
-1 _XY 792 835
+1 _XY 2132 1393
 1 REFN 2bb7c4ac-5946-4471-9080-cb32e5ae9909
 1 NAME Farmin /Larralde/
 2 SOUR @S16@
@@ -1439,7 +1461,7 @@
 4 LONG W79.9
 2 SOUR @S16@
 0 @I101@ INDI
-1 _XY 705 837
+1 _XY 2009 1393
 1 REFN 9363b6fa-35ff-4b69-8098-c3b7810dca2b
 1 NAME Isabel /Larralde/
 2 SOUR @S16@
@@ -1452,7 +1474,7 @@
 4 LONG W79.9
 2 SOUR @S16@
 0 @I102@ INDI
-1 _XY 552 819
+1 _XY 1856 1393
 1 REFN e4683b22-cc1d-4b9f-828b-5bbbf47a50c3
 1 NAME Magdalena /Larralde/
 2 SOUR @S16@
@@ -1467,20 +1489,21 @@
 4 LONG W79.9
 2 SOUR @S16@
 0 @I103@ INDI
-1 _XY 2129 522
+1 _XY 2803 612
 1 REFN 06c9df02-4096-4657-b2ab-618b8acafc46
 1 NAME Bernabe /Lozano del Castillo/
 2 SOUR @S16@
 1 SEX M
 1 FAMS @F27@
 0 @I104@ INDI
-1 _XY 2257 100
+1 _XY 2963 215
 1 REFN c8ebbd93-cac8-4a95-88a9-a13e7898725e
 1 NAME María /López de Salinas/
 2 SOUR @S16@
 1 SEX F
 1 FAMS @F67@
 0 @oXKpX114SpmiHrBOOpxL@ INDI
+1 _XY 1863 2373
 1 REFN a36b9459-5e27-4781-a336-93e0a7241a73
 1 NAME Aquiles /López/
 1 SEX M
@@ -1490,6 +1513,7 @@
 1 DEAT
 2 DATE 1928
 0 @xpg4NMN5S3OjFuvt8g62@ INDI
+1 _XY 1282 2373
 1 REFN 546c81e8-3a75-45a9-b6e9-65abf3520283
 1 NAME Dolores /López/
 1 SEX F
@@ -1499,6 +1523,7 @@
 1 DEAT
 2 DATE 06 JUN 1963
 0 @XhjCXd6cQVy1UYUFRr3v@ INDI
+1 _XY 1029 2373
 1 REFN fe9a8417-4b2c-4108-a56e-76147cd72175
 1 NAME Dolores Olympia /López/
 1 SEX F
@@ -1508,6 +1533,7 @@
 1 DEAT
 2 DATE 1877
 0 @vTOF6oIUQoufiemBQJnl@ INDI
+1 _XY 1575 2373
 1 REFN 08c98db7-c65e-4ab9-9b9d-a5823834074a
 1 NAME Eloyísa /López/
 1 SEX F
@@ -1517,6 +1543,7 @@
 1 DEAT
 2 DATE 30 MAY 1965
 0 @Fb7O40VzTbG41Ghtnusq@ INDI
+1 _XY 1391 2373
 1 REFN a5fab8d4-0403-4d45-a909-ecb490581ada
 1 NAME Estenio /López/
 1 SEX M
@@ -1526,6 +1553,7 @@
 1 DEAT
 2 DATE 1897
 0 @rI0L2Q74TyqxKXNGfI1U@ INDI
+1 _XY 1601 2249
 1 REFN ac139ee4-c9a3-40d7-a8c7-7a6060a645d5
 1 NAME Felicísimo /López/
 1 SEX M
@@ -1535,6 +1563,7 @@
 1 DEAT
 2 DATE 15 DEC 1917
 0 @VMCCp1ueSt2ywV4blCAY@ INDI
+1 _XY 1962 2373
 1 REFN 870d6f88-cb55-4dc9-b155-5b9a1a2f95fc
 1 NAME Hector Samuel /López/
 1 SEX M
@@ -1546,6 +1575,7 @@
 1 DEAT
 2 DATE 12 SEP 1933
 0 @2aAXjBLVR1yvoVuM0BJl@ INDI
+1 _XY 1179 2373
 1 REFN 1b5b6e74-7605-445e-bce4-91fd39e89553
 1 NAME Lelia /López/
 1 SEX F
@@ -1555,6 +1585,7 @@
 1 DEAT
 2 DATE 29 DEC 1962
 0 @IhWQxX7lQh2wfUhKmrLs@ INDI
+1 _XY 1680 2373
 1 REFN 2f91e775-889a-46ce-9730-9a8fcc10e19f
 1 NAME Miguel Angel /López/
 1 SEX M
@@ -1564,6 +1595,7 @@
 1 DEAT
 2 DATE 1935
 0 @esqWSVLVQPCQpT77C3Mg@ INDI
+1 _XY 1487 2373
 1 REFN c11d9537-9e6b-4567-86c1-cfc02e17bdf8
 1 NAME Ulises /López/
 1 SEX M
@@ -1575,7 +1607,7 @@
 1 DEAT
 2 DATE 1897
 0 @I105@ INDI
-1 _XY 2624 397
+1 _XY 3132 528
 1 REFN 4218c6cd-f703-402c-a259-7ebecdd37299
 1 NAME María /Magallanes/
 2 SOUR @S16@
@@ -1588,7 +1620,7 @@
 4 LONG W79.9
 2 SOUR @S16@
 0 @I106@ INDI
-1 _XY 153 934
+1 _XY 1116 1557
 1 REFN d4154196-4540-4d6b-b40f-ff4992d15f2a
 1 NAME Alonso /Martínez/
 2 SOUR @S19@
@@ -1604,7 +1636,7 @@
 2 SOUR @S19@
 3 QUAY 1
 0 @I107@ INDI
-1 _XY 30 983
+1 _XY 993 1606
 1 REFN 2bc327b0-979d-4df3-b4b2-8c104cca2831
 1 NAME Josefa /Martínez/
 2 SOUR @S19@
@@ -1622,7 +1654,7 @@
 2 SOUR @S19@
 3 QUAY 1
 0 @I108@ INDI
-1 _XY 3005 648
+1 _XY 3570 809
 1 REFN c8be3c82-6957-45c6-84d6-edd3a76c8600
 1 NAME Jeronima /Mestanza/
 2 SOUR @S16@
@@ -1637,7 +1669,7 @@
 4 LONG W79.9
 2 SOUR @S16@
 0 @I109@ INDI
-1 _XY 3192 252
+1 _XY 3784 419
 1 REFN 9ece693e-ff8a-4eb8-977d-fa6c588cb5a7
 1 NAME Andrés /Morán de Butrón Navarro Navarrete/
 2 SOUR @S18@
@@ -1675,7 +1707,7 @@
 2 SOUR @S20@
 3 QUAY 1
 0 @I110@ INDI
-1 _XY 2978 1231
+1 _XY 4021 1495
 1 REFN cb1d6df4-6c5b-480c-b84f-86cb24f2dde5
 1 NAME Antonio /Morán de Butrón y del Castillo/
 2 SOUR @S16@
@@ -1689,7 +1721,7 @@
 4 LONG W79.9
 2 SOUR @S16@
 0 @I111@ INDI
-1 _XY 2978 1176
+1 _XY 3507 1495
 1 REFN de08cd48-5ac7-4ecc-b433-21af3afbef33
 1 NAME José Gregorio /Morán de Butrón y del Castillo/
 2 SOUR @S16@
@@ -1703,7 +1735,7 @@
 4 LONG W79.9
 2 SOUR @S16@
 0 @I112@ INDI
-1 _XY 2816 1229
+1 _XY 3859 1495
 1 REFN 6935860d-95e6-4cf9-aabf-aea9eb28f4c9
 1 NAME Manuel Jacinto /Morán de Butrón y del Castillo/
 2 SOUR @S16@
@@ -1717,7 +1749,7 @@
 4 LONG W79.9
 2 SOUR @S16@
 0 @I113@ INDI
-1 _XY 2445 1177
+1 _XY 2992 1495
 1 REFN 2941ec5e-b3a0-4660-9fd7-4642dac5fc03
 1 NAME Manuela Antonia /Morán de Butrón y del Castillo/
 2 SOUR @S17@
@@ -1739,7 +1771,7 @@
 2 SOUR @S20@
 3 QUAY 1
 0 @I114@ INDI
-1 _XY 2632 1228
+1 _XY 3675 1495
 1 REFN af49518f-c7ae-4548-b4c0-f85440ea6a9f
 1 NAME Mariano Joaquin /Morán de Butrón y del Castillo/
 2 SOUR @S16@
@@ -1753,7 +1785,7 @@
 4 LONG W79.9
 2 SOUR @S16@
 0 @I115@ INDI
-1 _XY 2805 1177
+1 _XY 3352 1495
 1 REFN 5fb050d5-78be-4d47-b669-dacec988f02c
 1 NAME María Isabel /Morán de Butrón y del Castillo/
 2 SOUR @S16@
@@ -1767,7 +1799,7 @@
 4 LONG W79.9
 2 SOUR @S16@
 0 @I116@ INDI
-1 _XY 2645 1180
+1 _XY 3168 1495
 1 REFN 56c3603d-f1e5-47ec-b500-e6aa95883ee8
 1 NAME María Josefa Gabriela /Morán de Butrón y del Castillo/
 2 SOUR @S16@
@@ -1781,7 +1813,7 @@
 4 LONG W79.9
 2 SOUR @S16@
 0 @I117@ INDI
-1 _XY 2614 1071
+1 _XY 3179 1232
 1 REFN 2a3267cc-75e9-4104-8d00-e488a3741d8b
 1 NAME Antonio /Morán de Butrón y Ozerín/
 2 SOUR @S17@
@@ -1806,7 +1838,7 @@
 2 SOUR @S20@
 3 QUAY 1
 0 @I118@ INDI
-1 _XY 2809 1072
+1 _XY 3374 1233
 1 REFN be0ba555-b1ec-4d96-a15c-bcedc4d78499
 1 NAME Francisca /Morán de Butrón y Ozerín/
 2 SOUR @S20@
@@ -1814,7 +1846,7 @@
 1 SEX F
 1 FAMC @F73@
 0 @I119@ INDI
-1 _XY 3428 417
+1 _XY 4335 620
 1 REFN 59e645dc-2e30-44bd-a481-520e61351651
 1 NAME Agustín /Morán de Butrón y Ponce de León/
 2 SOUR @S16@
@@ -1828,7 +1860,7 @@
 4 LONG W79.9
 2 SOUR @S16@
 0 @I120@ INDI
-1 _XY 3590 433
+1 _XY 4536 618
 1 REFN 02873329-20bd-460b-9b70-1b27f112e7fa
 1 NAME Alonso /Morán de Butrón y Ponce de León/
 2 SOUR @S20@
@@ -1864,7 +1896,7 @@
 2 SOUR @S20@
 3 QUAY 1
 0 @I121@ INDI
-1 _XY 3236 420
+1 _XY 4143 623
 1 REFN e32e129d-fe35-48d2-be5c-16b20896a0fa
 1 NAME Andrés /Morán de Butrón y Ponce de León/
 2 SOUR @S16@
@@ -1878,7 +1910,7 @@
 4 LONG W79.9
 2 SOUR @S16@
 0 @I122@ INDI
-1 _XY 3422 463
+1 _XY 3987 624
 1 REFN 27e69628-7c00-4b30-9070-96800308456f
 1 NAME José /Morán de Butrón y Ponce de León/
 2 SOUR @S16@
@@ -1888,7 +1920,7 @@
 2 DATE 1601
 2 SOUR @S16@
 0 @I123@ INDI
-1 _XY 3236 465
+1 _XY 3801 626
 1 REFN f51f7031-8da5-4937-8176-76c4b78865ad
 1 NAME Nicolás /Morán de Butrón y Ponce de León/
 2 SOUR @S16@
@@ -1902,7 +1934,7 @@
 4 LONG W79.9
 2 SOUR @S16@
 0 @I124@ INDI
-1 _XY 3102 1034
+1 _XY 4542 1085
 1 REFN 8e43081a-aa96-4f18-b572-cd65445e5495
 1 NAME Gabriel /Morán de Butrón y Ramírez de Guzmán/
 2 SOUR @S26@
@@ -1916,7 +1948,7 @@
 4 LONG W79.9
 2 SOUR @S26@
 0 @I125@ INDI
-1 _XY 2922 933
+1 _XY 3487 1085
 1 REFN 4f1af5e7-db89-4ee6-b6d5-1044d0a64a25
 1 NAME Jacinto /Morán de Butrón y Ramírez de Guzmán/
 2 SOUR @S26@
@@ -1930,7 +1962,7 @@
 4 LONG W79.9
 2 SOUR @S26@
 0 @I126@ INDI
-1 _XY 3273 1027
+1 _XY 4713 1085
 1 REFN f1ed3b9f-7b64-447d-81e8-0fd69676835c
 1 NAME Jerónima /Morán de Butrón y Ramírez de Guzmán/
 2 SOUR @S26@
@@ -1947,7 +1979,7 @@
 2 DATE 1724
 2 SOUR @S26@
 0 @I127@ INDI
-1 _XY 2739 932
+1 _XY 3304 1085
 1 REFN 43bcb673-96a1-48de-86c5-780ce27be70d
 1 NAME José /Morán de Butrón y Ramírez de Guzmán/
 2 SOUR @S17@
@@ -1971,7 +2003,7 @@
 2 SOUR @S20@
 3 QUAY 1
 0 @I128@ INDI
-1 _XY 3100 983
+1 _XY 4199 1085
 1 REFN 2bd4fbc6-04a8-4760-a20c-d88958e1291d
 1 NAME Leonor /Morán de Butrón y Ramírez de Guzmán/
 2 SOUR @S26@
@@ -1985,7 +2017,7 @@
 4 LONG W79.9
 2 SOUR @S26@
 0 @I129@ INDI
-1 _XY 2928 986
+1 _XY 4027 1085
 1 REFN f2ac0f96-f7ed-4a7d-9528-50226995b0a6
 1 NAME Mariana /Morán de Butrón y Ramírez de Guzmán/
 2 SOUR @S26@
@@ -1999,7 +2031,7 @@
 4 LONG W79.9
 2 SOUR @S26@
 0 @I130@ INDI
-1 _XY 3262 979
+1 _XY 4361 1085
 1 REFN adaea2f7-4016-4747-a14c-505b893f6b37
 1 NAME Martín /Morán de Butrón y Ramírez de Guzmán/
 2 SOUR @S26@
@@ -2013,7 +2045,7 @@
 4 LONG W79.9
 2 SOUR @S26@
 0 @I131@ INDI
-1 _XY 3092 933
+1 _XY 3657 1085
 1 REFN b2ac8746-9ed4-407e-8069-e086ad42e4d0
 1 NAME Nicolás /Morán de Butrón y Ramírez de Guzmán/
 2 SOUR @S26@
@@ -2027,7 +2059,7 @@
 4 LONG W79.9
 2 SOUR @S26@
 0 @I132@ INDI
-1 _XY 3280 931
+1 _XY 3845 1085
 1 REFN e12e3e88-8b05-46aa-afd9-786e32569922
 1 NAME Petronila /Morán de Butrón y Ramírez de Guzmán/
 2 SOUR @S26@
@@ -2041,7 +2073,7 @@
 4 LONG W79.9
 2 SOUR @S26@
 0 @I133@ INDI
-1 _XY 3503 731
+1 _XY 4013 911
 1 REFN f17db394-6cf6-4d8a-8f27-7b5f75f55a7d
 1 NAME Alonson /Morán de Butrón y Rendón/
 2 SOUR @S16@
@@ -2055,7 +2087,7 @@
 4 LONG W79.9
 2 SOUR @S16@
 0 @I134@ INDI
-1 _XY 3446 819
+1 _XY 4878 911
 1 REFN 8c3ba859-9691-47a8-9b19-c4f95f763d75
 1 NAME Andrés /Morán de Butrón y Rendón/
 2 SOUR @S16@
@@ -2069,7 +2101,7 @@
 4 LONG W79.9
 2 SOUR @S16@
 0 @I135@ INDI
-1 _XY 3760 776
+1 _XY 4704 911
 1 REFN fc5c279f-9c1a-4d47-9599-b8b525b694fa
 1 NAME Gabriel /Morán de Butrón y Rendón/
 2 SOUR @S16@
@@ -2083,7 +2115,7 @@
 4 LONG W79.9
 2 SOUR @S16@
 0 @I136@ INDI
-1 _XY 3325 726
+1 _XY 3836 911
 1 REFN 9ae8f502-9234-4fae-8551-285d3ae0e076
 1 NAME Jacinto /Morán de Butrón y Rendón/
 2 SOUR @S20@
@@ -2109,7 +2141,7 @@
 2 SOUR @S20@
 3 QUAY 1
 0 @I137@ INDI
-1 _XY 3681 730
+1 _XY 4191 911
 1 REFN bbf66bdd-0cc0-4a91-9a26-4ef60d9aa11a
 1 NAME José /Morán de Butrón y Rendón/
 2 SOUR @S16@
@@ -2123,7 +2155,7 @@
 4 LONG W79.9
 2 SOUR @S16@
 0 @I138@ INDI
-1 _XY 3447 776
+1 _XY 4346 911
 1 REFN 6ca94592-0522-4534-b3ca-d2b8eddfa288
 1 NAME Leonor /Morán de Butrón y Rendón/
 2 SOUR @S16@
@@ -2137,7 +2169,7 @@
 4 LONG W79.9
 2 SOUR @S16@
 0 @I139@ INDI
-1 _XY 3622 774
+1 _XY 4521 911
 1 REFN 7db5edc1-b66b-41e0-8c19-54c7a32539ee
 1 NAME Petronila /Morán de Butrón y Rendón/
 2 SOUR @S16@
@@ -2151,7 +2183,7 @@
 4 LONG W79.9
 2 SOUR @S16@
 0 @I140@ INDI
-1 _XY 3134 189
+1 _XY 3873 299
 1 REFN ba2e58e0-4e74-490f-87c9-268d268f87c3
 1 NAME Alonson /Morán de Butrón/
 2 SOUR @S16@
@@ -2162,14 +2194,14 @@
 2 PLAC Mezeta, Vizcaya, Spain
 2 SOUR @S16@
 0 @I141@ INDI
-1 _XY 324 1194
+1 _XY 2175 1816
 1 REFN bcf344c7-2937-4834-b5e2-6e81de2b6c3f
 1 NAME José Ignacio /Moreno y Morán de Butrón/
 2 SOUR @S16@
 1 SEX M
 1 FAMC @F72@
 0 @I142@ INDI
-1 _XY 410 1148
+1 _XY 1659 1816
 1 REFN 03480c8d-82e0-486f-86e7-3a0622ff919d
 1 NAME Juan Pablo /Moreno y Morán de Butrón/
 2 SOUR @S17@
@@ -2184,7 +2216,7 @@
 1 DEAT
 2 PLAC ?
 0 @I143@ INDI
-1 _XY 240 1131
+1 _XY 1491 1816
 1 REFN 4b29b09f-1c11-4a70-80a3-5900192c2265
 1 NAME Juana Mercedes /Moreno y Morán de Butrón/
 2 SOUR @S17@
@@ -2214,7 +2246,7 @@
 2 SOUR @S19@
 3 QUAY 1
 0 @I144@ INDI
-1 _XY 664 1185
+1 _XY 2515 1816
 1 REFN 0e61c91e-de20-4e8c-8935-975e878c0b43
 1 NAME Manuel Ignacio /Moreno y Morán de Butrón/
 2 SOUR @S17@
@@ -2226,7 +2258,7 @@
 1 SEX M
 1 FAMC @F72@
 0 @I145@ INDI
-1 _XY 487 1185
+1 _XY 2338 1816
 1 REFN 225c7212-bb61-47bf-94e6-488d79fd124c
 1 NAME María Dolores /Moreno y Morán de Butrón/
 2 SOUR @S16@
@@ -2240,7 +2272,7 @@
 4 LONG W79.9333
 2 SOUR @S16@
 0 @I146@ INDI
-1 _XY 573 1148
+1 _XY 1837 1816
 1 REFN 1bc100cd-da69-4777-9c6f-8427b4d21887
 1 NAME Miguel /Moreno y Morán de Butrón/
 2 SOUR @S17@
@@ -2255,7 +2287,7 @@
 1 DEAT
 2 PLAC ?
 0 @I147@ INDI
-1 _XY 749 1148
+1 _XY 2013 1816
 1 REFN a4877ae6-ac7f-4381-87b8-e449f7d22634
 1 NAME Petra /Moreno y Morán de Butrón/
 2 SOUR @S17@
@@ -2275,7 +2307,7 @@
 4 LONG W79.9
 2 SOUR @S16@
 0 @I148@ INDI
-1 _XY 580 1002
+1 _XY 2028 1617
 1 REFN 53881c05-5c25-4167-9fde-2f7292aceb34
 1 NAME Manuel Ignacio /Moreno y Sylva Santistevan/
 2 SOUR @S17@
@@ -2304,7 +2336,7 @@
 3 QUAY 1
 2 NOTE councilman of Guayaquil
 0 @I149@ INDI
-1 _XY 660 896
+1 _XY 2112 1488
 1 REFN 7ea053dc-73d2-431b-a08b-562de9bb0b46
 1 NAME José Ignacio /Moreno/
 2 SOUR @S19@
@@ -2322,6 +2354,7 @@
 4 LONG W79.9
 2 SOUR @S16@
 0 @I150@ INDI
+1 _XY 2599 30
 1 REFN df033943-9e81-4be3-8707-0d4428f1dffc
 1 NAME Antonio /Navarra/
 2 SOUR @S17@
@@ -2335,7 +2368,7 @@
 2 DATE 1428
 2 PLAC Gandia, Valencia, Spain
 0 @I151@ INDI
-1 _XY 2052 88
+1 _XY 2763 200
 1 REFN 12ae1221-9b47-475d-85a7-623ea67fcf3b
 1 NAME Antonio /Navarro Navarrete y Florencia/
 2 SOUR @S17@
@@ -2354,7 +2387,7 @@
 1 DEAT
 2 PLAC España
 0 @I152@ INDI
-1 _XY 1909 89
+1 _XY 2483 200
 1 REFN 5af16aa8-8f05-460e-a7fb-313e8e5285ca
 1 NAME Catalina /Navarro Navarrete y Florencia/
 2 SOUR @S17@
@@ -2370,7 +2403,7 @@
 2 PLAC Navarrete, Logroño, Castilla, Spain
 2 SOUR @S16@
 0 @I153@ INDI
-1 _XY 1766 96
+1 _XY 2237 200
 1 REFN 3ea715f6-37ef-44f3-b7ef-7b66d10b1c0f
 1 NAME Diego /Navarro Navarrete y Florencia/
 2 SOUR @S17@
@@ -2387,7 +2420,7 @@
 2 PLAC Navarrete, Logroño, Castilla, Spain
 2 SOUR @S16@
 0 @I154@ INDI
-1 _XY 3492 184
+1 _XY 3498 289
 1 REFN 88bfda1c-c32c-4961-a67c-fb2e948ef6cd
 1 NAME Antonio /Navarro Navarrete y López de Salinas/
 2 SOUR @S16@
@@ -2405,7 +2438,7 @@
 4 LONG W79.9
 2 SOUR @S16@
 0 @I155@ INDI
-1 _XY 3308 186
+1 _XY 3674 292
 1 REFN 80c1e498-872e-483f-bed9-30abb4849923
 1 NAME Catalina /Navarro Navarrete y López de Salinas/
 2 SOUR @S16@
@@ -2417,7 +2450,7 @@
 2 PLAC Mezeta, Vizcaya, Spain
 2 SOUR @S16@
 0 @I156@ INDI
-1 _XY 1578 895
+1 _XY 1890 1052
 1 REFN 51ef24d6-4bcb-4c92-b20a-8194993b5d0e
 1 NAME Alejandro /Navarro Navarrete/
 2 SOUR @S16@
@@ -2437,14 +2470,14 @@
 4 LONG W79.9
 2 SOUR @S16@
 0 @I157@ INDI
-1 _XY 1414 612
+1 _XY 1797 739
 1 REFN 6c16fa8d-a5db-4192-932a-eac0e6bdea03
 1 NAME Antonia /Navarro Navarrete/
 2 SOUR @S16@
 1 SEX F
 1 FAMC @F22@
 0 @I158@ INDI
-1 _XY 2141 30
+1 _XY 2623 127
 1 REFN bc76968a-75a8-494c-81ba-1d10cde21abe
 1 NAME Antonio /Navarro Navarrete/
 2 SOUR @S17@
@@ -2463,7 +2496,7 @@
 1 DEAT
 2 PLAC España
 0 @I159@ INDI
-1 _XY 1299 895
+1 _XY 1611 1052
 1 REFN ed9661a8-e21b-4405-ba1b-831199de717d
 1 NAME Baltasara Jacinta /Navarro Navarrete/
 2 SOUR @S16@
@@ -2484,7 +2517,7 @@
 4 LONG W79.9
 2 SOUR @S16@
 0 @I160@ INDI
-1 _XY 1565 932
+1 _XY 2231 1052
 1 REFN b923082a-0c3d-4a8b-823b-1835c5c348d2
 1 NAME Catalina /Navarro Navarrete/
 2 SOUR @S16@
@@ -2503,7 +2536,7 @@
 4 LONG W79.9
 2 SOUR @S16@
 0 @I161@ INDI
-1 _XY 1270 512
+1 _XY 1650 599
 1 REFN 2d93f928-9fbb-4389-ac94-7085ff8b02be
 1 NAME Catalina /Navarro Navarrete/
 2 SOUR @S16@
@@ -2517,7 +2550,7 @@
 4 LONG W79.9
 2 SOUR @S16@
 0 @I162@ INDI
-1 _XY 1418 513
+1 _XY 1010 599
 1 REFN ba6727bf-b43d-4674-afb4-4b7f8b05786e
 1 NAME Diego /Navarro Navarrete/
 2 SOUR @S16@
@@ -2531,7 +2564,7 @@
 4 LONG W79.9
 2 SOUR @S16@
 0 @I163@ INDI
-1 _XY 1306 456
+1 _XY 1645 458
 1 REFN cbaa2c2b-bcc9-43c1-9920-564e5353385e
 1 NAME Diego /Navarro Navarrete/
 2 SOUR @S16@
@@ -2546,28 +2579,28 @@
 4 LONG W79.9
 2 SOUR @S16@
 0 @I164@ INDI
-1 _XY 1283 589
+1 _XY 1640 739
 1 REFN 5fa845ce-7a74-468a-9787-37bb01d8f13b
 1 NAME Diego /Navarro Navarrete/
 2 SOUR @S16@
 1 SEX M
 1 FAMC @F22@
 0 @I165@ INDI
-1 _XY 1275 647
+1 _XY 1303 739
 1 REFN b7363f13-bc52-4425-ba9b-3ab91c299c37
 1 NAME Feliciana /Navarro Navarrete/
 2 SOUR @S16@
 1 SEX F
 1 FAMC @F22@
 0 @I166@ INDI
-1 _XY 1697 932
+1 _XY 2401 1052
 1 REFN 878b6cee-ab3f-427e-9765-2719703189aa
 1 NAME Francisco Xavier /Navarro Navarrete/
 2 SOUR @S16@
 1 SEX M
 1 FAMC @F61@
 0 @I167@ INDI
-1 _XY 1392 781
+1 _XY 1899 903
 1 REFN b71d6555-9aee-466c-b400-767aa8c26472
 1 NAME Josefa /Navarro Navarrete/
 2 SOUR @S16@
@@ -2581,7 +2614,7 @@
 4 LONG W79.9
 2 SOUR @S16@
 0 @I168@ INDI
-1 _XY 1531 782
+1 _XY 1726 904
 1 REFN 669c1939-7b42-4f29-a354-6815be89ed9c
 1 NAME Juan /Navarro Navarrete/
 2 SOUR @S16@
@@ -2595,7 +2628,7 @@
 4 LONG W79.9
 2 SOUR @S16@
 0 @I169@ INDI
-1 _XY 1415 589
+1 _XY 1969 739
 1 REFN 74298b40-0f3a-4469-a8c1-7ef872a04091
 1 NAME Juan Donata /Navarro Navarrete/
 2 SOUR @S16@
@@ -2609,14 +2642,14 @@
 4 LONG W79.9
 2 SOUR @S16@
 0 @I170@ INDI
-1 _XY 1433 642
+1 _XY 1477 739
 1 REFN 4d963ea7-b4b1-4c6b-ba5b-d02fd7daaa64
 1 NAME Leonor /Navarro Navarrete/
 2 SOUR @S16@
 1 SEX F
 1 FAMC @F22@
 0 @I171@ INDI
-1 _XY 1126 542
+1 _XY 1169 599
 1 REFN 7a42df34-1e87-4280-ba64-afc080f422ec
 1 NAME Leonor /Navarro Navarrete/
 2 SOUR @S16@
@@ -2629,7 +2662,7 @@
 4 LONG W79.9
 2 SOUR @S16@
 0 @I172@ INDI
-1 _XY 1276 546
+1 _XY 1336 599
 1 REFN 7e9bb781-df83-48e7-b40f-a60926a01283
 1 NAME Mariana /Navarro Navarrete/
 2 SOUR @S16@
@@ -2642,7 +2675,7 @@
 4 LONG W79.9
 2 SOUR @S16@
 0 @I173@ INDI
-1 _XY 1283 614
+1 _XY 1000 739
 1 REFN 535b5dd9-a116-40e1-a2ff-0a56820ef749
 1 NAME María /Navarro Navarrete/
 2 SOUR @S16@
@@ -2656,7 +2689,7 @@
 4 LONG W79.9
 2 SOUR @S16@
 0 @I174@ INDI
-1 _XY 1133 513
+1 _XY 1511 599
 1 REFN 56741e65-8e14-4013-ad66-01a7354738ee
 1 NAME María Ana /Navarro Navarrete/
 2 SOUR @S16@
@@ -2675,14 +2708,14 @@
 4 LONG W79.9
 2 SOUR @S16@
 0 @I175@ INDI
-1 _XY 1416 665
+1 _XY 1159 739
 1 REFN 6370cf40-cbc9-45d5-bd65-b3a8cd757025
 1 NAME María Josefa /Navarro Navarrete/
 2 SOUR @S16@
 1 SEX F
 1 FAMC @F22@
 0 @I176@ INDI
-1 _XY 1430 895
+1 _XY 1763 1052
 1 REFN fa1b962e-bada-4e49-a135-d4a503d87b61
 1 NAME Sebastiána /Navarro Navarrete/
 2 SOUR @S16@
@@ -2702,14 +2735,14 @@
 4 LONG W79.9
 2 SOUR @S16@
 0 @I177@ INDI
-1 _XY 1714 894
+1 _XY 2066 1052
 1 REFN 64636925-d5b4-4c6b-bf88-80f22fd62e7e
 1 NAME Tomasa /Navarro Navarrete/
 2 SOUR @S16@
 1 SEX F
 1 FAMC @F61@
 0 @I178@ INDI
-1 _XY 3590 303
+1 _XY 4346 419
 1 REFN 2a25255a-3f13-4c9a-94a5-44829e157107
 1 NAME Jerónima /Ponce de León y Díaz Bravo/
 2 SOUR @S20@
@@ -2722,7 +2755,7 @@
 2 PLAC Carrión de los Condes, Palencia, Spain
 2 SOUR @S16@
 0 @I179@ INDI
-1 _XY 3755 303
+1 _XY 4511 419
 1 REFN 01594ad0-1f56-4972-8a1b-35bae88fcdbc
 1 NAME Mariana /Ponce de León y Díaz Bravo/
 2 SOUR @S16@
@@ -2743,7 +2776,7 @@
 4 LONG W79.9
 2 SOUR @S16@
 0 @I180@ INDI
-1 _XY 3835 200
+1 _XY 4646 288
 1 REFN 415b9a52-d236-4eb7-b680-46c38ff25145
 1 NAME María Isabel /Ponce de León y Gutiérrez de Haro/
 2 SOUR @S17@
@@ -2761,7 +2794,7 @@
 1 DEAT
 2 PLAC Perú
 0 @I181@ INDI
-1 _XY 3941 159
+1 _XY 4889 202
 1 REFN 54328079-d007-47ac-b391-f677744b970e
 1 NAME María /Ponce de León/
 2 SOUR @S17@
@@ -2787,14 +2820,14 @@
 4 LATI S2.1667
 4 LONG W79.9
 0 @I182@ INDI
-1 _XY 3025 276
+1 _XY 3606 428
 1 REFN 3949ed30-d986-450f-80e4-90d1e402799f
 1 NAME Ana /Ponce/
 2 SOUR @S16@
 1 SEX F
 1 FAMS @F32@
 0 @I183@ INDI
-1 _XY 2698 523
+1 _XY 3259 696
 1 REFN c12cd475-90e9-4279-897a-646537724250
 1 NAME Jacinta /Porres/
 2 SOUR @S16@
@@ -2808,14 +2841,14 @@
 4 LONG W79.9
 2 SOUR @S16@
 0 @I184@ INDI
-1 _XY 2912 468
+1 _XY 3436 641
 1 REFN 047b01d3-93dc-4154-9a57-765b7cf98e9b
 1 NAME Martín /Porres/
 2 SOUR @S16@
 1 SEX M
 1 FAMS @F23@
 0 @I185@ INDI
-1 _XY 2597 643
+1 _XY 3191 805
 1 REFN e37c90f7-68da-4f63-9238-79d2aa00bb76
 1 NAME Baltasara /Ramírez de Guzmán y Carranza/
 2 SOUR @S16@
@@ -2828,7 +2861,7 @@
 4 LONG W79.9
 2 SOUR @S16@
 0 @I186@ INDI
-1 _XY 2760 641
+1 _XY 3325 802
 1 REFN 60e68c09-409b-4637-a8c0-ad7da9378d19
 1 NAME Martín /Ramírez de Guzmán y Carranza/
 2 SOUR @S16@
@@ -2849,7 +2882,7 @@
 4 LONG W79.9
 2 SOUR @S16@
 0 @I187@ INDI
-1 _XY 2459 643
+1 _XY 3024 804
 1 REFN 21e8a31b-1f49-4f70-ac8a-9fc41c9426ef
 1 NAME Ursula /Ramírez de Guzmán y Carranza/
 2 SOUR @S16@
@@ -2863,7 +2896,7 @@
 4 LONG W79.9
 2 SOUR @S16@
 0 @I188@ INDI
-1 _XY 2548 732
+1 _XY 3125 919
 1 REFN ca7945c7-d42b-476d-b9b7-4269ff771c9a
 1 NAME Diego /Ramírez de Guzmán y Mestanza/
 2 SOUR @S16@
@@ -2877,7 +2910,7 @@
 4 LONG W79.9
 2 SOUR @S16@
 0 @I189@ INDI
-1 _XY 2847 726
+1 _XY 3462 919
 1 REFN e4cae9b9-b36a-430f-9132-aac6f94b17f8
 1 NAME María /Ramírez de Guzmán y Mestanza/
 2 SOUR @S20@
@@ -2893,7 +2926,7 @@
 4 LONG W79.9
 2 SOUR @S16@
 0 @I190@ INDI
-1 _XY 2689 731
+1 _XY 3298 919
 1 REFN d7db4a01-f116-41c2-889f-50710ae7ae46
 1 NAME Martín /Ramírez de Guzmán y Mestanza/
 2 SOUR @S16@
@@ -2907,7 +2940,7 @@
 4 LONG W79.9
 2 SOUR @S16@
 0 @I191@ INDI
-1 _XY 2462 397
+1 _XY 2965 528
 1 REFN c82e4aa9-e06e-4665-98b0-ede17dce20c9
 1 NAME Martín /Ramírez de Guzmán/
 2 SOUR @S16@
@@ -2918,7 +2951,7 @@
 2 PLAC Spain
 2 SOUR @S16@
 0 @I192@ INDI
-1 _XY 2483 460
+1 _XY 3048 621
 1 REFN 11098dbc-15bd-49c6-94db-06487fa79336
 1 NAME Martín Salazar /Ramírez de Guzmán/
 2 SOUR @S16@
@@ -2933,7 +2966,7 @@
 4 LONG W79.9
 2 SOUR @S16@
 0 @I193@ INDI
-1 _XY 2433 293
+1 _XY 2934 437
 1 REFN 458a517e-4840-4fe4-9e8e-e451d86af537
 1 NAME Mariana /Robles Calderon/
 2 SOUR @S16@
@@ -2943,7 +2976,7 @@
 2 PLAC Panama
 2 SOUR @S16@
 0 @I194@ INDI
-1 _XY 2571 943
+1 _XY 3125 1100
 1 REFN 0340f128-980d-4138-bec7-a2790ea18b20
 1 NAME María /Rodriguez de Ozerín/
 2 SOUR @S17@
@@ -2958,7 +2991,7 @@
 1 BIRT
 2 PLAC Guayaquil
 0 @I195@ INDI
-1 _XY 3771 133
+1 _XY 4527 206
 1 REFN ad36d8d0-ad95-4f79-a3fe-660736d10b0e
 1 NAME Antonia /Rodriguez/
 2 SOUR @S17@
@@ -2975,7 +3008,7 @@
 1 DEAT
 2 PLAC España
 0 @obAZ9TAOQymqUjtnyXI7@ INDI
-1 _XY 465 1434
+1 _XY 1449 2248
 1 REFN f0a16daf-2789-4774-8d42-12d10761033a
 1 NAME Francisca /Romero/
 2 SOUR @LSlAMZ6dT2mXk2j4khXV@
@@ -3308,7 +3341,7 @@
 2 SOUR @AmmouxfZQcWccceDFZqO@
 3 QUAY 1
 0 @I196@ INDI
-1 _XY 285 1434
+1 _XY 1088 2255
 1 REFN 2cd92f4f-3b39-4723-a56c-63c6f4945e6c
 1 NAME Ignacio /Romero/
 2 SOUR @S19@
@@ -3324,7 +3357,7 @@
 2 SOUR @S19@
 3 QUAY 1
 0 @I197@ INDI
-1 _XY 569 1434
+1 _XY 1312 2254
 1 REFN 31960747-7640-4e59-bf26-6bf09f412958
 1 NAME Mercedes /Romero/
 2 SOUR @S19@
@@ -3340,7 +3373,7 @@
 2 SOUR @S19@
 3 QUAY 1
 0 @I198@ INDI
-1 _XY 152 1434
+1 _XY 905 2255
 1 REFN e0a824af-3a28-4a17-9ba8-810d1c3f352c
 1 NAME Pedro Alcántara /Romero/
 2 SOUR @S19@
@@ -3356,7 +3389,7 @@
 2 SOUR @S19@
 3 QUAY 1
 0 @I199@ INDI
-1 _XY 259 1364
+1 _XY 974 2072
 1 REFN f66b63d0-867a-4ef1-a5e6-505c90a44220
 1 NAME Rosario /Romero/
 2 SOUR @S19@
@@ -3403,7 +3436,7 @@
 2 SOUR @S19@
 3 QUAY 1
 0 @I200@ INDI
-1 _XY 375 1434
+1 _XY 1210 2254
 1 REFN d9672725-8567-49e0-b347-7635a9bcac68
 1 NAME Tomás /Romero/
 2 SOUR @S19@
@@ -3419,7 +3452,7 @@
 2 SOUR @S19@
 3 QUAY 1
 0 @I201@ INDI
-1 _XY 2226 631
+1 _XY 439 721
 1 REFN 2a437bfc-de8c-44e0-a418-4a3c5665f54d
 1 NAME Catalina /Ruiz de Bohorquez/
 2 SOUR @S16@
@@ -3434,7 +3467,7 @@
 4 LONG W79.9
 2 SOUR @S16@
 0 @I202@ INDI
-1 _XY 2275 242
+1 _XY 2776 386
 1 REFN 3022159d-3c74-4efb-9352-035294081b5c
 1 NAME Martín /Salazar/
 2 SOUR @S16@
@@ -3444,14 +3477,14 @@
 2 PLAC Valdemoro, Madrid, Spain
 2 SOUR @S16@
 0 @I203@ INDI
-1 _XY 2733 280
+1 _XY 3314 432
 1 REFN 0f965822-11bd-42b0-8f8a-51f63eb7fbc4
 1 NAME Juan /Sanchez de Carranza/
 2 SOUR @S16@
 1 SEX M
 1 FAMS @F57@
 0 @I205@ INDI
-1 _XY 786 765
+1 _XY 2090 1339
 1 REFN b96e3402-6855-4260-8632-3847ead103a4
 1 NAME Catalina /Tello de Arana/
 2 SOUR @S16@
@@ -3470,7 +3503,7 @@
 4 LONG W79.9
 2 SOUR @S16@
 0 @I206@ INDI
-1 _XY 2188 748
+1 _XY 369 860
 1 REFN d17c4cb4-2875-4a45-94f3-6797a3b4809b
 1 NAME Ana /Tobar Balpuerta/
 2 SOUR @S16@
@@ -3483,7 +3516,7 @@
 4 LONG W79.9
 2 SOUR @S16@
 0 @I207@ INDI
-1 _XY 2287 293
+1 _XY 2788 437
 1 REFN be6d488e-8695-4f6f-8c25-f08ebcea8e96
 1 NAME Rodrigo /Vargas Guzmán/
 2 SOUR @S16@
@@ -3494,7 +3527,7 @@
 2 PLAC Valdemoro, Madrid, Spain
 2 SOUR @S16@
 0 @I208@ INDI
-1 _XY 2078 744
+1 _XY 257 852
 1 REFN f7351f79-a48a-4910-badc-e52411ab15e5
 1 NAME Francisco /Vera/
 2 SOUR @S16@
