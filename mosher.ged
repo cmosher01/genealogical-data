@@ -13,9 +13,9 @@
 4 CONT Boston, MA 02109
 3 PHON (617) 227-6681
 1 DEST FTM
-1 FILE Mosher_2018-03-17-17-24-58.ftm.ged
+1 FILE Mosher_2018-03-17-20-11-53.ftm.ged
 1 DATE 17 MAR 2018
-2 TIME 17:26:17
+2 TIME 20:13:26
 0 @Umy2qBWIRUiwVSS6Hcn4@ SUBM
 1 NAME Christopher Alan Mosher
 2 EMAIL cmosher01@@gmail.com
@@ -402,6 +402,7 @@
 4 LATI N43.0881
 4 LONG W70.7362
 0 @I411@ INDI
+1 _XY 7325 1693
 1 NAME William H. /Blakeslee/
 2 SOUR @S203@
 3 _APID 1,61632::1344308
@@ -2824,7 +2825,7 @@
 2 SOUR @DnDlNyDETESO9LLHKpZW@
 3 QUAY 1
 0 @lRa4WTztSYCNE5gvKech@ INDI
-1 _XY 7199 1692
+1 _XY 7199 1693
 1 REFN 3c6192e8-944e-40cc-87dc-f5cea120d2ec
 1 NAME Alta Amelia /Lovejoy/
 2 SOUR @S203@
@@ -10498,6 +10499,470 @@
 3 MAP
 4 LATI N43.1471
 4 LONG W73.854
+2 SOUR @S204@
+3 _LINK https://digitalcollections.nypl.org/items/510d47e3-c121-a3d9
+4 CONC -e040-e00a18064a99
+3 PAGE <bibl> <title level="m">New Topographical Atlas of Saratog
+4 CONC a Co. New York. From Actual Surveys by S. N. &amp; D. G. Bee
+4 CONC rs and Assistants</title>, (<pubPlace>Philadelphia</pubPlace
+4 CONC >: <publisher>Stone &amp; Stewart</publisher>, 1866), <cited
+4 CONC Range>33</citedRange>, <title level="a">Greenfield</title>
+4 CONC , R. Ingram, halfway between North Greenfield and Greenfiel
+4 CONC d Center, on west side of highway, south of a cemetery; digi
+4 CONC tal images, <author>Lionel Pincus and Princess Firyal Map Di
+4 CONC vision, The New York Public Library</author>, <title level="
+4 CONC m">The New York Public Library Digital Collections</title> (
+4 CONC <ref target="https://digitalcollections.nypl.org/items/510d4
+4 CONC 7e3-c121-a3d9-e040-e00a18064a99"/> : accessed 17 Mar 2018)
+4 CONC . </bibl>
+3 QUAY 3
+3 DATA
+4 TEXT R. Ingram [I assume this is Rufus B. Ingham]
+3 OBJE @M211@
+2 SOUR @S202@
+3 _LINK https://www.familysearch.org/ark:/61903/3:1:3QSQ-G9WC-GWHT
+3 PAGE <bibl> <author>County of Saratoga (New York, USA)</author>
+4 CONC , <title level="u">Deed Records</title>, <citedRange>56: 496
+4 CONC –7, deed, Hiram and Naomi Barrass to Joseph Barrass, Jr., re
+4 CONC corded 28 Nov 1849</citedRange>; digital images, <title leve
+4 CONC l="u">Deed records v. 55–56 1848–9</title> FHL microfilm 555
+4 CONC ,779, DGS 7138744, image 530 of 566. </bibl>
+3 QUAY 4
+3 DATA
+4 TEXT on 6 Nov 1849,
+5 CONT Hiram and Naomi Barrass his wife, of Greenfield,
+5 CONT to Joseph Barrass, Jr. of Corinth,
+5 CONT for $1,000,
+5 CONT in Greenfield,
+5 CONT beginning in middle of highway from Weeds Corners to Greenfi
+5 CONC eld Center,
+5 CONT S 56° W, 31 chains 26.5 links, along Potter Johnson, decease
+5 CONC d,
+5 CONT N 16°20′ W, 16 chains 71 links,
+5 CONT N 56° E, 31 chains 26.5 links,
+5 CONT S 16°20′ E, 16 chains 71 links, to the beginning,
+5 CONT 50 acres
+2 SOUR @S202@
+3 _LINK https://www.familysearch.org/ark:/61903/3:1:3QS7-99WC-L8VD
+3 PAGE <bibl> <author>County of Saratoga (New York, USA)</author>
+4 CONC , <title level="u">Deed Records</title>, <citedRange>61: 319
+4 CONC –20, deed, Joseph Barrass, Jr., and Lucinda Jane, to Betse
+4 CONC y New, recorded 3 Mar 1852</citedRange>; digital images, <ti
+4 CONC tle level="u">Deed records v. 61 1851–2</title> FHL microfil
+4 CONC m 555,782, DGS 7138741, images 168–9 of 267. </bibl>
+3 QUAY 4
+3 DATA
+4 TEXT on 25 Feb 1852,
+5 CONT Joseph Barrass, Jr., and Lucinda Jane his wife, of Corinth,
+5 CONT to Betsey New, of Wilton,
+5 CONT for $835,
+5 CONT in Greenfield,
+5 CONT beginning in middle of highway from Weeds Corners to Greenfi
+5 CONC eld Center,
+5 CONT S 56° W, 31 chains 26.5 links, along Potter Johnson, decease
+5 CONC d,
+5 CONT N 16°20′ W, 16 chains 71 links,
+5 CONT N 56° E, 31 chains 26.5 links,
+5 CONT S 16°20′ E, 16 chains 71 links, to the beginning,
+5 CONT 50 acres,
+5 CONT mortgage by William W. Buttalph
+2 SOUR @S202@
+3 _LINK https://www.familysearch.org/ark:/61903/3:1:3QS7-L9WC-V8HJ
+3 PAGE <bibl> <author>County of Saratoga (New York, USA)</author>
+4 CONC , <title level="u">Deed Records</title>, <citedRange>77: 162
+4 CONC –3, deed, Philip E. and Betsey New to Rufus B. Ingham, recor
+4 CONC ded 26 Mar 1857</citedRange>; digital images, <title level="
+4 CONC u">Deed records v. 76–77 1856–7</title> FHL microfilm 554,70
+4 CONC 9, DGS 7138647, image 399 of 629. </bibl>
+3 QUAY 4
+3 DATA
+4 TEXT on 29 Apr 1856,
+5 CONT Philip E. New and Betsey his wife, of Greenfield,
+5 CONT to Rufus B. Ingham, of Greenfield,
+5 CONT for $765,
+5 CONT in Greenfield,
+5 CONT beginning in middle of highway from North Greenfield to Gree
+5 CONC nfield Center,
+5 CONT S 56° W, 31 chains 26.5 links, along Potter Johnson, decease
+5 CONC d,
+5 CONT N 16°20′ W, 16 chains 71 links,
+5 CONT N 56° E, 31 chains 26.5 links,
+5 CONT S 16°20′ E, 16 chains 71 links, to the beginning,
+5 CONT 50 acres
+2 SOUR @S202@
+3 _LINK https://www.familysearch.org/ark:/61903/3:1:3QSQ-G9WC-K97
+3 PAGE <bibl> <author>County of Saratoga (New York, USA)</author>
+4 CONC , <title level="u">Deed Records</title>, <citedRange>CD [D]
+4 CONC : 119–22, two deeds, Abner and Jonathan Williams, recorded 1
+4 CONC 4 Apr 1807</citedRange>; digital images, <title level="u">De
+4 CONC ed records v. C–D 1792–1808</title> FHL microfilm 556,586, D
+4 CONC GS 7138838, images 355–7 of 528. </bibl>
+3 QUAY 4
+3 DATA
+4 TEXT on 27 Dec 1806,
+5 CONT Abner Williams, of Greenfield, yeoman,
+5 CONT to Jonathan Williams, of Greenfield, son of Abner,
+5 CONT for $250,
+5 CONT in Greenfield,
+5 CONT part of Abner's homestead,
+5 CONT part of lot 6, of lots 8 and 2, of lot 7, of allotment 22 o
+5 CONC f Kayaderosseras Patent,
+5 CONT beginning at SE corner of Abner's homestead on W of highway
+5 CONC , and NW corner of lot 3,
+5 CONT S 56° W, 31 chains 26.5 links, along N of Potter Johnson, t
+5 CONC o stake and heap of stones E bound of lot 1,
+5 CONT N 16°20′ W, 16 chains 66.5 links, along E of lot 1, to stak
+5 CONC e and heap of stones,
+5 CONT N 56° E, 31 chains 26.5 links,
+5 CONT S 16°20′ E, 16 chains 66.5 links, to the beginning,
+5 CONT 50 acres,
+5 CONT [followed by second deed, same property, but "farm let" by J
+5 CONC onathan to Abner]
+2 SOUR @S202@
+3 _LINK https://www.familysearch.org/ark:/61903/3:1:3QS7-99WC-G3YS
+3 PAGE <bibl> <author>County of Saratoga (New York, USA)</author>
+4 CONC , <title level="u">Deed Records</title>, <citedRange>DD: 362
+4 CONC –3, deed, William G. Mosher to Dudley F. Scott, recorded 1
+4 CONC 2 Apr 1837</citedRange>; digital images, <title level="u">De
+4 CONC ed records v. DD–EE 1837</title> FHL microfilm 555,767, DG
+4 CONC S 7138756, images 197–8 of 609. </bibl>
+3 QUAY 4
+3 DATA
+4 TEXT [on 6 Mar 1837,
+5 CONT William G. Mosher, of Greenfield,
+5 CONT to Dudley F. Scott, of Greenfield,
+5 CONT for $1,200,
+5 CONT in Greenfield,
+5 CONT beginning in middle of highway from Edwin C. Weeds Store t
+5 CONC o Ballson Spa,
+5 CONT S 56° W, 91 [31] chains 26 links, along W.G.M. and Potter Jo
+5 CONC hnson (NE of 50 acres), to E bound of lot 1, of lot 7, of al
+5 CONC lotment 22 of Kayaderosseras Patent,
+5 CONT N 16°20′ W, 33 chains 33 links, along E of lot 1 (Ephram Boc
+5 CONC kes, deceased, and formerly James Allen), to stake and hea
+5 CONC p of stones,
+5 CONT N 56° E, 7 chains, to stake and heap of stones,
+5 CONT N 79°40′ E, 23 chains 40 links, to highway,
+5 CONT S 16°20′ E, 23 chains 16 links, along highway, to the beginn
+5 CONC ing,
+5 CONT 88 acres]
+5 CONT
+5 CONT [page] 362<br />
+5 CONT [...]<br />
+5 CONT This Indenture Made the Sixth day of March in the year of ou
+5 CONC r Lord one<br />
+5 CONT thousand Eight hundred and thirty Seven Between William G. M
+5 CONC osher of the Town of Greenfield<br />
+5 CONT County of Saratoga and State of New York of the first part a
+5 CONC nd Dudley F. Scott of the Town County<br />
+5 CONT and State aforesaid of the second part Witnesseth that the s
+5 CONC aid party of the first part for and in consid-<br />
+5 CONT eration of the sum of twelve hundred dollars of good and law
+5 CONC ful money of the United States to him<br />
+5 CONT in hand paid by the said party of the second part the receip
+5 CONC t whereof is hereby confessed and<br />
+5 CONT acknowledged hath granted bargained sold remised released al
+5 CONC iened and confirmed and by these presents<br />
+5 CONT doth grant bargain sell remise release alien and confirm unt
+5 CONC o the said party of the second part in<br />
+5 CONT actual possession now being and to heirs and assigns foreve
+5 CONC r All that certain piece or parcel of<br />
+5 CONT land lying and being in the Town of Greenfield in the Count
+5 CONC y of Saratoga and State of New York,<br />
+5 CONT and in the Patent of Kayaderosseras and bounded as follows B
+5 CONC eginning in the middle of the high<br />
+5 CONT way leading from Edwin C. Weeds store to Ballston Spa on a l
+5 CONC ine running between the said William<br />
+5 CONT G. Mosher and Potter Johnson being the north east corner o
+5 CONC f a fifty acre lot owned by the said<br />
+5 CONT Potter Johnson thence along the north bounds thereof South f
+5 CONC ifty six degrees west ninety [sic] one<br />
+5 CONT chains and twenty six links to the east bounds of lot numbe
+5 CONC r one of the subdivision of lot number<br />
+5 CONT seven of the twenty second allotment of the general partetio
+5 CONC n of the said Patent of Kayader-<br />
+5 CONT osseras being the east bounds of land in possession of the h
+5 CONC eirs of Ephraim Bockes deceased and<br />
+5 CONT lands formerly in possession [sic] James Allan thence alon
+5 CONC g the same north sixteen degrees and<br />
+5 CONT twenty minutes west thirty three chains and thirty three lin
+5 CONC ks to a stake and heap of stones<br />
+5 CONT thence north fifty six degrees east seven chains to a stak
+5 CONC e and heap of stones thence north<br />
+5 CONT seventy nine degrees and forty minutes east twenty three cha
+5 CONC ins and forty links to the high-<br />
+5 CONT way above described thence along the fence south sixteen deg
+5 CONC rees and twenty minutes east<br />
+5 CONT twenty three chains and sixteen links to the place of Beginn
+5 CONC ing Containing Eighty<br />
+5 CONT Eight acres of land Together with all and Singular the hered
+5 CONC itaments and appurtenances<br />
+5 CONT thereunto belonging or in any wise appertaining and the reve
+5 CONC rsion remainder and<br />
+5 CONT remainders rents issues and profits thereof and all the esta
+5 CONC te right title interest claim or demand<br />
+5 CONT whatsoever of the said party of the first part either in la
+5 CONC w or equity of in and to the above bargained<br />
+5 CONT premises with the said hereditaments and appurtenances to ha
+5 CONC ve and to hold the said premises<br />
+5 CONT above particularly mentioned and described to the said part
+5 CONC y of the second part his heirs and assigns to<br />
+5 CONT the sole and only proper use benefit and behoof of the part
+5 CONC y of the second part his heirs and<br />
+5 CONT assigns forever and the said part of the first part for hims
+5 CONC elf heirs executors and administrators<br />
+5 CONT doth covenant grant
+5 CONT promise and agree to and with the said party of the second p
+5 CONC art his heirs<br />
+5 CONT <hr />
+5 CONT [page] 363<br />
+5 CONT <br />
+5 CONT and assigns the above bargained premises in the quiet and pe
+5 CONC aceable possession of the said party<br />
+5 CONT of the second part his heirs and assigns against all and an
+5 CONC y person or persons lawfully or equi-<br />
+5 CONT tably claiming or to claim the whole or any part thereof wil
+5 CONC l forever Warrant and Defend<br />
+5 CONT in witness whereof the said party of the first part hath se
+5 CONC t his hand and seal the day and<br />
+5 CONT year first above written<br />
+5 CONT William G Mosher (SS)<br />
+5 CONT <br />
+5 CONT Sealed & delivered in the presence of<br />
+5 CONT S. H. Scott&nbsp;&nbsp;Lewis Scott<br />
+5 CONT <br />
+5 CONT <br />
+5 CONT <table>
+5 CONT <tr><td>
+5 CONT <table>
+5 CONT <tr><td>State of New York</td></tr>
+5 CONT <tr><td>Saratoga County</td></tr>
+5 CONT </table>
+5 CONT </td>
+5 CONT <td>}</td>
+5 CONT <td>
+5 CONT <table>
+5 CONT <tr><td>I Lewis Scott a commissioner of deeds do certify tha
+5 CONC t on the</td></tr>
+5 CONT <tr><td>sixth day of March 1837 before me personally appeare
+5 CONC d William</td></tr>
+5 CONT </table>
+5 CONT </td></tr></table>
+5 CONT G. Mosher to me known & known to me to be the same person de
+5 CONC scribed in and who<br />
+5 CONT executed the within deed and acknowledged that he executed t
+5 CONC he same for the uses and<br />
+5 CONT purposes therein mentioned and I having examined the withi
+5 CONC n deed I find no erasures<br />
+5 CONT interlinations [sic] or alterations therein all which I cert
+5 CONC ify<br />
+5 CONT Lewis Scott com<sup>r</sup> of deeds
+5 CONT <br />
+5 CONT <br />
+5 CONT <table>
+5 CONT <tr><td>X</td>
+5 CONT <td>
+5 CONT <table>
+5 CONT <tr><td>I certify the foregoing to be a true copy of the ori
+5 CONC ginal with the certificate of</td></tr>
+5 CONT <tr><td>acknowledgment thereof Recorded April 12<sup>th</sup
+5 CONC > 1837 at 12h noon</td></tr>
+5 CONT <tr><td align="right">A Goodrich Clerk</td></tr>
+5 CONT </table>
+5 CONT </td></tr></table>
+5 CONT [...]<br />
+5 CONT <hr />
+5 CONT [Notes: I'm assuming this is the same property as David Mosh
+5 CONC er (William George Mosher's
+5 CONT father) in the 1830 US Census (Greenfield, p. 216). Some evi
+5 CONC dence supporing this
+5 CONT claim is that the bounds description in this document list
+5 CONC s a neighboring Potter
+5 CONT Johnson, and the 1830 Census has Potter Johnson immediatel
+5 CONC y following David Mosher.<br />
+5 CONT Particulars:<br />
+5 CONT date: 6 Mar 1837<br />
+5 CONT grantor: William G. Mosher<br />
+5 CONT grantee: Dudley F. Scott<br />
+5 CONT town: Greenfield, Saratoga, NY, USA<br />
+5 CONT area: 88 acres<br />
+5 CONT price: $1,200.00 ($13.64/acre)<br />
+5 CONT bounds:<br />
+5 CONT <table border="1">
+5 CONT <tr><th>pt1</th><th>rot</th><th>pt2</th><th>chains</th><th>(
+5 CONC feet)</th></tr>
+5 CONT <tr><td>S</td><td>56&deg;</td><td>W</td><td align="right">31
+5 CONC .26</td><td align="right">2063</td></tr>
+5 CONT <tr><td>N</td><td>16&deg; 20'</td><td>W</td><td align="right
+5 CONC ">33.33</td><td align="right">2200</td></tr>
+5 CONT <tr><td>N</td><td>56&deg;</td><td>E</td><td align="right">7.
+5 CONC 00</td><td align="right">462</td></tr>
+5 CONT <tr><td>N</td><td>79&deg;</td><td>E</td><td align="right">23
+5 CONC .40</td><td align="right">1544</td></tr>
+5 CONT <tr><td>S</td><td>16&deg; 20'</td><td>E</td><td align="right
+5 CONC ">23.16</td><td align="right">1529</td></tr>
+5 CONT </table>
+5 CONT ]
+5 CONT
+3 OBJE @M208@
+3 OBJE @M209@
+3 OBJE @M210@
+2 SOUR @S202@
+3 _LINK https://www.familysearch.org/ark:/61903/3:1:3QS7-89WC-GHG6
+3 PAGE <bibl> <author>County of Saratoga (New York, USA)</author>
+4 CONC , <title level="u">Deed Records</title>, <citedRange>P: 3–4
+4 CONC , deed, Jonathan and Betsey Williams to David Mosher, record
+4 CONC ed 25 Oct 1826</citedRange>; digital images, <title level="u
+4 CONC ">Deed records v. O–P 1826–1828</title> FHL microfilm 556,59
+4 CONC 2, DGS 7138839, images 300–1 of 588. </bibl>
+3 QUAY 4
+3 DATA
+4 TEXT on 23 Oct 1826,
+5 CONT Jonathan Williams and wife Betsey, of Greenfield,
+5 CONT to David Mosher, of Greenfield,
+5 CONT for $800,
+5 CONT in Greenfield,
+5 CONT beginning in middle of highway from Weed and Austins Store t
+5 CONC o Ballson Spa,
+5 CONT S 56° W, 31 chains 26 links, along J.W. and Potter Johnson (
+5 CONC NE of 50 acres), to E bound of lot 1, of lot 7, of allotmen
+5 CONC t 22 of Kayaderosseras Patent,
+5 CONT N 16°20′ W, 33 chains 33 links, along E of lot 1 (Ephram Boc
+5 CONC kes and James Allen), to stake and heap of stones,
+5 CONT N 56° E, 7 chains, to stake and heap of stones,
+5 CONT N 79°40′ E, 23 chains 40 links, to highway,
+5 CONT S 16°20′ E, 23 chains 16 links, along highway, to the beginn
+5 CONC ing,
+5 CONT 88 acres
+2 SOUR @S202@
+3 _LINK https://www.familysearch.org/ark:/61903/3:1:3QS7-89WC-GZSG
+3 PAGE <bibl> <author>County of Saratoga (New York, USA)</author>
+4 CONC , <title level="u">Deed Records</title>, <citedRange>TT: 400
+4 CONC –1, deed, Amos Egleston to Warren Bockes, recorded 7 Apr 184
+4 CONC 5</citedRange>; digital images, <title level="u">Deed record
+4 CONC s v. SS–TT 1844–5</title> FHL microfilm 555,774, DGS 7138749
+4 CONC , image 498 of 577. </bibl>
+3 QUAY 4
+3 DATA
+4 TEXT on 1 Dec 1844,
+5 CONT Amos Egleston and Lucinda his wife, of Greenfield,
+5 CONT to Warren Bockes, of Greenfield,
+5 CONT for $1,200,
+5 CONT in Greenfield,
+5 CONT beginning in middle of highway from Edwin C. Weeds to Ballso
+5 CONC n Spa,
+5 CONT S 56° W, 31 chains 26.5 links, along A.E. and Potter Johnso
+5 CONC n (NE of 50 acres), to E bound of Warren Bockes
+5 CONT N 16°20′ W, 33 chains 33 links, along Warren Bockes, Isaac R
+5 CONC owland, and Rufus B. Ingham, to stake and heap of stones,
+5 CONT NE, along S of Norris Allen and widow Abigail Van Wagoner, t
+5 CONC o highway (from Weed/Ballston highway to Porters Corners),
+5 CONT S, along Weed/Ballston highway, to the beginning,
+5 CONT 95 acres
+2 SOUR @S202@
+3 _LINK https://www.familysearch.org/ark:/61903/3:1:3QS7-89WC-GCXV
+3 PAGE <bibl> <author>County of Saratoga (New York, USA)</author>
+4 CONC , <title level="u">Deed Records</title>, <citedRange>TT: 544
+4 CONC –5, deed, Dudley F. Scott to Amos Egleston, recorded 10 Ma
+4 CONC y 1845</citedRange>; digital images, <title level="u">Deed r
+4 CONC ecords v. SS–TT 1844–5</title> FHL microfilm 555,774, DGS 71
+4 CONC 38749, image 570 of 577. </bibl>
+3 QUAY 4
+3 DATA
+4 TEXT on 1 May 1840,
+5 CONT Dudley F. Scott and Loretta his wife, of Greenfield,
+5 CONT to Amos Egleston, of Greenfield,
+5 CONT for $1,650,
+5 CONT in Greenfield,
+5 CONT beginning in middle of highway from Edwin C. Weeds Store t
+5 CONC o Ballson Spa,
+5 CONT S 56° W, 31 chains 26.5 links, along D.F.S. and Potter Johns
+5 CONC on (NE of 50 acres), to E bound of lot 1, of lot 7, of allot
+5 CONC ment 22 of Kayaderosseras Patent,
+5 CONT N 16°20′ W, 33 chains 33 links, along E of lot 1 (Ephram Boc
+5 CONC kes, deceased, and formerly James Allen), to stake and hea
+5 CONC p of stones,
+5 CONT N 56° [E], 31 chains 26.5 links,
+5 CONT S 16°20′ E, 33 chains 33 links, to the beginning,
+5 CONT 100 acres
+5 CONT (except 26 rods on the N which was sold to Nicholas Van Wagg
+5 CONC oner for tax purposes)
+2 SOUR @S202@
+3 _LINK https://www.familysearch.org/ark:/61903/3:1:3QS7-99WC-GD33
+3 PAGE <bibl> <author>County of Saratoga (New York, USA)</author>
+4 CONC , <title level="u">Deed Records</title>, <citedRange>WW: 539
+4 CONC –40, deed, Warren Bockes to Hiram Barrass, recorded 12 Oct 1
+4 CONC 846</citedRange>; digital images, <title level="u">Deed reco
+4 CONC rds v. WW–XX 1846–7</title> FHL microfilm 555,776, DGS 71387
+4 CONC 47, images 285–6 of 590. </bibl>
+3 QUAY 4
+3 DATA
+4 TEXT on 10 Oct 1846,
+5 CONT Warren Bockes, of Greenfield,
+5 CONT to Hiram Barrass, of Greenfield,
+5 CONT for $700,
+5 CONT in Greenfield,
+5 CONT beginning in middle of highway from Weeds Corners to Greenfi
+5 CONC eld Center,
+5 CONT S 56° W, 31 chains 26.5 links, along Potter Johnson, decease
+5 CONC d,
+5 CONT N 16°20′ W, 16 chains 71 links,
+5 CONT N 56° E, 31 chains 26.5 links,
+5 CONT S 16°20′ E, 16 chains 71 links, to the beginning,
+5 CONT 50 acres
+2 SOUR @S202@
+3 _LINK https://www.familysearch.org/ark:/61903/3:1:3QS7-99WC-N6VC
+3 PAGE <bibl> <author>County of Saratoga (New York, USA)</author>
+4 CONC , <title level="u">Deed Records</title>, <citedRange>Y: 33–4
+4 CONC , deed, David Mosher to William G. Mosher, recorded 26 Feb 1
+4 CONC 834</citedRange>; digital images, <title level="u">Deed reco
+4 CONC rds v. X–Y 1832–1834</title> FHL microfilm 555,763, DGS 7138
+4 CONC 760, images 314–5 of 585. </bibl>
+3 QUAY 4
+3 DATA
+4 TEXT on 25 Feb 1834,
+5 CONT David Mosher, of Greenfield,
+5 CONT to William G. Mosher, of Greenfield,
+5 CONT for $800,
+5 CONT in Greenfield,
+5 CONT beginning in middle of highway from Edwin C. Weeds Store t
+5 CONC o Ballson Spa,
+5 CONT S 56° W, 91 [31] chains 26 links, along D.M. and Potter John
+5 CONC son (NE of 50 acres), to E bound of lot 1, of lot 7, of allo
+5 CONC tment 22 of Kayaderosseras Patent,
+5 CONT N 16°20′ W, 33 chains 33 links, along E of lot 1 (Ephram Boc
+5 CONC kes, deceased, and formerly James Allen), to stake and hea
+5 CONC p of stones,
+5 CONT N 56° E, 7 chains, to stake and heap of stones,
+5 CONT N 79°40′ E, 23 chains 40 links, to highway,
+5 CONT S 16°20′ E, 23 chains 16 links, along highway, to the beginn
+5 CONC ing,
+5 CONT 88 acres
+2 SOUR @S202@
+3 _LINK https://www.familysearch.org/ark:/61903/3:1:3QS7-99WC-233Y
+3 PAGE <bibl> <author>County of Saratoga (New York, USA)</author>
+4 CONC , <title level="u">Deed Records</title>, <citedRange>ZZ: 23–
+4 CONC 4, deed, Warren and Mary Bockes to Benjamin F. Prior, record
+4 CONC ed 21 Aug 1847</citedRange>; digital images, <title level="u
+4 CONC ">Deed records v. YY–ZZ 1847</title> FHL microfilm 555,777
+4 CONC , DGS 7138746, images 299–300 of 477. </bibl>
+3 QUAY 4
+3 DATA
+4 TEXT on 10 Oct 1846,
+5 CONT Warren Bockes and Mary his wife, of Greenfield,
+5 CONT to Benjamin F. Prior, of Greenfield,
+5 CONT for $290,
+5 CONT in Greenfield,
+5 CONT beginning in middle of highway from Edwin C. Weeds to Ballst
+5 CONC on Spa,
+5 CONT W, along W.B. and Hiram Barrass, to Isaac Rowland,
+5 CONT N, along Isaac Rowland and Rufus B. Ingham, to Norris Allen,
+5 CONT E, along James Allen and highway (from B.F.P. E to Weed/Ball
+5 CONC ston highway),
+5 CONT S, to the beginning,
+5 CONT (being N part of farm sold by Amos Eggleston to Warren Bocke
+5 CONC s)
+5 CONT 45 acres
 2 NOTE from Jonathan and Betsey Williams (land next to Potter Johns
 3 CONC on). Note that in the 1820 US Census in Greenfield, Jonatha
 3 CONC n Williams is immediately before Potter Johnson (M33.79, p
@@ -10538,6 +11003,34 @@
 3 MAP
 4 LATI N43.1471
 4 LONG W73.854
+2 SOUR @S202@
+3 _LINK https://www.familysearch.org/ark:/61903/3:1:3QS7-99WC-N6VC
+3 PAGE <bibl> <author>County of Saratoga (New York, USA)</author>
+4 CONC , <title level="u">Deed Records</title>, <citedRange>Y: 33–4
+4 CONC , deed, David Mosher to William G. Mosher, recorded 26 Feb 1
+4 CONC 834</citedRange>; digital images, <title level="u">Deed reco
+4 CONC rds v. X–Y 1832–1834</title> FHL microfilm 555,763, DGS 7138
+4 CONC 760, images 314–5 of 585. </bibl>
+3 QUAY 4
+3 DATA
+4 TEXT on 25 Feb 1834,
+5 CONT David Mosher, of Greenfield,
+5 CONT to William G. Mosher, of Greenfield,
+5 CONT for $800,
+5 CONT in Greenfield,
+5 CONT beginning in middle of highway from Edwin C. Weeds Store t
+5 CONC o Ballson Spa,
+5 CONT S 56° W, 91 [31] chains 26 links, along D.M. and Potter John
+5 CONC son (NE of 50 acres), to E bound of lot 1, of lot 7, of allo
+5 CONC tment 22 of Kayaderosseras Patent,
+5 CONT N 16°20′ W, 33 chains 33 links, along E of lot 1 (Ephram Boc
+5 CONC kes, deceased, and formerly James Allen), to stake and hea
+5 CONC p of stones,
+5 CONT N 56° E, 7 chains, to stake and heap of stones,
+5 CONT N 79°40′ E, 23 chains 40 links, to highway,
+5 CONT S 16°20′ E, 23 chains 16 links, along highway, to the beginn
+5 CONC ing,
+5 CONT 88 acres
 2 NOTE to his son William George Mosher
 1 RESI
 2 DATE FROM 06 MAR 1837 TO 1845
@@ -14439,6 +14932,34 @@
 3 MAP
 4 LATI N43.1471
 4 LONG W73.854
+2 SOUR @S202@
+3 _LINK https://www.familysearch.org/ark:/61903/3:1:3QS7-99WC-N6VC
+3 PAGE <bibl> <author>County of Saratoga (New York, USA)</author>
+4 CONC , <title level="u">Deed Records</title>, <citedRange>Y: 33–4
+4 CONC , deed, David Mosher to William G. Mosher, recorded 26 Feb 1
+4 CONC 834</citedRange>; digital images, <title level="u">Deed reco
+4 CONC rds v. X–Y 1832–1834</title> FHL microfilm 555,763, DGS 7138
+4 CONC 760, images 314–5 of 585. </bibl>
+3 QUAY 4
+3 DATA
+4 TEXT on 25 Feb 1834,
+5 CONT David Mosher, of Greenfield,
+5 CONT to William G. Mosher, of Greenfield,
+5 CONT for $800,
+5 CONT in Greenfield,
+5 CONT beginning in middle of highway from Edwin C. Weeds Store t
+5 CONC o Ballson Spa,
+5 CONT S 56° W, 91 [31] chains 26 links, along D.M. and Potter John
+5 CONC son (NE of 50 acres), to E bound of lot 1, of lot 7, of allo
+5 CONC tment 22 of Kayaderosseras Patent,
+5 CONT N 16°20′ W, 33 chains 33 links, along E of lot 1 (Ephram Boc
+5 CONC kes, deceased, and formerly James Allen), to stake and hea
+5 CONC p of stones,
+5 CONT N 56° E, 7 chains, to stake and heap of stones,
+5 CONT N 79°40′ E, 23 chains 40 links, to highway,
+5 CONT S 16°20′ E, 23 chains 16 links, along highway, to the beginn
+5 CONC ing,
+5 CONT 88 acres
 2 NOTE from his father David Mosher
 1 EVEN
 2 TYPE sold land
@@ -14448,8 +14969,195 @@
 3 MAP
 4 LATI N43.1471
 4 LONG W73.854
-2 SOUR @mbkq6415QBS3s6nFjmxS@
-3 QUAY 3
+2 SOUR @S202@
+3 _LINK https://www.familysearch.org/ark:/61903/3:1:3QS7-99WC-G3YS
+3 PAGE <bibl> <author>County of Saratoga (New York, USA)</author>
+4 CONC , <title level="u">Deed Records</title>, <citedRange>DD: 362
+4 CONC –3, deed, William G. Mosher to Dudley F. Scott, recorded 1
+4 CONC 2 Apr 1837</citedRange>; digital images, <title level="u">De
+4 CONC ed records v. DD–EE 1837</title> FHL microfilm 555,767, DG
+4 CONC S 7138756, images 197–8 of 609. </bibl>
+3 QUAY 4
+3 DATA
+4 TEXT [on 6 Mar 1837,
+5 CONT William G. Mosher, of Greenfield,
+5 CONT to Dudley F. Scott, of Greenfield,
+5 CONT for $1,200,
+5 CONT in Greenfield,
+5 CONT beginning in middle of highway from Edwin C. Weeds Store t
+5 CONC o Ballson Spa,
+5 CONT S 56° W, 91 [31] chains 26 links, along W.G.M. and Potter Jo
+5 CONC hnson (NE of 50 acres), to E bound of lot 1, of lot 7, of al
+5 CONC lotment 22 of Kayaderosseras Patent,
+5 CONT N 16°20′ W, 33 chains 33 links, along E of lot 1 (Ephram Boc
+5 CONC kes, deceased, and formerly James Allen), to stake and hea
+5 CONC p of stones,
+5 CONT N 56° E, 7 chains, to stake and heap of stones,
+5 CONT N 79°40′ E, 23 chains 40 links, to highway,
+5 CONT S 16°20′ E, 23 chains 16 links, along highway, to the beginn
+5 CONC ing,
+5 CONT 88 acres]
+5 CONT
+5 CONT [page] 362<br />
+5 CONT [...]<br />
+5 CONT This Indenture Made the Sixth day of March in the year of ou
+5 CONC r Lord one<br />
+5 CONT thousand Eight hundred and thirty Seven Between William G. M
+5 CONC osher of the Town of Greenfield<br />
+5 CONT County of Saratoga and State of New York of the first part a
+5 CONC nd Dudley F. Scott of the Town County<br />
+5 CONT and State aforesaid of the second part Witnesseth that the s
+5 CONC aid party of the first part for and in consid-<br />
+5 CONT eration of the sum of twelve hundred dollars of good and law
+5 CONC ful money of the United States to him<br />
+5 CONT in hand paid by the said party of the second part the receip
+5 CONC t whereof is hereby confessed and<br />
+5 CONT acknowledged hath granted bargained sold remised released al
+5 CONC iened and confirmed and by these presents<br />
+5 CONT doth grant bargain sell remise release alien and confirm unt
+5 CONC o the said party of the second part in<br />
+5 CONT actual possession now being and to heirs and assigns foreve
+5 CONC r All that certain piece or parcel of<br />
+5 CONT land lying and being in the Town of Greenfield in the Count
+5 CONC y of Saratoga and State of New York,<br />
+5 CONT and in the Patent of Kayaderosseras and bounded as follows B
+5 CONC eginning in the middle of the high<br />
+5 CONT way leading from Edwin C. Weeds store to Ballston Spa on a l
+5 CONC ine running between the said William<br />
+5 CONT G. Mosher and Potter Johnson being the north east corner o
+5 CONC f a fifty acre lot owned by the said<br />
+5 CONT Potter Johnson thence along the north bounds thereof South f
+5 CONC ifty six degrees west ninety [sic] one<br />
+5 CONT chains and twenty six links to the east bounds of lot numbe
+5 CONC r one of the subdivision of lot number<br />
+5 CONT seven of the twenty second allotment of the general partetio
+5 CONC n of the said Patent of Kayader-<br />
+5 CONT osseras being the east bounds of land in possession of the h
+5 CONC eirs of Ephraim Bockes deceased and<br />
+5 CONT lands formerly in possession [sic] James Allan thence alon
+5 CONC g the same north sixteen degrees and<br />
+5 CONT twenty minutes west thirty three chains and thirty three lin
+5 CONC ks to a stake and heap of stones<br />
+5 CONT thence north fifty six degrees east seven chains to a stak
+5 CONC e and heap of stones thence north<br />
+5 CONT seventy nine degrees and forty minutes east twenty three cha
+5 CONC ins and forty links to the high-<br />
+5 CONT way above described thence along the fence south sixteen deg
+5 CONC rees and twenty minutes east<br />
+5 CONT twenty three chains and sixteen links to the place of Beginn
+5 CONC ing Containing Eighty<br />
+5 CONT Eight acres of land Together with all and Singular the hered
+5 CONC itaments and appurtenances<br />
+5 CONT thereunto belonging or in any wise appertaining and the reve
+5 CONC rsion remainder and<br />
+5 CONT remainders rents issues and profits thereof and all the esta
+5 CONC te right title interest claim or demand<br />
+5 CONT whatsoever of the said party of the first part either in la
+5 CONC w or equity of in and to the above bargained<br />
+5 CONT premises with the said hereditaments and appurtenances to ha
+5 CONC ve and to hold the said premises<br />
+5 CONT above particularly mentioned and described to the said part
+5 CONC y of the second part his heirs and assigns to<br />
+5 CONT the sole and only proper use benefit and behoof of the part
+5 CONC y of the second part his heirs and<br />
+5 CONT assigns forever and the said part of the first part for hims
+5 CONC elf heirs executors and administrators<br />
+5 CONT doth covenant grant
+5 CONT promise and agree to and with the said party of the second p
+5 CONC art his heirs<br />
+5 CONT <hr />
+5 CONT [page] 363<br />
+5 CONT <br />
+5 CONT and assigns the above bargained premises in the quiet and pe
+5 CONC aceable possession of the said party<br />
+5 CONT of the second part his heirs and assigns against all and an
+5 CONC y person or persons lawfully or equi-<br />
+5 CONT tably claiming or to claim the whole or any part thereof wil
+5 CONC l forever Warrant and Defend<br />
+5 CONT in witness whereof the said party of the first part hath se
+5 CONC t his hand and seal the day and<br />
+5 CONT year first above written<br />
+5 CONT William G Mosher (SS)<br />
+5 CONT <br />
+5 CONT Sealed & delivered in the presence of<br />
+5 CONT S. H. Scott&nbsp;&nbsp;Lewis Scott<br />
+5 CONT <br />
+5 CONT <br />
+5 CONT <table>
+5 CONT <tr><td>
+5 CONT <table>
+5 CONT <tr><td>State of New York</td></tr>
+5 CONT <tr><td>Saratoga County</td></tr>
+5 CONT </table>
+5 CONT </td>
+5 CONT <td>}</td>
+5 CONT <td>
+5 CONT <table>
+5 CONT <tr><td>I Lewis Scott a commissioner of deeds do certify tha
+5 CONC t on the</td></tr>
+5 CONT <tr><td>sixth day of March 1837 before me personally appeare
+5 CONC d William</td></tr>
+5 CONT </table>
+5 CONT </td></tr></table>
+5 CONT G. Mosher to me known & known to me to be the same person de
+5 CONC scribed in and who<br />
+5 CONT executed the within deed and acknowledged that he executed t
+5 CONC he same for the uses and<br />
+5 CONT purposes therein mentioned and I having examined the withi
+5 CONC n deed I find no erasures<br />
+5 CONT interlinations [sic] or alterations therein all which I cert
+5 CONC ify<br />
+5 CONT Lewis Scott com<sup>r</sup> of deeds
+5 CONT <br />
+5 CONT <br />
+5 CONT <table>
+5 CONT <tr><td>X</td>
+5 CONT <td>
+5 CONT <table>
+5 CONT <tr><td>I certify the foregoing to be a true copy of the ori
+5 CONC ginal with the certificate of</td></tr>
+5 CONT <tr><td>acknowledgment thereof Recorded April 12<sup>th</sup
+5 CONC > 1837 at 12h noon</td></tr>
+5 CONT <tr><td align="right">A Goodrich Clerk</td></tr>
+5 CONT </table>
+5 CONT </td></tr></table>
+5 CONT [...]<br />
+5 CONT <hr />
+5 CONT [Notes: I'm assuming this is the same property as David Mosh
+5 CONC er (William George Mosher's
+5 CONT father) in the 1830 US Census (Greenfield, p. 216). Some evi
+5 CONC dence supporing this
+5 CONT claim is that the bounds description in this document list
+5 CONC s a neighboring Potter
+5 CONT Johnson, and the 1830 Census has Potter Johnson immediatel
+5 CONC y following David Mosher.<br />
+5 CONT Particulars:<br />
+5 CONT date: 6 Mar 1837<br />
+5 CONT grantor: William G. Mosher<br />
+5 CONT grantee: Dudley F. Scott<br />
+5 CONT town: Greenfield, Saratoga, NY, USA<br />
+5 CONT area: 88 acres<br />
+5 CONT price: $1,200.00 ($13.64/acre)<br />
+5 CONT bounds:<br />
+5 CONT <table border="1">
+5 CONT <tr><th>pt1</th><th>rot</th><th>pt2</th><th>chains</th><th>(
+5 CONC feet)</th></tr>
+5 CONT <tr><td>S</td><td>56&deg;</td><td>W</td><td align="right">31
+5 CONC .26</td><td align="right">2063</td></tr>
+5 CONT <tr><td>N</td><td>16&deg; 20'</td><td>W</td><td align="right
+5 CONC ">33.33</td><td align="right">2200</td></tr>
+5 CONT <tr><td>N</td><td>56&deg;</td><td>E</td><td align="right">7.
+5 CONC 00</td><td align="right">462</td></tr>
+5 CONT <tr><td>N</td><td>79&deg;</td><td>E</td><td align="right">23
+5 CONC .40</td><td align="right">1544</td></tr>
+5 CONT <tr><td>S</td><td>16&deg; 20'</td><td>E</td><td align="right
+5 CONC ">23.16</td><td align="right">1529</td></tr>
+5 CONT </table>
+5 CONT ]
+5 CONT
+3 OBJE @M208@
+3 OBJE @M209@
+3 OBJE @M210@
 1 RESI
 2 DATE FROM 06 MAR 1837 TO 1845
 2 PLAC Owego, Tioga, New York, USA
@@ -21282,179 +21990,6 @@
 2 CONT £-[0 pounds] 17[shillings?] 2[pence?]<br />
 2 CONT [does this indicate a transaction before 1769 that wasn't pa
 2 CONC id?]<br />
-0 @mbkq6415QBS3s6nFjmxS@ SOUR
-1 REFN bd1d42ce-2cc2-4111-ba26-941c6e99e4bf
-1 TITL Deed, Mosher, William G., to Scott, Dudley F., 6 Mar 1837
-1 AUTH Saratoga County, NY, Clerk
-1 PUBL Saratoga County Clerk's Office, v. DD, pp. 362-363
-1 TEXT [from LDS film #555767]<br />
-2 CONT <img src="mosher_files/mosher_william_deed_greenfield_1837_p
-2 CONC 1.jpg" /><img src="mosher_files/mosher_william_deed_greenfie
-2 CONC ld_1837_p2.jpg" /><br />
-2 CONT [page] 362<br />
-2 CONT [...]<br />
-2 CONT This Indenture Made the Sixth day of March in the year of ou
-2 CONC r Lord one<br />
-2 CONT thousand Eight hundred and thirty Seven Between William G. M
-2 CONC osher of the Town of Greenfield<br />
-2 CONT County of Saratoga and State of New York of the first part a
-2 CONC nd Dudley F. Scott of the Town County<br />
-2 CONT and State aforesaid of the second part Witnesseth that the s
-2 CONC aid party of the first part for and in consid-<br />
-2 CONT eration of the sum of twelve hundred dollars of good and law
-2 CONC ful money of the United States to him<br />
-2 CONT in hand paid by the said party of the second part the receip
-2 CONC t whereof is hereby confessed and<br />
-2 CONT acknowledged hath granted bargained sold remised released al
-2 CONC iened and confirmed and by these presents<br />
-2 CONT doth grant bargain sell remise release alien and confirm unt
-2 CONC o the said party of the second part in<br />
-2 CONT actual possession now being and to heirs and assigns foreve
-2 CONC r All that certain piece or parcel of<br />
-2 CONT land lying and being in the Town of Greenfield in the Count
-2 CONC y of Saratoga and State of New York,<br />
-2 CONT and in the Patent of Kayaderosseras and bounded as follows B
-2 CONC eginning in the middle of the high<br />
-2 CONT way leading from Edwin C. Weeds store to Ballston Spa on a l
-2 CONC ine running between the said William<br />
-2 CONT G. Mosher and Potter Johnson being the north east corner o
-2 CONC f a fifty acre lot owned by the said<br />
-2 CONT Potter Johnson thence along the north bounds thereof South f
-2 CONC ifty six degrees west ninety [sic] one<br />
-2 CONT chains and twenty six links to the east bounds of lot numbe
-2 CONC r one of the subdivision of lot number<br />
-2 CONT seven of the twenty second allotment of the general partetio
-2 CONC n of the said Patent of Kayader-<br />
-2 CONT osseras being the east bounds of land in possession of the h
-2 CONC eirs of Ephraim Bockes deceased and<br />
-2 CONT lands formerly in possession [sic] James Allan thence alon
-2 CONC g the same north sixteen degrees and<br />
-2 CONT twenty minutes west thirty three chains and thirty three lin
-2 CONC ks to a stake and heap of stones<br />
-2 CONT thence north fifty six degrees east seven chains to a stak
-2 CONC e and heap of stones thence north<br />
-2 CONT seventy nine degrees and forty minutes east twenty three cha
-2 CONC ins and forty links to the high-<br />
-2 CONT way above described thence along the fence south sixteen deg
-2 CONC rees and twenty minutes east<br />
-2 CONT twenty three chains and sixteen links to the place of Beginn
-2 CONC ing Containing Eighty<br />
-2 CONT Eight acres of land Together with all and Singular the hered
-2 CONC itaments and appurtenances<br />
-2 CONT thereunto belonging or in any wise appertaining and the reve
-2 CONC rsion remainder and<br />
-2 CONT remainders rents issues and profits thereof and all the esta
-2 CONC te right title interest claim or demand<br />
-2 CONT whatsoever of the said party of the first part either in la
-2 CONC w or equity of in and to the above bargained<br />
-2 CONT premises with the said hereditaments and appurtenances to ha
-2 CONC ve and to hold the said premises<br />
-2 CONT above particularly mentioned and described to the said part
-2 CONC y of the second part his heirs and assigns to<br />
-2 CONT the sole and only proper use benefit and behoof of the part
-2 CONC y of the second part his heirs and<br />
-2 CONT assigns forever and the said part of the first part for hims
-2 CONC elf heirs executors and administrators<br />
-2 CONT doth covenant grant
-2 CONT promise and agree to and with the said party of the second p
-2 CONC art his heirs<br />
-2 CONT <hr />
-2 CONT [page] 363<br />
-2 CONT <br />
-2 CONT and assigns the above bargained premises in the quiet and pe
-2 CONC aceable possession of the said party<br />
-2 CONT of the second part his heirs and assigns against all and an
-2 CONC y person or persons lawfully or equi-<br />
-2 CONT tably claiming or to claim the whole or any part thereof wil
-2 CONC l forever Warrant and Defend<br />
-2 CONT in witness whereof the said party of the first part hath se
-2 CONC t his hand and seal the day and<br />
-2 CONT year first above written<br />
-2 CONT William G Mosher (SS)<br />
-2 CONT <br />
-2 CONT Sealed & delivered in the presence of<br />
-2 CONT S. H. Scott&nbsp;&nbsp;Lewis Scott<br />
-2 CONT <br />
-2 CONT <br />
-2 CONT <table>
-2 CONT <tr><td>
-2 CONT <table>
-2 CONT <tr><td>State of New York</td></tr>
-2 CONT <tr><td>Saratoga County</td></tr>
-2 CONT </table>
-2 CONT </td>
-2 CONT <td>}</td>
-2 CONT <td>
-2 CONT <table>
-2 CONT <tr><td>I Lewis Scott a commissioner of deeds do certify tha
-2 CONC t on the</td></tr>
-2 CONT <tr><td>sixth day of March 1837 before me personally appeare
-2 CONC d William</td></tr>
-2 CONT </table>
-2 CONT </td></tr></table>
-2 CONT G. Mosher to me known & known to me to be the same person de
-2 CONC scribed in and who<br />
-2 CONT executed the within deed and acknowledged that he executed t
-2 CONC he same for the uses and<br />
-2 CONT purposes therein mentioned and I having examined the withi
-2 CONC n deed I find no erasures<br />
-2 CONT interlinations [sic] or alterations therein all which I cert
-2 CONC ify<br />
-2 CONT Lewis Scott com<sup>r</sup> of deeds
-2 CONT <br />
-2 CONT <br />
-2 CONT <table>
-2 CONT <tr><td>X</td>
-2 CONT <td>
-2 CONT <table>
-2 CONT <tr><td>I certify the foregoing to be a true copy of the ori
-2 CONC ginal with the certificate of</td></tr>
-2 CONT <tr><td>acknowledgment thereof Recorded April 12<sup>th</sup
-2 CONC > 1837 at 12h noon</td></tr>
-2 CONT <tr><td align="right">A Goodrich Clerk</td></tr>
-2 CONT </table>
-2 CONT </td></tr></table>
-2 CONT [...]<br />
-2 CONT <hr />
-2 CONT [Notes: I'm assuming this is the same property as David Mosh
-2 CONC er (William George Mosher's
-2 CONT father) in the 1830 US Census (Greenfield, p. 216). Some evi
-2 CONC dence supporing this
-2 CONT claim is that the bounds description in this document list
-2 CONC s a neighboring Potter
-2 CONT Johnson, and the 1830 Census has Potter Johnson immediatel
-2 CONC y following David Mosher.<br />
-2 CONT Particulars:<br />
-2 CONT date: 6 Mar 1837<br />
-2 CONT grantor: William G. Mosher<br />
-2 CONT grantee: Dudley F. Scott<br />
-2 CONT town: Greenfield, Saratoga, NY, USA<br />
-2 CONT area: 88 acres<br />
-2 CONT price: $1,200.00 ($13.64/acre)<br />
-2 CONT bounds:<br />
-2 CONT <table border="1">
-2 CONT <tr><th>pt1</th><th>rot</th><th>pt2</th><th>chains</th><th>(
-2 CONC feet)</th></tr>
-2 CONT <tr><td>S</td><td>56&deg;</td><td>W</td><td align="right">31
-2 CONC .26</td><td align="right">2063</td></tr>
-2 CONT <tr><td>N</td><td>16&deg; 20'</td><td>W</td><td align="right
-2 CONC ">33.33</td><td align="right">2200</td></tr>
-2 CONT <tr><td>N</td><td>56&deg;</td><td>E</td><td align="right">7.
-2 CONC 00</td><td align="right">462</td></tr>
-2 CONT <tr><td>N</td><td>79&deg;</td><td>E</td><td align="right">23
-2 CONC .40</td><td align="right">1544</td></tr>
-2 CONT <tr><td>S</td><td>16&deg; 20'</td><td>E</td><td align="right
-2 CONC ">23.16</td><td align="right">1529</td></tr>
-2 CONT </table>
-2 CONT In the deed, the first distance appears to read "ninety on
-2 CONC e chains," but trying to plot this doesn't work.
-2 CONT Trying thirty one chains instead does work out almost exactl
-2 CONC y (so that the bounds do meet back up
-2 CONT at the beginning again) so that is what I am assuming is th
-2 CONC e correct distance.<br />
-2 CONT <img src="mosher_files/mosher_property_greenfield.gif" /><b
-2 CONC r />
-2 CONT ]
 0 @H9NsrdLJQZi4I3umdlYg@ SOUR
 1 REFN 164e1825-1731-4f0e-8ccd-bb29f7833aa2
 1 TITL Descendants of Hugh Mosher and Rebecca Maxson Through Seve
@@ -22150,6 +22685,11 @@
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2013
+0 @S204@ SOUR
+1 TITL New Topographical Atlas of Saratoga Co. New York. From Actua
+2 CONC l Surveys by S. N. & D. G. Beers and Assistants
+1 AUTH Beers, D. G., and S. N.
+1 PUBL Stone & Stewart; Location: Philadelphia; Date: 1866
 0 @jhFWuYOLTOyqDl41nGnI@ SOUR
 1 REFN 6b916dfb-7a05-4e91-853d-fae0e5af928b
 1 REPO @qoiFARVHSJOlOdzOUsT9@
@@ -24076,6 +24616,9 @@
 1 TITL USA. New York. Madison, County of. Land Records
 1 AUTH USA. New York. Madison, County of
 1 PUBL Clerks Office; Location: Wampsville, New York
+0 @S202@ SOUR
+1 TITL USA. New York. Saratoga, County of. Deed Records
+1 AUTH USA. New York. Saratoga, County of.
 0 @S199@ SOUR
 1 TITL USA. Rhode Island, Colony of. Land Records
 1 AUTH USA. Rhode Island, Colony of.
@@ -25834,6 +26377,30 @@
 2 FORM jpg
 2 TITL New York State, Marriage Index, 1881-1967
 2 _TEXT New York State, Marriage Index, 1881-1967 Record
+0 @M208@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher Media\mo
+2 CONC sher_william_deed_greenfield_1837_p1.jpg
+2 FORM jpg
+2 TITL mosher_william_deed_greenfield_1837_p1
+2 _DATE 5/10/2002 9:40:04 PM
+0 @M209@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher Media\mo
+2 CONC sher_william_deed_greenfield_1837_p2.jpg
+2 FORM jpg
+2 TITL mosher_william_deed_greenfield_1837_p2
+2 _DATE 5/10/2002 9:41:13 PM
+0 @M210@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher Media\mo
+2 CONC sher_property_greenfield.gif
+2 FORM jpg
+2 TITL mosher_property_greenfield
+2 _DATE 3/17/2018 7:04:03 PM
+0 @M211@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher Media\gr
+2 CONC eenfield1866.jpg
+2 FORM jpg
+2 TITL greenfield1866
+2 _DATE 3/17/2018 8:07:22 PM
 0 @N353@ NOTE __GEDCOM__: DATE ABT 1612 __GEDCOM__
 0 @N381@ NOTE __GEDCOM__: DATE ABT 1658 __GEDCOM__
 0 @N380@ NOTE __GEDCOM__: DATE ABT DEC 1596 __GEDCOM__
