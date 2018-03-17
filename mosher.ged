@@ -6,16 +6,16 @@
 1 COPR Copyright © 1998, Christopher Alan Mosher, Shelton, CT, USA.
 1 SUBM @Umy2qBWIRUiwVSS6Hcn4@
 1 SOUR FTM
-2 VERS 23.0.2.1343
+2 VERS 23.1.0.1480
 2 NAME Family Tree Maker for Windows
 2 CORP The Software MacKiev Company
 3 ADDR 30 Union Wharf
 4 CONT Boston, MA 02109
 3 PHON (617) 227-6681
 1 DEST FTM
-1 FILE Mosher_2018-02-24-03-45-37.ftm.ged
-1 DATE 24 FEB 2018
-2 TIME 03:47:06
+1 FILE Mosher_2018-03-17-17-24-58.ftm.ged
+1 DATE 17 MAR 2018
+2 TIME 17:26:17
 0 @Umy2qBWIRUiwVSS6Hcn4@ SUBM
 1 NAME Christopher Alan Mosher
 2 EMAIL cmosher01@@gmail.com
@@ -401,6 +401,20 @@
 3 MAP
 4 LATI N43.0881
 4 LONG W70.7362
+0 @I411@ INDI
+1 NAME William H. /Blakeslee/
+2 SOUR @S203@
+3 _APID 1,61632::1344308
+3 PAGE New York State, Marriage Index, 1881-1967 Record
+3 OBJE @M207@
+1 SEX M
+1 FAMS @F328@
+1 BIRT
+2 DATE ABT 1845
+2 SOUR @S203@
+3 _APID 1,61632::1344308
+3 PAGE New York State, Marriage Index, 1881-1967 Record
+3 OBJE @M207@
 0 @esHRgd1WSxarhtORNU69@ INDI
 1 _XY 8094 1759
 1 REFN 39152143-794a-4d2c-b983-68583767a6f4
@@ -2813,8 +2827,17 @@
 1 _XY 7199 1692
 1 REFN 3c6192e8-944e-40cc-87dc-f5cea120d2ec
 1 NAME Alta Amelia /Lovejoy/
+2 SOUR @S203@
+3 PAGE New York State Department of Health; Albany, NY, USA; New Yo
+4 CONC rk State Marriage Index
+3 OBJE @M205@
+2 SOUR @S203@
+3 PAGE New York State Department of Health; Albany, NY, USA; New Yo
+4 CONC rk State Marriage Index
+3 OBJE @M206@
 1 SEX F
 1 FAMS @YIqlnp8mREuD4RW6nexn@
+1 FAMS @F328@
 1 BIRT
 2 DATE MAR 1856
 1 DEAT
@@ -10470,17 +10493,29 @@
 1 EVEN
 2 TYPE bought land
 2 DATE 23 OCT 1826
-2 PLAC Mosher Homestead, Greenfield, Saratoga, New York, USA
+2 PLAC Mosher Homestead, 3330 New York State Route 9N, Greenfield
+3 CONC , Saratoga, New York, USA
+3 MAP
+4 LATI N43.1471
+4 LONG W73.854
 2 NOTE from Jonathan and Betsey Williams (land next to Potter Johns
 3 CONC on). Note that in the 1820 US Census in Greenfield, Jonatha
 3 CONC n Williams is immediately before Potter Johnson (M33.79, p
 3 CONC . 175).
 1 RESI
 2 DATE FROM 23 OCT 1826 TO 06 MAR 1837
-2 PLAC Mosher Homestead, Greenfield, Saratoga, New York, USA
+2 PLAC Mosher Homestead, 3330 New York State Route 9N, Greenfield
+3 CONC , Saratoga, New York, USA
+3 MAP
+4 LATI N43.1471
+4 LONG W73.854
 1 CENS
 2 DATE 01 JUN 1830
-2 PLAC Mosher Homestead, Greenfield, Saratoga, New York, USA
+2 PLAC Mosher Homestead, 3330 New York State Route 9N, Greenfield
+3 CONC , Saratoga, New York, USA
+3 MAP
+4 LATI N43.1471
+4 LONG W73.854
 2 SOUR @k7TBQY0TRbOjJmSzDVLp@
 3 QUAY 3
 1 RESI
@@ -10498,7 +10533,11 @@
 1 EVEN
 2 TYPE sold land
 2 DATE 25 FEB 1834
-2 PLAC Mosher Homestead, Greenfield, Saratoga, New York, USA
+2 PLAC Mosher Homestead, 3330 New York State Route 9N, Greenfield
+3 CONC , Saratoga, New York, USA
+3 MAP
+4 LATI N43.1471
+4 LONG W73.854
 2 NOTE to his son William George Mosher
 1 RESI
 2 DATE FROM 06 MAR 1837 TO 1845
@@ -14395,12 +14434,20 @@
 1 EVEN
 2 TYPE bought land
 2 DATE 25 FEB 1834
-2 PLAC Mosher Homestead, Greenfield, Saratoga, New York, USA
+2 PLAC Mosher Homestead, 3330 New York State Route 9N, Greenfield
+3 CONC , Saratoga, New York, USA
+3 MAP
+4 LATI N43.1471
+4 LONG W73.854
 2 NOTE from his father David Mosher
 1 EVEN
 2 TYPE sold land
 2 DATE 06 MAR 1837
-2 PLAC Mosher Homestead, Greenfield, Saratoga, New York, USA
+2 PLAC Mosher Homestead, 3330 New York State Route 9N, Greenfield
+3 CONC , Saratoga, New York, USA
+3 MAP
+4 LATI N43.1471
+4 LONG W73.854
 2 SOUR @mbkq6415QBS3s6nFjmxS@
 3 QUAY 3
 1 RESI
@@ -19001,6 +19048,26 @@
 1 REFN c9328166-8dee-4e9e-9402-98d5763b2a1e
 1 HUSB @G8JdzN6TSUOv1Dd3RTlr@
 1 WIFE @qjF9oUM9T4SOrJO2RNCg@
+0 @F328@ FAM
+1 HUSB @I411@
+1 WIFE @lRa4WTztSYCNE5gvKech@
+1 MARR
+2 DATE 16 FEB 1893
+2 PLAC Madison, Madison, New York, USA
+3 MAP
+4 LATI N42.899
+4 LONG W75.5121
+2 SOUR @S203@
+3 PAGE New York State Department of Health; Albany, NY, USA; New Yo
+4 CONC rk State Marriage Index
+3 OBJE @M205@
+2 SOUR @S203@
+3 PAGE New York State Department of Health; Albany, NY, USA; New Yo
+4 CONC rk State Marriage Index
+3 OBJE @M206@
+2 SOUR @S203@
+3 PAGE New York State, Marriage Index, 1881-1967 Record
+3 OBJE @M207@
 0 @0AHPJQMgRoaRteWxND3Z@ FAM
 1 REFN 4f126481-4c31-4a53-9b69-cc7f868fd3ce
 1 HUSB @esHRgd1WSxarhtORNU69@
@@ -19475,31 +19542,6 @@
 4 LATI N52.5898
 4 LONG W1.4611
 2 SOUR @91JIXBEJQz6bVLkVlmAF@
-0 @F302@ FAM
-1 REFN 1c6dda96-f245-4b8f-b40f-27702d6bad58
-1 HUSB @I388@
-1 WIFE @I379@
-1 CHIL @I386@
-2 _FREL Natural
-2 _MREL Natural
-1 CHIL @I389@
-2 _FREL Natural
-2 _MREL Natural
-1 CHIL @I393@
-2 _FREL Natural
-2 _MREL Natural
-1 CHIL @I397@
-2 _FREL Natural
-2 _MREL Natural
-1 CHIL @I382@
-2 _FREL Natural
-2 _MREL Natural
-1 CHIL @I400@
-2 _FREL Natural
-2 _MREL Natural
-1 MARR
-2 DATE ABT 1608
-2 NOTE based on birth dates of children
 0 @pIDPVHBGQM6lxsUt5lcg@ FAM
 1 REFN 267dff55-60ca-42f0-9c5f-015e95496a48
 1 HUSB @GEj80RhFQ2CaELtO6d5B@
@@ -19553,6 +19595,31 @@
 2 SOUR @cHqs3hdITfGhgYkNTQzb@
 2 NOTE place is just a guess
 0 @F38@ FAM
+0 @F302@ FAM
+1 REFN 1c6dda96-f245-4b8f-b40f-27702d6bad58
+1 HUSB @I388@
+1 WIFE @I379@
+1 CHIL @I386@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I389@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I393@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I397@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I382@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I400@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR
+2 DATE ABT 1608
+2 NOTE based on birth dates of children
 0 @F305@ FAM
 1 REFN ab7a5638-c62a-4bf4-b44a-d345d2e02a87
 1 HUSB @I389@
@@ -21654,13 +21721,6 @@
 1 TITL Hampton, N.H. Area Genealogy
 1 AUTH Lane Memorial Library, Hampton, NH, USA
 1 PUBL http://www.hampton.lib.nh.us/genealog/
-0 @S177@ SOUR
-1 REFN 9b42c86d-a1a2-4baa-9d93-7be522ac1ed0
-1 REPO @R3@
-2 CALN F87.W3 C6
-1 TITL History of Washington and Kent Counties, Rhode Island
-1 AUTH J. R. Cole
-1 PUBL W. W. Preston & Co.; Location: New York; Date: 1889
 0 @FAZkd3k4TA6n5YAQ6nj3@ SOUR
 1 REFN 68848bcd-51e9-4968-8b50-2d3b05bc7e58
 1 TITL Interments, Record of, Flandreau, Elijah P
@@ -22097,6 +22157,12 @@
 1 AUTH Genealogical Research Library, comp
 1 PUBL Ancestry.com Operations Inc; Location: Provo, UT, USA; Date
 2 CONC : 2005
+0 @S203@ SOUR
+1 REPO @qoiFARVHSJOlOdzOUsT9@
+1 TITL New York State, Marriage Index, 1881-1967
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.; Location: Lehi, UT, USA; Date
+2 CONC : 2017
 0 @KyoznhM0TeGr02Vo5Zee@ SOUR
 1 REFN fd09d140-097f-4439-b3ae-be4122ccf9b0
 1 REPO @qoiFARVHSJOlOdzOUsT9@
@@ -25485,24 +25551,6 @@
 2 FORM jpg
 2 TITL 1860 United States Federal Census
 2 _DATE 1/16/2018 3:41:50 AM
-0 @M164@ OBJE
-1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher Media\18
-2 CONC 70 United States Federal Census.jpg
-2 FORM jpg
-2 TITL 1870 United States Federal Census
-2 _DATE 1/16/2018 3:41:56 AM
-0 @M165@ OBJE
-1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher Media\18
-2 CONC 50 United States Federal Census.jpg
-2 FORM jpg
-2 TITL 1850 United States Federal Census
-2 _DATE 1/16/2018 3:42:06 AM
-0 @M166@ OBJE
-1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher Media\US
-2 CONC , New England Marriages Prior to 1700.jpg
-2 FORM jpg
-2 TITL US, New England Marriages Prior to 1700
-2 _DATE 1/16/2018 3:42:51 AM
 0 @M167@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher Media\So
 2 CONC merset, England, Church of England Baptisms, Marriages, an
@@ -25766,6 +25814,26 @@
 2 FORM jpg
 2 TITL record-image_S3HT-6YJ9-9K9
 2 _DATE 2/8/2018 10:37:44 PM
+0 @M205@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher Media\Ne
+2 CONC w York State, Marriage Index, 1881-1967.jpg
+2 FORM jpg
+2 TITL New York State, Marriage Index, 1881-1967
+2 _TEXT New York State Department of Health; Albany, NY, USA; New Yo
+3 CONC rk State Marriage Index
+0 @M206@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher Media\Ne
+2 CONC w York State, Marriage Index, 1881-1967(1).jpg
+2 FORM jpg
+2 TITL New York State, Marriage Index, 1881-1967
+2 _TEXT New York State Department of Health; Albany, NY, USA; New Yo
+3 CONC rk State Marriage Index
+0 @M207@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher Media\Ne
+2 CONC w York State, Marriage Index, 1881-1967(2).jpg
+2 FORM jpg
+2 TITL New York State, Marriage Index, 1881-1967
+2 _TEXT New York State, Marriage Index, 1881-1967 Record
 0 @N353@ NOTE __GEDCOM__: DATE ABT 1612 __GEDCOM__
 0 @N381@ NOTE __GEDCOM__: DATE ABT 1658 __GEDCOM__
 0 @N380@ NOTE __GEDCOM__: DATE ABT DEC 1596 __GEDCOM__
