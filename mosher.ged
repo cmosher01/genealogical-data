@@ -13,9 +13,9 @@
 4 CONT Boston, MA 02109
 3 PHON (617) 227-6681
 1 DEST FTM
-1 FILE Mosher_2018-03-17-20-11-53.ftm.ged
-1 DATE 17 MAR 2018
-2 TIME 20:13:26
+1 FILE Mosher_2018-03-18-20-36-11.ftm.ged
+1 DATE 18 MAR 2018
+2 TIME 20:37:26
 0 @Umy2qBWIRUiwVSS6Hcn4@ SUBM
 1 NAME Christopher Alan Mosher
 2 EMAIL cmosher01@@gmail.com
@@ -403,6 +403,7 @@
 4 LONG W70.7362
 0 @I411@ INDI
 1 _XY 7325 1693
+1 REFN a262a9cb-4a89-49db-851d-efaeeca3f7b2
 1 NAME William H. /Blakeslee/
 2 SOUR @S203@
 3 _APID 1,61632::1344308
@@ -10494,27 +10495,24 @@
 1 EVEN
 2 TYPE bought land
 2 DATE 23 OCT 1826
-2 PLAC Mosher Homestead, 3330 New York State Route 9N, Greenfield
-3 CONC , Saratoga, New York, USA
-3 MAP
-4 LATI N43.1471
-4 LONG W73.854
+2 PLAC 3330 New York State Route 9N, Greenfield, Saratoga, New York
+3 CONC , USA
 2 SOUR @S204@
 3 _LINK https://digitalcollections.nypl.org/items/510d47e3-c121-a3d9
 4 CONC -e040-e00a18064a99
 3 PAGE <bibl> <title level="m">New Topographical Atlas of Saratog
 4 CONC a Co. New York. From Actual Surveys by S. N. &amp; D. G. Bee
-4 CONC rs and Assistants</title>, (<pubPlace>Philadelphia</pubPlace
-4 CONC >: <publisher>Stone &amp; Stewart</publisher>, 1866), <cited
-4 CONC Range>33</citedRange>, <title level="a">Greenfield</title>
-4 CONC , R. Ingram, halfway between North Greenfield and Greenfiel
-4 CONC d Center, on west side of highway, south of a cemetery; digi
-4 CONC tal images, <author>Lionel Pincus and Princess Firyal Map Di
-4 CONC vision, The New York Public Library</author>, <title level="
-4 CONC m">The New York Public Library Digital Collections</title> (
-4 CONC <ref target="https://digitalcollections.nypl.org/items/510d4
-4 CONC 7e3-c121-a3d9-e040-e00a18064a99"/> : accessed 17 Mar 2018)
-4 CONC . </bibl>
+4 CONC rs and Assistants</title> (<pubPlace>Philadelphia</pubPlace>
+4 CONC : <publisher>Stone &amp; Stewart</publisher>, 1866), <citedR
+4 CONC ange>33</citedRange>, <title level="a">Greenfield</title>, R
+4 CONC . Ingram, halfway between North Greenfield and Greenfield Ce
+4 CONC nter, on west side of highway, south of a cemetery; digita
+4 CONC l images, <author>Lionel Pincus and Princess Firyal Map Divi
+4 CONC sion, The New York Public Library</author>, <title level="m"
+4 CONC >The New York Public Library Digital Collections</title> (<r
+4 CONC ef target="https://digitalcollections.nypl.org/items/510d47e
+4 CONC 3-c121-a3d9-e040-e00a18064a99"/> : accessed 17 Mar 2018). </
+4 CONC bibl>
 3 QUAY 3
 3 DATA
 4 TEXT R. Ingram [I assume this is Rufus B. Ingham]
@@ -10525,13 +10523,13 @@
 4 CONC , <title level="u">Deed Records</title>, <citedRange>56: 496
 4 CONC –7, deed, Hiram and Naomi Barrass to Joseph Barrass, Jr., re
 4 CONC corded 28 Nov 1849</citedRange>; digital images, <title leve
-4 CONC l="u">Deed records v. 55–56 1848–9</title> FHL microfilm 555
-4 CONC ,779, DGS 7138744, image 530 of 566. </bibl>
+4 CONC l="u">Deed records v. 55–56 1848–9</title>, FHL microfilm 55
+4 CONC 5,779, DGS 7138744, image 530 of 566. </bibl>
 3 QUAY 4
 3 DATA
 4 TEXT on 6 Nov 1849,
 5 CONT Hiram and Naomi Barrass his wife, of Greenfield,
-5 CONT to Joseph Barrass, Jr. of Corinth,
+5 CONT to Joseph Barrass, Jr., of Corinth,
 5 CONT for $1,000,
 5 CONT in Greenfield,
 5 CONT beginning in middle of highway from Weeds Corners to Greenfi
@@ -10548,8 +10546,8 @@
 4 CONC , <title level="u">Deed Records</title>, <citedRange>61: 319
 4 CONC –20, deed, Joseph Barrass, Jr., and Lucinda Jane, to Betse
 4 CONC y New, recorded 3 Mar 1852</citedRange>; digital images, <ti
-4 CONC tle level="u">Deed records v. 61 1851–2</title> FHL microfil
-4 CONC m 555,782, DGS 7138741, images 168–9 of 267. </bibl>
+4 CONC tle level="u">Deed records v. 61 1851–2</title>, FHL microfi
+4 CONC lm 555,782, DGS 7138741, images 168–9 of 267. </bibl>
 3 QUAY 4
 3 DATA
 4 TEXT on 25 Feb 1852,
@@ -10572,8 +10570,8 @@
 4 CONC , <title level="u">Deed Records</title>, <citedRange>77: 162
 4 CONC –3, deed, Philip E. and Betsey New to Rufus B. Ingham, recor
 4 CONC ded 26 Mar 1857</citedRange>; digital images, <title level="
-4 CONC u">Deed records v. 76–77 1856–7</title> FHL microfilm 554,70
-4 CONC 9, DGS 7138647, image 399 of 629. </bibl>
+4 CONC u">Deed records v. 76–77 1856–7</title>, FHL microfilm 554,7
+4 CONC 09, DGS 7138647, image 399 of 629. </bibl>
 3 QUAY 4
 3 DATA
 4 TEXT on 29 Apr 1856,
@@ -10595,8 +10593,8 @@
 4 CONC , <title level="u">Deed Records</title>, <citedRange>CD [D]
 4 CONC : 119–22, two deeds, Abner and Jonathan Williams, recorded 1
 4 CONC 4 Apr 1807</citedRange>; digital images, <title level="u">De
-4 CONC ed records v. C–D 1792–1808</title> FHL microfilm 556,586, D
-4 CONC GS 7138838, images 355–7 of 528. </bibl>
+4 CONC ed records v. C–D 1792–1808</title>, FHL microfilm 556,586
+4 CONC , DGS 7138838, images 355–7 of 528. </bibl>
 3 QUAY 4
 3 DATA
 4 TEXT on 27 Dec 1806,
@@ -10624,7 +10622,7 @@
 4 CONC , <title level="u">Deed Records</title>, <citedRange>DD: 362
 4 CONC –3, deed, William G. Mosher to Dudley F. Scott, recorded 1
 4 CONC 2 Apr 1837</citedRange>; digital images, <title level="u">De
-4 CONC ed records v. DD–EE 1837</title> FHL microfilm 555,767, DG
+4 CONC ed records v. DD–EE 1837</title>, FHL microfilm 555,767, DG
 4 CONC S 7138756, images 197–8 of 609. </bibl>
 3 QUAY 4
 3 DATA
@@ -10813,8 +10811,8 @@
 4 CONC , <title level="u">Deed Records</title>, <citedRange>P: 3–4
 4 CONC , deed, Jonathan and Betsey Williams to David Mosher, record
 4 CONC ed 25 Oct 1826</citedRange>; digital images, <title level="u
-4 CONC ">Deed records v. O–P 1826–1828</title> FHL microfilm 556,59
-4 CONC 2, DGS 7138839, images 300–1 of 588. </bibl>
+4 CONC ">Deed records v. O–P 1826–1828</title>, FHL microfilm 556,5
+4 CONC 92, DGS 7138839, images 300–1 of 588. </bibl>
 3 QUAY 4
 3 DATA
 4 TEXT on 23 Oct 1826,
@@ -10840,8 +10838,8 @@
 4 CONC , <title level="u">Deed Records</title>, <citedRange>TT: 400
 4 CONC –1, deed, Amos Egleston to Warren Bockes, recorded 7 Apr 184
 4 CONC 5</citedRange>; digital images, <title level="u">Deed record
-4 CONC s v. SS–TT 1844–5</title> FHL microfilm 555,774, DGS 7138749
-4 CONC , image 498 of 577. </bibl>
+4 CONC s v. SS–TT 1844–5</title>, FHL microfilm 555,774, DGS 713874
+4 CONC 9, image 498 of 577. </bibl>
 3 QUAY 4
 3 DATA
 4 TEXT on 1 Dec 1844,
@@ -10865,8 +10863,8 @@
 4 CONC , <title level="u">Deed Records</title>, <citedRange>TT: 544
 4 CONC –5, deed, Dudley F. Scott to Amos Egleston, recorded 10 Ma
 4 CONC y 1845</citedRange>; digital images, <title level="u">Deed r
-4 CONC ecords v. SS–TT 1844–5</title> FHL microfilm 555,774, DGS 71
-4 CONC 38749, image 570 of 577. </bibl>
+4 CONC ecords v. SS–TT 1844–5</title>, FHL microfilm 555,774, DGS 7
+4 CONC 138749, image 570 of 577. </bibl>
 3 QUAY 4
 3 DATA
 4 TEXT on 1 May 1840,
@@ -10893,8 +10891,8 @@
 4 CONC , <title level="u">Deed Records</title>, <citedRange>WW: 539
 4 CONC –40, deed, Warren Bockes to Hiram Barrass, recorded 12 Oct 1
 4 CONC 846</citedRange>; digital images, <title level="u">Deed reco
-4 CONC rds v. WW–XX 1846–7</title> FHL microfilm 555,776, DGS 71387
-4 CONC 47, images 285–6 of 590. </bibl>
+4 CONC rds v. WW–XX 1846–7</title>, FHL microfilm 555,776, DGS 7138
+4 CONC 747, images 285–6 of 590. </bibl>
 3 QUAY 4
 3 DATA
 4 TEXT on 10 Oct 1846,
@@ -10916,8 +10914,8 @@
 4 CONC , <title level="u">Deed Records</title>, <citedRange>Y: 33–4
 4 CONC , deed, David Mosher to William G. Mosher, recorded 26 Feb 1
 4 CONC 834</citedRange>; digital images, <title level="u">Deed reco
-4 CONC rds v. X–Y 1832–1834</title> FHL microfilm 555,763, DGS 7138
-4 CONC 760, images 314–5 of 585. </bibl>
+4 CONC rds v. X–Y 1832–1834</title>, FHL microfilm 555,763, DGS 713
+4 CONC 8760, images 314–5 of 585. </bibl>
 3 QUAY 4
 3 DATA
 4 TEXT on 25 Feb 1834,
@@ -10944,7 +10942,7 @@
 4 CONC , <title level="u">Deed Records</title>, <citedRange>ZZ: 23–
 4 CONC 4, deed, Warren and Mary Bockes to Benjamin F. Prior, record
 4 CONC ed 21 Aug 1847</citedRange>; digital images, <title level="u
-4 CONC ">Deed records v. YY–ZZ 1847</title> FHL microfilm 555,777
+4 CONC ">Deed records v. YY–ZZ 1847</title>, FHL microfilm 555,777
 4 CONC , DGS 7138746, images 299–300 of 477. </bibl>
 3 QUAY 4
 3 DATA
@@ -10969,18 +10967,12 @@
 3 CONC . 175).
 1 RESI
 2 DATE FROM 23 OCT 1826 TO 06 MAR 1837
-2 PLAC Mosher Homestead, 3330 New York State Route 9N, Greenfield
-3 CONC , Saratoga, New York, USA
-3 MAP
-4 LATI N43.1471
-4 LONG W73.854
+2 PLAC 3330 New York State Route 9N, Greenfield, Saratoga, New York
+3 CONC , USA
 1 CENS
 2 DATE 01 JUN 1830
-2 PLAC Mosher Homestead, 3330 New York State Route 9N, Greenfield
-3 CONC , Saratoga, New York, USA
-3 MAP
-4 LATI N43.1471
-4 LONG W73.854
+2 PLAC 3330 New York State Route 9N, Greenfield, Saratoga, New York
+3 CONC , USA
 2 SOUR @k7TBQY0TRbOjJmSzDVLp@
 3 QUAY 3
 1 RESI
@@ -10998,19 +10990,178 @@
 1 EVEN
 2 TYPE sold land
 2 DATE 25 FEB 1834
-2 PLAC Mosher Homestead, 3330 New York State Route 9N, Greenfield
-3 CONC , Saratoga, New York, USA
-3 MAP
-4 LATI N43.1471
-4 LONG W73.854
+2 PLAC 3330 New York State Route 9N, Greenfield, Saratoga, New York
+3 CONC , USA
+2 SOUR @S202@
+3 _LINK https://www.familysearch.org/ark:/61903/3:1:3QSQ-G9WC-JVMZ
+3 PAGE <bibl> <author>County of Saratoga (New York, USA)</author>
+4 CONC , <title level="u">Deed Records</title>, <citedRange>FF: 379
+4 CONC –80, deed, John Vernam, Sheriff, to Dudley F. Scott, recorde
+4 CONC d 12 Apr 1838</citedRange>; digital images, <title level="u"
+4 CONC >Deed records v. FF–GG 1837–9</title>, FHL microfilm 555,768
+4 CONC , DGS 7138755, image 207 of 572. </bibl>
+3 QUAY 4
+3 DATA
+4 TEXT <text xml:lang="en">
+5 CONT <body>
+5 CONT <lb/>This Indenture made
+5 CONT <date when="1838-03-22">the Twenty Second day of March in th
+5 CONC e Year of our
+5 CONT <lb/>Lord one thousand Eight hundred and Thirty Eight</date>
+5 CONC ,
+5 CONT Between John
+5 CONT <lb/>Vernam Esq<hi rend="sup">r</hi> late Sheriff of the cou
+5 CONC nty of Saratoga of the first part
+5 CONT <lb/>and Dudley F. Scott of Greenfield in the Said county o
+5 CONC f Saratoga of
+5 CONT <lb/>the second part, Whereas by <add place="above">virtur
+5 CONC e of</add>
+5 CONT a certain writ of Fieri Facias issued out of &amp; under
+5 CONT <lb/>the seal of the Clerks office of the county of Saratog
+5 CONC a on judgements rendered
+5 CONT <lb/>before Alexander H. Scott, Esq<hi rend="sup">r</hi> a j
+5 CONC ustice of the peace in &amp; for the county
+5 CONT <lb/>of Saratoga &amp; dock<subst><del>ed</del><add type="ov
+5 CONC erwrite">eted</add></subst>
+5 CONT in the Said Clerks office on
+5 CONT <date when="1834-02-25">the twenty fifth day of
+5 CONT <lb/>February 1834</date> in favour of Edwin C. Weed in on
+5 CONC e case &amp; Darius Johnson
+5 CONT <lb/>in one case Plaintiffs against David Masher defendant t
+5 CONC o the said
+5 CONT <lb/>Sheriff directed &amp; delivered commanding him that o
+5 CONC f the goods &amp; chattle
+5 CONT <lb/>lands and Tenements of the Said defendant he Should cau
+5 CONC se to be made
+5 CONT <lb/>certain moneys in the Said writs Spicified as on refere
+5 CONC nce to the
+5 CONT <lb/>Same now on file in the office of the Clerk of the Sai
+5 CONC d court will
+5 CONT <lb/>more fully appear, And whereas the said defendant not h
+5 CONC aving
+5 CONT <lb/>Sufficient goods and chattles in the said county whereo
+5 CONC f he could
+5 CONT <lb/>cause to be made the moneys spicified in the Said writ
+5 CONC s he the
+5 CONT <lb/>Said Sheriff did in obedience to the Said command lev
+5 CONC y on take and
+5 CONT <lb/>Seize all the Estate right title &amp; interests of th
+5 CONC e said Defendant David
+5 CONT <lb/>Masher of in &amp; to the land tenements &amp; premise
+5 CONC s herein particularly
+5 CONT <lb/>Set forth &amp; described with the appurtenances and on
+5 CONT <date when="1836-06-22">
+5 CONT the twenty second
+5 CONT <lb/>day of June one thousand Eight hundred &amp; thirty six
+5 CONT </date>
+5 CONT sold the said
+5 CONT <lb/>premises at public vendue at Edwin C. Weed’s Inn in Gre
+5 CONC enfield
+5 CONT <lb/>in the Said county, he having first given notice of th
+5 CONC e time &amp; place of
+5 CONT <lb/>such sale by advertising the same according to the law
+5 CONC , at which
+5 CONT <lb/>Sale the said premises were struck off to Edwin C. Wee
+5 CONC d and
+5 CONT <lb/>Darius Johnson aforesaid for the sum of six hundred Dol
+5 CONC lars
+5 CONT <lb/>for the same, whereupon the Said Sheriff after receivin
+5 CONC g from the
+5 CONT <lb/>said purchasers the said sum of money so bidden as afor
+5 CONC e<pc>‐</pc>
+5 CONT <lb break="no"/>said, gave to them such certificate as is b
+5 CONC y law directed to be given
+5 CONT <lb/>and the said certificate assigned with and order execut
+5 CONC ed by the Said
+5 CONT <lb/>Edwin C. Weed &amp; Darius Johnson directing the said S
+5 CONC heriff to execute
+5 CONT <lb/>the deed to Dudley F. Scott. Now this Indenture witness
+5 CONC eth that
+5 CONT <lb/>the said party of the first part as Sheriff as aforesai
+5 CONC d by virtue of
+5 CONT <lb/>said writs &amp; in pursuance of the act in such case m
+5 CONC ade &amp; provided
+5 CONT <lb/>for and in consideration of the Sum of money above ment
+5 CONC ioned to
+5 CONT <lb/>him in hand paid as aforesaid the receipt whereof is he
+5 CONC reby acknowl<pc>‐</pc>
+5 CONT <lb break="no"/>edged have granted bargained sold released a
+5 CONC ssigned conveyed and
+5 CONT <lb/>confirmed and by these presents doth grant bargain sel
+5 CONC l release
+5 CONT <lb/>assign convey and confirm unto the said party of the Se
+5 CONC cond part
+5 CONT <pb n="380"/>
+5 CONT <fw type="pageNum" place="top center margin">380</fw>
+5 CONT <lb/>all the estate right title &amp; interest of the said d
+5 CONC efendant David Masher
+5 CONT <lb/>whereof he was seized or possessed on
+5 CONT <date when="1834-02-25">the twenty fifth day February one
+5 CONT <lb/>thousand Eight hunderd and thrity four</date> or at an
+5 CONC y time afterwards
+5 CONT <lb/>of in and to All that certain piece of Land in Greenfie
+5 CONC ld in the county of saratoga
+5 CONT <lb/>and bounded as follows, on the East by the highway lead
+5 CONC ing from E. C. Weed
+5 CONT <lb/>to Carrs Corners, on the South by Lands of Potter Johns
+5 CONC on, on the West by
+5 CONT <lb/>Lands of Ephraim Backus deceased &amp; the heirs of Asc
+5 CONC hel Porter deceased, on the
+5 CONT <lb/>North by lands of Norris Allen and by Lands of Willia
+5 CONC m A. Langworthy &amp;
+5 CONT <lb/>David Masher, Supposed to contain Eighty Eight acres o
+5 CONC f Land more or
+5 CONT <lb/>less. Together with all and Singular the hereditament
+5 CONC s &amp; appurtenances
+5 CONT <lb/>thereundo belonging or in any wise appertaining. To hav
+5 CONC e and To hold the
+5 CONT <lb/>above mentioned and described premises with the appurte
+5 CONC nances unto
+5 CONT <lb/>the Said party of the Second part his heirs and assigne
+5 CONC s forever as fully
+5 CONT <lb/>and absolutely as the said party of the first part as S
+5 CONC heriff as aforesaid
+5 CONT <lb/>can may or ought to by virtue of the said writs and o
+5 CONC f the act relating
+5 CONT <lb/>thereto, In Witness whereof the Said Sheriff hath hereu
+5 CONC nto set his
+5 CONT <lb/>hand and seal the day and year first above written.
+5 CONT <lb/>John Vernam Late Sheriff (L.S.)
+5 CONT <lb/>by Potter Johnson Deputy <pc>}</pc>
+5 CONT <lb/>Sealed &amp; delivered in presence of
+5 CONT <lb/>the words “&amp; David Masher
+5 CONT <lb/>interlined before signed
+5 CONT <lb/>Edwin C. Weed
+5 CONT <lb/>State of New York
+5 CONT <lb/>Saratoga County <pc>}</pc>
+5 CONT <lb/>SS I Lewis Scott a commissioner of deeds
+5 CONT <lb/>do certify that on
+5 CONT <date when="1838-03-23">the twenty third day of
+5 CONT <lb/>March 1838</date> before me personally appeared Potte
+5 CONC r Johnson to me
+5 CONT <lb/>known &amp; known to be the Deputy of John Vernam the p
+5 CONC erson des<pc>‐</pc>
+5 CONT <lb/>cribed in the foregoing deed who acknowledged
+5 CONT <add place="above">he expected</add> the same for the use
+5 CONT <lb/>&amp; purposes therein mentions
+5 CONT <lb/>Lewis Scott, Commissioner of Deeds
+5 CONT <lb/>I certify the foregoing to be a true copy of the origin
+5 CONC al with the certificate
+5 CONT <lb/>of acknowledgement thereof Recorded
+5 CONT <date when="1838-04-13">April 13<hi rend="sup underline">th<
+5 CONC /hi> 1838</date>
+5 CONT at <time when="11:20">11h. 20 m. AM</time>
+5 CONT <lb/><hi rend="underline">A Goodrich</hi> Clerk
+5 CONT </body>
+5 CONT </text>
 2 SOUR @S202@
 3 _LINK https://www.familysearch.org/ark:/61903/3:1:3QS7-99WC-N6VC
 3 PAGE <bibl> <author>County of Saratoga (New York, USA)</author>
 4 CONC , <title level="u">Deed Records</title>, <citedRange>Y: 33–4
 4 CONC , deed, David Mosher to William G. Mosher, recorded 26 Feb 1
 4 CONC 834</citedRange>; digital images, <title level="u">Deed reco
-4 CONC rds v. X–Y 1832–1834</title> FHL microfilm 555,763, DGS 7138
-4 CONC 760, images 314–5 of 585. </bibl>
+4 CONC rds v. X–Y 1832–1834</title>, FHL microfilm 555,763, DGS 713
+4 CONC 8760, images 314–5 of 585. </bibl>
 3 QUAY 4
 3 DATA
 4 TEXT on 25 Feb 1834,
@@ -14927,19 +15078,16 @@
 1 EVEN
 2 TYPE bought land
 2 DATE 25 FEB 1834
-2 PLAC Mosher Homestead, 3330 New York State Route 9N, Greenfield
-3 CONC , Saratoga, New York, USA
-3 MAP
-4 LATI N43.1471
-4 LONG W73.854
+2 PLAC 3330 New York State Route 9N, Greenfield, Saratoga, New York
+3 CONC , USA
 2 SOUR @S202@
 3 _LINK https://www.familysearch.org/ark:/61903/3:1:3QS7-99WC-N6VC
 3 PAGE <bibl> <author>County of Saratoga (New York, USA)</author>
 4 CONC , <title level="u">Deed Records</title>, <citedRange>Y: 33–4
 4 CONC , deed, David Mosher to William G. Mosher, recorded 26 Feb 1
 4 CONC 834</citedRange>; digital images, <title level="u">Deed reco
-4 CONC rds v. X–Y 1832–1834</title> FHL microfilm 555,763, DGS 7138
-4 CONC 760, images 314–5 of 585. </bibl>
+4 CONC rds v. X–Y 1832–1834</title>, FHL microfilm 555,763, DGS 713
+4 CONC 8760, images 314–5 of 585. </bibl>
 3 QUAY 4
 3 DATA
 4 TEXT on 25 Feb 1834,
@@ -14964,18 +15112,15 @@
 1 EVEN
 2 TYPE sold land
 2 DATE 06 MAR 1837
-2 PLAC Mosher Homestead, 3330 New York State Route 9N, Greenfield
-3 CONC , Saratoga, New York, USA
-3 MAP
-4 LATI N43.1471
-4 LONG W73.854
+2 PLAC 3330 New York State Route 9N, Greenfield, Saratoga, New York
+3 CONC , USA
 2 SOUR @S202@
 3 _LINK https://www.familysearch.org/ark:/61903/3:1:3QS7-99WC-G3YS
 3 PAGE <bibl> <author>County of Saratoga (New York, USA)</author>
 4 CONC , <title level="u">Deed Records</title>, <citedRange>DD: 362
 4 CONC –3, deed, William G. Mosher to Dudley F. Scott, recorded 1
 4 CONC 2 Apr 1837</citedRange>; digital images, <title level="u">De
-4 CONC ed records v. DD–EE 1837</title> FHL microfilm 555,767, DG
+4 CONC ed records v. DD–EE 1837</title>, FHL microfilm 555,767, DG
 4 CONC S 7138756, images 197–8 of 609. </bibl>
 3 QUAY 4
 3 DATA
@@ -15158,6 +15303,26 @@
 3 OBJE @M208@
 3 OBJE @M209@
 3 OBJE @M210@
+2 SOUR @S202@
+3 _LINK https://www.familysearch.org/ark:/61903/3:1:3QS7-L9WC-JV7J
+3 PAGE <bibl> <author>County of Saratoga (New York, USA)</author>
+4 CONC , <title level="u">Deed Records</title>, <citedRange>KK: 381
+4 CONC , deed, Edwin C. and Hannah Weed to Dudley F. Scott, recorde
+4 CONC d 12 May 1840</citedRange>; digital images, <title level="u"
+4 CONC >Deed records v. KK–LL 1839–41</title>, FHL microfilm 555,77
+4 CONC 0, DGS 7138753, image 200 of 580. </bibl>
+3 QUAY 4
+3 DATA
+4 TEXT land… bounded…
+5 CONT on the east by the highway leading from Edwin C. Weeds to Jo
+5 CONC sep Carr Corners
+5 CONT on the south by land of Dudley F. Scott
+5 CONT formerly occupied by William Mosher
+5 CONT on the west by Dudley F. Scott &amp; a lot
+5 CONT formerly owned by William A. Langworthy
+5 CONT on the north by the highway leading by Benjamin F. Prior
+5 CONT to the aforesaid highway,
+5 CONT 6 acres
 1 RESI
 2 DATE FROM 06 MAR 1837 TO 1845
 2 PLAC Owego, Tioga, New York, USA
@@ -23855,9 +24020,10 @@
 1 TITL US Census, 1850, PA, Tioga, Chatham
 1 AUTH US Census Bureau
 1 PUBL M432.830, p. 150
-1 TEXT SCHEDULE I.--Free Inhabitants in Chatham Township in the Cou
-2 CONC nty of Tioga State of Penn<sup>a</sup>. enumerated by me, o
-2 CONC n the 13 day of Sept 1850.<br />
+1 NOTE
+2 CONT __GEDCOM__: TEXT SCHEDULE I.--Free Inhabitants in Chatham To
+2 CONC wnship in the County of Tioga State of Penn<sup>a</sup>. enu
+2 CONC merated by me, on the 13 day of Sept 1850.<br />
 2 CONT [Dwelling] 212<br />
 2 CONT [Family] 216<br />
 2 CONT <table border="1">
@@ -23882,6 +24048,9 @@
 2 CONT <tr><td>Gideon</td><td>Luther</td><td>32</td><td>m</td><td>L
 2 CONC aborer</td><td>&nbsp;</td><td>N.Y.</td></tr>
 2 CONT </table>
+2 CONT [B. Mosher could be Basheba Maria Fuller, b. Canada 1793, wi
+2 CONC dow of Jonathan Mosher.]
+2 CONT __GEDCOM__
 0 @E5afengzQgCa6GklgaSK@ SOUR
 1 REFN 19249982-83ea-41de-a392-0a4f3bf41848
 1 TITL US Census, 1860, NY, Madison, Hamilton
