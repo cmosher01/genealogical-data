@@ -6,16 +6,16 @@
 1 COPR Copyright © 1998, Christopher Alan Mosher, Shelton, CT, USA.
 1 SUBM @Umy2qBWIRUiwVSS6Hcn4@
 1 SOUR FTM
-2 VERS 23.0.2.1343
+2 VERS 23.1.0.1480
 2 NAME Family Tree Maker for Windows
 2 CORP The Software MacKiev Company
 3 ADDR 30 Union Wharf
 4 CONT Boston, MA 02109
 3 PHON (617) 227-6681
 1 DEST FTM
-1 FILE Lopez_2018-03-14-02-50-36.ftm.ged
-1 DATE 14 MAR 2018
-2 TIME 02:52:17
+1 FILE Lopez_2018-06-13-01-50-02.ftm.ged
+1 DATE 13 JUN 2018
+2 TIME 01:51:49
 0 @Umy2qBWIRUiwVSS6Hcn4@ SUBM
 1 NAME Christopher Alan Mosher
 2 EMAIL cmosher01@@gmail.com
@@ -494,7 +494,7 @@
 0 @I72@ INDI
 1 _XY 149 1686
 1 REFN 3a3f5a27-659e-4d8b-8182-fe0303ddbc08
-1 NAME Alejandra /Cabezas/
+1 NAME Alejandrina /Cabezas/
 2 SOUR @S65@
 3 PAGE http://gw.geneanet.org/ecuadorgen?p=alejandrina;n=cabezas
 1 SEX F
@@ -11141,50 +11141,6 @@
 2 TITL 0253_Romero_Francisca
 2 _DATE 9/27/2013 8:55:28 PM
 1 REFN 1f9bb042-33b9-4a2c-a3ef-e83735ed0e7a
-0 @M60@ OBJE
-1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Pazmino_Lopez M
-2 CONC edia\1910 United States Federal Census.jpg
-2 FORM jpg
-2 TITL 1910 United States Federal Census
-2 _TEXT Year: 1910; Census Place: Brooklyn Ward 29, Kings, New York
-3 CONC ; Roll: T624_982; Page: 3B; Enumeration District: 0931; FH
-3 CONC L microfilm: 1374995
-1 REFN f99559ef-241e-49e1-899f-4ea0a76d9b7f
-0 @M61@ OBJE
-1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Pazmino_Lopez M
-2 CONC edia\1920 United States Federal Census(1).jpg
-2 FORM jpg
-2 TITL 1920 United States Federal Census
-2 _TEXT Year: 1920; Census Place: Brooklyn Assembly District 1, King
-3 CONC s, New York; Roll: T625_1143; Page: 10A; Enumeration Distric
-3 CONC t: 4; Image: 723
-1 REFN 8970675c-4647-44e1-ac3a-6899870407dc
-0 @M62@ OBJE
-1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Pazmino_Lopez M
-2 CONC edia\1930 United States Federal Census(1).jpg
-2 FORM jpg
-2 TITL 1930 United States Federal Census
-2 _TEXT Year: 1930; Census Place: Brooklyn, Kings, New York; Roll: 1
-3 CONC 538; Page: 18A; Enumeration District: 877; Image: 827.0; FH
-3 CONC L microfilm: 2341273
-1 REFN 1941ba65-5371-49aa-a372-50dee100ae1c
-0 @M63@ OBJE
-1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Pazmino_Lopez M
-2 CONC edia\1940 United States Federal Census.jpg
-2 FORM jpg
-2 TITL 1940 United States Federal Census
-2 _TEXT Year: 1940; Census Place: New York, Kings, New York; Roll: T
-3 CONC 627_2615; Page: 2A; Enumeration District: 24-2589
-1 REFN cde5e397-1055-4b3a-b86c-eb7c59d21ae4
-0 @M64@ OBJE
-1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Pazmino_Lopez M
-2 CONC edia\New York, State Census, 1915.jpg
-2 FORM jpg
-2 TITL New York, State Census, 1915
-2 _TEXT New York State Archives; Albany, New York; State Populatio
-3 CONC n Census Schedules, 1915; Election District: 24; Assembly Di
-3 CONC strict: 18; City: New York; County: Kings; Page: 48
-1 REFN 551d4e90-b0e2-403a-b37e-96773198799d
 0 @M65@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Lopez Media\rec
 2 CONC ord-image_33SQ-G5VV-489.jpg
@@ -11227,6 +11183,16 @@
 3 CONC ber: 154
 0 @N249@ NOTE __GEDCOM__: DATE BEF APR 1608 __GEDCOM__
 0 @N248@ NOTE __GEDCOM__: DATE BET 1521 AND 1528 __GEDCOM__
+0 @N313@ NOTE __GEDCOM__: REFN 1941ba65-5371-49aa-a372-50dee100ae1c __GEDC
+1 CONC OM__
+0 @N315@ NOTE __GEDCOM__: REFN 551d4e90-b0e2-403a-b37e-96773198799d __GEDC
+1 CONC OM__
+0 @N312@ NOTE __GEDCOM__: REFN 8970675c-4647-44e1-ac3a-6899870407dc __GEDC
+1 CONC OM__
+0 @N314@ NOTE __GEDCOM__: REFN cde5e397-1055-4b3a-b86c-eb7c59d21ae4 __GEDC
+1 CONC OM__
+0 @N311@ NOTE __GEDCOM__: REFN f99559ef-241e-49e1-899f-4ea0a76d9b7f __GEDC
+1 CONC OM__
 0 @N224@ NOTE affidavit, page 1
 0 @N223@ NOTE affidavit, page 2
 0 @N222@ NOTE certificate
