@@ -6,16 +6,16 @@
 1 COPR Copyright © 1998, Christopher Alan Mosher, Shelton, CT, USA.
 1 SUBM @Umy2qBWIRUiwVSS6Hcn4@
 1 SOUR FTM
-2 VERS 23.0.2.1343
+2 VERS 23.1.0.1480
 2 NAME Family Tree Maker for Windows
 2 CORP The Software MacKiev Company
 3 ADDR 30 Union Wharf
 4 CONT Boston, MA 02109
 3 PHON (617) 227-6681
 1 DEST FTM
-1 FILE Taylorson_2018-03-15-00-45-48.ftm.ged
-1 DATE 15 MAR 2018
-2 TIME 00:46:54
+1 FILE Taylorson_2018-06-13-00-50-17.ftm.ged
+1 DATE 13 JUN 2018
+2 TIME 00:51:37
 0 @Umy2qBWIRUiwVSS6Hcn4@ SUBM
 1 NAME Christopher Alan Mosher
 2 EMAIL cmosher01@@gmail.com
@@ -117,6 +117,8 @@
 2 SOUR @S79@
 3 QUAY 1
 2 SOUR @S97@
+3 _APID 1,9852::8850014
+3 PAGE FHL 90784, Elizabeth Barwicke
 1 SEX F
 1 FAMS @F29@
 1 BIRT
@@ -565,9 +567,9 @@
 3 OBJE @M64@
 2 SOUR @MLDnHhQZSGGw5BVQo9qM@
 3 _APID 1,9841::63730348
-2 SOUR @S80@
+2 SOUR @S98@
 3 _APID 1,9840::3262826
-2 SOUR @GZJmaUYeSMK4Fd2VWmk7@
+2 SOUR @S97@
 3 _APID 1,9852::27081379
 1 SEX F
 1 FAMS @F33@
@@ -580,7 +582,7 @@
 4 CONC pon Tees; County: Durham; Enumeration District: 1; Folio: 5
 4 CONC ; Page: 5; Line: 6; GSU roll: 241357
 3 OBJE @M64@
-2 SOUR @S80@
+2 SOUR @S98@
 3 _APID 1,9840::3262826
 1 RESI
 2 DATE 1841
@@ -594,12 +596,12 @@
 1 BURI
 2 DATE 17 JAN 1851
 2 PLAC Stockton upon Tees, Durham, England, UK
-2 SOUR @S80@
+2 SOUR @S98@
 3 _APID 1,9840::3262826
 1 DEAT
 2 DATE ABT MAR 1851
 2 PLAC Middlesbrough, Yorkshire, England, UK
-2 SOUR @S80@
+2 SOUR @S98@
 3 _APID 1,9840::3262826
 0 @W4pdcIGCSZmd8JedOduR@ INDI
 1 _XY 1049 2424
@@ -1217,7 +1219,7 @@
 2 SOUR @7kJ3C8C4QFesOwUmgdI4@
 2 SOUR @MLDnHhQZSGGw5BVQo9qM@
 3 _APID 1,9841::44353563
-2 SOUR @GZJmaUYeSMK4Fd2VWmk7@
+2 SOUR @S97@
 3 _APID 1,9852::34987084
 1 SEX F
 1 FAMC @F33@
@@ -1262,7 +1264,7 @@
 3 MAP
 4 LATI N54.5833
 4 LONG E1.4167
-2 SOUR @GZJmaUYeSMK4Fd2VWmk7@
+2 SOUR @S97@
 3 _APID 1,9852::34987084
 2 NOTE Marital Status: Single
 0 @I54@ INDI
@@ -1285,7 +1287,7 @@
 3 OBJE @M68@
 2 SOUR @MLDnHhQZSGGw5BVQo9qM@
 3 _APID 1,9841::63730071
-2 SOUR @S80@
+2 SOUR @S98@
 3 _APID 1,9840::7872730
 1 SEX M
 1 FAMC @F33@
@@ -1308,7 +1310,7 @@
 3 PAGE Class: HO107; Piece: 2383; Folio: 722; Page: 1; GSU roll: 87
 4 CONC 061
 3 OBJE @M67@
-2 SOUR @S80@
+2 SOUR @S98@
 3 _APID 1,9840::7872730
 1 RESI
 2 DATE 1841
@@ -1334,12 +1336,12 @@
 2 SOUR @OeOCLbwlTzu3dQqftwwk@
 3 _APID 1,8914::21087128
 3 OBJE @M68@
-2 SOUR @S80@
+2 SOUR @S98@
 3 _APID 1,9840::7872730
 1 BURI
 2 DATE 06 FEB 1861
 2 PLAC Holy Trinity, Stockton upon Tees, Durham, England, UK
-2 SOUR @S80@
+2 SOUR @S98@
 3 _APID 1,9840::7872730
 0 @I55@ INDI
 1 _XY 2194 1695
@@ -1356,7 +1358,7 @@
 3 OBJE @M69@
 2 SOUR @MLDnHhQZSGGw5BVQo9qM@
 3 _APID 1,9841::63730347
-2 SOUR @GZJmaUYeSMK4Fd2VWmk7@
+2 SOUR @S97@
 3 _APID 1,9852::27081380
 1 SEX M
 1 FAMS @F33@
@@ -1582,7 +1584,7 @@
 3 OBJE @M73@
 2 SOUR @S84@
 3 QUAY 1
-2 SOUR @GZJmaUYeSMK4Fd2VWmk7@
+2 SOUR @S97@
 3 _APID 1,9852::1653089
 1 SEX F
 1 FAMC @F25@
@@ -2789,18 +2791,48 @@
 1 NAME Jonathan /Taylerson/
 2 SOUR @S79@
 3 QUAY 1
+2 SOUR @MLDnHhQZSGGw5BVQo9qM@
+3 _APID 1,9841::52840677
+3 PAGE FHL 91092
+2 SOUR @S98@
+3 _APID 1,9840::11016115
+3 PAGE FHL 1894203
+2 SOUR @S99@
+3 _APID 1,60526::1097317
 1 SEX M
 1 FAMC @F32@
+1 OBJE @M83@
+1 OBJE @M84@
 1 BIRT
 2 DATE 19 APR 1763
 2 PLAC Aycliffe, Sedgefield, Durham, England, UK
 2 SOUR @S79@
 3 QUAY 1
+1 BAPM
+2 DATE 19 APR 1763
+2 PLAC Aycliffe, Sedgefield, Durham, England, UK
+2 SOUR @MLDnHhQZSGGw5BVQo9qM@
+3 _APID 1,9841::52840677
+3 PAGE FHL 91092
 1 DEAT
-2 DATE 22 JUN 1787
+2 DATE 20 JUN 1787
 2 PLAC Hart, Hartlepool, Durham, England, UK
 2 SOUR @S79@
 3 QUAY 1
+2 SOUR @S98@
+3 _APID 1,9840::11016115
+3 PAGE FHL 1894203
+2 SOUR @S99@
+3 _APID 1,60526::1097317
+1 BURI
+2 DATE 27 JUN 1787
+2 PLAC Saint Mary Magdalene Churchyard, Hartlepool, Durham, England
+3 CONC , UK
+2 SOUR @S98@
+3 _APID 1,9840::11016115
+3 PAGE FHL 1894203
+2 SOUR @S99@
+3 _APID 1,60526::1097317
 0 @PRBlkLKCSUKFRPTlxW7h@ INDI
 1 _XY 328 1914
 1 REFN 0194d49c-c780-45d8-b9ed-c20c1e5124bc
@@ -2830,7 +2862,7 @@
 2 SOUR @OeOCLbwlTzu3dQqftwwk@
 3 _APID 1,8914::33251417
 3 OBJE @M75@
-2 SOUR @GZJmaUYeSMK4Fd2VWmk7@
+2 SOUR @S97@
 3 _APID 1,9852::1653088
 2 SOUR @Ok2EiItMTYaIoVo6zEWZ@
 3 QUAY 1
@@ -3174,6 +3206,7 @@
 1 FAMC @F40@
 1 FAMS @F32@
 1 FAMS @F36@
+1 OBJE @M84@
 1 BIRT
 2 DATE 13 AUG 1723
 2 PLAC Aycliffe, Sedgefield, Durham, England, UK
@@ -3218,6 +3251,8 @@
 2 SOUR @MLDnHhQZSGGw5BVQo9qM@
 3 _APID 1,9841::158580177
 2 SOUR @S97@
+3 _APID 1,9852::8850013
+3 PAGE FHL 90784, Rowland Taylerson
 1 SEX M
 1 FAMC @F24@
 1 FAMS @F29@
@@ -5124,7 +5159,7 @@
 3 OBJE @xNxl4cTfRbaETAVSHqgQ@
 2 SOUR @MLDnHhQZSGGw5BVQo9qM@
 3 _APID 1,9841::44353562
-2 SOUR @GZJmaUYeSMK4Fd2VWmk7@
+2 SOUR @S97@
 3 _APID 1,9852::34987081
 2 SOUR @0MacWIUSR0yCwHHfzvGN@
 3 QUAY 1
@@ -5318,7 +5353,7 @@
 3 MAP
 4 LATI N54.5833
 4 LONG E1.4167
-2 SOUR @GZJmaUYeSMK4Fd2VWmk7@
+2 SOUR @S97@
 3 _APID 1,9852::34987081
 2 NOTE Marital Status: Single
 0 @8ZQjjsaHTTqHOdv5t3Us@ INDI
@@ -5447,8 +5482,8 @@
 3 OBJE @CsKj7hxCT7KfNOwW7nJ0@
 1 SEX M
 1 FAMC @F37@
-1 FAMS @dAW8wNGnQgOhALuwIepD@
 1 FAMS @VVoxPoqYQb2s80iiPRRo@
+1 FAMS @dAW8wNGnQgOhALuwIepD@
 1 OBJE @GdEop12iQKCgubsvVmdV@
 1 OBJE @UApIl18aQxyH5g5K2jkU@
 1 BIRT
@@ -6020,7 +6055,7 @@
 1 MARR
 2 DATE 13 MAY 1790
 2 PLAC Hutton Rudby, Yorkshire, England, UK
-2 SOUR @GZJmaUYeSMK4Fd2VWmk7@
+2 SOUR @S97@
 3 _APID 1,9852::27081380
 0 @DCtlZtRIRVm4T1ZfUDC3@ FAM
 1 REFN 73a80109-9548-495b-8bc6-ed7c7e8626da
@@ -6261,7 +6296,7 @@
 2 DATE 06 MAR 1819
 2 PLAC Saint Mary Magdalene Church, Hart, Hartlepool, Durham, Engla
 3 CONC nd, UK
-2 SOUR @GZJmaUYeSMK4Fd2VWmk7@
+2 SOUR @S97@
 3 _APID 1,9852::1653088
 0 @F32@ FAM
 1 REFN 77c78f51-bafd-48d8-b1ca-150d5b374cc1
@@ -6342,7 +6377,10 @@
 2 SOUR @S79@
 3 QUAY 1
 2 SOUR @S97@
+3 PAGE FHL 90784, Elizabeth Barwicke
 2 SOUR @S97@
+3 _APID 1,9852::8850013
+3 PAGE FHL 90784, Rowland Taylerson
 0 @x0FfmvNVTaardWNmUxSB@ FAM
 1 REFN 1869b511-8ad7-4d55-8b37-e48125efca75
 1 HUSB @te7t7Lo2QraoEgWshr1c@
@@ -6357,8 +6395,7 @@
 3 OBJE @nUHy1YBHRXSE4eLmMUJo@
 1 MARR
 2 DATE ABT 1875
-0 @nnem1nCLTQuG59X3AQKM@ FAM
-1 REFN 238f96b2-1e81-4525-a688-f9359df43b16
+0 @F9@ FAM
 0 @F24@ FAM
 1 REFN dbb8e4ce-0794-4283-8d4d-b80c4d99772c
 1 HUSB @I95@
@@ -6415,7 +6452,7 @@
 3 CONC ham, England, UK
 2 SOUR @S79@
 3 QUAY 1
-2 SOUR @GZJmaUYeSMK4Fd2VWmk7@
+2 SOUR @S97@
 3 _APID 1,9852::34987081
 0 @9lQRIZf6SYK7Y5hx8Llz@ FAM
 1 REFN ab77c28b-2bc9-4708-bd2a-3c60d588bed6
@@ -6599,13 +6636,6 @@
 1 TITL [Unknown newspaper, clipping, Harrison/Taylorson, Hannah, ob
 2 CONC ituary]
 1 PUBL In possession of Chris Mosher, 1897
-1 TEXT DIED<br />
-2 CONT In Hornby, May 30th, 1897, Hannah, wife of Henry Harrison, a
-2 CONC ged 45 years.<br />
-0 @S91@ SOUR
-1 REFN 32a0e2a3-e998-421f-9d0b-7b147aecab66
-1 TITL [Unknown newspaper, clipping]
-1 PUBL In posession of Chris Mosher, 1897
 1 TEXT DIED<br />
 2 CONT In Hornby, May 30th, 1897, Hannah, wife of Henry Harrison, a
 2 CONC ged 45 years.<br />
@@ -7350,17 +7380,9 @@
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2014
-0 @S80@ SOUR
-1 REFN f798de37-7a32-47ed-a804-0b4ecd2ba727
+0 @S98@ SOUR
 1 REPO @R1@
 1 TITL England, Select Deaths and Burials, 1538-1991
-1 AUTH Ancestry.com
-1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
-2 CONC e: 2014
-0 @GZJmaUYeSMK4Fd2VWmk7@ SOUR
-1 REFN c9b320bd-c2b6-4720-a1e3-4d2c72c88366
-1 REPO @R1@
-1 TITL England, Select Marriages, 1538–1973
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2014
@@ -8241,13 +8263,6 @@
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2011
-0 @S93@ SOUR
-1 REFN 2defb8b3-4d2a-40ea-a198-6547ad0ec0e3
-1 REPO @R1@
-1 TITL U.S. City Directories, 1822-1989
-1 AUTH Ancestry.com
-1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
-2 CONC e: 2011
 0 @xcXXXJstR1iS4OizBZKh@ SOUR
 1 REFN 5279ef12-0e5f-41a7-9116-fa55425df9aa
 1 REPO @R1@
@@ -8286,6 +8301,12 @@
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations Inc; Location: Provo, UT, USA; Date
 2 CONC : 2005
+0 @S99@ SOUR
+1 REPO @R1@
+1 TITL UK and Ireland, Find A Grave Index, 1300s-Current
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
+2 CONC e: 2012
 0 @GGFJAebSQ06ZNolWRXDN@ SOUR
 1 REFN 7447873b-604c-4c5c-97a9-f25b49595f4c
 1 TITL US Census, 1850, NY, Steuben, Painted Post
@@ -8306,46 +8327,6 @@
 2 CONC <td>&nbsp;</td><td>England</td></tr>
 2 CONT <tr><td>William</td><td>Taylorson</td><td>2/12</td><td>M</td
 2 CONC ><td>&nbsp;</td><td>N.Y.</td></tr>
-2 CONT </table>
-0 @S94@ SOUR
-1 REFN c8f24597-de74-4390-9060-b96effb4e75f
-1 TITL US Census, 1850, NY, Steuben, Painted Post
-1 AUTH US Census Bureau
-1 PUBL M432.598, p. 3
-1 TEXT SCHEDULE I.--Free Inhabitants in the Town of Painted Post i
-2 CONC n the County of Steuben State of New York enumerated by me
-2 CONC , on the 29<sup>th</sup> day of August 1850.<br />
-2 CONT [...]<br />
-2 CONT [Dwelling] 3<br />
-2 CONT [Family] 3<br />
-2 CONT <table border="1">
-2 CONT <tr><td>32</td><td>35</td><td>Robert</td><td>Talerson</td><t
-2 CONC d>50</td><td>M.</td><td>Carpenter.</td><td>300</td><td>Engla
-2 CONC nd</td></tr>
-2 CONT <tr><td>&nbsp;</td><td>&nbsp;</td><td>Robert</td><td>Talerso
-2 CONC n</td><td>4</td><td>M.</td><td>&nbsp;</td><td>&nbsp;</td><td
-2 CONC >England</td></tr>
-2 CONT <tr><td>&nbsp;</td><td>&nbsp;</td><td>John</td><td>Coak</td>
-2 CONC <td>19</td><td>M.</td><td>Brick layer.</td><td>&nbsp;</td><t
-2 CONC d>England</td></tr>
-2 CONT <tr><td>&nbsp;</td><td>&nbsp;</td><td>Elizabeth</td><td>Davi
-2 CONC son</td><td>34</td><td>F.</td><td>&nbsp;</td><td>&nbsp;</td>
-2 CONC <td>England</td></tr>
-2 CONT <tr><td>33</td><td>36</td><td>William</td><td>Davison</td><t
-2 CONC d>34</td><td>M.</td><td>Brick layer</td><td>&nbsp;</td><td>E
-2 CONC ngland</td></tr>
-2 CONT <tr><td>&nbsp;</td><td>&nbsp;</td><td>Thomas</td><td>Davison
-2 CONC </td><td>25</td><td>M.</td><td>Brick layer.</td><td>&nbsp;</
-2 CONC td><td>England</td></tr>
-2 CONT <tr><td>&nbsp;</td><td>&nbsp;</td><td>James</td><td>Davison<
-2 CONC /td><td>21</td><td>M.</td><td>Prentice</td><td>&nbsp;</td><t
-2 CONC d>England</td></tr>
-2 CONT <tr><td>&nbsp;</td><td>&nbsp;</td><td>Ellen</td><td>Carter</
-2 CONC td><td>4</td><td>F.</td><td>&nbsp</td><td>&nbsp;</td><td>Eng
-2 CONC land</td></tr>
-2 CONT <tr><td>&nbsp;</td><td>&nbsp;</td><td>William H</td><td>Davi
-2 CONC son</td><td>7/12</td><td>M.</td><td>&nbsp</td><td>&nbsp;</td
-2 CONC ><td>Pa</td></tr>
 2 CONT </table>
 0 @xbtkeA3NQVK7k9HX2Njs@ SOUR
 1 REFN 1cc31fe6-426c-4700-bdfe-eb0e50380075
@@ -8618,17 +8599,6 @@
 2 CONC au</td><td>s</td><td>&nbsp;</td><td>NY</td><td>Ire</td><td>I
 2 CONC re</td></tr>
 2 CONT </table>
-0 @v9lVJ9JWSlCCClNlNzyE@ SOUR
-1 REFN f13b9672-e263-4c40-ae80-02597a8943bd
-1 TITL US Census, 1900, NY, Cattaraugus, Olean
-1 AUTH US Census Bureau
-0 @S95@ SOUR
-1 REFN 6c33f357-8773-495f-8c45-cce0fefd9090
-1 TITL US Census, 1900, NY, Chemung, Elmina, Ward 9, District 29, p
-2 CONC . 14 of 22
-1 AUTH US Census Bureau
-1 PUBL 1900-06-11
-1 TEXT Dodd Labinia Jan. 1854 48
 0 @S82@ SOUR
 1 REFN 2f1e6fe9-b7f0-4cc2-9696-c1700f487c78
 1 TITL US Census, 1900, NY, Steuben, Erwin, District 82, p. 11 of 2
@@ -9278,15 +9248,6 @@
 2 FORM jpg
 2 TITL Marriage
 1 REFN 0d63e16d-a196-44df-ac17-b798a0d929cf
-0 @M78@ OBJE
-1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Taylerson_Taylo
-2 CONC rson(1) Media\1870 United States Federal Census.jpg
-2 FORM jpg
-2 TITL 1870 United States Federal Census
-2 _TEXT Year: 1870; Census Place: Corning, Steuben, New York; Roll
-3 CONC : M593_1095; Page: 49A; Image: 102; Family History Library F
-3 CONC ilm: 552594
-1 REFN 36ebf2b4-c76f-46bc-ac85-2e19160e5d45
 0 @M79@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Taylorson Media
 2 CONC \England & Wales, Civil Registration Marriage Index, 1837-19
@@ -9295,21 +9256,6 @@
 2 TITL England & Wales, Civil Registration Marriage Index, 1837-191
 3 CONC 5
 1 REFN 4a02c136-3dff-4738-83bd-bf7ea5682e15
-0 @M80@ OBJE
-1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Taylorson Media
-2 CONC \U.S. City Directories, 1822-1989.jpg
-2 FORM jpg
-2 TITL U.S. City Directories, 1822-1989
-1 REFN 66f97a38-b23c-4658-a53f-788e4ca950e3
-0 @M81@ OBJE
-1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Taylorson Media
-2 CONC \1860 United States Federal Census(1).jpg
-2 FORM jpg
-2 TITL 1860 United States Federal Census
-2 _TEXT Year: 1860; Census Place: Corning, Steuben, New York; Roll
-3 CONC : M653_863; Page: 216; Image: 221; Family History Library Fi
-3 CONC lm: 803863
-1 REFN 7d4c7de7-2b0f-492c-a2b8-4b1aaebd9efc
 0 @M82@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Taylorson Media
 2 CONC \1870 United States Federal Census.jpg
@@ -9317,6 +9263,16 @@
 2 TITL 1870 United States Federal Census
 2 _TEXT Year: 1870; Census Place: Corning, Steuben, New York; Roll
 3 CONC : M593_1095; Page: 49A; Family History Library Film: 552594
+0 @M83@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Taylorson Media
+2 CONC \Baptism.jpg
+2 FORM jpg
+2 TITL Baptism
+0 @M84@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Taylorson Media
+2 CONC \Grave of Robert Taylerson and Jonathan Taylerson.jpg
+2 FORM jpg
+2 TITL Grave of Robert Taylerson and Jonathan Taylerson
 0 @N240@ NOTE P. Sidgwick gives place as Monk Hesleden.
 0 @N162@ NOTE __GEDCOM__: DATE ABT 1796 __GEDCOM__
 0 @N94@ NOTE __GEDCOM__: DATE ABT 1800 __GEDCOM__
@@ -9328,6 +9284,12 @@
 0 @N97@ NOTE __GEDCOM__: DATE OCT 1820 __GEDCOM__
 1 CONT
 1 CONT date is from 1860 census
+0 @N253@ NOTE __GEDCOM__: REFN 36ebf2b4-c76f-46bc-ac85-2e19160e5d45 __GEDC
+1 CONC OM__
+0 @N262@ NOTE __GEDCOM__: REFN 66f97a38-b23c-4658-a53f-788e4ca950e3 __GEDC
+1 CONC OM__
+0 @N263@ NOTE __GEDCOM__: REFN 7d4c7de7-2b0f-492c-a2b8-4b1aaebd9efc __GEDC
+1 CONC OM__
 0 @N241@ NOTE need to order death cert. from England
 0 @N172@ NOTE somewhere in the neighborhood of High Street and Park Row i
 1 CONC n Stockton upon Tees
