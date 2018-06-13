@@ -6,16 +6,16 @@
 1 COPR Copyright © 1998, Christopher Alan Mosher, Shelton, CT, USA.
 1 SUBM @Umy2qBWIRUiwVSS6Hcn4@
 1 SOUR FTM
-2 VERS 23.0.2.1343
+2 VERS 23.1.0.1480
 2 NAME Family Tree Maker for Windows
 2 CORP The Software MacKiev Company
 3 ADDR 30 Union Wharf
 4 CONT Boston, MA 02109
 3 PHON (617) 227-6681
 1 DEST FTM
-1 FILE McLaughlin_2018-03-13-21-55-25.ftm.ged
-1 DATE 13 MAR 2018
-2 TIME 21:56:56
+1 FILE McLaughlin_2018-06-13-00-58-12.ftm.ged
+1 DATE 13 JUN 2018
+2 TIME 00:59:37
 0 @Umy2qBWIRUiwVSS6Hcn4@ SUBM
 1 NAME Christopher Alan Mosher
 2 EMAIL cmosher01@@gmail.com
@@ -3825,6 +3825,8 @@
 3 PAGE Year: 1920; Census Place: Hornby, Steuben, New York
 3 OBJE @IO5n9MvAQ3iR4Hu6TcJg@
 2 SOUR @CjXHrGelRbOCGmAkW59P@
+3 DATA
+4 TEXT cert. no. 7110
 2 SOUR @jeloXU3BSga3SEjzGjxP@
 3 QUAY 1
 2 SOUR @m7Phkg8qRz2NO0TDWP4l@
@@ -4340,6 +4342,11 @@
 4 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=62861
 5 CONC &pid=183
 2 SOUR @CjXHrGelRbOCGmAkW59P@
+2 SOUR @S71@
+3 _APID 1,61535::2358588
+3 PAGE New York Department of Health; Albany, NY; NY State Death In
+4 CONC dex; Certificate Number: 52610
+3 OBJE @M114@
 2 SOUR @m7Phkg8qRz2NO0TDWP4l@
 3 _APID 1,7218::759264
 3 OBJE @bxxQSzHoROmEpxwlq79k@
@@ -4515,6 +4522,11 @@
 4 LONG W77.0444
 2 SOUR @CjXHrGelRbOCGmAkW59P@
 3 QUAY 1
+2 SOUR @S71@
+3 _APID 1,61535::2358588
+3 PAGE New York Department of Health; Albany, NY; NY State Death In
+4 CONC dex; Certificate Number: 52610
+3 OBJE @M114@
 0 @ZfZ6WA7gSfOqbKsceTjx@ INDI
 1 _XY 187426 4353
 1 REFN 90981090-397e-4c83-b5a5-74efc870d455
@@ -7291,7 +7303,8 @@
 2 DATE FROM 1857 TO 1861
 2 PLAC McLaughlin Farm, Dix, Schuyler, New York, USA
 2 NOTE [Best guess based on 1874 Pomeroy Altas and 1860/70/80 US Ce
-3 CONC nsus records.]
+3 CONC nsus records:
+3 CONT Vanzandt Hollow Road.]
 3 CONT
 3 CONT Dates are approximate. Need to check land records.
 1 CENS
@@ -7537,6 +7550,8 @@
 4 LATI N42.2442
 4 LONG W77.0444
 2 SOUR @CjXHrGelRbOCGmAkW59P@
+3 DATA
+4 TEXT cert. no. 7110
 1 DEAT
 2 DATE 22 FEB 1902
 2 PLAC Hornby, Steuben, New York, USA
@@ -9846,6 +9861,12 @@
 2 CONT </tbody>
 2 CONT </table>
 2 CONT </p>
+0 @S71@ SOUR
+1 REPO @0aJKtHRDQmatCERL9JPC@
+1 TITL New York, Death Index, 1880-1956
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.; Location: Lehi, UT, USA; Date
+2 CONC : 2017
 0 @Q4qgNGgdRC6KHzS9ld2e@ SOUR
 1 REFN 5eff6aff-9a2d-4c98-9076-e3b0e6b90a81
 1 REPO @0aJKtHRDQmatCERL9JPC@
@@ -11845,4 +11866,11 @@
 2 _TEXT Registration State: New York; Registration County: Steuben
 3 CONC ; Roll: 1818989; Draft Board: 1
 1 REFN 86f3df7d-82a9-4edd-b092-bcdf4cb85797
+0 @M114@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\McLaughlin Medi
+2 CONC a\New York, Death Index, 1880-1956.jpg
+2 FORM jpg
+2 TITL New York, Death Index, 1880-1956
+2 _TEXT New York Department of Health; Albany, NY; NY State Death In
+3 CONC dex; Certificate Number: 52610
 0 TRLR
