@@ -6,16 +6,16 @@
 1 COPR Copyright © 1998, Christopher Alan Mosher, Shelton, CT, USA.
 1 SUBM @Umy2qBWIRUiwVSS6Hcn4@
 1 SOUR FTM
-2 VERS 23.0.2.1343
+2 VERS 23.1.0.1480
 2 NAME Family Tree Maker for Windows
 2 CORP The Software MacKiev Company
 3 ADDR 30 Union Wharf
 4 CONT Boston, MA 02109
 3 PHON (617) 227-6681
 1 DEST FTM
-1 FILE Disosway_2018-03-13-21-20-41.ftm.ged
-1 DATE 13 MAR 2018
-2 TIME 21:22:41
+1 FILE Disosway_2018-06-13-01-35-23.ftm.ged
+1 DATE 13 JUN 2018
+2 TIME 01:36:46
 0 @Umy2qBWIRUiwVSS6Hcn4@ SUBM
 1 NAME Christopher Alan Mosher
 2 EMAIL cmosher01@@gmail.com
@@ -2898,11 +2898,13 @@
 2 SOUR @RK2jjKBxR1KOXCD0xkMw@
 3 _APID 1,4802::83113
 2 SOUR @6HNc22TuRWeAwAmhL5cp@
+3 _APID 1,60548::8064673
 3 PAGE "Craven County, North Carolina, Index to Marriage Bonds, Abs
 4 CONC tracts, 1780-1865," Gooding, Susan Maria, and Disosway, Isra
 4 CONC el, p. 90
-3 OBJE @opq2ElclSKK1TkOsb3R0@
+3 OBJE @M120@
 2 SOUR @6HNc22TuRWeAwAmhL5cp@
+3 _APID 1,60548::64672
 3 PAGE "Craven County, North Carolina, Index to Marriage Bonds, Abs
 4 CONC tracts, 1780-1865," Justice, Ann Maria, and Disosway, Israel
 4 CONC , p. 90
@@ -2918,8 +2920,8 @@
 3 _APID 1,70634::3107192
 1 SEX M
 1 FAMC @IpbpbU5rRAiNxfJoH6QB@
-1 FAMS @Gya3FLotS12EE2y7A2PG@
 1 FAMS @jyCZPToSQBOp98OgIwfM@
+1 FAMS @Gya3FLotS12EE2y7A2PG@
 1 OBJE @UaA9aTKHT6uDyhsaqWl3@
 1 BIRT
 2 DATE ABT 01 JUL 1815
@@ -4962,7 +4964,10 @@
 3 QUAY 1
 2 SOUR @6HNc22TuRWeAwAmhL5cp@
 3 _APID 1,60548::8064673
-3 OBJE @opq2ElclSKK1TkOsb3R0@
+3 PAGE "Craven County, North Carolina, Index to Marriage Bonds, Abs
+4 CONC tracts, 1780-1865," Gooding, Susan Maria, and Disosway, Isra
+4 CONC el, p. 90
+3 OBJE @M120@
 2 SOUR @lDuG27hSTACWHq7z54Ba@
 3 _APID 1,60525::70117065
 1 SEX F
@@ -5286,7 +5291,6 @@
 0 @7nAjtoHjQEaNxO44L4VR@ INDI
 1 _XY 143015 1842
 1 REFN b0c4c217-9b4d-4fa6-88f9-eb18d543488f
-1 NAME Ann Mason /Justice/
 1 NAME Ann Maria /Justice/
 1 SEX F
 1 FAMS @jyCZPToSQBOp98OgIwfM@
@@ -9122,14 +9126,13 @@
 3 MAP
 4 LATI N35.1085
 4 LONG W77.0441
+2 SOUR @PKiyajPlSuW4vjUkmFpk@
 2 SOUR @6HNc22TuRWeAwAmhL5cp@
-3 OBJE @opq2ElclSKK1TkOsb3R0@
-2 SOUR @6HNc22TuRWeAwAmhL5cp@
-3 _APID 1,60548::64673
+3 _APID 1,60548::8064673
 3 PAGE "Craven County, North Carolina, Index to Marriage Bonds, Abs
 4 CONC tracts, 1780-1865," Gooding, Susan Maria, and Disosway, Isra
 4 CONC el, p. 90
-3 OBJE @opq2ElclSKK1TkOsb3R0@
+3 OBJE @M120@
 2 NOTE Bond #25784
 3 CONT Bondsman: Alexander C. B.
 3 CONT Witness: J. G. Stanly
@@ -12959,13 +12962,6 @@
 2 FORM jpg
 2 TITL U.S. City Directories, 1821-1989
 1 REFN 5ffce338-b701-4ade-a586-6405607ae6bc
-0 @FG1td0wWTNSz6TNdabMB@ OBJE
-1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
-2 CONC _Harrison_Pazmino Media\U.S. City Directories, 1822-1995(3).
-2 CONC jpg
-2 FORM jpg
-2 TITL U.S. City Directories, 1822-1995
-1 REFN 8563ef2d-75c0-4078-9a54-5c03d64a312d
 0 @Vq5GpIOyS66CqO4tIZFd@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
 2 CONC _Harrison_Pazmino Media\U.S. City Directories, 1822-1995(6).
@@ -13075,4 +13071,14 @@
 2 TITL US, Register of Civil, Military, and Naval Service, 1863-195
 3 CONC 9
 1 REFN b325cb6e-6a76-4e3a-b951-ec1c10b1c86b
+0 @M120@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Disosway Media\
+2 CONC North Carolina, Marriage Records, 1741-2011.jpg
+2 FORM jpg
+2 TITL North Carolina, Marriage Records, 1741-2011
+2 _TEXT "Craven County, North Carolina, Index to Marriage Bonds, Abs
+3 CONC tracts, 1780-1865," Gooding, Susan Maria, and Disosway, Isra
+3 CONC el, p. 90
+0 @N106@ NOTE __GEDCOM__: REFN 8563ef2d-75c0-4078-9a54-5c03d64a312d __GEDC
+1 CONC OM__
 0 TRLR
