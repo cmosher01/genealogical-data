@@ -6,16 +6,16 @@
 1 COPR Copyright © 1998, Christopher Alan Mosher, Shelton, CT, USA.
 1 SUBM @Umy2qBWIRUiwVSS6Hcn4@
 1 SOUR FTM
-2 VERS 23.0.2.1343
+2 VERS 23.1.0.1480
 2 NAME Family Tree Maker for Windows
 2 CORP The Software MacKiev Company
 3 ADDR 30 Union Wharf
 4 CONT Boston, MA 02109
 3 PHON (617) 227-6681
 1 DEST FTM
-1 FILE Flandreau_2018-03-13-22-21-06.ftm.ged
-1 DATE 13 MAR 2018
-2 TIME 22:22:53
+1 FILE Flandreau_2018-06-13-01-39-22.ftm.ged
+1 DATE 13 JUN 2018
+2 TIME 01:40:59
 0 @Umy2qBWIRUiwVSS6Hcn4@ SUBM
 1 NAME Christopher Alan Mosher
 2 EMAIL cmosher01@@gmail.com
@@ -7501,6 +7501,14 @@
 2 SOUR @R0zqvtECSh25eRxo6al9@
 3 _APID 1,3719::21584
 3 OBJE @Bg934jOLTAiR4g12Pfhn@
+2 SOUR @S114@
+3 _APID 1,1309::550729
+3 PAGE National Archives; Washington, D.C.; Compiled Service Record
+4 CONC s of Soldiers who Served in the American Army During the Rev
+4 CONC olutionary War; Record Group Title: War Department Collectio
+4 CONC n of Revolutionary War Records; Record Group Number: 93; Ser
+4 CONC ies Number: M881
+3 OBJE @M243@
 2 SOUR @tyjxElIZQj6Cm9hMYSKI@
 3 _APID 1,50015::499191
 3 OBJE @ypQygT4uTi6drpY0EYaD@
@@ -7568,6 +7576,21 @@
 2 TYPE military
 2 DATE ABT 1776
 2 NOTE US Revolutionary War
+1 EVEN
+2 TYPE military
+2 DATE 16 JUN 1778
+2 PLAC New Haven, New Haven, Connecticut, USA
+3 MAP
+4 LATI N41.3082
+4 LONG W72.9281
+2 SOUR @S114@
+3 _APID 1,1309::550729
+3 PAGE National Archives; Washington, D.C.; Compiled Service Record
+4 CONC s of Soldiers who Served in the American Army During the Rev
+4 CONC olutionary War; Record Group Title: War Department Collectio
+4 CONC n of Revolutionary War Records; Record Group Number: 93; Ser
+4 CONC ies Number: M881
+3 OBJE @M243@
 1 RESI
 2 DATE 1790
 2 PLAC Hamden, New Haven, Connecticut, USA
@@ -15238,6 +15261,13 @@
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2011
+0 @S114@ SOUR
+1 REPO @r9WtvxxKRUyWMPgdQFEr@
+1 TITL U.S. Compiled Revolutionary War Military Service Records, 17
+2 CONC 75-1783
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations Inc; Location: Provo, UT, USA; Date
+2 CONC : 2010
 0 @5ozhsQeWQoOif8ia881S@ SOUR
 1 REFN 190789d2-35e2-46f0-84f0-7e133b025269
 1 REPO @r9WtvxxKRUyWMPgdQFEr@
@@ -18190,4 +18220,16 @@
 2 FORM jpg
 2 TITL War of 1812 Pension Application Files Index, 1812-1815
 1 REFN 3f793303-5895-4bde-b9c2-38fced69716c
+0 @M243@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Flandreau Media
+2 CONC \U.S. Compiled Revolutionary War Military Service Records, 1
+2 CONC 775-1783.jpg
+2 FORM jpg
+2 TITL U.S. Compiled Revolutionary War Military Service Records, 17
+3 CONC 75-1783
+2 _TEXT National Archives; Washington, D.C.; Compiled Service Record
+3 CONC s of Soldiers who Served in the American Army During the Rev
+3 CONC olutionary War; Record Group Title: War Department Collectio
+3 CONC n of Revolutionary War Records; Record Group Number: 93; Ser
+3 CONC ies Number: M881
 0 TRLR
