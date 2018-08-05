@@ -13,9 +13,9 @@
 4 CONT Boston, MA 02109
 3 PHON (617) 227-6681
 1 DEST FTM
-1 FILE Lovejoy_2018-06-12-02-48-09.ftm.ged
-1 DATE 12 JUN 2018
-2 TIME 02:50:00
+1 FILE Lovejoy_2018-08-05-15-53-51.ftm.ged
+1 DATE 05 AUG 2018
+2 TIME 15:55:27
 0 @Umy2qBWIRUiwVSS6Hcn4@ SUBM
 1 NAME Christopher Alan Mosher
 2 EMAIL cmosher01@@gmail.com
@@ -1181,6 +1181,16 @@
 3 QUAY 1
 1 SEX M
 1 FAMS @xbW0rFLFSByxxR1CE4Ma@
+0 @I782@ INDI
+1 REFN ccad8a61-3a3e-4b11-a219-998f8fdb6c1f
+1 NAME William H. /Blakeslee/
+2 SOUR @S200@
+3 _APID 1,61632::1374326
+3 PAGE New York State Department of Health; Albany, NY, USA; New Yo
+4 CONC rk State Marriage Index
+3 OBJE @M173@
+1 SEX M
+1 FAMS @F641@
 0 @LLe2ZDQwQMqN42u12KHr@ INDI
 1 _XY 38147 2380
 1 REFN de19df24-adb8-429b-8380-6200d35faea9
@@ -11601,6 +11611,20 @@
 3 DATA
 4 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=62861
 5 CONC &pid=40
+2 SOUR @S200@
+3 _APID 1,61632::1374326
+3 PAGE New York State Department of Health; Albany, NY, USA; New Yo
+4 CONC rk State Marriage Index
+3 OBJE @M173@
+2 SOUR @S203@
+3 _APID 1,61377::1050367265
+3 PAGE affidavit for marriage license, Lewis Mosher and Pearl Colvi
+4 CONC n
+3 OBJE @M170@
+2 SOUR @S203@
+3 _APID 1,61377::1050142590
+3 PAGE marriage record, Lewis Mosher and Pearl Colvin
+3 OBJE @M171@
 2 SOUR @tlJqyESfRSisf2SXhpEx@
 3 _APID 1,7218::2594301
 3 OBJE @0p8ImJWvQMqzWwOxJWbT@
@@ -11610,9 +11634,12 @@
 2 SOUR @ob7JG7ZXRSWk7wo4smbw@
 3 _APID 1,3212::3148213
 3 OBJE @BqJ8m8jxSLqHmjYHdHF5@
+2 SOUR @S195@
+3 _APID 1,60901::761962739
 1 SEX F
 1 FAMC @ZRpayNe2TeqCIZYcDsM9@
 1 FAMS @NwRnT5fMTtuuhTr52CUK@
+1 FAMS @F641@
 1 OBJE @UJCIazlDS32ptayhGJzS@
 1 BIRT
 2 DATE MAR 1856
@@ -16970,6 +16997,15 @@
 1 _XY 20186 3120
 1 REFN fbe51297-e5b3-484c-b7c0-0b6e286bbb07
 1 NAME William D. /Mosher/
+2 SOUR @S203@
+3 _APID 1,61377::1050367265
+3 PAGE affidavit for marriage license, Lewis Mosher and Pearl Colvi
+4 CONC n
+3 OBJE @M170@
+2 SOUR @S203@
+3 _APID 1,61377::1050142590
+3 PAGE marriage record, Lewis Mosher and Pearl Colvin
+3 OBJE @M171@
 1 SEX M
 1 FAMS @NwRnT5fMTtuuhTr52CUK@
 1 BIRT
@@ -25089,6 +25125,20 @@
 1 REFN 366a317d-f121-45d5-a9ab-b4d02c692cfc
 1 HUSB @aMdoAa6CSbaFgbXD9Nx6@
 1 WIFE @oKEiGlwFSCaPiPPlIJl8@
+0 @F641@ FAM
+1 HUSB @I782@
+1 WIFE @gq9eX8EUTnaeRMbRnOwJ@
+1 MARR
+2 DATE 16 FEB 1893
+2 PLAC Madison, Madison, New York, USA
+3 MAP
+4 LATI N42.899
+4 LONG W75.5121
+2 SOUR @S200@
+3 _APID 1,61632::1374326
+3 PAGE New York State Department of Health; Albany, NY, USA; New Yo
+4 CONC rk State Marriage Index
+3 OBJE @M173@
 0 @p1Asj88GQK2cYD2AB9Yi@ FAM
 1 REFN 20cf0ead-b4f6-4158-ab5d-e008babd5439
 1 HUSB @GGCbYeJYSgqr60hpwFIy@
@@ -28770,6 +28820,12 @@
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations Inc; Location: Provo, UT, USA; Date
 2 CONC : 1999
+0 @S203@ SOUR
+1 REPO @QWXgFTgfSPiZXCbzq8Ij@
+1 TITL New York, County Marriage Records, 1847-1849, 1907-1936
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.; Location: Lehi, UT, USA; Date
+2 CONC : 2016
 0 @VDnOfXNyRqm5DPTs8pMb@ SOUR
 1 REFN bbb0725f-b9ad-47c5-940b-734ad931773b
 1 REPO @QWXgFTgfSPiZXCbzq8Ij@
@@ -33458,4 +33514,22 @@
 2 CONC ew York, State Census, 1855.jpg
 2 FORM jpg
 2 TITL New York, State Census, 1855
+0 @M170@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Lovejoy Media\N
+2 CONC ew York, County Marriage Records, 1847-1849, 1907-1936.jpg
+2 FORM jpg
+2 TITL New York, County Marriage Records, 1847-1849, 1907-1936
+0 @M171@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Lovejoy Media\N
+2 CONC ew York, County Marriage Records, 1847-1849, 1907-1936(1).jp
+2 CONC g
+2 FORM jpg
+2 TITL New York, County Marriage Records, 1847-1849, 1907-1936
+0 @M173@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Lovejoy Media\N
+2 CONC ew York State, Marriage Index, 1881-1967(4).jpg
+2 FORM jpg
+2 TITL New York State, Marriage Index, 1881-1967
+2 _TEXT New York State Department of Health; Albany, NY, USA; New Yo
+3 CONC rk State Marriage Index
 0 TRLR
