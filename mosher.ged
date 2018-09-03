@@ -13,9 +13,9 @@
 4 CONT Boston, MA 02109
 3 PHON (617) 227-6681
 1 DEST FTM
-1 FILE Mosher_2018-09-02-15-21-21.ftm.ged
-1 DATE 02 SEP 2018
-2 TIME 15:23:22
+1 FILE Mosher_2018-09-03-19-01-18.ftm.ged
+1 DATE 03 SEP 2018
+2 TIME 19:02:37
 0 @Umy2qBWIRUiwVSS6Hcn4@ SUBM
 1 NAME Christopher Alan Mosher
 2 EMAIL cmosher01@@gmail.com
@@ -830,6 +830,11 @@
 0 @8oFetMKAREqOvilaZyBs@ INDI
 1 REFN 82913665-4d17-4d97-baa0-805f09b5a738
 1 NAME Solomon /Chase/
+2 SOUR @S229@
+3 PAGE Year: 1840; Census Place: Nelson, Madison, New York; Page: 4
+4 CONC 6
+3 OBJE @M291@
+3 _APID 1,8057::1547104
 2 SOUR @S212@
 3 PAGE Year: 1850; Census Place: Nelson, Madison, New York; Roll: M
 4 CONC 432_527; Page: 308A; Image: 76
@@ -896,6 +901,17 @@
 3 _APID 1,8054::7046182
 2 SOUR @S241@
 3 _APID 1,60525::86446534
+1 RESI
+2 DATE 1840
+2 PLAC Nelson, Madison, New York, USA
+3 MAP
+4 LATI N42.9172
+4 LONG W75.7772
+2 SOUR @S229@
+3 PAGE Year: 1840; Census Place: Nelson, Madison, New York; Page: 4
+4 CONC 6
+3 OBJE @M291@
+3 _APID 1,8057::1547104
 1 PROB
 2 DATE 29 JAN 1849
 2 PLAC Madison, New York, USA
@@ -1889,7 +1905,7 @@
 2 SOUR @S220@
 3 OBJE @9lAeJOLZQlW69WuF3Wnt@
 3 _APID 1,3212::3130650
-2 SOUR @L71JgZ40RRuE3dQ2uhTN@
+2 SOUR @S242@
 3 PAGE New York State Archives; Albany, New York; State Populatio
 4 CONC n Census Schedules, 1905; Election District: E.D. 05; City
 4 CONC : Hamilton; County: Madison
@@ -1963,7 +1979,7 @@
 2 SOUR @S220@
 3 OBJE @9lAeJOLZQlW69WuF3Wnt@
 3 _APID 1,3212::3130650
-2 SOUR @L71JgZ40RRuE3dQ2uhTN@
+2 SOUR @S242@
 3 PAGE New York State Archives; Albany, New York; State Populatio
 4 CONC n Census Schedules, 1905; Election District: E.D. 05; City
 4 CONC : Hamilton; County: Madison
@@ -2083,7 +2099,7 @@
 3 MAP
 4 LATI N42.827
 4 LONG W75.5446
-2 SOUR @L71JgZ40RRuE3dQ2uhTN@
+2 SOUR @S242@
 3 PAGE New York State Archives; Albany, New York; State Populatio
 4 CONC n Census Schedules, 1905; Election District: E.D. 05; City
 4 CONC : Hamilton; County: Madison
@@ -3492,6 +3508,27 @@
 4 CONC 432_527; Page: 308A; Image: 76
 3 OBJE @M272@
 3 _APID 1,8054::7046183
+1 PROP sold land
+2 DATE 01 APR 1851
+2 PLAC Nelson, Madison, New York, USA
+3 MAP
+4 LATI N42.9172
+4 LONG W75.7772
+2 SOUR @K3K8R2iUQJy4cl787i9L@
+3 PAGE <bibl> <author>County of Madison (New York, USA)</author>, <
+4 CONC title level="u">Land Records</title>, <citedRange>BQ: 384–5
+4 CONC , deed, Solomon Chase and wife Angeline to Morris Jones, rec
+4 CONC orded 13 Aug 1857</citedRange>; digital images, <title level
+4 CONC ="m">FamilySearch</title> (https://www.familysearch.org/ark:
+4 CONC /61903/3:1:3QSQ-G9W7-6XM8 : 2 Sep 2018), <title level="u">De
+4 CONC eds [Madison County, New York] v. BP–BQ 1850–1</title>, FH
+4 CONC L microfilm 404,324, DGS 7120109, images 478–9 of 564. </bib
+4 CONC l>
+3 QUAY 4
+3 DATA
+4 TEXT 1 Apr 1851, 50 acres in lots 60 and 61 in Nelson
+5 CONT
+3 _LINK https://www.familysearch.org/ark:/61903/3:1:3QSQ-G9W7-6XM8
 1 RESI
 2 DATE 1855
 2 PLAC Hamilton, Madison, New York, USA
@@ -3519,6 +3556,19 @@
 3 MAP
 4 LATI N42.827
 4 LONG W75.5446
+2 SOUR @K3K8R2iUQJy4cl787i9L@
+3 PAGE <bibl> <author>County of Madison (New York, USA)</author>, <
+4 CONC title level="u">Land Records</title>, <citedRange>127: 170
+4 CONC , deed, Angeline Mosher to Gideon Luther, recorded 4 Jun 187
+4 CONC 2</citedRange>; digital images, <title level="m">FamilySearc
+4 CONC h</title> (https://www.familysearch.org/ark:/61903/3:1:3QS7-
+4 CONC 99WQ-5HXT : 2 Sep 2018), <title level="u">Deeds [Madison Cou
+4 CONC nty, New York] v. 127 1872–3</title>, FHL microfilm 404,362
+4 CONC , DGS 7120288, image 123 of 320. </bibl>
+3 DATA
+4 TEXT 7 Oct 1857, 13 acres, SE ¼ of lot 19 in Hamilton
+5 CONT
+3 _LINK (https://www.familysearch.org/ark:/61903/3:1:3QS7-99WQ-5HXT
 2 SOUR @K3K8R2iUQJy4cl787i9L@
 3 PAGE v. 127, p. 170
 3 QUAY 3
@@ -3560,6 +3610,104 @@
 3 MAP
 4 LATI N42.9118
 4 LONG W75.6682
+2 SOUR @K3K8R2iUQJy4cl787i9L@
+3 PAGE <bibl> <author>County of Madison (New York, USA)</author>, <
+4 CONC title level="u">Land Records</title>, <citedRange>122: 297–8
+4 CONC , will, Angeline Mosher, recorded 29 May 1871</citedRange>
+4 CONC ; digital images, <title level="m">FamilySearch</title> (htt
+4 CONC ps://www.familysearch.org/ark:/61903/3:1:3QS7-89W7-8SG
+4 CONC Y : 2 Sep 2018), <title level="u">Deeds [Madison County, Ne
+4 CONC w York] v. 121–1 1870–1</title>, FHL microfilm 404,357, DG
+4 CONC S 7120283, images 494–5 of 627. </bibl>
+3 QUAY 4
+3 DATA
+4 TEXT <text xml:lang="en">
+5 CONT <body>
+5 CONT <lb/>In Surrogate’s Court }
+5 CONT <lb/>Madison County } ss.
+5 CONT <p>
+5 CONT <lb/>I certify that the annexed Will has this
+5 CONT <lb/>day been duly proved and admitted to Probate before
+5 CONT <lb/>me as the Last Will &amp; testament of Angeline Mosher
+5 CONT <lb/>deceased In Witness Whereof I have hereunto set
+5 CONT <lb/>my hand &amp; affixed the Seal of the Surrogate’s Court
+5 CONT <lb/>of said County this
+5 CONT <date when="1871-03-27">27” day of March 1871</date> Chas. L
+5 CONC .
+5 CONT <lb/>Kennedy Co. Judge &amp; Surrogate s.s. $.05 Ind. Rev.
+5 CONT <lb/>Stamp con.
+5 CONT </p>
+5 CONT <p>
+5 CONT <lb/>In the name of God Amen: I, Angeline Mosher
+5 CONT <lb/>of the Town of Hamilton in the County of Madison and
+5 CONT <lb/>State of Newyork of the age of sixty‐two years, &amp; b
+5 CONC eing of
+5 CONT <lb/>sound mind &amp; memory do make, publish, &amp; declare
+5 CONT <lb/>this my last Will &amp; Testament in manner following;
+5 CONT <lb/>That is to say;
+5 CONT </p>
+5 CONT <p>
+5 CONT First I give &amp; bequeath to Mary Welch
+5 CONT <lb/>wife of John Welch one piece of Cotton Sheeting of
+5 CONT <pb n="298"/><fw type="pageNum" place="top left margin">298<
+5 CONC /fw>
+5 CONT <lb/>forty yards, Six Cups and Saucers, Six plates and
+5 CONT <lb/>eighteen yards of good calico. The above named
+5 CONT <lb/>articles to be procured by my executors &amp; delivered
+5 CONT <lb/>to the said Mary in one year after my decease.
+5 CONT </p>
+5 CONT <p>
+5 CONT <lb/>Second: I hereby order and declare &amp; my will is tha
+5 CONC t
+5 CONT <lb/>my brother George W. Luther shall have a home with my
+5 CONT <lb/>husband after my decease provided he will not again
+5 CONT <lb/>live with his wife or marry or live with another woman.
+5 CONT </p>
+5 CONT <p>
+5 CONT <lb/>Third: I give bequeath &amp; devise to my beloved husba
+5 CONC nd
+5 CONT <lb/>William G. Mosher all my real Estate situate in the
+5 CONT <lb/>Town of Hamilton the same to be his forever. And i
+5 CONT <lb/>also give &amp; bequeath to the said William G. Moshe
+5 CONC r all
+5 CONT <lb/>the rest residue &amp; remainder of my personal propert
+5 CONC y of
+5 CONT <lb/>whatsoever name or nature after paying all just debts
+5 CONT <lb/>and funeral Charges &amp; place a suitable head‐stone a
+5 CONC t
+5 CONT <lb/>the head of my grave.
+5 CONT </p>
+5 CONT <p>
+5 CONT <lb/>Fourth: I hereby appoint my husband William G.
+5 CONT <lb/>Mosher &amp; Uri N. Rhoades Executors of the my last Wi
+5 CONC ll
+5 CONT <lb/>&amp; Testament hereby revoking all former Wills by
+5 CONT <lb/>me made.
+5 CONT </p>
+5 CONT <p>
+5 CONT In Witness Whereof I have here unto
+5 CONT <lb/>set my hand and seal this <date when="1870-04-21">21” d
+5 CONC ay of April in
+5 CONT <lb/>the Year of our Lord one‐thousand eight hundred
+5 CONT <lb/>&amp; seventy</date> Anga Lina Mosher S.S. The above in
+5 CONC strument
+5 CONT <lb/>was at the date thereof singed sealed published
+5 CONT <lb/>&amp; declared by the said Angalina Mosher as &amp; fo
+5 CONC r her
+5 CONT <lb/>last Will &amp; Testament in presence of us who at
+5 CONT <lb/>her request &amp; <add place="above">in</add>
+5 CONT her presence &amp; in the presence of each
+5 CONT <lb/>other have subscribed our names as witnesses thereto
+5 CONT <lb/>Uri N. Rhoades Hubbarbsville Madison Co. N. Y.
+5 CONT <lb/>Henry V. N. Dimmick Hubbardsville Madison Co. N.Y.
+5 CONT </p>
+5 CONT Recorded <date when="1871-05-29">May 29”, 1871</date>, 2 P
+5 CONC . M.
+5 CONT A. D. Kennedy Clerk
+5 CONT </body>
+5 CONT </text>
+5 CONT
+3 _LINK https://www.familysearch.org/ark:/61903/3:1:3QS7-89W7-8SGY
 2 SOUR @S205@
 3 PAGE <bibl> <author>Madison County Surrogate’s Court (New York, U
 4 CONC SA)</author>, <title level="u">Will books</title>, <citedRan
@@ -3567,9 +3715,87 @@
 4 CONC itedRange>; digital images, <title level="m">FamilySearch</t
 4 CONC itle> (https://www.familysearch.org/ark:/61903/3:1:33SQ-GYHT
 4 CONC -PMJ : 29 Apr 2018), <title level="u">Wills, v. N–O, 1870–3<
-4 CONC /title>, FHL microfilm 408,512, DGS 5113977, images 142–14
-4 CONC 5 of 553. </bibl>
+4 CONC /title>, FHL microfilm 408,512, DGS 5113977, images 142–5 o
+4 CONC f 553. </bibl>
 3 QUAY 4
+3 DATA
+4 TEXT <text xml:lang="en">
+5 CONT <body>
+5 CONT <p>
+5 CONT <lb/>In the name of God, amen: I, Angelina Mosher
+5 CONT <lb/>of the town of Hamilton in the County of Madison and
+5 CONT <lb/>State of New York of the age of sixty‐two years, &amp
+5 CONC ; being of
+5 CONT <lb/>sound mind and memory, do make, publish and
+5 CONT <lb/>declare this my last Will and testament in manner
+5 CONT <lb/>following, that is to say:
+5 CONT </p>
+5 CONT <p>
+5 CONT <lb><hi rend="underline">First</hi>.
+5 CONT I give and bequeath to Mary Welch wife of
+5 CONT <lb/>John Welch, one piece of cotton sheeting of forty yards
+5 CONC , six cups
+5 CONT <lb/>and saucers, six plates and eighteen yards of good cali
+5 CONC co. The
+5 CONT <lb/>above named articles to be procured by my executors and
+5 CONT <lb/>delivered to the said Mary in one year after my decease
+5 CONC .
+5 CONT </p>
+5 CONT <p>
+5 CONT <lb><hi rend="underline">Second</hi>.
+5 CONT I hereby order and <add place="above">and</add> <del>direct<
+5 CONC /del>
+5 CONT declare &amp; my will
+5 CONT <lb/>is that my brother, George W. Luther shall have a hom
+5 CONC e with
+5 CONT <lb/>my husband after my decease provided he will not again
+5 CONT <lb/>live with his wife or marry or live with another woman.
+5 CONT </p>
+5 CONT <p>
+5 CONT <lb><hi rend="underline">Third</hi>.
+5 CONT I give, bequeath &amp; devise to my beloved husband
+5 CONT <lb/>William G. Mosher all my real estate, situate in the to
+5 CONC wn of
+5 CONT <lb/>Hamilton, the same to be his forever. And i also give a
+5 CONC nd
+5 CONT <lb/>bequeath to the said William G. Mosher all the rest, re
+5 CONC sidue
+5 CONT <lb/>&amp; remainder of my personal property of whatsoever n
+5 CONC ame or nature
+5 CONT <lb/>after paying all just debts &amp; funeral charges &amp
+5 CONC ; place a suitable
+5 CONT <lb/>head stone at the head of my grave.
+5 CONT </p>
+5 CONT <p>
+5 CONT <lb><hi rend="underline">Fourth</hi>.
+5 CONT I hereby appoint my husband William G.
+5 CONT <lb/>Mosher and Uri N. Rhoades Executors of the my last Will
+5 CONT <lb/>and testament hereby revoking all former wills by me ma
+5 CONC de.
+5 CONT </p>
+5 CONT <p>
+5 CONT In witness whereof I have hereunto set my hand and
+5 CONT <lb/>seal this <date when="1870-04-21">twenty first day of A
+5 CONC pril in
+5 CONT the Year of our Lord
+5 CONT <lb/>one thousand eight hundred and seventy</date>.
+5 CONT Angalina Mosher (S.S.)
+5 CONT </p>
+5 CONT <p>
+5 CONT <lb/>The above instrument was at the date thereof, singed
+5 CONT <lb/>sealed, published &amp; declared by the said Angalina M
+5 CONC osher
+5 CONT <lb/>as &amp; for her last will &amp; testament in presenc
+5 CONC e of us, who at her
+5 CONT <lb/>request &amp; in her presence &amp; in the presence o
+5 CONC f each other have
+5 CONT <lb/>subscribed our names as witnesses thereto.
+5 CONT <lb/>Uri N. Rhoades Hubbarbsville Madison Co. N. Y.
+5 CONT <lb/>Henry V. Dimmick Hubbardsville Madison Co. N.Y.
+5 CONT </p>
+5 CONT </body>
+5 CONT </text>
+5 CONT
 3 _LINK https://www.familysearch.org/ark:/61903/3:1:33SQ-GYHT-PMJ
 1 CENS
 2 DATE 01 JUN 1870
@@ -11814,6 +12040,12 @@
 2 SOUR @S220@
 3 OBJE @M258@
 3 _APID 1,3212::3130105
+2 SOUR @S242@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1905; Election District: E.D. 02; City
+4 CONC : Binghamton Ward 12; County: Broome; Page: 30
+3 OBJE @M290@
+3 _APID 1,7364::1772717
 1 SEX M
 1 FAMC @v943d0vRQDS58l9ZqvAY@
 1 BIRT
@@ -11861,6 +12093,12 @@
 2 SOUR @S220@
 3 OBJE @M258@
 3 _APID 1,3212::3130105
+2 SOUR @S242@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1905; Election District: E.D. 02; City
+4 CONC : Binghamton Ward 12; County: Broome; Page: 30
+3 OBJE @M290@
+3 _APID 1,7364::1772717
 2 NOTE place from NY Census, 1875 (1900 census gives PA)
 1 RESI
 2 DATE 1850
@@ -11971,6 +12209,16 @@
 3 OBJE @M252@
 3 _APID 1,7602::55838250
 2 NOTE Marital Status: Single; Relation to Head: Brother in Law
+1 RESI
+2 DATE 1905
+2 PLAC Binghamton State Hospital, Binghamton, Broome, New York, USA
+2 SOUR @S242@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1905; Election District: E.D. 02; City
+4 CONC : Binghamton Ward 12; County: Broome; Page: 30
+3 OBJE @M290@
+3 _APID 1,7364::1772717
+2 NOTE Relationship to Head: Inmate
 1 DEAT
 2 DATE 12 MAY 1910
 2 PLAC Hamilton, Madison, New York, USA
@@ -11990,6 +12238,7 @@
 2 DATE ABT 16 MAY 1910
 2 PLAC Hamilton Center Cemetery, Hamilton Center, Madison, NYew Yor
 3 CONC k USA
+2 SOUR @rRk1DHyqTYCh37E1vcAF@
 2 SOUR @aQT10y96TvOBxKZ4egX2@
 1 _XY 6319 1691
 0 @jNlqguYGTcaDrU27A6q4@ INDI
@@ -12732,7 +12981,7 @@
 2 SOUR @S220@
 3 OBJE @9lAeJOLZQlW69WuF3Wnt@
 3 _APID 1,3212::3130651
-2 SOUR @L71JgZ40RRuE3dQ2uhTN@
+2 SOUR @S242@
 3 PAGE New York State Archives; Albany, New York; State Populatio
 4 CONC n Census Schedules, 1905; Election District: E.D. 05; City
 4 CONC : Hamilton; County: Madison
@@ -12798,7 +13047,7 @@
 2 SOUR @S220@
 3 OBJE @9lAeJOLZQlW69WuF3Wnt@
 3 _APID 1,3212::3130651
-2 SOUR @L71JgZ40RRuE3dQ2uhTN@
+2 SOUR @S242@
 3 PAGE New York State Archives; Albany, New York; State Populatio
 4 CONC n Census Schedules, 1905; Election District: E.D. 05; City
 4 CONC : Hamilton; County: Madison
@@ -12910,7 +13159,7 @@
 3 MAP
 4 LATI N42.827
 4 LONG W75.5446
-2 SOUR @L71JgZ40RRuE3dQ2uhTN@
+2 SOUR @S242@
 3 PAGE New York State Archives; Albany, New York; State Populatio
 4 CONC n Census Schedules, 1905; Election District: E.D. 05; City
 4 CONC : Hamilton; County: Madison
@@ -13323,7 +13572,7 @@
 2 SOUR @S220@
 3 OBJE @eM2uyuUHSLyJIutzAPx7@
 3 _APID 1,3212::3148216
-2 SOUR @L71JgZ40RRuE3dQ2uhTN@
+2 SOUR @S242@
 3 PAGE New York State Archives; Albany, New York; State Populatio
 4 CONC n Census Schedules, 1905; Election District: E.D. 01; City
 4 CONC : Madison; County: Madison; Page: 5
@@ -13412,7 +13661,7 @@
 2 SOUR @S220@
 3 OBJE @eM2uyuUHSLyJIutzAPx7@
 3 _APID 1,3212::3148216
-2 SOUR @L71JgZ40RRuE3dQ2uhTN@
+2 SOUR @S242@
 3 PAGE New York State Archives; Albany, New York; State Populatio
 4 CONC n Census Schedules, 1905; Election District: E.D. 01; City
 4 CONC : Madison; County: Madison; Page: 5
@@ -13533,7 +13782,7 @@
 3 MAP
 4 LATI N42.899
 4 LONG W75.5121
-2 SOUR @L71JgZ40RRuE3dQ2uhTN@
+2 SOUR @S242@
 3 PAGE New York State Archives; Albany, New York; State Populatio
 4 CONC n Census Schedules, 1905; Election District: E.D. 01; City
 4 CONC : Madison; County: Madison; Page: 5
@@ -13942,7 +14191,7 @@
 2 SOUR @S220@
 3 OBJE @eM2uyuUHSLyJIutzAPx7@
 3 _APID 1,3212::3148215
-2 SOUR @L71JgZ40RRuE3dQ2uhTN@
+2 SOUR @S242@
 3 PAGE New York State Archives; Albany, New York; State Populatio
 4 CONC n Census Schedules, 1905; Election District: E.D. 01; City
 4 CONC : Madison; County: Madison; Page: 5
@@ -14021,7 +14270,7 @@
 2 SOUR @S220@
 3 OBJE @eM2uyuUHSLyJIutzAPx7@
 3 _APID 1,3212::3148215
-2 SOUR @L71JgZ40RRuE3dQ2uhTN@
+2 SOUR @S242@
 3 PAGE New York State Archives; Albany, New York; State Populatio
 4 CONC n Census Schedules, 1905; Election District: E.D. 01; City
 4 CONC : Madison; County: Madison; Page: 5
@@ -14077,7 +14326,7 @@
 3 MAP
 4 LATI N42.899
 4 LONG W75.5121
-2 SOUR @L71JgZ40RRuE3dQ2uhTN@
+2 SOUR @S242@
 3 PAGE New York State Archives; Albany, New York; State Populatio
 4 CONC n Census Schedules, 1905; Election District: E.D. 01; City
 4 CONC : Madison; County: Madison; Page: 5
@@ -17119,7 +17368,7 @@
 2 SOUR @7c8PO7CnR1qikgvyU4fE@
 3 PAGE Date: 1971-08-09
 3 _APID 1,5180::12210175
-2 SOUR @L71JgZ40RRuE3dQ2uhTN@
+2 SOUR @S242@
 3 PAGE New York State Archives; Albany, New York; State Populatio
 4 CONC n Census Schedules, 1905; Election District: E.D. 01; City
 4 CONC : Madison; County: Madison; Page: 5
@@ -17198,7 +17447,7 @@
 2 SOUR @7c8PO7CnR1qikgvyU4fE@
 3 PAGE Date: 1971-08-09
 3 _APID 1,5180::12210175
-2 SOUR @L71JgZ40RRuE3dQ2uhTN@
+2 SOUR @S242@
 3 PAGE New York State Archives; Albany, New York; State Populatio
 4 CONC n Census Schedules, 1905; Election District: E.D. 01; City
 4 CONC : Madison; County: Madison; Page: 5
@@ -17253,7 +17502,7 @@
 3 MAP
 4 LATI N42.899
 4 LONG W75.5121
-2 SOUR @L71JgZ40RRuE3dQ2uhTN@
+2 SOUR @S242@
 3 PAGE New York State Archives; Albany, New York; State Populatio
 4 CONC n Census Schedules, 1905; Election District: E.D. 01; City
 4 CONC : Madison; County: Madison; Page: 5
@@ -19008,7 +19257,7 @@
 2 SOUR @S220@
 3 OBJE @M238@
 3 _APID 1,3212::3566618
-2 SOUR @L71JgZ40RRuE3dQ2uhTN@
+2 SOUR @S242@
 3 PAGE New York State Archives; Albany, New York; State Populatio
 4 CONC n Census Schedules, 1905; Election District: E.D. 02; City
 4 CONC : Nanticoke; County: Broome; Page: 6
@@ -19075,7 +19324,7 @@
 2 SOUR @S220@
 3 OBJE @M238@
 3 _APID 1,3212::3566618
-2 SOUR @L71JgZ40RRuE3dQ2uhTN@
+2 SOUR @S242@
 3 PAGE New York State Archives; Albany, New York; State Populatio
 4 CONC n Census Schedules, 1905; Election District: E.D. 02; City
 4 CONC : Nanticoke; County: Broome; Page: 6
@@ -19133,7 +19382,7 @@
 3 MAP
 4 LATI N42.2747
 4 LONG W76.0544
-2 SOUR @L71JgZ40RRuE3dQ2uhTN@
+2 SOUR @S242@
 3 PAGE New York State Archives; Albany, New York; State Populatio
 4 CONC n Census Schedules, 1905; Election District: E.D. 02; City
 4 CONC : Nanticoke; County: Broome; Page: 6
@@ -19230,7 +19479,7 @@
 2 SOUR @S220@
 3 OBJE @M238@
 3 _APID 1,3212::3566619
-2 SOUR @L71JgZ40RRuE3dQ2uhTN@
+2 SOUR @S242@
 3 PAGE New York State Archives; Albany, New York; State Populatio
 4 CONC n Census Schedules, 1905; Election District: E.D. 01; City
 4 CONC : Lisle; County: Broome; Page: 1
@@ -19269,7 +19518,7 @@
 2 SOUR @S220@
 3 OBJE @M238@
 3 _APID 1,3212::3566619
-2 SOUR @L71JgZ40RRuE3dQ2uhTN@
+2 SOUR @S242@
 3 PAGE New York State Archives; Albany, New York; State Populatio
 4 CONC n Census Schedules, 1905; Election District: E.D. 01; City
 4 CONC : Lisle; County: Broome; Page: 1
@@ -19320,7 +19569,7 @@
 3 MAP
 4 LATI N42.3512
 4 LONG W76.0033
-2 SOUR @L71JgZ40RRuE3dQ2uhTN@
+2 SOUR @S242@
 3 PAGE New York State Archives; Albany, New York; State Populatio
 4 CONC n Census Schedules, 1905; Election District: E.D. 01; City
 4 CONC : Lisle; County: Broome; Page: 1
@@ -20120,7 +20369,7 @@
 3 PAGE New York, State Census, 1892 Record
 3 OBJE @M220@
 3 _APID 1,3212::3577633
-2 SOUR @L71JgZ40RRuE3dQ2uhTN@
+2 SOUR @S242@
 3 PAGE New York State Archives; Albany, New York; State Populatio
 4 CONC n Census Schedules, 1905; Election District: E.D. 02; City
 4 CONC : Union; County: Broome; Page: 3
@@ -20185,7 +20434,7 @@
 3 PAGE New York, State Census, 1892 Record
 3 OBJE @M220@
 3 _APID 1,3212::3577633
-2 SOUR @L71JgZ40RRuE3dQ2uhTN@
+2 SOUR @S242@
 3 PAGE New York State Archives; Albany, New York; State Populatio
 4 CONC n Census Schedules, 1905; Election District: E.D. 02; City
 4 CONC : Union; County: Broome; Page: 3
@@ -20233,7 +20482,7 @@
 3 MAP
 4 LATI N42.1267
 4 LONG W76.033
-2 SOUR @L71JgZ40RRuE3dQ2uhTN@
+2 SOUR @S242@
 3 PAGE New York State Archives; Albany, New York; State Populatio
 4 CONC n Census Schedules, 1905; Election District: E.D. 02; City
 4 CONC : Union; County: Broome; Page: 3
@@ -20564,7 +20813,7 @@
 2 SOUR @S220@
 3 OBJE @M258@
 3 _APID 1,3212::3130107
-2 SOUR @L71JgZ40RRuE3dQ2uhTN@
+2 SOUR @S242@
 3 PAGE New York State Archives; Albany, New York; State Populatio
 4 CONC n Census Schedules, 1905; Election District: E.D. 04; City
 4 CONC : Hamilton; County: Madison; Page: 7
@@ -20612,7 +20861,7 @@
 2 SOUR @S220@
 3 OBJE @M258@
 3 _APID 1,3212::3130107
-2 SOUR @L71JgZ40RRuE3dQ2uhTN@
+2 SOUR @S242@
 3 PAGE New York State Archives; Albany, New York; State Populatio
 4 CONC n Census Schedules, 1905; Election District: E.D. 04; City
 4 CONC : Hamilton; County: Madison; Page: 7
@@ -20678,7 +20927,7 @@
 3 MAP
 4 LATI N42.827
 4 LONG W75.5446
-2 SOUR @L71JgZ40RRuE3dQ2uhTN@
+2 SOUR @S242@
 3 PAGE New York State Archives; Albany, New York; State Populatio
 4 CONC n Census Schedules, 1905; Election District: E.D. 04; City
 4 CONC : Hamilton; County: Madison; Page: 7
@@ -21101,7 +21350,7 @@
 3 _APID 1,7163::28980210
 2 NOTE Residence Post Office: Hamilton
 0 @I431@ INDI
-1 NAME Williard /Welch/
+1 NAME William A. /Welch/
 2 SOUR @S231@
 3 PAGE Year: 1870; Census Place: Hamilton, Madison, New York; Roll
 4 CONC : M593_967; Page: 244A; Family History Library Film: 552466
@@ -25300,8 +25549,7 @@
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2012
-0 @L71JgZ40RRuE3dQ2uhTN@ SOUR
-1 REFN fee0dc81-a7e2-4ed3-be42-73acd803bdf5
+0 @S242@ SOUR
 1 REPO @qoiFARVHSJOlOdzOUsT9@
 1 TITL New York, State Census, 1905
 1 AUTH Ancestry.com
@@ -29514,6 +29762,21 @@
 2 TITL 1870 United States Federal Census
 2 _TEXT Year: 1870; Census Place: Hamilton, Madison, New York; Roll
 3 CONC : M593_967; Page: 244A; Family History Library Film: 552466
+0 @M290@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher Media\Ne
+2 CONC w York, State Census, 1905(4).jpg
+2 FORM jpg
+2 TITL New York, State Census, 1905
+2 _TEXT New York State Archives; Albany, New York; State Populatio
+3 CONC n Census Schedules, 1905; Election District: E.D. 02; City
+3 CONC : Binghamton Ward 12; County: Broome; Page: 30
+0 @M291@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher Media\18
+2 CONC 40 United States Federal Census(1).jpg
+2 FORM jpg
+2 TITL 1840 United States Federal Census
+2 _TEXT Year: 1840; Census Place: Nelson, Madison, New York; Page: 4
+3 CONC 6
 0 @N353@ NOTE __GEDCOM__: DATE ABT 1612 __GEDCOM__
 0 @N381@ NOTE __GEDCOM__: DATE ABT 1658 __GEDCOM__
 0 @N380@ NOTE __GEDCOM__: DATE ABT DEC 1596 __GEDCOM__
