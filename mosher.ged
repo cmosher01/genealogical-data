@@ -13,9 +13,9 @@
 4 CONT Boston, MA 02109
 3 PHON (617) 227-6681
 1 DEST FTM
-1 FILE Mosher_2018-09-03-20-22-20.ftm.ged
+1 FILE Mosher_2018-09-03-21-12-57.ftm.ged
 1 DATE 03 SEP 2018
-2 TIME 20:24:25
+2 TIME 21:14:15
 0 @Umy2qBWIRUiwVSS6Hcn4@ SUBM
 1 NAME Christopher Alan Mosher
 2 EMAIL cmosher01@@gmail.com
@@ -3547,8 +3547,20 @@
 4 LATI N42.827
 4 LONG W75.5446
 2 SOUR @K3K8R2iUQJy4cl787i9L@
-3 PAGE v. CG, p. 41
-3 QUAY 3
+3 PAGE <bibl> <author>County of Madison (New York, USA)</author>, <
+4 CONC title level="u">Land Records</title>, <citedRange>CG: 41–2
+4 CONC , deed, Henry V. N. Dimmick and Clarissa to Angelina Mosher
+4 CONC , recorded 23 Oct 1856</citedRange>; digital images, <titl
+4 CONC e level="m">FamilySearch</title> (<ref target="https://www.f
+4 CONC amilysearch.org/ark:/61903/3:1:3QS7-89WQ-K7JT"/> : 2 Sep 201
+4 CONC 8), <title level="u">Deeds [Madison County, New York] v. CG–
+4 CONC CH 1856–7</title>, FHL microfilm 404,332, DGS 7120117, imag
+4 CONC e 52–3 of 579. </bibl>
+3 QUAY 4
+3 DATA
+4 TEXT 1 Oct 1856, 25 acres in lot 14 in Hamilton
+5 CONT
+3 _LINK https://www.familysearch.org/ark:/61903/3:1:3QS7-89WQ-K7JT
 1 EVEN
 2 TYPE sold land
 2 DATE 07 OCT 1857
@@ -4126,6 +4138,7 @@
 1 SEX M
 1 FAMC @tP1xpbKWR0Wcxp8WtEkn@
 1 FAMC @F342@
+1 FAMS @F353@
 1 FAMS @4fEj1loNQzm4vggAJGrK@
 1 OBJE @ByuKzWg8QrK6AdztGDS8@
 1 BIRT
@@ -5302,6 +5315,32 @@
 3 CONC 5 census. Place is assumed.
 1 _XY 6949 1442
 1 _XY 8472 1535
+0 @I433@ INDI
+1 NAME Mahala //
+2 SOUR @S217@
+3 PAGE 1880 United States Federal Census Record
+3 OBJE @M292@
+1 SEX F
+1 FAMS @F353@
+1 BIRT
+2 DATE ABT 1840
+2 PLAC Pennsylvania, USA
+3 MAP
+4 LATI N40.8583
+4 LONG W76.3834
+2 SOUR @S217@
+3 PAGE 1880 United States Federal Census Record
+3 OBJE @M292@
+1 RESI
+2 DATE 1880
+2 PLAC Chatham, Tioga, Pennsylvania, USA
+3 MAP
+4 LATI N39.8531
+4 LONG W75.8207
+2 SOUR @S217@
+3 PAGE 1880 United States Federal Census Record
+3 OBJE @M292@
+2 NOTE Marital Status: Married; Relation to Head: Wife
 0 @I379@ INDI
 1 REFN 331b7a24-4612-45bd-8a6e-b350736c98e8
 1 NAME Margaret //
@@ -16268,18 +16307,6 @@
 3 OBJE @j6tAg5qFQLS9qk5u33cf@
 3 _APID 1,7163::23890272
 2 NOTE Age: 63
-1 EVEN
-2 TYPE inherited land
-2 DATE 29 MAY 1871
-2 PLAC Hamilton, Madison, New York, USA
-3 MAP
-4 LATI N42.827
-4 LONG W75.5446
-2 SOUR @K3K8R2iUQJy4cl787i9L@
-3 PAGE b. 122, p. 297
-3 QUAY 3
-2 NOTE From wife Angelina and her brother George W. Luther (by wil
-3 CONC l of Angelina), provided William doesn't remarry.
 1 RESI
 2 DATE 01 JUN 1875
 2 PLAC Hamilton, Madison, New York, USA
@@ -16411,8 +16438,20 @@
 4 LATI N42.827
 4 LONG W75.5446
 2 SOUR @K3K8R2iUQJy4cl787i9L@
-3 PAGE b. 155, p. 416
-3 QUAY 3
+3 PAGE <bibl> <author>County of Madison (New York, USA)</author>, <
+4 CONC title level="u">Land Records</title>, <citedRange>155: 416
+4 CONC , deed, William G. Mosher to George G. Peckham, recorded 2
+4 CONC 4 Mar 1883</citedRange>; digital images, <title level="m">Fa
+4 CONC milySearch</title> (<ref target="https://www.familysearch.or
+4 CONC g/ark:/61903/3:1:3QS7-99WQ-5CMR"/> : 2 Sep 2018), <title lev
+4 CONC el="u">Deeds [Madison County, New York] v. 155 1882–3</title
+4 CONC >, FHL microfilm 404,381, DGS 7120521, image 238 of 311. </b
+4 CONC ibl>
+3 QUAY 4
+3 DATA
+4 TEXT 23 Dec 1882, 8 acres in lot 14 in Hamilton
+5 CONT
+3 _LINK https://www.familysearch.org/ark:/61903/3:1:3QS7-99WQ-5CMR
 1 CENS
 2 DATE 16 FEB 1892
 2 PLAC Hamilton, Madison, New York, USA
@@ -22873,6 +22912,15 @@
 1 CHIL @lDPY1mstQa6QDUPVooIU@
 1 CHIL @kwuhDlJpQO6upaMNPd9K@
 1 CHIL @JVtRPEDrQLihRqN39zWE@
+0 @F353@ FAM
+1 HUSB @OtsSJclTQgGLTZoCj6om@
+1 WIFE @I433@
+1 MARR
+2 DATE ABT 1875
+2 PLAC Tioga, Pennsylvania, USA
+3 MAP
+4 LATI N41.7738
+4 LONG W77.2538
 0 @4fEj1loNQzm4vggAJGrK@ FAM
 1 REFN 985a3090-d22f-4cf8-a86b-54fd6899f43f
 1 HUSB @OtsSJclTQgGLTZoCj6om@
@@ -29832,6 +29880,12 @@
 2 TITL 1840 United States Federal Census
 2 _TEXT Year: 1840; Census Place: Nelson, Madison, New York; Page: 4
 3 CONC 6
+0 @M292@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher Media\18
+2 CONC 80 United States Federal Census(2).jpg
+2 FORM jpg
+2 TITL 1880 United States Federal Census
+2 _TEXT 1880 United States Federal Census Record
 0 @N353@ NOTE __GEDCOM__: DATE ABT 1612 __GEDCOM__
 0 @N381@ NOTE __GEDCOM__: DATE ABT 1658 __GEDCOM__
 0 @N380@ NOTE __GEDCOM__: DATE ABT DEC 1596 __GEDCOM__
