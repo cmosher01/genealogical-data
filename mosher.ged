@@ -13,9 +13,9 @@
 4 CONT Boston, MA 02109
 3 PHON (617) 227-6681
 1 DEST FTM
-1 FILE Mosher_2018-09-03-21-12-57.ftm.ged
-1 DATE 03 SEP 2018
-2 TIME 21:14:15
+1 FILE Mosher_2018-09-04-01-09-15.ftm.ged
+1 DATE 04 SEP 2018
+2 TIME 01:10:44
 0 @Umy2qBWIRUiwVSS6Hcn4@ SUBM
 1 NAME Christopher Alan Mosher
 2 EMAIL cmosher01@@gmail.com
@@ -5199,11 +5199,10 @@
 4 LATI N43.1059
 4 LONG W73.8677
 1 DEAT
-2 DATE BET 11 FEB 1825 AND 27 JAN 1871
+2 DATE ABT 1830
 2 SOUR @ngmuCLfiTZetGLD3ol7i@
 3 PAGE p. 2
 3 QUAY 2
-2 NOTE early date is from daughter Eliza's birth
 1 _XY 8305 1528
 0 @SOaeCCLZRjO9BE04kYnl@ INDI
 1 REFN 68f6e5a2-3bdd-4ad9-a420-40107202cc81
@@ -5314,7 +5313,6 @@
 2 NOTE Date is a guess, because she is in 1860 census, but not 186
 3 CONC 5 census. Place is assumed.
 1 _XY 6949 1442
-1 _XY 8472 1535
 0 @I433@ INDI
 1 NAME Mahala //
 2 SOUR @S217@
@@ -15748,8 +15746,20 @@
 4 LATI N42.899
 4 LONG W75.5121
 2 SOUR @K3K8R2iUQJy4cl787i9L@
-3 PAGE v. 151, p. 337
-3 QUAY 3
+3 PAGE <bibl> <author>County of Madison (New York, USA)</author>, <
+4 CONC title level="u">Land Records</title>, <citedRange>151: 337
+4 CONC , deed, Addison M. and Mary A. Stevens to William D. Mosher
+4 CONC , recorded 30 Nov 1881</citedRange>; digital images, <titl
+4 CONC e level="m">FamilySearch</title> (<ref target="https://www.f
+4 CONC amilysearch.org/ark:/61903/3:1:3QS7-89W7-9CPW"/> : 2 Sep 201
+4 CONC 8), <title level="u">Deeds [Madison County, New York] v. 150
+4 CONC –1 1881–2</title>, FHL microfilm 404,378, DGS 7120518, imag
+4 CONC e 547 of 657. </bibl>
+3 QUAY 4
+3 DATA
+4 TEXT 29 Nov 1881, 20 acres in lot 73 in Madison
+5 CONT
+3 _LINK https://www.familysearch.org/ark:/61903/3:1:3QS7-89W7-9CPW
 2 NOTE from Addeson W. and Mary W. Stevens
 1 DEAT
 2 DATE 12 APR 1885
@@ -16187,8 +16197,19 @@
 2 DATE 13 MAR 1837
 2 PLAC East Hamilton, Madison, New York, USA
 2 SOUR @K3K8R2iUQJy4cl787i9L@
-3 PAGE b. 98, p. 254
-3 QUAY 3
+3 PAGE <bibl> <author>County of Madison (New York, USA)</author>, <
+4 CONC title level="u">Land Records</title>, <citedRange>98: 254–5
+4 CONC , deed, Jesse S. Foote to William Mosher, recorded 5 Nov 186
+4 CONC 3</citedRange>; digital images, <title level="m">FamilySearc
+4 CONC h</title> (<ref target="https://www.familysearch.org/ark:/61
+4 CONC 903/3:1:3QSQ-G9W7-SQ62"/> : 2 Sep 2018), <title level="u">De
+4 CONC eds [Madison County, New York] v. 98–9 1863–4</title>, FHL m
+4 CONC icrofilm 404,342, DGS 7120127, image 52–3 of 619. </bibl>
+3 QUAY 4
+3 DATA
+4 TEXT 13 Mar 1837, in lots 48 and 49 in Hamilton
+5 CONT
+3 _LINK https://www.familysearch.org/ark:/61903/3:1:3QSQ-G9W7-SQ62
 2 NOTE east side of Williams Road, about one quarter mile south o
 3 CONC f Larkin Road
 1 CENS
@@ -16262,12 +16283,6 @@
 3 OBJE @QiXp7PjxT4yinNoHjTe3@
 3 _APID 1,7667::49446854
 2 NOTE Age: 52
-1 EVEN
-2 TYPE military
-2 DATE ABT 1862
-2 SOUR @dXVUNeBoQRaYX26Gu4V1@
-2 NOTE Civil War. Unconfirmed; he would have been 55 at the time, w
-3 CONC hich is unusually old for a Civil War soldier.
 1 CENS
 2 DATE 01 JUN 1865
 2 PLAC Hamilton, Madison, New York, USA
@@ -23697,7 +23712,7 @@
 1 HUSB @Xr90IHSFTtq3reSNFiUf@
 1 WIFE @x5v8PBqdQtWyRfLVXlTV@
 1 MARR
-2 DATE ABT 1855
+2 DATE ABT 1856
 2 PLAC New York, USA
 3 MAP
 4 LATI N42.7531
