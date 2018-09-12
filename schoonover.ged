@@ -13,9 +13,9 @@
 4 CONT Boston, MA 02109
 3 PHON (617) 227-6681
 1 DEST FTM
-1 FILE Schoonover_2018-09-12-02-19-14.ftm.ged
+1 FILE Schoonover_2018-09-12-02-34-01.ftm.ged
 1 DATE 12 SEP 2018
-2 TIME 02:20:36
+2 TIME 02:37:50
 0 @Umy2qBWIRUiwVSS6Hcn4@ SUBM
 1 NAME Christopher Alan Mosher
 2 EMAIL cmosher01@@gmail.com
@@ -1199,6 +1199,11 @@
 4 CONC oll: m-t0627-02781; Page: 6B; Enumeration District: 51-48
 3 OBJE @M14@
 3 _APID 1,2442::8678993
+2 SOUR @S16@
+3 PAGE New York State Department of Health; Albany, NY, USA; New Yo
+4 CONC rk State Birth Index
+3 OBJE @M25@
+3 _APID 1,61667::3108791
 2 SOUR @S8@
 3 PAGE New York State Archives; Albany, New York; State Populatio
 4 CONC n Census Schedules, 1925; Election District: 01; Assembly Di
@@ -1219,10 +1224,10 @@
 1 FAMS @F2@
 1 BIRT
 2 DATE 08 NOV 1924
-2 PLAC New York, USA
+2 PLAC Buffalo, Erie, New York, USA
 3 MAP
-4 LATI N42.7531
-4 LONG W74.2224
+4 LATI N42.8864
+4 LONG W78.8784
 2 SOUR @S6@
 3 PAGE Year: 1930; Census Place: Painted Post, Steuben, New York; P
 4 CONC age: 23B; Enumeration District: 0039; FHL microfilm: 2341382
@@ -1233,6 +1238,11 @@
 4 CONC oll: m-t0627-02781; Page: 6B; Enumeration District: 51-48
 3 OBJE @M14@
 3 _APID 1,2442::8678993
+2 SOUR @S16@
+3 PAGE New York State Department of Health; Albany, NY, USA; New Yo
+4 CONC rk State Birth Index
+3 OBJE @M25@
+3 _APID 1,61667::3108791
 2 SOUR @S8@
 3 PAGE New York State Archives; Albany, New York; State Populatio
 4 CONC n Census Schedules, 1925; Election District: 01; Assembly Di
@@ -1248,6 +1258,17 @@
 2 SOUR @S20@
 3 PAGE Issue State: New York; Issue Date: 1961
 3 _APID 1,3693::91003031
+1 BIRT
+2 DATE 06 NOV 1924
+2 PLAC Buffalo, Erie, New York, USA
+3 MAP
+4 LATI N42.8864
+4 LONG W78.8784
+2 SOUR @S16@
+3 PAGE New York State Department of Health; Albany, NY, USA; New Yo
+4 CONC rk State Birth Index
+3 OBJE @M25@
+3 _APID 1,61667::3108791
 1 RESI
 2 DATE 01 JUN 1925
 2 PLAC Erwin, Steuben, New York, USA
@@ -2786,4 +2807,11 @@
 2 TITL New York, Death Index, 1852-1956
 2 _TEXT New York Department of Health; Albany, NY; NY State Death In
 3 CONC dex
+0 @M25@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Schoonover Medi
+2 CONC a\New York State, Birth Index, 1881-1942(1).jpg
+2 FORM jpg
+2 TITL New York State, Birth Index, 1881-1942
+2 _TEXT New York State Department of Health; Albany, NY, USA; New Yo
+3 CONC rk State Birth Index
 0 TRLR
