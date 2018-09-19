@@ -13,9 +13,9 @@
 4 CONT Boston, MA 02109
 3 PHON (617) 227-6681
 1 DEST FTM
-1 FILE Roth_Bialis_Cohen_Lang_2018-09-19-01-46-32.ftm.ged
+1 FILE Roth_Bialis_Cohen_Lang_2018-09-19-01-53-26.ftm.ged
 1 DATE 19 SEP 2018
-2 TIME 01:48:09
+2 TIME 01:54:44
 0 @Umy2qBWIRUiwVSS6Hcn4@ SUBM
 1 NAME Christopher Alan Mosher
 2 EMAIL cmosher01@@gmail.com
@@ -38,31 +38,6 @@
 2 PHON +1-203-513-9292
 1 LANG English
 1 RIN Umy2qBWIRUiwVSS6Hcn4
-0 @I92@ INDI
-1 REFN 91d4d83a-04fc-4c5b-b541-59754062e5aa
-1 NAME Annie /Beller/
-2 SOUR @S25@
-3 PAGE New York City Deaths, 1892-1902; Deaths Reported in 1900 (A-
-4 CONC L). Borough of Manhattan; Certificate #: 14327
-3 _APID 1,6492::447901
-2 SOUR @S15@
-2 SOUR @S15@
-1 SEX F
-1 FAMC @F11@
-1 FAMS @F49@
-1 BIRT
-2 DATE ABT 1874
-2 SOUR @S25@
-3 PAGE New York City Deaths, 1892-1902; Deaths Reported in 1900 (A-
-4 CONC L). Borough of Manhattan; Certificate #: 14327
-3 _APID 1,6492::447901
-1 DEAT died in house fire
-2 DATE 24 APR 1900
-2 PLAC Brooklyn, New York City, New York, USA
-2 SOUR @S25@
-3 PAGE New York City Deaths, 1892-1902; Deaths Reported in 1900 (A-
-4 CONC L). Borough of Manhattan; Certificate #: 14327
-3 _APID 1,6492::447901
 0 @I95@ INDI
 1 REFN a463d9e0-b9a6-42a9-bc8c-c5ad9a85c2ad
 1 NAME Bella /Beller/
@@ -3110,6 +3085,31 @@
 3 OBJE @M40@
 3 _APID 1,2703::10291971
 2 NOTE Relation to Head of House: Wife
+0 @I92@ INDI
+1 REFN 91d4d83a-04fc-4c5b-b541-59754062e5aa
+1 NAME Annie /Randel/
+2 SOUR @S25@
+3 PAGE New York City Deaths, 1892-1902; Deaths Reported in 1900 (A-
+4 CONC L). Borough of Manhattan; Certificate #: 14327
+3 _APID 1,6492::447901
+2 SOUR @S15@
+2 SOUR @S15@
+1 SEX F
+1 FAMC @F11@
+1 FAMS @F49@
+1 BIRT
+2 DATE ABT 1874
+2 SOUR @S25@
+3 PAGE New York City Deaths, 1892-1902; Deaths Reported in 1900 (A-
+4 CONC L). Borough of Manhattan; Certificate #: 14327
+3 _APID 1,6492::447901
+1 DEAT died in house fire
+2 DATE 24 APR 1900
+2 PLAC Brooklyn, New York City, New York, USA
+2 SOUR @S25@
+3 PAGE New York City Deaths, 1892-1902; Deaths Reported in 1900 (A-
+4 CONC L). Borough of Manhattan; Certificate #: 14327
+3 _APID 1,6492::447901
 0 @I73@ INDI
 1 REFN 258a2b9c-afa4-4d3a-8b5e-6d12c2921368
 1 NAME Esther /Randel/
