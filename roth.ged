@@ -13,9 +13,9 @@
 4 CONT Boston, MA 02109
 3 PHON (617) 227-6681
 1 DEST FTM
-1 FILE Roth_Bialis_Cohen_Lang_2018-09-19-00-39-33.ftm.ged
+1 FILE Roth_Bialis_Cohen_Lang_2018-09-19-01-46-32.ftm.ged
 1 DATE 19 SEP 2018
-2 TIME 00:40:51
+2 TIME 01:48:09
 0 @Umy2qBWIRUiwVSS6Hcn4@ SUBM
 1 NAME Christopher Alan Mosher
 2 EMAIL cmosher01@@gmail.com
@@ -38,16 +38,31 @@
 2 PHON +1-203-513-9292
 1 LANG English
 1 RIN Umy2qBWIRUiwVSS6Hcn4
-0 @I93@ INDI
-1 REFN aca2d459-0def-41ca-bac5-2cc9db8c6144
-1 NAME /Beller/
-1 SEX M
+0 @I92@ INDI
+1 REFN 91d4d83a-04fc-4c5b-b541-59754062e5aa
+1 NAME Annie /Beller/
+2 SOUR @S25@
+3 PAGE New York City Deaths, 1892-1902; Deaths Reported in 1900 (A-
+4 CONC L). Borough of Manhattan; Certificate #: 14327
+3 _APID 1,6492::447901
+2 SOUR @S15@
+2 SOUR @S15@
+1 SEX F
+1 FAMC @F11@
 1 FAMS @F49@
 1 BIRT
-2 DATE ABT 1870
+2 DATE ABT 1874
+2 SOUR @S25@
+3 PAGE New York City Deaths, 1892-1902; Deaths Reported in 1900 (A-
+4 CONC L). Borough of Manhattan; Certificate #: 14327
+3 _APID 1,6492::447901
 1 DEAT died in house fire
-2 DATE ABT 1899
+2 DATE 24 APR 1900
 2 PLAC Brooklyn, New York City, New York, USA
+2 SOUR @S25@
+3 PAGE New York City Deaths, 1892-1902; Deaths Reported in 1900 (A-
+4 CONC L). Borough of Manhattan; Certificate #: 14327
+3 _APID 1,6492::447901
 0 @I95@ INDI
 1 REFN a463d9e0-b9a6-42a9-bc8c-c5ad9a85c2ad
 1 NAME Bella /Beller/
@@ -244,6 +259,67 @@
 3 PAGE Number: 071-32-3591; Issue State: New York; Issue Date: 1956
 4 CONC -1957
 3 _APID 1,3693::19359969
+0 @I93@ INDI
+1 REFN aca2d459-0def-41ca-bac5-2cc9db8c6144
+1 NAME Herman Harris /Beller/
+2 SOUR @S10@
+3 OBJE @M68@
+3 _APID 1,7733::325675
+2 SOUR @S25@
+3 PAGE New York City Deaths, 1892-1902; Deaths Reported in 1900 (A-
+4 CONC L). Borough of Manhattan; Certificate #: 12939
+3 _APID 1,6492::447902
+2 SOUR @S15@
+2 SOUR @S15@
+2 SOUR @S9@
+3 PAGE National Archives and Records Administration; Washington, DC
+4 CONC ; ARC Title: Index to Petitions for Naturalizations Filed i
+4 CONC n Federal, State, and Local Courts in New York City, 1792-19
+4 CONC 06; NAI Number: 5700802; Record Group Title: Records of Dist
+4 CONC rict Courts of th
+3 OBJE @M67@
+3 _APID 1,2280::138702
+1 SEX M
+1 FAMS @F49@
+1 OBJE @M66@
+1 BIRT
+2 DATE ABT 1871
+2 SOUR @S25@
+3 PAGE New York City Deaths, 1892-1902; Deaths Reported in 1900 (A-
+4 CONC L). Borough of Manhattan; Certificate #: 12939
+3 _APID 1,6492::447902
+1 EVEN
+2 TYPE NaturalizationOathofAllegiance
+2 DATE 20 OCT 1891
+2 PLAC Brooklyn, New York City, New York, USA
+2 SOUR @S10@
+3 OBJE @M68@
+3 _APID 1,7733::325675
+2 SOUR @S9@
+3 PAGE National Archives and Records Administration; Washington, DC
+4 CONC ; ARC Title: Index to Petitions for Naturalizations Filed i
+4 CONC n Federal, State, and Local Courts in New York City, 1792-19
+4 CONC 06; NAI Number: 5700802; Record Group Title: Records of Dist
+4 CONC rict Courts of th
+3 OBJE @M67@
+3 _APID 1,2280::138702
+1 EVEN
+2 TYPE bought land
+2 DATE 21 MAR 1900
+2 PLAC Brooklyn, New York City, New York, USA
+2 SOUR @S26@
+3 PAGE  21 Mar 1900, Wed
+3 OBJE @M66@
+3 _LINK https://www.newspapers.com/clip/17788111/the_brooklyn_daily_
+4 CONC eagle/?xid=637
+2 OBJE @M66@
+1 DEAT died in house fire
+2 DATE 14 APR 1900
+2 PLAC Brooklyn, New York City, New York, USA
+2 SOUR @S25@
+3 PAGE New York City Deaths, 1892-1902; Deaths Reported in 1900 (A-
+4 CONC L). Borough of Manhattan; Certificate #: 12939
+3 _APID 1,6492::447902
 0 @I94@ INDI
 1 REFN f90eca8e-62f5-4b49-9c0b-5eb8a419bb2b
 1 NAME Rose /Beller/
@@ -2937,17 +3013,6 @@
 3 MAP
 4 LATI N42.7531
 4 LONG W74.2224
-0 @I92@ INDI
-1 REFN 91d4d83a-04fc-4c5b-b541-59754062e5aa
-1 NAME /Randel/
-1 SEX F
-1 FAMC @F11@
-1 FAMS @F49@
-1 BIRT
-2 DATE ABT 1875
-1 DEAT died in house fire
-2 DATE ABT 1899
-2 PLAC Brooklyn, New York City, New York, USA
 0 @I78@ INDI
 1 REFN 84b1fbd0-e3ae-4331-a861-f84827f7e01f
 1 NAME /Randel/
@@ -6132,7 +6197,15 @@
 2 _FREL Natural
 2 _MREL Natural
 1 MARR
-2 DATE ABT 1893
+2 DATE 30 MAY 1896
+2 PLAC Manhattan, New York City, New York, USA
+2 SOUR @S15@
+2 SOUR @S15@
+1 MARR
+2 DATE 04 JUN 1896
+2 PLAC Manhattan, New York City, New York, USA
+2 SOUR @S15@
+2 SOUR @S15@
 0 @F4@ FAM
 1 HUSB @I20@
 1 WIFE @I21@
@@ -6523,6 +6596,11 @@
 1 ADDR
 1 EMAIL
 1 PHON
+0 @R2@ REPO
+1 NAME www.newspapers.com
+1 ADDR
+1 EMAIL
+1 PHON
 0 @S8@ SOUR
 1 REPO @R1@
 1 TITL 1900 United States Federal Census
@@ -6572,6 +6650,12 @@
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2014
+0 @S25@ SOUR
+1 REPO @R1@
+1 TITL New York, New York, Death Index, 1892-1898, 1900-1902
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations Inc; Location: Provo, UT, USA; Date
+2 CONC : 2003
 0 @S15@ SOUR
 1 REPO @R1@
 1 TITL New York, New York, Marriage Index 1866-1937
@@ -6609,6 +6693,11 @@
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2012
+0 @S26@ SOUR
+1 REPO @R2@
+1 TITL Newspapers.com - The Brooklyn Daily Eagle - 21 Mar 1900, Wed
+1 PUBL The Brooklyn Daily Eagle; Location: Brooklyn, New York; Date
+2 CONC : 21 Mar 1900, Wed
 0 @S21@ SOUR
 1 REPO @R1@
 1 TITL Selected U.S. Naturalization Records - Original Documents, 1
@@ -7216,4 +7305,29 @@
 2 TITL New York City, Marriage Indexes, 1907-1995
 2 _TEXT New York City Municipal Archives; New York, New York; Boroug
 3 CONC h: Manhattan; Volume Number: 10
+0 @M66@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Roth_Bialis_Coh
+2 CONC en_Lang Media\bought land.jpg
+2 FORM jpg
+2 TITL bought land
+2 _DATE 21 Mar 1900, Wed
+0 @M67@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Roth_Bialis_Coh
+2 CONC en_Lang Media\New York, State and Federal Naturalization Rec
+2 CONC ords, 1794-1940(5).jpg
+2 FORM jpg
+2 TITL New York, State and Federal Naturalization Records, 1794-194
+3 CONC 0
+2 _TEXT National Archives and Records Administration; Washington, DC
+3 CONC ; ARC Title: Index to Petitions for Naturalizations Filed i
+3 CONC n Federal, State, and Local Courts in New York City, 1792-19
+3 CONC 06; NAI Number: 5700802; Record Group Title: Records of Dist
+3 CONC rict Courts of th
+0 @M68@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Roth_Bialis_Coh
+2 CONC en_Lang Media\New York, Index to Petitions for Naturalizatio
+2 CONC n filed in New York City, 1792-1989(1).jpg
+2 FORM jpg
+2 TITL New York, Index to Petitions for Naturalization filed in Ne
+3 CONC w York City, 1792-1989
 0 TRLR
