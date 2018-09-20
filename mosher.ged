@@ -13,9 +13,9 @@
 4 CONT Boston, MA 02109
 3 PHON (617) 227-6681
 1 DEST FTM
-1 FILE Mosher_2018-09-18-22-45-33.ftm.ged
-1 DATE 18 SEP 2018
-2 TIME 22:46:57
+1 FILE Mosher_2018-09-20-02-50-13.ftm.ged
+1 DATE 20 SEP 2018
+2 TIME 02:52:27
 0 @Umy2qBWIRUiwVSS6Hcn4@ SUBM
 1 NAME Christopher Alan Mosher
 2 EMAIL cmosher01@@gmail.com
@@ -2220,12 +2220,7 @@
 3 _APID 1,5187::886416
 2 SOUR @Q3pDaZrXQzi0fjGmGdhC@
 3 _APID 1,70500::1455673
-1 DEAT
-2 DATE 03 MAY 1927
-2 PLAC Dixon, Solano County, California, USA
-3 MAP
-4 LATI N38.4455
-4 LONG W121.8233
+2 NOTE or at Dixon, Solano County
 1 BURI
 2 PLAC Red Bluff, Tehama, California, USA
 3 MAP
@@ -2768,10 +2763,6 @@
 2 DATE 06 MAR 1666
 2 SOUR @OIfoSTFnQvevUVuBToBn@
 3 QUAY 1
-1 EVEN
-2 TYPE notes
-2 NOTE Probably not Margaret Winslow, as widely reported. Needs mor
-3 CONC e investigation.
 1 _XY 843 32
 0 @5tvy5VbyRueSuRtg164w@ INDI
 1 REFN 271656de-9091-4e31-b56c-90764daf2e5b
@@ -3575,19 +3566,13 @@
 3 _APID 1,7163::28979982
 2 SOUR @HTv1E9OQRJyryBz0jvQV@
 3 QUAY 1
+2 SOUR @S211@
+3 OBJE @M230@
+3 _APID 1,7181::1655651859
 2 SOUR @S226@
 3 OBJE @AXommpWlQjimhz5FUrOL@
 3 _APID 1,7218::2224976
 2 NOTE place from NY Census, 1865
-1 BIRT
-2 DATE ABT 1814
-2 PLAC Warren, New York, USA
-3 MAP
-4 LATI N43.5629
-4 LONG W73.8444
-2 SOUR @S211@
-3 OBJE @M230@
-3 _APID 1,7181::1655651859
 1 RESI
 2 DATE 1850
 2 PLAC Nelson, Madison, New York, USA
@@ -4191,6 +4176,8 @@
 1 SEX F
 1 FAMC @tP1xpbKWR0Wcxp8WtEkn@
 1 FAMC @F342@
+1 NOTE Source lists name and dates, but no relationship. Sister o
+2 CONC f Mary is just a guess.
 1 BIRT
 2 DATE 11 FEB 1825
 2 SOUR @Hm17MLj2SaOPgMVpc2Wa@
@@ -4199,12 +4186,6 @@
 2 DATE 27 APR 1840
 2 SOUR @Hm17MLj2SaOPgMVpc2Wa@
 3 QUAY 1
-1 EVEN
-2 TYPE note
-2 SOUR @dXVUNeBoQRaYX26Gu4V1@
-3 QUAY 1
-2 NOTE Source lists name and dates, but no relationship. Sister o
-3 CONC f Mary is just a guess.
 1 _XY 8585 1644
 0 @OtsSJclTQgGLTZoCj6om@ INDI
 1 REFN 5c2a3ce7-607b-4b95-a51b-01fba8ed20f5
@@ -4283,34 +4264,12 @@
 3 CONT 1884 (obit): aged 63
 3 CONT assume 25,35,45,55,69 respectively
 1 RESI
-2 DATE FROM 1815 TO 1846
-2 PLAC New York, USA
-3 MAP
-4 LATI N42.7531
-4 LONG W74.2224
-2 SOUR @ZYsClSlmTiGhnkYMyFYT@
-3 QUAY 1
-1 CENS
-2 DATE 01 JUN 1840
-2 PLAC Stillwater, Saratoga, New York, USA
-3 MAP
-4 LATI N42.9384
-4 LONG W73.6532
-2 SOUR @CAqGBwYkRBKSG0gIbUWz@
-3 QUAY 3
-1 RESI
 2 DATE FROM 1846 TO 1848
 2 PLAC Corning, Steuben, New York, USA
 3 MAP
 4 LATI N42.1429
 4 LONG W77.0547
 2 SOUR @4trkWGgbQYWDaxdosw8R@
-1 RESI
-2 DATE FROM 1848
-2 PLAC Tioga, Pennsylvania, USA
-3 MAP
-4 LATI N41.7738
-4 LONG W77.2538
 1 CENS
 2 DATE 01 JUN 1850
 2 PLAC Chatham, Tioga, Pennsylvania, USA
@@ -4588,6 +4547,9 @@
 4 CONC : M432_830; Page: 150A; Image: 303
 3 OBJE @jadVR7wORsa1QbjyT1Vm@
 3 _APID 1,8054::5385641
+2 SOUR @S211@
+3 OBJE @M230@
+3 _APID 1,7181::1655645846
 2 SOUR @jqlD3QRFSS6VgvEynTqG@
 3 DATA
 4 TEXT SCHEDULE I.--Free Inhabitants in Chatham Township in the Cou
@@ -4621,15 +4583,6 @@
 5 CONC dow of Jonathan Mosher.]
 2 NOTE Gideon is listed in 1850 census, but no relation is given. I
 3 CONC t's purely a guess that he is the sister of Mary.
-1 BIRT
-2 DATE ABT 1830
-2 PLAC New York, USA
-3 MAP
-4 LATI N42.7531
-4 LONG W74.2224
-2 SOUR @S211@
-3 OBJE @M230@
-3 _APID 1,7181::1655645846
 1 CENS
 2 DATE 01 JUN 1850
 2 PLAC Chatham, Tioga, Pennsylvania, USA
@@ -4886,14 +4839,6 @@
 2 SOUR @ngmuCLfiTZetGLD3ol7i@
 3 PAGE p. 2
 3 QUAY 1
-1 RESI
-2 DATE 27 JAN 1871
-2 PLAC Knoxville, Tioga, Pennsylvania, USA
-3 MAP
-4 LATI N41.9573
-4 LONG W77.4389
-2 SOUR @ngmuCLfiTZetGLD3ol7i@
-3 PAGE p. 2
 1 RESI
 2 DATE 01 JUN 1875
 2 PLAC Troupsburg, Steuben, New York, USA
@@ -6212,7 +6157,7 @@
 1 FAMC @qj7Sa6FVQPC1ks066NyF@
 1 FAMS @Y1EqC4eHRReB91rN6BHl@
 1 BIRT
-2 DATE ABT 1612
+2 DATE 1612
 2 PLAC Somerset, England
 2 SOUR @CNCZKGpeSrKJ6BUTT9Hu@
 3 PAGE p. xi
@@ -6266,6 +6211,8 @@
 0 @PxJWQm2AS6ScWY2BywNL@ INDI
 1 REFN 5db36a01-3d4a-473a-9ed6-764db651fac8
 1 NAME Rebecca /Maxson/
+2 SOUR @CNCZKGpeSrKJ6BUTT9Hu@
+3 PAGE p. 1
 2 SOUR @lIFoQFKzTHCalwRjxIxf@
 3 _APID 1,7249::106210022
 2 SOUR @XkYfWXOxTRycLRJJyxNy@
@@ -6279,6 +6226,8 @@
 1 SEX F
 1 FAMC @LlcJAdH6T26e0JPuLaxN@
 1 FAMS @FpSmj7eiSECEkyexIYXl@
+1 NOTE This Rebecca is not Recebba Harndell (daughter of John Harnd
+2 CONC ell)
 1 BIRT
 2 DATE 06 FEB 1637
 2 PLAC Dartmouth, Bristol, Massachusetts, USA
@@ -6538,13 +6487,6 @@
 3 QUAY 1
 2 NOTE place is just a guess, based on husband's assumed residenc
 3 CONC e at the time
-1 EVEN
-2 TYPE note
-2 SOUR @CNCZKGpeSrKJ6BUTT9Hu@
-3 PAGE p. 1
-3 QUAY 1
-2 NOTE This Rebecca is not Recebba Harndell (daughter of John Harnd
-3 CONC ell)
 1 _XY 7535 454
 0 @VNrJncYEQ5ChlpFYD9kD@ INDI
 1 REFN aae69f51-6a1b-4b58-a377-d0afc293ad7a
@@ -7084,6 +7026,8 @@
 1 NAME Hugh /Moger/
 2 SOUR @cHqs3hdITfGhgYkNTQzb@
 2 SOUR @wUzo8nJ5TOiqkGFxDvd2@
+3 DATA
+4 TEXT By about 1613 based on estimated date of marriage.
 3 OBJE @M175@
 3 _APID 1,2496::56922
 2 SOUR @S182@
@@ -7126,13 +7070,13 @@
 3 _APID 1,60856::1882221
 1 BIRT
 2 DATE ABT MAR 1609
-1 BIRT
-2 DATE 1613
 2 SOUR @wUzo8nJ5TOiqkGFxDvd2@
+3 DATA
+4 TEXT By about 1613 based on estimated date of marriage.
 3 OBJE @M175@
 3 _APID 1,2496::56922
 1 IMMI
-2 DATE FROM 05 APR 1632 TO 05 JUN 1632
+2 DATE 05 JUN 1632
 2 PLAC Boston, Suffolk, Massachusetts, USA
 2 SOUR @S187@
 3 QUAY 1
@@ -7169,6 +7113,8 @@
 2 TYPE Departure
 2 DATE 1632
 2 SOUR @wUzo8nJ5TOiqkGFxDvd2@
+3 DATA
+4 TEXT By about 1613 based on estimated date of marriage.
 3 OBJE @M175@
 3 _APID 1,2496::56922
 1 RESI
@@ -7177,6 +7123,8 @@
 1 DEAT
 2 DATE 1666
 2 SOUR @wUzo8nJ5TOiqkGFxDvd2@
+3 DATA
+4 TEXT By about 1613 based on estimated date of marriage.
 3 OBJE @M175@
 3 _APID 1,2496::56922
 1 PROB
@@ -7186,6 +7134,8 @@
 1 RESI
 2 PLAC Portland, Cumberland, Maine, USA
 2 SOUR @wUzo8nJ5TOiqkGFxDvd2@
+3 DATA
+4 TEXT By about 1613 based on estimated date of marriage.
 3 OBJE @M175@
 3 _APID 1,2496::56922
 2 NOTE Portland was named "Casco" at this time.
@@ -10609,7 +10559,7 @@
 3 PAGE pp. viii-xi
 1 DEAT
 2 DATE ABT 1670
-2 NOTE just a guess
+2 NOTE ust a guess
 1 RESI
 2 PLAC Westerly, Washington, Rhode Island, USA
 3 MAP
@@ -10704,9 +10654,7 @@
 2 SOUR @cHqs3hdITfGhgYkNTQzb@
 1 SEX M
 1 FAMC @F300@
-1 EVEN
-2 TYPE note
-2 NOTE there may be two Tristrams
+1 NOTE there may be two Tristrams
 1 _XY 6737 247
 0 @DOLZ0VhPS5aeZqKyaadC@ INDI
 1 REFN 8507ada9-7ff0-48a5-8fbe-af74f86a9cbb
@@ -10945,7 +10893,7 @@
 3 QUAY 1
 2 NOTE to Richard Cornell
 1 DEAT
-2 DATE AFT 1792
+2 DATE ABT 1795
 2 PLAC Dartmouth, Bristol, Massachusetts, USA
 3 MAP
 4 LATI N41.6282
@@ -11117,14 +11065,7 @@
 3 _APID 1,3599::756041
 2 SOUR @cHqs3hdITfGhgYkNTQzb@
 1 RESI
-2 DATE FROM 1678 TO 1685
-2 PLAC Portsmouth, Newport, Rhode Island, USA
-3 MAP
-4 LATI N41.6023
-4 LONG W71.2503
-2 NOTE dates are approximate
-1 RESI
-2 DATE FROM 1685 TO JUL 1751
+2 DATE ABT 1685
 2 PLAC Dartmouth, Bristol, Massachusetts, USA
 3 MAP
 4 LATI N41.6282
@@ -11161,7 +11102,6 @@
 4 CONC 2
 3 OBJE @IK5bK5uASnubgylYQ19y@
 3 _APID 1,2495::6066654
-1 NAME Danil /Mosher/
 2 SOUR @qvxtZQDHRi6i6C3eRswB@
 3 PAGE "Dartmouth: Births, Marriages and Deaths," images of origina
 4 CONC l manuscripts, p. 180, image 455
@@ -11283,13 +11223,7 @@
 3 OBJE @qrCWzUAKS7eOBOaoyq5U@
 3 _APID 1,2495::80625447
 1 RESI
-2 DATE FROM 31 MAY 1749 TO 1771
-2 PLAC Dartmouth, Bristol, Massachusetts, USA
-3 MAP
-4 LATI N41.6282
-4 LONG W70.966
-1 RESI
-2 DATE FROM 1771 TO 1784
+2 DATE ABT 1771
 2 PLAC Dutchess, New York, USA
 3 MAP
 4 LATI N41.7645
@@ -11305,7 +11239,7 @@
 3 OBJE @JQL2FoIWRfq437AsCYFM@
 3 _APID 1,1127::3131300
 1 RESI
-2 DATE FROM 1784 TO 1796
+2 DATE ABT 1784
 2 PLAC Farm on Fish Creek, Saratoga, Saratoga, New York, USA
 2 SOUR @Y27NWvV9RuyqrBHq9Kqn@
 3 QUAY 1
@@ -11425,13 +11359,7 @@
 3 _APID 1,70572::5751363
 2 NOTE Dutchess Co. is from IGI. Some sources give 24 July 1780.
 1 RESI
-2 DATE FROM 24 JUL 1781 TO 1784
-2 PLAC Dutchess, New York, USA
-3 MAP
-4 LATI N41.7645
-4 LONG W73.7472
-1 RESI
-2 DATE FROM 1784 TO 1813
+2 DATE ABT 1784
 2 PLAC Farm on Fish Creek, Saratoga, Saratoga, New York, USA
 2 SOUR @Y27NWvV9RuyqrBHq9Kqn@
 3 QUAY 1
@@ -11474,7 +11402,7 @@
 2 SOUR @26bW5ogxQ3yiGhc7GFkt@
 3 QUAY 3
 1 RESI
-2 DATE FROM 1813 TO 23 OCT 1826
+2 DATE ABT 1813
 2 PLAC Greenfield, Saratoga, New York, USA
 3 MAP
 4 LATI N43.1036
@@ -11974,10 +11902,6 @@
 3 CONC on). Note that in the 1820 US Census in Greenfield, Jonatha
 3 CONC n Williams is immediately before Potter Johnson (M33.79, p
 3 CONC . 175).
-1 RESI
-2 DATE FROM 23 OCT 1826 TO 06 MAR 1837
-2 PLAC 3330 New York State Route 9N, Greenfield, Saratoga, New York
-3 CONC , USA
 1 CENS
 2 DATE 01 JUN 1830
 2 PLAC 3330 New York State Route 9N, Greenfield, Saratoga, New York
@@ -12193,7 +12117,7 @@
 3 _LINK https://www.familysearch.org/ark:/61903/3:1:3QS7-99WC-N6VC
 2 NOTE to his son William George Mosher
 1 RESI
-2 DATE FROM 06 MAR 1837 TO 1845
+2 DATE ABT MAR 1837
 2 PLAC Owego, Tioga, New York, USA
 3 MAP
 4 LATI N42.1034
@@ -12218,7 +12142,7 @@
 3 OBJE @TIrjFKroRQi5jCIwYjAV@
 3 _APID 1,8057::2507123
 1 RESI
-2 DATE FROM 1845 TO 1856
+2 DATE ABT 1845
 2 PLAC Chatham, Tioga, Pennsylvania, USA
 3 MAP
 4 LATI N39.8531
@@ -12274,7 +12198,7 @@
 3 _APID 1,8054::5385638
 2 NOTE Age: 69
 1 RESI
-2 DATE FROM 1856 TO 27 FEB 1862
+2 DATE ABT 1856
 2 PLAC Mosher Homestead, Poolville Road, Hamilton, Madison, New Yor
 3 CONC k, USA
 1 CENS
@@ -12629,7 +12553,6 @@
 0 @d2nuKxLhSa2oTaZuYyHs@ INDI
 1 REFN 593f6b9d-f9ac-4cea-a145-cc7f4381e091
 1 NAME Edith /Mosher/
-1 NAME Ede /Mosher/
 2 SOUR @qvxtZQDHRi6i6C3eRswB@
 3 OBJE @doAMa4RfTRudUSSdTcpS@
 3 _APID 1,2495::5970726
@@ -12704,7 +12627,6 @@
 2 SOUR @S226@
 3 OBJE @M231@
 3 _APID 1,7218::2219333
-1 NAME Storry first wife of Steward /Stevens/
 1 SEX F
 1 FAMC @v943d0vRQDS58l9ZqvAY@
 1 FAMS @C9XwS7xCQzW9u2kcyHJS@
@@ -13240,6 +13162,8 @@
 1 NAME James /Mosher/
 1 SEX M
 1 FAMC @FpSmj7eiSECEkyexIYXl@
+1 NOTE Do not confuse this James with James Mosher of Block Island
+2 CONC , RI and New London, CT.
 1 BIRT
 2 DATE ABT 1675
 2 PLAC Portsmouth, Newport, Rhode Island, USA
@@ -13256,10 +13180,6 @@
 2 SOUR @CNCZKGpeSrKJ6BUTT9Hu@
 3 PAGE p. 7
 3 QUAY 1
-1 EVEN
-2 TYPE note
-2 NOTE Do not confuse this James with James Mosher of Block Island
-3 CONC , RI and New London, CT.
 1 _XY 7125 743
 0 @I449@ INDI
 1 REFN 1188f352-df4b-4618-b037-aae4aabba079
@@ -14108,10 +14028,7 @@
 1 OBJE @9ab5oRFAT4OCCSQncipF@
 1 BIRT
 2 DATE 03 JUN 1884
-2 PLAC Madison, Madison, New York, USA
-3 MAP
-4 LATI N42.899
-4 LONG W75.5121
+2 PLAC small house, Lovejoy Farm, Madison, Madison, New York, USA
 2 SOUR @MYPTYwXjROCnuswpONVl@
 3 PAGE Year: 1900; Census Place: Hamilton, Madison, New York; Roll
 4 CONC : 1071; Page: 13A; Enumeration District: 0014; FHL microfilm
@@ -14195,9 +14112,6 @@
 3 CONT [1884 Jun 3 is from family interviews]
 3 CONT Alta Benedict says he was born in a small house near the Lov
 3 CONC ejoy house on Cole Hill
-1 RESI
-2 DATE FROM 03 JUN 1884 TO 1895
-2 PLAC small house, Lovejoy Farm, Madison, Madison, New York, USA
 1 CENS
 2 DATE 16 FEB 1892
 2 PLAC Madison, Madison, New York, USA
@@ -14220,7 +14134,7 @@
 3 _APID 1,3212::3148216
 2 NOTE Age: 8
 1 RESI
-2 DATE FROM 1895 TO 1900
+2 DATE ABT 1895
 2 PLAC Earlville, Madison, New York, USA
 3 MAP
 4 LATI N42.7446
@@ -14266,9 +14180,8 @@
 3 _APID 1,7602::66523204
 2 NOTE [Was enumerated twice in the 1900 Census.]
 1 RESI
-2 DATE FROM JUL 1900 TO 1908
+2 DATE ABT JUL 1900
 2 PLAC Lovejoy House, Madison, Madison, New York, USA
-2 NOTE dates approx.
 1 RESI
 2 DATE 1905
 2 PLAC Madison, Madison, New York, USA
@@ -14307,12 +14220,6 @@
 4 LONG W75.5446
 2 SOUR @E3CWBYXrSxSkXDZSQsLp@
 3 QUAY 3
-1 RESI
-2 DATE FROM 1908 TO AUG 1909
-2 PLAC Solsville, Madison, New York, USA
-3 MAP
-4 LATI N42.9106
-4 LONG W75.5181
 1 OCCU mill hand
 2 DATE 29 JUL 1908
 2 PLAC Lyon's Mill, Solsville, Madison, New York, USA
@@ -14360,7 +14267,7 @@
 3 CONC nd 3 Oct 1908]
 3 CONT from Arthur Hartshorn
 1 RESI
-2 DATE FROM AUG 1909 TO MAR 1920
+2 DATE ABT AUG 1909
 2 PLAC Bartlett Road, Lebanon, Madison, New York, USA
 1 CENS
 2 DATE 15 APR 1910
@@ -14432,11 +14339,6 @@
 4 LONG W75.5121
 2 SOUR @K3K8R2iUQJy4cl787i9L@
 3 QUAY 3
-2 NOTE [This is the farm & house at corner NY Route 12B and Airpor
-3 CONC t Road]
-1 RESI
-2 DATE FROM MAR 1920 TO 1949
-2 PLAC Mosher Farm, Madison, Madison, New York, USA
 2 NOTE [This is the farm & house at corner NY Route 12B and Airpor
 3 CONC t Road]
 1 RESI
@@ -14583,10 +14485,9 @@
 2 SOUR @PvauUoUrRNOoD09qhxaG@
 3 QUAY 3
 1 RESI
-2 DATE FROM 1949 TO 28 NOV 1962
+2 DATE ABT 1949
 2 PLAC 9 Eaton Street, Hamilton, Madison, New York, USA
 2 SOUR @lRr5AS5mR3GKMk74lPPQ@
-2 NOTE start date is approximate
 1 EVEN
 2 TYPE photograph
 2 DATE ABT 1950
@@ -15073,19 +14974,13 @@
 3 OBJE @sITcCSlsQBiMLJboicLE@
 3 _APID 1,2495::80622773
 1 RESI
-2 DATE FROM 14 MAR 1748 TO 1771
-2 PLAC Dartmouth, Bristol, Massachusetts, USA
-3 MAP
-4 LATI N41.6282
-4 LONG W70.966
-1 RESI
-2 DATE FROM 1771 TO 1784
+2 DATE ABT 1771
 2 PLAC Dutchess, New York, USA
 3 MAP
 4 LATI N41.7645
 4 LONG W73.7472
 1 RESI
-2 DATE FROM 1784 TO 1813
+2 DATE ABT 1784
 2 PLAC Farm on Fish Creek, Saratoga, Saratoga, New York, USA
 2 SOUR @FAZkd3k4TA6n5YAQ6nj3@
 2 SOUR @Y27NWvV9RuyqrBHq9Kqn@
@@ -15133,6 +15028,8 @@
 3 MAP
 4 LATI N43.1036
 4 LONG W73.8645
+2 SOUR @CNCZKGpeSrKJ6BUTT9Hu@
+3 PAGE p. 52
 2 SOUR @nfGl7WzrRE2Hc60cvLD2@
 3 PAGE Birth year: 1747; Birth city: Dartmouth; Birth state: MA
 3 _APID 1,4725::1821949
@@ -15140,8 +15037,7 @@
 3 QUAY 2
 3 DATA
 4 TEXT the last day of May last past [written 26 Aug 1813]
-2 NOTE [Greenfield from Descendants of Hugh... p. 52]
-3 CONT [but may have been Saratoga town]
+2 NOTE may have been Saratoga town
 1 _XY 7468 959
 0 @2T9aNXipTbiIi9RA0N1n@ INDI
 1 REFN f01c7329-9958-41ac-83ae-e6d617a53d72
@@ -15938,6 +15834,12 @@
 4 CONC lm: 803781
 3 OBJE @QiXp7PjxT4yinNoHjTe3@
 3 _APID 1,7667::49446925
+2 SOUR @S231@
+3 PAGE Year: 1870; Census Place: Hamilton, Madison, New York; Roll
+4 CONC : M593_967; Page: 236B; Image: 477; Family History Library F
+4 CONC ilm: 552466
+3 OBJE @j6tAg5qFQLS9qk5u33cf@
+3 _APID 1,7163::33640788
 2 SOUR @S217@
 3 PAGE Year: 1880; Census Place: Hamilton, Madison, New York; Roll
 4 CONC : 860; Page: 200B; Enumeration District: 059
@@ -15953,18 +15855,6 @@
 3 _APID 1,7250::1398352112
 2 NOTE Source gives "Saterday", but 10 Jun 1849 is a Sunday. Plac
 3 CONC e is from 1850 census.
-1 BIRT
-2 DATE 10 JUN 1849
-2 PLAC New York, USA
-3 MAP
-4 LATI N42.7531
-4 LONG W74.2224
-2 SOUR @S231@
-3 PAGE Year: 1870; Census Place: Hamilton, Madison, New York; Roll
-4 CONC : M593_967; Page: 236B; Image: 477; Family History Library F
-4 CONC ilm: 552466
-3 OBJE @j6tAg5qFQLS9qk5u33cf@
-3 _APID 1,7163::33640788
 1 RESI
 2 DATE 1850
 2 PLAC Chatham, Tioga, Pennsylvania, USA
@@ -16869,16 +16759,6 @@
 3 OBJE @j6tAg5qFQLS9qk5u33cf@
 3 _APID 1,7163::23890272
 2 NOTE Age: 63
-1 RESI
-2 DATE 01 JUN 1875
-2 PLAC Hamilton, Madison, New York, USA
-3 MAP
-4 LATI N42.827
-4 LONG W75.5446
-2 SOUR @W3ek4ErgQoOvxC5sOB5w@
-3 OBJE @Dgy4pfm3ReWjeEskhVB7@
-3 _APID 1,7250::1398352110
-2 NOTE Relation to Head of House: Head
 1 CENS
 2 DATE 01 JUN 1875
 2 PLAC Hamilton, Madison, New York, USA
@@ -16888,14 +16768,18 @@
 2 SOUR @NbqigYRJT6mDpJGsdDtv@
 3 QUAY 3
 1 RESI
-2 DATE 1875
+2 DATE 01 JUN 1875
 2 PLAC Mosher Homestead, Poolville Road, Hamilton, Madison, New Yor
 3 CONC k, USA
 2 SOUR @nUFZlAguSRKKOvboliQS@
 3 QUAY 3
+2 SOUR @W3ek4ErgQoOvxC5sOB5w@
+3 OBJE @Dgy4pfm3ReWjeEskhVB7@
+3 _APID 1,7250::1398352110
 2 NOTE Poolville Road is Madison Co. Highway 89.
 3 CONT House was on northwest side of street, between Chappel Roa
 3 CONC d ("Darts Corner") and Hill Road (Hubbardsville).
+3 CONT Relation to Head of House: Head
 1 PROP bought land
 2 DATE 27 JAN 1880
 2 PLAC Hamilton, Madison, New York, USA
@@ -16971,26 +16855,20 @@
 3 QUAY 3
 1 RESI
 2 DATE 1880
-2 PLAC Hamilton, Madison, New York, USA
-3 MAP
-4 LATI N42.827
-4 LONG W75.5446
+2 PLAC Douglass house, South Hamilton, Hamilton, Madison, New York
+3 CONC , USA
 2 SOUR @S217@
 3 PAGE Year: 1880; Census Place: Hamilton, Madison, New York; Roll
 4 CONC : 860; Family History Film: 1254860; Page: 185A; Enumeratio
 4 CONC n District: 059; Image: 0220
 3 OBJE @74l5SKYNTP2e1uKQlxR2@
 3 _APID 1,6742::38725523
-2 NOTE Age: 72; Marital Status: Widower; Relation to Head of House
-3 CONC : Father
-1 RESI
-2 DATE ABT 1880
-2 PLAC Douglass house, South Hamilton, Hamilton, Madison, New York
-3 CONC , USA
 2 SOUR @bk4beWwrTZ2LNTM3dNvI@
 3 DATA
 4 TEXT How long resident here. 20 yrs
-2 NOTE This is the house of his son-in-law Elijah Douglass (husban
+2 NOTE Age: 72; Marital Status: Widower; Relation to Head of House
+3 CONC : Father
+3 CONT This is the house of his son-in-law Elijah Douglass (husban
 3 CONC d of Julia Ann Mosher).
 1 EVEN
 2 TYPE sold land
@@ -20204,7 +20082,6 @@
 4 CONC r: 1905
 3 OBJE @M250@
 3 _APID 1,1055::2315248
-1 NAME Louis /Stevens/
 1 SEX M
 1 FAMC @F330@
 1 BIRT
@@ -20323,7 +20200,6 @@
 4 CONC r: 1875; Roll: 4
 3 OBJE @M237@
 3 _APID 1,1055::3234435
-1 NAME /Stevens/
 1 SEX M
 1 FAMS @F329@
 1 FAMS @F330@
@@ -20500,6 +20376,7 @@
 2 SOUR @91JIXBEJQz6bVLkVlmAF@
 1 SEX F
 1 FAMC @iZZBOlqtTX2ugOpc4wj1@
+1 NOTE also, this might be two sisters, Esther and Susannah
 1 BIRT
 2 DATE 1622
 2 PLAC Bocking, Essex, England
@@ -20514,9 +20391,6 @@
 4 LATI N41.759
 4 LONG W70.4939
 2 SOUR @91JIXBEJQz6bVLkVlmAF@
-1 EVEN
-2 TYPE note
-2 NOTE also, this might be two sisters, Esther and Susannah
 1 _XY 10156 309
 0 @my4xMOiqQviZzFoTxPFO@ INDI
 1 REFN 608cb1b9-dd8a-4c66-9b35-0e5b1f161b12
@@ -22470,6 +22344,9 @@
 4 CONC L microfilm: 2341177
 3 OBJE @cZaiGozhT0mBWxkG69KX@
 3 _APID 1,6224::38162797
+2 SOUR @7c8PO7CnR1qikgvyU4fE@
+3 PAGE Date: 1980-02-22
+3 _APID 1,5180::5187121
 2 SOUR @S216@
 3 PAGE New York State Archives; Albany, New York; State Populatio
 4 CONC n Census Schedules, 1915; Election District: 01; Assembly Di
@@ -22486,15 +22363,6 @@
 3 PAGE Number: 061-20-2707; Issue State: New York; Issue Date: Befo
 4 CONC re 1951
 3 _APID 1,3693::43964183
-1 BIRT
-2 DATE 18 AUG 1886
-2 PLAC New York, USA
-3 MAP
-4 LATI N42.7531
-4 LONG W74.2224
-2 SOUR @7c8PO7CnR1qikgvyU4fE@
-3 PAGE Date: 1980-02-22
-3 _APID 1,5180::5187121
 1 RESI
 2 DATE 1910
 2 PLAC Hamilton, Madison, New York, USA
@@ -22609,6 +22477,17 @@
 0 @I418@ INDI
 1 REFN 0cfdb02e-2602-4ccc-8609-95c467a4aec4
 1 NAME Alice E. /Woods/
+2 SOUR @S231@
+3 PAGE Year: 1870; Census Place: Deerfield, Tioga, Pennsylvania; Ro
+4 CONC ll: M593_1456; Page: 147B; Family History Library Film: 5529
+4 CONC 55
+3 OBJE @M235@
+3 _APID 1,7163::11364615
+2 SOUR @S217@
+3 PAGE Year: 1880; Census Place: Stevens Point, Portage, Wisconsin
+4 CONC ; Roll: 1442; Page: 182C; Enumeration District: 146
+3 OBJE @M233@
+3 _APID 1,6742::46271696
 2 SOUR @S222@
 3 PAGE Year: 1910; Census Place: Nanticoke, Broome, New York; Roll
 4 CONC : T624_926; Page: 4B; Enumeration District: 0050; FHL microf
@@ -22646,19 +22525,6 @@
 4 CONC strict: 01; City: Nanticoke; County: Broome; Page: 10
 3 OBJE @M248@
 3 _APID 1,2704::23043422
-1 NAME Alice A. /Stevens/
-2 SOUR @S231@
-3 PAGE Year: 1870; Census Place: Deerfield, Tioga, Pennsylvania; Ro
-4 CONC ll: M593_1456; Page: 147B; Family History Library Film: 5529
-4 CONC 55
-3 OBJE @M235@
-3 _APID 1,7163::11364615
-2 SOUR @S217@
-3 PAGE Year: 1880; Census Place: Stevens Point, Portage, Wisconsin
-4 CONC ; Roll: 1442; Page: 182C; Enumeration District: 146
-3 OBJE @M233@
-3 _APID 1,6742::46271696
-1 NAME Alice /Stevens/
 1 SEX F
 1 FAMC @C9XwS7xCQzW9u2kcyHJS@
 1 OBJE @M215@
@@ -23141,20 +23007,18 @@
 3 MAP
 4 LATI N41.8073
 4 LONG W77.0775
-2 SOUR @3PtTlRYqTkOm5KNlPfu9@
-3 PAGE Historical Society of Pennsylvania; Philadelphia, Pennsylvan
-4 CONC ia; Collection Name: Historic Pennsylvania Church and Town R
-4 CONC ecords; Reel: 393
-3 OBJE @T5aoDhg2QS65xo0LIETp@
-3 _APID 1,2451::5272354
-1 MARR
-2 DATE 1880
 2 SOUR @MYPTYwXjROCnuswpONVl@
 3 PAGE Year: 1900; Census Place: Tioga, Tioga, Pennsylvania; Roll
 4 CONC : 1490; Page: 1B; Enumeration District: 0154; FHL microfilm
 4 CONC : 1241490
 3 OBJE @lLoKHozbQcqNDJyq1fEj@
 3 _APID 1,7602::69017829
+2 SOUR @3PtTlRYqTkOm5KNlPfu9@
+3 PAGE Historical Society of Pennsylvania; Philadelphia, Pennsylvan
+4 CONC ia; Collection Name: Historic Pennsylvania Church and Town R
+4 CONC ecords; Reel: 393
+3 OBJE @T5aoDhg2QS65xo0LIETp@
+3 _APID 1,2451::5272354
 0 @F356@ FAM
 1 HUSB @I462@
 1 WIFE @I441@
@@ -23448,10 +23312,10 @@
 0 @F342@ FAM
 1 CHIL @x5v8PBqdQtWyRfLVXlTV@
 1 CHIL @OtsSJclTQgGLTZoCj6om@
+1 CHIL @JVtRPEDrQLihRqN39zWE@
 1 CHIL @3DnAwUwSSHGGOvWIx4V7@
 1 CHIL @lDPY1mstQa6QDUPVooIU@
 1 CHIL @kwuhDlJpQO6upaMNPd9K@
-1 CHIL @JVtRPEDrQLihRqN39zWE@
 0 @F353@ FAM
 1 HUSB @OtsSJclTQgGLTZoCj6om@
 1 WIFE @I433@
@@ -23501,6 +23365,9 @@
 1 CHIL @OtsSJclTQgGLTZoCj6om@
 2 _FREL Natural
 2 _MREL Natural
+1 CHIL @JVtRPEDrQLihRqN39zWE@
+2 _FREL Natural
+2 _MREL Natural
 1 CHIL @3DnAwUwSSHGGOvWIx4V7@
 2 _FREL Natural
 2 _MREL Natural
@@ -23508,9 +23375,6 @@
 2 _FREL Natural
 2 _MREL Natural
 1 CHIL @kwuhDlJpQO6upaMNPd9K@
-2 _FREL Natural
-2 _MREL Natural
-1 CHIL @JVtRPEDrQLihRqN39zWE@
 2 _FREL Natural
 2 _MREL Natural
 1 MARR
@@ -23648,10 +23512,10 @@
 1 REFN 1c6dda96-f245-4b8f-b40f-27702d6bad58
 1 HUSB @I388@
 1 WIFE @I379@
-1 CHIL @I386@
+1 CHIL @I389@
 2 _FREL Natural
 2 _MREL Natural
-1 CHIL @I389@
+1 CHIL @I386@
 2 _FREL Natural
 2 _MREL Natural
 1 CHIL @I393@
@@ -25082,12 +24946,6 @@
 3 MAP
 4 LATI N42.9118
 4 LONG W75.6682
-1 MARR
-2 DATE ABT 1867
-2 PLAC New York, USA
-3 MAP
-4 LATI N42.7531
-4 LONG W74.2224
 0 @hLe0lUArSRm6Nz8ZeJI9@ FAM
 1 REFN 351c5f6a-8448-40f5-9fab-5a5ccee5dd45
 1 HUSB @CQw8U6bgQpy0shSLD9KP@
@@ -27333,16 +27191,6 @@
 2 CONT [...]<br />
 2 CONT George Mosher [possibly brother of David and Benjamin (p. 21
 2 CONC 4)]<br />
-0 @CAqGBwYkRBKSG0gIbUWz@ SOUR
-1 REFN 253e03c5-c841-4b68-a1aa-d7bd36a25d21
-1 TITL US Census, 1840, NY, Saratoga Co., p. 229
-1 AUTH US Census Bureau
-1 PUBL Stillwater, Saratoga, NY, 1840
-1 TEXT George Luther<br />
-2 CONT m 20-30 [George]<br />
-2 CONT f 20-30 [wife Catherine]<br />
-2 CONT [this may be a different George W. Luther, namely #1781 in L
-2 CONC uther Gen.]<br />
 0 @QniMNHFDTuyMkA4wHd8X@ SOUR
 1 REFN eac99110-33ca-437c-8d0e-d1904e501c31
 1 TITL US Census, 1840, NY, Tioga, Owego
@@ -30494,7 +30342,4 @@
 2 _TEXT Bristol County (Mass.) Probate Records 1690-1881; Author: Br
 3 CONC istol County (Massachusetts). Register of Probate; Probate P
 3 CONC lace: Bristol, Massachusetts
-0 @N353@ NOTE __GEDCOM__: DATE ABT 1612 __GEDCOM__
-0 @N381@ NOTE __GEDCOM__: DATE ABT 1658 __GEDCOM__
-0 @N380@ NOTE __GEDCOM__: DATE ABT DEC 1596 __GEDCOM__
 0 TRLR
