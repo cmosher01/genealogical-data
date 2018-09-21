@@ -13,9 +13,9 @@
 4 CONT Boston, MA 02109
 3 PHON (617) 227-6681
 1 DEST FTM
-1 FILE Colvin_2018-08-29-02-17-27.ftm.ged
-1 DATE 29 AUG 2018
-2 TIME 02:18:35
+1 FILE Colvin_2018-09-21-02-05-43.ftm.ged
+1 DATE 21 SEP 2018
+2 TIME 02:22:06
 0 @Umy2qBWIRUiwVSS6Hcn4@ SUBM
 1 NAME Christopher Alan Mosher
 2 EMAIL cmosher01@@gmail.com
@@ -3115,6 +3115,10 @@
 3 _APID 1,60525::78009637
 2 NOTE not listed as kindred in her mother's probate records, so pr
 3 CONC obably died earlier
+1 BURI
+2 PLAC Evergreen Cemetery, Cazenovia, Madison, New York, USA
+2 SOUR @S102@
+3 _APID 1,60525::78009637
 1 EVEN
 2 TYPE military
 2 PLAC New York, USA
@@ -3123,10 +3127,6 @@
 4 LONG W74.2224
 2 SOUR @S93@
 3 _APID 1,1138::2371085
-1 BURI
-2 PLAC Evergreen Cemetery, Cazenovia, Madison, New York, USA
-2 SOUR @S102@
-3 _APID 1,60525::78009637
 1 _XY 73556 1074
 0 @FMvsQ0MPQ5SEpcurt17S@ INDI
 1 REFN 5990ae89-e6c7-4c50-8b8f-a058d1ccb66b
@@ -3645,7 +3645,7 @@
 2 SOUR @S107@
 3 OBJE @aZwCiFtsSkmfSExBCUxH@
 3 _APID 1,7250::1398347782
-2 SOUR @0yv77y0QTf2dWDaHqAU0@
+2 SOUR @S109@
 3 PAGE Letters of Administration, 1830-1903, and Index, 1806-1890
 4 CONC , Madison County, New York; Author: New York. Surrogate's Co
 4 CONC urt (Madison County); Probate Place: Madison, New York
@@ -3843,7 +3843,7 @@
 4 CONC dex; Certificate Number: 16301
 3 OBJE @M127@
 3 _APID 1,61535::1879112
-2 SOUR @0yv77y0QTf2dWDaHqAU0@
+2 SOUR @S109@
 3 PAGE Letters of Administration, 1830-1903, and Index, 1806-1890
 4 CONC , Madison County, New York; Author: New York. Surrogate's Co
 4 CONC urt (Madison County); Probate Place: Madison, New York
@@ -3855,7 +3855,7 @@
 3 MAP
 4 LATI N42.9118
 4 LONG W75.6682
-2 SOUR @0yv77y0QTf2dWDaHqAU0@
+2 SOUR @S109@
 3 PAGE Letters of Administration, 1830-1903, and Index, 1806-1890
 4 CONC , Madison County, New York; Author: New York. Surrogate's Co
 4 CONC urt (Madison County); Probate Place: Madison, New York
@@ -3870,12 +3870,6 @@
 4 LONG W75.7369
 2 SOUR @klBgpTloQpeIAs5nt4S9@
 3 QUAY 2
-1 EVEN
-2 TYPE note
-2 NOTE do not confuse with Charles Cranson b. 1806-04-10 d. 1835-03
-3 CONC -31 (Venice, NY) son of Caleb and Hannah Porter; or Charle
-3 CONC s Cranson b. 1824 d. 1850-01-12 son of Elisha and Abigail (N
-3 CONC abby) Read
 1 OCCU saw mill, farmer
 2 PLAC Georgetown, Madison, New York, USA
 3 MAP
@@ -3883,6 +3877,12 @@
 4 LONG W75.7369
 2 SOUR @O4yQq3DoQ5yocuwKFaw0@
 3 QUAY 2
+1 EVEN
+2 TYPE note
+2 NOTE do not confuse with Charles Cranson b. 1806-04-10 d. 1835-03
+3 CONC -31 (Venice, NY) son of Caleb and Hannah Porter; or Charle
+3 CONC s Cranson b. 1824 d. 1850-01-12 son of Elisha and Abigail (N
+3 CONC abby) Read
 1 _XY 73522 950
 0 @CXZQLUH1SBKe4loGlMSl@ INDI
 1 REFN 26db3c88-2305-422b-afd5-463a4d44aab8
@@ -3924,6 +3924,13 @@
 2 SOUR @S107@
 3 OBJE @TLR6ldmKRuWN9p1u5zxV@
 3 _APID 1,7250::1398341616
+2 SOUR @S109@
+3 PAGE Minutes, Order and Decrees, 1830-1902, and Miscellaneous Min
+4 CONC utes, Orders and Decrees, 1854-1900 (Madison County, New Yor
+4 CONC k); Author: New York. Surrogate's Court (Madison County); Pr
+4 CONC obate Place: Madison, New York
+3 OBJE @M144@
+3 _APID 1,8800::935053
 2 SOUR @S102@
 3 _APID 1,60525::41925954
 2 SOUR @0xWowqPUQPKIukrSSdH2@
@@ -4137,12 +4144,36 @@
 3 CONC : Mother
 1 DEAT
 2 DATE 13 AUG 1881
+2 PLAC New York, USA
+3 MAP
+4 LATI N42.7531
+4 LONG W74.2224
+2 SOUR @S109@
+3 PAGE Minutes, Order and Decrees, 1830-1902, and Miscellaneous Min
+4 CONC utes, Orders and Decrees, 1854-1900 (Madison County, New Yor
+4 CONC k); Author: New York. Surrogate's Court (Madison County); Pr
+4 CONC obate Place: Madison, New York
+3 OBJE @M144@
+3 _APID 1,8800::935053
 2 SOUR @yDREPnUGSuKy6pyLgzXw@
 3 QUAY 2
 2 SOUR @S102@
 3 _APID 1,60525::41925954
 2 SOUR @rp9Z8lHgQkCUwI6kJGpm@
 3 _APID 1,70572::7934483
+1 PROB
+2 DATE 22 AUG 1881
+2 PLAC Morrisville, Madison, New York, USA
+3 MAP
+4 LATI N42.8987
+4 LONG W75.6402
+2 SOUR @S109@
+3 PAGE Minutes, Order and Decrees, 1830-1902, and Miscellaneous Min
+4 CONC utes, Orders and Decrees, 1854-1900 (Madison County, New Yor
+4 CONC k); Author: New York. Surrogate's Court (Madison County); Pr
+4 CONC obate Place: Madison, New York
+3 OBJE @M144@
+3 _APID 1,8800::935053
 1 BURI
 2 PLAC Evergreen Cemetery, Cazenovia, Madison, New York, USA
 2 SOUR @S102@
@@ -4380,6 +4411,12 @@
 3 PAGE Number: 078-12-4090; Issue State: New York; Issue Date: Befo
 4 CONC re 1951
 3 _APID 1,3693::28862495
+1 RESI
+2 PLAC Bartlett, Oneida, New York, USA
+2 SOUR @S103@
+3 PAGE New York State Department of Health; Albany, NY, USA; New Yo
+4 CONC rk State Death Index
+3 _APID 1,61668::1026602
 1 BURI
 2 PLAC Marcy, Oneida, New York, USA
 3 MAP
@@ -4387,12 +4424,6 @@
 4 LONG W75.2919
 2 SOUR @S102@
 3 _APID 1,60525::80145683
-1 RESI
-2 PLAC Bartlett, Oneida, New York, USA
-2 SOUR @S103@
-3 PAGE New York State Department of Health; Albany, NY, USA; New Yo
-4 CONC rk State Death Index
-3 _APID 1,61668::1026602
 0 @I35@ INDI
 1 REFN 84bfb431-ade1-4a12-a393-02e55060fcef
 1 NAME Florence Inez /House/
@@ -6165,8 +6196,7 @@
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2012
-0 @0yv77y0QTf2dWDaHqAU0@ SOUR
-1 REFN 0e32455a-7aa5-4ff8-a234-c04cc8710070
+0 @S109@ SOUR
 1 REPO @k6E4RMjOSJmHe9c6u2Rb@
 1 TITL New York, Wills and Probate Records, 1659-1999
 1 AUTH Ancestry.com
@@ -8546,4 +8576,13 @@
 2 TITL 1860 United States Federal Census
 2 _TEXT Year: 1860; Census Place: Goshen, Orange, New York; Roll: M6
 3 CONC 53_833; Page: 321; Family History Library Film: 803833
+0 @M144@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Colvin Media\Ne
+2 CONC w York, Wills and Probate Records, 1659-1999.jpg
+2 FORM jpg
+2 TITL New York, Wills and Probate Records, 1659-1999
+2 _TEXT Minutes, Order and Decrees, 1830-1902, and Miscellaneous Min
+3 CONC utes, Orders and Decrees, 1854-1900 (Madison County, New Yor
+3 CONC k); Author: New York. Surrogate's Court (Madison County); Pr
+3 CONC obate Place: Madison, New York
 0 TRLR
