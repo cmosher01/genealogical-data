@@ -13,9 +13,9 @@
 4 CONT Boston, MA 02109
 3 PHON (617) 227-6681
 1 DEST FTM
-1 FILE Pettit_2018-08-31-03-29-33.ftm.ged
-1 DATE 31 AUG 2018
-2 TIME 03:43:01
+1 FILE Pettit_2018-09-21-04-21-21.ftm.ged
+1 DATE 21 SEP 2018
+2 TIME 04:22:38
 0 @Umy2qBWIRUiwVSS6Hcn4@ SUBM
 1 NAME Christopher Alan Mosher
 2 EMAIL cmosher01@@gmail.com
@@ -39,8 +39,27 @@
 1 LANG English
 1 RIN Umy2qBWIRUiwVSS6Hcn4
 0 @p7SSNV9jTie8dXuwQWeD@ INDI
-1 _XY 127275 302
 1 REFN 556a98fa-707a-4c5d-9449-07d278819ffd
+1 NAME Mary /Burns/
+2 SOUR @W9AF3YLISEKpgaYjMG1d@
+3 PAGE Year: 1870; Census Place: Brooklyn Ward 20, Kings, New York
+4 CONC ; Roll: M593_960; Page: 124B; Image: 252; Family History Lib
+4 CONC rary Film: 552459
+3 OBJE @Mbd743YISV6Eu0rlIgWh@
+3 _APID 1,7163::29800512
+2 SOUR @pbUV2aFjTeiSEopmWX0R@
+3 PAGE Year: 1880; Census Place: Brooklyn, Kings, New York; Roll: 8
+4 CONC 56; Family History Film: 1254856; Page: 34A; Enumeration Dis
+4 CONC trict: 244; Image: 0305
+3 OBJE @2GuAqQXwSwarxqHoMIFI@
+3 _APID 1,6742::38688947
+2 SOUR @RsPSbkVZTRGnadmliWZN@
+3 OBJE @BVYDAFK9TOKCJ98zVkQJ@
+3 _APID 1,7218::2128949
+2 SOUR @ZthEJ6Y4TgCMPRbXt3Ly@
+3 OBJE @1Sdz2cVhSoSynS6mzKPw@
+3 _APID 1,7250::1363141989
+1 SEX F
 1 FAMS @ff6h6xhWRya5JYuS1vY3@
 1 BIRT
 2 DATE 1829
@@ -49,23 +68,23 @@
 4 LATI N40.1365
 4 LONG W73.2613
 2 SOUR @W9AF3YLISEKpgaYjMG1d@
-3 _APID 1,7163::29800512
 3 PAGE Year: 1870; Census Place: Brooklyn Ward 20, Kings, New York
 4 CONC ; Roll: M593_960; Page: 124B; Image: 252; Family History Lib
 4 CONC rary Film: 552459
 3 OBJE @Mbd743YISV6Eu0rlIgWh@
+3 _APID 1,7163::29800512
 2 SOUR @pbUV2aFjTeiSEopmWX0R@
-3 _APID 1,6742::38688947
 3 PAGE Year: 1880; Census Place: Brooklyn, Kings, New York; Roll: 8
 4 CONC 56; Family History Film: 1254856; Page: 34A; Enumeration Dis
 4 CONC trict: 244; Image: 0305
 3 OBJE @2GuAqQXwSwarxqHoMIFI@
+3 _APID 1,6742::38688947
 2 SOUR @RsPSbkVZTRGnadmliWZN@
-3 _APID 1,7218::2128949
 3 OBJE @BVYDAFK9TOKCJ98zVkQJ@
+3 _APID 1,7218::2128949
 2 SOUR @ZthEJ6Y4TgCMPRbXt3Ly@
-3 _APID 1,7250::1363141989
 3 OBJE @1Sdz2cVhSoSynS6mzKPw@
+3 _APID 1,7250::1363141989
 1 RESI
 2 DATE 1865
 2 PLAC Red Hook, Dutchess, New York, USA
@@ -73,8 +92,8 @@
 4 LATI N41.9951
 4 LONG W73.8754
 2 SOUR @RsPSbkVZTRGnadmliWZN@
-3 _APID 1,7218::2128949
 3 OBJE @BVYDAFK9TOKCJ98zVkQJ@
+3 _APID 1,7218::2128949
 2 NOTE Relation to Head of House: Wife
 1 RESI
 2 DATE 1870
@@ -83,11 +102,11 @@
 4 LATI N40.65
 4 LONG W73.95
 2 SOUR @W9AF3YLISEKpgaYjMG1d@
-3 _APID 1,7163::29800512
 3 PAGE Year: 1870; Census Place: Brooklyn Ward 20, Kings, New York
 4 CONC ; Roll: M593_960; Page: 124B; Image: 252; Family History Lib
 4 CONC rary Film: 552459
 3 OBJE @Mbd743YISV6Eu0rlIgWh@
+3 _APID 1,7163::29800512
 2 NOTE Census Post Office: Brooklyn
 1 RESI
 2 DATE 01 JUN 1875
@@ -96,8 +115,8 @@
 4 LATI N40.65
 4 LONG W73.95
 2 SOUR @ZthEJ6Y4TgCMPRbXt3Ly@
-3 _APID 1,7250::1363141989
 3 OBJE @1Sdz2cVhSoSynS6mzKPw@
+3 _APID 1,7250::1363141989
 2 NOTE Relation to Head of House: Wife
 1 RESI
 2 DATE 1880
@@ -106,35 +125,32 @@
 4 LATI N40.65
 4 LONG W73.95
 2 SOUR @pbUV2aFjTeiSEopmWX0R@
-3 _APID 1,6742::38688947
 3 PAGE Year: 1880; Census Place: Brooklyn, Kings, New York; Roll: 8
 4 CONC 56; Family History Film: 1254856; Page: 34A; Enumeration Dis
 4 CONC trict: 244; Image: 0305
 3 OBJE @2GuAqQXwSwarxqHoMIFI@
+3 _APID 1,6742::38688947
 2 NOTE Marital Status: Married; Relation to Head of House: Wife
-1 NAME Mary /Burns/
-2 SOUR @W9AF3YLISEKpgaYjMG1d@
-3 _APID 1,7163::29800512
-3 PAGE Year: 1870; Census Place: Brooklyn Ward 20, Kings, New York
-4 CONC ; Roll: M593_960; Page: 124B; Image: 252; Family History Lib
-4 CONC rary Film: 552459
-3 OBJE @Mbd743YISV6Eu0rlIgWh@
-2 SOUR @pbUV2aFjTeiSEopmWX0R@
-3 _APID 1,6742::38688947
-3 PAGE Year: 1880; Census Place: Brooklyn, Kings, New York; Roll: 8
-4 CONC 56; Family History Film: 1254856; Page: 34A; Enumeration Dis
-4 CONC trict: 244; Image: 0305
-3 OBJE @2GuAqQXwSwarxqHoMIFI@
-2 SOUR @RsPSbkVZTRGnadmliWZN@
-3 _APID 1,7218::2128949
-3 OBJE @BVYDAFK9TOKCJ98zVkQJ@
-2 SOUR @ZthEJ6Y4TgCMPRbXt3Ly@
-3 _APID 1,7250::1363141989
-3 OBJE @1Sdz2cVhSoSynS6mzKPw@
-1 SEX F
+1 _XY 127275 302
 0 @LdzI4XRTQDWxXysI0xRj@ INDI
-1 _XY 127698 466
 1 REFN e0be5123-8a5e-4eb7-900d-1f785e480fde
+1 NAME Annie P. /Espie/
+2 SOUR @pbUV2aFjTeiSEopmWX0R@
+3 PAGE Year: 1880; Census Place: Brooklyn, Kings, New York; Roll: 8
+4 CONC 55; Family History Film: 1254855; Page: 274B; Enumeration Di
+4 CONC strict: 231; Image: 0555
+3 OBJE @5RcxEZL7S1acoJCNttRT@
+3 _APID 1,6742::2143979
+2 SOUR @EdJbjqVNRj6fDWFU9ALa@
+3 PAGE Year: 1900; Census Place: Manhattan, New York, New York; Rol
+4 CONC l: 1108; Page: 1A; Enumeration District: 0628; FHL microfilm
+4 CONC : 1241108
+3 OBJE @TZBdR35uR7SEpcP2h87r@
+3 _APID 1,7602::38291379
+2 SOUR @ZthEJ6Y4TgCMPRbXt3Ly@
+3 OBJE @pakH7KAJTrSbbDgfOE5u@
+3 _APID 1,7250::1361801241
+1 SEX F
 1 FAMC @aOiBhmKIT92YvlYL8jqI@
 1 BIRT
 2 DATE OCT 1873
@@ -143,20 +159,20 @@
 4 LATI N42.7531
 4 LONG W74.2224
 2 SOUR @pbUV2aFjTeiSEopmWX0R@
-3 _APID 1,6742::2143979
 3 PAGE Year: 1880; Census Place: Brooklyn, Kings, New York; Roll: 8
 4 CONC 55; Family History Film: 1254855; Page: 274B; Enumeration Di
 4 CONC strict: 231; Image: 0555
 3 OBJE @5RcxEZL7S1acoJCNttRT@
+3 _APID 1,6742::2143979
 2 SOUR @EdJbjqVNRj6fDWFU9ALa@
-3 _APID 1,7602::38291379
 3 PAGE Year: 1900; Census Place: Manhattan, New York, New York; Rol
 4 CONC l: 1108; Page: 1A; Enumeration District: 0628; FHL microfilm
 4 CONC : 1241108
 3 OBJE @TZBdR35uR7SEpcP2h87r@
+3 _APID 1,7602::38291379
 2 SOUR @ZthEJ6Y4TgCMPRbXt3Ly@
-3 _APID 1,7250::1361801241
 3 OBJE @pakH7KAJTrSbbDgfOE5u@
+3 _APID 1,7250::1361801241
 1 RESI
 2 DATE 01 JUN 1875
 2 PLAC Brooklyn, Kings, New York, USA
@@ -164,8 +180,8 @@
 4 LATI N40.65
 4 LONG W73.95
 2 SOUR @ZthEJ6Y4TgCMPRbXt3Ly@
-3 _APID 1,7250::1361801241
 3 OBJE @pakH7KAJTrSbbDgfOE5u@
+3 _APID 1,7250::1361801241
 2 NOTE Age: 2; Relation to Head of House: Daughter
 1 BIRT
 2 DATE ABT 1878
@@ -180,11 +196,11 @@
 4 LATI N40.65
 4 LONG W73.95
 2 SOUR @pbUV2aFjTeiSEopmWX0R@
-3 _APID 1,6742::2143979
 3 PAGE Year: 1880; Census Place: Brooklyn, Kings, New York; Roll: 8
 4 CONC 55; Family History Film: 1254855; Page: 274B; Enumeration Di
 4 CONC strict: 231; Image: 0555
 3 OBJE @5RcxEZL7S1acoJCNttRT@
+3 _APID 1,6742::2143979
 2 NOTE Age: 2; Marital Status: Single; Relation to Head of House: D
 3 CONC aughter
 1 RESI
@@ -194,33 +210,26 @@
 4 LATI N40.7142
 4 LONG W74.0064
 2 SOUR @EdJbjqVNRj6fDWFU9ALa@
-3 _APID 1,7602::38291379
 3 PAGE Year: 1900; Census Place: Manhattan, New York, New York; Rol
 4 CONC l: 1108; Page: 1A; Enumeration District: 0628; FHL microfilm
 4 CONC : 1241108
 3 OBJE @TZBdR35uR7SEpcP2h87r@
+3 _APID 1,7602::38291379
 2 NOTE Age: 26; Marital Status: Single; Relation to Head of House
 3 CONC : Daughter
-1 NAME Annie P. /Espie/
+1 _XY 127698 466
+0 @gzoNNhf8RYKTnvYzrIjw@ INDI
+1 REFN 51f56dd4-2f3a-44cc-92dd-41bbb2e5b7d0
+1 NAME Hannah P. /Espie/
 2 SOUR @pbUV2aFjTeiSEopmWX0R@
-3 _APID 1,6742::2143979
 3 PAGE Year: 1880; Census Place: Brooklyn, Kings, New York; Roll: 8
 4 CONC 55; Family History Film: 1254855; Page: 274B; Enumeration Di
 4 CONC strict: 231; Image: 0555
 3 OBJE @5RcxEZL7S1acoJCNttRT@
-2 SOUR @EdJbjqVNRj6fDWFU9ALa@
-3 _APID 1,7602::38291379
-3 PAGE Year: 1900; Census Place: Manhattan, New York, New York; Rol
-4 CONC l: 1108; Page: 1A; Enumeration District: 0628; FHL microfilm
-4 CONC : 1241108
-3 OBJE @TZBdR35uR7SEpcP2h87r@
-2 SOUR @ZthEJ6Y4TgCMPRbXt3Ly@
-3 _APID 1,7250::1361801241
-3 OBJE @pakH7KAJTrSbbDgfOE5u@
+3 _APID 1,6742::38681271
+2 SOUR @wctgpVPVSZ6VLXY9SuLQ@
+3 _APID 1,9131::153425
 1 SEX F
-0 @gzoNNhf8RYKTnvYzrIjw@ INDI
-1 _XY 127928 460
-1 REFN 51f56dd4-2f3a-44cc-92dd-41bbb2e5b7d0
 1 FAMC @aOiBhmKIT92YvlYL8jqI@
 1 BIRT
 2 DATE ABT DEC 1877
@@ -229,11 +238,11 @@
 4 LATI N42.7531
 4 LONG W74.2224
 2 SOUR @pbUV2aFjTeiSEopmWX0R@
-3 _APID 1,6742::38681271
 3 PAGE Year: 1880; Census Place: Brooklyn, Kings, New York; Roll: 8
 4 CONC 55; Family History Film: 1254855; Page: 274B; Enumeration Di
 4 CONC strict: 231; Image: 0555
 3 OBJE @5RcxEZL7S1acoJCNttRT@
+3 _APID 1,6742::38681271
 2 SOUR @wctgpVPVSZ6VLXY9SuLQ@
 3 _APID 1,9131::153425
 1 RESI
@@ -243,11 +252,11 @@
 4 LATI N40.65
 4 LONG W73.95
 2 SOUR @pbUV2aFjTeiSEopmWX0R@
-3 _APID 1,6742::38681271
 3 PAGE Year: 1880; Census Place: Brooklyn, Kings, New York; Roll: 8
 4 CONC 55; Family History Film: 1254855; Page: 274B; Enumeration Di
 4 CONC strict: 231; Image: 0555
 3 OBJE @5RcxEZL7S1acoJCNttRT@
+3 _APID 1,6742::38681271
 2 NOTE Marital Status: Single; Relation to Head of House: Daughter
 1 DEAT
 2 DATE 20 DEC 1880
@@ -257,36 +266,17 @@
 4 LONG W73.95
 2 SOUR @wctgpVPVSZ6VLXY9SuLQ@
 3 _APID 1,9131::153425
-1 NAME Hannah P. /Espie/
-2 SOUR @pbUV2aFjTeiSEopmWX0R@
-3 _APID 1,6742::38681271
-3 PAGE Year: 1880; Census Place: Brooklyn, Kings, New York; Roll: 8
-4 CONC 55; Family History Film: 1254855; Page: 274B; Enumeration Di
-4 CONC strict: 231; Image: 0555
-3 OBJE @5RcxEZL7S1acoJCNttRT@
-2 SOUR @wctgpVPVSZ6VLXY9SuLQ@
-3 _APID 1,9131::153425
-1 SEX F
+1 _XY 127928 460
 0 @LoNMnHZeTpKxIXCwGxSL@ INDI
-1 _XY 127759 401
 1 REFN a3abfdc9-b01b-4e45-bbb7-4e9aac3c5681
-1 FAMS @aOiBhmKIT92YvlYL8jqI@
-1 BIRT
-2 DATE AUG 1843
-2 PLAC Scotland
-3 MAP
-4 LATI N56.8397
-4 LONG W4.1906
+1 NAME James P. /Espie/
 2 SOUR @W9AF3YLISEKpgaYjMG1d@
-3 _APID 1,7163::30458001
 3 PAGE Year: 1870; Census Place: New York Ward 5 District 1 (2nd En
 4 CONC um), New York, New York; Roll: M593_1016; Page: 9B; Image: 2
 4 CONC 2; Family History Library Film: 552515
 3 OBJE @NTP1VKdRRiaQfMFtKurk@
+3 _APID 1,7163::30458001
 2 SOUR @W9AF3YLISEKpgaYjMG1d@
-3 _LINK http://search.ancestry.com/cgi-bin/sse.dll?db=1870usfedcen&h
-4 CONC =23844722&ti=0&indiv=try&gss=pt
-3 _APID 1,7163::23844722
 3 PAGE Year: 1870; Census Place: New York Ward 5 District 8, New Yo
 4 CONC rk, New York; Roll: M593_; Page: ; Image: .
 3 DATA
@@ -296,28 +286,75 @@
 5 CONT abt 1842 in Scotland
 5 CONT Death:
 3 OBJE @B3C4IA4oSamimJfmTBbk@
+3 _LINK http://search.ancestry.com/cgi-bin/sse.dll?db=1870usfedcen&h
+4 CONC =23844722&ti=0&indiv=try&gss=pt
+3 _APID 1,7163::23844722
 2 SOUR @pbUV2aFjTeiSEopmWX0R@
-3 _APID 1,6742::3199267
 3 PAGE Year: 1880; Census Place: Brooklyn, Kings, New York
 3 OBJE @5RcxEZL7S1acoJCNttRT@
+3 _APID 1,6742::3199267
 2 SOUR @EdJbjqVNRj6fDWFU9ALa@
-3 _APID 1,7602::38291376
 3 PAGE Year: 1900; Census Place: Manhattan, New York, New York; Rol
 4 CONC l: 1108; Page: 1A; Enumeration District: 0628; FHL microfilm
 4 CONC : 1241108
 3 OBJE @TZBdR35uR7SEpcP2h87r@
+3 _APID 1,7602::38291376
+2 SOUR @h7mR8oEvSuuGd4hDYmCc@
+3 _APID 1,9105::216057
 2 SOUR @ZthEJ6Y4TgCMPRbXt3Ly@
-3 _APID 1,7250::1361801238
 3 OBJE @pakH7KAJTrSbbDgfOE5u@
+3 _APID 1,7250::1361801238
+1 SEX M
+2 SOUR @W9AF3YLISEKpgaYjMG1d@
+3 _APID 1,7163::23844722
+1 FAMS @aOiBhmKIT92YvlYL8jqI@
+1 BIRT
+2 DATE AUG 1843
+2 PLAC Scotland
+3 MAP
+4 LATI N56.8397
+4 LONG W4.1906
+2 SOUR @W9AF3YLISEKpgaYjMG1d@
+3 PAGE Year: 1870; Census Place: New York Ward 5 District 1 (2nd En
+4 CONC um), New York, New York; Roll: M593_1016; Page: 9B; Image: 2
+4 CONC 2; Family History Library Film: 552515
+3 OBJE @NTP1VKdRRiaQfMFtKurk@
+3 _APID 1,7163::30458001
+2 SOUR @W9AF3YLISEKpgaYjMG1d@
+3 PAGE Year: 1870; Census Place: New York Ward 5 District 8, New Yo
+4 CONC rk, New York; Roll: M593_; Page: ; Image: .
+3 DATA
+4 TEXT Name:
+5 CONT James Eskin
+5 CONT Birth:
+5 CONT abt 1842 in Scotland
+5 CONT Death:
+3 OBJE @B3C4IA4oSamimJfmTBbk@
+3 _LINK http://search.ancestry.com/cgi-bin/sse.dll?db=1870usfedcen&h
+4 CONC =23844722&ti=0&indiv=try&gss=pt
+3 _APID 1,7163::23844722
+2 SOUR @pbUV2aFjTeiSEopmWX0R@
+3 PAGE Year: 1880; Census Place: Brooklyn, Kings, New York
+3 OBJE @5RcxEZL7S1acoJCNttRT@
+3 _APID 1,6742::3199267
+2 SOUR @EdJbjqVNRj6fDWFU9ALa@
+3 PAGE Year: 1900; Census Place: Manhattan, New York, New York; Rol
+4 CONC l: 1108; Page: 1A; Enumeration District: 0628; FHL microfilm
+4 CONC : 1241108
+3 OBJE @TZBdR35uR7SEpcP2h87r@
+3 _APID 1,7602::38291376
+2 SOUR @ZthEJ6Y4TgCMPRbXt3Ly@
+3 OBJE @pakH7KAJTrSbbDgfOE5u@
+3 _APID 1,7250::1361801238
 1 EVEN
 2 TYPE Arrival
 2 DATE 1865
 2 SOUR @EdJbjqVNRj6fDWFU9ALa@
-3 _APID 1,7602::38291376
 3 PAGE Year: 1900; Census Place: Manhattan, New York, New York; Rol
 4 CONC l: 1108; Page: 1A; Enumeration District: 0628; FHL microfilm
 4 CONC : 1241108
 3 OBJE @TZBdR35uR7SEpcP2h87r@
+3 _APID 1,7602::38291376
 1 RESI
 2 DATE 29 JUN 1870
 2 PLAC New York, New York, New York, USA
@@ -325,11 +362,11 @@
 4 LATI N40.7142
 4 LONG W74.0064
 2 SOUR @W9AF3YLISEKpgaYjMG1d@
-3 _APID 1,7163::30458001
 3 PAGE Year: 1870; Census Place: New York Ward 5 District 1 (2nd En
 4 CONC um), New York, New York; Roll: M593_1016; Page: 9B; Image: 2
 4 CONC 2; Family History Library Film: 552515
 3 OBJE @NTP1VKdRRiaQfMFtKurk@
+3 _APID 1,7163::30458001
 2 NOTE Age: 28; Census Post Office: New York City
 1 RESI
 2 DATE 01 JUN 1875
@@ -338,8 +375,8 @@
 4 LATI N40.65
 4 LONG W73.95
 2 SOUR @ZthEJ6Y4TgCMPRbXt3Ly@
-3 _APID 1,7250::1361801238
 3 OBJE @pakH7KAJTrSbbDgfOE5u@
+3 _APID 1,7250::1361801238
 2 NOTE Age: 32; Relation to Head of House: Head
 1 RESI
 2 DATE 1880
@@ -348,9 +385,9 @@
 4 LATI N40.65
 4 LONG W73.95
 2 SOUR @pbUV2aFjTeiSEopmWX0R@
-3 _APID 1,6742::3199267
 3 PAGE Year: 1880; Census Place: Brooklyn, Kings, New York
 3 OBJE @5RcxEZL7S1acoJCNttRT@
+3 _APID 1,6742::3199267
 2 NOTE Age: 36; Marital Status: Married; Relation to Head of House
 3 CONC : Self
 1 RESI
@@ -360,54 +397,37 @@
 4 LATI N40.7142
 4 LONG W74.0064
 2 SOUR @EdJbjqVNRj6fDWFU9ALa@
-3 _APID 1,7602::38291376
 3 PAGE Year: 1900; Census Place: Manhattan, New York, New York; Rol
 4 CONC l: 1108; Page: 1A; Enumeration District: 0628; FHL microfilm
 4 CONC : 1241108
 3 OBJE @TZBdR35uR7SEpcP2h87r@
+3 _APID 1,7602::38291376
 2 NOTE Age: 56; Marital Status: Married; Relation to Head of House
 3 CONC : Head
+1 _XY 127759 401
+0 @X202fl0ORy23hThb4h0O@ INDI
+1 REFN 81226c01-e8c5-461e-92a3-cfb83f225f54
 1 NAME James P. /Espie/
-2 SOUR @W9AF3YLISEKpgaYjMG1d@
-3 _APID 1,7163::30458001
-3 PAGE Year: 1870; Census Place: New York Ward 5 District 1 (2nd En
-4 CONC um), New York, New York; Roll: M593_1016; Page: 9B; Image: 2
-4 CONC 2; Family History Library Film: 552515
-3 OBJE @NTP1VKdRRiaQfMFtKurk@
-2 SOUR @W9AF3YLISEKpgaYjMG1d@
-3 _LINK http://search.ancestry.com/cgi-bin/sse.dll?db=1870usfedcen&h
-4 CONC =23844722&ti=0&indiv=try&gss=pt
-3 _APID 1,7163::23844722
-3 PAGE Year: 1870; Census Place: New York Ward 5 District 8, New Yo
-4 CONC rk, New York; Roll: M593_; Page: ; Image: .
-3 DATA
-4 TEXT Name:
-5 CONT James Eskin
-5 CONT Birth:
-5 CONT abt 1842 in Scotland
-5 CONT Death:
-3 OBJE @B3C4IA4oSamimJfmTBbk@
 2 SOUR @pbUV2aFjTeiSEopmWX0R@
-3 _APID 1,6742::3199267
 3 PAGE Year: 1880; Census Place: Brooklyn, Kings, New York
 3 OBJE @5RcxEZL7S1acoJCNttRT@
+3 _APID 1,6742::2143995
 2 SOUR @EdJbjqVNRj6fDWFU9ALa@
-3 _APID 1,7602::38291376
 3 PAGE Year: 1900; Census Place: Manhattan, New York, New York; Rol
 4 CONC l: 1108; Page: 1A; Enumeration District: 0628; FHL microfilm
 4 CONC : 1241108
 3 OBJE @TZBdR35uR7SEpcP2h87r@
-2 SOUR @h7mR8oEvSuuGd4hDYmCc@
-3 _APID 1,9105::216057
+3 _APID 1,7602::38291380
+2 SOUR @l6PP8BZJThyWv9uB7cSs@
+3 PAGE Year: 1910; Census Place: Manhattan Ward 12, New York, New Y
+4 CONC ork; Roll: T624_1025; Page: 2B; Enumeration District: 0651
+4 CONC ; FHL microfilm: 1375038
+3 OBJE @qD7YNIsoROmXLEbMqmVI@
+3 _APID 1,7884::122434409
 2 SOUR @ZthEJ6Y4TgCMPRbXt3Ly@
-3 _APID 1,7250::1361801238
 3 OBJE @pakH7KAJTrSbbDgfOE5u@
+3 _APID 1,7250::1361801242
 1 SEX M
-2 SOUR @W9AF3YLISEKpgaYjMG1d@
-3 _APID 1,7163::23844722
-0 @X202fl0ORy23hThb4h0O@ INDI
-1 _XY 127580 466
-1 REFN 81226c01-e8c5-461e-92a3-cfb83f225f54
 1 FAMC @aOiBhmKIT92YvlYL8jqI@
 1 BIRT
 2 DATE MAR 1872
@@ -416,17 +436,17 @@
 4 LATI N42.7531
 4 LONG W74.2224
 2 SOUR @EdJbjqVNRj6fDWFU9ALa@
-3 _APID 1,7602::38291380
 3 PAGE Year: 1900; Census Place: Manhattan, New York, New York; Rol
 4 CONC l: 1108; Page: 1A; Enumeration District: 0628; FHL microfilm
 4 CONC : 1241108
 3 OBJE @TZBdR35uR7SEpcP2h87r@
+3 _APID 1,7602::38291380
 2 SOUR @l6PP8BZJThyWv9uB7cSs@
-3 _APID 1,7884::122434409
 3 PAGE Year: 1910; Census Place: Manhattan Ward 12, New York, New Y
 4 CONC ork; Roll: T624_1025; Page: 2B; Enumeration District: 0651
 4 CONC ; FHL microfilm: 1375038
 3 OBJE @qD7YNIsoROmXLEbMqmVI@
+3 _APID 1,7884::122434409
 1 BIRT
 2 DATE ABT 1874
 2 PLAC New York, USA
@@ -434,8 +454,8 @@
 4 LATI N42.7531
 4 LONG W74.2224
 2 SOUR @ZthEJ6Y4TgCMPRbXt3Ly@
-3 _APID 1,7250::1361801242
 3 OBJE @pakH7KAJTrSbbDgfOE5u@
+3 _APID 1,7250::1361801242
 1 BIRT
 2 DATE MAR 1875
 2 PLAC New York, USA
@@ -443,9 +463,9 @@
 4 LATI N42.7531
 4 LONG W74.2224
 2 SOUR @pbUV2aFjTeiSEopmWX0R@
-3 _APID 1,6742::2143995
 3 PAGE Year: 1880; Census Place: Brooklyn, Kings, New York
 3 OBJE @5RcxEZL7S1acoJCNttRT@
+3 _APID 1,6742::2143995
 1 RESI
 2 DATE 01 JUN 1875
 2 PLAC Brooklyn, Kings, New York, USA
@@ -453,8 +473,8 @@
 4 LATI N40.65
 4 LONG W73.95
 2 SOUR @ZthEJ6Y4TgCMPRbXt3Ly@
-3 _APID 1,7250::1361801242
 3 OBJE @pakH7KAJTrSbbDgfOE5u@
+3 _APID 1,7250::1361801242
 2 NOTE Age: 1; Relation to Head of House: Son
 1 RESI
 2 DATE 1880
@@ -463,9 +483,9 @@
 4 LATI N40.65
 4 LONG W73.95
 2 SOUR @pbUV2aFjTeiSEopmWX0R@
-3 _APID 1,6742::2143995
 3 PAGE Year: 1880; Census Place: Brooklyn, Kings, New York
 3 OBJE @5RcxEZL7S1acoJCNttRT@
+3 _APID 1,6742::2143995
 2 NOTE Age: 5; Marital Status: Single; Relation to Head of House: S
 3 CONC on
 1 RESI
@@ -475,11 +495,11 @@
 4 LATI N40.7142
 4 LONG W74.0064
 2 SOUR @EdJbjqVNRj6fDWFU9ALa@
-3 _APID 1,7602::38291380
 3 PAGE Year: 1900; Census Place: Manhattan, New York, New York; Rol
 4 CONC l: 1108; Page: 1A; Enumeration District: 0628; FHL microfilm
 4 CONC : 1241108
 3 OBJE @TZBdR35uR7SEpcP2h87r@
+3 _APID 1,7602::38291380
 2 NOTE Age: 20; Marital Status: Single; Relation to Head of House
 3 CONC : Son
 1 RESI
@@ -489,36 +509,27 @@
 4 LATI N40.7142
 4 LONG W74.0064
 2 SOUR @l6PP8BZJThyWv9uB7cSs@
-3 _APID 1,7884::122434409
 3 PAGE Year: 1910; Census Place: Manhattan Ward 12, New York, New Y
 4 CONC ork; Roll: T624_1025; Page: 2B; Enumeration District: 0651
 4 CONC ; FHL microfilm: 1375038
 3 OBJE @qD7YNIsoROmXLEbMqmVI@
+3 _APID 1,7884::122434409
 2 NOTE Marital Status: Single; Relation to Head of House: Son
-1 NAME James P. /Espie/
+1 _XY 127580 466
+0 @iiuKwmpvQhOnR894UVVo@ INDI
+1 REFN eea6f482-5dde-4688-95da-f4e592f36476
+1 NAME Sadie E. /Espie/
 2 SOUR @pbUV2aFjTeiSEopmWX0R@
-3 _APID 1,6742::2143995
 3 PAGE Year: 1880; Census Place: Brooklyn, Kings, New York
 3 OBJE @5RcxEZL7S1acoJCNttRT@
-2 SOUR @EdJbjqVNRj6fDWFU9ALa@
-3 _APID 1,7602::38291380
-3 PAGE Year: 1900; Census Place: Manhattan, New York, New York; Rol
-4 CONC l: 1108; Page: 1A; Enumeration District: 0628; FHL microfilm
-4 CONC : 1241108
-3 OBJE @TZBdR35uR7SEpcP2h87r@
+3 _APID 1,6742::2332077
 2 SOUR @l6PP8BZJThyWv9uB7cSs@
-3 _APID 1,7884::122434409
 3 PAGE Year: 1910; Census Place: Manhattan Ward 12, New York, New Y
 4 CONC ork; Roll: T624_1025; Page: 2B; Enumeration District: 0651
 4 CONC ; FHL microfilm: 1375038
 3 OBJE @qD7YNIsoROmXLEbMqmVI@
-2 SOUR @ZthEJ6Y4TgCMPRbXt3Ly@
-3 _APID 1,7250::1361801242
-3 OBJE @pakH7KAJTrSbbDgfOE5u@
-1 SEX M
-0 @iiuKwmpvQhOnR894UVVo@ INDI
-1 _XY 127813 466
-1 REFN eea6f482-5dde-4688-95da-f4e592f36476
+3 _APID 1,7884::18885231
+1 SEX F
 1 FAMC @aOiBhmKIT92YvlYL8jqI@
 1 BIRT
 2 DATE ABT 1876
@@ -527,15 +538,15 @@
 4 LATI N42.7531
 4 LONG W74.2224
 2 SOUR @pbUV2aFjTeiSEopmWX0R@
-3 _APID 1,6742::2332077
 3 PAGE Year: 1880; Census Place: Brooklyn, Kings, New York
 3 OBJE @5RcxEZL7S1acoJCNttRT@
+3 _APID 1,6742::2332077
 2 SOUR @l6PP8BZJThyWv9uB7cSs@
-3 _APID 1,7884::18885231
 3 PAGE Year: 1910; Census Place: Manhattan Ward 12, New York, New Y
 4 CONC ork; Roll: T624_1025; Page: 2B; Enumeration District: 0651
 4 CONC ; FHL microfilm: 1375038
 3 OBJE @qD7YNIsoROmXLEbMqmVI@
+3 _APID 1,7884::18885231
 1 RESI
 2 DATE 1880
 2 PLAC Brooklyn, Kings, New York, USA
@@ -543,9 +554,9 @@
 4 LATI N40.65
 4 LONG W73.95
 2 SOUR @pbUV2aFjTeiSEopmWX0R@
-3 _APID 1,6742::2332077
 3 PAGE Year: 1880; Census Place: Brooklyn, Kings, New York
 3 OBJE @5RcxEZL7S1acoJCNttRT@
+3 _APID 1,6742::2332077
 2 NOTE Age: 4; Marital Status: Single; Relation to Head of House: D
 3 CONC aughter
 1 RESI
@@ -555,27 +566,36 @@
 4 LATI N40.7142
 4 LONG W74.0064
 2 SOUR @l6PP8BZJThyWv9uB7cSs@
-3 _APID 1,7884::18885231
 3 PAGE Year: 1910; Census Place: Manhattan Ward 12, New York, New Y
 4 CONC ork; Roll: T624_1025; Page: 2B; Enumeration District: 0651
 4 CONC ; FHL microfilm: 1375038
 3 OBJE @qD7YNIsoROmXLEbMqmVI@
+3 _APID 1,7884::18885231
 2 NOTE Marital Status: Married; Relation to Head of House: Daughter
-1 NAME Sadie E. /Espie/
+1 _XY 127813 466
+0 @UyofSV3ASkqNWVfoCeHQ@ INDI
+1 REFN 07f27b04-e579-4f89-8e9d-6c741c30a7e9
+1 NAME William /Espie/
 2 SOUR @pbUV2aFjTeiSEopmWX0R@
-3 _APID 1,6742::2332077
 3 PAGE Year: 1880; Census Place: Brooklyn, Kings, New York
 3 OBJE @5RcxEZL7S1acoJCNttRT@
+3 _APID 1,6742::2143941
+2 SOUR @EdJbjqVNRj6fDWFU9ALa@
+3 PAGE Year: 1900; Census Place: Manhattan, New York, New York; Rol
+4 CONC l: 1108; Page: 1A; Enumeration District: 0628; FHL microfilm
+4 CONC : 1241108
+3 OBJE @TZBdR35uR7SEpcP2h87r@
+3 _APID 1,7602::38291378
 2 SOUR @l6PP8BZJThyWv9uB7cSs@
-3 _APID 1,7884::18885231
 3 PAGE Year: 1910; Census Place: Manhattan Ward 12, New York, New Y
 4 CONC ork; Roll: T624_1025; Page: 2B; Enumeration District: 0651
 4 CONC ; FHL microfilm: 1375038
 3 OBJE @qD7YNIsoROmXLEbMqmVI@
-1 SEX F
-0 @UyofSV3ASkqNWVfoCeHQ@ INDI
-1 _XY 127472 466
-1 REFN 07f27b04-e579-4f89-8e9d-6c741c30a7e9
+3 _APID 1,7884::122434408
+2 SOUR @ZthEJ6Y4TgCMPRbXt3Ly@
+3 OBJE @pakH7KAJTrSbbDgfOE5u@
+3 _APID 1,7250::1361801240
+1 SEX M
 1 FAMC @aOiBhmKIT92YvlYL8jqI@
 1 BIRT
 2 DATE FEB 1868
@@ -584,17 +604,17 @@
 4 LATI N42.7531
 4 LONG W74.2224
 2 SOUR @EdJbjqVNRj6fDWFU9ALa@
-3 _APID 1,7602::38291378
 3 PAGE Year: 1900; Census Place: Manhattan, New York, New York; Rol
 4 CONC l: 1108; Page: 1A; Enumeration District: 0628; FHL microfilm
 4 CONC : 1241108
 3 OBJE @TZBdR35uR7SEpcP2h87r@
+3 _APID 1,7602::38291378
 2 SOUR @l6PP8BZJThyWv9uB7cSs@
-3 _APID 1,7884::122434408
 3 PAGE Year: 1910; Census Place: Manhattan Ward 12, New York, New Y
 4 CONC ork; Roll: T624_1025; Page: 2B; Enumeration District: 0651
 4 CONC ; FHL microfilm: 1375038
 3 OBJE @qD7YNIsoROmXLEbMqmVI@
+3 _APID 1,7884::122434408
 1 BIRT
 2 DATE FEB 1871
 2 PLAC New York, USA
@@ -602,9 +622,9 @@
 4 LATI N42.7531
 4 LONG W74.2224
 2 SOUR @pbUV2aFjTeiSEopmWX0R@
-3 _APID 1,6742::2143941
 3 PAGE Year: 1880; Census Place: Brooklyn, Kings, New York
 3 OBJE @5RcxEZL7S1acoJCNttRT@
+3 _APID 1,6742::2143941
 1 BIRT
 2 DATE ABT 1871
 2 PLAC New York, USA
@@ -612,8 +632,8 @@
 4 LATI N42.7531
 4 LONG W74.2224
 2 SOUR @ZthEJ6Y4TgCMPRbXt3Ly@
-3 _APID 1,7250::1361801240
 3 OBJE @pakH7KAJTrSbbDgfOE5u@
+3 _APID 1,7250::1361801240
 1 RESI
 2 DATE 01 JUN 1875
 2 PLAC Brooklyn, Kings, New York, USA
@@ -621,8 +641,8 @@
 4 LATI N40.65
 4 LONG W73.95
 2 SOUR @ZthEJ6Y4TgCMPRbXt3Ly@
-3 _APID 1,7250::1361801240
 3 OBJE @pakH7KAJTrSbbDgfOE5u@
+3 _APID 1,7250::1361801240
 2 NOTE Age: 4; Relation to Head of House: Son
 1 RESI
 2 DATE 1880
@@ -631,9 +651,9 @@
 4 LATI N40.65
 4 LONG W73.95
 2 SOUR @pbUV2aFjTeiSEopmWX0R@
-3 _APID 1,6742::2143941
 3 PAGE Year: 1880; Census Place: Brooklyn, Kings, New York
 3 OBJE @5RcxEZL7S1acoJCNttRT@
+3 _APID 1,6742::2143941
 2 NOTE Age: 9; Marital Status: Single; Relation to Head of House: S
 3 CONC on
 1 RESI
@@ -643,11 +663,11 @@
 4 LATI N40.7142
 4 LONG W74.0064
 2 SOUR @EdJbjqVNRj6fDWFU9ALa@
-3 _APID 1,7602::38291378
 3 PAGE Year: 1900; Census Place: Manhattan, New York, New York; Rol
 4 CONC l: 1108; Page: 1A; Enumeration District: 0628; FHL microfilm
 4 CONC : 1241108
 3 OBJE @TZBdR35uR7SEpcP2h87r@
+3 _APID 1,7602::38291378
 2 NOTE Age: 32; Marital Status: Single; Relation to Head of House
 3 CONC : Son
 1 RESI
@@ -657,114 +677,111 @@
 4 LATI N40.7142
 4 LONG W74.0064
 2 SOUR @l6PP8BZJThyWv9uB7cSs@
-3 _APID 1,7884::122434408
 3 PAGE Year: 1910; Census Place: Manhattan Ward 12, New York, New Y
 4 CONC ork; Roll: T624_1025; Page: 2B; Enumeration District: 0651
 4 CONC ; FHL microfilm: 1375038
 3 OBJE @qD7YNIsoROmXLEbMqmVI@
+3 _APID 1,7884::122434408
 2 NOTE Marital Status: Single; Relation to Head of House: Son
-1 NAME William /Espie/
-2 SOUR @pbUV2aFjTeiSEopmWX0R@
-3 _APID 1,6742::2143941
-3 PAGE Year: 1880; Census Place: Brooklyn, Kings, New York
-3 OBJE @5RcxEZL7S1acoJCNttRT@
-2 SOUR @EdJbjqVNRj6fDWFU9ALa@
-3 _APID 1,7602::38291378
-3 PAGE Year: 1900; Census Place: Manhattan, New York, New York; Rol
-4 CONC l: 1108; Page: 1A; Enumeration District: 0628; FHL microfilm
-4 CONC : 1241108
-3 OBJE @TZBdR35uR7SEpcP2h87r@
-2 SOUR @l6PP8BZJThyWv9uB7cSs@
-3 _APID 1,7884::122434408
-3 PAGE Year: 1910; Census Place: Manhattan Ward 12, New York, New Y
-4 CONC ork; Roll: T624_1025; Page: 2B; Enumeration District: 0651
-4 CONC ; FHL microfilm: 1375038
-3 OBJE @qD7YNIsoROmXLEbMqmVI@
-2 SOUR @ZthEJ6Y4TgCMPRbXt3Ly@
-3 _APID 1,7250::1361801240
-3 OBJE @pakH7KAJTrSbbDgfOE5u@
-1 SEX M
+1 _XY 127472 466
 0 @XBCnfaSBQgm33Moscz78@ INDI
-1 _XY 126662 472
 1 REFN af120638-1204-4b7f-8989-42c4f20da3ac
+1 NAME Elijah Eugene /Flandreau/
+1 SEX M
 1 FAMC @6B9BDUpTRoCHtTBEoKjL@
 1 BIRT
 2 DATE 25 JUN 1874
 1 DEAT
 2 DATE 08 DEC 1958
-1 NAME Elijah Eugene /Flandreau/
-1 SEX M
+1 _XY 126662 472
 0 @7lrYV30NSS6xeWqqDZWD@ INDI
-1 _XY 126511 396
 1 REFN ca01f114-bd57-4cee-87b1-e88979f6541a
+1 NAME Elijah Potter /Flandreau/
+1 SEX M
 1 FAMS @6B9BDUpTRoCHtTBEoKjL@
 1 BIRT
 2 DATE 30 MAR 1829
 1 DEAT
 2 DATE 21 JUN 1906
-1 NAME Elijah Potter /Flandreau/
-1 SEX M
+1 _XY 126511 396
 0 @cipYfiOQQ5qbVMeHhg3c@ INDI
-1 _XY 126060 472
 1 REFN ff6e9269-833c-4a59-8440-c0e84ffbe8cf
+1 NAME Jane H. /Flandreau/
+1 SEX F
 1 FAMC @6B9BDUpTRoCHtTBEoKjL@
 1 BIRT
 2 DATE 05 NOV 1859
 1 DEAT
 2 DATE 06 NOV 1859
-1 NAME Jane H. /Flandreau/
-1 SEX F
+1 _XY 126060 472
 0 @pMGxmXFzTVC4gqHFjdSP@ INDI
-1 _XY 126358 472
 1 REFN 9bbe1eba-7c5f-4bbf-9e7b-6642722bc24b
+1 NAME Lola Potter /Flandreau/
+1 SEX F
 1 FAMC @6B9BDUpTRoCHtTBEoKjL@
 1 BIRT
 2 DATE 21 FEB 1866
 1 DEAT
 2 DATE 17 JAN 1933
-1 NAME Lola Potter /Flandreau/
-1 SEX F
+1 _XY 126358 472
 0 @W3JK7ANaS7yAz5chEO9J@ INDI
-1 _XY 126500 472
 1 REFN 7134ecf3-55b2-48ec-95ac-03f4e46ab3e7
+1 NAME Mamie H. /Flandreau/
+1 SEX F
 1 FAMC @6B9BDUpTRoCHtTBEoKjL@
 1 BIRT
 2 DATE BET 28 JUL 1870 AND 27 JUL 1871
 1 DEAT
 2 DATE 27 JUL 1895
-1 NAME Mamie H. /Flandreau/
-1 SEX F
+1 _XY 126500 472
 0 @2L0oZIlHTaijJ4iI4uuZ@ INDI
-1 _XY 126186 472
 1 REFN a3da818b-40b6-4bfa-ba0d-5b4f17cdcd1a
+1 NAME Mary Ann /Flandreau/
+1 SEX F
 1 FAMC @6B9BDUpTRoCHtTBEoKjL@
 1 BIRT
 2 DATE BET 09 JUN 1862 AND 08 JUN 1863
 1 DEAT
 2 DATE 08 JUN 1933
-1 NAME Mary Ann /Flandreau/
-1 SEX F
+1 _XY 126186 472
 0 @3Wddn7ayRAawN8yK3zff@ INDI
-1 _XY 125734 472
 1 REFN 21ae9b2a-ec7b-474d-9368-e4ef05d9de82
+1 NAME Susan Rachel Augusta /Flandreau/
+1 SEX F
 1 FAMC @6B9BDUpTRoCHtTBEoKjL@
 1 BIRT
 2 DATE 02 JUN 1855
-1 NAME Susan Rachel Augusta /Flandreau/
-1 SEX F
+1 _XY 125734 472
 0 @TaXob0RDRFSEjwDx87QJ@ INDI
-1 _XY 125878 472
 1 REFN 21a095f8-b930-4297-ab00-214b4547e400
+1 NAME William P. /Flandreau/
+1 SEX M
 1 FAMC @6B9BDUpTRoCHtTBEoKjL@
 1 BIRT
 2 DATE BET 27 SEP 1857 AND 26 SEP 1858
 1 DEAT
 2 DATE 26 SEP 1865
-1 NAME William P. /Flandreau/
-1 SEX M
+1 _XY 125878 472
 0 @honIWYd2R0azFRUmanUO@ INDI
-1 _XY 127485 199
 1 REFN 1dd05b73-3a2e-466b-8ca9-67bebf9cce05
+1 NAME Mary /Johnson/
+2 SOUR @S50@
+3 PAGE Year: 1850; Census Place: Jackson, Ocean, New Jersey; Roll
+4 CONC : M432_460; Page: 21B; Image: 50
+3 OBJE @M55@
+3 _APID 1,8054::4560117
+2 SOUR @S51@
+3 PAGE Year: 1860; Census Place: Jackson, Ocean, New Jersey; Roll
+4 CONC : M653_705; Page: 53; Family History Library Film: 803705
+3 OBJE @M56@
+3 _APID 1,7667::54450067
+2 SOUR @S54@
+3 _APID 1,2539::1090579
+2 SOUR @S53@
+3 _APID 1,3562::19043103
+2 SOUR @S52@
+3 _APID 1,60525::139173436
+1 SEX F
 1 FAMS @XiO1ncXwQdKoeY0F7J5V@
 1 BIRT
 2 DATE 23 MAY 1778
@@ -773,15 +790,15 @@
 4 LATI N40.1365
 4 LONG W73.2613
 2 SOUR @S50@
-3 _APID 1,8054::4560117
 3 PAGE Year: 1850; Census Place: Jackson, Ocean, New Jersey; Roll
 4 CONC : M432_460; Page: 21B; Image: 50
 3 OBJE @M55@
+3 _APID 1,8054::4560117
 2 SOUR @S51@
-3 _APID 1,7667::54450067
 3 PAGE Year: 1860; Census Place: Jackson, Ocean, New Jersey; Roll
 4 CONC : M653_705; Page: 53; Family History Library Film: 803705
 3 OBJE @M56@
+3 _APID 1,7667::54450067
 2 SOUR @S54@
 3 _APID 1,2539::1090579
 2 SOUR @S52@
@@ -793,10 +810,10 @@
 4 LATI N39.7765
 4 LONG W74.8624
 2 SOUR @S50@
-3 _APID 1,8054::4560117
 3 PAGE Year: 1850; Census Place: Jackson, Ocean, New Jersey; Roll
 4 CONC : M432_460; Page: 21B; Image: 50
 3 OBJE @M55@
+3 _APID 1,8054::4560117
 1 RESI
 2 DATE 1860
 2 PLAC Jackson, Ocean, New Jersey, USA
@@ -804,10 +821,10 @@
 4 LATI N39.7765
 4 LONG W74.8624
 2 SOUR @S51@
-3 _APID 1,7667::54450067
 3 PAGE Year: 1860; Census Place: Jackson, Ocean, New Jersey; Roll
 4 CONC : M653_705; Page: 53; Family History Library Film: 803705
 3 OBJE @M56@
+3 _APID 1,7667::54450067
 2 SOUR @S53@
 3 _APID 1,3562::19043103
 2 NOTE Residence Post Office: Jacksons Mills
@@ -815,31 +832,70 @@
 2 DATE 25 JAN 1865
 2 SOUR @S52@
 3 _APID 1,60525::139173436
-1 NAME Mary /Johnson/
-2 SOUR @S50@
-3 _APID 1,8054::4560117
-3 PAGE Year: 1850; Census Place: Jackson, Ocean, New Jersey; Roll
-4 CONC : M432_460; Page: 21B; Image: 50
-3 OBJE @M55@
-2 SOUR @S51@
-3 _APID 1,7667::54450067
-3 PAGE Year: 1860; Census Place: Jackson, Ocean, New Jersey; Roll
-4 CONC : M653_705; Page: 53; Family History Library Film: 803705
-3 OBJE @M56@
-2 SOUR @S54@
-3 _APID 1,2539::1090579
-2 SOUR @S53@
-3 _APID 1,3562::19043103
-2 SOUR @S52@
-3 _APID 1,60525::139173436
-1 SEX F
 1 BURI
 2 PLAC Harmony Methodist Cemetery, Jackson, Ocean, New Jersey, USA
 2 SOUR @S52@
 3 _APID 1,60525::139173436
+1 _XY 127485 199
 0 @r0UKkBBbSqGZTU9Ake4I@ INDI
-1 _XY 127081 396
 1 REFN 51f1bb30-87f2-4cc6-a307-cbe48f3d54bc
+1 NAME Alfred S. /Pettit/
+2 SOUR @S50@
+3 PAGE Year: 1850; Census Place: New York Ward 5, New York, New Yor
+4 CONC k; Roll: M432_537; Page: 223B; Image: 453
+3 OBJE @SqI9wtDvSHm9MKMWhYeI@
+3 _APID 1,8054::7247465
+2 SOUR @S51@
+3 PAGE Year: 1860; Census Place: New York Ward 5 District 1, New Yo
+4 CONC rk, New York; Roll: M653_790; Page: 219; Image: 63; Family H
+4 CONC istory Library Film: 803790
+3 OBJE @dHNmDYPCTC6UfuPUfrO1@
+3 _APID 1,7667::46919141
+2 SOUR @W9AF3YLISEKpgaYjMG1d@
+3 PAGE Year: 1870; Census Place: New York Ward 5 District 1 (2nd En
+4 CONC um), New York, New York; Roll: M593_1016; Page: 9B; Image: 2
+4 CONC 2; Family History Library Film: 552515
+3 OBJE @NTP1VKdRRiaQfMFtKurk@
+3 _APID 1,7163::30457996
+2 SOUR @W9AF3YLISEKpgaYjMG1d@
+3 PAGE Year: 1870; Census Place: New York Ward 5 District 8, New Yo
+4 CONC rk, New York; Roll: M593_977; Page: 203B; Image: 410; Famil
+4 CONC y History Library Film: 552476
+3 OBJE @XaYb2BEXQN6DvbKZ9LeU@
+3 _APID 1,7163::33593655
+2 SOUR @EdJbjqVNRj6fDWFU9ALa@
+3 PAGE Year: 1900; Census Place: Manhattan, New York, New York; Rol
+4 CONC l: 1082; Page: 14B; Enumeration District: 0057; FHL microfil
+4 CONC m: 1241082
+3 OBJE @7y7QRDjzRuWB3DDvauhy@
+3 _APID 1,7602::32480041
+2 SOUR @l6PP8BZJThyWv9uB7cSs@
+3 PAGE Year: 1910; Census Place: Manhattan Ward 9, New York, New Yo
+4 CONC rk; Roll: T624_1006; Page: 13B; Enumeration District: 0150
+4 CONC ; FHL microfilm: 1375019
+3 OBJE @Kh0paScySx2nUhUWwmni@
+3 _APID 1,7884::18538966
+2 SOUR @gnFo1KqTStqpaYqdjblr@
+3 OBJE @eD0G6WJUSrKLVWP1q8kN@
+3 _APID 1,7181::1653641781
+2 SOUR @fwKRctQFSg2nur19Sswv@
+3 OBJE @h5o0ovTHRfiCoRdCE3Hk@
+3 _APID 1,3212::3009456
+2 SOUR @oQd0R3bRTem78scc0gHn@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1905; Election District: A.D. 05 E.D. 01
+4 CONC ; City: Manhattan; County: New York; Page: 36
+3 OBJE @SuIRvEAXRPa6yfiAB6nj@
+3 _APID 1,7364::2649569
+2 SOUR @sFiPg9F8Q9iRUVjVOSKZ@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1915; Election District: 03; Assembly Di
+4 CONC strict: 25; City: New York; County: New York; Page: 28
+3 OBJE @4dqN2EaNQxqq5mbZfw6n@
+3 _APID 1,2703::4890459
+2 SOUR @P4FI9iQlTluD8w3Q3AsZ@
+3 _APID 1,70609::2456121
+1 SEX M
 1 FAMC @ztkA7rtfSwW4leD24XfB@
 1 FAMS @x0B3LEuES0uhyTCskGFt@
 1 BIRT
@@ -849,58 +905,58 @@
 4 LATI N42.7531
 4 LONG W74.2224
 2 SOUR @S50@
-3 _APID 1,8054::7247465
 3 PAGE Year: 1850; Census Place: New York Ward 5, New York, New Yor
 4 CONC k; Roll: M432_537; Page: 223B; Image: 453
 3 OBJE @SqI9wtDvSHm9MKMWhYeI@
+3 _APID 1,8054::7247465
 2 SOUR @S51@
-3 _APID 1,7667::46919141
 3 PAGE Year: 1860; Census Place: New York Ward 5 District 1, New Yo
 4 CONC rk, New York; Roll: M653_790; Page: 219; Image: 63; Family H
 4 CONC istory Library Film: 803790
 3 OBJE @dHNmDYPCTC6UfuPUfrO1@
+3 _APID 1,7667::46919141
 2 SOUR @W9AF3YLISEKpgaYjMG1d@
-3 _APID 1,7163::30457996
 3 PAGE Year: 1870; Census Place: New York Ward 5 District 1 (2nd En
 4 CONC um), New York, New York; Roll: M593_1016; Page: 9B; Image: 2
 4 CONC 2; Family History Library Film: 552515
 3 OBJE @NTP1VKdRRiaQfMFtKurk@
+3 _APID 1,7163::30457996
 2 SOUR @W9AF3YLISEKpgaYjMG1d@
-3 _APID 1,7163::33593655
 3 PAGE Year: 1870; Census Place: New York Ward 5 District 8, New Yo
 4 CONC rk, New York; Roll: M593_977; Page: 203B; Image: 410; Famil
 4 CONC y History Library Film: 552476
 3 OBJE @XaYb2BEXQN6DvbKZ9LeU@
+3 _APID 1,7163::33593655
 2 SOUR @EdJbjqVNRj6fDWFU9ALa@
-3 _APID 1,7602::32480041
 3 PAGE Year: 1900; Census Place: Manhattan, New York, New York; Rol
 4 CONC l: 1082; Page: 14B; Enumeration District: 0057; FHL microfil
 4 CONC m: 1241082
 3 OBJE @7y7QRDjzRuWB3DDvauhy@
+3 _APID 1,7602::32480041
 2 SOUR @l6PP8BZJThyWv9uB7cSs@
-3 _APID 1,7884::18538966
 3 PAGE Year: 1910; Census Place: Manhattan Ward 9, New York, New Yo
 4 CONC rk; Roll: T624_1006; Page: 13B; Enumeration District: 0150
 4 CONC ; FHL microfilm: 1375019
 3 OBJE @Kh0paScySx2nUhUWwmni@
+3 _APID 1,7884::18538966
 2 SOUR @gnFo1KqTStqpaYqdjblr@
-3 _APID 1,7181::1653641781
 3 OBJE @eD0G6WJUSrKLVWP1q8kN@
+3 _APID 1,7181::1653641781
 2 SOUR @fwKRctQFSg2nur19Sswv@
-3 _APID 1,3212::3009456
 3 OBJE @h5o0ovTHRfiCoRdCE3Hk@
+3 _APID 1,3212::3009456
 2 SOUR @oQd0R3bRTem78scc0gHn@
-3 _APID 1,7364::2649569
 3 PAGE New York State Archives; Albany, New York; State Populatio
 4 CONC n Census Schedules, 1905; Election District: A.D. 05 E.D. 01
 4 CONC ; City: Manhattan; County: New York; Page: 36
 3 OBJE @SuIRvEAXRPa6yfiAB6nj@
+3 _APID 1,7364::2649569
 2 SOUR @sFiPg9F8Q9iRUVjVOSKZ@
-3 _APID 1,2703::4890459
 3 PAGE New York State Archives; Albany, New York; State Populatio
 4 CONC n Census Schedules, 1915; Election District: 03; Assembly Di
 4 CONC strict: 25; City: New York; County: New York; Page: 28
 3 OBJE @4dqN2EaNQxqq5mbZfw6n@
+3 _APID 1,2703::4890459
 2 SOUR @P4FI9iQlTluD8w3Q3AsZ@
 3 _APID 1,70609::2456121
 1 RESI
@@ -910,10 +966,10 @@
 4 LATI N40.7142
 4 LONG W74.0064
 2 SOUR @S50@
-3 _APID 1,8054::7247465
 3 PAGE Year: 1850; Census Place: New York Ward 5, New York, New Yor
 4 CONC k; Roll: M432_537; Page: 223B; Image: 453
 3 OBJE @SqI9wtDvSHm9MKMWhYeI@
+3 _APID 1,8054::7247465
 1 RESI
 2 DATE 1855
 2 PLAC New York, New York, New York, USA
@@ -921,8 +977,8 @@
 4 LATI N40.7142
 4 LONG W74.0064
 2 SOUR @gnFo1KqTStqpaYqdjblr@
-3 _APID 1,7181::1653641781
 3 OBJE @eD0G6WJUSrKLVWP1q8kN@
+3 _APID 1,7181::1653641781
 2 NOTE Age: 11; Relation to Head of House: Child
 1 RESI
 2 DATE 1860
@@ -931,11 +987,11 @@
 4 LATI N40.7142
 4 LONG W74.0064
 2 SOUR @S51@
-3 _APID 1,7667::46919141
 3 PAGE Year: 1860; Census Place: New York Ward 5 District 1, New Yo
 4 CONC rk, New York; Roll: M653_790; Page: 219; Image: 63; Family H
 4 CONC istory Library Film: 803790
 3 OBJE @dHNmDYPCTC6UfuPUfrO1@
+3 _APID 1,7667::46919141
 1 RESI
 2 DATE 29 JUN 1870
 2 PLAC New York, New York, New York, USA
@@ -943,21 +999,21 @@
 4 LATI N40.7142
 4 LONG W74.0064
 2 SOUR @W9AF3YLISEKpgaYjMG1d@
-3 _APID 1,7163::33593655
 3 PAGE Year: 1870; Census Place: New York Ward 5 District 8, New Yo
 4 CONC rk, New York; Roll: M593_977; Page: 203B; Image: 410; Famil
 4 CONC y History Library Film: 552476
 3 OBJE @XaYb2BEXQN6DvbKZ9LeU@
+3 _APID 1,7163::33593655
 2 NOTE Age: 25; Census Post Office: New York City
 1 RESI
 2 DATE 21 DEC 1870
 2 PLAC 476 Greenwich Street, New York, New York, New York, USA
 2 SOUR @W9AF3YLISEKpgaYjMG1d@
-3 _APID 1,7163::30457996
 3 PAGE Year: 1870; Census Place: New York Ward 5 District 1 (2nd En
 4 CONC um), New York, New York; Roll: M593_1016; Page: 9B; Image: 2
 4 CONC 2; Family History Library Film: 552515
 3 OBJE @NTP1VKdRRiaQfMFtKurk@
+3 _APID 1,7163::30457996
 2 NOTE Age: 26; Census Post Office: New York City
 1 RESI
 2 DATE 1892
@@ -966,8 +1022,8 @@
 4 LATI N40.7364
 4 LONG W73.8783
 2 SOUR @fwKRctQFSg2nur19Sswv@
-3 _APID 1,3212::3009456
 3 OBJE @h5o0ovTHRfiCoRdCE3Hk@
+3 _APID 1,3212::3009456
 1 RESI
 2 DATE 1900
 2 PLAC New York, New York, New York, USA
@@ -975,11 +1031,11 @@
 4 LATI N40.7142
 4 LONG W74.0064
 2 SOUR @EdJbjqVNRj6fDWFU9ALa@
-3 _APID 1,7602::32480041
 3 PAGE Year: 1900; Census Place: Manhattan, New York, New York; Rol
 4 CONC l: 1082; Page: 14B; Enumeration District: 0057; FHL microfil
 4 CONC m: 1241082
 3 OBJE @7y7QRDjzRuWB3DDvauhy@
+3 _APID 1,7602::32480041
 2 NOTE Age: 55; Marital Status: Married; Relation to Head of House
 3 CONC : Head
 1 RESI
@@ -989,11 +1045,11 @@
 4 LATI N40.7834
 4 LONG W73.9663
 2 SOUR @oQd0R3bRTem78scc0gHn@
-3 _APID 1,7364::2649569
 3 PAGE New York State Archives; Albany, New York; State Populatio
 4 CONC n Census Schedules, 1905; Election District: A.D. 05 E.D. 01
 4 CONC ; City: Manhattan; County: New York; Page: 36
 3 OBJE @SuIRvEAXRPa6yfiAB6nj@
+3 _APID 1,7364::2649569
 2 NOTE Relation to Head of House: Head
 1 RESI
 2 DATE 1910
@@ -1002,11 +1058,11 @@
 4 LATI N40.7142
 4 LONG W74.0064
 2 SOUR @l6PP8BZJThyWv9uB7cSs@
-3 _APID 1,7884::18538966
 3 PAGE Year: 1910; Census Place: Manhattan Ward 9, New York, New Yo
 4 CONC rk; Roll: T624_1006; Page: 13B; Enumeration District: 0150
 4 CONC ; FHL microfilm: 1375019
 3 OBJE @Kh0paScySx2nUhUWwmni@
+3 _APID 1,7884::18538966
 2 NOTE Age: 65; Marital Status: Married; Relation to Head of House
 3 CONC : Head
 1 RESI
@@ -1016,73 +1072,16 @@
 4 LATI N40.7142
 4 LONG W74.0064
 2 SOUR @sFiPg9F8Q9iRUVjVOSKZ@
-3 _APID 1,2703::4890459
 3 PAGE New York State Archives; Albany, New York; State Populatio
 4 CONC n Census Schedules, 1915; Election District: 03; Assembly Di
 4 CONC strict: 25; City: New York; County: New York; Page: 28
 3 OBJE @4dqN2EaNQxqq5mbZfw6n@
+3 _APID 1,2703::4890459
 2 NOTE Age: 70; Relation to Head of House: Head
 1 DEAT
 2 DATE 1916
 2 SOUR @P4FI9iQlTluD8w3Q3AsZ@
 3 _APID 1,70609::2456121
-1 NAME Alfred S. /Pettit/
-2 SOUR @S50@
-3 _APID 1,8054::7247465
-3 PAGE Year: 1850; Census Place: New York Ward 5, New York, New Yor
-4 CONC k; Roll: M432_537; Page: 223B; Image: 453
-3 OBJE @SqI9wtDvSHm9MKMWhYeI@
-2 SOUR @S51@
-3 _APID 1,7667::46919141
-3 PAGE Year: 1860; Census Place: New York Ward 5 District 1, New Yo
-4 CONC rk, New York; Roll: M653_790; Page: 219; Image: 63; Family H
-4 CONC istory Library Film: 803790
-3 OBJE @dHNmDYPCTC6UfuPUfrO1@
-2 SOUR @W9AF3YLISEKpgaYjMG1d@
-3 _APID 1,7163::30457996
-3 PAGE Year: 1870; Census Place: New York Ward 5 District 1 (2nd En
-4 CONC um), New York, New York; Roll: M593_1016; Page: 9B; Image: 2
-4 CONC 2; Family History Library Film: 552515
-3 OBJE @NTP1VKdRRiaQfMFtKurk@
-2 SOUR @W9AF3YLISEKpgaYjMG1d@
-3 _APID 1,7163::33593655
-3 PAGE Year: 1870; Census Place: New York Ward 5 District 8, New Yo
-4 CONC rk, New York; Roll: M593_977; Page: 203B; Image: 410; Famil
-4 CONC y History Library Film: 552476
-3 OBJE @XaYb2BEXQN6DvbKZ9LeU@
-2 SOUR @EdJbjqVNRj6fDWFU9ALa@
-3 _APID 1,7602::32480041
-3 PAGE Year: 1900; Census Place: Manhattan, New York, New York; Rol
-4 CONC l: 1082; Page: 14B; Enumeration District: 0057; FHL microfil
-4 CONC m: 1241082
-3 OBJE @7y7QRDjzRuWB3DDvauhy@
-2 SOUR @l6PP8BZJThyWv9uB7cSs@
-3 _APID 1,7884::18538966
-3 PAGE Year: 1910; Census Place: Manhattan Ward 9, New York, New Yo
-4 CONC rk; Roll: T624_1006; Page: 13B; Enumeration District: 0150
-4 CONC ; FHL microfilm: 1375019
-3 OBJE @Kh0paScySx2nUhUWwmni@
-2 SOUR @gnFo1KqTStqpaYqdjblr@
-3 _APID 1,7181::1653641781
-3 OBJE @eD0G6WJUSrKLVWP1q8kN@
-2 SOUR @fwKRctQFSg2nur19Sswv@
-3 _APID 1,3212::3009456
-3 OBJE @h5o0ovTHRfiCoRdCE3Hk@
-2 SOUR @oQd0R3bRTem78scc0gHn@
-3 _APID 1,7364::2649569
-3 PAGE New York State Archives; Albany, New York; State Populatio
-4 CONC n Census Schedules, 1905; Election District: A.D. 05 E.D. 01
-4 CONC ; City: Manhattan; County: New York; Page: 36
-3 OBJE @SuIRvEAXRPa6yfiAB6nj@
-2 SOUR @sFiPg9F8Q9iRUVjVOSKZ@
-3 _APID 1,2703::4890459
-3 PAGE New York State Archives; Albany, New York; State Populatio
-4 CONC n Census Schedules, 1915; Election District: 03; Assembly Di
-4 CONC strict: 25; City: New York; County: New York; Page: 28
-3 OBJE @4dqN2EaNQxqq5mbZfw6n@
-2 SOUR @P4FI9iQlTluD8w3Q3AsZ@
-3 _APID 1,70609::2456121
-1 SEX M
 1 BURI
 2 PLAC Freehold, Monmouth, New Jersey, USA
 3 MAP
@@ -1090,9 +1089,40 @@
 4 LONG W74.2738
 2 SOUR @P4FI9iQlTluD8w3Q3AsZ@
 3 _APID 1,70609::2456121
+1 _XY 127081 396
 0 @gAIU57v5SGGC5TUWRYLY@ INDI
-1 _XY 127196 502
 1 REFN c6031eed-629d-41b8-9d70-1f08f862c22d
+1 NAME Authur S. /Pettit/
+2 SOUR @EdJbjqVNRj6fDWFU9ALa@
+3 PAGE Year: 1900; Census Place: Manhattan, New York, New York; Rol
+4 CONC l: 1082; Page: 14B; Enumeration District: 0057; FHL microfil
+4 CONC m: 1241082
+3 OBJE @7y7QRDjzRuWB3DDvauhy@
+3 _APID 1,7602::32480046
+2 SOUR @l6PP8BZJThyWv9uB7cSs@
+3 PAGE Year: 1910; Census Place: Manhattan Ward 9, New York, New Yo
+4 CONC rk; Roll: T624_1006; Page: 13B; Enumeration District: 0150
+4 CONC ; FHL microfilm: 1375019
+3 OBJE @Kh0paScySx2nUhUWwmni@
+3 _APID 1,7884::106440828
+2 SOUR @oQd0R3bRTem78scc0gHn@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1905; Election District: A.D. 05 E.D. 01
+4 CONC ; City: Manhattan; County: New York; Page: 36
+3 OBJE @SuIRvEAXRPa6yfiAB6nj@
+3 _APID 1,7364::2901603
+2 SOUR @sFiPg9F8Q9iRUVjVOSKZ@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1915; Election District: 03; Assembly Di
+4 CONC strict: 25; City: New York; County: New York; Page: 28
+3 OBJE @4dqN2EaNQxqq5mbZfw6n@
+3 _APID 1,2703::4890464
+2 SOUR @ZbUH01heT5CeazoqWbzR@
+3 PAGE Registration State: New York; Registration County: New York
+4 CONC ; Roll: 1786814; Draft Board: 153
+3 OBJE @XezAJP94Rd2uIXVVBZuf@
+3 _APID 1,6482::15150890
+1 SEX M
 1 FAMC @x0B3LEuES0uhyTCskGFt@
 1 BIRT
 2 DATE 07 AUG 1892
@@ -1101,34 +1131,34 @@
 4 LATI N42.7531
 4 LONG W74.2224
 2 SOUR @EdJbjqVNRj6fDWFU9ALa@
-3 _APID 1,7602::32480046
 3 PAGE Year: 1900; Census Place: Manhattan, New York, New York; Rol
 4 CONC l: 1082; Page: 14B; Enumeration District: 0057; FHL microfil
 4 CONC m: 1241082
 3 OBJE @7y7QRDjzRuWB3DDvauhy@
+3 _APID 1,7602::32480046
 2 SOUR @l6PP8BZJThyWv9uB7cSs@
-3 _APID 1,7884::106440828
 3 PAGE Year: 1910; Census Place: Manhattan Ward 9, New York, New Yo
 4 CONC rk; Roll: T624_1006; Page: 13B; Enumeration District: 0150
 4 CONC ; FHL microfilm: 1375019
 3 OBJE @Kh0paScySx2nUhUWwmni@
+3 _APID 1,7884::106440828
 2 SOUR @oQd0R3bRTem78scc0gHn@
-3 _APID 1,7364::2901603
 3 PAGE New York State Archives; Albany, New York; State Populatio
 4 CONC n Census Schedules, 1905; Election District: A.D. 05 E.D. 01
 4 CONC ; City: Manhattan; County: New York; Page: 36
 3 OBJE @SuIRvEAXRPa6yfiAB6nj@
+3 _APID 1,7364::2901603
 2 SOUR @sFiPg9F8Q9iRUVjVOSKZ@
-3 _APID 1,2703::4890464
 3 PAGE New York State Archives; Albany, New York; State Populatio
 4 CONC n Census Schedules, 1915; Election District: 03; Assembly Di
 4 CONC strict: 25; City: New York; County: New York; Page: 28
 3 OBJE @4dqN2EaNQxqq5mbZfw6n@
+3 _APID 1,2703::4890464
 2 SOUR @ZbUH01heT5CeazoqWbzR@
-3 _APID 1,6482::15150890
 3 PAGE Registration State: New York; Registration County: New York
 4 CONC ; Roll: 1786814; Draft Board: 153
 3 OBJE @XezAJP94Rd2uIXVVBZuf@
+3 _APID 1,6482::15150890
 1 RESI
 2 DATE 1900
 2 PLAC New York, New York, New York, USA
@@ -1136,11 +1166,11 @@
 4 LATI N40.7142
 4 LONG W74.0064
 2 SOUR @EdJbjqVNRj6fDWFU9ALa@
-3 _APID 1,7602::32480046
 3 PAGE Year: 1900; Census Place: Manhattan, New York, New York; Rol
 4 CONC l: 1082; Page: 14B; Enumeration District: 0057; FHL microfil
 4 CONC m: 1241082
 3 OBJE @7y7QRDjzRuWB3DDvauhy@
+3 _APID 1,7602::32480046
 2 NOTE Age: 7; Marital Status: Single; Relation to Head of House: S
 3 CONC on
 1 RESI
@@ -1150,11 +1180,11 @@
 4 LATI N40.7834
 4 LONG W73.9663
 2 SOUR @oQd0R3bRTem78scc0gHn@
-3 _APID 1,7364::2901603
 3 PAGE New York State Archives; Albany, New York; State Populatio
 4 CONC n Census Schedules, 1905; Election District: A.D. 05 E.D. 01
 4 CONC ; City: Manhattan; County: New York; Page: 36
 3 OBJE @SuIRvEAXRPa6yfiAB6nj@
+3 _APID 1,7364::2901603
 2 NOTE Relation to Head of House: Son
 1 RESI
 2 DATE 1910
@@ -1163,11 +1193,11 @@
 4 LATI N40.7142
 4 LONG W74.0064
 2 SOUR @l6PP8BZJThyWv9uB7cSs@
-3 _APID 1,7884::106440828
 3 PAGE Year: 1910; Census Place: Manhattan Ward 9, New York, New Yo
 4 CONC rk; Roll: T624_1006; Page: 13B; Enumeration District: 0150
 4 CONC ; FHL microfilm: 1375019
 3 OBJE @Kh0paScySx2nUhUWwmni@
+3 _APID 1,7884::106440828
 2 NOTE Age: 17; Marital Status: Single; Relation to Head of House
 3 CONC : Son
 1 RESI
@@ -1177,46 +1207,17 @@
 4 LATI N40.7142
 4 LONG W74.0064
 2 SOUR @sFiPg9F8Q9iRUVjVOSKZ@
-3 _APID 1,2703::4890464
 3 PAGE New York State Archives; Albany, New York; State Populatio
 4 CONC n Census Schedules, 1915; Election District: 03; Assembly Di
 4 CONC strict: 25; City: New York; County: New York; Page: 28
 3 OBJE @4dqN2EaNQxqq5mbZfw6n@
+3 _APID 1,2703::4890464
 2 NOTE Age: 22; Relationship: Son
-1 NAME Authur S. /Pettit/
-2 SOUR @EdJbjqVNRj6fDWFU9ALa@
-3 _APID 1,7602::32480046
-3 PAGE Year: 1900; Census Place: Manhattan, New York, New York; Rol
-4 CONC l: 1082; Page: 14B; Enumeration District: 0057; FHL microfil
-4 CONC m: 1241082
-3 OBJE @7y7QRDjzRuWB3DDvauhy@
-2 SOUR @l6PP8BZJThyWv9uB7cSs@
-3 _APID 1,7884::106440828
-3 PAGE Year: 1910; Census Place: Manhattan Ward 9, New York, New Yo
-4 CONC rk; Roll: T624_1006; Page: 13B; Enumeration District: 0150
-4 CONC ; FHL microfilm: 1375019
-3 OBJE @Kh0paScySx2nUhUWwmni@
-2 SOUR @oQd0R3bRTem78scc0gHn@
-3 _APID 1,7364::2901603
-3 PAGE New York State Archives; Albany, New York; State Populatio
-4 CONC n Census Schedules, 1905; Election District: A.D. 05 E.D. 01
-4 CONC ; City: Manhattan; County: New York; Page: 36
-3 OBJE @SuIRvEAXRPa6yfiAB6nj@
-2 SOUR @sFiPg9F8Q9iRUVjVOSKZ@
-3 _APID 1,2703::4890464
-3 PAGE New York State Archives; Albany, New York; State Populatio
-4 CONC n Census Schedules, 1915; Election District: 03; Assembly Di
-4 CONC strict: 25; City: New York; County: New York; Page: 28
-3 OBJE @4dqN2EaNQxqq5mbZfw6n@
-2 SOUR @ZbUH01heT5CeazoqWbzR@
-3 _APID 1,6482::15150890
-3 PAGE Registration State: New York; Registration County: New York
-4 CONC ; Roll: 1786814; Draft Board: 153
-3 OBJE @XezAJP94Rd2uIXVVBZuf@
-1 SEX M
+1 _XY 127196 502
 0 @3cTDJDihSfe9tcaXTrxo@ INDI
-1 _XY 127008 194
 1 REFN b571eaab-8aa5-497d-a871-f84c8ccbe61e
+1 NAME Charles /Pettit/
+1 SEX M
 1 FAMS @8szxfl6tT7WgFUnujVjX@
 1 BIRT
 2 DATE 1790
@@ -1230,11 +1231,11 @@
 3 MAP
 4 LATI N42.7531
 4 LONG W74.2224
+1 _XY 127008 194
+0 @mQt2t9OdTti5W0mkM8PR@ INDI
+1 REFN 0549b5a8-aeec-49bf-a099-83cc9948be75
 1 NAME Charles /Pettit/
 1 SEX M
-0 @mQt2t9OdTti5W0mkM8PR@ INDI
-1 _XY 127068 302
-1 REFN 0549b5a8-aeec-49bf-a099-83cc9948be75
 1 FAMC @8szxfl6tT7WgFUnujVjX@
 1 BIRT
 2 DATE 1825
@@ -1242,11 +1243,18 @@
 3 MAP
 4 LATI N40.7142
 4 LONG W74.0064
-1 NAME Charles /Pettit/
-1 SEX M
+1 _XY 127068 302
 0 @pVANbwMyRcagaXoViSDs@ INDI
-1 _XY 127412 396
 1 REFN 1d1fa201-c177-418e-9afc-1192a11d8e8b
+1 NAME Emily A. /Pettit/
+2 SOUR @S50@
+3 PAGE Year: 1850; Census Place: New York Ward 5, New York, New Yor
+4 CONC k; Roll: M432_537; Page: 223B; Image: 453
+3 OBJE @SqI9wtDvSHm9MKMWhYeI@
+3 _APID 1,8054::7247467
+1 SEX F
+2 SOUR @S50@
+3 _APID 1,8054::7247467
 1 FAMC @ztkA7rtfSwW4leD24XfB@
 1 BIRT
 2 DATE ABT 1849
@@ -1255,28 +1263,33 @@
 4 LATI N42.7531
 4 LONG W74.2224
 2 SOUR @S50@
-3 _APID 1,8054::7247467
 3 PAGE Year: 1850; Census Place: New York Ward 5, New York, New Yor
 4 CONC k; Roll: M432_537; Page: 223B; Image: 453
 3 OBJE @SqI9wtDvSHm9MKMWhYeI@
+3 _APID 1,8054::7247467
 1 DEAT
 2 DATE ABT 1854
 2 PLAC New York, New York, New York, USA
 3 MAP
 4 LATI N40.7142
 4 LONG W74.0064
-1 NAME Emily A. /Pettit/
-2 SOUR @S50@
-3 _APID 1,8054::7247467
-3 PAGE Year: 1850; Census Place: New York Ward 5, New York, New Yor
-4 CONC k; Roll: M432_537; Page: 223B; Image: 453
-3 OBJE @SqI9wtDvSHm9MKMWhYeI@
-1 SEX F
-2 SOUR @S50@
-3 _APID 1,8054::7247467
+1 _XY 127412 396
 0 @B0CLL8ZTTNaKogCxXhhL@ INDI
-1 _XY 126960 502
 1 REFN 874df3fd-41a4-476b-88be-4979b3dce752
+1 NAME Frederick A. /Pettit/
+2 SOUR @EdJbjqVNRj6fDWFU9ALa@
+3 PAGE Year: 1900; Census Place: Manhattan, New York, New York; Rol
+4 CONC l: 1082; Page: 14B; Enumeration District: 0057; FHL microfil
+4 CONC m: 1241082
+3 OBJE @7y7QRDjzRuWB3DDvauhy@
+3 _APID 1,7602::32480044
+2 SOUR @l6PP8BZJThyWv9uB7cSs@
+3 PAGE Year: 1910; Census Place: Manhattan Ward 9, New York, New Yo
+4 CONC rk; Roll: T624_1006; Page: 13B; Enumeration District: 0150
+4 CONC ; FHL microfilm: 1375019
+3 OBJE @Kh0paScySx2nUhUWwmni@
+3 _APID 1,7884::106440827
+1 SEX M
 1 FAMC @x0B3LEuES0uhyTCskGFt@
 1 BIRT
 2 DATE AUG 1871
@@ -1285,17 +1298,17 @@
 4 LATI N42.7531
 4 LONG W74.2224
 2 SOUR @EdJbjqVNRj6fDWFU9ALa@
-3 _APID 1,7602::32480044
 3 PAGE Year: 1900; Census Place: Manhattan, New York, New York; Rol
 4 CONC l: 1082; Page: 14B; Enumeration District: 0057; FHL microfil
 4 CONC m: 1241082
 3 OBJE @7y7QRDjzRuWB3DDvauhy@
+3 _APID 1,7602::32480044
 2 SOUR @l6PP8BZJThyWv9uB7cSs@
-3 _APID 1,7884::106440827
 3 PAGE Year: 1910; Census Place: Manhattan Ward 9, New York, New Yo
 4 CONC rk; Roll: T624_1006; Page: 13B; Enumeration District: 0150
 4 CONC ; FHL microfilm: 1375019
 3 OBJE @Kh0paScySx2nUhUWwmni@
+3 _APID 1,7884::106440827
 1 RESI
 2 DATE 1900
 2 PLAC New York, New York, New York, USA
@@ -1303,11 +1316,11 @@
 4 LATI N40.7142
 4 LONG W74.0064
 2 SOUR @EdJbjqVNRj6fDWFU9ALa@
-3 _APID 1,7602::32480044
 3 PAGE Year: 1900; Census Place: Manhattan, New York, New York; Rol
 4 CONC l: 1082; Page: 14B; Enumeration District: 0057; FHL microfil
 4 CONC m: 1241082
 3 OBJE @7y7QRDjzRuWB3DDvauhy@
+3 _APID 1,7602::32480044
 2 NOTE Age: 28; Marital Status: Single; Relation to Head of House
 3 CONC : Son
 1 RESI
@@ -1317,30 +1330,65 @@
 4 LATI N40.7142
 4 LONG W74.0064
 2 SOUR @l6PP8BZJThyWv9uB7cSs@
-3 _APID 1,7884::106440827
 3 PAGE Year: 1910; Census Place: Manhattan Ward 9, New York, New Yo
 4 CONC rk; Roll: T624_1006; Page: 13B; Enumeration District: 0150
 4 CONC ; FHL microfilm: 1375019
 3 OBJE @Kh0paScySx2nUhUWwmni@
+3 _APID 1,7884::106440827
 2 NOTE Age: 39; Marital Status: Single; Relation to Head of House
 3 CONC : Son
-1 NAME Frederick A. /Pettit/
-2 SOUR @EdJbjqVNRj6fDWFU9ALa@
-3 _APID 1,7602::32480044
-3 PAGE Year: 1900; Census Place: Manhattan, New York, New York; Rol
-4 CONC l: 1082; Page: 14B; Enumeration District: 0057; FHL microfil
-4 CONC m: 1241082
-3 OBJE @7y7QRDjzRuWB3DDvauhy@
-2 SOUR @l6PP8BZJThyWv9uB7cSs@
-3 _APID 1,7884::106440827
-3 PAGE Year: 1910; Census Place: Manhattan Ward 9, New York, New Yo
-4 CONC rk; Roll: T624_1006; Page: 13B; Enumeration District: 0150
-4 CONC ; FHL microfilm: 1375019
-3 OBJE @Kh0paScySx2nUhUWwmni@
-1 SEX M
+1 _XY 126960 502
 0 @L2wpYgsHTYesAFByD8QA@ INDI
-1 _XY 127623 401
 1 REFN f42df42c-5fea-490c-9c68-ea0433f22f2f
+1 NAME Hannah Ann /Pettit/
+2 SOUR @S50@
+3 PAGE Year: 1850; Census Place: New York Ward 5, New York, New Yor
+4 CONC k; Roll: M432_537; Page: 223A; Image: 452
+3 OBJE @1h2IcDiNTDap88oq7Rrz@
+3 _APID 1,8054::7247463
+2 SOUR @S51@
+3 PAGE Year: 1860; Census Place: New York Ward 5 District 1, New Yo
+4 CONC rk, New York; Roll: M653_790; Page: 219; Image: 63; Family H
+4 CONC istory Library Film: 803790
+3 OBJE @dHNmDYPCTC6UfuPUfrO1@
+3 _APID 1,7667::46919132
+2 SOUR @W9AF3YLISEKpgaYjMG1d@
+3 PAGE Year: 1870; Census Place: New York Ward 5 District 1 (2nd En
+4 CONC um), New York, New York; Roll: M593_1016; Page: 9B; Image: 2
+4 CONC 2; Family History Library Film: 552515
+3 OBJE @NTP1VKdRRiaQfMFtKurk@
+3 _APID 1,7163::30458002
+2 SOUR @W9AF3YLISEKpgaYjMG1d@
+3 PAGE Year: 1870; Census Place: New York Ward 5 District 8, New Yo
+4 CONC rk, New York; Roll: M593_977; Page: 203A; Image: 409; Famil
+4 CONC y History Library Film: 552476
+3 OBJE @B3C4IA4oSamimJfmTBbk@
+3 _APID 1,7163::24683329
+2 SOUR @pbUV2aFjTeiSEopmWX0R@
+3 PAGE Year: 1880; Census Place: Brooklyn, Kings, New York
+3 OBJE @5RcxEZL7S1acoJCNttRT@
+3 _APID 1,6742::2332133
+2 SOUR @EdJbjqVNRj6fDWFU9ALa@
+3 PAGE Year: 1900; Census Place: Manhattan, New York, New York; Rol
+4 CONC l: 1108; Page: 1A; Enumeration District: 0628; FHL microfilm
+4 CONC : 1241108
+3 OBJE @TZBdR35uR7SEpcP2h87r@
+3 _APID 1,7602::38291377
+2 SOUR @l6PP8BZJThyWv9uB7cSs@
+3 PAGE Year: 1910; Census Place: Manhattan Ward 12, New York, New Y
+4 CONC ork; Roll: T624_1025; Page: 2B; Enumeration District: 0651
+4 CONC ; FHL microfilm: 1375038
+3 OBJE @qD7YNIsoROmXLEbMqmVI@
+3 _APID 1,7884::18885235
+2 SOUR @h7mR8oEvSuuGd4hDYmCc@
+3 _APID 1,9105::899603
+2 SOUR @gnFo1KqTStqpaYqdjblr@
+3 OBJE @eD0G6WJUSrKLVWP1q8kN@
+3 _APID 1,7181::1653641778
+2 SOUR @ZthEJ6Y4TgCMPRbXt3Ly@
+3 OBJE @pakH7KAJTrSbbDgfOE5u@
+3 _APID 1,7250::1361801239
+1 SEX F
 1 FAMC @ztkA7rtfSwW4leD24XfB@
 1 FAMS @aOiBhmKIT92YvlYL8jqI@
 1 BIRT
@@ -1350,50 +1398,50 @@
 4 LATI N40.1365
 4 LONG W73.2613
 2 SOUR @S50@
-3 _APID 1,8054::7247463
 3 PAGE Year: 1850; Census Place: New York Ward 5, New York, New Yor
 4 CONC k; Roll: M432_537; Page: 223A; Image: 452
 3 OBJE @1h2IcDiNTDap88oq7Rrz@
+3 _APID 1,8054::7247463
 2 SOUR @S51@
-3 _APID 1,7667::46919132
 3 PAGE Year: 1860; Census Place: New York Ward 5 District 1, New Yo
 4 CONC rk, New York; Roll: M653_790; Page: 219; Image: 63; Family H
 4 CONC istory Library Film: 803790
 3 OBJE @dHNmDYPCTC6UfuPUfrO1@
+3 _APID 1,7667::46919132
 2 SOUR @W9AF3YLISEKpgaYjMG1d@
-3 _APID 1,7163::30458002
 3 PAGE Year: 1870; Census Place: New York Ward 5 District 1 (2nd En
 4 CONC um), New York, New York; Roll: M593_1016; Page: 9B; Image: 2
 4 CONC 2; Family History Library Film: 552515
 3 OBJE @NTP1VKdRRiaQfMFtKurk@
+3 _APID 1,7163::30458002
 2 SOUR @W9AF3YLISEKpgaYjMG1d@
-3 _APID 1,7163::24683329
 3 PAGE Year: 1870; Census Place: New York Ward 5 District 8, New Yo
 4 CONC rk, New York; Roll: M593_977; Page: 203A; Image: 409; Famil
 4 CONC y History Library Film: 552476
 3 OBJE @B3C4IA4oSamimJfmTBbk@
+3 _APID 1,7163::24683329
 2 SOUR @pbUV2aFjTeiSEopmWX0R@
-3 _APID 1,6742::2332133
 3 PAGE Year: 1880; Census Place: Brooklyn, Kings, New York
 3 OBJE @5RcxEZL7S1acoJCNttRT@
+3 _APID 1,6742::2332133
 2 SOUR @EdJbjqVNRj6fDWFU9ALa@
-3 _APID 1,7602::38291377
 3 PAGE Year: 1900; Census Place: Manhattan, New York, New York; Rol
 4 CONC l: 1108; Page: 1A; Enumeration District: 0628; FHL microfilm
 4 CONC : 1241108
 3 OBJE @TZBdR35uR7SEpcP2h87r@
+3 _APID 1,7602::38291377
 2 SOUR @l6PP8BZJThyWv9uB7cSs@
-3 _APID 1,7884::18885235
 3 PAGE Year: 1910; Census Place: Manhattan Ward 12, New York, New Y
 4 CONC ork; Roll: T624_1025; Page: 2B; Enumeration District: 0651
 4 CONC ; FHL microfilm: 1375038
 3 OBJE @qD7YNIsoROmXLEbMqmVI@
+3 _APID 1,7884::18885235
 2 SOUR @gnFo1KqTStqpaYqdjblr@
-3 _APID 1,7181::1653641778
 3 OBJE @eD0G6WJUSrKLVWP1q8kN@
+3 _APID 1,7181::1653641778
 2 SOUR @ZthEJ6Y4TgCMPRbXt3Ly@
-3 _APID 1,7250::1361801239
 3 OBJE @pakH7KAJTrSbbDgfOE5u@
+3 _APID 1,7250::1361801239
 1 BIRT
 2 DATE 1843
 2 PLAC New Jersey, USA
@@ -1407,10 +1455,10 @@
 4 LATI N40.7142
 4 LONG W74.0064
 2 SOUR @S50@
-3 _APID 1,8054::7247463
 3 PAGE Year: 1850; Census Place: New York Ward 5, New York, New Yor
 4 CONC k; Roll: M432_537; Page: 223A; Image: 452
 3 OBJE @1h2IcDiNTDap88oq7Rrz@
+3 _APID 1,8054::7247463
 1 RESI
 2 DATE 1855
 2 PLAC New York, New York, New York, USA
@@ -1418,8 +1466,8 @@
 4 LATI N40.7142
 4 LONG W74.0064
 2 SOUR @gnFo1KqTStqpaYqdjblr@
-3 _APID 1,7181::1653641778
 3 OBJE @eD0G6WJUSrKLVWP1q8kN@
+3 _APID 1,7181::1653641778
 2 NOTE Age: 18; Relation to Head of House: Child
 1 RESI
 2 DATE 1860
@@ -1428,11 +1476,11 @@
 4 LATI N40.7142
 4 LONG W74.0064
 2 SOUR @S51@
-3 _APID 1,7667::46919132
 3 PAGE Year: 1860; Census Place: New York Ward 5 District 1, New Yo
 4 CONC rk, New York; Roll: M653_790; Page: 219; Image: 63; Family H
 4 CONC istory Library Film: 803790
 3 OBJE @dHNmDYPCTC6UfuPUfrO1@
+3 _APID 1,7667::46919132
 1 RESI
 2 DATE 29 JUN 1870
 2 PLAC New York, New York, New York, USA
@@ -1440,21 +1488,21 @@
 4 LATI N40.7142
 4 LONG W74.0064
 2 SOUR @W9AF3YLISEKpgaYjMG1d@
-3 _APID 1,7163::24683329
 3 PAGE Year: 1870; Census Place: New York Ward 5 District 8, New Yo
 4 CONC rk, New York; Roll: M593_977; Page: 203A; Image: 409; Famil
 4 CONC y History Library Film: 552476
 3 OBJE @B3C4IA4oSamimJfmTBbk@
+3 _APID 1,7163::24683329
 2 NOTE Age: 28; Census Post Office: New York City
 1 RESI
 2 DATE 21 DEC 1870
 2 PLAC 476 Greenwich Street, New York, New York, New York, USA
 2 SOUR @W9AF3YLISEKpgaYjMG1d@
-3 _APID 1,7163::30458002
 3 PAGE Year: 1870; Census Place: New York Ward 5 District 1 (2nd En
 4 CONC um), New York, New York; Roll: M593_1016; Page: 9B; Image: 2
 4 CONC 2; Family History Library Film: 552515
 3 OBJE @NTP1VKdRRiaQfMFtKurk@
+3 _APID 1,7163::30458002
 2 NOTE Age: 27; Census Post Office: New York City
 1 RESI
 2 DATE 01 JUN 1875
@@ -1463,8 +1511,8 @@
 4 LATI N40.65
 4 LONG W73.95
 2 SOUR @ZthEJ6Y4TgCMPRbXt3Ly@
-3 _APID 1,7250::1361801239
 3 OBJE @pakH7KAJTrSbbDgfOE5u@
+3 _APID 1,7250::1361801239
 2 NOTE Age: 37; Relation to Head of House: Wife
 1 RESI
 2 DATE 1880
@@ -1473,9 +1521,9 @@
 4 LATI N40.65
 4 LONG W73.95
 2 SOUR @pbUV2aFjTeiSEopmWX0R@
-3 _APID 1,6742::2332133
 3 PAGE Year: 1880; Census Place: Brooklyn, Kings, New York
 3 OBJE @5RcxEZL7S1acoJCNttRT@
+3 _APID 1,6742::2332133
 2 NOTE Age: 33; Marital Status: Married; Relation to Head of House
 3 CONC : Wife
 1 RESI
@@ -1485,11 +1533,11 @@
 4 LATI N40.7142
 4 LONG W74.0064
 2 SOUR @EdJbjqVNRj6fDWFU9ALa@
-3 _APID 1,7602::38291377
 3 PAGE Year: 1900; Census Place: Manhattan, New York, New York; Rol
 4 CONC l: 1108; Page: 1A; Enumeration District: 0628; FHL microfilm
 4 CONC : 1241108
 3 OBJE @TZBdR35uR7SEpcP2h87r@
+3 _APID 1,7602::38291377
 2 NOTE Age: 53; Marital Status: Married; Relation to Head of House
 3 CONC : Wife
 1 RESI
@@ -1499,81 +1547,23 @@
 4 LATI N40.7142
 4 LONG W74.0064
 2 SOUR @l6PP8BZJThyWv9uB7cSs@
-3 _APID 1,7884::18885235
 3 PAGE Year: 1910; Census Place: Manhattan Ward 12, New York, New Y
 4 CONC ork; Roll: T624_1025; Page: 2B; Enumeration District: 0651
 4 CONC ; FHL microfilm: 1375038
 3 OBJE @qD7YNIsoROmXLEbMqmVI@
+3 _APID 1,7884::18885235
 2 NOTE Marital Status: Widowed; Relation to Head of House: Head
-1 NAME Hannah Ann /Pettit/
-2 SOUR @S50@
-3 _APID 1,8054::7247463
-3 PAGE Year: 1850; Census Place: New York Ward 5, New York, New Yor
-4 CONC k; Roll: M432_537; Page: 223A; Image: 452
-3 OBJE @1h2IcDiNTDap88oq7Rrz@
-2 SOUR @S51@
-3 _APID 1,7667::46919132
-3 PAGE Year: 1860; Census Place: New York Ward 5 District 1, New Yo
-4 CONC rk, New York; Roll: M653_790; Page: 219; Image: 63; Family H
-4 CONC istory Library Film: 803790
-3 OBJE @dHNmDYPCTC6UfuPUfrO1@
-2 SOUR @W9AF3YLISEKpgaYjMG1d@
-3 _APID 1,7163::30458002
-3 PAGE Year: 1870; Census Place: New York Ward 5 District 1 (2nd En
-4 CONC um), New York, New York; Roll: M593_1016; Page: 9B; Image: 2
-4 CONC 2; Family History Library Film: 552515
-3 OBJE @NTP1VKdRRiaQfMFtKurk@
-2 SOUR @W9AF3YLISEKpgaYjMG1d@
-3 _APID 1,7163::24683329
-3 PAGE Year: 1870; Census Place: New York Ward 5 District 8, New Yo
-4 CONC rk, New York; Roll: M593_977; Page: 203A; Image: 409; Famil
-4 CONC y History Library Film: 552476
-3 OBJE @B3C4IA4oSamimJfmTBbk@
-2 SOUR @pbUV2aFjTeiSEopmWX0R@
-3 _APID 1,6742::2332133
-3 PAGE Year: 1880; Census Place: Brooklyn, Kings, New York
-3 OBJE @5RcxEZL7S1acoJCNttRT@
-2 SOUR @EdJbjqVNRj6fDWFU9ALa@
-3 _APID 1,7602::38291377
-3 PAGE Year: 1900; Census Place: Manhattan, New York, New York; Rol
-4 CONC l: 1108; Page: 1A; Enumeration District: 0628; FHL microfilm
-4 CONC : 1241108
-3 OBJE @TZBdR35uR7SEpcP2h87r@
-2 SOUR @l6PP8BZJThyWv9uB7cSs@
-3 _APID 1,7884::18885235
-3 PAGE Year: 1910; Census Place: Manhattan Ward 12, New York, New Y
-4 CONC ork; Roll: T624_1025; Page: 2B; Enumeration District: 0651
-4 CONC ; FHL microfilm: 1375038
-3 OBJE @qD7YNIsoROmXLEbMqmVI@
-2 SOUR @h7mR8oEvSuuGd4hDYmCc@
-3 _APID 1,9105::899603
-2 SOUR @gnFo1KqTStqpaYqdjblr@
-3 _APID 1,7181::1653641778
-3 OBJE @eD0G6WJUSrKLVWP1q8kN@
-2 SOUR @ZthEJ6Y4TgCMPRbXt3Ly@
-3 _APID 1,7250::1361801239
-3 OBJE @pakH7KAJTrSbbDgfOE5u@
-1 SEX F
+1 _XY 127623 401
 0 @iXqb88lPRiK7Sy2O3jJ4@ INDI
-1 _XY 126846 502
 1 REFN 4666d1ed-1b72-4b44-890d-f272fbf07d0f
-1 FAMC @x0B3LEuES0uhyTCskGFt@
-1 BIRT
-2 DATE DEC 1868
-2 PLAC New York, USA
-3 MAP
-4 LATI N42.7531
-4 LONG W74.2224
+1 NAME Henry A. /Pettit/
 2 SOUR @W9AF3YLISEKpgaYjMG1d@
-3 _APID 1,7163::30457998
 3 PAGE Year: 1870; Census Place: New York Ward 5 District 1 (2nd En
 4 CONC um), New York, New York; Roll: M593_1016; Page: 9B; Image: 2
 4 CONC 2; Family History Library Film: 552515
 3 OBJE @NTP1VKdRRiaQfMFtKurk@
+3 _APID 1,7163::30457998
 2 SOUR @W9AF3YLISEKpgaYjMG1d@
-3 _LINK http://search.ancestry.com/cgi-bin/sse.dll?db=1870usfedcen&h
-4 CONC =29028340&ti=0&indiv=try&gss=pt
-3 _APID 1,7163::29028340
 3 PAGE Year: 1870; Census Place: New York Ward 5 District 8, New Yo
 4 CONC rk, New York; Roll: M593_; Page: ; Image: .
 3 DATA
@@ -1583,45 +1573,107 @@
 5 CONT abt 1869 in New York
 5 CONT Death:
 3 OBJE @XaYb2BEXQN6DvbKZ9LeU@
+3 _LINK http://search.ancestry.com/cgi-bin/sse.dll?db=1870usfedcen&h
+4 CONC =29028340&ti=0&indiv=try&gss=pt
+3 _APID 1,7163::29028340
 2 SOUR @EdJbjqVNRj6fDWFU9ALa@
-3 _APID 1,7602::32480043
 3 PAGE Year: 1900; Census Place: Manhattan, New York, New York; Rol
 4 CONC l: 1082; Page: 14B; Enumeration District: 0057; FHL microfil
 4 CONC m: 1241082
 3 OBJE @7y7QRDjzRuWB3DDvauhy@
+3 _APID 1,7602::32480043
 2 SOUR @l6PP8BZJThyWv9uB7cSs@
-3 _APID 1,7884::106440826
 3 PAGE Year: 1910; Census Place: Manhattan Ward 9, New York, New Yo
 4 CONC rk; Roll: T624_1006; Page: 13B; Enumeration District: 0150
 4 CONC ; FHL microfilm: 1375019
 3 OBJE @Kh0paScySx2nUhUWwmni@
+3 _APID 1,7884::106440826
 2 SOUR @MmziQGePSt6c20tLUcLZ@
-3 _APID 1,6061::87450401
 3 PAGE Year: 1920; Census Place: Manhattan Assembly District 3, Ne
 4 CONC w York, New York; Roll: T625_1189; Page: 7B; Enumeration Dis
 4 CONC trict: 232; Image: 130
 3 OBJE @4OIF3osvR6ysr5N4TQUN@
+3 _APID 1,6061::87450401
 2 SOUR @oQd0R3bRTem78scc0gHn@
-3 _APID 1,7364::2649576
 3 PAGE New York State Archives; Albany, New York; State Populatio
 4 CONC n Census Schedules, 1905; Election District: A.D. 05 E.D. 01
 4 CONC ; City: Manhattan; County: New York; Page: 36
 3 OBJE @SuIRvEAXRPa6yfiAB6nj@
+3 _APID 1,7364::2649576
 2 SOUR @sFiPg9F8Q9iRUVjVOSKZ@
-3 _APID 1,2703::4890463
 3 PAGE New York State Archives; Albany, New York; State Populatio
 4 CONC n Census Schedules, 1915; Election District: 03; Assembly Di
 4 CONC strict: 25; City: New York; County: New York; Page: 28
 3 OBJE @4dqN2EaNQxqq5mbZfw6n@
-1 RESI
-2 DATE 21 DEC 1870
-2 PLAC 476 Greenwich Street, New York, New York, New York, USA
+3 _APID 1,2703::4890463
+1 SEX M
 2 SOUR @W9AF3YLISEKpgaYjMG1d@
-3 _APID 1,7163::30457998
+3 _APID 1,7163::29028340
+1 FAMC @x0B3LEuES0uhyTCskGFt@
+1 BIRT
+2 DATE DEC 1868
+2 PLAC New York, USA
+3 MAP
+4 LATI N42.7531
+4 LONG W74.2224
+2 SOUR @W9AF3YLISEKpgaYjMG1d@
 3 PAGE Year: 1870; Census Place: New York Ward 5 District 1 (2nd En
 4 CONC um), New York, New York; Roll: M593_1016; Page: 9B; Image: 2
 4 CONC 2; Family History Library Film: 552515
 3 OBJE @NTP1VKdRRiaQfMFtKurk@
+3 _APID 1,7163::30457998
+2 SOUR @W9AF3YLISEKpgaYjMG1d@
+3 PAGE Year: 1870; Census Place: New York Ward 5 District 8, New Yo
+4 CONC rk, New York; Roll: M593_; Page: ; Image: .
+3 DATA
+4 TEXT Name:
+5 CONT Henry Pettit
+5 CONT Birth:
+5 CONT abt 1869 in New York
+5 CONT Death:
+3 OBJE @XaYb2BEXQN6DvbKZ9LeU@
+3 _LINK http://search.ancestry.com/cgi-bin/sse.dll?db=1870usfedcen&h
+4 CONC =29028340&ti=0&indiv=try&gss=pt
+3 _APID 1,7163::29028340
+2 SOUR @EdJbjqVNRj6fDWFU9ALa@
+3 PAGE Year: 1900; Census Place: Manhattan, New York, New York; Rol
+4 CONC l: 1082; Page: 14B; Enumeration District: 0057; FHL microfil
+4 CONC m: 1241082
+3 OBJE @7y7QRDjzRuWB3DDvauhy@
+3 _APID 1,7602::32480043
+2 SOUR @l6PP8BZJThyWv9uB7cSs@
+3 PAGE Year: 1910; Census Place: Manhattan Ward 9, New York, New Yo
+4 CONC rk; Roll: T624_1006; Page: 13B; Enumeration District: 0150
+4 CONC ; FHL microfilm: 1375019
+3 OBJE @Kh0paScySx2nUhUWwmni@
+3 _APID 1,7884::106440826
+2 SOUR @MmziQGePSt6c20tLUcLZ@
+3 PAGE Year: 1920; Census Place: Manhattan Assembly District 3, Ne
+4 CONC w York, New York; Roll: T625_1189; Page: 7B; Enumeration Dis
+4 CONC trict: 232; Image: 130
+3 OBJE @4OIF3osvR6ysr5N4TQUN@
+3 _APID 1,6061::87450401
+2 SOUR @oQd0R3bRTem78scc0gHn@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1905; Election District: A.D. 05 E.D. 01
+4 CONC ; City: Manhattan; County: New York; Page: 36
+3 OBJE @SuIRvEAXRPa6yfiAB6nj@
+3 _APID 1,7364::2649576
+2 SOUR @sFiPg9F8Q9iRUVjVOSKZ@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1915; Election District: 03; Assembly Di
+4 CONC strict: 25; City: New York; County: New York; Page: 28
+3 OBJE @4dqN2EaNQxqq5mbZfw6n@
+3 _APID 1,2703::4890463
+1 RESI
+2 DATE 21 DEC 1870
+2 PLAC 476 Greenwich Street, New York, New York, New York, USA
+2 SOUR @W9AF3YLISEKpgaYjMG1d@
+3 PAGE Year: 1870; Census Place: New York Ward 5 District 1 (2nd En
+4 CONC um), New York, New York; Roll: M593_1016; Page: 9B; Image: 2
+4 CONC 2; Family History Library Film: 552515
+3 OBJE @NTP1VKdRRiaQfMFtKurk@
+3 _APID 1,7163::30457998
 2 NOTE Age: 2; Census Post Office: New York City
 1 RESI
 2 DATE 1900
@@ -1630,11 +1682,11 @@
 4 LATI N40.7142
 4 LONG W74.0064
 2 SOUR @EdJbjqVNRj6fDWFU9ALa@
-3 _APID 1,7602::32480043
 3 PAGE Year: 1900; Census Place: Manhattan, New York, New York; Rol
 4 CONC l: 1082; Page: 14B; Enumeration District: 0057; FHL microfil
 4 CONC m: 1241082
 3 OBJE @7y7QRDjzRuWB3DDvauhy@
+3 _APID 1,7602::32480043
 2 NOTE Age: 31; Marital Status: Single; Relation to Head of House
 3 CONC : Son
 1 RESI
@@ -1644,11 +1696,11 @@
 4 LATI N40.7834
 4 LONG W73.9663
 2 SOUR @oQd0R3bRTem78scc0gHn@
-3 _APID 1,7364::2649576
 3 PAGE New York State Archives; Albany, New York; State Populatio
 4 CONC n Census Schedules, 1905; Election District: A.D. 05 E.D. 01
 4 CONC ; City: Manhattan; County: New York; Page: 36
 3 OBJE @SuIRvEAXRPa6yfiAB6nj@
+3 _APID 1,7364::2649576
 2 NOTE Relation to Head of House: Son
 1 RESI
 2 DATE 1910
@@ -1657,11 +1709,11 @@
 4 LATI N40.7142
 4 LONG W74.0064
 2 SOUR @l6PP8BZJThyWv9uB7cSs@
-3 _APID 1,7884::106440826
 3 PAGE Year: 1910; Census Place: Manhattan Ward 9, New York, New Yo
 4 CONC rk; Roll: T624_1006; Page: 13B; Enumeration District: 0150
 4 CONC ; FHL microfilm: 1375019
 3 OBJE @Kh0paScySx2nUhUWwmni@
+3 _APID 1,7884::106440826
 2 NOTE Age: 41; Marital Status: Single; Relation to Head of House
 3 CONC : Son
 1 RESI
@@ -1671,11 +1723,11 @@
 4 LATI N40.7142
 4 LONG W74.0064
 2 SOUR @sFiPg9F8Q9iRUVjVOSKZ@
-3 _APID 1,2703::4890463
 3 PAGE New York State Archives; Albany, New York; State Populatio
 4 CONC n Census Schedules, 1915; Election District: 03; Assembly Di
 4 CONC strict: 25; City: New York; County: New York; Page: 28
 3 OBJE @4dqN2EaNQxqq5mbZfw6n@
+3 _APID 1,2703::4890463
 2 NOTE Age: 45; Relation to Head of House: Son
 1 RESI
 2 DATE 1920
@@ -1684,69 +1736,29 @@
 4 LATI N40.7142
 4 LONG W74.0064
 2 SOUR @MmziQGePSt6c20tLUcLZ@
-3 _APID 1,6061::87450401
 3 PAGE Year: 1920; Census Place: Manhattan Assembly District 3, Ne
 4 CONC w York, New York; Roll: T625_1189; Page: 7B; Enumeration Dis
 4 CONC trict: 232; Image: 130
 3 OBJE @4OIF3osvR6ysr5N4TQUN@
+3 _APID 1,6061::87450401
 2 NOTE Age: 51; Marital Status: Single; Relation to Head of House
 3 CONC : Head
-1 NAME Henry A. /Pettit/
-2 SOUR @W9AF3YLISEKpgaYjMG1d@
-3 _APID 1,7163::30457998
-3 PAGE Year: 1870; Census Place: New York Ward 5 District 1 (2nd En
-4 CONC um), New York, New York; Roll: M593_1016; Page: 9B; Image: 2
-4 CONC 2; Family History Library Film: 552515
-3 OBJE @NTP1VKdRRiaQfMFtKurk@
-2 SOUR @W9AF3YLISEKpgaYjMG1d@
-3 _LINK http://search.ancestry.com/cgi-bin/sse.dll?db=1870usfedcen&h
-4 CONC =29028340&ti=0&indiv=try&gss=pt
-3 _APID 1,7163::29028340
-3 PAGE Year: 1870; Census Place: New York Ward 5 District 8, New Yo
-4 CONC rk, New York; Roll: M593_; Page: ; Image: .
-3 DATA
-4 TEXT Name:
-5 CONT Henry Pettit
-5 CONT Birth:
-5 CONT abt 1869 in New York
-5 CONT Death:
-3 OBJE @XaYb2BEXQN6DvbKZ9LeU@
-2 SOUR @EdJbjqVNRj6fDWFU9ALa@
-3 _APID 1,7602::32480043
-3 PAGE Year: 1900; Census Place: Manhattan, New York, New York; Rol
-4 CONC l: 1082; Page: 14B; Enumeration District: 0057; FHL microfil
-4 CONC m: 1241082
-3 OBJE @7y7QRDjzRuWB3DDvauhy@
-2 SOUR @l6PP8BZJThyWv9uB7cSs@
-3 _APID 1,7884::106440826
-3 PAGE Year: 1910; Census Place: Manhattan Ward 9, New York, New Yo
-4 CONC rk; Roll: T624_1006; Page: 13B; Enumeration District: 0150
-4 CONC ; FHL microfilm: 1375019
-3 OBJE @Kh0paScySx2nUhUWwmni@
-2 SOUR @MmziQGePSt6c20tLUcLZ@
-3 _APID 1,6061::87450401
-3 PAGE Year: 1920; Census Place: Manhattan Assembly District 3, Ne
-4 CONC w York, New York; Roll: T625_1189; Page: 7B; Enumeration Dis
-4 CONC trict: 232; Image: 130
-3 OBJE @4OIF3osvR6ysr5N4TQUN@
-2 SOUR @oQd0R3bRTem78scc0gHn@
-3 _APID 1,7364::2649576
-3 PAGE New York State Archives; Albany, New York; State Populatio
-4 CONC n Census Schedules, 1905; Election District: A.D. 05 E.D. 01
-4 CONC ; City: Manhattan; County: New York; Page: 36
-3 OBJE @SuIRvEAXRPa6yfiAB6nj@
-2 SOUR @sFiPg9F8Q9iRUVjVOSKZ@
-3 _APID 1,2703::4890463
-3 PAGE New York State Archives; Albany, New York; State Populatio
-4 CONC n Census Schedules, 1915; Election District: 03; Assembly Di
-4 CONC strict: 25; City: New York; County: New York; Page: 28
-3 OBJE @4dqN2EaNQxqq5mbZfw6n@
-1 SEX M
-2 SOUR @W9AF3YLISEKpgaYjMG1d@
-3 _APID 1,7163::29028340
+1 _XY 126846 502
 0 @fUt2PPtCQfe4gruIZcAC@ INDI
-1 _XY 127522 402
 1 REFN 93677ae6-6d3a-4a8a-a282-60dd5e56e8ad
+1 NAME Henry Augustus /Pettit/
+2 SOUR @S51@
+3 PAGE Year: 1860; Census Place: New York Ward 5 District 1, New Yo
+4 CONC rk, New York; Roll: M653_790; Page: 219; Image: 63; Family H
+4 CONC istory Library Film: 803790
+3 OBJE @dHNmDYPCTC6UfuPUfrO1@
+3 _APID 1,7667::46919143
+2 SOUR @gnFo1KqTStqpaYqdjblr@
+3 OBJE @eD0G6WJUSrKLVWP1q8kN@
+3 _APID 1,7181::1653641783
+2 SOUR @S52@
+3 _APID 1,60525::129507257
+1 SEX M
 1 FAMC @ztkA7rtfSwW4leD24XfB@
 1 BIRT
 2 DATE ABT 1850
@@ -1755,14 +1767,14 @@
 4 LATI N42.7531
 4 LONG W74.2224
 2 SOUR @S51@
-3 _APID 1,7667::46919143
 3 PAGE Year: 1860; Census Place: New York Ward 5 District 1, New Yo
 4 CONC rk, New York; Roll: M653_790; Page: 219; Image: 63; Family H
 4 CONC istory Library Film: 803790
 3 OBJE @dHNmDYPCTC6UfuPUfrO1@
+3 _APID 1,7667::46919143
 2 SOUR @gnFo1KqTStqpaYqdjblr@
-3 _APID 1,7181::1653641783
 3 OBJE @eD0G6WJUSrKLVWP1q8kN@
+3 _APID 1,7181::1653641783
 2 SOUR @S52@
 3 _APID 1,60525::129507257
 1 RESI
@@ -1772,8 +1784,8 @@
 4 LATI N40.7142
 4 LONG W74.0064
 2 SOUR @gnFo1KqTStqpaYqdjblr@
-3 _APID 1,7181::1653641783
 3 OBJE @eD0G6WJUSrKLVWP1q8kN@
+3 _APID 1,7181::1653641783
 2 NOTE Age: 5; Relation to Head of House: Child
 1 RESI
 2 DATE 1860
@@ -1782,28 +1794,15 @@
 4 LATI N40.7142
 4 LONG W74.0064
 2 SOUR @S51@
-3 _APID 1,7667::46919143
 3 PAGE Year: 1860; Census Place: New York Ward 5 District 1, New Yo
 4 CONC rk, New York; Roll: M653_790; Page: 219; Image: 63; Family H
 4 CONC istory Library Film: 803790
 3 OBJE @dHNmDYPCTC6UfuPUfrO1@
+3 _APID 1,7667::46919143
 1 DEAT
 2 DATE 13 APR 1867
 2 SOUR @S52@
 3 _APID 1,60525::129507257
-1 NAME Henry Augustus /Pettit/
-2 SOUR @S51@
-3 _APID 1,7667::46919143
-3 PAGE Year: 1860; Census Place: New York Ward 5 District 1, New Yo
-4 CONC rk, New York; Roll: M653_790; Page: 219; Image: 63; Family H
-4 CONC istory Library Film: 803790
-3 OBJE @dHNmDYPCTC6UfuPUfrO1@
-2 SOUR @gnFo1KqTStqpaYqdjblr@
-3 _APID 1,7181::1653641783
-3 OBJE @eD0G6WJUSrKLVWP1q8kN@
-2 SOUR @S52@
-3 _APID 1,60525::129507257
-1 SEX M
 1 BURI
 2 PLAC Jackson, Ocean, New Jersey, USA
 3 MAP
@@ -1811,9 +1810,35 @@
 4 LONG W74.8624
 2 SOUR @S52@
 3 _APID 1,60525::129507257
+1 _XY 127522 402
 0 @3n3VKORsQhiMCHnNQ1D2@ INDI
-1 _XY 126967 402
 1 REFN 86d2e78f-e38e-4c0e-8892-b5f834b5d2e3
+1 NAME James J. /Pettit/
+2 SOUR @S50@
+3 PAGE Year: 1850; Census Place: New York Ward 5, New York, New Yor
+4 CONC k; Roll: M432_537; Page: 223A; Image: 452
+3 OBJE @1h2IcDiNTDap88oq7Rrz@
+3 _APID 1,8054::7247464
+2 SOUR @S51@
+3 PAGE Year: 1860; Census Place: New York Ward 5 District 1, New Yo
+4 CONC rk, New York; Roll: M653_790; Page: 219; Image: 63; Family H
+4 CONC istory Library Film: 803790
+3 OBJE @dHNmDYPCTC6UfuPUfrO1@
+3 _APID 1,7667::46919133
+2 SOUR @W9AF3YLISEKpgaYjMG1d@
+3 PAGE Year: 1870; Census Place: New York Ward 5 District 1 (2nd En
+4 CONC um), New York, New York; Roll: M593_1016; Page: 9B; Image: 2
+4 CONC 2; Family History Library Film: 552515
+3 OBJE @NTP1VKdRRiaQfMFtKurk@
+3 _APID 1,7163::30457999
+2 SOUR @pbUV2aFjTeiSEopmWX0R@
+3 PAGE Year: 1880; Census Place: Freehold, Monmouth, New Jersey
+3 OBJE @cPhTj5vKRfKflui5xLWP@
+3 _APID 1,6742::49679001
+2 SOUR @gnFo1KqTStqpaYqdjblr@
+3 OBJE @eD0G6WJUSrKLVWP1q8kN@
+3 _APID 1,7181::1653641779
+1 SEX M
 1 FAMC @ztkA7rtfSwW4leD24XfB@
 1 BIRT
 2 DATE ABT 1839
@@ -1822,19 +1847,19 @@
 4 LATI N42.7531
 4 LONG W74.2224
 2 SOUR @S50@
-3 _APID 1,8054::7247464
 3 PAGE Year: 1850; Census Place: New York Ward 5, New York, New Yor
 4 CONC k; Roll: M432_537; Page: 223A; Image: 452
 3 OBJE @1h2IcDiNTDap88oq7Rrz@
+3 _APID 1,8054::7247464
 2 SOUR @W9AF3YLISEKpgaYjMG1d@
-3 _APID 1,7163::30457999
 3 PAGE Year: 1870; Census Place: New York Ward 5 District 1 (2nd En
 4 CONC um), New York, New York; Roll: M593_1016; Page: 9B; Image: 2
 4 CONC 2; Family History Library Film: 552515
 3 OBJE @NTP1VKdRRiaQfMFtKurk@
+3 _APID 1,7163::30457999
 2 SOUR @gnFo1KqTStqpaYqdjblr@
-3 _APID 1,7181::1653641779
 3 OBJE @eD0G6WJUSrKLVWP1q8kN@
+3 _APID 1,7181::1653641779
 1 BIRT
 2 DATE ABT 1841
 2 PLAC New Jersey, USA
@@ -1842,15 +1867,15 @@
 4 LATI N40.1365
 4 LONG W73.2613
 2 SOUR @S51@
-3 _APID 1,7667::46919133
 3 PAGE Year: 1860; Census Place: New York Ward 5 District 1, New Yo
 4 CONC rk, New York; Roll: M653_790; Page: 219; Image: 63; Family H
 4 CONC istory Library Film: 803790
 3 OBJE @dHNmDYPCTC6UfuPUfrO1@
+3 _APID 1,7667::46919133
 2 SOUR @pbUV2aFjTeiSEopmWX0R@
-3 _APID 1,6742::49679001
 3 PAGE Year: 1880; Census Place: Freehold, Monmouth, New Jersey
 3 OBJE @cPhTj5vKRfKflui5xLWP@
+3 _APID 1,6742::49679001
 1 RESI
 2 DATE 1850
 2 PLAC New York, New York, New York, USA
@@ -1858,10 +1883,10 @@
 4 LATI N40.7142
 4 LONG W74.0064
 2 SOUR @S50@
-3 _APID 1,8054::7247464
 3 PAGE Year: 1850; Census Place: New York Ward 5, New York, New Yor
 4 CONC k; Roll: M432_537; Page: 223A; Image: 452
 3 OBJE @1h2IcDiNTDap88oq7Rrz@
+3 _APID 1,8054::7247464
 1 RESI
 2 DATE 1855
 2 PLAC New York, New York, New York, USA
@@ -1869,8 +1894,8 @@
 4 LATI N40.7142
 4 LONG W74.0064
 2 SOUR @gnFo1KqTStqpaYqdjblr@
-3 _APID 1,7181::1653641779
 3 OBJE @eD0G6WJUSrKLVWP1q8kN@
+3 _APID 1,7181::1653641779
 2 NOTE Age: 16; Relation to Head of House: Child
 1 RESI
 2 DATE 1860
@@ -1879,59 +1904,55 @@
 4 LATI N40.7142
 4 LONG W74.0064
 2 SOUR @S51@
-3 _APID 1,7667::46919133
 3 PAGE Year: 1860; Census Place: New York Ward 5 District 1, New Yo
 4 CONC rk, New York; Roll: M653_790; Page: 219; Image: 63; Family H
 4 CONC istory Library Film: 803790
 3 OBJE @dHNmDYPCTC6UfuPUfrO1@
+3 _APID 1,7667::46919133
 1 RESI
 2 DATE 21 DEC 1870
 2 PLAC 476 Greenwich Street, New York, New York, New York, USA
 2 SOUR @W9AF3YLISEKpgaYjMG1d@
-3 _APID 1,7163::30457999
 3 PAGE Year: 1870; Census Place: New York Ward 5 District 1 (2nd En
 4 CONC um), New York, New York; Roll: M593_1016; Page: 9B; Image: 2
 4 CONC 2; Family History Library Film: 552515
 3 OBJE @NTP1VKdRRiaQfMFtKurk@
+3 _APID 1,7163::30457999
 2 NOTE Age: 30; Census Post Office: New York City
 1 RESI
 2 DATE 1880
 2 PLAC Main Street, Freehold, Monmouth, New Jersey, USA
 2 SOUR @pbUV2aFjTeiSEopmWX0R@
-3 _APID 1,6742::49679001
 3 PAGE Year: 1880; Census Place: Freehold, Monmouth, New Jersey
 3 OBJE @cPhTj5vKRfKflui5xLWP@
+3 _APID 1,6742::49679001
 2 NOTE Age: 41; Marital Status: Married; Relation to Head of House
 3 CONC : Self
-1 NAME James J. /Pettit/
+1 _XY 126967 402
+0 @iTTjJDqnRP6UDe9tKEOJ@ INDI
+1 REFN 2885a4bf-9419-4140-a885-aeb81df0c4bd
+1 NAME Lucinda /Pettit/
 2 SOUR @S50@
-3 _APID 1,8054::7247464
 3 PAGE Year: 1850; Census Place: New York Ward 5, New York, New Yor
-4 CONC k; Roll: M432_537; Page: 223A; Image: 452
-3 OBJE @1h2IcDiNTDap88oq7Rrz@
+4 CONC k; Roll: M432_537; Page: 223B; Image: 453
+3 OBJE @SqI9wtDvSHm9MKMWhYeI@
+3 _APID 1,8054::7247466
 2 SOUR @S51@
-3 _APID 1,7667::46919133
 3 PAGE Year: 1860; Census Place: New York Ward 5 District 1, New Yo
 4 CONC rk, New York; Roll: M653_790; Page: 219; Image: 63; Family H
 4 CONC istory Library Film: 803790
 3 OBJE @dHNmDYPCTC6UfuPUfrO1@
+3 _APID 1,7667::46919142
 2 SOUR @W9AF3YLISEKpgaYjMG1d@
-3 _APID 1,7163::30457999
 3 PAGE Year: 1870; Census Place: New York Ward 5 District 1 (2nd En
 4 CONC um), New York, New York; Roll: M593_1016; Page: 9B; Image: 2
 4 CONC 2; Family History Library Film: 552515
 3 OBJE @NTP1VKdRRiaQfMFtKurk@
-2 SOUR @pbUV2aFjTeiSEopmWX0R@
-3 _APID 1,6742::49679001
-3 PAGE Year: 1880; Census Place: Freehold, Monmouth, New Jersey
-3 OBJE @cPhTj5vKRfKflui5xLWP@
+3 _APID 1,7163::30458000
 2 SOUR @gnFo1KqTStqpaYqdjblr@
-3 _APID 1,7181::1653641779
 3 OBJE @eD0G6WJUSrKLVWP1q8kN@
-1 SEX M
-0 @iTTjJDqnRP6UDe9tKEOJ@ INDI
-1 _XY 127301 402
-1 REFN 2885a4bf-9419-4140-a885-aeb81df0c4bd
+3 _APID 1,7181::1653641782
+1 SEX F
 1 FAMC @ztkA7rtfSwW4leD24XfB@
 1 BIRT
 2 DATE ABT 1848
@@ -1940,25 +1961,25 @@
 4 LATI N42.7531
 4 LONG W74.2224
 2 SOUR @S50@
-3 _APID 1,8054::7247466
 3 PAGE Year: 1850; Census Place: New York Ward 5, New York, New Yor
 4 CONC k; Roll: M432_537; Page: 223B; Image: 453
 3 OBJE @SqI9wtDvSHm9MKMWhYeI@
+3 _APID 1,8054::7247466
 2 SOUR @S51@
-3 _APID 1,7667::46919142
 3 PAGE Year: 1860; Census Place: New York Ward 5 District 1, New Yo
 4 CONC rk, New York; Roll: M653_790; Page: 219; Image: 63; Family H
 4 CONC istory Library Film: 803790
 3 OBJE @dHNmDYPCTC6UfuPUfrO1@
+3 _APID 1,7667::46919142
 2 SOUR @W9AF3YLISEKpgaYjMG1d@
-3 _APID 1,7163::30458000
 3 PAGE Year: 1870; Census Place: New York Ward 5 District 1 (2nd En
 4 CONC um), New York, New York; Roll: M593_1016; Page: 9B; Image: 2
 4 CONC 2; Family History Library Film: 552515
 3 OBJE @NTP1VKdRRiaQfMFtKurk@
+3 _APID 1,7163::30458000
 2 SOUR @gnFo1KqTStqpaYqdjblr@
-3 _APID 1,7181::1653641782
 3 OBJE @eD0G6WJUSrKLVWP1q8kN@
+3 _APID 1,7181::1653641782
 1 RESI
 2 DATE 1850
 2 PLAC New York, New York, New York, USA
@@ -1966,10 +1987,10 @@
 4 LATI N40.7142
 4 LONG W74.0064
 2 SOUR @S50@
-3 _APID 1,8054::7247466
 3 PAGE Year: 1850; Census Place: New York Ward 5, New York, New Yor
 4 CONC k; Roll: M432_537; Page: 223B; Image: 453
 3 OBJE @SqI9wtDvSHm9MKMWhYeI@
+3 _APID 1,8054::7247466
 1 RESI
 2 DATE 1855
 2 PLAC New York, New York, New York, USA
@@ -1977,8 +1998,8 @@
 4 LATI N40.7142
 4 LONG W74.0064
 2 SOUR @gnFo1KqTStqpaYqdjblr@
-3 _APID 1,7181::1653641782
 3 OBJE @eD0G6WJUSrKLVWP1q8kN@
+3 _APID 1,7181::1653641782
 2 NOTE Age: 7; Relation to Head of House: Child
 1 RESI
 2 DATE 1860
@@ -1987,46 +2008,71 @@
 4 LATI N40.7142
 4 LONG W74.0064
 2 SOUR @S51@
-3 _APID 1,7667::46919142
 3 PAGE Year: 1860; Census Place: New York Ward 5 District 1, New Yo
 4 CONC rk, New York; Roll: M653_790; Page: 219; Image: 63; Family H
 4 CONC istory Library Film: 803790
 3 OBJE @dHNmDYPCTC6UfuPUfrO1@
+3 _APID 1,7667::46919142
 1 RESI
 2 DATE 21 DEC 1870
 2 PLAC 476 Greenwich Street, New York, New York, New York, USA
 2 SOUR @W9AF3YLISEKpgaYjMG1d@
-3 _APID 1,7163::30458000
 3 PAGE Year: 1870; Census Place: New York Ward 5 District 1 (2nd En
 4 CONC um), New York, New York; Roll: M593_1016; Page: 9B; Image: 2
 4 CONC 2; Family History Library Film: 552515
 3 OBJE @NTP1VKdRRiaQfMFtKurk@
+3 _APID 1,7163::30458000
 2 NOTE Age: 19; Census Post Office: New York City
-1 NAME Lucinda /Pettit/
-2 SOUR @S50@
-3 _APID 1,8054::7247466
-3 PAGE Year: 1850; Census Place: New York Ward 5, New York, New Yor
-4 CONC k; Roll: M432_537; Page: 223B; Image: 453
-3 OBJE @SqI9wtDvSHm9MKMWhYeI@
-2 SOUR @S51@
-3 _APID 1,7667::46919142
-3 PAGE Year: 1860; Census Place: New York Ward 5 District 1, New Yo
-4 CONC rk, New York; Roll: M653_790; Page: 219; Image: 63; Family H
-4 CONC istory Library Film: 803790
-3 OBJE @dHNmDYPCTC6UfuPUfrO1@
-2 SOUR @W9AF3YLISEKpgaYjMG1d@
-3 _APID 1,7163::30458000
-3 PAGE Year: 1870; Census Place: New York Ward 5 District 1 (2nd En
-4 CONC um), New York, New York; Roll: M593_1016; Page: 9B; Image: 2
-4 CONC 2; Family History Library Film: 552515
-3 OBJE @NTP1VKdRRiaQfMFtKurk@
-2 SOUR @gnFo1KqTStqpaYqdjblr@
-3 _APID 1,7181::1653641782
-3 OBJE @eD0G6WJUSrKLVWP1q8kN@
-1 SEX F
+1 _XY 127301 402
 0 @OTHDmAEoSfWjLtOZBbLM@ INDI
-1 _XY 126846 396
 1 REFN d56dd4b5-018a-4a2d-8a7e-cce90fb870ef
+1 NAME Mary Eliza /Pettit/
+2 SOUR @S50@
+3 PAGE Year: 1850; Census Place: New York Ward 5, New York, New Yor
+4 CONC k; Roll: M432_537; Page: 223A; Image: 452
+3 OBJE @1h2IcDiNTDap88oq7Rrz@
+3 _APID 1,8054::7247462
+2 SOUR @S51@
+3 PAGE Year: 1860; Census Place: Brooklyn Ward 19 District 2, Kings
+4 CONC , New York; Roll: M653_775; Page: 626; Image: 242; Family Hi
+4 CONC story Library Film: 803775
+3 OBJE @vmJE3KiMSOeddhlvdi4T@
+3 _APID 1,7667::46651451
+2 SOUR @W9AF3YLISEKpgaYjMG1d@
+3 PAGE Year: 1870; Census Place: Brooklyn Ward 15, Kings, New York
+4 CONC ; Roll: M593_956; Page: 493A; Image: 469; Family History Lib
+4 CONC rary Film: 552455
+3 OBJE @d0B3ylCRT66hrCBpiokE@
+3 _APID 1,7163::24775498
+2 SOUR @pbUV2aFjTeiSEopmWX0R@
+3 PAGE Year: 1880; Census Place: Brooklyn, Kings, New York; Roll: 8
+4 CONC 47; Family History Film: 1254847; Page: 135C; Enumeration Di
+4 CONC strict: 112; Image: 0362
+3 OBJE @QN5rblQlQhaN6I4GT8Eg@
+3 _APID 1,6742::1977420
+2 SOUR @s0L6N5OcScOF36R6oKRN@
+3 PAGE Ancestry Family Tree
+3 DATA
+4 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=62861
+5 CONC &pid=67
+2 SOUR @kBCNtpe7RmalHCbY6r7U@
+3 QUAY 1
+2 SOUR @Ffr0MHgqRHaIi7gcQ4ji@
+3 _APID 1,7854::273828
+2 SOUR @wctgpVPVSZ6VLXY9SuLQ@
+3 _APID 1,9131::625823
+2 SOUR @RsPSbkVZTRGnadmliWZN@
+3 OBJE @jzABRDVNSaiUxnyNoMmQ@
+3 _APID 1,7218::586968
+2 SOUR @ZthEJ6Y4TgCMPRbXt3Ly@
+3 OBJE @p9vbjQvUSGm0ePtPHxTq@
+3 _APID 1,7250::1361179925
+2 SOUR @fwKRctQFSg2nur19Sswv@
+3 OBJE @nkhQHz7mRJmTabcwnP9O@
+3 _APID 1,3212::2303176
+2 SOUR @OmhiLCI7Twq3j0fqyikC@
+3 _APID 1,60901::763136142
+1 SEX F
 1 FAMC @ztkA7rtfSwW4leD24XfB@
 1 FAMS @6B9BDUpTRoCHtTBEoKjL@
 1 BIRT
@@ -2036,48 +2082,48 @@
 4 LATI N40.1365
 4 LONG W73.2613
 2 SOUR @S50@
-3 _APID 1,8054::7247462
 3 PAGE Year: 1850; Census Place: New York Ward 5, New York, New Yor
 4 CONC k; Roll: M432_537; Page: 223A; Image: 452
 3 OBJE @1h2IcDiNTDap88oq7Rrz@
+3 _APID 1,8054::7247462
 2 SOUR @S51@
-3 _APID 1,7667::46651451
 3 PAGE Year: 1860; Census Place: Brooklyn Ward 19 District 2, Kings
 4 CONC , New York; Roll: M653_775; Page: 626; Image: 242; Family Hi
 4 CONC story Library Film: 803775
 3 OBJE @vmJE3KiMSOeddhlvdi4T@
+3 _APID 1,7667::46651451
 2 SOUR @W9AF3YLISEKpgaYjMG1d@
-3 _APID 1,7163::24775498
 3 PAGE Year: 1870; Census Place: Brooklyn Ward 15, Kings, New York
 4 CONC ; Roll: M593_956; Page: 493A; Image: 469; Family History Lib
 4 CONC rary Film: 552455
 3 OBJE @d0B3ylCRT66hrCBpiokE@
+3 _APID 1,7163::24775498
 2 SOUR @pbUV2aFjTeiSEopmWX0R@
-3 _APID 1,6742::1977420
 3 PAGE Year: 1880; Census Place: Brooklyn, Kings, New York; Roll: 8
 4 CONC 47; Family History Film: 1254847; Page: 135C; Enumeration Di
 4 CONC strict: 112; Image: 0362
 3 OBJE @QN5rblQlQhaN6I4GT8Eg@
+3 _APID 1,6742::1977420
 2 SOUR @yYIv9DFiSr67LzZQWPX4@
 3 QUAY 1
 2 SOUR @mSE0I9tsT1SWSaR6iPC1@
 2 SOUR @pfwhvFaIQruDzL4mcl6h@
-3 _LINK http://archiver.rootsweb.ancestry.com/th/read/PETTIT/2005-10
-4 CONC /1129163479
 3 PAGE Pettit, William
 3 DATA
 4 TEXT William Pettit [...] children: Mary Eliza
+3 _LINK http://archiver.rootsweb.ancestry.com/th/read/PETTIT/2005-10
+4 CONC /1129163479
 2 SOUR @wctgpVPVSZ6VLXY9SuLQ@
 3 _APID 1,9131::625823
 2 SOUR @RsPSbkVZTRGnadmliWZN@
-3 _APID 1,7218::586968
 3 OBJE @jzABRDVNSaiUxnyNoMmQ@
+3 _APID 1,7218::586968
 2 SOUR @ZthEJ6Y4TgCMPRbXt3Ly@
-3 _APID 1,7250::1361179925
 3 OBJE @p9vbjQvUSGm0ePtPHxTq@
+3 _APID 1,7250::1361179925
 2 SOUR @fwKRctQFSg2nur19Sswv@
-3 _APID 1,3212::2303176
 3 OBJE @nkhQHz7mRJmTabcwnP9O@
+3 _APID 1,3212::2303176
 2 NOTE eldest daughter of WIlliam Pettit (according to marriage rec
 3 CONC ord in New York Herald)
 1 RESI
@@ -2087,10 +2133,10 @@
 4 LATI N40.7142
 4 LONG W74.0064
 2 SOUR @S50@
-3 _APID 1,8054::7247462
 3 PAGE Year: 1850; Census Place: New York Ward 5, New York, New Yor
 4 CONC k; Roll: M432_537; Page: 223A; Image: 452
 3 OBJE @1h2IcDiNTDap88oq7Rrz@
+3 _APID 1,8054::7247462
 1 CENS
 2 DATE 01 JUN 1860
 2 PLAC Brooklyn, Kings, New York, USA
@@ -2106,11 +2152,11 @@
 4 LATI N40.65
 4 LONG W73.95
 2 SOUR @S51@
-3 _APID 1,7667::46651451
 3 PAGE Year: 1860; Census Place: Brooklyn Ward 19 District 2, Kings
 4 CONC , New York; Roll: M653_775; Page: 626; Image: 242; Family Hi
 4 CONC story Library Film: 803775
 3 OBJE @vmJE3KiMSOeddhlvdi4T@
+3 _APID 1,7667::46651451
 2 NOTE Age: 25
 1 RESI
 2 DATE 1865
@@ -2119,8 +2165,8 @@
 4 LATI N40.65
 4 LONG W73.95
 2 SOUR @RsPSbkVZTRGnadmliWZN@
-3 _APID 1,7218::586968
 3 OBJE @jzABRDVNSaiUxnyNoMmQ@
+3 _APID 1,7218::586968
 2 NOTE Relation to Head of House: Wife
 1 RESI
 2 DATE 1870
@@ -2129,11 +2175,11 @@
 4 LATI N40.65
 4 LONG W73.95
 2 SOUR @W9AF3YLISEKpgaYjMG1d@
-3 _APID 1,7163::24775498
 3 PAGE Year: 1870; Census Place: Brooklyn Ward 15, Kings, New York
 4 CONC ; Roll: M593_956; Page: 493A; Image: 469; Family History Lib
 4 CONC rary Film: 552455
 3 OBJE @d0B3ylCRT66hrCBpiokE@
+3 _APID 1,7163::24775498
 1 CENS
 2 DATE 06 AUG 1870
 2 PLAC Brooklyn, Kings, New York, USA
@@ -2146,8 +2192,8 @@
 2 DATE 01 JUN 1875
 2 PLAC 272 South 5th Street, Brooklyn, Kings, New York, USA
 2 SOUR @ZthEJ6Y4TgCMPRbXt3Ly@
-3 _APID 1,7250::1361179925
 3 OBJE @p9vbjQvUSGm0ePtPHxTq@
+3 _APID 1,7250::1361179925
 2 NOTE Age: 40; Relation to Head of House: Wife
 1 CENS
 2 DATE 01 JUN 1880
@@ -2161,11 +2207,11 @@
 4 LATI N40.65
 4 LONG W73.95
 2 SOUR @pbUV2aFjTeiSEopmWX0R@
-3 _APID 1,6742::1977420
 3 PAGE Year: 1880; Census Place: Brooklyn, Kings, New York; Roll: 8
 4 CONC 47; Family History Film: 1254847; Page: 135C; Enumeration Di
 4 CONC strict: 112; Image: 0362
 3 OBJE @QN5rblQlQhaN6I4GT8Eg@
+3 _APID 1,6742::1977420
 2 NOTE Age: 44; Marital Status: Married; Relation to Head of House
 3 CONC : Wife
 1 CENS
@@ -2183,8 +2229,8 @@
 4 LATI N40.65
 4 LONG W73.95
 2 SOUR @fwKRctQFSg2nur19Sswv@
-3 _APID 1,3212::2303176
 3 OBJE @nkhQHz7mRJmTabcwnP9O@
+3 _APID 1,3212::2303176
 2 NOTE Age: 57
 1 DEAT
 2 DATE 22 OCT 1897
@@ -2208,84 +2254,74 @@
 2 SOUR @yYIv9DFiSr67LzZQWPX4@
 3 QUAY 3
 2 SOUR @mSE0I9tsT1SWSaR6iPC1@
-1 NAME Mary Eliza /Pettit/
-2 SOUR @S50@
-3 _APID 1,8054::7247462
-3 PAGE Year: 1850; Census Place: New York Ward 5, New York, New Yor
-4 CONC k; Roll: M432_537; Page: 223A; Image: 452
-3 OBJE @1h2IcDiNTDap88oq7Rrz@
-2 SOUR @S51@
-3 _APID 1,7667::46651451
-3 PAGE Year: 1860; Census Place: Brooklyn Ward 19 District 2, Kings
-4 CONC , New York; Roll: M653_775; Page: 626; Image: 242; Family Hi
-4 CONC story Library Film: 803775
-3 OBJE @vmJE3KiMSOeddhlvdi4T@
-2 SOUR @W9AF3YLISEKpgaYjMG1d@
-3 _APID 1,7163::24775498
-3 PAGE Year: 1870; Census Place: Brooklyn Ward 15, Kings, New York
-4 CONC ; Roll: M593_956; Page: 493A; Image: 469; Family History Lib
-4 CONC rary Film: 552455
-3 OBJE @d0B3ylCRT66hrCBpiokE@
-2 SOUR @pbUV2aFjTeiSEopmWX0R@
-3 _APID 1,6742::1977420
-3 PAGE Year: 1880; Census Place: Brooklyn, Kings, New York; Roll: 8
-4 CONC 47; Family History Film: 1254847; Page: 135C; Enumeration Di
-4 CONC strict: 112; Image: 0362
-3 OBJE @QN5rblQlQhaN6I4GT8Eg@
-2 SOUR @s0L6N5OcScOF36R6oKRN@
-3 PAGE Ancestry Family Tree
-3 DATA
-4 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=62861
-5 CONC &pid=67
-2 SOUR @kBCNtpe7RmalHCbY6r7U@
-3 QUAY 1
-2 SOUR @Ffr0MHgqRHaIi7gcQ4ji@
-3 _APID 1,7854::273828
-2 SOUR @wctgpVPVSZ6VLXY9SuLQ@
-3 _APID 1,9131::625823
-2 SOUR @RsPSbkVZTRGnadmliWZN@
-3 _APID 1,7218::586968
-3 OBJE @jzABRDVNSaiUxnyNoMmQ@
-2 SOUR @ZthEJ6Y4TgCMPRbXt3Ly@
-3 _APID 1,7250::1361179925
-3 OBJE @p9vbjQvUSGm0ePtPHxTq@
-2 SOUR @fwKRctQFSg2nur19Sswv@
-3 _APID 1,3212::2303176
-3 OBJE @nkhQHz7mRJmTabcwnP9O@
-2 SOUR @OmhiLCI7Twq3j0fqyikC@
-3 _APID 1,60901::763136142
-1 SEX F
+1 _XY 126846 396
 0 @KQUHMkV8SLaEwTOGMci4@ INDI
-1 _XY 127176 296
 1 REFN ea3374e2-65ff-4a5b-a370-4ec769bf032a
+1 NAME Samuel /Pettit/
+2 SOUR @S50@
+3 PAGE Year: 1850; Census Place: Brooklyn Ward 11, Kings, New York
+4 CONC ; Roll: M432_520; Page: 270B; Image: 481
+3 OBJE @Ru41TagsQNCrXQJHbsKK@
+3 _APID 1,8054::11650725
+2 SOUR @W9AF3YLISEKpgaYjMG1d@
+3 PAGE Year: 1870; Census Place: Brooklyn Ward 20, Kings, New York
+4 CONC ; Roll: M593_960; Page: 124B; Image: 252; Family History Lib
+4 CONC rary Film: 552459
+3 OBJE @Mbd743YISV6Eu0rlIgWh@
+3 _APID 1,7163::33678023
+2 SOUR @pbUV2aFjTeiSEopmWX0R@
+3 PAGE Year: 1880; Census Place: Brooklyn, Kings, New York; Roll: 8
+4 CONC 56; Family History Film: 1254856; Page: 34A; Enumeration Dis
+4 CONC trict: 244; Image: 0305
+3 OBJE @2GuAqQXwSwarxqHoMIFI@
+3 _APID 1,6742::2357901
+2 SOUR @vIZdSb53T3SF8R88aOfs@
+3 _APID 1,4710::134504
+2 SOUR @RsPSbkVZTRGnadmliWZN@
+3 OBJE @BVYDAFK9TOKCJ98zVkQJ@
+3 _APID 1,7218::2128948
+2 SOUR @ZthEJ6Y4TgCMPRbXt3Ly@
+3 OBJE @1Sdz2cVhSoSynS6mzKPw@
+3 _APID 1,7250::1363141987
+2 SOUR @Qc7mayX5RAi73P4shcoB@
+3 PAGE New York, Kings County, Probate Administration Records; Auth
+4 CONC or: New York. Surrogate's Court (Kings County); Probate Plac
+4 CONC e: Kings, New York
+3 OBJE @w2SzqJUAS5ibY27pC051@
+3 OBJE @f4NyQMd7RMKtTVQ0q7yq@
+3 OBJE @g8GlaZK6Sd6k1rqxx1cG@
+3 OBJE @0piony7KQaSuiWMjd6MQ@
+3 OBJE @eG2HZRUzQrCjPU3l3w8e@
+3 _APID 1,8800::11702005
+1 SEX M
 1 FAMC @8szxfl6tT7WgFUnujVjX@
 1 FAMS @ff6h6xhWRya5JYuS1vY3@
 1 BIRT
 2 DATE ABT 1828
 2 PLAC Duchess, New York, USA
 2 SOUR @S50@
-3 _APID 1,8054::11650725
 3 PAGE Year: 1850; Census Place: Brooklyn Ward 11, Kings, New York
 4 CONC ; Roll: M432_520; Page: 270B; Image: 481
 3 OBJE @Ru41TagsQNCrXQJHbsKK@
+3 _APID 1,8054::11650725
 2 SOUR @W9AF3YLISEKpgaYjMG1d@
-3 _APID 1,7163::33678023
 3 PAGE Year: 1870; Census Place: Brooklyn Ward 20, Kings, New York
 4 CONC ; Roll: M593_960; Page: 124B; Image: 252; Family History Lib
 4 CONC rary Film: 552459
 3 OBJE @Mbd743YISV6Eu0rlIgWh@
+3 _APID 1,7163::33678023
 2 SOUR @pbUV2aFjTeiSEopmWX0R@
-3 _APID 1,6742::2357901
 3 PAGE Year: 1880; Census Place: Brooklyn, Kings, New York; Roll: 8
 4 CONC 56; Family History Film: 1254856; Page: 34A; Enumeration Dis
 4 CONC trict: 244; Image: 0305
 3 OBJE @2GuAqQXwSwarxqHoMIFI@
+3 _APID 1,6742::2357901
 2 SOUR @RsPSbkVZTRGnadmliWZN@
-3 _APID 1,7218::2128948
 3 OBJE @BVYDAFK9TOKCJ98zVkQJ@
+3 _APID 1,7218::2128948
 2 SOUR @ZthEJ6Y4TgCMPRbXt3Ly@
-3 _APID 1,7250::1363141987
 3 OBJE @1Sdz2cVhSoSynS6mzKPw@
+3 _APID 1,7250::1363141987
 1 RESI
 2 DATE 1850
 2 PLAC Brooklyn, Kings, New York, USA
@@ -2293,10 +2329,10 @@
 4 LATI N40.65
 4 LONG W73.95
 2 SOUR @S50@
-3 _APID 1,8054::11650725
 3 PAGE Year: 1850; Census Place: Brooklyn Ward 11, Kings, New York
 4 CONC ; Roll: M432_520; Page: 270B; Image: 481
 3 OBJE @Ru41TagsQNCrXQJHbsKK@
+3 _APID 1,8054::11650725
 1 RESI
 2 DATE 1865
 2 PLAC Red Hook, Dutchess, New York, USA
@@ -2304,8 +2340,8 @@
 4 LATI N41.9951
 4 LONG W73.8754
 2 SOUR @RsPSbkVZTRGnadmliWZN@
-3 _APID 1,7218::2128948
 3 OBJE @BVYDAFK9TOKCJ98zVkQJ@
+3 _APID 1,7218::2128948
 2 NOTE Relation to Head of House: Head
 1 RESI
 2 DATE 1870
@@ -2314,11 +2350,11 @@
 4 LATI N40.65
 4 LONG W73.95
 2 SOUR @W9AF3YLISEKpgaYjMG1d@
-3 _APID 1,7163::33678023
 3 PAGE Year: 1870; Census Place: Brooklyn Ward 20, Kings, New York
 4 CONC ; Roll: M593_960; Page: 124B; Image: 252; Family History Lib
 4 CONC rary Film: 552459
 3 OBJE @Mbd743YISV6Eu0rlIgWh@
+3 _APID 1,7163::33678023
 2 NOTE Census Post Office: Brooklyn
 1 RESI
 2 DATE 01 JUN 1875
@@ -2327,8 +2363,8 @@
 4 LATI N40.65
 4 LONG W73.95
 2 SOUR @ZthEJ6Y4TgCMPRbXt3Ly@
-3 _APID 1,7250::1363141987
 3 OBJE @1Sdz2cVhSoSynS6mzKPw@
+3 _APID 1,7250::1363141987
 2 NOTE Relation to Head of House: Head
 1 RESI
 2 DATE 1880
@@ -2337,11 +2373,11 @@
 4 LATI N40.65
 4 LONG W73.95
 2 SOUR @pbUV2aFjTeiSEopmWX0R@
-3 _APID 1,6742::2357901
 3 PAGE Year: 1880; Census Place: Brooklyn, Kings, New York; Roll: 8
 4 CONC 56; Family History Film: 1254856; Page: 34A; Enumeration Dis
 4 CONC trict: 244; Image: 0305
 3 OBJE @2GuAqQXwSwarxqHoMIFI@
+3 _APID 1,6742::2357901
 2 NOTE Marital Status: Married; Relation to Head of House: Self
 1 RESI
 2 DATE 1888
@@ -2364,7 +2400,6 @@
 4 LATI N42.7531
 4 LONG W74.2224
 2 SOUR @Qc7mayX5RAi73P4shcoB@
-3 _APID 1,8800::11702005
 3 PAGE New York, Kings County, Probate Administration Records; Auth
 4 CONC or: New York. Surrogate's Court (Kings County); Probate Plac
 4 CONC e: Kings, New York
@@ -2373,6 +2408,7 @@
 3 OBJE @g8GlaZK6Sd6k1rqxx1cG@
 3 OBJE @0piony7KQaSuiWMjd6MQ@
 3 OBJE @eG2HZRUzQrCjPU3l3w8e@
+3 _APID 1,8800::11702005
 1 PROB
 2 DATE 05 JUL 1910
 2 PLAC Brooklyn, Kings, New York, USA
@@ -2380,7 +2416,6 @@
 4 LATI N40.65
 4 LONG W73.95
 2 SOUR @Qc7mayX5RAi73P4shcoB@
-3 _APID 1,8800::11702005
 3 PAGE New York, Kings County, Probate Administration Records; Auth
 4 CONC or: New York. Surrogate's Court (Kings County); Probate Plac
 4 CONC e: Kings, New York
@@ -2389,46 +2424,68 @@
 3 OBJE @g8GlaZK6Sd6k1rqxx1cG@
 3 OBJE @0piony7KQaSuiWMjd6MQ@
 3 OBJE @eG2HZRUzQrCjPU3l3w8e@
-1 NAME Samuel /Pettit/
-2 SOUR @S50@
-3 _APID 1,8054::11650725
-3 PAGE Year: 1850; Census Place: Brooklyn Ward 11, Kings, New York
-4 CONC ; Roll: M432_520; Page: 270B; Image: 481
-3 OBJE @Ru41TagsQNCrXQJHbsKK@
-2 SOUR @W9AF3YLISEKpgaYjMG1d@
-3 _APID 1,7163::33678023
-3 PAGE Year: 1870; Census Place: Brooklyn Ward 20, Kings, New York
-4 CONC ; Roll: M593_960; Page: 124B; Image: 252; Family History Lib
-4 CONC rary Film: 552459
-3 OBJE @Mbd743YISV6Eu0rlIgWh@
-2 SOUR @pbUV2aFjTeiSEopmWX0R@
-3 _APID 1,6742::2357901
-3 PAGE Year: 1880; Census Place: Brooklyn, Kings, New York; Roll: 8
-4 CONC 56; Family History Film: 1254856; Page: 34A; Enumeration Dis
-4 CONC trict: 244; Image: 0305
-3 OBJE @2GuAqQXwSwarxqHoMIFI@
-2 SOUR @vIZdSb53T3SF8R88aOfs@
-3 _APID 1,4710::134504
-2 SOUR @RsPSbkVZTRGnadmliWZN@
-3 _APID 1,7218::2128948
-3 OBJE @BVYDAFK9TOKCJ98zVkQJ@
-2 SOUR @ZthEJ6Y4TgCMPRbXt3Ly@
-3 _APID 1,7250::1363141987
-3 OBJE @1Sdz2cVhSoSynS6mzKPw@
-2 SOUR @Qc7mayX5RAi73P4shcoB@
 3 _APID 1,8800::11702005
-3 PAGE New York, Kings County, Probate Administration Records; Auth
-4 CONC or: New York. Surrogate's Court (Kings County); Probate Plac
-4 CONC e: Kings, New York
-3 OBJE @w2SzqJUAS5ibY27pC051@
-3 OBJE @f4NyQMd7RMKtTVQ0q7yq@
-3 OBJE @g8GlaZK6Sd6k1rqxx1cG@
-3 OBJE @0piony7KQaSuiWMjd6MQ@
-3 OBJE @eG2HZRUzQrCjPU3l3w8e@
-1 SEX M
+1 _XY 127176 296
 0 @3F32UsjHQB6q86GZ85qZ@ INDI
-1 _XY 126952 296
 1 REFN 8602b410-f5f6-4954-b124-5a37d4c7438f
+1 NAME Wells O. /Pettit/
+2 SOUR @S50@
+3 PAGE Year: 1850; Census Place: Brooklyn Ward 11, Kings, New York
+4 CONC ; Roll: M432_520; Page: 328B; Image: 597
+3 OBJE @lpHlvnWGRROKt8DLmaxr@
+3 _APID 1,8054::11644541
+2 SOUR @S51@
+3 PAGE Year: 1860; Census Place: Brooklyn Ward 11 District 3, Kings
+4 CONC , New York; Roll: M653_770; Page: 570; Image: 570; Family Hi
+4 CONC story Library Film: 803770
+3 OBJE @NIHme99aTUeMe0yaNg1S@
+3 _APID 1,7667::46566496
+2 SOUR @W9AF3YLISEKpgaYjMG1d@
+3 PAGE Year: 1870; Census Place: Brooklyn Ward 20, Kings, New York
+4 CONC ; Roll: M593_960; Page: 109B; Image: 222; Family History Lib
+4 CONC rary Film: 552459
+3 OBJE @8hD90X73RYOatuHhASYP@
+3 _APID 1,7163::28240796
+2 SOUR @qx6h3yCvRBScfXR7xfEj@
+3 PAGE "Deaths Atlantic-Cumberland, vol. 5, 1879-1880," FHL Film #5
+4 CONC 89826, entry 1
+3 _APID 1,2540::529576508
+2 SOUR @qx6h3yCvRBScfXR7xfEj@
+3 PAGE "Deaths Atlantic-Cumberland, vol. 5, 1879-1880," FHL Film #5
+4 CONC 89826, entry 2
+3 _APID 1,2540::248918934
+2 SOUR @aljqAZ0YQCq5QGhK6tDD@
+3 PAGE New York State Archives, Cultural Education Center, Albany
+4 CONC , New York; New York Civil War Muster Roll Abstracts, 1861-1
+4 CONC 900; Archive Collection #: 13775-83; Box #: 622; Roll #: 278
+3 OBJE @gwqpKPpERFqjvcLnhC8X@
+3 _APID 1,1965::440157
+2 SOUR @RsPSbkVZTRGnadmliWZN@
+3 OBJE @URx1xQERSzSZ4dilNcUs@
+3 _APID 1,7218::787996
+2 SOUR @ZthEJ6Y4TgCMPRbXt3Ly@
+3 OBJE @sNwy99zdQJCcwFqXJh8M@
+3 _APID 1,7250::1365778494
+2 SOUR @365TJWZOQ8yZBepnZqbY@
+3 PAGE Census Year: 1880
+3 OBJE @6BTRjpPkRgyJKzNxVHJA@
+3 _APID 1,8756::68533
+2 SOUR @bL6OAj30RRa4kx8GyxAp@
+3 OBJE @VYN3ipS5RmSQMgWy2Lw6@
+3 _APID 1,2590::1422380
+2 SOUR @r6xAaWOBTyeHymNITul1@
+3 PAGE "Nationwide Gravesite Locator"
+3 _APID 1,8750::5445729
+2 SOUR @r6xAaWOBTyeHymNITul1@
+3 PAGE "Nationwide Gravesite Locator," interment record
+3 _APID 1,8750::2413986
+2 SOUR @w4Jqg6FJTw6VzrbUfvKG@
+3 _APID 1,1555::571395
+2 SOUR @S52@
+3 _APID 1,60525::201501
+2 SOUR @P4FI9iQlTluD8w3Q3AsZ@
+3 _APID 1,70609::793980
+1 SEX M
 1 FAMC @8szxfl6tT7WgFUnujVjX@
 1 BIRT
 2 DATE 1817
@@ -2437,38 +2494,38 @@
 4 LATI N42.7531
 4 LONG W74.2224
 2 SOUR @S50@
-3 _APID 1,8054::11644541
 3 PAGE Year: 1850; Census Place: Brooklyn Ward 11, Kings, New York
 4 CONC ; Roll: M432_520; Page: 328B; Image: 597
 3 OBJE @lpHlvnWGRROKt8DLmaxr@
+3 _APID 1,8054::11644541
 2 SOUR @S51@
-3 _APID 1,7667::46566496
 3 PAGE Year: 1860; Census Place: Brooklyn Ward 11 District 3, Kings
 4 CONC , New York; Roll: M653_770; Page: 570; Image: 570; Family Hi
 4 CONC story Library Film: 803770
 3 OBJE @NIHme99aTUeMe0yaNg1S@
+3 _APID 1,7667::46566496
 2 SOUR @W9AF3YLISEKpgaYjMG1d@
-3 _APID 1,7163::28240796
 3 PAGE Year: 1870; Census Place: Brooklyn Ward 20, Kings, New York
 4 CONC ; Roll: M593_960; Page: 109B; Image: 222; Family History Lib
 4 CONC rary Film: 552459
 3 OBJE @8hD90X73RYOatuHhASYP@
+3 _APID 1,7163::28240796
 2 SOUR @aljqAZ0YQCq5QGhK6tDD@
-3 _APID 1,1965::440157
 3 PAGE New York State Archives, Cultural Education Center, Albany
 4 CONC , New York; New York Civil War Muster Roll Abstracts, 1861-1
 4 CONC 900; Archive Collection #: 13775-83; Box #: 622; Roll #: 278
 3 OBJE @gwqpKPpERFqjvcLnhC8X@
+3 _APID 1,1965::440157
 2 SOUR @RsPSbkVZTRGnadmliWZN@
-3 _APID 1,7218::787996
 3 OBJE @URx1xQERSzSZ4dilNcUs@
+3 _APID 1,7218::787996
 2 SOUR @ZthEJ6Y4TgCMPRbXt3Ly@
-3 _APID 1,7250::1365778494
 3 OBJE @sNwy99zdQJCcwFqXJh8M@
+3 _APID 1,7250::1365778494
 2 SOUR @365TJWZOQ8yZBepnZqbY@
-3 _APID 1,8756::68533
 3 PAGE Census Year: 1880
 3 OBJE @6BTRjpPkRgyJKzNxVHJA@
+3 _APID 1,8756::68533
 2 SOUR @w4Jqg6FJTw6VzrbUfvKG@
 3 _APID 1,1555::571395
 2 SOUR @S52@
@@ -2482,10 +2539,10 @@
 4 LATI N40.65
 4 LONG W73.95
 2 SOUR @S50@
-3 _APID 1,8054::11644541
 3 PAGE Year: 1850; Census Place: Brooklyn Ward 11, Kings, New York
 4 CONC ; Roll: M432_520; Page: 328B; Image: 597
 3 OBJE @lpHlvnWGRROKt8DLmaxr@
+3 _APID 1,8054::11644541
 2 NOTE Age: 34
 1 RESI
 2 DATE 1860
@@ -2494,11 +2551,11 @@
 4 LATI N40.65
 4 LONG W73.95
 2 SOUR @S51@
-3 _APID 1,7667::46566496
 3 PAGE Year: 1860; Census Place: Brooklyn Ward 11 District 3, Kings
 4 CONC , New York; Roll: M653_770; Page: 570; Image: 570; Family Hi
 4 CONC story Library Film: 803770
 3 OBJE @NIHme99aTUeMe0yaNg1S@
+3 _APID 1,7667::46566496
 2 NOTE Age: 44
 1 EVEN
 2 TYPE military
@@ -2508,11 +2565,11 @@
 4 LATI N40.65
 4 LONG W73.95
 2 SOUR @aljqAZ0YQCq5QGhK6tDD@
-3 _APID 1,1965::440157
 3 PAGE New York State Archives, Cultural Education Center, Albany
 4 CONC , New York; New York Civil War Muster Roll Abstracts, 1861-1
 4 CONC 900; Archive Collection #: 13775-83; Box #: 622; Roll #: 278
 3 OBJE @gwqpKPpERFqjvcLnhC8X@
+3 _APID 1,1965::440157
 2 SOUR @w4Jqg6FJTw6VzrbUfvKG@
 3 _APID 1,1555::571395
 1 RESI
@@ -2522,8 +2579,8 @@
 4 LATI N40.65
 4 LONG W73.95
 2 SOUR @RsPSbkVZTRGnadmliWZN@
-3 _APID 1,7218::787996
 3 OBJE @URx1xQERSzSZ4dilNcUs@
+3 _APID 1,7218::787996
 2 NOTE Relation to Head of House: Head
 1 RESI
 2 DATE 1870
@@ -2532,11 +2589,11 @@
 4 LATI N40.65
 4 LONG W73.95
 2 SOUR @W9AF3YLISEKpgaYjMG1d@
-3 _APID 1,7163::28240796
 3 PAGE Year: 1870; Census Place: Brooklyn Ward 20, Kings, New York
 4 CONC ; Roll: M593_960; Page: 109B; Image: 222; Family History Lib
 4 CONC rary Film: 552459
 3 OBJE @8hD90X73RYOatuHhASYP@
+3 _APID 1,7163::28240796
 2 NOTE Age: 54; Census Post Office: Brooklyn
 1 RESI
 2 DATE 01 JUN 1875
@@ -2545,8 +2602,8 @@
 4 LATI N40.65
 4 LONG W73.95
 2 SOUR @ZthEJ6Y4TgCMPRbXt3Ly@
-3 _APID 1,7250::1365778494
 3 OBJE @sNwy99zdQJCcwFqXJh8M@
+3 _APID 1,7250::1365778494
 2 NOTE Relation to Head of House: Head
 1 DEAT
 2 DATE 08 APR 1880
@@ -2555,26 +2612,26 @@
 4 LATI N40.0654
 4 LONG W74.919
 2 SOUR @qx6h3yCvRBScfXR7xfEj@
-3 _APID 1,2540::529576508
 3 PAGE "Deaths Atlantic-Cumberland, vol. 5, 1879-1880," FHL Film #5
 4 CONC 89826, entry 1
+3 _APID 1,2540::529576508
 2 SOUR @qx6h3yCvRBScfXR7xfEj@
-3 _APID 1,2540::248918934
 3 PAGE "Deaths Atlantic-Cumberland, vol. 5, 1879-1880," FHL Film #5
 4 CONC 89826, entry 2
+3 _APID 1,2540::248918934
 2 SOUR @365TJWZOQ8yZBepnZqbY@
-3 _APID 1,8756::68533
 3 PAGE Census Year: 1880
 3 OBJE @6BTRjpPkRgyJKzNxVHJA@
+3 _APID 1,8756::68533
 2 SOUR @bL6OAj30RRa4kx8GyxAp@
-3 _APID 1,2590::1422380
 3 OBJE @VYN3ipS5RmSQMgWy2Lw6@
+3 _APID 1,2590::1422380
 2 SOUR @r6xAaWOBTyeHymNITul1@
-3 _APID 1,8750::5445729
 3 PAGE "Nationwide Gravesite Locator"
+3 _APID 1,8750::5445729
 2 SOUR @r6xAaWOBTyeHymNITul1@
-3 _APID 1,8750::2413986
 3 PAGE "Nationwide Gravesite Locator," interment record
+3 _APID 1,8750::2413986
 2 SOUR @S52@
 3 _APID 1,60525::201501
 2 SOUR @P4FI9iQlTluD8w3Q3AsZ@
@@ -2586,14 +2643,14 @@
 4 LATI N40.0654
 4 LONG W74.919
 2 SOUR @bL6OAj30RRa4kx8GyxAp@
-3 _APID 1,2590::1422380
 3 OBJE @VYN3ipS5RmSQMgWy2Lw6@
+3 _APID 1,2590::1422380
 2 SOUR @r6xAaWOBTyeHymNITul1@
-3 _APID 1,8750::5445729
 3 PAGE "Nationwide Gravesite Locator"
+3 _APID 1,8750::5445729
 2 SOUR @r6xAaWOBTyeHymNITul1@
-3 _APID 1,8750::2413986
 3 PAGE "Nationwide Gravesite Locator," interment record
+3 _APID 1,8750::2413986
 2 SOUR @S52@
 3 _APID 1,60525::201501
 2 SOUR @P4FI9iQlTluD8w3Q3AsZ@
@@ -2606,70 +2663,84 @@
 4 LATI N39.8757
 4 LONG W74.6692
 2 SOUR @365TJWZOQ8yZBepnZqbY@
-3 _APID 1,8756::68533
 3 PAGE Census Year: 1880
 3 OBJE @6BTRjpPkRgyJKzNxVHJA@
-1 NAME Wells O. /Pettit/
-2 SOUR @S50@
-3 _APID 1,8054::11644541
-3 PAGE Year: 1850; Census Place: Brooklyn Ward 11, Kings, New York
-4 CONC ; Roll: M432_520; Page: 328B; Image: 597
-3 OBJE @lpHlvnWGRROKt8DLmaxr@
-2 SOUR @S51@
-3 _APID 1,7667::46566496
-3 PAGE Year: 1860; Census Place: Brooklyn Ward 11 District 3, Kings
-4 CONC , New York; Roll: M653_770; Page: 570; Image: 570; Family Hi
-4 CONC story Library Film: 803770
-3 OBJE @NIHme99aTUeMe0yaNg1S@
-2 SOUR @W9AF3YLISEKpgaYjMG1d@
-3 _APID 1,7163::28240796
-3 PAGE Year: 1870; Census Place: Brooklyn Ward 20, Kings, New York
-4 CONC ; Roll: M593_960; Page: 109B; Image: 222; Family History Lib
-4 CONC rary Film: 552459
-3 OBJE @8hD90X73RYOatuHhASYP@
-2 SOUR @qx6h3yCvRBScfXR7xfEj@
-3 _APID 1,2540::529576508
-3 PAGE "Deaths Atlantic-Cumberland, vol. 5, 1879-1880," FHL Film #5
-4 CONC 89826, entry 1
-2 SOUR @qx6h3yCvRBScfXR7xfEj@
-3 _APID 1,2540::248918934
-3 PAGE "Deaths Atlantic-Cumberland, vol. 5, 1879-1880," FHL Film #5
-4 CONC 89826, entry 2
-2 SOUR @aljqAZ0YQCq5QGhK6tDD@
-3 _APID 1,1965::440157
-3 PAGE New York State Archives, Cultural Education Center, Albany
-4 CONC , New York; New York Civil War Muster Roll Abstracts, 1861-1
-4 CONC 900; Archive Collection #: 13775-83; Box #: 622; Roll #: 278
-3 OBJE @gwqpKPpERFqjvcLnhC8X@
-2 SOUR @RsPSbkVZTRGnadmliWZN@
-3 _APID 1,7218::787996
-3 OBJE @URx1xQERSzSZ4dilNcUs@
-2 SOUR @ZthEJ6Y4TgCMPRbXt3Ly@
-3 _APID 1,7250::1365778494
-3 OBJE @sNwy99zdQJCcwFqXJh8M@
-2 SOUR @365TJWZOQ8yZBepnZqbY@
 3 _APID 1,8756::68533
-3 PAGE Census Year: 1880
-3 OBJE @6BTRjpPkRgyJKzNxVHJA@
-2 SOUR @bL6OAj30RRa4kx8GyxAp@
-3 _APID 1,2590::1422380
-3 OBJE @VYN3ipS5RmSQMgWy2Lw6@
-2 SOUR @r6xAaWOBTyeHymNITul1@
-3 _APID 1,8750::5445729
-3 PAGE "Nationwide Gravesite Locator"
-2 SOUR @r6xAaWOBTyeHymNITul1@
-3 _APID 1,8750::2413986
-3 PAGE "Nationwide Gravesite Locator," interment record
-2 SOUR @w4Jqg6FJTw6VzrbUfvKG@
-3 _APID 1,1555::571395
-2 SOUR @S52@
-3 _APID 1,60525::201501
-2 SOUR @P4FI9iQlTluD8w3Q3AsZ@
-3 _APID 1,70609::793980
-1 SEX M
+1 _XY 126952 296
 0 @PkASuFmDSOWxhLU2QHly@ INDI
-1 _XY 127364 299
 1 REFN ffd8d444-5547-4015-9e05-f477690ec478
+1 NAME William /Pettit/
+2 SOUR @S50@
+3 PAGE Year: 1850; Census Place: New York Ward 5, New York, New Yor
+4 CONC k; Roll: M432_537; Page: 223A; Image: 452
+3 OBJE @1h2IcDiNTDap88oq7Rrz@
+3 _APID 1,8054::7247460
+2 SOUR @S51@
+3 PAGE Year: 1860; Census Place: New York Ward 5 District 1, New Yo
+4 CONC rk, New York; Roll: M653_790; Page: 219; Image: 63; Family H
+4 CONC istory Library Film: 803790
+3 OBJE @dHNmDYPCTC6UfuPUfrO1@
+3 _APID 1,7667::46919130
+2 SOUR @W9AF3YLISEKpgaYjMG1d@
+3 PAGE Year: 1870; Census Place: New York Ward 5 District 1 (2nd En
+4 CONC um), New York, New York; Roll: M593_1016; Page: 9B; Image: 2
+4 CONC 2; Family History Library Film: 552515
+3 OBJE @NTP1VKdRRiaQfMFtKurk@
+3 _APID 1,7163::30457994
+2 SOUR @W9AF3YLISEKpgaYjMG1d@
+3 PAGE Year: 1870; Census Place: New York Ward 5 District 8, New Yo
+4 CONC rk, New York; Roll: M593_977; Page: 203A; Image: 409; Famil
+4 CONC y History Library Film: 552476
+3 OBJE @B3C4IA4oSamimJfmTBbk@
+3 _APID 1,7163::29877686
+2 SOUR @S56@
+3 PAGE record for William Pettit
+3 OBJE @M57@
+3 _APID 1,61376::245735
+2 SOUR @S57@
+3 PAGE Author: New Jersey. Surrogate's Court (Monmouth County); Pro
+4 CONC bate Place: Monmouth, New Jersey
+3 OBJE @M58@
+3 _APID 1,8796::298261
+2 SOUR @gnFo1KqTStqpaYqdjblr@
+3 OBJE @eD0G6WJUSrKLVWP1q8kN@
+3 _APID 1,7181::1653641776
+2 SOUR @Qc7mayX5RAi73P4shcoB@
+3 PAGE Record of Wills, 1665-1916; Index to Wills, 1662-1923 (New Y
+4 CONC ork County); Author: New York. Surrogate's Court (New York C
+4 CONC ounty); Probate Place: New York, New York
+3 OBJE @gpe4lFuRQ8yuCLkftpbt@
+3 _APID 1,8800::2912447
+2 SOUR @S55@
+3 PAGE "Goulding's New York City Directory for 1875-1876"
+3 _APID 1,2469::1488087262
+2 SOUR @S55@
+3 PAGE "New York, New York, City Directory, 1868"
+3 OBJE @A7pDNY7TSlub0ljxLBm1@
+3 _APID 1,2469::124372775
+2 SOUR @S55@
+3 PAGE "New York, New York, City Directory, 1870"
+3 OBJE @gWIxMf6PTS2Dpz85Vf3f@
+3 _APID 1,2469::1216100478
+2 SOUR @S55@
+3 PAGE "New York, New York, City Directory, 1875"
+3 OBJE @Q6TJfqjcTMSMHwQPyQJJ@
+3 _APID 1,2469::125124596
+2 SOUR @S55@
+3 PAGE "New York, New York, City Directory, 1876"
+3 OBJE @jPYVCr43QQivJ5lTjx5c@
+3 _APID 1,2469::1203396605
+2 SOUR @S55@
+3 PAGE Trow´s New York City Directory, 1857
+3 OBJE @M59@
+3 _APID 1,2469::1201385241
+2 SOUR @S55@
+3 PAGE Trow´s New York City Directory, 1867-68
+3 OBJE @M53@
+3 _APID 1,2469::1421241765
+2 SOUR @S52@
+3 _APID 1,60525::129507135
+1 SEX M
 1 FAMC @8szxfl6tT7WgFUnujVjX@
 1 FAMS @ztkA7rtfSwW4leD24XfB@
 1 BIRT
@@ -2679,47 +2750,47 @@
 4 LATI N42.7531
 4 LONG W74.2224
 2 SOUR @S50@
-3 _APID 1,8054::7247460
 3 PAGE Year: 1850; Census Place: New York Ward 5, New York, New Yor
 4 CONC k; Roll: M432_537; Page: 223A; Image: 452
 3 OBJE @1h2IcDiNTDap88oq7Rrz@
+3 _APID 1,8054::7247460
 2 SOUR @S51@
-3 _APID 1,7667::46919130
 3 PAGE Year: 1860; Census Place: New York Ward 5 District 1, New Yo
 4 CONC rk, New York; Roll: M653_790; Page: 219; Image: 63; Family H
 4 CONC istory Library Film: 803790
 3 OBJE @dHNmDYPCTC6UfuPUfrO1@
+3 _APID 1,7667::46919130
 2 SOUR @W9AF3YLISEKpgaYjMG1d@
-3 _APID 1,7163::30457994
 3 PAGE Year: 1870; Census Place: New York Ward 5 District 1 (2nd En
 4 CONC um), New York, New York; Roll: M593_1016; Page: 9B; Image: 2
 4 CONC 2; Family History Library Film: 552515
 3 OBJE @NTP1VKdRRiaQfMFtKurk@
+3 _APID 1,7163::30457994
 2 SOUR @W9AF3YLISEKpgaYjMG1d@
-3 _APID 1,7163::29877686
 3 PAGE Year: 1870; Census Place: New York Ward 5 District 8, New Yo
 4 CONC rk, New York; Roll: M593_977; Page: 203A; Image: 409; Famil
 4 CONC y History Library Film: 552476
 3 OBJE @B3C4IA4oSamimJfmTBbk@
+3 _APID 1,7163::29877686
 2 SOUR @gnFo1KqTStqpaYqdjblr@
-3 _APID 1,7181::1653641776
 3 OBJE @eD0G6WJUSrKLVWP1q8kN@
+3 _APID 1,7181::1653641776
 2 SOUR @S52@
 3 _APID 1,60525::129507135
 1 RESI
 2 DATE 1850
 2 PLAC New York New York, New York, USA
 2 SOUR @S50@
-3 _APID 1,8054::7247460
 3 PAGE Year: 1850; Census Place: New York Ward 5, New York, New Yor
 4 CONC k; Roll: M432_537; Page: 223A; Image: 452
 3 OBJE @1h2IcDiNTDap88oq7Rrz@
+3 _APID 1,8054::7247460
 1 RESI
 2 DATE 1855
 2 PLAC 26 Harrison Street, New York, New York, New York, USA
 2 SOUR @gnFo1KqTStqpaYqdjblr@
-3 _APID 1,7181::1653641776
 3 OBJE @eD0G6WJUSrKLVWP1q8kN@
+3 _APID 1,7181::1653641776
 2 NOTE Age: 42; Relation to Head of House: Head Of Household. NYC D
 3 CONC irectory 1857 shows Henry Colsey, deskmaker, (next door) a
 3 CONC t 24 Harrison.
@@ -2727,18 +2798,18 @@
 2 DATE 1857
 2 PLAC 26 Harrison Street, New York, New York, New York, USA
 2 SOUR @S55@
-3 _APID 1,2469::1201385241
 3 PAGE Trow´s New York City Directory, 1857
 3 OBJE @M59@
+3 _APID 1,2469::1201385241
 1 RESI
 2 DATE 1860
 2 PLAC 437 Greenwich Street, New York, New York, New York, USA
 2 SOUR @S51@
-3 _APID 1,7667::46919130
 3 PAGE Year: 1860; Census Place: New York Ward 5 District 1, New Yo
 4 CONC rk, New York; Roll: M653_790; Page: 219; Image: 63; Family H
 4 CONC istory Library Film: 803790
 3 OBJE @dHNmDYPCTC6UfuPUfrO1@
+3 _APID 1,7667::46919130
 2 NOTE NYC Directory 1857 shows Richard Ritter and James Moore (hou
 3 CONC se mates in 1860 census) at 437 Greenwich, so I assume Willi
 3 CONC am is living here, too.
@@ -2746,25 +2817,25 @@
 2 DATE 1867
 2 PLAC 476 Greenwich Street, New York, New York, New York, USA
 2 SOUR @S55@
-3 _APID 1,2469::1421241765
 3 PAGE Trow´s New York City Directory, 1867-68
 3 OBJE @M53@
+3 _APID 1,2469::1421241765
 1 RESI
 2 DATE 1868
 2 PLAC 476 Greenwich Street, New York, New York, New York, USA
 2 SOUR @S55@
-3 _APID 1,2469::124372775
 3 PAGE "New York, New York, City Directory, 1868"
 3 OBJE @A7pDNY7TSlub0ljxLBm1@
+3 _APID 1,2469::124372775
 1 RESI
 2 DATE 29 JUN 1870
 2 PLAC 476 Greenwich Street, New York, New York, New York, USA
 2 SOUR @W9AF3YLISEKpgaYjMG1d@
-3 _APID 1,7163::29877686
 3 PAGE Year: 1870; Census Place: New York Ward 5 District 8, New Yo
 4 CONC rk, New York; Roll: M593_977; Page: 203A; Image: 409; Famil
 4 CONC y History Library Film: 552476
 3 OBJE @B3C4IA4oSamimJfmTBbk@
+3 _APID 1,7163::29877686
 2 NOTE Age: 55; Census Post Office: New York City. The family was e
 3 CONC numerated twice in this census. I believe this entry is als
 3 CONC o at 476 Greenwich Street, although it is not indicated in t
@@ -2773,18 +2844,18 @@
 2 DATE 1870
 2 PLAC 476 Greenwich Street, New York, New York, New York, USA
 2 SOUR @S55@
-3 _APID 1,2469::1216100478
 3 PAGE "New York, New York, City Directory, 1870"
 3 OBJE @gWIxMf6PTS2Dpz85Vf3f@
+3 _APID 1,2469::1216100478
 1 RESI
 2 DATE 21 DEC 1870
 2 PLAC 476 Greenwich Street, New York, New York, New York, USA
 2 SOUR @W9AF3YLISEKpgaYjMG1d@
-3 _APID 1,7163::30457994
 3 PAGE Year: 1870; Census Place: New York Ward 5 District 1 (2nd En
 4 CONC um), New York, New York; Roll: M593_1016; Page: 9B; Image: 2
 4 CONC 2; Family History Library Film: 552515
 3 OBJE @NTP1VKdRRiaQfMFtKurk@
+3 _APID 1,7163::30457994
 2 NOTE Age: 55; Census Post Office: New York City
 1 PROB
 2 DATE 09 MAR 1872
@@ -2793,10 +2864,10 @@
 4 LATI N40.2878
 4 LONG W74.1544
 2 SOUR @S57@
-3 _APID 1,8796::298261
 3 PAGE Author: New Jersey. Surrogate's Court (Monmouth County); Pro
 4 CONC bate Place: Monmouth, New Jersey
 3 OBJE @M58@
+3 _APID 1,8796::298261
 1 DEAT
 2 DATE 18 APR 1872
 2 PLAC New Jersey, USA
@@ -2804,20 +2875,20 @@
 4 LATI N40.1365
 4 LONG W73.2613
 2 SOUR @pfwhvFaIQruDzL4mcl6h@
+3 PAGE Pettit, William
 3 _LINK https://familysearch.org/pal:/MM9.3.1/TH-1961-29776-945-61?c
 4 CONC c=2018330&wc=MQTW-1Z9:338013001,340402701
-3 PAGE Pettit, William
 2 SOUR @S57@
-3 _APID 1,8796::298261
 3 PAGE Author: New Jersey. Surrogate's Court (Monmouth County); Pro
 4 CONC bate Place: Monmouth, New Jersey
 3 OBJE @M58@
+3 _APID 1,8796::298261
 2 SOUR @Qc7mayX5RAi73P4shcoB@
-3 _APID 1,8800::2912447
 3 PAGE Record of Wills, 1665-1916; Index to Wills, 1662-1923 (New Y
 4 CONC ork County); Author: New York. Surrogate's Court (New York C
 4 CONC ounty); Probate Place: New York, New York
 3 OBJE @gpe4lFuRQ8yuCLkftpbt@
+3 _APID 1,8800::2912447
 2 SOUR @S52@
 3 _APID 1,60525::129507135
 1 PROB
@@ -2827,83 +2898,11 @@
 4 LATI N40.7744
 4 LONG W73.9721
 2 SOUR @Qc7mayX5RAi73P4shcoB@
-3 _APID 1,8800::2912447
 3 PAGE Record of Wills, 1665-1916; Index to Wills, 1662-1923 (New Y
 4 CONC ork County); Author: New York. Surrogate's Court (New York C
 4 CONC ounty); Probate Place: New York, New York
 3 OBJE @gpe4lFuRQ8yuCLkftpbt@
-1 NAME William /Pettit/
-2 SOUR @S50@
-3 _APID 1,8054::7247460
-3 PAGE Year: 1850; Census Place: New York Ward 5, New York, New Yor
-4 CONC k; Roll: M432_537; Page: 223A; Image: 452
-3 OBJE @1h2IcDiNTDap88oq7Rrz@
-2 SOUR @S51@
-3 _APID 1,7667::46919130
-3 PAGE Year: 1860; Census Place: New York Ward 5 District 1, New Yo
-4 CONC rk, New York; Roll: M653_790; Page: 219; Image: 63; Family H
-4 CONC istory Library Film: 803790
-3 OBJE @dHNmDYPCTC6UfuPUfrO1@
-2 SOUR @W9AF3YLISEKpgaYjMG1d@
-3 _APID 1,7163::30457994
-3 PAGE Year: 1870; Census Place: New York Ward 5 District 1 (2nd En
-4 CONC um), New York, New York; Roll: M593_1016; Page: 9B; Image: 2
-4 CONC 2; Family History Library Film: 552515
-3 OBJE @NTP1VKdRRiaQfMFtKurk@
-2 SOUR @W9AF3YLISEKpgaYjMG1d@
-3 _APID 1,7163::29877686
-3 PAGE Year: 1870; Census Place: New York Ward 5 District 8, New Yo
-4 CONC rk, New York; Roll: M593_977; Page: 203A; Image: 409; Famil
-4 CONC y History Library Film: 552476
-3 OBJE @B3C4IA4oSamimJfmTBbk@
-2 SOUR @S56@
-3 _APID 1,61376::245735
-3 PAGE record for William Pettit
-3 OBJE @M57@
-2 SOUR @S57@
-3 _APID 1,8796::298261
-3 PAGE Author: New Jersey. Surrogate's Court (Monmouth County); Pro
-4 CONC bate Place: Monmouth, New Jersey
-3 OBJE @M58@
-2 SOUR @gnFo1KqTStqpaYqdjblr@
-3 _APID 1,7181::1653641776
-3 OBJE @eD0G6WJUSrKLVWP1q8kN@
-2 SOUR @Qc7mayX5RAi73P4shcoB@
 3 _APID 1,8800::2912447
-3 PAGE Record of Wills, 1665-1916; Index to Wills, 1662-1923 (New Y
-4 CONC ork County); Author: New York. Surrogate's Court (New York C
-4 CONC ounty); Probate Place: New York, New York
-3 OBJE @gpe4lFuRQ8yuCLkftpbt@
-2 SOUR @S55@
-3 _APID 1,2469::1488087262
-3 PAGE "Goulding's New York City Directory for 1875-1876"
-2 SOUR @S55@
-3 _APID 1,2469::124372775
-3 PAGE "New York, New York, City Directory, 1868"
-3 OBJE @A7pDNY7TSlub0ljxLBm1@
-2 SOUR @S55@
-3 _APID 1,2469::1216100478
-3 PAGE "New York, New York, City Directory, 1870"
-3 OBJE @gWIxMf6PTS2Dpz85Vf3f@
-2 SOUR @S55@
-3 _APID 1,2469::125124596
-3 PAGE "New York, New York, City Directory, 1875"
-3 OBJE @Q6TJfqjcTMSMHwQPyQJJ@
-2 SOUR @S55@
-3 _APID 1,2469::1203396605
-3 PAGE "New York, New York, City Directory, 1876"
-3 OBJE @jPYVCr43QQivJ5lTjx5c@
-2 SOUR @S55@
-3 _APID 1,2469::1201385241
-3 PAGE Trow´s New York City Directory, 1857
-3 OBJE @M59@
-2 SOUR @S55@
-3 _APID 1,2469::1421241765
-3 PAGE Trow´s New York City Directory, 1867-68
-3 OBJE @M53@
-2 SOUR @S52@
-3 _APID 1,60525::129507135
-1 SEX M
 1 BURI
 2 PLAC Jackson, Ocean, New Jersey, USA
 3 MAP
@@ -2911,9 +2910,17 @@
 4 LONG W74.8624
 2 SOUR @S52@
 3 _APID 1,60525::129507135
+1 _XY 127364 299
 0 @Y3npAeCvTaSNyijPHZz8@ INDI
-1 _XY 127090 502
 1 REFN ce234051-927b-4651-afcb-850cbdab35eb
+1 NAME William /Pettit/
+2 SOUR @EdJbjqVNRj6fDWFU9ALa@
+3 PAGE Year: 1900; Census Place: Manhattan, New York, New York; Rol
+4 CONC l: 1082; Page: 14B; Enumeration District: 0057; FHL microfil
+4 CONC m: 1241082
+3 OBJE @7y7QRDjzRuWB3DDvauhy@
+3 _APID 1,7602::32480045
+1 SEX M
 1 FAMC @x0B3LEuES0uhyTCskGFt@
 1 BIRT
 2 DATE NOV 1877
@@ -2922,11 +2929,11 @@
 4 LATI N42.7531
 4 LONG W74.2224
 2 SOUR @EdJbjqVNRj6fDWFU9ALa@
-3 _APID 1,7602::32480045
 3 PAGE Year: 1900; Census Place: Manhattan, New York, New York; Rol
 4 CONC l: 1082; Page: 14B; Enumeration District: 0057; FHL microfil
 4 CONC m: 1241082
 3 OBJE @7y7QRDjzRuWB3DDvauhy@
+3 _APID 1,7602::32480045
 1 RESI
 2 DATE 1900
 2 PLAC New York, New York, New York, USA
@@ -2934,41 +2941,24 @@
 4 LATI N40.7142
 4 LONG W74.0064
 2 SOUR @EdJbjqVNRj6fDWFU9ALa@
-3 _APID 1,7602::32480045
 3 PAGE Year: 1900; Census Place: Manhattan, New York, New York; Rol
 4 CONC l: 1082; Page: 14B; Enumeration District: 0057; FHL microfil
 4 CONC m: 1241082
 3 OBJE @7y7QRDjzRuWB3DDvauhy@
+3 _APID 1,7602::32480045
 2 NOTE Age: 22; Marital Status: Single; Relation to Head of House
 3 CONC : Son
-1 NAME William /Pettit/
-2 SOUR @EdJbjqVNRj6fDWFU9ALa@
-3 _APID 1,7602::32480045
-3 PAGE Year: 1900; Census Place: Manhattan, New York, New York; Rol
-4 CONC l: 1082; Page: 14B; Enumeration District: 0057; FHL microfil
-4 CONC m: 1241082
-3 OBJE @7y7QRDjzRuWB3DDvauhy@
-1 SEX M
+1 _XY 127090 502
 0 @Yz4qyquuTsW1FHBcyETR@ INDI
-1 _XY 127184 396
 1 REFN 3e353fab-bfde-4234-b8c8-716ce6c8529a
-1 FAMS @x0B3LEuES0uhyTCskGFt@
-1 BIRT
-2 DATE ABT 1850
-2 PLAC New York, USA
-3 MAP
-4 LATI N42.7531
-4 LONG W74.2224
+1 NAME Mary E. /Silberice/
 2 SOUR @W9AF3YLISEKpgaYjMG1d@
-3 _APID 1,7163::30457997
 3 PAGE Year: 1870; Census Place: New York Ward 5 District 1 (2nd En
 4 CONC um), New York, New York; Roll: M593_1016; Page: 9B; Image: 2
 4 CONC 2; Family History Library Film: 552515
 3 OBJE @NTP1VKdRRiaQfMFtKurk@
+3 _APID 1,7163::30457997
 2 SOUR @W9AF3YLISEKpgaYjMG1d@
-3 _LINK http://search.ancestry.com/cgi-bin/sse.dll?db=1870usfedcen&h
-4 CONC =29028341&ti=0&indiv=try&gss=pt
-3 _APID 1,7163::29028341
 3 PAGE Year: 1870; Census Place: New York Ward 5 District 8, New Yo
 4 CONC rk, New York; Roll: M593_; Page: ; Image: .
 3 DATA
@@ -2978,45 +2968,107 @@
 5 CONT abt 1850 in New York
 5 CONT Death:
 3 OBJE @XaYb2BEXQN6DvbKZ9LeU@
+3 _LINK http://search.ancestry.com/cgi-bin/sse.dll?db=1870usfedcen&h
+4 CONC =29028341&ti=0&indiv=try&gss=pt
+3 _APID 1,7163::29028341
 2 SOUR @l6PP8BZJThyWv9uB7cSs@
-3 _APID 1,7884::106440825
 3 PAGE Year: 1910; Census Place: Manhattan Ward 9, New York, New Yo
 4 CONC rk; Roll: T624_1006; Page: 13B; Enumeration District: 0150
 4 CONC ; FHL microfilm: 1375019
 3 OBJE @Kh0paScySx2nUhUWwmni@
+3 _APID 1,7884::106440825
 2 SOUR @MmziQGePSt6c20tLUcLZ@
-3 _APID 1,6061::87450403
 3 PAGE Year: 1920; Census Place: Manhattan Assembly District 3, Ne
 4 CONC w York, New York; Roll: T625_1189; Page: 7B; Enumeration Dis
 4 CONC trict: 232; Image: 130
 3 OBJE @4OIF3osvR6ysr5N4TQUN@
+3 _APID 1,6061::87450403
 2 SOUR @kE5vWuzeTlSGoxa4JPQs@
-3 _APID 1,6224::41322789
 3 PAGE Year: 1930; Census Place: Cedarhurst, Nassau, New York; Roll
 4 CONC : 1457; Page: 1A; Enumeration District: 0017; Image: 444.0
 4 CONC ; FHL microfilm: 2341192
 3 OBJE @DotU476nQiCuYo7e6ObL@
+3 _APID 1,6224::41322789
 2 SOUR @oQd0R3bRTem78scc0gHn@
-3 _APID 1,7364::2649570
 3 PAGE New York State Archives; Albany, New York; State Populatio
 4 CONC n Census Schedules, 1905; Election District: A.D. 05 E.D. 01
 4 CONC ; City: Manhattan; County: New York; Page: 36
 3 OBJE @SuIRvEAXRPa6yfiAB6nj@
+3 _APID 1,7364::2649570
 2 SOUR @sFiPg9F8Q9iRUVjVOSKZ@
-3 _APID 1,2703::4890461
 3 PAGE New York State Archives; Albany, New York; State Populatio
 4 CONC n Census Schedules, 1915; Election District: 03; Assembly Di
 4 CONC strict: 25; City: New York; County: New York; Page: 28
 3 OBJE @4dqN2EaNQxqq5mbZfw6n@
-1 RESI
-2 DATE 21 DEC 1870
-2 PLAC 476 Greenwich Street, New York, New York, New York, USA
+3 _APID 1,2703::4890461
+1 SEX F
 2 SOUR @W9AF3YLISEKpgaYjMG1d@
-3 _APID 1,7163::30457997
+3 _APID 1,7163::29028341
+1 FAMS @x0B3LEuES0uhyTCskGFt@
+1 BIRT
+2 DATE ABT 1850
+2 PLAC New York, USA
+3 MAP
+4 LATI N42.7531
+4 LONG W74.2224
+2 SOUR @W9AF3YLISEKpgaYjMG1d@
 3 PAGE Year: 1870; Census Place: New York Ward 5 District 1 (2nd En
 4 CONC um), New York, New York; Roll: M593_1016; Page: 9B; Image: 2
 4 CONC 2; Family History Library Film: 552515
 3 OBJE @NTP1VKdRRiaQfMFtKurk@
+3 _APID 1,7163::30457997
+2 SOUR @W9AF3YLISEKpgaYjMG1d@
+3 PAGE Year: 1870; Census Place: New York Ward 5 District 8, New Yo
+4 CONC rk, New York; Roll: M593_; Page: ; Image: .
+3 DATA
+4 TEXT Name:
+5 CONT Mary Pettit
+5 CONT Birth:
+5 CONT abt 1850 in New York
+5 CONT Death:
+3 OBJE @XaYb2BEXQN6DvbKZ9LeU@
+3 _LINK http://search.ancestry.com/cgi-bin/sse.dll?db=1870usfedcen&h
+4 CONC =29028341&ti=0&indiv=try&gss=pt
+3 _APID 1,7163::29028341
+2 SOUR @l6PP8BZJThyWv9uB7cSs@
+3 PAGE Year: 1910; Census Place: Manhattan Ward 9, New York, New Yo
+4 CONC rk; Roll: T624_1006; Page: 13B; Enumeration District: 0150
+4 CONC ; FHL microfilm: 1375019
+3 OBJE @Kh0paScySx2nUhUWwmni@
+3 _APID 1,7884::106440825
+2 SOUR @MmziQGePSt6c20tLUcLZ@
+3 PAGE Year: 1920; Census Place: Manhattan Assembly District 3, Ne
+4 CONC w York, New York; Roll: T625_1189; Page: 7B; Enumeration Dis
+4 CONC trict: 232; Image: 130
+3 OBJE @4OIF3osvR6ysr5N4TQUN@
+3 _APID 1,6061::87450403
+2 SOUR @kE5vWuzeTlSGoxa4JPQs@
+3 PAGE Year: 1930; Census Place: Cedarhurst, Nassau, New York; Roll
+4 CONC : 1457; Page: 1A; Enumeration District: 0017; Image: 444.0
+4 CONC ; FHL microfilm: 2341192
+3 OBJE @DotU476nQiCuYo7e6ObL@
+3 _APID 1,6224::41322789
+2 SOUR @oQd0R3bRTem78scc0gHn@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1905; Election District: A.D. 05 E.D. 01
+4 CONC ; City: Manhattan; County: New York; Page: 36
+3 OBJE @SuIRvEAXRPa6yfiAB6nj@
+3 _APID 1,7364::2649570
+2 SOUR @sFiPg9F8Q9iRUVjVOSKZ@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1915; Election District: 03; Assembly Di
+4 CONC strict: 25; City: New York; County: New York; Page: 28
+3 OBJE @4dqN2EaNQxqq5mbZfw6n@
+3 _APID 1,2703::4890461
+1 RESI
+2 DATE 21 DEC 1870
+2 PLAC 476 Greenwich Street, New York, New York, New York, USA
+2 SOUR @W9AF3YLISEKpgaYjMG1d@
+3 PAGE Year: 1870; Census Place: New York Ward 5 District 1 (2nd En
+4 CONC um), New York, New York; Roll: M593_1016; Page: 9B; Image: 2
+4 CONC 2; Family History Library Film: 552515
+3 OBJE @NTP1VKdRRiaQfMFtKurk@
+3 _APID 1,7163::30457997
 2 NOTE Age: 21; Census Post Office: New York City
 1 RESI
 2 DATE 1905
@@ -3025,11 +3077,11 @@
 4 LATI N40.7834
 4 LONG W73.9663
 2 SOUR @oQd0R3bRTem78scc0gHn@
-3 _APID 1,7364::2649570
 3 PAGE New York State Archives; Albany, New York; State Populatio
 4 CONC n Census Schedules, 1905; Election District: A.D. 05 E.D. 01
 4 CONC ; City: Manhattan; County: New York; Page: 36
 3 OBJE @SuIRvEAXRPa6yfiAB6nj@
+3 _APID 1,7364::2649570
 2 NOTE Relation to Head of House: Wife
 1 RESI
 2 DATE 1910
@@ -3038,11 +3090,11 @@
 4 LATI N40.7142
 4 LONG W74.0064
 2 SOUR @l6PP8BZJThyWv9uB7cSs@
-3 _APID 1,7884::106440825
 3 PAGE Year: 1910; Census Place: Manhattan Ward 9, New York, New Yo
 4 CONC rk; Roll: T624_1006; Page: 13B; Enumeration District: 0150
 4 CONC ; FHL microfilm: 1375019
 3 OBJE @Kh0paScySx2nUhUWwmni@
+3 _APID 1,7884::106440825
 2 NOTE Age: 60; Marital Status: Married; Relation to Head of House
 3 CONC : Wife
 1 RESI
@@ -3052,11 +3104,11 @@
 4 LATI N40.7142
 4 LONG W74.0064
 2 SOUR @sFiPg9F8Q9iRUVjVOSKZ@
-3 _APID 1,2703::4890461
 3 PAGE New York State Archives; Albany, New York; State Populatio
 4 CONC n Census Schedules, 1915; Election District: 03; Assembly Di
 4 CONC strict: 25; City: New York; County: New York; Page: 28
 3 OBJE @4dqN2EaNQxqq5mbZfw6n@
+3 _APID 1,2703::4890461
 2 NOTE Age: 65; Relation to Head of House: Wife
 1 RESI
 2 DATE 1920
@@ -3065,11 +3117,11 @@
 4 LATI N40.7142
 4 LONG W74.0064
 2 SOUR @MmziQGePSt6c20tLUcLZ@
-3 _APID 1,6061::87450403
 3 PAGE Year: 1920; Census Place: Manhattan Assembly District 3, Ne
 4 CONC w York, New York; Roll: T625_1189; Page: 7B; Enumeration Dis
 4 CONC trict: 232; Image: 130
 3 OBJE @4OIF3osvR6ysr5N4TQUN@
+3 _APID 1,6061::87450403
 2 NOTE Age: 70; Marital Status: Widowed; Marital Status: Widow; Rel
 3 CONC ation to Head of House: Mother
 1 RESI
@@ -3079,11 +3131,11 @@
 4 LATI N40.6229
 4 LONG W73.7243
 2 SOUR @kE5vWuzeTlSGoxa4JPQs@
-3 _APID 1,6224::41322789
 3 PAGE Year: 1930; Census Place: Cedarhurst, Nassau, New York; Roll
 4 CONC : 1457; Page: 1A; Enumeration District: 0017; Image: 444.0
 4 CONC ; FHL microfilm: 2341192
 3 OBJE @DotU476nQiCuYo7e6ObL@
+3 _APID 1,6224::41322789
 2 NOTE Age: 76; Marital Status: Widowed; Relation to Head of House
 3 CONC : Mother-in-law
 1 DEAT
@@ -3092,62 +3144,16 @@
 3 MAP
 4 LATI N42.7531
 4 LONG W74.2224
-1 NAME Mary E. /Silberice/
-2 SOUR @W9AF3YLISEKpgaYjMG1d@
-3 _APID 1,7163::30457997
-3 PAGE Year: 1870; Census Place: New York Ward 5 District 1 (2nd En
-4 CONC um), New York, New York; Roll: M593_1016; Page: 9B; Image: 2
-4 CONC 2; Family History Library Film: 552515
-3 OBJE @NTP1VKdRRiaQfMFtKurk@
-2 SOUR @W9AF3YLISEKpgaYjMG1d@
-3 _LINK http://search.ancestry.com/cgi-bin/sse.dll?db=1870usfedcen&h
-4 CONC =29028341&ti=0&indiv=try&gss=pt
-3 _APID 1,7163::29028341
-3 PAGE Year: 1870; Census Place: New York Ward 5 District 8, New Yo
-4 CONC rk, New York; Roll: M593_; Page: ; Image: .
-3 DATA
-4 TEXT Name:
-5 CONT Mary Pettit
-5 CONT Birth:
-5 CONT abt 1850 in New York
-5 CONT Death:
-3 OBJE @XaYb2BEXQN6DvbKZ9LeU@
-2 SOUR @l6PP8BZJThyWv9uB7cSs@
-3 _APID 1,7884::106440825
-3 PAGE Year: 1910; Census Place: Manhattan Ward 9, New York, New Yo
-4 CONC rk; Roll: T624_1006; Page: 13B; Enumeration District: 0150
-4 CONC ; FHL microfilm: 1375019
-3 OBJE @Kh0paScySx2nUhUWwmni@
-2 SOUR @MmziQGePSt6c20tLUcLZ@
-3 _APID 1,6061::87450403
-3 PAGE Year: 1920; Census Place: Manhattan Assembly District 3, Ne
-4 CONC w York, New York; Roll: T625_1189; Page: 7B; Enumeration Dis
-4 CONC trict: 232; Image: 130
-3 OBJE @4OIF3osvR6ysr5N4TQUN@
-2 SOUR @kE5vWuzeTlSGoxa4JPQs@
-3 _APID 1,6224::41322789
-3 PAGE Year: 1930; Census Place: Cedarhurst, Nassau, New York; Roll
-4 CONC : 1457; Page: 1A; Enumeration District: 0017; Image: 444.0
-4 CONC ; FHL microfilm: 2341192
-3 OBJE @DotU476nQiCuYo7e6ObL@
-2 SOUR @oQd0R3bRTem78scc0gHn@
-3 _APID 1,7364::2649570
-3 PAGE New York State Archives; Albany, New York; State Populatio
-4 CONC n Census Schedules, 1905; Election District: A.D. 05 E.D. 01
-4 CONC ; City: Manhattan; County: New York; Page: 36
-3 OBJE @SuIRvEAXRPa6yfiAB6nj@
-2 SOUR @sFiPg9F8Q9iRUVjVOSKZ@
-3 _APID 1,2703::4890461
-3 PAGE New York State Archives; Albany, New York; State Populatio
-4 CONC n Census Schedules, 1915; Election District: 03; Assembly Di
-4 CONC strict: 25; City: New York; County: New York; Page: 28
-3 OBJE @4dqN2EaNQxqq5mbZfw6n@
-1 SEX F
-2 SOUR @W9AF3YLISEKpgaYjMG1d@
-3 _APID 1,7163::29028341
+1 _XY 127184 396
 0 @HqoOJ2RbReWj7lW7k1SV@ INDI
-1 _XY 128308 299
 1 REFN b83ba299-1f6a-40b7-8b0e-cb7b1ee74e6f
+1 NAME Barkalow /Strickland/
+2 SOUR @S50@
+3 PAGE Year: 1850; Census Place: Jackson, Ocean, New Jersey; Roll
+4 CONC : M432_460; Page: 21B; Image: 50
+3 OBJE @M55@
+3 _APID 1,8054::4560109
+1 SEX M
 1 FAMC @XiO1ncXwQdKoeY0F7J5V@
 1 BIRT
 2 DATE 07 DEC 1810
@@ -3156,10 +3162,10 @@
 4 LATI N40.1365
 4 LONG W73.2613
 2 SOUR @S50@
-3 _APID 1,8054::4560109
 3 PAGE Year: 1850; Census Place: Jackson, Ocean, New Jersey; Roll
 4 CONC : M432_460; Page: 21B; Image: 50
 3 OBJE @M55@
+3 _APID 1,8054::4560109
 1 RESI
 2 DATE 1850
 2 PLAC Jackson, Ocean, New Jersey, USA
@@ -3167,22 +3173,25 @@
 4 LATI N39.7765
 4 LONG W74.8624
 2 SOUR @S50@
-3 _APID 1,8054::4560109
 3 PAGE Year: 1850; Census Place: Jackson, Ocean, New Jersey; Roll
 4 CONC : M432_460; Page: 21B; Image: 50
 3 OBJE @M55@
+3 _APID 1,8054::4560109
 1 DEAT
 2 DATE 26 MAY 1873
-1 NAME Barkalow /Strickland/
-2 SOUR @S50@
-3 _APID 1,8054::4560109
-3 PAGE Year: 1850; Census Place: Jackson, Ocean, New Jersey; Roll
-4 CONC : M432_460; Page: 21B; Image: 50
-3 OBJE @M55@
-1 SEX M
+1 _XY 128308 299
 0 @yQfdE0FSRYCacwOehWQ9@ INDI
-1 _XY 127587 199
 1 REFN a97a4612-2852-44bf-ac09-26891b92ea04
+1 NAME Cornelius /Strickland/
+2 SOUR @Ep4FoWg1Rym0Ne372VUa@
+3 PAGE Source number: 20.000; Source type: Electronic Database; Num
+4 CONC ber of Pages: 1; Submitter Code: CAS
+3 _APID 1,7836::1176680
+2 SOUR @S52@
+3 _APID 1,60525::129507467
+2 SOUR @OwU9UXcaRnCSBtH2FmSZ@
+3 _APID 1,9289::25965115
+1 SEX M
 1 FAMC @oYMK9bThTFCPWn78nenx@
 1 FAMS @XiO1ncXwQdKoeY0F7J5V@
 1 BIRT
@@ -3211,23 +3220,15 @@
 4 LONG W74.2588
 2 SOUR @OwU9UXcaRnCSBtH2FmSZ@
 3 _APID 1,9289::25965115
-1 NAME Cornelius /Strickland/
-2 SOUR @Ep4FoWg1Rym0Ne372VUa@
-3 _APID 1,7836::1176680
-3 PAGE Source number: 20.000; Source type: Electronic Database; Num
-4 CONC ber of Pages: 1; Submitter Code: CAS
-2 SOUR @S52@
-3 _APID 1,60525::129507467
-2 SOUR @OwU9UXcaRnCSBtH2FmSZ@
-3 _APID 1,9289::25965115
-1 SEX M
 1 BURI
 2 PLAC Jackson, Ocean County, New Jersey, United States of America
 2 SOUR @S52@
 3 _APID 1,60525::129507467
+1 _XY 127587 199
 0 @1S9jrEa9QISZp3pxtxWn@ INDI
-1 _XY 128577 299
 1 REFN 37ea6c3c-331d-43eb-84e1-698d99f30a47
+1 NAME Cornelius /Strickland/
+1 SEX M
 1 FAMC @XiO1ncXwQdKoeY0F7J5V@
 1 BIRT
 2 DATE 27 AUG 1817
@@ -3235,27 +3236,27 @@
 1 DEAT
 2 DATE 09 MAY 1886
 2 PLAC Osbornville, Ocean, New Jersey, USA
-1 NAME Cornelius /Strickland/
-1 SEX M
+1 _XY 128577 299
 0 @Beea069vShqwsmTVPuA0@ INDI
-1 _XY 127619 305
 1 REFN 8eb55e44-5c40-45af-9161-167a4d93a181
+1 NAME Eleanor /Strickland/
+1 SEX F
 1 FAMC @XiO1ncXwQdKoeY0F7J5V@
 1 BIRT
 2 DATE 02 MAR 1801
+1 _XY 127619 305
+0 @8XRahUJXRz6WiV7vHeme@ INDI
+1 REFN 4bc4108a-be3f-4493-826a-aab4a8c5a0b0
 1 NAME Eleanor /Strickland/
 1 SEX F
-0 @8XRahUJXRz6WiV7vHeme@ INDI
-1 _XY 127891 305
-1 REFN 4bc4108a-be3f-4493-826a-aab4a8c5a0b0
 1 FAMC @XiO1ncXwQdKoeY0F7J5V@
 1 BIRT
 2 DATE 23 OCT 1804
-1 NAME Eleanor /Strickland/
-1 SEX F
+1 _XY 127891 305
 0 @lZwjDDSKRYSDpX7oqayt@ INDI
-1 _XY 128023 299
 1 REFN 7aa05080-56c6-426c-912b-1f24bb07db16
+1 NAME Elizabeth /Strickland/
+1 SEX F
 1 FAMC @XiO1ncXwQdKoeY0F7J5V@
 1 BIRT
 2 DATE 09 JAN 1806
@@ -3269,11 +3270,64 @@
 3 MAP
 4 LATI N39.7764
 4 LONG W74.8628
-1 NAME Elizabeth /Strickland/
-1 SEX F
+1 _XY 128023 299
 0 @akQdNZ2ySNaenEyp469e@ INDI
-1 _XY 127485 299
 1 REFN 9dae8579-c472-401d-b52f-f10c1b055944
+1 NAME Hannah /Strickland/
+2 SOUR @S50@
+3 PAGE Year: 1850; Census Place: New York Ward 5, New York, New Yor
+4 CONC k; Roll: M432_537; Page: 223A; Image: 452
+3 OBJE @1h2IcDiNTDap88oq7Rrz@
+3 _APID 1,8054::7247461
+2 SOUR @S51@
+3 PAGE Year: 1860; Census Place: New York Ward 5 District 1, New Yo
+4 CONC rk, New York; Roll: M653_790; Page: 219; Image: 63; Family H
+4 CONC istory Library Film: 803790
+3 OBJE @dHNmDYPCTC6UfuPUfrO1@
+3 _APID 1,7667::46919131
+2 SOUR @W9AF3YLISEKpgaYjMG1d@
+3 PAGE Year: 1870; Census Place: New York Ward 5 District 1 (2nd En
+4 CONC um), New York, New York; Roll: M593_1016; Page: 9B; Image: 2
+4 CONC 2; Family History Library Film: 552515
+3 OBJE @NTP1VKdRRiaQfMFtKurk@
+3 _APID 1,7163::30457995
+2 SOUR @W9AF3YLISEKpgaYjMG1d@
+3 PAGE Year: 1870; Census Place: New York Ward 5 District 8, New Yo
+4 CONC rk, New York; Roll: M593_977; Page: 203A; Image: 409; Famil
+4 CONC y History Library Film: 552476
+3 OBJE @B3C4IA4oSamimJfmTBbk@
+3 _APID 1,7163::29877348
+2 SOUR @pbUV2aFjTeiSEopmWX0R@
+3 PAGE Year: 1880; Census Place: Freehold, Monmouth, New Jersey
+3 OBJE @cPhTj5vKRfKflui5xLWP@
+3 _APID 1,6742::49679002
+2 SOUR @S56@
+3 PAGE record for Hannah Strickland
+3 OBJE @M57@
+3 _APID 1,61376::900245735
+2 SOUR @wctgpVPVSZ6VLXY9SuLQ@
+3 _APID 1,9131::777102
+2 SOUR @gnFo1KqTStqpaYqdjblr@
+3 OBJE @eD0G6WJUSrKLVWP1q8kN@
+3 _APID 1,7181::1653641777
+2 SOUR @S55@
+3 PAGE "Goulding's Manual of New York and General Statistical Guide
+4 CONC , 1875"
+3 OBJE @mmQeQoo5RBSkS8YrHBeC@
+3 _APID 1,2469::1488087970
+2 SOUR @S55@
+3 PAGE "New York, New York, City Directory, 1875"
+3 OBJE @Q6TJfqjcTMSMHwQPyQJJ@
+3 _APID 1,2469::125124595
+2 SOUR @S55@
+3 PAGE "New York, New York, City Directory, 1876"
+3 OBJE @jPYVCr43QQivJ5lTjx5c@
+3 _APID 1,2469::1203396604
+2 SOUR @S52@
+3 _APID 1,60525::129507224
+2 SOUR @OwU9UXcaRnCSBtH2FmSZ@
+3 _APID 1,9289::25942327
+1 SEX F
 1 FAMC @XiO1ncXwQdKoeY0F7J5V@
 1 FAMS @ztkA7rtfSwW4leD24XfB@
 1 BIRT
@@ -3283,37 +3337,37 @@
 4 LATI N40.1365
 4 LONG W73.2613
 2 SOUR @S50@
-3 _APID 1,8054::7247461
 3 PAGE Year: 1850; Census Place: New York Ward 5, New York, New Yor
 4 CONC k; Roll: M432_537; Page: 223A; Image: 452
 3 OBJE @1h2IcDiNTDap88oq7Rrz@
+3 _APID 1,8054::7247461
 2 SOUR @S51@
-3 _APID 1,7667::46919131
 3 PAGE Year: 1860; Census Place: New York Ward 5 District 1, New Yo
 4 CONC rk, New York; Roll: M653_790; Page: 219; Image: 63; Family H
 4 CONC istory Library Film: 803790
 3 OBJE @dHNmDYPCTC6UfuPUfrO1@
+3 _APID 1,7667::46919131
 2 SOUR @W9AF3YLISEKpgaYjMG1d@
-3 _APID 1,7163::30457995
 3 PAGE Year: 1870; Census Place: New York Ward 5 District 1 (2nd En
 4 CONC um), New York, New York; Roll: M593_1016; Page: 9B; Image: 2
 4 CONC 2; Family History Library Film: 552515
 3 OBJE @NTP1VKdRRiaQfMFtKurk@
+3 _APID 1,7163::30457995
 2 SOUR @W9AF3YLISEKpgaYjMG1d@
-3 _APID 1,7163::29877348
 3 PAGE Year: 1870; Census Place: New York Ward 5 District 8, New Yo
 4 CONC rk, New York; Roll: M593_977; Page: 203A; Image: 409; Famil
 4 CONC y History Library Film: 552476
 3 OBJE @B3C4IA4oSamimJfmTBbk@
+3 _APID 1,7163::29877348
 2 SOUR @pbUV2aFjTeiSEopmWX0R@
-3 _APID 1,6742::49679002
 3 PAGE Year: 1880; Census Place: Freehold, Monmouth, New Jersey
 3 OBJE @cPhTj5vKRfKflui5xLWP@
+3 _APID 1,6742::49679002
 2 SOUR @wctgpVPVSZ6VLXY9SuLQ@
 3 _APID 1,9131::777102
 2 SOUR @gnFo1KqTStqpaYqdjblr@
-3 _APID 1,7181::1653641777
 3 OBJE @eD0G6WJUSrKLVWP1q8kN@
+3 _APID 1,7181::1653641777
 2 SOUR @S52@
 3 _APID 1,60525::129507224
 2 SOUR @OwU9UXcaRnCSBtH2FmSZ@
@@ -3325,10 +3379,10 @@
 4 LATI N40.7142
 4 LONG W74.0064
 2 SOUR @S50@
-3 _APID 1,8054::7247461
 3 PAGE Year: 1850; Census Place: New York Ward 5, New York, New Yor
 4 CONC k; Roll: M432_537; Page: 223A; Image: 452
 3 OBJE @1h2IcDiNTDap88oq7Rrz@
+3 _APID 1,8054::7247461
 1 RESI
 2 DATE 1855
 2 PLAC New York, New York, New York, USA
@@ -3336,8 +3390,8 @@
 4 LATI N40.7142
 4 LONG W74.0064
 2 SOUR @gnFo1KqTStqpaYqdjblr@
-3 _APID 1,7181::1653641777
 3 OBJE @eD0G6WJUSrKLVWP1q8kN@
+3 _APID 1,7181::1653641777
 2 NOTE Age: 30; Relation to Head of House: Wife
 1 RESI
 2 DATE 1860
@@ -3346,11 +3400,11 @@
 4 LATI N40.7142
 4 LONG W74.0064
 2 SOUR @S51@
-3 _APID 1,7667::46919131
 3 PAGE Year: 1860; Census Place: New York Ward 5 District 1, New Yo
 4 CONC rk, New York; Roll: M653_790; Page: 219; Image: 63; Family H
 4 CONC istory Library Film: 803790
 3 OBJE @dHNmDYPCTC6UfuPUfrO1@
+3 _APID 1,7667::46919131
 1 RESI
 2 DATE 29 JUN 1870
 2 PLAC New York, New York, New York, USA
@@ -3358,50 +3412,50 @@
 4 LATI N40.7142
 4 LONG W74.0064
 2 SOUR @W9AF3YLISEKpgaYjMG1d@
-3 _APID 1,7163::29877348
 3 PAGE Year: 1870; Census Place: New York Ward 5 District 8, New Yo
 4 CONC rk, New York; Roll: M593_977; Page: 203A; Image: 409; Famil
 4 CONC y History Library Film: 552476
 3 OBJE @B3C4IA4oSamimJfmTBbk@
+3 _APID 1,7163::29877348
 2 NOTE Age: 54; Census Post Office: New York City
 1 RESI
 2 DATE 21 DEC 1870
 2 PLAC 476 Greenwich Street, New York, New York, New York, USA
 2 SOUR @W9AF3YLISEKpgaYjMG1d@
-3 _APID 1,7163::30457995
 3 PAGE Year: 1870; Census Place: New York Ward 5 District 1 (2nd En
 4 CONC um), New York, New York; Roll: M593_1016; Page: 9B; Image: 2
 4 CONC 2; Family History Library Film: 552515
 3 OBJE @NTP1VKdRRiaQfMFtKurk@
+3 _APID 1,7163::30457995
 2 NOTE Age: 52; Census Post Office: New York City
 1 RESI
 2 DATE 1875
 2 PLAC boarding house, 186 Hudson Street, New York, New York, New Y
 3 CONC ork, USA
 2 SOUR @S55@
-3 _APID 1,2469::1488087970
 3 PAGE "Goulding's Manual of New York and General Statistical Guide
 4 CONC , 1875"
 3 OBJE @mmQeQoo5RBSkS8YrHBeC@
+3 _APID 1,2469::1488087970
 2 SOUR @S55@
-3 _APID 1,2469::125124595
 3 PAGE "New York, New York, City Directory, 1875"
 3 OBJE @Q6TJfqjcTMSMHwQPyQJJ@
+3 _APID 1,2469::125124595
 1 RESI
 2 DATE 1876
 2 PLAC boarding house, 186 Hudson Street, New York, New York, New Y
 3 CONC ork, USA
 2 SOUR @S55@
-3 _APID 1,2469::1203396604
 3 PAGE "New York, New York, City Directory, 1876"
 3 OBJE @jPYVCr43QQivJ5lTjx5c@
+3 _APID 1,2469::1203396604
 1 RESI
 2 DATE 1880
 2 PLAC Main Street, Freehold, Monmouth, New Jersey, USA
 2 SOUR @pbUV2aFjTeiSEopmWX0R@
-3 _APID 1,6742::49679002
 3 PAGE Year: 1880; Census Place: Freehold, Monmouth, New Jersey
 3 OBJE @cPhTj5vKRfKflui5xLWP@
+3 _APID 1,6742::49679002
 2 NOTE Age: 65; Marital Status: Widowed; Relation to Head of House
 3 CONC : Mother
 1 DEAT
@@ -3416,61 +3470,6 @@
 3 _APID 1,60525::129507224
 2 SOUR @OwU9UXcaRnCSBtH2FmSZ@
 3 _APID 1,9289::25942327
-1 NAME Hannah /Strickland/
-2 SOUR @S50@
-3 _APID 1,8054::7247461
-3 PAGE Year: 1850; Census Place: New York Ward 5, New York, New Yor
-4 CONC k; Roll: M432_537; Page: 223A; Image: 452
-3 OBJE @1h2IcDiNTDap88oq7Rrz@
-2 SOUR @S51@
-3 _APID 1,7667::46919131
-3 PAGE Year: 1860; Census Place: New York Ward 5 District 1, New Yo
-4 CONC rk, New York; Roll: M653_790; Page: 219; Image: 63; Family H
-4 CONC istory Library Film: 803790
-3 OBJE @dHNmDYPCTC6UfuPUfrO1@
-2 SOUR @W9AF3YLISEKpgaYjMG1d@
-3 _APID 1,7163::30457995
-3 PAGE Year: 1870; Census Place: New York Ward 5 District 1 (2nd En
-4 CONC um), New York, New York; Roll: M593_1016; Page: 9B; Image: 2
-4 CONC 2; Family History Library Film: 552515
-3 OBJE @NTP1VKdRRiaQfMFtKurk@
-2 SOUR @W9AF3YLISEKpgaYjMG1d@
-3 _APID 1,7163::29877348
-3 PAGE Year: 1870; Census Place: New York Ward 5 District 8, New Yo
-4 CONC rk, New York; Roll: M593_977; Page: 203A; Image: 409; Famil
-4 CONC y History Library Film: 552476
-3 OBJE @B3C4IA4oSamimJfmTBbk@
-2 SOUR @pbUV2aFjTeiSEopmWX0R@
-3 _APID 1,6742::49679002
-3 PAGE Year: 1880; Census Place: Freehold, Monmouth, New Jersey
-3 OBJE @cPhTj5vKRfKflui5xLWP@
-2 SOUR @S56@
-3 _APID 1,61376::900245735
-3 PAGE record for Hannah Strickland
-3 OBJE @M57@
-2 SOUR @wctgpVPVSZ6VLXY9SuLQ@
-3 _APID 1,9131::777102
-2 SOUR @gnFo1KqTStqpaYqdjblr@
-3 _APID 1,7181::1653641777
-3 OBJE @eD0G6WJUSrKLVWP1q8kN@
-2 SOUR @S55@
-3 _APID 1,2469::1488087970
-3 PAGE "Goulding's Manual of New York and General Statistical Guide
-4 CONC , 1875"
-3 OBJE @mmQeQoo5RBSkS8YrHBeC@
-2 SOUR @S55@
-3 _APID 1,2469::125124595
-3 PAGE "New York, New York, City Directory, 1875"
-3 OBJE @Q6TJfqjcTMSMHwQPyQJJ@
-2 SOUR @S55@
-3 _APID 1,2469::1203396604
-3 PAGE "New York, New York, City Directory, 1876"
-3 OBJE @jPYVCr43QQivJ5lTjx5c@
-2 SOUR @S52@
-3 _APID 1,60525::129507224
-2 SOUR @OwU9UXcaRnCSBtH2FmSZ@
-3 _APID 1,9289::25942327
-1 SEX F
 1 BURI
 2 PLAC Jackson, Ocean, New Jersey, USA
 3 MAP
@@ -3478,63 +3477,65 @@
 4 LONG W74.8624
 2 SOUR @S52@
 3 _APID 1,60525::129507224
+1 _XY 127485 299
 0 @L12KhW2TRCWMh4NwY3Yk@ INDI
-1 _XY 127751 299
 1 REFN 32c06251-e281-473b-bd1e-1289f8035bf6
+1 NAME Jonathan /Strickland/
+1 SEX M
 1 FAMC @XiO1ncXwQdKoeY0F7J5V@
 1 BIRT
 2 DATE 19 SEP 1803
 1 DEAT
 2 DATE 27 MAR 1848
-1 NAME Jonathan /Strickland/
-1 SEX M
+1 _XY 127751 299
 0 @g0UHoKo9Ts6ENZ96FpeH@ INDI
-1 _XY 128716 305
 1 REFN 1a703fde-eaa8-4d0b-9cb5-b8a6562fb496
+1 NAME Mary /Strickland/
+1 SEX F
 1 FAMC @XiO1ncXwQdKoeY0F7J5V@
 1 BIRT
 2 DATE 22 JUN 1819
-1 NAME Mary /Strickland/
-1 SEX F
+1 _XY 128716 305
 0 @STSZetSVSSGFGtJMa3eJ@ INDI
-1 _XY 128162 299
 1 REFN 55ef33f1-f6a0-473e-8b0b-e7bc156b7dd2
+1 NAME Sarah Ann /Strickland/
+1 SEX F
 1 FAMC @XiO1ncXwQdKoeY0F7J5V@
 1 BIRT
 2 DATE 09 JUL 1808
 1 DEAT
 2 DATE 23 MAR 1883
-1 NAME Sarah Ann /Strickland/
-1 SEX F
+1 _XY 128162 299
 0 @vEeFq9B2SMuSllCEhs9A@ INDI
-1 _XY 128448 305
 1 REFN ac8d20c9-a146-4b9c-9d2d-1151c829d1bc
+1 NAME William /Strickland/
+1 SEX M
 1 FAMC @XiO1ncXwQdKoeY0F7J5V@
 1 BIRT
 2 DATE 31 MAR 1813
-1 NAME William /Strickland/
-1 SEX M
+1 _XY 128448 305
 0 @xQ4xyEWxSDSHmJln96f4@ INDI
-1 _XY 128105 205
 1 REFN da2fca02-c168-4969-b713-01751a8c8385
+1 NAME Amy /Stricklin/
+1 SEX F
 1 FAMC @oYMK9bThTFCPWn78nenx@
 1 BIRT
 2 DATE 28 NOV 1782
-1 NAME Amy /Stricklin/
-1 SEX F
+1 _XY 128105 205
 0 @jC6s0YMXQna591iaJ8ms@ INDI
-1 _XY 128353 199
 1 REFN 65289f64-c4d0-49b3-ab4b-e03aaa148fd6
+1 NAME Anna /Stricklin/
+1 SEX F
 1 FAMC @oYMK9bThTFCPWn78nenx@
 1 BIRT
 2 DATE 06 SEP 1786
 1 DEAT
 2 DATE 1840
-1 NAME Anna /Stricklin/
-1 SEX F
+1 _XY 128353 199
 0 @Xy3oQKlaSJmccvfxoIlO@ INDI
-1 _XY 127974 199
 1 REFN e51ccdfc-4b39-4c1c-ba53-331008f07113
+1 NAME Catherine /Stricklin/
+1 SEX F
 1 FAMC @oYMK9bThTFCPWn78nenx@
 1 BIRT
 2 DATE 28 APR 1781
@@ -3548,11 +3549,11 @@
 3 MAP
 4 LATI N40.2878
 4 LONG W74.1544
-1 NAME Catherine /Stricklin/
-1 SEX F
+1 _XY 127974 199
 0 @jYrm1i6DSZWm2Qb3wMqi@ INDI
-1 _XY 128472 199
 1 REFN 69e83a6c-ccc9-43cf-aa65-43ce9fb1633d
+1 NAME Eleanor /Stricklin/
+1 SEX F
 1 FAMC @oYMK9bThTFCPWn78nenx@
 1 BIRT
 2 DATE 21 SEP 1788
@@ -3566,11 +3567,11 @@
 3 MAP
 4 LATI N40.2069
 4 LONG W74.0817
-1 NAME Eleanor /Stricklin/
-1 SEX F
+1 _XY 128472 199
 0 @TrSjz18FRPysyC0Wm8yr@ INDI
-1 _XY 127726 199
 1 REFN 5d13edaa-85ae-47e5-b651-8355ff06e945
+1 NAME Hannah /Stricklin/
+1 SEX F
 1 FAMC @oYMK9bThTFCPWn78nenx@
 1 BIRT
 2 DATE 05 NOV 1775
@@ -3584,11 +3585,36 @@
 3 MAP
 4 LATI N39.0523
 4 LONG W84.1504
-1 NAME Hannah /Stricklin/
-1 SEX F
+1 _XY 127726 199
 0 @OHut86PmQaCSX236RP3J@ INDI
-1 _XY 127965 123
 1 REFN aac14aa7-9f1e-4dfb-bd4e-66d0b31ba8f9
+1 NAME Jonathan /Stricklin/
+2 SOUR @UD20HsiXRJmDCJbz7wrS@
+3 OBJE @K2LoowsXTpazOm7o56MH@
+3 _APID 1,2793::11695
+2 SOUR @S53@
+3 PAGE "New Jersey Early Census Index," 1779, p. 7, entry 1
+3 _APID 1,3562::18864855
+2 SOUR @S53@
+3 PAGE "New Jersey Early Census Index," 1779, p. 7, entry 2
+3 _APID 1,3562::18864856
+2 SOUR @S53@
+3 PAGE "New Jersey Early Census Index," 1789, p. 11
+3 _APID 1,3562::18881137
+2 SOUR @S53@
+3 PAGE "New Jersey Tax List Index 1772-1822," 1780, p. 7, entry 1
+3 _APID 1,3562::18878155
+2 SOUR @S53@
+3 PAGE "New Jersey Tax List Index 1772-1822," 1780, p. 7, entry 2
+3 _APID 1,3562::18878156
+2 SOUR @S57@
+3 PAGE Recorded Wills, 1804-1844; Author: New Jersey. Surrogate's C
+4 CONC ourt (Monmouth County); Probate Place: Monmouth, New Jersey
+3 OBJE @ITvn2bYnQQG7LO7rTkrU@
+3 _APID 1,8796::280226
+2 SOUR @OwU9UXcaRnCSBtH2FmSZ@
+3 _APID 1,9289::25965104
+1 SEX M
 1 FAMS @oYMK9bThTFCPWn78nenx@
 1 BIRT
 2 DATE 01 APR 1743
@@ -3605,11 +3631,11 @@
 4 LATI N40.8839
 4 LONG W74.5625
 2 SOUR @S53@
-3 _APID 1,3562::18864855
 3 PAGE "New Jersey Early Census Index," 1779, p. 7, entry 1
+3 _APID 1,3562::18864855
 2 SOUR @S53@
-3 _APID 1,3562::18864856
 3 PAGE "New Jersey Early Census Index," 1779, p. 7, entry 2
+3 _APID 1,3562::18864856
 1 RESI
 2 DATE 1780
 2 PLAC Freehold, Monmouth, New Jersey, USA
@@ -3617,11 +3643,11 @@
 4 LATI N40.2601
 4 LONG W74.2738
 2 SOUR @S53@
-3 _APID 1,3562::18878155
 3 PAGE "New Jersey Tax List Index 1772-1822," 1780, p. 7, entry 1
+3 _APID 1,3562::18878155
 2 SOUR @S53@
-3 _APID 1,3562::18878156
 3 PAGE "New Jersey Tax List Index 1772-1822," 1780, p. 7, entry 2
+3 _APID 1,3562::18878156
 1 RESI
 2 DATE 1789
 2 PLAC Freehold, Monmouth, New Jersey, USA
@@ -3629,8 +3655,8 @@
 4 LATI N40.2601
 4 LONG W74.2738
 2 SOUR @S53@
-3 _APID 1,3562::18881137
 3 PAGE "New Jersey Early Census Index," 1789, p. 11
+3 _APID 1,3562::18881137
 1 RESI
 2 DATE 04 JUN 1812
 2 PLAC Monmouth, New Jersey, USA
@@ -3638,8 +3664,8 @@
 4 LATI N40.2878
 4 LONG W74.1544
 2 SOUR @UD20HsiXRJmDCJbz7wrS@
-3 _APID 1,2793::11695
 3 OBJE @K2LoowsXTpazOm7o56MH@
+3 _APID 1,2793::11695
 1 DEAT
 2 DATE ABT 14 SEP 1813
 2 PLAC Monmouth, New Jersey, USA
@@ -3647,13 +3673,13 @@
 4 LATI N40.2878
 4 LONG W74.1544
 2 SOUR @UD20HsiXRJmDCJbz7wrS@
-3 _APID 1,2793::11695
 3 OBJE @K2LoowsXTpazOm7o56MH@
+3 _APID 1,2793::11695
 2 SOUR @S57@
-3 _APID 1,8796::280226
 3 PAGE Recorded Wills, 1804-1844; Author: New Jersey. Surrogate's C
 4 CONC ourt (Monmouth County); Probate Place: Monmouth, New Jersey
 3 OBJE @ITvn2bYnQQG7LO7rTkrU@
+3 _APID 1,8796::280226
 2 SOUR @OwU9UXcaRnCSBtH2FmSZ@
 3 _APID 1,9289::25965104
 1 PROB
@@ -3663,48 +3689,23 @@
 4 LATI N40.2878
 4 LONG W74.1544
 2 SOUR @S57@
-3 _APID 1,8796::280226
 3 PAGE Recorded Wills, 1804-1844; Author: New Jersey. Surrogate's C
 4 CONC ourt (Monmouth County); Probate Place: Monmouth, New Jersey
 3 OBJE @ITvn2bYnQQG7LO7rTkrU@
-1 NAME Jonathan /Stricklin/
-2 SOUR @UD20HsiXRJmDCJbz7wrS@
-3 _APID 1,2793::11695
-3 OBJE @K2LoowsXTpazOm7o56MH@
-2 SOUR @S53@
-3 _APID 1,3562::18864855
-3 PAGE "New Jersey Early Census Index," 1779, p. 7, entry 1
-2 SOUR @S53@
-3 _APID 1,3562::18864856
-3 PAGE "New Jersey Early Census Index," 1779, p. 7, entry 2
-2 SOUR @S53@
-3 _APID 1,3562::18881137
-3 PAGE "New Jersey Early Census Index," 1789, p. 11
-2 SOUR @S53@
-3 _APID 1,3562::18878155
-3 PAGE "New Jersey Tax List Index 1772-1822," 1780, p. 7, entry 1
-2 SOUR @S53@
-3 _APID 1,3562::18878156
-3 PAGE "New Jersey Tax List Index 1772-1822," 1780, p. 7, entry 2
-2 SOUR @S57@
 3 _APID 1,8796::280226
-3 PAGE Recorded Wills, 1804-1844; Author: New Jersey. Surrogate's C
-4 CONC ourt (Monmouth County); Probate Place: Monmouth, New Jersey
-3 OBJE @ITvn2bYnQQG7LO7rTkrU@
-2 SOUR @OwU9UXcaRnCSBtH2FmSZ@
-3 _APID 1,9289::25965104
-1 SEX M
+1 _XY 127965 123
 0 @WZQXSPhvQnqhymp71Zh3@ INDI
-1 _XY 128594 205
 1 REFN 8ba2b9d0-a862-4aa0-8054-40114966825e
+1 NAME Jonathan /Stricklin/
+1 SEX M
 1 FAMC @oYMK9bThTFCPWn78nenx@
 1 BIRT
 2 DATE 24 OCT 1790
-1 NAME Jonathan /Stricklin/
-1 SEX M
+1 _XY 128594 205
 0 @wIeW8ayASJOtJbNTzFgr@ INDI
-1 _XY 128225 199
 1 REFN 43925c0d-f5e8-4d0e-8345-03aa193bd67e
+1 NAME Margaret /Stricklin/
+1 SEX F
 1 FAMC @oYMK9bThTFCPWn78nenx@
 1 BIRT
 2 DATE 05 NOV 1784
@@ -3714,11 +3715,11 @@
 4 LONG W74.1544
 1 DEAT
 2 DATE 14 SEP 1838
-1 NAME Margaret /Stricklin/
-1 SEX F
+1 _XY 128225 199
 0 @bDSaf54KQEiwXyK2C84h@ INDI
-1 _XY 128724 199
 1 REFN 37ac4110-4d08-404b-9079-dbb5e1346ae7
+1 NAME Mary /Stricklin/
+1 SEX F
 1 FAMC @oYMK9bThTFCPWn78nenx@
 1 BIRT
 2 DATE 06 JAN 1793
@@ -3728,11 +3729,11 @@
 3 MAP
 4 LATI N40.2601
 4 LONG W74.2738
-1 NAME Mary /Stricklin/
-1 SEX F
+1 _XY 128724 199
 0 @MSWg1KBoSqSif8ZWxUMJ@ INDI
-1 _XY 127850 199
 1 REFN 7c7aed88-2d1b-4757-91e5-2b4f485db467
+1 NAME Thomas /Stricklin/
+1 SEX M
 1 FAMC @oYMK9bThTFCPWn78nenx@
 1 BIRT
 2 DATE 10 OCT 1777
@@ -3746,11 +3747,13 @@
 3 MAP
 4 LATI N40.2878
 4 LONG W74.1544
-1 NAME Thomas /Stricklin/
-1 SEX M
+1 _XY 127850 199
 0 @SZ0E4llFSM6r909v223s@ INDI
-1 _XY 128113 124
 1 REFN c201eb79-7c53-46c4-b899-2c999aabc585
+1 NAME Eleanor /Taylor/
+2 SOUR @OwU9UXcaRnCSBtH2FmSZ@
+3 _APID 1,9289::25965105
+1 SEX F
 1 FAMC @AcWyA39wQjKRebI5vWsR@
 1 FAMS @oYMK9bThTFCPWn78nenx@
 1 BIRT
@@ -3769,21 +3772,24 @@
 4 LONG W74.2738
 2 SOUR @OwU9UXcaRnCSBtH2FmSZ@
 3 _APID 1,9289::25965105
-1 NAME Eleanor /Taylor/
-2 SOUR @OwU9UXcaRnCSBtH2FmSZ@
-3 _APID 1,9289::25965105
-1 SEX F
+1 _XY 128113 124
 0 @gkbSLiEzSDqNvN386xQO@ INDI
-1 _XY 128113 30
 1 REFN 7c08e424-4fb1-47c0-ae86-91fc7ec7bda8
+1 NAME Thomas /Taylor/
+1 SEX M
 1 FAMS @AcWyA39wQjKRebI5vWsR@
 1 BIRT
 2 DATE ABT 1720
-1 NAME Thomas /Taylor/
-1 SEX M
+1 _XY 128113 30
 0 @ySRDYyZpRuyGPzOE4EYD@ INDI
-1 _XY 127098 194
 1 REFN 15e8ea85-d1b4-4391-8b13-13b1b53da5b0
+1 NAME Maria /Wells/
+2 SOUR @yl6Va3omSv6IQWKVXqie@
+3 PAGE Place: Tolpuddle, Dorset, England; Date Range: 1784 - 1812
+4 CONC ; Film Number: 1239251
+3 _APID 1,1351::395479
+1 NAME Marie /Wells/
+1 SEX F
 1 FAMS @8szxfl6tT7WgFUnujVjX@
 1 BIRT
 2 DATE 04 MAY 1792
@@ -3798,22 +3804,16 @@
 4 LATI N50.7497
 4 LONG W2.2959
 2 SOUR @yl6Va3omSv6IQWKVXqie@
-3 _APID 1,1351::395479
 3 PAGE Place: Tolpuddle, Dorset, England; Date Range: 1784 - 1812
 4 CONC ; Film Number: 1239251
+3 _APID 1,1351::395479
 1 DEAT
 2 DATE 10 MAY 1869
 2 PLAC Saugerties, Ulster, New York, USA
 3 MAP
 4 LATI N42.0776
 4 LONG W73.9529
-1 NAME Maria /Wells/
-2 SOUR @yl6Va3omSv6IQWKVXqie@
-3 _APID 1,1351::395479
-3 PAGE Place: Tolpuddle, Dorset, England; Date Range: 1784 - 1812
-4 CONC ; Film Number: 1239251
-1 SEX F
-1 NAME Marie /Wells/
+1 _XY 127098 194
 0 @aOiBhmKIT92YvlYL8jqI@ FAM
 1 REFN b981c342-9b1d-4ca6-93a6-6422626c2c6f
 1 HUSB @LoNMnHZeTpKxIXCwGxSL@
@@ -3840,11 +3840,11 @@
 4 LATI N40.7142
 4 LONG W74.0064
 2 SOUR @EdJbjqVNRj6fDWFU9ALa@
-3 _APID 1,7602::38291377
 3 PAGE Year: 1900; Census Place: Manhattan, New York, New York; Rol
 4 CONC l: 1108; Page: 1A; Enumeration District: 0628; FHL microfilm
 4 CONC : 1241108
 3 OBJE @TZBdR35uR7SEpcP2h87r@
+3 _APID 1,7602::38291377
 2 SOUR @h7mR8oEvSuuGd4hDYmCc@
 3 _APID 1,9105::899603
 0 @6B9BDUpTRoCHtTBEoKjL@ FAM
@@ -3905,11 +3905,11 @@
 1 MARR
 2 DATE 1868
 2 SOUR @EdJbjqVNRj6fDWFU9ALa@
-3 _APID 1,7602::32480041
 3 PAGE Year: 1900; Census Place: Manhattan, New York, New York; Rol
 4 CONC l: 1082; Page: 14B; Enumeration District: 0057; FHL microfil
 4 CONC m: 1241082
 3 OBJE @7y7QRDjzRuWB3DDvauhy@
+3 _APID 1,7602::32480041
 0 @8szxfl6tT7WgFUnujVjX@ FAM
 1 REFN f11f6148-286c-4c74-b948-6b3716892a8f
 1 HUSB @3cTDJDihSfe9tcaXTrxo@
@@ -3971,9 +3971,9 @@
 3 PAGE record for Hannah Strickland
 3 OBJE @M57@
 2 SOUR @S56@
-3 _APID 1,61376::245735
 3 PAGE record for William Pettit
 3 OBJE @M57@
+3 _APID 1,61376::245735
 0 @XiO1ncXwQdKoeY0F7J5V@ FAM
 1 REFN 56ffbe62-0483-4c54-ad75-e5a195521e0e
 1 HUSB @yQfdE0FSRYCacwOehWQ9@
@@ -4603,45 +4603,40 @@
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2012
 0 @1h2IcDiNTDap88oq7Rrz@ OBJE
-1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
-2 CONC _Harrison_Pazmino Media\1850 United States Federal Census(13
-2 CONC ).jpg
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Pettit Media\18
+2 CONC 50 United States Federal Census(13).jpg
 2 FORM jpg
 2 TITL 1850 United States Federal Census
 2 _TEXT Year: 1850; Census Place: New York Ward 5, New York, New Yor
 3 CONC k; Roll: M432_537; Page: 223A; Image: 452
 1 REFN fa0b1102-de7d-4942-abce-c5893d6357f6
 0 @SqI9wtDvSHm9MKMWhYeI@ OBJE
-1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
-2 CONC _Harrison_Pazmino Media\1850 United States Federal Census(28
-2 CONC ).jpg
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Pettit Media\18
+2 CONC 50 United States Federal Census(28).jpg
 2 FORM jpg
 2 TITL 1850 United States Federal Census
 2 _TEXT Year: 1850; Census Place: New York Ward 5, New York, New Yor
 3 CONC k; Roll: M432_537; Page: 223B; Image: 453
 1 REFN 38f39a2f-c8a2-40a5-8ab8-5803b73367e3
 0 @Ru41TagsQNCrXQJHbsKK@ OBJE
-1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
-2 CONC _Harrison_Pazmino Media\1850 United States Federal Census(36
-2 CONC ).jpg
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Pettit Media\18
+2 CONC 50 United States Federal Census(36).jpg
 2 FORM jpg
 2 TITL 1850 United States Federal Census
 2 _TEXT Year: 1850; Census Place: Brooklyn Ward 11, Kings, New York
 3 CONC ; Roll: M432_520; Page: 270B; Image: 481
 1 REFN ee2c736b-24a0-4f02-8547-67d780e40995
 0 @lpHlvnWGRROKt8DLmaxr@ OBJE
-1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
-2 CONC _Harrison_Pazmino Media\1850 United States Federal Census(38
-2 CONC ).jpg
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Pettit Media\18
+2 CONC 50 United States Federal Census(38).jpg
 2 FORM jpg
 2 TITL 1850 United States Federal Census
 2 _TEXT Year: 1850; Census Place: Brooklyn Ward 11, Kings, New York
 3 CONC ; Roll: M432_520; Page: 328B; Image: 597
 1 REFN 9b8336c8-3381-44eb-baba-628e5666ba3e
 0 @vmJE3KiMSOeddhlvdi4T@ OBJE
-1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
-2 CONC _Harrison_Pazmino Media\1860 United States Federal Census(15
-2 CONC ).jpg
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Pettit Media\18
+2 CONC 60 United States Federal Census(15).jpg
 2 FORM jpg
 2 TITL 1860 United States Federal Census
 2 _TEXT Year: 1860; Census Place: Brooklyn Ward 19 District 2, Kings
@@ -4649,9 +4644,8 @@
 3 CONC story Library Film: 803775
 1 REFN 13b98271-868f-4bb5-b523-05b3f2c74ee7
 0 @dHNmDYPCTC6UfuPUfrO1@ OBJE
-1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
-2 CONC _Harrison_Pazmino Media\1860 United States Federal Census(34
-2 CONC ).jpg
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Pettit Media\18
+2 CONC 60 United States Federal Census(34).jpg
 2 FORM jpg
 2 TITL 1860 United States Federal Census
 2 _TEXT Year: 1860; Census Place: New York Ward 5 District 1, New Yo
@@ -4659,9 +4653,8 @@
 3 CONC istory Library Film: 803790
 1 REFN a502450d-24d9-4e8a-9a32-b1c15cb57972
 0 @NIHme99aTUeMe0yaNg1S@ OBJE
-1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
-2 CONC _Harrison_Pazmino Media\1860 United States Federal Census(44
-2 CONC ).jpg
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Pettit Media\18
+2 CONC 60 United States Federal Census(44).jpg
 2 FORM jpg
 2 TITL 1860 United States Federal Census
 2 _TEXT Year: 1860; Census Place: Brooklyn Ward 11 District 3, Kings
@@ -4669,9 +4662,8 @@
 3 CONC story Library Film: 803770
 1 REFN 94aa824e-da6f-4fea-b795-beb895d87c95
 0 @d0B3ylCRT66hrCBpiokE@ OBJE
-1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
-2 CONC _Harrison_Pazmino Media\1870 United States Federal Census(10
-2 CONC ).jpg
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Pettit Media\18
+2 CONC 70 United States Federal Census(10).jpg
 2 FORM jpg
 2 TITL 1870 United States Federal Census
 2 _TEXT Year: 1870; Census Place: Brooklyn Ward 15, Kings, New York
@@ -4679,9 +4671,8 @@
 3 CONC rary Film: 552455
 1 REFN ab442546-b673-43a7-816e-41e990ac5162
 0 @NTP1VKdRRiaQfMFtKurk@ OBJE
-1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
-2 CONC _Harrison_Pazmino Media\1870 United States Federal Census(37
-2 CONC ).jpg
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Pettit Media\18
+2 CONC 70 United States Federal Census(37).jpg
 2 FORM jpg
 2 TITL 1870 United States Federal Census
 2 _TEXT Year: 1870; Census Place: New York Ward 5 District 1 (2nd En
@@ -4689,9 +4680,8 @@
 3 CONC 2; Family History Library Film: 552515
 1 REFN 85c9f8f9-0b75-476c-acdd-bdfcf769969b
 0 @B3C4IA4oSamimJfmTBbk@ OBJE
-1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
-2 CONC _Harrison_Pazmino Media\1870 United States Federal Census(38
-2 CONC ).jpg
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Pettit Media\18
+2 CONC 70 United States Federal Census(38).jpg
 2 FORM jpg
 2 TITL 1870 United States Federal Census
 2 _TEXT Year: 1870; Census Place: New York Ward 5 District 8, New Yo
@@ -4699,18 +4689,16 @@
 3 CONC y History Library Film: 552476
 1 REFN 7c60189e-bb94-4fb9-936f-3f79561f5c8b
 0 @XaYb2BEXQN6DvbKZ9LeU@ OBJE
-1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
-2 CONC _Harrison_Pazmino Media\1870 United States Federal Census(44
-2 CONC ).jpg
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Pettit Media\18
+2 CONC 70 United States Federal Census(44).jpg
 2 FORM jpg
 2 TITL 1870 United States Federal Census
 2 _TEXT Year: 1870; Census Place: New York Ward 5 District 8, New Yo
 3 CONC rk, New York; Roll: M593_; Page: ; Image: .
 1 REFN 196ea3c0-c1f4-40d4-a83b-096a4b38e456
 0 @Mbd743YISV6Eu0rlIgWh@ OBJE
-1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
-2 CONC _Harrison_Pazmino Media\1870 United States Federal Census(47
-2 CONC ).jpg
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Pettit Media\18
+2 CONC 70 United States Federal Census(47).jpg
 2 FORM jpg
 2 TITL 1870 United States Federal Census
 2 _TEXT Year: 1870; Census Place: Brooklyn Ward 20, Kings, New York
@@ -4718,9 +4706,8 @@
 3 CONC rary Film: 552459
 1 REFN cbbd0ff1-6e5e-4d14-86cc-834789909d59
 0 @8hD90X73RYOatuHhASYP@ OBJE
-1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
-2 CONC _Harrison_Pazmino Media\1870 United States Federal Census(51
-2 CONC ).jpg
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Pettit Media\18
+2 CONC 70 United States Federal Census(51).jpg
 2 FORM jpg
 2 TITL 1870 United States Federal Census
 2 _TEXT Year: 1870; Census Place: Brooklyn Ward 20, Kings, New York
@@ -4728,9 +4715,8 @@
 3 CONC rary Film: 552459
 1 REFN 7859a43c-be41-4e2a-bfde-cde89157b0e0
 0 @QN5rblQlQhaN6I4GT8Eg@ OBJE
-1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
-2 CONC _Harrison_Pazmino Media\1880 United States Federal Census(10
-2 CONC ).jpg
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Pettit Media\18
+2 CONC 80 United States Federal Census(10).jpg
 2 FORM jpg
 2 TITL 1880 United States Federal Census
 2 _TEXT Year: 1880; Census Place: Brooklyn, Kings, New York; Roll: 8
@@ -4738,17 +4724,15 @@
 3 CONC strict: 112; Image: 0362
 1 REFN d12f03e5-6c78-40b5-8712-b1f4b2f6a17a
 0 @cPhTj5vKRfKflui5xLWP@ OBJE
-1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
-2 CONC _Harrison_Pazmino Media\1880 United States Federal Census(40
-2 CONC ).jpg
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Pettit Media\18
+2 CONC 80 United States Federal Census(40).jpg
 2 FORM jpg
 2 TITL 1880 United States Federal Census
 2 _TEXT Year: 1880; Census Place: Freehold, Monmouth, New Jersey
 1 REFN 3f443ba7-c2c3-4da0-aca1-09c064f49761
 0 @2GuAqQXwSwarxqHoMIFI@ OBJE
-1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
-2 CONC _Harrison_Pazmino Media\1880 United States Federal Census(45
-2 CONC ).jpg
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Pettit Media\18
+2 CONC 80 United States Federal Census(45).jpg
 2 FORM jpg
 2 TITL 1880 United States Federal Census
 2 _TEXT Year: 1880; Census Place: Brooklyn, Kings, New York; Roll: 8
@@ -4756,17 +4740,15 @@
 3 CONC trict: 244; Image: 0305
 1 REFN d488ac15-e827-42c8-bca5-f6edb54cdbfe
 0 @5RcxEZL7S1acoJCNttRT@ OBJE
-1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
-2 CONC _Harrison_Pazmino Media\1880 United States Federal Census(49
-2 CONC ).jpg
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Pettit Media\18
+2 CONC 80 United States Federal Census(49).jpg
 2 FORM jpg
 2 TITL 1880 United States Federal Census
 2 _TEXT Year: 1880; Census Place: Brooklyn, Kings, New York
 1 REFN 23b69227-32b2-4d4a-8307-77fb7648972d
 0 @TZBdR35uR7SEpcP2h87r@ OBJE
-1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
-2 CONC _Harrison_Pazmino Media\1900 United States Federal Census(42
-2 CONC ).jpg
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Pettit Media\19
+2 CONC 00 United States Federal Census(42).jpg
 2 FORM jpg
 2 TITL 1900 United States Federal Census
 2 _TEXT Year: 1900; Census Place: Manhattan, New York, New York; Rol
@@ -4774,9 +4756,8 @@
 3 CONC : 1241108
 1 REFN 356d57eb-42ce-4089-acd6-b9beeb0cc55e
 0 @7y7QRDjzRuWB3DDvauhy@ OBJE
-1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
-2 CONC _Harrison_Pazmino Media\1900 United States Federal Census(46
-2 CONC ).jpg
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Pettit Media\19
+2 CONC 00 United States Federal Census(46).jpg
 2 FORM jpg
 2 TITL 1900 United States Federal Census
 2 _TEXT Year: 1900; Census Place: Manhattan, New York, New York; Rol
@@ -4784,9 +4765,8 @@
 3 CONC m: 1241082
 1 REFN b459b447-f234-4db3-bb09-632eed803208
 0 @qD7YNIsoROmXLEbMqmVI@ OBJE
-1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
-2 CONC _Harrison_Pazmino Media\1910 United States Federal Census(32
-2 CONC ).jpg
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Pettit Media\19
+2 CONC 10 United States Federal Census(32).jpg
 2 FORM jpg
 2 TITL 1910 United States Federal Census
 2 _TEXT Year: 1910; Census Place: Manhattan Ward 12, New York, New Y
@@ -4794,9 +4774,8 @@
 3 CONC ; FHL microfilm: 1375038
 1 REFN f12828ed-c4bf-4129-b68d-e85307136219
 0 @Kh0paScySx2nUhUWwmni@ OBJE
-1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
-2 CONC _Harrison_Pazmino Media\1910 United States Federal Census(35
-2 CONC ).jpg
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Pettit Media\19
+2 CONC 10 United States Federal Census(35).jpg
 2 FORM jpg
 2 TITL 1910 United States Federal Census
 2 _TEXT Year: 1910; Census Place: Manhattan Ward 9, New York, New Yo
@@ -4804,9 +4783,8 @@
 3 CONC ; FHL microfilm: 1375019
 1 REFN bf822c1c-1e29-4043-823d-ae153f37ffda
 0 @4OIF3osvR6ysr5N4TQUN@ OBJE
-1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
-2 CONC _Harrison_Pazmino Media\1920 United States Federal Census(28
-2 CONC ).jpg
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Pettit Media\19
+2 CONC 20 United States Federal Census(28).jpg
 2 FORM jpg
 2 TITL 1920 United States Federal Census
 2 _TEXT Year: 1920; Census Place: Manhattan Assembly District 3, Ne
@@ -4814,9 +4792,8 @@
 3 CONC trict: 232; Image: 130
 1 REFN 216dec9c-ea38-4049-a8cb-ba4bb8f10186
 0 @DotU476nQiCuYo7e6ObL@ OBJE
-1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
-2 CONC _Harrison_Pazmino Media\1930 United States Federal Census(24
-2 CONC ).jpg
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Pettit Media\19
+2 CONC 30 United States Federal Census(24).jpg
 2 FORM jpg
 2 TITL 1930 United States Federal Census
 2 _TEXT Year: 1930; Census Place: Cedarhurst, Nassau, New York; Roll
@@ -4824,25 +4801,22 @@
 3 CONC ; FHL microfilm: 2341192
 1 REFN 20f7984f-d406-4f1b-8e86-7929572c14cd
 0 @K2LoowsXTpazOm7o56MH@ OBJE
-1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
-2 CONC _Harrison_Pazmino Media\New Jersey, Abstract of Wills, 1670-
-2 CONC 1817.jpg
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Pettit Media\Ne
+2 CONC w Jersey, Abstract of Wills, 1670-1817.jpg
 2 FORM jpg
 2 TITL New Jersey, Abstract of Wills, 1670-1817
 1 REFN eda23956-f72e-4360-bbb9-e318b31a054b
 0 @ITvn2bYnQQG7LO7rTkrU@ OBJE
-1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
-2 CONC _Harrison_Pazmino Media\New Jersey, Wills and Probate Record
-2 CONC s, 1739-1991.jpg
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Pettit Media\Ne
+2 CONC w Jersey, Wills and Probate Records, 1739-1991_1.jpg
 2 FORM jpg
 2 TITL New Jersey, Wills and Probate Records, 1739-1991
 2 _TEXT Recorded Wills, 1804-1844; Author: New Jersey. Surrogate's C
 3 CONC ourt (Monmouth County); Probate Place: Monmouth, New Jersey
 1 REFN ee3f72bf-f9c2-4b0c-980d-2deb9170ff5b
 0 @gwqpKPpERFqjvcLnhC8X@ OBJE
-1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
-2 CONC _Harrison_Pazmino Media\New York, Civil War Muster Roll Abst
-2 CONC racts, 1861-1900(4).jpg
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Pettit Media\Ne
+2 CONC w York, Civil War Muster Roll Abstracts, 1861-1900(4).jpg
 2 FORM jpg
 2 TITL New York, Civil War Muster Roll Abstracts, 1861-1900
 2 _TEXT New York State Archives, Cultural Education Center, Albany
@@ -4850,68 +4824,68 @@
 3 CONC 900; Archive Collection #: 13775-83; Box #: 622; Roll #: 278
 1 REFN 0f35d212-ff6b-400e-b858-2fde4256425c
 0 @eD0G6WJUSrKLVWP1q8kN@ OBJE
-1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
-2 CONC _Harrison_Pazmino Media\New York, State Census, 1855(14).jpg
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Pettit Media\Ne
+2 CONC w York, State Census, 1855(14).jpg
 2 FORM jpg
 2 TITL New York, State Census, 1855
 1 REFN 2c96ded8-e297-4652-9a0b-ef03168a4e66
 0 @jzABRDVNSaiUxnyNoMmQ@ OBJE
-1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
-2 CONC _Harrison_Pazmino Media\New York, State Census, 1865(8).jpg
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Pettit Media\Ne
+2 CONC w York, State Census, 1865(8).jpg
 2 FORM jpg
 2 TITL New York, State Census, 1865
 1 REFN 16b11083-ac30-4cb6-bad6-087f819f690d
 0 @BVYDAFK9TOKCJ98zVkQJ@ OBJE
-1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
-2 CONC _Harrison_Pazmino Media\New York, State Census, 1865(20).jpg
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Pettit Media\Ne
+2 CONC w York, State Census, 1865(20).jpg
 2 FORM jpg
 2 TITL New York, State Census, 1865
 1 REFN 02ad9248-7577-493f-acf0-2f6f960ecab2
 0 @URx1xQERSzSZ4dilNcUs@ OBJE
-1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
-2 CONC _Harrison_Pazmino Media\New York, State Census, 1865(21).jpg
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Pettit Media\Ne
+2 CONC w York, State Census, 1865(21).jpg
 2 FORM jpg
 2 TITL New York, State Census, 1865
 1 REFN dfce6572-8f76-44b1-b9e8-2a7411ddf0bb
 0 @p9vbjQvUSGm0ePtPHxTq@ OBJE
-1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
-2 CONC _Harrison_Pazmino Media\New York, State Census, 1875(10).jpg
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Pettit Media\Ne
+2 CONC w York, State Census, 1875(10).jpg
 2 FORM jpg
 2 TITL New York, State Census, 1875
 1 REFN 1a3a427c-b1b1-493a-81f0-0426d959491d
 0 @1Sdz2cVhSoSynS6mzKPw@ OBJE
-1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
-2 CONC _Harrison_Pazmino Media\New York, State Census, 1875(23).jpg
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Pettit Media\Ne
+2 CONC w York, State Census, 1875(23).jpg
 2 FORM jpg
 2 TITL New York, State Census, 1875
 1 REFN 8d0eae04-7705-4834-bfdf-ffc32a0ccebf
 0 @sNwy99zdQJCcwFqXJh8M@ OBJE
-1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
-2 CONC _Harrison_Pazmino Media\New York, State Census, 1875(24).jpg
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Pettit Media\Ne
+2 CONC w York, State Census, 1875(24).jpg
 2 FORM jpg
 2 TITL New York, State Census, 1875
 1 REFN 3e3d3622-7914-40dc-ace8-0cbcc11bb352
 0 @pakH7KAJTrSbbDgfOE5u@ OBJE
-1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
-2 CONC _Harrison_Pazmino Media\New York, State Census, 1875(25).jpg
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Pettit Media\Ne
+2 CONC w York, State Census, 1875(25).jpg
 2 FORM jpg
 2 TITL New York, State Census, 1875
 1 REFN 8735ca4a-fa60-483e-88d4-611b8b9302ee
 0 @nkhQHz7mRJmTabcwnP9O@ OBJE
-1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
-2 CONC _Harrison_Pazmino Media\New York, State Census, 1892(7).jpg
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Pettit Media\Ne
+2 CONC w York, State Census, 1892(7).jpg
 2 FORM jpg
 2 TITL New York, State Census, 1892
 1 REFN c8ce03eb-d922-4f16-a5b9-e639d4f3169d
 0 @h5o0ovTHRfiCoRdCE3Hk@ OBJE
-1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
-2 CONC _Harrison_Pazmino Media\New York, State Census, 1892(13).jpg
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Pettit Media\Ne
+2 CONC w York, State Census, 1892(13).jpg
 2 FORM jpg
 2 TITL New York, State Census, 1892
 1 REFN 85192bc2-f197-4b26-905c-73c6c524661b
 0 @SuIRvEAXRPa6yfiAB6nj@ OBJE
-1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
-2 CONC _Harrison_Pazmino Media\New York, State Census, 1905(19).jpg
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Pettit Media\Ne
+2 CONC w York, State Census, 1905(19).jpg
 2 FORM jpg
 2 TITL New York, State Census, 1905
 2 _TEXT New York State Archives; Albany, New York; State Populatio
@@ -4919,8 +4893,8 @@
 3 CONC ; City: Manhattan; County: New York; Page: 36
 1 REFN a6742b3d-984c-4861-aa48-da7f983c480d
 0 @4dqN2EaNQxqq5mbZfw6n@ OBJE
-1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
-2 CONC _Harrison_Pazmino Media\New York, State Census, 1915(15).jpg
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Pettit Media\Ne
+2 CONC w York, State Census, 1915(15).jpg
 2 FORM jpg
 2 TITL New York, State Census, 1915
 2 _TEXT New York State Archives; Albany, New York; State Populatio
@@ -4928,9 +4902,8 @@
 3 CONC strict: 25; City: New York; County: New York; Page: 28
 1 REFN f6d5c5ef-33ec-4f91-9af3-4b9e0349f56b
 0 @gpe4lFuRQ8yuCLkftpbt@ OBJE
-1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
-2 CONC _Harrison_Pazmino Media\New York, Wills and Probate Records
-2 CONC , 1659-1999(29).jpg
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Pettit Media\Ne
+2 CONC w York, Wills and Probate Records, 1659-1999(29).jpg
 2 FORM jpg
 2 TITL New York, Wills and Probate Records, 1659-1999
 2 _TEXT Record of Wills, 1665-1916; Index to Wills, 1662-1923 (New Y
@@ -4938,9 +4911,8 @@
 3 CONC ounty); Probate Place: New York, New York
 1 REFN c0321a8d-2912-47a3-a5c6-e717021e1db8
 0 @w2SzqJUAS5ibY27pC051@ OBJE
-1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
-2 CONC _Harrison_Pazmino Media\New York, Wills and Probate Records
-2 CONC , 1659-1999(31).jpg
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Pettit Media\Ne
+2 CONC w York, Wills and Probate Records, 1659-1999(31).jpg
 2 FORM jpg
 2 TITL New York, Wills and Probate Records, 1659-1999
 2 _TEXT New York, Kings County, Probate Administration Records; Auth
@@ -4948,9 +4920,8 @@
 3 CONC e: Kings, New York
 1 REFN 08390421-ecc5-4c2f-9157-26e44d12c53d
 0 @f4NyQMd7RMKtTVQ0q7yq@ OBJE
-1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
-2 CONC _Harrison_Pazmino Media\New York, Wills and Probate Records
-2 CONC , 1659-1999(32).jpg
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Pettit Media\Ne
+2 CONC w York, Wills and Probate Records, 1659-1999(32).jpg
 2 FORM jpg
 2 TITL New York, Wills and Probate Records, 1659-1999
 2 _TEXT New York, Kings County, Probate Administration Records; Auth
@@ -4958,9 +4929,8 @@
 3 CONC e: Kings, New York
 1 REFN 4f61474a-5539-43d1-b20c-97d7261ae452
 0 @g8GlaZK6Sd6k1rqxx1cG@ OBJE
-1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
-2 CONC _Harrison_Pazmino Media\New York, Wills and Probate Records
-2 CONC , 1659-1999(33).jpg
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Pettit Media\Ne
+2 CONC w York, Wills and Probate Records, 1659-1999(33).jpg
 2 FORM jpg
 2 TITL New York, Wills and Probate Records, 1659-1999
 2 _TEXT New York, Kings County, Probate Administration Records; Auth
@@ -4968,9 +4938,8 @@
 3 CONC e: Kings, New York
 1 REFN a6bb341d-3069-4d69-9a9c-bc15d4583d44
 0 @0piony7KQaSuiWMjd6MQ@ OBJE
-1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
-2 CONC _Harrison_Pazmino Media\New York, Wills and Probate Records
-2 CONC , 1659-1999(34).jpg
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Pettit Media\Ne
+2 CONC w York, Wills and Probate Records, 1659-1999(34).jpg
 2 FORM jpg
 2 TITL New York, Wills and Probate Records, 1659-1999
 2 _TEXT New York, Kings County, Probate Administration Records; Auth
@@ -4978,9 +4947,8 @@
 3 CONC e: Kings, New York
 1 REFN a63234da-f07a-4336-8574-650d99ef5d3a
 0 @eG2HZRUzQrCjPU3l3w8e@ OBJE
-1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
-2 CONC _Harrison_Pazmino Media\New York, Wills and Probate Records
-2 CONC , 1659-1999(35).jpg
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Pettit Media\Ne
+2 CONC w York, Wills and Probate Records, 1659-1999(35).jpg
 2 FORM jpg
 2 TITL New York, Wills and Probate Records, 1659-1999
 2 _TEXT New York, Kings County, Probate Administration Records; Auth
@@ -4988,59 +4956,51 @@
 3 CONC e: Kings, New York
 1 REFN ff3b1392-7992-48d9-a7c9-6fd292b0b442
 0 @A7pDNY7TSlub0ljxLBm1@ OBJE
-1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
-2 CONC _Harrison_Pazmino Media\U.S. City Directories, 1821-1989(32)
-2 CONC .jpg
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Pettit Media\U.
+2 CONC S. City Directories, 1821-1989(32).jpg
 2 FORM jpg
 2 TITL U.S. City Directories, 1821-1989
 1 REFN 93b28a30-6db3-4175-af18-cd0241f3c158
 0 @gWIxMf6PTS2Dpz85Vf3f@ OBJE
-1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
-2 CONC _Harrison_Pazmino Media\U.S. City Directories, 1821-1989(33)
-2 CONC .jpg
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Pettit Media\U.
+2 CONC S. City Directories, 1821-1989(33).jpg
 2 FORM jpg
 2 TITL U.S. City Directories, 1821-1989
 1 REFN e757486c-1804-48c3-81c8-62f1ed778ee3
 0 @mmQeQoo5RBSkS8YrHBeC@ OBJE
-1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
-2 CONC _Harrison_Pazmino Media\U.S. City Directories, 1821-1989(34)
-2 CONC .jpg
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Pettit Media\U.
+2 CONC S. City Directories, 1821-1989(34).jpg
 2 FORM jpg
 2 TITL U.S. City Directories, 1821-1989
 1 REFN f5ab3c66-52df-4538-906a-cac0985f6d3c
 0 @Q6TJfqjcTMSMHwQPyQJJ@ OBJE
-1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
-2 CONC _Harrison_Pazmino Media\U.S. City Directories, 1822-1995(13)
-2 CONC .jpg
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Pettit Media\U.
+2 CONC S. City Directories, 1822-1995(13).jpg
 2 FORM jpg
 2 TITL U.S. City Directories, 1822-1995
 1 REFN 5ce579c7-5bb3-4f3d-a307-f9acedc3596d
 0 @jPYVCr43QQivJ5lTjx5c@ OBJE
-1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
-2 CONC _Harrison_Pazmino Media\U.S. City Directories, 1822-1995(14)
-2 CONC .jpg
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Pettit Media\U.
+2 CONC S. City Directories, 1822-1995(14).jpg
 2 FORM jpg
 2 TITL U.S. City Directories, 1822-1995
 1 REFN 96c6f031-3c24-444a-acc8-308d6727631e
 0 @6BTRjpPkRgyJKzNxVHJA@ OBJE
-1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
-2 CONC _Harrison_Pazmino Media\U.S. Federal Census Mortality Schedu
-2 CONC les, 1850-1885(2).jpg
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Pettit Media\U.
+2 CONC S. Federal Census Mortality Schedules, 1850-1885(2).jpg
 2 FORM jpg
 2 TITL U.S. Federal Census Mortality Schedules, 1850-1885
 2 _TEXT Census Year: 1880
 1 REFN 2b0afcd6-cd87-47f3-9fef-d33abc5c9868
 0 @VYN3ipS5RmSQMgWy2Lw6@ OBJE
-1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
-2 CONC _Harrison_Pazmino Media\U.S. National Cemetery Interment Con
-2 CONC trol Forms, 1928-1962.jpg
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Pettit Media\U.
+2 CONC S. National Cemetery Interment Control Forms, 1928-1962.jpg
 2 FORM jpg
 2 TITL U.S. National Cemetery Interment Control Forms, 1928-1962
 1 REFN 9e468761-a759-4dc8-a4e4-847dff9c419f
 0 @XezAJP94Rd2uIXVVBZuf@ OBJE
-1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
-2 CONC _Harrison_Pazmino Media\U.S., World War I Draft Registratio
-2 CONC n Cards, 1917-1918(12).jpg
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Pettit Media\U.
+2 CONC S., World War I Draft Registration Cards, 1917-1918(12).jpg
 2 FORM jpg
 2 TITL U.S., World War I Draft Registration Cards, 1917-1918
 2 _TEXT Registration State: New York; Registration County: New York

@@ -6,16 +6,16 @@
 1 COPR Copyright © 1998, Christopher Alan Mosher, Shelton, CT, USA.
 1 SUBM @Umy2qBWIRUiwVSS6Hcn4@
 1 SOUR FTM
-2 VERS 23.0.2.1343
+2 VERS 23.1.0.1480
 2 NAME Family Tree Maker for Windows
 2 CORP The Software MacKiev Company
 3 ADDR 30 Union Wharf
 4 CONT Boston, MA 02109
 3 PHON (617) 227-6681
 1 DEST FTM
-1 FILE Romero_2018-03-15-03-11-32.ftm.ged
-1 DATE 15 MAR 2018
-2 TIME 03:12:36
+1 FILE Romero_2018-09-21-04-27-48.ftm.ged
+1 DATE 21 SEP 2018
+2 TIME 04:29:05
 0 @Umy2qBWIRUiwVSS6Hcn4@ SUBM
 1 NAME Christopher Alan Mosher
 2 EMAIL cmosher01@@gmail.com
@@ -38,15 +38,7 @@
 2 PHON +1-203-513-9292
 1 LANG English
 1 RIN Umy2qBWIRUiwVSS6Hcn4
-0 @I12@ INDI
-1 _XY 1047 1494
-1 REFN 6ea54655-2765-4178-91fb-ab7fc7173708
-1 NAME [unknown] /[unknown] de la Orden/
-1 SEX F
-1 FAMC @F10@
-1 FAMS @F11@
 0 @I14@ INDI
-1 _XY 3672 771
 1 REFN 22f3182f-eb1f-42f4-a968-99405f506e5a
 1 NAME María /Aller/
 2 SOUR @S16@
@@ -55,8 +47,8 @@
 1 BIRT
 2 PLAC Puertollano, La Mancha, Spain
 2 SOUR @S16@
+1 _XY 3672 771
 0 @I15@ INDI
-1 _XY 835 477
 1 REFN 778d559a-8868-4998-a511-b6dd3344f964
 1 NAME Feliciana /Alvarado Villa Corte/
 2 SOUR @S16@
@@ -68,8 +60,8 @@
 4 LATI S1.05
 4 LONG W80.45
 2 SOUR @S16@
+1 _XY 835 477
 0 @I16@ INDI
-1 _XY 2730 32
 1 REFN 1103a3fa-2447-40be-be54-a47796823012
 1 NAME [unknown] /Aragon/
 2 SOUR @S17@
@@ -82,8 +74,8 @@
 1 BIRT
 2 DATE 1432
 2 PLAC Gandia, Valencia, Spain
+1 _XY 2730 32
 0 @I17@ INDI
-1 _XY 2085 637
 1 REFN 309b1b81-0efd-4b50-aaf6-4458101abbdc
 1 NAME Bernarda /Arroyo/
 2 SOUR @S16@
@@ -95,8 +87,8 @@
 4 LATI S2.1667
 4 LONG W79.9
 2 SOUR @S16@
+1 _XY 2085 637
 0 @I18@ INDI
-1 _XY 329 791
 1 REFN 1d55dbf8-7a9a-4445-b358-48aa1dc9ed16
 1 NAME Bernarda /Bohorquez/
 2 SOUR @S16@
@@ -110,8 +102,8 @@
 4 LATI S2.1667
 4 LONG W79.9
 2 SOUR @S16@
+1 _XY 329 791
 0 @I19@ INDI
-1 _XY 395 668
 1 REFN ca52fc26-8c1f-4411-8b11-5bff24475cd5
 1 NAME Esteban /Bohorquez/
 2 SOUR @S16@
@@ -121,25 +113,15 @@
 2 DATE 1510
 2 PLAC Spain
 2 SOUR @S16@
+1 _XY 395 668
 0 @I20@ INDI
-1 _XY 1046 379
 1 REFN 53b96af0-abef-4dc1-b5e1-0b219613e17a
 1 NAME Josefa Herrera /Campusano/
 2 SOUR @S16@
 1 SEX F
 1 FAMS @F21@
-0 @I21@ INDI
-1 _XY 673 485
-1 REFN d878bbd0-dcc8-4579-8b9d-e408ed1b08de
-1 NAME Juan /Carranza Valdivieso/
-2 SOUR @S16@
-1 SEX M
-1 FAMS @F15@
-1 BIRT
-2 PLAC Panama
-2 SOUR @S16@
+1 _XY 1046 379
 0 @I22@ INDI
-1 _XY 848 599
 1 REFN 7d896b4d-c573-43b0-9fa6-7eaaf26bcf8c
 1 NAME Baltasara /Carranza/
 2 SOUR @S16@
@@ -152,8 +134,8 @@
 4 LATI S1.05
 4 LONG W80.45
 2 SOUR @S16@
+1 _XY 848 599
 0 @I23@ INDI
-1 _XY 702 599
 1 REFN bf310957-9f47-4932-8e86-bab69912c543
 1 NAME Catalina /Carranza/
 2 SOUR @S16@
@@ -172,8 +154,8 @@
 4 LATI S1.05
 4 LONG W80.45
 2 SOUR @S16@
+1 _XY 702 599
 0 @I24@ INDI
-1 _XY 3503 693
 1 REFN e1378dbf-7e78-45e7-89da-fbf37b0de4e0
 1 NAME Catalina /Carranza/
 2 SOUR @S16@
@@ -186,8 +168,36 @@
 4 LATI S2.1667
 4 LONG W79.9
 2 SOUR @S16@
+1 _XY 3503 693
+0 @I21@ INDI
+1 REFN d878bbd0-dcc8-4579-8b9d-e408ed1b08de
+1 NAME Juan /Carranza Valdivieso/
+2 SOUR @S16@
+1 SEX M
+1 FAMS @F15@
+1 BIRT
+2 PLAC Panama
+2 SOUR @S16@
+1 _XY 673 485
+0 @I27@ INDI
+1 REFN 39dd67e5-8954-4bec-9e6e-aa4b0c6bf68d
+1 NAME Angela /Castro/
+2 SOUR @S16@
+1 SEX F
+1 FAMS @F28@
+1 _XY 1820 458
+0 @I28@ INDI
+1 REFN 281d2753-8413-48ba-b18d-f964f11c76c5
+1 NAME Toribio /Castro/
+2 SOUR @S16@
+1 SEX M
+1 FAMC @F29@
+1 FAMS @F24@
+1 BIRT
+2 PLAC Iruz, Toranzo, Santander, Spain
+2 SOUR @S16@
+1 _XY 2558 464
 0 @I25@ INDI
-1 _XY 2624 520
 1 REFN 9268132c-e108-4855-aeeb-618f41cfc68b
 1 NAME Toribio /Castro Grijuela/
 2 SOUR @S16@
@@ -204,8 +214,8 @@
 1 BIRT
 2 PLAC Iruz, Santander, Spain
 2 SOUR @S16@
+1 _XY 2624 520
 0 @I26@ INDI
-1 _XY 2651 612
 1 REFN 3b795184-fe7f-48cf-9a78-1c5dd5706760
 1 NAME Catalina /Castro Guzmán/
 2 SOUR @S16@
@@ -213,34 +223,16 @@
 1 FAMC @F25@
 1 FAMS @F26@
 1 FAMS @F27@
-0 @I27@ INDI
-1 _XY 1820 458
-1 REFN 39dd67e5-8954-4bec-9e6e-aa4b0c6bf68d
-1 NAME Angela /Castro/
-2 SOUR @S16@
-1 SEX F
-1 FAMS @F28@
-0 @I28@ INDI
-1 _XY 2558 464
-1 REFN 281d2753-8413-48ba-b18d-f964f11c76c5
-1 NAME Toribio /Castro/
-2 SOUR @S16@
-1 SEX M
-1 FAMC @F29@
-1 FAMS @F24@
-1 BIRT
-2 PLAC Iruz, Toranzo, Santander, Spain
-2 SOUR @S16@
+1 _XY 2651 612
 0 @I29@ INDI
-1 _XY 2200 637
 1 REFN 7e8422e4-ea1b-44a3-84f4-0b982ab0b013
 1 NAME Benito /Cisneros de Mendoza/
 2 SOUR @S16@
 1 SEX M
 1 FAMS @F17@
 1 FAMS @F30@
+1 _XY 2200 637
 0 @I30@ INDI
-1 _XY 2306 739
 1 REFN ee338cf5-dc5d-45df-8f41-c9bdd2757915
 1 NAME Catalina /Cisneros de Mendoza/
 2 SOUR @S16@
@@ -253,22 +245,8 @@
 4 LATI S2.1667
 4 LONG W79.9
 2 SOUR @S16@
-0 @I31@ INDI
-1 _XY 3349 695
-1 REFN 37aec959-9549-4c92-8e68-b6a139c5d7b8
-1 NAME Andrés /Contero de Porres/
-2 SOUR @S16@
-1 SEX M
-1 FAMC @F23@
-1 BIRT
-2 DATE 1611
-2 PLAC Guayaquil, Guayas, Ecuador
-3 MAP
-4 LATI S2.1667
-4 LONG W79.9
-2 SOUR @S16@
+1 _XY 2306 739
 0 @I32@ INDI
-1 _XY 3494 428
 1 REFN ef3dafcc-d370-46b3-802f-19df36b69621
 1 NAME Andres /Contero/
 2 SOUR @S16@
@@ -283,8 +261,182 @@
 4 LATI S2.1667
 4 LONG W79.9
 2 SOUR @S16@
+1 _XY 3494 428
+0 @I31@ INDI
+1 REFN 37aec959-9549-4c92-8e68-b6a139c5d7b8
+1 NAME Andrés /Contero de Porres/
+2 SOUR @S16@
+1 SEX M
+1 FAMC @F23@
+1 BIRT
+2 DATE 1611
+2 PLAC Guayaquil, Guayas, Ecuador
+3 MAP
+4 LATI S2.1667
+4 LONG W79.9
+2 SOUR @S16@
+1 _XY 3349 695
+0 @I48@ INDI
+1 REFN 1d15848a-226e-4929-a253-4731129fd186
+1 NAME Mariana /del Alcázar y de Ascásubi/
+2 SOUR @S17@
+3 PAGE Ancestry Family Tree
+3 DATA
+4 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=60917
+5 CONC 627&pid=11
+1 SEX F
+1 FAMS @F41@
+1 _XY 3075 2120
+0 @I55@ INDI
+1 REFN 9b524d45-3a4a-4ef6-b2a4-fdbfcaadebdc
+1 NAME Fidel /del Castillo/
+2 SOUR @S16@
+1 SEX M
+1 FAMS @F45@
+1 _XY 2997 1100
+0 @I56@ INDI
+1 REFN c1a5e6a5-dbbc-4506-abb1-f02de0ce8939
+1 NAME Leonor /del Castillo/
+2 SOUR @S16@
+1 SEX F
+1 FAMC @F44@
+1 FAMS @F46@
+1 DEAT
+2 DATE 18 SEP 1636
+2 PLAC Guayaquil, Guayas, Ecuador
+3 MAP
+4 LATI S2.1667
+4 LONG W79.9
+2 SOUR @S16@
+1 BIRT
+2 PLAC Guayaquil, Guayas, Ecuador
+3 MAP
+4 LATI S2.1667
+4 LONG W79.9
+2 SOUR @S16@
+1 _XY 1408 450
+0 @I57@ INDI
+1 REFN 0199e0d0-dec2-4f18-b707-de6e9b831177
+1 NAME María /del Castillo/
+2 SOUR @S16@
+1 SEX F
+1 FAMC @F44@
+1 BIRT
+2 PLAC Guayaquil, Guayas, Ecuador
+3 MAP
+4 LATI S2.1667
+4 LONG W79.9
+2 SOUR @S16@
+1 _XY 1285 451
+0 @I49@ INDI
+1 REFN e94be517-2e40-4027-bc42-c3394914f952
+1 NAME Juan Francisco /del Castillo Gómez Sarmiento/
+2 SOUR @S16@
+1 SEX M
+1 FAMS @F42@
+1 DEAT
+2 DATE 30 SEP 1719
+2 PLAC Guayaquil, Guayas, Ecuador
+3 MAP
+4 LATI S2.1667
+4 LONG W79.9
+2 SOUR @S16@
+1 BIRT
+2 PLAC Burgos, Spain
+2 SOUR @S16@
+1 _XY 1427 1052
+0 @I50@ INDI
+1 REFN d3cbffa2-8c39-430e-881b-ca167e963cba
+1 NAME Antonia /del Castillo y Navarro Navarrete/
+2 SOUR @S16@
+1 SEX F
+1 FAMC @F42@
+1 BIRT
+2 DATE 1719
+2 PLAC Guayaquil, Guayas, Ecuador
+3 MAP
+4 LATI S2.1667
+4 LONG W79.9
+2 SOUR @S16@
+1 _XY 1825 1179
+0 @I51@ INDI
+1 REFN 168f3fbe-f061-4af1-9d84-293d160e74c5
+1 NAME Juan /del Castillo y Navarro Navarrete/
+2 SOUR @S16@
+1 SEX M
+1 FAMC @F42@
+1 BIRT
+2 DATE 06 JUN 1710
+2 PLAC Guayaquil, Guayas, Ecuador
+3 MAP
+4 LATI S2.1667
+4 LONG W79.9
+2 SOUR @S16@
+1 _XY 1473 1179
+0 @I52@ INDI
+1 REFN 63546562-3e49-4f8c-b5da-0e14d22a1ccd
+1 NAME María Jacinta /del Castillo y Navarro Navarrete/
+2 SOUR @S17@
+3 PAGE Ancestry Family Tree
+3 DATA
+4 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=60917
+5 CONC 627&pid=45
+2 SOUR @S20@
+3 QUAY 1
+1 SEX F
+1 FAMC @F42@
+1 FAMS @F43@
+1 BIRT
+2 DATE 1713
+2 PLAC Guayaquil, Guayas, Ecuador
+3 MAP
+4 LATI S2.1667
+4 LONG W79.9
+2 SOUR @S16@
+1 _XY 1971 1179
+0 @I53@ INDI
+1 REFN 3c4d7511-6813-47c4-bd72-e64d99a09a2f
+1 NAME María Manuela /del Castillo y Navarro Navarrete/
+2 SOUR @S16@
+1 SEX F
+1 FAMC @F42@
+1 BIRT
+2 DATE 30 MAY 1711
+2 PLAC Guayaquil, Guayas, Ecuador
+3 MAP
+4 LATI S2.1667
+4 LONG W79.9
+2 SOUR @S16@
+1 DEAT
+2 DATE 1773
+2 PLAC Guayaquil, Guayas, Ecuador
+3 MAP
+4 LATI S2.1667
+4 LONG W79.9
+2 SOUR @S16@
+1 _XY 1647 1179
+0 @I54@ INDI
+1 REFN d07c5bad-b695-422c-83ca-40ac53a15392
+1 NAME Pedro /del Castillo y Perea/
+2 SOUR @S16@
+1 SEX M
+1 FAMS @F21@
+1 FAMS @F44@
+1 DEAT
+2 DATE 1697
+2 PLAC Baba, Los Rios, Ecuador
+3 MAP
+4 LATI S1.7833
+4 LONG W79.6667
+2 SOUR @S16@
+1 BIRT
+2 PLAC La Rioja, Spain
+3 MAP
+4 LATI N42.3203
+4 LONG W2.5805
+2 SOUR @S16@
+1 _XY 1226 371
 0 @I33@ INDI
-1 _XY 3077 2037
 1 REFN d640b2e2-81b1-4306-a4da-4c448dbd057f
 1 NAME Rosa /de Ascasubi y Matheu/
 2 SOUR @S17@
@@ -300,8 +452,8 @@
 3 MAP
 4 LATI S0.2167
 4 LONG W78.5
+1 _XY 3077 2037
 0 @I34@ INDI
-1 _XY 3284 621
 1 REFN dbbfb944-d9ff-48df-8556-3b24e62f6976
 1 NAME Catalina /de Carranza y Contero/
 2 SOUR @S18@
@@ -316,8 +468,8 @@
 4 LATI S2.1667
 4 LONG W79.9
 2 SOUR @S16@
+1 _XY 3284 621
 0 @I35@ INDI
-1 _XY 3474 578
 1 REFN c78b2609-71e3-4480-a558-0c7580b3c313
 1 NAME Cristobal /de Carranza y Contero/
 2 SOUR @S18@
@@ -330,8 +482,8 @@
 4 LATI S2.1667
 4 LONG W79.9
 2 SOUR @S18@
+1 _XY 3474 578
 0 @I36@ INDI
-1 _XY 3532 496
 1 REFN 709986cc-3c87-4f97-87a9-4455423218b5
 1 NAME Ana /de Contero y Ponce/
 2 SOUR @S16@
@@ -345,8 +497,8 @@
 4 LATI S11.7567
 4 LONG W76.58
 2 SOUR @S16@
+1 _XY 3532 496
 0 @I37@ INDI
-1 _XY 2262 1465
 1 REFN 11847ff9-1273-4935-9706-e365d8615682
 1 NAME María /de la Concepción Gonzales/
 2 SOUR @S16@
@@ -366,8 +518,8 @@
 4 LATI S2.1667
 4 LONG W79.9
 2 SOUR @S16@
+1 _XY 2262 1465
 0 @I38@ INDI
-1 _XY 1137 1436
 1 REFN b28eaf2d-af6d-4645-be73-3653aeb2b0e4
 1 NAME Ana /de la Orden/
 2 SOUR @S19@
@@ -379,8 +531,8 @@
 1 DEAT
 2 PLAC Villaverde del Monte, Soria, Spain
 2 SOUR @S19@
+1 _XY 1137 1436
 0 @I40@ INDI
-1 _XY 1403 1648
 1 REFN b6d7a05e-622a-4051-bcab-6cb9d13a45a6
 1 NAME Cecilia /de la Orden/
 2 SOUR @S19@
@@ -394,23 +546,23 @@
 2 PLAC Villaverde del Monte, Soria, Spain
 2 SOUR @S19@
 3 QUAY 1
+1 _XY 1403 1648
 0 @I41@ INDI
-1 _XY 2316 565
 1 REFN 9b1c43b2-7a98-454a-a22f-c978e1d95d5c
 1 NAME Francisco /de la Pe/ Pe
 2 SOUR @S16@
 1 SEX M
 1 FAMS @F26@
+1 _XY 2316 565
 0 @I42@ INDI
-1 _XY 2392 637
 1 REFN f5050ccc-9389-436a-ae66-30e8234893f6
 1 NAME Josepfa /de la Pe/ Pe
 2 SOUR @S16@
 1 SEX F
 1 FAMC @F26@
 1 FAMS @F30@
+1 _XY 2392 637
 0 @I43@ INDI
-1 _XY 4737 618
 1 REFN 168df888-6ba4-488f-a6c9-b66d8f904786
 1 NAME Leonor /de Rendón Palomino y Guzmán/
 2 SOUR @S16@
@@ -430,8 +582,24 @@
 4 LATI S2.1667
 4 LONG W79.9
 2 SOUR @S16@
+1 _XY 4737 618
+0 @I47@ INDI
+1 REFN 6d02c5d1-db4d-44ca-a17f-838aa6add474
+1 NAME Juan /de Sylva Santistevan/
+2 SOUR @S16@
+1 SEX M
+1 FAMS @F39@
+1 BIRT
+2 PLAC Spain
+2 SOUR @S16@
+1 DEAT
+2 PLAC Guayaquil, Guayas, Ecuador
+3 MAP
+4 LATI S2.1667
+4 LONG W79.9
+2 SOUR @S16@
+1 _XY 1675 1397
 0 @I44@ INDI
-1 _XY 1924 1473
 1 REFN f6f06d6a-2bb9-4433-a997-52af7b3967a6
 1 NAME Ana Manuela /de Sylva Santistevan y Larralde/
 2 SOUR @S16@
@@ -452,10 +620,10 @@
 4 LATI S2.1667
 4 LONG W79.9
 2 SOUR @S16@
-1 BIRT
+1 BIRT Y
 2 SOUR @S16@
+1 _XY 1924 1473
 0 @I45@ INDI
-1 _XY 1745 1476
 1 REFN a7f7798e-43d6-48e7-bbbd-a141ef795f92
 1 NAME Juan /de Sylva Santistevan y Larralde/
 2 SOUR @S16@
@@ -468,8 +636,8 @@
 4 LATI S2.1667
 4 LONG W79.9
 2 SOUR @S16@
+1 _XY 1745 1476
 0 @I46@ INDI
-1 _XY 1575 1473
 1 REFN 8986e829-cde7-4daa-bccd-b8bfae7feb53
 1 NAME María Eugenia /de Sylva Santistevan y Larralde/
 2 SOUR @S16@
@@ -489,191 +657,8 @@
 4 LATI S2.1667
 4 LONG W79.9
 2 SOUR @S16@
-0 @I47@ INDI
-1 _XY 1675 1397
-1 REFN 6d02c5d1-db4d-44ca-a17f-838aa6add474
-1 NAME Juan /de Sylva Santistevan/
-2 SOUR @S16@
-1 SEX M
-1 FAMS @F39@
-1 BIRT
-2 PLAC Spain
-2 SOUR @S16@
-1 DEAT
-2 PLAC Guayaquil, Guayas, Ecuador
-3 MAP
-4 LATI S2.1667
-4 LONG W79.9
-2 SOUR @S16@
-0 @I48@ INDI
-1 _XY 3075 2120
-1 REFN 1d15848a-226e-4929-a253-4731129fd186
-1 NAME Mariana /del Alcázar y de Ascásubi/
-2 SOUR @S17@
-3 PAGE Ancestry Family Tree
-3 DATA
-4 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=60917
-5 CONC 627&pid=11
-1 SEX F
-1 FAMS @F41@
-0 @I49@ INDI
-1 _XY 1427 1052
-1 REFN e94be517-2e40-4027-bc42-c3394914f952
-1 NAME Juan Francisco /del Castillo Gómez Sarmiento/
-2 SOUR @S16@
-1 SEX M
-1 FAMS @F42@
-1 DEAT
-2 DATE 30 SEP 1719
-2 PLAC Guayaquil, Guayas, Ecuador
-3 MAP
-4 LATI S2.1667
-4 LONG W79.9
-2 SOUR @S16@
-1 BIRT
-2 PLAC Burgos, Spain
-2 SOUR @S16@
-0 @I50@ INDI
-1 _XY 1825 1179
-1 REFN d3cbffa2-8c39-430e-881b-ca167e963cba
-1 NAME Antonia /del Castillo y Navarro Navarrete/
-2 SOUR @S16@
-1 SEX F
-1 FAMC @F42@
-1 BIRT
-2 DATE 1719
-2 PLAC Guayaquil, Guayas, Ecuador
-3 MAP
-4 LATI S2.1667
-4 LONG W79.9
-2 SOUR @S16@
-0 @I51@ INDI
-1 _XY 1473 1179
-1 REFN 168f3fbe-f061-4af1-9d84-293d160e74c5
-1 NAME Juan /del Castillo y Navarro Navarrete/
-2 SOUR @S16@
-1 SEX M
-1 FAMC @F42@
-1 BIRT
-2 DATE 06 JUN 1710
-2 PLAC Guayaquil, Guayas, Ecuador
-3 MAP
-4 LATI S2.1667
-4 LONG W79.9
-2 SOUR @S16@
-0 @I52@ INDI
-1 _XY 1971 1179
-1 REFN 63546562-3e49-4f8c-b5da-0e14d22a1ccd
-1 NAME María Jacinta /del Castillo y Navarro Navarrete/
-2 SOUR @S17@
-3 PAGE Ancestry Family Tree
-3 DATA
-4 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=60917
-5 CONC 627&pid=45
-2 SOUR @S20@
-3 QUAY 1
-1 SEX F
-1 FAMC @F42@
-1 FAMS @F43@
-1 BIRT
-2 DATE 1713
-2 PLAC Guayaquil, Guayas, Ecuador
-3 MAP
-4 LATI S2.1667
-4 LONG W79.9
-2 SOUR @S16@
-0 @I53@ INDI
-1 _XY 1647 1179
-1 REFN 3c4d7511-6813-47c4-bd72-e64d99a09a2f
-1 NAME María Manuela /del Castillo y Navarro Navarrete/
-2 SOUR @S16@
-1 SEX F
-1 FAMC @F42@
-1 BIRT
-2 DATE 30 MAY 1711
-2 PLAC Guayaquil, Guayas, Ecuador
-3 MAP
-4 LATI S2.1667
-4 LONG W79.9
-2 SOUR @S16@
-1 DEAT
-2 DATE 1773
-2 PLAC Guayaquil, Guayas, Ecuador
-3 MAP
-4 LATI S2.1667
-4 LONG W79.9
-2 SOUR @S16@
-0 @I54@ INDI
-1 _XY 1226 371
-1 REFN d07c5bad-b695-422c-83ca-40ac53a15392
-1 NAME Pedro /del Castillo y Perea/
-2 SOUR @S16@
-1 SEX M
-1 FAMS @F21@
-1 FAMS @F44@
-1 DEAT
-2 DATE 1697
-2 PLAC Baba, Los Rios, Ecuador
-3 MAP
-4 LATI S1.7833
-4 LONG W79.6667
-2 SOUR @S16@
-1 BIRT
-2 PLAC La Rioja, Spain
-3 MAP
-4 LATI N42.3203
-4 LONG W2.5805
-2 SOUR @S16@
-0 @I55@ INDI
-1 _XY 2997 1100
-1 REFN 9b524d45-3a4a-4ef6-b2a4-fdbfcaadebdc
-1 NAME Fidel /del Castillo/
-2 SOUR @S16@
-1 SEX M
-1 FAMS @F45@
-0 @I56@ INDI
-1 _XY 1408 450
-1 REFN c1a5e6a5-dbbc-4506-abb1-f02de0ce8939
-1 NAME Leonor /del Castillo/
-2 SOUR @S16@
-1 SEX F
-1 FAMC @F44@
-1 FAMS @F46@
-1 DEAT
-2 DATE 18 SEP 1636
-2 PLAC Guayaquil, Guayas, Ecuador
-3 MAP
-4 LATI S2.1667
-4 LONG W79.9
-2 SOUR @S16@
-1 BIRT
-2 PLAC Guayaquil, Guayas, Ecuador
-3 MAP
-4 LATI S2.1667
-4 LONG W79.9
-2 SOUR @S16@
-0 @I57@ INDI
-1 _XY 1285 451
-1 REFN 0199e0d0-dec2-4f18-b707-de6e9b831177
-1 NAME María /del Castillo/
-2 SOUR @S16@
-1 SEX F
-1 FAMC @F44@
-1 BIRT
-2 PLAC Guayaquil, Guayas, Ecuador
-3 MAP
-4 LATI S2.1667
-4 LONG W79.9
-2 SOUR @S16@
-0 @I58@ INDI
-1 _XY 310 728
-1 REFN f0495860-e853-4834-8f03-bc97d954fb4d
-1 NAME Diego /Diaz Galban/
-2 SOUR @S16@
-1 SEX M
-1 FAMS @F18@
+1 _XY 1575 1473
 0 @I59@ INDI
-1 _XY 4470 296
 1 REFN 00cf393f-7001-454e-9f19-909817d415ef
 1 NAME Benito /Díaz Bravo/
 2 SOUR @S17@
@@ -690,8 +675,8 @@
 2 SOUR @S16@
 1 DEAT
 2 PLAC Ecuador
+1 _XY 4470 296
 0 @I60@ INDI
-1 _XY 4667 419
 1 REFN fe156c8e-4a60-4a1e-8b0c-1bc24bf05a54
 1 NAME Benito /Díaz Bravo/
 2 SOUR @S16@
@@ -703,8 +688,8 @@
 4 LATI S2.1667
 4 LONG W79.9
 2 SOUR @S16@
+1 _XY 4667 419
 0 @I61@ INDI
-1 _XY 4394 205
 1 REFN 4c9f95cd-04cf-4a8b-8761-f68f8fb017f7
 1 NAME Alonso /Díaz Coronado/
 2 SOUR @S17@
@@ -720,8 +705,15 @@
 2 SOUR @S16@
 1 DEAT
 2 PLAC Ecuador
+1 _XY 4394 205
+0 @I58@ INDI
+1 REFN f0495860-e853-4834-8f03-bc97d954fb4d
+1 NAME Diego /Diaz Galban/
+2 SOUR @S16@
+1 SEX M
+1 FAMS @F18@
+1 _XY 310 728
 0 @I62@ INDI
-1 _XY 3490 763
 1 REFN ac2baef9-0084-4746-b135-f717e103ac44
 1 NAME Francisco /Dominguez de Mestanza/
 2 SOUR @S16@
@@ -730,8 +722,8 @@
 1 BIRT
 2 PLAC Puertollano, La Mancha, Spain
 2 SOUR @S16@
+1 _XY 3490 763
 0 @I63@ INDI
-1 _XY 984 1557
 1 REFN ff944266-8a7e-4790-b865-4d663a542efe
 1 NAME Catalina /Escribano/
 2 SOUR @S19@
@@ -747,8 +739,8 @@
 2 PLAC Villaverde del Monte, Soria, Spain
 2 SOUR @S19@
 3 QUAY 1
+1 _XY 984 1557
 0 @I64@ INDI
-1 _XY 2433 127
 1 REFN 302d030c-4e47-4c9c-bb45-035462035b2f
 1 NAME Catalina /Florencia/
 2 SOUR @S17@
@@ -766,16 +758,16 @@
 2 SOUR @S16@
 1 DEAT
 2 PLAC España
+1 _XY 2433 127
 0 @I66@ INDI
-1 _XY 2330 48
 1 REFN d0525d19-a1b0-41a5-8f0c-9367b5924f9d
 1 NAME Juan /Florencia/
 2 SOUR @S16@
 2 SOUR @S16@
 1 SEX M
 1 FAMS @F51@
+1 _XY 2330 48
 0 @I67@ INDI
-1 _XY 1398 379
 1 REFN 2ed16b0a-5c03-43c1-8434-e7ac44504767
 1 NAME Leonor /García de Herrera/
 2 SOUR @S16@
@@ -784,8 +776,8 @@
 1 BIRT
 2 PLAC Burgos, Spain
 2 SOUR @S16@
+1 _XY 1398 379
 0 @I68@ INDI
-1 _XY 1195 1824
 1 REFN 7832a2df-2444-4fcd-bc48-05a7be38e701
 1 NAME Gabriel /García Gómez/
 2 SOUR @S17@
@@ -815,8 +807,8 @@
 4 LONG W79.9
 2 SOUR @S19@
 3 QUAY 1
+1 _XY 1195 1824
 0 @I69@ INDI
-1 _XY 2125 2064
 1 REFN c90ceb8b-4983-4e86-b422-d0c012f3da42
 1 NAME Carmen /García Moreno/
 2 SOUR @S19@
@@ -836,8 +828,8 @@
 2 DATE 09 MAY 1868
 2 SOUR @S21@
 3 QUAY 1
+1 _XY 2125 2064
 0 @I70@ INDI
-1 _XY 1537 2064
 1 REFN 88a95831-5cd4-4937-ac5a-8f2d2f7c7c93
 1 NAME Concepción /García Moreno/
 2 SOUR @S19@
@@ -857,8 +849,8 @@
 2 DATE 1803
 2 SOUR @S21@
 3 QUAY 1
+1 _XY 1537 2064
 0 @I71@ INDI
-1 _XY 2907 2064
 1 REFN 1480d0ed-b196-48e5-a4e6-11595e569eea
 1 NAME Gabriel /García Moreno/
 2 SOUR @S17@
@@ -938,6 +930,11 @@
 2 PLAC Ecuador
 2 SOUR @S23@
 3 QUAY 1
+1 TITL 13th President of Ecuador (next term)
+2 DATE FROM 06 AUG 1875 TO 06 AUG 1875
+2 PLAC Ecuador
+2 SOUR @S24@
+3 QUAY 1
 1 DEAT
 2 DATE 06 AUG 1875
 2 PLAC Presidential Palace, Quito, Pichincha, Ecuador
@@ -945,37 +942,11 @@
 3 PAGE p. 152
 3 QUAY 1
 2 SOUR @S16@
-1 TITL 13th President of Ecuador (next term)
-2 DATE FROM 06 AUG 1875 TO 06 AUG 1875
-2 PLAC Ecuador
-2 SOUR @S24@
-3 QUAY 1
 1 EVEN
 2 TYPE note (I)
 2 SOUR @S25@
-0 @I72@ INDI
-1 _XY 1379 2064
-1 REFN aa12dc9c-6ad0-4178-966c-3d07f99c50ab
-1 NAME Josefa Dominga /García Moreno/
-2 SOUR @S19@
-3 PAGE p. 17
-3 QUAY 1
-1 SEX F
-1 FAMC @F54@
-1 BIRT
-2 DATE 22 APR 1798
-2 PLAC Guayaquil, Guayas, Ecuador
-3 MAP
-4 LATI S2.1667
-4 LONG W79.9
-2 SOUR @S16@
-1 DEAT
-2 DATE ABT 1845
-2 SOUR @S19@
-3 PAGE p. 17
-3 QUAY 1
+1 _XY 2907 2064
 0 @I73@ INDI
-1 _XY 1855 2064
 1 REFN 61d5a7fe-710b-4a06-80d3-7a82e32e02a4
 1 NAME José /García Moreno/
 2 SOUR @S19@
@@ -995,8 +966,8 @@
 2 DATE 1806
 2 SOUR @S21@
 3 QUAY 1
+1 _XY 1855 2064
 0 @I74@ INDI
-1 _XY 1981 2064
 1 REFN 9a0e4cee-26dc-4902-a0bc-7bb90beb06b7
 1 NAME José /García Moreno/
 2 SOUR @S21@
@@ -1015,8 +986,8 @@
 2 DATE 28 JUN 1877
 2 SOUR @S21@
 3 QUAY 1
+1 _XY 1981 2064
 0 @I75@ INDI
-1 _XY 2591 2064
 1 REFN 5f8160c2-7bbf-4aa9-94a8-5a26c3e160d7
 1 NAME José Fernando /García Moreno/
 2 SOUR @S20@
@@ -1035,8 +1006,29 @@
 2 DATE 21 MAY 1874
 2 SOUR @S21@
 3 QUAY 1
+1 _XY 2591 2064
+0 @I72@ INDI
+1 REFN aa12dc9c-6ad0-4178-966c-3d07f99c50ab
+1 NAME Josefa Dominga /García Moreno/
+2 SOUR @S19@
+3 PAGE p. 17
+3 QUAY 1
+1 SEX F
+1 FAMC @F54@
+1 BIRT
+2 DATE 22 APR 1798
+2 PLAC Guayaquil, Guayas, Ecuador
+3 MAP
+4 LATI S2.1667
+4 LONG W79.9
+2 SOUR @S16@
+1 DEAT
+2 DATE ABT 1845
+2 SOUR @S19@
+3 PAGE p. 17
+3 QUAY 1
+1 _XY 1379 2064
 0 @I76@ INDI
-1 _XY 1228 2064
 1 REFN 90e84e05-5f0f-43b4-88e5-490d1f0fab41
 1 NAME Manuel Ignacio /García Moreno/
 2 SOUR @S19@
@@ -1073,8 +1065,8 @@
 1 RELI Catholic
 2 SOUR @S19@
 3 QUAY 1
+1 _XY 1228 2064
 0 @I77@ INDI
-1 _XY 1701 2064
 1 REFN d59f2990-7b7a-4575-aa7f-f8984503d0a4
 1 NAME Mercedes /García Moreno/
 2 SOUR @S17@
@@ -1099,8 +1091,8 @@
 2 DATE 1821
 2 SOUR @S21@
 3 QUAY 1
+1 _XY 1701 2064
 0 @I78@ INDI
-1 _XY 2272 2064
 1 REFN 2e83d749-a847-4fe7-84a2-e09477378495
 1 NAME Miguel /García Moreno/
 2 SOUR @S19@
@@ -1124,8 +1116,8 @@
 4 LONG W79.9
 2 SOUR @S21@
 3 QUAY 1
+1 _XY 2272 2064
 0 @I79@ INDI
-1 _XY 2415 2064
 1 REFN 7ec85ca8-9d10-4f22-9d5b-0275ba559c81
 1 NAME Pedro Pablo /García Moreno/
 2 SOUR @S17@
@@ -1154,8 +1146,8 @@
 4 LONG W79.9
 2 SOUR @S21@
 3 QUAY 1
+1 _XY 2415 2064
 0 @I80@ INDI
-1 _XY 2749 2064
 1 REFN 44fc7763-7838-4e13-a948-832e5d2e1138
 1 NAME Rosario /García Moreno/
 2 SOUR @S17@
@@ -1180,19 +1172,37 @@
 2 DATE 11 JUN 1875
 2 SOUR @S21@
 3 QUAY 1
-0 @I84@ INDI
-1 _XY 2965 2201
-1 REFN b0c17e32-6052-48b7-819f-068576d46613
-1 NAME Gabriel /García y del Alcázar/
-2 SOUR @S17@
-3 PAGE Ancestry Family Tree
-3 DATA
-4 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=60917
-5 CONC 627&pid=13
+1 _XY 2749 2064
+0 @I82@ INDI
+1 REFN 7cf41b8f-a55b-42d1-aae1-6e50a346bab8
+1 NAME Juan /García Yanguas/
+2 SOUR @S19@
+3 QUAY 1
 1 SEX M
-1 FAMC @F41@
+1 FAMS @F56@
+1 BIRT
+2 PLAC Villaverde del Monte, Soria, Spain
+2 SOUR @S16@
+1 DEAT
+2 PLAC Villaverde del Monte, Soria, Spain
+2 SOUR @S19@
+3 QUAY 1
+1 _XY 1104 1614
+0 @I83@ INDI
+1 REFN ab045e4e-bf7b-469d-a331-3196e2d774ac
+1 NAME María /García Yanguas/
+2 SOUR @S16@
+1 SEX F
+1 FAMC @F56@
+1 BIRT
+2 PLAC Villaverde del Monte, Soria, Spain
+2 SOUR @S16@
+1 DEAT
+2 PLAC Villaverde del Monte, Soria, Spain
+2 SOUR @S19@
+3 QUAY 1
+1 _XY 969 1675
 0 @I81@ INDI
-1 _XY 1110 1674
 1 REFN 822e6fbd-2edd-429e-a8cc-1a8436e3a0fa
 1 NAME Diego /García Yanguas y Martinez/
 2 SOUR @S17@
@@ -1213,14 +1223,25 @@
 2 PLAC Villaverde del Monte, Soria, Spain
 2 SOUR @S19@
 3 QUAY 1
-0 @I82@ INDI
-1 _XY 1104 1614
-1 REFN 7cf41b8f-a55b-42d1-aae1-6e50a346bab8
-1 NAME Juan /García Yanguas/
+1 _XY 1110 1674
+0 @I84@ INDI
+1 REFN b0c17e32-6052-48b7-819f-068576d46613
+1 NAME Gabriel /García y del Alcázar/
+2 SOUR @S17@
+3 PAGE Ancestry Family Tree
+3 DATA
+4 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=60917
+5 CONC 627&pid=13
+1 SEX M
+1 FAMC @F41@
+1 _XY 2965 2201
+0 @I90@ INDI
+1 REFN 566553c8-e950-49fb-9c23-68636e6e9b89
+1 NAME Juan /Gómez/
 2 SOUR @S19@
 3 QUAY 1
 1 SEX M
-1 FAMS @F56@
+1 FAMS @F37@
 1 BIRT
 2 PLAC Villaverde del Monte, Soria, Spain
 2 SOUR @S16@
@@ -1228,76 +1249,8 @@
 2 PLAC Villaverde del Monte, Soria, Spain
 2 SOUR @S19@
 3 QUAY 1
-0 @I83@ INDI
-1 _XY 969 1675
-1 REFN ab045e4e-bf7b-469d-a331-3196e2d774ac
-1 NAME María /García Yanguas/
-2 SOUR @S16@
-1 SEX F
-1 FAMC @F56@
-1 BIRT
-2 PLAC Villaverde del Monte, Soria, Spain
-2 SOUR @S16@
-1 DEAT
-2 PLAC Villaverde del Monte, Soria, Spain
-2 SOUR @S19@
-3 QUAY 1
-0 @I85@ INDI
-1 _XY 3347 489
-1 REFN 48697990-3a00-4178-8dbf-294da3b83346
-1 NAME Martín Alonso /Gonzalez de Carranza y Mendoza/
-2 SOUR @S16@
-1 SEX M
-1 FAMC @F57@
-1 FAMS @F34@
-1 BIRT
-2 DATE 1531
-2 PLAC Madrid, Spain
-3 MAP
-4 LATI N40.5289
-4 LONG W3.6827
-2 SOUR @S16@
-0 @I86@ INDI
-1 _XY 185 791
-1 REFN 63d2411e-d4a3-480c-b706-a83afa139fb0
-1 NAME Blas /Gonzalez de Vera/
-2 SOUR @S16@
-1 SEX M
-1 FAMC @F59@
-1 FAMS @F19@
-1 BIRT
-2 DATE 1600
-2 PLAC Guayaquil, Guayas, Ecuador
-3 MAP
-4 LATI S2.1667
-4 LONG W79.9
-2 SOUR @S16@
-0 @I87@ INDI
-1 _XY 287 906
-1 REFN 9e37cd7d-501a-4a37-bd5e-446cf5ab0a9d
-1 NAME Jacinta /Gonzalez de Vera/
-2 SOUR @S16@
-1 SEX F
-1 FAMC @F60@
-1 FAMS @F61@
-1 BIRT
-2 PLAC Guayaquil, Guayas, Ecuador
-3 MAP
-4 LATI S2.1667
-4 LONG W79.9
-2 SOUR @S16@
-0 @I88@ INDI
-1 _XY 30 739
-1 REFN 972093a4-48ca-4d82-82e6-9e1ba9cf3c8d
-1 NAME Pedro /Gonzalez de Vera/
-2 SOUR @S16@
-1 SEX M
-1 FAMS @F59@
-1 BIRT
-2 PLAC Logroño, Castilla, Spain
-2 SOUR @S16@
+1 _XY 1298 1648
 0 @I89@ INDI
-1 _XY 1310 1689
 1 REFN 36e545a8-fdd2-42cf-9fc6-e2d9dce71b4e
 1 NAME María /Gómez de la Orden/
 2 SOUR @S17@
@@ -1317,23 +1270,62 @@
 2 PLAC Villaverde del Monte, Soria, Spain
 2 SOUR @S19@
 3 QUAY 1
-0 @I90@ INDI
-1 _XY 1298 1648
-1 REFN 566553c8-e950-49fb-9c23-68636e6e9b89
-1 NAME Juan /Gómez/
-2 SOUR @S19@
-3 QUAY 1
-1 SEX M
-1 FAMS @F37@
-1 BIRT
-2 PLAC Villaverde del Monte, Soria, Spain
+1 _XY 1310 1689
+0 @I85@ INDI
+1 REFN 48697990-3a00-4178-8dbf-294da3b83346
+1 NAME Martín Alonso /Gonzalez de Carranza y Mendoza/
 2 SOUR @S16@
-1 DEAT
-2 PLAC Villaverde del Monte, Soria, Spain
-2 SOUR @S19@
-3 QUAY 1
+1 SEX M
+1 FAMC @F57@
+1 FAMS @F34@
+1 BIRT
+2 DATE 1531
+2 PLAC Madrid, Spain
+3 MAP
+4 LATI N40.5289
+4 LONG W3.6827
+2 SOUR @S16@
+1 _XY 3347 489
+0 @I86@ INDI
+1 REFN 63d2411e-d4a3-480c-b706-a83afa139fb0
+1 NAME Blas /Gonzalez de Vera/
+2 SOUR @S16@
+1 SEX M
+1 FAMC @F59@
+1 FAMS @F19@
+1 BIRT
+2 DATE 1600
+2 PLAC Guayaquil, Guayas, Ecuador
+3 MAP
+4 LATI S2.1667
+4 LONG W79.9
+2 SOUR @S16@
+1 _XY 185 791
+0 @I87@ INDI
+1 REFN 9e37cd7d-501a-4a37-bd5e-446cf5ab0a9d
+1 NAME Jacinta /Gonzalez de Vera/
+2 SOUR @S16@
+1 SEX F
+1 FAMC @F60@
+1 FAMS @F61@
+1 BIRT
+2 PLAC Guayaquil, Guayas, Ecuador
+3 MAP
+4 LATI S2.1667
+4 LONG W79.9
+2 SOUR @S16@
+1 _XY 287 906
+0 @I88@ INDI
+1 REFN 972093a4-48ca-4d82-82e6-9e1ba9cf3c8d
+1 NAME Pedro /Gonzalez de Vera/
+2 SOUR @S16@
+1 SEX M
+1 FAMS @F59@
+1 BIRT
+2 PLAC Logroño, Castilla, Spain
+2 SOUR @S16@
+1 _XY 30 739
 0 @I91@ INDI
-1 _XY 2661 465
 1 REFN 2f59f7ae-835d-4188-a7ca-6af6e48d6007
 1 NAME Toribia /Grijuela/
 2 SOUR @S16@
@@ -1342,8 +1334,8 @@
 1 BIRT
 2 PLAC Iruz, Toranzo, Santander, Spain
 2 SOUR @S16@
+1 _XY 2661 465
 0 @I92@ INDI
-1 _XY 2453 416
 1 REFN ab5454bb-781e-44c0-9b86-bb8b13c40ced
 1 NAME Juan /Gutierrex de Castro/
 2 SOUR @S16@
@@ -1352,8 +1344,8 @@
 1 BIRT
 2 PLAC Cudon, Santander, Spain
 2 SOUR @S16@
+1 _XY 2453 416
 0 @I93@ INDI
-1 _XY 190 731
 1 REFN 8a051916-76e9-4c4c-9030-9ef7223cf066
 1 NAME Catalina /Gutierrex Monedero/
 2 SOUR @S16@
@@ -1362,8 +1354,8 @@
 1 BIRT
 2 PLAC Logroño, Castilla, Spain
 2 SOUR @S16@
+1 _XY 190 731
 0 @I94@ INDI
-1 _XY 2074 207
 1 REFN a7e0971e-0312-434c-9c87-e5695fe2ba74
 1 NAME Francisca /Gutierrez de Aguilar/
 2 SOUR @S16@
@@ -1372,8 +1364,8 @@
 1 BIRT
 2 PLAC Spain
 2 SOUR @S16@
+1 _XY 2074 207
 0 @I95@ INDI
-1 _XY 4726 202
 1 REFN 2b26764b-bb7b-4fa6-acda-179474755f60
 1 NAME Francisco /Gutiérrez de Haro/
 2 SOUR @S17@
@@ -1392,16 +1384,8 @@
 3 MAP
 4 LATI S2.1667
 4 LONG W79.9
-0 @I96@ INDI
-1 _XY 2822 528
-1 REFN 456aee54-90a9-4e75-8dc3-5649fbe3dfba
-1 NAME Leonor /Guzmán Vargas/
-2 SOUR @S16@
-1 SEX F
-1 FAMC @F64@
-1 FAMS @F25@
+1 _XY 4726 202
 0 @I97@ INDI
-1 _XY 2887 386
 1 REFN c92940ef-36fe-4356-8e52-3dd35ec1d2cf
 1 NAME Leonor /Guzmán/
 2 SOUR @S16@
@@ -1410,8 +1394,16 @@
 1 BIRT
 2 PLAC Valdemoro, Madrid, Spain
 2 SOUR @S16@
+1 _XY 2887 386
+0 @I96@ INDI
+1 REFN 456aee54-90a9-4e75-8dc3-5649fbe3dfba
+1 NAME Leonor /Guzmán Vargas/
+2 SOUR @S16@
+1 SEX F
+1 FAMC @F64@
+1 FAMS @F25@
+1 _XY 2822 528
 0 @I98@ INDI
-1 _XY 2626 408
 1 REFN f18de991-f6be-482b-8139-e8d7bf753195
 1 NAME María /Hernandez de la Calleja/
 2 SOUR @S16@
@@ -1420,8 +1412,8 @@
 1 BIRT
 2 PLAC Cudon, Santander, Spain
 2 SOUR @S16@
+1 _XY 2626 408
 0 @I99@ INDI
-1 _XY 1969 1339
 1 REFN a758e42e-903b-4b49-881a-082129163e05
 1 NAME Antonio /Larralde/
 2 SOUR @S16@
@@ -1439,8 +1431,8 @@
 4 LATI S2.1667
 4 LONG W79.9
 2 SOUR @S16@
+1 _XY 1969 1339
 0 @I100@ INDI
-1 _XY 2132 1393
 1 REFN 2bb7c4ac-5946-4471-9080-cb32e5ae9909
 1 NAME Farmin /Larralde/
 2 SOUR @S16@
@@ -1453,8 +1445,8 @@
 4 LATI S2.1667
 4 LONG W79.9
 2 SOUR @S16@
+1 _XY 2132 1393
 0 @I101@ INDI
-1 _XY 2009 1393
 1 REFN 9363b6fa-35ff-4b69-8098-c3b7810dca2b
 1 NAME Isabel /Larralde/
 2 SOUR @S16@
@@ -1466,8 +1458,8 @@
 4 LATI S2.1667
 4 LONG W79.9
 2 SOUR @S16@
+1 _XY 2009 1393
 0 @I102@ INDI
-1 _XY 1856 1393
 1 REFN e4683b22-cc1d-4b9f-828b-5bbbf47a50c3
 1 NAME Magdalena /Larralde/
 2 SOUR @S16@
@@ -1481,22 +1473,8 @@
 4 LATI S2.1667
 4 LONG W79.9
 2 SOUR @S16@
-0 @I103@ INDI
-1 _XY 2803 612
-1 REFN 06c9df02-4096-4657-b2ab-618b8acafc46
-1 NAME Bernabe /Lozano del Castillo/
-2 SOUR @S16@
-1 SEX M
-1 FAMS @F27@
-0 @I104@ INDI
-1 _XY 2963 215
-1 REFN c8ebbd93-cac8-4a95-88a9-a13e7898725e
-1 NAME María /López de Salinas/
-2 SOUR @S16@
-1 SEX F
-1 FAMS @F67@
+1 _XY 1856 1393
 0 @oXKpX114SpmiHrBOOpxL@ INDI
-1 _XY 1863 2373
 1 REFN a36b9459-5e27-4781-a336-93e0a7241a73
 1 NAME Aquiles /López/
 1 SEX M
@@ -1505,8 +1483,8 @@
 2 DATE 22 JUL 1889
 1 DEAT
 2 DATE 1928
+1 _XY 1863 2373
 0 @xpg4NMN5S3OjFuvt8g62@ INDI
-1 _XY 1282 2373
 1 REFN 546c81e8-3a75-45a9-b6e9-65abf3520283
 1 NAME Dolores /López/
 1 SEX F
@@ -1515,8 +1493,8 @@
 2 DATE 30 MAY 1879
 1 DEAT
 2 DATE 06 JUN 1963
+1 _XY 1282 2373
 0 @XhjCXd6cQVy1UYUFRr3v@ INDI
-1 _XY 1029 2373
 1 REFN fe9a8417-4b2c-4108-a56e-76147cd72175
 1 NAME Dolores Olympia /López/
 1 SEX F
@@ -1525,8 +1503,8 @@
 2 DATE 1876
 1 DEAT
 2 DATE 1877
+1 _XY 1029 2373
 0 @vTOF6oIUQoufiemBQJnl@ INDI
-1 _XY 1575 2373
 1 REFN 08c98db7-c65e-4ab9-9b9d-a5823834074a
 1 NAME Eloyísa /López/
 1 SEX F
@@ -1535,8 +1513,8 @@
 2 DATE APR 1882
 1 DEAT
 2 DATE 30 MAY 1965
+1 _XY 1575 2373
 0 @Fb7O40VzTbG41Ghtnusq@ INDI
-1 _XY 1391 2373
 1 REFN a5fab8d4-0403-4d45-a909-ecb490581ada
 1 NAME Estenio /López/
 1 SEX M
@@ -1545,8 +1523,8 @@
 2 DATE 1880
 1 DEAT
 2 DATE 1897
+1 _XY 1391 2373
 0 @rI0L2Q74TyqxKXNGfI1U@ INDI
-1 _XY 1601 2249
 1 REFN ac139ee4-c9a3-40d7-a8c7-7a6060a645d5
 1 NAME Felicísimo /López/
 1 SEX M
@@ -1555,8 +1533,8 @@
 2 DATE 06 AUG 1847
 1 DEAT
 2 DATE 15 DEC 1917
+1 _XY 1601 2249
 0 @VMCCp1ueSt2ywV4blCAY@ INDI
-1 _XY 1962 2373
 1 REFN 870d6f88-cb55-4dc9-b155-5b9a1a2f95fc
 1 NAME Hector Samuel /López/
 1 SEX M
@@ -1567,8 +1545,8 @@
 2 DATE 20 AUG 1891
 1 DEAT
 2 DATE 12 SEP 1933
+1 _XY 1962 2373
 0 @2aAXjBLVR1yvoVuM0BJl@ INDI
-1 _XY 1179 2373
 1 REFN 1b5b6e74-7605-445e-bce4-91fd39e89553
 1 NAME Lelia /López/
 1 SEX F
@@ -1577,8 +1555,8 @@
 2 DATE 26 AUG 1877
 1 DEAT
 2 DATE 29 DEC 1962
+1 _XY 1179 2373
 0 @IhWQxX7lQh2wfUhKmrLs@ INDI
-1 _XY 1680 2373
 1 REFN 2f91e775-889a-46ce-9730-9a8fcc10e19f
 1 NAME Miguel Angel /López/
 1 SEX M
@@ -1587,8 +1565,8 @@
 2 DATE BET 28 OCT 1884 AND 27 OCT 1885
 1 DEAT
 2 DATE 1935
+1 _XY 1680 2373
 0 @esqWSVLVQPCQpT77C3Mg@ INDI
-1 _XY 1487 2373
 1 REFN c11d9537-9e6b-4567-86c1-cfc02e17bdf8
 1 NAME Ulises /López/
 1 SEX M
@@ -1599,8 +1577,22 @@
 2 DATE ABT FEB 1884
 1 DEAT
 2 DATE 1897
+1 _XY 1487 2373
+0 @I104@ INDI
+1 REFN c8ebbd93-cac8-4a95-88a9-a13e7898725e
+1 NAME María /López de Salinas/
+2 SOUR @S16@
+1 SEX F
+1 FAMS @F67@
+1 _XY 2963 215
+0 @I103@ INDI
+1 REFN 06c9df02-4096-4657-b2ab-618b8acafc46
+1 NAME Bernabe /Lozano del Castillo/
+2 SOUR @S16@
+1 SEX M
+1 FAMS @F27@
+1 _XY 2803 612
 0 @I105@ INDI
-1 _XY 3132 528
 1 REFN 4218c6cd-f703-402c-a259-7ebecdd37299
 1 NAME María /Magallanes/
 2 SOUR @S16@
@@ -1612,8 +1604,8 @@
 4 LATI S2.1667
 4 LONG W79.9
 2 SOUR @S16@
+1 _XY 3132 528
 0 @I106@ INDI
-1 _XY 1116 1557
 1 REFN d4154196-4540-4d6b-b40f-ff4992d15f2a
 1 NAME Alonso /Martínez/
 2 SOUR @S19@
@@ -1628,8 +1620,8 @@
 2 PLAC Villaverde del Monte, Soria, Spain
 2 SOUR @S19@
 3 QUAY 1
+1 _XY 1116 1557
 0 @I107@ INDI
-1 _XY 993 1606
 1 REFN 2bc327b0-979d-4df3-b4b2-8c104cca2831
 1 NAME Josefa /Martínez/
 2 SOUR @S19@
@@ -1646,8 +1638,8 @@
 2 PLAC Villaverde del Monte, Soria, Spain
 2 SOUR @S19@
 3 QUAY 1
+1 _XY 993 1606
 0 @I108@ INDI
-1 _XY 3570 809
 1 REFN c8be3c82-6957-45c6-84d6-edd3a76c8600
 1 NAME Jeronima /Mestanza/
 2 SOUR @S16@
@@ -1661,8 +1653,19 @@
 4 LATI S2.1667
 4 LONG W79.9
 2 SOUR @S16@
+1 _XY 3570 809
+0 @I140@ INDI
+1 REFN ba2e58e0-4e74-490f-87c9-268d268f87c3
+1 NAME Alonson /Morán de Butrón/
+2 SOUR @S16@
+1 SEX M
+1 FAMS @F70@
+1 BIRT
+2 DATE 1520
+2 PLAC Mezeta, Vizcaya, Spain
+2 SOUR @S16@
+1 _XY 3873 299
 0 @I109@ INDI
-1 _XY 3784 419
 1 REFN 9ece693e-ff8a-4eb8-977d-fa6c588cb5a7
 1 NAME Andrés /Morán de Butrón Navarro Navarrete/
 2 SOUR @S18@
@@ -1699,8 +1702,8 @@
 2 PLAC Logroño, Castilla, Spain
 2 SOUR @S20@
 3 QUAY 1
+1 _XY 3784 419
 0 @I110@ INDI
-1 _XY 4021 1495
 1 REFN cb1d6df4-6c5b-480c-b84f-86cb24f2dde5
 1 NAME Antonio /Morán de Butrón y del Castillo/
 2 SOUR @S16@
@@ -1713,8 +1716,8 @@
 4 LATI S2.1667
 4 LONG W79.9
 2 SOUR @S16@
+1 _XY 4021 1495
 0 @I111@ INDI
-1 _XY 3507 1495
 1 REFN de08cd48-5ac7-4ecc-b433-21af3afbef33
 1 NAME José Gregorio /Morán de Butrón y del Castillo/
 2 SOUR @S16@
@@ -1727,8 +1730,8 @@
 4 LATI S2.1667
 4 LONG W79.9
 2 SOUR @S16@
+1 _XY 3507 1495
 0 @I112@ INDI
-1 _XY 3859 1495
 1 REFN 6935860d-95e6-4cf9-aabf-aea9eb28f4c9
 1 NAME Manuel Jacinto /Morán de Butrón y del Castillo/
 2 SOUR @S16@
@@ -1741,8 +1744,8 @@
 4 LATI S2.1667
 4 LONG W79.9
 2 SOUR @S16@
+1 _XY 3859 1495
 0 @I113@ INDI
-1 _XY 2992 1495
 1 REFN 2941ec5e-b3a0-4660-9fd7-4642dac5fc03
 1 NAME Manuela Antonia /Morán de Butrón y del Castillo/
 2 SOUR @S17@
@@ -1763,22 +1766,8 @@
 4 LONG W79.9
 2 SOUR @S20@
 3 QUAY 1
-0 @I114@ INDI
-1 _XY 3675 1495
-1 REFN af49518f-c7ae-4548-b4c0-f85440ea6a9f
-1 NAME Mariano Joaquin /Morán de Butrón y del Castillo/
-2 SOUR @S16@
-1 SEX M
-1 FAMC @F43@
-1 BIRT
-2 DATE 19 FEB 1749
-2 PLAC Guayaquil, Guayas, Ecuador
-3 MAP
-4 LATI S2.1667
-4 LONG W79.9
-2 SOUR @S16@
+1 _XY 2992 1495
 0 @I115@ INDI
-1 _XY 3352 1495
 1 REFN 5fb050d5-78be-4d47-b669-dacec988f02c
 1 NAME María Isabel /Morán de Butrón y del Castillo/
 2 SOUR @S16@
@@ -1791,8 +1780,8 @@
 4 LATI S2.1667
 4 LONG W79.9
 2 SOUR @S16@
+1 _XY 3352 1495
 0 @I116@ INDI
-1 _XY 3168 1495
 1 REFN 56c3603d-f1e5-47ec-b500-e6aa95883ee8
 1 NAME María Josefa Gabriela /Morán de Butrón y del Castillo/
 2 SOUR @S16@
@@ -1805,8 +1794,22 @@
 4 LATI S2.1667
 4 LONG W79.9
 2 SOUR @S16@
+1 _XY 3168 1495
+0 @I114@ INDI
+1 REFN af49518f-c7ae-4548-b4c0-f85440ea6a9f
+1 NAME Mariano Joaquin /Morán de Butrón y del Castillo/
+2 SOUR @S16@
+1 SEX M
+1 FAMC @F43@
+1 BIRT
+2 DATE 19 FEB 1749
+2 PLAC Guayaquil, Guayas, Ecuador
+3 MAP
+4 LATI S2.1667
+4 LONG W79.9
+2 SOUR @S16@
+1 _XY 3675 1495
 0 @I117@ INDI
-1 _XY 3179 1232
 1 REFN 2a3267cc-75e9-4104-8d00-e488a3741d8b
 1 NAME Antonio /Morán de Butrón y Ozerín/
 2 SOUR @S17@
@@ -1830,16 +1833,16 @@
 1 TITL Capitán
 2 SOUR @S20@
 3 QUAY 1
+1 _XY 3179 1232
 0 @I118@ INDI
-1 _XY 3374 1233
 1 REFN be0ba555-b1ec-4d96-a15c-bcedc4d78499
 1 NAME Francisca /Morán de Butrón y Ozerín/
 2 SOUR @S20@
 3 QUAY 1
 1 SEX F
 1 FAMC @F73@
+1 _XY 3374 1233
 0 @I119@ INDI
-1 _XY 4335 620
 1 REFN 59e645dc-2e30-44bd-a481-520e61351651
 1 NAME Agustín /Morán de Butrón y Ponce de León/
 2 SOUR @S16@
@@ -1852,8 +1855,8 @@
 4 LATI S2.1667
 4 LONG W79.9
 2 SOUR @S16@
+1 _XY 4335 620
 0 @I120@ INDI
-1 _XY 4536 618
 1 REFN 02873329-20bd-460b-9b70-1b27f112e7fa
 1 NAME Alonso /Morán de Butrón y Ponce de León/
 2 SOUR @S20@
@@ -1888,8 +1891,8 @@
 1 TITL Capitán
 2 SOUR @S20@
 3 QUAY 1
+1 _XY 4536 618
 0 @I121@ INDI
-1 _XY 4143 623
 1 REFN e32e129d-fe35-48d2-be5c-16b20896a0fa
 1 NAME Andrés /Morán de Butrón y Ponce de León/
 2 SOUR @S16@
@@ -1902,8 +1905,8 @@
 4 LATI S2.1667
 4 LONG W79.9
 2 SOUR @S16@
+1 _XY 4143 623
 0 @I122@ INDI
-1 _XY 3987 624
 1 REFN 27e69628-7c00-4b30-9070-96800308456f
 1 NAME José /Morán de Butrón y Ponce de León/
 2 SOUR @S16@
@@ -1912,8 +1915,8 @@
 1 BIRT
 2 DATE 1601
 2 SOUR @S16@
+1 _XY 3987 624
 0 @I123@ INDI
-1 _XY 3801 626
 1 REFN f51f7031-8da5-4937-8176-76c4b78865ad
 1 NAME Nicolás /Morán de Butrón y Ponce de León/
 2 SOUR @S16@
@@ -1926,8 +1929,8 @@
 4 LATI S2.1667
 4 LONG W79.9
 2 SOUR @S16@
+1 _XY 3801 626
 0 @I124@ INDI
-1 _XY 4542 1085
 1 REFN 8e43081a-aa96-4f18-b572-cd65445e5495
 1 NAME Gabriel /Morán de Butrón y Ramírez de Guzmán/
 2 SOUR @S26@
@@ -1940,8 +1943,8 @@
 4 LATI S2.1667
 4 LONG W79.9
 2 SOUR @S26@
+1 _XY 4542 1085
 0 @I125@ INDI
-1 _XY 3487 1085
 1 REFN 4f1af5e7-db89-4ee6-b6d5-1044d0a64a25
 1 NAME Jacinto /Morán de Butrón y Ramírez de Guzmán/
 2 SOUR @S26@
@@ -1954,8 +1957,8 @@
 4 LATI S2.1667
 4 LONG W79.9
 2 SOUR @S26@
+1 _XY 3487 1085
 0 @I126@ INDI
-1 _XY 4713 1085
 1 REFN f1ed3b9f-7b64-447d-81e8-0fd69676835c
 1 NAME Jerónima /Morán de Butrón y Ramírez de Guzmán/
 2 SOUR @S26@
@@ -1971,8 +1974,8 @@
 1 DEAT
 2 DATE 1724
 2 SOUR @S26@
+1 _XY 4713 1085
 0 @I127@ INDI
-1 _XY 3304 1085
 1 REFN 43bcb673-96a1-48de-86c5-780ce27be70d
 1 NAME José /Morán de Butrón y Ramírez de Guzmán/
 2 SOUR @S17@
@@ -1995,8 +1998,8 @@
 1 TITL Capitán
 2 SOUR @S20@
 3 QUAY 1
+1 _XY 3304 1085
 0 @I128@ INDI
-1 _XY 4199 1085
 1 REFN 2bd4fbc6-04a8-4760-a20c-d88958e1291d
 1 NAME Leonor /Morán de Butrón y Ramírez de Guzmán/
 2 SOUR @S26@
@@ -2009,8 +2012,8 @@
 4 LATI S2.1667
 4 LONG W79.9
 2 SOUR @S26@
+1 _XY 4199 1085
 0 @I129@ INDI
-1 _XY 4027 1085
 1 REFN f2ac0f96-f7ed-4a7d-9528-50226995b0a6
 1 NAME Mariana /Morán de Butrón y Ramírez de Guzmán/
 2 SOUR @S26@
@@ -2023,8 +2026,8 @@
 4 LATI S2.1667
 4 LONG W79.9
 2 SOUR @S26@
+1 _XY 4027 1085
 0 @I130@ INDI
-1 _XY 4361 1085
 1 REFN adaea2f7-4016-4747-a14c-505b893f6b37
 1 NAME Martín /Morán de Butrón y Ramírez de Guzmán/
 2 SOUR @S26@
@@ -2037,8 +2040,8 @@
 4 LATI S2.1667
 4 LONG W79.9
 2 SOUR @S26@
+1 _XY 4361 1085
 0 @I131@ INDI
-1 _XY 3657 1085
 1 REFN b2ac8746-9ed4-407e-8069-e086ad42e4d0
 1 NAME Nicolás /Morán de Butrón y Ramírez de Guzmán/
 2 SOUR @S26@
@@ -2051,8 +2054,8 @@
 4 LATI S2.1667
 4 LONG W79.9
 2 SOUR @S26@
+1 _XY 3657 1085
 0 @I132@ INDI
-1 _XY 3845 1085
 1 REFN e12e3e88-8b05-46aa-afd9-786e32569922
 1 NAME Petronila /Morán de Butrón y Ramírez de Guzmán/
 2 SOUR @S26@
@@ -2065,8 +2068,8 @@
 4 LATI S2.1667
 4 LONG W79.9
 2 SOUR @S26@
+1 _XY 3845 1085
 0 @I133@ INDI
-1 _XY 4013 911
 1 REFN f17db394-6cf6-4d8a-8f27-7b5f75f55a7d
 1 NAME Alonson /Morán de Butrón y Rendón/
 2 SOUR @S16@
@@ -2079,8 +2082,8 @@
 4 LATI S2.1667
 4 LONG W79.9
 2 SOUR @S16@
+1 _XY 4013 911
 0 @I134@ INDI
-1 _XY 4878 911
 1 REFN 8c3ba859-9691-47a8-9b19-c4f95f763d75
 1 NAME Andrés /Morán de Butrón y Rendón/
 2 SOUR @S16@
@@ -2093,8 +2096,8 @@
 4 LATI S2.1667
 4 LONG W79.9
 2 SOUR @S16@
+1 _XY 4878 911
 0 @I135@ INDI
-1 _XY 4704 911
 1 REFN fc5c279f-9c1a-4d47-9599-b8b525b694fa
 1 NAME Gabriel /Morán de Butrón y Rendón/
 2 SOUR @S16@
@@ -2107,8 +2110,8 @@
 4 LATI S2.1667
 4 LONG W79.9
 2 SOUR @S16@
+1 _XY 4704 911
 0 @I136@ INDI
-1 _XY 3836 911
 1 REFN 9ae8f502-9234-4fae-8551-285d3ae0e076
 1 NAME Jacinto /Morán de Butrón y Rendón/
 2 SOUR @S20@
@@ -2133,8 +2136,8 @@
 1 TITL Capitán
 2 SOUR @S20@
 3 QUAY 1
+1 _XY 3836 911
 0 @I137@ INDI
-1 _XY 4191 911
 1 REFN bbf66bdd-0cc0-4a91-9a26-4ef60d9aa11a
 1 NAME José /Morán de Butrón y Rendón/
 2 SOUR @S16@
@@ -2147,8 +2150,8 @@
 4 LATI S2.1667
 4 LONG W79.9
 2 SOUR @S16@
+1 _XY 4191 911
 0 @I138@ INDI
-1 _XY 4346 911
 1 REFN 6ca94592-0522-4534-b3ca-d2b8eddfa288
 1 NAME Leonor /Morán de Butrón y Rendón/
 2 SOUR @S16@
@@ -2161,8 +2164,8 @@
 4 LATI S2.1667
 4 LONG W79.9
 2 SOUR @S16@
+1 _XY 4346 911
 0 @I139@ INDI
-1 _XY 4521 911
 1 REFN 7db5edc1-b66b-41e0-8c19-54c7a32539ee
 1 NAME Petronila /Morán de Butrón y Rendón/
 2 SOUR @S16@
@@ -2175,26 +2178,33 @@
 4 LATI S2.1667
 4 LONG W79.9
 2 SOUR @S16@
-0 @I140@ INDI
-1 _XY 3873 299
-1 REFN ba2e58e0-4e74-490f-87c9-268d268f87c3
-1 NAME Alonson /Morán de Butrón/
-2 SOUR @S16@
+1 _XY 4521 911
+0 @I149@ INDI
+1 REFN 7ea053dc-73d2-431b-a08b-562de9bb0b46
+1 NAME José Ignacio /Moreno/
+2 SOUR @S19@
+3 QUAY 1
 1 SEX M
-1 FAMS @F70@
+1 FAMS @F36@
+1 FAMS @F40@
 1 BIRT
-2 DATE 1520
-2 PLAC Mezeta, Vizcaya, Spain
+2 PLAC Spain
 2 SOUR @S16@
+1 DEAT
+2 PLAC Guayaquil, Guayas, Ecuador
+3 MAP
+4 LATI S2.1667
+4 LONG W79.9
+2 SOUR @S16@
+1 _XY 2112 1488
 0 @I141@ INDI
-1 _XY 2175 1816
 1 REFN bcf344c7-2937-4834-b5e2-6e81de2b6c3f
 1 NAME José Ignacio /Moreno y Morán de Butrón/
 2 SOUR @S16@
 1 SEX M
 1 FAMC @F72@
+1 _XY 2175 1816
 0 @I142@ INDI
-1 _XY 1659 1816
 1 REFN 03480c8d-82e0-486f-86e7-3a0622ff919d
 1 NAME Juan Pablo /Moreno y Morán de Butrón/
 2 SOUR @S17@
@@ -2208,8 +2218,8 @@
 1 FAMC @F72@
 1 DEAT
 2 PLAC ?
+1 _XY 1659 1816
 0 @I143@ INDI
-1 _XY 1491 1816
 1 REFN 4b29b09f-1c11-4a70-80a3-5900192c2265
 1 NAME Juana Mercedes /Moreno y Morán de Butrón/
 2 SOUR @S17@
@@ -2238,8 +2248,8 @@
 4 LONG W79.9
 2 SOUR @S19@
 3 QUAY 1
+1 _XY 1491 1816
 0 @I144@ INDI
-1 _XY 2515 1816
 1 REFN 0e61c91e-de20-4e8c-8935-975e878c0b43
 1 NAME Manuel Ignacio /Moreno y Morán de Butrón/
 2 SOUR @S17@
@@ -2250,8 +2260,8 @@
 2 SOUR @S16@
 1 SEX M
 1 FAMC @F72@
+1 _XY 2515 1816
 0 @I145@ INDI
-1 _XY 2338 1816
 1 REFN 225c7212-bb61-47bf-94e6-488d79fd124c
 1 NAME María Dolores /Moreno y Morán de Butrón/
 2 SOUR @S16@
@@ -2264,8 +2274,8 @@
 4 LATI S1.8667
 4 LONG W79.9333
 2 SOUR @S16@
+1 _XY 2338 1816
 0 @I146@ INDI
-1 _XY 1837 1816
 1 REFN 1bc100cd-da69-4777-9c6f-8427b4d21887
 1 NAME Miguel /Moreno y Morán de Butrón/
 2 SOUR @S17@
@@ -2279,8 +2289,8 @@
 1 FAMC @F72@
 1 DEAT
 2 PLAC ?
+1 _XY 1837 1816
 0 @I147@ INDI
-1 _XY 2013 1816
 1 REFN a4877ae6-ac7f-4381-87b8-e449f7d22634
 1 NAME Petra /Moreno y Morán de Butrón/
 2 SOUR @S17@
@@ -2299,8 +2309,8 @@
 4 LATI S2.1667
 4 LONG W79.9
 2 SOUR @S16@
+1 _XY 2013 1816
 0 @I148@ INDI
-1 _XY 2028 1617
 1 REFN 53881c05-5c25-4167-9fde-2f7292aceb34
 1 NAME Manuel Ignacio /Moreno y Sylva Santistevan/
 2 SOUR @S17@
@@ -2328,26 +2338,8 @@
 2 SOUR @S27@
 3 QUAY 1
 2 NOTE councilman of Guayaquil
-0 @I149@ INDI
-1 _XY 2112 1488
-1 REFN 7ea053dc-73d2-431b-a08b-562de9bb0b46
-1 NAME José Ignacio /Moreno/
-2 SOUR @S19@
-3 QUAY 1
-1 SEX M
-1 FAMS @F36@
-1 FAMS @F40@
-1 BIRT
-2 PLAC Spain
-2 SOUR @S16@
-1 DEAT
-2 PLAC Guayaquil, Guayas, Ecuador
-3 MAP
-4 LATI S2.1667
-4 LONG W79.9
-2 SOUR @S16@
+1 _XY 2028 1617
 0 @I150@ INDI
-1 _XY 2599 30
 1 REFN df033943-9e81-4be3-8707-0d4428f1dffc
 1 NAME Antonio /Navarra/
 2 SOUR @S17@
@@ -2360,90 +2352,8 @@
 1 BIRT
 2 DATE 1428
 2 PLAC Gandia, Valencia, Spain
-0 @I151@ INDI
-1 _XY 2763 200
-1 REFN 12ae1221-9b47-475d-85a7-623ea67fcf3b
-1 NAME Antonio /Navarro Navarrete y Florencia/
-2 SOUR @S17@
-3 PAGE Ancestry Family Tree
-3 DATA
-4 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=60917
-5 CONC 627&pid=96
-2 SOUR @S16@
-1 SEX M
-1 FAMC @F52@
-1 FAMS @F67@
-1 BIRT
-2 DATE 1508
-2 PLAC Navarrete, Logroño, Castilla, Spain
-2 SOUR @S16@
-1 DEAT
-2 PLAC España
-0 @I152@ INDI
-1 _XY 2483 200
-1 REFN 5af16aa8-8f05-460e-a7fb-313e8e5285ca
-1 NAME Catalina /Navarro Navarrete y Florencia/
-2 SOUR @S17@
-3 PAGE Ancestry Family Tree
-3 DATA
-4 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=60917
-5 CONC 627&pid=105
-2 SOUR @S16@
-1 SEX F
-1 FAMC @F52@
-1 BIRT
-2 DATE 1506
-2 PLAC Navarrete, Logroño, Castilla, Spain
-2 SOUR @S16@
-0 @I153@ INDI
-1 _XY 2237 200
-1 REFN 3ea715f6-37ef-44f3-b7ef-7b66d10b1c0f
-1 NAME Diego /Navarro Navarrete y Florencia/
-2 SOUR @S17@
-3 PAGE Ancestry Family Tree
-3 DATA
-4 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=60917
-5 CONC 627&pid=101
-2 SOUR @S16@
-1 SEX M
-1 FAMC @F52@
-1 FAMS @F62@
-1 BIRT
-2 DATE 1505
-2 PLAC Navarrete, Logroño, Castilla, Spain
-2 SOUR @S16@
-0 @I154@ INDI
-1 _XY 3498 289
-1 REFN 88bfda1c-c32c-4961-a67c-fb2e948ef6cd
-1 NAME Antonio /Navarro Navarrete y López de Salinas/
-2 SOUR @S16@
-1 SEX M
-1 FAMC @F67@
-1 BIRT
-2 DATE 1535
-2 PLAC Spain
-2 SOUR @S16@
-1 DEAT
-2 DATE 12 JUN 1604
-2 PLAC Guayaquil, Guayas, Ecuador
-3 MAP
-4 LATI S2.1667
-4 LONG W79.9
-2 SOUR @S16@
-0 @I155@ INDI
-1 _XY 3674 292
-1 REFN 80c1e498-872e-483f-bed9-30abb4849923
-1 NAME Catalina /Navarro Navarrete y López de Salinas/
-2 SOUR @S16@
-1 SEX F
-1 FAMC @F67@
-1 FAMS @F70@
-1 BIRT
-2 DATE 1537
-2 PLAC Mezeta, Vizcaya, Spain
-2 SOUR @S16@
+1 _XY 2599 30
 0 @I156@ INDI
-1 _XY 1890 1052
 1 REFN 51ef24d6-4bcb-4c92-b20a-8194993b5d0e
 1 NAME Alejandro /Navarro Navarrete/
 2 SOUR @S16@
@@ -2462,15 +2372,15 @@
 4 LATI S2.1667
 4 LONG W79.9
 2 SOUR @S16@
+1 _XY 1890 1052
 0 @I157@ INDI
-1 _XY 1797 739
 1 REFN 6c16fa8d-a5db-4192-932a-eac0e6bdea03
 1 NAME Antonia /Navarro Navarrete/
 2 SOUR @S16@
 1 SEX F
 1 FAMC @F22@
+1 _XY 1797 739
 0 @I158@ INDI
-1 _XY 2623 127
 1 REFN bc76968a-75a8-494c-81ba-1d10cde21abe
 1 NAME Antonio /Navarro Navarrete/
 2 SOUR @S17@
@@ -2488,8 +2398,8 @@
 2 SOUR @S16@
 1 DEAT
 2 PLAC España
+1 _XY 2623 127
 0 @I159@ INDI
-1 _XY 1611 1052
 1 REFN ed9661a8-e21b-4405-ba1b-831199de717d
 1 NAME Baltasara Jacinta /Navarro Navarrete/
 2 SOUR @S16@
@@ -2509,8 +2419,8 @@
 4 LATI S2.1667
 4 LONG W79.9
 2 SOUR @S16@
+1 _XY 1611 1052
 0 @I160@ INDI
-1 _XY 2231 1052
 1 REFN b923082a-0c3d-4a8b-823b-1835c5c348d2
 1 NAME Catalina /Navarro Navarrete/
 2 SOUR @S16@
@@ -2528,8 +2438,8 @@
 4 LATI S2.1667
 4 LONG W79.9
 2 SOUR @S16@
+1 _XY 2231 1052
 0 @I161@ INDI
-1 _XY 1650 599
 1 REFN 2d93f928-9fbb-4389-ac94-7085ff8b02be
 1 NAME Catalina /Navarro Navarrete/
 2 SOUR @S16@
@@ -2542,8 +2452,8 @@
 4 LATI S2.1667
 4 LONG W79.9
 2 SOUR @S16@
+1 _XY 1650 599
 0 @I162@ INDI
-1 _XY 1010 599
 1 REFN ba6727bf-b43d-4674-afb4-4b7f8b05786e
 1 NAME Diego /Navarro Navarrete/
 2 SOUR @S16@
@@ -2556,8 +2466,8 @@
 4 LATI S2.1667
 4 LONG W79.9
 2 SOUR @S16@
+1 _XY 1010 599
 0 @I163@ INDI
-1 _XY 1645 458
 1 REFN cbaa2c2b-bcc9-43c1-9920-564e5353385e
 1 NAME Diego /Navarro Navarrete/
 2 SOUR @S16@
@@ -2571,29 +2481,29 @@
 4 LATI S2.1667
 4 LONG W79.9
 2 SOUR @S16@
+1 _XY 1645 458
 0 @I164@ INDI
-1 _XY 1640 739
 1 REFN 5fa845ce-7a74-468a-9787-37bb01d8f13b
 1 NAME Diego /Navarro Navarrete/
 2 SOUR @S16@
 1 SEX M
 1 FAMC @F22@
+1 _XY 1640 739
 0 @I165@ INDI
-1 _XY 1303 739
 1 REFN b7363f13-bc52-4425-ba9b-3ab91c299c37
 1 NAME Feliciana /Navarro Navarrete/
 2 SOUR @S16@
 1 SEX F
 1 FAMC @F22@
+1 _XY 1303 739
 0 @I166@ INDI
-1 _XY 2401 1052
 1 REFN 878b6cee-ab3f-427e-9765-2719703189aa
 1 NAME Francisco Xavier /Navarro Navarrete/
 2 SOUR @S16@
 1 SEX M
 1 FAMC @F61@
+1 _XY 2401 1052
 0 @I167@ INDI
-1 _XY 1899 903
 1 REFN b71d6555-9aee-466c-b400-767aa8c26472
 1 NAME Josefa /Navarro Navarrete/
 2 SOUR @S16@
@@ -2606,8 +2516,8 @@
 4 LATI S2.1667
 4 LONG W79.9
 2 SOUR @S16@
+1 _XY 1899 903
 0 @I168@ INDI
-1 _XY 1726 904
 1 REFN 669c1939-7b42-4f29-a354-6815be89ed9c
 1 NAME Juan /Navarro Navarrete/
 2 SOUR @S16@
@@ -2620,8 +2530,8 @@
 4 LATI S2.1667
 4 LONG W79.9
 2 SOUR @S16@
+1 _XY 1726 904
 0 @I169@ INDI
-1 _XY 1969 739
 1 REFN 74298b40-0f3a-4469-a8c1-7ef872a04091
 1 NAME Juan Donata /Navarro Navarrete/
 2 SOUR @S16@
@@ -2634,15 +2544,15 @@
 4 LATI S2.1667
 4 LONG W79.9
 2 SOUR @S16@
+1 _XY 1969 739
 0 @I170@ INDI
-1 _XY 1477 739
 1 REFN 4d963ea7-b4b1-4c6b-ba5b-d02fd7daaa64
 1 NAME Leonor /Navarro Navarrete/
 2 SOUR @S16@
 1 SEX F
 1 FAMC @F22@
+1 _XY 1477 739
 0 @I171@ INDI
-1 _XY 1169 599
 1 REFN 7a42df34-1e87-4280-ba64-afc080f422ec
 1 NAME Leonor /Navarro Navarrete/
 2 SOUR @S16@
@@ -2654,21 +2564,8 @@
 4 LATI S2.1667
 4 LONG W79.9
 2 SOUR @S16@
-0 @I172@ INDI
-1 _XY 1336 599
-1 REFN 7e9bb781-df83-48e7-b40f-a60926a01283
-1 NAME Mariana /Navarro Navarrete/
-2 SOUR @S16@
-1 SEX F
-1 FAMC @F46@
-1 BIRT
-2 PLAC Guayaquil, Guayas, Ecuador
-3 MAP
-4 LATI S2.1667
-4 LONG W79.9
-2 SOUR @S16@
+1 _XY 1169 599
 0 @I173@ INDI
-1 _XY 1000 739
 1 REFN 535b5dd9-a116-40e1-a2ff-0a56820ef749
 1 NAME María /Navarro Navarrete/
 2 SOUR @S16@
@@ -2681,8 +2578,8 @@
 4 LATI S2.1667
 4 LONG W79.9
 2 SOUR @S16@
+1 _XY 1000 739
 0 @I174@ INDI
-1 _XY 1511 599
 1 REFN 56741e65-8e14-4013-ad66-01a7354738ee
 1 NAME María Ana /Navarro Navarrete/
 2 SOUR @S16@
@@ -2700,15 +2597,28 @@
 4 LATI S2.1667
 4 LONG W79.9
 2 SOUR @S16@
+1 _XY 1511 599
 0 @I175@ INDI
-1 _XY 1159 739
 1 REFN 6370cf40-cbc9-45d5-bd65-b3a8cd757025
 1 NAME María Josefa /Navarro Navarrete/
 2 SOUR @S16@
 1 SEX F
 1 FAMC @F22@
+1 _XY 1159 739
+0 @I172@ INDI
+1 REFN 7e9bb781-df83-48e7-b40f-a60926a01283
+1 NAME Mariana /Navarro Navarrete/
+2 SOUR @S16@
+1 SEX F
+1 FAMC @F46@
+1 BIRT
+2 PLAC Guayaquil, Guayas, Ecuador
+3 MAP
+4 LATI S2.1667
+4 LONG W79.9
+2 SOUR @S16@
+1 _XY 1336 599
 0 @I176@ INDI
-1 _XY 1763 1052
 1 REFN fa1b962e-bada-4e49-a135-d4a503d87b61
 1 NAME Sebastiána /Navarro Navarrete/
 2 SOUR @S16@
@@ -2727,67 +2637,104 @@
 4 LATI S2.1667
 4 LONG W79.9
 2 SOUR @S16@
+1 _XY 1763 1052
 0 @I177@ INDI
-1 _XY 2066 1052
 1 REFN 64636925-d5b4-4c6b-bf88-80f22fd62e7e
 1 NAME Tomasa /Navarro Navarrete/
 2 SOUR @S16@
 1 SEX F
 1 FAMC @F61@
-0 @I178@ INDI
-1 _XY 4346 419
-1 REFN 2a25255a-3f13-4c9a-94a5-44829e157107
-1 NAME Jerónima /Ponce de León y Díaz Bravo/
-2 SOUR @S20@
-3 QUAY 1
-1 SEX F
-1 FAMC @F48@
-1 FAMS @F71@
-1 BIRT
-2 DATE 1578
-2 PLAC Carrión de los Condes, Palencia, Spain
-2 SOUR @S16@
-0 @I179@ INDI
-1 _XY 4511 419
-1 REFN 01594ad0-1f56-4972-8a1b-35bae88fcdbc
-1 NAME Mariana /Ponce de León y Díaz Bravo/
-2 SOUR @S16@
-1 SEX F
-1 FAMC @F48@
-1 BIRT
-2 DATE 1581
-2 PLAC Guayaquil, Guayas, Ecuador
-3 MAP
-4 LATI S2.1667
-4 LONG W79.9
-2 SOUR @S16@
-1 DEAT
-2 DATE ABT 1621
-2 PLAC Guayaquil, Guayas, Ecuador
-3 MAP
-4 LATI S2.1667
-4 LONG W79.9
-2 SOUR @S16@
-0 @I180@ INDI
-1 _XY 4646 288
-1 REFN 415b9a52-d236-4eb7-b680-46c38ff25145
-1 NAME María Isabel /Ponce de León y Gutiérrez de Haro/
+1 _XY 2066 1052
+0 @I151@ INDI
+1 REFN 12ae1221-9b47-475d-85a7-623ea67fcf3b
+1 NAME Antonio /Navarro Navarrete y Florencia/
 2 SOUR @S17@
 3 PAGE Ancestry Family Tree
 3 DATA
 4 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=60917
-5 CONC 627&pid=91
+5 CONC 627&pid=96
 2 SOUR @S16@
-1 SEX F
-1 FAMC @F63@
-1 FAMS @F48@
+1 SEX M
+1 FAMC @F52@
+1 FAMS @F67@
 1 BIRT
-2 PLAC Carrión de los Condes, Palencia, Spain
+2 DATE 1508
+2 PLAC Navarrete, Logroño, Castilla, Spain
 2 SOUR @S16@
 1 DEAT
-2 PLAC Perú
+2 PLAC España
+1 _XY 2763 200
+0 @I152@ INDI
+1 REFN 5af16aa8-8f05-460e-a7fb-313e8e5285ca
+1 NAME Catalina /Navarro Navarrete y Florencia/
+2 SOUR @S17@
+3 PAGE Ancestry Family Tree
+3 DATA
+4 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=60917
+5 CONC 627&pid=105
+2 SOUR @S16@
+1 SEX F
+1 FAMC @F52@
+1 BIRT
+2 DATE 1506
+2 PLAC Navarrete, Logroño, Castilla, Spain
+2 SOUR @S16@
+1 _XY 2483 200
+0 @I153@ INDI
+1 REFN 3ea715f6-37ef-44f3-b7ef-7b66d10b1c0f
+1 NAME Diego /Navarro Navarrete y Florencia/
+2 SOUR @S17@
+3 PAGE Ancestry Family Tree
+3 DATA
+4 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=60917
+5 CONC 627&pid=101
+2 SOUR @S16@
+1 SEX M
+1 FAMC @F52@
+1 FAMS @F62@
+1 BIRT
+2 DATE 1505
+2 PLAC Navarrete, Logroño, Castilla, Spain
+2 SOUR @S16@
+1 _XY 2237 200
+0 @I154@ INDI
+1 REFN 88bfda1c-c32c-4961-a67c-fb2e948ef6cd
+1 NAME Antonio /Navarro Navarrete y López de Salinas/
+2 SOUR @S16@
+1 SEX M
+1 FAMC @F67@
+1 BIRT
+2 DATE 1535
+2 PLAC Spain
+2 SOUR @S16@
+1 DEAT
+2 DATE 12 JUN 1604
+2 PLAC Guayaquil, Guayas, Ecuador
+3 MAP
+4 LATI S2.1667
+4 LONG W79.9
+2 SOUR @S16@
+1 _XY 3498 289
+0 @I155@ INDI
+1 REFN 80c1e498-872e-483f-bed9-30abb4849923
+1 NAME Catalina /Navarro Navarrete y López de Salinas/
+2 SOUR @S16@
+1 SEX F
+1 FAMC @F67@
+1 FAMS @F70@
+1 BIRT
+2 DATE 1537
+2 PLAC Mezeta, Vizcaya, Spain
+2 SOUR @S16@
+1 _XY 3674 292
+0 @I182@ INDI
+1 REFN 3949ed30-d986-450f-80e4-90d1e402799f
+1 NAME Ana /Ponce/
+2 SOUR @S16@
+1 SEX F
+1 FAMS @F32@
+1 _XY 3606 428
 0 @I181@ INDI
-1 _XY 4889 202
 1 REFN 54328079-d007-47ac-b391-f677744b970e
 1 NAME María /Ponce de León/
 2 SOUR @S17@
@@ -2812,15 +2759,60 @@
 3 MAP
 4 LATI S2.1667
 4 LONG W79.9
-0 @I182@ INDI
-1 _XY 3606 428
-1 REFN 3949ed30-d986-450f-80e4-90d1e402799f
-1 NAME Ana /Ponce/
+1 _XY 4889 202
+0 @I178@ INDI
+1 REFN 2a25255a-3f13-4c9a-94a5-44829e157107
+1 NAME Jerónima /Ponce de León y Díaz Bravo/
+2 SOUR @S20@
+3 QUAY 1
+1 SEX F
+1 FAMC @F48@
+1 FAMS @F71@
+1 BIRT
+2 DATE 1578
+2 PLAC Carrión de los Condes, Palencia, Spain
+2 SOUR @S16@
+1 _XY 4346 419
+0 @I179@ INDI
+1 REFN 01594ad0-1f56-4972-8a1b-35bae88fcdbc
+1 NAME Mariana /Ponce de León y Díaz Bravo/
 2 SOUR @S16@
 1 SEX F
-1 FAMS @F32@
+1 FAMC @F48@
+1 BIRT
+2 DATE 1581
+2 PLAC Guayaquil, Guayas, Ecuador
+3 MAP
+4 LATI S2.1667
+4 LONG W79.9
+2 SOUR @S16@
+1 DEAT
+2 DATE ABT 1621
+2 PLAC Guayaquil, Guayas, Ecuador
+3 MAP
+4 LATI S2.1667
+4 LONG W79.9
+2 SOUR @S16@
+1 _XY 4511 419
+0 @I180@ INDI
+1 REFN 415b9a52-d236-4eb7-b680-46c38ff25145
+1 NAME María Isabel /Ponce de León y Gutiérrez de Haro/
+2 SOUR @S17@
+3 PAGE Ancestry Family Tree
+3 DATA
+4 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=60917
+5 CONC 627&pid=91
+2 SOUR @S16@
+1 SEX F
+1 FAMC @F63@
+1 FAMS @F48@
+1 BIRT
+2 PLAC Carrión de los Condes, Palencia, Spain
+2 SOUR @S16@
+1 DEAT
+2 PLAC Perú
+1 _XY 4646 288
 0 @I183@ INDI
-1 _XY 3259 696
 1 REFN c12cd475-90e9-4279-897a-646537724250
 1 NAME Jacinta /Porres/
 2 SOUR @S16@
@@ -2833,15 +2825,41 @@
 4 LATI S2.1667
 4 LONG W79.9
 2 SOUR @S16@
+1 _XY 3259 696
 0 @I184@ INDI
-1 _XY 3436 641
 1 REFN 047b01d3-93dc-4154-9a57-765b7cf98e9b
 1 NAME Martín /Porres/
 2 SOUR @S16@
 1 SEX M
 1 FAMS @F23@
+1 _XY 3436 641
+0 @I191@ INDI
+1 REFN c82e4aa9-e06e-4665-98b0-ede17dce20c9
+1 NAME Martín /Ramírez de Guzmán/
+2 SOUR @S16@
+1 SEX M
+1 FAMC @F64@
+1 FAMS @F68@
+1 BIRT
+2 PLAC Spain
+2 SOUR @S16@
+1 _XY 2965 528
+0 @I192@ INDI
+1 REFN 11098dbc-15bd-49c6-94db-06487fa79336
+1 NAME Martín Salazar /Ramírez de Guzmán/
+2 SOUR @S16@
+1 SEX M
+1 FAMC @F68@
+1 FAMS @F35@
+1 BIRT
+2 DATE 1560
+2 PLAC Guayaquil, Guayas, Ecuador
+3 MAP
+4 LATI S2.1667
+4 LONG W79.9
+2 SOUR @S16@
+1 _XY 3048 621
 0 @I185@ INDI
-1 _XY 3191 805
 1 REFN e37c90f7-68da-4f63-9238-79d2aa00bb76
 1 NAME Baltasara /Ramírez de Guzmán y Carranza/
 2 SOUR @S16@
@@ -2853,8 +2871,8 @@
 4 LATI S2.1667
 4 LONG W79.9
 2 SOUR @S16@
+1 _XY 3191 805
 0 @I186@ INDI
-1 _XY 3325 802
 1 REFN 60e68c09-409b-4637-a8c0-ad7da9378d19
 1 NAME Martín /Ramírez de Guzmán y Carranza/
 2 SOUR @S16@
@@ -2874,8 +2892,8 @@
 4 LATI S2.1667
 4 LONG W79.9
 2 SOUR @S16@
+1 _XY 3325 802
 0 @I187@ INDI
-1 _XY 3024 804
 1 REFN 21e8a31b-1f49-4f70-ac8a-9fc41c9426ef
 1 NAME Ursula /Ramírez de Guzmán y Carranza/
 2 SOUR @S16@
@@ -2888,8 +2906,8 @@
 4 LATI S2.1667
 4 LONG W79.9
 2 SOUR @S16@
+1 _XY 3024 804
 0 @I188@ INDI
-1 _XY 3125 919
 1 REFN ca7945c7-d42b-476d-b9b7-4269ff771c9a
 1 NAME Diego /Ramírez de Guzmán y Mestanza/
 2 SOUR @S16@
@@ -2902,8 +2920,8 @@
 4 LATI S2.1667
 4 LONG W79.9
 2 SOUR @S16@
+1 _XY 3125 919
 0 @I189@ INDI
-1 _XY 3462 919
 1 REFN e4cae9b9-b36a-430f-9132-aac6f94b17f8
 1 NAME María /Ramírez de Guzmán y Mestanza/
 2 SOUR @S20@
@@ -2918,8 +2936,8 @@
 4 LATI S2.1667
 4 LONG W79.9
 2 SOUR @S16@
+1 _XY 3462 919
 0 @I190@ INDI
-1 _XY 3298 919
 1 REFN d7db4a01-f116-41c2-889f-50710ae7ae46
 1 NAME Martín /Ramírez de Guzmán y Mestanza/
 2 SOUR @S16@
@@ -2932,34 +2950,8 @@
 4 LATI S2.1667
 4 LONG W79.9
 2 SOUR @S16@
-0 @I191@ INDI
-1 _XY 2965 528
-1 REFN c82e4aa9-e06e-4665-98b0-ede17dce20c9
-1 NAME Martín /Ramírez de Guzmán/
-2 SOUR @S16@
-1 SEX M
-1 FAMC @F64@
-1 FAMS @F68@
-1 BIRT
-2 PLAC Spain
-2 SOUR @S16@
-0 @I192@ INDI
-1 _XY 3048 621
-1 REFN 11098dbc-15bd-49c6-94db-06487fa79336
-1 NAME Martín Salazar /Ramírez de Guzmán/
-2 SOUR @S16@
-1 SEX M
-1 FAMC @F68@
-1 FAMS @F35@
-1 BIRT
-2 DATE 1560
-2 PLAC Guayaquil, Guayas, Ecuador
-3 MAP
-4 LATI S2.1667
-4 LONG W79.9
-2 SOUR @S16@
+1 _XY 3298 919
 0 @I193@ INDI
-1 _XY 2934 437
 1 REFN 458a517e-4840-4fe4-9e8e-e451d86af537
 1 NAME Mariana /Robles Calderon/
 2 SOUR @S16@
@@ -2968,23 +2960,8 @@
 1 BIRT
 2 PLAC Panama
 2 SOUR @S16@
-0 @I194@ INDI
-1 _XY 3125 1100
-1 REFN 0340f128-980d-4138-bec7-a2790ea18b20
-1 NAME María /Rodriguez de Ozerín/
-2 SOUR @S17@
-3 PAGE Ancestry Family Tree
-3 DATA
-4 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=60917
-5 CONC 627&pid=57
-2 SOUR @S16@
-1 SEX F
-1 FAMS @F45@
-1 FAMS @F73@
-1 BIRT
-2 PLAC Guayaquil
+1 _XY 2934 437
 0 @I195@ INDI
-1 _XY 4527 206
 1 REFN ad36d8d0-ad95-4f79-a3fe-660736d10b0e
 1 NAME Antonia /Rodriguez/
 2 SOUR @S17@
@@ -3000,47 +2977,61 @@
 2 SOUR @S16@
 1 DEAT
 2 PLAC España
+1 _XY 4527 206
+0 @I194@ INDI
+1 REFN 0340f128-980d-4138-bec7-a2790ea18b20
+1 NAME María /Rodriguez de Ozerín/
+2 SOUR @S17@
+3 PAGE Ancestry Family Tree
+3 DATA
+4 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=60917
+5 CONC 627&pid=57
+2 SOUR @S16@
+1 SEX F
+1 FAMS @F45@
+1 FAMS @F73@
+1 BIRT
+2 PLAC Guayaquil
+1 _XY 3125 1100
 0 @obAZ9TAOQymqUjtnyXI7@ INDI
-1 _XY 1449 2248
 1 REFN f0a16daf-2789-4774-8d42-12d10761033a
 1 NAME Francisca /Romero/
 2 SOUR @LSlAMZ6dT2mXk2j4khXV@
-3 _APID 1,7884::119643252
 3 PAGE Year: 1910; Census Place: Brooklyn Ward 29, Kings, New York
 4 CONC ; Roll: T624_982; Page: 3B; Enumeration District: 0931; FH
 4 CONC L microfilm: 1374995
 3 OBJE @qZU4RMdOQSGAfOUfnaYS@
+3 _APID 1,7884::119643252
 2 SOUR @KbSWduELTkyN1CsH1CuP@
-3 _APID 1,6061::103419866
 3 PAGE Year: 1920; Census Place: Brooklyn Assembly District 1, King
 4 CONC s, New York
 3 OBJE @6wLIyvohQBWAM7ldG1EB@
+3 _APID 1,6061::103419866
 2 SOUR @lWhOJZejTEe0yfHQBzgX@
-3 _APID 1,6224::40616546
 3 PAGE Year: 1930; Census Place: Brooklyn, Kings, New York; Roll: 1
 4 CONC 538; Page: 18A; Enumeration District: 877; Image: 827.0; FH
 4 CONC L microfilm: 2341273
 3 OBJE @irgvhRNwTPus1e2PjWzS@
+3 _APID 1,6224::40616546
 2 SOUR @NcO1hUAjSMC6yB7BVILF@
-3 _APID 1,2442::5009224
 3 PAGE Year: 1940; Census Place: New York, Kings, New York; Roll: T
 4 CONC 627_2615; Page: 2A; Enumeration District: 24-2589
 3 OBJE @Tvr4zibYShGtBKtMmK2u@
+3 _APID 1,2442::5009224
 2 SOUR @HNlukgjJS92CYnfZMphO@
-3 _APID 1,7364::1517652
 3 PAGE New York State Archives; Albany, New York; State Populatio
 4 CONC n Census Schedules, 1905; Election District: A.D. 18 E.D. 16
 4 CONC ; City: Brooklyn; County: Kings; Page: 34
 3 OBJE @BAYtYmyESHSSqsfUvnfA@
+3 _APID 1,7364::1517652
 2 SOUR @RroUDsupQ1qkFGegm6R5@
-3 _APID 1,2703::4343077
 3 PAGE New York State Archives; Albany, New York; State Populatio
 4 CONC n Census Schedules, 1915; Election District: 24; Assembly Di
 4 CONC strict: 18; City: New York; County: Kings; Page: 48
 3 OBJE @CmhTgnjUQVuJwfIZUSUA@
+3 _APID 1,2703::4343077
 2 SOUR @S19@
 2 SOUR @S15@
-3 _APID 1,1075::5082143
 3 PAGE "Manifests of Alien Arrivals at Buffalo, Lewiston, Niagara F
 4 CONC alls, and Rochester, New York, 1902-1954," Record Group #85
 4 CONC , "Records of the Immigration and Naturalization Service, 17
@@ -3084,6 +3075,7 @@
 5 CONT MR74
 5 CONT Form 500-B
 3 OBJE @M9@
+3 _APID 1,1075::5082143
 1 SEX F
 1 FAMC @F55@
 1 FAMS @lcMabrYtRUygPJbNpN6U@
@@ -3095,55 +3087,55 @@
 4 LATI S1.3333
 4 LONG W80.5833
 2 SOUR @LSlAMZ6dT2mXk2j4khXV@
-3 _APID 1,7884::119643252
 3 PAGE Year: 1910; Census Place: Brooklyn Ward 29, Kings, New York
 4 CONC ; Roll: T624_982; Page: 3B; Enumeration District: 0931; FH
 4 CONC L microfilm: 1374995
 3 OBJE @qZU4RMdOQSGAfOUfnaYS@
+3 _APID 1,7884::119643252
 2 SOUR @KbSWduELTkyN1CsH1CuP@
-3 _APID 1,6061::103419866
 3 PAGE Year: 1920; Census Place: Brooklyn Assembly District 1, King
 4 CONC s, New York
 3 OBJE @6wLIyvohQBWAM7ldG1EB@
+3 _APID 1,6061::103419866
 2 SOUR @lWhOJZejTEe0yfHQBzgX@
-3 _APID 1,6224::40616546
 3 PAGE Year: 1930; Census Place: Brooklyn, Kings, New York; Roll: 1
 4 CONC 538; Page: 18A; Enumeration District: 877; Image: 827.0; FH
 4 CONC L microfilm: 2341273
 3 OBJE @irgvhRNwTPus1e2PjWzS@
+3 _APID 1,6224::40616546
 2 SOUR @NcO1hUAjSMC6yB7BVILF@
-3 _APID 1,2442::5009224
 3 PAGE Year: 1940; Census Place: New York, Kings, New York; Roll: T
 4 CONC 627_2615; Page: 2A; Enumeration District: 24-2589
 3 OBJE @Tvr4zibYShGtBKtMmK2u@
+3 _APID 1,2442::5009224
 2 SOUR @DHlf5w33Rp6xJqMYIsbd@
 2 SOUR @HNlukgjJS92CYnfZMphO@
-3 _APID 1,7364::1517652
 3 PAGE New York State Archives; Albany, New York; State Populatio
 4 CONC n Census Schedules, 1905; Election District: A.D. 18 E.D. 16
 4 CONC ; City: Brooklyn; County: Kings; Page: 34
 3 OBJE @BAYtYmyESHSSqsfUvnfA@
+3 _APID 1,7364::1517652
 2 SOUR @RroUDsupQ1qkFGegm6R5@
-3 _APID 1,2703::4343077
 3 PAGE New York State Archives; Albany, New York; State Populatio
 4 CONC n Census Schedules, 1915; Election District: 24; Assembly Di
 4 CONC strict: 18; City: New York; County: Kings; Page: 48
 3 OBJE @CmhTgnjUQVuJwfIZUSUA@
+3 _APID 1,2703::4343077
 2 NOTE place from Joseph Dudley
 1 EVEN
 2 TYPE Arrival
 2 DATE 1901
 2 SOUR @KbSWduELTkyN1CsH1CuP@
-3 _APID 1,6061::103419866
 3 PAGE Year: 1920; Census Place: Brooklyn Assembly District 1, King
 4 CONC s, New York
 3 OBJE @6wLIyvohQBWAM7ldG1EB@
+3 _APID 1,6061::103419866
 2 SOUR @lWhOJZejTEe0yfHQBzgX@
-3 _APID 1,6224::40616546
 3 PAGE Year: 1930; Census Place: Brooklyn, Kings, New York; Roll: 1
 4 CONC 538; Page: 18A; Enumeration District: 877; Image: 827.0; FH
 4 CONC L microfilm: 2341273
 3 OBJE @irgvhRNwTPus1e2PjWzS@
+3 _APID 1,6224::40616546
 1 IMMI
 2 DATE ABT 1901
 2 PLAC New York, USA
@@ -3156,11 +3148,11 @@
 2 DATE 1905
 2 PLAC 680 Saint John's Place, Brooklyn, Kings, New York, USA
 2 SOUR @HNlukgjJS92CYnfZMphO@
-3 _APID 1,7364::1517652
 3 PAGE New York State Archives; Albany, New York; State Populatio
 4 CONC n Census Schedules, 1905; Election District: A.D. 18 E.D. 16
 4 CONC ; City: Brooklyn; County: Kings; Page: 34
 3 OBJE @BAYtYmyESHSSqsfUvnfA@
+3 _APID 1,7364::1517652
 2 NOTE Relationship to Head: Wife
 1 CENS
 2 DATE 20 APR 1910
@@ -3174,11 +3166,11 @@
 4 LATI N40.65
 4 LONG W73.95
 2 SOUR @LSlAMZ6dT2mXk2j4khXV@
-3 _APID 1,7884::119643252
 3 PAGE Year: 1910; Census Place: Brooklyn Ward 29, Kings, New York
 4 CONC ; Roll: T624_982; Page: 3B; Enumeration District: 0931; FH
 4 CONC L microfilm: 1374995
 3 OBJE @qZU4RMdOQSGAfOUfnaYS@
+3 _APID 1,7884::119643252
 2 NOTE Age: 60; Marital Status: Married; Relation to Head of House
 3 CONC : Wife
 1 RESI
@@ -3188,11 +3180,11 @@
 4 LATI N40.65
 4 LONG W73.95
 2 SOUR @RroUDsupQ1qkFGegm6R5@
-3 _APID 1,2703::4343077
 3 PAGE New York State Archives; Albany, New York; State Populatio
 4 CONC n Census Schedules, 1915; Election District: 24; Assembly Di
 4 CONC strict: 18; City: New York; County: Kings; Page: 48
 3 OBJE @CmhTgnjUQVuJwfIZUSUA@
+3 _APID 1,2703::4343077
 2 NOTE Age: 62; Relation to Head of House: Wife
 1 RESI
 2 DATE FROM 1917 TO 1929
@@ -3209,7 +3201,6 @@
 2 DATE 30 JUN 1919
 2 PLAC 85 Hicks Street, Brooklyn, Kings, New York, USA
 2 SOUR @S15@
-3 _APID 1,1075::5082143
 3 PAGE "Manifests of Alien Arrivals at Buffalo, Lewiston, Niagara F
 4 CONC alls, and Rochester, New York, 1902-1954," Record Group #85
 4 CONC , "Records of the Immigration and Naturalization Service, 17
@@ -3254,6 +3245,7 @@
 5 CONT MR74
 5 CONT Form 500-B
 3 OBJE @M9@
+3 _APID 1,1075::5082143
 1 RESI
 2 DATE 1920
 2 PLAC Brooklyn, Kings, New York, USA
@@ -3261,10 +3253,10 @@
 4 LATI N40.65
 4 LONG W73.95
 2 SOUR @KbSWduELTkyN1CsH1CuP@
-3 _APID 1,6061::103419866
 3 PAGE Year: 1920; Census Place: Brooklyn Assembly District 1, King
 4 CONC s, New York
 3 OBJE @6wLIyvohQBWAM7ldG1EB@
+3 _APID 1,6061::103419866
 2 NOTE Age: 69; Marital Status: Widowed; Marital Status: Married; R
 3 CONC elation to Head of House: Mother
 1 RESI
@@ -3287,11 +3279,11 @@
 4 LATI N40.65
 4 LONG W73.95
 2 SOUR @lWhOJZejTEe0yfHQBzgX@
-3 _APID 1,6224::40616546
 3 PAGE Year: 1930; Census Place: Brooklyn, Kings, New York; Roll: 1
 4 CONC 538; Page: 18A; Enumeration District: 877; Image: 827.0; FH
 4 CONC L microfilm: 2341273
 3 OBJE @irgvhRNwTPus1e2PjWzS@
+3 _APID 1,6224::40616546
 2 NOTE Age: 75; Marital Status: Widowed; Relation to Head of House
 3 CONC : Head
 1 RESI
@@ -3301,10 +3293,10 @@
 4 LATI N40.65
 4 LONG W73.95
 2 SOUR @NcO1hUAjSMC6yB7BVILF@
-3 _APID 1,2442::5009224
 3 PAGE Year: 1940; Census Place: New York, Kings, New York; Roll: T
 4 CONC 627_2615; Page: 2A; Enumeration District: 24-2589
 3 OBJE @Tvr4zibYShGtBKtMmK2u@
+3 _APID 1,2442::5009224
 1 RESI
 2 DATE 01 APR 1940
 2 PLAC Brooklyn, Kings, New York, USA
@@ -3312,10 +3304,10 @@
 4 LATI N40.65
 4 LONG W73.95
 2 SOUR @NcO1hUAjSMC6yB7BVILF@
-3 _APID 1,2442::5009224
 3 PAGE Year: 1940; Census Place: New York, Kings, New York; Roll: T
 4 CONC 627_2615; Page: 2A; Enumeration District: 24-2589
 3 OBJE @Tvr4zibYShGtBKtMmK2u@
+3 _APID 1,2442::5009224
 2 NOTE Age: 86; Marital Status: Widowed; Relation to Head of House
 3 CONC : Mother-in-law
 1 DEAT
@@ -3333,8 +3325,8 @@
 1 RELI Catholic
 2 SOUR @AmmouxfZQcWccceDFZqO@
 3 QUAY 1
+1 _XY 1449 2248
 0 @I196@ INDI
-1 _XY 1088 2255
 1 REFN 2cd92f4f-3b39-4723-a56c-63c6f4945e6c
 1 NAME Ignacio /Romero/
 2 SOUR @S19@
@@ -3349,8 +3341,8 @@
 4 LONG W80.5833
 2 SOUR @S19@
 3 QUAY 1
+1 _XY 1088 2255
 0 @I197@ INDI
-1 _XY 1312 2254
 1 REFN 31960747-7640-4e59-bf26-6bf09f412958
 1 NAME Mercedes /Romero/
 2 SOUR @S19@
@@ -3365,8 +3357,8 @@
 4 LONG W80.5833
 2 SOUR @S19@
 3 QUAY 1
+1 _XY 1312 2254
 0 @I198@ INDI
-1 _XY 905 2255
 1 REFN e0a824af-3a28-4a17-9ba8-810d1c3f352c
 1 NAME Pedro Alcántara /Romero/
 2 SOUR @S19@
@@ -3381,8 +3373,8 @@
 4 LONG W80.5833
 2 SOUR @S19@
 3 QUAY 1
+1 _XY 905 2255
 0 @I199@ INDI
-1 _XY 974 2072
 1 REFN f66b63d0-867a-4ef1-a5e6-505c90a44220
 1 NAME Rosario /Romero/
 2 SOUR @S19@
@@ -3428,8 +3420,8 @@
 1 RELI Catholic
 2 SOUR @S19@
 3 QUAY 1
+1 _XY 974 2072
 0 @I200@ INDI
-1 _XY 1210 2254
 1 REFN d9672725-8567-49e0-b347-7635a9bcac68
 1 NAME Tomás /Romero/
 2 SOUR @S19@
@@ -3444,8 +3436,8 @@
 4 LONG W80.5833
 2 SOUR @S19@
 3 QUAY 1
+1 _XY 1210 2254
 0 @I201@ INDI
-1 _XY 439 721
 1 REFN 2a437bfc-de8c-44e0-a418-4a3c5665f54d
 1 NAME Catalina /Ruiz de Bohorquez/
 2 SOUR @S16@
@@ -3459,8 +3451,8 @@
 4 LATI S2.1667
 4 LONG W79.9
 2 SOUR @S16@
+1 _XY 439 721
 0 @I202@ INDI
-1 _XY 2776 386
 1 REFN 3022159d-3c74-4efb-9352-035294081b5c
 1 NAME Martín /Salazar/
 2 SOUR @S16@
@@ -3469,15 +3461,15 @@
 1 BIRT
 2 PLAC Valdemoro, Madrid, Spain
 2 SOUR @S16@
+1 _XY 2776 386
 0 @I203@ INDI
-1 _XY 3314 432
 1 REFN 0f965822-11bd-42b0-8f8a-51f63eb7fbc4
 1 NAME Juan /Sanchez de Carranza/
 2 SOUR @S16@
 1 SEX M
 1 FAMS @F57@
+1 _XY 3314 432
 0 @I205@ INDI
-1 _XY 2090 1339
 1 REFN b96e3402-6855-4260-8632-3847ead103a4
 1 NAME Catalina /Tello de Arana/
 2 SOUR @S16@
@@ -3495,8 +3487,8 @@
 4 LATI S2.1667
 4 LONG W79.9
 2 SOUR @S16@
+1 _XY 2090 1339
 0 @I206@ INDI
-1 _XY 369 860
 1 REFN d17c4cb4-2875-4a45-94f3-6797a3b4809b
 1 NAME Ana /Tobar Balpuerta/
 2 SOUR @S16@
@@ -3508,8 +3500,15 @@
 4 LATI S2.1667
 4 LONG W79.9
 2 SOUR @S16@
+1 _XY 369 860
+0 @I12@ INDI
+1 REFN 6ea54655-2765-4178-91fb-ab7fc7173708
+1 NAME [unknown] /[unknown] de la Orden/
+1 SEX F
+1 FAMC @F10@
+1 FAMS @F11@
+1 _XY 1047 1494
 0 @I207@ INDI
-1 _XY 2788 437
 1 REFN be6d488e-8695-4f6f-8c25-f08ebcea8e96
 1 NAME Rodrigo /Vargas Guzmán/
 2 SOUR @S16@
@@ -3519,8 +3518,8 @@
 1 BIRT
 2 PLAC Valdemoro, Madrid, Spain
 2 SOUR @S16@
+1 _XY 2788 437
 0 @I208@ INDI
-1 _XY 257 852
 1 REFN f7351f79-a48a-4910-badc-e52411ab15e5
 1 NAME Francisco /Vera/
 2 SOUR @S16@
@@ -3534,11 +3533,7 @@
 4 LATI S2.1667
 4 LONG W79.9
 2 SOUR @S16@
-0 @F11@ FAM
-1 REFN b783287e-223c-45ea-8aad-4a165641b38f
-1 WIFE @I12@
-1 CHIL @I63@
-2 _MREL Natural
+1 _XY 257 852
 0 @F20@ FAM
 1 REFN a41fb4a8-b368-404e-ba43-ef1cb76cc0a5
 1 HUSB @I19@
@@ -3554,18 +3549,18 @@
 1 CHIL @I23@
 2 _FREL Natural
 2 _MREL Natural
-0 @F25@ FAM
-1 REFN e5026dfa-1c57-41e0-88ea-57d1ca780817
-1 HUSB @I25@
-1 WIFE @I96@
-1 CHIL @I26@
-2 _FREL Natural
-2 _MREL Natural
 0 @F24@ FAM
 1 REFN da11d2cd-2929-4a23-a9f2-6b0462a4e4cd
 1 HUSB @I28@
 1 WIFE @I91@
 1 CHIL @I25@
+2 _FREL Natural
+2 _MREL Natural
+0 @F25@ FAM
+1 REFN e5026dfa-1c57-41e0-88ea-57d1ca780817
+1 HUSB @I25@
+1 WIFE @I96@
+1 CHIL @I26@
 2 _FREL Natural
 2 _MREL Natural
 0 @F17@ FAM
@@ -3586,37 +3581,13 @@
 1 CHIL @I36@
 2 _FREL Natural
 2 _MREL Natural
-0 @F10@ FAM
-1 REFN 3428f55b-95bd-43e6-babf-7b0dabc3cd14
-1 WIFE @I38@
-1 CHIL @I12@
-2 _MREL Natural
-0 @F26@ FAM
-1 REFN 3e175c30-f4e6-48d9-bab3-6b8eb48b1528
-1 HUSB @I41@
-1 WIFE @I26@
-1 CHIL @I42@
-2 _FREL Natural
-2 _MREL Natural
-0 @F39@ FAM
-1 REFN 2e48cfd4-c671-493e-b2f0-3e36b313e9a3
-1 HUSB @I47@
-1 WIFE @I102@
-1 CHIL @I44@
-2 _FREL Natural
-2 _MREL Natural
-1 CHIL @I45@
-2 _FREL Natural
-2 _MREL Natural
-1 CHIL @I46@
-2 _FREL Natural
-2 _MREL Natural
+0 @F45@ FAM
+1 REFN 6428795e-7ccc-4b83-9adc-9c373052cfba
+1 HUSB @I55@
+1 WIFE @I194@
 1 MARR
-2 DATE 20 MAY 1710
-2 PLAC Guayaquil, Guayas, Ecuador
-3 MAP
-4 LATI S2.1667
-4 LONG W79.9
+2 DATE 1700
+2 PLAC Baba, Los Rios, Spain
 2 SOUR @S16@
 0 @F42@ FAM
 1 REFN 2861a8fe-890b-4d76-9500-8fb3fc784a53
@@ -3655,21 +3626,38 @@
 1 CHIL @I57@
 2 _FREL Natural
 2 _MREL Natural
-0 @F45@ FAM
-1 REFN 6428795e-7ccc-4b83-9adc-9c373052cfba
-1 HUSB @I55@
-1 WIFE @I194@
-1 MARR
-2 DATE 1700
-2 PLAC Baba, Los Rios, Spain
-2 SOUR @S16@
-0 @F18@ FAM
-1 REFN 258e204d-1e30-45f7-825b-2a8868f6762b
-1 HUSB @I58@
-1 WIFE @I201@
-1 CHIL @I18@
+0 @F10@ FAM
+1 REFN 3428f55b-95bd-43e6-babf-7b0dabc3cd14
+1 WIFE @I38@
+1 CHIL @I12@
+2 _MREL Natural
+0 @F26@ FAM
+1 REFN 3e175c30-f4e6-48d9-bab3-6b8eb48b1528
+1 HUSB @I41@
+1 WIFE @I26@
+1 CHIL @I42@
 2 _FREL Natural
 2 _MREL Natural
+0 @F39@ FAM
+1 REFN 2e48cfd4-c671-493e-b2f0-3e36b313e9a3
+1 HUSB @I47@
+1 WIFE @I102@
+1 CHIL @I44@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I45@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I46@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR
+2 DATE 20 MAY 1710
+2 PLAC Guayaquil, Guayas, Ecuador
+3 MAP
+4 LATI S2.1667
+4 LONG W79.9
+2 SOUR @S16@
 0 @F48@ FAM
 1 REFN 58a837fd-ebeb-45f7-9333-032780aa5a05
 1 HUSB @I59@
@@ -3688,6 +3676,13 @@
 1 HUSB @I61@
 1 WIFE @I195@
 1 CHIL @I59@
+2 _FREL Natural
+2 _MREL Natural
+0 @F18@ FAM
+1 REFN 258e204d-1e30-45f7-825b-2a8868f6762b
+1 HUSB @I58@
+1 WIFE @I201@
+1 CHIL @I18@
 2 _FREL Natural
 2 _MREL Natural
 0 @F14@ FAM
@@ -3751,10 +3746,6 @@
 2 SOUR @S19@
 3 PAGE p. 17
 3 QUAY 1
-0 @F33@ FAM
-1 REFN 025840cd-cd50-4344-8898-61bcd91ae580
-1 HUSB @I71@
-1 WIFE @I33@
 0 @F41@ FAM
 1 REFN 355d71f6-06c0-49c4-9490-6a45fe831a28
 1 HUSB @I71@
@@ -3762,6 +3753,10 @@
 1 CHIL @I84@
 2 _FREL Natural
 2 _MREL Natural
+0 @F33@ FAM
+1 REFN 025840cd-cd50-4344-8898-61bcd91ae580
+1 HUSB @I71@
+1 WIFE @I33@
 0 @F55@ FAM
 1 REFN 06caf7c1-5123-4a39-8813-b2c60deb49ac
 1 HUSB @I76@
@@ -3799,6 +3794,16 @@
 1 EVEN
 2 TYPE note
 2 NOTE not married, because Manuel Ignacio was a Catholic priest
+0 @F56@ FAM
+1 REFN a69f43c1-aac3-413b-86e3-52943fae8b7b
+1 HUSB @I82@
+1 WIFE @I107@
+1 CHIL @I83@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I81@
+2 _FREL Natural
+2 _MREL Natural
 0 @F53@ FAM
 1 REFN e7a659c1-9a23-4ad0-80d7-3cb8b0278760
 1 HUSB @I81@
@@ -3810,14 +3815,11 @@
 2 DATE 22 NOV 1762
 2 SOUR @S21@
 3 QUAY 1
-0 @F56@ FAM
-1 REFN a69f43c1-aac3-413b-86e3-52943fae8b7b
-1 HUSB @I82@
-1 WIFE @I107@
-1 CHIL @I83@
-2 _FREL Natural
-2 _MREL Natural
-1 CHIL @I81@
+0 @F37@ FAM
+1 REFN 53a0f078-5545-4442-883e-7ae25a929d27
+1 HUSB @I90@
+1 WIFE @I40@
+1 CHIL @I89@
 2 _FREL Natural
 2 _MREL Natural
 0 @F34@ FAM
@@ -3849,13 +3851,6 @@
 1 HUSB @I88@
 1 WIFE @I93@
 1 CHIL @I86@
-2 _FREL Natural
-2 _MREL Natural
-0 @F37@ FAM
-1 REFN 53a0f078-5545-4442-883e-7ae25a929d27
-1 HUSB @I90@
-1 WIFE @I40@
-1 CHIL @I89@
 2 _FREL Natural
 2 _MREL Natural
 0 @F29@ FAM
@@ -3891,10 +3886,6 @@
 1 CHIL @I100@
 2 _FREL Natural
 2 _MREL Natural
-0 @F27@ FAM
-1 REFN 28657b3c-538c-48f5-a258-0c815b0688b4
-1 HUSB @I103@
-1 WIFE @I26@
 0 @lcMabrYtRUygPJbNpN6U@ FAM
 1 REFN 3b444045-cf3a-4b71-889e-29a3b14a0a47
 1 HUSB @rI0L2Q74TyqxKXNGfI1U@
@@ -3929,13 +3920,17 @@
 1 MARR
 2 DATE 1875
 2 SOUR @rlpYS3tSSjao8Xeg12lu@
-3 _APID 1,7602::55538888
 3 PAGE Year: 1900; Census Place: Brooklyn Ward 23, Kings, New York
 4 CONC ; Roll: 1062; Page: 7B; Enumeration District: 0414; FHL micr
 4 CONC ofilm: 1241062
 3 OBJE @HokIKS1UQpmFhWDqGKxA@
+3 _APID 1,7602::55538888
 2 SOUR @AmmouxfZQcWccceDFZqO@
 3 QUAY 1
+0 @F27@ FAM
+1 REFN 28657b3c-538c-48f5-a258-0c815b0688b4
+1 HUSB @I103@
+1 WIFE @I26@
 0 @F49@ FAM
 1 REFN 3b180a80-fb46-449e-8e44-f3b84004f074
 1 HUSB @I106@
@@ -3943,6 +3938,17 @@
 1 CHIL @I107@
 2 _FREL Natural
 2 _MREL Natural
+0 @F70@ FAM
+1 REFN 17509381-2f95-4080-a0d5-35819180443a
+1 HUSB @I140@
+1 WIFE @I155@
+1 CHIL @I109@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR
+2 DATE 1558
+2 PLAC Logroño, Castilla, Spain
+2 SOUR @S16@
 0 @F71@ FAM
 1 REFN ab68c8de-081e-414e-b335-850f4eb891e2
 1 HUSB @I109@
@@ -4077,16 +4083,30 @@
 1 MARR
 2 DATE 05 OCT 1666
 2 SOUR @S26@
-0 @F70@ FAM
-1 REFN 17509381-2f95-4080-a0d5-35819180443a
-1 HUSB @I140@
-1 WIFE @I155@
-1 CHIL @I109@
+0 @F36@ FAM
+1 REFN 8de7920a-68db-45d5-bc5a-389d4617863e
+1 HUSB @I149@
+1 WIFE @I37@
+1 MARR
+2 DATE 1742
+2 PLAC Guayaquil, Guayas, Ecuador
+3 MAP
+4 LATI S2.1667
+4 LONG W79.9
+2 SOUR @S16@
+0 @F40@ FAM
+1 REFN f0930d1e-7d8e-4625-8486-1e0b1129c2e8
+1 HUSB @I149@
+1 WIFE @I44@
+1 CHIL @I148@
 2 _FREL Natural
 2 _MREL Natural
 1 MARR
-2 DATE 1558
-2 PLAC Logroño, Castilla, Spain
+2 DATE 10 JUN 1753
+2 PLAC Guayaquil, Guayas, Ecuador
+3 MAP
+4 LATI S2.1667
+4 LONG W79.9
 2 SOUR @S16@
 0 @F72@ FAM
 1 REFN 5350d633-7c58-40d6-b629-a657135fe6f9
@@ -4120,56 +4140,11 @@
 4 LATI S2.1667
 4 LONG W79.9
 2 SOUR @S16@
-0 @F36@ FAM
-1 REFN 8de7920a-68db-45d5-bc5a-389d4617863e
-1 HUSB @I149@
-1 WIFE @I37@
-1 MARR
-2 DATE 1742
-2 PLAC Guayaquil, Guayas, Ecuador
-3 MAP
-4 LATI S2.1667
-4 LONG W79.9
-2 SOUR @S16@
-0 @F40@ FAM
-1 REFN f0930d1e-7d8e-4625-8486-1e0b1129c2e8
-1 HUSB @I149@
-1 WIFE @I44@
-1 CHIL @I148@
-2 _FREL Natural
-2 _MREL Natural
-1 MARR
-2 DATE 10 JUN 1753
-2 PLAC Guayaquil, Guayas, Ecuador
-3 MAP
-4 LATI S2.1667
-4 LONG W79.9
-2 SOUR @S16@
 0 @F16@ FAM
 1 REFN e3180787-187f-4713-be53-f1b631be980b
 1 HUSB @I150@
 1 WIFE @I16@
 1 CHIL @I158@
-2 _FREL Natural
-2 _MREL Natural
-0 @F67@ FAM
-1 REFN da44da6e-4be1-4926-8c53-46aceec7e965
-1 HUSB @I151@
-1 WIFE @I104@
-1 CHIL @I154@
-2 _FREL Natural
-2 _MREL Natural
-1 CHIL @I155@
-2 _FREL Natural
-2 _MREL Natural
-1 MARR
-2 DATE 1533
-2 SOUR @S16@
-0 @F62@ FAM
-1 REFN 68662303-bbfd-4cf3-a04d-11305b5effe0
-1 HUSB @I153@
-1 WIFE @I94@
-1 CHIL @I163@
 2 _FREL Natural
 2 _MREL Natural
 0 @F52@ FAM
@@ -4269,6 +4244,26 @@
 1 CHIL @I167@
 2 _FREL Natural
 2 _MREL Natural
+0 @F67@ FAM
+1 REFN da44da6e-4be1-4926-8c53-46aceec7e965
+1 HUSB @I151@
+1 WIFE @I104@
+1 CHIL @I154@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I155@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR
+2 DATE 1533
+2 SOUR @S16@
+0 @F62@ FAM
+1 REFN 68662303-bbfd-4cf3-a04d-11305b5effe0
+1 HUSB @I153@
+1 WIFE @I94@
+1 CHIL @I163@
+2 _FREL Natural
+2 _MREL Natural
 0 @F23@ FAM
 1 REFN 61b50e26-61fd-4d47-a691-2d6e192f6cb4
 1 HUSB @I184@
@@ -4282,26 +4277,6 @@
 1 CHIL @I31@
 2 _FREL Natural
 2 _MREL Natural
-0 @F69@ FAM
-1 REFN 4685e07e-896a-4933-8047-5c3c0484f128
-1 HUSB @I186@
-1 WIFE @I108@
-1 CHIL @I188@
-2 _FREL Natural
-2 _MREL Natural
-1 CHIL @I190@
-2 _FREL Natural
-2 _MREL Natural
-1 CHIL @I189@
-2 _FREL Natural
-2 _MREL Natural
-1 MARR
-2 DATE 1632
-2 PLAC Guayaquil, Guayas, Ecuador
-3 MAP
-4 LATI S2.1667
-4 LONG W79.9
-2 SOUR @S16@
 0 @F68@ FAM
 1 REFN 60bf0509-1686-453b-8a62-dfbd09de8635
 1 HUSB @I191@
@@ -4336,6 +4311,26 @@
 4 LATI S2.1667
 4 LONG W79.9
 2 SOUR @S16@
+0 @F69@ FAM
+1 REFN 4685e07e-896a-4933-8047-5c3c0484f128
+1 HUSB @I186@
+1 WIFE @I108@
+1 CHIL @I188@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I190@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I189@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR
+2 DATE 1632
+2 PLAC Guayaquil, Guayas, Ecuador
+3 MAP
+4 LATI S2.1667
+4 LONG W79.9
+2 SOUR @S16@
 0 @F65@ FAM
 1 REFN 8c0f9c07-b705-4e56-bcbc-ea523bdcb6d8
 1 HUSB @I202@
@@ -4348,6 +4343,11 @@
 1 HUSB @I203@
 1 CHIL @I85@
 2 _FREL Natural
+0 @F11@ FAM
+1 REFN b783287e-223c-45ea-8aad-4a165641b38f
+1 WIFE @I12@
+1 CHIL @I63@
+2 _MREL Natural
 0 @F64@ FAM
 1 REFN 0757b6ed-94f8-4e65-854a-273f730cc882
 1 HUSB @I207@
@@ -5220,16 +5220,15 @@
 2 CONT </table>
 2 CONT Col. 27&mdash;Wage or salary worker: W<br />
 0 @PXFcCtdzSl6TdajEtEOO@ OBJE
-1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
-2 CONC _Harrison_Pazmino Media\0253_Romero_Francisca.jpg
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Romero Media\02
+2 CONC 53_Romero_Francisca.jpg
 2 FORM jpg
 2 TITL 0253_Romero_Francisca
 2 _DATE 9/27/2013 8:55:28 PM
 1 REFN 60c51968-e29c-42af-bb5e-d40a1fac2576
 0 @HokIKS1UQpmFhWDqGKxA@ OBJE
-1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
-2 CONC _Harrison_Pazmino Media\1900 United States Federal Census(5)
-2 CONC .jpg
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Romero Media\19
+2 CONC 00 United States Federal Census(5).jpg
 2 FORM jpg
 2 TITL 1900 United States Federal Census
 2 _TEXT Year: 1900; Census Place: Brooklyn Ward 23, Kings, New York
@@ -5237,9 +5236,8 @@
 3 CONC ofilm: 1241062
 1 REFN adbbddfb-587b-445c-973b-7a2ed15152f4
 0 @qZU4RMdOQSGAfOUfnaYS@ OBJE
-1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
-2 CONC _Harrison_Pazmino Media\1910 United States Federal Census(5)
-2 CONC .jpg
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Romero Media\19
+2 CONC 10 United States Federal Census(5).jpg
 2 FORM jpg
 2 TITL 1910 United States Federal Census
 2 _TEXT Year: 1910; Census Place: Brooklyn Ward 29, Kings, New York
@@ -5247,18 +5245,16 @@
 3 CONC L microfilm: 1374995
 1 REFN 3fcbb4df-4575-467b-9de5-da9d90cf1f0e
 0 @6wLIyvohQBWAM7ldG1EB@ OBJE
-1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
-2 CONC _Harrison_Pazmino Media\1920 United States Federal Census(4)
-2 CONC .jpg
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Romero Media\19
+2 CONC 20 United States Federal Census(4).jpg
 2 FORM jpg
 2 TITL 1920 United States Federal Census
 2 _TEXT Year: 1920; Census Place: Brooklyn Assembly District 1, King
 3 CONC s, New York
 1 REFN 5fe4e354-9a13-4fce-ae4f-0335fd4acf58
 0 @irgvhRNwTPus1e2PjWzS@ OBJE
-1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
-2 CONC _Harrison_Pazmino Media\1930 United States Federal Census(4)
-2 CONC .jpg
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Romero Media\19
+2 CONC 30 United States Federal Census(4).jpg
 2 FORM jpg
 2 TITL 1930 United States Federal Census
 2 _TEXT Year: 1930; Census Place: Brooklyn, Kings, New York; Roll: 1
@@ -5266,17 +5262,16 @@
 3 CONC L microfilm: 2341273
 1 REFN f1553807-d179-4861-ba2b-515cbc039bbe
 0 @Tvr4zibYShGtBKtMmK2u@ OBJE
-1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
-2 CONC _Harrison_Pazmino Media\1940 United States Federal Census(5)
-2 CONC .jpg
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Romero Media\19
+2 CONC 40 United States Federal Census(5).jpg
 2 FORM jpg
 2 TITL 1940 United States Federal Census
 2 _TEXT Year: 1940; Census Place: New York, Kings, New York; Roll: T
 3 CONC 627_2615; Page: 2A; Enumeration District: 24-2589
 1 REFN cd77fe6d-3f67-4626-a3ba-111eb74e50cd
 0 @BAYtYmyESHSSqsfUvnfA@ OBJE
-1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
-2 CONC _Harrison_Pazmino Media\New York, State Census, 1905(3).jpg
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Romero Media\Ne
+2 CONC w York, State Census, 1905(3).jpg
 2 FORM jpg
 2 TITL New York, State Census, 1905
 2 _TEXT New York State Archives; Albany, New York; State Populatio
@@ -5284,8 +5279,8 @@
 3 CONC ; City: Brooklyn; County: Kings; Page: 34
 1 REFN c7d7f69b-baf0-4585-93db-aa0460d9ffde
 0 @CmhTgnjUQVuJwfIZUSUA@ OBJE
-1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher_Disosway
-2 CONC _Harrison_Pazmino Media\New York, State Census, 1915(2).jpg
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Romero Media\Ne
+2 CONC w York, State Census, 1915(2).jpg
 2 FORM jpg
 2 TITL New York, State Census, 1915
 2 _TEXT New York State Archives; Albany, New York; State Populatio
