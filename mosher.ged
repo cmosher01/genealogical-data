@@ -13,9 +13,9 @@
 4 CONT Boston, MA 02109
 3 PHON (617) 227-6681
 1 DEST FTM
-1 FILE Mosher_2018-09-20-04-29-38.ftm.ged
-1 DATE 20 SEP 2018
-2 TIME 04:31:09
+1 FILE Mosher_2018-09-21-15-52-54.ftm.ged
+1 DATE 21 SEP 2018
+2 TIME 15:54:11
 0 @Umy2qBWIRUiwVSS6Hcn4@ SUBM
 1 NAME Christopher Alan Mosher
 2 EMAIL cmosher01@@gmail.com
@@ -348,6 +348,12 @@
 1 BIRT
 2 DATE ABT 1625
 1 _XY 16054 393
+0 @I488@ INDI
+1 NAME /Bartenstein/
+1 SEX M
+1 FAMS @F392@
+1 BIRT
+2 DATE ABT 1962
 0 @I477@ INDI
 1 NAME Emerton G /Bartlett/
 2 SOUR @S213@
@@ -616,6 +622,10 @@
 3 DATA
 4 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=60921
 5 CONC 378&pid=20
+2 SOUR @S203@
+3 PAGE New York State Department of Health; Albany, NY, USA; New Yo
+4 CONC rk State Marriage Index
+3 _APID 1,61632::5038900
 2 SOUR @S248@
 3 _APID 1,1788::403354654
 2 SOUR @S241@
@@ -677,8 +687,8 @@
 0 @I468@ INDI
 1 REFN 28aeeb4b-88d2-422f-8945-1964a9cd425a
 1 NAME Clayton Dean /Benedict/
+1 NAME Clayton Dean /Benedict/
 2 SOUR @S246@
-3 _APID 1,1100::6801291
 1 SEX M
 1 FAMC @F361@
 1 FAMS @F383@
@@ -771,8 +781,6 @@
 1 NOTE _XY 1284 315  _UID 006b8367-670b-4a4c-bf6f-19b7e6628849
 1 BIRT
 2 DATE 16 SEP 1941
-2 SOUR @S245@
-3 PAGE Facebook update - Keith Benedict - 9/14/2013
 2 SOUR @S247@
 3 _APID 1,1732::264390089
 1 RESI
@@ -782,10 +790,6 @@
 4 LONG W75.5446
 2 SOUR @S247@
 3 _APID 1,1732::264390089
-1 EVEN 585490427
-2 TYPE _FACE
-2 SOUR @S245@
-3 PAGE Facebook update - Keith Benedict - 9/14/2013
 1 _XY 1284 315
 0 @I463@ INDI
 1 REFN 10cae6c0-fbab-4e99-8ba8-7355db97fab1
@@ -828,16 +832,11 @@
 2 SOUR @S245@
 3 PAGE Facebook update - Kirk Benedict - 9/14/2013
 1 _XY 1205 315
-0 @I474@ INDI
-1 NAME Susan wife of Carl Lee /Benedict/
-1 SEX F
-1 FAMS @F385@
-1 BIRT
-2 DATE ABT 1945
 0 @I473@ INDI
 1 NAME Wendy /Benedict/
 1 SEX F
 1 FAMC @F385@
+1 FAMS @F392@
 1 BIRT
 2 DATE ABT 1965
 0 @I411@ INDI
@@ -2952,6 +2951,16 @@
 2 SOUR @DmaIWlgWS4Kg0oXBWhrJ@
 3 QUAY 1
 1 _XY 8251 627
+0 @I474@ INDI
+1 NAME Susan E. /Evans/
+2 SOUR @S203@
+3 PAGE New York State Department of Health; Albany, NY, USA; New Yo
+4 CONC rk State Marriage Index
+3 _APID 1,61632::100231991
+1 SEX F
+1 FAMS @F385@
+1 BIRT
+2 DATE ABT 1945
 0 @ICCzx0RoSD2OPl6h7tx9@ INDI
 1 REFN 6dda552a-17e2-4d86-901e-79bf1838d4b7
 1 NAME Anna /Ewer/
@@ -3114,11 +3123,6 @@
 0 @I458@ INDI
 1 REFN efdc6754-4723-47ba-b3f8-b39a96db4bae
 1 NAME Evelyn Virginia /Gray/
-2 SOUR @8mC6kbR7T2mY5Hq8QWJl@
-3 PAGE Ancestry Family Tree
-3 DATA
-4 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=60921
-5 CONC 378&pid=37
 2 SOUR @w6oneCDaTyySwwZ0y6W9@
 3 OBJE @M295@
 3 _APID 1,2469::1373073413
@@ -12125,7 +12129,7 @@
 1 _XY 6479 843
 0 @I452@ INDI
 1 REFN 8835ff35-6a6c-4041-9a31-1d49324cf762
-1 NAME Curtis L /Mosher/
+1 NAME Curtis L. /Mosher/
 2 SOUR @S213@
 3 PAGE Year: 1920; Census Place: Madison, Madison, New York
 3 OBJE @qHP7k0ZjSK64tb5Tn1kA@
@@ -12144,18 +12148,28 @@
 2 SOUR @7c8PO7CnR1qikgvyU4fE@
 3 PAGE Date: 1962-11-26
 3 _APID 1,5180::5186660
+2 SOUR @S233@
+3 PAGE New York State Department of Health; Albany, NY, USA; New Yo
+4 CONC rk State Birth Index
+3 OBJE @M327@
+3 _APID 1,61667::2329403
 2 SOUR @IatrsKHUQdmGOYci7sP2@
 3 PAGE New York State Archives; Albany, New York; State Populatio
 4 CONC n Census Schedules, 1925; Election District: 01; Assembly Di
 4 CONC strict: 01; City: Madison; County: Madison; Page: 11
 3 OBJE @m1G8i0fLQKS8f00uRIke@
 3 _APID 1,2704::20748062
+2 SOUR @S241@
+3 _APID 1,60525::142545147
 1 SEX M
 1 FAMC @vI58j6lGTpKJxvAR6gKB@
 1 NOTE _XY 408 228  _UID d9d8e1b5-f5cf-4a32-81da-676700fd6046
 1 BIRT
 2 DATE 19 JAN 1918
-2 PLAC New York
+2 PLAC Hamilton, Madison, New York, USA
+3 MAP
+4 LATI N42.827
+4 LONG W75.5446
 2 SOUR @S213@
 3 PAGE Year: 1920; Census Place: Madison, Madison, New York
 3 OBJE @qHP7k0ZjSK64tb5Tn1kA@
@@ -12174,12 +12188,19 @@
 2 SOUR @7c8PO7CnR1qikgvyU4fE@
 3 PAGE Date: 1962-11-26
 3 _APID 1,5180::5186660
+2 SOUR @S233@
+3 PAGE New York State Department of Health; Albany, NY, USA; New Yo
+4 CONC rk State Birth Index
+3 OBJE @M327@
+3 _APID 1,61667::2329403
 2 SOUR @IatrsKHUQdmGOYci7sP2@
 3 PAGE New York State Archives; Albany, New York; State Populatio
 4 CONC n Census Schedules, 1925; Election District: 01; Assembly Di
 4 CONC strict: 01; City: Madison; County: Madison; Page: 11
 3 OBJE @m1G8i0fLQKS8f00uRIke@
 3 _APID 1,2704::20748062
+2 SOUR @S241@
+3 _APID 1,60525::142545147
 1 RESI
 2 DATE 1920
 2 PLAC Madison, Madison, New York, USA
@@ -12237,6 +12258,15 @@
 2 SOUR @7c8PO7CnR1qikgvyU4fE@
 3 PAGE Date: 1962-11-26
 3 _APID 1,5180::5186660
+2 SOUR @S241@
+3 _APID 1,60525::142545147
+1 BURI
+2 PLAC Palo Alto, Santa Clara, California, USA
+3 MAP
+4 LATI N37.4419
+4 LONG W122.1419
+2 SOUR @S241@
+3 _APID 1,60525::142545147
 1 _XY 408 228
 0 @v22l0GUYTqWQRJou5OJJ@ INDI
 1 REFN 61831891-414c-47c0-8bc7-0929b474be37
@@ -13760,19 +13790,15 @@
 1 NOTE _XY 268 228  _UID ee0733c4-4bfb-4fd3-8b86-ef04cb2494ed
 1 BIRT
 2 DATE 16 NOV 1910
-2 PLAC New York
+2 PLAC New York, USA
+3 MAP
+4 LATI N42.7531
+4 LONG W74.2224
 2 SOUR @S213@
-3 PAGE Year: 1920; Census Place: Madison, Madison, New York
-3 OBJE @qHP7k0ZjSK64tb5Tn1kA@
 3 _APID 1,6061::19078796
 2 SOUR @7c8PO7CnR1qikgvyU4fE@
-3 PAGE Date: 1960-04-03
 3 _APID 1,5180::5186683
 2 SOUR @IatrsKHUQdmGOYci7sP2@
-3 PAGE New York State Archives; Albany, New York; State Populatio
-4 CONC n Census Schedules, 1925; Election District: 01; Assembly Di
-4 CONC strict: 01; City: Madison; County: Madison; Page: 11
-3 OBJE @m1G8i0fLQKS8f00uRIke@
 3 _APID 1,2704::20748061
 2 SOUR @yAMTVEqOTiKCsMjPyXmb@
 3 PAGE Number: 554-10-5033; Issue State: California; Issue Date: Be
@@ -13788,20 +13814,32 @@
 3 PAGE Year: 1920; Census Place: Madison, Madison, New York
 3 OBJE @qHP7k0ZjSK64tb5Tn1kA@
 3 _APID 1,6061::19078796
-2 NOTE Age: 9Marital Status: Single; Relation to Head of House: Son
 1 RESI
 2 DATE 01 JUN 1925
-2 PLAC Madison, Madison, New York, United States
+2 PLAC Madison, Madison, New York, USA
+3 MAP
+4 LATI N42.899
+4 LONG W75.5121
 2 SOUR @IatrsKHUQdmGOYci7sP2@
 3 PAGE New York State Archives; Albany, New York; State Populatio
 4 CONC n Census Schedules, 1925; Election District: 01; Assembly Di
 4 CONC strict: 01; City: Madison; County: Madison; Page: 11
 3 OBJE @m1G8i0fLQKS8f00uRIke@
 3 _APID 1,2704::20748061
-2 NOTE Age: 14Relationship: Son
-1 DEAT Age: 49
+1 RESI
+2 DATE ABT MAR 1960
+2 PLAC Covina, Los Angeles, California, USA
+3 MAP
+4 LATI N34.09
+4 LONG W117.8904
+2 SOUR @7c8PO7CnR1qikgvyU4fE@
+3 PAGE Date: 1960-04-03
+1 DEAT
 2 DATE 03 APR 1960
-2 PLAC Los Angeles, CA, USA
+2 PLAC Los Angeles, California, USA
+3 MAP
+4 LATI N34.1847
+4 LONG W118.262
 2 SOUR @7c8PO7CnR1qikgvyU4fE@
 3 PAGE Date: 1960-04-03
 3 _APID 1,5180::5186683
@@ -13809,14 +13847,6 @@
 3 PAGE Number: 554-10-5033; Issue State: California; Issue Date: Be
 4 CONC fore 1951
 3 _APID 1,3693::43961289
-1 RESI
-2 PLAC Covina, Los Angeles, California, USA
-3 MAP
-4 LATI N34.09
-4 LONG W117.8904
-2 SOUR @7c8PO7CnR1qikgvyU4fE@
-3 PAGE Date: 1960-04-03
-3 _APID 1,5180::5186683
 1 _XY 268 228
 0 @d2nuKxLhSa2oTaZuYyHs@ INDI
 1 REFN 593f6b9d-f9ac-4cea-a145-cc7f4381e091
@@ -15157,18 +15187,9 @@
 4 CONC : 860; Family History Film: 1254860; Page: 335A; Enumeratio
 4 CONC n District: 068; Image: 0519
 3 OBJE @j9qnR3OISnGHoXrvNfSI@
+3 _APID 1,6742::3314659
 2 NOTE Age: 11m; Marital Status: Single; Relation to Head of House
 3 CONC : Son
-1 RESI
-2 DATE 1880
-2 PLAC Madison, Madison, New York, United States
-2 SOUR @S217@
-3 PAGE Year: 1880; Census Place: Madison, Madison, New York; Roll
-4 CONC : 860; Family History Film: 1254860; Page: 335A; Enumeratio
-4 CONC n District: 068; Image: 0519
-3 OBJE @j9qnR3OISnGHoXrvNfSI@
-2 NOTE Age: 11mMarital Status: Single; Relation to Head of House: S
-3 CONC on
 1 RESI
 2 DATE 1892
 2 PLAC Madison, Madison, New York, USA
@@ -15177,12 +15198,7 @@
 4 LONG W75.5121
 2 SOUR @S220@
 3 OBJE @eM2uyuUHSLyJIutzAPx7@
-2 NOTE Age: 13
-1 RESI
-2 DATE 1892
-2 PLAC Madison, Madison, New York
-2 SOUR @S220@
-3 OBJE @eM2uyuUHSLyJIutzAPx7@
+3 _APID 1,3212::3148214
 2 NOTE Age: 13
 1 RESI
 2 DATE 1900
@@ -15195,23 +15211,11 @@
 4 CONC : 1071; Page: 13A; Enumeration District: 0014; FHL microfilm
 4 CONC : 1241071
 3 OBJE @KBecXNqQSnqeQiyjHuhN@
+3 _APID 1,7602::55840803
 2 SOUR @UC4PzlIWRuee1xHHfTuY@
 2 NOTE Age: 20; Marital Status: Single; Relation to Head of House
 3 CONC : Son
 1 RESI
-2 DATE 1900
-2 PLAC Hamilton, Madison, New York, USA
-3 MAP
-4 LATI N42.827
-4 LONG W75.5446
-2 SOUR @MYPTYwXjROCnuswpONVl@
-3 PAGE Year: 1900; Census Place: Hamilton, Madison, New York; Roll
-4 CONC : 1071; Page: 13A; Enumeration District: 0014; FHL microfilm
-4 CONC : 1241071
-3 OBJE @KBecXNqQSnqeQiyjHuhN@
-2 NOTE Age: 20Marital Status: Single; Relation to Head of House: So
-3 CONC n
-1 RESI
 2 DATE 1910
 2 PLAC Hamilton, Madison, New York, USA
 3 MAP
@@ -15222,22 +15226,10 @@
 4 CONC : T624_987; Page: 1A; Enumeration District: 0013; FHL microf
 4 CONC ilm: 1375000
 3 OBJE @wQFn9T48R8e6I5oihuYX@
+3 _APID 1,7884::18180270
 2 SOUR @bnR70JYqQ3acC5Qa7gPX@
 2 NOTE Age: 30; Marital Status: Married; Relation to Head of House
 3 CONC : Head
-1 RESI
-2 DATE 1910
-2 PLAC Hamilton, Madison, New York, USA
-3 MAP
-4 LATI N42.827
-4 LONG W75.5446
-2 SOUR @S222@
-3 PAGE Year: 1910; Census Place: Hamilton, Madison, New York; Roll
-4 CONC : T624_987; Page: 1A; Enumeration District: 0013; FHL microf
-4 CONC ilm: 1375000
-3 OBJE @wQFn9T48R8e6I5oihuYX@
-2 NOTE Age: 30Marital Status: Married; Relation to Head of House: H
-3 CONC ead
 1 RESI
 2 DATE 01 JUN 1915
 2 PLAC Madison, Madison, New York, USA
@@ -15261,20 +15253,9 @@
 3 PAGE Year: 1920; Census Place: Madison, Madison, New York; Roll
 4 CONC : T625_1119; Page: 2B; Enumeration District: 120; Image: 187
 3 OBJE @qHP7k0ZjSK64tb5Tn1kA@
+3 _APID 1,6061::19078792
 2 NOTE Marital Status: Married; Relation to Head of House: Head
 1 RESI
-2 DATE 1920
-2 PLAC Madison, Madison, New York, USA
-3 MAP
-4 LATI N42.899
-4 LONG W75.5121
-2 SOUR @S213@
-3 PAGE Year: 1920; Census Place: Madison, Madison, New York; Roll
-4 CONC : T625_1119; Page: 2B; Enumeration District: 120; Image: 187
-3 OBJE @qHP7k0ZjSK64tb5Tn1kA@
-2 NOTE Age: 40Marital Status: Married; Relation to Head of House: H
-3 CONC ead
-1 RESI
 2 DATE 01 JUN 1925
 2 PLAC Madison, Madison, New York, USA
 3 MAP
@@ -15285,17 +15266,9 @@
 4 CONC n Census Schedules, 1925; Election District: 01; Assembly Di
 4 CONC strict: 01; City: Madison; County: Madison; Page: 11
 3 OBJE @m1G8i0fLQKS8f00uRIke@
+3 _APID 1,2704::20748057
 2 NOTE Relation to Head of House: Head
 1 RESI
-2 DATE 01 JUN 1925
-2 PLAC Madison, Madison, New York, United States
-2 SOUR @IatrsKHUQdmGOYci7sP2@
-3 PAGE New York State Archives; Albany, New York; State Populatio
-4 CONC n Census Schedules, 1925; Election District: 01; Assembly Di
-4 CONC strict: 01; City: Madison; County: Madison; Page: 11
-3 OBJE @m1G8i0fLQKS8f00uRIke@
-2 NOTE Age: 45Relation to Head of House: Head
-1 RESI
 2 DATE 1930
 2 PLAC Madison, Madison, New York, USA
 3 MAP
@@ -15306,18 +15279,9 @@
 4 CONC : 1446; Page: 5A; Enumeration District: 30; Image: 193.0; FH
 4 CONC L microfilm: 2341181
 3 OBJE @kidKJe4CRKGtK6JBhLla@
+3 _APID 1,6224::40867696
 2 NOTE Age: 50; Marital Status: Married; Relation to Head of House
 3 CONC : Head
-1 RESI
-2 DATE 1930
-2 PLAC Madison, Madison, New York
-2 SOUR @S224@
-3 PAGE Year: 1930; Census Place: Madison, Madison, New York; Roll
-4 CONC : 1446; Page: 5A; Enumeration District: 30; Image: 193.0; FH
-4 CONC L microfilm: 2341181
-3 OBJE @kidKJe4CRKGtK6JBhLla@
-2 NOTE Age: 50Marital Status: Married; Relation to Head of House: H
-3 CONC ead
 1 RESI
 2 DATE 1935
 2 PLAC Hamilton, Madison, New York, USA
@@ -15328,13 +15292,7 @@
 3 PAGE Year: 1940; Census Place: Ducor, Tulare, California; Roll: T
 4 CONC 627_357; Page: 3B; Enumeration District: 54-15
 3 OBJE @NEzmFtYER5CjmNb3mg5W@
-1 RESI
-2 DATE 1935
-2 PLAC Hamilton, Madison, New York
-2 SOUR @S221@
-3 PAGE Year: 1940; Census Place: Ducor, Tulare, California; Roll: T
-4 CONC 627_357; Page: 3B; Enumeration District: 54-15
-3 OBJE @NEzmFtYER5CjmNb3mg5W@
+3 _APID 1,2442::72834873
 1 RESI
 2 DATE 01 APR 1940
 2 PLAC Ducor, Tulare, California, USA
@@ -15345,17 +15303,9 @@
 3 PAGE Year: 1940; Census Place: Ducor, Tulare, California; Roll: T
 4 CONC 627_357; Page: 3B; Enumeration District: 54-15
 3 OBJE @NEzmFtYER5CjmNb3mg5W@
+3 _APID 1,2442::72834873
 2 NOTE Age: 60; Marital Status: Married; Relation to Head of House
 3 CONC : Lodger
-1 RESI
-2 DATE 01 APR 1940
-2 PLAC Ducor, Tulare, California, United States
-2 SOUR @S221@
-3 PAGE Year: 1940; Census Place: Ducor, Tulare, California; Roll: T
-4 CONC 627_357; Page: 3B; Enumeration District: 54-15
-3 OBJE @NEzmFtYER5CjmNb3mg5W@
-2 NOTE Age: 60Marital Status: Married; Relation to Head of House: L
-3 CONC odger
 1 RESI
 2 DATE 1942
 2 PLAC Terra Bella, Tulare, California, USA
@@ -15370,8 +15320,8 @@
 3 _APID 1,1002::12976754
 1 BURI
 2 DATE 1948
-2 PLAC Downey District Cemetery, Downey, Los Angeles County, Califo
-3 CONC rnia, USA
+2 PLAC Downey District Cemetery, Downey, Los Angeles, California, U
+3 CONC SA
 2 SOUR @S241@
 3 _APID 1,60525::95913424
 2 SOUR @Q3pDaZrXQzi0fjGmGdhC@
@@ -15420,15 +15370,8 @@
 3 MAP
 4 LATI N40.9026
 4 LONG W74.4071
-2 SOUR @7c8PO7CnR1qikgvyU4fE@
-3 PAGE Date: 1991-02-04
-3 _APID 1,5180::5187013
 2 SOUR @S248@
 3 _APID 1,1788::108935439
-2 SOUR @S255@
-3 _APID 1,2441::13611466
-2 SOUR @S215@
-3 _APID 1,60901::46188361
 2 SOUR @yAMTVEqOTiKCsMjPyXmb@
 3 PAGE Number: 143-24-8499; Issue State: New Jersey; Issue Date: Be
 4 CONC fore 1951
@@ -15438,6 +15381,9 @@
 2 DATE 26 MAR 1952
 2 SOUR @S255@
 3 _APID 1,2441::13611466
+1 RESI
+2 DATE ABT JAN 1991
+2 PLAC 617 Custer Drive, Morristown North, Hamblen, Tennessee, USA
 1 DEAT
 2 DATE 04 FEB 1991
 2 PLAC San Diego, San Diego, California, USA
@@ -15447,19 +15393,10 @@
 2 SOUR @7c8PO7CnR1qikgvyU4fE@
 3 PAGE Date: 1991-02-04
 3 _APID 1,5180::5187013
-2 SOUR @S255@
-3 _APID 1,2441::13611466
-2 SOUR @S215@
-3 _APID 1,60901::46188361
 2 SOUR @yAMTVEqOTiKCsMjPyXmb@
 3 PAGE Number: 143-24-8499; Issue State: New Jersey; Issue Date: Be
 4 CONC fore 1951
 3 _APID 1,3693::43963523
-1 RESI
-2 DATE 1991
-2 PLAC 617 Custer Drive, Morristown, Hamblen, Tennessee, USA
-2 SOUR @S248@
-3 _APID 1,1788::108935439
 1 _XY 1759 315
 0 @BhoSovK4SzeBRpU2NspI@ INDI
 1 REFN fed793b9-5aa0-4033-bbd3-b58ee0283ca1
@@ -16808,13 +16745,19 @@
 1 NOTE _XY 502 315  _UID 944d816b-83cb-461b-9da1-19e47c305f0e
 1 BIRT
 2 DATE ABT 1943
-2 PLAC Florida
+2 PLAC Florida, USA
+3 MAP
+4 LATI N27.75
+4 LONG W82.2833
 2 SOUR @S259@
 3 OBJE @M320@
 3 _APID 1,1506::3323788
 1 RESI
 2 DATE 1945
-2 PLAC Precinct 1, Clay, Florida
+2 PLAC Clay, Florida, USA
+3 MAP
+4 LATI N29.9768
+4 LONG W81.8579
 2 SOUR @S259@
 3 OBJE @M320@
 3 _APID 1,1506::3323788
@@ -23143,6 +23086,7 @@
 3 _APID 1,8837::8577925
 1 SEX F
 1 FAMS @F390@
+1 FAMS @F393@
 0 @vds8vnR8T8WhCKCgvpxP@ INDI
 1 REFN 6b9b88c3-ed1a-489c-a710-d8b218859946
 1 NAME Abraham /Tucker/
@@ -24964,6 +24908,8 @@
 2 SOUR @w6oneCDaTyySwwZ0y6W9@
 3 OBJE @BD0BIMRhTxybOmPeZZ32@
 3 _APID 1,2469::1407776502
+2 SOUR @S241@
+3 _APID 1,60525::142545128
 2 SOUR @yAMTVEqOTiKCsMjPyXmb@
 3 PAGE Number: 061-20-2707; Issue State: New York; Issue Date: Befo
 4 CONC re 1951
@@ -25011,6 +24957,8 @@
 4 CONC strict: 01; City: Madison; County: Madison; Page: 11
 3 OBJE @m1G8i0fLQKS8f00uRIke@
 3 _APID 1,2704::20748058
+2 SOUR @S241@
+3 _APID 1,60525::142545128
 2 SOUR @yAMTVEqOTiKCsMjPyXmb@
 3 PAGE Number: 061-20-2707; Issue State: New York; Issue Date: Befo
 4 CONC re 1951
@@ -25139,10 +25087,19 @@
 2 SOUR @7c8PO7CnR1qikgvyU4fE@
 3 PAGE Date: 1980-02-22
 3 _APID 1,5180::5187121
+2 SOUR @S241@
+3 _APID 1,60525::142545128
 2 SOUR @yAMTVEqOTiKCsMjPyXmb@
 3 PAGE Number: 061-20-2707; Issue State: New York; Issue Date: Befo
 4 CONC re 1951
 3 _APID 1,3693::43964183
+1 BURI
+2 PLAC Palo Alto, Santa Clara, California, USA
+3 MAP
+4 LATI N37.4419
+4 LONG W122.1419
+2 SOUR @S241@
+3 _APID 1,60525::142545128
 1 _XY 6120 1791
 0 @I476@ INDI
 1 NAME Sanford Henry /Winters/
@@ -25875,6 +25832,15 @@
 3 QUAY 1
 1 _XY 8701 421
 0 @F38@ FAM
+0 @F393@ FAM
+1 WIFE @I482@
+1 DIV
+2 DATE 11 JUL 1996
+2 PLAC Brevard, Florida, USA
+3 MAP
+4 LATI N28.2993
+4 LONG W80.701
+2 SOUR @S258@
 0 @PEfzw3T0TFuFQrWgroil@ FAM
 1 REFN 90c12f6f-2e57-45ff-9067-e239614f93c0
 1 HUSB @UejRBXK8SpuTaTtLvcDZ@
@@ -25941,6 +25907,9 @@
 1 REFN 8ed50f68-94e0-4fa6-b6a7-8b87b6f7bb1c
 1 HUSB @UXJZh3qzRpGoxcZaJT45@
 1 WIFE @YtfQnPtFTFSh0taVbKGz@
+0 @F392@ FAM
+1 HUSB @I488@
+1 WIFE @I473@
 0 @F391@ FAM
 1 HUSB @I477@
 1 WIFE @I480@
@@ -25957,6 +25926,18 @@
 1 CHIL @I487@
 2 _FREL Natural
 2 _MREL Natural
+1 MARR
+2 DATE 17 DEC 1966
+2 PLAC New York, USA
+3 MAP
+4 LATI N42.7531
+4 LONG W74.2224
+2 SOUR @S203@
+3 PAGE New York State Department of Health; Albany, NY, USA; New Yo
+4 CONC rk State Marriage Index
+2 SOUR @S203@
+3 PAGE New York State Department of Health; Albany, NY, USA; New Yo
+4 CONC rk State Marriage Index
 0 @F383@ FAM
 1 HUSB @I468@
 1 WIFE @I485@
@@ -28108,7 +28089,7 @@
 4 LONG W1.4611
 2 SOUR @DmaIWlgWS4Kg0oXBWhrJ@
 3 QUAY 1
-0 @qoiFARVHSJOlOdzOUsT9@ REPO
+0 @R1@ REPO
 1 NAME Ancestry.com
 1 ADDR http://www.Ancestry.com
 1 EMAIL
@@ -28124,11 +28105,6 @@
 2 CONC 3 USA
 1 EMAIL https://books.google.com/
 1 PHON +1-650-253-0000
-0 @qoiFARVHSJOlOdzOUsT9@ REPO
-1 NAME Ancestry.com
-1 ADDR
-1 EMAIL
-1 PHON
 0 @R8@ REPO
 1 NAME Facebook
 1 ADDR
@@ -28136,65 +28112,65 @@
 1 PHON
 0 @9jhPyuNjT7Crw4hkg6Gj@ SOUR
 1 REFN 4ce69e52-b9c8-415f-b515-4218aa9b9a33
-1 REPO @qoiFARVHSJOlOdzOUsT9@
+1 REPO @R1@
 1 TITL 1790 United States Federal Census
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2010
 0 @bHQuWN4FTpusbsry9cjZ@ SOUR
 1 REFN 497405fa-18f8-48c8-af87-53a2f83acab9
-1 REPO @qoiFARVHSJOlOdzOUsT9@
+1 REPO @R1@
 1 TITL 1800 United States Federal Census
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations Inc; Location: Provo, UT, USA; Date
 2 CONC : 2010
 0 @YTSxHe1ZQvOS6MgNDuq4@ SOUR
 1 REFN c191bdde-9d7d-431c-b928-2a457b6705ff
-1 REPO @qoiFARVHSJOlOdzOUsT9@
+1 REPO @R1@
 1 TITL 1810 United States Federal Census
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2010
 0 @8DCmzn75S8CoxNQmoyL8@ SOUR
 1 REFN 085b6f0d-b30d-433d-b9fc-f87e58e5e79c
-1 REPO @qoiFARVHSJOlOdzOUsT9@
+1 REPO @R1@
 1 TITL 1820 United States Federal Census
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2010
 0 @IXkilGMfSsmx954YFeZF@ SOUR
 1 REFN b0596a50-ba5f-4d76-b738-6362905314ee
-1 REPO @qoiFARVHSJOlOdzOUsT9@
+1 REPO @R1@
 1 TITL 1830 United States Federal Census
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2010
 0 @S229@ SOUR
-1 REPO @qoiFARVHSJOlOdzOUsT9@
+1 REPO @R1@
 1 TITL 1840 United States Federal Census
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2010
 0 @S212@ SOUR
-1 REPO @qoiFARVHSJOlOdzOUsT9@
+1 REPO @R1@
 1 TITL 1850 United States Federal Census
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2009
 0 @S209@ SOUR
-1 REPO @qoiFARVHSJOlOdzOUsT9@
+1 REPO @R1@
 1 TITL 1860 United States Federal Census
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2009
 0 @S231@ SOUR
-1 REPO @qoiFARVHSJOlOdzOUsT9@
+1 REPO @R1@
 1 TITL 1870 United States Federal Census
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2009
 0 @S217@ SOUR
-1 REPO @qoiFARVHSJOlOdzOUsT9@
+1 REPO @R1@
 1 TITL 1880 United States Federal Census
 1 AUTH Ancestry.com and The Church of Jesus Christ of Latter-day Sa
 2 CONC ints
@@ -28202,19 +28178,19 @@
 2 CONC : 2010
 0 @MYPTYwXjROCnuswpONVl@ SOUR
 1 REFN baba99eb-75be-4bf8-a28e-e76a9ddca763
-1 REPO @qoiFARVHSJOlOdzOUsT9@
+1 REPO @R1@
 1 TITL 1900 United States Federal Census
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations Inc; Location: Provo, UT, USA; Date
 2 CONC : 2004
 0 @S222@ SOUR
-1 REPO @qoiFARVHSJOlOdzOUsT9@
+1 REPO @R1@
 1 TITL 1910 United States Federal Census
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations Inc; Location: Lehi, UT, USA; Date
 2 CONC : 2006
 0 @S261@ SOUR
-1 REPO @qoiFARVHSJOlOdzOUsT9@
+1 REPO @R1@
 1 TITL 1911 Census of Canada
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations Inc; Location: Provo, UT, USA; Date
@@ -28228,26 +28204,26 @@
 2 CONC 0.<br><br>Images are reproduced with the permission of Libra
 2 CONC ry and Archives Canada.
 0 @S213@ SOUR
-1 REPO @qoiFARVHSJOlOdzOUsT9@
+1 REPO @R1@
 1 TITL 1920 United States Federal Census
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2010
 0 @S224@ SOUR
-1 REPO @qoiFARVHSJOlOdzOUsT9@
+1 REPO @R1@
 1 TITL 1930 United States Federal Census
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations Inc; Location: Provo, UT, USA; Date
 2 CONC : 2002
 0 @S221@ SOUR
-1 REPO @qoiFARVHSJOlOdzOUsT9@
+1 REPO @R1@
 1 TITL 1940 United States Federal Census
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2012
 0 @xCp8VgpUTy6BVuoyJk5I@ SOUR
 1 REFN 22073ee0-886d-48f6-81ab-be4e7f29a686
-1 REPO @qoiFARVHSJOlOdzOUsT9@
+1 REPO @R1@
 1 TITL American Genealogical-Biographical Index (AGBI)
 1 AUTH Godfrey Memorial Library, comp.
 1 PUBL Ancestry.com Operations Inc; Location: Provo, UT, USA; Date
@@ -28264,7 +28240,7 @@
 1 PUBL http://www.familysearch.org/
 0 @8mC6kbR7T2mY5Hq8QWJl@ SOUR
 1 REFN 5df06745-408d-48d3-b5eb-079a2bb0145e
-1 REPO @qoiFARVHSJOlOdzOUsT9@
+1 REPO @R1@
 1 TITL Ancestry Family Trees
 1 PUBL Online publication - Provo, UT, USA: Ancestry.com.  Origina
 2 CONC l data:  Family Tree files submitted by Ancestry members.
@@ -28360,14 +28336,14 @@
 2 CONT Father's Surname: [blank]<br />
 0 @lTOLhUUjTXCI5ptRz7k9@ SOUR
 1 REFN aac10b94-7aea-46ce-a4e9-2129d577c130
-1 REPO @qoiFARVHSJOlOdzOUsT9@
+1 REPO @R1@
 1 TITL California, Death Index, 1905-1939
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2013
 0 @7c8PO7CnR1qikgvyU4fE@ SOUR
 1 REFN 93b2319d-2a56-4411-8006-7b9eb7fd4313
-1 REPO @qoiFARVHSJOlOdzOUsT9@
+1 REPO @R1@
 1 TITL California, Death Index, 1940-1997
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations Inc; Location: Provo, UT, USA; Date
@@ -28617,7 +28593,7 @@
 1 PUBL E. L. Freeman & Sons; Location: Providence, RI, USA; Date: 1
 2 CONC 901
 0 @S191@ SOUR
-1 REPO @qoiFARVHSJOlOdzOUsT9@
+1 REPO @R1@
 1 TITL England & Wales, Prerogative Court of Canterbury Wills, 1384
 2 CONC -1858
 1 AUTH Ancestry.com
@@ -28625,7 +28601,7 @@
 2 CONC e: 2013
 0 @3y9bKxGuT62fnO88lLx3@ SOUR
 1 REFN 22c670b2-098a-4bea-9f49-b2371ae5091e
-1 REPO @qoiFARVHSJOlOdzOUsT9@
+1 REPO @R1@
 1 TITL England, Select Marriages, 1538–1973
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
@@ -28646,28 +28622,28 @@
 1 PUBL Facebook
 0 @N6EpiaNTS4y7ivSXES5Z@ SOUR
 1 REFN 31e32435-fe51-402a-86a6-9896dd6c8a9e
-1 REPO @qoiFARVHSJOlOdzOUsT9@
+1 REPO @R1@
 1 TITL Family Data Collection - Births
 1 AUTH Edmund West, comp.
 1 PUBL Ancestry.com Operations Inc; Location: Provo, UT, USA; Date
 2 CONC : 2001
 0 @ZtAQnlXATEaLcqcHzjiT@ SOUR
 1 REFN 253dc466-dffd-49ba-84f7-181905ab1cfb
-1 REPO @qoiFARVHSJOlOdzOUsT9@
+1 REPO @R1@
 1 TITL Family Data Collection - Deaths
 1 AUTH Edmund West, comp.
 1 PUBL Ancestry.com Operations Inc; Location: Provo, UT, USA; Date
 2 CONC : 2001
 0 @nfGl7WzrRE2Hc60cvLD2@ SOUR
 1 REFN 6ff6e5e6-4d45-4efc-a544-700d33066232
-1 REPO @qoiFARVHSJOlOdzOUsT9@
+1 REPO @R1@
 1 TITL Family Data Collection - Individual Records
 1 AUTH Edmund West, comp.
 1 PUBL Ancestry.com Operations Inc; Location: Provo, UT, USA; Date
 2 CONC : 2000
 0 @S190@ SOUR
 1 REFN 9c718ac5-29e8-4f49-8317-c44a4bf3ccb6
-1 REPO @qoiFARVHSJOlOdzOUsT9@
+1 REPO @R1@
 1 TITL Family Data Collection - Marriages
 1 AUTH Edmund West, comp.
 1 PUBL Ancestry.com Operations Inc
@@ -28725,13 +28701,13 @@
 2 CONC n Lebanon, Lebanon Township Road 42, has Bell telephone]<b
 2 CONC r />
 0 @S252@ SOUR
-1 REPO @qoiFARVHSJOlOdzOUsT9@
+1 REPO @R1@
 1 TITL Florida Death Index, 1877-1998
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations Inc; Location: Provo, UT, USA; Date
 2 CONC : 2004
 0 @S258@ SOUR
-1 REPO @qoiFARVHSJOlOdzOUsT9@
+1 REPO @R1@
 1 TITL Florida, Divorce Index, 1927-2001
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations Inc; Location: Provo, UT, USA; Date
@@ -28739,8 +28715,9 @@
 1 NOTE Florida Department of Health. <i>Florida Divorce Index, 1927
 2 CONC -2001</i>. Jacksonville, FL, USA: Florida Department of Heal
 2 CONC th.
+2 CONT
 0 @S259@ SOUR
-1 REPO @qoiFARVHSJOlOdzOUsT9@
+1 REPO @R1@
 1 TITL Florida, State Census, 1867-1945
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations Inc; Location: Provo, UT, USA; Date
@@ -28829,7 +28806,7 @@
 1 PUBL http://www.gencircles.com/users/akurtz/1/
 0 @LztHRDFXQgiQwmbMjrel@ SOUR
 1 REFN a9d3a510-12e9-4f55-93a0-2f03886d204d
-1 REPO @qoiFARVHSJOlOdzOUsT9@
+1 REPO @R1@
 1 TITL London, England, Church of England Baptisms, Marriages and B
 2 CONC urials, 1538-1812
 1 AUTH Ancestry.com
@@ -28874,7 +28851,7 @@
 1 PUBL http://mariah.stonemarche.org/genealgy.htm
 0 @Bb0c2s8OQS6YwTO8yvjx@ SOUR
 1 REFN ebe8eb21-284d-4b82-99c3-bb0da6f369c5
-1 REPO @qoiFARVHSJOlOdzOUsT9@
+1 REPO @R1@
 1 TITL Massachusetts, Compiled Census and Census Substitutes Index
 2 CONC , 1790-1890
 1 AUTH Ancestry.com
@@ -28882,20 +28859,20 @@
 2 CONC : 1999
 0 @SPYR4jsKQdaECvtJFhH2@ SOUR
 1 REFN 43f19f2b-44ca-49a1-9fb1-59c0f53c5509
-1 REPO @qoiFARVHSJOlOdzOUsT9@
+1 REPO @R1@
 1 TITL Massachusetts, Marriages, 1633-1850
 1 AUTH Dodd, Jordan, Liahona Research, comp
 1 PUBL Ancestry.com Operations Inc; Location: Provo, UT, USA; Date
 2 CONC : 2005
 0 @qvxtZQDHRi6i6C3eRswB@ SOUR
 1 REFN 0bc65238-1bde-43b3-94cb-5fdf1317286e
-1 REPO @qoiFARVHSJOlOdzOUsT9@
+1 REPO @R1@
 1 TITL Massachusetts, Town and Vital Records, 1620-1988
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2011
 0 @S244@ SOUR
-1 REPO @qoiFARVHSJOlOdzOUsT9@
+1 REPO @R1@
 1 TITL Massachusetts, Wills and Probate Records, 1635-1991
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
@@ -28917,7 +28894,7 @@
 1 PUBL http://www.maxson2000.net/html/Ancestor.html
 0 @NdlE0sG3SwaoEKznoTPD@ SOUR
 1 REFN 5a557d53-8733-4d5c-a613-1d270478a9e4
-1 REPO @qoiFARVHSJOlOdzOUsT9@
+1 REPO @R1@
 1 TITL Mayflower Births and Deaths, Vol. 1 and 2
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
@@ -28934,7 +28911,7 @@
 1 PUBL http://www.gencircles.com/users/jimmckane/1/
 0 @lIFoQFKzTHCalwRjxIxf@ SOUR
 1 REFN 6c1004ee-fc94-4f26-a3ab-7ad8b2e407f6
-1 REPO @qoiFARVHSJOlOdzOUsT9@
+1 REPO @R1@
 1 TITL Millennium File
 1 AUTH Heritage Consulting
 1 PUBL Ancestry.com Operations Inc; Location: Provo, UT, USA; Date
@@ -29202,14 +29179,14 @@
 1 TITL NEHGR
 1 PUBL NEHGS
 0 @S246@ SOUR
-1 REPO @qoiFARVHSJOlOdzOUsT9@
+1 REPO @R1@
 1 TITL Nevada, Marriage Index, 1956-2005
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2007
 0 @wUzo8nJ5TOiqkGFxDvd2@ SOUR
 1 REFN 0e84a777-f1d6-4712-8236-ea82ab95a26b
-1 REPO @qoiFARVHSJOlOdzOUsT9@
+1 REPO @R1@
 1 TITL New England, The Great Migration and The Great Migration Beg
 2 CONC ins, 1620-1635
 1 AUTH Ancestry.com
@@ -29222,25 +29199,25 @@
 1 PUBL Stone & Stewart; Location: Philadelphia; Date: 1866
 0 @jhFWuYOLTOyqDl41nGnI@ SOUR
 1 REFN 6b916dfb-7a05-4e91-853d-fae0e5af928b
-1 REPO @qoiFARVHSJOlOdzOUsT9@
+1 REPO @R1@
 1 TITL New York City, Marriages, 1600s-1800s
 1 AUTH Genealogical Research Library, comp
 1 PUBL Ancestry.com Operations Inc; Location: Provo, UT, USA; Date
 2 CONC : 2005
 0 @S233@ SOUR
-1 REPO @qoiFARVHSJOlOdzOUsT9@
+1 REPO @R1@
 1 TITL New York State, Birth Index, 1881-1942
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Lehi, UT, USA; Date
 2 CONC : 2018
 0 @S203@ SOUR
-1 REPO @qoiFARVHSJOlOdzOUsT9@
+1 REPO @R1@
 1 TITL New York State, Marriage Index, 1881-1967
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Lehi, UT, USA; Date
 2 CONC : 2017
 0 @S256@ SOUR
-1 REPO @qoiFARVHSJOlOdzOUsT9@
+1 REPO @R1@
 1 TITL New York, Abstracts of World War I Military Service, 1917-19
 2 CONC 19
 1 AUTH Ancestry.com
@@ -29249,78 +29226,79 @@
 1 NOTE <i>New York State Abstracts of World War I Military Service
 2 CONC , 1917–1919.</i> Adjutant General's Office.  Series B0808. N
 2 CONC ew York State Archives, Albany, New York.
+2 CONT
 0 @KyoznhM0TeGr02Vo5Zee@ SOUR
 1 REFN fd09d140-097f-4439-b3ae-be4122ccf9b0
-1 REPO @qoiFARVHSJOlOdzOUsT9@
+1 REPO @R1@
 1 TITL New York, Civil War Muster Roll Abstracts, 1861-1900
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2011
 0 @S208@ SOUR
-1 REPO @qoiFARVHSJOlOdzOUsT9@
+1 REPO @R1@
 1 TITL New York, County Marriage Records, 1847-1849, 1907-1936
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Lehi, UT, USA; Date
 2 CONC : 2016
 0 @S214@ SOUR
-1 REPO @qoiFARVHSJOlOdzOUsT9@
+1 REPO @R1@
 1 TITL New York, Death Index, 1880-1956
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Lehi, UT, USA; Date
 2 CONC : 2017
 0 @S211@ SOUR
-1 REPO @qoiFARVHSJOlOdzOUsT9@
+1 REPO @R1@
 1 TITL New York, State Census, 1855
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2013
 0 @S226@ SOUR
-1 REPO @qoiFARVHSJOlOdzOUsT9@
+1 REPO @R1@
 1 TITL New York, State Census, 1865
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2014
 0 @W3ek4ErgQoOvxC5sOB5w@ SOUR
 1 REFN 1a79d6a8-3bbc-4a3a-873a-658be5235720
-1 REPO @qoiFARVHSJOlOdzOUsT9@
+1 REPO @R1@
 1 TITL New York, State Census, 1875
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2013
 0 @S220@ SOUR
-1 REPO @qoiFARVHSJOlOdzOUsT9@
+1 REPO @R1@
 1 TITL New York, State Census, 1892
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2012
 0 @S242@ SOUR
-1 REPO @qoiFARVHSJOlOdzOUsT9@
+1 REPO @R1@
 1 TITL New York, State Census, 1905
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2014
 0 @S216@ SOUR
-1 REPO @qoiFARVHSJOlOdzOUsT9@
+1 REPO @R1@
 1 TITL New York, State Census, 1915
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2012
 0 @IatrsKHUQdmGOYci7sP2@ SOUR
 1 REFN 428513b9-a4fb-4577-a3de-664f3c852ab7
-1 REPO @qoiFARVHSJOlOdzOUsT9@
+1 REPO @R1@
 1 TITL New York, State Census, 1925
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2012
 0 @omMXaVgrQNKvPl1yRe9j@ SOUR
 1 REFN aa3c3034-accf-4b7d-ac1e-3fed2b9d8c9d
-1 REPO @qoiFARVHSJOlOdzOUsT9@
+1 REPO @R1@
 1 TITL New York, Wills and Probate Records, 1659-1999
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2015
 0 @S249@ SOUR
-1 REPO @qoiFARVHSJOlOdzOUsT9@
+1 REPO @R1@
 1 TITL New York, WWII Enlisted Men Cards, 1940-1945
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
@@ -29332,13 +29310,13 @@
 2 CONC y Museum and Veterans Research Center, Saratoga Springs, Ne
 2 CONC w York.</p>
 0 @S236@ SOUR
-1 REPO @qoiFARVHSJOlOdzOUsT9@
+1 REPO @R1@
 1 TITL North America, Family Histories, 1500-2000
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2016
 0 @S260@ SOUR
-1 REPO @qoiFARVHSJOlOdzOUsT9@
+1 REPO @R1@
 1 TITL Nova Scotia, Canada, Births, 1836-1910
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
@@ -29358,6 +29336,7 @@
 2 CONC torical Vital Statistics</i>. Nova Scotia Archives, Halifax
 2 CONC , Nova Scotia, Canada. (https://www.novascotiagenealogy.com/
 2 CONC Births.aspx)</li></ul>
+2 CONT
 0 @hwkTsF9DS0OrCHYJus4h@ SOUR
 1 REFN 771746ed-4dc9-47e0-8b7c-cadf92241a21
 1 TITL NY Census, 1865, Madison Co
@@ -29544,7 +29523,7 @@
 1 PUBL http://www.familysearch.org/
 0 @3PtTlRYqTkOm5KNlPfu9@ SOUR
 1 REFN fc3f5fed-f361-47a1-a007-3d9e2dae92a0
-1 REPO @qoiFARVHSJOlOdzOUsT9@
+1 REPO @R1@
 1 TITL Pennsylvania and New Jersey, Church and Town Records, 1708-1
 2 CONC 985
 1 AUTH Ancestry.com
@@ -29552,7 +29531,7 @@
 2 CONC e: 2011
 0 @C5ZVcMpnRoGlrD8fscgC@ SOUR
 1 REFN 04ac1870-075f-4ca3-9b9f-f77917663da6
-1 REPO @qoiFARVHSJOlOdzOUsT9@
+1 REPO @R1@
 1 TITL Pennsylvania, Death Certificates, 1906-1944
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
@@ -30108,7 +30087,7 @@
 2 CONC , USA.; Date: 1921–
 0 @9wMdFE3iTDe2CrzzBY3l@ SOUR
 1 REFN 575b4323-084b-4c45-a8f3-616262b8f876
-1 REPO @qoiFARVHSJOlOdzOUsT9@
+1 REPO @R1@
 1 TITL Rhode Island, Vital Extracts, 1636-1899
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
@@ -30125,7 +30104,7 @@
 1 PUBL http://altenburgs.com/gene/mosher.htm
 0 @deXrM73wSEiQKlXQZ7E9@ SOUR
 1 REFN 6c4c428b-fef1-434a-9b6b-6dcd8e523e35
-1 REPO @qoiFARVHSJOlOdzOUsT9@
+1 REPO @R1@
 1 TITL Saratoga County, New York, Cemetery Index, 1795-1971
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations Inc; Location: Provo, UT, USA; Date
@@ -30139,7 +30118,7 @@
 1 AUTH US Social Security Administration
 0 @S182@ SOUR
 1 REFN 7cd19ef2-b540-4c23-a361-7d17959a8c23
-1 REPO @qoiFARVHSJOlOdzOUsT9@
+1 REPO @R1@
 1 TITL Somerset, England, Church of England Baptisms, Marriages, an
 2 CONC d Burials, 1531-1812
 1 AUTH Ancestry.com
@@ -30151,39 +30130,39 @@
 1 PUBL Ancestry World Tree at Ancestry.com
 0 @S186@ SOUR
 1 REFN 68a2fd66-d946-4f84-a103-75ca2697cf8a
-1 REPO @qoiFARVHSJOlOdzOUsT9@
+1 REPO @R1@
 1 TITL U.S. and Canada, Passenger and Immigration Lists Index, 1500
 2 CONC s-1900s
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc
 0 @XkYfWXOxTRycLRJJyxNy@ SOUR
 1 REFN b74dbd0b-fce4-4e2a-bfa6-97c2be7eb18a
-1 REPO @qoiFARVHSJOlOdzOUsT9@
+1 REPO @R1@
 1 TITL U.S. and International Marriage Records, 1560-1900
 1 AUTH Yates Publishing
 1 PUBL Ancestry.com Operations Inc; Location: Provo, UT, USA; Date
 2 CONC : 2004
 0 @S228@ SOUR
-1 REPO @qoiFARVHSJOlOdzOUsT9@
+1 REPO @R1@
 1 TITL U.S. Census Non-Population Schedules, New York, 1850-1880
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2010
 0 @w6oneCDaTyySwwZ0y6W9@ SOUR
 1 REFN 5d54e457-073a-4357-a268-cf94b3040fc8
-1 REPO @qoiFARVHSJOlOdzOUsT9@
+1 REPO @R1@
 1 TITL U.S. City Directories, 1821-1989
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2011
 0 @S262@ SOUR
-1 REPO @qoiFARVHSJOlOdzOUsT9@
+1 REPO @R1@
 1 TITL U.S. Phone and Address Directories, 1993-2002
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations Inc; Location: Provo, UT, USA; Date
 2 CONC : 2005
 0 @S248@ SOUR
-1 REPO @qoiFARVHSJOlOdzOUsT9@
+1 REPO @R1@
 1 TITL U.S. Public Records Index, 1950-1993, Volume 1
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
@@ -30191,8 +30170,9 @@
 1 NOTE <i>Voter Registration Lists, Public Record Filings, Historic
 2 CONC al Residential Records, and Other Household Database Listing
 2 CONC s</i>.
+2 CONT
 0 @S247@ SOUR
-1 REPO @qoiFARVHSJOlOdzOUsT9@
+1 REPO @R1@
 1 TITL U.S. Public Records Index, 1950-1993, Volume 2
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
@@ -30201,7 +30181,7 @@
 2 CONC al Residential Records, and Other Household Database Listing
 2 CONC s</i>.
 0 @S255@ SOUR
-1 REPO @qoiFARVHSJOlOdzOUsT9@
+1 REPO @R1@
 1 TITL U.S., Department of Veterans Affairs BIRLS Death File, 1850-
 2 CONC 2010
 1 AUTH Ancestry.com
@@ -30217,7 +30197,7 @@
 2 CONT
 0 @Sko8LWF1QV2cOpKJp5Bn@ SOUR
 1 REFN cefe4781-e1a3-4df8-a1b2-e4f4d65deeb0
-1 REPO @qoiFARVHSJOlOdzOUsT9@
+1 REPO @R1@
 1 TITL U.S., Indexed County Land Ownership Maps, 1860-1918
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
@@ -30231,20 +30211,20 @@
 1 TEXT Torry, Clarence A. <i>New England Marriages Prior to 1700</i
 2 CONC >. Baltimore, MD, USA: Genealogical Publishing Co., 2004.
 0 @S251@ SOUR
-1 REPO @qoiFARVHSJOlOdzOUsT9@
+1 REPO @R1@
 1 TITL U.S., School Yearbooks, 1880-2012
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2010
 0 @S227@ SOUR
-1 REPO @qoiFARVHSJOlOdzOUsT9@
+1 REPO @R1@
 1 TITL U.S., Selected Federal Census Non-Population Schedules, 1850
 2 CONC -1880
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2010
 0 @S215@ SOUR
-1 REPO @qoiFARVHSJOlOdzOUsT9@
+1 REPO @R1@
 1 TITL U.S., Social Security Applications and Claims Index, 1936-20
 2 CONC 07
 1 AUTH Ancestry.com
@@ -30252,19 +30232,19 @@
 2 CONC e: 2015
 0 @yAMTVEqOTiKCsMjPyXmb@ SOUR
 1 REFN 40a4aae3-b159-4e5f-9e5d-bbe31d0390cd
-1 REPO @qoiFARVHSJOlOdzOUsT9@
+1 REPO @R1@
 1 TITL U.S., Social Security Death Index, 1935-Current
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations Inc; Location: Provo, UT, USA; Date
 2 CONC : 2011
 0 @S225@ SOUR
-1 REPO @qoiFARVHSJOlOdzOUsT9@
+1 REPO @R1@
 1 TITL U.S., World War I Draft Registration Cards, 1917-1918
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations Inc; Location: Provo, UT, USA; Date
 2 CONC : 2005
 0 @S250@ SOUR
-1 REPO @qoiFARVHSJOlOdzOUsT9@
+1 REPO @R1@
 1 TITL U.S., World War II Army Enlistment Records, 1938-1946
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
@@ -30278,14 +30258,14 @@
 2 CONC rk, Maryland, U.S.A.
 0 @6xrtF8bMQCypXIIPxFw2@ SOUR
 1 REFN 28633d1f-d958-4d1a-b559-496dc9a4605c
-1 REPO @qoiFARVHSJOlOdzOUsT9@
+1 REPO @R1@
 1 TITL U.S., World War II Draft Registration Cards, 1942
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2010
 0 @S188@ SOUR
 1 REFN 4a985836-6d96-47fb-892a-20313fd7db4a
-1 REPO @qoiFARVHSJOlOdzOUsT9@
+1 REPO @R1@
 1 TITL UK, Extracted Probate Records, 1269-1975
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations Inc
@@ -31259,7 +31239,7 @@
 1 PUBL http://members.tripod.com/wainwrights/wainwright.html
 0 @Q3pDaZrXQzi0fjGmGdhC@ SOUR
 1 REFN 0d3030f3-183f-4643-8ec1-f21addc1ba4b
-1 REPO @qoiFARVHSJOlOdzOUsT9@
+1 REPO @R1@
 1 TITL Web: California, Find A Grave Index, 1775-2012
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
@@ -31267,7 +31247,7 @@
 1 TEXT <i>Find A Grave</i>. Find A Grave. http://www.findagrave.com
 2 CONC /cgi-bin/fg.cgi: accessed 24 January 2013.
 0 @S257@ SOUR
-1 REPO @qoiFARVHSJOlOdzOUsT9@
+1 REPO @R1@
 1 TITL Web: California, Find A Grave Index, 1775-2012
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
@@ -31276,35 +31256,36 @@
 2 CONC /cgi-bin/fg.cgi: accessed 24 January 2013.
 0 @BumWgFr4TiOR71Xtm9Lo@ SOUR
 1 REFN 790a0304-0e52-408f-9e23-86e5b0f1dbc6
-1 REPO @qoiFARVHSJOlOdzOUsT9@
+1 REPO @R1@
 1 TITL Web: Netherlands, GenealogieOnline Trees Index, 1000-Current
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2014
 0 @GkjP7MzzQPeWUNGeYMpx@ SOUR
 1 REFN db8154f6-57aa-44df-add8-8f77b240fee4
-1 REPO @qoiFARVHSJOlOdzOUsT9@
+1 REPO @R1@
 1 TITL Web: New York, Find A Grave Index, 1660-2012
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2012
 0 @S253@ SOUR
-1 REPO @qoiFARVHSJOlOdzOUsT9@
+1 REPO @R1@
 1 TITL Web: Obituary Daily Times Index, 1995-Current
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2012
 1 NOTE <i>The Obituary Daily Times</i>. The Obituary Daily Times. h
 2 CONC ttp://www.rootsweb.ancestry.com/~obituary.
+2 CONT
 0 @SJ3pwzLJTQKGeMK2U5cB@ SOUR
 1 REFN 70bfa706-b52c-481e-8417-336824d1842b
-1 REPO @qoiFARVHSJOlOdzOUsT9@
+1 REPO @R1@
 1 TITL Web: Pennsylvania, Find A Grave Index, 1682-2012
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2012
 0 @S254@ SOUR
-1 REPO @qoiFARVHSJOlOdzOUsT9@
+1 REPO @R1@
 1 TITL Web: Washington County, Maryland, Obituary Index, 1790-2007
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
@@ -31317,13 +31298,13 @@
 1 AUTH Frederic Denison
 1 PUBL J. A. & R. A. Reid; Location: Providence, RI; Date: 1878
 0 @S237@ SOUR
-1 REPO @qoiFARVHSJOlOdzOUsT9@
+1 REPO @R1@
 1 TITL Wisconsin, Births and Christenings Index, 1801-1928
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2011
 0 @S235@ SOUR
-1 REPO @qoiFARVHSJOlOdzOUsT9@
+1 REPO @R1@
 1 TITL Wisconsin, State Censuses, 1855-1905
 1 AUTH Ancestry.com.
 1 PUBL Ancestry.com Operations Inc; Location: Provo, UT, USA; Date
@@ -33822,4 +33803,11 @@
 2 FORM jpg
 2 TITL 1880 United States Federal Census
 2 _TEXT Year: 1880; Census Place: Norwich, Chenango, New York
+0 @M327@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher Media\Ne
+2 CONC w York State, Birth Index, 1881-1942(1).jpg
+2 FORM jpg
+2 TITL New York State, Birth Index, 1881-1942
+2 _TEXT New York State Department of Health; Albany, NY, USA; New Yo
+3 CONC rk State Birth Index
 0 TRLR
