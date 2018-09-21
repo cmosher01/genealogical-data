@@ -13,9 +13,9 @@
 4 CONT Boston, MA 02109
 3 PHON (617) 227-6681
 1 DEST FTM
-1 FILE Mosher_2018-09-21-15-52-54.ftm.ged
+1 FILE Mosher_2018-09-21-17-19-44.ftm.ged
 1 DATE 21 SEP 2018
-2 TIME 15:54:11
+2 TIME 17:21:24
 0 @Umy2qBWIRUiwVSS6Hcn4@ SUBM
 1 NAME Christopher Alan Mosher
 2 EMAIL cmosher01@@gmail.com
@@ -687,8 +687,8 @@
 0 @I468@ INDI
 1 REFN 28aeeb4b-88d2-422f-8945-1964a9cd425a
 1 NAME Clayton Dean /Benedict/
-1 NAME Clayton Dean /Benedict/
 2 SOUR @S246@
+3 _APID 1,1100::6801291
 1 SEX M
 1 FAMC @F361@
 1 FAMS @F383@
@@ -15039,21 +15039,13 @@
 4 CONC 627_357; Page: 3B; Enumeration District: 54-15
 3 OBJE @NEzmFtYER5CjmNb3mg5W@
 3 _APID 1,2442::72834873
-2 SOUR @8mC6kbR7T2mY5Hq8QWJl@
-3 PAGE Ancestry Family Tree
-3 DATA
-4 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=62861
-5 CONC &pid=192
-2 SOUR @8mC6kbR7T2mY5Hq8QWJl@
-3 PAGE Ancestry Family Tree
-3 DATA
-4 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=60921
-5 CONC 378&pid=28
-2 SOUR @e0JzwtlyTGSchbClCKPA@
 2 SOUR @7c8PO7CnR1qikgvyU4fE@
 3 PAGE Date: 1948-11-28
 3 _APID 1,5180::5186998
-2 SOUR @bnR70JYqQ3acC5Qa7gPX@
+2 SOUR @S203@
+3 PAGE New York State Department of Health; Albany, NY, USA; New Yo
+4 CONC rk State Marriage Index
+3 OBJE @M328@
 2 SOUR @S220@
 3 OBJE @eM2uyuUHSLyJIutzAPx7@
 3 _APID 1,3212::3148214
@@ -15085,13 +15077,13 @@
 4 CONC : 603155
 3 OBJE @1wWYPGzWRAqLTjoHIOk2@
 3 _APID 1,1002::12976754
-2 SOUR @UC4PzlIWRuee1xHHfTuY@
 2 SOUR @Q3pDaZrXQzi0fjGmGdhC@
 3 _APID 1,70500::6308735
 2 SOUR @S257@
 1 SEX M
 1 FAMC @YIqlnp8mREuD4RW6nexn@
 1 FAMS @vI58j6lGTpKJxvAR6gKB@
+1 FAMS @F394@
 1 OBJE @deyiKuokQVekpdnqS6LJ@
 1 NOTE _XY 227 149
 2 CONT
@@ -15136,13 +15128,11 @@
 4 CONC 627_357; Page: 3B; Enumeration District: 54-15
 3 OBJE @NEzmFtYER5CjmNb3mg5W@
 3 _APID 1,2442::72834873
-2 SOUR @e0JzwtlyTGSchbClCKPA@
 2 SOUR @2Af7yh49QtWxtUgijDek@
 3 QUAY 2
 2 SOUR @7c8PO7CnR1qikgvyU4fE@
 3 PAGE Date: 1948-11-28
 3 _APID 1,5180::5186998
-2 SOUR @bnR70JYqQ3acC5Qa7gPX@
 2 SOUR @S220@
 3 OBJE @eM2uyuUHSLyJIutzAPx7@
 3 _APID 1,3212::3148214
@@ -15171,7 +15161,6 @@
 4 CONC : 603155
 3 OBJE @1wWYPGzWRAqLTjoHIOk2@
 3 _APID 1,1002::12976754
-2 SOUR @UC4PzlIWRuee1xHHfTuY@
 2 SOUR @Q3pDaZrXQzi0fjGmGdhC@
 3 _APID 1,70500::6308735
 2 SOUR @S257@
@@ -15188,7 +15177,7 @@
 4 CONC n District: 068; Image: 0519
 3 OBJE @j9qnR3OISnGHoXrvNfSI@
 3 _APID 1,6742::3314659
-2 NOTE Age: 11m; Marital Status: Single; Relation to Head of House
+2 NOTE Age: 11; Marital Status: Single; Relation to Head of House
 3 CONC : Son
 1 RESI
 2 DATE 1892
@@ -15212,7 +15201,6 @@
 4 CONC : 1241071
 3 OBJE @KBecXNqQSnqeQiyjHuhN@
 3 _APID 1,7602::55840803
-2 SOUR @UC4PzlIWRuee1xHHfTuY@
 2 NOTE Age: 20; Marital Status: Single; Relation to Head of House
 3 CONC : Son
 1 RESI
@@ -15227,7 +15215,6 @@
 4 CONC ilm: 1375000
 3 OBJE @wQFn9T48R8e6I5oihuYX@
 3 _APID 1,7884::18180270
-2 SOUR @bnR70JYqQ3acC5Qa7gPX@
 2 NOTE Age: 30; Marital Status: Married; Relation to Head of House
 3 CONC : Head
 1 RESI
@@ -15254,7 +15241,8 @@
 4 CONC : T625_1119; Page: 2B; Enumeration District: 120; Image: 187
 3 OBJE @qHP7k0ZjSK64tb5Tn1kA@
 3 _APID 1,6061::19078792
-2 NOTE Marital Status: Married; Relation to Head of House: Head
+2 NOTE Age: 40; Marital Status: Married; Relation to Head of House
+3 CONC : Head
 1 RESI
 2 DATE 01 JUN 1925
 2 PLAC Madison, Madison, New York, USA
@@ -15267,7 +15255,7 @@
 4 CONC strict: 01; City: Madison; County: Madison; Page: 11
 3 OBJE @m1G8i0fLQKS8f00uRIke@
 3 _APID 1,2704::20748057
-2 NOTE Relation to Head of House: Head
+2 NOTE Age: 45; Relation to Head of House: Head
 1 RESI
 2 DATE 1930
 2 PLAC Madison, Madison, New York, USA
@@ -15333,7 +15321,6 @@
 3 MAP
 4 LATI N34.1847
 4 LONG W118.262
-2 SOUR @e0JzwtlyTGSchbClCKPA@
 2 SOUR @2Af7yh49QtWxtUgijDek@
 3 QUAY 1
 2 SOUR @7c8PO7CnR1qikgvyU4fE@
@@ -25841,6 +25828,18 @@
 4 LATI N28.2993
 4 LONG W80.701
 2 SOUR @S258@
+0 @F394@ FAM
+1 HUSB @XiIS8Y13Q9it0577Fs2n@
+1 MARR
+2 DATE 25 SEP 1906
+2 PLAC Hamilton, New York, USA
+3 MAP
+4 LATI N43.6552
+4 LONG W74.5012
+2 SOUR @S203@
+3 PAGE New York State Department of Health; Albany, NY, USA; New Yo
+4 CONC rk State Marriage Index
+3 OBJE @M328@
 0 @PEfzw3T0TFuFQrWgroil@ FAM
 1 REFN 90c12f6f-2e57-45ff-9067-e239614f93c0
 1 HUSB @UejRBXK8SpuTaTtLvcDZ@
@@ -28255,11 +28254,6 @@
 1 TITL Ancestry of Megan Montgomery
 1 AUTH Montgomery, Megan
 1 PUBL http://www.gencircles.com/users/megan/1/
-0 @e0JzwtlyTGSchbClCKPA@ SOUR
-1 REFN b290e98b-1d4b-4b32-862e-0d6eca613cf0
-1 TITL Ancestry World Tree
-1 AUTH Ancestry.com
-1 PUBL http://www.ancestry.com
 0 @nUFZlAguSRKKOvboliQS@ SOUR
 1 REFN f38e0d40-6297-43e6-a96d-a3e9b38ef9d1
 1 TITL Atlas of Madison County, NY
@@ -28916,12 +28910,6 @@
 1 AUTH Heritage Consulting
 1 PUBL Ancestry.com Operations Inc; Location: Provo, UT, USA; Date
 2 CONC : 2003
-0 @bnR70JYqQ3acC5Qa7gPX@ SOUR
-1 REFN 75a5b4c0-7deb-4018-a807-ff76800fc7ad
-1 TITL Misc. Flandreaus, various sources, living removed
-1 AUTH Gunn, Peter
-1 PUBL http://worldconnect.rootsweb.com/cgi-bin/igm.cgi?db=flandrx-
-2 CONC seeker
 0 @dXVUNeBoQRaYX26Gu4V1@ SOUR
 1 REFN f50802ae-79aa-4d41-b32d-6b15923b9205
 1 TITL Mosher Luther Genealogy [copies]
@@ -30605,12 +30593,6 @@
 2 CONT <tr><td>&nbsp;</td><td>Mahala</td><td>f</td><td>40</td><td>k
 2 CONC eeping house</td><td>PA</td><td>NY</td><td>-</td></tr>
 2 CONT </table>
-0 @UC4PzlIWRuee1xHHfTuY@ SOUR
-1 REFN 61e81eb6-875f-4c3a-a193-d835dabf9a1e
-1 TITL US Census, 1900, NJ, Somerset, Bedminster
-1 AUTH US Census Bureau
-1 PUBL p. 15A
-1 TEXT [line] 29 Ann Campfield Sept 1817
 0 @uJ17iAUwRsqB1TrzIvZt@ SOUR
 1 REFN 4a36fd87-e785-406b-aa2a-4d3d16736f02
 1 TITL US Census, 1900, NY, Madison, Hamilton Village, District 14
@@ -33810,4 +33792,11 @@
 2 TITL New York State, Birth Index, 1881-1942
 2 _TEXT New York State Department of Health; Albany, NY, USA; New Yo
 3 CONC rk State Birth Index
+0 @M328@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher Media\Ne
+2 CONC w York State, Marriage Index, 1881-1967(4).jpg
+2 FORM jpg
+2 TITL New York State, Marriage Index, 1881-1967
+2 _TEXT New York State Department of Health; Albany, NY, USA; New Yo
+3 CONC rk State Marriage Index
 0 TRLR
