@@ -13,9 +13,9 @@
 4 CONT Boston, MA 02109
 3 PHON (617) 227-6681
 1 DEST FTM
-1 FILE Mosher_2018-09-24-01-16-16.ftm.ged
+1 FILE Mosher_2018-09-24-01-56-16.ftm.ged
 1 DATE 24 SEP 2018
-2 TIME 01:18:10
+2 TIME 01:57:43
 0 @Umy2qBWIRUiwVSS6Hcn4@ SUBM
 1 NAME Christopher Alan Mosher
 2 EMAIL cmosher01@@gmail.com
@@ -3017,7 +3017,9 @@
 4 CONC 6 1997 1998 1999 2000 2001 2002
 3 _APID 1,7339::292413083
 2 SOUR @S248@
+3 PAGE Gail B Benedict
 2 SOUR @S248@
+3 PAGE Gail C Benedict
 2 SOUR @S247@
 3 _APID 1,1732::263241928
 1 SEX F
@@ -3025,17 +3027,20 @@
 1 BIRT
 2 DATE 27 MAR 1954
 2 SOUR @S248@
+3 PAGE Gail B Benedict
 3 _APID 1,1788::201616605
 2 SOUR @S247@
 3 _APID 1,1732::263241928
 1 BIRT
 2 DATE 27 APR 1954
 2 SOUR @S248@
+3 PAGE Gail C Benedict
 3 _APID 1,1788::136639767
 1 RESI
 2 DATE 1980
 2 PLAC 67 Madison Street, Cortland, Cortland, New York, USA
 2 SOUR @S248@
+3 PAGE Gail B Benedict
 3 _APID 1,1788::201616605
 1 RESI
 2 DATE 1993
@@ -3044,6 +3049,7 @@
 4 LATI N25.6151
 4 LONG W80.3106
 2 SOUR @S248@
+3 PAGE Gail C Benedict
 3 _APID 1,1788::136639767
 1 RESI
 2 DATE 1993
@@ -14392,7 +14398,9 @@
 1 REFN f8ef5748-381c-4731-ab37-4fc039530a60
 1 NAME Helene Jean /Mosher/
 2 SOUR @S247@
+3 PAGE entry 1
 2 SOUR @S247@
+3 PAGE entry 2
 2 SOUR @S241@
 3 _APID 1,60525::71350566
 2 SOUR @S215@
@@ -14416,7 +14424,9 @@
 4 LATI N40.9026
 4 LONG W74.4071
 2 SOUR @S247@
+3 PAGE entry 1
 2 SOUR @S247@
+3 PAGE entry 2
 2 SOUR @S215@
 3 _APID 1,60901::32083652
 2 SOUR @yAMTVEqOTiKCsMjPyXmb@
@@ -16302,7 +16312,7 @@
 3 _APID 1,3693::55794070
 1 _XY 6546 1791
 0 @I184@ INDI
-1 REFN d9d8e1b5-f5cf-4a32-81da-676700fd6046
+1 REFN d8196a78-70b5-4957-b951-4a6e3bc8dbc5
 1 NAME Lydia /Mosher/
 2 SOUR @xCp8VgpUTy6BVuoyJk5I@
 3 _APID 1,3599::756608
@@ -16487,7 +16497,7 @@
 2 NOTE may have been Saratoga town
 1 _XY 7468 959
 0 @I187@ INDI
-1 REFN ee0733c4-4bfb-4fd3-8b86-ef04cb2494ed
+1 REFN 8e0f5aa6-e402-4ed2-b670-60fca809a84c
 1 NAME Mary wife of Daniel /Mosher/
 2 SOUR @CNCZKGpeSrKJ6BUTT9Hu@
 3 PAGE p. 6
@@ -24707,6 +24717,10 @@
 2 SOUR @7c8PO7CnR1qikgvyU4fE@
 3 PAGE Date: 1980-02-22
 3 _APID 1,5180::5187121
+2 SOUR @S203@
+3 PAGE New York State Department of Health; Albany, NY, USA; New Yo
+4 CONC rk State Marriage Index
+3 OBJE @M329@
 2 SOUR @S216@
 3 PAGE New York State Archives; Albany, New York; State Populatio
 4 CONC n Census Schedules, 1915; Election District: 01; Assembly Di
@@ -25622,10 +25636,10 @@
 1 HUSB @XiIS8Y13Q9it0577Fs2n@
 1 MARR
 2 DATE 25 SEP 1906
-2 PLAC Hamilton, New York, USA
+2 PLAC Hamilton, Madison, New York, USA
 3 MAP
-4 LATI N43.6552
-4 LONG W74.5012
+4 LATI N42.827
+4 LONG W75.5446
 2 SOUR @S203@
 3 PAGE New York State Department of Health; Albany, NY, USA; New Yo
 4 CONC rk State Marriage Index
@@ -25737,7 +25751,9 @@
 4 LATI N39.5296
 4 LONG W119.8138
 2 SOUR @S246@
+3 _APID 1,1100::6801291
 2 SOUR @S246@
+3 _APID 1,1100::2470216
 0 @F361@ FAM
 1 HUSB @I465@
 1 WIFE @gAHqqaSRTeeawmG9dmnd@
@@ -26828,6 +26844,16 @@
 1 CHIL @I452@
 2 _FREL Natural
 2 _MREL Natural
+1 MARR
+2 DATE 25 SEP 1906
+2 PLAC Hamilton, Madison, New York, USA
+3 MAP
+4 LATI N42.827
+4 LONG W75.5446
+2 SOUR @S203@
+3 PAGE New York State Department of Health; Albany, NY, USA; New Yo
+4 CONC rk State Marriage Index
+3 OBJE @M329@
 0 @bDNq0ruKQTShQyuD99jm@ FAM
 1 REFN 279bc1d6-1f5f-481d-9f44-953d88dc1f96
 1 HUSB @BhoSovK4SzeBRpU2NspI@
@@ -33466,6 +33492,13 @@
 0 @M328@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher Media\Ne
 2 CONC w York State, Marriage Index, 1881-1967(4).jpg
+2 FORM jpg
+2 TITL New York State, Marriage Index, 1881-1967
+2 _TEXT New York State Department of Health; Albany, NY, USA; New Yo
+3 CONC rk State Marriage Index
+0 @M329@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher Media\Ne
+2 CONC w York State, Marriage Index, 1881-1967(5).jpg
 2 FORM jpg
 2 TITL New York State, Marriage Index, 1881-1967
 2 _TEXT New York State Department of Health; Albany, NY, USA; New Yo
