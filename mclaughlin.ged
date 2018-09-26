@@ -13,9 +13,9 @@
 4 CONT Boston, MA 02109
 3 PHON (617) 227-6681
 1 DEST FTM
-1 FILE McLaughlin_2018-09-26-22-13-19.ftm.ged
+1 FILE McLaughlin_2018-09-26-22-46-43.ftm.ged
 1 DATE 26 SEP 2018
-2 TIME 22:14:39
+2 TIME 22:47:56
 0 @Umy2qBWIRUiwVSS6Hcn4@ SUBM
 1 NAME Christopher Alan Mosher
 2 EMAIL cmosher01@@gmail.com
@@ -1700,7 +1700,7 @@
 3 _APID 1,7667::48588926
 2 NOTE Age: 25
 1 RESI
-2 DATE FROM APR 1861 TO 24 SEP 1904
+2 DATE APR 1861
 2 PLAC Hornby, Steuben, New York, USA
 3 MAP
 4 LATI N42.2442
@@ -2311,6 +2311,7 @@
 2 SOUR @S74@
 3 _APID 1,60525::115614101
 1 BURI
+2 DATE ABT 12 DEC 1905
 2 PLAC Saint Mary's Cemetery, South Corning, Steuben, New York, USA
 2 SOUR @S74@
 3 _APID 1,60525::115614101
@@ -5682,13 +5683,6 @@
 3 _APID 1,1965::134980
 2 SOUR @WKqZjySeQOOKWIEBXTms@
 3 _APID 1,1555::2544371
-1 EVEN
-2 TYPE military
-2 DATE FROM 09 SEP 1864 TO 13 JUN 1865
-2 PLAC New York, USA
-3 MAP
-4 LATI N42.7531
-4 LONG W74.2224
 2 NOTE From Ancestry.com ("New York: Report of the Adjutant-General
 3 CONC ", publ. 1894-1906). Enlisted Hornby, NY, Private (age 34) i
 3 CONC n Company M, New York 15th Engineers Regiment. "mustered ou
@@ -5803,6 +5797,7 @@
 2 SOUR @S74@
 3 _APID 1,60525::115613824
 1 BURI
+2 DATE ABT 23 JUL 1911
 2 PLAC Saint Mary's Cemetery, South Corning, Steuben, New York, USA
 2 SOUR @S74@
 3 _APID 1,60525::115613824
@@ -6161,17 +6156,6 @@
 3 _APID 1,60525::49771550
 2 SOUR @e0k10AjRSSyDnTOmeiMT@
 3 _APID 1,70572::7339457
-1 RESI
-2 PLAC Hornby, Steuben, New York, USA
-3 MAP
-4 LATI N42.2442
-4 LONG W77.0444
-2 SOUR @uIedA0ssTcqaxDRxQYPP@
-3 PAGE Year: 1870; Census Place: Hornby, Steuben, New York; Roll: M
-4 CONC 593_1095; Page: 218A; Image: 446; Family History Library Fil
-4 CONC m: 552594
-3 OBJE @lRGm7wHXSuWcFcZLYnH3@
-3 _APID 1,7163::32338610
 1 _XY 186951 4565
 0 @jCNm1aUqSHahyJEMWMbJ@ INDI
 1 REFN 69c294df-1b2b-4c33-a016-6fd2cc809cd0
@@ -7223,14 +7207,6 @@
 2 SOUR @0VVQ8i0xTuG0p9aveWFA@
 3 QUAY 1
 2 NOTE Lillian's Hornby gives 1845
-1 RESI
-2 DATE FROM 1857 TO 1861
-2 PLAC McLaughlin Farm, Dix, Schuyler, New York, USA
-2 NOTE [Best guess based on 1874 Pomeroy Altas and 1860/70/80 US Ce
-3 CONC nsus records:
-3 CONT Vanzandt Hollow Road.]
-3 CONT
-3 CONT Dates are approximate. Need to check land records.
 1 CENS
 2 DATE 01 JUN 1860
 2 PLAC Dix, Schuyler, New York, USA
@@ -7252,6 +7228,9 @@
 3 OBJE @0Jm5zbBUQzqsp5EcwsWK@
 3 _APID 1,7667::48615955
 2 NOTE Age: 29
+3 CONT Best guess based on 1874 Pomeroy Altas and 1860/70/80 US Cen
+3 CONC sus records:
+3 CONT Vanzandt Hollow Road.
 1 EVEN
 2 TYPE bought land
 2 DATE 02 APR 1861
@@ -7270,16 +7249,8 @@
 2 OBJE @tilKFHpZQr6OMA3PAjUd@
 2 NOTE Lillian's Hornby says he bought land from Platt family (bu
 3 CONC t doesn't give date)
-1 EVEN
-2 TYPE military
-2 DATE 1864
-2 SOUR @YVCzURS0TByygttCrScz@
-3 PAGE New York State Archives, Cultural Education Center, Albany
-4 CONC , New York; New York Civil War Muster Roll Abstracts, 1861-1
-4 CONC 900; Archive Collection #: 13775-83; Box #: 959; Roll #: 615
-3 OBJE @WuACYNTLRRWXGjuKEhzB@
-3 _APID 1,1965::134986
-1 EVEN
+1 EVEN 15th New York Volunteer Engineers Regiment, "New York Sapper
+2 CONC s and Miners," Company M.
 2 TYPE military
 2 DATE 09 SEP 1864
 2 PLAC Hornby, Steuben, New York, USA
@@ -7291,19 +7262,15 @@
 4 CONC 4; Page: 3; Enumeration District: 224
 3 OBJE @vJg1QqBUSsyzMDcWKiUn@
 3 _APID 1,8667::489089
+2 SOUR @YVCzURS0TByygttCrScz@
+3 PAGE New York State Archives, Cultural Education Center, Albany
+4 CONC , New York; New York Civil War Muster Roll Abstracts, 1861-1
+4 CONC 900; Archive Collection #: 13775-83; Box #: 959; Roll #: 615
+3 OBJE @WuACYNTLRRWXGjuKEhzB@
+3 _APID 1,1965::134986
+2 SOUR @oiuf7b0kRzieZspC8tdz@
 2 SOUR @WKqZjySeQOOKWIEBXTms@
 3 _APID 1,1555::158611
-1 EVEN
-2 TYPE military
-2 DATE FROM 09 SEP 1864 TO 13 JUN 1865
-2 PLAC New York, USA
-3 MAP
-4 LATI N42.7531
-4 LONG W74.2224
-2 SOUR @oiuf7b0kRzieZspC8tdz@
-3 QUAY 3
-2 NOTE 15th New York Volunteer Engineers Regiment, "New York Sapper
-3 CONC s and Miners," Company M.
 1 CENS
 2 DATE 01 JUN 1865
 2 PLAC Hornby, Steuben, New York, USA
@@ -7456,6 +7423,14 @@
 3 _APID 1,7602::56735659
 2 NOTE Age: 79; Marital Status: Married; Relation to Head of House
 3 CONC : Head
+1 OCCU farmer
+2 DATE FEB 1902
+2 PLAC Hornby, Steuben, New York, USA
+3 MAP
+4 LATI N42.2442
+4 LONG W77.0444
+2 SOUR @DV0l4qMxTVKhOaNIHHkg@
+3 QUAY 1
 1 DEAT
 2 DATE 21 FEB 1902
 2 PLAC Hornby, Steuben, New York, USA
@@ -7490,13 +7465,6 @@
 2 SOUR @9yp8Aw6oSNyuoFYY5rdY@
 3 QUAY 2
 2 NOTE Date is assumed based on funeral date.
-1 OCCU farmer
-2 PLAC Hornby, Steuben, New York, USA
-3 MAP
-4 LATI N42.2442
-4 LONG W77.0444
-2 SOUR @DV0l4qMxTVKhOaNIHHkg@
-3 QUAY 1
 1 _XY 185307 4353
 0 @0B4WRq7ATy2levCzNn1m@ INDI
 1 REFN 96ddaf2a-9d54-4e78-9abf-0ecb204c63ae
