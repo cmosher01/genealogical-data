@@ -6,16 +6,16 @@
 1 COPR Copyright © 1998, Christopher Alan Mosher, Shelton, CT, USA.
 1 SUBM @Umy2qBWIRUiwVSS6Hcn4@
 1 SOUR FTM
-2 VERS 23.1.0.1480
+2 VERS 23.2.0.1540
 2 NAME Family Tree Maker for Windows
 2 CORP The Software MacKiev Company
 3 ADDR 30 Union Wharf
 4 CONT Boston, MA 02109
 3 PHON (617) 227-6681
 1 DEST FTM
-1 FILE McLaughlin_2018-09-27-23-50-22.ftm.ged
-1 DATE 27 SEP 2018
-2 TIME 23:52:04
+1 FILE McLaughlin_2018-09-30-02-46-42.ftm.ged
+1 DATE 30 SEP 2018
+2 TIME 02:49:15
 0 @Umy2qBWIRUiwVSS6Hcn4@ SUBM
 1 NAME Christopher Alan Mosher
 2 EMAIL cmosher01@@gmail.com
@@ -1529,11 +1529,39 @@
 0 @sHX2JkGFTbio0WX0BCZ4@ INDI
 1 REFN 128aec5d-7e29-48a6-9e25-7a872f06e7f1
 1 NAME George /Dougherty/
-2 SOUR @aQtBtpnBSFupH9I8qZ9L@
-3 PAGE 9
-3 QUAY 2
+2 SOUR @S80@
+3 PAGE <bibl> <author>St. Mary’s of the Lake Church (Watkins Glen
+4 CONC , New York, USA)</author>, <title level="u">Marriages 1849-1
+4 CONC 869</title> (manuscript copy), unnumbered pages, unnumbere
+4 CONC d entries in chronological order, <citedRange>1 Jan 1861, Wi
+4 CONC lliam McLaughlin and Margaret Doherty</citedRange>; digita
+4 CONC l images, <title level="m">FamilySearch</title> (<ref target
+4 CONC ="https://www.familysearch.org/ark:/61903/3:1:3Q9M-CS7W-YK62
+4 CONC "/> : 29 Sep 2018), FHL microfilm 1,432,401, DGS 7857668, im
+4 CONC age 194 of 1067. </bibl>
+3 QUAY 3
 3 DATA
-4 TEXT Gerogii Doherty
+4 TEXT <text xml:lang="la">
+5 CONT <head>
+5 CONT <lb/>William M<hi rend="sup">c</hi>Laughlin
+5 CONT <lb/>et Margaret Doherty
+5 CONT <lb/><date when="1861-01-01">Januarii 1, 1861</date>.
+5 CONT </head>
+5 CONT <body>
+5 CONT <lb/>Omissis tribus denuntiationibus ex facultate a
+5 CONT <lb/>Cancellario acce<subst><del>t</del><add>p</add></subst>
+5 CONC ta Confunti in Matrimonio
+5 CONT <lb/>Gulielimum filium Jacobi M<hi rend="sup">c</hi>Laughli
+5 CONC n et Honorae
+5 CONT <lb/>Doherty et Margarettam filiam G<add>e</add>orgii Dohert
+5 CONC y
+5 CONT <lb/>Testos Juere Joanes Brown et Elizabeth M<hi rend="sup">
+5 CONC c</hi>Laughlin.
+5 CONT <lb/>J. M<hi rend="sup">c</hi>Kenna.
+5 CONT </body>
+5 CONT </text>
+3 OBJE @M133@
+3 _LINK https://www.familysearch.org/ark:/61903/3:1:3Q9M-CS7W-YK62
 1 SEX M
 1 FAMS @zTEYeSn6TVaUmhtsfWf1@
 1 BIRT
@@ -1552,11 +1580,39 @@
 4 CONC 03859
 3 OBJE @0Jm5zbBUQzqsp5EcwsWK@
 3 _APID 1,7667::48615956
-2 SOUR @aQtBtpnBSFupH9I8qZ9L@
-3 PAGE 9
-3 QUAY 2
+2 SOUR @S80@
+3 PAGE <bibl> <author>St. Mary’s of the Lake Church (Watkins Glen
+4 CONC , New York, USA)</author>, <title level="u">Marriages 1849-1
+4 CONC 869</title> (manuscript copy), unnumbered pages, unnumbere
+4 CONC d entries in chronological order, <citedRange>1 Jan 1861, Wi
+4 CONC lliam McLaughlin and Margaret Doherty</citedRange>; digita
+4 CONC l images, <title level="m">FamilySearch</title> (<ref target
+4 CONC ="https://www.familysearch.org/ark:/61903/3:1:3Q9M-CS7W-YK62
+4 CONC "/> : 29 Sep 2018), FHL microfilm 1,432,401, DGS 7857668, im
+4 CONC age 194 of 1067. </bibl>
+3 QUAY 3
 3 DATA
-4 TEXT Honorae Doherty
+4 TEXT <text xml:lang="la">
+5 CONT <head>
+5 CONT <lb/>William M<hi rend="sup">c</hi>Laughlin
+5 CONT <lb/>et Margaret Doherty
+5 CONT <lb/><date when="1861-01-01">Januarii 1, 1861</date>.
+5 CONT </head>
+5 CONT <body>
+5 CONT <lb/>Omissis tribus denuntiationibus ex facultate a
+5 CONT <lb/>Cancellario acce<subst><del>t</del><add>p</add></subst>
+5 CONC ta Confunti in Matrimonio
+5 CONT <lb/>Gulielimum filium Jacobi M<hi rend="sup">c</hi>Laughli
+5 CONC n et Honorae
+5 CONT <lb/>Doherty et Margarettam filiam G<add>e</add>orgii Dohert
+5 CONC y
+5 CONT <lb/>Testos Juere Joanes Brown et Elizabeth M<hi rend="sup">
+5 CONC c</hi>Laughlin.
+5 CONT <lb/>J. M<hi rend="sup">c</hi>Kenna.
+5 CONT </body>
+5 CONT </text>
+3 OBJE @M133@
+3 _LINK https://www.familysearch.org/ark:/61903/3:1:3Q9M-CS7W-YK62
 2 SOUR @S74@
 3 _APID 1,60525::115594525
 1 SEX F
@@ -3918,6 +3974,18 @@
 4 CONC strict: 01; City: Hornby; County: Steuben; Page: 13
 3 OBJE @3MR1hiqbQrSFmSc9bUqe@
 3 _APID 1,2704::25133687
+2 SOUR @S79@
+3 PAGE <bibl> <author>St. Mary’s Church (Corning, New York, USA)</a
+4 CONC uthor>, <title level="u">Record, Baptisms 1849 thru July 189
+4 CONC 6</title> (manuscript copy), <citedRange>p. 156, Char Laughl
+4 CONC in, 19 Nov 1861</citedRange>; digital images, <title level="
+4 CONC m">FamilySearch</title> (<ref target="https://www.familysear
+4 CONC ch.org/ark:/61903/3:1:3Q9M-CS7W-P9KZ-Y"/> : 29 Sep 2018), FH
+4 CONC L microfilm 1,432,400, DGS 7857667, image 426 of 2666. </bib
+4 CONC l>
+3 QUAY 4
+3 OBJE @M123@
+3 _LINK https://www.familysearch.org/ark:/61903/3:1:3Q9M-CS7W-P9KZ-Y
 2 SOUR @S74@
 3 _APID 1,60525::120825058
 2 NOTE Hornby, Steuben is assumed. "Descendants of James McLaughlin
@@ -3926,6 +3994,21 @@
 3 CONC ed. Also, if assume US Census 1900 for next younger brothe
 3 CONC r James gives correct birth of Dec 1862, then Charles can'
 3 CONC t be born Nov. 1862; latest would be Mar. 1862.
+1 BAPM
+2 DATE 19 NOV 1861
+2 PLAC St. Mary’s Church, Corning, Steuben, New York, USA
+2 SOUR @S79@
+3 PAGE <bibl> <author>St. Mary’s Church (Corning, New York, USA)</a
+4 CONC uthor>, <title level="u">Record, Baptisms 1849 thru July 189
+4 CONC 6</title> (manuscript copy), <citedRange>p. 156, Char Laughl
+4 CONC in, 19 Nov 1861</citedRange>; digital images, <title level="
+4 CONC m">FamilySearch</title> (<ref target="https://www.familysear
+4 CONC ch.org/ark:/61903/3:1:3Q9M-CS7W-P9KZ-Y"/> : 29 Sep 2018), FH
+4 CONC L microfilm 1,432,400, DGS 7857667, image 426 of 2666. </bib
+4 CONC l>
+3 QUAY 4
+3 OBJE @M123@
+3 _LINK https://www.familysearch.org/ark:/61903/3:1:3Q9M-CS7W-P9KZ-Y
 1 RESI
 2 DATE 1865
 2 PLAC Hornby, Steuben, New York, USA
@@ -4143,7 +4226,7 @@
 1 FAMC @k3eINVMISsa7AVKKO8hC@
 1 FAMS @kMxryj1FTuOKPryLWQgq@
 1 BIRT
-2 DATE 01 SEP 1867
+2 DATE 30 AUG 1867
 2 PLAC Hornby, Steuben, New York, USA
 3 MAP
 4 LATI N42.2442
@@ -4206,9 +4289,36 @@
 4 CONC strict: 01; City: Hornby; County: Steuben; Page: 15
 3 OBJE @V3TzvO9PRzuaD5XiMpCN@
 3 _APID 1,2704::25133750
+2 SOUR @S79@
+3 PAGE <bibl> <author>St. Mary’s Church (Corning, New York, USA)</a
+4 CONC uthor>, <title level="u">Record, Baptisms 1849 thru July 189
+4 CONC 6</title> (manuscript copy), <citedRange>p. 229, Danielis Mc
+4 CONC Loughlin, 01 Nov 1867</citedRange>; digital images, <title l
+4 CONC evel="m">FamilySearch</title> (<ref target="https://www.fami
+4 CONC lysearch.org/ark:/61903/3:1:3Q9M-CS7W-P9VZ-Q"/> : 29 Sep 201
+4 CONC 8), FHL microfilm 1,432,400, DGS 7857667, image 462 of 2666
+4 CONC . </bibl>
+3 QUAY 4
+3 OBJE @M127@
+3 _LINK https://www.familysearch.org/ark:/61903/3:1:3Q9M-CS7W-P9VZ-Q
 2 SOUR @S74@
 3 _APID 1,60525::115594237
 2 NOTE Place is assumed.
+1 BAPM
+2 DATE 01 NOV 1867
+2 PLAC St. Mary’s Church, Corning, Steuben, New York, USA
+2 SOUR @S79@
+3 PAGE <bibl> <author>St. Mary’s Church (Corning, New York, USA)</a
+4 CONC uthor>, <title level="u">Record, Baptisms 1849 thru July 189
+4 CONC 6</title> (manuscript copy), <citedRange>p. 229, Danielis Mc
+4 CONC Loughlin, 01 Nov 1867</citedRange>; digital images, <title l
+4 CONC evel="m">FamilySearch</title> (<ref target="https://www.fami
+4 CONC lysearch.org/ark:/61903/3:1:3Q9M-CS7W-P9VZ-Q"/> : 29 Sep 201
+4 CONC 8), FHL microfilm 1,432,400, DGS 7857667, image 462 of 2666
+4 CONC . </bibl>
+3 QUAY 4
+3 OBJE @M127@
+3 _LINK https://www.familysearch.org/ark:/61903/3:1:3Q9M-CS7W-P9VZ-Q
 1 RESI
 2 DATE 1870
 2 PLAC Hornby, Steuben, New York, USA
@@ -4887,6 +4997,18 @@
 4 CONC strict: 01; City: Corning; County: Steuben; Page: 38
 3 OBJE @jPXJZ1yrQ4elj6uz8XaK@
 3 _APID 1,2704::25180593
+2 SOUR @S79@
+3 PAGE <bibl> <author>St. Mary’s Church (Corning, New York, USA)</a
+4 CONC uthor>, <title level="u">Record, Baptisms 1849 thru July 189
+4 CONC 6</title> (manuscript copy), <citedRange>p. 279, Franciscu
+4 CONC s McLaughlin, 20 Sep 1873</citedRange>; digital images, <tit
+4 CONC le level="m">FamilySearch</title> (<ref target="https://www.
+4 CONC familysearch.org/ark:/61903/3:1:3Q9M-CS7W-P9FH-8"/> : 29 Se
+4 CONC p 2018), FHL microfilm 1,432,400, DGS 7857667, image 487 o
+4 CONC f 2666. </bibl>
+3 QUAY 4
+3 OBJE @M131@
+3 _LINK https://www.familysearch.org/ark:/61903/3:1:3Q9M-CS7W-P9FH-8
 2 SOUR @1yLmCieuQLi5Xq8U1nQe@
 3 PAGE Registration State: New York; Registration County: Steuben
 4 CONC ; Roll: 1818989; Draft Board: 1
@@ -4895,6 +5017,21 @@
 2 SOUR @yOQGoBwbQleCuCLCShLI@
 3 QUAY 1
 2 NOTE Place is assumed.
+1 BAPM
+2 DATE 20 SEP 1873
+2 PLAC St. Mary’s Church, Corning, Steuben, New York, USA
+2 SOUR @S79@
+3 PAGE <bibl> <author>St. Mary’s Church (Corning, New York, USA)</a
+4 CONC uthor>, <title level="u">Record, Baptisms 1849 thru July 189
+4 CONC 6</title> (manuscript copy), <citedRange>p. 279, Franciscu
+4 CONC s McLaughlin, 20 Sep 1873</citedRange>; digital images, <tit
+4 CONC le level="m">FamilySearch</title> (<ref target="https://www.
+4 CONC familysearch.org/ark:/61903/3:1:3Q9M-CS7W-P9FH-8"/> : 29 Se
+4 CONC p 2018), FHL microfilm 1,432,400, DGS 7857667, image 487 o
+4 CONC f 2666. </bibl>
+3 QUAY 4
+3 OBJE @M131@
+3 _LINK https://www.familysearch.org/ark:/61903/3:1:3Q9M-CS7W-P9FH-8
 1 RESI
 2 DATE 01 JUN 1875
 2 PLAC Hornby, Steuben, New York, USA
@@ -5082,7 +5219,7 @@
 1 FAMC @k3eINVMISsa7AVKKO8hC@
 1 FAMS @lPFEIcFIQjOLL1bygRuV@
 1 BIRT
-2 DATE 08 MAY 1864
+2 DATE 06 MAY 1864
 2 PLAC Hornby, Steuben, New York, USA
 3 MAP
 4 LATI N42.2442
@@ -5129,11 +5266,38 @@
 4 CONC strict: 01; City: Hornby; County: Steuben; Page: 15
 3 OBJE @V3TzvO9PRzuaD5XiMpCN@
 3 _APID 1,2704::25133758
+2 SOUR @S79@
+3 PAGE <bibl> <author>St. Mary’s Church (Corning, New York, USA)</a
+4 CONC uthor>, <title level="u">Record, Baptisms 1849 thru July 189
+4 CONC 6</title> (manuscript copy), <citedRange>p. 191, Georgius Mc
+4 CONC Laughlin, 04 Jun 1864</citedRange>; digital images, <title l
+4 CONC evel="m">FamilySearch</title> (<ref target="https://www.fami
+4 CONC lysearch.org/ark:/61903/3:1:3Q9M-CS7W-P9K8-C"/> : 29 Sep 201
+4 CONC 8), FHL microfilm 1,432,400, DGS 7857667, image 443 of 2666
+4 CONC . </bibl>
+3 QUAY 4
+3 OBJE @M125@
+3 _LINK https://www.familysearch.org/ark:/61903/3:1:3Q9M-CS7W-P9K8-C
 2 SOUR @S74@
 3 _APID 1,60525::115594494
 2 NOTE Place is assumed. Death index gives May 8, 1863. 1900 US Cen
 3 CONC sus, Hornby, gives May 1864. 1865 NY Census, Hornby, has hi
 3 CONC s aged 1 year.
+1 BAPM
+2 DATE 04 JUN 1864
+2 PLAC St. Mary’s Church, Corning, Steuben, New York, USA
+2 SOUR @S79@
+3 PAGE <bibl> <author>St. Mary’s Church (Corning, New York, USA)</a
+4 CONC uthor>, <title level="u">Record, Baptisms 1849 thru July 189
+4 CONC 6</title> (manuscript copy), <citedRange>p. 191, Georgius Mc
+4 CONC Laughlin, 04 Jun 1864</citedRange>; digital images, <title l
+4 CONC evel="m">FamilySearch</title> (<ref target="https://www.fami
+4 CONC lysearch.org/ark:/61903/3:1:3Q9M-CS7W-P9K8-C"/> : 29 Sep 201
+4 CONC 8), FHL microfilm 1,432,400, DGS 7857667, image 443 of 2666
+4 CONC . </bibl>
+3 QUAY 4
+3 OBJE @M125@
+3 _LINK https://www.familysearch.org/ark:/61903/3:1:3Q9M-CS7W-P9K8-C
 1 RESI
 2 DATE 1865
 2 PLAC Hornby, Steuben, New York, USA
@@ -5279,7 +5443,7 @@
 1 SEX F
 1 FAMC @k3eINVMISsa7AVKKO8hC@
 1 BIRT
-2 DATE ABT 1872
+2 DATE 05 MAR 1872
 2 PLAC Hornby, Steuben, New York, USA
 3 MAP
 4 LATI N42.2442
@@ -5295,8 +5459,35 @@
 2 SOUR @7tJxBxhGR46VSVFwI4mZ@
 3 OBJE @3Si1qPd6SrW0Al0ZgiVA@
 3 _APID 1,7250::1382758434
+2 SOUR @S79@
+3 PAGE <bibl> <author>St. Mary’s Church (Corning, New York, USA)</a
+4 CONC uthor>, <title level="u">Record, Baptisms 1849 thru July 189
+4 CONC 6</title> (manuscript copy), <citedRange>p. 267, Hanna McLau
+4 CONC ghlin, 18 Mar 1872</citedRange>; digital images, <title leve
+4 CONC l="m">FamilySearch</title> (<ref target="https://www.familys
+4 CONC earch.org/ark:/61903/3:1:3Q9M-CS7W-P9FD-R"/> : 29 Sep 2018)
+4 CONC , FHL microfilm 1,432,400, DGS 7857667, image 481 of 2666. <
+4 CONC /bibl>
+3 QUAY 4
+3 OBJE @M130@
+3 _LINK https://www.familysearch.org/ark:/61903/3:1:3Q9M-CS7W-P9FD-R
 2 SOUR @pzS3cyb7RDaOk3XQGybM@
 2 NOTE Hornby, Steuben is assumed.
+1 BAPM
+2 DATE 18 MAR 1872
+2 PLAC St. Mary’s Church, Corning, Steuben, New York, USA
+2 SOUR @S79@
+3 PAGE <bibl> <author>St. Mary’s Church (Corning, New York, USA)</a
+4 CONC uthor>, <title level="u">Record, Baptisms 1849 thru July 189
+4 CONC 6</title> (manuscript copy), <citedRange>p. 267, Hanna McLau
+4 CONC ghlin, 18 Mar 1872</citedRange>; digital images, <title leve
+4 CONC l="m">FamilySearch</title> (<ref target="https://www.familys
+4 CONC earch.org/ark:/61903/3:1:3Q9M-CS7W-P9FD-R"/> : 29 Sep 2018)
+4 CONC , FHL microfilm 1,432,400, DGS 7857667, image 481 of 2666. <
+4 CONC /bibl>
+3 QUAY 4
+3 OBJE @M130@
+3 _LINK https://www.familysearch.org/ark:/61903/3:1:3Q9M-CS7W-P9FD-R
 1 RESI
 2 DATE 01 JUN 1875
 2 PLAC Hornby, Steuben, New York, USA
@@ -5930,7 +6121,7 @@
 1 FAMC @k3eINVMISsa7AVKKO8hC@
 1 FAMS @P67uzx6lSJe4yt0jVTlU@
 1 BIRT
-2 DATE DEC 1862
+2 DATE 10 DEC 1862
 2 PLAC Hornby, Steuben, New York, USA
 3 MAP
 4 LATI N42.2442
@@ -6001,12 +6192,39 @@
 4 CONC strict: 01; City: Hornby; County: Steuben; Page: 16
 3 OBJE @K6aGEDbnS7uwICNcCkSf@
 3 _APID 1,2704::25133801
+2 SOUR @S79@
+3 PAGE <bibl> <author>St. Mary’s Church (Corning, New York, USA)</a
+4 CONC uthor>, <title level="u">Record, Baptisms 1849 thru July 189
+4 CONC 6</title> (manuscript copy), <citedRange>p. 170, Jacobus McL
+4 CONC aughlin, 23 Dec 1862</citedRange>; digital images, <title le
+4 CONC vel="m">FamilySearch</title> (<ref target="https://www.famil
+4 CONC ysearch.org/ark:/61903/3:1:3Q9M-CS7W-P9V8-N"/> : 29 Sep 2018
+4 CONC ), FHL microfilm 1,432,400, DGS 7857667, image 433 of 2666
+4 CONC . </bibl>
+3 QUAY 4
+3 OBJE @M124@
+3 _LINK https://www.familysearch.org/ark:/61903/3:1:3Q9M-CS7W-P9V8-N
 2 SOUR @S74@
 3 _APID 1,60525::49771550
 2 SOUR @XHbynk1vRyWlvMJITFAn@
 2 SOUR @e0k10AjRSSyDnTOmeiMT@
 3 _APID 1,70572::7339457
 2 NOTE Hornby is assumed.
+1 BAPM
+2 DATE 23 DEC 1862
+2 PLAC St. Mary’s Church, Corning, Steuben, New York, USA
+2 SOUR @S79@
+3 PAGE <bibl> <author>St. Mary’s Church (Corning, New York, USA)</a
+4 CONC uthor>, <title level="u">Record, Baptisms 1849 thru July 189
+4 CONC 6</title> (manuscript copy), <citedRange>p. 170, Jacobus McL
+4 CONC aughlin, 23 Dec 1862</citedRange>; digital images, <title le
+4 CONC vel="m">FamilySearch</title> (<ref target="https://www.famil
+4 CONC ysearch.org/ark:/61903/3:1:3Q9M-CS7W-P9V8-N"/> : 29 Sep 2018
+4 CONC ), FHL microfilm 1,432,400, DGS 7857667, image 433 of 2666
+4 CONC . </bibl>
+3 QUAY 4
+3 OBJE @M124@
+3 _LINK https://www.familysearch.org/ark:/61903/3:1:3Q9M-CS7W-P9V8-N
 1 RESI
 2 DATE 1865
 2 PLAC Hornby, Steuben, New York, USA
@@ -6345,6 +6563,17 @@
 3 _APID 1,2704::25133566
 2 SOUR @X42OSNfDR6eKC3kcqAeS@
 3 QUAY 1
+2 SOUR @S79@
+3 PAGE <bibl> <author>St. Mary’s Church (Corning, New York, USA)</a
+4 CONC uthor>, <title level="u">Record, Baptisms 1849 thru July 189
+4 CONC 6</title> (manuscript copy), <citedRange>p. 301, Catharina M
+4 CONC cLaughlin, 24 Sep 1876</citedRange>; digital images, <titl
+4 CONC e level="m">FamilySearch</title> (<ref target="https://www.f
+4 CONC amilysearch.org/ark:/61903/3:1:3Q9M-CS7W-P9F8-M"/> : 29 Se
+4 CONC p 2018), FHL microfilm 1,432,400, DGS 7857667, image 498 o
+4 CONC f 2666. </bibl>
+3 QUAY 4
+3 _LINK https://www.familysearch.org/ark:/61903/3:1:3Q9M-CS7W-P9F8-M
 2 SOUR @GBMDFX2WTtuAjoiA5QpK@
 3 PAGE Number: 096-38-2925; Issue State: New York; Issue Date: 1963
 3 _APID 1,3693::26938761
@@ -6352,6 +6581,20 @@
 2 SOUR @e0k10AjRSSyDnTOmeiMT@
 3 _APID 1,70572::409397
 2 NOTE Place is assumed.
+1 BAPM
+2 DATE 24 SEP 1876
+2 PLAC St. Mary’s Church, Corning, Steuben, New York, USA
+2 SOUR @S79@
+3 PAGE <bibl> <author>St. Mary’s Church (Corning, New York, USA)</a
+4 CONC uthor>, <title level="u">Record, Baptisms 1849 thru July 189
+4 CONC 6</title> (manuscript copy), <citedRange>p. 301, Catharina M
+4 CONC cLaughlin, 24 Sep 1876</citedRange>; digital images, <titl
+4 CONC e level="m">FamilySearch</title> (<ref target="https://www.f
+4 CONC amilysearch.org/ark:/61903/3:1:3Q9M-CS7W-P9F8-M"/> : 29 Se
+4 CONC p 2018), FHL microfilm 1,432,400, DGS 7857667, image 498 o
+4 CONC f 2666. </bibl>
+3 QUAY 4
+3 _LINK https://www.familysearch.org/ark:/61903/3:1:3Q9M-CS7W-P9F8-M
 1 RESI
 2 DATE 1880
 2 PLAC Hornby, Steuben, New York, USA
@@ -6713,7 +6956,7 @@
 1 FAMS @ept8DobMRD6skQDo9YPj@
 1 OBJE @fK2D4speQGGR2X90E1yP@
 1 BIRT
-2 DATE 23 JUL 1870
+2 DATE 13 JUL 1870
 2 PLAC Hornby, Steuben, New York, USA
 3 MAP
 4 LATI N42.2442
@@ -6770,12 +7013,39 @@
 4 CONC strict: 01; City: Hornby; County: Steuben; Page: 13
 3 OBJE @3MR1hiqbQrSFmSc9bUqe@
 3 _APID 1,2704::25133673
+2 SOUR @S79@
+3 PAGE <bibl> <author>St. Mary’s Church (Corning, New York, USA)</a
+4 CONC uthor>, <title level="u">Record, Baptisms 1849 thru July 189
+4 CONC 6</title> (manuscript copy), <citedRange>p. 255, Marianna Mc
+4 CONC Laughlin, 11 Sep 1870</citedRange>; digital images, <title l
+4 CONC evel="m">FamilySearch</title> (<ref target="https://www.fami
+4 CONC lysearch.org/ark:/61903/3:1:3Q9M-CS7W-P9F6-1"/> : 29 Sep 201
+4 CONC 8), FHL microfilm 1,432,400, DGS 7857667, image 475 of 2666
+4 CONC . </bibl>
+3 QUAY 4
+3 OBJE @M129@
+3 _LINK https://www.familysearch.org/ark:/61903/3:1:3Q9M-CS7W-P9F6-1
 2 SOUR @S74@
 3 _APID 1,60525::46328189
 2 SOUR @e0k10AjRSSyDnTOmeiMT@
 3 _APID 1,70572::7319284
 2 NOTE 1900 census says Jul. 1870
 3 CONT Applicants Working Sheet DAR says Jul 23, 1871
+1 BAPM
+2 DATE 11 SEP 1870
+2 PLAC St. Mary’s Church, Corning, Steuben, New York, USA
+2 SOUR @S79@
+3 PAGE <bibl> <author>St. Mary’s Church (Corning, New York, USA)</a
+4 CONC uthor>, <title level="u">Record, Baptisms 1849 thru July 189
+4 CONC 6</title> (manuscript copy), <citedRange>p. 255, Marianna Mc
+4 CONC Laughlin, 11 Sep 1870</citedRange>; digital images, <title l
+4 CONC evel="m">FamilySearch</title> (<ref target="https://www.fami
+4 CONC lysearch.org/ark:/61903/3:1:3Q9M-CS7W-P9F6-1"/> : 29 Sep 201
+4 CONC 8), FHL microfilm 1,432,400, DGS 7857667, image 475 of 2666
+4 CONC . </bibl>
+3 QUAY 4
+3 OBJE @M129@
+3 _LINK https://www.familysearch.org/ark:/61903/3:1:3Q9M-CS7W-P9F6-1
 1 RESI
 2 DATE 01 JUN 1875
 2 PLAC Hornby, Steuben, New York, USA
@@ -7041,7 +7311,7 @@
 1 SEX M
 1 FAMC @k3eINVMISsa7AVKKO8hC@
 1 BIRT
-2 DATE JAN 1869
+2 DATE 25 JAN 1869
 2 PLAC Hornby, Steuben, New York, USA
 3 MAP
 4 LATI N42.2442
@@ -7070,9 +7340,36 @@
 2 SOUR @T0ouZsIFRMCsE2JPYkQX@
 3 OBJE @LbIqjIkPT6unhzRXeyGN@
 3 _APID 1,3212::294920
+2 SOUR @S79@
+3 PAGE <bibl> <author>St. Mary’s Church (Corning, New York, USA)</a
+4 CONC uthor>, <title level="u">Record, Baptisms 1849 thru July 189
+4 CONC 6</title> (manuscript copy), <citedRange>p. 239, Thoma McLau
+4 CONC ghlin, 07 Feb 1869</citedRange>; digital images, <title leve
+4 CONC l="m">FamilySearch</title> (<ref target="https://www.familys
+4 CONC earch.org/ark:/61903/3:1:3Q9M-CS7W-P9JM-C"/> : 29 Sep 2018)
+4 CONC , FHL microfilm 1,432,400, DGS 7857667, image 467 of 2666. <
+4 CONC /bibl>
+3 QUAY 4
+3 OBJE @M128@
+3 _LINK https://www.familysearch.org/ark:/61903/3:1:3Q9M-CS7W-P9JM-C
 2 SOUR @0VVQ8i0xTuG0p9aveWFA@
 3 QUAY 1
 2 NOTE Hornby, Steuben is assumed.
+1 BAPM
+2 DATE 07 FEB 1869
+2 PLAC St. Mary’s Church, Corning, Steuben, New York, USA
+2 SOUR @S79@
+3 PAGE <bibl> <author>St. Mary’s Church (Corning, New York, USA)</a
+4 CONC uthor>, <title level="u">Record, Baptisms 1849 thru July 189
+4 CONC 6</title> (manuscript copy), <citedRange>p. 239, Thoma McLau
+4 CONC ghlin, 07 Feb 1869</citedRange>; digital images, <title leve
+4 CONC l="m">FamilySearch</title> (<ref target="https://www.familys
+4 CONC earch.org/ark:/61903/3:1:3Q9M-CS7W-P9JM-C"/> : 29 Sep 2018)
+4 CONC , FHL microfilm 1,432,400, DGS 7857667, image 467 of 2666. <
+4 CONC /bibl>
+3 QUAY 4
+3 OBJE @M128@
+3 _LINK https://www.familysearch.org/ark:/61903/3:1:3Q9M-CS7W-P9JM-C
 1 RESI
 2 DATE 1870
 2 PLAC Hornby, Steuben, New York, USA
@@ -7569,7 +7866,7 @@
 1 FAMC @k3eINVMISsa7AVKKO8hC@
 1 FAMS @GcDSArMGR8C8CttudoQ9@
 1 BIRT
-2 DATE 12 MAY 1866
+2 DATE 11 MAY 1866
 2 PLAC Hornby, Steuben, New York, USA
 3 MAP
 4 LATI N42.2442
@@ -7625,9 +7922,36 @@
 4 CONC strict: 01; City: Hornby; County: Steuben; Page: 14
 3 OBJE @kSYgxjXNSTOnqy8KZnbr@
 3 _APID 1,2703::6630856
+2 SOUR @S79@
+3 PAGE <bibl> <author>St. Mary’s Church (Corning, New York, USA)</a
+4 CONC uthor>, <title level="u">Record, Baptisms 1849 thru July 189
+4 CONC 6</title> (manuscript copy), <citedRange>p. 217, Gulielmus M
+4 CONC cLaughlin, 07 Sep 1866</citedRange>; digital images, <titl
+4 CONC e level="m">FamilySearch</title> (<ref target="https://www.f
+4 CONC amilysearch.org/ark:/61903/3:1:3Q9M-CS7W-P9V8-Y"/> : 29 Se
+4 CONC p 2018), FHL microfilm 1,432,400, DGS 7857667, image 456 o
+4 CONC f 2666. </bibl>
+3 QUAY 4
+3 OBJE @M126@
+3 _LINK https://www.familysearch.org/ark:/61903/3:1:3Q9M-CS7W-P9V8-Y
 2 SOUR @S74@
 3 _APID 1,60525::115614146
 2 NOTE Place is assumed.
+1 BAPM
+2 DATE 07 SEP 1866
+2 PLAC St. Mary’s Church, Corning, Steuben, New York, USA
+2 SOUR @S79@
+3 PAGE <bibl> <author>St. Mary’s Church (Corning, New York, USA)</a
+4 CONC uthor>, <title level="u">Record, Baptisms 1849 thru July 189
+4 CONC 6</title> (manuscript copy), <citedRange>p. 217, Gulielmus M
+4 CONC cLaughlin, 07 Sep 1866</citedRange>; digital images, <titl
+4 CONC e level="m">FamilySearch</title> (<ref target="https://www.f
+4 CONC amilysearch.org/ark:/61903/3:1:3Q9M-CS7W-P9V8-Y"/> : 29 Se
+4 CONC p 2018), FHL microfilm 1,432,400, DGS 7857667, image 456 o
+4 CONC f 2666. </bibl>
+3 QUAY 4
+3 OBJE @M126@
+3 _LINK https://www.familysearch.org/ark:/61903/3:1:3Q9M-CS7W-P9V8-Y
 1 RESI
 2 DATE 1870
 2 PLAC Hornby, Steuben, New York, USA
@@ -9050,6 +9374,17 @@
 3 _APID 1,7602::56735666
 2 SOUR @VZMQ434cQOm7Ze67bAJf@
 3 QUAY 2
+2 SOUR @S79@
+3 PAGE <bibl> <author>St. Mary’s Church (Corning, New York, USA)</a
+4 CONC uthor>, <title level="u">marriages</title>, <citedRange>2: 8
+4 CONC , Harrison and McLaughlin, 24 Nov 1897</citedRange>; digita
+4 CONC l images, <title level="m">FamilySearch</title> (<ref target
+4 CONC ="https://www.familysearch.org/ark:/61903/3:1:3Q9M-CS7W-P9KW
+4 CONC -S"/> : 29 Sep 2018), FHL microfilm 1,432,400, DGS 7857667
+4 CONC . </bibl>
+3 QUAY 4
+3 OBJE @M135@
+3 _LINK https://www.familysearch.org/ark:/61903/3:1:3Q9M-CS7W-P9KW-S
 2 NOTE by Rev. James M. Bustin
 0 @MPqAu1mSTdqMHYLtnCiv@ FAM
 1 REFN 799ab5a5-4142-42c3-a08d-89f9658d1031
@@ -9073,10 +9408,21 @@
 2 _MREL Natural
 1 MARR
 2 DATE 30 OCT 1864
-2 PLAC Watkins Glen, Schuyler, New York, USA
-3 MAP
-4 LATI N42.3806
-4 LONG W76.8733
+2 PLAC St. Mary’s of the Lake Church, Watkins Glen, Schuyler, New Y
+3 CONC ork, USA
+2 SOUR @S80@
+3 PAGE <bibl> <author>St. Mary’s of the Lake Church (Watkins Glen
+4 CONC , New York, USA)</author>, <title level="u">Marriages 1849-1
+4 CONC 869</title> (manuscript copy), unnumbered pages, unnumbere
+4 CONC d entries in chronological order, <citedRange>30 Oct 1864, P
+4 CONC atrick Harvey and Mary McLaughlin</citedRange>; digital imag
+4 CONC es, <title level="m">FamilySearch</title> (<ref target="http
+4 CONC s://www.familysearch.org/ark:/61903/3:1:3Q9M-CS7W-YLYH"/
+4 CONC > : 29 Sep 2018), FHL microfilm 1,432,401, DGS 7857668, imag
+4 CONC e 197 of 1067. </bibl>
+3 QUAY 4
+3 OBJE @M134@
+3 _LINK https://www.familysearch.org/ark:/61903/3:1:3Q9M-CS7W-YLYH
 0 @PSokYrI2TOykE1xyKLU9@ FAM
 1 REFN b8dbf416-d749-46e9-9ea1-1fbf0ca7e2ea
 1 HUSB @pCx07m8jQDy6GAGMdIm8@
@@ -9109,11 +9455,21 @@
 2 _FREL Natural
 2 _MREL Natural
 1 MARR
-2 DATE 02 AUG 1858
-2 PLAC Watkins Glen, Schuyler, New York, USA
-3 MAP
-4 LATI N42.3806
-4 LONG W76.8733
+2 DATE 02 AUG 1857
+2 PLAC St. Mary’s of the Lake Church, Watkins Glen, Schuyler, New Y
+3 CONC ork, USA
+2 SOUR @S80@
+3 PAGE <bibl> <author>St. Mary’s of the Lake Church (Watkins Glen
+4 CONC , New York, USA)</author>, <title level="u">Marriages 1849-1
+4 CONC 869</title> (manuscript copy), unnumbered pages, unnumbere
+4 CONC d entries in chronological order, <citedRange>2 Aug 1857, Da
+4 CONC niel McCarthy and Honora McLaughlin</citedRange>; digital im
+4 CONC ages, <title level="m">FamilySearch</title> (<ref target="ht
+4 CONC tps://www.familysearch.org/ark:/61903/3:1:3Q9M-CS7W-YKN4"/
+4 CONC > : 29 Sep 2018), FHL microfilm 1,432,401, DGS 7857668, imag
+4 CONC e 192 of 1067. </bibl>
+3 QUAY 4
+3 _LINK https://www.familysearch.org/ark:/61903/3:1:3Q9M-CS7W-YKN4
 0 @4nPpWdfsRf2Bu6xPkGvg@ FAM
 1 REFN ae38d49f-5f45-4104-befa-a2bbd8b1f745
 1 HUSB @8RwTkZtzQvOEtDPIlAeu@
@@ -9277,9 +9633,39 @@
 4 CONC 41163
 3 OBJE @1Z2SqTbXQ96LECASGsUV@
 3 _APID 1,7602::56735659
-2 SOUR @aQtBtpnBSFupH9I8qZ9L@
-3 PAGE p. 9
-3 QUAY 3
+2 SOUR @S80@
+3 PAGE <bibl> <author>St. Mary’s of the Lake Church (Watkins Glen
+4 CONC , New York, USA)</author>, <title level="u">Marriages 1849-1
+4 CONC 869</title> (manuscript copy), unnumbered pages, unnumbere
+4 CONC d entries in chronological order, <citedRange>1 Jan 1861, Wi
+4 CONC lliam McLaughlin and Margaret Doherty</citedRange>; digita
+4 CONC l images, <title level="m">FamilySearch</title> (<ref target
+4 CONC ="https://www.familysearch.org/ark:/61903/3:1:3Q9M-CS7W-YK62
+4 CONC "/> : 29 Sep 2018), FHL microfilm 1,432,401, DGS 7857668, im
+4 CONC age 194 of 1067. </bibl>
+3 QUAY 4
+3 DATA
+4 TEXT <text xml:lang="la">
+5 CONT <head>
+5 CONT <lb/>William M<hi rend="sup">c</hi>Laughlin
+5 CONT <lb/>et Margaret Doherty
+5 CONT <lb/><date when="1861-01-01">Januarii 1, 1861</date>.
+5 CONT </head>
+5 CONT <body>
+5 CONT <lb/>Omissis tribus denuntiationibus ex facultate a
+5 CONT <lb/>Cancellario acce<subst><del>t</del><add>p</add></subst>
+5 CONC ta Confunti in Matrimonio
+5 CONT <lb/>Gulielimum filium Jacobi M<hi rend="sup">c</hi>Laughli
+5 CONC n et Honorae
+5 CONT <lb/>Doherty et Margarettam filiam G<add>e</add>orgii Dohert
+5 CONC y
+5 CONT <lb/>Testos Juere Joanes Brown et Elizabeth M<hi rend="sup">
+5 CONC c</hi>Laughlin.
+5 CONT <lb/>J. M<hi rend="sup">c</hi>Kenna.
+5 CONT </body>
+5 CONT </text>
+3 OBJE @M133@
+3 _LINK https://www.familysearch.org/ark:/61903/3:1:3Q9M-CS7W-YK62
 1 EVEN
 2 TYPE note (M)
 2 SOUR @EndAqtV7TBSOao81uFyz@
@@ -9293,24 +9679,54 @@
 1 HUSB @Py9D4N6fSCGfpL23q6QK@
 1 WIFE @dQ3j152qTvyW1dmHRhoB@
 1 MARR
-2 DATE 1861
+2 DATE 01 JAN 1861
+2 PLAC St. Mary’s of the Lake Church, Watkins Glen, Schuyler, New Y
+3 CONC ork, USA
 2 SOUR @TSJWJ9RaQcqPVtUAFSvp@
 3 PAGE Year: 1900; Census Place: Reading, Schuyler, New York; Roll
 4 CONC : 1161; Page: 11A; Enumeration District: 0053; FHL microfilm
 4 CONC : 1241161
 3 OBJE @XtP6UnRmQuaNxAYWudtQ@
 3 _APID 1,7602::56698142
+2 SOUR @S80@
+3 PAGE <bibl> <author>St. Mary’s of the Lake Church (Watkins Glen
+4 CONC , New York, USA)</author>, <title level="u">Marriages 1849-1
+4 CONC 869</title> (manuscript copy), unnumbered pages, unnumbere
+4 CONC d entries in chronological order, <citedRange>1 Jan 1861, Ch
+4 CONC arles O’Neil and Anna McLaughlin</citedRange>; digital image
+4 CONC s, <title level="m">FamilySearch</title> (<ref target="https
+4 CONC ://www.familysearch.org/ark:/61903/3:1:3Q9M-CS7W-YK62"/> : 2
+4 CONC 9 Sep 2018), FHL microfilm 1,432,401, DGS 7857668, image 19
+4 CONC 4 of 1067. </bibl>
+3 QUAY 4
+3 OBJE @M133@
+3 _LINK https://www.familysearch.org/ark:/61903/3:1:3Q9M-CS7W-YK62
 0 @Hx5aaIJKS8eUUfEuHkTQ@ FAM
 1 REFN 2eba1421-cdf4-42ee-a500-f3dd7178a2e9
 1 HUSB @TtYgrq0dQJu14Mf789UE@
 1 WIFE @ZfZ6WA7gSfOqbKsceTjx@
 1 MARR
-2 DATE 1860
+2 DATE 11 JUL 1858
+2 PLAC St. Mary’s of the Lake Church, Watkins Glen, Schuyler, New Y
+3 CONC ork, USA
 2 SOUR @TSJWJ9RaQcqPVtUAFSvp@
 3 PAGE Year: 1900; Census Place: Orange, Schuyler, New York; Roll
 4 CONC : 1161; Page: 3A; Enumeration District: 0052; FHL microfilm
 4 CONC : 1241161
 3 OBJE @yudugnfDSpStxp8pXLdv@
+2 SOUR @S80@
+3 PAGE <bibl> <author>St. Mary’s of the Lake Church (Watkins Glen
+4 CONC , New York, USA)</author>, <title level="u">Marriages 1849-1
+4 CONC 869</title> (manuscript copy), unnumbered pages, unnumbere
+4 CONC d entries in chronological order, <citedRange>11 Jul 1858, P
+4 CONC atricium Touhey and Ellen McLaughlin</citedRange>; digital i
+4 CONC mages, <title level="m">FamilySearch</title> (<ref target="h
+4 CONC ttps://www.familysearch.org/ark:/61903/3:1:3Q9M-CS7W-YK69"/
+4 CONC > : 29 Sep 2018), FHL microfilm 1,432,401, DGS 7857668, imag
+4 CONC e 193 of 1067. </bibl>
+3 QUAY 4
+3 OBJE @M132@
+3 _LINK https://www.familysearch.org/ark:/61903/3:1:3Q9M-CS7W-YK69
 0 @qsLsNUPbRue4aipBpp8J@ FAM
 1 REFN 2063852f-db9f-4bc9-8ac3-bae58fb68787
 1 HUSB @TtYgrq0dQJu14Mf789UE@
@@ -9951,28 +10367,16 @@
 2 CONC d><td>X</td><td>X</td></tr>
 2 CONT </tbody>
 2 CONT </table>
-0 @aQtBtpnBSFupH9I8qZ9L@ SOUR
-1 REFN 5e9052fb-4ec5-4c83-9549-b4d45f8872da
-1 TITL Saint Mary's of the Lake Catholic Church, Marriage Register
-2 CONC , Watkins [Glen, New York]
-1 AUTH Saint Mary's of the Lake Catholic Church, Watkins Glen, NY
-1 PUBL LDS film 1432401
-1 TEXT William M<sup>c</sup>Laughlin<br/>
-2 CONT et Margaret Doherty<br/>
-2 CONT Januarii 1, 1861.<br/>
-2 CONT <br/>
-2 CONT Omissis tribus denuntiationibus ex facultate a<br/>
-2 CONT cancellario accepta confinti in Matrimonio<br/>
-2 CONT Gulielimum filium Jacobi M<sup>c</sup>Laughlin et Honorae<br
-2 CONC />
-2 CONT Doherty et Margarettam filiam Georgii Doherty<br/>
-2 CONT Testos Juere Joanes Brown et Elizabeth M<sup>c</sup>Laughlin
-2 CONC .<br/>
-2 CONT J. M<sup>c</sup>Kenna.
 0 @X42OSNfDR6eKC3kcqAeS@ SOUR
 1 REFN cceb6bd8-f346-4605-8690-7e07f0d84636
 1 TITL Social Security Death Index
 1 AUTH US Social Security Administration
+0 @S79@ SOUR
+1 TITL St. Mary’s Church Records
+1 AUTH St. Mary’s Church (Corning, New York, USA)
+0 @S80@ SOUR
+1 TITL St. Mary’s of the Lake Church Records
+1 AUTH St. Mary’s of the Lake Church (Watkins Glen, New York, USA)
 0 @N0QDvsKzRd6L25GA73AW@ SOUR
 1 REFN 3bea1dc2-986f-4f0f-89c0-f7b5a5fe0ece
 1 TITL Steuben County (New York) Land Deeds
@@ -11711,4 +12115,82 @@
 2 _TEXT New York State Archives, Cultural Education Center, Albany
 3 CONC , New York; New York Civil War Muster Roll Abstracts, 1861-1
 3 CONC 900; Archive Collection #: 13775-83; Box #: 959; Roll #: 615
+0 @M123@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\McLaughlin Medi
+2 CONC a\record-image_3Q9M-CS7W-P9KZ-Y.jpg
+2 FORM jpg
+2 TITL record-image_3Q9M-CS7W-P9KZ-Y
+2 _DATE 9/29/2018 10:08:27 PM
+0 @M124@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\McLaughlin Medi
+2 CONC a\record-image_3Q9M-CS7W-P9V8-N.jpg
+2 FORM jpg
+2 TITL record-image_3Q9M-CS7W-P9V8-N
+2 _DATE 9/29/2018 10:21:02 PM
+0 @M125@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\McLaughlin Medi
+2 CONC a\record-image_3Q9M-CS7W-P9K8-C.jpg
+2 FORM jpg
+2 TITL record-image_3Q9M-CS7W-P9K8-C
+2 _DATE 9/29/2018 10:29:29 PM
+0 @M126@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\McLaughlin Medi
+2 CONC a\record-image_3Q9M-CS7W-P9V8-Y.jpg
+2 FORM jpg
+2 TITL record-image_3Q9M-CS7W-P9V8-Y
+2 _DATE 9/29/2018 10:48:02 PM
+0 @M127@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\McLaughlin Medi
+2 CONC a\record-image_3Q9M-CS7W-P9VZ-Q.jpg
+2 FORM jpg
+2 TITL record-image_3Q9M-CS7W-P9VZ-Q
+2 _DATE 9/30/2018 12:10:04 AM
+0 @M128@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\McLaughlin Medi
+2 CONC a\record-image_3Q9M-CS7W-P9JM-C.jpg
+2 FORM jpg
+2 TITL record-image_3Q9M-CS7W-P9JM-C
+2 _DATE 9/30/2018 12:15:19 AM
+0 @M129@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\McLaughlin Medi
+2 CONC a\record-image_3Q9M-CS7W-P9F6-1.jpg
+2 FORM jpg
+2 TITL record-image_3Q9M-CS7W-P9F6-1
+2 _DATE 9/30/2018 12:18:53 AM
+0 @M130@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\McLaughlin Medi
+2 CONC a\record-image_3Q9M-CS7W-P9FD-R.jpg
+2 FORM jpg
+2 TITL record-image_3Q9M-CS7W-P9FD-R
+2 _DATE 9/30/2018 12:24:19 AM
+0 @M131@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\McLaughlin Medi
+2 CONC a\record-image_3Q9M-CS7W-P9FH-8.jpg
+2 FORM jpg
+2 TITL record-image_3Q9M-CS7W-P9FH-8
+2 _DATE 9/30/2018 12:27:53 AM
+0 @M132@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\McLaughlin Medi
+2 CONC a\record-image_3Q9M-CS7W-YK69.jpg
+2 FORM jpg
+2 TITL record-image_3Q9M-CS7W-YK69
+2 _DATE 9/30/2018 2:02:38 AM
+0 @M133@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\McLaughlin Medi
+2 CONC a\record-image_3Q9M-CS7W-YK62.jpg
+2 FORM jpg
+2 TITL record-image_3Q9M-CS7W-YK62
+2 _DATE 9/30/2018 2:10:23 AM
+0 @M134@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\McLaughlin Medi
+2 CONC a\record-image_3Q9M-CS7W-YLYH.jpg
+2 FORM jpg
+2 TITL record-image_3Q9M-CS7W-YLYH
+2 _DATE 9/30/2018 2:33:08 AM
+0 @M135@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\McLaughlin Medi
+2 CONC a\record-image_3Q9M-CS7W-P9KW-S.jpg
+2 FORM jpg
+2 TITL record-image_3Q9M-CS7W-P9KW-S
+2 _DATE 9/30/2018 2:38:28 AM
 0 TRLR
