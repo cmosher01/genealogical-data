@@ -13,9 +13,9 @@
 4 CONT Boston, MA 02109
 3 PHON (617) 227-6681
 1 DEST FTM
-1 FILE McLaughlin_2018-09-30-02-46-42.ftm.ged
-1 DATE 30 SEP 2018
-2 TIME 02:49:15
+1 FILE McLaughlin_2018-10-01-23-00-53.ftm.ged
+1 DATE 01 OCT 2018
+2 TIME 23:02:34
 0 @Umy2qBWIRUiwVSS6Hcn4@ SUBM
 1 NAME Christopher Alan Mosher
 2 EMAIL cmosher01@@gmail.com
@@ -1977,7 +1977,10 @@
 2 NOTE Relation to Head of House: Head
 1 RESI
 2 DATE 1880
-2 PLAC Watkins, Schuyler, New York, USA
+2 PLAC Watkins Glen, Schuyler, New York, USA
+3 MAP
+4 LATI N42.3806
+4 LONG W76.8733
 2 SOUR @tnFyJS3GSBmaAlXLoPkf@
 3 PAGE Year: 1880; Census Place: Watkins, Schuyler, New York; Roll
 4 CONC : 930; Family History Film: 1254930; Page: 315A; Enumeratio
@@ -1987,7 +1990,10 @@
 2 NOTE Marital Status: Married; Relation to Head of House: Self
 1 RESI
 2 DATE 1900
-2 PLAC Watkins, Schuyler, New York, USA
+2 PLAC Watkins Glen, Schuyler, New York, USA
+3 MAP
+4 LATI N42.3806
+4 LONG W76.8733
 2 SOUR @TSJWJ9RaQcqPVtUAFSvp@
 3 PAGE Year: 1900; Census Place: Watkins, Schuyler, New York; Roll
 4 CONC : 1161; Page: 16A; Enumeration District: 0047; FHL microfilm
@@ -2161,7 +2167,10 @@
 2 NOTE Marital Status: Married; Relation to Head of House: Wife
 1 RESI
 2 DATE 1935
-2 PLAC Corning, Steuben, New York
+2 PLAC Corning, Steuben, New York, USA
+3 MAP
+4 LATI N42.1429
+4 LONG W77.0547
 2 SOUR @ALQw0eF4QkOXvXTpe8PW@
 3 PAGE Year: 1940; Census Place: Corning, Steuben, New York; Roll
 4 CONC : T627_2781; Page: 10A; Enumeration District: 51-31
@@ -2476,7 +2485,10 @@
 3 _APID 1,6742::2976043
 1 RESI
 2 DATE 1870
-2 PLAC Watkins, Schuyler, New York, USA
+2 PLAC Watkins Glen, Schuyler, New York, USA
+3 MAP
+4 LATI N42.3806
+4 LONG W76.8733
 2 SOUR @uIedA0ssTcqaxDRxQYPP@
 3 PAGE Year: 1870; Census Place: Watkins, Schuyler, New York; Roll
 4 CONC : M593_1092; Page: 510A; Image: 167; Family History Librar
@@ -2485,7 +2497,10 @@
 3 _APID 1,7163::32260851
 1 RESI
 2 DATE 1880
-2 PLAC Watkins, Schuyler, New York, USA
+2 PLAC Watkins Glen, Schuyler, New York, USA
+3 MAP
+4 LATI N42.3806
+4 LONG W76.8733
 2 SOUR @tnFyJS3GSBmaAlXLoPkf@
 3 PAGE Year: 1880; Census Place: Watkins, Schuyler, New York; Roll
 4 CONC : 930; Family History Film: 1254930; Page: 315A; Enumeratio
@@ -3526,7 +3541,10 @@
 2 NOTE Relation to Head of House: Wife
 1 RESI
 2 DATE 1880
-2 PLAC Watkins, Schuyler, New York, USA
+2 PLAC Watkins Glen, Schuyler, New York, USA
+3 MAP
+4 LATI N42.3806
+4 LONG W76.8733
 2 SOUR @tnFyJS3GSBmaAlXLoPkf@
 3 PAGE Year: 1880; Census Place: Watkins, Schuyler, New York; Roll
 4 CONC : 930; Family History Film: 1254930; Page: 315A; Enumeratio
@@ -3536,7 +3554,10 @@
 2 NOTE Marital Status: Married; Relation to Head of House: Wife
 1 RESI
 2 DATE 1900
-2 PLAC Watkins, Schuyler, New York, USA
+2 PLAC Watkins Glen, Schuyler, New York, USA
+3 MAP
+4 LATI N42.3806
+4 LONG W76.8733
 2 SOUR @TSJWJ9RaQcqPVtUAFSvp@
 3 PAGE Year: 1900; Census Place: Watkins, Schuyler, New York; Roll
 4 CONC : 1161; Page: 16A; Enumeration District: 0047; FHL microfilm
@@ -3651,7 +3672,10 @@
 2 NOTE Place is assumed.
 1 RESI
 2 DATE 1860
-2 PLAC Dix, Schuyler, New York,
+2 PLAC Dix, Schuyler, New York, USA
+3 MAP
+4 LATI N42.3279
+4 LONG W76.9069
 2 SOUR @S72@
 3 PAGE Year: 1860; Census Place: Dix, Schuyler, New York; Roll: M65
 4 CONC 3_859; Page: 882; Image: 378; Family History Library Film: 8
@@ -7409,7 +7433,10 @@
 3 CONC : Son
 1 RESI
 2 DATE 1892
-2 PLAC Hornby, Steuben, New York
+2 PLAC Hornby, Steuben, New York, USA
+3 MAP
+4 LATI N42.2442
+4 LONG W77.0444
 2 SOUR @T0ouZsIFRMCsE2JPYkQX@
 3 OBJE @LbIqjIkPT6unhzRXeyGN@
 3 _APID 1,3212::294920
@@ -8760,7 +8787,11 @@
 2 SOUR @S74@
 3 _APID 1,60525::74510073
 1 BURI
-2 PLAC Watkins Glen, Schuyle, New York, USA
+2 DATE ABT 21 MAY 1857
+2 PLAC Watkins Glen, Schuyler, New York, USA
+3 MAP
+4 LATI N42.3806
+4 LONG W76.8733
 2 SOUR @S74@
 3 _APID 1,60525::74510073
 1 _XY 187166 4353
@@ -9408,8 +9439,8 @@
 2 _MREL Natural
 1 MARR
 2 DATE 30 OCT 1864
-2 PLAC St. Mary’s of the Lake Church, Watkins Glen, Schuyler, New Y
-3 CONC ork, USA
+2 PLAC Saint Mary’s of the Lake Church, 905 North Decatur Street, W
+3 CONC atkins Glen, Schuyler, New York, USA
 2 SOUR @S80@
 3 PAGE <bibl> <author>St. Mary’s of the Lake Church (Watkins Glen
 4 CONC , New York, USA)</author>, <title level="u">Marriages 1849-1
@@ -9456,8 +9487,8 @@
 2 _MREL Natural
 1 MARR
 2 DATE 02 AUG 1857
-2 PLAC St. Mary’s of the Lake Church, Watkins Glen, Schuyler, New Y
-3 CONC ork, USA
+2 PLAC Saint Mary’s of the Lake Church, 905 North Decatur Street, W
+3 CONC atkins Glen, Schuyler, New York, USA
 2 SOUR @S80@
 3 PAGE <bibl> <author>St. Mary’s of the Lake Church (Watkins Glen
 4 CONC , New York, USA)</author>, <title level="u">Marriages 1849-1
@@ -9625,8 +9656,8 @@
 2 _MREL Natural
 1 MARR
 2 DATE 01 JAN 1861
-2 PLAC Saint Mary's of the Lake Catholic Church, 905 North Decatu
-3 CONC r Street, Watkins Glen, Schuyler, New York, USA
+2 PLAC Saint Mary’s of the Lake Church, 905 North Decatur Street, W
+3 CONC atkins Glen, Schuyler, New York, USA
 2 SOUR @TSJWJ9RaQcqPVtUAFSvp@
 3 PAGE Year: 1900; Census Place: Hornby, Steuben, New York; Roll: 1
 4 CONC 163; Page: 3B; Enumeration District: 0087; FHL microfilm: 12
@@ -9680,8 +9711,8 @@
 1 WIFE @dQ3j152qTvyW1dmHRhoB@
 1 MARR
 2 DATE 01 JAN 1861
-2 PLAC St. Mary’s of the Lake Church, Watkins Glen, Schuyler, New Y
-3 CONC ork, USA
+2 PLAC Saint Mary’s of the Lake Church, 905 North Decatur Street, W
+3 CONC atkins Glen, Schuyler, New York, USA
 2 SOUR @TSJWJ9RaQcqPVtUAFSvp@
 3 PAGE Year: 1900; Census Place: Reading, Schuyler, New York; Roll
 4 CONC : 1161; Page: 11A; Enumeration District: 0053; FHL microfilm
@@ -9707,8 +9738,8 @@
 1 WIFE @ZfZ6WA7gSfOqbKsceTjx@
 1 MARR
 2 DATE 11 JUL 1858
-2 PLAC St. Mary’s of the Lake Church, Watkins Glen, Schuyler, New Y
-3 CONC ork, USA
+2 PLAC Saint Mary’s of the Lake Church, 905 North Decatur Street, W
+3 CONC atkins Glen, Schuyler, New York, USA
 2 SOUR @TSJWJ9RaQcqPVtUAFSvp@
 3 PAGE Year: 1900; Census Place: Orange, Schuyler, New York; Roll
 4 CONC : 1161; Page: 3A; Enumeration District: 0052; FHL microfilm
