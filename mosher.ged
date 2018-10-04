@@ -6,16 +6,16 @@
 1 COPR Copyright © 1998, Christopher Alan Mosher, Shelton, CT, USA.
 1 SUBM @Umy2qBWIRUiwVSS6Hcn4@
 1 SOUR FTM
-2 VERS 23.1.0.1480
+2 VERS 23.2.0.1540
 2 NAME Family Tree Maker for Windows
 2 CORP The Software MacKiev Company
 3 ADDR 30 Union Wharf
 4 CONT Boston, MA 02109
 3 PHON (617) 227-6681
 1 DEST FTM
-1 FILE Mosher_2018-09-24-02-19-21.ftm.ged
-1 DATE 24 SEP 2018
-2 TIME 02:20:43
+1 FILE Mosher_2018-10-04-03-32-56.ftm.ged
+1 DATE 04 OCT 2018
+2 TIME 03:34:38
 0 @Umy2qBWIRUiwVSS6Hcn4@ SUBM
 1 NAME Christopher Alan Mosher
 2 EMAIL cmosher01@@gmail.com
@@ -3017,11 +3017,18 @@
 4 CONC 6 1997 1998 1999 2000 2001 2002
 3 _APID 1,7339::292413083
 2 SOUR @S263@
-3 PAGE Gail B Benedict
+3 PAGE Gail B. Benedict
 3 DATA
-4 TEXT Gail B Benedict
+4 TEXT Gail B. Benedict
+3 _APID 1,1788::201616605
 2 SOUR @S263@
-3 PAGE Gail C Benedict
+3 PAGE Gail C. Benedict
+3 DATA
+4 TEXT Gail C. Benedict
+3 _LINK https://search.ancestry.com/cgi-bin/sse.dll?indiv=1&dbid=178
+4 CONC 8&h=136639767&ssrc=pt&tid=115769354&pid=102040175809&usePUB=
+4 CONC true
+3 _APID 1,1788::136639767
 2 SOUR @S247@
 3 _APID 1,1732::263241928
 1 SEX F
@@ -3029,24 +3036,29 @@
 1 BIRT
 2 DATE 27 MAR 1954
 2 SOUR @S263@
-3 PAGE Gail B Benedict
+3 PAGE Gail B. Benedict
 3 DATA
-4 TEXT Gail B Benedict
+4 TEXT Gail B. Benedict
 3 _APID 1,1788::201616605
 2 SOUR @S247@
 3 _APID 1,1732::263241928
 1 BIRT
 2 DATE 27 APR 1954
 2 SOUR @S263@
-3 PAGE Gail C Benedict
+3 PAGE Gail C. Benedict
+3 DATA
+4 TEXT Gail C. Benedict
+3 _LINK https://search.ancestry.com/cgi-bin/sse.dll?indiv=1&dbid=178
+4 CONC 8&h=136639767&ssrc=pt&tid=115769354&pid=102040175809&usePUB=
+4 CONC true
 3 _APID 1,1788::136639767
 1 RESI
 2 DATE 1980
 2 PLAC 67 Madison Street, Cortland, Cortland, New York, USA
 2 SOUR @S263@
-3 PAGE Gail B Benedict
+3 PAGE Gail B. Benedict
 3 DATA
-4 TEXT Gail B Benedict
+4 TEXT Gail B. Benedict
 3 _APID 1,1788::201616605
 1 RESI
 2 DATE 1993
@@ -3055,7 +3067,12 @@
 4 LATI N25.6151
 4 LONG W80.3106
 2 SOUR @S263@
-3 PAGE Gail C Benedict
+3 PAGE Gail C. Benedict
+3 DATA
+4 TEXT Gail C. Benedict
+3 _LINK https://search.ancestry.com/cgi-bin/sse.dll?indiv=1&dbid=178
+4 CONC 8&h=136639767&ssrc=pt&tid=115769354&pid=102040175809&usePUB=
+4 CONC true
 3 _APID 1,1788::136639767
 1 RESI
 2 DATE 1993
@@ -4134,6 +4151,9 @@
 3 DATA
 4 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=60921
 5 CONC 378&pid=49
+2 SOUR @S208@
+3 OBJE @M331@
+3 _APID 1,61377::1200142590
 2 SOUR @S220@
 3 OBJE @eM2uyuUHSLyJIutzAPx7@
 3 _APID 1,3212::3148213
@@ -9479,6 +9499,23 @@
 2 SOUR @H9NsrdLJQZi4I3umdlYg@
 3 PAGE p. 2
 3 QUAY 1
+1 PROP sold land in Westquanoid
+2 DATE 07 NOV 1690
+2 PLAC Providence, Providence, Rhode Island, USA
+3 MAP
+4 LATI N41.824
+4 LONG W71.4128
+2 SOUR @S264@
+3 PAGE <bibl> <author>Town of Providence (Rhode Island, America)</a
+4 CONC uthor>, <title level="u">Deeds and Mortgages</title>, <cited
+4 CONC Range>2: 337, Hugh Mosher to Joseph Bramand, recorded 21 Ju
+4 CONC n 1714</citedRange>; digital images, <title level="m">Family
+4 CONC Search</title> (<ref target="https://www.familysearch.org/ar
+4 CONC k:/61903/3:1:3Q9M-CS4X-53DL-6"/> : 29 Sep 2018), FHL microfi
+4 CONC lm 901,254, DGS 7896746, image 352 of 670. </bibl>
+3 QUAY 4
+3 OBJE @M330@
+3 _LINK https://www.familysearch.org/ark:/61903/3:1:3Q9M-CS4X-53DL-6
 1 OCCU blacksmith
 2 DATE 1707
 2 PLAC Dartmouth, Bristol, Massachusetts, USA
@@ -14405,8 +14442,10 @@
 1 NAME Helene Jean /Mosher/
 2 SOUR @S247@
 3 PAGE entry 1
+3 _APID 1,1732::394801582
 2 SOUR @S247@
 3 PAGE entry 2
+3 _APID 1,1732::289400978
 2 SOUR @S241@
 3 _APID 1,60525::71350566
 2 SOUR @S215@
@@ -14431,8 +14470,10 @@
 4 LONG W74.4071
 2 SOUR @S247@
 3 PAGE entry 1
+3 _APID 1,1732::394801582
 2 SOUR @S247@
 3 PAGE entry 2
+3 _APID 1,1732::289400978
 2 SOUR @S215@
 3 _APID 1,60901::32083652
 2 SOUR @yAMTVEqOTiKCsMjPyXmb@
@@ -24727,6 +24768,7 @@
 3 PAGE New York State Department of Health; Albany, NY, USA; New Yo
 4 CONC rk State Marriage Index
 3 OBJE @M329@
+3 _APID 1,61632::6077480
 2 SOUR @S216@
 3 PAGE New York State Archives; Albany, New York; State Populatio
 4 CONC n Census Schedules, 1915; Election District: 01; Assembly Di
@@ -25758,7 +25800,6 @@
 4 LONG W119.8138
 2 SOUR @S246@
 3 _APID 1,1100::6801291
-3 _APID 1,1100::2470216
 0 @F361@ FAM
 1 HUSB @I465@
 1 WIFE @gAHqqaSRTeeawmG9dmnd@
@@ -26859,6 +26900,7 @@
 3 PAGE New York State Department of Health; Albany, NY, USA; New Yo
 4 CONC rk State Marriage Index
 3 OBJE @M329@
+3 _APID 1,61632::6053691
 0 @bDNq0ruKQTShQyuD99jm@ FAM
 1 REFN 279bc1d6-1f5f-481d-9f44-953d88dc1f96
 1 HUSB @BhoSovK4SzeBRpU2NspI@
@@ -26890,7 +26932,6 @@
 3 PAGE p. 34
 3 QUAY 2
 2 SOUR @S208@
-3 OBJE @5Ob6Lje1RKanQtKfyncR@
 3 _APID 1,61377::142590
 2 NOTE By F. W. Tomlinson, Minister.
 3 CONT Alta Benedict says they were married in the house they rente
@@ -31017,6 +31058,9 @@
 1 REFN 23e299b8-9044-4d11-99dc-b6945312475e
 1 TITL USA. Rhode Island. Portsmouth, Town of. Town Records
 1 AUTH USA. Rhode Island. Portsmouth, Town of.
+0 @S264@ SOUR
+1 TITL USA. Rhode Island. Providence, Town of. Deeds and Mortgages
+1 AUTH USA. Rhode Island. Providence, Town of
 0 @S179@ SOUR
 1 REFN 11267da7-7352-4f74-9662-52dc7abea91a
 1 TITL USA. Rhode Island. Westerly, Town of. Land Evidence
@@ -33504,4 +33548,15 @@
 2 TITL New York State, Marriage Index, 1881-1967
 2 _TEXT New York State Department of Health; Albany, NY, USA; New Yo
 3 CONC rk State Marriage Index
+0 @M330@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher Media\re
+2 CONC cord-image_3Q9M-CS4X-53DL-6.jpg
+2 FORM jpg
+2 TITL record-image_3Q9M-CS4X-53DL-6
+2 _DATE 9/30/2018 3:18:29 AM
+0 @M331@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher Media\Ne
+2 CONC w York, County Marriage Records, 1847-1849, 1907-1936(3).jpg
+2 FORM jpg
+2 TITL New York, County Marriage Records, 1847-1849, 1907-1936
 0 TRLR
