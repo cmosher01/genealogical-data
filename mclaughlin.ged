@@ -3,7 +3,8 @@
 1 GEDC
 2 VERS 5.5.1
 2 FORM LINEAGE-LINKED
-1 COPR Copyright © 1998, Christopher Alan Mosher, Shelton, CT, USA.
+1 COPR Copyright © 1998–2018, Christopher Alan Mosher, Shelton, CT
+2 CONC , USA.
 1 SUBM @Umy2qBWIRUiwVSS6Hcn4@
 1 SOUR FTM
 2 VERS 23.2.0.1540
@@ -13,13 +14,13 @@
 4 CONT Boston, MA 02109
 3 PHON (617) 227-6681
 1 DEST FTM
-1 FILE McLaughlin_2018-10-02-02-00-02.ftm.ged
-1 DATE 02 OCT 2018
-2 TIME 02:01:26
+1 FILE McLaughlin_2018-10-06-05-18-32.ftm.ged
+1 DATE 06 OCT 2018
+2 TIME 05:19:20
 0 @Umy2qBWIRUiwVSS6Hcn4@ SUBM
 1 NAME Christopher Alan Mosher
 2 EMAIL cmosher01@@gmail.com
-2 WWW http://mosher.mine.nu/
+2 WWW https://mosher.mine.nu/
 2 WWW https://github.com/cmosher01/
 2 WWW https://www.ancestry.com/connect/Profile/0065664a-0000-0000-
 3 CONC 0000-000000000000
@@ -1687,6 +1688,13 @@
 4 CONC strict: 177; Image: 0536
 3 OBJE @yL4luUa4SnGeXtUjDYcL@
 3 _APID 1,6742::4066196
+2 SOUR @S71@
+3 PAGE New York Department of Health; Albany, NY; NY State Death In
+4 CONC dex
+3 DATA
+4 TEXT certificate #41424
+3 OBJE @M136@
+3 _APID 1,61535::910217
 2 SOUR @m7Phkg8qRz2NO0TDWP4l@
 3 OBJE @wJaZdqzJSDuNkXUe0ibY@
 3 _APID 1,7218::716497
@@ -1696,8 +1704,6 @@
 2 SOUR @T0ouZsIFRMCsE2JPYkQX@
 3 OBJE @LbIqjIkPT6unhzRXeyGN@
 3 _APID 1,3212::294915
-2 SOUR @9zAXmw6eTSCJdRcE3CKW@
-2 SOUR @12ymxUptTv61yEv1nnnc@
 2 SOUR @S74@
 3 _APID 1,60525::115613980
 1 SEX F
@@ -1737,8 +1743,6 @@
 2 SOUR @T0ouZsIFRMCsE2JPYkQX@
 3 OBJE @LbIqjIkPT6unhzRXeyGN@
 3 _APID 1,3212::294915
-2 SOUR @9zAXmw6eTSCJdRcE3CKW@
-2 SOUR @12ymxUptTv61yEv1nnnc@
 2 SOUR @S74@
 3 _APID 1,60525::115613980
 2 SOUR @0VVQ8i0xTuG0p9aveWFA@
@@ -1871,7 +1875,6 @@
 3 MAP
 4 LATI N42.2442
 4 LONG W77.0444
-2 SOUR @9zAXmw6eTSCJdRcE3CKW@
 2 NOTE Age: 65; Marital Status: Married; Relation to Head of House
 3 CONC : Wife
 1 DEAT
@@ -1883,10 +1886,18 @@
 2 SOUR @XEFxF8kTTdeoDZRduWLc@
 3 QUAY 1
 2 SOUR @9yp8Aw6oSNyuoFYY5rdY@
+2 SOUR @S71@
+3 PAGE New York Department of Health; Albany, NY; NY State Death In
+4 CONC dex
+3 DATA
+4 TEXT certificate #41424
+3 OBJE @M136@
+3 _APID 1,61535::910217
 2 SOUR @S74@
 3 _APID 1,60525::115613980
 2 NOTE [need to check NY Vital Records: death certificate #41424]
 1 BURI
+2 DATE ABT 27 SEP 1904
 2 PLAC Saint Mary's Cemetery, South Corning, Steuben, New York, USA
 2 SOUR @9yp8Aw6oSNyuoFYY5rdY@
 3 QUAY 2
@@ -3683,15 +3694,6 @@
 3 OBJE @0Jm5zbBUQzqsp5EcwsWK@
 3 _APID 1,7667::48615962
 2 NOTE Age: 18
-1 EVEN
-2 TYPE Arrival
-2 DATE 1862
-2 SOUR @ZS3IrbjMQbyhNq4cDgeh@
-3 PAGE Year: 1910; Census Place: Reading, Schuyler, New York; Roll
-4 CONC : T624_1061; Page: 8B; Enumeration District: 0064; FHL micro
-4 CONC film: 1375074
-3 OBJE @EfIujdRqTC6PRu8plcNW@
-3 _APID 1,7884::138314702
 1 RESI
 2 DATE 1865
 2 PLAC Reading, Schuyler, New York, USA
@@ -6960,6 +6962,13 @@
 4 CONC 627_2781; Page: 5A; Enumeration District: 51-54
 3 OBJE @zfASUpc6RpmezKbeFxYT@
 3 _APID 1,2442::8685256
+2 SOUR @S71@
+3 PAGE New York Department of Health; Albany, NY; NY State Death In
+4 CONC dex
+3 DATA
+4 TEXT certificate #30722
+3 OBJE @M138@
+3 _APID 1,61535::2244727
 2 SOUR @7tJxBxhGR46VSVFwI4mZ@
 3 OBJE @3Si1qPd6SrW0Al0ZgiVA@
 3 _APID 1,7250::1382758433
@@ -7026,6 +7035,13 @@
 3 OBJE @zfASUpc6RpmezKbeFxYT@
 3 _APID 1,2442::8685256
 2 SOUR @9IoBBXyfStatJYgfOOXZ@
+2 SOUR @S71@
+3 PAGE New York Department of Health; Albany, NY; NY State Death In
+4 CONC dex
+3 DATA
+4 TEXT certificate #30722
+3 OBJE @M138@
+3 _APID 1,61535::2244727
 2 SOUR @7tJxBxhGR46VSVFwI4mZ@
 3 OBJE @3Si1qPd6SrW0Al0ZgiVA@
 3 _APID 1,7250::1382758433
@@ -7280,6 +7296,13 @@
 2 SOUR @Lur5OfmtTeWbdw78BtpK@
 2 SOUR @mDllaLaWRoiz2KYi6dCA@
 3 QUAY 1
+2 SOUR @S71@
+3 PAGE New York Department of Health; Albany, NY; NY State Death In
+4 CONC dex
+3 DATA
+4 TEXT certificate #30722
+3 OBJE @M138@
+3 _APID 1,61535::2244727
 2 SOUR @S74@
 3 _APID 1,60525::46328189
 2 SOUR @e0k10AjRSSyDnTOmeiMT@
@@ -7505,8 +7528,107 @@
 3 PAGE New York State Archives, Cultural Education Center, Albany
 4 CONC , New York; New York Civil War Muster Roll Abstracts, 1861-1
 4 CONC 900; Archive Collection #: 13775-83; Box #: 959; Roll #: 615
+3 DATA
+4 TEXT <p>
+5 CONT [Original data: Civil War Muster Roll Abstracts of New Yor
+5 CONC k State Volunteers, United States Sharpshooters, and Unite
+5 CONC d States Colored Troops [ca. 1861-1900]. (microfilm, 1185 ro
+5 CONC lls). MC-MY (box 615), image 239 of 533; Albany, New York: N
+5 CONC ew York State Archives.]
+5 CONT </p>
+5 CONT <table cellspacing="0" cellpadding="1">
+5 CONT <tbody>
+5 CONT <tr><td colspan="2">
+5 CONT <table border="1" width="100%">
+5 CONT <tbody>
+5 CONT <tr><td>McLaughlin, William</td><td>2666</td></tr>
+5 CONT </tbody>
+5 CONT </table>
+5 CONT </td></tr>
+5 CONT <tr><td>
+5 CONT <table border="1">
+5 CONT <thead>
+5 CONT <tr><th rowspan="2">AGE.</th><th colspan="5">ENLISTED.</th><
+5 CONC /tr>
+5 CONT <tr><th colspan="3">WHEN.</th><th>WHERE.</th><th rowspan="2"
+5 CONC >PERIOD YEARS.</th></tr>
+5 CONT <tr><th>YEARS.</th><th>DAY.</th><th>MONTH.</th><th>YEAR.</th
+5 CONC ></tr>
+5 CONT </thead>
+5 CONT <tbody>
+5 CONT <tr><td>40</td><td>9</td><td>Sept.</td><td>1864</td><td>Horn
+5 CONC by, N. Y.</td><td>1</td></tr>
+5 CONT <tr><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;<
+5 CONC /td><td>&nbsp;</td><td>&nbsp;</td></tr>
+5 CONT <tr><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;<
+5 CONC /td><td>&nbsp;</td><td>&nbsp;</td></tr>
+5 CONT </tbody>
+5 CONT </table>
+5 CONT </td><td>
+5 CONT <table border="1">
+5 CONT <thead>
+5 CONT <tr><th colspan="6">MUSTERED IN.</th></tr>
+5 CONT <tr><th colspan="3">WHEN.</th><th rowspan="2">GRADE</th><t
+5 CONC h rowspan="2">COMP'Y.</th><th rowspan="2">REG'T.</th></tr>
+5 CONT <tr><th>DAY.</th><th>MONTH.</th><th>YEAR</th></tr>
+5 CONT </thead>
+5 CONT <tbody>
+5 CONT <tr><td>1</td><td>Oct.</td><td>1864</td><td>Pvt.</td><td>M</
+5 CONC td><td>15 Engr.</td></tr>
+5 CONT <tr><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;<
+5 CONC /td><td>&nbsp;</td><td>&nbsp;</td></tr>
+5 CONT <tr><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;<
+5 CONC /td><td>&nbsp;</td><td>&nbsp;</td></tr>
+5 CONT </tbody>
+5 CONT </table>
+5 CONT </td></tr>
+5 CONT <tr><td colspan="2">
+5 CONT <table border="1" width="100%">
+5 CONT <thead>
+5 CONT <tr><th colspan="6">LEFT THE ORGANIZATION.</th></tr>
+5 CONT <tr><th>HOW.</th><th colspan="3">WHEN.</th><th>IN WHAT GRADE
+5 CONC .</th><th>EXPLANATION.</th></tr>
+5 CONT <tr><th></th><th>DAY.</th><th>MONTH.</th><th>YEAR.</th></tr>
+5 CONT </thead>
+5 CONT <tbody>
+5 CONT <tr><td>M[ustered]. O[ut].</td><td>13</td><td>June</td><td>1
+5 CONC 865</td><td>Pvt.</td><td>with Co. AT FORT BERRY VA.</td></tr
+5 CONC >
+5 CONT <tr><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;<
+5 CONC /td><td>&nbsp;</td><td>&nbsp;</td></tr>
+5 CONT <tr><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;<
+5 CONC /td><td>&nbsp;</td><td>&nbsp;</td></tr>
+5 CONT </tbody>
+5 CONT </table>
+5 CONT </td></tr>
+5 CONT <tr><td colspan="2">
+5 CONT <table border="1" width="100%">
+5 CONT <tr><td>REMARKS: M[uster]. R[oll]. OCT, DEC, '64 FEB, APL, '
+5 CONC 65. Present AS PRIVATE.</td></tr>
+5 CONT <tr><td>&nbsp;</td></tr>
+5 CONT <tr><td>&nbsp;</td></tr>
+5 CONT <tr><td>&nbsp;</td></tr>
+5 CONT <tr><td>&nbsp;</td></tr>
+5 CONT <tr><td>&nbsp;</td></tr>
+5 CONT <tr><td>&nbsp;</td></tr>
+5 CONT <tr><td><i>Born</i> Ireland <i>Age</i> 40 years. <i>Occupati
+5 CONC on</i> Farmer</td></tr>
+5 CONT <tr><td><i>Eyes</i> Black <i>Hair</i> Black <i>Complexion</i
+5 CONC > fair 5 <i>ft.</i> 7 <i>in. high</i> <i>Cr.</i>27 <i>Cong
+5 CONC . Dist.</i> [blank] <i>Sub. Dist.</i> [blank]</td></tr>
+5 CONT </table>
+5 CONT </td></tr>
+5 CONT </tbody>
+5 CONT </table>
 3 OBJE @M122@
 3 _APID 1,1965::134986
+2 SOUR @S71@
+3 PAGE New York Department of Health; Albany, NY; NY State Death In
+4 CONC dex
+3 DATA
+4 TEXT certificate #7110
+3 OBJE @M137@
+3 _APID 1,61535::3370082
 2 SOUR @m7Phkg8qRz2NO0TDWP4l@
 3 OBJE @wJaZdqzJSDuNkXUe0ibY@
 3 _APID 1,7218::716496
@@ -7534,7 +7656,6 @@
 1 FAMC @A2Y2JNlUSdqZzT8QcHDD@
 1 FAMS @k3eINVMISsa7AVKKO8hC@
 1 OBJE @6tYOAqSKTXmnrUFO9Ss1@
-1 OBJE @tilKFHpZQr6OMA3PAjUd@
 1 BIRT
 2 DATE MAY 1821
 2 PLAC Donegal, Ireland
@@ -7569,6 +7690,98 @@
 3 PAGE New York State Archives, Cultural Education Center, Albany
 4 CONC , New York; New York Civil War Muster Roll Abstracts, 1861-1
 4 CONC 900; Archive Collection #: 13775-83; Box #: 959; Roll #: 615
+3 DATA
+4 TEXT <p>
+5 CONT [Original data: Civil War Muster Roll Abstracts of New Yor
+5 CONC k State Volunteers, United States Sharpshooters, and Unite
+5 CONC d States Colored Troops [ca. 1861-1900]. (microfilm, 1185 ro
+5 CONC lls). MC-MY (box 615), image 239 of 533; Albany, New York: N
+5 CONC ew York State Archives.]
+5 CONT </p>
+5 CONT <table cellspacing="0" cellpadding="1">
+5 CONT <tbody>
+5 CONT <tr><td colspan="2">
+5 CONT <table border="1" width="100%">
+5 CONT <tbody>
+5 CONT <tr><td>McLaughlin, William</td><td>2666</td></tr>
+5 CONT </tbody>
+5 CONT </table>
+5 CONT </td></tr>
+5 CONT <tr><td>
+5 CONT <table border="1">
+5 CONT <thead>
+5 CONT <tr><th rowspan="2">AGE.</th><th colspan="5">ENLISTED.</th><
+5 CONC /tr>
+5 CONT <tr><th colspan="3">WHEN.</th><th>WHERE.</th><th rowspan="2"
+5 CONC >PERIOD YEARS.</th></tr>
+5 CONT <tr><th>YEARS.</th><th>DAY.</th><th>MONTH.</th><th>YEAR.</th
+5 CONC ></tr>
+5 CONT </thead>
+5 CONT <tbody>
+5 CONT <tr><td>40</td><td>9</td><td>Sept.</td><td>1864</td><td>Horn
+5 CONC by, N. Y.</td><td>1</td></tr>
+5 CONT <tr><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;<
+5 CONC /td><td>&nbsp;</td><td>&nbsp;</td></tr>
+5 CONT <tr><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;<
+5 CONC /td><td>&nbsp;</td><td>&nbsp;</td></tr>
+5 CONT </tbody>
+5 CONT </table>
+5 CONT </td><td>
+5 CONT <table border="1">
+5 CONT <thead>
+5 CONT <tr><th colspan="6">MUSTERED IN.</th></tr>
+5 CONT <tr><th colspan="3">WHEN.</th><th rowspan="2">GRADE</th><t
+5 CONC h rowspan="2">COMP'Y.</th><th rowspan="2">REG'T.</th></tr>
+5 CONT <tr><th>DAY.</th><th>MONTH.</th><th>YEAR</th></tr>
+5 CONT </thead>
+5 CONT <tbody>
+5 CONT <tr><td>1</td><td>Oct.</td><td>1864</td><td>Pvt.</td><td>M</
+5 CONC td><td>15 Engr.</td></tr>
+5 CONT <tr><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;<
+5 CONC /td><td>&nbsp;</td><td>&nbsp;</td></tr>
+5 CONT <tr><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;<
+5 CONC /td><td>&nbsp;</td><td>&nbsp;</td></tr>
+5 CONT </tbody>
+5 CONT </table>
+5 CONT </td></tr>
+5 CONT <tr><td colspan="2">
+5 CONT <table border="1" width="100%">
+5 CONT <thead>
+5 CONT <tr><th colspan="6">LEFT THE ORGANIZATION.</th></tr>
+5 CONT <tr><th>HOW.</th><th colspan="3">WHEN.</th><th>IN WHAT GRADE
+5 CONC .</th><th>EXPLANATION.</th></tr>
+5 CONT <tr><th></th><th>DAY.</th><th>MONTH.</th><th>YEAR.</th></tr>
+5 CONT </thead>
+5 CONT <tbody>
+5 CONT <tr><td>M[ustered]. O[ut].</td><td>13</td><td>June</td><td>1
+5 CONC 865</td><td>Pvt.</td><td>with Co. AT FORT BERRY VA.</td></tr
+5 CONC >
+5 CONT <tr><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;<
+5 CONC /td><td>&nbsp;</td><td>&nbsp;</td></tr>
+5 CONT <tr><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;<
+5 CONC /td><td>&nbsp;</td><td>&nbsp;</td></tr>
+5 CONT </tbody>
+5 CONT </table>
+5 CONT </td></tr>
+5 CONT <tr><td colspan="2">
+5 CONT <table border="1" width="100%">
+5 CONT <tr><td>REMARKS: M[uster]. R[oll]. OCT, DEC, '64 FEB, APL, '
+5 CONC 65. Present AS PRIVATE.</td></tr>
+5 CONT <tr><td>&nbsp;</td></tr>
+5 CONT <tr><td>&nbsp;</td></tr>
+5 CONT <tr><td>&nbsp;</td></tr>
+5 CONT <tr><td>&nbsp;</td></tr>
+5 CONT <tr><td>&nbsp;</td></tr>
+5 CONT <tr><td>&nbsp;</td></tr>
+5 CONT <tr><td><i>Born</i> Ireland <i>Age</i> 40 years. <i>Occupati
+5 CONC on</i> Farmer</td></tr>
+5 CONT <tr><td><i>Eyes</i> Black <i>Hair</i> Black <i>Complexion</i
+5 CONC > fair 5 <i>ft.</i> 7 <i>in. high</i> <i>Cr.</i>27 <i>Cong
+5 CONC . Dist.</i> [blank] <i>Sub. Dist.</i> [blank]</td></tr>
+5 CONT </table>
+5 CONT </td></tr>
+5 CONT </tbody>
+5 CONT </table>
 3 OBJE @M122@
 3 _APID 1,1965::134986
 2 SOUR @m7Phkg8qRz2NO0TDWP4l@
@@ -7589,7 +7802,6 @@
 2 DATE 1857
 2 SOUR @0VVQ8i0xTuG0p9aveWFA@
 3 QUAY 1
-2 NOTE Lillian's Hornby gives 1845
 1 RESI
 2 DATE 01 JUN 1860
 2 PLAC Dix, Schuyler, New York, USA
@@ -7603,28 +7815,49 @@
 3 OBJE @0Jm5zbBUQzqsp5EcwsWK@
 3 _APID 1,7667::48615955
 2 SOUR @yuEWiW3cScuvdxwbqXvS@
-2 NOTE Age: 29
-3 CONT Best guess based on 1874 Pomeroy Altas and 1860/70/80 US Cen
-3 CONC sus records:
-3 CONT Vanzandt Hollow Road.
-1 EVEN
-2 TYPE bought land
+2 NOTE Age: 29.
+3 CONT Exact location (best guess) based on 1874 Pomeroy Altas an
+3 CONC d 1860/70/80 US Census records:Vanzandt Hollow Road.
+1 PROP bought land
 2 DATE 02 APR 1861
 2 PLAC Hornby, Steuben, New York, USA
 3 MAP
 4 LATI N42.2442
 4 LONG W77.0444
-2 SOUR @zXhUWW4EQICUDAupBYHv@
-3 PAGE v. 91, p. 571
-3 QUAY 3
 2 SOUR @N0QDvsKzRd6L25GA73AW@
-3 PAGE vol. 91, pp. 570-571
+3 PAGE <bibl> <author>County of Steuben (New York, USA)</author>, <
+4 CONC title level="u">Land Records</title>, <citedRange>91: 571, d
+4 CONC eed, Myron C. Kniffin and wife to William McLaughlin, record
+4 CONC ed 23 Apr 1861</citedRange>; digital images, <title level="m
+4 CONC ">FamilySearch</title> (https://www.familysearch.org/ark:/61
+4 CONC 903/3:1:3QS7-99WC-Z9B4 : 5 Oct 2018), <title level="u">Deed
+4 CONC s [Steuben County, New York] v. 91–92 1860–2</title>, FHL mi
+4 CONC crofilm 513,715 DGS 7137604, image 178 of 503. </bibl>
+3 QUAY 4
+3 DATA
+4 TEXT 2 Apr 1861, 86.16 acres, lot 52, Hornby
 3 OBJE @tilKFHpZQr6OMA3PAjUd@
-3 _LINK https://familysearch.org/pal:/MM9.3.1/TH-1951-32680-1747-84?
-4 CONC cc=2078654&wc=M9M4-FJN:n1899216083
-2 OBJE @tilKFHpZQr6OMA3PAjUd@
-2 NOTE Lillian's Hornby says he bought land from Platt family (bu
-3 CONC t doesn't give date)
+3 _LINK https://www.familysearch.org/ark:/61903/3:1:3QS7-99WC-Z9B4
+1 PROP sold land
+2 DATE 18 APR 1861
+2 PLAC Hornby, Steuben, New York, USA
+3 MAP
+4 LATI N42.2442
+4 LONG W77.0444
+2 SOUR @N0QDvsKzRd6L25GA73AW@
+3 PAGE <bibl> <author>County of Steuben (New York, USA)</author>, <
+4 CONC title level="u">Land Records</title>, <citedRange>91: 570, d
+4 CONC eed, William McLaughlin and wife to Charles Cook, recorded 2
+4 CONC 3 Apr 1861</citedRange>; digital images, <title level="m">Fa
+4 CONC milySearch</title> (https://www.familysearch.org/ark:/61903/
+4 CONC 3:1:3QS7-99WC-Z9B4 : 5 Oct 2018), <title level="u">Deeds [St
+4 CONC euben County, New York] v. 91–92 1860–2</title>, FHL microfi
+4 CONC lm 513,715 DGS 7137604, image 178 of 503. </bibl>
+3 QUAY 4
+3 DATA
+4 TEXT 18 Apr 1861, 86.16 acres, lot 52, Hornby
+3 OBJE @tilKFHpZQr6OMA3PAjUd@
+3 _LINK https://www.familysearch.org/ark:/61903/3:1:3QS7-99WC-Z9B4
 1 EVEN 15th New York Volunteer Engineers Regiment, “New York Sapper
 2 CONC s and Miners”, Company M.
 2 TYPE military
@@ -7642,9 +7875,100 @@
 3 PAGE New York State Archives, Cultural Education Center, Albany
 4 CONC , New York; New York Civil War Muster Roll Abstracts, 1861-1
 4 CONC 900; Archive Collection #: 13775-83; Box #: 959; Roll #: 615
+3 DATA
+4 TEXT <p>
+5 CONT [Original data: Civil War Muster Roll Abstracts of New Yor
+5 CONC k State Volunteers, United States Sharpshooters, and Unite
+5 CONC d States Colored Troops [ca. 1861-1900]. (microfilm, 1185 ro
+5 CONC lls). MC-MY (box 615), image 239 of 533; Albany, New York: N
+5 CONC ew York State Archives.]
+5 CONT </p>
+5 CONT <table cellspacing="0" cellpadding="1">
+5 CONT <tbody>
+5 CONT <tr><td colspan="2">
+5 CONT <table border="1" width="100%">
+5 CONT <tbody>
+5 CONT <tr><td>McLaughlin, William</td><td>2666</td></tr>
+5 CONT </tbody>
+5 CONT </table>
+5 CONT </td></tr>
+5 CONT <tr><td>
+5 CONT <table border="1">
+5 CONT <thead>
+5 CONT <tr><th rowspan="2">AGE.</th><th colspan="5">ENLISTED.</th><
+5 CONC /tr>
+5 CONT <tr><th colspan="3">WHEN.</th><th>WHERE.</th><th rowspan="2"
+5 CONC >PERIOD YEARS.</th></tr>
+5 CONT <tr><th>YEARS.</th><th>DAY.</th><th>MONTH.</th><th>YEAR.</th
+5 CONC ></tr>
+5 CONT </thead>
+5 CONT <tbody>
+5 CONT <tr><td>40</td><td>9</td><td>Sept.</td><td>1864</td><td>Horn
+5 CONC by, N. Y.</td><td>1</td></tr>
+5 CONT <tr><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;<
+5 CONC /td><td>&nbsp;</td><td>&nbsp;</td></tr>
+5 CONT <tr><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;<
+5 CONC /td><td>&nbsp;</td><td>&nbsp;</td></tr>
+5 CONT </tbody>
+5 CONT </table>
+5 CONT </td><td>
+5 CONT <table border="1">
+5 CONT <thead>
+5 CONT <tr><th colspan="6">MUSTERED IN.</th></tr>
+5 CONT <tr><th colspan="3">WHEN.</th><th rowspan="2">GRADE</th><t
+5 CONC h rowspan="2">COMP'Y.</th><th rowspan="2">REG'T.</th></tr>
+5 CONT <tr><th>DAY.</th><th>MONTH.</th><th>YEAR</th></tr>
+5 CONT </thead>
+5 CONT <tbody>
+5 CONT <tr><td>1</td><td>Oct.</td><td>1864</td><td>Pvt.</td><td>M</
+5 CONC td><td>15 Engr.</td></tr>
+5 CONT <tr><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;<
+5 CONC /td><td>&nbsp;</td><td>&nbsp;</td></tr>
+5 CONT <tr><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;<
+5 CONC /td><td>&nbsp;</td><td>&nbsp;</td></tr>
+5 CONT </tbody>
+5 CONT </table>
+5 CONT </td></tr>
+5 CONT <tr><td colspan="2">
+5 CONT <table border="1" width="100%">
+5 CONT <thead>
+5 CONT <tr><th colspan="6">LEFT THE ORGANIZATION.</th></tr>
+5 CONT <tr><th>HOW.</th><th colspan="3">WHEN.</th><th>IN WHAT GRADE
+5 CONC .</th><th>EXPLANATION.</th></tr>
+5 CONT <tr><th></th><th>DAY.</th><th>MONTH.</th><th>YEAR.</th></tr>
+5 CONT </thead>
+5 CONT <tbody>
+5 CONT <tr><td>M[ustered]. O[ut].</td><td>13</td><td>June</td><td>1
+5 CONC 865</td><td>Pvt.</td><td>with Co. AT FORT BERRY VA.</td></tr
+5 CONC >
+5 CONT <tr><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;<
+5 CONC /td><td>&nbsp;</td><td>&nbsp;</td></tr>
+5 CONT <tr><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;<
+5 CONC /td><td>&nbsp;</td><td>&nbsp;</td></tr>
+5 CONT </tbody>
+5 CONT </table>
+5 CONT </td></tr>
+5 CONT <tr><td colspan="2">
+5 CONT <table border="1" width="100%">
+5 CONT <tr><td>REMARKS: M[uster]. R[oll]. OCT, DEC, '64 FEB, APL, '
+5 CONC 65. Present AS PRIVATE.</td></tr>
+5 CONT <tr><td>&nbsp;</td></tr>
+5 CONT <tr><td>&nbsp;</td></tr>
+5 CONT <tr><td>&nbsp;</td></tr>
+5 CONT <tr><td>&nbsp;</td></tr>
+5 CONT <tr><td>&nbsp;</td></tr>
+5 CONT <tr><td>&nbsp;</td></tr>
+5 CONT <tr><td><i>Born</i> Ireland <i>Age</i> 40 years. <i>Occupati
+5 CONC on</i> Farmer</td></tr>
+5 CONT <tr><td><i>Eyes</i> Black <i>Hair</i> Black <i>Complexion</i
+5 CONC > fair 5 <i>ft.</i> 7 <i>in. high</i> <i>Cr.</i>27 <i>Cong
+5 CONC . Dist.</i> [blank] <i>Sub. Dist.</i> [blank]</td></tr>
+5 CONT </table>
+5 CONT </td></tr>
+5 CONT </tbody>
+5 CONT </table>
 3 OBJE @M122@
 3 _APID 1,1965::134986
-2 SOUR @oiuf7b0kRzieZspC8tdz@
 2 SOUR @S78@
 3 _APID 1,1555::158611
 1 CENS
@@ -7817,17 +8141,15 @@
 3 DATA
 4 TEXT cert. no. 7110
 2 SOUR @9yp8Aw6oSNyuoFYY5rdY@
-1 DEAT
-2 DATE 22 FEB 1902
-2 PLAC Hornby, Steuben, New York, USA
-3 MAP
-4 LATI N42.2442
-4 LONG W77.0444
 2 SOUR @F9Ow9j9kQsaKVsnDaoQY@
-3 QUAY 1
-2 NOTE gravestone has Feb. 21, 1902;
-3 CONT [need to check NY Vital Records: death certificate #7110];
-3 CONT obituaries have Saturday, Feb. 22
+2 SOUR @DV0l4qMxTVKhOaNIHHkg@
+2 SOUR @S71@
+3 PAGE New York Department of Health; Albany, NY; NY State Death In
+4 CONC dex
+3 DATA
+4 TEXT certificate #7110
+3 OBJE @M137@
+3 _APID 1,61535::3370082
 1 EVEN
 2 TYPE funeral
 2 DATE 24 FEB 1902
@@ -9714,6 +10036,8 @@
 2 TYPE note (M)
 2 SOUR @EndAqtV7TBSOao81uFyz@
 3 PAGE p. 34
+2 NOTE Met first in Ireland, Immigrated to USA at different times
+3 CONC . Met again in New York and got married.
 0 @GcDSArMGR8C8CttudoQ9@ FAM
 1 REFN a091b192-69c0-4c12-9f56-c358158343a6
 1 HUSB @0B4WRq7ATy2levCzNn1m@
@@ -9940,10 +10264,6 @@
 1 REFN f059b556-eb8e-4e35-869c-1f2bbc8198b1
 1 TITL Death Index
 1 PUBL Steuben Co. Clerks Office, Bath, NY
-0 @zXhUWW4EQICUDAupBYHv@ SOUR
-1 REFN 8f6cd074-2b9b-44f4-a337-dbfec99e2b74
-1 TITL Deeds
-1 PUBL Steuben Co. Clerks Office, Bath, NY
 0 @jeloXU3BSga3SEjzGjxP@ SOUR
 1 REFN c655930e-1565-4744-bb6d-b0dceabf2369
 1 TITL Descendants of James McLaughlin
@@ -10083,114 +10403,6 @@
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2011
-0 @oiuf7b0kRzieZspC8tdz@ SOUR
-1 REFN aa29a030-9957-4c2a-8afd-440f5b1d10ae
-1 TITL New York, Civil War Muster Roll Abstracts, 1861-1900 [databa
-2 CONC se on-line], 15th Engineers, MC-MY (box 615), image 239 of 5
-2 CONC 33
-1 AUTH Ancestry.com
-1 PUBL Provo, UT, USA: Ancestry.com Operations, Inc., 2011
-1 TEXT <p>
-2 CONT [
-2 CONT Original data: Civil War Muster Roll Abstracts of New York S
-2 CONC tate Volunteers, United States Sharpshooters, and United Sta
-2 CONC tes Colored Troops [ca. 1861-1900]. (microfilm, 1185 rolls)
-2 CONC . Albany, New York: New York State Archives.
-2 CONT ]
-2 CONT </p>
-2 CONT <p>
-2 CONT [
-2 CONT New York State Archives, Cultural Education Center, Albany
-2 CONC , New York; New York Civil War Muster Roll Abstracts, 1861-1
-2 CONC 900; Archive Collection #13775-83; Box #959; Roll #615.
-2 CONT ]
-2 CONT </p>
-2 CONT <p>
-2 CONT <table cellspacing="0" cellpadding="1">
-2 CONT <tbody>
-2 CONT <tr><td colspan="2">
-2 CONT <table border="1" width="100%">
-2 CONT <tbody>
-2 CONT <tr><td>McLaughlin, William</td><td>2666</td></tr>
-2 CONT </tbody>
-2 CONT </table>
-2 CONT </td></tr>
-2 CONT <tr><td>
-2 CONT <table border="1">
-2 CONT <thead>
-2 CONT <tr><th rowspan="2">AGE.</th><th colspan="5">ENLISTED.</th><
-2 CONC /tr>
-2 CONT <tr><th colspan="3">WHEN.</th><th>WHERE.</th><th rowspan="2"
-2 CONC >PERIOD YEARS.</th></tr>
-2 CONT <tr><th>YEARS.</th><th>DAY.</th><th>MONTH.</th><th>YEAR.</th
-2 CONC ></tr>
-2 CONT </thead>
-2 CONT <tbody>
-2 CONT <tr><td>40</td><td>9</td><td>Sept.</td><td>1864</td><td>Horn
-2 CONC by, N. Y.</td><td>1</td></tr>
-2 CONT <tr><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;<
-2 CONC /td><td>&nbsp;</td><td>&nbsp;</td></tr>
-2 CONT <tr><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;<
-2 CONC /td><td>&nbsp;</td><td>&nbsp;</td></tr>
-2 CONT </tbody>
-2 CONT </table>
-2 CONT </td><td>
-2 CONT <table border="1">
-2 CONT <thead>
-2 CONT <tr><th colspan="6">MUSTERED IN.</th></tr>
-2 CONT <tr><th colspan="3">WHEN.</th><th rowspan="2">GRADE</th><t
-2 CONC h rowspan="2">COMP'Y.</th><th rowspan="2">REG'T.</th></tr>
-2 CONT <tr><th>DAY.</th><th>MONTH.</th><th>YEAR</th></tr>
-2 CONT </thead>
-2 CONT <tbody>
-2 CONT <tr><td>1</td><td>Oct.</td><td>1864</td><td>Pvt.</td><td>M</
-2 CONC td><td>15 Engr.</td></tr>
-2 CONT <tr><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;<
-2 CONC /td><td>&nbsp;</td><td>&nbsp;</td></tr>
-2 CONT <tr><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;<
-2 CONC /td><td>&nbsp;</td><td>&nbsp;</td></tr>
-2 CONT </tbody>
-2 CONT </table>
-2 CONT </td></tr>
-2 CONT <tr><td colspan="2">
-2 CONT <table border="1" width="100%">
-2 CONT <thead>
-2 CONT <tr><th colspan="6">LEFT THE ORGANIZATION.</th></tr>
-2 CONT <tr><th>HOW.</th><th colspan="3">WHEN.</th><th>IN WHAT GRADE
-2 CONC .</th><th>EXPLANATION.</th></tr>
-2 CONT <tr><th></th><th>DAY.</th><th>MONTH.</th><th>YEAR.</th></tr>
-2 CONT </thead>
-2 CONT <tbody>
-2 CONT <tr><td>M[ustered]. O[ut].</td><td>13</td><td>June</td><td>1
-2 CONC 865</td><td>Pvt.</td><td>with Co. AT FORT BERRY VA.</td></tr
-2 CONC >
-2 CONT <tr><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;<
-2 CONC /td><td>&nbsp;</td><td>&nbsp;</td></tr>
-2 CONT <tr><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;<
-2 CONC /td><td>&nbsp;</td><td>&nbsp;</td></tr>
-2 CONT </tbody>
-2 CONT </table>
-2 CONT </td></tr>
-2 CONT <tr><td colspan="2">
-2 CONT <table border="1" width="100%">
-2 CONT <tr><td>REMARKS: M[uster]. R[oll]. OCT, DEC, '64 FEB, APL, '
-2 CONC 65. Present AS PRIVATE.</td></tr>
-2 CONT <tr><td>&nbsp;</td></tr>
-2 CONT <tr><td>&nbsp;</td></tr>
-2 CONT <tr><td>&nbsp;</td></tr>
-2 CONT <tr><td>&nbsp;</td></tr>
-2 CONT <tr><td>&nbsp;</td></tr>
-2 CONT <tr><td>&nbsp;</td></tr>
-2 CONT <tr><td><i>Born</i> Ireland <i>Age</i> 40 years. <i>Occupati
-2 CONC on</i> Farmer</td></tr>
-2 CONT <tr><td><i>Eyes</i> Black <i>Hair</i> Black <i>Complexion</i
-2 CONC > fair 5 <i>ft.</i> 7 <i>in. high</i> <i>Cr.</i>27 <i>Cong
-2 CONC . Dist.</i> [blank] <i>Sub. Dist.</i> [blank]</td></tr>
-2 CONT </table>
-2 CONT </td></tr>
-2 CONT </tbody>
-2 CONT </table>
-2 CONT </p>
 0 @S77@ SOUR
 1 REPO @0aJKtHRDQmatCERL9JPC@
 1 TITL New York, Compiled Census and Census Substitutes Index, 1790
@@ -10259,16 +10471,6 @@
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2012
-0 @9zAXmw6eTSCJdRcE3CKW@ SOUR
-1 REFN 77205ce6-282c-4c6d-9108-a88e1e979871
-1 TITL North Carolina Death Certificates, 1909-1975 [database on-li
-2 CONC ne]
-1 AUTH Ancestry.com
-1 PUBL Provo, UT, USA: Ancestry.com Operations Inc, 2007
-1 TEXT [Original data: North Carolina State Board of Health, Burea
-2 CONC u of Vital Statistics. North Carolina Death Certificates. Mi
-2 CONC crofilm S.123. Rolls 19-242, 280, 313-682, 1040-1297. Nort
-2 CONC h Carolina State Archives, Raleigh, North Carolina.]
 0 @EN0e5E9qRzetfuaNWGkV@ SOUR
 1 REFN e94ac2af-a6b1-47e0-bbe8-b88dd05d2367
 1 TITL NY Census, 1865, Steuben Co., Hornby, image 5 of 34
@@ -10421,10 +10623,6 @@
 0 @S80@ SOUR
 1 TITL St. Mary’s of the Lake Church Records
 1 AUTH St. Mary’s of the Lake Church (Watkins Glen, New York, USA)
-0 @N0QDvsKzRd6L25GA73AW@ SOUR
-1 REFN 3bea1dc2-986f-4f0f-89c0-f7b5a5fe0ece
-1 TITL Steuben County (New York) Land Deeds
-1 AUTH Steuben County (New York)
 0 @w3Was8NjTqaJ1xyf2G1Y@ SOUR
 1 REFN e6fc4f55-0768-4528-929c-f1b367633e4e
 1 REPO @0aJKtHRDQmatCERL9JPC@
@@ -10432,13 +10630,6 @@
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations Inc; Location: Provo, UT, USA; Date
 2 CONC : 2000
-0 @12ymxUptTv61yEv1nnnc@ SOUR
-1 REFN 566bec07-df2d-4f15-bc11-b975861c68fd
-1 TITL Tennessee State Library and Archives, Nashville, Tennessee
-2 CONC , Tennessee Death Records, 1908-1959, Roll # 10, Certificat
-2 CONC e #: 24009
-1 AUTH Ancestry.com
-1 PUBL Provo, UT, USA: Ancestry.com Operations, Inc., 2011
 0 @XO6j9SijRyGVeXfL600G@ SOUR
 1 REFN f9ceabcf-0b8a-452f-8756-0c7cca97e3d6
 1 REPO @0aJKtHRDQmatCERL9JPC@
@@ -11183,6 +11374,10 @@
 2 CONT [this is the next to the last entry in Hornby]<br />
 2 CONT Col. 27&mdash;Wage or salary worker: W<br />
 2 CONT Employer: E
+0 @N0QDvsKzRd6L25GA73AW@ SOUR
+1 REFN 3bea1dc2-986f-4f0f-89c0-f7b5a5fe0ece
+1 TITL USA. New York. Steuben, County of. Land Deed Records
+1 AUTH USA. New York. Steuben, County of.
 0 @e0k10AjRSSyDnTOmeiMT@ SOUR
 1 REFN 4180cfb4-b0b5-476b-a3a3-b85b6410a690
 1 REPO @0aJKtHRDQmatCERL9JPC@
@@ -12237,4 +12432,25 @@
 2 FORM jpg
 2 TITL record-image_3Q9M-CS7W-P9KW-S
 2 _DATE 9/30/2018 2:38:28 AM
+0 @M136@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\McLaughlin Medi
+2 CONC a\New York, Death Index, 1880-1956(1).jpg
+2 FORM jpg
+2 TITL New York, Death Index, 1880-1956
+2 _TEXT New York Department of Health; Albany, NY; NY State Death In
+3 CONC dex
+0 @M137@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\McLaughlin Medi
+2 CONC a\New York, Death Index, 1880-1956(2).jpg
+2 FORM jpg
+2 TITL New York, Death Index, 1880-1956
+2 _TEXT New York Department of Health; Albany, NY; NY State Death In
+3 CONC dex
+0 @M138@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\McLaughlin Medi
+2 CONC a\New York, Death Index, 1880-1956(3).jpg
+2 FORM jpg
+2 TITL New York, Death Index, 1880-1956
+2 _TEXT New York Department of Health; Albany, NY; NY State Death In
+3 CONC dex
 0 TRLR
