@@ -14,9 +14,9 @@
 4 CONT Boston, MA 02109
 3 PHON (617) 227-6681
 1 DEST FTM
-1 FILE McLaughlin_2018-10-07-15-22-15.ftm.ged
+1 FILE McLaughlin_2018-10-07-18-59-28.ftm.ged
 1 DATE 07 OCT 2018
-2 TIME 15:24:27
+2 TIME 22:31:43
 0 @Umy2qBWIRUiwVSS6Hcn4@ SUBM
 1 NAME Christopher Alan Mosher
 2 EMAIL cmosher01@@gmail.com
@@ -378,7 +378,8 @@
 2 SOUR @S74@
 3 _APID 1,60525::64719077
 1 BURI
-2 PLAC Saint Mary's Cemetery, Watkins Glen, Schuyler, New York, USA
+2 PLAC Saint Mary’s Cemetery, Cemetery Road, Watkins Glen, Schuyler
+3 CONC , New York, USA
 2 SOUR @S74@
 3 _APID 1,60525::64719077
 1 _XY 185664 4353
@@ -939,6 +940,21 @@
 3 MAP
 4 LATI N42.3328
 4 LONG W77.0353
+2 SOUR @S80@
+3 PAGE <bibl> <author>St. Mary’s of the Lake Church (Watkins Glen
+4 CONC , New York, USA)</author>, <title level="u">Deaths Ledger 18
+4 CONC 93–1902</title> (also contains 1856–62, at the beginning), u
+4 CONC nnumbered pages, unnumbered entries in chronological order
+4 CONC , <citedRange>23 Jun 1861, Ellen [B]utler</citedRange>; digi
+4 CONC tal images, <title level="m">FamilySearch</title> (<ref targ
+4 CONC et="https://www.familysearch.org/ark:/61903/3:1:3Q9M-CS7W-YL
+4 CONC GP"/> : 6 Oct 2018), FHL microfilm 1,432,401, DGS 7857668, i
+4 CONC mage 248 of 1067. </bibl>
+3 QUAY 4
+3 OBJE @M144@
+3 _LINK https://www.familysearch.org/ark:/61903/3:1:3Q9M-CS7W-YLGP
+1 BURI
+2 DATE ABT 25 JUN 1861
 2 SOUR @S80@
 3 PAGE <bibl> <author>St. Mary’s of the Lake Church (Watkins Glen
 4 CONC , New York, USA)</author>, <title level="u">Deaths Ledger 18
@@ -1670,7 +1686,55 @@
 3 MAP
 4 LATI N42.3898
 4 LONG W76.877
-2 SOUR @9yp8Aw6oSNyuoFYY5rdY@
+2 SOUR @S25@
+3 PAGE <bibl> <author>St. Mary’s Cemetery (South Corning, New York
+4 CONC , USA)</author>, <citedRange>McLaughlin (James, Hannah, Char
+4 CONC les, Wm., Margaret) marker</citedRange>; personally read c
+4 CONC . 1990. [location of marker in cemetery: from entrance, tak
+4 CONC e first right, road curves left and merges, gravestone is o
+4 CONC n the left at that intersection, it is an obelisk with a cro
+4 CONC ss on top] </bibl>
+3 DATA
+4 TEXT <text xml:lang="en">
+5 CONT <body>
+5 CONT <pb/>
+5 CONT <lb/>JAMES M<hi rend="sup">C</hi>LAUGHLIN
+5 CONT <lb/>DIED
+5 CONT <lb/>NOV. 15, 1858.
+5 CONT <lb/>AGED 58 Y’RS.
+5 CONT <lb/>HANNAH HIS WIFE
+5 CONT <lb/>DIED NOV. 20, 1861.
+5 CONT <lb/>AGED 56 Y’RS.
+5 CONT <lb/>CHARLES THEIR SON
+5 CONT <lb/>CO. E 99 N. Y. V.
+5 CONT <lb/>DIED JULY 4 1864
+5 CONT <lb/>AGED 26 YRS
+5 CONT <pb/>
+5 CONT <lb/>WM. McLAUGHLIN
+5 CONT <lb/>BORN IN COUNTY OF
+5 CONT <lb/>DONEGAL, IRELAND
+5 CONT <lb/>MAY 1, 1825.
+5 CONT <lb/>DIED
+5 CONT <lb/>FEB. 21, 1902
+5 CONT <lb/>MARGARET,
+5 CONT <lb/>HIS WIFE
+5 CONT <lb/>BORN IN COUNTY OF
+5 CONT <lb/>DONEGAL, IRELAND
+5 CONT <lb/>JUNE 1 1835.
+5 CONT <lb/>DIED
+5 CONT <lb/>SEP. 24, 1904.
+5 CONT <pb/>
+5 CONT <lb/>HANNAH
+5 CONT <lb/>DAU. OF
+5 CONT <lb/>WM. &amp; MARGARET
+5 CONT <lb/>McLAUGHLIN
+5 CONT <lb/>DIED
+5 CONT <lb/>JAN. 2, 1886.
+5 CONT <lb/>AGED
+5 CONT <lb/>13 YRS. 10 MOS.
+5 CONT <lb/>&amp; 27 DAYS.
+5 CONT </body>
+5 CONT </text>
 2 SOUR @S80@
 3 PAGE <bibl> <author>St. Mary’s of the Lake Church (Watkins Glen
 4 CONC , New York, USA)</author>, <title level="u">Deaths Ledger 18
@@ -1688,9 +1752,58 @@
 3 _APID 1,60525::115594525
 1 BURI
 2 DATE 22 NOV 1861
-2 PLAC Saint Mary's Cemetery, South Corning, Steuben, New York, USA
-2 SOUR @9yp8Aw6oSNyuoFYY5rdY@
+2 PLAC Saint Mary’s Cemetery, 375 Park Avenue, South Corning, Steub
+3 CONC en, New York, USA
+2 SOUR @S25@
+3 PAGE <bibl> <author>St. Mary’s Cemetery (South Corning, New York
+4 CONC , USA)</author>, <citedRange>McLaughlin (James, Hannah, Char
+4 CONC les, Wm., Margaret) marker</citedRange>; personally read c
+4 CONC . 1990. [location of marker in cemetery: from entrance, tak
+4 CONC e first right, road curves left and merges, gravestone is o
+4 CONC n the left at that intersection, it is an obelisk with a cro
+4 CONC ss on top] </bibl>
 3 QUAY 2
+3 DATA
+4 TEXT <text xml:lang="en">
+5 CONT <body>
+5 CONT <pb/>
+5 CONT <lb/>JAMES M<hi rend="sup">C</hi>LAUGHLIN
+5 CONT <lb/>DIED
+5 CONT <lb/>NOV. 15, 1858.
+5 CONT <lb/>AGED 58 Y’RS.
+5 CONT <lb/>HANNAH HIS WIFE
+5 CONT <lb/>DIED NOV. 20, 1861.
+5 CONT <lb/>AGED 56 Y’RS.
+5 CONT <lb/>CHARLES THEIR SON
+5 CONT <lb/>CO. E 99 N. Y. V.
+5 CONT <lb/>DIED JULY 4 1864
+5 CONT <lb/>AGED 26 YRS
+5 CONT <pb/>
+5 CONT <lb/>WM. McLAUGHLIN
+5 CONT <lb/>BORN IN COUNTY OF
+5 CONT <lb/>DONEGAL, IRELAND
+5 CONT <lb/>MAY 1, 1825.
+5 CONT <lb/>DIED
+5 CONT <lb/>FEB. 21, 1902
+5 CONT <lb/>MARGARET,
+5 CONT <lb/>HIS WIFE
+5 CONT <lb/>BORN IN COUNTY OF
+5 CONT <lb/>DONEGAL, IRELAND
+5 CONT <lb/>JUNE 1 1835.
+5 CONT <lb/>DIED
+5 CONT <lb/>SEP. 24, 1904.
+5 CONT <pb/>
+5 CONT <lb/>HANNAH
+5 CONT <lb/>DAU. OF
+5 CONT <lb/>WM. &amp; MARGARET
+5 CONT <lb/>McLAUGHLIN
+5 CONT <lb/>DIED
+5 CONT <lb/>JAN. 2, 1886.
+5 CONT <lb/>AGED
+5 CONT <lb/>13 YRS. 10 MOS.
+5 CONT <lb/>&amp; 27 DAYS.
+5 CONT </body>
+5 CONT </text>
 2 SOUR @S80@
 3 PAGE <bibl> <author>St. Mary’s of the Lake Church (Watkins Glen
 4 CONC , New York, USA)</author>, <title level="u">Deaths Ledger 18
@@ -1925,7 +2038,6 @@
 4 LONG W77.0444
 2 SOUR @XEFxF8kTTdeoDZRduWLc@
 3 QUAY 1
-2 SOUR @9yp8Aw6oSNyuoFYY5rdY@
 2 SOUR @S71@
 3 PAGE New York Department of Health; Albany, NY; NY State Death In
 4 CONC dex
@@ -1933,9 +2045,58 @@
 4 TEXT certificate #41424
 3 OBJE @M136@
 3 _APID 1,61535::910217
+2 SOUR @S25@
+3 PAGE <bibl> <author>St. Mary’s Cemetery (South Corning, New York
+4 CONC , USA)</author>, <citedRange>McLaughlin (James, Hannah, Char
+4 CONC les, Wm., Margaret) marker</citedRange>; personally read c
+4 CONC . 1990. [location of marker in cemetery: from entrance, tak
+4 CONC e first right, road curves left and merges, gravestone is o
+4 CONC n the left at that intersection, it is an obelisk with a cro
+4 CONC ss on top] </bibl>
+3 DATA
+4 TEXT <text xml:lang="en">
+5 CONT <body>
+5 CONT <pb/>
+5 CONT <lb/>JAMES M<hi rend="sup">C</hi>LAUGHLIN
+5 CONT <lb/>DIED
+5 CONT <lb/>NOV. 15, 1858.
+5 CONT <lb/>AGED 58 Y’RS.
+5 CONT <lb/>HANNAH HIS WIFE
+5 CONT <lb/>DIED NOV. 20, 1861.
+5 CONT <lb/>AGED 56 Y’RS.
+5 CONT <lb/>CHARLES THEIR SON
+5 CONT <lb/>CO. E 99 N. Y. V.
+5 CONT <lb/>DIED JULY 4 1864
+5 CONT <lb/>AGED 26 YRS
+5 CONT <pb/>
+5 CONT <lb/>WM. McLAUGHLIN
+5 CONT <lb/>BORN IN COUNTY OF
+5 CONT <lb/>DONEGAL, IRELAND
+5 CONT <lb/>MAY 1, 1825.
+5 CONT <lb/>DIED
+5 CONT <lb/>FEB. 21, 1902
+5 CONT <lb/>MARGARET,
+5 CONT <lb/>HIS WIFE
+5 CONT <lb/>BORN IN COUNTY OF
+5 CONT <lb/>DONEGAL, IRELAND
+5 CONT <lb/>JUNE 1 1835.
+5 CONT <lb/>DIED
+5 CONT <lb/>SEP. 24, 1904.
+5 CONT <pb/>
+5 CONT <lb/>HANNAH
+5 CONT <lb/>DAU. OF
+5 CONT <lb/>WM. &amp; MARGARET
+5 CONT <lb/>McLAUGHLIN
+5 CONT <lb/>DIED
+5 CONT <lb/>JAN. 2, 1886.
+5 CONT <lb/>AGED
+5 CONT <lb/>13 YRS. 10 MOS.
+5 CONT <lb/>&amp; 27 DAYS.
+5 CONT </body>
+5 CONT </text>
 2 SOUR @S79@
 3 PAGE <bibl> <author>St. Mary’s Church (Corning, New York, USA)</a
-4 CONC uthor>, <title level="u">Record of Interments, in St Mary'
+4 CONC uthor>, <title level="u">Record of Interments, in St Mary’
 4 CONC s Cemetery—Corning N.Y. From July 23 1896</title>, unnumbere
 4 CONC d entries chronological by burial date, <citedRange>pp. 26–7
 4 CONC , 26 Sep 1904, Mrs. Margaret McLaughlin–</citedRange>; digit
@@ -1950,12 +2111,61 @@
 2 NOTE [need to check NY Vital Records: death certificate #41424]
 1 BURI
 2 DATE 26 SEP 1904
-2 PLAC Saint Mary's Cemetery, South Corning, Steuben, New York, USA
-2 SOUR @9yp8Aw6oSNyuoFYY5rdY@
+2 PLAC Saint Mary’s Cemetery, 375 Park Avenue, South Corning, Steub
+3 CONC en, New York, USA
+2 SOUR @S25@
+3 PAGE <bibl> <author>St. Mary’s Cemetery (South Corning, New York
+4 CONC , USA)</author>, <citedRange>McLaughlin (James, Hannah, Char
+4 CONC les, Wm., Margaret) marker</citedRange>; personally read c
+4 CONC . 1990. [location of marker in cemetery: from entrance, tak
+4 CONC e first right, road curves left and merges, gravestone is o
+4 CONC n the left at that intersection, it is an obelisk with a cro
+4 CONC ss on top] </bibl>
 3 QUAY 2
+3 DATA
+4 TEXT <text xml:lang="en">
+5 CONT <body>
+5 CONT <pb/>
+5 CONT <lb/>JAMES M<hi rend="sup">C</hi>LAUGHLIN
+5 CONT <lb/>DIED
+5 CONT <lb/>NOV. 15, 1858.
+5 CONT <lb/>AGED 58 Y’RS.
+5 CONT <lb/>HANNAH HIS WIFE
+5 CONT <lb/>DIED NOV. 20, 1861.
+5 CONT <lb/>AGED 56 Y’RS.
+5 CONT <lb/>CHARLES THEIR SON
+5 CONT <lb/>CO. E 99 N. Y. V.
+5 CONT <lb/>DIED JULY 4 1864
+5 CONT <lb/>AGED 26 YRS
+5 CONT <pb/>
+5 CONT <lb/>WM. McLAUGHLIN
+5 CONT <lb/>BORN IN COUNTY OF
+5 CONT <lb/>DONEGAL, IRELAND
+5 CONT <lb/>MAY 1, 1825.
+5 CONT <lb/>DIED
+5 CONT <lb/>FEB. 21, 1902
+5 CONT <lb/>MARGARET,
+5 CONT <lb/>HIS WIFE
+5 CONT <lb/>BORN IN COUNTY OF
+5 CONT <lb/>DONEGAL, IRELAND
+5 CONT <lb/>JUNE 1 1835.
+5 CONT <lb/>DIED
+5 CONT <lb/>SEP. 24, 1904.
+5 CONT <pb/>
+5 CONT <lb/>HANNAH
+5 CONT <lb/>DAU. OF
+5 CONT <lb/>WM. &amp; MARGARET
+5 CONT <lb/>McLAUGHLIN
+5 CONT <lb/>DIED
+5 CONT <lb/>JAN. 2, 1886.
+5 CONT <lb/>AGED
+5 CONT <lb/>13 YRS. 10 MOS.
+5 CONT <lb/>&amp; 27 DAYS.
+5 CONT </body>
+5 CONT </text>
 2 SOUR @S79@
 3 PAGE <bibl> <author>St. Mary’s Church (Corning, New York, USA)</a
-4 CONC uthor>, <title level="u">Record of Interments, in St Mary'
+4 CONC uthor>, <title level="u">Record of Interments, in St Mary’
 4 CONC s Cemetery—Corning N.Y. From July 23 1896</title>, unnumbere
 4 CONC d entries chronological by burial date, <citedRange>pp. 26–7
 4 CONC , 26 Sep 1904, Mrs. Margaret McLaughlin–</citedRange>; digit
@@ -2274,7 +2484,8 @@
 3 _APID 1,60525::115614057
 1 BURI
 2 DATE 1944
-2 PLAC Saint Mary's Cemetery, South Corning, Steuben, New York, USA
+2 PLAC Saint Mary’s Cemetery, 375 Park Avenue, South Corning, Steub
+3 CONC en, New York, USA
 2 SOUR @S74@
 3 _APID 1,60525::115614057
 1 _XY 186565 4565
@@ -2460,7 +2671,8 @@
 3 _APID 1,60525::115614101
 1 BURI
 2 DATE ABT 12 DEC 1905
-2 PLAC Saint Mary's Cemetery, South Corning, Steuben, New York, USA
+2 PLAC Saint Mary’s Cemetery, 375 Park Avenue, South Corning, Steub
+3 CONC en, New York, USA
 2 SOUR @S74@
 3 _APID 1,60525::115614101
 1 _XY 188202 4353
@@ -4014,7 +4226,58 @@
 3 _APID 1,60525::115594186
 1 BURI
 2 DATE ABT JUL 1863
-2 PLAC Saint Mary's Cemetery, South Corning, Steuben, New York, USA
+2 PLAC Saint Mary’s Cemetery, 375 Park Avenue, South Corning, Steub
+3 CONC en, New York, USA
+2 SOUR @S25@
+3 PAGE <bibl> <author>St. Mary’s Cemetery (South Corning, New York
+4 CONC , USA)</author>, <citedRange>McLaughlin (James, Hannah, Char
+4 CONC les, Wm., Margaret) marker</citedRange>; personally read c
+4 CONC . 1990. [location of marker in cemetery: from entrance, tak
+4 CONC e first right, road curves left and merges, gravestone is o
+4 CONC n the left at that intersection, it is an obelisk with a cro
+4 CONC ss on top] </bibl>
+3 QUAY 4
+3 DATA
+4 TEXT <text xml:lang="en">
+5 CONT <body>
+5 CONT <pb/>
+5 CONT <lb/>JAMES M<hi rend="sup">C</hi>LAUGHLIN
+5 CONT <lb/>DIED
+5 CONT <lb/>NOV. 15, 1858.
+5 CONT <lb/>AGED 58 Y’RS.
+5 CONT <lb/>HANNAH HIS WIFE
+5 CONT <lb/>DIED NOV. 20, 1861.
+5 CONT <lb/>AGED 56 Y’RS.
+5 CONT <lb/>CHARLES THEIR SON
+5 CONT <lb/>CO. E 99 N. Y. V.
+5 CONT <lb/>DIED JULY 4 1864
+5 CONT <lb/>AGED 26 YRS
+5 CONT <pb/>
+5 CONT <lb/>WM. McLAUGHLIN
+5 CONT <lb/>BORN IN COUNTY OF
+5 CONT <lb/>DONEGAL, IRELAND
+5 CONT <lb/>MAY 1, 1825.
+5 CONT <lb/>DIED
+5 CONT <lb/>FEB. 21, 1902
+5 CONT <lb/>MARGARET,
+5 CONT <lb/>HIS WIFE
+5 CONT <lb/>BORN IN COUNTY OF
+5 CONT <lb/>DONEGAL, IRELAND
+5 CONT <lb/>JUNE 1 1835.
+5 CONT <lb/>DIED
+5 CONT <lb/>SEP. 24, 1904.
+5 CONT <pb/>
+5 CONT <lb/>HANNAH
+5 CONT <lb/>DAU. OF
+5 CONT <lb/>WM. &amp; MARGARET
+5 CONT <lb/>McLAUGHLIN
+5 CONT <lb/>DIED
+5 CONT <lb/>JAN. 2, 1886.
+5 CONT <lb/>AGED
+5 CONT <lb/>13 YRS. 10 MOS.
+5 CONT <lb/>&amp; 27 DAYS.
+5 CONT </body>
+5 CONT </text>
 2 SOUR @S74@
 3 _APID 1,60525::115594186
 1 _XY 187724 4353
@@ -4288,7 +4551,8 @@
 2 NOTE Age: 63; Relation to Head of House: Head
 1 BURI
 2 DATE 1925
-2 PLAC Saint Mary's Cemetery, South Corning, Steuben, New York, USA
+2 PLAC Saint Mary’s Cemetery, 375 Park Avenue, South Corning, Steub
+3 CONC en, New York, USA
 2 SOUR @S74@
 3 _APID 1,60525::120825058
 1 DEAT
@@ -4618,7 +4882,8 @@
 3 _APID 1,60525::115594237
 1 BURI
 2 DATE JUL 1940
-2 PLAC Saint Mary's Cemetery, South Corning, Steuben, New York, USA
+2 PLAC Saint Mary’s Cemetery, 375 Park Avenue, South Corning, Steub
+3 CONC en, New York, USA
 2 SOUR @S74@
 3 _APID 1,60525::115594237
 1 _XY 185722 4565
@@ -5026,7 +5291,8 @@
 3 _APID 1,70572::8473816
 1 BURI
 2 DATE 03 MAR 1908
-2 PLAC Saint Mary's Cemetery, Watkins Glen, Schuyler, New York, USA
+2 PLAC Saint Mary’s Cemetery, Cemetery Road, Watkins Glen, Schuyler
+3 CONC , New York, USA
 2 SOUR @S80@
 3 PAGE <bibl> <author>St. Mary’s of the Lake Church (Watkins Glen
 4 CONC , New York, USA)</author>, <title level="u">Cemetery of St
@@ -5584,7 +5850,8 @@
 3 _APID 1,60525::115594494
 1 BURI
 2 DATE 1939
-2 PLAC Saint Mary's Cemetery, South Corning, Steuben, New York, USA
+2 PLAC Saint Mary’s Cemetery, 375 Park Avenue, South Corning, Steub
+3 CONC en, New York, USA
 2 SOUR @S74@
 3 _APID 1,60525::115594494
 1 _XY 185221 4565
@@ -5614,8 +5881,6 @@
 4 CONC strict: 177; Image: 0536
 3 OBJE @yL4luUa4SnGeXtUjDYcL@
 3 _APID 1,6742::5178853
-2 SOUR @Tcwp1yPzQUOTFgMcIEcT@
-3 QUAY 1
 2 SOUR @7tJxBxhGR46VSVFwI4mZ@
 3 OBJE @3Si1qPd6SrW0Al0ZgiVA@
 3 _APID 1,7250::1382758434
@@ -5675,13 +5940,115 @@
 2 NOTE Age: 8; Marital Status: Single; Relation to Head of House: D
 3 CONC aughter
 1 DEAT
-2 DATE 1886
+2 DATE 02 JAN 1886
 2 PLAC Hornby, Steuben, New York, USA
 3 MAP
 4 LATI N42.2442
 4 LONG W77.0444
-2 SOUR @Tcwp1yPzQUOTFgMcIEcT@
-3 QUAY 1
+2 SOUR @S25@
+3 PAGE <bibl> <author>St. Mary’s Cemetery (South Corning, New York
+4 CONC , USA)</author>, <citedRange>McLaughlin (James, Hannah, Char
+4 CONC les, Wm., Margaret) marker</citedRange>; personally read c
+4 CONC . 1990. [location of marker in cemetery: from entrance, tak
+4 CONC e first right, road curves left and merges, gravestone is o
+4 CONC n the left at that intersection, it is an obelisk with a cro
+4 CONC ss on top] </bibl>
+3 QUAY 2
+3 DATA
+4 TEXT <text xml:lang="en">
+5 CONT <body>
+5 CONT <pb/>
+5 CONT <lb/>JAMES M<hi rend="sup">C</hi>LAUGHLIN
+5 CONT <lb/>DIED
+5 CONT <lb/>NOV. 15, 1858.
+5 CONT <lb/>AGED 58 Y’RS.
+5 CONT <lb/>HANNAH HIS WIFE
+5 CONT <lb/>DIED NOV. 20, 1861.
+5 CONT <lb/>AGED 56 Y’RS.
+5 CONT <lb/>CHARLES THEIR SON
+5 CONT <lb/>CO. E 99 N. Y. V.
+5 CONT <lb/>DIED JULY 4 1864
+5 CONT <lb/>AGED 26 YRS
+5 CONT <pb/>
+5 CONT <lb/>WM. McLAUGHLIN
+5 CONT <lb/>BORN IN COUNTY OF
+5 CONT <lb/>DONEGAL, IRELAND
+5 CONT <lb/>MAY 1, 1825.
+5 CONT <lb/>DIED
+5 CONT <lb/>FEB. 21, 1902
+5 CONT <lb/>MARGARET,
+5 CONT <lb/>HIS WIFE
+5 CONT <lb/>BORN IN COUNTY OF
+5 CONT <lb/>DONEGAL, IRELAND
+5 CONT <lb/>JUNE 1 1835.
+5 CONT <lb/>DIED
+5 CONT <lb/>SEP. 24, 1904.
+5 CONT <pb/>
+5 CONT <lb/>HANNAH
+5 CONT <lb/>DAU. OF
+5 CONT <lb/>WM. &amp; MARGARET
+5 CONT <lb/>McLAUGHLIN
+5 CONT <lb/>DIED
+5 CONT <lb/>JAN. 2, 1886.
+5 CONT <lb/>AGED
+5 CONT <lb/>13 YRS. 10 MOS.
+5 CONT <lb/>&amp; 27 DAYS.
+5 CONT </body>
+5 CONT </text>
+1 BURI
+2 DATE ABT 04 JAN 1886
+2 PLAC Saint Mary’s Cemetery, 375 Park Avenue, South Corning, Steub
+3 CONC en, New York, USA
+2 SOUR @S25@
+3 PAGE <bibl> <author>St. Mary’s Cemetery (South Corning, New York
+4 CONC , USA)</author>, <citedRange>McLaughlin (James, Hannah, Char
+4 CONC les, Wm., Margaret) marker</citedRange>; personally read c
+4 CONC . 1990. [location of marker in cemetery: from entrance, tak
+4 CONC e first right, road curves left and merges, gravestone is o
+4 CONC n the left at that intersection, it is an obelisk with a cro
+4 CONC ss on top] </bibl>
+3 QUAY 4
+3 DATA
+4 TEXT <text xml:lang="en">
+5 CONT <body>
+5 CONT <pb/>
+5 CONT <lb/>JAMES M<hi rend="sup">C</hi>LAUGHLIN
+5 CONT <lb/>DIED
+5 CONT <lb/>NOV. 15, 1858.
+5 CONT <lb/>AGED 58 Y’RS.
+5 CONT <lb/>HANNAH HIS WIFE
+5 CONT <lb/>DIED NOV. 20, 1861.
+5 CONT <lb/>AGED 56 Y’RS.
+5 CONT <lb/>CHARLES THEIR SON
+5 CONT <lb/>CO. E 99 N. Y. V.
+5 CONT <lb/>DIED JULY 4 1864
+5 CONT <lb/>AGED 26 YRS
+5 CONT <pb/>
+5 CONT <lb/>WM. McLAUGHLIN
+5 CONT <lb/>BORN IN COUNTY OF
+5 CONT <lb/>DONEGAL, IRELAND
+5 CONT <lb/>MAY 1, 1825.
+5 CONT <lb/>DIED
+5 CONT <lb/>FEB. 21, 1902
+5 CONT <lb/>MARGARET,
+5 CONT <lb/>HIS WIFE
+5 CONT <lb/>BORN IN COUNTY OF
+5 CONT <lb/>DONEGAL, IRELAND
+5 CONT <lb/>JUNE 1 1835.
+5 CONT <lb/>DIED
+5 CONT <lb/>SEP. 24, 1904.
+5 CONT <pb/>
+5 CONT <lb/>HANNAH
+5 CONT <lb/>DAU. OF
+5 CONT <lb/>WM. &amp; MARGARET
+5 CONT <lb/>McLAUGHLIN
+5 CONT <lb/>DIED
+5 CONT <lb/>JAN. 2, 1886.
+5 CONT <lb/>AGED
+5 CONT <lb/>13 YRS. 10 MOS.
+5 CONT <lb/>&amp; 27 DAYS.
+5 CONT </body>
+5 CONT </text>
 1 _XY 186291 4565
 0 @of7oppniQsGjoDtd2HKq@ INDI
 1 REFN df4014ac-6cb7-4cae-9863-ae027b5327bd
@@ -5856,14 +6223,14 @@
 2 SOUR @S74@
 3 _APID 1,60525::64719084
 1 BURI
-2 PLAC Saint Mary's Cemetery, Watkins Glen, Schuyler, New York, USA
+2 PLAC Saint Mary’s Cemetery, Cemetery Road, Watkins Glen, Schuyler
+3 CONC , New York, USA
 2 SOUR @S74@
 3 _APID 1,60525::64719084
 1 _XY 185543 4353
 0 @JtZ4TGfuQ8Kn3Tyg632l@ INDI
 1 REFN e7de61bd-5976-4a52-bf98-265ad98f8e8b
 1 NAME James /McLaughlin/
-2 SOUR @9yp8Aw6oSNyuoFYY5rdY@
 1 SEX M
 1 FAMS @A2Y2JNlUSdqZzT8QcHDD@
 1 BIRT
@@ -5872,7 +6239,6 @@
 3 MAP
 4 LATI N54.936
 4 LONG W7.8604
-2 SOUR @9yp8Aw6oSNyuoFYY5rdY@
 1 IMMI
 2 DATE 1857
 2 PLAC Dix, Schuyler, New York, USA
@@ -5880,12 +6246,60 @@
 4 LATI N42.3279
 4 LONG W76.9069
 1 DEAT
-2 DATE 10 NOV 1857
+2 DATE ABT 07 NOV 1857
 2 PLAC Dix, Schuyler, New York, USA
 3 MAP
 4 LATI N42.3279
 4 LONG W76.9069
-2 SOUR @9yp8Aw6oSNyuoFYY5rdY@
+2 SOUR @S25@
+3 PAGE <bibl> <author>St. Mary’s Cemetery (South Corning, New York
+4 CONC , USA)</author>, <citedRange>McLaughlin (James, Hannah, Char
+4 CONC les, Wm., Margaret) marker</citedRange>; personally read c
+4 CONC . 1990. [location of marker in cemetery: from entrance, tak
+4 CONC e first right, road curves left and merges, gravestone is o
+4 CONC n the left at that intersection, it is an obelisk with a cro
+4 CONC ss on top] </bibl>
+3 DATA
+4 TEXT <text xml:lang="en">
+5 CONT <body>
+5 CONT <pb/>
+5 CONT <lb/>JAMES M<hi rend="sup">C</hi>LAUGHLIN
+5 CONT <lb/>DIED
+5 CONT <lb/>NOV. 15, 1858.
+5 CONT <lb/>AGED 58 Y’RS.
+5 CONT <lb/>HANNAH HIS WIFE
+5 CONT <lb/>DIED NOV. 20, 1861.
+5 CONT <lb/>AGED 56 Y’RS.
+5 CONT <lb/>CHARLES THEIR SON
+5 CONT <lb/>CO. E 99 N. Y. V.
+5 CONT <lb/>DIED JULY 4 1864
+5 CONT <lb/>AGED 26 YRS
+5 CONT <pb/>
+5 CONT <lb/>WM. McLAUGHLIN
+5 CONT <lb/>BORN IN COUNTY OF
+5 CONT <lb/>DONEGAL, IRELAND
+5 CONT <lb/>MAY 1, 1825.
+5 CONT <lb/>DIED
+5 CONT <lb/>FEB. 21, 1902
+5 CONT <lb/>MARGARET,
+5 CONT <lb/>HIS WIFE
+5 CONT <lb/>BORN IN COUNTY OF
+5 CONT <lb/>DONEGAL, IRELAND
+5 CONT <lb/>JUNE 1 1835.
+5 CONT <lb/>DIED
+5 CONT <lb/>SEP. 24, 1904.
+5 CONT <pb/>
+5 CONT <lb/>HANNAH
+5 CONT <lb/>DAU. OF
+5 CONT <lb/>WM. &amp; MARGARET
+5 CONT <lb/>McLAUGHLIN
+5 CONT <lb/>DIED
+5 CONT <lb/>JAN. 2, 1886.
+5 CONT <lb/>AGED
+5 CONT <lb/>13 YRS. 10 MOS.
+5 CONT <lb/>&amp; 27 DAYS.
+5 CONT </body>
+5 CONT </text>
 2 SOUR @S80@
 3 PAGE <bibl> <author>St. Mary’s of the Lake Church (Watkins Glen
 4 CONC , New York, USA)</author>, <title level="u">Deaths Ledger 18
@@ -5900,9 +6314,72 @@
 3 OBJE @M143@
 3 _LINK https://www.familysearch.org/ark:/61903/3:1:3Q9M-CS7W-YKWT
 1 BURI
-2 PLAC Saint Mary's Cemetery, South Corning, Steuben, New York, USA
-2 SOUR @9yp8Aw6oSNyuoFYY5rdY@
+2 DATE 10 NOV 1857
+2 PLAC Saint Mary’s Cemetery, 375 Park Avenue, South Corning, Steub
+3 CONC en, New York, USA
+2 SOUR @S25@
+3 PAGE <bibl> <author>St. Mary’s Cemetery (South Corning, New York
+4 CONC , USA)</author>, <citedRange>McLaughlin (James, Hannah, Char
+4 CONC les, Wm., Margaret) marker</citedRange>; personally read c
+4 CONC . 1990. [location of marker in cemetery: from entrance, tak
+4 CONC e first right, road curves left and merges, gravestone is o
+4 CONC n the left at that intersection, it is an obelisk with a cro
+4 CONC ss on top] </bibl>
 3 QUAY 2
+3 DATA
+4 TEXT <text xml:lang="en">
+5 CONT <body>
+5 CONT <pb/>
+5 CONT <lb/>JAMES M<hi rend="sup">C</hi>LAUGHLIN
+5 CONT <lb/>DIED
+5 CONT <lb/>NOV. 15, 1858.
+5 CONT <lb/>AGED 58 Y’RS.
+5 CONT <lb/>HANNAH HIS WIFE
+5 CONT <lb/>DIED NOV. 20, 1861.
+5 CONT <lb/>AGED 56 Y’RS.
+5 CONT <lb/>CHARLES THEIR SON
+5 CONT <lb/>CO. E 99 N. Y. V.
+5 CONT <lb/>DIED JULY 4 1864
+5 CONT <lb/>AGED 26 YRS
+5 CONT <pb/>
+5 CONT <lb/>WM. McLAUGHLIN
+5 CONT <lb/>BORN IN COUNTY OF
+5 CONT <lb/>DONEGAL, IRELAND
+5 CONT <lb/>MAY 1, 1825.
+5 CONT <lb/>DIED
+5 CONT <lb/>FEB. 21, 1902
+5 CONT <lb/>MARGARET,
+5 CONT <lb/>HIS WIFE
+5 CONT <lb/>BORN IN COUNTY OF
+5 CONT <lb/>DONEGAL, IRELAND
+5 CONT <lb/>JUNE 1 1835.
+5 CONT <lb/>DIED
+5 CONT <lb/>SEP. 24, 1904.
+5 CONT <pb/>
+5 CONT <lb/>HANNAH
+5 CONT <lb/>DAU. OF
+5 CONT <lb/>WM. &amp; MARGARET
+5 CONT <lb/>McLAUGHLIN
+5 CONT <lb/>DIED
+5 CONT <lb/>JAN. 2, 1886.
+5 CONT <lb/>AGED
+5 CONT <lb/>13 YRS. 10 MOS.
+5 CONT <lb/>&amp; 27 DAYS.
+5 CONT </body>
+5 CONT </text>
+2 SOUR @S80@
+3 PAGE <bibl> <author>St. Mary’s of the Lake Church (Watkins Glen
+4 CONC , New York, USA)</author>, <title level="u">Deaths Ledger 18
+4 CONC 93–1902</title> (also contains 1856–62, at the beginning), u
+4 CONC nnumbered pages, unnumbered entries in chronological order
+4 CONC , <citedRange>10 Nov 1858, Jacobi McLaughlin</citedRange>; d
+4 CONC igital images, <title level="m">FamilySearch</title> (<ref t
+4 CONC arget="https://www.familysearch.org/ark:/61903/3:1:3Q9M-CS7W
+4 CONC -YKWT"/> : 6 Oct 2018), FHL microfilm 1,432,401, DGS 7857668
+4 CONC , image 247 of 1067. </bibl>
+3 QUAY 4
+3 OBJE @M143@
+3 _LINK https://www.familysearch.org/ark:/61903/3:1:3Q9M-CS7W-YKWT
 1 _XY 187153 4163
 0 @U7GWAEiOSweChFWSX9In@ INDI
 1 REFN 5fbf88cf-032c-472e-aa4c-9c9dd5cce948
@@ -6213,7 +6690,8 @@
 3 _APID 1,60525::115613824
 1 BURI
 2 DATE ABT 23 JUL 1911
-2 PLAC Saint Mary's Cemetery, South Corning, Steuben, New York, USA
+2 PLAC Saint Mary’s Cemetery, 375 Park Avenue, South Corning, Steub
+3 CONC en, New York, USA
 2 SOUR @S74@
 3 _APID 1,60525::115613824
 1 _XY 188086 4353
@@ -7071,7 +7549,8 @@
 3 _APID 1,60525::52685788
 1 BURI
 2 DATE 01 DEC 1902
-2 PLAC Saint Mary's Cemetery, Watkins Glen, Schuyler, New York, USA
+2 PLAC Saint Mary’s Cemetery, Cemetery Road, Watkins Glen, Schuyler
+3 CONC , New York, USA
 2 SOUR @S80@
 3 PAGE <bibl> <author>St. Mary’s of the Lake Church (Watkins Glen
 4 CONC , New York, USA)</author>, <title level="u">Cemetery of St
@@ -7650,8 +8129,6 @@
 3 CONC : Son
 1 DEAT
 2 DATE 1910
-2 SOUR @Tcwp1yPzQUOTFgMcIEcT@
-3 QUAY 1
 1 _XY 185988 4565
 0 @I17yuh5VQDWU73hfMd76@ INDI
 1 REFN 4aa70379-d935-496a-8b47-7eb6688054c2
@@ -8303,7 +8780,6 @@
 2 SOUR @CjXHrGelRbOCGmAkW59P@
 3 DATA
 4 TEXT cert. no. 7110
-2 SOUR @9yp8Aw6oSNyuoFYY5rdY@
 2 SOUR @F9Ow9j9kQsaKVsnDaoQY@
 2 SOUR @DV0l4qMxTVKhOaNIHHkg@
 2 SOUR @S71@
@@ -8313,9 +8789,58 @@
 4 TEXT certificate #7110
 3 OBJE @M137@
 3 _APID 1,61535::3370082
+2 SOUR @S25@
+3 PAGE <bibl> <author>St. Mary’s Cemetery (South Corning, New York
+4 CONC , USA)</author>, <citedRange>McLaughlin (James, Hannah, Char
+4 CONC les, Wm., Margaret) marker</citedRange>; personally read c
+4 CONC . 1990. [location of marker in cemetery: from entrance, tak
+4 CONC e first right, road curves left and merges, gravestone is o
+4 CONC n the left at that intersection, it is an obelisk with a cro
+4 CONC ss on top] </bibl>
+3 DATA
+4 TEXT <text xml:lang="en">
+5 CONT <body>
+5 CONT <pb/>
+5 CONT <lb/>JAMES M<hi rend="sup">C</hi>LAUGHLIN
+5 CONT <lb/>DIED
+5 CONT <lb/>NOV. 15, 1858.
+5 CONT <lb/>AGED 58 Y’RS.
+5 CONT <lb/>HANNAH HIS WIFE
+5 CONT <lb/>DIED NOV. 20, 1861.
+5 CONT <lb/>AGED 56 Y’RS.
+5 CONT <lb/>CHARLES THEIR SON
+5 CONT <lb/>CO. E 99 N. Y. V.
+5 CONT <lb/>DIED JULY 4 1864
+5 CONT <lb/>AGED 26 YRS
+5 CONT <pb/>
+5 CONT <lb/>WM. McLAUGHLIN
+5 CONT <lb/>BORN IN COUNTY OF
+5 CONT <lb/>DONEGAL, IRELAND
+5 CONT <lb/>MAY 1, 1825.
+5 CONT <lb/>DIED
+5 CONT <lb/>FEB. 21, 1902
+5 CONT <lb/>MARGARET,
+5 CONT <lb/>HIS WIFE
+5 CONT <lb/>BORN IN COUNTY OF
+5 CONT <lb/>DONEGAL, IRELAND
+5 CONT <lb/>JUNE 1 1835.
+5 CONT <lb/>DIED
+5 CONT <lb/>SEP. 24, 1904.
+5 CONT <pb/>
+5 CONT <lb/>HANNAH
+5 CONT <lb/>DAU. OF
+5 CONT <lb/>WM. &amp; MARGARET
+5 CONT <lb/>McLAUGHLIN
+5 CONT <lb/>DIED
+5 CONT <lb/>JAN. 2, 1886.
+5 CONT <lb/>AGED
+5 CONT <lb/>13 YRS. 10 MOS.
+5 CONT <lb/>&amp; 27 DAYS.
+5 CONT </body>
+5 CONT </text>
 2 SOUR @S79@
 3 PAGE <bibl> <author>St. Mary’s Church (Corning, New York, USA)</a
-4 CONC uthor>, <title level="u">Record of Interments, in St Mary'
+4 CONC uthor>, <title level="u">Record of Interments, in St Mary’
 4 CONC s Cemetery—Corning N.Y. From July 23 1896</title>, unnumbere
 4 CONC d entries chronological by burial date, <citedRange>pp. 18–9
 4 CONC , 24 Feb 1902, Wm. McLoughlin</citedRange>; digital images
@@ -8336,12 +8861,61 @@
 2 NOTE 10:00 AM
 1 BURI
 2 DATE 24 FEB 1902
-2 PLAC Saint Mary's Cemetery, South Corning, Steuben, New York, USA
-2 SOUR @9yp8Aw6oSNyuoFYY5rdY@
+2 PLAC Saint Mary’s Cemetery, 375 Park Avenue, South Corning, Steub
+3 CONC en, New York, USA
+2 SOUR @S25@
+3 PAGE <bibl> <author>St. Mary’s Cemetery (South Corning, New York
+4 CONC , USA)</author>, <citedRange>McLaughlin (James, Hannah, Char
+4 CONC les, Wm., Margaret) marker</citedRange>; personally read c
+4 CONC . 1990. [location of marker in cemetery: from entrance, tak
+4 CONC e first right, road curves left and merges, gravestone is o
+4 CONC n the left at that intersection, it is an obelisk with a cro
+4 CONC ss on top] </bibl>
 3 QUAY 2
+3 DATA
+4 TEXT <text xml:lang="en">
+5 CONT <body>
+5 CONT <pb/>
+5 CONT <lb/>JAMES M<hi rend="sup">C</hi>LAUGHLIN
+5 CONT <lb/>DIED
+5 CONT <lb/>NOV. 15, 1858.
+5 CONT <lb/>AGED 58 Y’RS.
+5 CONT <lb/>HANNAH HIS WIFE
+5 CONT <lb/>DIED NOV. 20, 1861.
+5 CONT <lb/>AGED 56 Y’RS.
+5 CONT <lb/>CHARLES THEIR SON
+5 CONT <lb/>CO. E 99 N. Y. V.
+5 CONT <lb/>DIED JULY 4 1864
+5 CONT <lb/>AGED 26 YRS
+5 CONT <pb/>
+5 CONT <lb/>WM. McLAUGHLIN
+5 CONT <lb/>BORN IN COUNTY OF
+5 CONT <lb/>DONEGAL, IRELAND
+5 CONT <lb/>MAY 1, 1825.
+5 CONT <lb/>DIED
+5 CONT <lb/>FEB. 21, 1902
+5 CONT <lb/>MARGARET,
+5 CONT <lb/>HIS WIFE
+5 CONT <lb/>BORN IN COUNTY OF
+5 CONT <lb/>DONEGAL, IRELAND
+5 CONT <lb/>JUNE 1 1835.
+5 CONT <lb/>DIED
+5 CONT <lb/>SEP. 24, 1904.
+5 CONT <pb/>
+5 CONT <lb/>HANNAH
+5 CONT <lb/>DAU. OF
+5 CONT <lb/>WM. &amp; MARGARET
+5 CONT <lb/>McLAUGHLIN
+5 CONT <lb/>DIED
+5 CONT <lb/>JAN. 2, 1886.
+5 CONT <lb/>AGED
+5 CONT <lb/>13 YRS. 10 MOS.
+5 CONT <lb/>&amp; 27 DAYS.
+5 CONT </body>
+5 CONT </text>
 2 SOUR @S79@
 3 PAGE <bibl> <author>St. Mary’s Church (Corning, New York, USA)</a
-4 CONC uthor>, <title level="u">Record of Interments, in St Mary'
+4 CONC uthor>, <title level="u">Record of Interments, in St Mary’
 4 CONC s Cemetery—Corning N.Y. From July 23 1896</title>, unnumbere
 4 CONC d entries chronological by burial date, <citedRange>pp. 18–9
 4 CONC , 24 Feb 1902, Wm. McLoughlin</citedRange>; digital images
@@ -8352,7 +8926,6 @@
 3 QUAY 4
 3 OBJE @M148@
 3 _LINK https://www.familysearch.org/ark:/61903/3:1:3Q9M-CS7W-P96R-7
-2 NOTE Date is assumed based on funeral date.
 1 _XY 185307 4353
 0 @0B4WRq7ATy2levCzNn1m@ INDI
 1 REFN 96ddaf2a-9d54-4e78-9abf-0ecb204c63ae
@@ -8628,7 +9201,8 @@
 3 _APID 1,60525::115614146
 1 BURI
 2 DATE MAY 1935
-2 PLAC Saint Mary's Cemetery, South Corning, Steuben, New York, USA
+2 PLAC Saint Mary’s Cemetery, 375 Park Avenue, South Corning, Steub
+3 CONC en, New York, USA
 2 SOUR @S74@
 3 _APID 1,60525::115614146
 1 _XY 185482 4565
@@ -8975,7 +9549,8 @@
 3 _APID 1,60525::61367454
 1 BURI
 2 DATE 30 JUN 1907
-2 PLAC Saint Mary's Cemetery, Watkins Glen, Schuyler, New York, USA
+2 PLAC Saint Mary’s Cemetery, Cemetery Road, Watkins Glen, Schuyler
+3 CONC , New York, USA
 2 SOUR @S80@
 3 PAGE <bibl> <author>St. Mary’s of the Lake Church (Watkins Glen
 4 CONC , New York, USA)</author>, <title level="u">Cemetery of St
@@ -9327,7 +9902,7 @@
 2 SOUR @S74@
 3 _APID 1,60525::74510073
 1 DEAT
-2 DATE 06 MAY 1858
+2 DATE ABT 03 MAY 1858
 2 PLAC Schuyler, New York, USA
 3 MAP
 4 LATI N42.3898
@@ -9348,11 +9923,22 @@
 2 SOUR @S74@
 3 _APID 1,60525::74510073
 1 BURI
-2 DATE ABT 09 MAY 1858
-2 PLAC Watkins Glen, Schuyler, New York, USA
-3 MAP
-4 LATI N42.3806
-4 LONG W76.8733
+2 DATE 06 MAY 1858
+2 PLAC Saint Mary’s Cemetery, Cemetery Road, Watkins Glen, Schuyler
+3 CONC , New York, USA
+2 SOUR @S80@
+3 PAGE <bibl> <author>St. Mary’s of the Lake Church (Watkins Glen
+4 CONC , New York, USA)</author>, <title level="u">Deaths Ledger 18
+4 CONC 93–1902</title> (also contains 1856–62, at the beginning), u
+4 CONC nnumbered pages, unnumbered entries in chronological order
+4 CONC , <citedRange>6 May 1858, Maria Tuohey</citedRange>; digita
+4 CONC l images, <title level="m">FamilySearch</title> (<ref target
+4 CONC ="https://www.familysearch.org/ark:/61903/3:1:3Q9M-CS7W-YLGP
+4 CONC "/> : 6 Oct 2018), FHL microfilm 1,432,401, DGS 7857668, ima
+4 CONC ge 248 of 1067. </bibl>
+3 QUAY 4
+3 OBJE @M144@
+3 _LINK https://www.familysearch.org/ark:/61903/3:1:3Q9M-CS7W-YLGP
 2 SOUR @S74@
 3 _APID 1,60525::74510073
 1 _XY 187166 4353
@@ -9556,51 +10142,34 @@
 3 PAGE <bibl> <author>St. Mary’s of the Lake Church (Watkins Glen
 4 CONC , New York, USA)</author>, <title level="u">Cemetery of St
 4 CONC . Mary of the Lake, Watkins, N. Y. [Record of Interments 190
-4 CONC 1–10]</title>, <citedRange>p. 1, #2, 2 Jun 1902, Patrick Tou
+4 CONC 1–10]</title>, <citedRange>p. 1, #2, 4 Jun 1902, Patrick Tou
 4 CONC hey</citedRange>; digital images, <title level="m">FamilySea
 4 CONC rch</title> (<ref target="https://www.familysearch.org/ark:/
 4 CONC 61903/3:1:3Q9M-CS7W-YKHC"/> : 6 Oct 2018), FHL microfilm 1,4
 4 CONC 32,401, DGS 7857668, image 260 of 1067. </bibl>
 3 QUAY 4
 3 OBJE @M146@
-3 _FOOT St. Mary’s of the Lake Church (Watkins Glen, New York, USA)
-4 CONC , St. Mary’s of the Lake Church Records, <bibl> <author>St
-4 CONC . Mary’s of the Lake Church (Watkins Glen, New York, USA)</a
-4 CONC uthor>, <title level="u">Cemetery of St. Mary of the Lake, W
-4 CONC atkins, N. Y. [Record of Interments 1901-10]</title>, <cited
-4 CONC Range>p. 1, #2, 4 Jun 1902, Patrick Touhey</citedRange>; dig
-4 CONC ital images, <title level="m">FamilySearch</title> (<ref tar
-4 CONC get="https://www.familysearch.org/ark:/61903/3:1:3Q9M-CS7W-Y
-4 CONC KHC"/> : 6 Oct 2018), FHL microfilm 1,432,401, DGS 7857668
-4 CONC , image 260 of 1067. </bibl>.
+3 _LINK https://www.familysearch.org/ark:/61903/3:1:3Q9M-CS7W-YKHC
 2 SOUR @S74@
 3 _APID 1,60525::74509301
 2 SOUR @e0k10AjRSSyDnTOmeiMT@
 3 _APID 1,70572::8473815
 1 BURI
 2 DATE 04 JUN 1902
-2 PLAC Saint Mary's Cemetery, Watkins Glen, Schuyler, New York, USA
+2 PLAC Saint Mary’s Cemetery, Cemetery Road, Watkins Glen, Schuyler
+3 CONC , New York, USA
 2 SOUR @S80@
 3 PAGE <bibl> <author>St. Mary’s of the Lake Church (Watkins Glen
 4 CONC , New York, USA)</author>, <title level="u">Cemetery of St
 4 CONC . Mary of the Lake, Watkins, N. Y. [Record of Interments 190
-4 CONC 1–10]</title>, <citedRange>p. 1, #2, 2 Jun 1902, Patrick Tou
+4 CONC 1–10]</title>, <citedRange>p. 1, #2, 4 Jun 1902, Patrick Tou
 4 CONC hey</citedRange>; digital images, <title level="m">FamilySea
 4 CONC rch</title> (<ref target="https://www.familysearch.org/ark:/
 4 CONC 61903/3:1:3Q9M-CS7W-YKHC"/> : 6 Oct 2018), FHL microfilm 1,4
 4 CONC 32,401, DGS 7857668, image 260 of 1067. </bibl>
 3 QUAY 4
 3 OBJE @M146@
-3 _FOOT St. Mary’s of the Lake Church (Watkins Glen, New York, USA)
-4 CONC , St. Mary’s of the Lake Church Records, <bibl> <author>St
-4 CONC . Mary’s of the Lake Church (Watkins Glen, New York, USA)</a
-4 CONC uthor>, <title level="u">Cemetery of St. Mary of the Lake, W
-4 CONC atkins, N. Y. [Record of Interments 1901-10]</title>, <cited
-4 CONC Range>p. 1, #2, 4 Jun 1902, Patrick Touhey</citedRange>; dig
-4 CONC ital images, <title level="m">FamilySearch</title> (<ref tar
-4 CONC get="https://www.familysearch.org/ark:/61903/3:1:3Q9M-CS7W-Y
-4 CONC KHC"/> : 6 Oct 2018), FHL microfilm 1,432,401, DGS 7857668
-4 CONC , image 260 of 1067. </bibl>.
+3 _LINK https://www.familysearch.org/ark:/61903/3:1:3Q9M-CS7W-YKHC
 2 SOUR @S74@
 3 _APID 1,60525::74509301
 2 SOUR @e0k10AjRSSyDnTOmeiMT@
@@ -10571,22 +11140,6 @@
 1 PUBL Central Valley Cemetery, Hornby, NY
 1 TEXT HARRISON ELMER 1873-1943<br />
 2 CONT ANNA 1870-1953
-0 @9yp8Aw6oSNyuoFYY5rdY@ SOUR
-1 REFN 2f0d7777-8a33-42b7-800b-d572acdaa4c7
-1 TITL Gravestone, McLaughlin
-1 PUBL Saint Mary's Cemetery, South Corning Village, NY
-1 TEXT JAMES McLAUGHLIN DIED NOV. 15, 1858. AGED 58 YRS.<br />
-2 CONT HANNAH HIS WIFE DIED NOV. 20, 1861. AGED 56 YRS.<br />
-2 CONT WM. McLAUGHLIN BORN IN COUNTY OF DONEGAL, IRELAND MAY 1, 182
-2 CONC 5<br />
-2 CONT DIED FEB. 21, 1902.<br />
-2 CONT MARGARET, HIS WIFE BORN IN COUNTY OF DONEGAL, IRELAND JUN
-2 CONC E 1 1835.<br />
-2 CONT DIED SEP. 24, 1904<br />
-2 CONT [location of gravestone in cemetery: from entrance, take fir
-2 CONC st right, road curves left and merges, gravestone is on th
-2 CONC e left at that intersection, it is an obelisk with a cross o
-2 CONC n top]
 0 @9IoBBXyfStatJYgfOOXZ@ SOUR
 1 REFN b2d72c3c-1e74-4b73-972a-8735b5b11038
 1 TITL In Loving Memory [Mary Anne McLaughlin's funeral book]
@@ -10628,11 +11181,6 @@
 1 TITL Marriage certificate, Harrison, George Elmer (1943 copy)
 1 PUBL In possession of Chris Mosher
 1 TEXT [note: NY Vital Records: marriage certificate #22573]
-0 @Tcwp1yPzQUOTFgMcIEcT@ SOUR
-1 REFN 1b2010d0-6b12-4947-ba91-cbbbd6582e24
-1 TITL Mary Ann Root family connection [on-line]
-1 AUTH gmgg use on ancestry.com
-1 PUBL ancestry.com
 0 @F9Ow9j9kQsaKVsnDaoQY@ SOUR
 1 REFN e0b1bc58-9e28-453f-93af-6a5ed019d580
 1 TITL McLaughlin, William, obituary, Corning
@@ -10890,6 +11438,9 @@
 1 REFN cceb6bd8-f346-4605-8690-7e07f0d84636
 1 TITL Social Security Death Index
 1 AUTH US Social Security Administration
+0 @S25@ SOUR
+1 TITL St. Mary’s Cemetery (South Corning, New York, USA)
+1 AUTH St. Mary’s Cemetery (South Corning, New York, USA)
 0 @S79@ SOUR
 1 TITL St. Mary’s Church Records
 1 AUTH St. Mary’s Church (Corning, New York, USA)
