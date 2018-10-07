@@ -14,9 +14,9 @@
 4 CONT Boston, MA 02109
 3 PHON (617) 227-6681
 1 DEST FTM
-1 FILE McLaughlin_2018-10-07-18-59-28.ftm.ged
+1 FILE McLaughlin_2018-10-07-23-29-10.ftm.ged
 1 DATE 07 OCT 2018
-2 TIME 22:31:43
+2 TIME 23:30:03
 0 @Umy2qBWIRUiwVSS6Hcn4@ SUBM
 1 NAME Christopher Alan Mosher
 2 EMAIL cmosher01@@gmail.com
@@ -1091,6 +1091,27 @@
 2 SOUR @7tJxBxhGR46VSVFwI4mZ@
 3 OBJE @vWvpDvUWRVygSo2WFCsm@
 3 _APID 1,7250::1382758417
+2 SOUR @S83@
+3 PAGE Census Year: 1880; Census Place: Hornby, Steuben, New York
+4 CONC ; Archive Collection Number: A67; Roll: 67; Page: 4; Line: 1
+3 OBJE @M151@
+3 _APID 1,1791::1133217
+2 SOUR @S81@
+3 PAGE The National Archives at Washington, D.C.; Washington, D.C.
+4 CONC ; Record Group Title: Records of the Department of Veteran
+4 CONC s Affairs, 1773 - 2007; Record Group Number: 15; Series Titl
+4 CONC e: U.S., Civil War Pension Index: General Index to Pension F
+4 CONC iles, 1861-1934; Se
+3 OBJE @M152@
+3 _APID 1,4654::1767232
+2 SOUR @S74@
+3 _APID 1,60525::114471610
+2 SOUR @S82@
+3 PAGE Census Year: 1880; Census Place: Hornby, Steuben, New York
+4 CONC ; Archive Collection Number: A67; Roll: 67; Page: 4; Line: 1
+4 CONC ; Schedule Type: Agriculture
+3 OBJE @M150@
+3 _APID 1,1276::4269731
 1 SEX M
 1 FAMS @Nuo2WmqDSvyOtC16PQjp@
 1 FAMS @gZA5Jk8VSnSH4T0TyUUx@
@@ -1136,6 +1157,8 @@
 2 SOUR @7tJxBxhGR46VSVFwI4mZ@
 3 OBJE @vWvpDvUWRVygSo2WFCsm@
 3 _APID 1,7250::1382758417
+2 SOUR @S74@
+3 _APID 1,60525::114471610
 1 RESI
 2 DATE 1850
 2 PLAC Orange, Steuben, New York, USA
@@ -1166,15 +1189,30 @@
 4 CONC m: 803859
 3 OBJE @9LtWaHjWSAqsJ8q7klrh@
 3 _APID 1,7667::48590756
-1 EVEN
+1 EVEN 15th New York Volunteer Engineers Regiment, “New York Sapper
+2 CONC s and Miners”, Company M.
 2 TYPE military
-2 DATE 1864
+2 DATE 09 SEP 1864
+2 PLAC Hornby, Steuben, New York, USA
+3 MAP
+4 LATI N42.2442
+4 LONG W77.0444
 2 SOUR @S76@
 3 PAGE New York State Archives, Cultural Education Center, Albany
 4 CONC , New York; New York Civil War Muster Roll Abstracts, 1861-1
 4 CONC 900; Archive Collection #: 13775-83; Box #: 954; Roll #: 610
 3 OBJE @M121@
 3 _APID 1,1965::540862
+2 SOUR @S81@
+3 PAGE The National Archives at Washington, D.C.; Washington, D.C.
+4 CONC ; Record Group Title: Records of the Department of Veteran
+4 CONC s Affairs, 1773 - 2007; Record Group Number: 15; Series Titl
+4 CONC e: U.S., Civil War Pension Index: General Index to Pension F
+4 CONC iles, 1861-1934; Se
+3 OBJE @M152@
+3 _APID 1,4654::1767232
+2 SOUR @S78@
+3 _APID 1,1555::2759957
 1 RESI
 2 DATE 1865
 2 PLAC Hornby, Steuben, New York, USA
@@ -1209,7 +1247,7 @@
 3 _APID 1,7250::1382758417
 2 NOTE Relation to Head of House: Head
 1 RESI
-2 DATE 1880
+2 DATE 04 JUN 1880
 2 PLAC Hornby, Steuben, New York, USA
 3 MAP
 4 LATI N42.2442
@@ -1218,10 +1256,29 @@
 3 PAGE Year: 1880; Census Place: Hornby, Steuben, New York
 3 OBJE @J7JgLaaIQHSat2C2xaYM@
 3 _APID 1,6742::4065214
+2 SOUR @S83@
+3 PAGE Census Year: 1880; Census Place: Hornby, Steuben, New York
+4 CONC ; Archive Collection Number: A67; Roll: 67; Page: 4; Line: 1
+3 OBJE @M151@
+3 _APID 1,1791::1133217
+2 SOUR @S82@
+3 PAGE Census Year: 1880; Census Place: Hornby, Steuben, New York
+4 CONC ; Archive Collection Number: A67; Roll: 67; Page: 4; Line: 1
+4 CONC ; Schedule Type: Agriculture
+3 OBJE @M150@
+3 _APID 1,1276::4269731
 2 NOTE Age: 62; Marital Status: Married; Relation to Head of House
 3 CONC : Self
 1 DEAT
 2 DATE 23 MAR 1887
+2 SOUR @S74@
+3 _APID 1,60525::114471610
+1 BURI
+2 DATE ABT 1887
+2 PLAC Saint Mary’s Cemetery, 375 Park Avenue, South Corning, Steub
+3 CONC en, New York, USA
+2 SOUR @S74@
+3 _APID 1,60525::114471610
 1 _XY 186245 4353
 0 @WCkDqv7JQtWqYITNOnxU@ INDI
 1 REFN 2bac9e1e-1e7a-401f-be43-4146792f2d15
@@ -9979,7 +10036,7 @@
 2 SOUR @7tJxBxhGR46VSVFwI4mZ@
 3 OBJE @J4OocKbtTsakmcID7dRM@
 3 _APID 1,7250::1374616299
-2 SOUR @0ITg9WxDR3GHByh343Xp@
+2 SOUR @S81@
 3 OBJE @T3PftQBdSsGvvh3EkBZ7@
 3 _APID 1,4654::1548946
 2 SOUR @S78@
@@ -11454,6 +11511,12 @@
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations Inc; Location: Provo, UT, USA; Date
 2 CONC : 2000
+0 @S83@ SOUR
+1 REPO @0aJKtHRDQmatCERL9JPC@
+1 TITL U.S. Census Non-Population Schedules, New York, 1850-1880
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
+2 CONC e: 2010
 0 @XO6j9SijRyGVeXfL600G@ SOUR
 1 REFN f9ceabcf-0b8a-452f-8756-0c7cca97e3d6
 1 REPO @0aJKtHRDQmatCERL9JPC@
@@ -11461,8 +11524,7 @@
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2010
-0 @0ITg9WxDR3GHByh343Xp@ SOUR
-1 REFN 5748107e-64a7-4bca-b831-d9a64317c559
+0 @S81@ SOUR
 1 REPO @0aJKtHRDQmatCERL9JPC@
 1 TITL U.S., Civil War Pension Index: General Index to Pension File
 2 CONC s, 1861-1934
@@ -11485,6 +11547,13 @@
 1 REFN 74af6156-9a4c-4b71-8e25-c6310be25969
 1 REPO @0aJKtHRDQmatCERL9JPC@
 1 TITL U.S., Indexed County Land Ownership Maps, 1860-1918
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
+2 CONC e: 2010
+0 @S82@ SOUR
+1 REPO @0aJKtHRDQmatCERL9JPC@
+1 TITL U.S., Selected Federal Census Non-Population Schedules, 1850
+2 CONC -1880
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2010
@@ -13343,4 +13412,33 @@
 2 FORM jpg
 2 TITL record-image_3Q9M-CS7W-P9FB-7
 2 _DATE 10/7/2018 3:15:45 PM
+0 @M150@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\McLaughlin Medi
+2 CONC a\U.S., Selected Federal Census Non-Population Schedules, 18
+2 CONC 50-1880.jpg
+2 FORM jpg
+2 TITL U.S., Selected Federal Census Non-Population Schedules, 1850
+3 CONC -1880
+2 _TEXT Census Year: 1880; Census Place: Hornby, Steuben, New York
+3 CONC ; Archive Collection Number: A67; Roll: 67; Page: 4; Line: 1
+3 CONC ; Schedule Type: Agriculture
+0 @M151@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\McLaughlin Medi
+2 CONC a\U.S. Census Non-Population Schedules, New York, 1850-1880.
+2 CONC jpg
+2 FORM jpg
+2 TITL U.S. Census Non-Population Schedules, New York, 1850-1880
+2 _TEXT Census Year: 1880; Census Place: Hornby, Steuben, New York
+3 CONC ; Archive Collection Number: A67; Roll: 67; Page: 4; Line: 1
+0 @M152@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\McLaughlin Medi
+2 CONC a\US Civil War Pension Index General Index to Pensio.jpg
+2 FORM jpg
+2 TITL U.S., Civil War Pension Index: General Index to Pension File
+3 CONC s, 1861-1934
+2 _TEXT The National Archives at Washington, D.C.; Washington, D.C.
+3 CONC ; Record Group Title: Records of the Department of Veteran
+3 CONC s Affairs, 1773 - 2007; Record Group Number: 15; Series Titl
+3 CONC e: U.S., Civil War Pension Index: General Index to Pension F
+3 CONC iles, 1861-1934; Se
 0 TRLR
