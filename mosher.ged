@@ -3,7 +3,8 @@
 1 GEDC
 2 VERS 5.5.1
 2 FORM LINEAGE-LINKED
-1 COPR Copyright © 1998, Christopher Alan Mosher, Shelton, CT, USA.
+1 COPR Copyright © 1998–2018, Christopher Alan Mosher, Shelton, CT
+2 CONC , USA.
 1 SUBM @Umy2qBWIRUiwVSS6Hcn4@
 1 SOUR FTM
 2 VERS 23.2.0.1540
@@ -13,13 +14,13 @@
 4 CONT Boston, MA 02109
 3 PHON (617) 227-6681
 1 DEST FTM
-1 FILE Mosher_2018-10-04-03-32-56.ftm.ged
-1 DATE 04 OCT 2018
-2 TIME 03:34:38
+1 FILE Mosher_2018-10-10-03-06-55.ftm.ged
+1 DATE 10 OCT 2018
+2 TIME 03:07:54
 0 @Umy2qBWIRUiwVSS6Hcn4@ SUBM
 1 NAME Christopher Alan Mosher
 2 EMAIL cmosher01@@gmail.com
-2 WWW http://mosher.mine.nu/
+2 WWW https://mosher.mine.nu/
 2 WWW https://github.com/cmosher01/
 2 WWW https://www.ancestry.com/connect/Profile/0065664a-0000-0000-
 3 CONC 0000-000000000000
@@ -1157,70 +1158,9 @@
 2 PLAC Spring Hill, Sandwich, Barnstable, Massachusetts, USA
 2 SOUR @91JIXBEJQz6bVLkVlmAF@
 1 _XY 11947 321
-0 @I461@ INDI
-1 REFN 920c1747-41f7-448c-8a13-ae92e2cbd0e0
-1 NAME Donald Morris /Chamberlain-Ruane/
-2 SOUR @S221@
-3 PAGE Year: 1940; Census Place: Sangerfield, Oneida, New York; Rol
-4 CONC l: T627_2702; Page: 1A; Enumeration District: 33-80
-3 OBJE @M296@
-3 _APID 1,2442::2557731
-1 SEX M
-1 FAMC @F356@
-1 NOTE _XY 806 315  _UID 920c1747-41f7-448c-8a13-ae92e2cbd0e0
-1 BIRT
-2 DATE ABT 1938
-2 PLAC New York
-2 SOUR @S221@
-3 PAGE Year: 1940; Census Place: Sangerfield, Oneida, New York; Rol
-4 CONC l: T627_2702; Page: 1A; Enumeration District: 33-80
-3 OBJE @M296@
-3 _APID 1,2442::2557731
-1 RESI
-2 DATE 01 APR 1940
-2 PLAC Sangerfield, Oneida, New York, United States
-2 SOUR @S221@
-3 PAGE Year: 1940; Census Place: Sangerfield, Oneida, New York; Rol
-4 CONC l: T627_2702; Page: 1A; Enumeration District: 33-80
-3 OBJE @M296@
-3 _APID 1,2442::2557731
-2 NOTE Age: 2Marital Status: Single; Relation to Head of House: Son
-1 _XY 806 315
-0 @I460@ INDI
-1 REFN 3ae5fbd1-75ab-4a0c-9a7f-db01e2072a3a
-1 NAME James Vincent /Chamberlain-Ruane/
-1 SEX M
-1 FAMC @F356@
-1 NOTE _XY 1002 315  _UID 3ae5fbd1-75ab-4a0c-9a7f-db01e2072a3a
-1 BIRT
-2 DATE ABT 1935
-2 PLAC New York
-2 SOUR @S221@
-3 PAGE Year: 1940; Census Place: Sangerfield, Oneida, New York; Rol
-4 CONC l: T627_2702; Page: 1A; Enumeration District: 33-80
-3 OBJE @M296@
-3 _APID 1,2442::2557730
-1 RESI
-2 DATE 1935
-2 PLAC Sangerfield, Oneida, New York
-2 SOUR @S221@
-3 PAGE Year: 1940; Census Place: Sangerfield, Oneida, New York; Rol
-4 CONC l: T627_2702; Page: 1A; Enumeration District: 33-80
-3 OBJE @M296@
-3 _APID 1,2442::2557730
-1 RESI
-2 DATE 01 APR 1940
-2 PLAC Sangerfield, Oneida, New York, United States
-2 SOUR @S221@
-3 PAGE Year: 1940; Census Place: Sangerfield, Oneida, New York; Rol
-4 CONC l: T627_2702; Page: 1A; Enumeration District: 33-80
-3 OBJE @M296@
-3 _APID 1,2442::2557730
-2 NOTE Age: 5Marital Status: Single; Relation to Head of House: Son
-1 _XY 1002 315
 0 @I462@ INDI
 1 REFN 5ea9afd3-ab3d-4013-af4b-a88ec36a0959
-1 NAME Roland J /Chamberlin/
+1 NAME Roland J. /Chamberlain/
 2 SOUR @S213@
 3 PAGE Year: 1920; Census Place: Marcy, Oneida, New York
 3 OBJE @M300@
@@ -1268,7 +1208,7 @@
 3 PAGE Number: 082-07-4557; Issue State: New York; Issue Date: Befo
 4 CONC re 1951
 3 _APID 1,3693::10218706
-2 SOUR @S250@
+2 SOUR @S265@
 3 _APID 1,8939::3935741
 1 SEX M
 1 FAMS @F356@
@@ -1313,7 +1253,7 @@
 3 PAGE Number: 082-07-4557; Issue State: New York; Issue Date: Befo
 4 CONC re 1951
 3 _APID 1,3693::10218706
-2 SOUR @S250@
+2 SOUR @S265@
 3 _APID 1,8939::3935741
 1 RESI
 2 DATE 1920
@@ -1379,7 +1319,14 @@
 2 SOUR @S249@
 3 OBJE @M302@
 3 _APID 1,2341::24112
-2 SOUR @S250@
+1 EVEN
+2 TYPE military
+2 DATE 15 OCT 1940
+2 PLAC Utica, Oneida, New York, USA
+3 MAP
+4 LATI N43.1009
+4 LONG W75.2327
+2 SOUR @S265@
 3 _APID 1,8939::3935741
 1 RESI
 2 DATE 1957
@@ -1408,6 +1355,67 @@
 3 OBJE @M302@
 3 _APID 1,2341::24112
 1 _XY 1004 228
+0 @I461@ INDI
+1 REFN 920c1747-41f7-448c-8a13-ae92e2cbd0e0
+1 NAME Donald Morris /Chamberlain-Ruane/
+2 SOUR @S221@
+3 PAGE Year: 1940; Census Place: Sangerfield, Oneida, New York; Rol
+4 CONC l: T627_2702; Page: 1A; Enumeration District: 33-80
+3 OBJE @M296@
+3 _APID 1,2442::2557731
+1 SEX M
+1 FAMC @F356@
+1 NOTE _XY 806 315  _UID 920c1747-41f7-448c-8a13-ae92e2cbd0e0
+1 BIRT
+2 DATE ABT 1938
+2 PLAC New York
+2 SOUR @S221@
+3 PAGE Year: 1940; Census Place: Sangerfield, Oneida, New York; Rol
+4 CONC l: T627_2702; Page: 1A; Enumeration District: 33-80
+3 OBJE @M296@
+3 _APID 1,2442::2557731
+1 RESI
+2 DATE 01 APR 1940
+2 PLAC Sangerfield, Oneida, New York, United States
+2 SOUR @S221@
+3 PAGE Year: 1940; Census Place: Sangerfield, Oneida, New York; Rol
+4 CONC l: T627_2702; Page: 1A; Enumeration District: 33-80
+3 OBJE @M296@
+3 _APID 1,2442::2557731
+2 NOTE Age: 2Marital Status: Single; Relation to Head of House: Son
+1 _XY 806 315
+0 @I460@ INDI
+1 REFN 3ae5fbd1-75ab-4a0c-9a7f-db01e2072a3a
+1 NAME James Vincent /Chamberlain-Ruane/
+1 SEX M
+1 FAMC @F356@
+1 NOTE _XY 1002 315  _UID 3ae5fbd1-75ab-4a0c-9a7f-db01e2072a3a
+1 BIRT
+2 DATE ABT 1935
+2 PLAC New York
+2 SOUR @S221@
+3 PAGE Year: 1940; Census Place: Sangerfield, Oneida, New York; Rol
+4 CONC l: T627_2702; Page: 1A; Enumeration District: 33-80
+3 OBJE @M296@
+3 _APID 1,2442::2557730
+1 RESI
+2 DATE 1935
+2 PLAC Sangerfield, Oneida, New York
+2 SOUR @S221@
+3 PAGE Year: 1940; Census Place: Sangerfield, Oneida, New York; Rol
+4 CONC l: T627_2702; Page: 1A; Enumeration District: 33-80
+3 OBJE @M296@
+3 _APID 1,2442::2557730
+1 RESI
+2 DATE 01 APR 1940
+2 PLAC Sangerfield, Oneida, New York, United States
+2 SOUR @S221@
+3 PAGE Year: 1940; Census Place: Sangerfield, Oneida, New York; Rol
+4 CONC l: T627_2702; Page: 1A; Enumeration District: 33-80
+3 OBJE @M296@
+3 _APID 1,2442::2557730
+2 NOTE Age: 5Marital Status: Single; Relation to Head of House: Son
+1 _XY 1002 315
 0 @I427@ INDI
 1 REFN cb3fb8dd-6a09-496c-b89c-0c6de848b65e
 1 NAME /Chase/
@@ -15136,9 +15144,10 @@
 3 OBJE @dDzkIbDASECyRrTCxs3B@
 3 _APID 1,6482::9064540
 2 SOUR @6xrtF8bMQCypXIIPxFw2@
-3 PAGE World War II Draft Cards (4th Registration) for the State o
-4 CONC f California; State Headquarters: California; Microfilm Roll
-4 CONC : 603155
+3 PAGE The National Archives at St. Louis; St. Louis, Missouri; Wor
+4 CONC ld War II Draft Cards (4th Registration) for the State of Ca
+4 CONC lifornia; Record Group Title: Records of the Selective Servi
+4 CONC ce System, 1926-1975; Record Group Number: 147
 3 OBJE @1wWYPGzWRAqLTjoHIOk2@
 3 _APID 1,1002::12976754
 2 SOUR @Q3pDaZrXQzi0fjGmGdhC@
@@ -15220,9 +15229,10 @@
 3 OBJE @dDzkIbDASECyRrTCxs3B@
 3 _APID 1,6482::9064540
 2 SOUR @6xrtF8bMQCypXIIPxFw2@
-3 PAGE World War II Draft Cards (4th Registration) for the State o
-4 CONC f California; State Headquarters: California; Microfilm Roll
-4 CONC : 603155
+3 PAGE The National Archives at St. Louis; St. Louis, Missouri; Wor
+4 CONC ld War II Draft Cards (4th Registration) for the State of Ca
+4 CONC lifornia; Record Group Title: Records of the Selective Servi
+4 CONC ce System, 1926-1975; Record Group Number: 147
 3 OBJE @1wWYPGzWRAqLTjoHIOk2@
 3 _APID 1,1002::12976754
 2 SOUR @Q3pDaZrXQzi0fjGmGdhC@
@@ -15365,9 +15375,10 @@
 4 LATI N35.9625
 4 LONG W119.0442
 2 SOUR @6xrtF8bMQCypXIIPxFw2@
-3 PAGE World War II Draft Cards (4th Registration) for the State o
-4 CONC f California; State Headquarters: California; Microfilm Roll
-4 CONC : 603155
+3 PAGE The National Archives at St. Louis; St. Louis, Missouri; Wor
+4 CONC ld War II Draft Cards (4th Registration) for the State of Ca
+4 CONC lifornia; Record Group Title: Records of the Selective Servi
+4 CONC ce System, 1926-1975; Record Group Number: 147
 3 OBJE @1wWYPGzWRAqLTjoHIOk2@
 3 _APID 1,1002::12976754
 1 BURI
@@ -15524,11 +15535,11 @@
 3 OBJE @N9I0ENv7RdqJvp4Jl5b7@
 3 _APID 1,6482::9064541
 2 SOUR @6xrtF8bMQCypXIIPxFw2@
-3 PAGE The National Archives at St. Louis; St. Louis, Missouri; Dra
-4 CONC ft Registration Cards for Fourth Registration for New York S
-4 CONC tate, 04/27/1942 - 04/27/1942; NAI Number: 2555973; Record G
-4 CONC roup Title: Records of the Selective Service System; Recor
-4 CONC d Group Number: 14
+3 PAGE The National Archives at St. Louis; St. Louis, Missouri; Wor
+4 CONC ld War II Draft Cards (Fourth Registration) for the State o
+4 CONC f New York; Record Group Title: Records of the Selective Ser
+4 CONC vice System, 1926-1975; Record Group Number: 147; Box or Rol
+4 CONC l Number: 430
 3 OBJE @GhIRDuUdRFGISd4cP4pa@
 3 _APID 1,1002::16816783
 2 SOUR @GkjP7MzzQPeWUNGeYMpx@
@@ -15615,11 +15626,11 @@
 3 OBJE @N9I0ENv7RdqJvp4Jl5b7@
 3 _APID 1,6482::9064541
 2 SOUR @6xrtF8bMQCypXIIPxFw2@
-3 PAGE The National Archives at St. Louis; St. Louis, Missouri; Dra
-4 CONC ft Registration Cards for Fourth Registration for New York S
-4 CONC tate, 04/27/1942 - 04/27/1942; NAI Number: 2555973; Record G
-4 CONC roup Title: Records of the Selective Service System; Recor
-4 CONC d Group Number: 14
+3 PAGE The National Archives at St. Louis; St. Louis, Missouri; Wor
+4 CONC ld War II Draft Cards (Fourth Registration) for the State o
+4 CONC f New York; Record Group Title: Records of the Selective Ser
+4 CONC vice System, 1926-1975; Record Group Number: 147; Box or Rol
+4 CONC l Number: 430
 3 OBJE @GhIRDuUdRFGISd4cP4pa@
 3 _APID 1,1002::16816783
 2 SOUR @GkjP7MzzQPeWUNGeYMpx@
@@ -15964,21 +15975,21 @@
 1 DSCR weight: 133 pounds
 2 DATE 26 APR 1942
 2 SOUR @6xrtF8bMQCypXIIPxFw2@
-3 PAGE The National Archives at St. Louis; St. Louis, Missouri; Dra
-4 CONC ft Registration Cards for Fourth Registration for New York S
-4 CONC tate, 04/27/1942 - 04/27/1942; NAI Number: 2555973; Record G
-4 CONC roup Title: Records of the Selective Service System; Recor
-4 CONC d Group Number: 14
+3 PAGE The National Archives at St. Louis; St. Louis, Missouri; Wor
+4 CONC ld War II Draft Cards (Fourth Registration) for the State o
+4 CONC f New York; Record Group Title: Records of the Selective Ser
+4 CONC vice System, 1926-1975; Record Group Number: 147; Box or Rol
+4 CONC l Number: 430
 3 OBJE @GhIRDuUdRFGISd4cP4pa@
 3 _APID 1,1002::16816783
 1 DSCR height: 5 feet 8 inches
 2 DATE 26 APR 1942
 2 SOUR @6xrtF8bMQCypXIIPxFw2@
-3 PAGE The National Archives at St. Louis; St. Louis, Missouri; Dra
-4 CONC ft Registration Cards for Fourth Registration for New York S
-4 CONC tate, 04/27/1942 - 04/27/1942; NAI Number: 2555973; Record G
-4 CONC roup Title: Records of the Selective Service System; Recor
-4 CONC d Group Number: 14
+3 PAGE The National Archives at St. Louis; St. Louis, Missouri; Wor
+4 CONC ld War II Draft Cards (Fourth Registration) for the State o
+4 CONC f New York; Record Group Title: Records of the Selective Ser
+4 CONC vice System, 1926-1975; Record Group Number: 147; Box or Rol
+4 CONC l Number: 430
 3 OBJE @GhIRDuUdRFGISd4cP4pa@
 3 _APID 1,1002::16816783
 1 EVEN
@@ -16052,11 +16063,11 @@
 3 _APID 1,70572::7775693
 1 DSCR eye color: blue
 2 SOUR @6xrtF8bMQCypXIIPxFw2@
-3 PAGE The National Archives at St. Louis; St. Louis, Missouri; Dra
-4 CONC ft Registration Cards for Fourth Registration for New York S
-4 CONC tate, 04/27/1942 - 04/27/1942; NAI Number: 2555973; Record G
-4 CONC roup Title: Records of the Selective Service System; Recor
-4 CONC d Group Number: 14
+3 PAGE The National Archives at St. Louis; St. Louis, Missouri; Wor
+4 CONC ld War II Draft Cards (Fourth Registration) for the State o
+4 CONC f New York; Record Group Title: Records of the Selective Ser
+4 CONC vice System, 1926-1975; Record Group Number: 147; Box or Rol
+4 CONC l Number: 430
 3 OBJE @GhIRDuUdRFGISd4cP4pa@
 3 _APID 1,1002::16816783
 1 _XY 7165 1793
@@ -20385,9 +20396,10 @@
 3 OBJE @cS2oTHEKQfOXJDeUcvhZ@
 3 _APID 1,6482::1781702
 2 SOUR @6xrtF8bMQCypXIIPxFw2@
-3 PAGE World War II Draft Cards (4th Registration) for the State o
-4 CONC f California; State Headquarters: California; Microfilm Roll
-4 CONC : 603155
+3 PAGE The National Archives at St. Louis; St. Louis, Missouri; Wor
+4 CONC ld War II Draft Cards (4th Registration) for the State of Ca
+4 CONC lifornia; Record Group Title: Records of the Selective Servi
+4 CONC ce System, 1926-1975; Record Group Number: 147
 3 OBJE @odvV6nn1RMK5KK7ntTuA@
 3 _APID 1,1002::12948246
 1 SEX M
@@ -20461,9 +20473,10 @@
 3 OBJE @cS2oTHEKQfOXJDeUcvhZ@
 3 _APID 1,6482::1781702
 2 SOUR @6xrtF8bMQCypXIIPxFw2@
-3 PAGE World War II Draft Cards (4th Registration) for the State o
-4 CONC f California; State Headquarters: California; Microfilm Roll
-4 CONC : 603155
+3 PAGE The National Archives at St. Louis; St. Louis, Missouri; Wor
+4 CONC ld War II Draft Cards (4th Registration) for the State of Ca
+4 CONC lifornia; Record Group Title: Records of the Selective Servi
+4 CONC ce System, 1926-1975; Record Group Number: 147
 3 OBJE @odvV6nn1RMK5KK7ntTuA@
 3 _APID 1,1002::12948246
 1 RESI
@@ -20601,9 +20614,10 @@
 4 LATI N34.1847
 4 LONG W118.262
 2 SOUR @6xrtF8bMQCypXIIPxFw2@
-3 PAGE World War II Draft Cards (4th Registration) for the State o
-4 CONC f California; State Headquarters: California; Microfilm Roll
-4 CONC : 603155
+3 PAGE The National Archives at St. Louis; St. Louis, Missouri; Wor
+4 CONC ld War II Draft Cards (4th Registration) for the State of Ca
+4 CONC lifornia; Record Group Title: Records of the Selective Servi
+4 CONC ce System, 1926-1975; Record Group Number: 147
 3 OBJE @odvV6nn1RMK5KK7ntTuA@
 3 _APID 1,1002::12948246
 1 RESI
@@ -30084,19 +30098,12 @@
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations Inc; Location: Provo, UT, USA; Date
 2 CONC : 2005
-0 @S250@ SOUR
+0 @S265@ SOUR
 1 REPO @R1@
 1 TITL U.S., World War II Army Enlistment Records, 1938-1946
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2005
-1 NOTE National Archives and Records Administration. Electronic Arm
-2 CONC y Serial Number Merged File, 1938-1946 [Archival Database]
-2 CONC ; ARC: <a href="http://research.archives.gov/description/126
-2 CONC 3923">1263923</a>. World War II Army Enlistment Records; Rec
-2 CONC ords of the National Archives and Records Administration, Re
-2 CONC cord Group 64; National Archives at College Park. College Pa
-2 CONC rk, Maryland, U.S.A.
 0 @6xrtF8bMQCypXIIPxFw2@ SOUR
 1 REFN 28633d1f-d958-4d1a-b559-496dc9a4605c
 1 REPO @R1@
