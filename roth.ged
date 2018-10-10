@@ -3,23 +3,24 @@
 1 GEDC
 2 VERS 5.5.1
 2 FORM LINEAGE-LINKED
-1 COPR Copyright © 1998, Christopher Alan Mosher, Shelton, CT, USA.
+1 COPR Copyright © 1998–2018, Christopher Alan Mosher, Shelton, CT
+2 CONC , USA.
 1 SUBM @Umy2qBWIRUiwVSS6Hcn4@
 1 SOUR FTM
-2 VERS 23.1.0.1480
+2 VERS 23.2.0.1540
 2 NAME Family Tree Maker for Windows
 2 CORP The Software MacKiev Company
 3 ADDR 30 Union Wharf
 4 CONT Boston, MA 02109
 3 PHON (617) 227-6681
 1 DEST FTM
-1 FILE Roth_Bialis_Cohen_Lang_2018-09-19-01-53-26.ftm.ged
-1 DATE 19 SEP 2018
-2 TIME 01:54:44
+1 FILE Roth_2018-10-10-02-18-47.ftm.ged
+1 DATE 10 OCT 2018
+2 TIME 02:19:29
 0 @Umy2qBWIRUiwVSS6Hcn4@ SUBM
 1 NAME Christopher Alan Mosher
 2 EMAIL cmosher01@@gmail.com
-2 WWW http://mosher.mine.nu/
+2 WWW https://mosher.mine.nu/
 2 WWW https://github.com/cmosher01/
 2 WWW https://www.ancestry.com/connect/Profile/0065664a-0000-0000-
 3 CONC 0000-000000000000
@@ -251,7 +252,8 @@
 4 CONC ; ARC Title: Index to Petitions for Naturalizations Filed i
 4 CONC n Federal, State, and Local Courts in New York City, 1792-19
 4 CONC 06; NAI Number: 5700802; Record Group Title: Records of Dist
-4 CONC rict Courts of th
+4 CONC rict Courts of the United States, 1685-2009; Record Group Nu
+4 CONC mber: RG 21.
 3 OBJE @M67@
 3 _APID 1,2280::138702
 1 SEX M
@@ -275,7 +277,8 @@
 4 CONC ; ARC Title: Index to Petitions for Naturalizations Filed i
 4 CONC n Federal, State, and Local Courts in New York City, 1792-19
 4 CONC 06; NAI Number: 5700802; Record Group Title: Records of Dist
-4 CONC rict Courts of th
+4 CONC rict Courts of the United States, 1685-2009; Record Group Nu
+4 CONC mber: RG 21.
 3 OBJE @M67@
 3 _APID 1,2280::138702
 1 EVEN
@@ -682,7 +685,7 @@
 4 CONC ton D.C.; Petitions for Naturalization of the U.S. Distric
 4 CONC t Court for the Eastern District of New York, 1865-1937; NAR
 4 CONC A Series: M1879; Reference: (Roll 493) Petition No 11061
-4 CONC 8 - Petition No 110893
+4 CONC 8 - Petition No 110893.
 3 OBJE @M18@
 3 _APID 1,1554::3332623
 2 SOUR @S22@
@@ -726,7 +729,7 @@
 4 CONC ton D.C.; Petitions for Naturalization of the U.S. Distric
 4 CONC t Court for the Eastern District of New York, 1865-1937; NAR
 4 CONC A Series: M1879; Reference: (Roll 493) Petition No 11061
-4 CONC 8 - Petition No 110893
+4 CONC 8 - Petition No 110893.
 3 OBJE @M18@
 3 _APID 1,1554::3332623
 2 SOUR @S22@
@@ -763,7 +766,7 @@
 4 CONC ton D.C.; Petitions for Naturalization of the U.S. Distric
 4 CONC t Court for the Eastern District of New York, 1865-1937; NAR
 4 CONC A Series: M1879; Reference: (Roll 493) Petition No 11061
-4 CONC 8 - Petition No 110893
+4 CONC 8 - Petition No 110893.
 3 OBJE @M18@
 3 _APID 1,1554::3332623
 1 RESI
@@ -2995,10 +2998,7 @@
 1 FAMC @F11@
 1 BIRT
 2 DATE ABT 1880
-2 PLAC New York, USA
-3 MAP
-4 LATI N42.7531
-4 LONG W74.2224
+2 PLAC Hungary
 0 @I70@ INDI
 1 REFN eceae306-6fda-4541-881a-0048a9062916
 1 NAME Anna wife of Herman /Randel/
@@ -6761,110 +6761,108 @@
 1 PUBL Ancestry.com Operations, Inc.; Location: Lehi, UT, USA; Date
 2 CONC : 2010
 0 @M1@ OBJE
-1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Roth_Bialis_Coh
-2 CONC en_Lang Media\1940 United States Federal Census.jpg
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Roth Media\194
+2 CONC 0 United States Federal Census.jpg
 2 FORM jpg
 2 TITL 1940 United States Federal Census
 2 _TEXT Year: 1940; Census Place: New York, Kings, New York; Roll: T
 3 CONC 627_2621; Page: 13B; Enumeration District: 24-2829
 0 @M2@ OBJE
-1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Roth_Bialis_Coh
-2 CONC en_Lang Media\1940 United States Federal Census(1).jpg
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Roth Media\194
+2 CONC 0 United States Federal Census(1).jpg
 2 FORM jpg
 2 TITL 1940 United States Federal Census
 2 _TEXT Year: 1940; Census Place: New York, Kings, New York; Roll: T
 3 CONC 627_2574; Page: 61B; Enumeration District: 24-1068
 0 @M3@ OBJE
-1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Roth_Bialis_Coh
-2 CONC en_Lang Media\1930 United States Federal Census.jpg
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Roth Media\193
+2 CONC 0 United States Federal Census.jpg
 2 FORM jpg
 2 TITL 1930 United States Federal Census
 2 _TEXT Year: 1930; Census Place: Brooklyn, Kings, New York; Roll: 1
 3 CONC 543; Page: 3B; Enumeration District: 0560; Image: 427.0; FH
 3 CONC L microfilm: 2341278
 0 @M4@ OBJE
-1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Roth_Bialis_Coh
-2 CONC en_Lang Media\New York City, Marriage Indexes, 1907-1995.jpg
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Roth Media\Ne
+2 CONC w York City, Marriage Indexes, 1907-1995.jpg
 2 FORM jpg
 2 TITL New York City, Marriage Indexes, 1907-1995
 2 _TEXT New York City Municipal Archives; New York, New York; Boroug
 3 CONC h: Brooklyn
 0 @M5@ OBJE
-1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Roth_Bialis_Coh
-2 CONC en_Lang Media\New York, State Census, 1925.jpg
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Roth Media\Ne
+2 CONC w York, State Census, 1925.jpg
 2 FORM jpg
 2 TITL New York, State Census, 1925
 2 _TEXT New York State Archives; Albany, New York; State Populatio
 3 CONC n Census Schedules, 1925; Election District: 46; Assembly Di
 3 CONC strict: 02; City: Brooklyn; County: Kings; Page: 60
 0 @M6@ OBJE
-1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Roth_Bialis_Coh
-2 CONC en_Lang Media\1910 United States Federal Census.jpg
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Roth Media\191
+2 CONC 0 United States Federal Census.jpg
 2 FORM jpg
 2 TITL 1910 United States Federal Census
 2 _TEXT Year: 1910; Census Place: Manhattan Ward 7, New York, New Yo
 3 CONC rk; Roll: T624_1008; Page: 3B; Enumeration District: 0097; F
 3 CONC HL microfilm: 1375021
 0 @M7@ OBJE
-1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Roth_Bialis_Coh
-2 CONC en_Lang Media\New York, State Census, 1915.jpg
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Roth Media\Ne
+2 CONC w York, State Census, 1915.jpg
 2 FORM jpg
 2 TITL New York, State Census, 1915
 2 _TEXT New York State Archives; Albany, New York; State Populatio
 3 CONC n Census Schedules, 1915; Election District: 02; Assembly Di
 3 CONC strict: 09; City: New York; County: Kings; Page: 44
 0 @M8@ OBJE
-1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Roth_Bialis_Coh
-2 CONC en_Lang Media\1920 United States Federal Census.jpg
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Roth Media\192
+2 CONC 0 United States Federal Census.jpg
 2 FORM jpg
 2 TITL 1920 United States Federal Census
 2 _TEXT Year: 1920; Census Place: Brooklyn Assembly District 2, King
 3 CONC s, New York; Roll: T625_1145; Page: 19B; Enumeration Distric
 3 CONC t: 74
 0 @M9@ OBJE
-1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Roth_Bialis_Coh
-2 CONC en_Lang Media\New York, State Census, 1915(1).jpg
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Roth Media\Ne
+2 CONC w York, State Census, 1915(1).jpg
 2 FORM jpg
 2 TITL New York, State Census, 1915
 2 _TEXT New York State Archives; Albany, New York; State Populatio
 3 CONC n Census Schedules, 1915; Election District: 30; Assembly Di
 3 CONC strict: 23; City: New York; County: Kings; Page: 156
 0 @M10@ OBJE
-1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Roth_Bialis_Coh
-2 CONC en_Lang Media\New York City, Marriage Indexes, 1907-1995(1).
-2 CONC jpg
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Roth Media\Ne
+2 CONC w York City, Marriage Indexes, 1907-1995(1).jpg
 2 FORM jpg
 2 TITL New York City, Marriage Indexes, 1907-1995
 2 _TEXT New York City Municipal Archives; New York, New York; Boroug
 3 CONC h: Brooklyn
 0 @M11@ OBJE
-1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Roth_Bialis_Coh
-2 CONC en_Lang Media\1920 United States Federal Census(1).jpg
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Roth Media\192
+2 CONC 0 United States Federal Census(1).jpg
 2 FORM jpg
 2 TITL 1920 United States Federal Census
 2 _TEXT Year: 1920; Census Place: Brooklyn Assembly District 2, King
 3 CONC s, New York; Roll: T625_1145; Page: 24B; Enumeration Distric
 3 CONC t: 70
 0 @M12@ OBJE
-1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Roth_Bialis_Coh
-2 CONC en_Lang Media\New York, State Census, 1925(1).jpg
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Roth Media\Ne
+2 CONC w York, State Census, 1925(1).jpg
 2 FORM jpg
 2 TITL New York, State Census, 1925
 2 _TEXT New York State Archives; Albany, New York; State Populatio
 3 CONC n Census Schedules, 1925; Election District: 09; Assembly Di
 3 CONC strict: 05; City: New York; County: Bronx; Page: 5
 0 @M13@ OBJE
-1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Roth_Bialis_Coh
-2 CONC en_Lang Media\New York City, Marriage Indexes, 1907-1995(2).
-2 CONC jpg
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Roth Media\Ne
+2 CONC w York City, Marriage Indexes, 1907-1995(2).jpg
 2 FORM jpg
 2 TITL New York City, Marriage Indexes, 1907-1995
 2 _TEXT New York City Municipal Archives; New York, New York; Boroug
 3 CONC h: Manhattan; Indexed Number: 5
 0 @M14@ OBJE
-1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Roth_Bialis_Coh
-2 CONC en_Lang Media\New York, State and Federal Naturalization Rec
-2 CONC ords, 1794-1940.jpg
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Roth Media\Ne
+2 CONC w York, State and Federal Naturalization Records, 1794-1940.
+2 CONC jpg
 2 FORM jpg
 2 TITL New York, State and Federal Naturalization Records, 1794-194
 3 CONC 0
@@ -6874,33 +6872,32 @@
 3 CONC 06; NAI Number: 5700802; Record Group Title: Records of Dist
 3 CONC rict Courts of th
 0 @M15@ OBJE
-1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Roth_Bialis_Coh
-2 CONC en_Lang Media\1910 United States Federal Census(1).jpg
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Roth Media\191
+2 CONC 0 United States Federal Census(1).jpg
 2 FORM jpg
 2 TITL 1910 United States Federal Census
 2 _TEXT Year: 1910; Census Place: Brooklyn Ward 13, Kings, New York
 3 CONC ; Roll: T624_961; Page: 5B; Enumeration District: 0264; FH
 3 CONC L microfilm: 1374974
 0 @M16@ OBJE
-1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Roth_Bialis_Coh
-2 CONC en_Lang Media\1920 United States Federal Census(2).jpg
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Roth Media\192
+2 CONC 0 United States Federal Census(2).jpg
 2 FORM jpg
 2 TITL 1920 United States Federal Census
 2 _TEXT Year: 1920; Census Place: Manhattan Assembly District 2, Ne
 3 CONC w York, New York; Roll: T625_1186; Page: 10A; Enumeration Di
 3 CONC strict: 149
 0 @M17@ OBJE
-1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Roth_Bialis_Coh
-2 CONC en_Lang Media\New York City, Marriage Indexes, 1907-1995(3).
-2 CONC jpg
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Roth Media\Ne
+2 CONC w York City, Marriage Indexes, 1907-1995(3).jpg
 2 FORM jpg
 2 TITL New York City, Marriage Indexes, 1907-1995
 2 _TEXT New York City Municipal Archives; New York, New York; Boroug
 3 CONC h: Manhattan; Indexed Number: 5
 0 @M18@ OBJE
-1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Roth_Bialis_Coh
-2 CONC en_Lang Media\Selected U.S. Naturalization Records - Origina
-2 CONC l Documents, 1790-1974.jpg
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Roth Media\Sele
+2 CONC cted U.S. Naturalization Records - Original Documents, 1790-
+2 CONC 1974.jpg
 2 FORM jpg
 2 TITL Selected U.S. Naturalization Records - Original Documents, 1
 3 CONC 790-1974
@@ -6910,87 +6907,85 @@
 3 CONC A Series: M1879; Reference: (Roll 493) Petition No 11061
 3 CONC 8 - Petition No 110893
 0 @M19@ OBJE
-1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Roth_Bialis_Coh
-2 CONC en_Lang Media\New York City, Marriage Indexes, 1907-1995(4).
-2 CONC jpg
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Roth Media\Ne
+2 CONC w York City, Marriage Indexes, 1907-1995(4).jpg
 2 FORM jpg
 2 TITL New York City, Marriage Indexes, 1907-1995
 2 _TEXT New York City Municipal Archives; New York, New York; Boroug
 3 CONC h: Manhattan; Indexed Number: M-22
 0 @M20@ OBJE
-1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Roth_Bialis_Coh
-2 CONC en_Lang Media\1940 United States Federal Census(2).jpg
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Roth Media\194
+2 CONC 0 United States Federal Census(2).jpg
 2 FORM jpg
 2 TITL 1940 United States Federal Census
 2 _TEXT Year: 1940; Census Place: New York, Bronx, New York; Roll: T
 3 CONC 627_2477; Page: 12B; Enumeration District: 3-633
 0 @M21@ OBJE
-1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Roth_Bialis_Coh
-2 CONC en_Lang Media\1910 United States Federal Census(2).jpg
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Roth Media\191
+2 CONC 0 United States Federal Census(2).jpg
 2 FORM jpg
 2 TITL 1910 United States Federal Census
 2 _TEXT Year: 1910; Census Place: Brooklyn Ward 26, Kings, New York
 3 CONC ; Roll: T624_978; Page: 20A; Enumeration District: 0795; FH
 3 CONC L microfilm: 1374991
 0 @M22@ OBJE
-1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Roth_Bialis_Coh
-2 CONC en_Lang Media\1940 United States Federal Census(3).jpg
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Roth Media\194
+2 CONC 0 United States Federal Census(3).jpg
 2 FORM jpg
 2 TITL 1940 United States Federal Census
 2 _TEXT Year: 1940; Census Place: New York, Queens, New York; Roll
 3 CONC : T627_2749; Page: 1A; Enumeration District: 41-1616
 0 @M23@ OBJE
-1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Roth_Bialis_Coh
-2 CONC en_Lang Media\1930 United States Federal Census(1).jpg
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Roth Media\193
+2 CONC 0 United States Federal Census(1).jpg
 2 FORM jpg
 2 TITL 1930 United States Federal Census
 2 _TEXT Year: 1930; Census Place: Bronx, Bronx, New York; Roll: 1475
 3 CONC ; Page: 2B; Enumeration District: 0752; Image: 528.0; FHL mi
 3 CONC crofilm: 2341210
 0 @M24@ OBJE
-1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Roth_Bialis_Coh
-2 CONC en_Lang Media\1930 United States Federal Census(2).jpg
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Roth Media\193
+2 CONC 0 United States Federal Census(2).jpg
 2 FORM jpg
 2 TITL 1930 United States Federal Census
 2 _TEXT Year: 1930; Census Place: Queens, Queens, New York; Roll: 15
 3 CONC 97; Page: 16A; Enumeration District: 0316; Image: 67.0; FH
 3 CONC L microfilm: 2341332
 0 @M25@ OBJE
-1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Roth_Bialis_Coh
-2 CONC en_Lang Media\New York, State Census, 1905.jpg
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Roth Media\Ne
+2 CONC w York, State Census, 1905.jpg
 2 FORM jpg
 2 TITL New York, State Census, 1905
 2 _TEXT New York State Archives; Albany, New York; State Populatio
 3 CONC n Census Schedules, 1905; Election District: A.D. 21 E.D. 14
 3 CONC ; City: Brooklyn; County: Kings; Page: 118
 0 @M26@ OBJE
-1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Roth_Bialis_Coh
-2 CONC en_Lang Media\New York City, Marriage Indexes, 1907-1995(5).
-2 CONC jpg
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Roth Media\Ne
+2 CONC w York City, Marriage Indexes, 1907-1995(5).jpg
 2 FORM jpg
 2 TITL New York City, Marriage Indexes, 1907-1995
 2 _TEXT New York City Municipal Archives; New York, New York; Boroug
 3 CONC h: Manhattan; Indexed Number: M-22
 0 @M27@ OBJE
-1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Roth_Bialis_Coh
-2 CONC en_Lang Media\1900 United States Federal Census.jpg
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Roth Media\190
+2 CONC 0 United States Federal Census.jpg
 2 FORM jpg
 2 TITL 1900 United States Federal Census
 2 _TEXT Year: 1900; Census Place: Manhattan, New York, New York; Rol
 3 CONC l: 1098; Page: 12A; Enumeration District: 0368; FHL microfil
 3 CONC m: 1241098
 0 @M28@ OBJE
-1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Roth_Bialis_Coh
-2 CONC en_Lang Media\1920 United States Federal Census(3).jpg
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Roth Media\192
+2 CONC 0 United States Federal Census(3).jpg
 2 FORM jpg
 2 TITL 1920 United States Federal Census
 2 _TEXT Year: 1920; Census Place: Brooklyn Assembly District 14, Kin
 3 CONC gs, New York; Roll: T625_1166; Page: 25B; Enumeration Distri
 3 CONC ct: 856
 0 @M29@ OBJE
-1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Roth_Bialis_Coh
-2 CONC en_Lang Media\New York, State and Federal Naturalization Rec
-2 CONC ords, 1794-1940(1).jpg
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Roth Media\Ne
+2 CONC w York, State and Federal Naturalization Records, 1794-1940(
+2 CONC 1).jpg
 2 FORM jpg
 2 TITL New York, State and Federal Naturalization Records, 1794-194
 3 CONC 0
@@ -7000,16 +6995,16 @@
 3 CONC 06; NAI Number: 5700802; Record Group Title: Records of Dist
 3 CONC rict Courts of th
 0 @M30@ OBJE
-1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Roth_Bialis_Coh
-2 CONC en_Lang Media\New York, Index to Petitions for Naturalizatio
-2 CONC n filed in New York City, 1792-1989.jpg
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Roth Media\Ne
+2 CONC w York, Index to Petitions for Naturalization filed in New Y
+2 CONC ork City, 1792-1989.jpg
 2 FORM jpg
 2 TITL New York, Index to Petitions for Naturalization filed in Ne
 3 CONC w York City, 1792-1989
 0 @M31@ OBJE
-1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Roth_Bialis_Coh
-2 CONC en_Lang Media\New York, State and Federal Naturalization Rec
-2 CONC ords, 1794-1940(2).jpg
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Roth Media\Ne
+2 CONC w York, State and Federal Naturalization Records, 1794-1940(
+2 CONC 2).jpg
 2 FORM jpg
 2 TITL New York, State and Federal Naturalization Records, 1794-194
 3 CONC 0
@@ -7019,9 +7014,9 @@
 3 CONC 06; NAI Number: 5700802; Record Group Title: Records of Dist
 3 CONC rict Courts of th
 0 @M32@ OBJE
-1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Roth_Bialis_Coh
-2 CONC en_Lang Media\New York, State and Federal Naturalization Rec
-2 CONC ords, 1794-1940(3).jpg
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Roth Media\Ne
+2 CONC w York, State and Federal Naturalization Records, 1794-1940(
+2 CONC 3).jpg
 2 FORM jpg
 2 TITL New York, State and Federal Naturalization Records, 1794-194
 3 CONC 0
@@ -7031,9 +7026,9 @@
 3 CONC 06; NAI Number: 5700802; Record Group Title: Records of Dist
 3 CONC rict Courts of th
 0 @M33@ OBJE
-1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Roth_Bialis_Coh
-2 CONC en_Lang Media\New York, State and Federal Naturalization Rec
-2 CONC ords, 1794-1940(4).jpg
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Roth Media\Ne
+2 CONC w York, State and Federal Naturalization Records, 1794-1940(
+2 CONC 4).jpg
 2 FORM jpg
 2 TITL New York, State and Federal Naturalization Records, 1794-194
 3 CONC 0
@@ -7043,9 +7038,8 @@
 3 CONC 06; NAI Number: 5700802; Record Group Title: Records of Dist
 3 CONC rict Courts of th
 0 @M34@ OBJE
-1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Roth_Bialis_Coh
-2 CONC en_Lang Media\U.S. Naturalization Records Indexes, 1794-1995
-2 CONC .jpg
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Roth Media\U.S
+2 CONC . Naturalization Records Indexes, 1794-1995.jpg
 2 FORM jpg
 2 TITL U.S. Naturalization Records Indexes, 1794-1995
 2 _TEXT National Archives and Records Administration (NARA); Washing
@@ -7053,225 +7047,220 @@
 3 CONC tates District Court for the Eastern District of New York, 1
 3 CONC 865-1957; Microfilm Serial: M1164; Microfilm Roll: 13
 0 @M35@ OBJE
-1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Roth_Bialis_Coh
-2 CONC en_Lang Media\U.S., World War II Draft Registration Cards, 1
-2 CONC 942.jpg
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Roth Media\U.S.
+2 CONC , World War II Draft Registration Cards, 1942.jpg
 2 FORM jpg
 2 TITL U.S., World War II Draft Registration Cards, 1942
 2 _TEXT The National Archives at St. Louis; St. Louis, Missouri; Rec
 3 CONC ord Group Title: Records of the Selective Service System, 19
 3 CONC 26-1975; Record Group Number: 147
 0 @M36@ OBJE
-1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Roth_Bialis_Coh
-2 CONC en_Lang Media\1910 United States Federal Census(3).jpg
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Roth Media\191
+2 CONC 0 United States Federal Census(3).jpg
 2 FORM jpg
 2 TITL 1910 United States Federal Census
 2 _TEXT Year: 1910; Census Place: Manhattan Ward 11, New York, New Y
 3 CONC ork; Roll: T624_1011; Page: 8B; Enumeration District: 0248
 3 CONC ; FHL microfilm: 1375024
 0 @M37@ OBJE
-1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Roth_Bialis_Coh
-2 CONC en_Lang Media\1920 United States Federal Census(4).jpg
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Roth Media\192
+2 CONC 0 United States Federal Census(4).jpg
 2 FORM jpg
 2 TITL 1920 United States Federal Census
 2 _TEXT Year: 1920; Census Place: Brooklyn Assembly District 2, King
 3 CONC s, New York; Roll: T625_1146; Page: 30B; Enumeration Distric
 3 CONC t: 82
 0 @M38@ OBJE
-1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Roth_Bialis_Coh
-2 CONC en_Lang Media\1910 United States Federal Census(4).jpg
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Roth Media\191
+2 CONC 0 United States Federal Census(4).jpg
 2 FORM jpg
 2 TITL 1910 United States Federal Census
 2 _TEXT Year: 1910; Census Place: Manhattan Ward 11, New York, New Y
 3 CONC ork; Roll: T624_1011; Page: 9A; Enumeration District: 0248
 3 CONC ; FHL microfilm: 1375024
 0 @M39@ OBJE
-1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Roth_Bialis_Coh
-2 CONC en_Lang Media\1920 United States Federal Census(5).jpg
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Roth Media\192
+2 CONC 0 United States Federal Census(5).jpg
 2 FORM jpg
 2 TITL 1920 United States Federal Census
 2 _TEXT Year: 1920; Census Place: Manhattan Assembly District 6, Ne
 3 CONC w York, New York; Roll: T625_1195; Page: 1A; Enumeration Dis
 3 CONC trict: 478
 0 @M40@ OBJE
-1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Roth_Bialis_Coh
-2 CONC en_Lang Media\New York, State Census, 1915(2).jpg
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Roth Media\Ne
+2 CONC w York, State Census, 1915(2).jpg
 2 FORM jpg
 2 TITL New York, State Census, 1915
 2 _TEXT New York State Archives; Albany, New York; State Populatio
 3 CONC n Census Schedules, 1915; Election District: 30; Assembly Di
 3 CONC strict: 23; City: New York; County: Kings; Page: 155
 0 @M41@ OBJE
-1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Roth_Bialis_Coh
-2 CONC en_Lang Media\1940 United States Federal Census(4).jpg
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Roth Media\194
+2 CONC 0 United States Federal Census(4).jpg
 2 FORM jpg
 2 TITL 1940 United States Federal Census
 2 _TEXT Year: 1940; Census Place: New York, New York, New York; Roll
 3 CONC : T627_2631; Page: 61B; Enumeration District: 31-307
 0 @M42@ OBJE
-1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Roth_Bialis_Coh
-2 CONC en_Lang Media\1910 United States Federal Census(5).jpg
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Roth Media\191
+2 CONC 0 United States Federal Census(5).jpg
 2 FORM jpg
 2 TITL 1910 United States Federal Census
 2 _TEXT Year: 1910; Census Place: Brooklyn Ward 26, Kings, New York
 3 CONC ; Roll: T624_978; Page: 19B; Enumeration District: 0795; FH
 3 CONC L microfilm: 1374991
 0 @M43@ OBJE
-1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Roth_Bialis_Coh
-2 CONC en_Lang Media\New York, State Census, 1905(1).jpg
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Roth Media\Ne
+2 CONC w York, State Census, 1905(1).jpg
 2 FORM jpg
 2 TITL New York, State Census, 1905
 2 _TEXT New York State Archives; Albany, New York; State Populatio
 3 CONC n Census Schedules, 1905; Election District: A.D. 21 E.D. 13
 3 CONC ; City: Brooklyn; County: Kings; Page: 29
 0 @M44@ OBJE
-1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Roth_Bialis_Coh
-2 CONC en_Lang Media\New York, State Census, 1925(2).jpg
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Roth Media\Ne
+2 CONC w York, State Census, 1925(2).jpg
 2 FORM jpg
 2 TITL New York, State Census, 1925
 2 _TEXT New York State Archives; Albany, New York; State Populatio
 3 CONC n Census Schedules, 1925; Election District: 54; Assembly Di
 3 CONC strict: 18; City: Brooklyn; County: Kings; Page: 38
 0 @M45@ OBJE
-1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Roth_Bialis_Coh
-2 CONC en_Lang Media\1930 United States Federal Census(3).jpg
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Roth Media\193
+2 CONC 0 United States Federal Census(3).jpg
 2 FORM jpg
 2 TITL 1930 United States Federal Census
 2 _TEXT Year: 1930; Census Place: Brooklyn, Kings, New York; Roll: 1
 3 CONC 531; Page: 7A; Enumeration District: 0778; Image: 643.0; FH
 3 CONC L microfilm: 2341266
 0 @M46@ OBJE
-1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Roth_Bialis_Coh
-2 CONC en_Lang Media\New York, State Census, 1925(3).jpg
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Roth Media\Ne
+2 CONC w York, State Census, 1925(3).jpg
 2 FORM jpg
 2 TITL New York, State Census, 1925
 2 _TEXT New York State Archives; Albany, New York; State Populatio
 3 CONC n Census Schedules, 1925; Election District: 23; Assembly Di
 3 CONC strict: 03; City: Brooklyn; County: Kings; Page: 6
 0 @M47@ OBJE
-1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Roth_Bialis_Coh
-2 CONC en_Lang Media\1930 United States Federal Census(4).jpg
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Roth Media\193
+2 CONC 0 United States Federal Census(4).jpg
 2 FORM jpg
 2 TITL 1930 United States Federal Census
 2 _TEXT Year: 1930; Census Place: Bronx, Bronx, New York; Roll: 1467
 3 CONC ; Page: 12B; Enumeration District: 0150; FHL microfilm: 2341
 3 CONC 202
 0 @M48@ OBJE
-1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Roth_Bialis_Coh
-2 CONC en_Lang Media\1930 United States Federal Census(5).jpg
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Roth Media\193
+2 CONC 0 United States Federal Census(5).jpg
 2 FORM jpg
 2 TITL 1930 United States Federal Census
 2 _TEXT Year: 1930; Census Place: Brooklyn, Kings, New York; Roll: 1
 3 CONC 531; Page: 6B; Enumeration District: 0778; Image: 642.0; FH
 3 CONC L microfilm: 2341266
 0 @M49@ OBJE
-1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Roth_Bialis_Coh
-2 CONC en_Lang Media\New York, State Census, 1905(2).jpg
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Roth Media\Ne
+2 CONC w York, State Census, 1905(2).jpg
 2 FORM jpg
 2 TITL New York, State Census, 1905
 2 _TEXT New York State Archives; Albany, New York; State Populatio
 3 CONC n Census Schedules, 1905; Election District: A.D. 12 E.D. 10
 3 CONC ; City: Manhattan; County: New York; Page: 22
 0 @M50@ OBJE
-1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Roth_Bialis_Coh
-2 CONC en_Lang Media\1900 United States Federal Census(1).jpg
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Roth Media\190
+2 CONC 0 United States Federal Census(1).jpg
 2 FORM jpg
 2 TITL 1900 United States Federal Census
 2 _TEXT Year: 1900; Census Place: Manhattan, New York, New York; Rol
 3 CONC l: 1098; Page: 12A; Enumeration District: 0368; FHL microfil
 3 CONC m: 1241098
 0 @M51@ OBJE
-1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Roth_Bialis_Coh
-2 CONC en_Lang Media\1910 United States Federal Census(6).jpg
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Roth Media\191
+2 CONC 0 United States Federal Census(6).jpg
 2 FORM jpg
 2 TITL 1910 United States Federal Census
 2 _TEXT Year: 1910; Census Place: Brooklyn Ward 26, Kings, New York
 3 CONC ; Roll: T624_978; Page: 4A; Enumeration District: 0796; FH
 3 CONC L microfilm: 1374991
 0 @M52@ OBJE
-1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Roth_Bialis_Coh
-2 CONC en_Lang Media\New York, State Census, 1905(3).jpg
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Roth Media\Ne
+2 CONC w York, State Census, 1905(3).jpg
 2 FORM jpg
 2 TITL New York, State Census, 1905
 2 _TEXT New York State Archives; Albany, New York; State Populatio
 3 CONC n Census Schedules, 1905; Election District: A.D. 21 E.D. 14
 3 CONC ; City: Brooklyn; County: Kings; Page: 118
 0 @M53@ OBJE
-1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Roth_Bialis_Coh
-2 CONC en_Lang Media\1920 United States Federal Census(6).jpg
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Roth Media\192
+2 CONC 0 United States Federal Census(6).jpg
 2 FORM jpg
 2 TITL 1920 United States Federal Census
 2 _TEXT Year: 1920; Census Place: Brooklyn Assembly District 2, King
 3 CONC s, New York; Roll: T625_1145; Page: 24B; Enumeration Distric
 3 CONC t: 70
 0 @M54@ OBJE
-1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Roth_Bialis_Coh
-2 CONC en_Lang Media\New York City, Marriage Indexes, 1907-1995(6).
-2 CONC jpg
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Roth Media\Ne
+2 CONC w York City, Marriage Indexes, 1907-1995(6).jpg
 2 FORM jpg
 2 TITL New York City, Marriage Indexes, 1907-1995
 2 _TEXT New York City Municipal Archives; New York, New York; Boroug
 3 CONC h: Manhattan; Volume Number: 10
 0 @M55@ OBJE
-1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Roth_Bialis_Coh
-2 CONC en_Lang Media\New York, State Census, 1915(3).jpg
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Roth Media\Ne
+2 CONC w York, State Census, 1915(3).jpg
 2 FORM jpg
 2 TITL New York, State Census, 1915
 2 _TEXT New York State Archives; Albany, New York; State Populatio
 3 CONC n Census Schedules, 1915; Election District: 32; Assembly Di
 3 CONC strict: 23; City: New York; County: Kings; Page: 103
 0 @M56@ OBJE
-1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Roth_Bialis_Coh
-2 CONC en_Lang Media\1930 United States Federal Census(6).jpg
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Roth Media\193
+2 CONC 0 United States Federal Census(6).jpg
 2 FORM jpg
 2 TITL 1930 United States Federal Census
 2 _TEXT Year: 1930; Census Place: Brooklyn, Kings, New York; Roll: 1
 3 CONC 530; Page: 1A; Enumeration District: 0763; Image: 531.0; FH
 3 CONC L microfilm: 2341265
 0 @M57@ OBJE
-1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Roth_Bialis_Coh
-2 CONC en_Lang Media\New York, State Census, 1925(4).jpg
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Roth Media\Ne
+2 CONC w York, State Census, 1925(4).jpg
 2 FORM jpg
 2 TITL New York, State Census, 1925
 2 _TEXT New York State Archives; Albany, New York; State Populatio
 3 CONC n Census Schedules, 1925; Election District: 16; Assembly Di
 3 CONC strict: 17; City: Brooklyn; County: Kings; Page: 21
 0 @M58@ OBJE
-1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Roth_Bialis_Coh
-2 CONC en_Lang Media\New York City, Marriage Indexes, 1907-1995(7).
-2 CONC jpg
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Roth Media\Ne
+2 CONC w York City, Marriage Indexes, 1907-1995(7).jpg
 2 FORM jpg
 2 TITL New York City, Marriage Indexes, 1907-1995
 2 _TEXT New York City Municipal Archives; New York, New York; Boroug
 3 CONC h: Brooklyn
 0 @M59@ OBJE
-1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Roth_Bialis_Coh
-2 CONC en_Lang Media\New York City, Marriage Indexes, 1907-1995(8).
-2 CONC jpg
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Roth Media\Ne
+2 CONC w York City, Marriage Indexes, 1907-1995(8).jpg
 2 FORM jpg
 2 TITL New York City, Marriage Indexes, 1907-1995
 2 _TEXT New York City Municipal Archives; New York, New York; Boroug
 3 CONC h: Brooklyn
 0 @M60@ OBJE
-1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Roth_Bialis_Coh
-2 CONC en_Lang Media\1910 United States Federal Census(7).jpg
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Roth Media\191
+2 CONC 0 United States Federal Census(7).jpg
 2 FORM jpg
 2 TITL 1910 United States Federal Census
 2 _TEXT Year: 1910; Census Place: Dannemora, Clinton, New York; Roll
 3 CONC : T624_932; Page: 12B; Enumeration District: 0016; FHL micro
 3 CONC film: 1374945
 0 @M61@ OBJE
-1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Roth_Bialis_Coh
-2 CONC en_Lang Media\U.S., World War I Draft Registration Cards, 19
-2 CONC 17-1918.jpg
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Roth Media\U.S.
+2 CONC , World War I Draft Registration Cards, 1917-1918.jpg
 2 FORM jpg
 2 TITL U.S., World War I Draft Registration Cards, 1917-1918
 2 _TEXT Registration State: New York; Registration County: Kings; Ro
 3 CONC ll: 1765586; Draft Board: 85
 0 @M62@ OBJE
-1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Roth_Bialis_Coh
-2 CONC en_Lang Media\Selected U.S. Naturalization Records - Origina
-2 CONC l Documents, 1790-1974(1).jpg
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Roth Media\Sele
+2 CONC cted U.S. Naturalization Records - Original Documents, 1790-
+2 CONC 1974(1).jpg
 2 FORM jpg
 2 TITL Selected U.S. Naturalization Records - Original Documents, 1
 3 CONC 790-1974
@@ -7281,40 +7270,37 @@
 3 CONC A Series: M1879; Reference: (Roll 081) Vol 73 Pg 277 - Vol 7
 3 CONC 4 Pg 395
 0 @M63@ OBJE
-1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Roth_Bialis_Coh
-2 CONC en_Lang Media\U.S., World War II Draft Registration Cards, 1
-2 CONC 942(1).jpg
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Roth Media\U.S.
+2 CONC , World War II Draft Registration Cards, 1942(1).jpg
 2 FORM jpg
 2 TITL U.S., World War II Draft Registration Cards, 1942
 2 _TEXT The National Archives at St. Louis; St. Louis, Missouri; Rec
 3 CONC ord Group Title: Records of the Selective Service System, 19
 3 CONC 26-1975; Record Group Number: 147
 0 @M64@ OBJE
-1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Roth_Bialis_Coh
-2 CONC en_Lang Media\New York, Sing Sing Prison Admission Registers
-2 CONC , 1865-1939.jpg
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Roth Media\Ne
+2 CONC w York, Sing Sing Prison Admission Registers, 1865-1939.jpg
 2 FORM jpg
 2 TITL New York, Sing Sing Prison Admission Registers, 1865-1939
 2 _TEXT New York State Archives; Albany, New York; Sing Sing Prison
 3 CONC , 1852-1938; Box: 17; Volume: 44
 0 @M65@ OBJE
-1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Roth_Bialis_Coh
-2 CONC en_Lang Media\New York City, Marriage Indexes, 1907-1995(9).
-2 CONC jpg
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Roth Media\Ne
+2 CONC w York City, Marriage Indexes, 1907-1995(9).jpg
 2 FORM jpg
 2 TITL New York City, Marriage Indexes, 1907-1995
 2 _TEXT New York City Municipal Archives; New York, New York; Boroug
 3 CONC h: Manhattan; Volume Number: 10
 0 @M66@ OBJE
-1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Roth_Bialis_Coh
-2 CONC en_Lang Media\bought land.jpg
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Roth Media\boug
+2 CONC ht land.jpg
 2 FORM jpg
 2 TITL bought land
 2 _DATE 21 Mar 1900, Wed
 0 @M67@ OBJE
-1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Roth_Bialis_Coh
-2 CONC en_Lang Media\New York, State and Federal Naturalization Rec
-2 CONC ords, 1794-1940(5).jpg
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Roth Media\Ne
+2 CONC w York, State and Federal Naturalization Records, 1794-1940(
+2 CONC 5).jpg
 2 FORM jpg
 2 TITL New York, State and Federal Naturalization Records, 1794-194
 3 CONC 0
@@ -7324,9 +7310,9 @@
 3 CONC 06; NAI Number: 5700802; Record Group Title: Records of Dist
 3 CONC rict Courts of th
 0 @M68@ OBJE
-1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Roth_Bialis_Coh
-2 CONC en_Lang Media\New York, Index to Petitions for Naturalizatio
-2 CONC n filed in New York City, 1792-1989(1).jpg
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Roth Media\Ne
+2 CONC w York, Index to Petitions for Naturalization filed in New Y
+2 CONC ork City, 1792-1989(1).jpg
 2 FORM jpg
 2 TITL New York, Index to Petitions for Naturalization filed in Ne
 3 CONC w York City, 1792-1989
