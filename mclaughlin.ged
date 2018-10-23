@@ -14,9 +14,9 @@
 4 CONT Boston, MA 02109
 3 PHON (617) 227-6681
 1 DEST FTM
-1 FILE McLaughlin_2018-10-23-03-53-41.ftm.ged
+1 FILE McLaughlin_2018-10-23-12-35-02.ftm.ged
 1 DATE 23 OCT 2018
-2 TIME 03:54:33
+2 TIME 12:35:51
 0 @Umy2qBWIRUiwVSS6Hcn4@ SUBM
 1 NAME Christopher Alan Mosher
 2 EMAIL cmosher01@@gmail.com
@@ -1978,16 +1978,13 @@
 2 NOTE gravestone gives 1 Jun 1835, Donegal
 1 IMMI
 2 DATE 1857
-2 SOUR @0VVQ8i0xTuG0p9aveWFA@
-3 QUAY 1
-1 EVEN
-2 TYPE Arrival
-2 DATE 1857
 2 SOUR @S92@
 3 PAGE Year: 1900; Census Place: Hornby, Steuben, New York; Page: 3
 4 CONC ; Enumeration District: 0087; FHL microfilm: 1241163
 3 OBJE @M169@
 3 _APID 1,7602::56735660
+2 SOUR @0VVQ8i0xTuG0p9aveWFA@
+3 QUAY 1
 1 RESI
 2 DATE 01 JUN 1860
 2 PLAC Reading, Schuyler, New York, USA
@@ -7289,25 +7286,12 @@
 1 SEX F
 1 FAMC @k3eINVMISsa7AVKKO8hC@
 1 FAMS @PSokYrI2TOykE1xyKLU9@
-1 BAPM
-2 DATE 24 SEP 1876
-2 PLAC Saint Mary’s Church, 155 State Street, Corning, Steuben, Ne
-3 CONC w York, USA
-2 SOUR @S79@
-3 PAGE <bibl> <author>St. Mary’s Church (Corning, New York, USA)</a
-4 CONC uthor>, <title level="u">Record, Baptisms 1849 thru July 189
-4 CONC 6</title> (manuscript copy), <citedRange>p. 301, Catharina M
-4 CONC cLaughlin, 24 Sep 1876</citedRange>; digital images, <titl
-4 CONC e level="m">FamilySearch</title> (<ref target="https://www.f
-4 CONC amilysearch.org/ark:/61903/3:1:3Q9M-CS7W-P9F8-M"/> : 29 Se
-4 CONC p 2018), FHL microfilm 1,432,400, DGS 7857667, image 498 o
-4 CONC f 2666. </bibl>
-3 QUAY 4
-3 OBJE @M139@
-3 _LINK https://www.familysearch.org/ark:/61903/3:1:3Q9M-CS7W-P9F8-M
 1 BIRT
-2 DATE ABT 1877
-2 PLAC New York
+2 DATE 10 AUG 1876
+2 PLAC Hornby, Steuben, New York, USA
+3 MAP
+4 LATI N42.2442
+4 LONG W77.0444
 2 SOUR @S87@
 3 PAGE Year: 1880; Census Place: Hornby, Steuben, New York; Roll: 9
 4 CONC 33; Family History Film: 1254933; Page: 266C; Enumeration Di
@@ -7384,6 +7368,22 @@
 2 SOUR @e0k10AjRSSyDnTOmeiMT@
 3 _APID 1,70572::409397
 2 NOTE Place is assumed.
+1 BAPM
+2 DATE 24 SEP 1876
+2 PLAC Saint Mary’s Church, 155 State Street, Corning, Steuben, Ne
+3 CONC w York, USA
+2 SOUR @S79@
+3 PAGE <bibl> <author>St. Mary’s Church (Corning, New York, USA)</a
+4 CONC uthor>, <title level="u">Record, Baptisms 1849 thru July 189
+4 CONC 6</title> (manuscript copy), <citedRange>p. 301, Catharina M
+4 CONC cLaughlin, 24 Sep 1876</citedRange>; digital images, <titl
+4 CONC e level="m">FamilySearch</title> (<ref target="https://www.f
+4 CONC amilysearch.org/ark:/61903/3:1:3Q9M-CS7W-P9F8-M"/> : 29 Se
+4 CONC p 2018), FHL microfilm 1,432,400, DGS 7857667, image 498 o
+4 CONC f 2666. </bibl>
+3 QUAY 4
+3 OBJE @M139@
+3 _LINK https://www.familysearch.org/ark:/61903/3:1:3Q9M-CS7W-P9F8-M
 1 RESI
 2 DATE 1880
 2 PLAC Hornby, Steuben, New York, USA
