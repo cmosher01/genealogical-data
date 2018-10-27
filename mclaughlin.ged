@@ -14,9 +14,9 @@
 4 CONT Boston, MA 02109
 3 PHON (617) 227-6681
 1 DEST FTM
-1 FILE McLaughlin_2018-10-27-15-37-43.ftm.ged
+1 FILE McLaughlin_2018-10-27-21-37-40.ftm.ged
 1 DATE 27 OCT 2018
-2 TIME 15:38:37
+2 TIME 21:39:32
 0 @Umy2qBWIRUiwVSS6Hcn4@ SUBM
 1 NAME Christopher Alan Mosher
 2 EMAIL cmosher01@@gmail.com
@@ -7658,7 +7658,17 @@
 4 CONC -t0627-02781; Page: 5A; Enumeration District: 51-54
 3 OBJE @M170@
 3 _APID 1,2442::8685256
-2 SOUR @9IoBBXyfStatJYgfOOXZ@
+2 SOUR @S26@
+3 PAGE <bibl> <title level="u">In Loving Memory of Mary Anne Harris
+4 CONC on</title>, funeral booklet, 6 May 1953, Corning, New York
+4 CONC , USA; Harrison/McLaughlin Documents, Archive of Historica
+4 CONC l Family Documents, Christopher A. Mosher, Shelton, Connecti
+4 CONC cut, USA; digital images (<ref target="https://mosher.mine.n
+4 CONC u/tei/genealogy/main/sources/recent/harrison_mclaughlin/mcla
+4 CONC ughlin_mary_ann_death.tei.xml"/> : 27 Oct 2018), <citedRange
+4 CONC >p. 8</citedRange>. </bibl>
+3 _LINK https://mosher.mine.nu/tei/genealogy/main/sources/recent/har
+4 CONC rison_mclaughlin/mclaughlin_mary_ann_death.tei.xml
 2 SOUR @S71@
 3 PAGE New York Department of Health; Albany, NY; NY State Death In
 4 CONC dex
@@ -7928,6 +7938,18 @@
 2 DATE 06 MAY 1953
 2 PLAC Central Valley Cemetery, Hornby, Steuben, New York, USA
 2 SOUR @MQZgWkG8QhWLmgvaw3m7@
+2 SOUR @S26@
+3 PAGE <bibl> <title level="u">In Loving Memory of Mary Anne Harris
+4 CONC on</title>, funeral booklet, 6 May 1953, Corning, New York
+4 CONC , USA; Harrison/McLaughlin Documents, Archive of Historica
+4 CONC l Family Documents, Christopher A. Mosher, Shelton, Connecti
+4 CONC cut, USA; digital images (<ref target="https://mosher.mine.n
+4 CONC u/tei/genealogy/main/sources/recent/harrison_mclaughlin/mcla
+4 CONC ughlin_mary_ann_death.tei.xml"/> : 27 Oct 2018), <citedRange
+4 CONC >p. 8</citedRange>. </bibl>
+3 QUAY 3
+3 _LINK https://mosher.mine.nu/tei/genealogy/main/sources/recent/har
+4 CONC rison_mclaughlin/mclaughlin_mary_ann_death.tei.xml
 2 SOUR @S74@
 3 _APID 1,60525::46328189
 2 SOUR @S18@
@@ -10931,6 +10953,11 @@
 1 ADDR http://www.Ancestry.com
 1 EMAIL
 1 PHON
+0 @R3@ REPO
+1 NAME Christopher A. Mosher Archive of Historical Family Documents
+1 ADDR Shelton, Connecticut, USA
+1 EMAIL
+1 PHON
 0 @S86@ SOUR
 1 REPO @0aJKtHRDQmatCERL9JPC@
 1 TITL 1850 United States Federal Census
@@ -11012,36 +11039,9 @@
 1 PUBL Central Valley Cemetery, Hornby, NY
 1 TEXT HARRISON ELMER 1873-1943<br />
 2 CONT ANNA 1870-1953
-0 @9IoBBXyfStatJYgfOOXZ@ SOUR
-1 REFN b2d72c3c-1e74-4b73-972a-8735b5b11038
-1 TITL In Loving Memory [Mary Anne McLaughlin's funeral book]
-1 PUBL In possession of Chris Mosher.
-1 TEXT Full Name of Deceased Mary Anne Harrison<br />
-2 CONT Place of Birth Hornby, New York Date July 23, 1870<br />
-2 CONT Place of Death Hamilton, New York Date May 2, 1953<br />
-2 CONT Age 82<br />
-2 CONT Services<br />
-2 CONT Held at St. Vincent De Pauls Clergyman Father Hogan<br />
-2 CONT Date May 6, 1953 Time 9:00 o'clock<br />
-2 CONT Interment<br />
-2 CONT Cemetery Hornby Forks Section Center Lot Front<br />
-2 CONT City Hornby, New York State New York<br />
-2 CONT Date May 6, 1953 Time 10:15 A.M.<br />
-2 CONT Escorts<br />
-2 CONT John McLaughlin<br />
-2 CONT Joseph McLaughlin<br />
-2 CONT Arthur McLaughlin<br />
-2 CONT William D. McLaughlin<br />
-2 CONT Dudley McLaughlin<br />
-2 CONT Basil Hendrick<br />
-2 CONT Family Record<br />
-2 CONT Mary Anne Harrison<br />
-2 CONT Born July 23, 1853 Died May 4, 1953 [note: "4," is in differ
-2 CONC ent ink] [May 2, as shown above, is correct]<br />
-2 CONT Mother Margaret Dougherty Born Ireland Died Hornby, N.Y.<b
-2 CONC r />
-2 CONT Father William McLaughlin Born Ireland Died Hornby, N.Y.<b
-2 CONC r />
+0 @S26@ SOUR
+1 REPO @R3@
+1 TITL Harrison/McLaughlin Documents
 0 @EndAqtV7TBSOao81uFyz@ SOUR
 1 REFN a0eb25cd-b960-4624-b276-87afd8026666
 1 TITL Lillian's Hornby, Newsletters 1969-1993 by Historian Lillia
