@@ -14,9 +14,9 @@
 4 CONT Boston, MA 02109
 3 PHON (617) 227-6681
 1 DEST FTM
-1 FILE McLaughlin_2018-10-26-02-02-58.ftm.ged
-1 DATE 26 OCT 2018
-2 TIME 02:04:03
+1 FILE McLaughlin_2018-10-27-03-12-58.ftm.ged
+1 DATE 27 OCT 2018
+2 TIME 03:13:41
 0 @Umy2qBWIRUiwVSS6Hcn4@ SUBM
 1 NAME Christopher Alan Mosher
 2 EMAIL cmosher01@@gmail.com
@@ -4166,6 +4166,12 @@
 3 _APID 1,1965::182391
 2 SOUR @S77@
 3 _APID 1,3564::23107610
+2 SOUR @S96@
+3 PAGE New York State Archives; Albany, New York; Town Clerks´ Regi
+4 CONC sters of Men Who Served in the Civil War, ca 1861-1865; Coll
+4 CONC ection Number: (N-Ar)13774; Box Number: 55; Roll Number: 30
+3 OBJE @M178@
+3 _APID 1,1964::116807
 2 SOUR @S78@
 3 _APID 1,1555::957654
 2 SOUR @S74@
@@ -4198,6 +4204,12 @@
 4 CONC 17
 3 OBJE @M120@
 3 _APID 1,1965::182391
+2 SOUR @S96@
+3 PAGE New York State Archives; Albany, New York; Town Clerks´ Regi
+4 CONC sters of Men Who Served in the Civil War, ca 1861-1865; Coll
+4 CONC ection Number: (N-Ar)13774; Box Number: 55; Roll Number: 30
+3 OBJE @M178@
+3 _APID 1,1964::116807
 2 SOUR @S25@
 3 PAGE <bibl> <author>St. Mary’s Cemetery (South Corning, New York
 4 CONC , USA)</author>, <citedRange>McLaughlin (James, Hannah, Char
@@ -4252,6 +4264,12 @@
 4 CONC 17
 3 OBJE @M120@
 3 _APID 1,1965::182391
+2 SOUR @S96@
+3 PAGE New York State Archives; Albany, New York; Town Clerks´ Regi
+4 CONC sters of Men Who Served in the Civil War, ca 1861-1865; Coll
+4 CONC ection Number: (N-Ar)13774; Box Number: 55; Roll Number: 30
+3 OBJE @M178@
+3 _APID 1,1964::116807
 2 SOUR @S78@
 3 _APID 1,1555::957654
 2 NOTE 89th New York Volunteer Infantry Regiment, “Dickinson Guard”
@@ -11235,6 +11253,13 @@
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2012
+0 @S96@ SOUR
+1 REPO @0aJKtHRDQmatCERL9JPC@
+1 TITL New York, Town Clerks' Registers of Men Who Served in the Ci
+2 CONC vil War, ca 1861-1865
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
+2 CONC e: 2011
 0 @EN0e5E9qRzetfuaNWGkV@ SOUR
 1 REFN e94ac2af-a6b1-47e0-bbe8-b88dd05d2367
 1 TITL NY Census, 1865, Steuben Co., Hornby, image 5 of 34
@@ -13419,4 +13444,14 @@
 2 CONC a\New York, State Census, 1855.jpg
 2 FORM jpg
 2 TITL New York, State Census, 1855
+0 @M178@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\McLaughlin Medi
+2 CONC a\New York, Town Clerks' Registers of Men Who Served in th
+2 CONC e Civil War, ca 1861-1865.jpg
+2 FORM jpg
+2 TITL New York, Town Clerks' Registers of Men Who Served in the Ci
+3 CONC vil War, ca 1861-1865
+2 _TEXT New York State Archives; Albany, New York; Town Clerks´ Regi
+3 CONC sters of Men Who Served in the Civil War, ca 1861-1865; Coll
+3 CONC ection Number: (N-Ar)13774; Box Number: 55; Roll Number: 30
 0 TRLR
