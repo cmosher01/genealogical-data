@@ -14,9 +14,9 @@
 4 CONT Boston, MA 02109
 3 PHON (617) 227-6681
 1 DEST FTM
-1 FILE Lopez_2018-10-29-03-06-36.ftm.ged
+1 FILE Lopez_2018-10-29-03-38-59.ftm.ged
 1 DATE 29 OCT 2018
-2 TIME 03:07:30
+2 TIME 03:39:40
 0 @Umy2qBWIRUiwVSS6Hcn4@ SUBM
 1 NAME Christopher Alan Mosher
 2 EMAIL cmosher01@@gmail.com
@@ -3410,40 +3410,29 @@
 3 CONT But: 1910 Census (Apr) lists age as 62, which would be consi
 3 CONC stent with Aug 1847.
 3 CONT Joseph Dudley says 6 Aug 1847 Quito
-1 RESI
-2 DATE FROM 06 AUG 1847 TO 1873
-2 PLAC Quito, Pichincha, Ecuador
-3 MAP
-4 LATI S0.2167
-4 LONG W78.5
-2 SOUR @S68@
-3 QUAY 1
 1 EDUC
-2 DATE FROM 1864 TO 1868
+2 DATE ABT 1864
 2 PLAC Colegio de los Jesuítas, Quito, Pichincha, Ecuador
 2 SOUR @S68@
 3 QUAY 1
 2 NOTE Latin teacher: Buenaventura Proaño.
 3 CONT Humanities teacher: Padre Hernáez.
-3 CONT Dates approx.
 1 EDUC
 2 DATE ABT 1870
 2 PLAC Facultad de Ciencias Medicas de la Universidad Central, Quit
 3 CONC o, Pichincha, Ecuador
 2 SOUR @rF6T1DrXQt2JZCH7KGmd@
 3 _APID 1,7833::81066
-2 NOTE date is a guess
 1 OCCU doctor
-2 DATE FROM 1873 TO 1885
+2 DATE 1873
 2 PLAC Jipijapa, Manabi, Ecuador
 3 MAP
 4 LATI S1.3333
 4 LONG W80.5833
 2 SOUR @S68@
 3 QUAY 1
-2 NOTE End date approx.
 1 RESI
-2 DATE FROM 1873 TO 1885
+2 DATE 1873
 2 PLAC Jipijapa, Manabi, Ecuador
 3 MAP
 4 LATI S1.3333
@@ -3469,16 +3458,16 @@
 3 CONT Enlisted as a medic with the forces opposing Veintimilla.
 1 EVEN
 2 TYPE military
-2 DATE FROM 1884 TO 1885
+2 DATE 1884
 2 NOTE Joined forces under General Eloy Alfaro.
 3 CONT Became Surgeon General of the Revolutionary Forces.
 1 RESI
-2 DATE FROM 1885 TO 1888
+2 DATE 1885
 2 PLAC Peru
 2 SOUR @S68@
 3 QUAY 1
 1 RESI
-2 DATE FROM 1888 TO 1889
+2 DATE 1888
 2 PLAC Jipijapa, Manabi, Ecuador
 3 MAP
 4 LATI S1.3333
@@ -3486,7 +3475,7 @@
 2 SOUR @S68@
 3 QUAY 1
 1 RESI
-2 DATE FROM 1889 TO 1892
+2 DATE 1889
 2 PLAC Chone, Manabi, Ecuador
 3 MAP
 4 LATI S0.6833
@@ -3494,7 +3483,7 @@
 2 SOUR @S68@
 3 QUAY 1
 1 OCCU doctor
-2 DATE FROM 1889 TO 1892
+2 DATE 1889
 2 PLAC Chone, Manabi, Ecuador
 3 MAP
 4 LATI S0.6833
@@ -3510,7 +3499,7 @@
 4 LONG W80.1
 2 SOUR @S68@
 1 OCCU doctor
-2 DATE FROM 1892
+2 DATE 1892
 2 PLAC Guayaquil, Guayas, Ecuador
 3 MAP
 4 LATI S2.1667
@@ -3518,7 +3507,7 @@
 2 SOUR @S68@
 3 QUAY 1
 1 RESI
-2 DATE FROM 1892 TO 1896
+2 DATE 1892
 2 PLAC Guayaquil, Guayas, Ecuador
 3 MAP
 4 LATI S2.1667
@@ -3551,7 +3540,7 @@
 3 QUAY 1
 2 NOTE delegate to the convention from Manabi Province
 1 RESI
-2 DATE FROM 1896 TO 1897
+2 DATE 1896
 2 PLAC Quito, Pichincha, Ecuador
 3 MAP
 4 LATI S0.2167
@@ -3566,7 +3555,7 @@
 3 QUAY 3
 2 NOTE signed the Constitution of Ecuador (14 Jan 1897)
 1 RESI
-2 DATE FROM 1897 TO 01 FEB 1900
+2 DATE 1897
 2 PLAC Guayaquil, Guayas, Ecuador
 3 MAP
 4 LATI S2.1667
@@ -3611,35 +3600,35 @@
 3 PAGE <bibl> <title level="u">Shipping Intelligence</title>, <titl
 4 CONC e level="j">The Evening Post</title> (New York, New York, US
 4 CONC A), <citedRange>14 Feb 1900, p. 8, col. 6</citedRange>; digi
-4 CONC tal images, <title level="m">New York State Historic Newpape
-4 CONC rs</title> (<ref target="http://nyshistoricnewspapers.org/lc
-4 CONC cn/sn83030384/1900-02-14/ed-1/seq-8/"/> : 28 Oct 2018). </bi
-4 CONC bl>
+4 CONC tal images, <title level="m">New York State Historic Newspap
+4 CONC ers</title> (<ref target="http://nyshistoricnewspapers.org/l
+4 CONC ccn/sn83030384/1900-02-14/ed-1/seq-8/"/> : 28 Oct 2018). </b
+4 CONC ibl>
 3 _LINK http://nyshistoricnewspapers.org/lccn/sn83030384/1900-02-14/
 4 CONC ed-1/seq-8/
 2 SOUR @S89@
 3 PAGE <bibl> <title level="u">Change in the Opera</title>, <titl
 4 CONC e level="j">The Sun</title> (New York, New York, USA), <cite
 4 CONC dRange>14 Feb 1900, p. 7, col. 2</citedRange>; digital image
-4 CONC s, <title level="m">New York State Historic Newpapers</title
-4 CONC > (<ref target="http://nyshistoricnewspapers.org/lccn/sn8303
-4 CONC 0272/1900-02-14/ed-1/seq-7/"/> : 28 Oct 2018). </bibl>
+4 CONC s, <title level="m">New York State Historic Newspapers</titl
+4 CONC e> (<ref target="http://nyshistoricnewspapers.org/lccn/sn830
+4 CONC 30272/1900-02-14/ed-1/seq-7/"/> : 28 Oct 2018). </bibl>
 3 _LINK http://nyshistoricnewspapers.org/lccn/sn83030272/1900-02-14/
 4 CONC ed-1/seq-7/
 2 SOUR @S89@
 3 PAGE <bibl> <title level="u">Marine Intelligence</title>, <titl
 4 CONC e level="j">The Sun</title> (New York, New York, USA), <cite
 4 CONC dRange>15 Feb 1900, p. 9, col. 2</citedRange>; digital image
-4 CONC s, <title level="m">New York State Historic Newpapers</title
-4 CONC > (<ref target="http://nyshistoricnewspapers.org/lccn/sn8303
-4 CONC 0272/1900-02-15/ed-1/seq-9/"/> : 28 Oct 2018). </bibl>
+4 CONC s, <title level="m">New York State Historic Newspapers</titl
+4 CONC e> (<ref target="http://nyshistoricnewspapers.org/lccn/sn830
+4 CONC 30272/1900-02-15/ed-1/seq-9/"/> : 28 Oct 2018). </bibl>
 3 _LINK http://nyshistoricnewspapers.org/lccn/sn83030272/1900-02-15/
 4 CONC ed-1/seq-9/
 2 SOUR @S89@
 3 PAGE <bibl> <title level="u">Marine Intelligence</title>, <titl
 4 CONC e level="j">The Sun</title> (New York, New York, USA), <cite
 4 CONC dRange>9 Feb 1900, p. 7, col. 5</citedRange>; digital images
-4 CONC , <title level="m">New York State Historic Newpapers</title
+4 CONC , <title level="m">New York State Historic Newspapers</title
 4 CONC > (<ref target="http://nyshistoricnewspapers.org/lccn/sn8303
 4 CONC 0272/1900-02-09/ed-1/seq-7/"/> : 28 Oct 2018). </bibl>
 3 _LINK http://nyshistoricnewspapers.org/lccn/sn83030272/1900-02-09/
@@ -3655,14 +3644,14 @@
 3 CONC ed opera “Carmen” that night. Stayed at the hotel for a fe
 3 CONC w days, then moved into 6 Agate Court, Brooklyn.
 1 OCCU Consul General of Ecuador
-2 DATE FROM FEB 1900 TO OCT 1900
+2 DATE ABT 20 FEB 1900
 2 PLAC Ecuadorian Consulate, Room 1402, 11 Broadway, New York, Ne
 3 CONC w York, USA
 2 SOUR @S68@
 3 QUAY 1
 2 NOTE appointed by Eloy Alfaro, President of Ecuador
 1 RESI
-2 DATE FROM 20 FEB 1900 TO OCT 1900
+2 DATE ABT 20 FEB 1900
 2 PLAC 6 Agate Court, Brooklyn, Kings, New York, USA
 2 NOTE Start date is approx.; end date October is a guess.
 1 CENS
@@ -3693,7 +3682,7 @@
 3 QUAY 1
 2 NOTE while living in Brooklyn?
 1 RESI
-2 DATE FROM OCT 1900 TO DEC 1900
+2 DATE OCT 1900
 2 PLAC Nicaragua
 2 SOUR @S68@
 3 QUAY 1
@@ -3705,11 +3694,10 @@
 3 QUAY 1
 2 NOTE dates approx.
 1 RESI
-2 DATE FROM DEC 1900 TO AUG 1901
+2 DATE ABT DEC 1900
 2 PLAC Ecuador
 2 SOUR @S68@
 3 QUAY 1
-2 NOTE December is a guess
 1 TITL Minister of the Interior
 2 DATE ABT JAN 1901
 2 PLAC Ecuador
@@ -3728,15 +3716,13 @@
 3 CONT Publication: American Bank Note Co., New York, 1907.
 3 CONT Copy is at the New York Public Library, Map Division.
 1 RESI
-2 DATE FROM AUG 1901 TO 1911
+2 DATE AUG 1901
 2 PLAC New York, USA
 3 MAP
 4 LATI N42.7531
 4 LONG W74.2224
 2 SOUR @S68@
 3 QUAY 1
-2 NOTE Assuming first 6 Agate Court?, then moved (unknown when, may
-3 CONC be before 1906) to 65 Rutland Road.
 1 RESI
 2 DATE 1905
 2 PLAC 680 Saint John's Place, Brooklyn, Kings, New York, USA
@@ -3748,11 +3734,11 @@
 3 _APID 1,7364::1517651
 2 NOTE Relationship to Head: Head
 1 OCCU Consul General of Ecuador
-2 DATE FROM MAR 1906 TO 1911
+2 DATE MAR 1906
 2 PLAC Ecuadorian Consulate, Room 1402, 11 Broadway, New York, Ne
 3 CONC w York, USA
 1 RESI
-2 DATE BET 1907 AND 1908
+2 DATE 1907
 2 PLAC 65 Rutland Road, Brooklyn, Kings, New York, USA
 2 SOUR @jIQp0GHpRvOj7SVrJfXG@
 3 PAGE vol. 84 (1907), p. 584
@@ -3799,15 +3785,8 @@
 2 NOTE This place is in Prospect-Lefferts Gardens section of Brookl
 3 CONC yn, near Prospect Park.
 1 RESI
-2 DATE FROM 21 APR 1910 TO DEC 1910
-2 NOTE Unknown residence during this time period. He may have gon
-3 CONC e to Ecuador for a while before travelling to Puerto Rico.
-1 RESI
 2 DATE 1910
-2 PLAC Brooklyn, Kings, New York, USA
-3 MAP
-4 LATI N40.65
-4 LONG W73.95
+2 PLAC 65 Rutland Road, Brooklyn, Kings, New York, USA
 2 SOUR @Z0SQaG1kRbWQtiKMUjof@
 3 PAGE Year: 1910; Census Place: Brooklyn Ward 29, Kings, New York
 4 CONC ; Roll: T624_982; Page: 3B; Enumeration District: 0931; FH
@@ -3818,19 +3797,19 @@
 3 CONC d of House: Head
 1 EVEN
 2 TYPE travel
-2 DATE DEC 1910
+2 DATE ABT 20 DEC 1910
 2 SOUR @BvxUAimDT86WP46cWki0@
 3 QUAY 2
 2 NOTE arrived Dec 1910 (day is illegible, 20 is a guess) on ship "
 3 CONC S. S. Philadelphia" in Puerto Rico
 1 RESI
-2 DATE FROM 20 DEC 1910 TO 18 FEB 1911
+2 DATE ABT 21 DEC 1910
 2 PLAC Puerto Rico
 2 SOUR @BvxUAimDT86WP46cWki0@
 3 QUAY 2
 2 NOTE The day of the start date is mostly illegible on the origina
 3 CONC l. Appears to be two digits, starting with a 2.
-1 EVEN
+1 EVEN SS Caracas
 2 TYPE Departure
 2 DATE 18 FEB 1911
 2 PLAC Puerto de San Juan, San Juan, Puerto Rico
@@ -3851,7 +3830,7 @@
 3 CONC : Caracas; line: Atlantic & Caribbean Steam Navigation Co. (
 3 CONC Red "D" Line); type: Passenger; tonnage: 2,886. Photo availa
 3 CONC ble in: "Marine Steam" (by Babcock & Wilcox: 1928), p. 226.
-1 EVEN
+1 EVEN SS Caracas
 2 TYPE Arrival
 2 DATE 23 FEB 1911
 2 PLAC New York, New York, USA
@@ -3865,7 +3844,7 @@
 3 OBJE @wSbbxcXFRjikm1DkbfOY@
 3 _APID 1,7488::2147483647
 1 RESI
-2 DATE FROM 23 FEB 1911 TO 17 DEC 1917
+2 DATE 24 FEB 1911
 2 PLAC New York, USA
 3 MAP
 4 LATI N42.7531
@@ -3881,10 +3860,7 @@
 2 NOTE ending date assumed
 1 RESI
 2 DATE 01 JUN 1915
-2 PLAC Brooklyn, Kings, New York, USA
-3 MAP
-4 LATI N40.65
-4 LONG W73.95
+2 PLAC 65 Rutland Road, Brooklyn, Kings, New York, USA
 2 SOUR @es9CfZUrS7S7jzWga8jJ@
 3 PAGE New York State Archives; Albany, New York; State Populatio
 4 CONC n Census Schedules, 1915; Election District: 24; Assembly Di
