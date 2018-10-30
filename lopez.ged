@@ -14,9 +14,9 @@
 4 CONT Boston, MA 02109
 3 PHON (617) 227-6681
 1 DEST FTM
-1 FILE Lopez_2018-10-29-03-38-59.ftm.ged
-1 DATE 29 OCT 2018
-2 TIME 03:39:40
+1 FILE Lopez_2018-10-30-04-06-55.ftm.ged
+1 DATE 30 OCT 2018
+2 TIME 04:07:45
 0 @Umy2qBWIRUiwVSS6Hcn4@ SUBM
 1 NAME Christopher Alan Mosher
 2 EMAIL cmosher01@@gmail.com
@@ -3095,6 +3095,12 @@
 4 CONC 627_2615; Page: 2A; Enumeration District: 24-2589
 3 OBJE @EuNyrMxrSMqPhfJjXwGK@
 3 _APID 1,2442::5009226
+2 SOUR @S63@
+3 PAGE Year: 1911; Arrival: New York, New York; Microfilm Serial: T
+4 CONC 715, 1897-1957; Microfilm Roll: Roll 1631; Line: 3; Page Num
+4 CONC ber: 194
+3 OBJE @M72@
+3 _APID 1,7488::2147483647
 2 SOUR @Ap7270q8QDmqnp4oKY6u@
 3 PAGE New York State Archives; Albany, New York; State Populatio
 4 CONC n Census Schedules, 1905; Election District: A.D. 18 E.D. 16
@@ -3139,6 +3145,12 @@
 4 CONC 627_2615; Page: 2A; Enumeration District: 24-2589
 3 OBJE @EuNyrMxrSMqPhfJjXwGK@
 3 _APID 1,2442::5009226
+2 SOUR @S63@
+3 PAGE Year: 1911; Arrival: New York, New York; Microfilm Serial: T
+4 CONC 715, 1897-1957; Microfilm Roll: Roll 1631; Line: 3; Page Num
+4 CONC ber: 194
+3 OBJE @M72@
+3 _APID 1,7488::2147483647
 2 SOUR @Ap7270q8QDmqnp4oKY6u@
 3 PAGE New York State Archives; Albany, New York; State Populatio
 4 CONC n Census Schedules, 1905; Election District: A.D. 18 E.D. 16
@@ -3204,6 +3216,19 @@
 3 _APID 1,7884::119643254
 2 NOTE Age: 27; Marital Status: Single; Relation to Head of House
 3 CONC : Daughter
+1 EVEN
+2 TYPE Arrival
+2 DATE 23 FEB 1911
+2 PLAC New York, New York, USA
+3 MAP
+4 LATI N40.7744
+4 LONG W73.9721
+2 SOUR @S63@
+3 PAGE Year: 1911; Arrival: New York, New York; Microfilm Serial: T
+4 CONC 715, 1897-1957; Microfilm Roll: Roll 1631; Line: 3; Page Num
+4 CONC ber: 194
+3 OBJE @M72@
+3 _APID 1,7488::2147483647
 1 RESI
 2 DATE 01 JUN 1915
 2 PLAC Brooklyn, Kings, New York, USA
@@ -3328,7 +3353,7 @@
 3 PAGE Year: 1911; Arrival: New York, New York; Microfilm Serial: T
 4 CONC 715, 1897-1957; Microfilm Roll: Roll 1631; Line: 2; Page Num
 4 CONC ber: 194
-3 OBJE @wSbbxcXFRjikm1DkbfOY@
+3 OBJE @M72@
 3 _APID 1,7488::2147483647
 2 SOUR @S87@
 3 PAGE National Archives and Records Administration; Washington, DC
@@ -3381,7 +3406,7 @@
 3 PAGE Year: 1911; Arrival: New York, New York; Microfilm Serial: T
 4 CONC 715, 1897-1957; Microfilm Roll: Roll 1631; Line: 2; Page Num
 4 CONC ber: 194
-3 OBJE @wSbbxcXFRjikm1DkbfOY@
+3 OBJE @M72@
 3 _APID 1,7488::2147483647
 2 SOUR @S87@
 3 PAGE National Archives and Records Administration; Washington, DC
@@ -3795,41 +3820,54 @@
 3 _APID 1,7884::18089626
 2 NOTE Age: 62; Age: 62; Marital Status: Married; Relation to Hea
 3 CONC d of House: Head
-1 EVEN
-2 TYPE travel
-2 DATE ABT 20 DEC 1910
-2 SOUR @BvxUAimDT86WP46cWki0@
-3 QUAY 2
-2 NOTE arrived Dec 1910 (day is illegible, 20 is a guess) on ship "
-3 CONC S. S. Philadelphia" in Puerto Rico
-1 RESI
-2 DATE ABT 21 DEC 1910
-2 PLAC Puerto Rico
-2 SOUR @BvxUAimDT86WP46cWki0@
-3 QUAY 2
-2 NOTE The day of the start date is mostly illegible on the origina
-3 CONC l. Appears to be two digits, starting with a 2.
-1 EVEN SS Caracas
+1 EVEN SS Philadelphia
 2 TYPE Departure
-2 DATE 18 FEB 1911
+2 DATE 17 DEC 1910
+2 PLAC New York, New York, USA
+3 MAP
+4 LATI N40.7744
+4 LONG W73.9721
+2 SOUR @S89@
+3 PAGE <bibl> <title level="u">Marine Intelligence</title>, <titl
+4 CONC e level="j">The Sun</title> (New York, New York, USA), <cite
+4 CONC dRange>17 Dec 1910, p. 15, col. 5</citedRange>; digital imag
+4 CONC es, <title level="m">Old Fulton New York Post Cards</title
+4 CONC > (<ref target="http://fultonhistory.com/newspaper 9/New Yor
+4 CONC k NY Sun/New York NY Sun 1910  Grayscale/New York NY Sun 191
+4 CONC 0  Grayscale - 6057.pdf"/> : 29 Oct 2018), Historical Newspa
+4 CONC pers United States and Canada. </bibl>
+3 QUAY 3
+3 _LINK http://fultonhistory.com/newspaper 9/New York NY Sun/New Yor
+4 CONC k NY Sun 1910  Grayscale/New York NY Sun 1910  Grayscale - 6
+4 CONC 057.pdf
+1 EVEN SS Philadelphia
+2 TYPE Arrival
+2 DATE 23 DEC 1910
 2 PLAC Puerto de San Juan, San Juan, Puerto Rico
 2 SOUR @S63@
 3 PAGE Year: 1911; Arrival: New York, New York; Microfilm Serial: T
 4 CONC 715, 1897-1957; Microfilm Roll: Roll 1631; Line: 2; Page Num
 4 CONC ber: 194
-3 OBJE @wSbbxcXFRjikm1DkbfOY@
-3 _APID 1,7488::2147483647
-1 EVEN
-2 TYPE travel
-2 DATE FROM 18 FEB 1911 TO 23 FEB 1911
-2 SOUR @BvxUAimDT86WP46cWki0@
 3 QUAY 3
-2 NOTE from San Juan, Puerto Rico, to New York, NY, USA, on ship "S
-3 CONC . S. Caracas". Info about ship Caracas from US Maritime Comm
-3 CONC ission list transcribed at www.usmm.org/ships1914.html: ship
-3 CONC : Caracas; line: Atlantic & Caribbean Steam Navigation Co. (
-3 CONC Red "D" Line); type: Passenger; tonnage: 2,886. Photo availa
-3 CONC ble in: "Marine Steam" (by Babcock & Wilcox: 1928), p. 226.
+3 OBJE @M72@
+3 _APID 1,7488::2147483647
+2 SOUR @S89@
+3 PAGE <bibl> <title level="u">Marine Intelligence</title>, <titl
+4 CONC e level="j">The Sun</title> (New York, New York, USA), <cite
+4 CONC dRange>17 Dec 1910, p. 15, col. 5</citedRange>; digital imag
+4 CONC es, <title level="m">Old Fulton New York Post Cards</title
+4 CONC > (<ref target="http://fultonhistory.com/newspaper 9/New Yor
+4 CONC k NY Sun/New York NY Sun 1910  Grayscale/New York NY Sun 191
+4 CONC 0  Grayscale - 6057.pdf"/> : 29 Oct 2018), Historical Newspa
+4 CONC pers United States and Canada. </bibl>
+3 QUAY 3
+3 _LINK http://fultonhistory.com/newspaper 9/New York NY Sun/New Yor
+4 CONC k NY Sun 1910  Grayscale/New York NY Sun 1910  Grayscale - 6
+4 CONC 057.pdf
+1 EVEN SS Caracas
+2 TYPE Departure
+2 DATE 18 FEB 1911
+2 PLAC Puerto de San Juan, San Juan, Puerto Rico
 1 EVEN SS Caracas
 2 TYPE Arrival
 2 DATE 23 FEB 1911
@@ -3841,7 +3879,7 @@
 3 PAGE Year: 1911; Arrival: New York, New York; Microfilm Serial: T
 4 CONC 715, 1897-1957; Microfilm Roll: Roll 1631; Line: 2; Page Num
 4 CONC ber: 194
-3 OBJE @wSbbxcXFRjikm1DkbfOY@
+3 OBJE @M72@
 3 _APID 1,7488::2147483647
 1 RESI
 2 DATE 24 FEB 1911
@@ -5600,8 +5638,10 @@
 1 REFN 2f91e775-889a-46ce-9730-9a8fcc10e19f
 1 NAME Miguel Angel /López/
 2 SOUR @S63@
-3 PAGE Year: 1911
-3 OBJE @6xXNWQPsRv6JLcDqHSik@
+3 PAGE Year: 1911; Arrival: New York, New York; Microfilm Serial: T
+4 CONC 715, 1897-1957; Microfilm Roll: Roll 1693; Line: 13; Page Nu
+4 CONC mber: 194
+3 OBJE @M73@
 3 _APID 1,7488::2147483647
 2 SOUR @Ap7270q8QDmqnp4oKY6u@
 3 PAGE New York State Archives; Albany, New York; State Populatio
@@ -5621,8 +5661,10 @@
 4 LATI S1.3333
 4 LONG W80.5833
 2 SOUR @S63@
-3 PAGE Year: 1911
-3 OBJE @6xXNWQPsRv6JLcDqHSik@
+3 PAGE Year: 1911; Arrival: New York, New York; Microfilm Serial: T
+4 CONC 715, 1897-1957; Microfilm Roll: Roll 1693; Line: 13; Page Nu
+4 CONC mber: 194
+3 OBJE @M73@
 3 _APID 1,7488::2147483647
 2 SOUR @Ap7270q8QDmqnp4oKY6u@
 3 PAGE New York State Archives; Albany, New York; State Populatio
@@ -5655,6 +5697,25 @@
 3 OBJE @oVVo6benTzaeKBTMZDEv@
 3 _APID 1,7364::1518424
 2 NOTE Relationship to Head: Son
+1 RESI
+2 DATE ABT MAY 1911
+2 PLAC Cuba
+2 SOUR @S63@
+3 PAGE Year: 1911; Arrival: New York, New York; Microfilm Serial: T
+4 CONC 715, 1897-1957; Microfilm Roll: Roll 1693; Line: 13; Page Nu
+4 CONC mber: 194
+3 OBJE @M73@
+3 _APID 1,7488::2147483647
+1 EVEN
+2 TYPE Departure
+2 DATE ABT 10 JUN 1911
+2 PLAC Havana, Cuba
+2 SOUR @S63@
+3 PAGE Year: 1911; Arrival: New York, New York; Microfilm Serial: T
+4 CONC 715, 1897-1957; Microfilm Roll: Roll 1693; Line: 13; Page Nu
+4 CONC mber: 194
+3 OBJE @M73@
+3 _APID 1,7488::2147483647
 1 EVEN
 2 TYPE Arrival
 2 DATE 12 JUN 1911
@@ -5663,8 +5724,10 @@
 4 LATI N40.7744
 4 LONG W73.9721
 2 SOUR @S63@
-3 PAGE Year: 1911
-3 OBJE @6xXNWQPsRv6JLcDqHSik@
+3 PAGE Year: 1911; Arrival: New York, New York; Microfilm Serial: T
+4 CONC 715, 1897-1957; Microfilm Roll: Roll 1693; Line: 13; Page Nu
+4 CONC mber: 194
+3 OBJE @M73@
 3 _APID 1,7488::2147483647
 1 DEAT
 2 DATE 1935
@@ -9616,62 +9679,6 @@
 2 CONT <tr><td align="right" nowrap="true">[signed] Geo. Seivattina
 2 CONC [?] Ex dor[?]</td></tr>
 2 CONT </table>
-0 @BvxUAimDT86WP46cWki0@ SOUR
-1 REFN 98fcb873-c9bf-444a-9ac9-849a9fd03cc3
-1 TITL Ship Manifest, New York, 1911-02-23, S.S. Caracas
-1 AUTH Ellis Island
-1 PUBL T715.1631, p. 383 [from www.ellisisland.org]
-1 TEXT [stamped page number] 194<br />
-2 CONT <br />
-2 CONT List 1<br />
-2 CONT <br />
-2 CONT LIST OR MANIFEST, OF ALIEN PASSENGERS FROM U. S. INSULAR POS
-2 CONC SESSIONS, FOR THE UNITED STATES IMMIGRATION OFFICER AT CONTI
-2 CONC NENTAL PORT OF ARRIVAL<br />
-2 CONT [...]<br />
-2 CONT S. S. Caracas, sailing from San Juan P.R, 18th February, 191
-2 CONC 1. Arriving at Port of New York, 23rd February, 1911<br />
-2 CONT [...]<br />
-2 CONT <table border="1">
-2 CONT <tr><td>1</td><td>Echandi</td><td>Fermin</td><td>39</td><td>
-2 CONC M</td><td>Spain</td><td>Spanish</td><td>s/s Caracas Aug-18-1
-2 CONC 910</td><td>U.S.A.</td><td>New York</td></tr>
-2 CONT <tr><td>2</td><td>Lopez</td><td>Felicisimo</td><td>63</td><t
-2 CONC d>M</td><td>Ecuador</td><td>Span Am</td><td>s/s Philadelphi
-2 CONC a Dec-[23]-1910</td><td>"</td><td>"</td></tr>
-2 CONT <tr><td>3</td><td>Lopez</td><td>Eloisa</td><td>24</td><td>F<
-2 CONC /td><td>"</td><td>"</td><td>"</td><td>"</td><td>"</td></tr>
-2 CONT </table>
-2 CONT [...]<br />
-2 CONT <table border="1">
-2 CONT <tr><td>Note:</td><td>#2</td><td>Felicisimo Lopez, is Consu
-2 CONC l General from Ecuador to New York.</td></tr>
-2 CONT <tr><td>&nbsp;</td><td>#3</td><td>Eloisa Lopez, daughter o
-2 CONC f Felicisimo Lopez.</td></tr>
-2 CONT </table>
-2 CONT [end of page]<br />
-2 CONT <br />
-2 CONT [Note that origianl record has handwriting written over to
-2 CONC p of lines 1-5 as follows:]<br />
-2 CONT <table border="1">
-2 CONT <tr><td>[1]</td><td>Exempt</td><td>&nbsp;</td><td>[Stat?]</t
-2 CONC d><td>&nbsp;</td><td>Counted</td><td>&nbsp;</td><td>&nbsp;</
-2 CONC td><td>Cert</td><td>\</td></tr>
-2 CONT <tr><td>[2]</td><td>"</td><td>X</td><td>&nbsp;</td><td>dip</
-2 CONC td><td>"</td><td>"</td><td>X</td><td>&nbsp;</td><td>|</td></
-2 CONC tr>
-2 CONT <tr><td>[3]</td><td>&nbsp;</td><td>X</td><td>"</td><td>"</td
-2 CONC ><td>"</td><td>&nbsp;</td><td>X</td><td>"</td><td>| Exempt</
-2 CONC td></tr>
-2 CONT <tr><td>[4]</td><td>Exempt</td><td>&nbsp;</td><td>[Stat?]</t
-2 CONC d><td>&nbsp;</td><td>Counted</td><td>&nbsp;</td><td>&nbsp;</
-2 CONC td><td>Cert</td><td>|</td></tr>
-2 CONT <tr><td>[5]</td><td>"</td><td>&nbsp;</td><td>"</td><td>&nbsp
-2 CONC ;</td><td>"</td><td>"</td><td>&nbsp;</td><td>"</td><td>/</td
-2 CONC ></tr>
-2 CONT </table>
-2 CONT [these seem to indicate that Felicisimo and Eloisa were hel
-2 CONC d ("X") and were diplomats "dip".]<br />
 0 @2CVhfK4DR7aVv7LHdGjv@ SOUR
 1 REFN 6710ad5b-19aa-43dd-b37e-e36a72d91c96
 1 TITL Ship Manifest, New York, 1911-10-23, Prinz Sigismund
@@ -10933,22 +10940,6 @@
 2 FORM jpg
 2 TITL New York, County Marriages, 1847-1849; 1907-1936
 1 REFN cfab5cfe-e8da-48a7-a579-5e94fcf9366e
-0 @wSbbxcXFRjikm1DkbfOY@ OBJE
-1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Lopez Media\Ne
-2 CONC w York, Passenger Lists, 1820-1957(3).jpg
-2 FORM jpg
-2 TITL New York, Passenger Lists, 1820-1957
-2 _TEXT Year: 1911; Arrival: New York, New York; Microfilm Serial: T
-3 CONC 715, 1897-1957; Microfilm Roll: Roll 1631; Line: 2; Page Num
-3 CONC ber: 194
-1 REFN 3d75d2ca-4a46-4f72-8c31-ed3d6afeda20
-0 @6xXNWQPsRv6JLcDqHSik@ OBJE
-1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Lopez Media\Ne
-2 CONC w York, Passenger Lists, 1820-1957(4).jpg
-2 FORM jpg
-2 TITL New York, Passenger Lists, 1820-1957
-2 _TEXT Year: 1911
-1 REFN b48a5397-26e2-43e3-97f3-f900b6ad7694
 0 @uqgA7qAZSi2TVn9losEE@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Lopez Media\Ne
 2 CONC w York, Passenger Lists, 1820-1957(5).jpg
@@ -11239,6 +11230,22 @@
 2 _TEXT Year: 1911; Arrival: New York, New York; Microfilm Serial: T
 3 CONC 715, 1897-1957; Microfilm Roll: Roll 1760; Line: 3; Page Num
 3 CONC ber: 191
+0 @M72@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Lopez Media\Ne
+2 CONC w York, Passenger Lists, 1820-1957(7).jpg
+2 FORM jpg
+2 TITL New York, Passenger Lists, 1820-1957
+2 _TEXT Year: 1911; Arrival: New York, New York; Microfilm Serial: T
+3 CONC 715, 1897-1957; Microfilm Roll: Roll 1631; Line: 3; Page Num
+3 CONC ber: 194
+0 @M73@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Lopez Media\Ne
+2 CONC w York, Passenger Lists, 1820-1957(8).jpg
+2 FORM jpg
+2 TITL New York, Passenger Lists, 1820-1957
+2 _TEXT Year: 1911; Arrival: New York, New York; Microfilm Serial: T
+3 CONC 715, 1897-1957; Microfilm Roll: Roll 1693; Line: 13; Page Nu
+3 CONC mber: 194
 0 @N224@ NOTE affidavit, page 1
 0 @N223@ NOTE affidavit, page 2
 0 @N222@ NOTE certificate
