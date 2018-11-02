@@ -14,9 +14,9 @@
 4 CONT Boston, MA 02109
 3 PHON (617) 227-6681
 1 DEST FTM
-1 FILE McLaughlin_2018-10-28-02-56-13.ftm.ged
-1 DATE 28 OCT 2018
-2 TIME 02:57:06
+1 FILE McLaughlin_2018-11-02-01-52-30.ftm.ged
+1 DATE 02 NOV 2018
+2 TIME 01:53:28
 0 @Umy2qBWIRUiwVSS6Hcn4@ SUBM
 1 NAME Christopher Alan Mosher
 2 EMAIL cmosher01@@gmail.com
@@ -4367,9 +4367,6 @@
 4 CONC 625_1267; Page: 3A; Enumeration District: 114
 3 OBJE @M167@
 3 _APID 1,6061::87520701
-2 SOUR @CjXHrGelRbOCGmAkW59P@
-3 DATA
-4 TEXT cert. no. 7110
 2 SOUR @m7Phkg8qRz2NO0TDWP4l@
 3 OBJE @wJaZdqzJSDuNkXUe0ibY@
 3 _APID 1,7218::716499
@@ -8503,6 +8500,14 @@
 2 NOTE Age: 29.
 3 CONT Exact location (best guess) based on 1874 Pomeroy Altas an
 3 CONC d 1860/70/80 US Census records: Vanzandt Hollow Road.
+1 OCCU farmer
+2 DATE 1860
+2 SOUR @S72@
+3 PAGE Year: 1860; Census Place: Dix, Schuyler, New York; Roll: M65
+4 CONC 3_859; Page: 882; Image: 378; Family History Library Film: 8
+4 CONC 03859
+3 OBJE @0Jm5zbBUQzqsp5EcwsWK@
+3 _APID 1,7667::48615955
 1 PROP bought land
 2 DATE 02 APR 1861
 2 PLAC Hornby, Steuben, New York, USA
@@ -8768,25 +8773,12 @@
 2 NOTE Age: 79; Marital Status: Married; Relation to Head of House
 3 CONC : Head
 2 NOTE Marital Status: Married; Relation to Head: Head
-1 OCCU farmer
-2 DATE FEB 1902
-2 PLAC Hornby, Steuben, New York, USA
-3 MAP
-4 LATI N42.2442
-4 LONG W77.0444
-2 SOUR @DV0l4qMxTVKhOaNIHHkg@
-3 QUAY 1
 1 DEAT
 2 DATE 21 FEB 1902
 2 PLAC Hornby, Steuben, New York, USA
 3 MAP
 4 LATI N42.2442
 4 LONG W77.0444
-2 SOUR @CjXHrGelRbOCGmAkW59P@
-3 DATA
-4 TEXT cert. no. 7110
-2 SOUR @F9Ow9j9kQsaKVsnDaoQY@
-2 SOUR @DV0l4qMxTVKhOaNIHHkg@
 2 SOUR @S71@
 3 PAGE New York Department of Health; Albany, NY; NY State Death In
 4 CONC dex
@@ -8824,13 +8816,47 @@
 3 QUAY 4
 3 OBJE @M148@
 3 _LINK https://www.familysearch.org/ark:/61903/3:1:3Q9M-CS7W-P96R-7
+2 SOUR @S95@
+3 PAGE <bibl> <title level="u">William McLaughlin</title>, obituary
+4 CONC , <title level="j">Corning (New York, USA) Journal</title>
+4 CONC , <citedRange>26 Feb 1902, p. 5, col. 2</citedRange>; digita
+4 CONC l images, <title level="u">McLaughlin Documents</title>, <au
+4 CONC thor>Christopher A. Mosher</author>, <title level="m">Archiv
+4 CONC e of Historical Family Documents</title> (<ref target="https
+4 CONC ://mosher.mine.nu/tei/genealogy/main/sources/old/mclaughlin/
+4 CONC mclaughlin_william_obituary_1.tei.xml"/> : 1 Nov 2018). </bi
+4 CONC bl>
+3 _LINK https://mosher.mine.nu/tei/genealogy/main/sources/old/mclaug
+4 CONC hlin/mclaughlin_william_obituary_1.tei.xml
+2 SOUR @S31@
+3 PAGE <bibl> <title level="u">William McLaughlin</title>, obituary
+4 CONC , <title level="j">Rochester (New York, USA) Democrat and Ch
+4 CONC ronicle</title>, <citedRange>25 Feb 1902, p. 4, col. 2</cite
+4 CONC dRange>; digital images, <title level="u">McLaughlin Documen
+4 CONC ts</title>, <author>Christopher A. Mosher</author>, <title l
+4 CONC evel="m">Archive of Historical Family Documents</title> (<re
+4 CONC f target="https://mosher.mine.nu/tei/genealogy/main/sources/
+4 CONC old/mclaughlin/mclaughlin_william_obituary_2.tei.xml"/
+4 CONC > : 1 Nov 2018). </bibl>
+3 _LINK https://mosher.mine.nu/tei/genealogy/main/sources/old/mclaug
+4 CONC hlin/mclaughlin_william_obituary_2.tei.xml
 1 EVEN
 2 TYPE funeral
 2 DATE 24 FEB 1902
 2 PLAC Saint Mary’s Church, 155 State Street, Corning, Steuben, Ne
 3 CONC w York, USA
-2 SOUR @F9Ow9j9kQsaKVsnDaoQY@
-3 QUAY 1
+2 SOUR @S95@
+3 PAGE <bibl> <title level="u">William McLaughlin</title>, obituary
+4 CONC , <title level="j">Corning (New York, USA) Journal</title>
+4 CONC , <citedRange>26 Feb 1902, p. 5, col. 2</citedRange>; digita
+4 CONC l images, <title level="u">McLaughlin Documents</title>, <au
+4 CONC thor>Christopher A. Mosher</author>, <title level="m">Archiv
+4 CONC e of Historical Family Documents</title> (<ref target="https
+4 CONC ://mosher.mine.nu/tei/genealogy/main/sources/old/mclaughlin/
+4 CONC mclaughlin_william_obituary_1.tei.xml"/> : 1 Nov 2018). </bi
+4 CONC bl>
+3 _LINK https://mosher.mine.nu/tei/genealogy/main/sources/old/mclaug
+4 CONC hlin/mclaughlin_william_obituary_1.tei.xml
 2 NOTE 10:00 AM
 1 BURI
 2 DATE 24 FEB 1902
@@ -11046,37 +11072,6 @@
 2 CONC n Adams
 1 AUTH Hornby [New York] Historical Society
 1 PUBL Tennessee Valley Publishing, Knoxville, TN, 2000
-0 @F9Ow9j9kQsaKVsnDaoQY@ SOUR
-1 REFN e0b1bc58-9e28-453f-93af-6a5ed019d580
-1 TITL McLaughlin, William, obituary, Corning
-1 AUTH Corning [New York] Journal [newspaper]
-1 PUBL Corning, NY: 1902-02-26, p. 5, col. 2
-1 TEXT Hornby. William McLaughlin, a prosperous farmer, died Feb. 2
-2 CONC 2, at an advanced age. He had been a resident for many years
-2 CONC , and was an active farmer. He was a soldier in the Civil Wa
-2 CONC r. He, was much respected as a man and citizen. He died of c
-2 CONC ancer of the face, after a long illness. Deceased leaves a w
-2 CONC ife and nine children. There are seven sons, James, George
-2 CONC , Charles, William, Daniel, Thomas, Frank; and two daughters
-2 CONC , Mrs. N. Harrison and Mrs. Catherine Hendricks. The funera
-2 CONC l was held at St. Mary's Church in Corning at 10 a. m. Monda
-2 CONC y, and the burial, was in St. Mary's Cemetery. The service
-2 CONC s consisted of a requiem high mass conducted by Rev. J. M. B
-2 CONC ustin. The bearers were the six sons of the deceased, James
-2 CONC , George, Charles, William Daniel and Frank.
-0 @DV0l4qMxTVKhOaNIHHkg@ SOUR
-1 REFN 2dfa67d1-cc1b-4063-a68d-333bb9aaccc8
-1 TITL McLaughlin, William, obituary, Rochester
-1 AUTH Rochester [New York] Democrat and Chronicle [newspaper]
-1 PUBL Rochester, NY: 1902-02-25, p. 4, col. 2
-1 TEXT William McLaughlin. William McLaughlin, of Hornby, aged 80 y
-2 CONC ears, died Saturday. Deceased was one of the best known farm
-2 CONC ers in the county, having been a veteran in the Civil war, a
-2 CONC nd was known as a great stock raiser. The deceased is surviv
-2 CONC ed by a wife and nine children as follows: James, George, Ch
-2 CONC arles, William, Daniel, Thomas and Frank, Mrs. N. Harrison a
-2 CONC nd Mrs. C. Hendricks. Six sons of the deceased were pall bea
-2 CONC rers at their father's funeral.
 0 @S75@ SOUR
 1 REPO @0aJKtHRDQmatCERL9JPC@
 1 TITL New York State, Marriage Index, 1881-1967
@@ -12084,6 +12079,8 @@
 1 TITL USA. New York. Corning. Evening Leader
 0 @S95@ SOUR
 1 TITL USA. New York. Corning. Journal
+0 @S31@ SOUR
+1 TITL USA. New York. Rochester. Democrat and Chronicle
 0 @N0QDvsKzRd6L25GA73AW@ SOUR
 1 REFN 3bea1dc2-986f-4f0f-89c0-f7b5a5fe0ece
 1 TITL USA. New York. Steuben, County of. Land Deed Records
