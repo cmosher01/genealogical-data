@@ -14,9 +14,9 @@
 4 CONT Boston, MA 02109
 3 PHON (617) 227-6681
 1 DEST FTM
-1 FILE Mosher_2018-10-10-03-06-55.ftm.ged
-1 DATE 10 OCT 2018
-2 TIME 03:07:54
+1 FILE Mosher_2018-11-20-03-31-18.ftm.ged
+1 DATE 20 NOV 2018
+2 TIME 03:32:09
 0 @Umy2qBWIRUiwVSS6Hcn4@ SUBM
 1 NAME Christopher Alan Mosher
 2 EMAIL cmosher01@@gmail.com
@@ -39,20 +39,6 @@
 2 PHON +1-203-513-9292
 1 LANG English
 1 RIN Umy2qBWIRUiwVSS6Hcn4
-0 @I375@ INDI
-1 REFN 822a103a-c24a-490a-8cfd-5c7fad1df3d3
-1 NAME Ann Agnes //
-2 SOUR @S182@
-3 PAGE Somerset Heritage Service; Taunton, Somerset, England; Somer
-4 CONC set Parish Records, 1538-1914; Reference Number: D\P\winc/2/
-4 CONC 1/1
-3 OBJE @M167@
-3 _APID 1,60856::301071745
-1 SEX F
-1 FAMS @F298@
-1 BIRT
-2 DATE ABT 1615
-1 _XY 6099 337
 0 @G9wsDndtSnmhUlczYoI8@ INDI
 1 REFN c2d8f434-5ada-4cde-adfc-055c42331397
 1 NAME Ann /Bachiler/
@@ -628,7 +614,7 @@
 5 CONC 378&pid=20
 2 SOUR @S203@
 3 PAGE New York State Department of Health; Albany, NY, USA; New Yo
-4 CONC rk State Marriage Index
+4 CONC rk State Marriage Index; Carl L Benedict
 3 _APID 1,61632::5038900
 2 SOUR @S263@
 3 _APID 1,1788::403354654
@@ -2945,14 +2931,6 @@
 2 SOUR @Q3pDaZrXQzi0fjGmGdhC@
 3 _APID 1,70500::1455673
 1 _XY 6925 1691
-0 @I378@ INDI
-1 REFN da2829a9-5348-4981-9010-5b1b2dad31dd
-1 NAME Elizabeth //
-1 SEX F
-1 FAMS @F301@
-1 BIRT
-2 DATE ABT 1645
-1 _XY 5934 462
 0 @8gjyDknGRFmADlQ7U1VJ@ INDI
 1 REFN ca4885ba-bc38-461f-963b-ab1c3dfdcfec
 1 NAME Patience /Ellis/
@@ -2970,7 +2948,7 @@
 1 NAME Susan E. /Evans/
 2 SOUR @S203@
 3 PAGE New York State Department of Health; Albany, NY, USA; New Yo
-4 CONC rk State Marriage Index
+4 CONC rk State Marriage Index; Susan E Evans
 3 _APID 1,61632::100231991
 1 SEX F
 1 FAMS @F385@
@@ -4008,6 +3986,8 @@
 3 QUAY 1
 2 SOUR @deXrM73wSEiQKlXQZ7E9@
 3 _APID 1,5540::1905
+2 SOUR @S241@
+3 _APID 1,60525::92098740
 2 SOUR @GkjP7MzzQPeWUNGeYMpx@
 3 _APID 1,70572::78218
 1 SEX F
@@ -4022,6 +4002,8 @@
 3 QUAY 1
 2 SOUR @deXrM73wSEiQKlXQZ7E9@
 3 _APID 1,5540::1905
+2 SOUR @S241@
+3 _APID 1,60525::92098740
 2 SOUR @GkjP7MzzQPeWUNGeYMpx@
 3 _APID 1,70572::78218
 1 CENS
@@ -4055,6 +4037,8 @@
 3 QUAY 2
 2 SOUR @deXrM73wSEiQKlXQZ7E9@
 3 _APID 1,5540::1905
+2 SOUR @S241@
+3 _APID 1,60525::92098740
 2 SOUR @GkjP7MzzQPeWUNGeYMpx@
 3 _APID 1,70572::78218
 2 NOTE Cemetery is west of Greenfield Center, on left side of road.
@@ -4069,6 +4053,8 @@
 3 QUAY 1
 2 SOUR @deXrM73wSEiQKlXQZ7E9@
 3 _APID 1,5540::1905
+2 SOUR @S241@
+3 _APID 1,60525::92098740
 2 SOUR @GkjP7MzzQPeWUNGeYMpx@
 3 _APID 1,70572::78218
 2 NOTE place is from "Descendants of Hugh Mosher"
@@ -5288,6 +5274,9 @@
 4 CONC : 1241164
 3 OBJE @hKRC0BTGQ1y3uu8vTAgt@
 3 _APID 1,7602::67613560
+2 SOUR @S220@
+3 OBJE @M332@
+3 _APID 1,3212::321892
 1 SEX M
 2 SOUR @S212@
 3 _APID 1,8054::5384871
@@ -5335,6 +5324,28 @@
 4 CONC : 1241164
 3 OBJE @hKRC0BTGQ1y3uu8vTAgt@
 3 _APID 1,7602::67613560
+2 SOUR @S220@
+3 OBJE @M332@
+3 _APID 1,3212::321892
+1 RESI
+2 DATE 1850
+2 PLAC Chatham, Tioga, Pennsylvania, USA
+3 MAP
+4 LATI N39.8531
+4 LONG W75.8207
+2 SOUR @S212@
+3 PAGE Year: 1850; Census Place: Chatham, Tioga, Pennsylvania; Roll
+4 CONC : M432_830; Page: 140B; Image: .
+3 DATA
+4 TEXT Name:
+5 CONT George Luther
+5 CONT Birth:
+5 CONT abt 1845 in New York
+5 CONT Death:
+3 OBJE @SsziPkWISBeD7RJ6puIV@
+3 _LINK http://search.ancestry.com/cgi-bin/sse.dll?db=1850usfedcenan
+4 CONC cestry&h=5384871&ti=0&indiv=try&gss=pt
+3 _APID 1,8054::5384871
 1 RESI
 2 DATE 1860
 2 PLAC Deerfield, Tioga, Pennsylvania, USA
@@ -5375,6 +5386,15 @@
 3 _APID 1,6742::5223024
 2 NOTE Age: 32; Marital Status: Married; Relation to Head of House
 3 CONC : Son-in-law
+1 RESI
+2 DATE 1892
+2 PLAC Woodhull, Steuben, New York, USA
+3 MAP
+4 LATI N42.0803
+4 LONG W77.4089
+2 SOUR @S220@
+3 OBJE @M332@
+3 _APID 1,3212::321892
 1 RESI
 2 DATE 1900
 2 PLAC Woodhull, Steuben, New York, USA
@@ -5567,6 +5587,38 @@
 4 CONC cestry&h=5050565&ti=0&indiv=try&gss=pt
 3 _APID 1,7667::5050565
 1 _XY 9159 1750
+0 @I433@ INDI
+1 REFN 7b48e88f-0663-475d-bf46-bd2fc31548a1
+1 NAME Mahala unknown wife of George /Luther/
+2 SOUR @S217@
+3 PAGE 1880 United States Federal Census Record
+3 OBJE @M292@
+3 _APID 1,6742::857412
+1 SEX F
+2 SOUR @S217@
+3 _APID 1,6742::857412
+1 FAMS @F353@
+1 BIRT
+2 DATE ABT 1840
+2 PLAC Pennsylvania, USA
+3 MAP
+4 LATI N40.8583
+4 LONG W76.3834
+2 SOUR @S217@
+3 PAGE 1880 United States Federal Census Record
+3 OBJE @M292@
+3 _APID 1,6742::857412
+1 RESI
+2 DATE 1880
+2 PLAC Chatham, Tioga, Pennsylvania, USA
+3 MAP
+4 LATI N39.8531
+4 LONG W75.8207
+2 SOUR @S217@
+3 PAGE 1880 United States Federal Census Record
+3 OBJE @M292@
+3 _APID 1,6742::857412
+2 NOTE Marital Status: Married; Relation to Head: Wife
 0 @3DnAwUwSSHGGOvWIx4V7@ INDI
 1 REFN 6f818c52-33be-4aef-96ad-21adda71e4b2
 1 NAME Martha /Luther/
@@ -6347,101 +6399,6 @@
 2 NOTE Date is a guess, because she is in 1860 census, but not 186
 3 CONC 5 census. Place is assumed.
 1 _XY 6949 1442
-0 @I433@ INDI
-1 REFN 7b48e88f-0663-475d-bf46-bd2fc31548a1
-1 NAME Mahala //
-2 SOUR @S217@
-3 PAGE 1880 United States Federal Census Record
-3 OBJE @M292@
-1 SEX F
-1 FAMS @F353@
-1 BIRT
-2 DATE ABT 1840
-2 PLAC Pennsylvania, USA
-3 MAP
-4 LATI N40.8583
-4 LONG W76.3834
-2 SOUR @S217@
-3 PAGE 1880 United States Federal Census Record
-3 OBJE @M292@
-1 RESI
-2 DATE 1880
-2 PLAC Chatham, Tioga, Pennsylvania, USA
-3 MAP
-4 LATI N39.8531
-4 LONG W75.8207
-2 SOUR @S217@
-3 PAGE 1880 United States Federal Census Record
-3 OBJE @M292@
-2 NOTE Marital Status: Married; Relation to Head: Wife
-0 @I379@ INDI
-1 REFN 331b7a24-4612-45bd-8a6e-b350736c98e8
-1 NAME Margaret //
-2 SOUR @S191@
-3 PAGE The National Archives; Kew, England; Prerogative Court of Ca
-4 CONC nterbury and Related Probate Jurisdictions: Will Registers
-4 CONC ; Class: PROB 11; Piece: 285
-3 OBJE @M181@
-3 _APID 1,5111::723596
-2 SOUR @cHqs3hdITfGhgYkNTQzb@
-1 SEX F
-1 FAMS @F302@
-1 BIRT
-2 DATE ABT 1584
-2 SOUR @91JIXBEJQz6bVLkVlmAF@
-1 RESI
-2 DATE 1658
-2 PLAC Wincanton, Somerset, England
-3 MAP
-4 LATI N51.0538
-4 LONG W2.409
-2 SOUR @S191@
-3 PAGE The National Archives; Kew, England; Prerogative Court of Ca
-4 CONC nterbury and Related Probate Jurisdictions: Will Registers
-4 CONC ; Class: PROB 11; Piece: 285
-3 OBJE @M181@
-3 _APID 1,5111::723596
-1 WILL
-2 DATE 22 JUL 1658
-2 SOUR @CNCZKGpeSrKJ6BUTT9Hu@
-3 PAGE p. xi
-3 QUAY 1
-2 SOUR @S191@
-3 PAGE The National Archives; Kew, England; Prerogative Court of Ca
-4 CONC nterbury and Related Probate Jurisdictions: Will Registers
-4 CONC ; Class: PROB 11; Piece: 285
-3 OBJE @M181@
-3 _APID 1,5111::723596
-1 DEAT
-2 DATE ABT 30 JUL 1658
-2 PLAC Wincanton, Somerset, England
-3 MAP
-4 LATI N51.0538
-4 LONG W2.409
-2 SOUR @S191@
-3 PAGE The National Archives; Kew, England; Prerogative Court of Ca
-4 CONC nterbury and Related Probate Jurisdictions: Will Registers
-4 CONC ; Class: PROB 11; Piece: 285
-3 OBJE @M181@
-3 _APID 1,5111::723596
-1 BURI
-2 DATE 01 AUG 1658
-2 PLAC Wincanton, Somerset, England
-2 SOUR @S185@
-3 PAGE p. viii
-3 QUAY 1
-1 PROB
-2 DATE 06 DEC 1658
-2 SOUR @CNCZKGpeSrKJ6BUTT9Hu@
-3 PAGE p. xi
-3 QUAY 1
-2 SOUR @S191@
-3 PAGE The National Archives; Kew, England; Prerogative Court of Ca
-4 CONC nterbury and Related Probate Jurisdictions: Will Registers
-4 CONC ; Class: PROB 11; Piece: 285
-3 OBJE @M181@
-3 _APID 1,5111::723596
-1 _XY 5802 246
 0 @23SIWBEDQcSc1zULNk3d@ INDI
 1 REFN fd854473-9d1e-49f4-b197-577edd033cc3
 1 NAME Thomas /Mason/
@@ -7550,6 +7507,20 @@
 3 OBJE @M161@
 3 _APID 1,60856::1881843
 1 _XY 6936 100
+0 @I375@ INDI
+1 REFN 822a103a-c24a-490a-8cfd-5c7fad1df3d3
+1 NAME Ann Agnes wife of John /Moger/
+2 SOUR @S182@
+3 PAGE Somerset Heritage Service; Taunton, Somerset, England; Somer
+4 CONC set Parish Records, 1538-1914; Reference Number: D\P\winc/2/
+4 CONC 1/1
+3 OBJE @M167@
+3 _APID 1,60856::301071745
+1 SEX F
+1 FAMS @F298@
+1 BIRT
+2 DATE ABT 1615
+1 _XY 6099 337
 0 @I381@ INDI
 1 REFN 21126d61-5585-4309-bc45-9d385daafbb9
 1 NAME Daniel /Moger/
@@ -7720,6 +7691,14 @@
 1 BIRT
 2 DATE ABT APR 1611
 1 _XY 5992 334
+0 @I378@ INDI
+1 REFN da2829a9-5348-4981-9010-5b1b2dad31dd
+1 NAME Elizabeth unknown wife of John /Moger/
+1 SEX F
+1 FAMS @F301@
+1 BIRT
+2 DATE ABT 1645
+1 _XY 5934 462
 0 @I387@ INDI
 1 REFN a7ea8074-fa99-41e9-b14b-183181fd2f33
 1 NAME Francis /Moger/
@@ -11252,6 +11231,74 @@
 3 OBJE @M167@
 3 _APID 1,60856::1071745
 1 _XY 6034 464
+0 @I379@ INDI
+1 REFN 331b7a24-4612-45bd-8a6e-b350736c98e8
+1 NAME Margaret unknown wife of Hugh /Moger/
+2 SOUR @S191@
+3 PAGE The National Archives; Kew, England; Prerogative Court of Ca
+4 CONC nterbury and Related Probate Jurisdictions: Will Registers
+4 CONC ; Class: PROB 11; Piece: 285
+3 OBJE @M181@
+3 _APID 1,5111::723596
+2 SOUR @cHqs3hdITfGhgYkNTQzb@
+1 SEX F
+1 FAMS @F302@
+1 BIRT
+2 DATE ABT 1584
+2 SOUR @91JIXBEJQz6bVLkVlmAF@
+1 RESI
+2 DATE 1658
+2 PLAC Wincanton, Somerset, England
+3 MAP
+4 LATI N51.0538
+4 LONG W2.409
+2 SOUR @S191@
+3 PAGE The National Archives; Kew, England; Prerogative Court of Ca
+4 CONC nterbury and Related Probate Jurisdictions: Will Registers
+4 CONC ; Class: PROB 11; Piece: 285
+3 OBJE @M181@
+3 _APID 1,5111::723596
+1 WILL
+2 DATE 22 JUL 1658
+2 SOUR @CNCZKGpeSrKJ6BUTT9Hu@
+3 PAGE p. xi
+3 QUAY 1
+2 SOUR @S191@
+3 PAGE The National Archives; Kew, England; Prerogative Court of Ca
+4 CONC nterbury and Related Probate Jurisdictions: Will Registers
+4 CONC ; Class: PROB 11; Piece: 285
+3 OBJE @M181@
+3 _APID 1,5111::723596
+1 DEAT
+2 DATE ABT 30 JUL 1658
+2 PLAC Wincanton, Somerset, England
+3 MAP
+4 LATI N51.0538
+4 LONG W2.409
+2 SOUR @S191@
+3 PAGE The National Archives; Kew, England; Prerogative Court of Ca
+4 CONC nterbury and Related Probate Jurisdictions: Will Registers
+4 CONC ; Class: PROB 11; Piece: 285
+3 OBJE @M181@
+3 _APID 1,5111::723596
+1 BURI
+2 DATE 01 AUG 1658
+2 PLAC Wincanton, Somerset, England
+2 SOUR @S185@
+3 PAGE p. viii
+3 QUAY 1
+1 PROB
+2 DATE 06 DEC 1658
+2 SOUR @CNCZKGpeSrKJ6BUTT9Hu@
+3 PAGE p. xi
+3 QUAY 1
+2 SOUR @S191@
+3 PAGE The National Archives; Kew, England; Prerogative Court of Ca
+4 CONC nterbury and Related Probate Jurisdictions: Will Registers
+4 CONC ; Class: PROB 11; Piece: 285
+3 OBJE @M181@
+3 _APID 1,5111::723596
+1 _XY 5802 246
 0 @I399@ INDI
 1 REFN feedc37e-e00f-4328-81b1-52c85e1a5cfa
 1 NAME Mary /Moger/
@@ -17696,6 +17743,13 @@
 1 FAMC @F358@
 1 NOTE _XY 643 315  _UID f95333f2-d8c3-4291-9f21-4d58f78a39df
 1 _XY 643 315
+0 @I482@ INDI
+1 REFN d9ca3c7e-4033-4f20-8e6f-6ab295a9fb07
+1 NAME Trudy unknown wife of Norman /Mosher/
+2 SOUR @S258@
+3 _APID 1,8837::8577925
+1 SEX F
+1 FAMS @F390@
 0 @BXon2031Q0iFS4Xa2ZnV@ INDI
 1 REFN fbe51297-e5b3-484c-b7c0-0b6e286bbb07
 1 NAME William D. /Mosher/
@@ -17970,7 +18024,17 @@
 3 DATA
 4 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=62861
 5 CONC &pid=190
+2 SOUR @S214@
+3 PAGE New York Department of Health; Albany, NY; NY State Death In
+4 CONC dex
+3 OBJE @M334@
+3 _APID 1,61535::339410
 2 SOUR @S226@
+3 PAGE agricultural statistics
+3 OBJE @M333@
+3 _APID 1,7218::2237131
+2 SOUR @S226@
+3 PAGE population schedule
 3 OBJE @AXommpWlQjimhz5FUrOL@
 3 _APID 1,7218::2225026
 2 SOUR @W3ek4ErgQoOvxC5sOB5w@
@@ -17979,6 +18043,12 @@
 2 SOUR @S220@
 3 OBJE @9lAeJOLZQlW69WuF3Wnt@
 3 _APID 1,3212::3130656
+2 SOUR @S228@
+3 PAGE Census Year: 1870; Census Place: Hamilton, Madison, New York
+4 CONC ; Archive Collection Number: A24; Roll: 24; Page: 5; Line: 1
+4 CONC 0
+3 OBJE @M335@
+3 _APID 1,1791::1669707
 2 SOUR @S241@
 3 _APID 1,60525::5240271
 2 SOUR @GkjP7MzzQPeWUNGeYMpx@
@@ -18019,6 +18089,7 @@
 2 SOUR @Hm17MLj2SaOPgMVpc2Wa@
 3 QUAY 1
 2 SOUR @S226@
+3 PAGE population schedule
 3 OBJE @AXommpWlQjimhz5FUrOL@
 3 _APID 1,7218::2225026
 2 SOUR @W3ek4ErgQoOvxC5sOB5w@
@@ -18384,6 +18455,37 @@
 5 CONT </table>
 5 CONT [B. Mosher could be Basheba Maria Fuller, b. Canada 1793, wi
 5 CONC dow of Jonathan Mosher.]
+2 SOUR @jqlD3QRFSS6VgvEynTqG@
+3 DATA
+4 TEXT SCHEDULE I.--Free Inhabitants in Chatham Township in the Cou
+5 CONC nty of Tioga State of Penn<sup>a</sup>. enumerated by me, o
+5 CONC n the 13 day of Sept 1850.<br />
+5 CONT [Dwelling] 212<br />
+5 CONT [Family] 216<br />
+5 CONT <table border="1">
+5 CONT <tr><td>William</td><td>Moshier</td><td>42</td><td>m</td><td
+5 CONC >Farmer</td><td>600</td><td>N.Y.</td></tr>
+5 CONT <tr><td>Mary</td><td>Moshier</td><td>26</td><td>f</td><td>&n
+5 CONC bsp;</td><td>&nbsp;</td><td>"</td></tr>
+5 CONT <tr><td>David</td><td>Moshier</td><td>8</td><td>m</td><td>&n
+5 CONC bsp;</td><td>&nbsp;</td><td>"</td></tr>
+5 CONT <tr><td>Eliza J</td><td>Moshier</td><td>7</td><td>f</td><td>
+5 CONC &nbsp;</td><td>&nbsp;</td><td>"</td></tr>
+5 CONT <tr><td>Julia A</td><td>Moshier</td><td>5</td><td>f</td><td>
+5 CONC &nbsp;</td><td>&nbsp;</td><td>"</td></tr>
+5 CONT <tr><td>Sarah</td><td>Moshier</td><td>2</td><td>f</td><td>&n
+5 CONC bsp;</td><td>&nbsp;</td><td>Pa</td></tr>
+5 CONT <tr><td>David</td><td>Moshier</td><td>69</td><td>m</td><td>L
+5 CONC aborer</td><td>&nbsp;</td><td>N.Y.</td></tr>
+5 CONT <tr><td>Sarah</td><td>Moshier</td><td>51</td><td>f</td><td>&
+5 CONC nbsp;</td><td>&nbsp;</td><td>"</td></tr>
+5 CONT <tr><td>B</td><td>Moshier</td><td>57</td><td>f</td><td>&nbsp
+5 CONC ;</td><td>&nbsp;</td><td>Canada</td></tr>
+5 CONT <tr><td>Gideon</td><td>Luther</td><td>32</td><td>m</td><td>L
+5 CONC aborer</td><td>&nbsp;</td><td>N.Y.</td></tr>
+5 CONT </table>
+5 CONT [B. Mosher could be Basheba Maria Fuller, b. Canada 1793, wi
+5 CONC dow of Jonathan Mosher.]
 1 CENS
 2 DATE 01 JUN 1850
 2 PLAC Chatham, Tioga, Pennsylvania, USA
@@ -18392,6 +18494,37 @@
 4 LONG W75.8207
 2 SOUR @jqlD3QRFSS6VgvEynTqG@
 3 QUAY 3
+3 DATA
+4 TEXT SCHEDULE I.--Free Inhabitants in Chatham Township in the Cou
+5 CONC nty of Tioga State of Penn<sup>a</sup>. enumerated by me, o
+5 CONC n the 13 day of Sept 1850.<br />
+5 CONT [Dwelling] 212<br />
+5 CONT [Family] 216<br />
+5 CONT <table border="1">
+5 CONT <tr><td>William</td><td>Moshier</td><td>42</td><td>m</td><td
+5 CONC >Farmer</td><td>600</td><td>N.Y.</td></tr>
+5 CONT <tr><td>Mary</td><td>Moshier</td><td>26</td><td>f</td><td>&n
+5 CONC bsp;</td><td>&nbsp;</td><td>"</td></tr>
+5 CONT <tr><td>David</td><td>Moshier</td><td>8</td><td>m</td><td>&n
+5 CONC bsp;</td><td>&nbsp;</td><td>"</td></tr>
+5 CONT <tr><td>Eliza J</td><td>Moshier</td><td>7</td><td>f</td><td>
+5 CONC &nbsp;</td><td>&nbsp;</td><td>"</td></tr>
+5 CONT <tr><td>Julia A</td><td>Moshier</td><td>5</td><td>f</td><td>
+5 CONC &nbsp;</td><td>&nbsp;</td><td>"</td></tr>
+5 CONT <tr><td>Sarah</td><td>Moshier</td><td>2</td><td>f</td><td>&n
+5 CONC bsp;</td><td>&nbsp;</td><td>Pa</td></tr>
+5 CONT <tr><td>David</td><td>Moshier</td><td>69</td><td>m</td><td>L
+5 CONC aborer</td><td>&nbsp;</td><td>N.Y.</td></tr>
+5 CONT <tr><td>Sarah</td><td>Moshier</td><td>51</td><td>f</td><td>&
+5 CONC nbsp;</td><td>&nbsp;</td><td>"</td></tr>
+5 CONT <tr><td>B</td><td>Moshier</td><td>57</td><td>f</td><td>&nbsp
+5 CONC ;</td><td>&nbsp;</td><td>Canada</td></tr>
+5 CONT <tr><td>Gideon</td><td>Luther</td><td>32</td><td>m</td><td>L
+5 CONC aborer</td><td>&nbsp;</td><td>N.Y.</td></tr>
+5 CONT </table>
+5 CONT [B. Mosher could be Basheba Maria Fuller, b. Canada 1793, wi
+5 CONC dow of Jonathan Mosher.]
+2 SOUR @jqlD3QRFSS6VgvEynTqG@
 3 DATA
 4 TEXT SCHEDULE I.--Free Inhabitants in Chatham Township in the Cou
 5 CONC nty of Tioga State of Penn<sup>a</sup>. enumerated by me, o
@@ -18484,6 +18617,11 @@
 4 LATI N42.827
 4 LONG W75.5446
 2 SOUR @S226@
+3 PAGE agricultural statistics
+3 OBJE @M333@
+3 _APID 1,7218::2237131
+2 SOUR @S226@
+3 PAGE population schedule
 3 OBJE @AXommpWlQjimhz5FUrOL@
 3 _APID 1,7218::2225026
 2 NOTE Relation to Head of House: Head
@@ -18496,7 +18634,7 @@
 2 SOUR @zTl5QbdmR2aCrJNt7GN5@
 3 QUAY 3
 1 RESI
-2 DATE 1870
+2 DATE 24 JUN 1870
 2 PLAC Hamilton, Madison, New York, USA
 3 MAP
 4 LATI N42.827
@@ -18507,6 +18645,12 @@
 4 CONC ilm: 552466
 3 OBJE @j6tAg5qFQLS9qk5u33cf@
 3 _APID 1,7163::23890272
+2 SOUR @S228@
+3 PAGE Census Year: 1870; Census Place: Hamilton, Madison, New York
+4 CONC ; Archive Collection Number: A24; Roll: 24; Page: 5; Line: 1
+4 CONC 0
+3 OBJE @M335@
+3 _APID 1,1791::1669707
 2 NOTE Age: 63
 1 CENS
 2 DATE 01 JUN 1875
@@ -18685,6 +18829,11 @@
 3 QUAY 3
 3 DATA
 4 TEXT about 12 o'clock M.
+2 SOUR @S214@
+3 PAGE New York Department of Health; Albany, NY; NY State Death In
+4 CONC dex
+3 OBJE @M334@
+3 _APID 1,61535::339410
 2 SOUR @S241@
 3 _APID 1,60525::5240271
 2 SOUR @GkjP7MzzQPeWUNGeYMpx@
@@ -22969,14 +23118,6 @@
 1 FAMC @F355@
 1 NOTE _XY 194 412  _UID 255f3799-d2be-48d7-aba1-d512b640a7cd
 1 _XY 194 412
-0 @I482@ INDI
-1 REFN d9ca3c7e-4033-4f20-8e6f-6ab295a9fb07
-1 NAME /Trudy/
-2 SOUR @S258@
-3 _APID 1,8837::8577925
-1 SEX F
-1 FAMS @F390@
-1 FAMS @F393@
 0 @vds8vnR8T8WhCKCgvpxP@ INDI
 1 REFN 6b9b88c3-ed1a-489c-a710-d8b218859946
 1 NAME Abraham /Tucker/
@@ -25686,7 +25827,6 @@
 1 _XY 8701 421
 0 @F38@ FAM
 0 @F393@ FAM
-1 WIFE @I482@
 1 DIV
 2 DATE 11 JUL 1996
 2 PLAC Brevard, Florida, USA
@@ -25799,10 +25939,11 @@
 4 LONG W74.2224
 2 SOUR @S203@
 3 PAGE New York State Department of Health; Albany, NY, USA; New Yo
-4 CONC rk State Marriage Index
+4 CONC rk State Marriage Index; Carl L Benedict
+3 _APID 1,61632::5038900
 2 SOUR @S203@
 3 PAGE New York State Department of Health; Albany, NY, USA; New Yo
-4 CONC rk State Marriage Index
+4 CONC rk State Marriage Index; Susan E Evans
 0 @F383@ FAM
 1 HUSB @I468@
 1 WIFE @I485@
@@ -26970,6 +27111,7 @@
 4 LATI N28.2993
 4 LONG W80.701
 2 SOUR @S258@
+3 _APID 1,8837::3577925
 0 @Wp6YWpDdRem2e971P4Ez@ FAM
 1 REFN 8f03f81f-e3ca-4fb5-bb87-01a9d9b6da3e
 1 HUSB @BkQDhENdRguCajPxHXd6@
@@ -33566,4 +33708,30 @@
 2 CONC w York, County Marriage Records, 1847-1849, 1907-1936(3).jpg
 2 FORM jpg
 2 TITL New York, County Marriage Records, 1847-1849, 1907-1936
+0 @M332@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher Media\Ne
+2 CONC w York, State Census, 1892(5).jpg
+2 FORM jpg
+2 TITL New York, State Census, 1892
+0 @M333@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher Media\Ne
+2 CONC w York, State Census, 1865(2).jpg
+2 FORM jpg
+2 TITL New York, State Census, 1865
+0 @M334@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher Media\Ne
+2 CONC w York, Death Index, 1880-1956(3).jpg
+2 FORM jpg
+2 TITL New York, Death Index, 1880-1956
+2 _TEXT New York Department of Health; Albany, NY; NY State Death In
+3 CONC dex
+0 @M335@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher Media\U.
+2 CONC S. Census Non-Population Schedules, New York, 1850-1880(1).j
+2 CONC pg
+2 FORM jpg
+2 TITL U.S. Census Non-Population Schedules, New York, 1850-1880
+2 _TEXT Census Year: 1870; Census Place: Hamilton, Madison, New York
+3 CONC ; Archive Collection Number: A24; Roll: 24; Page: 5; Line: 1
+3 CONC 0
 0 TRLR
