@@ -14,9 +14,9 @@
 4 CONT Boston, MA 02109
 3 PHON (617) 227-6681
 1 DEST FTM
-1 FILE Mosher_2018-11-20-03-31-18.ftm.ged
+1 FILE Mosher_2018-11-20-04-56-02.ftm.ged
 1 DATE 20 NOV 2018
-2 TIME 03:32:09
+2 TIME 04:56:50
 0 @Umy2qBWIRUiwVSS6Hcn4@ SUBM
 1 NAME Christopher Alan Mosher
 2 EMAIL cmosher01@@gmail.com
@@ -15203,7 +15203,6 @@
 1 SEX M
 1 FAMC @YIqlnp8mREuD4RW6nexn@
 1 FAMS @vI58j6lGTpKJxvAR6gKB@
-1 FAMS @F394@
 1 OBJE @deyiKuokQVekpdnqS6LJ@
 1 NOTE _XY 227 149
 2 CONT
@@ -16750,6 +16749,7 @@
 1 REFN 4b988111-3243-4388-96b0-5868af3169a5
 1 NAME Norman Beckwith /Mosher/
 2 SOUR @S258@
+3 PAGE Norman Beckwith Mosher
 2 SOUR @S259@
 3 OBJE @M320@
 1 SEX M
@@ -17747,6 +17747,7 @@
 1 REFN d9ca3c7e-4033-4f20-8e6f-6ab295a9fb07
 1 NAME Trudy unknown wife of Norman /Mosher/
 2 SOUR @S258@
+3 PAGE Trudy (spouse of Norman Beckwith Mosher)
 3 _APID 1,8837::8577925
 1 SEX F
 1 FAMS @F390@
@@ -25827,25 +25828,6 @@
 1 _XY 8701 421
 0 @F38@ FAM
 0 @F393@ FAM
-1 DIV
-2 DATE 11 JUL 1996
-2 PLAC Brevard, Florida, USA
-3 MAP
-4 LATI N28.2993
-4 LONG W80.701
-2 SOUR @S258@
-0 @F394@ FAM
-1 HUSB @XiIS8Y13Q9it0577Fs2n@
-1 MARR
-2 DATE 25 SEP 1906
-2 PLAC Hamilton, Madison, New York, USA
-3 MAP
-4 LATI N42.827
-4 LONG W75.5446
-2 SOUR @S203@
-3 PAGE New York State Department of Health; Albany, NY, USA; New Yo
-4 CONC rk State Marriage Index
-3 OBJE @M328@
 0 @PEfzw3T0TFuFQrWgroil@ FAM
 1 REFN 90c12f6f-2e57-45ff-9067-e239614f93c0
 1 HUSB @UejRBXK8SpuTaTtLvcDZ@
@@ -27055,7 +27037,7 @@
 3 PAGE New York State Department of Health; Albany, NY, USA; New Yo
 4 CONC rk State Marriage Index
 3 OBJE @M329@
-3 _APID 1,61632::6053691
+3 _APID 1,61632::6077480
 0 @bDNq0ruKQTShQyuD99jm@ FAM
 1 REFN 279bc1d6-1f5f-481d-9f44-953d88dc1f96
 1 HUSB @BhoSovK4SzeBRpU2NspI@
@@ -27111,7 +27093,11 @@
 4 LATI N28.2993
 4 LONG W80.701
 2 SOUR @S258@
+3 PAGE Norman Beckwith Mosher
 3 _APID 1,8837::3577925
+2 SOUR @S258@
+3 PAGE Trudy (spouse of Norman Beckwith Mosher)
+3 _APID 1,8837::8577925
 0 @Wp6YWpDdRem2e971P4Ez@ FAM
 1 REFN 8f03f81f-e3ca-4fb5-bb87-01a9d9b6da3e
 1 HUSB @BkQDhENdRguCajPxHXd6@
