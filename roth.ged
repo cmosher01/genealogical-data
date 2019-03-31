@@ -14,9 +14,9 @@
 4 CONT Boston, MA 02109
 3 PHON (617) 227-6681
 1 DEST FTM
-1 FILE Roth_2018-10-10-02-18-47.ftm.ged
-1 DATE 10 OCT 2018
-2 TIME 02:19:29
+1 FILE Roth_2019-03-31-14-10-50.ftm.ged
+1 DATE 31 MAR 2019
+2 TIME 14:33:27
 0 @Umy2qBWIRUiwVSS6Hcn4@ SUBM
 1 NAME Christopher Alan Mosher
 2 EMAIL cmosher01@@gmail.com
@@ -1195,6 +1195,7 @@
 1 SEX F
 1 FAMC @F6@
 1 FAMS @F2@
+1 FAMS @F75@
 1 BIRT
 2 DATE 09 APR 1909
 2 PLAC New York City, New York, USA
@@ -1838,6 +1839,10 @@
 2 NOTE Relation to Head of House: Son
 1 DEAT
 2 PLAC Italy
+0 @I106@ INDI
+1 NAME Leah /Dell/
+1 SEX F
+1 FAMC @F78@
 0 @I96@ INDI
 1 REFN 246dd05e-e19e-47b5-a634-5eab3c2795c1
 1 NAME Benjamin /Fischler/
@@ -5425,6 +5430,7 @@
 3 _APID 1,2442::13421277
 1 SEX F
 1 FAMC @F2@
+1 FAMS @F76@
 1 BIRT
 2 DATE ABT 1928
 2 PLAC New York, USA
@@ -5516,6 +5522,14 @@
 3 OBJE @M1@
 3 _APID 1,2442::13421279
 2 NOTE Marital Status: Single; Relation to Head of House: Son
+0 @I102@ INDI
+1 NAME Louis /Roth/
+1 SEX M
+1 FAMC @F75@
+1 FAMS @F78@
+1 BIRT
+2 DATE AUG 1948
+2 PLAC Brooklyn, New York City, New York, USA
 0 @I40@ INDI
 1 REFN 0b2fa1ca-4c8a-4ed3-83b6-dd912bd4bf0d
 1 NAME Max /Roth/
@@ -6082,6 +6096,29 @@
 3 OBJE @M11@
 3 _APID 1,6061::81727009
 2 NOTE Relation to Head: Mother; Residence Marital Status: Widowed
+0 @I101@ INDI
+1 NAME /unknown/
+1 SEX M
+1 FAMS @F75@
+1 BIRT
+2 DATE ABT 1900
+0 @I103@ INDI
+1 NAME /Wescourt/
+1 SEX M
+1 FAMS @F76@
+1 BIRT
+2 DATE ABT 1905
+0 @I104@ INDI
+1 NAME Mark /Wescourt/
+1 SEX M
+1 FAMC @F76@
+1 FAMS @F77@
+1 BIRT
+2 DATE ABT 1954
+0 @I105@ INDI
+1 NAME Zachary /Wescourt/
+1 SEX M
+1 FAMC @F77@
 0 @I62@ INDI
 1 REFN a0935107-feba-43cd-904f-b4d1b034ee79
 1 NAME Annie /Wolff/
@@ -6502,6 +6539,10 @@
 1 CHIL @I40@
 2 _FREL Natural
 2 _MREL Natural
+0 @F78@ FAM
+1 HUSB @I102@
+1 CHIL @I106@
+2 _FREL Natural
 0 @F8@ FAM
 1 HUSB @I40@
 1 WIFE @I42@
@@ -6582,6 +6623,25 @@
 3 PAGE New York City Municipal Archives; New York, New York
 2 SOUR @S16@
 3 PAGE New York City Municipal Archives; New York, New York
+0 @F75@ FAM
+1 HUSB @I101@
+1 WIFE @I13@
+1 CHIL @I102@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR
+2 DATE ABT NOV 1947
+2 PLAC Brooklyn, New York City, New York, USA
+0 @F76@ FAM
+1 HUSB @I103@
+1 WIFE @I14@
+1 CHIL @I104@
+2 _FREL Natural
+2 _MREL Natural
+0 @F77@ FAM
+1 HUSB @I104@
+1 CHIL @I105@
+2 _FREL Natural
 0 @F44@ FAM
 1 HUSB @I61@
 1 WIFE @I3@
