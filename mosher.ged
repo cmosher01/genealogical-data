@@ -14,9 +14,9 @@
 4 CONT Boston, MA 02109
 3 PHON (617) 227-6681
 1 DEST FTM
-1 FILE Mosher_2018-11-28-04-52-42.ftm.ged
-1 DATE 28 NOV 2018
-2 TIME 04:53:44
+1 FILE Mosher_2019-08-10-02-10-54.ftm.ged
+1 DATE 10 AUG 2019
+2 TIME 02:15:21
 0 @Umy2qBWIRUiwVSS6Hcn4@ SUBM
 1 NAME Christopher Alan Mosher
 2 EMAIL cmosher01@@gmail.com
@@ -839,11 +839,73 @@
 0 @I411@ INDI
 1 REFN a262a9cb-4a89-49db-851d-efaeeca3f7b2
 1 NAME William H. /Blakeslee/
+2 SOUR @S203@
+3 PAGE New York State Department of Health; Albany, NY, USA; New Yo
+4 CONC rk State Marriage Index
+3 OBJE @M372@
+3 _APID 1,61632::1344308
 1 SEX M
 1 FAMS @F328@
 1 BIRT
 2 DATE ABT 1845
 1 _XY 7350.00 1775.00
+0 @I494@ INDI
+1 REFN cdb21eff-00c3-4497-a662-1be22b5dafb6
+1 NAME Hannah /Bloss/
+2 SOUR @S212@
+3 PAGE 1850 United States Federal Census Record
+3 OBJE @M361@
+3 _APID 1,8054::7054887
+2 SOUR @S209@
+3 PAGE Year: 1860; Census Place: Chicago Ward 1, Cook, Illinois; Ro
+4 CONC ll: M653_164; Page: 237; Family History Library Film: 803164
+3 OBJE @M379@
+3 _APID 1,7667::37312265
+2 SOUR @XkYfWXOxTRycLRJJyxNy@
+3 PAGE Source number: 23.000; Source type: Electronic Database; Num
+4 CONC ber of Pages: 1; Submitter Code: RKM
+3 _APID 1,7836::116770
+1 SEX F
+2 SOUR @S212@
+3 _APID 1,8054::7054887
+1 FAMS @F399@
+1 BIRT
+2 DATE 1790
+2 PLAC New York, USA
+3 MAP
+4 LATI N42.7531
+4 LONG W74.2224
+2 SOUR @S212@
+3 PAGE 1850 United States Federal Census Record
+3 OBJE @M361@
+3 _APID 1,8054::7054887
+2 SOUR @S209@
+3 PAGE Year: 1860; Census Place: Chicago Ward 1, Cook, Illinois; Ro
+4 CONC ll: M653_164; Page: 237; Family History Library Film: 803164
+3 OBJE @M379@
+3 _APID 1,7667::37312265
+1 RESI
+2 DATE 1850
+2 PLAC Madison, Madison, New York, USA
+3 MAP
+4 LATI N42.899
+4 LONG W75.5121
+2 SOUR @S212@
+3 PAGE 1850 United States Federal Census Record
+3 OBJE @M361@
+3 _APID 1,8054::7054887
+1 RESI
+2 DATE 1860
+2 PLAC Chicago, Cook, Illinois, USA
+3 MAP
+4 LATI N41.85
+4 LONG W87.6501
+2 SOUR @S209@
+3 PAGE Year: 1860; Census Place: Chicago Ward 1, Cook, Illinois; Ro
+4 CONC ll: M653_164; Page: 237; Family History Library Film: 803164
+3 OBJE @M379@
+3 _APID 1,7667::37312265
+2 NOTE Residence Post Office: Chicago
 0 @esHRgd1WSxarhtORNU69@ INDI
 1 REFN 39152143-794a-4d2c-b983-68583767a6f4
 1 NAME Eleazer /Bockus/
@@ -1191,7 +1253,7 @@
 2 SOUR @S249@
 3 OBJE @M302@
 3 _APID 1,2341::24112
-2 SOUR @w6oneCDaTyySwwZ0y6W9@
+2 SOUR @S281@
 3 OBJE @M297@
 3 _APID 1,2469::258294323
 2 SOUR @S263@
@@ -1323,7 +1385,7 @@
 1 RESI
 2 DATE 1957
 2 PLAC Richmond, California, USA
-2 SOUR @w6oneCDaTyySwwZ0y6W9@
+2 SOUR @S281@
 3 OBJE @M297@
 3 _APID 1,2469::258294323
 1 RESI
@@ -1738,6 +1800,101 @@
 2 SOUR @S241@
 3 _APID 1,60525::86446534
 1 _XY 8250.00 1850.00
+0 @I499@ INDI
+1 REFN 9f1d300c-3f9d-4c77-8ed5-156e3234ef1f
+1 NAME /Clark/
+1 SEX M
+1 FAMS @F398@
+1 BIRT
+2 DATE ABT 1775
+0 @I506@ INDI
+1 REFN aea27167-ce5d-4b64-9b5f-7e4540067d5c
+1 NAME Malinda /Clark/
+2 SOUR @S229@
+3 PAGE Year: 1840; Census Place: Hamilton, Madison, New York; Roll
+4 CONC : 295; Page: 218; Family History Library Film: 0017192
+3 OBJE @M349@
+3 _APID 1,8057::1552144
+2 SOUR @S212@
+3 PAGE Year: 1850; Census Place: Hamilton, Madison, New York; Roll
+4 CONC : M432_527; Page: 101A; Image: 449
+3 OBJE @M350@
+3 _APID 1,8054::7061144
+2 SOUR @S209@
+3 PAGE Year: 1860; Census Place: Oswego Ward 1, Oswego, New York; R
+4 CONC oll: M653_839; Page: 955; Family History Library Film: 80383
+4 CONC 9
+3 OBJE @M360@
+3 _APID 1,7667::47785632
+2 SOUR @S211@
+3 PAGE New York, State Census, 1855 Record
+3 OBJE @M353@
+3 _APID 1,7181::1655645811
+2 SOUR @XkYfWXOxTRycLRJJyxNy@
+3 PAGE Source number: 24.000; Source type: Electronic Database; Num
+4 CONC ber of Pages: 1; Submitter Code: RKM
+3 _APID 1,7836::238640
+1 SEX F
+2 SOUR @S211@
+3 _APID 1,7181::1655645811
+1 FAMC @F398@
+1 FAMS @F401@
+1 BIRT
+2 DATE ABT 1800
+2 PLAC Connecticut, USA
+3 MAP
+4 LATI N41.5083
+4 LONG W71.2417
+2 SOUR @S212@
+3 PAGE Year: 1850; Census Place: Hamilton, Madison, New York; Roll
+4 CONC : M432_527; Page: 101A; Image: 449
+3 OBJE @M350@
+3 _APID 1,8054::7061144
+2 SOUR @S209@
+3 PAGE Year: 1860; Census Place: Oswego Ward 1, Oswego, New York; R
+4 CONC oll: M653_839; Page: 955; Family History Library Film: 80383
+4 CONC 9
+3 OBJE @M360@
+3 _APID 1,7667::47785632
+2 SOUR @S211@
+3 PAGE New York, State Census, 1855 Record
+3 OBJE @M353@
+3 _APID 1,7181::1655645811
+1 RESI
+2 DATE 1840
+2 PLAC Hamilton, Madison, New York, USA
+3 MAP
+4 LATI N42.827
+4 LONG W75.5446
+2 SOUR @S229@
+3 PAGE Year: 1840; Census Place: Hamilton, Madison, New York; Roll
+4 CONC : 295; Page: 218; Family History Library Film: 0017192
+3 OBJE @M349@
+3 _APID 1,8057::1552144
+1 RESI
+2 DATE 1850
+2 PLAC Hamilton, Madison, New York, USA
+3 MAP
+4 LATI N42.827
+4 LONG W75.5446
+2 SOUR @S212@
+3 PAGE Year: 1850; Census Place: Hamilton, Madison, New York; Roll
+4 CONC : M432_527; Page: 101A; Image: 449
+3 OBJE @M350@
+3 _APID 1,8054::7061144
+1 RESI
+2 DATE 1860
+2 PLAC Oswego, Oswego, New York, USA
+3 MAP
+4 LATI N43.4553
+4 LONG W76.5105
+2 SOUR @S209@
+3 PAGE Year: 1860; Census Place: Oswego Ward 1, Oswego, New York; R
+4 CONC oll: M653_839; Page: 955; Family History Library Film: 80383
+4 CONC 9
+3 OBJE @M360@
+3 _APID 1,7667::47785632
+2 NOTE Residence Post Office: Oswego
 0 @pefJZqyDQ0ut1sJUgJIk@ INDI
 1 REFN 5e2ffbf6-aef4-45a4-a7a2-c0fe52d08313
 1 NAME William /Clemons/
@@ -1863,6 +2020,25 @@
 1 DEAT
 2 DATE 17 SEP 1968
 1 _XY 7475.00 2250.00
+0 @I495@ INDI
+1 REFN ef3f426b-370a-42b4-8acb-d2f951a13eee
+1 NAME Fannie /Conklin/
+2 SOUR @XkYfWXOxTRycLRJJyxNy@
+3 PAGE Source number: 20.000; Source type: Electronic Database; Num
+4 CONC ber of Pages: 1; Submitter Code: RKM
+3 _APID 1,7836::266576
+1 SEX F
+1 FAMS @F403@
+1 BIRT
+2 DATE 15 JUN 1754
+2 PLAC Beekman, Dutchess, New York, United States
+2 SOUR @XkYfWXOxTRycLRJJyxNy@
+3 PAGE Source number: 20.000; Source type: Electronic Database; Num
+4 CONC ber of Pages: 1; Submitter Code: RKM
+3 _APID 1,7836::266576
+1 DEAT
+2 DATE 04 AUG 1827
+2 PLAC New York, United States
 0 @lEPJDLTMRO6OmzDOeXTR@ INDI
 1 REFN eebf70de-83f6-44f3-ba85-2564a350e354
 1 NAME Christopher /Cook/
@@ -2055,6 +2231,66 @@
 4 LONG W70.4939
 2 SOUR @91JIXBEJQz6bVLkVlmAF@
 1 _XY 11375.00 300.00
+0 @I526@ INDI
+1 REFN f14de851-19b4-41bf-aad4-075325121d8c
+1 NAME Susan /Curtis/
+2 SOUR @S209@
+3 PAGE Year: 1860; Census Place: Chicago Ward 1, Cook, Illinois; Ro
+4 CONC ll: M653_164; Page: 237; Family History Library Film: 803164
+3 OBJE @M379@
+3 _APID 1,7667::37312267
+2 SOUR @S231@
+3 PAGE Year: 1870; Census Place: Chicago Ward 4, Cook, Illinois; Ro
+4 CONC ll: M593_200; Page: 49A; Family History Library Film: 545699
+3 OBJE @M385@
+3 _APID 1,7163::17082424
+1 SEX F
+1 FAMS @F408@
+1 BIRT
+2 DATE ABT 1824
+2 PLAC New York, USA
+3 MAP
+4 LATI N42.7531
+4 LONG W74.2224
+2 SOUR @S209@
+3 PAGE Year: 1860; Census Place: Chicago Ward 1, Cook, Illinois; Ro
+4 CONC ll: M653_164; Page: 237; Family History Library Film: 803164
+3 OBJE @M379@
+3 _APID 1,7667::37312267
+2 SOUR @S231@
+3 PAGE Year: 1870; Census Place: Chicago Ward 4, Cook, Illinois; Ro
+4 CONC ll: M593_200; Page: 49A; Family History Library Film: 545699
+3 OBJE @M385@
+3 _APID 1,7163::17082424
+1 RESI
+2 DATE 1860
+2 PLAC Chicago, Cook, Illinois, USA
+3 MAP
+4 LATI N41.85
+4 LONG W87.6501
+2 SOUR @S209@
+3 PAGE Year: 1860; Census Place: Chicago Ward 1, Cook, Illinois; Ro
+4 CONC ll: M653_164; Page: 237; Family History Library Film: 803164
+3 OBJE @M379@
+3 _APID 1,7667::37312267
+2 NOTE Residence Post Office: Chicago
+1 RESI
+2 DATE 1870
+2 PLAC Chicago, Cook, Illinois, USA
+3 MAP
+4 LATI N41.85
+4 LONG W87.6501
+2 SOUR @S231@
+3 PAGE Year: 1870; Census Place: Chicago Ward 4, Cook, Illinois; Ro
+4 CONC ll: M593_200; Page: 49A; Family History Library Film: 545699
+3 OBJE @M385@
+3 _APID 1,7163::17082424
+2 NOTE Residence Post Office: Chicago
+0 @I497@ INDI
+1 REFN 0a66b390-e7ab-46ec-a312-ace3250d5561
+1 NAME Mary /Davol/
+1 SEX F
+1 FAMS @F400@
 0 @k3gjBlXuTaKby3fdbWUS@ INDI
 1 REFN 7a0a44ee-77c2-4d7a-a610-fc5f12aab23f
 1 NAME John /Dickenson/
@@ -2703,7 +2939,7 @@
 3 _APID 1,7364::5917481
 2 SOUR @S215@
 3 _APID 1,60901::613933553
-2 SOUR @Q3pDaZrXQzi0fjGmGdhC@
+2 SOUR @S257@
 3 _APID 1,70500::1455673
 1 SEX M
 1 FAMS @slAkoNavTciaDTyoqPqM@
@@ -2775,7 +3011,7 @@
 4 CONC : Hamilton; County: Madison
 3 OBJE @RTJ3xAR4Sxi2cySY7jnZ@
 3 _APID 1,7364::5917481
-2 SOUR @Q3pDaZrXQzi0fjGmGdhC@
+2 SOUR @S257@
 3 _APID 1,70500::1455673
 1 RESI
 2 DATE 1850
@@ -2931,7 +3167,7 @@
 2 SOUR @lTOLhUUjTXCI5ptRz7k9@
 3 OBJE @Xjamao2QSoSoMvexpd9C@
 3 _APID 1,5187::886416
-2 SOUR @Q3pDaZrXQzi0fjGmGdhC@
+2 SOUR @S257@
 3 _APID 1,70500::1455673
 2 NOTE or at Dixon, Solano County
 1 BURI
@@ -2939,7 +3175,7 @@
 3 MAP
 4 LATI N40.1785
 4 LONG W122.2359
-2 SOUR @Q3pDaZrXQzi0fjGmGdhC@
+2 SOUR @S257@
 3 _APID 1,70500::1455673
 1 _XY 6475.00 1775.00
 0 @8gjyDknGRFmADlQ7U1VJ@ INDI
@@ -3006,6 +3242,81 @@
 3 OBJE @M229@
 3 _APID 1,61377::900144406
 1 _XY 6875.00 1900.00
+0 @I520@ INDI
+1 REFN 6c7c21cb-031f-4817-9cfb-2fe76d7da5cf
+1 NAME Frances Lucy //
+2 SOUR @S231@
+3 PAGE Year: 1870; Census Place: Volney, Oswego, New York; Roll: M5
+4 CONC 93_1074; Page: 574B; Family History Library Film: 552573
+3 OBJE @M367@
+2 SOUR @S217@
+3 PAGE Year: 1880; Census Place: Fulton, Oswego, New York; Roll: 91
+4 CONC 5; Page: 218C; Enumeration District: 272
+3 OBJE @M370@
+2 SOUR @S226@
+3 OBJE @M369@
+2 SOUR @W3ek4ErgQoOvxC5sOB5w@
+3 OBJE @M368@
+1 SEX F
+1 FAMS @F410@
+1 BIRT
+2 DATE ABT 1840
+2 PLAC Rensselaer, New York, USA
+3 MAP
+4 LATI N42.7098
+4 LONG W73.5139
+2 SOUR @S231@
+3 PAGE Year: 1870; Census Place: Volney, Oswego, New York; Roll: M5
+4 CONC 93_1074; Page: 574B; Family History Library Film: 552573
+3 OBJE @M367@
+2 SOUR @S217@
+3 PAGE Year: 1880; Census Place: Fulton, Oswego, New York; Roll: 91
+4 CONC 5; Page: 218C; Enumeration District: 272
+3 OBJE @M370@
+2 SOUR @S226@
+3 OBJE @M369@
+2 SOUR @W3ek4ErgQoOvxC5sOB5w@
+3 OBJE @M368@
+1 RESI
+2 DATE 1865
+2 PLAC Volney, Oswego, New York, USA
+3 MAP
+4 LATI N43.3428
+4 LONG W76.3581
+2 SOUR @S226@
+3 OBJE @M369@
+2 NOTE Relation to Head of House: Wife
+1 RESI
+2 DATE 1870
+2 PLAC Volney, Oswego, New York, USA
+3 MAP
+4 LATI N43.3428
+4 LONG W76.3581
+2 SOUR @S231@
+3 PAGE Year: 1870; Census Place: Volney, Oswego, New York; Roll: M5
+4 CONC 93_1074; Page: 574B; Family History Library Film: 552573
+3 OBJE @M367@
+2 NOTE Residence Post Office: Fulton
+1 RESI
+2 DATE 01 JUN 1875
+2 PLAC Volney, Oswego, New York, USA
+3 MAP
+4 LATI N43.3428
+4 LONG W76.3581
+2 SOUR @W3ek4ErgQoOvxC5sOB5w@
+3 OBJE @M368@
+2 NOTE Relation to Head: Wife
+1 RESI
+2 DATE 1880
+2 PLAC Fulton, Oswego, New York, USA
+3 MAP
+4 LATI N43.3228
+4 LONG W76.4172
+2 SOUR @S217@
+3 PAGE Year: 1880; Census Place: Fulton, Oswego, New York; Roll: 91
+4 CONC 5; Page: 218C; Enumeration District: 272
+3 OBJE @M370@
+2 NOTE Marital Status: Married; Relation to Head: Wife
 0 @I485@ INDI
 1 REFN 41cb9b7d-9040-4e8f-9c03-28200b525b86
 1 NAME Gail Ann /Frazier/
@@ -3161,7 +3472,7 @@
 0 @I458@ INDI
 1 REFN 8c050cbb-31cb-4087-8faa-67b713cad938
 1 NAME Evelyn Virginia /Gray/
-2 SOUR @w6oneCDaTyySwwZ0y6W9@
+2 SOUR @S281@
 3 OBJE @M295@
 3 _APID 1,2469::1373073413
 2 SOUR @yAMTVEqOTiKCsMjPyXmb@
@@ -3184,7 +3495,7 @@
 1 RESI
 2 DATE 1959
 2 PLAC Somerville; Bound Brook, New Jersey, USA
-2 SOUR @w6oneCDaTyySwwZ0y6W9@
+2 SOUR @S281@
 3 OBJE @M295@
 3 _APID 1,2469::1373073413
 1 DEAT
@@ -3198,6 +3509,21 @@
 4 CONC 51-1953
 3 _APID 1,3693::43961901
 1 _XY 6925.00 2350.00
+0 @I501@ INDI
+1 REFN 4713d067-2021-4a43-b316-03d504bd8b89
+1 NAME Noah /Guernsey/
+1 SEX M
+1 FAMS @F404@
+1 BIRT
+2 DATE ABT 1750
+0 @I500@ INDI
+1 REFN a5e340d7-b377-455a-bc2c-e6ba0574c341
+1 NAME Rachel /Guernsey/
+1 SEX F
+1 FAMC @F404@
+1 FAMS @F398@
+1 BIRT
+2 DATE ABT 1775
 0 @ji1gr0JWQ3GmGJ3kvmF1@ INDI
 1 REFN 29ca4ca9-ff71-4a00-b0fe-339bb1596045
 1 NAME Elizabeth /Hammond/
@@ -3411,6 +3737,209 @@
 2 SOUR @91JIXBEJQz6bVLkVlmAF@
 2 NOTE says Edenton, Albermarell, NC???
 1 _XY 14925.00 350.00
+0 @I492@ INDI
+1 REFN 718d9c03-ad82-45e6-8393-e644e3d3a489
+1 NAME Sarah Ann /Head/
+2 SOUR @S212@
+3 PAGE Year: 1850; Census Place: Madison, Madison, New York; Roll
+4 CONC : M432_527; Page: 74B; Image: 296
+3 OBJE @M339@
+3 _APID 1,8054::7054863
+2 SOUR @S209@
+3 PAGE Year: 1860; Census Place: Madison, Madison, New York; Roll
+4 CONC : M653_781; Page: 1062; Family History Library Film: 803781
+3 OBJE @M340@
+3 _APID 1,7667::49468668
+2 SOUR @S231@
+3 PAGE Year: 1870; Census Place: Madison, Madison, New York; Roll
+4 CONC : M593_968; Page: 414A; Family History Library Film: 552467
+3 OBJE @M341@
+3 _APID 1,7163::29832304
+2 SOUR @MYPTYwXjROCnuswpONVl@
+3 PAGE Year: 1900; Census Place: Madison, Madison, New York; Page
+4 CONC : 1; Enumeration District: 0023; FHL microfilm: 1241072
+3 OBJE @M344@
+3 _APID 1,7602::66523269
+2 SOUR @S280@
+3 PAGE New England Historic Genealogical Society; Boston, Massachus
+4 CONC etts; Massachusetts Vital Records, 1840–1911
+3 OBJE @M378@
+3 _APID 1,2101::460161
+2 SOUR @S211@
+3 OBJE @M338@
+3 _APID 1,7181::1653712697
+2 SOUR @W3ek4ErgQoOvxC5sOB5w@
+3 OBJE @M342@
+3 _APID 1,7250::1365922601
+2 SOUR @S220@
+3 OBJE @eM2uyuUHSLyJIutzAPx7@
+3 _APID 1,3212::3148065
+2 SOUR @S242@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1905; Election District: E.D. 01; City
+4 CONC : Madison; County: Madison; Page: 5
+3 OBJE @AtUG3M5QRZWkRjvHf5Qt@
+3 _APID 1,7364::4299748
+1 SEX F
+1 FAMC @F409@
+1 FAMS @F395@
+1 FAMS @F396@
+1 BIRT
+2 DATE 08 OCT 1823
+2 PLAC Madison, Madison, New York, USA
+3 MAP
+4 LATI N42.899
+4 LONG W75.5121
+2 SOUR @S212@
+3 PAGE Year: 1850; Census Place: Madison, Madison, New York; Roll
+4 CONC : M432_527; Page: 74B; Image: 296
+3 OBJE @M339@
+3 _APID 1,8054::7054863
+2 SOUR @S209@
+3 PAGE Year: 1860; Census Place: Madison, Madison, New York; Roll
+4 CONC : M653_781; Page: 1062; Family History Library Film: 803781
+3 OBJE @M340@
+3 _APID 1,7667::49468668
+2 SOUR @S231@
+3 PAGE Year: 1870; Census Place: Madison, Madison, New York; Roll
+4 CONC : M593_968; Page: 414A; Family History Library Film: 552467
+3 OBJE @M341@
+3 _APID 1,7163::29832304
+2 SOUR @MYPTYwXjROCnuswpONVl@
+3 PAGE Year: 1900; Census Place: Madison, Madison, New York; Page
+4 CONC : 1; Enumeration District: 0023; FHL microfilm: 1241072
+3 OBJE @M344@
+3 _APID 1,7602::66523269
+2 SOUR @S280@
+3 PAGE New England Historic Genealogical Society; Boston, Massachus
+4 CONC etts; Massachusetts Vital Records, 1840–1911
+3 OBJE @M378@
+3 _APID 1,2101::460161
+2 SOUR @S211@
+3 OBJE @M338@
+3 _APID 1,7181::1653712697
+2 SOUR @W3ek4ErgQoOvxC5sOB5w@
+3 OBJE @M342@
+3 _APID 1,7250::1365922601
+2 SOUR @S220@
+3 OBJE @eM2uyuUHSLyJIutzAPx7@
+3 _APID 1,3212::3148065
+2 SOUR @S242@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1905; Election District: E.D. 01; City
+4 CONC : Madison; County: Madison; Page: 5
+3 OBJE @AtUG3M5QRZWkRjvHf5Qt@
+3 _APID 1,7364::4299748
+1 RESI
+2 DATE 1850
+2 PLAC Madison, Madison, New York, USA
+3 MAP
+4 LATI N42.899
+4 LONG W75.5121
+2 SOUR @S212@
+3 PAGE Year: 1850; Census Place: Madison, Madison, New York; Roll
+4 CONC : M432_527; Page: 74B; Image: 296
+3 OBJE @M339@
+3 _APID 1,8054::7054863
+1 RESI
+2 DATE 1855
+2 PLAC Madison, Madison, New York, USA
+3 MAP
+4 LATI N42.899
+4 LONG W75.5121
+2 SOUR @S211@
+3 OBJE @M338@
+3 _APID 1,7181::1653712697
+2 NOTE Relation to Head: Wife
+1 RESI
+2 DATE 1860
+2 PLAC Madison, Madison, New York, USA
+3 MAP
+4 LATI N42.899
+4 LONG W75.5121
+2 SOUR @S209@
+3 PAGE Year: 1860; Census Place: Madison, Madison, New York; Roll
+4 CONC : M653_781; Page: 1062; Family History Library Film: 803781
+3 OBJE @M340@
+3 _APID 1,7667::49468668
+2 NOTE Residence Post Office: Madison
+1 RESI
+2 DATE 1870
+2 PLAC Madison, Madison, New York, USA
+3 MAP
+4 LATI N42.899
+4 LONG W75.5121
+2 SOUR @S231@
+3 PAGE Year: 1870; Census Place: Madison, Madison, New York; Roll
+4 CONC : M593_968; Page: 414A; Family History Library Film: 552467
+3 OBJE @M341@
+3 _APID 1,7163::29832304
+2 NOTE Residence Post Office: Madison
+1 RESI
+2 DATE 01 JUN 1875
+2 PLAC Madison, Madison, New York, USA
+3 MAP
+4 LATI N42.899
+4 LONG W75.5121
+2 SOUR @W3ek4ErgQoOvxC5sOB5w@
+3 OBJE @M342@
+3 _APID 1,7250::1365922601
+2 NOTE Relation to Head: Head
+1 RESI
+2 DATE 1892
+2 PLAC Madison, Madison, New York, USA
+3 MAP
+4 LATI N42.899
+4 LONG W75.5121
+2 SOUR @S220@
+3 OBJE @eM2uyuUHSLyJIutzAPx7@
+3 _APID 1,3212::3148065
+1 RESI
+2 DATE 1900
+2 PLAC Madison, Madison, New York, USA
+3 MAP
+4 LATI N42.899
+4 LONG W75.5121
+2 SOUR @MYPTYwXjROCnuswpONVl@
+3 PAGE Year: 1900; Census Place: Madison, Madison, New York; Page
+4 CONC : 1; Enumeration District: 0023; FHL microfilm: 1241072
+3 OBJE @M344@
+3 _APID 1,7602::66523269
+2 NOTE Marital Status: Married; Relation to Head: Head
+1 RESI
+2 DATE 1905
+2 PLAC Madison, Madison, New York, USA
+3 MAP
+4 LATI N42.899
+4 LONG W75.5121
+2 SOUR @S242@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1905; Election District: E.D. 01; City
+4 CONC : Madison; County: Madison; Page: 5
+3 OBJE @AtUG3M5QRZWkRjvHf5Qt@
+3 _APID 1,7364::4299748
+2 NOTE Relationship to Head: Head
+1 RESI
+2 DATE ABT 1907
+2 PLAC Lyon's Mill, Solsville, Madison, New York, USA
+1 DEAT just a guess
+2 DATE 09 JUN 1909
+2 PLAC Newton, Massachusetts, USA
+2 SOUR @S280@
+3 PAGE New England Historic Genealogical Society; Boston, Massachus
+4 CONC etts; Massachusetts Vital Records, 1840–1911
+3 OBJE @M378@
+3 _APID 1,2101::460161
+0 @I530@ INDI
+1 REFN cc206b4c-1557-4d83-bdb7-62266db44aaf
+1 NAME Uriah /Head/
+2 SOUR @S280@
+3 PAGE New England Historic Genealogical Society; Boston, Massachus
+4 CONC etts; Massachusetts Vital Records, 1840–1911
+3 OBJE @M378@
+3 _APID 1,2101::60460161
+1 SEX M
+1 FAMS @F409@
 0 @h5M4KeskRUONDuCELY95@ INDI
 1 REFN b6826b71-e991-4401-b3bb-aa7f4f18fe28
 1 NAME Dorcas Jane /Hicks/
@@ -3933,6 +4462,74 @@
 3 OBJE @AjYaeR8IQlqXWPWYsvfN@
 3 _APID 1,1624::2879577
 1 _XY 125.00 150.00
+0 @I511@ INDI
+1 REFN e1325cba-c2a0-4344-9af8-9a6418bdb029
+1 NAME Ward /Hogeboom/
+2 SOUR @S217@
+3 PAGE Year: 1880; Census Place: Grand Rapids, Kent, Michigan; Roll
+4 CONC : 588; Page: 439A; Enumeration District: 145
+3 OBJE @M351@
+3 _APID 1,6742::31372322
+2 SOUR @S270@
+3 PAGE Michigan Department of Community Health, Division of Vital R
+4 CONC ecords and Health Statistics; Lansing, MI, USA; Michigan, Ma
+4 CONC rriage Records, 1867-1952; Film: 17; Film Description: 187
+4 CONC 8 Washtenaw-1879 Lake
+3 OBJE @M352@
+3 _APID 1,9093::887520
+2 SOUR @S271@
+3 _APID 1,70330::231756
+1 SEX M
+1 FAMS @F405@
+1 BIRT
+2 DATE ABT 1850
+2 PLAC Canada
+2 SOUR @S217@
+3 PAGE Year: 1880; Census Place: Grand Rapids, Kent, Michigan; Roll
+4 CONC : 588; Page: 439A; Enumeration District: 145
+3 OBJE @M351@
+3 _APID 1,6742::31372322
+2 SOUR @S270@
+3 PAGE Michigan Department of Community Health, Division of Vital R
+4 CONC ecords and Health Statistics; Lansing, MI, USA; Michigan, Ma
+4 CONC rriage Records, 1867-1952; Film: 17; Film Description: 187
+4 CONC 8 Washtenaw-1879 Lake
+3 OBJE @M352@
+3 _APID 1,9093::887520
+1 RESI
+2 DATE 1880
+2 PLAC Grand Rapids, Kent, Michigan, USA
+3 MAP
+4 LATI N42.9634
+4 LONG W85.6681
+2 SOUR @S217@
+3 PAGE Year: 1880; Census Place: Grand Rapids, Kent, Michigan; Roll
+4 CONC : 588; Page: 439A; Enumeration District: 145
+3 OBJE @M351@
+3 _APID 1,6742::31372322
+2 NOTE Marital Status: Married; Relation to Head: Self
+1 RESI
+2 PLAC Grand Rapids, Kent, Michigan, USA
+3 MAP
+4 LATI N42.9634
+4 LONG W85.6681
+2 SOUR @S270@
+3 PAGE Michigan Department of Community Health, Division of Vital R
+4 CONC ecords and Health Statistics; Lansing, MI, USA; Michigan, Ma
+4 CONC rriage Records, 1867-1952; Film: 17; Film Description: 187
+4 CONC 8 Washtenaw-1879 Lake
+3 OBJE @M352@
+3 _APID 1,9093::887520
+0 @I531@ INDI
+1 REFN d7bbcbde-f613-4080-a07a-61775bd14f25
+1 NAME Betsey /Howland/
+2 SOUR @S280@
+3 PAGE New England Historic Genealogical Society; Boston, Massachus
+4 CONC etts; Massachusetts Vital Records, 1840–1911
+3 OBJE @M378@
+3 _APID 1,2101::75460161
+1 SEX F
+1 FAMS @F409@
 0 @iSrKGCkOQRaTUmSLmnq9@ INDI
 1 REFN b32b84e8-e499-426d-9de9-500a8c029b0a
 1 NAME Elizabeth /Howland/
@@ -3940,6 +4537,427 @@
 1 FAMS @pGnmmMiMSKqZdIGkQRyU@
 1 FAMS @9GfyXMWARWSaqCWX3xZ7@
 1 _XY 1125.00 150.00
+0 @I518@ INDI
+1 REFN 82700566-7c32-4f20-8453-480b8928a2d9
+1 NAME Charles O. /Jeffords/
+2 SOUR @MYPTYwXjROCnuswpONVl@
+3 PAGE Year: 1900; Census Place: Grand Rapids Ward 4, Kent, Michiga
+4 CONC n; Page: 12; Enumeration District: 0058; FHL microfilm: 1240
+4 CONC 722
+3 OBJE @M364@
+3 _APID 1,7602::64527666
+2 SOUR @S222@
+3 PAGE Year: 1910; Census Place: Detroit Ward 4, Wayne, Michigan; R
+4 CONC oll: T624_681; Page: 3A; Enumeration District: 0058; FHL mic
+4 CONC rofilm: 1374694
+3 OBJE @M363@
+3 _APID 1,7884::12694253
+2 SOUR @S213@
+3 PAGE Year: 1920; Census Place: Kalamazoo Ward 3, Kalamazoo, Michi
+4 CONC gan; Roll: T625_775; Page: 7B; Enumeration District: 164
+3 OBJE @M362@
+3 _APID 1,6061::40199013
+2 SOUR @S274@
+3 _APID 1,2549::332964
+2 SOUR @S281@
+3 OBJE @M365@
+2 SOUR @S281@
+3 OBJE @M366@
+1 SEX M
+1 FAMS @F407@
+1 BIRT
+2 DATE 14 JUN 1857
+2 PLAC Michigan, USA
+3 MAP
+4 LATI N44.5917
+4 LONG W85.025
+2 SOUR @MYPTYwXjROCnuswpONVl@
+3 PAGE Year: 1900; Census Place: Grand Rapids Ward 4, Kent, Michiga
+4 CONC n; Page: 12; Enumeration District: 0058; FHL microfilm: 1240
+4 CONC 722
+3 OBJE @M364@
+3 _APID 1,7602::64527666
+2 SOUR @S222@
+3 PAGE Year: 1910; Census Place: Detroit Ward 4, Wayne, Michigan; R
+4 CONC oll: T624_681; Page: 3A; Enumeration District: 0058; FHL mic
+4 CONC rofilm: 1374694
+3 OBJE @M363@
+3 _APID 1,7884::12694253
+2 SOUR @S213@
+3 PAGE Year: 1920; Census Place: Kalamazoo Ward 3, Kalamazoo, Michi
+4 CONC gan; Roll: T625_775; Page: 7B; Enumeration District: 164
+3 OBJE @M362@
+3 _APID 1,6061::40199013
+2 SOUR @S274@
+3 _APID 1,2549::332964
+1 RESI
+2 DATE 1900
+2 PLAC Grand Rapids, Kent, Michigan, USA
+3 MAP
+4 LATI N42.9634
+4 LONG W85.6681
+2 SOUR @MYPTYwXjROCnuswpONVl@
+3 PAGE Year: 1900; Census Place: Grand Rapids Ward 4, Kent, Michiga
+4 CONC n; Page: 12; Enumeration District: 0058; FHL microfilm: 1240
+4 CONC 722
+3 OBJE @M364@
+3 _APID 1,7602::64527666
+2 NOTE Marital Status: Married; Relation to Head: Head
+1 RESI
+2 DATE 1910
+2 PLAC Detroit, Wayne, Michigan, USA
+3 MAP
+4 LATI N42.3314
+4 LONG W83.0458
+2 SOUR @S222@
+3 PAGE Year: 1910; Census Place: Detroit Ward 4, Wayne, Michigan; R
+4 CONC oll: T624_681; Page: 3A; Enumeration District: 0058; FHL mic
+4 CONC rofilm: 1374694
+3 OBJE @M363@
+3 _APID 1,7884::12694253
+2 NOTE Marital Status: Married; Relation to Head of House: Head
+1 RESI
+2 DATE 1920
+2 PLAC Kalamazoo, Kalamazoo, Michigan, USA
+3 MAP
+4 LATI N42.2917
+4 LONG W85.5872
+2 SOUR @S213@
+3 PAGE Year: 1920; Census Place: Kalamazoo Ward 3, Kalamazoo, Michi
+4 CONC gan; Roll: T625_775; Page: 7B; Enumeration District: 164
+3 OBJE @M362@
+3 _APID 1,6061::40199013
+2 NOTE Relation to Head: Head; Residence Marital Status: Married
+1 RESI
+2 DATE 1924
+2 PLAC Kalamazoo, Michigan, USA
+3 MAP
+4 LATI N42.2449
+4 LONG W85.5299
+2 SOUR @S281@
+3 OBJE @M366@
+3 _APID 1,2469::416044214
+1 RESI
+2 DATE 1926
+2 PLAC Kalamazoo, Michigan, USA
+3 MAP
+4 LATI N42.2449
+4 LONG W85.5299
+2 SOUR @S281@
+3 OBJE @M365@
+3 _APID 1,2469::417983016
+1 DEAT
+2 DATE 03 JAN 1936
+2 PLAC Kalamazoo, Kalamazoo, Michigan, USA
+3 MAP
+4 LATI N42.2917
+4 LONG W85.5872
+2 SOUR @S274@
+3 _APID 1,2549::332964
+1 BURI
+2 DATE 04 JAN 1936
+2 SOUR @S274@
+3 _APID 1,2549::332964
+1 RESI
+2 PLAC Michigan, USA
+3 MAP
+4 LATI N44.5917
+4 LONG W85.025
+2 SOUR @S274@
+3 _APID 1,2549::332964
+2 NOTE Marital Status: Widowed
+0 @I536@ INDI
+1 REFN d7b9d9f7-f5d4-4d6f-8187-00e2146321ff
+1 NAME Moses /Jeffords/
+2 SOUR @S280@
+3 PAGE New England Historic Genealogical Society; Boston, Massachus
+4 CONC etts; Massachusetts Vital Records, 1840–1911
+3 OBJE @M397@
+3 _APID 1,2101::60973055
+1 SEX M
+1 FAMS @F414@
+1 BIRT
+2 PLAC Vermont, USA
+3 MAP
+4 LATI N43.8726
+4 LONG W71.55
+2 SOUR @S280@
+3 PAGE New England Historic Genealogical Society; Boston, Massachus
+4 CONC etts; Massachusetts Vital Records, 1840–1911
+3 OBJE @M397@
+3 _APID 1,2101::60973055
+0 @I533@ INDI
+1 REFN bdd409aa-c3d2-4661-9a10-3d10f3b40a31
+1 NAME Orrilla M. /Jeffords/
+2 SOUR @S212@
+3 PAGE Year: 1850; Census Place: Fulton, Oswego, New York; Roll: M4
+4 CONC 32_577; Page: 309B; Image: 117
+3 OBJE @M389@
+3 _APID 1,8054::8025760
+2 SOUR @S209@
+3 PAGE Year: 1860; Census Place: Volney, Oswego, New York; Roll: M6
+4 CONC 53_837; Page: 157; Family History Library Film: 803837
+3 OBJE @M396@
+3 _APID 1,7667::48682644
+2 SOUR @S231@
+3 PAGE Year: 1870; Census Place: Volney, Oswego, New York; Roll: M5
+4 CONC 93_1074; Page: 588B; Family History Library Film: 552573
+3 OBJE @M390@
+3 _APID 1,7163::31935506
+2 SOUR @S217@
+3 PAGE Year: 1880; Census Place: Fulton, Oswego, New York; Roll: 91
+4 CONC 5; Page: 220D; Enumeration District: 272
+3 OBJE @M394@
+3 _APID 1,6742::4681390
+2 SOUR @MYPTYwXjROCnuswpONVl@
+3 PAGE Year: 1900; Census Place: Newton Ward 5, Middlesex, Massachu
+4 CONC setts; Page: 4; Enumeration District: 0903; FHL microfilm: 1
+4 CONC 240664
+3 OBJE @M373@
+3 _APID 1,7602::48185474
+2 SOUR @S279@
+3 OBJE @M391@
+3 _APID 1,3659::3494973
+2 SOUR @S280@
+3 PAGE New England Historic Genealogical Society; Boston, Massachus
+4 CONC etts; Massachusetts Vital Records, 1840–1911
+3 OBJE @M397@
+3 _APID 1,2101::973055
+2 SOUR @S211@
+3 OBJE @M386@
+3 _APID 1,7181::1653868288
+2 SOUR @S226@
+3 OBJE @M393@
+3 _APID 1,7218::394048
+2 SOUR @W3ek4ErgQoOvxC5sOB5w@
+3 OBJE @M395@
+3 _APID 1,7250::1373759768
+2 SOUR @S220@
+3 OBJE @M392@
+3 _APID 1,3212::1542538
+2 SOUR @S241@
+2 SOUR @S241@
+1 SEX F
+1 FAMC @F414@
+1 FAMS @F412@
+1 FAMS @F413@
+1 BIRT
+2 DATE 20 JAN 1809
+2 PLAC Roxbury, Washington, Vermont, USA
+3 MAP
+4 LATI N44.0942
+4 LONG W72.7333
+2 SOUR @S212@
+3 PAGE Year: 1850; Census Place: Fulton, Oswego, New York; Roll: M4
+4 CONC 32_577; Page: 309B; Image: 117
+3 OBJE @M389@
+3 _APID 1,8054::8025760
+2 SOUR @S209@
+3 PAGE Year: 1860; Census Place: Volney, Oswego, New York; Roll: M6
+4 CONC 53_837; Page: 157; Family History Library Film: 803837
+3 OBJE @M396@
+3 _APID 1,7667::48682644
+2 SOUR @S231@
+3 PAGE Year: 1870; Census Place: Volney, Oswego, New York; Roll: M5
+4 CONC 93_1074; Page: 588B; Family History Library Film: 552573
+3 OBJE @M390@
+3 _APID 1,7163::31935506
+2 SOUR @S217@
+3 PAGE Year: 1880; Census Place: Fulton, Oswego, New York; Roll: 91
+4 CONC 5; Page: 220D; Enumeration District: 272
+3 OBJE @M394@
+3 _APID 1,6742::4681390
+2 SOUR @MYPTYwXjROCnuswpONVl@
+3 PAGE Year: 1900; Census Place: Newton Ward 5, Middlesex, Massachu
+4 CONC setts; Page: 4; Enumeration District: 0903; FHL microfilm: 1
+4 CONC 240664
+3 OBJE @M373@
+3 _APID 1,7602::48185474
+2 SOUR @S280@
+3 PAGE New England Historic Genealogical Society; Boston, Massachus
+4 CONC etts; Massachusetts Vital Records, 1840–1911
+3 OBJE @M397@
+3 _APID 1,2101::973055
+2 SOUR @S211@
+3 OBJE @M386@
+3 _APID 1,7181::1653868288
+2 SOUR @S226@
+3 OBJE @M393@
+3 _APID 1,7218::394048
+2 SOUR @W3ek4ErgQoOvxC5sOB5w@
+3 OBJE @M395@
+3 _APID 1,7250::1373759768
+2 SOUR @S220@
+3 OBJE @M392@
+3 _APID 1,3212::1542538
+2 SOUR @S241@
+3 _APID 1,60525::160826825
+1 RESI
+2 DATE 1850
+2 PLAC Fulton, Oswego, New York, USA
+3 MAP
+4 LATI N43.3228
+4 LONG W76.4172
+2 SOUR @S212@
+3 PAGE Year: 1850; Census Place: Fulton, Oswego, New York; Roll: M4
+4 CONC 32_577; Page: 309B; Image: 117
+3 OBJE @M389@
+3 _APID 1,8054::8025760
+1 RESI
+2 DATE 1855
+2 PLAC Volney, Oswego, New York, USA
+3 MAP
+4 LATI N43.3428
+4 LONG W76.3581
+2 SOUR @S211@
+3 OBJE @M386@
+3 _APID 1,7181::1653868288
+2 NOTE Relation to Head: Wife
+1 RESI
+2 DATE 1860
+2 PLAC Volney, Oswego, New York, USA
+3 MAP
+4 LATI N43.3428
+4 LONG W76.3581
+2 SOUR @S209@
+3 PAGE Year: 1860; Census Place: Volney, Oswego, New York; Roll: M6
+4 CONC 53_837; Page: 157; Family History Library Film: 803837
+3 OBJE @M396@
+3 _APID 1,7667::48682644
+2 NOTE Residence Post Office: Fulton
+1 RESI
+2 DATE 1865
+2 PLAC Volney, Oswego, New York, USA
+3 MAP
+4 LATI N43.3428
+4 LONG W76.3581
+2 SOUR @S226@
+3 OBJE @M393@
+3 _APID 1,7218::394048
+2 NOTE Relation to Head of House: Wife
+1 RESI
+2 DATE 1870
+2 PLAC Volney, Oswego, New York, USA
+3 MAP
+4 LATI N43.3428
+4 LONG W76.3581
+2 SOUR @S231@
+3 PAGE Year: 1870; Census Place: Volney, Oswego, New York; Roll: M5
+4 CONC 93_1074; Page: 588B; Family History Library Film: 552573
+3 OBJE @M390@
+3 _APID 1,7163::31935506
+2 NOTE Residence Post Office: Fulton
+1 RESI
+2 DATE 01 JUN 1875
+2 PLAC Volney, Oswego, New York, USA
+3 MAP
+4 LATI N43.3428
+4 LONG W76.3581
+2 SOUR @W3ek4ErgQoOvxC5sOB5w@
+3 OBJE @M395@
+3 _APID 1,7250::1373759768
+2 NOTE Relation to Head: Wife [sic]
+1 RESI
+2 DATE 1880
+2 PLAC Fulton, Oswego, New York, USA
+3 MAP
+4 LATI N43.3228
+4 LONG W76.4172
+2 SOUR @S217@
+3 PAGE Year: 1880; Census Place: Fulton, Oswego, New York; Roll: 91
+4 CONC 5; Page: 220D; Enumeration District: 272
+3 OBJE @M394@
+3 _APID 1,6742::4681390
+2 NOTE Marital Status: Married; Relation to Head: Wife
+1 RESI
+2 DATE 1892
+2 PLAC Volney, Oswego, New York, USA
+3 MAP
+4 LATI N43.3428
+4 LONG W76.3581
+2 SOUR @S220@
+3 OBJE @M392@
+3 _APID 1,3212::1542538
+1 RESI
+2 DATE 1900
+2 PLAC Newton, Middlesex, Massachusetts, USA
+3 MAP
+4 LATI N42.337
+4 LONG W71.2092
+2 SOUR @MYPTYwXjROCnuswpONVl@
+3 PAGE Year: 1900; Census Place: Newton Ward 5, Middlesex, Massachu
+4 CONC setts; Page: 4; Enumeration District: 0903; FHL microfilm: 1
+4 CONC 240664
+3 OBJE @M373@
+3 _APID 1,7602::48185474
+2 NOTE Marital Status: Widowed; Relation to Head: Mother
+1 DEAT
+2 DATE 21 NOV 1905
+2 PLAC Newton, Middlesex, Massachusetts, USA
+3 MAP
+4 LATI N42.337
+4 LONG W71.2092
+2 SOUR @S279@
+3 OBJE @M391@
+3 _APID 1,3659::3494973
+2 SOUR @S280@
+3 PAGE New England Historic Genealogical Society; Boston, Massachus
+4 CONC etts; Massachusetts Vital Records, 1840–1911
+3 OBJE @M397@
+3 _APID 1,2101::973055
+2 SOUR @S241@
+3 _APID 1,60525::136333976
+1 BURI
+2 PLAC Fulton, Oswego, New York, USA
+3 MAP
+4 LATI N43.3228
+4 LONG W76.4172
+1 BURI
+2 PLAC Newton, Middlesex, Massachusetts, USA
+3 MAP
+4 LATI N42.337
+4 LONG W71.2092
+2 SOUR @S241@
+3 _APID 1,60525::136333976
+0 @I503@ INDI
+1 REFN ad54495e-be65-49ba-9033-206c3f012b1d
+1 NAME Jerusha M. //
+2 SOUR @S212@
+3 PAGE 1850 United States Federal Census Record
+3 OBJE @M345@
+2 SOUR @S211@
+3 OBJE @M338@
+1 SEX F
+1 FAMS @F402@
+1 BIRT
+2 DATE ABT 1828
+2 PLAC Madison, New York, USA
+3 MAP
+4 LATI N42.9118
+4 LONG W75.6682
+2 SOUR @S212@
+3 PAGE 1850 United States Federal Census Record
+3 OBJE @M345@
+2 SOUR @S211@
+3 OBJE @M338@
+1 RESI
+2 DATE 1850
+2 PLAC Madison, Madison, New York, USA
+3 MAP
+4 LATI N42.899
+4 LONG W75.5121
+2 SOUR @S212@
+3 PAGE 1850 United States Federal Census Record
+3 OBJE @M345@
+1 RESI
+2 DATE 1855
+2 PLAC Madison, Madison, New York, USA
+3 MAP
+4 LATI N42.899
+4 LONG W75.5121
+2 SOUR @S211@
+3 OBJE @M338@
+2 NOTE Relation to Head: Wife
 0 @zlwAoaDXRNGXOAHagIRm@ INDI
 1 REFN 6f50193f-3121-44a2-b7be-68e71eab0975
 1 NAME Marjorie /Johnson/
@@ -3964,6 +4982,142 @@
 2 SOUR @91JIXBEJQz6bVLkVlmAF@
 2 NOTE Is given in many sources as "1646" or "1647".
 1 _XY 5275.00 375.00
+0 @I513@ INDI
+1 REFN b744293f-a55a-469c-ac76-0a10a26f1982
+1 NAME Julia A. //
+2 SOUR @S212@
+3 PAGE Year: 1850; Census Place: Sterling, Macomb, Michigan; Roll
+4 CONC : M432_357; Page: 169A; Image: 337
+3 OBJE @M355@
+3 _APID 1,8054::3166262
+2 SOUR @S209@
+3 PAGE Year: 1860; Census Place: Oswego Ward 1, Oswego, New York; R
+4 CONC oll: M653_839; Page: 954; Family History Library Film: 80383
+4 CONC 9
+3 OBJE @M354@
+3 _APID 1,7667::47786602
+2 SOUR @S217@
+3 PAGE Year: 1880; Census Place: Grand Rapids, Kent, Michigan; Roll
+4 CONC : 588; Page: 439A; Enumeration District: 145
+3 OBJE @M351@
+3 _APID 1,6742::31731549
+2 SOUR @S272@
+3 PAGE Michigan Department of Community Health, Division for Vita
+4 CONC l Records and Health Statistics; Lansing, Michigan; Death Re
+4 CONC cords
+3 OBJE @M356@
+3 _APID 1,60872::752479528
+2 SOUR @S211@
+3 PAGE New York, State Census, 1855 Record
+3 OBJE @M353@
+3 _APID 1,7181::1655669852
+2 SOUR @S281@
+3 OBJE @M357@
+2 SOUR @S281@
+3 OBJE @M358@
+1 SEX F
+1 FAMS @F406@
+1 BIRT
+2 DATE ABT 1830
+2 PLAC Oneida, New York, USA
+3 MAP
+4 LATI N43.2406
+4 LONG W75.4381
+2 SOUR @S212@
+3 PAGE Year: 1850; Census Place: Sterling, Macomb, Michigan; Roll
+4 CONC : M432_357; Page: 169A; Image: 337
+3 OBJE @M355@
+3 _APID 1,8054::3166262
+2 SOUR @S209@
+3 PAGE Year: 1860; Census Place: Oswego Ward 1, Oswego, New York; R
+4 CONC oll: M653_839; Page: 954; Family History Library Film: 80383
+4 CONC 9
+3 OBJE @M354@
+3 _APID 1,7667::47786602
+2 SOUR @S217@
+3 PAGE Year: 1880; Census Place: Grand Rapids, Kent, Michigan; Roll
+4 CONC : 588; Page: 439A; Enumeration District: 145
+3 OBJE @M351@
+3 _APID 1,6742::31731549
+2 SOUR @S211@
+3 PAGE New York, State Census, 1855 Record
+3 OBJE @M353@
+3 _APID 1,7181::1655669852
+1 RESI
+2 DATE 1850
+2 PLAC Sterling, Macomb, Michigan, USA
+3 MAP
+4 LATI N44.0333
+4 LONG W84.0234
+2 SOUR @S212@
+3 PAGE Year: 1850; Census Place: Sterling, Macomb, Michigan; Roll
+4 CONC : M432_357; Page: 169A; Image: 337
+3 OBJE @M355@
+3 _APID 1,8054::3166262
+1 RESI
+2 DATE 1855
+2 PLAC Hamilton, Madison, New York, USA
+3 MAP
+4 LATI N42.827
+4 LONG W75.5446
+2 SOUR @S211@
+3 PAGE New York, State Census, 1855 Record
+3 OBJE @M353@
+3 _APID 1,7181::1655669852
+2 NOTE Relation to Head: Wife
+1 RESI
+2 DATE 1860
+2 PLAC Oswego, Oswego, New York, USA
+3 MAP
+4 LATI N43.4553
+4 LONG W76.5105
+2 SOUR @S209@
+3 PAGE Year: 1860; Census Place: Oswego Ward 1, Oswego, New York; R
+4 CONC oll: M653_839; Page: 954; Family History Library Film: 80383
+4 CONC 9
+3 OBJE @M354@
+3 _APID 1,7667::47786602
+2 NOTE Residence Post Office: Oswego
+1 RESI
+2 DATE 1880
+2 PLAC Grand Rapids, Kent, Michigan, USA
+3 MAP
+4 LATI N42.9634
+4 LONG W85.6681
+2 SOUR @S217@
+3 PAGE Year: 1880; Census Place: Grand Rapids, Kent, Michigan; Roll
+4 CONC : 588; Page: 439A; Enumeration District: 145
+3 OBJE @M351@
+3 _APID 1,6742::31731549
+2 NOTE Marital Status: Widowed; Relation to Head: Mother
+1 RESI
+2 DATE 1881
+2 PLAC Grand Rapids, Kent, Michigan, USA
+3 MAP
+4 LATI N42.9634
+4 LONG W85.6681
+2 SOUR @S281@
+3 OBJE @M358@
+3 _APID 1,2469::430355531
+1 RESI
+2 DATE 1882
+2 PLAC Grand Rapids, Kent, Michigan, USA
+3 MAP
+4 LATI N42.9634
+4 LONG W85.6681
+2 SOUR @S281@
+3 OBJE @M357@
+3 _APID 1,2469::451425866
+0 @I537@ INDI
+1 REFN 93ebd559-b931-4a51-afb1-ae1258c187cc
+1 NAME Mary /Kandall/
+2 SOUR @S280@
+3 PAGE New England Historic Genealogical Society; Boston, Massachus
+4 CONC etts; Massachusetts Vital Records, 1840–1911
+3 OBJE @M397@
+3 _APID 1,2101::75973055
+1 SEX F
+1 FAMS @F414@
 0 @FPPIsiAiRj25r0wHZ6ga@ INDI
 1 REFN 69737d5b-5a17-4c2d-a18e-6d8d3a41b0f6
 1 NAME Elizabeth /Kendall/
@@ -3989,6 +5143,45 @@
 2 SOUR @nYBSdideQ5ySmVqtWTkY@
 3 QUAY 1
 1 _XY 4725.00 375.00
+0 @I491@ INDI
+1 REFN 4955558a-0982-4985-8a8e-255a5864dbf2
+1 NAME Benjamin F. /Lawton/
+2 SOUR @S209@
+3 PAGE 1860 United States Federal Census Record
+3 OBJE @M340@
+3 _APID 1,7667::49468667
+2 SOUR @S276@
+3 _APID 1,3564::21352948
+2 SOUR @S211@
+3 OBJE @M343@
+3 _APID 1,7181::1653741903
+1 SEX M
+2 SOUR @S209@
+3 _APID 1,7667::49468667
+1 FAMS @F396@
+1 BIRT
+2 DATE ABT 1828
+2 PLAC Madison, New York, USA
+3 MAP
+4 LATI N42.9118
+4 LONG W75.6682
+2 SOUR @S209@
+3 PAGE 1860 United States Federal Census Record
+3 OBJE @M340@
+3 _APID 1,7667::49468667
+2 SOUR @S211@
+3 OBJE @M343@
+3 _APID 1,7181::1653741903
+1 RESI
+2 DATE 1855
+2 PLAC Madison, Madison, New York, USA
+3 MAP
+4 LATI N42.899
+4 LONG W75.5121
+2 SOUR @S211@
+3 OBJE @M343@
+3 _APID 1,7181::1653741903
+2 NOTE Relation to Head: Servant
 0 @FZhMVYMrTGakG3DJ9vJF@ INDI
 1 REFN 7ad9d023-909b-400d-b59c-c39118c83669
 1 NAME Elizabeth /Lee/
@@ -4160,6 +5353,11 @@
 3 DATA
 4 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=60921
 5 CONC 378&pid=49
+2 SOUR @S203@
+3 PAGE New York State Department of Health; Albany, NY, USA; New Yo
+4 CONC rk State Marriage Index
+3 OBJE @M374@
+3 _APID 1,61632::1374326
 2 SOUR @S208@
 3 OBJE @M331@
 3 _APID 1,61377::1200142590
@@ -4172,6 +5370,25 @@
 1 NOTE _XY 895 30  _UID 3c6192e8-944e-40cc-87dc-f5cea120d2ec
 1 BIRT
 2 DATE MAR 1856
+2 SOUR @S217@
+3 PAGE Year: 1880; Census Place: Madison, Madison, New York; Roll
+4 CONC : 860; Family History Film: 1254860; Page: 335A; Enumeratio
+4 CONC n District: 068; Image: 0519
+3 OBJE @j9qnR3OISnGHoXrvNfSI@
+3 _APID 1,6742::3314456
+1 RESI
+2 DATE 1880
+2 PLAC Madison, Madison, New York, USA
+3 MAP
+4 LATI N42.899
+4 LONG W75.5121
+2 SOUR @S217@
+3 PAGE Year: 1880; Census Place: Madison, Madison, New York; Roll
+4 CONC : 860; Family History Film: 1254860; Page: 335A; Enumeratio
+4 CONC n District: 068; Image: 0519
+3 OBJE @j9qnR3OISnGHoXrvNfSI@
+3 _APID 1,6742::3314456
+2 NOTE Marital Status: Married; Relation to Head: Wife
 1 DEAT
 2 DATE 09 MAR 1901
 1 _XY 7225.00 1775.00
@@ -4909,7 +6126,7 @@
 4 CONC strict: 01; City: Elmira Ward 11; County: Chemung; Page: 6
 3 OBJE @a0Yt9lrnRgKtHGFVjf58@
 3 _APID 1,2704::23644102
-2 SOUR @w6oneCDaTyySwwZ0y6W9@
+2 SOUR @S281@
 3 OBJE @v4zo9xFfTK2aXOXO30fv@
 3 _APID 1,2469::51729880
 2 SOUR @S241@
@@ -4982,7 +6199,7 @@
 3 MAP
 4 LATI N42.0898
 4 LONG W76.8077
-2 SOUR @w6oneCDaTyySwwZ0y6W9@
+2 SOUR @S281@
 3 OBJE @v4zo9xFfTK2aXOXO30fv@
 3 _APID 1,2469::51729880
 1 RESI
@@ -11562,6 +12779,169 @@
 1 FAMC @F300@
 1 NOTE there may be two Tristrams
 1 _XY 6775.00 225.00
+0 @I534@ INDI
+1 REFN 8088567f-0d9e-4286-9d32-c216823b920a
+1 NAME John /Morway/
+2 SOUR @S212@
+3 PAGE Year: 1850; Census Place: Fulton, Oswego, New York; Roll: M4
+4 CONC 32_577; Page: 309B; Image: 117
+3 OBJE @M389@
+3 _APID 1,8054::8025759
+2 SOUR @S209@
+3 PAGE Year: 1860; Census Place: Volney, Oswego, New York; Roll: M6
+4 CONC 53_837; Page: 157; Family History Library Film: 803837
+3 OBJE @M396@
+3 _APID 1,7667::48682643
+2 SOUR @S231@
+3 PAGE Year: 1870; Census Place: Volney, Oswego, New York; Roll: M5
+4 CONC 93_1074; Page: 588B; Family History Library Film: 552573
+3 OBJE @M390@
+3 _APID 1,7163::31935505
+2 SOUR @S217@
+3 PAGE Year: 1880; Census Place: Fulton, Oswego, New York; Roll: 91
+4 CONC 5; Page: 220D; Enumeration District: 272
+3 OBJE @M394@
+3 _APID 1,6742::3621117
+2 SOUR @S214@
+3 PAGE New York Department of Health; Albany, NY; NY State Death In
+4 CONC dex
+3 OBJE @M399@
+3 _APID 1,61535::968348
+2 SOUR @S211@
+3 OBJE @M386@
+3 _APID 1,7181::1653868287
+2 SOUR @S226@
+3 OBJE @M393@
+3 _APID 1,7218::394046
+2 SOUR @S220@
+3 OBJE @M392@
+3 _APID 1,3212::1542537
+2 SOUR @S241@
+3 _APID 1,60525::160826778
+1 SEX M
+1 FAMS @F412@
+1 BIRT
+2 DATE 18 JUN 1825
+2 SOUR @S212@
+3 PAGE Year: 1850; Census Place: Fulton, Oswego, New York; Roll: M4
+4 CONC 32_577; Page: 309B; Image: 117
+3 OBJE @M389@
+3 _APID 1,8054::8025759
+2 SOUR @S209@
+3 PAGE Year: 1860; Census Place: Volney, Oswego, New York; Roll: M6
+4 CONC 53_837; Page: 157; Family History Library Film: 803837
+3 OBJE @M396@
+3 _APID 1,7667::48682643
+2 SOUR @S231@
+3 PAGE Year: 1870; Census Place: Volney, Oswego, New York; Roll: M5
+4 CONC 93_1074; Page: 588B; Family History Library Film: 552573
+3 OBJE @M390@
+3 _APID 1,7163::31935505
+2 SOUR @S211@
+3 OBJE @M386@
+3 _APID 1,7181::1653868287
+2 SOUR @S226@
+3 OBJE @M393@
+3 _APID 1,7218::394046
+2 SOUR @S220@
+3 OBJE @M392@
+3 _APID 1,3212::1542537
+2 SOUR @S241@
+3 _APID 1,60525::160826778
+1 BIRT
+2 DATE ABT 1823
+2 PLAC Canada
+1 RESI
+2 DATE 1850
+2 PLAC Fulton, Oswego, New York, USA
+3 MAP
+4 LATI N43.3228
+4 LONG W76.4172
+2 SOUR @S212@
+3 PAGE Year: 1850; Census Place: Fulton, Oswego, New York; Roll: M4
+4 CONC 32_577; Page: 309B; Image: 117
+3 OBJE @M389@
+3 _APID 1,8054::8025759
+1 RESI
+2 DATE 1855
+2 PLAC Volney, Oswego, New York, USA
+3 MAP
+4 LATI N43.3428
+4 LONG W76.3581
+2 SOUR @S211@
+3 OBJE @M386@
+3 _APID 1,7181::1653868287
+2 NOTE Relation to Head: Head
+1 RESI
+2 DATE 1860
+2 PLAC Volney, Oswego, New York, USA
+3 MAP
+4 LATI N43.3428
+4 LONG W76.3581
+2 SOUR @S209@
+3 PAGE Year: 1860; Census Place: Volney, Oswego, New York; Roll: M6
+4 CONC 53_837; Page: 157; Family History Library Film: 803837
+3 OBJE @M396@
+3 _APID 1,7667::48682643
+2 NOTE Residence Post Office: Fulton
+1 RESI
+2 DATE 1865
+2 PLAC Volney, Oswego, New York, USA
+3 MAP
+4 LATI N43.3428
+4 LONG W76.3581
+2 SOUR @S226@
+3 OBJE @M393@
+3 _APID 1,7218::394046
+2 NOTE Relation to Head of House: Head
+1 RESI
+2 DATE 1870
+2 PLAC Volney, Oswego, New York, USA
+3 MAP
+4 LATI N43.3428
+4 LONG W76.3581
+2 SOUR @S231@
+3 PAGE Year: 1870; Census Place: Volney, Oswego, New York; Roll: M5
+4 CONC 93_1074; Page: 588B; Family History Library Film: 552573
+3 OBJE @M390@
+3 _APID 1,7163::31935505
+2 NOTE Residence Post Office: Fulton
+1 RESI
+2 DATE 1880
+2 PLAC Fulton, Oswego, New York, USA
+3 MAP
+4 LATI N43.3228
+4 LONG W76.4172
+2 NOTE Marital Status: Married; Relation to Head: Self
+1 RESI
+2 DATE 1892
+2 PLAC Volney, Oswego, New York, USA
+3 MAP
+4 LATI N43.3428
+4 LONG W76.3581
+2 SOUR @S220@
+3 OBJE @M392@
+3 _APID 1,3212::1542537
+1 DEAT
+2 DATE 10 JUN 1894
+2 PLAC Fulton, Oswego, New York, USA
+3 MAP
+4 LATI N43.3228
+4 LONG W76.4172
+2 SOUR @S214@
+3 PAGE New York Department of Health; Albany, NY; NY State Death In
+4 CONC dex
+3 OBJE @M399@
+3 _APID 1,61535::968348
+2 SOUR @S241@
+3 _APID 1,60525::160826778
+1 BURI
+2 PLAC Fulton, Oswego, New York, USA
+3 MAP
+4 LATI N43.3228
+4 LONG W76.4172
+2 SOUR @S241@
+3 _APID 1,60525::160826778
 0 @DOLZ0VhPS5aeZqKyaadC@ INDI
 1 REFN 8507ada9-7ff0-48a5-8fbe-af74f86a9cbb
 1 NAME Abigail /Mosher/
@@ -11609,6 +12989,149 @@
 4 TEXT d. ... __2, 1826, ae 74y 2m.
 2 NOTE interpreted as Feb [14] 1826/7
 1 _XY 8075.00 1075.00
+0 @I527@ INDI
+1 REFN 442e371f-573d-40f1-8258-802a91baed0b
+1 NAME Albert G. /Mosher/
+2 SOUR @S209@
+3 PAGE Year: 1860; Census Place: Chicago Ward 1, Cook, Illinois; Ro
+4 CONC ll: M653_164; Page: 237; Family History Library Film: 803164
+3 OBJE @M379@
+3 _APID 1,7667::37312268
+1 SEX M
+1 FAMC @F408@
+1 BIRT
+2 DATE ABT 1847
+2 PLAC New York, USA
+3 MAP
+4 LATI N42.7531
+4 LONG W74.2224
+2 SOUR @S209@
+3 PAGE Year: 1860; Census Place: Chicago Ward 1, Cook, Illinois; Ro
+4 CONC ll: M653_164; Page: 237; Family History Library Film: 803164
+3 OBJE @M379@
+3 _APID 1,7667::37312268
+1 RESI
+2 DATE 1860
+2 PLAC Chicago, Cook, Illinois, USA
+3 MAP
+4 LATI N41.85
+4 LONG W87.6501
+2 SOUR @S209@
+3 PAGE Year: 1860; Census Place: Chicago Ward 1, Cook, Illinois; Ro
+4 CONC ll: M653_164; Page: 237; Family History Library Film: 803164
+3 OBJE @M379@
+3 _APID 1,7667::37312268
+2 NOTE Residence Post Office: Chicago
+0 @I512@ INDI
+1 REFN d0fe8076-945c-443b-b6d9-077f93a92372
+1 NAME Alonzo /Mosher/
+2 SOUR @S212@
+3 PAGE Year: 1850; Census Place: Sterling, Macomb, Michigan; Roll
+4 CONC : M432_357; Page: 169A; Image: 337
+3 OBJE @M355@
+3 _APID 1,8054::3166263
+2 SOUR @S209@
+3 PAGE Year: 1860; Census Place: Oswego Ward 1, Oswego, New York; R
+4 CONC oll: M653_839; Page: 954; Family History Library Film: 80383
+4 CONC 9
+3 OBJE @M354@
+3 _APID 1,7667::47786603
+2 SOUR @S211@
+3 PAGE New York, State Census, 1855 Record
+3 OBJE @M353@
+3 _APID 1,7181::1655669863
+1 SEX M
+1 FAMC @F406@
+1 BIRT
+2 DATE ABT 1848
+2 PLAC Michigan, USA
+3 MAP
+4 LATI N44.5917
+4 LONG W85.025
+2 SOUR @S212@
+3 PAGE Year: 1850; Census Place: Sterling, Macomb, Michigan; Roll
+4 CONC : M432_357; Page: 169A; Image: 337
+3 OBJE @M355@
+3 _APID 1,8054::3166263
+2 SOUR @S209@
+3 PAGE Year: 1860; Census Place: Oswego Ward 1, Oswego, New York; R
+4 CONC oll: M653_839; Page: 954; Family History Library Film: 80383
+4 CONC 9
+3 OBJE @M354@
+3 _APID 1,7667::47786603
+2 SOUR @S211@
+3 PAGE New York, State Census, 1855 Record
+3 OBJE @M353@
+3 _APID 1,7181::1655669863
+1 RESI
+2 DATE 1850
+2 PLAC Sterling, Macomb, Michigan, USA
+3 MAP
+4 LATI N44.0333
+4 LONG W84.0234
+2 SOUR @S212@
+3 PAGE Year: 1850; Census Place: Sterling, Macomb, Michigan; Roll
+4 CONC : M432_357; Page: 169A; Image: 337
+3 OBJE @M355@
+3 _APID 1,8054::3166263
+1 RESI
+2 DATE 1855
+2 PLAC Hamilton, Madison, New York, USA
+3 MAP
+4 LATI N42.827
+4 LONG W75.5446
+2 SOUR @S211@
+3 PAGE New York, State Census, 1855 Record
+3 OBJE @M353@
+3 _APID 1,7181::1655669863
+2 NOTE Relation to Head: Son
+1 RESI
+2 DATE 1860
+2 PLAC Oswego, Oswego, New York, USA
+3 MAP
+4 LATI N43.4553
+4 LONG W76.5105
+2 SOUR @S209@
+3 PAGE Year: 1860; Census Place: Oswego Ward 1, Oswego, New York; R
+4 CONC oll: M653_839; Page: 954; Family History Library Film: 80383
+4 CONC 9
+3 OBJE @M354@
+3 _APID 1,7667::47786603
+2 NOTE Residence Post Office: Oswego
+0 @I508@ INDI
+1 REFN 50a13318-8d8b-4494-ab8c-1a392d3580e9
+1 NAME Alonzo Munro /Mosher/
+2 SOUR @S212@
+3 PAGE 1850 United States Federal Census Record
+3 OBJE @M350@
+3 _APID 1,8054::7061145
+2 SOUR @S241@
+3 _APID 1,60525::43744824
+1 SEX M
+2 SOUR @S212@
+3 _APID 1,8054::7061145
+1 FAMC @F401@
+1 BIRT
+2 DATE 1832
+2 PLAC New York, USA
+3 MAP
+4 LATI N42.7531
+4 LONG W74.2224
+2 SOUR @S212@
+3 PAGE 1850 United States Federal Census Record
+3 OBJE @M350@
+3 _APID 1,8054::7061145
+2 SOUR @S241@
+3 _APID 1,60525::43744824
+1 DEAT
+2 DATE 03 JAN 1855
+2 SOUR @S241@
+3 _APID 1,60525::43744824
+1 BURI
+2 DATE 1855
+2 PLAC Madison Street Cemetery, Hamilton, Madison, New York, USA
+2 SOUR @S241@
+3 _APID 1,60525::43744824
 0 @gAHqqaSRTeeawmG9dmnd@ INDI
 1 REFN b7b0516c-904a-434c-a23b-a4d4a5cd2238
 1 NAME Alta Elnor /Mosher/
@@ -11749,6 +13272,13 @@
 4 CONC re 1951
 3 _APID 1,3693::4119891
 1 _XY 7675.00 2350.00
+0 @I525@ INDI
+1 REFN 48ce6a2d-871d-469b-a7a2-ad7c8bb8a543
+1 NAME Amanda /Mosher/
+1 SEX F
+1 FAMC @F399@
+1 BIRT
+2 DATE ABT 1826
 0 @tA7xtAR0SvGIEATuaE5i@ INDI
 1 REFN ea8c1822-b930-402d-b2a3-d6aa2fc9bd37
 1 NAME Ann /Mosher/
@@ -12149,6 +13679,33 @@
 3 PAGE p. 48
 3 QUAY 1
 1 _XY 6725.00 1075.00
+0 @I517@ INDI
+1 REFN f9a6b658-f4c8-4407-aa6c-b9d2d2a0daa5
+1 NAME Betsa /Mosher/
+2 SOUR @S211@
+3 OBJE @M338@
+3 _APID 1,7181::1653716357
+1 SEX F
+1 FAMC @F402@
+1 BIRT
+2 DATE ABT 1853
+2 PLAC Madison, New York, USA
+3 MAP
+4 LATI N42.9118
+4 LONG W75.6682
+2 SOUR @S211@
+3 OBJE @M338@
+3 _APID 1,7181::1653716357
+1 RESI
+2 DATE 1855
+2 PLAC Madison, Madison, New York, USA
+3 MAP
+4 LATI N42.899
+4 LONG W75.5121
+2 SOUR @S211@
+3 OBJE @M338@
+3 _APID 1,7181::1653716357
+2 NOTE Relation to Head: Child
 0 @I454@ INDI
 1 REFN 04ebc8eb-67f6-4dab-b286-ffc9e6b41790
 1 NAME Carl Lewis /Mosher/
@@ -12188,6 +13745,61 @@
 3 QUAY 1
 2 NOTE Place is from father's residence.
 1 _XY 6925.00 1575.00
+0 @I528@ INDI
+1 REFN 2000b869-7b35-483a-b210-b87294e8005b
+1 NAME Charles A. /Mosher/
+2 SOUR @S209@
+3 PAGE Year: 1860; Census Place: Chicago Ward 1, Cook, Illinois; Ro
+4 CONC ll: M653_164; Page: 237; Family History Library Film: 803164
+3 OBJE @M379@
+3 _APID 1,7667::37312269
+2 SOUR @S231@
+3 PAGE Year: 1870; Census Place: Chicago Ward 4, Cook, Illinois; Ro
+4 CONC ll: M593_200; Page: 49A; Family History Library Film: 545699
+3 OBJE @M385@
+3 _APID 1,7163::17082290
+1 SEX M
+1 FAMC @F408@
+1 BIRT
+2 DATE ABT 1849
+2 PLAC New York, USA
+3 MAP
+4 LATI N42.7531
+4 LONG W74.2224
+2 SOUR @S209@
+3 PAGE Year: 1860; Census Place: Chicago Ward 1, Cook, Illinois; Ro
+4 CONC ll: M653_164; Page: 237; Family History Library Film: 803164
+3 OBJE @M379@
+3 _APID 1,7667::37312269
+2 SOUR @S231@
+3 PAGE Year: 1870; Census Place: Chicago Ward 4, Cook, Illinois; Ro
+4 CONC ll: M593_200; Page: 49A; Family History Library Film: 545699
+3 OBJE @M385@
+3 _APID 1,7163::17082290
+1 RESI
+2 DATE 1860
+2 PLAC Chicago, Cook, Illinois, USA
+3 MAP
+4 LATI N41.85
+4 LONG W87.6501
+2 SOUR @S209@
+3 PAGE Year: 1860; Census Place: Chicago Ward 1, Cook, Illinois; Ro
+4 CONC ll: M653_164; Page: 237; Family History Library Film: 803164
+3 OBJE @M379@
+3 _APID 1,7667::37312269
+2 NOTE Residence Post Office: Chicago
+1 RESI
+2 DATE 1870
+2 PLAC Chicago, Cook, Illinois, USA
+3 MAP
+4 LATI N41.85
+4 LONG W87.6501
+2 SOUR @S231@
+3 PAGE Year: 1870; Census Place: Chicago Ward 4, Cook, Illinois; Ro
+4 CONC ll: M593_200; Page: 49A; Family History Library Film: 545699
+3 OBJE @M385@
+3 _APID 1,7163::17082290
+2 NOTE Residence Post Office: Chicago
 0 @I453@ INDI
 1 REFN c4939646-caa1-420e-b100-e136afa32c45
 1 NAME Christopher Alan /Mosher/
@@ -13973,6 +15585,27 @@
 4 CONC fore 1951
 3 _APID 1,3693::43961289
 1 _XY 5775.00 2350.00
+0 @I507@ INDI
+1 REFN 165bd053-fc5e-4850-938f-6fc34120eb30
+1 NAME Dwight /Mosher/
+2 SOUR @S212@
+3 PAGE 1850 United States Federal Census Record
+3 OBJE @M348@
+3 _APID 1,8054::7685727
+1 SEX M
+2 SOUR @S212@
+3 _APID 1,8054::7685727
+1 FAMC @F401@
+1 BIRT
+2 DATE ABT 1817
+2 PLAC New York, USA
+3 MAP
+4 LATI N42.7531
+4 LONG W74.2224
+2 SOUR @S212@
+3 PAGE 1850 United States Federal Census Record
+3 OBJE @M348@
+3 _APID 1,8054::7685727
 0 @I160@ INDI
 1 REFN 944d816b-83cb-461b-9da1-19e47c305f0e
 1 NAME Edith /Mosher/
@@ -14029,6 +15662,13 @@
 2 SOUR @CNCZKGpeSrKJ6BUTT9Hu@
 3 PAGE pp. 57-58
 1 _XY 7950.00 1075.00
+0 @I502@ INDI
+1 REFN bbb18e5e-7e7f-4c55-aed2-06b3eba03e32
+1 NAME Eliza Anne /Mosher/
+1 SEX F
+1 FAMC @F401@
+1 BIRT
+2 DATE ABT 1826
 0 @mTBC5r9qR32ztad69eZL@ INDI
 1 REFN 71c6d531-c188-4c7c-9040-7ea185b7a368
 1 NAME Eliza Jane /Mosher/
@@ -14221,6 +15861,37 @@
 3 PAGE p. 18
 3 QUAY 1
 1 _XY 6725.00 875.00
+0 @I516@ INDI
+1 REFN db0337dc-8d29-4ea0-87d9-6db9762f1f5a
+1 NAME Eugene /Mosher/
+2 SOUR @S212@
+3 PAGE 1850 United States Federal Census Record
+3 OBJE @M355@
+3 _APID 1,8054::3166264
+1 SEX M
+2 SOUR @S212@
+3 _APID 1,8054::3166264
+1 FAMC @F406@
+1 BIRT
+2 DATE ABT 1850
+2 PLAC Michigan, USA
+3 MAP
+4 LATI N44.5917
+4 LONG W85.025
+2 SOUR @S212@
+3 PAGE 1850 United States Federal Census Record
+3 OBJE @M355@
+3 _APID 1,8054::3166264
+1 RESI
+2 DATE 1850
+2 PLAC Sterling, Macomb, Michigan, USA
+3 MAP
+4 LATI N44.0333
+4 LONG W84.0234
+2 SOUR @S212@
+3 PAGE 1850 United States Federal Census Record
+3 OBJE @M355@
+3 _APID 1,8054::3166264
 0 @xk52EwszTHivL1zyw9ID@ INDI
 1 REFN 43900649-9104-49d9-a27a-938b367b26c0
 1 NAME Frederick Colvin /Mosher/
@@ -14576,6 +16247,108 @@
 2 SOUR @S241@
 3 _APID 1,60525::71350566
 1 _XY 6825.00 2450.00
+0 @I529@ INDI
+1 REFN 9bf81fa3-c7bc-4903-8aed-a95b32919534
+1 NAME Henry Clay /Mosher/
+2 SOUR @S231@
+3 PAGE Year: 1870; Census Place: Chicago Ward 4, Cook, Illinois; Ro
+4 CONC ll: M593_200; Page: 49A; Family History Library Film: 545699
+3 OBJE @M385@
+3 _APID 1,7163::17082468
+1 SEX M
+1 FAMC @F408@
+1 BIRT
+2 DATE ABT 1867
+2 PLAC Illinois
+2 SOUR @S231@
+3 PAGE Year: 1870; Census Place: Chicago Ward 4, Cook, Illinois; Ro
+4 CONC ll: M593_200; Page: 49A; Family History Library Film: 545699
+3 OBJE @M385@
+3 _APID 1,7163::17082468
+1 RESI
+2 DATE 1870
+2 PLAC Chicago, Cook, Illinois, USA
+3 MAP
+4 LATI N41.85
+4 LONG W87.6501
+2 SOUR @S231@
+3 PAGE Year: 1870; Census Place: Chicago Ward 4, Cook, Illinois; Ro
+4 CONC ll: M593_200; Page: 49A; Family History Library Film: 545699
+3 OBJE @M385@
+3 _APID 1,7163::17082468
+2 NOTE Residence Post Office: Chicago
+0 @I524@ INDI
+1 REFN 68cd9393-5b37-4cec-9a57-79cd46203dff
+1 NAME Horace M. /Mosher/
+2 SOUR @S209@
+3 PAGE Year: 1860; Census Place: Chicago Ward 1, Cook, Illinois; Ro
+4 CONC ll: M653_164; Page: 237; Family History Library Film: 803164
+3 OBJE @M379@
+3 _APID 1,7667::37312266
+2 SOUR @S231@
+3 PAGE Year: 1870; Census Place: Chicago Ward 4, Cook, Illinois; Ro
+4 CONC ll: M593_200; Page: 49A; Family History Library Film: 545699
+3 OBJE @M385@
+3 _APID 1,7163::17082655
+2 SOUR @S281@
+3 OBJE @M380@
+2 SOUR @S281@
+3 OBJE @M382@
+1 SEX M
+1 FAMC @F399@
+1 FAMS @F408@
+1 BIRT
+2 DATE 02 MAY 1824
+2 PLAC New York, USA
+3 MAP
+4 LATI N42.7531
+4 LONG W74.2224
+2 SOUR @S209@
+3 PAGE Year: 1860; Census Place: Chicago Ward 1, Cook, Illinois; Ro
+4 CONC ll: M653_164; Page: 237; Family History Library Film: 803164
+3 OBJE @M379@
+3 _APID 1,7667::37312266
+2 SOUR @S231@
+3 PAGE Year: 1870; Census Place: Chicago Ward 4, Cook, Illinois; Ro
+4 CONC ll: M593_200; Page: 49A; Family History Library Film: 545699
+3 OBJE @M385@
+3 _APID 1,7163::17082655
+1 RESI
+2 DATE 1860
+2 PLAC Chicago, Cook, Illinois, USA
+3 MAP
+4 LATI N41.85
+4 LONG W87.6501
+2 SOUR @S209@
+3 PAGE Year: 1860; Census Place: Chicago Ward 1, Cook, Illinois; Ro
+4 CONC ll: M653_164; Page: 237; Family History Library Film: 803164
+3 OBJE @M379@
+3 _APID 1,7667::37312266
+2 NOTE Residence Post Office: Chicago
+1 RESI
+2 DATE 1861
+2 PLAC Michigan Avenue, Chicago, Cook, Illinois, USA
+2 SOUR @S281@
+3 OBJE @M380@
+3 _APID 1,2469::351474598
+1 RESI
+2 DATE 1863
+2 PLAC Michigan Avenue, Chicago, Cook, Illinois, USA
+2 SOUR @S281@
+3 OBJE @M382@
+3 _APID 1,2469::349981805
+1 RESI
+2 DATE 1870
+2 PLAC Chicago, Cook, Illinois, USA
+3 MAP
+4 LATI N41.85
+4 LONG W87.6501
+2 SOUR @S231@
+3 PAGE Year: 1870; Census Place: Chicago Ward 4, Cook, Illinois; Ro
+4 CONC ll: M593_200; Page: 49A; Family History Library Film: 545699
+3 OBJE @M385@
+3 _APID 1,7163::17082655
+2 NOTE Residence Post Office: Chicago
 0 @dxHaQCwDQm6zzsWcDtoT@ INDI
 1 REFN 9cf6338f-5b38-4336-8e43-1bd1f2b90132
 1 NAME Hugh /Mosher/
@@ -14653,6 +16426,7 @@
 1 NAME James /Mosher/
 1 SEX M
 1 FAMC @FpSmj7eiSECEkyexIYXl@
+1 FAMS @F400@
 1 NOTE Do not confuse this James with James Mosher of Block Island
 2 CONC , RI and New London, CT.
 1 BIRT
@@ -14672,6 +16446,94 @@
 3 PAGE p. 7
 3 QUAY 1
 1 _XY 7125 743
+0 @I510@ INDI
+1 REFN e427d136-35a0-4307-838e-8f832f088a34
+1 NAME James /Mosher/
+2 SOUR @XkYfWXOxTRycLRJJyxNy@
+3 PAGE Source number: 20.000; Source type: Electronic Database; Num
+4 CONC ber of Pages: 1; Submitter Code: RKM
+3 _APID 1,7836::867329
+1 SEX M
+1 FAMC @F397@
+1 FAMS @F403@
+1 BIRT
+2 DATE 25 OCT 1752
+2 PLAC Beekman, Dutchess, New York, USA
+3 MAP
+4 LATI N41.6108
+4 LONG W73.7133
+2 SOUR @XkYfWXOxTRycLRJJyxNy@
+3 PAGE Source number: 20.000; Source type: Electronic Database; Num
+4 CONC ber of Pages: 1; Submitter Code: RKM
+3 _APID 1,7836::867329
+1 DEAT
+2 DATE 28 NOV 1828
+2 PLAC of New York
+0 @I505@ INDI
+1 REFN 62040e4d-5d67-464b-a7e7-c92ad01e4073
+1 NAME James /Mosher/
+2 SOUR @8DCmzn75S8CoxNQmoyL8@
+3 PAGE 1820 U S Census; Census Place: Livingston, Columbia, New Yor
+4 CONC k; Page: 194; NARA Roll: M33_70; Image: 110
+3 OBJE @M346@
+3 _APID 1,7734::480321
+2 SOUR @IXkilGMfSsmx954YFeZF@
+3 PAGE 1830; Census Place: Lebanon, Madison, New York; Series: M19
+4 CONC ; Roll: 93; Page: 342; Family History Library Film: 0017153
+3 OBJE @M347@
+3 _APID 1,8058::1548988
+2 SOUR @XkYfWXOxTRycLRJJyxNy@
+3 PAGE Source number: 24.000; Source type: Electronic Database; Num
+4 CONC ber of Pages: 1; Submitter Code: RKM
+3 _APID 1,7836::867320
+2 SOUR @S241@
+3 PAGE U.S., Find A Grave Index, 1600s-Current Record
+3 _APID 1,60525::92091933
+1 SEX M
+1 FAMC @F403@
+1 FAMS @F401@
+1 BIRT
+2 DATE 1792
+2 SOUR @XkYfWXOxTRycLRJJyxNy@
+3 PAGE Source number: 24.000; Source type: Electronic Database; Num
+4 CONC ber of Pages: 1; Submitter Code: RKM
+3 _APID 1,7836::867320
+2 SOUR @S241@
+3 PAGE U.S., Find A Grave Index, 1600s-Current Record
+3 _APID 1,60525::92091933
+1 RESI
+2 DATE 1820
+2 PLAC Livingston, Columbia, New York, United States
+2 SOUR @8DCmzn75S8CoxNQmoyL8@
+3 PAGE 1820 U S Census; Census Place: Livingston, Columbia, New Yor
+4 CONC k; Page: 194; NARA Roll: M33_70; Image: 110
+3 OBJE @M346@
+3 _APID 1,7734::480321
+1 RESI
+2 DATE 1830
+2 PLAC Lebanon, Madison, New York, USA
+3 MAP
+4 LATI N42.7814
+4 LONG W75.6481
+2 SOUR @IXkilGMfSsmx954YFeZF@
+3 PAGE 1830; Census Place: Lebanon, Madison, New York; Series: M19
+4 CONC ; Roll: 93; Page: 342; Family History Library Film: 0017153
+3 OBJE @M347@
+3 _APID 1,8058::1548988
+1 DEAT
+2 DATE 15 MAY 1838
+2 PLAC Hamilton, Madison, New York, USA
+3 MAP
+4 LATI N42.827
+4 LONG W75.5446
+2 SOUR @S241@
+3 PAGE U.S., Find A Grave Index, 1600s-Current Record
+3 _APID 1,60525::92091933
+1 BURI
+2 PLAC Madison Street Cemetery, Hamilton, Madison, New York, USA
+2 SOUR @S241@
+3 PAGE U.S., Find A Grave Index, 1600s-Current Record
+3 _APID 1,60525::92091933
 0 @I449@ INDI
 1 REFN 360c6088-fbf9-46f5-b238-2680d6772992
 1 NAME Janet Alta /Mosher/
@@ -14792,6 +16654,32 @@
 3 PAGE p. 4
 3 QUAY 1
 1 _XY 6618 743
+0 @I515@ INDI
+1 REFN fc72b565-577b-4842-a7e1-0aaa7f91612f
+1 NAME John /Mosher/
+2 SOUR @S212@
+3 PAGE 1850 United States Federal Census Record
+3 OBJE @M355@
+1 SEX M
+1 FAMC @F401@
+1 BIRT
+2 DATE ABT 1823
+2 PLAC New York, USA
+3 MAP
+4 LATI N42.7531
+4 LONG W74.2224
+2 SOUR @S212@
+3 PAGE 1850 United States Federal Census Record
+3 OBJE @M355@
+1 RESI
+2 DATE 1850
+2 PLAC Sterling, Macomb, Michigan, USA
+3 MAP
+4 LATI N44.0333
+4 LONG W84.0234
+2 SOUR @S212@
+3 PAGE 1850 United States Federal Census Record
+3 OBJE @M355@
 0 @8ZYTvxdfRtqDsOWccMfz@ INDI
 1 REFN a950a93a-dc42-4cec-9d67-802d2850faed
 1 NAME Joseph /Mosher/
@@ -15197,7 +17085,7 @@
 4 CONC strict: 01; City: Madison; County: Madison; Page: 11
 3 OBJE @m1G8i0fLQKS8f00uRIke@
 3 _APID 1,2704::20748057
-2 SOUR @w6oneCDaTyySwwZ0y6W9@
+2 SOUR @S281@
 3 OBJE @BD0BIMRhTxybOmPeZZ32@
 3 _APID 1,2469::1407776503
 2 SOUR @S241@
@@ -15214,8 +17102,7 @@
 4 CONC ce System, 1926-1975; Record Group Number: 147
 3 OBJE @1wWYPGzWRAqLTjoHIOk2@
 3 _APID 1,1002::12976754
-2 SOUR @Q3pDaZrXQzi0fjGmGdhC@
-3 _APID 1,70500::6308735
+2 SOUR @S257@
 2 SOUR @S257@
 1 SEX M
 1 FAMC @YIqlnp8mREuD4RW6nexn@
@@ -15264,7 +17151,7 @@
 4 CONC 627_357; Page: 3B; Enumeration District: 54-15
 3 OBJE @NEzmFtYER5CjmNb3mg5W@
 3 _APID 1,2442::72834873
-2 SOUR @2Af7yh49QtWxtUgijDek@
+2 SOUR @7c8PO7CnR1qikgvyU4fE@
 3 QUAY 2
 2 SOUR @7c8PO7CnR1qikgvyU4fE@
 3 PAGE Date: 1948-11-28
@@ -15298,8 +17185,7 @@
 4 CONC ce System, 1926-1975; Record Group Number: 147
 3 OBJE @1wWYPGzWRAqLTjoHIOk2@
 3 _APID 1,1002::12976754
-2 SOUR @Q3pDaZrXQzi0fjGmGdhC@
-3 _APID 1,70500::6308735
+2 SOUR @S257@
 2 SOUR @S257@
 2 NOTE Place is assumed from residence of father at the time.
 1 RESI
@@ -15450,8 +17336,7 @@
 3 CONC SA
 2 SOUR @S241@
 3 _APID 1,60525::95913424
-2 SOUR @Q3pDaZrXQzi0fjGmGdhC@
-3 _APID 1,70500::6308735
+2 SOUR @S257@
 2 SOUR @S257@
 1 DEAT
 2 DATE 28 NOV 1948
@@ -15459,15 +17344,14 @@
 3 MAP
 4 LATI N34.1847
 4 LONG W118.262
-2 SOUR @2Af7yh49QtWxtUgijDek@
+2 SOUR @7c8PO7CnR1qikgvyU4fE@
 3 QUAY 1
 2 SOUR @7c8PO7CnR1qikgvyU4fE@
 3 PAGE Date: 1948-11-28
 3 _APID 1,5180::5186998
 2 SOUR @S241@
 3 _APID 1,60525::95913424
-2 SOUR @Q3pDaZrXQzi0fjGmGdhC@
-3 _APID 1,70500::6308735
+2 SOUR @S257@
 2 SOUR @S257@
 1 _XY 6000.00 2250.00
 0 @I447@ INDI
@@ -16189,7 +18073,7 @@
 4 CONC strict: 02; City: Sangerfield; County: Oneida; Page: 10
 3 OBJE @E0YQSs1ETg6kXH9iYZtx@
 3 _APID 1,2704::16498997
-2 SOUR @w6oneCDaTyySwwZ0y6W9@
+2 SOUR @S281@
 3 OBJE @qQGuYPQ6SHegzhgk3XP3@
 3 _APID 1,2469::1416724659
 2 SOUR @S241@
@@ -16401,7 +18285,7 @@
 1 RESI
 2 DATE 1963
 2 PLAC 1410 East Avenue, Napa, Napa, California, USA
-2 SOUR @w6oneCDaTyySwwZ0y6W9@
+2 SOUR @S281@
 3 OBJE @qQGuYPQ6SHegzhgk3XP3@
 3 _APID 1,2469::1416724659
 1 DEAT
@@ -16410,7 +18294,7 @@
 3 MAP
 4 LATI N38.1041
 4 LONG W122.2566
-2 SOUR @2Af7yh49QtWxtUgijDek@
+2 SOUR @7c8PO7CnR1qikgvyU4fE@
 3 QUAY 2
 2 SOUR @7c8PO7CnR1qikgvyU4fE@
 3 PAGE Date: 1976-12-15
@@ -16432,6 +18316,54 @@
 4 CONC 73
 3 _APID 1,3693::55794070
 1 _XY 8550.00 2250.00
+0 @I509@ INDI
+1 REFN 260a7acb-f1f9-4767-86a5-b58781603b32
+1 NAME Lorenzo /Mosher/
+2 SOUR @S212@
+3 PAGE 1850 United States Federal Census Record
+3 OBJE @M345@
+3 _APID 1,8054::7054860
+2 SOUR @S211@
+3 OBJE @M338@
+3 _APID 1,7181::1653716355
+1 SEX M
+2 SOUR @S212@
+3 _APID 1,8054::7054860
+1 FAMC @F399@
+1 FAMS @F402@
+1 BIRT
+2 DATE ABT 1828
+2 PLAC Oswego, New York, USA
+3 MAP
+4 LATI N43.2462
+4 LONG W76.139
+2 SOUR @S212@
+3 PAGE 1850 United States Federal Census Record
+3 OBJE @M345@
+3 _APID 1,8054::7054860
+2 SOUR @S211@
+3 OBJE @M338@
+3 _APID 1,7181::1653716355
+1 RESI
+2 DATE 1850
+2 PLAC Madison, Madison, New York, USA
+3 MAP
+4 LATI N42.899
+4 LONG W75.5121
+2 SOUR @S212@
+3 PAGE 1850 United States Federal Census Record
+3 OBJE @M345@
+3 _APID 1,8054::7054860
+1 RESI
+2 DATE 1855
+2 PLAC Madison, Madison, New York, USA
+3 MAP
+4 LATI N42.899
+4 LONG W75.5121
+2 SOUR @S211@
+3 OBJE @M338@
+3 _APID 1,7181::1653716355
+2 NOTE Relation to Head: Head
 0 @I184@ INDI
 1 REFN d8196a78-70b5-4957-b951-4a6e3bc8dbc5
 1 NAME Lydia /Mosher/
@@ -16617,6 +18549,222 @@
 4 TEXT the last day of May last past [written 26 Aug 1813]
 2 NOTE may have been Saratoga town
 1 _XY 7550.00 1075.00
+0 @I519@ INDI
+1 REFN 1763f34c-e9a8-4c7c-af42-b6d172caf237
+1 NAME Mary Jane /Mosher/
+2 SOUR @S209@
+3 PAGE Year: 1860; Census Place: Oswego Ward 1, Oswego, New York; R
+4 CONC oll: M653_839; Page: 955; Family History Library Film: 80383
+4 CONC 9
+3 OBJE @M360@
+3 _APID 1,7667::47785631
+2 SOUR @S217@
+3 PAGE 1880 United States Federal Census Record
+3 OBJE @M351@
+3 _APID 1,6742::22439711
+2 SOUR @MYPTYwXjROCnuswpONVl@
+3 PAGE Year: 1900; Census Place: Grand Rapids Ward 4, Kent, Michiga
+4 CONC n; Page: 12; Enumeration District: 0058; FHL microfilm: 1240
+4 CONC 722
+3 OBJE @M364@
+3 _APID 1,7602::64527667
+2 SOUR @S222@
+3 PAGE Year: 1910; Census Place: Detroit Ward 4, Wayne, Michigan; R
+4 CONC oll: T624_681; Page: 3A; Enumeration District: 0058; FHL mic
+4 CONC rofilm: 1374694
+3 OBJE @M363@
+3 _APID 1,7884::198744480
+2 SOUR @S213@
+3 PAGE Year: 1920; Census Place: Kalamazoo Ward 3, Kalamazoo, Michi
+4 CONC gan; Roll: T625_775; Page: 7B; Enumeration District: 164
+3 OBJE @M362@
+3 _APID 1,6061::40199014
+2 SOUR @S272@
+3 PAGE Michigan Department of Community Health, Division for Vita
+4 CONC l Records and Health Statistics; Lansing, Michigan; Death Re
+4 CONC cords
+3 OBJE @M356@
+3 _APID 1,60872::2479528
+2 SOUR @S274@
+3 _APID 1,2549::148591
+2 SOUR @S270@
+3 PAGE Michigan Department of Community Health, Division of Vital R
+4 CONC ecords and Health Statistics; Lansing, MI, USA; Michigan, Ma
+4 CONC rriage Records, 1867-1952; Film: 17; Film Description: 187
+4 CONC 8 Washtenaw-1879 Lake
+3 OBJE @M352@
+3 _APID 1,9093::3698796
+2 SOUR @S281@
+3 OBJE @M365@
+2 SOUR @S281@
+3 OBJE @M366@
+2 SOUR @S241@
+3 _APID 1,60525::97123318
+2 SOUR @S275@
+3 _APID 1,9231::30750
+2 SOUR @S271@
+3 _APID 1,70330::125151
+1 SEX F
+2 SOUR @S217@
+3 _APID 1,6742::22439711
+1 FAMC @F406@
+1 FAMS @F407@
+1 FAMS @F405@
+1 BIRT
+2 DATE ABT 1857
+2 PLAC New York, USA
+3 MAP
+4 LATI N42.7531
+4 LONG W74.2224
+2 SOUR @S209@
+3 PAGE Year: 1860; Census Place: Oswego Ward 1, Oswego, New York; R
+4 CONC oll: M653_839; Page: 955; Family History Library Film: 80383
+4 CONC 9
+3 OBJE @M360@
+3 _APID 1,7667::47785631
+2 SOUR @S217@
+3 PAGE 1880 United States Federal Census Record
+3 OBJE @M351@
+3 _APID 1,6742::22439711
+2 SOUR @MYPTYwXjROCnuswpONVl@
+3 PAGE Year: 1900; Census Place: Grand Rapids Ward 4, Kent, Michiga
+4 CONC n; Page: 12; Enumeration District: 0058; FHL microfilm: 1240
+4 CONC 722
+3 OBJE @M364@
+3 _APID 1,7602::64527667
+2 SOUR @S222@
+3 PAGE Year: 1910; Census Place: Detroit Ward 4, Wayne, Michigan; R
+4 CONC oll: T624_681; Page: 3A; Enumeration District: 0058; FHL mic
+4 CONC rofilm: 1374694
+3 OBJE @M363@
+3 _APID 1,7884::198744480
+2 SOUR @S213@
+3 PAGE Year: 1920; Census Place: Kalamazoo Ward 3, Kalamazoo, Michi
+4 CONC gan; Roll: T625_775; Page: 7B; Enumeration District: 164
+3 OBJE @M362@
+3 _APID 1,6061::40199014
+2 SOUR @S272@
+3 PAGE Michigan Department of Community Health, Division for Vita
+4 CONC l Records and Health Statistics; Lansing, Michigan; Death Re
+4 CONC cords
+3 OBJE @M356@
+3 _APID 1,60872::2479528
+2 SOUR @S274@
+3 _APID 1,2549::148591
+2 SOUR @S270@
+3 PAGE Michigan Department of Community Health, Division of Vital R
+4 CONC ecords and Health Statistics; Lansing, MI, USA; Michigan, Ma
+4 CONC rriage Records, 1867-1952; Film: 17; Film Description: 187
+4 CONC 8 Washtenaw-1879 Lake
+3 OBJE @M352@
+3 _APID 1,9093::3698796
+2 SOUR @S241@
+3 _APID 1,60525::97123318
+1 RESI
+2 DATE 1860
+2 PLAC Oswego, Oswego, New York, USA
+3 MAP
+4 LATI N43.4553
+4 LONG W76.5105
+2 SOUR @S209@
+3 PAGE Year: 1860; Census Place: Oswego Ward 1, Oswego, New York; R
+4 CONC oll: M653_839; Page: 955; Family History Library Film: 80383
+4 CONC 9
+3 OBJE @M360@
+3 _APID 1,7667::47785631
+2 NOTE Residence Post Office: Oswego
+1 RESI
+2 DATE 1880
+2 PLAC Grand Rapids, Kent, Michigan, USA
+3 MAP
+4 LATI N42.9634
+4 LONG W85.6681
+2 SOUR @S217@
+3 PAGE 1880 United States Federal Census Record
+3 OBJE @M351@
+3 _APID 1,6742::22439711
+2 NOTE Marital Status: Single; Relation to Head: Wife
+1 RESI
+2 DATE 1900
+2 PLAC Grand Rapids, Kent, Michigan, USA
+3 MAP
+4 LATI N42.9634
+4 LONG W85.6681
+2 SOUR @MYPTYwXjROCnuswpONVl@
+3 PAGE Year: 1900; Census Place: Grand Rapids Ward 4, Kent, Michiga
+4 CONC n; Page: 12; Enumeration District: 0058; FHL microfilm: 1240
+4 CONC 722
+3 OBJE @M364@
+3 _APID 1,7602::64527667
+2 NOTE Marital Status: Married; Relation to Head: Wife
+1 RESI
+2 DATE 1910
+2 PLAC Detroit, Wayne, Michigan, USA
+3 MAP
+4 LATI N42.3314
+4 LONG W83.0458
+2 SOUR @S222@
+3 PAGE Year: 1910; Census Place: Detroit Ward 4, Wayne, Michigan; R
+4 CONC oll: T624_681; Page: 3A; Enumeration District: 0058; FHL mic
+4 CONC rofilm: 1374694
+3 OBJE @M363@
+3 _APID 1,7884::198744480
+2 NOTE Marital Status: Married; Relation to Head of House: Wife
+1 RESI
+2 DATE 1920
+2 PLAC Kalamazo, Kalamazoo, Michigan, USA
+2 SOUR @S213@
+3 PAGE Year: 1920; Census Place: Kalamazoo Ward 3, Kalamazoo, Michi
+4 CONC gan; Roll: T625_775; Page: 7B; Enumeration District: 164
+3 OBJE @M362@
+3 _APID 1,6061::40199014
+2 NOTE Relation to Head: Wife; Residence Marital Status: Married
+1 RESI
+2 DATE 1924
+2 PLAC Kalamazoo, Michigan, USA
+3 MAP
+4 LATI N42.2449
+4 LONG W85.5299
+2 SOUR @S281@
+3 OBJE @M366@
+3 _APID 1,2469::416044215
+1 RESI
+2 DATE 1926
+2 PLAC Kalamazoo, Michigan, USA
+3 MAP
+4 LATI N42.2449
+4 LONG W85.5299
+2 SOUR @S281@
+3 OBJE @M365@
+3 _APID 1,2469::417983017
+1 DEAT
+2 DATE 23 AUG 1926
+2 PLAC Kalamazoo, Kalamazoo, Michigan, USA
+3 MAP
+4 LATI N42.2917
+4 LONG W85.5872
+2 SOUR @S272@
+3 PAGE Michigan Department of Community Health, Division for Vita
+4 CONC l Records and Health Statistics; Lansing, Michigan; Death Re
+4 CONC cords
+3 OBJE @M356@
+3 _APID 1,60872::2479528
+2 SOUR @S274@
+3 _APID 1,2549::148591
+2 SOUR @S241@
+3 _APID 1,60525::97123318
+2 SOUR @S275@
+3 _APID 1,9231::30750
+1 BURI
+2 DATE 26 AUG 1926
+2 PLAC Kalamazoo, Kalamazoo, Michigan, USA
+3 MAP
+4 LATI N42.2917
+4 LONG W85.5872
+2 SOUR @S241@
+3 _APID 1,60525::97123318
+2 SOUR @S275@
+3 _APID 1,9231::30750
 0 @I187@ INDI
 1 REFN 8e0f5aa6-e402-4ed2-b670-60fca809a84c
 1 NAME Mary wife of Daniel /Mosher/
@@ -16719,6 +18867,189 @@
 3 OBJE @ZIjn0V7XQYuVR3HR3QPs@
 3 _APID 1,2495::80622785
 1 _XY 6350.00 875.00
+0 @I490@ INDI
+1 REFN 71530797-01c6-4c29-8d43-816d32b7f06c
+1 NAME Miranda Burnett /Mosher/
+2 SOUR @S212@
+3 PAGE Year: 1850; Census Place: Madison, Madison, New York; Roll
+4 CONC : M432_527; Page: 74B; Image: 296
+3 OBJE @M339@
+3 _APID 1,8054::7054864
+2 SOUR @S209@
+3 PAGE 1860 United States Federal Census Record
+3 OBJE @M340@
+3 _APID 1,7667::49468669
+2 SOUR @S231@
+3 PAGE Year: 1870; Census Place: Madison, Madison, New York; Roll
+4 CONC : M593_968; Page: 414A; Family History Library Film: 552467
+3 OBJE @M341@
+3 _APID 1,7163::28982381
+2 SOUR @MYPTYwXjROCnuswpONVl@
+3 PAGE Year: 1900; Census Place: Newton Ward 5, Middlesex, Massachu
+4 CONC setts; Page: 4; Enumeration District: 0903; FHL microfilm: 1
+4 CONC 240664
+3 OBJE @M373@
+3 _APID 1,7602::48185472
+2 SOUR @S222@
+3 PAGE Year: 1910; Census Place: Newton Ward 5, Middlesex, Massachu
+4 CONC setts; Roll: T624_603; Page: 2A; Enumeration District: 0970
+4 CONC ; FHL microfilm: 1374616
+3 OBJE @M375@
+3 _APID 1,7884::111467363
+2 SOUR @S213@
+3 PAGE Year: 1920; Census Place: Newton Ward 5, Middlesex, Massachu
+4 CONC setts; Roll: T625_717; Page: 21A; Enumeration District: 374
+3 OBJE @M377@
+3 _APID 1,6061::16907862
+2 SOUR @S279@
+3 OBJE @M376@
+3 _APID 1,3659::4175911
+2 SOUR @S211@
+3 OBJE @M338@
+3 _APID 1,7181::1653712698
+2 SOUR @S241@
+3 _APID 1,60525::135415945
+1 NAME Burnett /Lawton/
+1 SEX F
+1 FAMC @F395@
+1 FAMS @F411@
+1 BIRT
+2 DATE FEB 1850
+2 PLAC Madison, New York, USA
+3 MAP
+4 LATI N42.9118
+4 LONG W75.6682
+2 SOUR @S212@
+3 PAGE Year: 1850; Census Place: Madison, Madison, New York; Roll
+4 CONC : M432_527; Page: 74B; Image: 296
+3 OBJE @M339@
+3 _APID 1,8054::7054864
+2 SOUR @S209@
+3 PAGE 1860 United States Federal Census Record
+3 OBJE @M340@
+3 _APID 1,7667::49468669
+2 SOUR @S231@
+3 PAGE Year: 1870; Census Place: Madison, Madison, New York; Roll
+4 CONC : M593_968; Page: 414A; Family History Library Film: 552467
+3 OBJE @M341@
+3 _APID 1,7163::28982381
+2 SOUR @MYPTYwXjROCnuswpONVl@
+3 PAGE Year: 1900; Census Place: Newton Ward 5, Middlesex, Massachu
+4 CONC setts; Page: 4; Enumeration District: 0903; FHL microfilm: 1
+4 CONC 240664
+3 OBJE @M373@
+3 _APID 1,7602::48185472
+2 SOUR @S222@
+3 PAGE Year: 1910; Census Place: Newton Ward 5, Middlesex, Massachu
+4 CONC setts; Roll: T624_603; Page: 2A; Enumeration District: 0970
+4 CONC ; FHL microfilm: 1374616
+3 OBJE @M375@
+3 _APID 1,7884::111467363
+2 SOUR @S213@
+3 PAGE Year: 1920; Census Place: Newton Ward 5, Middlesex, Massachu
+4 CONC setts; Roll: T625_717; Page: 21A; Enumeration District: 374
+3 OBJE @M377@
+3 _APID 1,6061::16907862
+2 SOUR @S211@
+3 OBJE @M338@
+3 _APID 1,7181::1653712698
+1 RESI
+2 DATE 1850
+2 PLAC Madison, Madison, New York, USA
+3 MAP
+4 LATI N42.899
+4 LONG W75.5121
+2 SOUR @S212@
+3 PAGE Year: 1850; Census Place: Madison, Madison, New York; Roll
+4 CONC : M432_527; Page: 74B; Image: 296
+3 OBJE @M339@
+3 _APID 1,8054::7054864
+1 RESI
+2 DATE 1855
+2 PLAC Madison, Madison, New York, USA
+3 MAP
+4 LATI N42.899
+4 LONG W75.5121
+2 SOUR @S211@
+3 OBJE @M338@
+3 _APID 1,7181::1653712698
+2 NOTE Relation to Head: Child
+1 RESI
+2 DATE 1860
+2 PLAC Madison, Madison, New York, USA
+3 MAP
+4 LATI N42.899
+4 LONG W75.5121
+2 SOUR @S209@
+3 PAGE 1860 United States Federal Census Record
+3 OBJE @M340@
+3 _APID 1,7667::49468669
+2 NOTE Residence Post Office: Madison
+1 RESI
+2 DATE 1870
+2 PLAC Madison, Madison, New York, USA
+3 MAP
+4 LATI N42.899
+4 LONG W75.5121
+2 SOUR @S231@
+3 PAGE Year: 1870; Census Place: Madison, Madison, New York; Roll
+4 CONC : M593_968; Page: 414A; Family History Library Film: 552467
+3 OBJE @M341@
+3 _APID 1,7163::28982381
+2 NOTE Residence Post Office: Madison
+1 RESI
+2 DATE 1900
+2 PLAC Newton, Middlesex, Massachusetts, USA
+3 MAP
+4 LATI N42.337
+4 LONG W71.2092
+2 SOUR @MYPTYwXjROCnuswpONVl@
+3 PAGE Year: 1900; Census Place: Newton Ward 5, Middlesex, Massachu
+4 CONC setts; Page: 4; Enumeration District: 0903; FHL microfilm: 1
+4 CONC 240664
+3 OBJE @M373@
+3 _APID 1,7602::48185472
+2 NOTE Marital Status: Married; Relation to Head: Wife
+1 RESI
+2 DATE 1910
+2 PLAC Newton, Middlesex, Massachusetts, USA
+3 MAP
+4 LATI N42.337
+4 LONG W71.2092
+2 SOUR @S222@
+3 PAGE Year: 1910; Census Place: Newton Ward 5, Middlesex, Massachu
+4 CONC setts; Roll: T624_603; Page: 2A; Enumeration District: 0970
+4 CONC ; FHL microfilm: 1374616
+3 OBJE @M375@
+3 _APID 1,7884::111467363
+2 NOTE Marital Status: Married; Relation to Head of House: Wife
+1 RESI
+2 DATE 1920
+2 PLAC Newton, Middlesex, Massachusetts, USA
+3 MAP
+4 LATI N42.337
+4 LONG W71.2092
+2 SOUR @S213@
+3 PAGE Year: 1920; Census Place: Newton Ward 5, Middlesex, Massachu
+4 CONC setts; Roll: T625_717; Page: 21A; Enumeration District: 374
+3 OBJE @M377@
+3 _APID 1,6061::16907862
+2 NOTE Relation to Head: Boarder; Residence Marital Status: Single
+1 DEAT
+2 DATE 16 JUN 1923
+2 PLAC Newton, Middlesex, Massachusetts, USA
+3 MAP
+4 LATI N42.337
+4 LONG W71.2092
+2 SOUR @S279@
+3 OBJE @M376@
+3 _APID 1,3659::4175911
+2 SOUR @S241@
+3 _APID 1,60525::135415945
+1 BURI
+2 PLAC Newton Cemetery, Newton, Middlesex, Massachusetts, USA
+2 SOUR @S241@
+3 _APID 1,60525::135415945
 0 @B21ndrqTQOGb6nbLgsA0@ INDI
 1 REFN 658edf41-0fc5-4db3-8620-f451fa3a58d9
 1 NAME Nancy /Mosher/
@@ -16813,6 +19144,185 @@
 2 SOUR @Hm17MLj2SaOPgMVpc2Wa@
 3 QUAY 1
 1 _XY 6950.00 1775.00
+0 @I493@ INDI
+1 REFN 042fca65-0496-45be-9c8a-76a5c4c8569a
+1 NAME Orlando /Mosher/
+2 SOUR @S212@
+3 PAGE Year: 1850; Census Place: Madison, Madison, New York; Roll
+4 CONC : M432_527; Page: 74B; Image: 296
+3 OBJE @M339@
+3 _APID 1,8054::7054862
+2 SOUR @S211@
+3 OBJE @M338@
+3 _APID 1,7181::1653712695
+1 SEX M
+1 FAMC @F399@
+1 FAMS @F395@
+1 BIRT
+2 DATE ABT 1824
+2 PLAC Madison, New York, USA
+3 MAP
+4 LATI N42.9118
+4 LONG W75.6682
+2 SOUR @S212@
+3 PAGE Year: 1850; Census Place: Madison, Madison, New York; Roll
+4 CONC : M432_527; Page: 74B; Image: 296
+3 OBJE @M339@
+3 _APID 1,8054::7054862
+2 SOUR @S211@
+3 OBJE @M338@
+3 _APID 1,7181::1653712695
+1 RESI
+2 DATE 1850
+2 PLAC Madison, Madison, New York, USA
+3 MAP
+4 LATI N42.899
+4 LONG W75.5121
+2 SOUR @S212@
+3 PAGE Year: 1850; Census Place: Madison, Madison, New York; Roll
+4 CONC : M432_527; Page: 74B; Image: 296
+3 OBJE @M339@
+3 _APID 1,8054::7054862
+1 RESI
+2 DATE 1855
+2 PLAC Madison, Madison, New York, USA
+3 MAP
+4 LATI N42.899
+4 LONG W75.5121
+2 SOUR @S211@
+3 OBJE @M338@
+3 _APID 1,7181::1653712695
+2 NOTE Relation to Head: Head
+0 @I514@ INDI
+1 REFN 589f2f72-d26c-49a3-acf8-f57af6231ddf
+1 NAME Orlando M. /Mosher/
+2 SOUR @S212@
+3 PAGE Year: 1850; Census Place: Sterling, Macomb, Michigan; Roll
+4 CONC : M432_357; Page: 169A; Image: 337
+3 OBJE @M355@
+3 _APID 1,8054::3166265
+2 SOUR @S209@
+3 PAGE Year: 1860; Census Place: Oswego Ward 1, Oswego, New York; R
+4 CONC oll: M653_839; Page: 954; Family History Library Film: 80383
+4 CONC 9
+3 OBJE @M354@
+3 _APID 1,7667::47786600
+2 SOUR @S272@
+3 PAGE Michigan Department of Community Health, Division for Vita
+4 CONC l Records and Health Statistics; Lansing, Michigan; Death Re
+4 CONC cords
+3 OBJE @M356@
+3 _APID 1,60872::602479528
+2 SOUR @S211@
+3 PAGE New York, State Census, 1855 Record
+3 OBJE @M353@
+3 _APID 1,7181::1655672219
+2 SOUR @S281@
+3 OBJE @M357@
+2 SOUR @S281@
+3 OBJE @M358@
+2 SOUR @S273@
+3 PAGE National Archives and Records Administration (NARA); Washing
+4 CONC ton, D.C.; Consolidated Lists of Civil War Draft Registratio
+4 CONC n Records (Provost Marshal General's Bureau; Consolidated En
+4 CONC rollment Lists, 1863-1865); Record Group: 110, Records of th
+4 CONC e Provost Marsha
+3 OBJE @M359@
+3 _APID 1,1666::2211449
+1 SEX M
+1 FAMC @F401@
+1 FAMS @F406@
+1 BIRT
+2 DATE ABT 1829
+2 PLAC Madison, New York, USA
+3 MAP
+4 LATI N42.9118
+4 LONG W75.6682
+2 SOUR @S212@
+3 PAGE Year: 1850; Census Place: Sterling, Macomb, Michigan; Roll
+4 CONC : M432_357; Page: 169A; Image: 337
+3 OBJE @M355@
+3 _APID 1,8054::3166265
+2 SOUR @S209@
+3 PAGE Year: 1860; Census Place: Oswego Ward 1, Oswego, New York; R
+4 CONC oll: M653_839; Page: 954; Family History Library Film: 80383
+4 CONC 9
+3 OBJE @M354@
+3 _APID 1,7667::47786600
+2 SOUR @S272@
+3 PAGE Michigan Department of Community Health, Division for Vita
+4 CONC l Records and Health Statistics; Lansing, Michigan; Death Re
+4 CONC cords
+3 OBJE @M356@
+3 _APID 1,60872::602479528
+2 SOUR @S211@
+3 PAGE New York, State Census, 1855 Record
+3 OBJE @M353@
+3 _APID 1,7181::1655672219
+2 SOUR @S273@
+3 PAGE National Archives and Records Administration (NARA); Washing
+4 CONC ton, D.C.; Consolidated Lists of Civil War Draft Registratio
+4 CONC n Records (Provost Marshal General's Bureau; Consolidated En
+4 CONC rollment Lists, 1863-1865); Record Group: 110, Records of th
+4 CONC e Provost Marsha
+3 OBJE @M359@
+3 _APID 1,1666::2211449
+1 RESI
+2 DATE 1850
+2 PLAC Sterling, Macomb, Michigan, USA
+3 MAP
+4 LATI N44.0333
+4 LONG W84.0234
+2 SOUR @S212@
+3 PAGE Year: 1850; Census Place: Sterling, Macomb, Michigan; Roll
+4 CONC : M432_357; Page: 169A; Image: 337
+3 OBJE @M355@
+3 _APID 1,8054::3166265
+1 RESI
+2 DATE 1855
+2 PLAC Hamilton, Madison, New York, USA
+3 MAP
+4 LATI N42.827
+4 LONG W75.5446
+2 SOUR @S211@
+3 PAGE New York, State Census, 1855 Record
+3 OBJE @M353@
+3 _APID 1,7181::1655672219
+2 NOTE Relation to Head: Head Of Household
+1 RESI
+2 DATE 1860
+2 PLAC Oswego, Oswego, New York, USA
+3 MAP
+4 LATI N43.4553
+4 LONG W76.5105
+2 SOUR @S209@
+3 PAGE Year: 1860; Census Place: Oswego Ward 1, Oswego, New York; R
+4 CONC oll: M653_839; Page: 954; Family History Library Film: 80383
+4 CONC 9
+3 OBJE @M354@
+3 _APID 1,7667::47786600
+2 NOTE Residence Post Office: Oswego
+1 RESI
+2 DATE 01 JUL 1863
+2 PLAC Hamilton, Madison, New York, USA
+3 MAP
+4 LATI N42.827
+4 LONG W75.5446
+2 SOUR @S273@
+3 PAGE National Archives and Records Administration (NARA); Washing
+4 CONC ton, D.C.; Consolidated Lists of Civil War Draft Registratio
+4 CONC n Records (Provost Marshal General's Bureau; Consolidated En
+4 CONC rollment Lists, 1863-1865); Record Group: 110, Records of th
+4 CONC e Provost Marsha
+3 OBJE @M359@
+3 _APID 1,1666::2211449
+2 NOTE Marital Status: Married
+1 DEAT
+2 DATE ABT 1870
+2 SOUR @S281@
+3 OBJE @M357@
+2 SOUR @S281@
+3 OBJE @M358@
 0 @sF8V3W0ZRpC3f0pTX3lb@ INDI
 1 REFN c692ba95-3827-49ab-8f22-251e693ea5a3
 1 NAME Patience /Mosher/
@@ -17428,7 +19938,7 @@
 4 CONC strict: 01; City: Madison; County: Madison; Page: 11
 3 OBJE @m1G8i0fLQKS8f00uRIke@
 3 _APID 1,2704::20748060
-2 SOUR @w6oneCDaTyySwwZ0y6W9@
+2 SOUR @S281@
 3 OBJE @M324@
 3 _APID 1,2469::938331849
 2 SOUR @yAMTVEqOTiKCsMjPyXmb@
@@ -17553,7 +20063,7 @@
 1 RESI
 2 DATE 1949
 2 PLAC Jacksonville, Florida, USA
-2 SOUR @w6oneCDaTyySwwZ0y6W9@
+2 SOUR @S281@
 3 OBJE @M324@
 3 _APID 1,2469::938331849
 1 DEAT
@@ -17753,6 +20263,147 @@
 3 QUAY 1
 2 NOTE Place is from father's residence.
 1 _XY 6800.00 1575.00
+0 @I504@ INDI
+1 REFN 7db51c60-7dd2-4ef1-accc-59c1423d9aae
+1 NAME Silas /Mosher/
+2 SOUR @8DCmzn75S8CoxNQmoyL8@
+3 PAGE 1820 U S Census; Census Place: Lebanon, Madison, New York; P
+4 CONC age: 67; NARA Roll: M33_73; Image: 79
+3 OBJE @M384@
+3 _APID 1,7734::450057
+2 SOUR @IXkilGMfSsmx954YFeZF@
+3 PAGE 1830; Census Place: Hamilton, Madison, New York; Series: M19
+4 CONC ; Roll: 93; Page: 289; Family History Library Film: 0017153
+3 OBJE @M383@
+3 _APID 1,8058::1547632
+2 SOUR @S229@
+3 PAGE Year: 1840; Census Place: Hamilton, Madison, New York; Roll
+4 CONC : 295; Page: 216; Family History Library Film: 0017192
+3 OBJE @M381@
+3 _APID 1,8057::1552086
+2 SOUR @S212@
+3 PAGE Year: 1850; Census Place: Madison, Madison, New York; Roll
+4 CONC : M432_527; Page: 75A; Image: 297
+3 OBJE @M361@
+3 _APID 1,8054::7054886
+2 SOUR @S209@
+3 PAGE Year: 1860; Census Place: Chicago Ward 1, Cook, Illinois; Ro
+4 CONC ll: M653_164; Page: 237; Family History Library Film: 803164
+3 OBJE @M379@
+3 _APID 1,7667::37312264
+2 SOUR @XkYfWXOxTRycLRJJyxNy@
+3 PAGE Source number: 23.000; Source type: Electronic Database; Num
+4 CONC ber of Pages: 1; Submitter Code: RKM
+3 _APID 1,7836::867509
+2 SOUR @S281@
+3 OBJE @M380@
+2 SOUR @S281@
+3 OBJE @M382@
+1 SEX M
+1 FAMC @F403@
+1 FAMS @F399@
+1 BIRT
+2 DATE 1788
+2 PLAC New York, USA
+3 MAP
+4 LATI N42.7531
+4 LONG W74.2224
+2 SOUR @S212@
+3 PAGE Year: 1850; Census Place: Madison, Madison, New York; Roll
+4 CONC : M432_527; Page: 75A; Image: 297
+3 OBJE @M361@
+3 _APID 1,8054::7054886
+2 SOUR @S209@
+3 PAGE Year: 1860; Census Place: Chicago Ward 1, Cook, Illinois; Ro
+4 CONC ll: M653_164; Page: 237; Family History Library Film: 803164
+3 OBJE @M379@
+3 _APID 1,7667::37312264
+2 SOUR @XkYfWXOxTRycLRJJyxNy@
+3 PAGE Source number: 23.000; Source type: Electronic Database; Num
+4 CONC ber of Pages: 1; Submitter Code: RKM
+3 _APID 1,7836::867509
+1 RESI
+2 DATE 1820
+2 PLAC Lebanon, Madison, New York, USA
+3 MAP
+4 LATI N42.7814
+4 LONG W75.6481
+2 SOUR @8DCmzn75S8CoxNQmoyL8@
+3 PAGE 1820 U S Census; Census Place: Lebanon, Madison, New York; P
+4 CONC age: 67; NARA Roll: M33_73; Image: 79
+3 OBJE @M384@
+3 _APID 1,7734::450057
+1 EVEN With Noble White, was issued patent for double shooting rifl
+2 CONC e.
+2 TYPE Patent Issued
+2 DATE 05 MAY 1828
+2 PLAC Hamilton, Madison, New York, USA
+3 MAP
+4 LATI N42.827
+4 LONG W75.5446
+1 RESI
+2 DATE 1830
+2 PLAC Hamilton, Madison, New York, USA
+3 MAP
+4 LATI N42.827
+4 LONG W75.5446
+2 SOUR @IXkilGMfSsmx954YFeZF@
+3 PAGE 1830; Census Place: Hamilton, Madison, New York; Series: M19
+4 CONC ; Roll: 93; Page: 289; Family History Library Film: 0017153
+3 OBJE @M383@
+3 _APID 1,8058::1547632
+1 RESI
+2 DATE 1840
+2 PLAC Hamilton, Madison, New York, USA
+3 MAP
+4 LATI N42.827
+4 LONG W75.5446
+2 SOUR @S229@
+3 PAGE Year: 1840; Census Place: Hamilton, Madison, New York; Roll
+4 CONC : 295; Page: 216; Family History Library Film: 0017192
+3 OBJE @M381@
+3 _APID 1,8057::1552086
+1 RESI
+2 DATE 1850
+2 PLAC Madison, Madison, New York, USA
+3 MAP
+4 LATI N42.899
+4 LONG W75.5121
+2 SOUR @S212@
+3 PAGE Year: 1850; Census Place: Madison, Madison, New York; Roll
+4 CONC : M432_527; Page: 75A; Image: 297
+3 OBJE @M361@
+3 _APID 1,8054::7054886
+1 RESI
+2 DATE 1860
+2 PLAC Chicago, Cook, Illinois, USA
+3 MAP
+4 LATI N41.85
+4 LONG W87.6501
+2 SOUR @S209@
+3 PAGE Year: 1860; Census Place: Chicago Ward 1, Cook, Illinois; Ro
+4 CONC ll: M653_164; Page: 237; Family History Library Film: 803164
+3 OBJE @M379@
+3 _APID 1,7667::37312264
+2 NOTE Residence Post Office: Chicago
+1 RESI
+2 DATE 1861
+2 PLAC Michigan Avenue, Chicago, Cook, Illinois, USA
+2 SOUR @S281@
+3 OBJE @M380@
+3 _APID 1,2469::351474600
+1 RESI
+2 DATE 1863
+2 PLAC Michigan Avenue, Chicago, Cook, Illinois, USA
+2 SOUR @S281@
+3 OBJE @M382@
+3 _APID 1,2469::349981807
+1 DEAT
+2 DATE ABT 1867
+2 PLAC Chicago, Cook, Illinois, USA
+3 MAP
+4 LATI N41.85
+4 LONG W87.6501
 0 @I442@ INDI
 1 REFN f95333f2-d8c3-4291-9f21-4d58f78a39df
 1 NAME Stuart Legrande /Mosher/
@@ -17769,40 +20420,100 @@
 1 SEX F
 1 FAMS @F390@
 1 _XY 6175.00 2450.00
+0 @I496@ INDI
+1 REFN e9b9d652-65df-430c-beae-71ee8d8c4a9b
+1 NAME William /Mosher/
+1 SEX M
+1 FAMC @F400@
+1 FAMS @F397@
+1 BIRT
+2 DATE 1715
+0 @I489@ INDI
+1 REFN 069de7e6-56bc-4913-a2f3-d2ab15d18757
+1 NAME William /Mosher/
+2 SOUR @S209@
+3 PAGE Year: 1860; Census Place: Deerfield, Tioga, Pennsylvania; Ro
+4 CONC ll: M653_1187; Page: 257; Family History Library Film: 80518
+4 CONC 7
+3 OBJE @M337@
+3 _APID 1,7667::5050404
+2 SOUR @S231@
+3 PAGE Year: 1870; Census Place: Hamilton, Madison, New York; Roll
+4 CONC : M593_967; Page: 236B; Family History Library Film: 552466
+3 OBJE @M336@
+3 _APID 1,7163::29830353
+1 SEX M
+1 FAMC @v943d0vRQDS58l9ZqvAY@
+1 BIRT
+2 DATE 02 FEB 1854
+2 PLAC Chatham, Tioga, Pennsylvania, USA
+3 MAP
+4 LATI N39.8531
+4 LONG W75.8207
+2 SOUR @S209@
+3 PAGE Year: 1860; Census Place: Deerfield, Tioga, Pennsylvania; Ro
+4 CONC ll: M653_1187; Page: 257; Family History Library Film: 80518
+4 CONC 7
+3 OBJE @M337@
+3 _APID 1,7667::5050404
+2 SOUR @S231@
+3 PAGE Year: 1870; Census Place: Hamilton, Madison, New York; Roll
+4 CONC : M593_967; Page: 236B; Family History Library Film: 552466
+3 OBJE @M336@
+3 _APID 1,7163::29830353
+1 RESI
+2 DATE 1860
+2 PLAC Deerfield, Tioga, Pennsylvania, USA
+3 MAP
+4 LATI N41.95
+4 LONG W77.4164
+2 SOUR @S209@
+3 PAGE Year: 1860; Census Place: Deerfield, Tioga, Pennsylvania; Ro
+4 CONC ll: M653_1187; Page: 257; Family History Library Film: 80518
+4 CONC 7
+3 OBJE @M337@
+3 _APID 1,7667::5050404
+2 NOTE Residence Post Office: Wellsboro
+1 RESI
+2 DATE 1870
+2 PLAC Hamilton, Madison, New York, USA
+3 MAP
+4 LATI N42.827
+4 LONG W75.5446
+2 SOUR @S231@
+3 PAGE Year: 1870; Census Place: Hamilton, Madison, New York; Roll
+4 CONC : M593_967; Page: 236B; Family History Library Film: 552466
+3 OBJE @M336@
+3 _APID 1,7163::29830353
+2 NOTE Residence Post Office: Hamilton
 0 @BXon2031Q0iFS4Xa2ZnV@ INDI
 1 REFN fbe51297-e5b3-484c-b7c0-0b6e286bbb07
 1 NAME William D. /Mosher/
 2 SOUR @S209@
-3 PAGE Year: 1860; Census Place: Deerfield, Tioga, Pennsylvania; Ro
-4 CONC ll: M653_1187; Page: 257; Image: 261; Family History Librar
-4 CONC y Film: 805187
-3 OBJE @f9ahvlqqRYqxYBulVLlj@
-3 _APID 1,7667::5050404
+3 PAGE Year: 1860; Census Place: Madison, Madison, New York; Roll
+4 CONC : M653_781; Page: 1062; Family History Library Film: 803781
+3 OBJE @M340@
+3 _APID 1,7667::49468670
 2 SOUR @S231@
-3 PAGE Year: 1870; Census Place: Hamilton, Madison, New York; Roll
-4 CONC : M593_967; Page: 236B; Image: 477; Family History Library F
-4 CONC ilm: 552466
-3 OBJE @j6tAg5qFQLS9qk5u33cf@
-3 _APID 1,7163::29830353
+3 PAGE Year: 1870; Census Place: Madison, Madison, New York; Roll
+4 CONC : M593_968; Page: 414A; Family History Library Film: 552467
+3 OBJE @M341@
+3 _APID 1,7163::29832305
 2 SOUR @S217@
 3 PAGE Year: 1880; Census Place: Madison, Madison, New York; Roll
 4 CONC : 860; Family History Film: 1254860; Page: 335A; Enumeratio
 4 CONC n District: 068; Image: 0519
 3 OBJE @j9qnR3OISnGHoXrvNfSI@
 3 _APID 1,6742::2495819
-2 SOUR @8mC6kbR7T2mY5Hq8QWJl@
-3 PAGE Ancestry Family Tree
-3 DATA
-4 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=62861
-5 CONC &pid=41
-2 SOUR @8mC6kbR7T2mY5Hq8QWJl@
-3 PAGE Ancestry Family Tree
-3 DATA
-4 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=60921
-5 CONC 378&pid=48
 2 SOUR @S208@
 3 OBJE @M283@
 3 _APID 1,61377::1050142590
+2 SOUR @S211@
+3 OBJE @M338@
+3 _APID 1,7181::1653712699
+2 SOUR @W3ek4ErgQoOvxC5sOB5w@
+3 OBJE @M342@
+3 _APID 1,7250::1365922602
 2 SOUR @omMXaVgrQNKvPl1yRe9j@
 3 PAGE Letters of Administration, 1830-1903, and Index, 1806-1890
 4 CONC , Madison County, New York; Author: New York. Surrogate's Co
@@ -17819,7 +20530,7 @@
 2 SOUR @S215@
 3 _APID 1,60901::611962739
 1 SEX M
-1 FAMC @v943d0vRQDS58l9ZqvAY@
+1 FAMC @F395@
 1 FAMS @YIqlnp8mREuD4RW6nexn@
 1 OBJE @T2MdOJSOTFq3i3RFJMNw@
 1 NOTE _XY 769 30
@@ -17829,83 +20540,85 @@
 2 CONC her of Madison, NY. It only has peoples names, no informatio
 2 CONC n. It is just to help me keep my Mosher cousins straight.
 1 BIRT
-2 DATE 02 FEB 1854
-2 PLAC Chatham, Tioga, Pennsylvania, USA
+2 DATE ABT 1854
+2 PLAC Madison, New York, USA
 3 MAP
-4 LATI N39.8531
-4 LONG W75.8207
+4 LATI N42.9118
+4 LONG W75.6682
 2 SOUR @S209@
-3 PAGE Year: 1860; Census Place: Deerfield, Tioga, Pennsylvania; Ro
-4 CONC ll: M653_1187; Page: 257; Image: 261; Family History Librar
-4 CONC y Film: 805187
-3 OBJE @f9ahvlqqRYqxYBulVLlj@
-3 _APID 1,7667::5050404
+3 PAGE Year: 1860; Census Place: Madison, Madison, New York; Roll
+4 CONC : M653_781; Page: 1062; Family History Library Film: 803781
+3 OBJE @M340@
+3 _APID 1,7667::49468670
 2 SOUR @S231@
-3 PAGE Year: 1870; Census Place: Hamilton, Madison, New York; Roll
-4 CONC : M593_967; Page: 236B; Image: 477; Family History Library F
-4 CONC ilm: 552466
-3 OBJE @j6tAg5qFQLS9qk5u33cf@
-3 _APID 1,7163::29830353
+3 PAGE Year: 1870; Census Place: Madison, Madison, New York; Roll
+4 CONC : M593_968; Page: 414A; Family History Library Film: 552467
+3 OBJE @M341@
+3 _APID 1,7163::29832305
 2 SOUR @S217@
 3 PAGE Year: 1880; Census Place: Madison, Madison, New York; Roll
 4 CONC : 860; Family History Film: 1254860; Page: 335A; Enumeratio
 4 CONC n District: 068; Image: 0519
 3 OBJE @j9qnR3OISnGHoXrvNfSI@
 3 _APID 1,6742::2495819
-2 SOUR @Hm17MLj2SaOPgMVpc2Wa@
-3 QUAY 1
+2 SOUR @S211@
+3 OBJE @M338@
+3 _APID 1,7181::1653712699
+2 SOUR @W3ek4ErgQoOvxC5sOB5w@
+3 OBJE @M342@
+3 _APID 1,7250::1365922602
+2 SOUR @S215@
+3 _APID 1,60901::611962739
 2 NOTE Place is assumed from father's residence at the time.
-1 CENS
-2 DATE 01 JUN 1860
-2 PLAC Deerfield, Tioga, Pennsylvania, USA
+1 RESI
+2 DATE 1855
+2 PLAC Madison, Madison, New York, USA
 3 MAP
-4 LATI N41.95
-4 LONG W77.4164
-2 SOUR @WS1JlJweTKGmXblGgbvd@
-3 QUAY 3
+4 LATI N42.899
+4 LONG W75.5121
+2 SOUR @S211@
+3 OBJE @M338@
+3 _APID 1,7181::1653712699
+2 NOTE Relation to Head: Child
 1 RESI
 2 DATE 1860
-2 PLAC Deerfield, Tioga, Pennsylvania, USA
+2 PLAC Madison, Madison, New York, USA
 3 MAP
-4 LATI N41.95
-4 LONG W77.4164
+4 LATI N42.899
+4 LONG W75.5121
 2 SOUR @S209@
-3 PAGE Year: 1860; Census Place: Deerfield, Tioga, Pennsylvania; Ro
-4 CONC ll: M653_1187; Page: 257; Image: 261; Family History Librar
-4 CONC y Film: 805187
-3 OBJE @f9ahvlqqRYqxYBulVLlj@
-3 _APID 1,7667::5050404
-2 SOUR @S217@
-3 PAGE Year: 1880; Census Place: Madison, Madison, New York; Roll
-4 CONC : 860; Family History Film: 1254860; Page: 335A; Enumeratio
-4 CONC n District: 068; Image: 0519
-3 OBJE @j9qnR3OISnGHoXrvNfSI@
-3 _APID 1,6742::2495819
-1 CENS
-2 DATE 01 JUN 1870
-2 PLAC Hamilton, Madison, New York, USA
-3 MAP
-4 LATI N42.827
-4 LONG W75.5446
-2 SOUR @zTl5QbdmR2aCrJNt7GN5@
-3 QUAY 3
+3 PAGE Year: 1860; Census Place: Madison, Madison, New York; Roll
+4 CONC : M653_781; Page: 1062; Family History Library Film: 803781
+3 OBJE @M340@
+3 _APID 1,7667::49468670
+2 NOTE Residence Post Office: Madison
 1 RESI
 2 DATE 1870
-2 PLAC Hamilton, Madison, New York, USA
+2 PLAC Madison, Madison, New York, USA
 3 MAP
-4 LATI N42.827
-4 LONG W75.5446
+4 LATI N42.899
+4 LONG W75.5121
 2 SOUR @S231@
-3 PAGE Year: 1870; Census Place: Hamilton, Madison, New York; Roll
-4 CONC : M593_967; Page: 236B; Image: 477; Family History Library F
-4 CONC ilm: 552466
-3 OBJE @j6tAg5qFQLS9qk5u33cf@
-3 _APID 1,7163::29830353
+3 PAGE Year: 1870; Census Place: Madison, Madison, New York; Roll
+4 CONC : M593_968; Page: 414A; Family History Library Film: 552467
+3 OBJE @M341@
+3 _APID 1,7163::29832305
+2 NOTE Residence Post Office: Madison
 1 CENS
 2 DATE 01 JUN 1875
 2 PLAC Lawton House, Madison, Madison, New York, USA
 2 SOUR @bA5v3jeuSeGwvZqUL7c3@
 3 QUAY 3
+1 RESI
+2 DATE 01 JUN 1875
+2 PLAC Madison, Madison, New York, USA
+3 MAP
+4 LATI N42.899
+4 LONG W75.5121
+2 SOUR @W3ek4ErgQoOvxC5sOB5w@
+3 OBJE @M342@
+3 _APID 1,7250::1365922602
+2 NOTE Relation to Head: Son
 1 CENS
 2 DATE 01 JUN 1880
 2 PLAC Madison, Madison, New York, USA
@@ -17937,6 +20650,7 @@
 3 _APID 1,6742::2495819
 2 NOTE Age: 26; Marital Status: Married; Relation to Head of House
 3 CONC : Self
+2 NOTE Marital Status: Married; Relation to Head: Self
 1 EVEN
 2 TYPE bought land
 2 DATE 29 NOV 1881
@@ -18901,7 +21615,7 @@
 4 CONC strict: 01; City: Madison; County: Madison; Page: 4
 3 OBJE @m1x2HapLT7ahZoqmUAVC@
 3 _APID 1,2704::20748509
-2 SOUR @w6oneCDaTyySwwZ0y6W9@
+2 SOUR @S281@
 3 OBJE @M295@
 3 _APID 1,2469::1373073412
 2 SOUR @yAMTVEqOTiKCsMjPyXmb@
@@ -18990,7 +21704,7 @@
 1 RESI
 2 DATE 1959
 2 PLAC Somerville; Bound Brook, New Jersey, USA
-2 SOUR @w6oneCDaTyySwwZ0y6W9@
+2 SOUR @S281@
 3 OBJE @M295@
 3 _APID 1,2469::1373073412
 1 DEAT
@@ -19001,6 +21715,457 @@
 4 CONC fore 1951
 3 _APID 1,3693::43965324
 1 _XY 7125.00 2350.00
+0 @I535@ INDI
+1 REFN e194c7f8-a29a-45b1-b08b-ae416a80bc17
+1 NAME Daniel? /Mosier/
+2 SOUR @S229@
+3 PAGE Year: 1840; Census Place: Volney, Oswego, New York; Roll: 32
+4 CONC 5; Page: 49; Family History Library Film: 0017202
+3 OBJE @M398@
+3 _APID 1,8057::3761428
+1 SEX M
+1 FAMS @F413@
+1 BIRT
+2 DATE ABT 1795
+1 RESI
+2 DATE 1840
+2 PLAC Volney, Oswego, New York, USA
+3 MAP
+4 LATI N43.3428
+4 LONG W76.3581
+2 SOUR @S229@
+3 PAGE Year: 1840; Census Place: Volney, Oswego, New York; Roll: 32
+4 CONC 5; Page: 49; Family History Library Film: 0017202
+3 OBJE @M398@
+3 _APID 1,8057::3761428
+2 NOTE just a guess that this is David Orson Mosier's residence i
+3 CONC n 1840 (since it's the only Mosier household in Volney)
+0 @I532@ INDI
+1 REFN cebcb814-62c9-4eb7-b551-187c7db48ef0
+1 NAME David Orson /Mosier/
+2 SOUR @S231@
+3 PAGE Year: 1870; Census Place: Volney, Oswego, New York; Roll: M5
+4 CONC 93_1074; Page: 574B; Family History Library Film: 552573
+3 OBJE @M367@
+3 _APID 1,7163::31934898
+2 SOUR @S217@
+3 PAGE Year: 1880; Census Place: Fulton, Oswego, New York; Roll: 91
+4 CONC 5; Page: 218C; Enumeration District: 272
+3 OBJE @M370@
+3 _APID 1,6742::4681191
+2 SOUR @MYPTYwXjROCnuswpONVl@
+3 PAGE Year: 1900; Census Place: Newton Ward 5, Middlesex, Massachu
+4 CONC setts; Page: 4; Enumeration District: 0903; FHL microfilm: 1
+4 CONC 240664
+3 OBJE @M373@
+3 _APID 1,7602::48185471
+2 SOUR @S222@
+3 PAGE Year: 1910; Census Place: Newton Ward 5, Middlesex, Massachu
+4 CONC setts; Roll: T624_603; Page: 1B; Enumeration District: 0970
+4 CONC ; FHL microfilm: 1374616
+3 OBJE @M388@
+3 _APID 1,7884::11207784
+2 SOUR @S226@
+3 OBJE @M369@
+3 _APID 1,7218::2671549
+2 SOUR @W3ek4ErgQoOvxC5sOB5w@
+3 OBJE @M368@
+3 _APID 1,7250::1373759534
+2 SOUR @S281@
+3 OBJE @M387@
+3 _APID 1,2469::612342406
+2 SOUR @S241@
+3 _APID 1,60525::136334698
+1 SEX M
+1 FAMC @F413@
+1 FAMS @F410@
+1 FAMS @F411@
+1 BIRT
+2 DATE APR 1839
+2 PLAC New York, USA
+3 MAP
+4 LATI N42.7531
+4 LONG W74.2224
+2 SOUR @S231@
+3 PAGE Year: 1870; Census Place: Volney, Oswego, New York; Roll: M5
+4 CONC 93_1074; Page: 574B; Family History Library Film: 552573
+3 OBJE @M367@
+3 _APID 1,7163::31934898
+2 SOUR @S217@
+3 PAGE Year: 1880; Census Place: Fulton, Oswego, New York; Roll: 91
+4 CONC 5; Page: 218C; Enumeration District: 272
+3 OBJE @M370@
+3 _APID 1,6742::4681191
+2 SOUR @MYPTYwXjROCnuswpONVl@
+3 PAGE Year: 1900; Census Place: Newton Ward 5, Middlesex, Massachu
+4 CONC setts; Page: 4; Enumeration District: 0903; FHL microfilm: 1
+4 CONC 240664
+3 OBJE @M373@
+3 _APID 1,7602::48185471
+2 SOUR @S222@
+3 PAGE Year: 1910; Census Place: Newton Ward 5, Middlesex, Massachu
+4 CONC setts; Roll: T624_603; Page: 1B; Enumeration District: 0970
+4 CONC ; FHL microfilm: 1374616
+3 OBJE @M388@
+3 _APID 1,7884::11207784
+2 SOUR @S226@
+3 OBJE @M369@
+3 _APID 1,7218::2671549
+2 SOUR @W3ek4ErgQoOvxC5sOB5w@
+3 OBJE @M368@
+3 _APID 1,7250::1373759534
+1 BIRT
+2 DATE ABT 1837
+2 PLAC Oswego, New York, USA
+3 MAP
+4 LATI N43.2462
+4 LONG W76.139
+1 RESI
+2 DATE 1850
+2 PLAC Fulton, Oswego, New York, USA
+3 MAP
+4 LATI N43.3228
+4 LONG W76.4172
+1 RESI
+2 DATE 1855
+2 PLAC Volney, Oswego, New York, USA
+3 MAP
+4 LATI N43.3428
+4 LONG W76.3581
+2 SOUR @S211@
+3 OBJE @M386@
+3 _APID 1,7181::1653868289
+2 NOTE Relation to Head: Child
+1 RESI
+2 DATE 1865
+2 PLAC Volney, Oswego, New York, USA
+3 MAP
+4 LATI N43.3428
+4 LONG W76.3581
+2 SOUR @S226@
+3 OBJE @M369@
+3 _APID 1,7218::2671549
+2 NOTE Relation to Head of House: Head
+1 RESI
+2 DATE 1870
+2 PLAC Volney, Oswego, New York, USA
+3 MAP
+4 LATI N43.3428
+4 LONG W76.3581
+2 SOUR @S231@
+3 PAGE Year: 1870; Census Place: Volney, Oswego, New York; Roll: M5
+4 CONC 93_1074; Page: 574B; Family History Library Film: 552573
+3 OBJE @M367@
+3 _APID 1,7163::31934898
+2 NOTE Residence Post Office: Fulton
+1 RESI
+2 DATE 01 JUN 1875
+2 PLAC Volney, Oswego, New York, USA
+3 MAP
+4 LATI N43.3428
+4 LONG W76.3581
+2 SOUR @W3ek4ErgQoOvxC5sOB5w@
+3 OBJE @M368@
+3 _APID 1,7250::1373759534
+2 NOTE Relation to Head: Head
+1 RESI
+2 DATE 1880
+2 PLAC Fulton, Oswego, New York, USA
+3 MAP
+4 LATI N43.3228
+4 LONG W76.4172
+2 SOUR @S217@
+3 PAGE Year: 1880; Census Place: Fulton, Oswego, New York; Roll: 91
+4 CONC 5; Page: 218C; Enumeration District: 272
+3 OBJE @M370@
+3 _APID 1,6742::4681191
+2 NOTE Marital Status: Married; Relation to Head: Self
+1 RESI
+2 DATE 1900
+2 PLAC Newton, Middlesex, Massachusetts, USA
+3 MAP
+4 LATI N42.337
+4 LONG W71.2092
+2 SOUR @MYPTYwXjROCnuswpONVl@
+3 PAGE Year: 1900; Census Place: Newton Ward 5, Middlesex, Massachu
+4 CONC setts; Page: 4; Enumeration District: 0903; FHL microfilm: 1
+4 CONC 240664
+3 OBJE @M373@
+3 _APID 1,7602::48185471
+2 NOTE Marital Status: Married; Relation to Head: Head
+1 RESI
+2 DATE 1910
+2 PLAC Newton, Middlesex, Massachusetts, USA
+3 MAP
+4 LATI N42.337
+4 LONG W71.2092
+2 SOUR @S222@
+3 PAGE Year: 1910; Census Place: Newton Ward 5, Middlesex, Massachu
+4 CONC setts; Roll: T624_603; Page: 1B; Enumeration District: 0970
+4 CONC ; FHL microfilm: 1374616
+3 OBJE @M388@
+3 _APID 1,7884::11207784
+2 NOTE Marital Status: Married; Relation to Head of House: Head
+1 DEAT
+2 DATE 03 MAR 1916
+2 PLAC Newton, Middlesex, Massachusetts, USA
+3 MAP
+4 LATI N42.337
+4 LONG W71.2092
+2 SOUR @S281@
+3 OBJE @M387@
+3 _APID 1,2469::612342406
+2 SOUR @S241@
+3 _APID 1,60525::136334698
+1 BURI
+2 PLAC Newton Cemetery, Newton, Middlesex, Massachusetts, USA
+2 SOUR @S241@
+3 _APID 1,60525::136334698
+0 @I522@ INDI
+1 REFN 59facc4e-6ceb-4122-80e5-ebcba21d7cae
+1 NAME Francis O. /Mosier/
+2 SOUR @S231@
+3 PAGE Year: 1870; Census Place: Volney, Oswego, New York; Roll: M5
+4 CONC 93_1074; Page: 574B; Family History Library Film: 552573
+3 OBJE @M367@
+3 _APID 1,7163::31934902
+2 SOUR @S217@
+3 PAGE Year: 1880; Census Place: Fulton, Oswego, New York; Roll: 91
+4 CONC 5; Page: 218C; Enumeration District: 272
+3 OBJE @M370@
+3 _APID 1,6742::39028980
+2 SOUR @W3ek4ErgQoOvxC5sOB5w@
+3 OBJE @M368@
+3 _APID 1,7250::1373759537
+1 SEX M
+1 FAMC @F410@
+1 BIRT
+2 DATE ABT 1868
+2 PLAC Oswego, New York, USA
+3 MAP
+4 LATI N43.2462
+4 LONG W76.139
+2 SOUR @S231@
+3 PAGE Year: 1870; Census Place: Volney, Oswego, New York; Roll: M5
+4 CONC 93_1074; Page: 574B; Family History Library Film: 552573
+3 OBJE @M367@
+3 _APID 1,7163::31934902
+2 SOUR @S217@
+3 PAGE Year: 1880; Census Place: Fulton, Oswego, New York; Roll: 91
+4 CONC 5; Page: 218C; Enumeration District: 272
+3 OBJE @M370@
+3 _APID 1,6742::39028980
+2 SOUR @W3ek4ErgQoOvxC5sOB5w@
+3 OBJE @M368@
+3 _APID 1,7250::1373759537
+1 RESI
+2 DATE 1870
+2 PLAC Volney, Oswego, New York, USA
+3 MAP
+4 LATI N43.3428
+4 LONG W76.3581
+2 SOUR @S231@
+3 PAGE Year: 1870; Census Place: Volney, Oswego, New York; Roll: M5
+4 CONC 93_1074; Page: 574B; Family History Library Film: 552573
+3 OBJE @M367@
+3 _APID 1,7163::31934902
+2 NOTE Residence Post Office: Fulton
+1 RESI
+2 DATE 01 JUN 1875
+2 PLAC Volney, Oswego, New York, USA
+3 MAP
+4 LATI N43.3428
+4 LONG W76.3581
+2 SOUR @W3ek4ErgQoOvxC5sOB5w@
+3 OBJE @M368@
+3 _APID 1,7250::1373759537
+2 NOTE Relation to Head: Son
+1 RESI
+2 DATE 1880
+2 PLAC Fulton, Oswego, New York, USA
+3 MAP
+4 LATI N43.3228
+4 LONG W76.4172
+2 SOUR @S217@
+3 PAGE Year: 1880; Census Place: Fulton, Oswego, New York; Roll: 91
+4 CONC 5; Page: 218C; Enumeration District: 272
+3 OBJE @M370@
+3 _APID 1,6742::39028980
+2 NOTE Marital Status: Single; Relation to Head: Son
+0 @I523@ INDI
+1 REFN 778ceb9e-d926-49bc-95d3-72e3da01fdeb
+1 NAME John /Mosier/
+2 SOUR @S231@
+3 PAGE Year: 1870; Census Place: Volney, Oswego, New York; Roll: M5
+4 CONC 93_1074; Page: 574B; Family History Library Film: 552573
+3 OBJE @M367@
+3 _APID 1,7163::31934900
+2 SOUR @S217@
+3 PAGE Year: 1880; Census Place: Fulton, Oswego, New York; Roll: 91
+4 CONC 5; Page: 221A; Enumeration District: 272
+3 OBJE @M371@
+3 _APID 1,6742::4681370
+2 SOUR @S226@
+3 OBJE @M369@
+3 _APID 1,7218::2671552
+2 SOUR @W3ek4ErgQoOvxC5sOB5w@
+3 OBJE @M368@
+3 _APID 1,7250::1373759536
+1 SEX M
+1 FAMC @F410@
+1 BIRT
+2 DATE ABT 1861
+2 PLAC Oswego, New York, USA
+3 MAP
+4 LATI N43.2462
+4 LONG W76.139
+2 SOUR @S231@
+3 PAGE Year: 1870; Census Place: Volney, Oswego, New York; Roll: M5
+4 CONC 93_1074; Page: 574B; Family History Library Film: 552573
+3 OBJE @M367@
+3 _APID 1,7163::31934900
+2 SOUR @S217@
+3 PAGE Year: 1880; Census Place: Fulton, Oswego, New York; Roll: 91
+4 CONC 5; Page: 221A; Enumeration District: 272
+3 OBJE @M371@
+3 _APID 1,6742::4681370
+2 SOUR @S226@
+3 OBJE @M369@
+3 _APID 1,7218::2671552
+2 SOUR @W3ek4ErgQoOvxC5sOB5w@
+3 OBJE @M368@
+3 _APID 1,7250::1373759536
+1 RESI
+2 DATE 1865
+2 PLAC Volney, Oswego, New York, USA
+3 MAP
+4 LATI N43.3428
+4 LONG W76.3581
+2 SOUR @S226@
+3 OBJE @M369@
+3 _APID 1,7218::2671552
+2 NOTE Relation to Head of House: Son
+1 RESI
+2 DATE 1870
+2 PLAC Volney, Oswego, New York, USA
+3 MAP
+4 LATI N43.3428
+4 LONG W76.3581
+2 SOUR @S231@
+3 PAGE Year: 1870; Census Place: Volney, Oswego, New York; Roll: M5
+4 CONC 93_1074; Page: 574B; Family History Library Film: 552573
+3 OBJE @M367@
+3 _APID 1,7163::31934900
+2 NOTE Residence Post Office: Fulton
+1 RESI
+2 DATE 01 JUN 1875
+2 PLAC Volney, Oswego, New York, USA
+3 MAP
+4 LATI N43.3428
+4 LONG W76.3581
+2 SOUR @W3ek4ErgQoOvxC5sOB5w@
+3 OBJE @M368@
+3 _APID 1,7250::1373759536
+2 NOTE Relation to Head: Son
+1 RESI
+2 DATE 1880
+2 PLAC Fulton, Oswego, New York, USA
+3 MAP
+4 LATI N43.3228
+4 LONG W76.4172
+2 SOUR @S217@
+3 PAGE Year: 1880; Census Place: Fulton, Oswego, New York; Roll: 91
+4 CONC 5; Page: 221A; Enumeration District: 272
+3 OBJE @M371@
+3 _APID 1,6742::4681370
+2 NOTE Marital Status: Single; Relation to Head: Grandson
+0 @I521@ INDI
+1 REFN dd98d0a6-ed02-4662-94bc-fff6434ec4b7
+1 NAME William Frederick /Mosier/
+2 SOUR @S231@
+3 PAGE Year: 1870; Census Place: Volney, Oswego, New York; Roll: M5
+4 CONC 93_1074; Page: 574B; Family History Library Film: 552573
+3 OBJE @M367@
+3 _APID 1,7163::31934901
+2 SOUR @S217@
+3 PAGE Year: 1880; Census Place: Fulton, Oswego, New York; Roll: 91
+4 CONC 5; Page: 218C; Enumeration District: 272
+3 OBJE @M370@
+3 _APID 1,6742::4056224
+2 SOUR @S226@
+3 OBJE @M369@
+3 _APID 1,7218::2671553
+2 SOUR @W3ek4ErgQoOvxC5sOB5w@
+3 OBJE @M368@
+3 _APID 1,7250::1373759538
+1 SEX M
+1 FAMC @F410@
+1 BIRT
+2 DATE DEC 1864
+2 PLAC Oswego, New York, USA
+3 MAP
+4 LATI N43.2462
+4 LONG W76.139
+2 SOUR @S231@
+3 PAGE Year: 1870; Census Place: Volney, Oswego, New York; Roll: M5
+4 CONC 93_1074; Page: 574B; Family History Library Film: 552573
+3 OBJE @M367@
+3 _APID 1,7163::31934901
+2 SOUR @S217@
+3 PAGE Year: 1880; Census Place: Fulton, Oswego, New York; Roll: 91
+4 CONC 5; Page: 218C; Enumeration District: 272
+3 OBJE @M370@
+3 _APID 1,6742::4056224
+2 SOUR @S226@
+3 OBJE @M369@
+3 _APID 1,7218::2671553
+2 SOUR @W3ek4ErgQoOvxC5sOB5w@
+3 OBJE @M368@
+3 _APID 1,7250::1373759538
+1 RESI
+2 DATE 1865
+2 PLAC Volney, Oswego, New York, USA
+3 MAP
+4 LATI N43.3428
+4 LONG W76.3581
+2 SOUR @S226@
+3 OBJE @M369@
+3 _APID 1,7218::2671553
+2 NOTE Relation to Head of House: Son
+1 RESI
+2 DATE 1870
+2 PLAC Volney, Oswego, New York, USA
+3 MAP
+4 LATI N43.3428
+4 LONG W76.3581
+2 SOUR @S231@
+3 PAGE Year: 1870; Census Place: Volney, Oswego, New York; Roll: M5
+4 CONC 93_1074; Page: 574B; Family History Library Film: 552573
+3 OBJE @M367@
+3 _APID 1,7163::31934901
+2 NOTE Residence Post Office: Fulton
+1 RESI
+2 DATE 01 JUN 1875
+2 PLAC Volney, Oswego, New York, USA
+3 MAP
+4 LATI N43.3428
+4 LONG W76.3581
+2 SOUR @W3ek4ErgQoOvxC5sOB5w@
+3 OBJE @M368@
+3 _APID 1,7250::1373759538
+2 NOTE Relation to Head: Son
+1 RESI
+2 DATE 1880
+2 PLAC Fulton, Oswego, New York, USA
+3 MAP
+4 LATI N43.3228
+4 LONG W76.4172
+2 SOUR @S217@
+3 PAGE Year: 1880; Census Place: Fulton, Oswego, New York; Roll: 91
+4 CONC 5; Page: 218C; Enumeration District: 272
+3 OBJE @M370@
+3 _APID 1,6742::4056224
+2 NOTE Marital Status: Single; Relation to Head: Son
 0 @JeyojXWyTnCseTMFiMRW@ INDI
 1 REFN b898ea4a-b148-4ae0-8901-e88b86000326
 1 NAME Adam /Mott/
@@ -20298,7 +23463,7 @@
 4 CONC SA; Certificate Number Range: 039601-042300
 3 OBJE @BYVuPQ2MTRSduuy9lRqw@
 3 _APID 1,5164::605424371
-2 SOUR @w6oneCDaTyySwwZ0y6W9@
+2 SOUR @S281@
 3 OBJE @v4zo9xFfTK2aXOXO30fv@
 3 _APID 1,2469::51729881
 1 SEX M
@@ -20551,7 +23716,7 @@
 4 CONC strict: 02; City: Sangerfield; County: Oneida; Page: 10
 3 OBJE @E0YQSs1ETg6kXH9iYZtx@
 3 _APID 1,2704::16498996
-2 SOUR @w6oneCDaTyySwwZ0y6W9@
+2 SOUR @S281@
 3 OBJE @qQGuYPQ6SHegzhgk3XP3@
 3 _APID 1,2469::1416724658
 2 SOUR @S241@
@@ -20795,7 +23960,7 @@
 1 RESI
 2 DATE 1963
 2 PLAC 1410 East Avenue, Napa, Napa, California, USA
-2 SOUR @w6oneCDaTyySwwZ0y6W9@
+2 SOUR @S281@
 3 OBJE @qQGuYPQ6SHegzhgk3XP3@
 3 _APID 1,2469::1416724658
 1 DEAT Age at Death: 86
@@ -20959,7 +24124,7 @@
 4 CONC strict: 02; City: Sangerfield; County: Oneida; Page: 10
 3 OBJE @E0YQSs1ETg6kXH9iYZtx@
 3 _APID 1,2704::16499002
-2 SOUR @w6oneCDaTyySwwZ0y6W9@
+2 SOUR @S281@
 3 OBJE @M297@
 3 _APID 1,2469::258294324
 2 SOUR @yAMTVEqOTiKCsMjPyXmb@
@@ -21055,7 +24220,7 @@
 1 RESI
 2 DATE 1957
 2 PLAC Richmond, California, USA
-2 SOUR @w6oneCDaTyySwwZ0y6W9@
+2 SOUR @S281@
 3 OBJE @M297@
 3 _APID 1,2469::258294324
 1 DEAT Age: 81
@@ -24972,7 +28137,7 @@
 4 CONC strict: 01; City: Madison; County: Madison; Page: 11
 3 OBJE @m1G8i0fLQKS8f00uRIke@
 3 _APID 1,2704::20748058
-2 SOUR @w6oneCDaTyySwwZ0y6W9@
+2 SOUR @S281@
 3 OBJE @BD0BIMRhTxybOmPeZZ32@
 3 _APID 1,2469::1407776502
 2 SOUR @S241@
@@ -25103,7 +28268,7 @@
 3 MAP
 4 LATI N36.9741
 4 LONG W122.0308
-2 SOUR @w6oneCDaTyySwwZ0y6W9@
+2 SOUR @S281@
 3 OBJE @BD0BIMRhTxybOmPeZZ32@
 3 _APID 1,2469::1407776502
 1 DEAT
@@ -25430,6 +28595,17 @@
 4 CONC re 1951
 3 _APID 1,3693::68638557
 1 _XY 5500.00 2350.00
+0 @I498@ INDI
+1 REFN eba23d24-374f-4ecc-8b0e-bc0ae0933279
+1 NAME Margaret /Wood/
+1 SEX F
+1 FAMS @F397@
+1 BIRT
+2 DATE 26 APR 1719
+2 PLAC Little Compton, Newport, Rhode Island, USA
+3 MAP
+4 LATI N41.51
+4 LONG W71.1717
 0 @I481@ INDI
 1 REFN 0074a8ca-2c11-437b-824d-8fc4736330f6
 1 NAME William /Wood/
@@ -26006,6 +29182,14 @@
 3 MAP
 4 LATI N42.899
 4 LONG W75.5121
+2 SOUR @S203@
+3 PAGE New York State Department of Health; Albany, NY, USA; New Yo
+4 CONC rk State Marriage Index
+3 OBJE @M374@
+2 SOUR @S203@
+3 PAGE New York State Department of Health; Albany, NY, USA; New Yo
+4 CONC rk State Marriage Index
+3 OBJE @M372@
 0 @0AHPJQMgRoaRteWxND3Z@ FAM
 1 REFN 4f126481-4c31-4a53-9b69-cc7f868fd3ce
 1 HUSB @esHRgd1WSxarhtORNU69@
@@ -26061,6 +29245,12 @@
 2 _MREL Natural
 1 MARR
 2 DATE ABT 1848
+0 @F398@ FAM
+1 HUSB @I499@
+1 WIFE @I500@
+1 CHIL @I506@
+2 _FREL Natural
+2 _MREL Natural
 0 @UpizhAKlSPaukMEkeSKp@ FAM
 1 REFN f5c36bdb-536f-4ff2-91d9-793926b7f3ab
 1 HUSB @pefJZqyDQ0ut1sJUgJIk@
@@ -26188,6 +29378,10 @@
 0 @F343@ FAM
 1 HUSB @I428@
 1 WIFE @I426@
+0 @F404@ FAM
+1 HUSB @I501@
+1 CHIL @I500@
+2 _FREL Natural
 0 @snFKksFFSSCXt2N0FtwI@ FAM
 1 REFN 1d141743-a872-4bbc-9ce0-acf8d9dbfaeb
 1 HUSB @HJwjrLJnTSKTFm3LOlEL@
@@ -26223,6 +29417,12 @@
 1 REFN d9b2eb3f-d2d7-4086-ab32-1609a79bfe81
 1 HUSB @3B7azDOeTcqdZhnjwG4A@
 1 WIFE @VNrJncYEQ5ChlpFYD9kD@
+0 @F409@ FAM
+1 HUSB @I530@
+1 WIFE @I531@
+1 CHIL @I492@
+2 _FREL Natural
+2 _MREL Natural
 0 @9GfyXMWARWSaqCWX3xZ7@ FAM
 1 REFN 4e73e0e0-b0f3-4897-bc17-f6460e66a828
 1 HUSB @WPM2KCu4S0KRG1x2dLJE@
@@ -26304,6 +29504,64 @@
 4 LATI N41.9584
 4 LONG W70.6672
 2 SOUR @91JIXBEJQz6bVLkVlmAF@
+0 @F405@ FAM
+1 HUSB @I511@
+1 WIFE @I519@
+1 MARR
+2 DATE 26 JUN 1879
+2 PLAC Grand Rapids, Kent, Michigan, USA
+3 MAP
+4 LATI N42.9634
+4 LONG W85.6681
+2 SOUR @S270@
+3 PAGE Michigan Department of Community Health, Division of Vital R
+4 CONC ecords and Health Statistics; Lansing, MI, USA; Michigan, Ma
+4 CONC rriage Records, 1867-1952; Film: 17; Film Description: 187
+4 CONC 8 Washtenaw-1879 Lake
+3 OBJE @M352@
+2 SOUR @S270@
+3 PAGE Michigan Department of Community Health, Division of Vital R
+4 CONC ecords and Health Statistics; Lansing, MI, USA; Michigan, Ma
+4 CONC rriage Records, 1867-1952; Film: 17; Film Description: 187
+4 CONC 8 Washtenaw-1879 Lake
+3 OBJE @M352@
+2 SOUR @S271@
+2 SOUR @S271@
+0 @F407@ FAM
+1 HUSB @I518@
+1 WIFE @I519@
+1 MARR
+2 DATE 1886
+2 SOUR @MYPTYwXjROCnuswpONVl@
+3 PAGE Year: 1900; Census Place: Grand Rapids Ward 4, Kent, Michiga
+4 CONC n; Page: 12; Enumeration District: 0058; FHL microfilm: 1240
+4 CONC 722
+3 OBJE @M364@
+2 SOUR @MYPTYwXjROCnuswpONVl@
+3 PAGE Year: 1900; Census Place: Grand Rapids Ward 4, Kent, Michiga
+4 CONC n; Page: 12; Enumeration District: 0058; FHL microfilm: 1240
+4 CONC 722
+3 OBJE @M364@
+0 @F414@ FAM
+1 HUSB @I536@
+1 WIFE @I537@
+1 CHIL @I533@
+2 _FREL Natural
+2 _MREL Natural
+0 @F396@ FAM
+1 HUSB @I491@
+1 WIFE @I492@
+1 MARR just a guess
+2 DATE ABT 1858
+2 PLAC Madison, Madison, New York, USA
+3 MAP
+4 LATI N42.899
+4 LONG W75.5121
+2 SOUR @MYPTYwXjROCnuswpONVl@
+3 PAGE Year: 1900; Census Place: Madison, Madison, New York; Page
+4 CONC : 1; Enumeration District: 0023; FHL microfilm: 1241072
+3 OBJE @M344@
+3 _APID 1,7602::66523269
 0 @o5Fe3uU0R9Kp9SwE4cSY@ FAM
 1 REFN 1d81cf4e-d097-4095-97d7-1ca3f6241c40
 1 HUSB @ULyEcLDtSR6HRoRznIwa@
@@ -26729,6 +29987,15 @@
 1 HUSB @I406@
 1 CHIL @I385@
 2 _FREL Natural
+0 @F412@ FAM
+1 HUSB @I534@
+1 WIFE @I533@
+1 MARR
+2 DATE ABT 1845
+2 PLAC New York, USA
+3 MAP
+4 LATI N42.7531
+4 LONG W74.2224
 0 @F359@ FAM
 1 HUSB @I456@
 1 WIFE @I459@
@@ -27046,6 +30313,59 @@
 2 SOUR @H9NsrdLJQZi4I3umdlYg@
 3 PAGE p. 19
 3 QUAY 1
+0 @F408@ FAM
+1 HUSB @I524@
+1 WIFE @I526@
+1 CHIL @I527@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I528@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I529@
+2 _FREL Natural
+2 _MREL Natural
+0 @F400@ FAM
+1 HUSB @kMrKRC5sQVWkp3rsNY1Y@
+1 WIFE @I497@
+1 CHIL @I496@
+2 _FREL Natural
+2 _MREL Natural
+0 @F403@ FAM
+1 HUSB @I510@
+1 WIFE @I495@
+1 CHIL @I504@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I505@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR
+2 DATE 1775
+2 SOUR @XkYfWXOxTRycLRJJyxNy@
+3 PAGE Source number: 20.000; Source type: Electronic Database; Num
+4 CONC ber of Pages: 1; Submitter Code: RKM
+2 SOUR @XkYfWXOxTRycLRJJyxNy@
+3 PAGE Source number: 20.000; Source type: Electronic Database; Num
+4 CONC ber of Pages: 1; Submitter Code: RKM
+0 @F401@ FAM
+1 HUSB @I505@
+1 WIFE @I506@
+1 CHIL @I507@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I515@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I502@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I514@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I508@
+2 _FREL Natural
+2 _MREL Natural
 0 @F301@ FAM
 1 REFN 42a3b56a-5afd-4006-893f-afd1a1633fd7
 1 HUSB @I409@
@@ -27122,6 +30442,12 @@
 2 SOUR @DU0JVIbxTpaKCopvaygE@
 2 NOTE wedding photograph, probably taken near Solsville (in Madiso
 3 CONC n Township, Madison County, NY), where they were married
+0 @F402@ FAM
+1 HUSB @I509@
+1 WIFE @I503@
+1 CHIL @I517@
+2 _FREL Natural
+2 _MREL Natural
 0 @F390@ FAM
 1 HUSB @I445@
 1 WIFE @I482@
@@ -27137,6 +30463,35 @@
 2 SOUR @S258@
 3 PAGE Trudy (spouse of Norman Beckwith Mosher)
 3 _APID 1,8837::8577925
+0 @F395@ FAM
+1 HUSB @I493@
+1 WIFE @I492@
+1 CHIL @I490@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @BXon2031Q0iFS4Xa2ZnV@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR just a guess
+2 DATE ABT 1845
+2 PLAC Madison, Madison, New York, USA
+3 MAP
+4 LATI N42.899
+4 LONG W75.5121
+0 @F406@ FAM
+1 HUSB @I514@
+1 WIFE @I513@
+1 CHIL @I512@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I516@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I519@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR just a guess
+2 DATE ABT 1848
 0 @Wp6YWpDdRem2e971P4Ez@ FAM
 1 REFN 8f03f81f-e3ca-4fb5-bb87-01a9d9b6da3e
 1 HUSB @BkQDhENdRguCajPxHXd6@
@@ -27166,6 +30521,39 @@
 2 SOUR @S258@
 3 OBJE @M323@
 3 _APID 1,8837::274281
+0 @F399@ FAM
+1 HUSB @I504@
+1 WIFE @I494@
+1 CHIL @I524@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I493@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I525@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I509@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR
+2 DATE 1810
+2 PLAC Burlington, Otsego, New York, USA
+3 MAP
+4 LATI N42.7228
+4 LONG W75.1258
+2 SOUR @XkYfWXOxTRycLRJJyxNy@
+3 PAGE Source number: 23.000; Source type: Electronic Database; Num
+4 CONC ber of Pages: 1; Submitter Code: RKM
+2 SOUR @XkYfWXOxTRycLRJJyxNy@
+3 PAGE Source number: 23.000; Source type: Electronic Database; Num
+4 CONC ber of Pages: 1; Submitter Code: RKM
+0 @F397@ FAM
+1 HUSB @I496@
+1 WIFE @I498@
+1 CHIL @I510@
+2 _FREL Natural
+2 _MREL Natural
 0 @YIqlnp8mREuD4RW6nexn@ FAM
 1 REFN b452be93-a05b-4211-9d9f-f13bfca86178
 1 HUSB @BXon2031Q0iFS4Xa2ZnV@
@@ -27185,6 +30573,7 @@
 3 MAP
 4 LATI N42.899
 4 LONG W75.5121
+2 SOUR @S59@
 0 @4U7YrcuVQBan2ZnqLcFs@ FAM
 1 REFN 727476fe-3d3a-4a64-afd1-308ca3a4eb2c
 1 HUSB @Xr90IHSFTtq3reSNFiUf@
@@ -27214,7 +30603,7 @@
 1 CHIL @mLbq4RfEQ62XoWK5zHxF@
 2 _FREL Natural
 2 _MREL Natural
-1 CHIL @BXon2031Q0iFS4Xa2ZnV@
+1 CHIL @I489@
 2 _FREL Natural
 2 _MREL Natural
 1 MARR
@@ -27246,6 +30635,43 @@
 1 MARR
 2 DATE 29 JUN 1931
 2 PLAC Boonton, New Jersey, USA
+0 @F413@ FAM
+1 HUSB @I535@
+1 WIFE @I533@
+1 CHIL @I532@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR
+2 DATE ABT 1825
+0 @F410@ FAM
+1 HUSB @I532@
+1 WIFE @I520@
+1 CHIL @I523@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I521@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I522@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR
+2 DATE ABT 1860
+0 @F411@ FAM
+1 HUSB @I532@
+1 WIFE @I490@
+1 MARR
+2 DATE 1886
+2 SOUR @MYPTYwXjROCnuswpONVl@
+3 PAGE Year: 1900; Census Place: Newton Ward 5, Middlesex, Massachu
+4 CONC setts; Page: 4; Enumeration District: 0903; FHL microfilm: 1
+4 CONC 240664
+3 OBJE @M373@
+2 SOUR @MYPTYwXjROCnuswpONVl@
+3 PAGE Year: 1900; Census Place: Newton Ward 5, Middlesex, Massachu
+4 CONC setts; Page: 4; Enumeration District: 0903; FHL microfilm: 1
+4 CONC 240664
+3 OBJE @M373@
 0 @PFxswQZrS3apVCQz18DF@ FAM
 1 REFN ce1d242c-0835-41ee-9ed7-ecfc0877b02c
 1 HUSB @JeyojXWyTnCseTMFiMRW@
@@ -28151,6 +31577,11 @@
 1 ADDR
 1 EMAIL
 1 PHON
+0 @R9@ REPO
+1 NAME Ancestry.com
+1 ADDR
+1 EMAIL
+1 PHON
 0 @9jhPyuNjT7Crw4hkg6Gj@ SOUR
 1 REFN 4ce69e52-b9c8-415f-b515-4218aa9b9a33
 1 REPO @R1@
@@ -28173,15 +31604,13 @@
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2010
 0 @8DCmzn75S8CoxNQmoyL8@ SOUR
-1 REFN 085b6f0d-b30d-433d-b9fc-f87e58e5e79c
-1 REPO @R1@
+1 REPO @R9@
 1 TITL 1820 United States Federal Census
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2010
 0 @IXkilGMfSsmx954YFeZF@ SOUR
-1 REFN b0596a50-ba5f-4d76-b738-6362905314ee
-1 REPO @R1@
+1 REPO @R9@
 1 TITL 1830 United States Federal Census
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
@@ -28218,8 +31647,7 @@
 1 PUBL Ancestry.com Operations Inc; Location: Lehi, UT, USA; Date
 2 CONC : 2010
 0 @MYPTYwXjROCnuswpONVl@ SOUR
-1 REFN baba99eb-75be-4bf8-a28e-e76a9ddca763
-1 REPO @R1@
+1 REPO @R9@
 1 TITL 1900 United States Federal Census
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations Inc; Location: Provo, UT, USA; Date
@@ -28336,40 +31764,6 @@
 1 PUBL http://www.mindspring.com/~jogt/surnames/batcheld.htm
 1 TEXT Excerpts from: Batchelder, Batcheller Genealogy, by F. C. Pi
 2 CONC erce, 1898<br />
-0 @2Af7yh49QtWxtUgijDek@ SOUR
-1 REFN 8c0382b4-53be-4c10-b0e1-119c1b2336a7
-1 TITL California Death Index, 1940-1997
-1 AUTH California, State of, Dept. of Health
-1 PUBL Ancestry.com
-1 TEXT Ancestry.com. California Death Index, 1940-1997. [database o
-2 CONC nline] Provo, UT: Ancestry.com, 2000. Original electronic da
-2 CONC ta: State of California. California Death Index, 1940-1997
-2 CONC . Sacramento, CA: State of California Department of Health S
-2 CONC ervices, Center for Health Statistics, 19--.<br />
-2 CONT <br />
-2 CONT Surname: MOSHER<br />
-2 CONT Given Name: LEGRAND<br />
-2 CONT Middle Name: LEO<br />
-2 CONT Sex: MALE<br />
-2 CONT Birth Date: 13 Jul 1879<br />
-2 CONT Death Date: 28 Nov 1948<br />
-2 CONT Birth Place: NEW YORK<br />
-2 CONT Death Place: LOS ANGELES<br />
-2 CONT Social Security #: 0<br />
-2 CONT Mother's Maiden Name: LOVEJOY<br />
-2 CONT Father's Surname: MOSHER<br />
-2 CONT <br />
-2 CONT Name: SCOTT, LISSA S<br />
-2 CONT Social Security #: 565209463 [wrong, this is actually her hu
-2 CONC sband's SS#]<br />
-2 CONT Sex: FEMALE<br />
-2 CONT Birth Date: 26 Sep 1884 [wrong, this is actually her husband
-2 CONC 's birth date]<br />
-2 CONT Birthplace: NEW YORK<br />
-2 CONT Death Date: 15 Dec 1976<br />
-2 CONT Death Place: NAPA<br />
-2 CONT Mother's Maiden Name: [blank]<br />
-2 CONT Father's Surname: [blank]<br />
 0 @lTOLhUUjTXCI5ptRz7k9@ SOUR
 1 REFN aac10b94-7aea-46ce-a4e9-2129d577c130
 1 REPO @R1@
@@ -28875,6 +32269,9 @@
 2 CONC ge Colvin, mother Nancy Spohner, age 26, first marriage<br /
 2 CONC >
 2 CONT July 29, 1908, Solsville
+0 @S59@ SOUR
+1 REFN 30d449b3-aff8-42d7-b88f-0104a5652ac1
+1 TITL Madison/Morrisville [NY] Observer (newspaper)
 0 @OIfoSTFnQvevUVuBToBn@ SOUR
 1 REFN a3c93129-ba53-4368-8d83-3fa445415501
 1 TITL Maitland Genealogy
@@ -28893,6 +32290,18 @@
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations Inc; Location: Provo, UT, USA; Date
 2 CONC : 1999
+0 @S279@ SOUR
+1 REPO @R9@
+1 TITL Massachusetts, Death Index, 1901-1980
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
+2 CONC e: 2013
+0 @S280@ SOUR
+1 REPO @R9@
+1 TITL Massachusetts, Death Records, 1841-1915
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
+2 CONC e: 2013
 0 @SPYR4jsKQdaECvtJFhH2@ SOUR
 1 REFN 43f19f2b-44ca-49a1-9fb1-59c0f53c5509
 1 REPO @R1@
@@ -28945,6 +32354,24 @@
 1 TITL McKane
 1 AUTH McKane, James A.
 1 PUBL http://www.gencircles.com/users/jimmckane/1/
+0 @S272@ SOUR
+1 REPO @R9@
+1 TITL Michigan, Death Records, 1867-1952
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
+2 CONC e: 2015
+0 @S274@ SOUR
+1 REPO @R9@
+1 TITL Michigan, Deaths and Burials Index, 1867-1995
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
+2 CONC e: 2011
+0 @S270@ SOUR
+1 REPO @R9@
+1 TITL Michigan, Marriage Records, 1867-1952
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
+2 CONC e: 2015
 0 @lIFoQFKzTHCalwRjxIxf@ SOUR
 1 REFN 6c1004ee-fc94-4f26-a3ab-7ad8b2e407f6
 1 REPO @R1@
@@ -29264,6 +32691,13 @@
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2011
+0 @S276@ SOUR
+1 REPO @R9@
+1 TITL New York, Compiled Census and Census Substitutes Index, 1790
+2 CONC -1890
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations Inc; Location: Provo, UT, USA; Date
+2 CONC : 1999
 0 @S208@ SOUR
 1 REPO @R1@
 1 TITL New York, County Marriage Records, 1847-1849, 1907-1936
@@ -29289,8 +32723,7 @@
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2014
 0 @W3ek4ErgQoOvxC5sOB5w@ SOUR
-1 REFN 1a79d6a8-3bbc-4a3a-873a-658be5235720
-1 REPO @R1@
+1 REPO @R9@
 1 TITL New York, State Census, 1875
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
@@ -30162,8 +33595,7 @@
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc
 0 @XkYfWXOxTRycLRJJyxNy@ SOUR
-1 REFN b74dbd0b-fce4-4e2a-bfa6-97c2be7eb18a
-1 REPO @R1@
+1 REPO @R9@
 1 TITL U.S. and International Marriage Records, 1560-1900
 1 AUTH Yates Publishing
 1 PUBL Ancestry.com Operations Inc; Location: Provo, UT, USA; Date
@@ -30174,10 +33606,9 @@
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2010
-0 @w6oneCDaTyySwwZ0y6W9@ SOUR
-1 REFN 5d54e457-073a-4357-a268-cf94b3040fc8
-1 REPO @R1@
-1 TITL U.S. City Directories, 1821-1989
+0 @S281@ SOUR
+1 REPO @R9@
+1 TITL U.S. City Directories, 1822-1995
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2011
@@ -30202,6 +33633,12 @@
 1 NOTE <i>Voter Registration Lists, Public Record Filings, Historic
 2 CONC al Residential Records, and Other Household Database Listing
 2 CONC s</i>.
+0 @S273@ SOUR
+1 REPO @R9@
+1 TITL U.S., Civil War Draft Registrations Records, 1863-1865
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
+2 CONC e: 2010
 0 @S255@ SOUR
 1 REPO @R1@
 1 TITL U.S., Department of Veterans Affairs BIRLS Death File, 1850-
@@ -30504,25 +33941,6 @@
 2 CONC ><td>&nbsp;</td><td>&nbsp;</td></tr>
 2 CONT <tr><td>Sarah Mosher</td><td>70</td><td>f</td><td>&nbsp;</td
 2 CONC ><td>&nbsp;</td><td>&nbsp;</td></tr>
-2 CONT </table>
-0 @WS1JlJweTKGmXblGgbvd@ SOUR
-1 REFN c41615dd-df44-4485-9990-85e8003728a8
-1 TITL US Census, 1860, PA, Tioga Co
-1 AUTH US Census Bureau
-1 PUBL Deerfield, Tioga, NY, 17 Jul 1860
-1 TEXT dwelling 850<br />
-2 CONT family 858<br />
-2 CONT <table border="1">
-2 CONT <tr><td>Hiram</td><td>Buckley</td><td>53</td><td>m</td><td>P
-2 CONC A</td><td>Farmer</td></tr>
-2 CONT <tr><td>Myndwell</td><td>"</td><td>51</td><td>f</td><td>NY</
-2 CONC td><td>&nbsp;</td></tr>
-2 CONT <tr><td>Luther</td><td>"</td><td>19</td><td>m</td><td>PA</td
-2 CONC ><td>Farm Laborer</td></tr>
-2 CONT <tr><td>Amanda</td><td>Buell</td><td>17</td><td>f</td><td>"<
-2 CONC /td><td>&nbsp;</td></tr>
-2 CONT <tr><td>William</td><td>Mosher</td><td>6</td><td>m</td><td>"
-2 CONC </td><td>&nbsp;</td></tr>
 2 CONT </table>
 0 @ZYsClSlmTiGhnkYMyFYT@ SOUR
 1 REFN 61aa6b20-ea56-40af-a277-ec45109eaa14
@@ -31249,15 +34667,6 @@
 1 TITL Wainwright Family of Essex County, Massachusetts, The
 1 AUTH Wainwright, Charles E.
 1 PUBL http://members.tripod.com/wainwrights/wainwright.html
-0 @Q3pDaZrXQzi0fjGmGdhC@ SOUR
-1 REFN 0d3030f3-183f-4643-8ec1-f21addc1ba4b
-1 REPO @R1@
-1 TITL Web: California, Find A Grave Index, 1775-2012
-1 AUTH Ancestry.com
-1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
-2 CONC e: 2012
-1 TEXT <i>Find A Grave</i>. Find A Grave. http://www.findagrave.com
-2 CONC /cgi-bin/fg.cgi: accessed 24 January 2013.
 0 @S257@ SOUR
 1 REPO @R1@
 1 TITL Web: California, Find A Grave Index, 1775-2012
@@ -31266,6 +34675,19 @@
 2 CONC e: 2012
 1 NOTE <i>Find A Grave</i>. Find A Grave. http://www.findagrave.com
 2 CONC /cgi-bin/fg.cgi: accessed 24 January 2013.
+0 @S275@ SOUR
+1 REPO @R9@
+1 TITL Web: Kalamazoo County, Michigan, Riverside Cemetery Index, 1
+2 CONC 800-2012
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
+2 CONC e: 2013
+0 @S271@ SOUR
+1 REPO @R9@
+1 TITL Web: Kent County, Michigan, Marriage Index, 1842-1929
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
+2 CONC e: 2011
 0 @BumWgFr4TiOR71Xtm9Lo@ SOUR
 1 REFN 790a0304-0e52-408f-9e23-86e5b0f1dbc6
 1 REPO @R1@
@@ -31466,15 +34888,6 @@
 2 _TEXT Year: 1850; Census Place: Chatham, Tioga, Pennsylvania; Roll
 3 CONC : M432_830; Page: 141A; Image: 285
 1 REFN 6077bf8f-c254-415b-be4a-0f41783eb7ef
-0 @f9ahvlqqRYqxYBulVLlj@ OBJE
-1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher Media\18
-2 CONC 60 United States Federal Census(4).jpg
-2 FORM jpg
-2 TITL 1860 United States Federal Census
-2 _TEXT Year: 1860; Census Place: Deerfield, Tioga, Pennsylvania; Ro
-3 CONC ll: M653_1187; Page: 257; Image: 261; Family History Librar
-3 CONC y Film: 805187
-1 REFN 9c10427e-8276-4c3c-a9e4-ce38e5a0ce4a
 0 @QiXp7PjxT4yinNoHjTe3@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher Media\18
 2 CONC 60 United States Federal Census(6).jpg
@@ -33759,4 +37172,425 @@
 2 _TEXT Census Year: 1870; Census Place: Hamilton, Madison, New York
 3 CONC ; Archive Collection Number: A24; Roll: 24; Page: 5; Line: 1
 3 CONC 0
+0 @M336@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher Media\18
+2 CONC 70 United States Federal Census(3).jpg
+2 FORM jpg
+2 TITL 1870 United States Federal Census
+2 _TEXT Year: 1870; Census Place: Hamilton, Madison, New York; Roll
+3 CONC : M593_967; Page: 236B; Family History Library Film: 552466
+0 @M337@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher Media\18
+2 CONC 60 United States Federal Census(5).jpg
+2 FORM jpg
+2 TITL 1860 United States Federal Census
+2 _TEXT Year: 1860; Census Place: Deerfield, Tioga, Pennsylvania; Ro
+3 CONC ll: M653_1187; Page: 257; Family History Library Film: 80518
+3 CONC 7
+0 @M338@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher Media\Ne
+2 CONC w York, State Census, 1855(1).jpg
+2 FORM jpg
+2 TITL New York, State Census, 1855
+0 @M339@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher Media\18
+2 CONC 50 United States Federal Census(4).jpg
+2 FORM jpg
+2 TITL 1850 United States Federal Census
+2 _TEXT Year: 1850; Census Place: Madison, Madison, New York; Roll
+3 CONC : M432_527; Page: 74B; Image: 296
+0 @M340@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher Media\18
+2 CONC 60 United States Federal Census(9).jpg
+2 FORM jpg
+2 TITL 1860 United States Federal Census
+2 _TEXT Year: 1860; Census Place: Madison, Madison, New York; Roll
+3 CONC : M653_781; Page: 1062; Family History Library Film: 803781
+0 @M341@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher Media\18
+2 CONC 70 United States Federal Census(7).jpg
+2 FORM jpg
+2 TITL 1870 United States Federal Census
+2 _TEXT Year: 1870; Census Place: Madison, Madison, New York; Roll
+3 CONC : M593_968; Page: 414A; Family History Library Film: 552467
+0 @M342@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher Media\Ne
+2 CONC w York, State Census, 1875(1).jpg
+2 FORM jpg
+2 TITL New York, State Census, 1875
+0 @M343@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher Media\Ne
+2 CONC w York, State Census, 1855(1)(1).jpg
+2 FORM jpg
+2 TITL New York, State Census, 1855
+0 @M344@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher Media\19
+2 CONC 00 United States Federal Census(4).jpg
+2 FORM jpg
+2 TITL 1900 United States Federal Census
+2 _TEXT Year: 1900; Census Place: Madison, Madison, New York; Page
+3 CONC : 1; Enumeration District: 0023; FHL microfilm: 1241072
+0 @M345@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher Media\18
+2 CONC 50 United States Federal Census(5).jpg
+2 FORM jpg
+2 TITL 1850 United States Federal Census
+2 _TEXT 1850 United States Federal Census Record
+0 @M346@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher Media\18
+2 CONC 20 United States Federal Census.jpg
+2 FORM jpg
+2 TITL 1820 United States Federal Census
+2 _TEXT 1820 U S Census; Census Place: Livingston, Columbia, New Yor
+3 CONC k; Page: 194; NARA Roll: M33_70; Image: 110
+0 @M347@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher Media\18
+2 CONC 30 United States Federal Census.jpg
+2 FORM jpg
+2 TITL 1830 United States Federal Census
+2 _TEXT 1830; Census Place: Lebanon, Madison, New York; Series: M19
+3 CONC ; Roll: 93; Page: 342; Family History Library Film: 0017153
+0 @M348@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher Media\18
+2 CONC 50 United States Federal Census(6).jpg
+2 FORM jpg
+2 TITL 1850 United States Federal Census
+2 _TEXT 1850 United States Federal Census Record
+0 @M349@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher Media\18
+2 CONC 40 United States Federal Census(4).jpg
+2 FORM jpg
+2 TITL 1840 United States Federal Census
+2 _TEXT Year: 1840; Census Place: Hamilton, Madison, New York; Roll
+3 CONC : 295; Page: 218; Family History Library Film: 0017192
+0 @M350@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher Media\18
+2 CONC 50 United States Federal Census(7).jpg
+2 FORM jpg
+2 TITL 1850 United States Federal Census
+2 _TEXT Year: 1850; Census Place: Hamilton, Madison, New York; Roll
+3 CONC : M432_527; Page: 101A; Image: 449
+0 @M351@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher Media\18
+2 CONC 80 United States Federal Census(1)(1).jpg
+2 FORM jpg
+2 TITL 1880 United States Federal Census
+2 _TEXT 1880 United States Federal Census Record
+0 @M352@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher Media\Mi
+2 CONC chigan, Marriage Records, 1867-1952.jpg
+2 FORM jpg
+2 TITL Michigan, Marriage Records, 1867-1952
+2 _TEXT Michigan Department of Community Health, Division of Vital R
+3 CONC ecords and Health Statistics; Lansing, MI, USA; Michigan, Ma
+3 CONC rriage Records, 1867-1952; Film: 17; Film Description: 187
+3 CONC 8 Washtenaw-1879 Lake
+0 @M353@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher Media\Ne
+2 CONC w York, State Census, 1855(3).jpg
+2 FORM jpg
+2 TITL New York, State Census, 1855
+2 _TEXT New York, State Census, 1855 Record
+0 @M354@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher Media\18
+2 CONC 60 United States Federal Census(2)(1).jpg
+2 FORM jpg
+2 TITL 1860 United States Federal Census
+2 _TEXT Year: 1860; Census Place: Oswego Ward 1, Oswego, New York; R
+3 CONC oll: M653_839; Page: 954; Family History Library Film: 80383
+3 CONC 9
+0 @M355@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher Media\18
+2 CONC 50 United States Federal Census(3)(1).jpg
+2 FORM jpg
+2 TITL 1850 United States Federal Census
+2 _TEXT 1850 United States Federal Census Record
+0 @M356@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher Media\Mi
+2 CONC chigan, Death Records, 1867-1952.jpg
+2 FORM jpg
+2 TITL Michigan, Death Records, 1867-1952
+2 _TEXT Michigan Department of Community Health, Division for Vita
+3 CONC l Records and Health Statistics; Lansing, Michigan; Death Re
+3 CONC cords
+0 @M357@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher Media\U.
+2 CONC S. City Directories, 1822-1995(2)(1).jpg
+2 FORM jpg
+2 TITL U.S. City Directories, 1822-1995
+0 @M358@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher Media\U.
+2 CONC S. City Directories, 1822-1995(3).jpg
+2 FORM jpg
+2 TITL U.S. City Directories, 1822-1995
+0 @M359@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher Media\U.
+2 CONC S., Civil War Draft Registrations Records, 1863-1865.jpg
+2 FORM jpg
+2 TITL U.S., Civil War Draft Registrations Records, 1863-1865
+2 _TEXT National Archives and Records Administration (NARA); Washing
+3 CONC ton, D.C.; Consolidated Lists of Civil War Draft Registratio
+3 CONC n Records (Provost Marshal General's Bureau; Consolidated En
+3 CONC rollment Lists, 1863-1865); Record Group: 110, Records of th
+3 CONC e Provost Marsha
+0 @M360@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher Media\18
+2 CONC 60 United States Federal Census(1)(1).jpg
+2 FORM jpg
+2 TITL 1860 United States Federal Census
+2 _TEXT Year: 1860; Census Place: Oswego Ward 1, Oswego, New York; R
+3 CONC oll: M653_839; Page: 955; Family History Library Film: 80383
+3 CONC 9
+0 @M361@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher Media\18
+2 CONC 50 United States Federal Census(2)(1).jpg
+2 FORM jpg
+2 TITL 1850 United States Federal Census
+2 _TEXT Year: 1850; Census Place: Madison, Madison, New York; Roll
+3 CONC : M432_527; Page: 75A; Image: 297
+0 @M362@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher Media\19
+2 CONC 20 United States Federal Census(6).jpg
+2 FORM jpg
+2 TITL 1920 United States Federal Census
+2 _TEXT Year: 1920; Census Place: Kalamazoo Ward 3, Kalamazoo, Michi
+3 CONC gan; Roll: T625_775; Page: 7B; Enumeration District: 164
+0 @M363@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher Media\19
+2 CONC 10 United States Federal Census(7).jpg
+2 FORM jpg
+2 TITL 1910 United States Federal Census
+2 _TEXT Year: 1910; Census Place: Detroit Ward 4, Wayne, Michigan; R
+3 CONC oll: T624_681; Page: 3A; Enumeration District: 0058; FHL mic
+3 CONC rofilm: 1374694
+0 @M364@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher Media\19
+2 CONC 00 United States Federal Census(1)(2).jpg
+2 FORM jpg
+2 TITL 1900 United States Federal Census
+2 _TEXT Year: 1900; Census Place: Grand Rapids Ward 4, Kent, Michiga
+3 CONC n; Page: 12; Enumeration District: 0058; FHL microfilm: 1240
+3 CONC 722
+0 @M365@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher Media\U.
+2 CONC S. City Directories, 1822-1995(1)(1).jpg
+2 FORM jpg
+2 TITL U.S. City Directories, 1822-1995
+0 @M366@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher Media\U.
+2 CONC S. City Directories, 1822-1995(4).jpg
+2 FORM jpg
+2 TITL U.S. City Directories, 1822-1995
+0 @M367@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher Media\18
+2 CONC 70 United States Federal Census(8).jpg
+2 FORM jpg
+2 TITL 1870 United States Federal Census
+2 _TEXT Year: 1870; Census Place: Volney, Oswego, New York; Roll: M5
+3 CONC 93_1074; Page: 574B; Family History Library Film: 552573
+0 @M368@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher Media\Ne
+2 CONC w York, State Census, 1875(2).jpg
+2 FORM jpg
+2 TITL New York, State Census, 1875
+0 @M369@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher Media\Ne
+2 CONC w York, State Census, 1865(3).jpg
+2 FORM jpg
+2 TITL New York, State Census, 1865
+0 @M370@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher Media\18
+2 CONC 80 United States Federal Census(5).jpg
+2 FORM jpg
+2 TITL 1880 United States Federal Census
+2 _TEXT Year: 1880; Census Place: Fulton, Oswego, New York; Roll: 91
+3 CONC 5; Page: 218C; Enumeration District: 272
+0 @M371@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher Media\18
+2 CONC 80 United States Federal Census(6).jpg
+2 FORM jpg
+2 TITL 1880 United States Federal Census
+2 _TEXT Year: 1880; Census Place: Fulton, Oswego, New York; Roll: 91
+3 CONC 5; Page: 221A; Enumeration District: 272
+0 @M372@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher Media\Ne
+2 CONC w York State, Marriage Index, 1881-1967(6).jpg
+2 FORM jpg
+2 TITL New York State, Marriage Index, 1881-1967
+2 _TEXT New York State Department of Health; Albany, NY, USA; New Yo
+3 CONC rk State Marriage Index
+0 @M373@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher Media\19
+2 CONC 00 United States Federal Census(5).jpg
+2 FORM jpg
+2 TITL 1900 United States Federal Census
+2 _TEXT Year: 1900; Census Place: Newton Ward 5, Middlesex, Massachu
+3 CONC setts; Page: 4; Enumeration District: 0903; FHL microfilm: 1
+3 CONC 240664
+0 @M374@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher Media\Ne
+2 CONC w York State, Marriage Index, 1881-1967(7).jpg
+2 FORM jpg
+2 TITL New York State, Marriage Index, 1881-1967
+2 _TEXT New York State Department of Health; Albany, NY, USA; New Yo
+3 CONC rk State Marriage Index
+0 @M375@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher Media\19
+2 CONC 10 United States Federal Census(8).jpg
+2 FORM jpg
+2 TITL 1910 United States Federal Census
+2 _TEXT Year: 1910; Census Place: Newton Ward 5, Middlesex, Massachu
+3 CONC setts; Roll: T624_603; Page: 2A; Enumeration District: 0970
+3 CONC ; FHL microfilm: 1374616
+0 @M376@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher Media\Ma
+2 CONC ssachusetts, Death Index, 1901-1980.jpg
+2 FORM jpg
+2 TITL Massachusetts, Death Index, 1901-1980
+0 @M377@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher Media\19
+2 CONC 20 United States Federal Census(7).jpg
+2 FORM jpg
+2 TITL 1920 United States Federal Census
+2 _TEXT Year: 1920; Census Place: Newton Ward 5, Middlesex, Massachu
+3 CONC setts; Roll: T625_717; Page: 21A; Enumeration District: 374
+0 @M378@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher Media\Ma
+2 CONC ssachusetts, Death Records, 1841-1915.jpg
+2 FORM jpg
+2 TITL Massachusetts, Death Records, 1841-1915
+2 _TEXT New England Historic Genealogical Society; Boston, Massachus
+3 CONC etts; Massachusetts Vital Records, 1840–1911
+0 @M379@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher Media\18
+2 CONC 60 United States Federal Census(10).jpg
+2 FORM jpg
+2 TITL 1860 United States Federal Census
+2 _TEXT Year: 1860; Census Place: Chicago Ward 1, Cook, Illinois; Ro
+3 CONC ll: M653_164; Page: 237; Family History Library Film: 803164
+0 @M380@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher Media\U.
+2 CONC S. City Directories, 1822-1995(5).jpg
+2 FORM jpg
+2 TITL U.S. City Directories, 1822-1995
+0 @M381@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher Media\18
+2 CONC 40 United States Federal Census(5).jpg
+2 FORM jpg
+2 TITL 1840 United States Federal Census
+2 _TEXT Year: 1840; Census Place: Hamilton, Madison, New York; Roll
+3 CONC : 295; Page: 216; Family History Library Film: 0017192
+0 @M382@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher Media\U.
+2 CONC S. City Directories, 1822-1995(6).jpg
+2 FORM jpg
+2 TITL U.S. City Directories, 1822-1995
+0 @M383@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher Media\18
+2 CONC 30 United States Federal Census(1).jpg
+2 FORM jpg
+2 TITL 1830 United States Federal Census
+2 _TEXT 1830; Census Place: Hamilton, Madison, New York; Series: M19
+3 CONC ; Roll: 93; Page: 289; Family History Library Film: 0017153
+0 @M384@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher Media\18
+2 CONC 20 United States Federal Census(2).jpg
+2 FORM jpg
+2 TITL 1820 United States Federal Census
+2 _TEXT 1820 U S Census; Census Place: Lebanon, Madison, New York; P
+3 CONC age: 67; NARA Roll: M33_73; Image: 79
+0 @M385@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher Media\18
+2 CONC 70 United States Federal Census(9).jpg
+2 FORM jpg
+2 TITL 1870 United States Federal Census
+2 _TEXT Year: 1870; Census Place: Chicago Ward 4, Cook, Illinois; Ro
+3 CONC ll: M593_200; Page: 49A; Family History Library Film: 545699
+0 @M386@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher Media\Ne
+2 CONC w York, State Census, 1855(2).jpg
+2 FORM jpg
+2 TITL New York, State Census, 1855
+0 @M387@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher Media\U.
+2 CONC S. City Directories, 1822-1995(7).jpg
+2 FORM jpg
+2 TITL U.S. City Directories, 1822-1995
+0 @M388@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher Media\19
+2 CONC 10 United States Federal Census(9).jpg
+2 FORM jpg
+2 TITL 1910 United States Federal Census
+2 _TEXT Year: 1910; Census Place: Newton Ward 5, Middlesex, Massachu
+3 CONC setts; Roll: T624_603; Page: 1B; Enumeration District: 0970
+3 CONC ; FHL microfilm: 1374616
+0 @M389@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher Media\18
+2 CONC 50 United States Federal Census(8).jpg
+2 FORM jpg
+2 TITL 1850 United States Federal Census
+2 _TEXT Year: 1850; Census Place: Fulton, Oswego, New York; Roll: M4
+3 CONC 32_577; Page: 309B; Image: 117
+0 @M390@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher Media\18
+2 CONC 70 United States Federal Census(10).jpg
+2 FORM jpg
+2 TITL 1870 United States Federal Census
+2 _TEXT Year: 1870; Census Place: Volney, Oswego, New York; Roll: M5
+3 CONC 93_1074; Page: 588B; Family History Library Film: 552573
+0 @M391@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher Media\Ma
+2 CONC ssachusetts, Death Index, 1901-1980(1).jpg
+2 FORM jpg
+2 TITL Massachusetts, Death Index, 1901-1980
+0 @M392@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher Media\Ne
+2 CONC w York, State Census, 1892(6).jpg
+2 FORM jpg
+2 TITL New York, State Census, 1892
+0 @M393@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher Media\Ne
+2 CONC w York, State Census, 1865(5).jpg
+2 FORM jpg
+2 TITL New York, State Census, 1865
+0 @M394@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher Media\18
+2 CONC 80 United States Federal Census(7).jpg
+2 FORM jpg
+2 TITL 1880 United States Federal Census
+2 _TEXT Year: 1880; Census Place: Fulton, Oswego, New York; Roll: 91
+3 CONC 5; Page: 220D; Enumeration District: 272
+0 @M395@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher Media\Ne
+2 CONC w York, State Census, 1875(3).jpg
+2 FORM jpg
+2 TITL New York, State Census, 1875
+0 @M396@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher Media\18
+2 CONC 60 United States Federal Census(11).jpg
+2 FORM jpg
+2 TITL 1860 United States Federal Census
+2 _TEXT Year: 1860; Census Place: Volney, Oswego, New York; Roll: M6
+3 CONC 53_837; Page: 157; Family History Library Film: 803837
+0 @M397@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher Media\Ma
+2 CONC ssachusetts, Death Records, 1841-1915(1).jpg
+2 FORM jpg
+2 TITL Massachusetts, Death Records, 1841-1915
+2 _TEXT New England Historic Genealogical Society; Boston, Massachus
+3 CONC etts; Massachusetts Vital Records, 1840–1911
+0 @M398@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher Media\18
+2 CONC 40 United States Federal Census(6).jpg
+2 FORM jpg
+2 TITL 1840 United States Federal Census
+2 _TEXT Year: 1840; Census Place: Volney, Oswego, New York; Roll: 32
+3 CONC 5; Page: 49; Family History Library Film: 0017202
+0 @M399@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher Media\Ne
+2 CONC w York, Death Index, 1880-1956(4).jpg
+2 FORM jpg
+2 TITL New York, Death Index, 1880-1956
+2 _TEXT New York Department of Health; Albany, NY; NY State Death In
+3 CONC dex
 0 TRLR
