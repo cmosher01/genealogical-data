@@ -3,7 +3,7 @@
 1 GEDC
 2 VERS 5.5.1
 2 FORM LINEAGE-LINKED
-1 COPR Copyright © 1998–2018, Christopher Alan Mosher, Shelton, CT
+1 COPR Copyright © 1998–2019, Christopher Alan Mosher, Shelton, CT
 2 CONC , USA.
 1 SUBM @Umy2qBWIRUiwVSS6Hcn4@
 1 SOUR FTM
@@ -14,9 +14,9 @@
 4 CONT Boston, MA 02109
 3 PHON (617) 227-6681
 1 DEST FTM
-1 FILE McLaughlin_2018-11-27-23-29-08.ftm.ged
-1 DATE 27 NOV 2018
-2 TIME 23:29:55
+1 FILE McLaughlin_2019-08-15-00-53-36.ftm.ged
+1 DATE 15 AUG 2019
+2 TIME 00:56:11
 0 @Umy2qBWIRUiwVSS6Hcn4@ SUBM
 1 NAME Christopher Alan Mosher
 2 EMAIL cmosher01@@gmail.com
@@ -2416,6 +2416,110 @@
 2 SOUR @S74@
 3 _APID 1,60525::115614057
 1 _XY 185867.00 4488.00
+0 @I81@ INDI
+1 REFN 9705179f-e41f-4421-80a7-daf672559315
+1 NAME Julia /Fleet/
+2 SOUR @S88@
+3 PAGE Year: 1920; Census Place: Hornby, Steuben, New York; Roll: T
+4 CONC 625_1267; Page: 5B; Enumeration District: 114
+3 OBJE @M194@
+3 _APID 1,6061::87520971
+2 SOUR @S90@
+3 PAGE Year: 1930; Census Place: Hornby, Steuben, New York; Page: 2
+4 CONC B; Enumeration District: 0044; FHL microfilm: 2341382
+3 OBJE @M196@
+3 _APID 1,6224::46291786
+2 SOUR @S91@
+3 PAGE Year: 1940; Census Place: Hornby, Steuben, New York; Roll: m
+4 CONC -t0627-02781; Page: 3B; Enumeration District: 51-54
+3 OBJE @M195@
+3 _APID 1,2442::8685138
+2 SOUR @XwjA9DOQSF6Rp4tqv0Z2@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1925; Election District: 01; Assembly Di
+4 CONC strict: 01; City: Hornby; County: Steuben; Page: 10
+3 OBJE @eA7CbDGJQxSordFqUvrx@
+3 _APID 1,2704::25133537
+2 SOUR @S97@
+3 _APID 1,60901::773152794
+1 SEX F
+1 FAMS @F42@
+1 BIRT
+2 DATE ABT 1879
+2 PLAC New York, USA
+3 MAP
+4 LATI N42.7531
+4 LONG W74.2224
+2 SOUR @S88@
+3 PAGE Year: 1920; Census Place: Hornby, Steuben, New York; Roll: T
+4 CONC 625_1267; Page: 5B; Enumeration District: 114
+3 OBJE @M194@
+3 _APID 1,6061::87520971
+2 SOUR @S90@
+3 PAGE Year: 1930; Census Place: Hornby, Steuben, New York; Page: 2
+4 CONC B; Enumeration District: 0044; FHL microfilm: 2341382
+3 OBJE @M196@
+3 _APID 1,6224::46291786
+2 SOUR @S91@
+3 PAGE Year: 1940; Census Place: Hornby, Steuben, New York; Roll: m
+4 CONC -t0627-02781; Page: 3B; Enumeration District: 51-54
+3 OBJE @M195@
+3 _APID 1,2442::8685138
+2 SOUR @XwjA9DOQSF6Rp4tqv0Z2@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1925; Election District: 01; Assembly Di
+4 CONC strict: 01; City: Hornby; County: Steuben; Page: 10
+3 OBJE @eA7CbDGJQxSordFqUvrx@
+3 _APID 1,2704::25133537
+1 RESI
+2 DATE 1920
+2 PLAC Hornby, Steuben, New York, USA
+3 MAP
+4 LATI N42.2442
+4 LONG W77.0444
+2 SOUR @S88@
+3 PAGE Year: 1920; Census Place: Hornby, Steuben, New York; Roll: T
+4 CONC 625_1267; Page: 5B; Enumeration District: 114
+3 OBJE @M194@
+3 _APID 1,6061::87520971
+2 NOTE Relation to Head: Wife; Residence Marital Status: Married
+1 RESI
+2 DATE 01 JUN 1925
+2 PLAC Hornby, Steuben, New York, USA
+3 MAP
+4 LATI N42.2442
+4 LONG W77.0444
+2 SOUR @XwjA9DOQSF6Rp4tqv0Z2@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1925; Election District: 01; Assembly Di
+4 CONC strict: 01; City: Hornby; County: Steuben; Page: 10
+3 OBJE @eA7CbDGJQxSordFqUvrx@
+3 _APID 1,2704::25133537
+2 NOTE Relation to Head: Wife
+1 RESI
+2 DATE 1930
+2 PLAC Hornby, Steuben, New York, USA
+3 MAP
+4 LATI N42.2442
+4 LONG W77.0444
+2 SOUR @S90@
+3 PAGE Year: 1930; Census Place: Hornby, Steuben, New York; Page: 2
+4 CONC B; Enumeration District: 0044; FHL microfilm: 2341382
+3 OBJE @M196@
+3 _APID 1,6224::46291786
+2 NOTE Marital Status: Married; Relation to Head: Wife
+1 RESI
+2 DATE 1940
+2 PLAC Hornby, Steuben, New York, USA
+3 MAP
+4 LATI N42.2442
+4 LONG W77.0444
+2 SOUR @S91@
+3 PAGE Year: 1940; Census Place: Hornby, Steuben, New York; Roll: m
+4 CONC -t0627-02781; Page: 3B; Enumeration District: 51-54
+3 OBJE @M195@
+3 _APID 1,2442::8685138
+2 NOTE Marital Status: Married; Relation to Head: Wife
 0 @igQhrFxERLe8UXxOn1vz@ INDI
 1 REFN 92e70228-07f7-407d-8f6d-43c846e6d60c
 1 NAME Rebeckah J /Gibson/
@@ -3086,6 +3190,12 @@
 2 SOUR @6NcIzxfbRyyWNjNadTrG@
 3 OBJE @ZSIx1RfETYq1bY0eaZbJ@
 3 _APID 1,7364::478730
+2 SOUR @TGKTvmYkRIad5UXaC837@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1915; Election District: 01; Assembly Di
+4 CONC strict: 01; City: Hornby; County: Steuben; Page: 14
+3 OBJE @kSYgxjXNSTOnqy8KZnbr@
+3 _APID 1,2703::6630842
 2 SOUR @XwjA9DOQSF6Rp4tqv0Z2@
 3 PAGE New York State Archives; Albany, New York; State Populatio
 4 CONC n Census Schedules, 1925; Election District: 01; Assembly Di
@@ -3141,6 +3251,12 @@
 2 SOUR @6NcIzxfbRyyWNjNadTrG@
 3 OBJE @ZSIx1RfETYq1bY0eaZbJ@
 3 _APID 1,7364::478730
+2 SOUR @TGKTvmYkRIad5UXaC837@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1915; Election District: 01; Assembly Di
+4 CONC strict: 01; City: Hornby; County: Steuben; Page: 14
+3 OBJE @kSYgxjXNSTOnqy8KZnbr@
+3 _APID 1,2703::6630842
 2 SOUR @XwjA9DOQSF6Rp4tqv0Z2@
 3 PAGE New York State Archives; Albany, New York; State Populatio
 4 CONC n Census Schedules, 1925; Election District: 01; Assembly Di
@@ -3173,8 +3289,16 @@
 4 LONG W77.0444
 2 SOUR @6NcIzxfbRyyWNjNadTrG@
 3 OBJE @ZSIx1RfETYq1bY0eaZbJ@
-3 _APID 1,7364::478730
 2 NOTE Relation to Head of House: Wife
+1 RESI
+2 DATE 1905
+2 PLAC Hornby, Steuben, New York, USA
+3 MAP
+4 LATI N42.2442
+4 LONG W77.0444
+2 SOUR @6NcIzxfbRyyWNjNadTrG@
+3 OBJE @ZSIx1RfETYq1bY0eaZbJ@
+2 NOTE Relationship to Head: Wife
 1 RESI
 2 DATE 1910
 2 PLAC Arcadia, Wayne, New York, USA
@@ -3195,6 +3319,29 @@
 3 _APID 1,7884::103800960
 2 NOTE Age in 1910: 39; Marital Status: Married; Relation to Head o
 3 CONC f House: Wife
+1 RESI
+2 DATE 1910
+2 PLAC Hornby, Steuben, New York, USA
+3 MAP
+4 LATI N42.2442
+4 LONG W77.0444
+2 SOUR @S89@
+3 PAGE Year: 1910; Census Place: Hornby, Steuben, New York; Roll: T
+4 CONC 624_1080; Page: 4B; Enumeration District: 0132; FHL microfil
+4 CONC m: 1375093
+3 OBJE @XiLK3uXzR9WEh4zwzokv@
+3 _APID 1,7884::103800960
+2 NOTE Marital Status: Married; Relation to Head of House: Wife
+1 RESI
+2 DATE 01 JUN 1915
+2 PLAC Hornby, Steuben, New York, United States
+2 SOUR @TGKTvmYkRIad5UXaC837@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1915; Election District: 01; Assembly Di
+4 CONC strict: 01; City: Hornby; County: Steuben; Page: 14
+3 OBJE @kSYgxjXNSTOnqy8KZnbr@
+3 _APID 1,2703::6630842
+2 NOTE Relation to Head of House: Wife
 1 RESI
 2 DATE 1920
 2 PLAC Hornby, Steuben, New York, USA
@@ -3271,6 +3418,54 @@
 4 CONC -1966
 3 _APID 1,3693::41140282
 1 _XY 185292.00 4488.00
+0 @I68@ INDI
+1 REFN 3aee0a9e-7756-43f8-8d33-41d5d7bea005
+1 NAME Alice Elizabeth /Hogue/
+2 SOUR @S91@
+3 PAGE Year: 1940; Census Place: Corning, Steuben, New York; Roll
+4 CONC : m-t0627-02781; Page: 9A; Enumeration District: 51-27
+3 OBJE @M184@
+3 _APID 1,2442::8659049
+2 SOUR @S73@
+3 OBJE @M182@
+2 SOUR @S73@
+3 OBJE @M183@
+1 NAME Alice H /McLaughlin/
+2 SOUR @S97@
+3 _APID 1,60901::800427801
+1 SEX F
+1 FAMS @F39@
+1 BIRT
+2 DATE 10 APR 1905
+2 PLAC Corning, Steuben, New York, USA
+3 MAP
+4 LATI N42.1429
+4 LONG W77.0547
+2 SOUR @S91@
+3 PAGE Year: 1940; Census Place: Corning, Steuben, New York; Roll
+4 CONC : m-t0627-02781; Page: 9A; Enumeration District: 51-27
+3 OBJE @M184@
+2 SOUR @S73@
+3 OBJE @M182@
+1 BIRT
+2 DATE 10 APR 1905
+2 SOUR @S97@
+1 RESI
+2 DATE 1940
+2 PLAC Corning, Steuben, New York, USA
+3 MAP
+4 LATI N42.1429
+4 LONG W77.0547
+2 SOUR @S91@
+3 PAGE Year: 1940; Census Place: Corning, Steuben, New York; Roll
+4 CONC : m-t0627-02781; Page: 9A; Enumeration District: 51-27
+3 OBJE @M184@
+3 _APID 1,2442::8659049
+2 NOTE Marital Status: Married; Relation to Head: Wife
+1 DEAT
+2 DATE 21 MAY 1993
+2 SOUR @S97@
+3 _APID 1,60901::800427801
 0 @i1luMIYVSWGVkEsyjmR2@ INDI
 1 REFN fa3fe437-f6f4-46fc-b552-db5af6e11da4
 1 NAME Charles /McCarty/
@@ -3884,6 +4079,39 @@
 3 _APID 1,7884::138306579
 2 NOTE Marital Status: Married; Relation to Head of House: Wife
 1 _XY 186692.00 4338.00
+0 @I73@ INDI
+1 REFN 6eb23b6f-34a4-40fd-a625-f95a5ec27503
+1 NAME Ann /McLaughlin/
+2 SOUR @S91@
+3 PAGE Year: 1940; Census Place: Corning, Steuben, New York; Roll
+4 CONC : m-t0627-02781; Page: 9A; Enumeration District: 51-27
+3 OBJE @M184@
+3 _APID 1,2442::8659050
+1 SEX F
+1 FAMC @F39@
+1 BIRT
+2 DATE ABT 1933
+2 PLAC New York, USA
+3 MAP
+4 LATI N42.7531
+4 LONG W74.2224
+2 SOUR @S91@
+3 PAGE Year: 1940; Census Place: Corning, Steuben, New York; Roll
+4 CONC : m-t0627-02781; Page: 9A; Enumeration District: 51-27
+3 OBJE @M184@
+3 _APID 1,2442::8659050
+1 RESI
+2 DATE 1940
+2 PLAC Corning, Steuben, New York, USA
+3 MAP
+4 LATI N42.1429
+4 LONG W77.0547
+2 SOUR @S91@
+3 PAGE Year: 1940; Census Place: Corning, Steuben, New York; Roll
+4 CONC : m-t0627-02781; Page: 9A; Enumeration District: 51-27
+3 OBJE @M184@
+3 _APID 1,2442::8659050
+2 NOTE Marital Status: Single; Relation to Head: Daughter
 0 @dQ3j152qTvyW1dmHRhoB@ INDI
 1 REFN 004879ad-8bfa-4bce-be21-f0a3af0ae859
 1 NAME Anna /McLaughlin/
@@ -3919,6 +4147,11 @@
 2 SOUR @jwkwJiwySpmJ1YbUX3O0@
 3 PAGE p. 1
 3 QUAY 1
+2 SOUR @S71@
+3 PAGE New York Department of Health; Albany, NY; NY State Death In
+4 CONC dex
+3 OBJE @M181@
+3 _APID 1,61535::3316690
 2 SOUR @m7Phkg8qRz2NO0TDWP4l@
 3 OBJE @6EyoNEr3QyOliQtJq0Qu@
 3 _APID 1,7218::2214602
@@ -4065,10 +4298,19 @@
 3 _APID 1,7884::138314702
 2 NOTE Marital Status: Widowed; Relation to Head of House: Mother
 1 DEAT
-2 DATE 1914
+2 DATE 13 MAY 1914
+2 PLAC Reading, Schuyler, New York, USA
+3 MAP
+4 LATI N42.4201
+4 LONG W76.9377
 2 SOUR @jwkwJiwySpmJ1YbUX3O0@
 3 PAGE p. 1
 3 QUAY 1
+2 SOUR @S71@
+3 PAGE New York Department of Health; Albany, NY; NY State Death In
+4 CONC dex
+3 OBJE @M181@
+3 _APID 1,61535::3316690
 2 SOUR @S74@
 3 _APID 1,60525::61367477
 1 BURI
@@ -4079,6 +4321,119 @@
 2 SOUR @S74@
 3 _APID 1,60525::61367477
 1 _XY 187717.00 4263.00
+0 @I66@ INDI
+1 REFN 144c8d61-39eb-4a18-a6d4-f60e38f0462a
+1 NAME Arthur D. /Mclaughlin/
+2 SOUR @S89@
+3 PAGE Year: 1910; Census Place: Hornby, Steuben, New York; Roll: T
+4 CONC 624_1080; Page: 4B; Enumeration District: 0132; FHL microfil
+4 CONC m: 1375093
+3 OBJE @XiLK3uXzR9WEh4zwzokv@
+3 _APID 1,7884::103800962
+2 SOUR @6NcIzxfbRyyWNjNadTrG@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1905; Election District: A.D. 01 E.D. 01
+4 CONC ; City: Hornby; County: Steuben
+3 OBJE @ZSIx1RfETYq1bY0eaZbJ@
+3 _APID 1,7364::2430498
+2 SOUR @TGKTvmYkRIad5UXaC837@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1915; Election District: 01; Assembly Di
+4 CONC strict: 01; City: Hornby; County: Steuben; Page: 14
+3 OBJE @kSYgxjXNSTOnqy8KZnbr@
+3 _APID 1,2703::6630846
+1 SEX M
+1 FAMC @kMxryj1FTuOKPryLWQgq@
+1 BIRT
+2 DATE ABT 1901
+2 PLAC USA
+2 SOUR @S89@
+3 PAGE Year: 1910; Census Place: Hornby, Steuben, New York; Roll: T
+4 CONC 624_1080; Page: 4B; Enumeration District: 0132; FHL microfil
+4 CONC m: 1375093
+3 OBJE @XiLK3uXzR9WEh4zwzokv@
+3 _APID 1,7884::103800962
+2 SOUR @6NcIzxfbRyyWNjNadTrG@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1905; Election District: A.D. 01 E.D. 01
+4 CONC ; City: Hornby; County: Steuben
+3 OBJE @ZSIx1RfETYq1bY0eaZbJ@
+3 _APID 1,7364::2430498
+2 SOUR @TGKTvmYkRIad5UXaC837@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1915; Election District: 01; Assembly Di
+4 CONC strict: 01; City: Hornby; County: Steuben; Page: 14
+3 OBJE @kSYgxjXNSTOnqy8KZnbr@
+3 _APID 1,2703::6630846
+1 RESI
+2 DATE 1905
+2 PLAC Hornby, Steuben, New York, USA
+3 MAP
+4 LATI N42.2442
+4 LONG W77.0444
+2 SOUR @6NcIzxfbRyyWNjNadTrG@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1905; Election District: A.D. 01 E.D. 01
+4 CONC ; City: Hornby; County: Steuben
+3 OBJE @ZSIx1RfETYq1bY0eaZbJ@
+3 _APID 1,7364::2430498
+2 NOTE Relationship to Head: Son
+1 RESI
+2 DATE 1910
+2 PLAC Hornby, Steuben, New York, USA
+3 MAP
+4 LATI N42.2442
+4 LONG W77.0444
+2 SOUR @S89@
+3 PAGE Year: 1910; Census Place: Hornby, Steuben, New York; Roll: T
+4 CONC 624_1080; Page: 4B; Enumeration District: 0132; FHL microfil
+4 CONC m: 1375093
+3 OBJE @XiLK3uXzR9WEh4zwzokv@
+3 _APID 1,7884::103800962
+2 NOTE Marital Status: Single; Relation to Head of House: Son
+1 RESI
+2 DATE 01 JUN 1915
+2 PLAC Hornby, Steuben, New York, United States
+2 SOUR @TGKTvmYkRIad5UXaC837@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1915; Election District: 01; Assembly Di
+4 CONC strict: 01; City: Hornby; County: Steuben; Page: 14
+3 OBJE @kSYgxjXNSTOnqy8KZnbr@
+3 _APID 1,2703::6630846
+2 NOTE Relation to Head of House: Son
+0 @I69@ INDI
+1 REFN d8a7fe8e-fba9-4ae3-ae0f-97903ec0b155
+1 NAME Catherine /McLaughlin/
+2 SOUR @S91@
+3 PAGE Year: 1940; Census Place: Corning, Steuben, New York; Roll
+4 CONC : m-t0627-02781; Page: 9B; Enumeration District: 51-27
+3 OBJE @M185@
+3 _APID 1,2442::8659054
+1 SEX F
+1 FAMC @F39@
+1 BIRT
+2 DATE ABT 1939
+2 PLAC New York, USA
+3 MAP
+4 LATI N42.7531
+4 LONG W74.2224
+2 SOUR @S91@
+3 PAGE Year: 1940; Census Place: Corning, Steuben, New York; Roll
+4 CONC : m-t0627-02781; Page: 9B; Enumeration District: 51-27
+3 OBJE @M185@
+3 _APID 1,2442::8659054
+1 RESI
+2 DATE 1940
+2 PLAC Corning, Steuben, New York, USA
+3 MAP
+4 LATI N42.1429
+4 LONG W77.0547
+2 SOUR @S91@
+3 PAGE Year: 1940; Census Place: Corning, Steuben, New York; Roll
+4 CONC : m-t0627-02781; Page: 9B; Enumeration District: 51-27
+3 OBJE @M185@
+3 _APID 1,2442::8659054
+2 NOTE Marital Status: Single; Relation to Head: Daughter
 0 @8XdadRg2TyaVk40bFWHS@ INDI
 1 REFN 8b9c62ea-8bce-46b3-b30b-45d5e2d7bc88
 1 NAME Charles /McLaughlin/
@@ -4555,6 +4910,39 @@
 2 SOUR @S74@
 3 _APID 1,60525::120825058
 1 _XY 184517.00 4488.00
+0 @I72@ INDI
+1 REFN 65749593-4029-4243-90fe-697e8e3b5d44
+1 NAME Daniel /McLaughlin/
+2 SOUR @S91@
+3 PAGE Year: 1940; Census Place: Corning, Steuben, New York; Roll
+4 CONC : m-t0627-02781; Page: 9A; Enumeration District: 51-27
+3 OBJE @M184@
+3 _APID 1,2442::8659051
+1 SEX M
+1 FAMC @F39@
+1 BIRT
+2 DATE ABT 1934
+2 PLAC New York, USA
+3 MAP
+4 LATI N42.7531
+4 LONG W74.2224
+2 SOUR @S91@
+3 PAGE Year: 1940; Census Place: Corning, Steuben, New York; Roll
+4 CONC : m-t0627-02781; Page: 9A; Enumeration District: 51-27
+3 OBJE @M184@
+3 _APID 1,2442::8659051
+1 RESI
+2 DATE 1940
+2 PLAC Corning, Steuben, New York, USA
+3 MAP
+4 LATI N42.1429
+4 LONG W77.0547
+2 SOUR @S91@
+3 PAGE Year: 1940; Census Place: Corning, Steuben, New York; Roll
+4 CONC : m-t0627-02781; Page: 9A; Enumeration District: 51-27
+3 OBJE @M184@
+3 _APID 1,2442::8659051
+2 NOTE Marital Status: Single; Relation to Head: Son
 0 @x9u87ik4Q3S7NhKiShT0@ INDI
 1 REFN 73e7e103-9ed0-49df-b960-d585db0824bb
 1 NAME Daniel J. /McLaughlin/
@@ -4614,6 +5002,12 @@
 2 SOUR @6NcIzxfbRyyWNjNadTrG@
 3 OBJE @ZSIx1RfETYq1bY0eaZbJ@
 3 _APID 1,7364::478729
+2 SOUR @TGKTvmYkRIad5UXaC837@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1915; Election District: 01; Assembly Di
+4 CONC strict: 01; City: Hornby; County: Steuben; Page: 14
+3 OBJE @kSYgxjXNSTOnqy8KZnbr@
+3 _APID 1,2703::6630840
 2 SOUR @XwjA9DOQSF6Rp4tqv0Z2@
 3 PAGE New York State Archives; Albany, New York; State Populatio
 4 CONC n Census Schedules, 1925; Election District: 01; Assembly Di
@@ -4687,6 +5081,12 @@
 2 SOUR @6NcIzxfbRyyWNjNadTrG@
 3 OBJE @ZSIx1RfETYq1bY0eaZbJ@
 3 _APID 1,7364::478729
+2 SOUR @TGKTvmYkRIad5UXaC837@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1915; Election District: 01; Assembly Di
+4 CONC strict: 01; City: Hornby; County: Steuben; Page: 14
+3 OBJE @kSYgxjXNSTOnqy8KZnbr@
+3 _APID 1,2703::6630840
 2 SOUR @XwjA9DOQSF6Rp4tqv0Z2@
 3 PAGE New York State Archives; Albany, New York; State Populatio
 4 CONC n Census Schedules, 1925; Election District: 01; Assembly Di
@@ -4791,28 +5191,39 @@
 4 LONG W77.0444
 2 SOUR @6NcIzxfbRyyWNjNadTrG@
 3 OBJE @ZSIx1RfETYq1bY0eaZbJ@
-3 _APID 1,7364::478729
 2 NOTE Relation to Head of House: Head
 1 RESI
-2 DATE 1910
-2 PLAC Arcadia, Wayne, New York, USA
+2 DATE 1905
+2 PLAC Hornby, Steuben, New York, USA
 3 MAP
-4 LATI N43.0862
-4 LONG W77.0867
-2 SOUR @S89@
-3 PAGE Year: 1910; Census Place: Arcadia, Wayne, New York; Roll: T6
-4 CONC 24_1094; Page: 15A; Enumeration District: 0125; FHL microfil
-4 CONC m: 1375107
-3 OBJE @uRuFOPY0TxGShTYODOln@
-3 _APID 1,7884::20273161
+4 LATI N42.2442
+4 LONG W77.0444
+2 SOUR @6NcIzxfbRyyWNjNadTrG@
+3 OBJE @ZSIx1RfETYq1bY0eaZbJ@
+2 NOTE Relationship to Head: Head
+1 RESI
+2 DATE 1910
+2 PLAC Hornby, Steuben, New York, USA
+3 MAP
+4 LATI N42.2442
+4 LONG W77.0444
 2 SOUR @S89@
 3 PAGE Year: 1910; Census Place: Hornby, Steuben, New York; Roll: T
 4 CONC 624_1080; Page: 4B; Enumeration District: 0132; FHL microfil
 4 CONC m: 1375093
 3 OBJE @XiLK3uXzR9WEh4zwzokv@
 3 _APID 1,7884::19997959
-2 NOTE Age: 43; Marital Status: Married; Relation to Head of House
-3 CONC : Head
+2 NOTE Marital Status: Married; Relation to Head of House: Head
+1 RESI
+2 DATE 01 JUN 1915
+2 PLAC Hornby, Steuben, New York, United States
+2 SOUR @TGKTvmYkRIad5UXaC837@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1915; Election District: 01; Assembly Di
+4 CONC strict: 01; City: Hornby; County: Steuben; Page: 14
+3 OBJE @kSYgxjXNSTOnqy8KZnbr@
+3 _APID 1,2703::6630840
+2 NOTE Relation to Head of House: Head
 1 RESI
 2 DATE 1920
 2 PLAC Hornby, Steuben, New York, USA
@@ -4895,6 +5306,86 @@
 2 SOUR @S74@
 3 _APID 1,60525::115594237
 1 _XY 185217.00 4488.00
+0 @I67@ INDI
+1 REFN 7b2c13ec-6efa-4a1a-997d-611fc61f7516
+1 NAME Edna M. /Mclaughlin/
+2 SOUR @S89@
+3 PAGE Year: 1910; Census Place: Hornby, Steuben, New York; Roll: T
+4 CONC 624_1080; Page: 4B; Enumeration District: 0132; FHL microfil
+4 CONC m: 1375093
+3 OBJE @XiLK3uXzR9WEh4zwzokv@
+3 _APID 1,7884::103800961
+2 SOUR @6NcIzxfbRyyWNjNadTrG@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1905; Election District: A.D. 01 E.D. 01
+4 CONC ; City: Hornby; County: Steuben
+3 OBJE @ZSIx1RfETYq1bY0eaZbJ@
+3 _APID 1,7364::478731
+2 SOUR @TGKTvmYkRIad5UXaC837@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1915; Election District: 01; Assembly Di
+4 CONC strict: 01; City: Hornby; County: Steuben; Page: 14
+3 OBJE @kSYgxjXNSTOnqy8KZnbr@
+3 _APID 1,2703::6630844
+1 SEX F
+1 FAMC @kMxryj1FTuOKPryLWQgq@
+1 BIRT
+2 DATE ABT 1900
+2 PLAC USA
+2 SOUR @S89@
+3 PAGE Year: 1910; Census Place: Hornby, Steuben, New York; Roll: T
+4 CONC 624_1080; Page: 4B; Enumeration District: 0132; FHL microfil
+4 CONC m: 1375093
+3 OBJE @XiLK3uXzR9WEh4zwzokv@
+3 _APID 1,7884::103800961
+2 SOUR @6NcIzxfbRyyWNjNadTrG@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1905; Election District: A.D. 01 E.D. 01
+4 CONC ; City: Hornby; County: Steuben
+3 OBJE @ZSIx1RfETYq1bY0eaZbJ@
+3 _APID 1,7364::478731
+2 SOUR @TGKTvmYkRIad5UXaC837@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1915; Election District: 01; Assembly Di
+4 CONC strict: 01; City: Hornby; County: Steuben; Page: 14
+3 OBJE @kSYgxjXNSTOnqy8KZnbr@
+3 _APID 1,2703::6630844
+1 RESI
+2 DATE 1905
+2 PLAC Hornby, Steuben, New York, USA
+3 MAP
+4 LATI N42.2442
+4 LONG W77.0444
+2 SOUR @6NcIzxfbRyyWNjNadTrG@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1905; Election District: A.D. 01 E.D. 01
+4 CONC ; City: Hornby; County: Steuben
+3 OBJE @ZSIx1RfETYq1bY0eaZbJ@
+3 _APID 1,7364::478731
+2 NOTE Relationship to Head: Daughter
+1 RESI
+2 DATE 1910
+2 PLAC Hornby, Steuben, New York, USA
+3 MAP
+4 LATI N42.2442
+4 LONG W77.0444
+2 SOUR @S89@
+3 PAGE Year: 1910; Census Place: Hornby, Steuben, New York; Roll: T
+4 CONC 624_1080; Page: 4B; Enumeration District: 0132; FHL microfil
+4 CONC m: 1375093
+3 OBJE @XiLK3uXzR9WEh4zwzokv@
+3 _APID 1,7884::103800961
+2 NOTE Marital Status: Single; Relation to Head of House: Daughter
+1 RESI
+2 DATE 01 JUN 1915
+2 PLAC Hornby, Steuben, New York, United States
+2 SOUR @TGKTvmYkRIad5UXaC837@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1915; Election District: 01; Assembly Di
+4 CONC strict: 01; City: Hornby; County: Steuben; Page: 14
+3 OBJE @kSYgxjXNSTOnqy8KZnbr@
+3 _APID 1,2703::6630844
+2 NOTE Relation to Head of House: Daughter
 0 @SL7hriZZQhaM3LzZjIck@ INDI
 1 REFN 08c7280b-bf10-4248-a1be-048bed6e4e7d
 1 NAME Elizabeth /McLaughlin/
@@ -5326,6 +5817,86 @@
 2 SOUR @e0k10AjRSSyDnTOmeiMT@
 3 _APID 1,70572::8473816
 1 _XY 187342.00 4263.00
+0 @I64@ INDI
+1 REFN a3a64898-bf89-42cb-8db3-81b6b861782e
+1 NAME Evelyn L. /McLaughlin/
+2 SOUR @S89@
+3 PAGE Year: 1910; Census Place: Hornby, Steuben, New York; Roll: T
+4 CONC 624_1080; Page: 4B; Enumeration District: 0132; FHL microfil
+4 CONC m: 1375093
+3 OBJE @XiLK3uXzR9WEh4zwzokv@
+3 _APID 1,7884::103800965
+2 SOUR @S88@
+3 PAGE Year: 1920; Census Place: Hornby, Steuben, New York; Roll: T
+4 CONC 625_1267; Page: 3A; Enumeration District: 114
+3 OBJE @IO5n9MvAQ3iR4Hu6TcJg@
+3 _APID 1,6061::87520718
+2 SOUR @TGKTvmYkRIad5UXaC837@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1915; Election District: 01; Assembly Di
+4 CONC strict: 01; City: Hornby; County: Steuben; Page: 14
+3 OBJE @kSYgxjXNSTOnqy8KZnbr@
+3 _APID 1,2703::6630852
+1 SEX F
+1 FAMC @kMxryj1FTuOKPryLWQgq@
+1 BIRT
+2 DATE ABT 1910
+2 PLAC New York, USA
+3 MAP
+4 LATI N42.7531
+4 LONG W74.2224
+2 SOUR @S89@
+3 PAGE Year: 1910; Census Place: Hornby, Steuben, New York; Roll: T
+4 CONC 624_1080; Page: 4B; Enumeration District: 0132; FHL microfil
+4 CONC m: 1375093
+3 OBJE @XiLK3uXzR9WEh4zwzokv@
+3 _APID 1,7884::103800965
+2 SOUR @S88@
+3 PAGE Year: 1920; Census Place: Hornby, Steuben, New York; Roll: T
+4 CONC 625_1267; Page: 3A; Enumeration District: 114
+3 OBJE @IO5n9MvAQ3iR4Hu6TcJg@
+3 _APID 1,6061::87520718
+2 SOUR @TGKTvmYkRIad5UXaC837@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1915; Election District: 01; Assembly Di
+4 CONC strict: 01; City: Hornby; County: Steuben; Page: 14
+3 OBJE @kSYgxjXNSTOnqy8KZnbr@
+3 _APID 1,2703::6630852
+1 RESI
+2 DATE 1910
+2 PLAC Hornby, Steuben, New York, USA
+3 MAP
+4 LATI N42.2442
+4 LONG W77.0444
+2 SOUR @S89@
+3 PAGE Year: 1910; Census Place: Hornby, Steuben, New York; Roll: T
+4 CONC 624_1080; Page: 4B; Enumeration District: 0132; FHL microfil
+4 CONC m: 1375093
+3 OBJE @XiLK3uXzR9WEh4zwzokv@
+3 _APID 1,7884::103800965
+2 NOTE Marital Status: Single; Relation to Head of House: Daughter
+1 RESI
+2 DATE 01 JUN 1915
+2 PLAC Hornby, Steuben, New York, United States
+2 SOUR @TGKTvmYkRIad5UXaC837@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1915; Election District: 01; Assembly Di
+4 CONC strict: 01; City: Hornby; County: Steuben; Page: 14
+3 OBJE @kSYgxjXNSTOnqy8KZnbr@
+3 _APID 1,2703::6630852
+2 NOTE Relation to Head of House: Daughter
+1 RESI
+2 DATE 1920
+2 PLAC Hornby, Steuben, New York, USA
+3 MAP
+4 LATI N42.2442
+4 LONG W77.0444
+2 SOUR @S88@
+3 PAGE Year: 1920; Census Place: Hornby, Steuben, New York; Roll: T
+4 CONC 625_1267; Page: 3A; Enumeration District: 114
+3 OBJE @IO5n9MvAQ3iR4Hu6TcJg@
+3 _APID 1,6061::87520718
+2 NOTE Relation to Head: Daughter; Residence Marital Status: Single
 0 @xO1mv3ooQOCSB8ARpu96@ INDI
 1 REFN d69e7754-62bc-4b1d-bd7e-fce503cf226e
 1 NAME Francis F. /McLaughlin/
@@ -5614,6 +6185,233 @@
 3 OBJE @M179@
 3 _APID 1,61535::1723542
 1 _XY 185792.00 4488.00
+0 @I94@ INDI
+1 REFN 4c47e815-f74f-4f9c-baf5-126d77023a27
+1 NAME Francis Maynard /McLaughlin/
+2 SOUR @S89@
+3 PAGE Year: 1910; Census Place: Hornby, Steuben, New York; Roll: T
+4 CONC 624_1080; Page: 4B; Enumeration District: 0132; FHL microfil
+4 CONC m: 1375093
+3 OBJE @XiLK3uXzR9WEh4zwzokv@
+3 _APID 1,7884::103800963
+2 SOUR @S88@
+3 PAGE Year: 1920; Census Place: Hornby, Steuben, New York; Roll: T
+4 CONC 625_1267; Page: 3A; Enumeration District: 114
+3 OBJE @IO5n9MvAQ3iR4Hu6TcJg@
+3 _APID 1,6061::87520716
+2 SOUR @S90@
+3 PAGE Year: 1930; Census Place: Corning, Steuben, New York; Page
+4 CONC : 5A; Enumeration District: 0024; FHL microfilm: 2341382
+3 OBJE @M197@
+3 _APID 1,6224::46272079
+2 SOUR @S91@
+3 PAGE Year: 1940; Census Place: Corning, Steuben, New York; Roll
+4 CONC : m-t0627-02781; Page: 9A; Enumeration District: 51-27
+3 OBJE @M184@
+3 _APID 1,2442::8659048
+2 SOUR @S75@
+3 PAGE New York State Department of Health; Albany, NY, USA; New Yo
+4 CONC rk State Marriage Index
+3 OBJE @M200@
+3 _APID 1,61632::3478170
+2 SOUR @S73@
+3 OBJE @M182@
+2 SOUR @S73@
+3 OBJE @M183@
+2 SOUR @6NcIzxfbRyyWNjNadTrG@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1905; Election District: A.D. 01 E.D. 01
+4 CONC ; City: Hornby; County: Steuben
+3 OBJE @ZSIx1RfETYq1bY0eaZbJ@
+3 _APID 1,7364::2430499
+2 SOUR @TGKTvmYkRIad5UXaC837@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1915; Election District: 01; Assembly Di
+4 CONC strict: 01; City: Hornby; County: Steuben; Page: 14
+3 OBJE @kSYgxjXNSTOnqy8KZnbr@
+3 _APID 1,2703::6630848
+2 SOUR @XwjA9DOQSF6Rp4tqv0Z2@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1925; Election District: 04; Assembly Di
+4 CONC strict: 01; City: Corning; County: Steuben; Page: 33
+3 OBJE @M201@
+3 _APID 1,2704::25185833
+2 SOUR @S74@
+3 _APID 1,60525::101427120
+2 SOUR @GBMDFX2WTtuAjoiA5QpK@
+3 PAGE Number: 082-26-7808; Issue State: New York; Issue Date: 1951
+3 _APID 1,3693::41143977
+1 NAME Maynard /McLaughlin/
+1 SEX M
+1 FAMC @kMxryj1FTuOKPryLWQgq@
+1 FAMS @F39@
+1 FAMS @F46@
+1 NOTE Working hypothesis: Mary Schoonover was illegitimate child o
+2 CONC f Beatrice Louise Schoonover and a McLaughlin in Hornby. Pos
+2 CONC sible candidates are three sons of Daniel McLauglin and Cath
+2 CONC erine Hendricks: Arthur, Maynard, or Thomas.
+1 BIRT
+2 DATE 11 DEC 1902
+2 PLAC Hornby, Steuben, New York, USA
+3 MAP
+4 LATI N42.2442
+4 LONG W77.0444
+2 SOUR @S89@
+3 PAGE Year: 1910; Census Place: Hornby, Steuben, New York; Roll: T
+4 CONC 624_1080; Page: 4B; Enumeration District: 0132; FHL microfil
+4 CONC m: 1375093
+3 OBJE @XiLK3uXzR9WEh4zwzokv@
+3 _APID 1,7884::103800963
+2 SOUR @S88@
+3 PAGE Year: 1920; Census Place: Hornby, Steuben, New York; Roll: T
+4 CONC 625_1267; Page: 3A; Enumeration District: 114
+3 OBJE @IO5n9MvAQ3iR4Hu6TcJg@
+3 _APID 1,6061::87520716
+2 SOUR @S90@
+3 PAGE Year: 1930; Census Place: Corning, Steuben, New York; Page
+4 CONC : 5A; Enumeration District: 0024; FHL microfilm: 2341382
+3 OBJE @M197@
+3 _APID 1,6224::46272079
+2 SOUR @S91@
+3 PAGE Year: 1940; Census Place: Corning, Steuben, New York; Roll
+4 CONC : m-t0627-02781; Page: 9A; Enumeration District: 51-27
+3 OBJE @M184@
+3 _APID 1,2442::8659048
+2 SOUR @6NcIzxfbRyyWNjNadTrG@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1905; Election District: A.D. 01 E.D. 01
+4 CONC ; City: Hornby; County: Steuben
+3 OBJE @ZSIx1RfETYq1bY0eaZbJ@
+3 _APID 1,7364::2430499
+2 SOUR @TGKTvmYkRIad5UXaC837@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1915; Election District: 01; Assembly Di
+4 CONC strict: 01; City: Hornby; County: Steuben; Page: 14
+3 OBJE @kSYgxjXNSTOnqy8KZnbr@
+3 _APID 1,2703::6630848
+2 SOUR @XwjA9DOQSF6Rp4tqv0Z2@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1925; Election District: 04; Assembly Di
+4 CONC strict: 01; City: Corning; County: Steuben; Page: 33
+3 OBJE @M201@
+3 _APID 1,2704::25185833
+2 SOUR @S74@
+3 _APID 1,60525::101427120
+2 SOUR @GBMDFX2WTtuAjoiA5QpK@
+3 PAGE Number: 082-26-7808; Issue State: New York; Issue Date: 1951
+3 _APID 1,3693::41143977
+1 BIRT
+2 DATE 11 DEC 1903
+2 PLAC Hornby, Steuben, New York, USA
+3 MAP
+4 LATI N42.2442
+4 LONG W77.0444
+2 SOUR @S73@
+3 OBJE @M182@
+3 _APID 1,61377::675616
+1 RESI
+2 DATE 1905
+2 PLAC Hornby, Steuben, New York, USA
+3 MAP
+4 LATI N42.2442
+4 LONG W77.0444
+2 SOUR @6NcIzxfbRyyWNjNadTrG@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1905; Election District: A.D. 01 E.D. 01
+4 CONC ; City: Hornby; County: Steuben
+3 OBJE @ZSIx1RfETYq1bY0eaZbJ@
+3 _APID 1,7364::2430499
+2 NOTE Relationship to Head: Son
+1 RESI
+2 DATE 1910
+2 PLAC Hornby, Steuben, New York, USA
+3 MAP
+4 LATI N42.2442
+4 LONG W77.0444
+2 SOUR @S89@
+3 PAGE Year: 1910; Census Place: Hornby, Steuben, New York; Roll: T
+4 CONC 624_1080; Page: 4B; Enumeration District: 0132; FHL microfil
+4 CONC m: 1375093
+3 OBJE @XiLK3uXzR9WEh4zwzokv@
+3 _APID 1,7884::103800963
+2 NOTE Marital Status: Single; Relation to Head of House: Son
+1 RESI
+2 DATE 01 JUN 1915
+2 PLAC Hornby, Steuben, New York, United States
+2 SOUR @TGKTvmYkRIad5UXaC837@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1915; Election District: 01; Assembly Di
+4 CONC strict: 01; City: Hornby; County: Steuben; Page: 14
+3 OBJE @kSYgxjXNSTOnqy8KZnbr@
+3 _APID 1,2703::6630848
+2 NOTE Relation to Head of House: Son
+1 RESI
+2 DATE 1920
+2 PLAC Hornby, Steuben, New York, USA
+3 MAP
+4 LATI N42.2442
+4 LONG W77.0444
+2 SOUR @S88@
+3 PAGE Year: 1920; Census Place: Hornby, Steuben, New York; Roll: T
+4 CONC 625_1267; Page: 3A; Enumeration District: 114
+3 OBJE @IO5n9MvAQ3iR4Hu6TcJg@
+3 _APID 1,6061::87520716
+2 NOTE Relation to Head: Son; Residence Marital Status: Single
+1 RESI
+2 DATE 01 JUN 1925
+2 PLAC Corning, Steuben, New York, USA
+3 MAP
+4 LATI N42.1429
+4 LONG W77.0547
+2 SOUR @XwjA9DOQSF6Rp4tqv0Z2@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1925; Election District: 04; Assembly Di
+4 CONC strict: 01; City: Corning; County: Steuben; Page: 33
+3 OBJE @M201@
+3 _APID 1,2704::25185833
+2 NOTE Relation to Head: Roomer
+1 RESI
+2 DATE 1930
+2 PLAC Corning, Steuben, New York, USA
+3 MAP
+4 LATI N42.1429
+4 LONG W77.0547
+2 SOUR @S90@
+3 PAGE Year: 1930; Census Place: Corning, Steuben, New York; Page
+4 CONC : 5A; Enumeration District: 0024; FHL microfilm: 2341382
+3 OBJE @M197@
+3 _APID 1,6224::46272079
+2 NOTE Marital Status: Single; Relation to Head: Lodger
+1 RESI
+2 DATE 1940
+2 PLAC Corning, Steuben, New York, USA
+3 MAP
+4 LATI N42.1429
+4 LONG W77.0547
+2 SOUR @S91@
+3 PAGE Year: 1940; Census Place: Corning, Steuben, New York; Roll
+4 CONC : m-t0627-02781; Page: 9A; Enumeration District: 51-27
+3 OBJE @M184@
+3 _APID 1,2442::8659048
+2 NOTE Marital Status: Married; Relation to Head: Head
+1 DEAT
+2 DATE FEB 1968
+2 PLAC Corning, Steuben, New York, USA
+3 MAP
+4 LATI N42.1429
+4 LONG W77.0547
+2 SOUR @S74@
+3 _APID 1,60525::101427120
+2 SOUR @GBMDFX2WTtuAjoiA5QpK@
+3 PAGE Number: 082-26-7808; Issue State: New York; Issue Date: 1951
+3 _APID 1,3693::41143977
+1 BURI
+2 PLAC South Corning, Steuben, New York, USA
+3 MAP
+4 LATI N42.1217
+4 LONG W77.0372
+2 SOUR @S74@
+3 _APID 1,60525::101427120
 0 @GYhfAd7MRnemwPvy5D24@ INDI
 1 REFN f1d4236e-5c92-46c4-8b7c-7ca22cab6920
 1 NAME George E. /McLaughlin/
@@ -7019,6 +7817,58 @@
 2 SOUR @e0k10AjRSSyDnTOmeiMT@
 3 _APID 1,70572::7339457
 1 _XY 184692.00 4488.00
+0 @I63@ INDI
+1 REFN 0d913817-13c6-4bf9-8f57-cd08f9548824
+1 NAME Katherine D. /McLaughlin/
+2 SOUR @S88@
+3 PAGE Year: 1920; Census Place: Hornby, Steuben, New York; Roll: T
+4 CONC 625_1267; Page: 3A; Enumeration District: 114
+3 OBJE @IO5n9MvAQ3iR4Hu6TcJg@
+3 _APID 1,6061::87520719
+2 SOUR @TGKTvmYkRIad5UXaC837@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1915; Election District: 01; Assembly Di
+4 CONC strict: 01; City: Hornby; County: Steuben; Page: 14
+3 OBJE @kSYgxjXNSTOnqy8KZnbr@
+3 _APID 1,2703::6630854
+1 SEX F
+1 FAMC @kMxryj1FTuOKPryLWQgq@
+1 BIRT
+2 DATE ABT 1912
+2 PLAC USA
+2 SOUR @S88@
+3 PAGE Year: 1920; Census Place: Hornby, Steuben, New York; Roll: T
+4 CONC 625_1267; Page: 3A; Enumeration District: 114
+3 OBJE @IO5n9MvAQ3iR4Hu6TcJg@
+3 _APID 1,6061::87520719
+2 SOUR @TGKTvmYkRIad5UXaC837@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1915; Election District: 01; Assembly Di
+4 CONC strict: 01; City: Hornby; County: Steuben; Page: 14
+3 OBJE @kSYgxjXNSTOnqy8KZnbr@
+3 _APID 1,2703::6630854
+1 RESI
+2 DATE 01 JUN 1915
+2 PLAC Hornby, Steuben, New York, United States
+2 SOUR @TGKTvmYkRIad5UXaC837@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1915; Election District: 01; Assembly Di
+4 CONC strict: 01; City: Hornby; County: Steuben; Page: 14
+3 OBJE @kSYgxjXNSTOnqy8KZnbr@
+3 _APID 1,2703::6630854
+2 NOTE Relation to Head of House: Daughter
+1 RESI
+2 DATE 1920
+2 PLAC Hornby, Steuben, New York, USA
+3 MAP
+4 LATI N42.2442
+4 LONG W77.0444
+2 SOUR @S88@
+3 PAGE Year: 1920; Census Place: Hornby, Steuben, New York; Roll: T
+4 CONC 625_1267; Page: 3A; Enumeration District: 114
+3 OBJE @IO5n9MvAQ3iR4Hu6TcJg@
+3 _APID 1,6061::87520719
+2 NOTE Relation to Head: Daughter; Residence Marital Status: Single
 0 @jCNm1aUqSHahyJEMWMbJ@ INDI
 1 REFN 69c294df-1b2b-4c33-a016-6fd2cc809cd0
 1 NAME Katherine J. /McLaughlin/
@@ -7965,6 +8815,105 @@
 3 CONC g store Painted Post, house of Gerald Harrison 279 Ames Stre
 3 CONC et Rochester
 1 _XY 185492.00 4488.00
+0 @I71@ INDI
+1 REFN 62412252-4d0a-4ad3-ba61-96fcf0e2f371
+1 NAME Maynard /McLaughlin/
+2 SOUR @S91@
+3 PAGE Year: 1940; Census Place: Corning, Steuben, New York; Roll
+4 CONC : m-t0627-02781; Page: 9B; Enumeration District: 51-27
+3 OBJE @M185@
+3 _APID 1,2442::8659052
+1 SEX M
+1 FAMC @F39@
+1 BIRT
+2 DATE ABT 1935
+2 PLAC New York, USA
+3 MAP
+4 LATI N42.7531
+4 LONG W74.2224
+2 SOUR @S91@
+3 PAGE Year: 1940; Census Place: Corning, Steuben, New York; Roll
+4 CONC : m-t0627-02781; Page: 9B; Enumeration District: 51-27
+3 OBJE @M185@
+3 _APID 1,2442::8659052
+1 RESI
+2 DATE 1940
+2 PLAC Corning, Steuben, New York, USA
+3 MAP
+4 LATI N42.1429
+4 LONG W77.0547
+2 SOUR @S91@
+3 PAGE Year: 1940; Census Place: Corning, Steuben, New York; Roll
+4 CONC : m-t0627-02781; Page: 9B; Enumeration District: 51-27
+3 OBJE @M185@
+3 _APID 1,2442::8659052
+2 NOTE Marital Status: Single; Relation to Head: Son
+0 @I74@ INDI
+1 REFN 4e84b5a3-63ed-4566-b678-bbccdbcba2d2
+1 NAME Paul /Mclaughlin/
+2 SOUR @S88@
+3 PAGE Year: 1920; Census Place: Hornby, Steuben, New York; Roll: T
+4 CONC 625_1267; Page: 3A; Enumeration District: 114
+3 OBJE @IO5n9MvAQ3iR4Hu6TcJg@
+3 _APID 1,6061::87520720
+1 SEX M
+1 FAMC @kMxryj1FTuOKPryLWQgq@
+1 BIRT
+2 DATE ABT 1919
+2 PLAC New York, USA
+3 MAP
+4 LATI N42.7531
+4 LONG W74.2224
+2 SOUR @S88@
+3 PAGE Year: 1920; Census Place: Hornby, Steuben, New York; Roll: T
+4 CONC 625_1267; Page: 3A; Enumeration District: 114
+3 OBJE @IO5n9MvAQ3iR4Hu6TcJg@
+3 _APID 1,6061::87520720
+1 RESI
+2 DATE 1920
+2 PLAC Hornby, Steuben, New York, USA
+3 MAP
+4 LATI N42.2442
+4 LONG W77.0444
+2 SOUR @S88@
+3 PAGE Year: 1920; Census Place: Hornby, Steuben, New York; Roll: T
+4 CONC 625_1267; Page: 3A; Enumeration District: 114
+3 OBJE @IO5n9MvAQ3iR4Hu6TcJg@
+3 _APID 1,6061::87520720
+2 NOTE Relation to Head: Son; Residence Marital Status: Single
+0 @I70@ INDI
+1 REFN 84f6f8a3-4c42-47a5-9ef1-e23a1961029e
+1 NAME Sheila /McLaughlin/
+2 SOUR @S91@
+3 PAGE Year: 1940; Census Place: Corning, Steuben, New York; Roll
+4 CONC : m-t0627-02781; Page: 9B; Enumeration District: 51-27
+3 OBJE @M185@
+3 _APID 1,2442::8659053
+1 SEX F
+1 FAMC @F39@
+1 BIRT
+2 DATE ABT 1937
+2 PLAC New York, USA
+3 MAP
+4 LATI N42.7531
+4 LONG W74.2224
+2 SOUR @S91@
+3 PAGE Year: 1940; Census Place: Corning, Steuben, New York; Roll
+4 CONC : m-t0627-02781; Page: 9B; Enumeration District: 51-27
+3 OBJE @M185@
+3 _APID 1,2442::8659053
+1 RESI
+2 DATE 1940
+2 PLAC Corning, Steuben, New York, USA
+3 MAP
+4 LATI N42.1429
+4 LONG W77.0547
+2 SOUR @S91@
+3 PAGE Year: 1940; Census Place: Corning, Steuben, New York; Roll
+4 CONC : m-t0627-02781; Page: 9B; Enumeration District: 51-27
+3 OBJE @M185@
+3 _APID 1,2442::8659053
+2 NOTE Marital Status: Single; Relation to Head: Daughter
 0 @E2Zd96QoTZu0bJ8K7as6@ INDI
 1 REFN 7dca3773-ce92-4b0a-9344-38d575ec160b
 1 NAME Thomas F. /McLaughlin/
@@ -8121,6 +9070,108 @@
 1 DEAT
 2 DATE 1910
 1 _XY 185392.00 4488.00
+0 @I65@ INDI
+1 REFN c5f20d4f-02b9-473a-90ac-45e7f5916bf4
+1 NAME Thomas H. /Mclaughlin/
+2 SOUR @S89@
+3 PAGE Year: 1910; Census Place: Hornby, Steuben, New York; Roll: T
+4 CONC 624_1080; Page: 4B; Enumeration District: 0132; FHL microfil
+4 CONC m: 1375093
+3 OBJE @XiLK3uXzR9WEh4zwzokv@
+3 _APID 1,7884::103800964
+2 SOUR @S88@
+3 PAGE Year: 1920; Census Place: Hornby, Steuben, New York; Roll: T
+4 CONC 625_1267; Page: 3A; Enumeration District: 114
+3 OBJE @IO5n9MvAQ3iR4Hu6TcJg@
+3 _APID 1,6061::87520717
+2 SOUR @6NcIzxfbRyyWNjNadTrG@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1905; Election District: A.D. 01 E.D. 01
+4 CONC ; City: Hornby; County: Steuben
+3 OBJE @ZSIx1RfETYq1bY0eaZbJ@
+3 _APID 1,7364::2430500
+2 SOUR @TGKTvmYkRIad5UXaC837@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1915; Election District: 01; Assembly Di
+4 CONC strict: 01; City: Hornby; County: Steuben; Page: 14
+3 OBJE @kSYgxjXNSTOnqy8KZnbr@
+3 _APID 1,2703::6630850
+1 SEX M
+1 FAMC @kMxryj1FTuOKPryLWQgq@
+1 BIRT
+2 DATE ABT 1904
+2 PLAC USA
+2 SOUR @S89@
+3 PAGE Year: 1910; Census Place: Hornby, Steuben, New York; Roll: T
+4 CONC 624_1080; Page: 4B; Enumeration District: 0132; FHL microfil
+4 CONC m: 1375093
+3 OBJE @XiLK3uXzR9WEh4zwzokv@
+3 _APID 1,7884::103800964
+2 SOUR @S88@
+3 PAGE Year: 1920; Census Place: Hornby, Steuben, New York; Roll: T
+4 CONC 625_1267; Page: 3A; Enumeration District: 114
+3 OBJE @IO5n9MvAQ3iR4Hu6TcJg@
+3 _APID 1,6061::87520717
+2 SOUR @6NcIzxfbRyyWNjNadTrG@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1905; Election District: A.D. 01 E.D. 01
+4 CONC ; City: Hornby; County: Steuben
+3 OBJE @ZSIx1RfETYq1bY0eaZbJ@
+3 _APID 1,7364::2430500
+2 SOUR @TGKTvmYkRIad5UXaC837@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1915; Election District: 01; Assembly Di
+4 CONC strict: 01; City: Hornby; County: Steuben; Page: 14
+3 OBJE @kSYgxjXNSTOnqy8KZnbr@
+3 _APID 1,2703::6630850
+1 RESI
+2 DATE 1905
+2 PLAC Hornby, Steuben, New York, USA
+3 MAP
+4 LATI N42.2442
+4 LONG W77.0444
+2 SOUR @6NcIzxfbRyyWNjNadTrG@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1905; Election District: A.D. 01 E.D. 01
+4 CONC ; City: Hornby; County: Steuben
+3 OBJE @ZSIx1RfETYq1bY0eaZbJ@
+3 _APID 1,7364::2430500
+2 NOTE Relationship to Head: Son
+1 RESI
+2 DATE 1910
+2 PLAC Hornby, Steuben, New York, USA
+3 MAP
+4 LATI N42.2442
+4 LONG W77.0444
+2 SOUR @S89@
+3 PAGE Year: 1910; Census Place: Hornby, Steuben, New York; Roll: T
+4 CONC 624_1080; Page: 4B; Enumeration District: 0132; FHL microfil
+4 CONC m: 1375093
+3 OBJE @XiLK3uXzR9WEh4zwzokv@
+3 _APID 1,7884::103800964
+2 NOTE Marital Status: Single; Relation to Head of House: Son
+1 RESI
+2 DATE 01 JUN 1915
+2 PLAC Hornby, Steuben, New York, United States
+2 SOUR @TGKTvmYkRIad5UXaC837@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1915; Election District: 01; Assembly Di
+4 CONC strict: 01; City: Hornby; County: Steuben; Page: 14
+3 OBJE @kSYgxjXNSTOnqy8KZnbr@
+3 _APID 1,2703::6630850
+2 NOTE Relation to Head of House: Son
+1 RESI
+2 DATE 1920
+2 PLAC Hornby, Steuben, New York, USA
+3 MAP
+4 LATI N42.2442
+4 LONG W77.0444
+2 SOUR @S88@
+3 PAGE Year: 1920; Census Place: Hornby, Steuben, New York; Roll: T
+4 CONC 625_1267; Page: 3A; Enumeration District: 114
+3 OBJE @IO5n9MvAQ3iR4Hu6TcJg@
+3 _APID 1,6061::87520717
+2 NOTE Relation to Head: Son; Residence Marital Status: Single
 0 @I17yuh5VQDWU73hfMd76@ INDI
 1 REFN 4aa70379-d935-496a-8b47-7eb6688054c2
 1 NAME William /McLaughlin/
@@ -9388,6 +10439,11 @@
 4 CONC : 1241161
 3 OBJE @XtP6UnRmQuaNxAYWudtQ@
 3 _APID 1,7602::56698142
+2 SOUR @S71@
+3 PAGE New York Department of Health; Albany, NY; NY State Death In
+4 CONC dex
+3 OBJE @M180@
+3 _APID 1,61535::2390919
 2 SOUR @m7Phkg8qRz2NO0TDWP4l@
 3 OBJE @6EyoNEr3QyOliQtJq0Qu@
 3 _APID 1,7218::2214635
@@ -9491,11 +10547,16 @@
 2 NOTE Age: 75; Marital Status: Married; Relation to Head of House
 3 CONC : Head
 1 DEAT
-2 DATE 27 JUN 1907
-2 PLAC Schuyler, New York, USA
+2 DATE 20 JUN 1907
+2 PLAC Reading, Schuyler, New York, USA
 3 MAP
-4 LATI N42.3898
-4 LONG W76.877
+4 LATI N42.4201
+4 LONG W76.9377
+2 SOUR @S71@
+3 PAGE New York Department of Health; Albany, NY; NY State Death In
+4 CONC dex
+3 OBJE @M180@
+3 _APID 1,61535::2390919
 2 SOUR @S80@
 3 PAGE <bibl> <author>St. Mary’s of the Lake Church (Watkins Glen
 4 CONC , New York, USA)</author>, <title level="u">Cemetery of St
@@ -9850,6 +10911,1955 @@
 3 _APID 1,6061::87521115
 2 NOTE Marital Status: Married; Relationship: Wife
 1 _XY 185117.00 4488.00
+0 @I97@ INDI
+1 REFN 5dc6555d-b7ac-4932-98fb-7d13d7ade75b
+1 NAME Beatrice Louise /Schoonover/
+2 SOUR @S89@
+3 PAGE Year: 1910; Census Place: Hornby, Steuben, New York; Roll: T
+4 CONC 624_1080; Page: 1A; Enumeration District: 0132; FHL microfil
+4 CONC m: 1375093
+3 OBJE @An7pYtBiRpyzVBKV09fE@
+3 _APID 1,7884::103800585
+2 SOUR @S88@
+3 PAGE Year: 1920; Census Place: Hornby, Steuben, New York; Roll: T
+4 CONC 625_1267; Page: 2A; Enumeration District: 114
+3 OBJE @U9W4jkSSQl2BUzUykU9a@
+3 _APID 1,6061::87520596
+2 SOUR @S90@
+3 PAGE Year: 1930; Census Place: Corning, Steuben, New York; Page
+4 CONC : 5A; Enumeration District: 0024; FHL microfilm: 2341382
+3 OBJE @M197@
+3 _APID 1,6224::46272051
+2 SOUR @S91@
+3 PAGE Year: 1940; Census Place: Corning, Steuben, New York; Roll
+4 CONC : m-t0627-02781; Page: 61A; Enumeration District: 51-33
+3 OBJE @M198@
+3 _APID 1,2442::8666312
+2 SOUR @S101@
+3 PAGE New York State Department of Health; Albany, NY, USA; New Yo
+4 CONC rk State Birth Index
+3 OBJE @M204@
+3 _APID 1,61667::1169688
+2 SOUR @S102@
+3 PAGE New York State Department of Health; Albany, NY, USA; New Yo
+4 CONC rk State Death Index
+3 _APID 1,61668::944894
+2 SOUR @S75@
+3 PAGE New York State Department of Health; Albany, NY, USA; New Yo
+4 CONC rk State Marriage Index
+3 OBJE @M206@
+3 _APID 1,61632::1528400
+2 SOUR @S73@
+3 OBJE @M190@
+2 SOUR @S73@
+3 OBJE @M203@
+2 SOUR @6NcIzxfbRyyWNjNadTrG@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1905; Election District: A.D. 01 E.D. 01
+4 CONC ; City: Hornby; County: Steuben; Page: 8
+3 OBJE @f0aqLKxmQQC97jC126aB@
+3 _APID 1,7364::7101284
+2 SOUR @TGKTvmYkRIad5UXaC837@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1915; Election District: 01; Assembly Di
+4 CONC strict: 01; City: Hornby; County: Steuben; Page: 13
+3 OBJE @sXk0gITcSLyDLE1yT72U@
+3 _APID 1,2703::6630733
+2 SOUR @XwjA9DOQSF6Rp4tqv0Z2@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1925; Election District: 01; Assembly Di
+4 CONC strict: 01; City: Erwin; County: Steuben; Page: 18
+3 OBJE @M187@
+3 _APID 1,2704::25213012
+2 SOUR @S98@
+3 OBJE @M205@
+3 _APID 1,2469::83576245
+2 SOUR @S74@
+3 _APID 1,60525::75668891
+2 SOUR @S97@
+3 _APID 1,60901::787345160
+1 SEX F
+1 FAMC @F41@
+1 FAMS @F46@
+1 FAMS @F43@
+1 BIRT
+2 DATE 24 AUG 1904
+2 PLAC Hornby, Steuben, New York, USA
+3 MAP
+4 LATI N42.2442
+4 LONG W77.0444
+2 SOUR @S89@
+3 PAGE Year: 1910; Census Place: Hornby, Steuben, New York; Roll: T
+4 CONC 624_1080; Page: 1A; Enumeration District: 0132; FHL microfil
+4 CONC m: 1375093
+3 OBJE @An7pYtBiRpyzVBKV09fE@
+3 _APID 1,7884::103800585
+2 SOUR @S88@
+3 PAGE Year: 1920; Census Place: Hornby, Steuben, New York; Roll: T
+4 CONC 625_1267; Page: 2A; Enumeration District: 114
+3 OBJE @U9W4jkSSQl2BUzUykU9a@
+3 _APID 1,6061::87520596
+2 SOUR @S90@
+3 PAGE Year: 1930; Census Place: Corning, Steuben, New York; Page
+4 CONC : 5A; Enumeration District: 0024; FHL microfilm: 2341382
+3 OBJE @M197@
+3 _APID 1,6224::46272051
+2 SOUR @S91@
+3 PAGE Year: 1940; Census Place: Corning, Steuben, New York; Roll
+4 CONC : m-t0627-02781; Page: 61A; Enumeration District: 51-33
+3 OBJE @M198@
+3 _APID 1,2442::8666312
+2 SOUR @S101@
+3 PAGE New York State Department of Health; Albany, NY, USA; New Yo
+4 CONC rk State Birth Index
+3 OBJE @M204@
+3 _APID 1,61667::1169688
+2 SOUR @S102@
+3 PAGE New York State Department of Health; Albany, NY, USA; New Yo
+4 CONC rk State Death Index
+3 _APID 1,61668::944894
+2 SOUR @S73@
+3 OBJE @M190@
+3 _APID 1,61377::900665234
+2 SOUR @6NcIzxfbRyyWNjNadTrG@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1905; Election District: A.D. 01 E.D. 01
+4 CONC ; City: Hornby; County: Steuben; Page: 8
+3 OBJE @f0aqLKxmQQC97jC126aB@
+3 _APID 1,7364::7101284
+2 SOUR @TGKTvmYkRIad5UXaC837@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1915; Election District: 01; Assembly Di
+4 CONC strict: 01; City: Hornby; County: Steuben; Page: 13
+3 OBJE @sXk0gITcSLyDLE1yT72U@
+3 _APID 1,2703::6630733
+2 SOUR @XwjA9DOQSF6Rp4tqv0Z2@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1925; Election District: 01; Assembly Di
+4 CONC strict: 01; City: Erwin; County: Steuben; Page: 18
+3 OBJE @M187@
+3 _APID 1,2704::25213012
+2 SOUR @S74@
+3 _APID 1,60525::75668891
+1 RESI
+2 DATE 1905
+2 PLAC Hornby, Steuben, New York, USA
+3 MAP
+4 LATI N42.2442
+4 LONG W77.0444
+2 SOUR @6NcIzxfbRyyWNjNadTrG@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1905; Election District: A.D. 01 E.D. 01
+4 CONC ; City: Hornby; County: Steuben; Page: 8
+3 OBJE @f0aqLKxmQQC97jC126aB@
+3 _APID 1,7364::7101284
+2 NOTE Relationship to Head: Daughter
+1 RESI
+2 DATE 1910
+2 PLAC Hornby, Steuben, New York, USA
+3 MAP
+4 LATI N42.2442
+4 LONG W77.0444
+2 SOUR @S89@
+3 PAGE Year: 1910; Census Place: Hornby, Steuben, New York; Roll: T
+4 CONC 624_1080; Page: 1A; Enumeration District: 0132; FHL microfil
+4 CONC m: 1375093
+3 OBJE @An7pYtBiRpyzVBKV09fE@
+3 _APID 1,7884::103800585
+2 NOTE Marital Status: Single; Relation to Head of House: Daughter
+1 RESI
+2 DATE 01 JUN 1915
+2 PLAC Hornby, Steuben, New York, USA
+3 MAP
+4 LATI N42.2442
+4 LONG W77.0444
+2 SOUR @TGKTvmYkRIad5UXaC837@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1915; Election District: 01; Assembly Di
+4 CONC strict: 01; City: Hornby; County: Steuben; Page: 13
+3 OBJE @sXk0gITcSLyDLE1yT72U@
+3 _APID 1,2703::6630733
+2 NOTE Relation to Head of House: Daughter
+1 RESI
+2 DATE 1920
+2 PLAC Hornby, Steuben, New York, USA
+3 MAP
+4 LATI N42.2442
+4 LONG W77.0444
+2 SOUR @S88@
+3 PAGE Year: 1920; Census Place: Hornby, Steuben, New York; Roll: T
+4 CONC 625_1267; Page: 2A; Enumeration District: 114
+3 OBJE @U9W4jkSSQl2BUzUykU9a@
+3 _APID 1,6061::87520596
+2 NOTE Relation to Head: Daughter; Residence Marital Status: Single
+1 RESI
+2 DATE 01 JUN 1925
+2 PLAC 148 Steuben Street, Painted Post, Steuben, New York, USA
+2 SOUR @XwjA9DOQSF6Rp4tqv0Z2@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1925; Election District: 01; Assembly Di
+4 CONC strict: 01; City: Erwin; County: Steuben; Page: 18
+3 OBJE @M187@
+3 _APID 1,2704::25213012
+2 NOTE Relation to Head: Daughter
+1 RESI
+2 DATE 1925
+2 PLAC 148 Steuben Street, Painted Post, Steuben, New York, USA
+2 SOUR @S98@
+3 OBJE @M205@
+3 _APID 1,2469::83576245
+1 RESI
+2 DATE 1930
+2 PLAC Corning, Steuben, New York, USA
+3 MAP
+4 LATI N42.1429
+4 LONG W77.0547
+2 SOUR @S90@
+3 PAGE Year: 1930; Census Place: Corning, Steuben, New York; Page
+4 CONC : 5A; Enumeration District: 0024; FHL microfilm: 2341382
+3 OBJE @M197@
+3 _APID 1,6224::46272051
+2 NOTE Marital Status: Married; Relation to Head: Wife
+1 RESI
+2 DATE 1940
+2 PLAC Corning, Steuben, New York, USA
+3 MAP
+4 LATI N42.1429
+4 LONG W77.0547
+2 SOUR @S91@
+3 PAGE Year: 1940; Census Place: Corning, Steuben, New York; Roll
+4 CONC : m-t0627-02781; Page: 61A; Enumeration District: 51-33
+3 OBJE @M198@
+3 _APID 1,2442::8666312
+2 NOTE Marital Status: Married; Relation to Head: Wife
+1 DEAT
+2 DATE 10 MAR 1959
+2 PLAC New York, USA
+3 MAP
+4 LATI N42.7531
+4 LONG W74.2224
+2 SOUR @S102@
+3 PAGE New York State Department of Health; Albany, NY, USA; New Yo
+4 CONC rk State Death Index
+3 _APID 1,61668::944894
+2 SOUR @S74@
+3 _APID 1,60525::75668891
+1 BURI
+2 PLAC Corning, Steuben, New York, USA
+3 MAP
+4 LATI N42.1429
+4 LONG W77.0547
+2 SOUR @S74@
+3 _APID 1,60525::75668891
+0 @I75@ INDI
+1 REFN 5077e15b-34d0-4a39-aab0-6083edf18ddc
+1 NAME Bert /Schoonover/
+2 SOUR @S87@
+3 PAGE Year: 1880; Census Place: Clymer, Tioga, Pennsylvania; Roll
+4 CONC : 1197; Page: 102A; Enumeration District: 146
+3 OBJE @M186@
+3 _APID 1,6742::38129479
+2 SOUR @S92@
+3 PAGE Year: 1900; Census Place: Hornby, Steuben, New York; Page: 4
+4 CONC ; Enumeration District: 0087; FHL microfilm: 1241163
+3 OBJE @nTOLgyj6StOlQT14dIG7@
+3 _APID 1,7602::56735747
+1 SEX M
+1 FAMC @F40@
+1 BIRT
+2 DATE JUN 1875
+2 PLAC Pennsylvania, USA
+3 MAP
+4 LATI N40.8583
+4 LONG W76.3834
+2 SOUR @S87@
+3 PAGE Year: 1880; Census Place: Clymer, Tioga, Pennsylvania; Roll
+4 CONC : 1197; Page: 102A; Enumeration District: 146
+3 OBJE @M186@
+3 _APID 1,6742::38129479
+2 SOUR @S92@
+3 PAGE Year: 1900; Census Place: Hornby, Steuben, New York; Page: 4
+4 CONC ; Enumeration District: 0087; FHL microfilm: 1241163
+3 OBJE @nTOLgyj6StOlQT14dIG7@
+3 _APID 1,7602::56735747
+1 RESI
+2 DATE 1880
+2 PLAC Clymer, Tioga, Pennsylvania, USA
+3 MAP
+4 LATI N41.8567
+4 LONG W77.5986
+2 SOUR @S87@
+3 PAGE Year: 1880; Census Place: Clymer, Tioga, Pennsylvania; Roll
+4 CONC : 1197; Page: 102A; Enumeration District: 146
+3 OBJE @M186@
+3 _APID 1,6742::38129479
+2 NOTE Marital Status: Single; Relation to Head: Son
+1 RESI
+2 DATE 1900
+2 PLAC Hornby, Steuben, New York, USA
+3 MAP
+4 LATI N42.2442
+4 LONG W77.0444
+2 SOUR @S92@
+3 PAGE Year: 1900; Census Place: Hornby, Steuben, New York; Page: 4
+4 CONC ; Enumeration District: 0087; FHL microfilm: 1241163
+3 OBJE @nTOLgyj6StOlQT14dIG7@
+3 _APID 1,7602::56735747
+2 NOTE Marital Status: Single; Relation to Head: Son
+0 @I80@ INDI
+1 REFN 8dff95b1-0019-44b8-933f-a96a92fa439e
+1 NAME Clark Eugene /Schoonover/
+2 SOUR @S87@
+3 PAGE Year: 1880; Census Place: Clymer, Tioga, Pennsylvania; Roll
+4 CONC : 1197; Page: 102A; Enumeration District: 146
+3 OBJE @M186@
+3 _APID 1,6742::749719
+2 SOUR @S92@
+3 PAGE Year: 1900; Census Place: Hornby, Steuben, New York; Page: 4
+4 CONC ; Enumeration District: 0087; FHL microfilm: 1241163
+3 OBJE @nTOLgyj6StOlQT14dIG7@
+3 _APID 1,7602::56735748
+2 SOUR @S89@
+3 PAGE Year: 1910; Census Place: Hornby, Steuben, New York; Roll: T
+4 CONC 624_1080; Page: 1A; Enumeration District: 0132; FHL microfil
+4 CONC m: 1375093
+3 OBJE @An7pYtBiRpyzVBKV09fE@
+3 _APID 1,7884::19997852
+2 SOUR @S88@
+3 PAGE Year: 1920; Census Place: Hornby, Steuben, New York; Roll: T
+4 CONC 625_1267; Page: 2A; Enumeration District: 114
+3 OBJE @U9W4jkSSQl2BUzUykU9a@
+3 _APID 1,6061::87520593
+2 SOUR @S90@
+3 PAGE Year: 1930; Census Place: Painted Post, Steuben, New York; P
+4 CONC age: 23B; Enumeration District: 0039; FHL microfilm: 2341382
+3 OBJE @M188@
+3 _APID 1,6224::46315074
+2 SOUR @S73@
+3 OBJE @M189@
+2 SOUR @S73@
+3 OBJE @M190@
+2 SOUR @S71@
+3 PAGE New York Department of Health; Albany, NY; NY State Death In
+4 CONC dex
+3 OBJE @M192@
+3 _APID 1,61535::3607380
+2 SOUR @6NcIzxfbRyyWNjNadTrG@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1905; Election District: A.D. 01 E.D. 01
+4 CONC ; City: Hornby; County: Steuben; Page: 8
+3 OBJE @f0aqLKxmQQC97jC126aB@
+3 _APID 1,7364::7101281
+2 SOUR @TGKTvmYkRIad5UXaC837@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1915; Election District: 01; Assembly Di
+4 CONC strict: 01; City: Hornby; County: Steuben; Page: 13
+3 OBJE @sXk0gITcSLyDLE1yT72U@
+3 _APID 1,2703::6630727
+2 SOUR @XwjA9DOQSF6Rp4tqv0Z2@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1925; Election District: 01; Assembly Di
+4 CONC strict: 01; City: Erwin; County: Steuben; Page: 18
+3 OBJE @M187@
+3 _APID 1,2704::25213006
+2 SOUR @S98@
+3 OBJE @M193@
+3 _APID 1,2469::1209039448
+2 SOUR @S74@
+3 _APID 1,60525::53450833
+2 SOUR @1yLmCieuQLi5Xq8U1nQe@
+3 PAGE Registration State: New York; Registration County: Steuben
+4 CONC ; Roll: 1818990; Draft Board: 1
+3 OBJE @M191@
+3 _APID 1,6482::8702502
+1 SEX M
+1 FAMC @F40@
+1 FAMS @F41@
+1 BIRT
+2 DATE 02 MAR 1877
+2 PLAC Pennsylvania, USA
+3 MAP
+4 LATI N40.8583
+4 LONG W76.3834
+2 SOUR @S87@
+3 PAGE Year: 1880; Census Place: Clymer, Tioga, Pennsylvania; Roll
+4 CONC : 1197; Page: 102A; Enumeration District: 146
+3 OBJE @M186@
+3 _APID 1,6742::749719
+2 SOUR @S92@
+3 PAGE Year: 1900; Census Place: Hornby, Steuben, New York; Page: 4
+4 CONC ; Enumeration District: 0087; FHL microfilm: 1241163
+3 OBJE @nTOLgyj6StOlQT14dIG7@
+3 _APID 1,7602::56735748
+2 SOUR @S89@
+3 PAGE Year: 1910; Census Place: Hornby, Steuben, New York; Roll: T
+4 CONC 624_1080; Page: 1A; Enumeration District: 0132; FHL microfil
+4 CONC m: 1375093
+3 OBJE @An7pYtBiRpyzVBKV09fE@
+3 _APID 1,7884::19997852
+2 SOUR @S88@
+3 PAGE Year: 1920; Census Place: Hornby, Steuben, New York; Roll: T
+4 CONC 625_1267; Page: 2A; Enumeration District: 114
+3 OBJE @U9W4jkSSQl2BUzUykU9a@
+3 _APID 1,6061::87520593
+2 SOUR @S90@
+3 PAGE Year: 1930; Census Place: Painted Post, Steuben, New York; P
+4 CONC age: 23B; Enumeration District: 0039; FHL microfilm: 2341382
+3 OBJE @M188@
+3 _APID 1,6224::46315074
+2 SOUR @6NcIzxfbRyyWNjNadTrG@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1905; Election District: A.D. 01 E.D. 01
+4 CONC ; City: Hornby; County: Steuben; Page: 8
+3 OBJE @f0aqLKxmQQC97jC126aB@
+3 _APID 1,7364::7101281
+2 SOUR @TGKTvmYkRIad5UXaC837@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1915; Election District: 01; Assembly Di
+4 CONC strict: 01; City: Hornby; County: Steuben; Page: 13
+3 OBJE @sXk0gITcSLyDLE1yT72U@
+3 _APID 1,2703::6630727
+2 SOUR @XwjA9DOQSF6Rp4tqv0Z2@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1925; Election District: 01; Assembly Di
+4 CONC strict: 01; City: Erwin; County: Steuben; Page: 18
+3 OBJE @M187@
+3 _APID 1,2704::25213006
+2 SOUR @S74@
+3 _APID 1,60525::53450833
+2 SOUR @1yLmCieuQLi5Xq8U1nQe@
+3 PAGE Registration State: New York; Registration County: Steuben
+4 CONC ; Roll: 1818990; Draft Board: 1
+3 OBJE @M191@
+3 _APID 1,6482::8702502
+1 RESI
+2 DATE 1880
+2 PLAC Clymer, Tioga, Pennsylvania, USA
+3 MAP
+4 LATI N41.8567
+4 LONG W77.5986
+2 SOUR @S87@
+3 PAGE Year: 1880; Census Place: Clymer, Tioga, Pennsylvania; Roll
+4 CONC : 1197; Page: 102A; Enumeration District: 146
+3 OBJE @M186@
+3 _APID 1,6742::749719
+2 NOTE Marital Status: Single; Relation to Head: Son
+1 RESI
+2 DATE 1900
+2 PLAC Hornby, Steuben, New York, USA
+3 MAP
+4 LATI N42.2442
+4 LONG W77.0444
+2 SOUR @S92@
+3 PAGE Year: 1900; Census Place: Hornby, Steuben, New York; Page: 4
+4 CONC ; Enumeration District: 0087; FHL microfilm: 1241163
+3 OBJE @nTOLgyj6StOlQT14dIG7@
+3 _APID 1,7602::56735748
+2 NOTE Marital Status: Single; Relation to Head: Son
+1 RESI
+2 DATE 1905
+2 PLAC Hornby, Steuben, New York, USA
+3 MAP
+4 LATI N42.2442
+4 LONG W77.0444
+2 SOUR @6NcIzxfbRyyWNjNadTrG@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1905; Election District: A.D. 01 E.D. 01
+4 CONC ; City: Hornby; County: Steuben; Page: 8
+3 OBJE @f0aqLKxmQQC97jC126aB@
+3 _APID 1,7364::7101281
+2 NOTE Relationship to Head: Head
+1 RESI
+2 DATE 1910
+2 PLAC Hornby, Steuben, New York, USA
+3 MAP
+4 LATI N42.2442
+4 LONG W77.0444
+2 SOUR @S89@
+3 PAGE Year: 1910; Census Place: Hornby, Steuben, New York; Roll: T
+4 CONC 624_1080; Page: 1A; Enumeration District: 0132; FHL microfil
+4 CONC m: 1375093
+3 OBJE @An7pYtBiRpyzVBKV09fE@
+3 _APID 1,7884::19997852
+2 NOTE Marital Status: Married; Relation to Head of House: Head
+1 RESI
+2 DATE 01 JUN 1915
+2 PLAC Hornby, Steuben, New York, USA
+3 MAP
+4 LATI N42.2442
+4 LONG W77.0444
+2 SOUR @TGKTvmYkRIad5UXaC837@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1915; Election District: 01; Assembly Di
+4 CONC strict: 01; City: Hornby; County: Steuben; Page: 13
+3 OBJE @sXk0gITcSLyDLE1yT72U@
+3 _APID 1,2703::6630727
+2 NOTE Relation to Head of House: Head
+1 RESI
+2 DATE 1920
+2 PLAC Hornby, Steuben, New York, USA
+3 MAP
+4 LATI N42.2442
+4 LONG W77.0444
+2 SOUR @S88@
+3 PAGE Year: 1920; Census Place: Hornby, Steuben, New York; Roll: T
+4 CONC 625_1267; Page: 2A; Enumeration District: 114
+3 OBJE @U9W4jkSSQl2BUzUykU9a@
+3 _APID 1,6061::87520593
+2 NOTE Relation to Head: Head; Residence Marital Status: Married
+1 RESI
+2 DATE 01 JUN 1925
+2 PLAC Erwin, Steuben, New York, USA
+3 MAP
+4 LATI N42.1412
+4 LONG W77.1408
+2 SOUR @XwjA9DOQSF6Rp4tqv0Z2@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1925; Election District: 01; Assembly Di
+4 CONC strict: 01; City: Erwin; County: Steuben; Page: 18
+3 OBJE @M187@
+3 _APID 1,2704::25213006
+2 NOTE Relation to Head: Head
+1 RESI
+2 DATE 1930
+2 PLAC Painted Post, Steuben, New York, USA
+3 MAP
+4 LATI N42.162
+4 LONG W77.0941
+2 SOUR @S90@
+3 PAGE Year: 1930; Census Place: Painted Post, Steuben, New York; P
+4 CONC age: 23B; Enumeration District: 0039; FHL microfilm: 2341382
+3 OBJE @M188@
+3 _APID 1,6224::46315074
+2 NOTE Marital Status: Married; Relation to Head: Head
+1 DEAT
+2 DATE 28 OCT 1938
+2 PLAC Corning, Steuben, New York, USA
+3 MAP
+4 LATI N42.1429
+4 LONG W77.0547
+2 SOUR @S71@
+3 PAGE New York Department of Health; Albany, NY; NY State Death In
+4 CONC dex
+3 OBJE @M192@
+3 _APID 1,61535::3607380
+2 SOUR @S74@
+3 _APID 1,60525::53450833
+1 BURI
+2 PLAC Coopers Plains, Steuben, New York, USA
+3 MAP
+4 LATI N42.1822
+4 LONG W77.1419
+2 SOUR @S74@
+3 _APID 1,60525::53450833
+0 @I79@ INDI
+1 REFN a03eb41c-d0fd-417d-8c46-f006b6ece2a6
+1 NAME Eugene /Schoonover/
+2 SOUR @S89@
+3 PAGE Year: 1910; Census Place: Hornby, Steuben, New York; Roll: T
+4 CONC 624_1080; Page: 1A; Enumeration District: 0132; FHL microfil
+4 CONC m: 1375093
+3 OBJE @An7pYtBiRpyzVBKV09fE@
+3 _APID 1,7884::103800586
+2 SOUR @S88@
+3 PAGE Year: 1920; Census Place: Hornby, Steuben, New York; Roll: T
+4 CONC 625_1267; Page: 2A; Enumeration District: 114
+3 OBJE @U9W4jkSSQl2BUzUykU9a@
+3 _APID 1,6061::87520597
+2 SOUR @TGKTvmYkRIad5UXaC837@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1915; Election District: 01; Assembly Di
+4 CONC strict: 01; City: Hornby; County: Steuben; Page: 13
+3 OBJE @sXk0gITcSLyDLE1yT72U@
+3 _APID 1,2703::6630735
+1 SEX M
+1 FAMC @F41@
+1 BIRT
+2 DATE ABT 1906
+2 PLAC New York, USA
+3 MAP
+4 LATI N42.7531
+4 LONG W74.2224
+2 SOUR @S89@
+3 PAGE Year: 1910; Census Place: Hornby, Steuben, New York; Roll: T
+4 CONC 624_1080; Page: 1A; Enumeration District: 0132; FHL microfil
+4 CONC m: 1375093
+3 OBJE @An7pYtBiRpyzVBKV09fE@
+3 _APID 1,7884::103800586
+2 SOUR @S88@
+3 PAGE Year: 1920; Census Place: Hornby, Steuben, New York; Roll: T
+4 CONC 625_1267; Page: 2A; Enumeration District: 114
+3 OBJE @U9W4jkSSQl2BUzUykU9a@
+3 _APID 1,6061::87520597
+2 SOUR @TGKTvmYkRIad5UXaC837@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1915; Election District: 01; Assembly Di
+4 CONC strict: 01; City: Hornby; County: Steuben; Page: 13
+3 OBJE @sXk0gITcSLyDLE1yT72U@
+3 _APID 1,2703::6630735
+1 RESI
+2 DATE 1910
+2 PLAC Hornby, Steuben, New York, USA
+3 MAP
+4 LATI N42.2442
+4 LONG W77.0444
+2 SOUR @S89@
+3 PAGE Year: 1910; Census Place: Hornby, Steuben, New York; Roll: T
+4 CONC 624_1080; Page: 1A; Enumeration District: 0132; FHL microfil
+4 CONC m: 1375093
+3 OBJE @An7pYtBiRpyzVBKV09fE@
+3 _APID 1,7884::103800586
+2 NOTE Marital Status: Single; Relation to Head of House: Son
+1 RESI
+2 DATE 01 JUN 1915
+2 PLAC Hornby, Steuben, New York, USA
+3 MAP
+4 LATI N42.2442
+4 LONG W77.0444
+2 SOUR @TGKTvmYkRIad5UXaC837@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1915; Election District: 01; Assembly Di
+4 CONC strict: 01; City: Hornby; County: Steuben; Page: 13
+3 OBJE @sXk0gITcSLyDLE1yT72U@
+3 _APID 1,2703::6630735
+2 NOTE Relation to Head of House: Son
+1 RESI
+2 DATE 1920
+2 PLAC Hornby, Steuben, New York, USA
+3 MAP
+4 LATI N42.2442
+4 LONG W77.0444
+2 SOUR @S88@
+3 PAGE Year: 1920; Census Place: Hornby, Steuben, New York; Roll: T
+4 CONC 625_1267; Page: 2A; Enumeration District: 114
+3 OBJE @U9W4jkSSQl2BUzUykU9a@
+3 _APID 1,6061::87520597
+2 NOTE Relation to Head: Son; Residence Marital Status: Single
+0 @I76@ INDI
+1 REFN 1f680407-eec9-4f65-aef6-84a3e54de011
+1 NAME Eugene Demetrius /Schoonover/
+2 SOUR @S87@
+3 PAGE Year: 1880; Census Place: Clymer, Tioga, Pennsylvania; Roll
+4 CONC : 1197; Page: 102A; Enumeration District: 146
+3 OBJE @M186@
+3 _APID 1,6742::857889
+2 SOUR @S74@
+3 _APID 1,60525::53450545
+1 SEX M
+1 FAMS @F40@
+1 BIRT
+2 DATE 1852
+2 PLAC Pennsylvania
+2 SOUR @S87@
+3 PAGE Year: 1880; Census Place: Clymer, Tioga, Pennsylvania; Roll
+4 CONC : 1197; Page: 102A; Enumeration District: 146
+3 OBJE @M186@
+3 _APID 1,6742::857889
+2 SOUR @S74@
+3 _APID 1,60525::53450545
+1 RESI
+2 DATE 1880
+2 PLAC Clymer, Tioga, Pennsylvania, USA
+3 MAP
+4 LATI N41.8567
+4 LONG W77.5986
+2 SOUR @S87@
+3 PAGE Year: 1880; Census Place: Clymer, Tioga, Pennsylvania; Roll
+4 CONC : 1197; Page: 102A; Enumeration District: 146
+3 OBJE @M186@
+3 _APID 1,6742::857889
+2 NOTE Marital Status: Married; Relation to Head: Self
+1 DEAT
+2 DATE 1930
+2 SOUR @S74@
+3 _APID 1,60525::53450545
+1 BURI
+2 PLAC Coopers Plains, Steuben, New York, USA
+3 MAP
+4 LATI N42.1822
+4 LONG W77.1419
+2 SOUR @S74@
+3 _APID 1,60525::53450545
+0 @I78@ INDI
+1 REFN 70f17993-3f4f-487d-bc72-c18494b40f47
+1 NAME Howard /Schoonover/
+2 SOUR @S89@
+3 PAGE Year: 1910; Census Place: Hornby, Steuben, New York; Roll: T
+4 CONC 624_1080; Page: 1A; Enumeration District: 0132; FHL microfil
+4 CONC m: 1375093
+3 OBJE @An7pYtBiRpyzVBKV09fE@
+3 _APID 1,7884::103800588
+2 SOUR @S88@
+3 PAGE Year: 1920; Census Place: Hornby, Steuben, New York; Roll: T
+4 CONC 625_1267; Page: 2A; Enumeration District: 114
+3 OBJE @U9W4jkSSQl2BUzUykU9a@
+3 _APID 1,6061::87520599
+2 SOUR @TGKTvmYkRIad5UXaC837@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1915; Election District: 01; Assembly Di
+4 CONC strict: 01; City: Hornby; County: Steuben; Page: 13
+3 OBJE @sXk0gITcSLyDLE1yT72U@
+3 _APID 1,2703::6630739
+2 SOUR @XwjA9DOQSF6Rp4tqv0Z2@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1925; Election District: 01; Assembly Di
+4 CONC strict: 01; City: Erwin; County: Steuben; Page: 18
+3 OBJE @M187@
+3 _APID 1,2704::25213016
+1 SEX M
+1 FAMC @F41@
+1 BIRT
+2 DATE ABT 1909
+2 PLAC New York, USA
+3 MAP
+4 LATI N42.7531
+4 LONG W74.2224
+2 SOUR @S89@
+3 PAGE Year: 1910; Census Place: Hornby, Steuben, New York; Roll: T
+4 CONC 624_1080; Page: 1A; Enumeration District: 0132; FHL microfil
+4 CONC m: 1375093
+3 OBJE @An7pYtBiRpyzVBKV09fE@
+3 _APID 1,7884::103800588
+2 SOUR @S88@
+3 PAGE Year: 1920; Census Place: Hornby, Steuben, New York; Roll: T
+4 CONC 625_1267; Page: 2A; Enumeration District: 114
+3 OBJE @U9W4jkSSQl2BUzUykU9a@
+3 _APID 1,6061::87520599
+2 SOUR @TGKTvmYkRIad5UXaC837@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1915; Election District: 01; Assembly Di
+4 CONC strict: 01; City: Hornby; County: Steuben; Page: 13
+3 OBJE @sXk0gITcSLyDLE1yT72U@
+3 _APID 1,2703::6630739
+2 SOUR @XwjA9DOQSF6Rp4tqv0Z2@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1925; Election District: 01; Assembly Di
+4 CONC strict: 01; City: Erwin; County: Steuben; Page: 18
+3 OBJE @M187@
+3 _APID 1,2704::25213016
+1 RESI
+2 DATE 1910
+2 PLAC Hornby, Steuben, New York, USA
+3 MAP
+4 LATI N42.2442
+4 LONG W77.0444
+2 SOUR @S89@
+3 PAGE Year: 1910; Census Place: Hornby, Steuben, New York; Roll: T
+4 CONC 624_1080; Page: 1A; Enumeration District: 0132; FHL microfil
+4 CONC m: 1375093
+3 OBJE @An7pYtBiRpyzVBKV09fE@
+3 _APID 1,7884::103800588
+2 NOTE Marital Status: Single; Relation to Head of House: Son
+1 RESI
+2 DATE 01 JUN 1915
+2 PLAC Hornby, Steuben, New York, USA
+3 MAP
+4 LATI N42.2442
+4 LONG W77.0444
+2 SOUR @TGKTvmYkRIad5UXaC837@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1915; Election District: 01; Assembly Di
+4 CONC strict: 01; City: Hornby; County: Steuben; Page: 13
+3 OBJE @sXk0gITcSLyDLE1yT72U@
+3 _APID 1,2703::6630739
+2 NOTE Relation to Head of House: Son
+1 RESI
+2 DATE 1920
+2 PLAC Hornby, Steuben, New York, USA
+3 MAP
+4 LATI N42.2442
+4 LONG W77.0444
+2 SOUR @S88@
+3 PAGE Year: 1920; Census Place: Hornby, Steuben, New York; Roll: T
+4 CONC 625_1267; Page: 2A; Enumeration District: 114
+3 OBJE @U9W4jkSSQl2BUzUykU9a@
+3 _APID 1,6061::87520599
+2 NOTE Relation to Head: Son; Residence Marital Status: Single
+1 RESI
+2 DATE 01 JUN 1925
+2 PLAC Erwin, Steuben, New York, USA
+3 MAP
+4 LATI N42.1412
+4 LONG W77.1408
+2 SOUR @XwjA9DOQSF6Rp4tqv0Z2@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1925; Election District: 01; Assembly Di
+4 CONC strict: 01; City: Erwin; County: Steuben; Page: 18
+3 OBJE @M187@
+3 _APID 1,2704::25213016
+2 NOTE Relation to Head: Son
+0 @I77@ INDI
+1 REFN 52ab2774-68bc-486b-b65f-25ce094d898f
+1 NAME James /Schoonover/
+2 SOUR @S89@
+3 PAGE Year: 1910; Census Place: Hornby, Steuben, New York; Roll: T
+4 CONC 624_1080; Page: 1A; Enumeration District: 0132; FHL microfil
+4 CONC m: 1375093
+3 OBJE @An7pYtBiRpyzVBKV09fE@
+3 _APID 1,7884::103800589
+2 SOUR @S88@
+3 PAGE Year: 1920; Census Place: Hornby, Steuben, New York; Roll: T
+4 CONC 625_1267; Page: 2A; Enumeration District: 114
+3 OBJE @U9W4jkSSQl2BUzUykU9a@
+3 _APID 1,6061::87520600
+2 SOUR @TGKTvmYkRIad5UXaC837@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1915; Election District: 01; Assembly Di
+4 CONC strict: 01; City: Hornby; County: Steuben; Page: 13
+3 OBJE @sXk0gITcSLyDLE1yT72U@
+3 _APID 1,2703::6630741
+2 SOUR @XwjA9DOQSF6Rp4tqv0Z2@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1925; Election District: 01; Assembly Di
+4 CONC strict: 01; City: Erwin; County: Steuben; Page: 18
+3 OBJE @M187@
+3 _APID 1,2704::25213019
+1 SEX M
+1 FAMC @F41@
+1 BIRT
+2 DATE ABT 1910
+2 PLAC New York, USA
+3 MAP
+4 LATI N42.7531
+4 LONG W74.2224
+2 SOUR @S89@
+3 PAGE Year: 1910; Census Place: Hornby, Steuben, New York; Roll: T
+4 CONC 624_1080; Page: 1A; Enumeration District: 0132; FHL microfil
+4 CONC m: 1375093
+3 OBJE @An7pYtBiRpyzVBKV09fE@
+3 _APID 1,7884::103800589
+2 SOUR @S88@
+3 PAGE Year: 1920; Census Place: Hornby, Steuben, New York; Roll: T
+4 CONC 625_1267; Page: 2A; Enumeration District: 114
+3 OBJE @U9W4jkSSQl2BUzUykU9a@
+3 _APID 1,6061::87520600
+2 SOUR @TGKTvmYkRIad5UXaC837@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1915; Election District: 01; Assembly Di
+4 CONC strict: 01; City: Hornby; County: Steuben; Page: 13
+3 OBJE @sXk0gITcSLyDLE1yT72U@
+3 _APID 1,2703::6630741
+2 SOUR @XwjA9DOQSF6Rp4tqv0Z2@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1925; Election District: 01; Assembly Di
+4 CONC strict: 01; City: Erwin; County: Steuben; Page: 18
+3 OBJE @M187@
+3 _APID 1,2704::25213019
+1 RESI
+2 DATE 1910
+2 PLAC Hornby, Steuben, New York, USA
+3 MAP
+4 LATI N42.2442
+4 LONG W77.0444
+2 SOUR @S89@
+3 PAGE Year: 1910; Census Place: Hornby, Steuben, New York; Roll: T
+4 CONC 624_1080; Page: 1A; Enumeration District: 0132; FHL microfil
+4 CONC m: 1375093
+3 OBJE @An7pYtBiRpyzVBKV09fE@
+3 _APID 1,7884::103800589
+2 NOTE Marital Status: Single; Relation to Head of House: Son
+1 RESI
+2 DATE 01 JUN 1915
+2 PLAC Hornby, Steuben, New York, USA
+3 MAP
+4 LATI N42.2442
+4 LONG W77.0444
+2 SOUR @TGKTvmYkRIad5UXaC837@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1915; Election District: 01; Assembly Di
+4 CONC strict: 01; City: Hornby; County: Steuben; Page: 13
+3 OBJE @sXk0gITcSLyDLE1yT72U@
+3 _APID 1,2703::6630741
+2 NOTE Relation to Head of House: Son
+1 RESI
+2 DATE 1920
+2 PLAC Hornby, Steuben, New York, USA
+3 MAP
+4 LATI N42.2442
+4 LONG W77.0444
+2 SOUR @S88@
+3 PAGE Year: 1920; Census Place: Hornby, Steuben, New York; Roll: T
+4 CONC 625_1267; Page: 2A; Enumeration District: 114
+3 OBJE @U9W4jkSSQl2BUzUykU9a@
+3 _APID 1,6061::87520600
+2 NOTE Relation to Head: Son; Residence Marital Status: Single
+1 RESI
+2 DATE 01 JUN 1925
+2 PLAC Erwin, Steuben, New York, USA
+3 MAP
+4 LATI N42.1412
+4 LONG W77.1408
+2 SOUR @XwjA9DOQSF6Rp4tqv0Z2@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1925; Election District: 01; Assembly Di
+4 CONC strict: 01; City: Erwin; County: Steuben; Page: 18
+3 OBJE @M187@
+3 _APID 1,2704::25213019
+2 NOTE Relation to Head: Son
+0 @I84@ INDI
+1 REFN 0611e4ae-bcfe-4f32-b95f-5ac9cd951fa7
+1 NAME Lester /Schoonover/
+2 SOUR @S89@
+3 PAGE Year: 1910; Census Place: Hornby, Steuben, New York; Roll: T
+4 CONC 624_1080; Page: 1A; Enumeration District: 0132; FHL microfil
+4 CONC m: 1375093
+3 OBJE @An7pYtBiRpyzVBKV09fE@
+3 _APID 1,7884::103800587
+2 SOUR @S88@
+3 PAGE Year: 1920; Census Place: Hornby, Steuben, New York; Roll: T
+4 CONC 625_1267; Page: 2A; Enumeration District: 114
+3 OBJE @U9W4jkSSQl2BUzUykU9a@
+3 _APID 1,6061::87520598
+2 SOUR @S90@
+3 PAGE Year: 1930; Census Place: Painted Post, Steuben, New York; P
+4 CONC age: 23B; Enumeration District: 0039; FHL microfilm: 2341382
+3 OBJE @M188@
+3 _APID 1,6224::46315069
+2 SOUR @TGKTvmYkRIad5UXaC837@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1915; Election District: 01; Assembly Di
+4 CONC strict: 01; City: Hornby; County: Steuben; Page: 13
+3 OBJE @sXk0gITcSLyDLE1yT72U@
+3 _APID 1,2703::6630737
+2 SOUR @XwjA9DOQSF6Rp4tqv0Z2@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1925; Election District: 01; Assembly Di
+4 CONC strict: 01; City: Erwin; County: Steuben; Page: 18
+3 OBJE @M187@
+3 _APID 1,2704::25213015
+1 SEX M
+1 FAMC @F41@
+1 BIRT
+2 DATE ABT 1907
+2 PLAC New York, USA
+3 MAP
+4 LATI N42.7531
+4 LONG W74.2224
+2 SOUR @S89@
+3 PAGE Year: 1910; Census Place: Hornby, Steuben, New York; Roll: T
+4 CONC 624_1080; Page: 1A; Enumeration District: 0132; FHL microfil
+4 CONC m: 1375093
+3 OBJE @An7pYtBiRpyzVBKV09fE@
+3 _APID 1,7884::103800587
+2 SOUR @S88@
+3 PAGE Year: 1920; Census Place: Hornby, Steuben, New York; Roll: T
+4 CONC 625_1267; Page: 2A; Enumeration District: 114
+3 OBJE @U9W4jkSSQl2BUzUykU9a@
+3 _APID 1,6061::87520598
+2 SOUR @S90@
+3 PAGE Year: 1930; Census Place: Painted Post, Steuben, New York; P
+4 CONC age: 23B; Enumeration District: 0039; FHL microfilm: 2341382
+3 OBJE @M188@
+3 _APID 1,6224::46315069
+2 SOUR @TGKTvmYkRIad5UXaC837@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1915; Election District: 01; Assembly Di
+4 CONC strict: 01; City: Hornby; County: Steuben; Page: 13
+3 OBJE @sXk0gITcSLyDLE1yT72U@
+3 _APID 1,2703::6630737
+2 SOUR @XwjA9DOQSF6Rp4tqv0Z2@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1925; Election District: 01; Assembly Di
+4 CONC strict: 01; City: Erwin; County: Steuben; Page: 18
+3 OBJE @M187@
+3 _APID 1,2704::25213015
+1 RESI
+2 DATE 1910
+2 PLAC Hornby, Steuben, New York, USA
+3 MAP
+4 LATI N42.2442
+4 LONG W77.0444
+2 SOUR @S89@
+3 PAGE Year: 1910; Census Place: Hornby, Steuben, New York; Roll: T
+4 CONC 624_1080; Page: 1A; Enumeration District: 0132; FHL microfil
+4 CONC m: 1375093
+3 OBJE @An7pYtBiRpyzVBKV09fE@
+3 _APID 1,7884::103800587
+2 NOTE Marital Status: Single; Relation to Head of House: Son
+1 RESI
+2 DATE 01 JUN 1915
+2 PLAC Hornby, Steuben, New York, USA
+3 MAP
+4 LATI N42.2442
+4 LONG W77.0444
+2 SOUR @TGKTvmYkRIad5UXaC837@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1915; Election District: 01; Assembly Di
+4 CONC strict: 01; City: Hornby; County: Steuben; Page: 13
+3 OBJE @sXk0gITcSLyDLE1yT72U@
+3 _APID 1,2703::6630737
+2 NOTE Relation to Head of House: Son
+1 RESI
+2 DATE 1920
+2 PLAC Hornby, Steuben, New York, USA
+3 MAP
+4 LATI N42.2442
+4 LONG W77.0444
+2 SOUR @S88@
+3 PAGE Year: 1920; Census Place: Hornby, Steuben, New York; Roll: T
+4 CONC 625_1267; Page: 2A; Enumeration District: 114
+3 OBJE @U9W4jkSSQl2BUzUykU9a@
+3 _APID 1,6061::87520598
+2 NOTE Relation to Head: Son; Residence Marital Status: Single
+1 RESI
+2 DATE 01 JUN 1925
+2 PLAC Erwin, Steuben, New York, USA
+3 MAP
+4 LATI N42.1412
+4 LONG W77.1408
+2 SOUR @XwjA9DOQSF6Rp4tqv0Z2@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1925; Election District: 01; Assembly Di
+4 CONC strict: 01; City: Erwin; County: Steuben; Page: 18
+3 OBJE @M187@
+3 _APID 1,2704::25213015
+2 NOTE Relation to Head: Son
+1 RESI
+2 DATE 1930
+2 PLAC Painted Post, Steuben, New York, USA
+3 MAP
+4 LATI N42.162
+4 LONG W77.0941
+2 SOUR @S90@
+3 PAGE Year: 1930; Census Place: Painted Post, Steuben, New York; P
+4 CONC age: 23B; Enumeration District: 0039; FHL microfilm: 2341382
+3 OBJE @M188@
+3 _APID 1,6224::46315069
+2 NOTE Marital Status: Married; Relation to Head: Son
+0 @I95@ INDI
+1 REFN 2b6535e4-8702-402d-a2ac-46a310da6f76
+1 NAME Mary Louise /Schoonover/
+2 SOUR @S90@
+3 PAGE Year: 1930; Census Place: Painted Post, Steuben, New York; P
+4 CONC age: 23B; Enumeration District: 0039; FHL microfilm: 2341382
+3 OBJE @M188@
+3 _APID 1,6224::46315073
+2 SOUR @S91@
+3 PAGE Year: 1940; Census Place: Painted Post, Steuben, New York; R
+4 CONC oll: m-t0627-02781; Page: 6B; Enumeration District: 51-48
+3 OBJE @M199@
+3 _APID 1,2442::8678993
+2 SOUR @S101@
+3 PAGE New York State Department of Health; Albany, NY, USA; New Yo
+4 CONC rk State Birth Index
+3 OBJE @M202@
+3 _APID 1,61667::3108791
+2 SOUR @XwjA9DOQSF6Rp4tqv0Z2@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1925; Election District: 01; Assembly Di
+4 CONC strict: 01; City: Erwin; County: Steuben; Page: 18
+3 OBJE @M187@
+3 _APID 1,2704::25213022
+2 SOUR @S74@
+3 _APID 1,60525::74063307
+2 SOUR @S100@
+3 PAGE Publication Place: California, USA; URL: http://www.tributes
+4 CONC .com/obituary/print_selections/92398639?type=1
+3 _APID 1,7545::309991498
+2 SOUR @GBMDFX2WTtuAjoiA5QpK@
+3 PAGE Issue State: New York; Issue Date: 1961
+3 _APID 1,3693::91003031
+1 SEX F
+1 FAMC @F46@
+1 FAMS @F45@
+1 BIRT
+2 DATE 08 NOV 1924
+2 PLAC Buffalo, Erie, New York, USA
+3 MAP
+4 LATI N42.8864
+4 LONG W78.8784
+2 SOUR @S90@
+3 PAGE Year: 1930; Census Place: Painted Post, Steuben, New York; P
+4 CONC age: 23B; Enumeration District: 0039; FHL microfilm: 2341382
+3 OBJE @M188@
+3 _APID 1,6224::46315073
+2 SOUR @S91@
+3 PAGE Year: 1940; Census Place: Painted Post, Steuben, New York; R
+4 CONC oll: m-t0627-02781; Page: 6B; Enumeration District: 51-48
+3 OBJE @M199@
+3 _APID 1,2442::8678993
+2 SOUR @S101@
+3 PAGE New York State Department of Health; Albany, NY, USA; New Yo
+4 CONC rk State Birth Index
+3 OBJE @M202@
+3 _APID 1,61667::3108791
+2 SOUR @XwjA9DOQSF6Rp4tqv0Z2@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1925; Election District: 01; Assembly Di
+4 CONC strict: 01; City: Erwin; County: Steuben; Page: 18
+3 OBJE @M187@
+3 _APID 1,2704::25213022
+2 SOUR @S74@
+3 _APID 1,60525::74063307
+2 SOUR @S100@
+3 PAGE Publication Place: California, USA; URL: http://www.tributes
+4 CONC .com/obituary/print_selections/92398639?type=1
+3 _APID 1,7545::309991498
+2 SOUR @GBMDFX2WTtuAjoiA5QpK@
+3 PAGE Issue State: New York; Issue Date: 1961
+3 _APID 1,3693::91003031
+1 RESI
+2 DATE 01 JUN 1925
+2 PLAC Erwin, Steuben, New York, USA
+3 MAP
+4 LATI N42.1412
+4 LONG W77.1408
+2 SOUR @XwjA9DOQSF6Rp4tqv0Z2@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1925; Election District: 01; Assembly Di
+4 CONC strict: 01; City: Erwin; County: Steuben; Page: 18
+3 OBJE @M187@
+3 _APID 1,2704::25213022
+2 NOTE Relation to Head: Daughter
+1 RESI
+2 DATE 1930
+2 PLAC Painted Post, Steuben, New York, USA
+3 MAP
+4 LATI N42.162
+4 LONG W77.0941
+2 SOUR @S90@
+3 PAGE Year: 1930; Census Place: Painted Post, Steuben, New York; P
+4 CONC age: 23B; Enumeration District: 0039; FHL microfilm: 2341382
+3 OBJE @M188@
+3 _APID 1,6224::46315073
+2 NOTE Marital Status: Single; Relation to Head: Daughter
+1 RESI
+2 DATE 1940
+2 PLAC Painted Post, Steuben, New York, USA
+3 MAP
+4 LATI N42.162
+4 LONG W77.0941
+2 SOUR @S91@
+3 PAGE Year: 1940; Census Place: Painted Post, Steuben, New York; R
+4 CONC oll: m-t0627-02781; Page: 6B; Enumeration District: 51-48
+3 OBJE @M199@
+3 _APID 1,2442::8678993
+2 NOTE Marital Status: Single; Relation to Head: Daughter
+1 DEAT
+2 DATE 19 SEP 2011
+2 PLAC Hot Springs Village, Garland, Arkansas, USA
+3 MAP
+4 LATI N34.6639
+4 LONG W93.0019
+2 SOUR @S74@
+3 _APID 1,60525::74063307
+2 SOUR @S100@
+3 PAGE Publication Place: California, USA; URL: http://www.tributes
+4 CONC .com/obituary/print_selections/92398639?type=1
+3 _APID 1,7545::309991498
+2 SOUR @GBMDFX2WTtuAjoiA5QpK@
+3 PAGE Issue State: New York; Issue Date: 1961
+3 _APID 1,3693::91003031
+1 BURI
+2 PLAC Bath, Steuben, New York, USA
+3 MAP
+4 LATI N42.337
+4 LONG W77.3177
+2 SOUR @S74@
+3 _APID 1,60525::74063307
+0 @I85@ INDI
+1 REFN 9eda7dd0-5823-453b-b541-f00f6cfd8055
+1 NAME Walter Clark /Schoonover/
+2 SOUR @S89@
+3 PAGE Year: 1910; Census Place: Hornby, Steuben, New York; Roll: T
+4 CONC 624_1080; Page: 1A; Enumeration District: 0132; FHL microfil
+4 CONC m: 1375093
+3 OBJE @An7pYtBiRpyzVBKV09fE@
+3 _APID 1,7884::103800584
+2 SOUR @S88@
+3 PAGE Year: 1920; Census Place: Hornby, Steuben, New York; Roll: T
+4 CONC 625_1267; Page: 2A; Enumeration District: 114
+3 OBJE @U9W4jkSSQl2BUzUykU9a@
+3 _APID 1,6061::87520595
+2 SOUR @S73@
+3 OBJE @M189@
+3 _APID 1,61377::219427
+2 SOUR @6NcIzxfbRyyWNjNadTrG@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1905; Election District: A.D. 01 E.D. 01
+4 CONC ; City: Hornby; County: Steuben; Page: 8
+3 OBJE @f0aqLKxmQQC97jC126aB@
+3 _APID 1,7364::7101283
+2 SOUR @TGKTvmYkRIad5UXaC837@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1915; Election District: 01; Assembly Di
+4 CONC strict: 01; City: Hornby; County: Steuben; Page: 13
+3 OBJE @sXk0gITcSLyDLE1yT72U@
+3 _APID 1,2703::6630730
+1 SEX M
+1 FAMC @F41@
+1 BIRT
+2 DATE ABT 1904
+2 PLAC New York, USA
+3 MAP
+4 LATI N42.7531
+4 LONG W74.2224
+2 SOUR @S89@
+3 PAGE Year: 1910; Census Place: Hornby, Steuben, New York; Roll: T
+4 CONC 624_1080; Page: 1A; Enumeration District: 0132; FHL microfil
+4 CONC m: 1375093
+3 OBJE @An7pYtBiRpyzVBKV09fE@
+3 _APID 1,7884::103800584
+2 SOUR @S88@
+3 PAGE Year: 1920; Census Place: Hornby, Steuben, New York; Roll: T
+4 CONC 625_1267; Page: 2A; Enumeration District: 114
+3 OBJE @U9W4jkSSQl2BUzUykU9a@
+3 _APID 1,6061::87520595
+2 SOUR @S73@
+3 OBJE @M189@
+3 _APID 1,61377::219427
+2 SOUR @6NcIzxfbRyyWNjNadTrG@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1905; Election District: A.D. 01 E.D. 01
+4 CONC ; City: Hornby; County: Steuben; Page: 8
+3 OBJE @f0aqLKxmQQC97jC126aB@
+3 _APID 1,7364::7101283
+2 SOUR @TGKTvmYkRIad5UXaC837@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1915; Election District: 01; Assembly Di
+4 CONC strict: 01; City: Hornby; County: Steuben; Page: 13
+3 OBJE @sXk0gITcSLyDLE1yT72U@
+3 _APID 1,2703::6630730
+1 RESI
+2 DATE 1905
+2 PLAC Hornby, Steuben, New York, USA
+3 MAP
+4 LATI N42.2442
+4 LONG W77.0444
+2 SOUR @6NcIzxfbRyyWNjNadTrG@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1905; Election District: A.D. 01 E.D. 01
+4 CONC ; City: Hornby; County: Steuben; Page: 8
+3 OBJE @f0aqLKxmQQC97jC126aB@
+3 _APID 1,7364::7101283
+2 NOTE Relationship to Head: Son
+1 RESI
+2 DATE 1910
+2 PLAC Hornby, Steuben, New York, USA
+3 MAP
+4 LATI N42.2442
+4 LONG W77.0444
+2 SOUR @S89@
+3 PAGE Year: 1910; Census Place: Hornby, Steuben, New York; Roll: T
+4 CONC 624_1080; Page: 1A; Enumeration District: 0132; FHL microfil
+4 CONC m: 1375093
+3 OBJE @An7pYtBiRpyzVBKV09fE@
+3 _APID 1,7884::103800584
+2 NOTE Marital Status: Single; Relation to Head of House: Son
+1 RESI
+2 DATE 01 JUN 1915
+2 PLAC Hornby, Steuben, New York, USA
+3 MAP
+4 LATI N42.2442
+4 LONG W77.0444
+2 SOUR @TGKTvmYkRIad5UXaC837@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1915; Election District: 01; Assembly Di
+4 CONC strict: 01; City: Hornby; County: Steuben; Page: 13
+3 OBJE @sXk0gITcSLyDLE1yT72U@
+3 _APID 1,2703::6630730
+2 NOTE Relation to Head of House: Son
+1 RESI
+2 DATE 1920
+2 PLAC Hornby, Steuben, New York, USA
+3 MAP
+4 LATI N42.2442
+4 LONG W77.0444
+2 SOUR @S88@
+3 PAGE Year: 1920; Census Place: Hornby, Steuben, New York; Roll: T
+4 CONC 625_1267; Page: 2A; Enumeration District: 114
+3 OBJE @U9W4jkSSQl2BUzUykU9a@
+3 _APID 1,6061::87520595
+2 NOTE Relation to Head: Son; Residence Marital Status: Single
+0 @I82@ INDI
+1 REFN 2ce7bc7f-5d79-4667-9e0f-ab6a2ccfd411
+1 NAME John E. /Semple/
+2 SOUR @S90@
+3 PAGE Year: 1930; Census Place: Corning, Steuben, New York; Page
+4 CONC : 5A; Enumeration District: 0024; FHL microfilm: 2341382
+3 OBJE @M197@
+3 _APID 1,6224::46272067
+2 SOUR @S91@
+3 PAGE Year: 1940; Census Place: Corning, Steuben, New York; Roll
+4 CONC : m-t0627-02781; Page: 61A; Enumeration District: 51-33
+3 OBJE @M198@
+3 _APID 1,2442::8666313
+1 SEX M
+1 FAMC @F43@
+1 BIRT
+2 DATE ABT 1928
+2 PLAC New York, USA
+3 MAP
+4 LATI N42.7531
+4 LONG W74.2224
+2 SOUR @S90@
+3 PAGE Year: 1930; Census Place: Corning, Steuben, New York; Page
+4 CONC : 5A; Enumeration District: 0024; FHL microfilm: 2341382
+3 OBJE @M197@
+3 _APID 1,6224::46272067
+2 SOUR @S91@
+3 PAGE Year: 1940; Census Place: Corning, Steuben, New York; Roll
+4 CONC : m-t0627-02781; Page: 61A; Enumeration District: 51-33
+3 OBJE @M198@
+3 _APID 1,2442::8666313
+1 RESI
+2 DATE 1930
+2 PLAC Corning, Steuben, New York, USA
+3 MAP
+4 LATI N42.1429
+4 LONG W77.0547
+2 SOUR @S90@
+3 PAGE Year: 1930; Census Place: Corning, Steuben, New York; Page
+4 CONC : 5A; Enumeration District: 0024; FHL microfilm: 2341382
+3 OBJE @M197@
+3 _APID 1,6224::46272067
+2 NOTE Marital Status: Single; Relation to Head: Son
+1 RESI
+2 DATE 1940
+2 PLAC Corning, Steuben, New York, USA
+3 MAP
+4 LATI N42.1429
+4 LONG W77.0547
+2 SOUR @S91@
+3 PAGE Year: 1940; Census Place: Corning, Steuben, New York; Roll
+4 CONC : m-t0627-02781; Page: 61A; Enumeration District: 51-33
+3 OBJE @M198@
+3 _APID 1,2442::8666313
+2 NOTE Marital Status: Single; Relation to Head: Son
+0 @I92@ INDI
+1 REFN bb2e0b9e-e301-405d-aec1-eda26591f5f5
+1 NAME S. James /Semple/
+2 SOUR @S90@
+3 PAGE Year: 1930; Census Place: Corning, Steuben, New York; Page
+4 CONC : 5A; Enumeration District: 0024; FHL microfilm: 2341382
+3 OBJE @M197@
+3 _APID 1,6224::46272055
+2 SOUR @S91@
+3 PAGE Year: 1940; Census Place: Corning, Steuben, New York; Roll
+4 CONC : m-t0627-02781; Page: 61A; Enumeration District: 51-33
+3 OBJE @M198@
+3 _APID 1,2442::8666314
+2 SOUR @S97@
+3 _APID 1,60901::37345160
+1 SEX M
+1 FAMC @F43@
+1 BIRT
+2 DATE 25 DEC 1929
+2 PLAC Corning, Steuben, New York, USA
+3 MAP
+4 LATI N42.1429
+4 LONG W77.0547
+2 SOUR @S90@
+3 PAGE Year: 1930; Census Place: Corning, Steuben, New York; Page
+4 CONC : 5A; Enumeration District: 0024; FHL microfilm: 2341382
+3 OBJE @M197@
+3 _APID 1,6224::46272055
+2 SOUR @S91@
+3 PAGE Year: 1940; Census Place: Corning, Steuben, New York; Roll
+4 CONC : m-t0627-02781; Page: 61A; Enumeration District: 51-33
+3 OBJE @M198@
+3 _APID 1,2442::8666314
+2 SOUR @S97@
+3 _APID 1,60901::37345160
+1 RESI
+2 DATE 1930
+2 PLAC Corning, Steuben, New York, USA
+3 MAP
+4 LATI N42.1429
+4 LONG W77.0547
+2 SOUR @S90@
+3 PAGE Year: 1930; Census Place: Corning, Steuben, New York; Page
+4 CONC : 5A; Enumeration District: 0024; FHL microfilm: 2341382
+3 OBJE @M197@
+3 _APID 1,6224::46272055
+2 NOTE Marital Status: Single; Relation to Head: Son
+1 RESI
+2 DATE 1940
+2 PLAC Corning, Steuben, New York, USA
+3 MAP
+4 LATI N42.1429
+4 LONG W77.0547
+2 SOUR @S91@
+3 PAGE Year: 1940; Census Place: Corning, Steuben, New York; Roll
+4 CONC : m-t0627-02781; Page: 61A; Enumeration District: 51-33
+3 OBJE @M198@
+3 _APID 1,2442::8666314
+2 NOTE Marital Status: Single; Relation to Head: Son
+1 DEAT
+2 DATE 29 OCT 1989
+2 SOUR @S97@
+3 _APID 1,60901::37345160
+0 @I96@ INDI
+1 REFN d5de6550-f33e-417e-9fdd-74b63cf62286
+1 NAME Samuel John /Semple/
+2 SOUR @S90@
+3 PAGE Year: 1930; Census Place: Corning, Steuben, New York; Page
+4 CONC : 5A; Enumeration District: 0024; FHL microfilm: 2341382
+3 OBJE @M197@
+3 _APID 1,6224::46272056
+2 SOUR @S91@
+3 PAGE Year: 1940; Census Place: Corning, Steuben, New York; Roll
+4 CONC : m-t0627-02781; Page: 61A; Enumeration District: 51-33
+3 OBJE @M198@
+3 _APID 1,2442::8666311
+2 SOUR @S73@
+3 OBJE @M190@
+2 SOUR @S73@
+3 OBJE @M203@
+2 SOUR @S97@
+3 _APID 1,60901::637345160
+1 SEX M
+1 FAMS @F43@
+1 BIRT
+2 DATE ABT 1904
+2 PLAC New York
+2 SOUR @S90@
+3 PAGE Year: 1930; Census Place: Corning, Steuben, New York; Page
+4 CONC : 5A; Enumeration District: 0024; FHL microfilm: 2341382
+3 OBJE @M197@
+3 _APID 1,6224::46272056
+2 SOUR @S91@
+3 PAGE Year: 1940; Census Place: Corning, Steuben, New York; Roll
+4 CONC : m-t0627-02781; Page: 61A; Enumeration District: 51-33
+3 OBJE @M198@
+3 _APID 1,2442::8666311
+2 SOUR @S73@
+3 OBJE @M190@
+3 _APID 1,61377::665234
+1 RESI
+2 DATE 1930
+2 PLAC Corning, Steuben, New York, USA
+3 MAP
+4 LATI N42.1429
+4 LONG W77.0547
+2 SOUR @S90@
+3 PAGE Year: 1930; Census Place: Corning, Steuben, New York; Page
+4 CONC : 5A; Enumeration District: 0024; FHL microfilm: 2341382
+3 OBJE @M197@
+3 _APID 1,6224::46272056
+2 NOTE Marital Status: Married; Relation to Head: Head
+1 RESI
+2 DATE 1940
+2 PLAC Corning, Steuben, New York, USA
+3 MAP
+4 LATI N42.1429
+4 LONG W77.0547
+2 SOUR @S91@
+3 PAGE Year: 1940; Census Place: Corning, Steuben, New York; Roll
+4 CONC : m-t0627-02781; Page: 61A; Enumeration District: 51-33
+3 OBJE @M198@
+3 _APID 1,2442::8666311
+2 NOTE Marital Status: Married; Relation to Head: Head
+0 @I87@ INDI
+1 REFN 5f6d7d9b-57dc-4cfc-b51f-34eb8463f9a2
+1 NAME Arlena /Thompson/
+2 SOUR @S88@
+3 PAGE Year: 1920; Census Place: Hornby, Steuben, New York; Roll: T
+4 CONC 625_1267; Page: 5B; Enumeration District: 114
+3 OBJE @M194@
+3 _APID 1,6061::87520973
+2 SOUR @XwjA9DOQSF6Rp4tqv0Z2@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1925; Election District: 01; Assembly Di
+4 CONC strict: 01; City: Hornby; County: Steuben; Page: 10
+3 OBJE @eA7CbDGJQxSordFqUvrx@
+3 _APID 1,2704::25133538
+1 SEX F
+1 FAMC @F42@
+1 BIRT
+2 DATE ABT 1906
+2 PLAC New York, USA
+3 MAP
+4 LATI N42.7531
+4 LONG W74.2224
+2 SOUR @S88@
+3 PAGE Year: 1920; Census Place: Hornby, Steuben, New York; Roll: T
+4 CONC 625_1267; Page: 5B; Enumeration District: 114
+3 OBJE @M194@
+3 _APID 1,6061::87520973
+2 SOUR @XwjA9DOQSF6Rp4tqv0Z2@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1925; Election District: 01; Assembly Di
+4 CONC strict: 01; City: Hornby; County: Steuben; Page: 10
+3 OBJE @eA7CbDGJQxSordFqUvrx@
+3 _APID 1,2704::25133538
+1 RESI
+2 DATE 1920
+2 PLAC Hornby, Steuben, New York, USA
+3 MAP
+4 LATI N42.2442
+4 LONG W77.0444
+2 SOUR @S88@
+3 PAGE Year: 1920; Census Place: Hornby, Steuben, New York; Roll: T
+4 CONC 625_1267; Page: 5B; Enumeration District: 114
+3 OBJE @M194@
+3 _APID 1,6061::87520973
+2 NOTE Relation to Head: Daughter; Residence Marital Status: Single
+1 RESI
+2 DATE 01 JUN 1925
+2 PLAC Hornby, Steuben, New York, USA
+3 MAP
+4 LATI N42.2442
+4 LONG W77.0444
+2 SOUR @XwjA9DOQSF6Rp4tqv0Z2@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1925; Election District: 01; Assembly Di
+4 CONC strict: 01; City: Hornby; County: Steuben; Page: 10
+3 OBJE @eA7CbDGJQxSordFqUvrx@
+3 _APID 1,2704::25133538
+2 NOTE Relation to Head: Daughter
+0 @I90@ INDI
+1 REFN 9cfbc46e-86c3-45cf-b1ec-6a610bc8d67c
+1 NAME Donald L. /Thompson/
+2 SOUR @S88@
+3 PAGE Year: 1920; Census Place: Hornby, Steuben, New York; Roll: T
+4 CONC 625_1267; Page: 5B; Enumeration District: 114
+3 OBJE @M194@
+3 _APID 1,6061::87520976
+2 SOUR @S90@
+3 PAGE Year: 1930; Census Place: Hornby, Steuben, New York; Page: 2
+4 CONC B; Enumeration District: 0044; FHL microfilm: 2341382
+3 OBJE @M196@
+3 _APID 1,6224::46291788
+2 SOUR @S91@
+3 PAGE Year: 1940; Census Place: Hornby, Steuben, New York; Roll: m
+4 CONC -t0627-02781; Page: 3B; Enumeration District: 51-54
+3 OBJE @M195@
+3 _APID 1,2442::8685139
+2 SOUR @XwjA9DOQSF6Rp4tqv0Z2@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1925; Election District: 01; Assembly Di
+4 CONC strict: 01; City: Hornby; County: Steuben; Page: 10
+3 OBJE @eA7CbDGJQxSordFqUvrx@
+3 _APID 1,2704::25133541
+2 SOUR @S99@
+3 _APID 1,8750::3068067
+2 SOUR @S74@
+3 _APID 1,60525::47181
+2 SOUR @S97@
+3 _APID 1,60901::23152794
+2 SOUR @GBMDFX2WTtuAjoiA5QpK@
+3 PAGE Number: 081-14-4215; Issue State: New York; Issue Date: Befo
+4 CONC re 1951
+3 _APID 1,3693::62276351
+1 SEX M
+1 FAMC @F42@
+1 FAMS @F45@
+1 BIRT
+2 DATE 15 MAY 1919
+2 PLAC Corning, Steuben, New York, USA
+3 MAP
+4 LATI N42.1429
+4 LONG W77.0547
+2 SOUR @S88@
+3 PAGE Year: 1920; Census Place: Hornby, Steuben, New York; Roll: T
+4 CONC 625_1267; Page: 5B; Enumeration District: 114
+3 OBJE @M194@
+3 _APID 1,6061::87520976
+2 SOUR @S90@
+3 PAGE Year: 1930; Census Place: Hornby, Steuben, New York; Page: 2
+4 CONC B; Enumeration District: 0044; FHL microfilm: 2341382
+3 OBJE @M196@
+3 _APID 1,6224::46291788
+2 SOUR @S91@
+3 PAGE Year: 1940; Census Place: Hornby, Steuben, New York; Roll: m
+4 CONC -t0627-02781; Page: 3B; Enumeration District: 51-54
+3 OBJE @M195@
+3 _APID 1,2442::8685139
+2 SOUR @XwjA9DOQSF6Rp4tqv0Z2@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1925; Election District: 01; Assembly Di
+4 CONC strict: 01; City: Hornby; County: Steuben; Page: 10
+3 OBJE @eA7CbDGJQxSordFqUvrx@
+3 _APID 1,2704::25133541
+2 SOUR @S99@
+3 _APID 1,8750::3068067
+2 SOUR @S74@
+3 _APID 1,60525::47181
+2 SOUR @S97@
+3 _APID 1,60901::23152794
+2 SOUR @GBMDFX2WTtuAjoiA5QpK@
+3 PAGE Number: 081-14-4215; Issue State: New York; Issue Date: Befo
+4 CONC re 1951
+3 _APID 1,3693::62276351
+1 RESI
+2 DATE 1920
+2 PLAC Hornby, Steuben, New York, USA
+3 MAP
+4 LATI N42.2442
+4 LONG W77.0444
+2 SOUR @S88@
+3 PAGE Year: 1920; Census Place: Hornby, Steuben, New York; Roll: T
+4 CONC 625_1267; Page: 5B; Enumeration District: 114
+3 OBJE @M194@
+3 _APID 1,6061::87520976
+2 NOTE Relation to Head: Son; Residence Marital Status: Single
+1 RESI
+2 DATE 01 JUN 1925
+2 PLAC Hornby, Steuben, New York, USA
+3 MAP
+4 LATI N42.2442
+4 LONG W77.0444
+2 SOUR @XwjA9DOQSF6Rp4tqv0Z2@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1925; Election District: 01; Assembly Di
+4 CONC strict: 01; City: Hornby; County: Steuben; Page: 10
+3 OBJE @eA7CbDGJQxSordFqUvrx@
+3 _APID 1,2704::25133541
+2 NOTE Relation to Head: Son
+1 RESI
+2 DATE 1930
+2 PLAC Hornby, Steuben, New York, USA
+3 MAP
+4 LATI N42.2442
+4 LONG W77.0444
+2 SOUR @S90@
+3 PAGE Year: 1930; Census Place: Hornby, Steuben, New York; Page: 2
+4 CONC B; Enumeration District: 0044; FHL microfilm: 2341382
+3 OBJE @M196@
+3 _APID 1,6224::46291788
+2 NOTE Marital Status: Single; Relation to Head: Son
+1 RESI
+2 DATE 1940
+2 PLAC Hornby, Steuben, New York, USA
+3 MAP
+4 LATI N42.2442
+4 LONG W77.0444
+2 SOUR @S91@
+3 PAGE Year: 1940; Census Place: Hornby, Steuben, New York; Roll: m
+4 CONC -t0627-02781; Page: 3B; Enumeration District: 51-54
+3 OBJE @M195@
+3 _APID 1,2442::8685139
+2 NOTE Marital Status: Single; Relation to Head: Son
+1 EVEN
+2 TYPE military
+2 DATE 29 FEB 1944
+2 SOUR @S99@
+3 _APID 1,8750::3068067
+1 EVEN
+2 TYPE military
+2 DATE 12 JAN 1946
+2 SOUR @S99@
+3 _APID 1,8750::3068067
+1 DEAT
+2 DATE 06 MAY 1998
+2 SOUR @S99@
+3 _APID 1,8750::3068067
+2 SOUR @S74@
+3 _APID 1,60525::47181
+2 SOUR @S97@
+3 _APID 1,60901::23152794
+2 SOUR @GBMDFX2WTtuAjoiA5QpK@
+3 PAGE Number: 081-14-4215; Issue State: New York; Issue Date: Befo
+4 CONC re 1951
+3 _APID 1,3693::62276351
+1 BURI
+2 DATE 11 MAY 1998
+2 PLAC Bath, Steuben, New York, USA
+3 MAP
+4 LATI N42.337
+4 LONG W77.3177
+2 SOUR @S99@
+3 _APID 1,8750::3068067
+2 SOUR @S74@
+3 _APID 1,60525::47181
+0 @I91@ INDI
+1 REFN 2126333d-a7a4-46b8-8e4e-6d2cc1a97e51
+1 NAME Dorwin /Thompson/
+2 SOUR @S88@
+3 PAGE Year: 1920; Census Place: Hornby, Steuben, New York; Roll: T
+4 CONC 625_1267; Page: 5B; Enumeration District: 114
+3 OBJE @M194@
+3 _APID 1,6061::87520975
+2 SOUR @S90@
+3 PAGE Year: 1930; Census Place: Hornby, Steuben, New York; Page: 2
+4 CONC B; Enumeration District: 0044; FHL microfilm: 2341382
+3 OBJE @M196@
+3 _APID 1,6224::46291795
+2 SOUR @XwjA9DOQSF6Rp4tqv0Z2@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1925; Election District: 01; Assembly Di
+4 CONC strict: 01; City: Hornby; County: Steuben; Page: 10
+3 OBJE @eA7CbDGJQxSordFqUvrx@
+3 _APID 1,2704::25133540
+1 SEX M
+1 FAMC @F42@
+1 BIRT
+2 DATE ABT 1910
+2 PLAC New York, USA
+3 MAP
+4 LATI N42.7531
+4 LONG W74.2224
+2 SOUR @S88@
+3 PAGE Year: 1920; Census Place: Hornby, Steuben, New York; Roll: T
+4 CONC 625_1267; Page: 5B; Enumeration District: 114
+3 OBJE @M194@
+3 _APID 1,6061::87520975
+2 SOUR @S90@
+3 PAGE Year: 1930; Census Place: Hornby, Steuben, New York; Page: 2
+4 CONC B; Enumeration District: 0044; FHL microfilm: 2341382
+3 OBJE @M196@
+3 _APID 1,6224::46291795
+2 SOUR @XwjA9DOQSF6Rp4tqv0Z2@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1925; Election District: 01; Assembly Di
+4 CONC strict: 01; City: Hornby; County: Steuben; Page: 10
+3 OBJE @eA7CbDGJQxSordFqUvrx@
+3 _APID 1,2704::25133540
+1 RESI
+2 DATE 1920
+2 PLAC Hornby, Steuben, New York, USA
+3 MAP
+4 LATI N42.2442
+4 LONG W77.0444
+2 SOUR @S88@
+3 PAGE Year: 1920; Census Place: Hornby, Steuben, New York; Roll: T
+4 CONC 625_1267; Page: 5B; Enumeration District: 114
+3 OBJE @M194@
+3 _APID 1,6061::87520975
+2 NOTE Relation to Head: Son; Residence Marital Status: Single
+1 RESI
+2 DATE 01 JUN 1925
+2 PLAC Hornby, Steuben, New York, USA
+3 MAP
+4 LATI N42.2442
+4 LONG W77.0444
+2 SOUR @XwjA9DOQSF6Rp4tqv0Z2@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1925; Election District: 01; Assembly Di
+4 CONC strict: 01; City: Hornby; County: Steuben; Page: 10
+3 OBJE @eA7CbDGJQxSordFqUvrx@
+3 _APID 1,2704::25133540
+2 NOTE Relation to Head: Son
+1 RESI
+2 DATE 1930
+2 PLAC Hornby, Steuben, New York, USA
+3 MAP
+4 LATI N42.2442
+4 LONG W77.0444
+2 SOUR @S90@
+3 PAGE Year: 1930; Census Place: Hornby, Steuben, New York; Page: 2
+4 CONC B; Enumeration District: 0044; FHL microfilm: 2341382
+3 OBJE @M196@
+3 _APID 1,6224::46291795
+2 NOTE Marital Status: Single; Relation to Head: Son
+0 @I88@ INDI
+1 REFN 3269a399-a7cc-488d-ac73-ebf426469f39
+1 NAME Gadys /Thompson/
+2 SOUR @S88@
+3 PAGE Year: 1920; Census Place: Hornby, Steuben, New York; Roll: T
+4 CONC 625_1267; Page: 5B; Enumeration District: 114
+3 OBJE @M194@
+3 _APID 1,6061::87520972
+1 SEX F
+1 FAMC @F42@
+1 BIRT
+2 DATE ABT 1904
+2 PLAC New York, USA
+3 MAP
+4 LATI N42.7531
+4 LONG W74.2224
+2 SOUR @S88@
+3 PAGE Year: 1920; Census Place: Hornby, Steuben, New York; Roll: T
+4 CONC 625_1267; Page: 5B; Enumeration District: 114
+3 OBJE @M194@
+3 _APID 1,6061::87520972
+1 RESI
+2 DATE 1920
+2 PLAC Hornby, Steuben, New York, USA
+3 MAP
+4 LATI N42.2442
+4 LONG W77.0444
+2 SOUR @S88@
+3 PAGE Year: 1920; Census Place: Hornby, Steuben, New York; Roll: T
+4 CONC 625_1267; Page: 5B; Enumeration District: 114
+3 OBJE @M194@
+3 _APID 1,6061::87520972
+2 NOTE Relation to Head: Daughter; Residence Marital Status: Single
+0 @I89@ INDI
+1 REFN 5ba01005-7f6a-4d42-a756-8d9d086a30ca
+1 NAME Herbert L. /Thompson/
+2 SOUR @S88@
+3 PAGE Year: 1920; Census Place: Hornby, Steuben, New York; Roll: T
+4 CONC 625_1267; Page: 5B; Enumeration District: 114
+3 OBJE @M194@
+3 _APID 1,6061::87520970
+2 SOUR @S90@
+3 PAGE Year: 1930; Census Place: Hornby, Steuben, New York; Page: 2
+4 CONC B; Enumeration District: 0044; FHL microfilm: 2341382
+3 OBJE @M196@
+3 _APID 1,6224::46291762
+2 SOUR @S91@
+3 PAGE Year: 1940; Census Place: Hornby, Steuben, New York; Roll: m
+4 CONC -t0627-02781; Page: 3B; Enumeration District: 51-54
+3 OBJE @M195@
+3 _APID 1,2442::8685137
+2 SOUR @XwjA9DOQSF6Rp4tqv0Z2@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1925; Election District: 01; Assembly Di
+4 CONC strict: 01; City: Hornby; County: Steuben; Page: 10
+3 OBJE @eA7CbDGJQxSordFqUvrx@
+3 _APID 1,2704::25133536
+2 SOUR @S97@
+3 _APID 1,60901::623152794
+1 SEX M
+1 FAMS @F42@
+1 BIRT
+2 DATE ABT 1873
+2 PLAC New York, USA
+3 MAP
+4 LATI N42.7531
+4 LONG W74.2224
+2 SOUR @S88@
+3 PAGE Year: 1920; Census Place: Hornby, Steuben, New York; Roll: T
+4 CONC 625_1267; Page: 5B; Enumeration District: 114
+3 OBJE @M194@
+3 _APID 1,6061::87520970
+2 SOUR @S90@
+3 PAGE Year: 1930; Census Place: Hornby, Steuben, New York; Page: 2
+4 CONC B; Enumeration District: 0044; FHL microfilm: 2341382
+3 OBJE @M196@
+3 _APID 1,6224::46291762
+2 SOUR @S91@
+3 PAGE Year: 1940; Census Place: Hornby, Steuben, New York; Roll: m
+4 CONC -t0627-02781; Page: 3B; Enumeration District: 51-54
+3 OBJE @M195@
+3 _APID 1,2442::8685137
+2 SOUR @XwjA9DOQSF6Rp4tqv0Z2@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1925; Election District: 01; Assembly Di
+4 CONC strict: 01; City: Hornby; County: Steuben; Page: 10
+3 OBJE @eA7CbDGJQxSordFqUvrx@
+3 _APID 1,2704::25133536
+1 RESI
+2 DATE 1920
+2 PLAC Hornby, Steuben, New York, USA
+3 MAP
+4 LATI N42.2442
+4 LONG W77.0444
+2 SOUR @S88@
+3 PAGE Year: 1920; Census Place: Hornby, Steuben, New York; Roll: T
+4 CONC 625_1267; Page: 5B; Enumeration District: 114
+3 OBJE @M194@
+3 _APID 1,6061::87520970
+2 NOTE Relation to Head: Head; Residence Marital Status: Married
+1 RESI
+2 DATE 01 JUN 1925
+2 PLAC Hornby, Steuben, New York, USA
+3 MAP
+4 LATI N42.2442
+4 LONG W77.0444
+2 SOUR @XwjA9DOQSF6Rp4tqv0Z2@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1925; Election District: 01; Assembly Di
+4 CONC strict: 01; City: Hornby; County: Steuben; Page: 10
+3 OBJE @eA7CbDGJQxSordFqUvrx@
+3 _APID 1,2704::25133536
+2 NOTE Relation to Head: Head
+1 RESI
+2 DATE 1930
+2 PLAC Hornby, Steuben, New York, USA
+3 MAP
+4 LATI N42.2442
+4 LONG W77.0444
+2 SOUR @S90@
+3 PAGE Year: 1930; Census Place: Hornby, Steuben, New York; Page: 2
+4 CONC B; Enumeration District: 0044; FHL microfilm: 2341382
+3 OBJE @M196@
+3 _APID 1,6224::46291762
+2 NOTE Marital Status: Married; Relation to Head: Head
+1 RESI
+2 DATE 1940
+2 PLAC Hornby, Steuben, New York, USA
+3 MAP
+4 LATI N42.2442
+4 LONG W77.0444
+2 SOUR @S91@
+3 PAGE Year: 1940; Census Place: Hornby, Steuben, New York; Roll: m
+4 CONC -t0627-02781; Page: 3B; Enumeration District: 51-54
+3 OBJE @M195@
+3 _APID 1,2442::8685137
+2 NOTE Marital Status: Married; Relation to Head: Head
+0 @I86@ INDI
+1 REFN b34581c3-f06c-4705-80c7-3bfd6a080683
+1 NAME Viola /Thompson/
+2 SOUR @S88@
+3 PAGE Year: 1920; Census Place: Hornby, Steuben, New York; Roll: T
+4 CONC 625_1267; Page: 5B; Enumeration District: 114
+3 OBJE @M194@
+3 _APID 1,6061::87520974
+2 SOUR @S90@
+3 PAGE Year: 1930; Census Place: Hornby, Steuben, New York; Page: 2
+4 CONC B; Enumeration District: 0044; FHL microfilm: 2341382
+3 OBJE @M196@
+3 _APID 1,6224::46291781
+2 SOUR @XwjA9DOQSF6Rp4tqv0Z2@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1925; Election District: 01; Assembly Di
+4 CONC strict: 01; City: Hornby; County: Steuben; Page: 10
+3 OBJE @eA7CbDGJQxSordFqUvrx@
+3 _APID 1,2704::25133539
+1 SEX F
+1 FAMC @F42@
+1 BIRT
+2 DATE ABT 1908
+2 PLAC New York, USA
+3 MAP
+4 LATI N42.7531
+4 LONG W74.2224
+2 SOUR @S88@
+3 PAGE Year: 1920; Census Place: Hornby, Steuben, New York; Roll: T
+4 CONC 625_1267; Page: 5B; Enumeration District: 114
+3 OBJE @M194@
+3 _APID 1,6061::87520974
+2 SOUR @S90@
+3 PAGE Year: 1930; Census Place: Hornby, Steuben, New York; Page: 2
+4 CONC B; Enumeration District: 0044; FHL microfilm: 2341382
+3 OBJE @M196@
+3 _APID 1,6224::46291781
+2 SOUR @XwjA9DOQSF6Rp4tqv0Z2@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1925; Election District: 01; Assembly Di
+4 CONC strict: 01; City: Hornby; County: Steuben; Page: 10
+3 OBJE @eA7CbDGJQxSordFqUvrx@
+3 _APID 1,2704::25133539
+1 RESI
+2 DATE 1920
+2 PLAC Hornby, Steuben, New York, USA
+3 MAP
+4 LATI N42.2442
+4 LONG W77.0444
+2 SOUR @S88@
+3 PAGE Year: 1920; Census Place: Hornby, Steuben, New York; Roll: T
+4 CONC 625_1267; Page: 5B; Enumeration District: 114
+3 OBJE @M194@
+3 _APID 1,6061::87520974
+2 NOTE Relation to Head: Daughter; Residence Marital Status: Single
+1 RESI
+2 DATE 01 JUN 1925
+2 PLAC Hornby, Steuben, New York, USA
+3 MAP
+4 LATI N42.2442
+4 LONG W77.0444
+2 SOUR @XwjA9DOQSF6Rp4tqv0Z2@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1925; Election District: 01; Assembly Di
+4 CONC strict: 01; City: Hornby; County: Steuben; Page: 10
+3 OBJE @eA7CbDGJQxSordFqUvrx@
+3 _APID 1,2704::25133539
+2 NOTE Relation to Head: Daughter
+1 RESI
+2 DATE 1930
+2 PLAC Hornby, Steuben, New York, USA
+3 MAP
+4 LATI N42.2442
+4 LONG W77.0444
+2 SOUR @S90@
+3 PAGE Year: 1930; Census Place: Hornby, Steuben, New York; Page: 2
+4 CONC B; Enumeration District: 0044; FHL microfilm: 2341382
+3 OBJE @M196@
+3 _APID 1,6224::46291781
+2 NOTE Marital Status: Married; Relation to Head: Daughter
 0 @aitt6Od8SBK9DXqW5TJZ@ INDI
 1 REFN 6fb3da15-327a-4754-8d0e-ea190305076e
 1 NAME Mary wife of Patrick /Touhey/
@@ -10159,6 +13169,283 @@
 2 SOUR @e0k10AjRSSyDnTOmeiMT@
 3 _APID 1,70572::8473815
 1 _XY 187242.00 4263.00
+0 @I93@ INDI
+1 REFN c54269a7-5121-47a2-8a4e-778369ec2cd6
+1 NAME Mary Hannah /Travis/
+2 SOUR @S89@
+3 PAGE Year: 1910; Census Place: Hornby, Steuben, New York; Roll: T
+4 CONC 624_1080; Page: 1A; Enumeration District: 0132; FHL microfil
+4 CONC m: 1375093
+3 OBJE @An7pYtBiRpyzVBKV09fE@
+3 _APID 1,7884::103800583
+2 SOUR @S88@
+3 PAGE Year: 1920; Census Place: Hornby, Steuben, New York; Roll: T
+4 CONC 625_1267; Page: 2A; Enumeration District: 114
+3 OBJE @U9W4jkSSQl2BUzUykU9a@
+3 _APID 1,6061::87520594
+2 SOUR @S90@
+3 PAGE Year: 1930; Census Place: Painted Post, Steuben, New York; P
+4 CONC age: 23B; Enumeration District: 0039; FHL microfilm: 2341382
+3 OBJE @M188@
+3 _APID 1,6224::46315076
+2 SOUR @S91@
+3 PAGE Year: 1940; Census Place: Painted Post, Steuben, New York; R
+4 CONC oll: m-t0627-02781; Page: 6B; Enumeration District: 51-48
+3 OBJE @M199@
+3 _APID 1,2442::8678992
+2 SOUR @S73@
+3 OBJE @M189@
+2 SOUR @S73@
+3 OBJE @M190@
+2 SOUR @6NcIzxfbRyyWNjNadTrG@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1905; Election District: A.D. 01 E.D. 01
+4 CONC ; City: Hornby; County: Steuben; Page: 8
+3 OBJE @f0aqLKxmQQC97jC126aB@
+3 _APID 1,7364::7101282
+2 SOUR @TGKTvmYkRIad5UXaC837@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1915; Election District: 01; Assembly Di
+4 CONC strict: 01; City: Hornby; County: Steuben; Page: 13
+3 OBJE @sXk0gITcSLyDLE1yT72U@
+3 _APID 1,2703::6630728
+2 SOUR @XwjA9DOQSF6Rp4tqv0Z2@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1925; Election District: 01; Assembly Di
+4 CONC strict: 01; City: Erwin; County: Steuben; Page: 18
+3 OBJE @M187@
+3 _APID 1,2704::25213009
+2 SOUR @S98@
+3 OBJE @M193@
+3 _APID 1,2469::1209039447
+2 SOUR @S74@
+3 _APID 1,60525::53450848
+1 SEX F
+1 FAMS @F41@
+1 BIRT
+2 DATE ABT 1880
+2 PLAC New York, USA
+3 MAP
+4 LATI N42.7531
+4 LONG W74.2224
+2 SOUR @S89@
+3 PAGE Year: 1910; Census Place: Hornby, Steuben, New York; Roll: T
+4 CONC 624_1080; Page: 1A; Enumeration District: 0132; FHL microfil
+4 CONC m: 1375093
+3 OBJE @An7pYtBiRpyzVBKV09fE@
+3 _APID 1,7884::103800583
+2 SOUR @S88@
+3 PAGE Year: 1920; Census Place: Hornby, Steuben, New York; Roll: T
+4 CONC 625_1267; Page: 2A; Enumeration District: 114
+3 OBJE @U9W4jkSSQl2BUzUykU9a@
+3 _APID 1,6061::87520594
+2 SOUR @S90@
+3 PAGE Year: 1930; Census Place: Painted Post, Steuben, New York; P
+4 CONC age: 23B; Enumeration District: 0039; FHL microfilm: 2341382
+3 OBJE @M188@
+3 _APID 1,6224::46315076
+2 SOUR @S91@
+3 PAGE Year: 1940; Census Place: Painted Post, Steuben, New York; R
+4 CONC oll: m-t0627-02781; Page: 6B; Enumeration District: 51-48
+3 OBJE @M199@
+3 _APID 1,2442::8678992
+2 SOUR @6NcIzxfbRyyWNjNadTrG@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1905; Election District: A.D. 01 E.D. 01
+4 CONC ; City: Hornby; County: Steuben; Page: 8
+3 OBJE @f0aqLKxmQQC97jC126aB@
+3 _APID 1,7364::7101282
+2 SOUR @TGKTvmYkRIad5UXaC837@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1915; Election District: 01; Assembly Di
+4 CONC strict: 01; City: Hornby; County: Steuben; Page: 13
+3 OBJE @sXk0gITcSLyDLE1yT72U@
+3 _APID 1,2703::6630728
+2 SOUR @XwjA9DOQSF6Rp4tqv0Z2@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1925; Election District: 01; Assembly Di
+4 CONC strict: 01; City: Erwin; County: Steuben; Page: 18
+3 OBJE @M187@
+3 _APID 1,2704::25213009
+2 SOUR @S74@
+3 _APID 1,60525::53450848
+1 RESI
+2 DATE 1905
+2 PLAC Hornby, Steuben, New York, USA
+3 MAP
+4 LATI N42.2442
+4 LONG W77.0444
+2 SOUR @6NcIzxfbRyyWNjNadTrG@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1905; Election District: A.D. 01 E.D. 01
+4 CONC ; City: Hornby; County: Steuben; Page: 8
+3 OBJE @f0aqLKxmQQC97jC126aB@
+3 _APID 1,7364::7101282
+2 NOTE Relationship to Head: Wife
+1 RESI
+2 DATE 1910
+2 PLAC Hornby, Steuben, New York, USA
+3 MAP
+4 LATI N42.2442
+4 LONG W77.0444
+2 SOUR @S89@
+3 PAGE Year: 1910; Census Place: Hornby, Steuben, New York; Roll: T
+4 CONC 624_1080; Page: 1A; Enumeration District: 0132; FHL microfil
+4 CONC m: 1375093
+3 OBJE @An7pYtBiRpyzVBKV09fE@
+3 _APID 1,7884::103800583
+2 NOTE Marital Status: Married; Relation to Head of House: Wife
+1 RESI
+2 DATE 01 JUN 1915
+2 PLAC Hornby, Steuben, New York, USA
+3 MAP
+4 LATI N42.2442
+4 LONG W77.0444
+2 SOUR @TGKTvmYkRIad5UXaC837@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1915; Election District: 01; Assembly Di
+4 CONC strict: 01; City: Hornby; County: Steuben; Page: 13
+3 OBJE @sXk0gITcSLyDLE1yT72U@
+3 _APID 1,2703::6630728
+2 NOTE Relation to Head of House: Wife
+1 RESI
+2 DATE 1920
+2 PLAC Hornby, Steuben, New York, USA
+3 MAP
+4 LATI N42.2442
+4 LONG W77.0444
+2 SOUR @S88@
+3 PAGE Year: 1920; Census Place: Hornby, Steuben, New York; Roll: T
+4 CONC 625_1267; Page: 2A; Enumeration District: 114
+3 OBJE @U9W4jkSSQl2BUzUykU9a@
+3 _APID 1,6061::87520594
+2 NOTE Relation to Head: Wife; Residence Marital Status: Married
+1 RESI
+2 DATE 01 JUN 1925
+2 PLAC Erwin, Steuben, New York, USA
+3 MAP
+4 LATI N42.1412
+4 LONG W77.1408
+2 SOUR @XwjA9DOQSF6Rp4tqv0Z2@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1925; Election District: 01; Assembly Di
+4 CONC strict: 01; City: Erwin; County: Steuben; Page: 18
+3 OBJE @M187@
+3 _APID 1,2704::25213009
+2 NOTE Relation to Head: Wife
+1 RESI
+2 DATE 1930
+2 PLAC Painted Post, Steuben, New York, USA
+3 MAP
+4 LATI N42.162
+4 LONG W77.0941
+2 SOUR @S90@
+3 PAGE Year: 1930; Census Place: Painted Post, Steuben, New York; P
+4 CONC age: 23B; Enumeration District: 0039; FHL microfilm: 2341382
+3 OBJE @M188@
+3 _APID 1,6224::46315076
+2 NOTE Marital Status: Married; Relation to Head: Wife
+1 RESI
+2 DATE 1940
+2 PLAC Painted Post, Steuben, New York, USA
+3 MAP
+4 LATI N42.162
+4 LONG W77.0941
+2 SOUR @S91@
+3 PAGE Year: 1940; Census Place: Painted Post, Steuben, New York; R
+4 CONC oll: m-t0627-02781; Page: 6B; Enumeration District: 51-48
+3 OBJE @M199@
+3 _APID 1,2442::8678992
+2 NOTE Marital Status: Widowed; Relation to Head: Head
+1 RESI
+2 DATE 1944
+2 PLAC Corning, Steuben, New York, USA
+3 MAP
+4 LATI N42.1429
+4 LONG W77.0547
+2 SOUR @S98@
+3 OBJE @M193@
+3 _APID 1,2469::1209039447
+1 DEAT
+2 DATE 1965
+2 SOUR @S74@
+3 _APID 1,60525::53450848
+1 BURI
+2 PLAC Coopers Plains, Steuben, New York, United States of America
+2 SOUR @S74@
+3 _APID 1,60525::53450848
+0 @I83@ INDI
+1 REFN e5638d3c-16b9-48a5-b5b5-87a0e099fb04
+1 NAME Addie Adora /Tremain/
+2 SOUR @S87@
+3 PAGE Year: 1880; Census Place: Clymer, Tioga, Pennsylvania; Roll
+4 CONC : 1197; Page: 102A; Enumeration District: 146
+3 OBJE @M186@
+3 _APID 1,6742::38129478
+2 SOUR @S92@
+3 PAGE Year: 1900; Census Place: Hornby, Steuben, New York; Page: 4
+4 CONC ; Enumeration District: 0087; FHL microfilm: 1241163
+3 OBJE @nTOLgyj6StOlQT14dIG7@
+3 _APID 1,7602::56735746
+2 SOUR @S74@
+3 _APID 1,60525::35402076
+1 SEX F
+1 FAMS @F40@
+1 FAMS @F44@
+1 BIRT
+2 DATE JUN 1857
+2 PLAC Pennsylvania, USA
+3 MAP
+4 LATI N40.8583
+4 LONG W76.3834
+2 SOUR @S87@
+3 PAGE Year: 1880; Census Place: Clymer, Tioga, Pennsylvania; Roll
+4 CONC : 1197; Page: 102A; Enumeration District: 146
+3 OBJE @M186@
+3 _APID 1,6742::38129478
+2 SOUR @S92@
+3 PAGE Year: 1900; Census Place: Hornby, Steuben, New York; Page: 4
+4 CONC ; Enumeration District: 0087; FHL microfilm: 1241163
+3 OBJE @nTOLgyj6StOlQT14dIG7@
+3 _APID 1,7602::56735746
+2 SOUR @S74@
+3 _APID 1,60525::35402076
+1 RESI
+2 DATE 1880
+2 PLAC Clymer, Tioga, Pennsylvania, USA
+3 MAP
+4 LATI N41.8567
+4 LONG W77.5986
+2 SOUR @S87@
+3 PAGE Year: 1880; Census Place: Clymer, Tioga, Pennsylvania; Roll
+4 CONC : 1197; Page: 102A; Enumeration District: 146
+3 OBJE @M186@
+3 _APID 1,6742::38129478
+2 NOTE Marital Status: Married; Relation to Head: Wife
+1 RESI
+2 DATE 1900
+2 PLAC Hornby, Steuben, New York, USA
+3 MAP
+4 LATI N42.2442
+4 LONG W77.0444
+2 SOUR @S92@
+3 PAGE Year: 1900; Census Place: Hornby, Steuben, New York; Page: 4
+4 CONC ; Enumeration District: 0087; FHL microfilm: 1241163
+3 OBJE @nTOLgyj6StOlQT14dIG7@
+3 _APID 1,7602::56735746
+2 NOTE Marital Status: Married; Relation to Head: Head
+1 DEAT
+2 DATE 1927
+2 PLAC Pennsylvania, USA
+3 MAP
+4 LATI N40.8583
+4 LONG W76.3834
+2 SOUR @S74@
+3 _APID 1,60525::35402076
+1 BURI
+2 PLAC Little Marsh, Tioga, Tioga, Pennsylvania, USA
+2 SOUR @S74@
+3 _APID 1,60525::35402076
 0 @mzw44g7fSSuExAkmwq6h@ INDI
 1 REFN eb3e530e-18ae-4d91-b56e-46bec991d706
 1 NAME William Goundry /Van Nortwick/
@@ -10467,6 +13754,14 @@
 2 SOUR @e0k10AjRSSyDnTOmeiMT@
 3 _APID 1,70572::7339455
 1 _XY 184767.00 4488.00
+0 @F44@ FAM
+1 WIFE @I83@
+1 MARR
+2 DATE 1874
+2 SOUR @S92@
+3 PAGE Year: 1900; Census Place: Hornby, Steuben, New York; Page: 4
+4 CONC ; Enumeration District: 0087; FHL microfilm: 1241163
+3 OBJE @nTOLgyj6StOlQT14dIG7@
 0 @Afq3JvbwQPe7IzNTqe46@ FAM
 1 REFN e18eea16-18bb-45ce-9a5e-62bc7ac104c3
 1 HUSB @QXjBvBzbTwywHksWLgCC@
@@ -10697,6 +13992,27 @@
 1 REFN 2e2cbcfa-433a-466f-85d1-27f476a61136
 1 HUSB @x9u87ik4Q3S7NhKiShT0@
 1 WIFE @lAaTLuXjRymgTPRloGG5@
+1 CHIL @I67@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I66@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I94@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I65@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I64@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I63@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I74@
+2 _FREL Natural
+2 _MREL Natural
 1 MARR
 2 DATE 18 JAN 1899
 2 PLAC New York, USA
@@ -10713,6 +14029,58 @@
 1 REFN 04a2e3c8-0ce1-4a88-9183-c6102907093a
 1 HUSB @xO1mv3ooQOCSB8ARpu96@
 1 WIFE @xSFZfp4KQf2pcpHAdeOC@
+0 @F39@ FAM
+1 HUSB @I94@
+1 WIFE @I68@
+1 CHIL @I73@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I72@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I71@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I70@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I69@
+2 _FREL Natural
+2 _MREL Natural
+1 MARL Both say they have not been married before.
+2 DATE 25 JUL 1931
+2 PLAC Steuben County, New York, USA
+3 MAP
+4 LATI N42.2642
+4 LONG W77.3854
+1 MARR
+2 DATE 27 JUL 1931
+2 PLAC Corning, Steuben, New York, USA
+3 MAP
+4 LATI N42.1429
+4 LONG W77.0547
+2 SOUR @S75@
+3 PAGE New York State Department of Health; Albany, NY, USA; New Yo
+4 CONC rk State Marriage Index
+3 OBJE @M200@
+3 _APID 1,61632::3478170
+2 SOUR @S73@
+3 OBJE @M183@
+2 SOUR @S73@
+3 OBJE @M183@
+0 @F46@ FAM
+1 HUSB @I94@
+1 WIFE @I97@
+1 CHIL @I95@
+2 _FREL Natural
+2 _MREL Natural
+1 EVEN
+2 TYPE Partnership
+2 DATE ABT 02 FEB 1924
+2 PLAC Hornby, Steuben, New York, USA
+3 MAP
+4 LATI N42.2442
+4 LONG W77.0444
 0 @lPFEIcFIQjOLL1bygRuV@ FAM
 1 REFN c395dd8c-51eb-4878-9aad-04dd02f78dc8
 1 HUSB @GYhfAd7MRnemwPvy5D24@
@@ -10894,6 +14262,85 @@
 3 OBJE @M133@
 3 _LINK https://mosher.mine.nu/tei/genealogy/main/sources/old/mclaug
 4 CONC hlin/mclaughlin_william_marriage_1861.tei.xml
+0 @F41@ FAM
+1 HUSB @I80@
+1 WIFE @I93@
+1 CHIL @I85@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I97@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I79@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I84@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I78@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I77@
+2 _FREL Natural
+2 _MREL Natural
+0 @F40@ FAM
+1 HUSB @I76@
+1 WIFE @I83@
+1 CHIL @I75@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I80@
+2 _FREL Natural
+2 _MREL Natural
+0 @F43@ FAM
+1 HUSB @I96@
+1 WIFE @I97@
+1 CHIL @I82@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I92@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR
+2 DATE 11 JUL 1926
+2 PLAC Corning, Steuben, New York, USA
+3 MAP
+4 LATI N42.1429
+4 LONG W77.0547
+2 SOUR @S75@
+3 PAGE New York State Department of Health; Albany, NY, USA; New Yo
+4 CONC rk State Marriage Index
+3 OBJE @M206@
+3 _APID 1,61632::1528400
+2 SOUR @S73@
+3 OBJE @M190@
+2 SOUR @S73@
+3 OBJE @M203@
+2 SOUR @S73@
+3 OBJE @M190@
+2 SOUR @S73@
+3 OBJE @M203@
+0 @F45@ FAM
+1 HUSB @I90@
+1 WIFE @I95@
+0 @F42@ FAM
+1 HUSB @I89@
+1 WIFE @I81@
+1 CHIL @I88@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I87@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I86@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I91@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I90@
+2 _FREL Natural
+2 _MREL Natural
 0 @Hx5aaIJKS8eUUfEuHkTQ@ FAM
 1 REFN 2eba1421-cdf4-42ee-a500-f3dd7178a2e9
 1 HUSB @TtYgrq0dQJu14Mf789UE@
@@ -10944,6 +14391,11 @@
 0 @R3@ REPO
 1 NAME Christopher A. Mosher Archive of Historical Family Documents
 1 ADDR Shelton, Connecticut, USA
+1 EMAIL
+1 PHON
+0 @0aJKtHRDQmatCERL9JPC@ REPO
+1 NAME Ancestry.com
+1 ADDR
 1 EMAIL
 1 PHON
 0 @S86@ SOUR
@@ -11036,6 +14488,18 @@
 2 CONC n Adams
 1 AUTH Hornby [New York] Historical Society
 1 PUBL Tennessee Valley Publishing, Knoxville, TN, 2000
+0 @S101@ SOUR
+1 REPO @0aJKtHRDQmatCERL9JPC@
+1 TITL New York State, Birth Index, 1881-1942
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.; Location: Lehi, UT, USA; Date
+2 CONC : 2018
+0 @S102@ SOUR
+1 REPO @0aJKtHRDQmatCERL9JPC@
+1 TITL New York State, Death Index, 1957-1968
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.; Location: Lehi, UT, USA; Date
+2 CONC : 2018
 0 @S75@ SOUR
 1 REPO @0aJKtHRDQmatCERL9JPC@
 1 TITL New York State, Marriage Index, 1881-1967
@@ -11289,6 +14753,18 @@
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2010
+0 @S98@ SOUR
+1 REPO @0aJKtHRDQmatCERL9JPC@
+1 TITL U.S. City Directories, 1822-1995
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
+2 CONC e: 2011
+0 @S99@ SOUR
+1 REPO @0aJKtHRDQmatCERL9JPC@
+1 TITL U.S. Veterans' Gravesites, ca.1775-2006
+1 AUTH National Cemetery Administration
+1 PUBL Ancestry.com Operations Inc; Location: Provo, UT, USA; Date
+2 CONC : 2006
 0 @XO6j9SijRyGVeXfL600G@ SOUR
 1 REFN f9ceabcf-0b8a-452f-8756-0c7cca97e3d6
 1 REPO @0aJKtHRDQmatCERL9JPC@
@@ -11322,6 +14798,12 @@
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2010
+0 @S100@ SOUR
+1 REPO @0aJKtHRDQmatCERL9JPC@
+1 TITL U.S., Obituary Collection, 1930-2018
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations Inc; Location: Lehi, UT, USA; Date
+2 CONC : 2006
 0 @S82@ SOUR
 1 REPO @0aJKtHRDQmatCERL9JPC@
 1 TITL U.S., Selected Federal Census Non-Population Schedules, 1850
@@ -11329,6 +14811,13 @@
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2010
+0 @S97@ SOUR
+1 REPO @0aJKtHRDQmatCERL9JPC@
+1 TITL U.S., Social Security Applications and Claims Index, 1936-20
+2 CONC 07
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
+2 CONC e: 2015
 0 @GBMDFX2WTtuAjoiA5QpK@ SOUR
 1 REFN 88eeb28b-101b-4ddc-a6b1-c0e913d3e8fa
 1 REPO @0aJKtHRDQmatCERL9JPC@
@@ -13312,4 +16801,186 @@
 2 TITL New York, Death Index, 1880-1956
 2 _TEXT New York Department of Health; Albany, NY; NY State Death In
 3 CONC dex
+0 @M180@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\McLaughlin Medi
+2 CONC a\New York, Death Index, 1880-1956(5).jpg
+2 FORM jpg
+2 TITL New York, Death Index, 1880-1956
+2 _TEXT New York Department of Health; Albany, NY; NY State Death In
+3 CONC dex
+0 @M181@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\McLaughlin Medi
+2 CONC a\New York, Death Index, 1880-1956(6).jpg
+2 FORM jpg
+2 TITL New York, Death Index, 1880-1956
+2 _TEXT New York Department of Health; Albany, NY; NY State Death In
+3 CONC dex
+0 @M182@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\McLaughlin Medi
+2 CONC a\New York, County Marriage Records, 1847-1849, 1907-1936(3)
+2 CONC .jpg
+2 FORM jpg
+2 TITL New York, County Marriage Records, 1847-1849, 1907-1936
+0 @M183@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\McLaughlin Medi
+2 CONC a\New York, County Marriage Records, 1847-1849, 1907-1936(4)
+2 CONC .jpg
+2 FORM jpg
+2 TITL New York, County Marriage Records, 1847-1849, 1907-1936
+0 @M184@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\McLaughlin Medi
+2 CONC a\1940 United States Federal Census(4).jpg
+2 FORM jpg
+2 TITL 1940 United States Federal Census
+2 _TEXT Year: 1940; Census Place: Corning, Steuben, New York; Roll
+3 CONC : m-t0627-02781; Page: 9A; Enumeration District: 51-27
+0 @M185@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\McLaughlin Medi
+2 CONC a\1940 United States Federal Census(3).jpg
+2 FORM jpg
+2 TITL 1940 United States Federal Census
+2 _TEXT Year: 1940; Census Place: Corning, Steuben, New York; Roll
+3 CONC : m-t0627-02781; Page: 9B; Enumeration District: 51-27
+0 @M186@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\McLaughlin Medi
+2 CONC a\1880 United States Federal Census(9).jpg
+2 FORM jpg
+2 TITL 1880 United States Federal Census
+2 _TEXT Year: 1880; Census Place: Clymer, Tioga, Pennsylvania; Roll
+3 CONC : 1197; Page: 102A; Enumeration District: 146
+0 @M187@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\McLaughlin Medi
+2 CONC a\New York, State Census, 1925(1).jpg
+2 FORM jpg
+2 TITL New York, State Census, 1925
+2 _TEXT New York State Archives; Albany, New York; State Populatio
+3 CONC n Census Schedules, 1925; Election District: 01; Assembly Di
+3 CONC strict: 01; City: Erwin; County: Steuben; Page: 18
+0 @M188@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\McLaughlin Medi
+2 CONC a\1930 United States Federal Census(1)(1).jpg
+2 FORM jpg
+2 TITL 1930 United States Federal Census
+2 _TEXT Year: 1930; Census Place: Painted Post, Steuben, New York; P
+3 CONC age: 23B; Enumeration District: 0039; FHL microfilm: 2341382
+0 @M189@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\McLaughlin Medi
+2 CONC a\New York, County Marriage Records, 1847-1849, 1907-1936(2)
+2 CONC .jpg
+2 FORM jpg
+2 TITL New York, County Marriage Records, 1847-1849, 1907-1936
+0 @M190@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\McLaughlin Medi
+2 CONC a\New York, County Marriage Records, 1847-1849, 1907-1936(1)
+2 CONC .jpg
+2 FORM jpg
+2 TITL New York, County Marriage Records, 1847-1849, 1907-1936
+0 @M191@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\McLaughlin Medi
+2 CONC a\U.S., World War I Draft Registration Cards, 1917-1918.jpg
+2 FORM jpg
+2 TITL U.S., World War I Draft Registration Cards, 1917-1918
+2 _TEXT Registration State: New York; Registration County: Steuben
+3 CONC ; Roll: 1818990; Draft Board: 1
+0 @M192@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\McLaughlin Medi
+2 CONC a\New York, Death Index, 1852-1956.jpg
+2 FORM jpg
+2 TITL New York, Death Index, 1852-1956
+2 _TEXT New York Department of Health; Albany, NY; NY State Death In
+3 CONC dex
+0 @M193@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\McLaughlin Medi
+2 CONC a\U.S. City Directories, 1822-1995(1).jpg
+2 FORM jpg
+2 TITL U.S. City Directories, 1822-1995
+0 @M194@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\McLaughlin Medi
+2 CONC a\1920 United States Federal Census(1)(1).jpg
+2 FORM jpg
+2 TITL 1920 United States Federal Census
+2 _TEXT Year: 1920; Census Place: Hornby, Steuben, New York; Roll: T
+3 CONC 625_1267; Page: 5B; Enumeration District: 114
+0 @M195@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\McLaughlin Medi
+2 CONC a\1940 United States Federal Census(2).jpg
+2 FORM jpg
+2 TITL 1940 United States Federal Census
+2 _TEXT Year: 1940; Census Place: Hornby, Steuben, New York; Roll: m
+3 CONC -t0627-02781; Page: 3B; Enumeration District: 51-54
+0 @M196@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\McLaughlin Medi
+2 CONC a\1930 United States Federal Census(2).jpg
+2 FORM jpg
+2 TITL 1930 United States Federal Census
+2 _TEXT Year: 1930; Census Place: Hornby, Steuben, New York; Page: 2
+3 CONC B; Enumeration District: 0044; FHL microfilm: 2341382
+0 @M197@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\McLaughlin Medi
+2 CONC a\1930 United States Federal Census(3).jpg
+2 FORM jpg
+2 TITL 1930 United States Federal Census
+2 _TEXT Year: 1930; Census Place: Corning, Steuben, New York; Page
+3 CONC : 5A; Enumeration District: 0024; FHL microfilm: 2341382
+0 @M198@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\McLaughlin Medi
+2 CONC a\1940 United States Federal Census(5).jpg
+2 FORM jpg
+2 TITL 1940 United States Federal Census
+2 _TEXT Year: 1940; Census Place: Corning, Steuben, New York; Roll
+3 CONC : m-t0627-02781; Page: 61A; Enumeration District: 51-33
+0 @M199@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\McLaughlin Medi
+2 CONC a\1940 United States Federal Census(1)(1).jpg
+2 FORM jpg
+2 TITL 1940 United States Federal Census
+2 _TEXT Year: 1940; Census Place: Painted Post, Steuben, New York; R
+3 CONC oll: m-t0627-02781; Page: 6B; Enumeration District: 51-48
+0 @M200@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\McLaughlin Medi
+2 CONC a\New York State, Marriage Index, 1881-1967(1)(1).jpg
+2 FORM jpg
+2 TITL New York State, Marriage Index, 1881-1967
+2 _TEXT New York State Department of Health; Albany, NY, USA; New Yo
+3 CONC rk State Marriage Index
+0 @M201@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\McLaughlin Medi
+2 CONC a\New York, State Census, 1925(2).jpg
+2 FORM jpg
+2 TITL New York, State Census, 1925
+2 _TEXT New York State Archives; Albany, New York; State Populatio
+3 CONC n Census Schedules, 1925; Election District: 04; Assembly Di
+3 CONC strict: 01; City: Corning; County: Steuben; Page: 33
+0 @M202@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\McLaughlin Medi
+2 CONC a\New York State, Birth Index, 1881-1942(1).jpg
+2 FORM jpg
+2 TITL New York State, Birth Index, 1881-1942
+2 _TEXT New York State Department of Health; Albany, NY, USA; New Yo
+3 CONC rk State Birth Index
+0 @M203@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\McLaughlin Medi
+2 CONC a\New York, County Marriage Records, 1847-1849, 1907-1936(1)
+2 CONC (1).jpg
+2 FORM jpg
+2 TITL New York, County Marriage Records, 1847-1849, 1907-1936
+0 @M204@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\McLaughlin Medi
+2 CONC a\New York State, Birth Index, 1881-1942.jpg
+2 FORM jpg
+2 TITL New York State, Birth Index, 1881-1942
+2 _TEXT New York State Department of Health; Albany, NY, USA; New Yo
+3 CONC rk State Birth Index
+0 @M205@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\McLaughlin Medi
+2 CONC a\U.S. City Directories, 1822-1995.jpg
+2 FORM jpg
+2 TITL U.S. City Directories, 1822-1995
+0 @M206@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\McLaughlin Medi
+2 CONC a\New York State, Marriage Index, 1881-1967(2).jpg
+2 FORM jpg
+2 TITL New York State, Marriage Index, 1881-1967
+2 _TEXT New York State Department of Health; Albany, NY, USA; New Yo
+3 CONC rk State Marriage Index
 0 TRLR
