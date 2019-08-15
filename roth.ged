@@ -3,7 +3,7 @@
 1 GEDC
 2 VERS 5.5.1
 2 FORM LINEAGE-LINKED
-1 COPR Copyright © 1998–2018, Christopher Alan Mosher, Shelton, CT
+1 COPR Copyright © 1998–2019, Christopher Alan Mosher, Shelton, CT
 2 CONC , USA.
 1 SUBM @Umy2qBWIRUiwVSS6Hcn4@
 1 SOUR FTM
@@ -14,9 +14,9 @@
 4 CONT Boston, MA 02109
 3 PHON (617) 227-6681
 1 DEST FTM
-1 FILE Roth_2019-03-31-14-10-50.ftm.ged
-1 DATE 31 MAR 2019
-2 TIME 14:33:27
+1 FILE Roth_2019-08-15-01-10-52.ftm.ged
+1 DATE 15 AUG 2019
+2 TIME 01:12:11
 0 @Umy2qBWIRUiwVSS6Hcn4@ SUBM
 1 NAME Christopher Alan Mosher
 2 EMAIL cmosher01@@gmail.com
@@ -1840,6 +1840,7 @@
 1 DEAT
 2 PLAC Italy
 0 @I106@ INDI
+1 REFN 96e35e87-7c6f-430f-8487-37307c1235fd
 1 NAME Leah /Dell/
 1 SEX F
 1 FAMC @F78@
@@ -5523,6 +5524,7 @@
 3 _APID 1,2442::13421279
 2 NOTE Marital Status: Single; Relation to Head of House: Son
 0 @I102@ INDI
+1 REFN b6ec09a6-bbee-4fba-9435-927ec5fb36db
 1 NAME Louis /Roth/
 1 SEX M
 1 FAMC @F75@
@@ -6097,18 +6099,21 @@
 3 _APID 1,6061::81727009
 2 NOTE Relation to Head: Mother; Residence Marital Status: Widowed
 0 @I101@ INDI
+1 REFN 8310044f-938b-4754-8854-c4896d2a3fba
 1 NAME /unknown/
 1 SEX M
 1 FAMS @F75@
 1 BIRT
 2 DATE ABT 1900
 0 @I103@ INDI
+1 REFN 06ad6e47-b28e-4815-92cc-6355396aa355
 1 NAME /Wescourt/
 1 SEX M
 1 FAMS @F76@
 1 BIRT
 2 DATE ABT 1905
 0 @I104@ INDI
+1 REFN 51c84f97-6f15-4666-a6de-1be8ce7ff9be
 1 NAME Mark /Wescourt/
 1 SEX M
 1 FAMC @F76@
@@ -6116,6 +6121,7 @@
 1 BIRT
 2 DATE ABT 1954
 0 @I105@ INDI
+1 REFN ee131a23-7aad-42bf-8d29-03a15b9f58f1
 1 NAME Zachary /Wescourt/
 1 SEX M
 1 FAMC @F77@
