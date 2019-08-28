@@ -3,7 +3,7 @@
 1 GEDC
 2 VERS 5.5.1
 2 FORM LINEAGE-LINKED
-1 COPR Copyright © 1998–2018, Christopher Alan Mosher, Shelton, CT
+1 COPR Copyright © 1998–2019, Christopher Alan Mosher, Shelton, CT
 2 CONC , USA.
 1 SUBM @Umy2qBWIRUiwVSS6Hcn4@
 1 SOUR FTM
@@ -14,9 +14,9 @@
 4 CONT Boston, MA 02109
 3 PHON (617) 227-6681
 1 DEST FTM
-1 FILE Disosway_2018-10-10-02-31-25.ftm.ged
-1 DATE 10 OCT 2018
-2 TIME 02:32:06
+1 FILE Disosway_2019-08-28-01-08-53.ftm.ged
+1 DATE 28 AUG 2019
+2 TIME 01:11:13
 0 @Umy2qBWIRUiwVSS6Hcn4@ SUBM
 1 NAME Christopher Alan Mosher
 2 EMAIL cmosher01@@gmail.com
@@ -310,6 +310,26 @@
 1 FAMS @0jhtyRnORVqxThrI5ZWx@
 1 FAMS @eEvI0IeVQ9urV99tIq1b@
 1 _XY 147756 935
+0 @I224@ INDI
+1 NAME Loren Frank Stanley /Burrows/
+2 SOUR @xYrZTuCJT5Sl3l1J5I0J@
+3 OBJE @M153@
+2 SOUR @xYrZTuCJT5Sl3l1J5I0J@
+3 OBJE @M154@
+1 SEX M
+1 FAMS @F169@
+1 BIRT
+2 DATE ABT 1905
+1 RESI
+2 DATE 1947
+2 PLAC 4016 Swiss Avenue, Dallas, Dallas, Texas, USA
+2 SOUR @xYrZTuCJT5Sl3l1J5I0J@
+3 OBJE @M153@
+1 RESI
+2 DATE 1948
+2 PLAC 4016 Swiss Avenue, Dallas, Dallas, Texas, USA
+2 SOUR @xYrZTuCJT5Sl3l1J5I0J@
+3 OBJE @M154@
 0 @0DdMsCfHRpecsvpDzZNx@ INDI
 1 REFN cf69245d-6ed0-4b83-a8d3-affba3e6b015
 1 NAME Moses Mansfield /Campfield/
@@ -789,6 +809,14 @@
 2 SOUR @k1pgRwMIQJiAwQqZN0Hx@
 3 QUAY 1
 1 _XY 147101 928
+0 @I211@ INDI
+1 NAME Ira W. /Davis/
+2 SOUR @S145@
+3 _APID 1,61383::469472
+2 SOUR @S146@
+3 _APID 1,60183::948175
+1 SEX M
+1 FAMS @F163@
 0 @KShlMXNFS0eOD2f7hhwH@ INDI
 1 REFN 56c02524-f931-4a61-8378-03c400853af2
 1 NAME Marcus /de Sauchoy/
@@ -1020,6 +1048,122 @@
 3 CONT ", Susana
 3 CONT ", Elizabeth
 1 _XY 141105 1291
+0 @I227@ INDI
+1 NAME Willian Ernest /Disesway/
+2 SOUR @wxX1H8IFSjaxNCTLcV9E@
+3 OBJE @M138@
+1 SEX M
+1 FAMC @F164@
+1 BIRT
+2 DATE 16 JUN 1920
+2 PLAC New Bern, Craven, North Carolina, USA
+3 MAP
+4 LATI N35.1085
+4 LONG W77.0441
+2 SOUR @wxX1H8IFSjaxNCTLcV9E@
+3 OBJE @M138@
+1 DEAT
+2 DATE 22 DEC 1920
+2 PLAC New Bern, Craven, North Carolina, USA
+3 MAP
+4 LATI N35.1085
+4 LONG W77.0441
+2 SOUR @wxX1H8IFSjaxNCTLcV9E@
+3 OBJE @M138@
+1 BURI
+2 DATE 23 DEC 1920
+2 SOUR @wxX1H8IFSjaxNCTLcV9E@
+3 OBJE @M138@
+0 @I208@ INDI
+1 NAME /Disosway/
+2 SOUR @S149@
+3 PAGE Georgia Department of Health and Vital Statistics; Atlanta
+4 CONC , Georgia
+3 OBJE @M121@
+3 _APID 1,2562::79333
+1 SEX M
+1 FAMC @F168@
+1 BIRT
+2 DATE 28 MAR 1920
+2 PLAC Atlanta, Fulton, Georgia, USA
+3 MAP
+4 LATI N33.7489
+4 LONG W84.388
+2 SOUR @S149@
+3 PAGE Georgia Department of Health and Vital Statistics; Atlanta
+4 CONC , Georgia
+3 OBJE @M121@
+3 _APID 1,2562::79333
+1 DEAT
+2 DATE 29 MAR 1920
+2 PLAC Atlanta, Fulton, Georgia, USA
+3 MAP
+4 LATI N33.7489
+4 LONG W84.388
+2 SOUR @S149@
+3 PAGE Georgia Department of Health and Vital Statistics; Atlanta
+4 CONC , Georgia
+3 OBJE @M121@
+3 _APID 1,2562::79333
+0 @I223@ INDI
+1 NAME Alice Wimberly /Disosway/
+2 SOUR @mbOG3UlsTAK4huKXCtuf@
+3 PAGE Year: 1920; Census Place: Dallas Precinct 18, Dallas, Texas
+4 CONC ; Roll: T625_1792; Page: 25A; Enumeration District: 34
+3 OBJE @M145@
+2 SOUR @hw8RVkrRR3O68OmEfNIx@
+3 PAGE Texas Department of State Health Services; Austin Texas, USA
+3 OBJE @M147@
+2 SOUR @xYrZTuCJT5Sl3l1J5I0J@
+3 OBJE @M153@
+2 SOUR @xYrZTuCJT5Sl3l1J5I0J@
+3 OBJE @M154@
+1 SEX F
+1 FAMC @F167@
+1 FAMS @F169@
+1 BIRT
+2 DATE 26 JUN 1906
+2 PLAC Dallas, Dallas, Texas, USA
+3 MAP
+4 LATI N32.7833
+4 LONG W96.8
+2 SOUR @mbOG3UlsTAK4huKXCtuf@
+3 PAGE Year: 1920; Census Place: Dallas Precinct 18, Dallas, Texas
+4 CONC ; Roll: T625_1792; Page: 25A; Enumeration District: 34
+3 OBJE @M145@
+2 SOUR @hw8RVkrRR3O68OmEfNIx@
+3 PAGE Texas Department of State Health Services; Austin Texas, USA
+3 OBJE @M147@
+1 RESI
+2 DATE 1920
+2 PLAC Dallas, Dallas, Texas, USA
+3 MAP
+4 LATI N32.7833
+4 LONG W96.8
+2 SOUR @mbOG3UlsTAK4huKXCtuf@
+3 PAGE Year: 1920; Census Place: Dallas Precinct 18, Dallas, Texas
+4 CONC ; Roll: T625_1792; Page: 25A; Enumeration District: 34
+3 OBJE @M145@
+2 NOTE Relation to Head: Daughter; Residence Marital Status: Single
+1 RESI
+2 DATE 1947
+2 PLAC 4016 Swiss Avenue, Dallas, Dallas, Texas, USA
+2 SOUR @xYrZTuCJT5Sl3l1J5I0J@
+3 OBJE @M153@
+1 RESI
+2 DATE 1948
+2 PLAC 4016 Swiss Avenue, Dallas, Dallas, Texas, USA
+2 SOUR @xYrZTuCJT5Sl3l1J5I0J@
+3 OBJE @M154@
+1 DEAT
+2 DATE 29 AUG 1964
+2 PLAC Dallas, Dallas, Texas, USA
+3 MAP
+4 LATI N32.7833
+4 LONG W96.8
+2 SOUR @hw8RVkrRR3O68OmEfNIx@
+3 PAGE Texas Department of State Health Services; Austin Texas, USA
+3 OBJE @M147@
 0 @kcNoXyPBS2ugXcf5klBF@ INDI
 1 REFN bfd70c33-7f8e-4466-8f77-70f1b2a4eb8e
 1 NAME Ann Ford /Disosway/
@@ -1142,6 +1286,164 @@
 1 BIRT
 2 DATE ABT JUN 1722
 1 _XY 141181 1598
+0 @I212@ INDI
+1 NAME Annie Earle /Disosway/
+2 SOUR @mC86ry2oSHmh7nonL8Y1@
+3 PAGE Year: 1900; Census Place: Newbern, Craven, North Carolina; P
+4 CONC age: 8; Enumeration District: 0054; FHL microfilm: 1241190
+3 OBJE @M124@
+2 SOUR @hIIkniqYQk2sh1jQxPat@
+3 PAGE Year: 1910; Census Place: Warwick, Kent, Rhode Island; Roll
+4 CONC : T624_1436; Page: 2A; Enumeration District: 0015; FHL micro
+4 CONC film: 1375449
+3 OBJE @M136@
+2 SOUR @mbOG3UlsTAK4huKXCtuf@
+3 PAGE Year: 1920; Census Place: New Bern Ward 4, Craven, North Car
+4 CONC olina; Roll: T625_1293; Page: 1A; Enumeration District: 25
+3 OBJE @M125@
+2 SOUR @BEYQ3rohSvuIt3MHvlS4@
+3 PAGE Year: 1930; Census Place: New Bern, Craven, North Carolina
+4 CONC ; Page: 28B; Enumeration District: 0020; FHL microfilm: 2341
+4 CONC 417
+3 OBJE @M131@
+2 SOUR @NpC4GLt3TzSSPnje90b3@
+3 PAGE Year: 1940; Census Place: New Bern, Craven, North Carolina
+4 CONC ; Roll: m-t0627-02894; Page: 2B; Enumeration District: 25-25
+3 OBJE @M135@
+2 SOUR @6kNViZwoSmqHOu7WQ1UO@
+3 PAGE North Carolina State Archives; Raleigh, North Carolina; Nort
+4 CONC h Carolina Death Certificates
+3 OBJE @M126@
+2 SOUR @GAkjO55IQZSzwB3cRXXa@
+3 OBJE @M130@
+2 SOUR @wxX1H8IFSjaxNCTLcV9E@
+3 OBJE @M129@
+2 SOUR @6HNc22TuRWeAwAmhL5cp@
+3 OBJE @M128@
+2 SOUR @6HNc22TuRWeAwAmhL5cp@
+3 OBJE @M134@
+2 SOUR @xYrZTuCJT5Sl3l1J5I0J@
+3 OBJE @M127@
+1 SEX F
+1 FAMC @idqxJ6GMTPCd5TvMdNJd@
+1 FAMS @F165@
+1 FAMS @F166@
+1 BIRT
+2 DATE 30 OCT 1892
+2 PLAC New Bern, Craven, North Carolina, USA
+3 MAP
+4 LATI N35.1085
+4 LONG W77.0441
+2 SOUR @mC86ry2oSHmh7nonL8Y1@
+3 PAGE Year: 1900; Census Place: Newbern, Craven, North Carolina; P
+4 CONC age: 8; Enumeration District: 0054; FHL microfilm: 1241190
+3 OBJE @M124@
+2 SOUR @hIIkniqYQk2sh1jQxPat@
+3 PAGE Year: 1910; Census Place: Warwick, Kent, Rhode Island; Roll
+4 CONC : T624_1436; Page: 2A; Enumeration District: 0015; FHL micro
+4 CONC film: 1375449
+3 OBJE @M136@
+2 SOUR @mbOG3UlsTAK4huKXCtuf@
+3 PAGE Year: 1920; Census Place: New Bern Ward 4, Craven, North Car
+4 CONC olina; Roll: T625_1293; Page: 1A; Enumeration District: 25
+3 OBJE @M125@
+2 SOUR @BEYQ3rohSvuIt3MHvlS4@
+3 PAGE Year: 1930; Census Place: New Bern, Craven, North Carolina
+4 CONC ; Page: 28B; Enumeration District: 0020; FHL microfilm: 2341
+4 CONC 417
+3 OBJE @M131@
+2 SOUR @NpC4GLt3TzSSPnje90b3@
+3 PAGE Year: 1940; Census Place: New Bern, Craven, North Carolina
+4 CONC ; Roll: m-t0627-02894; Page: 2B; Enumeration District: 25-25
+3 OBJE @M135@
+2 SOUR @6kNViZwoSmqHOu7WQ1UO@
+3 PAGE North Carolina State Archives; Raleigh, North Carolina; Nort
+4 CONC h Carolina Death Certificates
+3 OBJE @M126@
+2 SOUR @GAkjO55IQZSzwB3cRXXa@
+3 OBJE @M130@
+2 SOUR @6HNc22TuRWeAwAmhL5cp@
+3 OBJE @M128@
+2 SOUR @6HNc22TuRWeAwAmhL5cp@
+3 OBJE @M134@
+1 RESI
+2 DATE 1900
+2 PLAC New Bern, Craven, North Carolina, USA
+3 MAP
+4 LATI N35.1085
+4 LONG W77.0441
+2 SOUR @mC86ry2oSHmh7nonL8Y1@
+3 PAGE Year: 1900; Census Place: Newbern, Craven, North Carolina; P
+4 CONC age: 8; Enumeration District: 0054; FHL microfilm: 1241190
+3 OBJE @M124@
+2 NOTE Marital Status: Single; Relation to Head: Daughter
+1 RESI
+2 DATE 1910
+2 PLAC Warwick, Kent, Rhode Island, USA
+3 MAP
+4 LATI N41.7001
+4 LONG W71.4162
+2 SOUR @hIIkniqYQk2sh1jQxPat@
+3 PAGE Year: 1910; Census Place: Warwick, Kent, Rhode Island; Roll
+4 CONC : T624_1436; Page: 2A; Enumeration District: 0015; FHL micro
+4 CONC film: 1375449
+3 OBJE @M136@
+2 NOTE Marital Status: Married; Relation to Head of House: Boarder
+1 RESI
+2 DATE 1920
+2 PLAC New Bern, Craven, North Carolina, USA
+3 MAP
+4 LATI N35.1085
+4 LONG W77.0441
+2 SOUR @mbOG3UlsTAK4huKXCtuf@
+3 PAGE Year: 1920; Census Place: New Bern Ward 4, Craven, North Car
+4 CONC olina; Roll: T625_1293; Page: 1A; Enumeration District: 25
+3 OBJE @M125@
+2 NOTE Relation to Head: Daughter; Residence Marital Status: Widowe
+3 CONC d
+1 RESI
+2 DATE 1930
+2 PLAC New Bern, Craven, North Carolina, USA
+3 MAP
+4 LATI N35.1085
+4 LONG W77.0441
+2 SOUR @BEYQ3rohSvuIt3MHvlS4@
+3 PAGE Year: 1930; Census Place: New Bern, Craven, North Carolina
+4 CONC ; Page: 28B; Enumeration District: 0020; FHL microfilm: 2341
+4 CONC 417
+3 OBJE @M131@
+2 NOTE Marital Status: Widowed; Relation to Head: Daughter
+1 RESI
+2 DATE 1940
+2 PLAC New Bern, Craven, North Carolina, USA
+3 MAP
+4 LATI N35.1085
+4 LONG W77.0441
+2 SOUR @NpC4GLt3TzSSPnje90b3@
+3 PAGE Year: 1940; Census Place: New Bern, Craven, North Carolina
+4 CONC ; Roll: m-t0627-02894; Page: 2B; Enumeration District: 25-25
+3 OBJE @M135@
+2 NOTE Marital Status: Married; Relation to Head: Daughter
+1 RESI
+2 DATE 1947
+2 PLAC New Bern, Craven, North Carolina, USA
+3 MAP
+4 LATI N35.1085
+4 LONG W77.0441
+2 SOUR @xYrZTuCJT5Sl3l1J5I0J@
+3 OBJE @M127@
+1 DEAT
+2 DATE 28 JUN 1949
+2 PLAC New Bern, Craven, North Carolina, USA
+3 MAP
+4 LATI N35.1085
+4 LONG W77.0441
+2 SOUR @6kNViZwoSmqHOu7WQ1UO@
+3 PAGE North Carolina State Archives; Raleigh, North Carolina; Nort
+4 CONC h Carolina Death Certificates
+3 OBJE @M126@
+2 SOUR @GAkjO55IQZSzwB3cRXXa@
+3 OBJE @M130@
 0 @Gtdp4EooRyOy1IMcMku1@ INDI
 1 REFN 8206c888-c1c1-4501-8a71-80c55996646e
 1 NAME Catherine /Disosway/
@@ -1289,14 +1591,24 @@
 4 CONC film: 1375557
 3 OBJE @cuVutBbIRVqZJyRzFM8F@
 3 _APID 1,7884::27893000
+2 SOUR @mbOG3UlsTAK4huKXCtuf@
+3 PAGE Year: 1920; Census Place: Dallas Precinct 18, Dallas, Texas
+4 CONC ; Roll: T625_1792; Page: 25A; Enumeration District: 34
+3 OBJE @M145@
 2 SOUR @qpv76emtRaiIRfvwnsEv@
 3 PAGE Ancestry Family Tree
 3 DATA
 4 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=62861
 5 CONC &pid=85
+2 SOUR @hw8RVkrRR3O68OmEfNIx@
+3 PAGE Texas Department of State Health Services; Austin Texas, USA
+3 OBJE @M147@
+2 SOUR @xYrZTuCJT5Sl3l1J5I0J@
+3 OBJE @M148@
 2 SOUR @njO84UTbRyiwhJf5SEsv@
 1 SEX M
 1 FAMC @jyCZPToSQBOp98OgIwfM@
+1 FAMS @F167@
 1 BIRT
 2 DATE NOV 1866
 2 PLAC North Carolina, USA
@@ -1327,6 +1639,10 @@
 4 CONC film: 1375557
 3 OBJE @cuVutBbIRVqZJyRzFM8F@
 3 _APID 1,7884::27893000
+2 SOUR @mbOG3UlsTAK4huKXCtuf@
+3 PAGE Year: 1920; Census Place: Dallas Precinct 18, Dallas, Texas
+4 CONC ; Roll: T625_1792; Page: 25A; Enumeration District: 34
+3 OBJE @M145@
 2 NOTE 1900 census (Atlanta, GA)
 1 RESI
 2 DATE 1870
@@ -1383,6 +1699,17 @@
 3 _APID 1,7884::27893000
 2 NOTE Age: 44; Marital Status: Married; Relation to Head of House
 3 CONC : Boarder
+1 RESI
+2 DATE 1920
+2 PLAC Dallas, Dallas, Texas, USA
+3 MAP
+4 LATI N32.7833
+4 LONG W96.8
+2 SOUR @mbOG3UlsTAK4huKXCtuf@
+3 PAGE Year: 1920; Census Place: Dallas Precinct 18, Dallas, Texas
+4 CONC ; Roll: T625_1792; Page: 25A; Enumeration District: 34
+3 OBJE @M145@
+2 NOTE Relation to Head: Head; Residence Marital Status: Married
 1 _XY 143824 2091
 0 @uoAUJoBSS8qbSTd7LCqs@ INDI
 1 REFN 547a014e-d256-40cd-90b8-635b8a5fe14b
@@ -1412,6 +1739,35 @@
 2 SOUR @t4PqyKXaQz6rIP3vJn8r@
 3 QUAY 1
 1 _XY 141063 1488
+0 @I228@ INDI
+1 NAME Donald Justice /Disosway/
+2 SOUR @mbOG3UlsTAK4huKXCtuf@
+3 PAGE Year: 1920; Census Place: New Bern Ward 4, Craven, North Car
+4 CONC olina; Roll: T625_1293; Page: 1A; Enumeration District: 25
+3 OBJE @M125@
+1 SEX M
+1 FAMC @F164@
+1 BIRT
+2 DATE ABT 1917
+2 PLAC North Carolina, USA
+3 MAP
+4 LATI N35.175
+4 LONG W79.125
+2 SOUR @mbOG3UlsTAK4huKXCtuf@
+3 PAGE Year: 1920; Census Place: New Bern Ward 4, Craven, North Car
+4 CONC olina; Roll: T625_1293; Page: 1A; Enumeration District: 25
+3 OBJE @M125@
+1 RESI
+2 DATE 1920
+2 PLAC New Bern, Craven, North Carolina, USA
+3 MAP
+4 LATI N35.1085
+4 LONG W77.0441
+2 SOUR @mbOG3UlsTAK4huKXCtuf@
+3 PAGE Year: 1920; Census Place: New Bern Ward 4, Craven, North Car
+4 CONC olina; Roll: T625_1293; Page: 1A; Enumeration District: 25
+3 OBJE @M125@
+2 NOTE Relation to Head: Grandson; Residence Marital Status: Single
 0 @uo1fmnZ0QNu0m8XaC5DH@ INDI
 1 REFN e83a66dd-7547-4967-b454-a121ee1b5488
 1 NAME Elizabeth /Disosway/
@@ -1424,6 +1780,40 @@
 2 SOUR @t4PqyKXaQz6rIP3vJn8r@
 3 QUAY 1
 1 _XY 140664 1488
+0 @I222@ INDI
+1 NAME Elizabeth Park /Disosway/
+2 SOUR @mbOG3UlsTAK4huKXCtuf@
+3 PAGE Year: 1920; Census Place: Dallas Precinct 18, Dallas, Texas
+4 CONC ; Roll: T625_1792; Page: 25A; Enumeration District: 34
+3 OBJE @M145@
+2 SOUR @S145@
+3 _APID 1,61383::900469472
+2 SOUR @S146@
+3 _APID 1,60183::948194
+1 SEX F
+1 FAMC @F167@
+1 FAMS @F163@
+1 BIRT
+2 DATE ABT 1905
+2 PLAC Texas, USA
+3 MAP
+4 LATI N31.1667
+4 LONG W98.925
+2 SOUR @mbOG3UlsTAK4huKXCtuf@
+3 PAGE Year: 1920; Census Place: Dallas Precinct 18, Dallas, Texas
+4 CONC ; Roll: T625_1792; Page: 25A; Enumeration District: 34
+3 OBJE @M145@
+1 RESI
+2 DATE 1920
+2 PLAC Dallas, Dallas, Texas, USA
+3 MAP
+4 LATI N32.7833
+4 LONG W96.8
+2 SOUR @mbOG3UlsTAK4huKXCtuf@
+3 PAGE Year: 1920; Census Place: Dallas Precinct 18, Dallas, Texas
+4 CONC ; Roll: T625_1792; Page: 25A; Enumeration District: 34
+3 OBJE @M145@
+2 NOTE Relation to Head: Daughter; Residence Marital Status: Single
 0 @akkH4Wi1TkCjtZwtK4ww@ INDI
 1 REFN a92e9e1f-0e6a-4cdd-9212-e3cee4319240
 1 NAME Emma Ellen /Disosway/
@@ -1615,7 +2005,6 @@
 5 CONC &pid=84
 2 SOUR @69q3fvyiQfiwmy10eHKm@
 3 QUAY 1
-2 SOUR @EaBDHOKwQruLeNxgU9qi@
 2 SOUR @6kNViZwoSmqHOu7WQ1UO@
 3 OBJE @T1syScFlQaKO4pVtxXMc@
 3 _APID 1,1121::831611
@@ -1731,7 +2120,6 @@
 1 DEAT
 2 DATE 26 FEB 1954
 2 PLAC 35 Bearden Street, Asheville, Buncombe, North Carolina, USA
-2 SOUR @EaBDHOKwQruLeNxgU9qi@
 2 SOUR @J5VIQZ2QT8av3dwSoZjh@
 3 QUAY 3
 2 SOUR @6kNViZwoSmqHOu7WQ1UO@
@@ -2040,6 +2428,50 @@
 2 SOUR @q7EjXFekQ2GhXPFge5K6@
 3 QUAY 1
 1 _XY 141582 1598
+0 @I210@ INDI
+1 NAME George Harsh /Disosway/
+2 SOUR @BEYQ3rohSvuIt3MHvlS4@
+3 PAGE Year: 1930; Census Place: Buckhead, Fulton, Georgia; Page: 1
+4 CONC 2B; Enumeration District: 0147; FHL microfilm: 2340092
+3 OBJE @M122@
+2 SOUR @S152@
+3 PAGE Issue State: Georgia; Issue Date: Before 1951
+3 _APID 1,3693::77351476
+1 SEX M
+1 FAMC @F168@
+1 BIRT
+2 DATE 04 DEC 1926
+2 PLAC Georgia, USA
+3 MAP
+4 LATI N32.7583
+4 LONG W82.5583
+2 SOUR @BEYQ3rohSvuIt3MHvlS4@
+3 PAGE Year: 1930; Census Place: Buckhead, Fulton, Georgia; Page: 1
+4 CONC 2B; Enumeration District: 0147; FHL microfilm: 2340092
+3 OBJE @M122@
+2 SOUR @S152@
+3 PAGE Issue State: Georgia; Issue Date: Before 1951
+3 _APID 1,3693::77351476
+1 RESI
+2 DATE 1930
+2 PLAC Buckhead, Fulton, Georgia, USA
+3 MAP
+4 LATI N33.5685
+4 LONG W83.3624
+2 SOUR @BEYQ3rohSvuIt3MHvlS4@
+3 PAGE Year: 1930; Census Place: Buckhead, Fulton, Georgia; Page: 1
+4 CONC 2B; Enumeration District: 0147; FHL microfilm: 2340092
+3 OBJE @M122@
+2 NOTE Marital Status: Single; Relation to Head: Son
+1 DEAT
+2 DATE 15 MAR 2006
+2 PLAC Winnemucca, Humboldt, Nevada, USA
+3 MAP
+4 LATI N40.973
+4 LONG W117.7357
+2 SOUR @S152@
+3 PAGE Issue State: Georgia; Issue Date: Before 1951
+3 _APID 1,3693::77351476
 0 @d2mZZbDyRCKH2NvV0RQD@ INDI
 1 REFN a12bf0d7-8ad0-469e-8e9f-d2f295d502cb
 1 NAME Hannah /Disosway/
@@ -3116,6 +3548,192 @@
 2 NOTE Need to check original source: Commercial Advertiser, NY, 2
 3 CONC 2 Jun 1813.
 1 _XY 140982 1699
+0 @I209@ INDI
+1 NAME Jack /Disosway/
+2 SOUR @BEYQ3rohSvuIt3MHvlS4@
+3 PAGE Year: 1930; Census Place: Buckhead, Fulton, Georgia; Page: 1
+4 CONC 2B; Enumeration District: 0147; FHL microfilm: 2340092
+3 OBJE @M122@
+1 SEX M
+1 FAMC @F168@
+1 BIRT
+2 DATE ABT 1923
+2 PLAC Georgia, USA
+3 MAP
+4 LATI N32.7583
+4 LONG W82.5583
+2 SOUR @BEYQ3rohSvuIt3MHvlS4@
+3 PAGE Year: 1930; Census Place: Buckhead, Fulton, Georgia; Page: 1
+4 CONC 2B; Enumeration District: 0147; FHL microfilm: 2340092
+3 OBJE @M122@
+1 RESI
+2 DATE 1930
+2 PLAC Buckhead, Fulton, Georgia, USA
+3 MAP
+4 LATI N33.5685
+4 LONG W83.3624
+2 SOUR @BEYQ3rohSvuIt3MHvlS4@
+3 PAGE Year: 1930; Census Place: Buckhead, Fulton, Georgia; Page: 1
+4 CONC 2B; Enumeration District: 0147; FHL microfilm: 2340092
+3 OBJE @M122@
+2 NOTE Marital Status: Single; Relation to Head: Son
+0 @2FXSVkJcRauyCWJUaelp@ INDI
+1 REFN 3935c8dc-c8da-4fc0-aed6-603c39d7dcae
+1 NAME Jackson John Schenck /Disosway/
+2 SOUR @mC86ry2oSHmh7nonL8Y1@
+3 PAGE Year: 1900; Census Place: Atlanta Ward 6, Fulton, Georgia; R
+4 CONC oll: 200; Page: 2A; Enumeration District: 0079; FHL microfil
+4 CONC m: 1240200
+3 OBJE @8A8JCE3iRJKV10zlmsD3@
+3 _APID 1,7602::77199161
+2 SOUR @hIIkniqYQk2sh1jQxPat@
+3 PAGE Year: 1910; Census Place: Atlanta Ward 8, Fulton, Georgia; R
+4 CONC oll: T624_192; Page: 5B; Enumeration District: 0101; FHL mic
+4 CONC rofilm: 1374205
+3 OBJE @QnFGs5byRWWxmu9KovT9@
+3 _APID 1,7884::147135039
+2 SOUR @mbOG3UlsTAK4huKXCtuf@
+3 PAGE Year: 1920; Census Place: Atlanta Ward 8, Fulton, Georgia; R
+4 CONC oll: T625_253; Page: 20B; Enumeration District: 126
+3 OBJE @M123@
+2 SOUR @BEYQ3rohSvuIt3MHvlS4@
+3 PAGE Year: 1930; Census Place: Buckhead, Fulton, Georgia; Page: 1
+4 CONC 2B; Enumeration District: 0147; FHL microfilm: 2340092
+3 OBJE @M122@
+2 SOUR @S149@
+3 PAGE Georgia Department of Health and Vital Statistics; Atlanta
+4 CONC , Georgia
+3 OBJE @M121@
+3 _APID 1,2562::60079333
+2 SOUR @S148@
+3 OBJE @M150@
+3 _APID 1,3129::30985
+2 SOUR @tHaF8jEmQ2iLaD1A0WWD@
+3 OBJE @M146@
+2 SOUR @kRuFRPwjRGW6pfPCjXRF@
+3 _APID 1,60901::9280457
+1 SEX M
+1 FAMC @D8xlYLEfRmGBNIIwnLig@
+1 FAMS @F168@
+1 BIRT
+2 DATE 25 JUN 1895
+2 PLAC Old Fort, McDowell, North Carolina, USA
+3 MAP
+4 LATI N35.629
+4 LONG W82.1807
+2 SOUR @mC86ry2oSHmh7nonL8Y1@
+3 PAGE Year: 1900; Census Place: Atlanta Ward 6, Fulton, Georgia; R
+4 CONC oll: 200; Page: 2A; Enumeration District: 0079; FHL microfil
+4 CONC m: 1240200
+3 OBJE @8A8JCE3iRJKV10zlmsD3@
+3 _APID 1,7602::77199161
+2 SOUR @hIIkniqYQk2sh1jQxPat@
+3 PAGE Year: 1910; Census Place: Atlanta Ward 8, Fulton, Georgia; R
+4 CONC oll: T624_192; Page: 5B; Enumeration District: 0101; FHL mic
+4 CONC rofilm: 1374205
+3 OBJE @QnFGs5byRWWxmu9KovT9@
+3 _APID 1,7884::147135039
+2 SOUR @mbOG3UlsTAK4huKXCtuf@
+3 PAGE Year: 1920; Census Place: Atlanta Ward 8, Fulton, Georgia; R
+4 CONC oll: T625_253; Page: 20B; Enumeration District: 126
+3 OBJE @M123@
+2 SOUR @BEYQ3rohSvuIt3MHvlS4@
+3 PAGE Year: 1930; Census Place: Buckhead, Fulton, Georgia; Page: 1
+4 CONC 2B; Enumeration District: 0147; FHL microfilm: 2340092
+3 OBJE @M122@
+2 SOUR @S148@
+3 OBJE @M150@
+3 _APID 1,3129::30985
+2 SOUR @kRuFRPwjRGW6pfPCjXRF@
+3 _APID 1,60901::9280457
+1 RESI
+2 DATE 1900
+2 PLAC Atlanta, Fulton, Georgia, USA
+3 MAP
+4 LATI N33.7489
+4 LONG W84.388
+2 SOUR @mC86ry2oSHmh7nonL8Y1@
+3 PAGE Year: 1900; Census Place: Atlanta Ward 6, Fulton, Georgia; R
+4 CONC oll: 200; Page: 2A; Enumeration District: 0079; FHL microfil
+4 CONC m: 1240200
+3 OBJE @8A8JCE3iRJKV10zlmsD3@
+3 _APID 1,7602::77199161
+2 NOTE Marital Status: Single; Relation to Head of House: Son
+1 RESI
+2 DATE 1910
+2 PLAC Atlanta, Fulton, Georgia, USA
+3 MAP
+4 LATI N33.7489
+4 LONG W84.388
+2 SOUR @hIIkniqYQk2sh1jQxPat@
+3 PAGE Year: 1910; Census Place: Atlanta Ward 8, Fulton, Georgia; R
+4 CONC oll: T624_192; Page: 5B; Enumeration District: 0101; FHL mic
+4 CONC rofilm: 1374205
+3 OBJE @QnFGs5byRWWxmu9KovT9@
+3 _APID 1,7884::147135039
+2 NOTE Marital Status: Single; Relation to Head of House: Son
+1 EVEN
+2 TYPE military
+2 DATE 15 AUG 1917
+2 PLAC Atlanta, Fulton, Georgia, USA
+3 MAP
+4 LATI N33.7489
+4 LONG W84.388
+2 SOUR @S148@
+3 OBJE @M150@
+3 _APID 1,3129::30985
+1 RESI
+2 DATE 1920
+2 PLAC Atlanta, Fulton, Georgia, USA
+3 MAP
+4 LATI N33.7489
+4 LONG W84.388
+2 SOUR @mbOG3UlsTAK4huKXCtuf@
+3 PAGE Year: 1920; Census Place: Atlanta Ward 8, Fulton, Georgia; R
+4 CONC oll: T625_253; Page: 20B; Enumeration District: 126
+3 OBJE @M123@
+2 NOTE Relation to Head: Son; Residence Marital Status: Married
+1 RESI
+2 DATE 1930
+2 PLAC Buckhead, Fulton, Georgia, USA
+3 MAP
+4 LATI N33.5685
+4 LONG W83.3624
+2 SOUR @BEYQ3rohSvuIt3MHvlS4@
+3 PAGE Year: 1930; Census Place: Buckhead, Fulton, Georgia; Page: 1
+4 CONC 2B; Enumeration District: 0147; FHL microfilm: 2340092
+3 OBJE @M122@
+2 NOTE Marital Status: Married; Relation to Head: Head
+1 _XY 143994 2327
+0 @I215@ INDI
+1 NAME James C. J. /Disosway/
+2 SOUR @mC86ry2oSHmh7nonL8Y1@
+3 PAGE Year: 1900; Census Place: Newbern, Craven, North Carolina; P
+4 CONC age: 9; Enumeration District: 0054; FHL microfilm: 1241190
+3 OBJE @M140@
+1 SEX M
+1 FAMC @idqxJ6GMTPCd5TvMdNJd@
+1 BIRT
+2 DATE OCT 1898
+2 PLAC North Carolina, USA
+3 MAP
+4 LATI N35.175
+4 LONG W79.125
+2 SOUR @mC86ry2oSHmh7nonL8Y1@
+3 PAGE Year: 1900; Census Place: Newbern, Craven, North Carolina; P
+4 CONC age: 9; Enumeration District: 0054; FHL microfilm: 1241190
+3 OBJE @M140@
+1 RESI
+2 DATE 1900
+2 PLAC New Bern, Craven, North Carolina, USA
+3 MAP
+4 LATI N35.1085
+4 LONG W77.0441
+2 SOUR @mC86ry2oSHmh7nonL8Y1@
+3 PAGE Year: 1900; Census Place: Newbern, Craven, North Carolina; P
+4 CONC age: 9; Enumeration District: 0054; FHL microfilm: 1241190
+3 OBJE @M140@
+2 NOTE Marital Status: Single; Relation to Head: Son
 0 @OEQ7p0gVS9CmhEkLvxwY@ INDI
 1 REFN 4a0a7c89-b934-4b86-9d12-57d2f32a243e
 1 NAME Jane Elizabeth /Disosway/
@@ -3283,6 +3901,10 @@
 4 CONC rofilm: 1374205
 3 OBJE @QnFGs5byRWWxmu9KovT9@
 3 _APID 1,7884::3480453
+2 SOUR @mbOG3UlsTAK4huKXCtuf@
+3 PAGE Year: 1920; Census Place: Atlanta Ward 8, Fulton, Georgia; R
+4 CONC oll: T625_253; Page: 20B; Enumeration District: 126
+3 OBJE @M123@
 2 SOUR @qpv76emtRaiIRfvwnsEv@
 3 PAGE Ancestry Family Tree
 3 DATA
@@ -3290,7 +3912,6 @@
 5 CONC &pid=86
 2 SOUR @69q3fvyiQfiwmy10eHKm@
 3 QUAY 1
-2 SOUR @EaBDHOKwQruLeNxgU9qi@
 2 SOUR @kCzSeQPqSmSRCOREkD1J@
 3 PAGE Passenger Lists of Vessels Arriving at New Orleans, Louisian
 4 CONC a, 1903-1945; Series: T905; Roll #: 127
@@ -3348,6 +3969,10 @@
 4 CONC rofilm: 1374205
 3 OBJE @QnFGs5byRWWxmu9KovT9@
 3 _APID 1,7884::3480453
+2 SOUR @mbOG3UlsTAK4huKXCtuf@
+3 PAGE Year: 1920; Census Place: Atlanta Ward 8, Fulton, Georgia; R
+4 CONC oll: T625_253; Page: 20B; Enumeration District: 126
+3 OBJE @M123@
 2 SOUR @kCzSeQPqSmSRCOREkD1J@
 3 PAGE Passenger Lists of Vessels Arriving at New Orleans, Louisian
 4 CONC a, 1903-1945; Series: T905; Roll #: 127
@@ -3426,6 +4051,17 @@
 2 NOTE Age: 42; Marital Status: Married; Relation to Head of House
 3 CONC : Head
 1 RESI
+2 DATE 1920
+2 PLAC Atlanta, Fulton, Georgia, USA
+3 MAP
+4 LATI N33.7489
+4 LONG W84.388
+2 SOUR @mbOG3UlsTAK4huKXCtuf@
+3 PAGE Year: 1920; Census Place: Atlanta Ward 8, Fulton, Georgia; R
+4 CONC oll: T625_253; Page: 20B; Enumeration District: 126
+3 OBJE @M123@
+2 NOTE Relation to Head: Head; Residence Marital Status: Married
+1 RESI
 2 DATE 1923
 2 PLAC Atlanta, Fulton, Georgia, USA
 3 MAP
@@ -3459,7 +4095,6 @@
 3 MAP
 4 LATI N36.1659
 4 LONG W86.7844
-2 SOUR @EaBDHOKwQruLeNxgU9qi@
 2 SOUR @GAkjO55IQZSzwB3cRXXa@
 3 _APID 1,8908::7031373
 2 SOUR @nQ5QQVctTq2PZDdGIIJM@
@@ -3485,6 +4120,81 @@
 3 OBJE @BoT3IrhGQ7uu4Hx7ivJZ@
 3 _APID 1,7484::972400
 1 _XY 143958 2091
+0 @I229@ INDI
+1 NAME John Justice /Disosway/
+2 SOUR @NpC4GLt3TzSSPnje90b3@
+3 PAGE Year: 1940; Census Place: New Bern, Craven, North Carolina
+4 CONC ; Roll: m-t0627-02894; Page: 2B; Enumeration District: 25-25
+3 OBJE @M135@
+2 SOUR @GAkjO55IQZSzwB3cRXXa@
+2 SOUR @S137@
+3 PAGE Publication Date: 9/ Feb/ 2007; Publication Place: Louisa, V
+4 CONC irginia, USA; URL: http://www.thecentralvirginian.com/Obitua
+4 CONC ries.htm
+3 _APID 1,7545::143834614
+2 SOUR @S136@
+3 PAGE Virginia Department of Health; Richmond, Virginia; Virgini
+4 CONC a Marriages, 1936-2014; Roll: 101168928
+3 OBJE @M139@
+3 _APID 1,9279::11624399
+1 SEX M
+1 FAMC @F164@
+1 FAMS @F171@
+1 BIRT
+2 DATE 19 AUG 1922
+2 PLAC North Carolina, USA
+3 MAP
+4 LATI N35.175
+4 LONG W79.125
+2 SOUR @NpC4GLt3TzSSPnje90b3@
+3 PAGE Year: 1940; Census Place: New Bern, Craven, North Carolina
+4 CONC ; Roll: m-t0627-02894; Page: 2B; Enumeration District: 25-25
+3 OBJE @M135@
+2 SOUR @GAkjO55IQZSzwB3cRXXa@
+2 SOUR @S136@
+3 PAGE Virginia Department of Health; Richmond, Virginia; Virgini
+4 CONC a Marriages, 1936-2014; Roll: 101168928
+3 OBJE @M139@
+3 _APID 1,9279::11624399
+1 RESI
+2 DATE 1940
+2 PLAC New Bern, Craven, North Carolina, USA
+3 MAP
+4 LATI N35.1085
+4 LONG W77.0441
+2 SOUR @NpC4GLt3TzSSPnje90b3@
+3 PAGE Year: 1940; Census Place: New Bern, Craven, North Carolina
+4 CONC ; Roll: m-t0627-02894; Page: 2B; Enumeration District: 25-25
+3 OBJE @M135@
+2 NOTE Marital Status: Single; Relation to Head: Grandson
+1 DEAT
+2 DATE 09 FEB 1984
+2 PLAC New Bern, Craven, North Carolina, USA
+3 MAP
+4 LATI N35.1085
+4 LONG W77.0441
+2 SOUR @GAkjO55IQZSzwB3cRXXa@
+0 @I233@ INDI
+1 NAME John Justice /Disosway/
+2 SOUR @S137@
+3 PAGE Publication Date: 9/ Feb/ 2007; Publication Place: Louisa, V
+4 CONC irginia, USA; URL: http://www.thecentralvirginian.com/Obitua
+4 CONC ries.htm
+3 _APID 1,7545::202882364
+2 SOUR @S136@
+3 PAGE Virginia Department of Health; Richmond, Virginia; Virgini
+4 CONC a Marriages, 1936-2014; Roll: 101176702
+3 OBJE @M155@
+3 _APID 1,9279::12959912
+1 SEX M
+1 FAMC @F171@
+1 BIRT
+2 DATE 02 AUG 1959
+2 SOUR @S136@
+3 PAGE Virginia Department of Health; Richmond, Virginia; Virgini
+4 CONC a Marriages, 1936-2014; Roll: 101176702
+3 OBJE @M155@
+3 _APID 1,9279::12959912
 0 @7HAtf27JTQmNUewNBdRx@ INDI
 1 REFN fe96f200-8262-477e-9bd6-34900638b317
 1 NAME John Richard /Disosway/
@@ -3500,7 +4210,6 @@
 4 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=62861
 5 CONC &pid=82
 2 SOUR @69q3fvyiQfiwmy10eHKm@
-2 SOUR @EaBDHOKwQruLeNxgU9qi@
 2 SOUR @lDuG27hSTACWHq7z54Ba@
 3 _APID 1,60525::66343596
 1 SEX M
@@ -3540,7 +4249,6 @@
 4 LATI N35.1085
 4 LONG W77.0441
 2 SOUR @69q3fvyiQfiwmy10eHKm@
-2 SOUR @EaBDHOKwQruLeNxgU9qi@
 2 SOUR @lDuG27hSTACWHq7z54Ba@
 3 _APID 1,60525::66343596
 2 NOTE Place is assumed. 1860 census give "John I." a female (so i
@@ -3550,72 +4258,6 @@
 2 SOUR @lDuG27hSTACWHq7z54Ba@
 3 _APID 1,60525::66343596
 1 _XY 143357 2091
-0 @2FXSVkJcRauyCWJUaelp@ INDI
-1 REFN 3935c8dc-c8da-4fc0-aed6-603c39d7dcae
-1 NAME John Schenck /Disosway/
-2 SOUR @mC86ry2oSHmh7nonL8Y1@
-3 PAGE Year: 1900; Census Place: Atlanta Ward 6, Fulton, Georgia; R
-4 CONC oll: 200; Page: 2A; Enumeration District: 0079; FHL microfil
-4 CONC m: 1240200
-3 OBJE @8A8JCE3iRJKV10zlmsD3@
-3 _APID 1,7602::77199161
-2 SOUR @hIIkniqYQk2sh1jQxPat@
-3 PAGE Year: 1910; Census Place: Atlanta Ward 8, Fulton, Georgia; R
-4 CONC oll: T624_192; Page: 5B; Enumeration District: 0101; FHL mic
-4 CONC rofilm: 1374205
-3 OBJE @QnFGs5byRWWxmu9KovT9@
-3 _APID 1,7884::147135039
-2 SOUR @kRuFRPwjRGW6pfPCjXRF@
-3 _APID 1,60901::9280457
-1 SEX M
-1 FAMC @D8xlYLEfRmGBNIIwnLig@
-1 BIRT
-2 DATE 25 JUN 1895
-2 PLAC Old Fort, McDowell, North Carolina, USA
-3 MAP
-4 LATI N35.629
-4 LONG W82.1807
-2 SOUR @mC86ry2oSHmh7nonL8Y1@
-3 PAGE Year: 1900; Census Place: Atlanta Ward 6, Fulton, Georgia; R
-4 CONC oll: 200; Page: 2A; Enumeration District: 0079; FHL microfil
-4 CONC m: 1240200
-3 OBJE @8A8JCE3iRJKV10zlmsD3@
-3 _APID 1,7602::77199161
-2 SOUR @hIIkniqYQk2sh1jQxPat@
-3 PAGE Year: 1910; Census Place: Atlanta Ward 8, Fulton, Georgia; R
-4 CONC oll: T624_192; Page: 5B; Enumeration District: 0101; FHL mic
-4 CONC rofilm: 1374205
-3 OBJE @QnFGs5byRWWxmu9KovT9@
-3 _APID 1,7884::147135039
-2 SOUR @kRuFRPwjRGW6pfPCjXRF@
-3 _APID 1,60901::9280457
-1 RESI
-2 DATE 1900
-2 PLAC Atlanta, Fulton, Georgia, USA
-3 MAP
-4 LATI N33.7489
-4 LONG W84.388
-2 SOUR @mC86ry2oSHmh7nonL8Y1@
-3 PAGE Year: 1900; Census Place: Atlanta Ward 6, Fulton, Georgia; R
-4 CONC oll: 200; Page: 2A; Enumeration District: 0079; FHL microfil
-4 CONC m: 1240200
-3 OBJE @8A8JCE3iRJKV10zlmsD3@
-3 _APID 1,7602::77199161
-2 NOTE Marital Status: Single; Relation to Head of House: Son
-1 RESI
-2 DATE 1910
-2 PLAC Atlanta, Fulton, Georgia, USA
-3 MAP
-4 LATI N33.7489
-4 LONG W84.388
-2 SOUR @hIIkniqYQk2sh1jQxPat@
-3 PAGE Year: 1910; Census Place: Atlanta Ward 8, Fulton, Georgia; R
-4 CONC oll: T624_192; Page: 5B; Enumeration District: 0101; FHL mic
-4 CONC rofilm: 1374205
-3 OBJE @QnFGs5byRWWxmu9KovT9@
-3 _APID 1,7884::147135039
-2 NOTE Marital Status: Single; Relation to Head of House: Son
-1 _XY 143994 2327
 0 @i3fyW8I1SWWw7iJJoBTd@ INDI
 1 REFN 14858126-6f5c-4483-bfc5-921503a31bb5
 1 NAME Judith S. /Disosway/
@@ -3632,6 +4274,226 @@
 2 SOUR @q7EjXFekQ2GhXPFge5K6@
 2 NOTE date is just a guess
 1 _XY 141140 1699
+0 @I216@ INDI
+1 NAME Katherine McCord /Disosway/
+2 SOUR @hIIkniqYQk2sh1jQxPat@
+3 PAGE Year: 1910; Census Place: New Bern Ward 6, Craven, North Car
+4 CONC olina; Roll: T624_1104; Page: 27A; Enumeration District: 002
+4 CONC 7; FHL microfilm: 1375117
+3 OBJE @M132@
+2 SOUR @mbOG3UlsTAK4huKXCtuf@
+3 PAGE Year: 1920; Census Place: New Bern Ward 4, Craven, North Car
+4 CONC olina; Roll: T625_1293; Page: 1A; Enumeration District: 25
+3 OBJE @M125@
+2 SOUR @BEYQ3rohSvuIt3MHvlS4@
+3 PAGE Year: 1930; Census Place: New Bern, Craven, North Carolina
+4 CONC ; Page: 28B; Enumeration District: 0020; FHL microfilm: 2341
+4 CONC 417
+3 OBJE @M131@
+2 SOUR @GAkjO55IQZSzwB3cRXXa@
+1 SEX F
+1 FAMC @idqxJ6GMTPCd5TvMdNJd@
+1 BIRT
+2 DATE 02 MAY 1903
+2 PLAC North Carolina, USA
+3 MAP
+4 LATI N35.175
+4 LONG W79.125
+2 SOUR @hIIkniqYQk2sh1jQxPat@
+3 PAGE Year: 1910; Census Place: New Bern Ward 6, Craven, North Car
+4 CONC olina; Roll: T624_1104; Page: 27A; Enumeration District: 002
+4 CONC 7; FHL microfilm: 1375117
+3 OBJE @M132@
+2 SOUR @mbOG3UlsTAK4huKXCtuf@
+3 PAGE Year: 1920; Census Place: New Bern Ward 4, Craven, North Car
+4 CONC olina; Roll: T625_1293; Page: 1A; Enumeration District: 25
+3 OBJE @M125@
+2 SOUR @BEYQ3rohSvuIt3MHvlS4@
+3 PAGE Year: 1930; Census Place: New Bern, Craven, North Carolina
+4 CONC ; Page: 28B; Enumeration District: 0020; FHL microfilm: 2341
+4 CONC 417
+3 OBJE @M131@
+2 SOUR @GAkjO55IQZSzwB3cRXXa@
+1 RESI
+2 DATE 1910
+2 PLAC New Bern, Craven, North Carolina, USA
+3 MAP
+4 LATI N35.1085
+4 LONG W77.0441
+2 SOUR @hIIkniqYQk2sh1jQxPat@
+3 PAGE Year: 1910; Census Place: New Bern Ward 6, Craven, North Car
+4 CONC olina; Roll: T624_1104; Page: 27A; Enumeration District: 002
+4 CONC 7; FHL microfilm: 1375117
+3 OBJE @M132@
+2 NOTE Marital Status: Single; Relation to Head of House: Daughter
+1 RESI
+2 DATE 1920
+2 PLAC New Bern, Craven, North Carolina, USA
+3 MAP
+4 LATI N35.1085
+4 LONG W77.0441
+2 SOUR @mbOG3UlsTAK4huKXCtuf@
+3 PAGE Year: 1920; Census Place: New Bern Ward 4, Craven, North Car
+4 CONC olina; Roll: T625_1293; Page: 1A; Enumeration District: 25
+3 OBJE @M125@
+2 NOTE Relation to Head: Daughter; Residence Marital Status: Single
+1 RESI
+2 DATE 1930
+2 PLAC New Bern, Craven, North Carolina, USA
+3 MAP
+4 LATI N35.1085
+4 LONG W77.0441
+2 SOUR @BEYQ3rohSvuIt3MHvlS4@
+3 PAGE Year: 1930; Census Place: New Bern, Craven, North Carolina
+4 CONC ; Page: 28B; Enumeration District: 0020; FHL microfilm: 2341
+4 CONC 417
+3 OBJE @M131@
+2 NOTE Marital Status: Single; Relation to Head: Daughter
+1 DEAT
+2 DATE 06 SEP 1982
+2 PLAC Craven, North Carolina, USA
+3 MAP
+4 LATI N35.1204
+4 LONG W77.0821
+2 SOUR @GAkjO55IQZSzwB3cRXXa@
+0 @I214@ INDI
+1 NAME Lula Marjorie /Disosway/
+2 SOUR @mC86ry2oSHmh7nonL8Y1@
+3 PAGE Year: 1900; Census Place: Newbern, Craven, North Carolina; P
+4 CONC age: 9; Enumeration District: 0054; FHL microfilm: 1241190
+3 OBJE @M140@
+2 SOUR @hIIkniqYQk2sh1jQxPat@
+3 PAGE Year: 1910; Census Place: New Bern Ward 6, Craven, North Car
+4 CONC olina; Roll: T624_1104; Page: 27A; Enumeration District: 002
+4 CONC 7; FHL microfilm: 1375117
+3 OBJE @M132@
+2 SOUR @mbOG3UlsTAK4huKXCtuf@
+3 PAGE Year: 1920; Census Place: New Bern Ward 4, Craven, North Car
+4 CONC olina; Roll: T625_1293; Page: 1A; Enumeration District: 25
+3 OBJE @M125@
+2 SOUR @S155@
+3 PAGE Year: 1930; Arrival: New York, New York; Microfilm Serial: T
+4 CONC 715, 1897-1957; Microfilm Roll: Roll 4816; Line: 6; Page Num
+4 CONC ber: 103
+3 OBJE @M144@
+3 _APID 1,7488::2012759497
+2 SOUR @6kNViZwoSmqHOu7WQ1UO@
+3 PAGE North Carolina State Archives; Raleigh, North Carolina; Nort
+4 CONC h Carolina Death Certificates
+3 OBJE @M143@
+2 SOUR @S152@
+3 PAGE Number: 244-56-1598; Issue State: North Carolina; Issue Date
+4 CONC : 1955
+3 _APID 1,3693::15774099
+1 SEX F
+1 FAMC @idqxJ6GMTPCd5TvMdNJd@
+1 BIRT
+2 DATE 09 JAN 1897
+2 PLAC North Carolina, USA
+3 MAP
+4 LATI N35.175
+4 LONG W79.125
+2 SOUR @mC86ry2oSHmh7nonL8Y1@
+3 PAGE Year: 1900; Census Place: Newbern, Craven, North Carolina; P
+4 CONC age: 9; Enumeration District: 0054; FHL microfilm: 1241190
+3 OBJE @M140@
+2 SOUR @hIIkniqYQk2sh1jQxPat@
+3 PAGE Year: 1910; Census Place: New Bern Ward 6, Craven, North Car
+4 CONC olina; Roll: T624_1104; Page: 27A; Enumeration District: 002
+4 CONC 7; FHL microfilm: 1375117
+3 OBJE @M132@
+2 SOUR @mbOG3UlsTAK4huKXCtuf@
+3 PAGE Year: 1920; Census Place: New Bern Ward 4, Craven, North Car
+4 CONC olina; Roll: T625_1293; Page: 1A; Enumeration District: 25
+3 OBJE @M125@
+2 SOUR @S155@
+3 PAGE Year: 1930; Arrival: New York, New York; Microfilm Serial: T
+4 CONC 715, 1897-1957; Microfilm Roll: Roll 4816; Line: 6; Page Num
+4 CONC ber: 103
+3 OBJE @M144@
+3 _APID 1,7488::2012759497
+2 SOUR @6kNViZwoSmqHOu7WQ1UO@
+3 PAGE North Carolina State Archives; Raleigh, North Carolina; Nort
+4 CONC h Carolina Death Certificates
+3 OBJE @M143@
+2 SOUR @S152@
+3 PAGE Number: 244-56-1598; Issue State: North Carolina; Issue Date
+4 CONC : 1955
+3 _APID 1,3693::15774099
+1 RESI
+2 DATE 1900
+2 PLAC New Bern, Craven, North Carolina, USA
+3 MAP
+4 LATI N35.1085
+4 LONG W77.0441
+2 SOUR @mC86ry2oSHmh7nonL8Y1@
+3 PAGE Year: 1900; Census Place: Newbern, Craven, North Carolina; P
+4 CONC age: 9; Enumeration District: 0054; FHL microfilm: 1241190
+3 OBJE @M140@
+2 NOTE Marital Status: Single; Relation to Head: Daughter
+1 RESI
+2 DATE 1910
+2 PLAC New Bern, Craven, North Carolina, USA
+3 MAP
+4 LATI N35.1085
+4 LONG W77.0441
+2 SOUR @hIIkniqYQk2sh1jQxPat@
+3 PAGE Year: 1910; Census Place: New Bern Ward 6, Craven, North Car
+4 CONC olina; Roll: T624_1104; Page: 27A; Enumeration District: 002
+4 CONC 7; FHL microfilm: 1375117
+3 OBJE @M132@
+2 NOTE Marital Status: Single; Relation to Head of House: Daughter
+1 RESI
+2 DATE 1920
+2 PLAC New Bern, Craven, North Carolina, USA
+3 MAP
+4 LATI N35.1085
+4 LONG W77.0441
+2 SOUR @mbOG3UlsTAK4huKXCtuf@
+3 PAGE Year: 1920; Census Place: New Bern Ward 4, Craven, North Car
+4 CONC olina; Roll: T625_1293; Page: 1A; Enumeration District: 25
+3 OBJE @M125@
+2 NOTE Relation to Head: Daughter; Residence Marital Status: Single
+1 EVEN
+2 TYPE Departure
+2 DATE 30 AUG 1930
+2 PLAC Southampton, Hampshire, England
+3 MAP
+4 LATI N50.9
+4 LONG W1.4
+2 SOUR @S155@
+3 PAGE Year: 1930; Arrival: New York, New York; Microfilm Serial: T
+4 CONC 715, 1897-1957; Microfilm Roll: Roll 4816; Line: 6; Page Num
+4 CONC ber: 103
+3 OBJE @M144@
+3 _APID 1,7488::2012759497
+1 EVEN
+2 TYPE Arrival
+2 DATE 04 SEP 1930
+2 PLAC New York, New York, USA
+3 MAP
+4 LATI N40.7744
+4 LONG W73.9721
+2 SOUR @S155@
+3 PAGE Year: 1930; Arrival: New York, New York; Microfilm Serial: T
+4 CONC 715, 1897-1957; Microfilm Roll: Roll 4816; Line: 6; Page Num
+4 CONC ber: 103
+3 OBJE @M144@
+3 _APID 1,7488::2012759497
+1 DEAT
+2 DATE 13 FEB 1973
+2 PLAC New Bern, Craven, North Carolina, USA
+3 MAP
+4 LATI N35.1085
+4 LONG W77.0441
+2 SOUR @6kNViZwoSmqHOu7WQ1UO@
+3 PAGE North Carolina State Archives; Raleigh, North Carolina; Nort
+4 CONC h Carolina Death Certificates
+3 OBJE @M143@
+2 SOUR @S152@
+3 PAGE Number: 244-56-1598; Issue State: North Carolina; Issue Date
+4 CONC : 1955
+3 _APID 1,3693::15774099
 0 @HaSJJn4pS0Kn0bY5Awxm@ INDI
 1 REFN 95101ff3-d3cb-4507-9779-fef313f505d9
 1 NAME Magdeleentie /Disosway/
@@ -3944,6 +4806,16 @@
 2 SOUR @t4PqyKXaQz6rIP3vJn8r@
 3 QUAY 1
 1 _XY 140943 1488
+0 @I232@ INDI
+1 NAME Marjorie /Disosway/
+2 SOUR @S137@
+3 PAGE Publication Date: 9/ Feb/ 2007; Publication Place: Louisa, V
+4 CONC irginia, USA; URL: http://www.thecentralvirginian.com/Obitua
+4 CONC ries.htm
+3 _APID 1,7545::202882363
+1 SEX F
+1 FAMC @F171@
+1 FAMS @F172@
 0 @Yfhn66FrSJKakTgLF0Rq@ INDI
 1 REFN 4194a20b-c78c-4120-a6db-f2fa753e6c9a
 1 NAME Mark /Disosway/
@@ -4272,7 +5144,6 @@
 4 CONC ; FHL microfilm: 1375117
 3 OBJE @lXoAvdpfRuu3JhT4cVXv@
 3 _APID 1,7884::20423556
-2 SOUR @EaBDHOKwQruLeNxgU9qi@
 2 SOUR @J5VIQZ2QT8av3dwSoZjh@
 3 QUAY 1
 2 SOUR @6kNViZwoSmqHOu7WQ1UO@
@@ -4342,7 +5213,6 @@
 1 DEAT
 2 DATE 24 DEC 1936
 2 PLAC 60 Johnson Street, New Bern, Craven, North Carolina, USA
-2 SOUR @EaBDHOKwQruLeNxgU9qi@
 2 SOUR @J5VIQZ2QT8av3dwSoZjh@
 3 QUAY 3
 2 SOUR @6kNViZwoSmqHOu7WQ1UO@
@@ -4363,6 +5233,41 @@
 2 SOUR @66FLWeWiQUGE4LioOMuq@
 3 _APID 1,70634::920724
 1 _XY 142188 2084
+0 @I230@ INDI
+1 NAME Mary Elizabeth /Disosway/
+2 SOUR @6kNViZwoSmqHOu7WQ1UO@
+3 PAGE North Carolina, Death Certificates, 1909-1976 Record
+3 OBJE @M156@
+2 SOUR @wxX1H8IFSjaxNCTLcV9E@
+3 OBJE @M142@
+1 SEX F
+1 FAMC @F164@
+1 BIRT
+2 DATE 24 JUL 1914
+2 PLAC New Bern, Craven, North Carolina, USA
+3 MAP
+4 LATI N35.1085
+4 LONG W77.0441
+2 SOUR @6kNViZwoSmqHOu7WQ1UO@
+3 PAGE North Carolina, Death Certificates, 1909-1976 Record
+3 OBJE @M156@
+2 SOUR @wxX1H8IFSjaxNCTLcV9E@
+3 OBJE @M142@
+1 DEAT
+2 DATE 25 JUL 1914
+2 PLAC New Bern, Craven, North Carolina, USA
+3 MAP
+4 LATI N35.1085
+4 LONG W77.0441
+2 SOUR @6kNViZwoSmqHOu7WQ1UO@
+3 PAGE North Carolina, Death Certificates, 1909-1976 Record
+3 OBJE @M156@
+2 SOUR @wxX1H8IFSjaxNCTLcV9E@
+3 OBJE @M142@
+1 BURI
+2 DATE 26 JUL 1914
+2 SOUR @wxX1H8IFSjaxNCTLcV9E@
+3 OBJE @M142@
 0 @BvZA7PniSG23Lbf2kwvZ@ INDI
 1 REFN 021cd446-3677-42c7-a21f-fa8d254254f3
 1 NAME Montford Boylan /Disosway/
@@ -4373,7 +5278,6 @@
 5 CONC &pid=81
 2 SOUR @69q3fvyiQfiwmy10eHKm@
 3 QUAY 1
-2 SOUR @EaBDHOKwQruLeNxgU9qi@
 2 SOUR @lDuG27hSTACWHq7z54Ba@
 3 _APID 1,60525::66343632
 1 SEX M
@@ -4389,7 +5293,6 @@
 4 LONG W77.0441
 2 SOUR @69q3fvyiQfiwmy10eHKm@
 3 QUAY 1
-2 SOUR @EaBDHOKwQruLeNxgU9qi@
 2 NOTE Aged 4 mos. Place is assumed.
 1 _XY 143186 2091
 0 @YEBDD742S4q5fctJ0n6K@ INDI
@@ -4437,10 +5340,20 @@
 5 CONC &pid=83
 2 SOUR @69q3fvyiQfiwmy10eHKm@
 3 QUAY 1
-2 SOUR @EaBDHOKwQruLeNxgU9qi@
 2 SOUR @6kNViZwoSmqHOu7WQ1UO@
 3 OBJE @eEzgBcO3Szes22xome7I@
-3 _APID 1,1121::263868
+2 SOUR @6kNViZwoSmqHOu7WQ1UO@
+3 PAGE North Carolina State Archives; Raleigh, North Carolina; Nort
+4 CONC h Carolina Death Certificates
+3 OBJE @M126@
+2 SOUR @6kNViZwoSmqHOu7WQ1UO@
+3 PAGE North Carolina State Archives; Raleigh, North Carolina; Nort
+4 CONC h Carolina Death Certificates
+3 OBJE @M133@
+2 SOUR @6kNViZwoSmqHOu7WQ1UO@
+3 PAGE North Carolina State Archives; Raleigh, North Carolina; Nort
+4 CONC h Carolina Death Certificates
+3 OBJE @M143@
 2 SOUR @GAkjO55IQZSzwB3cRXXa@
 3 OBJE @tDzOkysvQlqRKZgu8aje@
 3 _APID 1,8908::4364126
@@ -4499,7 +5412,6 @@
 4 CONC olina
 3 OBJE @wfNi9mC2RtmDOiBGEtzJ@
 3 _APID 1,6061::10757097
-2 SOUR @EaBDHOKwQruLeNxgU9qi@
 2 SOUR @J5VIQZ2QT8av3dwSoZjh@
 3 QUAY 1
 2 SOUR @6kNViZwoSmqHOu7WQ1UO@
@@ -4576,6 +5488,7 @@
 3 _APID 1,7602::50199119
 2 NOTE Age: 42; Marital Status: Married; Relation to Head of House
 3 CONC : Head
+2 NOTE Marital Status: Married; Relation to Head: Head
 1 RESI
 2 DATE 1910
 2 PLAC New Bern, Craven, North Carolina, USA
@@ -4590,6 +5503,7 @@
 3 _APID 1,7884::20426873
 2 NOTE Age: 51; Age: 51; Marital Status: Married; Relation to Hea
 3 CONC d of House: Head
+2 NOTE Marital Status: Married; Relation to Head of House: Head
 1 RESI
 2 DATE 1920
 2 PLAC New Bern, Craven, North Carolina, USA
@@ -4603,10 +5517,10 @@
 3 _APID 1,6061::10757097
 2 NOTE Age: 61; Marital Status: Married; Relation to Head of House
 3 CONC : Head
+2 NOTE Relation to Head: Head; Residence Marital Status: Married
 1 DEAT
 2 DATE 14 SEP 1922
 2 PLAC Saint Luke's Hospital, New Bern, Craven, North Carolina, USA
-2 SOUR @EaBDHOKwQruLeNxgU9qi@
 2 SOUR @J5VIQZ2QT8av3dwSoZjh@
 3 QUAY 3
 2 SOUR @6kNViZwoSmqHOu7WQ1UO@
@@ -4626,6 +5540,14 @@
 2 SOUR @lDuG27hSTACWHq7z54Ba@
 3 _APID 1,60525::61376878
 1 _XY 143014 2091
+0 @I217@ INDI
+1 NAME Ruth Bryan /Disosway/
+1 SEX F
+1 FAMC @idqxJ6GMTPCd5TvMdNJd@
+1 BIRT
+2 DATE JAN 1906
+1 DEAT
+2 DATE 06 NOV 1906
 0 @iG9EWFaGS3mfAQbSDW4Z@ INDI
 1 REFN 13d0a961-627b-4b6b-be22-185eef69aaef
 1 NAME Sarah /Disosway/
@@ -4736,7 +5658,6 @@
 5 CONC &pid=103
 2 SOUR @69q3fvyiQfiwmy10eHKm@
 3 QUAY 1
-2 SOUR @EaBDHOKwQruLeNxgU9qi@
 2 SOUR @lDuG27hSTACWHq7z54Ba@
 3 _APID 1,60525::103566824
 2 SOUR @66FLWeWiQUGE4LioOMuq@
@@ -4877,6 +5798,126 @@
 2 NOTE wife "Hariet Elinor Dissosway" death certificate has her a
 3 CONC s a widow
 1 _XY 142618 2084
+0 @I213@ INDI
+1 NAME William Justice /Disosway/
+2 SOUR @mC86ry2oSHmh7nonL8Y1@
+3 PAGE Year: 1900; Census Place: Newbern, Craven, North Carolina; P
+4 CONC age: 8; Enumeration District: 0054; FHL microfilm: 1241190
+3 OBJE @M124@
+2 SOUR @hIIkniqYQk2sh1jQxPat@
+3 PAGE Year: 1910; Census Place: New Bern Ward 6, Craven, North Car
+4 CONC olina; Roll: T624_1104; Page: 27A; Enumeration District: 002
+4 CONC 7; FHL microfilm: 1375117
+3 OBJE @M132@
+2 SOUR @mbOG3UlsTAK4huKXCtuf@
+3 PAGE Year: 1920; Census Place: New Bern Ward 4, Craven, North Car
+4 CONC olina; Roll: T625_1293; Page: 1A; Enumeration District: 25
+3 OBJE @M125@
+2 SOUR @6kNViZwoSmqHOu7WQ1UO@
+3 PAGE North Carolina State Archives; Raleigh, North Carolina; Nort
+4 CONC h Carolina Death Certificates
+3 OBJE @M133@
+2 SOUR @wxX1H8IFSjaxNCTLcV9E@
+3 OBJE @M138@
+2 SOUR @wxX1H8IFSjaxNCTLcV9E@
+3 OBJE @M142@
+2 SOUR @6HNc22TuRWeAwAmhL5cp@
+3 OBJE @M137@
+2 SOUR @S154@
+3 PAGE Registration State: North Carolina; Registration County: Cra
+4 CONC ven; Roll: 1765633
+3 OBJE @M141@
+3 _APID 1,6482::15744454
+2 SOUR @S136@
+3 PAGE Virginia Department of Health; Richmond, Virginia; Virgini
+4 CONC a Marriages, 1936-2014; Roll: 101168928
+3 OBJE @M139@
+3 _APID 1,9279::116624399
+1 SEX M
+1 FAMC @idqxJ6GMTPCd5TvMdNJd@
+1 FAMS @F164@
+1 BIRT
+2 DATE 03 OCT 1893
+2 PLAC New Bern, Craven, North Carolina, USA
+3 MAP
+4 LATI N35.1085
+4 LONG W77.0441
+2 SOUR @mC86ry2oSHmh7nonL8Y1@
+3 PAGE Year: 1900; Census Place: Newbern, Craven, North Carolina; P
+4 CONC age: 8; Enumeration District: 0054; FHL microfilm: 1241190
+3 OBJE @M124@
+2 SOUR @hIIkniqYQk2sh1jQxPat@
+3 PAGE Year: 1910; Census Place: New Bern Ward 6, Craven, North Car
+4 CONC olina; Roll: T624_1104; Page: 27A; Enumeration District: 002
+4 CONC 7; FHL microfilm: 1375117
+3 OBJE @M132@
+2 SOUR @mbOG3UlsTAK4huKXCtuf@
+3 PAGE Year: 1920; Census Place: New Bern Ward 4, Craven, North Car
+4 CONC olina; Roll: T625_1293; Page: 1A; Enumeration District: 25
+3 OBJE @M125@
+2 SOUR @6kNViZwoSmqHOu7WQ1UO@
+3 PAGE North Carolina State Archives; Raleigh, North Carolina; Nort
+4 CONC h Carolina Death Certificates
+3 OBJE @M133@
+2 SOUR @wxX1H8IFSjaxNCTLcV9E@
+3 OBJE @M138@
+2 SOUR @6HNc22TuRWeAwAmhL5cp@
+3 OBJE @M137@
+2 SOUR @S154@
+3 PAGE Registration State: North Carolina; Registration County: Cra
+4 CONC ven; Roll: 1765633
+3 OBJE @M141@
+3 _APID 1,6482::15744454
+1 RESI
+2 DATE 1900
+2 PLAC New Bern, Craven, North Carolina, USA
+3 MAP
+4 LATI N35.1085
+4 LONG W77.0441
+2 SOUR @mC86ry2oSHmh7nonL8Y1@
+3 PAGE Year: 1900; Census Place: Newbern, Craven, North Carolina; P
+4 CONC age: 8; Enumeration District: 0054; FHL microfilm: 1241190
+3 OBJE @M124@
+2 NOTE Marital Status: Single; Relation to Head: Son
+1 RESI
+2 DATE 1910
+2 PLAC New Bern, Craven, North Carolina, USA
+3 MAP
+4 LATI N35.1085
+4 LONG W77.0441
+2 SOUR @hIIkniqYQk2sh1jQxPat@
+3 PAGE Year: 1910; Census Place: New Bern Ward 6, Craven, North Car
+4 CONC olina; Roll: T624_1104; Page: 27A; Enumeration District: 002
+4 CONC 7; FHL microfilm: 1375117
+3 OBJE @M132@
+2 NOTE Marital Status: Single; Relation to Head of House: Son
+1 RESI
+2 DATE 1917
+2 PLAC 422 Spencer Avenue, New Bern, Craven, North Carolina, USA
+2 SOUR @S154@
+3 PAGE Registration State: North Carolina; Registration County: Cra
+4 CONC ven; Roll: 1765633
+3 OBJE @M141@
+3 _APID 1,6482::15744454
+2 NOTE Military Marital Status: Married
+1 RESI
+2 DATE 1920
+2 PLAC 422 Spencer Avenue, New Bern, Craven, North Carolina, USA
+2 SOUR @mbOG3UlsTAK4huKXCtuf@
+3 PAGE Year: 1920; Census Place: New Bern Ward 4, Craven, North Car
+4 CONC olina; Roll: T625_1293; Page: 1A; Enumeration District: 25
+3 OBJE @M125@
+2 NOTE Relation to Head: Son; Residence Marital Status: Married
+1 DEAT
+2 DATE 23 SEP 1950
+2 PLAC New Bern, Craven, North Carolina, USA
+3 MAP
+4 LATI N35.1085
+4 LONG W77.0441
+2 SOUR @6kNViZwoSmqHOu7WQ1UO@
+3 PAGE North Carolina State Archives; Raleigh, North Carolina; Nort
+4 CONC h Carolina Death Certificates
+3 OBJE @M133@
 0 @FnXtrjLnSnSZgS0IpBgX@ INDI
 1 REFN 483d42c0-b870-4a55-ab35-904cd6324c1c
 1 NAME Joseph Warren /Dusenbury/
@@ -5015,7 +6056,6 @@
 4 LONG W77.0441
 2 SOUR @69q3fvyiQfiwmy10eHKm@
 3 QUAY 1
-2 SOUR @EaBDHOKwQruLeNxgU9qi@
 2 SOUR @lDuG27hSTACWHq7z54Ba@
 3 _APID 1,60525::70117065
 2 NOTE place is assumed
@@ -5079,6 +6119,108 @@
 2 SOUR @9AUWldr6TOqBHTT0KpU7@
 3 _APID 1,70572::525311
 1 _XY 147770 1898
+0 @I231@ INDI
+1 NAME Elizabeth Hortense /Harrell/
+2 SOUR @S137@
+3 PAGE Central Virginian, The; Publication Date: 9/ Feb/ 2007; Publ
+4 CONC ication Place: Louisa, Virginia, USA; URL: http://www.thecen
+4 CONC tralvirginian.com/Obituaries.htm
+3 _APID 1,7545::13745148
+2 SOUR @S136@
+3 PAGE Virginia Department of Health; Richmond, Virginia; Virgini
+4 CONC a Marriages, 1936-2014; Roll: 101168928
+3 OBJE @M139@
+3 _APID 1,9279::28053810
+1 SEX F
+1 FAMS @F171@
+1 BIRT
+2 DATE ABT 1920
+2 PLAC Gates, Gates, North Carolina, USA
+3 MAP
+4 LATI N36.5033
+4 LONG W76.7695
+2 SOUR @S137@
+3 PAGE Central Virginian, The; Publication Date: 9/ Feb/ 2007; Publ
+4 CONC ication Place: Louisa, Virginia, USA; URL: http://www.thecen
+4 CONC tralvirginian.com/Obituaries.htm
+3 _APID 1,7545::13745148
+2 SOUR @S136@
+3 PAGE Virginia Department of Health; Richmond, Virginia; Virgini
+4 CONC a Marriages, 1936-2014; Roll: 101168928
+3 OBJE @M139@
+3 _APID 1,9279::28053810
+1 DEAT
+2 DATE 21 JAN 2007
+2 SOUR @S137@
+3 PAGE Central Virginian, The; Publication Date: 9/ Feb/ 2007; Publ
+4 CONC ication Place: Louisa, Virginia, USA; URL: http://www.thecen
+4 CONC tralvirginian.com/Obituaries.htm
+3 _APID 1,7545::13745148
+1 BURI
+2 DATE 27 JAN 2007
+2 PLAC New Bern, Craven, North Carolina, USA
+3 MAP
+4 LATI N35.1085
+4 LONG W77.0441
+2 SOUR @S137@
+3 PAGE Central Virginian, The; Publication Date: 9/ Feb/ 2007; Publ
+4 CONC ication Place: Louisa, Virginia, USA; URL: http://www.thecen
+4 CONC tralvirginian.com/Obituaries.htm
+3 _APID 1,7545::13745148
+0 @I207@ INDI
+1 NAME Estelle /Harsh/
+2 SOUR @mbOG3UlsTAK4huKXCtuf@
+3 PAGE Year: 1920; Census Place: Atlanta Ward 8, Fulton, Georgia; R
+4 CONC oll: T625_253; Page: 20B; Enumeration District: 126
+3 OBJE @M123@
+2 SOUR @BEYQ3rohSvuIt3MHvlS4@
+3 PAGE Year: 1930; Census Place: Buckhead, Fulton, Georgia; Page: 1
+4 CONC 2B; Enumeration District: 0147; FHL microfilm: 2340092
+3 OBJE @M122@
+2 SOUR @S149@
+3 PAGE Georgia Department of Health and Vital Statistics; Atlanta
+4 CONC , Georgia
+3 OBJE @M121@
+3 _APID 1,2562::75079333
+1 SEX F
+1 FAMS @F168@
+1 BIRT
+2 DATE ABT 1898
+2 PLAC Arkansas, USA
+3 MAP
+4 LATI N34.75
+4 LONG W90.8083
+2 SOUR @mbOG3UlsTAK4huKXCtuf@
+3 PAGE Year: 1920; Census Place: Atlanta Ward 8, Fulton, Georgia; R
+4 CONC oll: T625_253; Page: 20B; Enumeration District: 126
+3 OBJE @M123@
+2 SOUR @BEYQ3rohSvuIt3MHvlS4@
+3 PAGE Year: 1930; Census Place: Buckhead, Fulton, Georgia; Page: 1
+4 CONC 2B; Enumeration District: 0147; FHL microfilm: 2340092
+3 OBJE @M122@
+1 RESI
+2 DATE 1920
+2 PLAC Atlanta, Fulton, Georgia, USA
+3 MAP
+4 LATI N33.7489
+4 LONG W84.388
+2 SOUR @mbOG3UlsTAK4huKXCtuf@
+3 PAGE Year: 1920; Census Place: Atlanta Ward 8, Fulton, Georgia; R
+4 CONC oll: T625_253; Page: 20B; Enumeration District: 126
+3 OBJE @M123@
+2 NOTE Relation to Head: Daughter-in-law; Residence Marital Status
+3 CONC : Married
+1 RESI
+2 DATE 1930
+2 PLAC Buckhead, Fulton, Georgia, USA
+3 MAP
+4 LATI N33.5685
+4 LONG W83.3624
+2 SOUR @BEYQ3rohSvuIt3MHvlS4@
+3 PAGE Year: 1930; Census Place: Buckhead, Fulton, Georgia; Page: 1
+4 CONC 2B; Enumeration District: 0147; FHL microfilm: 2340092
+3 OBJE @M122@
+2 NOTE Marital Status: Married; Relation to Head: Wife
 0 @bMLmOUY0SeevNtAoojAV@ INDI
 1 REFN e5d7e2cb-d6cc-41dc-a380-4ed264599a16
 1 NAME Maria /Hoogeboom/
@@ -5766,6 +6908,115 @@
 1 TITL President of the United States of America
 2 PLAC Washington, Washington, District of Columbia, USA
 1 _XY 144592 2223
+0 @I219@ INDI
+1 NAME Ernest Henry /McLackland/
+2 SOUR @hIIkniqYQk2sh1jQxPat@
+3 PAGE Year: 1910; Census Place: Warwick, Kent, Rhode Island; Roll
+4 CONC : T624_1436; Page: 2A; Enumeration District: 0015; FHL micro
+4 CONC film: 1375449
+3 OBJE @M136@
+2 SOUR @wxX1H8IFSjaxNCTLcV9E@
+3 OBJE @M129@
+2 SOUR @6HNc22TuRWeAwAmhL5cp@
+3 OBJE @M134@
+1 SEX M
+1 FAMS @F166@
+1 BIRT
+2 DATE 09 NOV 1888
+2 PLAC New Bern, Craven, North Carolina, USA
+3 MAP
+4 LATI N35.1085
+4 LONG W77.0441
+2 SOUR @hIIkniqYQk2sh1jQxPat@
+3 PAGE Year: 1910; Census Place: Warwick, Kent, Rhode Island; Roll
+4 CONC : T624_1436; Page: 2A; Enumeration District: 0015; FHL micro
+4 CONC film: 1375449
+3 OBJE @M136@
+2 SOUR @wxX1H8IFSjaxNCTLcV9E@
+3 OBJE @M129@
+2 SOUR @6HNc22TuRWeAwAmhL5cp@
+3 OBJE @M134@
+1 RESI
+2 DATE 1910
+2 PLAC Warwick, Kent, Rhode Island, USA
+3 MAP
+4 LATI N41.7001
+4 LONG W71.4162
+2 SOUR @hIIkniqYQk2sh1jQxPat@
+3 PAGE Year: 1910; Census Place: Warwick, Kent, Rhode Island; Roll
+4 CONC : T624_1436; Page: 2A; Enumeration District: 0015; FHL micro
+4 CONC film: 1375449
+3 OBJE @M136@
+2 NOTE Marital Status: Married; Relation to Head of House: Boarder
+1 DEAT
+2 DATE 25 OCT 1918
+2 PLAC New Bern, Craven, North Carolina, USA
+3 MAP
+4 LATI N35.1085
+4 LONG W77.0441
+2 SOUR @wxX1H8IFSjaxNCTLcV9E@
+3 OBJE @M129@
+1 BURI
+2 DATE 26 OCT 1918
+2 SOUR @wxX1H8IFSjaxNCTLcV9E@
+3 OBJE @M129@
+0 @I220@ INDI
+1 NAME Lillian B. /McLackland/
+2 SOUR @hIIkniqYQk2sh1jQxPat@
+3 PAGE Year: 1910; Census Place: Warwick, Kent, Rhode Island; Roll
+4 CONC : T624_1436; Page: 2A; Enumeration District: 0015; FHL micro
+4 CONC film: 1375449
+3 OBJE @M136@
+2 SOUR @mbOG3UlsTAK4huKXCtuf@
+3 PAGE Year: 1920; Census Place: New Bern Ward 4, Craven, North Car
+4 CONC olina; Roll: T625_1293; Page: 1A; Enumeration District: 25
+3 OBJE @M125@
+2 SOUR @6kNViZwoSmqHOu7WQ1UO@
+3 PAGE North Carolina State Archives; Raleigh, North Carolina; Nort
+4 CONC h Carolina Death Certificates
+3 OBJE @M149@
+1 SEX F
+1 FAMC @F166@
+1 FAMS @F170@
+1 RESI
+2 DATE 1910
+2 PLAC Warwick, Kent, Rhode Island, USA
+3 MAP
+4 LATI N41.7001
+4 LONG W71.4162
+2 SOUR @hIIkniqYQk2sh1jQxPat@
+3 PAGE Year: 1910; Census Place: Warwick, Kent, Rhode Island; Roll
+4 CONC : T624_1436; Page: 2A; Enumeration District: 0015; FHL micro
+4 CONC film: 1375449
+3 OBJE @M136@
+2 NOTE Marital Status: Single; Relation to Head of House: Boarder
+1 BIRT
+2 DATE ABT 1912
+2 PLAC Rhode Island, USA
+3 MAP
+4 LATI N41.6583
+4 LONG W70.4917
+2 SOUR @hIIkniqYQk2sh1jQxPat@
+3 PAGE Year: 1910; Census Place: Warwick, Kent, Rhode Island; Roll
+4 CONC : T624_1436; Page: 2A; Enumeration District: 0015; FHL micro
+4 CONC film: 1375449
+3 OBJE @M136@
+2 SOUR @mbOG3UlsTAK4huKXCtuf@
+3 PAGE Year: 1920; Census Place: New Bern Ward 4, Craven, North Car
+4 CONC olina; Roll: T625_1293; Page: 1A; Enumeration District: 25
+3 OBJE @M125@
+1 RESI
+2 DATE 1920
+2 PLAC New Bern, Craven, North Carolina, USA
+3 MAP
+4 LATI N35.1085
+4 LONG W77.0441
+2 SOUR @mbOG3UlsTAK4huKXCtuf@
+3 PAGE Year: 1920; Census Place: New Bern Ward 4, Craven, North Car
+4 CONC olina; Roll: T625_1293; Page: 1A; Enumeration District: 25
+3 OBJE @M125@
+2 NOTE Relation to Head: Granddaughter; Residence Marital Status: S
+3 CONC ingle
 0 @jkKls3vQSgqyACOybfs8@ INDI
 1 REFN 53f2449f-b1bf-4bae-89de-d02a71269ef0
 1 NAME Jackson /Mead/
@@ -5906,6 +7157,34 @@
 1 DEAT
 2 DATE ABT 1890
 1 _XY 142380 1841
+0 @I225@ INDI
+1 NAME Richard Hackman /Mohn/
+2 SOUR @6kNViZwoSmqHOu7WQ1UO@
+3 PAGE North Carolina State Archives; Raleigh, North Carolina; Nort
+4 CONC h Carolina Death Certificates
+3 OBJE @M149@
+1 SEX M
+1 FAMS @F170@
+1 BIRT
+2 DATE 21 DEC 1908
+2 PLAC North Carolina, USA
+3 MAP
+4 LATI N35.175
+4 LONG W79.125
+2 SOUR @6kNViZwoSmqHOu7WQ1UO@
+3 PAGE North Carolina State Archives; Raleigh, North Carolina; Nort
+4 CONC h Carolina Death Certificates
+3 OBJE @M149@
+1 DEAT
+2 DATE 09 JAN 1970
+2 PLAC New Bern, Craven, North Carolina, USA
+3 MAP
+4 LATI N35.1085
+4 LONG W77.0441
+2 SOUR @6kNViZwoSmqHOu7WQ1UO@
+3 PAGE North Carolina State Archives; Raleigh, North Carolina; Nort
+4 CONC h Carolina Death Certificates
+3 OBJE @M149@
 0 @DrGf0Rt8SZutBcb5fAwW@ INDI
 1 REFN ceafab4b-3f01-4c52-b8bb-dcf188398b94
 1 NAME Nancy //
@@ -5947,6 +7226,90 @@
 2 SOUR @lDuG27hSTACWHq7z54Ba@
 3 _APID 1,60525::2493965
 1 _XY 144577 2115
+0 @I221@ INDI
+1 NAME Elizabeth /Park/
+2 SOUR @hIIkniqYQk2sh1jQxPat@
+3 PAGE Year: 1910; Census Place: Dallas Ward 9, Dallas, Texas; Roll
+4 CONC : T624_1544; Page: 6B; Enumeration District: 0073; FHL micro
+4 CONC film: 1375557
+3 OBJE @M151@
+2 SOUR @mbOG3UlsTAK4huKXCtuf@
+3 PAGE Year: 1920; Census Place: Dallas Precinct 18, Dallas, Texas
+4 CONC ; Roll: T625_1792; Page: 25A; Enumeration District: 34
+3 OBJE @M145@
+2 SOUR @hw8RVkrRR3O68OmEfNIx@
+3 PAGE Texas Department of State Health Services; Austin Texas, USA
+3 OBJE @M152@
+2 SOUR @hw8RVkrRR3O68OmEfNIx@
+3 PAGE Texas Department of State Health Services; Austin Texas, USA
+3 OBJE @M147@
+2 SOUR @xYrZTuCJT5Sl3l1J5I0J@
+3 OBJE @M148@
+1 SEX F
+1 FAMS @F167@
+1 BIRT
+2 DATE 15 APR 1881
+2 PLAC Texas, USA
+3 MAP
+4 LATI N31.1667
+4 LONG W98.925
+2 SOUR @hIIkniqYQk2sh1jQxPat@
+3 PAGE Year: 1910; Census Place: Dallas Ward 9, Dallas, Texas; Roll
+4 CONC : T624_1544; Page: 6B; Enumeration District: 0073; FHL micro
+4 CONC film: 1375557
+3 OBJE @M151@
+2 SOUR @mbOG3UlsTAK4huKXCtuf@
+3 PAGE Year: 1920; Census Place: Dallas Precinct 18, Dallas, Texas
+4 CONC ; Roll: T625_1792; Page: 25A; Enumeration District: 34
+3 OBJE @M145@
+2 SOUR @hw8RVkrRR3O68OmEfNIx@
+3 PAGE Texas Department of State Health Services; Austin Texas, USA
+3 OBJE @M152@
+1 RESI
+2 DATE 1910
+2 PLAC Dallas, Dallas, Texas, USA
+3 MAP
+4 LATI N32.7833
+4 LONG W96.8
+2 SOUR @hIIkniqYQk2sh1jQxPat@
+3 PAGE Year: 1910; Census Place: Dallas Ward 9, Dallas, Texas; Roll
+4 CONC : T624_1544; Page: 6B; Enumeration District: 0073; FHL micro
+4 CONC film: 1375557
+3 OBJE @M151@
+2 NOTE Marital Status: Married; Relation to Head of House: Boarder
+1 RESI
+2 DATE 1920
+2 PLAC Dallas, Dallas, Texas, USA
+3 MAP
+4 LATI N32.7833
+4 LONG W96.8
+2 SOUR @mbOG3UlsTAK4huKXCtuf@
+3 PAGE Year: 1920; Census Place: Dallas Precinct 18, Dallas, Texas
+4 CONC ; Roll: T625_1792; Page: 25A; Enumeration District: 34
+3 OBJE @M145@
+2 NOTE Relation to Head: Wife; Residence Marital Status: Married
+1 RESI
+2 DATE 1938
+2 PLAC 4903 Junius Street, Dallas, Dallas, Texas, USA
+2 SOUR @xYrZTuCJT5Sl3l1J5I0J@
+3 OBJE @M148@
+1 DEAT
+2 DATE 01 NOV 1951
+2 PLAC Austin, Travis, Texas, USA
+3 MAP
+4 LATI N30.2669
+4 LONG W97.7428
+2 SOUR @hw8RVkrRR3O68OmEfNIx@
+3 PAGE Texas Department of State Health Services; Austin Texas, USA
+3 OBJE @M152@
+1 RESI
+2 PLAC Dallas, Dallas, Texas, USA
+3 MAP
+4 LATI N32.7833
+4 LONG W96.8
+2 SOUR @hw8RVkrRR3O68OmEfNIx@
+3 PAGE Texas Department of State Health Services; Austin Texas, USA
+3 OBJE @M152@
 0 @HC6HRbBrTxqIg3yJKw1y@ INDI
 1 REFN a8438dbe-5e09-4ec7-80ad-de6e0a5cf734
 1 NAME Daniel /Perrine/
@@ -7074,6 +8437,10 @@
 1 BIRT
 2 DATE ABT NOV 1756
 1 _XY 146252 1491
+0 @I234@ INDI
+1 NAME /Purgason/
+1 SEX M
+1 FAMS @F172@
 0 @OFALye7lRVeC9qa7E6k1@ INDI
 1 REFN e341fbd3-253d-44f1-bd2e-1c9edf5309a4
 1 NAME Lysbeth /Rossignol/
@@ -7108,7 +8475,7 @@
 1 _XY 145554 1504
 0 @myHi4jRqQi2o1fTZoKC7@ INDI
 1 REFN 81b3477d-67ab-4445-aed0-1e5adca8b75f
-1 NAME Eliza Fanning /Schenck/
+1 NAME Elizabeth Fanning /Schenck/
 2 SOUR @U3xODV3WQ0GLURhWaKW2@
 3 PAGE Year: 1870; Census Place: Brooklyn Ward 6, Kings, New York
 4 CONC ; Image: 358115
@@ -7126,6 +8493,10 @@
 4 CONC m: 1240200
 3 OBJE @8A8JCE3iRJKV10zlmsD3@
 3 _APID 1,7602::77199159
+2 SOUR @mbOG3UlsTAK4huKXCtuf@
+3 PAGE Year: 1920; Census Place: Atlanta Ward 8, Fulton, Georgia; R
+4 CONC oll: T625_253; Page: 20B; Enumeration District: 126
+3 OBJE @M123@
 2 SOUR @BEYQ3rohSvuIt3MHvlS4@
 3 PAGE Year: 1930; Census Place: Washington, Washington, District o
 4 CONC f Columbia; Roll: 296; Page: 2A; Enumeration District: 0167
@@ -7172,6 +8543,10 @@
 4 CONC m: 1240200
 3 OBJE @8A8JCE3iRJKV10zlmsD3@
 3 _APID 1,7602::77199159
+2 SOUR @mbOG3UlsTAK4huKXCtuf@
+3 PAGE Year: 1920; Census Place: Atlanta Ward 8, Fulton, Georgia; R
+4 CONC oll: T625_253; Page: 20B; Enumeration District: 126
+3 OBJE @M123@
 2 SOUR @BEYQ3rohSvuIt3MHvlS4@
 3 PAGE Year: 1930; Census Place: Washington, Washington, District o
 4 CONC f Columbia; Roll: 296; Page: 2A; Enumeration District: 0167
@@ -7223,6 +8598,17 @@
 3 OBJE @8A8JCE3iRJKV10zlmsD3@
 3 _APID 1,7602::77199159
 2 NOTE Marital Status: Married; Relation to Head of House: Wife
+1 RESI
+2 DATE 1920
+2 PLAC Atlanta, Fulton, Georgia, USA
+3 MAP
+4 LATI N33.7489
+4 LONG W84.388
+2 SOUR @mbOG3UlsTAK4huKXCtuf@
+3 PAGE Year: 1920; Census Place: Atlanta Ward 8, Fulton, Georgia; R
+4 CONC oll: T625_253; Page: 20B; Enumeration District: 126
+3 OBJE @M123@
+2 NOTE Relation to Head: Wife; Residence Marital Status: Married
 1 RESI
 2 DATE 1923
 2 PLAC Atlanta, Fulton, Georgia, USA
@@ -7314,6 +8700,328 @@
 3 QUAY 1
 2 NOTE last name also given as Savil
 1 _XY 147770 1798
+0 @I226@ INDI
+1 NAME Bertha Estelle /Simpkins/
+2 SOUR @mbOG3UlsTAK4huKXCtuf@
+3 PAGE Year: 1920; Census Place: New Bern Ward 4, Craven, North Car
+4 CONC olina; Roll: T625_1293; Page: 1A; Enumeration District: 25
+3 OBJE @M125@
+2 SOUR @wxX1H8IFSjaxNCTLcV9E@
+3 OBJE @M138@
+2 SOUR @wxX1H8IFSjaxNCTLcV9E@
+3 OBJE @M142@
+2 SOUR @6HNc22TuRWeAwAmhL5cp@
+3 OBJE @M137@
+2 SOUR @S136@
+3 PAGE Virginia Department of Health; Richmond, Virginia; Virgini
+4 CONC a Marriages, 1936-2014; Roll: 101168928
+3 OBJE @M139@
+3 _APID 1,9279::131624399
+1 SEX F
+1 FAMS @F164@
+1 BIRT
+2 DATE ABT 1894
+2 PLAC New Bern, Craven, North Carolina, USA
+3 MAP
+4 LATI N35.1085
+4 LONG W77.0441
+2 SOUR @mbOG3UlsTAK4huKXCtuf@
+3 PAGE Year: 1920; Census Place: New Bern Ward 4, Craven, North Car
+4 CONC olina; Roll: T625_1293; Page: 1A; Enumeration District: 25
+3 OBJE @M125@
+2 SOUR @wxX1H8IFSjaxNCTLcV9E@
+3 OBJE @M138@
+2 SOUR @wxX1H8IFSjaxNCTLcV9E@
+3 OBJE @M142@
+2 SOUR @6HNc22TuRWeAwAmhL5cp@
+3 OBJE @M137@
+1 RESI
+2 DATE 1920
+2 PLAC New Bern, Craven, North Carolina, USA
+3 MAP
+4 LATI N35.1085
+4 LONG W77.0441
+2 SOUR @mbOG3UlsTAK4huKXCtuf@
+3 PAGE Year: 1920; Census Place: New Bern Ward 4, Craven, North Car
+4 CONC olina; Roll: T625_1293; Page: 1A; Enumeration District: 25
+3 OBJE @M125@
+2 NOTE Relation to Head: Daughter-in-law; Residence Marital Status
+3 CONC : Married
+0 @aPPb1xJ8Rq2OAKr2SRUK@ INDI
+1 REFN d572f67e-438f-4575-b21b-45a2358f918d
+1 NAME Lula Musador /Stanley/
+2 SOUR @mC86ry2oSHmh7nonL8Y1@
+3 PAGE Year: 1900; Census Place: Newbern, Craven, North Carolina; R
+4 CONC oll: 1190; Page: 8B; Enumeration District: 0054; FHL microfi
+4 CONC lm: 1241190
+3 OBJE @ByaZklidT4OcSykT2RPt@
+3 _APID 1,7602::50199120
+2 SOUR @hIIkniqYQk2sh1jQxPat@
+3 PAGE Year: 1910; Census Place: New Bern Ward 6, Craven, North Car
+4 CONC olina; Roll: T624_1104; Page: 27A; Enumeration District: 002
+4 CONC 7; FHL microfilm: 1375117
+3 OBJE @HiqKoQpOR92ZIIwqdXWR@
+3 _APID 1,7884::178666754
+2 SOUR @mbOG3UlsTAK4huKXCtuf@
+3 PAGE Year: 1920; Census Place: New Bern Ward 4, Craven, North Car
+4 CONC olina
+3 OBJE @wfNi9mC2RtmDOiBGEtzJ@
+3 _APID 1,6061::10757099
+2 SOUR @BEYQ3rohSvuIt3MHvlS4@
+3 PAGE Year: 1930; Census Place: New Bern, Craven, North Carolina
+4 CONC ; Roll: 1683; Page: 28B; Enumeration District: 0020; Image
+4 CONC : 1051.0; FHL microfilm: 2341417
+3 OBJE @mdetgYrNQX6vUanHOves@
+3 _APID 1,6224::77360740
+2 SOUR @NpC4GLt3TzSSPnje90b3@
+3 PAGE Year: 1940; Census Place: New Bern, Craven, North Carolina
+4 CONC ; Roll: T627_2894; Page: 2B; Enumeration District: 25-25
+3 OBJE @p4IIlIB4QCWJjjfpq33a@
+3 _APID 1,2442::151670118
+2 SOUR @qpv76emtRaiIRfvwnsEv@
+3 PAGE Ancestry Family Tree
+3 DATA
+4 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=62861
+5 CONC &pid=980
+2 SOUR @6kNViZwoSmqHOu7WQ1UO@
+3 OBJE @pagLzuvHSpaPkrxSkN8O@
+2 SOUR @6kNViZwoSmqHOu7WQ1UO@
+3 PAGE North Carolina State Archives; Raleigh, North Carolina; Nort
+4 CONC h Carolina Death Certificates
+3 OBJE @M126@
+2 SOUR @6kNViZwoSmqHOu7WQ1UO@
+3 PAGE North Carolina State Archives; Raleigh, North Carolina; Nort
+4 CONC h Carolina Death Certificates
+3 OBJE @M133@
+2 SOUR @6kNViZwoSmqHOu7WQ1UO@
+3 PAGE North Carolina State Archives; Raleigh, North Carolina; Nort
+4 CONC h Carolina Death Certificates
+3 OBJE @M143@
+2 SOUR @GAkjO55IQZSzwB3cRXXa@
+3 OBJE @FtvqDevFQB6oW2WAToLV@
+3 _APID 1,8908::3818242
+2 SOUR @6g2OG0HXRBibBsJqwZ0p@
+3 PAGE Wills, 1941-1960; Author: North Carolina. Superior Court (Cr
+4 CONC aven County); Probate Place: Craven, North Carolina
+3 OBJE @x8XeY41VRtOkT0lDzEjx@
+3 _APID 1,9061::2107133
+2 SOUR @xYrZTuCJT5Sl3l1J5I0J@
+3 OBJE @Vq5GpIOyS66CqO4tIZFd@
+3 _APID 1,2469::598014755
+2 SOUR @lDuG27hSTACWHq7z54Ba@
+3 _APID 1,60525::69680737
+1 SEX F
+1 FAMS @idqxJ6GMTPCd5TvMdNJd@
+1 BIRT
+2 DATE 24 SEP 1870
+2 PLAC New Bern, Craven, North Carolina, USA
+3 MAP
+4 LATI N35.1085
+4 LONG W77.0441
+2 SOUR @mC86ry2oSHmh7nonL8Y1@
+3 PAGE Year: 1900; Census Place: Newbern, Craven, North Carolina; R
+4 CONC oll: 1190; Page: 8B; Enumeration District: 0054; FHL microfi
+4 CONC lm: 1241190
+3 OBJE @ByaZklidT4OcSykT2RPt@
+3 _APID 1,7602::50199120
+2 SOUR @hIIkniqYQk2sh1jQxPat@
+3 PAGE Year: 1910; Census Place: New Bern Ward 6, Craven, North Car
+4 CONC olina; Roll: T624_1104; Page: 27A; Enumeration District: 002
+4 CONC 7; FHL microfilm: 1375117
+3 OBJE @HiqKoQpOR92ZIIwqdXWR@
+3 _APID 1,7884::178666754
+2 SOUR @mbOG3UlsTAK4huKXCtuf@
+3 PAGE Year: 1920; Census Place: New Bern Ward 4, Craven, North Car
+4 CONC olina
+3 OBJE @wfNi9mC2RtmDOiBGEtzJ@
+3 _APID 1,6061::10757099
+2 SOUR @BEYQ3rohSvuIt3MHvlS4@
+3 PAGE Year: 1930; Census Place: New Bern, Craven, North Carolina
+4 CONC ; Roll: 1683; Page: 28B; Enumeration District: 0020; Image
+4 CONC : 1051.0; FHL microfilm: 2341417
+3 OBJE @mdetgYrNQX6vUanHOves@
+3 _APID 1,6224::77360740
+2 SOUR @NpC4GLt3TzSSPnje90b3@
+3 PAGE Year: 1940; Census Place: New Bern, Craven, North Carolina
+4 CONC ; Roll: T627_2894; Page: 2B; Enumeration District: 25-25
+3 OBJE @p4IIlIB4QCWJjjfpq33a@
+3 _APID 1,2442::151670118
+2 SOUR @6kNViZwoSmqHOu7WQ1UO@
+3 OBJE @pagLzuvHSpaPkrxSkN8O@
+3 _APID 1,1121::848706
+2 SOUR @GAkjO55IQZSzwB3cRXXa@
+3 OBJE @FtvqDevFQB6oW2WAToLV@
+3 _APID 1,8908::3818242
+2 SOUR @lDuG27hSTACWHq7z54Ba@
+3 _APID 1,60525::69680737
+1 RESI
+2 DATE 1900
+2 PLAC New Bern, Craven, North Carolina, USA
+3 MAP
+4 LATI N35.1085
+4 LONG W77.0441
+2 SOUR @mC86ry2oSHmh7nonL8Y1@
+3 PAGE Year: 1900; Census Place: Newbern, Craven, North Carolina; R
+4 CONC oll: 1190; Page: 8B; Enumeration District: 0054; FHL microfi
+4 CONC lm: 1241190
+3 OBJE @ByaZklidT4OcSykT2RPt@
+3 _APID 1,7602::50199120
+2 NOTE Age: 29; Marital Status: Married; Relation to Head of House
+3 CONC : Wife
+2 NOTE Marital Status: Married; Relation to Head: Wife
+1 RESI
+2 DATE 1910
+2 PLAC New Bern, Craven, North Carolina, USA
+3 MAP
+4 LATI N35.1085
+4 LONG W77.0441
+2 SOUR @hIIkniqYQk2sh1jQxPat@
+3 PAGE Year: 1910; Census Place: New Bern Ward 6, Craven, North Car
+4 CONC olina; Roll: T624_1104; Page: 27A; Enumeration District: 002
+4 CONC 7; FHL microfilm: 1375117
+3 OBJE @HiqKoQpOR92ZIIwqdXWR@
+3 _APID 1,7884::178666754
+2 NOTE Age: 39; Marital Status: Married; Relation to Head of House
+3 CONC : Wife
+2 NOTE Marital Status: Married; Relation to Head of House: Wife
+1 RESI
+2 DATE 1920
+2 PLAC New Bern, Craven, North Carolina, USA
+3 MAP
+4 LATI N35.1085
+4 LONG W77.0441
+2 SOUR @mbOG3UlsTAK4huKXCtuf@
+3 PAGE Year: 1920; Census Place: New Bern Ward 4, Craven, North Car
+4 CONC olina
+3 OBJE @wfNi9mC2RtmDOiBGEtzJ@
+3 _APID 1,6061::10757099
+2 NOTE Age: 50; Marital Status: Married; Relation to Head of House
+3 CONC : Wife
+2 NOTE Relation to Head: Wife; Residence Marital Status: Married
+1 RESI
+2 DATE 1930
+2 PLAC New Bern, Craven, North Carolina, USA
+3 MAP
+4 LATI N35.1085
+4 LONG W77.0441
+2 SOUR @BEYQ3rohSvuIt3MHvlS4@
+3 PAGE Year: 1930; Census Place: New Bern, Craven, North Carolina
+4 CONC ; Roll: 1683; Page: 28B; Enumeration District: 0020; Image
+4 CONC : 1051.0; FHL microfilm: 2341417
+3 OBJE @mdetgYrNQX6vUanHOves@
+3 _APID 1,6224::77360740
+2 NOTE Marital Status: Widowed; Relation to Head of House: Head
+2 NOTE Marital Status: Widowed; Relation to Head: Head
+1 RESI
+2 DATE 1935
+2 PLAC New Bern, Craven, North Carolina, USA
+3 MAP
+4 LATI N35.1085
+4 LONG W77.0441
+2 SOUR @NpC4GLt3TzSSPnje90b3@
+3 PAGE Year: 1940; Census Place: New Bern, Craven, North Carolina
+4 CONC ; Roll: T627_2894; Page: 2B; Enumeration District: 25-25
+3 OBJE @p4IIlIB4QCWJjjfpq33a@
+3 _APID 1,2442::151670118
+1 RESI
+2 DATE 01 APR 1940
+2 PLAC New Bern, Craven, North Carolina, USA
+3 MAP
+4 LATI N35.1085
+4 LONG W77.0441
+2 SOUR @NpC4GLt3TzSSPnje90b3@
+3 PAGE Year: 1940; Census Place: New Bern, Craven, North Carolina
+4 CONC ; Roll: T627_2894; Page: 2B; Enumeration District: 25-25
+3 OBJE @p4IIlIB4QCWJjjfpq33a@
+3 _APID 1,2442::151670118
+2 NOTE Age: 69; Marital Status: Widowed; Relation to Head of House
+3 CONC : Head
+1 RESI
+2 DATE 1947
+2 PLAC New Bern, Craven, North Carolina, USA
+3 MAP
+4 LATI N35.1085
+4 LONG W77.0441
+2 SOUR @xYrZTuCJT5Sl3l1J5I0J@
+3 OBJE @Vq5GpIOyS66CqO4tIZFd@
+3 _APID 1,2469::598014755
+1 DEAT
+2 DATE 10 JUL 1954
+2 PLAC New Bern, Craven, North Carolina, USA
+3 MAP
+4 LATI N35.1085
+4 LONG W77.0441
+2 SOUR @6kNViZwoSmqHOu7WQ1UO@
+3 OBJE @pagLzuvHSpaPkrxSkN8O@
+3 _APID 1,1121::848706
+2 SOUR @GAkjO55IQZSzwB3cRXXa@
+3 OBJE @FtvqDevFQB6oW2WAToLV@
+3 _APID 1,8908::3818242
+2 SOUR @6g2OG0HXRBibBsJqwZ0p@
+3 PAGE Wills, 1941-1960; Author: North Carolina. Superior Court (Cr
+4 CONC aven County); Probate Place: Craven, North Carolina
+3 OBJE @x8XeY41VRtOkT0lDzEjx@
+3 _APID 1,9061::2107133
+2 SOUR @lDuG27hSTACWHq7z54Ba@
+3 _APID 1,60525::69680737
+1 PROB
+2 PLAC Craven, North Carolina, USA
+3 MAP
+4 LATI N35.1204
+4 LONG W77.0821
+2 SOUR @6g2OG0HXRBibBsJqwZ0p@
+3 PAGE Wills, 1941-1960; Author: North Carolina. Superior Court (Cr
+4 CONC aven County); Probate Place: Craven, North Carolina
+3 OBJE @x8XeY41VRtOkT0lDzEjx@
+3 _APID 1,9061::2107133
+1 BURI
+2 PLAC Cedar Grove Cemetery, New Bern, Craven, North Carolina, USA
+2 SOUR @lDuG27hSTACWHq7z54Ba@
+3 _APID 1,60525::69680737
+1 _XY 142843 2091
+0 @I218@ INDI
+1 NAME Eugene W. /Summerell/
+2 SOUR @NpC4GLt3TzSSPnje90b3@
+3 PAGE Year: 1940; Census Place: New Bern, Craven, North Carolina
+4 CONC ; Roll: m-t0627-02894; Page: 2B; Enumeration District: 25-25
+3 OBJE @M135@
+2 SOUR @6HNc22TuRWeAwAmhL5cp@
+3 OBJE @M128@
+2 SOUR @xYrZTuCJT5Sl3l1J5I0J@
+3 OBJE @M127@
+1 NAME /Summerell/
+1 SEX M
+1 FAMS @F165@
+1 BIRT
+2 DATE ABT 1902
+2 PLAC North Carolina
+2 SOUR @NpC4GLt3TzSSPnje90b3@
+3 PAGE Year: 1940; Census Place: New Bern, Craven, North Carolina
+4 CONC ; Roll: m-t0627-02894; Page: 2B; Enumeration District: 25-25
+3 OBJE @M135@
+2 SOUR @6HNc22TuRWeAwAmhL5cp@
+3 OBJE @M128@
+1 BIRT
+2 DATE ABT 1890
+1 RESI
+2 DATE 1940
+2 PLAC New Bern, Craven, North Carolina, USA
+3 MAP
+4 LATI N35.1085
+4 LONG W77.0441
+2 SOUR @NpC4GLt3TzSSPnje90b3@
+3 PAGE Year: 1940; Census Place: New Bern, Craven, North Carolina
+4 CONC ; Roll: m-t0627-02894; Page: 2B; Enumeration District: 25-25
+3 OBJE @M135@
+2 NOTE Marital Status: Married; Relation to Head: Son-in-law
+1 RESI
+2 DATE 1947
+2 PLAC New Bern, Craven, North Carolina, USA
+3 MAP
+4 LATI N35.1085
+4 LONG W77.0441
+2 SOUR @xYrZTuCJT5Sl3l1J5I0J@
+3 OBJE @M127@
 0 @ucTeMzCqRw2GzZcTjaqe@ INDI
 1 REFN 9652cb55-1542-45bd-acf6-3e6189473216
 1 NAME Allen /Teed/
@@ -8711,220 +10419,6 @@
 3 CONC ivateer captain in local waters. In 1705, he was appointed c
 3 CONC aptain of the Castel Del Rey abaord which he died.
 1 _XY 143295 1374
-0 @aPPb1xJ8Rq2OAKr2SRUK@ INDI
-1 REFN d572f67e-438f-4575-b21b-45a2358f918d
-1 NAME Lula Musador Stanley /Williams/
-2 SOUR @mC86ry2oSHmh7nonL8Y1@
-3 PAGE Year: 1900; Census Place: Newbern, Craven, North Carolina; R
-4 CONC oll: 1190; Page: 8B; Enumeration District: 0054; FHL microfi
-4 CONC lm: 1241190
-3 OBJE @ByaZklidT4OcSykT2RPt@
-3 _APID 1,7602::50199120
-2 SOUR @hIIkniqYQk2sh1jQxPat@
-3 PAGE Year: 1910; Census Place: New Bern Ward 6, Craven, North Car
-4 CONC olina; Roll: T624_1104; Page: 27A; Enumeration District: 002
-4 CONC 7; FHL microfilm: 1375117
-3 OBJE @HiqKoQpOR92ZIIwqdXWR@
-3 _APID 1,7884::178666754
-2 SOUR @mbOG3UlsTAK4huKXCtuf@
-3 PAGE Year: 1920; Census Place: New Bern Ward 4, Craven, North Car
-4 CONC olina
-3 OBJE @wfNi9mC2RtmDOiBGEtzJ@
-3 _APID 1,6061::10757099
-2 SOUR @BEYQ3rohSvuIt3MHvlS4@
-3 PAGE Year: 1930; Census Place: New Bern, Craven, North Carolina
-4 CONC ; Roll: 1683; Page: 28B; Enumeration District: 0020; Image
-4 CONC : 1051.0; FHL microfilm: 2341417
-3 OBJE @mdetgYrNQX6vUanHOves@
-3 _APID 1,6224::77360740
-2 SOUR @NpC4GLt3TzSSPnje90b3@
-3 PAGE Year: 1940; Census Place: New Bern, Craven, North Carolina
-4 CONC ; Roll: T627_2894; Page: 2B; Enumeration District: 25-25
-3 OBJE @p4IIlIB4QCWJjjfpq33a@
-3 _APID 1,2442::151670118
-2 SOUR @qpv76emtRaiIRfvwnsEv@
-3 PAGE Ancestry Family Tree
-3 DATA
-4 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=62861
-5 CONC &pid=980
-2 SOUR @6kNViZwoSmqHOu7WQ1UO@
-3 OBJE @pagLzuvHSpaPkrxSkN8O@
-3 _APID 1,1121::848706
-2 SOUR @GAkjO55IQZSzwB3cRXXa@
-3 OBJE @FtvqDevFQB6oW2WAToLV@
-3 _APID 1,8908::3818242
-2 SOUR @6g2OG0HXRBibBsJqwZ0p@
-3 PAGE Wills, 1941-1960; Author: North Carolina. Superior Court (Cr
-4 CONC aven County); Probate Place: Craven, North Carolina
-3 OBJE @x8XeY41VRtOkT0lDzEjx@
-3 _APID 1,9061::2107133
-2 SOUR @xYrZTuCJT5Sl3l1J5I0J@
-3 OBJE @Vq5GpIOyS66CqO4tIZFd@
-3 _APID 1,2469::598014755
-2 SOUR @lDuG27hSTACWHq7z54Ba@
-3 _APID 1,60525::69680737
-1 SEX F
-1 FAMS @idqxJ6GMTPCd5TvMdNJd@
-1 BIRT
-2 DATE 24 SEP 1870
-2 PLAC New Bern, Craven, North Carolina, USA
-3 MAP
-4 LATI N35.1085
-4 LONG W77.0441
-2 SOUR @mC86ry2oSHmh7nonL8Y1@
-3 PAGE Year: 1900; Census Place: Newbern, Craven, North Carolina; R
-4 CONC oll: 1190; Page: 8B; Enumeration District: 0054; FHL microfi
-4 CONC lm: 1241190
-3 OBJE @ByaZklidT4OcSykT2RPt@
-3 _APID 1,7602::50199120
-2 SOUR @hIIkniqYQk2sh1jQxPat@
-3 PAGE Year: 1910; Census Place: New Bern Ward 6, Craven, North Car
-4 CONC olina; Roll: T624_1104; Page: 27A; Enumeration District: 002
-4 CONC 7; FHL microfilm: 1375117
-3 OBJE @HiqKoQpOR92ZIIwqdXWR@
-3 _APID 1,7884::178666754
-2 SOUR @mbOG3UlsTAK4huKXCtuf@
-3 PAGE Year: 1920; Census Place: New Bern Ward 4, Craven, North Car
-4 CONC olina
-3 OBJE @wfNi9mC2RtmDOiBGEtzJ@
-3 _APID 1,6061::10757099
-2 SOUR @BEYQ3rohSvuIt3MHvlS4@
-3 PAGE Year: 1930; Census Place: New Bern, Craven, North Carolina
-4 CONC ; Roll: 1683; Page: 28B; Enumeration District: 0020; Image
-4 CONC : 1051.0; FHL microfilm: 2341417
-3 OBJE @mdetgYrNQX6vUanHOves@
-3 _APID 1,6224::77360740
-2 SOUR @NpC4GLt3TzSSPnje90b3@
-3 PAGE Year: 1940; Census Place: New Bern, Craven, North Carolina
-4 CONC ; Roll: T627_2894; Page: 2B; Enumeration District: 25-25
-3 OBJE @p4IIlIB4QCWJjjfpq33a@
-3 _APID 1,2442::151670118
-2 SOUR @6kNViZwoSmqHOu7WQ1UO@
-3 OBJE @pagLzuvHSpaPkrxSkN8O@
-3 _APID 1,1121::848706
-2 SOUR @GAkjO55IQZSzwB3cRXXa@
-3 OBJE @FtvqDevFQB6oW2WAToLV@
-3 _APID 1,8908::3818242
-2 SOUR @lDuG27hSTACWHq7z54Ba@
-3 _APID 1,60525::69680737
-1 RESI
-2 DATE 1900
-2 PLAC New Bern, Craven, North Carolina, USA
-3 MAP
-4 LATI N35.1085
-4 LONG W77.0441
-2 SOUR @mC86ry2oSHmh7nonL8Y1@
-3 PAGE Year: 1900; Census Place: Newbern, Craven, North Carolina; R
-4 CONC oll: 1190; Page: 8B; Enumeration District: 0054; FHL microfi
-4 CONC lm: 1241190
-3 OBJE @ByaZklidT4OcSykT2RPt@
-3 _APID 1,7602::50199120
-2 NOTE Age: 29; Marital Status: Married; Relation to Head of House
-3 CONC : Wife
-1 RESI
-2 DATE 1910
-2 PLAC New Bern, Craven, North Carolina, USA
-3 MAP
-4 LATI N35.1085
-4 LONG W77.0441
-2 SOUR @hIIkniqYQk2sh1jQxPat@
-3 PAGE Year: 1910; Census Place: New Bern Ward 6, Craven, North Car
-4 CONC olina; Roll: T624_1104; Page: 27A; Enumeration District: 002
-4 CONC 7; FHL microfilm: 1375117
-3 OBJE @HiqKoQpOR92ZIIwqdXWR@
-3 _APID 1,7884::178666754
-2 NOTE Age: 39; Marital Status: Married; Relation to Head of House
-3 CONC : Wife
-1 RESI
-2 DATE 1920
-2 PLAC New Bern, Craven, North Carolina, USA
-3 MAP
-4 LATI N35.1085
-4 LONG W77.0441
-2 SOUR @mbOG3UlsTAK4huKXCtuf@
-3 PAGE Year: 1920; Census Place: New Bern Ward 4, Craven, North Car
-4 CONC olina
-3 OBJE @wfNi9mC2RtmDOiBGEtzJ@
-3 _APID 1,6061::10757099
-2 NOTE Age: 50; Marital Status: Married; Relation to Head of House
-3 CONC : Wife
-1 RESI
-2 DATE 1930
-2 PLAC New Bern, Craven, North Carolina
-2 SOUR @BEYQ3rohSvuIt3MHvlS4@
-3 PAGE Year: 1930; Census Place: New Bern, Craven, North Carolina
-4 CONC ; Roll: 1683; Page: 28B; Enumeration District: 0020; Image
-4 CONC : 1051.0; FHL microfilm: 2341417
-3 OBJE @mdetgYrNQX6vUanHOves@
-3 _APID 1,6224::77360740
-2 NOTE Marital Status: Widowed; Relation to Head of House: Head
-1 RESI
-2 DATE 1935
-2 PLAC New Bern, Craven, North Carolina, USA
-3 MAP
-4 LATI N35.1085
-4 LONG W77.0441
-2 SOUR @NpC4GLt3TzSSPnje90b3@
-3 PAGE Year: 1940; Census Place: New Bern, Craven, North Carolina
-4 CONC ; Roll: T627_2894; Page: 2B; Enumeration District: 25-25
-3 OBJE @p4IIlIB4QCWJjjfpq33a@
-3 _APID 1,2442::151670118
-1 RESI
-2 DATE 01 APR 1940
-2 PLAC New Bern, Craven, North Carolina, USA
-3 MAP
-4 LATI N35.1085
-4 LONG W77.0441
-2 SOUR @NpC4GLt3TzSSPnje90b3@
-3 PAGE Year: 1940; Census Place: New Bern, Craven, North Carolina
-4 CONC ; Roll: T627_2894; Page: 2B; Enumeration District: 25-25
-3 OBJE @p4IIlIB4QCWJjjfpq33a@
-3 _APID 1,2442::151670118
-2 NOTE Age: 69; Marital Status: Widowed; Relation to Head of House
-3 CONC : Head
-1 RESI
-2 DATE 1947
-2 PLAC New Bern, Craven, North Carolina, USA
-3 MAP
-4 LATI N35.1085
-4 LONG W77.0441
-2 SOUR @xYrZTuCJT5Sl3l1J5I0J@
-3 OBJE @Vq5GpIOyS66CqO4tIZFd@
-3 _APID 1,2469::598014755
-1 DEAT
-2 DATE 10 JUL 1954
-2 PLAC New Bern, Craven, North Carolina, USA
-3 MAP
-4 LATI N35.1085
-4 LONG W77.0441
-2 SOUR @6kNViZwoSmqHOu7WQ1UO@
-3 OBJE @pagLzuvHSpaPkrxSkN8O@
-3 _APID 1,1121::848706
-2 SOUR @GAkjO55IQZSzwB3cRXXa@
-3 OBJE @FtvqDevFQB6oW2WAToLV@
-3 _APID 1,8908::3818242
-2 SOUR @6g2OG0HXRBibBsJqwZ0p@
-3 PAGE Wills, 1941-1960; Author: North Carolina. Superior Court (Cr
-4 CONC aven County); Probate Place: Craven, North Carolina
-3 OBJE @x8XeY41VRtOkT0lDzEjx@
-3 _APID 1,9061::2107133
-2 SOUR @lDuG27hSTACWHq7z54Ba@
-3 _APID 1,60525::69680737
-1 PROB
-2 PLAC Craven, North Carolina, USA
-3 MAP
-4 LATI N35.1204
-4 LONG W77.0821
-2 SOUR @6g2OG0HXRBibBsJqwZ0p@
-3 PAGE Wills, 1941-1960; Author: North Carolina. Superior Court (Cr
-4 CONC aven County); Probate Place: Craven, North Carolina
-3 OBJE @x8XeY41VRtOkT0lDzEjx@
-3 _APID 1,9061::2107133
-1 BURI
-2 PLAC Cedar Grove Cemetery, New Bern, Craven, North Carolina, USA
-2 SOUR @lDuG27hSTACWHq7z54Ba@
-3 _APID 1,60525::69680737
-1 _XY 142843 2091
 0 @3aTQNehUTfWxSg6V6GVL@ FAM
 1 REFN 88bd584a-a0b6-4170-84cd-edf50e74383d
 1 HUSB @NtEHYl1YQziAifYeHqLY@
@@ -8983,6 +10477,9 @@
 4 LONG W73.95
 2 SOUR @VtjVTKQCRXatVHqiHih3@
 3 QUAY 1
+0 @F169@ FAM
+1 HUSB @I224@
+1 WIFE @I223@
 0 @Ge9ukEmhRdqnzzlPLhuk@ FAM
 1 REFN 4f430df0-202f-401e-b923-5cc99a3ae3cd
 1 HUSB @0DdMsCfHRpecsvpDzZNx@
@@ -9032,6 +10529,19 @@
 1 CHIL @wlrtPbhFQpuwU9TWVCoM@
 2 _FREL Natural
 2 _MREL Natural
+0 @F163@ FAM
+1 HUSB @I211@
+1 WIFE @I222@
+1 MARR
+2 DATE 19 SEP 1930
+2 PLAC Cooke, Texas, USA
+3 MAP
+4 LATI N33.6376
+4 LONG W97.2125
+2 SOUR @S145@
+2 SOUR @S145@
+2 SOUR @S146@
+2 SOUR @S146@
 0 @R1JOsWmCTbuI9MsdipEd@ FAM
 1 REFN 72f36d50-83a8-4f39-88ac-840dddb965f1
 1 HUSB @KShlMXNFS0eOD2f7hhwH@
@@ -9068,6 +10578,15 @@
 3 PAGE Source number: 1497.000; Source type: Electronic Database; N
 4 CONC umber of Pages: 1; Submitter Code: PJN
 3 _APID 1,7836::1044000
+0 @F167@ FAM
+1 HUSB @m7S8NZiWTMiBVI6bJCGw@
+1 WIFE @I221@
+1 CHIL @I222@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I223@
+2 _FREL Natural
+2 _MREL Natural
 0 @wgqzNudqQiahTIVJVBRt@ FAM
 1 REFN 10ba31b2-05f8-4cd1-bd95-fb8b64e82f62
 1 HUSB @rD96eglVQ2awA1txzbvA@
@@ -9186,6 +10705,22 @@
 2 NOTE Bond #25783
 3 CONT Bondsman: Albert G. Hubb
 3 CONT Witness: J. G. Stanly
+0 @F168@ FAM
+1 HUSB @2FXSVkJcRauyCWJUaelp@
+1 WIFE @I207@
+1 CHIL @I208@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I209@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I210@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR
+2 DATE 27 MAR 1917
+2 SOUR @tHaF8jEmQ2iLaD1A0WWD@
+3 OBJE @M146@
 0 @D8xlYLEfRmGBNIIwnLig@ FAM
 1 REFN 3bc59f50-79be-428b-a6e4-b55d8d713570
 1 HUSB @38LMnhq4RH2GpqyZU1l5@
@@ -9210,6 +10745,26 @@
 3 _APID 1,7602::77199158
 2 SOUR @Dut2uBTNRuK1Lv2laWIn@
 3 _APID 1,9105::175621
+0 @F171@ FAM
+1 HUSB @I229@
+1 WIFE @I231@
+1 CHIL @I232@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I233@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR
+2 DATE 25 NOV 1950
+2 PLAC Suffolk, Virginia, USA
+2 SOUR @S136@
+3 PAGE Virginia Department of Health; Richmond, Virginia; Virgini
+4 CONC a Marriages, 1936-2014; Roll: 101168928
+3 OBJE @M139@
+2 SOUR @S136@
+3 PAGE Virginia Department of Health; Richmond, Virginia; Virgini
+4 CONC a Marriages, 1936-2014; Roll: 101168928
+3 OBJE @M139@
 0 @LHya9Z67TC2a38KJXOzu@ FAM
 1 REFN d12a080b-30e2-4d81-bff8-dc5042e0012c
 1 HUSB @7VOmBsXaRTuZ5k3l420k@
@@ -9344,6 +10899,24 @@
 1 REFN c7d9ffdc-5c37-40bb-9b29-c759fced5fa9
 1 HUSB @YEBDD742S4q5fctJ0n6K@
 1 WIFE @aPPb1xJ8Rq2OAKr2SRUK@
+1 CHIL @I212@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I213@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I214@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I215@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I216@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I217@
+2 _FREL Natural
+2 _MREL Natural
 1 MARR
 2 DATE 1890
 2 SOUR @mC86ry2oSHmh7nonL8Y1@
@@ -9351,7 +10924,36 @@
 4 CONC oll: 1190; Page: 8B; Enumeration District: 0054; FHL microfi
 4 CONC lm: 1241190
 3 OBJE @ByaZklidT4OcSykT2RPt@
-3 _APID 1,7602::50199119
+2 SOUR @mC86ry2oSHmh7nonL8Y1@
+3 PAGE Year: 1900; Census Place: Newbern, Craven, North Carolina; R
+4 CONC oll: 1190; Page: 8B; Enumeration District: 0054; FHL microfi
+4 CONC lm: 1241190
+3 OBJE @ByaZklidT4OcSykT2RPt@
+0 @F164@ FAM
+1 HUSB @I213@
+1 WIFE @I226@
+1 CHIL @I230@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I228@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I227@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I229@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR
+2 DATE 04 JAN 1913
+2 PLAC Craven, North Carolina, USA
+3 MAP
+4 LATI N35.1204
+4 LONG W77.0821
+2 SOUR @6HNc22TuRWeAwAmhL5cp@
+3 OBJE @M137@
+2 SOUR @6HNc22TuRWeAwAmhL5cp@
+3 OBJE @M137@
 0 @o0HvXRpqTuWUUaLW0KIN@ FAM
 1 REFN 02073093-2634-4e93-a53f-0973c79afe3d
 1 HUSB @FnXtrjLnSnSZgS0IpBgX@
@@ -9394,10 +10996,29 @@
 1 CHIL @it4hotwURBCHlWW6giUn@
 2 _FREL Natural
 2 _MREL Natural
+0 @F166@ FAM
+1 HUSB @I219@
+1 WIFE @I212@
+1 CHIL @I220@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR
+2 DATE 09 DEC 1909
+2 PLAC Craven, North Carolina, USA
+3 MAP
+4 LATI N35.1204
+4 LONG W77.0821
+2 SOUR @6HNc22TuRWeAwAmhL5cp@
+3 OBJE @M134@
+2 SOUR @6HNc22TuRWeAwAmhL5cp@
+3 OBJE @M134@
 0 @uW9kOigAQWqDKqCgRneb@ FAM
 1 REFN 3682835f-9e40-4066-a696-5345284172b2
 1 HUSB @jkKls3vQSgqyACOybfs8@
 1 WIFE @tN86To0oTXKq4Y9W5BoW@
+0 @F170@ FAM
+1 HUSB @I225@
+1 WIFE @I220@
 0 @V7uOkwSuTtmeny4aqqX8@ FAM
 1 REFN 635a0b61-7dfc-4a2d-ad87-941aa760670d
 1 HUSB @HC6HRbBrTxqIg3yJKw1y@
@@ -9646,6 +11267,9 @@
 2 SOUR @q7EjXFekQ2GhXPFge5K6@
 2 NOTE IGI actally has 2 May 1752, assume 1742, need to check origi
 3 CONC nal document
+0 @F172@ FAM
+1 HUSB @I234@
+1 WIFE @I232@
 0 @AfNR54ufS02zD4MUVs0j@ FAM
 1 REFN da47fe89-eb0e-4364-b710-765f846c09eb
 1 HUSB @BbmzCCAVQYCy9n1qCPuR@
@@ -9654,6 +11278,16 @@
 2 DATE 27 JAN 1773
 2 SOUR @hpjMLgmJTOiRswjAwKqF@
 3 QUAY 1
+0 @F165@ FAM
+1 HUSB @I218@
+1 WIFE @I212@
+1 MARR
+2 DATE 28 OCT 1933
+2 PLAC Carteret, North Carolina, USA
+2 SOUR @6HNc22TuRWeAwAmhL5cp@
+3 OBJE @M128@
+2 SOUR @6HNc22TuRWeAwAmhL5cp@
+3 OBJE @M128@
 0 @titZyrCyQOmAW4sodKME@ FAM
 1 REFN db738e0a-ab26-4fb6-b051-076b358bd017
 1 HUSB @1OVGPZL3TEGkhY2kcpUN@
@@ -9881,12 +11515,24 @@
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations Inc; Location: Provo, UT, USA; Date
 2 CONC : 2004
+0 @mC86ry2oSHmh7nonL8Y1@ SOUR
+1 REPO @t1Wm6WiqTK6oX61EAKx1@
+1 TITL 1900 United States Federal Census
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations Inc; Location: Provo, UT, USA; Date
+2 CONC : 2004
 0 @hIIkniqYQk2sh1jQxPat@ SOUR
 1 REFN a9f0392d-3b21-492f-9c0f-2afe77e770de
 1 REPO @t1Wm6WiqTK6oX61EAKx1@
 1 TITL 1910 United States Federal Census
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations Inc; Location: Provo, UT, USA; Date
+2 CONC : 2006
+0 @hIIkniqYQk2sh1jQxPat@ SOUR
+1 REPO @t1Wm6WiqTK6oX61EAKx1@
+1 TITL 1910 United States Federal Census
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations Inc; Location: Lehi, UT, USA; Date
 2 CONC : 2006
 0 @mbOG3UlsTAK4huKXCtuf@ SOUR
 1 REFN a993fdd0-63b1-4351-a81e-3228418e5599
@@ -9903,6 +11549,12 @@
 2 CONC publications/microfilm-catalogs/census/1920/part-07.html" ta
 2 CONC rget="_blank">NARA</a>. Note: Enumeration Districts 819-83
 2 CONC 9 are on roll 323 (Chicago City).
+0 @mbOG3UlsTAK4huKXCtuf@ SOUR
+1 REPO @t1Wm6WiqTK6oX61EAKx1@
+1 TITL 1920 United States Federal Census
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
+2 CONC e: 2010
 0 @R3Z2YJhOQr68n6nDn8DD@ SOUR
 1 REFN 0b45aef1-d6d2-4b30-b170-3515a922ad84
 1 REPO @t1Wm6WiqTK6oX61EAKx1@
@@ -9912,6 +11564,12 @@
 2 CONC : 2010
 0 @BEYQ3rohSvuIt3MHvlS4@ SOUR
 1 REFN 5cb262ca-b5f9-4855-b33c-10886980fbbc
+1 REPO @t1Wm6WiqTK6oX61EAKx1@
+1 TITL 1930 United States Federal Census
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations Inc; Location: Provo, UT, USA; Date
+2 CONC : 2002
+0 @BEYQ3rohSvuIt3MHvlS4@ SOUR
 1 REPO @t1Wm6WiqTK6oX61EAKx1@
 1 TITL 1930 United States Federal Census
 1 AUTH Ancestry.com
@@ -9928,6 +11586,12 @@
 2 CONC h Census of the United States, 1940</i>. Washington, D.C.: N
 2 CONC ational Archives and Records Administration, 1940. T627, 4,6
 2 CONC 43 rolls.
+0 @NpC4GLt3TzSSPnje90b3@ SOUR
+1 REPO @t1Wm6WiqTK6oX61EAKx1@
+1 TITL 1940 United States Federal Census
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
+2 CONC e: 2012
 0 @PDyJmITIR6ixzUXOtcm5@ SOUR
 1 REFN 8b74dc8f-88ff-404e-a897-1e5c7def1480
 1 REPO @t1Wm6WiqTK6oX61EAKx1@
@@ -10547,28 +12211,6 @@
 2 CONT Mark Dis., 8/3/5l to l2/24/36<br />
 2 CONT Bertha E. Simpkins wife of Wm. J. Disosway l0/5/94 to 5/l9/2
 2 CONC 4<br />
-0 @EaBDHOKwQruLeNxgU9qi@ SOUR
-1 REFN 4ede9331-69ae-4772-a23d-e92fb40f5ef4
-1 TITL E-mail to Chris Mosher, History of Fred Mosher
-1 AUTH Mosher, Barry Rexford
-1 PUBL 21 Aug 2001, Shelton, CT
-1 TEXT garde school in lebanon ny
-2 CONT gr.1-2-3-4<br />
-2 CONT it was a 2 rm school house<br />
-2 CONT 4th gr moved to the farm on utica rd<br />
-2 CONT attended hamilton school, <br />
-2 CONT elem & hi-school were all in same bldg.<br />
-2 CONT bldg long since gone.<br />
-2 CONT fig age 5 or 6 starting 1st gr & work from there.<br />
-2 CONT work back from when fred & alice got married<br />
-2 CONT to est colgate.<br />
-2 CONT i know he worked in the colgate heating<br />
-2 CONT plant w/ john harrison. thats how he met mom.<br />
-2 CONT fred went to colgate 2yrs<br />
-2 CONT my guess he droped out in 33 or 34<br />
-2 CONT no $ to pay costs. may have been earlier<br />
-2 CONT dob 1911 say grad hs @@ 18 would make 1929<br />
-2 CONT earliest for colgate<br />
 0 @hcjVXhxmQGWqASqV2gHt@ SOUR
 1 REFN f4a45593-7777-49b4-bba9-c6f6da957f66
 1 TITL Email from Stephen Sanford to Chris Mosher
@@ -10603,6 +12245,18 @@
 1 TITL GenForum Post: Teeds of Westchester, NY
 1 AUTH McManus, Pater
 1 PUBL www.genforum.com: Teed Family Genealogy Forum, 9 Apr 2000
+0 @S149@ SOUR
+1 REPO @t1Wm6WiqTK6oX61EAKx1@
+1 TITL Georgia, Deaths Index, 1914-1940
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
+2 CONC e: 2011
+0 @S148@ SOUR
+1 REPO @t1Wm6WiqTK6oX61EAKx1@
+1 TITL Georgia, World War I Service Cards, 1917-1919
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
+2 CONC e: 2013
 0 @PBiCW5xGQCCTqgbTPV76@ SOUR
 1 REFN fdbe09d8-1222-4e23-8565-cad74c849dc0
 1 TITL Glance Behind the Scenes, advertizement
@@ -10713,6 +12367,13 @@
 2 CONC ashington Post</i>. Washington, D.C., USA: The Washington Po
 2 CONC st, 1877-1990.</li><li><i>The Atlanta Constitution</i>. Atla
 2 CONC nta, GA, USA: The Atlanta Constitution, 1868-1929.</li></ul>
+0 @tHaF8jEmQ2iLaD1A0WWD@ SOUR
+1 REPO @t1Wm6WiqTK6oX61EAKx1@
+1 TITL Historical Newspapers, Birth, Marriage, & Death Announcement
+2 CONC s, 1851-2003
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations Inc; Location: Provo, UT, USA; Date
+2 CONC : 2006
 0 @HKDUpbS3R4uOcoFT6J5b@ SOUR
 1 REFN 4ec59169-a233-4a4c-9009-b8e37917f28b
 1 TITL History of Early Amateur Journalism in North Carolina
@@ -11043,6 +12704,13 @@
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2014
+0 @S155@ SOUR
+1 REPO @t1Wm6WiqTK6oX61EAKx1@
+1 TITL New York, Passenger and Crew Lists (including Castle Garde
+2 CONC n and Ellis Island), 1820-1957
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
+2 CONC e: 2010
 0 @RnHpwQCwRlGqTPkQrHzm@ SOUR
 1 REFN b58a2e14-bd6b-465a-a699-328ff0727a44
 1 REPO @t1Wm6WiqTK6oX61EAKx1@
@@ -11092,6 +12760,12 @@
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations Inc; Location: Provo, UT, USA; Date
 2 CONC : 2007
+0 @6kNViZwoSmqHOu7WQ1UO@ SOUR
+1 REPO @t1Wm6WiqTK6oX61EAKx1@
+1 TITL North Carolina, Death Certificates, 1909-1976
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations Inc; Location: Provo, UT, USA; Date
+2 CONC : 2007
 0 @GAkjO55IQZSzwB3cRXXa@ SOUR
 1 REFN 32ebb831-4f59-4519-bb44-6f5cbbeb57d2
 1 REPO @7LY3ePGOQeWewyWbcILI@
@@ -11108,8 +12782,20 @@
 2 CONC h Carolina Archives and Records Section. <i>North Carolina C
 2 CONC ounty Records, 1908-1967</i>. North Carolina State Archives
 2 CONC , Raleigh, North Carolina.</li></ul>
+0 @GAkjO55IQZSzwB3cRXXa@ SOUR
+1 REPO @t1Wm6WiqTK6oX61EAKx1@
+1 TITL North Carolina, Death Indexes, 1908-2004
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
+2 CONC e: 2007
 0 @wxX1H8IFSjaxNCTLcV9E@ SOUR
 1 REFN 09ca342f-9b7e-4392-b433-66e92b6861a9
+1 REPO @t1Wm6WiqTK6oX61EAKx1@
+1 TITL North Carolina, Deaths, 1906-1930
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
+2 CONC e: 2014
+0 @wxX1H8IFSjaxNCTLcV9E@ SOUR
 1 REPO @t1Wm6WiqTK6oX61EAKx1@
 1 TITL North Carolina, Deaths, 1906-1930
 1 AUTH Ancestry.com
@@ -11124,6 +12810,12 @@
 2 CONC : 2000
 0 @6HNc22TuRWeAwAmhL5cp@ SOUR
 1 REFN c67cee15-f177-46bc-8e57-b91b927dfb32
+1 REPO @t1Wm6WiqTK6oX61EAKx1@
+1 TITL North Carolina, Marriage Records, 1741-2011
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
+2 CONC e: 2015
+0 @6HNc22TuRWeAwAmhL5cp@ SOUR
 1 REPO @t1Wm6WiqTK6oX61EAKx1@
 1 TITL North Carolina, Marriage Records, 1741-2011
 1 AUTH Ancestry.com
@@ -11295,6 +12987,12 @@
 2 CONC ity Death Records Nashville, Knoxville, Chattanooga, Memphi
 2 CONC s 1848-1907</i>. Nashville, Tennessee: Tennessee State Libra
 2 CONC ry and Archives.</p>
+0 @S145@ SOUR
+1 REPO @t1Wm6WiqTK6oX61EAKx1@
+1 TITL Texas, County Marriage Records, 1817-1965
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.; Location: Lehi, UT, USA; Date
+2 CONC : 2016
 0 @hw8RVkrRR3O68OmEfNIx@ SOUR
 1 REFN a8249d21-1f06-44b0-bd51-80c7acf03cab
 1 REPO @t1Wm6WiqTK6oX61EAKx1@
@@ -11302,6 +13000,18 @@
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2013
+0 @hw8RVkrRR3O68OmEfNIx@ SOUR
+1 REPO @t1Wm6WiqTK6oX61EAKx1@
+1 TITL Texas, Death Certificates, 1903-1982
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
+2 CONC e: 2013
+0 @S146@ SOUR
+1 REPO @t1Wm6WiqTK6oX61EAKx1@
+1 TITL Texas, Select County Marriage Index, 1837-1965
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
+2 CONC e: 2014
 0 @r8z4KK5oSiCHcHw1jNfg@ SOUR
 1 REFN 25571bbd-1d9c-423b-923c-ea91f8ed7dc9
 1 REPO @t1Wm6WiqTK6oX61EAKx1@
@@ -11343,6 +13053,12 @@
 2 CONC he image viewer page.
 2 CONT Check the directory title page image for full title and publ
 2 CONC ication information.
+0 @xYrZTuCJT5Sl3l1J5I0J@ SOUR
+1 REPO @t1Wm6WiqTK6oX61EAKx1@
+1 TITL U.S. City Directories, 1822-1995
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
+2 CONC e: 2011
 0 @pUePxyvvQoCugQo8OTOF@ SOUR
 1 REFN 5aa49e50-b74c-4584-9bec-d9c57783cf6b
 1 REPO @t1Wm6WiqTK6oX61EAKx1@
@@ -11375,6 +13091,12 @@
 2 CONC e Freedman's Savings and Trust Company, 1865-1874</i>. Washi
 2 CONC ngton, D.C.: National Archives and Records Administration. M
 2 CONC icropublication M816, 27 rolls.
+0 @S137@ SOUR
+1 REPO @t1Wm6WiqTK6oX61EAKx1@
+1 TITL U.S., Obituary Collection, 1930-Current
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations Inc; Location: Lehi, UT, USA; Date
+2 CONC : 2006
 0 @snIt2lciR5SigrTgo141@ SOUR
 1 REFN 660af9af-55ca-4871-9828-e4c48f7935a4
 1 REPO @7LY3ePGOQeWewyWbcILI@
@@ -11393,6 +13115,12 @@
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2015
+0 @S152@ SOUR
+1 REPO @t1Wm6WiqTK6oX61EAKx1@
+1 TITL U.S., Social Security Death Index, 1935-2014
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations Inc; Location: Provo, UT, USA; Date
+2 CONC : 2014
 0 @hbWNuFKLSJGED9AQ2SKp@ SOUR
 1 REFN 10de571e-ae23-42bc-8c70-627f50f82030
 1 REPO @t1Wm6WiqTK6oX61EAKx1@
@@ -11408,6 +13136,12 @@
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2011
+0 @S154@ SOUR
+1 REPO @t1Wm6WiqTK6oX61EAKx1@
+1 TITL U.S., World War I Draft Registration Cards, 1917-1918
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations Inc; Location: Provo, UT, USA; Date
+2 CONC : 2005
 0 @oG4j8KCURdGND5WDWEMo@ SOUR
 1 REFN 065f38f6-e7ff-4806-8d07-12c87e85653f
 1 TITL US Census, 1790, NY, Richmond, Westfield
@@ -12054,6 +13788,12 @@
 1 TITL Van Deventer Family, The
 1 AUTH Van Deventer, Christobelle
 1 PUBL E. W. Stephens Co., Columbia, MO, 1943
+0 @S136@ SOUR
+1 REPO @t1Wm6WiqTK6oX61EAKx1@
+1 TITL Virginia, Marriage Records, 1936-2014
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
+2 CONC e: 2015
 0 @q4t025liRRucRHtL08cy@ SOUR
 1 REFN c53a95ac-5bad-4441-a0d8-7dfdf153c65e
 1 REPO @t1Wm6WiqTK6oX61EAKx1@
@@ -13001,4 +14741,236 @@
 2 _TEXT "Craven County, North Carolina, Index to Marriage Bonds, Abs
 3 CONC tracts, 1780-1865," Gooding, Susan Maria, and Disosway, Isra
 3 CONC el, p. 90
+0 @M121@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Disosway Media\
+2 CONC Georgia, Deaths Index, 1914-1940.jpg
+2 FORM jpg
+2 TITL Georgia, Deaths Index, 1914-1940
+2 _TEXT Georgia Department of Health and Vital Statistics; Atlanta
+3 CONC , Georgia
+0 @M122@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Disosway Media\
+2 CONC 1930 United States Federal Census.jpg
+2 FORM jpg
+2 TITL 1930 United States Federal Census
+2 _TEXT Year: 1930; Census Place: Buckhead, Fulton, Georgia; Page: 1
+3 CONC 2B; Enumeration District: 0147; FHL microfilm: 2340092
+0 @M123@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Disosway Media\
+2 CONC 1920 United States Federal Census.jpg
+2 FORM jpg
+2 TITL 1920 United States Federal Census
+2 _TEXT Year: 1920; Census Place: Atlanta Ward 8, Fulton, Georgia; R
+3 CONC oll: T625_253; Page: 20B; Enumeration District: 126
+0 @M124@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Disosway Media\
+2 CONC 1900 United States Federal Census.jpg
+2 FORM jpg
+2 TITL 1900 United States Federal Census
+2 _TEXT Year: 1900; Census Place: Newbern, Craven, North Carolina; P
+3 CONC age: 8; Enumeration District: 0054; FHL microfilm: 1241190
+0 @M125@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Disosway Media\
+2 CONC 1920 United States Federal Census(1).jpg
+2 FORM jpg
+2 TITL 1920 United States Federal Census
+2 _TEXT Year: 1920; Census Place: New Bern Ward 4, Craven, North Car
+3 CONC olina; Roll: T625_1293; Page: 1A; Enumeration District: 25
+0 @M126@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Disosway Media\
+2 CONC North Carolina, Death Certificates, 1909-1976(3).jpg
+2 FORM jpg
+2 TITL North Carolina, Death Certificates, 1909-1976
+2 _TEXT North Carolina State Archives; Raleigh, North Carolina; Nort
+3 CONC h Carolina Death Certificates
+0 @M127@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Disosway Media\
+2 CONC U.S. City Directories, 1822-1995.jpg
+2 FORM jpg
+2 TITL U.S. City Directories, 1822-1995
+0 @M128@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Disosway Media\
+2 CONC North Carolina, Marriage Records, 1741-2011(2).jpg
+2 FORM jpg
+2 TITL North Carolina, Marriage Records, 1741-2011
+0 @M129@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Disosway Media\
+2 CONC North Carolina, Deaths, 1906-1930(2).jpg
+2 FORM jpg
+2 TITL North Carolina, Deaths, 1906-1930
+0 @M130@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Disosway Media\
+2 CONC North Carolina, Death Indexes, 1908-2004(4).jpg
+2 FORM jpg
+2 TITL North Carolina, Death Indexes, 1908-2004
+0 @M131@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Disosway Media\
+2 CONC 1930 United States Federal Census(1).jpg
+2 FORM jpg
+2 TITL 1930 United States Federal Census
+2 _TEXT Year: 1930; Census Place: New Bern, Craven, North Carolina
+3 CONC ; Page: 28B; Enumeration District: 0020; FHL microfilm: 2341
+3 CONC 417
+0 @M132@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Disosway Media\
+2 CONC 1910 United States Federal Census.jpg
+2 FORM jpg
+2 TITL 1910 United States Federal Census
+2 _TEXT Year: 1910; Census Place: New Bern Ward 6, Craven, North Car
+3 CONC olina; Roll: T624_1104; Page: 27A; Enumeration District: 002
+3 CONC 7; FHL microfilm: 1375117
+0 @M133@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Disosway Media\
+2 CONC North Carolina, Death Certificates, 1909-1976(6).jpg
+2 FORM jpg
+2 TITL North Carolina, Death Certificates, 1909-1976
+2 _TEXT North Carolina State Archives; Raleigh, North Carolina; Nort
+3 CONC h Carolina Death Certificates
+0 @M134@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Disosway Media\
+2 CONC North Carolina, Marriage Records, 1741-2011(3).jpg
+2 FORM jpg
+2 TITL North Carolina, Marriage Records, 1741-2011
+0 @M135@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Disosway Media\
+2 CONC 1940 United States Federal Census.jpg
+2 FORM jpg
+2 TITL 1940 United States Federal Census
+2 _TEXT Year: 1940; Census Place: New Bern, Craven, North Carolina
+3 CONC ; Roll: m-t0627-02894; Page: 2B; Enumeration District: 25-25
+0 @M136@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Disosway Media\
+2 CONC 1910 United States Federal Census(1).jpg
+2 FORM jpg
+2 TITL 1910 United States Federal Census
+2 _TEXT Year: 1910; Census Place: Warwick, Kent, Rhode Island; Roll
+3 CONC : T624_1436; Page: 2A; Enumeration District: 0015; FHL micro
+3 CONC film: 1375449
+0 @M137@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Disosway Media\
+2 CONC North Carolina, Marriage Records, 1741-2011(4).jpg
+2 FORM jpg
+2 TITL North Carolina, Marriage Records, 1741-2011
+0 @M138@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Disosway Media\
+2 CONC North Carolina, Deaths, 1906-1930(3).jpg
+2 FORM jpg
+2 TITL North Carolina, Deaths, 1906-1930
+0 @M139@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Disosway Media\
+2 CONC Virginia, Marriage Records, 1936-2014.jpg
+2 FORM jpg
+2 TITL Virginia, Marriage Records, 1936-2014
+2 _TEXT Virginia Department of Health; Richmond, Virginia; Virgini
+3 CONC a Marriages, 1936-2014; Roll: 101168928
+0 @M140@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Disosway Media\
+2 CONC 1900 United States Federal Census(1).jpg
+2 FORM jpg
+2 TITL 1900 United States Federal Census
+2 _TEXT Year: 1900; Census Place: Newbern, Craven, North Carolina; P
+3 CONC age: 9; Enumeration District: 0054; FHL microfilm: 1241190
+0 @M141@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Disosway Media\
+2 CONC U.S., World War I Draft Registration Cards, 1917-1918.jpg
+2 FORM jpg
+2 TITL U.S., World War I Draft Registration Cards, 1917-1918
+2 _TEXT Registration State: North Carolina; Registration County: Cra
+3 CONC ven; Roll: 1765633
+0 @M142@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Disosway Media\
+2 CONC North Carolina, Deaths, 1906-1930(4).jpg
+2 FORM jpg
+2 TITL North Carolina, Deaths, 1906-1930
+0 @M143@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Disosway Media\
+2 CONC North Carolina, Death Certificates, 1909-1976(7).jpg
+2 FORM jpg
+2 TITL North Carolina, Death Certificates, 1909-1976
+2 _TEXT North Carolina State Archives; Raleigh, North Carolina; Nort
+3 CONC h Carolina Death Certificates
+0 @M144@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Disosway Media\
+2 CONC New York, Passenger and Crew Lists (including Castle Garde
+2 CONC n and Ellis Island), 1820-1957.jpg
+2 FORM jpg
+2 TITL New York, Passenger and Crew Lists (including Castle Garde
+3 CONC n and Ellis Island), 1820-1957
+2 _TEXT Year: 1930; Arrival: New York, New York; Microfilm Serial: T
+3 CONC 715, 1897-1957; Microfilm Roll: Roll 4816; Line: 6; Page Num
+3 CONC ber: 103
+0 @M145@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Disosway Media\
+2 CONC 1920 United States Federal Census(2).jpg
+2 FORM jpg
+2 TITL 1920 United States Federal Census
+2 _TEXT Year: 1920; Census Place: Dallas Precinct 18, Dallas, Texas
+3 CONC ; Roll: T625_1792; Page: 25A; Enumeration District: 34
+0 @M146@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Disosway Media\
+2 CONC Historical Newspapers, Birth, Marriage, & Death Announcement
+2 CONC s, 1851-2003(1).jpg
+2 FORM jpg
+2 TITL Historical Newspapers, Birth, Marriage, & Death Announcement
+3 CONC s, 1851-2003
+0 @M147@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Disosway Media\
+2 CONC Texas, Death Certificates, 1903-1982(1).jpg
+2 FORM jpg
+2 TITL Texas, Death Certificates, 1903-1982
+2 _TEXT Texas Department of State Health Services; Austin Texas, USA
+0 @M148@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Disosway Media\
+2 CONC U.S. City Directories, 1822-1995(1).jpg
+2 FORM jpg
+2 TITL U.S. City Directories, 1822-1995
+0 @M149@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Disosway Media\
+2 CONC North Carolina, Death Certificates, 1909-1976(8).jpg
+2 FORM jpg
+2 TITL North Carolina, Death Certificates, 1909-1976
+2 _TEXT North Carolina State Archives; Raleigh, North Carolina; Nort
+3 CONC h Carolina Death Certificates
+0 @M150@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Disosway Media\
+2 CONC Georgia, World War I Service Cards, 1917-1919.jpg
+2 FORM jpg
+2 TITL Georgia, World War I Service Cards, 1917-1919
+0 @M151@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Disosway Media\
+2 CONC 1910 United States Federal Census(2).jpg
+2 FORM jpg
+2 TITL 1910 United States Federal Census
+2 _TEXT Year: 1910; Census Place: Dallas Ward 9, Dallas, Texas; Roll
+3 CONC : T624_1544; Page: 6B; Enumeration District: 0073; FHL micro
+3 CONC film: 1375557
+0 @M152@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Disosway Media\
+2 CONC Texas, Death Certificates, 1903-1982(2).jpg
+2 FORM jpg
+2 TITL Texas, Death Certificates, 1903-1982
+2 _TEXT Texas Department of State Health Services; Austin Texas, USA
+0 @M153@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Disosway Media\
+2 CONC U.S. City Directories, 1822-1995(2).jpg
+2 FORM jpg
+2 TITL U.S. City Directories, 1822-1995
+0 @M154@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Disosway Media\
+2 CONC U.S. City Directories, 1822-1995(4).jpg
+2 FORM jpg
+2 TITL U.S. City Directories, 1822-1995
+0 @M155@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Disosway Media\
+2 CONC Virginia, Marriage Records, 1936-2014(1).jpg
+2 FORM jpg
+2 TITL Virginia, Marriage Records, 1936-2014
+2 _TEXT Virginia Department of Health; Richmond, Virginia; Virgini
+3 CONC a Marriages, 1936-2014; Roll: 101176702
+0 @M156@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Disosway Media\
+2 CONC North Carolina, Death Certificates, 1909-1976(9).jpg
+2 FORM jpg
+2 TITL North Carolina, Death Certificates, 1909-1976
+2 _TEXT North Carolina, Death Certificates, 1909-1976 Record
 0 TRLR
