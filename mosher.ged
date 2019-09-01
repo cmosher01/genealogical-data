@@ -14,9 +14,9 @@
 4 CONT Boston, MA 02109
 3 PHON (617) 227-6681
 1 DEST FTM
-1 FILE Mosher_2019-08-28-01-13-51.ftm.ged
-1 DATE 28 AUG 2019
-2 TIME 01:15:40
+1 FILE Mosher_2019-09-01-04-00-16.ftm.ged
+1 DATE 01 SEP 2019
+2 TIME 04:01:30
 0 @Umy2qBWIRUiwVSS6Hcn4@ SUBM
 1 NAME Christopher Alan Mosher
 2 EMAIL cmosher01@@gmail.com
@@ -68,6 +68,7 @@
 4 CONC ce System, 147; Box: 1260
 3 _APID 1,2238::70016888
 2 SOUR @S215@
+3 _APID 1,60901::770294126
 1 SEX F
 1 FAMS @F436@
 1 BIRT
@@ -413,6 +414,7 @@
 2 SOUR @S282@
 3 _APID 1,2542::2355850
 2 SOUR @S215@
+3 _APID 1,60901::761912538
 1 SEX F
 1 FAMS @F429@
 1 BIRT
@@ -794,6 +796,7 @@
 2 SOUR @S241@
 3 _APID 1,60525::58160267
 2 SOUR @S215@
+3 _APID 1,60901::24852300
 2 SOUR @yAMTVEqOTiKCsMjPyXmb@
 3 PAGE Number: 051-36-0749; Issue State: New York; Issue Date: 1961
 4 CONC -1962
@@ -813,6 +816,7 @@
 2 SOUR @S241@
 3 _APID 1,60525::58160267
 2 SOUR @S215@
+3 _APID 1,60901::24852300
 2 SOUR @yAMTVEqOTiKCsMjPyXmb@
 3 PAGE Number: 051-36-0749; Issue State: New York; Issue Date: 1961
 4 CONC -1962
@@ -839,6 +843,7 @@
 2 SOUR @S241@
 3 _APID 1,60525::58160267
 2 SOUR @S215@
+3 _APID 1,60901::24852300
 2 SOUR @yAMTVEqOTiKCsMjPyXmb@
 3 PAGE Number: 051-36-0749; Issue State: New York; Issue Date: 1961
 4 CONC -1962
@@ -1106,16 +1111,18 @@
 1 _XY 1200.00 1275.00
 0 @I599@ INDI
 1 NAME Menassah /Bloss/
-2 SOUR @bHQuWN4FTpusbsry9cjZ@
+2 SOUR @S315@
 3 PAGE Year: 1800; Census Place: Burlington, Otsego, New York; Seri
 4 CONC es: M32; Roll: 25; Page: 652; Image: 83; Family History Libr
 4 CONC ary Film: 193713
 3 OBJE @M459@
-2 SOUR @YTSxHe1ZQvOS6MgNDuq4@
+3 _APID 1,7590::264002
+2 SOUR @S316@
 3 PAGE Year: 1810; Census Place: Burlington, Otsego, New York; Roll
 4 CONC : 34; Page: 142; Image: 00082; Family History Library Film
 4 CONC : 0181388
 3 OBJE @M462@
+3 _APID 1,7613::307872
 2 SOUR @8DCmzn75S8CoxNQmoyL8@
 3 PAGE 1820 U S Census; Census Place: Burlington, Otsego, New York
 4 CONC ; Page: 153; NARA Roll: M33_74; Image: 164
@@ -1135,6 +1142,7 @@
 3 _APID 1,61401::453817
 2 SOUR @S298@
 3 OBJE @M458@
+3 _APID 1,2495::81296103
 2 SOUR @S313@
 3 _APID 1,4094::80798
 1 SEX M
@@ -1154,6 +1162,7 @@
 3 _APID 1,61401::453817
 2 SOUR @S298@
 3 OBJE @M458@
+3 _APID 1,2495::81296103
 2 SOUR @S313@
 3 _APID 1,4094::80798
 1 RESI
@@ -1162,22 +1171,24 @@
 3 MAP
 4 LATI N42.7228
 4 LONG W75.1258
-2 SOUR @bHQuWN4FTpusbsry9cjZ@
+2 SOUR @S315@
 3 PAGE Year: 1800; Census Place: Burlington, Otsego, New York; Seri
 4 CONC es: M32; Roll: 25; Page: 652; Image: 83; Family History Libr
 4 CONC ary Film: 193713
 3 OBJE @M459@
+3 _APID 1,7590::264002
 1 RESI
 2 DATE 1810
 2 PLAC Burlington, Otsego, New York, USA
 3 MAP
 4 LATI N42.7228
 4 LONG W75.1258
-2 SOUR @YTSxHe1ZQvOS6MgNDuq4@
+2 SOUR @S316@
 3 PAGE Year: 1810; Census Place: Burlington, Otsego, New York; Roll
 4 CONC : 34; Page: 142; Image: 00082; Family History Library Film
 4 CONC : 0181388
 3 OBJE @M462@
+3 _APID 1,7613::307872
 1 RESI
 2 DATE 1820
 2 PLAC Burlington, Otsego, New York, USA
@@ -2065,33 +2076,33 @@
 4 CONC 432_527; Page: 308A; Image: 76
 3 OBJE @M272@
 3 _APID 1,8054::7046182
-2 SOUR @omMXaVgrQNKvPl1yRe9j@
+2 SOUR @S306@
 3 PAGE Letters Testamentary, 1847-1899 and Index, 1806-1890; Author
 4 CONC : New York. Surrogate's Court (Madison County); Probate Plac
 4 CONC e: Madison, New York
 3 OBJE @M288@
 3 _APID 1,8800::1715431
-2 SOUR @omMXaVgrQNKvPl1yRe9j@
+2 SOUR @S306@
 3 PAGE Minutes, Order and Decrees, 1830-1902, and Miscellaneous Min
 4 CONC utes, Orders and Decrees, 1854-1900 (Madison County, New Yor
 4 CONC k); Author: New York. Surrogate's Court (Madison County); Pr
 4 CONC obate Place: Madison, New York; D: 432
 3 OBJE @M286@
 3 _APID 1,8800::1117318
-2 SOUR @omMXaVgrQNKvPl1yRe9j@
+2 SOUR @S306@
 3 PAGE Minutes, Order and Decrees, 1830-1902, and Miscellaneous Min
 4 CONC utes, Orders and Decrees, 1854-1900 (Madison County, New Yor
 4 CONC k); Author: New York. Surrogate's Court (Madison County); Pr
 4 CONC obate Place: Madison, New York; D: 446
 3 OBJE @M284@
 3 _APID 1,8800::1117341
-2 SOUR @omMXaVgrQNKvPl1yRe9j@
+2 SOUR @S306@
 3 PAGE Will Records, 1806-1900, Madison County, New York; Author: N
 4 CONC ew York. Surrogate's Court (Madison County); Probate Place
 4 CONC : Madison, New York
 3 OBJE @M287@
 3 _APID 1,8800::2157413
-2 SOUR @omMXaVgrQNKvPl1yRe9j@
+2 SOUR @S306@
 3 PAGE Will Records, 1806-1900, Madison County, New York; Author: N
 4 CONC ew York. Surrogate's Court (Madison County); Probate Place
 4 CONC : Madison, New York (index)
@@ -2143,13 +2154,13 @@
 3 MAP
 4 LATI N42.9118
 4 LONG W75.6682
-2 SOUR @omMXaVgrQNKvPl1yRe9j@
+2 SOUR @S306@
 3 PAGE Will Records, 1806-1900, Madison County, New York; Author: N
 4 CONC ew York. Surrogate's Court (Madison County); Probate Place
 4 CONC : Madison, New York
 3 OBJE @M287@
 3 _APID 1,8800::2157413
-2 SOUR @omMXaVgrQNKvPl1yRe9j@
+2 SOUR @S306@
 3 PAGE Will Records, 1806-1900, Madison County, New York; Author: N
 4 CONC ew York. Surrogate's Court (Madison County); Probate Place
 4 CONC : Madison, New York (index)
@@ -2183,33 +2194,33 @@
 3 MAP
 4 LATI N42.9118
 4 LONG W75.6682
-2 SOUR @omMXaVgrQNKvPl1yRe9j@
+2 SOUR @S306@
 3 PAGE Letters Testamentary, 1847-1899 and Index, 1806-1890; Author
 4 CONC : New York. Surrogate's Court (Madison County); Probate Plac
 4 CONC e: Madison, New York
 3 OBJE @M288@
 3 _APID 1,8800::1715431
-2 SOUR @omMXaVgrQNKvPl1yRe9j@
+2 SOUR @S306@
 3 PAGE Minutes, Order and Decrees, 1830-1902, and Miscellaneous Min
 4 CONC utes, Orders and Decrees, 1854-1900 (Madison County, New Yor
 4 CONC k); Author: New York. Surrogate's Court (Madison County); Pr
 4 CONC obate Place: Madison, New York; D: 432
 3 OBJE @M286@
 3 _APID 1,8800::1117318
-2 SOUR @omMXaVgrQNKvPl1yRe9j@
+2 SOUR @S306@
 3 PAGE Minutes, Order and Decrees, 1830-1902, and Miscellaneous Min
 4 CONC utes, Orders and Decrees, 1854-1900 (Madison County, New Yor
 4 CONC k); Author: New York. Surrogate's Court (Madison County); Pr
 4 CONC obate Place: Madison, New York; D: 446
 3 OBJE @M284@
 3 _APID 1,8800::1117341
-2 SOUR @omMXaVgrQNKvPl1yRe9j@
+2 SOUR @S306@
 3 PAGE Will Records, 1806-1900, Madison County, New York; Author: N
 4 CONC ew York. Surrogate's Court (Madison County); Probate Place
 4 CONC : Madison, New York
 3 OBJE @M287@
 3 _APID 1,8800::2157413
-2 SOUR @omMXaVgrQNKvPl1yRe9j@
+2 SOUR @S306@
 3 PAGE Will Records, 1806-1900, Madison County, New York; Author: N
 4 CONC ew York. Surrogate's Court (Madison County); Probate Place
 4 CONC : Madison, New York (index)
@@ -2223,7 +2234,7 @@
 3 MAP
 4 LATI N42.9118
 4 LONG W75.6682
-2 SOUR @omMXaVgrQNKvPl1yRe9j@
+2 SOUR @S306@
 3 PAGE Minutes, Order and Decrees, 1830-1902, and Miscellaneous Min
 4 CONC utes, Orders and Decrees, 1854-1900 (Madison County, New Yor
 4 CONC k); Author: New York. Surrogate's Court (Madison County); Pr
@@ -2236,13 +2247,13 @@
 3 MAP
 4 LATI N42.9118
 4 LONG W75.6682
-2 SOUR @omMXaVgrQNKvPl1yRe9j@
+2 SOUR @S306@
 3 PAGE Letters Testamentary, 1847-1899 and Index, 1806-1890; Author
 4 CONC : New York. Surrogate's Court (Madison County); Probate Plac
 4 CONC e: Madison, New York
 3 OBJE @M288@
 3 _APID 1,8800::1715431
-2 SOUR @omMXaVgrQNKvPl1yRe9j@
+2 SOUR @S306@
 3 PAGE Minutes, Order and Decrees, 1830-1902, and Miscellaneous Min
 4 CONC utes, Orders and Decrees, 1854-1900 (Madison County, New Yor
 4 CONC k); Author: New York. Surrogate's Court (Madison County); Pr
@@ -3605,6 +3616,7 @@
 3 OBJE @RTJ3xAR4Sxi2cySY7jnZ@
 3 _APID 1,7364::5917481
 2 SOUR @S215@
+3 _APID 1,60901::613933553
 2 SOUR @S257@
 3 _APID 1,70500::1455673
 1 SEX M
@@ -4344,6 +4356,7 @@
 3 OBJE @M493@
 3 _APID 1,6224::19864701
 2 SOUR @S215@
+3 _APID 1,60901::25074332
 2 SOUR @yAMTVEqOTiKCsMjPyXmb@
 3 PAGE Number: 157-26-6046; Issue State: New Jersey; Issue Date: 19
 4 CONC 51-1953
@@ -4373,6 +4386,7 @@
 4 LATI N40.5743
 4 LONG W74.6099
 2 SOUR @S215@
+3 _APID 1,60901::25074332
 2 SOUR @yAMTVEqOTiKCsMjPyXmb@
 3 PAGE Number: 157-26-6046; Issue State: New Jersey; Issue Date: 19
 4 CONC 51-1953
@@ -4381,6 +4395,7 @@
 0 @I612@ INDI
 1 NAME Adolph S. /Grenlie/
 2 SOUR @S215@
+3 _APID 1,60901::618590247
 1 SEX M
 1 FAMS @F450@
 0 @I611@ INDI
@@ -4392,6 +4407,7 @@
 2 SOUR @S241@
 3 _APID 1,60525::86314738
 2 SOUR @S215@
+3 _APID 1,60901::18590247
 2 SOUR @S303@
 3 PAGE Number: 346-10-4455; Issue State: Illinois; Issue Date: Befo
 4 CONC re 1951
@@ -4406,6 +4422,7 @@
 2 SOUR @S241@
 3 _APID 1,60525::86314738
 2 SOUR @S215@
+3 _APID 1,60901::18590247
 2 SOUR @S303@
 3 PAGE Number: 346-10-4455; Issue State: Illinois; Issue Date: Befo
 4 CONC re 1951
@@ -4421,6 +4438,7 @@
 2 SOUR @S241@
 3 _APID 1,60525::86314738
 2 SOUR @S215@
+3 _APID 1,60901::18590247
 2 SOUR @S303@
 3 PAGE Number: 346-10-4455; Issue State: Illinois; Issue Date: Befo
 4 CONC re 1951
@@ -5588,7 +5606,6 @@
 4 CONC : Madison; County: Madison; Page: 5
 3 OBJE @AtUG3M5QRZWkRjvHf5Qt@
 3 _APID 1,7364::4299748
-1 NAME Sarah /Head/
 1 SEX F
 1 FAMC @F409@
 1 FAMS @F395@
@@ -5640,12 +5657,6 @@
 4 CONC : Madison; County: Madison; Page: 5
 3 OBJE @AtUG3M5QRZWkRjvHf5Qt@
 3 _APID 1,7364::4299748
-1 BIRT
-2 DATE ABT 1827
-2 PLAC New York, USA
-3 MAP
-4 LATI N42.7531
-4 LONG W74.2224
 1 RESI
 2 DATE 1850
 2 PLAC Madison, Madison, New York, USA
@@ -5738,9 +5749,12 @@
 1 RESI
 2 DATE ABT 1907
 2 PLAC Lyon's Mill, Solsville, Madison, New York, USA
-1 DEAT just a guess
+1 DEAT
 2 DATE 09 JUN 1909
-2 PLAC Newton, Massachusetts, USA
+2 PLAC Newton, Middlesex, Massachusetts, USA
+3 MAP
+4 LATI N42.337
+4 LONG W71.2092
 2 SOUR @S280@
 3 PAGE New England Historic Genealogical Society; Boston, Massachus
 4 CONC etts; Massachusetts Vital Records, 1840–1911
@@ -5790,11 +5804,12 @@
 3 OBJE @M475@
 2 SOUR @S298@
 3 OBJE @M489@
-2 SOUR @omMXaVgrQNKvPl1yRe9j@
+2 SOUR @S306@
 3 PAGE Letters of Administration, 1830-1903, and Index, 1806-1890
 4 CONC , Madison County, New York; Author: New York. Surrogate's Co
 4 CONC urt (Madison County); Probate Place: Madison, New York
 3 OBJE @M485@
+3 _APID 1,8800::1978805
 2 SOUR @S241@
 3 _APID 1,60525::24302684
 1 SEX M
@@ -5836,11 +5851,12 @@
 3 MAP
 4 LATI N42.899
 4 LONG W75.5121
-2 SOUR @omMXaVgrQNKvPl1yRe9j@
+2 SOUR @S306@
 3 PAGE Letters of Administration, 1830-1903, and Index, 1806-1890
 4 CONC , Madison County, New York; Author: New York. Surrogate's Co
 4 CONC urt (Madison County); Probate Place: Madison, New York
 3 OBJE @M485@
+3 _APID 1,8800::1978805
 2 SOUR @S241@
 3 _APID 1,60525::24302684
 1 PROB
@@ -5849,11 +5865,12 @@
 3 MAP
 4 LATI N42.9118
 4 LONG W75.6682
-2 SOUR @omMXaVgrQNKvPl1yRe9j@
+2 SOUR @S306@
 3 PAGE Letters of Administration, 1830-1903, and Index, 1806-1890
 4 CONC , Madison County, New York; Author: New York. Surrogate's Co
 4 CONC urt (Madison County); Probate Place: Madison, New York
 3 OBJE @M485@
+3 _APID 1,8800::1978805
 1 BURI
 2 PLAC Madison, Madison, New York, USA
 3 MAP
@@ -5909,6 +5926,7 @@
 0 @I613@ INDI
 1 NAME Marie C. /Hermonson/
 2 SOUR @S215@
+3 _APID 1,60901::768590247
 1 SEX F
 1 FAMS @F450@
 0 @I584@ INDI
@@ -7733,6 +7751,7 @@
 2 SOUR @S241@
 3 _APID 1,60525::51695236
 2 SOUR @S215@
+3 _APID 1,60901::613175030
 2 SOUR @SJ3pwzLJTQKGeMK2U5cB@
 3 _APID 1,70573::8970298
 1 SEX M
@@ -7901,21 +7920,21 @@
 2 SOUR @S226@
 3 OBJE @AXommpWlQjimhz5FUrOL@
 3 _APID 1,7218::2224976
-2 SOUR @omMXaVgrQNKvPl1yRe9j@
+2 SOUR @S306@
 3 PAGE Guardianship of Willie [William D.]  Mosher
 3 OBJE @2IbM62nnSayxfhHRHrY8@
 3 _APID 1,8800::1116477
-2 SOUR @omMXaVgrQNKvPl1yRe9j@
+2 SOUR @S306@
 3 PAGE order of citation to appear
 3 OBJE @rd7P5TvjSbqFvqB79uok@
 3 _APID 1,8800::1115711
-2 SOUR @omMXaVgrQNKvPl1yRe9j@
+2 SOUR @S306@
 3 PAGE Will Records, 1806-1900, Madison County, New York; Author: N
 4 CONC ew York. Surrogate's Court (Madison County); Probate Place
 4 CONC : Madison, New York (index entry)
 3 OBJE @IIywXrDDSf6PJKkiVCnz@
 3 _APID 1,8800::2140386
-2 SOUR @omMXaVgrQNKvPl1yRe9j@
+2 SOUR @S306@
 3 PAGE Will Records, 1806-1900, Madison County, New York; Author: N
 4 CONC ew York. Surrogate's Court (Madison County); Probate Place
 4 CONC : Madison, New York. p. 223
@@ -8301,21 +8320,21 @@
 4 LONG W75.5446
 2 SOUR @HTv1E9OQRJyryBz0jvQV@
 3 QUAY 1
-2 SOUR @omMXaVgrQNKvPl1yRe9j@
+2 SOUR @S306@
 3 PAGE Guardianship of Willie [William D.]  Mosher
 3 OBJE @2IbM62nnSayxfhHRHrY8@
 3 _APID 1,8800::1116477
-2 SOUR @omMXaVgrQNKvPl1yRe9j@
+2 SOUR @S306@
 3 PAGE order of citation to appear
 3 OBJE @rd7P5TvjSbqFvqB79uok@
 3 _APID 1,8800::1115711
-2 SOUR @omMXaVgrQNKvPl1yRe9j@
+2 SOUR @S306@
 3 PAGE Will Records, 1806-1900, Madison County, New York; Author: N
 4 CONC ew York. Surrogate's Court (Madison County); Probate Place
 4 CONC : Madison, New York (index entry)
 3 OBJE @IIywXrDDSf6PJKkiVCnz@
 3 _APID 1,8800::2140386
-2 SOUR @omMXaVgrQNKvPl1yRe9j@
+2 SOUR @S306@
 3 PAGE Will Records, 1806-1900, Madison County, New York; Author: N
 4 CONC ew York. Surrogate's Court (Madison County); Probate Place
 4 CONC : Madison, New York. p. 223
@@ -8338,17 +8357,17 @@
 3 MAP
 4 LATI N42.9118
 4 LONG W75.6682
-2 SOUR @omMXaVgrQNKvPl1yRe9j@
+2 SOUR @S306@
 3 PAGE order of citation to appear
 3 OBJE @rd7P5TvjSbqFvqB79uok@
 3 _APID 1,8800::1115711
-2 SOUR @omMXaVgrQNKvPl1yRe9j@
+2 SOUR @S306@
 3 PAGE Will Records, 1806-1900, Madison County, New York; Author: N
 4 CONC ew York. Surrogate's Court (Madison County); Probate Place
 4 CONC : Madison, New York (index entry)
 3 OBJE @IIywXrDDSf6PJKkiVCnz@
 3 _APID 1,8800::2140386
-2 SOUR @omMXaVgrQNKvPl1yRe9j@
+2 SOUR @S306@
 3 PAGE Will Records, 1806-1900, Madison County, New York; Author: N
 4 CONC ew York. Surrogate's Court (Madison County); Probate Place
 4 CONC : Madison, New York. p. 223
@@ -8372,7 +8391,7 @@
 3 MAP
 4 LATI N42.9118
 4 LONG W75.6682
-2 SOUR @omMXaVgrQNKvPl1yRe9j@
+2 SOUR @S306@
 3 PAGE Guardianship of Willie [William D.]  Mosher
 3 QUAY 4
 3 OBJE @2IbM62nnSayxfhHRHrY8@
@@ -9954,17 +9973,17 @@
 0 @zM94z8psRHiOsbsSw1Ll@ INDI
 1 REFN bab27e3e-d5e2-47e9-85ae-2e35d3a533fe
 1 NAME Abigail /Maxfield/
-2 SOUR @qvxtZQDHRi6i6C3eRswB@
+2 SOUR @S298@
 3 PAGE "Dartmouth: Births, Marriages and Deaths," abstracts, imag
 4 CONC e 324, Abigail Maxfield
 3 OBJE @L53F6TPjRtuFcq4GBQ2R@
 3 _APID 1,2495::6088594
-2 SOUR @qvxtZQDHRi6i6C3eRswB@
+2 SOUR @S298@
 3 PAGE "Dartmouth: Births, Marriages and Deaths," abstracts, imag
 4 CONC e 326, Abigail Maxfield in Benjamin Mosher
 3 OBJE @7KFBbbOgSEKBcu2nH9uO@
 3 _APID 1,2495::16081518
-2 SOUR @qvxtZQDHRi6i6C3eRswB@
+2 SOUR @S298@
 3 PAGE "Dartmouth: Births, Marriages and Deaths," images of origina
 4 CONC l manuscripts, p. 203, image 470, Abigail Maxfield
 3 OBJE @Z70Gr0eOSACb7yQ9k2LW@
@@ -16935,6 +16954,7 @@
 2 SOUR @S263@
 3 _APID 1,1788::226411172
 2 SOUR @S215@
+3 _APID 1,60901::776364531
 2 SOUR @yAMTVEqOTiKCsMjPyXmb@
 3 PAGE Number: 074-09-3377; Issue State: New York; Issue Date: Befo
 4 CONC re 1951
@@ -17082,26 +17102,26 @@
 2 SOUR @nfGl7WzrRE2Hc60cvLD2@
 3 PAGE Birth year: 1706; Birth city: Dartmouth; Birth state: MA
 3 _APID 1,4725::3371792
-2 SOUR @qvxtZQDHRi6i6C3eRswB@
+2 SOUR @S298@
 3 PAGE "Dartmouth: Births, Marriages and Death," abstracts, image 5
 4 CONC 2
 3 OBJE @IK5bK5uASnubgylYQ19y@
 3 _APID 1,2495::6066653
-2 SOUR @qvxtZQDHRi6i6C3eRswB@
+2 SOUR @S298@
 3 PAGE "Dartmouth: Births, Marriages and Deaths," images of origina
 4 CONC l manuscripts, p. 180, image 455
 3 OBJE @cylrzjDCQ8ydrTckE6Se@
 3 _APID 1,2495::5968709
-2 SOUR @qvxtZQDHRi6i6C3eRswB@
+2 SOUR @S298@
 3 PAGE "Dartmouth: Births, Marriages and Deaths," images of origina
 4 CONC l manuscripts, p. 203, image 470, Benjamin Mosher
 3 OBJE @Z70Gr0eOSACb7yQ9k2LW@
 3 _APID 1,2495::5969456
-2 SOUR @qvxtZQDHRi6i6C3eRswB@
+2 SOUR @S298@
 3 PAGE "Dartmouth: Vital Record Transcripts," p. 164, image 161
 3 OBJE @WZfiLDHQQfWMwKw0xy7t@
 3 _APID 1,2495::80625418
-2 SOUR @qvxtZQDHRi6i6C3eRswB@
+2 SOUR @S298@
 3 PAGE "Dartmouth: Vital Record Transcripts," p. 323, image 621, Be
 4 CONC njamin Mosher
 3 OBJE @uj8u9tiBQfO3aBd1B6Lu@
@@ -17131,17 +17151,17 @@
 2 SOUR @nfGl7WzrRE2Hc60cvLD2@
 3 PAGE Birth year: 1706; Birth city: Dartmouth; Birth state: MA
 3 _APID 1,4725::3371792
-2 SOUR @qvxtZQDHRi6i6C3eRswB@
+2 SOUR @S298@
 3 PAGE "Dartmouth: Births, Marriages and Death," abstracts, image 5
 4 CONC 2
 3 OBJE @IK5bK5uASnubgylYQ19y@
 3 _APID 1,2495::6066653
-2 SOUR @qvxtZQDHRi6i6C3eRswB@
+2 SOUR @S298@
 3 PAGE "Dartmouth: Births, Marriages and Deaths," images of origina
 4 CONC l manuscripts, p. 180, image 455
 3 OBJE @cylrzjDCQ8ydrTckE6Se@
 3 _APID 1,2495::5968709
-2 SOUR @qvxtZQDHRi6i6C3eRswB@
+2 SOUR @S298@
 3 PAGE "Dartmouth: Vital Record Transcripts," p. 164, image 161
 3 OBJE @WZfiLDHQQfWMwKw0xy7t@
 3 _APID 1,2495::80625418
@@ -17463,6 +17483,7 @@
 3 OBJE @M423@
 3 _APID 1,2469::352243179
 2 SOUR @S215@
+3 _APID 1,60901::611912538
 1 SEX M
 1 FAMC @F408@
 1 FAMS @F429@
@@ -17720,17 +17741,17 @@
 0 @NuNYhyYPQHGGIUwbg6WH@ INDI
 1 REFN 00dc9e50-088f-4358-aa87-19908b27705d
 1 NAME Constant /Mosher/
-2 SOUR @qvxtZQDHRi6i6C3eRswB@
+2 SOUR @S298@
 3 PAGE "Dartmouth: Births, Marriages and Death," abstracts, image 5
 4 CONC 2
 3 OBJE @IK5bK5uASnubgylYQ19y@
 3 _APID 1,2495::6066657
-2 SOUR @qvxtZQDHRi6i6C3eRswB@
+2 SOUR @S298@
 3 PAGE "Dartmouth: Births, Marriages and Deaths," images of origina
 4 CONC l manuscripts, p. 180, image 455
 3 OBJE @cylrzjDCQ8ydrTckE6Se@
 3 _APID 1,2495::5968715
-2 SOUR @qvxtZQDHRi6i6C3eRswB@
+2 SOUR @S298@
 3 PAGE "Dartmouth: Vital Record Transcripts," p. 164, image 161
 3 OBJE @WZfiLDHQQfWMwKw0xy7t@
 3 _APID 1,2495::80625436
@@ -17745,17 +17766,17 @@
 2 SOUR @CNCZKGpeSrKJ6BUTT9Hu@
 3 PAGE p. 16
 3 QUAY 1
-2 SOUR @qvxtZQDHRi6i6C3eRswB@
+2 SOUR @S298@
 3 PAGE "Dartmouth: Births, Marriages and Death," abstracts, image 5
 4 CONC 2
 3 OBJE @IK5bK5uASnubgylYQ19y@
 3 _APID 1,2495::6066657
-2 SOUR @qvxtZQDHRi6i6C3eRswB@
+2 SOUR @S298@
 3 PAGE "Dartmouth: Births, Marriages and Deaths," images of origina
 4 CONC l manuscripts, p. 180, image 455
 3 OBJE @cylrzjDCQ8ydrTckE6Se@
 3 _APID 1,2495::5968715
-2 SOUR @qvxtZQDHRi6i6C3eRswB@
+2 SOUR @S298@
 3 PAGE "Dartmouth: Vital Record Transcripts," p. 164, image 161
 3 OBJE @WZfiLDHQQfWMwKw0xy7t@
 3 _APID 1,2495::80625436
@@ -17980,17 +18001,17 @@
 0 @u3NNTptJT1uLQM4WGD65@ INDI
 1 REFN bb25f74b-d67a-41ac-bbec-9fb68f46b720
 1 NAME Daniel /Mosher/
-2 SOUR @qvxtZQDHRi6i6C3eRswB@
+2 SOUR @S298@
 3 PAGE "Dartmouth: Births, Marriages and Death," abstracts, image 5
 4 CONC 2
 3 OBJE @IK5bK5uASnubgylYQ19y@
 3 _APID 1,2495::6066654
-2 SOUR @qvxtZQDHRi6i6C3eRswB@
+2 SOUR @S298@
 3 PAGE "Dartmouth: Births, Marriages and Deaths," images of origina
 4 CONC l manuscripts, p. 180, image 455
 3 OBJE @cylrzjDCQ8ydrTckE6Se@
 3 _APID 1,2495::5968710
-2 SOUR @qvxtZQDHRi6i6C3eRswB@
+2 SOUR @S298@
 3 PAGE "Dartmouth: Vital Record Transcripts," p. 164, image 161
 3 OBJE @WZfiLDHQQfWMwKw0xy7t@
 3 _APID 1,2495::80625444
@@ -18005,17 +18026,17 @@
 2 SOUR @CNCZKGpeSrKJ6BUTT9Hu@
 3 PAGE p. 15
 3 QUAY 1
-2 SOUR @qvxtZQDHRi6i6C3eRswB@
+2 SOUR @S298@
 3 PAGE "Dartmouth: Births, Marriages and Death," abstracts, image 5
 4 CONC 2
 3 OBJE @IK5bK5uASnubgylYQ19y@
 3 _APID 1,2495::6066654
-2 SOUR @qvxtZQDHRi6i6C3eRswB@
+2 SOUR @S298@
 3 PAGE "Dartmouth: Births, Marriages and Deaths," images of origina
 4 CONC l manuscripts, p. 180, image 455
 3 OBJE @cylrzjDCQ8ydrTckE6Se@
 3 _APID 1,2495::5968710
-2 SOUR @qvxtZQDHRi6i6C3eRswB@
+2 SOUR @S298@
 3 PAGE "Dartmouth: Vital Record Transcripts," p. 164, image 161
 3 OBJE @WZfiLDHQQfWMwKw0xy7t@
 3 _APID 1,2495::80625444
@@ -18052,17 +18073,17 @@
 3 PAGE Birth year: 1749; Birth city: Dartmouth; Birth state: MA; in
 4 CONC cludes spouse
 3 _APID 1,4725::3371805
-2 SOUR @qvxtZQDHRi6i6C3eRswB@
+2 SOUR @S298@
 3 PAGE "Dartmouth: Births, Marriages and Death," abstracts, image 5
 4 CONC 2
 3 OBJE @IK5bK5uASnubgylYQ19y@
 3 _APID 1,2495::6066721
-2 SOUR @qvxtZQDHRi6i6C3eRswB@
+2 SOUR @S298@
 3 PAGE "Dartmouth: Births, Marriages and Deaths," images of origina
 4 CONC l manuscripts, p. 246, image 512
 3 OBJE @doAMa4RfTRudUSSdTcpS@
 3 _APID 1,2495::5970728
-2 SOUR @qvxtZQDHRi6i6C3eRswB@
+2 SOUR @S298@
 3 PAGE "Dartmouth: Vital Record Transcripts," p. 165, image 162
 3 OBJE @qrCWzUAKS7eOBOaoyq5U@
 3 _APID 1,2495::80625447
@@ -18091,17 +18112,17 @@
 3 PAGE Birth year: 1749; Birth city: Dartmouth; Birth state: MA; in
 4 CONC cludes spouse
 3 _APID 1,4725::3371805
-2 SOUR @qvxtZQDHRi6i6C3eRswB@
+2 SOUR @S298@
 3 PAGE "Dartmouth: Births, Marriages and Death," abstracts, image 5
 4 CONC 2
 3 OBJE @IK5bK5uASnubgylYQ19y@
 3 _APID 1,2495::6066721
-2 SOUR @qvxtZQDHRi6i6C3eRswB@
+2 SOUR @S298@
 3 PAGE "Dartmouth: Births, Marriages and Deaths," images of origina
 4 CONC l manuscripts, p. 246, image 512
 3 OBJE @doAMa4RfTRudUSSdTcpS@
 3 _APID 1,2495::5970728
-2 SOUR @qvxtZQDHRi6i6C3eRswB@
+2 SOUR @S298@
 3 PAGE "Dartmouth: Vital Record Transcripts," p. 165, image 162
 3 OBJE @qrCWzUAKS7eOBOaoyq5U@
 3 _APID 1,2495::80625447
@@ -18166,7 +18187,7 @@
 0 @aJxXjXwFTRGGR7gk2c1d@ INDI
 1 REFN e37b903c-4dbc-449c-9dea-16e1fb61b9b4
 1 NAME David /Mosher/
-2 SOUR @YTSxHe1ZQvOS6MgNDuq4@
+2 SOUR @S316@
 3 PAGE Year: 1810; Census Place: Saratoga, Saratoga, New York; Roll
 4 CONC : 35; Page: 865; Image: 0181389; Family History Library Film
 4 CONC : 00268
@@ -18270,7 +18291,7 @@
 3 MAP
 4 LATI N43.0654
 4 LONG W73.6495
-2 SOUR @YTSxHe1ZQvOS6MgNDuq4@
+2 SOUR @S316@
 3 PAGE Year: 1810; Census Place: Saratoga, Saratoga, New York; Roll
 4 CONC : 35; Page: 865; Image: 0181389; Family History Library Film
 4 CONC : 00268
@@ -19480,6 +19501,7 @@
 2 SOUR @S241@
 3 _APID 1,60525::127768161
 2 SOUR @S215@
+3 _APID 1,60901::812768759
 2 SOUR @yAMTVEqOTiKCsMjPyXmb@
 3 PAGE Number: 554-10-5033; Issue State: California; Issue Date: Be
 4 CONC fore 1951
@@ -19509,6 +19531,7 @@
 2 SOUR @S241@
 3 _APID 1,60525::127768161
 2 SOUR @S215@
+3 _APID 1,60901::812768759
 2 SOUR @yAMTVEqOTiKCsMjPyXmb@
 3 PAGE Number: 554-10-5033; Issue State: California; Issue Date: Be
 4 CONC fore 1951
@@ -19611,6 +19634,7 @@
 2 SOUR @S241@
 3 _APID 1,60525::127768161
 2 SOUR @S215@
+3 _APID 1,60901::812768759
 2 SOUR @yAMTVEqOTiKCsMjPyXmb@
 3 PAGE Number: 554-10-5033; Issue State: California; Issue Date: Be
 4 CONC fore 1951
@@ -19656,7 +19680,7 @@
 3 _APID 1,8784::10222044
 2 SOUR @S259@
 3 _APID 1,1506::3323788
-2 SOUR @qvxtZQDHRi6i6C3eRswB@
+2 SOUR @S298@
 3 OBJE @doAMa4RfTRudUSSdTcpS@
 3 _APID 1,2495::5970726
 2 SOUR @NdlE0sG3SwaoEKznoTPD@
@@ -19675,7 +19699,7 @@
 3 QUAY 1
 2 SOUR @S259@
 3 _APID 1,1506::3323788
-2 SOUR @qvxtZQDHRi6i6C3eRswB@
+2 SOUR @S298@
 3 OBJE @doAMa4RfTRudUSSdTcpS@
 3 _APID 1,2495::5970726
 2 SOUR @NdlE0sG3SwaoEKznoTPD@
@@ -19856,17 +19880,17 @@
 0 @1fAKWCvvRCGNbNhA9qxB@ INDI
 1 REFN 1a4cb7c2-3fb1-4ada-a8eb-575a78136e11
 1 NAME Ephraim /Mosher/
-2 SOUR @qvxtZQDHRi6i6C3eRswB@
+2 SOUR @S298@
 3 PAGE "Dartmouth: Births, Marriages and Death," abstracts, image 5
 4 CONC 2
 3 OBJE @IK5bK5uASnubgylYQ19y@
 3 _APID 1,2495::6066660
-2 SOUR @qvxtZQDHRi6i6C3eRswB@
+2 SOUR @S298@
 3 PAGE "Dartmouth: Births, Marriages and Deaths," images of origina
 4 CONC l manuscripts, p. 180, image 455
 3 OBJE @cylrzjDCQ8ydrTckE6Se@
 3 _APID 1,2495::5968721
-2 SOUR @qvxtZQDHRi6i6C3eRswB@
+2 SOUR @S298@
 3 PAGE "Dartmouth: Vital Record Transcripts," p. 165, image 162
 3 OBJE @qrCWzUAKS7eOBOaoyq5U@
 3 _APID 1,2495::80625474
@@ -19881,17 +19905,17 @@
 2 SOUR @CNCZKGpeSrKJ6BUTT9Hu@
 3 PAGE p. 18
 3 QUAY 1
-2 SOUR @qvxtZQDHRi6i6C3eRswB@
+2 SOUR @S298@
 3 PAGE "Dartmouth: Births, Marriages and Death," abstracts, image 5
 4 CONC 2
 3 OBJE @IK5bK5uASnubgylYQ19y@
 3 _APID 1,2495::6066660
-2 SOUR @qvxtZQDHRi6i6C3eRswB@
+2 SOUR @S298@
 3 PAGE "Dartmouth: Births, Marriages and Deaths," images of origina
 4 CONC l manuscripts, p. 180, image 455
 3 OBJE @cylrzjDCQ8ydrTckE6Se@
 3 _APID 1,2495::5968721
-2 SOUR @qvxtZQDHRi6i6C3eRswB@
+2 SOUR @S298@
 3 PAGE "Dartmouth: Vital Record Transcripts," p. 165, image 162
 3 OBJE @qrCWzUAKS7eOBOaoyq5U@
 3 _APID 1,2495::80625474
@@ -20011,17 +20035,17 @@
 2 SOUR @nfGl7WzrRE2Hc60cvLD2@
 3 PAGE Birth year: 1717; Birth city: Dartmouth; Birth state: MA
 3 _APID 1,4725::3371829
-2 SOUR @qvxtZQDHRi6i6C3eRswB@
+2 SOUR @S298@
 3 PAGE "Dartmouth: Births, Marriages and Death," abstracts, image 5
 4 CONC 2
 3 OBJE @IK5bK5uASnubgylYQ19y@
 3 _APID 1,2495::6066659
-2 SOUR @qvxtZQDHRi6i6C3eRswB@
+2 SOUR @S298@
 3 PAGE "Dartmouth: Births, Marriages and Deaths," images of origina
 4 CONC l manuscripts, p. 180, image 455
 3 OBJE @cylrzjDCQ8ydrTckE6Se@
 3 _APID 1,2495::5968719
-2 SOUR @qvxtZQDHRi6i6C3eRswB@
+2 SOUR @S298@
 3 PAGE "Dartmouth: Vital Record Transcripts," p. 166, image 163
 3 OBJE @1qBZAT59QF6ToJkd2FYL@
 3 _APID 1,2495::80625484
@@ -20042,17 +20066,17 @@
 2 SOUR @nfGl7WzrRE2Hc60cvLD2@
 3 PAGE Birth year: 1717; Birth city: Dartmouth; Birth state: MA
 3 _APID 1,4725::3371829
-2 SOUR @qvxtZQDHRi6i6C3eRswB@
+2 SOUR @S298@
 3 PAGE "Dartmouth: Births, Marriages and Death," abstracts, image 5
 4 CONC 2
 3 OBJE @IK5bK5uASnubgylYQ19y@
 3 _APID 1,2495::6066659
-2 SOUR @qvxtZQDHRi6i6C3eRswB@
+2 SOUR @S298@
 3 PAGE "Dartmouth: Births, Marriages and Deaths," images of origina
 4 CONC l manuscripts, p. 180, image 455
 3 OBJE @cylrzjDCQ8ydrTckE6Se@
 3 _APID 1,2495::5968719
-2 SOUR @qvxtZQDHRi6i6C3eRswB@
+2 SOUR @S298@
 3 PAGE "Dartmouth: Vital Record Transcripts," p. 166, image 163
 3 OBJE @1qBZAT59QF6ToJkd2FYL@
 3 _APID 1,2495::80625484
@@ -20365,6 +20389,7 @@
 2 SOUR @S241@
 3 _APID 1,60525::71350566
 2 SOUR @S215@
+3 _APID 1,60901::32083652
 2 SOUR @yAMTVEqOTiKCsMjPyXmb@
 3 PAGE Number: 139-28-6728; Issue State: New Jersey; Issue Date: 19
 4 CONC 52-1954
@@ -20390,6 +20415,7 @@
 3 PAGE entry 2
 3 _APID 1,1732::289400978
 2 SOUR @S215@
+3 _APID 1,60901::32083652
 2 SOUR @yAMTVEqOTiKCsMjPyXmb@
 3 PAGE Number: 139-28-6728; Issue State: New Jersey; Issue Date: 19
 4 CONC 52-1954
@@ -20403,6 +20429,7 @@
 2 SOUR @S241@
 3 _APID 1,60525::71350566
 2 SOUR @S215@
+3 _APID 1,60901::32083652
 2 SOUR @yAMTVEqOTiKCsMjPyXmb@
 3 PAGE Number: 139-28-6728; Issue State: New Jersey; Issue Date: 19
 4 CONC 52-1954
@@ -20688,17 +20715,17 @@
 2 SOUR @nfGl7WzrRE2Hc60cvLD2@
 3 PAGE Birth year: 1722; Birth city: Dartmouth; Birth state: MA
 3 _APID 1,4725::3371837
-2 SOUR @qvxtZQDHRi6i6C3eRswB@
+2 SOUR @S298@
 3 PAGE "Dartmouth: Births, Marriages and Death," abstracts, image 5
 4 CONC 2
 3 OBJE @IK5bK5uASnubgylYQ19y@
 3 _APID 1,2495::6066663
-2 SOUR @qvxtZQDHRi6i6C3eRswB@
+2 SOUR @S298@
 3 PAGE "Dartmouth: Births, Marriages and Deaths," images of origina
 4 CONC l manuscripts, p. 180, image 455
 3 OBJE @cylrzjDCQ8ydrTckE6Se@
 3 _APID 1,2495::5968724
-2 SOUR @qvxtZQDHRi6i6C3eRswB@
+2 SOUR @S298@
 3 PAGE "Dartmouth: Vital Record Transcripts," p. 166, image 163
 3 OBJE @1qBZAT59QF6ToJkd2FYL@
 3 _APID 1,2495::80625507
@@ -20718,17 +20745,17 @@
 2 SOUR @nfGl7WzrRE2Hc60cvLD2@
 3 PAGE Birth year: 1722; Birth city: Dartmouth; Birth state: MA
 3 _APID 1,4725::3371837
-2 SOUR @qvxtZQDHRi6i6C3eRswB@
+2 SOUR @S298@
 3 PAGE "Dartmouth: Births, Marriages and Death," abstracts, image 5
 4 CONC 2
 3 OBJE @IK5bK5uASnubgylYQ19y@
 3 _APID 1,2495::6066663
-2 SOUR @qvxtZQDHRi6i6C3eRswB@
+2 SOUR @S298@
 3 PAGE "Dartmouth: Births, Marriages and Deaths," images of origina
 4 CONC l manuscripts, p. 180, image 455
 3 OBJE @cylrzjDCQ8ydrTckE6Se@
 3 _APID 1,2495::5968724
-2 SOUR @qvxtZQDHRi6i6C3eRswB@
+2 SOUR @S298@
 3 PAGE "Dartmouth: Vital Record Transcripts," p. 166, image 163
 3 OBJE @1qBZAT59QF6ToJkd2FYL@
 3 _APID 1,2495::80625507
@@ -20829,16 +20856,17 @@
 0 @I510@ INDI
 1 REFN e427d136-35a0-4307-838e-8f832f088a34
 1 NAME James /Mosher/
-2 SOUR @9jhPyuNjT7Crw4hkg6Gj@
+2 SOUR @S320@
 3 PAGE Year: 1790; Census Place: Half Moon, Albany, New York; Serie
 4 CONC s: M637; Roll: 6; Page: 323; Image: 308; Family History Libr
 4 CONC ary Film: 0568146
 3 OBJE @M486@
-2 SOUR @bHQuWN4FTpusbsry9cjZ@
+2 SOUR @S315@
 3 PAGE Year: 1800; Census Place: Fairfield, Washington, New York; S
 4 CONC eries: M32; Roll: 26; Page: 214; Image: 210; Family Histor
 4 CONC y Library Film: 193714
 3 OBJE @M481@
+3 _APID 1,7590::270627
 2 SOUR @XkYfWXOxTRycLRJJyxNy@
 3 PAGE Source number: 20.000; Source type: Electronic Database; Num
 4 CONC ber of Pages: 1; Submitter Code: RKM
@@ -20870,7 +20898,7 @@
 3 MAP
 4 LATI N42.8275
 4 LONG W73.7184
-2 SOUR @9jhPyuNjT7Crw4hkg6Gj@
+2 SOUR @S320@
 3 PAGE Year: 1790; Census Place: Half Moon, Albany, New York; Serie
 4 CONC s: M637; Roll: 6; Page: 323; Image: 308; Family History Libr
 4 CONC ary Film: 0568146
@@ -20881,11 +20909,12 @@
 3 MAP
 4 LATI N43.5629
 4 LONG W73.8444
-2 SOUR @bHQuWN4FTpusbsry9cjZ@
+2 SOUR @S315@
 3 PAGE Year: 1800; Census Place: Fairfield, Washington, New York; S
 4 CONC eries: M32; Roll: 26; Page: 214; Image: 210; Family Histor
 4 CONC y Library Film: 193714
 3 OBJE @M481@
+3 _APID 1,7590::270627
 1 DEAT
 2 DATE 28 NOV 1828
 1 _XY 1475.00 1125.00
@@ -21035,6 +21064,7 @@
 2 SOUR @S252@
 3 _APID 1,7338::3301194
 2 SOUR @S215@
+3 _APID 1,60901::39176457
 2 SOUR @yAMTVEqOTiKCsMjPyXmb@
 3 PAGE Number: 157-30-2160; Issue State: New Jersey; Issue Date: 19
 4 CONC 56-1959
@@ -21052,6 +21082,7 @@
 2 SOUR @S252@
 3 _APID 1,7338::3301194
 2 SOUR @S215@
+3 _APID 1,60901::39176457
 2 SOUR @yAMTVEqOTiKCsMjPyXmb@
 3 PAGE Number: 157-30-2160; Issue State: New Jersey; Issue Date: 19
 4 CONC 56-1959
@@ -21065,6 +21096,7 @@
 2 SOUR @S252@
 3 _APID 1,7338::3301194
 2 SOUR @S215@
+3 _APID 1,60901::39176457
 2 SOUR @yAMTVEqOTiKCsMjPyXmb@
 3 PAGE Number: 157-30-2160; Issue State: New Jersey; Issue Date: 19
 4 CONC 56-1959
@@ -21121,7 +21153,7 @@
 0 @zKZDe9JUQSKCn0s2zXMz@ INDI
 1 REFN 97b1e993-e227-4294-bfc0-0733c2cf430d
 1 NAME Job /Mosher/
-2 SOUR @qvxtZQDHRi6i6C3eRswB@
+2 SOUR @S298@
 3 OBJE @doAMa4RfTRudUSSdTcpS@
 3 _APID 1,2495::5970727
 2 SOUR @NdlE0sG3SwaoEKznoTPD@
@@ -21138,7 +21170,7 @@
 2 SOUR @CNCZKGpeSrKJ6BUTT9Hu@
 3 PAGE p. 15
 3 QUAY 1
-2 SOUR @qvxtZQDHRi6i6C3eRswB@
+2 SOUR @S298@
 3 OBJE @doAMa4RfTRudUSSdTcpS@
 3 _APID 1,2495::5970727
 2 SOUR @NdlE0sG3SwaoEKznoTPD@
@@ -21265,6 +21297,7 @@
 4 CONC utes.com/obituary/print_selections/79265538?type=1
 3 _APID 1,7545::500886760
 2 SOUR @S215@
+3 _APID 1,60901::20294126
 2 SOUR @S303@
 3 PAGE Issue State: Illinois; Issue Date: Before 1951
 3 _APID 1,3693::78928950
@@ -21320,6 +21353,7 @@
 4 CONC utes.com/obituary/print_selections/79265538?type=1
 3 _APID 1,7545::500886760
 2 SOUR @S215@
+3 _APID 1,60901::20294126
 2 SOUR @S303@
 3 PAGE Issue State: Illinois; Issue Date: Before 1951
 3 _APID 1,3693::78928950
@@ -21422,6 +21456,7 @@
 4 CONC utes.com/obituary/print_selections/79265538?type=1
 3 _APID 1,7545::500886760
 2 SOUR @S215@
+3 _APID 1,60901::20294126
 2 SOUR @S303@
 3 PAGE Issue State: Illinois; Issue Date: Before 1951
 3 _APID 1,3693::78928950
@@ -21664,6 +21699,7 @@
 2 SOUR @S241@
 3 _APID 1,60525::86446807
 2 SOUR @S215@
+3 _APID 1,60901::763933553
 1 SEX F
 1 FAMC @v943d0vRQDS58l9ZqvAY@
 1 FAMS @slAkoNavTciaDTyoqPqM@
@@ -21950,7 +21986,7 @@
 4 CONC ; Roll: 1753843; Draft Board: 1
 3 OBJE @dDzkIbDASECyRrTCxs3B@
 3 _APID 1,6482::9064540
-2 SOUR @6xrtF8bMQCypXIIPxFw2@
+2 SOUR @S301@
 3 PAGE The National Archives at St. Louis; St. Louis, Missouri; Wor
 4 CONC ld War II Draft Cards (4th Registration) for the State of Ca
 4 CONC lifornia; Record Group Title: Records of the Selective Servi
@@ -22033,7 +22069,7 @@
 4 CONC ; Roll: 1753843; Draft Board: 1
 3 OBJE @dDzkIbDASECyRrTCxs3B@
 3 _APID 1,6482::9064540
-2 SOUR @6xrtF8bMQCypXIIPxFw2@
+2 SOUR @S301@
 3 PAGE The National Archives at St. Louis; St. Louis, Missouri; Wor
 4 CONC ld War II Draft Cards (4th Registration) for the State of Ca
 4 CONC lifornia; Record Group Title: Records of the Selective Servi
@@ -22178,7 +22214,7 @@
 3 MAP
 4 LATI N35.9625
 4 LONG W119.0442
-2 SOUR @6xrtF8bMQCypXIIPxFw2@
+2 SOUR @S301@
 3 PAGE The National Archives at St. Louis; St. Louis, Missouri; Wor
 4 CONC ld War II Draft Cards (4th Registration) for the State of Ca
 4 CONC lifornia; Record Group Title: Records of the Selective Servi
@@ -22219,6 +22255,7 @@
 3 _APID 1,1788::108935439
 2 SOUR @S255@
 2 SOUR @S215@
+3 _APID 1,60901::46188361
 2 SOUR @yAMTVEqOTiKCsMjPyXmb@
 3 PAGE Number: 143-24-8499; Issue State: New Jersey; Issue Date: Be
 4 CONC fore 1951
@@ -22327,12 +22364,13 @@
 2 SOUR @S241@
 3 _APID 1,60525::47590283
 2 SOUR @S215@
+3 _APID 1,60901::11962739
 2 SOUR @S225@
 3 PAGE Registration State: New York; Registration County: Madison
 4 CONC ; Roll: 1753843; Draft Board: 1
 3 OBJE @N9I0ENv7RdqJvp4Jl5b7@
 3 _APID 1,6482::9064541
-2 SOUR @6xrtF8bMQCypXIIPxFw2@
+2 SOUR @S301@
 3 PAGE The National Archives at St. Louis; St. Louis, Missouri; Wor
 4 CONC ld War II Draft Cards (Fourth Registration) for the State o
 4 CONC f New York; Record Group Title: Records of the Selective Ser
@@ -22417,12 +22455,13 @@
 2 SOUR @S241@
 3 _APID 1,60525::47590283
 2 SOUR @S215@
+3 _APID 1,60901::11962739
 2 SOUR @S225@
 3 PAGE Registration State: New York; Registration County: Madison
 4 CONC ; Roll: 1753843; Draft Board: 1
 3 OBJE @N9I0ENv7RdqJvp4Jl5b7@
 3 _APID 1,6482::9064541
-2 SOUR @6xrtF8bMQCypXIIPxFw2@
+2 SOUR @S301@
 3 PAGE The National Archives at St. Louis; St. Louis, Missouri; Wor
 4 CONC ld War II Draft Cards (Fourth Registration) for the State o
 4 CONC f New York; Record Group Title: Records of the Selective Ser
@@ -22771,7 +22810,7 @@
 3 QUAY 3
 1 DSCR weight: 133 pounds
 2 DATE 26 APR 1942
-2 SOUR @6xrtF8bMQCypXIIPxFw2@
+2 SOUR @S301@
 3 PAGE The National Archives at St. Louis; St. Louis, Missouri; Wor
 4 CONC ld War II Draft Cards (Fourth Registration) for the State o
 4 CONC f New York; Record Group Title: Records of the Selective Ser
@@ -22781,7 +22820,7 @@
 3 _APID 1,1002::16816783
 1 DSCR height: 5 feet 8 inches
 2 DATE 26 APR 1942
-2 SOUR @6xrtF8bMQCypXIIPxFw2@
+2 SOUR @S301@
 3 PAGE The National Archives at St. Louis; St. Louis, Missouri; Wor
 4 CONC ld War II Draft Cards (Fourth Registration) for the State o
 4 CONC f New York; Record Group Title: Records of the Selective Ser
@@ -22859,7 +22898,7 @@
 2 SOUR @GkjP7MzzQPeWUNGeYMpx@
 3 _APID 1,70572::7775693
 1 DSCR eye color: blue
-2 SOUR @6xrtF8bMQCypXIIPxFw2@
+2 SOUR @S301@
 3 PAGE The National Archives at St. Louis; St. Louis, Missouri; Wor
 4 CONC ld War II Draft Cards (Fourth Registration) for the State o
 4 CONC f New York; Record Group Title: Records of the Selective Ser
@@ -22929,6 +22968,7 @@
 2 SOUR @S241@
 3 _APID 1,60525::66742272
 2 SOUR @S215@
+3 _APID 1,60901::767893469
 2 SOUR @yAMTVEqOTiKCsMjPyXmb@
 3 PAGE Number: 561-21-7498; Issue State: California; Issue Date: 19
 4 CONC 73
@@ -23241,17 +23281,17 @@
 1 NAME Lydia /Mosher/
 2 SOUR @xCp8VgpUTy6BVuoyJk5I@
 3 _APID 1,3599::756608
-2 SOUR @qvxtZQDHRi6i6C3eRswB@
+2 SOUR @S298@
 3 PAGE "Dartmouth: Births, Marriages and Death," abstracts, image 5
 4 CONC 2
 3 OBJE @IK5bK5uASnubgylYQ19y@
 3 _APID 1,2495::6066722
-2 SOUR @qvxtZQDHRi6i6C3eRswB@
+2 SOUR @S298@
 3 PAGE "Dartmouth: Births, Marriages and Deaths," images of origina
 4 CONC l manuscripts, p. 246, image 512
 3 OBJE @doAMa4RfTRudUSSdTcpS@
 3 _APID 1,2495::5970729
-2 SOUR @qvxtZQDHRi6i6C3eRswB@
+2 SOUR @S298@
 3 PAGE "Dartmouth: Vital Record Transcripts," p. 168, image 165
 3 OBJE @sITcCSlsQBiMLJboicLE@
 3 _APID 1,2495::80622760
@@ -23272,17 +23312,17 @@
 2 SOUR @CNCZKGpeSrKJ6BUTT9Hu@
 3 PAGE p. 15
 3 QUAY 1
-2 SOUR @qvxtZQDHRi6i6C3eRswB@
+2 SOUR @S298@
 3 PAGE "Dartmouth: Births, Marriages and Death," abstracts, image 5
 4 CONC 2
 3 OBJE @IK5bK5uASnubgylYQ19y@
 3 _APID 1,2495::6066722
-2 SOUR @qvxtZQDHRi6i6C3eRswB@
+2 SOUR @S298@
 3 PAGE "Dartmouth: Births, Marriages and Deaths," images of origina
 4 CONC l manuscripts, p. 246, image 512
 3 OBJE @doAMa4RfTRudUSSdTcpS@
 3 _APID 1,2495::5970729
-2 SOUR @qvxtZQDHRi6i6C3eRswB@
+2 SOUR @S298@
 3 PAGE "Dartmouth: Vital Record Transcripts," p. 168, image 165
 3 OBJE @sITcCSlsQBiMLJboicLE@
 3 _APID 1,2495::80622760
@@ -23320,7 +23360,7 @@
 0 @6FApS7XHREee4cUWEjn5@ INDI
 1 REFN d0121386-5092-471c-8f41-5b5073a6633d
 1 NAME Mary /Mosher/
-2 SOUR @bHQuWN4FTpusbsry9cjZ@
+2 SOUR @S315@
 3 PAGE Year: 1800; Census Place: Saratoga, Saratoga, New York; Roll
 4 CONC : 27; Page: 1109; Image: 86; Family History Library Film: 19
 4 CONC 3715
@@ -23334,7 +23374,7 @@
 2 SOUR @nfGl7WzrRE2Hc60cvLD2@
 3 PAGE Birth year: 1747; Birth city: Dartmouth; Birth state: MA
 3 _APID 1,4725::1821949
-2 SOUR @qvxtZQDHRi6i6C3eRswB@
+2 SOUR @S298@
 3 OBJE @sITcCSlsQBiMLJboicLE@
 3 _APID 1,2495::80622773
 1 SEX F
@@ -23352,7 +23392,7 @@
 2 SOUR @nfGl7WzrRE2Hc60cvLD2@
 3 PAGE Birth year: 1747; Birth city: Dartmouth; Birth state: MA
 3 _APID 1,4725::1821949
-2 SOUR @qvxtZQDHRi6i6C3eRswB@
+2 SOUR @S298@
 3 OBJE @sITcCSlsQBiMLJboicLE@
 3 _APID 1,2495::80622773
 1 RESI
@@ -23382,7 +23422,7 @@
 3 MAP
 4 LATI N43.0654
 4 LONG W73.6495
-2 SOUR @bHQuWN4FTpusbsry9cjZ@
+2 SOUR @S315@
 3 PAGE Year: 1800; Census Place: Saratoga, Saratoga, New York; Roll
 4 CONC : 27; Page: 1109; Image: 86; Family History Library Film: 19
 4 CONC 3715
@@ -23652,17 +23692,17 @@
 0 @fp9bvhz6SbKxRdlOsnjL@ INDI
 1 REFN ef2c0028-5e32-41c6-8894-26bc3d253a73
 1 NAME Mercy /Mosher/
-2 SOUR @qvxtZQDHRi6i6C3eRswB@
+2 SOUR @S298@
 3 PAGE "Dartmouth: Births, Marriages and Death," abstracts, image 5
 4 CONC 2
 3 OBJE @IK5bK5uASnubgylYQ19y@
 3 _APID 1,2495::6066666
-2 SOUR @qvxtZQDHRi6i6C3eRswB@
+2 SOUR @S298@
 3 PAGE "Dartmouth: Births, Marriages and Deaths," images of origina
 4 CONC l manuscripts, p. 180, image 455
 3 OBJE @cylrzjDCQ8ydrTckE6Se@
 3 _APID 1,2495::5968729
-2 SOUR @qvxtZQDHRi6i6C3eRswB@
+2 SOUR @S298@
 3 PAGE "Dartmouth: Vital Record Transcripts," p. 169, image 166
 3 OBJE @ZIjn0V7XQYuVR3HR3QPs@
 3 _APID 1,2495::80622783
@@ -23677,17 +23717,17 @@
 2 SOUR @CNCZKGpeSrKJ6BUTT9Hu@
 3 PAGE p. 6
 3 QUAY 1
-2 SOUR @qvxtZQDHRi6i6C3eRswB@
+2 SOUR @S298@
 3 PAGE "Dartmouth: Births, Marriages and Death," abstracts, image 5
 4 CONC 2
 3 OBJE @IK5bK5uASnubgylYQ19y@
 3 _APID 1,2495::6066666
-2 SOUR @qvxtZQDHRi6i6C3eRswB@
+2 SOUR @S298@
 3 PAGE "Dartmouth: Births, Marriages and Deaths," images of origina
 4 CONC l manuscripts, p. 180, image 455
 3 OBJE @cylrzjDCQ8ydrTckE6Se@
 3 _APID 1,2495::5968729
-2 SOUR @qvxtZQDHRi6i6C3eRswB@
+2 SOUR @S298@
 3 PAGE "Dartmouth: Vital Record Transcripts," p. 169, image 166
 3 OBJE @ZIjn0V7XQYuVR3HR3QPs@
 3 _APID 1,2495::80622783
@@ -23700,17 +23740,17 @@
 0 @r0gbdO5pSCGfOyOfFE9g@ INDI
 1 REFN fa8b356e-2b5b-45fa-96f2-3c617bc94a89
 1 NAME Micah /Mosher/
-2 SOUR @qvxtZQDHRi6i6C3eRswB@
+2 SOUR @S298@
 3 PAGE "Dartmouth: Births, Marriages and Death," abstracts, image 5
 4 CONC 2
 3 OBJE @IK5bK5uASnubgylYQ19y@
 3 _APID 1,2495::6066656
-2 SOUR @qvxtZQDHRi6i6C3eRswB@
+2 SOUR @S298@
 3 PAGE "Dartmouth: Births, Marriages and Deaths," images of origina
 4 CONC l manuscripts, p. 180, image 455
 3 OBJE @cylrzjDCQ8ydrTckE6Se@
 3 _APID 1,2495::5968713
-2 SOUR @qvxtZQDHRi6i6C3eRswB@
+2 SOUR @S298@
 3 PAGE "Dartmouth: Vital Record Transcripts," p. 169, image 166
 3 OBJE @ZIjn0V7XQYuVR3HR3QPs@
 3 _APID 1,2495::80622785
@@ -23725,17 +23765,17 @@
 2 SOUR @CNCZKGpeSrKJ6BUTT9Hu@
 3 PAGE p. 6
 3 QUAY 1
-2 SOUR @qvxtZQDHRi6i6C3eRswB@
+2 SOUR @S298@
 3 PAGE "Dartmouth: Births, Marriages and Death," abstracts, image 5
 4 CONC 2
 3 OBJE @IK5bK5uASnubgylYQ19y@
 3 _APID 1,2495::6066656
-2 SOUR @qvxtZQDHRi6i6C3eRswB@
+2 SOUR @S298@
 3 PAGE "Dartmouth: Births, Marriages and Deaths," images of origina
 4 CONC l manuscripts, p. 180, image 455
 3 OBJE @cylrzjDCQ8ydrTckE6Se@
 3 _APID 1,2495::5968713
-2 SOUR @qvxtZQDHRi6i6C3eRswB@
+2 SOUR @S298@
 3 PAGE "Dartmouth: Vital Record Transcripts," p. 169, image 166
 3 OBJE @ZIjn0V7XQYuVR3HR3QPs@
 3 _APID 1,2495::80622785
@@ -24022,7 +24062,7 @@
 1 _XY 7800.00 1850.00
 0 @I493@ INDI
 1 REFN 042fca65-0496-45be-9c8a-76a5c4c8569a
-1 NAME Orlando /Mosher/
+1 NAME Orlando M. /Mosher/
 2 SOUR @S212@
 3 PAGE Year: 1850; Census Place: Madison, Madison, New York; Roll
 4 CONC : M432_527; Page: 74B; Image: 296
@@ -24207,17 +24247,17 @@
 0 @sF8V3W0ZRpC3f0pTX3lb@ INDI
 1 REFN c692ba95-3827-49ab-8f22-251e693ea5a3
 1 NAME Patience /Mosher/
-2 SOUR @qvxtZQDHRi6i6C3eRswB@
+2 SOUR @S298@
 3 PAGE "Dartmouth: Births, Marriages and Death," abstracts, image 5
 4 CONC 3
 3 OBJE @K8syfnIlRPmif5wSmxgM@
 3 _APID 1,2495::6066828
-2 SOUR @qvxtZQDHRi6i6C3eRswB@
+2 SOUR @S298@
 3 PAGE "Dartmouth: Births, Marriages and Deaths," images of origina
 4 CONC l manuscripts, original p. 40, image 609
 3 OBJE @2Ida0tNlTW6TmwBPoffE@
 3 _APID 1,2495::5988999
-2 SOUR @qvxtZQDHRi6i6C3eRswB@
+2 SOUR @S298@
 3 PAGE "Dartmouth: Vital Record Transcripts," p. 169, image 166
 3 OBJE @ZIjn0V7XQYuVR3HR3QPs@
 3 _APID 1,2495::80622800
@@ -24230,17 +24270,17 @@
 4 LATI N41.6282
 4 LONG W70.966
 2 SOUR @cHqs3hdITfGhgYkNTQzb@
-2 SOUR @qvxtZQDHRi6i6C3eRswB@
+2 SOUR @S298@
 3 PAGE "Dartmouth: Births, Marriages and Death," abstracts, image 5
 4 CONC 3
 3 OBJE @K8syfnIlRPmif5wSmxgM@
 3 _APID 1,2495::6066828
-2 SOUR @qvxtZQDHRi6i6C3eRswB@
+2 SOUR @S298@
 3 PAGE "Dartmouth: Births, Marriages and Deaths," images of origina
 4 CONC l manuscripts, original p. 40, image 609
 3 OBJE @2Ida0tNlTW6TmwBPoffE@
 3 _APID 1,2495::5988999
-2 SOUR @qvxtZQDHRi6i6C3eRswB@
+2 SOUR @S298@
 3 PAGE "Dartmouth: Vital Record Transcripts," p. 169, image 166
 3 OBJE @ZIjn0V7XQYuVR3HR3QPs@
 3 _APID 1,2495::80622800
@@ -24248,17 +24288,17 @@
 0 @3zCpIwESRqyboN9GBSdx@ INDI
 1 REFN eb6a8818-5f56-414f-98ee-5643aafc1737
 1 NAME Patience H. /Mosher/
-2 SOUR @qvxtZQDHRi6i6C3eRswB@
+2 SOUR @S298@
 3 PAGE "Dartmouth: Births, Marriages and Death," abstracts, image 5
 4 CONC 2
 3 OBJE @IK5bK5uASnubgylYQ19y@
 3 _APID 1,2495::6066664
-2 SOUR @qvxtZQDHRi6i6C3eRswB@
+2 SOUR @S298@
 3 PAGE "Dartmouth: Births, Marriages and Deaths," images of origina
 4 CONC l manuscripts, p. 180, image 455
 3 OBJE @cylrzjDCQ8ydrTckE6Se@
 3 _APID 1,2495::5968727
-2 SOUR @qvxtZQDHRi6i6C3eRswB@
+2 SOUR @S298@
 3 PAGE "Dartmouth: Vital Record Transcripts," p. 169, image 166
 3 OBJE @ZIjn0V7XQYuVR3HR3QPs@
 3 _APID 1,2495::80622798
@@ -24273,17 +24313,17 @@
 2 SOUR @CNCZKGpeSrKJ6BUTT9Hu@
 3 PAGE p. 6
 3 QUAY 1
-2 SOUR @qvxtZQDHRi6i6C3eRswB@
+2 SOUR @S298@
 3 PAGE "Dartmouth: Births, Marriages and Death," abstracts, image 5
 4 CONC 2
 3 OBJE @IK5bK5uASnubgylYQ19y@
 3 _APID 1,2495::6066664
-2 SOUR @qvxtZQDHRi6i6C3eRswB@
+2 SOUR @S298@
 3 PAGE "Dartmouth: Births, Marriages and Deaths," images of origina
 4 CONC l manuscripts, p. 180, image 455
 3 OBJE @cylrzjDCQ8ydrTckE6Se@
 3 _APID 1,2495::5968727
-2 SOUR @qvxtZQDHRi6i6C3eRswB@
+2 SOUR @S298@
 3 PAGE "Dartmouth: Vital Record Transcripts," p. 169, image 166
 3 OBJE @ZIjn0V7XQYuVR3HR3QPs@
 3 _APID 1,2495::80622798
@@ -24319,7 +24359,7 @@
 0 @r89cCYzERfe4DE8wlKXX@ INDI
 1 REFN 570c5938-7d38-47ca-b4ce-b2a680acce34
 1 NAME Priscilla /Mosher/
-2 SOUR @qvxtZQDHRi6i6C3eRswB@
+2 SOUR @S298@
 3 OBJE @doAMa4RfTRudUSSdTcpS@
 3 _APID 1,2495::5970725
 2 SOUR @NdlE0sG3SwaoEKznoTPD@
@@ -24336,7 +24376,7 @@
 2 SOUR @CNCZKGpeSrKJ6BUTT9Hu@
 3 PAGE p. 14
 3 QUAY 1
-2 SOUR @qvxtZQDHRi6i6C3eRswB@
+2 SOUR @S298@
 3 OBJE @doAMa4RfTRudUSSdTcpS@
 3 _APID 1,2495::5970725
 2 SOUR @NdlE0sG3SwaoEKznoTPD@
@@ -24346,17 +24386,17 @@
 0 @CaqGGYhATUWpxpMHCLot@ INDI
 1 REFN 5b9e569b-7d11-4bff-a83f-4c4d301a512c
 1 NAME Rachel /Mosher/
-2 SOUR @qvxtZQDHRi6i6C3eRswB@
+2 SOUR @S298@
 3 PAGE "Dartmouth: Births, Marriages and Death," abstracts, image 5
 4 CONC 2
 3 OBJE @IK5bK5uASnubgylYQ19y@
 3 _APID 1,2495::6066658
-2 SOUR @qvxtZQDHRi6i6C3eRswB@
+2 SOUR @S298@
 3 PAGE "Dartmouth: Births, Marriages and Deaths," images of origina
 4 CONC l manuscripts, p. 180, image 455
 3 OBJE @cylrzjDCQ8ydrTckE6Se@
 3 _APID 1,2495::5968718
-2 SOUR @qvxtZQDHRi6i6C3eRswB@
+2 SOUR @S298@
 3 PAGE "Dartmouth: Vital Record Transcripts," p. 170, image 167
 3 OBJE @z5CTZyqtSHCB9mNsT6AI@
 3 _APID 1,2495::80622819
@@ -24371,17 +24411,17 @@
 2 SOUR @CNCZKGpeSrKJ6BUTT9Hu@
 3 PAGE p. 6
 3 QUAY 1
-2 SOUR @qvxtZQDHRi6i6C3eRswB@
+2 SOUR @S298@
 3 PAGE "Dartmouth: Births, Marriages and Death," abstracts, image 5
 4 CONC 2
 3 OBJE @IK5bK5uASnubgylYQ19y@
 3 _APID 1,2495::6066658
-2 SOUR @qvxtZQDHRi6i6C3eRswB@
+2 SOUR @S298@
 3 PAGE "Dartmouth: Births, Marriages and Deaths," images of origina
 4 CONC l manuscripts, p. 180, image 455
 3 OBJE @cylrzjDCQ8ydrTckE6Se@
 3 _APID 1,2495::5968718
-2 SOUR @qvxtZQDHRi6i6C3eRswB@
+2 SOUR @S298@
 3 PAGE "Dartmouth: Vital Record Transcripts," p. 170, image 167
 3 OBJE @z5CTZyqtSHCB9mNsT6AI@
 3 _APID 1,2495::80622819
@@ -24653,10 +24693,13 @@
 4 CONC t0627-00785; Page: 25A; Enumeration District: 16-382
 3 OBJE @M429@
 3 _APID 1,2442::141522351
-2 SOUR @S300@
+2 SOUR @S215@
 3 PAGE U.S., Social Security Applications and Claims Index, 1936-20
 4 CONC 07 Record
+3 _APID 1,60901::15029524
 1 SEX M
+2 SOUR @S215@
+3 _APID 1,60901::15029524
 1 FAMC @F436@
 1 BIRT
 2 DATE 23 OCT 1920
@@ -24674,9 +24717,10 @@
 4 CONC t0627-00785; Page: 25A; Enumeration District: 16-382
 3 OBJE @M429@
 3 _APID 1,2442::141522351
-2 SOUR @S300@
+2 SOUR @S215@
 3 PAGE U.S., Social Security Applications and Claims Index, 1936-20
 4 CONC 07 Record
+3 _APID 1,60901::15029524
 1 RESI
 2 DATE 1930
 2 PLAC 813 South Harvey Avenue, Oak Park, Cook, Illinois, USA
@@ -24697,23 +24741,24 @@
 2 NOTE Marital Status: Single; Relation to Head: Son
 1 DEAT
 2 DATE 28 OCT 2004
-2 SOUR @S300@
+2 SOUR @S215@
 3 PAGE U.S., Social Security Applications and Claims Index, 1936-20
 4 CONC 07 Record
+3 _APID 1,60901::15029524
 0 @T2HalLi7RY62qqrUQlFt@ INDI
 1 REFN 2afe6237-dbd1-43d8-bdd0-c67406581c95
 1 NAME Roger /Mosher/
-2 SOUR @qvxtZQDHRi6i6C3eRswB@
+2 SOUR @S298@
 3 PAGE "Dartmouth: Births, Marriages and Death," abstracts, image 5
 4 CONC 2
 3 OBJE @IK5bK5uASnubgylYQ19y@
 3 _APID 1,2495::6066662
-2 SOUR @qvxtZQDHRi6i6C3eRswB@
+2 SOUR @S298@
 3 PAGE "Dartmouth: Births, Marriages and Deaths," images of origina
 4 CONC l manuscripts, p. 180, image 455
 3 OBJE @cylrzjDCQ8ydrTckE6Se@
 3 _APID 1,2495::5968723
-2 SOUR @qvxtZQDHRi6i6C3eRswB@
+2 SOUR @S298@
 3 PAGE "Dartmouth: Vital Record Transcripts," p. 170, image 167
 3 OBJE @z5CTZyqtSHCB9mNsT6AI@
 3 _APID 1,2495::80622832
@@ -24728,17 +24773,17 @@
 2 SOUR @CNCZKGpeSrKJ6BUTT9Hu@
 3 PAGE p. 19
 3 QUAY 1
-2 SOUR @qvxtZQDHRi6i6C3eRswB@
+2 SOUR @S298@
 3 PAGE "Dartmouth: Births, Marriages and Death," abstracts, image 5
 4 CONC 2
 3 OBJE @IK5bK5uASnubgylYQ19y@
 3 _APID 1,2495::6066662
-2 SOUR @qvxtZQDHRi6i6C3eRswB@
+2 SOUR @S298@
 3 PAGE "Dartmouth: Births, Marriages and Deaths," images of origina
 4 CONC l manuscripts, p. 180, image 455
 3 OBJE @cylrzjDCQ8ydrTckE6Se@
 3 _APID 1,2495::5968723
-2 SOUR @qvxtZQDHRi6i6C3eRswB@
+2 SOUR @S298@
 3 PAGE "Dartmouth: Vital Record Transcripts," p. 170, image 167
 3 OBJE @z5CTZyqtSHCB9mNsT6AI@
 3 _APID 1,2495::80622832
@@ -25081,6 +25126,7 @@
 3 OBJE @Dgy4pfm3ReWjeEskhVB7@
 3 _APID 1,7250::1398352112
 2 SOUR @S215@
+3 _APID 1,60901::751675404
 1 SEX F
 1 FAMC @v943d0vRQDS58l9ZqvAY@
 1 FAMS @F331@
@@ -25589,6 +25635,7 @@
 4 CONC vice System, 1926-1975; Record Group Number: 147; Series Num
 4 CONC ber: M2097
 3 OBJE @M431@
+3 _APID 1,1002::10066649
 1 SEX M
 1 FAMC @F429@
 1 FAMS @F436@
@@ -25632,6 +25679,7 @@
 2 SOUR @S282@
 3 _APID 1,2542::8350
 2 SOUR @S215@
+3 _APID 1,60901::11912538
 2 SOUR @S301@
 3 PAGE The National Archives at St. Louis; St. Louis, Missouri; Wor
 4 CONC ld War II Draft Cards (Fourth Registration), for The State o
@@ -25639,6 +25687,7 @@
 4 CONC vice System, 1926-1975; Record Group Number: 147; Series Num
 4 CONC ber: M2097
 3 OBJE @M431@
+3 _APID 1,1002::10066649
 1 RESI
 2 DATE 1900
 2 PLAC 1522 Adams Street, Chicago, Cook, Illinois, USA
@@ -25699,6 +25748,7 @@
 4 CONC vice System, 1926-1975; Record Group Number: 147; Series Num
 4 CONC ber: M2097
 3 OBJE @M431@
+3 _APID 1,1002::10066649
 1 RESI
 2 DATE APR 1947
 2 PLAC Oak Park, Cook, Illinois, USA
@@ -25804,13 +25854,13 @@
 2 SOUR @W3ek4ErgQoOvxC5sOB5w@
 3 OBJE @M342@
 3 _APID 1,7250::1365922602
-2 SOUR @omMXaVgrQNKvPl1yRe9j@
+2 SOUR @S306@
 3 PAGE Letters of Administration, 1830-1903, and Index, 1806-1890
 4 CONC , Madison County, New York; Author: New York. Surrogate's Co
 4 CONC urt (Madison County); Probate Place: Madison, New York
 3 OBJE @aCMtuvUFQ0Ki0uEK8Rhj@
 3 _APID 1,8800::2882246
-2 SOUR @omMXaVgrQNKvPl1yRe9j@
+2 SOUR @S306@
 3 PAGE Minutes, Order and Decrees, 1830-1902, and Miscellaneous Min
 4 CONC utes, Orders and Decrees, 1854-1900 (Madison County, New Yor
 4 CONC k); Author: New York. Surrogate's Court (Madison County); Pr
@@ -25818,6 +25868,7 @@
 3 OBJE @M281@
 3 _APID 1,8800::1822578
 2 SOUR @S215@
+3 _APID 1,60901::611962739
 1 SEX M
 1 FAMC @F395@
 1 FAMS @YIqlnp8mREuD4RW6nexn@
@@ -25830,10 +25881,10 @@
 2 CONC n. It is just to help me keep my Mosher cousins straight.
 1 BIRT
 2 DATE ABT 1854
-2 PLAC Madison, New York, USA
+2 PLAC Madison, Madison, New York, USA
 3 MAP
-4 LATI N42.9118
-4 LONG W75.6682
+4 LATI N42.899
+4 LONG W75.5121
 2 SOUR @S209@
 3 PAGE Year: 1860; Census Place: Madison, Madison, New York; Roll
 4 CONC : M653_781; Page: 1062; Family History Library Film: 803781
@@ -25857,7 +25908,7 @@
 3 OBJE @M342@
 3 _APID 1,7250::1365922602
 2 SOUR @S215@
-2 NOTE Place is assumed from father's residence at the time.
+3 _APID 1,60901::611962739
 1 RESI
 2 DATE 1855
 2 PLAC Madison, Madison, New York, USA
@@ -25892,11 +25943,6 @@
 3 OBJE @M341@
 3 _APID 1,7163::29832305
 2 NOTE Residence Post Office: Madison
-1 CENS
-2 DATE 01 JUN 1875
-2 PLAC Lawton House, Madison, Madison, New York, USA
-2 SOUR @bA5v3jeuSeGwvZqUL7c3@
-3 QUAY 3
 1 RESI
 2 DATE 01 JUN 1875
 2 PLAC Madison, Madison, New York, USA
@@ -25906,26 +25952,11 @@
 2 SOUR @W3ek4ErgQoOvxC5sOB5w@
 3 OBJE @M342@
 3 _APID 1,7250::1365922602
+2 SOUR @bA5v3jeuSeGwvZqUL7c3@
+3 QUAY 3
 2 NOTE Relation to Head: Son
-1 CENS
-2 DATE 01 JUN 1880
-2 PLAC Madison, Madison, New York, USA
-3 MAP
-4 LATI N42.899
-4 LONG W75.5121
-2 SOUR @ubRUQvYeRCqB1PXsSImR@
-3 QUAY 3
-1 EVEN
-2 TYPE photograph
-2 DATE ABT 1880
-2 PLAC Madison, Madison, New York, USA
-3 MAP
-4 LATI N42.899
-4 LONG W75.5121
-2 SOUR @P2IKbD96Qqm9ocwdwGfD@
-3 QUAY 3
 1 RESI
-2 DATE 1880
+2 DATE 01 JUN 1880
 2 PLAC Madison, Madison, New York, USA
 3 MAP
 4 LATI N42.899
@@ -25936,9 +25967,19 @@
 4 CONC n District: 068; Image: 0519
 3 OBJE @j9qnR3OISnGHoXrvNfSI@
 3 _APID 1,6742::2495819
+2 SOUR @ubRUQvYeRCqB1PXsSImR@
 2 NOTE Age: 26; Marital Status: Married; Relation to Head of House
 3 CONC : Self
 2 NOTE Marital Status: Married; Relation to Head: Self
+1 EVEN
+2 TYPE photograph
+2 DATE ABT 1880
+2 PLAC Madison, Madison, New York, USA
+3 MAP
+4 LATI N42.899
+4 LONG W75.5121
+2 SOUR @P2IKbD96Qqm9ocwdwGfD@
+3 QUAY 3
 1 EVEN
 2 TYPE bought land
 2 DATE 29 NOV 1881
@@ -25961,20 +26002,28 @@
 4 TEXT 29 Nov 1881, 20 acres in lot 73 in Madison
 5 CONT
 3 _LINK https://www.familysearch.org/ark:/61903/3:1:3QS7-89W7-9CPW
-2 NOTE from Addeson W. and Mary W. Stevens
+1 EVEN
+2 TYPE photograph
+2 DATE ABT 1884
+2 PLAC Madison, Madison, New York, USA
+3 MAP
+4 LATI N42.899
+4 LONG W75.5121
+2 SOUR @oy26BMTuR6iHqlM0tb1y@
+3 QUAY 2
 1 DEAT
 2 DATE 12 APR 1885
 2 PLAC Madison, Madison, New York, USA
 3 MAP
 4 LATI N42.899
 4 LONG W75.5121
-2 SOUR @omMXaVgrQNKvPl1yRe9j@
+2 SOUR @S306@
 3 PAGE Letters of Administration, 1830-1903, and Index, 1806-1890
 4 CONC , Madison County, New York; Author: New York. Surrogate's Co
 4 CONC urt (Madison County); Probate Place: Madison, New York
 3 OBJE @aCMtuvUFQ0Ki0uEK8Rhj@
 3 _APID 1,8800::2882246
-2 SOUR @omMXaVgrQNKvPl1yRe9j@
+2 SOUR @S306@
 3 PAGE Minutes, Order and Decrees, 1830-1902, and Miscellaneous Min
 4 CONC utes, Orders and Decrees, 1854-1900 (Madison County, New Yor
 4 CONC k); Author: New York. Surrogate's Court (Madison County); Pr
@@ -25995,24 +26044,19 @@
 3 MAP
 4 LATI N42.9118
 4 LONG W75.6682
-2 SOUR @omMXaVgrQNKvPl1yRe9j@
+2 SOUR @S306@
 3 PAGE Letters of Administration, 1830-1903, and Index, 1806-1890
 4 CONC , Madison County, New York; Author: New York. Surrogate's Co
 4 CONC urt (Madison County); Probate Place: Madison, New York
 3 OBJE @aCMtuvUFQ0Ki0uEK8Rhj@
 3 _APID 1,8800::2882246
-2 SOUR @omMXaVgrQNKvPl1yRe9j@
+2 SOUR @S306@
 3 PAGE Minutes, Order and Decrees, 1830-1902, and Miscellaneous Min
 4 CONC utes, Orders and Decrees, 1854-1900 (Madison County, New Yor
 4 CONC k); Author: New York. Surrogate's Court (Madison County); Pr
 4 CONC obate Place: Madison, New York
 3 OBJE @M281@
 3 _APID 1,8800::1822578
-1 EVEN
-2 TYPE photograph
-2 DATE ABT 1885
-2 SOUR @oy26BMTuR6iHqlM0tb1y@
-3 QUAY 2
 1 _XY 2050.00 2150.00
 1 _PHOTO @T2MdOJSOTFq3i3RFJMNw@
 0 @Xr90IHSFTtq3reSNFiUf@ INDI
@@ -26914,6 +26958,7 @@
 3 OBJE @M295@
 3 _APID 1,2469::1373073412
 2 SOUR @S215@
+3 _APID 1,60901::639176457
 2 SOUR @yAMTVEqOTiKCsMjPyXmb@
 3 PAGE Number: 146-01-2220; Issue State: New Jersey; Issue Date: Be
 4 CONC fore 1951
@@ -29079,6 +29124,7 @@
 2 SOUR @S241@
 3 _APID 1,60525::66742239
 2 SOUR @S215@
+3 _APID 1,60901::617893469
 2 SOUR @yAMTVEqOTiKCsMjPyXmb@
 3 PAGE Number: 565-20-9463; Issue State: California; Issue Date: Be
 4 CONC fore 1951
@@ -29088,7 +29134,7 @@
 4 CONC ; Roll: 1819047; Draft Board: 5
 3 OBJE @cS2oTHEKQfOXJDeUcvhZ@
 3 _APID 1,6482::1781702
-2 SOUR @6xrtF8bMQCypXIIPxFw2@
+2 SOUR @S301@
 3 PAGE The National Archives at St. Louis; St. Louis, Missouri; Wor
 4 CONC ld War II Draft Cards (4th Registration) for the State of Ca
 4 CONC lifornia; Record Group Title: Records of the Selective Servi
@@ -29165,7 +29211,7 @@
 4 CONC ; Roll: 1819047; Draft Board: 5
 3 OBJE @cS2oTHEKQfOXJDeUcvhZ@
 3 _APID 1,6482::1781702
-2 SOUR @6xrtF8bMQCypXIIPxFw2@
+2 SOUR @S301@
 3 PAGE The National Archives at St. Louis; St. Louis, Missouri; Wor
 4 CONC ld War II Draft Cards (4th Registration) for the State of Ca
 4 CONC lifornia; Record Group Title: Records of the Selective Servi
@@ -29306,7 +29352,7 @@
 3 MAP
 4 LATI N34.1847
 4 LONG W118.262
-2 SOUR @6xrtF8bMQCypXIIPxFw2@
+2 SOUR @S301@
 3 PAGE The National Archives at St. Louis; St. Louis, Missouri; Wor
 4 CONC ld War II Draft Cards (4th Registration) for the State of Ca
 4 CONC lifornia; Record Group Title: Records of the Selective Servi
@@ -29793,17 +29839,17 @@
 0 @f89ohVkeSmqy1NqeG5p0@ INDI
 1 REFN c8968cc7-b385-4694-99e4-661e75a7da38
 1 NAME Dorcas /Sherman/
-2 SOUR @qvxtZQDHRi6i6C3eRswB@
+2 SOUR @S298@
 3 PAGE "Dartmouth: Births, Marriages and Death," abstracts, image 1
 4 CONC 97, Dorcas Sherman in Benjamin Mosher
 3 OBJE @MawLe4g3SUmubbrlkddl@
 3 _APID 1,2495::16069981
-2 SOUR @qvxtZQDHRi6i6C3eRswB@
+2 SOUR @S298@
 3 PAGE "Dartmouth: Births, Marriages and Death," abstracts, image 2
 4 CONC 28, Dorcas Sherman
 3 OBJE @cjQFAzu3R7WsNxcc8ctn@
 3 _APID 1,2495::6079476
-2 SOUR @qvxtZQDHRi6i6C3eRswB@
+2 SOUR @S298@
 3 PAGE "Dartmouth: Births, Marriages and Deaths," images of origina
 4 CONC l manuscripts, image 705, Dorcas Sherman
 3 OBJE @XyIOsYtMRle7iR9odCBr@
@@ -32398,6 +32444,7 @@
 3 OBJE @M269@
 3 _APID 1,2704::20731750
 2 SOUR @S215@
+3 _APID 1,60901::1675404
 2 SOUR @S225@
 3 PAGE Registration State: New York; Registration County: Madison
 4 CONC ; Roll: 1753843; Draft Board: 1
@@ -32448,6 +32495,7 @@
 3 OBJE @M269@
 3 _APID 1,2704::20731750
 2 SOUR @S215@
+3 _APID 1,60901::1675404
 2 SOUR @S225@
 3 PAGE Registration State: New York; Registration County: Madison
 4 CONC ; Roll: 1753843; Draft Board: 1
@@ -32539,6 +32587,7 @@
 1 DEAT
 2 DATE 13 MAR 1943
 2 SOUR @S215@
+3 _APID 1,60901::1675404
 1 _XY 7700.00 1975.00
 1 _PHOTO @M217@
 0 @I421@ INDI
@@ -32591,6 +32640,7 @@
 2 SOUR @S241@
 3 _APID 1,60525::5241117
 2 SOUR @S215@
+3 _APID 1,60901::601675404
 1 SEX M
 1 FAMS @F331@
 1 BIRT
@@ -33798,6 +33848,7 @@
 3 OBJE @M305@
 3 _APID 1,1144::8088666
 2 SOUR @S215@
+3 _APID 1,60901::26364531
 2 SOUR @yAMTVEqOTiKCsMjPyXmb@
 3 PAGE Issue State: California; Issue Date: 1953
 3 _APID 1,3693::74469375
@@ -33820,6 +33871,7 @@
 3 OBJE @M305@
 3 _APID 1,1144::8088666
 2 SOUR @S215@
+3 _APID 1,60901::26364531
 2 SOUR @yAMTVEqOTiKCsMjPyXmb@
 3 PAGE Issue State: California; Issue Date: 1953
 3 _APID 1,3693::74469375
@@ -33840,6 +33892,7 @@
 4 LATI N37.5202
 4 LONG W122.2758
 2 SOUR @S215@
+3 _APID 1,60901::26364531
 2 SOUR @yAMTVEqOTiKCsMjPyXmb@
 3 PAGE Issue State: California; Issue Date: 1953
 3 _APID 1,3693::74469375
@@ -33904,6 +33957,7 @@
 3 OBJE @M311@
 3 _APID 1,2704::20728684
 2 SOUR @S215@
+3 _APID 1,60901::626364531
 2 SOUR @yAMTVEqOTiKCsMjPyXmb@
 3 PAGE Number: 074-09-2959; Issue State: New York; Issue Date: Befo
 4 CONC re 1951
@@ -35057,10 +35111,10 @@
 1 CHIL @I591@
 2 _FREL Natural
 2 _MREL Natural
-1 CHIL @I592@
+1 CHIL @I492@
 2 _FREL Natural
 2 _MREL Natural
-1 CHIL @I492@
+1 CHIL @I592@
 2 _FREL Natural
 2 _MREL Natural
 1 CHIL @I503@
@@ -35879,37 +35933,37 @@
 2 SOUR @nfGl7WzrRE2Hc60cvLD2@
 3 PAGE Birth year: 1706; Birth city: Dartmouth; Birth state: MA
 3 _APID 1,4725::3371792
-2 SOUR @qvxtZQDHRi6i6C3eRswB@
+2 SOUR @S298@
 3 PAGE "Dartmouth: Births, Marriages and Deaths," abstracts, imag
 4 CONC e 324, Abigail Maxfield
 3 OBJE @L53F6TPjRtuFcq4GBQ2R@
 3 _APID 1,2495::6088594
-2 SOUR @qvxtZQDHRi6i6C3eRswB@
+2 SOUR @S298@
 3 PAGE "Dartmouth: Births, Marriages and Deaths," abstracts, imag
 4 CONC e 324, Benjamin Mosher in Abigail Maxfield
 3 OBJE @L53F6TPjRtuFcq4GBQ2R@
 3 _APID 1,2495::16081328
-2 SOUR @qvxtZQDHRi6i6C3eRswB@
+2 SOUR @S298@
 3 PAGE "Dartmouth: Births, Marriages and Deaths," abstracts, imag
 4 CONC e 326, Abigail Maxfield in Benjamin Mosher
 3 OBJE @7KFBbbOgSEKBcu2nH9uO@
 3 _APID 1,2495::16081518
-2 SOUR @qvxtZQDHRi6i6C3eRswB@
+2 SOUR @S298@
 3 PAGE "Dartmouth: Births, Marriages and Deaths," abstracts, imag
 4 CONC e 326, Benjamin Mosher
 3 OBJE @7KFBbbOgSEKBcu2nH9uO@
 3 _APID 1,2495::6088784
-2 SOUR @qvxtZQDHRi6i6C3eRswB@
+2 SOUR @S298@
 3 PAGE "Dartmouth: Births, Marriages and Deaths," images of origina
 4 CONC l manuscripts, p. 203, image 470, Abigail Maxfield
 3 OBJE @Z70Gr0eOSACb7yQ9k2LW@
 3 _APID 1,2495::15962190
-2 SOUR @qvxtZQDHRi6i6C3eRswB@
+2 SOUR @S298@
 3 PAGE "Dartmouth: Births, Marriages and Deaths," images of origina
 4 CONC l manuscripts, p. 203, image 470, Benjamin Mosher
 3 OBJE @Z70Gr0eOSACb7yQ9k2LW@
 3 _APID 1,2495::5969456
-2 SOUR @qvxtZQDHRi6i6C3eRswB@
+2 SOUR @S298@
 3 PAGE "Dartmouth: Vital Record Transcripts," p. 323, image 621, Be
 4 CONC njamin Mosher
 3 OBJE @uj8u9tiBQfO3aBd1B6Lu@
@@ -35932,32 +35986,32 @@
 3 MAP
 4 LATI N41.6282
 4 LONG W70.966
-2 SOUR @qvxtZQDHRi6i6C3eRswB@
+2 SOUR @S298@
 3 PAGE "Dartmouth: Births, Marriages and Death," abstracts, image 1
 4 CONC 97, Benjamin Mosher
 3 OBJE @MawLe4g3SUmubbrlkddl@
 3 _APID 1,2495::6077247
-2 SOUR @qvxtZQDHRi6i6C3eRswB@
+2 SOUR @S298@
 3 PAGE "Dartmouth: Births, Marriages and Death," abstracts, image 1
 4 CONC 97, Dorcas Sherman in Benjamin Mosher
 3 OBJE @MawLe4g3SUmubbrlkddl@
 3 _APID 1,2495::16069981
-2 SOUR @qvxtZQDHRi6i6C3eRswB@
+2 SOUR @S298@
 3 PAGE "Dartmouth: Births, Marriages and Death," abstracts, image 2
 4 CONC 28, Benjamin Mosher in Dorcas Sherman
 3 OBJE @cjQFAzu3R7WsNxcc8ctn@
 3 _APID 1,2495::16072210
-2 SOUR @qvxtZQDHRi6i6C3eRswB@
+2 SOUR @S298@
 3 PAGE "Dartmouth: Births, Marriages and Death," abstracts, image 2
 4 CONC 28, Dorcas Sherman
 3 OBJE @cjQFAzu3R7WsNxcc8ctn@
 3 _APID 1,2495::6079476
-2 SOUR @qvxtZQDHRi6i6C3eRswB@
+2 SOUR @S298@
 3 PAGE "Dartmouth: Births, Marriages and Deaths," images of origina
 4 CONC l manuscripts, image 705, Benjamin Mosher
 3 OBJE @XyIOsYtMRle7iR9odCBr@
 3 _APID 1,2495::6011724
-2 SOUR @qvxtZQDHRi6i6C3eRswB@
+2 SOUR @S298@
 3 PAGE "Dartmouth: Births, Marriages and Deaths," images of origina
 4 CONC l manuscripts, image 705, Dorcas Sherman
 3 OBJE @XyIOsYtMRle7iR9odCBr@
@@ -37598,33 +37652,19 @@
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2010
-0 @9jhPyuNjT7Crw4hkg6Gj@ SOUR
+0 @S320@ SOUR
 1 REPO @R9@
 1 TITL 1790 United States Federal Census
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2010
-0 @bHQuWN4FTpusbsry9cjZ@ SOUR
-1 REFN 497405fa-18f8-48c8-af87-53a2f83acab9
-1 REPO @R1@
-1 TITL 1800 United States Federal Census
-1 AUTH Ancestry.com
-1 PUBL Ancestry.com Operations Inc; Location: Provo, UT, USA; Date
-2 CONC : 2010
-0 @bHQuWN4FTpusbsry9cjZ@ SOUR
+0 @S315@ SOUR
 1 REPO @R9@
 1 TITL 1800 United States Federal Census
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations Inc; Location: Provo, UT, USA; Date
 2 CONC : 2010
-0 @YTSxHe1ZQvOS6MgNDuq4@ SOUR
-1 REFN c191bdde-9d7d-431c-b928-2a457b6705ff
-1 REPO @R1@
-1 TITL 1810 United States Federal Census
-1 AUTH Ancestry.com
-1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
-2 CONC e: 2010
-0 @YTSxHe1ZQvOS6MgNDuq4@ SOUR
+0 @S316@ SOUR
 1 REPO @R9@
 1 TITL 1810 United States Federal Census
 1 AUTH Ancestry.com
@@ -38429,13 +38469,6 @@
 1 AUTH Dodd, Jordan, Liahona Research, comp
 1 PUBL Ancestry.com Operations Inc; Location: Provo, UT, USA; Date
 2 CONC : 2005
-0 @qvxtZQDHRi6i6C3eRswB@ SOUR
-1 REFN 0bc65238-1bde-43b3-94cb-5fdf1317286e
-1 REPO @R1@
-1 TITL Massachusetts, Town and Vital Records, 1620-1988
-1 AUTH Ancestry.com
-1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
-2 CONC e: 2011
 0 @S298@ SOUR
 1 REPO @R9@
 1 TITL Massachusetts, Town and Vital Records, 1620-1988
@@ -38921,14 +38954,7 @@
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2012
-0 @omMXaVgrQNKvPl1yRe9j@ SOUR
-1 REFN aa3c3034-accf-4b7d-ac1e-3fed2b9d8c9d
-1 REPO @R1@
-1 TITL New York, Wills and Probate Records, 1659-1999
-1 AUTH Ancestry.com
-1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
-2 CONC e: 2015
-0 @omMXaVgrQNKvPl1yRe9j@ SOUR
+0 @S306@ SOUR
 1 REPO @R9@
 1 TITL New York, Wills and Probate Records, 1659-1999
 1 AUTH Ancestry.com
@@ -39900,14 +39926,6 @@
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2015
-0 @S300@ SOUR
-1 TITL U.S., Social Security Applications and Claims Index, 1936-20
-2 CONC 07
-1 AUTH Ancestry.com
-1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
-2 CONC e: 2015
-1 NOTE Social Security Applications and Claims, 1936-2007.
-2 CONT
 0 @S303@ SOUR
 1 REPO @R9@
 1 TITL U.S., Social Security Death Index, 1935-2014
@@ -39933,13 +39951,6 @@
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2005
-0 @6xrtF8bMQCypXIIPxFw2@ SOUR
-1 REFN 28633d1f-d958-4d1a-b559-496dc9a4605c
-1 REPO @R1@
-1 TITL U.S., World War II Draft Registration Cards, 1942
-1 AUTH Ancestry.com
-1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
-2 CONC e: 2010
 0 @S301@ SOUR
 1 REPO @R9@
 1 TITL U.S., World War II Draft Registration Cards, 1942
@@ -44219,7 +44230,8 @@
 3 CONC es: M32; Roll: 25; Page: 652; Image: 83; Family History Libr
 3 CONC ary Film: 193713
 0 @M460@ OBJE
-1 FILE Early Connecticut Marriages.jpg
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher Media\Ea
+2 CONC rly Connecticut Marriages.jpg
 2 FORM jpg
 2 TITL Early Connecticut Marriages
 0 @M461@ OBJE
@@ -44245,8 +44257,9 @@
 2 _TEXT 1820 U S Census; Census Place: Burlington, Otsego, New York
 3 CONC ; Page: 153; NARA Roll: M33_74; Image: 164
 0 @M464@ OBJE
-1 FILE Connecticut, Town Marriage Records, pre-1870 (Barbour Collec
-2 CONC tion)(1).jpg
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher Media\Co
+2 CONC nnecticut, Town Marriage Records, pre-1870 (Barbour Collecti
+2 CONC on)(1).jpg
 2 FORM jpg
 2 TITL Connecticut, Town Marriage Records, pre-1870 (Barbour Collec
 3 CONC tion)
@@ -44261,38 +44274,45 @@
 3 CONC ds of the Immigration and Naturalization Service, 1787 - 200
 3 CONC 4; Record Group N
 0 @M466@ OBJE
-1 FILE Massachusetts, Town and Vital Records, 1620-1988(20).jpg
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher Media\Ma
+2 CONC ssachusetts, Town and Vital Records, 1620-1988(20).jpg
 2 FORM jpg
 2 TITL Massachusetts, Town and Vital Records, 1620-1988
 0 @M467@ OBJE
-1 FILE 1940 United States Federal Census(10).jpg
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher Media\19
+2 CONC 40 United States Federal Census(10).jpg
 2 FORM jpg
 2 TITL 1940 United States Federal Census
 2 _TEXT Year: 1940; Census Place: Chicago, Cook, Illinois; Roll: m-t
 3 CONC 0627-00998; Page: 21A; Enumeration District: 103-2429
 0 @M468@ OBJE
-1 FILE California, County Birth, Marriage, and Death Records, 1849-
-2 CONC 1980.jpg
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher Media\Ca
+2 CONC lifornia, County Birth, Marriage, and Death Records, 1849-19
+2 CONC 80.jpg
 2 FORM jpg
 2 TITL California, County Birth, Marriage, and Death Records, 1849-
 3 CONC 1980
 2 _TEXT California Department of Public Health, courtesy of www.vita
 3 CONC lsearch-worldwide.com. Digital Images.
 0 @M469@ OBJE
-1 FILE Massachusetts, Town and Vital Records, 1620-1988(21).jpg
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher Media\Ma
+2 CONC ssachusetts, Town and Vital Records, 1620-1988(21).jpg
 2 FORM jpg
 2 TITL Massachusetts, Town and Vital Records, 1620-1988
 0 @M470@ OBJE
-1 FILE Massachusetts, Town and Vital Records, 1620-1988(22).jpg
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher Media\Ma
+2 CONC ssachusetts, Town and Vital Records, 1620-1988(22).jpg
 2 FORM jpg
 2 TITL Massachusetts, Town and Vital Records, 1620-1988
 0 @M471@ OBJE
-1 FILE Massachusetts, Town and Vital Records, 1620-1988(23).jpg
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher Media\Ma
+2 CONC ssachusetts, Town and Vital Records, 1620-1988(23).jpg
 2 FORM jpg
 2 TITL Massachusetts, Town and Vital Records, 1620-1988
 0 @M472@ OBJE
-1 FILE Massachusetts, Compiled Birth, Marriage, and Death Records
-2 CONC , 1700-1850(1).jpg
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher Media\Ma
+2 CONC ssachusetts, Compiled Birth, Marriage, and Death Records, 17
+2 CONC 00-1850(1).jpg
 2 FORM jpg
 2 TITL Massachusetts, Compiled Birth, Marriage, and Death Records
 3 CONC , 1700-1850
@@ -44300,24 +44320,29 @@
 3 CONC etts; Vital Records of Dartmouth, Massachusetts to the End o
 3 CONC f the Year 1850
 0 @M473@ OBJE
-1 FILE U.S. City Directories, 1822-1995(13).jpg
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher Media\U.
+2 CONC S. City Directories, 1822-1995(13).jpg
 2 FORM jpg
 2 TITL U.S. City Directories, 1822-1995
 0 @M474@ OBJE
-1 FILE U.S. City Directories, 1822-1995(14).jpg
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher Media\U.
+2 CONC S. City Directories, 1822-1995(14).jpg
 2 FORM jpg
 2 TITL U.S. City Directories, 1822-1995
 0 @M475@ OBJE
-1 FILE Massachusetts, Town and Vital Records, 1620-1988(24).jpg
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher Media\Ma
+2 CONC ssachusetts, Town and Vital Records, 1620-1988(24).jpg
 2 FORM jpg
 2 TITL Massachusetts, Town and Vital Records, 1620-1988
 0 @M476@ OBJE
-1 FILE Massachusetts, Town and Vital Records, 1620-1988(25).jpg
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher Media\Ma
+2 CONC ssachusetts, Town and Vital Records, 1620-1988(25).jpg
 2 FORM jpg
 2 TITL Massachusetts, Town and Vital Records, 1620-1988
 0 @M477@ OBJE
-1 FILE Massachusetts, Compiled Birth, Marriage, and Death Records
-2 CONC , 1700-1850(2).jpg
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher Media\Ma
+2 CONC ssachusetts, Compiled Birth, Marriage, and Death Records, 17
+2 CONC 00-1850(2).jpg
 2 FORM jpg
 2 TITL Massachusetts, Compiled Birth, Marriage, and Death Records
 3 CONC , 1700-1850
@@ -44325,106 +44350,123 @@
 3 CONC etts; Vital Records of Dartmouth, Massachusetts to the End o
 3 CONC f the Year 1850
 0 @M478@ OBJE
-1 FILE New York, State Census, 1905(5).jpg
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher Media\Ne
+2 CONC w York, State Census, 1905(5).jpg
 2 FORM jpg
 2 TITL New York, State Census, 1905
 2 _TEXT New York State Archives; Albany, New York; State Populatio
 3 CONC n Census Schedules, 1905; Election District: E.D. 01; City
 3 CONC : Hamilton; County: Madison
 0 @M479@ OBJE
-1 FILE U.S. City Directories, 1822-1995(15).jpg
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher Media\U.
+2 CONC S. City Directories, 1822-1995(15).jpg
 2 FORM jpg
 2 TITL U.S. City Directories, 1822-1995
 0 @M480@ OBJE
-1 FILE 1910 United States Federal Census(12).jpg
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher Media\19
+2 CONC 10 United States Federal Census(12).jpg
 2 FORM jpg
 2 TITL 1910 United States Federal Census
 2 _TEXT Year: 1910; Census Place: Hamilton, Madison, New York; Roll
 3 CONC : T624_987; Page: 10B; Enumeration District: 0014; FHL micro
 3 CONC film: 1375000
 0 @M481@ OBJE
-1 FILE 1800 United States Federal Census(2).jpg
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher Media\18
+2 CONC 00 United States Federal Census(2).jpg
 2 FORM jpg
 2 TITL 1800 United States Federal Census
 2 _TEXT Year: 1800; Census Place: Fairfield, Washington, New York; S
 3 CONC eries: M32; Roll: 26; Page: 214; Image: 210; Family Histor
 3 CONC y Library Film: 193714
 0 @M482@ OBJE
-1 FILE 1910 United States Federal Census(13).jpg
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher Media\19
+2 CONC 10 United States Federal Census(13).jpg
 2 FORM jpg
 2 TITL 1910 United States Federal Census
 2 _TEXT Year: 1910; Census Place: Hamilton, Madison, New York; Roll
 3 CONC : T624_987; Page: 10A; Enumeration District: 0014; FHL micro
 3 CONC film: 1375000
 0 @M483@ OBJE
-1 FILE New York State, Birth Index, 1881-1942(2).jpg
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher Media\Ne
+2 CONC w York State, Birth Index, 1881-1942(2).jpg
 2 FORM jpg
 2 TITL New York State, Birth Index, 1881-1942
 2 _TEXT New York State Department of Health; Albany, NY, USA; New Yo
 3 CONC rk State Birth Index
 0 @M484@ OBJE
-1 FILE 1940 United States Federal Census(11).jpg
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher Media\19
+2 CONC 40 United States Federal Census(11).jpg
 2 FORM jpg
 2 TITL 1940 United States Federal Census
 2 _TEXT Year: 1940; Census Place: San Antonio, Los Angeles, Californ
 3 CONC ia; Roll: m-t0627-00249; Page: 5A; Enumeration District: 19-
 3 CONC 622
 0 @M485@ OBJE
-1 FILE New York, Wills and Probate Records, 1659-1999(7).jpg
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher Media\Ne
+2 CONC w York, Wills and Probate Records, 1659-1999(7).jpg
 2 FORM jpg
 2 TITL New York, Wills and Probate Records, 1659-1999
 2 _TEXT Letters of Administration, 1830-1903, and Index, 1806-1890
 3 CONC , Madison County, New York; Author: New York. Surrogate's Co
 3 CONC urt (Madison County); Probate Place: Madison, New York
 0 @M486@ OBJE
-1 FILE 1790 United States Federal Census(2).jpg
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher Media\17
+2 CONC 90 United States Federal Census(2).jpg
 2 FORM jpg
 2 TITL 1790 United States Federal Census
 2 _TEXT Year: 1790; Census Place: Half Moon, Albany, New York; Serie
 3 CONC s: M637; Roll: 6; Page: 323; Image: 308; Family History Libr
 3 CONC ary Film: 0568146
 0 @M487@ OBJE
-1 FILE 1830 United States Federal Census(3).jpg
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher Media\18
+2 CONC 30 United States Federal Census(3).jpg
 2 FORM jpg
 2 TITL 1830 United States Federal Census
 2 _TEXT 1830; Census Place: Madison, Madison, New York; Series: M19
 3 CONC ; Roll: 93; Page: 359; Family History Library Film: 0017153
 0 @M488@ OBJE
-1 FILE California, Voter Registrations, 1900-1968.jpg
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher Media\Ca
+2 CONC lifornia, Voter Registrations, 1900-1968.jpg
 2 FORM jpg
 2 TITL California, Voter Registrations, 1900-1968
 2 _TEXT California State Library; Sacramento, California; Great Regi
 3 CONC ster of Voters, 1900-1968
 0 @M489@ OBJE
-1 FILE Massachusetts, Town and Vital Records, 1620-1988(26).jpg
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher Media\Ma
+2 CONC ssachusetts, Town and Vital Records, 1620-1988(26).jpg
 2 FORM jpg
 2 TITL Massachusetts, Town and Vital Records, 1620-1988
 0 @M490@ OBJE
-1 FILE California, Voter Registrations, 1900-1968(1).jpg
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher Media\Ca
+2 CONC lifornia, Voter Registrations, 1900-1968(1).jpg
 2 FORM jpg
 2 TITL California, Voter Registrations, 1900-1968
 2 _TEXT California State Library; Sacramento, California; Great Regi
 3 CONC ster of Voters, 1900-1968
 0 @M491@ OBJE
-1 FILE 1840 United States Federal Census(7).jpg
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher Media\18
+2 CONC 40 United States Federal Census(7).jpg
 2 FORM jpg
 2 TITL 1840 United States Federal Census
 2 _TEXT Year: 1840; Census Place: Georgetown, Madison, New York; Rol
 3 CONC l: 295; Page: 240; Family History Library Film: 0017192
 0 @M492@ OBJE
-1 FILE New York State, Marriage Index, 1881-1967(8).jpg
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher Media\Ne
+2 CONC w York State, Marriage Index, 1881-1967(8).jpg
 2 FORM jpg
 2 TITL New York State, Marriage Index, 1881-1967
 2 _TEXT New York State Department of Health; Albany, NY, USA; New Yo
 3 CONC rk State Marriage Index
 0 @M493@ OBJE
-1 FILE 1930 United States Federal Census(11).jpg
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher Media\19
+2 CONC 30 United States Federal Census(11).jpg
 2 FORM jpg
 2 TITL 1930 United States Federal Census
 2 _TEXT Year: 1930; Census Place: Boonton, Morris, New Jersey; Page
 3 CONC : 4B; Enumeration District: 0003; FHL microfilm: 2341108
 0 @M494@ OBJE
-1 FILE New York State, Marriage Index, 1881-1967(9).jpg
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher Media\Ne
+2 CONC w York State, Marriage Index, 1881-1967(9).jpg
 2 FORM jpg
 2 TITL New York State, Marriage Index, 1881-1967
 2 _TEXT New York State Department of Health; Albany, NY, USA; New Yo
