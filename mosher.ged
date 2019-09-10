@@ -14,9 +14,9 @@
 4 CONT Boston, MA 02109
 3 PHON (617) 227-6681
 1 DEST FTM
-1 FILE Mosher_2019-09-01-04-20-45.ftm.ged
-1 DATE 01 SEP 2019
-2 TIME 04:22:09
+1 FILE Mosher_2019-09-09-22-06-22.ftm.ged
+1 DATE 09 SEP 2019
+2 TIME 22:08:27
 0 @Umy2qBWIRUiwVSS6Hcn4@ SUBM
 1 NAME Christopher Alan Mosher
 2 EMAIL cmosher01@@gmail.com
@@ -40,6 +40,7 @@
 1 LANG English
 1 RIN Umy2qBWIRUiwVSS6Hcn4
 0 @I572@ INDI
+1 REFN db488f4b-86e4-4287-8aae-dbec402db563
 1 NAME Pearl Fredericka /Ahrens/
 2 SOUR @S213@
 3 PAGE Year: 1920; Census Place: Chicago Ward 13, Cook (Chicago), I
@@ -57,8 +58,14 @@
 3 OBJE @M429@
 3 _APID 1,2442::141522345
 2 SOUR @S293@
+3 PAGE Charles Oscar Mosher birth
+3 _APID 1,2545::301259426
 2 SOUR @S293@
+3 PAGE John A. Mosher birth
+3 _APID 1,2545::301378655
 2 SOUR @S293@
+3 PAGE William Baker Mosher  birth
+3 _APID 1,2545::301022063
 2 SOUR @S292@
 3 _APID 1,2556::1581689
 2 SOUR @S299@
@@ -93,8 +100,14 @@
 3 OBJE @M429@
 3 _APID 1,2442::141522345
 2 SOUR @S293@
+3 PAGE Charles Oscar Mosher birth
+3 _APID 1,2545::301259426
 2 SOUR @S293@
+3 PAGE John A. Mosher birth
+3 _APID 1,2545::301378655
 2 SOUR @S293@
+3 PAGE William Baker Mosher  birth
+3 _APID 1,2545::301022063
 2 SOUR @S292@
 3 _APID 1,2556::1581689
 1 RESI
@@ -395,6 +408,7 @@
 4 LONG W70.7362
 1 _XY 8175.00 75.00
 0 @I552@ INDI
+1 REFN 1a2194b9-3219-4d62-8402-ac915b5c22ba
 1 NAME Gertrude E. /Baker/
 2 SOUR @MYPTYwXjROCnuswpONVl@
 3 PAGE Year: 1900; Census Place: Chicago Ward 12, Cook, Illinois; P
@@ -515,6 +529,7 @@
 2 DATE ABT 1962
 1 _XY 3850.00 2600.00
 0 @I540@ INDI
+1 REFN 9ec6ec9f-b55f-408c-bc85-5f46efd61c3f
 1 NAME Emily /Bartenstein/
 1 SEX F
 1 FAMC @F392@
@@ -659,8 +674,9 @@
 4 CONC : T627_2624; Page: 5A; Enumeration District: 27-5
 3 OBJE @M321@
 3 _APID 1,2442::11179598
-2 SOUR @S258@
+2 SOUR @S308@
 3 OBJE @M323@
+3 _APID 1,8837::1140155
 2 SOUR @S259@
 3 OBJE @M320@
 3 _APID 1,1506::3323786
@@ -968,6 +984,8 @@
 1 NAME Kirk /Benedict/
 2 SOUR @S245@
 3 PAGE Facebook update - Kirk Benedict - 9/14/2013
+2 SOUR @S321@
+3 PAGE City: Omaha; State: Nebraska; Year(s): 1993-2002
 2 SOUR @S263@
 3 _APID 1,1788::156962570
 2 SOUR @S251@
@@ -995,6 +1013,11 @@
 3 OBJE @M304@
 3 _APID 1,1265::410274442
 1 RESI
+2 DATE 1993
+2 PLAC 210 North 118th Street, Omaha, Douglas, Nebraska, USA
+2 SOUR @S321@
+3 PAGE City: Omaha; State: Nebraska; Year(s): 1993-2002
+1 RESI
 2 DATE 1996
 2 PLAC 210 North 118th Street, Omaha, Douglas, Nebraska, USA
 2 SOUR @S263@
@@ -1005,6 +1028,7 @@
 3 PAGE Facebook update - Kirk Benedict - 9/14/2013
 1 _XY 3475.00 2525.00
 0 @I598@ INDI
+1 REFN 036eadfc-cb2d-4c7d-8a55-6467ae0b4d31
 1 NAME Nicole /Benedict/
 1 SEX F
 1 FAMC @F454@
@@ -1031,6 +1055,7 @@
 2 DATE ABT 1845
 1 _XY 2275.00 2150.00
 0 @I581@ INDI
+1 REFN fe3076ce-c392-474b-9dbb-9cc1ce7fa16b
 1 NAME Abraham /Bloss/
 2 SOUR @S305@
 3 PAGE New England Historic Genealogical Society; Boston, Massachus
@@ -1100,6 +1125,7 @@
 2 NOTE Residence Post Office: Chicago
 1 _XY 1200.00 1275.00
 0 @I599@ INDI
+1 REFN 071114c2-1107-4b39-a12b-4971440f877a
 1 NAME Menassah /Bloss/
 2 SOUR @S315@
 3 PAGE Year: 1800; Census Place: Burlington, Otsego, New York; Seri
@@ -1197,13 +1223,179 @@
 1 FAMS @0AHPJQMgRoaRteWxND3Z@
 1 _XY 9600.00 1675.00
 0 @I575@ INDI
+1 REFN 39584edc-02ce-4e85-b891-17757f860329
 1 NAME /Brazee/
 1 SEX M
 1 FAMS @F441@
 0 @I576@ INDI
+1 REFN ba2aeb64-a4c3-453f-ac9f-94f4589a696b
 1 NAME Stella /Brazee/
 1 SEX F
 1 FAMC @F441@
+0 @I621@ INDI
+1 NAME Ambrose /Brown/
+2 SOUR @S211@
+3 OBJE @M495@
+3 _APID 1,7181::1653420057
+1 SEX M
+1 FAMC @F458@
+1 BIRT
+2 DATE ABT 1846
+2 SOUR @S211@
+3 OBJE @M495@
+3 _APID 1,7181::1653420057
+1 RESI
+2 DATE 1855
+2 PLAC Augusta, Oneida, New York, USA
+3 MAP
+4 LATI N42.9747
+4 LONG W75.5017
+2 SOUR @S211@
+3 OBJE @M495@
+3 _APID 1,7181::1653420057
+2 NOTE Relation to Head: Child
+0 @I619@ INDI
+1 NAME Asher Martin /Brown/
+2 SOUR @S212@
+3 PAGE Year: 1850; Census Place: Ann Arbor, Washtenaw, Michigan; Ro
+4 CONC ll: M432_364; Page: 202A; Image: 54
+3 OBJE @M496@
+3 _APID 1,8054::3254204
+2 SOUR @S211@
+3 OBJE @M495@
+3 _APID 1,7181::1653425977
+2 SOUR @S323@
+1 SEX M
+1 FAMS @F458@
+1 BIRT
+2 DATE 1816
+2 PLAC New Jersey, USA
+3 MAP
+4 LATI N40.1365
+4 LONG W73.2613
+2 SOUR @S212@
+3 PAGE Year: 1850; Census Place: Ann Arbor, Washtenaw, Michigan; Ro
+4 CONC ll: M432_364; Page: 202A; Image: 54
+3 OBJE @M496@
+3 _APID 1,8054::3254204
+2 SOUR @S211@
+3 OBJE @M495@
+3 _APID 1,7181::1653425977
+1 RESI
+2 DATE 1850
+2 PLAC Ann Arbor, Washtenaw, Michigan, USA
+3 MAP
+4 LATI N42.2709
+4 LONG W83.7263
+2 SOUR @S212@
+3 PAGE Year: 1850; Census Place: Ann Arbor, Washtenaw, Michigan; Ro
+4 CONC ll: M432_364; Page: 202A; Image: 54
+3 OBJE @M496@
+3 _APID 1,8054::3254204
+1 RESI
+2 DATE 1855
+2 PLAC Augusta, Oneida, New York, USA
+3 MAP
+4 LATI N42.9747
+4 LONG W75.5017
+2 SOUR @S211@
+3 OBJE @M495@
+3 _APID 1,7181::1653425977
+2 NOTE Relation to Head: Head
+1 DEAT
+2 DATE 29 APR 1892
+2 PLAC Millville, Cumberland, New Jersey, USA
+3 MAP
+4 LATI N39.4021
+4 LONG W75.0394
+0 @I617@ INDI
+1 NAME Elizebath /Brown/
+2 SOUR @S211@
+3 OBJE @M495@
+3 _APID 1,7181::1653425581
+1 SEX F
+1 FAMC @F458@
+1 BIRT
+2 DATE ABT 1855
+2 SOUR @S211@
+3 OBJE @M495@
+3 _APID 1,7181::1653425581
+1 RESI
+2 DATE 1855
+2 PLAC Augusta, Oneida, New York, USA
+3 MAP
+4 LATI N42.9747
+4 LONG W75.5017
+2 SOUR @S211@
+3 OBJE @M495@
+3 _APID 1,7181::1653425581
+2 NOTE Relation to Head: Child
+0 @I622@ INDI
+1 NAME Hariett M. /Brown/
+2 SOUR @S211@
+3 OBJE @M495@
+3 _APID 1,7181::1653420061
+1 SEX F
+1 FAMC @F458@
+1 BIRT
+2 DATE ABT 1848
+2 SOUR @S211@
+3 OBJE @M495@
+3 _APID 1,7181::1653420061
+1 RESI
+2 DATE 1855
+2 PLAC Augusta, Oneida, New York, USA
+3 MAP
+4 LATI N42.9747
+4 LONG W75.5017
+2 SOUR @S211@
+3 OBJE @M495@
+3 _APID 1,7181::1653420061
+2 NOTE Relation to Head: Child
+0 @I620@ INDI
+1 NAME James M. /Brown/
+2 SOUR @S211@
+3 OBJE @M495@
+3 _APID 1,7181::1653420060
+1 SEX M
+1 FAMC @F458@
+1 BIRT
+2 DATE ABT 1843
+2 SOUR @S211@
+3 OBJE @M495@
+3 _APID 1,7181::1653420060
+1 RESI
+2 DATE 1855
+2 PLAC Augusta, Oneida, New York, USA
+3 MAP
+4 LATI N42.9747
+4 LONG W75.5017
+2 SOUR @S211@
+3 OBJE @M495@
+3 _APID 1,7181::1653420060
+2 NOTE Relation to Head: Child
+0 @I616@ INDI
+1 NAME Mary F. /Brown/
+2 SOUR @S211@
+3 OBJE @M495@
+3 _APID 1,7181::1653420062
+1 SEX F
+1 FAMC @F458@
+1 BIRT
+2 DATE ABT 1851
+2 SOUR @S211@
+3 OBJE @M495@
+3 _APID 1,7181::1653420062
+1 RESI
+2 DATE 1855
+2 PLAC Augusta, Oneida, New York, USA
+3 MAP
+4 LATI N42.9747
+4 LONG W75.5017
+2 SOUR @S211@
+3 OBJE @M495@
+3 _APID 1,7181::1653420062
+2 NOTE Relation to Head: Child
 0 @I376@ INDI
 1 REFN dca118e0-f084-4850-a147-d9c2fe0de884
 1 NAME Denise /Browne/
@@ -1759,6 +1951,7 @@
 2 NOTE Age: 5Marital Status: Single; Relation to Head of House: Son
 1 _XY 4675.00 2500.00
 0 @I551@ INDI
+1 REFN 3c82500c-54b2-4fa6-a69c-cb83202c182a
 1 NAME Antoinette Maria /Champlain/
 2 SOUR @S231@
 3 PAGE Year: 1870; Census Place: Chicago Ward 14, Cook, Illinois; R
@@ -1789,11 +1982,17 @@
 2 SOUR @S282@
 3 _APID 1,2542::1803838
 2 SOUR @S290@
-3 OBJE @M432@
-2 SOUR @S290@
-3 OBJE @M433@
-2 SOUR @S290@
+3 PAGE 1885 census
 3 OBJE @M436@
+3 _APID 1,1058::4909083
+2 SOUR @S290@
+3 PAGE 1895 census
+3 OBJE @M432@
+3 _APID 1,1058::769101
+2 SOUR @S290@
+3 PAGE 1905 census
+3 OBJE @M433@
+3 _APID 1,1058::316865
 2 SOUR @S281@
 3 OBJE @M442@
 3 _APID 1,2469::1480471348
@@ -1832,11 +2031,17 @@
 2 SOUR @S282@
 3 _APID 1,2542::1803838
 2 SOUR @S290@
-3 OBJE @M432@
-2 SOUR @S290@
-3 OBJE @M433@
-2 SOUR @S290@
+3 PAGE 1885 census
 3 OBJE @M436@
+3 _APID 1,1058::4909083
+2 SOUR @S290@
+3 PAGE 1895 census
+3 OBJE @M432@
+3 _APID 1,1058::769101
+2 SOUR @S290@
+3 PAGE 1905 census
+3 OBJE @M433@
+3 _APID 1,1058::316865
 1 RESI
 2 DATE 1870
 2 PLAC Chicago, Cook, Illinois, USA
@@ -1857,12 +2062,14 @@
 4 LATI N44.98
 4 LONG W93.2638
 2 SOUR @S290@
+3 PAGE 1885 census
 3 OBJE @M436@
 3 _APID 1,1058::4909083
 1 RESI
 2 DATE 1895
 2 PLAC 3013 Pleasant Avenue, Minneapolis, Hennepin, Minnesota, USA
 2 SOUR @S290@
+3 PAGE 1895 census
 3 OBJE @M432@
 3 _APID 1,1058::769101
 1 RESI
@@ -1879,6 +2086,7 @@
 2 DATE 15 JUN 1905
 2 PLAC East 15th Street, Minneapolis, Hennepin, Minnesota, USA
 2 SOUR @S290@
+3 PAGE 1905 census
 3 OBJE @M433@
 3 _APID 1,1058::316865
 1 RESI
@@ -2251,6 +2459,7 @@
 3 _APID 1,60525::86446534
 1 _XY 8250.00 1850.00
 0 @I538@ INDI
+1 REFN 8b43f135-14f4-4b1e-b04a-3e0cd0c03849
 1 NAME Jennifer Lynn /Cherney/
 2 SOUR @S284@
 3 _APID 1,8784::3113612
@@ -2509,6 +2718,7 @@
 4 LONG W74.2224
 1 _XY 1325.00 1125.00
 0 @I583@ INDI
+1 REFN 63bc7a23-f3a0-42e2-92e1-774716c6eccf
 1 NAME Jeremiah /Conklin/
 2 SOUR @S310@
 3 _APID 1,7854::32709
@@ -2903,6 +3113,7 @@
 1 FAMS @F400@
 1 _XY 1425.00 850.00
 0 @I554@ INDI
+1 REFN 536eeabf-7e78-460f-b1b2-bdcfd5968403
 1 NAME Margaret /Devine/
 2 SOUR @MYPTYwXjROCnuswpONVl@
 3 PAGE Year: 1900; Census Place: Chicago Ward 32, Cook, Illinois; P
@@ -3856,6 +4067,7 @@
 2 DATE ABT 1945
 1 _XY 3775.00 2525.00
 0 @I564@ INDI
+1 REFN 89a58674-13d5-4426-bd13-15b73a8323c4
 1 NAME Evelyn M. //
 2 SOUR @S221@
 3 PAGE Year: 1940; Census Place: Chicago, Cook, Illinois; Roll: m-t
@@ -3918,6 +4130,7 @@
 3 QUAY 1
 1 _XY 8550.00 400.00
 0 @I559@ INDI
+1 REFN 1eaba011-275d-4e4e-9178-38fe7f3509da
 1 NAME Arthur /Fisher/
 2 SOUR @S217@
 3 PAGE Year: 1880; Census Place: Madison, Madison, New York; Roll
@@ -3950,6 +4163,7 @@
 3 _APID 1,6742::2186464
 2 NOTE Marital Status: Single; Relation to Head: Son
 0 @I558@ INDI
+1 REFN 89049f3c-bb0c-4c0f-9417-a7ab1085b616
 1 NAME Daisy /Fisher/
 2 SOUR @S217@
 3 PAGE Year: 1880; Census Place: Madison, Madison, New York; Roll
@@ -3982,6 +4196,7 @@
 3 _APID 1,6742::2495840
 2 NOTE Marital Status: Single; Relation to Head: Daughter
 0 @I557@ INDI
+1 REFN ca9fbd3b-29e9-420c-b2d2-c61ab6e06d96
 1 NAME George /Fisher/
 2 SOUR @S217@
 3 PAGE Year: 1880; Census Place: Madison, Madison, New York; Roll
@@ -4030,6 +4245,7 @@
 3 _APID 1,61377::900144406
 1 _XY 7800.00 1975.00
 0 @I556@ INDI
+1 REFN 3230dc22-8475-439a-9730-ea123efb77e2
 1 NAME James /Fisher/
 2 SOUR @S217@
 3 PAGE Year: 1880; Census Place: Madison, Madison, New York; Roll
@@ -4145,7 +4361,6 @@
 2 SOUR @S262@
 3 PAGE City: Cortland; State: New York; Year(s): 1993 1994 1995 199
 4 CONC 6 1997 1998 1999 2000 2001 2002
-3 _APID 1,7339::292413083
 2 SOUR @S263@
 3 PAGE Gail B. Benedict
 3 DATA
@@ -4210,7 +4425,6 @@
 2 SOUR @S262@
 3 PAGE City: Cortland; State: New York; Year(s): 1993 1994 1995 199
 4 CONC 6 1997 1998 1999 2000 2001 2002
-3 _APID 1,7339::292413083
 2 SOUR @S247@
 3 _APID 1,1732::263241928
 1 RESI
@@ -4290,6 +4504,7 @@
 3 _APID 1,60525::85327678
 1 _XY 8550.00 1850.00
 0 @I546@ INDI
+1 REFN eb3774f0-997b-4eba-899a-47197a2fe25d
 1 NAME unknown /Gifford/
 1 SEX M
 1 FAMS @F423@
@@ -4311,7 +4526,11 @@
 3 OBJE @M295@
 3 _APID 1,2469::1373073413
 2 SOUR @S215@
+3 PAGE Evelyn Virginia Mosher
+3 _APID 1,60901::789176457
 2 SOUR @S215@
+3 PAGE Janet Alta Mosher
+3 _APID 1,60901::25074332
 2 SOUR @yAMTVEqOTiKCsMjPyXmb@
 3 PAGE Number: 157-26-6046; Issue State: New Jersey; Issue Date: 19
 4 CONC 51-1953
@@ -4331,6 +4550,7 @@
 3 OBJE @M493@
 3 _APID 1,6224::19864701
 2 SOUR @S215@
+3 PAGE Janet Alta Mosher
 3 _APID 1,60901::25074332
 2 SOUR @yAMTVEqOTiKCsMjPyXmb@
 3 PAGE Number: 157-26-6046; Issue State: New Jersey; Issue Date: 19
@@ -4361,6 +4581,7 @@
 4 LATI N40.5743
 4 LONG W74.6099
 2 SOUR @S215@
+3 PAGE Janet Alta Mosher
 3 _APID 1,60901::25074332
 2 SOUR @yAMTVEqOTiKCsMjPyXmb@
 3 PAGE Number: 157-26-6046; Issue State: New Jersey; Issue Date: 19
@@ -4368,12 +4589,14 @@
 3 _APID 1,3693::43961901
 1 _XY 2750.00 2425.00
 0 @I612@ INDI
+1 REFN 09ab8e95-c75a-4e96-b814-2cd518969318
 1 NAME Adolph S. /Grenlie/
 2 SOUR @S215@
 3 _APID 1,60901::618590247
 1 SEX M
 1 FAMS @F450@
 0 @I611@ INDI
+1 REFN 77e5d4f3-a060-495c-8a82-d7990c8334b2
 1 NAME Ruth Lucille /Grenlie/
 2 SOUR @S283@
 3 _APID 1,1501::3500203
@@ -4426,6 +4649,7 @@
 2 SOUR @S241@
 3 _APID 1,60525::86314738
 0 @I600@ INDI
+1 REFN a24815fc-a3b5-48c0-a72e-2e98a3e5e697
 1 NAME Lydia /Griffith/
 2 SOUR @S312@
 3 OBJE @M464@
@@ -4453,6 +4677,7 @@
 2 DATE ABT 1775
 1 _XY 1850.00 1175.00
 0 @I560@ INDI
+1 REFN 20f632d3-7fc7-4653-9452-af62f74383e7
 1 NAME /Hall/
 1 SEX F
 1 FAMS @F425@
@@ -4672,6 +4897,7 @@
 2 NOTE says Edenton, Albermarell, NC???
 1 _XY 14925.00 350.00
 0 @I591@ INDI
+1 REFN 4a29ad35-b63a-4e13-90cb-c3145008dd4b
 1 NAME Alexander /Head/
 2 SOUR @S212@
 3 PAGE Year: 1850; Census Place: Madison, Madison, New York; Roll
@@ -4776,6 +5002,7 @@
 2 SOUR @S241@
 3 _APID 1,60525::82377470
 0 @I587@ INDI
+1 REFN 52553ff8-91c9-40f1-97ff-568015699712
 1 NAME Charles A. /Head/
 2 SOUR @S209@
 3 PAGE Year: 1860; Census Place: Madison, Madison, New York; Roll
@@ -4858,6 +5085,7 @@
 2 SOUR @S241@
 3 _APID 1,60525::24159307
 0 @I595@ INDI
+1 REFN 31b73b71-ab1d-4c29-b918-3beae3dfce37
 1 NAME Cornelia C. /Head/
 2 SOUR @S212@
 3 PAGE Year: 1850; Census Place: Madison, Madison, New York; Roll
@@ -5032,6 +5260,7 @@
 3 OBJE @M457@
 3 _APID 1,61535::3078516
 0 @I588@ INDI
+1 REFN aee55b77-617d-4aa9-9e6a-cb4e01bc9a02
 1 NAME Dewitt C. /Head/
 2 SOUR @S209@
 3 PAGE Year: 1860; Census Place: Madison, Madison, New York; Roll
@@ -5114,6 +5343,7 @@
 2 SOUR @S241@
 3 _APID 1,60525::24160651
 0 @I593@ INDI
+1 REFN d5089a92-b2f6-48a1-bca2-5e9e60b06234
 1 NAME Evaline /Head/
 2 SOUR @S212@
 3 PAGE Year: 1850; Census Place: Madison, Madison, New York; Roll
@@ -5292,7 +5522,10 @@
 2 NOTE Residence Post Office: Madison
 1 _XY 1675.00 1900.00
 0 @I596@ INDI
+1 REFN a9d11aab-9046-4f2d-b82e-d1e6d9f8d097
 1 NAME John /Head/
+2 SOUR @9wMdFE3iTDe2CrzzBY3l@
+3 OBJE @M497@
 1 SEX M
 1 FAMS @F447@
 1 BIRT
@@ -5308,6 +5541,7 @@
 4 LATI N42.899
 4 LONG W75.5121
 0 @I594@ INDI
+1 REFN 18dd9748-50bf-45fc-8a45-dbcfcb55eeeb
 1 NAME Lucinda /Head/
 2 SOUR @S212@
 3 PAGE Year: 1850; Census Place: Madison, Madison, New York; Roll
@@ -5355,6 +5589,7 @@
 3 _APID 1,7181::1653746735
 2 NOTE Relation to Head: Sister
 0 @I610@ INDI
+1 REFN 7c4c62cd-957b-41dd-b22b-a4ddd65b09ea
 1 NAME Obed /Head/
 2 SOUR @S212@
 3 PAGE Year: 1850; Census Place: Madison, Madison, New York; Roll
@@ -5439,6 +5674,7 @@
 2 SOUR @S241@
 3 _APID 1,60525::24302717
 0 @I585@ INDI
+1 REFN 55ae4d46-c9f5-4fde-9f11-1fa7ad8577cf
 1 NAME Priscilla /Head/
 2 SOUR @S212@
 3 PAGE Year: 1850; Census Place: Madison, Madison, New York; Roll
@@ -5486,6 +5722,7 @@
 3 _APID 1,7181::1653746736
 2 NOTE Relation to Head: Sister
 0 @I592@ INDI
+1 REFN 27068042-99b7-41e4-9d22-7b3e84aabce7
 1 NAME Rosetta /Head/
 2 SOUR @S212@
 3 PAGE Year: 1850; Census Place: Madison, Madison, New York; Roll
@@ -5753,32 +5990,48 @@
 2 SOUR @S305@
 3 PAGE New England Historic Genealogical Society; Boston, Massachus
 4 CONC etts; Vital Records of Dartmouth, Massachusetts to the End o
-4 CONC f the Year 1850
-3 OBJE @M472@
+4 CONC f the Year 1850 (typeset extract 2)
+3 OBJE @M477@
+3 _APID 1,61401::222997
 2 SOUR @S305@
 3 PAGE New England Historic Genealogical Society; Boston, Massachus
 4 CONC etts; Vital Records of Dartmouth, Massachusetts to the End o
-4 CONC f the Year 1850
-3 OBJE @M477@
+4 CONC f the Year 1850 (typeset extract)
+3 OBJE @M472@
+3 _APID 1,61401::90223189
 2 SOUR @S280@
 3 PAGE New England Historic Genealogical Society; Boston, Massachus
 4 CONC etts; Massachusetts Vital Records, 1840–1911
 3 OBJE @M378@
 3 _APID 1,2101::60460161
 2 SOUR @S298@
+3 PAGE handwritten copy
 3 OBJE @M443@
+3 _APID 1,2495::6073549
 2 SOUR @S298@
-3 OBJE @M466@
-2 SOUR @S298@
+3 PAGE handwritten copy 2
 3 OBJE @M470@
+3 _APID 1,2495::16066528
 2 SOUR @S298@
+3 PAGE handwritten copy 3
 3 OBJE @M469@
+3 _APID 1,2495::6087523
 2 SOUR @S298@
+3 PAGE handwritten copy 4
 3 OBJE @M471@
+3 _APID 1,2495::16080545
 2 SOUR @S298@
+3 PAGE original record
+3 OBJE @M466@
+3 _APID 1,2495::6017489
+2 SOUR @S298@
+3 PAGE original record 2
 3 OBJE @M475@
+3 _APID 1,2495::6114822
 2 SOUR @S298@
+3 PAGE typeset extract
 3 OBJE @M489@
+3 _APID 1,2495::80635746
 2 SOUR @S306@
 3 PAGE Letters of Administration, 1830-1903, and Index, 1806-1890
 4 CONC , Madison County, New York; Author: New York. Surrogate's Co
@@ -5855,6 +6108,7 @@
 3 _APID 1,60525::24302684
 1 _XY 1950.00 1825.00
 0 @I589@ INDI
+1 REFN 943ce84c-2b14-457d-917d-f1ceb02e19ff
 1 NAME Walter B. /Head/
 2 SOUR @S231@
 3 PAGE Year: 1870; Census Place: Madison, Madison, New York; Roll
@@ -5899,12 +6153,14 @@
 2 SOUR @S241@
 3 _APID 1,60525::24159381
 0 @I613@ INDI
+1 REFN fbf90613-827c-4715-95d5-aa4c3a1bbb36
 1 NAME Marie C. /Hermonson/
 2 SOUR @S215@
 3 _APID 1,60901::768590247
 1 SEX F
 1 FAMS @F450@
 0 @I584@ INDI
+1 REFN 6a606b40-b2d3-4bd0-b66c-7257b49694ba
 1 NAME Abigail /Herriman/
 2 SOUR @S310@
 3 _APID 1,7854::401540
@@ -6500,8 +6756,9 @@
 0 @I482@ INDI
 1 REFN d9ca3c7e-4033-4f20-8e6f-6ab295a9fb07
 1 NAME Trudy Darlene /Houston/
-2 SOUR @S258@
+2 SOUR @S308@
 3 PAGE Trudy (spouse of Norman Beckwith Mosher)
+3 _APID 1,8837::8577925
 2 SOUR @S284@
 3 _APID 1,8784::6649231
 1 SEX F
@@ -6523,32 +6780,48 @@
 2 SOUR @S305@
 3 PAGE New England Historic Genealogical Society; Boston, Massachus
 4 CONC etts; Vital Records of Dartmouth, Massachusetts to the End o
-4 CONC f the Year 1850
-3 OBJE @M472@
+4 CONC f the Year 1850 (typeset extract 2)
+3 OBJE @M477@
+3 _APID 1,61401::90222997
 2 SOUR @S305@
 3 PAGE New England Historic Genealogical Society; Boston, Massachus
 4 CONC etts; Vital Records of Dartmouth, Massachusetts to the End o
-4 CONC f the Year 1850
-3 OBJE @M477@
+4 CONC f the Year 1850 (typeset extract)
+3 OBJE @M472@
+3 _APID 1,61401::223189
 2 SOUR @S280@
 3 PAGE New England Historic Genealogical Society; Boston, Massachus
 4 CONC etts; Massachusetts Vital Records, 1840–1911
 3 OBJE @M378@
 3 _APID 1,2101::75460161
 2 SOUR @S298@
+3 PAGE handwritten copy
 3 OBJE @M443@
+3 _APID 1,2495::16066283
 2 SOUR @S298@
-3 OBJE @M466@
-2 SOUR @S298@
+3 PAGE handwritten copy 2
 3 OBJE @M470@
+3 _APID 1,2495::6073794
 2 SOUR @S298@
+3 PAGE handwritten copy 3
 3 OBJE @M469@
+3 _APID 1,2495::16080257
 2 SOUR @S298@
+3 PAGE handwritten copy 4
 3 OBJE @M471@
+3 _APID 1,2495::6087811
 2 SOUR @S298@
+3 PAGE original record
+3 OBJE @M466@
+3 _APID 1,2495::16010223
+2 SOUR @S298@
+3 PAGE original record 2
 3 OBJE @M475@
+3 _APID 1,2495::16107556
 2 SOUR @S298@
+3 PAGE typeset extract
 3 OBJE @M476@
+3 _APID 1,2495::80633281
 2 SOUR @S211@
 3 OBJE @M448@
 3 _APID 1,7181::1653746730
@@ -6577,6 +6850,15 @@
 3 _APID 1,7181::1653746730
 2 SOUR @S241@
 3 _APID 1,60525::24302705
+1 RESI
+2 DATE 1825
+2 PLAC Madison, Madison, New York, USA
+3 MAP
+4 LATI N42.899
+4 LONG W75.5121
+2 SOUR @S211@
+3 OBJE @M448@
+3 _APID 1,7181::1653746730
 1 RESI
 2 DATE 1850
 2 PLAC Madison, Madison, New York, USA
@@ -6630,11 +6912,14 @@
 1 FAMS @9GfyXMWARWSaqCWX3xZ7@
 1 _XY 1125.00 150.00
 0 @I580@ INDI
+1 REFN 44704487-a799-4376-adff-fdbd0fe93e9d
 1 NAME John Thomas /Hurst/
 2 SOUR @S308@
+3 _APID 1,8837::2677819
 1 SEX M
 1 FAMS @F442@
 0 @I614@ INDI
+1 REFN 6e14538c-4061-4fc2-bafc-411122fee619
 1 NAME Helen Louise /Irvin/
 2 SOUR @S221@
 3 PAGE Year: 1940; Census Place: San Antonio, Los Angeles, Californ
@@ -7155,6 +7440,7 @@
 2 NOTE Is given in many sources as "1646" or "1647".
 1 _XY 5275.00 375.00
 0 @I571@ INDI
+1 REFN c3ce98a9-9638-416c-b00e-e5aaf1f7ab10
 1 NAME Salem J. /Johnson/
 2 SOUR @S222@
 3 PAGE Year: 1910; Census Place: Minneapolis Ward 5, Hennepin, Minn
@@ -7405,6 +7691,7 @@
 2 NOTE Relation to Head: Servant
 1 _XY 2000.00 1900.00
 0 @I590@ INDI
+1 REFN deb3605e-7b71-4cff-a3ec-312975baa729
 1 NAME Lee /Lay/
 2 SOUR @S217@
 3 PAGE Year: 1880; Census Place: Hamilton, Madison, New York; Roll
@@ -9900,7 +10187,41 @@
 2 NOTE Date is a guess, because she is in 1860 census, but not 186
 3 CONC 5 census. Place is assumed.
 1 _XY 8100.00 1375.00
+0 @I618@ INDI
+1 NAME James Gideon /Martin/
+2 SOUR @XkYfWXOxTRycLRJJyxNy@
+3 PAGE Source number: 21.000; Source type: Electronic Database; Num
+4 CONC ber of Pages: 1; Submitter Code: RKM
+3 _APID 1,7836::783000
+2 SOUR @S241@
+3 _APID 1,60525::2952220
+1 SEX M
+1 FAMS @F457@
+1 BIRT
+2 DATE 04 JUN 1774
+2 PLAC New York, USA
+3 MAP
+4 LATI N42.7531
+4 LONG W74.2224
+2 SOUR @S241@
+3 _APID 1,60525::2952220
+1 DEAT
+2 DATE 28 JUL 1850
+2 PLAC Knox, Illinois, USA
+3 MAP
+4 LATI N40.9308
+4 LONG W90.2138
+2 SOUR @S241@
+3 _APID 1,60525::2952220
+1 BURI
+2 PLAC Victoria, Knox, Illinois, USA
+3 MAP
+4 LATI N41.0336
+4 LONG W90.0985
+2 SOUR @S241@
+3 _APID 1,60525::2952220
 0 @I582@ INDI
+1 REFN a0ca07c3-772e-490b-a63f-9f301000ff8b
 1 NAME Mary //
 2 SOUR @S305@
 3 PAGE New England Historic Genealogical Society; Boston, Massachus
@@ -10974,6 +11295,7 @@
 3 CONC h his father.
 1 _XY 7600.00 450.00
 0 @I548@ INDI
+1 REFN 3f564d4f-23a0-46e2-b276-7bc7e96d812a
 1 NAME Bernice Louise /McGraw/
 2 SOUR @MYPTYwXjROCnuswpONVl@
 3 PAGE Year: 1900; Census Place: Hamilton, Madison, New York; Page
@@ -11091,6 +11413,7 @@
 2 SOUR @S241@
 3 _APID 1,60525::41355368
 0 @I549@ INDI
+1 REFN d3e6940b-b94a-43c5-9668-be6b72f4c496
 1 NAME Cora Agnes /McGraw/
 2 SOUR @MYPTYwXjROCnuswpONVl@
 3 PAGE Year: 1900; Census Place: Hamilton, Madison, New York; Page
@@ -11170,6 +11493,7 @@
 4 LATI N43.1009
 4 LONG W75.2327
 0 @I543@ INDI
+1 REFN 1e1b911e-e765-4421-86bd-e998f9e5cbde
 1 NAME Franklin Fayette /McGraw/
 2 SOUR @S212@
 3 PAGE Year: 1850; Census Place: Hamilton, Madison, New York; Roll
@@ -11246,6 +11570,7 @@
 4 LATI N42.337
 4 LONG W77.3177
 0 @I578@ INDI
+1 REFN 8ff13944-8731-4f5d-8b66-bcd286284969
 1 NAME Frederick William /McGraw/
 1 SEX M
 1 FAMC @F421@
@@ -11262,6 +11587,7 @@
 4 LATI N42.7119
 4 LONG W76.0289
 0 @I542@ INDI
+1 REFN 55879ddd-52dc-43f6-94cf-5880d88b4846
 1 NAME Helen Cornelia /McGraw/
 2 SOUR @S212@
 3 PAGE Year: 1850; Census Place: Hamilton, Madison, New York; Roll
@@ -11316,6 +11642,7 @@
 4 LATI N43.1548
 4 LONG W77.6156
 0 @I550@ INDI
+1 REFN bbc5a8bf-0dd8-4290-9996-903648a66e11
 1 NAME Hiram Ward /McGraw/
 2 SOUR @MYPTYwXjROCnuswpONVl@
 3 PAGE Year: 1900; Census Place: Hamilton, Madison, New York; Page
@@ -11404,6 +11731,7 @@
 4 LATI N42.9617
 4 LONG W77.14
 0 @I544@ INDI
+1 REFN 80052f9a-829c-491a-a1c6-4e2f6c662df8
 1 NAME Hiram Wilson /McGraw/
 2 SOUR @S212@
 3 PAGE Year: 1850; Census Place: Hamilton, Madison, New York; Roll
@@ -11581,6 +11909,7 @@
 2 SOUR @S241@
 3 _APID 1,60525::43744516
 0 @I541@ INDI
+1 REFN 4d92ed6f-6ac4-4d7f-add1-d1fa7be62fc8
 1 NAME William /McGraw/
 2 SOUR @S212@
 3 PAGE Year: 1850; Census Place: Hamilton, Madison, New York; Roll
@@ -11796,6 +12125,7 @@
 4 LONG W75.3142
 1 _XY 1750.00 2250.00
 0 @I547@ INDI
+1 REFN 7e8c7357-be4c-4783-a1b1-e335cd79d3b3
 1 NAME Lisette Sarah Josephine /Meyer/
 2 SOUR @MYPTYwXjROCnuswpONVl@
 3 PAGE Year: 1900; Census Place: Hamilton, Madison, New York; Page
@@ -16202,6 +16532,7 @@
 2 NOTE interpreted as Feb [14] 1826/7
 1 _XY 8075.00 1075.00
 0 @I615@ INDI
+1 REFN e4a33a37-7dec-4793-8269-88d9f2ee26e8
 1 NAME Abram /Mosher/
 1 SEX M
 1 FAMC @F403@
@@ -16840,6 +17171,7 @@
 2 NOTE Relation to Head: Wife
 1 _XY 1450.00 1900.00
 0 @I539@ INDI
+1 REFN 96d091bc-eb16-45fb-9bf5-e74c646f452b
 1 NAME Ashley /Mosher/
 1 SEX F
 1 FAMC @F430@
@@ -17531,6 +17863,7 @@
 3 _APID 1,2542::710852
 1 _XY 1150.00 1975.00
 0 @I562@ INDI
+1 REFN 869bd243-ff51-40ed-9ef5-c00d761cd8b4
 1 NAME Charles Oscar /Mosher/
 2 SOUR @S213@
 3 PAGE Year: 1920; Census Place: Chicago Ward 13, Cook (Chicago), I
@@ -19071,6 +19404,7 @@
 3 _APID 1,70572::5751363
 1 _XY 7675.00 1375.00
 0 @I608@ INDI
+1 REFN e2bbcd0d-8243-4d18-ae97-e68a7702f2f2
 1 NAME David /Mosher/
 1 SEX M
 1 FAMC @F403@
@@ -19572,6 +19906,8 @@
 0 @I160@ INDI
 1 REFN 944d816b-83cb-461b-9da1-19e47c305f0e
 1 NAME Edith /Mosher/
+2 SOUR @S308@
+3 _APID 1,8837::2694021
 2 SOUR @S284@
 3 _APID 1,8784::4622175
 2 SOUR @S284@
@@ -19632,10 +19968,52 @@
 0 @I502@ INDI
 1 REFN bbb18e5e-7e7f-4c55-aed2-06b3eba03e32
 1 NAME Eliza Anne /Mosher/
+2 SOUR @S212@
+3 PAGE Year: 1850; Census Place: Ann Arbor, Washtenaw, Michigan; Ro
+4 CONC ll: M432_364; Page: 202A; Image: 54
+3 OBJE @M496@
+3 _APID 1,8054::3254205
+2 SOUR @S211@
+3 OBJE @M495@
+3 _APID 1,7181::1653420059
 1 SEX F
 1 FAMC @F401@
+1 FAMS @F458@
 1 BIRT
-2 DATE ABT 1826
+2 DATE 1821
+2 PLAC New York, USA
+3 MAP
+4 LATI N42.7531
+4 LONG W74.2224
+2 SOUR @S212@
+3 PAGE Year: 1850; Census Place: Ann Arbor, Washtenaw, Michigan; Ro
+4 CONC ll: M432_364; Page: 202A; Image: 54
+3 OBJE @M496@
+3 _APID 1,8054::3254205
+2 SOUR @S211@
+3 OBJE @M495@
+3 _APID 1,7181::1653420059
+1 RESI
+2 DATE 1850
+2 PLAC Ann Arbor, Washtenaw, Michigan, USA
+3 MAP
+4 LATI N42.2709
+4 LONG W83.7263
+2 SOUR @S212@
+3 PAGE Year: 1850; Census Place: Ann Arbor, Washtenaw, Michigan; Ro
+4 CONC ll: M432_364; Page: 202A; Image: 54
+3 OBJE @M496@
+3 _APID 1,8054::3254205
+1 RESI
+2 DATE 1855
+2 PLAC Augusta, Oneida, New York, USA
+3 MAP
+4 LATI N42.9747
+4 LONG W75.5017
+2 SOUR @S211@
+3 OBJE @M495@
+3 _APID 1,7181::1653420059
+2 NOTE Relation to Head: Wife
 1 _XY 1800.00 1375.00
 0 @mTBC5r9qR32ztad69eZL@ INDI
 1 REFN 71c6d531-c188-4c7c-9040-7ea185b7a368
@@ -19820,6 +20198,7 @@
 3 QUAY 1
 1 _XY 6725.00 875.00
 0 @I601@ INDI
+1 REFN 3d9d2bbe-9d26-4002-a720-7059cc937082
 1 NAME Esau /Mosher/
 1 SEX M
 1 FAMC @F403@
@@ -19858,6 +20237,7 @@
 3 _APID 1,8054::3166264
 1 _XY 2050.00 1475.00
 0 @I555@ INDI
+1 REFN 3e3f0f65-dcb0-4b21-a537-363c2960768a
 1 NAME Frank Rollin /Mosher/
 2 SOUR @MYPTYwXjROCnuswpONVl@
 3 PAGE Year: 1900; Census Place: Chicago Ward 32, Cook, Illinois; P
@@ -20097,6 +20477,7 @@
 3 _APID 1,70572::5752806
 1 _XY 7075.00 1375.00
 0 @I570@ INDI
+1 REFN 2e5aaef7-d1b3-4f9a-9a1e-cbe6ba7de7f5
 1 NAME Gladys /Mosher/
 2 SOUR @MYPTYwXjROCnuswpONVl@
 3 PAGE Year: 1900; Census Place: Minneapolis Ward 8, Hennepin, Minn
@@ -20647,6 +21028,7 @@
 3 _APID 1,4725::3371837
 1 _XY 6975.00 875.00
 0 @I568@ INDI
+1 REFN e7135292-83bb-4f25-b86b-827c3fa8f6c2
 1 NAME Irene /Mosher/
 2 SOUR @S290@
 3 OBJE @M432@
@@ -20862,6 +21244,7 @@
 3 _APID 1,60525::92091933
 1 _XY 1750.00 1275.00
 0 @I566@ INDI
+1 REFN 79d24ef0-9312-4231-ba4b-33e1a84ed9f1
 1 NAME James Mastin /Mosher/
 2 SOUR @S224@
 3 PAGE Year: 1930; Census Place: Oak Park, Cook, Illinois; Page: 4B
@@ -20980,6 +21363,7 @@
 3 _APID 1,3693::60464563
 1 _XY 2825.00 2525.00
 0 @I565@ INDI
+1 REFN 1c899844-4657-4338-9cb7-05788ea1afdd
 1 NAME Jean P. /Mosher/
 2 SOUR @S224@
 3 PAGE Year: 1930; Census Place: Oak Park, Cook, Illinois; Page: 4B
@@ -21104,6 +21488,7 @@
 3 QUAY 1
 1 _XY 6618 743
 0 @I605@ INDI
+1 REFN ec63b0f9-027b-4564-8753-fbad59f187a4
 1 NAME John /Mosher/
 1 SEX M
 1 FAMC @F403@
@@ -21137,6 +21522,7 @@
 3 OBJE @M355@
 1 _XY 1700.00 1375.00
 0 @I574@ INDI
+1 REFN 44f6b7d1-0460-4f3a-a5a5-1011607001fa
 1 NAME John Ahrens /Mosher/
 2 SOUR @S213@
 3 PAGE Year: 1920; Census Place: Chicago Ward 13, Cook (Chicago), I
@@ -21372,6 +21758,7 @@
 3 QUAY 1
 1 _XY 6737 743
 0 @I567@ INDI
+1 REFN 44f6b7d1-0460-4f3a-a5a5-1011607001fa
 1 NAME Josephine F. /Mosher/
 2 SOUR @MYPTYwXjROCnuswpONVl@
 3 PAGE Year: 1900; Census Place: Minneapolis Ward 8, Hennepin, Minn
@@ -24274,11 +24661,44 @@
 3 QUAY 1
 1 _XY 6600.00 875.00
 0 @I603@ INDI
+1 REFN b3dd9898-5458-4269-848e-e0d78b03d04c
 1 NAME Rachel /Mosher/
+2 SOUR @XkYfWXOxTRycLRJJyxNy@
+3 PAGE Source number: 21.000; Source type: Electronic Database; Num
+4 CONC ber of Pages: 1; Submitter Code: RKM
+3 _APID 1,7836::867473
+2 SOUR @S241@
+3 _APID 1,60525::2952219
 1 SEX F
 1 FAMC @F403@
+1 FAMS @F457@
 1 BIRT
 2 DATE 03 SEP 1781
+2 PLAC Onondaga, New York, USA
+3 MAP
+4 LATI N43.2291
+4 LONG W76.1427
+2 SOUR @XkYfWXOxTRycLRJJyxNy@
+3 PAGE Source number: 21.000; Source type: Electronic Database; Num
+4 CONC ber of Pages: 1; Submitter Code: RKM
+3 _APID 1,7836::867473
+2 SOUR @S241@
+3 _APID 1,60525::2952219
+1 DEAT
+2 DATE 10 JUL 1859
+2 PLAC Knox, Illinois, USA
+3 MAP
+4 LATI N40.9308
+4 LONG W90.2138
+2 SOUR @S241@
+3 _APID 1,60525::2952219
+1 BURI
+2 PLAC Victoria, Knox, Illinois, USA
+3 MAP
+4 LATI N41.0336
+4 LONG W90.0985
+2 SOUR @S241@
+3 _APID 1,60525::2952219
 0 @gAVcFYl9Tti2KtL2byxL@ INDI
 1 REFN 11b7ace2-164e-42be-813c-cbd96226b25a
 1 NAME Rebecca /Mosher/
@@ -24519,6 +24939,7 @@
 3 _APID 1,70573::6191031
 1 _XY 7725.00 1575.00
 0 @I563@ INDI
+1 REFN 1be50019-296a-4af5-b237-2f7f3a98be23
 1 NAME Richard Frank /Mosher/
 2 SOUR @S224@
 3 PAGE Year: 1930; Census Place: Oak Park, Cook, Illinois; Page: 4B
@@ -24650,6 +25071,7 @@
 3 QUAY 1
 1 _XY 8325.00 1075.00
 0 @I606@ INDI
+1 REFN 7b45681e-8227-40d8-b190-d5730e31a0dd
 1 NAME Sally /Mosher/
 1 SEX F
 1 FAMC @F403@
@@ -24708,6 +25130,7 @@
 1 REFN bac3d1df-4c6d-409b-9b31-2e5b9603f774
 1 NAME Sandra Jean /Mosher/
 2 SOUR @S308@
+3 _APID 1,8837::7677819
 2 SOUR @S259@
 3 OBJE @M320@
 3 _APID 1,1506::3323787
@@ -24753,8 +25176,9 @@
 2 SOUR @7c8PO7CnR1qikgvyU4fE@
 3 PAGE Date: 1970-12-02
 3 _APID 1,5180::5187199
-2 SOUR @S258@
+2 SOUR @S308@
 3 OBJE @M323@
+3 _APID 1,8837::274281
 2 SOUR @S259@
 3 OBJE @M320@
 3 _APID 1,1506::3323785
@@ -25069,6 +25493,7 @@
 4 LONG W75.6682
 1 _XY 7575.00 1850.00
 0 @I609@ INDI
+1 REFN a901b150-69f1-4a84-b17b-7e511c9c8e44
 1 NAME Seba /Mosher/
 1 SEX M
 1 FAMC @F403@
@@ -25101,6 +25526,7 @@
 2 NOTE Place is from father's residence.
 1 _XY 6800.00 1575.00
 0 @I607@ INDI
+1 REFN d48d7012-cabf-4f21-82c8-4797425fdc5b
 1 NAME Seth /Mosher/
 1 SEX M
 1 FAMC @F403@
@@ -25249,6 +25675,7 @@
 4 LONG W87.6501
 1 _XY 1325.00 1275.00
 0 @I604@ INDI
+1 REFN 67d2f82a-1cb3-4a69-a285-e17b474191f4
 1 NAME Stephen /Mosher/
 1 SEX M
 1 FAMC @F403@
@@ -25414,6 +25841,7 @@
 2 NOTE Residence Post Office: Hamilton
 1 _XY 7900.00 1850.00
 0 @I553@ INDI
+1 REFN 9d275027-aac2-420a-b9ca-983d4a08c92f
 1 NAME William Baker /Mosher/
 2 SOUR @MYPTYwXjROCnuswpONVl@
 3 PAGE Year: 1900; Census Place: Chicago Ward 12, Cook, Illinois; P
@@ -25597,6 +26025,7 @@
 2 SOUR @S282@
 3 _APID 1,2542::8350
 0 @I573@ INDI
+1 REFN 188b5346-9732-4931-90d8-54b9c6f77a0b
 1 NAME William Baker /Mosher/
 2 SOUR @S213@
 3 PAGE Year: 1920; Census Place: Chicago Ward 13, Cook (Chicago), I
@@ -28644,6 +29073,7 @@
 3 _APID 1,60525::5241149
 1 _XY 7475.00 1975.00
 0 @I577@ INDI
+1 REFN 2a08209e-472f-473b-81c9-ba9115debfdb
 1 NAME Rose G. /Robbins/
 1 SEX F
 1 FAMS @F451@
@@ -28656,13 +29086,16 @@
 1 FAMS @5fmwUAeuRy6meK83M8Oh@
 1 _XY 8000.00 100.00
 0 @I579@ INDI
+1 REFN 5b911dd1-9661-4c6d-b66d-078421a6b9c7
 1 NAME Laddawan /Ruamsuwan/
 2 SOUR @S308@
+3 _APID 1,8837::7694021
 2 SOUR @S284@
 3 _APID 1,8784::3698435
 1 SEX F
 1 FAMS @F452@
 0 @I561@ INDI
+1 REFN 1e78ab26-83cd-4420-bafa-45247aa744d8
 1 NAME Michele S. /Ruane/
 2 SOUR @S287@
 3 PAGE Birthdate: 26 Aug 1959; Birth County: Contra Costa
@@ -29594,7 +30027,10 @@
 4 LONG W76.3834
 1 _XY 8675.00 1575.00
 0 @I597@ INDI
+1 REFN 2913fba5-50c9-43c8-ad46-d9517d6f17a5
 1 NAME Elizabeth /Shaw/
+2 SOUR @9wMdFE3iTDe2CrzzBY3l@
+3 OBJE @M497@
 1 SEX F
 1 FAMS @F447@
 1 BIRT
@@ -30932,6 +31368,7 @@
 2 SOUR @91JIXBEJQz6bVLkVlmAF@
 1 _XY 5450.00 475.00
 0 @I545@ INDI
+1 REFN 6d609043-2bcb-4f26-bfa9-7eafd3658c85
 1 NAME Robert /Startid/
 1 SEX M
 1 FAMS @F422@
@@ -31194,6 +31631,7 @@
 2 NOTE Marital Status: Married; Relation to Head of House: Head
 1 _XY 6950.00 1975.00
 0 @I586@ INDI
+1 REFN e7524fcc-24d6-4d00-99e7-4941628c4781
 1 NAME Parmelia R. /Stevens/
 2 SOUR @S209@
 3 PAGE Year: 1860; Census Place: Madison, Madison, New York; Roll
@@ -34645,6 +35083,24 @@
 1 CHIL @I576@
 2 _FREL Natural
 2 _MREL Natural
+0 @F458@ FAM
+1 HUSB @I619@
+1 WIFE @I502@
+1 CHIL @I620@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I621@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I622@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I616@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I617@
+2 _FREL Natural
+2 _MREL Natural
 0 @F387@ FAM
 1 HUSB @I484@
 1 WIFE @I450@
@@ -34927,6 +35383,16 @@
 1 CHIL @I530@
 2 _FREL Natural
 2 _MREL Natural
+1 MARR
+2 DATE 29 AUG 1776
+2 PLAC Little Compton, Newport, Rhode Island, USA
+3 MAP
+4 LATI N41.51
+4 LONG W71.1717
+2 SOUR @9wMdFE3iTDe2CrzzBY3l@
+3 OBJE @M497@
+2 SOUR @9wMdFE3iTDe2CrzzBY3l@
+3 OBJE @M497@
 0 @F409@ FAM
 1 HUSB @I530@
 1 WIFE @I531@
@@ -34964,17 +35430,23 @@
 4 LATI N41.6282
 4 LONG W70.966
 2 SOUR @S298@
+3 PAGE handwritten copy
 3 OBJE @M443@
 2 SOUR @S298@
+3 PAGE handwritten copy
 3 OBJE @M443@
 2 SOUR @S298@
-3 OBJE @M466@
-2 SOUR @S298@
+3 PAGE handwritten copy 2
 3 OBJE @M470@
 2 SOUR @S298@
+3 PAGE handwritten copy 2
+3 OBJE @M470@
+2 SOUR @S298@
+3 PAGE original record
 3 OBJE @M466@
 2 SOUR @S298@
-3 OBJE @M470@
+3 PAGE original record
+3 OBJE @M466@
 1 MARR
 2 DATE 18 AUG 1816
 2 PLAC Dartmouth, Bristol, Massachusetts, USA
@@ -34984,38 +35456,46 @@
 2 SOUR @S305@
 3 PAGE New England Historic Genealogical Society; Boston, Massachus
 4 CONC etts; Vital Records of Dartmouth, Massachusetts to the End o
-4 CONC f the Year 1850
-3 OBJE @M472@
-2 SOUR @S305@
-3 PAGE New England Historic Genealogical Society; Boston, Massachus
-4 CONC etts; Vital Records of Dartmouth, Massachusetts to the End o
-4 CONC f the Year 1850
+4 CONC f the Year 1850 (typeset extract 2)
 3 OBJE @M477@
 2 SOUR @S305@
 3 PAGE New England Historic Genealogical Society; Boston, Massachus
 4 CONC etts; Vital Records of Dartmouth, Massachusetts to the End o
-4 CONC f the Year 1850
+4 CONC f the Year 1850 (typeset extract 2)
+3 OBJE @M477@
+2 SOUR @S305@
+3 PAGE New England Historic Genealogical Society; Boston, Massachus
+4 CONC etts; Vital Records of Dartmouth, Massachusetts to the End o
+4 CONC f the Year 1850 (typeset extract)
 3 OBJE @M472@
 2 SOUR @S305@
 3 PAGE New England Historic Genealogical Society; Boston, Massachus
 4 CONC etts; Vital Records of Dartmouth, Massachusetts to the End o
-4 CONC f the Year 1850
-3 OBJE @M477@
+4 CONC f the Year 1850 (typeset extract)
+3 OBJE @M472@
 2 SOUR @S298@
+3 PAGE handwritten copy 3
 3 OBJE @M469@
 2 SOUR @S298@
+3 PAGE handwritten copy 3
+3 OBJE @M469@
+2 SOUR @S298@
+3 PAGE handwritten copy 4
 3 OBJE @M471@
 2 SOUR @S298@
+3 PAGE handwritten copy 4
+3 OBJE @M471@
+2 SOUR @S298@
+3 PAGE original record 2
 3 OBJE @M475@
 2 SOUR @S298@
+3 PAGE original record 2
+3 OBJE @M475@
+2 SOUR @S298@
+3 PAGE typeset extract
 3 OBJE @M476@
 2 SOUR @S298@
-3 OBJE @M469@
-2 SOUR @S298@
-3 OBJE @M471@
-2 SOUR @S298@
-3 OBJE @M475@
-2 SOUR @S298@
+3 PAGE typeset extract
 3 OBJE @M489@
 0 @9GfyXMWARWSaqCWX3xZ7@ FAM
 1 REFN 4e73e0e0-b0f3-4897-bc17-f6460e66a828
@@ -35274,6 +35754,9 @@
 2 _MREL Natural
 1 MARR
 2 DATE ABT 1805
+0 @F457@ FAM
+1 HUSB @I618@
+1 WIFE @I603@
 0 @ln2BUWTmTKyC7MX14UKP@ FAM
 1 REFN a2a46faa-f195-4da8-b883-df4d6302732a
 1 HUSB @23SIWBEDQcSc1zULNk3d@
@@ -36147,10 +36630,10 @@
 1 CHIL @I507@
 2 _FREL Natural
 2 _MREL Natural
-1 CHIL @I515@
+1 CHIL @I502@
 2 _FREL Natural
 2 _MREL Natural
-1 CHIL @I502@
+1 CHIL @I515@
 2 _FREL Natural
 2 _MREL Natural
 1 CHIL @I514@
@@ -36272,8 +36755,9 @@
 3 MAP
 4 LATI N28.2993
 4 LONG W80.701
-2 SOUR @S258@
+2 SOUR @S308@
 3 PAGE Trudy (spouse of Norman Beckwith Mosher)
+3 _APID 1,8837::8577925
 0 @F452@ FAM
 1 HUSB @I445@
 1 WIFE @I579@
@@ -36348,8 +36832,9 @@
 3 MAP
 4 LATI N30.3342
 4 LONG W81.6485
-2 SOUR @S258@
+2 SOUR @S308@
 3 OBJE @M323@
+3 _APID 1,8837::274281
 0 @F399@ FAM
 1 HUSB @I504@
 1 WIFE @I494@
@@ -38074,16 +38559,6 @@
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations Inc; Location: Provo, UT, USA; Date
 2 CONC : 2004
-0 @S258@ SOUR
-1 REPO @R1@
-1 TITL Florida, Divorce Index, 1927-2001
-1 AUTH Ancestry.com
-1 PUBL Ancestry.com Operations Inc; Location: Provo, UT, USA; Date
-2 CONC : 2005
-1 NOTE Florida Department of Health. <i>Florida Divorce Index, 1927
-2 CONC -2001</i>. Jacksonville, FL, USA: Florida Department of Heal
-2 CONC th.
-2 CONT
 0 @S308@ SOUR
 1 REPO @R9@
 1 TITL Florida, Divorce Index, 1927-2001
@@ -39431,6 +39906,13 @@
 2 CONC es as witnesses thereto.<br />
 2 CONT [signed] A. [?]. Brooks. Poolville, Madison Co. NY.<br />
 2 CONT [signed] Emma[?] L. Brooks, " " " "<br />
+0 @S323@ SOUR
+1 TITL Public Member Trees
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
+2 CONC e: 2006
+1 NOTE Family trees submitted by Ancestry members.
+2 CONT
 0 @9oCIPYQ9RQa7YqwHTMqV@ SOUR
 1 REFN df4bec84-ac76-4758-8ebb-7539e165aafa
 1 TITL Realm of Lawton, The, A Lawton Family Genealogy Page
@@ -39545,6 +40027,12 @@
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2014
+0 @9wMdFE3iTDe2CrzzBY3l@ SOUR
+1 REPO @R9@
+1 TITL Rhode Island, Vital Extracts, 1636-1899
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
+2 CONC e: 2014
 0 @Ckes5X95QXSIkoB3u8L7@ SOUR
 1 REFN 4ecdf6ec-c016-43d8-9ffe-2fcd157e738e
 1 TITL Rob Altenburg's Genealogy Page
@@ -39604,6 +40092,12 @@
 2 CONC e: 2011
 0 @S262@ SOUR
 1 REPO @R1@
+1 TITL U.S. Phone and Address Directories, 1993-2002
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations Inc; Location: Provo, UT, USA; Date
+2 CONC : 2005
+0 @S321@ SOUR
+1 REPO @R9@
 1 TITL U.S. Phone and Address Directories, 1993-2002
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations Inc; Location: Provo, UT, USA; Date
@@ -44261,4 +44755,21 @@
 2 TITL New York State, Marriage Index, 1881-1967
 2 _TEXT New York State Department of Health; Albany, NY, USA; New Yo
 3 CONC rk State Marriage Index
+0 @M495@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher Media\Ne
+2 CONC w York, State Census, 1855(6).jpg
+2 FORM jpg
+2 TITL New York, State Census, 1855
+0 @M496@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher Media\18
+2 CONC 50 United States Federal Census(12).jpg
+2 FORM jpg
+2 TITL 1850 United States Federal Census
+2 _TEXT Year: 1850; Census Place: Ann Arbor, Washtenaw, Michigan; Ro
+3 CONC ll: M432_364; Page: 202A; Image: 54
+0 @M497@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher Media\Rh
+2 CONC ode Island, Vital Extracts, 1636-1899.jpg
+2 FORM jpg
+2 TITL Rhode Island, Vital Extracts, 1636-1899
 0 TRLR

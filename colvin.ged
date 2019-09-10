@@ -14,9 +14,9 @@
 4 CONT Boston, MA 02109
 3 PHON (617) 227-6681
 1 DEST FTM
-1 FILE Colvin_2019-08-13-00-27-44.ftm.ged
-1 DATE 13 AUG 2019
-2 TIME 00:29:12
+1 FILE Colvin_2019-09-09-22-33-48.ftm.ged
+1 DATE 09 SEP 2019
+2 TIME 22:34:54
 0 @Umy2qBWIRUiwVSS6Hcn4@ SUBM
 1 NAME Christopher Alan Mosher
 2 EMAIL cmosher01@@gmail.com
@@ -136,11 +136,6 @@
 1 NAME Bertie William /Colvin/
 2 SOUR @7NxY38k9QPOFWLPd7Agj@
 3 QUAY 1
-2 SOUR @Yx5x4pPfQPaIwEkNhAZ7@
-3 PAGE Ancestry Family Tree
-3 DATA
-4 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=62861
-5 CONC &pid=507
 2 SOUR @S102@
 3 _APID 1,60525::30656528
 2 SOUR @rp9Z8lHgQkCUwI6kJGpm@
@@ -182,6 +177,51 @@
 2 SOUR @rp9Z8lHgQkCUwI6kJGpm@
 3 _APID 1,70572::470418
 1 _XY -9900.00 -2200.00
+0 @I168@ INDI
+1 REFN 9b63becc-b14c-445f-beec-e5ca86c8cbc0
+1 NAME Clara M. /Colvin/
+2 SOUR @GpcA8GZ1Qyuc3mwiGu82@
+3 PAGE Year: 1920; Census Place: Waverly, Tioga, New York; Roll: T6
+4 CONC 25_1270; Page: 19A; Enumeration District: 151
+3 OBJE @M237@
+3 _APID 1,6061::95250720
+2 SOUR @S152@
+3 PAGE New York State Department of Health; Albany, NY, USA; New Yo
+4 CONC rk State Marriage Index
+3 OBJE @M233@
+3 _APID 1,61632::4143037
+1 SEX F
+1 FAMC @zESEbMgJSi6zeQ1NWIsH@
+1 FAMS @F62@
+1 BIRT
+2 DATE 30 AUG 1916
+2 PLAC Waverly, Tioga, New York, USA
+3 MAP
+4 LATI N42.0104
+4 LONG W76.5272
+2 SOUR @GpcA8GZ1Qyuc3mwiGu82@
+3 PAGE Year: 1920; Census Place: Waverly, Tioga, New York; Roll: T6
+4 CONC 25_1270; Page: 19A; Enumeration District: 151
+3 OBJE @M237@
+3 _APID 1,6061::95250720
+1 RESI
+2 DATE 1920
+2 PLAC Waverly, Tioga, New York, USA
+3 MAP
+4 LATI N42.0104
+4 LONG W76.5272
+2 SOUR @GpcA8GZ1Qyuc3mwiGu82@
+3 PAGE Year: 1920; Census Place: Waverly, Tioga, New York; Roll: T6
+4 CONC 25_1270; Page: 19A; Enumeration District: 151
+3 OBJE @M237@
+3 _APID 1,6061::95250720
+2 NOTE Relation to Head: Daughter; Residence Marital Status: Single
+1 DEAT
+2 DATE 1995
+2 PLAC Corning, Steuben, New York, USA
+3 MAP
+4 LATI N42.1429
+4 LONG W77.0547
 0 @AQHkGZ3XTsySMkAYlAA8@ INDI
 1 REFN 5112ea4f-165a-4822-9330-6c6e29a4657b
 1 NAME Clarence Ernest /Colvin/
@@ -206,11 +246,6 @@
 4 CONC : T627_2513; Page: 4B; Enumeration District: 8-7
 3 OBJE @YT4ZXlF2TTy7auGa8l1E@
 3 _APID 1,2442::10480443
-2 SOUR @Yx5x4pPfQPaIwEkNhAZ7@
-3 PAGE Ancestry Family Trees
-3 DATA
-4 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=62861
-5 CONC &pid=505
 2 SOUR @IhLpv5gQTcOgm6vCvQLJ@
 3 OBJE @ToSCBH3uSMiZfKOG4jv4@
 3 _APID 1,3030::326213
@@ -391,6 +426,7 @@
 3 _APID 1,6061::95250718
 2 NOTE Age: 25; Marital Status: Married; Relation to Head of House
 3 CONC : Head
+2 NOTE Relation to Head: Head; Residence Marital Status: Married
 1 RESI
 2 DATE 01 JUN 1925
 2 PLAC Barton, Tioga, New York, USA
@@ -491,6 +527,45 @@
 2 SOUR @rp9Z8lHgQkCUwI6kJGpm@
 3 _APID 1,70572::8400805
 1 _XY -9625.00 -2200.00
+0 @I174@ INDI
+1 REFN cb44751b-a285-4c05-a9b7-fc924e8e65a1
+1 NAME Claude Henry /Colvin/
+2 SOUR @tPClZMdVRNCZDOmnmsWz@
+3 PAGE Year: 1900; Census Place: Eaton, Madison, New York; Page: 6
+4 CONC ; Enumeration District: 0009; FHL microfilm: 1241071
+3 OBJE @M223@
+3 _APID 1,7602::55834497
+1 SEX M
+1 FAMC @x42Aaj2fS0av2Kl1kArM@
+1 BIRT
+2 DATE 14 JAN 1900
+2 PLAC New York, USA
+3 MAP
+4 LATI N42.7531
+4 LONG W74.2224
+2 SOUR @tPClZMdVRNCZDOmnmsWz@
+3 PAGE Year: 1900; Census Place: Eaton, Madison, New York; Page: 6
+4 CONC ; Enumeration District: 0009; FHL microfilm: 1241071
+3 OBJE @M223@
+3 _APID 1,7602::55834497
+1 RESI
+2 DATE 1900
+2 PLAC Eaton, Madison, New York, USA
+3 MAP
+4 LATI N42.8497
+4 LONG W75.6122
+2 SOUR @tPClZMdVRNCZDOmnmsWz@
+3 PAGE Year: 1900; Census Place: Eaton, Madison, New York; Page: 6
+4 CONC ; Enumeration District: 0009; FHL microfilm: 1241071
+3 OBJE @M223@
+3 _APID 1,7602::55834497
+2 NOTE Marital Status: Single; Relation to Head: Son
+1 DEAT
+2 DATE 09 JUN 1959
+2 PLAC Fenner, Madison, New York, USA
+3 MAP
+4 LATI N42.9694
+4 LONG W75.7872
 0 @EhXC9sUYQUeOs2ajO9Qi@ INDI
 1 REFN d6317935-4b28-4b1d-8a57-96068e877c4e
 1 NAME Cornelia /Colvin/
@@ -528,40 +603,60 @@
 3 _APID 1,6742::3304902
 2 NOTE Marital Status: Single; Relation to Head of House: Daughter
 1 _XY -10450.00 -2200.00
-0 @I38@ INDI
-1 REFN c8f7d5d7-6076-4072-b8c3-3660fa02aa58
-1 NAME Edwin W /Colvin/
-2 SOUR @zed2XLyiTSazMVGgwZLi@
-3 PAGE Year: 1910; Census Place: Oneida Ward 3, Madison, New York
-4 CONC ; Roll: T624_987; Page: 3B; Enumeration District: 0028; FH
-4 CONC L microfilm: 1375000
-3 OBJE @M135@
-3 _APID 1,7884::127043460
+0 @I171@ INDI
+1 REFN 1280018f-cfcb-4aea-822f-1f6aa46b0152
+1 NAME Earl E. /Colvin/
+2 SOUR @tPClZMdVRNCZDOmnmsWz@
+3 PAGE Year: 1900; Census Place: Eaton, Madison, New York; Page: 6
+4 CONC ; Enumeration District: 0009; FHL microfilm: 1241071
+3 OBJE @M223@
+3 _APID 1,7602::55834493
+2 SOUR @Da4QmjDCTO26NSEbXkWM@
+3 OBJE @M219@
+3 _APID 1,3212::3150015
 1 SEX M
-1 FAMC @UBEvQgbFSzaUEO6Ze4Y2@
+1 FAMC @x42Aaj2fS0av2Kl1kArM@
 1 BIRT
-2 DATE ABT 1909
-2 PLAC New York, USA
+2 DATE 02 SEP 1883
+2 PLAC Eaton, Madison, New York, USA
 3 MAP
-4 LATI N42.7531
-4 LONG W74.2224
-2 SOUR @zed2XLyiTSazMVGgwZLi@
-3 PAGE Year: 1910; Census Place: Oneida Ward 3, Madison, New York
-4 CONC ; Roll: T624_987; Page: 3B; Enumeration District: 0028; FH
-4 CONC L microfilm: 1375000
-3 OBJE @M135@
-3 _APID 1,7884::127043460
+4 LATI N42.8497
+4 LONG W75.6122
+2 SOUR @tPClZMdVRNCZDOmnmsWz@
+3 PAGE Year: 1900; Census Place: Eaton, Madison, New York; Page: 6
+4 CONC ; Enumeration District: 0009; FHL microfilm: 1241071
+3 OBJE @M223@
+3 _APID 1,7602::55834493
+2 SOUR @Da4QmjDCTO26NSEbXkWM@
+3 OBJE @M219@
+3 _APID 1,3212::3150015
 1 RESI
-2 DATE 1910
-2 PLAC 31 Central Avenue, Oneida, Madison, New York, USA
-2 SOUR @zed2XLyiTSazMVGgwZLi@
-3 PAGE Year: 1910; Census Place: Oneida Ward 3, Madison, New York
-4 CONC ; Roll: T624_987; Page: 3B; Enumeration District: 0028; FH
-4 CONC L microfilm: 1375000
-3 OBJE @M135@
-3 _APID 1,7884::127043460
-2 NOTE Marital Status: Single; Relation to Head of House: Son
-1 _XY -11150.00 -2125.00
+2 DATE 1892
+2 PLAC Smithfield, Madison, New York, USA
+3 MAP
+4 LATI N42.9712
+4 LONG W75.6768
+2 SOUR @Da4QmjDCTO26NSEbXkWM@
+3 OBJE @M219@
+3 _APID 1,3212::3150015
+1 RESI
+2 DATE 1900
+2 PLAC Eaton, Madison, New York, USA
+3 MAP
+4 LATI N42.8497
+4 LONG W75.6122
+2 SOUR @tPClZMdVRNCZDOmnmsWz@
+3 PAGE Year: 1900; Census Place: Eaton, Madison, New York; Page: 6
+4 CONC ; Enumeration District: 0009; FHL microfilm: 1241071
+3 OBJE @M223@
+3 _APID 1,7602::55834493
+2 NOTE Marital Status: Single; Relation to Head: Son
+1 DEAT
+2 DATE 09 NOV 1960
+2 PLAC Fenner, Madison, New York, USA
+3 MAP
+4 LATI N42.9694
+4 LONG W75.7872
 0 @wWInRNJZQ3644EAlAqFE@ INDI
 1 REFN 90205cca-9a73-4538-abe1-0ff708ec8b7e
 1 NAME Ellen Jane /Colvin/
@@ -607,11 +702,6 @@
 4 CONC ilm: 552466
 3 OBJE @Q2Z8EHOYSYG7XhdM9kYW@
 3 _APID 1,7163::24731305
-2 SOUR @Yx5x4pPfQPaIwEkNhAZ7@
-3 PAGE Ancestry Family Tree
-3 DATA
-4 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=62861
-5 CONC &pid=512
 2 SOUR @bpt8c0uQRfCTW2vNfJ3k@
 3 OBJE @McB8qKIlRF2SHVVK0GuQ@
 3 _APID 1,7181::1655679079
@@ -727,6 +817,94 @@
 2 SOUR @S102@
 3 _APID 1,60525::12390006
 1 _XY -10975.00 -2200.00
+0 @I154@ INDI
+1 REFN 6a366d17-53cd-4e83-81c8-c8364177625e
+1 NAME Grace /Colvin/
+2 SOUR @W7LxqysiTQKb0jxIb32w@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1915; Election District: 01; Assembly Di
+4 CONC strict: 01; City: Georgetown; County: Madison; Page: 12
+3 OBJE @M213@
+3 _APID 1,2703::11976168
+1 SEX F
+1 FAMC @F58@
+1 BIRT
+2 DATE 21 JUL 1910
+2 PLAC Hubbardsville, Madison, New York, USA
+3 MAP
+4 LATI N42.8178
+4 LONG W75.4636
+2 SOUR @W7LxqysiTQKb0jxIb32w@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1915; Election District: 01; Assembly Di
+4 CONC strict: 01; City: Georgetown; County: Madison; Page: 12
+3 OBJE @M213@
+3 _APID 1,2703::11976168
+1 RESI
+2 DATE 01 JUN 1915
+2 PLAC Georgetown, Madison, New York, USA
+3 MAP
+4 LATI N42.7683
+4 LONG W75.7369
+2 SOUR @W7LxqysiTQKb0jxIb32w@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1915; Election District: 01; Assembly Di
+4 CONC strict: 01; City: Georgetown; County: Madison; Page: 12
+3 OBJE @M213@
+3 _APID 1,2703::11976168
+2 NOTE Relation to Head of House: Daughter
+1 DEAT
+2 DATE 10 OCT 1989
+0 @I172@ INDI
+1 REFN 7a55fcdb-819c-44b2-a62b-1644f8c987c0
+1 NAME Grace A. /Colvin/
+2 SOUR @tPClZMdVRNCZDOmnmsWz@
+3 PAGE Year: 1900; Census Place: Eaton, Madison, New York; Page: 6
+4 CONC ; Enumeration District: 0009; FHL microfilm: 1241071
+3 OBJE @M223@
+3 _APID 1,7602::55834495
+2 SOUR @Da4QmjDCTO26NSEbXkWM@
+3 OBJE @M219@
+3 _APID 1,3212::3150017
+1 SEX F
+1 FAMC @x42Aaj2fS0av2Kl1kArM@
+1 BIRT
+2 DATE SEP 1889
+2 PLAC New York, USA
+3 MAP
+4 LATI N42.7531
+4 LONG W74.2224
+2 SOUR @tPClZMdVRNCZDOmnmsWz@
+3 PAGE Year: 1900; Census Place: Eaton, Madison, New York; Page: 6
+4 CONC ; Enumeration District: 0009; FHL microfilm: 1241071
+3 OBJE @M223@
+3 _APID 1,7602::55834495
+2 SOUR @Da4QmjDCTO26NSEbXkWM@
+3 OBJE @M219@
+3 _APID 1,3212::3150017
+1 RESI
+2 DATE 1892
+2 PLAC Smithfield, Madison, New York, USA
+3 MAP
+4 LATI N42.9712
+4 LONG W75.6768
+2 SOUR @Da4QmjDCTO26NSEbXkWM@
+3 OBJE @M219@
+3 _APID 1,3212::3150017
+1 RESI
+2 DATE 1900
+2 PLAC Eaton, Madison, New York, USA
+3 MAP
+4 LATI N42.8497
+4 LONG W75.6122
+2 SOUR @tPClZMdVRNCZDOmnmsWz@
+3 PAGE Year: 1900; Census Place: Eaton, Madison, New York; Page: 6
+4 CONC ; Enumeration District: 0009; FHL microfilm: 1241071
+3 OBJE @M223@
+3 _APID 1,7602::55834495
+2 NOTE Marital Status: Single; Relation to Head: Daughter
+1 DEAT
+2 DATE 22 FEB 1943
 0 @SDnCwpECQQiuhJycVWOJ@ INDI
 1 REFN 78fc043f-d76b-4f12-af1a-8e8f93c52345
 1 NAME Harriet M. /Colvin/
@@ -936,29 +1114,212 @@
 3 _APID 1,2442::11230354
 2 NOTE Marital Status: Widowed; Relation to Head: Head
 1 _XY -10775.00 -2200.00
+0 @I155@ INDI
+1 REFN e7bae6a2-f24e-4f70-9a40-fa188c0c4f92
+1 NAME Hazel Bessie /Colvin/
+2 SOUR @W7LxqysiTQKb0jxIb32w@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1915; Election District: 01; Assembly Di
+4 CONC strict: 01; City: Georgetown; County: Madison; Page: 12
+3 OBJE @M213@
+3 _APID 1,2703::11976171
+1 SEX F
+1 FAMC @F58@
+1 BIRT
+2 DATE 04 FEB 1912
+2 PLAC Easton, Washington, New York, USA
+3 MAP
+4 LATI N42.9933
+4 LONG W73.5528
+2 SOUR @W7LxqysiTQKb0jxIb32w@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1915; Election District: 01; Assembly Di
+4 CONC strict: 01; City: Georgetown; County: Madison; Page: 12
+3 OBJE @M213@
+3 _APID 1,2703::11976171
+1 RESI
+2 DATE 01 JUN 1915
+2 PLAC Georgetown, Madison, New York, USA
+3 MAP
+4 LATI N42.7683
+4 LONG W75.7369
+2 SOUR @W7LxqysiTQKb0jxIb32w@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1915; Election District: 01; Assembly Di
+4 CONC strict: 01; City: Georgetown; County: Madison; Page: 12
+3 OBJE @M213@
+3 _APID 1,2703::11976171
+2 NOTE Relation to Head of House: Daughter
+1 DEAT
+2 DATE 08 APR 2000
+2 PLAC Morrisville, Eaton, Madison, New York, USA
 0 @I34@ INDI
 1 REFN 98d66957-0933-4e6c-9d9d-831b4f497827
-1 NAME Irving W. /Colvin/
+1 NAME Irving William /Colvin/
+2 SOUR @tPClZMdVRNCZDOmnmsWz@
+3 PAGE Year: 1900; Census Place: Eaton, Madison, New York; Page: 6
+4 CONC ; Enumeration District: 0009; FHL microfilm: 1241071
+3 OBJE @M223@
+3 _APID 1,7602::55834494
+2 SOUR @zed2XLyiTSazMVGgwZLi@
+3 PAGE Year: 1910; Census Place: Hamilton, Madison, New York; Roll
+4 CONC : T624_987; Page: 10A; Enumeration District: 0013; FHL micro
+4 CONC film: 1375000
+3 OBJE @M214@
+3 _APID 1,7884::18180647
 2 SOUR @sTsOC4iyTF2NoQPhD3Hq@
 3 OBJE @M121@
 3 _APID 1,61377::368289
+2 SOUR @Da4QmjDCTO26NSEbXkWM@
+3 OBJE @M219@
+3 _APID 1,3212::3150016
+2 SOUR @S94@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1905; City: Fenner; County: Madison; Pag
+4 CONC e: 2
+3 OBJE @M220@
+3 _APID 1,7364::4170492
+2 SOUR @W7LxqysiTQKb0jxIb32w@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1915; Election District: 01; Assembly Di
+4 CONC strict: 01; City: Georgetown; County: Madison; Page: 12
+3 OBJE @M213@
+3 _APID 1,2703::11976164
 2 SOUR @NOkWCGM8RZO0xw4vd39X@
 3 PAGE Number: 721-07-4133; Issue State: Railroad Board (Issued Thr
 4 CONC ough); Issue Date: Before 1951
 3 _APID 1,3693::11876585
+2 SOUR @I7OszYmrQJOlFALLPwyF@
+3 PAGE The National Archives at St. Louis; St. Louis, Missouri; Wor
+4 CONC ld War II Draft Cards (Fourth Registration) for the State o
+4 CONC f New York; Record Group Title: Records of the Selective Ser
+4 CONC vice System, 1926-1975; Record Group Number: 147; Box or Rol
+4 CONC l Number: 114
+3 OBJE @M218@
+3 _APID 1,1002::16710370
 1 SEX M
 1 FAMC @x42Aaj2fS0av2Kl1kArM@
+1 FAMS @F58@
 1 BIRT
 2 DATE 27 NOV 1884
+2 PLAC Morrisville, Madison, New York, USA
+3 MAP
+4 LATI N42.8987
+4 LONG W75.6402
+2 SOUR @tPClZMdVRNCZDOmnmsWz@
+3 PAGE Year: 1900; Census Place: Eaton, Madison, New York; Page: 6
+4 CONC ; Enumeration District: 0009; FHL microfilm: 1241071
+3 OBJE @M223@
+3 _APID 1,7602::55834494
+2 SOUR @zed2XLyiTSazMVGgwZLi@
+3 PAGE Year: 1910; Census Place: Hamilton, Madison, New York; Roll
+4 CONC : T624_987; Page: 10A; Enumeration District: 0013; FHL micro
+4 CONC film: 1375000
+3 OBJE @M214@
+3 _APID 1,7884::18180647
 2 SOUR @sTsOC4iyTF2NoQPhD3Hq@
 3 OBJE @M121@
 3 _APID 1,61377::368289
+2 SOUR @Da4QmjDCTO26NSEbXkWM@
+3 OBJE @M219@
+3 _APID 1,3212::3150016
+2 SOUR @S94@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1905; City: Fenner; County: Madison; Pag
+4 CONC e: 2
+3 OBJE @M220@
+3 _APID 1,7364::4170492
+2 SOUR @W7LxqysiTQKb0jxIb32w@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1915; Election District: 01; Assembly Di
+4 CONC strict: 01; City: Georgetown; County: Madison; Page: 12
+3 OBJE @M213@
+3 _APID 1,2703::11976164
 2 SOUR @NOkWCGM8RZO0xw4vd39X@
 3 PAGE Number: 721-07-4133; Issue State: Railroad Board (Issued Thr
 4 CONC ough); Issue Date: Before 1951
 3 _APID 1,3693::11876585
+2 SOUR @I7OszYmrQJOlFALLPwyF@
+3 PAGE The National Archives at St. Louis; St. Louis, Missouri; Wor
+4 CONC ld War II Draft Cards (Fourth Registration) for the State o
+4 CONC f New York; Record Group Title: Records of the Selective Ser
+4 CONC vice System, 1926-1975; Record Group Number: 147; Box or Rol
+4 CONC l Number: 114
+3 OBJE @M218@
+3 _APID 1,1002::16710370
+1 RESI
+2 DATE 1892
+2 PLAC Smithfield, Madison, New York, USA
+3 MAP
+4 LATI N42.9712
+4 LONG W75.6768
+2 SOUR @Da4QmjDCTO26NSEbXkWM@
+3 OBJE @M219@
+3 _APID 1,3212::3150016
+1 RESI
+2 DATE 1900
+2 PLAC Eaton, Madison, New York, USA
+3 MAP
+4 LATI N42.8497
+4 LONG W75.6122
+2 SOUR @tPClZMdVRNCZDOmnmsWz@
+3 PAGE Year: 1900; Census Place: Eaton, Madison, New York; Page: 6
+4 CONC ; Enumeration District: 0009; FHL microfilm: 1241071
+3 OBJE @M223@
+3 _APID 1,7602::55834494
+2 NOTE Marital Status: Single; Relation to Head: Son
+1 RESI
+2 DATE 1905
+2 PLAC Fenner, Madison, New York, USA
+3 MAP
+4 LATI N42.9694
+4 LONG W75.7872
+2 SOUR @S94@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1905; City: Fenner; County: Madison; Pag
+4 CONC e: 2
+3 OBJE @M220@
+3 _APID 1,7364::4170492
+2 NOTE Relationship to Head: Servant
+1 RESI
+2 DATE 1910
+2 PLAC Hamilton, Madison, New York, USA
+3 MAP
+4 LATI N42.827
+4 LONG W75.5446
+2 SOUR @zed2XLyiTSazMVGgwZLi@
+3 PAGE Year: 1910; Census Place: Hamilton, Madison, New York; Roll
+4 CONC : T624_987; Page: 10A; Enumeration District: 0013; FHL micro
+4 CONC film: 1375000
+3 OBJE @M214@
+3 _APID 1,7884::18180647
+2 NOTE Marital Status: Married; Relation to Head of House: Head
+1 RESI
+2 DATE 01 JUN 1915
+2 PLAC Georgetown, Madison, New York, United States
+2 SOUR @W7LxqysiTQKb0jxIb32w@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1915; Election District: 01; Assembly Di
+4 CONC strict: 01; City: Georgetown; County: Madison; Page: 12
+3 OBJE @M213@
+3 _APID 1,2703::11976164
+2 NOTE Relation to Head of House: Head
+1 RESI
+2 DATE 26 APR 1942
+2 PLAC Smithfield, Madison, New York, USA
+3 MAP
+4 LATI N42.9712
+4 LONG W75.6768
+2 SOUR @I7OszYmrQJOlFALLPwyF@
+3 PAGE The National Archives at St. Louis; St. Louis, Missouri; Wor
+4 CONC ld War II Draft Cards (Fourth Registration) for the State o
+4 CONC f New York; Record Group Title: Records of the Selective Ser
+4 CONC vice System, 1926-1975; Record Group Number: 147; Box or Rol
+4 CONC l Number: 114
+3 OBJE @M218@
+3 _APID 1,1002::16710370
 1 DEAT
-2 DATE MAY 1966
+2 DATE 19 MAY 1966
 2 PLAC Hamilton, Madison, New York, USA
 3 MAP
 4 LATI N42.827
@@ -992,11 +1353,6 @@
 4 CONC ilm: 552466
 3 OBJE @Q2Z8EHOYSYG7XhdM9kYW@
 3 _APID 1,7163::23893915
-2 SOUR @Yx5x4pPfQPaIwEkNhAZ7@
-3 PAGE Ancestry Family Tree
-3 DATA
-4 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=62861
-5 CONC &pid=504
 2 SOUR @iFtgCb0MREO71v5LWojo@
 3 _APID 1,3564::21334388
 2 SOUR @bpt8c0uQRfCTW2vNfJ3k@
@@ -1539,11 +1895,6 @@
 4 CONC : 1375000
 3 OBJE @3QRFDaVRQliOZ6vL6EKZ@
 3 _APID 1,7884::18178102
-2 SOUR @Yx5x4pPfQPaIwEkNhAZ7@
-3 PAGE Ancestry Family Tree
-3 DATA
-4 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=62861
-5 CONC &pid=513
 2 SOUR @S89@
 3 PAGE New York Department of Health; Albany, NY; NY State Death In
 4 CONC dex; Certificate Number: 23293
@@ -2017,6 +2368,7 @@
 3 _APID 1,7602::55834491
 2 NOTE Age: 48; Marital Status: Married; Relation to Head of House
 3 CONC : Head
+2 NOTE Marital Status: Married; Relation to Head: Head
 1 RESI
 2 DATE 1905
 2 PLAC Eaton, Madison, New York, USA
@@ -2208,16 +2560,46 @@
 3 _APID 1,2704::15129621
 2 NOTE Relation to Head of House: Housekeeper
 1 _XY -11225.00 -2200.00
+0 @I173@ INDI
+1 REFN 70223396-210c-4c4a-a481-532be8751134
+1 NAME Lloyd Leon /Colvin/
+2 SOUR @tPClZMdVRNCZDOmnmsWz@
+3 PAGE Year: 1900; Census Place: Eaton, Madison, New York; Page: 6
+4 CONC ; Enumeration District: 0009; FHL microfilm: 1241071
+3 OBJE @M223@
+3 _APID 1,7602::55834496
+1 SEX M
+1 FAMC @x42Aaj2fS0av2Kl1kArM@
+1 BIRT
+2 DATE 22 AUG 1895
+2 PLAC Smithfield, Madison, New York, USA
+3 MAP
+4 LATI N42.9712
+4 LONG W75.6768
+2 SOUR @tPClZMdVRNCZDOmnmsWz@
+3 PAGE Year: 1900; Census Place: Eaton, Madison, New York; Page: 6
+4 CONC ; Enumeration District: 0009; FHL microfilm: 1241071
+3 OBJE @M223@
+3 _APID 1,7602::55834496
+1 RESI
+2 DATE 1900
+2 PLAC Eaton, Madison, New York, USA
+3 MAP
+4 LATI N42.8497
+4 LONG W75.6122
+2 SOUR @tPClZMdVRNCZDOmnmsWz@
+3 PAGE Year: 1900; Census Place: Eaton, Madison, New York; Page: 6
+4 CONC ; Enumeration District: 0009; FHL microfilm: 1241071
+3 OBJE @M223@
+3 _APID 1,7602::55834496
+2 NOTE Marital Status: Single; Relation to Head: Son
+1 DEAT
+2 DATE 03 JUN 1987
 0 @XTyxPZAsSzq5rsYtT20s@ INDI
 1 REFN 12205d7f-3e78-4ee4-a602-3ce9e30ceb38
 1 NAME Mabel Elnora /Colvin/
 2 SOUR @7NxY38k9QPOFWLPd7Agj@
 3 QUAY 1
-2 SOUR @Yx5x4pPfQPaIwEkNhAZ7@
-3 PAGE Ancestry Family Tree
-3 DATA
-4 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=62861
-5 CONC &pid=506
 2 SOUR @S102@
 3 _APID 1,60525::30656541
 2 SOUR @rp9Z8lHgQkCUwI6kJGpm@
@@ -2264,11 +2646,6 @@
 4 CONC : M432_526; Page: 73A; Image: 152
 3 OBJE @G8cNNFMFRbmT0wyVNipH@
 3 _APID 1,8054::19916571
-2 SOUR @Yx5x4pPfQPaIwEkNhAZ7@
-3 PAGE Ancestry Family Tree
-3 DATA
-4 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=62861
-5 CONC &pid=510
 2 SOUR @bpt8c0uQRfCTW2vNfJ3k@
 3 OBJE @McB8qKIlRF2SHVVK0GuQ@
 3 _APID 1,7181::1655679077
@@ -2387,11 +2764,17 @@
 4 CONC : 1241071
 3 OBJE @AeIOiDkuTU2DGQnychXB@
 3 _APID 1,7602::55837889
-2 SOUR @Yx5x4pPfQPaIwEkNhAZ7@
-3 PAGE Ancestry Family Tree
-3 DATA
-4 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=62861
-5 CONC &pid=511
+2 SOUR @zed2XLyiTSazMVGgwZLi@
+3 PAGE Year: 1910; Census Place: Hamilton, Madison, New York; Roll
+4 CONC : T624_987; Page: 8B; Enumeration District: 0013; FHL microf
+4 CONC ilm: 1375000
+3 OBJE @M215@
+3 _APID 1,7884::127029704
+2 SOUR @GpcA8GZ1Qyuc3mwiGu82@
+3 PAGE Year: 1920; Census Place: Hamilton, Madison, New York; Roll
+4 CONC : T625_1118; Page: 3A; Enumeration District: 110
+3 OBJE @M216@
+3 _APID 1,6061::87031596
 2 SOUR @S89@
 3 PAGE New York Department of Health; Albany, NY; NY State Death In
 4 CONC dex; Certificate Number: 29336
@@ -2418,6 +2801,12 @@
 4 CONC strict: 01; City: Hamilton; County: Madison; Page: 06
 3 OBJE @2IsRKmXsQ8GyZQhVzoWs@
 3 _APID 1,2703::11984420
+2 SOUR @CBm0n9eyQ2KMLGJARjUj@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1925; Election District: 05; Assembly Di
+4 CONC strict: 01; City: Hamilton; County: Madison; Page: 3
+3 OBJE @M217@
+3 _APID 1,2704::20732335
 2 SOUR @JMA26RVERD6HEHJBldXb@
 3 QUAY 2
 2 SOUR @q04NumQxRxOu0t0Janfk@
@@ -2449,6 +2838,17 @@
 4 CONC : 1241071
 3 OBJE @AeIOiDkuTU2DGQnychXB@
 3 _APID 1,7602::55837889
+2 SOUR @zed2XLyiTSazMVGgwZLi@
+3 PAGE Year: 1910; Census Place: Hamilton, Madison, New York; Roll
+4 CONC : T624_987; Page: 8B; Enumeration District: 0013; FHL microf
+4 CONC ilm: 1375000
+3 OBJE @M215@
+3 _APID 1,7884::127029704
+2 SOUR @GpcA8GZ1Qyuc3mwiGu82@
+3 PAGE Year: 1920; Census Place: Hamilton, Madison, New York; Roll
+4 CONC : T625_1118; Page: 3A; Enumeration District: 110
+3 OBJE @M216@
+3 _APID 1,6061::87031596
 2 SOUR @bpt8c0uQRfCTW2vNfJ3k@
 3 OBJE @ulSk604QTombPbrP3BW2@
 3 _APID 1,7181::1655653689
@@ -2470,6 +2870,12 @@
 4 CONC strict: 01; City: Hamilton; County: Madison; Page: 06
 3 OBJE @2IsRKmXsQ8GyZQhVzoWs@
 3 _APID 1,2703::11984420
+2 SOUR @CBm0n9eyQ2KMLGJARjUj@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1925; Election District: 05; Assembly Di
+4 CONC strict: 01; City: Hamilton; County: Madison; Page: 3
+3 OBJE @M217@
+3 _APID 1,2704::20732335
 2 SOUR @Hnrv9o5GRG6E8NxO605U@
 3 QUAY 1
 2 SOUR @haeMsoUKQIevFSMBOQze@
@@ -2558,6 +2964,19 @@
 3 _APID 1,7364::1453212
 2 NOTE Relation to Head of House: Wife
 1 RESI
+2 DATE 1910
+2 PLAC Hamilton, Madison, New York, USA
+3 MAP
+4 LATI N42.827
+4 LONG W75.5446
+2 SOUR @zed2XLyiTSazMVGgwZLi@
+3 PAGE Year: 1910; Census Place: Hamilton, Madison, New York; Roll
+4 CONC : T624_987; Page: 8B; Enumeration District: 0013; FHL microf
+4 CONC ilm: 1375000
+3 OBJE @M215@
+3 _APID 1,7884::127029704
+2 NOTE Marital Status: Married; Relation to Head of House: Wife
+1 RESI
 2 DATE 01 JUN 1915
 2 PLAC Hamilton, Madison, New York, USA
 3 MAP
@@ -2570,6 +2989,31 @@
 3 OBJE @2IsRKmXsQ8GyZQhVzoWs@
 3 _APID 1,2703::11984420
 2 NOTE Age: 63; Relation to Head of House: Wife
+1 RESI
+2 DATE 1920
+2 PLAC Hamilton, Madison, New York, USA
+3 MAP
+4 LATI N42.827
+4 LONG W75.5446
+2 SOUR @GpcA8GZ1Qyuc3mwiGu82@
+3 PAGE Year: 1920; Census Place: Hamilton, Madison, New York; Roll
+4 CONC : T625_1118; Page: 3A; Enumeration District: 110
+3 OBJE @M216@
+3 _APID 1,6061::87031596
+2 NOTE Relation to Head: Wife; Residence Marital Status: Married
+1 RESI
+2 DATE 01 JUN 1925
+2 PLAC Hamilton, Madison, New York, USA
+3 MAP
+4 LATI N42.827
+4 LONG W75.5446
+2 SOUR @CBm0n9eyQ2KMLGJARjUj@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1925; Election District: 05; Assembly Di
+4 CONC strict: 01; City: Hamilton; County: Madison; Page: 3
+3 OBJE @M217@
+3 _APID 1,2704::20732335
+2 NOTE Relation to Head: Wife
 1 EVEN
 2 TYPE Civil
 2 DATE 25 JAN 1929
@@ -2629,6 +3073,45 @@
 3 _APID 1,6742::2256306
 2 NOTE Marital Status: Married; Relation to Head of House: Wife
 1 _XY -10500.00 -2325.00
+0 @I156@ INDI
+1 REFN d4cfd489-d0cd-48ef-89d8-156c87584a5e
+1 NAME Paulina Smith /Colvin/
+2 SOUR @W7LxqysiTQKb0jxIb32w@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1915; Election District: 01; Assembly Di
+4 CONC strict: 01; City: Georgetown; County: Madison; Page: 12
+3 OBJE @M213@
+3 _APID 1,2703::11976173
+1 SEX F
+1 FAMC @F58@
+1 BIRT
+2 DATE 05 DEC 1913
+2 PLAC West Eaton, Madison, New York, USA
+3 MAP
+4 LATI N42.8544
+4 LONG W75.6564
+2 SOUR @W7LxqysiTQKb0jxIb32w@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1915; Election District: 01; Assembly Di
+4 CONC strict: 01; City: Georgetown; County: Madison; Page: 12
+3 OBJE @M213@
+3 _APID 1,2703::11976173
+1 RESI
+2 DATE 01 JUN 1915
+2 PLAC Georgetown, Madison, New York, USA
+3 MAP
+4 LATI N42.7683
+4 LONG W75.7369
+2 SOUR @W7LxqysiTQKb0jxIb32w@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1915; Election District: 01; Assembly Di
+4 CONC strict: 01; City: Georgetown; County: Madison; Page: 12
+3 OBJE @M213@
+3 _APID 1,2703::11976173
+2 NOTE Relation to Head of House: Daughter
+1 DEAT
+2 DATE 27 FEB 2000
+2 PLAC Morrisville, Eaton, Madison, New York, USA
 0 @RNnBOF37TkKWieYUHY8T@ INDI
 1 REFN deecead6-bd61-4496-af73-3703863f8259
 1 NAME Pearl Mae /Colvin/
@@ -2660,11 +3143,6 @@
 4 CONC : T627_2624; Page: 4A; Enumeration District: 27-35
 3 OBJE @hhXCuX3wS6ia9w3tQRQw@
 3 _APID 1,2442::11216833
-2 SOUR @Yx5x4pPfQPaIwEkNhAZ7@
-3 PAGE Ancestry Family Tree
-3 DATA
-4 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=62861
-5 CONC &pid=26
 2 SOUR @sTsOC4iyTF2NoQPhD3Hq@
 3 OBJE @E1H4LC0rTjKeRWWHOpys@
 3 _APID 1,61377::900142590
@@ -3164,6 +3642,42 @@
 4 LONG W75.5446
 2 SOUR @zyS3wM5BSLCZ9mW53ORr@
 1 _XY -10025.00 -2200.00
+0 @I157@ INDI
+1 REFN 59a41d46-c75e-4376-998a-de3d52b75812
+1 NAME Robert Leon /Colvin/
+2 SOUR @zed2XLyiTSazMVGgwZLi@
+3 PAGE Year: 1910; Census Place: Hamilton, Madison, New York; Roll
+4 CONC : T624_987; Page: 10A; Enumeration District: 0013; FHL micro
+4 CONC film: 1375000
+3 OBJE @M214@
+3 _APID 1,7884::127029867
+1 SEX M
+1 FAMC @F58@
+1 BIRT
+2 DATE ABT 1909
+2 PLAC New York, USA
+3 MAP
+4 LATI N42.7531
+4 LONG W74.2224
+2 SOUR @zed2XLyiTSazMVGgwZLi@
+3 PAGE Year: 1910; Census Place: Hamilton, Madison, New York; Roll
+4 CONC : T624_987; Page: 10A; Enumeration District: 0013; FHL micro
+4 CONC film: 1375000
+3 OBJE @M214@
+3 _APID 1,7884::127029867
+1 RESI
+2 DATE 1910
+2 PLAC Hamilton, Madison, New York, USA
+3 MAP
+4 LATI N42.827
+4 LONG W75.5446
+2 SOUR @zed2XLyiTSazMVGgwZLi@
+3 PAGE Year: 1910; Census Place: Hamilton, Madison, New York; Roll
+4 CONC : T624_987; Page: 10A; Enumeration District: 0013; FHL micro
+4 CONC film: 1375000
+3 OBJE @M214@
+3 _APID 1,7884::127029867
+2 NOTE Marital Status: Single; Relation to Head of House: Son
 0 @zdliojhETeqb4CHNt37Z@ INDI
 1 REFN 2556fd6e-3c86-47dd-a918-d44069c5e12f
 1 NAME Thomas H. /Colvin/
@@ -3308,6 +3822,82 @@
 2 SOUR @JMA26RVERD6HEHJBldXb@
 3 QUAY 1
 1 _XY -10725.00 -2325.00
+0 @I38@ INDI
+1 REFN c8f7d5d7-6076-4072-b8c3-3660fa02aa58
+1 NAME Wilford Elwyn /Colvin/
+2 SOUR @zed2XLyiTSazMVGgwZLi@
+3 PAGE Year: 1910; Census Place: Oneida Ward 3, Madison, New York
+4 CONC ; Roll: T624_987; Page: 3B; Enumeration District: 0028; FH
+4 CONC L microfilm: 1375000
+3 OBJE @M135@
+3 _APID 1,7884::127043460
+2 SOUR @S158@
+3 PAGE New York State Department of Health; Albany, NY, USA; New Yo
+4 CONC rk State Birth Index
+3 OBJE @M228@
+3 _APID 1,61667::1444993
+2 SOUR @S89@
+3 PAGE New York Department of Health; Albany, NY; NY State Death In
+4 CONC dex
+3 OBJE @M225@
+2 SOUR @S89@
+3 PAGE New York Department of Health; Albany, NY; NY State Death In
+4 CONC dex
+3 OBJE @M229@
+2 SOUR @S102@
+3 _APID 1,60525::12390032
+1 SEX M
+1 FAMC @UBEvQgbFSzaUEO6Ze4Y2@
+1 BIRT
+2 DATE 11 JAN 1909
+2 PLAC Oneida, Madison, New York, USA
+3 MAP
+4 LATI N43.0926
+4 LONG W75.6513
+2 SOUR @zed2XLyiTSazMVGgwZLi@
+3 PAGE Year: 1910; Census Place: Oneida Ward 3, Madison, New York
+4 CONC ; Roll: T624_987; Page: 3B; Enumeration District: 0028; FH
+4 CONC L microfilm: 1375000
+3 OBJE @M135@
+3 _APID 1,7884::127043460
+2 SOUR @S158@
+3 PAGE New York State Department of Health; Albany, NY, USA; New Yo
+4 CONC rk State Birth Index
+3 OBJE @M228@
+3 _APID 1,61667::1444993
+2 SOUR @S102@
+3 _APID 1,60525::12390032
+1 RESI
+2 DATE 1910
+2 PLAC 31 Central Avenue, Oneida, Madison, New York, USA
+2 SOUR @zed2XLyiTSazMVGgwZLi@
+3 PAGE Year: 1910; Census Place: Oneida Ward 3, Madison, New York
+4 CONC ; Roll: T624_987; Page: 3B; Enumeration District: 0028; FH
+4 CONC L microfilm: 1375000
+3 OBJE @M135@
+3 _APID 1,7884::127043460
+2 NOTE Marital Status: Single; Relation to Head of House: Son
+1 DEAT
+2 DATE 23 MAR 1911
+2 PLAC Binghamton, Broome, New York, USA
+3 MAP
+4 LATI N42.0987
+4 LONG W75.918
+2 SOUR @S89@
+3 PAGE New York Department of Health; Albany, NY; NY State Death In
+4 CONC dex
+3 OBJE @M225@
+2 SOUR @S89@
+3 PAGE New York Department of Health; Albany, NY; NY State Death In
+4 CONC dex
+3 OBJE @M229@
+2 SOUR @S102@
+3 _APID 1,60525::12390032
+1 BURI
+2 PLAC Sheds, DeRuyter, Madison, New York, USA
+2 SOUR @S102@
+3 _APID 1,60525::12390032
+1 _XY -11150.00 -2125.00
 0 @xztJGwx4QMm01s6yt8YR@ INDI
 1 REFN 5c2332b2-945d-432e-8711-8b53ed76acf0
 1 NAME William Edwin /Colvin/
@@ -3553,11 +4143,6 @@
 4 CONC ilm: 552466
 3 OBJE @Q2Z8EHOYSYG7XhdM9kYW@
 3 _APID 1,7163::33642947
-2 SOUR @Yx5x4pPfQPaIwEkNhAZ7@
-3 PAGE Ancestry Family Tree
-3 DATA
-4 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=62861
-5 CONC &pid=45
 2 SOUR @S105@
 3 OBJE @M138@
 3 _APID 1,61377::1350142590
@@ -3938,8 +4523,6 @@
 4 CONC ; NARA Roll: M33_73; Image: 31
 3 OBJE @M148@
 3 _APID 1,7734::452266
-2 SOUR @Yx5x4pPfQPaIwEkNhAZ7@
-3 PAGE Ancestry Family Trees
 2 SOUR @S102@
 3 _APID 1,60525::81303132
 2 SOUR @rp9Z8lHgQkCUwI6kJGpm@
@@ -3959,8 +4542,6 @@
 3 QUAY 1
 3 OBJE @M162@
 3 _APID 1,7734::452373
-2 SOUR @Yx5x4pPfQPaIwEkNhAZ7@
-3 PAGE Ancestry Family Trees
 2 NOTE Other census records give New York as place. Date is jus
 3 CONC t a guess.
 1 RESI
@@ -3986,8 +4567,6 @@
 3 MAP
 4 LATI N43.0417
 4 LONG W75.745
-2 SOUR @Yx5x4pPfQPaIwEkNhAZ7@
-3 PAGE Ancestry Family Trees
 2 SOUR @S102@
 3 _APID 1,60525::81303132
 2 SOUR @rp9Z8lHgQkCUwI6kJGpm@
@@ -4568,11 +5147,6 @@
 4 CONC n District: 057; Image: 0147
 3 OBJE @QduZTtH4TNGG3b8GpqGf@
 3 _APID 1,6742::38724707
-2 SOUR @Yx5x4pPfQPaIwEkNhAZ7@
-3 PAGE Ancestry Family Tree
-3 DATA
-4 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=60919
-5 CONC 808&pid=1
 2 SOUR @iFtgCb0MREO71v5LWojo@
 3 _APID 1,3564::21324844
 2 SOUR @S89@
@@ -4876,14 +5450,9 @@
 4 CONC n District: 052; Image: 0037
 3 OBJE @M156@
 3 _APID 1,6742::2475557
-2 SOUR @Yx5x4pPfQPaIwEkNhAZ7@
-3 PAGE Ancestry Family Tree
-3 DATA
-4 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=60919
-5 CONC 808&pid=18
 2 SOUR @iFtgCb0MREO71v5LWojo@
 3 _APID 1,3564::21334415
-2 SOUR @IfqPuKvGRESuugoGZxNT@
+2 SOUR @S119@
 2 SOUR @ykkFkryATaGXzZdqMcer@
 3 PAGE Census Year: 1860; Census Place: Georgetown, Madison, New Yo
 4 CONC rk
@@ -4902,7 +5471,7 @@
 1 BIRT
 2 DATE ABT 1805
 2 PLAC MA, USA
-2 SOUR @IfqPuKvGRESuugoGZxNT@
+2 SOUR @S119@
 1 RESI
 2 DATE 1860
 2 PLAC Georgetown, Madison, New York, United States
@@ -4954,11 +5523,6 @@
 4 CONC : 1374655
 3 OBJE @M153@
 3 _APID 1,7884::196988912
-2 SOUR @Yx5x4pPfQPaIwEkNhAZ7@
-3 PAGE Ancestry Family Tree
-3 DATA
-4 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=60919
-5 CONC 808&pid=6
 2 SOUR @S117@
 3 _APID 1,2549::900771
 2 SOUR @yyAkQxoDR02oezmc7VEf@
@@ -5570,11 +6134,6 @@
 4 CONC n District: 060; Image: 0257
 3 OBJE @vev02hLgTVOKVOBn4qGP@
 3 _APID 1,6742::38726164
-2 SOUR @Yx5x4pPfQPaIwEkNhAZ7@
-3 PAGE Ancestry Family Tree
-3 DATA
-4 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=60919
-5 CONC 808&pid=3
 2 SOUR @pCylTqPHQbGiYF7OdWYH@
 2 SOUR @bpt8c0uQRfCTW2vNfJ3k@
 3 OBJE @hBbUEb24TqiH3S5JaCqL@
@@ -5594,7 +6153,7 @@
 2 SOUR @Da4QmjDCTO26NSEbXkWM@
 3 OBJE @M199@
 3 _APID 1,3212::3118831
-2 SOUR @HLhk0jdtRUKtnFgGtBVN@
+2 SOUR @S126@
 1 NAME Frederick /Cranson/
 2 SOUR @S106@
 3 PAGE Year: 1870; Census Place: Georgetown, Madison, New York; Rol
@@ -5797,11 +6356,6 @@
 4 CONC n District: 050; Image: 0746
 3 OBJE @M192@
 3 _APID 1,6742::3298181
-2 SOUR @Yx5x4pPfQPaIwEkNhAZ7@
-3 PAGE Ancestry Family Tree
-3 DATA
-4 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=60919
-5 CONC 808&pid=7
 2 SOUR @yyAkQxoDR02oezmc7VEf@
 3 OBJE @WGZxfFdOQxGGTRbs2LyY@
 3 _APID 1,7218::1760397
@@ -5985,16 +6539,6 @@
 4 CONC n District: 060; Image: 0257
 3 OBJE @vev02hLgTVOKVOBn4qGP@
 3 _APID 1,6742::2485260
-2 SOUR @Yx5x4pPfQPaIwEkNhAZ7@
-3 PAGE Ancestry Family Tree
-3 DATA
-4 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=60919
-5 CONC 808&pid=28
-2 SOUR @Yx5x4pPfQPaIwEkNhAZ7@
-3 PAGE Ancestry Family Tree
-3 DATA
-4 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=62861
-5 CONC &pid=503
 2 SOUR @bpt8c0uQRfCTW2vNfJ3k@
 3 OBJE @ulSk604QTombPbrP3BW2@
 3 _APID 1,7181::1655655097
@@ -6428,11 +6972,6 @@
 4 CONC L microfilm: 2341180
 3 OBJE @M189@
 3 _APID 1,6224::40853267
-2 SOUR @Yx5x4pPfQPaIwEkNhAZ7@
-3 PAGE Ancestry Family Tree
-3 DATA
-4 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=60919
-5 CONC 808&pid=4
 2 SOUR @yyAkQxoDR02oezmc7VEf@
 3 OBJE @WGZxfFdOQxGGTRbs2LyY@
 3 _APID 1,7218::1760330
@@ -6870,11 +7409,6 @@
 4 CONC : 1241071
 3 OBJE @M203@
 3 _APID 1,7602::55837068
-2 SOUR @Yx5x4pPfQPaIwEkNhAZ7@
-3 PAGE Ancestry Family Tree
-3 DATA
-4 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=60919
-5 CONC 808&pid=5
 2 SOUR @yyAkQxoDR02oezmc7VEf@
 3 OBJE @WGZxfFdOQxGGTRbs2LyY@
 3 _APID 1,7218::1760334
@@ -7050,11 +7584,6 @@
 4 CONC n District: 050; Image: 0746
 3 OBJE @M192@
 3 _APID 1,6742::38722471
-2 SOUR @Yx5x4pPfQPaIwEkNhAZ7@
-3 PAGE Ancestry Family Tree
-3 DATA
-4 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=60919
-5 CONC 808&pid=24
 2 SOUR @S107@
 3 OBJE @aZwCiFtsSkmfSExBCUxH@
 3 _APID 1,7250::1398347788
@@ -7431,6 +7960,73 @@
 2 SOUR @S121@
 3 _APID 1,70581::4408022
 1 _PHOTO @M181@
+0 @I153@ INDI
+1 REFN 3efbcb69-57ff-476f-bf1b-c47b2a126a62
+1 NAME Ada Elvira /Ford/
+2 SOUR @zed2XLyiTSazMVGgwZLi@
+3 PAGE Year: 1910; Census Place: Hamilton, Madison, New York; Roll
+4 CONC : T624_987; Page: 10A; Enumeration District: 0013; FHL micro
+4 CONC film: 1375000
+3 OBJE @M214@
+3 _APID 1,7884::127029866
+2 SOUR @W7LxqysiTQKb0jxIb32w@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1915; Election District: 01; Assembly Di
+4 CONC strict: 01; City: Georgetown; County: Madison; Page: 12
+3 OBJE @M213@
+3 _APID 1,2703::11976166
+1 SEX F
+1 FAMS @F58@
+1 BIRT
+2 DATE 22 FEB 1892
+2 PLAC Lebanon, Madison, New York, USA
+3 MAP
+4 LATI N42.7814
+4 LONG W75.6481
+2 SOUR @zed2XLyiTSazMVGgwZLi@
+3 PAGE Year: 1910; Census Place: Hamilton, Madison, New York; Roll
+4 CONC : T624_987; Page: 10A; Enumeration District: 0013; FHL micro
+4 CONC film: 1375000
+3 OBJE @M214@
+3 _APID 1,7884::127029866
+2 SOUR @W7LxqysiTQKb0jxIb32w@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1915; Election District: 01; Assembly Di
+4 CONC strict: 01; City: Georgetown; County: Madison; Page: 12
+3 OBJE @M213@
+3 _APID 1,2703::11976166
+1 RESI
+2 DATE 1910
+2 PLAC Hamilton, Madison, New York, USA
+3 MAP
+4 LATI N42.827
+4 LONG W75.5446
+2 SOUR @zed2XLyiTSazMVGgwZLi@
+3 PAGE Year: 1910; Census Place: Hamilton, Madison, New York; Roll
+4 CONC : T624_987; Page: 10A; Enumeration District: 0013; FHL micro
+4 CONC film: 1375000
+3 OBJE @M214@
+3 _APID 1,7884::127029866
+2 NOTE Marital Status: Married; Relation to Head of House: Wife
+1 RESI
+2 DATE 01 JUN 1915
+2 PLAC Georgetown, Madison, New York, USA
+3 MAP
+4 LATI N42.7683
+4 LONG W75.7369
+2 SOUR @W7LxqysiTQKb0jxIb32w@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1915; Election District: 01; Assembly Di
+4 CONC strict: 01; City: Georgetown; County: Madison; Page: 12
+3 OBJE @M213@
+3 _APID 1,2703::11976166
+2 NOTE Relation to Head of House: Wife
+1 DEAT
+2 DATE DEC 1980
+2 PLAC Canastota, Madison, New York, USA
+3 MAP
+4 LATI N43.0795
+4 LONG W75.7508
 0 @I118@ INDI
 1 REFN c3e5b4e1-4546-4f6f-bd24-f6773173bd9b
 1 NAME Cornelius /Freeman/
@@ -7514,6 +8110,795 @@
 3 MAP
 4 LATI N43.0298
 4 LONG W75.731
+0 @I159@ INDI
+1 REFN 2168a12f-e2bc-47d8-a07d-d076bcb369ce
+1 NAME Catherine Armina /Ginney/
+2 SOUR @zed2XLyiTSazMVGgwZLi@
+3 PAGE Year: 1910; Census Place: Fenner, Madison, New York; Roll: T
+4 CONC 624_987; Page: 2A; Enumeration District: 0010; FHL microfilm
+4 CONC : 1375000
+3 OBJE @M231@
+3 _APID 1,7884::127025080
+2 SOUR @GpcA8GZ1Qyuc3mwiGu82@
+3 PAGE Year: 1920; Census Place: Eaton, Madison, New York; Roll: T6
+4 CONC 25_1118; Page: 7A; Enumeration District: 105
+3 OBJE @M230@
+3 _APID 1,6061::87027186
+2 SOUR @S94@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1905; City: Fenner; County: Madison; Pag
+4 CONC e: 2
+3 OBJE @M220@
+3 _APID 1,7364::4170490
+2 SOUR @W7LxqysiTQKb0jxIb32w@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1915; Election District: 01; Assembly Di
+4 CONC strict: 01; City: Eaton; County: Madison; Page: 15
+3 OBJE @M232@
+3 _APID 1,2703::11968852
+1 SEX F
+1 FAMC @F63@
+1 FAMS @F60@
+1 BIRT
+2 DATE 07 JUN 1902
+2 PLAC Madison, New York, USA
+3 MAP
+4 LATI N42.9118
+4 LONG W75.6682
+2 SOUR @zed2XLyiTSazMVGgwZLi@
+3 PAGE Year: 1910; Census Place: Fenner, Madison, New York; Roll: T
+4 CONC 624_987; Page: 2A; Enumeration District: 0010; FHL microfilm
+4 CONC : 1375000
+3 OBJE @M231@
+3 _APID 1,7884::127025080
+2 SOUR @GpcA8GZ1Qyuc3mwiGu82@
+3 PAGE Year: 1920; Census Place: Eaton, Madison, New York; Roll: T6
+4 CONC 25_1118; Page: 7A; Enumeration District: 105
+3 OBJE @M230@
+3 _APID 1,6061::87027186
+2 SOUR @S94@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1905; City: Fenner; County: Madison; Pag
+4 CONC e: 2
+3 OBJE @M220@
+3 _APID 1,7364::4170490
+2 SOUR @W7LxqysiTQKb0jxIb32w@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1915; Election District: 01; Assembly Di
+4 CONC strict: 01; City: Eaton; County: Madison; Page: 15
+3 OBJE @M232@
+3 _APID 1,2703::11968852
+1 RESI
+2 DATE 1905
+2 PLAC Fenner, Madison, New York, USA
+3 MAP
+4 LATI N42.9694
+4 LONG W75.7872
+2 SOUR @S94@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1905; City: Fenner; County: Madison; Pag
+4 CONC e: 2
+3 OBJE @M220@
+3 _APID 1,7364::4170490
+2 NOTE Relationship to Head: Daughter
+1 RESI
+2 DATE 1910
+2 PLAC Fenner, Madison, New York, USA
+3 MAP
+4 LATI N42.9694
+4 LONG W75.7872
+2 SOUR @zed2XLyiTSazMVGgwZLi@
+3 PAGE Year: 1910; Census Place: Fenner, Madison, New York; Roll: T
+4 CONC 624_987; Page: 2A; Enumeration District: 0010; FHL microfilm
+4 CONC : 1375000
+3 OBJE @M231@
+3 _APID 1,7884::127025080
+2 NOTE Marital Status: Single; Relation to Head of House: Daughter
+1 RESI
+2 DATE 01 JUN 1915
+2 PLAC Eaton, Madison, New York, USA
+3 MAP
+4 LATI N42.8497
+4 LONG W75.6122
+2 SOUR @W7LxqysiTQKb0jxIb32w@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1915; Election District: 01; Assembly Di
+4 CONC strict: 01; City: Eaton; County: Madison; Page: 15
+3 OBJE @M232@
+3 _APID 1,2703::11968852
+2 NOTE Relation to Head of House: Daughter
+1 RESI
+2 DATE 1920
+2 PLAC Eaton, Madison, New York, USA
+3 MAP
+4 LATI N42.8497
+4 LONG W75.6122
+2 SOUR @GpcA8GZ1Qyuc3mwiGu82@
+3 PAGE Year: 1920; Census Place: Eaton, Madison, New York; Roll: T6
+4 CONC 25_1118; Page: 7A; Enumeration District: 105
+3 OBJE @M230@
+3 _APID 1,6061::87027186
+2 NOTE Relation to Head: Daughter; Residence Marital Status: Single
+1 DEAT
+2 DATE 13 MAR 1995
+2 PLAC Chittenango, Madison, New York, USA
+3 MAP
+4 LATI N43.0451
+4 LONG W75.8666
+0 @I161@ INDI
+1 REFN 801b9f9b-589c-45ce-b979-ff0a878588e6
+1 NAME Iva May /Ginney/
+2 SOUR @zed2XLyiTSazMVGgwZLi@
+3 PAGE Year: 1910; Census Place: Fenner, Madison, New York; Roll: T
+4 CONC 624_987; Page: 2A; Enumeration District: 0010; FHL microfilm
+4 CONC : 1375000
+3 OBJE @M231@
+3 _APID 1,7884::127025082
+2 SOUR @GpcA8GZ1Qyuc3mwiGu82@
+3 PAGE Year: 1920; Census Place: Eaton, Madison, New York; Roll: T6
+4 CONC 25_1118; Page: 7A; Enumeration District: 105
+3 OBJE @M230@
+3 _APID 1,6061::87027187
+2 SOUR @W7LxqysiTQKb0jxIb32w@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1915; Election District: 01; Assembly Di
+4 CONC strict: 01; City: Eaton; County: Madison; Page: 15
+3 OBJE @M232@
+3 _APID 1,2703::11968856
+1 SEX F
+1 FAMC @F63@
+1 FAMS @F61@
+1 BIRT
+2 DATE 02 DEC 1906
+2 PLAC New York, USA
+3 MAP
+4 LATI N42.7531
+4 LONG W74.2224
+2 SOUR @zed2XLyiTSazMVGgwZLi@
+3 PAGE Year: 1910; Census Place: Fenner, Madison, New York; Roll: T
+4 CONC 624_987; Page: 2A; Enumeration District: 0010; FHL microfilm
+4 CONC : 1375000
+3 OBJE @M231@
+3 _APID 1,7884::127025082
+2 SOUR @GpcA8GZ1Qyuc3mwiGu82@
+3 PAGE Year: 1920; Census Place: Eaton, Madison, New York; Roll: T6
+4 CONC 25_1118; Page: 7A; Enumeration District: 105
+3 OBJE @M230@
+3 _APID 1,6061::87027187
+2 SOUR @W7LxqysiTQKb0jxIb32w@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1915; Election District: 01; Assembly Di
+4 CONC strict: 01; City: Eaton; County: Madison; Page: 15
+3 OBJE @M232@
+3 _APID 1,2703::11968856
+1 RESI
+2 DATE 1910
+2 PLAC Fenner, Madison, New York, USA
+3 MAP
+4 LATI N42.9694
+4 LONG W75.7872
+2 SOUR @zed2XLyiTSazMVGgwZLi@
+3 PAGE Year: 1910; Census Place: Fenner, Madison, New York; Roll: T
+4 CONC 624_987; Page: 2A; Enumeration District: 0010; FHL microfilm
+4 CONC : 1375000
+3 OBJE @M231@
+3 _APID 1,7884::127025082
+2 NOTE Marital Status: Single; Relation to Head of House: Daughter
+1 RESI
+2 DATE 01 JUN 1915
+2 PLAC Eaton, Madison, New York, USA
+3 MAP
+4 LATI N42.8497
+4 LONG W75.6122
+2 SOUR @W7LxqysiTQKb0jxIb32w@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1915; Election District: 01; Assembly Di
+4 CONC strict: 01; City: Eaton; County: Madison; Page: 15
+3 OBJE @M232@
+3 _APID 1,2703::11968856
+2 NOTE Relation to Head of House: Daughter
+1 RESI
+2 DATE 1920
+2 PLAC Eaton, Madison, New York, USA
+3 MAP
+4 LATI N42.8497
+4 LONG W75.6122
+2 SOUR @GpcA8GZ1Qyuc3mwiGu82@
+3 PAGE Year: 1920; Census Place: Eaton, Madison, New York; Roll: T6
+4 CONC 25_1118; Page: 7A; Enumeration District: 105
+3 OBJE @M230@
+3 _APID 1,6061::87027187
+2 NOTE Relation to Head: Daughter; Residence Marital Status: Single
+1 DEAT
+2 DATE 15 MAR 1998
+0 @I162@ INDI
+1 REFN 28cf768a-ac35-4672-b64a-067eaa978a0b
+1 NAME Marlon Michael /Ginney/
+2 SOUR @zed2XLyiTSazMVGgwZLi@
+3 PAGE Year: 1910; Census Place: Fenner, Madison, New York; Roll: T
+4 CONC 624_987; Page: 2A; Enumeration District: 0010; FHL microfilm
+4 CONC : 1375000
+3 OBJE @M231@
+3 _APID 1,7884::127025083
+2 SOUR @GpcA8GZ1Qyuc3mwiGu82@
+3 PAGE Year: 1920; Census Place: Eaton, Madison, New York; Roll: T6
+4 CONC 25_1118; Page: 7A; Enumeration District: 105
+3 OBJE @M230@
+3 _APID 1,6061::87027188
+2 SOUR @Z6rqhHe6TT6AOpzl0BeY@
+3 PAGE Year: 1930; Census Place: Smithfield, Madison, New York; Pag
+4 CONC e: 6A; Enumeration District: 0040; FHL microfilm: 2341181
+3 OBJE @M234@
+3 _APID 1,6224::40880918
+2 SOUR @W7LxqysiTQKb0jxIb32w@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1915; Election District: 01; Assembly Di
+4 CONC strict: 01; City: Eaton; County: Madison; Page: 15
+3 OBJE @M232@
+3 _APID 1,2703::11968859
+2 SOUR @NOkWCGM8RZO0xw4vd39X@
+3 PAGE Number: 086-30-9606; Issue State: New York; Issue Date: 1954
+4 CONC -1956
+3 _APID 1,3693::22349032
+1 SEX M
+1 FAMC @F63@
+1 BIRT
+2 DATE 03 FEB 1909
+2 PLAC Fenner, Madison, New York, USA
+3 MAP
+4 LATI N42.9694
+4 LONG W75.7872
+2 SOUR @zed2XLyiTSazMVGgwZLi@
+3 PAGE Year: 1910; Census Place: Fenner, Madison, New York; Roll: T
+4 CONC 624_987; Page: 2A; Enumeration District: 0010; FHL microfilm
+4 CONC : 1375000
+3 OBJE @M231@
+3 _APID 1,7884::127025083
+2 SOUR @GpcA8GZ1Qyuc3mwiGu82@
+3 PAGE Year: 1920; Census Place: Eaton, Madison, New York; Roll: T6
+4 CONC 25_1118; Page: 7A; Enumeration District: 105
+3 OBJE @M230@
+3 _APID 1,6061::87027188
+2 SOUR @Z6rqhHe6TT6AOpzl0BeY@
+3 PAGE Year: 1930; Census Place: Smithfield, Madison, New York; Pag
+4 CONC e: 6A; Enumeration District: 0040; FHL microfilm: 2341181
+3 OBJE @M234@
+3 _APID 1,6224::40880918
+2 SOUR @W7LxqysiTQKb0jxIb32w@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1915; Election District: 01; Assembly Di
+4 CONC strict: 01; City: Eaton; County: Madison; Page: 15
+3 OBJE @M232@
+3 _APID 1,2703::11968859
+2 SOUR @NOkWCGM8RZO0xw4vd39X@
+3 PAGE Number: 086-30-9606; Issue State: New York; Issue Date: 1954
+4 CONC -1956
+3 _APID 1,3693::22349032
+1 RESI
+2 DATE 1910
+2 PLAC Fenner, Madison, New York, USA
+3 MAP
+4 LATI N42.9694
+4 LONG W75.7872
+2 SOUR @zed2XLyiTSazMVGgwZLi@
+3 PAGE Year: 1910; Census Place: Fenner, Madison, New York; Roll: T
+4 CONC 624_987; Page: 2A; Enumeration District: 0010; FHL microfilm
+4 CONC : 1375000
+3 OBJE @M231@
+3 _APID 1,7884::127025083
+2 NOTE Marital Status: Single; Relation to Head of House: Son
+1 RESI
+2 DATE 01 JUN 1915
+2 PLAC Eaton, Madison, New York, USA
+3 MAP
+4 LATI N42.8497
+4 LONG W75.6122
+2 SOUR @W7LxqysiTQKb0jxIb32w@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1915; Election District: 01; Assembly Di
+4 CONC strict: 01; City: Eaton; County: Madison; Page: 15
+3 OBJE @M232@
+3 _APID 1,2703::11968859
+2 NOTE Relation to Head of House: Son
+1 RESI
+2 DATE 1920
+2 PLAC Eaton, Madison, New York, USA
+3 MAP
+4 LATI N42.8497
+4 LONG W75.6122
+2 SOUR @GpcA8GZ1Qyuc3mwiGu82@
+3 PAGE Year: 1920; Census Place: Eaton, Madison, New York; Roll: T6
+4 CONC 25_1118; Page: 7A; Enumeration District: 105
+3 OBJE @M230@
+3 _APID 1,6061::87027188
+2 NOTE Relation to Head: Son; Residence Marital Status: Single
+1 RESI
+2 DATE 1930
+2 PLAC Smithfield, Madison, New York, USA
+3 MAP
+4 LATI N42.9712
+4 LONG W75.6768
+2 SOUR @Z6rqhHe6TT6AOpzl0BeY@
+3 PAGE Year: 1930; Census Place: Smithfield, Madison, New York; Pag
+4 CONC e: 6A; Enumeration District: 0040; FHL microfilm: 2341181
+3 OBJE @M234@
+3 _APID 1,6224::40880918
+2 NOTE Marital Status: Single; Relation to Head: Son
+1 DEAT
+2 DATE 02 APR 1976
+2 PLAC Hamilton, Madison, New York, USA
+3 MAP
+4 LATI N42.827
+4 LONG W75.5446
+2 SOUR @NOkWCGM8RZO0xw4vd39X@
+3 PAGE Number: 086-30-9606; Issue State: New York; Issue Date: 1954
+4 CONC -1956
+3 _APID 1,3693::22349032
+0 @I165@ INDI
+1 REFN 815ff902-86fa-4713-bf71-377947555001
+1 NAME Melvin L. /Ginney/
+2 SOUR @GpcA8GZ1Qyuc3mwiGu82@
+3 PAGE Year: 1920; Census Place: Eaton, Madison, New York; Roll: T6
+4 CONC 25_1118; Page: 7A; Enumeration District: 105
+3 OBJE @M230@
+3 _APID 1,6061::87027189
+2 SOUR @Z6rqhHe6TT6AOpzl0BeY@
+3 PAGE Year: 1930; Census Place: Smithfield, Madison, New York; Pag
+4 CONC e: 6A; Enumeration District: 0040; FHL microfilm: 2341181
+3 OBJE @M234@
+3 _APID 1,6224::40880901
+2 SOUR @W7LxqysiTQKb0jxIb32w@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1915; Election District: 01; Assembly Di
+4 CONC strict: 01; City: Eaton; County: Madison; Page: 15
+3 OBJE @M232@
+3 _APID 1,2703::11968861
+1 SEX M
+1 FAMC @F63@
+1 BIRT
+2 DATE 08 OCT 1911
+2 PLAC Fenner, Madison, New York, USA
+3 MAP
+4 LATI N42.9694
+4 LONG W75.7872
+2 SOUR @GpcA8GZ1Qyuc3mwiGu82@
+3 PAGE Year: 1920; Census Place: Eaton, Madison, New York; Roll: T6
+4 CONC 25_1118; Page: 7A; Enumeration District: 105
+3 OBJE @M230@
+3 _APID 1,6061::87027189
+2 SOUR @Z6rqhHe6TT6AOpzl0BeY@
+3 PAGE Year: 1930; Census Place: Smithfield, Madison, New York; Pag
+4 CONC e: 6A; Enumeration District: 0040; FHL microfilm: 2341181
+3 OBJE @M234@
+3 _APID 1,6224::40880901
+2 SOUR @W7LxqysiTQKb0jxIb32w@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1915; Election District: 01; Assembly Di
+4 CONC strict: 01; City: Eaton; County: Madison; Page: 15
+3 OBJE @M232@
+3 _APID 1,2703::11968861
+1 RESI
+2 DATE 01 JUN 1915
+2 PLAC Eaton, Madison, New York, USA
+3 MAP
+4 LATI N42.8497
+4 LONG W75.6122
+2 SOUR @W7LxqysiTQKb0jxIb32w@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1915; Election District: 01; Assembly Di
+4 CONC strict: 01; City: Eaton; County: Madison; Page: 15
+3 OBJE @M232@
+3 _APID 1,2703::11968861
+2 NOTE Relation to Head of House: Son
+1 RESI
+2 DATE 1920
+2 PLAC Eaton, Madison, New York, USA
+3 MAP
+4 LATI N42.8497
+4 LONG W75.6122
+2 SOUR @GpcA8GZ1Qyuc3mwiGu82@
+3 PAGE Year: 1920; Census Place: Eaton, Madison, New York; Roll: T6
+4 CONC 25_1118; Page: 7A; Enumeration District: 105
+3 OBJE @M230@
+3 _APID 1,6061::87027189
+2 NOTE Relation to Head: Son; Residence Marital Status: Single
+1 RESI
+2 DATE 1930
+2 PLAC Smithfield, Madison, New York, USA
+3 MAP
+4 LATI N42.9712
+4 LONG W75.6768
+2 SOUR @Z6rqhHe6TT6AOpzl0BeY@
+3 PAGE Year: 1930; Census Place: Smithfield, Madison, New York; Pag
+4 CONC e: 6A; Enumeration District: 0040; FHL microfilm: 2341181
+3 OBJE @M234@
+3 _APID 1,6224::40880901
+2 NOTE Marital Status: Single; Relation to Head: Son
+1 DEAT
+2 DATE 25 FEB 1981
+2 PLAC Hamilton, Madison, New York, USA
+3 MAP
+4 LATI N42.827
+4 LONG W75.5446
+0 @I176@ INDI
+1 REFN 13a7cdd2-76c2-44f9-a2a4-e5ea88c25dc3
+1 NAME Patrick /Ginney/
+2 SOUR @tPClZMdVRNCZDOmnmsWz@
+3 PAGE Year: 1900; Census Place: Smithfield, Madison, New York; Pag
+4 CONC e: 1; Enumeration District: 0030; FHL microfilm: 1241072
+3 OBJE @M227@
+3 _APID 1,7602::66532999
+2 SOUR @zed2XLyiTSazMVGgwZLi@
+3 PAGE Year: 1910; Census Place: Fenner, Madison, New York; Roll: T
+4 CONC 624_987; Page: 2A; Enumeration District: 0010; FHL microfilm
+4 CONC : 1375000
+3 OBJE @M231@
+3 _APID 1,7884::18178745
+2 SOUR @GpcA8GZ1Qyuc3mwiGu82@
+3 PAGE Year: 1920; Census Place: Eaton, Madison, New York; Roll: T6
+4 CONC 25_1118; Page: 7A; Enumeration District: 105
+3 OBJE @M230@
+3 _APID 1,6061::87027183
+2 SOUR @Z6rqhHe6TT6AOpzl0BeY@
+3 PAGE Year: 1930; Census Place: Smithfield, Madison, New York; Pag
+4 CONC e: 6A; Enumeration District: 0040; FHL microfilm: 2341181
+3 OBJE @M234@
+3 _APID 1,6224::40880893
+2 SOUR @S152@
+3 PAGE New York State Department of Health; Albany, NY, USA; New Yo
+4 CONC rk State Marriage Index
+3 OBJE @M240@
+3 _APID 1,61632::1129197
+2 SOUR @S94@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1905; City: Fenner; County: Madison; Pag
+4 CONC e: 2
+3 OBJE @M220@
+3 _APID 1,7364::5692555
+2 SOUR @W7LxqysiTQKb0jxIb32w@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1915; Election District: 01; Assembly Di
+4 CONC strict: 01; City: Eaton; County: Madison; Page: 15
+3 OBJE @M232@
+3 _APID 1,2703::11968844
+1 SEX M
+1 FAMS @F63@
+1 BIRT
+2 DATE 20 AUG 1864
+2 PLAC Stockbridge, Madison, New York, USA
+3 MAP
+4 LATI N42.9911
+4 LONG W75.5997
+2 SOUR @tPClZMdVRNCZDOmnmsWz@
+3 PAGE Year: 1900; Census Place: Smithfield, Madison, New York; Pag
+4 CONC e: 1; Enumeration District: 0030; FHL microfilm: 1241072
+3 OBJE @M227@
+3 _APID 1,7602::66532999
+2 SOUR @zed2XLyiTSazMVGgwZLi@
+3 PAGE Year: 1910; Census Place: Fenner, Madison, New York; Roll: T
+4 CONC 624_987; Page: 2A; Enumeration District: 0010; FHL microfilm
+4 CONC : 1375000
+3 OBJE @M231@
+3 _APID 1,7884::18178745
+2 SOUR @GpcA8GZ1Qyuc3mwiGu82@
+3 PAGE Year: 1920; Census Place: Eaton, Madison, New York; Roll: T6
+4 CONC 25_1118; Page: 7A; Enumeration District: 105
+3 OBJE @M230@
+3 _APID 1,6061::87027183
+2 SOUR @Z6rqhHe6TT6AOpzl0BeY@
+3 PAGE Year: 1930; Census Place: Smithfield, Madison, New York; Pag
+4 CONC e: 6A; Enumeration District: 0040; FHL microfilm: 2341181
+3 OBJE @M234@
+3 _APID 1,6224::40880893
+2 SOUR @S94@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1905; City: Fenner; County: Madison; Pag
+4 CONC e: 2
+3 OBJE @M220@
+3 _APID 1,7364::5692555
+2 SOUR @W7LxqysiTQKb0jxIb32w@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1915; Election District: 01; Assembly Di
+4 CONC strict: 01; City: Eaton; County: Madison; Page: 15
+3 OBJE @M232@
+3 _APID 1,2703::11968844
+1 RESI
+2 DATE 1900
+2 PLAC Smithfield, Madison, New York, USA
+3 MAP
+4 LATI N42.9712
+4 LONG W75.6768
+2 SOUR @tPClZMdVRNCZDOmnmsWz@
+3 PAGE Year: 1900; Census Place: Smithfield, Madison, New York; Pag
+4 CONC e: 1; Enumeration District: 0030; FHL microfilm: 1241072
+3 OBJE @M227@
+3 _APID 1,7602::66532999
+2 NOTE Marital Status: Married; Relation to Head: Head
+1 RESI
+2 DATE 1905
+2 PLAC Fenner, Madison, New York, USA
+3 MAP
+4 LATI N42.9694
+4 LONG W75.7872
+2 SOUR @S94@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1905; City: Fenner; County: Madison; Pag
+4 CONC e: 2
+3 OBJE @M220@
+3 _APID 1,7364::5692555
+2 NOTE Relationship to Head: Head
+1 RESI
+2 DATE 1910
+2 PLAC Fenner, Madison, New York, USA
+3 MAP
+4 LATI N42.9694
+4 LONG W75.7872
+2 SOUR @zed2XLyiTSazMVGgwZLi@
+3 PAGE Year: 1910; Census Place: Fenner, Madison, New York; Roll: T
+4 CONC 624_987; Page: 2A; Enumeration District: 0010; FHL microfilm
+4 CONC : 1375000
+3 OBJE @M231@
+3 _APID 1,7884::18178745
+2 NOTE Marital Status: Married; Relation to Head of House: Head
+1 RESI
+2 DATE 01 JUN 1915
+2 PLAC Eaton, Madison, New York, USA
+3 MAP
+4 LATI N42.8497
+4 LONG W75.6122
+2 SOUR @W7LxqysiTQKb0jxIb32w@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1915; Election District: 01; Assembly Di
+4 CONC strict: 01; City: Eaton; County: Madison; Page: 15
+3 OBJE @M232@
+3 _APID 1,2703::11968844
+2 NOTE Relation to Head of House: Head
+1 RESI
+2 DATE 1920
+2 PLAC Eaton, Madison, New York, USA
+3 MAP
+4 LATI N42.8497
+4 LONG W75.6122
+2 SOUR @GpcA8GZ1Qyuc3mwiGu82@
+3 PAGE Year: 1920; Census Place: Eaton, Madison, New York; Roll: T6
+4 CONC 25_1118; Page: 7A; Enumeration District: 105
+3 OBJE @M230@
+3 _APID 1,6061::87027183
+2 NOTE Relation to Head: Head; Residence Marital Status: Married
+1 RESI
+2 DATE 1930
+2 PLAC Smithfield, Madison, New York, USA
+3 MAP
+4 LATI N42.9712
+4 LONG W75.6768
+2 SOUR @Z6rqhHe6TT6AOpzl0BeY@
+3 PAGE Year: 1930; Census Place: Smithfield, Madison, New York; Pag
+4 CONC e: 6A; Enumeration District: 0040; FHL microfilm: 2341181
+3 OBJE @M234@
+3 _APID 1,6224::40880893
+2 NOTE Marital Status: Married; Relation to Head: Head
+1 DEAT
+2 DATE 19 OCT 1933
+2 PLAC Perryville, Lincoln, Madison, New York, USA
+0 @I160@ INDI
+1 REFN fb329c00-4c57-4ab7-81c3-94873133aaba
+1 NAME Thresia Nina /Ginney/
+2 SOUR @zed2XLyiTSazMVGgwZLi@
+3 PAGE Year: 1910; Census Place: Fenner, Madison, New York; Roll: T
+4 CONC 624_987; Page: 2A; Enumeration District: 0010; FHL microfilm
+4 CONC : 1375000
+3 OBJE @M231@
+3 _APID 1,7884::127025081
+2 SOUR @S94@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1905; City: Fenner; County: Madison; Pag
+4 CONC e: 2
+3 OBJE @M220@
+3 _APID 1,7364::4170491
+2 SOUR @W7LxqysiTQKb0jxIb32w@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1915; Election District: 01; Assembly Di
+4 CONC strict: 01; City: Eaton; County: Madison; Page: 15
+3 OBJE @M232@
+3 _APID 1,2703::11968854
+1 SEX F
+1 FAMC @F63@
+1 BIRT
+2 DATE ABT 1905
+2 PLAC New York, USA
+3 MAP
+4 LATI N42.7531
+4 LONG W74.2224
+2 SOUR @zed2XLyiTSazMVGgwZLi@
+3 PAGE Year: 1910; Census Place: Fenner, Madison, New York; Roll: T
+4 CONC 624_987; Page: 2A; Enumeration District: 0010; FHL microfilm
+4 CONC : 1375000
+3 OBJE @M231@
+3 _APID 1,7884::127025081
+2 SOUR @W7LxqysiTQKb0jxIb32w@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1915; Election District: 01; Assembly Di
+4 CONC strict: 01; City: Eaton; County: Madison; Page: 15
+3 OBJE @M232@
+3 _APID 1,2703::11968854
+1 RESI
+2 DATE 1905
+2 PLAC Fenner, Madison, New York, USA
+3 MAP
+4 LATI N42.9694
+4 LONG W75.7872
+2 SOUR @S94@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1905; City: Fenner; County: Madison; Pag
+4 CONC e: 2
+3 OBJE @M220@
+3 _APID 1,7364::4170491
+2 NOTE Relationship to Head: Daughter
+1 RESI
+2 DATE 1910
+2 PLAC Fenner, Madison, New York, USA
+3 MAP
+4 LATI N42.9694
+4 LONG W75.7872
+2 SOUR @zed2XLyiTSazMVGgwZLi@
+3 PAGE Year: 1910; Census Place: Fenner, Madison, New York; Roll: T
+4 CONC 624_987; Page: 2A; Enumeration District: 0010; FHL microfilm
+4 CONC : 1375000
+3 OBJE @M231@
+3 _APID 1,7884::127025081
+2 NOTE Marital Status: Single; Relation to Head of House: Daughter
+1 RESI
+2 DATE 01 JUN 1915
+2 PLAC Eaton, Madison, New York, USA
+3 MAP
+4 LATI N42.8497
+4 LONG W75.6122
+2 SOUR @W7LxqysiTQKb0jxIb32w@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1915; Election District: 01; Assembly Di
+4 CONC strict: 01; City: Eaton; County: Madison; Page: 15
+3 OBJE @M232@
+3 _APID 1,2703::11968854
+2 NOTE Relation to Head of House: Daughter
+1 DEAT
+2 DATE 29 NOV 1918
+2 PLAC Fenner, Madison, New York, USA
+3 MAP
+4 LATI N42.9694
+4 LONG W75.7872
+0 @I158@ INDI
+1 REFN 800ebb17-374c-4f29-9a62-a2637bbc5f0c
+1 NAME Wilbur Jacob /Ginney/
+2 SOUR @tPClZMdVRNCZDOmnmsWz@
+3 PAGE Year: 1900; Census Place: Smithfield, Madison, New York; Pag
+4 CONC e: 1; Enumeration District: 0030; FHL microfilm: 1241072
+3 OBJE @M227@
+3 _APID 1,7602::66533001
+2 SOUR @zed2XLyiTSazMVGgwZLi@
+3 PAGE Year: 1910; Census Place: Fenner, Madison, New York; Roll: T
+4 CONC 624_987; Page: 2A; Enumeration District: 0010; FHL microfilm
+4 CONC : 1375000
+3 OBJE @M231@
+3 _APID 1,7884::127025079
+2 SOUR @GpcA8GZ1Qyuc3mwiGu82@
+3 PAGE Year: 1920; Census Place: Eaton, Madison, New York; Roll: T6
+4 CONC 25_1118; Page: 7A; Enumeration District: 105
+3 OBJE @M230@
+3 _APID 1,6061::87027185
+2 SOUR @S94@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1905; City: Fenner; County: Madison; Pag
+4 CONC e: 2
+3 OBJE @M220@
+3 _APID 1,7364::5692557
+2 SOUR @W7LxqysiTQKb0jxIb32w@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1915; Election District: 01; Assembly Di
+4 CONC strict: 01; City: Eaton; County: Madison; Page: 15
+3 OBJE @M232@
+3 _APID 1,2703::11968850
+1 SEX M
+1 FAMC @F63@
+1 BIRT
+2 DATE 30 APR 1900
+2 PLAC New York, USA
+3 MAP
+4 LATI N42.7531
+4 LONG W74.2224
+2 SOUR @tPClZMdVRNCZDOmnmsWz@
+3 PAGE Year: 1900; Census Place: Smithfield, Madison, New York; Pag
+4 CONC e: 1; Enumeration District: 0030; FHL microfilm: 1241072
+3 OBJE @M227@
+3 _APID 1,7602::66533001
+2 SOUR @zed2XLyiTSazMVGgwZLi@
+3 PAGE Year: 1910; Census Place: Fenner, Madison, New York; Roll: T
+4 CONC 624_987; Page: 2A; Enumeration District: 0010; FHL microfilm
+4 CONC : 1375000
+3 OBJE @M231@
+3 _APID 1,7884::127025079
+2 SOUR @GpcA8GZ1Qyuc3mwiGu82@
+3 PAGE Year: 1920; Census Place: Eaton, Madison, New York; Roll: T6
+4 CONC 25_1118; Page: 7A; Enumeration District: 105
+3 OBJE @M230@
+3 _APID 1,6061::87027185
+2 SOUR @S94@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1905; City: Fenner; County: Madison; Pag
+4 CONC e: 2
+3 OBJE @M220@
+3 _APID 1,7364::5692557
+2 SOUR @W7LxqysiTQKb0jxIb32w@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1915; Election District: 01; Assembly Di
+4 CONC strict: 01; City: Eaton; County: Madison; Page: 15
+3 OBJE @M232@
+3 _APID 1,2703::11968850
+1 RESI
+2 DATE 1900
+2 PLAC Smithfield, Madison, New York, USA
+3 MAP
+4 LATI N42.9712
+4 LONG W75.6768
+2 SOUR @tPClZMdVRNCZDOmnmsWz@
+3 PAGE Year: 1900; Census Place: Smithfield, Madison, New York; Pag
+4 CONC e: 1; Enumeration District: 0030; FHL microfilm: 1241072
+3 OBJE @M227@
+3 _APID 1,7602::66533001
+2 NOTE Marital Status: Single; Relation to Head: Son
+1 RESI
+2 DATE 1905
+2 PLAC Fenner, Madison, New York, USA
+3 MAP
+4 LATI N42.9694
+4 LONG W75.7872
+2 SOUR @S94@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1905; City: Fenner; County: Madison; Pag
+4 CONC e: 2
+3 OBJE @M220@
+3 _APID 1,7364::5692557
+2 NOTE Relationship to Head: Son
+1 RESI
+2 DATE 1910
+2 PLAC Fenner, Madison, New York, USA
+3 MAP
+4 LATI N42.9694
+4 LONG W75.7872
+2 SOUR @zed2XLyiTSazMVGgwZLi@
+3 PAGE Year: 1910; Census Place: Fenner, Madison, New York; Roll: T
+4 CONC 624_987; Page: 2A; Enumeration District: 0010; FHL microfilm
+4 CONC : 1375000
+3 OBJE @M231@
+3 _APID 1,7884::127025079
+2 NOTE Marital Status: Single; Relation to Head of House: Son
+1 RESI
+2 DATE 01 JUN 1915
+2 PLAC Eaton, Madison, New York, USA
+3 MAP
+4 LATI N42.8497
+4 LONG W75.6122
+2 SOUR @W7LxqysiTQKb0jxIb32w@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1915; Election District: 01; Assembly Di
+4 CONC strict: 01; City: Eaton; County: Madison; Page: 15
+3 OBJE @M232@
+3 _APID 1,2703::11968850
+2 NOTE Relation to Head of House: Son
+1 RESI
+2 DATE 1920
+2 PLAC Eaton, Madison, New York, USA
+3 MAP
+4 LATI N42.8497
+4 LONG W75.6122
+2 SOUR @GpcA8GZ1Qyuc3mwiGu82@
+3 PAGE Year: 1920; Census Place: Eaton, Madison, New York; Roll: T6
+4 CONC 25_1118; Page: 7A; Enumeration District: 105
+3 OBJE @M230@
+3 _APID 1,6061::87027185
+2 NOTE Relation to Head: Son; Residence Marital Status: Single
+1 DEAT
+2 DATE 10 AUG 1974
+2 PLAC Morrisville, Eaton, Madison, New York, USA
 0 @I140@ INDI
 1 REFN 5bb47ad6-27fa-40b7-8df4-6409fdb45176
 1 NAME Huldah A. /Goodwin/
@@ -7590,6 +8975,15 @@
 3 PAGE Volume: 339; SAR Membership Number: 67676
 3 OBJE @M208@
 3 _APID 1,2204::672820
+0 @I164@ INDI
+1 REFN ae2977d4-2eb3-4d64-9f9f-8cd3327fbfd2
+1 NAME Robert S. /Hart/
+1 SEX M
+1 FAMS @F61@
+1 BIRT
+2 DATE 1904
+1 DEAT
+2 DATE 1987
 0 @I39@ INDI
 1 REFN 20f72799-1f00-4d41-b37c-676a67a82d52
 1 NAME Anthony J. /House/
@@ -7681,10 +9075,25 @@
 4 CONC : T625_1118; Page: 8A; Enumeration District: 111
 3 OBJE @M130@
 3 _APID 1,6061::87033011
+2 SOUR @Z6rqhHe6TT6AOpzl0BeY@
+3 PAGE Year: 1930; Census Place: Marcy, Oneida, New York; Page: 5B
+4 CONC ; Enumeration District: 0023; FHL microfilm: 2341354
+3 OBJE @M226@
+3 _APID 1,6224::43574903
+2 SOUR @Uy92PZYtTYyuTqW66j1r@
+3 PAGE Year: 1940; Census Place: Rome, Oneida, New York; Roll: m-t0
+4 CONC 627-02701; Page: 6A; Enumeration District: 33-71
+3 OBJE @M212@
+3 _APID 1,2442::8268755
 2 SOUR @S103@
 3 PAGE New York State Department of Health; Albany, NY, USA; New Yo
 4 CONC rk State Death Index
 3 _APID 1,61668::1026602
+2 SOUR @S152@
+3 PAGE New York State Department of Health; Albany, NY, USA; New Yo
+4 CONC rk State Marriage Index
+3 OBJE @M224@
+3 _APID 1,61632::1791205
 2 SOUR @S94@
 3 PAGE New York State Archives; Albany, New York; State Populatio
 4 CONC n Census Schedules, 1905; Election District: E.D. 04; City
@@ -7705,6 +9114,7 @@
 3 _APID 1,3693::28862495
 1 SEX M
 1 FAMC @F26@
+1 FAMS @F59@
 1 BIRT
 2 DATE 04 DEC 1904
 2 PLAC USA
@@ -7719,6 +9129,16 @@
 4 CONC : T625_1118; Page: 8A; Enumeration District: 111
 3 OBJE @M130@
 3 _APID 1,6061::87033011
+2 SOUR @Z6rqhHe6TT6AOpzl0BeY@
+3 PAGE Year: 1930; Census Place: Marcy, Oneida, New York; Page: 5B
+4 CONC ; Enumeration District: 0023; FHL microfilm: 2341354
+3 OBJE @M226@
+3 _APID 1,6224::43574903
+2 SOUR @Uy92PZYtTYyuTqW66j1r@
+3 PAGE Year: 1940; Census Place: Rome, Oneida, New York; Roll: m-t0
+4 CONC 627-02701; Page: 6A; Enumeration District: 33-71
+3 OBJE @M212@
+3 _APID 1,2442::8268755
 2 SOUR @S103@
 3 PAGE New York State Department of Health; Albany, NY, USA; New Yo
 4 CONC rk State Death Index
@@ -7789,6 +9209,30 @@
 3 OBJE @M129@
 3 _APID 1,2704::20713802
 2 NOTE Relation to Head: Son
+1 RESI
+2 DATE 1930
+2 PLAC Marcy, Oneida, New York, USA
+3 MAP
+4 LATI N43.1706
+4 LONG W75.2919
+2 SOUR @Z6rqhHe6TT6AOpzl0BeY@
+3 PAGE Year: 1930; Census Place: Marcy, Oneida, New York; Page: 5B
+4 CONC ; Enumeration District: 0023; FHL microfilm: 2341354
+3 OBJE @M226@
+3 _APID 1,6224::43574903
+2 NOTE Marital Status: Married; Relation to Head: Son-in-law
+1 RESI
+2 DATE 1940
+2 PLAC Rome, Oneida, New York, USA
+3 MAP
+4 LATI N43.2128
+4 LONG W75.4557
+2 SOUR @Uy92PZYtTYyuTqW66j1r@
+3 PAGE Year: 1940; Census Place: Rome, Oneida, New York; Roll: m-t0
+4 CONC 627-02701; Page: 6A; Enumeration District: 33-71
+3 OBJE @M212@
+3 _APID 1,2442::8268755
+2 NOTE Marital Status: Married; Relation to Head: Head
 1 DEAT
 2 DATE 09 APR 1966
 2 PLAC Rome, Oneida, New York, USA
@@ -7837,6 +9281,11 @@
 4 CONC -t0627-02624; Page: 10B; Enumeration District: 27-44
 3 OBJE @M128@
 3 _APID 1,2442::11230355
+2 SOUR @S158@
+3 PAGE New York State Department of Health; Albany, NY, USA; New Yo
+4 CONC rk State Birth Index
+3 OBJE @M222@
+3 _APID 1,61667::1969905
 2 SOUR @CBm0n9eyQ2KMLGJARjUj@
 3 PAGE New York State Archives; Albany, New York; State Populatio
 4 CONC n Census Schedules, 1925; Election District: 01; Assembly Di
@@ -7868,6 +9317,11 @@
 4 CONC -t0627-02624; Page: 10B; Enumeration District: 27-44
 3 OBJE @M128@
 3 _APID 1,2442::11230355
+2 SOUR @S158@
+3 PAGE New York State Department of Health; Albany, NY, USA; New Yo
+4 CONC rk State Birth Index
+3 OBJE @M222@
+3 _APID 1,61667::1969905
 2 SOUR @CBm0n9eyQ2KMLGJARjUj@
 3 PAGE New York State Archives; Albany, New York; State Populatio
 4 CONC n Census Schedules, 1925; Election District: 01; Assembly Di
@@ -7938,6 +9392,139 @@
 2 SOUR @S96@
 3 _APID 1,60901::32060768
 1 _XY -10875.00 -2125.00
+0 @I152@ INDI
+1 REFN 66b5517f-5524-4dfb-9e5d-cda5b41f455f
+1 NAME George Price /House/
+2 SOUR @Uy92PZYtTYyuTqW66j1r@
+3 PAGE Year: 1940; Census Place: Rome, Oneida, New York; Roll: m-t0
+4 CONC 627-02701; Page: 6A; Enumeration District: 33-71
+3 OBJE @M212@
+3 _APID 1,2442::8268759
+1 SEX M
+1 FAMC @F59@
+1 BIRT
+2 DATE ABT 1940
+2 PLAC New York, USA
+3 MAP
+4 LATI N42.7531
+4 LONG W74.2224
+2 SOUR @Uy92PZYtTYyuTqW66j1r@
+3 PAGE Year: 1940; Census Place: Rome, Oneida, New York; Roll: m-t0
+4 CONC 627-02701; Page: 6A; Enumeration District: 33-71
+3 OBJE @M212@
+3 _APID 1,2442::8268759
+1 RESI
+2 DATE 1940
+2 PLAC Rome, Oneida, New York, USA
+3 MAP
+4 LATI N43.2128
+4 LONG W75.4557
+2 SOUR @Uy92PZYtTYyuTqW66j1r@
+3 PAGE Year: 1940; Census Place: Rome, Oneida, New York; Roll: m-t0
+4 CONC 627-02701; Page: 6A; Enumeration District: 33-71
+3 OBJE @M212@
+3 _APID 1,2442::8268759
+2 NOTE Marital Status: Single; Relation to Head: Son
+0 @I151@ INDI
+1 REFN 60a6ad35-d751-4410-b3ff-25288d893fbf
+1 NAME Ralph M. /House/
+2 SOUR @Uy92PZYtTYyuTqW66j1r@
+3 PAGE Year: 1940; Census Place: Rome, Oneida, New York; Roll: m-t0
+4 CONC 627-02701; Page: 6A; Enumeration District: 33-71
+3 OBJE @M212@
+3 _APID 1,2442::8268757
+2 SOUR @S102@
+3 _APID 1,60525::134279767
+1 SEX M
+1 FAMC @F59@
+1 BIRT
+2 DATE 12 JAN 1933
+2 PLAC Marcy, Oneida, New York, USA
+3 MAP
+4 LATI N43.1706
+4 LONG W75.2919
+2 SOUR @Uy92PZYtTYyuTqW66j1r@
+3 PAGE Year: 1940; Census Place: Rome, Oneida, New York; Roll: m-t0
+4 CONC 627-02701; Page: 6A; Enumeration District: 33-71
+3 OBJE @M212@
+3 _APID 1,2442::8268757
+2 SOUR @S102@
+3 _APID 1,60525::134279767
+1 RESI
+2 DATE 1940
+2 PLAC Rome, Oneida, New York, USA
+3 MAP
+4 LATI N43.2128
+4 LONG W75.4557
+2 SOUR @Uy92PZYtTYyuTqW66j1r@
+3 PAGE Year: 1940; Census Place: Rome, Oneida, New York; Roll: m-t0
+4 CONC 627-02701; Page: 6A; Enumeration District: 33-71
+3 OBJE @M212@
+3 _APID 1,2442::8268757
+2 NOTE Marital Status: Single; Relation to Head: Son
+1 DEAT
+2 DATE 05 DEC 2016
+2 SOUR @S102@
+3 _APID 1,60525::134279767
+1 BURI
+2 PLAC Marcy, Oneida, New York, USA
+3 MAP
+4 LATI N43.1706
+4 LONG W75.2919
+2 SOUR @S102@
+3 _APID 1,60525::134279767
+0 @I167@ INDI
+1 REFN d8caf3e6-2fe4-406d-9507-5edf0556d043
+1 NAME Rosetta May /House/
+2 SOUR @Uy92PZYtTYyuTqW66j1r@
+3 PAGE Year: 1940; Census Place: Rome, Oneida, New York; Roll: m-t0
+4 CONC 627-02701; Page: 6A; Enumeration District: 33-71
+3 OBJE @M212@
+3 _APID 1,2442::8268760
+2 SOUR @S102@
+3 _APID 1,60525::55620073
+1 SEX F
+1 FAMC @F59@
+1 BIRT
+2 DATE 29 JUL 1939
+2 PLAC Herkimer, Herkimer, New York, USA
+3 MAP
+4 LATI N43.0256
+4 LONG W74.986
+2 SOUR @Uy92PZYtTYyuTqW66j1r@
+3 PAGE Year: 1940; Census Place: Rome, Oneida, New York; Roll: m-t0
+4 CONC 627-02701; Page: 6A; Enumeration District: 33-71
+3 OBJE @M212@
+3 _APID 1,2442::8268760
+2 SOUR @S102@
+3 _APID 1,60525::55620073
+1 RESI
+2 DATE 1940
+2 PLAC Rome, Oneida, New York, USA
+3 MAP
+4 LATI N43.2128
+4 LONG W75.4557
+2 SOUR @Uy92PZYtTYyuTqW66j1r@
+3 PAGE Year: 1940; Census Place: Rome, Oneida, New York; Roll: m-t0
+4 CONC 627-02701; Page: 6A; Enumeration District: 33-71
+3 OBJE @M212@
+3 _APID 1,2442::8268760
+2 NOTE Marital Status: Single; Relation to Head: Daughter
+1 DEAT
+2 DATE 05 DEC 2006
+2 PLAC New Hartford, Oneida, New York, USA
+3 MAP
+4 LATI N43.0734
+4 LONG W75.2877
+2 SOUR @S102@
+3 _APID 1,60525::55620073
+1 BURI
+2 PLAC Marcy, Oneida, New York, USA
+3 MAP
+4 LATI N43.1706
+4 LONG W75.2919
+2 SOUR @S102@
+3 _APID 1,60525::55620073
 0 @h1dtQGQqSB23NplobbYu@ INDI
 1 REFN ec41a6e9-fc0b-4c28-88fd-2ec8189f7fdf
 1 NAME Lulu Blanche /Hughes/
@@ -7962,11 +9549,6 @@
 4 CONC : T627_2513; Page: 4B; Enumeration District: 8-7
 3 OBJE @YT4ZXlF2TTy7auGa8l1E@
 3 _APID 1,2442::10480447
-2 SOUR @Yx5x4pPfQPaIwEkNhAZ7@
-3 PAGE Ancestry Family Trees
-3 DATA
-4 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=62861
-5 CONC &pid=1204
 2 SOUR @CBm0n9eyQ2KMLGJARjUj@
 3 PAGE New York State Archives; Albany, New York; State Populatio
 4 CONC n Census Schedules, 1925; Election District: 04; Assembly Di
@@ -8059,6 +9641,7 @@
 3 _APID 1,6061::95250719
 2 NOTE Age: 28; Marital Status: Married; Relation to Head of House
 3 CONC : Wife
+2 NOTE Relation to Head: Wife; Residence Marital Status: Married
 1 RESI
 2 DATE 01 JUN 1925
 2 PLAC Barton, Tioga, New York, USA
@@ -8375,6 +9958,33 @@
 3 MAP
 4 LATI N42.5265
 4 LONG W72.7884
+0 @I169@ INDI
+1 REFN 1f10a951-c686-4031-b8ec-fc73db7d55be
+1 NAME Ellsworth Jerome /Lofstrom/
+2 SOUR @S152@
+3 PAGE New York State Department of Health; Albany, NY, USA; New Yo
+4 CONC rk State Marriage Index
+3 OBJE @M235@
+3 _APID 1,61632::4190691
+1 SEX M
+1 FAMS @F62@
+1 BIRT
+2 DATE 24 AUG 1913
+2 PLAC Pennsylvania, USA
+3 MAP
+4 LATI N40.8583
+4 LONG W76.3834
+1 DEAT
+2 DATE 05 JAN 2004
+2 PLAC Montour Falls, Schuyler, New York, USA
+3 MAP
+4 LATI N42.3473
+4 LONG W76.8452
+0 @I170@ INDI
+1 REFN 7b99948f-ad7c-4cbb-b52e-c0d66b191127
+1 NAME Irene /Lofstrom/
+1 SEX F
+1 FAMC @F62@
 0 @ucckGPaVRtWevsikQqtS@ INDI
 1 REFN 8cc17cbd-8fee-4e21-ad92-df4dbfe18f95
 1 NAME Isaac B. /Marsh/
@@ -8405,6 +10015,17 @@
 4 CONC : 1241071
 3 OBJE @6H37w1sWR0SoGBYGuH5p@
 3 _APID 1,7602::55837888
+2 SOUR @zed2XLyiTSazMVGgwZLi@
+3 PAGE Year: 1910; Census Place: Hamilton, Madison, New York; Roll
+4 CONC : T624_987; Page: 8B; Enumeration District: 0013; FHL microf
+4 CONC ilm: 1375000
+3 OBJE @M215@
+3 _APID 1,7884::18180542
+2 SOUR @GpcA8GZ1Qyuc3mwiGu82@
+3 PAGE Year: 1920; Census Place: Hamilton, Madison, New York; Roll
+4 CONC : T625_1118; Page: 3A; Enumeration District: 110
+3 OBJE @M216@
+3 _APID 1,6061::87031595
 2 SOUR @lfBJpoKhRAejDR6dzZQp@
 3 PAGE New York State Archives, Cultural Education Center, Albany
 4 CONC , New York; New York Civil War Muster Roll Abstracts, 1861-1
@@ -8426,6 +10047,12 @@
 4 CONC strict: 01; City: Hamilton; County: Madison; Page: 06
 3 OBJE @2IsRKmXsQ8GyZQhVzoWs@
 3 _APID 1,2703::11984419
+2 SOUR @CBm0n9eyQ2KMLGJARjUj@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1925; Election District: 05; Assembly Di
+4 CONC strict: 01; City: Hamilton; County: Madison; Page: 3
+3 OBJE @M217@
+3 _APID 1,2704::20732334
 2 SOUR @q04NumQxRxOu0t0Janfk@
 3 OBJE @MOLWxTgtToeqTSwkPD3j@
 3 _APID 1,4654::834088
@@ -8466,6 +10093,17 @@
 4 CONC : 1241071
 3 OBJE @6H37w1sWR0SoGBYGuH5p@
 3 _APID 1,7602::55837888
+2 SOUR @zed2XLyiTSazMVGgwZLi@
+3 PAGE Year: 1910; Census Place: Hamilton, Madison, New York; Roll
+4 CONC : T624_987; Page: 8B; Enumeration District: 0013; FHL microf
+4 CONC ilm: 1375000
+3 OBJE @M215@
+3 _APID 1,7884::18180542
+2 SOUR @GpcA8GZ1Qyuc3mwiGu82@
+3 PAGE Year: 1920; Census Place: Hamilton, Madison, New York; Roll
+4 CONC : T625_1118; Page: 3A; Enumeration District: 110
+3 OBJE @M216@
+3 _APID 1,6061::87031595
 2 SOUR @lfBJpoKhRAejDR6dzZQp@
 3 PAGE New York State Archives, Cultural Education Center, Albany
 4 CONC , New York; New York Civil War Muster Roll Abstracts, 1861-1
@@ -8487,6 +10125,12 @@
 4 CONC strict: 01; City: Hamilton; County: Madison; Page: 06
 3 OBJE @2IsRKmXsQ8GyZQhVzoWs@
 3 _APID 1,2703::11984419
+2 SOUR @CBm0n9eyQ2KMLGJARjUj@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1925; Election District: 05; Assembly Di
+4 CONC strict: 01; City: Hamilton; County: Madison; Page: 3
+3 OBJE @M217@
+3 _APID 1,2704::20732334
 2 SOUR @rp9Z8lHgQkCUwI6kJGpm@
 3 _APID 1,70572::7718700
 1 RESI
@@ -8597,6 +10241,19 @@
 3 _APID 1,7364::1453211
 2 NOTE Relation to Head of House: Head
 1 RESI
+2 DATE 1910
+2 PLAC Hamilton, Madison, New York, USA
+3 MAP
+4 LATI N42.827
+4 LONG W75.5446
+2 SOUR @zed2XLyiTSazMVGgwZLi@
+3 PAGE Year: 1910; Census Place: Hamilton, Madison, New York; Roll
+4 CONC : T624_987; Page: 8B; Enumeration District: 0013; FHL microf
+4 CONC ilm: 1375000
+3 OBJE @M215@
+3 _APID 1,7884::18180542
+2 NOTE Marital Status: Married; Relation to Head of House: Head
+1 RESI
 2 DATE 01 JUN 1915
 2 PLAC Hamilton, Madison, New York, USA
 3 MAP
@@ -8609,6 +10266,31 @@
 3 OBJE @2IsRKmXsQ8GyZQhVzoWs@
 3 _APID 1,2703::11984419
 2 NOTE Age: 71; Relation to Head of House: Head
+1 RESI
+2 DATE 1920
+2 PLAC Hamilton, Madison, New York, USA
+3 MAP
+4 LATI N42.827
+4 LONG W75.5446
+2 SOUR @GpcA8GZ1Qyuc3mwiGu82@
+3 PAGE Year: 1920; Census Place: Hamilton, Madison, New York; Roll
+4 CONC : T625_1118; Page: 3A; Enumeration District: 110
+3 OBJE @M216@
+3 _APID 1,6061::87031595
+2 NOTE Relation to Head: Head; Residence Marital Status: Married
+1 RESI
+2 DATE 01 JUN 1925
+2 PLAC Hamilton, Madison, New York, USA
+3 MAP
+4 LATI N42.827
+4 LONG W75.5446
+2 SOUR @CBm0n9eyQ2KMLGJARjUj@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1925; Election District: 05; Assembly Di
+4 CONC strict: 01; City: Hamilton; County: Madison; Page: 3
+3 OBJE @M217@
+3 _APID 1,2704::20732334
+2 NOTE Relation to Head: Head
 1 DEAT
 2 DATE 1926
 2 SOUR @rp9Z8lHgQkCUwI6kJGpm@
@@ -8697,11 +10379,6 @@
 4 CONC : 1374655
 3 OBJE @M153@
 3 _APID 1,7884::11995693
-2 SOUR @Yx5x4pPfQPaIwEkNhAZ7@
-3 PAGE Ancestry Family Tree
-3 DATA
-4 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=60919
-5 CONC 808&pid=26
 1 SEX M
 1 FAMS @F32@
 1 BIRT
@@ -8753,11 +10430,6 @@
 0 @I95@ INDI
 1 REFN 61e5766d-5bbb-40f1-b473-76882086a72b
 1 NAME Harriet Amelia /Morey/
-2 SOUR @Yx5x4pPfQPaIwEkNhAZ7@
-3 PAGE Ancestry Family Tree
-3 DATA
-4 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=60919
-5 CONC 808&pid=31
 1 SEX F
 1 FAMC @F32@
 1 BIRT
@@ -8802,11 +10474,6 @@
 0 @I93@ INDI
 1 REFN 9743016f-0e3c-49d6-b3a7-1deeb2b61d76
 1 NAME William Arthur /Morey/
-2 SOUR @Yx5x4pPfQPaIwEkNhAZ7@
-3 PAGE Ancestry Family Tree
-3 DATA
-4 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=60919
-5 CONC 808&pid=32
 1 SEX M
 1 FAMC @F32@
 1 BIRT
@@ -8861,6 +10528,13 @@
 1 DEAT
 2 DATE 04 JUL 1984
 1 _XY -10275.00 -2050.00
+0 @I177@ INDI
+1 REFN 82655514-c370-4c70-9151-300de7da148d
+1 NAME Andrew /Nelson/
+1 SEX M
+1 FAMS @F64@
+1 DEAT
+2 DATE 1958
 0 @I37@ INDI
 1 REFN f4c046c3-e283-46ff-b217-4e707256cefd
 1 NAME Frank H. /Parkhurst/
@@ -8945,6 +10619,15 @@
 2 DATE ABT 1792
 2 PLAC Plainfield, Hampshire, MA, USA
 2 SOUR @yyAkQxoDR02oezmc7VEf@
+0 @I163@ INDI
+1 REFN 19e88502-8ec1-4d0c-865c-358af0d22f3c
+1 NAME Whitney /Richards/
+1 SEX M
+1 FAMS @F60@
+1 BIRT
+2 DATE 1902
+1 DEAT
+2 DATE 1996
 0 @I84@ INDI
 1 REFN d80b49dd-1c5e-41b5-b220-e98ee26ab476
 1 NAME Gershom /Rogers/
@@ -9007,11 +10690,6 @@
 3 PAGE Year: 1920; Census Place: Wampsville, Madison, New York
 3 OBJE @2GKoAeTCQpafrTb59NYw@
 3 _APID 1,6061::19071470
-2 SOUR @Yx5x4pPfQPaIwEkNhAZ7@
-3 PAGE Ancestry Family Tree
-3 DATA
-4 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=62861
-5 CONC &pid=958
 2 SOUR @S89@
 3 PAGE New York Department of Health; Albany, NY; NY State Death In
 4 CONC dex; Certificate Number: 29177
@@ -9270,7 +10948,7 @@
 3 _APID 1,70572::6153495
 0 @yrnKQjobSD6JZVEjMntA@ INDI
 1 REFN fe32b72f-92a9-4ae7-8780-0e0ec4cf66c7
-1 NAME Jessie Ada /Seely/
+1 NAME Jessie Ada /Seeley/
 2 SOUR @S106@
 3 PAGE Year: 1870; Census Place: Georgetown, Madison, New York; Rol
 4 CONC l: M593_967; Page: 201A; Family History Library Film: 552466
@@ -9309,6 +10987,9 @@
 2 SOUR @sTsOC4iyTF2NoQPhD3Hq@
 3 OBJE @M121@
 3 _APID 1,61377::1200368289
+2 SOUR @yyAkQxoDR02oezmc7VEf@
+3 OBJE @M221@
+3 _APID 1,7218::2111800
 2 SOUR @S107@
 3 OBJE @M140@
 3 _APID 1,7250::1398348693
@@ -9339,6 +11020,7 @@
 3 _APID 1,70572::6465140
 1 SEX F
 1 FAMS @x42Aaj2fS0av2Kl1kArM@
+1 FAMS @F65@
 1 OBJE @GkSdD4a7Sr2fq7yEFPEw@
 1 BIRT
 2 DATE SEP 1863
@@ -9381,6 +11063,9 @@
 4 CONC ; FHL microfilm: 2341181
 3 OBJE @NMJzpdYPTvWZfOSHw9PJ@
 3 _APID 1,6224::40880503
+2 SOUR @yyAkQxoDR02oezmc7VEf@
+3 OBJE @M221@
+3 _APID 1,7218::2111800
 2 SOUR @S107@
 3 OBJE @M140@
 3 _APID 1,7250::1398348693
@@ -9409,6 +11094,16 @@
 3 _APID 1,60525::26811016
 2 SOUR @rp9Z8lHgQkCUwI6kJGpm@
 3 _APID 1,70572::6465140
+1 RESI
+2 DATE 1865
+2 PLAC Georgetown, Madison, New York, USA
+3 MAP
+4 LATI N42.7683
+4 LONG W75.7369
+2 SOUR @yyAkQxoDR02oezmc7VEf@
+3 OBJE @M221@
+3 _APID 1,7218::2111800
+2 NOTE Relation to Head of House: Son
 1 RESI
 2 DATE 1870
 2 PLAC Georgetown, Madison, New York, USA
@@ -9467,6 +11162,7 @@
 3 _APID 1,7602::55834492
 2 NOTE Age: 36; Marital Status: Married; Relation to Head of House
 3 CONC : Wife
+2 NOTE Marital Status: Married; Relation to Head: Wife
 1 RESI
 2 DATE 1905
 2 PLAC Eaton, Madison, New York, USA
@@ -9559,6 +11255,205 @@
 2 SOUR @rp9Z8lHgQkCUwI6kJGpm@
 3 _APID 1,70572::6465140
 1 _XY -10250.00 -2325.00
+0 @I175@ INDI
+1 REFN 0c0a540f-be7b-4cdc-80d0-b80ae9356404
+1 NAME Marian Etta /Seeley/
+2 SOUR @9SIEhYikRnW7x0y08og9@
+3 PAGE Year: 1880; Census Place: Georgetown, Madison, New York; Rol
+4 CONC l: 860; Page: 157C; Enumeration District: 057
+3 OBJE @M238@
+3 _APID 1,6742::2481777
+2 SOUR @tPClZMdVRNCZDOmnmsWz@
+3 PAGE Year: 1900; Census Place: Smithfield, Madison, New York; Pag
+4 CONC e: 1; Enumeration District: 0030; FHL microfilm: 1241072
+3 OBJE @M227@
+3 _APID 1,7602::66533000
+2 SOUR @zed2XLyiTSazMVGgwZLi@
+3 PAGE Year: 1910; Census Place: Fenner, Madison, New York; Roll: T
+4 CONC 624_987; Page: 2A; Enumeration District: 0010; FHL microfilm
+4 CONC : 1375000
+3 OBJE @M231@
+3 _APID 1,7884::127025078
+2 SOUR @GpcA8GZ1Qyuc3mwiGu82@
+3 PAGE Year: 1920; Census Place: Eaton, Madison, New York; Roll: T6
+4 CONC 25_1118; Page: 7A; Enumeration District: 105
+3 OBJE @M230@
+3 _APID 1,6061::87027184
+2 SOUR @Z6rqhHe6TT6AOpzl0BeY@
+3 PAGE Year: 1930; Census Place: Smithfield, Madison, New York; Pag
+4 CONC e: 6A; Enumeration District: 0040; FHL microfilm: 2341181
+3 OBJE @M234@
+3 _APID 1,6224::40880919
+2 SOUR @S152@
+3 PAGE New York State Department of Health; Albany, NY, USA; New Yo
+4 CONC rk State Marriage Index
+3 OBJE @M239@
+3 _APID 1,61632::1154174
+2 SOUR @Da4QmjDCTO26NSEbXkWM@
+3 OBJE @M219@
+3 _APID 1,3212::3150014
+2 SOUR @S94@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1905; City: Fenner; County: Madison; Pag
+4 CONC e: 2
+3 OBJE @M220@
+3 _APID 1,7364::5692556
+2 SOUR @W7LxqysiTQKb0jxIb32w@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1915; Election District: 01; Assembly Di
+4 CONC strict: 01; City: Eaton; County: Madison; Page: 15
+3 OBJE @M232@
+3 _APID 1,2703::11968847
+1 SEX F
+1 FAMC @F65@
+1 FAMS @F63@
+1 FAMS @F64@
+1 BIRT
+2 DATE 26 MAY 1880
+2 PLAC New York, USA
+3 MAP
+4 LATI N42.7531
+4 LONG W74.2224
+2 SOUR @9SIEhYikRnW7x0y08og9@
+3 PAGE Year: 1880; Census Place: Georgetown, Madison, New York; Rol
+4 CONC l: 860; Page: 157C; Enumeration District: 057
+3 OBJE @M238@
+3 _APID 1,6742::2481777
+2 SOUR @tPClZMdVRNCZDOmnmsWz@
+3 PAGE Year: 1900; Census Place: Smithfield, Madison, New York; Pag
+4 CONC e: 1; Enumeration District: 0030; FHL microfilm: 1241072
+3 OBJE @M227@
+3 _APID 1,7602::66533000
+2 SOUR @zed2XLyiTSazMVGgwZLi@
+3 PAGE Year: 1910; Census Place: Fenner, Madison, New York; Roll: T
+4 CONC 624_987; Page: 2A; Enumeration District: 0010; FHL microfilm
+4 CONC : 1375000
+3 OBJE @M231@
+3 _APID 1,7884::127025078
+2 SOUR @GpcA8GZ1Qyuc3mwiGu82@
+3 PAGE Year: 1920; Census Place: Eaton, Madison, New York; Roll: T6
+4 CONC 25_1118; Page: 7A; Enumeration District: 105
+3 OBJE @M230@
+3 _APID 1,6061::87027184
+2 SOUR @Z6rqhHe6TT6AOpzl0BeY@
+3 PAGE Year: 1930; Census Place: Smithfield, Madison, New York; Pag
+4 CONC e: 6A; Enumeration District: 0040; FHL microfilm: 2341181
+3 OBJE @M234@
+3 _APID 1,6224::40880919
+2 SOUR @Da4QmjDCTO26NSEbXkWM@
+3 OBJE @M219@
+3 _APID 1,3212::3150014
+2 SOUR @S94@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1905; City: Fenner; County: Madison; Pag
+4 CONC e: 2
+3 OBJE @M220@
+3 _APID 1,7364::5692556
+2 SOUR @W7LxqysiTQKb0jxIb32w@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1915; Election District: 01; Assembly Di
+4 CONC strict: 01; City: Eaton; County: Madison; Page: 15
+3 OBJE @M232@
+3 _APID 1,2703::11968847
+1 RESI
+2 DATE 01 JUN 1880
+2 PLAC Georgetown, Madison, New York, USA
+3 MAP
+4 LATI N42.7683
+4 LONG W75.7369
+2 SOUR @9SIEhYikRnW7x0y08og9@
+3 PAGE Year: 1880; Census Place: Georgetown, Madison, New York; Rol
+4 CONC l: 860; Page: 157C; Enumeration District: 057
+3 OBJE @M238@
+3 _APID 1,6742::2481777
+2 NOTE Marital Status: Single; Relation to Head: Granddaughter
+1 RESI
+2 DATE 1892
+2 PLAC Smithfield, Madison, New York, USA
+3 MAP
+4 LATI N42.9712
+4 LONG W75.6768
+2 SOUR @Da4QmjDCTO26NSEbXkWM@
+3 OBJE @M219@
+3 _APID 1,3212::3150014
+1 RESI
+2 DATE 1900
+2 PLAC Smithfield, Madison, New York, USA
+3 MAP
+4 LATI N42.9712
+4 LONG W75.6768
+2 SOUR @tPClZMdVRNCZDOmnmsWz@
+3 PAGE Year: 1900; Census Place: Smithfield, Madison, New York; Pag
+4 CONC e: 1; Enumeration District: 0030; FHL microfilm: 1241072
+3 OBJE @M227@
+3 _APID 1,7602::66533000
+2 NOTE Marital Status: Married; Relation to Head: Wife
+1 RESI
+2 DATE 1905
+2 PLAC Fenner, Madison, New York, USA
+3 MAP
+4 LATI N42.9694
+4 LONG W75.7872
+2 SOUR @S94@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1905; City: Fenner; County: Madison; Pag
+4 CONC e: 2
+3 OBJE @M220@
+3 _APID 1,7364::5692556
+2 NOTE Relationship to Head: Wife
+1 RESI
+2 DATE 1910
+2 PLAC Fenner, Madison, New York, USA
+3 MAP
+4 LATI N42.9694
+4 LONG W75.7872
+2 SOUR @zed2XLyiTSazMVGgwZLi@
+3 PAGE Year: 1910; Census Place: Fenner, Madison, New York; Roll: T
+4 CONC 624_987; Page: 2A; Enumeration District: 0010; FHL microfilm
+4 CONC : 1375000
+3 OBJE @M231@
+3 _APID 1,7884::127025078
+2 NOTE Marital Status: Married; Relation to Head of House: Wife
+1 RESI
+2 DATE 01 JUN 1915
+2 PLAC Eaton, Madison, New York, USA
+3 MAP
+4 LATI N42.8497
+4 LONG W75.6122
+2 SOUR @W7LxqysiTQKb0jxIb32w@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1915; Election District: 01; Assembly Di
+4 CONC strict: 01; City: Eaton; County: Madison; Page: 15
+3 OBJE @M232@
+3 _APID 1,2703::11968847
+2 NOTE Relation to Head of House: Wife
+1 RESI
+2 DATE 1920
+2 PLAC Eaton, Madison, New York, USA
+3 MAP
+4 LATI N42.8497
+4 LONG W75.6122
+2 SOUR @GpcA8GZ1Qyuc3mwiGu82@
+3 PAGE Year: 1920; Census Place: Eaton, Madison, New York; Roll: T6
+4 CONC 25_1118; Page: 7A; Enumeration District: 105
+3 OBJE @M230@
+3 _APID 1,6061::87027184
+2 NOTE Relation to Head: Wife; Residence Marital Status: Married
+1 RESI
+2 DATE 1930
+2 PLAC Smithfield, Madison, New York, USA
+3 MAP
+4 LATI N42.9712
+4 LONG W75.6768
+2 SOUR @Z6rqhHe6TT6AOpzl0BeY@
+3 PAGE Year: 1930; Census Place: Smithfield, Madison, New York; Pag
+4 CONC e: 6A; Enumeration District: 0040; FHL microfilm: 2341181
+3 OBJE @M234@
+3 _APID 1,6224::40880919
+2 NOTE Marital Status: Married; Relation to Head: Wife
+1 DEAT
+2 DATE 17 MAY 1973
+2 PLAC Perryville, Lincoln, Madison, New York, USA
 0 @ZegodOJWSJuUyMb3nk3I@ INDI
 1 REFN 5e41c00a-4428-490f-b38e-06afa5109879
 1 NAME Nancy Elnora /Spohner/
@@ -9587,11 +11482,6 @@
 4 CONC n District: 050; Image: 0746
 3 OBJE @M192@
 3 _APID 1,6742::2473272
-2 SOUR @Yx5x4pPfQPaIwEkNhAZ7@
-3 PAGE Ancestry Family Tree
-3 DATA
-4 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=60919
-5 CONC 808&pid=23
 1 SEX F
 1 FAMS @F50@
 1 BIRT
@@ -9630,6 +11520,81 @@
 3 _APID 1,6742::2473272
 2 NOTE Age: 26Marital Status: Married; Relation to Head of House: W
 3 CONC ife
+0 @I166@ INDI
+1 REFN e75bfa9f-d3b4-4838-b22f-354b2327a6f4
+1 NAME Helen M. /Turner/
+2 SOUR @Z6rqhHe6TT6AOpzl0BeY@
+3 PAGE Year: 1930; Census Place: Marcy, Oneida, New York; Page: 5B
+4 CONC ; Enumeration District: 0023; FHL microfilm: 2341354
+3 OBJE @M226@
+3 _APID 1,6224::43574899
+2 SOUR @Uy92PZYtTYyuTqW66j1r@
+3 PAGE Year: 1940; Census Place: Rome, Oneida, New York; Roll: m-t0
+4 CONC 627-02701; Page: 6A; Enumeration District: 33-71
+3 OBJE @M212@
+3 _APID 1,2442::8268756
+2 SOUR @S152@
+3 PAGE New York State Department of Health; Albany, NY, USA; New Yo
+4 CONC rk State Marriage Index
+3 OBJE @M236@
+3 _APID 1,61632::1842917
+2 SOUR @S102@
+3 _APID 1,60525::80145685
+1 SEX F
+1 FAMS @F59@
+1 BIRT
+2 DATE 22 OCT 1907
+2 PLAC New York, USA
+3 MAP
+4 LATI N42.7531
+4 LONG W74.2224
+2 SOUR @Z6rqhHe6TT6AOpzl0BeY@
+3 PAGE Year: 1930; Census Place: Marcy, Oneida, New York; Page: 5B
+4 CONC ; Enumeration District: 0023; FHL microfilm: 2341354
+3 OBJE @M226@
+3 _APID 1,6224::43574899
+2 SOUR @Uy92PZYtTYyuTqW66j1r@
+3 PAGE Year: 1940; Census Place: Rome, Oneida, New York; Roll: m-t0
+4 CONC 627-02701; Page: 6A; Enumeration District: 33-71
+3 OBJE @M212@
+3 _APID 1,2442::8268756
+2 SOUR @S102@
+3 _APID 1,60525::80145685
+1 RESI
+2 DATE 1930
+2 PLAC Marcy, Oneida, New York, USA
+3 MAP
+4 LATI N43.1706
+4 LONG W75.2919
+2 SOUR @Z6rqhHe6TT6AOpzl0BeY@
+3 PAGE Year: 1930; Census Place: Marcy, Oneida, New York; Page: 5B
+4 CONC ; Enumeration District: 0023; FHL microfilm: 2341354
+3 OBJE @M226@
+3 _APID 1,6224::43574899
+2 NOTE Marital Status: Married; Relation to Head: Daughter
+1 RESI
+2 DATE 1940
+2 PLAC Rome, Oneida, New York, USA
+3 MAP
+4 LATI N43.2128
+4 LONG W75.4557
+2 SOUR @Uy92PZYtTYyuTqW66j1r@
+3 PAGE Year: 1940; Census Place: Rome, Oneida, New York; Roll: m-t0
+4 CONC 627-02701; Page: 6A; Enumeration District: 33-71
+3 OBJE @M212@
+3 _APID 1,2442::8268756
+2 NOTE Marital Status: Married; Relation to Head: Wife
+1 DEAT
+2 DATE 30 JUN 1971
+2 SOUR @S102@
+3 _APID 1,60525::80145685
+1 BURI
+2 PLAC Marcy, Oneida, New York, USA
+3 MAP
+4 LATI N43.1706
+4 LONG W75.2919
+2 SOUR @S102@
+3 _APID 1,60525::80145685
 0 @I78@ INDI
 1 REFN 21d63096-2dfa-41b1-86dd-6f07a172283b
 1 NAME Betsy /Upham/
@@ -9639,11 +11604,6 @@
 4 CONC rary Film: 552177
 3 OBJE @M194@
 3 _APID 1,7163::28788644
-2 SOUR @Yx5x4pPfQPaIwEkNhAZ7@
-3 PAGE Ancestry Family Tree
-3 DATA
-4 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=60919
-5 CONC 808&pid=19
 2 SOUR @S138@
 1 SEX F
 1 FAMS @F33@
@@ -9820,11 +11780,6 @@
 4 CONC n District: 057; Image: 0147
 3 OBJE @QduZTtH4TNGG3b8GpqGf@
 3 _APID 1,6742::38724589
-2 SOUR @Yx5x4pPfQPaIwEkNhAZ7@
-3 PAGE Ancestry Family Tree
-3 DATA
-4 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=60919
-5 CONC 808&pid=2
 2 SOUR @yyAkQxoDR02oezmc7VEf@
 3 OBJE @WGZxfFdOQxGGTRbs2LyY@
 3 _APID 1,7218::1760377
@@ -9877,7 +11832,7 @@
 2 SOUR @S107@
 3 OBJE @aZwCiFtsSkmfSExBCUxH@
 3 _APID 1,7250::1398347783
-2 SOUR @HLhk0jdtRUKtnFgGtBVN@
+2 SOUR @S126@
 1 RESI
 2 DATE 1850
 2 PLAC Cazenovia, Madison, New York
@@ -10331,6 +12286,30 @@
 1 REFN 90e95ed0-e859-4fcc-8b11-3976047bf154
 1 HUSB @AQHkGZ3XTsySMkAYlAA8@
 1 WIFE @h1dtQGQqSB23NplobbYu@
+1 CHIL @I168@
+2 _FREL Natural
+2 _MREL Natural
+0 @F58@ FAM
+1 HUSB @I34@
+1 WIFE @I153@
+1 CHIL @I157@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I154@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I155@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I156@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR
+2 DATE 30 JUL 1909
+2 PLAC Hamilton, Madison, New York, USA
+3 MAP
+4 LATI N42.827
+4 LONG W75.5446
 0 @xafBJ9eKShi2PSl82rZW@ FAM
 1 REFN 1eb0e176-f12d-4ffc-b1d0-1744aae65602
 1 HUSB @I9@
@@ -10403,7 +12382,19 @@
 1 REFN da1c2f18-29d6-41d6-96e5-7ebcc71b5ca7
 1 HUSB @Dic6oehpQdKdrzLgI0o4@
 1 WIFE @yrnKQjobSD6JZVEjMntA@
+1 CHIL @I171@
+2 _FREL Natural
+2 _MREL Natural
 1 CHIL @I34@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I172@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I173@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I174@
 2 _FREL Natural
 2 _MREL Natural
 1 MARR
@@ -10413,7 +12404,11 @@
 4 CONC 71; Page: 6A; Enumeration District: 0009; FHL microfilm: 124
 4 CONC 1071
 3 OBJE @bCad3siyRdyjDMdhaaF4@
-3 _APID 1,7602::55834491
+2 SOUR @tPClZMdVRNCZDOmnmsWz@
+3 PAGE Year: 1900; Census Place: Eaton, Madison, New York; Roll: 10
+4 CONC 71; Page: 6A; Enumeration District: 0009; FHL microfilm: 124
+4 CONC 1071
+3 OBJE @bCad3siyRdyjDMdhaaF4@
 0 @7nbSUKIjSEKxG9We93eo@ FAM
 1 REFN 19432323-132d-4423-a76d-04b29a478159
 1 HUSB @FMvsQ0MPQ5SEpcurt17S@
@@ -10782,6 +12777,49 @@
 0 @F55@ FAM
 1 HUSB @I118@
 1 WIFE @I133@
+0 @F63@ FAM
+1 HUSB @I176@
+1 WIFE @I175@
+1 CHIL @I158@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I159@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I160@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I161@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I162@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I165@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR
+2 DATE 02 MAR 1899
+2 PLAC Little Falls, Herkimer, New York, USA
+3 MAP
+4 LATI N43.0434
+4 LONG W74.8596
+2 SOUR @tPClZMdVRNCZDOmnmsWz@
+3 PAGE Year: 1900; Census Place: Smithfield, Madison, New York; Pag
+4 CONC e: 1; Enumeration District: 0030; FHL microfilm: 1241072
+3 OBJE @M227@
+2 SOUR @tPClZMdVRNCZDOmnmsWz@
+3 PAGE Year: 1900; Census Place: Smithfield, Madison, New York; Pag
+4 CONC e: 1; Enumeration District: 0030; FHL microfilm: 1241072
+3 OBJE @M227@
+2 SOUR @S152@
+3 PAGE New York State Department of Health; Albany, NY, USA; New Yo
+4 CONC rk State Marriage Index
+3 OBJE @M239@
+2 SOUR @S152@
+3 PAGE New York State Department of Health; Albany, NY, USA; New Yo
+4 CONC rk State Marriage Index
+3 OBJE @M240@
 0 @F56@ FAM
 1 HUSB @I122@
 1 WIFE @I123@
@@ -10796,6 +12834,9 @@
 2 SOUR @S142@
 3 PAGE Source number: 982.000; Source type: Electronic Database; Nu
 4 CONC mber of Pages: 1; Submitter Code: HDG
+0 @F61@ FAM
+1 HUSB @I164@
+1 WIFE @I161@
 0 @F26@ FAM
 1 HUSB @I39@
 1 WIFE @SDnCwpECQQiuhJycVWOJ@
@@ -10805,9 +12846,52 @@
 1 CHIL @I35@
 2 _FREL Natural
 2 _MREL Natural
+0 @F59@ FAM
+1 HUSB @I36@
+1 WIFE @I166@
+1 CHIL @I151@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I167@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I152@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR
+2 DATE 25 OCT 1929
+2 PLAC Yorkville, Oneida, New York, USA
+3 MAP
+4 LATI N43.1128
+4 LONG W75.271
+2 SOUR @S152@
+3 PAGE New York State Department of Health; Albany, NY, USA; New Yo
+4 CONC rk State Marriage Index
+3 OBJE @M224@
+2 SOUR @S152@
+3 PAGE New York State Department of Health; Albany, NY, USA; New Yo
+4 CONC rk State Marriage Index
+3 OBJE @M236@
 0 @F42@ FAM
 1 HUSB @I119@
 1 WIFE @I56@
+0 @F62@ FAM
+1 HUSB @I169@
+1 WIFE @I168@
+1 CHIL @I170@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR
+2 DATE 05 MAY 1935
+2 PLAC Chemung, New York, USA
+2 SOUR @S152@
+3 PAGE New York State Department of Health; Albany, NY, USA; New Yo
+4 CONC rk State Marriage Index
+3 OBJE @M233@
+2 SOUR @S152@
+3 PAGE New York State Department of Health; Albany, NY, USA; New Yo
+4 CONC rk State Marriage Index
+3 OBJE @M235@
 0 @LWjyKQdMRX2WpNEyitZX@ FAM
 1 REFN fa3df241-8ee9-42d5-9713-5f8cce6b6ac6
 1 HUSB @ucckGPaVRtWevsikQqtS@
@@ -10880,9 +12964,17 @@
 2 SOUR @1LMqQAzCTraQZjn1ztj6@
 2 NOTE wedding photograph, probably taken near Solsville (in Madiso
 3 CONC n Township, Madison County, NY), where they were married
+0 @F64@ FAM
+1 HUSB @I177@
+1 WIFE @I175@
+1 MARR
+2 DATE 1939
 0 @F25@ FAM
 1 HUSB @I37@
 1 WIFE @SDnCwpECQQiuhJycVWOJ@
+0 @F60@ FAM
+1 HUSB @I163@
+1 WIFE @I159@
 0 @F51@ FAM
 1 HUSB @I84@
 1 WIFE @I102@
@@ -10894,6 +12986,10 @@
 4 LONG W72.7884
 2 SOUR @S112@
 2 SOUR @S112@
+0 @F65@ FAM
+1 WIFE @yrnKQjobSD6JZVEjMntA@
+1 CHIL @I175@
+2 _MREL Natural
 0 @F54@ FAM
 1 HUSB @I132@
 1 WIFE @I126@
@@ -10974,50 +13070,50 @@
 3 MAP
 4 LATI N43.0583
 4 LONG W75.7047
-0 @k6E4RMjOSJmHe9c6u2Rb@ REPO
+0 @R1@ REPO
 1 NAME Ancestry.com
 1 ADDR http://www.Ancestry.com
 1 EMAIL
 1 PHON
-0 @k6E4RMjOSJmHe9c6u2Rb@ REPO
+0 @R3@ REPO
 1 NAME Ancestry.com
 1 ADDR
 1 EMAIL
 1 PHON
 0 @S131@ SOUR
-1 REPO @k6E4RMjOSJmHe9c6u2Rb@
+1 REPO @R1@
 1 TITL 1790 United States Federal Census
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2010
 0 @S132@ SOUR
-1 REPO @k6E4RMjOSJmHe9c6u2Rb@
+1 REPO @R1@
 1 TITL 1800 United States Federal Census
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations Inc; Location: Provo, UT, USA; Date
 2 CONC : 2010
 0 @S116@ SOUR
-1 REPO @k6E4RMjOSJmHe9c6u2Rb@
+1 REPO @R1@
 1 TITL 1810 United States Federal Census
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2010
 0 @S115@ SOUR
-1 REPO @k6E4RMjOSJmHe9c6u2Rb@
+1 REPO @R1@
 1 TITL 1820 United States Federal Census
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2010
 0 @FcDCEG30RK61CW4RyPgD@ SOUR
 1 REFN 9ca4c4ef-5bcd-4fe9-a685-d62ce3f13241
-1 REPO @k6E4RMjOSJmHe9c6u2Rb@
+1 REPO @R1@
 1 TITL 1840 United States Federal Census
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2010
 0 @L8nVWbaPS16IxbJgxhiQ@ SOUR
 1 REFN 10133f3b-336d-42b4-925a-fa66e01de7c3
-1 REPO @k6E4RMjOSJmHe9c6u2Rb@
+1 REPO @R1@
 1 TITL 1850 United States Federal Census
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
@@ -11033,7 +13129,7 @@
 2 CONC 50, Age 68, Resident 9 Years, 3 in Household, no occupatio
 2 CONC n listed.<br />
 0 @S108@ SOUR
-1 REPO @k6E4RMjOSJmHe9c6u2Rb@
+1 REPO @R1@
 1 TITL 1860 United States Federal Census
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
@@ -11047,65 +13143,48 @@
 2 CONT CRANSON, CHARLES W., (Shed's Corners,) lot 25, prop. saw mil
 2 CONC l and farmer 45.
 0 @S106@ SOUR
-1 REPO @k6E4RMjOSJmHe9c6u2Rb@
+1 REPO @R1@
 1 TITL 1870 United States Federal Census
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2009
 0 @9SIEhYikRnW7x0y08og9@ SOUR
-1 REFN a8eacf88-80c0-4c5b-984b-65ff742c1ceb
-1 REPO @k6E4RMjOSJmHe9c6u2Rb@
+1 REPO @R3@
 1 TITL 1880 United States Federal Census
 1 AUTH Ancestry.com and The Church of Jesus Christ of Latter-day Sa
 2 CONC ints
-1 PUBL Ancestry.com Operations Inc; Location: Provo, UT, USA; Date
+1 PUBL Ancestry.com Operations Inc; Location: Lehi, UT, USA; Date
 2 CONC : 2010
 0 @tPClZMdVRNCZDOmnmsWz@ SOUR
-1 REFN def184d4-fd9f-4900-8003-4dfbe80f187b
-1 REPO @k6E4RMjOSJmHe9c6u2Rb@
+1 REPO @R3@
 1 TITL 1900 United States Federal Census
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations Inc; Location: Provo, UT, USA; Date
 2 CONC : 2004
 0 @zed2XLyiTSazMVGgwZLi@ SOUR
-1 REFN 8232ab35-92d5-44f5-9035-784afe038cfe
-1 REPO @k6E4RMjOSJmHe9c6u2Rb@
+1 REPO @R3@
 1 TITL 1910 United States Federal Census
 1 AUTH Ancestry.com
-1 PUBL Ancestry.com Operations Inc; Location: Provo, UT, USA; Date
+1 PUBL Ancestry.com Operations Inc; Location: Lehi, UT, USA; Date
 2 CONC : 2006
 0 @GpcA8GZ1Qyuc3mwiGu82@ SOUR
-1 REPO @k6E4RMjOSJmHe9c6u2Rb@
+1 REPO @R3@
 1 TITL 1920 United States Federal Census
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2010
-1 NOTE Fourteenth Census of the United States, 1920. (NARA microfil
-2 CONC m publication T625, 2076 rolls). Records of the Bureau of th
-2 CONC e Census, Record Group 29. National Archives, Washington, D.
-2 CONC C. For details on the contents of the film numbers, visit th
-2 CONC e following NARA web page: <a href="http://www.archives.gov/
-2 CONC publications/microfilm-catalogs/census/1920/part-07.html" ta
-2 CONC rget="_blank">NARA</a>. Note: Enumeration Districts 819-83
-2 CONC 9 are on roll 323 (Chicago City).
 0 @Z6rqhHe6TT6AOpzl0BeY@ SOUR
-1 REFN ad9a30db-d99e-4621-89a0-e497ff482a4d
-1 REPO @k6E4RMjOSJmHe9c6u2Rb@
+1 REPO @R3@
 1 TITL 1930 United States Federal Census
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations Inc; Location: Provo, UT, USA; Date
 2 CONC : 2002
 0 @Uy92PZYtTYyuTqW66j1r@ SOUR
-1 REFN 21f26ed7-9f0d-4a32-8362-2e76bbfe7e74
-1 REPO @k6E4RMjOSJmHe9c6u2Rb@
+1 REPO @R3@
 1 TITL 1940 United States Federal Census
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2012
-1 TEXT United States of America, Bureau of the Census. <i>Sixteent
-2 CONC h Census of the United States, 1940</i>. Washington, D.C.: N
-2 CONC ational Archives and Records Administration, 1940. T627, 4,6
-2 CONC 43 rolls.
 0 @7NxY38k9QPOFWLPd7Agj@ SOUR
 1 REFN 464c066f-4524-468d-b47a-399c218c6b66
 1 TITL [Colvin (Mable, Bertie, George) notes.]
@@ -11137,16 +13216,11 @@
 2 CONC :15 AM Age 36 years And 21 days
 2 CONT </p>
 0 @S130@ SOUR
-1 REPO @k6E4RMjOSJmHe9c6u2Rb@
+1 REPO @R1@
 1 TITL American Genealogical-Biographical Index (AGBI)
 1 AUTH Godfrey Memorial Library, comp.
 1 PUBL Ancestry.com Operations Inc; Location: Provo, UT, USA; Date
 2 CONC : 1999
-0 @Yx5x4pPfQPaIwEkNhAZ7@ SOUR
-1 REPO @k6E4RMjOSJmHe9c6u2Rb@
-1 TITL Ancestry Family Trees
-1 PUBL Online publication - Provo, UT, USA: Ancestry.com.  Origina
-2 CONC l data:  Family Tree files submitted by Ancestry members.
 0 @pCylTqPHQbGiYF7OdWYH@ SOUR
 1 REFN a6860210-985e-4dc4-801c-e0dba578aa05
 1 TITL Cazenovia Death Certificates
@@ -11267,7 +13341,7 @@
 2 CONC E     H 269 ?   SEYMOUR  1/9/1859 22 H 269 ?
 2 CONT
 0 @S120@ SOUR
-1 REPO @k6E4RMjOSJmHe9c6u2Rb@
+1 REPO @R1@
 1 TITL Family Data Collection - Individual Records
 1 AUTH Edmund West, comp.
 1 PUBL Ancestry.com Operations Inc; Location: Provo, UT, USA; Date
@@ -11313,37 +13387,37 @@
 1 PUBL 1852
 1 TEXT <img src="mosher_files/map_ny_cazenovia_1852.jpg">
 0 @S112@ SOUR
-1 REPO @k6E4RMjOSJmHe9c6u2Rb@
+1 REPO @R1@
 1 TITL Massachusetts, Marriages, 1633-1850
 1 AUTH Dodd, Jordan, Liahona Research, comp
 1 PUBL Ancestry.com Operations Inc; Location: Provo, UT, USA; Date
 2 CONC : 2005
 0 @S111@ SOUR
-1 REPO @k6E4RMjOSJmHe9c6u2Rb@
+1 REPO @R1@
 1 TITL Massachusetts, Town and Vital Records, 1620-1988
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2011
 0 @S143@ SOUR
-1 REPO @k6E4RMjOSJmHe9c6u2Rb@
+1 REPO @R3@
 1 TITL Massachusetts, Town Birth Records, 1620-1850
 1 AUTH New England Historic Genealogical Society
 1 PUBL Ancestry.com Operations Inc; Location: Provo, UT, USA; Date
 2 CONC : 1999
 0 @S128@ SOUR
-1 REPO @k6E4RMjOSJmHe9c6u2Rb@
+1 REPO @R1@
 1 TITL Massachusetts, Town Death Records, 1620-1850
 1 AUTH New England Historic Genealogical Society
 1 PUBL Ancestry.com Operations Inc; Location: Provo, UT, USA; Date
 2 CONC : 1999
 0 @S129@ SOUR
-1 REPO @k6E4RMjOSJmHe9c6u2Rb@
+1 REPO @R1@
 1 TITL Massachusetts, Town Marriage Records, 1620-1850
 1 AUTH New England Historic Genealogical Society
 1 PUBL Ancestry.com Operations Inc; Location: Provo, UT, USA; Date
 2 CONC : 1999
 0 @S139@ SOUR
-1 REPO @k6E4RMjOSJmHe9c6u2Rb@
+1 REPO @R1@
 1 TITL Mayflower Births and Deaths, Vol. 1 and 2
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
@@ -11359,32 +13433,44 @@
 2 CONC 7ef-badb-4f4a-8430-51e4042101ad
 2 CONT
 0 @S134@ SOUR
-1 REPO @k6E4RMjOSJmHe9c6u2Rb@
+1 REPO @R1@
 1 TITL Michigan, Death Records, 1897-1920
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2010
 0 @S117@ SOUR
-1 REPO @k6E4RMjOSJmHe9c6u2Rb@
+1 REPO @R1@
 1 TITL Michigan, Deaths and Burials Index, 1867-1995
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2011
 0 @S114@ SOUR
-1 REPO @k6E4RMjOSJmHe9c6u2Rb@
+1 REPO @R1@
 1 TITL New York Pensioners, 1835
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations Inc; Location: Provo, UT, USA; Date
 2 CONC : 1998
+0 @S158@ SOUR
+1 REPO @R3@
+1 TITL New York State, Birth Index, 1881-1942
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.; Location: Lehi, UT, USA; Date
+2 CONC : 2018
 0 @S103@ SOUR
-1 REPO @k6E4RMjOSJmHe9c6u2Rb@
+1 REPO @R1@
 1 TITL New York State, Death Index, 1957-1968
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Lehi, UT, USA; Date
 2 CONC : 2018
+0 @S152@ SOUR
+1 REPO @R3@
+1 TITL New York State, Marriage Index, 1881-1967
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.; Location: Lehi, UT, USA; Date
+2 CONC : 2017
 0 @IhLpv5gQTcOgm6vCvQLJ@ SOUR
 1 REFN 1bf79c11-0142-4254-bc0a-8b4726f447b7
-1 REPO @k6E4RMjOSJmHe9c6u2Rb@
+1 REPO @R1@
 1 TITL New York, Abstracts of World War I Military Service, 1917-19
 2 CONC 19
 1 AUTH Ancestry.com
@@ -11395,94 +13481,90 @@
 2 CONT Series B0808. New York State Archives, Albany, New York.
 0 @lfBJpoKhRAejDR6dzZQp@ SOUR
 1 REFN a15e1242-eb80-4556-93de-8598062807ea
-1 REPO @k6E4RMjOSJmHe9c6u2Rb@
+1 REPO @R1@
 1 TITL New York, Civil War Muster Roll Abstracts, 1861-1900
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2011
 0 @iFtgCb0MREO71v5LWojo@ SOUR
 1 REFN 956ed0bb-3517-42fc-b530-00e5b2be3627
-1 REPO @k6E4RMjOSJmHe9c6u2Rb@
+1 REPO @R1@
 1 TITL New York, Compiled Census and Census Substitutes Index, 1790
 2 CONC -1890
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations Inc; Location: Provo, UT, USA; Date
 2 CONC : 1999
 0 @S105@ SOUR
-1 REPO @k6E4RMjOSJmHe9c6u2Rb@
+1 REPO @R1@
 1 TITL New York, County Marriage Records, 1847-1849, 1907-1936
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Lehi, UT, USA; Date
 2 CONC : 2016
 0 @sTsOC4iyTF2NoQPhD3Hq@ SOUR
 1 REFN 0ec5e7f9-9089-48bf-902d-748b2b4efe7c
-1 REPO @k6E4RMjOSJmHe9c6u2Rb@
+1 REPO @R1@
 1 TITL New York, County Marriages, 1847-1849; 1907-1936
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Lehi, UT, USA; Date
 2 CONC : 2016
 0 @S89@ SOUR
-1 REPO @k6E4RMjOSJmHe9c6u2Rb@
+1 REPO @R1@
 1 TITL New York, Death Index, 1880-1956
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Lehi, UT, USA; Date
 2 CONC : 2017
 0 @bpt8c0uQRfCTW2vNfJ3k@ SOUR
 1 REFN 7aceee0b-28fd-4c99-b48d-12e7882b5e0c
-1 REPO @k6E4RMjOSJmHe9c6u2Rb@
+1 REPO @R1@
 1 TITL New York, State Census, 1855
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2013
 0 @yyAkQxoDR02oezmc7VEf@ SOUR
-1 REFN d52634a3-8324-454e-a10a-cf74f766f85d
-1 REPO @k6E4RMjOSJmHe9c6u2Rb@
+1 REPO @R3@
 1 TITL New York, State Census, 1865
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2014
 0 @S107@ SOUR
-1 REPO @k6E4RMjOSJmHe9c6u2Rb@
+1 REPO @R1@
 1 TITL New York, State Census, 1875
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2013
 0 @Da4QmjDCTO26NSEbXkWM@ SOUR
-1 REFN f938cc2e-1d08-41ad-b38c-360ffa9a238e
-1 REPO @k6E4RMjOSJmHe9c6u2Rb@
+1 REPO @R3@
 1 TITL New York, State Census, 1892
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2012
 0 @S94@ SOUR
-1 REPO @k6E4RMjOSJmHe9c6u2Rb@
+1 REPO @R1@
 1 TITL New York, State Census, 1905
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2014
 0 @W7LxqysiTQKb0jxIb32w@ SOUR
-1 REFN 160b534b-3be3-47e7-942d-ec69b0b6fb7f
-1 REPO @k6E4RMjOSJmHe9c6u2Rb@
+1 REPO @R3@
 1 TITL New York, State Census, 1915
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2012
 0 @CBm0n9eyQ2KMLGJARjUj@ SOUR
-1 REFN 35a76225-2b78-4df4-b67a-aa3e58d0095e
-1 REPO @k6E4RMjOSJmHe9c6u2Rb@
+1 REPO @R3@
 1 TITL New York, State Census, 1925
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2012
 0 @S136@ SOUR
-1 REPO @k6E4RMjOSJmHe9c6u2Rb@
+1 REPO @R1@
 1 TITL New York, Town Clerks' Registers of Men Who Served in the Ci
 2 CONC vil War, ca 1861-1865
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2011
 0 @S109@ SOUR
-1 REPO @k6E4RMjOSJmHe9c6u2Rb@
+1 REPO @R1@
 1 TITL New York, Wills and Probate Records, 1659-1999
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
@@ -11598,7 +13680,7 @@
 2 CONC p;</td></tr>
 2 CONT </tbody>
 2 CONT </table>
-0 @IfqPuKvGRESuugoGZxNT@ SOUR
+0 @S119@ SOUR
 1 TITL NY Census, 1875, Madison Co., De Ruyter, image 12 of 33
 1 NOTE [Chester Cranson 70 M father-in-law in Rogers household] bor
 2 CONC n Mass.
@@ -12034,7 +14116,7 @@
 1 PUBL 22 Aug 1881, Madison Country, NY, USA
 0 @ykkFkryATaGXzZdqMcer@ SOUR
 1 REFN 6e01ad04-8642-449b-ab61-f5a7fa04e5ab
-1 REPO @k6E4RMjOSJmHe9c6u2Rb@
+1 REPO @R1@
 1 TITL Selected U.S. Federal Census Non-Population Schedules, 1850-
 2 CONC 1880
 1 AUTH Ancestry.com
@@ -12045,39 +14127,39 @@
 1 TITL Social Security Death Index
 1 AUTH US Social Security Administration
 0 @S142@ SOUR
-1 REPO @k6E4RMjOSJmHe9c6u2Rb@
+1 REPO @R1@
 1 TITL U.S. and International Marriage Records, 1560-1900
 1 AUTH Yates Publishing
 1 PUBL Ancestry.com Operations Inc; Location: Provo, UT, USA; Date
 2 CONC : 2004
 0 @ALCTIZQyRum1k6rUQkJn@ SOUR
 1 REFN 3e50cef9-64ef-403b-9a82-56c1316c2605
-1 REPO @k6E4RMjOSJmHe9c6u2Rb@
+1 REPO @R1@
 1 TITL U.S. Census Non-Population Schedules, New York, 1850-1880
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2010
 0 @S104@ SOUR
-1 REPO @k6E4RMjOSJmHe9c6u2Rb@
+1 REPO @R1@
 1 TITL U.S. City Directories, 1822-1995
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2011
 0 @S93@ SOUR
-1 REPO @k6E4RMjOSJmHe9c6u2Rb@
+1 REPO @R1@
 1 TITL U.S. Civil War Soldiers, 1861-1865
 1 AUTH National Park Service
 1 PUBL Ancestry.com Operations Inc; Location: Provo, UT, USA; Date
 2 CONC : 2007
 0 @S113@ SOUR
-1 REPO @k6E4RMjOSJmHe9c6u2Rb@
+1 REPO @R1@
 1 TITL U.S. Pensioners, 1818-1872
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations Inc; Location: Provo, UT, USA; Date
 2 CONC : 2007
 0 @q04NumQxRxOu0t0Janfk@ SOUR
 1 REFN 80b8e234-8b1b-48ef-8186-020858e2fc4a
-1 REPO @k6E4RMjOSJmHe9c6u2Rb@
+1 REPO @R1@
 1 TITL U.S., Civil War Pension Index: General Index to Pension File
 2 CONC s, 1861-1934
 1 AUTH National Archives and Records Administration
@@ -12085,50 +14167,47 @@
 2 CONC : 2000
 0 @6qMAVZyIQsq0KGYRHB0h@ SOUR
 1 REFN 342eac05-e4a6-4d63-b61a-06e165a18846
-1 REPO @k6E4RMjOSJmHe9c6u2Rb@
+1 REPO @R1@
 1 TITL U.S., Civil War Soldier Records and Profiles, 1861-1865
 1 AUTH Historical Data Systems, comp
 1 PUBL Ancestry.com Operations Inc; Location: Provo, UT, USA; Date
 2 CONC : 2009
 0 @RoigS9YtRYusWDjOpl6B@ SOUR
 1 REFN 708487a3-ca47-4e4b-80a6-7095a9ddfaa6
-1 REPO @k6E4RMjOSJmHe9c6u2Rb@
+1 REPO @R1@
 1 TITL U.S., Department of Veterans Affairs BIRLS Death File, 1850-
 2 CONC 2010
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2011
 0 @S102@ SOUR
-1 REPO @k6E4RMjOSJmHe9c6u2Rb@
+1 REPO @R1@
 1 TITL U.S., Find A Grave Index, 1600s-Current
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2012
 0 @2ohzQhR2QbCCjLNJXv3X@ SOUR
 1 REFN 4880a24a-4dea-4e3a-a21a-e0aab0675c58
-1 REPO @k6E4RMjOSJmHe9c6u2Rb@
+1 REPO @R1@
 1 TITL U.S., Indexed County Land Ownership Maps, 1860-1918
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2010
 0 @S96@ SOUR
-1 REPO @k6E4RMjOSJmHe9c6u2Rb@
+1 REPO @R1@
 1 TITL U.S., Social Security Applications and Claims Index, 1936-20
 2 CONC 07
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2015
 0 @NOkWCGM8RZO0xw4vd39X@ SOUR
-1 REFN 2206a1ed-4c9d-4d91-8c61-925b92e4e627
-1 REPO @k6E4RMjOSJmHe9c6u2Rb@
+1 REPO @R3@
 1 TITL U.S., Social Security Death Index, 1935-2014
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations Inc; Location: Provo, UT, USA; Date
-2 CONC : 2011
-1 TEXT Social Security Administration. <i>Social Security Death Ind
-2 CONC ex, Master File</i>. Social Security Administration.
+2 CONC : 2014
 0 @S124@ SOUR
-1 REPO @k6E4RMjOSJmHe9c6u2Rb@
+1 REPO @R1@
 1 TITL U.S., Sons of the American Revolution Membership Application
 2 CONC s, 1889-1970
 1 AUTH Ancestry.com
@@ -12136,18 +14215,17 @@
 2 CONC e: 2011
 0 @viYTXJofSDu0MAS7NBW2@ SOUR
 1 REFN 69c43fb4-1828-42d8-9e5e-8d4e11ba687f
-1 REPO @k6E4RMjOSJmHe9c6u2Rb@
+1 REPO @R1@
 1 TITL U.S., World War I Draft Registration Cards, 1917-1918
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations Inc; Location: Provo, UT, USA; Date
 2 CONC : 2005
 0 @I7OszYmrQJOlFALLPwyF@ SOUR
-1 REFN baf48101-bd3b-49b7-863d-91d984044f52
-1 REPO @k6E4RMjOSJmHe9c6u2Rb@
+1 REPO @R3@
 1 TITL U.S., World War II Draft Registration Cards, 1942
 1 AUTH Ancestry.com
-1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
-2 CONC e: 2010
+1 PUBL Ancestry.com Operations, Inc.; Location: Lehi, UT, USA; Date
+2 CONC : 2010
 0 @ATOIHwlKQjiAtBto1t6K@ SOUR
 1 REFN 30683463-e92a-4922-9330-f116bd40ca1e
 1 TITL US Census, 1830, NY, Onondaga, Lysander
@@ -12219,7 +14297,7 @@
 2 CONT Geo. " 3<br />
 2 CONT Frederick " 6<br />
 2 CONT Louisa " 2<br />
-0 @HLhk0jdtRUKtnFgGtBVN@ SOUR
+0 @S126@ SOUR
 1 TITL US Census, 1850, NY, Madison, Cazenovia
 1 AUTH US Census Bureau
 1 PUBL M432_526, p. 110
@@ -12742,20 +14820,20 @@
 1 AUTH Waite, Geraldine
 1 PUBL ancestry.com
 0 @S141@ SOUR
-1 REPO @k6E4RMjOSJmHe9c6u2Rb@
+1 REPO @R1@
 1 TITL Web: Illinois, Find A Grave Index, 1809-2012
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2012
 0 @S121@ SOUR
-1 REPO @k6E4RMjOSJmHe9c6u2Rb@
+1 REPO @R1@
 1 TITL Web: Michigan, Find A Grave Index, 1805-2012
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2012
 0 @rp9Z8lHgQkCUwI6kJGpm@ SOUR
 1 REFN 40d09219-b800-4e70-a08e-5e2b20dca5e4
-1 REPO @k6E4RMjOSJmHe9c6u2Rb@
+1 REPO @R1@
 1 TITL Web: New York, Find A Grave Index, 1660-2012
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
@@ -14316,4 +16394,213 @@
 2 _TEXT Year: 1840; Census Place: Bronson, Branch, Michigan; Roll: 2
 3 CONC 03; Page: 75; Image: 158; Family History Library Film: 00147
 3 CONC 95
+0 @M212@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Colvin Media\19
+2 CONC 40 United States Federal Census(1).jpg
+2 FORM jpg
+2 TITL 1940 United States Federal Census
+2 _TEXT Year: 1940; Census Place: Rome, Oneida, New York; Roll: m-t0
+3 CONC 627-02701; Page: 6A; Enumeration District: 33-71
+0 @M213@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Colvin Media\Ne
+2 CONC w York, State Census, 1915(2).jpg
+2 FORM jpg
+2 TITL New York, State Census, 1915
+2 _TEXT New York State Archives; Albany, New York; State Populatio
+3 CONC n Census Schedules, 1915; Election District: 01; Assembly Di
+3 CONC strict: 01; City: Georgetown; County: Madison; Page: 12
+0 @M214@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Colvin Media\19
+2 CONC 10 United States Federal Census(4).jpg
+2 FORM jpg
+2 TITL 1910 United States Federal Census
+2 _TEXT Year: 1910; Census Place: Hamilton, Madison, New York; Roll
+3 CONC : T624_987; Page: 10A; Enumeration District: 0013; FHL micro
+3 CONC film: 1375000
+0 @M215@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Colvin Media\19
+2 CONC 10 United States Federal Census(5).jpg
+2 FORM jpg
+2 TITL 1910 United States Federal Census
+2 _TEXT Year: 1910; Census Place: Hamilton, Madison, New York; Roll
+3 CONC : T624_987; Page: 8B; Enumeration District: 0013; FHL microf
+3 CONC ilm: 1375000
+0 @M216@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Colvin Media\19
+2 CONC 20 United States Federal Census(3).jpg
+2 FORM jpg
+2 TITL 1920 United States Federal Census
+2 _TEXT Year: 1920; Census Place: Hamilton, Madison, New York; Roll
+3 CONC : T625_1118; Page: 3A; Enumeration District: 110
+0 @M217@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Colvin Media\Ne
+2 CONC w York, State Census, 1925(4).jpg
+2 FORM jpg
+2 TITL New York, State Census, 1925
+2 _TEXT New York State Archives; Albany, New York; State Populatio
+3 CONC n Census Schedules, 1925; Election District: 05; Assembly Di
+3 CONC strict: 01; City: Hamilton; County: Madison; Page: 3
+0 @M218@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Colvin Media\U.
+2 CONC S., World War II Draft Registration Cards, 1942.jpg
+2 FORM jpg
+2 TITL U.S., World War II Draft Registration Cards, 1942
+2 _TEXT The National Archives at St. Louis; St. Louis, Missouri; Wor
+3 CONC ld War II Draft Cards (Fourth Registration) for the State o
+3 CONC f New York; Record Group Title: Records of the Selective Ser
+3 CONC vice System, 1926-1975; Record Group Number: 147; Box or Rol
+3 CONC l Number: 114
+0 @M219@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Colvin Media\Ne
+2 CONC w York, State Census, 1892(3).jpg
+2 FORM jpg
+2 TITL New York, State Census, 1892
+0 @M220@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Colvin Media\Ne
+2 CONC w York, State Census, 1905(1).jpg
+2 FORM jpg
+2 TITL New York, State Census, 1905
+2 _TEXT New York State Archives; Albany, New York; State Populatio
+3 CONC n Census Schedules, 1905; City: Fenner; County: Madison; Pag
+3 CONC e: 2
+0 @M221@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Colvin Media\Ne
+2 CONC w York, State Census, 1865(1).jpg
+2 FORM jpg
+2 TITL New York, State Census, 1865
+0 @M222@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Colvin Media\Ne
+2 CONC w York State, Birth Index, 1881-1942.jpg
+2 FORM jpg
+2 TITL New York State, Birth Index, 1881-1942
+2 _TEXT New York State Department of Health; Albany, NY, USA; New Yo
+3 CONC rk State Birth Index
+0 @M223@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Colvin Media\19
+2 CONC 00 United States Federal Census(2).jpg
+2 FORM jpg
+2 TITL 1900 United States Federal Census
+2 _TEXT Year: 1900; Census Place: Eaton, Madison, New York; Page: 6
+3 CONC ; Enumeration District: 0009; FHL microfilm: 1241071
+0 @M224@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Colvin Media\Ne
+2 CONC w York State, Marriage Index, 1881-1967.jpg
+2 FORM jpg
+2 TITL New York State, Marriage Index, 1881-1967
+2 _TEXT New York State Department of Health; Albany, NY, USA; New Yo
+3 CONC rk State Marriage Index
+0 @M225@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Colvin Media\Ne
+2 CONC w York, Death Index, 1880-1956(8).jpg
+2 FORM jpg
+2 TITL New York, Death Index, 1880-1956
+2 _TEXT New York Department of Health; Albany, NY; NY State Death In
+3 CONC dex
+0 @M226@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Colvin Media\19
+2 CONC 30 United States Federal Census(3).jpg
+2 FORM jpg
+2 TITL 1930 United States Federal Census
+2 _TEXT Year: 1930; Census Place: Marcy, Oneida, New York; Page: 5B
+3 CONC ; Enumeration District: 0023; FHL microfilm: 2341354
+0 @M227@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Colvin Media\19
+2 CONC 00 United States Federal Census(3).jpg
+2 FORM jpg
+2 TITL 1900 United States Federal Census
+2 _TEXT Year: 1900; Census Place: Smithfield, Madison, New York; Pag
+3 CONC e: 1; Enumeration District: 0030; FHL microfilm: 1241072
+0 @M228@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Colvin Media\Ne
+2 CONC w York State, Birth Index, 1881-1942(1).jpg
+2 FORM jpg
+2 TITL New York State, Birth Index, 1881-1942
+2 _TEXT New York State Department of Health; Albany, NY, USA; New Yo
+3 CONC rk State Birth Index
+0 @M229@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Colvin Media\Ne
+2 CONC w York, Death Index, 1880-1956(9).jpg
+2 FORM jpg
+2 TITL New York, Death Index, 1880-1956
+2 _TEXT New York Department of Health; Albany, NY; NY State Death In
+3 CONC dex
+0 @M230@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Colvin Media\19
+2 CONC 20 United States Federal Census(4).jpg
+2 FORM jpg
+2 TITL 1920 United States Federal Census
+2 _TEXT Year: 1920; Census Place: Eaton, Madison, New York; Roll: T6
+3 CONC 25_1118; Page: 7A; Enumeration District: 105
+0 @M231@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Colvin Media\19
+2 CONC 10 United States Federal Census(7).jpg
+2 FORM jpg
+2 TITL 1910 United States Federal Census
+2 _TEXT Year: 1910; Census Place: Fenner, Madison, New York; Roll: T
+3 CONC 624_987; Page: 2A; Enumeration District: 0010; FHL microfilm
+3 CONC : 1375000
+0 @M232@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Colvin Media\Ne
+2 CONC w York, State Census, 1915(3).jpg
+2 FORM jpg
+2 TITL New York, State Census, 1915
+2 _TEXT New York State Archives; Albany, New York; State Populatio
+3 CONC n Census Schedules, 1915; Election District: 01; Assembly Di
+3 CONC strict: 01; City: Eaton; County: Madison; Page: 15
+0 @M233@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Colvin Media\Ne
+2 CONC w York State, Marriage Index, 1881-1967(1).jpg
+2 FORM jpg
+2 TITL New York State, Marriage Index, 1881-1967
+2 _TEXT New York State Department of Health; Albany, NY, USA; New Yo
+3 CONC rk State Marriage Index
+0 @M234@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Colvin Media\19
+2 CONC 30 United States Federal Census(4).jpg
+2 FORM jpg
+2 TITL 1930 United States Federal Census
+2 _TEXT Year: 1930; Census Place: Smithfield, Madison, New York; Pag
+3 CONC e: 6A; Enumeration District: 0040; FHL microfilm: 2341181
+0 @M235@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Colvin Media\Ne
+2 CONC w York State, Marriage Index, 1881-1967(2).jpg
+2 FORM jpg
+2 TITL New York State, Marriage Index, 1881-1967
+2 _TEXT New York State Department of Health; Albany, NY, USA; New Yo
+3 CONC rk State Marriage Index
+0 @M236@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Colvin Media\Ne
+2 CONC w York State, Marriage Index, 1881-1967(3).jpg
+2 FORM jpg
+2 TITL New York State, Marriage Index, 1881-1967
+2 _TEXT New York State Department of Health; Albany, NY, USA; New Yo
+3 CONC rk State Marriage Index
+0 @M237@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Colvin Media\19
+2 CONC 20 United States Federal Census(6).jpg
+2 FORM jpg
+2 TITL 1920 United States Federal Census
+2 _TEXT Year: 1920; Census Place: Waverly, Tioga, New York; Roll: T6
+3 CONC 25_1270; Page: 19A; Enumeration District: 151
+0 @M238@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Colvin Media\18
+2 CONC 80 United States Federal Census(2).jpg
+2 FORM jpg
+2 TITL 1880 United States Federal Census
+2 _TEXT Year: 1880; Census Place: Georgetown, Madison, New York; Rol
+3 CONC l: 860; Page: 157C; Enumeration District: 057
+0 @M239@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Colvin Media\Ne
+2 CONC w York State, Marriage Index, 1881-1967(4).jpg
+2 FORM jpg
+2 TITL New York State, Marriage Index, 1881-1967
+2 _TEXT New York State Department of Health; Albany, NY, USA; New Yo
+3 CONC rk State Marriage Index
+0 @M240@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Colvin Media\Ne
+2 CONC w York State, Marriage Index, 1881-1967(5).jpg
+2 FORM jpg
+2 TITL New York State, Marriage Index, 1881-1967
+2 _TEXT New York State Department of Health; Albany, NY, USA; New Yo
+3 CONC rk State Marriage Index
 0 TRLR
