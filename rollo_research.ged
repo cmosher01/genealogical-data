@@ -5,7 +5,6 @@
 2 FORM LINEAGE-LINKED
 1 COPR Copyright © 1998–2019, Christopher Alan Mosher, Shelton, CT
 2 CONC , USA.
-1 SUBM
 1 SUBM @Umy2qBWIRUiwVSS6Hcn4@
 1 SOUR FTM
 2 VERS 23.2.0.1540
@@ -15,9 +14,9 @@
 4 CONT Boston, MA 02109
 3 PHON (617) 227-6681
 1 DEST FTM
-1 FILE rollo_research_2019-09-18-03-18-51.ftm.ged
-1 DATE 18 SEP 2019
-2 TIME 03:21:07
+1 FILE rollo_research_2019-09-21-16-06-08.ftm.ged
+1 DATE 21 SEP 2019
+2 TIME 16:06:40
 0 @Umy2qBWIRUiwVSS6Hcn4@ SUBM
 1 NAME Christopher Alan Mosher
 2 EMAIL cmosher01@@gmail.com
@@ -40,17 +39,17 @@
 2 PHON +1-203-513-9292
 1 LANG English
 1 RIN Umy2qBWIRUiwVSS6Hcn4
-0 SUBM
-1 NAME Not Given
 0 @I30@ INDI
 1 NAME Faith /Blackman/
 2 SOUR @S18@
 3 OBJE @M29@
 3 _APID 1,3032::537679
 2 SOUR @S16@
+3 PAGE Faith Blackman
 3 OBJE @M25@
 3 _APID 1,61367::2887
 2 SOUR @S15@
+3 PAGE Faith Blackman
 3 OBJE @M28@
 3 _APID 1,1062::95515
 1 SEX F
@@ -245,7 +244,7 @@
 1 BIRT
 2 DATE ABT 1875
 0 @I10@ INDI
-1 NAME Louisa /Byram/
+1 NAME Louisa A. /Byram/
 2 SOUR @S3@
 3 PAGE Year: 1850; Census Place: De Ruyter, Madison, New York; Roll
 4 CONC : M432_527; Page: 285A; Image: 30
@@ -307,24 +306,28 @@
 3 PAGE Year: 1850; Census Place: De Ruyter, Madison, New York; Roll
 4 CONC : M432_527; Page: 285A; Image: 30
 3 OBJE @M6@
+3 _APID 1,8054::7044427
 2 SOUR @S4@
 3 PAGE Year: 1860; Census Place: De Ruyter, Madison, New York; Roll
 4 CONC : M653_780; Page: 258; Family History Library Film: 803780
 3 OBJE @M5@
+3 _APID 1,7667::46710229
 2 SOUR @S6@
 3 PAGE Year: 1870; Census Place: Hardin, Hardin, Iowa; Roll: M593_3
 4 CONC 94; Page: 450A; Family History Library Film: 545893
 3 OBJE @M8@
+3 _APID 1,7163::35377409
 2 SOUR @S8@
 3 PAGE Year: 1880; Census Place: Iowa Falls, Hardin, Iowa; Roll: 34
 4 CONC 3; Page: 373B; Enumeration District: 117
 3 OBJE @M11@
+3 _APID 1,6742::32507927
 2 SOUR @S1@
 3 OBJE @M2@
+3 _APID 1,1084::6890447
 2 SOUR @S5@
 3 OBJE @M7@
-1 BIRT
-2 DATE ABT 1822
+3 _APID 1,7218::1863830
 1 RESI
 2 DATE 1850
 2 PLAC De Ruyter, Madison, New York, USA
@@ -442,7 +445,7 @@
 2 SOUR @S7@
 3 PAGE Iowa Department of Public Health; Des Moines, Iowa; Series T
 4 CONC itle: Iowa Marriage Records, 1880–1922; Record Type: Textua
-4 CONC l Records
+4 CONC l Records; Elnar C Jorden
 3 OBJE @M10@
 3 _APID 1,8823::3311867
 2 SOUR @S1@
@@ -459,7 +462,7 @@
 2 SOUR @S7@
 3 PAGE Iowa Department of Public Health; Des Moines, Iowa; Series T
 4 CONC itle: Iowa Marriage Records, 1880–1922; Record Type: Textua
-4 CONC l Records
+4 CONC l Records; Elnar C Jorden
 3 OBJE @M10@
 3 _APID 1,8823::3311867
 2 SOUR @S1@
@@ -592,26 +595,23 @@
 2 NOTE Relation to Head of House: Mother
 0 @I8@ INDI
 1 NAME Cornelia /Parslow/
-2 SOUR @S6@
-3 PAGE Year: 1870; Census Place: Georgetown, Madison, New York; Rol
-4 CONC l: M593_967; Page: 208A; Family History Library Film: 552466
-3 OBJE @M12@
-3 _APID 1,7163::24729335
 2 SOUR @S2@
 3 OBJE @M9@
 3 _APID 1,7181::1655657075
-2 SOUR @S5@
-3 OBJE @M7@
-3 _APID 1,7218::1863826
-2 SOUR @S12@
-3 OBJE @M22@
-3 _APID 1,7250::1398341614
 1 NAME Cornelia /Rollo/
 2 SOUR @S4@
 3 PAGE Year: 1860; Census Place: De Ruyter, Madison, New York; Roll
 4 CONC : M653_780; Page: 258; Family History Library Film: 803780
 3 OBJE @M5@
 3 _APID 1,7667::46710230
+2 SOUR @S6@
+3 PAGE Year: 1870; Census Place: Georgetown, Madison, New York; Rol
+4 CONC l: M593_967; Page: 208A; Family History Library Film: 552466
+3 OBJE @M12@
+3 _APID 1,7163::24729335
+2 SOUR @S5@
+3 OBJE @M7@
+3 _APID 1,7218::1863826
 1 SEX F
 1 FAMC @F1@
 1 FAMC @F4@
@@ -657,6 +657,9 @@
 2 SOUR @S2@
 3 OBJE @M9@
 3 _APID 1,7181::1655657075
+1 ADOP
+2 DATE ABT 1853
+2 PLAC DeRuyter, Madison, New York, USA
 1 RESI
 2 DATE 1855
 2 PLAC DeRuyter, Madison, New York, USA
@@ -1011,9 +1014,11 @@
 3 OBJE @M27@
 3 _APID 1,1034::517812
 2 SOUR @S16@
+3 PAGE Alexander Rollo
 3 OBJE @M25@
 3 _APID 1,61367::900002887
 2 SOUR @S15@
+3 PAGE Alexander Rollo
 3 OBJE @M24@
 3 _APID 1,1062::100422
 2 SOUR @S10@
@@ -1221,7 +1226,7 @@
 2 SOUR @S7@
 3 PAGE Iowa Department of Public Health; Des Moines, Iowa; Series T
 4 CONC itle: Iowa Marriage Records, 1880–1922; Record Type: Textua
-4 CONC l Records
+4 CONC l Records; Hattie Rollo
 3 OBJE @M10@
 3 _APID 1,8823::903311867
 2 SOUR @S1@
@@ -1257,7 +1262,7 @@
 2 SOUR @S7@
 3 PAGE Iowa Department of Public Health; Des Moines, Iowa; Series T
 4 CONC itle: Iowa Marriage Records, 1880–1922; Record Type: Textua
-4 CONC l Records
+4 CONC l Records; Hattie Rollo
 3 OBJE @M10@
 3 _APID 1,8823::903311867
 2 SOUR @S1@
@@ -1469,12 +1474,13 @@
 2 SOUR @S7@
 3 PAGE Iowa Department of Public Health; Des Moines, Iowa; Series T
 4 CONC itle: Iowa Marriage Records, 1880–1922; Record Type: Textua
-4 CONC l Records
+4 CONC l Records; Elnar C Jorden
 3 OBJE @M10@
+3 _APID 1,8823::3311867
 2 SOUR @S7@
 3 PAGE Iowa Department of Public Health; Des Moines, Iowa; Series T
 4 CONC itle: Iowa Marriage Records, 1880–1922; Record Type: Textua
-4 CONC l Records
+4 CONC l Records; Hattie Rollo
 3 OBJE @M10@
 0 @F3@ FAM
 1 HUSB @I6@
@@ -1554,12 +1560,18 @@
 4 LATI N41.6579
 4 LONG W72.3659
 2 SOUR @S16@
+3 PAGE Alexander Rollo
 3 OBJE @M25@
+3 _APID 1,61367::900002887
 2 SOUR @S16@
+3 PAGE Faith Blackman
 3 OBJE @M25@
 2 SOUR @S15@
+3 PAGE Alexander Rollo
 3 OBJE @M24@
+3 _APID 1,1062::100422
 2 SOUR @S15@
+3 PAGE Faith Blackman
 3 OBJE @M28@
 0 @R1@ REPO
 1 NAME Ancestry.com
