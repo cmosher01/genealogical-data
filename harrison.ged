@@ -3,23 +3,24 @@
 1 GEDC
 2 VERS 5.5.1
 2 FORM LINEAGE-LINKED
-1 COPR Copyright © 1998, Christopher Alan Mosher, Shelton, CT, USA.
+1 COPR Copyright © 1998–2019, Christopher Alan Mosher, Shelton, CT
+2 CONC , USA.
 1 SUBM @Umy2qBWIRUiwVSS6Hcn4@
 1 SOUR FTM
-2 VERS 23.1.0.1480
+2 VERS 23.2.0.1540
 2 NAME Family Tree Maker for Windows
 2 CORP The Software MacKiev Company
 3 ADDR 30 Union Wharf
 4 CONT Boston, MA 02109
 3 PHON (617) 227-6681
 1 DEST FTM
-1 FILE Harrison_2018-09-21-03-53-34.ftm.ged
-1 DATE 21 SEP 2018
-2 TIME 03:55:10
+1 FILE Harrison_2019-09-23-03-11-34.ftm.ged
+1 DATE 23 SEP 2019
+2 TIME 03:12:58
 0 @Umy2qBWIRUiwVSS6Hcn4@ SUBM
 1 NAME Christopher Alan Mosher
 2 EMAIL cmosher01@@gmail.com
-2 WWW http://mosher.mine.nu/
+2 WWW https://mosher.mine.nu/
 2 WWW https://github.com/cmosher01/
 2 WWW https://www.ancestry.com/connect/Profile/0065664a-0000-0000-
 3 CONC 0000-000000000000
@@ -3123,10 +3124,8 @@
 3 _APID 1,60984::1655376
 2 SOUR @mp2HZlANToGEkMWe1M21@
 3 OBJE @XhoASt1HSQO12DDG6h9T@
-3 _APID 1,1084::797228
-2 SOUR @9wwI0O5SSRGepPcObqJB@
+2 SOUR @mp2HZlANToGEkMWe1M21@
 3 OBJE @gy1ExJerSRSe6CkEt83v@
-3 _APID 1,1084::4025317
 2 SOUR @D5SLrrBySbi6oa3ygAnv@
 3 OBJE @MocQBuBqRuie1f6xVnd9@
 3 _APID 1,2469::913066080
@@ -3170,10 +3169,8 @@
 3 _APID 1,6061::28692383
 2 SOUR @mp2HZlANToGEkMWe1M21@
 3 OBJE @XhoASt1HSQO12DDG6h9T@
-3 _APID 1,1084::797228
-2 SOUR @9wwI0O5SSRGepPcObqJB@
+2 SOUR @mp2HZlANToGEkMWe1M21@
 3 OBJE @gy1ExJerSRSe6CkEt83v@
-3 _APID 1,1084::4025317
 2 SOUR @fgk8xAOsQLeHP2vct6BI@
 3 _APID 1,60525::51687034
 1 RESI
@@ -3267,7 +3264,7 @@
 3 MAP
 4 LATI N42.4755
 4 LONG W92.0638
-2 SOUR @9wwI0O5SSRGepPcObqJB@
+2 SOUR @mp2HZlANToGEkMWe1M21@
 3 OBJE @gy1ExJerSRSe6CkEt83v@
 3 _APID 1,1084::4025317
 2 NOTE Marital Status: Widowed; Relation to Head of House: Sister
@@ -3535,6 +3532,11 @@
 4 CONC : 803863
 3 OBJE @b2u36U1USuizC60h883k@
 3 _APID 1,7667::48690867
+2 SOUR @HQvR6QLyTimkjcRZMuAs@
+3 PAGE Year: 1870; Census Place: Hornby, Steuben, New York; Roll: M
+4 CONC 593_1095; Page: 218B; Family History Library Film: 552594
+3 OBJE @M90@
+3 _APID 1,7163::32339277
 2 SOUR @CkKLYvzoRNCSytJt2rxR@
 3 PAGE Year: 1880; Census Place: Hornby, Steuben, New York; Roll: 9
 4 CONC 33; Family History Film: 1254933; Page: 265B; Enumeration Di
@@ -3577,6 +3579,11 @@
 4 CONC : 803863
 3 OBJE @b2u36U1USuizC60h883k@
 3 _APID 1,7667::48690867
+2 SOUR @HQvR6QLyTimkjcRZMuAs@
+3 PAGE Year: 1870; Census Place: Hornby, Steuben, New York; Roll: M
+4 CONC 593_1095; Page: 218B; Family History Library Film: 552594
+3 OBJE @M90@
+3 _APID 1,7163::32339277
 2 SOUR @CkKLYvzoRNCSytJt2rxR@
 3 PAGE Year: 1880; Census Place: Hornby, Steuben, New York; Roll: 9
 4 CONC 33; Family History Film: 1254933; Page: 265B; Enumeration Di
@@ -3643,6 +3650,19 @@
 3 OBJE @QfCArKjMRBWphkhyRMH3@
 3 _APID 1,7218::759240
 2 NOTE Relation to Head of House: Wife
+2 NOTE Relation to Head of House: Wife
+1 RESI
+2 DATE 1870
+2 PLAC Hornby, Steuben, New York, USA
+3 MAP
+4 LATI N42.2442
+4 LONG W77.0444
+2 SOUR @HQvR6QLyTimkjcRZMuAs@
+3 PAGE Year: 1870; Census Place: Hornby, Steuben, New York; Roll: M
+4 CONC 593_1095; Page: 218B; Family History Library Film: 552594
+3 OBJE @M90@
+3 _APID 1,7163::32339277
+2 NOTE Residence Post Office: Hornby
 1 RESI
 2 DATE 01 JUN 1875
 2 PLAC Hornby, Steuben, New York, USA
@@ -3712,6 +3732,142 @@
 1 DEAT
 2 DATE 08 APR 1971
 1 _XY 85374 2636
+0 @I579@ INDI
+1 REFN a186588f-b74d-440a-909c-bb4dc9d992d4
+1 NAME Augusta /Harrison/
+2 SOUR @HQvR6QLyTimkjcRZMuAs@
+3 PAGE Year: 1870; Census Place: Hornby, Steuben, New York; Roll: M
+4 CONC 593_1095; Page: 218B; Family History Library Film: 552594
+3 OBJE @M90@
+3 _APID 1,7163::32339278
+2 SOUR @9HZoDLydRjGBZ5Mms0jb@
+3 OBJE @M91@
+3 _APID 1,7218::759242
+1 SEX F
+1 FAMC @NgZfqUCfTmCWYRPpoe0p@
+1 BIRT
+2 DATE ABT 1848
+2 PLAC New York, USA
+3 MAP
+4 LATI N42.7531
+4 LONG W74.2224
+2 SOUR @HQvR6QLyTimkjcRZMuAs@
+3 PAGE Year: 1870; Census Place: Hornby, Steuben, New York; Roll: M
+4 CONC 593_1095; Page: 218B; Family History Library Film: 552594
+3 OBJE @M90@
+3 _APID 1,7163::32339278
+2 SOUR @9HZoDLydRjGBZ5Mms0jb@
+3 OBJE @M91@
+3 _APID 1,7218::759242
+1 RESI
+2 DATE 1865
+2 PLAC Hornby, Steuben, New York, USA
+3 MAP
+4 LATI N42.2442
+4 LONG W77.0444
+2 SOUR @9HZoDLydRjGBZ5Mms0jb@
+3 OBJE @M91@
+3 _APID 1,7218::759242
+2 NOTE Relation to Head of House: Daughter
+1 RESI
+2 DATE 1870
+2 PLAC Hornby, Steuben, New York, USA
+3 MAP
+4 LATI N42.2442
+4 LONG W77.0444
+2 SOUR @HQvR6QLyTimkjcRZMuAs@
+3 PAGE Year: 1870; Census Place: Hornby, Steuben, New York; Roll: M
+4 CONC 593_1095; Page: 218B; Family History Library Film: 552594
+3 OBJE @M90@
+3 _APID 1,7163::32339278
+2 NOTE Residence Post Office: Hornby
+0 @I587@ INDI
+1 REFN 80a2b1d3-e607-406d-8a48-729fda5e88d1
+1 NAME Charles M. /Harrison/
+2 SOUR @52KZlTzERiy29VDq6FXg@
+3 PAGE Year: 1860; Census Place: Orange, Schuyler, New York; Roll
+4 CONC : M653_859; Page: 525; Family History Library Film: 803859
+3 OBJE @M93@
+3 _APID 1,7667::48587554
+2 SOUR @HQvR6QLyTimkjcRZMuAs@
+3 PAGE Year: 1870; Census Place: Orange, Schuyler, New York; Roll
+4 CONC : M593_1092; Page: 623B; Family History Library Film: 552591
+3 OBJE @M96@
+3 _APID 1,7163::32272046
+2 SOUR @sXyDkhg5SlSi1Km4RUgO@
+3 OBJE @M95@
+3 _APID 1,7181::1655283560
+2 SOUR @9HZoDLydRjGBZ5Mms0jb@
+3 OBJE @M92@
+3 _APID 1,7218::2174081
+1 SEX M
+1 FAMC @F477@
+1 BIRT
+2 DATE ABT 1854
+2 PLAC New York, USA
+3 MAP
+4 LATI N42.7531
+4 LONG W74.2224
+2 SOUR @52KZlTzERiy29VDq6FXg@
+3 PAGE Year: 1860; Census Place: Orange, Schuyler, New York; Roll
+4 CONC : M653_859; Page: 525; Family History Library Film: 803859
+3 OBJE @M93@
+3 _APID 1,7667::48587554
+2 SOUR @HQvR6QLyTimkjcRZMuAs@
+3 PAGE Year: 1870; Census Place: Orange, Schuyler, New York; Roll
+4 CONC : M593_1092; Page: 623B; Family History Library Film: 552591
+3 OBJE @M96@
+3 _APID 1,7163::32272046
+2 SOUR @sXyDkhg5SlSi1Km4RUgO@
+3 OBJE @M95@
+3 _APID 1,7181::1655283560
+2 SOUR @9HZoDLydRjGBZ5Mms0jb@
+3 OBJE @M92@
+3 _APID 1,7218::2174081
+1 RESI
+2 DATE 1855
+2 PLAC Orange, Schuyler, New York, USA
+3 MAP
+4 LATI N42.3328
+4 LONG W77.0353
+2 SOUR @sXyDkhg5SlSi1Km4RUgO@
+3 OBJE @M95@
+3 _APID 1,7181::1655283560
+2 NOTE Relation to Head: Child
+1 RESI
+2 DATE 1860
+2 PLAC Orange, Schuyler, New York, USA
+3 MAP
+4 LATI N42.3328
+4 LONG W77.0353
+2 SOUR @52KZlTzERiy29VDq6FXg@
+3 PAGE Year: 1860; Census Place: Orange, Schuyler, New York; Roll
+4 CONC : M653_859; Page: 525; Family History Library Film: 803859
+3 OBJE @M93@
+3 _APID 1,7667::48587554
+2 NOTE Residence Post Office: Orange
+1 RESI
+2 DATE 1865
+2 PLAC Orange, Schuyler, New York, USA
+3 MAP
+4 LATI N42.3328
+4 LONG W77.0353
+2 SOUR @9HZoDLydRjGBZ5Mms0jb@
+3 OBJE @M92@
+3 _APID 1,7218::2174081
+2 NOTE Relation to Head of House: Son
+1 RESI
+2 DATE 1870
+2 PLAC Orange, Schuyler, New York, USA
+3 MAP
+4 LATI N42.3328
+4 LONG W77.0353
+2 SOUR @HQvR6QLyTimkjcRZMuAs@
+3 PAGE Year: 1870; Census Place: Orange, Schuyler, New York; Roll
+4 CONC : M593_1092; Page: 623B; Family History Library Film: 552591
+3 OBJE @M96@
+3 _APID 1,7163::32272046
+2 NOTE Residence Post Office: Tyrone
 0 @mJF43POyQIyPHyJAHEIh@ INDI
 1 REFN dedbb5a5-0eb1-48fa-8ce1-102439c65173
 1 NAME Edward /Harrison/
@@ -3750,6 +3906,9 @@
 2 SOUR @sXyDkhg5SlSi1Km4RUgO@
 3 OBJE @tl76ehlFQiy1DfZ6Vi0o@
 3 _APID 1,7181::1655632051
+2 SOUR @9HZoDLydRjGBZ5Mms0jb@
+3 OBJE @M97@
+3 _APID 1,7218::774213
 1 SEX F
 1 FAMC @YSFEAskmSZ2OCjU3KRYy@
 1 BIRT
@@ -3769,10 +3928,37 @@
 4 CONC : 803863
 3 OBJE @uHT1SFrRStKZZLJf0T3S@
 3 _APID 1,7667::48691874
+2 SOUR @iZlulgkISMSpUuqa7YAc@
+3 PAGE <bibl> <title level="u">Jesse Sands Family Bible Records, 17
+4 CONC 68–1943</title>, <title level="m">The Holy Bible: Containin
+4 CONC g the Old and New Testaments: Together with the Apocrypha</t
+4 CONC itle>, (<pubPlace>Philadelphia</pubPlace>: <publisher>Mathe
+4 CONC w Carey</publisher>, <date>1911</date>), <citedRange>677–80<
+4 CONC /citedRange>, “Family Record”; privately held by Christophe
+4 CONC r Alan Mosher, Shelton, Connecticut, USA, 2019; digital imag
+4 CONC es with diplomatic transcription, <title level="u">Harriso
+4 CONC n Documents</title>, <author>Christopher A. Mosher</author>
+4 CONC , <title level="m">Archive of Historical Family Documents</t
+4 CONC itle> (<ref target="https://mosher.mine.nu/tei/genealogy/mai
+4 CONC n/sources/old/harrison/sands_bible.png.xml.tei.xml"/> : 22 S
+4 CONC ep 2019). Binding is brown leather, dimensions approximatel
+4 CONC y 234 × 281 × 89 mm, “HOLY-BIBLE” on spine, front title pag
+4 CONC e is missing, but it has “New Testament” title page betwee
+4 CONC n pages 834 and 835 (note: page numbers 829–834 are duplicat
+4 CONC ed), page one begins with “¶ The <hi rend="sc">first book</h
+4 CONC i> of <hi rend="sc">moses</hi>, <hi rend="sc">called</hi> <h
+4 CONC i rend="sc">genesis</hi>.” Entries are handwritten in ink, m
+4 CONC ostly dark, but a few entries have faded, the entries are i
+4 CONC n various different hands. Ownership probably: Jesse Sands
+4 CONC , Mary Sands Harrison, Henry Francis Harrison, George Elme
+4 CONC r Harrison, John Harrison, Sally Harrison Brown Duff, Christ
+4 CONC opher Alan Mosher. </bibl>
 2 SOUR @sXyDkhg5SlSi1Km4RUgO@
 3 OBJE @tl76ehlFQiy1DfZ6Vi0o@
 3 _APID 1,7181::1655632051
-2 SOUR @iZlulgkISMSpUuqa7YAc@
+2 SOUR @9HZoDLydRjGBZ5Mms0jb@
+3 OBJE @M97@
+3 _APID 1,7218::774213
 1 RESI
 2 DATE 1850
 2 PLAC Hornby, Steuben, New York, USA
@@ -3807,6 +3993,16 @@
 3 OBJE @uHT1SFrRStKZZLJf0T3S@
 3 _APID 1,7667::48691874
 2 NOTE Age: 17
+1 RESI
+2 DATE 1865
+2 PLAC Hornby, Steuben, New York, USA
+3 MAP
+4 LATI N42.2442
+4 LONG W77.0444
+2 SOUR @9HZoDLydRjGBZ5Mms0jb@
+3 OBJE @M97@
+3 _APID 1,7218::774213
+2 NOTE Relation to Head of House: Daughter
 1 DEAT
 2 DATE 14 JUN 1915
 2 PLAC Hornby, Steuben, New York, USA
@@ -3837,8 +4033,11 @@
 3 DATA
 4 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=62861
 5 CONC &pid=526
-2 SOUR @E90P0XFESRySLVzVjGNN@
-3 QUAY 1
+2 SOUR @S181@
+3 PAGE State Historical Society of Iowa; Des Moines, Iowa; Iowa Dea
+4 CONC th Records; Reference Number: 101821058
+3 OBJE @M98@
+3 _APID 1,61442::600383953
 2 SOUR @fgk8xAOsQLeHP2vct6BI@
 3 _APID 1,60525::104108097
 2 SOUR @yFxQHMAuSEmv66wxgGMH@
@@ -3858,6 +4057,30 @@
 3 OBJE @Y6Q05VnYRHyDqU81dT4i@
 3 _APID 1,8054::8455283
 2 SOUR @iZlulgkISMSpUuqa7YAc@
+3 PAGE <bibl> <title level="u">Jesse Sands Family Bible Records, 17
+4 CONC 68–1943</title>, <title level="m">The Holy Bible: Containin
+4 CONC g the Old and New Testaments: Together with the Apocrypha</t
+4 CONC itle>, (<pubPlace>Philadelphia</pubPlace>: <publisher>Mathe
+4 CONC w Carey</publisher>, <date>1911</date>), <citedRange>677–80<
+4 CONC /citedRange>, “Family Record”; privately held by Christophe
+4 CONC r Alan Mosher, Shelton, Connecticut, USA, 2019; digital imag
+4 CONC es with diplomatic transcription, <title level="u">Harriso
+4 CONC n Documents</title>, <author>Christopher A. Mosher</author>
+4 CONC , <title level="m">Archive of Historical Family Documents</t
+4 CONC itle> (<ref target="https://mosher.mine.nu/tei/genealogy/mai
+4 CONC n/sources/old/harrison/sands_bible.png.xml.tei.xml"/> : 22 S
+4 CONC ep 2019). Binding is brown leather, dimensions approximatel
+4 CONC y 234 × 281 × 89 mm, “HOLY-BIBLE” on spine, front title pag
+4 CONC e is missing, but it has “New Testament” title page betwee
+4 CONC n pages 834 and 835 (note: page numbers 829–834 are duplicat
+4 CONC ed), page one begins with “¶ The <hi rend="sc">first book</h
+4 CONC i> of <hi rend="sc">moses</hi>, <hi rend="sc">called</hi> <h
+4 CONC i rend="sc">genesis</hi>.” Entries are handwritten in ink, m
+4 CONC ostly dark, but a few entries have faded, the entries are i
+4 CONC n various different hands. Ownership probably: Jesse Sands
+4 CONC , Mary Sands Harrison, Henry Francis Harrison, George Elme
+4 CONC r Harrison, John Harrison, Sally Harrison Brown Duff, Christ
+4 CONC opher Alan Mosher. </bibl>
 3 QUAY 1
 2 SOUR @fgk8xAOsQLeHP2vct6BI@
 3 _APID 1,60525::104108097
@@ -4015,6 +4238,11 @@
 3 DATA
 4 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=62861
 5 CONC &pid=28
+2 SOUR @S175@
+3 PAGE New York State Department of Health; Albany, NY, USA; New Yo
+4 CONC rk State Marriage Index
+3 OBJE @M88@
+3 _APID 1,61632::1663612
 2 SOUR @no7YvbwBTZSkjmmfIcME@
 3 OBJE @ShTO93LeQX6QHoJyeHB8@
 3 _APID 1,7250::1382758778
@@ -4130,11 +4358,6 @@
 2 NOTE 1900 census: Nov. 1873, NY.
 3 CONT Leo Harrison says Harrison Homestead
 1 RESI
-2 DATE FROM 11 NOV 1873 TO 1908
-2 PLAC Harrison Homestead, Hornby, Steuben, New York, USA
-2 SOUR @1SIe6ODlREuvmbzQ0vzX@
-3 QUAY 1
-1 RESI
 2 DATE 01 JUN 1875
 2 PLAC Hornby, Steuben, New York, USA
 3 MAP
@@ -4182,10 +4405,6 @@
 2 DATE ABT 1885
 2 SOUR @PNQY2FhbRBuNPRTF6XbP@
 3 QUAY 3
-1 RESI
-2 DATE BET 11 NOV 1873 AND 1908
-2 PLAC Harrison Homestead, Hornby, Steuben, New York, USA
-2 SOUR @qXSyzctCQSaEN0y13kUM@
 1 RESI
 2 DATE 1892
 2 PLAC Hornby, Steuben, New York, USA
@@ -4244,8 +4463,17 @@
 3 OBJE @zYCyNr7iQvCXIXzFT3Ts@
 3 _APID 1,7364::409022
 2 NOTE Relation to Head of House: Son
+1 RESI
+2 DATE 1908
+2 PLAC Hornby, Steuben, New York, USA
+3 MAP
+4 LATI N42.2442
+4 LONG W77.0444
+2 SOUR @1SIe6ODlREuvmbzQ0vzX@
+3 QUAY 1
+2 NOTE Moved out of the Harrison Homestead house in 1908.
 1 OCCU census taker
-2 DATE FROM 15 APR 1910 TO 05 MAY 1910
+2 DATE 15 APR 1910
 2 PLAC Hornby, Steuben, New York, USA
 3 MAP
 4 LATI N42.2442
@@ -4296,15 +4524,13 @@
 2 SOUR @Nfc6qyJDTRKsFIMkH0WF@
 3 QUAY 3
 1 OCCU census taker
-2 DATE FROM 02 JAN 1920 TO 23 JAN 1920
+2 DATE 02 JAN 1920
 2 PLAC Hornby, Steuben, New York, USA
 3 MAP
 4 LATI N42.2442
 4 LONG W77.0444
 2 SOUR @Nfc6qyJDTRKsFIMkH0WF@
 3 QUAY 3
-2 NOTE pages after 23 Jan are not dated, so may have extended pas
-3 CONC t the 23rd.
 1 RESI
 2 DATE 1920
 2 PLAC Hornby, Steuben, New York, USA
@@ -4419,7 +4645,6 @@
 2 SOUR @AfobpwCSS3G795s4F5xQ@
 2 SOUR @1SIe6ODlREuvmbzQ0vzX@
 3 QUAY 1
-2 SOUR @qXSyzctCQSaEN0y13kUM@
 2 SOUR @fgk8xAOsQLeHP2vct6BI@
 3 _APID 1,60525::46327852
 2 SOUR @yFxQHMAuSEmv66wxgGMH@
@@ -4428,8 +4653,8 @@
 1 RELI Catholic
 2 SOUR @1SIe6ODlREuvmbzQ0vzX@
 3 QUAY 1
-2 SOUR @qXSyzctCQSaEN0y13kUM@
 1 _XY 85231 2487
+1 _PHOTO @QLNFJ1K5QuKfFCXXAnml@
 0 @DeD6co9kRcuX8FKkxyQ9@ INDI
 1 REFN 8ed6d2ea-adb1-42d6-8fd2-6d16cef35d0d
 1 NAME Gerald Vincent /Harrison/
@@ -4448,8 +4673,6 @@
 3 DATA
 4 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=62861
 5 CONC &pid=527
-2 SOUR @E90P0XFESRySLVzVjGNN@
-3 QUAY 1
 1 SEX F
 1 FAMC @PJVSYwODQruvZvNmcrDX@
 1 BIRT
@@ -4518,12 +4741,23 @@
 2 SOUR @sXyDkhg5SlSi1Km4RUgO@
 3 OBJE @tl76ehlFQiy1DfZ6Vi0o@
 3 _APID 1,7181::1655632050
+2 SOUR @9HZoDLydRjGBZ5Mms0jb@
+3 OBJE @M97@
+3 _APID 1,7218::774212
 2 SOUR @no7YvbwBTZSkjmmfIcME@
 3 OBJE @ShTO93LeQX6QHoJyeHB8@
 3 _APID 1,7250::1382758776
 2 SOUR @2BrYALWfRGeGIhxft2Zm@
 3 OBJE @zYCyNr7iQvCXIXzFT3Ts@
 3 _APID 1,7364::2943878
+2 SOUR @S183@
+3 PAGE Pennsylvania Historic and Museum Commission; Harrisburg, Pen
+4 CONC nsylvania; Pennsylvania (State). Death certificates, 1906–19
+4 CONC 67; Certificate Number Range: 034251-036850
+3 OBJE @M99@
+3 _APID 1,5164::604131890
+2 SOUR @fqm9Idi7QCuuDSzOtc2F@
+3 _APID 1,5274::12709
 2 SOUR @fgk8xAOsQLeHP2vct6BI@
 3 _APID 1,60525::46328064
 2 SOUR @yFxQHMAuSEmv66wxgGMH@
@@ -4580,12 +4814,21 @@
 2 SOUR @sXyDkhg5SlSi1Km4RUgO@
 3 OBJE @tl76ehlFQiy1DfZ6Vi0o@
 3 _APID 1,7181::1655632050
+2 SOUR @9HZoDLydRjGBZ5Mms0jb@
+3 OBJE @M97@
+3 _APID 1,7218::774212
 2 SOUR @no7YvbwBTZSkjmmfIcME@
 3 OBJE @ShTO93LeQX6QHoJyeHB8@
 3 _APID 1,7250::1382758776
 2 SOUR @2BrYALWfRGeGIhxft2Zm@
 3 OBJE @zYCyNr7iQvCXIXzFT3Ts@
 3 _APID 1,7364::2943878
+2 SOUR @S183@
+3 PAGE Pennsylvania Historic and Museum Commission; Harrisburg, Pen
+4 CONC nsylvania; Pennsylvania (State). Death certificates, 1906–19
+4 CONC 67; Certificate Number Range: 034251-036850
+3 OBJE @M99@
+3 _APID 1,5164::604131890
 2 SOUR @fgk8xAOsQLeHP2vct6BI@
 3 _APID 1,60525::46328064
 2 SOUR @yFxQHMAuSEmv66wxgGMH@
@@ -4651,6 +4894,16 @@
 3 QUAY 1
 3 DATA
 4 TEXT p. 33
+1 RESI
+2 DATE 1865
+2 PLAC Hornby, Steuben, New York, USA
+3 MAP
+4 LATI N42.2442
+4 LONG W77.0444
+2 SOUR @9HZoDLydRjGBZ5Mms0jb@
+3 OBJE @M97@
+3 _APID 1,7218::774212
+2 NOTE Relation to Head of House: Son
 1 EVEN
 2 TYPE owned land
 2 DATE 30 MAR 1868
@@ -4752,7 +5005,7 @@
 2 SOUR @eOdjERMPS62lm4aehOJ2@
 3 QUAY 3
 1 TITL Secretary of Harrison Cemetery Association
-2 DATE FROM 19 SEP 1885 TO 19 SEP 1887
+2 DATE 19 SEP 1885
 2 PLAC Hornby, Steuben, New York, USA
 3 MAP
 4 LATI N42.2442
@@ -4766,14 +5019,7 @@
 4 LATI N42.2442
 4 LONG W77.0444
 2 SOUR @fqm9Idi7QCuuDSzOtc2F@
-3 QUAY 2
-1 RESI
-2 DATE 1891
-2 PLAC Hornby, Steuben, New York, USA
-3 MAP
-4 LATI N42.2442
-4 LONG W77.0444
-2 SOUR @fqm9Idi7QCuuDSzOtc2F@
+3 _APID 1,5274::12709
 1 CENS
 2 DATE 16 FEB 1892
 2 PLAC Hornby, Steuben, New York, USA
@@ -4877,6 +5123,56 @@
 2 SOUR @yFxQHMAuSEmv66wxgGMH@
 3 _APID 1,70572::7319279
 1 _XY 86521 2387
+1 _PHOTO @pjToHYxBREuYh2FQpBLd@
+0 @I581@ INDI
+1 REFN b9551da3-d55a-42c3-8f40-1ce3d556d001
+1 NAME Jackson /Harrison/
+2 SOUR @HQvR6QLyTimkjcRZMuAs@
+3 PAGE Year: 1870; Census Place: Hornby, Steuben, New York; Roll: M
+4 CONC 593_1095; Page: 218B; Family History Library Film: 552594
+3 OBJE @M90@
+3 _APID 1,7163::32339280
+2 SOUR @9HZoDLydRjGBZ5Mms0jb@
+3 OBJE @M91@
+3 _APID 1,7218::759245
+1 SEX M
+1 FAMC @NgZfqUCfTmCWYRPpoe0p@
+1 BIRT
+2 DATE ABT 1859
+2 PLAC New York, USA
+3 MAP
+4 LATI N42.7531
+4 LONG W74.2224
+2 SOUR @HQvR6QLyTimkjcRZMuAs@
+3 PAGE Year: 1870; Census Place: Hornby, Steuben, New York; Roll: M
+4 CONC 593_1095; Page: 218B; Family History Library Film: 552594
+3 OBJE @M90@
+3 _APID 1,7163::32339280
+2 SOUR @9HZoDLydRjGBZ5Mms0jb@
+3 OBJE @M91@
+3 _APID 1,7218::759245
+1 RESI
+2 DATE 1865
+2 PLAC Hornby, Steuben, New York, USA
+3 MAP
+4 LATI N42.2442
+4 LONG W77.0444
+2 SOUR @9HZoDLydRjGBZ5Mms0jb@
+3 OBJE @M91@
+3 _APID 1,7218::759245
+2 NOTE Relation to Head of House: Son
+1 RESI
+2 DATE 1870
+2 PLAC Hornby, Steuben, New York, USA
+3 MAP
+4 LATI N42.2442
+4 LONG W77.0444
+2 SOUR @HQvR6QLyTimkjcRZMuAs@
+3 PAGE Year: 1870; Census Place: Hornby, Steuben, New York; Roll: M
+4 CONC 593_1095; Page: 218B; Family History Library Film: 552594
+3 OBJE @M90@
+3 _APID 1,7163::32339280
+2 NOTE Residence Post Office: Hornby
 0 @IBXtlFqRSU6uk41gdSuo@ INDI
 1 REFN 6aa81cb9-f785-40f6-8900-e89bbf85b483
 1 NAME James Leo /Harrison/
@@ -5053,6 +5349,77 @@
 3 _APID 1,60525::86932045
 2 NOTE date assumed approx. from death
 1 _XY 85231 2187
+0 @I588@ INDI
+1 REFN 24445318-b4b8-42f7-8bd5-eb2a87e41d08
+1 NAME John F. /Harrison/
+2 SOUR @52KZlTzERiy29VDq6FXg@
+3 PAGE Year: 1860; Census Place: Orange, Schuyler, New York; Roll
+4 CONC : M653_859; Page: 525; Family History Library Film: 803859
+3 OBJE @M93@
+3 _APID 1,7667::48587555
+2 SOUR @HQvR6QLyTimkjcRZMuAs@
+3 PAGE Year: 1870; Census Place: Orange, Schuyler, New York; Roll
+4 CONC : M593_1092; Page: 623B; Family History Library Film: 552591
+3 OBJE @M96@
+3 _APID 1,7163::32272047
+2 SOUR @9HZoDLydRjGBZ5Mms0jb@
+3 OBJE @M92@
+3 _APID 1,7218::2174064
+1 SEX M
+1 FAMC @F477@
+1 BIRT
+2 DATE ABT 1857
+2 PLAC New York, USA
+3 MAP
+4 LATI N42.7531
+4 LONG W74.2224
+2 SOUR @52KZlTzERiy29VDq6FXg@
+3 PAGE Year: 1860; Census Place: Orange, Schuyler, New York; Roll
+4 CONC : M653_859; Page: 525; Family History Library Film: 803859
+3 OBJE @M93@
+3 _APID 1,7667::48587555
+2 SOUR @HQvR6QLyTimkjcRZMuAs@
+3 PAGE Year: 1870; Census Place: Orange, Schuyler, New York; Roll
+4 CONC : M593_1092; Page: 623B; Family History Library Film: 552591
+3 OBJE @M96@
+3 _APID 1,7163::32272047
+2 SOUR @9HZoDLydRjGBZ5Mms0jb@
+3 OBJE @M92@
+3 _APID 1,7218::2174064
+1 RESI
+2 DATE 1860
+2 PLAC Orange, Schuyler, New York, USA
+3 MAP
+4 LATI N42.3328
+4 LONG W77.0353
+2 SOUR @52KZlTzERiy29VDq6FXg@
+3 PAGE Year: 1860; Census Place: Orange, Schuyler, New York; Roll
+4 CONC : M653_859; Page: 525; Family History Library Film: 803859
+3 OBJE @M93@
+3 _APID 1,7667::48587555
+2 NOTE Residence Post Office: Orange
+1 RESI
+2 DATE 1865
+2 PLAC Orange, Schuyler, New York, USA
+3 MAP
+4 LATI N42.3328
+4 LONG W77.0353
+2 SOUR @9HZoDLydRjGBZ5Mms0jb@
+3 OBJE @M92@
+3 _APID 1,7218::2174064
+2 NOTE Relation to Head of House: Son
+1 RESI
+2 DATE 1870
+2 PLAC Orange, Schuyler, New York, USA
+3 MAP
+4 LATI N42.3328
+4 LONG W77.0353
+2 SOUR @HQvR6QLyTimkjcRZMuAs@
+3 PAGE Year: 1870; Census Place: Orange, Schuyler, New York; Roll
+4 CONC : M593_1092; Page: 623B; Family History Library Film: 552591
+3 OBJE @M96@
+3 _APID 1,7163::32272047
+2 NOTE Residence Post Office: Tyrone
 0 @XPTLdMBgSPuItfHwstZ2@ INDI
 1 REFN f9c77660-dcc2-4338-b761-ee3c3a45d610
 1 NAME John Francis /Harrison/
@@ -5091,6 +5458,9 @@
 2 SOUR @sXyDkhg5SlSi1Km4RUgO@
 3 OBJE @tl76ehlFQiy1DfZ6Vi0o@
 3 _APID 1,7181::1655632052
+2 SOUR @9HZoDLydRjGBZ5Mms0jb@
+3 OBJE @M97@
+3 _APID 1,7218::774214
 1 SEX M
 1 FAMC @YSFEAskmSZ2OCjU3KRYy@
 1 FAMS @r7nSgAKYSFeDqKrcEjcj@
@@ -5117,11 +5487,38 @@
 4 CONC n District: 163; Image: 0296
 3 OBJE @1VKiUQhzS3WB4MEQk36Q@
 3 _APID 1,6742::12019078
+2 SOUR @iZlulgkISMSpUuqa7YAc@
+3 PAGE <bibl> <title level="u">Jesse Sands Family Bible Records, 17
+4 CONC 68–1943</title>, <title level="m">The Holy Bible: Containin
+4 CONC g the Old and New Testaments: Together with the Apocrypha</t
+4 CONC itle>, (<pubPlace>Philadelphia</pubPlace>: <publisher>Mathe
+4 CONC w Carey</publisher>, <date>1911</date>), <citedRange>677–80<
+4 CONC /citedRange>, “Family Record”; privately held by Christophe
+4 CONC r Alan Mosher, Shelton, Connecticut, USA, 2019; digital imag
+4 CONC es with diplomatic transcription, <title level="u">Harriso
+4 CONC n Documents</title>, <author>Christopher A. Mosher</author>
+4 CONC , <title level="m">Archive of Historical Family Documents</t
+4 CONC itle> (<ref target="https://mosher.mine.nu/tei/genealogy/mai
+4 CONC n/sources/old/harrison/sands_bible.png.xml.tei.xml"/> : 22 S
+4 CONC ep 2019). Binding is brown leather, dimensions approximatel
+4 CONC y 234 × 281 × 89 mm, “HOLY-BIBLE” on spine, front title pag
+4 CONC e is missing, but it has “New Testament” title page betwee
+4 CONC n pages 834 and 835 (note: page numbers 829–834 are duplicat
+4 CONC ed), page one begins with “¶ The <hi rend="sc">first book</h
+4 CONC i> of <hi rend="sc">moses</hi>, <hi rend="sc">called</hi> <h
+4 CONC i rend="sc">genesis</hi>.” Entries are handwritten in ink, m
+4 CONC ostly dark, but a few entries have faded, the entries are i
+4 CONC n various different hands. Ownership probably: Jesse Sands
+4 CONC , Mary Sands Harrison, Henry Francis Harrison, George Elme
+4 CONC r Harrison, John Harrison, Sally Harrison Brown Duff, Christ
+4 CONC opher Alan Mosher. </bibl>
+3 QUAY 1
 2 SOUR @sXyDkhg5SlSi1Km4RUgO@
 3 OBJE @tl76ehlFQiy1DfZ6Vi0o@
 3 _APID 1,7181::1655632052
-2 SOUR @iZlulgkISMSpUuqa7YAc@
-3 QUAY 1
+2 SOUR @9HZoDLydRjGBZ5Mms0jb@
+3 OBJE @M97@
+3 _APID 1,7218::774214
 1 RESI
 2 DATE 1850
 2 PLAC Hornby, Steuben, New York, USA
@@ -5157,6 +5554,16 @@
 3 _APID 1,7667::48691875
 2 NOTE Age: 15
 1 RESI
+2 DATE 1865
+2 PLAC Hornby, Steuben, New York, USA
+3 MAP
+4 LATI N42.2442
+4 LONG W77.0444
+2 SOUR @9HZoDLydRjGBZ5Mms0jb@
+3 OBJE @M97@
+3 _APID 1,7218::774214
+2 NOTE Relation to Head of House: Son
+1 RESI
 2 DATE 1880
 2 PLAC Russellville, Logan, Kentucky, USA
 3 MAP
@@ -5185,6 +5592,11 @@
 4 CONC : 803863
 3 OBJE @b2u36U1USuizC60h883k@
 3 _APID 1,7667::48690866
+2 SOUR @HQvR6QLyTimkjcRZMuAs@
+3 PAGE Year: 1870; Census Place: Hornby, Steuben, New York; Roll: M
+4 CONC 593_1095; Page: 218B; Family History Library Film: 552594
+3 OBJE @M90@
+3 _APID 1,7163::32339276
 2 SOUR @CkKLYvzoRNCSytJt2rxR@
 3 PAGE Year: 1880; Census Place: Hornby, Steuben, New York; Roll: 9
 4 CONC 33; Family History Film: 1254933; Page: 265B; Enumeration Di
@@ -5227,6 +5639,11 @@
 4 CONC : 803863
 3 OBJE @b2u36U1USuizC60h883k@
 3 _APID 1,7667::48690866
+2 SOUR @HQvR6QLyTimkjcRZMuAs@
+3 PAGE Year: 1870; Census Place: Hornby, Steuben, New York; Roll: M
+4 CONC 593_1095; Page: 218B; Family History Library Film: 552594
+3 OBJE @M90@
+3 _APID 1,7163::32339276
 2 SOUR @CkKLYvzoRNCSytJt2rxR@
 3 PAGE Year: 1880; Census Place: Hornby, Steuben, New York; Roll: 9
 4 CONC 33; Family History Film: 1254933; Page: 265B; Enumeration Di
@@ -5293,6 +5710,19 @@
 3 OBJE @QfCArKjMRBWphkhyRMH3@
 3 _APID 1,7218::759239
 2 NOTE Relation to Head of House: Head
+2 NOTE Relation to Head of House: Head
+1 RESI
+2 DATE 1870
+2 PLAC Hornby, Steuben, New York, USA
+3 MAP
+4 LATI N42.2442
+4 LONG W77.0444
+2 SOUR @HQvR6QLyTimkjcRZMuAs@
+3 PAGE Year: 1870; Census Place: Hornby, Steuben, New York; Roll: M
+4 CONC 593_1095; Page: 218B; Family History Library Film: 552594
+3 OBJE @M90@
+3 _APID 1,7163::32339276
+2 NOTE Residence Post Office: Hornby
 1 RESI
 2 DATE 01 JUN 1875
 2 PLAC Hornby, Steuben, New York, USA
@@ -5392,6 +5822,188 @@
 2 SOUR @yFxQHMAuSEmv66wxgGMH@
 3 _APID 1,70572::7284588
 1 _XY 86683 2287
+0 @I582@ INDI
+1 REFN 46e9e9a9-8b6a-4e03-b33d-9c3a005fee06
+1 NAME Lucy /Harrison/
+2 SOUR @9HZoDLydRjGBZ5Mms0jb@
+3 OBJE @M91@
+3 _APID 1,7218::759241
+1 SEX F
+1 FAMC @NgZfqUCfTmCWYRPpoe0p@
+1 BIRT
+2 DATE ABT 1845
+2 SOUR @9HZoDLydRjGBZ5Mms0jb@
+3 OBJE @M91@
+3 _APID 1,7218::759241
+1 RESI
+2 DATE 1865
+2 PLAC Hornby, Steuben, New York, USA
+3 MAP
+4 LATI N42.2442
+4 LONG W77.0444
+2 SOUR @9HZoDLydRjGBZ5Mms0jb@
+3 OBJE @M91@
+3 _APID 1,7218::759241
+2 NOTE Relation to Head of House: Daughter
+0 @I583@ INDI
+1 REFN 808085fe-4758-4a22-975a-f808b6b2cf89
+1 NAME Manley /Harrison/
+2 SOUR @9HZoDLydRjGBZ5Mms0jb@
+3 OBJE @M91@
+3 _APID 1,7218::759244
+1 SEX M
+1 FAMC @NgZfqUCfTmCWYRPpoe0p@
+1 BIRT
+2 DATE ABT 1856
+2 SOUR @9HZoDLydRjGBZ5Mms0jb@
+3 OBJE @M91@
+3 _APID 1,7218::759244
+1 RESI
+2 DATE 1865
+2 PLAC Hornby, Steuben, New York, USA
+3 MAP
+4 LATI N42.2442
+4 LONG W77.0444
+2 SOUR @9HZoDLydRjGBZ5Mms0jb@
+3 OBJE @M91@
+3 _APID 1,7218::759244
+2 NOTE Relation to Head of House: Son
+0 @I586@ INDI
+1 REFN 48f664b0-264b-4fa0-b955-39fd01d18418
+1 NAME Mary Delphena /Harrison/
+2 SOUR @52KZlTzERiy29VDq6FXg@
+3 PAGE Year: 1860; Census Place: Orange, Schuyler, New York; Roll
+4 CONC : M653_859; Page: 525; Family History Library Film: 803859
+3 OBJE @M93@
+3 _APID 1,7667::48587553
+2 SOUR @HQvR6QLyTimkjcRZMuAs@
+3 PAGE Year: 1870; Census Place: Orange, Schuyler, New York; Roll
+4 CONC : M593_1092; Page: 623B; Family History Library Film: 552591
+3 OBJE @M96@
+3 _APID 1,7163::32272045
+2 SOUR @sXyDkhg5SlSi1Km4RUgO@
+3 OBJE @M95@
+3 _APID 1,7181::1655283559
+2 SOUR @9HZoDLydRjGBZ5Mms0jb@
+3 OBJE @M92@
+3 _APID 1,7218::2170444
+1 SEX F
+1 FAMC @F477@
+1 BIRT
+2 DATE ABT 1851
+2 PLAC New York, USA
+3 MAP
+4 LATI N42.7531
+4 LONG W74.2224
+2 SOUR @52KZlTzERiy29VDq6FXg@
+3 PAGE Year: 1860; Census Place: Orange, Schuyler, New York; Roll
+4 CONC : M653_859; Page: 525; Family History Library Film: 803859
+3 OBJE @M93@
+3 _APID 1,7667::48587553
+2 SOUR @HQvR6QLyTimkjcRZMuAs@
+3 PAGE Year: 1870; Census Place: Orange, Schuyler, New York; Roll
+4 CONC : M593_1092; Page: 623B; Family History Library Film: 552591
+3 OBJE @M96@
+3 _APID 1,7163::32272045
+2 SOUR @sXyDkhg5SlSi1Km4RUgO@
+3 OBJE @M95@
+3 _APID 1,7181::1655283559
+2 SOUR @9HZoDLydRjGBZ5Mms0jb@
+3 OBJE @M92@
+3 _APID 1,7218::2170444
+1 RESI
+2 DATE 1855
+2 PLAC Orange, Schuyler, New York, USA
+3 MAP
+4 LATI N42.3328
+4 LONG W77.0353
+2 SOUR @sXyDkhg5SlSi1Km4RUgO@
+3 OBJE @M95@
+3 _APID 1,7181::1655283559
+2 NOTE Relation to Head: Child
+1 RESI
+2 DATE 1860
+2 PLAC Orange, Schuyler, New York, USA
+3 MAP
+4 LATI N42.3328
+4 LONG W77.0353
+2 SOUR @52KZlTzERiy29VDq6FXg@
+3 PAGE Year: 1860; Census Place: Orange, Schuyler, New York; Roll
+4 CONC : M653_859; Page: 525; Family History Library Film: 803859
+3 OBJE @M93@
+3 _APID 1,7667::48587553
+2 NOTE Residence Post Office: Orange
+1 RESI
+2 DATE 1865
+2 PLAC Orange, Schuyler, New York, USA
+3 MAP
+4 LATI N42.3328
+4 LONG W77.0353
+2 SOUR @9HZoDLydRjGBZ5Mms0jb@
+3 OBJE @M92@
+3 _APID 1,7218::2170444
+2 NOTE Relation to Head of House: Daughter
+1 RESI
+2 DATE 1870
+2 PLAC Orange, Schuyler, New York, USA
+3 MAP
+4 LATI N42.3328
+4 LONG W77.0353
+2 SOUR @HQvR6QLyTimkjcRZMuAs@
+3 PAGE Year: 1870; Census Place: Orange, Schuyler, New York; Roll
+4 CONC : M593_1092; Page: 623B; Family History Library Film: 552591
+3 OBJE @M96@
+3 _APID 1,7163::32272045
+2 NOTE Residence Post Office: Tyrone
+0 @I580@ INDI
+1 REFN 60b16de0-0914-43fe-93f8-b5c4b77d2a1a
+1 NAME Mason /Harrison/
+2 SOUR @HQvR6QLyTimkjcRZMuAs@
+3 PAGE Year: 1870; Census Place: Hornby, Steuben, New York; Roll: M
+4 CONC 593_1095; Page: 218B; Family History Library Film: 552594
+3 OBJE @M90@
+3 _APID 1,7163::32339279
+2 SOUR @9HZoDLydRjGBZ5Mms0jb@
+3 OBJE @M91@
+3 _APID 1,7218::759243
+1 SEX M
+1 FAMC @NgZfqUCfTmCWYRPpoe0p@
+1 BIRT
+2 DATE ABT 1850
+2 PLAC New York, USA
+3 MAP
+4 LATI N42.7531
+4 LONG W74.2224
+2 SOUR @HQvR6QLyTimkjcRZMuAs@
+3 PAGE Year: 1870; Census Place: Hornby, Steuben, New York; Roll: M
+4 CONC 593_1095; Page: 218B; Family History Library Film: 552594
+3 OBJE @M90@
+3 _APID 1,7163::32339279
+2 SOUR @9HZoDLydRjGBZ5Mms0jb@
+3 OBJE @M91@
+3 _APID 1,7218::759243
+1 RESI
+2 DATE 1865
+2 PLAC Hornby, Steuben, New York, USA
+3 MAP
+4 LATI N42.2442
+4 LONG W77.0444
+2 SOUR @9HZoDLydRjGBZ5Mms0jb@
+3 OBJE @M91@
+3 _APID 1,7218::759243
+2 NOTE Relation to Head of House: Son
+1 RESI
+2 DATE 1870
+2 PLAC Hornby, Steuben, New York, USA
+3 MAP
+4 LATI N42.2442
+4 LONG W77.0444
+2 SOUR @HQvR6QLyTimkjcRZMuAs@
+3 PAGE Year: 1870; Census Place: Hornby, Steuben, New York; Roll: M
+4 CONC 593_1095; Page: 218B; Family History Library Film: 552594
+3 OBJE @M90@
+3 _APID 1,7163::32339279
+2 NOTE Residence Post Office: Hornby
 0 @i1gU695hSOK2VOSzejBh@ INDI
 1 REFN 30cf6338-4ba0-4dbf-9299-4bd270366a0d
 1 NAME Melvin William /Harrison/
@@ -5590,6 +6202,89 @@
 2 SOUR @fgk8xAOsQLeHP2vct6BI@
 3 _APID 1,60525::86932022
 1 _XY 87031 2287
+0 @I585@ INDI
+1 REFN f9314d82-631e-4f1c-8acc-ec71f598fb3f
+1 NAME Mina Elsie A. /Harrison/
+2 SOUR @FqVxYHCpSgCWd56xJEpO@
+3 PAGE Year: 1850; Census Place: Orange, Steuben, New York; Roll: M
+4 CONC 432_598; Page: 145A; Image: 294
+3 OBJE @M94@
+3 _APID 1,8054::8458247
+2 SOUR @52KZlTzERiy29VDq6FXg@
+3 PAGE Year: 1860; Census Place: Orange, Schuyler, New York; Roll
+4 CONC : M653_859; Page: 525; Family History Library Film: 803859
+3 OBJE @M93@
+3 _APID 1,7667::48587552
+2 SOUR @sXyDkhg5SlSi1Km4RUgO@
+3 OBJE @M95@
+3 _APID 1,7181::1655283558
+2 SOUR @9HZoDLydRjGBZ5Mms0jb@
+3 OBJE @M92@
+3 _APID 1,7218::2170427
+1 SEX F
+1 FAMC @F477@
+1 BIRT
+2 DATE ABT 1847
+2 PLAC New York, USA
+3 MAP
+4 LATI N42.7531
+4 LONG W74.2224
+2 SOUR @FqVxYHCpSgCWd56xJEpO@
+3 PAGE Year: 1850; Census Place: Orange, Steuben, New York; Roll: M
+4 CONC 432_598; Page: 145A; Image: 294
+3 OBJE @M94@
+3 _APID 1,8054::8458247
+2 SOUR @52KZlTzERiy29VDq6FXg@
+3 PAGE Year: 1860; Census Place: Orange, Schuyler, New York; Roll
+4 CONC : M653_859; Page: 525; Family History Library Film: 803859
+3 OBJE @M93@
+3 _APID 1,7667::48587552
+2 SOUR @sXyDkhg5SlSi1Km4RUgO@
+3 OBJE @M95@
+3 _APID 1,7181::1655283558
+2 SOUR @9HZoDLydRjGBZ5Mms0jb@
+3 OBJE @M92@
+3 _APID 1,7218::2170427
+1 RESI
+2 DATE 1850
+2 PLAC Orange, Steuben, New York, USA
+2 SOUR @FqVxYHCpSgCWd56xJEpO@
+3 PAGE Year: 1850; Census Place: Orange, Steuben, New York; Roll: M
+4 CONC 432_598; Page: 145A; Image: 294
+3 OBJE @M94@
+3 _APID 1,8054::8458247
+1 RESI
+2 DATE 1855
+2 PLAC Orange, Schuyler, New York, USA
+3 MAP
+4 LATI N42.3328
+4 LONG W77.0353
+2 SOUR @sXyDkhg5SlSi1Km4RUgO@
+3 OBJE @M95@
+3 _APID 1,7181::1655283558
+2 NOTE Relation to Head: Child
+1 RESI
+2 DATE 1860
+2 PLAC Orange, Schuyler, New York, USA
+3 MAP
+4 LATI N42.3328
+4 LONG W77.0353
+2 SOUR @52KZlTzERiy29VDq6FXg@
+3 PAGE Year: 1860; Census Place: Orange, Schuyler, New York; Roll
+4 CONC : M653_859; Page: 525; Family History Library Film: 803859
+3 OBJE @M93@
+3 _APID 1,7667::48587552
+2 NOTE Residence Post Office: Orange
+1 RESI
+2 DATE 1865
+2 PLAC Orange, Schuyler, New York, USA
+3 MAP
+4 LATI N42.3328
+4 LONG W77.0353
+2 SOUR @9HZoDLydRjGBZ5Mms0jb@
+3 OBJE @M92@
+3 _APID 1,7218::2170427
+2 NOTE Relation to Head of House: Daughter
 0 @vvnoetMSSQi5Ut0a9nFk@ INDI
 1 REFN 0eee3511-419d-496a-9db9-7ef9949f8727
 1 NAME Nathan /Harrison/
@@ -5728,7 +6423,7 @@
 1 _XY 85368 2293
 0 @7KwyaVXCQxensZZrcfKq@ INDI
 1 REFN 1d3bfefc-5b3a-4b40-98cf-e1d23cd3c100
-1 NAME Sarah A. /Harrison/
+1 NAME Sarah Adeline /Harrison/
 2 SOUR @FqVxYHCpSgCWd56xJEpO@
 3 PAGE Year: 1850; Census Place: Hornby, Steuben, New York; Roll: M
 4 CONC 432_598; Page: 109B; Image: 223
@@ -5758,6 +6453,11 @@
 4 CONC 74406
 3 OBJE @7chXl4tySyOSpVWTKX5o@
 3 _APID 1,7884::7140990
+2 SOUR @EK7T5HK7THyj56uQA095@
+3 PAGE Year: 1920; Census Place: Perry, Buchanan, Iowa; Roll: T625_
+4 CONC 480; Page: 14B; Enumeration District: 71
+3 OBJE @M100@
+3 _APID 1,6061::28692637
 2 SOUR @6ueRmpMIQ9qSG0rSnwpX@
 3 PAGE Year: 1930; Census Place: Barclay, Black Hawk, Iowa; Roll: 6
 4 CONC 42; Page: 3B; Enumeration District: 0001; Image: 9.0; FHL mi
@@ -5771,12 +6471,20 @@
 5 CONC &pid=542
 2 SOUR @x1y4e3XmT62xgzJKnbh4@
 3 _APID 1,4711::527399
+2 SOUR @S181@
+3 PAGE State Historical Society of Iowa; Des Moines, Iowa; Iowa Dea
+4 CONC th Records; Reference Number: 101821058
+3 OBJE @M98@
+3 _APID 1,61442::383953
 2 SOUR @mp2HZlANToGEkMWe1M21@
 3 OBJE @2xs3gt8lTvKfTqMmlNS7@
 3 _APID 1,1084::395464
 2 SOUR @sXyDkhg5SlSi1Km4RUgO@
 3 OBJE @tl76ehlFQiy1DfZ6Vi0o@
 3 _APID 1,7181::1655632053
+2 SOUR @9HZoDLydRjGBZ5Mms0jb@
+3 OBJE @M97@
+3 _APID 1,7218::774215
 2 SOUR @no7YvbwBTZSkjmmfIcME@
 3 OBJE @ShTO93LeQX6QHoJyeHB8@
 3 _APID 1,7250::1382758780
@@ -5823,6 +6531,11 @@
 4 CONC 74406
 3 OBJE @7chXl4tySyOSpVWTKX5o@
 3 _APID 1,7884::7140990
+2 SOUR @EK7T5HK7THyj56uQA095@
+3 PAGE Year: 1920; Census Place: Perry, Buchanan, Iowa; Roll: T625_
+4 CONC 480; Page: 14B; Enumeration District: 71
+3 OBJE @M100@
+3 _APID 1,6061::28692637
 2 SOUR @6ueRmpMIQ9qSG0rSnwpX@
 3 PAGE Year: 1930; Census Place: Barclay, Black Hawk, Iowa; Roll: 6
 4 CONC 42; Page: 3B; Enumeration District: 0001; Image: 9.0; FHL mi
@@ -5831,17 +6544,49 @@
 3 _APID 1,6224::25008904
 2 SOUR @x1y4e3XmT62xgzJKnbh4@
 3 _APID 1,4711::527399
+2 SOUR @S181@
+3 PAGE State Historical Society of Iowa; Des Moines, Iowa; Iowa Dea
+4 CONC th Records; Reference Number: 101821058
+3 OBJE @M98@
+3 _APID 1,61442::383953
 2 SOUR @mp2HZlANToGEkMWe1M21@
 3 OBJE @2xs3gt8lTvKfTqMmlNS7@
 3 _APID 1,1084::395464
+2 SOUR @iZlulgkISMSpUuqa7YAc@
+3 PAGE <bibl> <title level="u">Jesse Sands Family Bible Records, 17
+4 CONC 68–1943</title>, <title level="m">The Holy Bible: Containin
+4 CONC g the Old and New Testaments: Together with the Apocrypha</t
+4 CONC itle>, (<pubPlace>Philadelphia</pubPlace>: <publisher>Mathe
+4 CONC w Carey</publisher>, <date>1911</date>), <citedRange>677–80<
+4 CONC /citedRange>, “Family Record”; privately held by Christophe
+4 CONC r Alan Mosher, Shelton, Connecticut, USA, 2019; digital imag
+4 CONC es with diplomatic transcription, <title level="u">Harriso
+4 CONC n Documents</title>, <author>Christopher A. Mosher</author>
+4 CONC , <title level="m">Archive of Historical Family Documents</t
+4 CONC itle> (<ref target="https://mosher.mine.nu/tei/genealogy/mai
+4 CONC n/sources/old/harrison/sands_bible.png.xml.tei.xml"/> : 22 S
+4 CONC ep 2019). Binding is brown leather, dimensions approximatel
+4 CONC y 234 × 281 × 89 mm, “HOLY-BIBLE” on spine, front title pag
+4 CONC e is missing, but it has “New Testament” title page betwee
+4 CONC n pages 834 and 835 (note: page numbers 829–834 are duplicat
+4 CONC ed), page one begins with “¶ The <hi rend="sc">first book</h
+4 CONC i> of <hi rend="sc">moses</hi>, <hi rend="sc">called</hi> <h
+4 CONC i rend="sc">genesis</hi>.” Entries are handwritten in ink, m
+4 CONC ostly dark, but a few entries have faded, the entries are i
+4 CONC n various different hands. Ownership probably: Jesse Sands
+4 CONC , Mary Sands Harrison, Henry Francis Harrison, George Elme
+4 CONC r Harrison, John Harrison, Sally Harrison Brown Duff, Christ
+4 CONC opher Alan Mosher. </bibl>
+3 QUAY 1
 2 SOUR @sXyDkhg5SlSi1Km4RUgO@
 3 OBJE @tl76ehlFQiy1DfZ6Vi0o@
 3 _APID 1,7181::1655632053
+2 SOUR @9HZoDLydRjGBZ5Mms0jb@
+3 OBJE @M97@
+3 _APID 1,7218::774215
 2 SOUR @no7YvbwBTZSkjmmfIcME@
 3 OBJE @ShTO93LeQX6QHoJyeHB8@
 3 _APID 1,7250::1382758780
-2 SOUR @iZlulgkISMSpUuqa7YAc@
-3 QUAY 1
 2 SOUR @fgk8xAOsQLeHP2vct6BI@
 3 _APID 1,60525::45329146
 2 SOUR @9KLEd603QSqmwr5pAP28@
@@ -5880,6 +6625,16 @@
 3 OBJE @uHT1SFrRStKZZLJf0T3S@
 3 _APID 1,7667::48691876
 2 NOTE Age: 12
+1 RESI
+2 DATE 1865
+2 PLAC Hornby, Steuben, New York, USA
+3 MAP
+4 LATI N42.2442
+4 LONG W77.0444
+2 SOUR @9HZoDLydRjGBZ5Mms0jb@
+3 OBJE @M97@
+3 _APID 1,7218::774215
+2 NOTE Relation to Head of House: Daughter
 1 RESI
 2 DATE 1870
 2 PLAC Hornby, Steuben, New York, USA
@@ -5931,6 +6686,18 @@
 2 NOTE Age: 62; Marital Status: Widowed; Relation to Head of House
 3 CONC : Head
 1 RESI
+2 DATE 1920
+2 PLAC Perry, Buchanan, Iowa, USA
+3 MAP
+4 LATI N41.8385
+4 LONG W94.1055
+2 SOUR @EK7T5HK7THyj56uQA095@
+3 PAGE Year: 1920; Census Place: Perry, Buchanan, Iowa; Roll: T625_
+4 CONC 480; Page: 14B; Enumeration District: 71
+3 OBJE @M100@
+3 _APID 1,6061::28692637
+2 NOTE Relation to Head: Head; Residence Marital Status: Widowed
+1 RESI
 2 DATE 01 JAN 1925
 2 PLAC Jesup, Buchanan, Iowa, USA
 3 MAP
@@ -5957,8 +6724,17 @@
 3 CONC n-law
 1 DEAT
 2 DATE 06 JAN 1936
+2 PLAC Spring Creek, Black Hawk, Iowa, USA
+3 MAP
+4 LATI N42.3481
+4 LONG W92.1133
 2 SOUR @x1y4e3XmT62xgzJKnbh4@
 3 _APID 1,4711::527399
+2 SOUR @S181@
+3 PAGE State Historical Society of Iowa; Des Moines, Iowa; Iowa Dea
+4 CONC th Records; Reference Number: 101821058
+3 OBJE @M98@
+3 _APID 1,61442::383953
 2 SOUR @fgk8xAOsQLeHP2vct6BI@
 3 _APID 1,60525::45329146
 2 SOUR @9KLEd603QSqmwr5pAP28@
@@ -5974,6 +6750,42 @@
 2 SOUR @9KLEd603QSqmwr5pAP28@
 3 _APID 1,70511::2700624
 1 _XY 86193 2387
+1 _PHOTO @7gSCUKV0SaaOeRSN04eb@
+0 @I590@ INDI
+1 REFN 9605ef9a-b1ff-45ab-819f-a00c8137ef98
+1 NAME Sarah M. /Harrison/
+2 SOUR @FqVxYHCpSgCWd56xJEpO@
+3 PAGE Year: 1850; Census Place: Orange, Steuben, New York; Roll: M
+4 CONC 432_598; Page: 145A; Image: 294
+3 OBJE @M94@
+3 _APID 1,8054::8458248
+1 SEX F
+1 FAMC @F477@
+1 BIRT
+2 DATE ABT 1849
+2 PLAC New York, USA
+3 MAP
+4 LATI N42.7531
+4 LONG W74.2224
+2 SOUR @FqVxYHCpSgCWd56xJEpO@
+3 PAGE Year: 1850; Census Place: Orange, Steuben, New York; Roll: M
+4 CONC 432_598; Page: 145A; Image: 294
+3 OBJE @M94@
+3 _APID 1,8054::8458248
+1 RESI
+2 DATE 1850
+2 PLAC Orange, Steuben, New York, USA
+2 SOUR @FqVxYHCpSgCWd56xJEpO@
+3 PAGE Year: 1850; Census Place: Orange, Steuben, New York; Roll: M
+4 CONC 432_598; Page: 145A; Image: 294
+3 OBJE @M94@
+3 _APID 1,8054::8458248
+1 DEAT
+2 DATE ABT 1853
+2 PLAC Orange, Schuyler, New York, USA
+3 MAP
+4 LATI N42.3328
+4 LONG W77.0353
 0 @6RXSkpDLSHuOOIHMFuaK@ INDI
 1 REFN 0a51a4c5-d83d-4233-9697-5cd1f8563913
 1 NAME unnamed child of George /Harrison/
@@ -5982,6 +6794,30 @@
 1 BIRT
 2 DATE 11 MAY 1836
 2 SOUR @iZlulgkISMSpUuqa7YAc@
+3 PAGE <bibl> <title level="u">Jesse Sands Family Bible Records, 17
+4 CONC 68–1943</title>, <title level="m">The Holy Bible: Containin
+4 CONC g the Old and New Testaments: Together with the Apocrypha</t
+4 CONC itle>, (<pubPlace>Philadelphia</pubPlace>: <publisher>Mathe
+4 CONC w Carey</publisher>, <date>1911</date>), <citedRange>677–80<
+4 CONC /citedRange>, “Family Record”; privately held by Christophe
+4 CONC r Alan Mosher, Shelton, Connecticut, USA, 2019; digital imag
+4 CONC es with diplomatic transcription, <title level="u">Harriso
+4 CONC n Documents</title>, <author>Christopher A. Mosher</author>
+4 CONC , <title level="m">Archive of Historical Family Documents</t
+4 CONC itle> (<ref target="https://mosher.mine.nu/tei/genealogy/mai
+4 CONC n/sources/old/harrison/sands_bible.png.xml.tei.xml"/> : 22 S
+4 CONC ep 2019). Binding is brown leather, dimensions approximatel
+4 CONC y 234 × 281 × 89 mm, “HOLY-BIBLE” on spine, front title pag
+4 CONC e is missing, but it has “New Testament” title page betwee
+4 CONC n pages 834 and 835 (note: page numbers 829–834 are duplicat
+4 CONC ed), page one begins with “¶ The <hi rend="sc">first book</h
+4 CONC i> of <hi rend="sc">moses</hi>, <hi rend="sc">called</hi> <h
+4 CONC i rend="sc">genesis</hi>.” Entries are handwritten in ink, m
+4 CONC ostly dark, but a few entries have faded, the entries are i
+4 CONC n various different hands. Ownership probably: Jesse Sands
+4 CONC , Mary Sands Harrison, Henry Francis Harrison, George Elme
+4 CONC r Harrison, John Harrison, Sally Harrison Brown Duff, Christ
+4 CONC opher Alan Mosher. </bibl>
 3 QUAY 1
 1 DEAT
 2 DATE 11 MAY 1836
@@ -5994,10 +6830,58 @@
 1 BIRT
 2 DATE 14 MAR 1839
 2 SOUR @iZlulgkISMSpUuqa7YAc@
+3 PAGE <bibl> <title level="u">Jesse Sands Family Bible Records, 17
+4 CONC 68–1943</title>, <title level="m">The Holy Bible: Containin
+4 CONC g the Old and New Testaments: Together with the Apocrypha</t
+4 CONC itle>, (<pubPlace>Philadelphia</pubPlace>: <publisher>Mathe
+4 CONC w Carey</publisher>, <date>1911</date>), <citedRange>677–80<
+4 CONC /citedRange>, “Family Record”; privately held by Christophe
+4 CONC r Alan Mosher, Shelton, Connecticut, USA, 2019; digital imag
+4 CONC es with diplomatic transcription, <title level="u">Harriso
+4 CONC n Documents</title>, <author>Christopher A. Mosher</author>
+4 CONC , <title level="m">Archive of Historical Family Documents</t
+4 CONC itle> (<ref target="https://mosher.mine.nu/tei/genealogy/mai
+4 CONC n/sources/old/harrison/sands_bible.png.xml.tei.xml"/> : 22 S
+4 CONC ep 2019). Binding is brown leather, dimensions approximatel
+4 CONC y 234 × 281 × 89 mm, “HOLY-BIBLE” on spine, front title pag
+4 CONC e is missing, but it has “New Testament” title page betwee
+4 CONC n pages 834 and 835 (note: page numbers 829–834 are duplicat
+4 CONC ed), page one begins with “¶ The <hi rend="sc">first book</h
+4 CONC i> of <hi rend="sc">moses</hi>, <hi rend="sc">called</hi> <h
+4 CONC i rend="sc">genesis</hi>.” Entries are handwritten in ink, m
+4 CONC ostly dark, but a few entries have faded, the entries are i
+4 CONC n various different hands. Ownership probably: Jesse Sands
+4 CONC , Mary Sands Harrison, Henry Francis Harrison, George Elme
+4 CONC r Harrison, John Harrison, Sally Harrison Brown Duff, Christ
+4 CONC opher Alan Mosher. </bibl>
 3 QUAY 1
 1 DEAT
 2 DATE 14 MAR 1839
 2 SOUR @iZlulgkISMSpUuqa7YAc@
+3 PAGE <bibl> <title level="u">Jesse Sands Family Bible Records, 17
+4 CONC 68–1943</title>, <title level="m">The Holy Bible: Containin
+4 CONC g the Old and New Testaments: Together with the Apocrypha</t
+4 CONC itle>, (<pubPlace>Philadelphia</pubPlace>: <publisher>Mathe
+4 CONC w Carey</publisher>, <date>1911</date>), <citedRange>677–80<
+4 CONC /citedRange>, “Family Record”; privately held by Christophe
+4 CONC r Alan Mosher, Shelton, Connecticut, USA, 2019; digital imag
+4 CONC es with diplomatic transcription, <title level="u">Harriso
+4 CONC n Documents</title>, <author>Christopher A. Mosher</author>
+4 CONC , <title level="m">Archive of Historical Family Documents</t
+4 CONC itle> (<ref target="https://mosher.mine.nu/tei/genealogy/mai
+4 CONC n/sources/old/harrison/sands_bible.png.xml.tei.xml"/> : 22 S
+4 CONC ep 2019). Binding is brown leather, dimensions approximatel
+4 CONC y 234 × 281 × 89 mm, “HOLY-BIBLE” on spine, front title pag
+4 CONC e is missing, but it has “New Testament” title page betwee
+4 CONC n pages 834 and 835 (note: page numbers 829–834 are duplicat
+4 CONC ed), page one begins with “¶ The <hi rend="sc">first book</h
+4 CONC i> of <hi rend="sc">moses</hi>, <hi rend="sc">called</hi> <h
+4 CONC i rend="sc">genesis</hi>.” Entries are handwritten in ink, m
+4 CONC ostly dark, but a few entries have faded, the entries are i
+4 CONC n various different hands. Ownership probably: Jesse Sands
+4 CONC , Mary Sands Harrison, Henry Francis Harrison, George Elme
+4 CONC r Harrison, John Harrison, Sally Harrison Brown Duff, Christ
+4 CONC opher Alan Mosher. </bibl>
 1 _XY 85646 2380
 0 @k2kP4pcAT8SoUI4cFeRY@ INDI
 1 REFN b02101f0-7c27-48f4-af26-5b600313d9a1
@@ -6009,6 +6893,73 @@
 1 DEAT
 2 DATE 08 SEP 1903
 1 _XY 85125 2636
+0 @I589@ INDI
+1 REFN 6b87ccb6-f46c-40e7-990b-296e44c21195
+1 NAME William H. /Harrison/
+2 SOUR @FqVxYHCpSgCWd56xJEpO@
+3 PAGE Year: 1850; Census Place: Orange, Steuben, New York; Roll: M
+4 CONC 432_598; Page: 145A; Image: 294
+3 OBJE @M94@
+3 _APID 1,8054::8458246
+2 SOUR @52KZlTzERiy29VDq6FXg@
+3 PAGE Year: 1860; Census Place: Orange, Schuyler, New York; Roll
+4 CONC : M653_859; Page: 525; Family History Library Film: 803859
+3 OBJE @M93@
+3 _APID 1,7667::48587551
+2 SOUR @sXyDkhg5SlSi1Km4RUgO@
+3 OBJE @M95@
+3 _APID 1,7181::1655283557
+1 SEX M
+1 FAMC @F477@
+1 BIRT
+2 DATE ABT 1842
+2 PLAC New York, USA
+3 MAP
+4 LATI N42.7531
+4 LONG W74.2224
+2 SOUR @FqVxYHCpSgCWd56xJEpO@
+3 PAGE Year: 1850; Census Place: Orange, Steuben, New York; Roll: M
+4 CONC 432_598; Page: 145A; Image: 294
+3 OBJE @M94@
+3 _APID 1,8054::8458246
+2 SOUR @52KZlTzERiy29VDq6FXg@
+3 PAGE Year: 1860; Census Place: Orange, Schuyler, New York; Roll
+4 CONC : M653_859; Page: 525; Family History Library Film: 803859
+3 OBJE @M93@
+3 _APID 1,7667::48587551
+2 SOUR @sXyDkhg5SlSi1Km4RUgO@
+3 OBJE @M95@
+3 _APID 1,7181::1655283557
+1 RESI
+2 DATE 1850
+2 PLAC Orange, Steuben, New York, USA
+2 SOUR @FqVxYHCpSgCWd56xJEpO@
+3 PAGE Year: 1850; Census Place: Orange, Steuben, New York; Roll: M
+4 CONC 432_598; Page: 145A; Image: 294
+3 OBJE @M94@
+3 _APID 1,8054::8458246
+1 RESI
+2 DATE 1855
+2 PLAC Orange, Schuyler, New York, USA
+3 MAP
+4 LATI N42.3328
+4 LONG W77.0353
+2 SOUR @sXyDkhg5SlSi1Km4RUgO@
+3 OBJE @M95@
+3 _APID 1,7181::1655283557
+2 NOTE Relation to Head: Child
+1 RESI
+2 DATE 1860
+2 PLAC Orange, Schuyler, New York, USA
+3 MAP
+4 LATI N42.3328
+4 LONG W77.0353
+2 SOUR @52KZlTzERiy29VDq6FXg@
+3 PAGE Year: 1860; Census Place: Orange, Schuyler, New York; Roll
+4 CONC : M653_859; Page: 525; Family History Library Film: 803859
+3 OBJE @M93@
+3 _APID 1,7667::48587551
+2 NOTE Residence Post Office: Orange
 0 @hKmhoei4QY2qiLZ21vav@ INDI
 1 REFN a03fd670-0769-4977-968d-35c335836f09
 1 NAME William Nelson /Harrison/
@@ -6040,13 +6991,22 @@
 3 DATA
 4 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=62861
 5 CONC &pid=544
-2 SOUR @E90P0XFESRySLVzVjGNN@
-3 QUAY 1
 2 SOUR @Xxs7DeD3SayQp29j6Jgh@
 3 _APID 1,60984::508082
+2 SOUR @S181@
+3 PAGE State Historical Society of Iowa; Des Moines, Iowa; Iowa Dea
+4 CONC th Records; Reference Number: 101784566
+3 OBJE @M101@
+3 _APID 1,61442::600113499
+2 SOUR @S185@
+3 OBJE @M102@
+3 _APID 1,5434::89672
 2 SOUR @sXyDkhg5SlSi1Km4RUgO@
 3 OBJE @tl76ehlFQiy1DfZ6Vi0o@
 3 _APID 1,7181::1655632049
+2 SOUR @9HZoDLydRjGBZ5Mms0jb@
+3 OBJE @M97@
+3 _APID 1,7218::774211
 2 SOUR @D5SLrrBySbi6oa3ygAnv@
 3 OBJE @MocQBuBqRuie1f6xVnd9@
 3 _APID 1,2469::913066081
@@ -6086,11 +7046,41 @@
 4 CONC : 1240352
 3 OBJE @fK2LX0xyQMurMsY6wHWj@
 3 _APID 1,7602::12882946
+2 SOUR @iZlulgkISMSpUuqa7YAc@
+3 PAGE <bibl> <title level="u">Jesse Sands Family Bible Records, 17
+4 CONC 68–1943</title>, <title level="m">The Holy Bible: Containin
+4 CONC g the Old and New Testaments: Together with the Apocrypha</t
+4 CONC itle>, (<pubPlace>Philadelphia</pubPlace>: <publisher>Mathe
+4 CONC w Carey</publisher>, <date>1911</date>), <citedRange>677–80<
+4 CONC /citedRange>, “Family Record”; privately held by Christophe
+4 CONC r Alan Mosher, Shelton, Connecticut, USA, 2019; digital imag
+4 CONC es with diplomatic transcription, <title level="u">Harriso
+4 CONC n Documents</title>, <author>Christopher A. Mosher</author>
+4 CONC , <title level="m">Archive of Historical Family Documents</t
+4 CONC itle> (<ref target="https://mosher.mine.nu/tei/genealogy/mai
+4 CONC n/sources/old/harrison/sands_bible.png.xml.tei.xml"/> : 22 S
+4 CONC ep 2019). Binding is brown leather, dimensions approximatel
+4 CONC y 234 × 281 × 89 mm, “HOLY-BIBLE” on spine, front title pag
+4 CONC e is missing, but it has “New Testament” title page betwee
+4 CONC n pages 834 and 835 (note: page numbers 829–834 are duplicat
+4 CONC ed), page one begins with “¶ The <hi rend="sc">first book</h
+4 CONC i> of <hi rend="sc">moses</hi>, <hi rend="sc">called</hi> <h
+4 CONC i rend="sc">genesis</hi>.” Entries are handwritten in ink, m
+4 CONC ostly dark, but a few entries have faded, the entries are i
+4 CONC n various different hands. Ownership probably: Jesse Sands
+4 CONC , Mary Sands Harrison, Henry Francis Harrison, George Elme
+4 CONC r Harrison, John Harrison, Sally Harrison Brown Duff, Christ
+4 CONC opher Alan Mosher. </bibl>
+3 QUAY 1
+2 SOUR @S185@
+3 OBJE @M102@
+3 _APID 1,5434::89672
 2 SOUR @sXyDkhg5SlSi1Km4RUgO@
 3 OBJE @tl76ehlFQiy1DfZ6Vi0o@
 3 _APID 1,7181::1655632049
-2 SOUR @iZlulgkISMSpUuqa7YAc@
-3 QUAY 1
+2 SOUR @9HZoDLydRjGBZ5Mms0jb@
+3 OBJE @M97@
+3 _APID 1,7218::774211
 2 SOUR @iwYqsrGSQJmp6pLdxj52@
 3 _APID 1,1555::62703
 2 SOUR @fgk8xAOsQLeHP2vct6BI@
@@ -6129,21 +7119,19 @@
 3 OBJE @uHT1SFrRStKZZLJf0T3S@
 3 _APID 1,7667::48691872
 2 NOTE Age: 23
-1 EVEN
+1 EVEN 10th New York Volunteer Cavalry Regiment, “Porter Guard”, Co
+2 CONC mpany H
 2 TYPE military
 2 DATE 02 OCT 1861
-2 PLAC Elmira, New York
+2 PLAC Elmira, Chemung, New York, USA
+3 MAP
+4 LATI N42.0898
+4 LONG W76.8077
+2 SOUR @S185@
+3 OBJE @M102@
+3 _APID 1,5434::89672
 2 SOUR @iwYqsrGSQJmp6pLdxj52@
 3 _APID 1,1555::62703
-1 EVEN
-2 TYPE military
-2 DATE FROM 28 OCT 1861 TO 03 NOV 1864
-2 PLAC Virginia, USA
-3 MAP
-4 LATI N38.0667
-4 LONG W78.5833
-2 SOUR @E90P0XFESRySLVzVjGNN@
-3 QUAY 1
 2 NOTE Also from ancestry.com, need to check these sources: Box #55
 3 CONC 1, Extraction #60, Records 1533, 1565, 1583. Also, this sour
 3 CONC ce (Clayton, W. Woodford, History of Steuben County, New Yor
@@ -6175,6 +7163,16 @@
 3 CONC d Company M from September to December, 1863; the regiment i
 3 CONC n the 1st Brigade, 2d Division, Cavalry Corps, Army of the P
 3 CONC otomac, from May 17, 1864."
+1 RESI
+2 DATE 1865
+2 PLAC Hornby, Steuben, New York, USA
+3 MAP
+4 LATI N42.2442
+4 LONG W77.0444
+2 SOUR @9HZoDLydRjGBZ5Mms0jb@
+3 OBJE @M97@
+3 _APID 1,7218::774211
+2 NOTE Relation to Head of House: Son
 1 RESI
 2 DATE 1880
 2 PLAC Sterling, Whiteside, Illinois, USA
@@ -6221,10 +7219,93 @@
 0 @UxkAEu2jSQeBayHvzdgp@ INDI
 1 REFN 9e7196d6-f1e7-41fc-a005-37804f934ced
 1 NAME William O. /Harrison/
+2 SOUR @FqVxYHCpSgCWd56xJEpO@
+3 PAGE Year: 1850; Census Place: Orange, Steuben, New York; Roll: M
+4 CONC 432_598; Page: 145A; Image: 294
+3 OBJE @M94@
+3 _APID 1,8054::8458244
+2 SOUR @52KZlTzERiy29VDq6FXg@
+3 PAGE Year: 1860; Census Place: Orange, Schuyler, New York; Roll
+4 CONC : M653_859; Page: 525; Family History Library Film: 803859
+3 OBJE @M93@
+3 _APID 1,7667::48587549
+2 SOUR @sXyDkhg5SlSi1Km4RUgO@
+3 OBJE @M95@
+3 _APID 1,7181::1655283554
+2 SOUR @9HZoDLydRjGBZ5Mms0jb@
+3 OBJE @M92@
+3 _APID 1,7218::2170414
 1 SEX M
 1 FAMC @QCyD0QckQVSosMDkO6Q0@
+1 FAMS @F477@
 1 BIRT
 2 DATE 01 AUG 1816
+2 PLAC Orange, New York, USA
+3 MAP
+4 LATI N41.4021
+4 LONG W74.3063
+2 SOUR @FqVxYHCpSgCWd56xJEpO@
+3 PAGE Year: 1850; Census Place: Orange, Steuben, New York; Roll: M
+4 CONC 432_598; Page: 145A; Image: 294
+3 OBJE @M94@
+3 _APID 1,8054::8458244
+2 SOUR @52KZlTzERiy29VDq6FXg@
+3 PAGE Year: 1860; Census Place: Orange, Schuyler, New York; Roll
+4 CONC : M653_859; Page: 525; Family History Library Film: 803859
+3 OBJE @M93@
+3 _APID 1,7667::48587549
+2 SOUR @sXyDkhg5SlSi1Km4RUgO@
+3 OBJE @M95@
+3 _APID 1,7181::1655283554
+2 SOUR @9HZoDLydRjGBZ5Mms0jb@
+3 OBJE @M92@
+3 _APID 1,7218::2170414
+1 RESI
+2 DATE 1850
+2 PLAC Orange, Steuben, New York, USA
+2 SOUR @FqVxYHCpSgCWd56xJEpO@
+3 PAGE Year: 1850; Census Place: Orange, Steuben, New York; Roll: M
+4 CONC 432_598; Page: 145A; Image: 294
+3 OBJE @M94@
+3 _APID 1,8054::8458244
+1 RESI
+2 DATE 1855
+2 PLAC Orange, Schuyler, New York, USA
+3 MAP
+4 LATI N42.3328
+4 LONG W77.0353
+2 SOUR @sXyDkhg5SlSi1Km4RUgO@
+3 OBJE @M95@
+3 _APID 1,7181::1655283554
+2 NOTE Relation to Head: Head
+1 RESI
+2 DATE 1860
+2 PLAC Orange, Schuyler, New York, USA
+3 MAP
+4 LATI N42.3328
+4 LONG W77.0353
+2 SOUR @52KZlTzERiy29VDq6FXg@
+3 PAGE Year: 1860; Census Place: Orange, Schuyler, New York; Roll
+4 CONC : M653_859; Page: 525; Family History Library Film: 803859
+3 OBJE @M93@
+3 _APID 1,7667::48587549
+2 NOTE Residence Post Office: Orange
+1 RESI
+2 DATE 1865
+2 PLAC Orange, Schuyler, New York, USA
+3 MAP
+4 LATI N42.3328
+4 LONG W77.0353
+2 SOUR @9HZoDLydRjGBZ5Mms0jb@
+3 OBJE @M92@
+3 _APID 1,7218::2170414
+2 NOTE Relation to Head of House: Head
+1 DEAT
+2 DATE ABT 1868
+2 PLAC Orange, Schuyler, New York, USA
+3 MAP
+4 LATI N42.3328
+4 LONG W77.0353
 1 _XY 86019 2293
 0 @Ptl4Kv0JRoKfmViMFjaV@ INDI
 1 REFN 5da4cf41-1de2-41d2-ba37-c16b19c49fe0
@@ -8342,6 +9423,30 @@
 1 DEAT
 2 DATE 30 APR 1815
 2 SOUR @iZlulgkISMSpUuqa7YAc@
+3 PAGE <bibl> <title level="u">Jesse Sands Family Bible Records, 17
+4 CONC 68–1943</title>, <title level="m">The Holy Bible: Containin
+4 CONC g the Old and New Testaments: Together with the Apocrypha</t
+4 CONC itle>, (<pubPlace>Philadelphia</pubPlace>: <publisher>Mathe
+4 CONC w Carey</publisher>, <date>1911</date>), <citedRange>677–80<
+4 CONC /citedRange>, “Family Record”; privately held by Christophe
+4 CONC r Alan Mosher, Shelton, Connecticut, USA, 2019; digital imag
+4 CONC es with diplomatic transcription, <title level="u">Harriso
+4 CONC n Documents</title>, <author>Christopher A. Mosher</author>
+4 CONC , <title level="m">Archive of Historical Family Documents</t
+4 CONC itle> (<ref target="https://mosher.mine.nu/tei/genealogy/mai
+4 CONC n/sources/old/harrison/sands_bible.png.xml.tei.xml"/> : 22 S
+4 CONC ep 2019). Binding is brown leather, dimensions approximatel
+4 CONC y 234 × 281 × 89 mm, “HOLY-BIBLE” on spine, front title pag
+4 CONC e is missing, but it has “New Testament” title page betwee
+4 CONC n pages 834 and 835 (note: page numbers 829–834 are duplicat
+4 CONC ed), page one begins with “¶ The <hi rend="sc">first book</h
+4 CONC i> of <hi rend="sc">moses</hi>, <hi rend="sc">called</hi> <h
+4 CONC i rend="sc">genesis</hi>.” Entries are handwritten in ink, m
+4 CONC ostly dark, but a few entries have faded, the entries are i
+4 CONC n various different hands. Ownership probably: Jesse Sands
+4 CONC , Mary Sands Harrison, Henry Francis Harrison, George Elme
+4 CONC r Harrison, John Harrison, Sally Harrison Brown Duff, Christ
+4 CONC opher Alan Mosher. </bibl>
 3 QUAY 1
 2 SOUR @D5Hfu5V4QiadE6qpxHG2@
 3 PAGE Volume: 298
@@ -8833,14 +9938,60 @@
 1 FAMS @Mr7JCmCCRCieYbPXagjg@
 1 WILL
 2 DATE 15 JUL 1728
-2 SOUR @8v9bsx7aRtS4AMUKUVLd@
+2 SOUR @S20@
 3 QUAY 2
-2 SOUR @H8tRybUCSByOrPN7Yl6r@
+3 DATA
+4 TEXT Original is NYC Wills liber 11, p. 124, In the name of God
+5 CONC , Amen. "I, NICHOLAS LANGE, being by Divine Favour in tolera
+5 CONC ble health." After the payment of debts, the remainder of m
+5 CONC y estate is to be divided into six parts, and five of the pa
+5 CONC rts are to be divided among my five children, Elizabeth Form
+5 CONC an, William, Ann Hutton, Susannah Sands, and Sarah Forman. M
+5 CONC y daughter, Elizabeth Forman, is to have only the income o
+5 CONC f her part, unless she is left a widow. "If she die, then he
+5 CONC r share is to go to such of her children as shall best perfo
+5 CONC rm their duty to her, in the most becoming manner." The shar
+5 CONC es of the other children are to descend to the children tha
+5 CONC t behave best. Out of the remaining 1/6 of my estate, my fou
+5 CONC r sons-in-law, Jacob, Othniel, John, and Aaron, "are each t
+5 CONC o have 10 shillings, to buy them a pair of gloves." And eac
+5 CONC h of my grand children are to have "so much as will buy the
+5 CONC m a good Pocket Bible." One-half of the remainder is for th
+5 CONC e support of my daughter Susannah's son William. The rest i
+5 CONC s to be given to my grand children, "unless any of them shou
+5 CONC ld prove impotent or helpless, in which case they are to hav
+5 CONC e a double share." My son William, Othniel Sands, and Aaro
+5 CONC n Forman, are made executors. Dated July 15, 1728. Witnesses
+5 CONC , Daniel Birdsell, John Aspinwall, Israel Green. Proved at H
+5 CONC empstead, April 20, 1731.
 1 DEAT
 2 DATE BEF 19 APR 1731
-2 SOUR @8v9bsx7aRtS4AMUKUVLd@
+2 SOUR @S20@
 3 QUAY 3
-2 SOUR @H8tRybUCSByOrPN7Yl6r@
+3 DATA
+4 TEXT Original is NYC Wills liber 11, p. 124, In the name of God
+5 CONC , Amen. "I, NICHOLAS LANGE, being by Divine Favour in tolera
+5 CONC ble health." After the payment of debts, the remainder of m
+5 CONC y estate is to be divided into six parts, and five of the pa
+5 CONC rts are to be divided among my five children, Elizabeth Form
+5 CONC an, William, Ann Hutton, Susannah Sands, and Sarah Forman. M
+5 CONC y daughter, Elizabeth Forman, is to have only the income o
+5 CONC f her part, unless she is left a widow. "If she die, then he
+5 CONC r share is to go to such of her children as shall best perfo
+5 CONC rm their duty to her, in the most becoming manner." The shar
+5 CONC es of the other children are to descend to the children tha
+5 CONC t behave best. Out of the remaining 1/6 of my estate, my fou
+5 CONC r sons-in-law, Jacob, Othniel, John, and Aaron, "are each t
+5 CONC o have 10 shillings, to buy them a pair of gloves." And eac
+5 CONC h of my grand children are to have "so much as will buy the
+5 CONC m a good Pocket Bible." One-half of the remainder is for th
+5 CONC e support of my daughter Susannah's son William. The rest i
+5 CONC s to be given to my grand children, "unless any of them shou
+5 CONC ld prove impotent or helpless, in which case they are to hav
+5 CONC e a double share." My son William, Othniel Sands, and Aaro
+5 CONC n Forman, are made executors. Dated July 15, 1728. Witnesses
+5 CONC , Daniel Birdsell, John Aspinwall, Israel Green. Proved at H
+5 CONC empstead, April 20, 1731.
 1 PROB
 2 DATE 20 APR 1731
 2 PLAC Hempstead, Nassau, New York, USA
@@ -8881,9 +10032,32 @@
 0 @myLxxObVRfa70Y7ycawk@ INDI
 1 REFN 07b52db4-bfdf-4d3c-846b-12d58c08bf88
 1 NAME William /Lang/
-2 SOUR @8v9bsx7aRtS4AMUKUVLd@
+2 SOUR @S20@
 3 QUAY 1
-2 SOUR @H8tRybUCSByOrPN7Yl6r@
+3 DATA
+4 TEXT Original is NYC Wills liber 11, p. 124, In the name of God
+5 CONC , Amen. "I, NICHOLAS LANGE, being by Divine Favour in tolera
+5 CONC ble health." After the payment of debts, the remainder of m
+5 CONC y estate is to be divided into six parts, and five of the pa
+5 CONC rts are to be divided among my five children, Elizabeth Form
+5 CONC an, William, Ann Hutton, Susannah Sands, and Sarah Forman. M
+5 CONC y daughter, Elizabeth Forman, is to have only the income o
+5 CONC f her part, unless she is left a widow. "If she die, then he
+5 CONC r share is to go to such of her children as shall best perfo
+5 CONC rm their duty to her, in the most becoming manner." The shar
+5 CONC es of the other children are to descend to the children tha
+5 CONC t behave best. Out of the remaining 1/6 of my estate, my fou
+5 CONC r sons-in-law, Jacob, Othniel, John, and Aaron, "are each t
+5 CONC o have 10 shillings, to buy them a pair of gloves." And eac
+5 CONC h of my grand children are to have "so much as will buy the
+5 CONC m a good Pocket Bible." One-half of the remainder is for th
+5 CONC e support of my daughter Susannah's son William. The rest i
+5 CONC s to be given to my grand children, "unless any of them shou
+5 CONC ld prove impotent or helpless, in which case they are to hav
+5 CONC e a double share." My son William, Othniel Sands, and Aaro
+5 CONC n Forman, are made executors. Dated July 15, 1728. Witnesses
+5 CONC , Daniel Birdsell, John Aspinwall, Israel Green. Proved at H
+5 CONC empstead, April 20, 1731.
 1 SEX M
 1 FAMC @Mr7JCmCCRCieYbPXagjg@
 1 _XY 87025 1684
@@ -9072,9 +10246,15 @@
 2 SOUR @9KLEd603QSqmwr5pAP28@
 3 _APID 1,70511::2700611
 1 _XY 86304 2387
+1 _PHOTO @OcDxhnP7ROiQHrBLKxf6@
 0 @23Clv0lzTYazBvH0nGZI@ INDI
 1 REFN b947db54-f4e3-449c-80e3-c05cfe17abc9
 1 NAME Mary Ann /McLaughlin/
+2 SOUR @S175@
+3 PAGE New York State Department of Health; Albany, NY, USA; New Yo
+4 CONC rk State Marriage Index
+3 OBJE @M89@
+3 _APID 1,61632::1673798
 1 SEX F
 1 FAMS @SECEG17DTR2JpN35QBiT@
 1 BIRT
@@ -9319,6 +10499,111 @@
 4 LONG W1.4611
 2 SOUR @cBT3fG9OT1aT8eHp0ct8@
 1 _XY 87042 1436
+0 @I584@ INDI
+1 REFN 5821e04c-3c8b-4498-8b7a-13b1324f8ba7
+1 NAME Pamelia //
+2 SOUR @FqVxYHCpSgCWd56xJEpO@
+3 PAGE Year: 1850; Census Place: Orange, Steuben, New York; Roll: M
+4 CONC 432_598; Page: 145A; Image: 294
+3 OBJE @M94@
+3 _APID 1,8054::8458245
+2 SOUR @52KZlTzERiy29VDq6FXg@
+3 PAGE Year: 1860; Census Place: Orange, Schuyler, New York; Roll
+4 CONC : M653_859; Page: 525; Family History Library Film: 803859
+3 OBJE @M93@
+3 _APID 1,7667::48587550
+2 SOUR @HQvR6QLyTimkjcRZMuAs@
+3 PAGE Year: 1870; Census Place: Orange, Schuyler, New York; Roll
+4 CONC : M593_1092; Page: 623B; Family History Library Film: 552591
+3 OBJE @M96@
+3 _APID 1,7163::32272044
+2 SOUR @sXyDkhg5SlSi1Km4RUgO@
+3 OBJE @M95@
+3 _APID 1,7181::1655283555
+2 SOUR @9HZoDLydRjGBZ5Mms0jb@
+3 OBJE @M92@
+3 _APID 1,7218::2174074
+1 SEX F
+1 FAMS @F477@
+1 BIRT
+2 DATE ABT 1820
+2 PLAC Orange, Vermont, USA
+3 MAP
+4 LATI N44.0082
+4 LONG W72.3816
+2 SOUR @FqVxYHCpSgCWd56xJEpO@
+3 PAGE Year: 1850; Census Place: Orange, Steuben, New York; Roll: M
+4 CONC 432_598; Page: 145A; Image: 294
+3 OBJE @M94@
+3 _APID 1,8054::8458245
+2 SOUR @52KZlTzERiy29VDq6FXg@
+3 PAGE Year: 1860; Census Place: Orange, Schuyler, New York; Roll
+4 CONC : M653_859; Page: 525; Family History Library Film: 803859
+3 OBJE @M93@
+3 _APID 1,7667::48587550
+2 SOUR @HQvR6QLyTimkjcRZMuAs@
+3 PAGE Year: 1870; Census Place: Orange, Schuyler, New York; Roll
+4 CONC : M593_1092; Page: 623B; Family History Library Film: 552591
+3 OBJE @M96@
+3 _APID 1,7163::32272044
+2 SOUR @sXyDkhg5SlSi1Km4RUgO@
+3 OBJE @M95@
+3 _APID 1,7181::1655283555
+2 SOUR @9HZoDLydRjGBZ5Mms0jb@
+3 OBJE @M92@
+3 _APID 1,7218::2174074
+1 RESI
+2 DATE 1850
+2 PLAC Orange, Steuben, New York, USA
+2 SOUR @FqVxYHCpSgCWd56xJEpO@
+3 PAGE Year: 1850; Census Place: Orange, Steuben, New York; Roll: M
+4 CONC 432_598; Page: 145A; Image: 294
+3 OBJE @M94@
+3 _APID 1,8054::8458245
+1 RESI
+2 DATE 1855
+2 PLAC Orange, Schuyler, New York, USA
+3 MAP
+4 LATI N42.3328
+4 LONG W77.0353
+2 SOUR @sXyDkhg5SlSi1Km4RUgO@
+3 OBJE @M95@
+3 _APID 1,7181::1655283555
+2 NOTE Relation to Head: Wife
+1 RESI
+2 DATE 1860
+2 PLAC Orange, Schuyler, New York, USA
+3 MAP
+4 LATI N42.3328
+4 LONG W77.0353
+2 SOUR @52KZlTzERiy29VDq6FXg@
+3 PAGE Year: 1860; Census Place: Orange, Schuyler, New York; Roll
+4 CONC : M653_859; Page: 525; Family History Library Film: 803859
+3 OBJE @M93@
+3 _APID 1,7667::48587550
+2 NOTE Residence Post Office: Orange
+1 RESI
+2 DATE 1865
+2 PLAC Orange, Schuyler, New York, USA
+3 MAP
+4 LATI N42.3328
+4 LONG W77.0353
+2 SOUR @9HZoDLydRjGBZ5Mms0jb@
+3 OBJE @M92@
+3 _APID 1,7218::2174074
+2 NOTE Relation to Head of House: Wife
+1 RESI
+2 DATE 1870
+2 PLAC Orange, Schuyler, New York, USA
+3 MAP
+4 LATI N42.3328
+4 LONG W77.0353
+2 SOUR @HQvR6QLyTimkjcRZMuAs@
+3 PAGE Year: 1870; Census Place: Orange, Schuyler, New York; Roll
+4 CONC : M593_1092; Page: 623B; Family History Library Film: 552591
+3 OBJE @M96@
+3 _APID 1,7163::32272044
+2 NOTE Residence Post Office: Tyrone
 0 @OXzaj6edTD2vmrVjnD1F@ INDI
 1 REFN 8fd61b1b-bdb4-4952-8b8a-a48edbd906ea
 1 NAME Abigail /Pardee/
@@ -10152,6 +11437,30 @@
 4 LATI N41.2548
 4 LONG W73.9002
 2 SOUR @iZlulgkISMSpUuqa7YAc@
+3 PAGE <bibl> <title level="u">Jesse Sands Family Bible Records, 17
+4 CONC 68–1943</title>, <title level="m">The Holy Bible: Containin
+4 CONC g the Old and New Testaments: Together with the Apocrypha</t
+4 CONC itle>, (<pubPlace>Philadelphia</pubPlace>: <publisher>Mathe
+4 CONC w Carey</publisher>, <date>1911</date>), <citedRange>677–80<
+4 CONC /citedRange>, “Family Record”; privately held by Christophe
+4 CONC r Alan Mosher, Shelton, Connecticut, USA, 2019; digital imag
+4 CONC es with diplomatic transcription, <title level="u">Harriso
+4 CONC n Documents</title>, <author>Christopher A. Mosher</author>
+4 CONC , <title level="m">Archive of Historical Family Documents</t
+4 CONC itle> (<ref target="https://mosher.mine.nu/tei/genealogy/mai
+4 CONC n/sources/old/harrison/sands_bible.png.xml.tei.xml"/> : 22 S
+4 CONC ep 2019). Binding is brown leather, dimensions approximatel
+4 CONC y 234 × 281 × 89 mm, “HOLY-BIBLE” on spine, front title pag
+4 CONC e is missing, but it has “New Testament” title page betwee
+4 CONC n pages 834 and 835 (note: page numbers 829–834 are duplicat
+4 CONC ed), page one begins with “¶ The <hi rend="sc">first book</h
+4 CONC i> of <hi rend="sc">moses</hi>, <hi rend="sc">called</hi> <h
+4 CONC i rend="sc">genesis</hi>.” Entries are handwritten in ink, m
+4 CONC ostly dark, but a few entries have faded, the entries are i
+4 CONC n various different hands. Ownership probably: Jesse Sands
+4 CONC , Mary Sands Harrison, Henry Francis Harrison, George Elme
+4 CONC r Harrison, John Harrison, Sally Harrison Brown Duff, Christ
+4 CONC opher Alan Mosher. </bibl>
 3 QUAY 3
 2 NOTE Pardee Genealogy gives place
 1 PROB
@@ -10539,6 +11848,30 @@
 3 OBJE @Ua9Ha5MfSEurWEWG6PQW@
 3 _APID 1,1034::21935
 2 SOUR @iZlulgkISMSpUuqa7YAc@
+3 PAGE <bibl> <title level="u">Jesse Sands Family Bible Records, 17
+4 CONC 68–1943</title>, <title level="m">The Holy Bible: Containin
+4 CONC g the Old and New Testaments: Together with the Apocrypha</t
+4 CONC itle>, (<pubPlace>Philadelphia</pubPlace>: <publisher>Mathe
+4 CONC w Carey</publisher>, <date>1911</date>), <citedRange>677–80<
+4 CONC /citedRange>, “Family Record”; privately held by Christophe
+4 CONC r Alan Mosher, Shelton, Connecticut, USA, 2019; digital imag
+4 CONC es with diplomatic transcription, <title level="u">Harriso
+4 CONC n Documents</title>, <author>Christopher A. Mosher</author>
+4 CONC , <title level="m">Archive of Historical Family Documents</t
+4 CONC itle> (<ref target="https://mosher.mine.nu/tei/genealogy/mai
+4 CONC n/sources/old/harrison/sands_bible.png.xml.tei.xml"/> : 22 S
+4 CONC ep 2019). Binding is brown leather, dimensions approximatel
+4 CONC y 234 × 281 × 89 mm, “HOLY-BIBLE” on spine, front title pag
+4 CONC e is missing, but it has “New Testament” title page betwee
+4 CONC n pages 834 and 835 (note: page numbers 829–834 are duplicat
+4 CONC ed), page one begins with “¶ The <hi rend="sc">first book</h
+4 CONC i> of <hi rend="sc">moses</hi>, <hi rend="sc">called</hi> <h
+4 CONC i rend="sc">genesis</hi>.” Entries are handwritten in ink, m
+4 CONC ostly dark, but a few entries have faded, the entries are i
+4 CONC n various different hands. Ownership probably: Jesse Sands
+4 CONC , Mary Sands Harrison, Henry Francis Harrison, George Elme
+4 CONC r Harrison, John Harrison, Sally Harrison Brown Duff, Christ
+4 CONC opher Alan Mosher. </bibl>
 3 QUAY 1
 2 SOUR @D5Hfu5V4QiadE6qpxHG2@
 3 PAGE Volume: 298
@@ -10597,6 +11930,30 @@
 4 LATI N42.2442
 4 LONG W77.0444
 2 SOUR @iZlulgkISMSpUuqa7YAc@
+3 PAGE <bibl> <title level="u">Jesse Sands Family Bible Records, 17
+4 CONC 68–1943</title>, <title level="m">The Holy Bible: Containin
+4 CONC g the Old and New Testaments: Together with the Apocrypha</t
+4 CONC itle>, (<pubPlace>Philadelphia</pubPlace>: <publisher>Mathe
+4 CONC w Carey</publisher>, <date>1911</date>), <citedRange>677–80<
+4 CONC /citedRange>, “Family Record”; privately held by Christophe
+4 CONC r Alan Mosher, Shelton, Connecticut, USA, 2019; digital imag
+4 CONC es with diplomatic transcription, <title level="u">Harriso
+4 CONC n Documents</title>, <author>Christopher A. Mosher</author>
+4 CONC , <title level="m">Archive of Historical Family Documents</t
+4 CONC itle> (<ref target="https://mosher.mine.nu/tei/genealogy/mai
+4 CONC n/sources/old/harrison/sands_bible.png.xml.tei.xml"/> : 22 S
+4 CONC ep 2019). Binding is brown leather, dimensions approximatel
+4 CONC y 234 × 281 × 89 mm, “HOLY-BIBLE” on spine, front title pag
+4 CONC e is missing, but it has “New Testament” title page betwee
+4 CONC n pages 834 and 835 (note: page numbers 829–834 are duplicat
+4 CONC ed), page one begins with “¶ The <hi rend="sc">first book</h
+4 CONC i> of <hi rend="sc">moses</hi>, <hi rend="sc">called</hi> <h
+4 CONC i rend="sc">genesis</hi>.” Entries are handwritten in ink, m
+4 CONC ostly dark, but a few entries have faded, the entries are i
+4 CONC n various different hands. Ownership probably: Jesse Sands
+4 CONC , Mary Sands Harrison, Henry Francis Harrison, George Elme
+4 CONC r Harrison, John Harrison, Sally Harrison Brown Duff, Christ
+4 CONC opher Alan Mosher. </bibl>
 3 QUAY 1
 2 SOUR @D5Hfu5V4QiadE6qpxHG2@
 3 PAGE Volume: 298
@@ -10810,6 +12167,30 @@
 1 DEAT
 2 DATE 07 JAN 1803
 2 SOUR @iZlulgkISMSpUuqa7YAc@
+3 PAGE <bibl> <title level="u">Jesse Sands Family Bible Records, 17
+4 CONC 68–1943</title>, <title level="m">The Holy Bible: Containin
+4 CONC g the Old and New Testaments: Together with the Apocrypha</t
+4 CONC itle>, (<pubPlace>Philadelphia</pubPlace>: <publisher>Mathe
+4 CONC w Carey</publisher>, <date>1911</date>), <citedRange>677–80<
+4 CONC /citedRange>, “Family Record”; privately held by Christophe
+4 CONC r Alan Mosher, Shelton, Connecticut, USA, 2019; digital imag
+4 CONC es with diplomatic transcription, <title level="u">Harriso
+4 CONC n Documents</title>, <author>Christopher A. Mosher</author>
+4 CONC , <title level="m">Archive of Historical Family Documents</t
+4 CONC itle> (<ref target="https://mosher.mine.nu/tei/genealogy/mai
+4 CONC n/sources/old/harrison/sands_bible.png.xml.tei.xml"/> : 22 S
+4 CONC ep 2019). Binding is brown leather, dimensions approximatel
+4 CONC y 234 × 281 × 89 mm, “HOLY-BIBLE” on spine, front title pag
+4 CONC e is missing, but it has “New Testament” title page betwee
+4 CONC n pages 834 and 835 (note: page numbers 829–834 are duplicat
+4 CONC ed), page one begins with “¶ The <hi rend="sc">first book</h
+4 CONC i> of <hi rend="sc">moses</hi>, <hi rend="sc">called</hi> <h
+4 CONC i rend="sc">genesis</hi>.” Entries are handwritten in ink, m
+4 CONC ostly dark, but a few entries have faded, the entries are i
+4 CONC n various different hands. Ownership probably: Jesse Sands
+4 CONC , Mary Sands Harrison, Henry Francis Harrison, George Elme
+4 CONC r Harrison, John Harrison, Sally Harrison Brown Duff, Christ
+4 CONC opher Alan Mosher. </bibl>
 3 QUAY 2
 1 _XY 88155 3567
 0 @pu5qgIPiRBOA2CoYYpmj@ INDI
@@ -11532,11 +12913,35 @@
 4 CONC ibrary Film: 552617
 3 OBJE @Ltx9181IQOeyRapR2yUC@
 3 _APID 1,7163::24239671
+2 SOUR @iZlulgkISMSpUuqa7YAc@
+3 PAGE <bibl> <title level="u">Jesse Sands Family Bible Records, 17
+4 CONC 68–1943</title>, <title level="m">The Holy Bible: Containin
+4 CONC g the Old and New Testaments: Together with the Apocrypha</t
+4 CONC itle>, (<pubPlace>Philadelphia</pubPlace>: <publisher>Mathe
+4 CONC w Carey</publisher>, <date>1911</date>), <citedRange>677–80<
+4 CONC /citedRange>, “Family Record”; privately held by Christophe
+4 CONC r Alan Mosher, Shelton, Connecticut, USA, 2019; digital imag
+4 CONC es with diplomatic transcription, <title level="u">Harriso
+4 CONC n Documents</title>, <author>Christopher A. Mosher</author>
+4 CONC , <title level="m">Archive of Historical Family Documents</t
+4 CONC itle> (<ref target="https://mosher.mine.nu/tei/genealogy/mai
+4 CONC n/sources/old/harrison/sands_bible.png.xml.tei.xml"/> : 22 S
+4 CONC ep 2019). Binding is brown leather, dimensions approximatel
+4 CONC y 234 × 281 × 89 mm, “HOLY-BIBLE” on spine, front title pag
+4 CONC e is missing, but it has “New Testament” title page betwee
+4 CONC n pages 834 and 835 (note: page numbers 829–834 are duplicat
+4 CONC ed), page one begins with “¶ The <hi rend="sc">first book</h
+4 CONC i> of <hi rend="sc">moses</hi>, <hi rend="sc">called</hi> <h
+4 CONC i rend="sc">genesis</hi>.” Entries are handwritten in ink, m
+4 CONC ostly dark, but a few entries have faded, the entries are i
+4 CONC n various different hands. Ownership probably: Jesse Sands
+4 CONC , Mary Sands Harrison, Henry Francis Harrison, George Elme
+4 CONC r Harrison, John Harrison, Sally Harrison Brown Duff, Christ
+4 CONC opher Alan Mosher. </bibl>
+3 QUAY 1
 2 SOUR @sXyDkhg5SlSi1Km4RUgO@
 3 OBJE @tl76ehlFQiy1DfZ6Vi0o@
 3 _APID 1,7181::1655632058
-2 SOUR @iZlulgkISMSpUuqa7YAc@
-3 QUAY 1
 2 SOUR @D5Hfu5V4QiadE6qpxHG2@
 3 PAGE Volume: 298; SAR Membership Number: 59590
 3 OBJE @yTScyskoSm60joAlVs7S@
@@ -11597,10 +13002,6 @@
 3 PAGE Volume: 298; SAR Membership Number: 59590
 3 OBJE @yTScyskoSm60joAlVs7S@
 3 _APID 1,2204::1238450
-2 SOUR @xQqsftdFQjixCjmEVLLU@
-3 QUAY 1
-3 DATA
-4 TEXT [Volume 298; SAR Membership Number 59590.]
 2 NOTE place is from ancestry.com OneWorldTree
 1 _XY 87360 2287
 0 @9iXLU6NwT5q06yipbyNH@ INDI
@@ -11644,8 +13045,42 @@
 2 TYPE bought land
 2 DATE BEF 19 SEP 1730
 2 PLAC Matinecock, Oyster Bay, Nassau, New York, USA
-2 SOUR @6si0h38zQbage5qSrgfZ@
+2 SOUR @S20@
 3 QUAY 3
+3 DATA
+4 TEXT NYC wills Liber 12, p 129,
+5 CONT James Sands of Oyster Bay,
+5 CONT son Othniel (lot bought of Anthony Wright),
+5 CONT son James (land bought at Matinecock, house, farm, bought o
+5 CONC f Isaac Forman) (land in Goshen, Orange Co., in partnershi
+5 CONC p with Richard Cornwell),
+5 CONT lists a daughter "Zerriah",
+5 CONT ...
+5 CONT In the name of God, Amen, the 21 day of September, 1730. I
+5 CONC , JAMES SANDS, of Oyster Bay, being in perfect health, I lea
+5 CONC ve to my son, Othniel Sands, the west lot, that I bought o
+5 CONC f Anthony Wright, and 1/2 of my right in the Old Purchase, b
+5 CONC esides what I have already given to him by deed of gift, An
+5 CONC d he is to pay to my sons Abijah and John, each £13. I leav
+5 CONC e to my son, James Sands, all my farm, meadows, and messuage
+5 CONC s, now in my possession at Matinecock, in Queens County, tha
+5 CONC t is, my house, farm, besides all that I lately bought of Is
+5 CONC aac Foreman, and 1/2 of my right on the east end of the Plai
+5 CONC ns; Also 2 young oxen, 2 cows, 3 horses, and all my carpente
+5 CONC r and cooper's tools, And he is to pay to my sons Abijah an
+5 CONC d John, £20 each. I leave to my sons Abijah and John all tha
+5 CONC t half share of land of mine in Goshen, in Orange County, i
+5 CONC n partnership with Richard Cornwell, except 100 acres give
+5 CONC n to Samuel Everitt; Also 1/2 my right in Oyster Bay Old Pur
+5 CONC chase, Also a bed and covering. I leave all the rest of my p
+5 CONC ersonal property to my 4 daughters, Mary, Zerviah, Jerusha
+5 CONC , and Sarah. "My son James is to keep 1/2 of Sarah's part, t
+5 CONC ill Sarah hath a child, and if that never be, then to Jame
+5 CONC s to remain." I leave to my grand daughter, Sarah Everitt, £
+5 CONC 10. I appoint Caleb Cornell, Esq., of Hempstead, and Samue
+5 CONC l Underhill, of Oyster Bay, executors. Witnesses, William Bu
+5 CONC rch, Peter Hegeman, Benjamin Carpenter. Proved, January 16
+5 CONC , 1733/4.
 2 NOTE his house and farm were on this land in the "Old Purchase" o
 3 CONC f Oyster Bay
 1 EVEN
@@ -11655,8 +13090,42 @@
 3 MAP
 4 LATI N40.8657
 4 LONG W73.5321
-2 SOUR @6si0h38zQbage5qSrgfZ@
+2 SOUR @S20@
 3 QUAY 3
+3 DATA
+4 TEXT NYC wills Liber 12, p 129,
+5 CONT James Sands of Oyster Bay,
+5 CONT son Othniel (lot bought of Anthony Wright),
+5 CONT son James (land bought at Matinecock, house, farm, bought o
+5 CONC f Isaac Forman) (land in Goshen, Orange Co., in partnershi
+5 CONC p with Richard Cornwell),
+5 CONT lists a daughter "Zerriah",
+5 CONT ...
+5 CONT In the name of God, Amen, the 21 day of September, 1730. I
+5 CONC , JAMES SANDS, of Oyster Bay, being in perfect health, I lea
+5 CONC ve to my son, Othniel Sands, the west lot, that I bought o
+5 CONC f Anthony Wright, and 1/2 of my right in the Old Purchase, b
+5 CONC esides what I have already given to him by deed of gift, An
+5 CONC d he is to pay to my sons Abijah and John, each £13. I leav
+5 CONC e to my son, James Sands, all my farm, meadows, and messuage
+5 CONC s, now in my possession at Matinecock, in Queens County, tha
+5 CONC t is, my house, farm, besides all that I lately bought of Is
+5 CONC aac Foreman, and 1/2 of my right on the east end of the Plai
+5 CONC ns; Also 2 young oxen, 2 cows, 3 horses, and all my carpente
+5 CONC r and cooper's tools, And he is to pay to my sons Abijah an
+5 CONC d John, £20 each. I leave to my sons Abijah and John all tha
+5 CONC t half share of land of mine in Goshen, in Orange County, i
+5 CONC n partnership with Richard Cornwell, except 100 acres give
+5 CONC n to Samuel Everitt; Also 1/2 my right in Oyster Bay Old Pur
+5 CONC chase, Also a bed and covering. I leave all the rest of my p
+5 CONC ersonal property to my 4 daughters, Mary, Zerviah, Jerusha
+5 CONC , and Sarah. "My son James is to keep 1/2 of Sarah's part, t
+5 CONC ill Sarah hath a child, and if that never be, then to Jame
+5 CONC s to remain." I leave to my grand daughter, Sarah Everitt, £
+5 CONC 10. I appoint Caleb Cornell, Esq., of Hempstead, and Samue
+5 CONC l Underhill, of Oyster Bay, executors. Witnesses, William Bu
+5 CONC rch, Peter Hegeman, Benjamin Carpenter. Proved, January 16
+5 CONC , 1733/4.
 2 NOTE "West Lot," bought from Anthony Wright
 1 WILL
 2 DATE 21 SEP 1730
@@ -11664,17 +13133,119 @@
 3 MAP
 4 LATI N40.8657
 4 LONG W73.5321
-2 SOUR @6si0h38zQbage5qSrgfZ@
+2 SOUR @S20@
 3 QUAY 1
+3 DATA
+4 TEXT NYC wills Liber 12, p 129,
+5 CONT James Sands of Oyster Bay,
+5 CONT son Othniel (lot bought of Anthony Wright),
+5 CONT son James (land bought at Matinecock, house, farm, bought o
+5 CONC f Isaac Forman) (land in Goshen, Orange Co., in partnershi
+5 CONC p with Richard Cornwell),
+5 CONT lists a daughter "Zerriah",
+5 CONT ...
+5 CONT In the name of God, Amen, the 21 day of September, 1730. I
+5 CONC , JAMES SANDS, of Oyster Bay, being in perfect health, I lea
+5 CONC ve to my son, Othniel Sands, the west lot, that I bought o
+5 CONC f Anthony Wright, and 1/2 of my right in the Old Purchase, b
+5 CONC esides what I have already given to him by deed of gift, An
+5 CONC d he is to pay to my sons Abijah and John, each £13. I leav
+5 CONC e to my son, James Sands, all my farm, meadows, and messuage
+5 CONC s, now in my possession at Matinecock, in Queens County, tha
+5 CONC t is, my house, farm, besides all that I lately bought of Is
+5 CONC aac Foreman, and 1/2 of my right on the east end of the Plai
+5 CONC ns; Also 2 young oxen, 2 cows, 3 horses, and all my carpente
+5 CONC r and cooper's tools, And he is to pay to my sons Abijah an
+5 CONC d John, £20 each. I leave to my sons Abijah and John all tha
+5 CONC t half share of land of mine in Goshen, in Orange County, i
+5 CONC n partnership with Richard Cornwell, except 100 acres give
+5 CONC n to Samuel Everitt; Also 1/2 my right in Oyster Bay Old Pur
+5 CONC chase, Also a bed and covering. I leave all the rest of my p
+5 CONC ersonal property to my 4 daughters, Mary, Zerviah, Jerusha
+5 CONC , and Sarah. "My son James is to keep 1/2 of Sarah's part, t
+5 CONC ill Sarah hath a child, and if that never be, then to Jame
+5 CONC s to remain." I leave to my grand daughter, Sarah Everitt, £
+5 CONC 10. I appoint Caleb Cornell, Esq., of Hempstead, and Samue
+5 CONC l Underhill, of Oyster Bay, executors. Witnesses, William Bu
+5 CONC rch, Peter Hegeman, Benjamin Carpenter. Proved, January 16
+5 CONC , 1733/4.
 1 DEAT
 2 DATE ABT 15 JAN 1734
 2 PLAC Matinecock, Oyster Bay, Nassau, New York, USA
-2 SOUR @6si0h38zQbage5qSrgfZ@
+2 SOUR @S20@
 3 QUAY 2
+3 DATA
+4 TEXT NYC wills Liber 12, p 129,
+5 CONT James Sands of Oyster Bay,
+5 CONT son Othniel (lot bought of Anthony Wright),
+5 CONT son James (land bought at Matinecock, house, farm, bought o
+5 CONC f Isaac Forman) (land in Goshen, Orange Co., in partnershi
+5 CONC p with Richard Cornwell),
+5 CONT lists a daughter "Zerriah",
+5 CONT ...
+5 CONT In the name of God, Amen, the 21 day of September, 1730. I
+5 CONC , JAMES SANDS, of Oyster Bay, being in perfect health, I lea
+5 CONC ve to my son, Othniel Sands, the west lot, that I bought o
+5 CONC f Anthony Wright, and 1/2 of my right in the Old Purchase, b
+5 CONC esides what I have already given to him by deed of gift, An
+5 CONC d he is to pay to my sons Abijah and John, each £13. I leav
+5 CONC e to my son, James Sands, all my farm, meadows, and messuage
+5 CONC s, now in my possession at Matinecock, in Queens County, tha
+5 CONC t is, my house, farm, besides all that I lately bought of Is
+5 CONC aac Foreman, and 1/2 of my right on the east end of the Plai
+5 CONC ns; Also 2 young oxen, 2 cows, 3 horses, and all my carpente
+5 CONC r and cooper's tools, And he is to pay to my sons Abijah an
+5 CONC d John, £20 each. I leave to my sons Abijah and John all tha
+5 CONC t half share of land of mine in Goshen, in Orange County, i
+5 CONC n partnership with Richard Cornwell, except 100 acres give
+5 CONC n to Samuel Everitt; Also 1/2 my right in Oyster Bay Old Pur
+5 CONC chase, Also a bed and covering. I leave all the rest of my p
+5 CONC ersonal property to my 4 daughters, Mary, Zerviah, Jerusha
+5 CONC , and Sarah. "My son James is to keep 1/2 of Sarah's part, t
+5 CONC ill Sarah hath a child, and if that never be, then to Jame
+5 CONC s to remain." I leave to my grand daughter, Sarah Everitt, £
+5 CONC 10. I appoint Caleb Cornell, Esq., of Hempstead, and Samue
+5 CONC l Underhill, of Oyster Bay, executors. Witnesses, William Bu
+5 CONC rch, Peter Hegeman, Benjamin Carpenter. Proved, January 16
+5 CONC , 1733/4.
 1 PROB
 2 DATE 16 JAN 1734
-2 SOUR @6si0h38zQbage5qSrgfZ@
+2 SOUR @S20@
 3 QUAY 1
+3 DATA
+4 TEXT NYC wills Liber 12, p 129,
+5 CONT James Sands of Oyster Bay,
+5 CONT son Othniel (lot bought of Anthony Wright),
+5 CONT son James (land bought at Matinecock, house, farm, bought o
+5 CONC f Isaac Forman) (land in Goshen, Orange Co., in partnershi
+5 CONC p with Richard Cornwell),
+5 CONT lists a daughter "Zerriah",
+5 CONT ...
+5 CONT In the name of God, Amen, the 21 day of September, 1730. I
+5 CONC , JAMES SANDS, of Oyster Bay, being in perfect health, I lea
+5 CONC ve to my son, Othniel Sands, the west lot, that I bought o
+5 CONC f Anthony Wright, and 1/2 of my right in the Old Purchase, b
+5 CONC esides what I have already given to him by deed of gift, An
+5 CONC d he is to pay to my sons Abijah and John, each £13. I leav
+5 CONC e to my son, James Sands, all my farm, meadows, and messuage
+5 CONC s, now in my possession at Matinecock, in Queens County, tha
+5 CONC t is, my house, farm, besides all that I lately bought of Is
+5 CONC aac Foreman, and 1/2 of my right on the east end of the Plai
+5 CONC ns; Also 2 young oxen, 2 cows, 3 horses, and all my carpente
+5 CONC r and cooper's tools, And he is to pay to my sons Abijah an
+5 CONC d John, £20 each. I leave to my sons Abijah and John all tha
+5 CONC t half share of land of mine in Goshen, in Orange County, i
+5 CONC n partnership with Richard Cornwell, except 100 acres give
+5 CONC n to Samuel Everitt; Also 1/2 my right in Oyster Bay Old Pur
+5 CONC chase, Also a bed and covering. I leave all the rest of my p
+5 CONC ersonal property to my 4 daughters, Mary, Zerviah, Jerusha
+5 CONC , and Sarah. "My son James is to keep 1/2 of Sarah's part, t
+5 CONC ill Sarah hath a child, and if that never be, then to Jame
+5 CONC s to remain." I leave to my grand daughter, Sarah Everitt, £
+5 CONC 10. I appoint Caleb Cornell, Esq., of Hempstead, and Samue
+5 CONC l Underhill, of Oyster Bay, executors. Witnesses, William Bu
+5 CONC rch, Peter Hegeman, Benjamin Carpenter. Proved, January 16
+5 CONC , 1733/4.
 1 _XY 87258 1887
 0 @nAJ7oDTQTNuADhX9ViIr@ INDI
 1 REFN 5f3a1168-c74d-4a4a-a97c-623bb9401e63
@@ -11688,8 +13259,34 @@
 3 QUAY 1
 1 DEAT
 2 DATE AFT 19 AUG 1757
-2 SOUR @ytslobysTxuoNgKl0xk0@
+2 SOUR @S20@
 3 QUAY 3
+3 DATA
+4 TEXT NYC Wills Liber 22, p. 500,
+5 CONT In the name of God, Amen, August 19, 1757. I, OTHNIEL SANDS
+5 CONC , of Westchester County, being sick. I leave to my wife Susa
+5 CONC nna, "a good horse, and saddle covered with Plush, and a goo
+5 CONC d cow. All the rest of my estate I order sold and the mone
+5 CONC y divided among my children, "their tender mother to have a
+5 CONC n equal part," except my two youngest daughters, Susanna an
+5 CONC d Sarah, I give each of them £30, I give to my 4 grandchildr
+5 CONC en, that is, John Forman's children, £5 each. To my son Cale
+5 CONC b's child £5, To my son James' child £5 (names of grandchild
+5 CONC ren not given). I leave to my son Caleb 5 shillings more tha
+5 CONC n the rest of my children. And as for my part of the undivid
+5 CONC ed land in the Old Purchases on Long Island in Oyster Bay
+5 CONC , I leave 1/3 to my son Caleb "and the rest among the rest,
+5 CONC " "I order my son Samuel to be put to his brother Othniel t
+5 CONC o larn ye Taylor's Trade," I leave to my wife and her two da
+5 CONC ughters the west room in my house and the Leanto, and my so
+5 CONC n Caleb is to furnish my wife fire wood and provisions. I ma
+5 CONC ke my son Caleb and my brother, James Sands, executors. Witn
+5 CONC esses, Nicholas Williamson, Wynant Williamson, Jr., Willia
+5 CONC m Johnston, cordwainer. Codicil, I leave to my wife Susanna
+5 CONC h 3 feather beds, an Iron pot, chest and box, and sundry art
+5 CONC icles of domestic use, after her death they are to go to m
+5 CONC y daughter Jerusha. September 3, 1757. Proved, April 2, 1761
+5 CONC .
 1 _XY 87488 1987
 0 @0qXzA8UISzOlvbFVqsPy@ INDI
 1 REFN e4df05e7-e3d2-4563-8a6c-6a09ece9edee
@@ -11786,6 +13383,30 @@
 4 LATI N41.2548
 4 LONG W73.9002
 2 SOUR @iZlulgkISMSpUuqa7YAc@
+3 PAGE <bibl> <title level="u">Jesse Sands Family Bible Records, 17
+4 CONC 68–1943</title>, <title level="m">The Holy Bible: Containin
+4 CONC g the Old and New Testaments: Together with the Apocrypha</t
+4 CONC itle>, (<pubPlace>Philadelphia</pubPlace>: <publisher>Mathe
+4 CONC w Carey</publisher>, <date>1911</date>), <citedRange>677–80<
+4 CONC /citedRange>, “Family Record”; privately held by Christophe
+4 CONC r Alan Mosher, Shelton, Connecticut, USA, 2019; digital imag
+4 CONC es with diplomatic transcription, <title level="u">Harriso
+4 CONC n Documents</title>, <author>Christopher A. Mosher</author>
+4 CONC , <title level="m">Archive of Historical Family Documents</t
+4 CONC itle> (<ref target="https://mosher.mine.nu/tei/genealogy/mai
+4 CONC n/sources/old/harrison/sands_bible.png.xml.tei.xml"/> : 22 S
+4 CONC ep 2019). Binding is brown leather, dimensions approximatel
+4 CONC y 234 × 281 × 89 mm, “HOLY-BIBLE” on spine, front title pag
+4 CONC e is missing, but it has “New Testament” title page betwee
+4 CONC n pages 834 and 835 (note: page numbers 829–834 are duplicat
+4 CONC ed), page one begins with “¶ The <hi rend="sc">first book</h
+4 CONC i> of <hi rend="sc">moses</hi>, <hi rend="sc">called</hi> <h
+4 CONC i rend="sc">genesis</hi>.” Entries are handwritten in ink, m
+4 CONC ostly dark, but a few entries have faded, the entries are i
+4 CONC n various different hands. Ownership probably: Jesse Sands
+4 CONC , Mary Sands Harrison, Henry Francis Harrison, George Elme
+4 CONC r Harrison, John Harrison, Sally Harrison Brown Duff, Christ
+4 CONC opher Alan Mosher. </bibl>
 3 QUAY 1
 2 SOUR @D5Hfu5V4QiadE6qpxHG2@
 3 PAGE Volume: 298
@@ -11990,6 +13611,30 @@
 4 LATI N42.2442
 4 LONG W77.0444
 2 SOUR @iZlulgkISMSpUuqa7YAc@
+3 PAGE <bibl> <title level="u">Jesse Sands Family Bible Records, 17
+4 CONC 68–1943</title>, <title level="m">The Holy Bible: Containin
+4 CONC g the Old and New Testaments: Together with the Apocrypha</t
+4 CONC itle>, (<pubPlace>Philadelphia</pubPlace>: <publisher>Mathe
+4 CONC w Carey</publisher>, <date>1911</date>), <citedRange>677–80<
+4 CONC /citedRange>, “Family Record”; privately held by Christophe
+4 CONC r Alan Mosher, Shelton, Connecticut, USA, 2019; digital imag
+4 CONC es with diplomatic transcription, <title level="u">Harriso
+4 CONC n Documents</title>, <author>Christopher A. Mosher</author>
+4 CONC , <title level="m">Archive of Historical Family Documents</t
+4 CONC itle> (<ref target="https://mosher.mine.nu/tei/genealogy/mai
+4 CONC n/sources/old/harrison/sands_bible.png.xml.tei.xml"/> : 22 S
+4 CONC ep 2019). Binding is brown leather, dimensions approximatel
+4 CONC y 234 × 281 × 89 mm, “HOLY-BIBLE” on spine, front title pag
+4 CONC e is missing, but it has “New Testament” title page betwee
+4 CONC n pages 834 and 835 (note: page numbers 829–834 are duplicat
+4 CONC ed), page one begins with “¶ The <hi rend="sc">first book</h
+4 CONC i> of <hi rend="sc">moses</hi>, <hi rend="sc">called</hi> <h
+4 CONC i rend="sc">genesis</hi>.” Entries are handwritten in ink, m
+4 CONC ostly dark, but a few entries have faded, the entries are i
+4 CONC n various different hands. Ownership probably: Jesse Sands
+4 CONC , Mary Sands Harrison, Henry Francis Harrison, George Elme
+4 CONC r Harrison, John Harrison, Sally Harrison Brown Duff, Christ
+4 CONC opher Alan Mosher. </bibl>
 3 QUAY 1
 2 SOUR @D5Hfu5V4QiadE6qpxHG2@
 3 PAGE Volume: 298
@@ -12155,6 +13800,30 @@
 3 OBJE @tHYe6NOtS6e3IKmnmTpT@
 3 _APID 1,6742::47103293
 2 SOUR @iZlulgkISMSpUuqa7YAc@
+3 PAGE <bibl> <title level="u">Jesse Sands Family Bible Records, 17
+4 CONC 68–1943</title>, <title level="m">The Holy Bible: Containin
+4 CONC g the Old and New Testaments: Together with the Apocrypha</t
+4 CONC itle>, (<pubPlace>Philadelphia</pubPlace>: <publisher>Mathe
+4 CONC w Carey</publisher>, <date>1911</date>), <citedRange>677–80<
+4 CONC /citedRange>, “Family Record”; privately held by Christophe
+4 CONC r Alan Mosher, Shelton, Connecticut, USA, 2019; digital imag
+4 CONC es with diplomatic transcription, <title level="u">Harriso
+4 CONC n Documents</title>, <author>Christopher A. Mosher</author>
+4 CONC , <title level="m">Archive of Historical Family Documents</t
+4 CONC itle> (<ref target="https://mosher.mine.nu/tei/genealogy/mai
+4 CONC n/sources/old/harrison/sands_bible.png.xml.tei.xml"/> : 22 S
+4 CONC ep 2019). Binding is brown leather, dimensions approximatel
+4 CONC y 234 × 281 × 89 mm, “HOLY-BIBLE” on spine, front title pag
+4 CONC e is missing, but it has “New Testament” title page betwee
+4 CONC n pages 834 and 835 (note: page numbers 829–834 are duplicat
+4 CONC ed), page one begins with “¶ The <hi rend="sc">first book</h
+4 CONC i> of <hi rend="sc">moses</hi>, <hi rend="sc">called</hi> <h
+4 CONC i rend="sc">genesis</hi>.” Entries are handwritten in ink, m
+4 CONC ostly dark, but a few entries have faded, the entries are i
+4 CONC n various different hands. Ownership probably: Jesse Sands
+4 CONC , Mary Sands Harrison, Henry Francis Harrison, George Elme
+4 CONC r Harrison, John Harrison, Sally Harrison Brown Duff, Christ
+4 CONC opher Alan Mosher. </bibl>
 3 QUAY 1
 2 SOUR @RDxtO1KFS2KzRKraHOo2@
 3 _APID 1,70509::5567169
@@ -12330,9 +13999,17 @@
 3 DATA
 4 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=62861
 5 CONC &pid=525
+2 SOUR @S181@
+3 PAGE State Historical Society of Iowa; Des Moines, Iowa; Iowa Dea
+4 CONC th Records; Reference Number: 101821058
+3 OBJE @M98@
+3 _APID 1,61442::750383953
 2 SOUR @sXyDkhg5SlSi1Km4RUgO@
 3 OBJE @tl76ehlFQiy1DfZ6Vi0o@
 3 _APID 1,7181::1655632048
+2 SOUR @9HZoDLydRjGBZ5Mms0jb@
+3 OBJE @M97@
+3 _APID 1,7218::774210
 2 SOUR @no7YvbwBTZSkjmmfIcME@
 3 OBJE @ShTO93LeQX6QHoJyeHB8@
 3 _APID 1,7250::1382758779
@@ -12385,6 +14062,9 @@
 2 SOUR @sXyDkhg5SlSi1Km4RUgO@
 3 OBJE @tl76ehlFQiy1DfZ6Vi0o@
 3 _APID 1,7181::1655632048
+2 SOUR @9HZoDLydRjGBZ5Mms0jb@
+3 OBJE @M97@
+3 _APID 1,7218::774210
 2 SOUR @no7YvbwBTZSkjmmfIcME@
 3 OBJE @ShTO93LeQX6QHoJyeHB8@
 3 _APID 1,7250::1382758779
@@ -12392,12 +14072,6 @@
 3 OBJE @M7G8EwA5SomiimVWqDTT@
 3 _APID 1,3212::294932
 2 NOTE place is assumed from father's residence at the time
-1 RESI
-2 DATE FROM 14 MAR 1809 TO 1815
-2 PLAC Cortlandt, Westchester, New York, USA
-3 MAP
-4 LATI N41.2548
-4 LONG W73.9002
 1 CENS
 2 DATE 06 AUG 1810
 2 PLAC Cortlandt, Westchester, New York, USA
@@ -12406,12 +14080,6 @@
 4 LONG W73.9002
 2 SOUR @WIpd6iyZRdW26h48B4h4@
 3 QUAY 2
-1 RESI
-2 DATE FROM 1815 TO 1825
-2 PLAC Shawangunk, Ulster, New York, USA
-3 MAP
-4 LATI N41.634
-4 LONG W74.2591
 1 CENS
 2 DATE 07 AUG 1820
 2 PLAC Shawangunk, Ulster, New York, USA
@@ -12420,12 +14088,6 @@
 4 LONG W74.2591
 2 SOUR @uJbVcMfPRQaJP0j1NlGU@
 3 QUAY 2
-1 RESI
-2 DATE FROM 1825 TO 03 DEC 1894
-2 PLAC Hornby, Steuben, New York, USA
-3 MAP
-4 LATI N42.2442
-4 LONG W77.0444
 1 EVEN
 2 TYPE photograph
 2 DATE ABT 1850
@@ -12488,6 +14150,16 @@
 3 PAGE Census Year: 1860; Census Place: Hornby, Steuben, New York
 3 OBJE @n4TK76LMTFCDg2YgUqc0@
 3 _APID 1,1276::4502089
+1 RESI
+2 DATE 1865
+2 PLAC Hornby, Steuben, New York, USA
+3 MAP
+4 LATI N42.2442
+4 LONG W77.0444
+2 SOUR @9HZoDLydRjGBZ5Mms0jb@
+3 OBJE @M97@
+3 _APID 1,7218::774210
+2 NOTE Relation to Head of House: Head
 1 CENS
 2 DATE 01 JUN 1870
 2 PLAC Hornby, Steuben, New York, USA
@@ -12580,6 +14252,7 @@
 3 DATA
 4 TEXT cert. no. 48149
 1 _XY 87724 2287
+1 _PHOTO @oFP6cP97RNu0ulbHlfYF@
 0 @sbvtb1GOTtGtEuewfGYj@ INDI
 1 REFN 691172eb-06a9-4403-b0c1-5fe159386e74
 1 NAME Mercy /Sands/
@@ -12673,8 +14346,31 @@
 2 TYPE sold land
 2 DATE BEF 21 JAN 1750
 2 PLAC Matinecock, Oyster Bay, Nassau, New York, USA
-2 SOUR @H8tRybUCSByOrPN7Yl6r@
+2 SOUR @S20@
 3 QUAY 3
+3 DATA
+4 TEXT Original is NYC Wills Liber ?, p. 67, I, BARENT VAN WYCK, o
+5 CONC f Oyster Bay, yeoman, being infirm, this January 21, 1749/50
+5 CONC . I leave all the houses and lands and improvements whic
+5 CONC h I bought of Othniel Sands (next to Plain land), together w
+5 CONC ith all houses and lands I bought of John Voorhees, and th
+5 CONC e house and land which I have at Manathill, with the Plain l
+5 CONC ot which I have joining to Manathill land, all to be sold b
+5 CONC y my executors. All debts to be paid, and I leave all the re
+5 CONC st of the proceeds to my wife Hannah, and my three daughters
+5 CONC , Mary, Sarah, and Abigail, when they are 18. I leave to m
+5 CONC y wife Hannah two of my best beds and bed furniture to the
+5 CONC m belonging. My executors are to retain so much personal pro
+5 CONC perty and stock as my wife and family may need so long as sh
+5 CONC e remains my widow, and after her death or marriage, then t
+5 CONC o my four sons, Thomas, Theodorus, Samuel, and Abraham, al
+5 CONC l the houses and improvements where I now dwell, except wha
+5 CONC t I have reserved to be sold. My wife is to dwell in my hous
+5 CONC e and have her support while living. I make my son Thomas an
+5 CONC d my brother-in-law, Richard Thorne, and my friend, George Y
+5 CONC oungs, executors. Dated July 15, 1728. Witnesses, Daniel Bir
+5 CONC dsell, John Aspinwall, Israel Green. Proved at Hempstead, Ap
+5 CONC ril 20, 1731.
 2 NOTE land and house next to "Plain Land"
 1 WILL
 2 DATE 19 AUG 1757
@@ -12682,24 +14378,102 @@
 3 MAP
 4 LATI N41.2043
 4 LONG W73.6438
-2 SOUR @ytslobysTxuoNgKl0xk0@
+2 SOUR @S20@
 3 QUAY 1
+3 DATA
+4 TEXT NYC Wills Liber 22, p. 500,
+5 CONT In the name of God, Amen, August 19, 1757. I, OTHNIEL SANDS
+5 CONC , of Westchester County, being sick. I leave to my wife Susa
+5 CONC nna, "a good horse, and saddle covered with Plush, and a goo
+5 CONC d cow. All the rest of my estate I order sold and the mone
+5 CONC y divided among my children, "their tender mother to have a
+5 CONC n equal part," except my two youngest daughters, Susanna an
+5 CONC d Sarah, I give each of them £30, I give to my 4 grandchildr
+5 CONC en, that is, John Forman's children, £5 each. To my son Cale
+5 CONC b's child £5, To my son James' child £5 (names of grandchild
+5 CONC ren not given). I leave to my son Caleb 5 shillings more tha
+5 CONC n the rest of my children. And as for my part of the undivid
+5 CONC ed land in the Old Purchases on Long Island in Oyster Bay
+5 CONC , I leave 1/3 to my son Caleb "and the rest among the rest,
+5 CONC " "I order my son Samuel to be put to his brother Othniel t
+5 CONC o larn ye Taylor's Trade," I leave to my wife and her two da
+5 CONC ughters the west room in my house and the Leanto, and my so
+5 CONC n Caleb is to furnish my wife fire wood and provisions. I ma
+5 CONC ke my son Caleb and my brother, James Sands, executors. Witn
+5 CONC esses, Nicholas Williamson, Wynant Williamson, Jr., Willia
+5 CONC m Johnston, cordwainer. Codicil, I leave to my wife Susanna
+5 CONC h 3 feather beds, an Iron pot, chest and box, and sundry art
+5 CONC icles of domestic use, after her death they are to go to m
+5 CONC y daughter Jerusha. September 3, 1757. Proved, April 2, 1761
+5 CONC .
 1 WILL
 2 DATE 03 SEP 1757
 2 PLAC Bedford, Westchester, New York, USA
 3 MAP
 4 LATI N41.2043
 4 LONG W73.6438
-2 SOUR @ytslobysTxuoNgKl0xk0@
+2 SOUR @S20@
 3 QUAY 3
+3 DATA
+4 TEXT NYC Wills Liber 22, p. 500,
+5 CONT In the name of God, Amen, August 19, 1757. I, OTHNIEL SANDS
+5 CONC , of Westchester County, being sick. I leave to my wife Susa
+5 CONC nna, "a good horse, and saddle covered with Plush, and a goo
+5 CONC d cow. All the rest of my estate I order sold and the mone
+5 CONC y divided among my children, "their tender mother to have a
+5 CONC n equal part," except my two youngest daughters, Susanna an
+5 CONC d Sarah, I give each of them £30, I give to my 4 grandchildr
+5 CONC en, that is, John Forman's children, £5 each. To my son Cale
+5 CONC b's child £5, To my son James' child £5 (names of grandchild
+5 CONC ren not given). I leave to my son Caleb 5 shillings more tha
+5 CONC n the rest of my children. And as for my part of the undivid
+5 CONC ed land in the Old Purchases on Long Island in Oyster Bay
+5 CONC , I leave 1/3 to my son Caleb "and the rest among the rest,
+5 CONC " "I order my son Samuel to be put to his brother Othniel t
+5 CONC o larn ye Taylor's Trade," I leave to my wife and her two da
+5 CONC ughters the west room in my house and the Leanto, and my so
+5 CONC n Caleb is to furnish my wife fire wood and provisions. I ma
+5 CONC ke my son Caleb and my brother, James Sands, executors. Witn
+5 CONC esses, Nicholas Williamson, Wynant Williamson, Jr., Willia
+5 CONC m Johnston, cordwainer. Codicil, I leave to my wife Susanna
+5 CONC h 3 feather beds, an Iron pot, chest and box, and sundry art
+5 CONC icles of domestic use, after her death they are to go to m
+5 CONC y daughter Jerusha. September 3, 1757. Proved, April 2, 1761
+5 CONC .
 1 DEAT
 2 DATE ABT 01 APR 1761
 2 PLAC Bedford, Westchester, New York, USA
 3 MAP
 4 LATI N41.2043
 4 LONG W73.6438
-2 SOUR @ytslobysTxuoNgKl0xk0@
+2 SOUR @S20@
 3 QUAY 3
+3 DATA
+4 TEXT NYC Wills Liber 22, p. 500,
+5 CONT In the name of God, Amen, August 19, 1757. I, OTHNIEL SANDS
+5 CONC , of Westchester County, being sick. I leave to my wife Susa
+5 CONC nna, "a good horse, and saddle covered with Plush, and a goo
+5 CONC d cow. All the rest of my estate I order sold and the mone
+5 CONC y divided among my children, "their tender mother to have a
+5 CONC n equal part," except my two youngest daughters, Susanna an
+5 CONC d Sarah, I give each of them £30, I give to my 4 grandchildr
+5 CONC en, that is, John Forman's children, £5 each. To my son Cale
+5 CONC b's child £5, To my son James' child £5 (names of grandchild
+5 CONC ren not given). I leave to my son Caleb 5 shillings more tha
+5 CONC n the rest of my children. And as for my part of the undivid
+5 CONC ed land in the Old Purchases on Long Island in Oyster Bay
+5 CONC , I leave 1/3 to my son Caleb "and the rest among the rest,
+5 CONC " "I order my son Samuel to be put to his brother Othniel t
+5 CONC o larn ye Taylor's Trade," I leave to my wife and her two da
+5 CONC ughters the west room in my house and the Leanto, and my so
+5 CONC n Caleb is to furnish my wife fire wood and provisions. I ma
+5 CONC ke my son Caleb and my brother, James Sands, executors. Witn
+5 CONC esses, Nicholas Williamson, Wynant Williamson, Jr., Willia
+5 CONC m Johnston, cordwainer. Codicil, I leave to my wife Susanna
+5 CONC h 3 feather beds, an Iron pot, chest and box, and sundry art
+5 CONC icles of domestic use, after her death they are to go to m
+5 CONC y daughter Jerusha. September 3, 1757. Proved, April 2, 1761
+5 CONC .
 2 NOTE based on date of will probate
 1 PROB
 2 DATE 02 APR 1761
@@ -12707,8 +14481,34 @@
 3 MAP
 4 LATI N41.2043
 4 LONG W73.6438
-2 SOUR @ytslobysTxuoNgKl0xk0@
+2 SOUR @S20@
 3 QUAY 1
+3 DATA
+4 TEXT NYC Wills Liber 22, p. 500,
+5 CONT In the name of God, Amen, August 19, 1757. I, OTHNIEL SANDS
+5 CONC , of Westchester County, being sick. I leave to my wife Susa
+5 CONC nna, "a good horse, and saddle covered with Plush, and a goo
+5 CONC d cow. All the rest of my estate I order sold and the mone
+5 CONC y divided among my children, "their tender mother to have a
+5 CONC n equal part," except my two youngest daughters, Susanna an
+5 CONC d Sarah, I give each of them £30, I give to my 4 grandchildr
+5 CONC en, that is, John Forman's children, £5 each. To my son Cale
+5 CONC b's child £5, To my son James' child £5 (names of grandchild
+5 CONC ren not given). I leave to my son Caleb 5 shillings more tha
+5 CONC n the rest of my children. And as for my part of the undivid
+5 CONC ed land in the Old Purchases on Long Island in Oyster Bay
+5 CONC , I leave 1/3 to my son Caleb "and the rest among the rest,
+5 CONC " "I order my son Samuel to be put to his brother Othniel t
+5 CONC o larn ye Taylor's Trade," I leave to my wife and her two da
+5 CONC ughters the west room in my house and the Leanto, and my so
+5 CONC n Caleb is to furnish my wife fire wood and provisions. I ma
+5 CONC ke my son Caleb and my brother, James Sands, executors. Witn
+5 CONC esses, Nicholas Williamson, Wynant Williamson, Jr., Willia
+5 CONC m Johnston, cordwainer. Codicil, I leave to my wife Susanna
+5 CONC h 3 feather beds, an Iron pot, chest and box, and sundry art
+5 CONC icles of domestic use, after her death they are to go to m
+5 CONC y daughter Jerusha. September 3, 1757. Proved, April 2, 1761
+5 CONC .
 2 SOUR @Xvb3WGgOTTO3EC7sl8Ia@
 1 _XY 87258 1987
 0 @wQswKgUJSXKwQQ7KRMdu@ INDI
@@ -12908,6 +14708,30 @@
 4 LATI N41.2548
 4 LONG W73.9002
 2 SOUR @iZlulgkISMSpUuqa7YAc@
+3 PAGE <bibl> <title level="u">Jesse Sands Family Bible Records, 17
+4 CONC 68–1943</title>, <title level="m">The Holy Bible: Containin
+4 CONC g the Old and New Testaments: Together with the Apocrypha</t
+4 CONC itle>, (<pubPlace>Philadelphia</pubPlace>: <publisher>Mathe
+4 CONC w Carey</publisher>, <date>1911</date>), <citedRange>677–80<
+4 CONC /citedRange>, “Family Record”; privately held by Christophe
+4 CONC r Alan Mosher, Shelton, Connecticut, USA, 2019; digital imag
+4 CONC es with diplomatic transcription, <title level="u">Harriso
+4 CONC n Documents</title>, <author>Christopher A. Mosher</author>
+4 CONC , <title level="m">Archive of Historical Family Documents</t
+4 CONC itle> (<ref target="https://mosher.mine.nu/tei/genealogy/mai
+4 CONC n/sources/old/harrison/sands_bible.png.xml.tei.xml"/> : 22 S
+4 CONC ep 2019). Binding is brown leather, dimensions approximatel
+4 CONC y 234 × 281 × 89 mm, “HOLY-BIBLE” on spine, front title pag
+4 CONC e is missing, but it has “New Testament” title page betwee
+4 CONC n pages 834 and 835 (note: page numbers 829–834 are duplicat
+4 CONC ed), page one begins with “¶ The <hi rend="sc">first book</h
+4 CONC i> of <hi rend="sc">moses</hi>, <hi rend="sc">called</hi> <h
+4 CONC i rend="sc">genesis</hi>.” Entries are handwritten in ink, m
+4 CONC ostly dark, but a few entries have faded, the entries are i
+4 CONC n various different hands. Ownership probably: Jesse Sands
+4 CONC , Mary Sands Harrison, Henry Francis Harrison, George Elme
+4 CONC r Harrison, John Harrison, Sally Harrison Brown Duff, Christ
+4 CONC opher Alan Mosher. </bibl>
 3 QUAY 1
 2 SOUR @D5Hfu5V4QiadE6qpxHG2@
 3 PAGE Volume: 298
@@ -13096,6 +14920,32 @@
 4 CONC strict: 177; Image: 0534
 3 OBJE @ITS4dmOzRGOJRuBItC4q@
 3 _APID 1,6742::5178762
+2 SOUR @iZlulgkISMSpUuqa7YAc@
+3 PAGE <bibl> <title level="u">Jesse Sands Family Bible Records, 17
+4 CONC 68–1943</title>, <title level="m">The Holy Bible: Containin
+4 CONC g the Old and New Testaments: Together with the Apocrypha</t
+4 CONC itle>, (<pubPlace>Philadelphia</pubPlace>: <publisher>Mathe
+4 CONC w Carey</publisher>, <date>1911</date>), <citedRange>677–80<
+4 CONC /citedRange>, “Family Record”; privately held by Christophe
+4 CONC r Alan Mosher, Shelton, Connecticut, USA, 2019; digital imag
+4 CONC es with diplomatic transcription, <title level="u">Harriso
+4 CONC n Documents</title>, <author>Christopher A. Mosher</author>
+4 CONC , <title level="m">Archive of Historical Family Documents</t
+4 CONC itle> (<ref target="https://mosher.mine.nu/tei/genealogy/mai
+4 CONC n/sources/old/harrison/sands_bible.png.xml.tei.xml"/> : 22 S
+4 CONC ep 2019). Binding is brown leather, dimensions approximatel
+4 CONC y 234 × 281 × 89 mm, “HOLY-BIBLE” on spine, front title pag
+4 CONC e is missing, but it has “New Testament” title page betwee
+4 CONC n pages 834 and 835 (note: page numbers 829–834 are duplicat
+4 CONC ed), page one begins with “¶ The <hi rend="sc">first book</h
+4 CONC i> of <hi rend="sc">moses</hi>, <hi rend="sc">called</hi> <h
+4 CONC i rend="sc">genesis</hi>.” Entries are handwritten in ink, m
+4 CONC ostly dark, but a few entries have faded, the entries are i
+4 CONC n various different hands. Ownership probably: Jesse Sands
+4 CONC , Mary Sands Harrison, Henry Francis Harrison, George Elme
+4 CONC r Harrison, John Harrison, Sally Harrison Brown Duff, Christ
+4 CONC opher Alan Mosher. </bibl>
+3 QUAY 1
 2 SOUR @sXyDkhg5SlSi1Km4RUgO@
 3 OBJE @Uz9reotaQkWM8IEkAgl4@
 3 _APID 1,7181::1655632083
@@ -13105,8 +14955,6 @@
 2 SOUR @no7YvbwBTZSkjmmfIcME@
 3 OBJE @ShTO93LeQX6QHoJyeHB8@
 3 _APID 1,7250::1382758782
-2 SOUR @iZlulgkISMSpUuqa7YAc@
-3 QUAY 1
 2 SOUR @yFxQHMAuSEmv66wxgGMH@
 3 _APID 1,70572::6344051
 2 NOTE place is assumed from father's residence
@@ -13171,8 +15019,6 @@
 3 MAP
 4 LATI N42.2442
 4 LONG W77.0444
-2 SOUR @E90P0XFESRySLVzVjGNN@
-3 QUAY 1
 2 SOUR @yFxQHMAuSEmv66wxgGMH@
 3 _APID 1,70572::6344051
 1 BURI
@@ -16295,6 +18141,30 @@
 1 DEAT
 2 DATE 19 OCT 1820
 2 SOUR @iZlulgkISMSpUuqa7YAc@
+3 PAGE <bibl> <title level="u">Jesse Sands Family Bible Records, 17
+4 CONC 68–1943</title>, <title level="m">The Holy Bible: Containin
+4 CONC g the Old and New Testaments: Together with the Apocrypha</t
+4 CONC itle>, (<pubPlace>Philadelphia</pubPlace>: <publisher>Mathe
+4 CONC w Carey</publisher>, <date>1911</date>), <citedRange>677–80<
+4 CONC /citedRange>, “Family Record”; privately held by Christophe
+4 CONC r Alan Mosher, Shelton, Connecticut, USA, 2019; digital imag
+4 CONC es with diplomatic transcription, <title level="u">Harriso
+4 CONC n Documents</title>, <author>Christopher A. Mosher</author>
+4 CONC , <title level="m">Archive of Historical Family Documents</t
+4 CONC itle> (<ref target="https://mosher.mine.nu/tei/genealogy/mai
+4 CONC n/sources/old/harrison/sands_bible.png.xml.tei.xml"/> : 22 S
+4 CONC ep 2019). Binding is brown leather, dimensions approximatel
+4 CONC y 234 × 281 × 89 mm, “HOLY-BIBLE” on spine, front title pag
+4 CONC e is missing, but it has “New Testament” title page betwee
+4 CONC n pages 834 and 835 (note: page numbers 829–834 are duplicat
+4 CONC ed), page one begins with “¶ The <hi rend="sc">first book</h
+4 CONC i> of <hi rend="sc">moses</hi>, <hi rend="sc">called</hi> <h
+4 CONC i rend="sc">genesis</hi>.” Entries are handwritten in ink, m
+4 CONC ostly dark, but a few entries have faded, the entries are i
+4 CONC n various different hands. Ownership probably: Jesse Sands
+4 CONC , Mary Sands Harrison, Henry Francis Harrison, George Elme
+4 CONC r Harrison, John Harrison, Sally Harrison Brown Duff, Christ
+4 CONC opher Alan Mosher. </bibl>
 3 QUAY 1
 1 PROB
 2 DATE 16 MAY 1821
@@ -17617,6 +19487,31 @@
 1 MARR
 2 DATE 19 FEB 1835
 2 PLAC Jesse Sands's house, Hornby, Steuben, New York, USA
+2 SOUR @iZlulgkISMSpUuqa7YAc@
+3 PAGE <bibl> <title level="u">Jesse Sands Family Bible Records, 17
+4 CONC 68–1943</title>, <title level="m">The Holy Bible: Containin
+4 CONC g the Old and New Testaments: Together with the Apocrypha</t
+4 CONC itle>, (<pubPlace>Philadelphia</pubPlace>: <publisher>Mathe
+4 CONC w Carey</publisher>, <date>1911</date>), <citedRange>677–80<
+4 CONC /citedRange>, “Family Record”; privately held by Christophe
+4 CONC r Alan Mosher, Shelton, Connecticut, USA, 2019; digital imag
+4 CONC es with diplomatic transcription, <title level="u">Harriso
+4 CONC n Documents</title>, <author>Christopher A. Mosher</author>
+4 CONC , <title level="m">Archive of Historical Family Documents</t
+4 CONC itle> (<ref target="https://mosher.mine.nu/tei/genealogy/mai
+4 CONC n/sources/old/harrison/sands_bible.png.xml.tei.xml"/> : 22 S
+4 CONC ep 2019). Binding is brown leather, dimensions approximatel
+4 CONC y 234 × 281 × 89 mm, “HOLY-BIBLE” on spine, front title pag
+4 CONC e is missing, but it has “New Testament” title page betwee
+4 CONC n pages 834 and 835 (note: page numbers 829–834 are duplicat
+4 CONC ed), page one begins with “¶ The <hi rend="sc">first book</h
+4 CONC i> of <hi rend="sc">moses</hi>, <hi rend="sc">called</hi> <h
+4 CONC i rend="sc">genesis</hi>.” Entries are handwritten in ink, m
+4 CONC ostly dark, but a few entries have faded, the entries are i
+4 CONC n various different hands. Ownership probably: Jesse Sands
+4 CONC , Mary Sands Harrison, Henry Francis Harrison, George Elme
+4 CONC r Harrison, John Harrison, Sally Harrison Brown Duff, Christ
+4 CONC opher Alan Mosher. </bibl>
 2 SOUR @RSsbo5afQ2qv63RiUaqR@
 3 QUAY 3
 2 NOTE by Charles Goodrich
@@ -17648,8 +19543,14 @@
 4 CONC 41163
 3 OBJE @V0TKnZr1RZKQLCUAM5C6@
 3 _APID 1,7602::56735666
-2 SOUR @2bWRWU9RSwCXrWzKUCqv@
-3 QUAY 2
+2 SOUR @S175@
+3 PAGE New York State Department of Health; Albany, NY, USA; New Yo
+4 CONC rk State Marriage Index
+3 OBJE @M88@
+2 SOUR @S175@
+3 PAGE New York State Department of Health; Albany, NY, USA; New Yo
+4 CONC rk State Marriage Index
+3 OBJE @M89@
 2 NOTE by Rev. James M. Bustin
 0 @PJVSYwODQruvZvNmcrDX@ FAM
 1 REFN 9d39796b-c817-4c86-8e5d-09cdcca6c11a
@@ -17714,6 +19615,21 @@
 1 CHIL @i1gU695hSOK2VOSzejBh@
 2 _FREL Natural
 2 _MREL Natural
+1 CHIL @I582@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I579@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I580@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I583@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I581@
+2 _FREL Natural
+2 _MREL Natural
 0 @AaI8pja0ThewQsiWKCjo@ FAM
 1 REFN 55108c6b-5e80-4381-8d8e-47e0e32b48a7
 1 HUSB @5YFMnJdZQnGQC0H6dgdo@
@@ -17744,6 +19660,27 @@
 3 _APID 1,7602::12882946
 2 SOUR @Xxs7DeD3SayQp29j6Jgh@
 3 _APID 1,60984::508082
+0 @F477@ FAM
+1 HUSB @UxkAEu2jSQeBayHvzdgp@
+1 WIFE @I584@
+1 CHIL @I589@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I585@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I590@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I586@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I587@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I588@
+2 _FREL Natural
+2 _MREL Natural
 0 @f8MHXqgsTCyOC3THxJSo@ FAM
 1 REFN af376e56-d425-4c55-b57f-841c7a24c5d7
 1 HUSB @Ptl4Kv0JRoKfmViMFjaV@
@@ -18622,6 +20559,30 @@
 1 MARR
 2 DATE 20 FEB 1800
 2 SOUR @iZlulgkISMSpUuqa7YAc@
+3 PAGE <bibl> <title level="u">Jesse Sands Family Bible Records, 17
+4 CONC 68–1943</title>, <title level="m">The Holy Bible: Containin
+4 CONC g the Old and New Testaments: Together with the Apocrypha</t
+4 CONC itle>, (<pubPlace>Philadelphia</pubPlace>: <publisher>Mathe
+4 CONC w Carey</publisher>, <date>1911</date>), <citedRange>677–80<
+4 CONC /citedRange>, “Family Record”; privately held by Christophe
+4 CONC r Alan Mosher, Shelton, Connecticut, USA, 2019; digital imag
+4 CONC es with diplomatic transcription, <title level="u">Harriso
+4 CONC n Documents</title>, <author>Christopher A. Mosher</author>
+4 CONC , <title level="m">Archive of Historical Family Documents</t
+4 CONC itle> (<ref target="https://mosher.mine.nu/tei/genealogy/mai
+4 CONC n/sources/old/harrison/sands_bible.png.xml.tei.xml"/> : 22 S
+4 CONC ep 2019). Binding is brown leather, dimensions approximatel
+4 CONC y 234 × 281 × 89 mm, “HOLY-BIBLE” on spine, front title pag
+4 CONC e is missing, but it has “New Testament” title page betwee
+4 CONC n pages 834 and 835 (note: page numbers 829–834 are duplicat
+4 CONC ed), page one begins with “¶ The <hi rend="sc">first book</h
+4 CONC i> of <hi rend="sc">moses</hi>, <hi rend="sc">called</hi> <h
+4 CONC i rend="sc">genesis</hi>.” Entries are handwritten in ink, m
+4 CONC ostly dark, but a few entries have faded, the entries are i
+4 CONC n various different hands. Ownership probably: Jesse Sands
+4 CONC , Mary Sands Harrison, Henry Francis Harrison, George Elme
+4 CONC r Harrison, John Harrison, Sally Harrison Brown Duff, Christ
+4 CONC opher Alan Mosher. </bibl>
 3 QUAY 3
 0 @InddE4A5Qked2kEr2kCx@ FAM
 1 REFN 58007f1d-cf71-40d9-808d-f02373180398
@@ -19440,21 +21401,18 @@
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2010
 0 @FqVxYHCpSgCWd56xJEpO@ SOUR
-1 REFN a44d1295-8349-4fcf-ae64-b0ed38518d31
 1 REPO @kBzDdT7sR6qYOEZMnKPD@
 1 TITL 1850 United States Federal Census
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2009
 0 @52KZlTzERiy29VDq6FXg@ SOUR
-1 REFN aa2c3368-5615-4dce-b7cb-90b87d0e3f1b
 1 REPO @kBzDdT7sR6qYOEZMnKPD@
 1 TITL 1860 United States Federal Census
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2009
 0 @HQvR6QLyTimkjcRZMuAs@ SOUR
-1 REFN b361a7b6-117f-4095-bcca-4f3b09a54cb4
 1 REPO @kBzDdT7sR6qYOEZMnKPD@
 1 TITL 1870 United States Federal Census
 1 AUTH Ancestry.com
@@ -19483,20 +21441,11 @@
 1 PUBL Ancestry.com Operations Inc; Location: Provo, UT, USA; Date
 2 CONC : 2006
 0 @EK7T5HK7THyj56uQA095@ SOUR
-1 REFN 9ca9b340-b881-4a59-ba01-ac9aa9ba2b7f
-1 REPO @FJHSgHr3QGmxZjyREd81@
+1 REPO @kBzDdT7sR6qYOEZMnKPD@
 1 TITL 1920 United States Federal Census
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2010
-1 TEXT Fourteenth Census of the United States, 1920. (NARA microfil
-2 CONC m publication T625, 2076 rolls). Records of the Bureau of th
-2 CONC e Census, Record Group 29. National Archives, Washington, D.
-2 CONC C. For details on the contents of the film numbers, visit th
-2 CONC e following NARA web page: <a href="http://www.archives.gov/
-2 CONC publications/microfilm-catalogs/census/1920/part-07.html" ta
-2 CONC rget="_blank">NARA</a>. Note: Enumeration Districts 819-83
-2 CONC 9 are on roll 323 (Chicago City).
 0 @6ueRmpMIQ9qSG0rSnwpX@ SOUR
 1 REFN bf7a7fac-6431-4870-bf88-a5ac07592f5d
 1 REPO @kBzDdT7sR6qYOEZMnKPD@
@@ -19515,19 +21464,6 @@
 2 CONC h Census of the United States, 1940</i>. Washington, D.C.: N
 2 CONC ational Archives and Records Administration, 1940. T627, 4,6
 2 CONC 43 rolls.
-0 @Yqw4hI7GTeOuW2AhuZ9N@ SOUR
-1 REFN f59f21c8-fba5-4676-a406-e816d9b6eec4
-1 TITL [Unknown xerox copy of NY will abstracts, Forman, Lang, Sand
-2 CONC s]
-1 PUBL In possession of Chris Mosher
-1 TEXT 1728 jul Will of NICHOLAS LANGE pvd Hempstead 20 apr 1731 da
-2 CONC us Elizabeth FORMAN, Sarah FORMAN, Ann Hulton, Susannah Sand
-2 CONC s; sons-in-law Jacob FORMAN, Othniel Sands, John Julton [sic
-2 CONC ], Aaron FORMAN, execs Othniel Sands, Aaron FORMAN (3:29) (o
-2 CONC rig Liber 11:124)<br />
-2 CONT 1730 sep Will of JAMES SANDS, Oyster Bay, son Othniel, lan
-2 CONC d "lately bought of Isaac FOREMAN" (3:136) (orig Liber 12:12
-2 CONC 9)
 0 @8c48p3qxQjiQJ2HbPcND@ SOUR
 1 REFN 541ed0d6-3f32-463d-b3f6-50bf1455017b
 1 TITL A record of My Family [handwritten sheet]
@@ -19565,129 +21501,9 @@
 2 CONT h: Thomas Taylorson deceased<br />
 2 CONT d: Lavina Dodd, Hattie Edminster, Hannah Harrison<br />
 2 CONT s: George O.
-0 @H8tRybUCSByOrPN7Yl6r@ SOUR
-1 REFN 112969b8-24f5-4bbd-8a93-2965adba2f21
+0 @S20@ SOUR
 1 TITL Abstracts of Wills, City of New York
-1 TEXT [Original is NYC Wills Liber ?, p. 67<br />
-2 CONT From Ancestry.com:<br />
-2 CONT Page 67.--I, BARENT VAN WYCK, of Oyster Bay, yeoman, being i
-2 CONC nfirm, this January 21, 1749/50. I leave all the houses an
-2 CONC d lands and improvements which I bought of Othniel Sands (ne
-2 CONC xt to Plain land), together with all houses and lands I boug
-2 CONC ht of John Voorhees, and the house and land which I have a
-2 CONC t Manathill, with the Plain lot which I have joining to Mana
-2 CONC thill land, all to be sold by my executors. All debts to b
-2 CONC e paid, and I leave all the rest of the proceeds to my wif
-2 CONC e Hannah, and my three daughters, Mary, Sarah, and Abigail
-2 CONC , when they are 18. I leave to my wife Hannah two of my bes
-2 CONC t beds and bed furniture to them belonging. My executors ar
-2 CONC e to retain so much personal property and stock as my wife a
-2 CONC nd family may need so long as she remains my widow, and afte
-2 CONC r her death or marriage, then to my four sons, Thomas, Theod
-2 CONC orus, Samuel, and Abraham, all the houses and improvements w
-2 CONC here I now dwell, except what I have reserved to be sold. M
-2 CONC y wife is to dwell in my house and have her support while li
-2 CONC ving. I make my son Thomas and my brother-in-law, Richard Th
-2 CONC orne, and my friend, George Youngs, executors. <br />
-2 CONT Dated July 15, 1728. Witnesses, Daniel Birdsell, John Aspinw
-2 CONC all, Israel Green. Proved at Hempstead, April 20, 1731. ]
-0 @8v9bsx7aRtS4AMUKUVLd@ SOUR
-1 REFN ce8e07e2-6d41-4524-8eb5-723e537aef1a
-1 TITL Abstracts of Wills, City of New York
-1 TEXT [Original is NYC Wills liber 11, p. 124<br />
-2 CONT transcript from Ancestry.com:<br />
-2 CONT Page 124.--In the name of God, Amen. "I, NICHOLAS LANGE, bei
-2 CONC ng by Divine Favour in tolerable health." After the paymen
-2 CONC t of debts, the remainder of my estate is to be divided int
-2 CONC o six parts, and five of the parts are to be divided among m
-2 CONC y five children, Elizabeth Forman, William, Ann Hutton, Susa
-2 CONC nnah Sands, and Sarah Forman. My daughter, Elizabeth Forman
-2 CONC , is to have only the income of her part, unless she is lef
-2 CONC t a widow. "If she die, then her share is to go to such of h
-2 CONC er children as shall best perform their duty to her, in th
-2 CONC e most becoming manner." The shares of the other children ar
-2 CONC e to descend to the children that behave best. Out of the re
-2 CONC maining 1/6 of my estate, my four sons-in-law, Jacob, Othnie
-2 CONC l, John, and Aaron, "are each to have 10 shillings, to buy t
-2 CONC hem a pair of gloves." And each of my grand children are t
-2 CONC o have "so much as will buy them a good Pocket Bible." One-h
-2 CONC alf of the remainder is for the support of my daughter Susan
-2 CONC nah's son William. The rest is to be given to my grand child
-2 CONC ren, "unless any of them should prove impotent or helpless
-2 CONC , in which case they are to have a double share." My son Wil
-2 CONC liam, Othniel Sands, and Aaron Forman, are made executors. D
-2 CONC ated July 15, 1728. Witnesses, Daniel Birdsell, John Aspinwa
-2 CONC ll, Israel Green. Proved at Hempstead, April 20, 1731.]
-0 @6si0h38zQbage5qSrgfZ@ SOUR
-1 REFN b6924a1f-345f-4b7f-ba0d-9180ae0b14bb
-1 TITL Abstracts of Wills, City of New York, in Collections of NYH
-2 CONC S 1894 vol. 3 p. 135
-1 PUBL 1895, NYHS
-1 TEXT [NYC wills Liber 12 p 129]<br />
-2 CONT James Sands of Oyster Bay<br />
-2 CONT son Othniel (lot bought of Anthony Wright)<br />
-2 CONT son James (land bought at Matinecock, house, farm, bought o
-2 CONC f Isaac Forman) (land in Goshen, Orange Co., in partnershi
-2 CONC p with Richard Cornwell [maybe Cornell])<br />
-2 CONT ...<br />
-2 CONT [lists a daughter "Zerriah"]<br />
-2 CONT [This was copied from Ancestry.com:<br />
-2 CONT Page 129.--In the name of God, Amen, the 21 day of September
-2 CONC , 1730. I, JAMES SANDS, of Oyster Bay, being in perfect heal
-2 CONC th, I leave to my son, Othniel Sands, the west lot, that I b
-2 CONC ought of Anthony Wright, and 1/2 of my right in the Old Purc
-2 CONC hase, besides what I have already given to him by deed of gi
-2 CONC ft, And he is to pay to my sons Abijah and John, each £13
-2 CONC . I leave to my son, James Sands, all my farm, meadows, an
-2 CONC d messuages, now in my possession at Matinecock, in Queens C
-2 CONC ounty, that is, my house, farm, besides all that I lately bo
-2 CONC ught of Isaac Foreman, and 1/2 of my right on the east end o
-2 CONC f the Plains; Also 2 young oxen, 2 cows, 3 horses, and all m
-2 CONC y carpenter and cooper's tools, And he is to pay to my son
-2 CONC s Abijah and John, £20 each. I leave to my sons Abijah and J
-2 CONC ohn all that half share of land of mine in Goshen, in Orang
-2 CONC e County, in partnership with Richard Cornwell, except 100 a
-2 CONC cres given to Samuel Everitt; Also 1/2 my right in Oyster Ba
-2 CONC y Old Purchase, Also a bed and covering. I leave all the res
-2 CONC t of my personal property to my 4 daughters, Mary, Zerviah
-2 CONC , Jerusha, and Sarah. "My son James is to keep 1/2 of Sarah'
-2 CONC s part, till Sarah hath a child, and if that never be, the
-2 CONC n to James to remain." I leave to my grand daughter, Sarah E
-2 CONC veritt, £10. I appoint Caleb Cornell, Esq., of Hempstead, an
-2 CONC d Samuel Underhill, of Oyster Bay, executors. Witnesses, Wil
-2 CONC liam Burch, Peter Hegeman, Benjamin Carpenter. Proved, Janua
-2 CONC ry 16, 1733/4.]<br />
-0 @ytslobysTxuoNgKl0xk0@ SOUR
-1 REFN 3637599a-1661-4eba-9114-be48379be28d
-1 TITL Abstracts of Wills, City of New York, in Collections of NYH
-2 CONC S 1897 vol. 6 p. 69
-1 PUBL 1898, NYHS
-1 TEXT [NYC Wills Liber 22 p 500]<br />
-2 CONT [This is from Ancestry.com:<br />
-2 CONT Page 500.--In the name of God, Amen, August 19, 1757. I, OTH
-2 CONC NIEL SANDS, of Westchester County, being sick. I leave to m
-2 CONC y wife Susanna, "a good horse, and saddle covered with Plush
-2 CONC , and a good cow. All the rest of my estate I order sold an
-2 CONC d the money divided among my children, "their tender mothe
-2 CONC r to have an equal part," except my two youngest daughters
-2 CONC , Susanna and Sarah, I give each of them £30, I give to m
-2 CONC y 4 grandchildren, that is, John Forman's children, £5 each
-2 CONC . To my son Caleb's child £5, To my son James' child £5 (nam
-2 CONC es of grandchildren not given). I leave to my son Caleb 5 sh
-2 CONC illings more than the rest of my children. And as for my par
-2 CONC t of the undivided land in the Old Purchases on Long Islan
-2 CONC d in Oyster Bay, I leave 1/3 to my son Caleb "and the rest a
-2 CONC mong the rest," "I order my son Samuel to be put to his brot
-2 CONC her Othniel to larn ye Taylor's Trade," I leave to my wife a
-2 CONC nd her two daughters the west room in my house and the Leant
-2 CONC o, and my son Caleb is to furnish my wife fire wood and prov
-2 CONC isions. I make my son Caleb and my brother, James Sands, exe
-2 CONC cutors. Witnesses, Nicholas Williamson, Wynant Williamson, J
-2 CONC r., William Johnston, cordwainer. Codicil, I leave to my wif
-2 CONC e Susannah 3 feather beds, an Iron pot, chest and box, and s
-2 CONC undry articles of domestic use, after her death they are t
-2 CONC o go to my daughter Jerusha. September 3, 1757. Proved, Apri
-2 CONC l 2, 1761.]<br />
+1 PUBL New York Historical Society; Location: New York; Date: 1898
 0 @XQ8YSoY6RyOHTiGKtKk0@ SOUR
 1 REFN b33f3e8a-716d-4949-9823-90e6bfdf9adb
 1 TITL Akin-Slocum-Russell-Etc. Ancestral Chart
@@ -20023,11 +21839,6 @@
 2 CONC ons, vol. 1
 1 AUTH Arnold, Samuel Greene
 1 PUBL D. Appleton & Co., 1859
-0 @E90P0XFESRySLVzVjGNN@ SOUR
-1 REFN 4db34c6f-ea28-464b-9960-9fc7866fec96
-1 TITL Hornby research
-1 AUTH Rogers, George
-1 PUBL personal E-mail
 0 @bRqYbjgIR5uuFgO8Pghr@ SOUR
 1 REFN e7589f86-be61-42c4-a82a-bc982c06dfd6
 1 TITL Hutchinson Family, The
@@ -20104,13 +21915,8 @@
 1 PUBL http://www.familysearch.org/
 0 @1SIe6ODlREuvmbzQ0vzX@ SOUR
 1 REFN 168079c5-b6b2-4bf8-ace0-ff1ebd84f0ff
-1 TITL Interview
+1 TITL Interview with James Leo Harrison
 1 AUTH Harrison, James Leo
-0 @qXSyzctCQSaEN0y13kUM@ SOUR
-1 REFN 50f4135e-62df-49fd-b1ad-5e91aa1c3e95
-1 TITL Interview
-1 AUTH Mosher, Barry Rexford
-1 PUBL 9 Jan 2000, Shelton, CT
 0 @x1y4e3XmT62xgzJKnbh4@ SOUR
 1 REFN b9426d13-4f73-44b4-8004-96f04ed80e3f
 1 REPO @kBzDdT7sR6qYOEZMnKPD@
@@ -20118,6 +21924,12 @@
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations Inc; Location: Provo, UT, USA; Date
 2 CONC : 2000
+0 @S181@ SOUR
+1 REPO @kBzDdT7sR6qYOEZMnKPD@
+1 TITL Iowa, Death Records, 1920-1940
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.; Location: Lehi, UT, USA; Date
+2 CONC : 2017
 0 @GTByhfTDS0ufjwrY3X4I@ SOUR
 1 REFN f3d35308-d390-44aa-bfe8-3b8fa069e485
 1 REPO @kBzDdT7sR6qYOEZMnKPD@
@@ -20143,13 +21955,10 @@
 2 CONC 15, 1925 as well various special censuses from 1836-1897 obt
 2 CONC ained from the State Historical Society of Iowa via Heritag
 2 CONC e Quest.
-0 @9wwI0O5SSRGepPcObqJB@ SOUR
-1 REFN 70f9b8cc-3f41-4b73-991c-afffd870555f
-1 REPO @kBzDdT7sR6qYOEZMnKPD@
-1 TITL Iowa, State Census Collection, 1836-1925, OLD
-1 AUTH Ancestry.com
-1 PUBL Ancestry.com Operations Inc; Location: Provo, UT, USA; Date
-2 CONC : 2007
+0 @iZlulgkISMSpUuqa7YAc@ SOUR
+1 REFN c833c735-e041-4d3c-9556-349a26cd73f1
+1 TITL Jesse Sands Family Bible Records, 1768–1943
+1 PUBL In possession of Chris Mosher
 0 @InsszX5sSAe9wZ9Mdeqj@ SOUR
 1 REFN 761c83d7-fb7a-4c12-a52f-a62ad14647ee
 1 TITL Ketcham Genealogy Website
@@ -20562,11 +22371,6 @@
 1 TITL Maloney Family Tree
 1 AUTH Maloney
 1 PUBL jmaloney1948, ancestry.com
-0 @2bWRWU9RSwCXrWzKUCqv@ SOUR
-1 REFN b528b00c-607e-42cf-8890-e1277c005029
-1 TITL Marriage certificate, Harrison, George Elmer (1943 copy)
-1 PUBL In possession of Chris Mosher
-1 TEXT [note: NY Vital Records: marriage certificate #22573]
 0 @RSsbo5afQ2qv63RiUaqR@ SOUR
 1 REFN 2528dfce-109d-4c58-8fff-30fc12a8a4bc
 1 TITL Marriage certificate, Harrison, George, and Sands, Mary
@@ -20618,6 +22422,24 @@
 2 CONC m Marriage Licenses were issued by the Secretary of the Prov
 2 CONC ince of New York, Previous to 1784. Albany, NY, USA: State o
 2 CONC f New York, 1860.
+0 @S175@ SOUR
+1 REPO @kBzDdT7sR6qYOEZMnKPD@
+1 TITL New York State, Marriage Index, 1881-1967
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.; Location: Lehi, UT, USA; Date
+2 CONC : 2017
+0 @Yqw4hI7GTeOuW2AhuZ9N@ SOUR
+1 REFN f59f21c8-fba5-4676-a406-e816d9b6eec4
+1 TITL New York will abstracts (Forman, Lang, Sands)
+1 PUBL In possession of Chris Mosher
+1 TEXT 1728 jul Will of NICHOLAS LANGE pvd Hempstead 20 apr 1731 da
+2 CONC us Elizabeth FORMAN, Sarah FORMAN, Ann Hulton, Susannah Sand
+2 CONC s; sons-in-law Jacob FORMAN, Othniel Sands, John Julton [sic
+2 CONC ], Aaron FORMAN, execs Othniel Sands, Aaron FORMAN (3:29) (o
+2 CONC rig Liber 11:124)<br />
+2 CONT 1730 sep Will of JAMES SANDS, Oyster Bay, son Othniel, lan
+2 CONC d "lately bought of Isaac FOREMAN" (3:136) (orig Liber 12:12
+2 CONC 9)
 0 @KZ6n7HI9SIWa4oMSz70e@ SOUR
 1 REFN fbd9ebcc-c238-41f3-b2c5-b69bbe2bde6b
 1 REPO @kBzDdT7sR6qYOEZMnKPD@
@@ -20625,15 +22447,20 @@
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations Inc; Location: Provo, UT, USA; Date
 2 CONC : 2004
+0 @S185@ SOUR
+1 REPO @kBzDdT7sR6qYOEZMnKPD@
+1 TITL New York, Registers of Officers and Enlisted Men Mustered in
+2 CONC to Federal Service, 1861-1865
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
+2 CONC e: 2014
 0 @sXyDkhg5SlSi1Km4RUgO@ SOUR
-1 REFN fb8e68d2-82fb-4b05-b92b-fc0066053a5d
 1 REPO @kBzDdT7sR6qYOEZMnKPD@
 1 TITL New York, State Census, 1855
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2013
 0 @9HZoDLydRjGBZ5Mms0jb@ SOUR
-1 REFN 0a81988c-62eb-48ef-96d2-ebef51bd45f3
 1 REPO @kBzDdT7sR6qYOEZMnKPD@
 1 TITL New York, State Census, 1865
 1 AUTH Ancestry.com
@@ -20784,6 +22611,12 @@
 1 REFN f315cc48-8dcf-4e37-9cc0-496d95df443a
 1 REPO @kBzDdT7sR6qYOEZMnKPD@
 1 TITL Pennsylvania, Death Certificates, 1906-1944
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
+2 CONC e: 2014
+0 @S183@ SOUR
+1 REPO @kBzDdT7sR6qYOEZMnKPD@
+1 TITL Pennsylvania, Death Certificates, 1906-1967
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2014
@@ -21017,100 +22850,6 @@
 1 TITL Sands Point
 1 AUTH Sands Point Civic Association
 1 PUBL 1979
-0 @iZlulgkISMSpUuqa7YAc@ SOUR
-1 REFN c833c735-e041-4d3c-9556-349a26cd73f1
-1 TITL Sands/Harrison family bible
-1 PUBL In possession of Chris Mosher
-1 TEXT [dimensions approx. 9 in. x 11 in. x 3.5 in., binding is bro
-2 CONC wn leather, spine has "HOLY-BIBLE", no title page, pages 1 t
-2 CONC hrough 1080, first page starts "[paragraph symbol] The FIRS
-2 CONC T BOOK of MOSES, CALLED GENESIS.", pp. 677 through 680 title
-2 CONC d "FAMILY RECORD." with notes handwritten in ink which are t
-2 CONC ranscribed below, ownership may have been: Jesse Sands, the
-2 CONC n Mary E. Sands, then Henry Francis Harrison, then George El
-2 CONC mer Harrison, then John Harrison, then Sally Harrison Brown
-2 CONC , then Christopher Alan Mosher]<br />
-2 CONT <img src="mosher_files/sands_bible_p1.jpg"><br />
-2 CONT [page] 677<br />
-2 CONT FAMILY RECORD.<br />
-2 CONT MARRIAGES.<br />
-2 CONT Jesse Sands Was Married to Mary Pardee Feb<sup>y</sup> 20<su
-2 CONC p>th</sup> 1800<br />
-2 CONT Harvey Sands Was Married to Sally Haasze Feb<sup>y</sup> 27<
-2 CONC sup>th</sup> 1822[2 over 1]<br />
-2 CONT Sarah W Sands was Married to Willis H. Gaylord June 7<sup>th
-2 CONC </sup> 1826<br />
-2 CONT John P Sands was Married to Candace Gaylord June 8<sup>th</s
-2 CONC up> 1826<br /><br />
-2 CONT MARRIAGES.<br />
-2 CONT Mary Sands was Married to George Harrisson [sic] Feb<sup>y</
-2 CONC sup> 19<sup>th</sup> 1835<br />
-2 CONT <img src="mosher_files/sands_bible_p2.jpg"><br />
-2 CONT [page] 678<br />
-2 CONT FAMILY RECORD.<br />
-2 CONT BIRTHS.<br />
-2 CONT Jesse Sands Born June the Seventh 1768<br />
-2 CONT Mary Sands [nee Pardee] Born June the Eighteenth 1768<br />
-2 CONT Harvey Sands Feb<sup>y</sup> 10<sup>th</sup> 1801<br />
-2 CONT John P Sands Aug<sup>t</sup> 15<sup>th</sup> 1803<br />
-2 CONT Sarah W Sands Oc<sup>t</sup> 29<sup>th</sup> 1805<br />
-2 CONT Mary Sands March 14<sup>th</sup> 1809<br />
-2 CONT BIRTHS.<br />
-2 CONT [stillbirth] Born May 11<sup>th</sup> 1836<br />
-2 CONT William N Harrison Bron June 19<sup>th</sup> 1837<br />
-2 CONT :: [stillbirth] Born March 14<sup>th</sup>, 1839<br />
-2 CONT Henry F[rancis] Harrison Born May 24<sup>th</sup> 1840<br />
-2 CONT Emma A Harrison Born May 27<sup>th</sup> 1843<br />
-2 CONT John J Harrison Born July 13<sup>th</sup> 1845<br />
-2 CONT Sarah A Harrison Born January 19<sup>th</sup> 1848<br />
-2 CONT <img src="mosher_files/sands_bible_p3.jpg"><br />
-2 CONT [page] 679<br />
-2 CONT FAMILY RECORD.<br />
-2 CONT BIRTHS.<br />
-2 CONT [blank]<br />
-2 CONT DEATHS.<br />
-2 CONT In memory of My honoured Father in Law John Pardee Who Die
-2 CONC d April 26<sup>th</sup> 1808 Being in the 71<sup>st</sup> ye
-2 CONC ar of his age [born between 27 Apr 1737 NS and 26 Apr 1738 N
-2 CONC S]<br />
-2 CONT In memory of my honoured Mother in Law Sarah Pardee [nee Web
-2 CONC b] who Died Oct 19<sup>th</sup> 1820 [this zero is not clear
-2 CONC , looks like a six] Being in the the [sic] 83 year of her ag
-2 CONC e [born between 20 Oct 1737 NS and 19 Oct 1738 NS]<br />
-2 CONT In memory of my honoured Mother Martha Sands [nee Ketchum] w
-2 CONC ho Died April the 30<sup>th</sup> 1815 Being in the Eightiet
-2 CONC h year of her age [born between 31 Apr 1735 NS and 30 Apr 17
-2 CONC 36 NS]<br />
-2 CONT In memory of my honoured Father Othiniel Sands who Died Jan<
-2 CONC sup>y</sup> 5<sup>th</sup> 1823 Being in his 90 year [born b
-2 CONC etween 6 Jan 1733 and 5 Jan 1734]<br />
-2 CONT In memory of my honoured Sister [in law] Sarah Pardee [siste
-2 CONC r of Mary Pardee] who Died Jan<sup>y</sup> 7<sup>th</sup> 18
-2 CONC 03 Being in the 37<sup>th</sup> year of her age [between 8 J
-2 CONC an 1766 and 7 Jan 1767]<br /><br />
-2 CONT <img src="mosher_files/sands_bible_p4.jpg"><br />
-2 CONT [page] 680<br />
-2 CONT FAMILY RECORD.<br />
-2 CONT DEATHS.<br />
-2 CONT In memory of Samuel Clapp my Honoured Brother in-law who die
-2 CONC d March the 2<sup>nd</sup> 1825<br />
-2 CONT In memory of George Harrison who died Aug. 8<sup>th</sup> 18
-2 CONC 50 aged 45 years and 26 days [born 13 Jul 1805]<br />
-2 CONT In memory of Mary E. Harrison [nee Sands] who Died Dec. 3<su
-2 CONC p>rd</sup> 1894 aged 84 years 8 months 19 days [born 14 Ma
-2 CONC r 1810 conflicts with 14 Mar 1809 listed above under Births]
-2 CONC <br />
-2 CONT Henry F. Harrison died June 14[4 over 2], 1912<br />
-2 CONT son of [arrow pointing to Henry] Elmer Harrison died at Sayr
-2 CONC e Pa. Apr. 29, 1943.<br />
-2 CONT DEATHS.<br />
-2 CONT In Memory of Jesse Sands who died June 30<sup>th</sup> 184
-2 CONC 2 aged 74 year and 23 days [born 7 Jun 1768 agrees with dat
-2 CONC e listed under Births]<br /><br />
-2 CONT In Memory of Mary Sands [nee Pardee] who died De<sup>c</sup
-2 CONC > 26<sup>th</sup> 1843 aged seventy five year six months an
-2 CONC d eight days [born 18 Jun 1768 agrees with date listed unde
-2 CONC r Births]<br />
 0 @8DcS3Wd6T7GPzpkOmkJq@ SOUR
 1 REFN 5a0cc342-8c7b-4de6-a416-c142b8cbbe4c
 1 TITL Scalfaro-Watts Database
@@ -21136,22 +22875,11 @@
 1 AUTH Huntington, E. B.
 1 PUBL William W. Gillespie and Company, Stamford, 1874
 0 @fqm9Idi7QCuuDSzOtc2F@ SOUR
-1 REFN db68d306-103f-4504-a631-7f7fa3a7f5a6
+1 REPO @kBzDdT7sR6qYOEZMnKPD@
 1 TITL Steuben County, New York Directory, 1891
-1 AUTH Steuben Co., NY
-1 PUBL Ancestry.com
-1 TEXT [Ancestry.com. Steuben County, New York Directory, 1891. [da
-2 CONC tabase online] Provo, UT: Ancestry.com, 2000. Original data
-2 CONC : Steuben County, NY, 1891. Bath, NY: Millard F. Roberts, 18
-2 CONC 91.]<br />
-2 CONT Name: Henry Harrison<br />
-2 CONT Business Name: [blank]<br />
-2 CONT Occupation: farmer<br />
-2 CONT Location 1: [blank]<br />
-2 CONT Location 2: off r 17<br />
-2 CONT City: Hornby<br />
-2 CONT State: NY<br />
-2 CONT <br />
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations Inc; Location: Provo, UT, USA; Date
+2 CONC : 2000
 0 @04SiVuvYQEmBxeuHmV1e@ SOUR
 1 REFN f0a93dda-8d1b-4bca-bdb1-315bfed16da2
 1 TITL Thomas Cornell (or Cornwell) (1594-1655/6)
@@ -21214,16 +22942,6 @@
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2011
-0 @xQqsftdFQjixCjmEVLLU@ SOUR
-1 REFN f8976903-5172-4b6e-88d2-b0d5ffa622f7
-1 TITL U.S., Sons of the American Revolution Membership Application
-2 CONC s, 1889-1970 [database on-line]
-1 AUTH Ancestry.com
-1 PUBL Provo, UT, USA: Ancestry.com Operations, Inc., 2011
-1 TEXT [Original data: Sons of the American Revolution Membership A
-2 CONC pplications, 1889-1970. Louisville, Kentucky: National Socie
-2 CONC ty of the Sons of the American Revolution. Microfilm, 508 ro
-2 CONC lls.]
 0 @p2B9QSA8RgWMHtAiaOoI@ SOUR
 1 REFN c3dc877b-44f3-458a-b9a3-446b02504980
 1 REPO @kBzDdT7sR6qYOEZMnKPD@
@@ -23103,4 +24821,102 @@
 2 _TEXT Year: 1800; Census Place: Salem, Westchester, New York; Seri
 3 CONC es: M32; Roll: 27; Page: 90; Image: 308; Family History Libr
 3 CONC ary Film: 193715
+0 @M88@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Harrison Media\
+2 CONC New York State, Marriage Index, 1881-1967.jpg
+2 FORM jpg
+2 TITL New York State, Marriage Index, 1881-1967
+2 _TEXT New York State Department of Health; Albany, NY, USA; New Yo
+3 CONC rk State Marriage Index
+0 @M89@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Harrison Media\
+2 CONC New York State, Marriage Index, 1881-1967(1).jpg
+2 FORM jpg
+2 TITL New York State, Marriage Index, 1881-1967
+2 _TEXT New York State Department of Health; Albany, NY, USA; New Yo
+3 CONC rk State Marriage Index
+0 @M90@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Harrison Media\
+2 CONC 1870 United States Federal Census.jpg
+2 FORM jpg
+2 TITL 1870 United States Federal Census
+2 _TEXT Year: 1870; Census Place: Hornby, Steuben, New York; Roll: M
+3 CONC 593_1095; Page: 218B; Family History Library Film: 552594
+0 @M91@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Harrison Media\
+2 CONC New York, State Census, 1865.jpg
+2 FORM jpg
+2 TITL New York, State Census, 1865
+0 @M92@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Harrison Media\
+2 CONC New York, State Census, 1865(1).jpg
+2 FORM jpg
+2 TITL New York, State Census, 1865
+0 @M93@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Harrison Media\
+2 CONC 1860 United States Federal Census.jpg
+2 FORM jpg
+2 TITL 1860 United States Federal Census
+2 _TEXT Year: 1860; Census Place: Orange, Schuyler, New York; Roll
+3 CONC : M653_859; Page: 525; Family History Library Film: 803859
+0 @M94@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Harrison Media\
+2 CONC 1850 United States Federal Census.jpg
+2 FORM jpg
+2 TITL 1850 United States Federal Census
+2 _TEXT Year: 1850; Census Place: Orange, Steuben, New York; Roll: M
+3 CONC 432_598; Page: 145A; Image: 294
+0 @M95@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Harrison Media\
+2 CONC New York, State Census, 1855.jpg
+2 FORM jpg
+2 TITL New York, State Census, 1855
+0 @M96@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Harrison Media\
+2 CONC 1870 United States Federal Census(1).jpg
+2 FORM jpg
+2 TITL 1870 United States Federal Census
+2 _TEXT Year: 1870; Census Place: Orange, Schuyler, New York; Roll
+3 CONC : M593_1092; Page: 623B; Family History Library Film: 552591
+0 @M97@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Harrison Media\
+2 CONC New York, State Census, 1865(2).jpg
+2 FORM jpg
+2 TITL New York, State Census, 1865
+0 @M98@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Harrison Media\
+2 CONC Iowa, Death Records, 1920-1940.jpg
+2 FORM jpg
+2 TITL Iowa, Death Records, 1920-1940
+2 _TEXT State Historical Society of Iowa; Des Moines, Iowa; Iowa Dea
+3 CONC th Records; Reference Number: 101821058
+0 @M99@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Harrison Media\
+2 CONC Pennsylvania, Death Certificates, 1906-1967.jpg
+2 FORM jpg
+2 TITL Pennsylvania, Death Certificates, 1906-1967
+2 _TEXT Pennsylvania Historic and Museum Commission; Harrisburg, Pen
+3 CONC nsylvania; Pennsylvania (State). Death certificates, 1906–19
+3 CONC 67; Certificate Number Range: 034251-036850
+0 @M100@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Harrison Media\
+2 CONC 1920 United States Federal Census(1).jpg
+2 FORM jpg
+2 TITL 1920 United States Federal Census
+2 _TEXT Year: 1920; Census Place: Perry, Buchanan, Iowa; Roll: T625_
+3 CONC 480; Page: 14B; Enumeration District: 71
+0 @M101@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Harrison Media\
+2 CONC Iowa, Death Records, 1920-1940(1).jpg
+2 FORM jpg
+2 TITL Iowa, Death Records, 1920-1940
+2 _TEXT State Historical Society of Iowa; Des Moines, Iowa; Iowa Dea
+3 CONC th Records; Reference Number: 101784566
+0 @M102@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Harrison Media\
+2 CONC New York, Registers of Officers and Enlisted Men Mustered in
+2 CONC to Federal Service, 1861-1865.jpg
+2 FORM jpg
+2 TITL New York, Registers of Officers and Enlisted Men Mustered in
+3 CONC to Federal Service, 1861-1865
 0 TRLR
