@@ -2,7 +2,7 @@
 
 ### https://mosher.mine.nu/genealogy
 
-### Mosher, Disosway, Harrison, Pazmiño, Colvin, McLaughlin, Flandreau, López Lovejoy, Spohner, Taylorson, Dougherty, Justice, Pettit, Hurtado, Romero
+### Mosher, Disosway, Harrison, Pazmiño, Colvin, McLaughlin, Flandreau, López, Lovejoy, Spohner, Taylorson, Dougherty, Justice, Pettit, Hurtado, Romero
 
 <a href="https://creativecommons.org/licenses/by-sa/4.0/legalcode">Copyright ©</a>
 1998–2019, Christopher Alan Mosher, Shelton, Connecticut, USA, <cmosher01@gmail.com>.
@@ -14,5 +14,4 @@
 
 ---
 
-This repository contains all data from my genealogy research, except that all recent events and private information has been redacted.
-
+This repository contains all data from my genealogy research, except that all private data and recent events have been redacted.
