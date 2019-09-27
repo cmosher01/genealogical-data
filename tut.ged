@@ -1,0 +1,136 @@
+0 HEAD
+1 DEST FTM
+1 _ROOT @I0@
+1 CHAR UTF-8
+1 SOUR FTM
+2 VERS 23.0.2.1343
+2 NAME Family Tree Maker for Windows
+2 CORP The Software MacKiev Company
+3 ADDR 30 Union Wharf
+4 CONT Boston, MA 02109
+3 PHON (617) 227-6681
+1 DATE 04 AUG 2017
+1 SUBM @tQ0JhK4pRdqDZGXaVoqX@
+1 FILE Tutankhamun_2017-08-04.ged
+1 GEDC
+2 VERS 5.5.1
+2 FORM LINEAGE-LINKED
+0 @tQ0JhK4pRdqDZGXaVoqX@ SUBM
+1 NAME Not Given
+1 RIN tQ0JhK4pRdqDZGXaVoqX
+0 @I2@ INDI
+1 _XY 170 135
+1 REFN a888be76-6af4-4d35-8877-5ac6a60e77af
+1 RIN I2
+1 NAME Amen-hotep [III] [CG61074] [KV35] //
+1 SEX M
+1 FAMC @F_I8_I9@
+1 FAMS @F_I2_I3@
+0 @I1@ INDI
+1 _XY 150 297
+1 REFN b65390fb-5532-4667-ac28-54f9ebf91fcf
+1 RIN I1
+1 NAME Amen-hotep [IV] (Akhen-aten) [KV55] //
+1 SEX M
+1 FAMC @F_I2_I3@
+1 FAMS @F_I1_I4@
+1 FAMS @F_I1_I5@
+0 @I9@ INDI
+1 _XY 296 38
+1 REFN 96d8daca-77a3-4188-b920-8b2554c940ae
+1 RIN I9
+1 NAME Mutemwiya //
+1 SEX F
+1 FAMS @F_I8_I9@
+0 @I5@ INDI
+1 _XY 30 297
+1 REFN 114f6691-9bfd-499d-9275-4e62e9cbac32
+1 RIN I5
+1 NAME Nefertiti //
+1 SEX F
+1 FAMS @F_I1_I5@
+0 @I8@ INDI
+1 _XY 65 30
+1 REFN 19753ab9-064f-4441-ac65-2ab1c6829a1c
+1 RIN I8
+1 NAME Thut-mose [IV] (Menkheperure) [KV43-KV35] //
+1 SEX M
+1 FAMS @F_I8_I9@
+0 @I3@ INDI
+1 _XY 436 135
+1 REFN 01f37932-e842-41f9-996d-0daefb7fd72d
+1 RIN I3
+1 NAME Tiye [CG61070] [KV35 Elder Lady] //
+1 SEX F
+1 FAMC @F_I6_I7@
+1 FAMS @F_I2_I3@
+0 @I7@ INDI
+1 _XY 566 38
+1 REFN 177e33ea-2f77-45b6-a022-24adc65be697
+1 RIN I7
+1 NAME Tjuyu (Thuya) (Tuyu) [KV46] //
+1 SEX F
+1 FAMS @F_I6_I7@
+0 @I6@ INDI
+1 _XY 447 38
+1 REFN 0258340d-7750-4b0d-92d6-f49cbcfbc653
+1 RIN I6
+1 NAME Yuya [KV46] //
+1 SEX M
+1 FAMS @F_I6_I7@
+0 @I4@ INDI
+1 _XY 422 289
+1 REFN 9d304896-2fab-45df-b20d-4e57f5d28d6f
+1 RIN I4
+1 NAME [unknown] [CG61072] [KV35 Younger Lady] //
+1 SEX F
+1 FAMC @F_I2_I3@
+1 FAMS @F_I1_I4@
+0 @I0@ INDI
+1 _XY 284 429
+1 REFN 3fe71978-549b-48dc-870a-51a16096239f
+1 RIN I0
+1 NAME 𓍹𓇋𓏠𓈖𓏏𓅱𓏏𓋹𓍺 (twt-9nx-jmnn) (Tut-ankh-amun) //
+1 NAME twt-9nx-w-jtn-r9 (Tut-ankh-w-aten) //
+1 NAME twt-9nx-jtn-r9 (Tut-ankh-aten) //
+1 NAME King Tut //
+1 NAME [KV62] //
+1 SEX M
+1 FAMC @F_I1_I4@
+1 OBJE @TnVHFBzyQFWwb4OAFO0c@
+0 @F_I1_I4@ FAM
+1 REFN 4071dea1-aa40-48ac-b1ed-b6a02bd015f6
+1 RIN F_I1_I4
+1 HUSB @I1@
+1 WIFE @I4@
+1 CHIL @I0@
+0 @F_I1_I5@ FAM
+1 REFN c2f532a4-913d-438a-b3d6-fd37f5516689
+1 RIN F_I1_I5
+1 HUSB @I1@
+1 WIFE @I5@
+0 @F_I2_I3@ FAM
+1 REFN ddf0cb08-18c4-4ffb-9730-019fd7072640
+1 RIN F_I2_I3
+1 HUSB @I2@
+1 WIFE @I3@
+1 CHIL @I1@
+1 CHIL @I4@
+0 @F_I6_I7@ FAM
+1 REFN d0e6b83a-d01c-4a38-b769-730140cd45be
+1 RIN F_I6_I7
+1 HUSB @I6@
+1 WIFE @I7@
+1 CHIL @I3@
+0 @F_I8_I9@ FAM
+1 REFN 5cd2484a-6ec3-4599-9929-5a6a98393ea2
+1 RIN F_I8_I9
+1 HUSB @I8@
+1 WIFE @I9@
+1 CHIL @I2@
+0 @TnVHFBzyQFWwb4OAFO0c@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Tutankhamun Media\King Tut 02.jpg
+2 FORM jpg
+2 TITL King Tut 02
+1 RIN TnVHFBzyQFWwb4OAFO0c
+0 TRLR

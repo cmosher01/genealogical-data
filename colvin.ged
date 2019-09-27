@@ -9393,38 +9393,8 @@
 3 _APID 1,60901::32060768
 1 _XY -10875.00 -2125.00
 0 @I152@ INDI
-1 REFN 66b5517f-5524-4dfb-9e5d-cda5b41f455f
-1 NAME George Price /House/
-2 SOUR @Uy92PZYtTYyuTqW66j1r@
-3 PAGE Year: 1940; Census Place: Rome, Oneida, New York; Roll: m-t0
-4 CONC 627-02701; Page: 6A; Enumeration District: 33-71
-3 OBJE @M212@
-3 _APID 1,2442::8268759
-1 SEX M
+1 NAME [REDACTED]
 1 FAMC @F59@
-1 BIRT
-2 DATE ABT 1940
-2 PLAC New York, USA
-3 MAP
-4 LATI N42.7531
-4 LONG W74.2224
-2 SOUR @Uy92PZYtTYyuTqW66j1r@
-3 PAGE Year: 1940; Census Place: Rome, Oneida, New York; Roll: m-t0
-4 CONC 627-02701; Page: 6A; Enumeration District: 33-71
-3 OBJE @M212@
-3 _APID 1,2442::8268759
-1 RESI
-2 DATE 1940
-2 PLAC Rome, Oneida, New York, USA
-3 MAP
-4 LATI N43.2128
-4 LONG W75.4557
-2 SOUR @Uy92PZYtTYyuTqW66j1r@
-3 PAGE Year: 1940; Census Place: Rome, Oneida, New York; Roll: m-t0
-4 CONC 627-02701; Page: 6A; Enumeration District: 33-71
-3 OBJE @M212@
-3 _APID 1,2442::8268759
-2 NOTE Marital Status: Single; Relation to Head: Son
 0 @I151@ INDI
 1 REFN 60a6ad35-d751-4410-b3ff-25288d893fbf
 1 NAME Ralph M. /House/
@@ -12858,20 +12828,6 @@
 1 CHIL @I152@
 2 _FREL Natural
 2 _MREL Natural
-1 MARR
-2 DATE 25 OCT 1929
-2 PLAC Yorkville, Oneida, New York, USA
-3 MAP
-4 LATI N43.1128
-4 LONG W75.271
-2 SOUR @S152@
-3 PAGE New York State Department of Health; Albany, NY, USA; New Yo
-4 CONC rk State Marriage Index
-3 OBJE @M224@
-2 SOUR @S152@
-3 PAGE New York State Department of Health; Albany, NY, USA; New Yo
-4 CONC rk State Marriage Index
-3 OBJE @M236@
 0 @F42@ FAM
 1 HUSB @I119@
 1 WIFE @I56@
@@ -12881,17 +12837,6 @@
 1 CHIL @I170@
 2 _FREL Natural
 2 _MREL Natural
-1 MARR
-2 DATE 05 MAY 1935
-2 PLAC Chemung, New York, USA
-2 SOUR @S152@
-3 PAGE New York State Department of Health; Albany, NY, USA; New Yo
-4 CONC rk State Marriage Index
-3 OBJE @M233@
-2 SOUR @S152@
-3 PAGE New York State Department of Health; Albany, NY, USA; New Yo
-4 CONC rk State Marriage Index
-3 OBJE @M235@
 0 @LWjyKQdMRX2WpNEyitZX@ FAM
 1 REFN fa3df241-8ee9-42d5-9713-5f8cce6b6ac6
 1 HUSB @ucckGPaVRtWevsikQqtS@
@@ -12967,8 +12912,6 @@
 0 @F64@ FAM
 1 HUSB @I177@
 1 WIFE @I175@
-1 MARR
-2 DATE 1939
 0 @F25@ FAM
 1 HUSB @I37@
 1 WIFE @SDnCwpECQQiuhJycVWOJ@
