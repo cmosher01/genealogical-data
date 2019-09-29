@@ -14,9 +14,9 @@
 4 CONT Boston, MA 02109
 3 PHON (617) 227-6681
 1 DEST FTM
-1 FILE Disosway_2019-09-29-22-13-56.ftm.ged
+1 FILE Disosway_2019-09-29-22-33-53.ftm.ged
 1 DATE 29 SEP 2019
-2 TIME 22:14:48
+2 TIME 22:34:36
 0 @Umy2qBWIRUiwVSS6Hcn4@ SUBM
 1 NAME Christopher Alan Mosher
 2 EMAIL cmosher01@@gmail.com
@@ -3950,8 +3950,6 @@
 3 _APID 1,7484::972400
 2 SOUR @Dut2uBTNRuK1Lv2laWIn@
 3 _APID 1,9105::175621
-2 SOUR @S138@
-3 _APID 1,8908::7031373
 2 SOUR @INpalvwFTzeqSWZwvovW@
 3 PAGE Tennessee State Library and Archives; Nashville, Tennessee
 4 CONC ; Tennessee Death Records, 1908-1959; Roll #: 10
@@ -4129,8 +4127,6 @@
 3 MAP
 4 LATI N36.1659
 4 LONG W86.7844
-2 SOUR @S138@
-3 _APID 1,8908::7031373
 2 SOUR @nQ5QQVctTq2PZDdGIIJM@
 3 QUAY 3
 2 SOUR @INpalvwFTzeqSWZwvovW@
@@ -4163,7 +4159,14 @@
 3 OBJE @M135@
 3 _APID 1,2442::151670122
 2 SOUR @S138@
+3 PAGE NC Department of Health. North Carolina Deaths, 1983-87; 198
+4 CONC 4, John Justice Disosway
 3 _APID 1,8908::6760857
+2 SOUR @S138@
+3 PAGE NC State Archives. North Carolina Deaths, 1908-67; 1984, Joh
+4 CONC n Justice Disosway
+3 OBJE @M200@
+3 _APID 1,8908::4032668
 2 SOUR @S137@
 3 PAGE Publication Date: 9/ Feb/ 2007; Publication Place: Louisa, V
 4 CONC irginia, USA; URL: http://www.thecentralvirginian.com/Obitua
@@ -4189,6 +4192,8 @@
 3 OBJE @M135@
 3 _APID 1,2442::151670122
 2 SOUR @S138@
+3 PAGE NC Department of Health. North Carolina Deaths, 1983-87; 198
+4 CONC 4, John Justice Disosway
 3 _APID 1,8908::6760857
 2 SOUR @S136@
 3 PAGE Virginia Department of Health; Richmond, Virginia; Virgini
@@ -4214,7 +4219,14 @@
 4 LATI N35.1085
 4 LONG W77.0441
 2 SOUR @S138@
+3 PAGE NC Department of Health. North Carolina Deaths, 1983-87; 198
+4 CONC 4, John Justice Disosway
 3 _APID 1,8908::6760857
+2 SOUR @S138@
+3 PAGE NC State Archives. North Carolina Deaths, 1908-67; 1984, Joh
+4 CONC n Justice Disosway
+3 OBJE @M200@
+3 _APID 1,8908::4032668
 0 @I233@ INDI
 1 NAME [REDACTED]
 1 FAMC @F171@
@@ -16646,4 +16658,9 @@
 2 CONC North Carolina, Marriage Records, 1741-2011(7).jpg
 2 FORM jpg
 2 TITL North Carolina, Marriage Records, 1741-2011
+0 @M200@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Disosway Media\
+2 CONC North Carolina, Death Indexes, 1908-2004(5).jpg
+2 FORM jpg
+2 TITL North Carolina, Death Indexes, 1908-2004
 0 TRLR
