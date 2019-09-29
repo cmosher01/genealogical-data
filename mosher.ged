@@ -14,9 +14,9 @@
 4 CONT Boston, MA 02109
 3 PHON (617) 227-6681
 1 DEST FTM
-1 FILE Mosher_2019-09-29-03-07-30.ftm.ged
+1 FILE Mosher_2019-09-29-19-44-40.ftm.ged
 1 DATE 29 SEP 2019
-2 TIME 03:08:22
+2 TIME 19:45:33
 0 @Umy2qBWIRUiwVSS6Hcn4@ SUBM
 1 NAME Christopher Alan Mosher
 2 EMAIL cmosher01@@gmail.com
@@ -694,6 +694,11 @@
 2 SOUR @S259@
 3 OBJE @M320@
 3 _APID 1,1506::3323786
+2 SOUR @S203@
+3 PAGE New York State Department of Health; Albany, NY, USA; New Yo
+4 CONC rk State Marriage Index; Doris N. Beckwith
+3 OBJE @M547@
+3 _APID 1,61632::6551567
 2 SOUR @S260@
 3 _APID 1,1643::464580
 2 SOUR @S263@
@@ -744,11 +749,14 @@
 4 CONC amily No: 14
 3 OBJE @M322@
 3 _APID 1,8947::3728455
-2 NOTE Age: 3Relation to Head of House: Daughter; Marital Status: S
-3 CONC ingle
+2 NOTE Age: 3; Relation to Head of House: Daughter; Marital Status
+3 CONC : Single
 1 RESI
 2 DATE 1935
-2 PLAC Syracuse, New York
+2 PLAC Syracuse, Onondaga, New York, USA
+3 MAP
+4 LATI N43.0481
+4 LONG W76.1474
 2 SOUR @S221@
 3 PAGE Year: 1940; Census Place: Cazenovia, Madison, New York; Roll
 4 CONC : T627_2624; Page: 5A; Enumeration District: 27-5
@@ -756,17 +764,23 @@
 3 _APID 1,2442::11179598
 1 RESI
 2 DATE 01 APR 1940
-2 PLAC Cazenovia, Madison, New York, United States
+2 PLAC Cazenovia, Madison, New York, USA
+3 MAP
+4 LATI N42.9301
+4 LONG W75.8527
 2 SOUR @S221@
 3 PAGE Year: 1940; Census Place: Cazenovia, Madison, New York; Roll
 4 CONC : T627_2624; Page: 5A; Enumeration District: 27-5
 3 OBJE @M321@
 3 _APID 1,2442::11179598
-2 NOTE Age: 31Marital Status: Married; Relation to Head of House: W
-3 CONC ife
+2 NOTE Age: 31; Marital Status: Married; Relation to Head of House
+3 CONC : Wife
 1 RESI
 2 DATE 1945
-2 PLAC Precinct 1, Clay, Florida
+2 PLAC Clay, Florida, USA
+3 MAP
+4 LATI N29.9768
+4 LONG W81.8579
 2 SOUR @S259@
 3 OBJE @M320@
 3 _APID 1,1506::3323786
@@ -4906,6 +4920,14 @@
 1 SEX F
 1 FAMS @MyvBgStZQp2LCutUEOWT@
 1 _XY 7175.00 300.00
+0 @I657@ INDI
+1 NAME Susan Diane /Harper/
+2 SOUR @S284@
+3 PAGE Susan Diane Harper
+3 OBJE @M548@
+3 _APID 1,8784::2666277
+1 SEX F
+1 FAMS @F489@
 0 @I457@ INDI
 1 REFN 2794e299-7170-44be-88e6-2a72f7281292
 1 NAME Alice Irene /Harrison/
@@ -25487,6 +25509,11 @@
 2 SOUR @S259@
 3 OBJE @M320@
 3 _APID 1,1506::3323785
+2 SOUR @S203@
+3 PAGE New York State Department of Health; Albany, NY, USA; New Yo
+4 CONC rk State Marriage Index; Sanford W. Mosher
+3 OBJE @M545@
+3 _APID 1,61632::6605528
 2 SOUR @IatrsKHUQdmGOYci7sP2@
 3 PAGE New York State Archives; Albany, New York; State Populatio
 4 CONC n Census Schedules, 1925; Election District: 01; Assembly Di
@@ -25505,6 +25532,7 @@
 1 SEX M
 1 FAMC @vI58j6lGTpKJxvAR6gKB@
 1 FAMS @F358@
+1 OBJE @M533@
 1 BIRT
 2 DATE 29 NOV 1908
 2 PLAC New York, USA
@@ -25557,7 +25585,8 @@
 4 CONC : T624_987; Page: 1A; Enumeration District: 0013; FHL microf
 4 CONC ilm: 1375000
 3 _APID 1,7884::127028946
-2 NOTE Age: 1Marital Status: Single; Relation to Head of House: Son
+2 NOTE Age: 1; Marital Status: Single; Relation to Head of House: S
+3 CONC on
 1 RESI
 2 DATE 1920
 2 PLAC Madison, Madison, New York, USA
@@ -25567,8 +25596,8 @@
 2 SOUR @S213@
 3 PAGE Year: 1920; Census Place: Madison, Madison, New York
 3 _APID 1,6061::19078795
-2 NOTE Age: 11Marital Status: Single; Relation to Head of House: So
-3 CONC n
+2 NOTE Age: 11; Marital Status: Single; Relation to Head of House
+3 CONC : Son
 1 RESI
 2 DATE 01 JUN 1925
 2 PLAC Madison, Madison, New York, USA
@@ -25580,20 +25609,26 @@
 4 CONC n Census Schedules, 1925; Election District: 01; Assembly Di
 4 CONC strict: 01; City: Madison; County: Madison; Page: 11
 3 _APID 1,2704::20748060
-2 NOTE Age: 16Relation to Head of House: Son
+2 NOTE Age: 16; Relation to Head of House: Son
 1 RESI
 2 DATE 1930
-2 PLAC Newport, Herkimer, New York
+2 PLAC Newport, Herkimer, New York, USA
+3 MAP
+4 LATI N43.1859
+4 LONG W75.0143
 2 SOUR @S224@
 3 PAGE Year: 1930; Census Place: Newport, Herkimer, New York; Roll
 4 CONC : 1442; Page: 6B; Enumeration District: 45; Image: 658.0; FH
 4 CONC L microfilm: 2341177
 3 _APID 1,6224::38162796
-2 NOTE Age: 21Marital Status: Single; Relation to Head of House: So
-3 CONC n
+2 NOTE Age: 21; Marital Status: Single; Relation to Head of House
+3 CONC : Son
 1 RESI
 2 DATE 1935
-2 PLAC Syracuse, New York
+2 PLAC Syracuse, Onondaga, New York, USA
+3 MAP
+4 LATI N43.0481
+4 LONG W76.1474
 2 SOUR @S221@
 3 PAGE Year: 1940; Census Place: Cazenovia, Madison, New York; Roll
 4 CONC : T627_2624; Page: 5A; Enumeration District: 27-5
@@ -25601,24 +25636,33 @@
 3 _APID 1,2442::11179596
 1 RESI
 2 DATE 01 APR 1940
-2 PLAC Cazenovia, Madison, New York, United States
+2 PLAC Cazenovia, Madison, New York, USA
+3 MAP
+4 LATI N42.9301
+4 LONG W75.8527
 2 SOUR @S221@
 3 PAGE Year: 1940; Census Place: Cazenovia, Madison, New York; Roll
 4 CONC : T627_2624; Page: 5A; Enumeration District: 27-5
 3 OBJE @M321@
 3 _APID 1,2442::11179596
-2 NOTE Age: 31Marital Status: Married; Relation to Head of House: H
-3 CONC ead
+2 NOTE Age: 31; Marital Status: Married; Relation to Head of House
+3 CONC : Head
 1 RESI
 2 DATE 1945
-2 PLAC Precinct 1, Clay, Florida
+2 PLAC Clay, Florida, USA
+3 MAP
+4 LATI N29.9768
+4 LONG W81.8579
 2 SOUR @S259@
 3 OBJE @M320@
 3 _APID 1,1506::3323785
 2 NOTE Age: 36
 1 RESI
 2 DATE 1949
-2 PLAC Jacksonville, Florida, USA
+2 PLAC Jacksonville, Duval, Florida, USA
+3 MAP
+4 LATI N30.3314
+4 LONG W81.6761
 2 SOUR @S281@
 3 PAGE 1949
 3 OBJE @M324@
@@ -25646,6 +25690,7 @@
 2 SOUR @S241@
 3 _APID 1,60525::142545160
 1 _XY 1825.00 2425.00
+1 _PHOTO @M533@
 0 @hJfleIF1RvmocVyInB3O@ INDI
 1 REFN 796cb88e-dfcd-4f92-91f4-b5d8830dd893
 1 NAME Sarah /Mosher/
@@ -25997,11 +26042,9 @@
 1 BIRT
 2 DATE 19 DEC 1783
 0 @I442@ INDI
-1 REFN f95333f2-d8c3-4291-9f21-4d58f78a39df
-1 NAME Stuart Legrande /Mosher/
-1 SEX M
+1 NAME [REDACTED]
 1 FAMC @F358@
-1 _XY 2150.00 2525.00
+1 FAMS @F489@
 0 @I569@ INDI
 1 REFN d3c9a1b1-e089-4f94-a761-ba2007426847
 1 NAME Whitford Albert /Mosher/
@@ -34480,6 +34523,16 @@
 2 SOUR @7c8PO7CnR1qikgvyU4fE@
 3 OBJE @M305@
 3 _APID 1,1144::8088666
+2 SOUR @S233@
+3 PAGE New York State Department of Health; Albany, NY, USA; New Yo
+4 CONC rk State Birth Index
+3 OBJE @M539@
+3 _APID 1,61667::4336730
+2 SOUR @S329@
+3 PAGE "U.S., School Yearbooks, 1880-2012"; School Name: Sequoia Hi
+4 CONC gh School; Year: 1955
+3 OBJE @M537@
+3 _APID 1,1265::389389941
 2 SOUR @S215@
 3 _APID 1,60901::26364531
 2 SOUR @yAMTVEqOTiKCsMjPyXmb@
@@ -34488,6 +34541,7 @@
 1 SEX F
 1 FAMC @F354@
 1 FAMS @F355@
+1 OBJE @M532@
 1 BIRT
 2 DATE 08 OCT 1937
 2 PLAC Syracuse, Onondaga, New York, USA
@@ -34502,6 +34556,16 @@
 2 SOUR @7c8PO7CnR1qikgvyU4fE@
 3 OBJE @M305@
 3 _APID 1,1144::8088666
+2 SOUR @S233@
+3 PAGE New York State Department of Health; Albany, NY, USA; New Yo
+4 CONC rk State Birth Index
+3 OBJE @M539@
+3 _APID 1,61667::4336730
+2 SOUR @S329@
+3 PAGE "U.S., School Yearbooks, 1880-2012"; School Name: Sequoia Hi
+4 CONC gh School; Year: 1955
+3 OBJE @M537@
+3 _APID 1,1265::389389941
 2 SOUR @S215@
 3 _APID 1,60901::26364531
 2 SOUR @yAMTVEqOTiKCsMjPyXmb@
@@ -34509,14 +34573,26 @@
 3 _APID 1,3693::74469375
 1 RESI
 2 DATE 01 APR 1940
-2 PLAC Elmira, Chemung, New York, United States
+2 PLAC Elmira, Chemung, New York, USA
+3 MAP
+4 LATI N42.0898
+4 LONG W76.8077
 2 SOUR @S221@
 3 PAGE Year: 1940; Census Place: Elmira, Chemung, New York; Roll: T
 4 CONC 627_2514; Page: 8A; Enumeration District: 8-53
 3 OBJE @M306@
 3 _APID 1,2442::3043853
-2 NOTE Age: 2Marital Status: Single; Relation to Head of House: Dau
-3 CONC ghter
+2 NOTE Age: 2; Marital Status: Single; Relation to Head of House: D
+3 CONC aughter
+1 RESI
+2 DATE 1955
+2 PLAC Sequoia High School, Redwood City, San Mateo, California, US
+3 CONC A
+2 SOUR @S329@
+3 PAGE "U.S., School Yearbooks, 1880-2012"; School Name: Sequoia Hi
+4 CONC gh School; Year: 1955
+3 OBJE @M537@
+3 _APID 1,1265::389389941
 1 DEAT
 2 DATE 25 DEC 2004
 2 PLAC Belmont, San Mateo, California, USA
@@ -34529,6 +34605,7 @@
 3 PAGE Issue State: California; Issue Date: 1953
 3 _APID 1,3693::74469375
 1 _XY 1400.00 2525.00
+1 _PHOTO @M532@
 0 @I434@ INDI
 1 REFN 7a158510-24fb-47c3-9e53-6b230e4eb6a3
 1 NAME Harold William /Wood/
@@ -34594,11 +34671,20 @@
 3 PAGE Number: 074-09-2959; Issue State: New York; Issue Date: Befo
 4 CONC re 1951
 3 _APID 1,3693::68638557
+2 SOUR @S301@
+3 PAGE The National Archives at St. Louis; St. Louis, Missouri; Wor
+4 CONC ld War II Draft Cards (Fourth Registration) for the State o
+4 CONC f New York; Record Group Title: Records of the Selective Ser
+4 CONC vice System, 1926-1975; Record Group Number: 147; Box or Rol
+4 CONC l Number: 675
+3 OBJE @M538@
+3 _APID 1,1002::16983999
 1 SEX M
 1 FAMC @F388@
 1 FAMS @F354@
+1 OBJE @M536@
 1 BIRT
-2 DATE 12 DEC 1896
+2 DATE 12 DEC 1897
 2 PLAC Hubbardsville, Madison, New York, USA
 3 MAP
 4 LATI N42.8178
@@ -34658,6 +34744,14 @@
 3 PAGE Number: 074-09-2959; Issue State: New York; Issue Date: Befo
 4 CONC re 1951
 3 _APID 1,3693::68638557
+2 SOUR @S301@
+3 PAGE The National Archives at St. Louis; St. Louis, Missouri; Wor
+4 CONC ld War II Draft Cards (Fourth Registration) for the State o
+4 CONC f New York; Record Group Title: Records of the Selective Ser
+4 CONC vice System, 1926-1975; Record Group Number: 147; Box or Rol
+4 CONC l Number: 675
+3 OBJE @M538@
+3 _APID 1,1002::16983999
 1 RESI
 2 DATE 1910
 2 PLAC Hamilton, Madison, New York, USA
@@ -34749,6 +34843,20 @@
 3 _APID 1,2442::3043851
 2 NOTE Age: 43Marital Status: Married; Relation to Head of House: H
 3 CONC ead
+1 RESI
+2 DATE 1942
+2 PLAC Elmira, Chemung, New York, USA
+3 MAP
+4 LATI N42.0898
+4 LONG W76.8077
+2 SOUR @S301@
+3 PAGE The National Archives at St. Louis; St. Louis, Missouri; Wor
+4 CONC ld War II Draft Cards (Fourth Registration) for the State o
+4 CONC f New York; Record Group Title: Records of the Selective Ser
+4 CONC vice System, 1926-1975; Record Group Number: 147; Box or Rol
+4 CONC l Number: 675
+3 OBJE @M538@
+3 _APID 1,1002::16983999
 1 DEAT
 2 DATE 22 JAN 1975
 2 PLAC Redwood City, San Mateo, California, USA
@@ -34763,6 +34871,7 @@
 4 CONC re 1951
 3 _APID 1,3693::68638557
 1 _XY 1325.00 2425.00
+1 _PHOTO @M536@
 0 @I498@ INDI
 1 REFN eba23d24-374f-4ecc-8b0e-bc0ae0933279
 1 NAME Margaret /Wood/
@@ -37195,29 +37304,15 @@
 0 @F358@ FAM
 1 HUSB @I443@
 1 WIFE @I470@
-1 CHIL @I442@
-2 _FREL Natural
-2 _MREL Natural
 1 CHIL @I444@
 2 _FREL Natural
 2 _MREL Natural
 1 CHIL @I445@
 2 _FREL Natural
 2 _MREL Natural
-1 DIV
-2 DATE 1951
-2 PLAC Duval, Florida, USA
-3 MAP
-4 LATI N30.3342
-4 LONG W81.6485
-2 SOUR @S308@
-3 PAGE Doris B Mosher
-3 OBJE @M323@
-3 _APID 1,8837::1140155
-2 SOUR @S308@
-3 PAGE Sanford W Mosher
-3 OBJE @M323@
-3 _APID 1,8837::274281
+1 CHIL @I442@
+2 _FREL Natural
+2 _MREL Natural
 0 @F399@ FAM
 1 HUSB @I504@
 1 WIFE @I494@
@@ -37246,6 +37341,9 @@
 3 PAGE Source number: 23.000; Source type: Electronic Database; Num
 4 CONC ber of Pages: 1; Submitter Code: RKM; Silas Mosher
 3 _APID 1,7836::867509
+0 @F489@ FAM
+1 HUSB @I442@
+1 WIFE @I657@
 0 @F397@ FAM
 1 HUSB @I496@
 1 WIFE @I498@
@@ -39198,6 +39296,12 @@
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations Inc; Location: Provo, UT, USA; Date
 2 CONC : 2000
+0 @S335@ SOUR
+1 REPO @R9@
+1 TITL Minnesota, Birth Index, 1935-2000
+1 AUTH Minnesota Department of Health
+1 PUBL Ancestry.com Operations Inc; Location: Provo, UT, USA; Date
+2 CONC : 2004
 0 @S291@ SOUR
 1 REPO @R9@
 1 TITL Minnesota, Marriages Index, 1849-1950
@@ -40483,14 +40587,11 @@
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2010
 0 @S247@ SOUR
-1 REPO @R1@
+1 REPO @R9@
 1 TITL U.S. Public Records Index, 1950-1993, Volume 2
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2010
-1 NOTE <i>Voter Registration Lists, Public Record Filings, Historic
-2 CONC al Residential Records, and Other Household Database Listing
-2 CONC s</i>.
 0 @S299@ SOUR
 1 REPO @R9@
 1 TITL U.S. WWII Draft Cards Young Men, 1940-1947
@@ -45354,4 +45455,135 @@
 2 TITL New York State, Marriage Index, 1881-1967
 2 _TEXT New York State Department of Health; Albany, NY, USA; New Yo
 3 CONC rk State Marriage Index
+0 @M530@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher Media\St
+2 CONC uart Mosher.jpg
+2 FORM jpg
+2 TITL Stuart Mosher
+2 _TEXT "U.S., School Yearbooks, 1880-2012"; School Name: Englewoo
+3 CONC d High School; Year: 1963
+0 @M531@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher Media\No
+2 CONC rman Mosher.jpg
+2 FORM jpg
+2 TITL Norman Mosher
+2 _TEXT "U.S., School Yearbooks, 1880-2012"; School Name: Englewoo
+3 CONC d High School; Year: 1962
+0 @M532@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher Media\Do
+2 CONC lores Una Wood.jpg
+2 FORM jpg
+2 TITL Dolores Una Wood
+2 _TEXT "U.S., School Yearbooks, 1880-2012"; School Name: Sequoia Hi
+3 CONC gh School; Year: 1955
+0 @M533@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher Media\IM
+2 CONC G_1239.jpg
+2 FORM jpg
+2 TITL IMG_1239
+2 _DATE 1931
+2 _TEXT I believe this is Sanford when he was in school
+0 @M534@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher Media\Ro
+2 CONC nald Vernon Thomas.jpg
+2 FORM jpg
+2 TITL Ronald Vernon Thomas
+2 _TEXT "U.S., School Yearbooks, 1880-2012"; School Name: Sequoia Hi
+3 CONC gh School; Year: 1955
+0 @M535@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher Media\Sa
+2 CONC ndra Jean Mosher.jpg
+2 FORM jpg
+2 TITL Sandra Jean Mosher
+2 _TEXT "U.S., School Yearbooks, 1880-2012"; School Name: Landon Hig
+3 CONC h School; Year: 1960
+0 @M536@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher Media\Gr
+2 CONC andpa Woody.jpg
+2 FORM jpg
+2 TITL Grandpa Woody
+0 @M537@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher Media\U.
+2 CONC S., School Yearbooks, 1900-1999(6).jpg
+2 FORM jpg
+2 TITL U.S., School Yearbooks, 1900-1999
+2 _TEXT "U.S., School Yearbooks, 1880-2012"; School Name: Sequoia Hi
+3 CONC gh School; Year: 1955
+0 @M538@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher Media\U.
+2 CONC S., World War II Draft Registration Cards, 1942(3).jpg
+2 FORM jpg
+2 TITL U.S., World War II Draft Registration Cards, 1942
+2 _TEXT The National Archives at St. Louis; St. Louis, Missouri; Wor
+3 CONC ld War II Draft Cards (Fourth Registration) for the State o
+3 CONC f New York; Record Group Title: Records of the Selective Ser
+3 CONC vice System, 1926-1975; Record Group Number: 147; Box or Rol
+3 CONC l Number: 675
+0 @M539@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher Media\Ne
+2 CONC w York State, Birth Index, 1881-1942(5).jpg
+2 FORM jpg
+2 TITL New York State, Birth Index, 1881-1942
+2 _TEXT New York State Department of Health; Albany, NY, USA; New Yo
+3 CONC rk State Birth Index
+0 @M540@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher Media\U.
+2 CONC S., School Yearbooks, 1900-1999(7).jpg
+2 FORM jpg
+2 TITL U.S., School Yearbooks, 1900-1999
+2 _TEXT "U.S., School Yearbooks, 1880-2012"; School Name: Englewoo
+3 CONC d High School; Year: 1963
+0 @M541@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher Media\U.
+2 CONC S., School Yearbooks, 1900-1999(8).jpg
+2 FORM jpg
+2 TITL U.S., School Yearbooks, 1900-1999
+2 _TEXT "U.S., School Yearbooks, 1880-2012"; School Name: Sequoia Hi
+3 CONC gh School; Year: 1955
+0 @M542@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher Media\19
+2 CONC 40 United States Federal Census(15).jpg
+2 FORM jpg
+2 TITL 1940 United States Federal Census
+2 _TEXT Year: 1940; Census Place: Minneapolis, Hennepin, Minnesota
+3 CONC ; Roll: m-t0627-01986; Page: 5B; Enumeration District: 89-26
+3 CONC 8
+0 @M543@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher Media\Fl
+2 CONC orida, Marriage Indexes, 1822-1875 and 1927-2001.jpg
+2 FORM jpg
+2 TITL Florida, Marriage Indexes, 1822-1875 and 1927-2001
+0 @M544@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher Media\U.
+2 CONC S., School Yearbooks, 1900-1999(9).jpg
+2 FORM jpg
+2 TITL U.S., School Yearbooks, 1900-1999
+2 _TEXT "U.S., School Yearbooks, 1880-2012"; School Name: Englewoo
+3 CONC d High School; Year: 1962
+0 @M545@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher Media\Ne
+2 CONC w York State, Marriage Index, 1881-1967(13).jpg
+2 FORM jpg
+2 TITL New York State, Marriage Index, 1881-1967
+2 _TEXT New York State Department of Health; Albany, NY, USA; New Yo
+3 CONC rk State Marriage Index
+0 @M546@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher Media\U.
+2 CONC S., School Yearbooks, 1900-1999(10).jpg
+2 FORM jpg
+2 TITL U.S., School Yearbooks, 1900-1999
+2 _TEXT "U.S., School Yearbooks, 1880-2012"; School Name: Landon Hig
+3 CONC h School; Year: 1960
+0 @M547@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher Media\Ne
+2 CONC w York State, Marriage Index, 1881-1967(14).jpg
+2 FORM jpg
+2 TITL New York State, Marriage Index, 1881-1967
+2 _TEXT New York State Department of Health; Albany, NY, USA; New Yo
+3 CONC rk State Marriage Index
+0 @M548@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher Media\Fl
+2 CONC orida, Marriage Indexes, 1822-1875 and 1927-2001(1).jpg
+2 FORM jpg
+2 TITL Florida, Marriage Indexes, 1822-1875 and 1927-2001
 0 TRLR
