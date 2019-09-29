@@ -14,9 +14,9 @@
 4 CONT Boston, MA 02109
 3 PHON (617) 227-6681
 1 DEST FTM
-1 FILE Disosway_2019-09-10-00-32-19.ftm.ged
-1 DATE 10 SEP 2019
-2 TIME 00:33:14
+1 FILE Disosway_2019-09-29-21-33-08.ftm.ged
+1 DATE 29 SEP 2019
+2 TIME 21:33:49
 0 @Umy2qBWIRUiwVSS6Hcn4@ SUBM
 1 NAME Christopher Alan Mosher
 2 EMAIL cmosher01@@gmail.com
@@ -39,6 +39,10 @@
 2 PHON +1-203-513-9292
 1 LANG English
 1 RIN Umy2qBWIRUiwVSS6Hcn4
+0 @I272@ INDI
+1 NAME Richard /Bates/
+1 SEX M
+1 FAMS @F198@
 0 @WiBRtmSxTTiwCzIKBcNK@ INDI
 1 REFN 99d9a1e0-bc2b-49a3-92f1-07b8eea3fd88
 1 NAME Francoise /Billiou/
@@ -314,9 +318,13 @@
 1 REFN c2ccb6d2-4ebc-4ca2-baf6-30f1e6afddef
 1 NAME Loren Frank Stanley /Burrows/
 2 SOUR @S144@
+3 PAGE 1947
 3 OBJE @M153@
+3 _APID 1,2469::1124356895
 2 SOUR @S144@
+3 PAGE 1948
 3 OBJE @M154@
+3 _APID 1,2469::386037634
 1 SEX M
 1 FAMS @F169@
 1 BIRT
@@ -325,12 +333,14 @@
 2 DATE 1947
 2 PLAC 4016 Swiss Avenue, Dallas, Dallas, Texas, USA
 2 SOUR @S144@
+3 PAGE 1947
 3 OBJE @M153@
 3 _APID 1,2469::1124356895
 1 RESI
 2 DATE 1948
 2 PLAC 4016 Swiss Avenue, Dallas, Dallas, Texas, USA
 2 SOUR @S144@
+3 PAGE 1948
 3 OBJE @M154@
 3 _APID 1,2469::386037634
 0 @0DdMsCfHRpecsvpDzZNx@ INDI
@@ -560,6 +570,10 @@
 2 SOUR @lDuG27hSTACWHq7z54Ba@
 3 _APID 1,60525::132758521
 1 _XY 142110 1841
+0 @I275@ INDI
+1 NAME Timothy /Cooke/
+1 SEX M
+1 FAMS @F200@
 0 @a4BZfjoiQpWBhDVVxS13@ INDI
 1 REFN 17875870-bbc9-4d25-852b-a6d4532a180f
 1 NAME Elizabeth /Cortelyou/
@@ -586,7 +600,7 @@
 1 FAMS @F188@
 0 @I261@ INDI
 1 REFN 96c2b3c9-1602-4678-aa9b-2794f0f475ed
-1 NAME Malika /Cox/
+1 NAME Malika N. /Cox/
 1 SEX F
 1 FAMC @F188@
 0 @59jBY7gZReqmSwDqwDDX@ INDI
@@ -819,8 +833,10 @@
 1 REFN 937d55d8-ce51-449d-8585-a2a8ae8e5d10
 1 NAME Ira W. /Davis/
 2 SOUR @S145@
+3 PAGE Ira W Davis
 3 _APID 1,61383::469472
 2 SOUR @S146@
+3 PAGE Ira W Davis
 3 _APID 1,60183::948175
 1 SEX M
 1 FAMS @F163@
@@ -1100,9 +1116,13 @@
 3 OBJE @M147@
 3 _APID 1,2272::23060628
 2 SOUR @S144@
+3 PAGE 1947
 3 OBJE @M153@
+3 _APID 1,2469::1124356896
 2 SOUR @S144@
+3 PAGE 1948
 3 OBJE @M154@
+3 _APID 1,2469::386037635
 1 SEX F
 1 FAMC @F167@
 1 FAMS @F169@
@@ -1137,12 +1157,14 @@
 2 DATE 1947
 2 PLAC 4016 Swiss Avenue, Dallas, Dallas, Texas, USA
 2 SOUR @S144@
+3 PAGE 1947
 3 OBJE @M153@
 3 _APID 1,2469::1124356896
 1 RESI
 2 DATE 1948
 2 PLAC 4016 Swiss Avenue, Dallas, Dallas, Texas, USA
 2 SOUR @S144@
+3 PAGE 1948
 3 OBJE @M154@
 3 _APID 1,2469::386037635
 1 DEAT
@@ -1304,19 +1326,24 @@
 3 _APID 1,2442::151670121
 2 SOUR @S140@
 3 PAGE North Carolina State Archives; Raleigh, North Carolina; Nort
-4 CONC h Carolina Death Certificates
+4 CONC h Carolina Death Certificates; Mrs. Annie Disoway Summerell
 3 OBJE @M126@
 3 _APID 1,1121::1959281
 2 SOUR @S138@
 3 OBJE @M130@
 3 _APID 1,8908::3860239
 2 SOUR @S141@
+3 PAGE Ernest H. Mclacklan (entry for spouse Annie Disosway)
 3 OBJE @M129@
 3 _APID 1,60090::361793
 2 SOUR @S147@
+3 PAGE Annie C McLacklan
 3 OBJE @M128@
+3 _APID 1,60548::8126825
 2 SOUR @S147@
+3 PAGE Annie E Disosway
 3 OBJE @M134@
+3 _APID 1,60548::12923869
 2 SOUR @S144@
 3 OBJE @M127@
 3 _APID 1,2469::598021831
@@ -1359,16 +1386,20 @@
 3 _APID 1,2442::151670121
 2 SOUR @S140@
 3 PAGE North Carolina State Archives; Raleigh, North Carolina; Nort
-4 CONC h Carolina Death Certificates
+4 CONC h Carolina Death Certificates; Mrs. Annie Disoway Summerell
 3 OBJE @M126@
 3 _APID 1,1121::1959281
 2 SOUR @S138@
 3 OBJE @M130@
 3 _APID 1,8908::3860239
 2 SOUR @S147@
+3 PAGE Annie C McLacklan
 3 OBJE @M128@
+3 _APID 1,60548::8126825
 2 SOUR @S147@
+3 PAGE Annie E Disosway
 3 OBJE @M134@
+3 _APID 1,60548::12923869
 1 RESI
 2 DATE 1900
 2 PLAC New Bern, Craven, North Carolina, USA
@@ -1449,7 +1480,7 @@
 4 LONG W77.0441
 2 SOUR @S140@
 3 PAGE North Carolina State Archives; Raleigh, North Carolina; Nort
-4 CONC h Carolina Death Certificates
+4 CONC h Carolina Death Certificates; Mrs. Annie Disoway Summerell
 3 OBJE @M126@
 3 _APID 1,1121::1959281
 2 SOUR @S138@
@@ -1769,8 +1800,10 @@
 3 OBJE @M145@
 3 _APID 1,6061::22329606
 2 SOUR @S145@
+3 PAGE Elizabeth Park Disosway
 3 _APID 1,61383::900469472
 2 SOUR @S146@
+3 PAGE Elizabeth Park Disosway
 3 _APID 1,60183::948194
 1 SEX F
 1 FAMC @F167@
@@ -1980,6 +2013,8 @@
 2 SOUR @69q3fvyiQfiwmy10eHKm@
 3 QUAY 1
 2 SOUR @S140@
+3 PAGE North Carolina State Archives; Raleigh, North Carolina; Nort
+4 CONC h Carolina Death Certificates; Emma Eugenia Disosway
 3 OBJE @T1syScFlQaKO4pVtxXMc@
 3 _APID 1,1121::831611
 2 SOUR @S138@
@@ -2026,9 +2061,9 @@
 3 PAGE Year: 1920; Census Place: Columbus Ward 5, Franklin, Ohio
 3 OBJE @jrdPqeXxT0WiYy2J2cV1@
 3 _APID 1,6061::33550619
-2 SOUR @J5VIQZ2QT8av3dwSoZjh@
-3 QUAY 1
 2 SOUR @S140@
+3 PAGE North Carolina State Archives; Raleigh, North Carolina; Nort
+4 CONC h Carolina Death Certificates; Emma Eugenia Disosway
 3 OBJE @T1syScFlQaKO4pVtxXMc@
 3 _APID 1,1121::831611
 2 SOUR @S138@
@@ -2094,9 +2129,9 @@
 1 DEAT
 2 DATE 26 FEB 1954
 2 PLAC 35 Bearden Street, Asheville, Buncombe, North Carolina, USA
-2 SOUR @J5VIQZ2QT8av3dwSoZjh@
-3 QUAY 3
 2 SOUR @S140@
+3 PAGE North Carolina State Archives; Raleigh, North Carolina; Nort
+4 CONC h Carolina Death Certificates; Emma Eugenia Disosway
 3 OBJE @T1syScFlQaKO4pVtxXMc@
 3 _APID 1,1121::831611
 2 SOUR @S138@
@@ -2136,6 +2171,8 @@
 4 LATI N35.6179
 4 LONG W82.3213
 2 SOUR @S140@
+3 PAGE North Carolina State Archives; Raleigh, North Carolina; Nort
+4 CONC h Carolina Death Certificates; Emma Eugenia Disosway
 3 OBJE @T1syScFlQaKO4pVtxXMc@
 3 _APID 1,1121::831611
 1 _XY 143659 2091
@@ -2524,6 +2561,11 @@
 3 _APID 1,50000::774992
 2 SOUR @DpKPjtDSTBqxPEO4KBsj@
 3 _APID 1,9131::3384116
+2 SOUR @S169@
+3 PAGE New York City Municipal Archive; New York, New York, USA; 19
+4 CONC 24 NYC Voter List
+3 OBJE @M198@
+3 _APID 1,61536::256269
 2 SOUR @RnHpwQCwRlGqTPkQrHzm@
 3 OBJE @HPlk4aKFRhCZ7e052B0f@
 3 _APID 1,3212::2819828
@@ -3142,6 +3184,14 @@
 3 _APID 1,6061::98093530
 2 NOTE Age: 58; Marital Status: Married; Relation to Head of House
 3 CONC : Head
+1 RESI
+2 DATE 1924
+2 PLAC 981 Lafayette Avenue, Brooklyn, New York City, New York, USA
+2 SOUR @S169@
+3 PAGE New York City Municipal Archive; New York, New York, USA; 19
+4 CONC 24 NYC Voter List
+3 OBJE @M198@
+3 _APID 1,61536::256269
 1 CENS
 2 DATE 01 APR 1930
 2 PLAC 622 Jefferson Avenue, Brooklyn, Kings, New York, USA
@@ -3285,23 +3335,22 @@
 3 OBJE @smzaEWVCQR6pTLSdGFrR@
 3 _APID 1,7163::19913285
 2 SOUR @S140@
+3 PAGE North Carolina State Archives; Raleigh, North Carolina; Nort
+4 CONC h Carolina Death Certificates; Emma Eugenia Disosway
 3 OBJE @T1syScFlQaKO4pVtxXMc@
 3 _APID 1,1121::600831611
 2 SOUR @S141@
+3 PAGE Reginald J. Disosway (entry for father Israel Disosway)
 3 OBJE @0tt0KPLxS7a18sqqxe2s@
 3 _APID 1,60090::1788257
 2 SOUR @RK2jjKBxR1KOXCD0xkMw@
 3 _APID 1,4802::83113
 2 SOUR @S147@
-3 PAGE "Craven County, North Carolina, Index to Marriage Bonds, Abs
-4 CONC tracts, 1780-1865," Gooding, Susan Maria, and Disosway, Isra
-4 CONC el, p. 90
+3 PAGE 1842, Susan Gooding
 3 OBJE @M120@
 3 _APID 1,60548::8064673
 2 SOUR @S147@
-3 PAGE "Craven County, North Carolina, Index to Marriage Bonds, Abs
-4 CONC tracts, 1780-1865," Justice, Ann Maria, and Disosway, Israel
-4 CONC , p. 90
+3 PAGE 1856, Israel Disosway
 3 OBJE @opq2ElclSKK1TkOsb3R0@
 3 _APID 1,60548::64672
 2 SOUR @lDuG27hSTACWHq7z54Ba@
@@ -3551,6 +3600,7 @@
 3 OBJE @M146@
 3 _APID 1,50000::507446
 2 SOUR @kRuFRPwjRGW6pfPCjXRF@
+3 PAGE John Schenck Disosway
 3 _APID 1,60901::9280457
 2 SOUR @S154@
 3 PAGE Registration State: Georgia; Roll: 1556954; Draft Board: 7
@@ -3592,6 +3642,7 @@
 3 OBJE @M150@
 3 _APID 1,3129::30985
 2 SOUR @kRuFRPwjRGW6pfPCjXRF@
+3 PAGE John Schenck Disosway
 3 _APID 1,60901::9280457
 2 SOUR @S154@
 3 PAGE Registration State: Georgia; Roll: 1556954; Draft Board: 7
@@ -3900,6 +3951,7 @@
 2 SOUR @lDuG27hSTACWHq7z54Ba@
 3 _APID 1,60525::94080777
 2 SOUR @kRuFRPwjRGW6pfPCjXRF@
+3 PAGE John Schenck Disosway (entry for father John J Disosway)
 3 _APID 1,60901::609280457
 2 SOUR @66FLWeWiQUGE4LioOMuq@
 3 _APID 1,70634::915924
@@ -4107,7 +4159,7 @@
 3 _APID 1,7545::143834614
 2 SOUR @S136@
 3 PAGE Virginia Department of Health; Richmond, Virginia; Virgini
-4 CONC a Marriages, 1936-2014; Roll: 101168928
+4 CONC a Marriages, 1936-2014; Roll: 101168928; John J Disosway
 3 OBJE @M139@
 3 _APID 1,9279::11624399
 1 SEX M
@@ -4128,7 +4180,7 @@
 3 _APID 1,8908::6760857
 2 SOUR @S136@
 3 PAGE Virginia Department of Health; Richmond, Virginia; Virgini
-4 CONC a Marriages, 1936-2014; Roll: 101168928
+4 CONC a Marriages, 1936-2014; Roll: 101168928; John J Disosway
 3 OBJE @M139@
 3 _APID 1,9279::11624399
 1 RESI
@@ -4350,7 +4402,7 @@
 3 _APID 1,7488::2012759497
 2 SOUR @S140@
 3 PAGE North Carolina State Archives; Raleigh, North Carolina; Nort
-4 CONC h Carolina Death Certificates
+4 CONC h Carolina Death Certificates; Lula Marjorie Disosway
 3 OBJE @M143@
 3 _APID 1,1121::1984351
 2 SOUR @S152@
@@ -4389,7 +4441,7 @@
 3 _APID 1,7488::2012759497
 2 SOUR @S140@
 3 PAGE North Carolina State Archives; Raleigh, North Carolina; Nort
-4 CONC h Carolina Death Certificates
+4 CONC h Carolina Death Certificates; Lula Marjorie Disosway
 3 OBJE @M143@
 3 _APID 1,1121::1984351
 2 SOUR @S152@
@@ -4467,7 +4519,7 @@
 4 LONG W77.0441
 2 SOUR @S140@
 3 PAGE North Carolina State Archives; Raleigh, North Carolina; Nort
-4 CONC h Carolina Death Certificates
+4 CONC h Carolina Death Certificates; Lula Marjorie Disosway
 3 OBJE @M143@
 3 _APID 1,1121::1984351
 2 SOUR @S152@
@@ -4630,6 +4682,7 @@
 3 OBJE @PJCvrPJXSnibnDHlkRZ6@
 3 _APID 1,2442::159368132
 2 SOUR @S147@
+3 PAGE 1912, Margaret Disosway
 3 OBJE @0F99mvz6RRG491XvETJM@
 3 _APID 1,60548::8193451
 2 SOUR @pUePxyvvQoCugQo8OTOF@
@@ -4637,7 +4690,12 @@
 2 SOUR @lDuG27hSTACWHq7z54Ba@
 3 _APID 1,60525::32364222
 2 SOUR @kRuFRPwjRGW6pfPCjXRF@
+3 PAGE James Fuller McKinley Jr (entry for mother Margaret Disosway
+4 CONC )
+3 _APID 1,60901::799179990
 2 SOUR @kRuFRPwjRGW6pfPCjXRF@
+3 PAGE Margaret McKinley Oakes (entry for mother Margaret Disoswax)
+3 _APID 1,60901::779979879
 2 SOUR @hbWNuFKLSJGED9AQ2SKp@
 3 PAGE Number: 579-60-4534; Issue State: District of Columbia; Issu
 4 CONC e Date: 1962
@@ -4675,6 +4733,7 @@
 3 OBJE @PJCvrPJXSnibnDHlkRZ6@
 3 _APID 1,2442::159368132
 2 SOUR @S147@
+3 PAGE 1912, Margaret Disosway
 3 OBJE @0F99mvz6RRG491XvETJM@
 3 _APID 1,60548::8193451
 2 SOUR @pUePxyvvQoCugQo8OTOF@
@@ -5069,15 +5128,19 @@
 3 OBJE @lXoAvdpfRuu3JhT4cVXv@
 3 _APID 1,7884::20423556
 2 SOUR @S140@
+3 PAGE North Carolina State Archives; Raleigh, North Carolina; Nort
+4 CONC h Carolina Death Certificates; Mark Disosway
 3 OBJE @aUKJ9LjPRvyYXKeec6kh@
 3 _APID 1,1121::1219093
 2 SOUR @S138@
 3 OBJE @ka4HPDgcSVe9nKTB2uU4@
 3 _APID 1,8908::4032672
 2 SOUR @S141@
+3 PAGE Josephine S. Disosway (entry for spouse Mark Disosway)
 3 OBJE @zY0DA6nFTQiW8w32WBlk@
 3 _APID 1,60090::1260271
 2 SOUR @S147@
+3 PAGE 1880, Mark Disosway
 3 OBJE @spY1sTOfTteZ6HNmROS8@
 3 _APID 1,60548::103654
 2 SOUR @lDuG27hSTACWHq7z54Ba@
@@ -5119,12 +5182,13 @@
 4 CONC ; FHL microfilm: 1375117
 3 OBJE @lXoAvdpfRuu3JhT4cVXv@
 3 _APID 1,7884::20423556
-2 SOUR @J5VIQZ2QT8av3dwSoZjh@
-3 QUAY 1
 2 SOUR @S140@
+3 PAGE North Carolina State Archives; Raleigh, North Carolina; Nort
+4 CONC h Carolina Death Certificates; Mark Disosway
 3 OBJE @aUKJ9LjPRvyYXKeec6kh@
 3 _APID 1,1121::1219093
 2 SOUR @S147@
+3 PAGE 1880, Mark Disosway
 3 OBJE @spY1sTOfTteZ6HNmROS8@
 3 _APID 1,60548::103654
 2 SOUR @lDuG27hSTACWHq7z54Ba@
@@ -5188,9 +5252,9 @@
 1 DEAT
 2 DATE 24 DEC 1936
 2 PLAC 60 Johnson Street, New Bern, Craven, North Carolina, USA
-2 SOUR @J5VIQZ2QT8av3dwSoZjh@
-3 QUAY 3
 2 SOUR @S140@
+3 PAGE North Carolina State Archives; Raleigh, North Carolina; Nort
+4 CONC h Carolina Death Certificates; Mark Disosway
 3 OBJE @aUKJ9LjPRvyYXKeec6kh@
 3 _APID 1,1121::1219093
 2 SOUR @S138@
@@ -5212,10 +5276,13 @@
 1 REFN 4af849fe-2f39-4d0e-ad12-6c491441445b
 1 NAME Mary Elizabeth /Disosway/
 2 SOUR @S140@
-3 PAGE North Carolina, Death Certificates, 1909-1976 Record
+3 PAGE North Carolina State Archives; Raleigh, North Carolina; Nort
+4 CONC h Carolina Death Certificates; Infant of Mr Mrs W J Disoswa
+4 CONC y Disosway
 3 OBJE @M156@
 3 _APID 1,1121::1383363
 2 SOUR @S141@
+3 PAGE Disosway
 3 OBJE @M142@
 3 _APID 1,60090::1668877
 1 SEX F
@@ -5229,10 +5296,13 @@
 4 LATI N35.1085
 4 LONG W77.0441
 2 SOUR @S140@
-3 PAGE North Carolina, Death Certificates, 1909-1976 Record
+3 PAGE North Carolina State Archives; Raleigh, North Carolina; Nort
+4 CONC h Carolina Death Certificates; Infant of Mr Mrs W J Disoswa
+4 CONC y Disosway
 3 OBJE @M156@
 3 _APID 1,1121::1383363
 2 SOUR @S141@
+3 PAGE Disosway
 3 OBJE @M142@
 3 _APID 1,60090::1668877
 1 DEAT
@@ -5242,15 +5312,19 @@
 4 LATI N35.1085
 4 LONG W77.0441
 2 SOUR @S140@
-3 PAGE North Carolina, Death Certificates, 1909-1976 Record
+3 PAGE North Carolina State Archives; Raleigh, North Carolina; Nort
+4 CONC h Carolina Death Certificates; Infant of Mr Mrs W J Disoswa
+4 CONC y Disosway
 3 OBJE @M156@
 3 _APID 1,1121::1383363
 2 SOUR @S141@
+3 PAGE Disosway
 3 OBJE @M142@
 3 _APID 1,60090::1668877
 1 BURI
 2 DATE 26 JUL 1914
 2 SOUR @S141@
+3 PAGE Disosway
 3 OBJE @M142@
 3 _APID 1,60090::1668877
 0 @BvZA7PniSG23Lbf2kwvZ@ INDI
@@ -5299,7 +5373,7 @@
 2 SOUR @S153@
 3 PAGE Year: 1900; Census Place: Newbern, Craven, North Carolina; R
 4 CONC oll: 1190; Page: 8B; Enumeration District: 0054; FHL microfi
-4 CONC lm: 1241190
+4 CONC lm: 1241190; Justice R Lisosway/Justice A Disosway
 3 OBJE @ByaZklidT4OcSykT2RPt@
 3 _APID 1,7602::50199119
 2 SOUR @S142@
@@ -5316,23 +5390,30 @@
 2 SOUR @69q3fvyiQfiwmy10eHKm@
 3 QUAY 1
 2 SOUR @S140@
-3 OBJE @eEzgBcO3Szes22xome7I@
-2 SOUR @S140@
 3 PAGE North Carolina State Archives; Raleigh, North Carolina; Nort
-4 CONC h Carolina Death Certificates
-3 OBJE @M126@
-2 SOUR @S140@
-3 PAGE North Carolina State Archives; Raleigh, North Carolina; Nort
-4 CONC h Carolina Death Certificates
-3 OBJE @M133@
-2 SOUR @S140@
-3 PAGE North Carolina State Archives; Raleigh, North Carolina; Nort
-4 CONC h Carolina Death Certificates
+4 CONC h Carolina Death Certificates; Lula Marjorie Disosway
 3 OBJE @M143@
+3 _APID 1,1121::601984351
+2 SOUR @S140@
+3 PAGE North Carolina State Archives; Raleigh, North Carolina; Nort
+4 CONC h Carolina Death Certificates; Mrs. Annie Disoway Summerell
+3 OBJE @M126@
+3 _APID 1,1121::601959281
+2 SOUR @S140@
+3 PAGE North Carolina State Archives; Raleigh, North Carolina; Nort
+4 CONC h Carolina Death Certificates; Reginold J Disosway
+3 OBJE @eEzgBcO3Szes22xome7I@
+3 _APID 1,1121::263868
+2 SOUR @S140@
+3 PAGE North Carolina State Archives; Raleigh, North Carolina; Nort
+4 CONC h Carolina Death Certificates; William Justice Disosway
+3 OBJE @M133@
+3 _APID 1,1121::600651937
 2 SOUR @S138@
 3 OBJE @tDzOkysvQlqRKZgu8aje@
 3 _APID 1,8908::4364126
 2 SOUR @S141@
+3 PAGE Reginald J. Disosway
 3 OBJE @0tt0KPLxS7a18sqqxe2s@
 3 _APID 1,60090::1788256
 2 SOUR @S144@
@@ -5373,7 +5454,7 @@
 2 SOUR @S153@
 3 PAGE Year: 1900; Census Place: Newbern, Craven, North Carolina; R
 4 CONC oll: 1190; Page: 8B; Enumeration District: 0054; FHL microfi
-4 CONC lm: 1241190
+4 CONC lm: 1241190; Justice R Lisosway/Justice A Disosway
 3 OBJE @ByaZklidT4OcSykT2RPt@
 3 _APID 1,7602::50199119
 2 SOUR @S142@
@@ -5387,15 +5468,16 @@
 4 CONC olina
 3 OBJE @wfNi9mC2RtmDOiBGEtzJ@
 3 _APID 1,6061::10757097
-2 SOUR @J5VIQZ2QT8av3dwSoZjh@
-3 QUAY 1
 2 SOUR @S140@
+3 PAGE North Carolina State Archives; Raleigh, North Carolina; Nort
+4 CONC h Carolina Death Certificates; Reginold J Disosway
 3 OBJE @eEzgBcO3Szes22xome7I@
 3 _APID 1,1121::263868
 2 SOUR @S138@
 3 OBJE @tDzOkysvQlqRKZgu8aje@
 3 _APID 1,8908::4364126
 2 SOUR @S141@
+3 PAGE Reginald J. Disosway
 3 OBJE @0tt0KPLxS7a18sqqxe2s@
 3 _APID 1,60090::1788256
 2 SOUR @lDuG27hSTACWHq7z54Ba@
@@ -5458,7 +5540,7 @@
 2 SOUR @S153@
 3 PAGE Year: 1900; Census Place: Newbern, Craven, North Carolina; R
 4 CONC oll: 1190; Page: 8B; Enumeration District: 0054; FHL microfi
-4 CONC lm: 1241190
+4 CONC lm: 1241190; Justice R Lisosway/Justice A Disosway
 3 OBJE @ByaZklidT4OcSykT2RPt@
 3 _APID 1,7602::50199119
 2 NOTE Age: 42; Marital Status: Married; Relation to Head of House
@@ -5496,15 +5578,16 @@
 1 DEAT
 2 DATE 14 SEP 1922
 2 PLAC Saint Luke's Hospital, New Bern, Craven, North Carolina, USA
-2 SOUR @J5VIQZ2QT8av3dwSoZjh@
-3 QUAY 3
 2 SOUR @S140@
+3 PAGE North Carolina State Archives; Raleigh, North Carolina; Nort
+4 CONC h Carolina Death Certificates; Reginold J Disosway
 3 OBJE @eEzgBcO3Szes22xome7I@
 3 _APID 1,1121::263868
 2 SOUR @S138@
 3 OBJE @tDzOkysvQlqRKZgu8aje@
 3 _APID 1,8908::4364126
 2 SOUR @S141@
+3 PAGE Reginald J. Disosway
 3 OBJE @0tt0KPLxS7a18sqqxe2s@
 3 _APID 1,60090::1788256
 2 SOUR @lDuG27hSTACWHq7z54Ba@
@@ -5628,6 +5711,7 @@
 1 REFN 1284bc96-86cd-43cf-9dbc-a6a7ad38bb0a
 1 NAME William Ernest /Disosway/
 2 SOUR @S141@
+3 PAGE Willian Ernest Disesway
 3 OBJE @M138@
 3 _APID 1,60090::1868745
 1 SEX M
@@ -5639,6 +5723,7 @@
 4 LATI N35.1085
 4 LONG W77.0441
 2 SOUR @S141@
+3 PAGE Willian Ernest Disesway
 3 OBJE @M138@
 3 _APID 1,60090::1868745
 1 DEAT
@@ -5648,11 +5733,13 @@
 4 LATI N35.1085
 4 LONG W77.0441
 2 SOUR @S141@
+3 PAGE Willian Ernest Disesway
 3 OBJE @M138@
 3 _APID 1,60090::1868745
 1 BURI
 2 DATE 23 DEC 1920
 2 SOUR @S141@
+3 PAGE Willian Ernest Disesway
 3 OBJE @M138@
 3 _APID 1,60090::1868745
 0 @IWEx4EKmSeKPQ79pUxZq@ INDI
@@ -5816,17 +5903,25 @@
 3 _APID 1,6061::10757103
 2 SOUR @S140@
 3 PAGE North Carolina State Archives; Raleigh, North Carolina; Nort
-4 CONC h Carolina Death Certificates
+4 CONC h Carolina Death Certificates; William Justice Disosway
 3 OBJE @M133@
 3 _APID 1,1121::651937
 2 SOUR @S141@
-3 OBJE @M138@
-2 SOUR @S141@
+3 PAGE Disosway (entry for father William J. Disosway)
 3 OBJE @M142@
+3 _APID 1,60090::1668878
+2 SOUR @S141@
+3 PAGE Willian Ernest Disesway (entry for father Wm. J. Disesway)
+3 OBJE @M138@
+3 _APID 1,60090::1868747
 2 SOUR @S147@
+3 PAGE 1913, William J Disosway
 3 OBJE @M137@
+3 _APID 1,60548::4924820
 2 SOUR @S147@
+3 PAGE 1925, Wm J Disosway
 3 OBJE @M197@
+3 _APID 1,60548::87125
 2 SOUR @S154@
 3 PAGE Registration State: North Carolina; Registration County: Cra
 4 CONC ven; Roll: 1765633
@@ -5834,7 +5929,8 @@
 3 _APID 1,6482::15744454
 2 SOUR @S136@
 3 PAGE Virginia Department of Health; Richmond, Virginia; Virgini
-4 CONC a Marriages, 1936-2014; Roll: 101168928
+4 CONC a Marriages, 1936-2014; Roll: 101168928; John J Disosway (en
+4 CONC try for father William J Disosway)
 3 OBJE @M139@
 3 _APID 1,9279::116624399
 1 SEX M
@@ -5865,13 +5961,15 @@
 3 _APID 1,6061::10757103
 2 SOUR @S140@
 3 PAGE North Carolina State Archives; Raleigh, North Carolina; Nort
-4 CONC h Carolina Death Certificates
+4 CONC h Carolina Death Certificates; William Justice Disosway
 3 OBJE @M133@
 3 _APID 1,1121::651937
 2 SOUR @S141@
+3 PAGE Willian Ernest Disesway (entry for father Wm. J. Disesway)
 3 OBJE @M138@
 3 _APID 1,60090::1868747
 2 SOUR @S147@
+3 PAGE 1913, William J Disosway
 3 OBJE @M137@
 3 _APID 1,60548::4924820
 2 SOUR @S154@
@@ -5930,7 +6028,7 @@
 4 LONG W77.0441
 2 SOUR @S140@
 3 PAGE North Carolina State Archives; Raleigh, North Carolina; Nort
-4 CONC h Carolina Death Certificates
+4 CONC h Carolina Death Certificates; William Justice Disosway
 3 OBJE @M133@
 3 _APID 1,1121::651937
 0 @I243@ INDI
@@ -5941,6 +6039,7 @@
 2 SOUR @lDuG27hSTACWHq7z54Ba@
 3 _APID 1,60525::109431284
 2 SOUR @kRuFRPwjRGW6pfPCjXRF@
+3 PAGE Carol Virginia Dunn
 3 _APID 1,60901::28693457
 1 SEX F
 1 FAMS @F185@
@@ -5955,6 +6054,7 @@
 2 SOUR @lDuG27hSTACWHq7z54Ba@
 3 _APID 1,60525::109431284
 2 SOUR @kRuFRPwjRGW6pfPCjXRF@
+3 PAGE Carol Virginia Dunn
 3 _APID 1,60901::28693457
 1 DEAT
 2 DATE 26 FEB 1996
@@ -5967,6 +6067,7 @@
 2 SOUR @lDuG27hSTACWHq7z54Ba@
 3 _APID 1,60525::109431284
 2 SOUR @kRuFRPwjRGW6pfPCjXRF@
+3 PAGE Carol Virginia Dunn
 3 _APID 1,60901::28693457
 1 RESI
 2 DATE 1996
@@ -6010,10 +6111,23 @@
 0 @9jmMKQ4kRliQfouKgWAX@ INDI
 1 REFN 9bbe1eba-7c5f-4bbf-9e7b-6642722bc24b
 1 NAME Lola Potter /Flandreau/
+2 SOUR @S169@
+3 PAGE New York City Municipal Archive; New York, New York, USA; 19
+4 CONC 24 NYC Voter List
+3 OBJE @M198@
+3 _APID 1,61536::256266
 1 SEX F
 1 FAMS @wgqzNudqQiahTIVJVBRt@
 1 BIRT
 2 DATE 21 FEB 1866
+1 RESI
+2 DATE 1924
+2 PLAC 981 Lafayette Avenue, Brooklyn, New York City, New York, USA
+2 SOUR @S169@
+3 PAGE New York City Municipal Archive; New York, New York, USA; 19
+4 CONC 24 NYC Voter List
+3 OBJE @M198@
+3 _APID 1,61536::256266
 1 DEAT
 2 DATE 17 JAN 1933
 1 _XY 143376 2156
@@ -6067,6 +6181,7 @@
 1 REFN affdf7bc-47b2-4025-ab20-d9597c53482d
 1 NAME Antoinette /Fullilove/
 2 SOUR @S147@
+3 PAGE 1925, Antonette A Fullilove
 3 OBJE @M197@
 3 _APID 1,60548::8087125
 1 SEX F
@@ -6094,9 +6209,7 @@
 2 SOUR @rbh2qas5SDCP8xlqctCo@
 3 QUAY 1
 2 SOUR @S147@
-3 PAGE "Craven County, North Carolina, Index to Marriage Bonds, Abs
-4 CONC tracts, 1780-1865," Gooding, Susan Maria, and Disosway, Isra
-4 CONC el, p. 90
+3 PAGE 1842, Susan Gooding
 3 OBJE @M120@
 3 _APID 1,60548::8064673
 2 SOUR @lDuG27hSTACWHq7z54Ba@
@@ -6214,7 +6327,7 @@
 1 NAME Clyde Eugene /Griffin/
 2 SOUR @S136@
 3 PAGE Virginia Department of Health; Richmond, Virginia; Virgini
-4 CONC a Marriages, 1936-2014
+4 CONC a Marriages, 1936-2014; Clyde Eugene Griffin
 3 OBJE @M168@
 3 _APID 1,9279::15695426
 1 SEX M
@@ -6229,7 +6342,8 @@
 3 _APID 1,7545::13745148
 2 SOUR @S136@
 3 PAGE Virginia Department of Health; Richmond, Virginia; Virgini
-4 CONC a Marriages, 1936-2014; Roll: 101168928
+4 CONC a Marriages, 1936-2014; Roll: 101168928; Elizabeth Hortens
+4 CONC e Harrell
 3 OBJE @M139@
 3 _APID 1,9279::28053810
 1 SEX F
@@ -6247,7 +6361,8 @@
 3 _APID 1,7545::13745148
 2 SOUR @S136@
 3 PAGE Virginia Department of Health; Richmond, Virginia; Virgini
-4 CONC a Marriages, 1936-2014; Roll: 101168928
+4 CONC a Marriages, 1936-2014; Roll: 101168928; Elizabeth Hortens
+4 CONC e Harrell
 3 OBJE @M139@
 3 _APID 1,9279::28053810
 1 DEAT
@@ -6493,15 +6608,19 @@
 3 OBJE @lXoAvdpfRuu3JhT4cVXv@
 3 _APID 1,7884::178658209
 2 SOUR @S140@
+3 PAGE North Carolina State Archives; Raleigh, North Carolina; Nort
+4 CONC h Carolina Death Certificates; Mrs. Josephine S Disosway
 3 OBJE @1uADF7OLRhKnDKmZIR1Q@
 3 _APID 1,1121::2208544
 2 SOUR @S138@
 3 OBJE @8aaO4ooCSdil3p8SvdJc@
 3 _APID 1,8908::5586569
 2 SOUR @S141@
+3 PAGE Josephine S. Disosway
 3 OBJE @zY0DA6nFTQiW8w32WBlk@
 3 _APID 1,60090::1260270
 2 SOUR @S147@
+3 PAGE 1880, Josephine L Hudson
 3 OBJE @spY1sTOfTteZ6HNmROS8@
 3 _APID 1,60548::8103654
 2 SOUR @6g2OG0HXRBibBsJqwZ0p@
@@ -6535,15 +6654,19 @@
 3 OBJE @lXoAvdpfRuu3JhT4cVXv@
 3 _APID 1,7884::178658209
 2 SOUR @S140@
+3 PAGE North Carolina State Archives; Raleigh, North Carolina; Nort
+4 CONC h Carolina Death Certificates; Mrs. Josephine S Disosway
 3 OBJE @1uADF7OLRhKnDKmZIR1Q@
 3 _APID 1,1121::2208544
 2 SOUR @S138@
 3 OBJE @8aaO4ooCSdil3p8SvdJc@
 3 _APID 1,8908::5586569
 2 SOUR @S141@
+3 PAGE Josephine S. Disosway
 3 OBJE @zY0DA6nFTQiW8w32WBlk@
 3 _APID 1,60090::1260270
 2 SOUR @S147@
+3 PAGE 1880, Josephine L Hudson
 3 OBJE @spY1sTOfTteZ6HNmROS8@
 3 _APID 1,60548::8103654
 2 SOUR @lDuG27hSTACWHq7z54Ba@
@@ -6606,12 +6729,15 @@
 4 LATI N35.1085
 4 LONG W77.0441
 2 SOUR @S140@
+3 PAGE North Carolina State Archives; Raleigh, North Carolina; Nort
+4 CONC h Carolina Death Certificates; Mrs. Josephine S Disosway
 3 OBJE @1uADF7OLRhKnDKmZIR1Q@
 3 _APID 1,1121::2208544
 2 SOUR @S138@
 3 OBJE @8aaO4ooCSdil3p8SvdJc@
 3 _APID 1,8908::5586569
 2 SOUR @S141@
+3 PAGE Josephine S. Disosway
 3 OBJE @zY0DA6nFTQiW8w32WBlk@
 3 _APID 1,60090::1260270
 2 SOUR @6g2OG0HXRBibBsJqwZ0p@
@@ -6726,6 +6852,7 @@
 3 OBJE @M181@
 3 _APID 1,2442::89941238
 2 SOUR @S167@
+3 PAGE Mervyn M Magee
 3 OBJE @M185@
 3 _APID 1,8837::637923
 2 SOUR @S144@
@@ -6843,6 +6970,7 @@
 2 SOUR @lDuG27hSTACWHq7z54Ba@
 3 _APID 1,60525::110556420
 2 SOUR @kRuFRPwjRGW6pfPCjXRF@
+3 PAGE Anne Brandreth McAlpin
 3 _APID 1,60901::47178460
 1 SEX F
 1 FAMS @F183@
@@ -6864,6 +6992,7 @@
 2 SOUR @lDuG27hSTACWHq7z54Ba@
 3 _APID 1,60525::110556420
 2 SOUR @kRuFRPwjRGW6pfPCjXRF@
+3 PAGE Anne Brandreth McAlpin
 3 _APID 1,60901::47178460
 1 RESI
 2 DATE 1935
@@ -6920,6 +7049,7 @@
 2 SOUR @lDuG27hSTACWHq7z54Ba@
 3 _APID 1,60525::110556420
 2 SOUR @kRuFRPwjRGW6pfPCjXRF@
+3 PAGE Anne Brandreth McAlpin
 3 _APID 1,60901::47178460
 1 BURI
 2 PLAC West Point, Orange, New York, USA
@@ -7332,6 +7462,11 @@
 3 OBJE @M176@
 3 _APID 1,6742::15992482
 2 NOTE Marital Status: Single; Relation to Head: Daughter
+0 @I268@ INDI
+1 NAME James /McKinley/
+1 SEX M
+1 FAMC @F193@
+1 FAMS @F197@
 0 @1w72t19TTWmGyImbgSZ7@ INDI
 1 REFN 428da08b-43d3-4b56-a9e4-caf3cf2e2f3d
 1 NAME James Fuller /McKinley/
@@ -7371,15 +7506,21 @@
 3 OBJE @PJCvrPJXSnibnDHlkRZ6@
 3 _APID 1,2442::159368129
 2 SOUR @S147@
+3 PAGE 1912, James Fuller McKinley
 3 OBJE @0F99mvz6RRG491XvETJM@
 3 _APID 1,60548::193451
 2 SOUR @S143@
+3 PAGE Texas Department of State Health Services; Austin Texas, USA
 3 OBJE @CHkpK30fR9eciK2I7FiA@
 3 _APID 1,2272::23830456
 2 SOUR @lDuG27hSTACWHq7z54Ba@
 3 _APID 1,60525::857603
 2 SOUR @kRuFRPwjRGW6pfPCjXRF@
+3 PAGE James Fuller McKinley Jr (entry for father James F McKinley)
+3 _APID 1,60901::649179990
 2 SOUR @kRuFRPwjRGW6pfPCjXRF@
+3 PAGE Margaret McKinley Oakes (entry for father James F McKinley)
+3 _APID 1,60901::629979879
 1 SEX M
 1 FAMC @rtYnuBRORFGCm5SYEtxl@
 1 FAMS @O0Srw7TSQUCTnV4qLbkh@
@@ -7428,9 +7569,11 @@
 3 OBJE @PJCvrPJXSnibnDHlkRZ6@
 3 _APID 1,2442::159368129
 2 SOUR @S147@
+3 PAGE 1912, James Fuller McKinley
 3 OBJE @0F99mvz6RRG491XvETJM@
 3 _APID 1,60548::193451
 2 SOUR @S143@
+3 PAGE Texas Department of State Health Services; Austin Texas, USA
 3 OBJE @CHkpK30fR9eciK2I7FiA@
 3 _APID 1,2272::23830456
 2 SOUR @lDuG27hSTACWHq7z54Ba@
@@ -7527,6 +7670,7 @@
 4 LATI N29.475
 4 LONG W98.4509
 2 SOUR @S143@
+3 PAGE Texas Department of State Health Services; Austin Texas, USA
 3 OBJE @CHkpK30fR9eciK2I7FiA@
 3 _APID 1,2272::23830456
 2 SOUR @lDuG27hSTACWHq7z54Ba@
@@ -7570,6 +7714,7 @@
 2 SOUR @lDuG27hSTACWHq7z54Ba@
 3 _APID 1,60525::24759801
 2 SOUR @kRuFRPwjRGW6pfPCjXRF@
+3 PAGE James Fuller McKinley Jr
 3 _APID 1,60901::49179990
 1 SEX M
 1 FAMC @O0Srw7TSQUCTnV4qLbkh@
@@ -7600,6 +7745,7 @@
 2 SOUR @lDuG27hSTACWHq7z54Ba@
 3 _APID 1,60525::24759801
 2 SOUR @kRuFRPwjRGW6pfPCjXRF@
+3 PAGE James Fuller McKinley Jr
 3 _APID 1,60901::49179990
 1 RESI
 2 DATE 1920
@@ -7660,6 +7806,12 @@
 4 CONC 009; Record Group
 3 OBJE @M190@
 3 _APID 1,7949::10630659
+1 RESI
+2 DATE 1961
+2 PLAC San Antonio, Bexar, Texas, USA
+3 MAP
+4 LATI N29.4241
+4 LONG W98.4936
 1 DEAT
 2 DATE 01 SEP 2001
 2 PLAC Scottsdale, Maricopa County, Arizona, United States of Ameri
@@ -7667,6 +7819,7 @@
 2 SOUR @lDuG27hSTACWHq7z54Ba@
 3 _APID 1,60525::24759801
 2 SOUR @kRuFRPwjRGW6pfPCjXRF@
+3 PAGE James Fuller McKinley Jr
 3 _APID 1,60901::49179990
 1 BURI
 2 PLAC San Antonio, Bexar, Texas, USA
@@ -7763,6 +7916,11 @@
 2 SOUR @lDuG27hSTACWHq7z54Ba@
 3 _APID 1,60525::7512224
 1 _XY 144470 2229
+0 @I271@ INDI
+1 NAME Leslie Missy H. /McKinley/
+1 SEX F
+1 FAMC @F193@
+1 FAMS @F198@
 0 @I265@ INDI
 1 REFN cf18da67-b054-43ed-9c03-dbbf78b1cb39
 1 NAME Margaret Disosway /McKinley/
@@ -7786,10 +7944,12 @@
 2 SOUR @lDuG27hSTACWHq7z54Ba@
 3 _APID 1,60525::3730077
 2 SOUR @kRuFRPwjRGW6pfPCjXRF@
+3 PAGE Margaret McKinley Oakes
 3 _APID 1,60901::29979879
 2 SOUR @S136@
 3 PAGE Virginia Department of Health; Richmond, Virginia; Virgini
-4 CONC a Marriages, 1936-2014; Roll: 101172970
+4 CONC a Marriages, 1936-2014; Roll: 101172970; James Mckinley Oake
+4 CONC s (entry for mother Margaret McKinley)
 3 OBJE @M172@
 3 _APID 1,9279::132152834
 1 SEX F
@@ -7821,6 +7981,7 @@
 2 SOUR @lDuG27hSTACWHq7z54Ba@
 3 _APID 1,60525::3730077
 2 SOUR @kRuFRPwjRGW6pfPCjXRF@
+3 PAGE Margaret McKinley Oakes
 3 _APID 1,60901::29979879
 1 RESI
 2 DATE 1920
@@ -7864,12 +8025,28 @@
 2 SOUR @lDuG27hSTACWHq7z54Ba@
 3 _APID 1,60525::3730077
 2 SOUR @kRuFRPwjRGW6pfPCjXRF@
+3 PAGE Margaret McKinley Oakes
 3 _APID 1,60901::29979879
 1 BURI
 2 PLAC Arlington National Cemetery, Arlington, Arlington, Virginia
 3 CONC , USA
 2 SOUR @lDuG27hSTACWHq7z54Ba@
 3 _APID 1,60525::3730077
+0 @I274@ INDI
+1 NAME Marney /McKinley/
+1 SEX F
+1 FAMC @F193@
+1 FAMS @F200@
+0 @I273@ INDI
+1 NAME Ross /McKinley/
+1 SEX M
+1 FAMC @F193@
+1 FAMS @F199@
+0 @I266@ INDI
+1 NAME Virginia /McKinley/
+1 SEX F
+1 FAMC @F193@
+1 FAMS @F196@
 0 @f0n53UJNS3iglyy9SSiq@ INDI
 1 REFN d89091da-daa5-4200-a0bd-383e409f51f9
 1 NAME William /McKinley/
@@ -8030,9 +8207,11 @@
 3 OBJE @M136@
 3 _APID 1,7884::26158281
 2 SOUR @S141@
+3 PAGE Ernest H. Mclacklan
 3 OBJE @M129@
 3 _APID 1,60090::361792
 2 SOUR @S147@
+3 PAGE E H Mc Lackland
 3 OBJE @M134@
 3 _APID 1,60548::4923869
 1 SEX M
@@ -8050,9 +8229,11 @@
 3 OBJE @M136@
 3 _APID 1,7884::26158281
 2 SOUR @S141@
+3 PAGE Ernest H. Mclacklan
 3 OBJE @M129@
 3 _APID 1,60090::361792
 2 SOUR @S147@
+3 PAGE E H Mc Lackland
 3 OBJE @M134@
 3 _APID 1,60548::4923869
 1 RESI
@@ -8075,11 +8256,13 @@
 4 LATI N35.1085
 4 LONG W77.0441
 2 SOUR @S141@
+3 PAGE Ernest H. Mclacklan
 3 OBJE @M129@
 3 _APID 1,60090::361792
 1 BURI
 2 DATE 26 OCT 1918
 2 SOUR @S141@
+3 PAGE Ernest H. Mclacklan
 3 OBJE @M129@
 3 _APID 1,60090::361792
 0 @I220@ INDI
@@ -8231,7 +8414,7 @@
 1 NAME Richard Hackman /Mohn/
 2 SOUR @S140@
 3 PAGE North Carolina State Archives; Raleigh, North Carolina; Nort
-4 CONC h Carolina Death Certificates
+4 CONC h Carolina Death Certificates; Richard Hackman Mohn
 3 OBJE @M149@
 3 _APID 1,1121::2306917
 1 SEX M
@@ -8244,7 +8427,7 @@
 4 LONG W79.125
 2 SOUR @S140@
 3 PAGE North Carolina State Archives; Raleigh, North Carolina; Nort
-4 CONC h Carolina Death Certificates
+4 CONC h Carolina Death Certificates; Richard Hackman Mohn
 3 OBJE @M149@
 3 _APID 1,1121::2306917
 1 DEAT
@@ -8255,7 +8438,7 @@
 4 LONG W77.0441
 2 SOUR @S140@
 3 PAGE North Carolina State Archives; Raleigh, North Carolina; Nort
-4 CONC h Carolina Death Certificates
+4 CONC h Carolina Death Certificates; Richard Hackman Mohn
 3 OBJE @M149@
 3 _APID 1,1121::2306917
 0 @DrGf0Rt8SZutBcb5fAwW@ INDI
@@ -8317,7 +8500,8 @@
 3 _APID 1,60525::3730076
 2 SOUR @S136@
 3 PAGE Virginia Department of Health; Richmond, Virginia; Virgini
-4 CONC a Marriages, 1936-2014; Roll: 101172970
+4 CONC a Marriages, 1936-2014; Roll: 101172970; James Mckinley Oake
+4 CONC s (entry for father John Cogswell Oakes)
 3 OBJE @M172@
 3 _APID 1,9279::117152834
 1 SEX M
@@ -8448,9 +8632,12 @@
 2 SOUR @S143@
 3 PAGE Texas Department of State Health Services; Austin Texas, USA
 3 OBJE @M152@
+3 _APID 1,2272::22533955
 2 SOUR @S143@
 3 PAGE Texas Department of State Health Services; Austin Texas, USA
+4 CONC ; Alice Wimberly Burrows (entry for mother Elizabeth Park)
 3 OBJE @M147@
+3 _APID 1,2272::773060628
 2 SOUR @S144@
 3 OBJE @M148@
 3 _APID 1,2469::408963437
@@ -9738,6 +9925,7 @@
 2 SOUR @lDuG27hSTACWHq7z54Ba@
 3 _APID 1,60525::10595735
 2 SOUR @kRuFRPwjRGW6pfPCjXRF@
+3 PAGE John Schenck Disosway (entry for mother Eliza F Schenck)
 3 _APID 1,60901::759280457
 1 SEX F
 1 FAMS @D8xlYLEfRmGBNIIwnLig@
@@ -9933,15 +10121,21 @@
 3 OBJE @M125@
 3 _APID 1,6061::10757109
 2 SOUR @S141@
-3 OBJE @M138@
-2 SOUR @S141@
+3 PAGE Disosway (entry for mother Bertha E. Simpkins)
 3 OBJE @M142@
+3 _APID 1,60090::1668879
+2 SOUR @S141@
+3 PAGE Willian Ernest Disesway (entry for mother Bertha Simpkins)
+3 OBJE @M138@
+3 _APID 1,60090::1868746
 2 SOUR @S147@
+3 PAGE 1913, Bertha E Simpkins
 3 OBJE @M137@
 3 _APID 1,60548::12924820
 2 SOUR @S136@
 3 PAGE Virginia Department of Health; Richmond, Virginia; Virgini
-4 CONC a Marriages, 1936-2014; Roll: 101168928
+4 CONC a Marriages, 1936-2014; Roll: 101168928; John J Disosway (en
+4 CONC try for mother Bertha Simpkins)
 3 OBJE @M139@
 3 _APID 1,9279::131624399
 1 SEX F
@@ -9958,10 +10152,15 @@
 3 OBJE @M125@
 3 _APID 1,6061::10757109
 2 SOUR @S141@
-3 OBJE @M138@
-2 SOUR @S141@
+3 PAGE Disosway (entry for mother Bertha E. Simpkins)
 3 OBJE @M142@
+3 _APID 1,60090::1668879
+2 SOUR @S141@
+3 PAGE Willian Ernest Disesway (entry for mother Bertha Simpkins)
+3 OBJE @M138@
+3 _APID 1,60090::1868746
 2 SOUR @S147@
+3 PAGE 1913, Bertha E Simpkins
 3 OBJE @M137@
 3 _APID 1,60548::12924820
 1 RESI
@@ -9983,7 +10182,7 @@
 2 SOUR @S153@
 3 PAGE Year: 1900; Census Place: Newbern, Craven, North Carolina; R
 4 CONC oll: 1190; Page: 8B; Enumeration District: 0054; FHL microfi
-4 CONC lm: 1241190
+4 CONC lm: 1241190; Lula M Lisosway/Lula M Disosway
 3 OBJE @ByaZklidT4OcSykT2RPt@
 3 _APID 1,7602::50199120
 2 SOUR @S142@
@@ -10009,19 +10208,25 @@
 3 OBJE @p4IIlIB4QCWJjjfpq33a@
 3 _APID 1,2442::151670118
 2 SOUR @S140@
-3 OBJE @pagLzuvHSpaPkrxSkN8O@
-2 SOUR @S140@
 3 PAGE North Carolina State Archives; Raleigh, North Carolina; Nort
-4 CONC h Carolina Death Certificates
-3 OBJE @M126@
-2 SOUR @S140@
-3 PAGE North Carolina State Archives; Raleigh, North Carolina; Nort
-4 CONC h Carolina Death Certificates
-3 OBJE @M133@
-2 SOUR @S140@
-3 PAGE North Carolina State Archives; Raleigh, North Carolina; Nort
-4 CONC h Carolina Death Certificates
+4 CONC h Carolina Death Certificates; Lula Marjorie Disosway
 3 OBJE @M143@
+3 _APID 1,1121::751984351
+2 SOUR @S140@
+3 PAGE North Carolina State Archives; Raleigh, North Carolina; Nort
+4 CONC h Carolina Death Certificates; Lula Musadora Disosway
+3 OBJE @pagLzuvHSpaPkrxSkN8O@
+3 _APID 1,1121::848706
+2 SOUR @S140@
+3 PAGE North Carolina State Archives; Raleigh, North Carolina; Nort
+4 CONC h Carolina Death Certificates; Mrs. Annie Disoway Summerell
+3 OBJE @M126@
+3 _APID 1,1121::751959281
+2 SOUR @S140@
+3 PAGE North Carolina State Archives; Raleigh, North Carolina; Nort
+4 CONC h Carolina Death Certificates; William Justice Disosway
+3 OBJE @M133@
+3 _APID 1,1121::750651937
 2 SOUR @S138@
 3 OBJE @FtvqDevFQB6oW2WAToLV@
 3 _APID 1,8908::3818242
@@ -10046,7 +10251,7 @@
 2 SOUR @S153@
 3 PAGE Year: 1900; Census Place: Newbern, Craven, North Carolina; R
 4 CONC oll: 1190; Page: 8B; Enumeration District: 0054; FHL microfi
-4 CONC lm: 1241190
+4 CONC lm: 1241190; Lula M Lisosway/Lula M Disosway
 3 OBJE @ByaZklidT4OcSykT2RPt@
 3 _APID 1,7602::50199120
 2 SOUR @S142@
@@ -10072,6 +10277,8 @@
 3 OBJE @p4IIlIB4QCWJjjfpq33a@
 3 _APID 1,2442::151670118
 2 SOUR @S140@
+3 PAGE North Carolina State Archives; Raleigh, North Carolina; Nort
+4 CONC h Carolina Death Certificates; Lula Musadora Disosway
 3 OBJE @pagLzuvHSpaPkrxSkN8O@
 3 _APID 1,1121::848706
 2 SOUR @S138@
@@ -10088,7 +10295,7 @@
 2 SOUR @S153@
 3 PAGE Year: 1900; Census Place: Newbern, Craven, North Carolina; R
 4 CONC oll: 1190; Page: 8B; Enumeration District: 0054; FHL microfi
-4 CONC lm: 1241190
+4 CONC lm: 1241190; Lula M Lisosway/Lula M Disosway
 3 OBJE @ByaZklidT4OcSykT2RPt@
 3 _APID 1,7602::50199120
 2 NOTE Age: 29; Marital Status: Married; Relation to Head of House
@@ -10177,6 +10384,8 @@
 4 LATI N35.1085
 4 LONG W77.0441
 2 SOUR @S140@
+3 PAGE North Carolina State Archives; Raleigh, North Carolina; Nort
+4 CONC h Carolina Death Certificates; Lula Musadora Disosway
 3 OBJE @pagLzuvHSpaPkrxSkN8O@
 3 _APID 1,1121::848706
 2 SOUR @S138@
@@ -10213,6 +10422,7 @@
 3 OBJE @M135@
 3 _APID 1,2442::151670119
 2 SOUR @S147@
+3 PAGE Eugene W Summerell
 3 OBJE @M128@
 3 _APID 1,60548::126825
 2 SOUR @S144@
@@ -10229,6 +10439,7 @@
 3 OBJE @M135@
 3 _APID 1,2442::151670119
 2 SOUR @S147@
+3 PAGE Eugene W Summerell
 3 OBJE @M128@
 3 _APID 1,60548::126825
 1 BIRT
@@ -10788,6 +10999,14 @@
 2 SOUR @oyij8W8JTpeesDhCeXbv@
 3 QUAY 1
 1 _XY 148593 1998
+0 @I267@ INDI
+1 NAME Terry /Temple/
+1 SEX M
+1 FAMS @F196@
+0 @I269@ INDI
+1 NAME Theresa //
+1 SEX F
+1 FAMS @F197@
 0 @t4cVXlGBQ0eBRTuhN8s3@ INDI
 1 REFN 69373eca-4b5f-4b8c-af38-4617aa4ab875
 1 NAME Marie /Thorel/
@@ -10819,6 +11038,10 @@
 2 SOUR @SmsK3xjdRVW2J9UNSg62@
 3 QUAY 1
 1 _XY 148994 1001
+0 @I270@ INDI
+1 NAME Valerie //
+1 SEX F
+1 FAMS @F199@
 0 @zNzKxpT4Qmyb38HiNxeZ@ INDI
 1 REFN df8c87f2-1287-4ba9-9e54-27200565fe1f
 1 NAME Adriaentje Jansz /van Deventer/
@@ -11593,6 +11816,9 @@
 1 NAME John Knight /Waters/
 1 SEX M
 1 FAMS @F183@
+0 @F198@ FAM
+1 HUSB @I272@
+1 WIFE @I271@
 0 @3aTQNehUTfWxSg6V6GVL@ FAM
 1 REFN 88bd584a-a0b6-4170-84cd-edf50e74383d
 1 HUSB @NtEHYl1YQziAifYeHqLY@
@@ -11675,6 +11901,9 @@
 1 WIFE @akkH4Wi1TkCjtZwtK4ww@
 1 MARR
 2 DATE DEC 1846
+0 @F200@ FAM
+1 HUSB @I275@
+1 WIFE @I274@
 0 @F188@ FAM
 1 HUSB @I249@
 1 WIFE @I248@
@@ -11830,9 +12059,7 @@
 4 LONG W77.0441
 2 SOUR @PKiyajPlSuW4vjUkmFpk@
 2 SOUR @S147@
-3 PAGE "Craven County, North Carolina, Index to Marriage Bonds, Abs
-4 CONC tracts, 1780-1865," Gooding, Susan Maria, and Disosway, Isra
-4 CONC el, p. 90
+3 PAGE 1842, Susan Gooding
 3 OBJE @M120@
 3 _APID 1,60548::8064673
 2 NOTE Bond #25784
@@ -11870,9 +12097,7 @@
 4 LATI N35.1085
 4 LONG W77.0441
 2 SOUR @S147@
-3 PAGE "Craven County, North Carolina, Index to Marriage Bonds, Abs
-4 CONC tracts, 1780-1865," Justice, Ann Maria, and Disosway, Israel
-4 CONC , p. 90
+3 PAGE 1856, Israel Disosway
 3 OBJE @opq2ElclSKK1TkOsb3R0@
 3 _APID 1,60548::64672
 2 NOTE Bond #25783
@@ -12051,6 +12276,11 @@
 3 OBJE @0JNAXKtlSEq70WYPS3IE@
 3 _APID 1,7602::50193296
 2 SOUR @S147@
+3 PAGE 1880, Josephine L Hudson
+3 OBJE @spY1sTOfTteZ6HNmROS8@
+3 _APID 1,60548::8103654
+2 SOUR @S147@
+3 PAGE 1880, Mark Disosway
 3 OBJE @spY1sTOfTteZ6HNmROS8@
 3 _APID 1,60548::103654
 0 @idqxJ6GMTPCd5TvMdNJd@ FAM
@@ -12080,13 +12310,15 @@
 2 SOUR @S153@
 3 PAGE Year: 1900; Census Place: Newbern, Craven, North Carolina; R
 4 CONC oll: 1190; Page: 8B; Enumeration District: 0054; FHL microfi
-4 CONC lm: 1241190
+4 CONC lm: 1241190; Justice R Lisosway/Justice A Disosway
 3 OBJE @ByaZklidT4OcSykT2RPt@
+3 _APID 1,7602::50199119
 2 SOUR @S153@
 3 PAGE Year: 1900; Census Place: Newbern, Craven, North Carolina; R
 4 CONC oll: 1190; Page: 8B; Enumeration District: 0054; FHL microfi
-4 CONC lm: 1241190
+4 CONC lm: 1241190; Lula M Lisosway/Lula M Disosway
 3 OBJE @ByaZklidT4OcSykT2RPt@
+3 _APID 1,7602::50199120
 0 @F195@ FAM
 1 HUSB @I213@
 1 WIFE @I264@
@@ -12138,6 +12370,9 @@
 1 REFN 3339bdcb-8ae1-4841-a743-47780f5d2949
 1 HUSB @zzUEiuVURYiP0VRdy85M@
 1 WIFE @Gtdp4EooRyOy1IMcMku1@
+0 @F197@ FAM
+1 HUSB @I268@
+1 WIFE @I269@
 0 @O0Srw7TSQUCTnV4qLbkh@ FAM
 1 HUSB @1w72t19TTWmGyImbgSZ7@
 1 WIFE @uK5dStKATECsgx2Gz3aO@
@@ -12153,6 +12388,21 @@
 0 @F193@ FAM
 1 HUSB @I262@
 1 WIFE @I242@
+1 CHIL @I266@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I268@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I271@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I273@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I274@
+2 _FREL Natural
+2 _MREL Natural
 0 @rtYnuBRORFGCm5SYEtxl@ FAM
 1 REFN 3f642a57-4431-488a-b8e7-8a44ac6f2023
 1 HUSB @edvk0duiR5G4hFlzK97M@
@@ -12169,6 +12419,9 @@
 1 CHIL @I255@
 2 _FREL Natural
 2 _MREL Natural
+0 @F199@ FAM
+1 HUSB @I273@
+1 WIFE @I270@
 0 @fb5TYf8VShq9Cue9pS6P@ FAM
 1 REFN e2c1029a-7ebf-40ee-83be-fd6e330745b0
 1 HUSB @f0n53UJNS3iglyy9SSiq@
@@ -12563,6 +12816,9 @@
 1 REFN b7e36aca-a0f0-4adb-9e03-9e7be4ea5dc7
 1 HUSB @WcyBbmVFSeW3EzTjzW7N@
 1 WIFE @1JZnkNToSYmAKhPlQcNx@
+0 @F196@ FAM
+1 HUSB @I267@
+1 WIFE @I266@
 0 @cKK2BejOTQ6dlXq5xy13@ FAM
 1 REFN ccb1545c-ec9e-4a32-92e4-5c4e6602f6f8
 1 HUSB @kJtK6iMFRUaNDwLfd2v7@
@@ -13820,6 +14076,12 @@
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2014
+0 @S169@ SOUR
+1 REPO @t1Wm6WiqTK6oX61EAKx1@
+1 TITL New York, New York, Voter List, 1924
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.; Location: Lehi, UT, USA; Date
+2 CONC : 2017
 0 @S155@ SOUR
 1 REPO @t1Wm6WiqTK6oX61EAKx1@
 1 TITL New York, Passenger and Crew Lists (including Castle Garde
@@ -13848,16 +14110,6 @@
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2015
-0 @J5VIQZ2QT8av3dwSoZjh@ SOUR
-1 REFN 77205ce6-282c-4c6d-9108-a88e1e979871
-1 TITL North Carolina Death Certificates, 1909-1975 [database on-li
-2 CONC ne]
-1 AUTH Ancestry.com
-1 PUBL Provo, UT, USA: Ancestry.com Operations Inc, 2007
-1 TEXT [Original data: North Carolina State Board of Health, Burea
-2 CONC u of Vital Statistics. North Carolina Death Certificates. Mi
-2 CONC crofilm S.123. Rolls 19-242, 280, 313-682, 1040-1297. Nort
-2 CONC h Carolina State Archives, Raleigh, North Carolina.]
 0 @PKiyajPlSuW4vjUkmFpk@ SOUR
 1 REFN 74fae554-bc0d-4c9a-bc62-c5e8f897f333
 1 TITL North Carolina Marriage Bonds, 1741-1868
@@ -16339,4 +16591,11 @@
 2 CONC North Carolina, Marriage Records, 1741-2011(5).jpg
 2 FORM jpg
 2 TITL North Carolina, Marriage Records, 1741-2011
+0 @M198@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Disosway Media\
+2 CONC New York, New York, Voter List, 1924.jpg
+2 FORM jpg
+2 TITL New York, New York, Voter List, 1924
+2 _TEXT New York City Municipal Archive; New York, New York, USA; 19
+3 CONC 24 NYC Voter List
 0 TRLR
