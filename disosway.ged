@@ -14,9 +14,9 @@
 4 CONT Boston, MA 02109
 3 PHON (617) 227-6681
 1 DEST FTM
-1 FILE Disosway_2019-09-29-21-33-08.ftm.ged
+1 FILE Disosway_2019-09-29-22-13-56.ftm.ged
 1 DATE 29 SEP 2019
-2 TIME 21:33:49
+2 TIME 22:14:48
 0 @Umy2qBWIRUiwVSS6Hcn4@ SUBM
 1 NAME Christopher Alan Mosher
 2 EMAIL cmosher01@@gmail.com
@@ -3343,8 +3343,20 @@
 3 PAGE Reginald J. Disosway (entry for father Israel Disosway)
 3 OBJE @0tt0KPLxS7a18sqqxe2s@
 3 _APID 1,60090::1788257
+2 SOUR @S171@
+3 PAGE 1842, Isarel Dissosway
+3 _APID 1,4802::56886
 2 SOUR @RK2jjKBxR1KOXCD0xkMw@
+3 PAGE 1856, Israel Disosway
 3 _APID 1,4802::83113
+2 SOUR @S170@
+3 PAGE Data Source: County Court Records - FHL # 0296803-0296808; 1
+4 CONC 842, Israel Dissosway
+3 _APID 1,8909::2725112
+2 SOUR @S147@
+3 PAGE 1842, Israel Dissosway
+3 OBJE @M199@
+3 _APID 1,60548::64673
 2 SOUR @S147@
 3 PAGE 1842, Susan Gooding
 3 OBJE @M120@
@@ -6208,6 +6220,13 @@
 3 _APID 1,8054::12659999
 2 SOUR @rbh2qas5SDCP8xlqctCo@
 3 QUAY 1
+2 SOUR @S171@
+3 PAGE 1842, Susan Gooding
+3 _APID 1,4802::1056886
+2 SOUR @S170@
+3 PAGE Data Source: County Court Records - FHL # 0296803-0296808; 1
+4 CONC 842, Susan Gooding
+3 _APID 1,8909::2209418
 2 SOUR @S147@
 3 PAGE 1842, Susan Gooding
 3 OBJE @M120@
@@ -6777,6 +6796,9 @@
 0 @7nAjtoHjQEaNxO44L4VR@ INDI
 1 REFN b0c4c217-9b4d-4fa6-88f9-eb18d543488f
 1 NAME Ann Maria /Justice/
+2 SOUR @S171@
+3 PAGE 1856, Ann Maria Justice
+3 _APID 1,4802::1083113
 1 SEX F
 1 FAMS @jyCZPToSQBOp98OgIwfM@
 1 BIRT
@@ -12057,7 +12079,22 @@
 3 MAP
 4 LATI N35.1085
 4 LONG W77.0441
-2 SOUR @PKiyajPlSuW4vjUkmFpk@
+2 SOUR @S171@
+3 PAGE 1842, Isarel Dissosway
+3 _APID 1,4802::56886
+2 SOUR @S171@
+3 PAGE 1842, Susan Gooding
+2 SOUR @S170@
+3 PAGE Data Source: County Court Records - FHL # 0296803-0296808; 1
+4 CONC 842, Israel Dissosway
+3 _APID 1,8909::2725112
+2 SOUR @S170@
+3 PAGE Data Source: County Court Records - FHL # 0296803-0296808; 1
+4 CONC 842, Susan Gooding
+2 SOUR @S147@
+3 PAGE 1842, Israel Dissosway
+3 OBJE @M199@
+3 _APID 1,60548::64673
 2 SOUR @S147@
 3 PAGE 1842, Susan Gooding
 3 OBJE @M120@
@@ -12096,6 +12133,11 @@
 3 MAP
 4 LATI N35.1085
 4 LONG W77.0441
+2 SOUR @S171@
+3 PAGE 1856, Ann Maria Justice
+2 SOUR @RK2jjKBxR1KOXCD0xkMw@
+3 PAGE 1856, Israel Disosway
+3 _APID 1,4802::83113
 2 SOUR @S147@
 3 PAGE 1856, Israel Disosway
 3 OBJE @opq2ElclSKK1TkOsb3R0@
@@ -14110,17 +14152,6 @@
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2015
-0 @PKiyajPlSuW4vjUkmFpk@ SOUR
-1 REFN 74fae554-bc0d-4c9a-bc62-c5e8f897f333
-1 TITL North Carolina Marriage Bonds, 1741-1868
-1 AUTH Ancestry.com
-1 PUBL Ancestry.com
-1 TEXT Source Information:
-2 CONT Ancestry.com, comp. North Carolina Marriage Bonds, 1741-1868
-2 CONC . [database online] Provo, UT: Ancestry.com, 2000. Origina
-2 CONC l data: State of North Carolina. An Index to Marriage Bond
-2 CONC s Filed in the North Carolina State Archives. Raleigh, NC: N
-2 CONC orth Carolina Division of Archives and History, 1977.
 0 @S140@ SOUR
 1 REPO @t1Wm6WiqTK6oX61EAKx1@
 1 TITL North Carolina, Death Certificates, 1909-1976
@@ -14139,6 +14170,12 @@
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2014
+0 @S171@ SOUR
+1 REPO @t1Wm6WiqTK6oX61EAKx1@
+1 TITL North Carolina, Index to Marriage Bonds, 1741-1868
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations Inc; Location: Provo, UT, USA; Date
+2 CONC : 2000
 0 @RK2jjKBxR1KOXCD0xkMw@ SOUR
 1 REFN 5ad18b93-314b-4999-a690-92402a5a06a4
 1 REPO @t1Wm6WiqTK6oX61EAKx1@
@@ -14146,6 +14183,12 @@
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations Inc; Location: Provo, UT, USA; Date
 2 CONC : 2000
+0 @S170@ SOUR
+1 REPO @t1Wm6WiqTK6oX61EAKx1@
+1 TITL North Carolina, Marriage Index, 1741-2004
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations Inc; Location: Provo, UT, USA; Date
+2 CONC : 2007
 0 @S147@ SOUR
 1 REPO @t1Wm6WiqTK6oX61EAKx1@
 1 TITL North Carolina, Marriage Records, 1741-2011
@@ -16598,4 +16641,9 @@
 2 TITL New York, New York, Voter List, 1924
 2 _TEXT New York City Municipal Archive; New York, New York, USA; 19
 3 CONC 24 NYC Voter List
+0 @M199@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Disosway Media\
+2 CONC North Carolina, Marriage Records, 1741-2011(7).jpg
+2 FORM jpg
+2 TITL North Carolina, Marriage Records, 1741-2011
 0 TRLR
