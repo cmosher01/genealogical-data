@@ -14,9 +14,9 @@
 4 CONT Boston, MA 02109
 3 PHON (617) 227-6681
 1 DEST FTM
-1 FILE Mosher_2019-09-10-01-11-42.ftm.ged
-1 DATE 10 SEP 2019
-2 TIME 01:12:49
+1 FILE Mosher_2019-09-29-02-33-26.ftm.ged
+1 DATE 29 SEP 2019
+2 TIME 02:47:58
 0 @Umy2qBWIRUiwVSS6Hcn4@ SUBM
 1 NAME Christopher Alan Mosher
 2 EMAIL cmosher01@@gmail.com
@@ -67,6 +67,7 @@
 3 PAGE William Baker Mosher  birth
 3 _APID 1,2545::301022063
 2 SOUR @S292@
+3 PAGE Pearl F. Ahrens
 3 _APID 1,2556::1581689
 2 SOUR @S299@
 3 PAGE The National Archives in St. Louis, Missouri; St. Louis, Mis
@@ -109,6 +110,7 @@
 3 PAGE William Baker Mosher  birth
 3 _APID 1,2545::301022063
 2 SOUR @S292@
+3 PAGE Pearl F. Ahrens
 3 _APID 1,2556::1581689
 1 RESI
 2 DATE 1920
@@ -413,6 +415,7 @@
 2 SOUR @MYPTYwXjROCnuswpONVl@
 3 PAGE Year: 1900; Census Place: Chicago Ward 12, Cook, Illinois; P
 4 CONC age: 2; Enumeration District: 0347; FHL microfilm: 1240259
+4 CONC ; Gertrude E Mosher
 3 OBJE @M430@
 3 _APID 1,7602::10592662
 2 SOUR @S222@
@@ -440,6 +443,7 @@
 2 SOUR @MYPTYwXjROCnuswpONVl@
 3 PAGE Year: 1900; Census Place: Chicago Ward 12, Cook, Illinois; P
 4 CONC age: 2; Enumeration District: 0347; FHL microfilm: 1240259
+4 CONC ; Gertrude E Mosher
 3 OBJE @M430@
 3 _APID 1,7602::10592662
 2 SOUR @S222@
@@ -458,6 +462,7 @@
 2 SOUR @MYPTYwXjROCnuswpONVl@
 3 PAGE Year: 1900; Census Place: Chicago Ward 12, Cook, Illinois; P
 4 CONC age: 2; Enumeration District: 0347; FHL microfilm: 1240259
+4 CONC ; Gertrude E Mosher
 3 OBJE @M430@
 3 _APID 1,7602::10592662
 2 NOTE Marital Status: Married; Relation to Head: Wife
@@ -505,7 +510,10 @@
 1 FAMS @F384@
 1 BIRT
 2 DATE 31 DEC 1864
-2 PLAC Lebanon, Madison, New York, United States
+2 PLAC Lebanon, Madison, New York, USA
+3 MAP
+4 LATI N42.7814
+4 LONG W75.6481
 1 DEAT
 2 DATE 19 JUL 1930
 2 PLAC Utica, Oneida, New York, USA; Faxton Hospital
@@ -520,12 +528,22 @@
 1 BIRT
 2 DATE ABT 1625
 1 _XY 14050.00 375.00
-0 @I488@ INDI
-1 NAME [REDACTED]
-1 FAMS @F392@
+0 @I653@ INDI
+1 REFN 60e54f50-492d-400f-ad32-fdc801121276
+1 NAME Anna /Bartenstein/
+1 SEX F
+1 FAMC @F392@
 0 @I540@ INDI
 1 REFN 9ec6ec9f-b55f-408c-bc85-5f46efd61c3f
 1 NAME Emily /Bartenstein/
+1 SEX F
+1 FAMC @F392@
+0 @I488@ INDI
+1 NAME [REDACTED]
+1 FAMS @F392@
+0 @I654@ INDI
+1 REFN 925cbeee-c22b-4595-be3b-052c54f0a516
+1 NAME Gretchen /Bartenstein/
 1 SEX F
 1 FAMC @F392@
 0 @I477@ INDI
@@ -670,6 +688,7 @@
 3 OBJE @M321@
 3 _APID 1,2442::11179598
 2 SOUR @S308@
+3 PAGE Doris B Mosher
 3 OBJE @M323@
 3 _APID 1,8837::1140155
 2 SOUR @S259@
@@ -794,6 +813,11 @@
 3 _APID 1,61632::5038900
 2 SOUR @S263@
 3 _APID 1,1788::403354654
+2 SOUR @S331@
+3 PAGE Publication Date: 12/ May/ 2015; Publication Place: Portland
+4 CONC , Oregon, USA; URL: http://www.obitsforlife.com/obituary/102
+4 CONC 9832/Benedict-Edwin.php
+3 _APID 1,2190::40042831
 2 SOUR @S241@
 3 _APID 1,60525::58160267
 2 SOUR @S215@
@@ -857,7 +881,208 @@
 0 @I467@ INDI
 1 NAME [REDACTED]
 1 FAMC @F361@
+1 FAMS @F485@
 1 FAMS @F454@
+0 @I465@ INDI
+1 REFN 7313e5ee-001c-4bed-bc59-c598b9239a09
+1 NAME Edwin Jeril /Benedict/
+2 SOUR @S213@
+3 PAGE Year: 1920; Census Place: Georgetown, Madison, New York; Rol
+4 CONC l: T625_1118; Page: 3B; Enumeration District: 108
+3 OBJE @M520@
+3 _APID 1,6061::87029826
+2 SOUR @S224@
+3 PAGE Year: 1930; Census Place: Georgetown, Madison, New York; Pag
+4 CONC e: 5B; Enumeration District: 0013; FHL microfilm: 2341180
+3 OBJE @M519@
+3 _APID 1,6224::40860647
+2 SOUR @S221@
+3 PAGE Year: 1940; Census Place: Georgetown, Madison, New York; Rol
+4 CONC l: T627_2624; Page: 5A; Enumeration District: 27-16
+3 OBJE @M294@
+3 _APID 1,2442::11192946
+2 SOUR @S233@
+3 PAGE New York State Department of Health; Albany, NY, USA; New Yo
+4 CONC rk State Birth Index
+3 OBJE @M528@
+3 _APID 1,61667::2377357
+2 SOUR @S203@
+3 PAGE New York State Department of Health; Albany, NY, USA; New Yo
+4 CONC rk State Marriage Index; Edwin J. Benedict
+3 OBJE @M518@
+3 _APID 1,61632::7372721
+2 SOUR @IatrsKHUQdmGOYci7sP2@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1925; Election District: 01; Assembly Di
+4 CONC strict: 01; City: Georgetown; County: Madison; Page: 11
+3 OBJE @M521@
+3 _APID 1,2704::20724213
+2 SOUR @S262@
+3 PAGE City: Hamilton; State: New York; Year(s): 1996-1997
+3 _APID 1,7339::170922613
+2 SOUR @S263@
+3 _APID 1,1788::272835098
+2 SOUR @S247@
+3 _APID 1,1732::264390088
+2 SOUR @S331@
+3 PAGE Publication Date: 12/ May/ 2015; Publication Place: Portland
+4 CONC , Oregon, USA; URL: http://www.obitsforlife.com/obituary/102
+4 CONC 9832/Benedict-Edwin.php ; Edwin Jeril Jerry Jeril
+3 _APID 1,2190::430296453
+2 SOUR @S241@
+3 _APID 1,60525::47590208
+2 SOUR @S317@
+3 PAGE Publication Date: 5/ Feb/ 2015; Publication Place: Utica, Ne
+4 CONC w York, USA; URL: http://www.legacy.com/obituaries/uticaod/o
+4 CONC bituary.aspx?n=edwin-jeril-benedict&amp;pid=174066487&amp;fh
+4 CONC id=22225 ; Edwin Jeril Benedict
+3 _APID 1,7545::380213193
+1 SEX M
+1 FAMS @F361@
+1 OBJE @M502@
+1 NOTE _XY 1396 228  _UID 7313e5ee-001c-4bed-bc59-c598b9239a09
+1 BIRT
+2 DATE 20 MAY 1919
+2 PLAC Georgetown, Madison, New York, USA
+3 MAP
+4 LATI N42.7683
+4 LONG W75.7369
+2 SOUR @S213@
+3 PAGE Year: 1920; Census Place: Georgetown, Madison, New York; Rol
+4 CONC l: T625_1118; Page: 3B; Enumeration District: 108
+3 OBJE @M520@
+3 _APID 1,6061::87029826
+2 SOUR @S224@
+3 PAGE Year: 1930; Census Place: Georgetown, Madison, New York; Pag
+4 CONC e: 5B; Enumeration District: 0013; FHL microfilm: 2341180
+3 OBJE @M519@
+3 _APID 1,6224::40860647
+2 SOUR @S221@
+3 PAGE Year: 1940; Census Place: Georgetown, Madison, New York; Rol
+4 CONC l: T627_2624; Page: 5A; Enumeration District: 27-16
+3 OBJE @M294@
+3 _APID 1,2442::11192946
+2 SOUR @S233@
+3 PAGE New York State Department of Health; Albany, NY, USA; New Yo
+4 CONC rk State Birth Index
+3 OBJE @M528@
+3 _APID 1,61667::2377357
+2 SOUR @IatrsKHUQdmGOYci7sP2@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1925; Election District: 01; Assembly Di
+4 CONC strict: 01; City: Georgetown; County: Madison; Page: 11
+3 OBJE @M521@
+3 _APID 1,2704::20724213
+2 SOUR @S263@
+3 _APID 1,1788::272835098
+2 SOUR @S247@
+3 _APID 1,1732::264390088
+2 SOUR @S331@
+3 PAGE Publication Date: 12/ May/ 2015; Publication Place: Portland
+4 CONC , Oregon, USA; URL: http://www.obitsforlife.com/obituary/102
+4 CONC 9832/Benedict-Edwin.php ; Edwin Jeril Jerry Jeril
+3 _APID 1,2190::430296453
+2 SOUR @S241@
+3 _APID 1,60525::47590208
+2 SOUR @S317@
+3 PAGE Publication Date: 5/ Feb/ 2015; Publication Place: Utica, Ne
+4 CONC w York, USA; URL: http://www.legacy.com/obituaries/uticaod/o
+4 CONC bituary.aspx?n=edwin-jeril-benedict&amp;pid=174066487&amp;fh
+4 CONC id=22225 ; Edwin Jeril Benedict
+3 _APID 1,7545::380213193
+1 RESI
+2 DATE 1920
+2 PLAC Georgetown, Madison, New York, USA
+3 MAP
+4 LATI N42.7683
+4 LONG W75.7369
+2 SOUR @S213@
+3 PAGE Year: 1920; Census Place: Georgetown, Madison, New York; Rol
+4 CONC l: T625_1118; Page: 3B; Enumeration District: 108
+3 OBJE @M520@
+3 _APID 1,6061::87029826
+2 NOTE Relation to Head: Son; Residence Marital Status: Single
+1 RESI
+2 DATE 01 JUN 1925
+2 PLAC Georgetown, Madison, New York, USA
+3 MAP
+4 LATI N42.7683
+4 LONG W75.7369
+2 SOUR @IatrsKHUQdmGOYci7sP2@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1925; Election District: 01; Assembly Di
+4 CONC strict: 01; City: Georgetown; County: Madison; Page: 11
+3 OBJE @M521@
+3 _APID 1,2704::20724213
+2 NOTE Relation to Head: Son
+1 RESI
+2 DATE 1930
+2 PLAC Georgetown, Madison, New York, USA
+3 MAP
+4 LATI N42.7683
+4 LONG W75.7369
+2 SOUR @S224@
+3 PAGE Year: 1930; Census Place: Georgetown, Madison, New York; Pag
+4 CONC e: 5B; Enumeration District: 0013; FHL microfilm: 2341180
+3 OBJE @M519@
+3 _APID 1,6224::40860647
+2 NOTE Marital Status: Single; Relation to Head: Son
+1 RESI
+2 DATE 01 APR 1940
+2 PLAC Georgetown, Madison, New York, USA
+3 MAP
+4 LATI N42.7683
+4 LONG W75.7369
+2 SOUR @S221@
+3 PAGE Year: 1940; Census Place: Georgetown, Madison, New York; Rol
+4 CONC l: T627_2624; Page: 5A; Enumeration District: 27-16
+3 OBJE @M294@
+3 _APID 1,2442::11192946
+2 NOTE Age: 20; Marital Status: Married; Relation to Head of House
+3 CONC : Son
+1 RESI
+2 DATE 1986
+2 PLAC Airport Road and New York Route 12B, Hamilton, Madison, Ne
+3 CONC w York, USA
+2 SOUR @S262@
+3 PAGE City: Hamilton; State: New York; Year(s): 1996-1997
+3 _APID 1,7339::170922613
+2 SOUR @S263@
+3 _APID 1,1788::272835098
+2 SOUR @S247@
+3 _APID 1,1732::264390088
+1 DEAT
+2 DATE 11 JAN 2015
+2 SOUR @S331@
+3 PAGE Publication Date: 12/ May/ 2015; Publication Place: Portland
+4 CONC , Oregon, USA; URL: http://www.obitsforlife.com/obituary/102
+4 CONC 9832/Benedict-Edwin.php ; Edwin Jeril Jerry Jeril
+3 _APID 1,2190::430296453
+2 SOUR @S241@
+3 _APID 1,60525::47590208
+2 SOUR @S317@
+3 PAGE Publication Date: 5/ Feb/ 2015; Publication Place: Utica, Ne
+4 CONC w York, USA; URL: http://www.legacy.com/obituaries/uticaod/o
+4 CONC bituary.aspx?n=edwin-jeril-benedict&amp;pid=174066487&amp;fh
+4 CONC id=22225 ; Edwin Jeril Benedict
+3 _APID 1,7545::380213193
+1 BURI
+2 DATE 17 JAN 2015
+2 PLAC Woodlawn Cemetery, Hamilton, Madison, New York, USA
+2 SOUR @S331@
+3 PAGE Publication Date: 12/ May/ 2015; Publication Place: Portland
+4 CONC , Oregon, USA; URL: http://www.obitsforlife.com/obituary/102
+4 CONC 9832/Benedict-Edwin.php ; Edwin Jeril Jerry Jeril
+3 _APID 1,2190::430296453
+2 SOUR @S241@
+3 _APID 1,60525::47590208
+2 SOUR @S317@
+3 PAGE Publication Date: 5/ Feb/ 2015; Publication Place: Utica, Ne
+4 CONC w York, USA; URL: http://www.legacy.com/obituaries/uticaod/o
+4 CONC bituary.aspx?n=edwin-jeril-benedict&amp;pid=174066487&amp;fh
+4 CONC id=22225 ; Edwin Jeril Benedict
+3 _APID 1,7545::380213193
+1 _XY 3625.00 2425.00
 0 @I487@ INDI
 1 NAME [REDACTED]
 1 FAMC @F385@
@@ -865,9 +1090,6 @@
 1 NAME [REDACTED]
 1 FAMC @F361@
 1 FAMS @F382@
-0 @I465@ INDI
-1 NAME [REDACTED]
-1 FAMS @F361@
 0 @I464@ INDI
 1 NAME [REDACTED]
 1 FAMC @F361@
@@ -875,10 +1097,10 @@
 1 NAME [REDACTED]
 1 FAMC @F361@
 0 @I598@ INDI
-1 REFN 036eadfc-cb2d-4c7d-8a55-6467ae0b4d31
-1 NAME Nicole /Benedict/
-1 SEX F
+1 NAME [REDACTED]
 1 FAMC @F454@
+1 FAMS @F480@
+1 FAMS @F481@
 0 @I473@ INDI
 1 NAME [REDACTED]
 1 FAMC @F385@
@@ -886,11 +1108,6 @@
 0 @I411@ INDI
 1 REFN a262a9cb-4a89-49db-851d-efaeeca3f7b2
 1 NAME William H. /Blakeslee/
-2 SOUR @S203@
-3 PAGE New York State Department of Health; Albany, NY, USA; New Yo
-4 CONC rk State Marriage Index
-3 OBJE @M372@
-3 _APID 1,61632::1344308
 1 SEX M
 1 FAMS @F328@
 1 BIRT
@@ -921,7 +1138,7 @@
 3 _APID 1,7667::37312265
 2 SOUR @XkYfWXOxTRycLRJJyxNy@
 3 PAGE Source number: 23.000; Source type: Electronic Database; Num
-4 CONC ber of Pages: 1; Submitter Code: RKM
+4 CONC ber of Pages: 1; Submitter Code: RKM; Hannah Bloss
 3 _APID 1,7836::116770
 1 SEX F
 2 SOUR @S212@
@@ -987,9 +1204,11 @@
 3 OBJE @M463@
 3 _APID 1,7734::435742
 2 SOUR @S312@
+3 PAGE Menassah Bloss
 3 OBJE @M461@
 3 _APID 1,1062::236964
 2 SOUR @S314@
+3 PAGE Manassah Bliss
 3 OBJE @M460@
 3 _APID 1,3719::12184
 2 SOUR @S305@
@@ -1309,6 +1528,37 @@
 0 @I484@ INDI
 1 NAME [REDACTED]
 1 FAMS @F387@
+0 @I651@ INDI
+1 REFN 94775b13-98c5-466b-b8fd-ff34fd8160e5
+1 NAME Anthony /Cacciola/
+1 SEX M
+1 FAMC @F487@
+0 @I627@ INDI
+1 REFN 52a674ad-8f67-49c0-afdb-7e211ed43d36
+1 NAME Bruce /Cacciola/
+1 SEX M
+1 FAMC @F387@
+0 @I652@ INDI
+1 REFN 62ebc109-d97c-44f0-9554-18b8c7ea8901
+1 NAME Joseph /Cacciola/
+1 SEX M
+1 FAMC @F487@
+0 @I628@ INDI
+1 REFN 11c59620-91c5-457a-8322-209cc9cd0665
+1 NAME Kevin /Cacciola/
+1 SEX M
+1 FAMC @F387@
+0 @I623@ INDI
+1 REFN a099d4a1-b983-4dc7-900d-a666c89e0535
+1 NAME Louis /Cacciola/
+1 SEX M
+1 FAMC @F387@
+0 @I650@ INDI
+1 REFN eede004f-74ac-4140-86bf-dc571bb5c61c
+1 NAME Russell /Cacciola/
+1 SEX M
+1 FAMC @F387@
+1 FAMS @F487@
 0 @O6cUmdBbRWWqLxJvbI4f@ INDI
 1 REFN 3845b350-7dde-4a22-b831-e87510829be0
 1 NAME Albert Frank /Campbell/
@@ -1752,7 +2002,7 @@
 2 SOUR @MYPTYwXjROCnuswpONVl@
 3 PAGE Year: 1900; Census Place: Minneapolis Ward 8, Hennepin, Minn
 4 CONC esota; Page: 12; Enumeration District: 0089; FHL microfilm
-4 CONC : 1240768
+4 CONC : 1240768; Annetta M Merner
 3 OBJE @M438@
 3 _APID 1,7602::35902572
 2 SOUR @S222@
@@ -1804,7 +2054,7 @@
 2 SOUR @MYPTYwXjROCnuswpONVl@
 3 PAGE Year: 1900; Census Place: Minneapolis Ward 8, Hennepin, Minn
 4 CONC esota; Page: 12; Enumeration District: 0089; FHL microfilm
-4 CONC : 1240768
+4 CONC : 1240768; Annetta M Merner
 3 OBJE @M438@
 3 _APID 1,7602::35902572
 2 SOUR @S222@
@@ -1869,7 +2119,7 @@
 2 SOUR @MYPTYwXjROCnuswpONVl@
 3 PAGE Year: 1900; Census Place: Minneapolis Ward 8, Hennepin, Minn
 4 CONC esota; Page: 12; Enumeration District: 0089; FHL microfilm
-4 CONC : 1240768
+4 CONC : 1240768; Annetta M Merner
 3 OBJE @M438@
 3 _APID 1,7602::35902572
 2 NOTE Marital Status: Married; Relation to Head: Wife
@@ -1920,6 +2170,12 @@
 3 _APID 1,1501::1042036
 2 SOUR @S282@
 3 _APID 1,2542::1803838
+0 @I643@ INDI
+1 NAME [REDACTED]
+1 FAMS @F480@
+0 @I644@ INDI
+1 NAME [REDACTED]
+1 FAMC @F480@
 0 @I427@ INDI
 1 REFN cb3fb8dd-6a09-496c-b89c-0c6de848b65e
 1 NAME /Chase/
@@ -2254,6 +2510,7 @@
 1 REFN 8b43f135-14f4-4b1e-b04a-3e0cd0c03849
 1 NAME Jennifer Lynn /Cherney/
 2 SOUR @S284@
+3 PAGE Jennifer Lynn Cherney, 1998
 3 _APID 1,8784::3113612
 1 SEX F
 1 FAMS @F424@
@@ -2433,8 +2690,11 @@
 4 CONC strict: 01; City: Madison; County: Madison; Page: 4
 3 OBJE @m1x2HapLT7ahZoqmUAVC@
 3 _APID 1,2704::20748508
+2 SOUR @S215@
+3 _APID 1,60901::783776894
 1 SEX F
 1 FAMS @bDNq0ruKQTShQyuD99jm@
+1 OBJE @M498@
 1 NOTE _XY 1877 149  _UID deecead6-bd61-4496-af73-3703863f8259
 1 BIRT
 2 DATE 16 MAY 1882
@@ -2474,16 +2734,17 @@
 1 DEAT
 2 DATE 17 SEP 1968
 1 _XY 3300.00 2325.00
+1 _PHOTO @M498@
 0 @I495@ INDI
 1 REFN ef3f426b-370a-42b4-8acb-d2f951a13eee
 1 NAME Fannie /Conklin/
 2 SOUR @XkYfWXOxTRycLRJJyxNy@
 3 PAGE Source number: 20.000; Source type: Electronic Database; Num
-4 CONC ber of Pages: 1; Submitter Code: RKM
+4 CONC ber of Pages: 1; Submitter Code: RKM; Fannie Conklin
 3 _APID 1,7836::266576
 2 SOUR @XkYfWXOxTRycLRJJyxNy@
 3 PAGE Source number: 2612.013; Source type: Family group sheet, FG
-4 CONC SE, listed as parents; Number of Pages: 1
+4 CONC SE, listed as parents; Number of Pages: 1; Fannie Conklin
 3 _APID 1,7836::266577
 1 SEX F
 1 FAMC @F444@
@@ -2496,11 +2757,11 @@
 4 LONG W73.7133
 2 SOUR @XkYfWXOxTRycLRJJyxNy@
 3 PAGE Source number: 20.000; Source type: Electronic Database; Num
-4 CONC ber of Pages: 1; Submitter Code: RKM
+4 CONC ber of Pages: 1; Submitter Code: RKM; Fannie Conklin
 3 _APID 1,7836::266576
 2 SOUR @XkYfWXOxTRycLRJJyxNy@
 3 PAGE Source number: 2612.013; Source type: Family group sheet, FG
-4 CONC SE, listed as parents; Number of Pages: 1
+4 CONC SE, listed as parents; Number of Pages: 1; Fannie Conklin
 3 _APID 1,7836::266577
 1 DEAT
 2 DATE 04 AUG 1827
@@ -2513,6 +2774,7 @@
 1 REFN 63bc7a23-f3a0-42e2-92e1-774716c6eccf
 1 NAME Jeremiah /Conklin/
 2 SOUR @S310@
+3 PAGE Jeremiah, Jr. Conkling
 3 _APID 1,7854::32709
 2 SOUR @S311@
 3 PAGE The New York Genealogical and Biographical Record (quarterly
@@ -2764,6 +3026,7 @@
 2 SOUR @MYPTYwXjROCnuswpONVl@
 3 PAGE Year: 1900; Census Place: Chicago Ward 12, Cook, Illinois; P
 4 CONC age: 2; Enumeration District: 0347; FHL microfilm: 1240259
+4 CONC ; Susan Mosher
 3 OBJE @M430@
 3 _APID 1,7602::10592665
 2 SOUR @S222@
@@ -2806,6 +3069,7 @@
 2 SOUR @MYPTYwXjROCnuswpONVl@
 3 PAGE Year: 1900; Census Place: Chicago Ward 12, Cook, Illinois; P
 4 CONC age: 2; Enumeration District: 0347; FHL microfilm: 1240259
+4 CONC ; Susan Mosher
 3 OBJE @M430@
 3 _APID 1,7602::10592665
 2 SOUR @S222@
@@ -2866,6 +3130,7 @@
 2 SOUR @MYPTYwXjROCnuswpONVl@
 3 PAGE Year: 1900; Census Place: Chicago Ward 12, Cook, Illinois; P
 4 CONC age: 2; Enumeration District: 0347; FHL microfilm: 1240259
+4 CONC ; Susan Mosher
 3 OBJE @M430@
 3 _APID 1,7602::10592665
 2 NOTE Marital Status: Married; Relation to Head: Mother
@@ -3876,6 +4141,20 @@
 2 SOUR @DmaIWlgWS4Kg0oXBWhrJ@
 3 QUAY 1
 1 _XY 8550.00 400.00
+0 @I636@ INDI
+1 NAME [REDACTED]
+1 NAME [REDACTED]
+1 FAMC @F482@
+1 FAMS @F478@
+0 @I635@ INDI
+1 NAME [REDACTED]
+1 FAMC @F482@
+0 @I634@ INDI
+1 NAME [REDACTED]
+1 FAMC @F482@
+0 @I646@ INDI
+1 NAME [REDACTED]
+1 FAMS @F482@
 0 @I559@ INDI
 1 REFN 1eaba011-275d-4e4e-9178-38fe7f3509da
 1 NAME Arthur /Fisher/
@@ -3978,6 +4257,11 @@
 0 @I414@ INDI
 1 REFN 5657df87-d0a2-4011-85b4-5158d16b02f6
 1 NAME Hattie M /Fisher/
+2 SOUR @S203@
+3 PAGE New York State Department of Health; Albany, NY, USA; New Yo
+4 CONC rk State Marriage Index; Hattie M Fisher
+3 OBJE @M529@
+3 _APID 1,61632::6895486
 2 SOUR @S208@
 3 PAGE Hattie M Fisher, 1912
 3 OBJE @M229@
@@ -4024,6 +4308,9 @@
 3 OBJE @M415@
 3 _APID 1,6742::2495702
 2 NOTE Marital Status: Married; Relation to Head: Self
+0 @I645@ INDI
+1 NAME [REDACTED]
+1 FAMS @F481@
 0 @I520@ INDI
 1 REFN 6c7c21cb-031f-4817-9cfb-2fe76d7da5cf
 1 NAME Frances Lucy //
@@ -4031,16 +4318,21 @@
 3 PAGE Year: 1870; Census Place: Volney, Oswego, New York; Roll: M5
 4 CONC 93_1074; Page: 574B; Family History Library Film: 552573
 3 OBJE @M367@
+3 _APID 1,7163::31934899
 2 SOUR @S217@
 3 PAGE Year: 1880; Census Place: Fulton, Oswego, New York; Roll: 91
 4 CONC 5; Page: 218C; Enumeration District: 272
 3 OBJE @M370@
+3 _APID 1,6742::3621265
 2 SOUR @S226@
 3 OBJE @M369@
+3 _APID 1,7218::2671550
 2 SOUR @W3ek4ErgQoOvxC5sOB5w@
 3 OBJE @M368@
+3 _APID 1,7250::1373759535
 1 SEX F
 1 FAMS @F410@
+1 NOTE _UID 6c7c21cb-031f-4817-9cfb-2fe76d7da5cf
 1 BIRT
 2 DATE ABT 1840
 2 PLAC Rensselaer, New York, USA
@@ -4051,14 +4343,18 @@
 3 PAGE Year: 1870; Census Place: Volney, Oswego, New York; Roll: M5
 4 CONC 93_1074; Page: 574B; Family History Library Film: 552573
 3 OBJE @M367@
+3 _APID 1,7163::31934899
 2 SOUR @S217@
 3 PAGE Year: 1880; Census Place: Fulton, Oswego, New York; Roll: 91
 4 CONC 5; Page: 218C; Enumeration District: 272
 3 OBJE @M370@
+3 _APID 1,6742::3621265
 2 SOUR @S226@
 3 OBJE @M369@
+3 _APID 1,7218::2671550
 2 SOUR @W3ek4ErgQoOvxC5sOB5w@
 3 OBJE @M368@
+3 _APID 1,7250::1373759535
 1 RESI
 2 DATE 1865
 2 PLAC Volney, Oswego, New York, USA
@@ -4067,6 +4363,7 @@
 4 LONG W76.3581
 2 SOUR @S226@
 3 OBJE @M369@
+3 _APID 1,7218::2671550
 2 NOTE Relation to Head of House: Wife
 1 RESI
 2 DATE 1870
@@ -4078,6 +4375,7 @@
 3 PAGE Year: 1870; Census Place: Volney, Oswego, New York; Roll: M5
 4 CONC 93_1074; Page: 574B; Family History Library Film: 552573
 3 OBJE @M367@
+3 _APID 1,7163::31934899
 2 NOTE Residence Post Office: Fulton
 1 RESI
 2 DATE 01 JUN 1875
@@ -4087,6 +4385,7 @@
 4 LONG W76.3581
 2 SOUR @W3ek4ErgQoOvxC5sOB5w@
 3 OBJE @M368@
+3 _APID 1,7250::1373759535
 2 NOTE Relation to Head: Wife
 1 RESI
 2 DATE 1880
@@ -4098,6 +4397,7 @@
 3 PAGE Year: 1880; Census Place: Fulton, Oswego, New York; Roll: 91
 4 CONC 5; Page: 218C; Enumeration District: 272
 3 OBJE @M370@
+3 _APID 1,6742::3621265
 2 NOTE Marital Status: Married; Relation to Head: Wife
 1 _XY 600.00 2150.00
 0 @I485@ INDI
@@ -4176,20 +4476,38 @@
 1 NAME unknown /Gifford/
 1 SEX M
 1 FAMS @F423@
+0 @I633@ INDI
+1 NAME [REDACTED]
+1 FAMS @F486@
 0 @I458@ INDI
 1 REFN 8c050cbb-31cb-4087-8faa-67b713cad938
 1 NAME Evelyn Virginia /Gray/
+2 SOUR @S213@
+3 PAGE Year: 1920; Census Place: Boonton Ward 3, Morris, New Jersey
+4 CONC ; Roll: T625_1060; Page: 9A; Enumeration District: 3
+3 OBJE @M513@
+3 _APID 1,6061::65894470
 2 SOUR @S224@
 3 PAGE Year: 1930; Census Place: Boonton, Morris, New Jersey; Page
 4 CONC : 4B; Enumeration District: 0003; FHL microfilm: 2341108
 3 OBJE @M493@
 3 _APID 1,6224::19864701
+2 SOUR @S221@
+3 PAGE Year: 1940; Census Place: Bound Brook, Somerset, New Jersey
+4 CONC ; Roll: m-t0627-02382; Page: 9A; Enumeration District: 18-12
+3 OBJE @M511@
+3 _APID 1,2442::136983284
 2 SOUR @S285@
 3 PAGE New Jersey State Archives; Trenton, New Jersey; Marriage Ind
 4 CONC exes; Index Type: Bride; Year Range: 1930-1935; Surname Rang
-4 CONC e: E - K; Reel Number: 31
+4 CONC e: E - K; Reel Number: 31; Evelyn Gray
 3 OBJE @M408@
 3 _APID 1,61253::992600800
+2 SOUR @S330@
+3 PAGE New Jersey State Archive; Trenton, NJ, USA; State Census o
+4 CONC f New Jersey, 1915; Reference Number: L-17; Film Number: 50
+3 OBJE @M512@
+3 _APID 1,61558::715668
 2 SOUR @S281@
 3 PAGE 1959
 3 OBJE @M295@
@@ -4213,11 +4531,26 @@
 3 MAP
 4 LATI N40.9026
 4 LONG W74.4071
+2 SOUR @S213@
+3 PAGE Year: 1920; Census Place: Boonton Ward 3, Morris, New Jersey
+4 CONC ; Roll: T625_1060; Page: 9A; Enumeration District: 3
+3 OBJE @M513@
+3 _APID 1,6061::65894470
 2 SOUR @S224@
 3 PAGE Year: 1930; Census Place: Boonton, Morris, New Jersey; Page
 4 CONC : 4B; Enumeration District: 0003; FHL microfilm: 2341108
 3 OBJE @M493@
 3 _APID 1,6224::19864701
+2 SOUR @S221@
+3 PAGE Year: 1940; Census Place: Bound Brook, Somerset, New Jersey
+4 CONC ; Roll: m-t0627-02382; Page: 9A; Enumeration District: 18-12
+3 OBJE @M511@
+3 _APID 1,2442::136983284
+2 SOUR @S330@
+3 PAGE New Jersey State Archive; Trenton, NJ, USA; State Census o
+4 CONC f New Jersey, 1915; Reference Number: L-17; Film Number: 50
+3 OBJE @M512@
+3 _APID 1,61558::715668
 2 SOUR @S215@
 3 PAGE Janet Alta Mosher
 3 _APID 1,60901::25074332
@@ -4225,6 +4558,30 @@
 3 PAGE Number: 157-26-6046; Issue State: New Jersey; Issue Date: 19
 4 CONC 51-1953
 3 _APID 1,3693::43961901
+1 RESI
+2 DATE 1915
+2 PLAC Boonton, Morris, New Jersey, USA
+3 MAP
+4 LATI N40.9026
+4 LONG W74.4071
+2 SOUR @S330@
+3 PAGE New Jersey State Archive; Trenton, NJ, USA; State Census o
+4 CONC f New Jersey, 1915; Reference Number: L-17; Film Number: 50
+3 OBJE @M512@
+3 _APID 1,61558::715668
+2 NOTE Marital Status: Single
+1 RESI
+2 DATE 1920
+2 PLAC Boonton, Morris, New Jersey, USA
+3 MAP
+4 LATI N40.9026
+4 LONG W74.4071
+2 SOUR @S213@
+3 PAGE Year: 1920; Census Place: Boonton Ward 3, Morris, New Jersey
+4 CONC ; Roll: T625_1060; Page: 9A; Enumeration District: 3
+3 OBJE @M513@
+3 _APID 1,6061::65894470
+2 NOTE Relation to Head: Daughter; Residence Marital Status: Single
 1 RESI
 2 DATE 1930
 2 PLAC Boonton, Morris, New Jersey, USA
@@ -4237,6 +4594,18 @@
 3 OBJE @M493@
 3 _APID 1,6224::19864701
 2 NOTE Marital Status: Single; Relation to Head: Daughter
+1 RESI
+2 DATE 1940
+2 PLAC Bound Brook, Somerset, New Jersey, USA
+3 MAP
+4 LATI N40.5684
+4 LONG W74.5385
+2 SOUR @S221@
+3 PAGE Year: 1940; Census Place: Bound Brook, Somerset, New Jersey
+4 CONC ; Roll: m-t0627-02382; Page: 9A; Enumeration District: 18-12
+3 OBJE @M511@
+3 _APID 1,2442::136983284
+2 NOTE Marital Status: Married; Relation to Head: Wife
 1 RESI
 2 DATE 1959
 2 PLAC Somerville; Bound Brook, New Jersey, USA
@@ -4271,6 +4640,7 @@
 2 SOUR @S283@
 3 _APID 1,1501::3500203
 2 SOUR @S302@
+3 PAGE Ruth L. Grenlie
 3 _APID 1,1500::5075703
 2 SOUR @S241@
 3 _APID 1,60525::86314738
@@ -4283,7 +4653,6 @@
 1 SEX F
 1 FAMC @F450@
 1 FAMS @F449@
-1 FAMS @F456@
 1 BIRT
 2 DATE 05 DEC 1916
 2 PLAC Eldron, Wisconsin, USA
@@ -4318,13 +4687,18 @@
 4 LONG W87.9403
 2 SOUR @S241@
 3 _APID 1,60525::86314738
+0 @I648@ INDI
+1 NAME [REDACTED]
+1 FAMS @F484@
 0 @I600@ INDI
 1 REFN a24815fc-a3b5-48c0-a72e-2e98a3e5e697
 1 NAME Lydia /Griffith/
 2 SOUR @S312@
+3 PAGE Lydia Griffith
 3 OBJE @M464@
 3 _APID 1,1062::225347
 2 SOUR @S314@
+3 PAGE Lydia Griffith
 3 OBJE @M460@
 3 _APID 1,3719::42184
 1 SEX F
@@ -4775,7 +5149,8 @@
 3 _APID 1,6742::2482127
 2 SOUR @MYPTYwXjROCnuswpONVl@
 3 PAGE Year: 1900; Census Place: Madison, Madison, New York; Page
-4 CONC : 3; Enumeration District: 0023; FHL microfilm: 1241072
+4 CONC : 3; Enumeration District: 0023; FHL microfilm: 1241072; Cor
+4 CONC nelia Lay
 3 OBJE @M453@
 3 _APID 1,7602::66523495
 2 SOUR @S213@
@@ -4822,7 +5197,8 @@
 3 _APID 1,6742::2482127
 2 SOUR @MYPTYwXjROCnuswpONVl@
 3 PAGE Year: 1900; Census Place: Madison, Madison, New York; Page
-4 CONC : 3; Enumeration District: 0023; FHL microfilm: 1241072
+4 CONC : 3; Enumeration District: 0023; FHL microfilm: 1241072; Cor
+4 CONC nelia Lay
 3 OBJE @M453@
 3 _APID 1,7602::66523495
 2 SOUR @S213@
@@ -4898,7 +5274,8 @@
 4 LONG W75.5121
 2 SOUR @MYPTYwXjROCnuswpONVl@
 3 PAGE Year: 1900; Census Place: Madison, Madison, New York; Page
-4 CONC : 3; Enumeration District: 0023; FHL microfilm: 1241072
+4 CONC : 3; Enumeration District: 0023; FHL microfilm: 1241072; Cor
+4 CONC nelia Lay
 3 OBJE @M453@
 3 _APID 1,7602::66523495
 2 NOTE Marital Status: Married; Relation to Head: Wife
@@ -4926,7 +5303,7 @@
 3 OBJE @M457@
 3 _APID 1,61535::3078516
 0 @I588@ INDI
-1 REFN aee55b77-617d-4aa9-9e6a-cb4e01bc9a02
+1 REFN 51eb4594-55cb-4ded-9dff-028fcd240e55
 1 NAME Dewitt C. /Head/
 2 SOUR @S209@
 3 PAGE Year: 1860; Census Place: Madison, Madison, New York; Roll
@@ -5191,7 +5568,9 @@
 1 REFN a9d11aab-9046-4f2d-b82e-d1e6d9f8d097
 1 NAME John /Head/
 2 SOUR @S322@
+3 PAGE John Head
 3 OBJE @M497@
+3 _APID 1,3897::66039
 1 SEX M
 1 FAMS @F447@
 1 BIRT
@@ -5536,7 +5915,18 @@
 3 OBJE @AtUG3M5QRZWkRjvHf5Qt@
 3 _APID 1,7364::4299748
 1 RESI
-2 DATE 1850
+2 DATE 27 JUL 1850
+2 PLAC Madison, Madison, New York, USA
+3 MAP
+4 LATI N42.899
+4 LONG W75.5121
+2 SOUR @S212@
+3 PAGE Year: 1850; Census Place: Madison, Madison, New York; Roll
+4 CONC : M432_527; Page: 24B; Image: 277
+3 OBJE @M451@
+3 _APID 1,8054::7054043
+1 RESI
+2 DATE 22 AUG 1850
 2 PLAC Madison, Madison, New York, USA
 3 MAP
 4 LATI N42.899
@@ -5656,13 +6046,13 @@
 2 SOUR @S305@
 3 PAGE New England Historic Genealogical Society; Boston, Massachus
 4 CONC etts; Vital Records of Dartmouth, Massachusetts to the End o
-4 CONC f the Year 1850 (typeset extract 2)
+4 CONC f the Year 1850 (typeset extract 2, Uriah Head)
 3 OBJE @M477@
 3 _APID 1,61401::222997
 2 SOUR @S305@
 3 PAGE New England Historic Genealogical Society; Boston, Massachus
 4 CONC etts; Vital Records of Dartmouth, Massachusetts to the End o
-4 CONC f the Year 1850 (typeset extract)
+4 CONC f the Year 1850 (typeset extract, Uriah Head)
 3 OBJE @M472@
 3 _APID 1,61401::90223189
 2 SOUR @S280@
@@ -5671,31 +6061,31 @@
 3 OBJE @M378@
 3 _APID 1,2101::60460161
 2 SOUR @S298@
-3 PAGE handwritten copy
-3 OBJE @M443@
-3 _APID 1,2495::6073549
-2 SOUR @S298@
-3 PAGE handwritten copy 2
+3 PAGE handwritten copy 2, Uriah Head
 3 OBJE @M470@
 3 _APID 1,2495::16066528
 2 SOUR @S298@
-3 PAGE handwritten copy 3
+3 PAGE handwritten copy 3, Uriah Head
 3 OBJE @M469@
 3 _APID 1,2495::6087523
 2 SOUR @S298@
-3 PAGE handwritten copy 4
+3 PAGE handwritten copy 4, Uriah Head
 3 OBJE @M471@
 3 _APID 1,2495::16080545
 2 SOUR @S298@
-3 PAGE original record
-3 OBJE @M466@
-3 _APID 1,2495::6017489
+3 PAGE handwritten copy, Uriah Head
+3 OBJE @M443@
+3 _APID 1,2495::6073549
 2 SOUR @S298@
-3 PAGE original record 2
+3 PAGE original record 2, Uriah Head
 3 OBJE @M475@
 3 _APID 1,2495::6114822
 2 SOUR @S298@
-3 PAGE typeset extract
+3 PAGE original record, Uriah Head
+3 OBJE @M466@
+3 _APID 1,2495::6017489
+2 SOUR @S298@
+3 PAGE typeset extract, Uriah Head
 3 OBJE @M489@
 3 _APID 1,2495::80635746
 2 SOUR @S306@
@@ -5829,6 +6219,7 @@
 1 REFN 6a606b40-b2d3-4bd0-b66c-7257b49694ba
 1 NAME Abigail /Herriman/
 2 SOUR @S310@
+3 PAGE Abigail Herriman
 3 _APID 1,7854::401540
 1 SEX F
 1 FAMS @F444@
@@ -6372,10 +6763,11 @@
 3 PAGE Michigan Department of Community Health, Division of Vital R
 4 CONC ecords and Health Statistics; Lansing, MI, USA; Michigan, Ma
 4 CONC rriage Records, 1867-1952; Film: 17; Film Description: 187
-4 CONC 8 Washtenaw-1879 Lake
+4 CONC 8 Washtenaw-1879 Lake; Ward H Hogeboom
 3 OBJE @M352@
 3 _APID 1,9093::887520
 2 SOUR @S271@
+3 PAGE Ward H Hogeboom
 3 _APID 1,70330::231756
 1 SEX M
 1 FAMS @F405@
@@ -6391,7 +6783,7 @@
 3 PAGE Michigan Department of Community Health, Division of Vital R
 4 CONC ecords and Health Statistics; Lansing, MI, USA; Michigan, Ma
 4 CONC rriage Records, 1867-1952; Film: 17; Film Description: 187
-4 CONC 8 Washtenaw-1879 Lake
+4 CONC 8 Washtenaw-1879 Lake; Ward H Hogeboom
 3 OBJE @M352@
 3 _APID 1,9093::887520
 1 RESI
@@ -6415,7 +6807,7 @@
 3 PAGE Michigan Department of Community Health, Division of Vital R
 4 CONC ecords and Health Statistics; Lansing, MI, USA; Michigan, Ma
 4 CONC rriage Records, 1867-1952; Film: 17; Film Description: 187
-4 CONC 8 Washtenaw-1879 Lake
+4 CONC 8 Washtenaw-1879 Lake; Ward H Hogeboom
 3 OBJE @M352@
 3 _APID 1,9093::887520
 1 _XY 2150.00 1475.00
@@ -6423,9 +6815,10 @@
 1 REFN d9ca3c7e-4033-4f20-8e6f-6ab295a9fb07
 1 NAME Trudy Darlene /Houston/
 2 SOUR @S308@
-3 PAGE Trudy (spouse of Norman Beckwith Mosher)
+3 PAGE Trudy (spouse of Norman Beckwith Mosher), 1996
 3 _APID 1,8837::8577925
 2 SOUR @S284@
+3 PAGE Trudy Darlene Houston, 1990
 3 _APID 1,8784::6649231
 1 SEX F
 1 FAMS @F390@
@@ -6446,13 +6839,13 @@
 2 SOUR @S305@
 3 PAGE New England Historic Genealogical Society; Boston, Massachus
 4 CONC etts; Vital Records of Dartmouth, Massachusetts to the End o
-4 CONC f the Year 1850 (typeset extract 2)
+4 CONC f the Year 1850 (typeset extract 2, Betsy Howland)
 3 OBJE @M477@
 3 _APID 1,61401::90222997
 2 SOUR @S305@
 3 PAGE New England Historic Genealogical Society; Boston, Massachus
 4 CONC etts; Vital Records of Dartmouth, Massachusetts to the End o
-4 CONC f the Year 1850 (typeset extract)
+4 CONC f the Year 1850 (typeset extract, Betsy Howland)
 3 OBJE @M472@
 3 _APID 1,61401::223189
 2 SOUR @S280@
@@ -6461,31 +6854,31 @@
 3 OBJE @M378@
 3 _APID 1,2101::75460161
 2 SOUR @S298@
-3 PAGE handwritten copy
-3 OBJE @M443@
-3 _APID 1,2495::16066283
-2 SOUR @S298@
-3 PAGE handwritten copy 2
+3 PAGE handwritten copy 2, Betsey Howland
 3 OBJE @M470@
 3 _APID 1,2495::6073794
 2 SOUR @S298@
-3 PAGE handwritten copy 3
+3 PAGE handwritten copy 3, Betsy Howland
 3 OBJE @M469@
 3 _APID 1,2495::16080257
 2 SOUR @S298@
-3 PAGE handwritten copy 4
+3 PAGE handwritten copy 4, Betsy Howland
 3 OBJE @M471@
 3 _APID 1,2495::6087811
 2 SOUR @S298@
-3 PAGE original record
-3 OBJE @M466@
-3 _APID 1,2495::16010223
+3 PAGE handwritten copy, Betsey Howland
+3 OBJE @M443@
+3 _APID 1,2495::16066283
 2 SOUR @S298@
-3 PAGE original record 2
+3 PAGE original record 2, Betsy Howland
 3 OBJE @M475@
 3 _APID 1,2495::16107556
 2 SOUR @S298@
-3 PAGE typeset extract
+3 PAGE original record, Betsey Howland
+3 OBJE @M466@
+3 _APID 1,2495::16010223
+2 SOUR @S298@
+3 PAGE typeset extract, Betsy Howland
 3 OBJE @M476@
 3 _APID 1,2495::80633281
 2 SOUR @S211@
@@ -6581,6 +6974,7 @@
 1 REFN 44704487-a799-4376-adff-fdbd0fe93e9d
 1 NAME John Thomas /Hurst/
 2 SOUR @S308@
+3 PAGE John Thomas Hurst
 3 _APID 1,8837::2677819
 1 SEX M
 1 FAMS @F442@
@@ -6595,7 +6989,7 @@
 3 _APID 1,2442::70523883
 2 SOUR @S304@
 3 PAGE California Department of Public Health, courtesy of www.vita
-4 CONC lsearch-worldwide.com. Digital Images.
+4 CONC lsearch-worldwide.com. Digital Images. Helen L Irvin.
 3 OBJE @M468@
 3 _APID 1,61460::788711
 2 SOUR @S281@
@@ -6711,7 +7105,7 @@
 2 SOUR @MYPTYwXjROCnuswpONVl@
 3 PAGE Year: 1900; Census Place: Grand Rapids Ward 4, Kent, Michiga
 4 CONC n; Page: 12; Enumeration District: 0058; FHL microfilm: 1240
-4 CONC 722
+4 CONC 722; Charles O Jeffords
 3 OBJE @M364@
 3 _APID 1,7602::64527666
 2 SOUR @S222@
@@ -6746,7 +7140,7 @@
 2 SOUR @MYPTYwXjROCnuswpONVl@
 3 PAGE Year: 1900; Census Place: Grand Rapids Ward 4, Kent, Michiga
 4 CONC n; Page: 12; Enumeration District: 0058; FHL microfilm: 1240
-4 CONC 722
+4 CONC 722; Charles O Jeffords
 3 OBJE @M364@
 3 _APID 1,7602::64527666
 2 SOUR @S222@
@@ -6771,7 +7165,7 @@
 2 SOUR @MYPTYwXjROCnuswpONVl@
 3 PAGE Year: 1900; Census Place: Grand Rapids Ward 4, Kent, Michiga
 4 CONC n; Page: 12; Enumeration District: 0058; FHL microfilm: 1240
-4 CONC 722
+4 CONC 722; Charles O Jeffords
 3 OBJE @M364@
 3 _APID 1,7602::64527666
 2 NOTE Marital Status: Married; Relation to Head: Head
@@ -6912,7 +7306,11 @@
 3 OBJE @M392@
 3 _APID 1,3212::1542538
 2 SOUR @S241@
+3 PAGE Orrilla J Morway
+3 _APID 1,60525::160826825
 2 SOUR @S241@
+3 PAGE Prilla J. Morway
+3 _APID 1,60525::136333976
 1 SEX F
 1 FAMC @F414@
 1 FAMS @F412@
@@ -6967,6 +7365,7 @@
 3 OBJE @M392@
 3 _APID 1,3212::1542538
 2 SOUR @S241@
+3 PAGE Orrilla J Morway
 3 _APID 1,60525::160826825
 1 RESI
 2 DATE 1850
@@ -7082,6 +7481,7 @@
 3 OBJE @M397@
 3 _APID 1,2101::973055
 2 SOUR @S241@
+3 PAGE Prilla J. Morway
 3 _APID 1,60525::136333976
 1 BURI
 2 PLAC Fulton, Oswego, New York, USA
@@ -7094,8 +7494,14 @@
 4 LATI N42.337
 4 LONG W71.2092
 2 SOUR @S241@
+3 PAGE Prilla J. Morway
 3 _APID 1,60525::136333976
 1 _XY 650.00 2075.00
+0 @I656@ INDI
+1 REFN 87a53220-f7c4-45ac-a291-f3184c025c55
+1 NAME /Johnson/
+1 SEX M
+1 FAMS @F488@
 0 @zlwAoaDXRNGXOAHagIRm@ INDI
 1 REFN 6f50193f-3121-44a2-b7be-68e71eab0975
 1 NAME Marjorie /Johnson/
@@ -7130,6 +7536,7 @@
 3 OBJE @M434@
 3 _APID 1,7884::13056616
 2 SOUR @S291@
+3 PAGE Salem J Johnson
 3 _APID 1,2561::257222
 2 SOUR @S290@
 3 PAGE 1905 census
@@ -7137,7 +7544,6 @@
 3 _APID 1,1058::316868
 1 SEX M
 1 FAMS @F437@
-1 FAMS @F439@
 1 BIRT
 2 DATE ABT 1870
 2 PLAC Minnesota, USA
@@ -7390,7 +7796,8 @@
 3 _APID 1,6742::2253874
 2 SOUR @MYPTYwXjROCnuswpONVl@
 3 PAGE Year: 1900; Census Place: Madison, Madison, New York; Page
-4 CONC : 3; Enumeration District: 0023; FHL microfilm: 1241072
+4 CONC : 3; Enumeration District: 0023; FHL microfilm: 1241072; Le
+4 CONC e Lay
 3 OBJE @M453@
 3 _APID 1,7602::66523494
 2 SOUR @S213@
@@ -7413,7 +7820,8 @@
 3 _APID 1,6742::2253874
 2 SOUR @MYPTYwXjROCnuswpONVl@
 3 PAGE Year: 1900; Census Place: Madison, Madison, New York; Page
-4 CONC : 3; Enumeration District: 0023; FHL microfilm: 1241072
+4 CONC : 3; Enumeration District: 0023; FHL microfilm: 1241072; Le
+4 CONC e Lay
 3 OBJE @M453@
 3 _APID 1,7602::66523494
 2 SOUR @S213@
@@ -7441,7 +7849,8 @@
 4 LONG W75.5121
 2 SOUR @MYPTYwXjROCnuswpONVl@
 3 PAGE Year: 1900; Census Place: Madison, Madison, New York; Page
-4 CONC : 3; Enumeration District: 0023; FHL microfilm: 1241072
+4 CONC : 3; Enumeration District: 0023; FHL microfilm: 1241072; Le
+4 CONC e Lay
 3 OBJE @M453@
 3 _APID 1,7602::66523494
 2 NOTE Marital Status: Married; Relation to Head: Head
@@ -7618,11 +8027,6 @@
 4 CONC : 1241071
 3 OBJE @KBecXNqQSnqeQiyjHuhN@
 3 _APID 1,7602::55840802
-2 SOUR @S203@
-3 PAGE New York State Department of Health; Albany, NY, USA; New Yo
-4 CONC rk State Marriage Index
-3 OBJE @M374@
-3 _APID 1,61632::1374326
 2 SOUR @S208@
 3 OBJE @M331@
 3 _APID 1,61377::1200142590
@@ -9921,14 +10325,25 @@
 4 CONC etts; Vital Records of Sturbridge, Massachusetts to the Yea
 4 CONC r 1850
 3 OBJE @M447@
+3 _APID 1,61401::30453817
 1 SEX F
 1 FAMS @F443@
+1 NOTE _UID a0ca07c3-772e-490b-a63f-9f301000ff8b
 0 @23SIWBEDQcSc1zULNk3d@ INDI
 1 REFN fd854473-9d1e-49f4-b197-577edd033cc3
 1 NAME Thomas /Mason/
 1 SEX M
 1 FAMS @ln2BUWTmTKyC7MX14UKP@
 1 _XY 8825.00 0.00
+0 @I647@ INDI
+1 NAME [REDACTED]
+1 FAMS @F483@
+1 FAMS @F484@
+0 @I649@ INDI
+1 REFN f9d5037c-d1fa-4936-a26b-c94c0edd8bbd
+1 NAME Roderick /Mathis/
+1 SEX M
+1 FAMC @F483@
 0 @zM94z8psRHiOsbsSw1Ll@ INDI
 1 REFN bab27e3e-d5e2-47e9-85ae-2e35d3a533fe
 1 NAME Abigail /Maxfield/
@@ -11438,7 +11853,8 @@
 3 _APID 1,7667::49441215
 2 SOUR @MYPTYwXjROCnuswpONVl@
 3 PAGE Year: 1900; Census Place: Hamilton, Madison, New York; Page
-4 CONC : 13; Enumeration District: 0014; FHL microfilm: 1241071
+4 CONC : 13; Enumeration District: 0014; FHL microfilm: 1241071; Hi
+4 CONC ram H Mcgraw
 3 OBJE @M407@
 3 _APID 1,7602::55840789
 2 SOUR @S222@
@@ -11482,7 +11898,8 @@
 3 _APID 1,7667::49441215
 2 SOUR @MYPTYwXjROCnuswpONVl@
 3 PAGE Year: 1900; Census Place: Hamilton, Madison, New York; Page
-4 CONC : 13; Enumeration District: 0014; FHL microfilm: 1241071
+4 CONC : 13; Enumeration District: 0014; FHL microfilm: 1241071; Hi
+4 CONC ram H Mcgraw
 3 OBJE @M407@
 3 _APID 1,7602::55840789
 2 SOUR @S222@
@@ -11556,7 +11973,8 @@
 4 LONG W75.5446
 2 SOUR @MYPTYwXjROCnuswpONVl@
 3 PAGE Year: 1900; Census Place: Hamilton, Madison, New York; Page
-4 CONC : 13; Enumeration District: 0014; FHL microfilm: 1241071
+4 CONC : 13; Enumeration District: 0014; FHL microfilm: 1241071; Hi
+4 CONC ram H Mcgraw
 3 OBJE @M407@
 3 _APID 1,7602::55840789
 2 NOTE Marital Status: Married; Relation to Head: Head
@@ -11643,7 +12061,7 @@
 3 _APID 1,3212::3127329
 2 SOUR @XkYfWXOxTRycLRJJyxNy@
 3 PAGE Source number: 2557.007; Source type: Family group sheet, FG
-4 CONC SE, listed as parents; Number of Pages: 1
+4 CONC SE, listed as parents; Number of Pages: 1; William Mcgraw
 3 _APID 1,7836::811675
 2 SOUR @S241@
 3 _APID 1,60525::43744501
@@ -11689,7 +12107,7 @@
 3 _APID 1,3212::3127329
 2 SOUR @XkYfWXOxTRycLRJJyxNy@
 3 PAGE Source number: 2557.007; Source type: Family group sheet, FG
-4 CONC SE, listed as parents; Number of Pages: 1
+4 CONC SE, listed as parents; Number of Pages: 1; William Mcgraw
 3 _APID 1,7836::811675
 2 SOUR @S241@
 3 _APID 1,60525::43744501
@@ -11822,7 +12240,8 @@
 1 NAME Lisette Sarah Josephine /Meyer/
 2 SOUR @MYPTYwXjROCnuswpONVl@
 3 PAGE Year: 1900; Census Place: Hamilton, Madison, New York; Page
-4 CONC : 13; Enumeration District: 0014; FHL microfilm: 1241071
+4 CONC : 13; Enumeration District: 0014; FHL microfilm: 1241071; Sa
+4 CONC rah J Mcgraw
 3 OBJE @M407@
 3 _APID 1,7602::55840790
 2 SOUR @S222@
@@ -11858,7 +12277,8 @@
 2 PLAC Mecklenburg-Schwerin, Germany
 2 SOUR @MYPTYwXjROCnuswpONVl@
 3 PAGE Year: 1900; Census Place: Hamilton, Madison, New York; Page
-4 CONC : 13; Enumeration District: 0014; FHL microfilm: 1241071
+4 CONC : 13; Enumeration District: 0014; FHL microfilm: 1241071; Sa
+4 CONC rah J Mcgraw
 3 OBJE @M407@
 3 _APID 1,7602::55840790
 2 SOUR @S222@
@@ -11883,7 +12303,8 @@
 2 DATE 1854
 2 SOUR @MYPTYwXjROCnuswpONVl@
 3 PAGE Year: 1900; Census Place: Hamilton, Madison, New York; Page
-4 CONC : 13; Enumeration District: 0014; FHL microfilm: 1241071
+4 CONC : 13; Enumeration District: 0014; FHL microfilm: 1241071; Sa
+4 CONC rah J Mcgraw
 3 OBJE @M407@
 3 _APID 1,7602::55840790
 1 RESI
@@ -11904,7 +12325,8 @@
 4 LONG W75.5446
 2 SOUR @MYPTYwXjROCnuswpONVl@
 3 PAGE Year: 1900; Census Place: Hamilton, Madison, New York; Page
-4 CONC : 13; Enumeration District: 0014; FHL microfilm: 1241071
+4 CONC : 13; Enumeration District: 0014; FHL microfilm: 1241071; Sa
+4 CONC rah J Mcgraw
 3 OBJE @M407@
 3 _APID 1,7602::55840790
 2 NOTE Marital Status: Married; Relation to Head: Wife
@@ -16258,7 +16680,7 @@
 2 SOUR @MYPTYwXjROCnuswpONVl@
 3 PAGE Year: 1900; Census Place: Minneapolis Ward 8, Hennepin, Minn
 4 CONC esota; Page: 12; Enumeration District: 0089; FHL microfilm
-4 CONC : 1240768
+4 CONC : 1240768; A G Merner
 3 OBJE @M438@
 3 _APID 1,7602::35902571
 2 SOUR @S213@
@@ -16312,13 +16734,14 @@
 4 CONC ox Number: 218
 3 OBJE @M441@
 3 _APID 1,61174::7921774
-2 SOUR @S296@
+2 SOUR @S273@
 3 PAGE National Archives and Records Administration (NARA); Washing
 4 CONC ton, D.C.; Consolidated Lists of Civil War Draft Registratio
 4 CONC n Records (Provost Marshal General's Bureau; Consolidated En
 4 CONC rollment Lists, 1863-1865); Record Group: 110, Records of th
 4 CONC e Provost Marsha
 3 OBJE @M440@
+3 _APID 1,1666::2682218
 1 SEX M
 1 FAMC @F408@
 1 FAMS @F428@
@@ -16352,7 +16775,7 @@
 2 SOUR @MYPTYwXjROCnuswpONVl@
 3 PAGE Year: 1900; Census Place: Minneapolis Ward 8, Hennepin, Minn
 4 CONC esota; Page: 12; Enumeration District: 0089; FHL microfilm
-4 CONC : 1240768
+4 CONC : 1240768; A G Merner
 3 OBJE @M438@
 3 _APID 1,7602::35902571
 2 SOUR @S213@
@@ -16375,13 +16798,14 @@
 3 PAGE 1905 census
 3 OBJE @M433@
 3 _APID 1,1058::316864
-2 SOUR @S296@
+2 SOUR @S273@
 3 PAGE National Archives and Records Administration (NARA); Washing
 4 CONC ton, D.C.; Consolidated Lists of Civil War Draft Registratio
 4 CONC n Records (Provost Marshal General's Bureau; Consolidated En
 4 CONC rollment Lists, 1863-1865); Record Group: 110, Records of th
 4 CONC e Provost Marsha
 3 OBJE @M440@
+3 _APID 1,1666::2682218
 1 RESI
 2 DATE 1850
 2 PLAC Madison, Madison, New York, USA
@@ -16411,13 +16835,14 @@
 3 MAP
 4 LATI N39.7333
 4 LONG W88.5
-2 SOUR @S296@
+2 SOUR @S273@
 3 PAGE National Archives and Records Administration (NARA); Washing
 4 CONC ton, D.C.; Consolidated Lists of Civil War Draft Registratio
 4 CONC n Records (Provost Marshal General's Bureau; Consolidated En
 4 CONC rollment Lists, 1863-1865); Record Group: 110, Records of th
 4 CONC e Provost Marsha
 3 OBJE @M440@
+3 _APID 1,1666::2682218
 2 NOTE Marital Status: Unmarried
 1 RESI
 2 DATE 1870
@@ -16487,7 +16912,7 @@
 2 SOUR @MYPTYwXjROCnuswpONVl@
 3 PAGE Year: 1900; Census Place: Minneapolis Ward 8, Hennepin, Minn
 4 CONC esota; Page: 12; Enumeration District: 0089; FHL microfilm
-4 CONC : 1240768
+4 CONC : 1240768; A G Merner
 3 OBJE @M438@
 3 _APID 1,7602::35902571
 2 NOTE Marital Status: Married; Relation to Head: Head
@@ -16692,6 +17117,16 @@
 4 CONC l: T627_2624; Page: 5A; Enumeration District: 27-16
 3 OBJE @M294@
 3 _APID 1,2442::11192948
+2 SOUR @S233@
+3 PAGE New York State Department of Health; Albany, NY, USA; New Yo
+4 CONC rk State Birth Index
+3 OBJE @M525@
+3 _APID 1,61667::2216736
+2 SOUR @S203@
+3 PAGE New York State Department of Health; Albany, NY, USA; New Yo
+4 CONC rk State Marriage Index; Alta E. Mosher
+3 OBJE @M524@
+3 _APID 1,61632::7424913
 2 SOUR @IatrsKHUQdmGOYci7sP2@
 3 PAGE New York State Archives; Albany, New York; State Populatio
 4 CONC n Census Schedules, 1925; Election District: 02; Assembly Di
@@ -16699,7 +17134,43 @@
 3 OBJE @m1x2HapLT7ahZoqmUAVC@
 3 _APID 1,2704::20748511
 2 SOUR @S247@
+3 PAGE 13 College St
+3 _APID 1,1732::264342261
+2 SOUR @S247@
+3 PAGE Benedict Cors
 3 _APID 1,1732::264393796
+2 SOUR @S247@
+3 PAGE Pratts Rd
+3 _APID 1,1732::264395467
+2 SOUR @S247@
+3 PAGE Route 12b
+3 _APID 1,1732::264395852
+2 SOUR @S331@
+3 PAGE Publication Date: 12/ May/ 2015; Publication Place: Portland
+4 CONC , Oregon, USA; URL: http://www.obitsforlife.com/obituary/102
+4 CONC 9832/Benedict-Edwin.php ; Alta E. Mosher (entry in husband'
+4 CONC s record)
+3 _APID 1,2190::143737406
+2 SOUR @S241@
+3 _APID 1,60525::47590259
+2 SOUR @S317@
+3 PAGE Publication Date: 5/ Feb/ 2015; Publication Place: Utica, Ne
+4 CONC w York, USA; URL: http://www.legacy.com/obituaries/uticaod/o
+4 CONC bituary.aspx?n=edwin-jeril-benedict&amp;pid=174066487&amp;fh
+4 CONC id=22225 ; Alta E. Mosher (entry in husband's record)
+3 _APID 1,7545::116143937
+2 SOUR @S329@
+3 PAGE "U.S., School Yearbooks, 1880-2012"; School Name: Hamilton H
+4 CONC igh School; Year: 1930
+3 OBJE @M522@
+3 _APID 1,1265::364971193
+2 SOUR @S329@
+3 PAGE "U.S., School Yearbooks, 1880-2012"; School Name: Hamilton H
+4 CONC igh School; Year: 1935
+3 OBJE @M526@
+3 _APID 1,1265::181600437
+2 SOUR @S215@
+3 _APID 1,60901::33776894
 2 SOUR @yAMTVEqOTiKCsMjPyXmb@
 3 PAGE Number: 105-14-7333; Issue State: New York; Issue Date: Befo
 4 CONC re 1951
@@ -16707,10 +17178,12 @@
 1 SEX F
 1 FAMC @bDNq0ruKQTShQyuD99jm@
 1 FAMS @F361@
+1 OBJE @M503@
+1 OBJE @M502@
 1 NOTE _XY 1481 228  _UID b7b0516c-904a-434c-a23b-a4d4a5cd2238
 1 BIRT
 2 DATE 10 SEP 1917
-2 PLAC Bartlett Road, Lebanon, Madison, NY, USA
+2 PLAC Bartlett Road, Lebanon, Madison, New York, USA
 2 SOUR @S213@
 3 PAGE Year: 1920; Census Place: Lebanon, Madison, New York
 3 OBJE @nWMnQE71Q4SJcs1lrLsg@
@@ -16726,6 +17199,11 @@
 4 CONC l: T627_2624; Page: 5A; Enumeration District: 27-16
 3 OBJE @M294@
 3 _APID 1,2442::11192948
+2 SOUR @S233@
+3 PAGE New York State Department of Health; Albany, NY, USA; New Yo
+4 CONC rk State Birth Index
+3 OBJE @M525@
+3 _APID 1,61667::2216736
 2 SOUR @IatrsKHUQdmGOYci7sP2@
 3 PAGE New York State Archives; Albany, New York; State Populatio
 4 CONC n Census Schedules, 1925; Election District: 02; Assembly Di
@@ -16733,7 +17211,17 @@
 3 OBJE @m1x2HapLT7ahZoqmUAVC@
 3 _APID 1,2704::20748511
 2 SOUR @S247@
+3 PAGE Benedict Cors
 3 _APID 1,1732::264393796
+2 SOUR @S241@
+3 _APID 1,60525::47590259
+2 SOUR @S329@
+3 PAGE "U.S., School Yearbooks, 1880-2012"; School Name: Hamilton H
+4 CONC igh School; Year: 1930
+3 OBJE @M522@
+3 _APID 1,1265::364971193
+2 SOUR @S215@
+3 _APID 1,60901::33776894
 2 SOUR @yAMTVEqOTiKCsMjPyXmb@
 3 PAGE Number: 105-14-7333; Issue State: New York; Issue Date: Befo
 4 CONC re 1951
@@ -16748,67 +17236,122 @@
 3 PAGE Year: 1920; Census Place: Lebanon, Madison, New York
 3 OBJE @nWMnQE71Q4SJcs1lrLsg@
 3 _APID 1,6061::19071340
-2 NOTE Age: 2Age: 2 3/12; Marital Status: Single; Relation to Hea
-3 CONC d of House: Daughter
+2 NOTE Age: 2 3/12; Marital Status: Single; Relation to Head of Hou
+3 CONC se: Daughter
 1 RESI
 2 DATE 01 JUN 1925
-2 PLAC Madison, Madison, New York, United States
+2 PLAC Madison, Madison, New York, USA
+3 MAP
+4 LATI N42.899
+4 LONG W75.5121
 2 SOUR @IatrsKHUQdmGOYci7sP2@
 3 PAGE New York State Archives; Albany, New York; State Populatio
 4 CONC n Census Schedules, 1925; Election District: 02; Assembly Di
 4 CONC strict: 01; City: Madison; County: Madison; Page: 4
 3 OBJE @m1x2HapLT7ahZoqmUAVC@
 3 _APID 1,2704::20748511
-2 NOTE Age: 07Relation to Head of House: Daughter
+2 NOTE Age: 7; Relation to Head of House: Daughter
 1 RESI
 2 DATE 1930
-2 PLAC Madison, Madison, New York
+2 PLAC Madison, Madison, New York, USA
+3 MAP
+4 LATI N42.899
+4 LONG W75.5121
 2 SOUR @S224@
 3 PAGE Year: 1930; Census Place: Madison, Madison, New York; Roll
 4 CONC : 1446; Page: 5B; Enumeration District: 30; Image: 194.0; FH
 4 CONC L microfilm: 2341181
 3 OBJE @uLmw0HMlTkCkGxl0UgZO@
 3 _APID 1,6224::40867752
-2 NOTE Age: 12Marital Status: Single; Relation to Head of House: Da
-3 CONC ughter
+2 NOTE Age: 12; Marital Status: Single; Relation to Head of House
+3 CONC : Daughter
+1 EDUC
+2 DATE 1930
+2 PLAC Hamilton High School, Hamilton, Madison, New York, USA
+2 SOUR @S329@
+3 PAGE "U.S., School Yearbooks, 1880-2012"; School Name: Hamilton H
+4 CONC igh School; Year: 1930
+3 OBJE @M522@
+3 _APID 1,1265::364971193
+1 EDUC
+2 DATE 1935
+2 PLAC Hamilton High School, Hamilton, Madison, New York, USA
+2 SOUR @S329@
+3 PAGE "U.S., School Yearbooks, 1880-2012"; School Name: Hamilton H
+4 CONC igh School; Year: 1935
+3 OBJE @M526@
+3 _APID 1,1265::181600437
 1 RESI
 2 DATE 1935
-2 PLAC Hamilton, New York
+2 PLAC Hamilton, Madison, New York, USA
+3 MAP
+4 LATI N42.827
+4 LONG W75.5446
 2 SOUR @S221@
 3 PAGE Year: 1940; Census Place: Georgetown, Madison, New York; Rol
 4 CONC l: T627_2624; Page: 5A; Enumeration District: 27-16
 3 OBJE @M294@
 3 _APID 1,2442::11192948
 2 SOUR @S247@
+3 PAGE Benedict Cors
 3 _APID 1,1732::264393796
+2 SOUR @S247@
+3 PAGE Route 12b
+3 _APID 1,1732::264395852
 1 RESI
 2 DATE 01 APR 1940
-2 PLAC Georgetown, Madison, New York, United States
+2 PLAC Georgetown, Madison, New York, USA
+3 MAP
+4 LATI N42.7683
+4 LONG W75.7369
 2 SOUR @S221@
 3 PAGE Year: 1940; Census Place: Georgetown, Madison, New York; Rol
 4 CONC l: T627_2624; Page: 5A; Enumeration District: 27-16
 3 OBJE @M294@
 3 _APID 1,2442::11192948
-2 NOTE Age: 21Marital Status: Married; Relation to Head of House: D
-3 CONC aughter-in-law
+2 NOTE Age: 21; Marital Status: Married; Relation to Head of House
+3 CONC : Daughter-in-law
+1 EVEN
+2 TYPE Civil
+2 DATE ABT 1950
+2 PLAC New York, USA
+3 MAP
+4 LATI N42.7531
+4 LONG W74.2224
+2 SOUR @yAMTVEqOTiKCsMjPyXmb@
+3 PAGE Number: 105-14-7333; Issue State: New York; Issue Date: Befo
+4 CONC re 1951
+3 _APID 1,3693::4119891
 1 DEAT Age at Death: 77
 2 DATE 02 AUG 1995
 2 PLAC Hamilton, Madison, New York, USA
 3 MAP
 4 LATI N42.827
 4 LONG W75.5446
+2 SOUR @S241@
+3 _APID 1,60525::47590259
+2 SOUR @S215@
+3 _APID 1,60901::33776894
 2 SOUR @yAMTVEqOTiKCsMjPyXmb@
 3 PAGE Number: 105-14-7333; Issue State: New York; Issue Date: Befo
 4 CONC re 1951
 3 _APID 1,3693::4119891
-1 EVEN
-2 TYPE Civil
-2 PLAC New York
-2 SOUR @yAMTVEqOTiKCsMjPyXmb@
-3 PAGE Number: 105-14-7333; Issue State: New York; Issue Date: Befo
-4 CONC re 1951
-3 _APID 1,3693::4119891
+1 BURI
+2 PLAC Woodlawn Cemetery, Hamilton, Madison, New York, USA
+2 SOUR @S241@
+3 _APID 1,60525::47590259
+1 RESI
+2 PLAC 13 College Street, Eaton, Madison, New York, USA
+2 SOUR @S247@
+3 PAGE 13 College St
+3 _APID 1,1732::264342261
+1 RESI
+2 PLAC Pratts Road, Hamilton, Madison, New York, USA
+2 SOUR @S247@
+3 PAGE Pratts Rd
+3 _APID 1,1732::264395467
 1 _XY 3500.00 2425.00
+1 _PHOTO @M503@
 0 @tA7xtAR0SvGIEATuaE5i@ INDI
 1 REFN ea8c1822-b930-402d-b2a3-d6aa2fc9bd37
 1 NAME Ann /Mosher/
@@ -16837,7 +17380,7 @@
 1 NAME Arminda /Mosher/
 2 SOUR @XkYfWXOxTRycLRJJyxNy@
 3 PAGE Source number: 2557.007; Source type: Family group sheet, FG
-4 CONC SE, listed as parents; Number of Pages: 1
+4 CONC SE, listed as parents; Number of Pages: 1; Arminda Mosher
 3 _APID 1,7836::867207
 1 NAME Amanda /Mosher/
 2 SOUR @S212@
@@ -16869,7 +17412,7 @@
 3 _APID 1,7181::1655651886
 2 SOUR @XkYfWXOxTRycLRJJyxNy@
 3 PAGE Source number: 2557.007; Source type: Family group sheet, FG
-4 CONC SE, listed as parents; Number of Pages: 1
+4 CONC SE, listed as parents; Number of Pages: 1; Arminda Mosher
 3 _APID 1,7836::867207
 1 RESI
 2 DATE 1850
@@ -16894,10 +17437,9 @@
 2 NOTE Relation to Head: Wife
 1 _XY 1450.00 1900.00
 0 @I539@ INDI
-1 REFN 96d091bc-eb16-45fb-9bf5-e74c646f452b
-1 NAME Ashley /Mosher/
-1 SEX F
+1 NAME [REDACTED]
 1 FAMC @F430@
+1 FAMS @F488@
 0 @I456@ INDI
 1 REFN 8adaba8d-effd-4d7a-b7a7-2a566737d15f
 1 NAME Barry Rexford /Mosher/
@@ -16933,7 +17475,7 @@
 3 _APID 1,5180::8055044
 2 SOUR @S203@
 3 PAGE New York State Department of Health; Albany, NY, USA; New Yo
-4 CONC rk State Marriage Index
+4 CONC rk State Marriage Index; Beatrice A. Mosher
 3 OBJE @M494@
 3 _APID 1,61632::4202924
 2 SOUR @IatrsKHUQdmGOYci7sP2@
@@ -16953,7 +17495,6 @@
 1 FAMC @vI58j6lGTpKJxvAR6gKB@
 1 FAMS @F354@
 1 OBJE @M446@
-1 NOTE _XY 148 228  _UID e2187a58-1a0c-44f1-a1c4-5097ce57e70b
 1 BIRT
 2 DATE 25 JUL 1907
 2 PLAC New York, USA
@@ -17019,7 +17560,10 @@
 3 CONC ughter
 1 RESI
 2 DATE 01 JUN 1925
-2 PLAC Madison, Madison, New York, United States
+2 PLAC Madison, Madison, New York, USA
+3 MAP
+4 LATI N42.899
+4 LONG W75.5121
 2 SOUR @IatrsKHUQdmGOYci7sP2@
 3 PAGE New York State Archives; Albany, New York; State Populatio
 4 CONC n Census Schedules, 1925; Election District: 01; Assembly Di
@@ -17430,6 +17974,7 @@
 2 SOUR @MYPTYwXjROCnuswpONVl@
 3 PAGE Year: 1900; Census Place: Chicago Ward 12, Cook, Illinois; P
 4 CONC age: 2; Enumeration District: 0347; FHL microfilm: 1240259
+4 CONC ; Chas Mosher
 3 OBJE @M430@
 3 _APID 1,7602::10592661
 2 SOUR @S222@
@@ -17478,6 +18023,7 @@
 2 SOUR @MYPTYwXjROCnuswpONVl@
 3 PAGE Year: 1900; Census Place: Chicago Ward 12, Cook, Illinois; P
 4 CONC age: 2; Enumeration District: 0347; FHL microfilm: 1240259
+4 CONC ; Chas Mosher
 3 OBJE @M430@
 3 _APID 1,7602::10592661
 2 SOUR @S222@
@@ -17538,6 +18084,7 @@
 2 SOUR @MYPTYwXjROCnuswpONVl@
 3 PAGE Year: 1900; Census Place: Chicago Ward 12, Cook, Illinois; P
 4 CONC age: 2; Enumeration District: 0347; FHL microfilm: 1240259
+4 CONC ; Chas Mosher
 3 OBJE @M430@
 3 _APID 1,7602::10592661
 2 NOTE Marital Status: Married; Relation to Head: Head
@@ -17602,6 +18149,7 @@
 4 CONC ce System, 147; Box: 1260
 3 _APID 1,2238::40016833
 2 SOUR @S319@
+3 _APID 1,2441::3623700
 2 SOUR @S303@
 3 PAGE Number: 330-18-3175; Issue State: Illinois; Issue Date: Befo
 4 CONC re 1951
@@ -17641,6 +18189,7 @@
 4 CONC ce System, 147; Box: 1260
 3 _APID 1,2238::40016833
 2 SOUR @S319@
+3 _APID 1,2441::3623700
 2 SOUR @S303@
 3 PAGE Number: 330-18-3175; Issue State: Illinois; Issue Date: Befo
 4 CONC re 1951
@@ -17679,6 +18228,7 @@
 2 TYPE military
 2 DATE 01 JUL 1943
 2 SOUR @S319@
+3 _APID 1,2441::3623700
 1 DEAT
 2 DATE 12 OCT 1975
 2 PLAC Oak Park, Cook, Illinois, USA
@@ -17686,6 +18236,7 @@
 4 LATI N41.885
 4 LONG W87.7845
 2 SOUR @S319@
+3 _APID 1,2441::3623700
 2 SOUR @S303@
 3 PAGE Number: 330-18-3175; Issue State: Illinois; Issue Date: Befo
 4 CONC re 1951
@@ -17790,7 +18341,6 @@
 3 _APID 1,60525::142545147
 1 SEX M
 1 FAMC @vI58j6lGTpKJxvAR6gKB@
-1 NOTE _XY 408 228  _UID d9d8e1b5-f5cf-4a32-81da-676700fd6046
 1 BIRT
 2 DATE 19 JAN 1918
 2 PLAC Hamilton, Madison, New York, USA
@@ -17842,7 +18392,10 @@
 3 CONC se: Son
 1 RESI
 2 DATE 01 JUN 1925
-2 PLAC Madison, Madison, New York, United States
+2 PLAC Madison, Madison, New York, USA
+3 MAP
+4 LATI N42.899
+4 LONG W75.5121
 2 SOUR @IatrsKHUQdmGOYci7sP2@
 3 PAGE New York State Archives; Albany, New York; State Populatio
 4 CONC n Census Schedules, 1925; Election District: 01; Assembly Di
@@ -19402,7 +19955,7 @@
 3 _APID 1,2442::70523882
 2 SOUR @S304@
 3 PAGE California Department of Public Health, courtesy of www.vita
-4 CONC lsearch-worldwide.com. Digital Images.
+4 CONC lsearch-worldwide.com. Digital Images. Donald W Mosher.
 3 OBJE @M468@
 3 _APID 1,61460::900788711
 2 SOUR @7c8PO7CnR1qikgvyU4fE@
@@ -19448,7 +20001,6 @@
 1 SEX M
 1 FAMC @vI58j6lGTpKJxvAR6gKB@
 1 FAMS @F453@
-1 NOTE _XY 268 228  _UID ee0733c4-4bfb-4fd3-8b86-ef04cb2494ed
 1 BIRT
 2 DATE 16 NOV 1910
 2 PLAC Hamilton, Madison, New York, USA
@@ -19614,16 +20166,6 @@
 0 @I160@ INDI
 1 REFN 944d816b-83cb-461b-9da1-19e47c305f0e
 1 NAME Edith /Mosher/
-2 SOUR @S308@
-3 _APID 1,8837::2694021
-2 SOUR @S284@
-3 _APID 1,8784::4622175
-2 SOUR @S284@
-3 _APID 1,8784::7176398
-2 SOUR @S284@
-3 _APID 1,8784::10222044
-2 SOUR @S259@
-3 _APID 1,1506::3323788
 2 SOUR @S298@
 3 OBJE @doAMa4RfTRudUSSdTcpS@
 3 _APID 1,2495::5970726
@@ -19641,8 +20183,6 @@
 2 SOUR @CNCZKGpeSrKJ6BUTT9Hu@
 3 PAGE p. 15
 3 QUAY 1
-2 SOUR @S259@
-3 _APID 1,1506::3323788
 2 SOUR @S298@
 3 OBJE @doAMa4RfTRudUSSdTcpS@
 3 _APID 1,2495::5970726
@@ -20269,6 +20809,9 @@
 3 OBJE @M434@
 3 _APID 1,7884::159939496
 2 NOTE Marital Status: Single; Relation to Head of House: Daughter
+0 @I626@ INDI
+1 NAME [REDACTED]
+1 FAMC @F486@
 0 @yMFY7Pl9Rj23hLJVbFkD@ INDI
 1 REFN 55744a79-4adc-40a5-8154-80b198d1a510
 1 NAME Hannah /Mosher/
@@ -20354,6 +20897,13 @@
 0 @I450@ INDI
 1 REFN f8ef5748-381c-4731-ab37-4fc039530a60
 1 NAME Helene Jean /Mosher/
+2 SOUR @S221@
+3 PAGE Year: 1940; Census Place: Bound Brook, Somerset, New Jersey
+4 CONC ; Roll: m-t0627-02382; Page: 9A; Enumeration District: 18-12
+3 OBJE @M511@
+3 _APID 1,2442::136983289
+2 SOUR @S263@
+3 _APID 1,1788::308957658
 2 SOUR @S247@
 3 PAGE entry 1
 3 _APID 1,1732::394801582
@@ -20375,13 +20925,17 @@
 1 SEX F
 1 FAMC @F357@
 1 FAMS @F387@
-1 NOTE _XY 1879 315  _UID f8ef5748-381c-4731-ab37-4fc039530a60
 1 BIRT
 2 DATE 04 JAN 1937
 2 PLAC Boonton, Morris, New Jersey, USA
 3 MAP
 4 LATI N40.9026
 4 LONG W74.4071
+2 SOUR @S221@
+3 PAGE Year: 1940; Census Place: Bound Brook, Somerset, New Jersey
+4 CONC ; Roll: m-t0627-02382; Page: 9A; Enumeration District: 18-12
+3 OBJE @M511@
+3 _APID 1,2442::136983289
 2 SOUR @S247@
 3 PAGE entry 1
 3 _APID 1,1732::394801582
@@ -20394,6 +20948,23 @@
 3 PAGE Number: 139-28-6728; Issue State: New Jersey; Issue Date: 19
 4 CONC 52-1954
 3 _APID 1,3693::8724601
+1 RESI
+2 DATE 1940
+2 PLAC Bound Brook, Somerset, New Jersey, USA
+3 MAP
+4 LATI N40.5684
+4 LONG W74.5385
+2 SOUR @S221@
+3 PAGE Year: 1940; Census Place: Bound Brook, Somerset, New Jersey
+4 CONC ; Roll: m-t0627-02382; Page: 9A; Enumeration District: 18-12
+3 OBJE @M511@
+3 _APID 1,2442::136983289
+2 NOTE Marital Status: Single; Relation to Head: Daughter
+1 RESI
+2 DATE 1994
+2 PLAC 11301 Youngtown Drive, Hagerstown, Washington, Maryland, USA
+2 SOUR @S263@
+3 _APID 1,1788::308957658
 1 DEAT
 2 DATE 05 MAY 1998
 2 PLAC Hagerstown, Washington, Maryland, USA
@@ -20535,6 +21106,7 @@
 2 SOUR @MYPTYwXjROCnuswpONVl@
 3 PAGE Year: 1900; Census Place: Chicago Ward 34, Cook, Illinois; P
 4 CONC age: 1; Enumeration District: 1207; FHL microfilm: 1240289
+4 CONC ; Horace M Mosher
 3 OBJE @M421@
 3 _APID 1,7602::11579684
 2 SOUR @S288@
@@ -20595,6 +21167,7 @@
 2 SOUR @MYPTYwXjROCnuswpONVl@
 3 PAGE Year: 1900; Census Place: Chicago Ward 34, Cook, Illinois; P
 4 CONC age: 1; Enumeration District: 1207; FHL microfilm: 1240289
+4 CONC ; Horace M Mosher
 3 OBJE @M421@
 3 _APID 1,7602::11579684
 2 SOUR @S288@
@@ -20671,6 +21244,7 @@
 2 SOUR @MYPTYwXjROCnuswpONVl@
 3 PAGE Year: 1900; Census Place: Chicago Ward 34, Cook, Illinois; P
 4 CONC age: 1; Enumeration District: 1207; FHL microfilm: 1240289
+4 CONC ; Horace M Mosher
 3 OBJE @M421@
 3 _APID 1,7602::11579684
 2 NOTE Marital Status: Married; Relation to Head: Inmate
@@ -20870,11 +21444,11 @@
 3 _APID 1,7590::270627
 2 SOUR @XkYfWXOxTRycLRJJyxNy@
 3 PAGE Source number: 20.000; Source type: Electronic Database; Num
-4 CONC ber of Pages: 1; Submitter Code: RKM
+4 CONC ber of Pages: 1; Submitter Code: RKM; James Mosher
 3 _APID 1,7836::867329
 2 SOUR @XkYfWXOxTRycLRJJyxNy@
 3 PAGE Source number: 2612.013; Source type: Family group sheet, FG
-4 CONC SE, listed as parents; Number of Pages: 1
+4 CONC SE, listed as parents; Number of Pages: 1; James Mosher
 3 _APID 1,7836::867330
 1 SEX M
 1 FAMC @F397@
@@ -20887,11 +21461,11 @@
 4 LONG W73.7133
 2 SOUR @XkYfWXOxTRycLRJJyxNy@
 3 PAGE Source number: 20.000; Source type: Electronic Database; Num
-4 CONC ber of Pages: 1; Submitter Code: RKM
+4 CONC ber of Pages: 1; Submitter Code: RKM; James Mosher
 3 _APID 1,7836::867329
 2 SOUR @XkYfWXOxTRycLRJJyxNy@
 3 PAGE Source number: 2612.013; Source type: Family group sheet, FG
-4 CONC SE, listed as parents; Number of Pages: 1
+4 CONC SE, listed as parents; Number of Pages: 1; James Mosher
 3 _APID 1,7836::867330
 1 RESI
 2 DATE 1790
@@ -21003,7 +21577,6 @@
 1 SEX F
 1 FAMC @F357@
 1 FAMS @F386@
-1 NOTE _XY 1991 315  _UID 360c6088-fbf9-46f5-b238-2680d6772992
 1 BIRT
 2 DATE 17 OCT 1940
 2 PLAC Somerville, Somerset, New Jersey, USA
@@ -21125,8 +21698,12 @@
 2 SOUR @S212@
 3 PAGE 1850 United States Federal Census Record
 3 OBJE @M355@
+3 _APID 1,8054::3166261
 1 SEX M
+2 SOUR @S212@
+3 _APID 1,8054::3166261
 1 FAMC @F401@
+1 NOTE _UID fc72b565-577b-4842-a7e1-0aaa7f91612f
 1 BIRT
 2 DATE ABT 1823
 2 PLAC New York, USA
@@ -21136,6 +21713,7 @@
 2 SOUR @S212@
 3 PAGE 1850 United States Federal Census Record
 3 OBJE @M355@
+3 _APID 1,8054::3166261
 1 RESI
 2 DATE 1850
 2 PLAC Sterling, Macomb, Michigan, USA
@@ -21145,6 +21723,7 @@
 2 SOUR @S212@
 3 PAGE 1850 United States Federal Census Record
 3 OBJE @M355@
+3 _APID 1,8054::3166261
 1 _XY 1700.00 1375.00
 0 @I574@ INDI
 1 REFN 906724da-fbe3-4be9-903c-d873664acce6
@@ -21167,6 +21746,7 @@
 2 SOUR @S294@
 3 _APID 1,1499::2077984
 2 SOUR @S302@
+3 PAGE John A. Mosher
 3 _APID 1,1500::5075704
 2 SOUR @S293@
 3 _APID 1,2545::1378655
@@ -21200,7 +21780,6 @@
 1 SEX M
 1 FAMC @F436@
 1 FAMS @F449@
-1 FAMS @F455@
 1 BIRT
 2 DATE 25 JAN 1916
 2 PLAC Chicago, Cook, Illinois, USA
@@ -21398,6 +21977,7 @@
 3 OBJE @M434@
 3 _APID 1,7884::159939501
 2 SOUR @S291@
+3 PAGE Josephine F Mosher
 3 _APID 1,2561::716389
 2 SOUR @S290@
 3 PAGE 1885 census
@@ -21422,7 +22002,6 @@
 1 SEX F
 1 FAMC @F428@
 1 FAMS @F437@
-1 FAMS @F438@
 1 BIRT
 2 DATE JAN 1871
 2 PLAC Illinois, USA
@@ -21804,8 +22383,76 @@
 1 _XY 7275.00 1850.00
 1 _PHOTO @M216@
 0 @I448@ INDI
-1 NAME [REDACTED]
+1 REFN 35f86b92-c6c6-4735-9f4a-29026160b9e6
+1 NAME June Marie /Mosher/
+2 SOUR @S324@
+3 PAGE June M Exner (plaintiff)
+3 _APID 1,1090::688368
+2 SOUR @S246@
+3 PAGE June M Exner
+3 _APID 1,1100::3393207
+2 SOUR @S246@
+3 PAGE June M Mosher
+3 _APID 1,1100::5422331
+2 SOUR @S285@
+3 PAGE New Jersey State Archives; Trenton, New Jersey; Marriage Ind
+4 CONC exes; Index Type: Bride; Year Range: 1958; Surname Range
+4 CONC : L - Z; June M Mosher
+3 OBJE @M514@
+3 _APID 1,61253::901720659
+2 SOUR @S326@
+3 PAGE Presbyterian Historical Society; Philadelphia, Pennsylvania
+4 CONC ; U.S., Presbyterian Church Records, 1701-1907; Accession Nu
+4 CONC mber: 00-1109a 59F Box 1; June Marie Mosher
+3 OBJE @M516@
+3 _APID 1,61048::91711266
+2 SOUR @S215@
+3 _APID 1,60901::17991422
+2 SOUR @S303@
+3 PAGE Number: 143-32-9855; Issue State: New Jersey; Issue Date: 19
+4 CONC 57-1959
+3 _APID 1,3693::71631702
+1 SEX F
 1 FAMC @F357@
+1 FAMS @F482@
+1 FAMS @F483@
+1 BIRT
+2 DATE 05 JUN 1942
+2 PLAC Somerville, Somerset, New Jersey, USA
+3 MAP
+4 LATI N40.5743
+4 LONG W74.6099
+2 SOUR @S215@
+3 _APID 1,60901::17991422
+2 SOUR @S303@
+3 PAGE Number: 143-32-9855; Issue State: New Jersey; Issue Date: 19
+4 CONC 57-1959
+3 _APID 1,3693::71631702
+1 RESI
+2 DATE MAY 1973
+2 PLAC Nebraska
+2 SOUR @S246@
+3 PAGE June M Mosher
+3 _APID 1,1100::5422331
+1 RESI
+2 DATE ABT 1985
+2 PLAC Florida, USA
+3 MAP
+4 LATI N27.75
+4 LONG W82.2833
+1 DEAT
+2 DATE 09 OCT 2003
+2 PLAC Sanford, Seminole, Florida, USA
+3 MAP
+4 LATI N28.8005
+4 LONG W81.2731
+2 SOUR @S215@
+3 _APID 1,60901::17991422
+2 SOUR @S303@
+3 PAGE Number: 143-32-9855; Issue State: New Jersey; Issue Date: 19
+4 CONC 57-1959
+3 _APID 1,3693::71631702
+1 _XY 2550.00 2525.00
 0 @XiIS8Y13Q9it0577Fs2n@ INDI
 1 REFN 502f989c-8aee-44b1-8d8b-2e7ffb24c0c7
 1 NAME Legrande Leo /Mosher/
@@ -21848,7 +22495,7 @@
 3 _APID 1,5180::5186998
 2 SOUR @S203@
 3 PAGE New York State Department of Health; Albany, NY, USA; New Yo
-4 CONC rk State Marriage Index
+4 CONC rk State Marriage Index; LeGrand Mosher
 3 OBJE @M328@
 3 _APID 1,61632::6053691
 2 SOUR @S220@
@@ -21884,7 +22531,7 @@
 3 OBJE @1wWYPGzWRAqLTjoHIOk2@
 3 _APID 1,1002::12976754
 2 SOUR @S257@
-2 SOUR @S257@
+3 _APID 1,70500::6308735
 1 SEX M
 1 FAMC @YIqlnp8mREuD4RW6nexn@
 1 FAMS @vI58j6lGTpKJxvAR6gKB@
@@ -21967,7 +22614,7 @@
 3 OBJE @1wWYPGzWRAqLTjoHIOk2@
 3 _APID 1,1002::12976754
 2 SOUR @S257@
-2 SOUR @S257@
+3 _APID 1,70500::6308735
 2 NOTE Place is assumed from residence of father at the time.
 1 RESI
 2 DATE 1880
@@ -22118,7 +22765,7 @@
 2 SOUR @S241@
 3 _APID 1,60525::95913424
 2 SOUR @S257@
-2 SOUR @S257@
+3 _APID 1,70500::6308735
 1 DEAT
 2 DATE 28 NOV 1948
 2 PLAC Los Angeles, California, USA
@@ -22133,17 +22780,29 @@
 2 SOUR @S241@
 3 _APID 1,60525::95913424
 2 SOUR @S257@
-2 SOUR @S257@
+3 _APID 1,70500::6308735
 1 _XY 1825.00 2325.00
 0 @I447@ INDI
 1 REFN bdfed612-8a38-4f7b-9d5c-fb898178c9de
 1 NAME Lewis Warner /Mosher/
+2 SOUR @S221@
+3 PAGE Year: 1940; Census Place: Bound Brook, Somerset, New Jersey
+4 CONC ; Roll: m-t0627-02382; Page: 9A; Enumeration District: 18-12
+3 OBJE @M511@
+3 _APID 1,2442::136983287
 2 SOUR @7c8PO7CnR1qikgvyU4fE@
 3 PAGE Date: 1991-02-04
 3 _APID 1,5180::5187013
+2 SOUR @S285@
+3 PAGE New Jersey State Archives; Trenton, New Jersey; Marriage Ind
+4 CONC exes; Index Type: Bride; Year Range: 1953; Surname Range
+4 CONC : A - K; Lewis W Mosher
+3 OBJE @M506@
+3 _APID 1,61253::992170406
 2 SOUR @S263@
 3 _APID 1,1788::108935439
-2 SOUR @S255@
+2 SOUR @S319@
+3 _APID 1,2441::13611466
 2 SOUR @S215@
 3 _APID 1,60901::46188361
 2 SOUR @yAMTVEqOTiKCsMjPyXmb@
@@ -22152,26 +22811,59 @@
 3 _APID 1,3693::43963523
 1 SEX M
 1 FAMC @F357@
-1 NOTE _XY 1759 315  _UID bdfed612-8a38-4f7b-9d5c-fb898178c9de
+1 FAMS @F486@
 1 BIRT
 2 DATE 01 JUN 1932
 2 PLAC Boonton, Morris, New Jersey, USA
 3 MAP
 4 LATI N40.9026
 4 LONG W74.4071
+2 SOUR @S221@
+3 PAGE Year: 1940; Census Place: Bound Brook, Somerset, New Jersey
+4 CONC ; Roll: m-t0627-02382; Page: 9A; Enumeration District: 18-12
+3 OBJE @M511@
+3 _APID 1,2442::136983287
 2 SOUR @S263@
 3 _APID 1,1788::108935439
+2 SOUR @S215@
+3 _APID 1,60901::46188361
 2 SOUR @yAMTVEqOTiKCsMjPyXmb@
 3 PAGE Number: 143-24-8499; Issue State: New Jersey; Issue Date: Be
 4 CONC fore 1951
 3 _APID 1,3693::43963523
+1 RESI
+2 DATE 1935
+2 PLAC Morris, New Jersey, USA
+3 MAP
+4 LATI N40.8652
+4 LONG W74.5468
+2 SOUR @S221@
+3 PAGE Year: 1940; Census Place: Bound Brook, Somerset, New Jersey
+4 CONC ; Roll: m-t0627-02382; Page: 9A; Enumeration District: 18-12
+3 OBJE @M511@
+3 _APID 1,2442::136983287
+1 RESI
+2 DATE 1940
+2 PLAC Bound Brook, Somerset, New Jersey, USA
+3 MAP
+4 LATI N40.5684
+4 LONG W74.5385
+2 SOUR @S221@
+3 PAGE Year: 1940; Census Place: Bound Brook, Somerset, New Jersey
+4 CONC ; Roll: m-t0627-02382; Page: 9A; Enumeration District: 18-12
+3 OBJE @M511@
+3 _APID 1,2442::136983287
+2 NOTE Marital Status: Single; Relation to Head: Son
 1 EVEN
 2 TYPE military
 2 DATE 26 MAR 1952
-2 SOUR @S255@
+2 SOUR @S319@
+3 _APID 1,2441::13611466
 1 RESI
 2 DATE ABT JAN 1991
 2 PLAC 617 Custer Drive, Morristown North, Hamblen, Tennessee, USA
+2 SOUR @S263@
+3 _APID 1,1788::108935439
 1 DEAT
 2 DATE 04 FEB 1991
 2 PLAC San Diego, San Diego, California, USA
@@ -22181,6 +22873,8 @@
 2 SOUR @7c8PO7CnR1qikgvyU4fE@
 3 PAGE Date: 1991-02-04
 3 _APID 1,5180::5187013
+2 SOUR @S215@
+3 _APID 1,60901::46188361
 2 SOUR @yAMTVEqOTiKCsMjPyXmb@
 3 PAGE Number: 143-24-8499; Issue State: New Jersey; Issue Date: Be
 4 CONC fore 1951
@@ -22249,7 +22943,11 @@
 2 SOUR @S241@
 3 _APID 1,60525::47590283
 2 SOUR @S215@
+3 PAGE Lewis W Mosher
 3 _APID 1,60901::11962739
+2 SOUR @S215@
+3 PAGE Lewis W Mosher (in record of Alta Elnor Mosher)
+3 _APID 1,60901::633776894
 2 SOUR @S225@
 3 PAGE Registration State: New York; Registration County: Madison
 4 CONC ; Roll: 1753843; Draft Board: 1
@@ -22340,6 +23038,7 @@
 2 SOUR @S241@
 3 _APID 1,60525::47590283
 2 SOUR @S215@
+3 PAGE Lewis W Mosher
 3 _APID 1,60901::11962739
 2 SOUR @S225@
 3 PAGE Registration State: New York; Registration County: Madison
@@ -23359,7 +24058,7 @@
 2 SOUR @MYPTYwXjROCnuswpONVl@
 3 PAGE Year: 1900; Census Place: Grand Rapids Ward 4, Kent, Michiga
 4 CONC n; Page: 12; Enumeration District: 0058; FHL microfilm: 1240
-4 CONC 722
+4 CONC 722; Mary J Jeffords
 3 OBJE @M364@
 3 _APID 1,7602::64527667
 2 SOUR @S222@
@@ -23385,7 +24084,7 @@
 3 PAGE Michigan Department of Community Health, Division of Vital R
 4 CONC ecords and Health Statistics; Lansing, MI, USA; Michigan, Ma
 4 CONC rriage Records, 1867-1952; Film: 17; Film Description: 187
-4 CONC 8 Washtenaw-1879 Lake
+4 CONC 8 Washtenaw-1879 Lake; Mary J Mosher
 3 OBJE @M352@
 3 _APID 1,9093::3698796
 2 SOUR @S281@
@@ -23401,6 +24100,7 @@
 2 SOUR @S275@
 3 _APID 1,9231::30750
 2 SOUR @S271@
+3 PAGE Mary J Mosher
 3 _APID 1,70330::125151
 1 SEX F
 2 SOUR @S217@
@@ -23427,7 +24127,7 @@
 2 SOUR @MYPTYwXjROCnuswpONVl@
 3 PAGE Year: 1900; Census Place: Grand Rapids Ward 4, Kent, Michiga
 4 CONC n; Page: 12; Enumeration District: 0058; FHL microfilm: 1240
-4 CONC 722
+4 CONC 722; Mary J Jeffords
 3 OBJE @M364@
 3 _APID 1,7602::64527667
 2 SOUR @S222@
@@ -23453,7 +24153,7 @@
 3 PAGE Michigan Department of Community Health, Division of Vital R
 4 CONC ecords and Health Statistics; Lansing, MI, USA; Michigan, Ma
 4 CONC rriage Records, 1867-1952; Film: 17; Film Description: 187
-4 CONC 8 Washtenaw-1879 Lake
+4 CONC 8 Washtenaw-1879 Lake; Mary J Mosher
 3 OBJE @M352@
 3 _APID 1,9093::3698796
 2 SOUR @S241@
@@ -23491,7 +24191,7 @@
 2 SOUR @MYPTYwXjROCnuswpONVl@
 3 PAGE Year: 1900; Census Place: Grand Rapids Ward 4, Kent, Michiga
 4 CONC n; Page: 12; Enumeration District: 0058; FHL microfilm: 1240
-4 CONC 722
+4 CONC 722; Mary J Jeffords
 3 OBJE @M364@
 3 _APID 1,7602::64527667
 2 NOTE Marital Status: Married; Relation to Head: Wife
@@ -23688,7 +24388,7 @@
 2 SOUR @MYPTYwXjROCnuswpONVl@
 3 PAGE Year: 1900; Census Place: Newton Ward 5, Middlesex, Massachu
 4 CONC setts; Page: 4; Enumeration District: 0903; FHL microfilm: 1
-4 CONC 240664
+4 CONC 240664; Moranda B Mosher
 3 OBJE @M373@
 3 _APID 1,7602::48185472
 2 SOUR @S222@
@@ -23737,7 +24437,7 @@
 2 SOUR @MYPTYwXjROCnuswpONVl@
 3 PAGE Year: 1900; Census Place: Newton Ward 5, Middlesex, Massachu
 4 CONC setts; Page: 4; Enumeration District: 0903; FHL microfilm: 1
-4 CONC 240664
+4 CONC 240664; Moranda B Mosher
 3 OBJE @M373@
 3 _APID 1,7602::48185472
 2 SOUR @S222@
@@ -23807,7 +24507,7 @@
 2 SOUR @MYPTYwXjROCnuswpONVl@
 3 PAGE Year: 1900; Census Place: Newton Ward 5, Middlesex, Massachu
 4 CONC setts; Page: 4; Enumeration District: 0903; FHL microfilm: 1
-4 CONC 240664
+4 CONC 240664; Moranda B Mosher
 3 OBJE @M373@
 3 _APID 1,7602::48185472
 2 NOTE Marital Status: Married; Relation to Head: Wife
@@ -23992,9 +24692,13 @@
 3 OBJE @M353@
 3 _APID 1,7181::1655672219
 2 SOUR @S281@
-3 OBJE @M357@
-2 SOUR @S281@
+3 PAGE 1881
 3 OBJE @M358@
+3 _APID 1,2469::430355532
+2 SOUR @S281@
+3 PAGE 1882
+3 OBJE @M357@
+3 _APID 1,2469::451425867
 2 SOUR @S273@
 3 PAGE National Archives and Records Administration (NARA); Washing
 4 CONC ton, D.C.; Consolidated Lists of Civil War Draft Registratio
@@ -24002,6 +24706,7 @@
 4 CONC rollment Lists, 1863-1865); Record Group: 110, Records of th
 4 CONC e Provost Marsha
 3 OBJE @M359@
+3 _APID 1,1666::2211449
 1 SEX M
 1 FAMC @F401@
 1 FAMS @F406@
@@ -24039,6 +24744,7 @@
 4 CONC rollment Lists, 1863-1865); Record Group: 110, Records of th
 4 CONC e Provost Marsha
 3 OBJE @M359@
+3 _APID 1,1666::2211449
 1 RESI
 2 DATE 1850
 2 PLAC Sterling, Macomb, Michigan, USA
@@ -24087,13 +24793,18 @@
 4 CONC rollment Lists, 1863-1865); Record Group: 110, Records of th
 4 CONC e Provost Marsha
 3 OBJE @M359@
+3 _APID 1,1666::2211449
 2 NOTE Marital Status: Married
 1 DEAT
 2 DATE ABT 1870
 2 SOUR @S281@
-3 OBJE @M357@
-2 SOUR @S281@
+3 PAGE 1881
 3 OBJE @M358@
+3 _APID 1,2469::430355532
+2 SOUR @S281@
+3 PAGE 1882
+3 OBJE @M357@
+3 _APID 1,2469::451425867
 1 _XY 2000.00 1375.00
 0 @sF8V3W0ZRpC3f0pTX3lb@ INDI
 1 REFN c692ba95-3827-49ab-8f22-251e693ea5a3
@@ -24772,6 +25483,7 @@
 3 PAGE Date: 1970-12-02
 3 _APID 1,5180::5187199
 2 SOUR @S308@
+3 PAGE Sanford W Mosher
 3 OBJE @M323@
 3 _APID 1,8837::274281
 2 SOUR @S259@
@@ -24795,7 +25507,6 @@
 1 SEX M
 1 FAMC @vI58j6lGTpKJxvAR6gKB@
 1 FAMS @F358@
-1 NOTE _XY 495 228  _UID a1d267f3-836c-4fcb-9cb5-d8e38efa7432
 1 BIRT
 2 DATE 29 NOV 1908
 2 PLAC New York, USA
@@ -24862,7 +25573,10 @@
 3 CONC n
 1 RESI
 2 DATE 01 JUN 1925
-2 PLAC Madison, Madison, New York, United States
+2 PLAC Madison, Madison, New York, USA
+3 MAP
+4 LATI N42.899
+4 LONG W75.5121
 2 SOUR @IatrsKHUQdmGOYci7sP2@
 3 PAGE New York State Archives; Albany, New York; State Populatio
 4 CONC n Census Schedules, 1925; Election District: 01; Assembly Di
@@ -25159,7 +25873,7 @@
 3 _APID 1,7667::37312264
 2 SOUR @XkYfWXOxTRycLRJJyxNy@
 3 PAGE Source number: 23.000; Source type: Electronic Database; Num
-4 CONC ber of Pages: 1; Submitter Code: RKM
+4 CONC ber of Pages: 1; Submitter Code: RKM; Silas Mosher
 3 _APID 1,7836::867509
 2 SOUR @S281@
 3 PAGE 1861
@@ -25190,7 +25904,7 @@
 3 _APID 1,7667::37312264
 2 SOUR @XkYfWXOxTRycLRJJyxNy@
 3 PAGE Source number: 23.000; Source type: Electronic Database; Num
-4 CONC ber of Pages: 1; Submitter Code: RKM
+4 CONC ber of Pages: 1; Submitter Code: RKM; Silas Mosher
 3 _APID 1,7836::867509
 1 RESI
 2 DATE 1820
@@ -25289,7 +26003,6 @@
 1 NAME Stuart Legrande /Mosher/
 1 SEX M
 1 FAMC @F358@
-1 NOTE _XY 643 315  _UID f95333f2-d8c3-4291-9f21-4d58f78a39df
 1 _XY 2150.00 2525.00
 0 @I569@ INDI
 1 REFN d3c9a1b1-e089-4f94-a761-ba2007426847
@@ -25419,6 +26132,7 @@
 3 _APID 1,7163::29830353
 1 SEX M
 1 FAMC @v943d0vRQDS58l9ZqvAY@
+1 NOTE This is not the William Mosher who married Alta Lovejoy.
 1 BIRT
 2 DATE 02 FEB 1854
 2 PLAC Chatham, Tioga, Pennsylvania, USA
@@ -25492,14 +26206,25 @@
 3 OBJE @M429@
 3 _APID 1,2442::141522343
 2 SOUR @S293@
+3 PAGE William B Mosher, Abt 1887
+3 _APID 1,2545::151259426
 2 SOUR @S293@
+3 PAGE William B Mosher, Abt 1888
+3 _APID 1,2545::151378655
 2 SOUR @S293@
+3 PAGE William Baker Mosher
+3 _APID 1,2545::151022063
 2 SOUR @S292@
+3 PAGE William B. Mosher
 3 _APID 1,2556::581689
 2 SOUR @S282@
 3 _APID 1,2542::8350
 2 SOUR @S215@
+3 PAGE William B Mosher (in record of John Ahrens Mosher)
+3 _APID 1,60901::620294126
 2 SOUR @S215@
+3 PAGE William Baker Mosher
+3 _APID 1,60901::11912538
 2 SOUR @S301@
 3 PAGE The National Archives at St. Louis; St. Louis, Missouri; Wor
 4 CONC ld War II Draft Cards (Fourth Registration), for The State o
@@ -25544,13 +26269,21 @@
 3 OBJE @M429@
 3 _APID 1,2442::141522343
 2 SOUR @S293@
+3 PAGE William B Mosher, Abt 1887
+3 _APID 1,2545::151259426
 2 SOUR @S293@
+3 PAGE William B Mosher, Abt 1888
+3 _APID 1,2545::151378655
 2 SOUR @S293@
+3 PAGE William Baker Mosher
+3 _APID 1,2545::151022063
 2 SOUR @S292@
+3 PAGE William B. Mosher
 3 _APID 1,2556::581689
 2 SOUR @S282@
 3 _APID 1,2542::8350
 2 SOUR @S215@
+3 PAGE William Baker Mosher
 3 _APID 1,60901::11912538
 2 SOUR @S301@
 3 PAGE The National Archives at St. Louis; St. Louis, Missouri; Wor
@@ -26774,10 +27507,15 @@
 3 PAGE Year: 1920; Census Place: Lebanon, Madison, New York
 3 OBJE @nWMnQE71Q4SJcs1lrLsg@
 3 _APID 1,6061::19071338
+2 SOUR @S221@
+3 PAGE Year: 1940; Census Place: Bound Brook, Somerset, New Jersey
+4 CONC ; Roll: m-t0627-02382; Page: 9A; Enumeration District: 18-12
+3 OBJE @M511@
+3 _APID 1,2442::136983282
 2 SOUR @S285@
 3 PAGE New Jersey State Archives; Trenton, New Jersey; Marriage Ind
 4 CONC exes; Index Type: Bride; Year Range: 1930-1935; Surname Rang
-4 CONC e: E - K; Reel Number: 31
+4 CONC e: E - K; Reel Number: 31; William Mosher
 3 OBJE @M408@
 3 _APID 1,61253::1082600800
 2 SOUR @S216@
@@ -26796,6 +27534,11 @@
 3 PAGE 1959
 3 OBJE @M295@
 3 _APID 1,2469::1373073412
+2 SOUR @S329@
+3 PAGE "U.S., School Yearbooks, 1880-2012"; School Name: Hamilton H
+4 CONC igh School; Year: 1927
+3 OBJE @M527@
+3 _APID 1,1265::345504897
 2 SOUR @S215@
 3 _APID 1,60901::639176457
 2 SOUR @yAMTVEqOTiKCsMjPyXmb@
@@ -26805,10 +27548,10 @@
 1 SEX M
 1 FAMC @bDNq0ruKQTShQyuD99jm@
 1 FAMS @F357@
-1 NOTE _XY 1850 228  _UID 235ff87b-6177-4bd9-b228-3ae4c97f8639
+1 OBJE @M504@
 1 BIRT
 2 DATE 08 AUG 1909
-2 PLAC Bartlett Road, Lebanon, Madison, NY, USA
+2 PLAC Bartlett Road, Lebanon, Madison, New York, USA
 2 SOUR @S222@
 3 PAGE Year: 1910; Census Place: Lebanon, Madison, New York; Roll
 4 CONC : T624_987; Page: 8A; Enumeration District: 0016; FHL microf
@@ -26819,6 +27562,11 @@
 3 PAGE Year: 1920; Census Place: Lebanon, Madison, New York
 3 OBJE @nWMnQE71Q4SJcs1lrLsg@
 3 _APID 1,6061::19071338
+2 SOUR @S221@
+3 PAGE Year: 1940; Census Place: Bound Brook, Somerset, New Jersey
+4 CONC ; Roll: m-t0627-02382; Page: 9A; Enumeration District: 18-12
+3 OBJE @M511@
+3 _APID 1,2442::136983282
 2 SOUR @S216@
 3 PAGE New York State Archives; Albany, New York; State Populatio
 4 CONC n Census Schedules, 1915; Election District: 01; Assembly Di
@@ -26831,6 +27579,11 @@
 4 CONC strict: 01; City: Madison; County: Madison; Page: 4
 3 OBJE @m1x2HapLT7ahZoqmUAVC@
 3 _APID 1,2704::20748509
+2 SOUR @S329@
+3 PAGE "U.S., School Yearbooks, 1880-2012"; School Name: Hamilton H
+4 CONC igh School; Year: 1927
+3 OBJE @M527@
+3 _APID 1,1265::345504897
 2 SOUR @yAMTVEqOTiKCsMjPyXmb@
 3 PAGE Number: 146-01-2220; Issue State: New Jersey; Issue Date: Be
 4 CONC fore 1951
@@ -26847,18 +27600,21 @@
 4 CONC ilm: 1375000
 3 OBJE @ZTNER4nOQMGReLNjgzW6@
 3 _APID 1,7884::127027738
-2 NOTE Age: 0Age: 8/12; Marital Status: Single; Relation to Head o
-3 CONC f House: Son
+2 NOTE Age: 8/12; Marital Status: Single; Relation to Head of House
+3 CONC : Son
 1 RESI
 2 DATE 01 JUN 1915
-2 PLAC Lebanon, Madison, New York, United States
+2 PLAC Lebanon, Madison, New York, USA
+3 MAP
+4 LATI N42.7814
+4 LONG W75.6481
 2 SOUR @S216@
 3 PAGE New York State Archives; Albany, New York; State Populatio
 4 CONC n Census Schedules, 1915; Election District: 01; Assembly Di
 4 CONC strict: 01; City: Lebanon; County: Madison; Page: 07
 3 OBJE @RbrRQX1aRPaPJRwqzUG3@
 3 _APID 1,2703::11985744
-2 NOTE Age: 5Relation to Head of House: Son
+2 NOTE Age: 5; Relation to Head of House: Son
 1 RESI
 2 DATE 1920
 2 PLAC Lebanon, Madison, New York, USA
@@ -26869,18 +27625,46 @@
 3 PAGE Year: 1920; Census Place: Lebanon, Madison, New York
 3 OBJE @nWMnQE71Q4SJcs1lrLsg@
 3 _APID 1,6061::19071338
-2 NOTE Age: 10Marital Status: Single; Relation to Head of House: So
-3 CONC n
+2 NOTE Age: 10; Marital Status: Single; Relation to Head of House
+3 CONC : Son
 1 RESI
 2 DATE 01 JUN 1925
-2 PLAC Madison, Madison, New York, United States
+2 PLAC Madison, Madison, New York, USA
+3 MAP
+4 LATI N42.899
+4 LONG W75.5121
 2 SOUR @IatrsKHUQdmGOYci7sP2@
 3 PAGE New York State Archives; Albany, New York; State Populatio
 4 CONC n Census Schedules, 1925; Election District: 02; Assembly Di
 4 CONC strict: 01; City: Madison; County: Madison; Page: 4
 3 OBJE @m1x2HapLT7ahZoqmUAVC@
 3 _APID 1,2704::20748509
-2 NOTE Age: 15Relationship: Son
+2 NOTE Age: 15; Relationship: Son
+1 RESI
+2 DATE 1927
+2 PLAC Hamilton High School, Hamilton, Madison, New York, USA
+2 SOUR @S329@
+3 PAGE "U.S., School Yearbooks, 1880-2012"; School Name: Hamilton H
+4 CONC igh School; Year: 1927
+3 OBJE @M527@
+3 _APID 1,1265::345504897
+1 RESI
+2 DATE 1935
+2 PLAC Boston, Morris, Morris, New Jersey, USA
+2 SOUR @S221@
+3 PAGE Year: 1940; Census Place: Bound Brook, Somerset, New Jersey
+4 CONC ; Roll: m-t0627-02382; Page: 9A; Enumeration District: 18-12
+3 OBJE @M511@
+3 _APID 1,2442::136983282
+1 RESI
+2 DATE 1940
+2 PLAC 128 Talmage Avenue, Bound Brook, Somerset, New Jersey, USA
+2 SOUR @S221@
+3 PAGE Year: 1940; Census Place: Bound Brook, Somerset, New Jersey
+4 CONC ; Roll: m-t0627-02382; Page: 9A; Enumeration District: 18-12
+3 OBJE @M511@
+3 _APID 1,2442::136983282
+2 NOTE Marital Status: Married; Relation to Head: Head
 1 RESI
 2 DATE 1959
 2 PLAC Somerville, Somerset, New Jersey, USA
@@ -26902,6 +27686,7 @@
 4 CONC fore 1951
 3 _APID 1,3693::43965324
 1 _XY 2950.00 2425.00
+1 _PHOTO @M504@
 0 @I535@ INDI
 1 REFN e194c7f8-a29a-45b1-b08b-ae416a80bc17
 1 NAME David /Mosier/
@@ -26935,7 +27720,7 @@
 2 SOUR @MYPTYwXjROCnuswpONVl@
 3 PAGE Year: 1900; Census Place: Newton Ward 5, Middlesex, Massachu
 4 CONC setts; Page: 4; Enumeration District: 0903; FHL microfilm: 1
-4 CONC 240664
+4 CONC 240664; David O Mosher
 3 OBJE @M373@
 3 _APID 1,7602::48185471
 2 SOUR @S222@
@@ -26956,11 +27741,17 @@
 2 SOUR @S241@
 3 _APID 1,60525::136334698
 2 SOUR @S286@
-3 OBJE @M416@
-2 SOUR @S286@
-3 OBJE @M413@
-2 SOUR @S286@
+3 PAGE 1844
 3 OBJE @M420@
+3 _APID 1,2203::3530068
+2 SOUR @S286@
+3 PAGE 1845
+3 OBJE @M413@
+3 _APID 1,2203::3530269
+2 SOUR @S286@
+3 PAGE 1846
+3 OBJE @M416@
+3 _APID 1,2203::3530488
 1 SEX M
 1 FAMC @F413@
 1 FAMS @F410@
@@ -26989,7 +27780,7 @@
 2 SOUR @MYPTYwXjROCnuswpONVl@
 3 PAGE Year: 1900; Census Place: Newton Ward 5, Middlesex, Massachu
 4 CONC setts; Page: 4; Enumeration District: 0903; FHL microfilm: 1
-4 CONC 240664
+4 CONC 240664; David O Mosher
 3 OBJE @M373@
 3 _APID 1,7602::48185471
 2 SOUR @S222@
@@ -27014,18 +27805,21 @@
 2 DATE 1844
 2 PLAC Falley Seminary, Fulton, Oswego, New York, USA
 2 SOUR @S286@
+3 PAGE 1844
 3 OBJE @M420@
 3 _APID 1,2203::3530068
 1 RESI
 2 DATE 1845
 2 PLAC Falley Seminary, Fulton, Oswego, New York, USA
 2 SOUR @S286@
+3 PAGE 1845
 3 OBJE @M413@
 3 _APID 1,2203::3530269
 1 RESI
 2 DATE 1846
 2 PLAC Falley Seminary, Fulton, Oswego, New York, USA
 2 SOUR @S286@
+3 PAGE 1846
 3 OBJE @M416@
 3 _APID 1,2203::3530488
 1 RESI
@@ -27102,7 +27896,7 @@
 2 SOUR @MYPTYwXjROCnuswpONVl@
 3 PAGE Year: 1900; Census Place: Newton Ward 5, Middlesex, Massachu
 4 CONC setts; Page: 4; Enumeration District: 0903; FHL microfilm: 1
-4 CONC 240664
+4 CONC 240664; David O Mosher
 3 OBJE @M373@
 3 _APID 1,7602::48185471
 2 NOTE Marital Status: Married; Relation to Head: Head
@@ -27699,6 +28493,17 @@
 2 DATE 1738
 2 SOUR @91JIXBEJQz6bVLkVlmAF@
 1 _XY 14025.00 675.00
+0 @I625@ INDI
+1 REFN dd08bc92-d519-48ee-993f-9dae59a90b2e
+1 NAME Karen Deanna /Musolino/
+2 SOUR @S285@
+3 PAGE New Jersey State Archives; Trenton, New Jersey; Marriage Ind
+4 CONC exes; Index Type: Bride; Year Range: 1992; Surname Range: M-
+4 CONC Z; Karen D Musolino
+3 OBJE @M505@
+3 _APID 1,61253::1084514248
+1 SEX F
+1 FAMS @F430@
 0 @wlEBNfTgT4ukPcJ0CQ7q@ INDI
 1 REFN 2b8f127c-4d19-4da8-8e20-458d99f64d10
 1 NAME Margaret A. second wife of Nathan /Nichols/
@@ -28376,6 +29181,16 @@
 2 DATE 05 NOV 1688
 2 SOUR @91JIXBEJQz6bVLkVlmAF@
 1 _XY 11350.00 400.00
+0 @I639@ INDI
+1 REFN 3026f492-25e8-4af6-8027-1afa7ef00da8
+1 NAME Angela /Petras/
+2 SOUR @S317@
+3 PAGE Publication Date: 8/ Feb/ 2009; Publication Place: Orlando
+4 CONC , Florida, USA; URL: http://www.legacy.com/OrlandoSentinel/D
+4 CONC eathNotices.asp?Page=LifeStory&amp;PersonID=123900474
+3 _APID 1,7545::97823865
+1 SEX F
+1 FAMS @F479@
 0 @I424@ INDI
 1 REFN 2d8fa83e-bdde-4994-b936-28b2ffb97b46
 1 NAME /Raymond/
@@ -28659,12 +29474,120 @@
 1 SEX M
 1 FAMS @5fmwUAeuRy6meK83M8Oh@
 1 _XY 8000.00 100.00
+0 @I640@ INDI
+1 REFN f5b72829-1a59-480d-b7b0-aefae9229fb0
+1 NAME Bradley James /Romanyk/
+1 SEX M
+1 FAMC @F479@
+1 BIRT
+2 DATE 2006
+2 PLAC Orlando, Orange, Florida, USA
+3 MAP
+4 LATI N28.5383
+4 LONG W81.3793
+1 DEAT
+2 DATE 2006
+2 PLAC Orlando, Orange, Florida, USA
+3 MAP
+4 LATI N28.5383
+4 LONG W81.3793
+0 @I638@ INDI
+1 REFN 0e9ad2e6-ae76-4dc3-a3e4-da3b3dbbe9d5
+1 NAME Bradley R. /Romanyk/
+2 SOUR @S247@
+3 _APID 1,1732::325529629
+2 SOUR @S241@
+3 _APID 1,60525::96918102
+2 SOUR @S317@
+3 PAGE Orlando Sentinel; Publication Date: 8/ Feb/ 2009; Publicatio
+4 CONC n Place: Orlando, Florida, USA; URL: http://www.legacy.com/O
+4 CONC rlandoSentinel/DeathNotices.asp?Page=LifeStory&amp;PersonID=
+4 CONC 123900474
+3 _APID 1,7545::20566840
+2 SOUR @S303@
+3 PAGE Issue State: Florida; Issue Date: 1988
+3 _APID 1,3693::84253789
+1 SEX M
+1 FAMC @F478@
+1 FAMS @F479@
+1 BIRT
+2 DATE 09 OCT 1978
+2 SOUR @S247@
+3 _APID 1,1732::325529629
+2 SOUR @S241@
+3 _APID 1,60525::96918102
+2 SOUR @S317@
+3 PAGE Orlando Sentinel; Publication Date: 8/ Feb/ 2009; Publicatio
+4 CONC n Place: Orlando, Florida, USA; URL: http://www.legacy.com/O
+4 CONC rlandoSentinel/DeathNotices.asp?Page=LifeStory&amp;PersonID=
+4 CONC 123900474
+3 _APID 1,7545::20566840
+2 SOUR @S303@
+3 PAGE Issue State: Florida; Issue Date: 1988
+3 _APID 1,3693::84253789
+1 RESI
+2 DATE ABT 2008
+2 PLAC Deltona, Volusia, Florida, USA
+3 MAP
+4 LATI N28.9005
+4 LONG W81.2637
+2 SOUR @S247@
+3 _APID 1,1732::325529629
+1 DEAT
+2 DATE 03 FEB 2009
+2 PLAC Deltona, Volusia, Florida, USA
+3 MAP
+4 LATI N28.9005
+4 LONG W81.2637
+2 SOUR @S241@
+3 _APID 1,60525::96918102
+2 SOUR @S317@
+3 PAGE Orlando Sentinel; Publication Date: 8/ Feb/ 2009; Publicatio
+4 CONC n Place: Orlando, Florida, USA; URL: http://www.legacy.com/O
+4 CONC rlandoSentinel/DeathNotices.asp?Page=LifeStory&amp;PersonID=
+4 CONC 123900474
+3 _APID 1,7545::20566840
+2 SOUR @S303@
+3 PAGE Issue State: Florida; Issue Date: 1988
+3 _APID 1,3693::84253789
+1 BURI
+2 DATE 08 FEB 2009
+2 PLAC Orange City, Volusia, Florida, USA
+3 MAP
+4 LATI N28.8752
+4 LONG W80.8394
+2 SOUR @S241@
+3 _APID 1,60525::96918102
+2 SOUR @S317@
+3 PAGE Orlando Sentinel; Publication Date: 8/ Feb/ 2009; Publicatio
+4 CONC n Place: Orlando, Florida, USA; URL: http://www.legacy.com/O
+4 CONC rlandoSentinel/DeathNotices.asp?Page=LifeStory&amp;PersonID=
+4 CONC 123900474
+3 _APID 1,7545::20566840
+0 @I641@ INDI
+1 REFN faaeeabb-838c-40d4-919b-9ae8952b61a5
+1 NAME Caleb /Romanyk/
+2 SOUR @S317@
+3 PAGE Publication Date: 8/ Feb/ 2009; Publication Place: Orlando
+4 CONC , Florida, USA; URL: http://www.legacy.com/OrlandoSentinel/D
+4 CONC eathNotices.asp?Page=LifeStory&amp;PersonID=123900474
+3 _APID 1,7545::83817156
+1 SEX M
+1 FAMC @F479@
+0 @I642@ INDI
+1 NAME [REDACTED]
+1 FAMC @F478@
+0 @I637@ INDI
+1 NAME [REDACTED]
+1 FAMS @F478@
 0 @I579@ INDI
 1 REFN 5b911dd1-9661-4c6d-b66d-078421a6b9c7
 1 NAME Laddawan /Ruamsuwan/
 2 SOUR @S308@
+3 PAGE Laddawan (spouse of Norman Beckwith Mosher), 1985
 3 _APID 1,8837::7694021
 2 SOUR @S284@
+3 PAGE Laddawan Ruamsuwan, 1982
 3 _APID 1,8784::3698435
 1 SEX F
 1 FAMS @F452@
@@ -29471,7 +30394,9 @@
 1 REFN 2913fba5-50c9-43c8-ad46-d9517d6f17a5
 1 NAME Elizabeth /Shaw/
 2 SOUR @S322@
+3 PAGE Elizabeth Shaw
 3 OBJE @M497@
+3 _APID 1,3897::6066039
 1 SEX F
 1 FAMS @F447@
 1 BIRT
@@ -29626,7 +30551,7 @@
 2 SOUR @4NlH9dVtS9a2H1EXlSou@
 3 QUAY 1
 2 SOUR @rFGSESduQZifimCrkxlp@
-2 SOUR @9wMdFE3iTDe2CrzzBY3l@
+2 SOUR @S322@
 3 OBJE @jYzMFAILTNa9CUa1zfdA@
 3 _APID 1,3897::92104
 2 SOUR @XkYfWXOxTRycLRJJyxNy@
@@ -29643,7 +30568,7 @@
 4 LATI N41.6259
 4 LONG W71.2134
 2 SOUR @91JIXBEJQz6bVLkVlmAF@
-2 SOUR @9wMdFE3iTDe2CrzzBY3l@
+2 SOUR @S322@
 3 OBJE @jYzMFAILTNa9CUa1zfdA@
 3 _APID 1,3897::92104
 2 SOUR @XkYfWXOxTRycLRJJyxNy@
@@ -30167,7 +31092,7 @@
 0 @7eW3UGbbSAeSnBYiWBB2@ INDI
 1 REFN 2f4b2b5a-5872-48e2-a330-5447cb541cf8
 1 NAME William /Sherman/
-2 SOUR @9wMdFE3iTDe2CrzzBY3l@
+2 SOUR @S322@
 3 OBJE @bhRTPfWVT5K8hhvCljxW@
 3 _APID 1,3897::81586
 2 SOUR @vDza9JfJR7CV2E1SvFkI@
@@ -30182,7 +31107,7 @@
 1 BIRT
 2 DATE 03 OCT 1659
 2 PLAC Little Compton, Rhode Island, USA
-2 SOUR @9wMdFE3iTDe2CrzzBY3l@
+2 SOUR @S322@
 3 OBJE @bhRTPfWVT5K8hhvCljxW@
 3 _APID 1,3897::81586
 2 SOUR @vDza9JfJR7CV2E1SvFkI@
@@ -30808,6 +31733,11 @@
 4 LONG W70.662
 2 SOUR @91JIXBEJQz6bVLkVlmAF@
 1 _XY 5450.00 475.00
+0 @I655@ INDI
+1 REFN 8e7546e5-3990-41e8-9fd1-6258f7d2e0a5
+1 NAME Stacey //
+1 SEX F
+1 FAMS @F485@
 0 @I545@ INDI
 1 REFN 6d609043-2bcb-4f26-bfa9-7eafd3658c85
 1 NAME Robert /Startid/
@@ -31293,6 +32223,29 @@
 0 @I483@ INDI
 1 NAME [REDACTED]
 1 FAMS @F386@
+0 @I629@ INDI
+1 REFN 497f7624-5563-4e6f-b274-e4bcc15011aa
+1 NAME Debra /Straub/
+1 SEX F
+1 FAMC @F386@
+0 @I630@ INDI
+1 REFN 38102f06-7004-44cb-b72a-d657bb3e699d
+1 NAME Diane /Straub/
+1 SEX F
+1 FAMC @F386@
+0 @I631@ INDI
+1 REFN b10173a1-15a9-4218-939c-e108e2bd0330
+1 NAME Donna /Straub/
+1 SEX F
+1 FAMC @F386@
+0 @I624@ INDI
+1 NAME [REDACTED]
+1 FAMC @F386@
+0 @I632@ INDI
+1 REFN dc6cf365-4d22-4a5e-9379-fd74300c3ff7
+1 NAME Ronald /Straub/
+1 SEX M
+1 FAMC @F386@
 0 @Cdtyz5EPSoWLD452xRfa@ INDI
 1 REFN ca1c7c13-2ed6-43df-a578-21d77f9a508d
 1 NAME Edward /Swift/
@@ -31468,14 +32421,12 @@
 1 NAME Dale /Thomas/
 1 SEX M
 1 FAMC @F355@
-1 NOTE _XY 30 412  _UID 8c51c5c8-52e2-4a12-aa95-21a26ec56bc6
 1 _XY 1375.00 2625.00
 0 @I438@ INDI
 1 REFN b6a4d854-690d-4728-b456-b015119c4a46
 1 NAME David /Thomas/
 1 SEX M
 1 FAMC @F355@
-1 NOTE _XY 110 410  _UID b6a4d854-690d-4728-b456-b015119c4a46
 1 _XY 1450.00 2625.00
 0 @I437@ INDI
 1 REFN 156c30c7-e95b-43c5-949d-dd5a6d2f8219
@@ -31492,7 +32443,6 @@
 1 NAME Scott /Thomas/
 1 SEX M
 1 FAMC @F355@
-1 NOTE _XY 194 412  _UID 255f3799-d2be-48d7-aba1-d512b640a7cd
 1 _XY 1525.00 2625.00
 0 @vds8vnR8T8WhCKCgvpxP@ INDI
 1 REFN 6b9b88c3-ed1a-489c-a710-d8b218859946
@@ -32105,7 +33055,7 @@
 3 _APID 1,2442::11198752
 2 SOUR @S203@
 3 PAGE New York State Department of Health; Albany, NY, USA; New Yo
-4 CONC rk State Marriage Index
+4 CONC rk State Marriage Index; Adelbert Weeks
 3 OBJE @M279@
 3 _APID 1,61632::7175922
 2 SOUR @S208@
@@ -33309,7 +34259,7 @@
 3 _APID 1,61066::27529365
 2 SOUR @S203@
 3 PAGE New York State Department of Health; Albany, NY, USA; New Yo
-4 CONC rk State Marriage Index
+4 CONC rk State Marriage Index; Minnie Winters
 3 OBJE @M329@
 3 _APID 1,61632::6077480
 2 SOUR @S216@
@@ -33540,7 +34490,6 @@
 1 SEX F
 1 FAMC @F354@
 1 FAMS @F355@
-1 NOTE _XY 94 315  _UID 4b3e10d7-29ac-45ad-9f92-6c9ca4746a16
 1 BIRT
 2 DATE 08 OCT 1937
 2 PLAC Syracuse, Onondaga, New York, USA
@@ -33623,7 +34572,7 @@
 3 _APID 1,5180::8057827
 2 SOUR @S203@
 3 PAGE New York State Department of Health; Albany, NY, USA; New Yo
-4 CONC rk State Marriage Index
+4 CONC rk State Marriage Index; Harold W. Wood
 3 OBJE @M492@
 3 _APID 1,61632::4248597
 2 SOUR @S256@
@@ -33650,7 +34599,6 @@
 1 SEX M
 1 FAMC @F388@
 1 FAMS @F354@
-1 NOTE _XY 30 228  _UID 7a158510-24fb-47c3-9e53-6b230e4eb6a3
 1 BIRT
 2 DATE 12 DEC 1896
 2 PLAC Hubbardsville, Madison, New York, USA
@@ -34268,42 +35216,8 @@
 0 @F393@ FAM
 0 @F431@ FAM
 1 HUSB @I524@
-1 MARR
-2 DATE 1846
-2 SOUR @MYPTYwXjROCnuswpONVl@
-3 PAGE Year: 1900; Census Place: Chicago Ward 34, Cook, Illinois; P
-4 CONC age: 1; Enumeration District: 1207; FHL microfilm: 1240289
-3 OBJE @M421@
-0 @F438@ FAM
-1 WIFE @I567@
-1 MARR
-2 DATE 01 JUL 1903
-2 PLAC St Paul, Ramsey, Minnesota, USA
-3 MAP
-4 LATI N44.9444
-4 LONG W93.093
-2 SOUR @S291@
-0 @F439@ FAM
-1 HUSB @I571@
-1 MARR
-2 DATE 01 JUL 1903
-2 PLAC St Paul, Ramsey, Minnesota, USA
-3 MAP
-4 LATI N44.9444
-4 LONG W93.093
-2 SOUR @S291@
 0 @F440@ FAM
 1 WIFE @I526@
-1 MARR
-2 DATE 1850
-2 SOUR @MYPTYwXjROCnuswpONVl@
-3 PAGE Year: 1900; Census Place: Chicago Ward 12, Cook, Illinois; P
-4 CONC age: 2; Enumeration District: 0347; FHL microfilm: 1240259
-3 OBJE @M430@
-0 @F455@ FAM
-1 HUSB @I574@
-0 @F456@ FAM
-1 WIFE @I611@
 0 @PEfzw3T0TFuFQrWgroil@ FAM
 1 REFN 90c12f6f-2e57-45ff-9067-e239614f93c0
 1 HUSB @UejRBXK8SpuTaTtLvcDZ@
@@ -34376,6 +35290,12 @@
 1 CHIL @I540@
 2 _FREL Natural
 2 _MREL Natural
+1 CHIL @I653@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I654@
+2 _FREL Natural
+2 _MREL Natural
 0 @F391@ FAM
 1 HUSB @I477@
 1 WIFE @I480@
@@ -34399,6 +35319,9 @@
 1 HUSB @I467@
 1 CHIL @I598@
 2 _FREL Natural
+0 @F485@ FAM
+1 HUSB @I467@
+1 WIFE @I655@
 0 @F361@ FAM
 1 HUSB @I465@
 1 WIFE @gAHqqaSRTeeawmG9dmnd@
@@ -34423,20 +35346,6 @@
 0 @F328@ FAM
 1 HUSB @I411@
 1 WIFE @lRa4WTztSYCNE5gvKech@
-1 MARR
-2 DATE 16 FEB 1893
-2 PLAC Madison, Madison, New York, USA
-3 MAP
-4 LATI N42.899
-4 LONG W75.5121
-2 SOUR @S203@
-3 PAGE New York State Department of Health; Albany, NY, USA; New Yo
-4 CONC rk State Marriage Index
-3 OBJE @M374@
-2 SOUR @S203@
-3 PAGE New York State Department of Health; Albany, NY, USA; New Yo
-4 CONC rk State Marriage Index
-3 OBJE @M372@
 0 @F443@ FAM
 1 HUSB @I581@
 1 WIFE @I582@
@@ -34456,13 +35365,19 @@
 4 LATI N41.5706
 4 LONG W71.8708
 2 SOUR @S312@
-3 OBJE @M461@
-2 SOUR @S312@
+3 PAGE Lydia Griffith
 3 OBJE @M464@
+2 SOUR @S312@
+3 PAGE Menassah Bloss
+3 OBJE @M461@
+3 _APID 1,1062::236964
 2 SOUR @S314@
+3 PAGE Lydia Griffith
 3 OBJE @M460@
 2 SOUR @S314@
+3 PAGE Manassah Bliss
 3 OBJE @M460@
+3 _APID 1,3719::12184
 0 @0AHPJQMgRoaRteWxND3Z@ FAM
 1 REFN 4f126481-4c31-4a53-9b69-cc7f868fd3ce
 1 HUSB @esHRgd1WSxarhtORNU69@
@@ -34494,6 +35409,24 @@
 0 @F387@ FAM
 1 HUSB @I484@
 1 WIFE @I450@
+1 CHIL @I623@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I627@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I628@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I650@
+2 _FREL Natural
+2 _MREL Natural
+0 @F487@ FAM
+1 HUSB @I650@
+1 CHIL @I651@
+2 _FREL Natural
+1 CHIL @I652@
+2 _FREL Natural
 0 @Jdd3sX1MR0iVDQbISzEI@ FAM
 1 REFN fc3be594-c103-42e3-95f4-7637646c99c3
 1 HUSB @O6cUmdBbRWWqLxJvbI4f@
@@ -34529,6 +35462,12 @@
 1 HUSB @I460@
 1 WIFE @I560@
 1 CHIL @I561@
+2 _FREL Natural
+2 _MREL Natural
+0 @F480@ FAM
+1 HUSB @I643@
+1 WIFE @I598@
+1 CHIL @I644@
 2 _FREL Natural
 2 _MREL Natural
 0 @F344@ FAM
@@ -34579,7 +35518,10 @@
 4 LATI N40.9634
 4 LONG W72.1848
 2 SOUR @S310@
+3 PAGE Abigail Herriman
 2 SOUR @S310@
+3 PAGE Jeremiah, Jr. Conkling
+3 _APID 1,7854::32709
 0 @1Ar7dolcTNO95kag6g4I@ FAM
 1 REFN 367f2719-ee71-4b6a-bdd7-5045d8d15fba
 1 HUSB @lEPJDLTMRO6OmzDOeXTR@
@@ -34692,6 +35634,18 @@
 3 _APID 1,7602::55837969
 2 SOUR @Hm17MLj2SaOPgMVpc2Wa@
 3 PAGE Mosher/Douglass Family Bible
+0 @F482@ FAM
+1 HUSB @I646@
+1 WIFE @I448@
+1 CHIL @I634@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I635@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I636@
+2 _FREL Natural
+2 _MREL Natural
 0 @F427@ FAM
 1 HUSB @I556@
 1 WIFE @I517@
@@ -34704,6 +35658,9 @@
 1 CHIL @I559@
 2 _FREL Natural
 2 _MREL Natural
+0 @F481@ FAM
+1 HUSB @I645@
+1 WIFE @I598@
 0 @F343@ FAM
 1 HUSB @I428@
 1 WIFE @I426@
@@ -34780,9 +35737,12 @@
 4 LATI N41.51
 4 LONG W71.1717
 2 SOUR @S322@
+3 PAGE Elizabeth Shaw
 3 OBJE @M497@
 2 SOUR @S322@
+3 PAGE John Head
 3 OBJE @M497@
+3 _APID 1,3897::66039
 0 @F409@ FAM
 1 HUSB @I530@
 1 WIFE @I531@
@@ -34820,22 +35780,25 @@
 4 LATI N41.6282
 4 LONG W70.966
 2 SOUR @S298@
-3 PAGE handwritten copy
-3 OBJE @M443@
+3 PAGE handwritten copy 2, Betsey Howland
+3 OBJE @M470@
+3 _APID 1,2495::6073794
 2 SOUR @S298@
-3 PAGE handwritten copy
-3 OBJE @M443@
-2 SOUR @S298@
-3 PAGE handwritten copy 2
+3 PAGE handwritten copy 2, Uriah Head
 3 OBJE @M470@
 2 SOUR @S298@
-3 PAGE handwritten copy 2
-3 OBJE @M470@
+3 PAGE handwritten copy, Betsey Howland
+3 OBJE @M443@
+3 _APID 1,2495::16066283
 2 SOUR @S298@
-3 PAGE original record
+3 PAGE handwritten copy, Uriah Head
+3 OBJE @M443@
+2 SOUR @S298@
+3 PAGE original record, Betsey Howland
 3 OBJE @M466@
+3 _APID 1,2495::16010223
 2 SOUR @S298@
-3 PAGE original record
+3 PAGE original record, Uriah Head
 3 OBJE @M466@
 1 MARR
 2 DATE 18 AUG 1816
@@ -34846,46 +35809,52 @@
 2 SOUR @S305@
 3 PAGE New England Historic Genealogical Society; Boston, Massachus
 4 CONC etts; Vital Records of Dartmouth, Massachusetts to the End o
-4 CONC f the Year 1850 (typeset extract 2)
+4 CONC f the Year 1850 (typeset extract 2, Betsy Howland)
+3 OBJE @M477@
+3 _APID 1,61401::90222997
+2 SOUR @S305@
+3 PAGE New England Historic Genealogical Society; Boston, Massachus
+4 CONC etts; Vital Records of Dartmouth, Massachusetts to the End o
+4 CONC f the Year 1850 (typeset extract 2, Uriah Head)
 3 OBJE @M477@
 2 SOUR @S305@
 3 PAGE New England Historic Genealogical Society; Boston, Massachus
 4 CONC etts; Vital Records of Dartmouth, Massachusetts to the End o
-4 CONC f the Year 1850 (typeset extract 2)
-3 OBJE @M477@
+4 CONC f the Year 1850 (typeset extract, Betsy Howland)
+3 OBJE @M472@
+3 _APID 1,61401::223189
 2 SOUR @S305@
 3 PAGE New England Historic Genealogical Society; Boston, Massachus
 4 CONC etts; Vital Records of Dartmouth, Massachusetts to the End o
-4 CONC f the Year 1850 (typeset extract)
-3 OBJE @M472@
-2 SOUR @S305@
-3 PAGE New England Historic Genealogical Society; Boston, Massachus
-4 CONC etts; Vital Records of Dartmouth, Massachusetts to the End o
-4 CONC f the Year 1850 (typeset extract)
+4 CONC f the Year 1850 (typeset extract, Uriah Head)
 3 OBJE @M472@
 2 SOUR @S298@
-3 PAGE handwritten copy 3
+3 PAGE handwritten copy 3, Betsy Howland
+3 OBJE @M469@
+3 _APID 1,2495::16080257
+2 SOUR @S298@
+3 PAGE handwritten copy 3, Uriah Head
 3 OBJE @M469@
 2 SOUR @S298@
-3 PAGE handwritten copy 3
-3 OBJE @M469@
+3 PAGE handwritten copy 4, Betsy Howland
+3 OBJE @M471@
+3 _APID 1,2495::6087811
 2 SOUR @S298@
-3 PAGE handwritten copy 4
+3 PAGE handwritten copy 4, Uriah Head
 3 OBJE @M471@
 2 SOUR @S298@
-3 PAGE handwritten copy 4
-3 OBJE @M471@
+3 PAGE original record 2, Betsy Howland
+3 OBJE @M475@
+3 _APID 1,2495::16107556
 2 SOUR @S298@
-3 PAGE original record 2
+3 PAGE original record 2, Uriah Head
 3 OBJE @M475@
 2 SOUR @S298@
-3 PAGE original record 2
-3 OBJE @M475@
-2 SOUR @S298@
-3 PAGE typeset extract
+3 PAGE typeset extract, Betsy Howland
 3 OBJE @M476@
+3 _APID 1,2495::80633281
 2 SOUR @S298@
-3 PAGE typeset extract
+3 PAGE typeset extract, Uriah Head
 3 OBJE @M489@
 0 @9GfyXMWARWSaqCWX3xZ7@ FAM
 1 REFN 4e73e0e0-b0f3-4897-bc17-f6460e66a828
@@ -34981,16 +35950,22 @@
 3 PAGE Michigan Department of Community Health, Division of Vital R
 4 CONC ecords and Health Statistics; Lansing, MI, USA; Michigan, Ma
 4 CONC rriage Records, 1867-1952; Film: 17; Film Description: 187
-4 CONC 8 Washtenaw-1879 Lake
+4 CONC 8 Washtenaw-1879 Lake; Mary J Mosher
 3 OBJE @M352@
+3 _APID 1,9093::3698796
 2 SOUR @S270@
 3 PAGE Michigan Department of Community Health, Division of Vital R
 4 CONC ecords and Health Statistics; Lansing, MI, USA; Michigan, Ma
 4 CONC rriage Records, 1867-1952; Film: 17; Film Description: 187
-4 CONC 8 Washtenaw-1879 Lake
+4 CONC 8 Washtenaw-1879 Lake; Ward H Hogeboom
 3 OBJE @M352@
+3 _APID 1,9093::887520
 2 SOUR @S271@
+3 PAGE Mary J Mosher
+3 _APID 1,70330::125151
 2 SOUR @S271@
+3 PAGE Ward H Hogeboom
+3 _APID 1,70330::231756
 0 @F442@ FAM
 1 HUSB @I580@
 1 WIFE @I444@
@@ -35001,7 +35976,10 @@
 4 LATI N30.3342
 4 LONG W81.6485
 2 SOUR @S308@
+3 PAGE John Thomas Hurst
+3 _APID 1,8837::2677819
 2 SOUR @S308@
+3 PAGE Sandra
 0 @F407@ FAM
 1 HUSB @I518@
 1 WIFE @I519@
@@ -35010,22 +35988,39 @@
 2 SOUR @MYPTYwXjROCnuswpONVl@
 3 PAGE Year: 1900; Census Place: Grand Rapids Ward 4, Kent, Michiga
 4 CONC n; Page: 12; Enumeration District: 0058; FHL microfilm: 1240
-4 CONC 722
+4 CONC 722; Charles O Jeffords
 3 OBJE @M364@
+3 _APID 1,7602::64527666
 2 SOUR @MYPTYwXjROCnuswpONVl@
 3 PAGE Year: 1900; Census Place: Grand Rapids Ward 4, Kent, Michiga
 4 CONC n; Page: 12; Enumeration District: 0058; FHL microfilm: 1240
-4 CONC 722
+4 CONC 722; Mary J Jeffords
 3 OBJE @M364@
+3 _APID 1,7602::64527667
 0 @F414@ FAM
 1 HUSB @I536@
 1 WIFE @I537@
 1 CHIL @I533@
 2 _FREL Natural
 2 _MREL Natural
+0 @F488@ FAM
+1 HUSB @I656@
+1 WIFE @I539@
 0 @F437@ FAM
 1 HUSB @I571@
 1 WIFE @I567@
+1 MARR
+2 DATE 01 JUL 1903
+2 PLAC St Paul, Ramsey, Minnesota, USA
+3 MAP
+4 LATI N44.9444
+4 LONG W93.093
+2 SOUR @S291@
+3 PAGE Josephine F Mosher
+3 _APID 1,2561::716389
+2 SOUR @S291@
+3 PAGE Salem J Johnson
+3 _APID 1,2561::257222
 0 @F396@ FAM
 1 HUSB @I491@
 1 WIFE @I492@
@@ -35047,12 +36042,15 @@
 2 DATE 1875
 2 SOUR @MYPTYwXjROCnuswpONVl@
 3 PAGE Year: 1900; Census Place: Madison, Madison, New York; Page
-4 CONC : 3; Enumeration District: 0023; FHL microfilm: 1241072
+4 CONC : 3; Enumeration District: 0023; FHL microfilm: 1241072; Cor
+4 CONC nelia Lay
 3 OBJE @M453@
 2 SOUR @MYPTYwXjROCnuswpONVl@
 3 PAGE Year: 1900; Census Place: Madison, Madison, New York; Page
-4 CONC : 3; Enumeration District: 0023; FHL microfilm: 1241072
+4 CONC : 3; Enumeration District: 0023; FHL microfilm: 1241072; Le
+4 CONC e Lay
 3 OBJE @M453@
+3 _APID 1,7602::66523494
 0 @o5Fe3uU0R9Kp9SwE4cSY@ FAM
 1 REFN 1d81cf4e-d097-4095-97d7-1ca3f6241c40
 1 HUSB @ULyEcLDtSR6HRoRznIwa@
@@ -35151,6 +36149,15 @@
 1 REFN a2a46faa-f195-4da8-b883-df4d6302732a
 1 HUSB @23SIWBEDQcSc1zULNk3d@
 1 WIFE @xI8eDocyQKOvs4rGkeaG@
+0 @F484@ FAM
+1 HUSB @I647@
+1 WIFE @I648@
+0 @F483@ FAM
+1 HUSB @I647@
+1 WIFE @I448@
+1 CHIL @I649@
+2 _FREL Natural
+2 _MREL Natural
 0 @PzZHkd8sRsWKctNQ4JuE@ FAM
 1 REFN 420107a8-e094-4e22-84ce-67343fba2bdd
 1 HUSB @7a6O84nJSHqwiMk9dg68@
@@ -35298,11 +36305,14 @@
 2 DATE 1872
 2 SOUR @MYPTYwXjROCnuswpONVl@
 3 PAGE Year: 1900; Census Place: Hamilton, Madison, New York; Page
-4 CONC : 13; Enumeration District: 0014; FHL microfilm: 1241071
+4 CONC : 13; Enumeration District: 0014; FHL microfilm: 1241071; Hi
+4 CONC ram H Mcgraw
 3 OBJE @M407@
+3 _APID 1,7602::55840789
 2 SOUR @MYPTYwXjROCnuswpONVl@
 3 PAGE Year: 1900; Census Place: Hamilton, Madison, New York; Page
-4 CONC : 13; Enumeration District: 0014; FHL microfilm: 1241071
+4 CONC : 13; Enumeration District: 0014; FHL microfilm: 1241071; Sa
+4 CONC rah J Mcgraw
 3 OBJE @M407@
 0 @F420@ FAM
 1 HUSB @I541@
@@ -35324,10 +36334,11 @@
 4 LONG W74.2224
 2 SOUR @XkYfWXOxTRycLRJJyxNy@
 3 PAGE Source number: 2557.007; Source type: Family group sheet, FG
-4 CONC SE, listed as parents; Number of Pages: 1
+4 CONC SE, listed as parents; Number of Pages: 1; Arminda Mosher
 2 SOUR @XkYfWXOxTRycLRJJyxNy@
 3 PAGE Source number: 2557.007; Source type: Family group sheet, FG
-4 CONC SE, listed as parents; Number of Pages: 1
+4 CONC SE, listed as parents; Number of Pages: 1; William Mcgraw
+3 _APID 1,7836::811675
 1 DIV
 2 DATE ABT 1857
 0 @F302@ FAM
@@ -35569,12 +36580,13 @@
 2 SOUR @MYPTYwXjROCnuswpONVl@
 3 PAGE Year: 1900; Census Place: Minneapolis Ward 8, Hennepin, Minn
 4 CONC esota; Page: 12; Enumeration District: 0089; FHL microfilm
-4 CONC : 1240768
+4 CONC : 1240768; A G Merner
 3 OBJE @M438@
+3 _APID 1,7602::35902571
 2 SOUR @MYPTYwXjROCnuswpONVl@
 3 PAGE Year: 1900; Census Place: Minneapolis Ward 8, Hennepin, Minn
 4 CONC esota; Page: 12; Enumeration District: 0089; FHL microfilm
-4 CONC : 1240768
+4 CONC : 1240768; Annetta M Merner
 3 OBJE @M438@
 0 @F359@ FAM
 1 HUSB @I456@
@@ -35723,8 +36735,10 @@
 2 NOTE IGI also gives 27 Apr 1753
 0 @F430@ FAM
 1 HUSB @I454@
+1 WIFE @I625@
 1 CHIL @I539@
 2 _FREL Natural
+2 _MREL Natural
 0 @F429@ FAM
 1 HUSB @I528@
 1 WIFE @I552@
@@ -35736,10 +36750,13 @@
 2 SOUR @MYPTYwXjROCnuswpONVl@
 3 PAGE Year: 1900; Census Place: Chicago Ward 12, Cook, Illinois; P
 4 CONC age: 2; Enumeration District: 0347; FHL microfilm: 1240259
+4 CONC ; Chas Mosher
 3 OBJE @M430@
+3 _APID 1,7602::10592661
 2 SOUR @MYPTYwXjROCnuswpONVl@
 3 PAGE Year: 1900; Census Place: Chicago Ward 12, Cook, Illinois; P
 4 CONC age: 2; Enumeration District: 0347; FHL microfilm: 1240259
+4 CONC ; Gertrude E Mosher
 3 OBJE @M430@
 0 @F435@ FAM
 1 HUSB @I562@
@@ -35937,6 +36954,20 @@
 1 CHIL @I529@
 2 _FREL Natural
 2 _MREL Natural
+1 MARR
+2 DATE 1846
+2 SOUR @MYPTYwXjROCnuswpONVl@
+3 PAGE Year: 1900; Census Place: Chicago Ward 12, Cook, Illinois; P
+4 CONC age: 2; Enumeration District: 0347; FHL microfilm: 1240259
+4 CONC ; Susan Mosher
+3 OBJE @M430@
+3 _APID 1,7602::10592665
+2 SOUR @MYPTYwXjROCnuswpONVl@
+3 PAGE Year: 1900; Census Place: Chicago Ward 34, Cook, Illinois; P
+4 CONC age: 1; Enumeration District: 1207; FHL microfilm: 1240289
+4 CONC ; Horace M Mosher
+3 OBJE @M421@
+3 _APID 1,7602::11579684
 0 @F400@ FAM
 1 HUSB @kMrKRC5sQVWkp3rsNY1Y@
 1 WIFE @I497@
@@ -35990,16 +37021,18 @@
 4 LONG W74.2224
 2 SOUR @XkYfWXOxTRycLRJJyxNy@
 3 PAGE Source number: 20.000; Source type: Electronic Database; Num
-4 CONC ber of Pages: 1; Submitter Code: RKM
+4 CONC ber of Pages: 1; Submitter Code: RKM; Fannie Conklin
 2 SOUR @XkYfWXOxTRycLRJJyxNy@
 3 PAGE Source number: 20.000; Source type: Electronic Database; Num
-4 CONC ber of Pages: 1; Submitter Code: RKM
+4 CONC ber of Pages: 1; Submitter Code: RKM; James Mosher
+3 _APID 1,7836::867329
 2 SOUR @XkYfWXOxTRycLRJJyxNy@
 3 PAGE Source number: 2612.013; Source type: Family group sheet, FG
-4 CONC SE, listed as parents; Number of Pages: 1
+4 CONC SE, listed as parents; Number of Pages: 1; Fannie Conklin
 2 SOUR @XkYfWXOxTRycLRJJyxNy@
 3 PAGE Source number: 2612.013; Source type: Family group sheet, FG
-4 CONC SE, listed as parents; Number of Pages: 1
+4 CONC SE, listed as parents; Number of Pages: 1; James Mosher
+3 _APID 1,7836::867330
 0 @F401@ FAM
 1 HUSB @I505@
 1 WIFE @I506@
@@ -36049,9 +37082,20 @@
 4 LONG W75.5446
 2 SOUR @S203@
 3 PAGE New York State Department of Health; Albany, NY, USA; New Yo
-4 CONC rk State Marriage Index
+4 CONC rk State Marriage Index; LeGrand Mosher
+3 OBJE @M328@
+3 _APID 1,61632::6053691
+2 SOUR @S203@
+3 PAGE New York State Department of Health; Albany, NY, USA; New Yo
+4 CONC rk State Marriage Index; Minnie Winters
 3 OBJE @M329@
 3 _APID 1,61632::6077480
+0 @F486@ FAM
+1 HUSB @I447@
+1 WIFE @I633@
+1 CHIL @I626@
+2 _FREL Natural
+2 _MREL Natural
 0 @bDNq0ruKQTShQyuD99jm@ FAM
 1 REFN 279bc1d6-1f5f-481d-9f44-953d88dc1f96
 1 HUSB @BhoSovK4SzeBRpU2NspI@
@@ -36083,6 +37127,7 @@
 3 PAGE p. 34
 3 QUAY 2
 2 SOUR @S208@
+3 OBJE @5Ob6Lje1RKanQtKfyncR@
 3 _APID 1,61377::142590
 2 NOTE By F. W. Tomlinson, Minister.
 3 CONT Alta Benedict says they were married in the house they rente
@@ -36121,8 +37166,8 @@
 1 CHIL @BXon2031Q0iFS4Xa2ZnV@
 2 _FREL Natural
 2 _MREL Natural
-1 MARR just a guess
-2 DATE ABT 1850
+1 MARR
+2 DATE ABT 1849
 2 PLAC Madison, Madison, New York, USA
 3 MAP
 4 LATI N42.899
@@ -36168,6 +37213,11 @@
 4 LATI N30.3342
 4 LONG W81.6485
 2 SOUR @S308@
+3 PAGE Doris B Mosher
+3 OBJE @M323@
+3 _APID 1,8837::1140155
+2 SOUR @S308@
+3 PAGE Sanford W Mosher
 3 OBJE @M323@
 3 _APID 1,8837::274281
 0 @F399@ FAM
@@ -36193,10 +37243,11 @@
 4 LONG W75.1258
 2 SOUR @XkYfWXOxTRycLRJJyxNy@
 3 PAGE Source number: 23.000; Source type: Electronic Database; Num
-4 CONC ber of Pages: 1; Submitter Code: RKM
+4 CONC ber of Pages: 1; Submitter Code: RKM; Hannah Bloss
 2 SOUR @XkYfWXOxTRycLRJJyxNy@
 3 PAGE Source number: 23.000; Source type: Electronic Database; Num
-4 CONC ber of Pages: 1; Submitter Code: RKM
+4 CONC ber of Pages: 1; Submitter Code: RKM; Silas Mosher
+3 _APID 1,7836::867509
 0 @F397@ FAM
 1 HUSB @I496@
 1 WIFE @I498@
@@ -36290,13 +37341,13 @@
 1 CHIL @I447@
 2 _FREL Natural
 2 _MREL Natural
-1 CHIL @I448@
-2 _FREL Natural
-2 _MREL Natural
 1 CHIL @I450@
 2 _FREL Natural
 2 _MREL Natural
 1 CHIL @I449@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I448@
 2 _FREL Natural
 2 _MREL Natural
 1 CHIL @I454@
@@ -36332,12 +37383,13 @@
 2 SOUR @MYPTYwXjROCnuswpONVl@
 3 PAGE Year: 1900; Census Place: Newton Ward 5, Middlesex, Massachu
 4 CONC setts; Page: 4; Enumeration District: 0903; FHL microfilm: 1
-4 CONC 240664
+4 CONC 240664; David O Mosher
 3 OBJE @M373@
+3 _APID 1,7602::48185471
 2 SOUR @MYPTYwXjROCnuswpONVl@
 3 PAGE Year: 1900; Census Place: Newton Ward 5, Middlesex, Massachu
 4 CONC setts; Page: 4; Enumeration District: 0903; FHL microfilm: 1
-4 CONC 240664
+4 CONC 240664; Moranda B Mosher
 3 OBJE @M373@
 0 @PFxswQZrS3apVCQz18DF@ FAM
 1 REFN ce1d242c-0835-41ee-9ed7-ecfc0877b02c
@@ -36496,6 +37548,24 @@
 1 REFN 52d0d5e7-ab8e-4cc5-ade2-c15db84087d9
 1 HUSB @yXLbm5KDSs63XocRNT27@
 1 WIFE @qjF9oUM9T4SOrJO2RNCg@
+0 @F479@ FAM
+1 HUSB @I638@
+1 WIFE @I639@
+1 CHIL @I641@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I640@
+2 _FREL Natural
+2 _MREL Natural
+0 @F478@ FAM
+1 HUSB @I637@
+1 WIFE @I636@
+1 CHIL @I638@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I642@
+2 _FREL Natural
+2 _MREL Natural
 0 @jTtPsRusTv21bA4e3MAS@ FAM
 1 REFN b99e9b30-3e94-4d76-aaf1-dd78b45f8086
 1 HUSB @5u72RD5LQ6mZZ7wJ2wh3@
@@ -36840,6 +37910,21 @@
 0 @F386@ FAM
 1 HUSB @I483@
 1 WIFE @I449@
+1 CHIL @I629@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I630@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I631@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I632@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I624@
+2 _FREL Natural
+2 _MREL Natural
 0 @iZZBOlqtTX2ugOpc4wj1@ FAM
 1 REFN 071f2b4d-ddd6-4b1e-a10b-5cdba91af7a4
 1 HUSB @O6ZQ0mlcTUucEaYugaH0@
@@ -37360,6 +38445,12 @@
 1 TITL Ancestry of Megan Montgomery
 1 AUTH Montgomery, Megan
 1 PUBL http://www.gencircles.com/users/megan/1/
+0 @S332@ SOUR
+1 REPO @R9@
+1 TITL Arizona, County Marriage Records, 1865-1972
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.; Location: Lehi, UT, USA; Date
+2 CONC : 2016
 0 @nUFZlAguSRKKOvboliQS@ SOUR
 1 REFN f38e0d40-6297-43e6-a96d-a3e9b38ef9d1
 1 TITL Atlas of Madison County, NY
@@ -38377,8 +39468,14 @@
 1 REFN 09b31054-13ee-42f3-ae11-98faa251f913
 1 TITL NEHGR
 1 PUBL NEHGS
+0 @S324@ SOUR
+1 REPO @R9@
+1 TITL Nevada, Divorce Index, 1968-2015
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
+2 CONC e: 2007
 0 @S246@ SOUR
-1 REPO @R1@
+1 REPO @R9@
 1 TITL Nevada, Marriage Index, 1956-2005
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
@@ -38397,6 +39494,12 @@
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Lehi, UT, USA; Date
 2 CONC : 2016
+0 @S330@ SOUR
+1 REPO @R9@
+1 TITL New Jersey, State Census, 1915
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.; Location: Lehi, UT, USA; Date
+2 CONC : 2017
 0 @S204@ SOUR
 1 TITL New Topographical Atlas of Saratoga Co. New York. From Actua
 2 CONC l Surveys by S. N. & D. G. Beers and Assistants
@@ -38470,6 +39573,12 @@
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations Inc; Location: Provo, UT, USA; Date
 2 CONC : 2004
+0 @S328@ SOUR
+1 REPO @R9@
+1 TITL New York, New York, Birth Index, 1910-1965
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.; Location: Lehi, UT, USA; Date
+2 CONC : 2017
 0 @S211@ SOUR
 1 REPO @R1@
 1 TITL New York, State Census, 1855
@@ -38507,8 +39616,7 @@
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2012
 0 @IatrsKHUQdmGOYci7sP2@ SOUR
-1 REFN 428513b9-a4fb-4577-a3de-664f3c852ab7
-1 REPO @R1@
+1 REPO @R9@
 1 TITL New York, State Census, 1925
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
@@ -39301,13 +40409,6 @@
 1 AUTH Rhode Island Historical Society.
 1 PUBL Rhode Island Historical Society.; Location: Providence, RI
 2 CONC , USA.; Date: 1921–
-0 @9wMdFE3iTDe2CrzzBY3l@ SOUR
-1 REFN 575b4323-084b-4c45-a8f3-616262b8f876
-1 REPO @R1@
-1 TITL Rhode Island, Vital Extracts, 1636-1899
-1 AUTH Ancestry.com
-1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
-2 CONC e: 2014
 0 @S322@ SOUR
 1 REPO @R9@
 1 TITL Rhode Island, Vital Extracts, 1636-1899
@@ -39377,12 +40478,6 @@
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations Inc; Location: Provo, UT, USA; Date
 2 CONC : 2005
-0 @S321@ SOUR
-1 REPO @R9@
-1 TITL U.S. Phone and Address Directories, 1993-2002
-1 AUTH Ancestry.com
-1 PUBL Ancestry.com Operations Inc; Location: Provo, UT, USA; Date
-2 CONC : 2005
 0 @S263@ SOUR
 1 REPO @R1@
 1 TITL U.S. Public Records Index, 1950-1993, Volume 1
@@ -39410,25 +40505,18 @@
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Lehi, UT, USA; Date
 2 CONC : 2016
+0 @S331@ SOUR
+1 REPO @R9@
+1 TITL U.S., Cemetery and Funeral Home Collection, 1847-Current
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations Inc; Location: Lehi, UT, USA; Date
+2 CONC : 2011
 0 @S273@ SOUR
 1 REPO @R9@
 1 TITL U.S., Civil War Draft Registrations Records, 1863-1865
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2010
-0 @S296@ SOUR
-1 REPO @R9@
-1 TITL U.S., Civil War Draft Registrations Records, 1863-1865
-1 AUTH Ancestry.com
-1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
-2 CONC e: 2010
-0 @S255@ SOUR
-1 REPO @R1@
-1 TITL U.S., Department of Veterans Affairs BIRLS Death File, 1850-
-2 CONC 2010
-1 AUTH Ancestry.com
-1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
-2 CONC e: 2011
 0 @S319@ SOUR
 1 REPO @R9@
 1 TITL U.S., Department of Veterans Affairs BIRLS Death File, 1850-
@@ -39465,6 +40553,12 @@
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations Inc; Location: Lehi, UT, USA; Date
 2 CONC : 2006
+0 @S326@ SOUR
+1 REPO @R9@
+1 TITL U.S., Presbyterian Church Records, 1701-1970
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.; Location: Lehi, UT, USA; Date
+2 CONC : 2016
 0 @S286@ SOUR
 1 REPO @R9@
 1 TITL U.S., School Catalogs, 1765-1935
@@ -39474,6 +40568,12 @@
 0 @S251@ SOUR
 1 REPO @R1@
 1 TITL U.S., School Yearbooks, 1880-2012
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
+2 CONC e: 2010
+0 @S329@ SOUR
+1 REPO @R9@
+1 TITL U.S., School Yearbooks, 1900-1999
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2010
@@ -43231,13 +44331,6 @@
 2 TITL 1880 United States Federal Census
 2 _TEXT Year: 1880; Census Place: Fulton, Oswego, New York; Roll: 91
 3 CONC 5; Page: 221A; Enumeration District: 272
-0 @M372@ OBJE
-1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher Media\Ne
-2 CONC w York State, Marriage Index, 1881-1967(6).jpg
-2 FORM jpg
-2 TITL New York State, Marriage Index, 1881-1967
-2 _TEXT New York State Department of Health; Albany, NY, USA; New Yo
-3 CONC rk State Marriage Index
 0 @M373@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher Media\19
 2 CONC 00 United States Federal Census(5).jpg
@@ -43246,13 +44339,6 @@
 2 _TEXT Year: 1900; Census Place: Newton Ward 5, Middlesex, Massachu
 3 CONC setts; Page: 4; Enumeration District: 0903; FHL microfilm: 1
 3 CONC 240664
-0 @M374@ OBJE
-1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher Media\Ne
-2 CONC w York State, Marriage Index, 1881-1967(7).jpg
-2 FORM jpg
-2 TITL New York State, Marriage Index, 1881-1967
-2 _TEXT New York State Department of Health; Albany, NY, USA; New Yo
-3 CONC rk State Marriage Index
 0 @M375@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher Media\19
 2 CONC 10 United States Federal Census(8).jpg
@@ -44053,4 +45139,221 @@
 2 CONC ode Island, Vital Extracts, 1636-1899.jpg
 2 FORM jpg
 2 TITL Rhode Island, Vital Extracts, 1636-1899
+0 @M498@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher Media\Pe
+2 CONC arl Mae Colvin.jpg
+2 FORM jpg
+2 TITL Pearl Mae Colvin
+2 _TEXT Clarence Colvin's older sister, Pearl.
+0 @M499@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher Media\Wi
+2 CONC lliam Exner.jpg
+2 FORM jpg
+2 TITL William Exner
+2 _TEXT "U.S., School Yearbooks, 1880-2012"; School Name: Valley Hig
+3 CONC h School; Year: 1975
+0 @M500@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher Media\He
+2 CONC lene Exner.jpg
+2 FORM jpg
+2 TITL Helene Exner
+2 _TEXT "U.S., School Yearbooks, 1880-2012"; School Name: Valley Hig
+3 CONC h School; Year: 1976
+0 @M501@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher Media\Li
+2 CONC nda Exner.jpg
+2 FORM jpg
+2 TITL Linda Exner
+2 _TEXT "U.S., School Yearbooks, 1880-2012"; School Name: Valley Hig
+3 CONC h School; Year: 1975
+0 @M502@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher Media\Al
+2 CONC ta and Jeril Benedict - air strip.jpg
+2 FORM jpg
+2 TITL Alta and Jeril Benedict - air strip
+2 _DATE 19 Jan 1962
+0 @M503@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher Media\48
+2 CONC 098028-3ced-45a3-b45d-f3c46605c8bb.jpg
+2 FORM jpg
+2 TITL 48098028-3ced-45a3-b45d-f3c46605c8bb
+0 @M504@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher Media\e6
+2 CONC ba439e-2125-4803-9b7b-5cb8a0bece3c.jpg
+2 FORM jpg
+2 TITL e6ba439e-2125-4803-9b7b-5cb8a0bece3c
+0 @M505@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher Media\Ne
+2 CONC w Jersey, Marriage Index, 1901-2016(1).jpg
+2 FORM jpg
+2 TITL New Jersey, Marriage Index, 1901-2016
+2 _TEXT New Jersey State Archives; Trenton, New Jersey; Marriage Ind
+3 CONC exes; Index Type: Bride; Year Range: 1992; Surname Range: M-
+3 CONC Z
+0 @M506@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher Media\Ne
+2 CONC w Jersey, Marriage Index, 1901-2016(2).jpg
+2 FORM jpg
+2 TITL New Jersey, Marriage Index, 1901-2016
+2 _TEXT New Jersey State Archives; Trenton, New Jersey; Marriage Ind
+3 CONC exes; Index Type: Bride; Year Range: 1953; Surname Range
+3 CONC : A - K
+0 @M507@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher Media\Ne
+2 CONC w York, New York, Birth Index, 1910-1965.jpg
+2 FORM jpg
+2 TITL New York, New York, Birth Index, 1910-1965
+0 @M508@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher Media\U.
+2 CONC S., School Yearbooks, 1900-1999.jpg
+2 FORM jpg
+2 TITL U.S., School Yearbooks, 1900-1999
+2 _TEXT "U.S., School Yearbooks, 1880-2012"; School Name: Valley Hig
+3 CONC h School; Year: 1975
+0 @M509@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher Media\U.
+2 CONC S., School Yearbooks, 1900-1999(1).jpg
+2 FORM jpg
+2 TITL U.S., School Yearbooks, 1900-1999
+2 _TEXT "U.S., School Yearbooks, 1880-2012"; School Name: Valley Hig
+3 CONC h School; Year: 1975
+0 @M510@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher Media\U.
+2 CONC S., School Yearbooks, 1900-1999(2).jpg
+2 FORM jpg
+2 TITL U.S., School Yearbooks, 1900-1999
+2 _TEXT "U.S., School Yearbooks, 1880-2012"; School Name: Valley Hig
+3 CONC h School; Year: 1976
+0 @M511@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher Media\19
+2 CONC 40 United States Federal Census(13).jpg
+2 FORM jpg
+2 TITL 1940 United States Federal Census
+2 _TEXT Year: 1940; Census Place: Bound Brook, Somerset, New Jersey
+3 CONC ; Roll: m-t0627-02382; Page: 9A; Enumeration District: 18-12
+0 @M512@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher Media\Ne
+2 CONC w Jersey, State Census, 1915.jpg
+2 FORM jpg
+2 TITL New Jersey, State Census, 1915
+2 _TEXT New Jersey State Archive; Trenton, NJ, USA; State Census o
+3 CONC f New Jersey, 1915; Reference Number: L-17; Film Number: 50
+0 @M513@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher Media\19
+2 CONC 20 United States Federal Census(12).jpg
+2 FORM jpg
+2 TITL 1920 United States Federal Census
+2 _TEXT Year: 1920; Census Place: Boonton Ward 3, Morris, New Jersey
+3 CONC ; Roll: T625_1060; Page: 9A; Enumeration District: 3
+0 @M514@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher Media\Ne
+2 CONC w Jersey, Marriage Index, 1901-2016(3).jpg
+2 FORM jpg
+2 TITL New Jersey, Marriage Index, 1901-2016
+2 _TEXT New Jersey State Archives; Trenton, New Jersey; Marriage Ind
+3 CONC exes; Index Type: Bride; Year Range: 1958; Surname Range
+3 CONC : L - Z
+0 @M515@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher Media\19
+2 CONC 40 United States Federal Census(14).jpg
+2 FORM jpg
+2 TITL 1940 United States Federal Census
+2 _TEXT Year: 1940; Census Place: Trenton, Mercer, New Jersey; Roll
+3 CONC : m-t0627-02435; Page: 4A; Enumeration District: 27-64
+0 @M516@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher Media\U.
+2 CONC S., Presbyterian Church Records, 1701-1970.jpg
+2 FORM jpg
+2 TITL U.S., Presbyterian Church Records, 1701-1970
+2 _TEXT Presbyterian Historical Society; Philadelphia, Pennsylvania
+3 CONC ; U.S., Presbyterian Church Records, 1701-1907; Accession Nu
+3 CONC mber: 00-1109a 59F Box 1
+0 @M517@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher Media\Ar
+2 CONC izona, County Marriage Records, 1865-1972.jpg
+2 FORM jpg
+2 TITL Arizona, County Marriage Records, 1865-1972
+0 @M518@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher Media\Ne
+2 CONC w York State, Marriage Index, 1881-1967(10).jpg
+2 FORM jpg
+2 TITL New York State, Marriage Index, 1881-1967
+2 _TEXT New York State Department of Health; Albany, NY, USA; New Yo
+3 CONC rk State Marriage Index
+0 @M519@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher Media\19
+2 CONC 30 United States Federal Census(12).jpg
+2 FORM jpg
+2 TITL 1930 United States Federal Census
+2 _TEXT Year: 1930; Census Place: Georgetown, Madison, New York; Pag
+3 CONC e: 5B; Enumeration District: 0013; FHL microfilm: 2341180
+0 @M520@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher Media\19
+2 CONC 20 United States Federal Census(14).jpg
+2 FORM jpg
+2 TITL 1920 United States Federal Census
+2 _TEXT Year: 1920; Census Place: Georgetown, Madison, New York; Rol
+3 CONC l: T625_1118; Page: 3B; Enumeration District: 108
+0 @M521@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher Media\Ne
+2 CONC w York, State Census, 1925(7).jpg
+2 FORM jpg
+2 TITL New York, State Census, 1925
+2 _TEXT New York State Archives; Albany, New York; State Populatio
+3 CONC n Census Schedules, 1925; Election District: 01; Assembly Di
+3 CONC strict: 01; City: Georgetown; County: Madison; Page: 11
+0 @M522@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher Media\U.
+2 CONC S., School Yearbooks, 1900-1999(3).jpg
+2 FORM jpg
+2 TITL U.S., School Yearbooks, 1900-1999
+2 _TEXT "U.S., School Yearbooks, 1880-2012"; School Name: Hamilton H
+3 CONC igh School; Year: 1930
+0 @M523@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher Media\U.
+2 CONC S. City Directories, 1822-1995(16).jpg
+2 FORM jpg
+2 TITL U.S. City Directories, 1822-1995
+0 @M524@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher Media\Ne
+2 CONC w York State, Marriage Index, 1881-1967(11).jpg
+2 FORM jpg
+2 TITL New York State, Marriage Index, 1881-1967
+2 _TEXT New York State Department of Health; Albany, NY, USA; New Yo
+3 CONC rk State Marriage Index
+0 @M525@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher Media\Ne
+2 CONC w York State, Birth Index, 1881-1942(3).jpg
+2 FORM jpg
+2 TITL New York State, Birth Index, 1881-1942
+2 _TEXT New York State Department of Health; Albany, NY, USA; New Yo
+3 CONC rk State Birth Index
+0 @M526@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher Media\U.
+2 CONC S., School Yearbooks, 1900-1999(4).jpg
+2 FORM jpg
+2 TITL U.S., School Yearbooks, 1900-1999
+2 _TEXT "U.S., School Yearbooks, 1880-2012"; School Name: Hamilton H
+3 CONC igh School; Year: 1935
+0 @M527@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher Media\U.
+2 CONC S., School Yearbooks, 1900-1999(5).jpg
+2 FORM jpg
+2 TITL U.S., School Yearbooks, 1900-1999
+2 _TEXT "U.S., School Yearbooks, 1880-2012"; School Name: Hamilton H
+3 CONC igh School; Year: 1927
+0 @M528@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher Media\Ne
+2 CONC w York State, Birth Index, 1881-1942(4).jpg
+2 FORM jpg
+2 TITL New York State, Birth Index, 1881-1942
+2 _TEXT New York State Department of Health; Albany, NY, USA; New Yo
+3 CONC rk State Birth Index
+0 @M529@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher Media\Ne
+2 CONC w York State, Marriage Index, 1881-1967(12).jpg
+2 FORM jpg
+2 TITL New York State, Marriage Index, 1881-1967
+2 _TEXT New York State Department of Health; Albany, NY, USA; New Yo
+3 CONC rk State Marriage Index
 0 TRLR
