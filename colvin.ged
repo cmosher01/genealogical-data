@@ -14,9 +14,9 @@
 4 CONT Boston, MA 02109
 3 PHON (617) 227-6681
 1 DEST FTM
-1 FILE Colvin_2019-09-09-22-33-48.ftm.ged
-1 DATE 09 SEP 2019
-2 TIME 22:34:54
+1 FILE Colvin_2019-09-30-03-16-39.ftm.ged
+1 DATE 30 SEP 2019
+2 TIME 03:17:19
 0 @Umy2qBWIRUiwVSS6Hcn4@ SUBM
 1 NAME Christopher Alan Mosher
 2 EMAIL cmosher01@@gmail.com
@@ -115,6 +115,7 @@
 1 REFN e296c349-923b-4c01-be0f-13ba69e2d566
 1 NAME Bathsheba /Briggs/
 2 SOUR @S112@
+3 PAGE Bath Sheba Briggs
 3 _APID 1,7853::90230
 1 SEX F
 1 FAMS @F37@
@@ -187,7 +188,7 @@
 3 _APID 1,6061::95250720
 2 SOUR @S152@
 3 PAGE New York State Department of Health; Albany, NY, USA; New Yo
-4 CONC rk State Marriage Index
+4 CONC rk State Marriage Index; Clara M. Colvin
 3 OBJE @M233@
 3 _APID 1,61632::4143037
 1 SEX F
@@ -1113,6 +1114,17 @@
 3 OBJE @M128@
 3 _APID 1,2442::11230354
 2 NOTE Marital Status: Widowed; Relation to Head: Head
+1 DEAT
+2 DATE 24 JUL 1946
+2 PLAC Rome Hospital, Rome, Oneida, New York, USA
+2 SOUR @S159@
+3 PAGE <bibl> <title level="u">Mrs. Parkhurst Dies at Age 71</title
+4 CONC >, <title level="j">Rome Sentinel</title> (New York, USA), <
+4 CONC citedRange>25 Jul 1946, p. 6, col. 6</citedRange>; digital i
+4 CONC mages, <title level="m">Old Fulton New York Post Cards</titl
+4 CONC e> (<ref target="http://fultonhistory.com/Newspapers 23/Rom
+4 CONC e NY Daily Sentinel/Rome NY Daily Sentinel 1946/Rome NY Dail
+4 CONC y Sentinel 1946 - 2465.pdf"/> : 20 Sep 2019). </bibl>
 1 _XY -10775.00 -2200.00
 0 @I155@ INDI
 1 REFN e7bae6a2-f24e-4f70-9a40-fa188c0c4f92
@@ -1296,7 +1308,10 @@
 2 NOTE Marital Status: Married; Relation to Head of House: Head
 1 RESI
 2 DATE 01 JUN 1915
-2 PLAC Georgetown, Madison, New York, United States
+2 PLAC Georgetown, Madison, New York, USA
+3 MAP
+4 LATI N42.7683
+4 LONG W75.7369
 2 SOUR @W7LxqysiTQKb0jxIb32w@
 3 PAGE New York State Archives; Albany, New York; State Populatio
 4 CONC n Census Schedules, 1915; Election District: 01; Assembly Di
@@ -1337,28 +1352,18 @@
 3 PAGE Year: 1850; Census Place: Cazenovia, Madison, New York; Roll
 4 CONC : M432_526; Page: 73A; Image: 152
 3 OBJE @G8cNNFMFRbmT0wyVNipH@
-2 SOUR @L8nVWbaPS16IxbJgxhiQ@
-3 PAGE Year: 1850; Census Place: Cazenovia, Madison, New York; Roll
-4 CONC : M432_526; Page: 73A; Image: 152
-3 OBJE @G8cNNFMFRbmT0wyVNipH@
+3 _APID 1,8054::19962315
 2 SOUR @S108@
 3 PAGE Year: 1860; Census Place: De Ruyter, Madison, New York; Roll
 4 CONC : M653_780; Page: 291; Image: 296; Family History Library Fi
 4 CONC lm: 803780
 3 OBJE @dWsnZ7LgQrKG2iGIc9WX@
 3 _APID 1,7667::46712176
-2 SOUR @S106@
-3 PAGE Year: 1870; Census Place: De Ruyter, Madison, New York; Roll
-4 CONC : M593_967; Page: 118B; Image: 240; Family History Library F
-4 CONC ilm: 552466
-3 OBJE @Q2Z8EHOYSYG7XhdM9kYW@
-3 _APID 1,7163::23893915
 2 SOUR @iFtgCb0MREO71v5LWojo@
 3 _APID 1,3564::21334388
 2 SOUR @bpt8c0uQRfCTW2vNfJ3k@
 3 OBJE @ulSk604QTombPbrP3BW2@
-2 SOUR @bpt8c0uQRfCTW2vNfJ3k@
-3 OBJE @ulSk604QTombPbrP3BW2@
+3 _APID 1,7181::1655655096
 2 SOUR @yyAkQxoDR02oezmc7VEf@
 3 OBJE @nDVecHOiTp2S2fFWFdgW@
 3 _APID 1,7218::1906355
@@ -1367,8 +1372,6 @@
 3 _APID 1,7250::1398341616
 2 SOUR @S102@
 3 _APID 1,60525::41925922
-2 SOUR @rp9Z8lHgQkCUwI6kJGpm@
-3 _APID 1,70572::7934483
 1 SEX M
 1 FAMC @7nbSUKIjSEKxG9We93eo@
 1 FAMS @xafBJ9eKShi2PSl82rZW@
@@ -1404,22 +1407,13 @@
 3 PAGE Year: 1850; Census Place: Cazenovia, Madison, New York; Roll
 4 CONC : M432_526; Page: 73A; Image: 152
 3 OBJE @G8cNNFMFRbmT0wyVNipH@
-2 SOUR @L8nVWbaPS16IxbJgxhiQ@
-3 PAGE Year: 1850; Census Place: Cazenovia, Madison, New York; Roll
-4 CONC : M432_526; Page: 73A; Image: 152
-3 OBJE @G8cNNFMFRbmT0wyVNipH@
+3 _APID 1,8054::19962315
 2 SOUR @S108@
 3 PAGE Year: 1860; Census Place: De Ruyter, Madison, New York; Roll
 4 CONC : M653_780; Page: 291; Image: 296; Family History Library Fi
 4 CONC lm: 803780
 3 OBJE @dWsnZ7LgQrKG2iGIc9WX@
 3 _APID 1,7667::46712176
-2 SOUR @S106@
-3 PAGE Year: 1870; Census Place: De Ruyter, Madison, New York; Roll
-4 CONC : M593_967; Page: 118B; Image: 240; Family History Library F
-4 CONC ilm: 552466
-3 OBJE @Q2Z8EHOYSYG7XhdM9kYW@
-3 _APID 1,7163::23893915
 2 SOUR @bpt8c0uQRfCTW2vNfJ3k@
 3 OBJE @ulSk604QTombPbrP3BW2@
 3 _APID 1,7181::1655655096
@@ -1430,8 +1424,6 @@
 3 QUAY 1
 2 SOUR @S102@
 3 _APID 1,60525::41925922
-2 SOUR @rp9Z8lHgQkCUwI6kJGpm@
-3 _APID 1,70572::7934483
 2 NOTE There are discrepancies in the ages given by James in variou
 3 CONC s censuses for him and his wife.
 1 RESI
@@ -1461,9 +1453,6 @@
 2 TYPE Arrival
 2 DATE 1840
 2 PLAC Philadelphia, Pennsylvania
-2 SOUR @bpt8c0uQRfCTW2vNfJ3k@
-3 OBJE @ulSk604QTombPbrP3BW2@
-3 _APID 1,7181::1655655097
 1 RESI
 2 DATE ABT 1846
 2 PLAC Cazenovia, Madison, New York, USA
@@ -1513,15 +1502,7 @@
 3 PAGE Year: 1850; Census Place: Cazenovia, Madison, New York; Roll
 4 CONC : M432_526; Page: 73A; Image: 152
 3 OBJE @G8cNNFMFRbmT0wyVNipH@
-2 NOTE Age: 40
-1 RESI
-2 DATE 1850
-2 PLAC Cazenovia, Madison, New York
-2 SOUR @S106@
-3 PAGE Year: 1870; Census Place: De Ruyter, Madison, New York; Roll
-4 CONC : M593_967; Page: 118B; Image: 240; Family History Library F
-4 CONC ilm: 552466
-3 OBJE @Q2Z8EHOYSYG7XhdM9kYW@
+3 _APID 1,8054::19962315
 2 NOTE Age: 40
 1 EVEN
 2 TYPE bought land
@@ -1751,18 +1732,9 @@
 4 LONG W75.7369
 2 SOUR @bpt8c0uQRfCTW2vNfJ3k@
 3 OBJE @ulSk604QTombPbrP3BW2@
+3 _APID 1,7181::1655655096
 2 NOTE Age: 50; Relation to Head of House: Head
-1 RESI
-2 DATE 1855
-2 PLAC Georgetown, Madison, New York, USA
-3 MAP
-4 LATI N42.7683
-4 LONG W75.7369
-2 SOUR @L8nVWbaPS16IxbJgxhiQ@
-3 PAGE Year: 1850; Census Place: Cazenovia, Madison, New York; Roll
-4 CONC : M432_526; Page: 73A; Image: 152
-3 OBJE @G8cNNFMFRbmT0wyVNipH@
-2 NOTE Age: 50; Relation to Head of House: Head
+2 NOTE Relation to Head: Head
 1 RESI
 2 DATE 1859
 2 PLAC Georgetown, Madison, New York, USA
@@ -1802,15 +1774,6 @@
 3 _APID 1,7667::46712176
 2 SOUR @iFtgCb0MREO71v5LWojo@
 3 _APID 1,3564::21334388
-2 NOTE Age: 54
-1 RESI
-2 DATE 1860
-2 PLAC De Ruyter, Madison, New York, USA
-3 MAP
-4 LATI N42.7585
-4 LONG W75.8868
-2 SOUR @rp9Z8lHgQkCUwI6kJGpm@
-3 _APID 1,70572::7934483
 2 NOTE Age: 54
 1 PROP sold lot 50; land is NW of Chapman road bend, around Tioughn
 2 CONC ioga east branch
@@ -2168,7 +2131,7 @@
 2 SOUR @tPClZMdVRNCZDOmnmsWz@
 3 PAGE Year: 1900; Census Place: Eaton, Madison, New York; Roll: 10
 4 CONC 71; Page: 6A; Enumeration District: 0009; FHL microfilm: 124
-4 CONC 1071
+4 CONC 1071; John C Colvin
 3 OBJE @bCad3siyRdyjDMdhaaF4@
 3 _APID 1,7602::55834491
 2 SOUR @GpcA8GZ1Qyuc3mwiGu82@
@@ -2244,7 +2207,7 @@
 2 SOUR @tPClZMdVRNCZDOmnmsWz@
 3 PAGE Year: 1900; Census Place: Eaton, Madison, New York; Roll: 10
 4 CONC 71; Page: 6A; Enumeration District: 0009; FHL microfilm: 124
-4 CONC 1071
+4 CONC 1071; John C Colvin
 3 OBJE @bCad3siyRdyjDMdhaaF4@
 3 _APID 1,7602::55834491
 2 SOUR @GpcA8GZ1Qyuc3mwiGu82@
@@ -2299,6 +2262,7 @@
 3 OBJE @ulSk604QTombPbrP3BW2@
 3 _APID 1,7181::1655653699
 2 NOTE Age: 3; Relation to Head: Child
+2 NOTE Relation to Head: Child
 1 RESI
 2 DATE 1860
 2 PLAC De Ruyter, Madison, New York, USA
@@ -2363,7 +2327,7 @@
 2 SOUR @tPClZMdVRNCZDOmnmsWz@
 3 PAGE Year: 1900; Census Place: Eaton, Madison, New York; Roll: 10
 4 CONC 71; Page: 6A; Enumeration District: 0009; FHL microfilm: 124
-4 CONC 1071
+4 CONC 1071; John C Colvin
 3 OBJE @bCad3siyRdyjDMdhaaF4@
 3 _APID 1,7602::55834491
 2 NOTE Age: 48; Marital Status: Married; Relation to Head of House
@@ -2671,7 +2635,7 @@
 3 OBJE @McB8qKIlRF2SHVVK0GuQ@
 3 _APID 1,7181::1655679077
 1 RESI
-2 DATE FROM 1847
+2 DATE 1847
 2 PLAC Cazenovia, Madison, New York, USA
 3 MAP
 4 LATI N42.9301
@@ -2891,6 +2855,7 @@
 3 OBJE @ulSk604QTombPbrP3BW2@
 3 _APID 1,7181::1655653689
 2 NOTE Age: 4; Relation to Head: Child
+2 NOTE Relation to Head: Child
 1 RESI
 2 DATE 1860
 2 PLAC De Ruyter, Madison, New York, USA
@@ -3750,6 +3715,7 @@
 3 OBJE @ulSk604QTombPbrP3BW2@
 3 _APID 1,7181::1655655107
 2 NOTE Age: 10; Relation to Head: Child
+2 NOTE Relation to Head: Child
 1 RESI
 2 DATE 1860
 2 PLAC Goshen, Orange, New York, USA
@@ -3838,12 +3804,14 @@
 3 _APID 1,61667::1444993
 2 SOUR @S89@
 3 PAGE New York Department of Health; Albany, NY; NY State Death In
-4 CONC dex
-3 OBJE @M225@
+4 CONC dex; Wilford E Calvin
+3 OBJE @M229@
+3 _APID 1,61535::1343297
 2 SOUR @S89@
 3 PAGE New York Department of Health; Albany, NY; NY State Death In
-4 CONC dex
-3 OBJE @M229@
+4 CONC dex; Wilford E Colvin
+3 OBJE @M225@
+3 _APID 1,61535::1345983
 2 SOUR @S102@
 3 _APID 1,60525::12390032
 1 SEX M
@@ -3885,12 +3853,14 @@
 4 LONG W75.918
 2 SOUR @S89@
 3 PAGE New York Department of Health; Albany, NY; NY State Death In
-4 CONC dex
-3 OBJE @M225@
+4 CONC dex; Wilford E Calvin
+3 OBJE @M229@
+3 _APID 1,61535::1343297
 2 SOUR @S89@
 3 PAGE New York Department of Health; Albany, NY; NY State Death In
-4 CONC dex
-3 OBJE @M229@
+4 CONC dex; Wilford E Colvin
+3 OBJE @M225@
+3 _APID 1,61535::1345983
 2 SOUR @S102@
 3 _APID 1,60525::12390032
 1 BURI
@@ -4256,6 +4226,7 @@
 3 OBJE @Q2Z8EHOYSYG7XhdM9kYW@
 3 _APID 1,7163::33642947
 2 NOTE Age: 14; Census Post Office: Cazenovia
+2 NOTE Residence Post Office: Cazenovia
 1 CENS
 2 DATE 01 JUN 1875
 2 PLAC Eaton, Madison, New York, USA
@@ -4369,6 +4340,7 @@
 1 REFN e1a67d31-1e0e-4ff3-a387-6f21b8342b5d
 1 NAME Abigail /Cranson/
 2 SOUR @S111@
+3 PAGE typeset transcript, 1791, Abigail Cranson, death
 3 OBJE @M160@
 3 _APID 1,2495::81477495
 1 SEX F
@@ -4380,6 +4352,7 @@
 4 LATI N42.025
 4 LONG W70.275
 2 SOUR @S111@
+3 PAGE typeset transcript, 1791, Abigail Cranson, death
 3 OBJE @M160@
 3 _APID 1,2495::81477495
 1 DEAT
@@ -4388,9 +4361,6 @@
 3 MAP
 4 LATI N42.5265
 4 LONG W72.7884
-2 SOUR
-3 OBJE @M161@
-3 _APID 1,17456::397
 1 DEAT
 2 DATE 10 SEP 1808
 2 PLAC Ashfield, Franklin, Massachusetts, USA
@@ -4398,6 +4368,7 @@
 4 LATI N42.5265
 4 LONG W72.7884
 2 SOUR @S111@
+3 PAGE typeset transcript, 1791, Abigail Cranson, death
 3 OBJE @M160@
 3 _APID 1,2495::81477495
 0 @I58@ INDI
@@ -4440,19 +4411,32 @@
 2 SOUR @S130@
 3 _APID 1,3599::2379340
 2 SOUR @S112@
+3 PAGE Abner Cranson
 3 _APID 1,7853::179457
 2 SOUR @S111@
-3 OBJE @M165@
-2 SOUR @S111@
-3 OBJE @M166@
-2 SOUR @S111@
-3 OBJE @M169@
-2 SOUR @S111@
+3 PAGE manuscript transcipt (copy 2), 1763, Abner Cranson, birth
 3 OBJE @M170@
+3 _APID 1,2495::5005322
 2 SOUR @S111@
-3 OBJE @M171@
+3 PAGE manuscript transcript, 1763, Abner Cranson, birth
+3 OBJE @M166@
+3 _APID 1,2495::5043005
 2 SOUR @S111@
+3 PAGE original record, 1763, Abner Cranson, birth
 3 OBJE @M172@
+3 _APID 1,2495::78340164
+2 SOUR @S111@
+3 PAGE original record, 1789, Abner Cranson, marriage
+3 OBJE @M165@
+3 _APID 1,2495::71073721
+2 SOUR @S111@
+3 PAGE typeset transcript, 1763, Abner Cranson, birth
+3 OBJE @M171@
+3 _APID 1,2495::81251191
+2 SOUR @S111@
+3 PAGE typeset transcript, 1789, Abner Cranson, marriage
+3 OBJE @M169@
+3 _APID 1,2495::81473756
 2 SOUR @S128@
 3 _APID 1,4080::29226
 2 SOUR @S129@
@@ -4469,13 +4453,21 @@
 2 SOUR @S130@
 3 _APID 1,3599::2379340
 2 SOUR @S111@
-3 OBJE @M166@
-2 SOUR @S111@
+3 PAGE manuscript transcipt (copy 2), 1763, Abner Cranson, birth
 3 OBJE @M170@
+3 _APID 1,2495::5005322
 2 SOUR @S111@
-3 OBJE @M171@
+3 PAGE manuscript transcript, 1763, Abner Cranson, birth
+3 OBJE @M166@
+3 _APID 1,2495::5043005
 2 SOUR @S111@
+3 PAGE original record, 1763, Abner Cranson, birth
 3 OBJE @M172@
+3 _APID 1,2495::78340164
+2 SOUR @S111@
+3 PAGE typeset transcript, 1763, Abner Cranson, birth
+3 OBJE @M171@
+3 _APID 1,2495::81251191
 1 RESI
 2 DATE 1790
 2 PLAC Ashfield, Franklin, Massachusetts, USA
@@ -4609,23 +4601,15 @@
 0 @I67@ INDI
 1 REFN 1772f10b-99d8-477f-b78e-3d89d4fb75c8
 1 NAME Anson B. /Cranson/
-2 SOUR @L8nVWbaPS16IxbJgxhiQ@
-3 OBJE @M179@
+2 SOUR @S108@
+3 PAGE Year: 1860; Census Place: Lenox, Madison, New York; Roll: M6
+4 CONC 53_781; Page: 743; Family History Library Film: 803781
+3 OBJE @M248@
+3 _APID 1,7667::49432551
+2 SOUR @bpt8c0uQRfCTW2vNfJ3k@
+3 OBJE @M242@
 3 _APID 1,7181::1655642903
-2 SOUR @9SIEhYikRnW7x0y08og9@
-3 PAGE Year: 1860; Census Place: Lenox, Madison, New York; Roll
-4 CONC : ; Page: 743; Image: 244.
-3 DATA
-4 TEXT Name:  Anson B Cranson
-5 CONT Birth:  abt 1850 in New York
-5 CONT Death:
-3 OBJE @M177@
-3 _LINK http://search.ancestry.com/cgi-bin/sse.dll?db=1860usfedcenan
-4 CONC cestry&h=49432551&ti=0&indiv=try&gss=pt
-3 _APID 1,7667::49432551
 1 SEX M
-2 SOUR @9SIEhYikRnW7x0y08og9@
-3 _APID 1,7667::49432551
 1 FAMC @F43@
 1 BIRT
 2 DATE ABT 1850
@@ -4633,30 +4617,36 @@
 3 MAP
 4 LATI N42.7531
 4 LONG W74.2224
-2 SOUR @L8nVWbaPS16IxbJgxhiQ@
-3 OBJE @M179@
-3 _APID 1,7181::1655642903
-2 SOUR @9SIEhYikRnW7x0y08og9@
-3 PAGE Year: 1860; Census Place: Lenox, Madison, New York; Roll
-4 CONC : ; Page: 743; Image: 244.
-3 DATA
-4 TEXT Name:  Anson B Cranson
-5 CONT Birth:  abt 1850 in New York
-5 CONT Death:
-3 OBJE @M177@
-3 _LINK http://search.ancestry.com/cgi-bin/sse.dll?db=1860usfedcenan
-4 CONC cestry&h=49432551&ti=0&indiv=try&gss=pt
+2 SOUR @S108@
+3 PAGE Year: 1860; Census Place: Lenox, Madison, New York; Roll: M6
+4 CONC 53_781; Page: 743; Family History Library Film: 803781
+3 OBJE @M248@
 3 _APID 1,7667::49432551
+2 SOUR @bpt8c0uQRfCTW2vNfJ3k@
+3 OBJE @M242@
+3 _APID 1,7181::1655642903
 1 RESI
 2 DATE 1855
 2 PLAC Lenox, Madison, New York, USA
 3 MAP
 4 LATI N43.0583
 4 LONG W75.7047
-2 SOUR @L8nVWbaPS16IxbJgxhiQ@
-3 OBJE @M179@
+2 SOUR @bpt8c0uQRfCTW2vNfJ3k@
+3 OBJE @M242@
 3 _APID 1,7181::1655642903
 2 NOTE Relation to Head of House: Child
+1 RESI
+2 DATE 1860
+2 PLAC Lenox, Madison, New York, USA
+3 MAP
+4 LATI N43.0583
+4 LONG W75.7047
+2 SOUR @S108@
+3 PAGE Year: 1860; Census Place: Lenox, Madison, New York; Roll: M6
+4 CONC 53_781; Page: 743; Family History Library Film: 803781
+3 OBJE @M248@
+3 _APID 1,7667::49432551
+2 NOTE Residence Post Office: Wampsville
 0 @I41@ INDI
 1 REFN 1674b6ce-d1b7-42f0-b721-cb7d025e45a3
 1 NAME Asa /Cranson/
@@ -4672,8 +4662,10 @@
 3 OBJE @M148@
 3 _APID 1,7734::452289
 2 SOUR @S112@
+3 PAGE Asa Cranson
 3 _APID 1,7853::178947
 2 SOUR @S111@
+3 PAGE original record, 1760, Asa Cranson, birth
 3 OBJE @M146@
 3 _APID 1,2495::78340005
 2 SOUR @S114@
@@ -4691,6 +4683,7 @@
 2 DATE 16 MAR 1760
 2 PLAC Spencer, Worcester, Massachusetts, United States
 2 SOUR @S111@
+3 PAGE original record, 1760, Asa Cranson, birth
 3 OBJE @M146@
 3 _APID 1,2495::78340005
 2 SOUR @S114@
@@ -4756,24 +4749,26 @@
 1 REFN 03352dcb-a85e-419e-a696-697eef6ea159
 1 NAME Asa /Cranson/
 2 SOUR @L8nVWbaPS16IxbJgxhiQ@
-3 OBJE @M179@
-2 SOUR @L8nVWbaPS16IxbJgxhiQ@
 3 PAGE Year: 1850; Census Place: Lenox, Madison, New York; Roll: M4
 4 CONC 32_526; Page: 169A; Image: 342
 3 OBJE @M176@
 3 _APID 1,8054::20025936
-2 SOUR @9SIEhYikRnW7x0y08og9@
+2 SOUR @S108@
 3 PAGE Year: 1860; Census Place: Lenox, Madison, New York; Roll: M6
-4 CONC 53_781; Page: 743; Image: 244; Family History Library Film
-4 CONC : 803781
-3 OBJE @M177@
+4 CONC 53_781; Page: 743; Family History Library Film: 803781
+3 OBJE @M248@
 3 _APID 1,7667::49432548
+2 SOUR @bpt8c0uQRfCTW2vNfJ3k@
+3 OBJE @M242@
+3 _APID 1,7181::1655642899
 2 SOUR @S109@
 3 PAGE Will Records, 1806-1900, Madison County, New York; Author: N
 4 CONC ew York. Surrogate's Court (Madison County); Probate Place
 4 CONC : Madison, New York
 3 OBJE @M178@
 3 _APID 1,8800::1104606
+2 SOUR @S102@
+3 _APID 1,60525::100677345
 2 SOUR @S124@
 3 PAGE SAR Membership Number: 78699
 3 OBJE @M175@
@@ -4790,18 +4785,20 @@
 4 LATI N42.5265
 4 LONG W72.7884
 2 SOUR @L8nVWbaPS16IxbJgxhiQ@
-3 OBJE @M179@
-2 SOUR @L8nVWbaPS16IxbJgxhiQ@
 3 PAGE Year: 1850; Census Place: Lenox, Madison, New York; Roll: M4
 4 CONC 32_526; Page: 169A; Image: 342
 3 OBJE @M176@
 3 _APID 1,8054::20025936
-2 SOUR @9SIEhYikRnW7x0y08og9@
+2 SOUR @S108@
 3 PAGE Year: 1860; Census Place: Lenox, Madison, New York; Roll: M6
-4 CONC 53_781; Page: 743; Image: 244; Family History Library Film
-4 CONC : 803781
-3 OBJE @M177@
+4 CONC 53_781; Page: 743; Family History Library Film: 803781
+3 OBJE @M248@
 3 _APID 1,7667::49432548
+2 SOUR @bpt8c0uQRfCTW2vNfJ3k@
+3 OBJE @M242@
+3 _APID 1,7181::1655642899
+2 SOUR @S102@
+3 _APID 1,60525::100677345
 2 SOUR @S124@
 3 PAGE SAR Membership Number: 78699
 3 OBJE @M175@
@@ -4826,8 +4823,8 @@
 3 MAP
 4 LATI N43.0583
 4 LONG W75.7047
-2 SOUR @L8nVWbaPS16IxbJgxhiQ@
-3 OBJE @M179@
+2 SOUR @bpt8c0uQRfCTW2vNfJ3k@
+3 OBJE @M242@
 3 _APID 1,7181::1655642899
 2 NOTE Relation to Head of House: Head
 1 RESI
@@ -4836,13 +4833,12 @@
 3 MAP
 4 LATI N43.0583
 4 LONG W75.7047
-2 SOUR @9SIEhYikRnW7x0y08og9@
+2 SOUR @S108@
 3 PAGE Year: 1860; Census Place: Lenox, Madison, New York; Roll: M6
-4 CONC 53_781; Page: 743; Image: 244; Family History Library Film
-4 CONC : 803781
-3 OBJE @M177@
+4 CONC 53_781; Page: 743; Family History Library Film: 803781
+3 OBJE @M248@
 3 _APID 1,7667::49432548
-2 NOTE Age: 69
+2 NOTE Age: 69; Residence Post Office: Wampsville
 1 DEAT
 2 DATE 30 SEP 1863
 2 PLAC Lenox, Madison, New York, USA
@@ -4855,6 +4851,8 @@
 4 CONC : Madison, New York
 3 OBJE @M178@
 3 _APID 1,8800::1104606
+2 SOUR @S102@
+3 _APID 1,60525::100677345
 2 SOUR @S124@
 3 PAGE SAR Membership Number: 78699
 3 OBJE @M175@
@@ -4875,6 +4873,8 @@
 3 _APID 1,8800::1104606
 1 BURI
 2 PLAC Cranson Cemetery, Clockville, Madison, New York, USA
+2 SOUR @S102@
+3 _APID 1,60525::100677345
 2 SOUR @rp9Z8lHgQkCUwI6kJGpm@
 3 _APID 1,70572::551623
 0 @I63@ INDI
@@ -4961,33 +4961,26 @@
 1 REFN 18c394c2-4ce7-4079-9daa-eae621fd956b
 1 NAME Asa W. /Cranson/
 2 SOUR @L8nVWbaPS16IxbJgxhiQ@
-3 OBJE @M179@
-2 SOUR @L8nVWbaPS16IxbJgxhiQ@
 3 PAGE Year: 1850; Census Place: Lenox, Madison, New York; Roll: M4
 4 CONC 32_526; Page: 169A; Image: 342
 3 OBJE @M176@
 3 _APID 1,8054::20044415
-2 SOUR @9SIEhYikRnW7x0y08og9@
-3 PAGE Year: 1860; Census Place: Lenox, Madison, New York; Roll
-4 CONC : ; Page: 743; Image: 244.
-3 DATA
-4 TEXT Name:  Asa W Cranson
-5 CONT Birth:  abt 1847 in New York
-5 CONT Death:
-3 OBJE @M177@
-3 _LINK http://search.ancestry.com/cgi-bin/sse.dll?db=1860usfedcenan
-4 CONC cestry&h=49432550&ti=0&indiv=try&gss=pt
+2 SOUR @S108@
+3 PAGE Year: 1860; Census Place: Lenox, Madison, New York; Roll: M6
+4 CONC 53_781; Page: 743; Family History Library Film: 803781
+3 OBJE @M248@
 3 _APID 1,7667::49432550
 2 SOUR @9SIEhYikRnW7x0y08og9@
 3 PAGE Year: 1880; Census Place: Lenox, Madison, New York
 3 OBJE @M182@
 3 _APID 1,6742::2260854
+2 SOUR @bpt8c0uQRfCTW2vNfJ3k@
+3 OBJE @M242@
+3 _APID 1,7181::1655642902
 2 SOUR @yyAkQxoDR02oezmc7VEf@
 3 OBJE @M183@
 3 _APID 1,7218::2456850
 1 SEX M
-2 SOUR @9SIEhYikRnW7x0y08og9@
-3 _APID 1,7667::49432550
 1 FAMC @F43@
 1 FAMS @F47@
 1 BIRT
@@ -4997,27 +4990,22 @@
 4 LATI N42.7531
 4 LONG W74.2224
 2 SOUR @L8nVWbaPS16IxbJgxhiQ@
-3 OBJE @M179@
-2 SOUR @L8nVWbaPS16IxbJgxhiQ@
 3 PAGE Year: 1850; Census Place: Lenox, Madison, New York; Roll: M4
 4 CONC 32_526; Page: 169A; Image: 342
 3 OBJE @M176@
 3 _APID 1,8054::20044415
-2 SOUR @9SIEhYikRnW7x0y08og9@
-3 PAGE Year: 1860; Census Place: Lenox, Madison, New York; Roll
-4 CONC : ; Page: 743; Image: 244.
-3 DATA
-4 TEXT Name:  Asa W Cranson
-5 CONT Birth:  abt 1847 in New York
-5 CONT Death:
-3 OBJE @M177@
-3 _LINK http://search.ancestry.com/cgi-bin/sse.dll?db=1860usfedcenan
-4 CONC cestry&h=49432550&ti=0&indiv=try&gss=pt
+2 SOUR @S108@
+3 PAGE Year: 1860; Census Place: Lenox, Madison, New York; Roll: M6
+4 CONC 53_781; Page: 743; Family History Library Film: 803781
+3 OBJE @M248@
 3 _APID 1,7667::49432550
 2 SOUR @9SIEhYikRnW7x0y08og9@
 3 PAGE Year: 1880; Census Place: Lenox, Madison, New York
 3 OBJE @M182@
 3 _APID 1,6742::2260854
+2 SOUR @bpt8c0uQRfCTW2vNfJ3k@
+3 OBJE @M242@
+3 _APID 1,7181::1655642902
 2 SOUR @yyAkQxoDR02oezmc7VEf@
 3 OBJE @M183@
 3 _APID 1,7218::2456850
@@ -5038,25 +5026,26 @@
 3 MAP
 4 LATI N43.0583
 4 LONG W75.7047
-2 SOUR @L8nVWbaPS16IxbJgxhiQ@
-3 OBJE @M179@
+2 SOUR @bpt8c0uQRfCTW2vNfJ3k@
+3 OBJE @M242@
 3 _APID 1,7181::1655642902
 2 NOTE Relation to Head of House: Child
+1 RESI
+2 DATE 1860
+2 PLAC Lenox, Madison, New York, USA
+3 MAP
+4 LATI N43.0583
+4 LONG W75.7047
+2 SOUR @S108@
+3 PAGE Year: 1860; Census Place: Lenox, Madison, New York; Roll: M6
+4 CONC 53_781; Page: 743; Family History Library Film: 803781
+3 OBJE @M248@
+3 _APID 1,7667::49432550
+2 NOTE Residence Post Office: Wampsville
 1 DEAT
 2 DATE 13 SEP 1864
 2 PLAC Hampton VA Medical Center, 100 Emancipation Drive, Hampton
 3 CONC , Rappahannock, Virginia, USA
-2 SOUR @9SIEhYikRnW7x0y08og9@
-3 PAGE Year: 1860; Census Place: Lenox, Madison, New York; Roll
-4 CONC : ; Page: 743; Image: 244.
-3 DATA
-4 TEXT Name:  Asa W Cranson
-5 CONT Birth:  abt 1847 in New York
-5 CONT Death:
-3 OBJE @M177@
-3 _LINK http://search.ancestry.com/cgi-bin/sse.dll?db=1860usfedcenan
-4 CONC cestry&h=49432550&ti=0&indiv=try&gss=pt
-3 _APID 1,7667::49432550
 1 RESI
 2 DATE 1865
 2 PLAC Lenox, Madison, New York, USA
@@ -5155,7 +5144,6 @@
 3 OBJE @M127@
 3 _APID 1,61535::1879112
 2 SOUR @bpt8c0uQRfCTW2vNfJ3k@
-3 OBJE @hBbUEb24TqiH3S5JaCqL@
 3 _APID 1,7181::1655684824
 2 SOUR @yyAkQxoDR02oezmc7VEf@
 3 OBJE @WGZxfFdOQxGGTRbs2LyY@
@@ -5232,7 +5220,6 @@
 2 SOUR @pCylTqPHQbGiYF7OdWYH@
 3 QUAY 1
 2 SOUR @bpt8c0uQRfCTW2vNfJ3k@
-3 OBJE @hBbUEb24TqiH3S5JaCqL@
 3 _APID 1,7181::1655684824
 2 SOUR @yyAkQxoDR02oezmc7VEf@
 3 OBJE @WGZxfFdOQxGGTRbs2LyY@
@@ -5280,9 +5267,9 @@
 4 LATI N42.9301
 4 LONG W75.8527
 2 SOUR @bpt8c0uQRfCTW2vNfJ3k@
-3 OBJE @hBbUEb24TqiH3S5JaCqL@
 3 _APID 1,7181::1655684824
 2 NOTE Relation to Head of House: Head Of Household
+2 NOTE Relation to Head: Head Of Household
 1 RESI
 2 DATE 1860
 2 PLAC Cazenovia, Madison, New York, USA
@@ -5309,7 +5296,10 @@
 2 NOTE Relation to Head of House: Head
 1 RESI
 2 DATE 1870
-2 PLAC Georgetown, Madison, New York, United States
+2 PLAC Georgetown, Madison, New York, USA
+3 MAP
+4 LATI N42.7683
+4 LONG W75.7369
 2 SOUR @S106@
 3 PAGE Year: 1870; Census Place: Georgetown, Madison, New York; Rol
 4 CONC l: M593_967; Page: 194A; Image: 392; Family History Librar
@@ -5352,6 +5342,7 @@
 3 OBJE @yYXBVZvDS3GOhxdTNgCH@
 3 _APID 1,1791::1515585
 2 NOTE Marital Status: Married; Relation to Head of House: Self
+2 NOTE Marital Status: Married; Relation to Head: Self
 1 EVEN
 2 TYPE sold land
 2 DATE AFT 19 AUG 1886
@@ -5432,18 +5423,17 @@
 0 @I43@ INDI
 1 REFN f31c70a4-197a-4cf4-af3b-ebf80850335b
 1 NAME Chester /Cranson/
+2 SOUR @S108@
+3 PAGE Year: 1860; Census Place: Georgetown, Madison, New York; Rol
+4 CONC l: M653_780; Page: 323; Family History Library Film: 803780
+3 OBJE @M247@
+3 _APID 1,7667::46714260
 2 SOUR @S106@
 3 PAGE Year: 1870; Census Place: Georgetown, Madison, New York; Rol
 4 CONC l: M593_967; Page: 194B; Image: 393; Family History Librar
 4 CONC y Film: 552466
 3 OBJE @M155@
 3 _APID 1,7163::29829314
-2 SOUR @9SIEhYikRnW7x0y08og9@
-3 PAGE Year: 1860; Census Place: Georgetown, Madison, New York; Rol
-4 CONC l: M653_780; Page: 323; Image: 328; Family History Library F
-4 CONC ilm: 803780
-3 OBJE @M154@
-3 _APID 1,7667::46714260
 2 SOUR @9SIEhYikRnW7x0y08og9@
 3 PAGE Year: 1880; Census Place: De Ruyter, Madison, New York; Roll
 4 CONC : 860; Family History Film: 1254860; Page: 94A; Enumeratio
@@ -5470,16 +5460,26 @@
 1 NOTE _XY 429 297
 1 BIRT
 2 DATE ABT 1805
-2 PLAC MA, USA
+2 PLAC Massachusetts, USA
+3 MAP
+4 LATI N42.025
+4 LONG W70.275
+2 SOUR @S108@
+3 PAGE Year: 1860; Census Place: Georgetown, Madison, New York; Rol
+4 CONC l: M653_780; Page: 323; Family History Library Film: 803780
+3 OBJE @M247@
+3 _APID 1,7667::46714260
 2 SOUR @S119@
 1 RESI
 2 DATE 1860
-2 PLAC Georgetown, Madison, New York, United States
-2 SOUR @9SIEhYikRnW7x0y08og9@
+2 PLAC Georgetown, Madison, New York, USA
+3 MAP
+4 LATI N42.7683
+4 LONG W75.7369
+2 SOUR @S108@
 3 PAGE Year: 1860; Census Place: Georgetown, Madison, New York; Rol
-4 CONC l: M653_780; Page: 323; Image: 328; Family History Library F
-4 CONC ilm: 803780
-3 OBJE @M154@
+4 CONC l: M653_780; Page: 323; Family History Library Film: 803780
+3 OBJE @M247@
 3 _APID 1,7667::46714260
 2 SOUR @iFtgCb0MREO71v5LWojo@
 3 _APID 1,3564::21334415
@@ -5494,23 +5494,15 @@
 4 CONC : 10
 3 OBJE @M157@
 3 _APID 1,1791::805956
-2 NOTE Age: 56
+2 NOTE Age: 56; Residence Post Office: Georgetown
 0 @I42@ INDI
 1 REFN 5326b620-4b93-48d3-8737-71ff650c8cd3
 1 NAME Clara Louisa /Cranson/
-2 SOUR @L8nVWbaPS16IxbJgxhiQ@
-3 OBJE @hBbUEb24TqiH3S5JaCqL@
 2 SOUR @L8nVWbaPS16IxbJgxhiQ@
 3 PAGE Year: 1850; Census Place: Cazenovia, Madison, New York; Roll
 4 CONC : M432_526; Page: 110B; Image: 227
 3 OBJE @yISHBCCNThuVORgyrX3O@
 3 _APID 1,8054::19831305
-2 SOUR @9SIEhYikRnW7x0y08og9@
-3 PAGE Year: 1860; Census Place: Cazenovia, Madison, New York; Roll
-4 CONC : M653_780; Page: 79; Image: 84; Family History Library Film
-4 CONC : 803780
-3 OBJE @M151@
-3 _APID 1,7667::46725850
 2 SOUR @9SIEhYikRnW7x0y08og9@
 3 PAGE Year: 1880; Census Place: North Star, Gratiot, Michigan; Rol
 4 CONC l: 580; Family History Film: 1254580; Page: 577A; Enumeratio
@@ -5525,6 +5517,9 @@
 3 _APID 1,7884::196988912
 2 SOUR @S117@
 3 _APID 1,2549::900771
+2 SOUR @bpt8c0uQRfCTW2vNfJ3k@
+3 OBJE @M241@
+3 _APID 1,7181::1655684829
 2 SOUR @yyAkQxoDR02oezmc7VEf@
 3 OBJE @WGZxfFdOQxGGTRbs2LyY@
 3 _APID 1,7218::1760339
@@ -5533,20 +5528,15 @@
 1 FAMS @F32@
 1 BIRT
 2 DATE ABT 1848
-2 PLAC Cazenovia, Madison Co., NY, USA
-2 SOUR @L8nVWbaPS16IxbJgxhiQ@
-3 OBJE @hBbUEb24TqiH3S5JaCqL@
+2 PLAC Cazenovia, Madison, New York, USA
+3 MAP
+4 LATI N42.9301
+4 LONG W75.8527
 2 SOUR @L8nVWbaPS16IxbJgxhiQ@
 3 PAGE Year: 1850; Census Place: Cazenovia, Madison, New York; Roll
 4 CONC : M432_526; Page: 110B; Image: 227
 3 OBJE @yISHBCCNThuVORgyrX3O@
 3 _APID 1,8054::19831305
-2 SOUR @9SIEhYikRnW7x0y08og9@
-3 PAGE Year: 1860; Census Place: Cazenovia, Madison, New York; Roll
-4 CONC : M653_780; Page: 79; Image: 84; Family History Library Film
-4 CONC : 803780
-3 OBJE @M151@
-3 _APID 1,7667::46725850
 2 SOUR @9SIEhYikRnW7x0y08og9@
 3 PAGE Year: 1880; Census Place: North Star, Gratiot, Michigan; Rol
 4 CONC l: 580; Family History Film: 1254580; Page: 577A; Enumeratio
@@ -5561,12 +5551,18 @@
 3 _APID 1,7884::196988912
 2 SOUR @S117@
 3 _APID 1,2549::900771
+2 SOUR @bpt8c0uQRfCTW2vNfJ3k@
+3 OBJE @M241@
+3 _APID 1,7181::1655684829
 2 SOUR @yyAkQxoDR02oezmc7VEf@
 3 OBJE @WGZxfFdOQxGGTRbs2LyY@
 3 _APID 1,7218::1760339
 1 RESI
 2 DATE 1850
-2 PLAC Cazenovia, Madison, New York
+2 PLAC Cazenovia, Madison, New York, USA
+3 MAP
+4 LATI N42.9301
+4 LONG W75.8527
 2 SOUR @L8nVWbaPS16IxbJgxhiQ@
 3 PAGE Year: 1850; Census Place: Cazenovia, Madison, New York; Roll
 4 CONC : M432_526; Page: 110B; Image: 227
@@ -5579,19 +5575,16 @@
 3 MAP
 4 LATI N42.9301
 4 LONG W75.8527
-2 SOUR @L8nVWbaPS16IxbJgxhiQ@
-3 OBJE @hBbUEb24TqiH3S5JaCqL@
+2 SOUR @bpt8c0uQRfCTW2vNfJ3k@
+3 OBJE @M241@
 3 _APID 1,7181::1655684829
 2 NOTE Age: 7; Relation to Head of House: Child
 1 RESI
 2 DATE 1860
-2 PLAC Cazenovia, Madison, New York, United States
-2 SOUR @9SIEhYikRnW7x0y08og9@
-3 PAGE Year: 1860; Census Place: Cazenovia, Madison, New York; Roll
-4 CONC : M653_780; Page: 79; Image: 84; Family History Library Film
-4 CONC : 803780
-3 OBJE @M151@
-3 _APID 1,7667::46725850
+2 PLAC Cazenovia, Madison, New York, USA
+3 MAP
+4 LATI N42.9301
+4 LONG W75.8527
 2 NOTE Age: 12
 1 RESI
 2 DATE 1865
@@ -5605,7 +5598,10 @@
 2 NOTE Relation to Head of House: Daughter
 1 RESI
 2 DATE 1880
-2 PLAC North Star, Gratiot, Michigan, United States
+2 PLAC North Star, Gratiot, Michigan, USA
+3 MAP
+4 LATI N43.2483
+4 LONG W84.5433
 2 SOUR @9SIEhYikRnW7x0y08og9@
 3 PAGE Year: 1880; Census Place: North Star, Gratiot, Michigan; Rol
 4 CONC l: 580; Family History Film: 1254580; Page: 577A; Enumeratio
@@ -5637,7 +5633,10 @@
 2 NOTE Age in 1910: 51Marital Status: Married; Relation to Head o
 3 CONC f House: Wife
 1 RESI
-2 PLAC Michigan, United States
+2 PLAC Michigan, USA
+3 MAP
+4 LATI N44.5917
+4 LONG W85.025
 2 SOUR @S117@
 3 _APID 1,2549::900771
 2 NOTE Marital Status: Married
@@ -5650,8 +5649,10 @@
 1 REFN f23ecd9f-8552-4f19-b2ae-c657fab9024c
 1 NAME David /Cranson/
 2 SOUR @S112@
+3 PAGE David Cranson
 3 _APID 1,7853::179170
 2 SOUR @S111@
+3 PAGE original record, 1750, David Cranson, birth
 3 OBJE @M158@
 3 _APID 1,2495::78339688
 2 SOUR @S124@
@@ -5671,6 +5672,7 @@
 4 LATI N42.244
 4 LONG W71.9923
 2 SOUR @S111@
+3 PAGE original record, 1750, David Cranson, birth
 3 OBJE @M158@
 3 _APID 1,2495::78339688
 2 SOUR @S124@
@@ -5703,11 +5705,10 @@
 4 CONC : M432_364; Page: 285B; Image: 220
 3 OBJE @M174@
 3 _APID 1,8054::3261072
-2 SOUR @9SIEhYikRnW7x0y08og9@
+2 SOUR @S108@
 3 PAGE Year: 1860; Census Place: Webster, Washtenaw, Michigan; Roll
-4 CONC : M653_563; Page: 36; Image: 36; Family History Library Film
-4 CONC : 803563
-3 OBJE @M173@
+4 CONC : M653_563; Page: 36; Family History Library Film: 803563
+3 OBJE @M249@
 3 _APID 1,7667::45301255
 1 SEX F
 1 FAMC @F35@
@@ -5723,11 +5724,10 @@
 4 CONC : M432_364; Page: 285B; Image: 220
 3 OBJE @M174@
 3 _APID 1,8054::3261072
-2 SOUR @9SIEhYikRnW7x0y08og9@
+2 SOUR @S108@
 3 PAGE Year: 1860; Census Place: Webster, Washtenaw, Michigan; Roll
-4 CONC : M653_563; Page: 36; Image: 36; Family History Library Film
-4 CONC : 803563
-3 OBJE @M173@
+4 CONC : M653_563; Page: 36; Family History Library Film: 803563
+3 OBJE @M249@
 3 _APID 1,7667::45301255
 1 RESI
 2 DATE 1850
@@ -5747,13 +5747,12 @@
 3 MAP
 4 LATI N42.3953
 4 LONG W83.8047
-2 SOUR @9SIEhYikRnW7x0y08og9@
+2 SOUR @S108@
 3 PAGE Year: 1860; Census Place: Webster, Washtenaw, Michigan; Roll
-4 CONC : M653_563; Page: 36; Image: 36; Family History Library Film
-4 CONC : 803563
-3 OBJE @M173@
+4 CONC : M653_563; Page: 36; Family History Library Film: 803563
+3 OBJE @M249@
 3 _APID 1,7667::45301255
-2 NOTE Age: 52
+2 NOTE Age: 52; Residence Post Office: Webster
 1 DEAT
 2 DATE 1860
 0 @I62@ INDI
@@ -5879,18 +5878,6 @@
 4 CONC ; NARA Roll: M33_73; Image: 33
 3 OBJE @M162@
 3 _APID 1,7734::452373
-2 SOUR @S108@
-3 PAGE Year: 1860; Census Place: De Ruyter, Madison, New York; Roll
-4 CONC : M653_780; Page: 291; Image: 296; Family History Library Fi
-4 CONC lm: 803780
-3 OBJE @dWsnZ7LgQrKG2iGIc9WX@
-3 _APID 1,7667::46712177
-2 SOUR @9SIEhYikRnW7x0y08og9@
-3 PAGE Year: 1880; Census Place: Lebanon, Madison, New York; Roll
-4 CONC : 860; Family History Film: 1254860; Page: 204C; Enumeratio
-4 CONC n District: 060; Image: 0257
-3 OBJE @vev02hLgTVOKVOBn4qGP@
-3 _APID 1,6742::2485260
 2 SOUR @yyAkQxoDR02oezmc7VEf@
 1 SEX M
 1 FAMC @F30@
@@ -5989,8 +5976,8 @@
 0 @I149@ INDI
 1 REFN a0f24558-5977-47e5-8ea5-8122936b648b
 1 NAME Emma D. /Cranson/
-2 SOUR @L8nVWbaPS16IxbJgxhiQ@
-3 OBJE @M179@
+2 SOUR @bpt8c0uQRfCTW2vNfJ3k@
+3 OBJE @M242@
 3 _APID 1,7181::1655642776
 2 SOUR @yyAkQxoDR02oezmc7VEf@
 3 OBJE @M183@
@@ -6003,8 +5990,8 @@
 3 MAP
 4 LATI N42.7531
 4 LONG W74.2224
-2 SOUR @L8nVWbaPS16IxbJgxhiQ@
-3 OBJE @M179@
+2 SOUR @bpt8c0uQRfCTW2vNfJ3k@
+3 OBJE @M242@
 3 _APID 1,7181::1655642776
 2 SOUR @yyAkQxoDR02oezmc7VEf@
 3 OBJE @M183@
@@ -6015,8 +6002,8 @@
 3 MAP
 4 LATI N43.0583
 4 LONG W75.7047
-2 SOUR @L8nVWbaPS16IxbJgxhiQ@
-3 OBJE @M179@
+2 SOUR @bpt8c0uQRfCTW2vNfJ3k@
+3 OBJE @M242@
 3 _APID 1,7181::1655642776
 2 NOTE Relation to Head of House: Child
 1 RESI
@@ -6032,20 +6019,12 @@
 0 @I148@ INDI
 1 REFN f5b78f2d-9421-4c4d-9707-6492cccc958d
 1 NAME Eunice A. /Cranson/
-2 SOUR @9SIEhYikRnW7x0y08og9@
-3 PAGE Year: 1860; Census Place: Lenox, Madison, New York; Roll
-4 CONC : ; Page: 743; Image: 244.
-3 DATA
-4 TEXT Name:  Eunice A Cranson
-5 CONT Birth:  abt 1852 in New York
-5 CONT Death:
-3 OBJE @M177@
-3 _LINK http://search.ancestry.com/cgi-bin/sse.dll?db=1860usfedcenan
-4 CONC cestry&h=49432552&ti=0&indiv=try&gss=pt
+2 SOUR @S108@
+3 PAGE Year: 1860; Census Place: Lenox, Madison, New York; Roll: M6
+4 CONC 53_781; Page: 743; Family History Library Film: 803781
+3 OBJE @M248@
 3 _APID 1,7667::49432552
 1 SEX F
-2 SOUR @9SIEhYikRnW7x0y08og9@
-3 _APID 1,7667::49432552
 1 FAMC @F43@
 1 BIRT
 2 DATE ABT 1852
@@ -6053,17 +6032,23 @@
 3 MAP
 4 LATI N42.7531
 4 LONG W74.2224
-2 SOUR @9SIEhYikRnW7x0y08og9@
-3 PAGE Year: 1860; Census Place: Lenox, Madison, New York; Roll
-4 CONC : ; Page: 743; Image: 244.
-3 DATA
-4 TEXT Name:  Eunice A Cranson
-5 CONT Birth:  abt 1852 in New York
-5 CONT Death:
-3 OBJE @M177@
-3 _LINK http://search.ancestry.com/cgi-bin/sse.dll?db=1860usfedcenan
-4 CONC cestry&h=49432552&ti=0&indiv=try&gss=pt
+2 SOUR @S108@
+3 PAGE Year: 1860; Census Place: Lenox, Madison, New York; Roll: M6
+4 CONC 53_781; Page: 743; Family History Library Film: 803781
+3 OBJE @M248@
 3 _APID 1,7667::49432552
+1 RESI
+2 DATE 1860
+2 PLAC Lenox, Madison, New York, USA
+3 MAP
+4 LATI N43.0583
+4 LONG W75.7047
+2 SOUR @S108@
+3 PAGE Year: 1860; Census Place: Lenox, Madison, New York; Roll: M6
+4 CONC 53_781; Page: 743; Family History Library Film: 803781
+3 OBJE @M248@
+3 _APID 1,7667::49432552
+2 NOTE Residence Post Office: Wampsville
 0 @I145@ INDI
 1 REFN 835796b0-df1d-46df-a5f1-f13137974fa9
 1 NAME Eva /Cranson/
@@ -6110,82 +6095,16 @@
 1 REFN 8229de0f-27b8-43fa-b042-14586d227576
 1 NAME Frederick N. /Cranson/
 2 SOUR @L8nVWbaPS16IxbJgxhiQ@
-3 OBJE @hBbUEb24TqiH3S5JaCqL@
-2 SOUR @L8nVWbaPS16IxbJgxhiQ@
 3 PAGE Year: 1850; Census Place: Cazenovia, Madison, New York; Roll
 4 CONC : M432_526; Page: 110B; Image: 227
 3 OBJE @yISHBCCNThuVORgyrX3O@
 3 _APID 1,8054::19901555
-2 SOUR @9SIEhYikRnW7x0y08og9@
-3 PAGE Year: 1860; Census Place: Cazenovia, Madison, New York; Roll
-4 CONC : M653_780; Page: 79; Image: 84; Family History Library Film
-4 CONC : 803780
-3 OBJE @M151@
-3 _APID 1,7667::46725849
-2 SOUR @9SIEhYikRnW7x0y08og9@
-3 PAGE Year: 1880; Census Place: Georgetown, Madison, New York; Rol
-4 CONC l: 860; Family History Film: 1254860; Page: 149C; Enumeratio
-4 CONC n District: 057; Image: 0147
-3 OBJE @QduZTtH4TNGG3b8GpqGf@
-3 _APID 1,6742::38724707
-2 SOUR @9SIEhYikRnW7x0y08og9@
-3 PAGE Year: 1880; Census Place: Lebanon, Madison, New York; Roll
-4 CONC : 860; Family History Film: 1254860; Page: 204C; Enumeratio
-4 CONC n District: 060; Image: 0257
-3 OBJE @vev02hLgTVOKVOBn4qGP@
-3 _APID 1,6742::38726164
-2 SOUR @pCylTqPHQbGiYF7OdWYH@
-2 SOUR @bpt8c0uQRfCTW2vNfJ3k@
-3 OBJE @hBbUEb24TqiH3S5JaCqL@
-2 SOUR @bpt8c0uQRfCTW2vNfJ3k@
-3 PAGE New York State Archives, Cultural Education Center, Albany
-4 CONC , New York; New York Civil War Muster Roll Abstracts, 1861-1
-4 CONC 900; Archive Collection #: 13775-83; Box #: 923; Roll #: 579
-3 OBJE @M198@
-3 _APID 1,1965::661630
-2 SOUR @yyAkQxoDR02oezmc7VEf@
-3 OBJE @WGZxfFdOQxGGTRbs2LyY@
-3 _APID 1,7218::1760356
-2 SOUR @S107@
-3 OBJE @aZwCiFtsSkmfSExBCUxH@
-2 SOUR @S107@
-3 OBJE @aZwCiFtsSkmfSExBCUxH@
-2 SOUR @Da4QmjDCTO26NSEbXkWM@
-3 OBJE @M199@
-3 _APID 1,3212::3118831
-2 SOUR @S126@
-1 NAME Frederick /Cranson/
 2 SOUR @S106@
 3 PAGE Year: 1870; Census Place: Georgetown, Madison, New York; Rol
 4 CONC l: M593_967; Page: 194A; Image: 392; Family History Librar
 4 CONC y Film: 552466
 3 OBJE @E5x9RPNhRnyadhNdprh3@
 3 _APID 1,7163::33642833
-1 SEX M
-1 FAMC @F31@
-1 NOTE _XY 471 480  _UID 6b71720d-f95b-4882-9dbf-c6b4dd69c39b
-1 BIRT
-2 DATE 27 JUL 1843
-2 PLAC Fenner, Madison, NY, USA
-2 SOUR @L8nVWbaPS16IxbJgxhiQ@
-3 OBJE @hBbUEb24TqiH3S5JaCqL@
-2 SOUR @L8nVWbaPS16IxbJgxhiQ@
-3 PAGE Year: 1850; Census Place: Cazenovia, Madison, New York; Roll
-4 CONC : M432_526; Page: 110B; Image: 227
-3 OBJE @yISHBCCNThuVORgyrX3O@
-3 _APID 1,8054::19901555
-2 SOUR @9SIEhYikRnW7x0y08og9@
-3 PAGE Year: 1860; Census Place: Cazenovia, Madison, New York; Roll
-4 CONC : M653_780; Page: 79; Image: 84; Family History Library Film
-4 CONC : 803780
-3 OBJE @M151@
-3 _APID 1,7667::46725849
-2 SOUR @9SIEhYikRnW7x0y08og9@
-3 PAGE Year: 1880; Census Place: Georgetown, Madison, New York; Rol
-4 CONC l: 860; Family History Film: 1254860; Page: 149C; Enumeratio
-4 CONC n District: 057; Image: 0147
-3 OBJE @QduZTtH4TNGG3b8GpqGf@
-3 _APID 1,6742::38724707
 2 SOUR @9SIEhYikRnW7x0y08og9@
 3 PAGE Year: 1880; Census Place: Lebanon, Madison, New York; Roll
 4 CONC : 860; Family History Film: 1254860; Page: 204C; Enumeratio
@@ -6193,33 +6112,68 @@
 3 OBJE @vev02hLgTVOKVOBn4qGP@
 3 _APID 1,6742::38726164
 2 SOUR @pCylTqPHQbGiYF7OdWYH@
-2 SOUR @bpt8c0uQRfCTW2vNfJ3k@
-3 OBJE @hBbUEb24TqiH3S5JaCqL@
-2 SOUR @bpt8c0uQRfCTW2vNfJ3k@
+2 SOUR @lfBJpoKhRAejDR6dzZQp@
 3 PAGE New York State Archives, Cultural Education Center, Albany
-4 CONC , New York; New York Civil War Muster Roll Abstracts, 1861-1
-4 CONC 900; Archive Collection #: 13775-83; Box #: 923; Roll #: 579
-3 OBJE @M198@
+4 CONC ; Collection 13775-83; Box 923; Roll 579
+3 OBJE @M244@
 3 _APID 1,1965::661630
+2 SOUR @bpt8c0uQRfCTW2vNfJ3k@
+3 OBJE @M241@
+3 _APID 1,7181::1655684828
 2 SOUR @yyAkQxoDR02oezmc7VEf@
 3 OBJE @WGZxfFdOQxGGTRbs2LyY@
 3 _APID 1,7218::1760356
 2 SOUR @S107@
 3 OBJE @aZwCiFtsSkmfSExBCUxH@
+3 _APID 1,7250::1398347785
+2 SOUR @Da4QmjDCTO26NSEbXkWM@
+3 OBJE @M199@
+3 _APID 1,3212::3118831
+2 SOUR @S126@
+1 SEX M
+1 FAMC @F31@
+1 NOTE _XY 471 480  _UID 6b71720d-f95b-4882-9dbf-c6b4dd69c39b
+1 BIRT
+2 DATE 27 JUL 1843
+2 PLAC Fenner, Madison, New York, USA
+3 MAP
+4 LATI N42.9694
+4 LONG W75.7872
+2 SOUR @L8nVWbaPS16IxbJgxhiQ@
+3 PAGE Year: 1850; Census Place: Cazenovia, Madison, New York; Roll
+4 CONC : M432_526; Page: 110B; Image: 227
+3 OBJE @yISHBCCNThuVORgyrX3O@
+3 _APID 1,8054::19901555
+2 SOUR @9SIEhYikRnW7x0y08og9@
+3 PAGE Year: 1880; Census Place: Lebanon, Madison, New York; Roll
+4 CONC : 860; Family History Film: 1254860; Page: 204C; Enumeratio
+4 CONC n District: 060; Image: 0257
+3 OBJE @vev02hLgTVOKVOBn4qGP@
+3 _APID 1,6742::38726164
+2 SOUR @pCylTqPHQbGiYF7OdWYH@
+2 SOUR @lfBJpoKhRAejDR6dzZQp@
+3 PAGE New York State Archives, Cultural Education Center, Albany
+4 CONC ; Collection 13775-83; Box 923; Roll 579
+3 OBJE @M244@
+3 _APID 1,1965::661630
+2 SOUR @bpt8c0uQRfCTW2vNfJ3k@
+3 OBJE @M241@
+3 _APID 1,7181::1655684828
+2 SOUR @yyAkQxoDR02oezmc7VEf@
+3 OBJE @WGZxfFdOQxGGTRbs2LyY@
+3 _APID 1,7218::1760356
 2 SOUR @S107@
 3 OBJE @aZwCiFtsSkmfSExBCUxH@
+3 _APID 1,7250::1398347785
 2 SOUR @Da4QmjDCTO26NSEbXkWM@
 3 OBJE @M199@
 3 _APID 1,3212::3118831
 1 RESI
 2 DATE 1850
-2 PLAC Cazenovia, Madison, New York
-2 SOUR @9SIEhYikRnW7x0y08og9@
-3 PAGE Year: 1880; Census Place: Georgetown, Madison, New York; Rol
-4 CONC l: 860; Family History Film: 1254860; Page: 149C; Enumeratio
-4 CONC n District: 057; Image: 0147
-3 OBJE @QduZTtH4TNGG3b8GpqGf@
-3 _APID 1,6742::38724707
+2 PLAC Cazenovia, Madison, New York, USA
+3 MAP
+4 LATI N42.9301
+4 LONG W75.8527
 2 NOTE Age: 6
 1 RESI
 2 DATE 1855
@@ -6227,37 +6181,33 @@
 3 MAP
 4 LATI N42.9301
 4 LONG W75.8527
-2 SOUR @L8nVWbaPS16IxbJgxhiQ@
-3 OBJE @hBbUEb24TqiH3S5JaCqL@
+2 SOUR @bpt8c0uQRfCTW2vNfJ3k@
+3 OBJE @M241@
 3 _APID 1,7181::1655684828
 2 NOTE Age: 11; Relation to Head of House: Child
 1 RESI
 2 DATE 1860
-2 PLAC Cazenovia, Madison, New York, United States
-2 SOUR @9SIEhYikRnW7x0y08og9@
-3 PAGE Year: 1860; Census Place: Cazenovia, Madison, New York; Roll
-4 CONC : M653_780; Page: 79; Image: 84; Family History Library Film
-4 CONC : 803780
-3 OBJE @M151@
-3 _APID 1,7667::46725849
+2 PLAC Cazenovia, Madison, New York, USA
+3 MAP
+4 LATI N42.9301
+4 LONG W75.8527
 2 NOTE Age: 17
 1 EVEN
 2 TYPE military
 2 DATE 30 DEC 1863
-2 PLAC Cazenovia, Madison, New York, United States
+2 PLAC Cazenovia, Madison, New York, USA
+3 MAP
+4 LATI N42.9301
+4 LONG W75.8527
 2 SOUR @L8nVWbaPS16IxbJgxhiQ@
 3 PAGE Year: 1850; Census Place: Cazenovia, Madison, New York; Roll
 4 CONC : M432_526; Page: 110B; Image: 227
 3 OBJE @yISHBCCNThuVORgyrX3O@
 3 _APID 1,8054::19901555
-1 EVEN
-2 TYPE military
-2 DATE 1864
-2 SOUR @bpt8c0uQRfCTW2vNfJ3k@
+2 SOUR @lfBJpoKhRAejDR6dzZQp@
 3 PAGE New York State Archives, Cultural Education Center, Albany
-4 CONC , New York; New York Civil War Muster Roll Abstracts, 1861-1
-4 CONC 900; Archive Collection #: 13775-83; Box #: 923; Roll #: 579
-3 OBJE @M198@
+4 CONC ; Collection 13775-83; Box 923; Roll 579
+3 OBJE @M244@
 3 _APID 1,1965::661630
 1 RESI
 2 DATE 1865
@@ -6269,10 +6219,10 @@
 2 NOTE Relation to Head of House: Son
 1 RESI
 2 DATE 1870
-2 PLAC Cazenovia, Georgetown, Madison, New York, United States
-2 SOUR @S107@
-3 OBJE @aZwCiFtsSkmfSExBCUxH@
-3 _APID 1,7250::1398347782
+2 PLAC Cazenovia, Madison, New York, USA
+3 MAP
+4 LATI N42.9301
+4 LONG W75.8527
 2 NOTE Age: 27
 1 RESI
 2 DATE 01 JUN 1875
@@ -6300,7 +6250,10 @@
 3 CONC usin
 1 RESI
 2 DATE 1892
-2 PLAC Cazenovia, Madison, New York
+2 PLAC Cazenovia, Madison, New York, USA
+3 MAP
+4 LATI N42.9301
+4 LONG W75.8527
 2 SOUR @Da4QmjDCTO26NSEbXkWM@
 3 OBJE @M199@
 3 _APID 1,3212::3118831
@@ -6321,29 +6274,23 @@
 3 MAP
 4 LATI N42.9301
 4 LONG W75.8527
-2 SOUR @bpt8c0uQRfCTW2vNfJ3k@
-3 OBJE @hBbUEb24TqiH3S5JaCqL@
-3 _APID 1,7181::1655684824
 2 NOTE Age: 67Marital Status: Widowed; Relation to Head of House: B
 3 CONC rother
 1 DEAT
 2 DATE 06 OCT 1913
-2 SOUR @S108@
-3 PAGE Year: 1860; Census Place: Cazenovia, Madison, New York; Roll
-4 CONC : M653_780; Page: 78; Image: 83; Family History Library Film
-4 CONC : 803780
-3 OBJE @CfhvFGtMQ0eswS1iYnaT@
-3 _APID 1,7667::46725741
 0 @I76@ INDI
 1 REFN 8f58cd30-090f-4ae2-8a56-d004b075c199
 1 NAME George W. /Cranson/
-2 SOUR @L8nVWbaPS16IxbJgxhiQ@
-3 OBJE @hBbUEb24TqiH3S5JaCqL@
 2 SOUR @L8nVWbaPS16IxbJgxhiQ@
 3 PAGE Year: 1850; Census Place: Cazenovia, Madison, New York; Roll
 4 CONC : M432_526; Page: 110B; Image: 227
 3 OBJE @yISHBCCNThuVORgyrX3O@
 3 _APID 1,8054::20001982
+2 SOUR @S108@
+3 PAGE Year: 1860; Census Place: Cazenovia, Madison, New York; Roll
+4 CONC : M653_780; Page: 78; Family History Library Film: 803780
+3 OBJE @M245@
+3 _APID 1,7667::46725743
 2 SOUR @S106@
 3 PAGE Year: 1870; Census Place: Georgetown, Madison, New York; Rol
 4 CONC l: M593_967; Page: 194A; Image: 392; Family History Librar
@@ -6356,6 +6303,9 @@
 4 CONC n District: 050; Image: 0746
 3 OBJE @M192@
 3 _APID 1,6742::3298181
+2 SOUR @bpt8c0uQRfCTW2vNfJ3k@
+3 OBJE @M241@
+3 _APID 1,7181::1655684827
 2 SOUR @yyAkQxoDR02oezmc7VEf@
 3 OBJE @WGZxfFdOQxGGTRbs2LyY@
 3 _APID 1,7218::1760397
@@ -6378,12 +6328,15 @@
 4 LATI N42.9301
 4 LONG W75.8527
 2 SOUR @L8nVWbaPS16IxbJgxhiQ@
-3 OBJE @hBbUEb24TqiH3S5JaCqL@
-2 SOUR @L8nVWbaPS16IxbJgxhiQ@
 3 PAGE Year: 1850; Census Place: Cazenovia, Madison, New York; Roll
 4 CONC : M432_526; Page: 110B; Image: 227
 3 OBJE @yISHBCCNThuVORgyrX3O@
 3 _APID 1,8054::20001982
+2 SOUR @S108@
+3 PAGE Year: 1860; Census Place: Cazenovia, Madison, New York; Roll
+4 CONC : M653_780; Page: 78; Family History Library Film: 803780
+3 OBJE @M245@
+3 _APID 1,7667::46725743
 2 SOUR @S106@
 3 PAGE Year: 1870; Census Place: Georgetown, Madison, New York; Rol
 4 CONC l: M593_967; Page: 194A; Image: 392; Family History Librar
@@ -6396,6 +6349,9 @@
 4 CONC n District: 050; Image: 0746
 3 OBJE @M192@
 3 _APID 1,6742::3298181
+2 SOUR @bpt8c0uQRfCTW2vNfJ3k@
+3 OBJE @M241@
+3 _APID 1,7181::1655684827
 2 SOUR @yyAkQxoDR02oezmc7VEf@
 3 OBJE @WGZxfFdOQxGGTRbs2LyY@
 3 _APID 1,7218::1760397
@@ -6410,7 +6366,10 @@
 3 _APID 1,1964::103967
 1 RESI
 2 DATE 1850
-2 PLAC Cazenovia, Madison, New York
+2 PLAC Cazenovia, Madison, New York, USA
+3 MAP
+4 LATI N42.9301
+4 LONG W75.8527
 2 SOUR @L8nVWbaPS16IxbJgxhiQ@
 3 PAGE Year: 1850; Census Place: Cazenovia, Madison, New York; Roll
 4 CONC : M432_526; Page: 110B; Image: 227
@@ -6423,10 +6382,22 @@
 3 MAP
 4 LATI N42.9301
 4 LONG W75.8527
-2 SOUR @L8nVWbaPS16IxbJgxhiQ@
-3 OBJE @hBbUEb24TqiH3S5JaCqL@
+2 SOUR @bpt8c0uQRfCTW2vNfJ3k@
+3 OBJE @M241@
 3 _APID 1,7181::1655684827
 2 NOTE Age: 13; Relation to Head of House: Child
+1 RESI
+2 DATE 1860
+2 PLAC Cazenovia, Madison, New York, USA
+3 MAP
+4 LATI N42.9301
+4 LONG W75.8527
+2 SOUR @S108@
+3 PAGE Year: 1860; Census Place: Cazenovia, Madison, New York; Roll
+4 CONC : M653_780; Page: 78; Family History Library Film: 803780
+3 OBJE @M245@
+3 _APID 1,7667::46725743
+2 NOTE Residence Post Office: Cazenovia
 1 EVEN
 2 TYPE military
 2 DATE 01 DEC 1861
@@ -6452,7 +6423,10 @@
 2 NOTE Relation to Head of House: Son
 1 RESI
 2 DATE 1870
-2 PLAC Cazenovia, Georgetown, Madison, New York, United States
+2 PLAC Cazenovia, Madison, New York, USA
+3 MAP
+4 LATI N42.9301
+4 LONG W75.8527
 2 SOUR @S106@
 3 PAGE Year: 1870; Census Place: Georgetown, Madison, New York; Rol
 4 CONC l: M593_967; Page: 194A; Image: 392; Family History Librar
@@ -6472,7 +6446,10 @@
 2 NOTE Relation to Head of House: Son
 1 RESI
 2 DATE 1880
-2 PLAC Cazenovia, Madison, New York, United States
+2 PLAC Cazenovia, Madison, New York, USA
+3 MAP
+4 LATI N42.9301
+4 LONG W75.8527
 2 SOUR @9SIEhYikRnW7x0y08og9@
 3 PAGE Year: 1880; Census Place: Cazenovia, Madison, New York; Roll
 4 CONC : 859; Family History Film: 1254859; Page: 62A; Enumeratio
@@ -6531,7 +6508,6 @@
 3 PAGE Year: 1870; Census Place: De Ruyter, Madison, New York; Roll
 4 CONC : M593_967; Page: 118B; Image: 240; Family History Library F
 4 CONC ilm: 552466
-3 OBJE @Q2Z8EHOYSYG7XhdM9kYW@
 3 _APID 1,7163::23893915
 2 SOUR @9SIEhYikRnW7x0y08og9@
 3 PAGE Year: 1880; Census Place: Lebanon, Madison, New York; Roll
@@ -6589,7 +6565,6 @@
 3 PAGE Year: 1870; Census Place: De Ruyter, Madison, New York; Roll
 4 CONC : M593_967; Page: 118B; Image: 240; Family History Library F
 4 CONC ilm: 552466
-3 OBJE @Q2Z8EHOYSYG7XhdM9kYW@
 3 _APID 1,7163::23893915
 2 SOUR @9SIEhYikRnW7x0y08og9@
 3 PAGE Year: 1880; Census Place: Lebanon, Madison, New York; Roll
@@ -6729,9 +6704,9 @@
 3 PAGE Year: 1870; Census Place: De Ruyter, Madison, New York; Roll
 4 CONC : M593_967; Page: 118B; Image: 240; Family History Library F
 4 CONC ilm: 552466
-3 OBJE @Q2Z8EHOYSYG7XhdM9kYW@
 3 _APID 1,7163::23893915
 2 NOTE Age: 55; Census Post Office: Cazenovia
+2 NOTE Residence Post Office: Cazenovia
 1 CENS
 2 DATE 01 JUN 1875
 2 PLAC De Ruyter, Madison, New York, USA
@@ -6856,7 +6831,7 @@
 3 _APID 1,8054::8994450
 2 SOUR @S142@
 3 PAGE Source number: 982.000; Source type: Electronic Database; Nu
-4 CONC mber of Pages: 1; Submitter Code: HDG
+4 CONC mber of Pages: 1; Submitter Code: HDG; Huldah Cranson
 3 _APID 1,7836::290935
 2 SOUR @S124@
 3 PAGE Volume: 339; SAR Membership Number: 67676
@@ -6929,21 +6904,12 @@
 0 @I75@ INDI
 1 REFN c7ed0ceb-0caa-48c8-aa10-dab705de7906
 1 NAME John H. /Cranson/
-2 SOUR @L8nVWbaPS16IxbJgxhiQ@
-3 OBJE @hBbUEb24TqiH3S5JaCqL@
-3 _APID 1,7181::1655684830
 2 SOUR @S106@
 3 PAGE Year: 1870; Census Place: Fenner, Madison, New York; Roll: M
 4 CONC 593_967; Page: 178B; Image: 361; Family History Library Film
 4 CONC : 552466
 3 OBJE @M184@
 3 _APID 1,7163::29830136
-2 SOUR @9SIEhYikRnW7x0y08og9@
-3 PAGE Year: 1860; Census Place: Cazenovia, Madison, New York; Roll
-4 CONC : M653_780; Page: 79; Image: 84; Family History Library Film
-4 CONC : 803780
-3 OBJE @M151@
-3 _APID 1,7667::46725851
 2 SOUR @9SIEhYikRnW7x0y08og9@
 3 PAGE Year: 1880; Census Place: Georgetown, Madison, New York; Rol
 4 CONC l: 860; Family History Film: 1254860; Page: 149C; Enumeratio
@@ -6972,6 +6938,9 @@
 4 CONC L microfilm: 2341180
 3 OBJE @M189@
 3 _APID 1,6224::40853267
+2 SOUR @bpt8c0uQRfCTW2vNfJ3k@
+3 OBJE @M241@
+3 _APID 1,7181::1655684830
 2 SOUR @yyAkQxoDR02oezmc7VEf@
 3 OBJE @WGZxfFdOQxGGTRbs2LyY@
 3 _APID 1,7218::1760330
@@ -6998,22 +6967,16 @@
 1 FAMS @F49@
 1 BIRT
 2 DATE MAY 1852
-2 PLAC Cazenovia, Madison Co., NY, USA
-2 SOUR @L8nVWbaPS16IxbJgxhiQ@
-3 OBJE @hBbUEb24TqiH3S5JaCqL@
-3 _APID 1,7181::1655684830
+2 PLAC Cazenovia, Madison, New York, USA
+3 MAP
+4 LATI N42.9301
+4 LONG W75.8527
 2 SOUR @S106@
 3 PAGE Year: 1870; Census Place: Fenner, Madison, New York; Roll: M
 4 CONC 593_967; Page: 178B; Image: 361; Family History Library Film
 4 CONC : 552466
 3 OBJE @M184@
 3 _APID 1,7163::29830136
-2 SOUR @9SIEhYikRnW7x0y08og9@
-3 PAGE Year: 1860; Census Place: Cazenovia, Madison, New York; Roll
-4 CONC : M653_780; Page: 79; Image: 84; Family History Library Film
-4 CONC : 803780
-3 OBJE @M151@
-3 _APID 1,7667::46725851
 2 SOUR @9SIEhYikRnW7x0y08og9@
 3 PAGE Year: 1880; Census Place: Georgetown, Madison, New York; Rol
 4 CONC l: 860; Family History Film: 1254860; Page: 149C; Enumeratio
@@ -7042,6 +7005,9 @@
 4 CONC L microfilm: 2341180
 3 OBJE @M189@
 3 _APID 1,6224::40853267
+2 SOUR @bpt8c0uQRfCTW2vNfJ3k@
+3 OBJE @M241@
+3 _APID 1,7181::1655684830
 2 SOUR @yyAkQxoDR02oezmc7VEf@
 3 OBJE @WGZxfFdOQxGGTRbs2LyY@
 3 _APID 1,7218::1760330
@@ -7069,19 +7035,16 @@
 3 MAP
 4 LATI N42.9301
 4 LONG W75.8527
-2 SOUR @L8nVWbaPS16IxbJgxhiQ@
-3 OBJE @hBbUEb24TqiH3S5JaCqL@
+2 SOUR @bpt8c0uQRfCTW2vNfJ3k@
+3 OBJE @M241@
 3 _APID 1,7181::1655684830
 2 NOTE Age: 3; Relation to Head of House: Child
 1 RESI
 2 DATE 1860
-2 PLAC Cazenovia, Madison, New York, United States
-2 SOUR @9SIEhYikRnW7x0y08og9@
-3 PAGE Year: 1860; Census Place: Cazenovia, Madison, New York; Roll
-4 CONC : M653_780; Page: 79; Image: 84; Family History Library Film
-4 CONC : 803780
-3 OBJE @M151@
-3 _APID 1,7667::46725851
+2 PLAC Cazenovia, Madison, New York, USA
+3 MAP
+4 LATI N42.9301
+4 LONG W75.8527
 2 NOTE Age: 8
 1 RESI
 2 DATE 1865
@@ -7095,7 +7058,10 @@
 2 NOTE Relation to Head of House: Son
 1 RESI
 2 DATE 1870
-2 PLAC Fenner, Madison, New York, United States
+2 PLAC Fenner, Madison, New York, USA
+3 MAP
+4 LATI N42.9694
+4 LONG W75.7872
 2 SOUR @S106@
 3 PAGE Year: 1870; Census Place: Fenner, Madison, New York; Roll: M
 4 CONC 593_967; Page: 178B; Image: 361; Family History Library Film
@@ -7115,7 +7081,10 @@
 2 NOTE Relation to Head of House: Son
 1 RESI
 2 DATE 1880
-2 PLAC Georgetown, Madison, New York, United States
+2 PLAC Georgetown, Madison, New York, USA
+3 MAP
+4 LATI N42.7683
+4 LONG W75.7369
 2 SOUR @9SIEhYikRnW7x0y08og9@
 3 PAGE Year: 1880; Census Place: Georgetown, Madison, New York; Rol
 4 CONC l: 860; Family History Film: 1254860; Page: 149C; Enumeratio
@@ -7126,7 +7095,10 @@
 3 CONC n
 1 RESI
 2 DATE 1892
-2 PLAC Cazenovia, Madison, New York
+2 PLAC Cazenovia, Madison, New York, USA
+3 MAP
+4 LATI N42.9301
+4 LONG W75.8527
 2 SOUR @Da4QmjDCTO26NSEbXkWM@
 3 OBJE @M190@
 3 _APID 1,3212::3117832
@@ -7161,7 +7133,10 @@
 3 CONC ead
 1 RESI
 2 DATE 01 JUN 1915
-2 PLAC Cazenovia, Madison, New York, United States
+2 PLAC Cazenovia, Madison, New York, USA
+3 MAP
+4 LATI N42.9301
+4 LONG W75.8527
 2 SOUR @W7LxqysiTQKb0jxIb32w@
 3 PAGE New York State Archives; Albany, New York; State Populatio
 4 CONC n Census Schedules, 1915; Election District: 02; Assembly Di
@@ -7183,7 +7158,10 @@
 3 CONC ead
 1 RESI
 2 DATE 01 JUN 1925
-2 PLAC Cazenovia, Madison, New York, United States
+2 PLAC Cazenovia, Madison, New York, USA
+3 MAP
+4 LATI N42.9301
+4 LONG W75.8527
 2 SOUR @CBm0n9eyQ2KMLGJARjUj@
 3 PAGE New York State Archives; Albany, New York; State Populatio
 4 CONC n Census Schedules, 1925; Election District: 02; Assembly Di
@@ -7193,7 +7171,10 @@
 2 NOTE Age: 73Relation to Head of House: Head
 1 RESI
 2 DATE 1930
-2 PLAC Cazenovia, Madison, New York
+2 PLAC Cazenovia, Madison, New York, USA
+3 MAP
+4 LATI N42.9301
+4 LONG W75.8527
 2 SOUR @Z6rqhHe6TT6AOpzl0BeY@
 3 PAGE Year: 1930; Census Place: Cazenovia, Madison, New York; Roll
 4 CONC : 1445; Page: 4B; Enumeration District: 4; Image: 849.0; FH
@@ -7203,7 +7184,10 @@
 2 NOTE Age: 77Marital Status: Married; Relation to Head of House: H
 3 CONC ead
 1 RESI
-2 PLAC Chittenango, Madison, New York
+2 PLAC Chittenango, Madison, New York, USA
+3 MAP
+4 LATI N43.0451
+4 LONG W75.8666
 2 SOUR @S106@
 3 PAGE Year: 1870; Census Place: Fenner, Madison, New York; Roll: M
 4 CONC 593_967; Page: 178B; Image: 361; Family History Library Film
@@ -7379,8 +7363,6 @@
 1 REFN d9207e8f-ec70-43bb-a099-99a0bd524209
 1 NAME Margaret A. /Cranson/
 2 SOUR @L8nVWbaPS16IxbJgxhiQ@
-3 OBJE @hBbUEb24TqiH3S5JaCqL@
-2 SOUR @L8nVWbaPS16IxbJgxhiQ@
 3 PAGE Year: 1850; Census Place: Cazenovia, Madison, New York; Roll
 4 CONC : M432_526; Page: 110B; Image: 227
 3 OBJE @yISHBCCNThuVORgyrX3O@
@@ -7392,12 +7374,6 @@
 3 OBJE @M184@
 3 _APID 1,7163::28981299
 2 SOUR @9SIEhYikRnW7x0y08og9@
-3 PAGE Year: 1860; Census Place: Cazenovia, Madison, New York; Roll
-4 CONC : M653_780; Page: 76; Image: 81; Family History Library Film
-4 CONC : 803780
-3 OBJE @M202@
-3 _APID 1,7667::46725388
-2 SOUR @9SIEhYikRnW7x0y08og9@
 3 PAGE Year: 1880; Census Place: Georgetown, Madison, New York; Rol
 4 CONC l: 860; Family History Film: 1254860; Page: 149C; Enumeratio
 4 CONC n District: 057; Image: 0147
@@ -7406,9 +7382,12 @@
 2 SOUR @tPClZMdVRNCZDOmnmsWz@
 3 PAGE Year: 1900; Census Place: Georgetown, Madison, New York; Rol
 4 CONC l: 1071; Page: 7A; Enumeration District: 0011; FHL microfilm
-4 CONC : 1241071
+4 CONC : 1241071; Margaret Wood
 3 OBJE @M203@
 3 _APID 1,7602::55837068
+2 SOUR @bpt8c0uQRfCTW2vNfJ3k@
+3 OBJE @M241@
+3 _APID 1,7181::1655684826
 2 SOUR @yyAkQxoDR02oezmc7VEf@
 3 OBJE @WGZxfFdOQxGGTRbs2LyY@
 3 _APID 1,7218::1760334
@@ -7428,8 +7407,6 @@
 4 LATI N42.9301
 4 LONG W75.8527
 2 SOUR @L8nVWbaPS16IxbJgxhiQ@
-3 OBJE @hBbUEb24TqiH3S5JaCqL@
-2 SOUR @L8nVWbaPS16IxbJgxhiQ@
 3 PAGE Year: 1850; Census Place: Cazenovia, Madison, New York; Roll
 4 CONC : M432_526; Page: 110B; Image: 227
 3 OBJE @yISHBCCNThuVORgyrX3O@
@@ -7441,12 +7418,6 @@
 3 OBJE @M184@
 3 _APID 1,7163::28981299
 2 SOUR @9SIEhYikRnW7x0y08og9@
-3 PAGE Year: 1860; Census Place: Cazenovia, Madison, New York; Roll
-4 CONC : M653_780; Page: 76; Image: 81; Family History Library Film
-4 CONC : 803780
-3 OBJE @M202@
-3 _APID 1,7667::46725388
-2 SOUR @9SIEhYikRnW7x0y08og9@
 3 PAGE Year: 1880; Census Place: Georgetown, Madison, New York; Rol
 4 CONC l: 860; Family History Film: 1254860; Page: 149C; Enumeratio
 4 CONC n District: 057; Image: 0147
@@ -7455,9 +7426,12 @@
 2 SOUR @tPClZMdVRNCZDOmnmsWz@
 3 PAGE Year: 1900; Census Place: Georgetown, Madison, New York; Rol
 4 CONC l: 1071; Page: 7A; Enumeration District: 0011; FHL microfilm
-4 CONC : 1241071
+4 CONC : 1241071; Margaret Wood
 3 OBJE @M203@
 3 _APID 1,7602::55837068
+2 SOUR @bpt8c0uQRfCTW2vNfJ3k@
+3 OBJE @M241@
+3 _APID 1,7181::1655684826
 2 SOUR @yyAkQxoDR02oezmc7VEf@
 3 OBJE @WGZxfFdOQxGGTRbs2LyY@
 3 _APID 1,7218::1760334
@@ -7469,7 +7443,10 @@
 3 _APID 1,3212::3126615
 1 RESI
 2 DATE 1850
-2 PLAC Cazenovia, Madison, New York
+2 PLAC Cazenovia, Madison, New York, USA
+3 MAP
+4 LATI N42.9301
+4 LONG W75.8527
 2 SOUR @L8nVWbaPS16IxbJgxhiQ@
 3 PAGE Year: 1850; Census Place: Cazenovia, Madison, New York; Roll
 4 CONC : M432_526; Page: 110B; Image: 227
@@ -7482,19 +7459,16 @@
 3 MAP
 4 LATI N42.9301
 4 LONG W75.8527
-2 SOUR @L8nVWbaPS16IxbJgxhiQ@
-3 OBJE @hBbUEb24TqiH3S5JaCqL@
+2 SOUR @bpt8c0uQRfCTW2vNfJ3k@
+3 OBJE @M241@
 3 _APID 1,7181::1655684826
 2 NOTE Age: 15; Relation to Head of House: Child
 1 RESI
 2 DATE 1860
-2 PLAC Cazenovia, Madison, New York, United States
-2 SOUR @9SIEhYikRnW7x0y08og9@
-3 PAGE Year: 1860; Census Place: Cazenovia, Madison, New York; Roll
-4 CONC : M653_780; Page: 76; Image: 81; Family History Library Film
-4 CONC : 803780
-3 OBJE @M202@
-3 _APID 1,7667::46725388
+2 PLAC Cazenovia, Madison, New York, USA
+3 MAP
+4 LATI N42.9301
+4 LONG W75.8527
 2 NOTE Age: 20
 1 RESI
 2 DATE 1865
@@ -7508,7 +7482,10 @@
 2 NOTE Relation to Head of House: Daughter
 1 RESI
 2 DATE 1870
-2 PLAC Fenner, Madison, New York, United States
+2 PLAC Fenner, Madison, New York, USA
+3 MAP
+4 LATI N42.9694
+4 LONG W75.7872
 2 SOUR @S106@
 3 PAGE Year: 1870; Census Place: Fenner, Madison, New York; Roll: M
 4 CONC 593_967; Page: 178B; Image: 361; Family History Library Film
@@ -7528,7 +7505,10 @@
 2 NOTE Relation to Head of House: Daughter
 1 RESI
 2 DATE 1880
-2 PLAC Georgetown, Madison, New York, United States
+2 PLAC Georgetown, Madison, New York, USA
+3 MAP
+4 LATI N42.7683
+4 LONG W75.7369
 2 SOUR @9SIEhYikRnW7x0y08og9@
 3 PAGE Year: 1880; Census Place: Georgetown, Madison, New York; Rol
 4 CONC l: 860; Family History Film: 1254860; Page: 149C; Enumeratio
@@ -7556,7 +7536,7 @@
 2 SOUR @tPClZMdVRNCZDOmnmsWz@
 3 PAGE Year: 1900; Census Place: Georgetown, Madison, New York; Rol
 4 CONC l: 1071; Page: 7A; Enumeration District: 0011; FHL microfilm
-4 CONC : 1241071
+4 CONC : 1241071; Margaret Wood
 3 OBJE @M203@
 3 _APID 1,7602::55837068
 2 NOTE Age: 50; Marital Status: Married; Relation to Head of House
@@ -7568,7 +7548,10 @@
 4 LATI N42.7683
 4 LONG W75.7369
 1 RESI
-2 PLAC Chittenango, Madison, New York
+2 PLAC Chittenango, Madison, New York, USA
+3 MAP
+4 LATI N43.0451
+4 LONG W75.8666
 2 SOUR @S106@
 3 PAGE Year: 1870; Census Place: Fenner, Madison, New York; Roll: M
 4 CONC 593_967; Page: 178B; Image: 361; Family History Library Film
@@ -7613,7 +7596,10 @@
 2 NOTE Relation to Head of House: Granddaughter
 1 RESI
 2 DATE 1880
-2 PLAC Cazenovia, Madison, New York, United States
+2 PLAC Cazenovia, Madison, New York, USA
+3 MAP
+4 LATI N42.9301
+4 LONG W75.8527
 2 SOUR @9SIEhYikRnW7x0y08og9@
 3 PAGE Year: 1880; Census Place: Cazenovia, Madison, New York; Roll
 4 CONC : 859; Family History Film: 1254859; Page: 62A; Enumeratio
@@ -7643,12 +7629,13 @@
 1 REFN 55ddbdff-1853-414f-aec1-c7ae0211b2fe
 1 NAME Mary Jane /Cranson/
 2 SOUR @L8nVWbaPS16IxbJgxhiQ@
-3 OBJE @M179@
-2 SOUR @L8nVWbaPS16IxbJgxhiQ@
 3 PAGE Year: 1850; Census Place: Lenox, Madison, New York; Roll: M4
 4 CONC 32_526; Page: 169A; Image: 342
 3 OBJE @M176@
 3 _APID 1,8054::19974291
+2 SOUR @bpt8c0uQRfCTW2vNfJ3k@
+3 OBJE @M242@
+3 _APID 1,7181::1655642901
 1 SEX F
 1 FAMC @F43@
 1 FAMS @F48@
@@ -7659,12 +7646,13 @@
 4 LATI N42.7531
 4 LONG W74.2224
 2 SOUR @L8nVWbaPS16IxbJgxhiQ@
-3 OBJE @M179@
-2 SOUR @L8nVWbaPS16IxbJgxhiQ@
 3 PAGE Year: 1850; Census Place: Lenox, Madison, New York; Roll: M4
 4 CONC 32_526; Page: 169A; Image: 342
 3 OBJE @M176@
 3 _APID 1,8054::19974291
+2 SOUR @bpt8c0uQRfCTW2vNfJ3k@
+3 OBJE @M242@
+3 _APID 1,7181::1655642901
 1 RESI
 2 DATE 1850
 2 PLAC Lenox, Madison, New York, USA
@@ -7682,8 +7670,8 @@
 3 MAP
 4 LATI N43.0583
 4 LONG W75.7047
-2 SOUR @L8nVWbaPS16IxbJgxhiQ@
-3 OBJE @M179@
+2 SOUR @bpt8c0uQRfCTW2vNfJ3k@
+3 OBJE @M242@
 3 _APID 1,7181::1655642901
 2 NOTE Relation to Head of House: Child
 0 @I98@ INDI
@@ -7720,7 +7708,10 @@
 3 _APID 1,6742::2475473
 1 RESI
 2 DATE 1870
-2 PLAC Georgetown, Madison, New York, United States
+2 PLAC Georgetown, Madison, New York, USA
+3 MAP
+4 LATI N42.7683
+4 LONG W75.7369
 2 SOUR @S106@
 3 PAGE Year: 1870; Census Place: Georgetown, Madison, New York; Rol
 4 CONC l: M593_967; Page: 194A; Image: 392; Family History Librar
@@ -7743,7 +7734,10 @@
 2 NOTE Age: 42Marital Status: Married; Relation to Head of House: W
 3 CONC ife
 1 RESI
-2 PLAC Cazenovia, Madison, New York
+2 PLAC Cazenovia, Madison, New York, USA
+3 MAP
+4 LATI N42.9301
+4 LONG W75.8527
 2 SOUR @S106@
 3 PAGE Year: 1870; Census Place: Georgetown, Madison, New York; Rol
 4 CONC l: M593_967; Page: 194A; Image: 392; Family History Librar
@@ -7792,6 +7786,7 @@
 1 REFN 379a826b-55b8-4ede-a58f-9abc345156b9
 1 NAME Samuel /Cranson/
 2 SOUR @S111@
+3 PAGE typeset transcript, 1748, Samuel Cranson, birth
 3 OBJE @M195@
 3 _APID 1,2495::81251198
 1 SEX M
@@ -7803,6 +7798,7 @@
 4 LATI N42.244
 4 LONG W71.9923
 2 SOUR @S111@
+3 PAGE typeset transcript, 1748, Samuel Cranson, birth
 3 OBJE @M195@
 3 _APID 1,2495::81251198
 1 DEAT
@@ -8089,6 +8085,7 @@
 1 REFN ed893893-5add-43cf-ab59-2b06bc865b00
 1 NAME Zillah /Fuller/
 2 SOUR @S112@
+3 PAGE Zilla Fuller
 3 _APID 1,7853::283926
 1 SEX F
 1 FAMS @F30@
@@ -8525,7 +8522,8 @@
 1 NAME Patrick /Ginney/
 2 SOUR @tPClZMdVRNCZDOmnmsWz@
 3 PAGE Year: 1900; Census Place: Smithfield, Madison, New York; Pag
-4 CONC e: 1; Enumeration District: 0030; FHL microfilm: 1241072
+4 CONC e: 1; Enumeration District: 0030; FHL microfilm: 1241072; Pa
+4 CONC trick Ginney
 3 OBJE @M227@
 3 _APID 1,7602::66532999
 2 SOUR @zed2XLyiTSazMVGgwZLi@
@@ -8546,7 +8544,7 @@
 3 _APID 1,6224::40880893
 2 SOUR @S152@
 3 PAGE New York State Department of Health; Albany, NY, USA; New Yo
-4 CONC rk State Marriage Index
+4 CONC rk State Marriage Index; Patrick Ginnan
 3 OBJE @M240@
 3 _APID 1,61632::1129197
 2 SOUR @S94@
@@ -8571,7 +8569,8 @@
 4 LONG W75.5997
 2 SOUR @tPClZMdVRNCZDOmnmsWz@
 3 PAGE Year: 1900; Census Place: Smithfield, Madison, New York; Pag
-4 CONC e: 1; Enumeration District: 0030; FHL microfilm: 1241072
+4 CONC e: 1; Enumeration District: 0030; FHL microfilm: 1241072; Pa
+4 CONC trick Ginney
 3 OBJE @M227@
 3 _APID 1,7602::66532999
 2 SOUR @zed2XLyiTSazMVGgwZLi@
@@ -8610,7 +8609,8 @@
 4 LONG W75.6768
 2 SOUR @tPClZMdVRNCZDOmnmsWz@
 3 PAGE Year: 1900; Census Place: Smithfield, Madison, New York; Pag
-4 CONC e: 1; Enumeration District: 0030; FHL microfilm: 1241072
+4 CONC e: 1; Enumeration District: 0030; FHL microfilm: 1241072; Pa
+4 CONC trick Ginney
 3 OBJE @M227@
 3 _APID 1,7602::66532999
 2 NOTE Marital Status: Married; Relation to Head: Head
@@ -8930,7 +8930,7 @@
 3 _APID 1,8054::8994449
 2 SOUR @S142@
 3 PAGE Source number: 982.000; Source type: Electronic Database; Nu
-4 CONC mber of Pages: 1; Submitter Code: HDG
+4 CONC mber of Pages: 1; Submitter Code: HDG; Samuel Goodwin
 3 _APID 1,7836::480386
 2 SOUR @S124@
 3 PAGE Volume: 339; SAR Membership Number: 67676
@@ -8951,7 +8951,7 @@
 3 _APID 1,8054::8994449
 2 SOUR @S142@
 3 PAGE Source number: 982.000; Source type: Electronic Database; Nu
-4 CONC mber of Pages: 1; Submitter Code: HDG
+4 CONC mber of Pages: 1; Submitter Code: HDG; Samuel Goodwin
 3 _APID 1,7836::480386
 2 SOUR @S124@
 3 PAGE Volume: 339; SAR Membership Number: 67676
@@ -9091,7 +9091,7 @@
 3 _APID 1,61668::1026602
 2 SOUR @S152@
 3 PAGE New York State Department of Health; Albany, NY, USA; New Yo
-4 CONC rk State Marriage Index
+4 CONC rk State Marriage Index; Emmett A House
 3 OBJE @M224@
 3 _APID 1,61632::1791205
 2 SOUR @S94@
@@ -9769,7 +9769,10 @@
 3 _APID 1,2704::20701912
 1 RESI
 2 DATE 1892
-2 PLAC Cazenovia, Madison, New York
+2 PLAC Cazenovia, Madison, New York, USA
+3 MAP
+4 LATI N42.9301
+4 LONG W75.8527
 2 SOUR @Da4QmjDCTO26NSEbXkWM@
 3 OBJE @M190@
 3 _APID 1,3212::3117833
@@ -9804,7 +9807,10 @@
 3 CONC ife
 1 RESI
 2 DATE 01 JUN 1915
-2 PLAC Cazenovia, Madison, New York, United States
+2 PLAC Cazenovia, Madison, New York, USA
+3 MAP
+4 LATI N42.9301
+4 LONG W75.8527
 2 SOUR @W7LxqysiTQKb0jxIb32w@
 3 PAGE New York State Archives; Albany, New York; State Populatio
 4 CONC n Census Schedules, 1915; Election District: 02; Assembly Di
@@ -9826,7 +9832,10 @@
 3 CONC ife
 1 RESI
 2 DATE 01 JUN 1925
-2 PLAC Cazenovia, Madison, New York, United States
+2 PLAC Cazenovia, Madison, New York, USA
+3 MAP
+4 LATI N42.9301
+4 LONG W75.8527
 2 SOUR @CBm0n9eyQ2KMLGJARjUj@
 3 PAGE New York State Archives; Albany, New York; State Populatio
 4 CONC n Census Schedules, 1925; Election District: 02; Assembly Di
@@ -9836,7 +9845,10 @@
 2 NOTE Age: 63Relation to Head of House: Wife
 1 RESI
 2 DATE 1930
-2 PLAC Cazenovia, Madison, New York
+2 PLAC Cazenovia, Madison, New York, USA
+3 MAP
+4 LATI N42.9301
+4 LONG W75.8527
 2 SOUR @Z6rqhHe6TT6AOpzl0BeY@
 3 PAGE Year: 1930; Census Place: Cazenovia, Madison, New York; Roll
 4 CONC : 1445; Page: 4B; Enumeration District: 4; Image: 849.0; FH
@@ -9853,11 +9865,10 @@
 4 CONC : M432_364; Page: 285B; Image: 220
 3 OBJE @M174@
 3 _APID 1,8054::3261071
-2 SOUR @9SIEhYikRnW7x0y08og9@
+2 SOUR @S108@
 3 PAGE Year: 1860; Census Place: Webster, Washtenaw, Michigan; Roll
-4 CONC : M653_563; Page: 36; Image: 36; Family History Library Film
-4 CONC : 803563
-3 OBJE @M173@
+4 CONC : M653_563; Page: 36; Family History Library Film: 803563
+3 OBJE @M249@
 3 _APID 1,7667::45301254
 1 SEX M
 1 FAMS @F42@
@@ -9872,11 +9883,10 @@
 4 CONC : M432_364; Page: 285B; Image: 220
 3 OBJE @M174@
 3 _APID 1,8054::3261071
-2 SOUR @9SIEhYikRnW7x0y08og9@
+2 SOUR @S108@
 3 PAGE Year: 1860; Census Place: Webster, Washtenaw, Michigan; Roll
-4 CONC : M653_563; Page: 36; Image: 36; Family History Library Film
-4 CONC : 803563
-3 OBJE @M173@
+4 CONC : M653_563; Page: 36; Family History Library Film: 803563
+3 OBJE @M249@
 3 _APID 1,7667::45301254
 1 RESI
 2 DATE 1850
@@ -9896,23 +9906,31 @@
 3 MAP
 4 LATI N42.3953
 4 LONG W83.8047
-2 SOUR @9SIEhYikRnW7x0y08og9@
+2 SOUR @S108@
 3 PAGE Year: 1860; Census Place: Webster, Washtenaw, Michigan; Roll
-4 CONC : M653_563; Page: 36; Image: 36; Family History Library Film
-4 CONC : 803563
-3 OBJE @M173@
+4 CONC : M653_563; Page: 36; Family History Library Film: 803563
+3 OBJE @M249@
 3 _APID 1,7667::45301254
-2 NOTE Age: 58
+2 NOTE Age: 58; Residence Post Office: Webster
 0 @I102@ INDI
 1 REFN 179ae13a-ddb7-440b-8e3d-cc7f199fc010
 1 NAME Abigail /King/
 2 SOUR @S112@
+3 PAGE Abigail King
+3 _APID 1,7853::423836
 2 SOUR @S112@
+3 PAGE Mrs. Abigail Rogers
+3 _APID 1,7853::620832
 2 SOUR @S111@
+3 PAGE original record, 1789, Abigail Rogers, marriage
 3 OBJE @M165@
 3 _APID 1,2495::171073721
 2 SOUR @S129@
+3 PAGE Abigail King
+3 _APID 1,4079::70454
 2 SOUR @S129@
+3 PAGE Abigail Rogers
+3 _APID 1,4079::96362
 1 SEX F
 1 FAMS @F38@
 1 FAMS @F51@
@@ -9933,7 +9951,7 @@
 1 NAME Ellsworth Jerome /Lofstrom/
 2 SOUR @S152@
 3 PAGE New York State Department of Health; Albany, NY, USA; New Yo
-4 CONC rk State Marriage Index
+4 CONC rk State Marriage Index; Ellsworth J. Lofstrom
 3 OBJE @M235@
 3 _APID 1,61632::4190691
 1 SEX M
@@ -10274,51 +10292,57 @@
 0 @I77@ INDI
 1 REFN f0e4608f-67d8-4639-a390-bde08f71219f
 1 NAME Minerva //
+2 SOUR @S108@
+3 PAGE Year: 1860; Census Place: Georgetown, Madison, New York; Rol
+4 CONC l: M653_780; Page: 323; Family History Library Film: 803780
+3 OBJE @M247@
+3 _APID 1,7667::46714261
 2 SOUR @S106@
 3 PAGE Year: 1870; Census Place: Georgetown, Madison, New York; Rol
 4 CONC l: M593_967; Page: 194B; Image: 393; Family History Librar
 4 CONC y Film: 552466
 3 OBJE @M155@
 3 _APID 1,7163::28981441
-2 SOUR @9SIEhYikRnW7x0y08og9@
-3 PAGE Year: 1860; Census Place: Georgetown, Madison, New York; Rol
-4 CONC l: M653_780; Page: 323; Image: 328; Family History Library F
-4 CONC ilm: 803780
-3 OBJE @M154@
-3 _APID 1,7667::46714261
 2 SOUR @S137@
 1 SEX F
 1 FAMS @F34@
 1 NOTE _XY 358 300
 1 BIRT
 2 DATE ABT 1824
-2 PLAC NY, USA
+2 PLAC New York, USA
+3 MAP
+4 LATI N42.7531
+4 LONG W74.2224
+2 SOUR @S108@
+3 PAGE Year: 1860; Census Place: Georgetown, Madison, New York; Rol
+4 CONC l: M653_780; Page: 323; Family History Library Film: 803780
+3 OBJE @M247@
+3 _APID 1,7667::46714261
 2 SOUR @S106@
 3 PAGE Year: 1870; Census Place: Georgetown, Madison, New York; Rol
 4 CONC l: M593_967; Page: 194B; Image: 393; Family History Librar
 4 CONC y Film: 552466
 3 OBJE @M155@
 3 _APID 1,7163::28981441
-2 SOUR @9SIEhYikRnW7x0y08og9@
-3 PAGE Year: 1860; Census Place: Georgetown, Madison, New York; Rol
-4 CONC l: M653_780; Page: 323; Image: 328; Family History Library F
-4 CONC ilm: 803780
-3 OBJE @M154@
-3 _APID 1,7667::46714261
 2 SOUR @S137@
 1 RESI
 2 DATE 1860
-2 PLAC Georgetown, Madison, New York, United States
-2 SOUR @9SIEhYikRnW7x0y08og9@
+2 PLAC Georgetown, Madison, New York, USA
+3 MAP
+4 LATI N42.7683
+4 LONG W75.7369
+2 SOUR @S108@
 3 PAGE Year: 1860; Census Place: Georgetown, Madison, New York; Rol
-4 CONC l: M653_780; Page: 323; Image: 328; Family History Library F
-4 CONC ilm: 803780
-3 OBJE @M154@
+4 CONC l: M653_780; Page: 323; Family History Library Film: 803780
+3 OBJE @M247@
 3 _APID 1,7667::46714261
-2 NOTE Age: 36
+2 NOTE Age: 36; Residence Post Office: Georgetown
 1 RESI
 2 DATE 1870
-2 PLAC Georgetown, Madison, New York, United States
+2 PLAC Georgetown, Madison, New York, USA
+3 MAP
+4 LATI N42.7683
+4 LONG W75.7369
 2 SOUR @S106@
 3 PAGE Year: 1870; Census Place: Georgetown, Madison, New York; Rol
 4 CONC l: M593_967; Page: 194B; Image: 393; Family History Librar
@@ -10327,7 +10351,10 @@
 3 _APID 1,7163::28981441
 2 NOTE Age: 46
 1 RESI
-2 PLAC Cazenovia, Madison, New York
+2 PLAC Cazenovia, Madison, New York, USA
+3 MAP
+4 LATI N42.9301
+4 LONG W75.8527
 2 SOUR @S106@
 3 PAGE Year: 1870; Census Place: Georgetown, Madison, New York; Rol
 4 CONC l: M593_967; Page: 194B; Image: 393; Family History Librar
@@ -10368,7 +10395,10 @@
 3 _APID 1,7884::11995693
 1 RESI
 2 DATE 1880
-2 PLAC North Star, Gratiot, Michigan, United States
+2 PLAC North Star, Gratiot, Michigan, USA
+3 MAP
+4 LATI N43.2483
+4 LONG W84.5433
 2 SOUR @9SIEhYikRnW7x0y08og9@
 3 PAGE Year: 1880; Census Place: North Star, Gratiot, Michigan; Rol
 4 CONC l: 580; Family History Film: 1254580; Page: 577A; Enumeratio
@@ -10580,6 +10610,7 @@
 1 REFN 2a4be3a7-2f90-4cdf-a225-6caaf838eea5
 1 NAME Abigail /Reed/
 2 SOUR @S112@
+3 PAGE Nabby Read
 3 _APID 1,7853::597390
 2 SOUR @yyAkQxoDR02oezmc7VEf@
 1 SEX F
@@ -10602,8 +10633,10 @@
 1 REFN d80b49dd-1c5e-41b5-b220-e98ee26ab476
 1 NAME Gershom /Rogers/
 2 SOUR @S112@
+3 PAGE Gershom Rogers
 3 _APID 1,7853::621562
 2 SOUR @S111@
+3 PAGE typeset transcript, 1763, Gershom Rogers, birth
 3 OBJE @M197@
 3 _APID 1,2495::81475667
 2 SOUR @S143@
@@ -10615,7 +10648,6 @@
 3 _APID 1,3718::9145
 1 SEX M
 1 FAMS @F51@
-1 FAMS @F52@
 1 BIRT
 2 DATE 06 DEC 1763
 2 PLAC Ashfield, Franklin, Massachusetts, USA
@@ -10623,6 +10655,7 @@
 4 LATI N42.5265
 4 LONG W72.7884
 2 SOUR @S111@
+3 PAGE typeset transcript, 1763, Gershom Rogers, birth
 3 OBJE @M197@
 3 _APID 1,2495::81475667
 2 SOUR @S143@
@@ -10841,18 +10874,14 @@
 0 @I103@ INDI
 1 REFN c1b8df20-8964-4534-b228-68729f2e647c
 1 NAME Sarah //
-2 SOUR Details: Find A Grave Entry for Asa Cranson (1791-1863)  Cit
-3 CONC ation Text: Cranson Sarah. Wife. 1796-Jan. 12, 1859 aged 7
-3 CONC 3 [sic; should be either 1786 or 63 years old].
-3 _LINK http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&GScid=22413
-4 CONC 33&GRid=23511403&
-2 SOUR @L8nVWbaPS16IxbJgxhiQ@
-3 OBJE @M179@
 2 SOUR @L8nVWbaPS16IxbJgxhiQ@
 3 PAGE Year: 1850; Census Place: Lenox, Madison, New York; Roll: M4
 4 CONC 32_526; Page: 171B; Image: 347
 3 OBJE @M206@
 3 _APID 1,8054::19861835
+2 SOUR @bpt8c0uQRfCTW2vNfJ3k@
+3 OBJE @M243@
+3 _APID 1,7181::1655642593
 2 SOUR @S102@
 3 _APID 1,60525::81303145
 2 SOUR @rp9Z8lHgQkCUwI6kJGpm@
@@ -10865,18 +10894,14 @@
 3 MAP
 4 LATI N41.5083
 4 LONG W71.2417
-2 SOUR Details: Find A Grave Entry for Asa Cranson (1791-1863)  Cit
-3 CONC ation Text: Cranson Sarah. Wife. 1796-Jan. 12, 1859 aged 7
-3 CONC 3 [sic; should be either 1786 or 63 years old].
-3 _LINK http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&GScid=22413
-4 CONC 33&GRid=23511403&
-2 SOUR @L8nVWbaPS16IxbJgxhiQ@
-3 OBJE @M179@
 2 SOUR @L8nVWbaPS16IxbJgxhiQ@
 3 PAGE Year: 1850; Census Place: Lenox, Madison, New York; Roll: M4
 4 CONC 32_526; Page: 171B; Image: 347
 3 OBJE @M206@
 3 _APID 1,8054::19861835
+2 SOUR @bpt8c0uQRfCTW2vNfJ3k@
+3 OBJE @M243@
+3 _APID 1,7181::1655642593
 1 RESI
 2 DATE 1850
 2 PLAC Lenox, Madison, New York, USA
@@ -10895,17 +10920,12 @@
 3 MAP
 4 LATI N43.0583
 4 LONG W75.7047
-2 SOUR @L8nVWbaPS16IxbJgxhiQ@
-3 OBJE @M179@
+2 SOUR @bpt8c0uQRfCTW2vNfJ3k@
+3 OBJE @M243@
 3 _APID 1,7181::1655642593
 2 NOTE Age: 69; Relation to Head of House: Head
 1 DEAT
 2 DATE 12 JAN 1859
-2 SOUR Details: Find A Grave Entry for Asa Cranson (1791-1863)  Cit
-3 CONC ation Text: Cranson Sarah. Wife. 1796-Jan. 12, 1859 aged 7
-3 CONC 3 [sic; should be either 1786 or 63 years old].
-3 _LINK http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&GScid=22413
-4 CONC 33&GRid=23511403&
 2 SOUR @S102@
 3 _APID 1,60525::81303145
 2 SOUR @rp9Z8lHgQkCUwI6kJGpm@
@@ -10933,7 +10953,7 @@
 2 SOUR @tPClZMdVRNCZDOmnmsWz@
 3 PAGE Year: 1900; Census Place: Eaton, Madison, New York; Roll: 10
 4 CONC 71; Page: 6A; Enumeration District: 0009; FHL microfilm: 124
-4 CONC 1071
+4 CONC 1071; Ada S Colvin
 3 OBJE @bCad3siyRdyjDMdhaaF4@
 3 _APID 1,7602::55834492
 2 SOUR @zed2XLyiTSazMVGgwZLi@
@@ -11012,7 +11032,7 @@
 2 SOUR @tPClZMdVRNCZDOmnmsWz@
 3 PAGE Year: 1900; Census Place: Eaton, Madison, New York; Roll: 10
 4 CONC 71; Page: 6A; Enumeration District: 0009; FHL microfilm: 124
-4 CONC 1071
+4 CONC 1071; Ada S Colvin
 3 OBJE @bCad3siyRdyjDMdhaaF4@
 3 _APID 1,7602::55834492
 2 SOUR @zed2XLyiTSazMVGgwZLi@
@@ -11127,7 +11147,7 @@
 2 SOUR @tPClZMdVRNCZDOmnmsWz@
 3 PAGE Year: 1900; Census Place: Eaton, Madison, New York; Roll: 10
 4 CONC 71; Page: 6A; Enumeration District: 0009; FHL microfilm: 124
-4 CONC 1071
+4 CONC 1071; Ada S Colvin
 3 OBJE @bCad3siyRdyjDMdhaaF4@
 3 _APID 1,7602::55834492
 2 NOTE Age: 36; Marital Status: Married; Relation to Head of House
@@ -11235,7 +11255,8 @@
 3 _APID 1,6742::2481777
 2 SOUR @tPClZMdVRNCZDOmnmsWz@
 3 PAGE Year: 1900; Census Place: Smithfield, Madison, New York; Pag
-4 CONC e: 1; Enumeration District: 0030; FHL microfilm: 1241072
+4 CONC e: 1; Enumeration District: 0030; FHL microfilm: 1241072; Ma
+4 CONC ry E Ginney
 3 OBJE @M227@
 3 _APID 1,7602::66533000
 2 SOUR @zed2XLyiTSazMVGgwZLi@
@@ -11256,7 +11277,7 @@
 3 _APID 1,6224::40880919
 2 SOUR @S152@
 3 PAGE New York State Department of Health; Albany, NY, USA; New Yo
-4 CONC rk State Marriage Index
+4 CONC rk State Marriage Index; Mary E Seeley
 3 OBJE @M239@
 3 _APID 1,61632::1154174
 2 SOUR @Da4QmjDCTO26NSEbXkWM@
@@ -11291,7 +11312,8 @@
 3 _APID 1,6742::2481777
 2 SOUR @tPClZMdVRNCZDOmnmsWz@
 3 PAGE Year: 1900; Census Place: Smithfield, Madison, New York; Pag
-4 CONC e: 1; Enumeration District: 0030; FHL microfilm: 1241072
+4 CONC e: 1; Enumeration District: 0030; FHL microfilm: 1241072; Ma
+4 CONC ry E Ginney
 3 OBJE @M227@
 3 _APID 1,7602::66533000
 2 SOUR @zed2XLyiTSazMVGgwZLi@
@@ -11354,7 +11376,8 @@
 4 LONG W75.6768
 2 SOUR @tPClZMdVRNCZDOmnmsWz@
 3 PAGE Year: 1900; Census Place: Smithfield, Madison, New York; Pag
-4 CONC e: 1; Enumeration District: 0030; FHL microfilm: 1241072
+4 CONC e: 1; Enumeration District: 0030; FHL microfilm: 1241072; Ma
+4 CONC ry E Ginney
 3 OBJE @M227@
 3 _APID 1,7602::66533000
 2 NOTE Marital Status: Married; Relation to Head: Wife
@@ -11471,7 +11494,10 @@
 3 _APID 1,6742::2473272
 1 RESI
 2 DATE 1870
-2 PLAC Cazenovia, Madison, New York, United States
+2 PLAC Cazenovia, Madison, New York, USA
+3 MAP
+4 LATI N42.9301
+4 LONG W75.8527
 2 SOUR @S106@
 3 PAGE Year: 1870; Census Place: Cazenovia, Madison, New York; Roll
 4 CONC : M593_967; Page: 86B; Image: 176; Family History Library Fi
@@ -11481,7 +11507,10 @@
 2 NOTE Age: 16
 1 RESI
 2 DATE 1880
-2 PLAC Cazenovia, Madison, New York, United States
+2 PLAC Cazenovia, Madison, New York, USA
+3 MAP
+4 LATI N42.9301
+4 LONG W75.8527
 2 SOUR @9SIEhYikRnW7x0y08og9@
 3 PAGE Year: 1880; Census Place: Cazenovia, Madison, New York; Roll
 4 CONC : 859; Family History Film: 1254859; Page: 62A; Enumeratio
@@ -11505,7 +11534,7 @@
 3 _APID 1,2442::8268756
 2 SOUR @S152@
 3 PAGE New York State Department of Health; Albany, NY, USA; New Yo
-4 CONC rk State Marriage Index
+4 CONC rk State Marriage Index; Helen M Turner
 3 OBJE @M236@
 3 _APID 1,61632::1842917
 2 SOUR @S102@
@@ -11604,25 +11633,27 @@
 1 REFN b0a072bb-996a-4626-bf35-ea62452e657d
 1 NAME Olive B. /Ward/
 2 SOUR @L8nVWbaPS16IxbJgxhiQ@
-3 OBJE @M179@
-2 SOUR @L8nVWbaPS16IxbJgxhiQ@
 3 PAGE Year: 1850; Census Place: Lenox, Madison, New York; Roll: M4
 4 CONC 32_526; Page: 169A; Image: 342
 3 OBJE @M176@
 3 _APID 1,8054::19788606
-2 SOUR @9SIEhYikRnW7x0y08og9@
+2 SOUR @S108@
 3 PAGE Year: 1860; Census Place: Lenox, Madison, New York; Roll: M6
-4 CONC 53_781; Page: 743; Image: 244; Family History Library Film
-4 CONC : 803781
-3 OBJE @M177@
+4 CONC 53_781; Page: 743; Family History Library Film: 803781
+3 OBJE @M248@
 3 _APID 1,7667::49432549
 2 SOUR @9SIEhYikRnW7x0y08og9@
 3 PAGE Year: 1880; Census Place: Lenox, Madison, New York
 3 OBJE @M182@
 3 _APID 1,6742::3308560
+2 SOUR @bpt8c0uQRfCTW2vNfJ3k@
+3 OBJE @M242@
+3 _APID 1,7181::1655642900
 2 SOUR @yyAkQxoDR02oezmc7VEf@
 3 OBJE @M183@
 3 _APID 1,7218::2456867
+2 SOUR @S102@
+3 _APID 1,60525::81303086
 2 SOUR @S124@
 3 PAGE SAR Membership Number: 78699
 3 OBJE @M175@
@@ -11630,31 +11661,33 @@
 1 SEX F
 1 FAMS @F43@
 1 BIRT
-2 DATE 1818
+2 DATE 27 JAN 1818
 2 PLAC Massachusetts, USA
 3 MAP
 4 LATI N42.025
 4 LONG W70.275
 2 SOUR @L8nVWbaPS16IxbJgxhiQ@
-3 OBJE @M179@
-2 SOUR @L8nVWbaPS16IxbJgxhiQ@
 3 PAGE Year: 1850; Census Place: Lenox, Madison, New York; Roll: M4
 4 CONC 32_526; Page: 169A; Image: 342
 3 OBJE @M176@
 3 _APID 1,8054::19788606
-2 SOUR @9SIEhYikRnW7x0y08og9@
+2 SOUR @S108@
 3 PAGE Year: 1860; Census Place: Lenox, Madison, New York; Roll: M6
-4 CONC 53_781; Page: 743; Image: 244; Family History Library Film
-4 CONC : 803781
-3 OBJE @M177@
+4 CONC 53_781; Page: 743; Family History Library Film: 803781
+3 OBJE @M248@
 3 _APID 1,7667::49432549
 2 SOUR @9SIEhYikRnW7x0y08og9@
 3 PAGE Year: 1880; Census Place: Lenox, Madison, New York
 3 OBJE @M182@
 3 _APID 1,6742::3308560
+2 SOUR @bpt8c0uQRfCTW2vNfJ3k@
+3 OBJE @M242@
+3 _APID 1,7181::1655642900
 2 SOUR @yyAkQxoDR02oezmc7VEf@
 3 OBJE @M183@
 3 _APID 1,7218::2456867
+2 SOUR @S102@
+3 _APID 1,60525::81303086
 2 SOUR @S124@
 3 PAGE SAR Membership Number: 78699
 3 OBJE @M175@
@@ -11677,8 +11710,8 @@
 3 MAP
 4 LATI N43.0583
 4 LONG W75.7047
-2 SOUR @L8nVWbaPS16IxbJgxhiQ@
-3 OBJE @M179@
+2 SOUR @bpt8c0uQRfCTW2vNfJ3k@
+3 OBJE @M242@
 3 _APID 1,7181::1655642900
 2 NOTE Relation to Head of House: Wife
 1 RESI
@@ -11687,13 +11720,12 @@
 3 MAP
 4 LATI N43.0583
 4 LONG W75.7047
-2 SOUR @9SIEhYikRnW7x0y08og9@
+2 SOUR @S108@
 3 PAGE Year: 1860; Census Place: Lenox, Madison, New York; Roll: M6
-4 CONC 53_781; Page: 743; Image: 244; Family History Library Film
-4 CONC : 803781
-3 OBJE @M177@
+4 CONC 53_781; Page: 743; Family History Library Film: 803781
+3 OBJE @M248@
 3 _APID 1,7667::49432549
-2 NOTE Age: 42
+2 NOTE Age: 42; Residence Post Office: Wampsville
 1 RESI
 2 DATE 1865
 2 PLAC Lenox, Madison, New York, USA
@@ -11717,21 +11749,30 @@
 2 NOTE Age: 63; Marital Status: Widowed; Relation to Head of House
 3 CONC : Self
 1 DEAT
-2 DATE 1893
+2 DATE 13 OCT 1893
+2 SOUR @S102@
+3 _APID 1,60525::81303086
 2 SOUR @S124@
 3 PAGE SAR Membership Number: 78699
 3 OBJE @M175@
 3 _APID 1,2204::815872
+1 BURI
+2 PLAC Cranson Cemetery, Clockville, Madison, New York, USA
+2 SOUR @S102@
+3 _APID 1,60525::81303086
 0 @I89@ INDI
 1 REFN 5c0e2c06-4cd8-41da-9356-46dc7061c663
 1 NAME Abigail S. /Welsh/
-2 SOUR @L8nVWbaPS16IxbJgxhiQ@
-3 OBJE @hBbUEb24TqiH3S5JaCqL@
 2 SOUR @L8nVWbaPS16IxbJgxhiQ@
 3 PAGE Year: 1850; Census Place: Cazenovia, Madison, New York; Roll
 4 CONC : M432_526; Page: 110B; Image: 227
 3 OBJE @yISHBCCNThuVORgyrX3O@
 3 _APID 1,8054::19794834
+2 SOUR @S108@
+3 PAGE Year: 1860; Census Place: Cazenovia, Madison, New York; Roll
+4 CONC : M653_780; Page: 78; Family History Library Film: 803780
+3 OBJE @M246@
+3 _APID 1,7667::46725742
 2 SOUR @S106@
 3 PAGE Year: 1870; Census Place: Georgetown, Madison, New York; Rol
 4 CONC l: M593_967; Page: 194A; Image: 392; Family History Librar
@@ -11739,17 +11780,14 @@
 3 OBJE @E5x9RPNhRnyadhNdprh3@
 3 _APID 1,7163::28981480
 2 SOUR @9SIEhYikRnW7x0y08og9@
-3 PAGE Year: 1860; Census Place: Cazenovia, Madison, New York; Roll
-4 CONC : M653_780; Page: 78; Image: 83; Family History Library Film
-4 CONC : 803780
-3 OBJE @M200@
-3 _APID 1,7667::46725742
-2 SOUR @9SIEhYikRnW7x0y08og9@
 3 PAGE Year: 1880; Census Place: Georgetown, Madison, New York; Rol
 4 CONC l: 860; Family History Film: 1254860; Page: 149C; Enumeratio
 4 CONC n District: 057; Image: 0147
 3 OBJE @QduZTtH4TNGG3b8GpqGf@
 3 _APID 1,6742::38724589
+2 SOUR @bpt8c0uQRfCTW2vNfJ3k@
+3 OBJE @M241@
+3 _APID 1,7181::1655684825
 2 SOUR @yyAkQxoDR02oezmc7VEf@
 3 OBJE @WGZxfFdOQxGGTRbs2LyY@
 3 _APID 1,7218::1760377
@@ -11766,18 +11804,15 @@
 4 LATI N42.9301
 4 LONG W75.8527
 2 SOUR @L8nVWbaPS16IxbJgxhiQ@
-3 OBJE @hBbUEb24TqiH3S5JaCqL@
-2 SOUR @L8nVWbaPS16IxbJgxhiQ@
 3 PAGE Year: 1850; Census Place: Cazenovia, Madison, New York; Roll
 4 CONC : M432_526; Page: 110B; Image: 227
 3 OBJE @yISHBCCNThuVORgyrX3O@
 3 _APID 1,8054::19794834
 2 SOUR @S108@
 3 PAGE Year: 1860; Census Place: Cazenovia, Madison, New York; Roll
-4 CONC : M653_780; Page: 78; Image: 83; Family History Library Film
-4 CONC : 803780
-3 OBJE @CfhvFGtMQ0eswS1iYnaT@
-3 _APID 1,7667::46725741
+4 CONC : M653_780; Page: 78; Family History Library Film: 803780
+3 OBJE @M246@
+3 _APID 1,7667::46725742
 2 SOUR @S106@
 3 PAGE Year: 1870; Census Place: Georgetown, Madison, New York; Rol
 4 CONC l: M593_967; Page: 194A; Image: 392; Family History Librar
@@ -11785,17 +11820,14 @@
 3 OBJE @E5x9RPNhRnyadhNdprh3@
 3 _APID 1,7163::28981480
 2 SOUR @9SIEhYikRnW7x0y08og9@
-3 PAGE Year: 1860; Census Place: Cazenovia, Madison, New York; Roll
-4 CONC : M653_780; Page: 78; Image: 83; Family History Library Film
-4 CONC : 803780
-3 OBJE @M200@
-3 _APID 1,7667::46725742
-2 SOUR @9SIEhYikRnW7x0y08og9@
 3 PAGE Year: 1880; Census Place: Georgetown, Madison, New York; Rol
 4 CONC l: 860; Family History Film: 1254860; Page: 149C; Enumeratio
 4 CONC n District: 057; Image: 0147
 3 OBJE @QduZTtH4TNGG3b8GpqGf@
 3 _APID 1,6742::38724589
+2 SOUR @bpt8c0uQRfCTW2vNfJ3k@
+3 OBJE @M241@
+3 _APID 1,7181::1655684825
 2 SOUR @yyAkQxoDR02oezmc7VEf@
 3 OBJE @WGZxfFdOQxGGTRbs2LyY@
 3 _APID 1,7218::1760377
@@ -11805,7 +11837,10 @@
 2 SOUR @S126@
 1 RESI
 2 DATE 1850
-2 PLAC Cazenovia, Madison, New York
+2 PLAC Cazenovia, Madison, New York, USA
+3 MAP
+4 LATI N42.9301
+4 LONG W75.8527
 2 SOUR @L8nVWbaPS16IxbJgxhiQ@
 3 PAGE Year: 1850; Census Place: Cazenovia, Madison, New York; Roll
 4 CONC : M432_526; Page: 110B; Image: 227
@@ -11818,18 +11853,20 @@
 3 MAP
 4 LATI N42.9301
 4 LONG W75.8527
-2 SOUR @L8nVWbaPS16IxbJgxhiQ@
-3 OBJE @hBbUEb24TqiH3S5JaCqL@
+2 SOUR @bpt8c0uQRfCTW2vNfJ3k@
+3 OBJE @M241@
 3 _APID 1,7181::1655684825
 2 NOTE Age: 43; Relation to Head of House: Wife
 1 RESI
 2 DATE 1860
-2 PLAC Cazenovia, Madison, New York, United States
-2 SOUR @9SIEhYikRnW7x0y08og9@
+2 PLAC Cazenovia, Madison, New York, USA
+3 MAP
+4 LATI N42.9301
+4 LONG W75.8527
+2 SOUR @S108@
 3 PAGE Year: 1860; Census Place: Cazenovia, Madison, New York; Roll
-4 CONC : M653_780; Page: 78; Image: 83; Family History Library Film
-4 CONC : 803780
-3 OBJE @M200@
+4 CONC : M653_780; Page: 78; Family History Library Film: 803780
+3 OBJE @M246@
 3 _APID 1,7667::46725742
 2 NOTE Age: 48
 1 RESI
@@ -11844,7 +11881,10 @@
 2 NOTE Relation to Head of House: Wife
 1 RESI
 2 DATE 1870
-2 PLAC Cazenovia, Georgetown, Madison, New York, United States
+2 PLAC Cazenovia, Madison, New York, USA
+3 MAP
+4 LATI N42.9301
+4 LONG W75.8527
 2 SOUR @S106@
 3 PAGE Year: 1870; Census Place: Georgetown, Madison, New York; Rol
 4 CONC l: M593_967; Page: 194A; Image: 392; Family History Librar
@@ -11864,7 +11904,10 @@
 2 NOTE Relation to Head of House: Wife
 1 RESI
 2 DATE 1880
-2 PLAC Georgetown, Madison, New York, United States
+2 PLAC Georgetown, Madison, New York, USA
+3 MAP
+4 LATI N42.7683
+4 LONG W75.7369
 2 SOUR @9SIEhYikRnW7x0y08og9@
 3 PAGE Year: 1880; Census Place: Georgetown, Madison, New York; Rol
 4 CONC l: 860; Family History Film: 1254860; Page: 149C; Enumeratio
@@ -12022,7 +12065,7 @@
 2 SOUR @tPClZMdVRNCZDOmnmsWz@
 3 PAGE Year: 1900; Census Place: Georgetown, Madison, New York; Rol
 4 CONC l: 1071; Page: 7A; Enumeration District: 0011; FHL microfilm
-4 CONC : 1241071
+4 CONC : 1241071; Chapin Wood
 3 OBJE @M203@
 3 _APID 1,7602::55837067
 2 SOUR @Da4QmjDCTO26NSEbXkWM@
@@ -12039,7 +12082,7 @@
 2 SOUR @tPClZMdVRNCZDOmnmsWz@
 3 PAGE Year: 1900; Census Place: Georgetown, Madison, New York; Rol
 4 CONC l: 1071; Page: 7A; Enumeration District: 0011; FHL microfilm
-4 CONC : 1241071
+4 CONC : 1241071; Chapin Wood
 3 OBJE @M203@
 3 _APID 1,7602::55837067
 2 SOUR @Da4QmjDCTO26NSEbXkWM@
@@ -12064,7 +12107,7 @@
 2 SOUR @tPClZMdVRNCZDOmnmsWz@
 3 PAGE Year: 1900; Census Place: Georgetown, Madison, New York; Rol
 4 CONC l: 1071; Page: 7A; Enumeration District: 0011; FHL microfilm
-4 CONC : 1241071
+4 CONC : 1241071; Chapin Wood
 3 OBJE @M203@
 3 _APID 1,7602::55837067
 2 NOTE Age: 59; Marital Status: Married; Relation to Head of House
@@ -12240,15 +12283,6 @@
 2 PLAC Mexico
 0 @4PRCTLPfToKnR4QGxheV@ FAM
 1 REFN 8a9699b4-3773-4591-bae2-14174d712336
-0 @F52@ FAM
-1 HUSB @I84@
-1 MARR
-2 DATE 14 JUN 1784
-2 PLAC Ashfield, Franklin, Massachusetts, USA
-3 MAP
-4 LATI N42.5265
-4 LONG W72.7884
-2 SOUR @S129@
 0 @F48@ FAM
 1 HUSB @I72@
 1 WIFE @I150@
@@ -12372,13 +12406,15 @@
 2 SOUR @tPClZMdVRNCZDOmnmsWz@
 3 PAGE Year: 1900; Census Place: Eaton, Madison, New York; Roll: 10
 4 CONC 71; Page: 6A; Enumeration District: 0009; FHL microfilm: 124
-4 CONC 1071
+4 CONC 1071; Ada S Colvin
 3 OBJE @bCad3siyRdyjDMdhaaF4@
+3 _APID 1,7602::55834492
 2 SOUR @tPClZMdVRNCZDOmnmsWz@
 3 PAGE Year: 1900; Census Place: Eaton, Madison, New York; Roll: 10
 4 CONC 71; Page: 6A; Enumeration District: 0009; FHL microfilm: 124
-4 CONC 1071
+4 CONC 1071; John C Colvin
 3 OBJE @bCad3siyRdyjDMdhaaF4@
+3 _APID 1,7602::55834491
 0 @7nbSUKIjSEKxG9We93eo@ FAM
 1 REFN 19432323-132d-4423-a76d-04b29a478159
 1 HUSB @FMvsQ0MPQ5SEpcurt17S@
@@ -12437,13 +12473,23 @@
 4 LATI N42.5265
 4 LONG W72.7884
 2 SOUR @S112@
+3 PAGE Abner Cranson
+3 _APID 1,7853::179457
 2 SOUR @S112@
+3 PAGE Mrs. Abigail Rogers
+3 _APID 1,7853::620832
 2 SOUR @S111@
+3 PAGE original record, 1789, Abigail Rogers, marriage
 3 OBJE @M165@
+3 _APID 1,2495::171073721
 2 SOUR @S111@
+3 PAGE original record, 1789, Abner Cranson, marriage
+3 OBJE @M165@
+3 _APID 1,2495::71073721
+2 SOUR @S111@
+3 PAGE typeset transcript, 1789, Abner Cranson, marriage
 3 OBJE @M169@
-2 SOUR @S111@
-3 OBJE @M165@
+3 _APID 1,2495::81473756
 2 SOUR @S129@
 3 _APID 1,4079::37684
 0 @F28@ FAM
@@ -12501,7 +12547,11 @@
 4 LATI N42.5265
 4 LONG W72.7884
 2 SOUR @S112@
+3 PAGE Asa Cranson
+3 _APID 1,7853::178947
 2 SOUR @S112@
+3 PAGE Zilla Fuller
+3 _APID 1,7853::283926
 0 @F43@ FAM
 1 HUSB @I60@
 1 WIFE @I110@
@@ -12590,7 +12640,11 @@
 4 LATI N42.244
 4 LONG W71.9923
 2 SOUR @S112@
+3 PAGE Bath Sheba Briggs
+3 _APID 1,7853::90230
 2 SOUR @S112@
+3 PAGE David Cranson
+3 _APID 1,7853::179170
 0 @F29@ FAM
 1 HUSB @I46@
 1 WIFE @I40@
@@ -12673,13 +12727,8 @@
 3 MAP
 4 LATI N42.5265
 4 LONG W72.7884
-2 SOUR @S108@
-3 PAGE Year: 1860; Census Place: De Ruyter, Madison, New York; Roll
-4 CONC : M653_780; Page: 291; Image: 296; Family History Library Fi
-4 CONC lm: 803780
-3 OBJE @dWsnZ7LgQrKG2iGIc9WX@
-3 _APID 1,7667::46712177
 2 SOUR @S112@
+3 PAGE Nabby Read
 3 _APID 1,7853::597390
 2 SOUR @yyAkQxoDR02oezmc7VEf@
 0 @F50@ FAM
@@ -12776,20 +12825,24 @@
 4 LONG W74.8596
 2 SOUR @tPClZMdVRNCZDOmnmsWz@
 3 PAGE Year: 1900; Census Place: Smithfield, Madison, New York; Pag
-4 CONC e: 1; Enumeration District: 0030; FHL microfilm: 1241072
+4 CONC e: 1; Enumeration District: 0030; FHL microfilm: 1241072; Ma
+4 CONC ry E Ginney
 3 OBJE @M227@
 2 SOUR @tPClZMdVRNCZDOmnmsWz@
 3 PAGE Year: 1900; Census Place: Smithfield, Madison, New York; Pag
-4 CONC e: 1; Enumeration District: 0030; FHL microfilm: 1241072
+4 CONC e: 1; Enumeration District: 0030; FHL microfilm: 1241072; Pa
+4 CONC trick Ginney
 3 OBJE @M227@
+3 _APID 1,7602::66532999
 2 SOUR @S152@
 3 PAGE New York State Department of Health; Albany, NY, USA; New Yo
-4 CONC rk State Marriage Index
+4 CONC rk State Marriage Index; Mary E Seeley
 3 OBJE @M239@
 2 SOUR @S152@
 3 PAGE New York State Department of Health; Albany, NY, USA; New Yo
-4 CONC rk State Marriage Index
+4 CONC rk State Marriage Index; Patrick Ginnan
 3 OBJE @M240@
+3 _APID 1,61632::1129197
 0 @F56@ FAM
 1 HUSB @I122@
 1 WIFE @I123@
@@ -12800,10 +12853,12 @@
 2 DATE 1803
 2 SOUR @S142@
 3 PAGE Source number: 982.000; Source type: Electronic Database; Nu
-4 CONC mber of Pages: 1; Submitter Code: HDG
+4 CONC mber of Pages: 1; Submitter Code: HDG; Huldah Cranson
+3 _APID 1,7836::290935
 2 SOUR @S142@
 3 PAGE Source number: 982.000; Source type: Electronic Database; Nu
-4 CONC mber of Pages: 1; Submitter Code: HDG
+4 CONC mber of Pages: 1; Submitter Code: HDG; Samuel Goodwin
+3 _APID 1,7836::480386
 0 @F61@ FAM
 1 HUSB @I164@
 1 WIFE @I161@
@@ -12895,6 +12950,7 @@
 3 PAGE p. 34
 3 QUAY 2
 2 SOUR @sTsOC4iyTF2NoQPhD3Hq@
+3 OBJE @E1H4LC0rTjKeRWWHOpys@
 3 _APID 1,61377::142590
 2 NOTE By F. W. Tomlinson, Minister.
 3 CONT Alta Benedict says they were married in the house they rente
@@ -12928,7 +12984,13 @@
 4 LATI N42.5265
 4 LONG W72.7884
 2 SOUR @S112@
+3 PAGE Abigail King
+3 _APID 1,7853::423836
 2 SOUR @S112@
+3 PAGE Gershom Rogers
+3 _APID 1,7853::621562
+2 SOUR @S129@
+3 _APID 1,4079::96409
 0 @F65@ FAM
 1 WIFE @yrnKQjobSD6JZVEjMntA@
 1 CHIL @I175@
@@ -12976,13 +13038,15 @@
 2 SOUR @tPClZMdVRNCZDOmnmsWz@
 3 PAGE Year: 1900; Census Place: Georgetown, Madison, New York; Rol
 4 CONC l: 1071; Page: 7A; Enumeration District: 0011; FHL microfilm
-4 CONC : 1241071
+4 CONC : 1241071; Chapin Wood
 3 OBJE @M203@
+3 _APID 1,7602::55837067
 2 SOUR @tPClZMdVRNCZDOmnmsWz@
 3 PAGE Year: 1900; Census Place: Georgetown, Madison, New York; Rol
 4 CONC l: 1071; Page: 7A; Enumeration District: 0011; FHL microfilm
-4 CONC : 1241071
+4 CONC : 1241071; Margaret Wood
 3 OBJE @M203@
+3 _APID 1,7602::55837068
 0 @F44@ FAM
 1 HUSB @I109@
 1 WIFE @I62@
@@ -13016,11 +13080,6 @@
 0 @R1@ REPO
 1 NAME Ancestry.com
 1 ADDR http://www.Ancestry.com
-1 EMAIL
-1 PHON
-0 @R3@ REPO
-1 NAME Ancestry.com
-1 ADDR
 1 EMAIL
 1 PHON
 0 @S131@ SOUR
@@ -13092,38 +13151,38 @@
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2009
 0 @9SIEhYikRnW7x0y08og9@ SOUR
-1 REPO @R3@
+1 REPO @R1@
 1 TITL 1880 United States Federal Census
 1 AUTH Ancestry.com and The Church of Jesus Christ of Latter-day Sa
 2 CONC ints
 1 PUBL Ancestry.com Operations Inc; Location: Lehi, UT, USA; Date
 2 CONC : 2010
 0 @tPClZMdVRNCZDOmnmsWz@ SOUR
-1 REPO @R3@
+1 REPO @R1@
 1 TITL 1900 United States Federal Census
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations Inc; Location: Provo, UT, USA; Date
 2 CONC : 2004
 0 @zed2XLyiTSazMVGgwZLi@ SOUR
-1 REPO @R3@
+1 REPO @R1@
 1 TITL 1910 United States Federal Census
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations Inc; Location: Lehi, UT, USA; Date
 2 CONC : 2006
 0 @GpcA8GZ1Qyuc3mwiGu82@ SOUR
-1 REPO @R3@
+1 REPO @R1@
 1 TITL 1920 United States Federal Census
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2010
 0 @Z6rqhHe6TT6AOpzl0BeY@ SOUR
-1 REPO @R3@
+1 REPO @R1@
 1 TITL 1930 United States Federal Census
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations Inc; Location: Provo, UT, USA; Date
 2 CONC : 2002
 0 @Uy92PZYtTYyuTqW66j1r@ SOUR
-1 REPO @R3@
+1 REPO @R1@
 1 TITL 1940 United States Federal Census
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
@@ -13342,7 +13401,7 @@
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2011
 0 @S143@ SOUR
-1 REPO @R3@
+1 REPO @R1@
 1 TITL Massachusetts, Town Birth Records, 1620-1850
 1 AUTH New England Historic Genealogical Society
 1 PUBL Ancestry.com Operations Inc; Location: Provo, UT, USA; Date
@@ -13394,7 +13453,7 @@
 1 PUBL Ancestry.com Operations Inc; Location: Provo, UT, USA; Date
 2 CONC : 1998
 0 @S158@ SOUR
-1 REPO @R3@
+1 REPO @R1@
 1 TITL New York State, Birth Index, 1881-1942
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Lehi, UT, USA; Date
@@ -13406,7 +13465,7 @@
 1 PUBL Ancestry.com Operations, Inc.; Location: Lehi, UT, USA; Date
 2 CONC : 2018
 0 @S152@ SOUR
-1 REPO @R3@
+1 REPO @R1@
 1 TITL New York State, Marriage Index, 1881-1967
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Lehi, UT, USA; Date
@@ -13423,7 +13482,6 @@
 2 CONC , 1917–1919.</i> Adjutant General's Office.
 2 CONT Series B0808. New York State Archives, Albany, New York.
 0 @lfBJpoKhRAejDR6dzZQp@ SOUR
-1 REFN a15e1242-eb80-4556-93de-8598062807ea
 1 REPO @R1@
 1 TITL New York, Civil War Muster Roll Abstracts, 1861-1900
 1 AUTH Ancestry.com
@@ -13457,14 +13515,13 @@
 1 PUBL Ancestry.com Operations, Inc.; Location: Lehi, UT, USA; Date
 2 CONC : 2017
 0 @bpt8c0uQRfCTW2vNfJ3k@ SOUR
-1 REFN 7aceee0b-28fd-4c99-b48d-12e7882b5e0c
 1 REPO @R1@
 1 TITL New York, State Census, 1855
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2013
 0 @yyAkQxoDR02oezmc7VEf@ SOUR
-1 REPO @R3@
+1 REPO @R1@
 1 TITL New York, State Census, 1865
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
@@ -13476,7 +13533,7 @@
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2013
 0 @Da4QmjDCTO26NSEbXkWM@ SOUR
-1 REPO @R3@
+1 REPO @R1@
 1 TITL New York, State Census, 1892
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
@@ -13488,13 +13545,13 @@
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2014
 0 @W7LxqysiTQKb0jxIb32w@ SOUR
-1 REPO @R3@
+1 REPO @R1@
 1 TITL New York, State Census, 1915
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2012
 0 @CBm0n9eyQ2KMLGJARjUj@ SOUR
-1 REPO @R3@
+1 REPO @R1@
 1 TITL New York, State Census, 1925
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
@@ -14144,7 +14201,7 @@
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2015
 0 @NOkWCGM8RZO0xw4vd39X@ SOUR
-1 REPO @R3@
+1 REPO @R1@
 1 TITL U.S., Social Security Death Index, 1935-2014
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations Inc; Location: Provo, UT, USA; Date
@@ -14164,7 +14221,7 @@
 1 PUBL Ancestry.com Operations Inc; Location: Provo, UT, USA; Date
 2 CONC : 2005
 0 @I7OszYmrQJOlFALLPwyF@ SOUR
-1 REPO @R3@
+1 REPO @R1@
 1 TITL U.S., World War II Draft Registration Cards, 1942
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Lehi, UT, USA; Date
@@ -14723,6 +14780,8 @@
 2 CONT </tr>
 2 CONT </table>
 2 CONT Col. 27&mdash;Working on own account. O
+0 @S159@ SOUR
+1 TITL USA. New York. Rome. Rome Sentinel
 0 @XaNhGpVjT5WNd1ovRuxO@ SOUR
 1 REFN 36b38d86-8ff8-4d36-a818-d48491548737
 1 TITL Utica New York Daily Press [Newspaper]
@@ -15450,12 +15509,6 @@
 2 FORM jpg
 2 TITL New York, State Census, 1855
 1 REFN 85efa8cf-5cd3-4539-a1ca-37be3224b811
-0 @hBbUEb24TqiH3S5JaCqL@ OBJE
-1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Colvin Media\Ne
-2 CONC w York, State Census, 1855(16).jpg
-2 FORM jpg
-2 TITL New York, State Census, 1855
-1 REFN 2fa2c2f6-95de-4e0e-aafc-5fd88af1e9bd
 0 @nDVecHOiTp2S2fFWFdgW@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Colvin Media\Ne
 2 CONC w York, State Census, 1865(5).jpg
@@ -15914,14 +15967,6 @@
 2 CONC a Cranson.jpg
 2 FORM jpg
 2 TITL Asa Cranson
-0 @M151@ OBJE
-1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Colvin Media\18
-2 CONC 60 United States Federal Census(5).jpg
-2 FORM jpg
-2 TITL 1860 United States Federal Census
-2 _TEXT Year: 1860; Census Place: Cazenovia, Madison, New York; Roll
-3 CONC : M653_780; Page: 79; Image: 84; Family History Library Film
-3 CONC : 803780
 0 @M152@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Colvin Media\18
 2 CONC 80 United States Federal Census(6).jpg
@@ -15938,14 +15983,6 @@
 2 _TEXT Year: 1910; Census Place: Mundy, Genesee, Michigan; Roll: T6
 3 CONC 24_642; Page: 11A; Enumeration District: 0046; FHL microfilm
 3 CONC : 1374655
-0 @M154@ OBJE
-1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Colvin Media\18
-2 CONC 60 United States Federal Census(6).jpg
-2 FORM jpg
-2 TITL 1860 United States Federal Census
-2 _TEXT Year: 1860; Census Place: Georgetown, Madison, New York; Rol
-3 CONC l: M653_780; Page: 323; Image: 328; Family History Library F
-3 CONC ilm: 803780
 0 @M155@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Colvin Media\18
 2 CONC 70 United States Federal Census(4).jpg
@@ -15989,10 +16026,6 @@
 2 CONC ssachusetts, Town and Vital Records, 1620-1988(6).jpg
 2 FORM jpg
 2 TITL Massachusetts, Town and Vital Records, 1620-1988
-0 @M161@ OBJE
-1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Colvin Media\dv
-2 CONC m_LocHist004783-00208-1.jpg
-2 FORM jpg
 0 @M162@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Colvin Media\18
 2 CONC 20 United States Federal Census(1).jpg
@@ -16062,14 +16095,6 @@
 2 CONC ssachusetts, Town and Vital Records, 1620-1988(1).jpg
 2 FORM jpg
 2 TITL Massachusetts, Town and Vital Records, 1620-1988
-0 @M173@ OBJE
-1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Colvin Media\18
-2 CONC 60 United States Federal Census(1).jpg
-2 FORM jpg
-2 TITL 1860 United States Federal Census
-2 _TEXT Year: 1860; Census Place: Webster, Washtenaw, Michigan; Roll
-3 CONC : M653_563; Page: 36; Image: 36; Family History Library Film
-3 CONC : 803563
 0 @M174@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Colvin Media\18
 2 CONC 50 United States Federal Census(2).jpg
@@ -16092,13 +16117,6 @@
 2 TITL 1850 United States Federal Census
 2 _TEXT Year: 1850; Census Place: Lenox, Madison, New York; Roll: M4
 3 CONC 32_526; Page: 169A; Image: 342
-0 @M177@ OBJE
-1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Colvin Media\18
-2 CONC 60 United States Federal Census(2).jpg
-2 FORM jpg
-2 TITL 1860 United States Federal Census
-2 _TEXT Year: 1860; Census Place: Lenox, Madison, New York; Roll
-3 CONC : ; Page: 743; Image: 244.
 0 @M178@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Colvin Media\Ne
 2 CONC w York, Wills and Probate Records, 1659-1999(1).jpg
@@ -16107,11 +16125,6 @@
 2 _TEXT Will Records, 1806-1900, Madison County, New York; Author: N
 3 CONC ew York. Surrogate's Court (Madison County); Probate Place
 3 CONC : Madison, New York
-0 @M179@ OBJE
-1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Colvin Media\Ne
-2 CONC w York, State Census, 1855.jpg
-2 FORM jpg
-2 TITL New York, State Census, 1855
 0 @M180@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Colvin Media\18
 2 CONC 80 United States Federal Census(1).jpg
@@ -16237,27 +16250,11 @@
 2 CONC ssachusetts, Town and Vital Records, 1620-1988(10).jpg
 2 FORM jpg
 2 TITL Massachusetts, Town and Vital Records, 1620-1988
-0 @M198@ OBJE
-1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Colvin Media\Ne
-2 CONC w York, Civil War Muster Roll Abstracts, 1861-1900.jpg
-2 FORM jpg
-2 TITL New York, Civil War Muster Roll Abstracts, 1861-1900
-2 _TEXT New York State Archives, Cultural Education Center, Albany
-3 CONC , New York; New York Civil War Muster Roll Abstracts, 1861-1
-3 CONC 900; Archive Collection #: 13775-83; Box #: 923; Roll #: 579
 0 @M199@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Colvin Media\Ne
 2 CONC w York, State Census, 1892(2).jpg
 2 FORM jpg
 2 TITL New York, State Census, 1892
-0 @M200@ OBJE
-1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Colvin Media\18
-2 CONC 60 United States Federal Census(3).jpg
-2 FORM jpg
-2 TITL 1860 United States Federal Census
-2 _TEXT Year: 1860; Census Place: Cazenovia, Madison, New York; Roll
-3 CONC : M653_780; Page: 78; Image: 83; Family History Library Film
-3 CONC : 803780
 0 @M201@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Colvin Media\18
 2 CONC 70 United States Federal Census(3).jpg
@@ -16266,14 +16263,6 @@
 2 _TEXT Year: 1870; Census Place: Cazenovia, Madison, New York; Roll
 3 CONC : M593_967; Page: 86B; Image: 176; Family History Library Fi
 3 CONC lm: 552466
-0 @M202@ OBJE
-1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Colvin Media\18
-2 CONC 60 United States Federal Census(2)(1).jpg
-2 FORM jpg
-2 TITL 1860 United States Federal Census
-2 _TEXT Year: 1860; Census Place: Cazenovia, Madison, New York; Roll
-3 CONC : M653_780; Page: 76; Image: 81; Family History Library Film
-3 CONC : 803780
 0 @M203@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Colvin Media\19
 2 CONC 00 United States Federal Census.jpg
@@ -16546,4 +16535,62 @@
 2 TITL New York State, Marriage Index, 1881-1967
 2 _TEXT New York State Department of Health; Albany, NY, USA; New Yo
 3 CONC rk State Marriage Index
+0 @M241@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Colvin Media\Ne
+2 CONC w York, State Census, 1855(1).jpg
+2 FORM jpg
+2 TITL New York, State Census, 1855
+0 @M242@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Colvin Media\Ne
+2 CONC w York, State Census, 1855(2).jpg
+2 FORM jpg
+2 TITL New York, State Census, 1855
+0 @M243@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Colvin Media\Ne
+2 CONC w York, State Census, 1855(3).jpg
+2 FORM jpg
+2 TITL New York, State Census, 1855
+0 @M244@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Colvin Media\Ne
+2 CONC w York, Civil War Muster Roll Abstracts, 1861-1900(1).jpg
+2 FORM jpg
+2 TITL New York, Civil War Muster Roll Abstracts, 1861-1900
+2 _TEXT New York State Archives, Cultural Education Center, Albany
+3 CONC , New York; New York Civil War Muster Roll Abstracts, 1861-1
+3 CONC 900; Archive Collection #: 13775-83; Box #: 923; Roll #: 579
+0 @M245@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Colvin Media\18
+2 CONC 60 United States Federal Census(4).jpg
+2 FORM jpg
+2 TITL 1860 United States Federal Census
+2 _TEXT Year: 1860; Census Place: Cazenovia, Madison, New York; Roll
+3 CONC : M653_780; Page: 78; Family History Library Film: 803780
+0 @M246@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Colvin Media\18
+2 CONC 60 United States Federal Census(7).jpg
+2 FORM jpg
+2 TITL 1860 United States Federal Census
+2 _TEXT Year: 1860; Census Place: Cazenovia, Madison, New York; Roll
+3 CONC : M653_780; Page: 78; Family History Library Film: 803780
+0 @M247@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Colvin Media\18
+2 CONC 60 United States Federal Census(8).jpg
+2 FORM jpg
+2 TITL 1860 United States Federal Census
+2 _TEXT Year: 1860; Census Place: Georgetown, Madison, New York; Rol
+3 CONC l: M653_780; Page: 323; Family History Library Film: 803780
+0 @M248@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Colvin Media\18
+2 CONC 60 United States Federal Census(9).jpg
+2 FORM jpg
+2 TITL 1860 United States Federal Census
+2 _TEXT Year: 1860; Census Place: Lenox, Madison, New York; Roll: M6
+3 CONC 53_781; Page: 743; Family History Library Film: 803781
+0 @M249@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Colvin Media\18
+2 CONC 60 United States Federal Census(11).jpg
+2 FORM jpg
+2 TITL 1860 United States Federal Census
+2 _TEXT Year: 1860; Census Place: Webster, Washtenaw, Michigan; Roll
+3 CONC : M653_563; Page: 36; Family History Library Film: 803563
 0 TRLR
