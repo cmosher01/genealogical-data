@@ -14,9 +14,9 @@
 4 CONT Boston, MA 02109
 3 PHON (617) 227-6681
 1 DEST FTM
-1 FILE Harrison_2019-09-23-03-20-33.ftm.ged
-1 DATE 23 SEP 2019
-2 TIME 03:21:31
+1 FILE Harrison_2019-09-30-00-16-37.ftm.ged
+1 DATE 30 SEP 2019
+2 TIME 00:17:17
 0 @Umy2qBWIRUiwVSS6Hcn4@ SUBM
 1 NAME Christopher Alan Mosher
 2 EMAIL cmosher01@@gmail.com
@@ -3123,9 +3123,13 @@
 2 SOUR @Xxs7DeD3SayQp29j6Jgh@
 3 _APID 1,60984::1655376
 2 SOUR @mp2HZlANToGEkMWe1M21@
+3 PAGE 1915
 3 OBJE @XhoASt1HSQO12DDG6h9T@
+3 _APID 1,1084::797228
 2 SOUR @mp2HZlANToGEkMWe1M21@
+3 PAGE 1925
 3 OBJE @gy1ExJerSRSe6CkEt83v@
+3 _APID 1,1084::4025317
 2 SOUR @D5SLrrBySbi6oa3ygAnv@
 3 OBJE @MocQBuBqRuie1f6xVnd9@
 3 _APID 1,2469::913066080
@@ -3168,9 +3172,13 @@
 3 OBJE @9vLtN9ZkSi60vJO6u5Cp@
 3 _APID 1,6061::28692383
 2 SOUR @mp2HZlANToGEkMWe1M21@
+3 PAGE 1915
 3 OBJE @XhoASt1HSQO12DDG6h9T@
+3 _APID 1,1084::797228
 2 SOUR @mp2HZlANToGEkMWe1M21@
+3 PAGE 1925
 3 OBJE @gy1ExJerSRSe6CkEt83v@
+3 _APID 1,1084::4025317
 2 SOUR @fgk8xAOsQLeHP2vct6BI@
 3 _APID 1,60525::51687034
 1 RESI
@@ -3243,6 +3251,7 @@
 4 LATI N42.4755
 4 LONG W92.0638
 2 SOUR @mp2HZlANToGEkMWe1M21@
+3 PAGE 1915
 3 OBJE @XhoASt1HSQO12DDG6h9T@
 3 _APID 1,1084::797228
 2 NOTE Age: 69; Marital Status: Widowed
@@ -3265,6 +3274,7 @@
 4 LATI N42.4755
 4 LONG W92.0638
 2 SOUR @mp2HZlANToGEkMWe1M21@
+3 PAGE 1925
 3 OBJE @gy1ExJerSRSe6CkEt83v@
 3 _APID 1,1084::4025317
 2 NOTE Marital Status: Widowed; Relation to Head of House: Sister
@@ -4240,7 +4250,7 @@
 5 CONC &pid=28
 2 SOUR @S175@
 3 PAGE New York State Department of Health; Albany, NY, USA; New Yo
-4 CONC rk State Marriage Index
+4 CONC rk State Marriage Index; Elmer Harrison
 3 OBJE @M88@
 3 _APID 1,61632::1663612
 2 SOUR @no7YvbwBTZSkjmmfIcME@
@@ -6477,6 +6487,7 @@
 3 OBJE @M98@
 3 _APID 1,61442::383953
 2 SOUR @mp2HZlANToGEkMWe1M21@
+3 PAGE 1925
 3 OBJE @2xs3gt8lTvKfTqMmlNS7@
 3 _APID 1,1084::395464
 2 SOUR @sXyDkhg5SlSi1Km4RUgO@
@@ -6550,6 +6561,7 @@
 3 OBJE @M98@
 3 _APID 1,61442::383953
 2 SOUR @mp2HZlANToGEkMWe1M21@
+3 PAGE 1925
 3 OBJE @2xs3gt8lTvKfTqMmlNS7@
 3 _APID 1,1084::395464
 2 SOUR @iZlulgkISMSpUuqa7YAc@
@@ -6704,6 +6716,7 @@
 4 LATI N42.4755
 4 LONG W92.0638
 2 SOUR @mp2HZlANToGEkMWe1M21@
+3 PAGE 1925
 3 OBJE @2xs3gt8lTvKfTqMmlNS7@
 3 _APID 1,1084::395464
 2 NOTE Age: 77; Marital Status: Widowed; Relation to Head of House
@@ -10252,7 +10265,7 @@
 1 NAME Mary Ann /McLaughlin/
 2 SOUR @S175@
 3 PAGE New York State Department of Health; Albany, NY, USA; New Yo
-4 CONC rk State Marriage Index
+4 CONC rk State Marriage Index; May A McLaughlin
 3 OBJE @M89@
 3 _APID 1,61632::1673798
 1 SEX F
@@ -19545,11 +19558,12 @@
 3 _APID 1,7602::56735666
 2 SOUR @S175@
 3 PAGE New York State Department of Health; Albany, NY, USA; New Yo
-4 CONC rk State Marriage Index
+4 CONC rk State Marriage Index; Elmer Harrison
 3 OBJE @M88@
+3 _APID 1,61632::1663612
 2 SOUR @S175@
 3 PAGE New York State Department of Health; Albany, NY, USA; New Yo
-4 CONC rk State Marriage Index
+4 CONC rk State Marriage Index; May A McLaughlin
 3 OBJE @M89@
 2 NOTE by Rev. James M. Bustin
 0 @PJVSYwODQruvZvNmcrDX@ FAM
@@ -21361,11 +21375,6 @@
 1 ADDR http://www.Ancestry.com
 1 EMAIL
 1 PHON
-0 @FJHSgHr3QGmxZjyREd81@ REPO
-1 NAME Ancestry.com, II, OLD
-1 ADDR
-1 EMAIL
-1 PHON
 0 @S174@ SOUR
 1 REPO @kBzDdT7sR6qYOEZMnKPD@
 1 TITL 1800 United States Federal Census
@@ -21455,7 +21464,7 @@
 2 CONC : 2002
 0 @2Tqe6FIjTKCB96mC4JOU@ SOUR
 1 REFN cd25eff1-7de7-49ce-be39-ac00e709397b
-1 REPO @FJHSgHr3QGmxZjyREd81@
+1 REPO @kBzDdT7sR6qYOEZMnKPD@
 1 TITL 1940 United States Federal Census
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
@@ -21946,7 +21955,7 @@
 2 CONC : 2014
 0 @mp2HZlANToGEkMWe1M21@ SOUR
 1 REFN 4049e20d-f8be-4338-93b2-fb8f0fffa2fb
-1 REPO @FJHSgHr3QGmxZjyREd81@
+1 REPO @kBzDdT7sR6qYOEZMnKPD@
 1 TITL Iowa, State Census Collection, 1836-1925
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
@@ -22502,7 +22511,7 @@
 2 CONC e: 2012
 0 @ap7ZdI44QYGY4jw7fGXi@ SOUR
 1 REFN 55deffbd-33cf-49ad-8629-825c36fbbb3f
-1 REPO @FJHSgHr3QGmxZjyREd81@
+1 REPO @kBzDdT7sR6qYOEZMnKPD@
 1 TITL New York, Tax Assessment Rolls of Real and Personal Estates
 2 CONC , 1799-1804
 1 AUTH Ancestry.com
@@ -22901,7 +22910,7 @@
 2 CONC : 2004
 0 @D5SLrrBySbi6oa3ygAnv@ SOUR
 1 REFN aad377b7-2a52-48ab-9277-c97a9df42dbf
-1 REPO @FJHSgHr3QGmxZjyREd81@
+1 REPO @kBzDdT7sR6qYOEZMnKPD@
 1 TITL U.S. City Directories, 1822-1995
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
@@ -23832,7 +23841,7 @@
 2 CONC e: 2012
 0 @9KLEd603QSqmwr5pAP28@ SOUR
 1 REFN e6e8eab3-017b-42de-af91-0d5633bd1256
-1 REPO @FJHSgHr3QGmxZjyREd81@
+1 REPO @kBzDdT7sR6qYOEZMnKPD@
 1 TITL Web: Iowa, Find A Grave Index, 1800-2012
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
