@@ -14,9 +14,9 @@
 4 CONT Boston, MA 02109
 3 PHON (617) 227-6681
 1 DEST FTM
-1 FILE McLaughlin_2019-08-15-00-53-36.ftm.ged
-1 DATE 15 AUG 2019
-2 TIME 00:56:11
+1 FILE McLaughlin_2019-10-05-21-58-04.ftm.ged
+1 DATE 05 OCT 2019
+2 TIME 21:58:39
 0 @Umy2qBWIRUiwVSS6Hcn4@ SUBM
 1 NAME Christopher Alan Mosher
 2 EMAIL cmosher01@@gmail.com
@@ -1621,6 +1621,42 @@
 3 _APID 1,7884::19997853
 2 NOTE Marital Status: Married; Relation to Head of House: Head
 1 _XY 186417.00 4338.00
+0 @I98@ INDI
+1 REFN c02845a9-ceb3-4c9d-b728-bdd425799f09
+1 NAME Catherine Rose /Carey/
+2 SOUR @S97@
+3 _APID 1,60901::16078876
+1 SEX F
+1 FAMC @F67@
+1 BIRT
+2 DATE 03 JAN 1933
+2 PLAC Corning, Steuben, New York, USA
+3 MAP
+4 LATI N42.1429
+4 LONG W77.0547
+2 SOUR @S97@
+3 _APID 1,60901::16078876
+1 DEAT
+2 DATE 03 SEP 2003
+2 SOUR @S97@
+3 _APID 1,60901::16078876
+0 @I99@ INDI
+1 REFN 2cb20544-aa90-4a12-953a-cdb45b6724dc
+1 NAME Raymond C. /Carey/
+2 SOUR @S73@
+3 PAGE Raymond Carey
+3 OBJE @M207@
+3 _APID 1,61377::676061
+2 SOUR @S97@
+3 _APID 1,60901::616078876
+1 SEX M
+1 FAMS @F67@
+1 BIRT
+2 DATE ABT 1901
+2 SOUR @S73@
+3 PAGE Raymond Carey
+3 OBJE @M207@
+3 _APID 1,61377::676061
 0 @sHX2JkGFTbio0WX0BCZ4@ INDI
 1 REFN 128aec5d-7e29-48a6-9e25-7a872f06e7f1
 1 NAME George /Dougherty/
@@ -3160,12 +3196,6 @@
 3 OBJE @1Z2SqTbXQ96LECASGsUV@
 3 _APID 1,7602::56735657
 2 SOUR @S89@
-3 PAGE Year: 1910; Census Place: Arcadia, Wayne, New York; Roll: T6
-4 CONC 24_1094; Page: 15A; Enumeration District: 0125; FHL microfil
-4 CONC m: 1375107
-3 OBJE @uRuFOPY0TxGShTYODOln@
-3 _APID 1,7884::107705480
-2 SOUR @S89@
 3 PAGE Year: 1910; Census Place: Hornby, Steuben, New York; Roll: T
 4 CONC 624_1080; Page: 4B; Enumeration District: 0132; FHL microfil
 4 CONC m: 1375093
@@ -3187,6 +3217,10 @@
 4 CONC 627_2781; Page: 3A; Enumeration District: 51-54
 3 OBJE @kxiVnbA2TjW1IKlDdj8j@
 3 _APID 1,2442::8685075
+2 SOUR @S73@
+3 PAGE Katherine Hendrick
+3 OBJE @M207@
+3 _APID 1,61377::1500676061
 2 SOUR @6NcIzxfbRyyWNjNadTrG@
 3 OBJE @ZSIx1RfETYq1bY0eaZbJ@
 3 _APID 1,7364::478730
@@ -3220,12 +3254,6 @@
 4 CONC 41163
 3 OBJE @1Z2SqTbXQ96LECASGsUV@
 3 _APID 1,7602::56735657
-2 SOUR @S89@
-3 PAGE Year: 1910; Census Place: Arcadia, Wayne, New York; Roll: T6
-4 CONC 24_1094; Page: 15A; Enumeration District: 0125; FHL microfil
-4 CONC m: 1375107
-3 OBJE @uRuFOPY0TxGShTYODOln@
-3 _APID 1,7884::107705480
 2 SOUR @S89@
 3 PAGE Year: 1910; Census Place: Hornby, Steuben, New York; Roll: T
 4 CONC 624_1080; Page: 4B; Enumeration District: 0132; FHL microfil
@@ -3289,15 +3317,8 @@
 4 LONG W77.0444
 2 SOUR @6NcIzxfbRyyWNjNadTrG@
 3 OBJE @ZSIx1RfETYq1bY0eaZbJ@
+3 _APID 1,7364::478730
 2 NOTE Relation to Head of House: Wife
-1 RESI
-2 DATE 1905
-2 PLAC Hornby, Steuben, New York, USA
-3 MAP
-4 LATI N42.2442
-4 LONG W77.0444
-2 SOUR @6NcIzxfbRyyWNjNadTrG@
-3 OBJE @ZSIx1RfETYq1bY0eaZbJ@
 2 NOTE Relationship to Head: Wife
 1 RESI
 2 DATE 1910
@@ -3305,12 +3326,6 @@
 3 MAP
 4 LATI N43.0862
 4 LONG W77.0867
-2 SOUR @S89@
-3 PAGE Year: 1910; Census Place: Arcadia, Wayne, New York; Roll: T6
-4 CONC 24_1094; Page: 15A; Enumeration District: 0125; FHL microfil
-4 CONC m: 1375107
-3 OBJE @uRuFOPY0TxGShTYODOln@
-3 _APID 1,7884::107705480
 2 SOUR @S89@
 3 PAGE Year: 1910; Census Place: Hornby, Steuben, New York; Roll: T
 4 CONC 624_1080; Page: 4B; Enumeration District: 0132; FHL microfil
@@ -3427,10 +3442,13 @@
 3 OBJE @M184@
 3 _APID 1,2442::8659049
 2 SOUR @S73@
+3 PAGE 1931-07-25, Alice Elizabeth Hogue
 3 OBJE @M182@
+3 _APID 1,61377::900675616
 2 SOUR @S73@
+3 PAGE 1931-07-27, Alice Elizabeth Hogue
 3 OBJE @M183@
-1 NAME Alice H /McLaughlin/
+3 _APID 1,61377::900675615
 2 SOUR @S97@
 3 _APID 1,60901::800427801
 1 SEX F
@@ -3445,11 +3463,13 @@
 3 PAGE Year: 1940; Census Place: Corning, Steuben, New York; Roll
 4 CONC : m-t0627-02781; Page: 9A; Enumeration District: 51-27
 3 OBJE @M184@
+3 _APID 1,2442::8659049
 2 SOUR @S73@
+3 PAGE 1931-07-25, Alice Elizabeth Hogue
 3 OBJE @M182@
-1 BIRT
-2 DATE 10 APR 1905
+3 _APID 1,61377::900675616
 2 SOUR @S97@
+3 _APID 1,60901::800427801
 1 RESI
 2 DATE 1940
 2 PLAC Corning, Steuben, New York, USA
@@ -4293,7 +4313,7 @@
 1 _XY 187717.00 4263.00
 0 @I66@ INDI
 1 REFN 144c8d61-39eb-4a18-a6d4-f60e38f0462a
-1 NAME Arthur D. /Mclaughlin/
+1 NAME Arthur D. /McLaughlin/
 2 SOUR @S89@
 3 PAGE Year: 1910; Census Place: Hornby, Steuben, New York; Roll: T
 4 CONC 624_1080; Page: 4B; Enumeration District: 0132; FHL microfil
@@ -4577,6 +4597,7 @@
 3 OBJE @M167@
 3 _APID 1,6061::87520701
 2 SOUR @S73@
+3 PAGE Charles McLaughlin
 3 OBJE @M118@
 3 _APID 1,61377::1350211945
 2 SOUR @m7Phkg8qRz2NO0TDWP4l@
@@ -4875,12 +4896,6 @@
 3 OBJE @1Z2SqTbXQ96LECASGsUV@
 3 _APID 1,7602::56735656
 2 SOUR @S89@
-3 PAGE Year: 1910; Census Place: Arcadia, Wayne, New York; Roll: T6
-4 CONC 24_1094; Page: 15A; Enumeration District: 0125; FHL microfil
-4 CONC m: 1375107
-3 OBJE @uRuFOPY0TxGShTYODOln@
-3 _APID 1,7884::20273161
-2 SOUR @S89@
 3 PAGE Year: 1910; Census Place: Hornby, Steuben, New York; Roll: T
 4 CONC 624_1080; Page: 4B; Enumeration District: 0132; FHL microfil
 4 CONC m: 1375093
@@ -4903,6 +4918,10 @@
 3 OBJE @kxiVnbA2TjW1IKlDdj8j@
 3 _APID 1,2442::8685074
 2 SOUR @CjXHrGelRbOCGmAkW59P@
+2 SOUR @S73@
+3 PAGE Daniel McLaughlin
+3 OBJE @M207@
+3 _APID 1,61377::1350676061
 2 SOUR @7tJxBxhGR46VSVFwI4mZ@
 3 OBJE @3Si1qPd6SrW0Al0ZgiVA@
 3 _APID 1,7250::1382758431
@@ -4953,12 +4972,6 @@
 4 CONC 41163
 3 OBJE @1Z2SqTbXQ96LECASGsUV@
 3 _APID 1,7602::56735656
-2 SOUR @S89@
-3 PAGE Year: 1910; Census Place: Arcadia, Wayne, New York; Roll: T6
-4 CONC 24_1094; Page: 15A; Enumeration District: 0125; FHL microfil
-4 CONC m: 1375107
-3 OBJE @uRuFOPY0TxGShTYODOln@
-3 _APID 1,7884::20273161
 2 SOUR @S89@
 3 PAGE Year: 1910; Census Place: Hornby, Steuben, New York; Roll: T
 4 CONC 624_1080; Page: 4B; Enumeration District: 0132; FHL microfil
@@ -5101,15 +5114,8 @@
 4 LONG W77.0444
 2 SOUR @6NcIzxfbRyyWNjNadTrG@
 3 OBJE @ZSIx1RfETYq1bY0eaZbJ@
+3 _APID 1,7364::478729
 2 NOTE Relation to Head of House: Head
-1 RESI
-2 DATE 1905
-2 PLAC Hornby, Steuben, New York, USA
-3 MAP
-4 LATI N42.2442
-4 LONG W77.0444
-2 SOUR @6NcIzxfbRyyWNjNadTrG@
-3 OBJE @ZSIx1RfETYq1bY0eaZbJ@
 2 NOTE Relationship to Head: Head
 1 RESI
 2 DATE 1910
@@ -5218,7 +5224,7 @@
 1 _XY 185217.00 4488.00
 0 @I67@ INDI
 1 REFN 7b2c13ec-6efa-4a1a-997d-611fc61f7516
-1 NAME Edna M. /Mclaughlin/
+1 NAME Edna M. /McLaughlin/
 2 SOUR @S89@
 3 PAGE Year: 1910; Census Place: Hornby, Steuben, New York; Roll: T
 4 CONC 624_1080; Page: 4B; Enumeration District: 0132; FHL microfil
@@ -5730,6 +5736,7 @@
 0 @I64@ INDI
 1 NAME [REDACTED]
 1 FAMC @kMxryj1FTuOKPryLWQgq@
+1 FAMS @F67@
 0 @xO1mv3ooQOCSB8ARpu96@ INDI
 1 REFN d69e7754-62bc-4b1d-bd7e-fce503cf226e
 1 NAME Francis F. /McLaughlin/
@@ -6048,9 +6055,13 @@
 3 OBJE @M200@
 3 _APID 1,61632::3478170
 2 SOUR @S73@
+3 PAGE 1931-07-25, Francis Maynard McLaughlin
 3 OBJE @M182@
+3 _APID 1,61377::675616
 2 SOUR @S73@
+3 PAGE 1931-07-27, Francis Maynard McLaughlin
 3 OBJE @M183@
+3 _APID 1,61377::675615
 2 SOUR @6NcIzxfbRyyWNjNadTrG@
 3 PAGE New York State Archives; Albany, New York; State Populatio
 4 CONC n Census Schedules, 1905; Election District: A.D. 01 E.D. 01
@@ -6074,7 +6085,6 @@
 2 SOUR @GBMDFX2WTtuAjoiA5QpK@
 3 PAGE Number: 082-26-7808; Issue State: New York; Issue Date: 1951
 3 _APID 1,3693::41143977
-1 NAME Maynard /McLaughlin/
 1 SEX M
 1 FAMC @kMxryj1FTuOKPryLWQgq@
 1 FAMS @F39@
@@ -6110,6 +6120,10 @@
 4 CONC : m-t0627-02781; Page: 9A; Enumeration District: 51-27
 3 OBJE @M184@
 3 _APID 1,2442::8659048
+2 SOUR @S73@
+3 PAGE 1931-07-25, Francis Maynard McLaughlin
+3 OBJE @M182@
+3 _APID 1,61377::675616
 2 SOUR @6NcIzxfbRyyWNjNadTrG@
 3 PAGE New York State Archives; Albany, New York; State Populatio
 4 CONC n Census Schedules, 1905; Election District: A.D. 01 E.D. 01
@@ -6133,15 +6147,6 @@
 2 SOUR @GBMDFX2WTtuAjoiA5QpK@
 3 PAGE Number: 082-26-7808; Issue State: New York; Issue Date: 1951
 3 _APID 1,3693::41143977
-1 BIRT
-2 DATE 11 DEC 1903
-2 PLAC Hornby, Steuben, New York, USA
-3 MAP
-4 LATI N42.2442
-4 LONG W77.0444
-2 SOUR @S73@
-3 OBJE @M182@
-3 _APID 1,61377::675616
 1 RESI
 2 DATE 1905
 2 PLAC Hornby, Steuben, New York, USA
@@ -6239,6 +6244,7 @@
 3 PAGE Number: 082-26-7808; Issue State: New York; Issue Date: 1951
 3 _APID 1,3693::41143977
 1 BURI
+2 DATE FEB 1968
 2 PLAC South Corning, Steuben, New York, USA
 3 MAP
 4 LATI N42.1217
@@ -8766,7 +8772,7 @@
 1 _XY 185392.00 4488.00
 0 @I65@ INDI
 1 REFN c5f20d4f-02b9-473a-90ac-45e7f5916bf4
-1 NAME Thomas H. /Mclaughlin/
+1 NAME Thomas H. /McLaughlin/
 2 SOUR @S89@
 3 PAGE Year: 1910; Census Place: Hornby, Steuben, New York; Roll: T
 4 CONC 624_1080; Page: 4B; Enumeration District: 0132; FHL microfil
@@ -9927,6 +9933,7 @@
 3 OBJE @M167@
 3 _APID 1,6061::87520702
 2 SOUR @S73@
+3 PAGE Edith Nixon
 3 OBJE @M118@
 3 _APID 1,61377::1500211945
 2 SOUR @S84@
@@ -10644,9 +10651,13 @@
 3 OBJE @M206@
 3 _APID 1,61632::1528400
 2 SOUR @S73@
+3 PAGE 1926-07-10, Beatrice Schoonover
 3 OBJE @M190@
+3 _APID 1,61377::900665234
 2 SOUR @S73@
+3 PAGE 1926-07-11, Beatrice Schoonover
 3 OBJE @M203@
+3 _APID 1,61377::900665233
 2 SOUR @6NcIzxfbRyyWNjNadTrG@
 3 PAGE New York State Archives; Albany, New York; State Populatio
 4 CONC n Census Schedules, 1905; Election District: A.D. 01 E.D. 01
@@ -10713,6 +10724,7 @@
 4 CONC rk State Death Index
 3 _APID 1,61668::944894
 2 SOUR @S73@
+3 PAGE 1926-07-10, Beatrice Schoonover
 3 OBJE @M190@
 3 _APID 1,61377::900665234
 2 SOUR @6NcIzxfbRyyWNjNadTrG@
@@ -10930,9 +10942,13 @@
 3 OBJE @M188@
 3 _APID 1,6224::46315074
 2 SOUR @S73@
-3 OBJE @M189@
-2 SOUR @S73@
+3 PAGE Clark Schoonover (in entry for Beatrice Schoonover)
 3 OBJE @M190@
+3 _APID 1,61377::1350665234
+2 SOUR @S73@
+3 PAGE Clark Schoonover (in entry for Walter Clark Schoonover)
+3 OBJE @M189@
+3 _APID 1,61377::1050219427
 2 SOUR @S71@
 3 PAGE New York Department of Health; Albany, NY; NY State Death In
 4 CONC dex
@@ -11661,6 +11677,7 @@
 3 OBJE @U9W4jkSSQl2BUzUykU9a@
 3 _APID 1,6061::87520595
 2 SOUR @S73@
+3 PAGE Walter Schoonover
 3 OBJE @M189@
 3 _APID 1,61377::219427
 2 SOUR @6NcIzxfbRyyWNjNadTrG@
@@ -11695,6 +11712,7 @@
 3 OBJE @U9W4jkSSQl2BUzUykU9a@
 3 _APID 1,6061::87520595
 2 SOUR @S73@
+3 PAGE Walter Schoonover
 3 OBJE @M189@
 3 _APID 1,61377::219427
 2 SOUR @6NcIzxfbRyyWNjNadTrG@
@@ -11840,9 +11858,13 @@
 3 OBJE @M198@
 3 _APID 1,2442::8666311
 2 SOUR @S73@
+3 PAGE 1926-07-10, Samuel Semple
 3 OBJE @M190@
+3 _APID 1,61377::665234
 2 SOUR @S73@
+3 PAGE 1926-07-11, Samuel Semple
 3 OBJE @M203@
+3 _APID 1,61377::665233
 2 SOUR @S97@
 3 _APID 1,60901::637345160
 1 SEX M
@@ -11861,6 +11883,7 @@
 3 OBJE @M198@
 3 _APID 1,2442::8666311
 2 SOUR @S73@
+3 PAGE 1926-07-10, Samuel Semple
 3 OBJE @M190@
 3 _APID 1,61377::665234
 1 RESI
@@ -12654,9 +12677,13 @@
 3 OBJE @M199@
 3 _APID 1,2442::8678992
 2 SOUR @S73@
-3 OBJE @M189@
-2 SOUR @S73@
+3 PAGE Mary Travis (in entry for Beatrice Louise Schoonover )
 3 OBJE @M190@
+3 _APID 1,61377::1500665234
+2 SOUR @S73@
+3 PAGE Mary Travis (in entry for Walter Clark Schoonover )
+3 OBJE @M189@
+3 _APID 1,61377::1200219427
 2 SOUR @6NcIzxfbRyyWNjNadTrG@
 3 PAGE New York State Archives; Albany, New York; State Populatio
 4 CONC n Census Schedules, 1905; Election District: A.D. 01 E.D. 01
@@ -12851,7 +12878,6 @@
 3 _APID 1,60525::35402076
 1 SEX F
 1 FAMS @F40@
-1 FAMS @F44@
 1 BIRT
 2 DATE JUN 1857
 2 PLAC Pennsylvania, USA
@@ -13214,14 +13240,6 @@
 2 SOUR @e0k10AjRSSyDnTOmeiMT@
 3 _APID 1,70572::7339455
 1 _XY 184767.00 4488.00
-0 @F44@ FAM
-1 WIFE @I83@
-1 MARR
-2 DATE 1874
-2 SOUR @S92@
-3 PAGE Year: 1900; Census Place: Hornby, Steuben, New York; Page: 4
-4 CONC ; Enumeration District: 0087; FHL microfilm: 1241163
-3 OBJE @nTOLgyj6StOlQT14dIG7@
 0 @Afq3JvbwQPe7IzNTqe46@ FAM
 1 REFN e18eea16-18bb-45ce-9a5e-62bc7ac104c3
 1 HUSB @QXjBvBzbTwywHksWLgCC@
@@ -13276,6 +13294,12 @@
 2 DATE 28 JUL 1861
 2 PLAC Saint Mary’s Church, 155 State Street, Corning, Steuben, Ne
 3 CONC w York, USA
+0 @F67@ FAM
+1 HUSB @I99@
+1 WIFE @I64@
+1 CHIL @I98@
+2 _FREL Natural
+2 _MREL Natural
 0 @zTEYeSn6TVaUmhtsfWf1@ FAM
 1 REFN 8ab6eb1d-f2bb-4927-8a49-9a727f34dd1b
 1 HUSB @sHX2JkGFTbio0WX0BCZ4@
@@ -13731,6 +13755,13 @@
 1 CHIL @I80@
 2 _FREL Natural
 2 _MREL Natural
+1 MARR
+2 DATE 1874
+2 SOUR @S92@
+3 PAGE Year: 1900; Census Place: Hornby, Steuben, New York; Page: 4
+4 CONC ; Enumeration District: 0087; FHL microfilm: 1241163
+3 OBJE @nTOLgyj6StOlQT14dIG7@
+3 _APID 1,7602::56735746
 0 @F43@ FAM
 1 HUSB @I96@
 1 WIFE @I97@
@@ -13774,6 +13805,7 @@
 4 CONC : 1161; Page: 3A; Enumeration District: 0052; FHL microfilm
 4 CONC : 1241161
 3 OBJE @yudugnfDSpStxp8pXLdv@
+3 _APID 1,7602::56695997
 2 SOUR @S80@
 3 PAGE <bibl> <author>St. Mary’s of the Lake Church (Watkins Glen
 4 CONC , New York, USA)</author>, <title level="u">Marriages 1849-1
@@ -13803,7 +13835,7 @@
 1 WIFE @ZfZ6WA7gSfOqbKsceTjx@
 1 MARR
 2 DATE ABT 1856
-0 @0aJKtHRDQmatCERL9JPC@ REPO
+0 @R1@ REPO
 1 NAME Ancestry.com
 1 ADDR http://www.Ancestry.com
 1 EMAIL
@@ -13813,68 +13845,68 @@
 1 ADDR Shelton, Connecticut, USA
 1 EMAIL
 1 PHON
-0 @0aJKtHRDQmatCERL9JPC@ REPO
+0 @R4@ REPO
 1 NAME Ancestry.com
 1 ADDR
 1 EMAIL
 1 PHON
 0 @S86@ SOUR
-1 REPO @0aJKtHRDQmatCERL9JPC@
+1 REPO @R1@
 1 TITL 1850 United States Federal Census
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2009
 0 @S72@ SOUR
-1 REPO @0aJKtHRDQmatCERL9JPC@
+1 REPO @R1@
 1 TITL 1860 United States Federal Census
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2009
 0 @S85@ SOUR
-1 REPO @0aJKtHRDQmatCERL9JPC@
+1 REPO @R1@
 1 TITL 1870 United States Federal Census
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2009
 0 @S87@ SOUR
-1 REPO @0aJKtHRDQmatCERL9JPC@
+1 REPO @R1@
 1 TITL 1880 United States Federal Census
 1 AUTH Ancestry.com and The Church of Jesus Christ of Latter-day Sa
 2 CONC ints
 1 PUBL Ancestry.com Operations Inc; Location: Lehi, UT, USA; Date
 2 CONC : 2010
 0 @S93@ SOUR
-1 REPO @0aJKtHRDQmatCERL9JPC@
+1 REPO @R1@
 1 TITL 1890 Veterans Schedules
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations Inc; Location: Provo, UT, USA; Date
 2 CONC : 2005
 0 @S92@ SOUR
-1 REPO @0aJKtHRDQmatCERL9JPC@
+1 REPO @R1@
 1 TITL 1900 United States Federal Census
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations Inc; Location: Provo, UT, USA; Date
 2 CONC : 2004
 0 @S89@ SOUR
-1 REPO @0aJKtHRDQmatCERL9JPC@
+1 REPO @R1@
 1 TITL 1910 United States Federal Census
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations Inc; Location: Lehi, UT, USA; Date
 2 CONC : 2006
 0 @S88@ SOUR
-1 REPO @0aJKtHRDQmatCERL9JPC@
+1 REPO @R1@
 1 TITL 1920 United States Federal Census
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2010
 0 @S90@ SOUR
-1 REPO @0aJKtHRDQmatCERL9JPC@
+1 REPO @R1@
 1 TITL 1930 United States Federal Census
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations Inc; Location: Provo, UT, USA; Date
 2 CONC : 2002
 0 @S91@ SOUR
-1 REPO @0aJKtHRDQmatCERL9JPC@
+1 REPO @R1@
 1 TITL 1940 United States Federal Census
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
@@ -13909,97 +13941,97 @@
 1 AUTH Hornby [New York] Historical Society
 1 PUBL Tennessee Valley Publishing, Knoxville, TN, 2000
 0 @S101@ SOUR
-1 REPO @0aJKtHRDQmatCERL9JPC@
+1 REPO @R4@
 1 TITL New York State, Birth Index, 1881-1942
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Lehi, UT, USA; Date
 2 CONC : 2018
 0 @S102@ SOUR
-1 REPO @0aJKtHRDQmatCERL9JPC@
+1 REPO @R4@
 1 TITL New York State, Death Index, 1957-1968
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Lehi, UT, USA; Date
 2 CONC : 2018
 0 @S75@ SOUR
-1 REPO @0aJKtHRDQmatCERL9JPC@
+1 REPO @R1@
 1 TITL New York State, Marriage Index, 1881-1967
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Lehi, UT, USA; Date
 2 CONC : 2017
 0 @S76@ SOUR
-1 REPO @0aJKtHRDQmatCERL9JPC@
+1 REPO @R1@
 1 TITL New York, Civil War Muster Roll Abstracts, 1861-1900
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2011
 0 @S77@ SOUR
-1 REPO @0aJKtHRDQmatCERL9JPC@
+1 REPO @R1@
 1 TITL New York, Compiled Census and Census Substitutes Index, 1790
 2 CONC -1890
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations Inc; Location: Provo, UT, USA; Date
 2 CONC : 1999
 0 @S73@ SOUR
-1 REPO @0aJKtHRDQmatCERL9JPC@
+1 REPO @R1@
 1 TITL New York, County Marriage Records, 1847-1849, 1907-1936
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Lehi, UT, USA; Date
 2 CONC : 2016
 0 @S71@ SOUR
-1 REPO @0aJKtHRDQmatCERL9JPC@
+1 REPO @R1@
 1 TITL New York, Death Index, 1880-1956
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Lehi, UT, USA; Date
 2 CONC : 2017
 0 @S94@ SOUR
-1 REPO @0aJKtHRDQmatCERL9JPC@
+1 REPO @R1@
 1 TITL New York, State Census, 1855
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2013
 0 @m7Phkg8qRz2NO0TDWP4l@ SOUR
 1 REFN 9e8f31ef-249c-4681-88bd-aa39769e3cc6
-1 REPO @0aJKtHRDQmatCERL9JPC@
+1 REPO @R1@
 1 TITL New York, State Census, 1865
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2014
 0 @7tJxBxhGR46VSVFwI4mZ@ SOUR
 1 REFN 8960520c-bf23-4c5d-b7c2-9e1440b74ff5
-1 REPO @0aJKtHRDQmatCERL9JPC@
+1 REPO @R1@
 1 TITL New York, State Census, 1875
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2013
 0 @S84@ SOUR
-1 REPO @0aJKtHRDQmatCERL9JPC@
+1 REPO @R1@
 1 TITL New York, State Census, 1892
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2012
 0 @6NcIzxfbRyyWNjNadTrG@ SOUR
 1 REFN 4ad5e1dd-9ac2-439f-8261-9a598dcd661b
-1 REPO @0aJKtHRDQmatCERL9JPC@
+1 REPO @R1@
 1 TITL New York, State Census, 1905
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2014
 0 @TGKTvmYkRIad5UXaC837@ SOUR
 1 REFN 5e486cbf-92ef-446c-bc91-3f00d8388184
-1 REPO @0aJKtHRDQmatCERL9JPC@
+1 REPO @R1@
 1 TITL New York, State Census, 1915
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2012
 0 @XwjA9DOQSF6Rp4tqv0Z2@ SOUR
 1 REFN 2976839b-db1c-4208-af62-0234cf305d19
-1 REPO @0aJKtHRDQmatCERL9JPC@
+1 REPO @R1@
 1 TITL New York, State Census, 1925
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2012
 0 @S96@ SOUR
-1 REPO @0aJKtHRDQmatCERL9JPC@
+1 REPO @R1@
 1 TITL New York, Town Clerks’ Registers of Men Who Served in the Ci
 2 CONC vil War, ca 1861-1865
 1 AUTH Ancestry.com
@@ -14162,77 +14194,77 @@
 1 AUTH St. Mary’s of the Lake Church (Watkins Glen, New York, USA)
 0 @w3Was8NjTqaJ1xyf2G1Y@ SOUR
 1 REFN e6fc4f55-0768-4528-929c-f1b367633e4e
-1 REPO @0aJKtHRDQmatCERL9JPC@
+1 REPO @R1@
 1 TITL Steuben County, New York Directory, 1891
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations Inc; Location: Provo, UT, USA; Date
 2 CONC : 2000
 0 @S83@ SOUR
-1 REPO @0aJKtHRDQmatCERL9JPC@
+1 REPO @R1@
 1 TITL U.S. Census Non-Population Schedules, New York, 1850-1880
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2010
 0 @S98@ SOUR
-1 REPO @0aJKtHRDQmatCERL9JPC@
+1 REPO @R4@
 1 TITL U.S. City Directories, 1822-1995
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2011
 0 @S99@ SOUR
-1 REPO @0aJKtHRDQmatCERL9JPC@
+1 REPO @R4@
 1 TITL U.S. Veterans' Gravesites, ca.1775-2006
 1 AUTH National Cemetery Administration
 1 PUBL Ancestry.com Operations Inc; Location: Provo, UT, USA; Date
 2 CONC : 2006
 0 @XO6j9SijRyGVeXfL600G@ SOUR
 1 REFN f9ceabcf-0b8a-452f-8756-0c7cca97e3d6
-1 REPO @0aJKtHRDQmatCERL9JPC@
+1 REPO @R1@
 1 TITL U.S., Civil War Draft Registrations Records, 1863-1865
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2010
 0 @S81@ SOUR
-1 REPO @0aJKtHRDQmatCERL9JPC@
+1 REPO @R1@
 1 TITL U.S., Civil War Pension Index: General Index to Pension File
 2 CONC s, 1861-1934
 1 AUTH National Archives and Records Administration
 1 PUBL Ancestry.com Operations Inc; Location: Provo, UT, USA; Date
 2 CONC : 2000
 0 @S78@ SOUR
-1 REPO @0aJKtHRDQmatCERL9JPC@
+1 REPO @R1@
 1 TITL U.S., Civil War Soldier Records and Profiles, 1861-1865
 1 AUTH Historical Data Systems, comp
 1 PUBL Ancestry.com Operations Inc; Location: Provo, UT, USA; Date
 2 CONC : 2009
 0 @S74@ SOUR
-1 REPO @0aJKtHRDQmatCERL9JPC@
+1 REPO @R1@
 1 TITL U.S., Find A Grave Index, 1600s-Current
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2012
 0 @Q8iDZeKCS1CzlZZGz67M@ SOUR
 1 REFN 74af6156-9a4c-4b71-8e25-c6310be25969
-1 REPO @0aJKtHRDQmatCERL9JPC@
+1 REPO @R1@
 1 TITL U.S., Indexed County Land Ownership Maps, 1860-1918
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2010
 0 @S100@ SOUR
-1 REPO @0aJKtHRDQmatCERL9JPC@
+1 REPO @R4@
 1 TITL U.S., Obituary Collection, 1930-2018
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations Inc; Location: Lehi, UT, USA; Date
 2 CONC : 2006
 0 @S82@ SOUR
-1 REPO @0aJKtHRDQmatCERL9JPC@
+1 REPO @R1@
 1 TITL U.S., Selected Federal Census Non-Population Schedules, 1850
 2 CONC -1880
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2010
 0 @S97@ SOUR
-1 REPO @0aJKtHRDQmatCERL9JPC@
+1 REPO @R4@
 1 TITL U.S., Social Security Applications and Claims Index, 1936-20
 2 CONC 07
 1 AUTH Ancestry.com
@@ -14240,14 +14272,14 @@
 2 CONC e: 2015
 0 @GBMDFX2WTtuAjoiA5QpK@ SOUR
 1 REFN 88eeb28b-101b-4ddc-a6b1-c0e913d3e8fa
-1 REPO @0aJKtHRDQmatCERL9JPC@
+1 REPO @R1@
 1 TITL U.S., Social Security Death Index, 1935-Current
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations Inc; Location: Provo, UT, USA; Date
 2 CONC : 2011
 0 @1yLmCieuQLi5Xq8U1nQe@ SOUR
 1 REFN f804d24c-5c5a-466b-8461-10617a3e29eb
-1 REPO @0aJKtHRDQmatCERL9JPC@
+1 REPO @R1@
 1 TITL U.S., World War I Draft Registration Cards, 1917-1918
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations Inc; Location: Provo, UT, USA; Date
@@ -14960,7 +14992,7 @@
 1 AUTH USA. New York. Steuben, County of.
 0 @e0k10AjRSSyDnTOmeiMT@ SOUR
 1 REFN 4180cfb4-b0b5-476b-a3a3-b85b6410a690
-1 REPO @0aJKtHRDQmatCERL9JPC@
+1 REPO @R1@
 1 TITL Web: New York, Find A Grave Index, 1660-2012
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
@@ -15234,15 +15266,6 @@
 3 CONC : 1161; Page: 16A; Enumeration District: 0047; FHL microfilm
 3 CONC : 1241161
 1 REFN 95792508-094d-4ac8-9496-550e7b8f0cee
-0 @uRuFOPY0TxGShTYODOln@ OBJE
-1 FILE C:\Users\vagrant\Documents\Family Tree Maker\McLaughlin Medi
-2 CONC a\1910 United States Federal Census(21).jpg
-2 FORM jpg
-2 TITL 1910 United States Federal Census
-2 _TEXT Year: 1910; Census Place: Arcadia, Wayne, New York; Roll: T6
-3 CONC 24_1094; Page: 15A; Enumeration District: 0125; FHL microfil
-3 CONC m: 1375107
-1 REFN 9ca1dc12-997d-4efb-a915-4ad6a9112a17
 0 @WBZZAwP9SxisBni4wxdS@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\McLaughlin Medi
 2 CONC a\1910 United States Federal Census(23).jpg
@@ -16403,4 +16426,10 @@
 2 TITL New York State, Marriage Index, 1881-1967
 2 _TEXT New York State Department of Health; Albany, NY, USA; New Yo
 3 CONC rk State Marriage Index
+0 @M207@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\McLaughlin Medi
+2 CONC a\New York, County Marriage Records, 1847-1849, 1907-1936(5)
+2 CONC .jpg
+2 FORM jpg
+2 TITL New York, County Marriage Records, 1847-1849, 1907-1936
 0 TRLR
