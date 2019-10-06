@@ -3,7 +3,7 @@
 1 GEDC
 2 VERS 5.5.1
 2 FORM LINEAGE-LINKED
-1 COPR Copyright © 1998–2018, Christopher Alan Mosher, Shelton, CT
+1 COPR Copyright © 1998–2019, Christopher Alan Mosher, Shelton, CT
 2 CONC , USA.
 1 SUBM @Umy2qBWIRUiwVSS6Hcn4@
 1 SOUR FTM
@@ -14,9 +14,9 @@
 4 CONT Boston, MA 02109
 3 PHON (617) 227-6681
 1 DEST FTM
-1 FILE Flandreau_2018-10-10-02-45-56.ftm.ged
-1 DATE 10 OCT 2018
-2 TIME 02:46:47
+1 FILE Flandreau_2019-10-06-20-04-29.ftm.ged
+1 DATE 06 OCT 2019
+2 TIME 20:05:42
 0 @Umy2qBWIRUiwVSS6Hcn4@ SUBM
 1 NAME Christopher Alan Mosher
 2 EMAIL cmosher01@@gmail.com
@@ -1777,6 +1777,8 @@
 5 CONC &pid=68
 2 SOUR @n9ZLX58uQbCVvrAZmPrW@
 3 QUAY 2
+3 OBJE @M244@
+3 OBJE @M245@
 2 SOUR @geO34Er0TvS5JLxZZumu@
 3 _APID 1,7854::127163
 2 SOUR @QaqCF8wxTimm9a1xEjtP@
@@ -1917,6 +1919,8 @@
 3 _APID 1,7602::48792509
 2 SOUR @n9ZLX58uQbCVvrAZmPrW@
 3 QUAY 2
+3 OBJE @M244@
+3 OBJE @M245@
 2 SOUR @QaqCF8wxTimm9a1xEjtP@
 3 _APID 1,9131::984304
 2 SOUR @5HpNkdKxRpywhpfbWhQv@
@@ -2293,6 +2297,8 @@
 2 PLAC 1012 Lafayette Avenue, Brooklyn, Kings, New York, USA
 2 SOUR @n9ZLX58uQbCVvrAZmPrW@
 3 QUAY 3
+3 OBJE @M244@
+3 OBJE @M245@
 2 SOUR @QaqCF8wxTimm9a1xEjtP@
 3 _APID 1,9131::984304
 2 SOUR @nkYfcWppQRmCN8cgnuhg@
@@ -2331,6 +2337,8 @@
 3 CONC nx, New York, USA
 2 SOUR @n9ZLX58uQbCVvrAZmPrW@
 3 QUAY 2
+3 OBJE @M244@
+3 OBJE @M245@
 2 SOUR @VXO82VuYTNC0IE3Itxgy@
 3 _APID 1,60525::135574921
 2 NOTE Spring Lake Plot, Section 9, Plot 317.
@@ -3292,6 +3300,8 @@
 3 _APID 1,7667::49483791
 2 SOUR @n9ZLX58uQbCVvrAZmPrW@
 3 QUAY 2
+3 OBJE @M244@
+3 OBJE @M245@
 2 SOUR @Bv78LQCqQkWD9v3CH9xc@
 3 OBJE @IjXt20iST4aKWQ3YSeRl@
 3 _APID 1,3032::682673
@@ -8447,6 +8457,8 @@
 3 _APID 1,6742::4863656
 2 SOUR @n9ZLX58uQbCVvrAZmPrW@
 3 QUAY 2
+3 OBJE @M244@
+3 OBJE @M245@
 2 SOUR @Bv78LQCqQkWD9v3CH9xc@
 3 OBJE @NyDNJGJZQLuvYcRmPzsz@
 3 _APID 1,3032::685338
@@ -12514,6 +12526,7 @@
 4 LONG W71.9059
 2 SOUR @vdcPBat6QImcLNr17ek0@
 3 OBJE @R0vbbh3oQu2Gf8laUfDn@
+3 _APID 1,3824::38989
 0 @HPfZfDFhQzafEoq7Y6JB@ FAM
 1 REFN 5ee3162a-f553-4b2f-9dfb-8594438a74e7
 1 HUSB @LPF0fbgqSw6Isqye6KZc@
@@ -14699,9 +14712,7 @@
 1 TITL Certificate of death, Flandreau, Elijah Potter, Number 12282
 1 AUTH Department of Health, New York, NY, USA
 1 PUBL 22 Jun 1906, NY
-1 TEXT <img src="mosher_files/flandreau_elijah_death_p1.jpg"><img s
-2 CONC rc="mosher_files/flandreau_elijah_death_p2.jpg"><br />
-2 CONT STATE OF NEW YORK.<br />
+1 TEXT STATE OF NEW YORK.<br />
 2 CONT THE CITY OF NEW YORK.<br />
 2 CONT DEPARTMENT OF HEALTH.<br />
 2 CONT No. of Certificate, 12282<br />
@@ -18048,4 +18059,16 @@
 3 CONC olutionary War; Record Group Title: War Department Collectio
 3 CONC n of Revolutionary War Records; Record Group Number: 93; Ser
 3 CONC ies Number: M881
+0 @M244@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Flandreau Media
+2 CONC \flandreau_elijah_death_p1.jpg
+2 FORM jpg
+2 TITL flandreau_elijah_death_p1
+2 _DATE 10/6/2019 8:03:01 PM
+0 @M245@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Flandreau Media
+2 CONC \flandreau_elijah_death_p2.jpg
+2 FORM jpg
+2 TITL flandreau_elijah_death_p2
+2 _DATE 10/6/2019 8:03:01 PM
 0 TRLR
