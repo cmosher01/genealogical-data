@@ -14,9 +14,9 @@
 4 CONT Boston, MA 02109
 3 PHON (617) 227-6681
 1 DEST FTM
-1 FILE Murray_Lougheed_Wilson_Vandever_2019-10-06-18-47-29.ftm.ged
+1 FILE Murray_Lougheed_Wilson_Vandever_2019-10-06-19-22-49.ftm.ged
 1 DATE 06 OCT 2019
-2 TIME 18:53:28
+2 TIME 19:23:33
 0 @Umy2qBWIRUiwVSS6Hcn4@ SUBM
 1 NAME Christopher Alan Mosher
 2 EMAIL cmosher01@@gmail.com
@@ -40,6 +40,7 @@
 1 LANG English
 1 RIN Umy2qBWIRUiwVSS6Hcn4
 0 @I93@ INDI
+1 REFN 66b7d17b-65a4-4c02-b582-f37d98d0107c
 1 NAME Mercy /Booth/
 1 SEX F
 1 FAMS @F14@
@@ -50,6 +51,7 @@
 2 DATE 1722
 2 PLAC New Castle, New Castle, Delaware, United States
 0 @I201@ INDI
+1 REFN ad68671f-f142-4401-beb7-32086af63e3a
 1 NAME Mary Ann /Bradley/
 2 SOUR @S51@
 1 SEX F
@@ -89,6 +91,7 @@
 3 CONC , USA
 2 SOUR @S40@
 0 @I10@ INDI
+1 REFN 71372d88-93e8-4169-b415-33769e02fa4e
 1 NAME Maggie /Closs/
 2 SOUR @S5@
 3 PAGE Year: 1880; Census Place: Brandywine, New Castle, Delaware
@@ -122,6 +125,7 @@
 2 NOTE Age: 39; Marital Status: Married; Relation to Head of House
 3 CONC : Wife
 0 @I54@ INDI
+1 REFN ca6f783f-6065-4822-a7e8-9328ac2e9a98
 1 NAME Nathaniel /Cloud/
 2 SOUR @S2@
 3 PAGE Delaware Public Archives; Dover, Delaware; Delaware Vital Re
@@ -131,6 +135,7 @@
 1 SEX M
 1 FAMS @F11@
 0 @I16@ INDI
+1 REFN 986cdbd7-5414-471c-a751-b83a23a5800f
 1 NAME Rachel /Cloud/
 2 SOUR @S5@
 3 PAGE Year: 1880; Census Place: South Chester, Delaware, Pennsylva
@@ -162,9 +167,13 @@
 3 OBJE @M10@
 3 _APID 1,1674::143375
 2 SOUR @S8@
-3 OBJE @M8@
-2 SOUR @S8@
+3 PAGE 1896
 3 OBJE @M9@
+3 _APID 1,2469::1051609743
+2 SOUR @S8@
+3 PAGE 1904
+3 OBJE @M8@
+3 _APID 1,2469::1049102307
 2 SOUR @S6@
 1 SEX F
 1 FAMC @F11@
@@ -243,6 +252,7 @@
 4 LATI N39.7459
 4 LONG W75.5466
 2 SOUR @S8@
+3 PAGE 1904
 3 OBJE @M8@
 3 _APID 1,2469::1049102307
 1 RESI
@@ -285,11 +295,13 @@
 3 OBJE @M10@
 3 _APID 1,1674::143375
 0 @I52@ INDI
+1 REFN b129b53e-bbd9-44c7-8cc3-357ff18ccf51
 1 NAME [unknown] /Cloud/
 1 SEX M
 1 FAMS @F10@
 1 NOTE _XY 1104 367  _UID 0ef103fc-f8b0-4ade-a1b8-b933132384bc
 0 @I31@ INDI
+1 REFN 71064c30-7a93-4735-972f-2c10487f5746
 1 NAME Sophia /Corey/
 2 SOUR @S3@
 1 SEX F
@@ -300,6 +312,7 @@
 2 PLAC VT, USA
 2 SOUR @S3@
 0 @I139@ INDI
+1 REFN dec0d9da-e172-4d29-a7a2-ae765883a9a8
 1 NAME Rebecca /Day/
 1 SEX F
 1 FAMS @F24@
@@ -310,6 +323,7 @@
 2 DATE 08 APR 1838
 2 PLAC New Castle, New Castle, Delaware, United States
 0 @I77@ INDI
+1 REFN 37d0b490-3ca4-4b29-818b-5b586048ec92
 1 NAME Anna /Grubb/
 1 SEX F
 1 FAMC @F19@
@@ -319,6 +333,7 @@
 1 DEAT
 2 DATE 29 SEP 1758
 0 @I85@ INDI
+1 REFN 3059796a-a94d-46de-905a-59449f849738
 1 NAME Charity /Grubb/
 1 SEX F
 1 FAMC @F12@
@@ -329,6 +344,7 @@
 2 DATE 22 NOV 1761
 2 PLAC Center Mm, Guilford Co, NC
 0 @I84@ INDI
+1 REFN 5e422132-f396-4f50-b362-91ff6a893c8d
 1 NAME David /Grubb/
 1 SEX M
 1 FAMC @F12@
@@ -339,6 +355,7 @@
 2 DATE 04 MAR 1686
 2 PLAC Burlington, Burlington, New Jersey, United States
 0 @I75@ INDI
+1 REFN 7fd652ec-5dbc-4aa4-bf95-f61d7570635d
 1 NAME Ebenezer /Grubb/
 1 SEX M
 1 FAMC @F19@
@@ -349,6 +366,7 @@
 2 DATE 1747
 2 PLAC Brandywine, New Castle, Delaware, United States
 0 @I68@ INDI
+1 REFN 60d6d0c6-271a-49c1-85e3-038ea6604c04
 1 NAME Elizabeth /Grubb/
 1 SEX F
 1 FAMC @F12@
@@ -359,6 +377,7 @@
 2 DATE 1730
 2 PLAC West Nottingham, Chester, Pennsylvania, United States
 0 @I82@ INDI
+1 REFN 11af96ee-d3e7-4788-90af-995279e843b9
 1 NAME Emanuel /Grubb/
 1 SEX M
 1 FAMC @F12@
@@ -372,6 +391,7 @@
 4 LATI N39.8193
 4 LONG W75.4185
 0 @I72@ INDI
+1 REFN 4103b0e2-b071-4b29-a72c-9f117e50516b
 1 NAME Hannah /Grubb/
 1 SEX F
 1 FAMC @F12@
@@ -381,6 +401,7 @@
 1 DEAT
 2 DATE 14 OCT 1744
 0 @I137@ INDI
+1 REFN eb22f28c-3201-492b-b983-a4abc527536d
 1 NAME Hannah /Grubb/
 1 SEX F
 1 FAMC @F19@
@@ -392,6 +413,7 @@
 2 DATE 1747
 2 PLAC Brandywine Hundred, New Castle, Delaware, United States
 0 @I130@ INDI
+1 REFN f46b8921-8d00-4c25-9bd7-0bc7035156e1
 1 NAME Hannah /Grubb/
 1 SEX F
 1 FAMS @F20@
@@ -402,6 +424,7 @@
 2 DATE 1744
 2 PLAC Newcastle, Lincoln, Maine, United States
 0 @I87@ INDI
+1 REFN 54ddece5-6b9b-48da-b579-e0281a6bea1f
 1 NAME Henry /Grubb/
 1 SEX M
 1 FAMC @F12@
@@ -412,6 +435,7 @@
 2 DATE 03 JUL 1770
 2 PLAC Wilmington, New Castle, Delaware, United States
 0 @I91@ INDI
+1 REFN dd907e0d-c5f3-4287-927b-a9f8cd42544e
 1 NAME Henry /Grubb/
 1 SEX M
 1 FAMC @F19@
@@ -422,6 +446,7 @@
 2 DATE 1788
 2 PLAC Brandywine, New Castle, Delaware, United States
 0 @I90@ INDI
+1 REFN 4dd99ce0-0563-4d83-9d91-06c2cad5ed95
 1 NAME Jesse /Grubb/
 1 SEX M
 1 FAMC @F19@
@@ -429,6 +454,7 @@
 2 DATE 1732
 2 PLAC Arden, New Castle, Delaware, United States
 0 @I83@ INDI
+1 REFN 43119d51-38a4-4626-b231-2a0f8f0fe10e
 1 NAME John /Grubb/
 1 SEX M
 1 FAMC @F12@
@@ -439,6 +465,7 @@
 2 DATE 15 MAR 1758
 2 PLAC Wilmington, New Castle, Delaware, United States
 0 @I76@ INDI
+1 REFN a579ef53-80da-4cf8-bd4d-28a9e80b7364
 1 NAME John /Grubb/
 1 SEX M
 1 FAMC @F19@
@@ -446,6 +473,7 @@
 2 DATE 1722
 2 PLAC Brandywine Hundred Now Arden, Germany
 0 @I79@ INDI
+1 REFN bfd49d4b-3856-4cd7-8323-b38c56e37b3b
 1 NAME John Henry /Grubb/
 1 SEX M
 1 FAMS @F12@
@@ -462,6 +490,7 @@
 4 LATI N39.8193
 4 LONG W75.4185
 0 @I127@ INDI
+1 REFN 070f4e52-d546-4f26-b72a-fd32d73ed14a
 1 NAME Joseph /Grubb/
 1 SEX M
 1 FAMC @F12@
@@ -476,6 +505,7 @@
 4 LATI N39.8294
 4 LONG W75.5347
 0 @I89@ INDI
+1 REFN 2dfa5887-6ecd-4d62-a607-d9f829ca3972
 1 NAME Joseph /Grubb/
 1 SEX M
 1 FAMC @F19@
@@ -485,6 +515,7 @@
 1 DEAT
 2 DATE 1761
 0 @I86@ INDI
+1 REFN 1c61fee2-01d5-4e30-a917-19f3326d1c0b
 1 NAME Mary /Grubb/
 1 SEX F
 1 FAMC @F12@
@@ -492,6 +523,7 @@
 2 DATE 06 JAN 1687
 2 PLAC Burlington, Burlington, New Jersey, United States
 0 @I69@ INDI
+1 REFN d16bd2d0-9000-414b-a5aa-b6f6b80b9161
 1 NAME Nathaniel /Grubb/
 1 SEX M
 1 FAMC @F12@
@@ -502,6 +534,7 @@
 2 DATE 1760
 2 PLAC Grubbs Mill, Chester, Pennsylvania, United States
 0 @I71@ INDI
+1 REFN cc461dfe-2c5f-4255-a265-62d90ff8fe99
 1 NAME Peter /Grubb/
 1 SEX M
 1 FAMC @F12@
@@ -512,6 +545,7 @@
 2 DATE 02 AUG 1740
 2 PLAC Wilmington, New Castle, Delaware, United States
 0 @I81@ INDI
+1 REFN a5393208-fc79-46eb-a24b-67006e957bed
 1 NAME Phebe /Grubb/
 1 SEX F
 1 FAMC @F12@
@@ -524,6 +558,7 @@
 1 DEAT
 2 DATE 29 SEP 1687
 0 @I70@ INDI
+1 REFN 801d72bf-1940-4667-9089-87954400442d
 1 NAME Phebe /Grubb/
 1 SEX F
 1 FAMC @F12@
@@ -534,6 +569,7 @@
 2 DATE 04 MAY 1769
 2 PLAC New Castle, Chester, Pennsylvania, United States
 0 @I73@ INDI
+1 REFN eeba10fb-d97f-497b-8218-268b421a1952
 1 NAME Richard /Grubb/
 1 SEX M
 1 FAMC @F12@
@@ -541,6 +577,7 @@
 2 DATE 1704
 2 PLAC Delaware, Pennsylvania, United States
 0 @I74@ INDI
+1 REFN b8ff5d85-21b7-4c5a-8e15-1328f29df205
 1 NAME Samual /Grubb/
 1 SEX M
 1 FAMC @F12@
@@ -557,6 +594,7 @@
 4 LATI N39.5806
 4 LONG W75.638
 0 @I88@ INDI
+1 REFN 08db14bb-43a0-4fad-85f8-b6fd7582e437
 1 NAME William /Grubb/
 1 SEX M
 1 FAMC @F19@
@@ -573,6 +611,7 @@
 4 LATI N39.8294
 4 LONG W75.5347
 0 @I151@ INDI
+1 REFN e7424d89-b007-4493-b28b-489edcdc4ca5
 1 NAME Adam T /Hanby/
 1 SEX M
 1 FAMC @F6@
@@ -583,6 +622,7 @@
 2 DATE 1864
 2 PLAC Brooklyn, Kings, New York, United States
 0 @I149@ INDI
+1 REFN c37bbc09-fc1e-4218-aca9-ba83087f97ce
 1 NAME Charity /Hanby/
 1 SEX F
 1 FAMC @F6@
@@ -590,6 +630,7 @@
 2 DATE 1822
 2 PLAC Delaware, United States
 0 @I154@ INDI
+1 REFN bf204cf7-f742-43c9-aca2-880aa92f9856
 1 NAME Charlotte /Hanby/
 1 SEX F
 1 FAMC @F6@
@@ -597,6 +638,7 @@
 2 DATE 10 MAY 1842
 2 PLAC New Castle, New Castle, Delaware, United States
 0 @I150@ INDI
+1 REFN 1160c975-0515-49e4-8655-5ffc440a89f4
 1 NAME John /Hanby/
 1 SEX M
 1 FAMC @F6@
@@ -604,12 +646,14 @@
 2 DATE 01 MAR 1828
 2 PLAC New Castle, New Castle, Delaware, United States
 0 @I157@ INDI
+1 REFN 5905a168-969b-4749-ace0-9f3a0e78fbb5
 1 NAME Louisa /Hanby/
 1 SEX F
 1 FAMC @F6@
 1 DEAT
 2 PLAC died young
 0 @I156@ INDI
+1 REFN 6c2906c2-3a08-4656-9a5d-e43fea660097
 1 NAME Mary Elizabeth /Hanby/
 1 SEX F
 1 FAMC @F6@
@@ -617,6 +661,7 @@
 2 DATE 01 DEC 1847
 2 PLAC New Castle, New Castle, Delaware, United States
 0 @I155@ INDI
+1 REFN 351fa371-a969-41df-9c61-0a876e8ac9a2
 1 NAME Priscilla /Hanby/
 1 SEX F
 1 FAMC @F6@
@@ -626,6 +671,7 @@
 1 DEAT
 2 DATE 1899
 0 @I153@ INDI
+1 REFN d72028c0-8122-411b-83b6-e7860f0e449e
 1 NAME Rachel Ann /Hanby/
 1 SEX F
 1 FAMC @F6@
@@ -636,6 +682,7 @@
 2 DATE 1877
 2 PLAC Delaware, United States
 0 @I21@ INDI
+1 REFN a2d81153-1a9d-44dd-bfe0-f0aa79666948
 1 NAME Rebecca /Hanby/
 2 SOUR @S13@
 3 PAGE Year: 1850; Census Place: Division 1, New Castle, Delaware
@@ -666,6 +713,7 @@
 3 _APID 1,8054::19335545
 2 NOTE Age: 19
 0 @I27@ INDI
+1 REFN ce2ef273-0adf-4c3d-9770-38bbd6aa3c28
 1 NAME William C. /Hanby/
 1 SEX M
 1 FAMS @F6@
@@ -676,6 +724,7 @@
 2 DATE 01 AUG 1885
 2 PLAC Brandywine Hundred, New Castle, Delaware, United States
 0 @I152@ INDI
+1 REFN 9f7d22eb-666a-4150-bed0-fc339a23ff67
 1 NAME William H. /Hanby/
 1 SEX M
 1 FAMC @F6@
@@ -685,6 +734,7 @@
 1 DEAT
 2 DATE 1885
 0 @I120@ INDI
+1 REFN 2776335c-047f-4366-a122-3c4e35c39119
 1 NAME Elinor /Jansen/
 1 SEX F
 1 FAMS @F18@
@@ -695,6 +745,7 @@
 2 DATE 1722
 2 PLAC Brandywine Hundred, Delaware
 0 @I116@ INDI
+1 REFN 1269473f-59a3-4ac2-b85e-71bdf120db2e
 1 NAME Eleanor /Johnson/
 1 SEX F
 1 FAMS @F17@
@@ -705,6 +756,7 @@
 2 DATE 1732
 2 PLAC New Castle, New Castle, Delaware, United States
 0 @I107@ INDI
+1 REFN d4eec0dc-8cc3-4ee5-b22a-df25f0b40349
 1 NAME Maria /Justis/
 1 SEX F
 1 FAMS @F16@
@@ -714,6 +766,7 @@
 2 DATE ABT 1790
 2 PLAC Delaware, United States
 0 @I183@ INDI
+1 REFN f7f896c8-25cc-4312-94d8-d7b48a5b86e7
 1 NAME John W. Abraham /Langford/
 1 SEX M
 1 FAMS @F29@
@@ -754,6 +807,7 @@
 1 EVEN
 2 TYPE note
 0 @I206@ INDI
+1 REFN 731500c8-48db-4509-a79e-e4804381a517
 1 NAME Amanda /Lankford/
 2 SOUR @S47@
 1 SEX F
@@ -764,6 +818,7 @@
 2 PLAC MD, USA
 2 SOUR @S47@
 0 @I190@ INDI
+1 REFN 34c948a9-082e-4d5b-88a5-25020bc39e03
 1 NAME George H. /Lankford/
 2 SOUR @S48@
 2 SOUR @S43@
@@ -778,6 +833,7 @@
 2 PLAC DE, USA
 2 SOUR @S40@
 0 @I205@ INDI
+1 REFN 76f58a09-78cc-4280-b393-829111e97aaf
 1 NAME Harriet /Lankford/
 2 SOUR @S48@
 2 SOUR @S43@
@@ -789,6 +845,7 @@
 2 PLAC MD, USA
 2 SOUR @S47@
 0 @I189@ INDI
+1 REFN 4fc89a5e-cb64-45bc-9439-05b0a8ab2d01
 1 NAME Ida C. /Lankford/
 2 SOUR @S48@
 2 SOUR @S43@
@@ -801,6 +858,7 @@
 2 SOUR @S48@
 2 SOUR @S43@
 0 @I207@ INDI
+1 REFN 386c5c22-6d82-4c36-abfb-c2f46677f31b
 1 NAME John /Lankford/
 2 SOUR @S47@
 1 SEX M
@@ -811,6 +869,7 @@
 2 PLAC MD, USA
 2 SOUR @S47@
 0 @I202@ INDI
+1 REFN 39dd50a0-cf9d-40d2-a2f6-e5f2eac0f75d
 1 NAME Mary E. /Lankford/
 2 SOUR @S46@
 1 SEX F
@@ -821,6 +880,7 @@
 2 PLAC MD, USA
 2 SOUR @S46@
 0 @I203@ INDI
+1 REFN 83ca7698-05bf-44af-a96b-9bb21b5b3589
 1 NAME Rebecca E. /Lankford/
 2 SOUR @S46@
 1 SEX F
@@ -831,6 +891,7 @@
 2 PLAC MD, USA
 2 SOUR @S46@
 0 @I167@ INDI
+1 REFN 4ba9e0ee-d96e-4cfa-a9f4-eb212b8733e6
 1 NAME Sarah A. /Lankford/
 2 SOUR @S19@
 2 SOUR @S19@
@@ -872,6 +933,7 @@
 3 CONC , USA
 2 SOUR @S40@
 0 @I188@ INDI
+1 REFN 597fa8c3-0e95-434f-ba1c-203a474c9fcd
 1 NAME Thomas /Lankford/
 2 SOUR @S47@
 1 SEX M
@@ -882,6 +944,7 @@
 2 PLAC MD, USA
 2 SOUR @S47@
 0 @I204@ INDI
+1 REFN d01a8957-e640-44b2-8ada-4c85f14bb833
 1 NAME William W. /Lankford/
 2 SOUR @S46@
 1 SEX M
@@ -892,6 +955,7 @@
 2 PLAC MD, USA
 2 SOUR @S46@
 0 @I9@ INDI
+1 REFN e4400668-30d0-46d9-8c1f-f4d8f920e610
 1 NAME John /Laughead/
 2 SOUR @S4@
 3 PAGE Year: 1870; Census Place: Bethel, Delaware, Pennsylvania; Ro
@@ -948,6 +1012,7 @@
 2 NOTE Age: 42; Marital Status: Married; Relation to Head of House
 3 CONC : Self
 0 @I12@ INDI
+1 REFN 8f187433-e4b5-437a-b72c-979a7507367d
 1 NAME Robert /Laughead/
 2 SOUR @S3@
 1 SEX M
@@ -958,6 +1023,7 @@
 2 PLAC Ireland, UK
 2 SOUR @S3@
 0 @I13@ INDI
+1 REFN d85ecca1-094e-4b4a-abc8-4435fe1c7f9c
 1 NAME Robert /Laughead/
 2 SOUR @S3@
 1 SEX M
@@ -968,6 +1034,7 @@
 2 PLAC Ireland, USA
 2 SOUR @S3@
 0 @I14@ INDI
+1 REFN d1c8ac8b-b693-4677-a952-fd40cf636850
 1 NAME William /Laughead/
 2 SOUR @S3@
 1 SEX M
@@ -977,6 +1044,7 @@
 2 DATE JUL 1833
 2 SOUR @S3@
 0 @I35@ INDI
+1 REFN 86ac8b8f-0882-4fea-bfc4-d18f1b5ba09a
 1 NAME Caroline Anna /Lougheed/
 2 SOUR @S3@
 1 SEX F
@@ -990,6 +1058,7 @@
 1 NAME [REDACTED]
 1 FAMC @F25@
 0 @I176@ INDI
+1 REFN 0bcbbdb5-1f52-45bd-b401-184fab814f19
 1 NAME Charles Robert /Lougheed/
 2 SOUR @S9@
 3 PAGE Year: 1910; Census Place: Wilmington Ward 11, New Castle, De
@@ -1034,6 +1103,7 @@
 2 DATE SEP 1965
 2 SOUR @S3@
 0 @I33@ INDI
+1 REFN 5b91eaa4-b7df-43d1-9f98-f7a2b41dd1cc
 1 NAME Edwin Clenden /Lougheed/
 2 SOUR @S3@
 1 SEX M
@@ -1044,6 +1114,7 @@
 2 PLAC DE, USA
 2 SOUR @S3@
 0 @I177@ INDI
+1 REFN 29df1574-7f34-45d5-b047-f0117984159b
 1 NAME George G. /Lougheed/
 2 SOUR @S9@
 3 PAGE Year: 1910; Census Place: Wilmington Ward 11, New Castle, De
@@ -1077,6 +1148,7 @@
 2 NOTE Age: 5; Marital Status: Single; Relation to Head of House: S
 3 CONC on
 0 @I7@ INDI
+1 REFN f3239daa-aef5-49a4-a9f9-8ba559b698e1
 1 NAME Harriet /Lougheed/
 2 SOUR @S2@
 3 PAGE Delaware Public Archives; Dover, Delaware; Delaware Vital Re
@@ -1110,6 +1182,7 @@
 3 OBJE @M3@
 3 _APID 1,1674::140534
 0 @I36@ INDI
+1 REFN d63f1e76-91c2-4b5d-88fe-1c54aae8afd8
 1 NAME Ida /Lougheed/
 2 SOUR @S3@
 1 SEX F
@@ -1120,6 +1193,7 @@
 2 PLAC NJ, USA
 2 SOUR @S3@
 0 @I174@ INDI
+1 REFN 11bce680-d948-4c74-9ff3-a85ff6b90c68
 1 NAME Jeannette May /Lougheed/
 2 SOUR @S9@
 3 PAGE Year: 1910; Census Place: Wilmington Ward 11, New Castle, De
@@ -1156,7 +1230,7 @@
 1 SEX F
 1 FAMC @F25@
 1 FAMS @F26@
-1 FAMS @F33@
+1 FAMS @F175@
 1 NOTE _XY 1454 591  _UID 0a9e4e3b-66ef-4de6-90d5-eab2378eed61
 1 BIRT
 2 DATE 06 JUN 1908
@@ -1239,6 +1313,7 @@
 4 LONG W75.5466
 2 SOUR @S3@
 0 @I32@ INDI
+1 REFN 259fbb2b-6157-4611-8c71-17f0694c1327
 1 NAME John Lewis /Lougheed/
 2 SOUR @S3@
 1 SEX M
@@ -1252,6 +1327,7 @@
 2 DATE SEP 1965
 2 SOUR @S3@
 0 @I11@ INDI
+1 REFN 5f248584-05a2-496b-822f-1623d375fb87
 1 NAME John W. /Lougheed/
 2 SOUR @S3@
 1 SEX M
@@ -1262,6 +1338,7 @@
 2 PLAC MD, USA
 2 SOUR @S3@
 0 @I30@ INDI
+1 REFN 76f3cd92-2104-4854-b8e2-d5068e7d0a80
 1 NAME Joseph L. /Lougheed/
 2 SOUR @S5@
 3 PAGE Year: 1880; Census Place: Brandywine, New Castle, Delaware
@@ -1296,6 +1373,7 @@
 2 NOTE Age: 12; Marital Status: Single; Relation to Head of House
 3 CONC : Son
 0 @I37@ INDI
+1 REFN 7536d8cf-2056-45ac-8fef-c19840a783c9
 1 NAME Joseph Lewis /Lougheed/
 2 SOUR @S3@
 1 SEX M
@@ -1306,6 +1384,7 @@
 2 PLAC Newark, New Castle, DE, USA
 2 SOUR @S3@
 0 @I34@ INDI
+1 REFN 82fb9472-4992-42a5-9a30-731c230c65a0
 1 NAME Mary Elizabeth /Lougheed/
 2 SOUR @S3@
 1 SEX F
@@ -1316,6 +1395,7 @@
 2 PLAC Wilmington, New Castle, DE, USA
 2 SOUR @S3@
 0 @I8@ INDI
+1 REFN 836b5f1a-4e26-449b-b5cb-56027849981f
 1 NAME Sophia /Lougheed/
 2 SOUR @S3@
 1 SEX F
@@ -1326,6 +1406,7 @@
 2 PLAC DE, USA
 2 SOUR @S3@
 0 @I29@ INDI
+1 REFN 4d5400e0-9ea2-471f-b71d-6710f1e0244a
 1 NAME William V. /Lougheed/
 2 SOUR @S3@
 1 SEX M
@@ -1339,6 +1420,7 @@
 2 DATE 13 JUN 1993
 2 SOUR @S3@
 0 @I187@ INDI
+1 REFN c3dfdc11-aae3-4944-9ea8-50089955f3ef
 1 NAME Sarah D. /Lynch/
 2 SOUR @S5@
 3 PAGE Year: 1880; Census Place: Lewes and Rehoboth, Sussex, Delawa
@@ -1411,6 +1493,7 @@
 2 PLAC Sussex, DE, USA
 2 SOUR @S10@
 0 @I118@ INDI
+1 REFN f33605b8-262b-4a3a-9459-5b1bac6ddbfa
 1 NAME Magdalena //
 1 SEX F
 1 FAMS @F22@
@@ -1419,6 +1502,7 @@
 1 DEAT
 2 DATE 1790
 0 @I55@ INDI
+1 REFN 9da06c5d-5885-4991-b2b4-9405f1b2dc7d
 1 NAME Jane /Marriner/
 2 SOUR @S12@
 3 PAGE Ancestry Family Tree
@@ -1428,6 +1512,7 @@
 1 SEX F
 1 FAMS @F8@
 0 @I160@ INDI
+1 REFN 4c814ea6-aa70-4c64-9060-b2117396fac5
 1 NAME Allec /Murray/
 2 SOUR @S7@
 3 PAGE Year: 1900; Census Place: Lewis and Rehobeth, Sussex, Delawa
@@ -1463,6 +1548,7 @@
 1 NAME [REDACTED]
 1 FAMC @F26@
 0 @I185@ INDI
+1 REFN a2968402-8c57-4049-a6c3-fea54c765dbf
 1 NAME Dorris /Murray/
 2 SOUR @S27@
 3 PAGE Year: 1920; Census Place: Rehoboth Beach, Sussex, Delaware
@@ -1498,6 +1584,7 @@
 2 NOTE Age: 11Marital Status: Single; Relation to Head of House: Da
 3 CONC ughter
 0 @I184@ INDI
+1 REFN 17f6de95-e3f5-4b0d-a48b-9b3aeda2aec7
 1 NAME Edna E. /Murray/
 2 SOUR @S27@
 3 PAGE Year: 1920; Census Place: Rehoboth Beach, Sussex, Delaware
@@ -1533,6 +1620,7 @@
 2 NOTE Age: 17Marital Status: Single; Relation to Head of House: Da
 3 CONC ughter
 0 @I56@ INDI
+1 REFN 265cfde8-763e-4dd6-b90f-d783db505ef5
 1 NAME Edward /Murray/
 2 SOUR @S12@
 3 PAGE Ancestry Family Tree
@@ -1542,6 +1630,7 @@
 1 SEX M
 1 FAMC @F26@
 0 @I164@ INDI
+1 REFN 34919f20-bc51-42cc-80af-186ec59f6e98
 1 NAME Edward /Murray/
 2 SOUR @S54@
 1 SEX M
@@ -1552,6 +1641,7 @@
 2 PLAC DE, USA
 2 SOUR @S54@
 0 @I179@ INDI
+1 REFN c05c834b-11ae-455a-af60-1a442d84e5da
 1 NAME Edward Lynch /Murray/
 2 SOUR @S9@
 3 PAGE Year: 1910; Census Place: Wilmington Ward 9, New Castle, Del
@@ -1721,6 +1811,7 @@
 3 _APID 1,70734::3087666
 1 SSN 221-03-6804
 0 @I166@ INDI
+1 REFN 957b1189-5d98-4b96-8f31-d47c6f9bbd53
 1 NAME Effa I. D. /Murray/
 2 SOUR @S54@
 1 SEX F
@@ -1731,6 +1822,7 @@
 2 PLAC DE, USA
 2 SOUR @S54@
 0 @I180@ INDI
+1 REFN 90352587-551a-439c-8fb6-3ebb10ba9e3a
 1 NAME George Malloy /Murray/
 2 SOUR @S5@
 3 PAGE Year: 1880; Census Place: Lewes and Rehoboth, Sussex, Delawa
@@ -1844,10 +1936,6 @@
 2 DATE ABT 1917
 2 PLAC Lewes, Sussex, DE, USA
 2 SOUR @S35@
-1 RESI
-2 DATE ABT 1917
-2 PLAC Lewes, Sussex, DE, USA
-2 SOUR @S35@
 1 CENS
 2 DATE 01 JAN 1920
 2 PLAC Rehoboth Beach, Sussex, DE, USA
@@ -1875,10 +1963,7 @@
 4 CONC vice System, 1926-1975; Record Group Number: 147; Series Num
 4 CONC ber: M1936
 3 OBJE @M40@
-1 RESI
-2 DATE ABT 1942
-2 PLAC 534 Vandever Avenue, Wilmington, New Castle, DE, USA
-2 SOUR @S32@
+3 _APID 1,1002::1867704
 1 OCCU
 2 DATE ABT 1942
 2 PLAC Diamond Ice and Coal Company, 837 Market Street, Wilmington
@@ -1897,16 +1982,13 @@
 2 DATE ABT 1953
 2 PLAC 14 East 13th Street, Wilmington, New Castle, DE, USA
 2 SOUR @S36@
-1 RESI
-2 DATE ABT 1953
-2 PLAC 14 East 13th Street, Wilmington, New Castle, DE, USA
-2 SOUR @S36@
 1 OCCU carpenter
 2 SOUR @S36@
 0 @I173@ INDI
 1 NAME [REDACTED]
 1 FAMC @F27@
 0 @I57@ INDI
+1 REFN 69057605-94c4-409a-a324-203208a482bd
 1 NAME Harold /Murray/
 2 SOUR @S12@
 3 PAGE Ancestry Family Tree
@@ -1916,6 +1998,7 @@
 1 SEX M
 1 FAMC @F27@
 0 @I186@ INDI
+1 REFN f5f6d324-eff9-4dad-946f-cc5d8c2c06d3
 1 NAME Jackson B. /Murray/
 2 SOUR @S5@
 3 PAGE Year: 1880; Census Place: Lewes and Rehoboth, Sussex, Delawa
@@ -1991,6 +2074,7 @@
 2 PLAC Sussex, DE, USA
 2 SOUR @S10@
 0 @I163@ INDI
+1 REFN 668bef8e-0a7f-4f51-b18b-0b307e7da1f5
 1 NAME John Penrose /Murray/
 2 SOUR @S5@
 3 PAGE Year: 1880; Census Place: Lewes and Rehoboth, Sussex, Delawa
@@ -2044,6 +2128,7 @@
 3 _APID 1,7602::33808835
 2 NOTE Age: 2Marital Status: Single; Relation to Head of House: Son
 0 @I158@ INDI
+1 REFN cfd1946b-6166-4abe-acb2-8e74771a5638
 1 NAME Lewis /Murray/
 2 SOUR @S54@
 1 SEX M
@@ -2057,6 +2142,7 @@
 2 DATE BET 01 JUN 1870 AND 02 OCT 1872
 2 SOUR @S54@
 0 @I162@ INDI
+1 REFN 0912ca6f-525c-4115-9fd3-dbcb66f48ce9
 1 NAME Lewis Evans /Murray/
 2 SOUR @S5@
 3 PAGE Year: 1880; Census Place: Lewes and Rehoboth, Sussex, Delawa
@@ -2089,6 +2175,7 @@
 3 _APID 1,6742::49249956
 2 NOTE Age: 7Marital Status: Single; Relation to Head of House: Son
 0 @I161@ INDI
+1 REFN 79921aa3-16b7-4f09-bd34-1e67d5962363
 1 NAME Lizze H. /Murray/
 2 SOUR @S5@
 3 PAGE Year: 1880; Census Place: Lewes and Rehoboth, Sussex, Delawa
@@ -2122,6 +2209,7 @@
 2 NOTE Age: 9Marital Status: Single; Relation to Head of House: Dau
 3 CONC ghter
 0 @I165@ INDI
+1 REFN e05aef87-1b28-4068-beb6-bd4c6c137432
 1 NAME Severn P. /Murray/
 2 SOUR @S54@
 1 SEX M
@@ -2132,6 +2220,7 @@
 2 PLAC DE, USA
 2 SOUR @S54@
 0 @I159@ INDI
+1 REFN 191778d3-cd18-48c3-afb0-b9bbb5537c1d
 1 NAME Wesley Wallis /Murray/
 2 SOUR @S5@
 3 PAGE Year: 1880; Census Place: Lewes and Rehoboth, Sussex, Delawa
@@ -2186,6 +2275,7 @@
 3 _APID 1,7602::33808836
 2 NOTE Age: 1Marital Status: Single; Relation to Head of House: Son
 0 @I38@ INDI
+1 REFN 8e298cb4-33ca-4394-ad53-935bc6564f90
 1 NAME Elizabeth /Owens/
 2 SOUR @S61@
 3 PAGE 1830 US Census; Census Place: Broadkill, Sussex, Delaware; P
@@ -2217,6 +2307,7 @@
 2 DATE 1850
 2 PLAC Sussex CO, DE
 0 @I39@ INDI
+1 REFN 5f9d5e38-196b-452f-99d1-e231114651b6
 1 NAME Warrington /Owens/
 2 SOUR @S12@
 3 PAGE Ancestry Family Tree
@@ -2226,6 +2317,7 @@
 1 SEX M
 1 FAMS @F8@
 0 @I99@ INDI
+1 REFN 31e8ff87-34e9-4eba-9eee-94592f4a01ff
 1 NAME Abigail /Perkins/
 1 SEX F
 1 FAMC @F13@
@@ -2236,6 +2328,7 @@
 2 DATE 1781
 2 PLAC Hampton, Rockingham, New Hampshire, United States
 0 @I60@ INDI
+1 REFN 91d44c96-6a27-44dc-847c-99de9bad929d
 1 NAME Benjamin /Perkins/
 1 SEX M
 1 FAMC @F15@
@@ -2246,6 +2339,7 @@
 2 DATE 23 NOV 1670
 2 PLAC Salisbury, Rockingham, New Hampshire, United States
 0 @I59@ INDI
+1 REFN a25230e2-f8de-495c-94ed-7ee85ac93fe7
 1 NAME Caleb /Perkins/
 1 SEX M
 1 FAMC @F15@
@@ -2256,12 +2350,14 @@
 2 DATE 1723
 2 PLAC York, York, Maine, United States
 0 @I102@ INDI
+1 REFN af54935c-eb81-4021-bf0e-45d07bb8ba80
 1 NAME Caleb /Perkins/
 1 SEX M
 1 FAMC @F13@
 1 BIRT
 2 DATE 05 JUL 1693
 0 @I63@ INDI
+1 REFN 6a59c3cb-53d4-4cd7-9118-af227c5b41b9
 1 NAME Daniel /Perkins/
 1 SEX M
 1 FAMC @F15@
@@ -2272,6 +2368,7 @@
 2 DATE 01 AUG 1662
 2 PLAC Salisbury, Rockingham, New Hampshire, United States
 0 @I98@ INDI
+1 REFN 4a56d4ab-3c76-469d-ad20-803473b0d5b4
 1 NAME Daniel /Perkins/
 1 SEX M
 1 FAMC @F13@
@@ -2282,6 +2379,7 @@
 2 DATE 1748
 2 PLAC Will, Kent, Maryland, United States
 0 @I67@ INDI
+1 REFN b615b88b-26f4-4817-b6a4-73c75ed1517a
 1 NAME David /Perkins/
 1 SEX M
 1 FAMC @F13@
@@ -2292,6 +2390,7 @@
 2 DATE 1748
 2 PLAC Kent, Maryland, United States
 0 @I92@ INDI
+1 REFN 427747c9-b3a9-41dc-8951-950c2c95077a
 1 NAME Ebenezer /Perkins/
 1 SEX M
 1 FAMC @F15@
@@ -2304,6 +2403,7 @@
 2 DATE 09 SEP 1703
 2 PLAC New Castle, New Castle, Delaware, United States
 0 @I100@ INDI
+1 REFN 768ad85b-31f5-4722-b13a-7bdc9f4ea8a5
 1 NAME Ebenezer /Perkins/
 1 SEX M
 1 FAMC @F13@
@@ -2311,6 +2411,7 @@
 2 DATE 1689
 2 PLAC Brandywine, New Castle, Delaware, United States
 0 @I103@ INDI
+1 REFN 26d5bed4-75ea-4e36-ac6b-156e6a4bc2fa
 1 NAME Elizabeth /Perkins/
 1 SEX F
 1 FAMC @F13@
@@ -2321,6 +2422,7 @@
 2 DATE 08 SEP 1738
 2 PLAC Orange, Orange, Virginia, United States
 0 @I61@ INDI
+1 REFN ad8fdba6-bdf2-44a2-bd29-fd8f629fa6ae
 1 NAME Hannah /Perkins/
 1 SEX F
 1 FAMC @F15@
@@ -2331,6 +2433,7 @@
 2 DATE 13 MAY 1739
 2 PLAC Hampton, Rockingham, New Hampshire, United States
 0 @I94@ INDI
+1 REFN e1fd5614-b8a7-41ab-9501-7bf319d3064b
 1 NAME Isaac /Perkins/
 1 SEX M
 1 FAMS @F15@
@@ -2341,6 +2444,7 @@
 2 DATE 13 NOV 1685
 2 PLAC Hampton, Rockingham, New Hampshire, United States
 0 @I97@ INDI
+1 REFN 21ca0f19-d30c-49ab-beb8-09d0647b313d
 1 NAME Isaac /Perkins/
 1 SEX M
 1 FAMC @F15@
@@ -2351,6 +2455,7 @@
 2 DATE 30 OCT 1661
 2 PLAC Hillsboro, Hillsborough, New Hampshire, United States
 0 @I104@ INDI
+1 REFN 316055b9-9cd8-4ae4-8df6-d78587113607
 1 NAME Isaac /Perkins/
 1 SEX M
 1 FAMC @F13@
@@ -2360,6 +2465,7 @@
 2 DATE 09 MAY 1773
 2 PLAC Frederick Parish, Clarke County, Virginia, United States
 0 @I101@ INDI
+1 REFN 81de10be-332d-4aea-87ba-cbe7090735eb
 1 NAME Jonathan /Perkins/
 1 SEX M
 1 FAMC @F13@
@@ -2369,6 +2475,7 @@
 1 DEAT
 2 DATE 1756
 0 @I62@ INDI
+1 REFN b2096c86-55dc-4a32-8449-4b1eb573db44
 1 NAME Joseph /Perkins/
 1 SEX M
 1 FAMC @F15@
@@ -2379,6 +2486,7 @@
 2 DATE 19 AUG 1707
 2 PLAC Delaware, United States
 0 @I64@ INDI
+1 REFN 3f7f3c84-05a8-4d33-ad48-89ca285b820b
 1 NAME Lydia /Perkins/
 1 SEX F
 1 FAMC @F15@
@@ -2389,6 +2497,7 @@
 2 DATE 1679
 2 PLAC Shrewbury, Monmouth, New Jersey, United States
 0 @I65@ INDI
+1 REFN 787418ae-b791-4652-8190-76211603c51b
 1 NAME Mary /Perkins/
 1 SEX F
 1 FAMC @F15@
@@ -2399,6 +2508,7 @@
 2 DATE 09 MAY 1727
 2 PLAC Hampton, Rockingham, New Hampshire, United States
 0 @I66@ INDI
+1 REFN a5e6111d-d0e4-4086-9291-559567c142fc
 1 NAME Mercy Mary /Perkins/
 1 SEX F
 1 FAMS @F13@
@@ -2410,6 +2520,7 @@
 2 DATE 1694
 2 PLAC New Castle, New Castle, DE, (USA)
 0 @I58@ INDI
+1 REFN ab62bf9d-63ef-41be-b6cd-4575803d89f2
 1 NAME Rebecca /Perkins/
 1 SEX F
 1 FAMC @F15@
@@ -2420,6 +2531,7 @@
 2 DATE 1707
 2 PLAC New Castle, New Castle, Delaware, United States
 0 @I78@ INDI
+1 REFN 497468a9-5f1b-48f1-8ea1-5e41e79fd6fe
 1 NAME Sarah Elizabeth /Perkins/
 1 SEX F
 1 FAMC @F14@
@@ -2434,6 +2546,7 @@
 4 LATI N39.8294
 4 LONG W75.5347
 0 @I96@ INDI
+1 REFN 4eb97849-a3a6-4b66-8071-5ff896894ecf
 1 NAME Susannah /Perkins/
 1 SEX F
 1 FAMC @F15@
@@ -2441,6 +2554,7 @@
 2 DATE AUG 1625
 2 PLAC Hampton, Rockingham, New Hampshire, United States
 0 @I117@ INDI
+1 REFN 4dfd0886-f3e4-4885-b268-13de3b1d71e5
 1 NAME Rebecca //
 1 SEX F
 1 FAMS @F21@
@@ -2449,6 +2563,7 @@
 1 DEAT
 2 DATE 1766
 0 @I2@ INDI
+1 REFN 2652666d-b49d-482f-a214-2748a47fab47
 1 NAME Maria Adamsdotter /Stedham/
 1 SEX F
 1 FAMS @F1@
@@ -2465,6 +2580,7 @@
 4 LATI N39.1417
 4 LONG W74.5917
 0 @I138@ INDI
+1 REFN f9eaa734-62e8-4f16-a37e-bd902c8e557b
 1 NAME Adam /Talley/
 2 SOUR @S19@
 3 OBJE @M26@
@@ -2479,6 +2595,7 @@
 2 DATE 28 JUL 1844
 2 PLAC Brandywine, New Castle, Delaware, United States
 0 @I143@ INDI
+1 REFN 3f7827fd-90e9-4fad-80c4-758c036cab51
 1 NAME Adam Grubb /Talley/
 1 SEX M
 1 FAMC @F24@
@@ -2489,6 +2606,7 @@
 2 DATE 14 MAY 1868
 2 PLAC Diagonel, Ringgold, Iowa, United States
 0 @I141@ INDI
+1 REFN cc8ccaa9-a423-4375-8174-c324d8888485
 1 NAME Ann /Talley/
 1 SEX F
 1 FAMC @F24@
@@ -2498,6 +2616,7 @@
 1 DEAT
 2 DATE 1849
 0 @I108@ INDI
+1 REFN 9794e5dc-ad95-4b02-aa07-21b9c3f445f4
 1 NAME Charity /Talley/
 1 SEX F
 1 FAMC @F23@
@@ -2507,6 +2626,7 @@
 1 DEAT
 2 DATE 1760
 0 @I134@ INDI
+1 REFN d28b8a51-73d7-473a-8c67-8b89f4e1175f
 1 NAME Charity /Talley/
 1 SEX F
 1 FAMC @F20@
@@ -2516,6 +2636,7 @@
 1 DEAT
 2 DATE 1819
 0 @I124@ INDI
+1 REFN 9226dded-d1bb-48cb-8d73-d7c450bcbc1e
 1 NAME David /Talley/
 1 SEX M
 1 FAMC @F17@
@@ -2523,6 +2644,7 @@
 2 DATE 1716
 2 PLAC Brandywine Hundred, New Castle, Delaware, USA
 0 @I114@ INDI
+1 REFN f415c864-fe61-43d4-a6d3-314c6d1272f7
 1 NAME Edward /Talley/
 1 SEX M
 1 FAMC @F21@
@@ -2533,6 +2655,7 @@
 2 DATE 1800
 2 PLAC Brandywine, New Castle, Delaware, United States
 0 @I110@ INDI
+1 REFN 6994ea19-6876-4371-88a3-40fd8355fc38
 1 NAME Elihu /Talley/
 1 SEX M
 1 FAMC @F21@
@@ -2543,6 +2666,7 @@
 2 DATE 22 JAN 1833
 2 PLAC Brandywine Hundred, New Castle, Delaware, United States
 0 @I147@ INDI
+1 REFN f77f5bf7-fbbd-4dbd-bbc4-fe567928723e
 1 NAME Elizabeth /Talley/
 1 SEX F
 1 FAMC @F24@
@@ -2553,6 +2677,7 @@
 2 DATE 19 FEB 1860
 2 PLAC Wilmington, New Castle, Delaware, United States
 0 @I135@ INDI
+1 REFN 7674db2c-92fd-494d-bb28-f01adecd12e9
 1 NAME Elizabeth /Talley/
 1 SEX F
 1 FAMC @F24@
@@ -2561,12 +2686,14 @@
 2 PLAC Delaware, Brandywine Hundred Newcastle, Colorado, United Sta
 3 CONC tes
 0 @I111@ INDI
+1 REFN 2cfdab79-dd20-4d48-bc2f-42f9a54fdada
 1 NAME Esther /Talley/
 1 SEX F
 1 FAMC @F21@
 1 BIRT
 2 DATE 1758
 0 @I123@ INDI
+1 REFN 02399cc9-27d0-4a76-91a0-afff8dfb7173
 1 NAME Hannah /Talley/
 1 SEX F
 1 FAMC @F17@
@@ -2574,6 +2701,7 @@
 2 DATE 1720
 2 PLAC Brandywine Hundred, New Castle, Delaware
 0 @I142@ INDI
+1 REFN 3c466f19-fd06-4dc5-b895-46ab280cf8a5
 1 NAME Hannah /Talley/
 1 SEX F
 1 FAMC @F24@
@@ -2584,6 +2712,7 @@
 2 DATE 1890
 2 PLAC Wilmington, New Castle, Delaware, United States
 0 @I146@ INDI
+1 REFN d6db2861-e7fe-439f-a621-c0f6eb778e99
 1 NAME Lewis /Talley/
 1 SEX M
 1 FAMC @F24@
@@ -2594,12 +2723,14 @@
 2 DATE 09 OCT 1890
 2 PLAC Brandywine, New Castle, Delaware, United States
 0 @I121@ INDI
+1 REFN 0bd43d57-e0c6-4dd0-9f62-de4cc0434d1d
 1 NAME Mary /Talley/
 1 SEX F
 1 FAMC @F18@
 1 BIRT
 2 DATE 1689
 0 @I122@ INDI
+1 REFN cfad9c3a-6066-4c7a-bed4-5074949c6462
 1 NAME Mary /Talley/
 1 SEX F
 1 FAMC @F17@
@@ -2607,6 +2738,7 @@
 2 DATE 1718
 2 PLAC , New Castle, Delaware
 0 @I140@ INDI
+1 REFN 72b76053-3f9e-44f1-92b5-4bd7b7b06679
 1 NAME Mary /Talley/
 1 SEX F
 1 FAMC @F24@
@@ -2617,6 +2749,7 @@
 2 DATE 25 MAY 1852
 2 PLAC Thornville, Perry, Ohio, United States
 0 @I148@ INDI
+1 REFN 7deaa3f7-b10b-4eff-b32e-87f4c64c1b54
 1 NAME Priscilla /Talley/
 1 SEX F
 1 FAMC @F24@
@@ -2627,12 +2760,14 @@
 1 DEAT
 2 DATE 07 JAN 1869
 0 @I112@ INDI
+1 REFN 1f369d42-b827-4829-bdae-92d71b72d2e9
 1 NAME Rebecca /Talley/
 1 SEX F
 1 FAMC @F21@
 1 BIRT
 2 DATE 1760
 0 @I128@ INDI
+1 REFN d237e776-0186-4783-95fe-25c95205c82e
 1 NAME Rebecca /Talley/
 1 SEX F
 1 FAMC @F24@
@@ -2642,6 +2777,7 @@
 1 DEAT
 2 DATE 26 JUL 1893
 0 @I133@ INDI
+1 REFN 691b6f55-5bae-40cd-b00c-5b7b9c6da72b
 1 NAME Richard /Talley/
 1 SEX M
 1 FAMC @F20@
@@ -2652,6 +2788,7 @@
 2 DATE 1826
 2 PLAC Brandywine, New Castle, Delaware, United States
 0 @I125@ INDI
+1 REFN ad3a6b2e-e3b6-44e8-a1ae-7713e3cabefe
 1 NAME Samuel /Talley/
 1 SEX M
 1 FAMC @F17@
@@ -2665,6 +2802,7 @@
 4 LATI N39.6621
 4 LONG W75.5663
 0 @I113@ INDI
+1 REFN ac428fba-614b-4b46-844c-9c90178e805b
 1 NAME Sarah /Talley/
 1 SEX F
 1 FAMC @F23@
@@ -2675,6 +2813,7 @@
 2 DATE 06 SEP 1822
 2 PLAC Brandywine Hund, New Castle, Delaware, United States
 0 @I126@ INDI
+1 REFN 97340a61-ef6f-45e6-a6c3-bfc3dfadbda7
 1 NAME Susanna /Talley/
 1 SEX F
 1 FAMC @F17@
@@ -2682,6 +2821,7 @@
 2 DATE 1722
 2 PLAC Brandywine Hundred, New Castle, Delaware, USA
 0 @I115@ INDI
+1 REFN fabb53d2-db88-46e3-9e27-cd9769ed5c45
 1 NAME Thomas /Talley/
 1 SEX M
 1 FAMC @F18@
@@ -2693,6 +2833,7 @@
 2 DATE 1781
 2 PLAC Brandywine Hundred, New Castle, Delaware, USA
 0 @I129@ INDI
+1 REFN 38459926-9b6c-4f20-842c-9dbe515bc438
 1 NAME Thomas /Talley/
 1 SEX M
 1 FAMC @F23@
@@ -2704,6 +2845,7 @@
 2 DATE 26 FEB 1818
 2 PLAC Brandywine, New Castle, Delaware, United States
 0 @I132@ INDI
+1 REFN 2166dcff-5fa1-48e1-aa3e-9f5b7a568184
 1 NAME Thomas /Talley/
 1 SEX M
 1 FAMC @F20@
@@ -2713,6 +2855,7 @@
 1 DEAT
 2 DATE 09 JAN 1859
 0 @I145@ INDI
+1 REFN 5aac6939-6ef4-4a7c-80ad-1449f3d5d306
 1 NAME Thomas Miller /Talley/
 1 SEX M
 1 FAMC @F24@
@@ -2722,6 +2865,7 @@
 1 DEAT
 2 DATE 01 MAR 1873
 0 @I119@ INDI
+1 REFN 638ebdd2-d4aa-4ff5-af5a-baa1a66688d0
 1 NAME William /Talley/
 2 SOUR @S15@
 3 PAGE Place: Pennsylvania; Year: 1693; Page Number: 69
@@ -2748,6 +2892,7 @@
 2 DATE 1700
 2 PLAC , Chester, Pennsylvania, USA
 0 @I136@ INDI
+1 REFN 0465a815-0378-4705-8b90-574b432effd0
 1 NAME William /Talley/
 2 SOUR @S16@
 3 PAGE Abstract of Graves of Revolutionary Patriots; Volume: 4; Ser
@@ -2787,6 +2932,7 @@
 3 _APID 1,8750::6006422
 1 _PHOTO @M1@
 0 @I109@ INDI
+1 REFN f9d1b05a-f7d6-4cc1-807f-a40a9fdba8a5
 1 NAME William /Talley/
 1 SEX M
 1 FAMC @F23@
@@ -2797,6 +2943,7 @@
 2 DATE 09 MAY 1812
 2 PLAC Brandywine Hundred, New Castle, Delaware, United States
 0 @I131@ INDI
+1 REFN 08e3a51b-8382-4cb0-b0f6-2c584f971908
 1 NAME William /Talley/
 1 SEX M
 1 FAMC @F20@
@@ -2807,6 +2954,7 @@
 2 DATE 1839
 2 PLAC Delaware, United States
 0 @I144@ INDI
+1 REFN 9fb8e71e-4df2-4ded-83a8-3e11188d194c
 1 NAME William D. /Talley/
 1 SEX M
 1 FAMC @F24@
@@ -2816,6 +2964,7 @@
 1 DEAT
 2 DATE 21 NOV 1882
 0 @I51@ INDI
+1 REFN b9ebbfa7-04ee-4d9e-99c6-66e4cdf6ccbf
 1 NAME Elizabeth /[unknown]/
 2 SOUR @S6@
 1 SEX F
@@ -2830,6 +2979,7 @@
 2 PLAC 1009 East 13th Street, Wilmington, New Castle, DE, USA
 2 SOUR @S6@
 0 @I53@ INDI
+1 REFN 6f964b1b-c352-4e75-b53d-a00a0bc7620b
 1 NAME Elizabeth /[unknown]/
 2 SOUR @S7@
 3 PAGE Year: 1900; Census Place: Wilmington Ward 9, New Castle, Del
@@ -2866,6 +3016,7 @@
 2 NOTE Age: 68; Marital Status: Widowed; Relation to Head of House
 3 CONC : Mother
 0 @I15@ INDI
+1 REFN 53e836b7-c231-40dc-ba47-74fe928e76d6
 1 NAME Fannie /[unknown]/
 2 SOUR @S3@
 1 SEX F
@@ -2876,6 +3027,7 @@
 2 PLAC Ireland, USA
 2 SOUR @S3@
 0 @I17@ INDI
+1 REFN c2c1c156-5470-4a2b-a70c-bb9708ce7901
 1 NAME Atwood /Vandever/
 2 SOUR @S4@
 3 PAGE Year: 1870; Census Place: Upper Chichester, Delaware, Pennsy
@@ -2908,9 +3060,13 @@
 3 OBJE @M14@
 3 _APID 1,6224::121003949
 2 SOUR @S8@
-3 OBJE @M8@
-2 SOUR @S8@
+3 PAGE 1896
 3 OBJE @M9@
+3 _APID 1,2469::1051609744
+2 SOUR @S8@
+3 PAGE 1904
+3 OBJE @M8@
+3 _APID 1,2469::1049102308
 1 SEX M
 1 FAMC @F5@
 1 FAMS @F4@
@@ -3015,10 +3171,12 @@
 1 DEAT
 2 DATE 1932
 0 @I5@ INDI
+1 REFN 9a3b2b20-9bfe-42a5-b176-18d535529802
 1 NAME Catharina /Vandever/
 1 SEX F
 1 FAMC @F1@
 0 @I50@ INDI
+1 REFN c1e6cd34-b8df-4c24-a422-d1ed95b122fe
 1 NAME Charlotte /Vandever/
 2 SOUR @S9@
 3 PAGE Year: 1910; Census Place: Wilmington Ward 9, New Castle, Del
@@ -3058,14 +3216,17 @@
 2 NOTE Age in 1910: 15; Marital Status: Single; Relation to Head o
 3 CONC f House: Daughter
 0 @I4@ INDI
+1 REFN abedd3d1-2080-4d3a-807e-5786c1bbe33f
 1 NAME Cornelius /Vandever/
 1 SEX M
 1 FAMC @F1@
 0 @I6@ INDI
+1 REFN df869bac-a674-4d2e-a61e-cf4df1411d32
 1 NAME Elisabeth /Vandever/
 1 SEX F
 1 FAMC @F1@
 0 @I49@ INDI
+1 REFN be3bd1dc-8c8d-4648-ada9-9a5fc10085fa
 1 NAME Harriet /Vandever/
 2 SOUR @S7@
 3 PAGE Year: 1900; Census Place: Wilmington Ward 9, New Castle, Del
@@ -3128,6 +3289,7 @@
 2 NOTE Age: 17; Marital Status: Single; Relation to Head of House
 3 CONC : Daughter
 0 @I19@ INDI
+1 REFN 1d73af88-afd9-4958-847a-0991cd27db25
 1 NAME Isaac Grubb /Vandever/
 2 SOUR @S7@
 3 PAGE Year: 1900; Census Place: Wilmington Ward 9, New Castle, Del
@@ -3213,6 +3375,7 @@
 4 LATI N39.7459
 4 LONG W75.5466
 0 @I26@ INDI
+1 REFN 3f6765a0-e38c-4cbd-a7e9-d37e859e8a3a
 1 NAME J. /Vandever/
 2 SOUR @S5@
 3 PAGE Year: 1880; Census Place: South Chester, Delaware, Pennsylva
@@ -3245,6 +3408,7 @@
 3 _APID 1,6742::37305114
 2 NOTE Marital status: Single; Relation to Head of House: Son
 0 @I22@ INDI
+1 REFN ed454264-e447-4a2e-9efe-05bb2b7fa163
 1 NAME J. Bishop /Vandever/
 2 SOUR @S5@
 3 PAGE Year: 1880; Census Place: South Chester, Delaware, Pennsylva
@@ -3277,6 +3441,7 @@
 3 _APID 1,6742::50132601
 2 NOTE Marital status: Single; Relation to Head of House: Son
 0 @I1@ INDI
+1 REFN 924505df-a7fb-439e-a025-7621ee0e8bf4
 1 NAME Jacob /Vandever/
 1 SEX M
 1 FAMS @F1@
@@ -3289,6 +3454,7 @@
 1 DEAT
 2 DATE 1739
 0 @I105@ INDI
+1 REFN 348ba815-b5ae-49ae-b6e5-edfa813d2f19
 1 NAME Jacob /Vandever/
 1 SEX M
 1 FAMS @F32@
@@ -3299,6 +3465,7 @@
 4 LATI N39.1417
 4 LONG W74.5917
 0 @I20@ INDI
+1 REFN 06c7ac87-3f92-4d9e-bbee-b9383f588604
 1 NAME Jacob B. /Vandever/
 2 SOUR @S13@
 3 PAGE Year: 1850; Census Place: Division 1, New Castle, Delaware
@@ -3393,6 +3560,7 @@
 3 _APID 1,6742::37044568
 2 NOTE Marital status: Widower; Relation to Head of House: Self
 0 @I175@ INDI
+1 REFN 0f1c040a-2327-4bdf-99ac-e3b71405955b
 1 NAME Jeannette May /Vandever/
 2 SOUR @S7@
 3 PAGE Year: 1900; Census Place: Wilmington Ward 9, New Castle, Del
@@ -3464,10 +3632,12 @@
 2 DATE ABT 1916
 2 SOUR @S3@
 0 @I3@ INDI
+1 REFN ea2cfec7-bf21-4ccc-9afe-3347c5bbc044
 1 NAME John /Vandever/
 1 SEX M
 1 FAMC @F1@
 0 @I24@ INDI
+1 REFN 144c9b44-a6c0-48c5-a813-93ab66c8fdb5
 1 NAME Laura /Vandever/
 1 SEX F
 1 FAMC @F5@
@@ -3481,6 +3651,7 @@
 4 LATI N39.1417
 4 LONG W74.5917
 0 @I23@ INDI
+1 REFN 27f4f9c3-21ae-4d48-984c-8d473acd5c23
 1 NAME Lincoln /Vandever/
 2 SOUR @S5@
 3 PAGE Year: 1880; Census Place: South Chester, Delaware, Pennsylva
@@ -3513,6 +3684,7 @@
 3 _APID 1,6742::37305197
 2 NOTE Marital status: Single; Relation to Head of House: Son
 0 @I106@ INDI
+1 REFN 27230710-903c-4fd7-9377-448f9aab8554
 1 NAME Peter /Vandever/
 1 SEX M
 1 FAMC @F1@
@@ -3524,12 +3696,12 @@
 4 LATI N39.1417
 4 LONG W74.5917
 1 DEAT
-2 DATE 1754
 2 PLAC New Castle, New Castle, Delaware, USA
 3 MAP
 4 LATI N39.6621
 4 LONG W75.5663
 0 @I48@ INDI
+1 REFN 3bb565f2-55bd-4a9b-9e65-41816c58d529
 1 NAME William /Vandever/
 2 SOUR @S7@
 3 PAGE Year: 1900; Census Place: Wilmington Ward 9, New Castle, Del
@@ -3621,6 +3793,7 @@
 2 NOTE Age: 27; Marital Status: Widowed; Marital Status: Widow; Rel
 3 CONC ation to Head of House: Son
 0 @I25@ INDI
+1 REFN b7b0aae4-b506-469f-abd9-a2e31da37b9e
 1 NAME William Talley /Vandever/
 1 SEX M
 1 FAMC @F5@
@@ -3637,6 +3810,7 @@
 4 LATI N39.8193
 4 LONG W75.4185
 0 @I80@ INDI
+1 REFN e39dce7a-03fe-4e86-b380-41afc0173a52
 1 NAME Frances /Vane/
 1 SEX F
 1 FAMS @F12@
@@ -3650,6 +3824,7 @@
 2 DATE 22 NOV 1720
 2 PLAC Bradford Township, Chester, Pennsylvania, United States
 0 @I198@ INDI
+1 REFN ad28613a-43e0-453d-bf1b-f22e755afe54
 1 NAME Benjamin /Wilson/
 2 SOUR @S39@
 1 SEX M
@@ -3660,6 +3835,7 @@
 2 PLAC DE, USA
 2 SOUR @S39@
 0 @I40@ INDI
+1 REFN 4287f464-e9ef-4b42-959f-cf9554d957a2
 1 NAME Ebenezer /Wilson/
 2 SOUR @S62@
 3 PAGE Year: 1810; Census Place: Baltimore, Dagsboro, Indian River
@@ -3693,6 +3869,7 @@
 2 DATE 05 FEB 1820
 2 PLAC Sussex Co.  Delaware
 0 @I41@ INDI
+1 REFN ffae82f6-0b32-49c6-b628-bed078c3fd73
 1 NAME Ebenezer /Wilson/
 2 SOUR @S12@
 3 PAGE Ancestry Family Tree
@@ -3708,6 +3885,7 @@
 2 DATE 29 JUL 1831
 2 PLAC Sussex Co.  Delaware
 0 @I194@ INDI
+1 REFN f3796a23-4a95-49c1-a031-f3a16776fd47
 1 NAME Ebenezer /Wilson/
 2 SOUR @S12@
 3 PAGE Ancestry Family Tree
@@ -3723,6 +3901,7 @@
 2 PLAC Sussex, DE, USA
 2 SOUR @S41@
 0 @I193@ INDI
+1 REFN 62ada67d-0748-42c6-bf97-d6c657c50f89
 1 NAME Eli W. /Wilson/
 2 SOUR @S12@
 3 PAGE Ancestry Family Tree
@@ -3741,6 +3920,7 @@
 2 DATE 08 AUG 1905
 2 PLAC Sussex Co.  Delaware
 0 @I42@ INDI
+1 REFN 2ee45c31-2f57-414c-a5c7-eb81380d8281
 1 NAME Elizabeth J. /Wilson/
 2 SOUR @S12@
 3 PAGE Ancestry Family Tree
@@ -3753,6 +3933,7 @@
 2 DATE 1840
 2 PLAC Sussex Co. Delaware
 0 @I197@ INDI
+1 REFN bedaa35d-d891-49b7-a540-1565fcd3bf77
 1 NAME Elizabeth J. /Wilson/
 2 SOUR @S12@
 3 PAGE Ancestry Family Tree
@@ -3770,6 +3951,7 @@
 2 PLAC Sussex, DE, USA
 2 SOUR @S41@
 0 @I199@ INDI
+1 REFN f554ce3d-ab8d-4cc8-a178-d61b6a1025d9
 1 NAME Emma W. /Wilson/
 2 SOUR @S39@
 1 SEX F
@@ -3780,6 +3962,7 @@
 2 PLAC DE, USA
 2 SOUR @S39@
 0 @I181@ INDI
+1 REFN 4292f2e4-675d-4293-8661-f318b6c0af1c
 1 NAME Frances Mary /Wilson/
 2 SOUR @S9@
 3 PAGE Year: 1910; Census Place: Wilmington Ward 9, New Castle, Del
@@ -3834,8 +4017,8 @@
 4 CONC ; FHL microfilm: 1374160
 3 OBJE @M36@
 3 _APID 1,7884::151680219
-2 NOTE Age: 28Marital Status: Married; Relation to Head of House: W
-3 CONC ife
+2 NOTE Age: 28; Marital Status: Married; Relation to Head of House
+3 CONC : Wife
 1 CENS
 2 DATE 01 JAN 1920
 2 PLAC Rehoboth Beach, Sussex, DE, USA
@@ -3850,15 +4033,16 @@
 3 PAGE Year: 1920; Census Place: Rehoboth Beach, Sussex, Delaware
 3 OBJE @M29@
 3 _APID 1,6061::95780866
-2 NOTE Age: 37Marital Status: Married; Relation to Head of House: W
-3 CONC ife
+2 NOTE Age: 37; Marital Status: Married; Relation to Head of House
+3 CONC : Wife
 1 DEAT
-2 DATE 19 44
+2 DATE 1944
 2 PLAC Wilmington, New Castle, Delaware, USA
 3 MAP
 4 LATI N39.7459
 4 LONG W75.5466
 0 @I43@ INDI
+1 REFN f48b6dc1-d632-46b8-92de-290c62031db8
 1 NAME Jacob /Wilson/
 2 SOUR @S12@
 3 PAGE Ancestry Family Tree
@@ -3874,6 +4058,7 @@
 2 DATE 1873
 2 PLAC Sussex Co.  Delaware
 0 @I44@ INDI
+1 REFN b14c521f-6d60-455c-88cc-91e04335a7bd
 1 NAME James P. /Wilson/
 2 SOUR @S12@
 3 PAGE Ancestry Family Tree
@@ -3889,6 +4074,7 @@
 2 DATE 27 OCT 1882
 2 PLAC Sussex Co.  Delaware
 0 @I172@ INDI
+1 REFN 46e65e9c-09b3-4410-ac36-09451d8e2845
 1 NAME James V. /Wilson/
 2 SOUR @S12@
 3 PAGE Ancestry Family Tree
@@ -3907,6 +4093,7 @@
 2 DATE 1907
 2 PLAC Sussex Co. Delaware
 0 @I191@ INDI
+1 REFN 558a947f-2e8f-47b9-a4d9-3bfea72753a1
 1 NAME Joseph /Wilson/
 2 SOUR @S12@
 3 PAGE Ancestry Family Tree
@@ -3953,6 +4140,7 @@
 2 DATE 1880
 2 PLAC Sussex Co.  Delaware
 0 @I200@ INDI
+1 REFN f73faad8-d0db-439a-8276-44f70bfd2bea
 1 NAME Lena A. /Wilson/
 2 SOUR @S39@
 1 SEX F
@@ -3963,6 +4151,7 @@
 2 PLAC DE, USA
 2 SOUR @S39@
 0 @I45@ INDI
+1 REFN 1685919a-3bb2-441f-a46b-67c8fce514b5
 1 NAME Levicia /Wilson/
 2 SOUR @S12@
 3 PAGE Ancestry Family Tree
@@ -3975,6 +4164,7 @@
 2 DATE 1850
 2 PLAC Sussex Co.  Delaware
 0 @I171@ INDI
+1 REFN 87305a26-6329-400a-8f5b-13da31e88221
 1 NAME Louisa /Wilson/
 1 SEX F
 1 FAMC @F31@
@@ -3984,6 +4174,7 @@
 2 PLAC DE, USA
 2 SOUR @S42@
 0 @I169@ INDI
+1 REFN bfeec02f-b2ce-4d23-b7b4-fe2cbb067b7f
 1 NAME Mahala /Wilson/
 2 SOUR @S12@
 3 PAGE Ancestry Family Tree
@@ -3999,6 +4190,7 @@
 2 PLAC Sussex, DE, USA
 2 SOUR @S41@
 0 @I182@ INDI
+1 REFN 4e17d0c5-3ea5-43e4-84b3-e905690ee795
 1 NAME Major E. /Wilson/
 2 SOUR @S12@
 3 PAGE Ancestry Family Tree
@@ -4048,6 +4240,7 @@
 3 CONC , USA
 2 SOUR @S40@
 0 @I192@ INDI
+1 REFN b8b31784-d237-4065-852a-3b95ef65834f
 1 NAME Margaret /Wilson/
 2 SOUR @S12@
 3 PAGE Ancestry Family Tree
@@ -4087,6 +4280,7 @@
 2 PLAC Lewes and Rehoboth Hundred, Sussex, DE, USA
 2 SOUR @S56@
 0 @I195@ INDI
+1 REFN 1ed9f579-2b87-49df-bc57-de4fb9973e1b
 1 NAME Mary A. /Wilson/
 2 SOUR @S12@
 3 PAGE Ancestry Family Tree
@@ -4102,6 +4296,7 @@
 2 PLAC Sussex, DE, USA
 2 SOUR @S41@
 0 @I46@ INDI
+1 REFN 7f6ec056-1410-421d-a8ff-18b1a0e24109
 1 NAME Nancy /Wilson/
 2 SOUR @S12@
 3 PAGE Ancestry Family Tree
@@ -4117,6 +4312,7 @@
 2 DATE 1830
 2 PLAC Sussex Co.  Delaware
 0 @I196@ INDI
+1 REFN c499074f-3c3b-486d-a9bf-9447f0c5ac4a
 1 NAME Peter S. /Wilson/
 2 SOUR @S12@
 3 PAGE Ancestry Family Tree
@@ -4135,6 +4331,7 @@
 2 DATE 01 SEP 1922
 2 PLAC Sussex Co.  Delaware
 0 @I170@ INDI
+1 REFN 329dfebb-cc65-4fcf-8fa2-dfc761718fd7
 1 NAME Sarah E. /Wilson/
 2 SOUR @S12@
 3 PAGE Ancestry Family Tree
@@ -4150,6 +4347,7 @@
 2 PLAC Sussex, DE, USA
 2 SOUR @S41@
 0 @I47@ INDI
+1 REFN 44dc4ecd-b717-43eb-bf38-9155d9f11313
 1 NAME Warrington O. /Wilson/
 2 SOUR @S12@
 3 PAGE Ancestry Family Tree
@@ -4165,6 +4363,7 @@
 2 DATE 20 MAR 1864
 2 PLAC Sussex Co.  Delaware
 0 @I168@ INDI
+1 REFN 38115083-8ec2-4c43-95a6-6991c81ba85e
 1 NAME William Donovan /Wilson/
 2 SOUR @S41@
 1 SEX M
@@ -4175,6 +4374,7 @@
 2 PLAC Sussex, DE, USA
 2 SOUR @S41@
 0 @I18@ INDI
+1 REFN 1dc63cf1-7fe0-45a4-ac8c-751094bd99cd
 1 NAME William J. /Wilson/
 2 SOUR @S12@
 3 PAGE Ancestry Family Tree
@@ -4190,6 +4390,7 @@
 2 DATE 02 MAR 1863
 2 PLAC Sussex Co.  Delaware
 0 @I95@ INDI
+1 REFN 62580b3d-11b8-4227-a3e7-67ee73cc498e
 1 NAME Susanna /Wise/
 1 SEX F
 1 FAMS @F15@
@@ -4199,21 +4400,25 @@
 1 DEAT
 2 DATE 17 JUL 1699
 2 PLAC Newcastle, New Castle, Delaware, United States
-0 @F33@ FAM
+0 @F175@ FAM
+1 REFN 9896f69c-3e7a-4755-9fe2-377ab73348a7
 1 WIFE @I174@
 0 @F11@ FAM
+1 REFN f2490a2a-ea8c-4500-a493-d2b8dc8ceeb6
 1 HUSB @I54@
 1 WIFE @I53@
 1 CHIL @I16@
 2 _FREL Natural
 2 _MREL Natural
 0 @F10@ FAM
+1 REFN 163bdc04-1d68-48f9-8a78-f2d83696a658
 1 HUSB @I52@
 1 WIFE @I51@
 1 CHIL @I16@
 2 _FREL Natural
 2 _MREL Natural
 0 @F12@ FAM
+1 REFN 62f71d81-0a16-41a3-865e-e3efe2a0f483
 1 HUSB @I79@
 1 WIFE @I80@
 1 CHIL @I81@
@@ -4268,6 +4473,7 @@
 2 DATE MAR 1708
 2 PLAC Marcus Hook, Delaware, Pennsylvania, United States
 0 @F19@ FAM
+1 REFN 62d4ad74-9197-4307-8155-f7b9e42435a0
 1 HUSB @I127@
 1 WIFE @I78@
 1 CHIL @I137@
@@ -4304,6 +4510,7 @@
 4 LATI N39.6621
 4 LONG W75.5663
 0 @F6@ FAM
+1 REFN 34ab6c1d-e249-4201-a9ff-c79df8459752
 1 HUSB @I27@
 1 WIFE @I148@
 1 CHIL @I157@
@@ -4340,6 +4547,7 @@
 2 DATE 01 JAN 1842
 2 PLAC New Castle, New Castle, Delaware, United States
 0 @F29@ FAM
+1 REFN 87a02e7e-65ae-4c43-b3b7-e85e723583c5
 1 HUSB @I183@
 1 WIFE @I201@
 1 CHIL @I202@
@@ -4377,6 +4585,7 @@
 2 PLAC Dorchester, MD, USA
 2 SOUR @S51@
 0 @F2@ FAM
+1 REFN 198863ee-26ce-459f-964a-bf9e90d54b46
 1 HUSB @I9@
 1 WIFE @I10@
 1 CHIL @I11@
@@ -4386,6 +4595,7 @@
 2 _FREL Natural
 2 _MREL Natural
 0 @F3@ FAM
+1 REFN a652d88e-a21b-463f-acde-49289d7117a9
 1 HUSB @I12@
 1 WIFE @I15@
 1 CHIL @I13@
@@ -4398,6 +4608,7 @@
 2 _FREL Natural
 2 _MREL Natural
 0 @F25@ FAM
+1 REFN 306547f1-b436-4c77-a26b-87fdaaf46f4e
 1 HUSB @I176@
 1 WIFE @I175@
 1 CHIL @I177@
@@ -4419,6 +4630,7 @@
 2 DATE 26 JUN 1900
 2 SOUR @S3@
 0 @F7@ FAM
+1 REFN c99c6c9d-9745-492a-9acc-eb4dab59d12e
 1 HUSB @I30@
 1 WIFE @I31@
 1 CHIL @I176@
@@ -4455,6 +4667,7 @@
 2 _FREL Natural
 2 _MREL Natural
 0 @F27@ FAM
+1 REFN 3b33c9bf-530a-4a6f-9c8e-a2f568513347
 1 HUSB @I180@
 1 WIFE @I181@
 1 CHIL @I57@
@@ -4477,6 +4690,7 @@
 2 PLAC Lewes, Sussex, DE, USA
 2 SOUR @S19@
 0 @F30@ FAM
+1 REFN c507f4fc-23a4-493b-af96-fc841c55cb1e
 1 HUSB @I186@
 1 WIFE @I187@
 1 CHIL @I164@
@@ -4523,12 +4737,14 @@
 3 OBJE @M41@
 3 _APID 1,1508::17802
 0 @F8@ FAM
+1 REFN d07948f4-782b-4386-9a52-8a4d979672f7
 1 HUSB @I39@
 1 WIFE @I55@
 1 CHIL @I38@
 2 _FREL Natural
 2 _MREL Natural
 0 @F14@ FAM
+1 REFN c4b6602c-6595-4f32-a382-d8cc9265aa6b
 1 HUSB @I92@
 1 WIFE @I93@
 1 CHIL @I78@
@@ -4538,6 +4754,7 @@
 2 DATE 1684
 2 PLAC Hampton, Rockingham, New Hampshire, United States
 0 @F13@ FAM
+1 REFN 46f538d4-23e0-421a-abab-15aa4c62fb10
 1 HUSB @I92@
 1 WIFE @I66@
 1 CHIL @I98@
@@ -4568,6 +4785,7 @@
 2 DATE 1684
 2 PLAC Hampton, Rockingham, New Hampshire, United States
 0 @F15@ FAM
+1 REFN 5841aa70-5112-4a0b-968f-b16fa7c8d9c2
 1 HUSB @I94@
 1 WIFE @I95@
 1 CHIL @I96@
@@ -4607,6 +4825,7 @@
 2 DATE 1638
 2 PLAC Ipswich, Essex, Massachusetts, United States
 0 @F24@ FAM
+1 REFN 8f3d374f-b5bf-46e7-b6da-10cb5a5367be
 1 HUSB @I138@
 1 WIFE @I139@
 1 CHIL @I140@
@@ -4649,6 +4868,7 @@
 3 OBJE @M26@
 3 _APID 1,1508::768
 0 @F17@ FAM
+1 REFN 164476fb-c3ac-478b-9d0e-d59373262d26
 1 HUSB @I115@
 1 WIFE @I116@
 1 CHIL @I136@
@@ -4672,6 +4892,7 @@
 1 MARR
 2 DATE 1713
 0 @F20@ FAM
+1 REFN 5b3b3eab-4bfe-4fe5-992c-4a0b418a7f08
 1 HUSB @I129@
 1 WIFE @I130@
 1 CHIL @I131@
@@ -4693,6 +4914,7 @@
 2 DATE 04 NOV 1766
 2 PLAC New Castle, New Castle, Delaware, United States
 0 @F18@ FAM
+1 REFN f57e2634-d650-41a0-bca3-bed28f1f0da5
 1 HUSB @I119@
 1 WIFE @I120@
 1 CHIL @I115@
@@ -4708,6 +4930,7 @@
 4 LATI N39.7459
 4 LONG W75.5466
 0 @F23@ FAM
+1 REFN e04db9f9-581a-46ea-a8bc-831326543b0f
 1 HUSB @I136@
 1 WIFE @I137@
 1 CHIL @I113@
@@ -4726,11 +4949,13 @@
 2 DATE 1735
 2 PLAC Brandywine Hundred, New Castle, Delaware, United States
 0 @F22@ FAM
+1 REFN 7a716bab-b437-4b4e-8b28-fe258b63b844
 1 HUSB @I136@
 1 WIFE @I118@
 1 MARR
 2 DATE 1768
 0 @F21@ FAM
+1 REFN 9baf120f-d4fa-4fa8-a901-4839c9a0e4d0
 1 HUSB @I136@
 1 WIFE @I117@
 1 CHIL @I110@
@@ -4748,6 +4973,7 @@
 1 MARR
 2 DATE 1754
 0 @F4@ FAM
+1 REFN 7fa30fbd-1b3b-4264-9369-9fe392caf57b
 1 HUSB @I17@
 1 WIFE @I16@
 1 CHIL @I19@
@@ -4769,6 +4995,7 @@
 2 DATE ABT 1879
 2 SOUR @S6@
 0 @F1@ FAM
+1 REFN 6d27ac7a-d13e-4d4f-84c4-6feb72d7c68f
 1 HUSB @I1@
 1 WIFE @I2@
 1 CHIL @I3@
@@ -4787,10 +5014,12 @@
 2 _FREL Natural
 2 _MREL Natural
 0 @F32@ FAM
+1 REFN 96e3322f-da71-4a38-aae7-4152db6afbe5
 1 HUSB @I105@
 1 CHIL @I20@
 2 _FREL Natural
 0 @F5@ FAM
+1 REFN 441c2112-775e-4878-a2c0-2a5de478096e
 1 HUSB @I20@
 1 WIFE @I21@
 1 CHIL @I17@
@@ -4812,6 +5041,7 @@
 2 _FREL Natural
 2 _MREL Natural
 0 @F16@ FAM
+1 REFN f597e88d-16c0-4dee-bce3-95bf889d4234
 1 HUSB @I106@
 1 WIFE @I107@
 1 MARR
@@ -4821,6 +5051,7 @@
 4 LATI N39.1417
 4 LONG W74.5917
 0 @F9@ FAM
+1 REFN 3d29e6ef-625e-4f37-97a9-4dabe057c086
 1 HUSB @I40@
 1 WIFE @I38@
 1 CHIL @I43@
@@ -4848,6 +5079,7 @@
 2 DATE 1796
 2 PLAC Broadkill Hundred, Sussex Co. De.
 0 @F31@ FAM
+1 REFN 3c07ed13-b941-42e0-b07a-65b61741d96a
 1 HUSB @I191@
 1 WIFE @I192@
 1 CHIL @I193@
@@ -4897,6 +5129,7 @@
 3 OBJE @M38@
 3 _APID 1,1508::135834
 0 @F28@ FAM
+1 REFN c50077d5-d5bb-4687-97eb-28b41c1a045f
 1 HUSB @I182@
 1 WIFE @I167@
 1 CHIL @I198@
