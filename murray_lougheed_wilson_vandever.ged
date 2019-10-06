@@ -14,9 +14,9 @@
 4 CONT Boston, MA 02109
 3 PHON (617) 227-6681
 1 DEST FTM
-1 FILE Murray_Lougheed_Wilson_Vandever_2019-10-06-19-22-49.ftm.ged
+1 FILE Murray_Lougheed_Wilson_Vandever_2019-10-06-19-31-53.ftm.ged
 1 DATE 06 OCT 2019
-2 TIME 19:23:33
+2 TIME 19:32:34
 0 @Umy2qBWIRUiwVSS6Hcn4@ SUBM
 1 NAME Christopher Alan Mosher
 2 EMAIL cmosher01@@gmail.com
@@ -124,8 +124,8 @@
 3 _APID 1,6742::35208312
 2 NOTE Age: 39; Marital Status: Married; Relation to Head of House
 3 CONC : Wife
-0 @I54@ INDI
-1 REFN ca6f783f-6065-4822-a7e8-9328ac2e9a98
+0 @I52@ INDI
+1 REFN b129b53e-bbd9-44c7-8cc3-357ff18ccf51
 1 NAME Nathaniel /Cloud/
 2 SOUR @S2@
 3 PAGE Delaware Public Archives; Dover, Delaware; Delaware Vital Re
@@ -133,7 +133,8 @@
 3 OBJE @M10@
 3 _APID 1,1674::600143375
 1 SEX M
-1 FAMS @F11@
+1 FAMS @F10@
+1 NOTE _XY 1104 367  _UID 0ef103fc-f8b0-4ade-a1b8-b933132384bc
 0 @I16@ INDI
 1 REFN 986cdbd7-5414-471c-a751-b83a23a5800f
 1 NAME Rachel /Cloud/
@@ -176,7 +177,6 @@
 3 _APID 1,2469::1049102307
 2 SOUR @S6@
 1 SEX F
-1 FAMC @F11@
 1 FAMC @F10@
 1 FAMS @F4@
 1 NOTE _XY 1285 431  _UID 26882eb1-c510-49fe-a109-abca7583d626
@@ -294,12 +294,6 @@
 4 CONC cords, 1800-1933; Series Number: Death Certificates - 39
 3 OBJE @M10@
 3 _APID 1,1674::143375
-0 @I52@ INDI
-1 REFN b129b53e-bbd9-44c7-8cc3-357ff18ccf51
-1 NAME [unknown] /Cloud/
-1 SEX M
-1 FAMS @F10@
-1 NOTE _XY 1104 367  _UID 0ef103fc-f8b0-4ade-a1b8-b933132384bc
 0 @I31@ INDI
 1 REFN 71064c30-7a93-4735-972f-2c10487f5746
 1 NAME Sophia /Corey/
@@ -612,7 +606,7 @@
 4 LONG W75.5347
 0 @I151@ INDI
 1 REFN e7424d89-b007-4493-b28b-489edcdc4ca5
-1 NAME Adam T /Hanby/
+1 NAME Adam T. /Hanby/
 1 SEX M
 1 FAMC @F6@
 1 BIRT
@@ -2963,21 +2957,6 @@
 2 PLAC New Castle, New Castle, Delaware, United States
 1 DEAT
 2 DATE 21 NOV 1882
-0 @I51@ INDI
-1 REFN b9ebbfa7-04ee-4d9e-99c6-66e4cdf6ccbf
-1 NAME Elizabeth /[unknown]/
-2 SOUR @S6@
-1 SEX F
-1 FAMS @F10@
-1 NOTE _XY 1221 361  _UID 72c3caa1-af8a-4ace-92ec-89108e3a2430
-1 BIRT
-2 DATE SEP 1831
-2 PLAC DE, USA
-2 SOUR @S6@
-1 CENS
-2 DATE 01 JUN 1900
-2 PLAC 1009 East 13th Street, Wilmington, New Castle, DE, USA
-2 SOUR @S6@
 0 @I53@ INDI
 1 REFN 6f964b1b-c352-4e75-b53d-a00a0bc7620b
 1 NAME Elizabeth /[unknown]/
@@ -2986,9 +2965,11 @@
 4 CONC aware; Roll: 155; Page: 7B; Enumeration District: 0037; FH
 4 CONC L microfilm: 1240155
 3 OBJE @M6@
+3 _APID 1,7602::7859784
 2 SOUR @S6@
 1 SEX F
-1 FAMS @F11@
+1 FAMS @F10@
+1 NOTE _XY 1221 361  _UID 72c3caa1-af8a-4ace-92ec-89108e3a2430
 1 BIRT
 2 DATE SEP 1831
 2 PLAC DE, USA
@@ -2997,6 +2978,7 @@
 4 CONC aware; Roll: 155; Page: 7B; Enumeration District: 0037; FH
 4 CONC L microfilm: 1240155
 3 OBJE @M6@
+3 _APID 1,7602::7859784
 2 SOUR @S6@
 1 CENS
 2 DATE 01 JUN 1900
@@ -3013,6 +2995,7 @@
 4 CONC aware; Roll: 155; Page: 7B; Enumeration District: 0037; FH
 4 CONC L microfilm: 1240155
 3 OBJE @M6@
+3 _APID 1,7602::7859784
 2 NOTE Age: 68; Marital Status: Widowed; Relation to Head of House
 3 CONC : Mother
 0 @I15@ INDI
@@ -4403,17 +4386,10 @@
 0 @F175@ FAM
 1 REFN 9896f69c-3e7a-4755-9fe2-377ab73348a7
 1 WIFE @I174@
-0 @F11@ FAM
-1 REFN f2490a2a-ea8c-4500-a493-d2b8dc8ceeb6
-1 HUSB @I54@
-1 WIFE @I53@
-1 CHIL @I16@
-2 _FREL Natural
-2 _MREL Natural
 0 @F10@ FAM
 1 REFN 163bdc04-1d68-48f9-8a78-f2d83696a658
 1 HUSB @I52@
-1 WIFE @I51@
+1 WIFE @I53@
 1 CHIL @I16@
 2 _FREL Natural
 2 _MREL Natural
