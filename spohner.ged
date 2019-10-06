@@ -14,9 +14,9 @@
 4 CONT Boston, MA 02109
 3 PHON (617) 227-6681
 1 DEST FTM
-1 FILE Spohner_2019-10-06-18-28-19.ftm.ged
+1 FILE Spohner_2019-10-06-21-10-42.ftm.ged
 1 DATE 06 OCT 2019
-2 TIME 18:28:54
+2 TIME 21:11:19
 0 @Umy2qBWIRUiwVSS6Hcn4@ SUBM
 1 NAME Christopher Alan Mosher
 2 EMAIL cmosher01@@gmail.com
@@ -3318,6 +3318,7 @@
 2 PLAC Morrisville, Eaton, Madison, New York, USA
 2 SOUR @F04MkaLOQMWi3LDxBPbf@
 3 QUAY 2
+3 OBJE @M56@
 2 NOTE same location as in 1875 altas
 1 RESI
 2 DATE 1870
@@ -5781,6 +5782,8 @@
 2 DATE ABT 1885
 2 SOUR @uDNUT3zxQwK8uCm0ATDx@
 3 QUAY 2
+3 OBJE @M57@
+3 OBJE @M58@
 1 RESI
 2 DATE FROM 1886 TO 09 FEB 1894
 2 PLAC Oneida Castle, Oneida, New York, USA
@@ -7975,10 +7978,8 @@
 1 AUTH Nolan, Brent
 1 PUBL 26 May 2002
 0 @F04MkaLOQMWi3LDxBPbf@ SOUR
-1 REFN 7cb5ecca-b9f6-4a92-ad4f-2fd92409489c
 1 TITL Eaton, 1868, Northern Portion of Town of Eaton [NY]
 1 PUBL http://www.borg.com/~mcholli/graphics/1868eatn.jpg
-1 TEXT <img src="mosher_files/eaton_ny_map_1868.jpg">
 0 @BjB1o1swQASuhlr4tZpD@ SOUR
 1 REFN cf85cd12-576c-4736-b2d3-d4b45f86c449
 1 TITL Eychner Genealogy
@@ -8257,10 +8258,7 @@
 1 TITL photograph, Mosher, William D., and Lovejoy, Alta Amelia [dr
 2 CONC awing reproduction]
 1 PUBL In possession of Chris Mosher
-1 TEXT <img src="mosher_files/mosher_william_lovejoy_alta_drawing.j
-2 CONC pg"><img src="mosher_files/colvin_george_spohner_nancy_drawi
-2 CONC ng.jpg"><br />
-2 CONT A series of two drawings that appear to have been made fro
+1 TEXT A series of two drawings that appear to have been made fro
 2 CONC m other photographs, rather than from the subjects themselve
 2 CONC s.<br />
 2 CONT (drawing 1)<br />
@@ -9240,4 +9238,22 @@
 2 TITL Zoeller_Elisabeth
 2 _DATE 9/28/2013 8:35:06 PM
 1 REFN 827328c1-634f-4257-94e8-509b9786df27
+0 @M56@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Spohner Media\e
+2 CONC aton_ny_map_1868.jpg
+2 FORM jpg
+2 TITL eaton_ny_map_1868
+2 _DATE 10/6/2019 9:08:09 PM
+0 @M57@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Spohner Media\c
+2 CONC olvin_george_spohner_nancy_drawing.jpg
+2 FORM jpg
+2 TITL colvin_george_spohner_nancy_drawing
+2 _DATE 10/6/2019 9:09:47 PM
+0 @M58@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Spohner Media\m
+2 CONC osher_william_lovejoy_alta_drawing.jpg
+2 FORM jpg
+2 TITL mosher_william_lovejoy_alta_drawing
+2 _DATE 10/6/2019 9:09:47 PM
 0 TRLR
