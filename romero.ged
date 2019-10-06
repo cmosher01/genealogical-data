@@ -3,7 +3,7 @@
 1 GEDC
 2 VERS 5.5.1
 2 FORM LINEAGE-LINKED
-1 COPR Copyright © 1998–2018, Christopher Alan Mosher, Shelton, CT
+1 COPR Copyright © 1998–2019, Christopher Alan Mosher, Shelton, CT
 2 CONC , USA.
 1 SUBM @Umy2qBWIRUiwVSS6Hcn4@
 1 SOUR FTM
@@ -14,9 +14,9 @@
 4 CONT Boston, MA 02109
 3 PHON (617) 227-6681
 1 DEST FTM
-1 FILE Romero_2018-12-01-06-10-10.ftm.ged
-1 DATE 01 DEC 2018
-2 TIME 06:10:57
+1 FILE Romero_2019-10-06-20-48-06.ftm.ged
+1 DATE 06 OCT 2019
+2 TIME 20:48:51
 0 @Umy2qBWIRUiwVSS6Hcn4@ SUBM
 1 NAME Christopher Alan Mosher
 2 EMAIL cmosher01@@gmail.com
@@ -3121,6 +3121,7 @@
 3 OBJE @Tvr4zibYShGtBKtMmK2u@
 3 _APID 1,2442::5009224
 2 SOUR @DHlf5w33Rp6xJqMYIsbd@
+3 OBJE @M11@
 2 SOUR @HNlukgjJS92CYnfZMphO@
 3 PAGE New York State Archives; Albany, New York; State Populatio
 4 CONC n Census Schedules, 1905; Election District: A.D. 18 E.D. 16
@@ -3327,12 +3328,14 @@
 2 PLAC 2114 Glenwood Road, Brooklyn, Kings, New York, USA
 2 SOUR @DHlf5w33Rp6xJqMYIsbd@
 3 QUAY 3
+3 OBJE @M11@
 2 NOTE time: 1:30 PM ET
 1 BURI
 2 DATE 16 OCT 1940
 2 PLAC Evergreen Cemetery, Queens, Queens, New York, USA
 2 SOUR @DHlf5w33Rp6xJqMYIsbd@
 3 QUAY 1
+3 OBJE @M11@
 2 SOUR @pSPkbr67S8ycZLwfYOet@
 1 RELI Catholic
 2 SOUR @AmmouxfZQcWccceDFZqO@
@@ -4433,13 +4436,11 @@
 1 PUBL Online publication - Provo, UT, USA: Ancestry.com.  Origina
 2 CONC l data:  Family Tree files submitted by Ancestry members.
 0 @DHlf5w33Rp6xJqMYIsbd@ SOUR
-1 REFN 7919eb54-3534-47ed-9fa6-2e7fa4763f32
 1 TITL Certificate of death, de [sic] Lopez, Francisica [sic], Numb
 2 CONC er 20442
 1 AUTH Bureau of Vital Records, Department of Health, Brooklyn, NY
 2 CONC , USA
 1 PUBL 14 Oct 1940, Brooklyn, NY, USA
-1 TEXT <img src="mosher_files/romero_francisca_death.jpg">
 0 @S24@ SOUR
 1 REFN ce88603c-3706-4e8a-9830-3c06cddf6ed0
 1 TITL Dr. Gabriel García M
@@ -5316,4 +5317,10 @@
 2 FORM jpg
 2 TITL Gabriel García Moreno
 1 REFN 67e88c83-c2c0-48ca-bee6-81777719770b
+0 @M11@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Romero Media\ro
+2 CONC mero_francisca_death.jpg
+2 FORM jpg
+2 TITL romero_francisca_death
+2 _DATE 10/6/2019 8:47:33 PM
 0 TRLR
