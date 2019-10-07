@@ -14,9 +14,9 @@
 4 CONT Boston, MA 02109
 3 PHON (617) 227-6681
 1 DEST FTM
-1 FILE root_2019-09-29-03-12-30.ftm.ged
-1 DATE 29 SEP 2019
-2 TIME 03:13:19
+1 FILE root_2019-10-07-02-22-40.ftm.ged
+1 DATE 07 OCT 2019
+2 TIME 02:23:20
 0 @Umy2qBWIRUiwVSS6Hcn4@ SUBM
 1 NAME Christopher Alan Mosher
 2 EMAIL cmosher01@@gmail.com
@@ -1375,6 +1375,7 @@
 3 _APID 1,2442::11197639
 2 SOUR @qyVfsAZXQpiSZ4HTD9bQ@
 3 QUAY 3
+3 OBJE @M169@
 2 SOUR @S181@
 3 PAGE New York State Department of Health; Albany, NY, USA; New Yo
 4 CONC rk State Birth Index
@@ -1595,7 +1596,7 @@
 2 TYPE photograph
 2 DATE ABT 1938
 2 PLAC Mosher Farm, Madison, Madison, New York, USA
-2 SOUR @WczpOswXTDqT5fcbdhNV@
+2 SOUR @S97@
 3 QUAY 3
 1 RESI
 2 DATE 01 APR 1940
@@ -1715,6 +1716,7 @@
 3 PAGE Number: 108-32-4321; Issue State: New York; Issue Date: 1957
 4 CONC -1959
 1 _XY 1735 4246
+1 _PHOTO @pXs1ND7TR7qArfvZAe2X@
 0 @I98@ INDI
 1 NAME [REDACTED]
 1 FAMC @F39@
@@ -3694,7 +3696,7 @@
 2 TYPE photograph
 2 DATE ABT 1938
 2 PLAC Mosher Farm, Madison, Madison, New York, USA
-2 SOUR @WczpOswXTDqT5fcbdhNV@
+2 SOUR @S97@
 3 QUAY 3
 1 RESI
 2 DATE 01 APR 1940
@@ -4314,7 +4316,7 @@
 2 TYPE photograph
 2 DATE ABT 1938
 2 PLAC Mosher Farm, Madison, Madison, New York, USA
-2 SOUR @WczpOswXTDqT5fcbdhNV@
+2 SOUR @S97@
 3 QUAY 3
 1 RESI
 2 DATE 01 APR 1940
@@ -4584,6 +4586,7 @@
 4 LONG W75.6682
 2 SOUR @o6tu6sB5TKOlBNP7gvNb@
 3 QUAY 3
+3 OBJE @M170@
 1 RESI
 2 DATE 06 MAY 1980
 2 PLAC Apt. 761, 350 24th Street NW, Winter Haven, Polk, Florida, U
@@ -4659,7 +4662,7 @@
 3 PAGE Number: 116-05-0086; Issue State: New York; Issue Date: Befo
 4 CONC re 1951
 1 _XY 1521 4246
-1 _PHOTO @M139@
+1 _PHOTO @qgMzjrsMQR2gYfvYt3lT@
 0 @7rTVfS2kRFuXBxanfcFl@ INDI
 1 NAME [REDACTED]
 1 FAMC @OdU5ZqfTRsqo5cfRSfnR@
@@ -8303,12 +8306,10 @@
 2 CONC , New York, USA
 1 PUBL 23 Dec 1939, Brooklyn, New York, USA
 0 @qyVfsAZXQpiSZ4HTD9bQ@ SOUR
-1 REFN acdd9910-bc98-4575-8189-26de4734d498
 1 TITL Certificate of birth, Harrison, Alice Irene
 1 AUTH Division of Vital Statistics, Department of Health, New York
 2 CONC , USA
 1 PUBL 9 Oct 1905, Hornby, Steuben, New York, USA
-1 TEXT <img src="mosher_files/harrison_alice_birth.jpg">
 0 @K5FFKa9wS3KlopARf4Hv@ SOUR
 1 REFN 65ec59ec-0e16-4037-bbbe-d0637e715e6a
 1 TITL Certificate of birth, Mosher, Barry Rexford, Number 60040
@@ -9181,13 +9182,9 @@
 2 CONT William George Mosher (son of Pearl Mae Colvin)<br />
 2 CONT Frederick Colvin Mosher (son of Pearl Mae Colvin)<br />
 0 @o6tu6sB5TKOlBNP7gvNb@ SOUR
-1 REFN 29344650-ddc5-4374-90ce-b6bdb3007bf6
 1 TITL photograph, Mosher, Frederick Colvin, c. Aug 1979
 1 AUTH Mosher, Barry Rexford
 1 PUBL In possession of Chris Mosher
-1 TEXT <img src="mosher_files/mosher_frederick_1979.jpg"><br />
-2 CONT Taken by Barry Mosher shortly before Aug 1979 (date of devel
-2 CONC opment).
 0 @WXi3clE3R9C5yPdpZ6gf@ SOUR
 1 REFN 762c9f98-9014-4ffe-aac7-823388d7742a
 1 TITL photograph, Mosher, Lewis William, and Colvin, Pearl Mae, 2
@@ -9202,73 +9199,16 @@
 2 CONT This is a photographic copy made from some earlier original
 2 CONC . The back of this copy says, "Lewis &amp; Pearl Mosher Wedd
 2 CONC ing Day"
-0 @WczpOswXTDqT5fcbdhNV@ SOUR
-1 REFN f0e6a72e-6d65-4c3a-ae74-d33f260ba1d4
-1 TITL photograph, Mosher, Lewis William, and Colvin, Pearl Mae, an
-2 CONC d Children and their Spouses, c. 1938
-1 PUBL In possession of Chris Mosher
-1 TEXT Series of 5 photographs that appear to have been taken at th
-2 CONC e same time.<br />
-2 CONT &nbsp;<br />
-2 CONT <img src="mosher_files/mosher_lewis_1938_1.jpg"><br />
-2 CONT "MOSHER FRED AND BILL 1938" written in ink by Barry.<br />
-2 CONT Frederick Colvin Mosher<br />
-2 CONT William George Mosher<br />
-2 CONT &nbsp;<br />
-2 CONT <img src="mosher_files/mosher_lewis_1938_2.jpg"><br />
-2 CONT "MOSHER FRED AND BILL 1938" written in ink by Barry.<br />
-2 CONT Frederick Colvin Mosher<br />
-2 CONT William George Mosher<br />
-2 CONT &nbsp;<br />
-2 CONT <img src="mosher_files/mosher_lewis_1938_3.jpg"><br />
-2 CONT "MOSHERS L-R BARRY IN FRED'S ARM BILL LEWIS (FATHER F+BILL 1
-2 CONC 938" written in ink by Barry.<br />
-2 CONT Barry Rexford Mosher, (in arms of his father:)<br />
-2 CONT Frederick Colvin Mosher (son of Lewis)<br />
-2 CONT William George Mosher (son of Lewis)<br />
-2 CONT Lewis William Mosher<br />
-2 CONT &nbsp;<br />
-2 CONT <img src="mosher_files/mosher_lewis_1938_4.jpg"><br />
-2 CONT "L-R ALICE MOSHER (FRED) EVELYN MOSHER (BILL) ALTA MOSHER (S
-2 CONC ISTER) PEARL MOSHER (MOTHER)" written in ink by Barry.<br />
-2 CONT Alice Irene Harrison (wife of Frederick Colvin Mosher)<br />
-2 CONT Evelyn Virginia Gray (wife of William George Mosher)<br />
-2 CONT Alta Elnor Mosher (sister of Frederick and William)<br />
-2 CONT Pearl Mae Colvin (mother of Frederick and William)<br />
-2 CONT &nbsp;<br />
-2 CONT <img src="mosher_files/mosher_lewis_1938_5.jpg"><br />
-2 CONT "L-R ALICE MOSHER (FRED) EVELYN MOSHER (BILL) ALTA MOSHER (S
-2 CONC ISTER) PEARL MOSHER (MOTHER)" written in ink by Barry.<br />
-2 CONT Alice Irene Harrison (wife of Frederick Colvin Mosher)<br />
-2 CONT Evelyn Virginia Gray (wife of William George Mosher)<br />
-2 CONT Alta Elnor Mosher (sister of Frederick and William)<br />
-2 CONT Pearl Mae Colvin (mother of Frederick and William)<br />
 0 @b1LaFcEgQGCOqgf7QkXQ@ SOUR
-1 REFN ee177d44-d9ba-4a8a-bf1a-e5207c22ae35
 1 TITL photograph, Mosher, Lewis William, and Colvin, Pearl Mae, an
 2 CONC d Descendants, c. 1943
 1 PUBL In possession of Chris Mosher
-1 TEXT <img src="mosher_files/mosher_lewis_colvin_pearl_descendants
-2 CONC _1943.jpg"><br />
-2 CONT Has writing on back by Barry: "L-R HELENE JANET JUNE BARRY L
-2 CONC OUIE--ALICE EVELYN PEARL BILL LEWIS FRED".<br />
-2 CONT Possibly taken at Fred, Alice, and Barry's residence on Spri
-2 CONC ng Street, Hamilton, NY.<br />
-2 CONT Chris Mosher's interpretation of people is as follows:<br />
-2 CONT (back row adults, left to right)<br />
-2 CONT Alice Irene Harrison (wife of Frederick Colvin Mosher)<br />
-2 CONT Evelyn Virginia Gray (wife of William George Mosher)<br />
-2 CONT Pearl Mae Colvin (wife of Lewis William Mosher)<br />
-2 CONT William "Bill" George Mosher (son of Lewis William Mosher)<b
-2 CONC r />
-2 CONT Lewis William Mosher<br />
-2 CONT Frederick Colvin Mosher (son of Lewis William Mosher)<br />
-2 CONT (front row children, left to right)<br />
-2 CONT Helene Jean Mosher (daughter of William George Mosher)<br />
-2 CONT Janet Alta Mosher (daughter of William George Mosher)<br />
-2 CONT June Marie Mosher (daughter of William George Mosher)<br />
-2 CONT Barry Rexford Mosher (son of Frederick Colvin Mosher)<br />
-2 CONT Lewis Warner Mosher (son of William George Mosher)<br />
+1 NOTE __GEDCOM__: TEXT
+2 CONT <a href="https://www.flickr.com/photos/mosher/6304968404/in/
+2 CONC photostream/" title="Mosher Family"><img src="https://live.s
+2 CONC taticflickr.com/6054/6304968404_0eae4124d3_t.jpg" width="100
+2 CONC " height="70" alt="Mosher Family"></a>
+2 CONT __GEDCOM__
 0 @zTHbrvuqSbuAR6PGEKnf@ SOUR
 1 REFN 106e6184-8300-4fa1-8719-457b14f9b0d0
 1 TITL photographs, Mosher, Frederick Colvin, and William George
@@ -9286,6 +9226,34 @@
 2 CONC " alt="Frederick Colvin Mosher and William George Mosher"></
 2 CONC a><br />
 2 CONT "William & Frederick Mosher"
+0 @S97@ SOUR
+1 TITL photographs, Mosher, Lewis William, and Colvin, Pearl Mae, a
+2 CONC nd Children and their Spouses, c. 1938
+1 PUBL In possession of Chris Mosher
+1 NOTE __GEDCOM__: TEXT
+2 CONT <a href="https://www.flickr.com/photos/mosher/6310845518/in/
+2 CONC photostream/" title="William George Mosher and Frederick Col
+2 CONC vin Mosher"><img src="https://live.staticflickr.com/6233/631
+2 CONC 0845518_8749cf9677_t.jpg" width="56" height="100" alt="Willi
+2 CONC am George Mosher and Frederick Colvin Mosher"></a>
+2 CONT <a href="https://www.flickr.com/photos/mosher/6310795088/in/
+2 CONC photostream/" title="William George Mosher and Frederick Col
+2 CONC vin Mosher"><img src="https://live.staticflickr.com/6217/631
+2 CONC 0795088_d532221548_t.jpg" width="56" height="100" alt="Willi
+2 CONC am George Mosher and Frederick Colvin Mosher"></a>
+2 CONT <a href="https://www.flickr.com/photos/mosher/6310230003/in/
+2 CONC photostream/" title="Mosher Men"><img src="https://live.stat
+2 CONC icflickr.com/6033/6310230003_8061078653_t.jpg" width="56" he
+2 CONC ight="100" alt="Mosher Men"></a>
+2 CONT <a href="https://www.flickr.com/photos/mosher/6307230493/in/
+2 CONC photostream/" title="Mosher Women"><img src="https://live.st
+2 CONC aticflickr.com/6036/6307230493_c745d57839_t.jpg" width="56
+2 CONC " height="100" alt="Mosher Women"></a>
+2 CONT <a href="https://www.flickr.com/photos/mosher/6307175085/in/
+2 CONC photostream/" title="Mosher Women"><img src="https://live.st
+2 CONC aticflickr.com/6037/6307175085_6807df926c_t.jpg" width="100
+2 CONC " height="57" alt="Mosher Women"></a>
+2 CONT __GEDCOM__
 0 @4vobF7MJSXiURv2fNIXY@ SOUR
 1 REFN abd5db2a-0cee-4f6d-b7ee-ee62559c0240
 1 TITL Postcard to Mrs. Pazmino from New York Hospital
@@ -12715,4 +12683,16 @@
 2 CONC w York, New York, Birth Index, 1910-1965(11).jpg
 2 FORM jpg
 2 TITL New York, New York, Birth Index, 1910-1965
+0 @M169@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\root Media\harr
+2 CONC ison_alice_birth.jpg
+2 FORM jpg
+2 TITL harrison_alice_birth
+2 _DATE 10/7/2019 1:52:45 AM
+0 @M170@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\root Media\mosh
+2 CONC er_frederick_1979.jpg
+2 FORM jpg
+2 TITL mosher_frederick_1979
+2 _DATE 10/7/2019 2:05:55 AM
 0 TRLR
