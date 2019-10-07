@@ -3,7 +3,7 @@
 1 GEDC
 2 VERS 5.5.1
 2 FORM LINEAGE-LINKED
-1 COPR Copyright © 1998–2018, Christopher Alan Mosher, Shelton, CT
+1 COPR Copyright © 1998–2019, Christopher Alan Mosher, Shelton, CT
 2 CONC , USA.
 1 SUBM @Umy2qBWIRUiwVSS6Hcn4@
 1 SOUR FTM
@@ -14,9 +14,9 @@
 4 CONT Boston, MA 02109
 3 PHON (617) 227-6681
 1 DEST FTM
-1 FILE Lovejoy_2018-10-10-03-02-49.ftm.ged
-1 DATE 10 OCT 2018
-2 TIME 03:03:49
+1 FILE Lovejoy_2019-10-07-01-47-24.ftm.ged
+1 DATE 07 OCT 2019
+2 TIME 01:48:14
 0 @Umy2qBWIRUiwVSS6Hcn4@ SUBM
 1 NAME Christopher Alan Mosher
 2 EMAIL cmosher01@@gmail.com
@@ -1108,13 +1108,6 @@
 2 SOUR @ob7JG7ZXRSWk7wo4smbw@
 3 OBJE @M163@
 3 _APID 1,3212::3115563
-1 EVEN
-2 TYPE photograph
-2 DATE ABT 1895
-2 SOUR @pGT3DUpXT4mgtWx6jhBX@
-2 SOUR @HZBhjPyzSnGQex5SAkNJ@
-2 NOTE Possibly this photograph is of her, but this is just a worki
-3 CONC ng hypothesis of mine. Date is also a complete guess.
 1 RESI
 2 DATE 1905
 2 PLAC Madison, Madison, New York, USA
@@ -11519,9 +11512,14 @@
 2 TYPE photograph
 2 DATE ABT 1895
 2 PLAC Carter Road, Madison, Madison, New York, USA
+2 SOUR @S107@
+3 PAGE <bibl> <title level="u">Algenas and Sarah (Patterson) Lovejo
+4 CONC y photograph</title>, ca. 1895, Madison, New York, USA; digi
+4 CONC tal images, <title level="u">Flickr</title>, (<ref target="h
+4 CONC ttps://www.flickr.com/photos/mosher/6242005375"/> : 6 Oct 20
+4 CONC 19). </bibl>
 2 SOUR @aQC8xTPhSUS5zbgmIiUk@
 3 QUAY 3
-2 SOUR @6DdCSW4ZTxiB8twQsuUx@
 1 CENS
 2 DATE 01 JUN 1900
 2 PLAC Madison, Madison, New York, USA
@@ -11814,6 +11812,8 @@
 2 DATE ABT 1885
 2 SOUR @odS4HjS8RnyI15t2mLT6@
 3 QUAY 2
+3 OBJE @M179@
+3 OBJE @M180@
 1 RESI
 2 DATE FROM MAR 1886 TO 1890
 2 PLAC The Hall, Brookfield, Madison, New York, USA
@@ -26681,10 +26681,12 @@
 3 PAGE New York State Department of Health; Albany, NY, USA; New Yo
 4 CONC rk State Marriage Index "Belcher"
 3 OBJE @M167@
+3 _APID 1,61632::5137918
 2 SOUR @S200@
 3 PAGE New York State Department of Health; Albany, NY, USA; New Yo
 4 CONC rk State Marriage Index "Bugbee"
 3 OBJE @M165@
+3 _APID 1,61632::5141629
 0 @ZRpayNe2TeqCIZYcDsM9@ FAM
 1 REFN b7d000c2-74b0-4178-a317-3f3a7c41dc76
 1 HUSB @DeOQHky6T76wQSE9omHE@
@@ -28586,6 +28588,11 @@
 1 TITL Family History
 1 AUTH Strouse, Ruth
 1 PUBL http://www.computerpro.com/~rootie/
+0 @S107@ SOUR
+1 TITL Family History, digital photograph album
+1 AUTH Mosher, Christopher Alan
+1 PUBL Flickr; Location: https://www.flickr.com/photos/mosher/album
+2 CONC s/72157627764247781
 0 @hbQRTxvOTvOKqQpkuq7I@ SOUR
 1 REFN dbfe2505-a619-491d-8271-4c88b4e88c72
 1 TITL Family Tree of Earl Richard and Shelley Dodge Green, The
@@ -29344,72 +29351,10 @@
 1 TITL Pedigree Resource File
 1 AUTH LDS
 1 PUBL http://www.familysearch.org/
-0 @6DdCSW4ZTxiB8twQsuUx@ SOUR
-1 REFN 8fb4c116-8ec2-4f04-be8b-33f6fec93a5f
-1 TITL photograph, Lovejoy, Algenas, and Patterson, Sarah Jane, c
-2 CONC . 1900
-1 PUBL In possession of Chris Mosher
-1 TEXT <img src="mosher_files/lovejoy_algenas_patterson_sarah_1900.
-2 CONC jpg"><br /><br />
-2 CONT Torn into two pieces. Back has writing: "Grandpa + Grandma L
-2 CONC ovejoy On back porch at farm home Cole Hill."
 0 @odS4HjS8RnyI15t2mLT6@ SOUR
-1 REFN 667df36c-0f09-4196-9fb1-457b639771cc
 1 TITL photograph, Mosher, William D., and Lovejoy, Alta Amelia [dr
 2 CONC awing reproduction]
 1 PUBL In possession of Chris Mosher
-1 TEXT <img src="mosher_files/mosher_william_lovejoy_alta_drawing.j
-2 CONC pg"><img src="mosher_files/colvin_george_spohner_nancy_drawi
-2 CONC ng.jpg"><br />
-2 CONT A series of two drawings that appear to have been made fro
-2 CONC m other photographs, rather than from the subjects themselve
-2 CONC s.<br />
-2 CONT (drawing 1)<br />
-2 CONT William D. Mosher (drawing actually says "William George Mos
-2 CONC her" but that is incorrect)<br />
-2 CONT Alta Amelia Lovejoy<br />
-2 CONT (drawing 2)<br />
-2 CONT Nancy Elnora Spohner<br />
-2 CONT George William Colvin<br />
-0 @pGT3DUpXT4mgtWx6jhBX@ SOUR
-1 REFN e80a3c06-5830-4481-97bc-83061c532652
-1 TITL photograph, unknown, possibly Mary, second wife of Lovejoy
-2 CONC , Algenas
-1 PUBL In posession of Chris Mosher
-1 TEXT <img src="mosher_files/lovejoy_mary_unknown.jpg"><br />
-2 CONT Has writing on back "Grand Ma Mosher". Barry Mosher says<b
-2 CONC r />
-2 CONT this was written by Pearl Mae Colvin, and that the subject<b
-2 CONC r />
-2 CONT of the photograph was Lewis William Mosher's paternal grandm
-2 CONC other (i.e., William D. Mosher's mother). Barry says<br />
-2 CONT that Lewis William Mosher lived with her in Solsville (while
-2 CONC <br />
-2 CONT working at Lyon's Mill) after his father William died.<br />
-2 CONT Lewis didn't live at Solsville before 1905 (according to NY<
-2 CONC br />
-2 CONT census of 1905 he was then living on Cole Hill). He probably
-2 CONC <br />
-2 CONT started working in Solsville around the time of his marriage
-2 CONC ,<br />
-2 CONT so around 1906-1908. By this time, Lewis's grandfather (Will
-2 CONC iam)<br />
-2 CONT and both his wives (Mary and Angelina) had passed away. So I
-2 CONC <br />
-2 CONT don't think this story is entirely true. Can you help identi
-2 CONC fy<br />
-2 CONT this person?<br />
-2 CONT <br />
-2 CONT One hypothesis: she was really Lewis's (step) "Grandma Lovej
-2 CONC oy", that is,<br />
-2 CONT his grandfather Algenas Lovejoy's second wife, Mary. This Ma
-2 CONC ry was<br />
-2 CONT born c. 1842, so would have been about 65 years old when Lew
-2 CONC is was<br />
-2 CONT in Solsville. Algene lived until Feb 1909 and she until Se
-2 CONC p 1909;<br />
-2 CONT possibly she was living with Lewis sometime during the perio
-2 CONC d Feb to Sep 1909.
 0 @fOo5OhArS1mp3MHv5ORo@ SOUR
 1 REFN 7acddd4b-ee39-4063-ad15-a8570ea3f3e1
 1 TITL Plantation Agreement at Providence
@@ -29650,53 +29595,6 @@
 2 CONC jpg" width="137" height="240" alt="Alta Amelia Lovejoy"></a>
 2 CONC <br />
 2 CONT [ALTA LOVEJOY]
-0 @HZBhjPyzSnGQex5SAkNJ@ SOUR
-1 REFN fe1ecaf2-6cc7-42e8-9392-8c760b5f6ab6
-1 TITL Portrait of unknown, possibly Mary, second wife of Lovejoy
-2 CONC , Algenas
-1 AUTH [unknown]
-1 PUBL In possession of Chris Mosher
-1 TEXT <a href="http://www.flickr.com/photos/mosher/6250763763/" ti
-2 CONC tle="Mary E. [Lovejoy] by cmosher01, on Flickr"><img src="ht
-2 CONC tp://farm7.static.flickr.com/6098/6250763763_054728b055_m.jp
-2 CONC g" width="180" height="240" alt="Mary E. [Lovejoy]"></a><b
-2 CONC r />
-2 CONT [Writing on back:] Grand-Ma Mosher<br />
-2 CONT [Photographer:] Fanning 364 CAMBRIDGE ST., ALLSTON, MASS.<b
-2 CONC r />
-2 CONT <p>
-2 CONT [Barry Mosher says that the writing on the back was
-2 CONT written by Pearl Mae Colvin, and that the person depicted
-2 CONT is Lewis William Mosher's paternal
-2 CONT grandmother (i.e., William D. Mosher's mother). Barry says
-2 CONT that Lewis William Mosher lived with her in Solsville (while
-2 CONT working at Lyon's Mill) after his father William died.]
-2 CONT </p>
-2 CONT <p>
-2 CONT [Lewis did not live at Solsville before 1905 (according to N
-2 CONC Y
-2 CONT census of 1905, when he was living on Cole Hill). He probabl
-2 CONC y
-2 CONT started working in Solsville around the time of his marriage
-2 CONC ,
-2 CONT so around 1906-1908. By this time, Lewis's grandfather (Will
-2 CONC iam)
-2 CONT and both his wives (Mary and Angelina) had passed away. So p
-2 CONC hotograph is
-2 CONT probably not of either of them.]
-2 CONT <p>
-2 CONT </p>
-2 CONT [Chris Mosher's hypothesis: she was really Lewis's (step) "G
-2 CONC randma Lovejoy", that is,
-2 CONT his grandfather Algenas Lovejoy's second wife, Mary. This Ma
-2 CONC ry was
-2 CONT born c. 1842, so would have been about 65 years old when Lew
-2 CONC is was
-2 CONT in Solsville. Algene lived until Feb 1909 and she until Se
-2 CONC p 1909;
-2 CONT possibly she was living with Lewis sometime during the perio
-2 CONC d Feb to Sep 1909.]
-2 CONT </p>
 0 @wINUFEhhRt2P63kIWXJr@ SOUR
 1 REFN 18827279-5b49-45b6-bad3-564e9adfb2b5
 1 TITL Portsmouth Compact, The
@@ -33507,4 +33405,16 @@
 2 CONC g
 2 FORM jpg
 2 TITL New York, County Marriage Records, 1847-1849, 1907-1936
+0 @M179@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Lovejoy Media\c
+2 CONC olvin_george_spohner_nancy_drawing.jpg
+2 FORM jpg
+2 TITL colvin_george_spohner_nancy_drawing
+2 _DATE 10/7/2019 1:29:03 AM
+0 @M180@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Lovejoy Media\m
+2 CONC osher_william_lovejoy_alta_drawing.jpg
+2 FORM jpg
+2 TITL mosher_william_lovejoy_alta_drawing
+2 _DATE 10/7/2019 1:29:03 AM
 0 TRLR

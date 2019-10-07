@@ -14,9 +14,9 @@
 4 CONT Boston, MA 02109
 3 PHON (617) 227-6681
 1 DEST FTM
-1 FILE Harrison_2019-09-30-00-16-37.ftm.ged
-1 DATE 30 SEP 2019
-2 TIME 00:17:17
+1 FILE Harrison_2019-10-06-22-26-02.ftm.ged
+1 DATE 06 OCT 2019
+2 TIME 22:26:53
 0 @Umy2qBWIRUiwVSS6Hcn4@ SUBM
 1 NAME Christopher Alan Mosher
 2 EMAIL cmosher01@@gmail.com
@@ -2213,6 +2213,9 @@
 2 TYPE note
 2 SOUR @cYbkwg43TNKinw9n4d9Y@
 3 QUAY 1
+3 OBJE @M103@
+3 OBJE @M104@
+3 OBJE @M105@
 2 NOTE This Rebecca is often reported as being Rebecca Briggs, ful
 3 CONC l sister of John Briggs. However, these claims are based o
 3 CONC n flimsy evidence. I don't believe that John Briggs would ha
@@ -19500,6 +19503,18 @@
 1 MARR
 2 DATE 19 FEB 1835
 2 PLAC Jesse Sands's house, Hornby, Steuben, New York, USA
+2 SOUR @S90@
+3 PAGE <bibl> <title level="u">Mr. George Harrison and Miss Mary Sa
+4 CONC nds</title>, minister’s certification of marriage, 1835, doc
+4 CONC ument passed down through the family; digital images, <titl
+4 CONC e level="u">Harrison Documents</title>, <author>Christophe
+4 CONC r A. Mosher</author>, <title level="m">Archive of Historica
+4 CONC l Family Documents</title> (<ref target="https://mosher.mine
+4 CONC .nu/tei/genealogy/main/sources/old/harrison/harrison_sands_v
+4 CONC itals.tei.xml"/> : 6 Oct 2019). </bibl>
+3 QUAY 3
+3 _LINK https://mosher.mine.nu/tei/genealogy/main/sources/old/harris
+4 CONC on/harrison_sands_vitals.tei.xml
 2 SOUR @iZlulgkISMSpUuqa7YAc@
 3 PAGE <bibl> <title level="u">Jesse Sands Family Bible Records, 17
 4 CONC 68–1943</title>, <title level="m">The Holy Bible: Containin
@@ -19525,8 +19540,6 @@
 4 CONC , Mary Sands Harrison, Henry Francis Harrison, George Elme
 4 CONC r Harrison, John Harrison, Sally Harrison Brown Duff, Christ
 4 CONC opher Alan Mosher. </bibl>
-2 SOUR @RSsbo5afQ2qv63RiUaqR@
-3 QUAY 3
 2 NOTE by Charles Goodrich
 0 @SECEG17DTR2JpN35QBiT@ FAM
 1 REFN bc6cf0d4-2d12-408a-a75a-f1547949127f
@@ -21777,6 +21790,11 @@
 2 CONT The body, taken to the Stevens Funeral Home, will be remove
 2 CONC d to Gerald Harrison's home Friday morning.
 2 CONT </p>
+0 @S90@ SOUR
+1 TITL Harrison, George, and Sands, Marry, minister’s certificatio
+2 CONC n of marriage
+1 PUBL Privately held by Chris Mosher; Location: Shelton, Connectic
+2 CONC ut, USA; Date: 1835
 0 @JpOBqF2MTEmAkzsDtKVU@ SOUR
 1 REFN 80f9ef21-507e-4342-bc55-5f600cb7123b
 1 TITL Harrison, Henry, and Hannah, marriage announcement
@@ -22379,23 +22397,6 @@
 1 TITL Maloney Family Tree
 1 AUTH Maloney
 1 PUBL jmaloney1948, ancestry.com
-0 @RSsbo5afQ2qv63RiUaqR@ SOUR
-1 REFN 2528dfce-109d-4c58-8fff-30fc12a8a4bc
-1 TITL Marriage certificate, Harrison, George, and Sands, Mary
-1 AUTH Goodrich, Charles
-1 PUBL In possession of Chris Mosher, 1835
-1 TEXT <img src="mosher_files/harrison_sands_marriage.jpg"><br />
-2 CONT I hereby certify that I have this day united in<br />
-2 CONT marriage Mr George Harrison & Miss Mary<br />
-2 CONT Sands. This ceremony took place at the house<br />
-2 CONT of her father Mr Jesse Sands in the town of<br />
-2 CONT Hornby, County of Steuben & state of New York.<br />
-2 CONT &nbsp;&nbsp;There were present on the occasion the parents<b
-2 CONC r />
-2 CONT of both parties & others. Hornby Feb<sup>y</sup> 19: 1835<b
-2 CONC r />
-2 CONT &nbsp;&nbsp;&nbsp;&nbsp;Attest Charles Goodrich Verb. Dei Mi
-2 CONC n.
 0 @oZEq5RcjSqSFBjCnTjBj@ SOUR
 1 REFN 85ba0a5a-5c62-48cf-a58d-7df887e3ca6e
 1 TITL Marshall Genealogy Page
@@ -23907,13 +23908,9 @@
 2 CONT real: value 120, tax 6f<br />
 2 CONT personal: value 424, tax 10f 12s<br />
 0 @cYbkwg43TNKinw9n4d9Y@ SOUR
-1 REFN c31f758c-6f40-4efe-8709-cd622f1b5fe7
 1 TITL Who was Rebecca Cornell?, in American Genealogist, The
 1 AUTH McCracken, George E.
 1 PUBL v. 36, pp. 16-18
-1 TEXT <img src="mosher_files/cornell_rebecca_p16.gif" align="top">
-2 CONC <img src="mosher_files/cornell_rebecca_p17.gif" align="top">
-2 CONC <img src="mosher_files/cornell_rebecca_p18.gif" align="top">
 0 @5K8dhE9dQUq9nqceApmI@ SOUR
 1 REFN bd8b9047-514a-4955-b1d3-2dd295a27fc9
 1 TITL Will, Sands, James (copy), in New Shoreham Land Evidence vol
@@ -24927,4 +24924,22 @@
 2 FORM jpg
 2 TITL New York, Registers of Officers and Enlisted Men Mustered in
 3 CONC to Federal Service, 1861-1865
+0 @M103@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Harrison Media\
+2 CONC cornell_rebecca_p16.gif
+2 FORM jpg
+2 TITL cornell_rebecca_p16
+2 _DATE 10/6/2019 10:25:11 PM
+0 @M104@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Harrison Media\
+2 CONC cornell_rebecca_p17.gif
+2 FORM jpg
+2 TITL cornell_rebecca_p17
+2 _DATE 10/6/2019 10:25:11 PM
+0 @M105@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Harrison Media\
+2 CONC cornell_rebecca_p18.gif
+2 FORM jpg
+2 TITL cornell_rebecca_p18
+2 _DATE 10/6/2019 10:25:11 PM
 0 TRLR
