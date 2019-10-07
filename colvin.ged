@@ -14,9 +14,9 @@
 4 CONT Boston, MA 02109
 3 PHON (617) 227-6681
 1 DEST FTM
-1 FILE Colvin_2019-09-30-03-16-39.ftm.ged
-1 DATE 30 SEP 2019
-2 TIME 03:17:19
+1 FILE Colvin_2019-10-07-02-57-35.ftm.ged
+1 DATE 07 OCT 2019
+2 TIME 02:58:12
 0 @Umy2qBWIRUiwVSS6Hcn4@ SUBM
 1 NAME Christopher Alan Mosher
 2 EMAIL cmosher01@@gmail.com
@@ -1525,8 +1525,9 @@
 3 OBJE @z641tiVZQca74tYbYTUP@
 3 _LINK https://familysearch.org/pal:/MM9.3.1/TH-1942-32563-12926-80
 4 CONC ?cc=2078654&wc=M9M4-D7K:2028948705
-2 SOUR @DVVmQpUbSyeiascsoCuO@
+2 SOUR @S27@
 3 PAGE 3 locations
+3 OBJE @M250@
 3 _LINK http://www.historicmapworks.com/Map/US/705734/Cazenovia+1852
 4 CONC +36x46/
 2 OBJE @z641tiVZQca74tYbYTUP@
@@ -1560,8 +1561,9 @@
 1 RESI
 2 DATE 1852
 2 PLAC William Street, Cazenovia, Madison, New York, USA
-2 SOUR @DVVmQpUbSyeiascsoCuO@
+2 SOUR @S27@
 3 PAGE 3 locations
+3 OBJE @M250@
 3 _LINK http://www.historicmapworks.com/Map/US/705734/Cazenovia+1852
 4 CONC +36x46/
 2 NOTE house is between Lincklaen Street and Farnham Street, on nor
@@ -4265,8 +4267,9 @@
 1 EVEN
 2 TYPE photograph
 2 DATE ABT 1885
-2 SOUR @HawXYd7ARo6WBLqzOFZ0@
+2 SOUR @S61@
 3 QUAY 2
+3 OBJE @M252@
 1 RESI
 2 DATE FROM 1886 TO 09 FEB 1894
 2 PLAC Oneida Castle, Oneida, New York, USA
@@ -13242,6 +13245,10 @@
 1 AUTH Division of Vital Statistics, Department of Health, New York
 2 CONC , USA
 1 PUBL 3 Mar 1894, Smithfield, Madison, NY, USA
+0 @S61@ SOUR
+1 TITL Colvin, George William, and Spohner, Nancy, photograph, draw
+2 CONC ing reproduction
+1 PUBL In possession of Chris Mosher
 0 @8ruO0PKLS92tgAJai8YC@ SOUR
 1 REFN 28fb3ed9-9ab4-42ca-860d-ca895324e505
 1 TITL Deaths in Cazenovia, Fenner, and Nelson
@@ -13382,12 +13389,10 @@
 1 TITL Madison County (New York) Land Records
 1 AUTH Madison County (New York)
 1 PUBL Madison County (New York); Location: Wampsville, NY, USA
-0 @DVVmQpUbSyeiascsoCuO@ SOUR
-1 REFN df4249e2-ad5e-473c-a6d3-bd3f43a1da24
-1 TITL Map of the Village of Cazenovia [NY]
+0 @S27@ SOUR
+1 TITL Map of the Village of Cazenovia (New York, USA)
 1 AUTH Hart, Henry
 1 PUBL 1852
-1 TEXT <img src="mosher_files/map_ny_cazenovia_1852.jpg">
 0 @S112@ SOUR
 1 REPO @R1@
 1 TITL Massachusetts, Marriages, 1633-1850
@@ -13812,56 +13817,64 @@
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com
 0 @FdHlxOsdTOeewTLlr9CX@ SOUR
-1 REFN 905aedaf-0154-47d5-8add-afd866ccba19
 1 TITL photograph, Colvin, James, and Family, tin, c. 1903
 1 PUBL In possession of Chris Mosher
-1 TEXT <img src="mosher_files/colvin_james_tin.jpg"><br />
+1 NOTE __GEDCOM__: TEXT
+2 CONT <a href="https://www.flickr.com/photos/mosher/6281583344" ti
+2 CONC tle="Colvin Family (edited)"><img src="https://live.staticfl
+2 CONC ickr.com/6213/6281583344_827cffa014_m.jpg" width="205" heigh
+2 CONC t="240" alt="Colvin Family (edited)"></a><br>
+2 CONT <a href="https://www.flickr.com/photos/mosher/6349653500" ti
+2 CONC tle="Colvin Family (original)"><img src="https://live.static
+2 CONC flickr.com/6232/6349653500_c9209fd28e_m.jpg" width="175" hei
+2 CONC ght="240" alt="Colvin Family (original)"></a><br>
 2 CONT Tintype photograph. Scratched, stained, and creased. James
 2 CONC , Pearl, and woman at upper right had faces scratched; the
 2 CONC y are retouched here. Subjects are in front of a backdrop wi
 2 CONC th stars and clouds on it, and there is a crescent moon cuto
-2 CONC ut on the left.<br />
-2 CONT Barry Mosher's information about the people:<br />
+2 CONC ut on the left.<br>
+2 CONT Barry Mosher's information about the people:<br>
 2 CONT "JIM COLVIN, PEARL OVER HIS L. SHOULDER, JIMS WIFE NELL UPPE
-2 CONC R LEFT"<br /><br />
-2 CONT Alta Mosher Benedict's information:<br />
-2 CONT back row: unknown, unknown, "Pearl," "Hatty Colvin House"<b
-2 CONC r />
-2 CONT middle row: unknown, unknown, unknown<br />
+2 CONC R LEFT"<br><br>
+2 CONT Alta Mosher Benedict's information:<br>
+2 CONT back row: unknown, unknown, "Pearl," "Hatty Colvin House"<br
+2 CONC >
+2 CONT middle row: unknown, unknown, unknown<br>
 2 CONT front row: middle child "Clarence Colvin brother to Pearl bo
 2 CONC rn after his father Geroge died" other two children: "Probab
-2 CONC ly House children Emmit & Florence?"<br />
-2 CONT Chris Mosher's interpretation:<br />
-2 CONT back row, left to right:<br />
+2 CONC ly House children Emmit & Florence?"<br>
+2 CONT Chris Mosher's interpretation:<br>
+2 CONT back row, left to right:<br>
 2 CONT Cornelia "Nell" O. [maiden name unknown] (wife of James Colv
-2 CONC in)<br /><br />
+2 CONC in)<br><br>
 2 CONT possibly Bert? "Bertie" Colvin (just a guess, based on age
-2 CONC ) (brother of Pearl Mae Colvin)<br />
-2 CONT Pearl Mae Colvin<br />
+2 CONC ) (brother of Pearl Mae Colvin)<br>
+2 CONT Pearl Mae Colvin<br>
 2 CONT Hatty Colvin (wife of Mr. House) (possibly a sister of Jame
-2 CONC s Colvin)<br /><br />
-2 CONT middle row, left to right:<br />
-2 CONT unknown<br />
+2 CONC s Colvin)<br><br>
+2 CONT middle row, left to right:<br>
+2 CONT unknown<br>
 2 CONT James Colvin (brother of William George Colvin father of Pea
-2 CONC rl Mae Colvin)<br />
+2 CONC rl Mae Colvin)<br>
 2 CONT possibly William Colvin (just a guess, based on age) (son o
-2 CONC f James Colvin and Cornelia)<br />
-2 CONT front row, left to right:<br />
+2 CONC f James Colvin and Cornelia)<br>
+2 CONT front row, left to right:<br>
 2 CONT [first name unknown] House (daughter of Hatty) (just a gues
-2 CONC s by Alta)<br/><br />
-2 CONT Clarence Colvin (brother of Pearl Mae Colvin)<br />
+2 CONC s by Alta)<br><br>
+2 CONT Clarence Colvin (brother of Pearl Mae Colvin)<br>
 2 CONT [first name unknown] House (son of Hatty) (just a guess by A
-2 CONC lta)<br /><br />
+2 CONC lta)<br><br>
 2 CONT Date of photograph: Pearl appears to be in her early twentie
 2 CONC s, so that would be 1902-1907. Pearl lived with James (her u
 2 CONC ncle, in center of photo) after her father died in 1894 (sho
 2 CONC wn in 1900 census) until sometime before she moved to Hamilt
-2 CONC on and met Lewis Mosher 1907 (at the latest).<br />
+2 CONC on and met Lewis Mosher 1907 (at the latest).<br>
 2 CONT If front center child is Clarence, he appears to be 8 or 9 a
 2 CONC t the oldest, which would put it at 1902 or 1903. So assumin
 2 CONC g 1903, that would put Pearl at 21, James at 56, Cornelia a
 2 CONC t 55, William (if that's him) at 29, Bertie (if that's him
-2 CONC ) at 23.<br />
+2 CONC ) at 23.<br>
+2 CONT __GEDCOM__
 0 @Ll6rTxqMQDKn4Q8wbBbU@ SOUR
 1 REFN fd46d725-4381-4aca-a7b0-56b0f72db924
 1 TITL photograph, Colvin, Pearl Mae, and children, and Colvin, Jam
@@ -13919,87 +13932,65 @@
 2 CONC . The back of this copy says, "Lewis &amp; Pearl Mosher Wedd
 2 CONC ing Day"
 0 @Unn9rwiFQCiWtC7eLnwL@ SOUR
-1 REFN f0e6a72e-6d65-4c3a-ae74-d33f260ba1d4
 1 TITL photograph, Mosher, Lewis William, and Colvin, Pearl Mae, an
 2 CONC d Children and their Spouses, c. 1938
 1 PUBL In possession of Chris Mosher
-1 TEXT Series of 5 photographs that appear to have been taken at th
-2 CONC e same time.<br />
-2 CONT &nbsp;<br />
-2 CONT <img src="mosher_files/mosher_lewis_1938_1.jpg"><br />
-2 CONT "MOSHER FRED AND BILL 1938" written in ink by Barry.<br />
-2 CONT Frederick Colvin Mosher<br />
-2 CONT William George Mosher<br />
-2 CONT &nbsp;<br />
-2 CONT <img src="mosher_files/mosher_lewis_1938_2.jpg"><br />
-2 CONT "MOSHER FRED AND BILL 1938" written in ink by Barry.<br />
-2 CONT Frederick Colvin Mosher<br />
-2 CONT William George Mosher<br />
-2 CONT &nbsp;<br />
-2 CONT <img src="mosher_files/mosher_lewis_1938_3.jpg"><br />
-2 CONT "MOSHERS L-R BARRY IN FRED'S ARM BILL LEWIS (FATHER F+BILL 1
-2 CONC 938" written in ink by Barry.<br />
-2 CONT Barry Rexford Mosher, (in arms of his father:)<br />
-2 CONT Frederick Colvin Mosher (son of Lewis)<br />
-2 CONT William George Mosher (son of Lewis)<br />
-2 CONT Lewis William Mosher<br />
-2 CONT &nbsp;<br />
-2 CONT <img src="mosher_files/mosher_lewis_1938_4.jpg"><br />
-2 CONT "L-R ALICE MOSHER (FRED) EVELYN MOSHER (BILL) ALTA MOSHER (S
-2 CONC ISTER) PEARL MOSHER (MOTHER)" written in ink by Barry.<br />
-2 CONT Alice Irene Harrison (wife of Frederick Colvin Mosher)<br />
-2 CONT Evelyn Virginia Gray (wife of William George Mosher)<br />
-2 CONT Alta Elnor Mosher (sister of Frederick and William)<br />
-2 CONT Pearl Mae Colvin (mother of Frederick and William)<br />
-2 CONT &nbsp;<br />
-2 CONT <img src="mosher_files/mosher_lewis_1938_5.jpg"><br />
-2 CONT "L-R ALICE MOSHER (FRED) EVELYN MOSHER (BILL) ALTA MOSHER (S
-2 CONC ISTER) PEARL MOSHER (MOTHER)" written in ink by Barry.<br />
-2 CONT Alice Irene Harrison (wife of Frederick Colvin Mosher)<br />
-2 CONT Evelyn Virginia Gray (wife of William George Mosher)<br />
-2 CONT Alta Elnor Mosher (sister of Frederick and William)<br />
-2 CONT Pearl Mae Colvin (mother of Frederick and William)<br />
+1 NOTE __GEDCOM__: TEXT
+2 CONT <a href="https://www.flickr.com/photos/mosher/6310845518" ti
+2 CONC tle="William George Mosher and Frederick Colvin Mosher"><im
+2 CONC g src="https://live.staticflickr.com/6233/6310845518_8749cf9
+2 CONC 677_t.jpg" width="56" height="100" alt="William George Moshe
+2 CONC r and Frederick Colvin Mosher"></a>
+2 CONT <a href="https://www.flickr.com/photos/mosher/6310795088" ti
+2 CONC tle="William George Mosher and Frederick Colvin Mosher"><im
+2 CONC g src="https://live.staticflickr.com/6217/6310795088_d532221
+2 CONC 548_t.jpg" width="56" height="100" alt="William George Moshe
+2 CONC r and Frederick Colvin Mosher"></a>
+2 CONT <a href="https://www.flickr.com/photos/mosher/6310230003" ti
+2 CONC tle="Mosher Men"><img src="https://live.staticflickr.com/603
+2 CONC 3/6310230003_8061078653_t.jpg" width="56" height="100" alt="
+2 CONC Mosher Men"></a>
+2 CONT <a href="https://www.flickr.com/photos/mosher/6307230493" ti
+2 CONC tle="Mosher Women"><img src="https://live.staticflickr.com/6
+2 CONC 036/6307230493_c745d57839_t.jpg" width="56" height="100" alt
+2 CONC ="Mosher Women"></a>
+2 CONT <a href="https://www.flickr.com/photos/mosher/6307175085" ti
+2 CONC tle="Mosher Women"><img src="https://live.staticflickr.com/6
+2 CONC 037/6307175085_6807df926c_t.jpg" width="100" height="57" alt
+2 CONC ="Mosher Women"></a>
+2 CONT __GEDCOM__
 0 @licAVWo0S9KhAx9AZBiM@ SOUR
 1 REFN c1ff5d05-9f93-41b6-9053-57564b486e48
 1 TITL photograph, Mosher, Lewis William, and Colvin, Pearl Mae, an
 2 CONC d Children, c. 1925
 1 PUBL In possession of Chris Mosher
-1 TEXT <img src="mosher_files/mosher_lewis_colvin_pearl_children_19
-2 CONC 25.jpg"><br /><br />
-2 CONT Frederick Colvin Mosher (son of Lewis and Pearl)<br />
-2 CONT William George Mosher (son of Lewis and Pearl)<br />
-2 CONT Lewis William Mosher<br />
+1 NOTE
+2 CONT __GEDCOM__: TEXT
+2 CONT <a href="https://www.flickr.com/photos/mosher/6301275718" ti
+2 CONC tle="Lewis William Mosher and Family"><img src="https://live
+2 CONC .staticflickr.com/6057/6301275718_02b69f7186_m.jpg" width="2
+2 CONC 40" height="160" alt="Lewis William Mosher and Family"></a><
+2 CONC br>
+2 CONT Frederick Colvin Mosher (son of Lewis and Pearl)<br>
+2 CONT William George Mosher (son of Lewis and Pearl)<br>
+2 CONT Lewis William Mosher<br>
 2 CONT (in front) Alta Elnor Mosher (daughter of Lewis and Pearl)<b
-2 CONC r />
-2 CONT Pearl Mae Colvin (wife of Lewis)<br />
+2 CONC r>
+2 CONT Pearl Mae Colvin (wife of Lewis)<br>
+2 CONT __GEDCOM__
 0 @9FPuHCnmTWKfsBYe2UsZ@ SOUR
-1 REFN ee177d44-d9ba-4a8a-bf1a-e5207c22ae35
 1 TITL photograph, Mosher, Lewis William, and Colvin, Pearl Mae, an
 2 CONC d Descendants, c. 1943
 1 PUBL In possession of Chris Mosher
-1 TEXT <img src="mosher_files/mosher_lewis_colvin_pearl_descendants
-2 CONC _1943.jpg"><br />
-2 CONT Has writing on back by Barry: "L-R HELENE JANET JUNE BARRY L
-2 CONC OUIE--ALICE EVELYN PEARL BILL LEWIS FRED".<br />
-2 CONT Possibly taken at Fred, Alice, and Barry's residence on Spri
-2 CONC ng Street, Hamilton, NY.<br />
-2 CONT Chris Mosher's interpretation of people is as follows:<br />
-2 CONT (back row adults, left to right)<br />
-2 CONT Alice Irene Harrison (wife of Frederick Colvin Mosher)<br />
-2 CONT Evelyn Virginia Gray (wife of William George Mosher)<br />
-2 CONT Pearl Mae Colvin (wife of Lewis William Mosher)<br />
-2 CONT William "Bill" George Mosher (son of Lewis William Mosher)<b
-2 CONC r />
-2 CONT Lewis William Mosher<br />
-2 CONT Frederick Colvin Mosher (son of Lewis William Mosher)<br />
-2 CONT (front row children, left to right)<br />
-2 CONT Helene Jean Mosher (daughter of William George Mosher)<br />
-2 CONT Janet Alta Mosher (daughter of William George Mosher)<br />
-2 CONT June Marie Mosher (daughter of William George Mosher)<br />
-2 CONT Barry Rexford Mosher (son of Frederick Colvin Mosher)<br />
-2 CONT Lewis Warner Mosher (son of William George Mosher)<br />
+1 NOTE __GEDCOM__: TEXT
+2 CONT <br>
+2 CONT <a href="https://www.flickr.com/photos/mosher/6304968404" ti
+2 CONC tle="Mosher Family"><img src="https://live.staticflickr.com/
+2 CONC 6054/6304968404_0eae4124d3_m.jpg" width="240" height="168" a
+2 CONC lt="Mosher Family"></a>
+2 CONT <br>
+2 CONT __GEDCOM__
 0 @0m1AbFlARaSANQcWvdDa@ SOUR
-1 REFN 0c0dd759-ffc1-4a9d-b5dd-00e6ddc28e95
 1 TITL photograph, Mosher, Lewis William, and Colvin, Pearl Mae, c
 2 CONC . 1930
 1 PUBL In possession of Chris Mosher
@@ -14007,12 +13998,11 @@
 2 CONC tle="Lewis William Mosher and Pearl Mae Colvin by cmosher01
 2 CONC , on Flickr"><img src="http://farm7.static.flickr.com/6221/6
 2 CONC 304882244_2fc8af3a06_m.jpg" width="240" height="140" alt="Le
-2 CONC wis William Mosher and Pearl Mae Colvin"></a><br />
+2 CONC wis William Mosher and Pearl Mae Colvin"></a><br>
 2 CONT Back has writing: "Lewis Wm. Mosher at farm house, Pearl hi
 2 CONC s wife on the porch. This was his first tractor--notice whee
 2 CONC ls"
 0 @mvdPCNkKRV2vWvSpWomL@ SOUR
-1 REFN 2e5c21b9-96ad-4d80-9feb-e8a772f57b37
 1 TITL photograph, Mosher, Lewis William, and Colvin, Pearl Mae, c
 2 CONC . 1948
 1 PUBL In possession of Chris Mosher
@@ -14024,17 +14014,19 @@
 2 CONT This is a photographic copy made from some earlier original
 2 CONC . The back of this copy says, "Lewis + Pearl Mosher"
 0 @YSSVP9BuRkCVOehLNqlg@ SOUR
-1 REFN a1e0251a-29af-4d62-86b1-ebfe1373a8fa
 1 TITL photograph, Mosher, Lewis William, and Colvin, Pearl Mae, c
 2 CONC . 1950
 1 PUBL In possession of Chris Mosher
-1 TEXT <img src="mosher_files/mosher_lewis_colvin_pearl_1950.jpg"><
-2 CONC br /><br />
-2 CONT No writing on this photograph. It appears to be taken from t
-2 CONC he back yard of 9 Eaton Street, Hamilton, NY, facing toward
-2 CONC s the back of the house.
+1 NOTE __GEDCOM__: TEXT
+2 CONT <br>
+2 CONT <a href="https://www.flickr.com/photos/mosher/6307614712" ti
+2 CONC tle="Lewis William Mosher and Pearl Mae Colvin"><img src="ht
+2 CONC tps://live.staticflickr.com/6211/6307614712_5fe0940e79_m.jpg
+2 CONC " width="138" height="240" alt="Lewis William Mosher and Pea
+2 CONC rl Mae Colvin"></a>
+2 CONT <br>
+2 CONT __GEDCOM__
 0 @25Afaq1jQiGRcGqE2HOv@ SOUR
-1 REFN 36fa5abf-8a19-4ef5-a724-8b8ca0707111
 1 TITL photograph, Mosher, Lewis William, and Colvin, Pearl Mae, c
 2 CONC . 1952
 1 PUBL In possession of Chris Mosher
@@ -14046,7 +14038,6 @@
 2 CONT The back says "Lewis &amp; Pearl Mosher/Eaton St., Hamilton"
 2 CONC . This is a reproduction.
 0 @y289h1ktREOeeBRjv4MM@ SOUR
-1 REFN 95b3b994-6a16-4a23-87d8-02bedcce928c
 1 TITL photograph, Mosher, Lewis William, and Colvin, Pearl Mae, c
 2 CONC . 29 Jul 1958
 1 PUBL In possession of Chris Mosher
@@ -14063,8 +14054,13 @@
 1 REFN a366f6fa-3d2d-4fd8-9381-a55783d64ac5
 1 TITL photograph, Mosher, Lewis William, and Siblings, Jul 1951
 1 PUBL In possession of Chris Mosher
-1 TEXT <img src="mosher_files/mosher_lewis_siblings_1951.jpg"></b
-2 CONC r ><br />
+1 NOTE
+2 CONT __GEDCOM__: TEXT
+2 CONT <br>
+2 CONT <a href="https://www.flickr.com/photos/mosher/6319723922" ti
+2 CONC tle="Mosher Family"><img src="https://live.staticflickr.com/
+2 CONC 6216/6319723922_d89810d4fd_m.jpg" width="240" height="229" a
+2 CONC lt="Mosher Family"></a><br>
 2 CONT Has written on front, "Dolores is B's daughter." Has writte
 2 CONC n on back, possibly by Beatrice, "July 1951. What an interes
 2 CONC ting picture. Aunt Lissa thinks she is a movie star with th
@@ -14072,43 +14068,25 @@
 2 CONC r the best looking one there." Also on back, written in a di
 2 CONC fferent handwriting, "taken in Earlville. Clarence Scott, Mr
 2 CONC s. Woods, Aunt Lissa, Beatrice M. Woods, Pearl Mosher, Lewis
-2 CONC , Mr. Abbot, Dolores, + Mrs. Abott."<br />
-2 CONT Chris Mosher's interpretation of people (left to right):<b
-2 CONC r />
-2 CONT (standing)<br />
-2 CONT Clarence Scott (husband of Lissa Sarah Mosher)<br />
+2 CONC , Mr. Abbot, Dolores, + Mrs. Abott."<br>
+2 CONT Chris Mosher's interpretation of people (left to right):<br>
+2 CONT (standing)<br>
+2 CONT Clarence Scott (husband of Lissa Sarah Mosher)<br>
 2 CONT Mrs. Wood (possibly mother of Harold William Wood husband o
-2 CONC f Beatrice Alta Mosher)<br />
-2 CONT Lissa Sarah Mosher (sister of Lewis William Mosher)<br />
+2 CONC f Beatrice Alta Mosher)<br>
+2 CONT Lissa Sarah Mosher (sister of Lewis William Mosher)<br>
 2 CONT Beatrice Alta Mosher (daughter of Legrand Leo Mosher brothe
-2 CONC r of Lewis William Mosher)<br />
-2 CONT Pearl Mae Colvin<br />
-2 CONT Lewis William Mosher<br />
-2 CONT (sitting)<br />
-2 CONT Mr. Abbot (unknown relation?)<br />
+2 CONC r of Lewis William Mosher)<br>
+2 CONT Pearl Mae Colvin<br>
+2 CONT Lewis William Mosher<br>
+2 CONT (sitting)<br>
+2 CONT Mr. Abbot (unknown relation?)<br>
 2 CONT Dolores Una Wood (daughter of Beatrice Alta Mosher and Harol
-2 CONC d William Wood)<br />
-2 CONT Mrs. Abbot (obviously wife of Mr. Abbot)<br />
+2 CONC d William Wood)<br>
+2 CONT Mrs. Abbot (obviously wife of Mr. Abbot)<br>
 2 CONT (note: possibly the photo was taken by Harold William Wood
-2 CONC , but this is purely a guess)<br />
-0 @HawXYd7ARo6WBLqzOFZ0@ SOUR
-1 REFN 667df36c-0f09-4196-9fb1-457b639771cc
-1 TITL photograph, Mosher, William D., and Lovejoy, Alta Amelia [dr
-2 CONC awing reproduction]
-1 PUBL In possession of Chris Mosher
-1 TEXT <img src="mosher_files/mosher_william_lovejoy_alta_drawing.j
-2 CONC pg"><img src="mosher_files/colvin_george_spohner_nancy_drawi
-2 CONC ng.jpg"><br />
-2 CONT A series of two drawings that appear to have been made fro
-2 CONC m other photographs, rather than from the subjects themselve
-2 CONC s.<br />
-2 CONT (drawing 1)<br />
-2 CONT William D. Mosher (drawing actually says "William George Mos
-2 CONC her" but that is incorrect)<br />
-2 CONT Alta Amelia Lovejoy<br />
-2 CONT (drawing 2)<br />
-2 CONT Nancy Elnora Spohner<br />
-2 CONT George William Colvin<br />
+2 CONC , but this is purely a guess)<br>
+2 CONT __GEDCOM__
 0 @yDREPnUGSuKy6pyLgzXw@ SOUR
 1 REFN 7f97056e-0459-4eb6-8f05-5682634e397c
 1 TITL Probate records, Colvin, Henrietta, file 4418
@@ -16593,4 +16571,16 @@
 2 TITL 1860 United States Federal Census
 2 _TEXT Year: 1860; Census Place: Webster, Washtenaw, Michigan; Roll
 3 CONC : M653_563; Page: 36; Family History Library Film: 803563
+0 @M250@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Colvin Media\ma
+2 CONC p_ny_cazenovia_1852.jpg
+2 FORM jpg
+2 TITL map_ny_cazenovia_1852
+2 _DATE 10/7/2019 2:29:10 AM
+0 @M252@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Colvin Media\co
+2 CONC lvin_george_spohner_nancy_drawing.jpg
+2 FORM jpg
+2 TITL colvin_george_spohner_nancy_drawing
+2 _DATE 10/7/2019 2:56:51 AM
 0 TRLR
