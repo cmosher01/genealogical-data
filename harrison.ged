@@ -14,9 +14,9 @@
 4 CONT Boston, MA 02109
 3 PHON (617) 227-6681
 1 DEST FTM
-1 FILE Harrison_2019-10-06-22-26-02.ftm.ged
-1 DATE 06 OCT 2019
-2 TIME 22:26:53
+1 FILE Harrison_2019-10-08-03-40-13.ftm.ged
+1 DATE 08 OCT 2019
+2 TIME 03:40:57
 0 @Umy2qBWIRUiwVSS6Hcn4@ SUBM
 1 NAME Christopher Alan Mosher
 2 EMAIL cmosher01@@gmail.com
@@ -70,6 +70,21 @@
 1 SEX F
 1 FAMS @DGogLiLdRmqZBzsuPGH7@
 1 _XY 85470 1699
+0 @I592@ INDI
+1 REFN db38949c-0369-413c-b68f-92883bbb4b2d
+1 NAME Anthony /Andreassi/
+1 SEX M
+1 FAMC @F488@
+0 @I591@ INDI
+1 REFN 8f930542-4c18-4073-9529-428d9ccd787b
+1 NAME Nicholas /Andreassi/
+1 SEX M
+1 FAMC @F488@
+0 @I593@ INDI
+1 REFN 455b5b38-23ac-49c1-834c-e3da591277f1
+1 NAME Thomas A. /Andreassi/
+1 SEX M
+1 FAMS @F488@
 0 @9YU1KayQSZejf6gQUwoW@ INDI
 1 REFN e474e39b-79e9-4494-a4fd-fdf97d96fbe9
 1 NAME Abigail /Baldwin/
@@ -1418,6 +1433,18 @@
 1 SEX F
 1 FAMS @1tPF9QaWR4ecibLGelwG@
 1 _XY 96302 1850
+0 @I602@ INDI
+1 NAME [REDACTED]
+1 FAMC @F493@
+0 @I601@ INDI
+1 NAME [REDACTED]
+1 FAMC @F493@
+0 @I600@ INDI
+1 NAME [REDACTED]
+1 FAMC @F493@
+0 @I603@ INDI
+1 NAME [REDACTED]
+1 FAMS @F493@
 0 @UdEme07sQ8KxwgY5yUR1@ INDI
 1 REFN 6301ff7c-1630-40f0-aa5c-65a543b885e8
 1 NAME Abigail /Bruen/
@@ -2523,6 +2550,15 @@
 3 _APID 1,7250::1382758808
 2 NOTE Relation to Head of House: Head
 1 _XY 86920 2293
+0 @I604@ INDI
+1 REFN 2f9a193c-4ea6-495f-a490-a7a2887c70cf
+1 NAME Charles Brownley /Duff/
+1 SEX M
+1 FAMS @F494@
+1 BIRT
+2 DATE ABT 1935
+1 DEAT
+2 DATE 28 FEB 2019
 0 @r1C11vnvReOe3xa4XdzT@ INDI
 1 REFN c6c806f7-b187-47fb-ac1e-d9e9319180e2
 1 NAME Judith /Feake/
@@ -3411,6 +3447,82 @@
 4 LONG W73.5387
 2 SOUR @cBT3fG9OT1aT8eHp0ct8@
 1 _XY 96499 1837
+0 @I598@ INDI
+1 REFN 5754f5e6-4b7a-4c96-accf-47baf88486cf
+1 NAME Thelma Loretta /Greene/
+2 SOUR @2Tqe6FIjTKCB96mC4JOU@
+3 PAGE Year: 1940; Census Place: Corning, Steuben, New York; Roll
+4 CONC : T627_2781; Page: 12A; Enumeration District: 51-29
+3 OBJE @M109@
+3 _APID 1,2442::8661580
+2 SOUR @UD5K4qjOSWuiUJD8Ih6k@
+3 PAGE Ancestry Family Tree
+3 DATA
+4 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=62861
+5 CONC &pid=1185
+2 SOUR @S175@
+3 PAGE New York State Department of Health; Albany, NY, USA; New Yo
+4 CONC rk State Marriage Index; Thelma L. Green
+3 OBJE @M116@
+3 _APID 1,61632::3743471
+2 SOUR @S195@
+3 PAGE Thelma Loretta Greene
+3 OBJE @M115@
+3 _APID 1,61377::900674704
+2 SOUR @D5SLrrBySbi6oa3ygAnv@
+3 OBJE @M114@
+3 _APID 1,2469::90966942
+1 SEX F
+1 FAMS @F490@
+1 OBJE @M117@
+1 BIRT
+2 DATE 1909
+2 PLAC New York, USA
+3 MAP
+4 LATI N42.7531
+4 LONG W74.2224
+2 SOUR @2Tqe6FIjTKCB96mC4JOU@
+3 PAGE Year: 1940; Census Place: Corning, Steuben, New York; Roll
+4 CONC : T627_2781; Page: 12A; Enumeration District: 51-29
+3 OBJE @M109@
+3 _APID 1,2442::8661580
+2 SOUR @S195@
+3 PAGE Thelma Loretta Greene
+3 OBJE @M115@
+3 _APID 1,61377::900674704
+1 RESI
+2 DATE 1931
+2 PLAC Painted Post, Steuben, New York, USA
+3 MAP
+4 LATI N42.162
+4 LONG W77.0941
+2 SOUR @D5SLrrBySbi6oa3ygAnv@
+3 OBJE @M114@
+3 _APID 1,2469::90966942
+1 RESI
+2 DATE 1935
+2 PLAC Corning, Steuben, New York, USA
+3 MAP
+4 LATI N42.1429
+4 LONG W77.0547
+2 SOUR @2Tqe6FIjTKCB96mC4JOU@
+3 PAGE Year: 1940; Census Place: Corning, Steuben, New York; Roll
+4 CONC : T627_2781; Page: 12A; Enumeration District: 51-29
+3 OBJE @M109@
+3 _APID 1,2442::8661580
+1 RESI
+2 DATE 01 APR 1940
+2 PLAC 191 Columbia Street, Corning, Steuben, New York, USA
+2 SOUR @2Tqe6FIjTKCB96mC4JOU@
+3 PAGE Year: 1940; Census Place: Corning, Steuben, New York; Roll
+4 CONC : T627_2781; Page: 12A; Enumeration District: 51-29
+3 OBJE @M109@
+3 _APID 1,2442::8661580
+2 NOTE Age: 28; Marital Status: Married; Relation to Head of House
+3 CONC : Wife
+2 NOTE Marital Status: Married; Relation to Head: Wife
+1 _XY 2730 4250
+1 _PHOTO @M117@
 0 @N9GnMTbPStiRBdgJgxHi@ INDI
 1 REFN 968dfacb-042b-4a58-91e8-9afc08eac1dd
 1 NAME Sally /Haasze/
@@ -3738,13 +3850,456 @@
 0 @TxTDl5TdTdqYQBctCLt1@ INDI
 1 REFN 2794e299-7170-44be-88e6-2a72f7281292
 1 NAME Alice Irene /Harrison/
+2 SOUR @JUgnOwW8T2Gy5BZo8eZW@
+3 PAGE Year: 1910; Census Place: Hornby, Steuben, New York; Roll: T
+4 CONC 624_1080; Page: 9B; Enumeration District: 0132; FHL microfil
+4 CONC m: 1375093
+3 OBJE @M39@
+3 _APID 1,7884::103801442
+2 SOUR @EK7T5HK7THyj56uQA095@
+3 PAGE Year: 1920; Census Place: Hornby, Steuben, New York
+3 OBJE @M43@
+3 _APID 1,6061::87520711
+2 SOUR @6ueRmpMIQ9qSG0rSnwpX@
+3 PAGE Year: 1930; Census Place: Hornby, Steuben, New York; Roll: 1
+4 CONC 648; Page: 7B; Enumeration District: 44; Image: 1002.0; FH
+4 CONC L microfilm: 2341382
+3 OBJE @M45@
+3 _APID 1,6224::46292275
+2 SOUR @2Tqe6FIjTKCB96mC4JOU@
+3 PAGE Year: 1940; Census Place: Hamilton, Madison, New York; Roll
+4 CONC : T627_2624; Page: 1A; Enumeration District: 27-19
+3 OBJE @M130@
+3 _APID 1,2442::11197639
+2 SOUR @UD5K4qjOSWuiUJD8Ih6k@
+3 PAGE Ancestry Family Tree
+3 DATA
+4 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=62861
+5 CONC &pid=9
+2 SOUR @S192@
+3 PAGE New York State Department of Health; Albany, NY, USA; New Yo
+4 CONC rk State Birth Index
+3 OBJE @M135@
+3 _APID 1,61667::1202300
+2 SOUR @S175@
+3 PAGE New York State Department of Health; Albany, NY, USA; New Yo
+4 CONC rk State Marriage Index; Alice I. Harrison
+3 OBJE @M136@
+3 _APID 1,61632::4479119
+2 SOUR @S195@
+3 PAGE Alice I Harrison
+3 OBJE @M134@
+3 _APID 1,61377::900678968
+2 SOUR @vsHf59o6QmyAlKrTp9EW@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1915; Election District: 01; Assembly Di
+4 CONC strict: 01; City: Hornby; County: Steuben; Page: 14
+3 OBJE @M72@
+3 _APID 1,2703::6630887
+2 SOUR @XLqOXBdKSiS546wsc0IB@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1925; Election District: 01; Assembly Di
+4 CONC strict: 01; City: Hornby; County: Steuben; Page: 13
+3 OBJE @M73@
+3 _APID 1,2704::25133675
+2 SOUR @fgk8xAOsQLeHP2vct6BI@
+3 _APID 1,60525::134903332
+2 SOUR @S200@
+3 OBJE @M133@
+2 SOUR @S200@
+3 PAGE p. 21, top photograph, Alice is the teacher standing in th
+4 CONC e back, (unindexed)
+3 OBJE @M131@
+3 _APID 1,1265::352943825
+2 SOUR @S200@
+3 PAGE p. 4, “Faculty” photograph
+3 _APID 1,1265::352944245
+2 SOUR @S200@
+3 PAGE p. 5, “Faculty” photograph
+3 OBJE @M132@
+3 _APID 1,1265::379585121
+2 SOUR @S200@
+3 PAGE p. 5, “Faculty” photograph, (2nd index entry)
+3 OBJE @M132@
+3 _APID 1,1265::379585711
+2 SOUR @S188@
+3 PAGE Number: 108-32-4321; Issue State: New York; Issue Date: 1957
+4 CONC -1959
+3 _APID 1,3693::43960439
 1 SEX F
 1 FAMC @SECEG17DTR2JpN35QBiT@
+1 FAMS @F492@
+1 OBJE @M129@
 1 BIRT
 2 DATE 03 SEP 1905
+2 PLAC Harrison Homestead, Hornby, Steuben, New York, USA
+2 SOUR @JUgnOwW8T2Gy5BZo8eZW@
+3 PAGE Year: 1910; Census Place: Hornby, Steuben, New York; Roll: T
+4 CONC 624_1080; Page: 9B; Enumeration District: 0132; FHL microfil
+4 CONC m: 1375093
+3 OBJE @M39@
+3 _APID 1,7884::103801442
+2 SOUR @EK7T5HK7THyj56uQA095@
+3 PAGE Year: 1920; Census Place: Hornby, Steuben, New York
+3 OBJE @M43@
+3 _APID 1,6061::87520711
+2 SOUR @6ueRmpMIQ9qSG0rSnwpX@
+3 PAGE Year: 1930; Census Place: Hornby, Steuben, New York; Roll: 1
+4 CONC 648; Page: 7B; Enumeration District: 44; Image: 1002.0; FH
+4 CONC L microfilm: 2341382
+3 OBJE @M45@
+3 _APID 1,6224::46292275
+2 SOUR @2Tqe6FIjTKCB96mC4JOU@
+3 PAGE Year: 1940; Census Place: Hamilton, Madison, New York; Roll
+4 CONC : T627_2624; Page: 1A; Enumeration District: 27-19
+3 OBJE @M130@
+3 _APID 1,2442::11197639
+2 SOUR @S201@
+3 QUAY 3
+3 OBJE @M137@
+2 SOUR @S192@
+3 PAGE New York State Department of Health; Albany, NY, USA; New Yo
+4 CONC rk State Birth Index
+3 OBJE @M135@
+3 _APID 1,61667::1202300
+2 SOUR @S195@
+3 PAGE Alice I Harrison
+3 OBJE @M134@
+3 _APID 1,61377::900678968
+2 SOUR @vsHf59o6QmyAlKrTp9EW@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1915; Election District: 01; Assembly Di
+4 CONC strict: 01; City: Hornby; County: Steuben; Page: 14
+3 OBJE @M72@
+3 _APID 1,2703::6630887
+2 SOUR @XLqOXBdKSiS546wsc0IB@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1925; Election District: 01; Assembly Di
+4 CONC strict: 01; City: Hornby; County: Steuben; Page: 13
+3 OBJE @M73@
+3 _APID 1,2704::25133675
+2 SOUR @fgk8xAOsQLeHP2vct6BI@
+3 _APID 1,60525::134903332
+2 SOUR @S200@
+3 OBJE @M133@
+2 SOUR @S200@
+3 PAGE p. 21, top photograph, Alice is the teacher standing in th
+4 CONC e back, (unindexed)
+3 OBJE @M131@
+3 _APID 1,1265::352943825
+2 SOUR @S200@
+3 PAGE p. 4, “Faculty” photograph
+3 _APID 1,1265::352944245
+2 SOUR @S200@
+3 PAGE p. 5, “Faculty” photograph
+3 OBJE @M132@
+3 _APID 1,1265::379585121
+2 SOUR @S200@
+3 PAGE p. 5, “Faculty” photograph, (2nd index entry)
+3 OBJE @M132@
+3 _APID 1,1265::379585711
+2 SOUR @S188@
+3 PAGE Number: 108-32-4321; Issue State: New York; Issue Date: 1957
+4 CONC -1959
+3 _APID 1,3693::43960439
+2 NOTE Harrison Homestead from Leo Harrison
+1 RESI
+2 DATE 03 SEP 1905
+2 PLAC Hornby General Store, Hornby, Steuben, New York, USA
+2 SOUR @1SIe6ODlREuvmbzQ0vzX@
+1 RESI
+2 DATE 03 SEP 1905
+2 PLAC Hornby General Store, Hornby, Steuben, New York, USA
+2 SOUR @S197@
+1 RESI
+2 DATE 03 SEP 1905
+2 PLAC Harrison Homestead, Hornby, Steuben, New York, USA
+2 SOUR @S197@
+2 SOUR @1SIe6ODlREuvmbzQ0vzX@
+1 CENS
+2 DATE 15 APR 1910
+2 PLAC Hornby, Steuben, New York, USA
+3 MAP
+4 LATI N42.2442
+4 LONG W77.0444
+2 SOUR @bCE5xHV6QKiOAsdN4U6h@
+3 QUAY 3
+1 RESI
+2 DATE 1910
+2 PLAC Hornby, Steuben, New York, USA
+3 MAP
+4 LATI N42.2442
+4 LONG W77.0444
+2 SOUR @JUgnOwW8T2Gy5BZo8eZW@
+3 PAGE Year: 1910; Census Place: Hornby, Steuben, New York; Roll: T
+4 CONC 624_1080; Page: 9B; Enumeration District: 0132; FHL microfil
+4 CONC m: 1375093
+3 OBJE @M39@
+3 _APID 1,7884::103801442
+2 NOTE Age: 4; Marital Status: Single; Relation to Head of House: D
+3 CONC aughter
+1 RESI
+2 DATE 01 JUN 1915
+2 PLAC Hornby, Steuben, New York, USA
+3 MAP
+4 LATI N42.2442
+4 LONG W77.0444
+2 SOUR @vsHf59o6QmyAlKrTp9EW@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1915; Election District: 01; Assembly Di
+4 CONC strict: 01; City: Hornby; County: Steuben; Page: 14
+3 OBJE @M72@
+3 _APID 1,2703::6630887
+2 NOTE Age: 8; Relation to Head of House: Daughter
+1 CENS
+2 DATE 01 JAN 1920
+2 PLAC Hornby, Steuben, New York, USA
+3 MAP
+4 LATI N42.2442
+4 LONG W77.0444
+2 SOUR @Nfc6qyJDTRKsFIMkH0WF@
+3 QUAY 3
+1 RESI
+2 DATE 1920
+2 PLAC Hornby, Steuben, New York, USA
+3 MAP
+4 LATI N42.2442
+4 LONG W77.0444
+2 SOUR @EK7T5HK7THyj56uQA095@
+3 PAGE Year: 1920; Census Place: Hornby, Steuben, New York
+3 OBJE @M43@
+3 _APID 1,6061::87520711
+2 NOTE Age: 14; Marital Status: Single; Relation to Head of House
+3 CONC : Daughter
+1 RESI
+2 DATE 1922
+2 PLAC Corning, Steuben, New York, USA
+3 MAP
+4 LATI N42.1429
+4 LONG W77.0547
+2 SOUR @S197@
+2 SOUR @1SIe6ODlREuvmbzQ0vzX@
+3 QUAY 1
+2 NOTE rented room at high school
+1 GRAD
+2 DATE 24 JUN 1924
+2 PLAC Corning Northside High School, Corning, Steuben, New York, U
+3 CONC SA
+2 SOUR @S207@
+3 QUAY 1
+2 NOTE after 8:00 PM
+1 RESI
+2 DATE 01 JUN 1925
+2 PLAC Hornby, Steuben, New York, USA
+3 MAP
+4 LATI N42.2442
+4 LONG W77.0444
+2 SOUR @XLqOXBdKSiS546wsc0IB@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1925; Election District: 01; Assembly Di
+4 CONC strict: 01; City: Hornby; County: Steuben; Page: 13
+3 OBJE @M73@
+3 _APID 1,2704::25133675
+2 NOTE Age: 19; Relation to Head of House: Daughter
+1 GRAD
+2 DATE JUN 1925
+2 PLAC Corning Northside High School, Corning, Steuben, New York, U
+3 CONC SA
+2 SOUR @S203@
+3 QUAY 3
+1 RESI
+2 DATE 1925
+2 PLAC Fredonia, Chautauqua, New York, USA
+3 MAP
+4 LATI N42.4401
+4 LONG W79.3317
+2 SOUR @S200@
+3 NOTE This record was for Alice Harrison in the 1925 Fredonia Stat
+4 CONC e Normal School Yearbook, p. 53, but was later lost on Ances
+4 CONC try.com. https://www.ancestry.com/interactive/1265/30757_061
+4 CONC 618-00054
+1 GRAD
+2 DATE 10 AUG 1925
+2 PLAC Corning, Steuben, New York, USA
+3 MAP
+4 LATI N42.1429
+4 LONG W77.0547
+2 SOUR @S204@
+2 NOTE one-year course
+3 CONT 3 year license
+1 GRAD
+2 DATE 19 AUG 1929
+2 PLAC New York State Normal School, Geneseo, Livingston, New York
+3 CONC , USA
+2 SOUR @S205@
+3 QUAY 3
+2 NOTE completed two years of a three-year course
+1 CENS
+2 DATE 01 APR 1930
+2 PLAC Hornby, Steuben, New York, USA
+3 MAP
+4 LATI N42.2442
+4 LONG W77.0444
+2 SOUR @mj5aHaXSQUiBwcI1iQkK@
+3 QUAY 3
+1 RESI
+2 DATE 1930
+2 PLAC Hornby, Steuben, New York, USA
+3 MAP
+4 LATI N42.2442
+4 LONG W77.0444
+2 SOUR @6ueRmpMIQ9qSG0rSnwpX@
+3 PAGE Year: 1930; Census Place: Hornby, Steuben, New York; Roll: 1
+4 CONC 648; Page: 7B; Enumeration District: 44; Image: 1002.0; FH
+4 CONC L microfilm: 2341382
+3 OBJE @M45@
+3 _APID 1,6224::46292275
+2 NOTE Age: 24; Marital Status: Single; Relation to Head of House
+3 CONC : Daughter
+1 GRAD
+2 DATE 12 AUG 1932
+2 PLAC New York State Normal School, Geneseo, Livingston, New York
+3 CONC , USA
+2 SOUR @S206@
+3 QUAY 3
+2 NOTE three-year course
+1 RESI
+2 DATE 1935
+2 PLAC Hamilton, Madison, New York, USA
+3 MAP
+4 LATI N42.827
+4 LONG W75.5446
+2 SOUR @2Tqe6FIjTKCB96mC4JOU@
+3 PAGE Year: 1940; Census Place: Hamilton, Madison, New York; Roll
+4 CONC : T627_2624; Page: 1A; Enumeration District: 27-19
+3 OBJE @M130@
+3 _APID 1,2442::11197639
+1 EVEN
+2 TYPE photograph
+2 DATE ABT 1938
+2 PLAC Mosher Farm, Madison, Madison, New York, USA
+2 SOUR @S213@
+3 QUAY 3
+1 RESI
+2 DATE 01 APR 1940
+2 PLAC Hamilton, Madison, New York, USA
+3 MAP
+4 LATI N42.827
+4 LONG W75.5446
+2 SOUR @2Tqe6FIjTKCB96mC4JOU@
+3 PAGE Year: 1940; Census Place: Hamilton, Madison, New York; Roll
+4 CONC : T627_2624; Page: 1A; Enumeration District: 27-19
+3 OBJE @M130@
+3 _APID 1,2442::11197639
+2 NOTE Age: 34; Marital Status: Married; Relation to Head of House
+3 CONC : Wife
+1 OCCU substitute teacher
+2 DATE SEP 1942
+2 PLAC Hamilton Central School, Broad Street, Hamilton, Madison, Ne
+3 CONC w York, USA
+2 SOUR @S209@
+3 QUAY 2
+2 SOUR @S211@
+2 NOTE Ending date might have been Jan 1946. Located on SE corner o
+3 CONC f Broad St. and Hamilton St. Lot had two buildings connecte
+3 CONC d by hallway: High School (older buliding, on corner) and Gr
+3 CONC ade School (newer building, next building south on Broad St.
+3 CONC ) Alice taught in the Grade School building.
+1 EVEN
+2 TYPE photograph
+2 DATE ABT 1943
+2 PLAC Spring Street, Hamilton, Madison, New York, USA
+2 SOUR @S212@
+3 QUAY 3
+1 OCCU kindergarten teacher
+2 DATE JAN 1945
+2 PLAC Earlville Central School, Earlville, Madison, New York, USA
+2 SOUR @S209@
+3 QUAY 2
+2 SOUR @S210@
+2 NOTE or 1946
+1 OCCU 3rd grade teacher
+2 DATE SEP 1945
+2 PLAC Earlville Central School, Earlville, Madison, New York, USA
+2 SOUR @S209@
+3 QUAY 2
+2 NOTE or 1946
+1 RESI
+2 DATE 1948
+2 PLAC Earlville, New York, USA
+2 SOUR @S200@
+3 PAGE p. 21, top photograph, Alice is the teacher standing in th
+4 CONC e back, (unindexed)
+3 OBJE @M131@
+3 _APID 1,1265::352943825
+2 SOUR @S200@
+3 PAGE p. 4, “Faculty” photograph
+3 _APID 1,1265::352944245
+1 RESI
+2 DATE 1950
+2 PLAC Earlville, New York, USA
+2 SOUR @S200@
+3 PAGE p. 5, “Faculty” photograph
+3 OBJE @M132@
+3 _APID 1,1265::379585121
+2 SOUR @S200@
+3 PAGE p. 5, “Faculty” photograph, (2nd index entry)
+3 OBJE @M132@
+3 _APID 1,1265::379585711
+1 TITL President of Earlville, NY, Teachers Association
+2 DATE ABT NOV 1959
+2 PLAC Earlville, Madison, New York, USA
+3 MAP
+4 LATI N42.7446
+4 LONG W75.5458
+2 SOUR @S208@
+1 EVEN
+2 TYPE High school class 40 year reunion
+2 DATE 20 JUN 1964
+2 PLAC Masonic Cathedral, Corning, Steuben, New York, USA
+2 SOUR @S214@
+1 OCCU 4th grade teacher
+2 DATE SEP 1966
+2 PLAC Earlville Central School, Earlville, Madison, New York, USA
+2 SOUR @S209@
+3 QUAY 1
 1 DEAT
 2 DATE 08 APR 1971
+2 PLAC Apartment C, 2303 Inglewood Road, Fairfax, Wilmington, New C
+3 CONC astle, Delaware, USA
+2 SOUR @S202@
+3 QUAY 3
+2 SOUR @fgk8xAOsQLeHP2vct6BI@
+3 _APID 1,60525::134903332
+2 SOUR @S188@
+3 PAGE Number: 108-32-4321; Issue State: New York; Issue Date: 1957
+4 CONC -1959
+3 _APID 1,3693::43960439
+2 NOTE time: 11:00 PM ET,
+3 CONT immediate cause: carcinoma of bladder with extensive metasta
+3 CONC sis to viscera and central nervous system (for 2.5 years),
+3 CONT contributing cause: extensive urinary tract bleeding
+1 BURI
+2 DATE 10 APR 1971
+2 PLAC Edgewood Memorial Park, 325 Baltimore Pike, Glen Mills, Dela
+3 CONC ware, Pennsylvania, USA
+2 SOUR @S202@
+3 QUAY 1
+2 SOUR @fgk8xAOsQLeHP2vct6BI@
+3 _APID 1,60525::134903332
+2 NOTE lot 66, section I, unit A, grave 5 or 6 (on is Fred, one i
+3 CONC s Alice)
+1 SSN 108-32-4321
+2 PLAC Earlville, Madison, New York, USA
+3 MAP
+4 LATI N42.7446
+4 LONG W75.5458
+2 SOUR @S188@
+3 PAGE Number: 108-32-4321; Issue State: New York; Issue Date: 1957
+4 CONC -1959
 1 _XY 85374 2636
+1 _XY 1735 4246
+1 _PHOTO @M129@
 0 @I579@ INDI
 1 REFN a186588f-b74d-440a-909c-bb4dc9d992d4
 1 NAME Augusta /Harrison/
@@ -3881,6 +4436,10 @@
 3 OBJE @M96@
 3 _APID 1,7163::32272046
 2 NOTE Residence Post Office: Tyrone
+0 @I594@ INDI
+1 NAME [REDACTED]
+1 FAMC @F489@
+1 FAMS @F488@
 0 @mJF43POyQIyPHyJAHEIh@ INDI
 1 REFN dedbb5a5-0eb1-48fa-8ce1-102439c65173
 1 NAME Edward /Harrison/
@@ -4027,6 +4586,169 @@
 3 DATA
 4 TEXT cert. no. 48149
 1 _XY 85814 2387
+0 @I597@ INDI
+1 REFN 8d33b605-7f05-4adc-9d13-821cb6b29084
+1 NAME Gale E. /Harrison/
+2 SOUR @2Tqe6FIjTKCB96mC4JOU@
+3 PAGE Year: 1940; Census Place: Corning, Steuben, New York; Roll
+4 CONC : T627_2781; Page: 12A; Enumeration District: 51-29.
+3 DATA
+4 TEXT Name:
+5 CONT Gale Harrison
+5 CONT Birth:
+5 CONT abt 1935 in New York
+5 CONT Death:
+3 OBJE @M109@
+3 _LINK http://search.ancestry.com/cgi-bin/sse.dll?db=1940usfedcen&h
+4 CONC =8661581&ti=0&indiv=try&gss=pt
+3 _APID 1,2442::8661581
+2 SOUR @S192@
+3 PAGE New York State Department of Health; Albany, NY, USA; New Yo
+4 CONC rk State Birth Index
+3 OBJE @M110@
+3 _APID 1,61667::4119024
+2 SOUR @S175@
+3 PAGE New York State Department of Health; Albany, NY, USA; New Yo
+4 CONC rk State Marriage Index; Gale Harrison
+3 OBJE @M112@
+3 _APID 1,61632::3230174
+2 SOUR @D5SLrrBySbi6oa3ygAnv@
+3 PAGE 1957
+3 OBJE @M111@
+3 _APID 1,2469::1483666688
+2 SOUR @D5SLrrBySbi6oa3ygAnv@
+3 PAGE 1957 (2nd index entry)
+3 OBJE @M111@
+3 _APID 1,2469::1329761185
+2 SOUR @D5SLrrBySbi6oa3ygAnv@
+3 PAGE 1960
+3 OBJE @M106@
+3 _APID 1,2469::1331791394
+2 SOUR @D5SLrrBySbi6oa3ygAnv@
+3 PAGE 1960 (2nd index entry)
+3 OBJE @M106@
+3 _APID 1,2469::103803090
+2 SOUR @S193@
+3 PAGE City: Rochester; State: New York; Year(s): 1993-2001
+3 _APID 1,7339::44911998
+2 SOUR @S193@
+3 PAGE City: Rochester; State: New York; Year(s): 2002
+3 _APID 1,7339::105860986
+2 SOUR @S187@
+3 _APID 1,1788::9473899
+2 SOUR @S191@
+3 PAGE Ames, Rochester
+3 _APID 1,1732::268513628
+2 SOUR @S191@
+3 PAGE Valley, Rochester
+3 _APID 1,1732::268763064
+2 SOUR @S186@
+3 PAGE Publication Date: 20/ Apr/ 2015; Publication Place: Rocheste
+4 CONC r, New York, USA; URL: http://www.legacy.com/obituaries/Demo
+4 CONC cratAndChronicle/obituary.aspx?n=mary-jane-harrison-beba&amp
+4 CONC ;pid=174672790&amp;fhid=7351
+3 _APID 1,7545::109977287
+1 SEX M
+2 SOUR @2Tqe6FIjTKCB96mC4JOU@
+3 _APID 1,2442::8661581
+1 FAMC @F490@
+1 FAMS @F489@
+1 OBJE @M113@
+1 BIRT
+2 DATE ABT 1935
+2 PLAC Corning, Steuben, New York, USA
+3 MAP
+4 LATI N42.1429
+4 LONG W77.0547
+2 SOUR @2Tqe6FIjTKCB96mC4JOU@
+3 PAGE Year: 1940; Census Place: Corning, Steuben, New York; Roll
+4 CONC : T627_2781; Page: 12A; Enumeration District: 51-29.
+3 DATA
+4 TEXT Name:
+5 CONT Gale Harrison
+5 CONT Birth:
+5 CONT abt 1935 in New York
+5 CONT Death:
+3 OBJE @M109@
+3 _LINK http://search.ancestry.com/cgi-bin/sse.dll?db=1940usfedcen&h
+4 CONC =8661581&ti=0&indiv=try&gss=pt
+3 _APID 1,2442::8661581
+2 SOUR @S192@
+3 PAGE New York State Department of Health; Albany, NY, USA; New Yo
+4 CONC rk State Birth Index
+3 OBJE @M110@
+3 _APID 1,61667::4119024
+2 SOUR @S187@
+3 _APID 1,1788::9473899
+2 SOUR @S191@
+3 PAGE Ames, Rochester
+3 _APID 1,1732::268513628
+2 SOUR @S191@
+3 PAGE Valley, Rochester
+3 _APID 1,1732::268763064
+1 RESI
+2 DATE 1940
+2 PLAC 191 Columbia Street, Corning, Steuben, New York, USA
+2 SOUR @2Tqe6FIjTKCB96mC4JOU@
+3 PAGE Year: 1940; Census Place: Corning, Steuben, New York; Roll
+4 CONC : T627_2781; Page: 12A; Enumeration District: 51-29.
+3 DATA
+4 TEXT Name:
+5 CONT Gale Harrison
+5 CONT Birth:
+5 CONT abt 1935 in New York
+5 CONT Death:
+3 OBJE @M109@
+3 _LINK http://search.ancestry.com/cgi-bin/sse.dll?db=1940usfedcen&h
+4 CONC =8661581&ti=0&indiv=try&gss=pt
+3 _APID 1,2442::8661581
+2 NOTE Marital Status: Single; Relation to Head: Son
+1 RESI
+2 DATE 1957
+2 PLAC 279 Ames Street, Rochester, Monroe, New York, USA
+2 SOUR @D5SLrrBySbi6oa3ygAnv@
+3 PAGE 1957
+3 OBJE @M111@
+3 _APID 1,2469::1483666688
+2 SOUR @D5SLrrBySbi6oa3ygAnv@
+3 PAGE 1957 (2nd index entry)
+3 OBJE @M111@
+3 _APID 1,2469::1329761185
+2 SOUR @D5SLrrBySbi6oa3ygAnv@
+3 PAGE 1960
+3 OBJE @M106@
+3 _APID 1,2469::1331791394
+2 SOUR @D5SLrrBySbi6oa3ygAnv@
+3 PAGE 1960 (2nd index entry)
+3 OBJE @M106@
+3 _APID 1,2469::103803090
+2 SOUR @S191@
+3 PAGE Ames, Rochester
+3 _APID 1,1732::268513628
+1 RESI
+2 DATE 1992
+2 PLAC 45 Lightwood Lane, Rochester, Monroe, New York, USA
+2 SOUR @S193@
+3 PAGE City: Rochester; State: New York; Year(s): 1993-2001
+3 _APID 1,7339::44911998
+2 SOUR @S187@
+3 _APID 1,1788::9473899
+1 RESI
+2 DATE 2002
+2 PLAC 531 Valley Creek Road, Rochester, Monroe, New York, USA
+2 SOUR @S193@
+3 PAGE City: Rochester; State: New York; Year(s): 2002
+3 _APID 1,7339::105860986
+2 SOUR @S191@
+3 PAGE Valley, Rochester
+3 _APID 1,1732::268763064
+1 DEAT
+2 DATE 03 DEC 2017
+2 PLAC Gates, Monroe, New York, USA
+3 MAP
+4 LATI N43.1523
+4 LONG W77.7122
+1 _XY 2111 4350
 0 @9LS1J0pFQEyXdpItrBUb@ INDI
 1 REFN 01f7ab3c-393a-456f-831e-eb09830a4efb
 1 NAME George D. /Harrison/
@@ -4223,23 +4945,23 @@
 3 PAGE Year: 1900; Census Place: Hornby, Steuben, New York; Roll: 1
 4 CONC 163; Page: 3B; Enumeration District: 0087; FHL microfilm: 12
 4 CONC 41163
-3 OBJE @V0TKnZr1RZKQLCUAM5C6@
+3 OBJE @M34@
 3 _APID 1,7602::56735666
 2 SOUR @JUgnOwW8T2Gy5BZo8eZW@
 3 PAGE Year: 1910; Census Place: Hornby, Steuben, New York; Roll: T
 4 CONC 624_1080; Page: 9B; Enumeration District: 0132; FHL microfil
 4 CONC m: 1375093
-3 OBJE @Z0SPQ4dORhWscykttPqO@
+3 OBJE @M39@
 3 _APID 1,7884::19998127
 2 SOUR @EK7T5HK7THyj56uQA095@
 3 PAGE Year: 1920; Census Place: Hornby, Steuben, New York
-3 OBJE @Y5dEL093SkasAwpqWK3m@
+3 OBJE @M43@
 3 _APID 1,6061::87520708
 2 SOUR @6ueRmpMIQ9qSG0rSnwpX@
 3 PAGE Year: 1930; Census Place: Hornby, Steuben, New York; Roll: 1
 4 CONC 648; Page: 7B; Enumeration District: 44; Image: 1002.0; FH
 4 CONC L microfilm: 2341382
-3 OBJE @QAAFPKD9SKKlhE6HWHP0@
+3 OBJE @M45@
 3 _APID 1,6224::46292289
 2 SOUR @2Tqe6FIjTKCB96mC4JOU@
 3 PAGE Year: 1940; Census Place: Hornby, Steuben, New York; Roll: T
@@ -4263,19 +4985,19 @@
 3 OBJE @M7G8EwA5SomiimVWqDTT@
 3 _APID 1,3212::294930
 2 SOUR @2BrYALWfRGeGIhxft2Zm@
-3 OBJE @zYCyNr7iQvCXIXzFT3Ts@
+3 OBJE @M71@
 3 _APID 1,7364::409022
 2 SOUR @vsHf59o6QmyAlKrTp9EW@
 3 PAGE New York State Archives; Albany, New York; State Populatio
 4 CONC n Census Schedules, 1915; Election District: 01; Assembly Di
 4 CONC strict: 01; City: Hornby; County: Steuben; Page: 14
-3 OBJE @X6LOwGnuTZKHmAjqe3IB@
+3 OBJE @M72@
 3 _APID 1,2703::6630881
 2 SOUR @XLqOXBdKSiS546wsc0IB@
 3 PAGE New York State Archives; Albany, New York; State Populatio
 4 CONC n Census Schedules, 1925; Election District: 01; Assembly Di
 4 CONC strict: 01; City: Hornby; County: Steuben; Page: 13
-3 OBJE @W5Kr0UAkTCO0sn4PpcOV@
+3 OBJE @M73@
 3 _APID 1,2704::25133672
 2 SOUR @mxzIXZPLSUyTgjhiRzgy@
 3 OBJE @L5kixP7QTjO169k0tL8b@
@@ -4308,23 +5030,23 @@
 3 PAGE Year: 1900; Census Place: Hornby, Steuben, New York; Roll: 1
 4 CONC 163; Page: 3B; Enumeration District: 0087; FHL microfilm: 12
 4 CONC 41163
-3 OBJE @V0TKnZr1RZKQLCUAM5C6@
+3 OBJE @M34@
 3 _APID 1,7602::56735666
 2 SOUR @JUgnOwW8T2Gy5BZo8eZW@
 3 PAGE Year: 1910; Census Place: Hornby, Steuben, New York; Roll: T
 4 CONC 624_1080; Page: 9B; Enumeration District: 0132; FHL microfil
 4 CONC m: 1375093
-3 OBJE @Z0SPQ4dORhWscykttPqO@
+3 OBJE @M39@
 3 _APID 1,7884::19998127
 2 SOUR @EK7T5HK7THyj56uQA095@
 3 PAGE Year: 1920; Census Place: Hornby, Steuben, New York
-3 OBJE @Y5dEL093SkasAwpqWK3m@
+3 OBJE @M43@
 3 _APID 1,6061::87520708
 2 SOUR @6ueRmpMIQ9qSG0rSnwpX@
 3 PAGE Year: 1930; Census Place: Hornby, Steuben, New York; Roll: 1
 4 CONC 648; Page: 7B; Enumeration District: 44; Image: 1002.0; FH
 4 CONC L microfilm: 2341382
-3 OBJE @QAAFPKD9SKKlhE6HWHP0@
+3 OBJE @M45@
 3 _APID 1,6224::46292289
 2 SOUR @2Tqe6FIjTKCB96mC4JOU@
 3 PAGE Year: 1940; Census Place: Hornby, Steuben, New York; Roll: T
@@ -4340,19 +5062,19 @@
 3 OBJE @M7G8EwA5SomiimVWqDTT@
 3 _APID 1,3212::294930
 2 SOUR @2BrYALWfRGeGIhxft2Zm@
-3 OBJE @zYCyNr7iQvCXIXzFT3Ts@
+3 OBJE @M71@
 3 _APID 1,7364::409022
 2 SOUR @vsHf59o6QmyAlKrTp9EW@
 3 PAGE New York State Archives; Albany, New York; State Populatio
 4 CONC n Census Schedules, 1915; Election District: 01; Assembly Di
 4 CONC strict: 01; City: Hornby; County: Steuben; Page: 14
-3 OBJE @X6LOwGnuTZKHmAjqe3IB@
+3 OBJE @M72@
 3 _APID 1,2703::6630881
 2 SOUR @XLqOXBdKSiS546wsc0IB@
 3 PAGE New York State Archives; Albany, New York; State Populatio
 4 CONC n Census Schedules, 1925; Election District: 01; Assembly Di
 4 CONC strict: 01; City: Hornby; County: Steuben; Page: 13
-3 OBJE @W5Kr0UAkTCO0sn4PpcOV@
+3 OBJE @M73@
 3 _APID 1,2704::25133672
 2 SOUR @mxzIXZPLSUyTgjhiRzgy@
 3 OBJE @L5kixP7QTjO169k0tL8b@
@@ -4454,7 +5176,7 @@
 3 PAGE Year: 1900; Census Place: Hornby, Steuben, New York; Roll: 1
 4 CONC 163; Page: 3B; Enumeration District: 0087; FHL microfilm: 12
 4 CONC 41163
-3 OBJE @V0TKnZr1RZKQLCUAM5C6@
+3 OBJE @M34@
 3 _APID 1,7602::56735666
 2 NOTE Age: 26; Marital Status: Married; Relation to Head of House
 3 CONC : Son
@@ -4473,7 +5195,7 @@
 4 LATI N42.2442
 4 LONG W77.0444
 2 SOUR @2BrYALWfRGeGIhxft2Zm@
-3 OBJE @zYCyNr7iQvCXIXzFT3Ts@
+3 OBJE @M71@
 3 _APID 1,7364::409022
 2 NOTE Relation to Head of House: Son
 1 RESI
@@ -4511,7 +5233,7 @@
 3 PAGE Year: 1910; Census Place: Hornby, Steuben, New York; Roll: T
 4 CONC 624_1080; Page: 9B; Enumeration District: 0132; FHL microfil
 4 CONC m: 1375093
-3 OBJE @Z0SPQ4dORhWscykttPqO@
+3 OBJE @M39@
 3 _APID 1,7884::19998127
 2 NOTE Age: 36; Age: 36; Marital Status: Married; Relation to Hea
 3 CONC d of House: Head
@@ -4525,7 +5247,7 @@
 3 PAGE New York State Archives; Albany, New York; State Populatio
 4 CONC n Census Schedules, 1915; Election District: 01; Assembly Di
 4 CONC strict: 01; City: Hornby; County: Steuben; Page: 14
-3 OBJE @X6LOwGnuTZKHmAjqe3IB@
+3 OBJE @M72@
 3 _APID 1,2703::6630881
 2 NOTE Age: 41; Relation to Head of House: Head
 1 CENS
@@ -4552,7 +5274,7 @@
 4 LONG W77.0444
 2 SOUR @EK7T5HK7THyj56uQA095@
 3 PAGE Year: 1920; Census Place: Hornby, Steuben, New York
-3 OBJE @Y5dEL093SkasAwpqWK3m@
+3 OBJE @M43@
 3 _APID 1,6061::87520708
 2 NOTE Age: 46; Marital Status: Married; Relation to Head of House
 3 CONC : Head
@@ -4578,7 +5300,7 @@
 3 PAGE New York State Archives; Albany, New York; State Populatio
 4 CONC n Census Schedules, 1925; Election District: 01; Assembly Di
 4 CONC strict: 01; City: Hornby; County: Steuben; Page: 13
-3 OBJE @W5Kr0UAkTCO0sn4PpcOV@
+3 OBJE @M73@
 3 _APID 1,2704::25133672
 2 NOTE Age: 51; Relation to Head of House: Head
 1 CENS
@@ -4599,7 +5321,7 @@
 3 PAGE Year: 1930; Census Place: Hornby, Steuben, New York; Roll: 1
 4 CONC 648; Page: 7B; Enumeration District: 44; Image: 1002.0; FH
 4 CONC L microfilm: 2341382
-3 OBJE @QAAFPKD9SKKlhE6HWHP0@
+3 OBJE @M45@
 3 _APID 1,6224::46292289
 2 NOTE Age: 56; Marital Status: Married; Relation to Head of House
 3 CONC : Head
@@ -4668,16 +5390,288 @@
 3 QUAY 1
 1 _XY 85231 2487
 1 _PHOTO @QLNFJ1K5QuKfFCXXAnml@
+0 @I595@ INDI
+1 REFN 027e2758-624f-42f0-adfd-81f3e6fe93dd
+1 NAME Gerald Michael /Harrison/
+2 SOUR @fgk8xAOsQLeHP2vct6BI@
+3 _APID 1,60525::139304263
+2 SOUR @S186@
+3 PAGE Publication Date: 20/ Apr/ 2015; Publication Place: Rocheste
+4 CONC r, New York, USA; URL: http://www.legacy.com/obituaries/Demo
+4 CONC cratAndChronicle/obituary.aspx?n=mary-jane-harrison-beba&amp
+4 CONC ;pid=174672790&amp;fhid=7351
+3 _APID 1,7545::210174310
+2 SOUR @nuNi9KjuQRC7bV7GdbqW@
+3 _APID 1,60901::35586746
+2 SOUR @S188@
+3 PAGE Number: 128-52-0841; Issue State: New York; Issue Date: 1972
+3 _APID 1,3693::25901148
+1 SEX M
+1 FAMC @F489@
+1 BIRT
+2 DATE 27 DEC 1957
+2 PLAC Rochester, Monroe, New York, USA
+3 MAP
+4 LATI N43.1548
+4 LONG W77.6156
+2 SOUR @fgk8xAOsQLeHP2vct6BI@
+3 _APID 1,60525::139304263
+2 SOUR @nuNi9KjuQRC7bV7GdbqW@
+3 _APID 1,60901::35586746
+2 SOUR @S188@
+3 PAGE Number: 128-52-0841; Issue State: New York; Issue Date: 1972
+3 _APID 1,3693::25901148
+1 DEAT
+2 DATE 16 DEC 1991
+2 SOUR @fgk8xAOsQLeHP2vct6BI@
+3 _APID 1,60525::139304263
+2 SOUR @nuNi9KjuQRC7bV7GdbqW@
+3 _APID 1,60901::35586746
+2 SOUR @S188@
+3 PAGE Number: 128-52-0841; Issue State: New York; Issue Date: 1972
+3 _APID 1,3693::25901148
+1 BURI
+2 PLAC Rochester, Monroe, New York, USA
+3 MAP
+4 LATI N43.1548
+4 LONG W77.6156
+2 SOUR @fgk8xAOsQLeHP2vct6BI@
+3 _APID 1,60525::139304263
 0 @DeD6co9kRcuX8FKkxyQ9@ INDI
 1 REFN 8ed6d2ea-adb1-42d6-8fd2-6d16cef35d0d
 1 NAME Gerald Vincent /Harrison/
+2 SOUR @JUgnOwW8T2Gy5BZo8eZW@
+3 PAGE Year: 1910; Census Place: Hornby, Steuben, New York; Roll: T
+4 CONC 624_1080; Page: 9B; Enumeration District: 0132; FHL microfil
+4 CONC m: 1375093
+3 OBJE @M39@
+3 _APID 1,7884::103801444
+2 SOUR @EK7T5HK7THyj56uQA095@
+3 PAGE Year: 1920; Census Place: Hornby, Steuben, New York
+3 OBJE @M43@
+3 _APID 1,6061::87520713
+2 SOUR @6ueRmpMIQ9qSG0rSnwpX@
+3 PAGE Year: 1930; Census Place: Corning, Steuben, New York; Page
+4 CONC : 20A; Enumeration District: 0033; FHL microfilm: 2341382
+3 OBJE @M120@
+3 _APID 1,6224::46283825
+2 SOUR @2Tqe6FIjTKCB96mC4JOU@
+3 PAGE Year: 1940; Census Place: Corning, Steuben, New York; Roll
+4 CONC : T627_2781; Page: 12A; Enumeration District: 51-29
+3 OBJE @M109@
+3 _APID 1,2442::8661579
+2 SOUR @UD5K4qjOSWuiUJD8Ih6k@
+3 PAGE Ancestry Family Tree
+3 DATA
+4 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=62861
+5 CONC &pid=165
+2 SOUR @S198@
+3 PAGE Elmira Advertiser; Publication Date: 4/ May/ 1953; Publicati
+4 CONC on Place: Elmira, New York, USA; URL: https://www.newspapers
+4 CONC .com/image/276534775/?article=b6bcbdeb-db9e-4df6-bcea-20007f
+4 CONC a72b11&focus=0.6067723,0.66158026,0.7257106,0.794022&xid=237
+4 CONC 8
+3 _APID 1,61843::162458971
+2 SOUR @S197@
+2 SOUR @1SIe6ODlREuvmbzQ0vzX@
+3 QUAY 1
+2 SOUR @S175@
+3 PAGE New York State Department of Health; Albany, NY, USA; New Yo
+4 CONC rk State Marriage Index; Gerald V. Harrison
+3 OBJE @M119@
+3 _APID 1,61632::3746363
+2 SOUR @S195@
+3 PAGE Gerald Vincent Harrison
+3 OBJE @M115@
+3 _APID 1,61377::674704
+2 SOUR @vsHf59o6QmyAlKrTp9EW@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1915; Election District: 01; Assembly Di
+4 CONC strict: 01; City: Hornby; County: Steuben; Page: 14
+3 OBJE @M72@
+3 _APID 1,2703::6630890
+2 SOUR @XLqOXBdKSiS546wsc0IB@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1925; Election District: 01; Assembly Di
+4 CONC strict: 01; City: Hornby; County: Steuben; Page: 13
+3 OBJE @M73@
+3 _APID 1,2704::25133677
+2 SOUR @D5SLrrBySbi6oa3ygAnv@
+3 OBJE @M114@
+3 _APID 1,2469::90966943
+2 SOUR @fgk8xAOsQLeHP2vct6BI@
+3 _APID 1,60525::139304262
+2 SOUR @S188@
+3 PAGE Number: 076-05-7356; Issue State: New York; Issue Date: Befo
+4 CONC re 1951
+3 _APID 1,3693::25901187
 1 SEX M
 1 FAMC @SECEG17DTR2JpN35QBiT@
+1 FAMS @F490@
+1 OBJE @M118@
 1 BIRT
 2 DATE 11 AUG 1908
+2 PLAC Harrison Homestead, Hornby, Steuben, New York, USA
+2 SOUR @JUgnOwW8T2Gy5BZo8eZW@
+3 PAGE Year: 1910; Census Place: Hornby, Steuben, New York; Roll: T
+4 CONC 624_1080; Page: 9B; Enumeration District: 0132; FHL microfil
+4 CONC m: 1375093
+3 OBJE @M39@
+3 _APID 1,7884::103801444
+2 SOUR @EK7T5HK7THyj56uQA095@
+3 PAGE Year: 1920; Census Place: Hornby, Steuben, New York
+3 OBJE @M43@
+3 _APID 1,6061::87520713
+2 SOUR @6ueRmpMIQ9qSG0rSnwpX@
+3 PAGE Year: 1930; Census Place: Corning, Steuben, New York; Page
+4 CONC : 20A; Enumeration District: 0033; FHL microfilm: 2341382
+3 OBJE @M120@
+3 _APID 1,6224::46283825
+2 SOUR @2Tqe6FIjTKCB96mC4JOU@
+3 PAGE Year: 1940; Census Place: Corning, Steuben, New York; Roll
+4 CONC : T627_2781; Page: 12A; Enumeration District: 51-29
+3 OBJE @M109@
+3 _APID 1,2442::8661579
+2 SOUR @S197@
+2 SOUR @1SIe6ODlREuvmbzQ0vzX@
+3 QUAY 1
+2 SOUR @S195@
+3 PAGE Gerald Vincent Harrison
+3 OBJE @M115@
+3 _APID 1,61377::674704
+2 SOUR @vsHf59o6QmyAlKrTp9EW@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1915; Election District: 01; Assembly Di
+4 CONC strict: 01; City: Hornby; County: Steuben; Page: 14
+3 OBJE @M72@
+3 _APID 1,2703::6630890
+2 SOUR @XLqOXBdKSiS546wsc0IB@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1925; Election District: 01; Assembly Di
+4 CONC strict: 01; City: Hornby; County: Steuben; Page: 13
+3 OBJE @M73@
+3 _APID 1,2704::25133677
+2 SOUR @S188@
+3 PAGE Number: 076-05-7356; Issue State: New York; Issue Date: Befo
+4 CONC re 1951
+3 _APID 1,3693::25901187
+1 RESI
+2 DATE 1910
+2 PLAC Hornby, Steuben, New York, USA
+3 MAP
+4 LATI N42.2442
+4 LONG W77.0444
+2 SOUR @JUgnOwW8T2Gy5BZo8eZW@
+3 PAGE Year: 1910; Census Place: Hornby, Steuben, New York; Roll: T
+4 CONC 624_1080; Page: 9B; Enumeration District: 0132; FHL microfil
+4 CONC m: 1375093
+3 OBJE @M39@
+3 _APID 1,7884::103801444
+2 NOTE Age: 1; Age: 1 9/12; Marital Status: Single; Relation to Hea
+3 CONC d of House: Son
+1 RESI
+2 DATE 01 JUN 1915
+2 PLAC Hornby, Steuben, New York, USA
+3 MAP
+4 LATI N42.2442
+4 LONG W77.0444
+2 SOUR @vsHf59o6QmyAlKrTp9EW@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1915; Election District: 01; Assembly Di
+4 CONC strict: 01; City: Hornby; County: Steuben; Page: 14
+3 OBJE @M72@
+3 _APID 1,2703::6630890
+2 NOTE Age: 6; Relation to Head of House: Son
+1 RESI
+2 DATE 1920
+2 PLAC Hornby, Steuben, New York, USA
+3 MAP
+4 LATI N42.2442
+4 LONG W77.0444
+2 SOUR @EK7T5HK7THyj56uQA095@
+3 PAGE Year: 1920; Census Place: Hornby, Steuben, New York
+3 OBJE @M43@
+3 _APID 1,6061::87520713
+2 NOTE Age: 10; Marital Status: Single; Relation to Head of House
+3 CONC : Son
+1 RESI
+2 DATE 01 JUN 1925
+2 PLAC Hornby, Steuben, New York, USA
+3 MAP
+4 LATI N42.2442
+4 LONG W77.0444
+2 SOUR @XLqOXBdKSiS546wsc0IB@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1925; Election District: 01; Assembly Di
+4 CONC strict: 01; City: Hornby; County: Steuben; Page: 13
+3 OBJE @M73@
+3 _APID 1,2704::25133677
+2 NOTE Age: 16; Relation to Head of House: Son
+1 RESI
+2 DATE 1930
+2 PLAC 144 William Street, Corning, Steuben, New York, USA
+2 SOUR @6ueRmpMIQ9qSG0rSnwpX@
+3 PAGE Year: 1930; Census Place: Corning, Steuben, New York; Page
+4 CONC : 20A; Enumeration District: 0033; FHL microfilm: 2341382
+3 OBJE @M120@
+3 _APID 1,6224::46283825
+2 NOTE Marital Status: Single; Relation to Head: Boarder
+1 RESI
+2 DATE 1931
+2 PLAC Painted Post, Steuben, New York, USA
+3 MAP
+4 LATI N42.162
+4 LONG W77.0941
+2 SOUR @D5SLrrBySbi6oa3ygAnv@
+3 OBJE @M114@
+3 _APID 1,2469::90966943
+1 RESI
+2 DATE 1935
+2 PLAC Corning, Steuben, New York, USA
+3 MAP
+4 LATI N42.1429
+4 LONG W77.0547
+2 SOUR @2Tqe6FIjTKCB96mC4JOU@
+3 PAGE Year: 1940; Census Place: Corning, Steuben, New York; Roll
+4 CONC : T627_2781; Page: 12A; Enumeration District: 51-29
+3 OBJE @M109@
+3 _APID 1,2442::8661579
+1 RESI
+2 DATE 01 APR 1940
+2 PLAC 191 Columbia Street, Corning, Steuben, New York, USA
+2 SOUR @2Tqe6FIjTKCB96mC4JOU@
+3 PAGE Year: 1940; Census Place: Corning, Steuben, New York; Roll
+4 CONC : T627_2781; Page: 12A; Enumeration District: 51-29
+3 OBJE @M109@
+3 _APID 1,2442::8661579
+2 NOTE Age: 31; Marital Status: Married; Relation to Head of House
+3 CONC : Head
+2 NOTE Marital Status: Married; Relation to Head: Head
 1 DEAT
 2 DATE 25 OCT 1977
+2 PLAC Genesee Hospital, Rochester, Monroe, New York, USA
+2 SOUR @S197@
+2 SOUR @1SIe6ODlREuvmbzQ0vzX@
+3 QUAY 1
+2 SOUR @fgk8xAOsQLeHP2vct6BI@
+3 _APID 1,60525::139304262
+2 SOUR @S188@
+3 PAGE Number: 076-05-7356; Issue State: New York; Issue Date: Befo
+4 CONC re 1951
+3 _APID 1,3693::25901187
+1 BURI
+2 PLAC Rochester, Monroe, New York, USA
+3 MAP
+4 LATI N43.1548
+4 LONG W77.6156
+2 SOUR @fgk8xAOsQLeHP2vct6BI@
+3 _APID 1,60525::139304262
+1 SSN 076-05-7356
+2 SOUR @S199@
+3 QUAY 3
 1 _XY 85625 2636
+1 _XY 2590 4244
+1 _PHOTO @M118@
 0 @f6gzHhUETvitvQAljF4J@ INDI
 1 REFN 13d9c0d7-cf92-45f6-8842-43663f962c40
 1 NAME Hannah /Harrison/
@@ -4738,13 +5732,13 @@
 3 PAGE Year: 1900; Census Place: Hornby, Steuben, New York; Roll: 1
 4 CONC 163; Page: 3B; Enumeration District: 0087; FHL microfilm: 12
 4 CONC 41163
-3 OBJE @V0TKnZr1RZKQLCUAM5C6@
+3 OBJE @M34@
 3 _APID 1,7602::56735665
 2 SOUR @JUgnOwW8T2Gy5BZo8eZW@
 3 PAGE Year: 1910; Census Place: Hornby, Steuben, New York; Roll: T
 4 CONC 624_1080; Page: 9B; Enumeration District: 0132; FHL microfil
 4 CONC m: 1375093
-3 OBJE @Z0SPQ4dORhWscykttPqO@
+3 OBJE @M39@
 3 _APID 1,7884::103801445
 2 SOUR @UD5K4qjOSWuiUJD8Ih6k@
 3 PAGE Ancestry Family Tree
@@ -4761,7 +5755,7 @@
 3 OBJE @ShTO93LeQX6QHoJyeHB8@
 3 _APID 1,7250::1382758776
 2 SOUR @2BrYALWfRGeGIhxft2Zm@
-3 OBJE @zYCyNr7iQvCXIXzFT3Ts@
+3 OBJE @M71@
 3 _APID 1,7364::2943878
 2 SOUR @S183@
 3 PAGE Pennsylvania Historic and Museum Commission; Harrisburg, Pen
@@ -4814,13 +5808,13 @@
 3 PAGE Year: 1900; Census Place: Hornby, Steuben, New York; Roll: 1
 4 CONC 163; Page: 3B; Enumeration District: 0087; FHL microfilm: 12
 4 CONC 41163
-3 OBJE @V0TKnZr1RZKQLCUAM5C6@
+3 OBJE @M34@
 3 _APID 1,7602::56735665
 2 SOUR @JUgnOwW8T2Gy5BZo8eZW@
 3 PAGE Year: 1910; Census Place: Hornby, Steuben, New York; Roll: T
 4 CONC 624_1080; Page: 9B; Enumeration District: 0132; FHL microfil
 4 CONC m: 1375093
-3 OBJE @Z0SPQ4dORhWscykttPqO@
+3 OBJE @M39@
 3 _APID 1,7884::103801445
 2 SOUR @ljUxuuY3QhivtsTpBOoP@
 3 QUAY 1
@@ -4834,7 +5828,7 @@
 3 OBJE @ShTO93LeQX6QHoJyeHB8@
 3 _APID 1,7250::1382758776
 2 SOUR @2BrYALWfRGeGIhxft2Zm@
-3 OBJE @zYCyNr7iQvCXIXzFT3Ts@
+3 OBJE @M71@
 3 _APID 1,7364::2943878
 2 SOUR @S183@
 3 PAGE Pennsylvania Historic and Museum Commission; Harrisburg, Pen
@@ -5068,7 +6062,7 @@
 3 PAGE Year: 1900; Census Place: Hornby, Steuben, New York; Roll: 1
 4 CONC 163; Page: 3B; Enumeration District: 0087; FHL microfilm: 12
 4 CONC 41163
-3 OBJE @V0TKnZr1RZKQLCUAM5C6@
+3 OBJE @M34@
 3 _APID 1,7602::56735665
 2 NOTE Age: 60; Marital Status: Widowed; Relation to Head of House
 3 CONC : Head
@@ -5079,7 +6073,7 @@
 4 LATI N42.2442
 4 LONG W77.0444
 2 SOUR @2BrYALWfRGeGIhxft2Zm@
-3 OBJE @zYCyNr7iQvCXIXzFT3Ts@
+3 OBJE @M71@
 3 _APID 1,7364::2943878
 2 NOTE Relation to Head of House: Head
 1 CENS
@@ -5108,7 +6102,7 @@
 3 PAGE Year: 1910; Census Place: Hornby, Steuben, New York; Roll: T
 4 CONC 624_1080; Page: 9B; Enumeration District: 0132; FHL microfil
 4 CONC m: 1375093
-3 OBJE @Z0SPQ4dORhWscykttPqO@
+3 OBJE @M39@
 3 _APID 1,7884::103801445
 2 NOTE Age: 68; Marital Status: Widowed; Relation to Head of House
 3 CONC : Father
@@ -5189,13 +6183,220 @@
 0 @IBXtlFqRSU6uk41gdSuo@ INDI
 1 REFN 6aa81cb9-f785-40f6-8900-e89bbf85b483
 1 NAME James Leo /Harrison/
+2 SOUR @JUgnOwW8T2Gy5BZo8eZW@
+3 PAGE Year: 1910; Census Place: Hornby, Steuben, New York; Roll: T
+4 CONC 624_1080; Page: 9B; Enumeration District: 0132; FHL microfil
+4 CONC m: 1375093
+3 OBJE @M39@
+3 _APID 1,7884::103801443
+2 SOUR @EK7T5HK7THyj56uQA095@
+3 PAGE Year: 1920; Census Place: Hornby, Steuben, New York
+3 OBJE @M43@
+3 _APID 1,6061::87520712
+2 SOUR @6ueRmpMIQ9qSG0rSnwpX@
+3 PAGE Year: 1930; Census Place: Hornby, Steuben, New York; Roll: 1
+4 CONC 648; Page: 7B; Enumeration District: 44; Image: 1002.0; FH
+4 CONC L microfilm: 2341382
+3 OBJE @M45@
+3 _APID 1,6224::46292271
+2 SOUR @2Tqe6FIjTKCB96mC4JOU@
+3 PAGE Year: 1940; Census Place: Painted Post, Steuben, New York; R
+4 CONC oll: T627_2781; Page: 61A; Enumeration District: 51-48
+3 OBJE @M121@
+3 _APID 1,2442::8680818
+2 SOUR @S198@
+3 PAGE Elmira Advertiser; Publication Date: 4/ May/ 1953; Publicati
+4 CONC on Place: Elmira, New York, USA; URL: https://www.newspapers
+4 CONC .com/image/276534775/?article=b6bcbdeb-db9e-4df6-bcea-20007f
+4 CONC a72b11&focus=0.6067723,0.66158026,0.7257106,0.794022&xid=237
+4 CONC 8
+3 _APID 1,61843::142458971
+2 SOUR @S197@
+2 SOUR @1SIe6ODlREuvmbzQ0vzX@
+3 QUAY 1
+2 SOUR @vsHf59o6QmyAlKrTp9EW@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1915; Election District: 01; Assembly Di
+4 CONC strict: 01; City: Hornby; County: Steuben; Page: 14
+3 OBJE @M72@
+3 _APID 1,2703::6630888
+2 SOUR @XLqOXBdKSiS546wsc0IB@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1925; Election District: 01; Assembly Di
+4 CONC strict: 01; City: Hornby; County: Steuben; Page: 13
+3 OBJE @M73@
+3 _APID 1,2704::25133676
+2 SOUR @S187@
+3 _APID 1,1788::62612170
+2 SOUR @S191@
+3 _APID 1,1732::269426902
+2 SOUR @S188@
+3 PAGE Number: 129-16-2871; Issue State: New York; Issue Date: Befo
+4 CONC re 1951
+3 _APID 1,3693::25906085
 1 SEX M
 1 FAMC @SECEG17DTR2JpN35QBiT@
+1 FAMS @F491@
+1 OBJE @M127@
+1 OBJE @M128@
+1 OBJE @M126@
 1 BIRT
 2 DATE 06 APR 1907
+2 PLAC Harrison Homestead, Hornby, Steuben, New York, USA
+2 SOUR @JUgnOwW8T2Gy5BZo8eZW@
+3 PAGE Year: 1910; Census Place: Hornby, Steuben, New York; Roll: T
+4 CONC 624_1080; Page: 9B; Enumeration District: 0132; FHL microfil
+4 CONC m: 1375093
+3 OBJE @M39@
+3 _APID 1,7884::103801443
+2 SOUR @EK7T5HK7THyj56uQA095@
+3 PAGE Year: 1920; Census Place: Hornby, Steuben, New York
+3 OBJE @M43@
+3 _APID 1,6061::87520712
+2 SOUR @6ueRmpMIQ9qSG0rSnwpX@
+3 PAGE Year: 1930; Census Place: Hornby, Steuben, New York; Roll: 1
+4 CONC 648; Page: 7B; Enumeration District: 44; Image: 1002.0; FH
+4 CONC L microfilm: 2341382
+3 OBJE @M45@
+3 _APID 1,6224::46292271
+2 SOUR @2Tqe6FIjTKCB96mC4JOU@
+3 PAGE Year: 1940; Census Place: Painted Post, Steuben, New York; R
+4 CONC oll: T627_2781; Page: 61A; Enumeration District: 51-48
+3 OBJE @M121@
+3 _APID 1,2442::8680818
+2 SOUR @S197@
+2 SOUR @1SIe6ODlREuvmbzQ0vzX@
+3 QUAY 1
+2 SOUR @vsHf59o6QmyAlKrTp9EW@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1915; Election District: 01; Assembly Di
+4 CONC strict: 01; City: Hornby; County: Steuben; Page: 14
+3 OBJE @M72@
+3 _APID 1,2703::6630888
+2 SOUR @XLqOXBdKSiS546wsc0IB@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1925; Election District: 01; Assembly Di
+4 CONC strict: 01; City: Hornby; County: Steuben; Page: 13
+3 OBJE @M73@
+3 _APID 1,2704::25133676
+2 SOUR @S187@
+3 _APID 1,1788::62612170
+2 SOUR @S191@
+3 _APID 1,1732::269426902
+2 SOUR @S188@
+3 PAGE Number: 129-16-2871; Issue State: New York; Issue Date: Befo
+4 CONC re 1951
+3 _APID 1,3693::25906085
+1 RESI
+2 DATE 1910
+2 PLAC Hornby, Steuben, New York, USA
+3 MAP
+4 LATI N42.2442
+4 LONG W77.0444
+2 SOUR @JUgnOwW8T2Gy5BZo8eZW@
+3 PAGE Year: 1910; Census Place: Hornby, Steuben, New York; Roll: T
+4 CONC 624_1080; Page: 9B; Enumeration District: 0132; FHL microfil
+4 CONC m: 1375093
+3 OBJE @M39@
+3 _APID 1,7884::103801443
+2 NOTE Age: 3; Marital Status: Single; Relation to Head of House: S
+3 CONC on
+1 RESI
+2 DATE 01 JUN 1915
+2 PLAC Hornby, Steuben, New York, USA
+3 MAP
+4 LATI N42.2442
+4 LONG W77.0444
+2 SOUR @vsHf59o6QmyAlKrTp9EW@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1915; Election District: 01; Assembly Di
+4 CONC strict: 01; City: Hornby; County: Steuben; Page: 14
+3 OBJE @M72@
+3 _APID 1,2703::6630888
+2 NOTE Age: 8; Relation to Head of House: Son
+1 RESI
+2 DATE 1920
+2 PLAC Hornby, Steuben, New York, USA
+3 MAP
+4 LATI N42.2442
+4 LONG W77.0444
+2 SOUR @EK7T5HK7THyj56uQA095@
+3 PAGE Year: 1920; Census Place: Hornby, Steuben, New York
+3 OBJE @M43@
+3 _APID 1,6061::87520712
+2 NOTE Age: 12; Marital Status: Single; Relation to Head of House
+3 CONC : Son
+1 RESI
+2 DATE 01 JUN 1925
+2 PLAC Hornby, Steuben, New York, USA
+3 MAP
+4 LATI N42.2442
+4 LONG W77.0444
+2 SOUR @XLqOXBdKSiS546wsc0IB@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1925; Election District: 01; Assembly Di
+4 CONC strict: 01; City: Hornby; County: Steuben; Page: 13
+3 OBJE @M73@
+3 _APID 1,2704::25133676
+2 NOTE Age: 18; Relation to Head of House: Son
+1 RESI
+2 DATE 1930
+2 PLAC Hornby, Steuben, New York, USA
+3 MAP
+4 LATI N42.2442
+4 LONG W77.0444
+2 SOUR @6ueRmpMIQ9qSG0rSnwpX@
+3 PAGE Year: 1930; Census Place: Hornby, Steuben, New York; Roll: 1
+4 CONC 648; Page: 7B; Enumeration District: 44; Image: 1002.0; FH
+4 CONC L microfilm: 2341382
+3 OBJE @M45@
+3 _APID 1,6224::46292271
+2 NOTE Age: 23; Marital Status: Single; Relation to Head of House
+3 CONC : Son
+1 RESI
+2 DATE 1935
+2 PLAC Steuben, New York, USA
+3 MAP
+4 LATI N42.2642
+4 LONG W77.3854
+2 SOUR @2Tqe6FIjTKCB96mC4JOU@
+3 PAGE Year: 1940; Census Place: Painted Post, Steuben, New York; R
+4 CONC oll: T627_2781; Page: 61A; Enumeration District: 51-48
+3 OBJE @M121@
+3 _APID 1,2442::8680818
+2 SOUR @S191@
+3 _APID 1,1732::269426902
+1 RESI
+2 DATE 01 APR 1940
+2 PLAC Painted Post, Steuben, New York, USA
+3 MAP
+4 LATI N42.162
+4 LONG W77.0941
+2 SOUR @2Tqe6FIjTKCB96mC4JOU@
+3 PAGE Year: 1940; Census Place: Painted Post, Steuben, New York; R
+4 CONC oll: T627_2781; Page: 61A; Enumeration District: 51-48
+3 OBJE @M121@
+3 _APID 1,2442::8680818
+2 NOTE Age: 33; Marital Status: Married; Relation to Head of House
+3 CONC : Head
 1 DEAT
 2 DATE 21 SEP 1996
+2 PLAC Painted Post, Steuben, New York, USA
+3 MAP
+4 LATI N42.162
+4 LONG W77.0941
+2 SOUR @S199@
+3 QUAY 2
+2 SOUR @S188@
+3 PAGE Number: 129-16-2871; Issue State: New York; Issue Date: Befo
+4 CONC re 1951
+3 _APID 1,3693::25906085
+1 SSN 129-16-2871
+2 SOUR @S199@
+3 QUAY 3
 1 _XY 85502 2636
+1 _XY 2316 4244
+1 _PHOTO @M127@
 0 @F9xz9VQMSw6sz70fFyPy@ INDI
 1 REFN 29098251-045c-4a97-8ab5-95632a470679
 1 NAME John /Harrison/
@@ -5436,13 +6637,232 @@
 0 @XPTLdMBgSPuItfHwstZ2@ INDI
 1 REFN f9c77660-dcc2-4338-b761-ee3c3a45d610
 1 NAME John Francis /Harrison/
+2 SOUR @JUgnOwW8T2Gy5BZo8eZW@
+3 PAGE Year: 1910; Census Place: Hornby, Steuben, New York; Roll: T
+4 CONC 624_1080; Page: 9B; Enumeration District: 0132; FHL microfil
+4 CONC m: 1375093
+3 OBJE @M39@
+3 _APID 1,7884::103801441
+2 SOUR @EK7T5HK7THyj56uQA095@
+3 PAGE Year: 1920; Census Place: Hornby, Steuben, New York
+3 OBJE @M43@
+3 _APID 1,6061::87520710
+2 SOUR @2Tqe6FIjTKCB96mC4JOU@
+3 PAGE Year: 1940; Census Place: Hamilton, Madison, New York; Roll
+4 CONC : T627_2624; Page: 1A; Enumeration District: 27-19
+3 OBJE @M130@
+3 _APID 1,2442::11197630
+2 SOUR @UD5K4qjOSWuiUJD8Ih6k@
+3 PAGE Ancestry Family Tree
+3 DATA
+4 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=62861
+5 CONC &pid=166
+2 SOUR @S198@
+3 PAGE Elmira Advertiser; Publication Date: 4/ May/ 1953; Publicati
+4 CONC on Place: Elmira, New York, USA; URL: https://www.newspapers
+4 CONC .com/image/276534775/?article=b6bcbdeb-db9e-4df6-bcea-20007f
+4 CONC a72b11&focus=0.6067723,0.66158026,0.7257106,0.794022&xid=237
+4 CONC 8
+3 _APID 1,61843::102458971
+2 SOUR @S197@
+2 SOUR @1SIe6ODlREuvmbzQ0vzX@
+3 QUAY 1
+2 SOUR @S175@
+3 PAGE New York State Department of Health; Albany, NY, USA; New Yo
+4 CONC rk State Marriage Index; John F Harrison
+3 OBJE @M148@
+3 _APID 1,61632::1486761
+2 SOUR @S195@
+3 PAGE John Francis Harrison
+3 OBJE @M142@
+3 _APID 1,61377::221575
+2 SOUR @2BrYALWfRGeGIhxft2Zm@
+3 OBJE @M71@
+3 _APID 1,7364::409024
+2 SOUR @vsHf59o6QmyAlKrTp9EW@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1915; Election District: 01; Assembly Di
+4 CONC strict: 01; City: Hornby; County: Steuben; Page: 14
+3 OBJE @M72@
+3 _APID 1,2703::6630885
+2 SOUR @XLqOXBdKSiS546wsc0IB@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1925; Election District: 01; Assembly Di
+4 CONC strict: 01; City: Hornby; County: Steuben; Page: 13
+3 OBJE @M73@
+3 _APID 1,2704::25133674
+2 SOUR @S216@
+3 PAGE Publication Place: Cambridge, Massachusetts, USA; URL: http:
+4 CONC //www.keefefuneralhome.com/book-of-memories/68020/Jung-Miria
+4 CONC m/service-details.php
+3 _APID 1,2190::40326340
+2 SOUR @S186@
+3 PAGE Publication Date: 13/ Apr/ 2007; Publication Place: Lexingto
+4 CONC n, Massachusetts, USA; URL: http://www.townonline.com/arling
+4 CONC ton/obituaries/x941396022
+3 _APID 1,7545::90243890
+2 SOUR @nuNi9KjuQRC7bV7GdbqW@
+3 _APID 1,60901::619704446
+2 SOUR @S188@
+3 PAGE Number: 056-14-4624; Issue State: New York; Issue Date: Befo
+4 CONC re 1951
+3 _APID 1,3693::25909472
 1 SEX M
 1 FAMC @SECEG17DTR2JpN35QBiT@
+1 FAMS @F495@
+1 OBJE @M147@
+1 OBJE @M146@
 1 BIRT
 2 DATE 21 MAY 1901
+2 PLAC Harrison Homestead, Hornby, Steuben, New York, USA
+2 SOUR @JUgnOwW8T2Gy5BZo8eZW@
+3 PAGE Year: 1910; Census Place: Hornby, Steuben, New York; Roll: T
+4 CONC 624_1080; Page: 9B; Enumeration District: 0132; FHL microfil
+4 CONC m: 1375093
+3 OBJE @M39@
+3 _APID 1,7884::103801441
+2 SOUR @EK7T5HK7THyj56uQA095@
+3 PAGE Year: 1920; Census Place: Hornby, Steuben, New York
+3 OBJE @M43@
+3 _APID 1,6061::87520710
+2 SOUR @2Tqe6FIjTKCB96mC4JOU@
+3 PAGE Year: 1940; Census Place: Hamilton, Madison, New York; Roll
+4 CONC : T627_2624; Page: 1A; Enumeration District: 27-19
+3 OBJE @M130@
+3 _APID 1,2442::11197630
+2 SOUR @S197@
+2 SOUR @1SIe6ODlREuvmbzQ0vzX@
+3 QUAY 1
+2 SOUR @S195@
+3 PAGE John Francis Harrison
+3 OBJE @M142@
+3 _APID 1,61377::221575
+2 SOUR @2BrYALWfRGeGIhxft2Zm@
+3 OBJE @M71@
+3 _APID 1,7364::409024
+2 SOUR @vsHf59o6QmyAlKrTp9EW@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1915; Election District: 01; Assembly Di
+4 CONC strict: 01; City: Hornby; County: Steuben; Page: 14
+3 OBJE @M72@
+3 _APID 1,2703::6630885
+2 SOUR @XLqOXBdKSiS546wsc0IB@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1925; Election District: 01; Assembly Di
+4 CONC strict: 01; City: Hornby; County: Steuben; Page: 13
+3 OBJE @M73@
+3 _APID 1,2704::25133674
+2 SOUR @S188@
+3 PAGE Number: 056-14-4624; Issue State: New York; Issue Date: Befo
+4 CONC re 1951
+3 _APID 1,3693::25909472
+2 NOTE 21 from George Rogers
+1 RESI
+2 DATE 1905
+2 PLAC Hornby, Steuben, New York, USA
+3 MAP
+4 LATI N42.2442
+4 LONG W77.0444
+2 SOUR @2BrYALWfRGeGIhxft2Zm@
+3 OBJE @M71@
+3 _APID 1,7364::409024
+2 NOTE Relation to Head of House: Grandson
+1 RESI
+2 DATE 1910
+2 PLAC Hornby, Steuben, New York, USA
+3 MAP
+4 LATI N42.2442
+4 LONG W77.0444
+2 SOUR @JUgnOwW8T2Gy5BZo8eZW@
+3 PAGE Year: 1910; Census Place: Hornby, Steuben, New York; Roll: T
+4 CONC 624_1080; Page: 9B; Enumeration District: 0132; FHL microfil
+4 CONC m: 1375093
+3 OBJE @M39@
+3 _APID 1,7884::103801441
+2 NOTE Age: 8; Marital Status: Single; Relation to Head of House: S
+3 CONC on
+1 RESI
+2 DATE 01 JUN 1915
+2 PLAC Hornby, Steuben, New York, USA
+3 MAP
+4 LATI N42.2442
+4 LONG W77.0444
+2 SOUR @vsHf59o6QmyAlKrTp9EW@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1915; Election District: 01; Assembly Di
+4 CONC strict: 01; City: Hornby; County: Steuben; Page: 14
+3 OBJE @M72@
+3 _APID 1,2703::6630885
+2 NOTE Age: 14; Relation to Head of House: Son
+1 RESI
+2 DATE 1920
+2 PLAC Hornby, Steuben, New York, USA
+3 MAP
+4 LATI N42.2442
+4 LONG W77.0444
+2 SOUR @EK7T5HK7THyj56uQA095@
+3 PAGE Year: 1920; Census Place: Hornby, Steuben, New York
+3 OBJE @M43@
+3 _APID 1,6061::87520710
+2 NOTE Age: 18; Marital Status: Single; Relation to Head of House
+3 CONC : Son
+1 RESI
+2 DATE 01 JUN 1925
+2 PLAC Hornby, Steuben, New York, USA
+3 MAP
+4 LATI N42.2442
+4 LONG W77.0444
+2 SOUR @XLqOXBdKSiS546wsc0IB@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1925; Election District: 01; Assembly Di
+4 CONC strict: 01; City: Hornby; County: Steuben; Page: 13
+3 OBJE @M73@
+3 _APID 1,2704::25133674
+2 NOTE Age: 23; Relation to Head of House: Son
+1 RESI
+2 DATE 1935
+2 PLAC Hamilton, Madison, New York, USA
+3 MAP
+4 LATI N42.827
+4 LONG W75.5446
+2 SOUR @2Tqe6FIjTKCB96mC4JOU@
+3 PAGE Year: 1940; Census Place: Hamilton, Madison, New York; Roll
+4 CONC : T627_2624; Page: 1A; Enumeration District: 27-19
+3 OBJE @M130@
+3 _APID 1,2442::11197630
+1 RESI
+2 DATE 01 APR 1940
+2 PLAC Hamilton, Madison, New York, USA
+3 MAP
+4 LATI N42.827
+4 LONG W75.5446
+2 SOUR @2Tqe6FIjTKCB96mC4JOU@
+3 PAGE Year: 1940; Census Place: Hamilton, Madison, New York; Roll
+4 CONC : T627_2624; Page: 1A; Enumeration District: 27-19
+3 OBJE @M130@
+3 _APID 1,2442::11197630
+2 NOTE Age: 38; Marital Status: Married; Relation to Head of House
+3 CONC : Head
 1 DEAT
 2 DATE 06 FEB 1995
+2 PLAC Columbia, Howard, Maryland, USA
+3 MAP
+4 LATI N39.2404
+4 LONG W76.8394
+2 SOUR @S197@
+2 SOUR @S199@
+3 QUAY 2
+2 SOUR @S188@
+3 PAGE Number: 056-14-4624; Issue State: New York; Issue Date: Befo
+4 CONC re 1951
+3 _APID 1,3693::25909472
+2 NOTE Age at Death: 93
+1 SSN 056-14-4624
+2 SOUR @S199@
+3 QUAY 3
 1 _XY 85241 2636
+1 _XY 2036 4244
+1 _PHOTO @M147@
 0 @Tr93Cqt3RhmeHGh48Fwj@ INDI
 1 REFN 1fe5ee34-90bf-44f5-a56a-aa57d9bbc8c5
 1 NAME John Jesse /Harrison/
@@ -6298,6 +7718,152 @@
 3 OBJE @M92@
 3 _APID 1,7218::2170427
 2 NOTE Relation to Head of House: Daughter
+0 @I610@ INDI
+1 REFN d58f6994-167f-4202-bb78-831a0fa6b8bf
+1 NAME Miriam /Harrison/
+2 SOUR @2Tqe6FIjTKCB96mC4JOU@
+3 PAGE Year: 1940; Census Place: Hamilton, Madison, New York; Roll
+4 CONC : T627_2624; Page: 1A; Enumeration District: 27-19
+3 OBJE @M130@
+3 _APID 1,2442::11197634
+2 SOUR @S187@
+3 _APID 1,1788::253339302
+2 SOUR @S191@
+3 _APID 1,1732::387141722
+2 SOUR @S215@
+3 PAGE Publication Place: Cambridge, Massachusetts, USA
+3 _APID 1,2190::374663010
+2 SOUR @S216@
+3 PAGE Publication Place: Cambridge, Massachusetts, USA; URL: http:
+4 CONC //www.keefefuneralhome.com/book-of-memories/68020/Jung-Miria
+4 CONC m/service-details.php
+3 _APID 1,2190::300065980
+2 SOUR @S186@
+3 PAGE Arlington Advocate, The; Publication Date: 13/ Apr/ 2007; Pu
+4 CONC blication Place: Lexington, Massachusetts, USA; URL: http://
+4 CONC www.townonline.com/arlington/obituaries/x941396022
+3 _APID 1,7545::14314241
+2 SOUR @nuNi9KjuQRC7bV7GdbqW@
+3 _APID 1,60901::19704446
+2 SOUR @S188@
+3 PAGE Issue State: New York; Issue Date: 1955-1956
+3 _APID 1,3693::79463806
+1 SEX F
+1 FAMC @F495@
+1 FAMS @F497@
+1 BIRT
+2 DATE 30 NOV 1933
+2 PLAC Utica, Oneida, New York, USA
+3 MAP
+4 LATI N43.1009
+4 LONG W75.2327
+2 SOUR @2Tqe6FIjTKCB96mC4JOU@
+3 PAGE Year: 1940; Census Place: Hamilton, Madison, New York; Roll
+4 CONC : T627_2624; Page: 1A; Enumeration District: 27-19
+3 OBJE @M130@
+3 _APID 1,2442::11197634
+2 SOUR @S187@
+3 _APID 1,1788::253339302
+2 SOUR @S191@
+3 _APID 1,1732::387141722
+2 SOUR @S215@
+3 PAGE Publication Place: Cambridge, Massachusetts, USA
+3 _APID 1,2190::374663010
+2 SOUR @S216@
+3 PAGE Publication Place: Cambridge, Massachusetts, USA; URL: http:
+4 CONC //www.keefefuneralhome.com/book-of-memories/68020/Jung-Miria
+4 CONC m/service-details.php
+3 _APID 1,2190::300065980
+2 SOUR @S186@
+3 PAGE Arlington Advocate, The; Publication Date: 13/ Apr/ 2007; Pu
+4 CONC blication Place: Lexington, Massachusetts, USA; URL: http://
+4 CONC www.townonline.com/arlington/obituaries/x941396022
+3 _APID 1,7545::14314241
+2 SOUR @nuNi9KjuQRC7bV7GdbqW@
+3 _APID 1,60901::19704446
+2 SOUR @S188@
+3 PAGE Issue State: New York; Issue Date: 1955-1956
+3 _APID 1,3693::79463806
+1 RESI
+2 DATE 1935
+2 PLAC Hamilton, Madison, New York, USA
+3 MAP
+4 LATI N42.827
+4 LONG W75.5446
+2 SOUR @2Tqe6FIjTKCB96mC4JOU@
+3 PAGE Year: 1940; Census Place: Hamilton, Madison, New York; Roll
+4 CONC : T627_2624; Page: 1A; Enumeration District: 27-19
+3 OBJE @M130@
+3 _APID 1,2442::11197634
+1 RESI
+2 DATE 01 APR 1940
+2 PLAC Hamilton, Madison, New York, USA
+3 MAP
+4 LATI N42.827
+4 LONG W75.5446
+2 SOUR @2Tqe6FIjTKCB96mC4JOU@
+3 PAGE Year: 1940; Census Place: Hamilton, Madison, New York; Roll
+4 CONC : T627_2624; Page: 1A; Enumeration District: 27-19
+3 OBJE @M130@
+3 _APID 1,2442::11197634
+2 NOTE Age: 6; Marital Status: Single; Relation to Head of House: D
+3 CONC aughter
+1 RESI
+2 DATE 1993
+2 PLAC 160 Westminster Avenue, Arlington, Middlesex, Massachusetts
+3 CONC , USA
+2 SOUR @S187@
+3 _APID 1,1788::253339302
+2 SOUR @S191@
+3 _APID 1,1732::387141722
+1 RESI
+2 DATE ABT FEB 2007
+2 PLAC Arlington, Woburn, Middlesex, Massachusetts, USA
+2 SOUR @S215@
+3 PAGE Publication Place: Cambridge, Massachusetts, USA
+3 _APID 1,2190::374663010
+2 SOUR @S216@
+3 PAGE Publication Place: Cambridge, Massachusetts, USA; URL: http:
+4 CONC //www.keefefuneralhome.com/book-of-memories/68020/Jung-Miria
+4 CONC m/service-details.php
+3 _APID 1,2190::300065980
+2 SOUR @S186@
+3 PAGE Arlington Advocate, The; Publication Date: 13/ Apr/ 2007; Pu
+4 CONC blication Place: Lexington, Massachusetts, USA; URL: http://
+4 CONC www.townonline.com/arlington/obituaries/x941396022
+3 _APID 1,7545::14314241
+1 DEAT
+2 DATE 14 MAR 2007
+2 PLAC Burlington, Middlesex, Massachusetts, USA
+3 MAP
+4 LATI N42.5048
+4 LONG W71.1956
+2 SOUR @S215@
+3 PAGE Publication Place: Cambridge, Massachusetts, USA
+3 _APID 1,2190::374663010
+2 SOUR @S216@
+3 PAGE Publication Place: Cambridge, Massachusetts, USA; URL: http:
+4 CONC //www.keefefuneralhome.com/book-of-memories/68020/Jung-Miria
+4 CONC m/service-details.php
+3 _APID 1,2190::300065980
+2 SOUR @S186@
+3 PAGE Arlington Advocate, The; Publication Date: 13/ Apr/ 2007; Pu
+4 CONC blication Place: Lexington, Massachusetts, USA; URL: http://
+4 CONC www.townonline.com/arlington/obituaries/x941396022
+3 _APID 1,7545::14314241
+2 SOUR @nuNi9KjuQRC7bV7GdbqW@
+3 _APID 1,60901::19704446
+2 SOUR @S188@
+3 PAGE Issue State: New York; Issue Date: 1955-1956
+3 _APID 1,3693::79463806
+1 BURI
+2 DATE 17 MAR 2007
+2 SOUR @S186@
+3 PAGE Arlington Advocate, The; Publication Date: 13/ Apr/ 2007; Pu
+4 CONC blication Place: Lexington, Massachusetts, USA; URL: http://
+4 CONC www.townonline.com/arlington/obituaries/x941396022
+3 _APID 1,7545::14314241
+1 _XY 1881 4344
 0 @vvnoetMSSQi5Ut0a9nFk@ INDI
 1 REFN 0eee3511-419d-496a-9db9-7ef9949f8727
 1 NAME Nathan /Harrison/
@@ -6426,6 +7992,11 @@
 2 SOUR @fgk8xAOsQLeHP2vct6BI@
 3 _APID 1,60525::104108458
 1 _XY 86154 2287
+0 @I605@ INDI
+1 NAME [REDACTED]
+1 FAMC @F495@
+1 FAMS @F494@
+1 FAMS @F493@
 0 @mzF20vaoQyeksvETFq8v@ INDI
 1 REFN ba908b88-afab-4944-a093-1c38c711f1e9
 1 NAME Sarah /Harrison/
@@ -6902,13 +8473,72 @@
 0 @k2kP4pcAT8SoUI4cFeRY@ INDI
 1 REFN b02101f0-7c27-48f4-af26-5b600313d9a1
 1 NAME Walter E. /Harrison/
+2 SOUR @dXuR3sdWT420EiGiZyqw@
+3 PAGE Year: 1900; Census Place: Hornby, Steuben, New York; Roll: 1
+4 CONC 163; Page: 3B; Enumeration District: 0087; FHL microfilm: 12
+4 CONC 41163
+3 OBJE @M34@
+3 _APID 1,7602::56735668
+2 SOUR @UD5K4qjOSWuiUJD8Ih6k@
+3 PAGE Ancestry Family Tree
+3 DATA
+4 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=62861
+5 CONC &pid=168
+2 SOUR @S197@
+2 SOUR @1SIe6ODlREuvmbzQ0vzX@
+3 QUAY 1
+2 SOUR @fgk8xAOsQLeHP2vct6BI@
+3 _APID 1,60525::115063044
 1 SEX M
 1 FAMC @SECEG17DTR2JpN35QBiT@
 1 BIRT
 2 DATE 01 JAN 1900
+2 PLAC Harrison Homestead, Hornby, Steuben, New York, USA
+2 SOUR @dXuR3sdWT420EiGiZyqw@
+3 PAGE Year: 1900; Census Place: Hornby, Steuben, New York; Roll: 1
+4 CONC 163; Page: 3B; Enumeration District: 0087; FHL microfilm: 12
+4 CONC 41163
+3 OBJE @M34@
+3 _APID 1,7602::56735668
+2 SOUR @S197@
+2 SOUR @1SIe6ODlREuvmbzQ0vzX@
+3 QUAY 1
+2 SOUR @fgk8xAOsQLeHP2vct6BI@
+3 _APID 1,60525::115063044
+1 RESI
+2 DATE 1900
+2 PLAC Hornby, Steuben, New York, USA
+3 MAP
+4 LATI N42.2442
+4 LONG W77.0444
+2 SOUR @dXuR3sdWT420EiGiZyqw@
+3 PAGE Year: 1900; Census Place: Hornby, Steuben, New York; Roll: 1
+4 CONC 163; Page: 3B; Enumeration District: 0087; FHL microfilm: 12
+4 CONC 41163
+3 OBJE @M34@
+3 _APID 1,7602::56735668
+2 NOTE Age: 4/12; Marital Status: Single; Relation to Head of House
+3 CONC : Grand Son; Relation to Head of House: Grandson
 1 DEAT
 2 DATE 08 SEP 1903
+2 PLAC Hornby, Steuben, New York, USA
+3 MAP
+4 LATI N42.2442
+4 LONG W77.0444
+2 SOUR @S197@
+2 SOUR @1SIe6ODlREuvmbzQ0vzX@
+3 QUAY 1
+2 SOUR @fgk8xAOsQLeHP2vct6BI@
+3 _APID 1,60525::115063044
+1 BURI
+2 PLAC Saint Mary's Cemetery, South Corning, Steuben, New York, USA
+2 SOUR @S197@
+2 SOUR @1SIe6ODlREuvmbzQ0vzX@
+3 QUAY 1
+2 SOUR @fgk8xAOsQLeHP2vct6BI@
+3 _APID 1,60525::115063044
 1 _XY 85125 2636
+1 _XY 2184 4244
 0 @I589@ INDI
 1 REFN 6b87ccb6-f46c-40e7-990b-296e44c21195
 1 NAME William H. /Harrison/
@@ -8870,6 +10500,42 @@
 3 _APID 1,3599::3489624
 2 SOUR @cWbZb01xQzylhWjsQswU@
 1 _XY 85372 2092
+0 @I608@ INDI
+1 REFN 20073253-7e6a-44cf-9507-599ed6b1022d
+1 NAME Jonathan /Jung/
+2 SOUR @S186@
+3 PAGE Publication Date: 13/ Apr/ 2007; Publication Place: Lexingto
+4 CONC n, Massachusetts, USA; URL: http://www.townonline.com/arling
+4 CONC ton/obituaries/x941396022
+3 _APID 1,7545::203016708
+1 SEX M
+1 FAMC @F497@
+0 @I606@ INDI
+1 REFN 5d2271eb-dbdf-4d2b-b8c8-bf63a7dc8b32
+1 NAME Lydia /Jung/
+1 SEX F
+1 FAMC @F496@
+0 @I609@ INDI
+1 REFN d2546f1e-f0d3-4fff-885d-55166af6bd0e
+1 NAME Richard /Jung/
+2 SOUR @S186@
+3 PAGE Publication Date: 13/ Apr/ 2007; Publication Place: Lexingto
+4 CONC n, Massachusetts, USA; URL: http://www.townonline.com/arling
+4 CONC ton/obituaries/x941396022
+3 _APID 1,7545::149153983
+1 SEX M
+1 FAMS @F497@
+0 @I607@ INDI
+1 REFN c38492c5-fe8f-4bdb-acda-3ca9a339c848
+1 NAME Timothy /Jung/
+2 SOUR @S186@
+3 PAGE Publication Date: 13/ Apr/ 2007; Publication Place: Lexingto
+4 CONC n, Massachusetts, USA; URL: http://www.townonline.com/arling
+4 CONC ton/obituaries/x941396022
+3 _APID 1,7545::86203198
+1 SEX M
+1 FAMC @F497@
+1 FAMS @F496@
 0 @3Tq9cgbAQ2i4bHnkUDQY@ INDI
 1 REFN 458b0325-b7d8-4f25-832c-f29d13636b71
 1 NAME Bethiah /Ketcham/
@@ -10077,6 +11743,163 @@
 1 SEX M
 1 FAMC @Mr7JCmCCRCieYbPXagjg@
 1 _XY 87025 1684
+0 @I599@ INDI
+1 REFN 59048b3d-339a-4aea-bc06-9239eb1d5784
+1 NAME Madeline Doris /Lowery/
+2 SOUR @EK7T5HK7THyj56uQA095@
+3 PAGE Year: 1920; Census Place: Corning, Steuben, New York
+3 OBJE @M122@
+3 _APID 1,6061::87512574
+2 SOUR @6ueRmpMIQ9qSG0rSnwpX@
+3 PAGE Year: 1930; Census Place: Bristol, Ontario, New York; Roll
+4 CONC : 1631; Page: 3A; Enumeration District: 1; Image: 7.0; FHL m
+4 CONC icrofilm: 2341365
+3 OBJE @M123@
+3 _APID 1,6224::44044864
+2 SOUR @2Tqe6FIjTKCB96mC4JOU@
+3 PAGE Year: 1940; Census Place: Painted Post, Steuben, New York; R
+4 CONC oll: T627_2781; Page: 61A; Enumeration District: 51-48
+3 OBJE @M121@
+3 _APID 1,2442::8680819
+2 SOUR @UD5K4qjOSWuiUJD8Ih6k@
+3 PAGE Ancestry Family Tree
+3 DATA
+4 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=62861
+5 CONC &pid=1184
+2 SOUR @XLqOXBdKSiS546wsc0IB@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1925; Election District: 03; Assembly Di
+4 CONC strict: 01; City: Corning; County: Steuben; Page: 6
+3 OBJE @M124@
+3 _APID 1,2704::25161873
+2 SOUR @S187@
+3 _APID 1,1788::219297906
+2 SOUR @fgk8xAOsQLeHP2vct6BI@
+3 _APID 1,60525::37910294
+2 SOUR @S188@
+3 PAGE Issue State: New York; Issue Date: Before 1951
+3 _APID 1,3693::80892045
+1 SEX F
+1 FAMS @F491@
+1 OBJE @M125@
+1 OBJE @M126@
+1 BIRT
+2 DATE 10 MAY 1909
+2 PLAC Bath, Steuben, New York, USA
+3 MAP
+4 LATI N42.337
+4 LONG W77.3177
+2 SOUR @EK7T5HK7THyj56uQA095@
+3 PAGE Year: 1920; Census Place: Corning, Steuben, New York
+3 OBJE @M122@
+3 _APID 1,6061::87512574
+2 SOUR @6ueRmpMIQ9qSG0rSnwpX@
+3 PAGE Year: 1930; Census Place: Bristol, Ontario, New York; Roll
+4 CONC : 1631; Page: 3A; Enumeration District: 1; Image: 7.0; FHL m
+4 CONC icrofilm: 2341365
+3 OBJE @M123@
+3 _APID 1,6224::44044864
+2 SOUR @2Tqe6FIjTKCB96mC4JOU@
+3 PAGE Year: 1940; Census Place: Painted Post, Steuben, New York; R
+4 CONC oll: T627_2781; Page: 61A; Enumeration District: 51-48
+3 OBJE @M121@
+3 _APID 1,2442::8680819
+2 SOUR @XLqOXBdKSiS546wsc0IB@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1925; Election District: 03; Assembly Di
+4 CONC strict: 01; City: Corning; County: Steuben; Page: 6
+3 OBJE @M124@
+3 _APID 1,2704::25161873
+2 SOUR @S187@
+3 _APID 1,1788::219297906
+2 SOUR @fgk8xAOsQLeHP2vct6BI@
+3 _APID 1,60525::37910294
+2 SOUR @S188@
+3 PAGE Issue State: New York; Issue Date: Before 1951
+3 _APID 1,3693::80892045
+1 RESI
+2 DATE 1920
+2 PLAC Corning, Steuben, New York, USA
+3 MAP
+4 LATI N42.1429
+4 LONG W77.0547
+2 SOUR @EK7T5HK7THyj56uQA095@
+3 PAGE Year: 1920; Census Place: Corning, Steuben, New York
+3 OBJE @M122@
+3 _APID 1,6061::87512574
+2 NOTE Age: 10; Marital Status: Single; Relation to Head of House
+3 CONC : Daughter
+1 RESI
+2 DATE 01 JUN 1925
+2 PLAC Corning, Steuben, New York, USA
+3 MAP
+4 LATI N42.1429
+4 LONG W77.0547
+2 SOUR @XLqOXBdKSiS546wsc0IB@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1925; Election District: 03; Assembly Di
+4 CONC strict: 01; City: Corning; County: Steuben; Page: 6
+3 OBJE @M124@
+3 _APID 1,2704::25161873
+2 NOTE Age: 16; Relation to Head of House: Daughter
+1 RESI
+2 DATE 1930
+2 PLAC Bristol, Ontario, New York, USA
+3 MAP
+4 LATI N42.8453
+4 LONG W77.4244
+2 SOUR @6ueRmpMIQ9qSG0rSnwpX@
+3 PAGE Year: 1930; Census Place: Bristol, Ontario, New York; Roll
+4 CONC : 1631; Page: 3A; Enumeration District: 1; Image: 7.0; FHL m
+4 CONC icrofilm: 2341365
+3 OBJE @M123@
+3 _APID 1,6224::44044864
+2 NOTE Age: 20; Marital Status: Single; Relation to Head of House
+3 CONC : Boarder
+1 RESI
+2 DATE 1935
+2 PLAC Painted Post, Steuben, New York, USA
+3 MAP
+4 LATI N42.162
+4 LONG W77.0941
+2 SOUR @2Tqe6FIjTKCB96mC4JOU@
+3 PAGE Year: 1940; Census Place: Painted Post, Steuben, New York; R
+4 CONC oll: T627_2781; Page: 61A; Enumeration District: 51-48
+3 OBJE @M121@
+3 _APID 1,2442::8680819
+1 RESI
+2 DATE 01 APR 1940
+2 PLAC Painted Post, Steuben, New York, USA
+3 MAP
+4 LATI N42.162
+4 LONG W77.0941
+2 SOUR @2Tqe6FIjTKCB96mC4JOU@
+3 PAGE Year: 1940; Census Place: Painted Post, Steuben, New York; R
+4 CONC oll: T627_2781; Page: 61A; Enumeration District: 51-48
+3 OBJE @M121@
+3 _APID 1,2442::8680819
+2 NOTE Age: 30; Marital Status: Married; Relation to Head of House
+3 CONC : Wife
+1 DEAT
+2 DATE 22 OCT 2007
+2 PLAC Painted Post, Steuben, New York, USA
+3 MAP
+4 LATI N42.162
+4 LONG W77.0941
+2 SOUR @fgk8xAOsQLeHP2vct6BI@
+3 _APID 1,60525::37910294
+2 SOUR @S188@
+3 PAGE Issue State: New York; Issue Date: Before 1951
+3 _APID 1,3693::80892045
+1 BURI
+2 PLAC Coopers Plains, Steuben, New York, USA
+3 MAP
+4 LATI N42.1822
+4 LONG W77.1419
+2 SOUR @fgk8xAOsQLeHP2vct6BI@
+3 _APID 1,60525::37910294
+1 _XY 2437 4244
+1 _PHOTO @M125@
 0 @c7KhnZUcSISNf8wMT3Cq@ INDI
 1 REFN b3cc616d-d1a9-4490-bc69-f0a1ac67bb0a
 1 NAME Anne /Marbury/
@@ -17364,6 +19187,83 @@
 1 SEX F
 1 FAMS @4zb4ZIUiS4yeXJ0DDnl6@
 1 _XY 88512 3930
+0 @I596@ INDI
+1 REFN 7d92c10c-00c1-49fb-aa8a-35b6bcae5c9e
+1 NAME Mary Jane /Sypian/
+2 SOUR @2Tqe6FIjTKCB96mC4JOU@
+3 PAGE Year: 1940; Census Place: Rochester, Monroe, New York; Roll
+4 CONC : m-t0627-02847; Page: 3A; Enumeration District: 65-191
+3 OBJE @M108@
+3 _APID 1,2442::9757400
+2 SOUR @S175@
+3 PAGE New York State Department of Health; Albany, NY, USA; New Yo
+4 CONC rk State Marriage Index; Mary J. Sypian
+3 OBJE @M107@
+3 _APID 1,61632::3275616
+2 SOUR @D5SLrrBySbi6oa3ygAnv@
+3 PAGE (1st index entry)
+3 OBJE @M106@
+3 _APID 1,2469::1331791395
+2 SOUR @D5SLrrBySbi6oa3ygAnv@
+3 PAGE (2nd index entry)
+3 OBJE @M106@
+3 _APID 1,2469::103803091
+2 SOUR @S187@
+3 _APID 1,1788::88729050
+2 SOUR @S191@
+3 PAGE (1st index entry)
+3 _APID 1,1732::268415927
+2 SOUR @S191@
+3 PAGE (2nd index entry)
+3 _APID 1,1732::392747428
+2 SOUR @S186@
+3 PAGE Publication Date: 20/ Apr/ 2015; Publication Place: Rocheste
+4 CONC r, New York, USA; URL: http://www.legacy.com/obituaries/Demo
+4 CONC cratAndChronicle/obituary.aspx?n=mary-jane-harrison-beba&amp
+4 CONC ;pid=174672790&amp;fhid=7351
+3 _APID 1,7545::418790052
+1 SEX F
+1 FAMS @F489@
+1 BIRT
+2 DATE 10 AUG 1936
+2 PLAC New York, USA
+3 MAP
+4 LATI N42.7531
+4 LONG W74.2224
+2 SOUR @2Tqe6FIjTKCB96mC4JOU@
+3 PAGE Year: 1940; Census Place: Rochester, Monroe, New York; Roll
+4 CONC : m-t0627-02847; Page: 3A; Enumeration District: 65-191
+3 OBJE @M108@
+3 _APID 1,2442::9757400
+2 SOUR @S187@
+3 _APID 1,1788::88729050
+2 SOUR @S191@
+3 PAGE (1st index entry)
+3 _APID 1,1732::268415927
+2 SOUR @S191@
+3 PAGE (2nd index entry)
+3 _APID 1,1732::392747428
+1 RESI
+2 DATE 1940
+2 PLAC 177 Masseth Street, Rochester, Monroe, New York, USA
+2 SOUR @2Tqe6FIjTKCB96mC4JOU@
+3 PAGE Year: 1940; Census Place: Rochester, Monroe, New York; Roll
+4 CONC : m-t0627-02847; Page: 3A; Enumeration District: 65-191
+3 OBJE @M108@
+3 _APID 1,2442::9757400
+2 NOTE Marital Status: Single; Relation to Head: Daughter
+1 DEAT
+2 DATE 18 APR 2015
+2 PLAC Gates, Monroe, New York, USA
+3 MAP
+4 LATI N43.1523
+4 LONG W77.7122
+2 SOUR @S186@
+3 PAGE Publication Date: 20/ Apr/ 2015; Publication Place: Rocheste
+4 CONC r, New York, USA; URL: http://www.legacy.com/obituaries/Demo
+4 CONC cratAndChronicle/obituary.aspx?n=mary-jane-harrison-beba&amp
+4 CONC ;pid=174672790&amp;fhid=7351
+3 _APID 1,7545::418790052
 0 @in9VKhctRPSWaDzRnNtJ@ INDI
 1 REFN 9814cb22-068d-4d6e-85e1-742d4582e207
 1 NAME Hannah L. /Taylorson/
@@ -17383,6 +19283,230 @@
 1 SEX M
 1 FAMS @XmRXcZ2bT6G4gcyJH5N6@
 1 _XY 89069 4030
+0 @I611@ INDI
+1 REFN 6ec100b2-073a-49de-92a6-6738049789dd
+1 NAME Dorothy May /VanNortwick/
+2 SOUR @JUgnOwW8T2Gy5BZo8eZW@
+3 PAGE Year: 1910; Census Place: Hornby, Steuben, New York; Roll: T
+4 CONC 624_1080; Page: 3B; Enumeration District: 0132; FHL microfil
+4 CONC m: 1375093
+3 OBJE @M138@
+3 _APID 1,7884::103800852
+2 SOUR @6ueRmpMIQ9qSG0rSnwpX@
+3 PAGE Year: 1930; Census Place: Hornby, Steuben, New York; Roll: 1
+4 CONC 648; Page: 3B; Enumeration District: 44; Image: 994.0; FHL m
+4 CONC icrofilm: 2341382
+3 OBJE @M140@
+3 _APID 1,6224::46291880
+2 SOUR @2Tqe6FIjTKCB96mC4JOU@
+3 PAGE Year: 1940; Census Place: Hamilton, Madison, New York; Roll
+4 CONC : T627_2624; Page: 1A; Enumeration District: 27-19
+3 OBJE @M130@
+3 _APID 1,2442::11197632
+2 SOUR @UD5K4qjOSWuiUJD8Ih6k@
+3 PAGE Ancestry Family Tree
+3 DATA
+4 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=62861
+5 CONC &pid=1183
+2 SOUR @S175@
+3 PAGE New York State Department of Health; Albany, NY, USA; New Yo
+4 CONC rk State Marriage Index; Dorothy M Vannortwick
+3 OBJE @M144@
+3 _APID 1,61632::1541301
+2 SOUR @S195@
+3 PAGE Dorothy May Vannortwick
+3 OBJE @M142@
+3 _APID 1,61377::900221575
+2 SOUR @2BrYALWfRGeGIhxft2Zm@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1905; Election District: A.D. 01 E.D. 01
+4 CONC ; City: Campbell; County: Steuben; Page: 7
+3 OBJE @M143@
+3 _APID 1,7364::3150819
+2 SOUR @vsHf59o6QmyAlKrTp9EW@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1915; Election District: 01; Assembly Di
+4 CONC strict: 01; City: Hornby; County: Steuben; Page: 01
+3 OBJE @M139@
+3 _APID 1,2703::6629452
+2 SOUR @XLqOXBdKSiS546wsc0IB@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1925; Election District: 01; Assembly Di
+4 CONC strict: 01; City: Hornby; County: Steuben; Page: 6
+3 OBJE @M141@
+3 _APID 1,2704::25133328
+2 SOUR @S216@
+3 PAGE Publication Place: Cambridge, Massachusetts, USA; URL: http:
+4 CONC //www.keefefuneralhome.com/book-of-memories/68020/Jung-Miria
+4 CONC m/service-details.php
+3 _APID 1,2190::153959123
+2 SOUR @S186@
+3 PAGE Publication Date: 13/ Apr/ 2007; Publication Place: Lexingto
+4 CONC n, Massachusetts, USA; URL: http://www.townonline.com/arling
+4 CONC ton/obituaries/x941396022
+3 _APID 1,7545::155522175
+2 SOUR @nuNi9KjuQRC7bV7GdbqW@
+3 _APID 1,60901::769704446
+2 SOUR @S188@
+3 PAGE Number: 069-24-0800; Issue State: New York; Issue Date: Befo
+4 CONC re 1951
+3 _APID 1,3693::25893438
+1 SEX F
+1 FAMS @F495@
+1 OBJE @M145@
+1 OBJE @M146@
+1 BIRT
+2 DATE 22 MAY 1903
+2 PLAC Hornby, Steuben, New York, USA
+3 MAP
+4 LATI N42.2442
+4 LONG W77.0444
+2 SOUR @JUgnOwW8T2Gy5BZo8eZW@
+3 PAGE Year: 1910; Census Place: Hornby, Steuben, New York; Roll: T
+4 CONC 624_1080; Page: 3B; Enumeration District: 0132; FHL microfil
+4 CONC m: 1375093
+3 OBJE @M138@
+3 _APID 1,7884::103800852
+2 SOUR @6ueRmpMIQ9qSG0rSnwpX@
+3 PAGE Year: 1930; Census Place: Hornby, Steuben, New York; Roll: 1
+4 CONC 648; Page: 3B; Enumeration District: 44; Image: 994.0; FHL m
+4 CONC icrofilm: 2341382
+3 OBJE @M140@
+3 _APID 1,6224::46291880
+2 SOUR @2Tqe6FIjTKCB96mC4JOU@
+3 PAGE Year: 1940; Census Place: Hamilton, Madison, New York; Roll
+4 CONC : T627_2624; Page: 1A; Enumeration District: 27-19
+3 OBJE @M130@
+3 _APID 1,2442::11197632
+2 SOUR @S195@
+3 PAGE Dorothy May Vannortwick
+3 OBJE @M142@
+3 _APID 1,61377::900221575
+2 SOUR @2BrYALWfRGeGIhxft2Zm@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1905; Election District: A.D. 01 E.D. 01
+4 CONC ; City: Campbell; County: Steuben; Page: 7
+3 OBJE @M143@
+3 _APID 1,7364::3150819
+2 SOUR @vsHf59o6QmyAlKrTp9EW@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1915; Election District: 01; Assembly Di
+4 CONC strict: 01; City: Hornby; County: Steuben; Page: 01
+3 OBJE @M139@
+3 _APID 1,2703::6629452
+2 SOUR @XLqOXBdKSiS546wsc0IB@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1925; Election District: 01; Assembly Di
+4 CONC strict: 01; City: Hornby; County: Steuben; Page: 6
+3 OBJE @M141@
+3 _APID 1,2704::25133328
+2 SOUR @S188@
+3 PAGE Number: 069-24-0800; Issue State: New York; Issue Date: Befo
+4 CONC re 1951
+3 _APID 1,3693::25893438
+1 RESI
+2 DATE 1905
+2 PLAC Campbell, Steuben, New York, USA
+3 MAP
+4 LATI N42.2331
+4 LONG W77.1978
+2 SOUR @2BrYALWfRGeGIhxft2Zm@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1905; Election District: A.D. 01 E.D. 01
+4 CONC ; City: Campbell; County: Steuben; Page: 7
+3 OBJE @M143@
+3 _APID 1,7364::3150819
+2 NOTE Relationship to Head: Daughter
+1 RESI
+2 DATE 1910
+2 PLAC Hornby, Steuben, New York, USA
+3 MAP
+4 LATI N42.2442
+4 LONG W77.0444
+2 SOUR @JUgnOwW8T2Gy5BZo8eZW@
+3 PAGE Year: 1910; Census Place: Hornby, Steuben, New York; Roll: T
+4 CONC 624_1080; Page: 3B; Enumeration District: 0132; FHL microfil
+4 CONC m: 1375093
+3 OBJE @M138@
+3 _APID 1,7884::103800852
+2 NOTE Age: 6; Marital Status: Single; Relation to Head of House: D
+3 CONC aughter
+1 RESI
+2 DATE 01 JUN 1915
+2 PLAC Hornby, Steuben, New York, USA
+3 MAP
+4 LATI N42.2442
+4 LONG W77.0444
+2 SOUR @vsHf59o6QmyAlKrTp9EW@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1915; Election District: 01; Assembly Di
+4 CONC strict: 01; City: Hornby; County: Steuben; Page: 01
+3 OBJE @M139@
+3 _APID 1,2703::6629452
+2 NOTE Age: 12; Relation to Head of House: Daughter
+1 RESI
+2 DATE 01 JUN 1925
+2 PLAC Hornby, Steuben, New York, USA
+3 MAP
+4 LATI N42.2442
+4 LONG W77.0444
+2 SOUR @XLqOXBdKSiS546wsc0IB@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1925; Election District: 01; Assembly Di
+4 CONC strict: 01; City: Hornby; County: Steuben; Page: 6
+3 OBJE @M141@
+3 _APID 1,2704::25133328
+2 NOTE Relation to Head of House: Daughter
+1 RESI
+2 DATE 1930
+2 PLAC Hornby, Steuben, New York, USA
+3 MAP
+4 LATI N42.2442
+4 LONG W77.0444
+2 SOUR @6ueRmpMIQ9qSG0rSnwpX@
+3 PAGE Year: 1930; Census Place: Hornby, Steuben, New York; Roll: 1
+4 CONC 648; Page: 3B; Enumeration District: 44; Image: 994.0; FHL m
+4 CONC icrofilm: 2341382
+3 OBJE @M140@
+3 _APID 1,6224::46291880
+2 NOTE Age: 27; Marital Status: Married; Relation to Head of House
+3 CONC : Boarder
+1 RESI
+2 DATE 1935
+2 PLAC Hamilton, Madison, New York, USA
+3 MAP
+4 LATI N42.827
+4 LONG W75.5446
+2 SOUR @2Tqe6FIjTKCB96mC4JOU@
+3 PAGE Year: 1940; Census Place: Hamilton, Madison, New York; Roll
+4 CONC : T627_2624; Page: 1A; Enumeration District: 27-19
+3 OBJE @M130@
+3 _APID 1,2442::11197632
+1 RESI
+2 DATE 01 APR 1940
+2 PLAC Hamilton, Madison, New York, USA
+3 MAP
+4 LATI N42.827
+4 LONG W75.5446
+2 SOUR @2Tqe6FIjTKCB96mC4JOU@
+3 PAGE Year: 1940; Census Place: Hamilton, Madison, New York; Roll
+4 CONC : T627_2624; Page: 1A; Enumeration District: 27-19
+3 OBJE @M130@
+3 _APID 1,2442::11197632
+2 NOTE Age: 37; Marital Status: Married; Relation to Head of House
+3 CONC : Wife
+1 DEAT
+2 DATE 25 AUG 1998
+2 PLAC Ellicott City, Howard, Maryland, USA
+3 MAP
+4 LATI N39.2673
+4 LONG W76.7983
+2 SOUR @S188@
+3 PAGE Number: 069-24-0800; Issue State: New York; Issue Date: Befo
+4 CONC re 1951
+3 _APID 1,3693::25893438
+1 _XY 1881 4244
+1 _PHOTO @M145@
 0 @D2aywGgsT06g0AdOyjZu@ INDI
 1 REFN ecc75395-93a2-4140-8c7d-4caf6dd512b3
 1 NAME John /Wadhams/
@@ -18966,10 +21090,21 @@
 1 DEAT
 2 DATE 19 SEP 1702
 1 _XY 87928 3133
+0 @F492@ FAM
+1 WIFE @TxTDl5TdTdqYQBctCLt1@
 0 @lx4th97LSMCDxoF6hN2L@ FAM
 1 REFN 8ed03841-1794-421a-a7cd-7946c81a2ed0
 1 HUSB @3OOja4ebQHaQ3F5oIdwP@
 1 WIFE @TlKAUgqHRP6MVoTArcAF@
+0 @F488@ FAM
+1 HUSB @I593@
+1 WIFE @I594@
+1 CHIL @I591@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I592@
+2 _FREL Natural
+2 _MREL Natural
 0 @winGlY67TBO9UGUj8stn@ FAM
 1 REFN a4b471f0-ebce-4373-8d27-15d5b1ad685c
 1 HUSB @VZCuAiSpTPC91SqrHyEV@
@@ -19173,6 +21308,18 @@
 2 SOUR @D60ipKzRSqCXYFfOaFlf@
 3 QUAY 1
 2 NOTE by Jonathan Bell
+0 @F493@ FAM
+1 HUSB @I603@
+1 WIFE @I605@
+1 CHIL @I602@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I601@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I600@
+2 _FREL Natural
+2 _MREL Natural
 0 @tzidUJ2mSKeTr6lW0CxY@ FAM
 1 REFN 91ddd5d8-0604-4162-aa26-6f3a9346ee59
 1 HUSB @DnIG0ISXRfKMz2OiokWr@
@@ -19345,6 +21492,9 @@
 1 REFN 2728057c-d697-4d55-bf32-dbb2f6082633
 1 HUSB @V3nGvbxLT2aAgMBHA7SS@
 1 WIFE @PCQXMSzBRDGAU3fBMnzP@
+0 @F494@ FAM
+1 HUSB @I604@
+1 WIFE @I605@
 0 @jU0OC1TKSSychXtrsdap@ FAM
 1 REFN 5f0184c0-e5df-4933-aa65-1bdea8ef4f6c
 1 HUSB @Uo2bMeR5RCm9o21JS0hl@
@@ -19475,6 +21625,15 @@
 1 WIFE @dGU763oGSyaOMiG9g991@
 1 MARR
 2 DATE 07 JUN 1826
+0 @F489@ FAM
+1 HUSB @I597@
+1 WIFE @I596@
+1 CHIL @I595@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I594@
+2 _FREL Natural
+2 _MREL Natural
 0 @YSFEAskmSZ2OCjU3KRYy@ FAM
 1 REFN ee9605d2-28ee-4af5-9d8e-49706841ccb4
 1 HUSB @9LS1J0pFQEyXdpItrBUb@
@@ -19567,7 +21726,7 @@
 3 PAGE Year: 1900; Census Place: Hornby, Steuben, New York; Roll: 1
 4 CONC 163; Page: 3B; Enumeration District: 0087; FHL microfilm: 12
 4 CONC 41163
-3 OBJE @V0TKnZr1RZKQLCUAM5C6@
+3 OBJE @M34@
 3 _APID 1,7602::56735666
 2 SOUR @S175@
 3 PAGE New York State Department of Health; Albany, NY, USA; New Yo
@@ -19579,6 +21738,12 @@
 4 CONC rk State Marriage Index; May A McLaughlin
 3 OBJE @M89@
 2 NOTE by Rev. James M. Bustin
+0 @F490@ FAM
+1 HUSB @DeD6co9kRcuX8FKkxyQ9@
+1 WIFE @I598@
+1 CHIL @I597@
+2 _FREL Natural
+2 _MREL Natural
 0 @PJVSYwODQruvZvNmcrDX@ FAM
 1 REFN 9d39796b-c817-4c86-8e5d-09cdcca6c11a
 1 HUSB @b8zznoO0QZiMqLRDX7H6@
@@ -19595,6 +21760,10 @@
 2 SOUR @ljUxuuY3QhivtsTpBOoP@
 2 SOUR @JpOBqF2MTEmAkzsDtKVU@
 3 QUAY 1
+0 @F491@ FAM
+1 REFN 7190ef94-2577-4c7c-8e55-291e60981257
+1 HUSB @IBXtlFqRSU6uk41gdSuo@
+1 WIFE @I599@
 0 @QCyD0QckQVSosMDkO6Q0@ FAM
 1 REFN 391fdcaa-9743-4f32-b4f6-6e34890439ce
 1 HUSB @F9xz9VQMSw6sz70fFyPy@
@@ -19631,6 +21800,15 @@
 2 _MREL Natural
 1 MARR
 2 DATE 04 OCT 1804
+0 @F495@ FAM
+1 HUSB @XPTLdMBgSPuItfHwstZ2@
+1 WIFE @I611@
+1 CHIL @I610@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I605@
+2 _FREL Natural
+2 _MREL Natural
 0 @r7nSgAKYSFeDqKrcEjcj@ FAM
 1 REFN 704f69c9-a0a8-4ecc-a9bb-2c6130e59e39
 1 HUSB @Tr93Cqt3RhmeHGh48Fwj@
@@ -19956,6 +22134,19 @@
 4 LONG W0.0667
 2 SOUR @bRqYbjgIR5uuFgO8Pghr@
 3 QUAY 1
+0 @F497@ FAM
+1 HUSB @I609@
+1 WIFE @I610@
+1 CHIL @I607@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I608@
+2 _FREL Natural
+2 _MREL Natural
+0 @F496@ FAM
+1 HUSB @I607@
+1 CHIL @I606@
+2 _FREL Natural
 0 @X9vGHWzNSsiL2mJkNQNH@ FAM
 1 REFN cc894cbd-673c-4fda-9ab7-6dd336224a53
 1 HUSB @3hCmLpk3TFGISZdapM6K@
@@ -21476,16 +23667,33 @@
 1 PUBL Ancestry.com Operations Inc; Location: Provo, UT, USA; Date
 2 CONC : 2002
 0 @2Tqe6FIjTKCB96mC4JOU@ SOUR
-1 REFN cd25eff1-7de7-49ce-be39-ac00e709397b
 1 REPO @kBzDdT7sR6qYOEZMnKPD@
 1 TITL 1940 United States Federal Census
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2012
-1 TEXT United States of America, Bureau of the Census. <i>Sixteent
-2 CONC h Census of the United States, 1940</i>. Washington, D.C.: N
-2 CONC ational Archives and Records Administration, 1940. T627, 4,6
-2 CONC 43 rolls.
+0 @S217@ SOUR
+1 REFN 6c44cecc-fe5e-4ac2-9e45-f93f461f1adc
+1 TITL [Unknown newspaper, clipping, Mosher, Frederick, marriage]
+1 PUBL In possession of Chris Mosher, 1934
+1 TEXT Married July 3, at eight-thirty P.M. in the St. Thomas Recto
+2 CONC ry by the Reverend Samuel F. Burhans, Mr. Fred C. Mosher o
+2 CONC f Hamilton, son of Mr. and Mrs. Louis Mosher and Miss Alic
+2 CONC e Harrison of Hornby. They were attended by Mr. and Mrs. Joh
+2 CONC n Harrison. They will be at home in the Hitchcock apartmen
+2 CONC t on Madison Street after this week. Miss Alice Harrison i
+2 CONC s the daughter of Mr. and Mrs. Elmer Harrison of Hornby, Ne
+2 CONC w York. [written in ink:] 1934
+0 @S208@ SOUR
+1 REFN e32a7e1d-6bd4-4f34-abf2-781c386b9a64
+1 TITL [Unknown newspaper, clipping, Mosher/Harrison, Alice, TA ope
+2 CONC n house]
+1 PUBL In possession of Chris Mosher
+1 TEXT OPEN HOUSE PARTICIPANTS...<br />
+2 CONT Mrs. Alice Mosher, president of the Earlville Teachers Assoc
+2 CONC iation.<br />
+2 CONT [back shows item dated 26 Oct 1959, and shows future event d
+2 CONC ated 1 Dec 1959]<br />
 0 @8c48p3qxQjiQJ2HbPcND@ SOUR
 1 REFN 541ed0d6-3f32-463d-b3f6-50bf1455017b
 1 TITL A record of My Family [handwritten sheet]
@@ -21549,7 +23757,7 @@
 1 AUTH LDS
 1 PUBL http://www.familysearch.org/
 0 @UD5K4qjOSWuiUJD8Ih6k@ SOUR
-1 REFN 6a1a97a7-cc0a-49d1-8450-ccb8d2d020a0
+1 REFN 6ab9bcda-bcd6-43a7-a4e1-73348ecbb5d5
 1 REPO @kBzDdT7sR6qYOEZMnKPD@
 1 TITL Ancestry Family Trees
 1 PUBL Online publication - Provo, UT, USA: Ancestry.com.  Origina
@@ -21560,6 +23768,15 @@
 2 CONT Note:
 2 CONT The owners of these tree files may have removed or changed i
 2 CONC nformation since this source citation was created.
+0 @S214@ SOUR
+1 REFN 40b0803c-afe3-43a1-a7e3-07e5b148b092
+1 TITL Annual Dinner and Reunion program, Corning Northside High Sc
+2 CONC hool
+1 PUBL In possession of Chris Mosher, 1964
+1 TEXT Saturday, June 20, 1964, Masonic Cathedral, Corning, New Yor
+2 CONC k...<br />
+2 CONT Recognition of Reunion Classes of 1954, 1944, 1934, 1924 [Al
+2 CONC ice Harrison], 1939 and 1914.
 0 @ljUxuuY3QhivtsTpBOoP@ SOUR
 1 REFN 26cb8f82-ad49-4c2a-bfae-8c17e3693e32
 1 TITL Applicant's Working Sheet, National Society, Daughters of th
@@ -21571,6 +23788,12 @@
 1 TITL Baldwin Genealogy From 1500 To 1881, The
 1 AUTH Baldwin, C. C.
 1 PUBL Cleveland, Leader Printing Co., 1881
+0 @S198@ SOUR
+1 REPO @kBzDdT7sR6qYOEZMnKPD@
+1 TITL Beta: Newspapers.com Obituary Index, 1940-1955
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations Inc; Location: Lehi, UT, USA; Date
+2 CONC : 2019
 0 @eqcIl7suRgyuxtrs6NHC@ SOUR
 1 REFN f98eef0e-3f11-49b8-a52e-deda6b4adc0f
 1 TITL Block Island Historical Society Occasional Papers, No. 2
@@ -21580,6 +23803,20 @@
 1 REFN 08855628-7ae4-4830-8fbd-f57750204aed
 1 TITL Census Index
 1 PUBL Steuben Co. Clerks Office, Bath, NY
+0 @S201@ SOUR
+1 TITL Certificate of birth, Harrison, Alice Irene
+1 AUTH Division of Vital Statistics, Department of Health, New York
+2 CONC , USA
+1 PUBL 9 Oct 1905, Hornby, Steuben, New York, USA
+0 @S202@ SOUR
+1 REFN 0466c68f-3287-410c-a000-d8f75a2b73e5
+1 TITL Certificate of death, Mosher, Alice H
+1 AUTH Bureau of Vital Statistics, Board of Health, Delaware, USA
+1 PUBL 13 Apr 1971, Delaware, USA
+0 @S207@ SOUR
+1 REFN 71c5479e-e95d-4a69-ac4a-3076429afc82
+1 TITL Commencement invitation, Corning Northside High School
+1 PUBL Corning, NY, 1924
 0 @cgCYLQzMSia7ztJRqHDj@ SOUR
 1 REFN d8440def-4d8d-4107-a438-c1c577f53b13
 1 REPO @kBzDdT7sR6qYOEZMnKPD@
@@ -21940,6 +24177,15 @@
 1 TITL International Genealogical Index (IGI)
 1 AUTH LDS
 1 PUBL http://www.familysearch.org/
+0 @S197@ SOUR
+1 REFN 50f4135e-62df-49fd-b1ad-5e91aa1c3e95
+1 TITL Interview with Barry Mosher, 2000
+1 AUTH Mosher, Barry Rexford
+1 PUBL 9 Jan 2000, Shelton, CT
+0 @S209@ SOUR
+1 REFN 5ba9bcbd-83b5-4f21-8cfe-5e6e0c97c456
+1 TITL Interview with Barry Mosher, date unknown
+1 AUTH Mosher, Barry Rexford
 0 @1SIe6ODlREuvmbzQ0vzX@ SOUR
 1 REFN 168079c5-b6b2-4bf8-ace0-ff1ebd84f0ff
 1 TITL Interview with James Leo Harrison
@@ -22387,6 +24633,10 @@
 2 CONT 1757--Aug. will Othniel Sands (Son of James Sands of Sands P
 2 CONC oint) includes among others Sons, Caleb, James, Othniel an
 2 CONC d Samuel.
+0 @S205@ SOUR
+1 REFN daa181b6-1934-45a3-bcf5-0f22cc1258c7
+1 TITL Limited Normal Certificate, Harrison, Alice
+1 PUBL In possession of Chris Mosher, 1929
 0 @RGkj9PznTbmtihprg0r1@ SOUR
 1 REFN d8e56f5b-aad1-48f0-9d70-40b1cb02b958
 1 TITL Long Island Genealogies
@@ -22397,6 +24647,23 @@
 1 TITL Maloney Family Tree
 1 AUTH Maloney
 1 PUBL jmaloney1948, ancestry.com
+0 @S218@ SOUR
+1 REFN 4fb80df8-0243-4662-95d8-cfe1af09fabf
+1 TITL Marriage certificate, Mosher, Frederick, and Harrison, Alice
+1 AUTH Burhans, Samuel F. (Minister)
+1 PUBL Hamilton, NY, 1934
+1 TEXT In the Name of the Father, and of the Son, and of the Holy G
+2 CONC host, Amen. This is to Certify, that on the third day of Jul
+2 CONC y in the Year of Our Lord, One Thousand, Nine Hundred and Th
+2 CONC irty-four at Hamilton in the State of New York I joined toge
+2 CONC ther in Holy Matrimony Frederick C. Mosher and Alice I. Harr
+2 CONC ison according to the Form of Solemnization of Matrimony a
+2 CONC s contained in the Book of Common Prayer, and in Conformit
+2 CONC y with the Laws of the State of New York in the United State
+2 CONC s of America, In Witness Whereof, I have hereunto affixed m
+2 CONC y name this third day of July One Thousand, Nine Hundred an
+2 CONC d thirty-four [signed] Samuel F. Burhans Minister. Witnesses
+2 CONC : [signed] John Harrison [signed] Dorothy V. Harrison
 0 @oZEq5RcjSqSFBjCnTjBj@ SOUR
 1 REFN 85ba0a5a-5c62-48cf-a58d-7df887e3ca6e
 1 TITL Marshall Genealogy Page
@@ -22431,6 +24698,12 @@
 2 CONC m Marriage Licenses were issued by the Secretary of the Prov
 2 CONC ince of New York, Previous to 1784. Albany, NY, USA: State o
 2 CONC f New York, 1860.
+0 @S192@ SOUR
+1 REPO @kBzDdT7sR6qYOEZMnKPD@
+1 TITL New York State, Birth Index, 1881-1942
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.; Location: Lehi, UT, USA; Date
+2 CONC : 2018
 0 @S175@ SOUR
 1 REPO @kBzDdT7sR6qYOEZMnKPD@
 1 TITL New York State, Marriage Index, 1881-1967
@@ -22449,6 +24722,13 @@
 2 CONT 1730 sep Will of JAMES SANDS, Oyster Bay, son Othniel, lan
 2 CONC d "lately bought of Isaac FOREMAN" (3:136) (orig Liber 12:12
 2 CONC 9)
+0 @S195@ SOUR
+1 REFN e57544e0-3dcd-429a-9322-24f156f4fedb
+1 REPO @kBzDdT7sR6qYOEZMnKPD@
+1 TITL New York, County Marriages, 1847-1849; 1907-1936
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.; Location: Lehi, UT, USA; Date
+2 CONC : 2016
 0 @KZ6n7HI9SIWa4oMSz70e@ SOUR
 1 REFN fbd9ebcc-c238-41f3-b2c5-b69bbe2bde6b
 1 REPO @kBzDdT7sR6qYOEZMnKPD@
@@ -22629,6 +24909,42 @@
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2014
+0 @S212@ SOUR
+1 TITL photograph, Mosher, Lewis William, and Colvin, Pearl Mae, an
+2 CONC d Descendants, c. 1943
+1 PUBL In possession of Chris Mosher
+1 TEXT <br>
+2 CONT <a href="https://www.flickr.com/photos/mosher/6304968404" ti
+2 CONC tle="Mosher Family"><img src="https://live.staticflickr.com/
+2 CONC 6054/6304968404_0eae4124d3_t.jpg" width="100" height="70" al
+2 CONC t="Mosher Family"></a><br>
+0 @S213@ SOUR
+1 TITL photographs, Mosher, Lewis William, and Colvin, Pearl Mae, a
+2 CONC nd Children and their Spouses, c. 1938
+1 PUBL In possession of Chris Mosher
+1 TEXT <br>
+2 CONT <a href="https://www.flickr.com/photos/mosher/6310845518" ti
+2 CONC tle="William George Mosher and Frederick Colvin Mosher"><im
+2 CONC g src="https://live.staticflickr.com/6233/6310845518_8749cf9
+2 CONC 677_t.jpg" width="56" height="100" alt="William George Moshe
+2 CONC r and Frederick Colvin Mosher"></a>
+2 CONT <a href="https://www.flickr.com/photos/mosher/6310795088" ti
+2 CONC tle="William George Mosher and Frederick Colvin Mosher"><im
+2 CONC g src="https://live.staticflickr.com/6217/6310795088_d532221
+2 CONC 548_t.jpg" width="56" height="100" alt="William George Moshe
+2 CONC r and Frederick Colvin Mosher"></a>
+2 CONT <a href="https://www.flickr.com/photos/mosher/6310230003" ti
+2 CONC tle="Mosher Men"><img src="https://live.staticflickr.com/603
+2 CONC 3/6310230003_8061078653_t.jpg" width="56" height="100" alt="
+2 CONC Mosher Men"></a>
+2 CONT <a href="https://www.flickr.com/photos/mosher/6307230493" ti
+2 CONC tle="Mosher Women"><img src="https://live.staticflickr.com/6
+2 CONC 036/6307230493_c745d57839_t.jpg" width="56" height="100" alt
+2 CONC ="Mosher Women"></a>
+2 CONT <a href="https://www.flickr.com/photos/mosher/6307175085" ti
+2 CONC tle="Mosher Women"><img src="https://live.staticflickr.com/6
+2 CONC 037/6307175085_6807df926c_t.jpg" width="100" height="57" alt
+2 CONC ="Mosher Women"></a><br>
 0 @eOdjERMPS62lm4aehOJ2@ SOUR
 1 REFN 4dc371da-c599-40d4-a1fb-e4525c02593e
 1 TITL Portrait of Harrison, Henry Francis
@@ -22751,6 +25067,10 @@
 2 CONT <br />
 2 CONT The foregoing and the list of signers are from "Early Record
 2 CONC s of Town of Portsmouth R.I." <br />
+0 @S203@ SOUR
+1 REFN 3917db4f-4be4-455d-ad2f-f739d74e9881
+1 TITL Regents Academic Diploma, Harrison, Alice
+1 PUBL In possession of Chris Mosher
 0 @S173@ SOUR
 1 TITL Rhode Island Land Evidences
 1 AUTH Rhode Island Historical Society.
@@ -22878,11 +25198,19 @@
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2010
+0 @S199@ SOUR
+1 REFN cceb6bd8-f346-4605-8690-7e07f0d84636
+1 TITL Social Security Death Index
+1 AUTH US Social Security Administration
 0 @fZRlq3j5QIqF7JEJhuU6@ SOUR
 1 REFN 4ee86ac3-a802-4f6a-bc9f-7f3619e29496
 1 TITL Stamford Registration of Births, Marriages, and Deaths
 1 AUTH Huntington, E. B.
 1 PUBL William W. Gillespie and Company, Stamford, 1874
+0 @S206@ SOUR
+1 REFN 5229bed0-f59f-43ba-92f4-5b881313544e
+1 TITL State Normal School Diploma, Harrison, Alice
+1 PUBL In possession of Chris Mosher
 0 @fqm9Idi7QCuuDSzOtc2F@ SOUR
 1 REPO @kBzDdT7sR6qYOEZMnKPD@
 1 TITL Steuben County, New York Directory, 1891
@@ -22894,6 +25222,10 @@
 1 TITL Thomas Cornell (or Cornwell) (1594-1655/6)
 1 AUTH Prentiss, Glazier
 1 PUBL Glazier, P., Sarasota FL, 1975
+0 @S204@ SOUR
+1 REFN d156b692-3226-4661-9881-66d063230d58
+1 TITL Training Class Certificate, Harrison, Alice
+1 PUBL In possession of Chris Mosher
 0 @zSn8vzvIRvuMJTc1qAmB@ SOUR
 1 REFN a238e13f-1dd4-4e7c-9283-faa5a801f848
 1 REPO @kBzDdT7sR6qYOEZMnKPD@
@@ -22910,17 +25242,42 @@
 1 PUBL Ancestry.com Operations Inc; Location: Provo, UT, USA; Date
 2 CONC : 2004
 0 @D5SLrrBySbi6oa3ygAnv@ SOUR
-1 REFN aad377b7-2a52-48ab-9277-c97a9df42dbf
 1 REPO @kBzDdT7sR6qYOEZMnKPD@
 1 TITL U.S. City Directories, 1822-1995
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2011
-1 TEXT Original sources vary according to directory. The title of t
-2 CONC he specific directory being viewed is listed at the top of t
-2 CONC he image viewer page.
-2 CONT Check the directory title page image for full title and publ
-2 CONC ication information.
+0 @S193@ SOUR
+1 REPO @kBzDdT7sR6qYOEZMnKPD@
+1 TITL U.S. Phone and Address Directories, 1993-2002
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations Inc; Location: Provo, UT, USA; Date
+2 CONC : 2005
+0 @S187@ SOUR
+1 REPO @kBzDdT7sR6qYOEZMnKPD@
+1 TITL U.S. Public Records Index, 1950-1993, Volume 1
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
+2 CONC e: 2010
+0 @S191@ SOUR
+1 REPO @kBzDdT7sR6qYOEZMnKPD@
+1 TITL U.S. Public Records Index, 1950-1993, Volume 2
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
+2 CONC e: 2010
+0 @S215@ SOUR
+1 REFN 6d2180c3-bb1c-47c0-b6dd-0b65ac326713
+1 REPO @kBzDdT7sR6qYOEZMnKPD@
+1 TITL U.S., Cemetery and Funeral Home Collection, 1847 - 2015
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations Inc; Location: Provo, UT, USA; Date
+2 CONC : 2011
+0 @S216@ SOUR
+1 REPO @kBzDdT7sR6qYOEZMnKPD@
+1 TITL U.S., Cemetery and Funeral Home Collection, 1847-Current
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations Inc; Location: Lehi, UT, USA; Date
+2 CONC : 2011
 0 @iwYqsrGSQJmp6pLdxj52@ SOUR
 1 REFN debcf69e-2b06-46bc-ac02-8084473dc802
 1 REPO @kBzDdT7sR6qYOEZMnKPD@
@@ -22935,6 +25292,19 @@
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2012
+0 @S186@ SOUR
+1 REPO @kBzDdT7sR6qYOEZMnKPD@
+1 TITL U.S., Obituary Collection, 1930-Current
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations Inc; Location: Lehi, UT, USA; Date
+2 CONC : 2006
+0 @S200@ SOUR
+1 REFN 25f57be2-afc3-453d-a10d-1cb5829eea31
+1 REPO @kBzDdT7sR6qYOEZMnKPD@
+1 TITL U.S., School Yearbooks, 1880-2012
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
+2 CONC e: 2010
 0 @nuNi9KjuQRC7bV7GdbqW@ SOUR
 1 REFN 25b57835-25b5-4d65-8ce4-63260608ffbe
 1 REPO @kBzDdT7sR6qYOEZMnKPD@
@@ -22943,6 +25313,12 @@
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2015
+0 @S188@ SOUR
+1 REPO @kBzDdT7sR6qYOEZMnKPD@
+1 TITL U.S., Social Security Death Index, 1935-2014
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations Inc; Location: Provo, UT, USA; Date
+2 CONC : 2014
 0 @D5Hfu5V4QiadE6qpxHG2@ SOUR
 1 REFN 6204610e-5fb9-470d-9ab7-2c798642bfa3
 1 REPO @kBzDdT7sR6qYOEZMnKPD@
@@ -23807,6 +26183,48 @@
 2 CONT [this is the next to the last entry in Hornby]<br />
 2 CONT Col. 27&mdash;Wage or salary worker: W<br />
 2 CONT Employer: E
+0 @S211@ SOUR
+1 REFN 4a1ab04b-6e9f-42d5-9aa2-f8a26c34eecf
+1 TITL US Income Tax Return [copy], Mosher, Fred, 1945
+1 AUTH Mosher, Frederick Colvin
+1 PUBL In possession of Chris Mosher
+1 TEXT Frederick Colvin + Alice H. Mosher<br />
+2 CONT Spring Street<br />
+2 CONT Hamilton, Madison, New York<br />
+2 CONT Frederick C. Mosher<br />
+2 CONT Alice H. Mosher, wife<br />
+2 CONT Barry Mosher, son<br />
+2 CONT Anna Harrison, mother-inlaw<br />
+2 CONT <br />
+2 CONT Employer<br />
+2 CONT Hamilton Central School, Hamilton, NY<br />
+2 CONT Self (jobbing)<br />
+2 CONT <br />
+2 CONT business Carpenter<br />
+0 @S210@ SOUR
+1 REFN 92cc0b48-54d8-418b-95bb-dbe5d865d586
+1 TITL US Income Tax Return [copy], Mosher, Fred, 1946
+1 AUTH Mosher, Frederick Colvin
+1 PUBL In possession of Chris Mosher
+1 TEXT Fred Mosher + Alice H. Mosher<br />
+2 CONT Spring St.<br />
+2 CONT Hamilton, Mad, NY<br />
+2 CONT Fred Mosher<br />
+2 CONT Alice ", wife<br />
+2 CONT Barry ", son<br />
+2 CONT [no Anna Harrison]<br />
+2 CONT <br />
+2 CONT Employer<br />
+2 CONT Earlville Central School<br />
+2 CONT <br />
+2 CONT business Carpenter<br />
+2 CONT <br />
+2 CONT Medical expenses [possibly for Anna Harrison?]<br />
+2 CONT X-Ray - Dr. Pallan<br />
+2 CONT Dr. Frantz<br />
+2 CONT Presbyterian Hosp.<br />
+2 CONT Dr. Neville<br />
+2 CONT Train fare + phone calls<br />
 0 @gMBttfq9RD29u8zOjIp9@ SOUR
 1 REFN 56fb1384-557e-4ce4-8690-038bfbaf4fb4
 1 TITL USA. New York. Steuben, County of. Land Deeds
@@ -24418,7 +26836,7 @@
 3 CONC ll: 327; Family History Film: 1254327; Page: 545A; Enumerati
 3 CONC on District: 058; Image: 0712
 1 REFN 45661124-d3c1-4c91-9688-dc5a8f1b907b
-0 @V0TKnZr1RZKQLCUAM5C6@ OBJE
+0 @M34@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Harrison Media\
 2 CONC 1900 United States Federal Census(1).jpg
 2 FORM jpg
@@ -24427,6 +26845,7 @@
 3 CONC 163; Page: 3B; Enumeration District: 0087; FHL microfilm: 12
 3 CONC 41163
 1 REFN 0c20b2f8-9ece-4307-8402-880ad78a4079
+1 REFN 9662d0e4-6b95-4a9b-b329-f4f81548c7a9
 0 @HzOLYD4yQLqpkslMCA9t@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Harrison Media\
 2 CONC 1900 United States Federal Census(12).jpg
@@ -24463,7 +26882,7 @@
 3 CONC 163; Page: 2B; Enumeration District: 0087; FHL microfilm: 12
 3 CONC 41163
 1 REFN c14cd626-8900-48bf-8f54-e6ec4b906082
-0 @Z0SPQ4dORhWscykttPqO@ OBJE
+0 @M39@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Harrison Media\
 2 CONC 1910 United States Federal Census.jpg
 2 FORM jpg
@@ -24472,6 +26891,7 @@
 3 CONC 624_1080; Page: 9B; Enumeration District: 0132; FHL microfil
 3 CONC m: 1375093
 1 REFN 0417a2ad-893d-499c-bcf0-cfcb09ec8df6
+1 REFN c38bb38a-152b-418f-8197-4db3a006984b
 0 @7chXl4tySyOSpVWTKX5o@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Harrison Media\
 2 CONC 1910 United States Federal Census(12).jpg
@@ -24499,13 +26919,14 @@
 3 CONC s; Roll: T624_1586; Page: 2B; Enumeration District: 0138; FH
 3 CONC L microfilm: 1375599
 1 REFN 05aa969d-61ba-44c4-8366-69239d4a0277
-0 @Y5dEL093SkasAwpqWK3m@ OBJE
+0 @M43@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Harrison Media\
 2 CONC 1920 United States Federal Census.jpg
 2 FORM jpg
 2 TITL 1920 United States Federal Census
 2 _TEXT Year: 1920; Census Place: Hornby, Steuben, New York
 1 REFN 75749f84-6e8e-44fc-98e8-92d00c459ddc
+1 REFN f9a4abb0-3c26-422e-a43e-5d0deb8eb9f0
 0 @9vLtN9ZkSi60vJO6u5Cp@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Harrison Media\
 2 CONC 1920 United States Federal Census(25).jpg
@@ -24513,7 +26934,7 @@
 2 TITL 1920 United States Federal Census
 2 _TEXT Year: 1920; Census Place: Perry, Buchanan, Iowa
 1 REFN 199f81ac-0f38-458c-a2f0-a7de1ed7d811
-0 @QAAFPKD9SKKlhE6HWHP0@ OBJE
+0 @M45@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Harrison Media\
 2 CONC 1930 United States Federal Census.jpg
 2 FORM jpg
@@ -24522,6 +26943,7 @@
 3 CONC 648; Page: 7B; Enumeration District: 44; Image: 1002.0; FH
 3 CONC L microfilm: 2341382
 1 REFN 1711f430-cce9-43cc-ade5-bf37e4276505
+1 REFN 934f33eb-dc1d-48a9-82cd-aa4dc1dbc861
 0 @1w1CdOQcQiWapd1VjPfc@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Harrison Media\
 2 CONC 1930 United States Federal Census(6).jpg
@@ -24690,13 +27112,14 @@
 2 FORM jpg
 2 TITL New York, State Census, 1892
 1 REFN b1c6ea75-46b3-4ed8-98d1-4dc0c27bc71d
-0 @zYCyNr7iQvCXIXzFT3Ts@ OBJE
+0 @M71@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Harrison Media\
 2 CONC New York, State Census, 1905(1).jpg
 2 FORM jpg
 2 TITL New York, State Census, 1905
 1 REFN 65e25ce9-3dfe-4533-af2d-6a2ca90509c4
-0 @X6LOwGnuTZKHmAjqe3IB@ OBJE
+1 REFN dc94e44e-c2b1-46f1-b75a-5324cf7c84e7
+0 @M72@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Harrison Media\
 2 CONC New York, State Census, 1915.jpg
 2 FORM jpg
@@ -24705,7 +27128,8 @@
 3 CONC n Census Schedules, 1915; Election District: 01; Assembly Di
 3 CONC strict: 01; City: Hornby; County: Steuben; Page: 14
 1 REFN 37362e02-f51a-45a0-8006-eac9b654db70
-0 @W5Kr0UAkTCO0sn4PpcOV@ OBJE
+1 REFN 0f636d6e-8655-41a3-806c-a41b6f3096ac
+0 @M73@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Harrison Media\
 2 CONC New York, State Census, 1925.jpg
 2 FORM jpg
@@ -24714,6 +27138,7 @@
 3 CONC n Census Schedules, 1925; Election District: 01; Assembly Di
 3 CONC strict: 01; City: Hornby; County: Steuben; Page: 13
 1 REFN 1f5e30dc-9546-4f5d-85bc-84eb02edde82
+1 REFN e6cee298-4847-4347-b790-7c914a11df86
 0 @UXvf6n47QfCcTZCEgVCf@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Harrison Media\
 2 CONC New York, Tax Assessment Rolls of Real and Personal Estates
@@ -24942,4 +27367,315 @@
 2 FORM jpg
 2 TITL cornell_rebecca_p18
 2 _DATE 10/6/2019 10:25:11 PM
+0 @M106@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Harrison Media\
+2 CONC U.S. City Directories, 1822-1995.jpg
+2 FORM jpg
+2 TITL U.S. City Directories, 1822-1995
+0 @M107@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Harrison Media\
+2 CONC New York State, Marriage Index, 1881-1967(2).jpg
+2 FORM jpg
+2 TITL New York State, Marriage Index, 1881-1967
+2 _TEXT New York State Department of Health; Albany, NY, USA; New Yo
+3 CONC rk State Marriage Index
+0 @M108@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Harrison Media\
+2 CONC 1940 United States Federal Census(6).jpg
+2 FORM jpg
+2 TITL 1940 United States Federal Census
+2 _TEXT Year: 1940; Census Place: Rochester, Monroe, New York; Roll
+3 CONC : m-t0627-02847; Page: 3A; Enumeration District: 65-191
+0 @M109@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Harrison Media\
+2 CONC 1940 United States Federal Census(13).jpg
+2 FORM jpg
+2 TITL 1940 United States Federal Census
+2 _TEXT Year: 1940; Census Place: Corning, Steuben, New York; Roll
+3 CONC : T627_2781; Page: 12A; Enumeration District: 51-29
+1 REFN b215f93c-b82e-40ce-9fe7-19b26fd10b5b
+0 @M110@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Harrison Media\
+2 CONC New York State, Birth Index, 1881-1942.jpg
+2 FORM jpg
+2 TITL New York State, Birth Index, 1881-1942
+2 _TEXT New York State Department of Health; Albany, NY, USA; New Yo
+3 CONC rk State Birth Index
+0 @M111@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Harrison Media\
+2 CONC U.S. City Directories, 1822-1995(3).jpg
+2 FORM jpg
+2 TITL U.S. City Directories, 1822-1995
+0 @M112@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Harrison Media\
+2 CONC New York State, Marriage Index, 1881-1967(1)(1).jpg
+2 FORM jpg
+2 TITL New York State, Marriage Index, 1881-1967
+2 _TEXT New York State Department of Health; Albany, NY, USA; New Yo
+3 CONC rk State Marriage Index
+0 @M113@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Harrison Media\
+2 CONC 0020_Harrison_Gale.jpg
+2 FORM jpg
+2 TITL 0020_Harrison_Gale
+2 _DATE 9/27/2013 6:05:19 PM
+1 REFN 1d6f998c-5e43-4517-a2b5-550c7ce0a123
+0 @M114@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Harrison Media\
+2 CONC U.S. City Directories, 1822-1995(9).jpg
+2 FORM jpg
+2 TITL U.S. City Directories, 1822-1995
+1 REFN 3cf49781-4512-4876-b3dc-7d9ebba24ecc
+0 @M115@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Harrison Media\
+2 CONC New York, County Marriages, 1847-1849 1907-1936(1).jpg
+2 FORM jpg
+2 TITL New York, County Marriages, 1847-1849; 1907-1936
+1 REFN c1277f58-dfb7-4b47-a19c-1841918bccb7
+0 @M116@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Harrison Media\
+2 CONC New York State, Marriage Index, 1881-1967(2)(1).jpg
+2 FORM jpg
+2 TITL New York State, Marriage Index, 1881-1967
+2 _TEXT New York State Department of Health; Albany, NY, USA; New Yo
+3 CONC rk State Marriage Index
+0 @M117@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Harrison Media\
+2 CONC 0020_Green_Thelma_L.jpg
+2 FORM jpg
+2 TITL 0020_Green_Thelma_L
+2 _DATE 9/27/2013 6:05:00 PM
+1 REFN 0b23d51e-2323-43b3-ba17-3f9b046234de
+0 @M118@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Harrison Media\
+2 CONC 0020_Harrison_Gerald_Vincent.jpg
+2 FORM jpg
+2 TITL 0020_Harrison_Gerald_Vincent
+2 _DATE 9/27/2013 6:04:35 PM
+1 REFN c66c94c6-215f-4450-b7cc-5ba928afb50a
+0 @M119@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Harrison Media\
+2 CONC New York State, Marriage Index, 1881-1967(3).jpg
+2 FORM jpg
+2 TITL New York State, Marriage Index, 1881-1967
+2 _TEXT New York State Department of Health; Albany, NY, USA; New Yo
+3 CONC rk State Marriage Index
+0 @M120@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Harrison Media\
+2 CONC 1930 United States Federal Census(5).jpg
+2 FORM jpg
+2 TITL 1930 United States Federal Census
+2 _TEXT Year: 1930; Census Place: Corning, Steuben, New York; Page
+3 CONC : 20A; Enumeration District: 0033; FHL microfilm: 2341382
+0 @M121@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Harrison Media\
+2 CONC 1940 United States Federal Census(8).jpg
+2 FORM jpg
+2 TITL 1940 United States Federal Census
+2 _TEXT Year: 1940; Census Place: Painted Post, Steuben, New York; R
+3 CONC oll: T627_2781; Page: 61A; Enumeration District: 51-48
+1 REFN 3039c277-22f9-486b-8307-1e6b8f5efc99
+0 @M122@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Harrison Media\
+2 CONC 1920 United States Federal Census(29).jpg
+2 FORM jpg
+2 TITL 1920 United States Federal Census
+2 _TEXT Year: 1920; Census Place: Corning, Steuben, New York
+1 REFN 15820061-a0a9-445a-96ec-28cc93ca5fd8
+0 @M123@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Harrison Media\
+2 CONC 1930 United States Federal Census(17).jpg
+2 FORM jpg
+2 TITL 1930 United States Federal Census
+2 _TEXT Year: 1930; Census Place: Bristol, Ontario, New York; Roll
+3 CONC : 1631; Page: 3A; Enumeration District: 1; Image: 7.0; FHL m
+3 CONC icrofilm: 2341365
+1 REFN ed92dd9c-94bc-4b85-94fe-4d1714b034c6
+0 @M124@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Harrison Media\
+2 CONC New York, State Census, 1925(14).jpg
+2 FORM jpg
+2 TITL New York, State Census, 1925
+2 _TEXT New York State Archives; Albany, New York; State Populatio
+3 CONC n Census Schedules, 1925; Election District: 03; Assembly Di
+3 CONC strict: 01; City: Corning; County: Steuben; Page: 6
+1 REFN 1361d453-1903-45b3-96e7-c04321907f45
+0 @M125@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Harrison Media\
+2 CONC 0020_Lowery_Madeline_Doris.jpg
+2 FORM jpg
+2 TITL 0020_Lowery_Madeline_Doris
+2 _DATE 9/27/2013 6:03:52 PM
+1 REFN 445a18d9-98cb-4245-ae1e-b3f206368776
+0 @M126@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Harrison Media\
+2 CONC Madeline Doris Lowery Harrison.jpg
+2 FORM jpg
+2 TITL Madeline Doris Lowery Harrison
+1 REFN 72ab3e03-9452-4d2d-bfbf-9366a9a8f60a
+0 @M127@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Harrison Media\
+2 CONC 0020_Harrison_James_Leo.jpg
+2 FORM jpg
+2 TITL 0020_Harrison_James_Leo
+2 _DATE 9/27/2013 6:03:32 PM
+1 REFN 2445a3d0-716e-4290-96f5-05b3e44530ff
+0 @M128@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Harrison Media\
+2 CONC Harrison James Leo & Madeline doris.jpg
+2 FORM jpg
+2 TITL Harrison James Leo & Madeline doris
+2 _DATE 26 Mar 2012
+1 REFN 10dd162b-bbd1-49f2-ac2a-b33639773219
+0 @M129@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Harrison Media\
+2 CONC 0104_Harrison_Alice_Irene.jpg
+2 FORM jpg
+2 TITL 0104_Harrison_Alice_Irene
+2 _DATE 9/27/2013 8:29:55 PM
+1 REFN 8ef7422f-cfb3-4a96-84c9-c7eb49c37938
+0 @M130@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Harrison Media\
+2 CONC 1940 United States Federal Census(2).jpg
+2 FORM jpg
+2 TITL 1940 United States Federal Census
+2 _TEXT Year: 1940; Census Place: Hamilton, Madison, New York; Roll
+3 CONC : T627_2624; Page: 1A; Enumeration District: 27-19
+1 REFN ca9d9068-62da-4eb6-a559-fe64c27da124
+0 @M131@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Harrison Media\
+2 CONC U.S., School Yearbooks, 1880-2012(7).jpg
+2 FORM jpg
+2 TITL U.S., School Yearbooks, 1880-2012
+1 REFN 4dec9801-c1a4-4a22-8836-e706f13682d6
+0 @M132@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Harrison Media\
+2 CONC U.S., School Yearbooks, 1880-2012(8).jpg
+2 FORM jpg
+2 TITL U.S., School Yearbooks, 1880-2012
+1 REFN 135e0219-900f-445c-9c79-02b6e9be7c74
+0 @M133@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Harrison Media\
+2 CONC U.S., School Yearbooks, 1880-2012(9).jpg
+2 FORM jpg
+2 TITL U.S., School Yearbooks, 1880-2012
+1 REFN 146fe5d4-c933-489d-ae3c-9d821f1335e3
+0 @M134@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Harrison Media\
+2 CONC New York, County Marriages, 1847-1849 1907-1936(7).jpg
+2 FORM jpg
+2 TITL New York, County Marriages, 1847-1849; 1907-1936
+1 REFN c3b1a3af-9e6a-4b0f-86e8-2fe9568749b7
+0 @M135@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Harrison Media\
+2 CONC New York State, Birth Index, 1881-1942(1).jpg
+2 FORM jpg
+2 TITL New York State, Birth Index, 1881-1942
+2 _TEXT New York State Department of Health; Albany, NY, USA; New Yo
+3 CONC rk State Birth Index
+0 @M136@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Harrison Media\
+2 CONC New York State, Marriage Index, 1881-1967(4).jpg
+2 FORM jpg
+2 TITL New York State, Marriage Index, 1881-1967
+2 _TEXT New York State Department of Health; Albany, NY, USA; New Yo
+3 CONC rk State Marriage Index
+0 @M137@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Harrison Media\
+2 CONC harrison_alice_birth.jpg
+2 FORM jpg
+2 TITL harrison_alice_birth
+2 _DATE 10/7/2019 1:52:45 AM
+0 @M138@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Harrison Media\
+2 CONC 1910 United States Federal Census(41).jpg
+2 FORM jpg
+2 TITL 1910 United States Federal Census
+2 _TEXT Year: 1910; Census Place: Hornby, Steuben, New York; Roll: T
+3 CONC 624_1080; Page: 3B; Enumeration District: 0132; FHL microfil
+3 CONC m: 1375093
+1 REFN e4d35c5e-847c-44b2-b6ed-f2d7f133e74d
+0 @M139@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Harrison Media\
+2 CONC New York, State Census, 1915(19).jpg
+2 FORM jpg
+2 TITL New York, State Census, 1915
+2 _TEXT New York State Archives; Albany, New York; State Populatio
+3 CONC n Census Schedules, 1915; Election District: 01; Assembly Di
+3 CONC strict: 01; City: Hornby; County: Steuben; Page: 01
+1 REFN 02a9a52a-c335-4bf7-ba34-2a81ff7c3d9f
+0 @M140@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Harrison Media\
+2 CONC 1930 United States Federal Census(25).jpg
+2 FORM jpg
+2 TITL 1930 United States Federal Census
+2 _TEXT Year: 1930; Census Place: Hornby, Steuben, New York; Roll: 1
+3 CONC 648; Page: 3B; Enumeration District: 44; Image: 994.0; FHL m
+3 CONC icrofilm: 2341382
+1 REFN 85c4bc7d-efb6-4744-83ce-9fbf7819bfb9
+0 @M141@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Harrison Media\
+2 CONC New York, State Census, 1925(18).jpg
+2 FORM jpg
+2 TITL New York, State Census, 1925
+2 _TEXT New York State Archives; Albany, New York; State Populatio
+3 CONC n Census Schedules, 1925; Election District: 01; Assembly Di
+3 CONC strict: 01; City: Hornby; County: Steuben; Page: 6
+1 REFN c553eff6-b045-4195-ab5d-94ed53b2af76
+0 @M142@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Harrison Media\
+2 CONC New York, County Marriages, 1847-1849 1907-1936(2).jpg
+2 FORM jpg
+2 TITL New York, County Marriages, 1847-1849; 1907-1936
+1 REFN 93396d6d-e241-46c2-9f61-2c68af99ebec
+0 @M143@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Harrison Media\
+2 CONC New York, State Census, 1905(21).jpg
+2 FORM jpg
+2 TITL New York, State Census, 1905
+2 _TEXT New York State Archives; Albany, New York; State Populatio
+3 CONC n Census Schedules, 1905; Election District: A.D. 01 E.D. 01
+3 CONC ; City: Campbell; County: Steuben; Page: 7
+1 REFN 56c8c73a-3bc0-4da3-99f2-4ec55f2c4586
+0 @M144@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Harrison Media\
+2 CONC New York State, Marriage Index, 1881-1967(6).jpg
+2 FORM jpg
+2 TITL New York State, Marriage Index, 1881-1967
+2 _TEXT New York State Department of Health; Albany, NY, USA; New Yo
+3 CONC rk State Marriage Index
+0 @M145@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Harrison Media\
+2 CONC 0115_VanNortwick_Dorothy_May.jpg
+2 FORM jpg
+2 TITL 0115_VanNortwick_Dorothy_May
+2 _DATE 9/27/2013 8:41:28 PM
+1 REFN 6147e1e4-83a0-4816-9022-7617cc30c5de
+0 @M146@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Harrison Media\
+2 CONC marriage record.htm
+2 FORM jpg
+2 TITL marriage record
+1 REFN c1c09ae5-faff-445f-9a6b-ed95b51d1219
+0 @M147@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Harrison Media\
+2 CONC 0020_Harrison_John_Francis.jpg
+2 FORM jpg
+2 TITL 0020_Harrison_John_Francis
+2 _DATE 9/27/2013 6:01:46 PM
+1 REFN 4357dd1a-aa67-49f3-a94d-0e9125124f75
+0 @M148@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Harrison Media\
+2 CONC New York State, Marriage Index, 1881-1967(7).jpg
+2 FORM jpg
+2 TITL New York State, Marriage Index, 1881-1967
+2 _TEXT New York State Department of Health; Albany, NY, USA; New Yo
+3 CONC rk State Marriage Index
+0 @M149@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Harrison Media\
+2 CONC New York State, Marriage Index, 1881-1967(5).jpg
+2 FORM jpg
+2 TITL New York State, Marriage Index, 1881-1967
+2 _TEXT New York State Department of Health; Albany, NY, USA; New Yo
+3 CONC rk State Marriage Index
 0 TRLR
