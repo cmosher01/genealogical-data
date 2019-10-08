@@ -3,23 +3,24 @@
 1 GEDC
 2 VERS 5.5.1
 2 FORM LINEAGE-LINKED
-1 COPR Copyright © 1998, Christopher Alan Mosher, Shelton, CT, USA.
+1 COPR Copyright © 1998–2019, Christopher Alan Mosher, Shelton, CT
+2 CONC , USA.
 1 SUBM @Umy2qBWIRUiwVSS6Hcn4@
 1 SOUR FTM
-2 VERS 23.1.0.1480
+2 VERS 23.2.0.1540
 2 NAME Family Tree Maker for Windows
 2 CORP The Software MacKiev Company
 3 ADDR 30 Union Wharf
 4 CONT Boston, MA 02109
 3 PHON (617) 227-6681
 1 DEST FTM
-1 FILE Taylorson_2018-09-21-04-53-43.ftm.ged
-1 DATE 21 SEP 2018
-2 TIME 04:55:25
+1 FILE Taylorson_2019-10-08-22-00-50.ftm.ged
+1 DATE 08 OCT 2019
+2 TIME 22:01:31
 0 @Umy2qBWIRUiwVSS6Hcn4@ SUBM
 1 NAME Christopher Alan Mosher
 2 EMAIL cmosher01@@gmail.com
-2 WWW http://mosher.mine.nu/
+2 WWW https://mosher.mine.nu/
 2 WWW https://github.com/cmosher01/
 2 WWW https://www.ancestry.com/connect/Profile/0065664a-0000-0000-
 3 CONC 0000-000000000000
@@ -8658,7 +8659,7 @@
 1 REFN 6930b603-185d-4264-8529-18eeec16698b
 0 @fkkFGltLRgGeUuNdFwkz@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Taylorson Media
-2 CONC \1841 England Census.jpg
+2 CONC \1841 England Census(9).jpg
 2 FORM jpg
 2 TITL 1841 England Census
 2 _TEXT Class: HO107; Piece: 317; Book: 23; Civil Parish: Stockton U
@@ -9113,8 +9114,8 @@
 3 CONC oll: 1712045
 1 REFN 175c93b1-7c90-4028-bf68-14ee02b9e488
 0 @M64@ OBJE
-1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Taylerson_Taylo
-2 CONC rson(1) Media\1841 England Census.jpg
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Taylorson Media
+2 CONC \1841 England Census.jpg
 2 FORM jpg
 2 TITL 1841 England Census
 2 _TEXT Class: HO107; Piece: 317; Book: 23; Civil Parish: Stockton U
@@ -9122,14 +9123,14 @@
 3 CONC ; Page: 5; Line: 5; GSU roll: 241357
 1 REFN 476b653a-c34e-4f6c-9833-89a1187fd2f8
 0 @M65@ OBJE
-1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Taylerson_Taylo
-2 CONC rson(1) Media\Wife's burial.jpg
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Taylorson Media
+2 CONC \Wife's burial.jpg
 2 FORM jpg
 2 TITL Wife's burial
 1 REFN e0cd3e7e-9368-4019-801c-beee0e120668
 0 @M66@ OBJE
-1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Taylerson_Taylo
-2 CONC rson(1) Media\1841 England Census(1).jpg
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Taylorson Media
+2 CONC \1841 England Census(1).jpg
 2 FORM jpg
 2 TITL 1841 England Census
 2 _TEXT Class: HO107; Piece: 317; Book: 27; Civil Parish: Stockton U
@@ -9137,30 +9138,28 @@
 3 CONC 3; Page: 30; Line: 5; GSU roll: 241357
 1 REFN 92098c58-b62f-45e5-8b53-753f64ba20ab
 0 @M67@ OBJE
-1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Taylerson_Taylo
-2 CONC rson(1) Media\1851 England Census.jpg
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Taylorson Media
+2 CONC \1851 England Census.jpg
 2 FORM jpg
 2 TITL 1851 England Census
 2 _TEXT Class: HO107; Piece: 2383; Folio: 722; Page: 1; GSU roll: 87
 3 CONC 061
 1 REFN 1443f8de-a594-422d-9fe4-f5da4b788c2a
 0 @M68@ OBJE
-1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Taylerson_Taylo
-2 CONC rson(1) Media\England & Wales, FreeBMD Death Index, 1837-191
-2 CONC 5(1).jpg
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Taylorson Media
+2 CONC \England & Wales, FreeBMD Death Index, 1837-1915(9).jpg
 2 FORM jpg
 2 TITL England & Wales, FreeBMD Death Index, 1837-1915
 1 REFN 84f2deb1-377a-468d-8c78-949a3d505752
 0 @M69@ OBJE
-1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Taylerson_Taylo
-2 CONC rson(1) Media\England & Wales, FreeBMD Death Index, 1837-191
-2 CONC 5.jpg
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Taylorson Media
+2 CONC \England & Wales, FreeBMD Death Index, 1837-1915(8).jpg
 2 FORM jpg
 2 TITL England & Wales, FreeBMD Death Index, 1837-1915
 1 REFN 22c4f112-c761-454e-a509-c897380aa937
 0 @M70@ OBJE
-1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Taylerson_Taylo
-2 CONC rson Media\1841 England Census(2).jpg
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Taylorson Media
+2 CONC \1841 England Census(2).jpg
 2 FORM jpg
 2 TITL 1841 England Census
 2 _TEXT Class: HO107; Piece: 315; Book: 17; Civil Parish: Hart; Coun
@@ -9176,8 +9175,8 @@
 3 CONC 7062
 1 REFN 7392b16a-5962-467a-af69-2016a6f4cc55
 0 @M72@ OBJE
-1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Taylerson_Taylo
-2 CONC rson(1) Media\1861 England Census.jpg
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Taylorson Media
+2 CONC \1861 England Census.jpg
 2 FORM jpg
 2 TITL 1861 England Census
 2 _TEXT Class: RG 9; Piece: 3704; Folio: 107; Page: 28; GSU roll: 54
@@ -9204,14 +9203,14 @@
 2 TITL England & Wales, FreeBMD Death Index, 1837-1915
 1 REFN 7ea8418e-8597-4d56-bd18-56721d1cf0a7
 0 @M76@ OBJE
-1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Taylerson_Taylo
-2 CONC rson(1) Media\Burial.jpg
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Taylorson Media
+2 CONC \Burial.jpg
 2 FORM jpg
 2 TITL Burial
 1 REFN 6202015d-f945-4928-b2da-fb1840298032
 0 @M77@ OBJE
-1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Taylerson_Taylo
-2 CONC rson(1) Media\Marriage.jpg
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Taylorson Media
+2 CONC \Marriage.jpg
 2 FORM jpg
 2 TITL Marriage
 1 REFN 0d63e16d-a196-44df-ac17-b798a0d929cf
