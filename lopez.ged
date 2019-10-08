@@ -14,9 +14,9 @@
 4 CONT Boston, MA 02109
 3 PHON (617) 227-6681
 1 DEST FTM
-1 FILE Lopez_2019-10-06-21-02-16.ftm.ged
-1 DATE 06 OCT 2019
-2 TIME 21:03:01
+1 FILE Lopez_2019-10-08-04-17-44.ftm.ged
+1 DATE 08 OCT 2019
+2 TIME 04:18:37
 0 @Umy2qBWIRUiwVSS6Hcn4@ SUBM
 1 NAME Christopher Alan Mosher
 2 EMAIL cmosher01@@gmail.com
@@ -98,7 +98,7 @@
 2 SOUR @S65@
 3 PAGE http://gw.geneanet.org/ecuadorgen?lang=en;pz=fausto+anibal;n
 4 CONC z=alvarado;ocz=0;p=jose;n=auz
-2 SOUR @S68@
+2 SOUR @S94@
 1 SEX M
 1 FAMC @F16@
 1 FAMS @F17@
@@ -107,7 +107,7 @@
 3 MAP
 4 LATI S0.2167
 4 LONG W78.5
-2 SOUR @S68@
+2 SOUR @S94@
 1 BIRT
 2 PLAC Ibarra, Imbabura, Ecuador
 3 MAP
@@ -145,7 +145,7 @@
 0 @I56@ INDI
 1 REFN 8a6f14c7-4cf8-4f1c-bff1-b6be9e820fd9
 1 NAME Mariano /Auz/
-2 SOUR @S68@
+2 SOUR @S94@
 1 SEX M
 1 FAMC @F17@
 1 FAMS @F20@
@@ -157,7 +157,7 @@
 3 MAP
 4 LATI S0.2167
 4 LONG W78.5
-2 SOUR @S68@
+2 SOUR @S94@
 1 TITL Comendador del Convento
 2 DATE FROM 1861 TO 1864
 2 PLAC Iglesia de la Merced [Church of Mercy], Calle Chile y Call
@@ -181,16 +181,16 @@
 3 MAP
 4 LATI S0.218
 4 LONG W78.5139
-2 SOUR @S68@
+2 SOUR @S94@
 1 RELI Catholic
-2 SOUR @S68@
+2 SOUR @S94@
 1 RESI
 2 PLAC Calle del Cebollar [Onion Patch Street], Quito, Pichincha, E
 3 CONC cuador
 3 MAP
 4 LATI S0.2166
 4 LONG W78.5163
-2 SOUR @S68@
+2 SOUR @S94@
 1 _XY 1625 1312
 0 @I48@ INDI
 1 REFN 36c71e16-e697-4941-9395-041a3936a159
@@ -490,6 +490,11 @@
 1 BIRT
 2 DATE ABT 1883
 1 _XY 3508 1999
+0 @I223@ INDI
+1 REFN a00eb256-8282-4b27-b95b-f1072926a2cd
+1 NAME /Briggs/
+1 SEX M
+1 FAMS @F161@
 0 @I72@ INDI
 1 REFN 3a3f5a27-659e-4d8b-8182-fe0303ddbc08
 1 NAME Alejandrina /Cabezas/
@@ -561,6 +566,13 @@
 1 BIRT
 2 PLAC San Juan de Pasto, Nariño, Colombia
 1 _XY 3593 706
+0 @I234@ INDI
+1 REFN f1ee1d17-d1ce-4203-b424-8884dfc442b3
+1 NAME Angela Christine /Clear/
+2 SOUR @S103@
+3 _APID 1,1100::8101425
+1 SEX F
+1 FAMS @F165@
 0 @K0gk4jcYQdijxbxDOqnW@ INDI
 1 REFN ee0b82b8-faa7-449f-bfaf-1f48c0f0bbc9
 1 NAME Joseph Judson /Cohn/
@@ -789,7 +801,7 @@
 3 PAGE New York State Archives; Albany, New York; State Populatio
 4 CONC n Census Schedules, 1915; Election District: 24; Assembly Di
 4 CONC strict: 18; City: New York; County: Kings; Page: 48
-3 OBJE @Ytym72GVSnyP9XaO24dZ@
+3 OBJE @M35@
 3 _APID 1,2703::4343092
 2 SOUR @Oy22YaudTC62HcdmoSkr@
 3 OBJE @QkiFbPTgShq503kYboXB@
@@ -850,7 +862,7 @@
 3 PAGE New York State Archives; Albany, New York; State Populatio
 4 CONC n Census Schedules, 1915; Election District: 24; Assembly Di
 4 CONC strict: 18; City: New York; County: Kings; Page: 48
-3 OBJE @Ytym72GVSnyP9XaO24dZ@
+3 OBJE @M35@
 3 _APID 1,2703::4343092
 2 SOUR @8SpggOHIRZiow2E3C3cu@
 3 _APID 1,60525::36337865
@@ -877,7 +889,7 @@
 3 PAGE New York State Archives; Albany, New York; State Populatio
 4 CONC n Census Schedules, 1915; Election District: 24; Assembly Di
 4 CONC strict: 18; City: New York; County: Kings; Page: 48
-3 OBJE @Ytym72GVSnyP9XaO24dZ@
+3 OBJE @M35@
 3 _APID 1,2703::4343092
 2 NOTE Relation to Head of House: Daughter-in-law
 1 RESI
@@ -960,14 +972,14 @@
 0 @I77@ INDI
 1 REFN f33bae71-57c6-4e62-b426-0e93de0721a0
 1 NAME Rosario /Daste/
-2 SOUR @S68@
+2 SOUR @S94@
 1 SEX F
 1 FAMC @F20@
 1 _XY 1522 1396
 0 @I78@ INDI
 1 REFN a6ba9592-c18d-4e17-84cb-b6226bc0a01d
 1 NAME unknown wife of Mariano Auz /Daste/
-2 SOUR @S68@
+2 SOUR @S94@
 1 SEX F
 1 FAMS @F20@
 1 _XY 1456 1328
@@ -1991,10 +2003,13 @@
 1 BIRT
 2 PLAC Santiago de Cali, Valle del Cauca, Colombia
 1 _XY 6713 707
+0 @I219@ INDI
+1 NAME [REDACTED]
+1 FAMS @F156@
 0 @I146@ INDI
 1 REFN e7cea020-3b2a-4eab-b3ee-99abbc38f63f
 1 NAME Adela /Donoso/
-2 SOUR @S68@
+2 SOUR @S94@
 3 PAGE p. 25
 1 SEX F
 1 FAMC @F55@
@@ -2023,7 +2038,7 @@
 0 @I148@ INDI
 1 REFN fd0ef36e-6d18-4c41-919a-c6dbbe0db906
 1 NAME Camila /Donoso/
-2 SOUR @S68@
+2 SOUR @S94@
 3 PAGE p. 25
 1 SEX F
 1 FAMC @F55@
@@ -2031,7 +2046,7 @@
 0 @I149@ INDI
 1 REFN af404ae6-f4a2-4014-927f-78b71fb0c705
 1 NAME Modesto /Donoso/
-2 SOUR @S68@
+2 SOUR @S94@
 3 PAGE p. 25
 1 SEX M
 1 FAMC @F55@
@@ -2046,7 +2061,7 @@
 0 @I150@ INDI
 1 REFN a9403471-42a4-4452-bc8a-a607c73fb9f7
 1 NAME Teresa /Donoso/
-2 SOUR @S68@
+2 SOUR @S94@
 3 PAGE p. 25
 1 SEX F
 1 FAMC @F55@
@@ -2086,7 +2101,7 @@
 3 DATA
 4 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=60916
 5 CONC 892&pid=34
-2 SOUR @S68@
+2 SOUR @S94@
 2 SOUR @S71@
 1 SEX M
 1 FAMS @F53@
@@ -2111,6 +2126,80 @@
 4 LATI S1.6667
 4 LONG W78.6334
 1 _XY 699 1431
+0 @I263@ INDI
+1 NAME [REDACTED]
+1 FAMS @F176@
+0 @I262@ INDI
+1 REFN 28c665ab-9f64-4dde-85c7-46fdd3b52726
+1 NAME Joseph Patrick /Dudley/
+2 SOUR @wN4p8JORTTCTcTlwT98u@
+3 PAGE Date: 1993-10-22
+3 _APID 1,5180::1989561
+2 SOUR @S84@
+3 OBJE @M112@
+3 _APID 1,61457::3766751
+2 SOUR @S85@
+3 _APID 1,1788::305122408
+2 SOUR @S2fyUKW7QvupWtUQHBOs@
+3 _APID 1,60901::42563824
+2 SOUR @GFCLw2yOQvibba3edsSE@
+3 PAGE Number: 092-32-0504; Issue State: New York; Issue Date: 1957
+4 CONC -1958
+3 _APID 1,3693::16628194
+1 SEX M
+1 FAMC @F176@
+1 BIRT
+2 DATE 01 JUN 1940
+2 PLAC Brooklyn, Kings, New York, USA
+3 MAP
+4 LATI N40.65
+4 LONG W73.95
+2 SOUR @wN4p8JORTTCTcTlwT98u@
+3 PAGE Date: 1993-10-22
+3 _APID 1,5180::1989561
+2 SOUR @S84@
+3 OBJE @M112@
+3 _APID 1,61457::3766751
+2 SOUR @S85@
+3 _APID 1,1788::305122408
+2 SOUR @S2fyUKW7QvupWtUQHBOs@
+3 _APID 1,60901::42563824
+2 SOUR @GFCLw2yOQvibba3edsSE@
+3 PAGE Number: 092-32-0504; Issue State: New York; Issue Date: 1957
+4 CONC -1958
+3 _APID 1,3693::16628194
+1 RESI
+2 DATE 1980
+2 PLAC 462 Castro Street, San Francisco, San Francisco, California
+3 CONC , USA
+2 SOUR @S85@
+3 _APID 1,1788::305122408
+1 RESI
+2 DATE ABT 1992
+2 PLAC 61 Hartford Street, San Francisco, San Francisco, California
+3 CONC , USA
+2 SOUR @S85@
+3 _APID 1,1788::305122408
+1 DEAT
+2 DATE 22 OCT 1993
+2 PLAC San Francisco, San Francisco, California, USA
+3 MAP
+4 LATI N37.775
+4 LONG W122.4183
+2 SOUR @wN4p8JORTTCTcTlwT98u@
+3 PAGE Date: 1993-10-22
+3 _APID 1,5180::1989561
+2 SOUR @S2fyUKW7QvupWtUQHBOs@
+3 _APID 1,60901::42563824
+2 SOUR @GFCLw2yOQvibba3edsSE@
+3 PAGE Number: 092-32-0504; Issue State: New York; Issue Date: 1957
+4 CONC -1958
+3 _APID 1,3693::16628194
+1 SSN 092-32-0504
+2 SOUR @GFCLw2yOQvibba3edsSE@
+3 PAGE Number: 092-32-0504; Issue State: New York; Issue Date: 1957
+4 CONC -1958
+1 _XY 4764 4376
 0 @cIbRXenQRiq6juLUmspF@ INDI
 1 REFN f93133fe-86bc-44f0-b105-8cb46f2636a5
 1 NAME Enid /Espinosa/
@@ -2119,6 +2208,17 @@
 1 BIRT
 2 DATE ABT 1885
 1 _XY 2785 1977
+0 @I233@ INDI
+1 REFN e61c7bed-9c45-4d26-9656-545191b5c207
+1 NAME Karen Denise /Falcon/
+2 SOUR @S105@
+3 PAGE file D135017, Karen D Treganowan
+3 _APID 1,1090::107558
+2 SOUR @S103@
+3 PAGE p. C132101, Karen Denise Falcon
+3 _APID 1,1100::3423401
+1 SEX F
+1 FAMS @F164@
 0 @I151@ INDI
 1 REFN 166604ba-9dc1-4c50-9296-72abe388a684
 1 NAME Bernardo /Fernández de Antesana/
@@ -2254,6 +2354,127 @@
 1 DEAT
 2 PLAC Pasto, Nariño, Colombia
 1 _XY 3282 607
+0 @I248@ INDI
+1 NAME [REDACTED]
+1 FAMC @F171@
+1 FAMS @F160@
+0 @I249@ INDI
+1 REFN 7d612b40-2ff9-4bd3-b95b-21b8785cea19
+1 NAME Walter Vincent /Ganley/
+2 SOUR @pZSp306qQOGHvPqm0c60@
+3 PAGE Year: 1920; Census Place: West New York Ward 1, Hudson, Ne
+4 CONC w Jersey; Roll: T625_1051; Page: 28A; Enumeration District
+4 CONC : 339
+3 OBJE @M98@
+3 _APID 1,6061::111692105
+2 SOUR @cYpH9GKbREexd30xG7Ri@
+3 PAGE Year: 1930; Census Place: Brooklyn, Kings, New York; Page: 7
+4 CONC 0A; Enumeration District: 0857; FHL microfilm: 2341272
+3 OBJE @M99@
+3 _APID 1,6224::40578846
+2 SOUR @wasQXzkoQbebWtJVQDxQ@
+3 PAGE Year: 1940; Census Place: New York, Kings, New York; Roll: T
+4 CONC 627_2554; Page: 13A; Enumeration District: 24-309A
+3 OBJE @M95@
+3 _APID 1,2442::10647127
+2 SOUR @wN4p8JORTTCTcTlwT98u@
+3 PAGE Date: 1981-05-02
+3 _APID 1,5180::2554580
+2 SOUR @GFCLw2yOQvibba3edsSE@
+3 PAGE Number: 054-07-2738; Issue State: New York; Issue Date: Befo
+4 CONC re 1951
+3 _APID 1,3693::21236236
+1 SEX M
+1 FAMS @F171@
+1 BIRT
+2 DATE 02 FEB 1914
+2 PLAC New Jersey, USA
+3 MAP
+4 LATI N40.1365
+4 LONG W73.2613
+2 SOUR @pZSp306qQOGHvPqm0c60@
+3 PAGE Year: 1920; Census Place: West New York Ward 1, Hudson, Ne
+4 CONC w Jersey; Roll: T625_1051; Page: 28A; Enumeration District
+4 CONC : 339
+3 OBJE @M98@
+3 _APID 1,6061::111692105
+2 SOUR @cYpH9GKbREexd30xG7Ri@
+3 PAGE Year: 1930; Census Place: Brooklyn, Kings, New York; Page: 7
+4 CONC 0A; Enumeration District: 0857; FHL microfilm: 2341272
+3 OBJE @M99@
+3 _APID 1,6224::40578846
+2 SOUR @wasQXzkoQbebWtJVQDxQ@
+3 PAGE Year: 1940; Census Place: New York, Kings, New York; Roll: T
+4 CONC 627_2554; Page: 13A; Enumeration District: 24-309A
+3 OBJE @M95@
+3 _APID 1,2442::10647127
+2 SOUR @wN4p8JORTTCTcTlwT98u@
+3 PAGE Date: 1981-05-02
+3 _APID 1,5180::2554580
+2 SOUR @GFCLw2yOQvibba3edsSE@
+3 PAGE Number: 054-07-2738; Issue State: New York; Issue Date: Befo
+4 CONC re 1951
+3 _APID 1,3693::21236236
+1 RESI
+2 DATE 1920
+2 PLAC West New York, Hudson, New Jersey, USA
+3 MAP
+4 LATI N40.7879
+4 LONG W74.0143
+2 SOUR @pZSp306qQOGHvPqm0c60@
+3 PAGE Year: 1920; Census Place: West New York Ward 1, Hudson, Ne
+4 CONC w Jersey; Roll: T625_1051; Page: 28A; Enumeration District
+4 CONC : 339
+3 OBJE @M98@
+3 _APID 1,6061::111692105
+2 NOTE Relation to Head: Son; Residence Marital Status: Single
+1 RESI
+2 DATE 1930
+2 PLAC Brooklyn, Kings, New York, USA
+3 MAP
+4 LATI N40.65
+4 LONG W73.95
+2 SOUR @cYpH9GKbREexd30xG7Ri@
+3 PAGE Year: 1930; Census Place: Brooklyn, Kings, New York; Page: 7
+4 CONC 0A; Enumeration District: 0857; FHL microfilm: 2341272
+3 OBJE @M99@
+3 _APID 1,6224::40578846
+2 NOTE Marital Status: Single; Relation to Head: Stepson
+1 RESI
+2 DATE 1935
+2 PLAC Brooklyn, Kings, New York, USA
+3 MAP
+4 LATI N40.65
+4 LONG W73.95
+2 SOUR @wasQXzkoQbebWtJVQDxQ@
+3 PAGE Year: 1940; Census Place: New York, Kings, New York; Roll: T
+4 CONC 627_2554; Page: 13A; Enumeration District: 24-309A
+3 OBJE @M95@
+3 _APID 1,2442::10647127
+1 RESI
+2 DATE 01 APR 1940
+2 PLAC 1545 East 34th Street, Brooklyn, Kings, New York, USA
+2 SOUR @wasQXzkoQbebWtJVQDxQ@
+3 PAGE Year: 1940; Census Place: New York, Kings, New York; Roll: T
+4 CONC 627_2554; Page: 13A; Enumeration District: 24-309A
+3 OBJE @M95@
+3 _APID 1,2442::10647127
+2 NOTE Age: 26; Marital Status: Married; Relation to Head of House
+3 CONC : Head
+1 DEAT
+2 DATE 02 MAY 1981
+2 PLAC West Covina, Los Angeles, California, USA
+3 MAP
+4 LATI N34.0686
+4 LONG W117.939
+2 SOUR @wN4p8JORTTCTcTlwT98u@
+3 PAGE Date: 1981-05-02
+3 _APID 1,5180::2554580
+2 SOUR @GFCLw2yOQvibba3edsSE@
+3 PAGE Number: 054-07-2738; Issue State: New York; Issue Date: Befo
+4 CONC re 1951
+3 _APID 1,3693::21236236
+1 _XY 4271 4293
 0 @I162@ INDI
 1 REFN b7c89d8e-73bc-4cdb-9c8b-489c19d9c565
 1 NAME Beatriz /Gómez/
@@ -2318,10 +2539,241 @@
 1 BIRT
 2 PLAC Membrilla, Toledo, Espana
 1 _XY 7561 324
+0 @I241@ INDI
+1 NAME [REDACTED]
+1 FAMC @F160@
+1 FAMS @F169@
+1 FAMS @F168@
+0 @I237@ INDI
+1 REFN f771fc3e-b9ec-4bd6-bd2f-a6b06f660dee
+1 NAME Lynn Anne /Hedegaard/
+2 SOUR @S98@
+3 PAGE Lynn A Hedegard
+3 OBJE @M89@
+3 _APID 1,1144::9373192
+2 SOUR @S2fyUKW7QvupWtUQHBOs@
+3 _APID 1,60901::22888456
+1 SEX F
+1 FAMC @F160@
+1 FAMS @F166@
+1 OBJE @M90@
+1 BIRT
+2 DATE 13 DEC 1953
+2 PLAC Brooklyn, New York City, New York, USA
+2 SOUR @S98@
+3 PAGE Lynn A Hedegard
+3 OBJE @M89@
+3 _APID 1,1144::9373192
+2 SOUR @S2fyUKW7QvupWtUQHBOs@
+3 _APID 1,60901::22888456
+1 DEAT murdered
+2 DATE 15 SEP 1989
+2 SOUR @S2fyUKW7QvupWtUQHBOs@
+3 _APID 1,60901::22888456
+1 RESI
+2 PLAC Petaluma, Sonoma, California, USA
+3 MAP
+4 LATI N38.2324
+4 LONG W122.6366
+1 _PHOTO @M90@
+0 @I228@ INDI
+1 NAME [REDACTED]
+1 FAMC @F160@
+0 @I247@ INDI
+1 REFN 3e1257bb-d47a-490e-b004-9cdeac49235a
+1 NAME Robert Neil /Hedegaard/
+2 SOUR @wasQXzkoQbebWtJVQDxQ@
+3 PAGE Year: 1940; Census Place: New York, Kings, New York; Roll: m
+4 CONC -t0627-02554; Page: 15B; Enumeration District: 24-328
+3 OBJE @M92@
+3 _APID 1,2442::10677873
+2 SOUR @S60@
+3 PAGE “Robert Hedegard”, New York City Municipal Archives; New Yor
+4 CONC k, New York
+3 _APID 1,61406::3666872
+2 SOUR @S60@
+3 PAGE “Robert N. Hedegard”, New York City Municipal Archives; Ne
+4 CONC w York, New York
+3 OBJE @M91@
+3 _APID 1,61406::1586973
+2 SOUR @S84@
+3 OBJE @M93@
+3 _APID 1,61457::3005375
+2 SOUR @S63@
+3 PAGE Year: 1937; Arrival: New York, New York; Microfilm Serial: T
+4 CONC 715, 1897-1957; Microfilm Roll: Roll 5989; Line: 17; Page Nu
+4 CONC mber: 86
+3 OBJE @M94@
+3 _APID 1,7488::20531234
+2 SOUR @S85@
+3 _APID 1,1788::309630393
+2 SOUR @S61@
+3 _APID 1,1732::157014865
+2 SOUR @S107@
+3 _APID 1,2441::1292988
+2 SOUR @S2fyUKW7QvupWtUQHBOs@
+3 _APID 1,60901::16193481
+2 SOUR @GFCLw2yOQvibba3edsSE@
+3 PAGE Number: 127-24-2013; Issue State: New York; Issue Date: Befo
+4 CONC re 1951
+3 _APID 1,3693::70558126
+1 SEX M
+1 FAMS @F160@
+1 BIRT
+2 DATE 27 NOV 1932
+2 PLAC Brooklyn, New York City, New York, USA
+2 SOUR @wasQXzkoQbebWtJVQDxQ@
+3 PAGE Year: 1940; Census Place: New York, Kings, New York; Roll: m
+4 CONC -t0627-02554; Page: 15B; Enumeration District: 24-328
+3 OBJE @M92@
+3 _APID 1,2442::10677873
+2 SOUR @S84@
+3 OBJE @M93@
+3 _APID 1,61457::3005375
+2 SOUR @S63@
+3 PAGE Year: 1937; Arrival: New York, New York; Microfilm Serial: T
+4 CONC 715, 1897-1957; Microfilm Roll: Roll 5989; Line: 17; Page Nu
+4 CONC mber: 86
+3 OBJE @M94@
+3 _APID 1,7488::20531234
+2 SOUR @S85@
+3 _APID 1,1788::309630393
+2 SOUR @S107@
+3 _APID 1,2441::1292988
+2 SOUR @S2fyUKW7QvupWtUQHBOs@
+3 _APID 1,60901::16193481
+2 SOUR @GFCLw2yOQvibba3edsSE@
+3 PAGE Number: 127-24-2013; Issue State: New York; Issue Date: Befo
+4 CONC re 1951
+3 _APID 1,3693::70558126
+1 RESI
+2 DATE 1935
+2 PLAC 3720 Avenue R, Brooklyn, New York City, New York, USA
+2 SOUR @wasQXzkoQbebWtJVQDxQ@
+3 PAGE Year: 1940; Census Place: New York, Kings, New York; Roll: m
+4 CONC -t0627-02554; Page: 15B; Enumeration District: 24-328
+3 OBJE @M92@
+3 _APID 1,2442::10677873
+1 EVEN
+2 TYPE Arrival
+2 DATE 06 JUN 1937
+2 PLAC New York, New York, USA
+3 MAP
+4 LATI N40.7744
+4 LONG W73.9721
+2 SOUR @S63@
+3 PAGE Year: 1937; Arrival: New York, New York; Microfilm Serial: T
+4 CONC 715, 1897-1957; Microfilm Roll: Roll 5989; Line: 17; Page Nu
+4 CONC mber: 86
+3 OBJE @M94@
+3 _APID 1,7488::20531234
+1 RESI
+2 DATE 1940
+2 PLAC Brooklyn, New York City, New York, USA
+2 SOUR @wasQXzkoQbebWtJVQDxQ@
+3 PAGE Year: 1940; Census Place: New York, Kings, New York; Roll: m
+4 CONC -t0627-02554; Page: 15B; Enumeration District: 24-328
+3 OBJE @M92@
+3 _APID 1,2442::10677873
+2 NOTE Marital Status: Single; Relation to Head: Son
+1 EVEN
+2 TYPE military
+2 DATE 06 DEC 1949
+2 SOUR @S107@
+3 _APID 1,2441::1292988
+1 RESI
+2 DATE 1995
+2 PLAC Phoenix, Maricopa, Arizona, USA
+3 MAP
+4 LATI N33.4484
+4 LONG W112.074
+2 SOUR @S85@
+3 _APID 1,1788::309630393
+2 SOUR @S61@
+3 _APID 1,1732::157014865
+1 DEAT
+2 DATE 02 MAY 2003
+2 PLAC Peoria, Maricopa, Arizona, USA
+3 MAP
+4 LATI N33.5806
+4 LONG W112.2374
+2 SOUR @S107@
+3 _APID 1,2441::1292988
+2 SOUR @S2fyUKW7QvupWtUQHBOs@
+3 _APID 1,60901::16193481
+2 SOUR @GFCLw2yOQvibba3edsSE@
+3 PAGE Number: 127-24-2013; Issue State: New York; Issue Date: Befo
+4 CONC re 1951
+3 _APID 1,3693::70558126
+0 @I222@ INDI
+1 NAME [REDACTED]
+1 FAMC @F160@
+0 @I226@ INDI
+1 REFN be462741-bcec-49f8-9b35-3af0fb69513f
+1 NAME Joan Marie /Hedegard/
+2 SOUR @S98@
+3 PAGE Joan M Hedegard
+3 OBJE @M83@
+3 _APID 1,1144::8749628
+2 SOUR @S84@
+3 OBJE @M85@
+3 _APID 1,61457::7917587
+2 SOUR @GFCLw2yOQvibba3edsSE@
+3 PAGE Issue State: California; Issue Date: 1976
+3 _APID 1,3693::83050564
+2 SOUR @S102@
+3 _APID 1,70833::44019
+1 SEX F
+1 FAMC @F160@
+1 FAMS @F162@
+1 BIRT
+2 DATE 19 MAY 1964
+2 PLAC New York City, New York, USA
+2 SOUR @S98@
+3 PAGE Joan M Hedegard
+3 OBJE @M83@
+3 _APID 1,1144::8749628
+2 SOUR @S84@
+3 OBJE @M85@
+3 _APID 1,61457::7917587
+2 SOUR @GFCLw2yOQvibba3edsSE@
+3 PAGE Issue State: California; Issue Date: 1976
+3 _APID 1,3693::83050564
+2 SOUR @S102@
+3 _APID 1,70833::44019
+1 DEAT
+2 DATE 21 JUL 2008
+2 PLAC Los Angeles, Los Angeles, California, USA
+3 MAP
+4 LATI N34.0522
+4 LONG W118.2437
+2 SOUR @GFCLw2yOQvibba3edsSE@
+3 PAGE Issue State: California; Issue Date: 1976
+3 _APID 1,3693::83050564
+2 SOUR @S102@
+3 _APID 1,70833::44019
+0 @I231@ INDI
+1 NAME [REDACTED]
+1 FAMC @F160@
+1 FAMS @F163@
+0 @I246@ INDI
+1 NAME [REDACTED]
+1 FAMC @F160@
+1 FAMS @F170@
+0 @I221@ INDI
+1 NAME [REDACTED]
+1 FAMC @F160@
+1 FAMS @F159@
+0 @I227@ INDI
+1 NAME [REDACTED]
+1 FAMC @F160@
+0 @I252@ INDI
+1 NAME [REDACTED]
+1 FAMS @F173@
 0 @I166@ INDI
 1 REFN 8197e007-47c8-444f-9a7c-b0d249bc1c4b
 1 NAME [unknown] /Hurtado/
-2 SOUR @S68@
+2 SOUR @S94@
 1 SEX M
 1 FAMS @F60@
 1 BIRT
@@ -2329,12 +2781,12 @@
 2 NOTE just a guess
 1 RESI
 2 PLAC Los Ríos, Ecuador
-2 SOUR @S68@
+2 SOUR @S94@
 1 _XY 1459 1529
 0 @I165@ INDI
 1 REFN 6b10f95a-5352-4f2a-b544-94bcd16d774d
 1 NAME Amalia /Hurtado Zambrano/
-2 SOUR @S68@
+2 SOUR @S94@
 1 SEX F
 1 FAMC @F60@
 1 FAMS @F61@
@@ -2345,7 +2797,7 @@
 3 MAP
 4 LATI S0.2167
 4 LONG W78.5
-2 SOUR @S68@
+2 SOUR @S94@
 3 PAGE p. 25
 1 DEAT
 2 DATE 1913
@@ -2353,7 +2805,7 @@
 3 MAP
 4 LATI S0.2167
 4 LONG W78.5
-2 SOUR @S68@
+2 SOUR @S94@
 1 _XY 1373 1684
 0 @I167@ INDI
 1 REFN df41ecdd-7570-43b7-86fd-9fac29f59d9b
@@ -2413,6 +2865,14 @@
 4 LATI N0.35
 4 LONG W78.1167
 1 _XY 5470 479
+0 @I257@ INDI
+1 REFN ebf193a5-ebe4-45d1-b643-e15498f00f7d
+1 NAME Kimberly //
+1 SEX F
+1 FAMC @F175@
+0 @I238@ INDI
+1 NAME [REDACTED]
+1 FAMS @F168@
 0 @prTbcfE9SrCQ6cfpCO7h@ INDI
 1 REFN 0394761d-7e0b-4bdc-a4c4-b2e9159ac71a
 1 NAME Alicia /López/
@@ -2473,15 +2933,15 @@
 3 PAGE New York State Archives; Albany, New York; State Populatio
 4 CONC n Census Schedules, 1905; Election District: A.D. 18 E.D. 16
 4 CONC ; City: Brooklyn; County: Kings; Page: 34
-3 OBJE @oVVo6benTzaeKBTMZDEv@
+3 OBJE @M34@
 3 _APID 1,7364::1518425
 2 SOUR @es9CfZUrS7S7jzWga8jJ@
 3 PAGE New York State Archives; Albany, New York; State Populatio
 4 CONC n Census Schedules, 1915; Election District: 24; Assembly Di
 4 CONC strict: 18; City: New York; County: Kings; Page: 48
-3 OBJE @Ytym72GVSnyP9XaO24dZ@
+3 OBJE @M35@
 3 _APID 1,2703::4343080
-2 SOUR @S68@
+2 SOUR @S94@
 3 QUAY 1
 2 SOUR @FKSKK0JtSlqtGZ1MZl4W@
 3 PAGE "Passenger Lists of Vessels Arriving at San Juan, Puerto Ric
@@ -2559,15 +3019,15 @@
 3 PAGE New York State Archives; Albany, New York; State Populatio
 4 CONC n Census Schedules, 1905; Election District: A.D. 18 E.D. 16
 4 CONC ; City: Brooklyn; County: Kings; Page: 34
-3 OBJE @oVVo6benTzaeKBTMZDEv@
+3 OBJE @M34@
 3 _APID 1,7364::1518425
 2 SOUR @es9CfZUrS7S7jzWga8jJ@
 3 PAGE New York State Archives; Albany, New York; State Populatio
 4 CONC n Census Schedules, 1915; Election District: 24; Assembly Di
 4 CONC strict: 18; City: New York; County: Kings; Page: 48
-3 OBJE @Ytym72GVSnyP9XaO24dZ@
+3 OBJE @M35@
 3 _APID 1,2703::4343080
-2 SOUR @S68@
+2 SOUR @S94@
 2 SOUR @FKSKK0JtSlqtGZ1MZl4W@
 3 PAGE "Passenger Lists of Vessels Arriving at San Juan, Puerto Ric
 4 CONC o, 10/07/1901 - 06/30/1948," NAI Number: 2945834, Record Gro
@@ -2628,7 +3088,7 @@
 3 MAP
 4 LATI N40.7744
 4 LONG W73.9721
-2 SOUR @S68@
+2 SOUR @S94@
 1 RESI
 2 DATE 1905
 2 PLAC 680 Saint John's Place, Brooklyn, Kings, New York, USA
@@ -2636,7 +3096,7 @@
 3 PAGE New York State Archives; Albany, New York; State Populatio
 4 CONC n Census Schedules, 1905; Election District: A.D. 18 E.D. 16
 4 CONC ; City: Brooklyn; County: Kings; Page: 34
-3 OBJE @oVVo6benTzaeKBTMZDEv@
+3 OBJE @M34@
 3 _APID 1,7364::1518425
 2 NOTE Relationship to Head: Son
 1 RESI
@@ -2649,7 +3109,7 @@
 3 PAGE New York State Archives; Albany, New York; State Populatio
 4 CONC n Census Schedules, 1915; Election District: 24; Assembly Di
 4 CONC strict: 18; City: New York; County: Kings; Page: 48
-3 OBJE @Ytym72GVSnyP9XaO24dZ@
+3 OBJE @M35@
 3 _APID 1,2703::4343080
 2 NOTE Age: 25; Relation to Head of House: Son
 1 EVEN
@@ -2686,27 +3146,27 @@
 3 MAP
 4 LATI S34.667
 4 LONG W58.4
-2 SOUR @S68@
+2 SOUR @S94@
 3 QUAY 1
 1 _XY 2901 1970
 0 @I171@ INDI
 1 REFN 737b79c9-ed1a-4abe-b5c0-c57685310f60
 1 NAME Camila /López/
-2 SOUR @S68@
+2 SOUR @S94@
 1 SEX F
 1 FAMC @F65@
 1 _XY 2123 1368
 0 @I172@ INDI
 1 REFN 45ddcab7-4fc0-467b-9a51-bde9f3e5d301
 1 NAME Carlos /López/
-2 SOUR @S68@
+2 SOUR @S94@
 1 SEX M
 1 FAMC @F21@
 1 _XY 1813 1699
 0 @4CmHCHL9SeWqrg5IQwEM@ INDI
 1 REFN 870f9461-40fc-4e91-890a-dac826545baf
 1 NAME Carlos /López/
-2 SOUR @S68@
+2 SOUR @S94@
 3 QUAY 1
 1 SEX M
 1 FAMC @NFIwsVBuTjOSRokJd8v0@
@@ -2719,7 +3179,7 @@
 0 @I173@ INDI
 1 REFN 4848199e-b999-4d0f-8b48-d40d285d5e41
 1 NAME Dolores /López/
-2 SOUR @S68@
+2 SOUR @S94@
 1 SEX F
 1 FAMC @F65@
 1 FAMS @F21@
@@ -2729,7 +3189,7 @@
 3 MAP
 4 LATI S0.2167
 4 LONG W78.5
-2 SOUR @S68@
+2 SOUR @S94@
 1 DEAT
 2 DATE 1872
 2 PLAC Quito, Pichincha, Ecuador
@@ -2785,7 +3245,7 @@
 3 MAP
 4 LATI S0.2166
 4 LONG W78.5163
-2 SOUR @S68@
+2 SOUR @S94@
 1 _XY 2003 1353
 0 @MXy97gGiR8OdDYExTOv7@ INDI
 1 REFN 546c81e8-3a75-45a9-b6e9-65abf3520283
@@ -2817,7 +3277,7 @@
 3 PAGE New York State Archives; Albany, New York; State Populatio
 4 CONC n Census Schedules, 1905; Election District: A.D. 18 E.D. 16
 4 CONC ; City: Brooklyn; County: Kings; Page: 34
-3 OBJE @oVVo6benTzaeKBTMZDEv@
+3 OBJE @M34@
 3 _APID 1,7364::1517653
 2 SOUR @es9CfZUrS7S7jzWga8jJ@
 3 PAGE New York State Archives; Albany, New York; State Populatio
@@ -2831,7 +3291,7 @@
 4 CONC strict: 21; City: Brooklyn; County: Kings; Page: 17
 3 OBJE @PRwNqIQfQbWmE2tzOjmU@
 3 _APID 1,2704::19548143
-2 SOUR @S68@
+2 SOUR @S94@
 3 QUAY 1
 2 SOUR @GFCLw2yOQvibba3edsSE@
 3 PAGE Number: 099-10-6893; Issue State: New York; Issue Date: Befo
@@ -2873,7 +3333,7 @@
 3 PAGE New York State Archives; Albany, New York; State Populatio
 4 CONC n Census Schedules, 1905; Election District: A.D. 18 E.D. 16
 4 CONC ; City: Brooklyn; County: Kings; Page: 34
-3 OBJE @oVVo6benTzaeKBTMZDEv@
+3 OBJE @M34@
 3 _APID 1,7364::1517653
 2 SOUR @es9CfZUrS7S7jzWga8jJ@
 3 PAGE New York State Archives; Albany, New York; State Populatio
@@ -2887,7 +3347,7 @@
 4 CONC strict: 21; City: Brooklyn; County: Kings; Page: 17
 3 OBJE @PRwNqIQfQbWmE2tzOjmU@
 3 _APID 1,2704::19548143
-2 SOUR @S68@
+2 SOUR @S94@
 3 QUAY 1
 2 SOUR @GFCLw2yOQvibba3edsSE@
 3 PAGE Number: 099-10-6893; Issue State: New York; Issue Date: Befo
@@ -2910,7 +3370,7 @@
 3 PAGE New York State Archives; Albany, New York; State Populatio
 4 CONC n Census Schedules, 1905; Election District: A.D. 18 E.D. 16
 4 CONC ; City: Brooklyn; County: Kings; Page: 34
-3 OBJE @oVVo6benTzaeKBTMZDEv@
+3 OBJE @M34@
 3 _APID 1,7364::1517653
 2 NOTE Relationship to Head: Daughter
 1 RESI
@@ -3008,7 +3468,7 @@
 3 MAP
 4 LATI N40.65
 4 LONG W73.95
-2 SOUR @S68@
+2 SOUR @S94@
 3 QUAY 1
 2 SOUR @GFCLw2yOQvibba3edsSE@
 3 PAGE Number: 099-10-6893; Issue State: New York; Issue Date: Befo
@@ -3023,7 +3483,7 @@
 0 @I174@ INDI
 1 REFN ba7669c9-57c0-49c8-b0c0-b36c7f4fe8d7
 1 NAME Dolores Malvina /López/
-2 SOUR @S68@
+2 SOUR @S94@
 1 SEX F
 1 FAMC @F61@
 1 BIRT
@@ -3032,19 +3492,19 @@
 3 MAP
 4 LATI S0.2167
 4 LONG W78.5
-2 SOUR @S68@
+2 SOUR @S94@
 1 DEAT
 2 DATE 22 MAR 1977
 2 PLAC Quito, Pichincha, Ecuador
 3 MAP
 4 LATI S0.2167
 4 LONG W78.5
-2 SOUR @S68@
+2 SOUR @S94@
 1 _XY 1661 1921
 0 @M2VYIcfGShuHHjLxRLLO@ INDI
 1 REFN fe9a8417-4b2c-4108-a56e-76147cd72175
 1 NAME Dolores Olympia /López/
-2 SOUR @S68@
+2 SOUR @S94@
 3 QUAY 1
 1 SEX F
 1 FAMC @KHbLkt6WRqSDo0DTyyKL@
@@ -3054,7 +3514,7 @@
 3 MAP
 4 LATI S1.3333
 4 LONG W80.5833
-2 SOUR @S68@
+2 SOUR @S94@
 3 QUAY 1
 1 DEAT
 2 DATE 1877
@@ -3062,7 +3522,7 @@
 3 MAP
 4 LATI S1.3333
 4 LONG W80.5833
-2 SOUR @S68@
+2 SOUR @S94@
 3 QUAY 1
 1 _XY 2078 1970
 0 @t1pW5s3GTzqlEPfJTbOL@ INDI
@@ -3088,7 +3548,7 @@
 2 SOUR @wasQXzkoQbebWtJVQDxQ@
 3 PAGE Year: 1940; Census Place: New York, Kings, New York; Roll: T
 4 CONC 627_2615; Page: 2A; Enumeration District: 24-2589
-3 OBJE @EuNyrMxrSMqPhfJjXwGK@
+3 OBJE @M15@
 3 _APID 1,2442::5009226
 2 SOUR @S63@
 3 PAGE Year: 1911; Arrival: New York, New York; Microfilm Serial: T
@@ -3100,15 +3560,15 @@
 3 PAGE New York State Archives; Albany, New York; State Populatio
 4 CONC n Census Schedules, 1905; Election District: A.D. 18 E.D. 16
 4 CONC ; City: Brooklyn; County: Kings; Page: 34
-3 OBJE @oVVo6benTzaeKBTMZDEv@
+3 OBJE @M34@
 3 _APID 1,7364::1518423
 2 SOUR @es9CfZUrS7S7jzWga8jJ@
 3 PAGE New York State Archives; Albany, New York; State Populatio
 4 CONC n Census Schedules, 1915; Election District: 24; Assembly Di
 4 CONC strict: 18; City: New York; County: Kings; Page: 48
-3 OBJE @Ytym72GVSnyP9XaO24dZ@
+3 OBJE @M35@
 3 _APID 1,2703::4343088
-2 SOUR @S68@
+2 SOUR @S94@
 3 QUAY 1
 1 SEX F
 1 FAMC @KHbLkt6WRqSDo0DTyyKL@
@@ -3138,7 +3598,7 @@
 2 SOUR @wasQXzkoQbebWtJVQDxQ@
 3 PAGE Year: 1940; Census Place: New York, Kings, New York; Roll: T
 4 CONC 627_2615; Page: 2A; Enumeration District: 24-2589
-3 OBJE @EuNyrMxrSMqPhfJjXwGK@
+3 OBJE @M15@
 3 _APID 1,2442::5009226
 2 SOUR @S63@
 3 PAGE Year: 1911; Arrival: New York, New York; Microfilm Serial: T
@@ -3150,15 +3610,15 @@
 3 PAGE New York State Archives; Albany, New York; State Populatio
 4 CONC n Census Schedules, 1905; Election District: A.D. 18 E.D. 16
 4 CONC ; City: Brooklyn; County: Kings; Page: 34
-3 OBJE @oVVo6benTzaeKBTMZDEv@
+3 OBJE @M34@
 3 _APID 1,7364::1518423
 2 SOUR @es9CfZUrS7S7jzWga8jJ@
 3 PAGE New York State Archives; Albany, New York; State Populatio
 4 CONC n Census Schedules, 1915; Election District: 24; Assembly Di
 4 CONC strict: 18; City: New York; County: Kings; Page: 48
-3 OBJE @Ytym72GVSnyP9XaO24dZ@
+3 OBJE @M35@
 3 _APID 1,2703::4343088
-2 SOUR @S68@
+2 SOUR @S94@
 3 QUAY 1
 2 NOTE Consistent with being 11 months old at baptism on April 10
 3 CONC , 1883.
@@ -3194,7 +3654,7 @@
 3 PAGE New York State Archives; Albany, New York; State Populatio
 4 CONC n Census Schedules, 1905; Election District: A.D. 18 E.D. 16
 4 CONC ; City: Brooklyn; County: Kings; Page: 34
-3 OBJE @oVVo6benTzaeKBTMZDEv@
+3 OBJE @M34@
 3 _APID 1,7364::1518423
 2 NOTE Relationship to Head: Daughter
 1 RESI
@@ -3234,7 +3694,7 @@
 3 PAGE New York State Archives; Albany, New York; State Populatio
 4 CONC n Census Schedules, 1915; Election District: 24; Assembly Di
 4 CONC strict: 18; City: New York; County: Kings; Page: 48
-3 OBJE @Ytym72GVSnyP9XaO24dZ@
+3 OBJE @M35@
 3 _APID 1,2703::4343088
 2 NOTE Age: 32; Relation to Head of House: Daughter
 1 RESI
@@ -3273,7 +3733,7 @@
 2 SOUR @wasQXzkoQbebWtJVQDxQ@
 3 PAGE Year: 1940; Census Place: New York, Kings, New York; Roll: T
 4 CONC 627_2615; Page: 2A; Enumeration District: 24-2589
-3 OBJE @EuNyrMxrSMqPhfJjXwGK@
+3 OBJE @M15@
 3 _APID 1,2442::5009226
 1 RESI
 2 DATE 01 APR 1940
@@ -3284,7 +3744,7 @@
 2 SOUR @wasQXzkoQbebWtJVQDxQ@
 3 PAGE Year: 1940; Census Place: New York, Kings, New York; Roll: T
 4 CONC 627_2615; Page: 2A; Enumeration District: 24-2589
-3 OBJE @EuNyrMxrSMqPhfJjXwGK@
+3 OBJE @M15@
 3 _APID 1,2442::5009226
 2 NOTE Age: 57; Marital Status: Single; Relation to Head of House
 3 CONC : Sister-in-law
@@ -3294,7 +3754,7 @@
 3 MAP
 4 LATI S0.2167
 4 LONG W78.5
-2 SOUR @S68@
+2 SOUR @S94@
 3 QUAY 1
 1 _XY 2364 1970
 0 @fv0n8R3TSkK0bmwnSXdA@ INDI
@@ -3306,7 +3766,7 @@
 0 @xIbKHbuVTlWiV0hBbeI7@ INDI
 1 REFN a5fab8d4-0403-4d45-a909-ecb490581ada
 1 NAME Estenio /López/
-2 SOUR @S68@
+2 SOUR @S94@
 3 QUAY 1
 1 SEX M
 1 FAMC @KHbLkt6WRqSDo0DTyyKL@
@@ -3316,7 +3776,7 @@
 3 MAP
 4 LATI S1.3333
 4 LONG W80.5833
-2 SOUR @S68@
+2 SOUR @S94@
 3 QUAY 1
 1 DEAT
 2 DATE 1897
@@ -3324,7 +3784,7 @@
 3 MAP
 4 LATI S0.9141
 4 LONG W80.3073
-2 SOUR @S68@
+2 SOUR @S94@
 2 NOTE of wounds obtained in a military battle
 1 _XY 2246 1970
 0 @y4408aI7RySfx8XbRwvy@ INDI
@@ -3334,7 +3794,7 @@
 3 PAGE Year: 1900; Census Place: Brooklyn Ward 23, Kings, New York
 4 CONC ; Roll: 1062; Page: 7B; Enumeration District: 0414; FHL micr
 4 CONC ofilm: 1241062
-3 OBJE @WQIKjlraSvyuh75lMcGV@
+3 OBJE @M2@
 3 _APID 1,7602::55538888
 2 SOUR @Z0SQaG1kRbWQtiKMUjof@
 3 PAGE Year: 1910; Census Place: Brooklyn Ward 29, Kings, New York
@@ -3430,13 +3890,13 @@
 3 PAGE New York State Archives; Albany, New York; State Populatio
 4 CONC n Census Schedules, 1905; Election District: A.D. 18 E.D. 16
 4 CONC ; City: Brooklyn; County: Kings; Page: 34
-3 OBJE @oVVo6benTzaeKBTMZDEv@
+3 OBJE @M34@
 3 _APID 1,7364::1517651
 2 SOUR @es9CfZUrS7S7jzWga8jJ@
 3 PAGE New York State Archives; Albany, New York; State Populatio
 4 CONC n Census Schedules, 1915; Election District: 24; Assembly Di
 4 CONC strict: 18; City: New York; County: Kings; Page: 48
-3 OBJE @Ytym72GVSnyP9XaO24dZ@
+3 OBJE @M35@
 3 _APID 1,2703::4343074
 2 SOUR @DcGYKHpaRGm6ojIcId4e@
 3 OBJE @V73uFtl5QxKCndz1XQzs@
@@ -3455,7 +3915,7 @@
 3 PAGE Year: 1900; Census Place: Brooklyn Ward 23, Kings, New York
 4 CONC ; Roll: 1062; Page: 7B; Enumeration District: 0414; FHL micr
 4 CONC ofilm: 1241062
-3 OBJE @WQIKjlraSvyuh75lMcGV@
+3 OBJE @M2@
 3 _APID 1,7602::55538888
 2 SOUR @Z0SQaG1kRbWQtiKMUjof@
 3 PAGE Year: 1910; Census Place: Brooklyn Ward 29, Kings, New York
@@ -3551,13 +4011,13 @@
 3 PAGE New York State Archives; Albany, New York; State Populatio
 4 CONC n Census Schedules, 1905; Election District: A.D. 18 E.D. 16
 4 CONC ; City: Brooklyn; County: Kings; Page: 34
-3 OBJE @oVVo6benTzaeKBTMZDEv@
+3 OBJE @M34@
 3 _APID 1,7364::1517651
 2 SOUR @es9CfZUrS7S7jzWga8jJ@
 3 PAGE New York State Archives; Albany, New York; State Populatio
 4 CONC n Census Schedules, 1915; Election District: 24; Assembly Di
 4 CONC strict: 18; City: New York; County: Kings; Page: 48
-3 OBJE @Ytym72GVSnyP9XaO24dZ@
+3 OBJE @M35@
 3 _APID 1,2703::4343074
 2 SOUR @6aqPLR14TiS7VI3rS1TL@
 2 NOTE 1900 Census (Jun) lists birth as Aug 1849.
@@ -3569,7 +4029,7 @@
 1 EDUC
 2 DATE ABT 1864
 2 PLAC Colegio de los Jesuítas, Quito, Pichincha, Ecuador
-2 SOUR @S68@
+2 SOUR @S94@
 3 QUAY 1
 2 NOTE Latin teacher: Buenaventura Proaño.
 3 CONT Humanities teacher: Padre Hernáez.
@@ -3585,7 +4045,7 @@
 3 MAP
 4 LATI S1.3333
 4 LONG W80.5833
-2 SOUR @S68@
+2 SOUR @S94@
 3 QUAY 1
 1 RESI
 2 DATE 1873
@@ -3593,7 +4053,7 @@
 3 MAP
 4 LATI S1.3333
 4 LONG W80.5833
-2 SOUR @S68@
+2 SOUR @S94@
 3 QUAY 1
 1 OCCU ran store
 2 DATE ABT 1874
@@ -3601,13 +4061,13 @@
 3 MAP
 4 LATI S1.3333
 4 LONG W80.5833
-2 SOUR @S68@
+2 SOUR @S94@
 3 QUAY 1
 2 NOTE after 1873, while still a doctor
 1 EVEN
 2 TYPE enlisted
 2 DATE 1882
-2 SOUR @S68@
+2 SOUR @S94@
 3 QUAY 1
 2 NOTE The same day General Veintimilla declared himself Jefe Supre
 3 CONC mo de la Repúbilca.
@@ -3620,7 +4080,7 @@
 1 RESI
 2 DATE 1885
 2 PLAC Peru
-2 SOUR @S68@
+2 SOUR @S94@
 3 QUAY 1
 1 RESI
 2 DATE 1888
@@ -3628,7 +4088,7 @@
 3 MAP
 4 LATI S1.3333
 4 LONG W80.5833
-2 SOUR @S68@
+2 SOUR @S94@
 3 QUAY 1
 1 RESI
 2 DATE 1889
@@ -3636,7 +4096,7 @@
 3 MAP
 4 LATI S0.6833
 4 LONG W80.1
-2 SOUR @S68@
+2 SOUR @S94@
 3 QUAY 1
 1 OCCU doctor
 2 DATE 1889
@@ -3644,7 +4104,7 @@
 3 MAP
 4 LATI S0.6833
 4 LONG W80.1
-2 SOUR @S68@
+2 SOUR @S94@
 3 QUAY 1
 1 EVEN
 2 TYPE excommunication
@@ -3653,14 +4113,14 @@
 3 MAP
 4 LATI S0.6833
 4 LONG W80.1
-2 SOUR @S68@
+2 SOUR @S94@
 1 OCCU doctor
 2 DATE 1892
 2 PLAC Guayaquil, Guayas, Ecuador
 3 MAP
 4 LATI S2.1667
 4 LONG W79.9
-2 SOUR @S68@
+2 SOUR @S94@
 3 QUAY 1
 1 RESI
 2 DATE 1892
@@ -3677,13 +4137,13 @@
 3 MAP
 4 LATI S2.1667
 4 LONG W79.9
-2 SOUR @S68@
+2 SOUR @S94@
 3 QUAY 1
 2 NOTE of Esmeraldas Province, but was uncontitutionally denied th
 3 CONC e seat, because he had been excommunicated
 1 TITL Colector de Rentas Fiscales
 2 DATE 1895
-2 SOUR @S68@
+2 SOUR @S94@
 3 QUAY 1
 1 EVEN
 2 TYPE delegate
@@ -3692,7 +4152,7 @@
 3 MAP
 4 LATI S0.2167
 4 LONG W78.5
-2 SOUR @S68@
+2 SOUR @S94@
 3 QUAY 1
 2 NOTE delegate to the convention from Manabi Province
 1 RESI
@@ -3818,7 +4278,7 @@
 2 DATE ABT 20 FEB 1900
 2 PLAC Ecuadorian Consulate, Room 1402, 11 Broadway, New York, Ne
 3 CONC w York, USA
-2 SOUR @S68@
+2 SOUR @S94@
 3 QUAY 1
 2 NOTE appointed by Eloy Alfaro, President of Ecuador
 1 RESI
@@ -3837,47 +4297,47 @@
 3 PAGE Year: 1900; Census Place: Brooklyn Ward 23, Kings, New York
 4 CONC ; Roll: 1062; Page: 7B; Enumeration District: 0414; FHL micr
 4 CONC ofilm: 1241062
-3 OBJE @WQIKjlraSvyuh75lMcGV@
+3 OBJE @M2@
 3 _APID 1,7602::55538888
 2 NOTE Age: 50; Marital Status: Married; Relation to Head of House
 3 CONC : Head
 1 TITL Condecoración de Segunda Clase del Busto del Libertador
 2 DATE OCT 1900
 2 PLAC Venezuela
-2 SOUR @S68@
+2 SOUR @S94@
 3 QUAY 1
 2 NOTE honorary title. date approx
 1 TITL Minister Plenipotenciary to Venezuela
 2 DATE OCT 1900
-2 SOUR @S68@
+2 SOUR @S94@
 3 QUAY 1
 2 NOTE while living in Brooklyn?
 1 RESI
 2 DATE OCT 1900
 2 PLAC Nicaragua
-2 SOUR @S68@
+2 SOUR @S94@
 3 QUAY 1
 2 NOTE maybe first Ecuador, then Venesuela, then Nicaragua?
 1 TITL Minister of Education
 2 DATE ABT DEC 1900
 2 PLAC Ecuador
-2 SOUR @S68@
+2 SOUR @S94@
 3 QUAY 1
 1 RESI
 2 DATE ABT DEC 1900
 2 PLAC Ecuador
-2 SOUR @S68@
+2 SOUR @S94@
 3 QUAY 1
 1 TITL Minister of the Interior
 2 DATE ABT JAN 1901
 2 PLAC Ecuador
-2 SOUR @S68@
+2 SOUR @S94@
 3 QUAY 1
 1 EVEN
 2 TYPE published
 2 DATE ABT 1901
 2 PLAC Ecuador
-2 SOUR @S68@
+2 SOUR @S94@
 3 QUAY 1
 2 NOTE published first Atlas of Ecuador (while he was Minister of E
 3 CONC ducation)
@@ -3891,7 +4351,7 @@
 3 MAP
 4 LATI N42.7531
 4 LONG W74.2224
-2 SOUR @S68@
+2 SOUR @S94@
 3 QUAY 1
 1 RESI
 2 DATE 1905
@@ -3900,7 +4360,7 @@
 3 PAGE New York State Archives; Albany, New York; State Populatio
 4 CONC n Census Schedules, 1905; Election District: A.D. 18 E.D. 16
 4 CONC ; City: Brooklyn; County: Kings; Page: 34
-3 OBJE @oVVo6benTzaeKBTMZDEv@
+3 OBJE @M34@
 3 _APID 1,7364::1517651
 2 NOTE Relationship to Head: Head
 1 OCCU Consul General of Ecuador
@@ -3930,7 +4390,7 @@
 3 MAP
 4 LATI N42.7531
 4 LONG W74.2224
-2 SOUR @S68@
+2 SOUR @S94@
 3 QUAY 1
 2 NOTE Virutas [meaning Shavings in English]
 3 CONT Title: Virutas, o Almanaque de pensamientos sinceros
@@ -3942,7 +4402,7 @@
 3 MAP
 4 LATI N42.7531
 4 LONG W74.2224
-2 SOUR @S68@
+2 SOUR @S94@
 3 QUAY 1
 2 NOTE Title: Historia de una excomunión en el Ecuador.
 3 CONT Publication: American Bank Note Co., New York, 1909.
@@ -4169,13 +4629,13 @@
 3 MAP
 4 LATI N40.65
 4 LONG W73.95
-2 SOUR @S68@
+2 SOUR @S94@
 3 QUAY 1
 2 NOTE possibly 2205 Beverly Rd.
 1 OCCU Minister of the Interior
 2 DATE 1911
 2 PLAC Ecuador
-2 SOUR @S68@
+2 SOUR @S94@
 3 QUAY 1
 1 RESI
 2 DATE 01 JUN 1915
@@ -4184,7 +4644,7 @@
 3 PAGE New York State Archives; Albany, New York; State Populatio
 4 CONC n Census Schedules, 1915; Election District: 24; Assembly Di
 4 CONC strict: 18; City: New York; County: Kings; Page: 48
-3 OBJE @Ytym72GVSnyP9XaO24dZ@
+3 OBJE @M35@
 3 _APID 1,2703::4343074
 2 NOTE Age: 68; Relation to Head of House: Head
 1 DEAT
@@ -4221,19 +4681,19 @@
 3 MAP
 4 LATI S0.2167
 4 LONG W78.5
-2 SOUR @S68@
+2 SOUR @S94@
 1 DEAT
 2 DATE 1918
 2 PLAC Quito, Pichincha, Ecuador
 3 MAP
 4 LATI S0.2167
 4 LONG W78.5
-2 SOUR @S68@
+2 SOUR @S94@
 1 _XY 1636 1684
 0 @I176@ INDI
 1 REFN b01f6a83-6303-4178-986d-c2f2120a983c
 1 NAME Gregoria /López/
-2 SOUR @S68@
+2 SOUR @S94@
 1 SEX F
 1 FAMC @F65@
 1 _XY 2240 1368
@@ -4446,15 +4906,15 @@
 3 PAGE New York State Archives; Albany, New York; State Populatio
 4 CONC n Census Schedules, 1905; Election District: A.D. 18 E.D. 16
 4 CONC ; City: Brooklyn; County: Kings; Page: 34
-3 OBJE @oVVo6benTzaeKBTMZDEv@
+3 OBJE @M34@
 3 _APID 1,7364::1518426
 2 SOUR @es9CfZUrS7S7jzWga8jJ@
 3 PAGE New York State Archives; Albany, New York; State Populatio
 4 CONC n Census Schedules, 1915; Election District: 24; Assembly Di
 4 CONC strict: 18; City: New York; County: Kings; Page: 48
-3 OBJE @Ytym72GVSnyP9XaO24dZ@
+3 OBJE @M35@
 3 _APID 1,2703::4343083
-2 SOUR @S68@
+2 SOUR @S94@
 3 QUAY 1
 2 SOUR @S62@
 3 PAGE "Manifests of Alien Arrivals at Buffalo, Lewiston, Niagara F
@@ -4734,13 +5194,13 @@
 3 PAGE New York State Archives; Albany, New York; State Populatio
 4 CONC n Census Schedules, 1905; Election District: A.D. 18 E.D. 16
 4 CONC ; City: Brooklyn; County: Kings; Page: 34
-3 OBJE @oVVo6benTzaeKBTMZDEv@
+3 OBJE @M34@
 3 _APID 1,7364::1518426
 2 SOUR @es9CfZUrS7S7jzWga8jJ@
 3 PAGE New York State Archives; Albany, New York; State Populatio
 4 CONC n Census Schedules, 1915; Election District: 24; Assembly Di
 4 CONC strict: 18; City: New York; County: Kings; Page: 48
-3 OBJE @Ytym72GVSnyP9XaO24dZ@
+3 OBJE @M35@
 3 _APID 1,2703::4343083
 2 SOUR @S62@
 3 PAGE "Manifests of Alien Arrivals at Buffalo, Lewiston, Niagara F
@@ -4916,7 +5376,7 @@
 3 PAGE New York State Archives; Albany, New York; State Populatio
 4 CONC n Census Schedules, 1905; Election District: A.D. 18 E.D. 16
 4 CONC ; City: Brooklyn; County: Kings; Page: 34
-3 OBJE @oVVo6benTzaeKBTMZDEv@
+3 OBJE @M34@
 3 _APID 1,7364::1518426
 2 NOTE Relationship to Head: Son
 1 RESI
@@ -4929,7 +5389,7 @@
 3 PAGE New York State Archives; Albany, New York; State Populatio
 4 CONC n Census Schedules, 1915; Election District: 24; Assembly Di
 4 CONC strict: 18; City: New York; County: Kings; Page: 48
-3 OBJE @Ytym72GVSnyP9XaO24dZ@
+3 OBJE @M35@
 3 _APID 1,2703::4343083
 2 NOTE Age: 22; Relation to Head of House: Son
 1 RESI
@@ -5523,20 +5983,20 @@
 4 LONG W73.95
 2 SOUR @AjMegeGBTpu0nJWDRMDA@
 3 _APID 1,9131::3345252
-2 SOUR @S68@
+2 SOUR @S94@
 3 QUAY 1
 1 _XY 3284 2054
 0 @I177@ INDI
 1 REFN 77b6c54a-0f00-459a-84e4-5551642ba792
 1 NAME Joaquín /López/
-2 SOUR @S68@
+2 SOUR @S94@
 1 SEX M
 1 FAMC @F21@
 1 _XY 1926 1699
 0 @I178@ INDI
 1 REFN 18fb523d-b435-43e8-b33d-373b8dc1c886
 1 NAME Julia /López/
-2 SOUR @S68@
+2 SOUR @S94@
 1 SEX F
 1 FAMC @F61@
 1 BIRT
@@ -5545,19 +6005,19 @@
 3 MAP
 4 LATI S0.2167
 4 LONG W78.5
-2 SOUR @S68@
+2 SOUR @S94@
 1 DEAT
 2 DATE ABT 1880
 2 PLAC Quito, Pichincha, Ecuador
 3 MAP
 4 LATI S0.2167
 4 LONG W78.5
-2 SOUR @S68@
+2 SOUR @S94@
 1 _XY 1422 1921
 0 @I179@ INDI
 1 REFN 21a9997a-f44e-41c3-a7f4-d8498f3165f0
 1 NAME Julio César /López/
-2 SOUR @S68@
+2 SOUR @S94@
 1 SEX M
 1 FAMC @F61@
 1 BIRT
@@ -5566,14 +6026,14 @@
 3 MAP
 4 LATI S0.2167
 4 LONG W78.5
-2 SOUR @S68@
+2 SOUR @S94@
 1 DEAT
 2 DATE 08 JUN 1896
 2 PLAC Quito, Pichincha, Ecuador
 3 MAP
 4 LATI S0.2167
 4 LONG W78.5
-2 SOUR @S68@
+2 SOUR @S94@
 1 _XY 1525 1921
 0 @1C3rIQUbRIOk40Lcs7MR@ INDI
 1 REFN 1b5b6e74-7605-445e-bce4-91fd39e89553
@@ -5582,47 +6042,47 @@
 3 PAGE Year: 1900; Census Place: Brooklyn Ward 23, Kings, New York
 4 CONC ; Roll: 1062; Page: 7B; Enumeration District: 0414; FHL micr
 4 CONC ofilm: 1241062
-3 OBJE @WQIKjlraSvyuh75lMcGV@
+3 OBJE @M2@
 3 _APID 1,7602::55538890
 2 SOUR @Z0SQaG1kRbWQtiKMUjof@
 3 PAGE Year: 1910; Census Place: Brooklyn Ward 29, Kings, New York
 4 CONC ; Roll: T624_982; Page: 4A; Enumeration District: 0931; FH
 4 CONC L microfilm: 1374995
-3 OBJE @wW2yF8ZoTBaLoIVj2pFS@
+3 OBJE @M3@
 3 _APID 1,7884::119643621
 2 SOUR @pZSp306qQOGHvPqm0c60@
 3 PAGE Year: 1920; Census Place: Brooklyn Assembly District 21, Kin
 4 CONC gs, New York
-3 OBJE @zkZ4Hwa0RDeTpdBJDrjk@
+3 OBJE @M7@
 3 _APID 1,6061::85922396
 2 SOUR @cYpH9GKbREexd30xG7Ri@
 3 PAGE Year: 1930; Census Place: Brooklyn, Kings, New York; Roll: 1
 4 CONC 538; Page: 16A; Enumeration District: 870; Image: 506.0; FH
 4 CONC L microfilm: 2341273
-3 OBJE @hED67TPRQbaNutMsLViG@
+3 OBJE @M11@
 3 _APID 1,6224::40607213
 2 SOUR @wasQXzkoQbebWtJVQDxQ@
 3 PAGE Year: 1940; Census Place: New York, Kings, New York; Roll: T
 4 CONC 627_2615; Page: 2A; Enumeration District: 24-2589
-3 OBJE @EuNyrMxrSMqPhfJjXwGK@
+3 OBJE @M15@
 3 _APID 1,2442::5009215
 2 SOUR @Ap7270q8QDmqnp4oKY6u@
 3 PAGE New York State Archives; Albany, New York; State Populatio
 4 CONC n Census Schedules, 1905; Election District: A.D. 18 E.D. 16
 4 CONC ; City: Brooklyn; County: Kings; Page: 34
-3 OBJE @oVVo6benTzaeKBTMZDEv@
+3 OBJE @M34@
 3 _APID 1,7364::1035434
 2 SOUR @es9CfZUrS7S7jzWga8jJ@
 3 PAGE New York State Archives; Albany, New York; State Populatio
 4 CONC n Census Schedules, 1915; Election District: 24; Assembly Di
 4 CONC strict: 18; City: New York; County: Kings; Page: 48
-3 OBJE @Ytym72GVSnyP9XaO24dZ@
+3 OBJE @M35@
 3 _APID 1,2703::4343101
 2 SOUR @qbJrAuEoSlOpEAW1dC2d@
 3 PAGE New York State Archives; Albany, New York; State Populatio
 4 CONC n Census Schedules, 1925; Election District: 62; Assembly Di
 4 CONC strict: 21; City: Brooklyn; County: Kings; Page: 14
-3 OBJE @wsV4DyQST5mb92NIWFap@
+3 OBJE @M37@
 3 _APID 1,2704::18252562
 1 SEX F
 1 FAMC @KHbLkt6WRqSDo0DTyyKL@
@@ -5637,29 +6097,29 @@
 3 PAGE Year: 1900; Census Place: Brooklyn Ward 23, Kings, New York
 4 CONC ; Roll: 1062; Page: 7B; Enumeration District: 0414; FHL micr
 4 CONC ofilm: 1241062
-3 OBJE @WQIKjlraSvyuh75lMcGV@
+3 OBJE @M2@
 3 _APID 1,7602::55538890
 2 SOUR @Z0SQaG1kRbWQtiKMUjof@
 3 PAGE Year: 1910; Census Place: Brooklyn Ward 29, Kings, New York
 4 CONC ; Roll: T624_982; Page: 4A; Enumeration District: 0931; FH
 4 CONC L microfilm: 1374995
-3 OBJE @wW2yF8ZoTBaLoIVj2pFS@
+3 OBJE @M3@
 3 _APID 1,7884::119643621
 2 SOUR @pZSp306qQOGHvPqm0c60@
 3 PAGE Year: 1920; Census Place: Brooklyn Assembly District 21, Kin
 4 CONC gs, New York
-3 OBJE @zkZ4Hwa0RDeTpdBJDrjk@
+3 OBJE @M7@
 3 _APID 1,6061::85922396
 2 SOUR @cYpH9GKbREexd30xG7Ri@
 3 PAGE Year: 1930; Census Place: Brooklyn, Kings, New York; Roll: 1
 4 CONC 538; Page: 16A; Enumeration District: 870; Image: 506.0; FH
 4 CONC L microfilm: 2341273
-3 OBJE @hED67TPRQbaNutMsLViG@
+3 OBJE @M11@
 3 _APID 1,6224::40607213
 2 SOUR @wasQXzkoQbebWtJVQDxQ@
 3 PAGE Year: 1940; Census Place: New York, Kings, New York; Roll: T
 4 CONC 627_2615; Page: 2A; Enumeration District: 24-2589
-3 OBJE @EuNyrMxrSMqPhfJjXwGK@
+3 OBJE @M15@
 3 _APID 1,2442::5009215
 2 SOUR @1O8LcKCjQo6uGwMQ77sB@
 3 OBJE @M77@
@@ -5667,19 +6127,19 @@
 3 PAGE New York State Archives; Albany, New York; State Populatio
 4 CONC n Census Schedules, 1905; Election District: A.D. 18 E.D. 16
 4 CONC ; City: Brooklyn; County: Kings; Page: 34
-3 OBJE @oVVo6benTzaeKBTMZDEv@
+3 OBJE @M34@
 3 _APID 1,7364::1035434
 2 SOUR @es9CfZUrS7S7jzWga8jJ@
 3 PAGE New York State Archives; Albany, New York; State Populatio
 4 CONC n Census Schedules, 1915; Election District: 24; Assembly Di
 4 CONC strict: 18; City: New York; County: Kings; Page: 48
-3 OBJE @Ytym72GVSnyP9XaO24dZ@
+3 OBJE @M35@
 3 _APID 1,2703::4343101
 2 SOUR @qbJrAuEoSlOpEAW1dC2d@
 3 PAGE New York State Archives; Albany, New York; State Populatio
 4 CONC n Census Schedules, 1925; Election District: 62; Assembly Di
 4 CONC strict: 21; City: Brooklyn; County: Kings; Page: 14
-3 OBJE @wsV4DyQST5mb92NIWFap@
+3 OBJE @M37@
 3 _APID 1,2704::18252562
 2 NOTE 1900 Census lists birth as Aug 1878.
 3 CONT Death cert. lists as Aug 26, 1877.
@@ -5732,7 +6192,7 @@
 3 MAP
 4 LATI N40.7744
 4 LONG W73.9721
-2 SOUR @S68@
+2 SOUR @S94@
 3 QUAY 1
 2 NOTE with her father Felicisimo
 1 CENS
@@ -5751,7 +6211,7 @@
 3 PAGE Year: 1900; Census Place: Brooklyn Ward 23, Kings, New York
 4 CONC ; Roll: 1062; Page: 7B; Enumeration District: 0414; FHL micr
 4 CONC ofilm: 1241062
-3 OBJE @WQIKjlraSvyuh75lMcGV@
+3 OBJE @M2@
 3 _APID 1,7602::55538890
 2 SOUR @6aqPLR14TiS7VI3rS1TL@
 2 NOTE Age: 21; Marital Status: Married; Relation to Head of House
@@ -5763,7 +6223,7 @@
 3 PAGE New York State Archives; Albany, New York; State Populatio
 4 CONC n Census Schedules, 1905; Election District: A.D. 18 E.D. 16
 4 CONC ; City: Brooklyn; County: Kings; Page: 34
-3 OBJE @oVVo6benTzaeKBTMZDEv@
+3 OBJE @M34@
 3 _APID 1,7364::1035434
 2 NOTE Relation to Head of House: Daughter
 1 CENS
@@ -5781,7 +6241,7 @@
 3 PAGE Year: 1910; Census Place: Brooklyn Ward 29, Kings, New York
 4 CONC ; Roll: T624_982; Page: 4A; Enumeration District: 0931; FH
 4 CONC L microfilm: 1374995
-3 OBJE @wW2yF8ZoTBaLoIVj2pFS@
+3 OBJE @M3@
 3 _APID 1,7884::119643621
 2 NOTE Age: 32; Marital Status: Married; Relation to Head of House
 3 CONC : Daughter
@@ -5795,7 +6255,7 @@
 3 PAGE New York State Archives; Albany, New York; State Populatio
 4 CONC n Census Schedules, 1915; Election District: 24; Assembly Di
 4 CONC strict: 18; City: New York; County: Kings; Page: 48
-3 OBJE @Ytym72GVSnyP9XaO24dZ@
+3 OBJE @M35@
 3 _APID 1,2703::4343101
 2 NOTE Age: 37; Relation to Head of House: Daughter
 1 RESI
@@ -5821,7 +6281,7 @@
 2 SOUR @pZSp306qQOGHvPqm0c60@
 3 PAGE Year: 1920; Census Place: Brooklyn Assembly District 21, Kin
 4 CONC gs, New York
-3 OBJE @zkZ4Hwa0RDeTpdBJDrjk@
+3 OBJE @M7@
 3 _APID 1,6061::85922396
 2 NOTE Age: 36; Marital Status: Married; Relation to Head of House
 3 CONC : Wife
@@ -5835,7 +6295,7 @@
 3 PAGE New York State Archives; Albany, New York; State Populatio
 4 CONC n Census Schedules, 1925; Election District: 62; Assembly Di
 4 CONC strict: 21; City: Brooklyn; County: Kings; Page: 14
-3 OBJE @wsV4DyQST5mb92NIWFap@
+3 OBJE @M37@
 3 _APID 1,2704::18252562
 2 NOTE Age: 47; Relation to Head of House: Wife
 1 CENS
@@ -5853,7 +6313,7 @@
 3 PAGE Year: 1930; Census Place: Brooklyn, Kings, New York; Roll: 1
 4 CONC 538; Page: 16A; Enumeration District: 870; Image: 506.0; FH
 4 CONC L microfilm: 2341273
-3 OBJE @hED67TPRQbaNutMsLViG@
+3 OBJE @M11@
 3 _APID 1,6224::40607213
 2 NOTE Age: 52; Marital Status: Married; Relation to Head of House
 3 CONC : Wife
@@ -5866,7 +6326,7 @@
 2 SOUR @wasQXzkoQbebWtJVQDxQ@
 3 PAGE Year: 1940; Census Place: New York, Kings, New York; Roll: T
 4 CONC 627_2615; Page: 2A; Enumeration District: 24-2589
-3 OBJE @EuNyrMxrSMqPhfJjXwGK@
+3 OBJE @M15@
 3 _APID 1,2442::5009215
 1 RESI
 2 DATE 01 APR 1940
@@ -5877,7 +6337,7 @@
 2 SOUR @wasQXzkoQbebWtJVQDxQ@
 3 PAGE Year: 1940; Census Place: New York, Kings, New York; Roll: T
 4 CONC 627_2615; Page: 2A; Enumeration District: 24-2589
-3 OBJE @EuNyrMxrSMqPhfJjXwGK@
+3 OBJE @M15@
 3 _APID 1,2442::5009215
 2 NOTE Age: 62; Marital Status: Married; Relation to Head of House
 3 CONC : Wife
@@ -5913,7 +6373,7 @@
 0 @I181@ INDI
 1 REFN cf418531-cb55-4c14-b82e-1c070f3191b0
 1 NAME Lorenzo /López/
-2 SOUR @S68@
+2 SOUR @S94@
 3 QUAY 1
 1 SEX M
 1 FAMS @F65@
@@ -5928,14 +6388,14 @@
 4 CONC 715, 1897-1957; Microfilm Roll: Roll 1693; Line: 13; Page Nu
 4 CONC mber: 194
 3 OBJE @M73@
-3 _APID 1,7488::4036554315
+3 _APID 1,7488::__TODO__
 2 SOUR @Ap7270q8QDmqnp4oKY6u@
 3 PAGE New York State Archives; Albany, New York; State Populatio
 4 CONC n Census Schedules, 1905; Election District: A.D. 18 E.D. 16
 4 CONC ; City: Brooklyn; County: Kings; Page: 34
-3 OBJE @oVVo6benTzaeKBTMZDEv@
+3 OBJE @M34@
 3 _APID 1,7364::1518424
-2 SOUR @S68@
+2 SOUR @S94@
 3 QUAY 1
 1 SEX M
 1 FAMC @KHbLkt6WRqSDo0DTyyKL@
@@ -5956,9 +6416,9 @@
 3 PAGE New York State Archives; Albany, New York; State Populatio
 4 CONC n Census Schedules, 1905; Election District: A.D. 18 E.D. 16
 4 CONC ; City: Brooklyn; County: Kings; Page: 34
-3 OBJE @oVVo6benTzaeKBTMZDEv@
+3 OBJE @M34@
 3 _APID 1,7364::1518424
-2 SOUR @S68@
+2 SOUR @S94@
 2 SOUR @HCAlSp2XSuysa69AIdrJ@
 3 QUAY 2
 1 BAPM
@@ -5972,7 +6432,7 @@
 3 MAP
 4 LATI N40.7744
 4 LONG W73.9721
-2 SOUR @S68@
+2 SOUR @S94@
 1 RESI
 2 DATE 1905
 2 PLAC 680 Saint John's Place, Brooklyn, Kings, New York, USA
@@ -5980,7 +6440,7 @@
 3 PAGE New York State Archives; Albany, New York; State Populatio
 4 CONC n Census Schedules, 1905; Election District: A.D. 18 E.D. 16
 4 CONC ; City: Brooklyn; County: Kings; Page: 34
-3 OBJE @oVVo6benTzaeKBTMZDEv@
+3 OBJE @M34@
 3 _APID 1,7364::1518424
 2 NOTE Relationship to Head: Son
 1 RESI
@@ -6021,13 +6481,13 @@
 3 MAP
 4 LATI S2.1667
 4 LONG W79.9
-2 SOUR @S68@
+2 SOUR @S94@
 3 QUAY 1
 1 _XY 2605 1962
 0 @I182@ INDI
 1 REFN a1e4b37e-1b09-4884-bfc3-1344dc61b5e2
 1 NAME Nicolás /López/
-2 SOUR @S68@
+2 SOUR @S94@
 1 SEX M
 1 FAMC @F21@
 1 _XY 2047 1699
@@ -6040,7 +6500,7 @@
 0 @I183@ INDI
 1 REFN 3584b62c-f541-422d-a403-0c21cb103243
 1 NAME Pacífica /López/
-2 SOUR @S68@
+2 SOUR @S94@
 1 SEX F
 1 FAMC @F65@
 1 _XY 2365 1368
@@ -6071,7 +6531,7 @@
 3 PAGE New York State Archives; Albany, New York; State Populatio
 4 CONC n Census Schedules, 1915; Election District: 24; Assembly Di
 4 CONC strict: 18; City: New York; County: Kings; Page: 48
-3 OBJE @Ytym72GVSnyP9XaO24dZ@
+3 OBJE @M35@
 3 _APID 1,2703::4343096
 1 SEX M
 1 FAMC @OKdDV6OTTgqa6v5V076w@
@@ -6105,7 +6565,7 @@
 3 PAGE New York State Archives; Albany, New York; State Populatio
 4 CONC n Census Schedules, 1915; Election District: 24; Assembly Di
 4 CONC strict: 18; City: New York; County: Kings; Page: 48
-3 OBJE @Ytym72GVSnyP9XaO24dZ@
+3 OBJE @M35@
 3 _APID 1,2703::4343096
 1 RESI
 2 DATE 01 JUN 1915
@@ -6117,7 +6577,7 @@
 3 PAGE New York State Archives; Albany, New York; State Populatio
 4 CONC n Census Schedules, 1915; Election District: 24; Assembly Di
 4 CONC strict: 18; City: New York; County: Kings; Page: 48
-3 OBJE @Ytym72GVSnyP9XaO24dZ@
+3 OBJE @M35@
 3 _APID 1,2703::4343096
 2 NOTE Relation to Head of House: Grandson
 1 RESI
@@ -6189,7 +6649,7 @@
 0 @I184@ INDI
 1 REFN 032d8ed2-8762-4289-b16e-25cc986dc1ee
 1 NAME Rosario /López/
-2 SOUR @S68@
+2 SOUR @S94@
 1 SEX F
 1 FAMC @F65@
 1 _XY 2486 1368
@@ -6203,7 +6663,7 @@
 0 @gbOkUQZ3S6iP3G5QQpd8@ INDI
 1 REFN c11d9537-9e6b-4567-86c1-cfc02e17bdf8
 1 NAME Ulises /López/
-2 SOUR @S68@
+2 SOUR @S94@
 3 QUAY 1
 1 SEX M
 1 FAMC @KHbLkt6WRqSDo0DTyyKL@
@@ -6222,7 +6682,7 @@
 3 MAP
 4 LATI S1.3333
 4 LONG W80.5833
-2 SOUR @S68@
+2 SOUR @S94@
 1 BAPM
 2 DATE 05 MAR 1884
 2 PLAC Jipijapa, Manabi, Ecuador
@@ -6238,7 +6698,7 @@
 3 MAP
 4 LATI S2.1667
 4 LONG W79.9
-2 SOUR @S68@
+2 SOUR @S94@
 3 QUAY 1
 1 _XY 2488 1970
 0 @ExDZxRYgTCWBJ19SGxAE@ INDI
@@ -6261,6 +6721,9 @@
 1 SEX F
 1 FAMS @F56@
 1 _XY 8009 430
+0 @I254@ INDI
+1 NAME [REDACTED]
+1 FAMS @F172@
 0 @I186@ INDI
 1 REFN 3a9f989b-d46c-4aea-a123-9b2af7cd3f93
 1 NAME Sebastián /Moyano/
@@ -6321,30 +6784,540 @@
 1 SEX F
 1 FAMS @F18@
 1 _XY 1566 1295
+0 @I215@ INDI
+1 REFN e85080ec-9e50-4c81-90b0-b2fc7785e8aa
+1 NAME Cassandra /Parkinson/
+1 SEX F
+1 FAMS @F158@
+0 @I256@ INDI
+1 REFN 6fd72ea9-21fa-4ad0-8f82-6c79d1f0efcb
+1 NAME Albert /Pazmiño/
+1 SEX M
+1 FAMC @F174@
+1 BIRT
+2 DATE ABT 1945
+2 PLAC Brooklyn, Kings, New York, USA
+3 MAP
+4 LATI N40.65
+4 LONG W73.95
+1 DEAT
+2 DATE ABT 1945
+2 PLAC Brooklyn, Kings, New York, USA
+3 MAP
+4 LATI N40.65
+4 LONG W73.95
+2 NOTE Died at birth, aged about 1 hour.
+1 _XY 3936 4394
 0 @BWtACvWjTEOJhfN1lpVU@ INDI
 1 REFN 16a56ce3-6b6f-4eda-99f1-fec798f7de74
 1 NAME Alberto Augusto /Pazmiño/
+2 SOUR @Z0SQaG1kRbWQtiKMUjof@
+3 PAGE Year: 1910; Census Place: Brooklyn Ward 29, Kings, New York
+4 CONC ; Roll: T624_982; Page: 4A; Enumeration District: 0931; FH
+4 CONC L microfilm: 1374995
+3 OBJE @M3@
+3 _APID 1,7884::119643626
+2 SOUR @pZSp306qQOGHvPqm0c60@
+3 PAGE Year: 1920; Census Place: Brooklyn Assembly District 21, Kin
+4 CONC gs, New York
+3 OBJE @M7@
+3 _APID 1,6061::85922401
+2 SOUR @cYpH9GKbREexd30xG7Ri@
+3 PAGE Year: 1930; Census Place: Brooklyn, Kings, New York; Roll: 1
+4 CONC 538; Page: 16A; Enumeration District: 870; Image: 506.0; FH
+4 CONC L microfilm: 2341273
+3 OBJE @M11@
+3 _APID 1,6224::40607233
+2 SOUR @wasQXzkoQbebWtJVQDxQ@
+3 PAGE Year: 1940; Census Place: New York, Kings, New York; Roll: T
+4 CONC 627_2615; Page: 2A; Enumeration District: 24-2589
+3 OBJE @M15@
+3 _APID 1,2442::5009221
+2 SOUR @G8TESznJRGCKBg1WwF0w@
+3 PAGE Ancestry Family Tree
+3 DATA
+4 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=62861
+5 CONC &pid=50
+2 SOUR @S60@
+3 PAGE New York City Municipal Archives; New York, New York; Boroug
+4 CONC h: Brooklyn; Albert A. Pazmino
+3 OBJE @M110@
+3 _APID 1,61406::910191
+2 SOUR @Ju7QFFoAQjKaE1Ey19sj@
+3 _APID 1,9089::2927758
+2 SOUR @es9CfZUrS7S7jzWga8jJ@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1915; Election District: 24; Assembly Di
+4 CONC strict: 18; City: New York; County: Kings; Page: 48
+3 OBJE @M35@
+3 _APID 1,2703::4343117
+2 SOUR @qbJrAuEoSlOpEAW1dC2d@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1925; Election District: 62; Assembly Di
+4 CONC strict: 21; City: Brooklyn; County: Kings; Page: 14
+3 OBJE @M37@
+3 _APID 1,2704::18252578
+2 SOUR @S94@
+3 QUAY 1
+2 SOUR @Oy22YaudTC62HcdmoSkr@
+3 OBJE @M111@
+3 _APID 1,2469::1461928288
+2 SOUR @S114@
+3 _APID 1,8750::2375455
+2 SOUR @S107@
+3 _APID 1,2441::3240573
+2 SOUR @8SpggOHIRZiow2E3C3cu@
+3 _APID 1,60525::681567
+2 SOUR @GFCLw2yOQvibba3edsSE@
+3 PAGE Number: 055-09-1749; Issue State: New York; Issue Date: Befo
+4 CONC re 1951
+3 _APID 1,3693::47841115
+2 SOUR @S115@
+3 _APID 1,8939::116061
+2 SOUR @S112@
+3 _APID 1,70572::589184
 1 SEX M
 1 FAMC @1SlIoqLYRCqfA1ineuNc@
+1 FAMS @F174@
 1 BIRT
 2 DATE 08 MAY 1909
+2 PLAC Brooklyn, Kings, New York, USA
+3 MAP
+4 LATI N40.65
+4 LONG W73.95
+2 SOUR @Z0SQaG1kRbWQtiKMUjof@
+3 PAGE Year: 1910; Census Place: Brooklyn Ward 29, Kings, New York
+4 CONC ; Roll: T624_982; Page: 4A; Enumeration District: 0931; FH
+4 CONC L microfilm: 1374995
+3 OBJE @M3@
+3 _APID 1,7884::119643626
+2 SOUR @pZSp306qQOGHvPqm0c60@
+3 PAGE Year: 1920; Census Place: Brooklyn Assembly District 21, Kin
+4 CONC gs, New York
+3 OBJE @M7@
+3 _APID 1,6061::85922401
+2 SOUR @cYpH9GKbREexd30xG7Ri@
+3 PAGE Year: 1930; Census Place: Brooklyn, Kings, New York; Roll: 1
+4 CONC 538; Page: 16A; Enumeration District: 870; Image: 506.0; FH
+4 CONC L microfilm: 2341273
+3 OBJE @M11@
+3 _APID 1,6224::40607233
+2 SOUR @wasQXzkoQbebWtJVQDxQ@
+3 PAGE Year: 1940; Census Place: New York, Kings, New York; Roll: T
+4 CONC 627_2615; Page: 2A; Enumeration District: 24-2589
+3 OBJE @M15@
+3 _APID 1,2442::5009221
+2 SOUR @Ju7QFFoAQjKaE1Ey19sj@
+3 _APID 1,9089::2927758
+2 SOUR @es9CfZUrS7S7jzWga8jJ@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1915; Election District: 24; Assembly Di
+4 CONC strict: 18; City: New York; County: Kings; Page: 48
+3 OBJE @M35@
+3 _APID 1,2703::4343117
+2 SOUR @qbJrAuEoSlOpEAW1dC2d@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1925; Election District: 62; Assembly Di
+4 CONC strict: 21; City: Brooklyn; County: Kings; Page: 14
+3 OBJE @M37@
+3 _APID 1,2704::18252578
+2 SOUR @S94@
+3 QUAY 1
+2 SOUR @S114@
+3 _APID 1,8750::2375455
+2 SOUR @S107@
+3 _APID 1,2441::3240573
+2 SOUR @8SpggOHIRZiow2E3C3cu@
+3 _APID 1,60525::681567
+2 SOUR @GFCLw2yOQvibba3edsSE@
+3 PAGE Number: 055-09-1749; Issue State: New York; Issue Date: Befo
+4 CONC re 1951
+3 _APID 1,3693::47841115
+2 SOUR @S115@
+3 _APID 1,8939::116061
+2 SOUR @S112@
+3 _APID 1,70572::589184
+2 NOTE Social Security Death Index gives same date.
+1 RESI
+2 DATE 1910
+2 PLAC Brooklyn, Kings, New York, USA
+3 MAP
+4 LATI N40.65
+4 LONG W73.95
+2 SOUR @Z0SQaG1kRbWQtiKMUjof@
+3 PAGE Year: 1910; Census Place: Brooklyn Ward 29, Kings, New York
+4 CONC ; Roll: T624_982; Page: 4A; Enumeration District: 0931; FH
+4 CONC L microfilm: 1374995
+3 OBJE @M3@
+3 _APID 1,7884::119643626
+2 NOTE Age in 1910: 0; Age in 1910: 11/12; Marital Status: Single
+3 CONC ; Relation to Head of House: Grandson
+1 RESI
+2 DATE 01 JUN 1915
+2 PLAC Brooklyn, Kings, New York, USA
+3 MAP
+4 LATI N40.65
+4 LONG W73.95
+2 SOUR @es9CfZUrS7S7jzWga8jJ@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1915; Election District: 24; Assembly Di
+4 CONC strict: 18; City: New York; County: Kings; Page: 48
+3 OBJE @M35@
+3 _APID 1,2703::4343117
+2 NOTE Age: 6; Relation to Head of House: Grandson
+1 RESI
+2 DATE 1920
+2 PLAC Brooklyn, Kings, New York, USA
+3 MAP
+4 LATI N40.65
+4 LONG W73.95
+2 SOUR @pZSp306qQOGHvPqm0c60@
+3 PAGE Year: 1920; Census Place: Brooklyn Assembly District 21, Kin
+4 CONC gs, New York
+3 OBJE @M7@
+3 _APID 1,6061::85922401
+2 NOTE Age: 9; Marital Status: Single; Relation to Head of House: S
+3 CONC on
+1 RESI
+2 DATE 01 JUN 1925
+2 PLAC Brooklyn, Kings, New York, USA
+3 MAP
+4 LATI N40.65
+4 LONG W73.95
+2 SOUR @qbJrAuEoSlOpEAW1dC2d@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1925; Election District: 62; Assembly Di
+4 CONC strict: 21; City: Brooklyn; County: Kings; Page: 14
+3 OBJE @M37@
+3 _APID 1,2704::18252578
+2 NOTE Age: 16; Relation to Head of House: Son
+1 RESI
+2 DATE 1930
+2 PLAC Brooklyn, Kings, New York, USA
+3 MAP
+4 LATI N40.65
+4 LONG W73.95
+2 SOUR @cYpH9GKbREexd30xG7Ri@
+3 PAGE Year: 1930; Census Place: Brooklyn, Kings, New York; Roll: 1
+4 CONC 538; Page: 16A; Enumeration District: 870; Image: 506.0; FH
+4 CONC L microfilm: 2341273
+3 OBJE @M11@
+3 _APID 1,6224::40607233
+2 NOTE Age: 20; Marital Status: Single; Relation to Head of House
+3 CONC : Son
+1 RESI
+2 DATE 1935
+2 PLAC Brooklyn, Kings, New York, USA
+3 MAP
+4 LATI N40.65
+4 LONG W73.95
+2 SOUR @wasQXzkoQbebWtJVQDxQ@
+3 PAGE Year: 1940; Census Place: New York, Kings, New York; Roll: T
+4 CONC 627_2615; Page: 2A; Enumeration District: 24-2589
+3 OBJE @M15@
+3 _APID 1,2442::5009221
+1 RESI
+2 DATE 01 APR 1940
+2 PLAC Brooklyn, Kings, New York, USA
+3 MAP
+4 LATI N40.65
+4 LONG W73.95
+2 SOUR @wasQXzkoQbebWtJVQDxQ@
+3 PAGE Year: 1940; Census Place: New York, Kings, New York; Roll: T
+4 CONC 627_2615; Page: 2A; Enumeration District: 24-2589
+3 OBJE @M15@
+3 _APID 1,2442::5009221
+2 NOTE Age: 30; Marital Status: Single; Relation to Head of House
+3 CONC : Son
+1 EVEN
+2 TYPE military
+2 DATE 28 MAR 1941
+2 PLAC Jamaica, Queens, New York, USA
+3 MAP
+4 LATI N40.6914
+4 LONG W73.8061
+2 SOUR @S115@
+3 _APID 1,8939::116061
+1 EVEN
+2 TYPE military
+2 DATE 13 JAN 1942
+2 SOUR @S114@
+3 _APID 1,8750::2375455
+2 SOUR @S107@
+3 _APID 1,2441::3240573
+2 NOTE Age: 32; : 12/03/1945
 1 DEAT
 2 DATE 24 AUG 1986
+2 PLAC Brooklyn, Kings, New York, USA
+3 MAP
+4 LATI N40.65
+4 LONG W73.95
+2 SOUR @S117@
+3 QUAY 2
+2 SOUR @S114@
+3 _APID 1,8750::2375455
+2 SOUR @S107@
+3 _APID 1,2441::3240573
+2 SOUR @8SpggOHIRZiow2E3C3cu@
+3 _APID 1,60525::681567
+2 SOUR @GFCLw2yOQvibba3edsSE@
+3 PAGE Number: 055-09-1749; Issue State: New York; Issue Date: Befo
+4 CONC re 1951
+3 _APID 1,3693::47841115
+2 SOUR @S112@
+3 _APID 1,70572::589184
+2 NOTE place given is actually place of last residence, assume plac
+3 CONC e of death from that
+1 BURI
+2 DATE 27 AUG 1986
+2 PLAC Calverton, Suffolk, New York, USA
+3 MAP
+4 LATI N40.9065
+4 LONG W72.7434
+2 SOUR @S114@
+3 _APID 1,8750::2375455
+2 SOUR @8SpggOHIRZiow2E3C3cu@
+3 _APID 1,60525::681567
+2 SOUR @S112@
+3 _APID 1,70572::589184
+1 SSN 055-09-1749
+2 SOUR @a1r7XFsISaCymdVb2Acn@
+3 QUAY 3
 1 _XY 1176 2166
 0 @j1yCKUy8RY2O8Xjdk7B7@ INDI
 1 REFN 3787c013-2c9e-4f18-810e-ed02a1f65137
 1 NAME Alfredo Ulises /Pazmiño/
+2 SOUR @Z0SQaG1kRbWQtiKMUjof@
+3 PAGE Year: 1910; Census Place: Brooklyn Ward 29, Kings, New York
+4 CONC ; Roll: T624_982; Page: 4A; Enumeration District: 0931; FH
+4 CONC L microfilm: 1374995
+3 OBJE @M3@
+3 _APID 1,7884::119643624
+2 SOUR @pZSp306qQOGHvPqm0c60@
+3 PAGE Year: 1920; Census Place: Brooklyn Assembly District 21, Kin
+4 CONC gs, New York
+3 OBJE @M7@
+3 _APID 1,6061::85922399
+2 SOUR @cYpH9GKbREexd30xG7Ri@
+3 PAGE Year: 1930; Census Place: Brooklyn, Kings, New York; Roll: 1
+4 CONC 538; Page: 16A; Enumeration District: 870; Image: 506.0; FH
+4 CONC L microfilm: 2341273
+3 OBJE @M11@
+3 _APID 1,6224::40607217
+2 SOUR @wasQXzkoQbebWtJVQDxQ@
+3 PAGE Year: 1940; Census Place: New York, Kings, New York; Roll: T
+4 CONC 627_2615; Page: 2A; Enumeration District: 24-2589
+3 OBJE @M15@
+3 _APID 1,2442::5009219
+2 SOUR @G8TESznJRGCKBg1WwF0w@
+3 PAGE Ancestry Family Tree
+3 DATA
+4 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=62861
+5 CONC &pid=52
+2 SOUR @S118@
+3 PAGE New York City Births, 1891-1902; Title: Births Reported in 1
+4 CONC 902. Borough of Brooklyn.; Certificate #: 9263
+3 _APID 1,5157::704568
+2 SOUR @Ju7QFFoAQjKaE1Ey19sj@
+3 _APID 1,9089::148563
+2 SOUR @Ap7270q8QDmqnp4oKY6u@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1905; Election District: A.D. 18 E.D. 16
+4 CONC ; City: Brooklyn; County: Kings; Page: 34
+3 OBJE @M34@
+3 _APID 1,7364::1035437
+2 SOUR @es9CfZUrS7S7jzWga8jJ@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1915; Election District: 24; Assembly Di
+4 CONC strict: 18; City: New York; County: Kings; Page: 48
+3 OBJE @M35@
+3 _APID 1,2703::4343110
+2 SOUR @qbJrAuEoSlOpEAW1dC2d@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1925; Election District: 62; Assembly Di
+4 CONC strict: 21; City: Brooklyn; County: Kings; Page: 14
+3 OBJE @M37@
+3 _APID 1,2704::18252572
+2 SOUR @S94@
+3 QUAY 1
 1 SEX M
 1 FAMC @1SlIoqLYRCqfA1ineuNc@
 1 BIRT
 2 DATE 25 MAY 1902
+2 PLAC Brooklyn, Kings, New York, USA
+3 MAP
+4 LATI N40.65
+4 LONG W73.95
+2 SOUR @Z0SQaG1kRbWQtiKMUjof@
+3 PAGE Year: 1910; Census Place: Brooklyn Ward 29, Kings, New York
+4 CONC ; Roll: T624_982; Page: 4A; Enumeration District: 0931; FH
+4 CONC L microfilm: 1374995
+3 OBJE @M3@
+3 _APID 1,7884::119643624
+2 SOUR @pZSp306qQOGHvPqm0c60@
+3 PAGE Year: 1920; Census Place: Brooklyn Assembly District 21, Kin
+4 CONC gs, New York
+3 OBJE @M7@
+3 _APID 1,6061::85922399
+2 SOUR @cYpH9GKbREexd30xG7Ri@
+3 PAGE Year: 1930; Census Place: Brooklyn, Kings, New York; Roll: 1
+4 CONC 538; Page: 16A; Enumeration District: 870; Image: 506.0; FH
+4 CONC L microfilm: 2341273
+3 OBJE @M11@
+3 _APID 1,6224::40607217
+2 SOUR @wasQXzkoQbebWtJVQDxQ@
+3 PAGE Year: 1940; Census Place: New York, Kings, New York; Roll: T
+4 CONC 627_2615; Page: 2A; Enumeration District: 24-2589
+3 OBJE @M15@
+3 _APID 1,2442::5009219
+2 SOUR @S119@
+3 QUAY 1
+2 SOUR @S118@
+3 PAGE New York City Births, 1891-1902; Title: Births Reported in 1
+4 CONC 902. Borough of Brooklyn.; Certificate #: 9263
+3 _APID 1,5157::704568
+2 SOUR @Ju7QFFoAQjKaE1Ey19sj@
+3 _APID 1,9089::148563
+2 SOUR @Ap7270q8QDmqnp4oKY6u@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1905; Election District: A.D. 18 E.D. 16
+4 CONC ; City: Brooklyn; County: Kings; Page: 34
+3 OBJE @M34@
+3 _APID 1,7364::1035437
+2 SOUR @es9CfZUrS7S7jzWga8jJ@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1915; Election District: 24; Assembly Di
+4 CONC strict: 18; City: New York; County: Kings; Page: 48
+3 OBJE @M35@
+3 _APID 1,2703::4343110
+2 SOUR @qbJrAuEoSlOpEAW1dC2d@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1925; Election District: 62; Assembly Di
+4 CONC strict: 21; City: Brooklyn; County: Kings; Page: 14
+3 OBJE @M37@
+3 _APID 1,2704::18252572
+2 NOTE cert# 9263
+1 RESI
+2 DATE 1905
+2 PLAC 680 Saint John's Place, Brooklyn, Kings, New York, USA
+2 SOUR @Ap7270q8QDmqnp4oKY6u@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1905; Election District: A.D. 18 E.D. 16
+4 CONC ; City: Brooklyn; County: Kings; Page: 34
+3 OBJE @M34@
+3 _APID 1,7364::1035437
+2 NOTE Relation to Head of House: Grandson
+1 RESI
+2 DATE 1910
+2 PLAC Brooklyn, Kings, New York, USA
+3 MAP
+4 LATI N40.65
+4 LONG W73.95
+2 SOUR @Z0SQaG1kRbWQtiKMUjof@
+3 PAGE Year: 1910; Census Place: Brooklyn Ward 29, Kings, New York
+4 CONC ; Roll: T624_982; Page: 4A; Enumeration District: 0931; FH
+4 CONC L microfilm: 1374995
+3 OBJE @M3@
+3 _APID 1,7884::119643624
+2 NOTE Age in 1910: 7; Marital Status: Single; Relation to Head o
+3 CONC f House: Grandson
+1 RESI
+2 DATE 01 JUN 1915
+2 PLAC Brooklyn, Kings, New York, USA
+3 MAP
+4 LATI N40.65
+4 LONG W73.95
+2 SOUR @es9CfZUrS7S7jzWga8jJ@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1915; Election District: 24; Assembly Di
+4 CONC strict: 18; City: New York; County: Kings; Page: 48
+3 OBJE @M35@
+3 _APID 1,2703::4343110
+2 NOTE Age: 13; Relation to Head of House: Grandson
+1 RESI
+2 DATE 1920
+2 PLAC Brooklyn, Kings, New York, USA
+3 MAP
+4 LATI N40.65
+4 LONG W73.95
+2 SOUR @pZSp306qQOGHvPqm0c60@
+3 PAGE Year: 1920; Census Place: Brooklyn Assembly District 21, Kin
+4 CONC gs, New York
+3 OBJE @M7@
+3 _APID 1,6061::85922399
+2 NOTE Age: 17; Marital Status: Single; Relation to Head of House
+3 CONC : Son
+1 RESI
+2 DATE 01 JUN 1925
+2 PLAC Brooklyn, Kings, New York, USA
+3 MAP
+4 LATI N40.65
+4 LONG W73.95
+2 SOUR @qbJrAuEoSlOpEAW1dC2d@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1925; Election District: 62; Assembly Di
+4 CONC strict: 21; City: Brooklyn; County: Kings; Page: 14
+3 OBJE @M37@
+3 _APID 1,2704::18252572
+2 NOTE Age: 23; Relation to Head of House: Son
+1 RESI
+2 DATE 1930
+2 PLAC Brooklyn, Kings, New York, USA
+3 MAP
+4 LATI N40.65
+4 LONG W73.95
+2 SOUR @cYpH9GKbREexd30xG7Ri@
+3 PAGE Year: 1930; Census Place: Brooklyn, Kings, New York; Roll: 1
+4 CONC 538; Page: 16A; Enumeration District: 870; Image: 506.0; FH
+4 CONC L microfilm: 2341273
+3 OBJE @M11@
+3 _APID 1,6224::40607217
+2 NOTE Age: 27; Marital Status: Single; Relation to Head of House
+3 CONC : Son
+1 RESI
+2 DATE 1935
+2 PLAC Brooklyn, Kings, New York, USA
+3 MAP
+4 LATI N40.65
+4 LONG W73.95
+2 SOUR @wasQXzkoQbebWtJVQDxQ@
+3 PAGE Year: 1940; Census Place: New York, Kings, New York; Roll: T
+4 CONC 627_2615; Page: 2A; Enumeration District: 24-2589
+3 OBJE @M15@
+3 _APID 1,2442::5009219
+1 RESI
+2 DATE 01 APR 1940
+2 PLAC Brooklyn, Kings, New York, USA
+3 MAP
+4 LATI N40.65
+4 LONG W73.95
+2 SOUR @wasQXzkoQbebWtJVQDxQ@
+3 PAGE Year: 1940; Census Place: New York, Kings, New York; Roll: T
+4 CONC 627_2615; Page: 2A; Enumeration District: 24-2589
+3 OBJE @M15@
+3 _APID 1,2442::5009219
+2 NOTE Age: 37; Marital Status: Single; Relation to Head of House
+3 CONC : Son
 1 DEAT
 2 DATE 16 NOV 1953
+2 PLAC Brooklyn, Kings, New York, USA
+3 MAP
+4 LATI N40.65
+4 LONG W73.95
+2 SOUR @S94@
+3 QUAY 1
 1 _XY 681 2166
+0 @I210@ INDI
+1 NAME [REDACTED]
+1 FAMC @F156@
+0 @I253@ INDI
+1 NAME [REDACTED]
+1 FAMC @F172@
+1 FAMS @F173@
 0 @I194@ INDI
 1 REFN 8de8458e-2dca-4a2d-80ce-0ab5be981d9a
 1 NAME Diocelina /Pazmiño/
-2 SOUR @S68@
+2 SOUR @S94@
 1 SEX F
 1 FAMC @F62@
 1 DEAT
@@ -6353,65 +7326,995 @@
 3 MAP
 4 LATI S0.2167
 4 LONG W78.5
-2 SOUR @S68@
+2 SOUR @S94@
 1 BIRT
 2 PLAC Quito, Pichincha, Ecuador
 3 MAP
 4 LATI S0.2167
 4 LONG W78.5
-2 SOUR @S68@
+2 SOUR @S94@
 1 _XY 347 1979
+0 @I218@ INDI
+1 NAME [REDACTED]
+1 FAMC @F156@
+1 FAMS @F157@
 0 @4p97S4PRROqpAsXPq5TW@ INDI
 1 REFN 0212f1de-4ba1-4347-8fbd-5642f6d1ed2c
 1 NAME Graciela Elena /Pazmiño/
+2 SOUR @pZSp306qQOGHvPqm0c60@
+3 PAGE Year: 1920; Census Place: Brooklyn Assembly District 21, Kin
+4 CONC gs, New York
+3 OBJE @M7@
+3 _APID 1,6061::85922402
+2 SOUR @cYpH9GKbREexd30xG7Ri@
+3 PAGE Year: 1930; Census Place: Brooklyn, Kings, New York; Roll: 1
+4 CONC 538; Page: 16A; Enumeration District: 870; Image: 506.0; FH
+4 CONC L microfilm: 2341273
+3 OBJE @M11@
+3 _APID 1,6224::40607211
+2 SOUR @wasQXzkoQbebWtJVQDxQ@
+3 PAGE Year: 1940; Census Place: New York, Kings, New York; Roll: T
+4 CONC 627_2554; Page: 13A; Enumeration District: 24-309A
+3 OBJE @M95@
+3 _APID 1,2442::10647129
+2 SOUR @wN4p8JORTTCTcTlwT98u@
+3 PAGE Date: 1992-07-26
+3 _APID 1,5180::2554547
+2 SOUR @S84@
+3 OBJE @M100@
+3 _APID 1,61457::735110
+2 SOUR @es9CfZUrS7S7jzWga8jJ@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1915; Election District: 24; Assembly Di
+4 CONC strict: 18; City: New York; County: Kings; Page: 48
+3 OBJE @M35@
+3 _APID 1,2703::4343121
+2 SOUR @qbJrAuEoSlOpEAW1dC2d@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1925; Election District: 62; Assembly Di
+4 CONC strict: 21; City: Brooklyn; County: Kings; Page: 14
+3 OBJE @M37@
+3 _APID 1,2704::18252581
+2 SOUR @S94@
+3 QUAY 1
+2 SOUR @S61@
+3 _APID 1,1732::376937760
+2 SOUR @GFCLw2yOQvibba3edsSE@
+3 PAGE Number: 132-20-2743; Issue State: New York; Issue Date: Befo
+4 CONC re 1951
+3 _APID 1,3693::21235845
 1 SEX F
 1 FAMC @1SlIoqLYRCqfA1ineuNc@
+1 FAMS @F171@
 1 BIRT
 2 DATE 02 OCT 1910
-1 BIRT
-2 DATE 06 OCT 1910
+2 PLAC Brooklyn, Kings, New York, USA
+3 MAP
+4 LATI N40.65
+4 LONG W73.95
+2 SOUR @pZSp306qQOGHvPqm0c60@
+3 PAGE Year: 1920; Census Place: Brooklyn Assembly District 21, Kin
+4 CONC gs, New York
+3 OBJE @M7@
+3 _APID 1,6061::85922402
+2 SOUR @cYpH9GKbREexd30xG7Ri@
+3 PAGE Year: 1930; Census Place: Brooklyn, Kings, New York; Roll: 1
+4 CONC 538; Page: 16A; Enumeration District: 870; Image: 506.0; FH
+4 CONC L microfilm: 2341273
+3 OBJE @M11@
+3 _APID 1,6224::40607211
+2 SOUR @wasQXzkoQbebWtJVQDxQ@
+3 PAGE Year: 1940; Census Place: New York, Kings, New York; Roll: T
+4 CONC 627_2554; Page: 13A; Enumeration District: 24-309A
+3 OBJE @M95@
+3 _APID 1,2442::10647129
+2 SOUR @wN4p8JORTTCTcTlwT98u@
+3 PAGE Date: 1992-07-26
+3 _APID 1,5180::2554547
+2 SOUR @S84@
+3 OBJE @M100@
+3 _APID 1,61457::735110
+2 SOUR @es9CfZUrS7S7jzWga8jJ@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1915; Election District: 24; Assembly Di
+4 CONC strict: 18; City: New York; County: Kings; Page: 48
+3 OBJE @M35@
+3 _APID 1,2703::4343121
+2 SOUR @qbJrAuEoSlOpEAW1dC2d@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1925; Election District: 62; Assembly Di
+4 CONC strict: 21; City: Brooklyn; County: Kings; Page: 14
+3 OBJE @M37@
+3 _APID 1,2704::18252581
+2 SOUR @S94@
+2 SOUR @S61@
+3 _APID 1,1732::376937760
+2 SOUR @GFCLw2yOQvibba3edsSE@
+3 PAGE Number: 132-20-2743; Issue State: New York; Issue Date: Befo
+4 CONC re 1951
+3 _APID 1,3693::21235845
+2 NOTE Social Security Death Index and California Death Index giv
+3 CONC e birth date as October 2, 1910.
+1 RESI
+2 DATE 01 JUN 1915
+2 PLAC Brooklyn, Kings, New York, USA
+3 MAP
+4 LATI N40.65
+4 LONG W73.95
+2 SOUR @es9CfZUrS7S7jzWga8jJ@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1915; Election District: 24; Assembly Di
+4 CONC strict: 18; City: New York; County: Kings; Page: 48
+3 OBJE @M35@
+3 _APID 1,2703::4343121
+2 NOTE Age: 4; Relation to Head of House: GrandDaughter
+1 RESI
+2 DATE 1920
+2 PLAC Brooklyn, Kings, New York, USA
+3 MAP
+4 LATI N40.65
+4 LONG W73.95
+2 SOUR @pZSp306qQOGHvPqm0c60@
+3 PAGE Year: 1920; Census Place: Brooklyn Assembly District 21, Kin
+4 CONC gs, New York
+3 OBJE @M7@
+3 _APID 1,6061::85922402
+2 NOTE Age: 8; Marital Status: Single; Relation to Head of House: D
+3 CONC aughter
+1 RESI
+2 DATE 01 JUN 1925
+2 PLAC Brooklyn, Kings, New York, USA
+3 MAP
+4 LATI N40.65
+4 LONG W73.95
+2 SOUR @qbJrAuEoSlOpEAW1dC2d@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1925; Election District: 62; Assembly Di
+4 CONC strict: 21; City: Brooklyn; County: Kings; Page: 14
+3 OBJE @M37@
+3 _APID 1,2704::18252581
+2 NOTE Age: 14; Relation to Head of House: Daughter
+1 RESI
+2 DATE 1930
+2 PLAC Brooklyn, Kings, New York, USA
+3 MAP
+4 LATI N40.65
+4 LONG W73.95
+2 SOUR @cYpH9GKbREexd30xG7Ri@
+3 PAGE Year: 1930; Census Place: Brooklyn, Kings, New York; Roll: 1
+4 CONC 538; Page: 16A; Enumeration District: 870; Image: 506.0; FH
+4 CONC L microfilm: 2341273
+3 OBJE @M11@
+3 _APID 1,6224::40607211
+2 NOTE Age: 19; Marital Status: Single; Relation to Head of House
+3 CONC : Daughter
+1 RESI
+2 DATE 1935
+2 PLAC Brooklyn, Kings, New York, USA
+3 MAP
+4 LATI N40.65
+4 LONG W73.95
+2 SOUR @wasQXzkoQbebWtJVQDxQ@
+3 PAGE Year: 1940; Census Place: New York, Kings, New York; Roll: T
+4 CONC 627_2554; Page: 13A; Enumeration District: 24-309A
+3 OBJE @M95@
+3 _APID 1,2442::10647129
+1 RESI
+2 DATE 01 APR 1940
+2 PLAC 1545 East 34th Street, Brooklyn, Kings, New York, USA
+2 SOUR @wasQXzkoQbebWtJVQDxQ@
+3 PAGE Year: 1940; Census Place: New York, Kings, New York; Roll: T
+4 CONC 627_2554; Page: 13A; Enumeration District: 24-309A
+3 OBJE @M95@
+3 _APID 1,2442::10647129
+2 NOTE Age: 28; Marital Status: Married; Relation to Head of House
+3 CONC : Wife
+1 SSN 132-20-2743
+2 DATE BEF 1951
+2 PLAC New York, USA
+3 MAP
+4 LATI N42.7531
+4 LONG W74.2224
+2 SOUR @a1r7XFsISaCymdVb2Acn@
+3 QUAY 3
 1 DEAT
 2 DATE 26 JUL 1992
-1 DEAT
-2 DATE 26 JUL 1992
+2 PLAC San Bernardino, California, USA
+3 MAP
+4 LATI N34.8283
+4 LONG W116.1913
+2 SOUR @wN4p8JORTTCTcTlwT98u@
+3 PAGE Date: 1992-07-26
+3 _APID 1,5180::2554547
+2 SOUR @a1r7XFsISaCymdVb2Acn@
+2 SOUR @GFCLw2yOQvibba3edsSE@
+3 PAGE Number: 132-20-2743; Issue State: New York; Issue Date: Befo
+4 CONC re 1951
+3 _APID 1,3693::21235845
 1 _XY 1358 2166
-0 @rAtpdJIvTMiVe7kpmsMB@ INDI
+0 @I211@ INDI
 1 NAME [REDACTED]
+1 FAMC @F156@
+0 @rAtpdJIvTMiVe7kpmsMB@ INDI
+1 REFN b57ebd1f-373c-41ec-9287-021ddd9cb07e
+1 NAME Jorge Huberto /Pazmiño/
+2 SOUR @pZSp306qQOGHvPqm0c60@
+3 PAGE Year: 1920; Census Place: Brooklyn Assembly District 21, Kin
+4 CONC gs, New York
+3 OBJE @M7@
+3 _APID 1,6061::85922403
+2 SOUR @cYpH9GKbREexd30xG7Ri@
+3 PAGE Year: 1930; Census Place: Brooklyn, Kings, New York; Roll: 1
+4 CONC 538; Page: 16A; Enumeration District: 870; Image: 506.0; FH
+4 CONC L microfilm: 2341273
+3 OBJE @M11@
+3 _APID 1,6224::40607219
+2 SOUR @wasQXzkoQbebWtJVQDxQ@
+3 PAGE Year: 1940; Census Place: New York, Kings, New York; Roll: T
+4 CONC 627_2615; Page: 2A; Enumeration District: 24-2589
+3 OBJE @M15@
+3 _APID 1,2442::5009222
+2 SOUR @es9CfZUrS7S7jzWga8jJ@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1915; Election District: 24; Assembly Di
+4 CONC strict: 18; City: New York; County: Kings; Page: 48
+3 OBJE @M35@
+3 _APID 1,2703::4343123
+2 SOUR @qbJrAuEoSlOpEAW1dC2d@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1925; Election District: 62; Assembly Di
+4 CONC strict: 21; City: Brooklyn; County: Kings; Page: 14
+3 OBJE @M37@
+3 _APID 1,2704::18252584
+2 SOUR @S94@
+3 QUAY 1
+2 SOUR @S85@
+3 _APID 1,1788::378983727
+2 SOUR @S97@
+3 _APID 1,8939::115596
+1 SEX M
 1 FAMC @1SlIoqLYRCqfA1ineuNc@
+1 FAMS @F156@
+1 BIRT
+2 DATE 04 MAR 1913
+2 PLAC Brooklyn, Kings, New York, USA
+3 MAP
+4 LATI N40.65
+4 LONG W73.95
+2 SOUR @pZSp306qQOGHvPqm0c60@
+3 PAGE Year: 1920; Census Place: Brooklyn Assembly District 21, Kin
+4 CONC gs, New York
+3 OBJE @M7@
+3 _APID 1,6061::85922403
+2 SOUR @cYpH9GKbREexd30xG7Ri@
+3 PAGE Year: 1930; Census Place: Brooklyn, Kings, New York; Roll: 1
+4 CONC 538; Page: 16A; Enumeration District: 870; Image: 506.0; FH
+4 CONC L microfilm: 2341273
+3 OBJE @M11@
+3 _APID 1,6224::40607219
+2 SOUR @wasQXzkoQbebWtJVQDxQ@
+3 PAGE Year: 1940; Census Place: New York, Kings, New York; Roll: T
+4 CONC 627_2615; Page: 2A; Enumeration District: 24-2589
+3 OBJE @M15@
+3 _APID 1,2442::5009222
+2 SOUR @es9CfZUrS7S7jzWga8jJ@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1915; Election District: 24; Assembly Di
+4 CONC strict: 18; City: New York; County: Kings; Page: 48
+3 OBJE @M35@
+3 _APID 1,2703::4343123
+2 SOUR @qbJrAuEoSlOpEAW1dC2d@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1925; Election District: 62; Assembly Di
+4 CONC strict: 21; City: Brooklyn; County: Kings; Page: 14
+3 OBJE @M37@
+3 _APID 1,2704::18252584
+2 SOUR @S94@
+3 QUAY 1
+2 SOUR @S85@
+3 _APID 1,1788::378983727
+2 SOUR @S97@
+3 _APID 1,8939::115596
+2 NOTE birthday is from daughter Georgianna
+1 RESI
+2 DATE 01 JUN 1915
+2 PLAC Brooklyn, Kings, New York, USA
+3 MAP
+4 LATI N40.65
+4 LONG W73.95
+2 SOUR @es9CfZUrS7S7jzWga8jJ@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1915; Election District: 24; Assembly Di
+4 CONC strict: 18; City: New York; County: Kings; Page: 48
+3 OBJE @M35@
+3 _APID 1,2703::4343123
+2 NOTE Age: 2; Relation to Head of House: Grandson
+1 RESI
+2 DATE 1920
+2 PLAC Brooklyn, Kings, New York, USA
+3 MAP
+4 LATI N40.65
+4 LONG W73.95
+2 SOUR @pZSp306qQOGHvPqm0c60@
+3 PAGE Year: 1920; Census Place: Brooklyn Assembly District 21, Kin
+4 CONC gs, New York
+3 OBJE @M7@
+3 _APID 1,6061::85922403
+2 NOTE Age: 6; Marital Status: Single; Relation to Head of House: S
+3 CONC on
+1 RESI
+2 DATE 01 JUN 1925
+2 PLAC Brooklyn, Kings, New York, USA
+3 MAP
+4 LATI N40.65
+4 LONG W73.95
+2 SOUR @qbJrAuEoSlOpEAW1dC2d@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1925; Election District: 62; Assembly Di
+4 CONC strict: 21; City: Brooklyn; County: Kings; Page: 14
+3 OBJE @M37@
+3 _APID 1,2704::18252584
+2 NOTE Age: 12; Relation to Head of House: Son
+1 RESI
+2 DATE 1930
+2 PLAC Brooklyn, Kings, New York, USA
+3 MAP
+4 LATI N40.65
+4 LONG W73.95
+2 SOUR @cYpH9GKbREexd30xG7Ri@
+3 PAGE Year: 1930; Census Place: Brooklyn, Kings, New York; Roll: 1
+4 CONC 538; Page: 16A; Enumeration District: 870; Image: 506.0; FH
+4 CONC L microfilm: 2341273
+3 OBJE @M11@
+3 _APID 1,6224::40607219
+2 NOTE Age: 17; Marital Status: Single; Relation to Head of House
+3 CONC : Son
+1 RESI
+2 DATE 1935
+2 PLAC Brooklyn, Kings, New York, USA
+3 MAP
+4 LATI N40.65
+4 LONG W73.95
+2 SOUR @wasQXzkoQbebWtJVQDxQ@
+3 PAGE Year: 1940; Census Place: New York, Kings, New York; Roll: T
+4 CONC 627_2615; Page: 2A; Enumeration District: 24-2589
+3 OBJE @M15@
+3 _APID 1,2442::5009222
+1 RESI
+2 DATE 01 APR 1940
+2 PLAC Brooklyn, Kings, New York, USA
+3 MAP
+4 LATI N40.65
+4 LONG W73.95
+2 SOUR @wasQXzkoQbebWtJVQDxQ@
+3 PAGE Year: 1940; Census Place: New York, Kings, New York; Roll: T
+4 CONC 627_2615; Page: 2A; Enumeration District: 24-2589
+3 OBJE @M15@
+3 _APID 1,2442::5009222
+2 NOTE Age: 27; Marital Status: Single; Relation to Head of House
+3 CONC : Son
+1 EVEN
+2 TYPE military
+2 DATE 29 JUN 1942
+2 PLAC Fort Jay, Governors Island, New York, New York, USA
+2 SOUR @S97@
+3 _APID 1,8939::115596
+1 RESI
+2 DATE 1976
+2 PLAC Brooklyn, Kings, New York, USA
+3 MAP
+4 LATI N40.65
+4 LONG W73.95
+2 SOUR @S85@
+3 _APID 1,1788::378983727
+1 DEAT
+2 DATE 04 MAR 2015
+2 PLAC Brooklyn, New York City, New York, USA
+1 _XY 1526 2173
+0 @I258@ INDI
+1 NAME [REDACTED]
+1 FAMC @F174@
+1 FAMS @F175@
 0 @WoxchgtUThaqilYvgwn2@ INDI
 1 REFN 54162e9d-6e2e-4fd9-b65e-bb5ffe20d3e4
 1 NAME Lelia Estela /Pazmiño/
+2 SOUR @Z0SQaG1kRbWQtiKMUjof@
+3 PAGE Year: 1910; Census Place: Brooklyn Ward 29, Kings, New York
+4 CONC ; Roll: T624_982; Page: 4A; Enumeration District: 0931; FH
+4 CONC L microfilm: 1374995
+3 OBJE @M3@
+3 _APID 1,7884::119643623
+2 SOUR @pZSp306qQOGHvPqm0c60@
+3 PAGE Year: 1920; Census Place: Brooklyn Assembly District 21, Kin
+4 CONC gs, New York
+3 OBJE @M7@
+3 _APID 1,6061::85922398
+2 SOUR @cYpH9GKbREexd30xG7Ri@
+3 PAGE Year: 1930; Census Place: Brooklyn, Kings, New York; Roll: 1
+4 CONC 538; Page: 16A; Enumeration District: 870; Image: 506.0; FH
+4 CONC L microfilm: 2341273
+3 OBJE @M11@
+3 _APID 1,6224::40607234
+2 SOUR @wasQXzkoQbebWtJVQDxQ@
+3 PAGE Year: 1940; Census Place: New York, Kings, New York; Roll: T
+4 CONC 627_2615; Page: 9B; Enumeration District: 24-2591
+3 OBJE @M115@
+3 _APID 1,2442::5014027
+2 SOUR @G8TESznJRGCKBg1WwF0w@
+3 PAGE Ancestry Family Tree
+3 DATA
+4 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=62861
+5 CONC &pid=12
+2 SOUR @S122@
+3 PAGE The Brooklyn Daily Eagle; Publication Date: 21/ Oct/ 1953; P
+4 CONC ublication Place: Brooklyn, New York, USA; URL: https://www.
+4 CONC newspapers.com/image/53940620/?article=eb7dfdef-1412-4e5b-8f
+4 CONC 7e-2eb6cabbcd6d&focus=0.14742577,0.5279756,0.2613364,0.56387
+4 CONC 15&xid=2378
+3 _APID 1,61843::29306342
+2 SOUR @S122@
+3 PAGE The Brooklyn Daily Eagle; Publication Date: 22/ Oct/ 1953; P
+4 CONC ublication Place: Brooklyn, New York, USA; URL: https://www.
+4 CONC newspapers.com/image/53940646/?article=9342c5e5-9ae2-44a0-99
+4 CONC 51-6227bf08f7c9&focus=0.16056712,0.44682097,0.2714292,0.4877
+4 CONC 1977&xid=2378
+3 _APID 1,61843::30641001
+2 SOUR @S120@
+3 OBJE @M116@
+3 _APID 1,2495::6817055
+2 SOUR @S118@
+3 PAGE New York City Births, 1891-1902; Title: Births Reported in 1
+4 CONC 901. Borough of Brooklyn.; Certificate #: 5826
+3 _APID 1,5157::626157
+2 SOUR @S60@
+3 PAGE New York City Municipal Archives; New York, New York; Boroug
+4 CONC h: Brooklyn; Stella Pazmino
+3 OBJE @M118@
+3 _APID 1,61406::7654061
+2 SOUR @Ju7QFFoAQjKaE1Ey19sj@
+3 _APID 1,9089::45733
+2 SOUR @S121@
+3 _APID 1,9105::4721707
+2 SOUR @S63@
+3 PAGE Year: 1935
+3 OBJE @M117@
+3 _APID 1,7488::30252307
+2 SOUR @Ap7270q8QDmqnp4oKY6u@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1905; Election District: A.D. 18 E.D. 16
+4 CONC ; City: Brooklyn; County: Kings; Page: 34
+3 OBJE @M34@
+3 _APID 1,7364::1035436
+2 SOUR @es9CfZUrS7S7jzWga8jJ@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1915; Election District: 24; Assembly Di
+4 CONC strict: 18; City: New York; County: Kings; Page: 48
+3 OBJE @M35@
+3 _APID 1,2703::4343107
+2 SOUR @qbJrAuEoSlOpEAW1dC2d@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1925; Election District: 62; Assembly Di
+4 CONC strict: 21; City: Brooklyn; County: Kings; Page: 14
+3 OBJE @M37@
+3 _APID 1,2704::18252570
 1 SEX F
 1 FAMC @1SlIoqLYRCqfA1ineuNc@
+1 FAMS @F177@
 1 BIRT
 2 DATE 16 MAR 1901
+2 PLAC 6 Agate Court, Brooklyn, Kings, New York, USA
+2 SOUR @Z0SQaG1kRbWQtiKMUjof@
+3 PAGE Year: 1910; Census Place: Brooklyn Ward 29, Kings, New York
+4 CONC ; Roll: T624_982; Page: 4A; Enumeration District: 0931; FH
+4 CONC L microfilm: 1374995
+3 OBJE @M3@
+3 _APID 1,7884::119643623
+2 SOUR @pZSp306qQOGHvPqm0c60@
+3 PAGE Year: 1920; Census Place: Brooklyn Assembly District 21, Kin
+4 CONC gs, New York
+3 OBJE @M7@
+3 _APID 1,6061::85922398
+2 SOUR @cYpH9GKbREexd30xG7Ri@
+3 PAGE Year: 1930; Census Place: Brooklyn, Kings, New York; Roll: 1
+4 CONC 538; Page: 16A; Enumeration District: 870; Image: 506.0; FH
+4 CONC L microfilm: 2341273
+3 OBJE @M11@
+3 _APID 1,6224::40607234
+2 SOUR @wasQXzkoQbebWtJVQDxQ@
+3 PAGE Year: 1940; Census Place: New York, Kings, New York; Roll: T
+4 CONC 627_2615; Page: 9B; Enumeration District: 24-2591
+3 OBJE @M115@
+3 _APID 1,2442::5014027
+2 SOUR @S120@
+3 OBJE @M116@
+3 _APID 1,2495::6817055
+2 SOUR @S118@
+3 PAGE New York City Births, 1891-1902; Title: Births Reported in 1
+4 CONC 901. Borough of Brooklyn.; Certificate #: 5826
+3 _APID 1,5157::626157
+2 SOUR @Ju7QFFoAQjKaE1Ey19sj@
+3 _APID 1,9089::45733
+2 SOUR @S63@
+3 PAGE Year: 1935
+3 OBJE @M117@
+3 _APID 1,7488::30252307
+2 SOUR @Ap7270q8QDmqnp4oKY6u@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1905; Election District: A.D. 18 E.D. 16
+4 CONC ; City: Brooklyn; County: Kings; Page: 34
+3 OBJE @M34@
+3 _APID 1,7364::1035436
+2 SOUR @es9CfZUrS7S7jzWga8jJ@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1915; Election District: 24; Assembly Di
+4 CONC strict: 18; City: New York; County: Kings; Page: 48
+3 OBJE @M35@
+3 _APID 1,2703::4343107
+2 SOUR @qbJrAuEoSlOpEAW1dC2d@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1925; Election District: 62; Assembly Di
+4 CONC strict: 21; City: Brooklyn; County: Kings; Page: 14
+3 OBJE @M37@
+3 _APID 1,2704::18252570
+2 SOUR @S123@
+2 NOTE 6 Agate Court is from Joseph Dudley
+1 CHR
+2 DATE 30 MAY 1904
+2 SOUR @S125@
+3 QUAY 2
+2 NOTE godmother: Dolores Lopez
+1 RESI
+2 DATE 1905
+2 PLAC 680 Saint John's Place, Brooklyn, Kings, New York, USA
+2 SOUR @Ap7270q8QDmqnp4oKY6u@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1905; Election District: A.D. 18 E.D. 16
+4 CONC ; City: Brooklyn; County: Kings; Page: 34
+3 OBJE @M34@
+3 _APID 1,7364::1035436
+2 NOTE Relation to Head of House: Granddaughter
+1 CENS
+2 DATE 20 APR 1910
+2 PLAC 65 Rutland Road, Brooklyn, Kings, New York, USA
+2 SOUR @AwMBr8oTTBSKeiiCImd3@
+3 QUAY 3
+1 RESI
+2 DATE 1910
+2 PLAC Brooklyn, Kings, New York, USA
+3 MAP
+4 LATI N40.65
+4 LONG W73.95
+2 SOUR @Z0SQaG1kRbWQtiKMUjof@
+3 PAGE Year: 1910; Census Place: Brooklyn Ward 29, Kings, New York
+4 CONC ; Roll: T624_982; Page: 4A; Enumeration District: 0931; FH
+4 CONC L microfilm: 1374995
+3 OBJE @M3@
+3 _APID 1,7884::119643623
+2 NOTE Age: 9; Marital Status: Single; Relation to Head of House: G
+3 CONC randdaughter
+1 GRAD
+2 DATE 27 JAN 1915
+2 PLAC Public School 92, 601 Parkside Avenue, Brooklyn, Kings, Ne
+3 CONC w York, USA
+2 SOUR @S128@
+3 QUAY 2
+2 NOTE address found as of year 2000
+1 RESI
+2 DATE 01 JUN 1915
+2 PLAC Brooklyn, Kings, New York, USA
+3 MAP
+4 LATI N40.65
+4 LONG W73.95
+2 SOUR @es9CfZUrS7S7jzWga8jJ@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1915; Election District: 24; Assembly Di
+4 CONC strict: 18; City: New York; County: Kings; Page: 48
+3 OBJE @M35@
+3 _APID 1,2703::4343107
+2 NOTE Age: 14; Relation to Head of House: GrandDaughter
+1 RESI
+2 DATE 1916
+2 PLAC 2205 Beverly Road, Brooklyn, Kings, New York, USA
+2 SOUR @6HGHatPgSRab8O4UmjMk@
+3 QUAY 1
+1 RESI
+2 DATE ABT 1918
+2 PLAC 2114 Glenwood Road, Brooklyn, Kings, New York, USA
+1 CENS
+2 DATE 01 JAN 1920
+2 PLAC 2114 Glenwood Road, Brooklyn, Kings, New York, USA
+2 SOUR @CURpLhJjS86j8mOfFQTx@
+3 QUAY 3
+1 RESI
+2 DATE 1920
+2 PLAC Brooklyn, Kings, New York, USA
+3 MAP
+4 LATI N40.65
+4 LONG W73.95
+2 SOUR @pZSp306qQOGHvPqm0c60@
+3 PAGE Year: 1920; Census Place: Brooklyn Assembly District 21, Kin
+4 CONC gs, New York
+3 OBJE @M7@
+3 _APID 1,6061::85922398
+2 NOTE Age: 18; Marital Status: Single; Relation to Head of House
+3 CONC : Daughter
+1 GRAD
+2 DATE 29 JUN 1921
+2 PLAC Erasmus Hall High School, Flatbush Avenue, Brooklyn, Kings
+3 CONC , New York, USA
+2 SOUR @S127@
+3 QUAY 2
+1 EDUC
+2 DATE ABT 1921
+2 PLAC Cooper Union Art School, Cooper Square, New York, New York
+3 CONC , USA
+2 SOUR @S126@
+3 QUAY 1
+1 RESI
+2 DATE 01 JUN 1925
+2 PLAC Brooklyn, Kings, New York, USA
+3 MAP
+4 LATI N40.65
+4 LONG W73.95
+2 SOUR @qbJrAuEoSlOpEAW1dC2d@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1925; Election District: 62; Assembly Di
+4 CONC strict: 21; City: Brooklyn; County: Kings; Page: 14
+3 OBJE @M37@
+3 _APID 1,2704::18252570
+2 NOTE Age: 24; Relation to Head of House: Daughter
+1 CENS
+2 DATE 01 APR 1930
+2 PLAC 2114 Glenwood Road, Brooklyn, Kings, New York, USA
+2 SOUR @RI4cm95SSNi0fxD0ms1I@
+3 QUAY 3
+1 OCCU cashier
+2 DATE ABT 1930
+2 PLAC Mrs. May's Tearoom, Brooklyn, Kings, New York, USA
+2 SOUR @7hzCF6rURECkbdc8IJaU@
+3 QUAY 1
+2 NOTE while working there, she met her future husband Harry Disosw
+3 CONC ay
+1 RESI
+2 DATE 1930
+2 PLAC Brooklyn, Kings, New York, USA
+3 MAP
+4 LATI N40.65
+4 LONG W73.95
+2 SOUR @cYpH9GKbREexd30xG7Ri@
+3 PAGE Year: 1930; Census Place: Brooklyn, Kings, New York; Roll: 1
+4 CONC 538; Page: 16A; Enumeration District: 870; Image: 506.0; FH
+4 CONC L microfilm: 2341273
+3 OBJE @M11@
+3 _APID 1,6224::40607234
+2 NOTE Age: 29; Marital Status: Single; Relation to Head of House
+3 CONC : Daughter
+1 RESI
+2 DATE 27 JUN 1931
+2 PLAC 71 Martense Street, Brooklyn, Kings, New York, USA
+2 SOUR @S129@
+3 QUAY 1
+1 EVEN
+2 TYPE Departure
+2 DATE 23 MAR 1935
+2 PLAC Hamilton, Bermuda
+3 MAP
+4 LATI N32.3103
+4 LONG W64.7625
+2 SOUR @S63@
+3 PAGE Year: 1935
+3 OBJE @M117@
+3 _APID 1,7488::30252307
+1 EVEN
+2 TYPE Arrival
+2 DATE 25 MAR 1935
+2 PLAC New York, New York, USA
+3 MAP
+4 LATI N40.7744
+4 LONG W73.9721
+2 SOUR @S63@
+3 PAGE Year: 1935
+3 OBJE @M117@
+3 _APID 1,7488::30252307
+1 RESI
+2 DATE 1936
+2 PLAC 811 A (2nd floor) East 22nd Street, Brooklyn, Kings, New Yor
+3 CONC k, USA
+2 SOUR @S129@
+3 QUAY 2
+1 RESI
+2 DATE 1938
+2 PLAC 695 East 19th Street, Brooklyn, Kings, New York, USA
+2 SOUR @S129@
+3 QUAY 2
+1 RESI
+2 DATE 01 APR 1940
+2 PLAC Brooklyn, Kings, New York, USA
+3 MAP
+4 LATI N40.65
+4 LONG W73.95
+2 SOUR @wasQXzkoQbebWtJVQDxQ@
+3 PAGE Year: 1940; Census Place: New York, Kings, New York; Roll: T
+4 CONC 627_2615; Page: 9B; Enumeration District: 24-2591
+3 OBJE @M115@
+3 _APID 1,2442::5014027
+2 NOTE Age: 39; Marital Status: Married; Relation to Head of House
+3 CONC : Wife
+1 RESI
+2 DATE 25 JUN 1960
+2 PLAC Ayer Road, Harvard, Worcester, Massachusetts, USA
+2 SOUR @S124@
+3 QUAY 3
+2 NOTE Lived with daughter Linda and her husband Barry Mosher
 1 DEAT
 2 DATE 23 JUL 1960
+2 PLAC Harvard, Worcester, Massachusetts, USA
+3 MAP
+4 LATI N42.5001
+4 LONG W71.5828
+2 SOUR @S124@
+3 QUAY 3
+2 SOUR @S120@
+3 OBJE @M116@
+3 _APID 1,2495::6817055
+1 BURI
+2 DATE 25 JUL 1960
+2 PLAC Woodlawn Cemetery, Ayer, Middlesex, Massachusetts, USA
+2 SOUR @S124@
+3 QUAY 2
+1 RESI
+2 PLAC Avenue I (at East 29th Street), Brooklyn, Kings, New York, U
+3 CONC SA
+1 RESI
+2 PLAC Brentwood Road, Brooklyn, Kings, New York, USA
 1 _XY 529 2166
+0 @I259@ INDI
+1 NAME [REDACTED]
+1 FAMC @F174@
 0 @7dwtINhERSyVygimODYv@ INDI
 1 REFN dc5e324d-13e2-4a1d-81c9-fbd10c56138f
 1 NAME Lucila María /Pazmiño/
+2 SOUR @Z0SQaG1kRbWQtiKMUjof@
+3 PAGE Year: 1910; Census Place: Brooklyn Ward 29, Kings, New York
+4 CONC ; Roll: T624_982; Page: 4A; Enumeration District: 0931; FH
+4 CONC L microfilm: 1374995
+3 OBJE @M3@
+3 _APID 1,7884::119643625
+2 SOUR @pZSp306qQOGHvPqm0c60@
+3 PAGE Year: 1920; Census Place: Brooklyn Assembly District 21, Kin
+4 CONC gs, New York
+3 OBJE @M7@
+3 _APID 1,6061::85922400
+2 SOUR @cYpH9GKbREexd30xG7Ri@
+3 PAGE Year: 1930; Census Place: Brooklyn, Kings, New York; Roll: 1
+4 CONC 538; Page: 16A; Enumeration District: 870; Image: 506.0; FH
+4 CONC L microfilm: 2341273
+3 OBJE @M11@
+3 _APID 1,6224::40607215
+2 SOUR @wasQXzkoQbebWtJVQDxQ@
+3 PAGE Year: 1940; Census Place: New York, Kings, New York; Roll: T
+4 CONC 627_2554; Page: 13A; Enumeration District: 24-309A
+3 OBJE @M95@
+3 _APID 1,2442::10647126
+2 SOUR @G8TESznJRGCKBg1WwF0w@
+3 PAGE Ancestry Family Tree
+3 DATA
+4 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=62861
+5 CONC &pid=49
+2 SOUR @S60@
+3 PAGE New York City Municipal Archives; New York, New York; Boroug
+4 CONC h: Brooklyn; Lucile Pazmino
+3 OBJE @M114@
+3 _APID 1,61406::592202
+2 SOUR @AjMegeGBTpu0nJWDRMDA@
+3 _APID 1,9131::4437234
+2 SOUR @es9CfZUrS7S7jzWga8jJ@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1915; Election District: 24; Assembly Di
+4 CONC strict: 18; City: New York; County: Kings; Page: 48
+3 OBJE @M35@
+3 _APID 1,2703::4343114
+2 SOUR @qbJrAuEoSlOpEAW1dC2d@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1925; Election District: 62; Assembly Di
+4 CONC strict: 21; City: Brooklyn; County: Kings; Page: 14
+3 OBJE @M37@
+3 _APID 1,2704::18252575
+2 SOUR @S94@
+3 QUAY 1
+2 SOUR @S2fyUKW7QvupWtUQHBOs@
+3 _APID 1,60901::792563824
 1 SEX F
 1 FAMC @1SlIoqLYRCqfA1ineuNc@
+1 FAMS @F176@
 1 BIRT
 2 DATE 26 APR 1907
+2 PLAC Brooklyn, Kings, New York, USA
+3 MAP
+4 LATI N40.65
+4 LONG W73.95
+2 SOUR @Z0SQaG1kRbWQtiKMUjof@
+3 PAGE Year: 1910; Census Place: Brooklyn Ward 29, Kings, New York
+4 CONC ; Roll: T624_982; Page: 4A; Enumeration District: 0931; FH
+4 CONC L microfilm: 1374995
+3 OBJE @M3@
+3 _APID 1,7884::119643625
+2 SOUR @pZSp306qQOGHvPqm0c60@
+3 PAGE Year: 1920; Census Place: Brooklyn Assembly District 21, Kin
+4 CONC gs, New York
+3 OBJE @M7@
+3 _APID 1,6061::85922400
+2 SOUR @cYpH9GKbREexd30xG7Ri@
+3 PAGE Year: 1930; Census Place: Brooklyn, Kings, New York; Roll: 1
+4 CONC 538; Page: 16A; Enumeration District: 870; Image: 506.0; FH
+4 CONC L microfilm: 2341273
+3 OBJE @M11@
+3 _APID 1,6224::40607215
+2 SOUR @wasQXzkoQbebWtJVQDxQ@
+3 PAGE Year: 1940; Census Place: New York, Kings, New York; Roll: T
+4 CONC 627_2554; Page: 13A; Enumeration District: 24-309A
+3 OBJE @M95@
+3 _APID 1,2442::10647126
+2 SOUR @AjMegeGBTpu0nJWDRMDA@
+3 _APID 1,9131::4437234
+2 SOUR @es9CfZUrS7S7jzWga8jJ@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1915; Election District: 24; Assembly Di
+4 CONC strict: 18; City: New York; County: Kings; Page: 48
+3 OBJE @M35@
+3 _APID 1,2703::4343114
+2 SOUR @qbJrAuEoSlOpEAW1dC2d@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1925; Election District: 62; Assembly Di
+4 CONC strict: 21; City: Brooklyn; County: Kings; Page: 14
+3 OBJE @M37@
+3 _APID 1,2704::18252575
+2 SOUR @S94@
+3 QUAY 1
+1 RESI
+2 DATE 1910
+2 PLAC Brooklyn, Kings, New York, USA
+3 MAP
+4 LATI N40.65
+4 LONG W73.95
+2 SOUR @Z0SQaG1kRbWQtiKMUjof@
+3 PAGE Year: 1910; Census Place: Brooklyn Ward 29, Kings, New York
+4 CONC ; Roll: T624_982; Page: 4A; Enumeration District: 0931; FH
+4 CONC L microfilm: 1374995
+3 OBJE @M3@
+3 _APID 1,7884::119643625
+2 NOTE Age in 1910: 2; Marital Status: Single; Relation to Head o
+3 CONC f House: Granddaughter
+1 RESI
+2 DATE 01 JUN 1915
+2 PLAC Brooklyn, Kings, New York, USA
+3 MAP
+4 LATI N40.65
+4 LONG W73.95
+2 SOUR @es9CfZUrS7S7jzWga8jJ@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1915; Election District: 24; Assembly Di
+4 CONC strict: 18; City: New York; County: Kings; Page: 48
+3 OBJE @M35@
+3 _APID 1,2703::4343114
+2 NOTE Age: 8; Relation to Head of House: GrandDaughter
+1 RESI
+2 DATE 1920
+2 PLAC Brooklyn, Kings, New York, USA
+3 MAP
+4 LATI N40.65
+4 LONG W73.95
+2 SOUR @pZSp306qQOGHvPqm0c60@
+3 PAGE Year: 1920; Census Place: Brooklyn Assembly District 21, Kin
+4 CONC gs, New York
+3 OBJE @M7@
+3 _APID 1,6061::85922400
+2 NOTE Age: 12; Marital Status: Single; Relation to Head of House
+3 CONC : Daughter
+1 RESI
+2 DATE 01 JUN 1925
+2 PLAC Brooklyn, Kings, New York, USA
+3 MAP
+4 LATI N40.65
+4 LONG W73.95
+2 SOUR @qbJrAuEoSlOpEAW1dC2d@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1925; Election District: 62; Assembly Di
+4 CONC strict: 21; City: Brooklyn; County: Kings; Page: 14
+3 OBJE @M37@
+3 _APID 1,2704::18252575
+2 NOTE Age: 11; Relationship: Daughter
+1 RESI
+2 DATE 1930
+2 PLAC Brooklyn, Kings, New York, USA
+3 MAP
+4 LATI N40.65
+4 LONG W73.95
+2 SOUR @cYpH9GKbREexd30xG7Ri@
+3 PAGE Year: 1930; Census Place: Brooklyn, Kings, New York; Roll: 1
+4 CONC 538; Page: 16A; Enumeration District: 870; Image: 506.0; FH
+4 CONC L microfilm: 2341273
+3 OBJE @M11@
+3 _APID 1,6224::40607215
+2 NOTE Age: 22; Marital Status: Single; Relation to Head of House
+3 CONC : Daughter
+1 RESI
+2 DATE 1935
+2 PLAC Brooklyn, Kings, New York, USA
+3 MAP
+4 LATI N40.65
+4 LONG W73.95
+2 SOUR @wasQXzkoQbebWtJVQDxQ@
+3 PAGE Year: 1940; Census Place: New York, Kings, New York; Roll: T
+4 CONC 627_2554; Page: 13A; Enumeration District: 24-309A
+3 OBJE @M95@
+3 _APID 1,2442::10647126
+1 RESI
+2 DATE 01 APR 1940
+2 PLAC 1545 East 34th Street, Brooklyn, Kings, New York, USA
+2 SOUR @wasQXzkoQbebWtJVQDxQ@
+3 PAGE Year: 1940; Census Place: New York, Kings, New York; Roll: T
+4 CONC 627_2554; Page: 13A; Enumeration District: 24-309A
+3 OBJE @M95@
+3 _APID 1,2442::10647126
+2 NOTE Age: 30; Marital Status: Married; Relation to Head of House
+3 CONC : Wife
 1 DEAT
 2 DATE 27 MAR 1946
+2 PLAC Brooklyn, Kings, New York, USA
+3 MAP
+4 LATI N40.65
+4 LONG W73.95
+2 SOUR @AjMegeGBTpu0nJWDRMDA@
+3 _APID 1,9131::4437234
+2 SOUR @S94@
+3 QUAY 1
 1 _XY 1017 2166
 0 @kw0WWcXGTV2pDI8nqtIM@ INDI
 1 REFN 99bf2438-bf0a-4f71-a1af-fa54f421433c
 1 NAME Lucila Marieta /Pazmiño/
+2 SOUR @Ju7QFFoAQjKaE1Ey19sj@
+3 _APID 1,9089::655446
+2 SOUR @S94@
+3 QUAY 1
 1 SEX F
 1 FAMC @1SlIoqLYRCqfA1ineuNc@
 1 BIRT
 2 DATE 09 JUL 1905
+2 PLAC Brooklyn, Kings, New York, USA
+3 MAP
+4 LATI N40.65
+4 LONG W73.95
+2 SOUR @Ju7QFFoAQjKaE1Ey19sj@
+3 _APID 1,9089::655446
+2 SOUR @S94@
+2 NOTE from NYC birth index (cert #17495)
 1 DEAT
 2 DATE 21 AUG 1906
+2 PLAC Brooklyn, Kings, New York, USA
+3 MAP
+4 LATI N40.65
+4 LONG W73.95
+2 SOUR @S94@
+3 QUAY 1
 1 _XY 848 2166
+0 @I251@ INDI
+1 NAME [REDACTED]
+1 FAMC @F173@
+0 @I250@ INDI
+1 NAME [REDACTED]
+1 FAMC @F172@
+0 @I255@ INDI
+1 NAME [REDACTED]
+1 FAMC @F174@
+1 FAMS @F172@
+0 @I260@ INDI
+1 NAME [REDACTED]
+1 FAMC @F174@
 0 @I195@ INDI
 1 REFN 6034cd99-90bc-4258-a56b-23b0c3a0808e
 1 NAME Rosario /Pazmiño/
-2 SOUR @S68@
+2 SOUR @S94@
 1 SEX F
 1 FAMC @F62@
 1 DEAT
@@ -6420,24 +8323,447 @@
 3 MAP
 4 LATI S0.2167
 4 LONG W78.5
-2 SOUR @S68@
+2 SOUR @S94@
 1 BIRT
 2 PLAC Quito, Pichincha, Ecuador
 3 MAP
 4 LATI S0.2167
 4 LONG W78.5
-2 SOUR @S68@
+2 SOUR @S94@
 1 _XY 491 1979
 0 @CfNvHZZyS5qd0UXAmPV8@ INDI
 1 REFN 6e791551-8717-48ca-9a5a-a27890ac627c
 1 NAME Víctor Estenio /Pazmiño/
+2 SOUR @zznD1WJ7RJetSxS9JJ2R@
+3 PAGE Year: 1900; Census Place: Brooklyn Ward 23, Kings, New York
+4 CONC ; Roll: 1062; Page: 7B; Enumeration District: 0414; FHL micr
+4 CONC ofilm: 1241062
+3 OBJE @M2@
+3 _APID 1,7602::55538891
+2 SOUR @Z0SQaG1kRbWQtiKMUjof@
+3 PAGE Year: 1910; Census Place: Brooklyn Ward 29, Kings, New York
+4 CONC ; Roll: T624_982; Page: 4A; Enumeration District: 0931; FH
+4 CONC L microfilm: 1374995
+3 OBJE @M3@
+3 _APID 1,7884::119643622
+2 SOUR @pZSp306qQOGHvPqm0c60@
+3 PAGE Year: 1920; Census Place: Brooklyn Assembly District 21, Kin
+4 CONC gs, New York
+3 OBJE @M7@
+3 _APID 1,6061::85922397
+2 SOUR @cYpH9GKbREexd30xG7Ri@
+3 PAGE Year: 1930; Census Place: Brooklyn, Kings, New York; Roll: 1
+4 CONC 538; Page: 16A; Enumeration District: 870; Image: 506.0.
+3 DATA
+4 TEXT Birth date:
+5 CONT abt 1900 Birth place:
+5 CONT Residence date:
+5 CONT 1930 Residence place:
+5 CONT Brooklyn, Kings, New York
+3 OBJE @M11@
+3 _APID 1,6224::40607231
+2 SOUR @wasQXzkoQbebWtJVQDxQ@
+3 PAGE Year: 1940; Census Place: New York, Kings, New York; Roll: T
+4 CONC 627_2615; Page: 2A; Enumeration District: 24-2589
+3 OBJE @M15@
+3 _APID 1,2442::5009217
+2 SOUR @S87@
+3 PAGE National Archives and Records Administration; Washington, DC
+4 CONC ; ARC Title: Index to Petitions for Naturalizations Filed i
+4 CONC n Federal, State, and Local Courts in New York City, 1792-19
+4 CONC 06; NAI Number: 5700802; Record Group Title: Records of Dist
+4 CONC rict Courts of th
+3 OBJE @M70@
+3 _APID 1,2280::3792382
+2 SOUR @S87@
+3 PAGE Petition for Naturalization; National Archives and Records A
+4 CONC dministration; Washington, DC; NAI Title: Index to Petition
+4 CONC s for Naturalizations Filed in Federal, State, and Local Cou
+4 CONC rts in New York City, 1792-1906; NAI Number: 5700802; Recor
+4 CONC d Group Title: Records of District Courts of the United Stat
+4 CONC es, 1685-2009; Record Group Number: RG 21
+3 OBJE @M123@
+3 _APID 1,2280::3358634
+2 SOUR @Ap7270q8QDmqnp4oKY6u@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1905; Election District: A.D. 18 E.D. 16
+4 CONC ; City: Brooklyn; County: Kings; Page: 34
+3 OBJE @M34@
+3 _APID 1,7364::1035435
+2 SOUR @es9CfZUrS7S7jzWga8jJ@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1915; Election District: 24; Assembly Di
+4 CONC strict: 18; City: New York; County: Kings; Page: 48
+3 OBJE @M35@
+3 _APID 1,2703::4343104
+2 SOUR @qbJrAuEoSlOpEAW1dC2d@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1925; Election District: 62; Assembly Di
+4 CONC strict: 21; City: Brooklyn; County: Kings; Page: 14
+3 OBJE @M37@
+3 _APID 1,2704::18252567
+2 SOUR @S94@
+3 QUAY 1
+2 SOUR @S130@
+3 PAGE National Archives and Records Administration (NARA), Washing
+4 CONC ton D.C.; Petitions for Naturalization of the U.S. Distric
+4 CONC t Court for the Eastern District of New York, 1865-1937; NAR
+4 CONC A Series: M1879; Reference: (Roll 313) Petition No 53151 - P
+4 CONC etition No 53500
+3 OBJE @M121@
+3 _APID 1,1554::3358634
+2 SOUR @S131@
+3 PAGE National Archives and Records Administration (NARA); Washing
+4 CONC ton, D.C.; Index to Naturalization Petitions of the United S
+4 CONC tates District Court for the Eastern District of New York, 1
+4 CONC 865-1957; Microfilm Serial: M1164; Microfilm Roll: 104
+3 OBJE @M122@
+3 _APID 1,1192::92084
+2 SOUR @GFCLw2yOQvibba3edsSE@
+3 PAGE Number: 054-07-0241; Issue State: New York; Issue Date: Befo
+4 CONC re 1951
+3 _APID 1,3693::47841158
+2 SOUR @dqHcxE1wRc6wPON8Y87m@
+3 PAGE Registration Location: Kings County, New York; Roll: 1754595
+4 CONC ; Draft Board: 67.
+3 DATA
+4 TEXT Birth date:
+5 CONT Jun 24 1899 Birth place:
+5 CONT Residence date:
+5 CONT Residence place:
+5 CONT Brooklyn, Kings, New York
+3 OBJE @M120@
+3 _APID 1,6482::12000565
 1 SEX M
 1 FAMC @1SlIoqLYRCqfA1ineuNc@
+1 OBJE @M119@
 1 BIRT
 2 DATE 24 JUN 1899
+2 PLAC Guayaquil, Guayas, Ecuador
+3 MAP
+4 LATI S2.1667
+4 LONG W79.9
+2 SOUR @zznD1WJ7RJetSxS9JJ2R@
+3 PAGE Year: 1900; Census Place: Brooklyn Ward 23, Kings, New York
+4 CONC ; Roll: 1062; Page: 7B; Enumeration District: 0414; FHL micr
+4 CONC ofilm: 1241062
+3 OBJE @M2@
+3 _APID 1,7602::55538891
+2 SOUR @Z0SQaG1kRbWQtiKMUjof@
+3 PAGE Year: 1910; Census Place: Brooklyn Ward 29, Kings, New York
+4 CONC ; Roll: T624_982; Page: 4A; Enumeration District: 0931; FH
+4 CONC L microfilm: 1374995
+3 OBJE @M3@
+3 _APID 1,7884::119643622
+2 SOUR @pZSp306qQOGHvPqm0c60@
+3 PAGE Year: 1920; Census Place: Brooklyn Assembly District 21, Kin
+4 CONC gs, New York
+3 OBJE @M7@
+3 _APID 1,6061::85922397
+2 SOUR @cYpH9GKbREexd30xG7Ri@
+3 PAGE Year: 1930; Census Place: Brooklyn, Kings, New York; Roll: 1
+4 CONC 538; Page: 16A; Enumeration District: 870; Image: 506.0.
+3 DATA
+4 TEXT Birth date:
+5 CONT abt 1900 Birth place:
+5 CONT Residence date:
+5 CONT 1930 Residence place:
+5 CONT Brooklyn, Kings, New York
+3 OBJE @M11@
+3 _APID 1,6224::40607231
+2 SOUR @wasQXzkoQbebWtJVQDxQ@
+3 PAGE Year: 1940; Census Place: New York, Kings, New York; Roll: T
+4 CONC 627_2615; Page: 2A; Enumeration District: 24-2589
+3 OBJE @M15@
+3 _APID 1,2442::5009217
+2 SOUR @S87@
+3 PAGE National Archives and Records Administration; Washington, DC
+4 CONC ; ARC Title: Index to Petitions for Naturalizations Filed i
+4 CONC n Federal, State, and Local Courts in New York City, 1792-19
+4 CONC 06; NAI Number: 5700802; Record Group Title: Records of Dist
+4 CONC rict Courts of th
+3 OBJE @M70@
+3 _APID 1,2280::3792382
+2 SOUR @S87@
+3 PAGE Petition for Naturalization; National Archives and Records A
+4 CONC dministration; Washington, DC; NAI Title: Index to Petition
+4 CONC s for Naturalizations Filed in Federal, State, and Local Cou
+4 CONC rts in New York City, 1792-1906; NAI Number: 5700802; Recor
+4 CONC d Group Title: Records of District Courts of the United Stat
+4 CONC es, 1685-2009; Record Group Number: RG 21
+3 OBJE @M123@
+3 _APID 1,2280::3358634
+2 SOUR @Ap7270q8QDmqnp4oKY6u@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1905; Election District: A.D. 18 E.D. 16
+4 CONC ; City: Brooklyn; County: Kings; Page: 34
+3 OBJE @M34@
+3 _APID 1,7364::1035435
+2 SOUR @es9CfZUrS7S7jzWga8jJ@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1915; Election District: 24; Assembly Di
+4 CONC strict: 18; City: New York; County: Kings; Page: 48
+3 OBJE @M35@
+3 _APID 1,2703::4343104
+2 SOUR @qbJrAuEoSlOpEAW1dC2d@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1925; Election District: 62; Assembly Di
+4 CONC strict: 21; City: Brooklyn; County: Kings; Page: 14
+3 OBJE @M37@
+3 _APID 1,2704::18252567
+2 SOUR @S94@
+3 QUAY 1
+2 SOUR @S130@
+3 PAGE National Archives and Records Administration (NARA), Washing
+4 CONC ton D.C.; Petitions for Naturalization of the U.S. Distric
+4 CONC t Court for the Eastern District of New York, 1865-1937; NAR
+4 CONC A Series: M1879; Reference: (Roll 313) Petition No 53151 - P
+4 CONC etition No 53500
+3 OBJE @M121@
+3 _APID 1,1554::3358634
+2 SOUR @S131@
+3 PAGE National Archives and Records Administration (NARA); Washing
+4 CONC ton, D.C.; Index to Naturalization Petitions of the United S
+4 CONC tates District Court for the Eastern District of New York, 1
+4 CONC 865-1957; Microfilm Serial: M1164; Microfilm Roll: 104
+3 OBJE @M122@
+3 _APID 1,1192::92084
+2 SOUR @GFCLw2yOQvibba3edsSE@
+3 PAGE Number: 054-07-0241; Issue State: New York; Issue Date: Befo
+4 CONC re 1951
+3 _APID 1,3693::47841158
+2 SOUR @dqHcxE1wRc6wPON8Y87m@
+3 PAGE Registration Location: Kings County, New York; Roll: 1754595
+4 CONC ; Draft Board: 67.
+3 DATA
+4 TEXT Birth date:
+5 CONT Jun 24 1899 Birth place:
+5 CONT Residence date:
+5 CONT Residence place:
+5 CONT Brooklyn, Kings, New York
+3 OBJE @M120@
+3 _APID 1,6482::12000565
+2 NOTE date agrees with SSDI
+1 RESI
+2 DATE 1900
+2 PLAC Brooklyn, Kings, New York, USA
+3 MAP
+4 LATI N40.65
+4 LONG W73.95
+2 SOUR @zznD1WJ7RJetSxS9JJ2R@
+3 PAGE Year: 1900; Census Place: Brooklyn Ward 23, Kings, New York
+4 CONC ; Roll: 1062; Page: 7B; Enumeration District: 0414; FHL micr
+4 CONC ofilm: 1241062
+3 OBJE @M2@
+3 _APID 1,7602::55538891
+2 NOTE Age: 1; Marital Status: Single; Relation to Head of House: S
+3 CONC on
+1 EVEN
+2 TYPE Arrival
+2 DATE 1900
+2 PLAC New York, New York, USA
+3 MAP
+4 LATI N40.7744
+4 LONG W73.9721
+2 SOUR @S87@
+3 PAGE National Archives and Records Administration; Washington, DC
+4 CONC ; ARC Title: Index to Petitions for Naturalizations Filed i
+4 CONC n Federal, State, and Local Courts in New York City, 1792-19
+4 CONC 06; NAI Number: 5700802; Record Group Title: Records of Dist
+4 CONC rict Courts of th
+3 OBJE @M70@
+3 _APID 1,2280::3792382
+2 SOUR @S87@
+3 PAGE Petition for Naturalization; National Archives and Records A
+4 CONC dministration; Washington, DC; NAI Title: Index to Petition
+4 CONC s for Naturalizations Filed in Federal, State, and Local Cou
+4 CONC rts in New York City, 1792-1906; NAI Number: 5700802; Recor
+4 CONC d Group Title: Records of District Courts of the United Stat
+4 CONC es, 1685-2009; Record Group Number: RG 21
+3 OBJE @M123@
+3 _APID 1,2280::3358634
+2 SOUR @S130@
+3 PAGE National Archives and Records Administration (NARA), Washing
+4 CONC ton D.C.; Petitions for Naturalization of the U.S. Distric
+4 CONC t Court for the Eastern District of New York, 1865-1937; NAR
+4 CONC A Series: M1879; Reference: (Roll 313) Petition No 53151 - P
+4 CONC etition No 53500
+3 OBJE @M121@
+3 _APID 1,1554::3358634
+1 RESI
+2 DATE 1905
+2 PLAC 680 Saint John's Place, Brooklyn, Kings, New York, USA
+2 SOUR @Ap7270q8QDmqnp4oKY6u@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1905; Election District: A.D. 18 E.D. 16
+4 CONC ; City: Brooklyn; County: Kings; Page: 34
+3 OBJE @M34@
+3 _APID 1,7364::1035435
+2 NOTE Relation to Head of House: Grandchild
+1 RESI
+2 DATE 1910
+2 PLAC Brooklyn, Kings, New York, USA
+3 MAP
+4 LATI N40.65
+4 LONG W73.95
+2 SOUR @Z0SQaG1kRbWQtiKMUjof@
+3 PAGE Year: 1910; Census Place: Brooklyn Ward 29, Kings, New York
+4 CONC ; Roll: T624_982; Page: 4A; Enumeration District: 0931; FH
+4 CONC L microfilm: 1374995
+3 OBJE @M3@
+3 _APID 1,7884::119643622
+2 NOTE Age in 1910: 10; Marital Status: Single; Relation to Head o
+3 CONC f House: Grandson
+1 RESI
+2 DATE 01 JUN 1915
+2 PLAC Brooklyn, Kings, New York, USA
+3 MAP
+4 LATI N40.65
+4 LONG W73.95
+2 SOUR @es9CfZUrS7S7jzWga8jJ@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1915; Election District: 24; Assembly Di
+4 CONC strict: 18; City: New York; County: Kings; Page: 48
+3 OBJE @M35@
+3 _APID 1,2703::4343104
+2 NOTE Age: 15; Relation to Head of House: Grandson
+1 RESI
+2 DATE 1920
+2 PLAC Brooklyn, Kings, New York, USA
+3 MAP
+4 LATI N40.65
+4 LONG W73.95
+2 SOUR @pZSp306qQOGHvPqm0c60@
+3 PAGE Year: 1920; Census Place: Brooklyn Assembly District 21, Kin
+4 CONC gs, New York
+3 OBJE @M7@
+3 _APID 1,6061::85922397
+2 NOTE Age: 20; Marital Status: Single; Relation to Head of House
+3 CONC : Son
+1 EVEN
+2 TYPE NaturalizationDeclaration
+2 DATE 15 NOV 1922
+2 PLAC New York, USA
+3 MAP
+4 LATI N42.7531
+4 LONG W74.2224
+2 SOUR @S87@
+3 PAGE National Archives and Records Administration; Washington, DC
+4 CONC ; ARC Title: Index to Petitions for Naturalizations Filed i
+4 CONC n Federal, State, and Local Courts in New York City, 1792-19
+4 CONC 06; NAI Number: 5700802; Record Group Title: Records of Dist
+4 CONC rict Courts of th
+3 OBJE @M70@
+3 _APID 1,2280::3792382
+2 SOUR @S131@
+3 PAGE National Archives and Records Administration (NARA); Washing
+4 CONC ton, D.C.; Index to Naturalization Petitions of the United S
+4 CONC tates District Court for the Eastern District of New York, 1
+4 CONC 865-1957; Microfilm Serial: M1164; Microfilm Roll: 104
+3 OBJE @M122@
+3 _APID 1,1192::92084
+1 RESI
+2 DATE 01 JUN 1925
+2 PLAC Brooklyn, Kings, New York, USA
+3 MAP
+4 LATI N40.65
+4 LONG W73.95
+2 SOUR @qbJrAuEoSlOpEAW1dC2d@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1925; Election District: 62; Assembly Di
+4 CONC strict: 21; City: Brooklyn; County: Kings; Page: 14
+3 OBJE @M37@
+3 _APID 1,2704::18252567
+2 NOTE Age: 25; Relation to Head of House: Son
+1 EVEN
+2 TYPE NaturalizationPetition
+2 DATE 14 DEC 1925
+2 PLAC New York, New York, USA
+3 MAP
+4 LATI N40.7744
+4 LONG W73.9721
+2 SOUR @S87@
+3 PAGE Petition for Naturalization; National Archives and Records A
+4 CONC dministration; Washington, DC; NAI Title: Index to Petition
+4 CONC s for Naturalizations Filed in Federal, State, and Local Cou
+4 CONC rts in New York City, 1792-1906; NAI Number: 5700802; Recor
+4 CONC d Group Title: Records of District Courts of the United Stat
+4 CONC es, 1685-2009; Record Group Number: RG 21
+3 OBJE @M123@
+3 _APID 1,2280::3358634
+2 SOUR @S130@
+3 PAGE National Archives and Records Administration (NARA), Washing
+4 CONC ton D.C.; Petitions for Naturalization of the U.S. Distric
+4 CONC t Court for the Eastern District of New York, 1865-1937; NAR
+4 CONC A Series: M1879; Reference: (Roll 313) Petition No 53151 - P
+4 CONC etition No 53500
+3 OBJE @M121@
+3 _APID 1,1554::3358634
+1 RESI
+2 DATE 1930
+2 PLAC Brooklyn, Kings, New York, USA
+3 MAP
+4 LATI N40.65
+4 LONG W73.95
+2 SOUR @cYpH9GKbREexd30xG7Ri@
+3 PAGE Year: 1930; Census Place: Brooklyn, Kings, New York; Roll: 1
+4 CONC 538; Page: 16A; Enumeration District: 870; Image: 506.0.
+3 DATA
+4 TEXT Birth date:
+5 CONT abt 1900 Birth place:
+5 CONT Residence date:
+5 CONT 1930 Residence place:
+5 CONT Brooklyn, Kings, New York
+3 OBJE @M11@
+3 _APID 1,6224::40607231
+2 NOTE Age: 30; Marital Status: Single; Relation to Head of House
+3 CONC : Son
+1 RESI
+2 DATE 1935
+2 PLAC Brooklyn, Kings, New York, USA
+3 MAP
+4 LATI N40.65
+4 LONG W73.95
+2 SOUR @wasQXzkoQbebWtJVQDxQ@
+3 PAGE Year: 1940; Census Place: New York, Kings, New York; Roll: T
+4 CONC 627_2615; Page: 2A; Enumeration District: 24-2589
+3 OBJE @M15@
+3 _APID 1,2442::5009217
+1 RESI
+2 DATE 01 APR 1940
+2 PLAC Brooklyn, Kings, New York, USA
+3 MAP
+4 LATI N40.65
+4 LONG W73.95
+2 SOUR @wasQXzkoQbebWtJVQDxQ@
+3 PAGE Year: 1940; Census Place: New York, Kings, New York; Roll: T
+4 CONC 627_2615; Page: 2A; Enumeration District: 24-2589
+3 OBJE @M15@
+3 _APID 1,2442::5009217
+2 NOTE Age: 40; Marital Status: Single; Relation to Head of House
+3 CONC : Son
 1 DEAT
 2 DATE 06 JUN 1970
+2 PLAC Brooklyn, Kings, New York, USA
+3 MAP
+4 LATI N40.65
+4 LONG W73.95
+2 SOUR @S94@
+3 QUAY 1
+2 SOUR @GFCLw2yOQvibba3edsSE@
+3 PAGE Number: 054-07-0241; Issue State: New York; Issue Date: Befo
+4 CONC re 1951
+3 _APID 1,3693::47841158
+1 BAPM
+2 SOUR @7hzCF6rURECkbdc8IJaU@
+3 QUAY 1
+2 NOTE godfather was Eloy Alfaro
+1 EVEN 054-07-0241
+2 TYPE Event
+2 SOUR @a1r7XFsISaCymdVb2Acn@
+3 QUAY 3
 1 _XY 362 2166
+1 _PHOTO @M119@
 0 @LFyrTkO8TJeRCMYIp1k4@ INDI
 1 REFN f24fbb22-c61e-4de9-bd3e-2a2432b2b8a4
 1 NAME Víctor Manuel /Pazmiño/
@@ -6445,29 +8771,29 @@
 3 PAGE Year: 1900; Census Place: Brooklyn Ward 23, Kings, New York
 4 CONC ; Roll: 1062; Page: 7B; Enumeration District: 0414; FHL micr
 4 CONC ofilm: 1241062
-3 OBJE @WQIKjlraSvyuh75lMcGV@
+3 OBJE @M2@
 3 _APID 1,7602::55538889
 2 SOUR @Z0SQaG1kRbWQtiKMUjof@
 3 PAGE Year: 1910; Census Place: Brooklyn Ward 29, Kings, New York
 4 CONC ; Roll: T624_982; Page: 4A; Enumeration District: 0931; FH
 4 CONC L microfilm: 1374995
-3 OBJE @wW2yF8ZoTBaLoIVj2pFS@
+3 OBJE @M3@
 3 _APID 1,7884::18089823
 2 SOUR @pZSp306qQOGHvPqm0c60@
 3 PAGE Year: 1920; Census Place: Brooklyn Assembly District 21, Kin
 4 CONC gs, New York
-3 OBJE @zkZ4Hwa0RDeTpdBJDrjk@
+3 OBJE @M7@
 3 _APID 1,6061::85922395
 2 SOUR @cYpH9GKbREexd30xG7Ri@
 3 PAGE Year: 1930; Census Place: Brooklyn, Kings, New York; Roll: 1
 4 CONC 538; Page: 16A; Enumeration District: 870; Image: 506.0; FH
 4 CONC L microfilm: 2341273
-3 OBJE @hED67TPRQbaNutMsLViG@
+3 OBJE @M11@
 3 _APID 1,6224::40607223
 2 SOUR @wasQXzkoQbebWtJVQDxQ@
 3 PAGE Year: 1940; Census Place: New York, Kings, New York; Roll: T
 4 CONC 627_2615; Page: 2A; Enumeration District: 24-2589
-3 OBJE @EuNyrMxrSMqPhfJjXwGK@
+3 OBJE @M15@
 3 _APID 1,2442::5009213
 2 SOUR @AjMegeGBTpu0nJWDRMDA@
 3 _APID 1,9131::4259816
@@ -6481,19 +8807,19 @@
 3 PAGE New York State Archives; Albany, New York; State Populatio
 4 CONC n Census Schedules, 1905; Election District: A.D. 18 E.D. 16
 4 CONC ; City: Brooklyn; County: Kings; Page: 34
-3 OBJE @oVVo6benTzaeKBTMZDEv@
+3 OBJE @M34@
 3 _APID 1,7364::1518427
 2 SOUR @es9CfZUrS7S7jzWga8jJ@
 3 PAGE New York State Archives; Albany, New York; State Populatio
 4 CONC n Census Schedules, 1915; Election District: 24; Assembly Di
 4 CONC strict: 18; City: New York; County: Kings; Page: 48
-3 OBJE @Ytym72GVSnyP9XaO24dZ@
+3 OBJE @M35@
 3 _APID 1,2703::4343099
 2 SOUR @qbJrAuEoSlOpEAW1dC2d@
 3 PAGE New York State Archives; Albany, New York; State Populatio
 4 CONC n Census Schedules, 1925; Election District: 62; Assembly Di
 4 CONC strict: 21; City: Brooklyn; County: Kings; Page: 14
-3 OBJE @wsV4DyQST5mb92NIWFap@
+3 OBJE @M37@
 3 _APID 1,2704::18252559
 2 SOUR @JuvN02kJRnW0gePqwLr2@
 3 OBJE @X8wLD1fkTCSseBhVxcyN@
@@ -6511,29 +8837,29 @@
 3 PAGE Year: 1900; Census Place: Brooklyn Ward 23, Kings, New York
 4 CONC ; Roll: 1062; Page: 7B; Enumeration District: 0414; FHL micr
 4 CONC ofilm: 1241062
-3 OBJE @WQIKjlraSvyuh75lMcGV@
+3 OBJE @M2@
 3 _APID 1,7602::55538889
 2 SOUR @Z0SQaG1kRbWQtiKMUjof@
 3 PAGE Year: 1910; Census Place: Brooklyn Ward 29, Kings, New York
 4 CONC ; Roll: T624_982; Page: 4A; Enumeration District: 0931; FH
 4 CONC L microfilm: 1374995
-3 OBJE @wW2yF8ZoTBaLoIVj2pFS@
+3 OBJE @M3@
 3 _APID 1,7884::18089823
 2 SOUR @pZSp306qQOGHvPqm0c60@
 3 PAGE Year: 1920; Census Place: Brooklyn Assembly District 21, Kin
 4 CONC gs, New York
-3 OBJE @zkZ4Hwa0RDeTpdBJDrjk@
+3 OBJE @M7@
 3 _APID 1,6061::85922395
 2 SOUR @cYpH9GKbREexd30xG7Ri@
 3 PAGE Year: 1930; Census Place: Brooklyn, Kings, New York; Roll: 1
 4 CONC 538; Page: 16A; Enumeration District: 870; Image: 506.0; FH
 4 CONC L microfilm: 2341273
-3 OBJE @hED67TPRQbaNutMsLViG@
+3 OBJE @M11@
 3 _APID 1,6224::40607223
 2 SOUR @wasQXzkoQbebWtJVQDxQ@
 3 PAGE Year: 1940; Census Place: New York, Kings, New York; Roll: T
 4 CONC 627_2615; Page: 2A; Enumeration District: 24-2589
-3 OBJE @EuNyrMxrSMqPhfJjXwGK@
+3 OBJE @M15@
 3 _APID 1,2442::5009213
 2 SOUR @AjMegeGBTpu0nJWDRMDA@
 3 _APID 1,9131::4259816
@@ -6547,19 +8873,19 @@
 3 PAGE New York State Archives; Albany, New York; State Populatio
 4 CONC n Census Schedules, 1905; Election District: A.D. 18 E.D. 16
 4 CONC ; City: Brooklyn; County: Kings; Page: 34
-3 OBJE @oVVo6benTzaeKBTMZDEv@
+3 OBJE @M34@
 3 _APID 1,7364::1518427
 2 SOUR @es9CfZUrS7S7jzWga8jJ@
 3 PAGE New York State Archives; Albany, New York; State Populatio
 4 CONC n Census Schedules, 1915; Election District: 24; Assembly Di
 4 CONC strict: 18; City: New York; County: Kings; Page: 48
-3 OBJE @Ytym72GVSnyP9XaO24dZ@
+3 OBJE @M35@
 3 _APID 1,2703::4343099
 2 SOUR @qbJrAuEoSlOpEAW1dC2d@
 3 PAGE New York State Archives; Albany, New York; State Populatio
 4 CONC n Census Schedules, 1925; Election District: 62; Assembly Di
 4 CONC strict: 21; City: Brooklyn; County: Kings; Page: 14
-3 OBJE @wsV4DyQST5mb92NIWFap@
+3 OBJE @M37@
 3 _APID 1,2704::18252559
 2 SOUR @6aqPLR14TiS7VI3rS1TL@
 3 QUAY 1
@@ -6608,7 +8934,7 @@
 3 PAGE Year: 1900; Census Place: Brooklyn Ward 23, Kings, New York
 4 CONC ; Roll: 1062; Page: 7B; Enumeration District: 0414; FHL micr
 4 CONC ofilm: 1241062
-3 OBJE @WQIKjlraSvyuh75lMcGV@
+3 OBJE @M2@
 3 _APID 1,7602::55538889
 2 NOTE Age: 25; Marital Status: Married; Relation to Head of House
 3 CONC : Head
@@ -6667,7 +8993,7 @@
 3 PAGE New York State Archives; Albany, New York; State Populatio
 4 CONC n Census Schedules, 1905; Election District: A.D. 18 E.D. 16
 4 CONC ; City: Brooklyn; County: Kings; Page: 34
-3 OBJE @oVVo6benTzaeKBTMZDEv@
+3 OBJE @M34@
 3 _APID 1,7364::1518427
 2 NOTE Relation to Head of House: Son-in-law
 1 CENS
@@ -6685,7 +9011,7 @@
 3 PAGE Year: 1910; Census Place: Brooklyn Ward 29, Kings, New York
 4 CONC ; Roll: T624_982; Page: 4A; Enumeration District: 0931; FH
 4 CONC L microfilm: 1374995
-3 OBJE @wW2yF8ZoTBaLoIVj2pFS@
+3 OBJE @M3@
 3 _APID 1,7884::18089823
 2 NOTE Age: 38; Marital Status: Married; Relation to Head of House
 3 CONC : Son-in-law
@@ -6743,7 +9069,7 @@
 3 PAGE New York State Archives; Albany, New York; State Populatio
 4 CONC n Census Schedules, 1915; Election District: 24; Assembly Di
 4 CONC strict: 18; City: New York; County: Kings; Page: 48
-3 OBJE @Ytym72GVSnyP9XaO24dZ@
+3 OBJE @M35@
 3 _APID 1,2703::4343099
 2 NOTE Age: 42; Relation to Head of House: Son-in-law
 1 RESI
@@ -6766,7 +9092,7 @@
 2 SOUR @pZSp306qQOGHvPqm0c60@
 3 PAGE Year: 1920; Census Place: Brooklyn Assembly District 21, Kin
 4 CONC gs, New York
-3 OBJE @zkZ4Hwa0RDeTpdBJDrjk@
+3 OBJE @M7@
 3 _APID 1,6061::85922395
 2 NOTE Age: 40; Marital Status: Married; Relation to Head of House
 3 CONC : Head
@@ -6784,7 +9110,7 @@
 3 PAGE New York State Archives; Albany, New York; State Populatio
 4 CONC n Census Schedules, 1925; Election District: 62; Assembly Di
 4 CONC strict: 21; City: Brooklyn; County: Kings; Page: 14
-3 OBJE @wsV4DyQST5mb92NIWFap@
+3 OBJE @M37@
 3 _APID 1,2704::18252559
 2 NOTE Age: 54; Relation to Head of House: Head
 1 CENS
@@ -6802,7 +9128,7 @@
 3 PAGE Year: 1930; Census Place: Brooklyn, Kings, New York; Roll: 1
 4 CONC 538; Page: 16A; Enumeration District: 870; Image: 506.0; FH
 4 CONC L microfilm: 2341273
-3 OBJE @hED67TPRQbaNutMsLViG@
+3 OBJE @M11@
 3 _APID 1,6224::40607223
 2 NOTE Age: 59; Marital Status: Married; Relation to Head of House
 3 CONC : Head
@@ -6815,7 +9141,7 @@
 2 SOUR @wasQXzkoQbebWtJVQDxQ@
 3 PAGE Year: 1940; Census Place: New York, Kings, New York; Roll: T
 4 CONC 627_2615; Page: 2A; Enumeration District: 24-2589
-3 OBJE @EuNyrMxrSMqPhfJjXwGK@
+3 OBJE @M15@
 3 _APID 1,2442::5009213
 1 RESI
 2 DATE 01 APR 1940
@@ -6826,7 +9152,7 @@
 2 SOUR @wasQXzkoQbebWtJVQDxQ@
 3 PAGE Year: 1940; Census Place: New York, Kings, New York; Roll: T
 4 CONC 627_2615; Page: 2A; Enumeration District: 24-2589
-3 OBJE @EuNyrMxrSMqPhfJjXwGK@
+3 OBJE @M15@
 3 _APID 1,2442::5009213
 2 NOTE Age: 68; Marital Status: Married; Relation to Head of House
 3 CONC : Head
@@ -6872,7 +9198,7 @@
 0 @I192@ INDI
 1 REFN e0565871-9cda-400d-bf7e-de6f62248f09
 1 NAME José Manuel /Paz y Miño/
-2 SOUR @S68@
+2 SOUR @S94@
 1 SEX M
 1 FAMC @F67@
 1 FAMS @F62@
@@ -6882,7 +9208,7 @@
 3 MAP
 4 LATI S0.2167
 4 LONG W78.5
-2 SOUR @S68@
+2 SOUR @S94@
 1 PROP bought second house down from Calle de Juan Pío Montúfar
 2 CONC , on the north-east side of the street, from Dolores Zambran
 2 CONC o
@@ -7018,12 +9344,12 @@
 3 MAP
 4 LATI S0.2167
 4 LONG W78.5
-2 SOUR @S68@
+2 SOUR @S94@
 1 _XY 415 1686
 0 @I193@ INDI
 1 REFN 82cad4c3-de97-4c9e-b4a3-29cf70f4c310
 1 NAME Ramón /Paz y Miño/
-2 SOUR @S68@
+2 SOUR @S94@
 1 SEX M
 1 FAMC @F67@
 1 FAMS @F26@
@@ -7079,6 +9405,19 @@
 1 DEAT
 2 PLAC Pasto, Nariño, Colombia
 1 _XY 3411 507
+0 @I229@ INDI
+1 REFN 0c5fef15-bca5-40ea-97df-a93dbb29c830
+1 NAME Daniel /Provost/
+1 SEX M
+1 FAMC @F163@
+0 @I230@ INDI
+1 REFN b1d1d177-6098-4578-9c7b-4dc7343bd4b3
+1 NAME Darron Ronald /Provost/
+2 SOUR @S103@
+3 PAGE Darron Ronald Provost
+3 _APID 1,1100::610945
+1 SEX M
+1 FAMS @F163@
 0 @I199@ INDI
 1 REFN 5450b68d-73bb-4e9c-92fa-87fbb7687b81
 1 NAME /Pueyo/
@@ -7184,6 +9523,149 @@
 1 BIRT
 2 DATE 1640
 1 _XY 2899 706
+0 @I261@ INDI
+1 REFN f640d157-f95b-4dd2-8345-8bcd257ff2f2
+1 NAME Laura Ruth /Roney/
+2 SOUR @cYpH9GKbREexd30xG7Ri@
+3 PAGE Year: 1930; Census Place: Philadelphia, Philadelphia, Pennsy
+4 CONC lvania; Page: 15B; Enumeration District: 0935; FHL microfilm
+4 CONC : 2341849
+3 OBJE @M108@
+3 _APID 1,6224::55898793
+2 SOUR @wasQXzkoQbebWtJVQDxQ@
+3 PAGE Year: 1940; Census Place: Scranton, Lackawanna, Pennsylvania
+4 CONC ; Roll: m-t0627-03685; Page: 11A; Enumeration District: 71-1
+4 CONC 08
+3 OBJE @M109@
+3 _APID 1,2442::26924013
+2 SOUR @S113@
+3 _APID 1,61260::403534
+2 SOUR @S60@
+3 PAGE New York City Municipal Archives; New York, New York; Boroug
+4 CONC h: Brooklyn; Laura R. Roney
+3 OBJE @M107@
+3 _APID 1,61406::914244
+2 SOUR @S61@
+3 PAGE 411 Senior Dr E Apt D, Newark, OH, 43055-2878
+3 _APID 1,1732::4782820
+2 SOUR @S61@
+3 PAGE 411 Senior Dr, Newark, OH, 43055
+3 _APID 1,1732::355388963
+2 SOUR @8SpggOHIRZiow2E3C3cu@
+3 _APID 1,60525::51371628
+2 SOUR @GFCLw2yOQvibba3edsSE@
+3 PAGE Issue State: New York; Issue Date: Before 1951
+3 _APID 1,3693::80085056
+2 SOUR @S112@
+3 _APID 1,70572::687061
+1 SEX F
+1 FAMS @F174@
+1 BIRT
+2 DATE 13 AUG 1920
+2 PLAC Pennsylvania, USA
+3 MAP
+4 LATI N40.8583
+4 LONG W76.3834
+2 SOUR @cYpH9GKbREexd30xG7Ri@
+3 PAGE Year: 1930; Census Place: Philadelphia, Philadelphia, Pennsy
+4 CONC lvania; Page: 15B; Enumeration District: 0935; FHL microfilm
+4 CONC : 2341849
+3 OBJE @M108@
+3 _APID 1,6224::55898793
+2 SOUR @wasQXzkoQbebWtJVQDxQ@
+3 PAGE Year: 1940; Census Place: Scranton, Lackawanna, Pennsylvania
+4 CONC ; Roll: m-t0627-03685; Page: 11A; Enumeration District: 71-1
+4 CONC 08
+3 OBJE @M109@
+3 _APID 1,2442::26924013
+2 SOUR @S113@
+3 _APID 1,61260::403534
+2 SOUR @S61@
+3 PAGE 411 Senior Dr E Apt D, Newark, OH, 43055-2878
+3 _APID 1,1732::4782820
+2 SOUR @S61@
+3 PAGE 411 Senior Dr, Newark, OH, 43055
+3 _APID 1,1732::355388963
+2 SOUR @8SpggOHIRZiow2E3C3cu@
+3 _APID 1,60525::51371628
+2 SOUR @GFCLw2yOQvibba3edsSE@
+3 PAGE Issue State: New York; Issue Date: Before 1951
+3 _APID 1,3693::80085056
+2 SOUR @S112@
+3 _APID 1,70572::687061
+1 RESI
+2 DATE 1930
+2 PLAC Philadelphia, Philadelphia, Pennsylvania, USA
+3 MAP
+4 LATI N39.9522
+4 LONG W75.1642
+2 SOUR @cYpH9GKbREexd30xG7Ri@
+3 PAGE Year: 1930; Census Place: Philadelphia, Philadelphia, Pennsy
+4 CONC lvania; Page: 15B; Enumeration District: 0935; FHL microfilm
+4 CONC : 2341849
+3 OBJE @M108@
+3 _APID 1,6224::55898793
+2 NOTE Marital Status: Single; Relation to Head: Daughter
+1 RESI
+2 DATE 1935
+2 PLAC 411 Senior Drive East, Apartment D, Newark, Licking, Ohio, U
+3 CONC SA
+2 SOUR @S61@
+3 PAGE 411 Senior Dr E Apt D, Newark, OH, 43055-2878
+3 _APID 1,1732::4782820
+2 SOUR @S61@
+3 PAGE 411 Senior Dr, Newark, OH, 43055
+3 _APID 1,1732::355388963
+1 RESI
+2 DATE 1940
+2 PLAC Scranton, Lackawanna, Pennsylvania, USA
+3 MAP
+4 LATI N41.409
+4 LONG W75.6624
+2 SOUR @wasQXzkoQbebWtJVQDxQ@
+3 PAGE Year: 1940; Census Place: Scranton, Lackawanna, Pennsylvania
+4 CONC ; Roll: m-t0627-03685; Page: 11A; Enumeration District: 71-1
+4 CONC 08
+3 OBJE @M109@
+3 _APID 1,2442::26924013
+2 NOTE Marital Status: Single; Relation to Head: S Nurse
+1 DEAT
+2 DATE 13 JUN 2007
+2 PLAC New Jersey, USA
+3 MAP
+4 LATI N40.1365
+4 LONG W73.2613
+2 SOUR @S113@
+3 _APID 1,61260::403534
+2 SOUR @8SpggOHIRZiow2E3C3cu@
+3 _APID 1,60525::51371628
+2 SOUR @GFCLw2yOQvibba3edsSE@
+3 PAGE Issue State: New York; Issue Date: Before 1951
+3 _APID 1,3693::80085056
+2 SOUR @S112@
+3 _APID 1,70572::687061
+1 BURI
+2 PLAC Calverton National Cemetery, Calverton, Suffolk, New York, U
+3 CONC SA
+2 SOUR @8SpggOHIRZiow2E3C3cu@
+3 _APID 1,60525::51371628
+2 SOUR @S112@
+3 _APID 1,70572::687061
+1 _XY 4012 4293
+0 @I244@ INDI
+1 NAME [REDACTED]
+1 FAMC @F170@
+0 @I243@ INDI
+1 NAME [REDACTED]
+1 FAMC @F170@
+0 @I245@ INDI
+1 NAME [REDACTED]
+1 FAMS @F170@
+0 @I242@ INDI
+1 REFN 178394d8-7860-4aa4-a073-8490b0ad49f9
+1 NAME unknown /Rubano/
+1 SEX F
+1 FAMC @F170@
 0 @I206@ INDI
 1 REFN be20cccf-ed1d-4ceb-9afd-5ef309ce06bf
 1 NAME María /Ruiz/
@@ -7197,6 +9679,74 @@
 1 BIRT
 2 PLAC Membrilla, Toledo, Espana
 1 _XY 7676 324
+0 @I224@ INDI
+1 NAME [REDACTED]
+1 FAMC @F162@
+1 FAMS @F161@
+0 @I225@ INDI
+1 REFN 4d676719-85e5-45af-8b33-5191ec3e8131
+1 NAME David Jesse /Shoop/
+2 SOUR @S100@
+3 PAGE Birthdate: 30 Jun 1961; Birth County: San Bernardino
+3 _APID 1,5247::8211523
+2 SOUR @S98@
+3 PAGE David J Shoop
+3 OBJE @M83@
+3 _APID 1,1144::3848964
+2 SOUR @S101@
+3 PAGE Oregon State Library; Oregon Death Indexes, 1971-2008; Ree
+4 CONC l Title: State of Oregon Death Index; Year Range: 1991-2000
+3 OBJE @M84@
+3 _APID 1,5254::1601483
+2 SOUR @S2fyUKW7QvupWtUQHBOs@
+3 _APID 1,60901::33415375
+2 SOUR @GFCLw2yOQvibba3edsSE@
+3 PAGE Number: 554-72-6529; Issue State: California; Issue Date: 19
+4 CONC 63
+3 _APID 1,3693::56893011
+1 SEX M
+1 FAMS @F162@
+1 BIRT
+2 DATE 30 JUN 1961
+2 PLAC San Bernardino, California, USA
+3 MAP
+4 LATI N34.8283
+4 LONG W116.1913
+2 SOUR @S100@
+3 PAGE Birthdate: 30 Jun 1961; Birth County: San Bernardino
+3 _APID 1,5247::8211523
+2 SOUR @S98@
+3 PAGE David J Shoop
+3 OBJE @M83@
+3 _APID 1,1144::3848964
+2 SOUR @S101@
+3 PAGE Oregon State Library; Oregon Death Indexes, 1971-2008; Ree
+4 CONC l Title: State of Oregon Death Index; Year Range: 1991-2000
+3 OBJE @M84@
+3 _APID 1,5254::1601483
+2 SOUR @S2fyUKW7QvupWtUQHBOs@
+3 _APID 1,60901::33415375
+2 SOUR @GFCLw2yOQvibba3edsSE@
+3 PAGE Number: 554-72-6529; Issue State: California; Issue Date: 19
+4 CONC 63
+3 _APID 1,3693::56893011
+1 DEAT
+2 DATE 10 DEC 2000
+2 PLAC Linn, Oregon, USA
+3 MAP
+4 LATI N44.4917
+4 LONG W122.5265
+2 SOUR @S101@
+3 PAGE Oregon State Library; Oregon Death Indexes, 1971-2008; Ree
+4 CONC l Title: State of Oregon Death Index; Year Range: 1991-2000
+3 OBJE @M84@
+3 _APID 1,5254::1601483
+2 SOUR @S2fyUKW7QvupWtUQHBOs@
+3 _APID 1,60901::33415375
+2 SOUR @GFCLw2yOQvibba3edsSE@
+3 PAGE Number: 554-72-6529; Issue State: California; Issue Date: 19
+4 CONC 63
+3 _APID 1,3693::56893011
 0 @FJk6qyKJTzCXM3s8ubkE@ INDI
 1 REFN c1aae287-d761-48e8-a119-8b0616d508c2
 1 NAME Byron /Stevens/
@@ -7356,13 +9906,141 @@
 4 CONC fore 1951
 3 _APID 1,3693::59521294
 1 _XY 4619 2159
+0 @I240@ INDI
+1 NAME [REDACTED]
+1 FAMS @F169@
+0 @I239@ INDI
+1 NAME [REDACTED]
+1 FAMC @F169@
+0 @I213@ INDI
+1 REFN 5bf3878b-b4ba-451c-94f4-951212af7e08
+1 NAME Howard D. /Timmons/
+1 SEX M
+1 FAMC @F157@
+0 @I217@ INDI
+1 REFN 9aaf1ff5-fbf1-47e5-9337-ce454738af08
+1 NAME Howard Douglas /Timmons/
+2 SOUR @S60@
+3 PAGE New York City Municipal Archives; New York, New York; Boroug
+4 CONC h: Brooklyn; Howard Timmons
+3 _APID 1,61406::3380908
+2 SOUR @S92@
+3 PAGE North Carolina State Archives; Raleigh, North Carolina; Nort
+4 CONC h Carolina Death Certificates
+3 OBJE @M82@
+3 _APID 1,1121::184778
+2 SOUR @S93@
+3 _APID 1,8908::4649594
+2 SOUR @8SpggOHIRZiow2E3C3cu@
+3 _APID 1,60525::16542773
+1 SEX M
+1 FAMS @F157@
+1 BIRT
+2 DATE 11 JUL 1942
+2 PLAC South Carolina, USA
+3 MAP
+4 LATI N33.6375
+4 LONG W80.0833
+2 SOUR @S92@
+3 PAGE North Carolina State Archives; Raleigh, North Carolina; Nort
+4 CONC h Carolina Death Certificates
+3 OBJE @M82@
+3 _APID 1,1121::184778
+2 SOUR @S93@
+3 _APID 1,8908::4649594
+2 SOUR @8SpggOHIRZiow2E3C3cu@
+3 _APID 1,60525::16542773
+1 DEAT
+2 DATE 26 JUN 1974
+2 PLAC Charlotte, Mecklenburg, North Carolina, USA
+3 MAP
+4 LATI N35.2271
+4 LONG W80.8431
+2 SOUR @S92@
+3 PAGE North Carolina State Archives; Raleigh, North Carolina; Nort
+4 CONC h Carolina Death Certificates
+3 OBJE @M82@
+3 _APID 1,1121::184778
+2 SOUR @S93@
+3 _APID 1,8908::4649594
+2 SOUR @8SpggOHIRZiow2E3C3cu@
+3 _APID 1,60525::16542773
+1 BURI
+2 PLAC Rock Hill, York, South Carolina, USA
+3 MAP
+4 LATI N34.9249
+4 LONG W81.0251
+2 SOUR @8SpggOHIRZiow2E3C3cu@
+3 _APID 1,60525::16542773
+1 RESI
+2 PLAC Rock Hill, York, South Carolina, USA
+3 MAP
+4 LATI N34.9249
+4 LONG W81.0251
+2 SOUR @S92@
+3 PAGE North Carolina State Archives; Raleigh, North Carolina; Nort
+4 CONC h Carolina Death Certificates
+3 OBJE @M82@
+3 _APID 1,1121::184778
+0 @I212@ INDI
+1 REFN 0c7464aa-6b4b-4ed8-af2b-03ea7f17710e
+1 NAME Jennifer Ann /Timmons/
+1 SEX F
+1 FAMC @F157@
+0 @I214@ INDI
+1 REFN 1c20a5be-feec-43aa-98bd-fc019c6a52af
+1 NAME Masie /Timmons/
+1 SEX F
+1 FAMC @F158@
+0 @I216@ INDI
+1 REFN 4b95fc26-70fb-4dc7-9fd6-82bc165ac888
+1 NAME Raymond Scott /Timmons/
+1 SEX M
+1 FAMC @F157@
+1 FAMS @F158@
+1 BIRT
+2 DATE 29 APR 1966
+2 PLAC Brooklyn, New York City, New York, USA
+1 DEAT
+2 DATE 13 JUN 2003
+2 PLAC Dare, North Carolina, USA
+3 MAP
+4 LATI N35.6899
+4 LONG W75.727
+0 @I236@ INDI
+1 NAME [REDACTED]
+1 FAMS @F166@
+1 FAMS @F167@
+0 @I232@ INDI
+1 NAME [REDACTED]
+1 FAMC @F164@
+0 @I235@ INDI
+1 NAME [REDACTED]
+1 FAMC @F166@
+1 FAMS @F165@
+1 FAMS @F164@
+0 @I264@ INDI
+1 REFN 4666dc9e-8ba0-4b0e-802b-e3dcf1ca1383
+1 NAME Susan Lynn /Turnblad/
+2 SOUR @S103@
+3 PAGE p. C412190, Susan Lynn Turnblad
+3 _APID 1,1100::4227147
+2 SOUR @S103@
+3 PAGE p. Z002564, Susan Lynn Turnblad
+3 _APID 1,1100::4227148
+1 SEX F
+1 FAMS @F178@
+1 FAMS @F167@
+0 @I220@ INDI
+1 NAME [REDACTED]
+1 FAMC @F159@
 0 @I207@ INDI
 1 REFN 2b41e5f6-cf83-4573-9094-930cbef8c9e7
 1 NAME unknown /Valdospinos/
 2 SOUR @S65@
 3 PAGE http://gw.geneanet.org/ecuadorgen?lang=en;pz=fausto+anibal;n
 4 CONC z=alvarado;ocz=0;p=n;n=valdospinos
-2 SOUR @S68@
+2 SOUR @S94@
 1 SEX F
 1 FAMS @F17@
 1 BIRT
@@ -7370,7 +10048,7 @@
 3 MAP
 4 LATI S0.2167
 4 LONG W78.5
-2 SOUR @S68@
+2 SOUR @S94@
 1 _XY 1699 1139
 0 @I208@ INDI
 1 REFN 88168a95-716c-4103-bb2a-d47fbcd5c33c
@@ -7507,7 +10185,7 @@
 0 @I209@ INDI
 1 REFN 5b65707a-97c5-44e2-94ad-dcb870b3ed6b
 1 NAME Dolores /Zambrano/
-2 SOUR @S68@
+2 SOUR @S94@
 1 SEX F
 1 FAMS @F55@
 1 FAMS @F60@
@@ -7517,7 +10195,7 @@
 3 MAP
 4 LATI S0.2167
 4 LONG W78.5
-2 SOUR @S68@
+2 SOUR @S94@
 2 NOTE date is just a guess based on age of husband Joaquin
 1 PROP bought second house down from Calle de Juan Pío Montúfar
 2 CONC , on the north-east side of the street, from Daniel Carvajal
@@ -7649,7 +10327,7 @@
 4 CONC al/fondo-editorial?id=308
 1 DEAT
 2 DATE ABT FEB 1873
-2 SOUR @S68@
+2 SOUR @S94@
 1 _XY 1320 1522
 0 @sbahjdXgTgemP1XmcDMb@ INDI
 1 NAME [REDACTED]
@@ -8437,6 +11115,10 @@
 1 BIRT
 2 DATE ABT 1880
 1 _XY 4180 1989
+0 @F177@ FAM
+1 WIFE @WoxchgtUThaqilYvgwn2@
+0 @F178@ FAM
+1 WIFE @I264@
 0 @F17@ FAM
 1 REFN 9e8a722b-7cfd-43bf-9d55-8617839f447b
 1 HUSB @I54@
@@ -8560,6 +11242,9 @@
 3 MAP
 4 LATI N0.35
 4 LONG W78.1167
+0 @F161@ FAM
+1 HUSB @I223@
+1 WIFE @I224@
 0 @F28@ FAM
 1 REFN 4388101a-8c69-4b5e-bedd-8d353ec66d85
 1 HUSB @I75@
@@ -8847,6 +11532,12 @@
 2 DATE ABT 1797
 2 PLAC San Pablo del Lago, Imbabura, Ecuador
 2 SOUR @S72@
+0 @F176@ FAM
+1 HUSB @I263@
+1 WIFE @7dwtINhERSyVygimODYv@
+1 CHIL @I262@
+2 _FREL Natural
+2 _MREL Natural
 0 @F25@ FAM
 1 REFN c21b70a4-460b-4586-81ef-980b255ad879
 1 HUSB @I151@
@@ -8881,6 +11572,12 @@
 1 CHIL @I160@
 2 _FREL Natural
 2 _MREL Natural
+0 @F171@ FAM
+1 HUSB @I249@
+1 WIFE @4p97S4PRROqpAsXPq5TW@
+1 CHIL @I248@
+2 _FREL Natural
+2 _MREL Natural
 0 @F59@ FAM
 1 REFN a861d2f3-9011-4e9e-96e8-88c604b47ece
 1 HUSB @I164@
@@ -8894,6 +11591,40 @@
 1 WIFE @I206@
 1 CHIL @I203@
 2 _FREL Natural
+2 _MREL Natural
+0 @F160@ FAM
+1 HUSB @I247@
+1 WIFE @I248@
+1 CHIL @I246@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I241@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I237@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I231@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I228@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I227@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I226@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I222@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I221@
+2 _FREL Natural
+2 _MREL Natural
+0 @F159@ FAM
+1 WIFE @I221@
+1 CHIL @I220@
 2 _MREL Natural
 0 @F60@ FAM
 1 REFN 64ebd315-0e39-4c7b-87f1-d1b6bfff9975
@@ -8917,6 +11648,9 @@
 3 MAP
 4 LATI S0.2167
 4 LONG W78.5
+0 @F168@ FAM
+1 HUSB @I238@
+1 WIFE @I241@
 0 @OKdDV6OTTgqa6v5V076w@ FAM
 1 HUSB @6aeVf5NSTjWavUj0L48r@
 1 WIFE @k71urNFWTqGNlRZnKxQA@
@@ -8967,9 +11701,9 @@
 3 PAGE Year: 1900; Census Place: Brooklyn Ward 23, Kings, New York
 4 CONC ; Roll: 1062; Page: 7B; Enumeration District: 0414; FHL micr
 4 CONC ofilm: 1241062
-3 OBJE @WQIKjlraSvyuh75lMcGV@
+3 OBJE @M2@
 3 _APID 1,7602::55538888
-2 SOUR @S68@
+2 SOUR @S94@
 3 QUAY 1
 0 @F61@ FAM
 1 REFN 7fef65a9-8569-46dd-9a17-2fb978d4c8d6
@@ -9062,6 +11796,56 @@
 1 CHIL @I89@
 2 _FREL Natural
 2 _MREL Natural
+0 @F174@ FAM
+1 HUSB @BWtACvWjTEOJhfN1lpVU@
+1 WIFE @I261@
+1 CHIL @I256@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I258@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I255@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I260@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I259@
+2 _FREL Natural
+2 _MREL Natural
+0 @F173@ FAM
+1 HUSB @I253@
+1 WIFE @I252@
+1 CHIL @I251@
+2 _FREL Natural
+2 _MREL Natural
+0 @F156@ FAM
+1 REFN ae0e2505-e1d4-4ad7-b1f2-654e893d9df1
+1 HUSB @rAtpdJIvTMiVe7kpmsMB@
+1 WIFE @I219@
+1 CHIL @I218@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I211@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I210@
+2 _FREL Natural
+2 _MREL Natural
+0 @F175@ FAM
+1 WIFE @I258@
+1 CHIL @I257@
+2 _MREL Natural
+0 @F172@ FAM
+1 HUSB @I255@
+1 WIFE @I254@
+1 CHIL @I253@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I250@
+2 _FREL Natural
+2 _MREL Natural
 0 @1SlIoqLYRCqfA1ineuNc@ FAM
 1 REFN d3a98f33-9be7-463b-a043-62ec930cf2d7
 1 HUSB @LFyrTkO8TJeRCMYIp1k4@
@@ -9100,7 +11884,7 @@
 3 PAGE Year: 1900; Census Place: Brooklyn Ward 23, Kings, New York
 4 CONC ; Roll: 1062; Page: 7B; Enumeration District: 0414; FHL micr
 4 CONC ofilm: 1241062
-3 OBJE @WQIKjlraSvyuh75lMcGV@
+3 OBJE @M2@
 3 _APID 1,7602::55538889
 2 SOUR @7hzCF6rURECkbdc8IJaU@
 3 QUAY 1
@@ -9136,6 +11920,12 @@
 2 DATE 1890
 2 SOUR @S65@
 3 PAGE http://gw.geneanet.org/ecuadorgen?p=alejandrina;n=cabezas
+0 @F163@ FAM
+1 HUSB @I230@
+1 WIFE @I231@
+1 CHIL @I229@
+2 _FREL Natural
+2 _MREL Natural
 0 @F19@ FAM
 1 REFN 265bee1d-4b71-4a1f-897b-8ae742fcc0de
 1 WIFE @I199@
@@ -9166,6 +11956,24 @@
 3 MAP
 4 LATI N4.6
 4 LONG W74.0833
+0 @F170@ FAM
+1 HUSB @I245@
+1 WIFE @I246@
+1 CHIL @I242@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I244@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I243@
+2 _FREL Natural
+2 _MREL Natural
+0 @F162@ FAM
+1 HUSB @I225@
+1 WIFE @I226@
+1 CHIL @I224@
+2 _FREL Natural
+2 _MREL Natural
 0 @0hUG78KTRD2eo4kjPIdq@ FAM
 1 REFN 0a421fad-32fc-4e70-94d5-815b44a15a00
 1 HUSB @FJk6qyKJTzCXM3s8ubkE@
@@ -9177,6 +11985,48 @@
 1 REFN c2fe564e-b035-4e68-a364-a6c19fb95763
 1 HUSB @EDqgGyG6Sci0iMPwgOaE@
 1 WIFE @JgVznf1CTfSUfXpRtG2y@
+0 @F169@ FAM
+1 HUSB @I240@
+1 WIFE @I241@
+1 CHIL @I239@
+2 _FREL Natural
+2 _MREL Natural
+0 @F157@ FAM
+1 HUSB @I217@
+1 WIFE @I218@
+1 CHIL @I212@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I213@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I216@
+2 _FREL Natural
+2 _MREL Natural
+0 @F158@ FAM
+1 HUSB @I216@
+1 WIFE @I215@
+1 CHIL @I214@
+2 _FREL Natural
+2 _MREL Natural
+0 @F166@ FAM
+1 HUSB @I236@
+1 WIFE @I237@
+1 CHIL @I235@
+2 _FREL Natural
+2 _MREL Natural
+0 @F167@ FAM
+1 HUSB @I236@
+1 WIFE @I264@
+0 @F165@ FAM
+1 HUSB @I235@
+1 WIFE @I234@
+0 @F164@ FAM
+1 HUSB @I235@
+1 WIFE @I233@
+1 CHIL @I232@
+2 _FREL Natural
+2 _MREL Natural
 0 @F15@ FAM
 1 HUSB @I46@
 1 WIFE @I47@
@@ -9228,6 +12078,11 @@
 1 ADDR https://archive.org
 1 EMAIL
 1 PHON
+0 @R7@ REPO
+1 NAME Ancestry.com
+1 ADDR http://www.Ancestry.com
+1 EMAIL
+1 PHON
 0 @zznD1WJ7RJetSxS9JJ2R@ SOUR
 1 REFN 2ff93d99-b16e-45ff-8cba-6100c08a8b7a
 1 REPO @R1@
@@ -9243,20 +12098,11 @@
 1 PUBL Ancestry.com Operations Inc; Location: Provo, UT, USA; Date
 2 CONC : 2006
 0 @pZSp306qQOGHvPqm0c60@ SOUR
-1 REFN 9a650392-58ca-42bd-a11a-615445b03d57
-1 REPO @R1@
+1 REPO @R7@
 1 TITL 1920 United States Federal Census
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2010
-1 TEXT Fourteenth Census of the United States, 1920. (NARA microfil
-2 CONC m publication T625, 2076 rolls). Records of the Bureau of th
-2 CONC e Census, Record Group 29. National Archives, Washington, D.
-2 CONC C. For details on the contents of the film numbers, visit th
-2 CONC e following NARA web page: <a href="http://www.archives.gov/
-2 CONC publications/microfilm-catalogs/census/1920/part-07.html" ta
-2 CONC rget="_blank">NARA</a>. Note: Enumeration Districts 819-83
-2 CONC 9 are on roll 323 (Chicago City).
 0 @cYpH9GKbREexd30xG7Ri@ SOUR
 1 REFN eccf4ca6-3002-487c-92b4-2a685a3bd747
 1 REPO @R1@
@@ -9265,28 +12111,46 @@
 1 PUBL Ancestry.com Operations Inc; Location: Provo, UT, USA; Date
 2 CONC : 2002
 0 @wasQXzkoQbebWtJVQDxQ@ SOUR
-1 REFN 225cbe9a-e3c2-4f13-b8ca-70b896b25005
-1 REPO @R1@
+1 REPO @R7@
 1 TITL 1940 United States Federal Census
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2012
-1 TEXT United States of America, Bureau of the Census. <i>Sixteent
-2 CONC h Census of the United States, 1940</i>. Washington, D.C.: N
-2 CONC ational Archives and Records Administration, 1940. T627, 4,6
-2 CONC 43 rolls.
 0 @G8TESznJRGCKBg1WwF0w@ SOUR
 1 REFN 11f21b2e-ff62-4c28-b685-792f2b9f489a
 1 REPO @R1@
 1 TITL Ancestry Family Trees
 1 PUBL Online publication - Provo, UT, USA: Ancestry.com.  Origina
 2 CONC l data:  Family Tree files submitted by Ancestry members.
+0 @S125@ SOUR
+1 REFN 34a2ba2a-3999-4617-8e50-c3ebf4272814
+1 TITL Baptism announcement, Pazmino, Lelia Estela
+1 PUBL In possession of Chris Mosher
+1 TEXT Lelia Estela Pazmino Nacio el 16 de Marzo de 1901 y se bauti
+2 CONC zo el 30 de Mayo de 1904 Recuerdo de su madrina Dolores Lope
+2 CONC z
+0 @S122@ SOUR
+1 REPO @R7@
+1 TITL Beta: Newspapers.com Obituary Index, 1940-1955
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations Inc; Location: Lehi, UT, USA; Date
+2 CONC : 2019
 0 @S66@ SOUR
 1 REFN f1934673-9c82-48fb-8560-0cb528a11ab2
 1 TITL Bienvenido al árbol de Lorenzo de Garaycoa Raffo
 1 AUTH Garaycoa Taylor,  Deyda
 1 PUBL Geneanet; Location: http://en.geneanet.org/
 1 TEXT http://gw.geneanet.org/ferneche
+0 @S111@ SOUR
+1 REPO @R7@
+1 TITL Biography & Genealogy Master Index (BGMI)
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
+2 CONC e: 2009
+0 @S119@ SOUR
+1 REFN fa9fa301-b3b5-4b31-b419-dca64d5f1d7b
+1 TITL Births reported in the city of New York, 1891-1902
+1 PUBL Dept. of Health, NY
 0 @fGtagMi3TwuZAiqyWBib@ SOUR
 1 REFN c7b533f3-afec-4a99-82a0-f40f680df74c
 1 REPO @R1@
@@ -9294,6 +12158,12 @@
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2006
+0 @S100@ SOUR
+1 REPO @R7@
+1 TITL California Birth Index, 1905-1995
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations Inc; Location: Provo, UT, USA; Date
+2 CONC : 2005
 0 @wN4p8JORTTCTcTlwT98u@ SOUR
 1 REFN 09f66942-52b2-4759-b9cc-4d3cde4afe8a
 1 REPO @R1@
@@ -9301,6 +12171,12 @@
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations Inc; Location: Provo, UT, USA; Date
 2 CONC : 2000
+0 @S98@ SOUR
+1 REPO @R7@
+1 TITL California, Marriage Index, 1960-1985
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations Inc; Location: Provo, UT, USA; Date
+2 CONC : 2007
 0 @S80@ SOUR
 1 TITL Calles, casas y gente del Centro Histórico de Quito [Street
 2 CONC s, houses, and people, in the historical center of Quito]
@@ -9319,6 +12195,99 @@
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Lehi, UT, USA; Date
 2 CONC : 2016
+0 @S124@ SOUR
+1 REFN b21ac14c-6c25-4948-9197-7c34fd98fb9d
+1 TITL Certificate of death, Disosway, Stella, Number 82981
+1 AUTH Division of Vital Statistics, Secretary of the Commonwealt
+2 CONC h of Massachusetts
+1 TEXT The Commonwealth of Massachusetts<br />
+2 CONT JOHN F. X. DAVOREN<br />
+2 CONT SECRETARY OF THE COMMONWEALTH<br />
+2 CONT The Commonwealth of Massachusetts<br />
+2 CONT DIVISION OF VITAL STATISTICS<br />
+2 CONT EDWARD J. CRONIN<br />
+2 CONT SECRETARY OF THE COMMONWEALTH<br />
+2 CONT DIVISION OF VITAL STATISTICS<br />
+2 CONT <br />
+2 CONT STANDARD CERTIFICATE OF DEATH<br />
+2 CONT <br />
+2 CONT 366<br />
+2 CONT <br />
+2 CONT (County) Worcester<br />
+2 CONT (City or Town) Harvard<br />
+2 CONT (City or Town making this return) Harvard<br />
+2 CONT Registered No. 9<br />
+2 CONT No. Ayer Rd St. (If death occurred in hospital or institutio
+2 CONC n, give its NAME instead of street and number)<br />
+2 CONT [?] Stella Disosway (If deceased is a married, widowed or di
+2 CONC vorced woman, give also maiden name.)<br />
+2 CONT (Was deceased a U. S. War Veteran, if so specity WAR) N[o]<b
+2 CONC r />
+2 CONT Residence (Usual place of abode) No. Brooklyn, N.Y. St. (I
+2 CONC f nonresident, give city or town and State)<br />
+2 CONT [?] In place of death -- years -- months 28 days. In place o
+2 CONC f residence [blank] years [blank] months [blank] days.<br />
+2 CONT MEDICAL CERTIFICATE OF DEATH<br />
+2 CONT [?] (Month) July (Day) 23 (Year) 1960<br />
+2 CONT I HEREBY CERTIFY, That I attended deceased from [?], 1960 t
+2 CONC o date, 19 [blank]<br />
+2 CONT [?] alive on 7/18/, 1960, death is said to [?] on the date s
+2 CONC tated above, at 11:20 A. m.<br />
+2 CONT <br />
+2 CONT [?] CAUSED BY: IMMEDIATE CAUSE<br />
+2 CONT INTERVAL BETWEEN ONSET AND DEATH<br />
+2 CONT [?] carcinomatosis abdominal 3 mos<br />
+2 CONT [?] carcinoma of stomach 4+ years<br />
+2 CONT [?] unknown cause [?]<br />
+2 CONT [?] none<br />
+2 CONT [?] performed? no Gastrectomy<br />
+2 CONT [?] diagnosis? operation June 1956<br />
+2 CONT [?] injury in any way related to occupation of disease? no<b
+2 CONC r />
+2 CONT [?] [?]ury S. Harvey, M. D.<br />
+2 CONT [?] [Litt]leton, Mass Date 7/23/1960<br />
+2 CONT [?] [Wood]lawn Cem. (City or Town) Ayer<br />
+2 CONT [?] BURIAL July 25 1960<br />
+2 CONT [?] DIRECTOR [?] Louis Farm[?]<br />
+2 CONT [?] Ayer, Mass<br />
+2 CONT [?] July 25 1960<br />
+2 CONT [?] (Registrar) S. Bigelow<br />
+2 CONT <br />
+2 CONT PERSONAL AND STATISTICAL PARTICULARS<br />
+2 CONT 8 SEX F<br />
+2 CONT 9 COLOR White<br />
+2 CONT 10 SINGLE MARRIED WIDOWED or DIVORCED (write the word) Widow
+2 CONC <br />
+2 CONT 10a If married, widowed, or divorced HUSBAND of (Give maide
+2 CONC n name of wife in full) [blank] (or) WIFE of (Husbnad's nam
+2 CONC e in full) Harry Disosway<br />
+2 CONT 11 IF STILLBORN, enter that fact here. [blank]<br />
+2 CONT 12 AGE 59 years 4 months 12 days If under 24 hours [blank] H
+2 CONC ours [blank] Minutes<br />
+2 CONT 13 Usual Occupation: (Kind of work done during most of worki
+2 CONC ng life) At home<br />
+2 CONT 14 Industry or Business: At home<br />
+2 CONT 15 Social Security No. [blank]<br />
+2 CONT 16 BIRTHPLACE (City) (State or country) Brooklyn N.Y.<br />
+2 CONT PARENTS<br />
+2 CONT 17 NAME OF FATHER Victor M. Pazmino<br />
+2 CONT 18 BIRTHPLACE OF FATHER (City) (State or country) Ecuador S
+2 CONC . America<br />
+2 CONT 19 MAIDEN NAME OF MOTHER Lelia Lopez<br />
+2 CONT 20 BIRTHPLACE OF MOTHER (City) (State or country) Ecuador S
+2 CONC . America<br />
+2 CONT 21 Informant Mrs. Linda Mosher (Address) Ayer Rd. Harvard<b
+2 CONC r />
+2 CONT <br />
+2 CONT I HEREBY CERTIFY that a satisfactory standard certificate o
+2 CONC f death was filed with me BEFORE the burial of transit permi
+2 CONC t was issued:<br />
+2 CONT (Signature of Agent of Board of Health or other) Jeffrey H H
+2 CONC arris<br />
+2 CONT (Official Designation) Ch Bd of Health (Date of Issue of Per
+2 CONC mit) 7/25/60<br />
+2 CONT [...]<br />
+2 CONT YEAR 1960 VOL. 53 PAGE 366 NO. 9<br />
 0 @nZgHgzU3RTaPdoV8tiPC@ SOUR
 1 TITL Certificate of death, Loper [Lopez], Felicisimo, Number 2429
 2 CONC 6
@@ -9335,6 +12304,11 @@
 1 AUTH Bureau of Vital Records and Statistics, Department of Health
 2 CONC , Brooklyn, NY, USA
 1 PUBL 8 May 1944, Brooklyn, NY, USA
+0 @S128@ SOUR
+1 REFN b3580ed3-95e8-47d4-b83e-b5aa01101e2e
+1 TITL Commencement Exercises program, P.S. 92, Brooklyn, NY, USA
+1 PUBL Brooklyn, NY, USA, 1915
+1 TEXT Pasmino, Stella<br />
 0 @ZcmTA23LQPqi3lTQ5AQu@ SOUR
 1 REFN 513e31bb-15eb-43ab-899e-1ff8a44d7dec
 1 TITL Constitución Política de la República del Ecuador (14 d
@@ -9368,6 +12342,26 @@
 1 REFN d9c676b2-3a7a-41ca-b907-a2467391bd76
 1 REPO @R1@
 1 TITL Directory of Deceased American Physicians, 1804-1929
+0 @S126@ SOUR
+1 REFN f3064075-ef35-4673-8810-e78c70e00019
+1 TITL Disosway-Pazmino engagement announcment
+1 AUTH Brooklyn Daily Eagle [newspaper]
+1 PUBL Brooklyn: 1931-02-22, p. 4B, col. 1
+1 TEXT <h2>Miss Stella Pazmino to Be Wed to H. F. Disosway Jr.</h2>
+2 CONT <p>
+2 CONT Mr. and Mrs. Victor Pazmino of 2114 Glenwood Road announce t
+2 CONC he engagement of their daughter, Miss Stella Pazmino, to Har
+2 CONC ry F. Disosway Jr., son of Mr. and Mrs. Harry F. [sic] Disos
+2 CONC way of 622 Jefferson Ave.
+2 CONT </p>
+2 CONT <p>
+2 CONT Miss Pazmino is a graduate of Erasmus Hall High School and C
+2 CONC ooper Union Art School. Mr. Disosway received his educatio
+2 CONC n at Commercial High School.
+2 CONT </p>
+2 CONT <p>
+2 CONT No date has been set for the wedding.
+2 CONT </p>
 0 @7hzCF6rURECkbdc8IJaU@ SOUR
 1 REFN 3e2d0186-93fe-45a5-b3e2-47d789bd9342
 1 TITL Dudley, Joseph Letters
@@ -9441,6 +12435,83 @@
 1 TITL International Genealogical Index
 1 AUTH LDS Church
 1 PUBL familysearch.org
+0 @S129@ SOUR
+1 REFN 5ff2ccd2-c4a3-4d36-a17c-95000b9c7579
+1 TITL Interview with Kenneth Demay
+1 AUTH Demay, Kenneth
+1 PUBL Chris Mosher, Lewes, DE, May 26, 2003
+1 TEXT Harry & Stella got married and moved into a house on Martens
+2 CONC e Street
+2 CONT Ken was born there and lived there until c. 1936, then move
+2 CONC d to
+2 CONT 811 A (2nd floor) East 22nd Street, and lived there until c
+2 CONC . 1938, then moved to
+2 CONT 695 E 19th Street
+2 CONT Harry and Stella lived there, and Stella by herself after Ha
+2 CONC rry died, until 1960.
+2 CONT Stella had cancer, 1960, which went into remission, and the
+2 CONC n came back, at which time
+2 CONT she moved in with Linda and Barry in Harvard, Mass., lived t
+2 CONC here for about a month before she died.
+2 CONT House 695 E 19th St. was still owned by family, was sold aft
+2 CONC er Stella died.
+2 CONT Mrs. May'sTearoom may have been near Pratt Institute.
+2 CONT Uncle Victor would start drawing before breaskfast, finishin
+2 CONC g up work he had
+2 CONT started from the day before. During this time, he would ban
+2 CONC g on the floor with a cane,
+2 CONT as a signal to his mother that he was ready to have his brea
+2 CONC skfast brought up to him.
+2 CONT He would finish his work by noon, and would take Ken out t
+2 CONC o various places, including
+2 CONT Brooklyn Botanical Garden and Brooklyn Museum, near Prospec
+2 CONC t Park.
+2 CONT Harry worked at Carr Insurance, 80 Maiden Lane, his whole ca
+2 CONC reer.
+2 CONT Harry went to school CCNY or NYU, whichever is nearer to Gre
+2 CONC enwich Village, in Manhattan [Chris Mosher's note: that woul
+2 CONC d be NYU].
+0 @S133@ SOUR
+1 REFN e7d7e5e3-81f3-49a8-8d61-31deebedd219
+1 TITL Marriage announcement, Disosway, Harry, and Pazmino, Lelia E
+2 CONC stela
+1 AUTH Pazmino, Victor
+1 PUBL Brooklyn, NY, 1931
+1 TEXT Mr. and Mrs. Victor Manuel Pazmiño announce the marriage o
+2 CONC f their daughter Estelle to Mr. Harry Flandreau Disosway o
+2 CONC n Saturday, the twenty-seventh of June One thousand nine hun
+2 CONC dred and thirty-one Brooklyn, New York
+0 @S120@ SOUR
+1 REFN 7648c643-a92c-4dd0-b7bd-dcf6d6f10dfa
+1 REPO @R7@
+1 TITL Massachusetts, Town and Vital Records, 1620-1988
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
+2 CONC e: 2011
+0 @S104@ SOUR
+1 REPO @R7@
+1 TITL Nevada, Birth Index, 1975-2012
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
+2 CONC e: 2013
+0 @S105@ SOUR
+1 REPO @R7@
+1 TITL Nevada, Divorce Index, 1968-2015
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
+2 CONC e: 2007
+0 @S103@ SOUR
+1 REPO @R7@
+1 TITL Nevada, Marriage Index, 1956-2005
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
+2 CONC e: 2007
+0 @S113@ SOUR
+1 REPO @R7@
+1 TITL New Jersey, Death Index, 1901-2017
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.; Location: Lehi, UT, USA; Date
+2 CONC : 2016
 0 @DaUw03A1QHqLXyRjHuOq@ SOUR
 1 REFN 7d72f232-946b-4096-af24-b0eb568af2ff
 1 REPO @R1@
@@ -9448,6 +12519,16 @@
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2006
+0 @S118@ SOUR
+1 REFN 888f37f1-1636-48d6-a58f-faa1237b891d
+1 REPO @R7@
+1 TITL New York City, Births, 1891-1902
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations Inc; Location: Provo, UT, USA; Date
+2 CONC : 2000
+1 TEXT New York Department of Health. <i>Births reported in the cit
+2 CONC y of New York, 1891-1902</i>. New York, NY, USA: Departmen
+2 CONC t of Health.
 0 @S60@ SOUR
 1 REPO @R1@
 1 TITL New York City, Marriage License Indexes, 1907-1995
@@ -9478,6 +12559,13 @@
 1 REFN e5c77eb5-c6be-4b71-b43f-8909904d0a7c
 1 REPO @R1@
 1 TITL New York, New York, Death Index, 1862-1948
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
+2 CONC e: 2014
+0 @S121@ SOUR
+1 REFN ed704121-1846-4e6e-a386-93cb656291de
+1 REPO @R7@
+1 TITL New York, New York, Marriage Index 1866-1937
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2014
@@ -9516,12 +12604,45 @@
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2012
+0 @S92@ SOUR
+1 REPO @R7@
+1 TITL North Carolina, Death Certificates, 1909-1976
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations Inc; Location: Provo, UT, USA; Date
+2 CONC : 2007
+0 @S93@ SOUR
+1 REPO @R7@
+1 TITL North Carolina, Death Indexes, 1908-2004
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
+2 CONC e: 2007
+0 @S123@ SOUR
+1 REFN 7a7e3b37-a295-4b3b-b668-48f5f87141bc
+1 TITL NYC Birth Index microfilm, Pazmino Selia [sic] E, certificat
+2 CONC e number 5826
+1 PUBL NY Public Library
+0 @S132@ SOUR
+1 REFN 5ba3e97a-b3c7-4f44-9d4a-a2d93488260b
+1 TITL NYC Marriage Index microfilm, Disosway, Harry F, certificat
+2 CONC e number 8209
+1 PUBL NY Public Library
+0 @S101@ SOUR
+1 REPO @R7@
+1 TITL Oregon, Death Index, 1898-2008
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations Inc; Location: Provo, UT, USA; Date
+2 CONC : 2000
 0 @S83@ SOUR
 1 REPO @R1@
 1 TITL Passenger Ships and Images
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations Inc; Location: Provo, UT, USA; Date
 2 CONC : 2007
+0 @S94@ SOUR
+1 REFN 7e6bc3c7-6ce6-4036-9cb8-a0ae4693ef6d
+1 TITL Pazmino Lopez Family History
+1 AUTH Dudley, Joseph
+1 PUBL In possession of Chris Mosher
 0 @gYNJE6bDRwm6ZR8JX235@ SOUR
 1 REFN 5b919eae-571d-4b91-8aa2-e7cb39652f8e
 1 TITL Pazmino, Victor M., obituary
@@ -9533,12 +12654,6 @@
 2 CONC s at the Fairchild Chapel, 86 Lefferts Place, on Thursday
 2 CONC , 1 p.m.
 2 CONT </p>
-0 @S68@ SOUR
-1 REFN e17b3091-c035-4980-a34e-a934aea2a4b3
-1 TITL Pazmiño López Family History
-1 AUTH Dudley, Joseph
-1 PUBL In possession of Chris Mosher; Location: http://mosher.mine.
-2 CONC nu/dudley_joseph_genealogy_lopez_pazmino.html
 0 @S71@ SOUR
 1 REFN 83fb8d39-3432-44bf-81a7-728e7fa29850
 1 TITL Pedigree Resource File
@@ -9577,6 +12692,17 @@
 2 CONT [written by Lelia Lopez:]<br />
 2 CONT My father, Mr. Lopez, is going to meet Stella.<br />
 2 CONT Mrs. V. M. Pazmino.<br />
+0 @S127@ SOUR
+1 REFN 6f28dc24-4687-4e7c-9bcf-d843f52aacfe
+1 TITL Program of the Graduating Exercises, Erasmus Hall High Schoo
+2 CONC l, Brooklyn, NY
+1 PUBL Brooklyn, NY, USA, 1921
+1 TEXT Class of June, 1921<br />
+2 CONT Pazmino, L. Estelle<br />
+2 CONT PRIZES<br />
+2 CONT HIGHEST AVERAGES IN ORDER OF RATING<br />
+2 CONT Spanish<br />
+2 CONT Stella Pazmino
 0 @FKSKK0JtSlqtGZ1MZl4W@ SOUR
 1 REFN 122b5075-8a9a-4f38-ba42-54a2f2b013b1
 1 REPO @R1@
@@ -9669,6 +12795,28 @@
 2 CONT <tr><td align="right" nowrap="true">[signed] Geo. Seivattina
 2 CONC [?] Ex dor[?]</td></tr>
 2 CONT </table>
+0 @S130@ SOUR
+1 REFN f1253e42-91d9-4ae2-becd-14cb9bb2710a
+1 REPO @R7@
+1 TITL Selected U.S. Naturalization Records - Original Documents, 1
+2 CONC 790-1974
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations Inc; Location: Provo, UT, USA; Date
+2 CONC : 2009
+1 TEXT <ul><li>Record of Admissions to Citizenship, District of Sou
+2 CONC th Carolina, 1790-1906; (National Archives Microfilm Publica
+2 CONC tion M1183, 1 roll); Records of District Courts of the Unite
+2 CONC d States, Record Group 21; National Archives, Washington, D.
+2 CONC C.</li><li>Naturalization Records Created by the U.S. Distri
+2 CONC ct Court in Colorado, 1877-1952; (National Archives Microfil
+2 CONC m Publication M1192, 79 rolls); Records of District Courts o
+2 CONC f the United States, Record Group 21; National Archives, Was
+2 CONC hington, D.C.</li><li>Naturalization Petitions for the Easte
+2 CONC rn District of Pennsylvania; (National Archives Microfilm Pu
+2 CONC blication M1522, 369 rolls); Records of District Courts of t
+2 CONC he United States, Record Group 21; National Archives, Washin
+2 CONC gton, D.C.</li></ul><p><a href="/search/dbextra.aspx?dbid=15
+2 CONC 54">View Full Source Citation</a>.</p>
 0 @2CVhfK4DR7aVv7LHdGjv@ SOUR
 1 REFN 6710ad5b-19aa-43dd-b37e-e36a72d91c96
 1 TITL Ship Manifest, New York, 1911-10-23, Prinz Sigismund
@@ -9735,6 +12883,12 @@
 1 REFN cceb6bd8-f346-4605-8690-7e07f0d84636
 1 TITL Social Security Death Index
 1 AUTH US Social Security Administration
+0 @S106@ SOUR
+1 REPO @R7@
+1 TITL Texas, Birth Index, 1903-1997
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations Inc; Location: Provo, UT, USA; Date
+2 CONC : 2005
 0 @S75@ SOUR
 1 REFN e8f86420-4e12-4317-b4a2-5d12776f27d4
 1 REPO @R1@
@@ -9765,6 +12919,18 @@
 2 CONC he image viewer page.
 2 CONT Check the directory title page image for full title and publ
 2 CONC ication information.
+0 @S131@ SOUR
+1 REFN 85dd2204-27e9-406b-8783-e0c87ab4715e
+1 REPO @R7@
+1 TITL U.S. Naturalization Records Indexes, 1794-1995
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
+2 CONC e: 2007
+1 TEXT National Archives and Records Administration (NARA) Microfil
+2 CONC m Publications; Records of District Courts of the United Sta
+2 CONC tes, Record Group 21; National Archives, Washington, D.C. Sc
+2 CONC roll down to the bottom of this page for <a href="#microfilm
+2 CONC ">NARA microfilm details.</a>
 0 @qpTDKzDDQdu7knNOyc6m@ SOUR
 1 REFN 597f3bf9-f988-440c-b4e5-5566eabc8b1b
 1 REPO @R1@
@@ -9791,12 +12957,40 @@
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2010
+0 @S117@ SOUR
+1 REFN 69440dc2-4421-4412-9823-2890599e4a17
+1 TITL U.S. Veterans Cemeteries, ca.1800-2004
+1 AUTH National Cemetery Administration
+1 PUBL Provo, Utah: MyFamily.com, Inc., 2005
+1 TEXT Original data: National Cemetery Administration. Nationwid
+2 CONC e Gravesite Locator.
+0 @S114@ SOUR
+1 REFN 5fc1980b-703d-4987-bfb9-c7119a2a5dcd
+1 REPO @R7@
+1 TITL U.S. Veterans Gravesites, ca.1775-2006
+1 AUTH National Cemetery Administration
+1 PUBL Ancestry.com Operations Inc; Location: Provo, UT, USA; Date
+2 CONC : 2006
+0 @S97@ SOUR
+1 REFN ba2142bb-dc0b-421e-bb05-0c4506244947
+1 REPO @R7@
+1 TITL U.S. World War II Army Enlistment Records, 1938-1946
+1 AUTH National Archives and Records Administration
+1 PUBL Ancestry.com Operations Inc; Location: Provo, UT, USA; Date
+2 CONC : 2005
 0 @S62@ SOUR
 1 REPO @R1@
 1 TITL U.S., Border Crossings from Canada to U.S., 1825-1960
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Lehi, UT, USA; Date
 2 CONC : 2010
+0 @S107@ SOUR
+1 REPO @R7@
+1 TITL U.S., Department of Veterans Affairs BIRLS Death File, 1850-
+2 CONC 2010
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
+2 CONC e: 2011
 0 @8SpggOHIRZiow2E3C3cu@ SOUR
 1 REFN a7ca453e-9c6f-4aa4-830c-6d2be00a67d3
 1 REPO @R1@
@@ -9819,6 +13013,12 @@
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2015
+0 @S91@ SOUR
+1 REPO @R7@
+1 TITL U.S., School Yearbooks, 1900-1999
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
+2 CONC e: 2010
 0 @S2fyUKW7QvupWtUQHBOs@ SOUR
 1 REFN efe7e3f3-2f4d-4fee-9155-e91345132ab1
 1 REPO @R1@
@@ -9828,14 +13028,11 @@
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2015
 0 @GFCLw2yOQvibba3edsSE@ SOUR
-1 REFN 8600af61-d324-4e17-a173-6f27c3aabf9d
-1 REPO @R1@
+1 REPO @R7@
 1 TITL U.S., Social Security Death Index, 1935-2014
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations Inc; Location: Provo, UT, USA; Date
-2 CONC : 2011
-1 TEXT Social Security Administration. <i>Social Security Death Ind
-2 CONC ex, Master File</i>. Social Security Administration.
+2 CONC : 2014
 0 @dqHcxE1wRc6wPON8Y87m@ SOUR
 1 REFN 8a21b08f-e9f6-4a4c-95b7-ecd9649fc085
 1 REPO @R1@
@@ -9843,6 +13040,20 @@
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations Inc; Location: Provo, UT, USA; Date
 2 CONC : 2005
+0 @S115@ SOUR
+1 REFN af50cbea-6614-4646-89fd-261b12fe7038
+1 REPO @R7@
+1 TITL U.S., World War II Army Enlistment Records, 1938-1946
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
+2 CONC e: 2005
+1 TEXT National Archives and Records Administration. Electronic Arm
+2 CONC y Serial Number Merged File, 1938-1946 [Archival Database]
+2 CONC ; ARC: <a href="http://research.archives.gov/description/126
+2 CONC 3923">1263923</a>. World War II Army Enlistment Records; Rec
+2 CONC ords of the National Archives and Records Administration, Re
+2 CONC cord Group 64; National Archives at College Park. College Pa
+2 CONC rk, Maryland, U.S.A.
 0 @EVQKUqUsRpSjkR6xDfl1@ SOUR
 1 REFN 4cde04fd-67be-49f8-83cd-3ac3d36a710a
 1 REPO @R1@
@@ -10685,6 +13896,38 @@
 1 AUTH Family Search
 1 PUBL Family Search; Location: Salt Lake City, Utah, USA; Date: 20
 2 CONC 14
+0 @S108@ SOUR
+1 REPO @R7@
+1 TITL Vermont, Birth Records, 1909-2008
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
+2 CONC e: 2010
+0 @S110@ SOUR
+1 REPO @R7@
+1 TITL Vermont, Marriage Index, 1981-1984, 1989-2001
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations Inc; Location: Provo, UT, USA; Date
+2 CONC : 2005
+0 @S109@ SOUR
+1 REPO @R7@
+1 TITL Vermont, Marriage Records, 1909-2008
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.; Location: Lehi, UT, USA; Date
+2 CONC : 2010
+0 @S102@ SOUR
+1 REPO @R7@
+1 TITL Web: Los Angeles, California, Coroner's Inquest Index, 1992-
+2 CONC 2016
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
+2 CONC e: 2016
+0 @S112@ SOUR
+1 REFN 5a8886f2-0208-433f-987c-f8e3c0b3c33a
+1 REPO @R7@
+1 TITL Web: New York, Find A Grave Index, 1660-2012
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
+2 CONC e: 2012
 0 @CY2qvviEQfeok1sJQlB7@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Lopez Media\022
 2 CONC 6_Lopez_Hector_Samuel.jpg
@@ -10692,7 +13935,7 @@
 2 TITL 0226_Lopez_Hector_Samuel
 2 _DATE 9/27/2013 9:09:28 PM
 1 REFN baa4b919-7c4c-4795-abcb-e33ce0d4e790
-0 @WQIKjlraSvyuh75lMcGV@ OBJE
+0 @M2@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Lopez Media\190
 2 CONC 0 United States Federal Census(5).jpg
 2 FORM jpg
@@ -10701,7 +13944,8 @@
 3 CONC ; Roll: 1062; Page: 7B; Enumeration District: 0414; FHL micr
 3 CONC ofilm: 1241062
 1 REFN 66008b20-5f36-4a9b-ace2-c5628cb64366
-0 @wW2yF8ZoTBaLoIVj2pFS@ OBJE
+1 REFN 1dbcf131-7532-47c6-9221-b776ed828b7f
+0 @M3@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Lopez Media\191
 2 CONC 0 United States Federal Census(2).jpg
 2 FORM jpg
@@ -10710,6 +13954,7 @@
 3 CONC ; Roll: T624_982; Page: 4A; Enumeration District: 0931; FH
 3 CONC L microfilm: 1374995
 1 REFN 0adb0832-ffac-42b7-a1d3-61d18b4cdea3
+1 REFN b1604738-a853-4bbc-8697-3dde90e8f1b8
 0 @i1TqjIxIRTO5IYm8HjII@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Lopez Media\191
 2 CONC 0 United States Federal Census(5).jpg
@@ -10737,7 +13982,7 @@
 3 CONC ; Roll: T624_982; Page: 6A; Enumeration District: 0927; FH
 3 CONC L microfilm: 1374995
 1 REFN eae92561-0bd4-4dac-b2a9-7296f8323657
-0 @zkZ4Hwa0RDeTpdBJDrjk@ OBJE
+0 @M7@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Lopez Media\192
 2 CONC 0 United States Federal Census(2).jpg
 2 FORM jpg
@@ -10745,6 +13990,7 @@
 2 _TEXT Year: 1920; Census Place: Brooklyn Assembly District 21, Kin
 3 CONC gs, New York
 1 REFN ecd40baa-ac6f-4154-b34f-f626e95941b3
+1 REFN da2192e1-b146-4ac1-a07a-2502117e65ec
 0 @uOqTmF4USGqbdvx3wNPF@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Lopez Media\192
 2 CONC 0 United States Federal Census(4).jpg
@@ -10771,7 +14017,7 @@
 3 CONC nia; Roll: T625_116; Page: 11B; Enumeration District: 604; I
 3 CONC mage: 971
 1 REFN 9163e10d-e5be-4b9e-9245-1966b5ee489c
-0 @hED67TPRQbaNutMsLViG@ OBJE
+0 @M11@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Lopez Media\193
 2 CONC 0 United States Federal Census(2).jpg
 2 FORM jpg
@@ -10780,6 +14026,7 @@
 3 CONC 538; Page: 16A; Enumeration District: 870; Image: 506.0; FH
 3 CONC L microfilm: 2341273
 1 REFN 7a82b629-f117-473d-a2f4-e106ecbd8d5e
+1 REFN 23b7ced2-65ec-44bf-8e27-3d829e872056
 0 @cpMYvtrBS0CdaCvMYlTD@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Lopez Media\193
 2 CONC 0 United States Federal Census(4).jpg
@@ -10807,7 +14054,7 @@
 3 CONC oll: 810; Page: 10A; Enumeration District: 0215; Image: 574.
 3 CONC 0; FHL microfilm: 2340545
 1 REFN c8e6794f-5c4b-4ead-86a1-ba69d02fb1ba
-0 @EuNyrMxrSMqPhfJjXwGK@ OBJE
+0 @M15@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Lopez Media\194
 2 CONC 0 United States Federal Census(5).jpg
 2 FORM jpg
@@ -10815,6 +14062,7 @@
 2 _TEXT Year: 1940; Census Place: New York, Kings, New York; Roll: T
 3 CONC 627_2615; Page: 2A; Enumeration District: 24-2589
 1 REFN 11379404-d8e9-4f50-b1f7-1e5176650d2b
+1 REFN adb8427a-e278-4000-a0a9-bfe031df5954
 0 @RRPDB9qeREGC0JPHIqez@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Lopez Media\194
 2 CONC 0 United States Federal Census(14).jpg
@@ -10930,7 +14178,7 @@
 2 FORM jpg
 2 TITL New York, County Marriages, 1847-1849; 1907-1936
 1 REFN cfab5cfe-e8da-48a7-a579-5e94fcf9366e
-0 @oVVo6benTzaeKBTMZDEv@ OBJE
+0 @M34@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Lopez Media\Ne
 2 CONC w York, State Census, 1905(3).jpg
 2 FORM jpg
@@ -10939,7 +14187,8 @@
 3 CONC n Census Schedules, 1905; Election District: A.D. 18 E.D. 16
 3 CONC ; City: Brooklyn; County: Kings; Page: 34
 1 REFN 787d2f6e-ee97-4cd0-9e9c-7bee955f0a15
-0 @Ytym72GVSnyP9XaO24dZ@ OBJE
+1 REFN bd99bb31-59cb-4084-a832-87831f4a822a
+0 @M35@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Lopez Media\Ne
 2 CONC w York, State Census, 1915(2).jpg
 2 FORM jpg
@@ -10948,6 +14197,7 @@
 3 CONC n Census Schedules, 1915; Election District: 24; Assembly Di
 3 CONC strict: 18; City: New York; County: Kings; Page: 48
 1 REFN 104e15e1-1252-47e0-a84f-6801489e5b13
+1 REFN 875ae2cf-801c-43c8-84c5-623abf9e3538
 0 @AxRmj9nySSKffZAuFq9O@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Lopez Media\Ne
 2 CONC w York, State Census, 1915(13).jpg
@@ -10957,7 +14207,7 @@
 3 CONC n Census Schedules, 1915; Election District: 60; Assembly Di
 3 CONC strict: 22; City: New York; County: Kings; Page: 59
 1 REFN db3acaae-baea-4e63-b09f-06c8bd5ca580
-0 @wsV4DyQST5mb92NIWFap@ OBJE
+0 @M37@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Lopez Media\Ne
 2 CONC w York, State Census, 1925(1).jpg
 2 FORM jpg
@@ -10966,6 +14216,7 @@
 3 CONC n Census Schedules, 1925; Election District: 62; Assembly Di
 3 CONC strict: 21; City: Brooklyn; County: Kings; Page: 14
 1 REFN 5652ed59-341c-41b1-ba7b-294869358e14
+1 REFN 241dc5fd-8b51-4713-a0bb-99ed68db0316
 0 @PRwNqIQfQbWmE2tzOjmU@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Lopez Media\Ne
 2 CONC w York, State Census, 1925(12).jpg
@@ -11253,6 +14504,320 @@
 2 FORM jpg
 2 TITL pazmino_victor_death
 2 _DATE 10/6/2019 8:54:33 PM
+0 @M79@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Lopez Media\Ne
+2 CONC w York, New York, Birth Index, 1910-1965(4).jpg
+2 FORM jpg
+2 TITL New York, New York, Birth Index, 1910-1965
+0 @M80@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Lopez Media\U.S
+2 CONC ., School Yearbooks, 1900-1999(1).jpg
+2 FORM jpg
+2 TITL U.S., School Yearbooks, 1900-1999
+2 _TEXT "U.S., School Yearbooks, 1880-2012"; School Name: Midwood Hi
+3 CONC gh School 405; Year: 1962
+0 @M81@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Lopez Media\Joh
+2 CONC n Pazmino.jpg
+2 FORM jpg
+2 TITL John Pazmino
+2 _TEXT "U.S., School Yearbooks, 1880-2012"; School Name: Midwood Hi
+3 CONC gh School 405; Year: 1962
+0 @M82@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Lopez Media\Nor
+2 CONC th Carolina, Death Certificates, 1909-1976.jpg
+2 FORM jpg
+2 TITL North Carolina, Death Certificates, 1909-1976
+2 _TEXT North Carolina State Archives; Raleigh, North Carolina; Nort
+3 CONC h Carolina Death Certificates
+0 @M83@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Lopez Media\Cal
+2 CONC ifornia, Marriage Index, 1960-1985.jpg
+2 FORM jpg
+2 TITL California, Marriage Index, 1960-1985
+0 @M84@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Lopez Media\Ore
+2 CONC gon, Death Index, 1898-2008.jpg
+2 FORM jpg
+2 TITL Oregon, Death Index, 1898-2008
+2 _TEXT Oregon State Library; Oregon Death Indexes, 1971-2008; Ree
+3 CONC l Title: State of Oregon Death Index; Year Range: 1991-2000
+0 @M85@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Lopez Media\Ne
+2 CONC w York, New York, Birth Index, 1910-1965(5).jpg
+2 FORM jpg
+2 TITL New York, New York, Birth Index, 1910-1965
+0 @M86@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Lopez Media\Ne
+2 CONC w York, New York, Birth Index, 1910-1965(7).jpg
+2 FORM jpg
+2 TITL New York, New York, Birth Index, 1910-1965
+0 @M87@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Lopez Media\Ne
+2 CONC w York, New York, Birth Index, 1910-1965(6).jpg
+2 FORM jpg
+2 TITL New York, New York, Birth Index, 1910-1965
+0 @M88@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Lopez Media\Tex
+2 CONC as, Birth Index, 1903-1997.jpg
+2 FORM jpg
+2 TITL Texas, Birth Index, 1903-1997
+0 @M89@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Lopez Media\Cal
+2 CONC ifornia, Marriage Index, 1960-1985(1).jpg
+2 FORM jpg
+2 TITL California, Marriage Index, 1960-1985
+0 @M90@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Lopez Media\Jos
+2 CONC h Treganowan, Linn.jpg
+2 FORM jpg
+2 TITL Josh Treganowan, Linn
+2 _DATE 9/9/2017 1:46:07 PM
+0 @M91@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Lopez Media\Ne
+2 CONC w York, New York, Marriage License Indexes, 1907-1995.jpg
+2 FORM jpg
+2 TITL New York, New York, Marriage License Indexes, 1907-1995
+2 _TEXT New York City Municipal Archives; New York, New York
+0 @M92@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Lopez Media\194
+2 CONC 0 United States Federal Census.jpg
+2 FORM jpg
+2 TITL 1940 United States Federal Census
+2 _TEXT Year: 1940; Census Place: New York, Kings, New York; Roll: m
+3 CONC -t0627-02554; Page: 15B; Enumeration District: 24-328
+0 @M93@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Lopez Media\Ne
+2 CONC w York, New York, Birth Index, 1910-1965.jpg
+2 FORM jpg
+2 TITL New York, New York, Birth Index, 1910-1965
+0 @M94@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Lopez Media\Ne
+2 CONC w York, Passenger and Crew Lists (including Castle Garden an
+2 CONC d Ellis Island), 1820-1957.jpg
+2 FORM jpg
+2 TITL New York, Passenger and Crew Lists (including Castle Garde
+3 CONC n and Ellis Island), 1820-1957
+2 _TEXT Year: 1937; Arrival: New York, New York; Microfilm Serial: T
+3 CONC 715, 1897-1957; Microfilm Roll: Roll 5989; Line: 17; Page Nu
+3 CONC mber: 86
+0 @M95@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Lopez Media\194
+2 CONC 0 United States Federal Census(19).jpg
+2 FORM jpg
+2 TITL 1940 United States Federal Census
+2 _TEXT Year: 1940; Census Place: New York, Kings, New York; Roll: T
+3 CONC 627_2554; Page: 13A; Enumeration District: 24-309A
+1 REFN 4f4411eb-505a-4370-8eb6-b4ae7485cfa2
+0 @M96@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Lopez Media\Ne
+2 CONC w York, New York, Marriage License Indexes, 1907-1995(1).jpg
+2 FORM jpg
+2 TITL New York, New York, Marriage License Indexes, 1907-1995
+2 _TEXT New York City Municipal Archives; New York, New York
+0 @M97@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Lopez Media\Ne
+2 CONC w York, New York, Birth Index, 1910-1965(1).jpg
+2 FORM jpg
+2 TITL New York, New York, Birth Index, 1910-1965
+0 @M98@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Lopez Media\192
+2 CONC 0 United States Federal Census(4)(1).jpg
+2 FORM jpg
+2 TITL 1920 United States Federal Census
+2 _TEXT Year: 1920; Census Place: West New York Ward 1, Hudson, Ne
+3 CONC w Jersey; Roll: T625_1051; Page: 28A; Enumeration District
+3 CONC : 339
+0 @M99@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Lopez Media\193
+2 CONC 0 United States Federal Census(6).jpg
+2 FORM jpg
+2 TITL 1930 United States Federal Census
+2 _TEXT Year: 1930; Census Place: Brooklyn, Kings, New York; Page: 7
+3 CONC 0A; Enumeration District: 0857; FHL microfilm: 2341272
+0 @M100@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Lopez Media\Ne
+2 CONC w York, New York, Birth Index, 1910-1965(10).jpg
+2 FORM jpg
+2 TITL New York, New York, Birth Index, 1910-1965
+0 @M101@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Lopez Media\Ver
+2 CONC mont, Birth Records, 1909-2008.jpg
+2 FORM jpg
+2 TITL Vermont, Birth Records, 1909-2008
+2 _TEXT Vermont State Archives and Records Administration; Montpelie
+3 CONC r, Vermont; Vermont Birth Records, 1909-2008; User Box Numbe
+3 CONC r: PR-02594; Roll Number: S-41024; Archive Number: PR-02721-
+3 CONC 02722
+0 @M102@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Lopez Media\Ver
+2 CONC mont, Marriage Records, 1909-2008.jpg
+2 FORM jpg
+2 TITL Vermont, Marriage Records, 1909-2008
+2 _TEXT Vermont State Archives and Records Administration; Montpelie
+3 CONC r, Vermont
+0 @M103@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Lopez Media\Ne
+2 CONC w York, New York, Birth Index, 1910-1965(2).jpg
+2 FORM jpg
+2 TITL New York, New York, Birth Index, 1910-1965
+0 @M104@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Lopez Media\Ne
+2 CONC w York, New York, Birth Index, 1910-1965(3).jpg
+2 FORM jpg
+2 TITL New York, New York, Birth Index, 1910-1965
+0 @M105@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Lopez Media\U.S
+2 CONC ., School Yearbooks, 1900-1999.jpg
+2 FORM jpg
+2 TITL U.S., School Yearbooks, 1900-1999
+2 _TEXT "U.S., School Yearbooks, 1880-2012"; School Name: Midwood Hi
+3 CONC gh School; Year: 1973
+0 @M106@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Lopez Media\Ron
+2 CONC ald Pazmino.jpg
+2 FORM jpg
+2 TITL Ronald Pazmino
+2 _TEXT "U.S., School Yearbooks, 1880-2012"; School Name: Midwood Hi
+3 CONC gh School; Year: 1973
+0 @M107@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Lopez Media\Ne
+2 CONC w York, New York, Marriage License Indexes, 1907-1995(2).jpg
+2 FORM jpg
+2 TITL New York, New York, Marriage License Indexes, 1907-1995
+2 _TEXT New York City Municipal Archives; New York, New York; Boroug
+3 CONC h: Brooklyn
+0 @M108@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Lopez Media\193
+2 CONC 0 United States Federal Census(4)(1).jpg
+2 FORM jpg
+2 TITL 1930 United States Federal Census
+2 _TEXT Year: 1930; Census Place: Philadelphia, Philadelphia, Pennsy
+3 CONC lvania; Page: 15B; Enumeration District: 0935; FHL microfilm
+3 CONC : 2341849
+0 @M109@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Lopez Media\194
+2 CONC 0 United States Federal Census(7).jpg
+2 FORM jpg
+2 TITL 1940 United States Federal Census
+2 _TEXT Year: 1940; Census Place: Scranton, Lackawanna, Pennsylvania
+3 CONC ; Roll: m-t0627-03685; Page: 11A; Enumeration District: 71-1
+3 CONC 08
+0 @M110@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Lopez Media\Ne
+2 CONC w York, New York, Marriage License Indexes, 1907-1995(3).jpg
+2 FORM jpg
+2 TITL New York, New York, Marriage License Indexes, 1907-1995
+2 _TEXT New York City Municipal Archives; New York, New York; Boroug
+3 CONC h: Brooklyn
+0 @M111@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Lopez Media\U.S
+2 CONC . City Directories, 1822-1995(4).jpg
+2 FORM jpg
+2 TITL U.S. City Directories, 1822-1995
+0 @M112@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Lopez Media\Ne
+2 CONC w York, New York, Birth Index, 1910-1965(11).jpg
+2 FORM jpg
+2 TITL New York, New York, Birth Index, 1910-1965
+0 @M113@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Lopez Media\Ne
+2 CONC w York, New York, Marriage License Indexes, 1907-1995(6).jpg
+2 FORM jpg
+2 TITL New York, New York, Marriage License Indexes, 1907-1995
+2 _TEXT New York City Municipal Archives; New York, New York; Boroug
+3 CONC h: Brooklyn
+0 @M114@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Lopez Media\Ne
+2 CONC w York, New York, Marriage License Indexes, 1907-1995(7).jpg
+2 FORM jpg
+2 TITL New York, New York, Marriage License Indexes, 1907-1995
+2 _TEXT New York City Municipal Archives; New York, New York; Boroug
+3 CONC h: Brooklyn
+0 @M115@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Lopez Media\194
+2 CONC 0 United States Federal Census(1).jpg
+2 FORM jpg
+2 TITL 1940 United States Federal Census
+2 _TEXT Year: 1940; Census Place: New York, Kings, New York; Roll: T
+3 CONC 627_2615; Page: 9B; Enumeration District: 24-2591
+1 REFN 9f6c954a-b9e1-477f-bdc5-195a1eaaabf5
+0 @M116@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Lopez Media\Mas
+2 CONC sachusetts, Town and Vital Records, 1620-1988(18).jpg
+2 FORM jpg
+2 TITL Massachusetts, Town and Vital Records, 1620-1988
+1 REFN 67ba75b0-ccbb-4a7b-ad92-717c8cfa1e3f
+0 @M117@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Lopez Media\Ne
+2 CONC w York, Passenger Lists, 1820-1957(1)(1).jpg
+2 FORM jpg
+2 TITL New York, Passenger Lists, 1820-1957
+2 _TEXT Year: 1935
+1 REFN 3170228e-35ff-4a29-9cdb-220fc84ceeae
+0 @M118@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Lopez Media\Ne
+2 CONC w York, New York, Marriage License Indexes, 1907-1995(5).jpg
+2 FORM jpg
+2 TITL New York, New York, Marriage License Indexes, 1907-1995
+2 _TEXT New York City Municipal Archives; New York, New York; Boroug
+3 CONC h: Brooklyn
+0 @M119@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Lopez Media\vic
+2 CONC tor_drawing_board.jpg
+2 FORM jpg
+2 TITL victor_drawing_board
+2 _TEXT Victor at his drawing board.
+0 @M120@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Lopez Media\U.S
+2 CONC ., World War I Draft Registration Cards, 1917-1918(4).jpg
+2 FORM jpg
+2 TITL U.S., World War I Draft Registration Cards, 1917-1918
+2 _TEXT Registration Location: Kings County, New York; Roll: 1754595
+3 CONC ; Draft Board: 67.
+1 REFN c7633f68-8ea7-497d-8999-8c2372b8092c
+0 @M121@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Lopez Media\Sel
+2 CONC ected U.S. Naturalization Records - Original Documents, 1790
+2 CONC -1974.jpg
+2 FORM jpg
+2 TITL Selected U.S. Naturalization Records - Original Documents, 1
+3 CONC 790-1974
+2 _TEXT National Archives and Records Administration (NARA), Washing
+3 CONC ton D.C.; Petitions for Naturalization of the U.S. Distric
+3 CONC t Court for the Eastern District of New York, 1865-1937; NAR
+3 CONC A Series: M1879; Reference: (Roll 313) Petition No 53151 - P
+3 CONC etition No 53500
+1 REFN 875fed87-a689-4e8b-9fcc-f83662137e31
+0 @M122@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Lopez Media\U.S
+2 CONC . Naturalization Records Indexes, 1794-1995.jpg
+2 FORM jpg
+2 TITL U.S. Naturalization Records Indexes, 1794-1995
+2 _TEXT National Archives and Records Administration (NARA); Washing
+3 CONC ton, D.C.; Index to Naturalization Petitions of the United S
+3 CONC tates District Court for the Eastern District of New York, 1
+3 CONC 865-1957; Microfilm Serial: M1164; Microfilm Roll: 104
+1 REFN 0713d33c-a95e-469e-9799-448631896da9
+0 @M123@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Lopez Media\Ne
+2 CONC w York, State and Federal Naturalization Records, 1794-1940(
+2 CONC 1).jpg
+2 FORM jpg
+2 TITL New York, State and Federal Naturalization Records, 1794-194
+3 CONC 0
+2 _TEXT National Archives and Records Administration; Washington, DC
+3 CONC ; ARC Title: Index to Petitions for Naturalizations Filed i
+3 CONC n Federal, State, and Local Courts in New York City, 1792-19
+3 CONC 06; NAI Number: 5700802; Record Group Title: Records of Dist
+3 CONC rict Courts of th
+0 @M124@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Lopez Media\Ne
+2 CONC w York, New York, Marriage License Indexes, 1907-1995(4).jpg
+2 FORM jpg
+2 TITL New York, New York, Marriage License Indexes, 1907-1995
+2 _TEXT New York City Municipal Archives; New York, New York; Boroug
+3 CONC h: Brooklyn
 0 @N224@ NOTE affidavit, page 1
 0 @N223@ NOTE affidavit, page 2
 0 @N222@ NOTE certificate
