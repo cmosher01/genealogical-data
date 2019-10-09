@@ -14,9 +14,9 @@
 4 CONT Boston, MA 02109
 3 PHON (617) 227-6681
 1 DEST FTM
-1 FILE root_2019-10-08-23-25-06.ftm.ged
-1 DATE 08 OCT 2019
-2 TIME 23:26:01
+1 FILE root_2019-10-09-04-35-46.ftm.ged
+1 DATE 09 OCT 2019
+2 TIME 04:36:33
 0 @Umy2qBWIRUiwVSS6Hcn4@ SUBM
 1 NAME Christopher Alan Mosher
 2 EMAIL cmosher01@@gmail.com
@@ -52,11 +52,8 @@
 1 FAMS @icgY8MmYQrmNOAPETgz2@
 1 FAMS @mIKzGBevQbaarX4tOaHV@
 0 @kBv4wdo8Tsy0vtRkdKSv@ INDI
-1 REFN 5b80ebe6-9dc8-4ed0-a335-969f98204f86
-1 NAME William /Joseph/
-1 SEX M
+1 NAME [REDACTED]
 1 FAMS @mkUw3OhHT2KxZ0NPxcFl@
-1 _XY 1802 4820
 0 @jsNMDNAiTQOjbkFez8l1@ INDI
 1 NAME [REDACTED]
 1 FAMS @4BC7XVXTT8CR2JFIUJzp@
@@ -359,8 +356,7 @@
 3 CONC d cottage.)
 1 RESI
 2 DATE JUL 1961
-2 PLAC 17 Green Street, Claymont, Brandywine, New Castle, Delaware
-3 CONC , USA
+2 PLAC 17 Green Street, Claymont, New Castle, Delaware, USA
 2 SOUR @IvLO8rI1TCyDR6vNjBQC@
 3 QUAY 3
 2 NOTE 2 bedroom apartment
@@ -410,7 +406,8 @@
 3 QUAY 3
 1 RESI
 2 DATE 1971
-2 PLAC 2210 Garfield Avenue, Wilmington, New Castle, Delaware, USA
+2 PLAC 2210 Garfield Avenue, Gwinhurst, Brandywine, New Castle, Del
+3 CONC aware, USA
 2 SOUR @fzsLPVccTgeiJyfHvlqO@
 3 QUAY 3
 2 NOTE rented a room
@@ -576,6 +573,7 @@
 0 @F76@ FAM
 0 @F77@ FAM
 0 @F79@ FAM
+0 @F93@ FAM
 0 @mkUw3OhHT2KxZ0NPxcFl@ FAM
 1 REFN 77fe0d5c-bbad-4da3-a7c7-63d5e429b4e1
 1 HUSB @kBv4wdo8Tsy0vtRkdKSv@
@@ -1288,4 +1286,18 @@
 2 TITL New York State, Birth Index, 1881-1942
 2 _TEXT New York State Department of Health; Albany, NY, USA; New Yo
 3 CONC rk State Birth Index
+0 @M171@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\root Media\Will
+2 CONC iam Joseph.jpg
+2 FORM jpg
+2 TITL William Joseph
+2 _TEXT "U.S., School Yearbooks, 1880-2012"; School Name: Mount Plea
+3 CONC sant High School; Year: 1984
+0 @M172@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\root Media\U.S.
+2 CONC , School Yearbooks, 1900-1999(8).jpg
+2 FORM jpg
+2 TITL U.S., School Yearbooks, 1900-1999
+2 _TEXT "U.S., School Yearbooks, 1880-2012"; School Name: Mount Plea
+3 CONC sant High School; Year: 1984
 0 TRLR
