@@ -14,9 +14,9 @@
 4 CONT Boston, MA 02109
 3 PHON (617) 227-6681
 1 DEST FTM
-1 FILE root_2019-10-09-04-35-46.ftm.ged
+1 FILE root_2019-10-09-04-57-33.ftm.ged
 1 DATE 09 OCT 2019
-2 TIME 04:36:33
+2 TIME 04:58:04
 0 @Umy2qBWIRUiwVSS6Hcn4@ SUBM
 1 NAME Christopher Alan Mosher
 2 EMAIL cmosher01@@gmail.com
@@ -82,6 +82,13 @@
 4 CONC : T627_2624; Page: 1A; Enumeration District: 27-19
 3 OBJE @dHJ8mphgTUWWxu6hUIKh@
 3 _APID 1,2442::11197641
+2 SOUR @S190@
+3 PAGE The News Journal; Publication Date: 17/ Mar/ 2019; Publicati
+4 CONC on Place: Wilmington, Delaware, United States of America; UR
+4 CONC L: https://www.newspapers.com/image/544435899/?article=3fb51
+4 CONC 9fc-b81a-4416-b4dc-250c03733734&focus=0.027137123,0.7171319,
+4 CONC 0.3459657,0.9363
+3 _APID 1,61843::664230187
 2 SOUR @xaxSo2jsSdCj5xwpSVdX@
 3 PAGE Facebook update -  - 10/25/2013
 3 _LINK http://www.facebook.com/100000963550759
@@ -120,6 +127,7 @@
 1 FAMS @e02RyF5ITPOUOgTlSLoh@
 1 FAMS @icgY8MmYQrmNOAPETgz2@
 1 FAMS @cMJMSvCfQA2vcFe7WTJm@
+1 FAMS @F94@
 1 BIRT
 2 DATE 01 SEP 1937
 2 PLAC Oneida City Hospital, Oneida, Madison, New York, USA
@@ -128,6 +136,13 @@
 4 CONC : T627_2624; Page: 1A; Enumeration District: 27-19
 3 OBJE @dHJ8mphgTUWWxu6hUIKh@
 3 _APID 1,2442::11197641
+2 SOUR @S190@
+3 PAGE The News Journal; Publication Date: 17/ Mar/ 2019; Publicati
+4 CONC on Place: Wilmington, Delaware, United States of America; UR
+4 CONC L: https://www.newspapers.com/image/544435899/?article=3fb51
+4 CONC 9fc-b81a-4416-b4dc-250c03733734&focus=0.027137123,0.7171319,
+4 CONC 0.3459657,0.9363
+3 _APID 1,61843::664230187
 2 SOUR @K5FFKa9wS3KlopARf4Hv@
 3 QUAY 3
 2 SOUR @S181@
@@ -436,10 +451,26 @@
 2 DATE 11 MAR 2019
 2 PLAC 4 Vansant Road, Deacons Walk, Mill Creek, New Castle, Delawa
 3 CONC re, USA
+2 SOUR @S190@
+3 PAGE The News Journal; Publication Date: 17/ Mar/ 2019; Publicati
+4 CONC on Place: Wilmington, Delaware, United States of America; UR
+4 CONC L: https://www.newspapers.com/image/544435899/?article=3fb51
+4 CONC 9fc-b81a-4416-b4dc-250c03733734&focus=0.027137123,0.7171319,
+4 CONC 0.3459657,0.9363
+3 _APID 1,61843::664230187
 1 BURI
 2 DATE 19 MAR 2019
 2 PLAC Gracelawn Memorial Park, 2220 North DuPont Highway, New Cast
 3 CONC le, New Castle, Delaware, USA
+1 RESI
+2 PLAC Newark
+2 SOUR @S190@
+3 PAGE The News Journal; Publication Date: 17/ Mar/ 2019; Publicati
+4 CONC on Place: Wilmington, Delaware, United States of America; UR
+4 CONC L: https://www.newspapers.com/image/544435899/?article=3fb51
+4 CONC 9fc-b81a-4416-b4dc-250c03733734&focus=0.027137123,0.7171319,
+4 CONC 0.3459657,0.9363
+3 _APID 1,61843::664230187
 1 DSCR eye color: brown
 2 SOUR @2E6d10MOQ5GomThqphXK@
 3 QUAY 3
@@ -462,6 +493,18 @@
 1 FAMS @mkUw3OhHT2KxZ0NPxcFl@
 1 FAMS @rJCvyVCtQ7iWFpDouFVe@
 1 FAMS @N4mFlpojRPOGeRIvxrXQ@
+0 @I150@ INDI
+1 REFN 84d81e65-eb7c-45e7-87eb-a89ba94d5ccb
+1 NAME Barbara Ann /Murray/
+2 SOUR @S190@
+3 PAGE The News Journal; Publication Date: 17/ Mar/ 2019; Publicati
+4 CONC on Place: Wilmington, Delaware, United States of America; UR
+4 CONC L: https://www.newspapers.com/image/544435899/?article=3fb51
+4 CONC 9fc-b81a-4416-b4dc-250c03733734&focus=0.027137123,0.7171319,
+4 CONC 0.3459657,0.9363
+3 _APID 1,61843::742510195
+1 SEX F
+1 FAMS @F94@
 0 @YQBI16LwTvm4NZRMXtBc@ INDI
 1 REFN 811f8e3f-56ab-4d34-b2bd-292589766140
 1 NAME Bradley /Quire/
@@ -608,6 +651,9 @@
 0 @icgY8MmYQrmNOAPETgz2@ FAM
 1 HUSB @tEcNfFocSyWqGfGY6wzd@
 1 WIFE @ugsdTc1iTqCwKsG5aq2k@
+0 @F94@ FAM
+1 HUSB @tEcNfFocSyWqGfGY6wzd@
+1 WIFE @I150@
 0 @cMJMSvCfQA2vcFe7WTJm@ FAM
 1 HUSB @tEcNfFocSyWqGfGY6wzd@
 1 WIFE @SM78VeFHR5aVCcI1AJnw@
