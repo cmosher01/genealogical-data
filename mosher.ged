@@ -14,9 +14,9 @@
 4 CONT Boston, MA 02109
 3 PHON (617) 227-6681
 1 DEST FTM
-1 FILE Mosher_2019-10-08-02-54-41.ftm.ged
-1 DATE 08 OCT 2019
-2 TIME 02:55:36
+1 FILE Mosher_2020-05-16-21-50-52.ftm.ged
+1 DATE 16 MAY 2020
+2 TIME 21:49:03
 0 @Umy2qBWIRUiwVSS6Hcn4@ SUBM
 1 NAME Christopher Alan Mosher
 2 EMAIL cmosher01@@gmail.com
@@ -1491,6 +1491,12 @@
 0 @WOVMrbNIRvSvseSmRQXW@ INDI
 1 REFN fee0cf25-f193-425c-8bac-d5944ef40ae1
 1 NAME Sarah /Butcher/
+2 SOUR @vDza9JfJR7CV2E1SvFkI@
+3 PAGE Genealogical Publishing Co.; Baltimore, MD, USA; Volume Titl
+4 CONC e: New England Marriages Prior to 1700, entry for "Sarah Mos
+4 CONC her", maiden name "Butcher"
+3 OBJE @M567@
+3 _APID 1,3824::160456
 1 SEX F
 1 FAMS @pIDPVHBGQM6lxsUt5lcg@
 1 FAMS @wYylLD5FQgSYuigmkj08@
@@ -2690,6 +2696,11 @@
 4 CONC : T627_2624; Page: 4A; Enumeration District: 27-35
 3 OBJE @uqTMhjHaRyiRyfLbR8II@
 3 _APID 1,2442::11216833
+2 SOUR @S203@
+3 PAGE New York State Department of Health; Albany, NY, USA; New Yo
+4 CONC rk State Marriage Index, "Bearl M. Colvin"
+3 OBJE @M577@
+3 _APID 1,61632::2294504
 2 SOUR @S216@
 3 PAGE New York State Archives; Albany, New York; State Populatio
 4 CONC n Census Schedules, 1915; Election District: 01; Assembly Di
@@ -4861,21 +4872,51 @@
 0 @3B7azDOeTcqdZhnjwG4A@ INDI
 1 REFN 261f7f46-ba7b-4413-a651-05e74e98bce8
 1 NAME John /Harndell/
+2 SOUR @xCp8VgpUTy6BVuoyJk5I@
+3 _APID 1,3599::3137430
 2 SOUR @CNCZKGpeSrKJ6BUTT9Hu@
 3 PAGE p. 1
 3 QUAY 1
-2 SOUR @ZtAQnlXATEaLcqcHzjiT@
-3 _APID 1,5771::1152222
+2 SOUR @S371@
+3 _APID 1,60541::2731935
+2 SOUR @lIFoQFKzTHCalwRjxIxf@
+3 _APID 1,7249::103715929
+2 SOUR @wUzo8nJ5TOiqkGFxDvd2@
+3 PAGE entry for "John Harndell"
+3 OBJE @M568@
+3 _APID 1,2496::39586
+2 SOUR @S322@
+3 OBJE @M578@
+3 _APID 1,3897::206580
+2 SOUR @S241@
+3 _APID 1,60525::118897132
+2 SOUR @vDza9JfJR7CV2E1SvFkI@
+3 PAGE Genealogical Publishing Co.; Baltimore, MD, USA; Volume Titl
+4 CONC e: New England Marriages Prior to 1700, entry for "John Harn
+4 CONC del"
+3 OBJE @M569@
+3 _APID 1,3824::52436
+2 SOUR @S377@
+3 _APID 1,70671::29793
 1 SEX M
-1 FAMS @MyvBgStZQp2LCutUEOWT@
+2 SOUR @wUzo8nJ5TOiqkGFxDvd2@
+3 _APID 1,2496::39586
 1 FAMS @9s2toM8HQyqgZt4COopO@
+1 FAMS @MyvBgStZQp2LCutUEOWT@
 1 BIRT
 2 DATE ABT 1627
 2 PLAC Newport, Newport, Rhode Island, USA
 3 MAP
 4 LATI N41.4901
 4 LONG W71.3129
-2 SOUR @91JIXBEJQz6bVLkVlmAF@
+2 SOUR @xCp8VgpUTy6BVuoyJk5I@
+3 _APID 1,3599::3137430
+2 SOUR @S371@
+3 _APID 1,60541::2731935
+2 SOUR @lIFoQFKzTHCalwRjxIxf@
+3 _APID 1,7249::103715929
+2 SOUR @S241@
+3 _APID 1,60525::118897132
 1 WILL
 2 DATE 09 FEB 1685
 2 PLAC Newport, Newport, Rhode Island, USA
@@ -4885,15 +4926,45 @@
 2 SOUR @CNCZKGpeSrKJ6BUTT9Hu@
 3 PAGE p. 1
 3 QUAY 1
+2 SOUR @wUzo8nJ5TOiqkGFxDvd2@
+3 PAGE entry for "John Harndell"
+3 OBJE @M568@
+3 _APID 1,2496::39586
 1 DEAT
 2 DATE 06 FEB 1687
 2 PLAC Newport, Newport, Rhode Island, USA
 3 MAP
 4 LATI N41.4901
 4 LONG W71.3129
-2 SOUR @91JIXBEJQz6bVLkVlmAF@
-2 SOUR @ZtAQnlXATEaLcqcHzjiT@
-3 _APID 1,5771::1152222
+2 SOUR @S371@
+3 _APID 1,60541::2731935
+2 SOUR @lIFoQFKzTHCalwRjxIxf@
+3 _APID 1,7249::103715929
+2 SOUR @S322@
+3 OBJE @M578@
+3 _APID 1,3897::206580
+2 SOUR @S241@
+3 _APID 1,60525::118897132
+2 SOUR @S377@
+3 _APID 1,70671::29793
+1 PROB
+2 DATE 1687
+2 PLAC Newport, Newport, Rhode Island, USA
+3 MAP
+4 LATI N41.4901
+4 LONG W71.3129
+2 SOUR @CNCZKGpeSrKJ6BUTT9Hu@
+3 PAGE p. 1
+1 PROB
+2 DATE 08 APR 1698
+2 PLAC Newport, Newport, Rhode Island, USA
+3 MAP
+4 LATI N41.4901
+4 LONG W71.3129
+2 SOUR @wUzo8nJ5TOiqkGFxDvd2@
+3 PAGE entry for "John Harndell"
+3 OBJE @M568@
+3 _APID 1,2496::39586
 1 _XY 7325.00 300.00
 0 @j75Y8ohLSpG61uWWgGGh@ INDI
 1 REFN 18bccedc-8b69-4d6a-a67b-30d084e63aae
@@ -4901,8 +4972,14 @@
 2 SOUR @CNCZKGpeSrKJ6BUTT9Hu@
 3 PAGE p. 1
 3 QUAY 1
+2 SOUR @XkYfWXOxTRycLRJJyxNy@
+3 PAGE Source number: 16367.000; Source type: Electronic Database
+4 CONC ; Number of Pages: 1; Submitter Code: BFO, entry for "Mary H
+4 CONC arndell"
+3 _APID 1,7836::531659
 1 SEX F
-1 FAMC @MyvBgStZQp2LCutUEOWT@
+1 FAMC @9s2toM8HQyqgZt4COopO@
+1 FAMS @F502@
 1 BIRT
 2 DATE 06 JUL 1647
 2 PLAC Newport, Newport, Rhode Island, USA
@@ -4910,6 +4987,11 @@
 4 LATI N41.4901
 4 LONG W71.3129
 2 SOUR @91JIXBEJQz6bVLkVlmAF@
+2 SOUR @XkYfWXOxTRycLRJJyxNy@
+3 PAGE Source number: 16367.000; Source type: Electronic Database
+4 CONC ; Number of Pages: 1; Submitter Code: BFO, entry for "Mary H
+4 CONC arndell"
+3 _APID 1,7836::531659
 1 DEAT
 2 DATE AUG 1687
 2 PLAC Newport, Newport, Rhode Island, USA
@@ -5876,6 +5958,9 @@
 4 CONC etts; Massachusetts Vital Records, 1840–1911
 3 OBJE @M378@
 3 _APID 1,2101::460161
+2 SOUR @S298@
+3 OBJE @M564@
+3 _APID 1,2495::47314289
 2 SOUR @S211@
 3 OBJE @M338@
 3 _APID 1,7181::1653712697
@@ -5891,6 +5976,19 @@
 4 CONC : Madison; County: Madison; Page: 5
 3 OBJE @AtUG3M5QRZWkRjvHf5Qt@
 3 _APID 1,7364::4299748
+2 SOUR @S281@
+3 OBJE @M565@
+3 _APID 1,2469::495741161
+2 SOUR @S369@
+3 PAGE The National Archives at Washington, D.C.; Washington, D.C.
+4 CONC ; Record Group Title: Records of the Department of Veteran
+4 CONC s Affairs, 1773 - 2007; Record Group Number: 15; Series Titl
+4 CONC e: U.S., Civil War Pension Index: General Index to Pension F
+4 CONC iles, 1861-1934; Se
+3 OBJE @M573@
+3 _APID 1,4654::10163776
+2 SOUR @S241@
+3 _APID 1,60525::134993753
 1 SEX F
 1 FAMC @F409@
 1 FAMS @F395@
@@ -5927,6 +6025,9 @@
 4 CONC etts; Massachusetts Vital Records, 1840–1911
 3 OBJE @M378@
 3 _APID 1,2101::460161
+2 SOUR @S298@
+3 OBJE @M564@
+3 _APID 1,2495::47314289
 2 SOUR @S211@
 3 OBJE @M338@
 3 _APID 1,7181::1653712697
@@ -6056,6 +6157,18 @@
 4 CONC etts; Massachusetts Vital Records, 1840–1911
 3 OBJE @M378@
 3 _APID 1,2101::460161
+2 SOUR @S298@
+3 OBJE @M564@
+3 _APID 1,2495::47314289
+2 SOUR @S281@
+3 OBJE @M565@
+3 _APID 1,2469::495741161
+2 SOUR @S241@
+3 _APID 1,60525::134993753
+1 BURI
+2 PLAC Newton Cemetery, Newton, Middlesex, Massachusetts, USA
+2 SOUR @S241@
+3 _APID 1,60525::134993753
 1 _XY 1900.00 1900.00
 1 _PHOTO @M426@
 0 @I530@ INDI
@@ -7786,6 +7899,17 @@
 2 SOUR @S211@
 3 OBJE @M343@
 3 _APID 1,7181::1653741903
+2 SOUR @S220@
+3 OBJE @M576@
+3 _APID 1,3212::3130156
+2 SOUR @S369@
+3 PAGE The National Archives at Washington, D.C.; Washington, D.C.
+4 CONC ; Record Group Title: Records of the Department of Veteran
+4 CONC s Affairs, 1773 - 2007; Record Group Number: 15; Series Titl
+4 CONC e: U.S., Civil War Pension Index: General Index to Pension F
+4 CONC iles, 1861-1934; Se
+3 OBJE @M573@
+3 _APID 1,4654::163776
 1 SEX M
 2 SOUR @S209@
 3 _APID 1,7667::49468667
@@ -7803,6 +7927,9 @@
 2 SOUR @S211@
 3 OBJE @M343@
 3 _APID 1,7181::1653741903
+2 SOUR @S220@
+3 OBJE @M576@
+3 _APID 1,3212::3130156
 1 RESI
 2 DATE 1855
 2 PLAC Madison, Madison, New York, USA
@@ -7813,6 +7940,15 @@
 3 OBJE @M343@
 3 _APID 1,7181::1653741903
 2 NOTE Relation to Head: Servant
+1 RESI
+2 DATE 1892
+2 PLAC Hamilton, Madison, New York, USA
+3 MAP
+4 LATI N42.827
+4 LONG W75.5446
+2 SOUR @S220@
+3 OBJE @M576@
+3 _APID 1,3212::3130156
 1 _XY 2000.00 1900.00
 0 @I590@ INDI
 1 REFN deb3605e-7b71-4cff-a3ec-312975baa729
@@ -10895,42 +11031,35 @@
 2 SOUR @BumWgFr4TiOR71Xtm9Lo@
 3 _APID 1,9289::8142451
 1 _XY 4580 729
-0 @4moq2W35SSGmLADoxsmp@ INDI
-1 REFN e6a80232-5d29-4f31-84bd-0205fefd9656
-1 NAME John /Maxson/
-2 SOUR @91JIXBEJQz6bVLkVlmAF@
-1 SEX M
-1 FAMS @qj7Sa6FVQPC1ks066NyF@
-1 BIRT
-2 DATE ABT 1586
-2 PLAC England
-3 MAP
-4 LATI N52.5898
-4 LONG W1.4611
-2 SOUR @91JIXBEJQz6bVLkVlmAF@
-1 _XY 7500.00 150.00
 0 @OOn3OG1cQLS2sFRxO1mn@ INDI
 1 REFN 53c2f839-499a-42e5-a554-1093f88af13a
 1 NAME John /Maxson/
-2 SOUR @cHqs3hdITfGhgYkNTQzb@
+2 SOUR @wUzo8nJ5TOiqkGFxDvd2@
+3 OBJE @M568@
+3 _APID 1,2496::39588
 1 SEX M
+2 SOUR @wUzo8nJ5TOiqkGFxDvd2@
+3 _APID 1,2496::39588
 1 FAMC @LlcJAdH6T26e0JPuLaxN@
 1 FAMS @cYd5V1CvQvmlIvrdsmMQ@
 1 BIRT
 2 DATE MAR 1639
-2 PLAC Newport, Newport, Rhode Island, USA
+2 PLAC Portsmouth, Newport, Rhode Island, USA
 3 MAP
-4 LATI N41.4901
-4 LONG W71.3129
-2 SOUR @HhUT0JhOSgGzOY1mITu3@
-3 QUAY 1
+4 LATI N41.6023
+4 LONG W71.2503
+2 SOUR @wUzo8nJ5TOiqkGFxDvd2@
+3 OBJE @M568@
+3 _APID 1,2496::39588
 1 DEAT
 2 DATE 17 DEC 1720
 2 PLAC Westerly, Washington, Rhode Island, USA
 3 MAP
 4 LATI N41.3776
 4 LONG W71.8273
-2 SOUR @91JIXBEJQz6bVLkVlmAF@
+2 SOUR @wUzo8nJ5TOiqkGFxDvd2@
+3 OBJE @M568@
+3 _APID 1,2496::39588
 1 _XY 7450.00 450.00
 0 @d9GpsgbpTKWWJ8ogl1gJ@ INDI
 1 REFN 01b405eb-ec0e-4f11-92f9-1da774476259
@@ -10945,6 +11074,8 @@
 3 PAGE Source number: 251.000; Source type: Electronic Database; Nu
 4 CONC mber of Pages: 1; Submitter Code: RWK
 3 _APID 1,7836::793126
+2 SOUR @S366@
+3 _APID 1,9289::2100618
 1 SEX F
 1 FAMC @qj7Sa6FVQPC1ks066NyF@
 1 FAMS @Y1EqC4eHRReB91rN6BHl@
@@ -11007,6 +11138,9 @@
 3 PAGE p. 1
 2 SOUR @lIFoQFKzTHCalwRjxIxf@
 3 _APID 1,7249::106210022
+2 SOUR @wUzo8nJ5TOiqkGFxDvd2@
+3 OBJE @M568@
+3 _APID 1,2496::39590
 2 SOUR @XkYfWXOxTRycLRJJyxNy@
 3 PAGE Source number: 1514.000; Source type: Electronic Database; N
 4 CONC umber of Pages: 1; Submitter Code: CGA
@@ -11015,31 +11149,30 @@
 3 PAGE Source number: 253.000; Source type: Electronic Database; Nu
 4 CONC mber of Pages: 1; Submitter Code: RWK
 3 _APID 1,7836::793151
+2 SOUR @S366@
+3 _APID 1,9289::2100616
 1 SEX F
 1 FAMC @LlcJAdH6T26e0JPuLaxN@
 1 FAMS @FpSmj7eiSECEkyexIYXl@
 1 NOTE This Rebecca is not Recebba Harndell (daughter of John Harnd
 2 CONC ell)
 1 BIRT
-2 DATE 06 FEB 1637
-2 PLAC Dartmouth, Bristol, Massachusetts, USA
+2 DATE ABT 1641
+2 PLAC Portsmouth, Newport, Rhode Island, USA
 3 MAP
-4 LATI N41.6282
-4 LONG W70.966
+4 LATI N41.6023
+4 LONG W71.2503
 2 SOUR @91JIXBEJQz6bVLkVlmAF@
 2 SOUR @lIFoQFKzTHCalwRjxIxf@
 3 _APID 1,7249::106210022
+2 SOUR @wUzo8nJ5TOiqkGFxDvd2@
+3 OBJE @M568@
+3 _APID 1,2496::39590
 2 SOUR @XkYfWXOxTRycLRJJyxNy@
 3 PAGE Source number: 1514.000; Source type: Electronic Database; N
 4 CONC umber of Pages: 1; Submitter Code: CGA
 3 _APID 1,7836::793148
 2 NOTE also given as 1631
-1 RESI
-2 DATE ABT 1643
-2 PLAC Westerly, Washington, Rhode Island, USA
-3 MAP
-4 LATI N41.3776
-4 LONG W71.8273
 1 RESI
 2 DATE ABT JAN 1668
 2 PLAC Portsmouth, Newport, Rhode Island, USA
@@ -11282,8 +11415,17 @@
 0 @VNrJncYEQ5ChlpFYD9kD@ INDI
 1 REFN aae69f51-6a1b-4b58-a377-d0afc293ad7a
 1 NAME Rebecca wife of Richard /Maxson/
-2 SOUR @cHqs3hdITfGhgYkNTQzb@
+2 SOUR @lIFoQFKzTHCalwRjxIxf@
+3 _APID 1,7249::10374440
+2 SOUR @vDza9JfJR7CV2E1SvFkI@
+3 PAGE Genealogical Publishing Co.; Baltimore, MD, USA; Volume Titl
+4 CONC e: New England Marriages Prior to 1700, entry for wife of "H
+4 CONC arndel"
+3 OBJE @M569@
+3 _APID 1,3824::152436
 1 SEX F
+2 SOUR @wUzo8nJ5TOiqkGFxDvd2@
+3 _APID 1,2496::39585
 1 FAMS @LlcJAdH6T26e0JPuLaxN@
 1 FAMS @9s2toM8HQyqgZt4COopO@
 1 BIRT
@@ -11292,73 +11434,70 @@
 3 MAP
 4 LATI N52.5898
 4 LONG W1.4611
-2 SOUR @91JIXBEJQz6bVLkVlmAF@
+2 SOUR @lIFoQFKzTHCalwRjxIxf@
+3 _APID 1,7249::10374440
 2 NOTE date is just a guess, based on birth dates of spouses and ch
 3 CONC ildren
-1 RELI admitted
-2 DATE 02 OCT 1634
-2 PLAC Boston, Suffolk, Massachusetts, USA
-3 MAP
-4 LATI N42.3583
-4 LONG W71.0603
-2 SOUR @sFy5W6Q1RfCy4MELthoo@
 1 DEAT
 2 DATE ABT 1680
-2 SOUR @91JIXBEJQz6bVLkVlmAF@
 1 _XY 7450.00 300.00
 0 @GyiRMMh9SsiASymQHxnk@ INDI
 1 REFN 2da78aa6-efa5-4f63-8c0d-b3e59fbca3da
 1 NAME Richard /Maxson/
+2 SOUR @wUzo8nJ5TOiqkGFxDvd2@
+3 OBJE @M570@
+3 _APID 1,2496::39575
 1 SEX M
+2 SOUR @wUzo8nJ5TOiqkGFxDvd2@
+3 _APID 1,2496::39575
 1 FAMC @qj7Sa6FVQPC1ks066NyF@
 1 FAMS @LlcJAdH6T26e0JPuLaxN@
 1 BIRT
-2 DATE 1602
+2 DATE ABT 1613
 2 PLAC England
 3 MAP
 4 LATI N52.5898
 4 LONG W1.4611
-2 SOUR @91JIXBEJQz6bVLkVlmAF@
+2 SOUR @wUzo8nJ5TOiqkGFxDvd2@
+3 OBJE @M570@
+3 _APID 1,2496::39575
 1 IMMI
 2 DATE 18 SEP 1634
 2 PLAC Boston, Suffolk, Massachusetts, USA
 3 MAP
 4 LATI N42.3583
 4 LONG W71.0603
-2 SOUR @Ckes5X95QXSIkoB3u8L7@
+2 SOUR @wUzo8nJ5TOiqkGFxDvd2@
+3 OBJE @M570@
+3 _APID 1,2496::39575
 2 NOTE on ship "Griffin"
-1 RESI
-2 DATE FROM 18 SEP 1634 TO MAR 1638
-2 PLAC Boston, Suffolk, Massachusetts, USA
-3 MAP
-4 LATI N42.3583
-4 LONG W71.0603
-2 SOUR @Ckes5X95QXSIkoB3u8L7@
-2 NOTE may have lived in Dartmouth, MA, and Newport, RI, sometime d
-3 CONC uring this period, because children are listed as being bor
-3 CONC n in those towns.
 1 RELI admitted
 2 DATE 02 OCT 1634
 2 PLAC Boston, Suffolk, Massachusetts, USA
 3 MAP
 4 LATI N42.3583
 4 LONG W71.0603
-2 SOUR @sFy5W6Q1RfCy4MELthoo@
+2 SOUR @wUzo8nJ5TOiqkGFxDvd2@
+3 OBJE @M570@
+3 _APID 1,2496::39575
 1 RESI
 2 DATE FROM MAR 1638 TO 1641
 2 PLAC Portsmouth, Newport, Rhode Island, USA
 3 MAP
 4 LATI N41.6023
 4 LONG W71.2503
+2 SOUR @wUzo8nJ5TOiqkGFxDvd2@
+3 OBJE @M570@
+3 _APID 1,2496::39575
 1 OCCU blacksmith
-2 DATE 1638
-2 PLAC Newport, Newport, Rhode Island, USA
+2 DATE 07 FEB 1639
+2 PLAC Portsmouth, Newport, Rhode Island, USA
 3 MAP
-4 LATI N41.4901
-4 LONG W71.3129
-2 SOUR @dP3Ia4pnTA6tfhChMWt9@
-3 PAGE p. 160
-3 QUAY 1
+4 LATI N41.6023
+4 LONG W71.2503
+2 SOUR @wUzo8nJ5TOiqkGFxDvd2@
+3 OBJE @M570@
+3 _APID 1,2496::39575
 1 EVEN
 2 TYPE defendant
 2 DATE 07 FEB 1639
@@ -11366,8 +11505,9 @@
 3 MAP
 4 LATI N41.6023
 4 LONG W71.2503
-2 SOUR @Ckes5X95QXSIkoB3u8L7@
-3 QUAY 1
+2 SOUR @wUzo8nJ5TOiqkGFxDvd2@
+3 OBJE @M570@
+3 _APID 1,2496::39575
 2 NOTE accused of profiteering
 1 EVEN
 2 TYPE signed Portsmouth loyalty compact
@@ -11376,59 +11516,33 @@
 3 MAP
 4 LATI N41.6023
 4 LONG W71.2503
-2 SOUR @9oCIPYQ9RQa7YqwHTMqV@
-3 QUAY 1
-1 RESI
-2 DATE FROM 1641 TO 20 SEP 1643
-2 PLAC Eastchester, Westchester, New York, USA
-3 MAP
-4 LATI N40.9578
-4 LONG W73.808
-1 EVEN
-2 TYPE sold land
-2 DATE 1642
-2 PLAC Rhode Island, USA
-3 MAP
-4 LATI N41.6583
-4 LONG W70.4917
-2 SOUR @Ckes5X95QXSIkoB3u8L7@
-3 QUAY 1
-2 NOTE to William Roulston
+2 SOUR @wUzo8nJ5TOiqkGFxDvd2@
+3 OBJE @M570@
+3 _APID 1,2496::39575
 1 DEAT
-2 DATE 20 AUG 1643
-2 PLAC Eastchester, Westchester, New York, USA
+2 DATE ABT 1642
+2 PLAC Portsmouth, Newport, Rhode Island, USA
 3 MAP
-4 LATI N40.9578
-4 LONG W73.808
-2 SOUR @HhUT0JhOSgGzOY1mITu3@
-3 QUAY 1
+4 LATI N41.6023
+4 LONG W71.2503
+2 SOUR @wUzo8nJ5TOiqkGFxDvd2@
+3 OBJE @M570@
+3 _APID 1,2496::39575
 2 NOTE Murdered, with Anne Hutchinson (and her children), and wit
 3 CONC h his son Richard.
 1 _XY 7600.00 300.00
-0 @hsUJ8ivpRvy95xZGWav9@ INDI
-1 REFN ef2a00c8-4de0-41a7-99f4-daa82780df87
-1 NAME Richard /Maxson/
-2 SOUR @cHqs3hdITfGhgYkNTQzb@
+0 @4moq2W35SSGmLADoxsmp@ INDI
+1 REFN e6a80232-5d29-4f31-84bd-0205fefd9656
+1 NAME unknown father of Richard /Maxson/
 1 SEX M
-1 FAMC @LlcJAdH6T26e0JPuLaxN@
+1 FAMS @qj7Sa6FVQPC1ks066NyF@
 1 BIRT
-2 DATE ABT 1625
+2 DATE ABT 1586
 2 PLAC England
 3 MAP
 4 LATI N52.5898
 4 LONG W1.4611
-2 SOUR @cHqs3hdITfGhgYkNTQzb@
-1 DEAT
-2 DATE 20 AUG 1643
-2 PLAC Eastchester, Westchester, New York, USA
-3 MAP
-4 LATI N40.9578
-4 LONG W73.808
-2 SOUR @HhUT0JhOSgGzOY1mITu3@
-3 QUAY 1
-2 NOTE Murdered, with Anne Hutchinson (and her children), and wit
-3 CONC h his father.
-1 _XY 7600.00 450.00
+1 _XY 7500.00 150.00
 0 @I548@ INDI
 1 REFN 3f564d4f-23a0-46e2-b276-7bc7e96d812a
 1 NAME Bernice Louise /McGraw/
@@ -12793,21 +12907,72 @@
 0 @I389@ INDI
 1 REFN dae2e19f-c237-40dc-bd14-be388368e0cf
 1 NAME Hugh /Moger/
+2 SOUR @xCp8VgpUTy6BVuoyJk5I@
+3 _APID 1,3599::756320
+2 SOUR @S371@
+3 _APID 1,60541::989150
 2 SOUR @cHqs3hdITfGhgYkNTQzb@
 2 SOUR @wUzo8nJ5TOiqkGFxDvd2@
 3 DATA
 4 TEXT BORN: By about 1613 based on estimated date of marriage.
 3 OBJE @M175@
 3 _APID 1,2496::56922
+2 SOUR @S379@
+3 PAGE p. 150
+3 _LINK https://archive.org/details/originallistsofp00hottuoft/page/
+4 CONC 150
+3 _APID 1,3599::682052
 2 SOUR @S182@
 3 PAGE Somerset Heritage Service; Taunton, Somerset, England; Somer
 4 CONC set Parish Records, 1538-1913; Reference Number: D\P\cuck/2/
 4 CONC 1/1
 3 OBJE @M162@
 3 _APID 1,60856::1882221
+2 SOUR @S186@
+3 PAGE Place: America; Year: 1632; Page Number: 12
+3 _LINK https://archive.org/details/resultofsomerese00drak/page/12
+3 _APID 1,7486::395896
+2 SOUR @S186@
+3 PAGE Place: New England; Year: 1632; Page Number: 101
+3 _APID 1,7486::1607498
+2 SOUR @S186@
+3 PAGE Place: New England; Year: 1632; Page Number: 12
+3 _APID 1,7486::1607500
+2 SOUR @S186@
+3 PAGE Place: New England; Year: 1632; Page Number: 13
+3 _APID 1,7486::1607502
+2 SOUR @S186@
+3 PAGE Place: New England; Year: 1632; Page Number: 1302; "Hugh Mog
+4 CONC er"
+3 _APID 1,7486::1586190
+2 SOUR @S186@
+3 PAGE Place: New England; Year: 1632; Page Number: 150
+3 _LINK https://archive.org/details/originallistsofp00hottuoft/page/
+4 CONC 150/mode/2up
+3 _APID 1,7486::1607501
+2 SOUR @S186@
+3 PAGE Place: New England; Year: 1632; Page Number: 300
+3 _APID 1,7486::1607499
+2 SOUR @S241@
+3 _APID 1,60525::118040403
+2 SOUR @vDza9JfJR7CV2E1SvFkI@
+3 PAGE Genealogical Publishing Co.; Baltimore, MD, USA; Volume Titl
+4 CONC e: New England Marriages Prior to 1700, entry for "Hugh Mosh
+4 CONC er"
+3 OBJE @M567@
+3 _APID 1,3824::60454
+2 SOUR @vDza9JfJR7CV2E1SvFkI@
+3 PAGE Genealogical Publishing Co.; Baltimore, MD, USA; Volume Titl
+4 CONC e: Third Supplement to Torrey's New England Marriages Prio
+4 CONC r to 1700, entry for "Hugh Mosher"
+3 OBJE @M563@
+3 _APID 1,3824::180155
 1 SEX M
 1 FAMC @F302@
 1 FAMS @F305@
+1 NOTE See http://discovery.nationalarchives.gov.uk/details/r/C3879
+2 CONC 647
+2 CONT for original ship passenger record.
 1 BAPM
 2 DATE 05 MAR 1609
 2 PLAC Cucklington, Somerset, England
@@ -12821,14 +12986,89 @@
 3 _APID 1,60856::1882221
 1 BIRT
 2 DATE ABT MAR 1609
+2 PLAC England
+3 MAP
+4 LATI N52.5898
+4 LONG W1.4611
+2 SOUR @xCp8VgpUTy6BVuoyJk5I@
+3 _APID 1,3599::756320
+2 SOUR @S371@
+3 _APID 1,60541::989150
 2 SOUR @wUzo8nJ5TOiqkGFxDvd2@
 3 DATA
 4 TEXT BORN: By about 1613 based on estimated date of marriage.
 3 OBJE @M175@
 3 _APID 1,2496::56922
+2 SOUR @S241@
+3 _APID 1,60525::118040403
+2 SOUR @vDza9JfJR7CV2E1SvFkI@
+3 PAGE Genealogical Publishing Co.; Baltimore, MD, USA; Volume Titl
+4 CONC e: Third Supplement to Torrey's New England Marriages Prio
+4 CONC r to 1700, entry for "Hugh Mosher"
+3 OBJE @M563@
+3 _APID 1,3824::180155
+1 EVEN
+2 TYPE Departure
+2 DATE 12 APR 1632
+2 PLAC England
+3 MAP
+4 LATI N52.5898
+4 LONG W1.4611
+2 SOUR @wUzo8nJ5TOiqkGFxDvd2@
+3 DATA
+4 TEXT BORN: By about 1613 based on estimated date of marriage.
+3 OBJE @M175@
+3 _APID 1,2496::56922
+2 SOUR @S379@
+3 PAGE p. 150
+3 _LINK https://archive.org/details/originallistsofp00hottuoft/page/
+4 CONC 150
+3 _APID 1,3599::682052
+2 SOUR @S186@
+3 PAGE Place: America; Year: 1632; Page Number: 12
+3 _LINK https://archive.org/details/resultofsomerese00drak/page/12
+3 _APID 1,7486::395896
+2 SOUR @S186@
+3 PAGE Place: New England; Year: 1632; Page Number: 101
+3 _APID 1,7486::1607498
+2 SOUR @S186@
+3 PAGE Place: New England; Year: 1632; Page Number: 12
+3 _APID 1,7486::1607500
+2 SOUR @S186@
+3 PAGE Place: New England; Year: 1632; Page Number: 13
+3 _APID 1,7486::1607502
+2 SOUR @S186@
+3 PAGE Place: New England; Year: 1632; Page Number: 1302; "Hugh Mog
+4 CONC er"
+3 _APID 1,7486::1586190
+2 SOUR @S186@
+3 PAGE Place: New England; Year: 1632; Page Number: 1302; "Hugh Moi
+4 CONC er"
+3 _APID 1,7486::1607497
+2 SOUR @S186@
+3 PAGE Place: New England; Year: 1632; Page Number: 150
+3 _LINK https://archive.org/details/originallistsofp00hottuoft/page/
+4 CONC 150/mode/2up
+3 _APID 1,7486::1607501
+2 SOUR @S186@
+3 PAGE Place: New England; Year: 1632; Page Number: 300
+3 _APID 1,7486::1607499
 1 IMMI
-2 DATE 05 JUN 1632
+2 DATE 12 JUN 1632
 2 PLAC Boston, Suffolk, Massachusetts, USA
+3 MAP
+4 LATI N42.3583
+4 LONG W71.0603
+2 SOUR @wUzo8nJ5TOiqkGFxDvd2@
+3 DATA
+4 TEXT BORN: By about 1613 based on estimated date of marriage.
+3 OBJE @M175@
+3 _APID 1,2496::56922
+2 SOUR @S379@
+3 PAGE p. 150
+3 _LINK https://archive.org/details/originallistsofp00hottuoft/page/
+4 CONC 150
+3 _APID 1,3599::682052
 2 SOUR @S187@
 3 QUAY 1
 3 DATA
@@ -12859,15 +13099,36 @@
 5 CONC rding to ye Statute
 5 CONT It should be noted that Winthrop's Journal listed "Casco Bay
 5 CONC " - a town in Maine - beside the name of Hugh Mosher.
+2 SOUR @S186@
+3 PAGE Place: America; Year: 1632; Page Number: 12
+3 _LINK https://archive.org/details/resultofsomerese00drak/page/12
+3 _APID 1,7486::395896
+2 SOUR @S186@
+3 PAGE Place: New England; Year: 1632; Page Number: 101
+3 _APID 1,7486::1607498
+2 SOUR @S186@
+3 PAGE Place: New England; Year: 1632; Page Number: 12
+3 _APID 1,7486::1607500
+2 SOUR @S186@
+3 PAGE Place: New England; Year: 1632; Page Number: 13
+3 _APID 1,7486::1607502
+2 SOUR @S186@
+3 PAGE Place: New England; Year: 1632; Page Number: 1302; "Hugh Mog
+4 CONC er"
+3 _APID 1,7486::1586190
+2 SOUR @S186@
+3 PAGE Place: New England; Year: 1632; Page Number: 1302; "Hugh Moi
+4 CONC er"
+3 _APID 1,7486::1607497
+2 SOUR @S186@
+3 PAGE Place: New England; Year: 1632; Page Number: 150
+3 _LINK https://archive.org/details/originallistsofp00hottuoft/page/
+4 CONC 150/mode/2up
+3 _APID 1,7486::1607501
+2 SOUR @S186@
+3 PAGE Place: New England; Year: 1632; Page Number: 300
+3 _APID 1,7486::1607499
 2 NOTE on ship "James"
-1 EVEN
-2 TYPE Departure
-2 DATE 1632
-2 SOUR @wUzo8nJ5TOiqkGFxDvd2@
-3 DATA
-4 TEXT BORN: By about 1613 based on estimated date of marriage.
-3 OBJE @M175@
-3 _APID 1,2496::56922
 1 RESI
 2 DATE JUL 1632
 2 PLAC Casco Bay, Maine, USA
@@ -12880,13 +13141,42 @@
 3 OBJE @M175@
 3 _APID 1,2496::56922
 2 NOTE Portland was named "Casco" at this time.
+1 RESI
+2 DATE 29 SEP 1640
+2 PLAC Casco, Cumberland, Maine, USA
+3 MAP
+4 LATI N44.0067
+4 LONG W70.5229
+2 SOUR @S378@
+3 OBJE @M579@
+3 _APID 1,16025::78
 1 DEAT
 2 DATE 1666
+2 PLAC Casco, Cumberland, Maine, USA
+3 MAP
+4 LATI N44.0067
+4 LONG W70.5229
+2 SOUR @S371@
+3 _APID 1,60541::989150
 2 SOUR @wUzo8nJ5TOiqkGFxDvd2@
 3 DATA
 4 TEXT BORN: By about 1613 based on estimated date of marriage.
 3 OBJE @M175@
 3 _APID 1,2496::56922
+2 SOUR @S241@
+3 _APID 1,60525::118040403
+2 SOUR @vDza9JfJR7CV2E1SvFkI@
+3 PAGE Genealogical Publishing Co.; Baltimore, MD, USA; Volume Titl
+4 CONC e: New England Marriages Prior to 1700, entry for "Hugh Mosh
+4 CONC er"
+3 OBJE @M567@
+3 _APID 1,3824::60454
+2 SOUR @vDza9JfJR7CV2E1SvFkI@
+3 PAGE Genealogical Publishing Co.; Baltimore, MD, USA; Volume Titl
+4 CONC e: Third Supplement to Torrey's New England Marriages Prio
+4 CONC r to 1700, entry for "Hugh Mosher"
+3 OBJE @M563@
+3 _APID 1,3824::180155
 1 PROB
 2 DATE 26 SEP 1666
 2 PLAC Casco Bay, Maine, USA
@@ -12897,6 +13187,9 @@
 1 NAME Hugh /Moger/
 2 SOUR @xCp8VgpUTy6BVuoyJk5I@
 3 _APID 1,3599::756328
+2 SOUR @S367@
+3 PAGE p. 22; at First Hopkinton Cemetery
+3 OBJE @M574@
 2 SOUR @N6EpiaNTS4y7ivSXES5Z@
 3 _APID 1,5769::3190320
 2 SOUR @ZtAQnlXATEaLcqcHzjiT@
@@ -12923,18 +13216,31 @@
 3 _APID 1,7836::867307
 2 SOUR @S241@
 3 _APID 1,60525::123249206
+2 SOUR @vDza9JfJR7CV2E1SvFkI@
+3 PAGE Genealogical Publishing Co.; Baltimore, MD, USA; Volume Titl
+4 CONC e: New England Marriages Prior to 1700, entry for "Hugh Mosh
+4 CONC er"
+3 OBJE @M567@
+3 _APID 1,3824::60456
+2 SOUR @S366@
+3 _APID 1,9289::2100615
 1 SEX M
 1 FAMC @Y1EqC4eHRReB91rN6BHl@
 1 FAMS @FpSmj7eiSECEkyexIYXl@
 1 FAMS @pIDPVHBGQM6lxsUt5lcg@
 1 OBJE @M159@
 1 OBJE @M160@
+1 NOTE Hugh Moger of Casco Bay (not this Hugh Moger) first arrive
+2 CONC d in Boston on the ship "James" on 12 June 1632. It seem
+2 CONC s a common mistake to use this date as the birth date for ou
+2 CONC r Hugh Moger here. However, the only evidence of our Hugh Mo
+2 CONC ger's birth places it circa 1633, no more precise than that.
 1 BIRT
-2 DATE 12 JUN 1632
-2 PLAC Cucklington, Somerset, England
+2 DATE ABT 1633
+2 PLAC England
 3 MAP
-4 LATI N51.0465
-4 LONG W2.3503
+4 LATI N52.5898
+4 LONG W1.4611
 2 SOUR @xCp8VgpUTy6BVuoyJk5I@
 3 _APID 1,3599::756328
 2 SOUR @91JIXBEJQz6bVLkVlmAF@
@@ -12951,7 +13257,14 @@
 3 PAGE Source number: 253.000; Source type: Electronic Database; Nu
 4 CONC mber of Pages: 1; Submitter Code: RWK
 3 _APID 1,7836::867307
-2 NOTE Exact date and place are just guesses.
+2 SOUR @vDza9JfJR7CV2E1SvFkI@
+3 PAGE Genealogical Publishing Co.; Baltimore, MD, USA; Volume Titl
+4 CONC e: New England Marriages Prior to 1700, entry for "Hugh Mosh
+4 CONC er"
+3 OBJE @M567@
+3 _APID 1,3824::60456
+2 SOUR @S366@
+3 _APID 1,9289::2100615
 1 IMMI
 2 DATE ABT 1658
 2 PLAC Newport, Newport, Rhode Island, USA
@@ -13144,6 +13457,9 @@
 3 MAP
 4 LATI N41.3776
 4 LONG W71.8273
+2 SOUR @S367@
+3 PAGE p. 22; at First Hopkinton Cemetery
+3 OBJE @M574@
 2 SOUR @S181@
 3 PAGE <bibl>     <author>Frederic Denison</author>,     <title lev
 4 CONC el="m">Westerly (Rhode Island) and its Witnesses, for Two Hu
@@ -14748,6 +15064,12 @@
 3 _APID 1,9069::133192
 2 SOUR @lIFoQFKzTHCalwRjxIxf@
 3 _APID 1,7249::10629958
+2 SOUR @vDza9JfJR7CV2E1SvFkI@
+3 PAGE Genealogical Publishing Co.; Baltimore, MD, USA; Volume Titl
+4 CONC e: New England Marriages Prior to 1700, entry for "Hugh Mosh
+4 CONC er"
+3 OBJE @M567@
+3 _APID 1,3824::60456
 1 PROP
 2 DATE 10 NOV 1713
 2 PLAC Dartmouth, Bristol, Massachusetts, USA
@@ -16461,6 +16783,27 @@
 1 FAMC @F300@
 1 NOTE there may be two Tristrams
 1 _XY 6775.00 225.00
+0 @I658@ INDI
+1 REFN 17e1349b-a43a-4fd9-a6a8-f7f9a13d0369
+1 NAME unknown wife of Hugh /Moger/
+2 SOUR @S371@
+3 _APID 1,60541::989151
+2 SOUR @vDza9JfJR7CV2E1SvFkI@
+3 PAGE Genealogical Publishing Co.; Baltimore, MD, USA; Volume Titl
+4 CONC e: New England Marriages Prior to 1700, entry for wife of "M
+4 CONC osher"
+3 OBJE @M567@
+3 _APID 1,3824::160454
+2 SOUR @vDza9JfJR7CV2E1SvFkI@
+3 PAGE Genealogical Publishing Co.; Baltimore, MD, USA; Volume Titl
+4 CONC e: Third Supplement to Torrey's New England Marriages Prio
+4 CONC r to 1700, entry for wife of "Mosher"
+3 OBJE @M563@
+3 _APID 1,3824::900180155
+1 SEX F
+1 FAMS @F305@
+1 BIRT
+2 DATE ABT 1615
 0 @I534@ INDI
 1 REFN 8088567f-0d9e-4286-9d32-c216823b920a
 1 NAME John /Morway/
@@ -18492,6 +18835,8 @@
 1 NAME Daniel /Mosher/
 2 SOUR @xCp8VgpUTy6BVuoyJk5I@
 3 _APID 1,3599::756041
+2 SOUR @S366@
+3 _APID 1,9289::2100579
 1 SEX M
 1 FAMC @FpSmj7eiSECEkyexIYXl@
 1 FAMS @7wuNUgZ8QuOUwTAaTwWM@
@@ -18504,6 +18849,8 @@
 2 SOUR @xCp8VgpUTy6BVuoyJk5I@
 3 _APID 1,3599::756041
 2 SOUR @cHqs3hdITfGhgYkNTQzb@
+2 SOUR @S366@
+3 _APID 1,9289::2100579
 1 RESI
 2 DATE ABT 1685
 2 PLAC Dartmouth, Bristol, Massachusetts, USA
@@ -18532,6 +18879,8 @@
 2 SOUR @H9NsrdLJQZi4I3umdlYg@
 3 PAGE p. 6
 3 QUAY 1
+2 SOUR @S366@
+3 _APID 1,9289::2100579
 2 NOTE month is from Ancestral File via Ancestry.com
 1 _XY 6276 743
 0 @u3NNTptJT1uLQM4WGD65@ INDI
@@ -20974,7 +21323,7 @@
 2 TYPE photograph
 2 DATE ABT 1943
 2 PLAC Spring Street, Hamilton, Madison, New York, USA
-2 SOUR @tFYxNP0rRLqjmbRxt9kv@
+2 SOUR @S361@
 3 QUAY 3
 1 RESI
 2 DATE ABT 04 JAN 1944
@@ -22103,10 +22452,16 @@
 0 @I408@ INDI
 1 REFN f5fb54b6-c846-477c-86dd-e0838eb210d2
 1 NAME James /Mosher/
+2 SOUR @S371@
 1 SEX M
 1 FAMC @F305@
 1 BIRT
 2 DATE ABT 1638
+2 PLAC Casco, Cumberland, Maine, USA
+3 MAP
+4 LATI N44.0067
+4 LONG W70.5229
+2 SOUR @S371@
 1 _XY 5650.00 450.00
 0 @kMrKRC5sQVWkp3rsNY1Y@ INDI
 1 REFN 4379e241-955f-4465-955c-e9301bbabb76
@@ -22367,11 +22722,17 @@
 0 @I409@ INDI
 1 REFN e266e920-2351-4d0b-b469-e98d934ee1be
 1 NAME John /Mosher/
+2 SOUR @S371@
 1 SEX M
 1 FAMC @F305@
 1 FAMS @F301@
 1 BIRT
 2 DATE ABT 1640
+2 PLAC Casco, Cumberland, Maine, USA
+3 MAP
+4 LATI N44.0067
+4 LONG W70.5229
+2 SOUR @S371@
 1 _XY 5750.00 450.00
 0 @0YhUurZNR6O35DmUqd8m@ INDI
 1 REFN 22a19c9d-49ed-4ca2-aca7-4b6ef603d94c
@@ -23643,6 +24004,15 @@
 4 CONC : T627_2624; Page: 4A; Enumeration District: 27-35
 3 OBJE @uqTMhjHaRyiRyfLbR8II@
 3 _APID 1,2442::11216830
+2 SOUR @S376@
+3 PAGE New York State Department of Health; Albany, NY, USA; New Yo
+4 CONC rk State Death Index
+3 _APID 1,61668::611519
+2 SOUR @S203@
+3 PAGE New York State Department of Health; Albany, NY, USA; New Yo
+4 CONC rk State Marriage Index, "Lewis W. Mosher"
+3 OBJE @M575@
+3 _APID 1,61632::227150
 2 SOUR @S208@
 3 OBJE @5Ob6Lje1RKanQtKfyncR@
 3 _APID 1,61377::142590
@@ -23738,6 +24108,10 @@
 2 SOUR @8T45ytHKQiKMGPh9Zayq@
 3 PAGE p. 34
 3 QUAY 1
+2 SOUR @S376@
+3 PAGE New York State Department of Health; Albany, NY, USA; New Yo
+4 CONC rk State Death Index
+3 _APID 1,61668::611519
 2 SOUR @S208@
 3 OBJE @5Ob6Lje1RKanQtKfyncR@
 3 _APID 1,61377::142590
@@ -24141,7 +24515,7 @@
 2 TYPE photograph
 2 DATE ABT 1943
 2 PLAC Spring Street, Hamilton, Madison, New York, USA
-2 SOUR @tFYxNP0rRLqjmbRxt9kv@
+2 SOUR @S105@
 3 QUAY 3
 1 EVEN
 2 TYPE photograph
@@ -24190,6 +24564,10 @@
 1 DEAT
 2 DATE 28 NOV 1962
 2 PLAC 9 Eaton Street, Hamilton, Madison, New York, USA
+2 SOUR @S376@
+3 PAGE New York State Department of Health; Albany, NY, USA; New Yo
+4 CONC rk State Death Index
+3 _APID 1,61668::611519
 2 SOUR @PvauUoUrRNOoD09qhxaG@
 3 QUAY 2
 2 SOUR @S241@
@@ -26631,6 +27009,14 @@
 3 PAGE 1863
 3 OBJE @M382@
 3 _APID 1,2469::349981807
+2 SOUR @S370@
+3 PAGE (with 2 original sources)
+3 OBJE @M571@
+3 _APID 1,9063::105696
+2 SOUR @S370@
+3 PAGE (with 3 original sources)
+3 OBJE @M566@
+3 _APID 1,9063::23276
 1 SEX M
 1 FAMC @F403@
 1 FAMS @F399@
@@ -26674,7 +27060,7 @@
 4 LATI N42.827
 4 LONG W75.5446
 1 RESI
-2 DATE 1830
+2 DATE 01 JUN 1830
 2 PLAC Hamilton, Madison, New York, USA
 3 MAP
 4 LATI N42.827
@@ -26684,6 +27070,20 @@
 4 CONC ; Roll: 93; Page: 289; Family History Library Film: 0017153
 3 OBJE @M383@
 3 _APID 1,8058::1547632
+1 RESI
+2 DATE 1830
+2 PLAC Hamilton, Madison, New York, USA
+3 MAP
+4 LATI N42.827
+4 LONG W75.5446
+2 SOUR @S370@
+3 PAGE (with 2 original sources)
+3 OBJE @M571@
+3 _APID 1,9063::105696
+2 SOUR @S370@
+3 PAGE (with 3 original sources)
+3 OBJE @M566@
+3 _APID 1,9063::23276
 1 RESI
 2 DATE 1840
 2 PLAC Hamilton, Madison, New York, USA
@@ -27147,6 +27547,8 @@
 4 CONC n District: 068; Image: 0519
 3 OBJE @j9qnR3OISnGHoXrvNfSI@
 3 _APID 1,6742::2495819
+2 SOUR @S371@
+3 _APID 1,60541::158220811
 2 SOUR @S208@
 3 OBJE @M283@
 3 _APID 1,61377::1050142590
@@ -27187,7 +27589,7 @@
 1 FAMS @YIqlnp8mREuD4RW6nexn@
 1 OBJE @T2MdOJSOTFq3i3RFJMNw@
 1 BIRT
-2 DATE ABT 1854
+2 DATE ABT 01 OCT 1853
 2 PLAC Madison, Madison, New York, USA
 3 MAP
 4 LATI N42.899
@@ -27208,6 +27610,8 @@
 4 CONC n District: 068; Image: 0519
 3 OBJE @j9qnR3OISnGHoXrvNfSI@
 3 _APID 1,6742::2495819
+2 SOUR @S371@
+3 _APID 1,60541::158220811
 2 SOUR @S211@
 3 OBJE @M338@
 3 _APID 1,7181::1653712699
@@ -27345,6 +27749,8 @@
 3 MAP
 4 LATI N42.899
 4 LONG W75.5121
+2 SOUR @S371@
+3 _APID 1,60541::158220811
 2 SOUR @S306@
 3 PAGE Letters of Administration, 1830-1903, and Index, 1806-1890
 4 CONC , Madison County, New York; Author: New York. Surrogate's Co
@@ -27366,6 +27772,8 @@
 2 DATE ABT 14 APR 1885
 2 PLAC Cole Hill Cemetery, Carter Road, Madison, Madison, New York
 3 CONC , USA
+2 SOUR @S371@
+3 _APID 1,60541::158220811
 1 PROB
 2 DATE 24 APR 1885
 2 PLAC Madison, New York, USA
@@ -32515,6 +32923,23 @@
 1 NAME Stacey //
 1 SEX F
 1 FAMS @F485@
+0 @I659@ INDI
+1 REFN 0df45025-0965-4978-ad4c-bda0508a8150
+1 NAME John /Stanton/
+2 SOUR @XkYfWXOxTRycLRJJyxNy@
+3 PAGE Source number: 16367.000; Source type: Electronic Database
+4 CONC ; Number of Pages: 1; Submitter Code: BFO, entry for "John S
+4 CONC tanton"
+3 _APID 1,7836::1154144
+1 SEX M
+1 FAMS @F502@
+1 BIRT
+2 DATE 1645
+2 SOUR @XkYfWXOxTRycLRJJyxNy@
+3 PAGE Source number: 16367.000; Source type: Electronic Database
+4 CONC ; Number of Pages: 1; Submitter Code: BFO, entry for "John S
+4 CONC tanton"
+3 _APID 1,7836::1154144
 0 @I545@ INDI
 1 REFN 6d609043-2bcb-4f26-bfa9-7eafd3658c85
 1 NAME Robert /Startid/
@@ -36548,13 +36973,37 @@
 1 REFN c13f4e20-e96c-47be-a7ab-48321cc78c11
 1 HUSB @3B7azDOeTcqdZhnjwG4A@
 1 WIFE @cArw16VCSc68WnLWK1Tn@
-1 CHIL @j75Y8ohLSpG61uWWgGGh@
-2 _FREL Natural
-2 _MREL Natural
 0 @9s2toM8HQyqgZt4COopO@ FAM
 1 REFN d9b2eb3f-d2d7-4086-ab32-1609a79bfe81
 1 HUSB @3B7azDOeTcqdZhnjwG4A@
 1 WIFE @VNrJncYEQ5ChlpFYD9kD@
+1 CHIL @j75Y8ohLSpG61uWWgGGh@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR
+2 DATE ABT 1646
+2 PLAC Newport, Newport, Rhode Island, USA
+3 MAP
+4 LATI N41.4901
+4 LONG W71.3129
+2 SOUR @wUzo8nJ5TOiqkGFxDvd2@
+3 PAGE entry for "John Harndell"
+3 OBJE @M568@
+3 _APID 1,2496::39586
+2 SOUR @wUzo8nJ5TOiqkGFxDvd2@
+3 PAGE entry for wife of "Harndell"
+3 OBJE @M568@
+2 SOUR @vDza9JfJR7CV2E1SvFkI@
+3 PAGE Genealogical Publishing Co.; Baltimore, MD, USA; Volume Titl
+4 CONC e: New England Marriages Prior to 1700, entry for "John Harn
+4 CONC del"
+3 OBJE @M569@
+3 _APID 1,3824::52436
+2 SOUR @vDza9JfJR7CV2E1SvFkI@
+3 PAGE Genealogical Publishing Co.; Baltimore, MD, USA; Volume Titl
+4 CONC e: New England Marriages Prior to 1700, entry for wife of "H
+4 CONC arndel"
+3 OBJE @M569@
 0 @F446@ FAM
 1 HUSB @I591@
 1 WIFE @I586@
@@ -37095,37 +37544,50 @@
 4 LONG W70.966
 2 SOUR @91JIXBEJQz6bVLkVlmAF@
 2 NOTE 1706/7 or 1707/8?
-0 @qj7Sa6FVQPC1ks066NyF@ FAM
-1 REFN c943e8d6-5008-4e08-99f1-11491d8da650
-1 HUSB @4moq2W35SSGmLADoxsmp@
-1 CHIL @GyiRMMh9SsiASymQHxnk@
-2 _FREL Natural
-1 CHIL @d9GpsgbpTKWWJ8ogl1gJ@
-2 _FREL Natural
 0 @cYd5V1CvQvmlIvrdsmMQ@ FAM
 1 REFN d2d6407b-7525-41c0-ab9c-8f65ffe1e259
 1 HUSB @OOn3OG1cQLS2sFRxO1mn@
 1 WIFE @kHudFuGSTuuBIALbg37c@
+1 MARR
+2 DATE ABT 1667
+2 SOUR @wUzo8nJ5TOiqkGFxDvd2@
+3 OBJE @M568@
+3 _APID 1,2496::39588
 0 @LlcJAdH6T26e0JPuLaxN@ FAM
 1 REFN 10845054-4b6b-47a5-bf6b-fe21a074ddad
 1 HUSB @GyiRMMh9SsiASymQHxnk@
 1 WIFE @VNrJncYEQ5ChlpFYD9kD@
-1 CHIL @hsUJ8ivpRvy95xZGWav9@
+1 CHIL @OOn3OG1cQLS2sFRxO1mn@
 2 _FREL Natural
 2 _MREL Natural
 1 CHIL @PxJWQm2AS6ScWY2BywNL@
 2 _FREL Natural
 2 _MREL Natural
-1 CHIL @OOn3OG1cQLS2sFRxO1mn@
-2 _FREL Natural
-2 _MREL Natural
 1 MARR
-2 DATE 1624
+2 DATE ABT 1638
+2 PLAC Rhode Island, USA
+3 MAP
+4 LATI N41.6583
+4 LONG W70.4917
+2 SOUR @wUzo8nJ5TOiqkGFxDvd2@
+3 OBJE @M570@
+2 SOUR @wUzo8nJ5TOiqkGFxDvd2@
+3 PAGE entry for wife of "Harndell"
+3 OBJE @M568@
+3 _APID 1,2496::39585
+0 @qj7Sa6FVQPC1ks066NyF@ FAM
+1 REFN c943e8d6-5008-4e08-99f1-11491d8da650
+1 HUSB @4moq2W35SSGmLADoxsmp@
+1 CHIL @d9GpsgbpTKWWJ8ogl1gJ@
+2 _FREL Natural
+1 CHIL @GyiRMMh9SsiASymQHxnk@
+2 _FREL Natural
+1 MARR
+2 DATE ABT 1610
 2 PLAC England
 3 MAP
 4 LATI N52.5898
 4 LONG W1.4611
-2 SOUR @91JIXBEJQz6bVLkVlmAF@
 0 @F451@ FAM
 1 HUSB @I543@
 1 WIFE @I577@
@@ -37212,14 +37674,59 @@
 0 @F305@ FAM
 1 REFN ab7a5638-c62a-4bf4-b44a-d345d2e02a87
 1 HUSB @I389@
+1 WIFE @I658@
 1 CHIL @I408@
 2 _FREL Natural
+2 _MREL Natural
 1 CHIL @I409@
 2 _FREL Natural
+2 _MREL Natural
+1 MARR
+2 DATE ABT 1637
+2 PLAC New England, USA
+2 SOUR @vDza9JfJR7CV2E1SvFkI@
+3 PAGE Genealogical Publishing Co.; Baltimore, MD, USA; Volume Titl
+4 CONC e: New England Marriages Prior to 1700, entry for "Hugh Mosh
+4 CONC er"
+3 OBJE @M567@
+3 _APID 1,3824::60454
+2 SOUR @vDza9JfJR7CV2E1SvFkI@
+3 PAGE Genealogical Publishing Co.; Baltimore, MD, USA; Volume Titl
+4 CONC e: New England Marriages Prior to 1700, entry for wife of "M
+4 CONC osher"
+3 OBJE @M567@
+2 SOUR @vDza9JfJR7CV2E1SvFkI@
+3 PAGE Genealogical Publishing Co.; Baltimore, MD, USA; Volume Titl
+4 CONC e: Third Supplement to Torrey's New England Marriages Prio
+4 CONC r to 1700, entry for "Hugh Mosher"
+3 OBJE @M563@
+3 _APID 1,3824::180155
+2 SOUR @vDza9JfJR7CV2E1SvFkI@
+3 PAGE Genealogical Publishing Co.; Baltimore, MD, USA; Volume Titl
+4 CONC e: Third Supplement to Torrey's New England Marriages Prio
+4 CONC r to 1700, entry for wife of "Mosher"
+3 OBJE @M563@
 0 @pIDPVHBGQM6lxsUt5lcg@ FAM
 1 REFN 267dff55-60ca-42f0-9c5f-015e95496a48
 1 HUSB @GEj80RhFQ2CaELtO6d5B@
 1 WIFE @WOVMrbNIRvSvseSmRQXW@
+1 MARR
+2 DATE ABT 1701
+2 PLAC Rhode Island, USA
+3 MAP
+4 LATI N41.6583
+4 LONG W70.4917
+2 SOUR @vDza9JfJR7CV2E1SvFkI@
+3 PAGE Genealogical Publishing Co.; Baltimore, MD, USA; Volume Titl
+4 CONC e: New England Marriages Prior to 1700, entry for "Hugh Mosh
+4 CONC er"
+3 OBJE @M567@
+2 SOUR @vDza9JfJR7CV2E1SvFkI@
+3 PAGE Genealogical Publishing Co.; Baltimore, MD, USA; Volume Titl
+4 CONC e: New England Marriages Prior to 1700, entry for "Sarah Mos
+4 CONC her", maiden name "Butcher"
+3 OBJE @M567@
+3 _APID 1,3824::160456
 1 MARR
 2 DATE BEF 25 FEB 1708
 2 PLAC Dartmouth, Bristol, Massachusetts, USA
@@ -37262,10 +37769,10 @@
 2 _MREL Natural
 1 MARR
 2 DATE ABT 1662
-2 PLAC Westerly, Washington, Rhode Island, USA
+2 PLAC Newport, Newport, Rhode Island, USA
 3 MAP
-4 LATI N41.3776
-4 LONG W71.8273
+4 LATI N41.4901
+4 LONG W71.3129
 2 SOUR @cHqs3hdITfGhgYkNTQzb@
 2 NOTE place is just a guess
 0 @F299@ FAM
@@ -37969,6 +38476,15 @@
 2 SOUR @8T45ytHKQiKMGPh9Zayq@
 3 PAGE p. 34
 3 QUAY 2
+2 SOUR @S203@
+3 PAGE New York State Department of Health; Albany, NY, USA; New Yo
+4 CONC rk State Marriage Index, "Bearl M. Colvin"
+3 OBJE @M577@
+2 SOUR @S203@
+3 PAGE New York State Department of Health; Albany, NY, USA; New Yo
+4 CONC rk State Marriage Index, "Lewis W. Mosher"
+3 OBJE @M575@
+3 _APID 1,61632::227150
 2 SOUR @S208@
 3 OBJE @5Ob6Lje1RKanQtKfyncR@
 3 _APID 1,61377::142590
@@ -38704,6 +39220,24 @@
 3 _APID 1,3824::68041
 2 SOUR @nYBSdideQ5ySmVqtWTkY@
 3 QUAY 1
+0 @F502@ FAM
+1 HUSB @I659@
+1 WIFE @j75Y8ohLSpG61uWWgGGh@
+1 MARR
+2 DATE 1666
+2 PLAC Rhode Island, USA
+3 MAP
+4 LATI N41.6583
+4 LONG W70.4917
+2 SOUR @XkYfWXOxTRycLRJJyxNy@
+3 PAGE Source number: 16367.000; Source type: Electronic Database
+4 CONC ; Number of Pages: 1; Submitter Code: BFO, entry for "John S
+4 CONC tanton"
+3 _APID 1,7836::1154144
+2 SOUR @XkYfWXOxTRycLRJJyxNy@
+3 PAGE Source number: 16367.000; Source type: Electronic Database
+4 CONC ; Number of Pages: 1; Submitter Code: BFO, entry for "Mary H
+4 CONC arndell"
 0 @F422@ FAM
 1 HUSB @I545@
 1 WIFE @I525@
@@ -39550,6 +40084,11 @@
 2 CONT £-[0 pounds] 17[shillings?] 2[pence?]<br />
 2 CONT [does this indicate a transaction before 1769 that wasn't pa
 2 CONC id?]<br />
+0 @S367@ SOUR
+1 REPO @R9@
+1 TITL Dedication of Ministers' Monument : Aug. 28, 1899
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations Inc; Location: Provo, UT; Date: 2005
 0 @H9NsrdLJQZi4I3umdlYg@ SOUR
 1 REFN 164e1825-1731-4f0e-8ccd-bb29f7833aa2
 1 TITL Descendants of Hugh Mosher and Rebecca Maxson Through Seve
@@ -39568,12 +40107,6 @@
 1 TITL Descendants of Matthew Wing
 1 AUTH Wing, Raymond T.
 1 PUBL http://www.uftree.com/UFT/WebPages/RaymondWing/WINGDESC/
-0 @dP3Ia4pnTA6tfhChMWt9@ SOUR
-1 REFN 8c1476dc-b5e5-4d33-87c2-333754616cb1
-1 TITL Directory of the Ancestral Heads of New England Families 162
-2 CONC 0-1700
-1 AUTH Holmes, F. R.
-1 PUBL Genealogical Publ. Co., Inc., Baltimore, MD, 1974
 0 @S358@ SOUR
 1 REFN d5216aa4-e207-4d01-9fd2-7c139711f46b
 1 TITL Driver's License, Florida, Mosher, Fred
@@ -39871,6 +40404,13 @@
 2 CONC ida, 1945</i>; (Microfilm series S 1371, 43 reels); Record G
 2 CONC roup 001021; State Library and Archives of Florida, Tallahas
 2 CONC see, Florida.</li></ul>
+0 @S371@ SOUR
+1 REPO @R9@
+1 TITL Global, Find A Grave Index for Burials at Sea and other Sele
+2 CONC ct Burial Locations, 1300s-Current
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
+2 CONC e: 2012
 0 @gZGr0paFRESctRpvMW2V@ SOUR
 1 REFN f880b506-b623-4515-b4e9-241b76875732
 1 TITL Gravestone, Mosher, Betsey
@@ -40106,11 +40646,6 @@
 1 TITL Maxfield Genealogy
 1 AUTH Maxfield, Eugene Howard
 1 PUBL http://www.users.fast.net/~max/
-0 @HhUT0JhOSgGzOY1mITu3@ SOUR
-1 REFN 32ff34c5-d214-423a-a187-4947091a73f0
-1 TITL Maxson and Associate Families
-1 AUTH Portsche, Gary L.
-1 PUBL http://www.maxson2000.net/html/Ancestor.html
 0 @NdlE0sG3SwaoEKznoTPD@ SOUR
 1 REFN 5a557d53-8733-4d5c-a613-1d270478a9e4
 1 REPO @R1@
@@ -40214,8 +40749,7 @@
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2007
 0 @wUzo8nJ5TOiqkGFxDvd2@ SOUR
-1 REFN 0e84a777-f1d6-4712-8236-ea82ab95a26b
-1 REPO @R1@
+1 REPO @R9@
 1 TITL New England, The Great Migration and The Great Migration Beg
 2 CONC ins, 1620-1635
 1 AUTH Ancestry.com
@@ -40254,6 +40788,12 @@
 0 @S233@ SOUR
 1 REPO @R1@
 1 TITL New York State, Birth Index, 1881-1942
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.; Location: Lehi, UT, USA; Date
+2 CONC : 2018
+0 @S376@ SOUR
+1 REPO @R9@
+1 TITL New York State, Death Index, 1957-1968
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Lehi, UT, USA; Date
 2 CONC : 2018
@@ -40569,11 +41109,21 @@
 2 CONT </table>
 2 CONT [Aisle?] Road Boukville to Hamilton [NY Route 12B]<br />
 2 CONT [NW corner NY Route 12B and Airport Road]<br />
+0 @S378@ SOUR
+1 REPO @R1@
+1 TITL One Hundred and Sixty Allied Families
+1 AUTH John Osborne Austin
+1 PUBL Salem Press; Location: Salem, Massachusetts; Date: 1893
 0 @TdWfSfrlRUqTjdrylmSO@ SOUR
 1 REFN dc84f9c5-62db-4525-b8d4-4dcba7327996
 1 TITL Oneida (NY) Democratic Union (newspaper), Mosher, William
 1 PUBL 23 Apr 1885, p. 3, col. 2
 1 TEXT William Mosher, Madison, b: 1854, d: April 12, 1885 age 31
+0 @S379@ SOUR
+1 REPO @R3@
+1 TITL Original Lists of Persons of Quality
+1 AUTH John Camden Hotten
+1 PUBL Hotten; Location: London; Date: 1874
 0 @S340@ SOUR
 1 REFN c62b364e-1790-42c4-87c7-b6c8130bafbe
 1 TITL Our Baby's Journal [cover only, inside "Frederick Colvin Mos
@@ -40688,7 +41238,7 @@
 2 CONC .staticflickr.com/6057/6301275718_02b69f7186_n.jpg" width="3
 2 CONC 20" height="213" alt="Lewis William Mosher and Family"></a><
 2 CONC br>
-0 @tFYxNP0rRLqjmbRxt9kv@ SOUR
+0 @S105@ SOUR
 1 TITL photograph, Mosher, Lewis William, and Colvin, Pearl Mae, an
 2 CONC d Descendants, c. 1943
 1 PUBL In possession of Chris Mosher
@@ -40697,7 +41247,7 @@
 2 CONC tle="Mosher Family"><img src="https://live.staticflickr.com/
 2 CONC 6054/6304968404_0eae4124d3_n.jpg" width="320" height="224" a
 2 CONC lt="Mosher Family"></a><br>
-0 @tFYxNP0rRLqjmbRxt9kv@ SOUR
+0 @S361@ SOUR
 1 TITL photograph, Mosher, Lewis William, and Colvin, Pearl Mae, an
 2 CONC d Descendants, c. 1943
 1 PUBL In possession of Chris Mosher
@@ -41019,53 +41569,6 @@
 2 CONC e: 2006
 1 NOTE Family trees submitted by Ancestry members.
 2 CONT
-0 @9oCIPYQ9RQa7YqwHTMqV@ SOUR
-1 REFN df4bec84-ac76-4758-8ebb-7539e165aafa
-1 TITL Realm of Lawton, The, A Lawton Family Genealogy Page
-1 AUTH Lawton, Matthew Frederick
-1 PUBL http://www.realm.lawton.net/Loyalty.htm
-1 TEXT The names below are those of the signers (copied verbatim) o
-2 CONC f the Compact of Loyalty, Apr. 30, 1639, which was as follow
-2 CONC s:<br />
-2 CONT <br />
-2 CONT "We whose names are underwritten do acknowledge ourselves th
-2 CONC e legal subjects of His Majesty King Charles, and in his nam
-2 CONC e do hereby bind ourselves into a civil body politic, unto h
-2 CONC is laws according to matters of justice."<br />
-2 CONT <br />
-2 CONT Willm Hutchinson<br />
-2 CONT Samuell Gorton<br />
-2 CONT Samuell Hutchinson<br />
-2 CONT John Wickes<br />
-2 CONT Richarde Maggson<br />
-2 CONT Thomas Spiser<br />
-2 CONT William Aspinwall [erased]<br />
-2 CONT Willm Haule [erased]<br />
-2 CONT John Roome [R] mark<br />
-2 CONT John Sloffe [I] mark<br />
-2 CONT Thomas Beddar [n] mark<br />
-2 CONT Erasmus Bullocke<br />
-2 CONT Sampson Shotten<br />
-2 CONT Ralph Earle<br />
-2 CONT Robert Potter<br />
-2 CONT Nathanyell Potter [N] mark<br />
-2 CONT Wm Heauens [WH] mark<br />
-2 CONT George Cleare [GC]<br />
-2 CONT George Lawton<br />
-2 CONT Anthony Paine [C] his mark<br />
-2 CONT Jobe Haukins [H] mark<br />
-2 CONT Richarde Awards<br />
-2 CONT John More [M] his mark<br />
-2 CONT Nicholas Browne [N] his mark<br />
-2 CONT William Richardson [r] mark<br />
-2 CONT John Trippe<br />
-2 CONT Thomas Layton [T] his mark<br />
-2 CONT Robert Stainton his [S] mark<br />
-2 CONT John Brigges his [J] mark<br />
-2 CONT James Davice [M] his mark<br />
-2 CONT <br />
-2 CONT The foregoing and the list of signers are from "Early Record
-2 CONC s of Town of Portsmouth R.I." <br />
 0 @S198@ SOUR
 1 REPO @R3@
 1 TITL Records of the Colony of Rhode Island an Providence Plantati
@@ -41137,11 +41640,6 @@
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2014
-0 @Ckes5X95QXSIkoB3u8L7@ SOUR
-1 REFN 4ecdf6ec-c016-43d8-9ffe-2fcd157e738e
-1 TITL Rob Altenburg's Genealogy Page
-1 AUTH Altenburg, Robert C.
-1 PUBL http://www.xlation.com/rca/gene/index.htm
 0 @S187@ SOUR
 1 REFN f5e15203-9bb2-49a1-88b2-d8203b57ccd2
 1 TITL Rob Altenburg's Genealogy Page: The Mosher (Moger) Family
@@ -41170,12 +41668,12 @@
 1 AUTH Steele, Ted
 1 PUBL Ancestry World Tree at Ancestry.com
 0 @S186@ SOUR
-1 REFN 68a2fd66-d946-4f84-a103-75ca2697cf8a
-1 REPO @R1@
+1 REPO @R9@
 1 TITL U.S. and Canada, Passenger and Immigration Lists Index, 1500
 2 CONC s-1900s
 1 AUTH Ancestry.com
-1 PUBL Ancestry.com Operations, Inc
+1 PUBL Ancestry.com Operations, Inc; Location: Provo, UT, USA; Date
+2 CONC : 2010
 0 @XkYfWXOxTRycLRJJyxNy@ SOUR
 1 REPO @R9@
 1 TITL U.S. and International Marriage Records, 1560-1900
@@ -41236,6 +41734,19 @@
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2010
+0 @S369@ SOUR
+1 REPO @R9@
+1 TITL U.S., Civil War Pension Index: General Index to Pension File
+2 CONC s, 1861-1934
+1 AUTH National Archives and Records Administration
+1 PUBL Ancestry.com Operations Inc; Location: Provo, UT, USA; Date
+2 CONC : 2000
+0 @S370@ SOUR
+1 REPO @R9@
+1 TITL U.S., Craftperson Files, 1600-1995
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
+2 CONC e: 2014
 0 @S319@ SOUR
 1 REPO @R9@
 1 TITL U.S., Department of Veterans Affairs BIRLS Death File, 1850-
@@ -41259,13 +41770,11 @@
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2010
 0 @vDza9JfJR7CV2E1SvFkI@ SOUR
-1 REFN 1417a0a9-c212-46e1-a900-c43af814bb07
+1 REPO @R9@
 1 TITL U.S., New England Marriages Prior to 1700
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations Inc; Location: Provo, UT, USA; Date
 2 CONC : 2012
-1 TEXT Torry, Clarence A. <i>New England Marriages Prior to 1700</i
-2 CONC >. Baltimore, MD, USA: Genealogical Publishing Co., 2004.
 0 @S317@ SOUR
 1 REPO @R9@
 1 TITL U.S., Obituary Collection, 1930-Current
@@ -42397,6 +42906,12 @@
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2011
+0 @S366@ SOUR
+1 REPO @R9@
+1 TITL Web: Netherlands, GenealogieOnline Trees Index, 1000-2015
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
+2 CONC e: 2014
 0 @BumWgFr4TiOR71Xtm9Lo@ SOUR
 1 REFN 790a0304-0e52-408f-9e23-86e5b0f1dbc6
 1 REPO @R1@
@@ -42427,6 +42942,13 @@
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2012
+0 @S377@ SOUR
+1 REPO @R9@
+1 TITL Web: Rhode Island, Historical Cemetery Commission Index, 164
+2 CONC 7-2008
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
+2 CONC e: 2016
 0 @S254@ SOUR
 1 REPO @R1@
 1 TITL Web: Washington County, Maryland, Obituary Index, 1790-2007
@@ -46384,4 +46906,104 @@
 2 TITL New York State, Marriage Index, 1881-1967
 2 _TEXT New York State Department of Health; Albany, NY, USA; New Yo
 3 CONC rk State Marriage Index
+0 @M563@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher Media\U.
+2 CONC S., New England Marriages Prior to 1700(3).jpg
+2 FORM jpg
+2 TITL U.S., New England Marriages Prior to 1700
+2 _TEXT Genealogical Publishing Co.; Baltimore, MD, USA; Volume Titl
+3 CONC e: Third Supplement to Torrey's New England Marriages Prio
+3 CONC r to 1700
+0 @M564@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher Media\Ma
+2 CONC ssachusetts, Town and Vital Records, 1620-1988(27).jpg
+2 FORM jpg
+2 TITL Massachusetts, Town and Vital Records, 1620-1988
+0 @M565@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher Media\U.
+2 CONC S. City Directories, 1822-1995(17).jpg
+2 FORM jpg
+2 TITL U.S. City Directories, 1822-1995
+0 @M566@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher Media\U.
+2 CONC S., Craftperson Files, 1600-1995.jpg
+2 FORM jpg
+2 TITL U.S., Craftperson Files, 1600-1995
+0 @M567@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher Media\U.
+2 CONC S., New England Marriages Prior to 1700(4).jpg
+2 FORM jpg
+2 TITL U.S., New England Marriages Prior to 1700
+2 _TEXT Genealogical Publishing Co.; Baltimore, MD, USA; Volume Titl
+3 CONC e: New England Marriages Prior to 1700
+0 @M568@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher Media\Ne
+2 CONC w England, The Great Migration and The Great Migration Begin
+2 CONC s, 1620-1635(2).jpg
+2 FORM jpg
+2 TITL New England, The Great Migration and The Great Migration Beg
+3 CONC ins, 1620-1635
+0 @M569@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher Media\U.
+2 CONC S., New England Marriages Prior to 1700(5).jpg
+2 FORM jpg
+2 TITL U.S., New England Marriages Prior to 1700
+2 _TEXT Genealogical Publishing Co.; Baltimore, MD, USA; Volume Titl
+3 CONC e: New England Marriages Prior to 1700
+0 @M570@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher Media\Ne
+2 CONC w England, The Great Migration and The Great Migration Begin
+2 CONC s, 1620-1635(3).jpg
+2 FORM jpg
+2 TITL New England, The Great Migration and The Great Migration Beg
+3 CONC ins, 1620-1635
+0 @M571@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher Media\U.
+2 CONC S., Craftperson Files, 1600-1995(1).jpg
+2 FORM jpg
+2 TITL U.S., Craftperson Files, 1600-1995
+0 @M573@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher Media\U
+2 CONC S Civil War Pension Index General Index to Pensio.jpg
+2 FORM jpg
+2 TITL U.S., Civil War Pension Index: General Index to Pension File
+3 CONC s, 1861-1934
+2 _TEXT The National Archives at Washington, D.C.; Washington, D.C.
+3 CONC ; Record Group Title: Records of the Department of Veteran
+3 CONC s Affairs, 1773 - 2007; Record Group Number: 15; Series Titl
+3 CONC e: U.S., Civil War Pension Index: General Index to Pension F
+3 CONC iles, 1861-1934; Se
+0 @M574@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher Media\De
+2 CONC dication of Ministers Monument  Aug 28 1899.jpg
+2 FORM jpg
+2 TITL Dedication of Ministers' Monument : Aug. 28, 1899.
+0 @M575@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher Media\Ne
+2 CONC w York State, Marriage Index, 1881-1967(15).jpg
+2 FORM jpg
+2 TITL New York State, Marriage Index, 1881-1967
+2 _TEXT New York State Department of Health; Albany, NY, USA; New Yo
+3 CONC rk State Marriage Index
+0 @M576@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher Media\Ne
+2 CONC w York, State Census, 1892(8).jpg
+2 FORM jpg
+2 TITL New York, State Census, 1892
+0 @M577@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher Media\Ne
+2 CONC w York State, Marriage Index, 1881-1967(16).jpg
+2 FORM jpg
+2 TITL New York State, Marriage Index, 1881-1967
+2 _TEXT New York State Department of Health; Albany, NY, USA; New Yo
+3 CONC rk State Marriage Index
+0 @M578@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher Media\Rh
+2 CONC ode Island, Vital Extracts, 1636-1899(1).jpg
+2 FORM jpg
+2 TITL Rhode Island, Vital Extracts, 1636-1899
+0 @M579@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher Media\dv
+2 CONC m_GenMono002734-00044-1.jpg
+2 FORM jpg
 0 TRLR
