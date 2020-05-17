@@ -7,16 +7,16 @@
 2 CONC , USA.
 1 SUBM @Umy2qBWIRUiwVSS6Hcn4@
 1 SOUR FTM
-2 VERS 23.2.0.1540
+2 VERS 24.0.1.1252
 2 NAME Family Tree Maker for Windows
 2 CORP The Software MacKiev Company
 3 ADDR 30 Union Wharf
 4 CONT Boston, MA 02109
 3 PHON (617) 227-6681
 1 DEST FTM
-1 FILE Lopez_2019-10-08-21-42-15.ftm.ged
-1 DATE 08 OCT 2019
-2 TIME 21:42:57
+1 FILE Lopez_2020-05-17-01-43-36.ftm.ged
+1 DATE 17 MAY 2020
+2 TIME 01:41:46
 0 @Umy2qBWIRUiwVSS6Hcn4@ SUBM
 1 NAME Christopher Alan Mosher
 2 EMAIL cmosher01@@gmail.com
@@ -228,6 +228,24 @@
 2 SOUR @S65@
 3 PAGE http://gw.geneanet.org/ecuadorgen?p=gustavo;n=barba
 1 _XY 30 1694
+0 @I266@ INDI
+1 NAME Facundo /Bayas/
+1 SEX M
+1 FAMC @F179@
+1 BIRT
+2 DATE 1868
+0 @I276@ INDI
+1 NAME Juan /Bayas/
+1 SEX M
+1 FAMS @F179@
+1 BIRT
+2 DATE 1838
+0 @I265@ INDI
+1 NAME Manuel /Bayas/
+1 SEX M
+1 FAMC @F179@
+1 BIRT
+2 DATE ABT 1860
 0 @52mgd7vpQE2Z27chsEvC@ INDI
 1 NAME [REDACTED]
 1 FAMS @HaQjByxJQbeJhpJGL9ai@
@@ -566,10 +584,44 @@
 1 BIRT
 2 PLAC San Juan de Pasto, Nariño, Colombia
 1 _XY 3593 706
+0 @I287@ INDI
+1 NAME Teresa Javiera Victoria /Chiriboga Sánchez de Espinosa y Lu
+2 CONC na/
+1 SEX F
+1 FAMS @F182@
+1 BIRT
+2 DATE 01 MAR 1709
+2 PLAC Quito, Pichincha, Ecuador
+3 MAP
+4 LATI S0.2167
+4 LONG W78.5
+1 DEAT
+2 DATE 15 JUN 1775
+2 PLAC Quito, Pichincha, Ecuador
+3 MAP
+4 LATI S0.2167
+4 LONG W78.5
+0 @I285@ INDI
+1 NAME María Rosa /Chiriboga y Jijón/
+1 SEX F
+1 FAMS @F181@
+1 BIRT
+2 DATE 04 JUN 1753
+2 PLAC Quito, Pichincha, Ecuador
+3 MAP
+4 LATI S0.2167
+4 LONG W78.5
+1 DEAT
+2 DATE 02 NOV 1805
+2 PLAC Quito, Pichincha, Ecuador
+3 MAP
+4 LATI S0.2167
+4 LONG W78.5
 0 @I234@ INDI
 1 REFN f1ee1d17-d1ce-4203-b424-8884dfc442b3
 1 NAME Angela Christine /Clear/
 2 SOUR @S103@
+3 PAGE p. D568427, "Angela Christine Clear"
 3 _APID 1,1100::8101425
 1 SEX F
 1 FAMS @F165@
@@ -777,6 +829,19 @@
 2 SOUR @wN4p8JORTTCTcTlwT98u@
 3 PAGE Date: 1954-09-29
 3 _APID 1,5180::1395321
+2 SOUR @S138@
+3 PAGE The National Archives at Washington, D.C.; Washington, D.C.
+4 CONC ; Passenger Lists of Vessels Arriving at New Orleans, Louisi
+4 CONC ana, 1903-1945; NAI Number: 4492741; Record Group Title: Rec
+4 CONC ords of the Immigration and Naturalization Service; Record G
+4 CONC roup Number: 85
+3 OBJE @M142@
+3 _APID 1,7484::1227259
+2 SOUR @S137@
+3 PAGE New York State Department of Health; Albany, NY, USA; New Yo
+4 CONC rk State Marriage Index; "??Essie Cook??"
+3 OBJE @M141@
+3 _APID 1,61632::5310988
 2 SOUR @uc6TY0trSKKxEHYlsSze@
 3 PAGE New York, Westchester County Marriages, 1909-1924
 3 OBJE @ZWs9CV3SSBqyZCS9b43V@
@@ -813,10 +878,7 @@
 1 FAMS @OKdDV6OTTgqa6v5V076w@
 1 BIRT
 2 DATE 18 AUG 1892
-2 PLAC New York, USA
-3 MAP
-4 LATI N42.7531
-4 LONG W74.2224
+2 PLAC Brooklyn, New York City, New York, USA
 2 SOUR @Z0SQaG1kRbWQtiKMUjof@
 3 PAGE Year: 1910; Census Place: Brooklyn Ward 29, Kings, New York
 4 CONC ; Roll: T624_982; Page: 6A; Enumeration District: 0927; FH
@@ -843,6 +905,14 @@
 2 SOUR @wN4p8JORTTCTcTlwT98u@
 3 PAGE Date: 1954-09-29
 3 _APID 1,5180::1395321
+2 SOUR @S138@
+3 PAGE The National Archives at Washington, D.C.; Washington, D.C.
+4 CONC ; Passenger Lists of Vessels Arriving at New Orleans, Louisi
+4 CONC ana, 1903-1945; NAI Number: 4492741; Record Group Title: Rec
+4 CONC ords of the Immigration and Naturalization Service; Record G
+4 CONC roup Number: 85
+3 OBJE @M142@
+3 _APID 1,7484::1227259
 2 SOUR @uc6TY0trSKKxEHYlsSze@
 3 PAGE New York, Westchester County Marriages, 1909-1924
 3 OBJE @ZWs9CV3SSBqyZCS9b43V@
@@ -892,6 +962,47 @@
 3 OBJE @M35@
 3 _APID 1,2703::4343092
 2 NOTE Relation to Head of House: Daughter-in-law
+1 EVEN
+2 TYPE Departure
+2 DATE 05 APR 1918
+2 PLAC Cristobal, Canal Zone, Panama
+3 MAP
+4 LATI N9.3522
+4 LONG W79.9045
+2 SOUR @S138@
+3 PAGE The National Archives at Washington, D.C.; Washington, D.C.
+4 CONC ; Passenger Lists of Vessels Arriving at New Orleans, Louisi
+4 CONC ana, 1903-1945; NAI Number: 4492741; Record Group Title: Rec
+4 CONC ords of the Immigration and Naturalization Service; Record G
+4 CONC roup Number: 85
+3 OBJE @M142@
+3 _APID 1,7484::1227259
+1 EVEN
+2 TYPE Arrival
+2 DATE 10 APR 1918
+2 PLAC New Orleans, Orleans, Louisiana, USA
+3 MAP
+4 LATI N29.9546
+4 LONG W90.0751
+2 SOUR @S138@
+3 PAGE The National Archives at Washington, D.C.; Washington, D.C.
+4 CONC ; Passenger Lists of Vessels Arriving at New Orleans, Louisi
+4 CONC ana, 1903-1945; NAI Number: 4492741; Record Group Title: Rec
+4 CONC ords of the Immigration and Naturalization Service; Record G
+4 CONC roup Number: 85
+3 OBJE @M142@
+3 _APID 1,7484::1227259
+1 RESI
+2 DATE 1918
+2 PLAC 40 Buckingham Place, Brooklyn, New York City, New York, USA
+2 SOUR @S138@
+3 PAGE The National Archives at Washington, D.C.; Washington, D.C.
+4 CONC ; Passenger Lists of Vessels Arriving at New Orleans, Louisi
+4 CONC ana, 1903-1945; NAI Number: 4492741; Record Group Title: Rec
+4 CONC ords of the Immigration and Naturalization Service; Record G
+4 CONC roup Number: 85
+3 OBJE @M142@
+3 _APID 1,7484::1227259
 1 RESI
 2 DATE 1920
 2 PLAC Santa Monica, Los Angeles, California, USA
@@ -983,6 +1094,22 @@
 1 SEX F
 1 FAMS @F20@
 1 _XY 1456 1328
+0 @I298@ INDI
+1 NAME Ana María /Dávalos y Mancheno/
+1 SEX F
+1 FAMS @F184@
+1 BIRT
+2 DATE 1789
+2 PLAC Guamote, Chimborazo, Ecuador
+3 MAP
+4 LATI S1.9333
+4 LONG W78.7167
+1 DEAT
+2 DATE 1829
+2 PLAC Quito, Pichincha, Ecuador
+3 MAP
+4 LATI S0.2167
+4 LONG W78.5
 0 @gsDzouYTSfifaq2wjI7f@ INDI
 1 REFN ea74aad7-984b-4ba0-acf6-205847ca4093
 1 NAME Nellie Estelle /Davis/
@@ -1090,6 +1217,40 @@
 2 DATE 1550
 2 PLAC Plasencia, Extremadura, España
 1 _XY 8111 515
+0 @I294@ INDI
+1 NAME Gaetano /DeRosa/
+2 SOUR @cYpH9GKbREexd30xG7Ri@
+3 PAGE Year: 1930; Census Place: Brooklyn, Kings, New York; Page: 2
+4 CONC 8B; Enumeration District: 1928; FHL microfilm: 2341258
+3 OBJE @M140@
+3 _APID 1,6224::39685011
+1 SEX F
+1 FAMS @F183@
+1 BIRT
+2 DATE ABT 1886
+2 PLAC Italy
+2 SOUR @cYpH9GKbREexd30xG7Ri@
+3 PAGE Year: 1930; Census Place: Brooklyn, Kings, New York; Page: 2
+4 CONC 8B; Enumeration District: 1928; FHL microfilm: 2341258
+3 OBJE @M140@
+3 _APID 1,6224::39685011
+1 EVEN
+2 TYPE Arrival
+2 DATE 1911
+2 SOUR @cYpH9GKbREexd30xG7Ri@
+3 PAGE Year: 1930; Census Place: Brooklyn, Kings, New York; Page: 2
+4 CONC 8B; Enumeration District: 1928; FHL microfilm: 2341258
+3 OBJE @M140@
+3 _APID 1,6224::39685011
+1 RESI
+2 DATE 1930
+2 PLAC Brooklyn, New York City, New York, USA
+2 SOUR @cYpH9GKbREexd30xG7Ri@
+3 PAGE Year: 1930; Census Place: Brooklyn, Kings, New York; Page: 2
+4 CONC 8B; Enumeration District: 1928; FHL microfilm: 2341258
+3 OBJE @M140@
+3 _APID 1,6224::39685011
+2 NOTE Marital Status: Married; Relation to Head: Wife
 0 @I81@ INDI
 1 REFN bbb98021-56d8-4d8b-9cab-f62bf8ff52e9
 1 NAME Catalina /de Benalcázar/ I
@@ -2003,9 +2164,102 @@
 1 BIRT
 2 PLAC Santiago de Cali, Valle del Cauca, Colombia
 1 _XY 6713 707
-0 @I219@ INDI
+0 @I295@ INDI
 1 NAME [REDACTED]
+1 FAMC @F183@
+0 @I219@ INDI
+1 REFN 3be0f0a1-23c1-44a3-a9ce-d4ec54051bba
+1 NAME Anne /DiGennaro/
+2 SOUR @cYpH9GKbREexd30xG7Ri@
+3 PAGE Year: 1930; Census Place: Brooklyn, Kings, New York; Page: 2
+4 CONC 8B; Enumeration District: 1928; FHL microfilm: 2341258
+3 OBJE @M140@
+3 _APID 1,6224::39685045
+2 SOUR @S135@
+3 PAGE Daily News; Publication Date: 19/ Nov/ 1993; Publication Pla
+4 CONC ce: New York, New York, United States of America; URL: https
+4 CONC ://www.newspapers.com/image/471737808/?article=5d4a6a0f-bb62
+4 CONC -4f2d-a87a-ba907829803a&focus=0.6454253,0.70051825,0.7865686
+4 CONC 4,0.757726&xid=2
+3 _APID 1,61843::602608120
+1 SEX F
+1 FAMC @F183@
 1 FAMS @F156@
+1 OBJE @M126@
+1 BIRT
+2 DATE ABT 1912
+2 PLAC Brooklyn, New York City, New York, USA
+2 SOUR @cYpH9GKbREexd30xG7Ri@
+3 PAGE Year: 1930; Census Place: Brooklyn, Kings, New York; Page: 2
+4 CONC 8B; Enumeration District: 1928; FHL microfilm: 2341258
+3 OBJE @M140@
+3 _APID 1,6224::39685045
+1 RESI
+2 DATE 1930
+2 PLAC Brooklyn, New York City, New York, USA
+2 SOUR @cYpH9GKbREexd30xG7Ri@
+3 PAGE Year: 1930; Census Place: Brooklyn, Kings, New York; Page: 2
+4 CONC 8B; Enumeration District: 1928; FHL microfilm: 2341258
+3 OBJE @M140@
+3 _APID 1,6224::39685045
+2 NOTE Marital Status: Single; Relation to Head: Daughter
+1 DEAT
+2 DATE 18 NOV 1993
+2 PLAC Brooklyn, New York City, New York, USA
+2 SOUR @S135@
+3 PAGE Daily News; Publication Date: 19/ Nov/ 1993; Publication Pla
+4 CONC ce: New York, New York, United States of America; URL: https
+4 CONC ://www.newspapers.com/image/471737808/?article=5d4a6a0f-bb62
+4 CONC -4f2d-a87a-ba907829803a&focus=0.6454253,0.70051825,0.7865686
+4 CONC 4,0.757726&xid=2
+3 _APID 1,61843::602608120
+1 _XY 4561 4299
+1 _PHOTO @M126@
+0 @I283@ INDI
+1 NAME [REDACTED]
+1 FAMC @F183@
+0 @I293@ INDI
+1 NAME Giovanni /DiGennaro/
+2 SOUR @cYpH9GKbREexd30xG7Ri@
+3 PAGE Year: 1930; Census Place: Brooklyn, Kings, New York; Page: 2
+4 CONC 8B; Enumeration District: 1928; FHL microfilm: 2341258
+3 OBJE @M140@
+3 _APID 1,6224::39685009
+1 SEX M
+1 FAMS @F183@
+1 BIRT
+2 DATE ABT 1882
+2 PLAC Italy
+2 SOUR @cYpH9GKbREexd30xG7Ri@
+3 PAGE Year: 1930; Census Place: Brooklyn, Kings, New York; Page: 2
+4 CONC 8B; Enumeration District: 1928; FHL microfilm: 2341258
+3 OBJE @M140@
+3 _APID 1,6224::39685009
+1 EVEN
+2 TYPE Arrival
+2 DATE 1911
+2 SOUR @cYpH9GKbREexd30xG7Ri@
+3 PAGE Year: 1930; Census Place: Brooklyn, Kings, New York; Page: 2
+4 CONC 8B; Enumeration District: 1928; FHL microfilm: 2341258
+3 OBJE @M140@
+3 _APID 1,6224::39685009
+1 RESI
+2 DATE 1930
+2 PLAC Brooklyn, New York City, New York, USA
+2 SOUR @cYpH9GKbREexd30xG7Ri@
+3 PAGE Year: 1930; Census Place: Brooklyn, Kings, New York; Page: 2
+4 CONC 8B; Enumeration District: 1928; FHL microfilm: 2341258
+3 OBJE @M140@
+3 _APID 1,6224::39685009
+2 NOTE Marital Status: Married; Relation to Head: Head
+0 @I303@ INDI
+1 NAME Dios Celina /Donosa Munos/
+1 SEX F
+1 FAMC @F186@
+1 OBJE @M134@
+1 BIRT
+2 DATE 1870
+1 _PHOTO @M134@
 0 @I146@ INDI
 1 REFN e7cea020-3b2a-4eab-b3ee-99abbc38f63f
 1 NAME Adela /Donoso/
@@ -2021,12 +2275,23 @@
 4 LONG W78.5
 2 SOUR @S71@
 1 _XY 1237 1642
+0 @I271@ INDI
+1 NAME Angela /Donoso/
+1 SEX F
+1 FAMC @F186@
+1 BIRT
+2 DATE 1882
+2 PLAC Guayaquil, Guayas, Ecuador
+3 MAP
+4 LATI S2.1667
+4 LONG W79.9
 0 @I147@ INDI
 1 REFN c8a5ed35-b439-4bf0-8eb4-0b09ee2eccab
 1 NAME Antonio /Donoso/
 2 SOUR @S74@
 1 SEX M
 1 FAMC @F54@
+1 FAMS @F186@
 1 BIRT
 2 DATE 1845
 2 PLAC Vinces, Los Rios, Ecuador
@@ -2035,6 +2300,16 @@
 4 LONG W79.7333
 2 SOUR @S74@
 1 _XY 710 1641
+0 @I269@ INDI
+1 NAME Beatriz Clemencia /Donoso/
+1 SEX F
+1 FAMC @F186@
+1 BIRT
+2 DATE 1876
+2 PLAC Guayaquil, Guayas, Ecuador
+3 MAP
+4 LATI S2.1667
+4 LONG W79.9
 0 @I148@ INDI
 1 REFN fd0ef36e-6d18-4c41-919a-c6dbbe0db906
 1 NAME Camila /Donoso/
@@ -2042,7 +2317,79 @@
 3 PAGE p. 25
 1 SEX F
 1 FAMC @F55@
+1 BIRT
+2 DATE ABT 1828
 1 _XY 850 1650
+0 @I270@ INDI
+1 NAME Carlos /Donoso/
+1 SEX M
+1 FAMC @F186@
+1 BIRT
+2 DATE 1880
+2 PLAC Guayaquil, Guayas, Ecuador
+3 MAP
+4 LATI S2.1667
+4 LONG W79.9
+0 @I281@ INDI
+1 NAME Dolores /Donoso/
+1 SEX F
+1 FAMC @F187@
+1 BIRT
+2 DATE 1870
+2 PLAC Quito, Pichincha, Ecuador
+3 MAP
+4 LATI S0.2167
+4 LONG W78.5
+0 @I280@ INDI
+1 NAME Joaquin /Donoso/
+1 SEX M
+1 FAMC @F188@
+1 BIRT
+2 DATE 1869
+2 PLAC Quito, Pichincha, Ecuador
+3 MAP
+4 LATI S0.2167
+4 LONG W78.5
+0 @I278@ INDI
+1 NAME Jose /Donoso/
+1 SEX M
+1 FAMC @F188@
+1 BIRT
+2 DATE 1865
+2 PLAC Quito, Pichincha, Ecuador
+3 MAP
+4 LATI S0.2167
+4 LONG W78.5
+0 @I277@ INDI
+1 NAME Marco Tulio /Donoso/
+1 SEX M
+1 FAMC @F188@
+1 BIRT
+2 DATE 1863
+2 PLAC Quito, Pichincha, Ecuador
+3 MAP
+4 LATI S0.2167
+4 LONG W78.5
+0 @I268@ INDI
+1 NAME MarcoTulio /Donoso/
+1 SEX M
+1 FAMC @F186@
+1 BIRT
+2 DATE 1874
+2 PLAC Guayaquil, Guayas, Ecuador
+3 MAP
+4 LATI S2.1667
+4 LONG W79.9
+0 @I272@ INDI
+1 NAME Maria /Donoso/
+1 SEX F
+1 FAMC @F186@
+1 BIRT
+2 DATE 1884
+2 PLAC Guayaquil, Guayas, Ecuador
+3 MAP
+4 LATI S2.1667
+4 LONG W79.9
 0 @I149@ INDI
 1 REFN af404ae6-f4a2-4014-927f-78b71fb0c705
 1 NAME Modesto /Donoso/
@@ -2050,6 +2397,8 @@
 3 PAGE p. 25
 1 SEX M
 1 FAMC @F55@
+1 FAMS @F187@
+1 FAMS @F188@
 1 BIRT
 2 DATE 1831
 2 PLAC Quito, Pichincha, Ecuador
@@ -2058,6 +2407,26 @@
 4 LONG W78.5
 2 SOUR @S71@
 1 _XY 977 1642
+0 @I279@ INDI
+1 NAME Modesto /Donoso/
+1 SEX M
+1 FAMC @F188@
+1 BIRT
+2 DATE 1867
+2 PLAC Quito, Pichincha, Ecuador
+3 MAP
+4 LATI S0.2167
+4 LONG W78.5
+0 @I282@ INDI
+1 NAME Ricardo Elias /Donoso/
+1 SEX M
+1 FAMC @F187@
+1 BIRT
+2 DATE 1875
+2 PLAC Quito, Pichincha, Ecuador
+3 MAP
+4 LATI S0.2167
+4 LONG W78.5
 0 @I150@ INDI
 1 REFN a9403471-42a4-4452-bc8a-a607c73fb9f7
 1 NAME Teresa /Donoso/
@@ -2065,6 +2434,7 @@
 3 PAGE p. 25
 1 SEX F
 1 FAMC @F55@
+1 FAMS @F179@
 1 BIRT
 2 DATE 1834
 2 PLAC Quito, Pichincha, Ecuador
@@ -2073,6 +2443,31 @@
 4 LONG W78.5
 2 SOUR @S71@
 1 _XY 1114 1642
+0 @I267@ INDI
+1 NAME Timoleon /Donoso/
+1 SEX M
+1 FAMC @F186@
+1 BIRT
+2 DATE 1872
+2 PLAC Guayaquil, Guayas, Ecuador
+3 MAP
+4 LATI S2.1667
+4 LONG W79.9
+0 @I296@ INDI
+1 NAME Antonia /Donoso Mogrovejo Moya/
+1 SEX F
+1 FAMC @F180@
+1 BIRT
+2 DATE 1769
+2 PLAC Quito, Pichincha, Ecuador
+3 MAP
+4 LATI S0.2167
+4 LONG W78.5
+1 DEAT
+2 PLAC Quito, Pichincha, Ecuador
+3 MAP
+4 LATI S0.2167
+4 LONG W78.5
 0 @I144@ INDI
 1 REFN c0abad42-0e3b-4d88-b6e9-02f5429d2606
 1 NAME Joaquín /Donoso Ortiz/
@@ -2093,6 +2488,22 @@
 4 LONG W78.5
 2 SOUR @S72@
 1 _XY 794 1522
+0 @I290@ INDI
+1 NAME Bartolomé Marcelino /Donoso y Chiriboga/
+1 SEX M
+1 FAMC @F181@
+1 BIRT
+2 DATE 1798
+2 PLAC Real Audiencia, Quito, Pichincha, Ecuador
+1 DEAT
+2 DATE 1864
+2 PLAC Quito, Pichincha, Ecuador.
+0 @I305@ INDI
+1 NAME Diego /Donoso y Chiriboga/
+1 SEX M
+1 FAMC @F53@
+1 BIRT
+2 DATE 1800
 0 @I145@ INDI
 1 REFN 4c261fe2-a4f1-42e2-9061-d8f4782fe2d3
 1 NAME Diego Mariano Ambrosio /Donoso y Chiriboga/
@@ -2104,7 +2515,10 @@
 2 SOUR @S94@
 2 SOUR @S71@
 1 SEX M
+1 FAMC @F181@
 1 FAMS @F53@
+1 FAMS @F184@
+1 FAMS @F185@
 1 BIRT
 2 DATE ABT 07 DEC 1777
 2 PLAC Quito, Pichincha, Ecuador
@@ -2126,6 +2540,129 @@
 4 LATI S1.6667
 4 LONG W78.6334
 1 _XY 699 1431
+0 @I273@ INDI
+1 NAME Francisco /Donoso y Chiriboga/
+1 SEX M
+1 FAMC @F53@
+1 BIRT
+2 DATE 1804
+0 @I292@ INDI
+1 NAME Manuel Gabriel /Donoso y Chiriboga/
+1 SEX M
+1 FAMC @F181@
+1 BIRT
+2 DATE 18 MAR 1786
+2 PLAC Quito, Pichincha, Ecuador
+3 MAP
+4 LATI S0.2167
+4 LONG W78.5
+1 DEAT
+2 DATE 1850
+2 PLAC Quito, Pichincha, Ecuador
+3 MAP
+4 LATI S0.2167
+4 LONG W78.5
+0 @I304@ INDI
+1 NAME Maria Josepha /Donoso y Chiriboga/
+1 SEX F
+1 FAMC @F53@
+1 BIRT
+2 DATE 1798
+0 @I284@ INDI
+1 NAME Mariano Luis /Donoso y Chiriboga/
+1 SEX M
+1 FAMC @F182@
+1 FAMS @F180@
+1 FAMS @F181@
+1 BIRT
+2 DATE 02 FEB 1745
+2 PLAC Real Audiencia, Quito, Pichincha, Ecuador
+1 DEAT
+2 DATE 22 DEC 1805
+2 PLAC Real Audiencia, Quito, Pichincha, Ecuador
+0 @I288@ INDI
+1 NAME Mariano Pedro Francisco Javier /Donoso y Chiriboga/
+1 SEX M
+1 FAMC @F181@
+1 BIRT
+2 DATE 1792
+2 PLAC Real Audiencia, Quito, Pichincha, Ecuador
+1 DEAT
+2 DATE 1870
+2 PLAC Riobamba, Chimborzo, Ecuador
+0 @I289@ INDI
+1 NAME Pedro Antonio /Donoso y Chiriboga/
+1 SEX M
+1 FAMC @F181@
+1 BIRT
+2 DATE 1788
+2 PLAC Quito, Pichincha, Ecuador
+3 MAP
+4 LATI S0.2167
+4 LONG W78.5
+1 DEAT
+2 DATE 25 JUL 1831
+2 PLAC Riobamba, Chimborazo, Ecuador
+3 MAP
+4 LATI S1.6667
+4 LONG W78.6334
+0 @I291@ INDI
+1 NAME Pedro Ramón /Donoso y Chiriboga/
+1 SEX M
+1 FAMC @F181@
+1 BIRT
+2 DATE 1779
+2 PLAC Quito, Pichincha, Ecuador
+3 MAP
+4 LATI S0.2167
+4 LONG W78.5
+1 DEAT
+2 DATE 02 FEB 1836
+2 PLAC Quito, Pichincha, Ecuador
+3 MAP
+4 LATI S0.2167
+4 LONG W78.5
+0 @I299@ INDI
+1 NAME José /Donoso y Dávalos/
+1 SEX M
+1 FAMC @F184@
+1 BIRT
+2 DATE 25 MAR 1817
+2 PLAC Riobamba, Chimborazo, Ecuador
+3 MAP
+4 LATI S1.6667
+4 LONG W78.6334
+0 @I300@ INDI
+1 NAME María Concepción /Donoso y Dávalos/
+1 SEX F
+1 FAMC @F184@
+1 BIRT
+2 DATE 1805
+2 PLAC Riobamba, Chimborazo, Ecuador
+3 MAP
+4 LATI S1.6667
+4 LONG W78.6334
+1 DEAT
+2 PLAC Riobamba, Chimborazo, Ecuador
+3 MAP
+4 LATI S1.6667
+4 LONG W78.6334
+0 @I286@ INDI
+1 NAME Diego /Donoso y de la Carrera/
+1 SEX M
+1 FAMS @F182@
+1 BIRT
+2 DATE 1709
+2 PLAC Quito, Pichincha, Ecuador
+3 MAP
+4 LATI S0.2167
+4 LONG W78.5
+1 DEAT
+2 DATE 29 OCT 1774
+2 PLAC Quito, Pichincha, Ecuador
+3 MAP
+4 LATI S0.2167
+4 LONG W78.5
 0 @I263@ INDI
 1 NAME [REDACTED]
 1 FAMS @F176@
@@ -2278,6 +2815,21 @@
 1 SEX F
 1 FAMC @F25@
 1 _XY 2126 1131
+0 @I301@ INDI
+1 NAME Mariana /Freile Y Chiriboga/
+1 SEX F
+1 FAMS @F185@
+1 BIRT
+2 DATE 1793
+2 PLAC Quito, Pichincha, Ecuador
+3 MAP
+4 LATI S0.2167
+4 LONG W78.5
+1 DEAT
+2 PLAC Quito, Pichincha, Ecuador
+3 MAP
+4 LATI S0.2167
+4 LONG W78.5
 0 @I156@ INDI
 1 REFN 31b5bdbc-1918-4bd3-b8fa-496778af79d9
 1 NAME Diego /Fuenmayor y Peguero/
@@ -2539,6 +3091,12 @@
 1 BIRT
 2 PLAC Membrilla, Toledo, Espana
 1 _XY 7561 324
+0 @I275@ INDI
+1 NAME Angela /Guarderas/
+1 SEX F
+1 FAMS @F187@
+1 BIRT
+2 DATE 1848
 0 @I241@ INDI
 1 NAME [REDACTED]
 1 FAMC @F160@
@@ -2785,14 +3343,21 @@
 1 _XY 1459 1529
 0 @I165@ INDI
 1 REFN 6b10f95a-5352-4f2a-b544-94bcd16d774d
-1 NAME Amalia /Hurtado Zambrano/
+1 NAME Amalia /Hurtado Donoso Zambrano/
 2 SOUR @S94@
 1 SEX F
-1 FAMC @F60@
+1 FAMC @F55@
 1 FAMS @F61@
 1 FAMS @F62@
+1 OBJE @M129@
+1 OBJE @M133@
+1 NOTE There are some distant DNA matches whose ancestors are in co
+2 CONC mmon with those of Joaquín Donoso Ortiz, so the possibilit
+2 CONC y that Amalia's biological father was actually Joaquín Dono
+2 CONC so Ortiz, and not the suspected Hurtado, warrants further in
+2 CONC vestigation.
 1 BIRT
-2 DATE ABT 1840
+2 DATE 1835
 2 PLAC Quito, Pichincha, Ecuador
 3 MAP
 4 LATI S0.2167
@@ -2807,6 +3372,7 @@
 4 LONG W78.5
 2 SOUR @S94@
 1 _XY 1373 1684
+1 _PHOTO @M129@
 0 @I167@ INDI
 1 REFN df41ecdd-7570-43b7-86fd-9fac29f59d9b
 1 NAME Anserma /India/
@@ -2909,6 +3475,11 @@
 5 CONT
 3 OBJE @M65@
 3 _LINK https://familysearch.org/ark:/61903/1:1:QLB3-LK4T
+2 SOUR @S137@
+3 PAGE New York State Department of Health; Albany, NY, USA; New Yo
+4 CONC rk State Marriage Index; "Aquiles Lopez"
+3 OBJE @M143@
+3 _APID 1,61632::7255719
 2 SOUR @uc6TY0trSKKxEHYlsSze@
 3 PAGE New York, Westchester County Marriages, 1909-1924
 3 OBJE @ZWs9CV3SSBqyZCS9b43V@
@@ -2966,6 +3537,7 @@
 1 SEX M
 1 FAMC @KHbLkt6WRqSDo0DTyyKL@
 1 FAMS @OKdDV6OTTgqa6v5V076w@
+1 OBJE @M130@
 1 BIRT
 2 DATE 22 JUL 1889
 2 PLAC Chone, Manabi, Ecuador
@@ -3149,6 +3721,7 @@
 2 SOUR @S94@
 3 QUAY 1
 1 _XY 2901 1970
+1 _PHOTO @M130@
 0 @I171@ INDI
 1 REFN 737b79c9-ed1a-4abe-b5c0-c57685310f60
 1 NAME Camila /López/
@@ -3300,6 +3873,7 @@
 1 SEX F
 1 FAMC @KHbLkt6WRqSDo0DTyyKL@
 1 FAMS @CG3lu0waRu2DmiRoC3LG@
+1 OBJE @M135@
 1 BIRT
 2 DATE 30 MAY 1879
 2 PLAC Jipijapa, Manabi, Ecuador
@@ -3480,12 +4054,14 @@
 2 NOTE show as Dolores Zilker (I am just assuming that this is righ
 3 CONC t Dolores, because birth and death dates match)
 1 _XY 3872 1989
+1 _PHOTO @M135@
 0 @I174@ INDI
 1 REFN ba7669c9-57c0-49c8-b0c0-b36c7f4fe8d7
 1 NAME Dolores Malvina /López/
 2 SOUR @S94@
 1 SEX F
 1 FAMC @F61@
+1 OBJE @M137@
 1 BIRT
 2 DATE 08 APR 1881
 2 PLAC Quito, Pichincha, Ecuador
@@ -3501,6 +4077,7 @@
 4 LONG W78.5
 2 SOUR @S94@
 1 _XY 1661 1921
+1 _PHOTO @M137@
 0 @M2VYIcfGShuHHjLxRLLO@ INDI
 1 REFN fe9a8417-4b2c-4108-a56e-76147cd72175
 1 NAME Dolores Olympia /López/
@@ -3572,6 +4149,7 @@
 3 QUAY 1
 1 SEX F
 1 FAMC @KHbLkt6WRqSDo0DTyyKL@
+1 OBJE @M127@
 1 BIRT
 2 DATE APR 1882
 2 PLAC Jipijapa, Manabi, Ecuador
@@ -3757,6 +4335,7 @@
 2 SOUR @S94@
 3 QUAY 1
 1 _XY 2364 1970
+1 _PHOTO @M127@
 0 @fv0n8R3TSkK0bmwnSXdA@ INDI
 1 REFN 56a556da-62fb-4558-9f4c-ae09397028e3
 1 NAME Enid /López/
@@ -3770,6 +4349,7 @@
 3 QUAY 1
 1 SEX M
 1 FAMC @KHbLkt6WRqSDo0DTyyKL@
+1 OBJE @M138@
 1 BIRT
 2 DATE 1880
 2 PLAC Jipijapa, Manabi, Ecuador
@@ -3787,6 +4367,7 @@
 2 SOUR @S94@
 2 NOTE of wounds obtained in a military battle
 1 _XY 2246 1970
+1 _PHOTO @M138@
 0 @y4408aI7RySfx8XbRwvy@ INDI
 1 REFN ac139ee4-c9a3-40d7-a8c7-7a6060a645d5
 1 NAME Felicísimo /López/
@@ -3879,11 +4460,11 @@
 3 OBJE @M72@
 3 _APID 1,7488::4036481462
 2 SOUR @S87@
-3 PAGE National Archives and Records Administration; Washington, DC
-4 CONC ; ARC Title: Index to Petitions for Naturalizations Filed i
-4 CONC n Federal, State, and Local Courts in New York City, 1792-19
-4 CONC 06; NAI Number: 5700802; Record Group Title: Records of Dist
-4 CONC rict Courts of th
+3 PAGE NARA; Washington, DC; NAI Title: Index to Petitions for Natu
+4 CONC ralizations Filed in Federal, State, and Local Courts in Ne
+4 CONC w York City, 1792-1906; NAI 5700802; RG "Records of Distric
+4 CONC t Courts of the United States, 1685-2009"; RG 21; 15 Nov 192
+4 CONC 2
 3 OBJE @M70@
 3 _APID 1,2280::3792382
 2 SOUR @Ap7270q8QDmqnp4oKY6u@
@@ -4000,11 +4581,11 @@
 3 OBJE @M72@
 3 _APID 1,7488::4036481462
 2 SOUR @S87@
-3 PAGE National Archives and Records Administration; Washington, DC
-4 CONC ; ARC Title: Index to Petitions for Naturalizations Filed i
-4 CONC n Federal, State, and Local Courts in New York City, 1792-19
-4 CONC 06; NAI Number: 5700802; Record Group Title: Records of Dist
-4 CONC rict Courts of th
+3 PAGE NARA; Washington, DC; NAI Title: Index to Petitions for Natu
+4 CONC ralizations Filed in Federal, State, and Local Courts in Ne
+4 CONC w York City, 1792-1906; NAI 5700802; RG "Records of Distric
+4 CONC t Courts of the United States, 1685-2009"; RG 21; 15 Nov 192
+4 CONC 2
 3 OBJE @M70@
 3 _APID 1,2280::3792382
 2 SOUR @Ap7270q8QDmqnp4oKY6u@
@@ -4218,11 +4799,11 @@
 4 CONC ve.org/details/ldpd_6864656_003"/> : 28 Oct 2018). </bibl>
 3 _LINK https://archive.org/details/ldpd_6864656_003
 2 SOUR @S87@
-3 PAGE National Archives and Records Administration; Washington, DC
-4 CONC ; ARC Title: Index to Petitions for Naturalizations Filed i
-4 CONC n Federal, State, and Local Courts in New York City, 1792-19
-4 CONC 06; NAI Number: 5700802; Record Group Title: Records of Dist
-4 CONC rict Courts of th
+3 PAGE NARA; Washington, DC; NAI Title: Index to Petitions for Natu
+4 CONC ralizations Filed in Federal, State, and Local Courts in Ne
+4 CONC w York City, 1792-1906; NAI 5700802; RG "Records of Distric
+4 CONC t Courts of the United States, 1685-2009"; RG 21; 15 Nov 192
+4 CONC 2
 3 OBJE @M70@
 3 _APID 1,2280::3792382
 2 SOUR @S83@
@@ -4675,6 +5256,8 @@
 1 SEX M
 1 FAMC @F21@
 1 FAMS @F61@
+1 OBJE @M136@
+1 OBJE @M132@
 1 BIRT
 2 DATE 1841
 2 PLAC Quito, Pichincha, Ecuador
@@ -4690,6 +5273,7 @@
 4 LONG W78.5
 2 SOUR @S94@
 1 _XY 1636 1684
+1 _PHOTO @M132@
 0 @I176@ INDI
 1 REFN b01f6a83-6303-4178-986d-c2f2120a983c
 1 NAME Gregoria /López/
@@ -4982,6 +5566,7 @@
 1 FAMC @KHbLkt6WRqSDo0DTyyKL@
 1 FAMS @DnBgQnFRRUKpvOAH0yMh@
 1 OBJE @CY2qvviEQfeok1sJQlB7@
+1 OBJE @M131@
 1 BIRT
 2 DATE 20 AUG 1891
 2 PLAC Chone, Manabi, Ecuador
@@ -5986,6 +6571,7 @@
 2 SOUR @S94@
 3 QUAY 1
 1 _XY 3284 2054
+1 _PHOTO @M131@
 0 @I177@ INDI
 1 REFN 77b6c54a-0f00-459a-84e4-5551642ba792
 1 NAME Joaquín /López/
@@ -6020,6 +6606,7 @@
 2 SOUR @S94@
 1 SEX M
 1 FAMC @F61@
+1 OBJE @M139@
 1 BIRT
 2 DATE ABT 1879
 2 PLAC Quito, Pichincha, Ecuador
@@ -6035,6 +6622,7 @@
 4 LONG W78.5
 2 SOUR @S94@
 1 _XY 1525 1921
+1 _PHOTO @M139@
 0 @1C3rIQUbRIOk40Lcs7MR@ INDI
 1 REFN 1b5b6e74-7605-445e-bce4-91fd39e89553
 1 NAME Lelia /López/
@@ -6400,6 +6988,7 @@
 1 SEX M
 1 FAMC @KHbLkt6WRqSDo0DTyyKL@
 1 FAMS @KjS0id0VT222TBWVkqOg@
+1 OBJE @M128@
 1 BIRT
 2 DATE BET 28 OCT 1884 AND 27 OCT 1885
 2 PLAC Jipijapa, Manabi, Ecuador
@@ -6484,6 +7073,7 @@
 2 SOUR @S94@
 3 QUAY 1
 1 _XY 2605 1962
+1 _PHOTO @M128@
 0 @I182@ INDI
 1 REFN a1e4b37e-1b09-4884-bfc3-1344dc61b5e2
 1 NAME Nicolás /López/
@@ -6506,7 +7096,7 @@
 1 _XY 2365 1368
 0 @lfzXmEJlR7yx4R6MSYy4@ INDI
 1 REFN f54bfbbf-a9f4-4a17-bd6d-1db2952e304a
-1 NAME Robert A. /López/
+1 NAME Robert Aquiles /López/
 2 SOUR @pZSp306qQOGHvPqm0c60@
 3 PAGE Year: 1920; Census Place: Santa Monica, Los Angeles, Califor
 4 CONC nia; Roll: T625_116; Page: 11B; Enumeration District: 604; I
@@ -6527,20 +7117,27 @@
 2 SOUR @wN4p8JORTTCTcTlwT98u@
 3 PAGE Date: 1984-02-26
 3 _APID 1,5180::14566074
+2 SOUR @S84@
+3 OBJE @M144@
+3 _APID 1,61457::479467
 2 SOUR @es9CfZUrS7S7jzWga8jJ@
 3 PAGE New York State Archives; Albany, New York; State Populatio
 4 CONC n Census Schedules, 1915; Election District: 24; Assembly Di
 4 CONC strict: 18; City: New York; County: Kings; Page: 48
 3 OBJE @M35@
 3 _APID 1,2703::4343096
+2 SOUR @S134@
+3 PAGE The National Archives in St. Louis, Missouri; St. Louis, Mis
+4 CONC souri; WWII Draft Registration Cards for California, 10/16/1
+4 CONC 940-03/31/1947; Record Group: Records of the Selective Servi
+4 CONC ce System, 147; Box: 1073
+3 OBJE @M145@
+3 _APID 1,2238::17719539
 1 SEX M
 1 FAMC @OKdDV6OTTgqa6v5V076w@
 1 BIRT
 2 DATE 23 OCT 1914
-2 PLAC New York, USA
-3 MAP
-4 LATI N42.7531
-4 LONG W74.2224
+2 PLAC Brooklyn, New York City, New York, USA
 2 SOUR @pZSp306qQOGHvPqm0c60@
 3 PAGE Year: 1920; Census Place: Santa Monica, Los Angeles, Califor
 4 CONC nia; Roll: T625_116; Page: 11B; Enumeration District: 604; I
@@ -6561,12 +7158,22 @@
 2 SOUR @wN4p8JORTTCTcTlwT98u@
 3 PAGE Date: 1984-02-26
 3 _APID 1,5180::14566074
+2 SOUR @S84@
+3 OBJE @M144@
+3 _APID 1,61457::479467
 2 SOUR @es9CfZUrS7S7jzWga8jJ@
 3 PAGE New York State Archives; Albany, New York; State Populatio
 4 CONC n Census Schedules, 1915; Election District: 24; Assembly Di
 4 CONC strict: 18; City: New York; County: Kings; Page: 48
 3 OBJE @M35@
 3 _APID 1,2703::4343096
+2 SOUR @S134@
+3 PAGE The National Archives in St. Louis, Missouri; St. Louis, Mis
+4 CONC souri; WWII Draft Registration Cards for California, 10/16/1
+4 CONC 940-03/31/1947; Record Group: Records of the Selective Servi
+4 CONC ce System, 147; Box: 1073
+3 OBJE @M145@
+3 _APID 1,2238::17719539
 1 RESI
 2 DATE 01 JUN 1915
 2 PLAC Brooklyn, Kings County, New York, USA
@@ -6619,16 +7226,22 @@
 3 _APID 1,2442::69793458
 1 RESI
 2 DATE 01 APR 1940
-2 PLAC Beverly Hills, Los Angeles, California, USA
-3 MAP
-4 LATI N34.0736
-4 LONG W118.4004
+2 PLAC 907 North Bedford Drive, Beverly Hills, Los Angeles, Califor
+3 CONC nia, USA
 2 SOUR @wasQXzkoQbebWtJVQDxQ@
 3 PAGE Year: 1940; Census Place: Beverly Hills, Los Angeles, Califo
 4 CONC rnia; Roll: T627_220; Page: 11B; Enumeration District: 19-36
 3 OBJE @aQ8iZY8vR6GhJackYw2S@
 3 _APID 1,2442::69793458
+2 SOUR @S134@
+3 PAGE The National Archives in St. Louis, Missouri; St. Louis, Mis
+4 CONC souri; WWII Draft Registration Cards for California, 10/16/1
+4 CONC 940-03/31/1947; Record Group: Records of the Selective Servi
+4 CONC ce System, 147; Box: 1073
+3 OBJE @M145@
+3 _APID 1,2238::17719539
 2 NOTE Marital Status: Single; Relation to Head of House: Stepson
+2 NOTE Relation to Head: Self; Relative Relation to Head: Friend
 1 OCCU painter on set of Sins of Jezebel (starring Paulette Goddard
 2 CONC )
 2 DATE 1953
@@ -6667,6 +7280,7 @@
 3 QUAY 1
 1 SEX M
 1 FAMC @KHbLkt6WRqSDo0DTyyKL@
+1 OBJE @M125@
 1 BIRT
 2 DATE ABT FEB 1884
 2 PLAC Jipijapa, Manabi, Ecuador
@@ -6701,6 +7315,7 @@
 2 SOUR @S94@
 3 QUAY 1
 1 _XY 2488 1970
+1 _PHOTO @M125@
 0 @ExDZxRYgTCWBJ19SGxAE@ INDI
 1 REFN 446511c7-e446-41a6-8a2d-21e64536e43e
 1 NAME unknown partner of Felicísimo /López/
@@ -6724,6 +7339,16 @@
 0 @I254@ INDI
 1 NAME [REDACTED]
 1 FAMS @F172@
+0 @I297@ INDI
+1 NAME Josepha /Mogrovejo Moya/
+1 SEX F
+1 FAMS @F180@
+1 BIRT
+2 DATE 1745
+2 PLAC Quito, Pichincha, Ecuador
+3 MAP
+4 LATI S0.2167
+4 LONG W78.5
 0 @I186@ INDI
 1 REFN 3a9f989b-d46c-4aea-a123-9b2af7cd3f93
 1 NAME Sebastián /Moyano/
@@ -6744,6 +7369,12 @@
 2 DATE 30 APR 1551
 2 PLAC Cartagena de Indias, Colombia
 1 _XY 5417 171
+0 @I302@ INDI
+1 NAME Beatriz /Muños/
+1 SEX F
+1 FAMS @F186@
+1 BIRT
+2 DATE 1850
 0 @I188@ INDI
 1 REFN fdf32243-834a-4d2c-b006-e87d58becee5
 1 NAME María /Núñez/
@@ -6777,6 +7408,9 @@
 2 SOUR @S71@
 1 SEX F
 1 FAMS @F53@
+1 BIRT
+2 DATE ABT 1780
+2 PLAC San Pablo del Lago, Imbabura, Ecuador
 1 _XY 877 1454
 0 @I190@ INDI
 1 REFN 3982de0a-e7db-4ec4-8035-b4bcfe7044a6
@@ -7316,7 +7950,7 @@
 1 FAMS @F173@
 0 @I194@ INDI
 1 REFN 8de8458e-2dca-4a2d-80ce-0ab5be981d9a
-1 NAME Diocelina /Pazmiño/
+1 NAME Dios Celina /Pazmiño/
 2 SOUR @S94@
 1 SEX F
 1 FAMC @F62@
@@ -7566,6 +8200,13 @@
 4 CONC strict: 21; City: Brooklyn; County: Kings; Page: 14
 3 OBJE @M37@
 3 _APID 1,2704::18252584
+2 SOUR @S135@
+3 PAGE Daily News; Publication Date: 19/ Nov/ 1993; Publication Pla
+4 CONC ce: New York, New York, United States of America; URL: https
+4 CONC ://www.newspapers.com/image/471737808/?article=5d4a6a0f-bb62
+4 CONC -4f2d-a87a-ba907829803a&focus=0.6454253,0.70051825,0.7865686
+4 CONC 4,0.757726&xid=2
+3 _APID 1,61843::336065624
 2 SOUR @S94@
 3 QUAY 1
 2 SOUR @S85@
@@ -8368,22 +9009,21 @@
 3 OBJE @M15@
 3 _APID 1,2442::5009217
 2 SOUR @S87@
-3 PAGE National Archives and Records Administration; Washington, DC
-4 CONC ; ARC Title: Index to Petitions for Naturalizations Filed i
-4 CONC n Federal, State, and Local Courts in New York City, 1792-19
-4 CONC 06; NAI Number: 5700802; Record Group Title: Records of Dist
-4 CONC rict Courts of th
-3 OBJE @M70@
-3 _APID 1,2280::3792382
-2 SOUR @S87@
-3 PAGE Petition for Naturalization; National Archives and Records A
-4 CONC dministration; Washington, DC; NAI Title: Index to Petition
-4 CONC s for Naturalizations Filed in Federal, State, and Local Cou
-4 CONC rts in New York City, 1792-1906; NAI Number: 5700802; Recor
-4 CONC d Group Title: Records of District Courts of the United Stat
-4 CONC es, 1685-2009; Record Group Number: RG 21
+3 PAGE NARA; Washington, DC; NAI Title: Index to Petitions for Natu
+4 CONC ralizations Filed in Federal, State, and Local Courts in Ne
+4 CONC w York City, 1792-1906; NAI 5700802; RG "Records of Distric
+4 CONC t Courts of the United States, 1685-2009"; RG 21; 14 Dec 192
+4 CONC 5
 3 OBJE @M123@
 3 _APID 1,2280::3358634
+2 SOUR @S87@
+3 PAGE NARA; Washington, DC; NAI Title: Index to Petitions for Natu
+4 CONC ralizations Filed in Federal, State, and Local Courts in Ne
+4 CONC w York City, 1792-1906; NAI 5700802; RG "Records of Distric
+4 CONC t Courts of the United States, 1685-2009"; RG 21; 15 Nov 192
+4 CONC 2
+3 OBJE @M70@
+3 _APID 1,2280::3792382
 2 SOUR @Ap7270q8QDmqnp4oKY6u@
 3 PAGE New York State Archives; Albany, New York; State Populatio
 4 CONC n Census Schedules, 1905; Election District: A.D. 18 E.D. 16
@@ -8477,22 +9117,21 @@
 3 OBJE @M15@
 3 _APID 1,2442::5009217
 2 SOUR @S87@
-3 PAGE National Archives and Records Administration; Washington, DC
-4 CONC ; ARC Title: Index to Petitions for Naturalizations Filed i
-4 CONC n Federal, State, and Local Courts in New York City, 1792-19
-4 CONC 06; NAI Number: 5700802; Record Group Title: Records of Dist
-4 CONC rict Courts of th
-3 OBJE @M70@
-3 _APID 1,2280::3792382
-2 SOUR @S87@
-3 PAGE Petition for Naturalization; National Archives and Records A
-4 CONC dministration; Washington, DC; NAI Title: Index to Petition
-4 CONC s for Naturalizations Filed in Federal, State, and Local Cou
-4 CONC rts in New York City, 1792-1906; NAI Number: 5700802; Recor
-4 CONC d Group Title: Records of District Courts of the United Stat
-4 CONC es, 1685-2009; Record Group Number: RG 21
+3 PAGE NARA; Washington, DC; NAI Title: Index to Petitions for Natu
+4 CONC ralizations Filed in Federal, State, and Local Courts in Ne
+4 CONC w York City, 1792-1906; NAI 5700802; RG "Records of Distric
+4 CONC t Courts of the United States, 1685-2009"; RG 21; 14 Dec 192
+4 CONC 5
 3 OBJE @M123@
 3 _APID 1,2280::3358634
+2 SOUR @S87@
+3 PAGE NARA; Washington, DC; NAI Title: Index to Petitions for Natu
+4 CONC ralizations Filed in Federal, State, and Local Courts in Ne
+4 CONC w York City, 1792-1906; NAI 5700802; RG "Records of Distric
+4 CONC t Courts of the United States, 1685-2009"; RG 21; 15 Nov 192
+4 CONC 2
+3 OBJE @M70@
+3 _APID 1,2280::3792382
 2 SOUR @Ap7270q8QDmqnp4oKY6u@
 3 PAGE New York State Archives; Albany, New York; State Populatio
 4 CONC n Census Schedules, 1905; Election District: A.D. 18 E.D. 16
@@ -8566,22 +9205,21 @@
 4 LATI N40.7744
 4 LONG W73.9721
 2 SOUR @S87@
-3 PAGE National Archives and Records Administration; Washington, DC
-4 CONC ; ARC Title: Index to Petitions for Naturalizations Filed i
-4 CONC n Federal, State, and Local Courts in New York City, 1792-19
-4 CONC 06; NAI Number: 5700802; Record Group Title: Records of Dist
-4 CONC rict Courts of th
-3 OBJE @M70@
-3 _APID 1,2280::3792382
-2 SOUR @S87@
-3 PAGE Petition for Naturalization; National Archives and Records A
-4 CONC dministration; Washington, DC; NAI Title: Index to Petition
-4 CONC s for Naturalizations Filed in Federal, State, and Local Cou
-4 CONC rts in New York City, 1792-1906; NAI Number: 5700802; Recor
-4 CONC d Group Title: Records of District Courts of the United Stat
-4 CONC es, 1685-2009; Record Group Number: RG 21
+3 PAGE NARA; Washington, DC; NAI Title: Index to Petitions for Natu
+4 CONC ralizations Filed in Federal, State, and Local Courts in Ne
+4 CONC w York City, 1792-1906; NAI 5700802; RG "Records of Distric
+4 CONC t Courts of the United States, 1685-2009"; RG 21; 14 Dec 192
+4 CONC 5
 3 OBJE @M123@
 3 _APID 1,2280::3358634
+2 SOUR @S87@
+3 PAGE NARA; Washington, DC; NAI Title: Index to Petitions for Natu
+4 CONC ralizations Filed in Federal, State, and Local Courts in Ne
+4 CONC w York City, 1792-1906; NAI 5700802; RG "Records of Distric
+4 CONC t Courts of the United States, 1685-2009"; RG 21; 15 Nov 192
+4 CONC 2
+3 OBJE @M70@
+3 _APID 1,2280::3792382
 2 SOUR @S130@
 3 PAGE National Archives and Records Administration (NARA), Washing
 4 CONC ton D.C.; Petitions for Naturalization of the U.S. Distric
@@ -8648,11 +9286,11 @@
 4 LATI N42.7531
 4 LONG W74.2224
 2 SOUR @S87@
-3 PAGE National Archives and Records Administration; Washington, DC
-4 CONC ; ARC Title: Index to Petitions for Naturalizations Filed i
-4 CONC n Federal, State, and Local Courts in New York City, 1792-19
-4 CONC 06; NAI Number: 5700802; Record Group Title: Records of Dist
-4 CONC rict Courts of th
+3 PAGE NARA; Washington, DC; NAI Title: Index to Petitions for Natu
+4 CONC ralizations Filed in Federal, State, and Local Courts in Ne
+4 CONC w York City, 1792-1906; NAI 5700802; RG "Records of Distric
+4 CONC t Courts of the United States, 1685-2009"; RG 21; 15 Nov 192
+4 CONC 2
 3 OBJE @M70@
 3 _APID 1,2280::3792382
 2 SOUR @S131@
@@ -8683,12 +9321,11 @@
 4 LATI N40.7744
 4 LONG W73.9721
 2 SOUR @S87@
-3 PAGE Petition for Naturalization; National Archives and Records A
-4 CONC dministration; Washington, DC; NAI Title: Index to Petition
-4 CONC s for Naturalizations Filed in Federal, State, and Local Cou
-4 CONC rts in New York City, 1792-1906; NAI Number: 5700802; Recor
-4 CONC d Group Title: Records of District Courts of the United Stat
-4 CONC es, 1685-2009; Record Group Number: RG 21
+3 PAGE NARA; Washington, DC; NAI Title: Index to Petitions for Natu
+4 CONC ralizations Filed in Federal, State, and Local Courts in Ne
+4 CONC w York City, 1792-1906; NAI 5700802; RG "Records of Distric
+4 CONC t Courts of the United States, 1685-2009"; RG 21; 14 Dec 192
+4 CONC 5
 3 OBJE @M123@
 3 _APID 1,2280::3358634
 2 SOUR @S130@
@@ -9911,6 +10548,12 @@
 0 @I239@ INDI
 1 NAME [REDACTED]
 1 FAMC @F169@
+0 @I274@ INDI
+1 NAME Juana /Tama/
+1 SEX F
+1 FAMS @F188@
+1 BIRT
+2 DATE 1825
 0 @I213@ INDI
 1 REFN 5bf3878b-b4ba-451c-94f4-951212af7e08
 1 NAME Howard D. /Timmons/
@@ -11188,6 +11831,21 @@
 4 LONG W78.5
 2 SOUR @S65@
 3 PAGE http://gw.geneanet.org/ecuadorgen?p=gustavo;n=barba
+0 @F179@ FAM
+1 HUSB @I276@
+1 WIFE @I150@
+1 CHIL @I265@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I266@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR
+2 DATE 17 FEB 1858
+2 PLAC Guano, Chimborazo, Ecuador
+3 MAP
+4 LATI S1.5833
+4 LONG W78.6334
 0 @F23@ FAM
 1 REFN d554f317-9932-48fb-bbb5-605529fef1a7
 1 HUSB @I71@
@@ -11487,6 +12145,78 @@
 2 _FREL Natural
 1 CHIL @I140@
 2 _FREL Natural
+0 @F183@ FAM
+1 HUSB @I293@
+1 WIFE @I294@
+1 CHIL @I219@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I295@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I283@
+2 _FREL Natural
+2 _MREL Natural
+0 @F186@ FAM
+1 HUSB @I147@
+1 WIFE @I302@
+1 CHIL @I303@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I267@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I268@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I269@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I270@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I271@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I272@
+2 _FREL Natural
+2 _MREL Natural
+0 @F187@ FAM
+1 HUSB @I149@
+1 WIFE @I275@
+1 CHIL @I281@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I282@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR
+2 DATE 23 MAY 1869
+2 PLAC Quito, Pichincha, Ecuador
+3 MAP
+4 LATI S0.2167
+4 LONG W78.5
+0 @F188@ FAM
+1 HUSB @I149@
+1 WIFE @I274@
+1 CHIL @I277@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I278@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I279@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I280@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR
+2 DATE ABT 1862
+2 PLAC Quito, Pichincha, Ecuador
+3 MAP
+4 LATI S0.2167
+4 LONG W78.5
 0 @F54@ FAM
 1 REFN 45bf5df6-6ab6-4264-b1c4-3a95f609047f
 1 HUSB @I144@
@@ -11514,23 +12244,104 @@
 1 CHIL @I150@
 2 _FREL Natural
 2 _MREL Natural
+1 CHIL @I165@
+2 _FREL Natural
+2 _MREL Natural
 1 CHIL @I146@
 2 _FREL Natural
 2 _MREL Natural
 1 MARR
-2 DATE ABT 1830
+2 DATE ABT 1825
 2 SOUR @S72@
+0 @F184@ FAM
+1 HUSB @I145@
+1 WIFE @I298@
+1 CHIL @I300@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I299@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR
+2 DATE 29 JAN 1805
+2 PLAC Riobamba, Chimborazo, Ecuador
+3 MAP
+4 LATI S1.6667
+4 LONG W78.6334
+0 @F185@ FAM
+1 HUSB @I145@
+1 WIFE @I301@
+1 MARR
+2 DATE 12 NOV 1830
+2 PLAC Quito, Pichincha, Ecuador
+3 MAP
+4 LATI S0.2167
+4 LONG W78.5
 0 @F53@ FAM
 1 REFN 214bf3a4-25c5-4db9-8d9a-bec486ac05af
 1 HUSB @I145@
 1 WIFE @I189@
+1 CHIL @I304@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I305@
+2 _FREL Natural
+2 _MREL Natural
 1 CHIL @I144@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I273@
 2 _FREL Natural
 2 _MREL Natural
 1 MARR
 2 DATE ABT 1797
 2 PLAC San Pablo del Lago, Imbabura, Ecuador
 2 SOUR @S72@
+0 @F181@ FAM
+1 HUSB @I284@
+1 WIFE @I285@
+1 CHIL @I145@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I291@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I292@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I289@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I288@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I290@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR
+2 DATE 03 APR 1774
+2 PLAC Quito, Pichincha, Ecuador
+3 MAP
+4 LATI S0.2167
+4 LONG W78.5
+0 @F180@ FAM
+1 HUSB @I284@
+1 WIFE @I297@
+1 CHIL @I296@
+2 _FREL Natural
+2 _MREL Natural
+0 @F182@ FAM
+1 HUSB @I286@
+1 WIFE @I287@
+1 CHIL @I284@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR
+2 DATE 08 DEC 1727
+2 PLAC Quito, Pichincha, Ecuador
+3 MAP
+4 LATI S0.2167
+4 LONG W78.5
 0 @F176@ FAM
 1 HUSB @I263@
 1 WIFE @7dwtINhERSyVygimODYv@
@@ -11629,9 +12440,6 @@
 1 REFN 64ebd315-0e39-4c7b-87f1-d1b6bfff9975
 1 HUSB @I166@
 1 WIFE @I209@
-1 CHIL @I165@
-2 _FREL Natural
-2 _MREL Natural
 1 EVEN
 2 TYPE partnered
 2 DATE ABT 1840
@@ -12103,8 +12911,7 @@
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2010
 0 @cYpH9GKbREexd30xG7Ri@ SOUR
-1 REFN eccf4ca6-3002-487c-92b4-2a685a3bd747
-1 REPO @R1@
+1 REPO @R7@
 1 TITL 1930 United States Federal Census
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations Inc; Location: Provo, UT, USA; Date
@@ -12518,6 +13325,12 @@
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2006
+0 @S138@ SOUR
+1 REPO @R7@
+1 TITL New Orleans, Passenger Lists, 1813-1963
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
+2 CONC e: 2006
 0 @S118@ SOUR
 1 REFN 888f37f1-1636-48d6-a58f-faa1237b891d
 1 REPO @R7@
@@ -12531,6 +13344,12 @@
 0 @S60@ SOUR
 1 REPO @R1@
 1 TITL New York City, Marriage License Indexes, 1907-1995
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.; Location: Lehi, UT, USA; Date
+2 CONC : 2017
+0 @S137@ SOUR
+1 REPO @R7@
+1 TITL New York State, Marriage Index, 1881-1967
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Lehi, UT, USA; Date
 2 CONC : 2017
@@ -12603,6 +13422,12 @@
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2012
+0 @S135@ SOUR
+1 REPO @R7@
+1 TITL Newspapers.com Obituary Index, 1800s-current
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations Inc; Location: Lehi, UT, USA; Date
+2 CONC : 2019
 0 @S92@ SOUR
 1 REPO @R7@
 1 TITL North Carolina, Death Certificates, 1909-1976
@@ -12977,6 +13802,12 @@
 1 AUTH National Archives and Records Administration
 1 PUBL Ancestry.com Operations Inc; Location: Provo, UT, USA; Date
 2 CONC : 2005
+0 @S134@ SOUR
+1 REPO @R7@
+1 TITL U.S. WWII Draft Cards Young Men, 1940-1947
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.; Location: Lehi, UT, USA; Date
+2 CONC : 2011
 0 @S62@ SOUR
 1 REPO @R1@
 1 TITL U.S., Border Crossings from Canada to U.S., 1825-1960
@@ -14177,6 +15008,40 @@
 2 FORM jpg
 2 TITL New York, County Marriages, 1847-1849; 1907-1936
 1 REFN cfab5cfe-e8da-48a7-a579-5e94fcf9366e
+0 @M30@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Lopez Media\Ne
+2 CONC w York, Passenger Lists, 1820-1957(2).jpg
+2 FORM jpg
+2 TITL New York, Passenger Lists, 1820-1957
+2 _TEXT Year: 1911; Arrival: New York, New York; Microfilm Serial: T
+3 CONC 715, 1897-1957; Microfilm Roll: Roll 1760; Line: 3; Page Num
+3 CONC ber: 191
+1 REFN c58575e4-1c6e-4a20-acd8-774ed9785d2d
+0 @M31@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Lopez Media\Ne
+2 CONC w York, Passenger Lists, 1820-1957(3).jpg
+2 FORM jpg
+2 TITL New York, Passenger Lists, 1820-1957
+2 _TEXT Year: 1911; Arrival: New York, New York; Microfilm Serial: T
+3 CONC 715, 1897-1957; Microfilm Roll: Roll 1631; Line: 2; Page Num
+3 CONC ber: 194
+1 REFN 3d75d2ca-4a46-4f72-8c31-ed3d6afeda20
+0 @M32@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Lopez Media\Ne
+2 CONC w York, Passenger Lists, 1820-1957(4).jpg
+2 FORM jpg
+2 TITL New York, Passenger Lists, 1820-1957
+2 _TEXT Year: 1911
+1 REFN b48a5397-26e2-43e3-97f3-f900b6ad7694
+0 @M33@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Lopez Media\Ne
+2 CONC w York, Passenger Lists, 1820-1957(5).jpg
+2 FORM jpg
+2 TITL New York, Passenger Lists, 1820-1957
+2 _TEXT Year: 1919; Arrival: New York, New York; Microfilm Serial: T
+3 CONC 715, 1897-1957; Microfilm Roll: Roll 2692; Line: 1; Page Num
+3 CONC ber: 116
+1 REFN e913f408-b495-4fed-861b-f981d97d3afb
 0 @M34@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Lopez Media\Ne
 2 CONC w York, State Census, 1905(3).jpg
@@ -14394,6 +15259,50 @@
 2 FORM jpg
 2 TITL Pazmiño Coat of Arms
 1 REFN 50973ce2-7135-4bfb-826d-23d973386678
+0 @M60@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Pazmino_Lopez M
+2 CONC edia\1910 United States Federal Census.jpg
+2 FORM jpg
+2 TITL 1910 United States Federal Census
+2 _TEXT Year: 1910; Census Place: Brooklyn Ward 29, Kings, New York
+3 CONC ; Roll: T624_982; Page: 3B; Enumeration District: 0931; FH
+3 CONC L microfilm: 1374995
+1 REFN f99559ef-241e-49e1-899f-4ea0a76d9b7f
+0 @M61@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Pazmino_Lopez M
+2 CONC edia\1920 United States Federal Census(1).jpg
+2 FORM jpg
+2 TITL 1920 United States Federal Census
+2 _TEXT Year: 1920; Census Place: Brooklyn Assembly District 1, King
+3 CONC s, New York; Roll: T625_1143; Page: 10A; Enumeration Distric
+3 CONC t: 4; Image: 723
+1 REFN 8970675c-4647-44e1-ac3a-6899870407dc
+0 @M62@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Pazmino_Lopez M
+2 CONC edia\1930 United States Federal Census(1).jpg
+2 FORM jpg
+2 TITL 1930 United States Federal Census
+2 _TEXT Year: 1930; Census Place: Brooklyn, Kings, New York; Roll: 1
+3 CONC 538; Page: 18A; Enumeration District: 877; Image: 827.0; FH
+3 CONC L microfilm: 2341273
+1 REFN 1941ba65-5371-49aa-a372-50dee100ae1c
+0 @M63@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Pazmino_Lopez M
+2 CONC edia\1940 United States Federal Census.jpg
+2 FORM jpg
+2 TITL 1940 United States Federal Census
+2 _TEXT Year: 1940; Census Place: New York, Kings, New York; Roll: T
+3 CONC 627_2615; Page: 2A; Enumeration District: 24-2589
+1 REFN cde5e397-1055-4b3a-b86c-eb7c59d21ae4
+0 @M64@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Pazmino_Lopez M
+2 CONC edia\New York, State Census, 1915.jpg
+2 FORM jpg
+2 TITL New York, State Census, 1915
+2 _TEXT New York State Archives; Albany, New York; State Populatio
+3 CONC n Census Schedules, 1915; Election District: 24; Assembly Di
+3 CONC strict: 18; City: New York; County: Kings; Page: 48
+1 REFN 551d4e90-b0e2-403a-b37e-96773198799d
 0 @M65@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Lopez Media\rec
 2 CONC ord-image_33SQ-G5VV-489.jpg
@@ -14470,6 +15379,14 @@
 2 _TEXT Year: 1911; Arrival: New York, New York; Microfilm Serial: T
 3 CONC 715, 1897-1957; Microfilm Roll: Roll 1693; Line: 13; Page Nu
 3 CONC mber: 194
+0 @M74@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Lopez Media\Ne
+2 CONC w York, Passenger Lists, 1820-1957(9).jpg
+2 FORM jpg
+2 TITL New York, Passenger Lists, 1820-1957
+2 _TEXT Year: 1919; Arrival: New York, New York; Microfilm Serial: T
+3 CONC 715, 1897-1957; Microfilm Roll: Roll 2692; Line: 1; Page Num
+3 CONC ber: 116
 0 @M75@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Lopez Media\Ne
 2 CONC w York, Passenger Lists, 1820-1957(10).jpg
@@ -14810,6 +15727,127 @@
 2 TITL New York, New York, Marriage License Indexes, 1907-1995
 2 _TEXT New York City Municipal Archives; New York, New York; Boroug
 3 CONC h: Brooklyn
+0 @M125@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Lopez Media\Est
+2 CONC enio and Ulises.jpg
+2 FORM jpg
+2 TITL Estenio and Ulises
+0 @M126@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Lopez Media\Ann
+2 CONC e Pazmino.jpg
+2 FORM jpg
+2 TITL Anne Pazmino
+0 @M127@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Lopez Media\Elo
+2 CONC isa.jpg
+2 FORM jpg
+2 TITL Eloisa
+0 @M128@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Lopez Media\Fel
+2 CONC icisimo and family.jpg
+2 FORM jpg
+2 TITL Felicisimo and family
+0 @M129@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Lopez Media\Ama
+2 CONC lia Hurtado.jpg
+2 FORM jpg
+2 TITL Amalia Hurtado
+0 @M130@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Lopez Media\Fel
+2 CONC icisimo and family(1).jpg
+2 FORM jpg
+2 TITL Felicisimo and family
+0 @M131@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Lopez Media\Fel
+2 CONC icisimo and family(2).jpg
+2 FORM jpg
+2 TITL Felicisimo and family
+0 @M132@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Lopez Media\Fra
+2 CONC ncisco Lopez.jpg
+2 FORM jpg
+2 TITL Francisco Lopez
+0 @M133@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Lopez Media\Fra
+2 CONC ncisco and Amalia.jpg
+2 FORM jpg
+2 TITL Francisco and Amalia
+0 @M134@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Lopez Media\IMG
+2 CONC _0409.PNG.jpg
+2 FORM jpg
+2 TITL IMG_0409.PNG
+2 _DATE 22 Jan 2019
+0 @M135@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Lopez Media\p-0
+2 CONC 56.jpg
+2 FORM jpg
+2 TITL p-056
+0 @M136@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Lopez Media\Fra
+2 CONC ncisco and Amalia(1).jpg
+2 FORM jpg
+2 TITL Francisco and Amalia
+0 @M137@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Lopez Media\Lel
+2 CONC ia - Malvina - Rosario -Eloisa - Dolores.jpg
+2 FORM jpg
+2 TITL Lelia - Malvina - Rosario -Eloisa - Dolores
+0 @M138@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Lopez Media\Est
+2 CONC enio Lopez.jpg
+2 FORM jpg
+2 TITL Estenio Lopez
+0 @M139@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Lopez Media\Est
+2 CONC enio Lopez(1).jpg
+2 FORM jpg
+2 TITL Estenio Lopez
+0 @M140@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Lopez Media\193
+2 CONC 0 United States Federal Census.jpg
+2 FORM jpg
+2 TITL 1930 United States Federal Census
+2 _TEXT Year: 1930; Census Place: Brooklyn, Kings, New York; Page: 2
+3 CONC 8B; Enumeration District: 1928; FHL microfilm: 2341258
+0 @M141@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Lopez Media\Ne
+2 CONC w York State, Marriage Index, 1881-1967.jpg
+2 FORM jpg
+2 TITL New York State, Marriage Index, 1881-1967
+2 _TEXT New York State Department of Health; Albany, NY, USA; New Yo
+3 CONC rk State Marriage Index
+0 @M142@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Lopez Media\Ne
+2 CONC w Orleans, Passenger Lists, 1813-1963.jpg
+2 FORM jpg
+2 TITL New Orleans, Passenger Lists, 1813-1963
+2 _TEXT The National Archives at Washington, D.C.; Washington, D.C.
+3 CONC ; Passenger Lists of Vessels Arriving at New Orleans, Louisi
+3 CONC ana, 1903-1945; NAI Number: 4492741; Record Group Title: Rec
+3 CONC ords of the Immigration and Naturalization Service; Record G
+3 CONC roup Number: 85
+0 @M143@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Lopez Media\Ne
+2 CONC w York State, Marriage Index, 1881-1967(1).jpg
+2 FORM jpg
+2 TITL New York State, Marriage Index, 1881-1967
+2 _TEXT New York State Department of Health; Albany, NY, USA; New Yo
+3 CONC rk State Marriage Index
+0 @M144@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Lopez Media\Ne
+2 CONC w York, New York, Births, 1910-1965(1).jpg
+2 FORM jpg
+2 TITL New York, New York, Births, 1910-1965
+0 @M145@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Lopez Media\U.S
+2 CONC . WWII Draft Cards Young Men, 1940-1947.jpg
+2 FORM jpg
+2 TITL U.S. WWII Draft Cards Young Men, 1940-1947
+2 _TEXT The National Archives in St. Louis, Missouri; St. Louis, Mis
+3 CONC souri; WWII Draft Registration Cards for California, 10/16/1
+3 CONC 940-03/31/1947; Record Group: Records of the Selective Servi
+3 CONC ce System, 147; Box: 1073
 0 @N224@ NOTE affidavit, page 1
 0 @N223@ NOTE affidavit, page 2
 0 @N222@ NOTE certificate
