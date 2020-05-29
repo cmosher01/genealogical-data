@@ -14,9 +14,9 @@
 4 CONT Boston, MA 02109
 3 PHON (617) 227-6681
 1 DEST FTM
-1 FILE Mosher_2020-05-24-13-23-40.ftm.ged
-1 DATE 24 MAY 2020
-2 TIME 13:22:47
+1 FILE Mosher_2020-05-29-04-25-11.ftm.ged
+1 DATE 29 MAY 2020
+2 TIME 04:23:40
 0 @Umy2qBWIRUiwVSS6Hcn4@ SUBM
 1 NAME Christopher Alan Mosher
 2 EMAIL cmosher01@@gmail.com
@@ -74,6 +74,7 @@
 4 CONC souri; WWII Draft Registration Cards for Illinois, 10/16/194
 4 CONC 0 - 03/31/1947; Record Group: Records of the Selective Servi
 4 CONC ce System, 147; Box: 1260
+3 OBJE @M636@
 3 _APID 1,2238::70016888
 2 SOUR @S215@
 3 _APID 1,60901::770294126
@@ -832,6 +833,12 @@
 3 _APID 1,2190::40042831
 2 SOUR @S241@
 3 _APID 1,60525::58160267
+2 SOUR @S317@
+3 PAGE Publication Date: 5/ Feb/ 2015; Publication Place: Utica, Ne
+4 CONC w York, USA; URL: http://www.legacy.com/obituaries/uticaod/o
+4 CONC bituary.aspx?n=edwin-jeril-benedict&amp;pid=174066487&amp;fh
+4 CONC id=22225
+3 _APID 1,7545::217754176
 2 SOUR @S215@
 3 _APID 1,60901::24852300
 2 SOUR @yAMTVEqOTiKCsMjPyXmb@
@@ -936,6 +943,9 @@
 3 _APID 1,1788::272835098
 2 SOUR @S247@
 3 _APID 1,1732::264390088
+2 SOUR @S299@
+3 OBJE @M621@
+3 _APID 1,2238::304023002
 2 SOUR @S331@
 3 PAGE Publication Date: 12/ May/ 2015; Publication Place: Portland
 4 CONC , Oregon, USA; URL: http://www.obitsforlife.com/obituary/102
@@ -989,6 +999,9 @@
 3 _APID 1,1788::272835098
 2 SOUR @S247@
 3 _APID 1,1732::264390088
+2 SOUR @S299@
+3 OBJE @M621@
+3 _APID 1,2238::304023002
 2 SOUR @S331@
 3 PAGE Publication Date: 12/ May/ 2015; Publication Place: Portland
 4 CONC , Oregon, USA; URL: http://www.obitsforlife.com/obituary/102
@@ -1543,18 +1556,13 @@
 3 OBJE @M185@
 3 OBJE @M186@
 1 _XY 6850.00 525.00
-0 @I484@ INDI
-1 NAME [REDACTED]
-1 FAMS @F387@
 0 @I651@ INDI
 1 REFN 94775b13-98c5-466b-b8fd-ff34fd8160e5
 1 NAME Anthony /Cacciola/
 1 SEX M
 1 FAMC @F487@
 0 @I627@ INDI
-1 REFN 52a674ad-8f67-49c0-afdb-7e211ed43d36
-1 NAME Bruce /Cacciola/
-1 SEX M
+1 NAME [REDACTED]
 1 FAMC @F387@
 0 @I652@ INDI
 1 REFN 62ebc109-d97c-44f0-9554-18b8c7ea8901
@@ -1562,19 +1570,17 @@
 1 SEX M
 1 FAMC @F487@
 0 @I628@ INDI
-1 REFN 11c59620-91c5-457a-8322-209cc9cd0665
-1 NAME Kevin /Cacciola/
-1 SEX M
+1 NAME [REDACTED]
 1 FAMC @F387@
+0 @I484@ INDI
+1 NAME [REDACTED]
+1 FAMS @F387@
 0 @I623@ INDI
-1 REFN a099d4a1-b983-4dc7-900d-a666c89e0535
-1 NAME Louis /Cacciola/
-1 SEX M
+1 NAME [REDACTED]
 1 FAMC @F387@
+1 FAMS @F507@
 0 @I650@ INDI
-1 REFN eede004f-74ac-4140-86bf-dc571bb5c61c
-1 NAME Russell /Cacciola/
-1 SEX M
+1 NAME [REDACTED]
 1 FAMC @F387@
 1 FAMS @F487@
 0 @O6cUmdBbRWWqLxJvbI4f@ INDI
@@ -2532,6 +2538,14 @@
 3 _APID 1,8784::3113612
 1 SEX F
 1 FAMS @F424@
+0 @I667@ INDI
+1 NAME Cindy S. //
+2 SOUR @S262@
+3 PAGE City: Cavetown; State: Maryland; Year(s): 1997-2002
+2 SOUR @S262@
+3 PAGE City: Smithsburg; State: Maryland; Year(s): 1996
+1 SEX F
+1 FAMS @F507@
 0 @I499@ INDI
 1 REFN 9f1d300c-3f9d-4c77-8ed5-156e3234ef1f
 1 NAME /Clark/
@@ -4134,6 +4148,9 @@
 2 SOUR @DmaIWlgWS4Kg0oXBWhrJ@
 3 QUAY 1
 1 _XY 9700.00 700.00
+0 @I669@ INDI
+1 NAME [REDACTED]
+1 FAMS @F506@
 0 @I474@ INDI
 1 NAME [REDACTED]
 1 FAMS @F385@
@@ -4172,6 +4189,7 @@
 0 @I635@ INDI
 1 NAME [REDACTED]
 1 FAMC @F482@
+1 FAMS @F504@
 0 @I634@ INDI
 1 NAME [REDACTED]
 1 FAMC @F482@
@@ -4500,8 +4518,58 @@
 1 SEX M
 1 FAMS @F423@
 0 @I633@ INDI
-1 NAME [REDACTED]
+1 REFN f12e81e8-9e12-442b-a0b0-28c8b75a1e24
+1 NAME Lillian R. /Glading/
+2 SOUR @S221@
+3 PAGE Year: 1940; Census Place: New York, Kings, New York; Roll: m
+4 CONC -t0627-02609; Page: 5A; Enumeration District: 24-2386
+3 OBJE @M604@
+3 _APID 1,2442::6788820
+2 SOUR @S285@
+3 PAGE New Jersey State Archives; Trenton, New Jersey; Marriage Ind
+4 CONC exes; Index Type: Bride; Year Range: 1953; Surname Range
+4 CONC : A - K; Lillian R Glading
+3 OBJE @M506@
+3 _APID 1,61253::902170406
+2 SOUR @S328@
+3 OBJE @M507@
+3 _APID 1,61457::3321525
+2 SOUR @S241@
+3 _APID 1,60525::108732150
+1 SEX F
 1 FAMS @F486@
+1 BIRT
+2 DATE 13 NOV 1935
+2 PLAC Brooklyn, New York City, New York, USA
+2 SOUR @S221@
+3 PAGE Year: 1940; Census Place: New York, Kings, New York; Roll: m
+4 CONC -t0627-02609; Page: 5A; Enumeration District: 24-2386
+3 OBJE @M604@
+3 _APID 1,2442::6788820
+2 SOUR @S328@
+3 OBJE @M507@
+3 _APID 1,61457::3321525
+2 SOUR @S241@
+3 _APID 1,60525::108732150
+1 RESI
+2 DATE 1940
+2 PLAC New York, Kings, New York, USA
+2 SOUR @S221@
+3 PAGE Year: 1940; Census Place: New York, Kings, New York; Roll: m
+4 CONC -t0627-02609; Page: 5A; Enumeration District: 24-2386
+3 OBJE @M604@
+3 _APID 1,2442::6788820
+2 NOTE Marital Status: Single; Relation to Head: Daughter
+1 DEAT
+2 DATE 21 SEP 1998
+2 SOUR @S241@
+3 _APID 1,60525::108732150
+1 BURI
+2 DATE ABT 24 SEP 1998
+2 PLAC Montefiore Cemetery, Springfield Gardens, Queens, New York C
+3 CONC ity, New York, USA
+2 SOUR @S241@
+3 _APID 1,60525::108732150
 0 @I458@ INDI
 1 REFN 8c050cbb-31cb-4087-8faa-67b713cad938
 1 NAME Evelyn Virginia /Gray/
@@ -4520,6 +4588,9 @@
 4 CONC ; Roll: m-t0627-02382; Page: 9A; Enumeration District: 18-12
 3 OBJE @M511@
 3 _APID 1,2442::136983284
+2 SOUR @S380@
+3 PAGE Surname Range: L-Z; Title: New Jersey Death Index, 2001-2017
+3 _APID 1,61260::1191448
 2 SOUR @S285@
 3 PAGE New Jersey State Archives; Trenton, New Jersey; Marriage Ind
 4 CONC exes; Index Type: Bride; Year Range: 1930-1935; Surname Rang
@@ -4532,6 +4603,13 @@
 3 OBJE @M512@
 3 _APID 1,61558::715668
 2 SOUR @S337@
+3 PAGE The Courier-News; Publication Date: 4/ May/ 1987; Publicatio
+4 CONC n Place: Bridgewater, New Jersey, United States of America
+4 CONC ; URL: https://www.newspapers.com/image/222936657/?article=3
+4 CONC e6e55e8-93b0-499c-a22d-c2cdf18b5b15&focus=0.49822152,0.16732
+4 CONC 475,0.6502554,0.37
+3 _APID 1,61843::258466458
+2 SOUR @S337@
 3 PAGE The Courier-News; Publication Date: 6/ Jul/ 1984; Publicatio
 4 CONC n Place: Bridgewater, New Jersey, United States of America
 4 CONC ; URL: https://www.newspapers.com/image/222825985/?article=9
@@ -4542,6 +4620,13 @@
 3 PAGE 1959
 3 OBJE @M295@
 3 _APID 1,2469::1373073413
+2 SOUR @S299@
+3 PAGE The National Archives in St. Louis, Missouri; St. Louis, Mis
+4 CONC souri; WWII Draft Registration Cards for New Jersey, 10/16/1
+4 CONC 940-03/31/1947; Record Group: Records of the Selective Servi
+4 CONC ce System, 147; Box: 464
+3 OBJE @M611@
+3 _APID 1,2238::331482926
 2 SOUR @S215@
 3 PAGE Evelyn Virginia Mosher
 3 _APID 1,60901::789176457
@@ -4576,6 +4661,9 @@
 4 CONC ; Roll: m-t0627-02382; Page: 9A; Enumeration District: 18-12
 3 OBJE @M511@
 3 _APID 1,2442::136983284
+2 SOUR @S380@
+3 PAGE Surname Range: L-Z; Title: New Jersey Death Index, 2001-2017
+3 _APID 1,61260::1191448
 2 SOUR @S330@
 3 PAGE New Jersey State Archive; Trenton, NJ, USA; State Census o
 4 CONC f New Jersey, 1915; Reference Number: L-17; Film Number: 50
@@ -4649,6 +4737,9 @@
 3 MAP
 4 LATI N40.5743
 4 LONG W74.6099
+2 SOUR @S380@
+3 PAGE Surname Range: L-Z; Title: New Jersey Death Index, 2001-2017
+3 _APID 1,61260::1191448
 2 SOUR @S215@
 3 PAGE Janet Alta Mosher
 3 _APID 1,60901::25074332
@@ -7150,6 +7241,7 @@
 4 CONC souri; WWII Draft Registration Cards for California, 10/16/1
 4 CONC 940 - 03/31/1947; Record Group: Records of the Selective Ser
 4 CONC vice System, 147; Box: 1271
+3 OBJE @M634@
 3 _APID 1,2238::107519549
 2 SOUR @S241@
 3 _APID 1,60525::127768180
@@ -7862,6 +7954,10 @@
 1 SEX F
 1 FAMS @F414@
 1 _XY 700.00 2025.00
+0 @I663@ INDI
+1 NAME /Keane/
+1 SEX M
+1 FAMS @F504@
 0 @FPPIsiAiRj25r0wHZ6ga@ INDI
 1 REFN 69737d5b-5a17-4c2d-a18e-6d8d3a41b0f6
 1 NAME Elizabeth /Kendall/
@@ -8110,6 +8206,12 @@
 3 _APID 1,70572::78218
 2 NOTE place is from "Descendants of Hugh Mosher"
 1 _XY 7525.00 1375.00
+0 @I666@ INDI
+1 NAME Lelia //
+2 SOUR @S262@
+3 PAGE City: Hagerstown; State: Maryland; Year(s): 1996-2002
+1 SEX F
+1 FAMS @F487@
 0 @ULyEcLDtSR6HRoRznIwa@ INDI
 1 REFN 103d1781-0672-4c77-a28c-044ff0e6a922
 1 NAME Bartel Engelbertszen /Loth/
@@ -10499,15 +10601,228 @@
 1 SEX M
 1 FAMS @ln2BUWTmTKyC7MX14UKP@
 1 _XY 8825.00 0.00
+0 @I670@ INDI
+1 NAME Richard /Mathis/
+2 SOUR @S337@
+3 PAGE The Orlando Sentinel; Publication Date: 13/ Oct/ 2003; Publi
+4 CONC cation Place: Orlando, Florida, United States of America; UR
+4 CONC L: https://www.newspapers.com/image/268842050/?article=ce0a5
+4 CONC 959-6f06-4da2-8ce1-d6d1d36e1ed7&focus=0.6186812,0.6451025,0.
+4 CONC 73569405,0.82411
+3 _APID 1,61843::462159549
+1 SEX M
+1 FAMC @F483@
 0 @I647@ INDI
-1 NAME [REDACTED]
+1 REFN 881a161d-cc9a-40bb-b9ce-6aad0e8589f1
+1 NAME Richard Burrell /Mathis/
+2 SOUR @S332@
+3 PAGE Richard Burrell Mathis
+3 OBJE @M517@
+3 _APID 1,60873::158922
+2 SOUR @S287@
+3 PAGE Birthdate: 30 Nov 1923; Birth County: Los Angeles
+3 _APID 1,5247::1047303
+2 SOUR @S308@
+3 PAGE Richard Mathis
+3 _APID 1,8837::3527699
+2 SOUR @S385@
+3 PAGE National Archives and Records Administration (NARA); Washing
+4 CONC ton, D.C.; Passenger and Crew Lists of Vessels and Airplane
+4 CONC s Departing from Honolulu, Hawaii, compiled 12/1954 - 05/197
+4 CONC 1; National Archives Microfilm Publication: A3574; Roll: 22
+4 CONC ; Record Group Tit
+3 OBJE @M594@
+3 _APID 1,1502::3604022
+2 SOUR @S324@
+3 PAGE Richard B Mathis
+3 _APID 1,1090::388420
+2 SOUR @S246@
+3 PAGE Richard B Mathis
+3 _APID 1,1100::7856164
+2 SOUR @S337@
+3 PAGE The Orlando Sentinel; Publication Date: 13/ Oct/ 2003; Publi
+4 CONC cation Place: Orlando, Florida, United States of America; UR
+4 CONC L: https://www.newspapers.com/image/268842050/?article=ce0a5
+4 CONC 959-6f06-4da2-8ce1-d6d1d36e1ed7&focus=0.6186812,0.6451025,0.
+4 CONC 73569405,0.82411
+3 _APID 1,61843::461663047
+2 SOUR @S263@
+3 _APID 1,1788::398858963
+2 SOUR @S247@
+3 _APID 1,1732::375201973
+2 SOUR @S299@
+3 PAGE The National Archives in St. Louis, Missouri; St. Louis, Mis
+4 CONC souri; WWII Draft Registration Cards for California, 10/16/1
+4 CONC 940-03/31/1947; Record Group: Records of the Selective Servi
+4 CONC ce System, 147; Box: 1145
+3 OBJE @M613@
+3 _APID 1,2238::18972442
+2 SOUR @S384@
+3 PAGE National Archives and Records Administration; Hospital Admis
+4 CONC sion Card Files, ca. 1970 - ca. 1970; NAI: 570973; Record Gr
+4 CONC oup Number: Records of the Office of the Surgeon General (Ar
+4 CONC my), 1775-1994; Record Group Title: 112
+3 _APID 1,61817::5633707
+2 SOUR @S241@
+3 _APID 1,60525::118188848
+2 SOUR @S265@
+3 _APID 1,8939::7376356
+2 SOUR @S383@
+3 _APID 1,70050::17276502
+1 SEX M
 1 FAMS @F483@
 1 FAMS @F484@
+1 BIRT
+2 DATE 30 NOV 1923
+2 PLAC Long Beach, Los Angeles, California, USA
+3 MAP
+4 LATI N33.767
+4 LONG W118.1892
+2 SOUR @S332@
+3 PAGE Richard Burrell Mathis
+3 OBJE @M517@
+3 _APID 1,60873::158922
+2 SOUR @S287@
+3 PAGE Birthdate: 30 Nov 1923; Birth County: Los Angeles
+3 _APID 1,5247::1047303
+2 SOUR @S385@
+3 PAGE National Archives and Records Administration (NARA); Washing
+4 CONC ton, D.C.; Passenger and Crew Lists of Vessels and Airplane
+4 CONC s Departing from Honolulu, Hawaii, compiled 12/1954 - 05/197
+4 CONC 1; National Archives Microfilm Publication: A3574; Roll: 22
+4 CONC ; Record Group Tit
+3 OBJE @M594@
+3 _APID 1,1502::3604022
+2 SOUR @S263@
+3 _APID 1,1788::398858963
+2 SOUR @S247@
+3 _APID 1,1732::375201973
+2 SOUR @S299@
+3 PAGE The National Archives in St. Louis, Missouri; St. Louis, Mis
+4 CONC souri; WWII Draft Registration Cards for California, 10/16/1
+4 CONC 940-03/31/1947; Record Group: Records of the Selective Servi
+4 CONC ce System, 147; Box: 1145
+3 OBJE @M613@
+3 _APID 1,2238::18972442
+2 SOUR @S384@
+3 PAGE National Archives and Records Administration; Hospital Admis
+4 CONC sion Card Files, ca. 1970 - ca. 1970; NAI: 570973; Record Gr
+4 CONC oup Number: Records of the Office of the Surgeon General (Ar
+4 CONC my), 1775-1994; Record Group Title: 112
+3 _APID 1,61817::5633707
+2 SOUR @S241@
+3 _APID 1,60525::118188848
+2 SOUR @S265@
+3 _APID 1,8939::7376356
+2 SOUR @S383@
+3 _APID 1,70050::17276502
+1 EVEN
+2 TYPE military
+2 DATE 20 DEC 1941
+2 PLAC Los Angeles, Los Angeles, California, USA
+3 MAP
+4 LATI N34.0522
+4 LONG W118.2437
+2 SOUR @S265@
+3 _APID 1,8939::7376356
+1 RESI
+2 DATE 1945
+2 PLAC 812 North Las Palmas Avenue, Hollywood, Los Angeles, Califor
+3 CONC nia, USA
+2 SOUR @S299@
+3 PAGE The National Archives in St. Louis, Missouri; St. Louis, Mis
+4 CONC souri; WWII Draft Registration Cards for California, 10/16/1
+4 CONC 940-03/31/1947; Record Group: Records of the Selective Servi
+4 CONC ce System, 147; Box: 1145
+3 OBJE @M613@
+3 _APID 1,2238::18972442
+2 NOTE Relation to Head: Self
+1 EVEN
+2 TYPE Departure
+2 DATE 18 AUG 1957
+2 PLAC San Francisco, San Francisco, California, USA
+3 MAP
+4 LATI N37.775
+4 LONG W122.4183
+2 SOUR @S385@
+3 PAGE National Archives and Records Administration (NARA); Washing
+4 CONC ton, D.C.; Passenger and Crew Lists of Vessels and Airplane
+4 CONC s Departing from Honolulu, Hawaii, compiled 12/1954 - 05/197
+4 CONC 1; National Archives Microfilm Publication: A3574; Roll: 22
+4 CONC ; Record Group Tit
+3 OBJE @M594@
+3 _APID 1,1502::3604022
+1 RESI
+2 DATE MAY 1973
+2 PLAC Nebraska, USA
+3 MAP
+4 LATI N41.5
+4 LONG W99.2917
+2 SOUR @S246@
+3 PAGE Richard B Mathis
+3 _APID 1,1100::7856164
+1 RESI
+2 DATE 1987
+2 PLAC Lake Mary, Seminole, Florida, USA
+3 MAP
+4 LATI N28.7589
+4 LONG W81.3178
+2 SOUR @S263@
+3 _APID 1,1788::398858963
+1 RESI
+2 DATE 1993
+2 PLAC Lake Mary, Seminole, Florida, USA
+3 MAP
+4 LATI N28.7589
+4 LONG W81.3178
+2 SOUR @S263@
+3 _APID 1,1788::398858963
+1 DEAT
+2 DATE 26 JUN 2010
+2 PLAC Eugene, Lane, Oregon, USA
+3 MAP
+4 LATI N44.0521
+4 LONG W123.0867
+2 SOUR @S241@
+3 _APID 1,60525::118188848
+2 SOUR @S383@
+3 _APID 1,70050::17276502
+1 RESI
+2 PLAC North Palm Beach, Palm Beach, Florida, USA
+3 MAP
+4 LATI N26.8176
+4 LONG W80.082
+2 SOUR @S263@
+3 _APID 1,1788::398858963
+1 RESI
+2 PLAC 2884 Horseshoe Drive, Las Vegas, Clark, Nevada, USA
+2 SOUR @S247@
+3 _APID 1,1732::375201973
 0 @I649@ INDI
 1 REFN f9d5037c-d1fa-4936-a26b-c94c0edd8bbd
 1 NAME Roderick /Mathis/
 1 SEX M
 1 FAMC @F483@
+0 @I664@ INDI
+1 NAME [REDACTED]
+1 NAME [REDACTED]
+1 FAMC @F484@
+0 @I661@ INDI
+1 NAME Ronald /Mathis/
+2 SOUR @S337@
+3 PAGE The Orlando Sentinel; Publication Date: 13/ Oct/ 2003; Publi
+4 CONC cation Place: Orlando, Florida, United States of America; UR
+4 CONC L: https://www.newspapers.com/image/268842050/?article=ce0a5
+4 CONC 959-6f06-4da2-8ce1-d6d1d36e1ed7&focus=0.6186812,0.6451025,0.
+4 CONC 73569405,0.82411
+3 _APID 1,61843::462458137
+1 SEX M
+1 FAMC @F483@
+0 @I665@ INDI
+1 NAME [REDACTED]
+1 NAME [REDACTED]
+1 FAMC @F484@
+1 FAMS @F503@
 0 @zM94z8psRHiOsbsSw1Ll@ INDI
 1 REFN bab27e3e-d5e2-47e9-85ae-2e35d3a533fe
 1 NAME Abigail /Maxfield/
@@ -13188,6 +13503,7 @@
 2 SOUR @S367@
 3 PAGE p. 22; at First Hopkinton Cemetery
 3 OBJE @M574@
+3 _APID 1,16255::25
 2 SOUR @N6EpiaNTS4y7ivSXES5Z@
 3 _APID 1,5769::3190320
 2 SOUR @ZtAQnlXATEaLcqcHzjiT@
@@ -13226,8 +13542,6 @@
 1 FAMC @Y1EqC4eHRReB91rN6BHl@
 1 FAMS @FpSmj7eiSECEkyexIYXl@
 1 FAMS @pIDPVHBGQM6lxsUt5lcg@
-1 OBJE @M159@
-1 OBJE @M160@
 1 BIRT
 2 DATE ABT 1633
 2 PLAC England
@@ -13458,6 +13772,7 @@
 2 SOUR @S367@
 3 PAGE p. 22; at First Hopkinton Cemetery
 3 OBJE @M574@
+3 _APID 1,16255::25
 2 SOUR @S181@
 3 PAGE <bibl>     <author>Frederic Denison</author>,     <title lev
 4 CONC el="m">Westerly (Rhode Island) and its Witnesses, for Two Hu
@@ -16206,6 +16521,7 @@
 3 OBJE @M174@
 3 _APID 1,60856::1882266
 1 _XY 6900.00 75.00
+1 FSID L7KM-WFR
 0 @I391@ INDI
 1 REFN 93da5bfc-9993-481f-bb4d-79449a94105b
 1 NAME John /Moger/
@@ -16703,6 +17019,7 @@
 4 LONG W71.8273
 2 SOUR @91JIXBEJQz6bVLkVlmAF@
 1 _XY 6900.00 225.00
+1 FSID M32B-9YH
 0 @I403@ INDI
 1 REFN 2e77a746-b3d1-40b8-96ff-305cb5e7044b
 1 NAME Nicholas /Moger/
@@ -17833,9 +18150,11 @@
 3 PAGE Year: 1910; Census Place: Hamilton, Madison, New York; Roll
 4 CONC : T624_987; Page: 1A; Enumeration District: 0013; FHL microf
 4 CONC ilm: 1375000
+3 OBJE @M627@
 3 _APID 1,7884::127028945
 2 SOUR @S213@
 3 PAGE Year: 1920; Census Place: Madison, Madison, New York
+3 OBJE @M629@
 3 _APID 1,6061::19078794
 2 SOUR @S224@
 3 PAGE Year: 1930; Census Place: Hamilton, Madison, New York; Roll
@@ -17860,6 +18179,7 @@
 3 PAGE New York State Archives; Albany, New York; State Populatio
 4 CONC n Census Schedules, 1925; Election District: 01; Assembly Di
 4 CONC strict: 01; City: Madison; County: Madison; Page: 11
+3 OBJE @M632@
 3 _APID 1,2704::20748059
 2 SOUR @S263@
 3 _APID 1,1788::226411172
@@ -17883,9 +18203,11 @@
 3 PAGE Year: 1910; Census Place: Hamilton, Madison, New York; Roll
 4 CONC : T624_987; Page: 1A; Enumeration District: 0013; FHL microf
 4 CONC ilm: 1375000
+3 OBJE @M627@
 3 _APID 1,7884::127028945
 2 SOUR @S213@
 3 PAGE Year: 1920; Census Place: Madison, Madison, New York
+3 OBJE @M629@
 3 _APID 1,6061::19078794
 2 SOUR @S224@
 3 PAGE Year: 1930; Census Place: Hamilton, Madison, New York; Roll
@@ -17905,6 +18227,7 @@
 3 PAGE New York State Archives; Albany, New York; State Populatio
 4 CONC n Census Schedules, 1925; Election District: 01; Assembly Di
 4 CONC strict: 01; City: Madison; County: Madison; Page: 11
+3 OBJE @M632@
 3 _APID 1,2704::20748059
 2 SOUR @S263@
 3 _APID 1,1788::226411172
@@ -17922,6 +18245,7 @@
 3 PAGE Year: 1910; Census Place: Hamilton, Madison, New York; Roll
 4 CONC : T624_987; Page: 1A; Enumeration District: 0013; FHL microf
 4 CONC ilm: 1375000
+3 OBJE @M627@
 3 _APID 1,7884::127028945
 2 NOTE Age: 2Marital Status: Single; Relation to Head of House: Dau
 3 CONC ghter
@@ -17933,6 +18257,7 @@
 4 LONG W75.5121
 2 SOUR @S213@
 3 PAGE Year: 1920; Census Place: Madison, Madison, New York
+3 OBJE @M629@
 3 _APID 1,6061::19078794
 2 NOTE Age: 12Marital Status: Single; Relation to Head of House: Da
 3 CONC ughter
@@ -17946,6 +18271,7 @@
 3 PAGE New York State Archives; Albany, New York; State Populatio
 4 CONC n Census Schedules, 1925; Election District: 01; Assembly Di
 4 CONC strict: 01; City: Madison; County: Madison; Page: 11
+3 OBJE @M632@
 3 _APID 1,2704::20748059
 2 NOTE Age: 17Relationship: Daughter
 1 RESI
@@ -18525,6 +18851,7 @@
 4 CONC souri; WWII Draft Registration Cards for Illinois, 10/16/194
 4 CONC 0 - 03/31/1947; Record Group: Records of the Selective Servi
 4 CONC ce System, 147; Box: 1260
+3 OBJE @M635@
 3 _APID 1,2238::40016833
 2 SOUR @S319@
 3 _APID 1,2441::3623700
@@ -18565,6 +18892,7 @@
 4 CONC souri; WWII Draft Registration Cards for Illinois, 10/16/194
 4 CONC 0 - 03/31/1947; Record Group: Records of the Selective Servi
 4 CONC ce System, 147; Box: 1260
+3 OBJE @M635@
 3 _APID 1,2238::40016833
 2 SOUR @S319@
 3 _APID 1,2441::3623700
@@ -20373,6 +20701,7 @@
 4 CONC souri; WWII Draft Registration Cards for California, 10/16/1
 4 CONC 940 - 03/31/1947; Record Group: Records of the Selective Ser
 4 CONC vice System, 147; Box: 1271
+3 OBJE @M634@
 3 _APID 1,2238::17519549
 2 SOUR @S241@
 3 _APID 1,60525::127768161
@@ -20402,6 +20731,7 @@
 4 CONC souri; WWII Draft Registration Cards for California, 10/16/1
 4 CONC 940 - 03/31/1947; Record Group: Records of the Selective Ser
 4 CONC vice System, 147; Box: 1271
+3 OBJE @M634@
 3 _APID 1,2238::17519549
 2 SOUR @S241@
 3 _APID 1,60525::127768161
@@ -20479,6 +20809,7 @@
 4 CONC souri; WWII Draft Registration Cards for California, 10/16/1
 4 CONC 940 - 03/31/1947; Record Group: Records of the Selective Ser
 4 CONC vice System, 147; Box: 1271
+3 OBJE @M634@
 3 _APID 1,2238::17519549
 2 NOTE Relation to Head: Self
 1 RESI
@@ -20960,8 +21291,18 @@
 4 CONC strict: 01; City: Madison; County: Madison; Page: 4
 3 OBJE @m1x2HapLT7ahZoqmUAVC@
 3 _APID 1,2704::20748510
+2 SOUR @S337@
+3 PAGE The News Journal; Publication Date: 17/ Mar/ 2019; Publicati
+4 CONC on Place: Wilmington, Delaware, United States of America; UR
+4 CONC L: https://www.newspapers.com/image/544435899/?article=3fb51
+4 CONC 9fc-b81a-4416-b4dc-250c03733734&focus=0.027137123,0.7171319,
+4 CONC 0.3459657,0.9363
+3 _APID 1,61843::742609427
 2 SOUR @S247@
 3 _APID 1,1732::264399185
+2 SOUR @S299@
+3 OBJE @M606@
+3 _APID 1,2238::303155618
 2 SOUR @S241@
 3 _APID 1,60525::134902276
 2 SOUR @S251@
@@ -20978,6 +21319,7 @@
 1 FAMS @F360@
 1 OBJE @M552@
 1 OBJE @M556@
+1 OBJE @M592@
 1 OBJE @M553@
 1 OBJE @M554@
 1 OBJE @M555@
@@ -21019,6 +21361,9 @@
 3 QUAY 1
 2 SOUR @S247@
 3 _APID 1,1732::264399185
+2 SOUR @S299@
+3 OBJE @M606@
+3 _APID 1,2238::303155618
 2 SOUR @S241@
 3 _APID 1,60525::134902276
 2 SOUR @S251@
@@ -21242,7 +21587,11 @@
 4 CONC : T627_2624; Page: 1A; Enumeration District: 27-19
 3 OBJE @M557@
 3 _APID 1,2442::11197637
+2 SOUR @S299@
+3 OBJE @M606@
+3 _APID 1,2238::303155618
 2 NOTE Date is a guess by Barry,
+2 NOTE Relative Relation to Head: Wife
 1 OCCU handyman
 2 DATE 1937
 2 PLAC Colgate Inn, 15 Payne Street, Hamilton, Madison, New York, U
@@ -21967,6 +22316,13 @@
 4 CONC 0a7879f-aeab-4d8d-be95-217ee5bbd55e&focus=0.03155731,0.48603
 4 CONC 177,0.19183409,0.6
 3 _APID 1,61843::286185349
+2 SOUR @S337@
+3 PAGE The Courier-News; Publication Date: 8/ May/ 1998; Publicatio
+4 CONC n Place: Bridgewater, New Jersey, United States of America
+4 CONC ; URL: https://www.newspapers.com/image/223735351/?article=3
+4 CONC b35e7b2-d7d8-42fd-a221-af8b31720af4&focus=0.500237,0.7565053
+4 CONC 7,0.6552961,0.9614
+3 _APID 1,61843::618435988
 2 SOUR @S263@
 3 _APID 1,1788::308957658
 2 SOUR @S247@
@@ -22001,6 +22357,13 @@
 4 CONC ; Roll: m-t0627-02382; Page: 9A; Enumeration District: 18-12
 3 OBJE @M511@
 3 _APID 1,2442::136983289
+2 SOUR @S337@
+3 PAGE The Courier-News; Publication Date: 8/ May/ 1998; Publicatio
+4 CONC n Place: Bridgewater, New Jersey, United States of America
+4 CONC ; URL: https://www.newspapers.com/image/223735351/?article=3
+4 CONC b35e7b2-d7d8-42fd-a221-af8b31720af4&focus=0.500237,0.7565053
+4 CONC 7,0.6552961,0.9614
+3 _APID 1,61843::618435988
 2 SOUR @S247@
 3 PAGE entry 1
 3 _APID 1,1732::394801582
@@ -22036,6 +22399,13 @@
 3 MAP
 4 LATI N39.6418
 4 LONG W77.72
+2 SOUR @S337@
+3 PAGE The Courier-News; Publication Date: 8/ May/ 1998; Publicatio
+4 CONC n Place: Bridgewater, New Jersey, United States of America
+4 CONC ; URL: https://www.newspapers.com/image/223735351/?article=3
+4 CONC b35e7b2-d7d8-42fd-a221-af8b31720af4&focus=0.500237,0.7565053
+4 CONC 7,0.6552961,0.9614
+3 _APID 1,61843::618435988
 2 SOUR @S241@
 3 _APID 1,60525::71350566
 2 SOUR @S215@
@@ -22642,6 +23012,13 @@
 2 SOUR @S252@
 3 _APID 1,7338::3301194
 2 SOUR @S337@
+3 PAGE The Courier-News; Publication Date: 4/ May/ 1987; Publicatio
+4 CONC n Place: Bridgewater, New Jersey, United States of America
+4 CONC ; URL: https://www.newspapers.com/image/222936657/?article=3
+4 CONC e6e55e8-93b0-499c-a22d-c2cdf18b5b15&focus=0.49822152,0.16732
+4 CONC 475,0.6502554,0.37
+3 _APID 1,61843::579081198
+2 SOUR @S337@
 3 PAGE The Courier-News; Publication Date: 6/ Jul/ 1984; Publicatio
 4 CONC n Place: Bridgewater, New Jersey, United States of America
 4 CONC ; URL: https://www.newspapers.com/image/222825985/?article=9
@@ -22665,6 +23042,13 @@
 4 LONG W74.6099
 2 SOUR @S252@
 3 _APID 1,7338::3301194
+2 SOUR @S337@
+3 PAGE The Courier-News; Publication Date: 4/ May/ 1987; Publicatio
+4 CONC n Place: Bridgewater, New Jersey, United States of America
+4 CONC ; URL: https://www.newspapers.com/image/222936657/?article=3
+4 CONC e6e55e8-93b0-499c-a22d-c2cdf18b5b15&focus=0.49822152,0.16732
+4 CONC 475,0.6502554,0.37
+3 _APID 1,61843::579081198
 2 SOUR @S215@
 3 _APID 1,60901::39176457
 2 SOUR @yAMTVEqOTiKCsMjPyXmb@
@@ -22679,12 +23063,31 @@
 4 LONG W81.7001
 2 SOUR @S252@
 3 _APID 1,7338::3301194
+2 SOUR @S337@
+3 PAGE The Courier-News; Publication Date: 4/ May/ 1987; Publicatio
+4 CONC n Place: Bridgewater, New Jersey, United States of America
+4 CONC ; URL: https://www.newspapers.com/image/222936657/?article=3
+4 CONC e6e55e8-93b0-499c-a22d-c2cdf18b5b15&focus=0.49822152,0.16732
+4 CONC 475,0.6502554,0.37
+3 _APID 1,61843::579081198
 2 SOUR @S215@
 3 _APID 1,60901::39176457
 2 SOUR @yAMTVEqOTiKCsMjPyXmb@
 3 PAGE Number: 157-30-2160; Issue State: New Jersey; Issue Date: 19
 4 CONC 56-1959
 3 _APID 1,3693::60464563
+1 RESI
+2 PLAC Indian Lake Estates, Polk, Florida, USA
+3 MAP
+4 LATI N27.8136
+4 LONG W81.3786
+2 SOUR @S337@
+3 PAGE The Courier-News; Publication Date: 4/ May/ 1987; Publicatio
+4 CONC n Place: Bridgewater, New Jersey, United States of America
+4 CONC ; URL: https://www.newspapers.com/image/222936657/?article=3
+4 CONC e6e55e8-93b0-499c-a22d-c2cdf18b5b15&focus=0.49822152,0.16732
+4 CONC 475,0.6502554,0.37
+3 _APID 1,61843::579081198
 1 _XY 2825.00 2525.00
 0 @I565@ INDI
 1 NAME [REDACTED]
@@ -22843,6 +23246,7 @@
 4 CONC souri; WWII Draft Registration Cards for Illinois, 10/16/194
 4 CONC 0 - 03/31/1947; Record Group: Records of the Selective Servi
 4 CONC ce System, 147; Box: 1260
+3 OBJE @M636@
 3 _APID 1,2238::40016888
 2 SOUR @S241@
 3 _APID 1,60525::94660469
@@ -22898,6 +23302,7 @@
 4 CONC souri; WWII Draft Registration Cards for Illinois, 10/16/194
 4 CONC 0 - 03/31/1947; Record Group: Records of the Selective Servi
 4 CONC ce System, 147; Box: 1260
+3 OBJE @M636@
 3 _APID 1,2238::40016888
 2 SOUR @S241@
 3 _APID 1,60525::94660469
@@ -22956,6 +23361,7 @@
 4 CONC souri; WWII Draft Registration Cards for Illinois, 10/16/194
 4 CONC 0 - 03/31/1947; Record Group: Records of the Selective Servi
 4 CONC ce System, 147; Box: 1260
+3 OBJE @M636@
 3 _APID 1,2238::40016888
 2 NOTE Relation to Head: Self; Relative Relation to Head: Mother
 1 EVEN
@@ -23493,6 +23899,13 @@
 4 CONC 0a7879f-aeab-4d8d-be95-217ee5bbd55e&focus=0.03155731,0.48603
 4 CONC 177,0.19183409,0.6
 3 _APID 1,61843::286356068
+2 SOUR @S337@
+3 PAGE The Orlando Sentinel; Publication Date: 13/ Oct/ 2003; Publi
+4 CONC cation Place: Orlando, Florida, United States of America; UR
+4 CONC L: https://www.newspapers.com/image/268842050/?article=ce0a5
+4 CONC 959-6f06-4da2-8ce1-d6d1d36e1ed7&focus=0.6186812,0.6451025,0.
+4 CONC 73569405,0.82411
+3 _APID 1,61843::634172654
 2 SOUR @S326@
 3 PAGE Presbyterian Historical Society; Philadelphia, Pennsylvania
 4 CONC ; U.S., Presbyterian Church Records, 1701-1907; Accession Nu
@@ -23515,6 +23928,13 @@
 3 MAP
 4 LATI N40.5743
 4 LONG W74.6099
+2 SOUR @S337@
+3 PAGE The Orlando Sentinel; Publication Date: 13/ Oct/ 2003; Publi
+4 CONC cation Place: Orlando, Florida, United States of America; UR
+4 CONC L: https://www.newspapers.com/image/268842050/?article=ce0a5
+4 CONC 959-6f06-4da2-8ce1-d6d1d36e1ed7&focus=0.6186812,0.6451025,0.
+4 CONC 73569405,0.82411
+3 _APID 1,61843::634172654
 2 SOUR @S215@
 3 _APID 1,60901::17991422
 2 SOUR @S303@
@@ -23539,12 +23959,40 @@
 3 MAP
 4 LATI N28.8005
 4 LONG W81.2731
+2 SOUR @S337@
+3 PAGE The Orlando Sentinel; Publication Date: 13/ Oct/ 2003; Publi
+4 CONC cation Place: Orlando, Florida, United States of America; UR
+4 CONC L: https://www.newspapers.com/image/268842050/?article=ce0a5
+4 CONC 959-6f06-4da2-8ce1-d6d1d36e1ed7&focus=0.6186812,0.6451025,0.
+4 CONC 73569405,0.82411
+3 _APID 1,61843::634172654
 2 SOUR @S215@
 3 _APID 1,60901::17991422
 2 SOUR @S303@
 3 PAGE Number: 143-32-9855; Issue State: New Jersey; Issue Date: 19
 4 CONC 57-1959
 3 _APID 1,3693::71631702
+1 BURI
+2 DATE 15 OCT 2003
+2 SOUR @S337@
+3 PAGE The Orlando Sentinel; Publication Date: 13/ Oct/ 2003; Publi
+4 CONC cation Place: Orlando, Florida, United States of America; UR
+4 CONC L: https://www.newspapers.com/image/268842050/?article=ce0a5
+4 CONC 959-6f06-4da2-8ce1-d6d1d36e1ed7&focus=0.6186812,0.6451025,0.
+4 CONC 73569405,0.82411
+3 _APID 1,61843::634172654
+1 RESI
+2 PLAC Sanford, Seminole, Florida, USA
+3 MAP
+4 LATI N28.8005
+4 LONG W81.2731
+2 SOUR @S337@
+3 PAGE The Orlando Sentinel; Publication Date: 13/ Oct/ 2003; Publi
+4 CONC cation Place: Orlando, Florida, United States of America; UR
+4 CONC L: https://www.newspapers.com/image/268842050/?article=ce0a5
+4 CONC 959-6f06-4da2-8ce1-d6d1d36e1ed7&focus=0.6186812,0.6451025,0.
+4 CONC 73569405,0.82411
+3 _APID 1,61843::634172654
 1 _XY 2550.00 2525.00
 0 @XiIS8Y13Q9it0577Fs2n@ INDI
 1 REFN 502f989c-8aee-44b1-8d8b-2e7ffb24c0c7
@@ -24076,10 +24524,16 @@
 1 FAMC @YIqlnp8mREuD4RW6nexn@
 1 FAMS @bDNq0ruKQTShQyuD99jm@
 1 OBJE @9ab5oRFAT4OCCSQncipF@
+1 OBJE @M580@
 1 OBJE @M317@
+1 OBJE @M583@
 1 OBJE @M318@
+1 OBJE @M589@
 1 OBJE @M319@
+1 OBJE @M585@
 1 OBJE @M316@
+1 OBJE @M582@
+1 OBJE @M581@
 1 NOTE _XY 1753 149  _UID fed793b9-5aa0-4033-bbd3-b58ee0283ca1
 1 BIRT
 2 DATE 03 JUN 1884
@@ -24641,6 +25095,21 @@
 2 SOUR @7c8PO7CnR1qikgvyU4fE@
 3 PAGE Date: 1976-12-15
 3 _APID 1,5180::6606741
+2 SOUR @S307@
+3 PAGE California State Library; Sacramento, California; Great Regi
+4 CONC ster of Voters, 1900-1968
+3 OBJE @M609@
+3 _APID 1,61066::53996732
+2 SOUR @S233@
+3 PAGE New York State Department of Health; Albany, NY, USA; New Yo
+4 CONC rk State Birth Index
+3 OBJE @M610@
+3 _APID 1,61667::23686
+2 SOUR @S203@
+3 PAGE New York State Department of Health; Albany, NY, USA; New Yo
+4 CONC rk State Marriage Index; "Lissa S. Mosher"
+3 OBJE @M608@
+3 _APID 1,61632::5621370
 2 SOUR @S220@
 3 OBJE @eM2uyuUHSLyJIutzAPx7@
 3 _APID 1,3212::3148215
@@ -24662,6 +25131,13 @@
 4 CONC strict: 02; City: Sangerfield; County: Oneida; Page: 10
 3 OBJE @E0YQSs1ETg6kXH9iYZtx@
 3 _APID 1,2704::16498997
+2 SOUR @S337@
+3 PAGE The Napa Valley Register; Publication Date: 16/ Dec/ 1976; P
+4 CONC ublication Place: Napa, California, United States of America
+4 CONC ; URL: https://www.newspapers.com/image/563694883/?article=f
+4 CONC 81347b4-5e22-4499-b24c-93c60dfb0233&focus=0.72956735,0.52934
+4 CONC 84,0.96001136,0.
+3 _APID 1,61843::546688320
 2 SOUR @S281@
 3 PAGE 1963
 3 OBJE @qQGuYPQ6SHegzhgk3XP3@
@@ -24717,6 +25193,11 @@
 2 SOUR @7c8PO7CnR1qikgvyU4fE@
 3 PAGE Date: 1976-12-15
 3 _APID 1,5180::6606741
+2 SOUR @S233@
+3 PAGE New York State Department of Health; Albany, NY, USA; New Yo
+4 CONC rk State Birth Index
+3 OBJE @M610@
+3 _APID 1,61667::23686
 2 SOUR @S220@
 3 OBJE @eM2uyuUHSLyJIutzAPx7@
 3 _APID 1,3212::3148215
@@ -24738,6 +25219,13 @@
 4 CONC strict: 02; City: Sangerfield; County: Oneida; Page: 10
 3 OBJE @E0YQSs1ETg6kXH9iYZtx@
 3 _APID 1,2704::16498997
+2 SOUR @S337@
+3 PAGE The Napa Valley Register; Publication Date: 16/ Dec/ 1976; P
+4 CONC ublication Place: Napa, California, United States of America
+4 CONC ; URL: https://www.newspapers.com/image/563694883/?article=f
+4 CONC 81347b4-5e22-4499-b24c-93c60dfb0233&focus=0.72956735,0.52934
+4 CONC 84,0.96001136,0.
+3 _APID 1,61843::546688320
 2 SOUR @S241@
 3 _APID 1,60525::66742272
 2 SOUR @yAMTVEqOTiKCsMjPyXmb@
@@ -24873,6 +25361,17 @@
 2 NOTE Age: 57; Marital Status: Married; Relation to Head of House
 3 CONC : Mother
 1 RESI
+2 DATE 1942
+2 PLAC Terra Bella, Tulare, California, USA
+3 MAP
+4 LATI N35.9625
+4 LONG W119.0442
+2 SOUR @S307@
+3 PAGE California State Library; Sacramento, California; Great Regi
+4 CONC ster of Voters, 1900-1968
+3 OBJE @M609@
+3 _APID 1,61066::53996732
+1 RESI
 2 DATE 1963
 2 PLAC 1410 East Avenue, Napa, Napa, California, USA
 2 SOUR @S281@
@@ -24890,6 +25389,13 @@
 2 SOUR @7c8PO7CnR1qikgvyU4fE@
 3 PAGE Date: 1976-12-15
 3 _APID 1,5180::6606741
+2 SOUR @S337@
+3 PAGE The Napa Valley Register; Publication Date: 16/ Dec/ 1976; P
+4 CONC ublication Place: Napa, California, United States of America
+4 CONC ; URL: https://www.newspapers.com/image/563694883/?article=f
+4 CONC 81347b4-5e22-4499-b24c-93c60dfb0233&focus=0.72956735,0.52934
+4 CONC 84,0.96001136,0.
+3 _APID 1,61843::546688320
 2 SOUR @S241@
 3 _APID 1,60525::66742272
 2 SOUR @yAMTVEqOTiKCsMjPyXmb@
@@ -24899,6 +25405,13 @@
 1 BURI
 2 DATE DEC 1976
 2 PLAC Graham Cemetery, Hubbardsville, Madison, New York, USA
+2 SOUR @S337@
+3 PAGE The Napa Valley Register; Publication Date: 16/ Dec/ 1976; P
+4 CONC ublication Place: Napa, California, United States of America
+4 CONC ; URL: https://www.newspapers.com/image/563694883/?article=f
+4 CONC 81347b4-5e22-4499-b24c-93c60dfb0233&focus=0.72956735,0.52934
+4 CONC 84,0.96001136,0.
+3 _APID 1,61843::546688320
 2 SOUR @S241@
 3 _APID 1,60525::66742272
 1 SSN 561-21-7498
@@ -26582,14 +27095,17 @@
 3 PAGE Year: 1910; Census Place: Hamilton, Madison, New York; Roll
 4 CONC : T624_987; Page: 1A; Enumeration District: 0013; FHL microf
 4 CONC ilm: 1375000
+3 OBJE @M627@
 3 _APID 1,7884::127028946
 2 SOUR @S213@
 3 PAGE Year: 1920; Census Place: Madison, Madison, New York
+3 OBJE @M629@
 3 _APID 1,6061::19078795
 2 SOUR @S224@
 3 PAGE Year: 1930; Census Place: Newport, Herkimer, New York; Roll
 4 CONC : 1442; Page: 6B; Enumeration District: 45; Image: 658.0; FH
 4 CONC L microfilm: 2341177
+3 OBJE @M622@
 3 _APID 1,6224::38162796
 2 SOUR @S221@
 3 PAGE Year: 1940; Census Place: Cazenovia, Madison, New York; Roll
@@ -26615,6 +27131,7 @@
 3 PAGE New York State Archives; Albany, New York; State Populatio
 4 CONC n Census Schedules, 1925; Election District: 01; Assembly Di
 4 CONC strict: 01; City: Madison; County: Madison; Page: 11
+3 OBJE @M632@
 3 _APID 1,2704::20748060
 2 SOUR @S281@
 3 PAGE 1949
@@ -26640,14 +27157,17 @@
 3 PAGE Year: 1910; Census Place: Hamilton, Madison, New York; Roll
 4 CONC : T624_987; Page: 1A; Enumeration District: 0013; FHL microf
 4 CONC ilm: 1375000
+3 OBJE @M627@
 3 _APID 1,7884::127028946
 2 SOUR @S213@
 3 PAGE Year: 1920; Census Place: Madison, Madison, New York
+3 OBJE @M629@
 3 _APID 1,6061::19078795
 2 SOUR @S224@
 3 PAGE Year: 1930; Census Place: Newport, Herkimer, New York; Roll
 4 CONC : 1442; Page: 6B; Enumeration District: 45; Image: 658.0; FH
 4 CONC L microfilm: 2341177
+3 OBJE @M622@
 3 _APID 1,6224::38162796
 2 SOUR @S221@
 3 PAGE Year: 1940; Census Place: Cazenovia, Madison, New York; Roll
@@ -26664,6 +27184,7 @@
 3 PAGE New York State Archives; Albany, New York; State Populatio
 4 CONC n Census Schedules, 1925; Election District: 01; Assembly Di
 4 CONC strict: 01; City: Madison; County: Madison; Page: 11
+3 OBJE @M632@
 3 _APID 1,2704::20748060
 2 SOUR @S241@
 3 _APID 1,60525::142545160
@@ -26681,6 +27202,7 @@
 3 PAGE Year: 1910; Census Place: Hamilton, Madison, New York; Roll
 4 CONC : T624_987; Page: 1A; Enumeration District: 0013; FHL microf
 4 CONC ilm: 1375000
+3 OBJE @M627@
 3 _APID 1,7884::127028946
 2 NOTE Age: 1; Marital Status: Single; Relation to Head of House: S
 3 CONC on
@@ -26692,6 +27214,7 @@
 4 LONG W75.5121
 2 SOUR @S213@
 3 PAGE Year: 1920; Census Place: Madison, Madison, New York
+3 OBJE @M629@
 3 _APID 1,6061::19078795
 2 NOTE Age: 11; Marital Status: Single; Relation to Head of House
 3 CONC : Son
@@ -26705,6 +27228,7 @@
 3 PAGE New York State Archives; Albany, New York; State Populatio
 4 CONC n Census Schedules, 1925; Election District: 01; Assembly Di
 4 CONC strict: 01; City: Madison; County: Madison; Page: 11
+3 OBJE @M632@
 3 _APID 1,2704::20748060
 2 NOTE Age: 16; Relation to Head of House: Son
 1 RESI
@@ -26717,6 +27241,7 @@
 3 PAGE Year: 1930; Census Place: Newport, Herkimer, New York; Roll
 4 CONC : 1442; Page: 6B; Enumeration District: 45; Image: 658.0; FH
 4 CONC L microfilm: 2341177
+3 OBJE @M622@
 3 _APID 1,6224::38162796
 2 NOTE Age: 21; Marital Status: Single; Relation to Head of House
 3 CONC : Son
@@ -28684,6 +29209,11 @@
 4 CONC ; Roll: m-t0627-02382; Page: 9A; Enumeration District: 18-12
 3 OBJE @M511@
 3 _APID 1,2442::136983282
+2 SOUR @S380@
+3 PAGE Year Range: 1984; Surname Range: M-R; Title: New Jersey, Dea
+4 CONC th Indexes, 1904-2000
+3 OBJE @M607@
+3 _APID 1,61260::1724094
 2 SOUR @S285@
 3 PAGE New Jersey State Archives; Trenton, New Jersey; Marriage Ind
 4 CONC exes; Index Type: Bride; Year Range: 1930-1935; Surname Rang
@@ -28713,6 +29243,13 @@
 3 PAGE 1959
 3 OBJE @M295@
 3 _APID 1,2469::1373073412
+2 SOUR @S299@
+3 PAGE The National Archives in St. Louis, Missouri; St. Louis, Mis
+4 CONC souri; WWII Draft Registration Cards for New Jersey, 10/16/1
+4 CONC 940-03/31/1947; Record Group: Records of the Selective Servi
+4 CONC ce System, 147; Box: 464
+3 OBJE @M611@
+3 _APID 1,2238::301482926
 2 SOUR @S329@
 3 PAGE "U.S., School Yearbooks, 1880-2012"; School Name: Hamilton H
 4 CONC igh School; Year: 1927
@@ -28746,6 +29283,11 @@
 4 CONC ; Roll: m-t0627-02382; Page: 9A; Enumeration District: 18-12
 3 OBJE @M511@
 3 _APID 1,2442::136983282
+2 SOUR @S380@
+3 PAGE Year Range: 1984; Surname Range: M-R; Title: New Jersey, Dea
+4 CONC th Indexes, 1904-2000
+3 OBJE @M607@
+3 _APID 1,61260::1724094
 2 SOUR @S216@
 3 PAGE New York State Archives; Albany, New York; State Populatio
 4 CONC n Census Schedules, 1915; Election District: 01; Assembly Di
@@ -28765,6 +29307,13 @@
 4 CONC 0a7879f-aeab-4d8d-be95-217ee5bbd55e&focus=0.03155731,0.48603
 4 CONC 177,0.19183409,0.6
 3 _APID 1,61843::583511104
+2 SOUR @S299@
+3 PAGE The National Archives in St. Louis, Missouri; St. Louis, Mis
+4 CONC souri; WWII Draft Registration Cards for New Jersey, 10/16/1
+4 CONC 940-03/31/1947; Record Group: Records of the Selective Servi
+4 CONC ce System, 147; Box: 464
+3 OBJE @M611@
+3 _APID 1,2238::301482926
 2 SOUR @S329@
 3 PAGE "U.S., School Yearbooks, 1880-2012"; School Name: Hamilton H
 4 CONC igh School; Year: 1927
@@ -28852,6 +29401,17 @@
 3 _APID 1,2442::136983282
 2 NOTE Marital Status: Married; Relation to Head: Head
 1 RESI
+2 DATE 16 OCT 1940
+2 PLAC 128 Talmage Avenue, Bound Brook, Somerset, New Jersey, USA
+2 SOUR @S299@
+3 PAGE The National Archives in St. Louis, Missouri; St. Louis, Mis
+4 CONC souri; WWII Draft Registration Cards for New Jersey, 10/16/1
+4 CONC 940-03/31/1947; Record Group: Records of the Selective Servi
+4 CONC ce System, 147; Box: 464
+3 OBJE @M611@
+3 _APID 1,2238::301482926
+2 NOTE Relative Relation to Head: Wife
+1 RESI
 2 DATE 1959
 2 PLAC Somerville, Somerset, New Jersey, USA
 3 MAP
@@ -28867,6 +29427,11 @@
 3 MAP
 4 LATI N40.5743
 4 LONG W74.6099
+2 SOUR @S380@
+3 PAGE Year Range: 1984; Surname Range: M-R; Title: New Jersey, Dea
+4 CONC th Indexes, 1904-2000
+3 OBJE @M607@
+3 _APID 1,61260::1724094
 2 SOUR @S337@
 3 PAGE The Courier-News; Publication Date: 6/ Jul/ 1984; Publicatio
 4 CONC n Place: Bridgewater, New Jersey, United States of America
@@ -29696,15 +30261,7 @@
 2 SOUR @91JIXBEJQz6bVLkVlmAF@
 1 _XY 14025.00 675.00
 0 @I625@ INDI
-1 REFN dd08bc92-d519-48ee-993f-9dae59a90b2e
-1 NAME Karen Deanna /Musolino/
-2 SOUR @S285@
-3 PAGE New Jersey State Archives; Trenton, New Jersey; Marriage Ind
-4 CONC exes; Index Type: Bride; Year Range: 1992; Surname Range: M-
-4 CONC Z; Karen D Musolino
-3 OBJE @M505@
-3 _APID 1,61253::1084514248
-1 SEX F
+1 NAME [REDACTED]
 1 FAMS @F430@
 0 @wlEBNfTgT4ukPcJ0CQ7q@ INDI
 1 REFN 2b8f127c-4d19-4da8-8e20-458d99f64d10
@@ -30386,6 +30943,13 @@
 0 @I639@ INDI
 1 REFN 3026f492-25e8-4af6-8027-1afa7ef00da8
 1 NAME Angela /Petras/
+2 SOUR @S337@
+3 PAGE The Orlando Sentinel; Publication Date: 8/ Feb/ 2009; Public
+4 CONC ation Place: Orlando, Florida, United States of America; URL
+4 CONC : https://www.newspapers.com/image/268650861/?article=ef264f
+4 CONC 48-174e-4b30-8c80-8c2173cc9cc9&focus=0.6119588,0.076179646,0
+4 CONC .8407054,0.49328
+3 _APID 1,61843::485417119
 2 SOUR @S317@
 3 PAGE Publication Date: 8/ Feb/ 2009; Publication Place: Orlando
 4 CONC , Florida, USA; URL: http://www.legacy.com/OrlandoSentinel/D
@@ -30663,6 +31227,10 @@
 2 SOUR @S241@
 3 _APID 1,60525::5241149
 1 _XY 7475.00 1975.00
+0 @I662@ INDI
+1 NAME /Rinehard/
+1 SEX M
+1 FAMS @F503@
 0 @I577@ INDI
 1 REFN 2a08209e-472f-473b-81c9-ba9115debfdb
 1 NAME Rose G. /Robbins/
@@ -30696,6 +31264,13 @@
 0 @I638@ INDI
 1 REFN 0e9ad2e6-ae76-4dc3-a3e4-da3b3dbbe9d5
 1 NAME Bradley R. /Romanyk/
+2 SOUR @S337@
+3 PAGE The Orlando Sentinel; Publication Date: 8/ Feb/ 2009; Public
+4 CONC ation Place: Orlando, Florida, United States of America; URL
+4 CONC : https://www.newspapers.com/image/268650861/?article=ef264f
+4 CONC 48-174e-4b30-8c80-8c2173cc9cc9&focus=0.6119588,0.076179646,0
+4 CONC .8407054,0.49328
+3 _APID 1,61843::642795440
 2 SOUR @S247@
 3 _APID 1,1732::325529629
 2 SOUR @S241@
@@ -30714,6 +31289,13 @@
 1 FAMS @F479@
 1 BIRT
 2 DATE 09 OCT 1978
+2 SOUR @S337@
+3 PAGE The Orlando Sentinel; Publication Date: 8/ Feb/ 2009; Public
+4 CONC ation Place: Orlando, Florida, United States of America; URL
+4 CONC : https://www.newspapers.com/image/268650861/?article=ef264f
+4 CONC 48-174e-4b30-8c80-8c2173cc9cc9&focus=0.6119588,0.076179646,0
+4 CONC .8407054,0.49328
+3 _APID 1,61843::642795440
 2 SOUR @S247@
 3 _APID 1,1732::325529629
 2 SOUR @S241@
@@ -30741,6 +31323,13 @@
 3 MAP
 4 LATI N28.9005
 4 LONG W81.2637
+2 SOUR @S337@
+3 PAGE The Orlando Sentinel; Publication Date: 8/ Feb/ 2009; Public
+4 CONC ation Place: Orlando, Florida, United States of America; URL
+4 CONC : https://www.newspapers.com/image/268650861/?article=ef264f
+4 CONC 48-174e-4b30-8c80-8c2173cc9cc9&focus=0.6119588,0.076179646,0
+4 CONC .8407054,0.49328
+3 _APID 1,61843::642795440
 2 SOUR @S241@
 3 _APID 1,60525::96918102
 2 SOUR @S317@
@@ -30758,6 +31347,13 @@
 3 MAP
 4 LATI N28.8752
 4 LONG W80.8394
+2 SOUR @S337@
+3 PAGE The Orlando Sentinel; Publication Date: 8/ Feb/ 2009; Public
+4 CONC ation Place: Orlando, Florida, United States of America; URL
+4 CONC : https://www.newspapers.com/image/268650861/?article=ef264f
+4 CONC 48-174e-4b30-8c80-8c2173cc9cc9&focus=0.6119588,0.076179646,0
+4 CONC .8407054,0.49328
+3 _APID 1,61843::642795440
 2 SOUR @S241@
 3 _APID 1,60525::96918102
 2 SOUR @S317@
@@ -30769,6 +31365,13 @@
 0 @I641@ INDI
 1 REFN faaeeabb-838c-40d4-919b-9ae8952b61a5
 1 NAME Caleb /Romanyk/
+2 SOUR @S337@
+3 PAGE The Orlando Sentinel; Publication Date: 8/ Feb/ 2009; Public
+4 CONC ation Place: Orlando, Florida, United States of America; URL
+4 CONC : https://www.newspapers.com/image/268650861/?article=ef264f
+4 CONC 48-174e-4b30-8c80-8c2173cc9cc9&focus=0.6119588,0.076179646,0
+4 CONC .8407054,0.49328
+3 _APID 1,61843::485709487
 2 SOUR @S317@
 3 PAGE Publication Date: 8/ Feb/ 2009; Publication Place: Orlando
 4 CONC , Florida, USA; URL: http://www.legacy.com/OrlandoSentinel/D
@@ -30901,7 +31504,7 @@
 3 PAGE Year: 1900; Census Place: Madison, Madison, New York; Roll
 4 CONC : 1072; Page: 1A; Enumeration District: 0023; FHL microfilm
 4 CONC : 1241072
-3 OBJE @kbLxGmQyQfmolXwNpb54@
+3 OBJE @M625@
 3 _APID 1,7602::66523224
 2 SOUR @S222@
 3 PAGE Year: 1910; Census Place: Madison, Madison, New York; Roll
@@ -30911,40 +31514,52 @@
 3 _APID 1,7884::18184215
 2 SOUR @S213@
 3 PAGE Year: 1920; Census Place: Madison, Madison, New York
-3 OBJE @f114q9ijRHmL9ihy00HO@
+3 OBJE @M628@
 3 _APID 1,6061::19078724
 2 SOUR @S224@
 3 PAGE Year: 1930; Census Place: Utica, Oneida, New York; Roll: 162
 4 CONC 1; Page: 3A; Enumeration District: 66; Image: 442.0; FHL mic
 4 CONC rofilm: 2341355
-3 OBJE @fUEURaYfSUmPBWoGebiR@
+3 OBJE @M623@
 3 _APID 1,6224::43624681
 2 SOUR @S221@
 3 PAGE Year: 1940; Census Place: Hamilton, Madison, New York; Roll
 4 CONC : T627_2624; Page: 11A; Enumeration District: 27-18
-3 OBJE @VjBGac7HQVaM0ulDOsRq@
+3 OBJE @M624@
 3 _APID 1,2442::11195945
 2 SOUR @7c8PO7CnR1qikgvyU4fE@
 3 PAGE Date: 1971-08-09
 3 _APID 1,5180::12210175
+2 SOUR @S203@
+3 PAGE New York State Department of Health; Albany, NY, USA; New Yo
+4 CONC rk State Marriage Index; "Clarence Scott"
+3 OBJE @M605@
+3 _APID 1,61632::5631252
 2 SOUR @S242@
 3 PAGE New York State Archives; Albany, New York; State Populatio
 4 CONC n Census Schedules, 1905; Election District: E.D. 01; City
 4 CONC : Madison; County: Madison; Page: 5
-3 OBJE @AtUG3M5QRZWkRjvHf5Qt@
+3 OBJE @M630@
 3 _APID 1,7364::1103408
 2 SOUR @S216@
 3 PAGE New York State Archives; Albany, New York; State Populatio
 4 CONC n Census Schedules, 1915; Election District: 02; Assembly Di
 4 CONC strict: 01; City: Madison; County: Madison; Page: 06
-3 OBJE @jSKEVzg9RmOWnoxOuk7B@
+3 OBJE @M631@
 3 _APID 1,2703::12007922
 2 SOUR @IatrsKHUQdmGOYci7sP2@
 3 PAGE New York State Archives; Albany, New York; State Populatio
 4 CONC n Census Schedules, 1925; Election District: 02; Assembly Di
 4 CONC strict: 02; City: Sangerfield; County: Oneida; Page: 10
-3 OBJE @E0YQSs1ETg6kXH9iYZtx@
+3 OBJE @M633@
 3 _APID 1,2704::16498996
+2 SOUR @S337@
+3 PAGE The Napa Valley Register; Publication Date: 16/ Dec/ 1976; P
+4 CONC ublication Place: Napa, California, United States of America
+4 CONC ; URL: https://www.newspapers.com/image/563694883/?article=f
+4 CONC 81347b4-5e22-4499-b24c-93c60dfb0233&focus=0.72956735,0.52934
+4 CONC 84,0.96001136,0.
+3 _APID 1,61843::186501697
 2 SOUR @S281@
 3 PAGE 1963
 3 OBJE @qQGuYPQ6SHegzhgk3XP3@
@@ -30984,7 +31599,7 @@
 3 PAGE Year: 1900; Census Place: Madison, Madison, New York; Roll
 4 CONC : 1072; Page: 1A; Enumeration District: 0023; FHL microfilm
 4 CONC : 1241072
-3 OBJE @kbLxGmQyQfmolXwNpb54@
+3 OBJE @M625@
 3 _APID 1,7602::66523224
 2 SOUR @S222@
 3 PAGE Year: 1910; Census Place: Madison, Madison, New York; Roll
@@ -30994,18 +31609,18 @@
 3 _APID 1,7884::18184215
 2 SOUR @S213@
 3 PAGE Year: 1920; Census Place: Madison, Madison, New York
-3 OBJE @f114q9ijRHmL9ihy00HO@
+3 OBJE @M628@
 3 _APID 1,6061::19078724
 2 SOUR @S224@
 3 PAGE Year: 1930; Census Place: Utica, Oneida, New York; Roll: 162
 4 CONC 1; Page: 3A; Enumeration District: 66; Image: 442.0; FHL mic
 4 CONC rofilm: 2341355
-3 OBJE @fUEURaYfSUmPBWoGebiR@
+3 OBJE @M623@
 3 _APID 1,6224::43624681
 2 SOUR @S221@
 3 PAGE Year: 1940; Census Place: Hamilton, Madison, New York; Roll
 4 CONC : T627_2624; Page: 11A; Enumeration District: 27-18
-3 OBJE @VjBGac7HQVaM0ulDOsRq@
+3 OBJE @M624@
 3 _APID 1,2442::11195945
 2 SOUR @7c8PO7CnR1qikgvyU4fE@
 3 PAGE Date: 1971-08-09
@@ -31014,19 +31629,19 @@
 3 PAGE New York State Archives; Albany, New York; State Populatio
 4 CONC n Census Schedules, 1905; Election District: E.D. 01; City
 4 CONC : Madison; County: Madison; Page: 5
-3 OBJE @AtUG3M5QRZWkRjvHf5Qt@
+3 OBJE @M630@
 3 _APID 1,7364::1103408
 2 SOUR @S216@
 3 PAGE New York State Archives; Albany, New York; State Populatio
 4 CONC n Census Schedules, 1915; Election District: 02; Assembly Di
 4 CONC strict: 01; City: Madison; County: Madison; Page: 06
-3 OBJE @jSKEVzg9RmOWnoxOuk7B@
+3 OBJE @M631@
 3 _APID 1,2703::12007922
 2 SOUR @IatrsKHUQdmGOYci7sP2@
 3 PAGE New York State Archives; Albany, New York; State Populatio
 4 CONC n Census Schedules, 1925; Election District: 02; Assembly Di
 4 CONC strict: 02; City: Sangerfield; County: Oneida; Page: 10
-3 OBJE @E0YQSs1ETg6kXH9iYZtx@
+3 OBJE @M633@
 3 _APID 1,2704::16498996
 2 SOUR @S241@
 3 _APID 1,60525::66742239
@@ -31056,7 +31671,7 @@
 3 PAGE Year: 1900; Census Place: Madison, Madison, New York; Roll
 4 CONC : 1072; Page: 1A; Enumeration District: 0023; FHL microfilm
 4 CONC : 1241072
-3 OBJE @kbLxGmQyQfmolXwNpb54@
+3 OBJE @M625@
 3 _APID 1,7602::66523224
 2 NOTE Age: 15; Marital Status: Single; Relation to Head of House
 3 CONC : Son
@@ -31070,7 +31685,7 @@
 3 PAGE New York State Archives; Albany, New York; State Populatio
 4 CONC n Census Schedules, 1905; Election District: E.D. 01; City
 4 CONC : Madison; County: Madison; Page: 5
-3 OBJE @AtUG3M5QRZWkRjvHf5Qt@
+3 OBJE @M630@
 3 _APID 1,7364::1103408
 2 NOTE Relation to Head of House: Head
 1 RESI
@@ -31097,7 +31712,7 @@
 3 PAGE New York State Archives; Albany, New York; State Populatio
 4 CONC n Census Schedules, 1915; Election District: 02; Assembly Di
 4 CONC strict: 01; City: Madison; County: Madison; Page: 06
-3 OBJE @jSKEVzg9RmOWnoxOuk7B@
+3 OBJE @M631@
 3 _APID 1,2703::12007922
 2 NOTE Age: 30; Relation to Head of House: Head
 1 RESI
@@ -31119,7 +31734,7 @@
 4 LONG W75.5121
 2 SOUR @S213@
 3 PAGE Year: 1920; Census Place: Madison, Madison, New York
-3 OBJE @f114q9ijRHmL9ihy00HO@
+3 OBJE @M628@
 3 _APID 1,6061::19078724
 2 NOTE Age: 35; Marital Status: Married; Relation to Head of House
 3 CONC : Head
@@ -31133,7 +31748,7 @@
 3 PAGE New York State Archives; Albany, New York; State Populatio
 4 CONC n Census Schedules, 1925; Election District: 02; Assembly Di
 4 CONC strict: 02; City: Sangerfield; County: Oneida; Page: 10
-3 OBJE @E0YQSs1ETg6kXH9iYZtx@
+3 OBJE @M633@
 3 _APID 1,2704::16498996
 2 NOTE Age: 41; Relation to Head of House: Head
 1 RESI
@@ -31146,7 +31761,7 @@
 3 PAGE Year: 1930; Census Place: Utica, Oneida, New York; Roll: 162
 4 CONC 1; Page: 3A; Enumeration District: 66; Image: 442.0; FHL mic
 4 CONC rofilm: 2341355
-3 OBJE @fUEURaYfSUmPBWoGebiR@
+3 OBJE @M623@
 3 _APID 1,6224::43624681
 2 NOTE Age: 45; Marital Status: Married; Relation to Head of House
 3 CONC : Head
@@ -31159,7 +31774,7 @@
 2 SOUR @S221@
 3 PAGE Year: 1940; Census Place: Hamilton, Madison, New York; Roll
 4 CONC : T627_2624; Page: 11A; Enumeration District: 27-18
-3 OBJE @VjBGac7HQVaM0ulDOsRq@
+3 OBJE @M624@
 3 _APID 1,2442::11195945
 1 RESI
 2 DATE 01 APR 1940
@@ -31170,7 +31785,7 @@
 2 SOUR @S221@
 3 PAGE Year: 1940; Census Place: Hamilton, Madison, New York; Roll
 4 CONC : T627_2624; Page: 11A; Enumeration District: 27-18
-3 OBJE @VjBGac7HQVaM0ulDOsRq@
+3 OBJE @M624@
 3 _APID 1,2442::11195945
 2 NOTE Age: 56; Marital Status: Married; Relation to Head of House
 3 CONC : Father
@@ -31323,13 +31938,13 @@
 1 NAME Grace /Scott/
 2 SOUR @S213@
 3 PAGE Year: 1920; Census Place: Madison, Madison, New York
-3 OBJE @f114q9ijRHmL9ihy00HO@
+3 OBJE @M628@
 3 _APID 1,6061::19078728
 2 SOUR @S224@
 3 PAGE Year: 1930; Census Place: Utica, Oneida, New York; Roll: 162
 4 CONC 1; Page: 3A; Enumeration District: 66; Image: 442.0; FHL mic
 4 CONC rofilm: 2341355
-3 OBJE @fUEURaYfSUmPBWoGebiR@
+3 OBJE @M623@
 3 _APID 1,6224::43624699
 2 SOUR @S221@
 3 PAGE Year: 1940; Census Place: Sangerfield, Oneida, New York; Rol
@@ -31343,8 +31958,15 @@
 3 PAGE New York State Archives; Albany, New York; State Populatio
 4 CONC n Census Schedules, 1925; Election District: 02; Assembly Di
 4 CONC strict: 02; City: Sangerfield; County: Oneida; Page: 10
-3 OBJE @E0YQSs1ETg6kXH9iYZtx@
+3 OBJE @M633@
 3 _APID 1,2704::16499002
+2 SOUR @S337@
+3 PAGE The Napa Valley Register; Publication Date: 16/ Dec/ 1976; P
+4 CONC ublication Place: Napa, California, United States of America
+4 CONC ; URL: https://www.newspapers.com/image/563694883/?article=f
+4 CONC 81347b4-5e22-4499-b24c-93c60dfb0233&focus=0.72956735,0.52934
+4 CONC 84,0.96001136,0.
+3 _APID 1,61843::186842016
 2 SOUR @S281@
 3 PAGE 1957
 3 OBJE @M297@
@@ -31362,13 +31984,13 @@
 2 PLAC NY
 2 SOUR @S213@
 3 PAGE Year: 1920; Census Place: Madison, Madison, New York
-3 OBJE @f114q9ijRHmL9ihy00HO@
+3 OBJE @M628@
 3 _APID 1,6061::19078728
 2 SOUR @S224@
 3 PAGE Year: 1930; Census Place: Utica, Oneida, New York; Roll: 162
 4 CONC 1; Page: 3A; Enumeration District: 66; Image: 442.0; FHL mic
 4 CONC rofilm: 2341355
-3 OBJE @fUEURaYfSUmPBWoGebiR@
+3 OBJE @M623@
 3 _APID 1,6224::43624699
 2 SOUR @S221@
 3 PAGE Year: 1940; Census Place: Sangerfield, Oneida, New York; Rol
@@ -31382,7 +32004,7 @@
 3 PAGE New York State Archives; Albany, New York; State Populatio
 4 CONC n Census Schedules, 1925; Election District: 02; Assembly Di
 4 CONC strict: 02; City: Sangerfield; County: Oneida; Page: 10
-3 OBJE @E0YQSs1ETg6kXH9iYZtx@
+3 OBJE @M633@
 3 _APID 1,2704::16499002
 2 SOUR @yAMTVEqOTiKCsMjPyXmb@
 3 PAGE Number: 096-12-5755; Issue State: New York; Issue Date: Befo
@@ -31396,7 +32018,7 @@
 4 LONG W75.5121
 2 SOUR @S213@
 3 PAGE Year: 1920; Census Place: Madison, Madison, New York
-3 OBJE @f114q9ijRHmL9ihy00HO@
+3 OBJE @M628@
 3 _APID 1,6061::19078728
 2 NOTE Age: 3Age: 5 6/12; Marital Status: Single; Relation to Hea
 3 CONC d of House: Daughter
@@ -31407,7 +32029,7 @@
 3 PAGE New York State Archives; Albany, New York; State Populatio
 4 CONC n Census Schedules, 1925; Election District: 02; Assembly Di
 4 CONC strict: 02; City: Sangerfield; County: Oneida; Page: 10
-3 OBJE @E0YQSs1ETg6kXH9iYZtx@
+3 OBJE @M633@
 3 _APID 1,2704::16499002
 2 NOTE Age: 08Relation to Head of House: Daughter
 1 RESI
@@ -31417,7 +32039,7 @@
 3 PAGE Year: 1930; Census Place: Utica, Oneida, New York; Roll: 162
 4 CONC 1; Page: 3A; Enumeration District: 66; Image: 442.0; FHL mic
 4 CONC rofilm: 2341355
-3 OBJE @fUEURaYfSUmPBWoGebiR@
+3 OBJE @M623@
 3 _APID 1,6224::43624699
 2 NOTE Age: 13Marital Status: Single; Relation to Head of House: Da
 3 CONC ughter
@@ -32317,6 +32939,9 @@
 3 OBJE @c0pRpJZVSoecdL4z4fwc@
 3 _APID 1,3824::67003
 1 _XY 3050.00 575.00
+0 @I668@ INDI
+1 NAME [REDACTED]
+1 FAMS @F505@
 0 @3QdT3c71QO6Hyw33IW1r@ INDI
 1 REFN 1b178754-92dc-466b-8404-61dc9241ac23
 1 NAME Anthony /Slocum/
@@ -33439,22 +34064,24 @@
 0 @I486@ INDI
 1 NAME [REDACTED]
 1 FAMS @F382@
-0 @I483@ INDI
-1 NAME [REDACTED]
-1 FAMS @F386@
 0 @I629@ INDI
-1 REFN 497f7624-5563-4e6f-b274-e4bcc15011aa
-1 NAME Debra /Straub/
-1 SEX F
+1 NAME [REDACTED]
 1 FAMC @F386@
+1 FAMS @F505@
 0 @I630@ INDI
-1 REFN 38102f06-7004-44cb-b72a-d657bb3e699d
-1 NAME Diane /Straub/
-1 SEX F
+1 NAME [REDACTED]
 1 FAMC @F386@
+1 FAMS @F506@
 0 @I631@ INDI
 1 REFN b10173a1-15a9-4218-939c-e108e2bd0330
-1 NAME Donna /Straub/
+1 NAME Donna Lisa /Straub/
+2 SOUR @S337@
+3 PAGE The Courier-News; Publication Date: 4/ May/ 1987; Publicatio
+4 CONC n Place: Bridgewater, New Jersey, United States of America
+4 CONC ; URL: https://www.newspapers.com/image/222936657/?article=3
+4 CONC e6e55e8-93b0-499c-a22d-c2cdf18b5b15&focus=0.49822152,0.16732
+4 CONC 475,0.6502554,0.37
+3 _APID 1,61843::258967388
 1 SEX F
 1 FAMC @F386@
 0 @I624@ INDI
@@ -33462,9 +34089,18 @@
 1 FAMC @F386@
 0 @I632@ INDI
 1 REFN dc6cf365-4d22-4a5e-9379-fd74300c3ff7
-1 NAME Ronald /Straub/
+1 NAME Ronald R. /Straub/
+2 SOUR @S337@
+3 PAGE The Courier-News; Publication Date: 4/ May/ 1987; Publicatio
+4 CONC n Place: Bridgewater, New Jersey, United States of America
+4 CONC ; URL: https://www.newspapers.com/image/222936657/?article=3
+4 CONC e6e55e8-93b0-499c-a22d-c2cdf18b5b15&focus=0.49822152,0.16732
+4 CONC 475,0.6502554,0.37
 1 SEX M
 1 FAMC @F386@
+0 @I483@ INDI
+1 NAME [REDACTED]
+1 FAMS @F386@
 0 @Cdtyz5EPSoWLD452xRfa@ INDI
 1 REFN ca1c7c13-2ed6-43df-a578-21d77f9a508d
 1 NAME Edward /Swift/
@@ -36697,21 +37333,27 @@
 1 CHIL @I623@
 2 _FREL Natural
 2 _MREL Natural
+1 CHIL @I650@
+2 _FREL Natural
+2 _MREL Natural
 1 CHIL @I627@
 2 _FREL Natural
 2 _MREL Natural
 1 CHIL @I628@
 2 _FREL Natural
 2 _MREL Natural
-1 CHIL @I650@
-2 _FREL Natural
-2 _MREL Natural
+0 @F507@ FAM
+1 HUSB @I623@
+1 WIFE @I667@
 0 @F487@ FAM
 1 HUSB @I650@
+1 WIFE @I666@
 1 CHIL @I651@
 2 _FREL Natural
+2 _MREL Natural
 1 CHIL @I652@
 2 _FREL Natural
+2 _MREL Natural
 0 @Jdd3sX1MR0iVDQbISzEI@ FAM
 1 REFN fc3be594-c103-42e3-95f4-7637646c99c3
 1 HUSB @O6cUmdBbRWWqLxJvbI4f@
@@ -36919,6 +37561,9 @@
 3 _APID 1,7602::55837969
 2 SOUR @Hm17MLj2SaOPgMVpc2Wa@
 3 PAGE Mosher/Douglass Family Bible
+0 @F506@ FAM
+1 HUSB @I669@
+1 WIFE @I630@
 0 @F482@ FAM
 1 HUSB @I646@
 1 WIFE @I448@
@@ -37330,6 +37975,9 @@
 2 SOUR @S291@
 3 PAGE Salem J Johnson
 3 _APID 1,2561::257222
+0 @F504@ FAM
+1 HUSB @I663@
+1 WIFE @I635@
 0 @F396@ FAM
 1 HUSB @I491@
 1 WIFE @I492@
@@ -37461,10 +38109,22 @@
 0 @F484@ FAM
 1 HUSB @I647@
 1 WIFE @I648@
+1 CHIL @I664@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I665@
+2 _FREL Natural
+2 _MREL Natural
 0 @F483@ FAM
 1 HUSB @I647@
 1 WIFE @I448@
 1 CHIL @I649@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I661@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I670@
 2 _FREL Natural
 2 _MREL Natural
 0 @PzZHkd8sRsWKctNQ4JuE@ FAM
@@ -38912,6 +39572,9 @@
 3 MAP
 4 LATI N42.9118
 4 LONG W75.6682
+0 @F503@ FAM
+1 HUSB @I662@
+1 WIFE @I665@
 0 @5fmwUAeuRy6meK83M8Oh@ FAM
 1 REFN 52d0d5e7-ab8e-4cc5-ade2-c15db84087d9
 1 HUSB @yXLbm5KDSs63XocRNT27@
@@ -38957,6 +39620,19 @@
 2 _MREL Natural
 1 MARR
 2 DATE 31 OCT 1903
+2 PLAC Earlville, Madison, New York, USA
+3 MAP
+4 LATI N42.7446
+4 LONG W75.5458
+2 SOUR @S203@
+3 PAGE New York State Department of Health; Albany, NY, USA; New Yo
+4 CONC rk State Marriage Index; "Clarence Scott"
+3 OBJE @M605@
+3 _APID 1,61632::5631252
+2 SOUR @S203@
+3 PAGE New York State Department of Health; Albany, NY, USA; New Yo
+4 CONC rk State Marriage Index; "Lissa S. Mosher"
+3 OBJE @M608@
 0 @F384@ FAM
 1 HUSB @I479@
 1 WIFE @I478@
@@ -39100,6 +39776,9 @@
 1 CHIL @5Bv66yyuQY6xJpdKLV89@
 2 _FREL Natural
 2 _MREL Natural
+0 @F505@ FAM
+1 HUSB @I668@
+1 WIFE @I629@
 0 @OGFRRpB7QAmcyHlYg96g@ FAM
 1 REFN 1791f4bc-af93-4a9e-8c25-75fdbf054ec6
 1 HUSB @3QdT3c71QO6Hyw33IW1r@
@@ -39296,16 +39975,16 @@
 0 @F386@ FAM
 1 HUSB @I483@
 1 WIFE @I449@
-1 CHIL @I629@
-2 _FREL Natural
-2 _MREL Natural
-1 CHIL @I630@
-2 _FREL Natural
-2 _MREL Natural
 1 CHIL @I631@
 2 _FREL Natural
 2 _MREL Natural
 1 CHIL @I632@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I629@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I630@
 2 _FREL Natural
 2 _MREL Natural
 1 CHIL @I624@
@@ -40105,7 +40784,8 @@
 2 CONT [does this indicate a transaction before 1769 that wasn't pa
 2 CONC id?]<br />
 0 @S367@ SOUR
-1 REPO @R9@
+1 REFN df96a1bf-d272-4398-8c60-28a50e443d04
+1 REPO @R1@
 1 TITL Dedication of Ministers' Monument : Aug. 28, 1899
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations Inc; Location: Provo, UT; Date: 2005
@@ -40452,6 +41132,12 @@
 1 TITL Hampton, N.H. Area Genealogy
 1 AUTH Lane Memorial Library, Hampton, NH, USA
 1 PUBL http://www.hampton.lib.nh.us/genealog/
+0 @S385@ SOUR
+1 REPO @R9@
+1 TITL Honolulu, Hawaii, Passenger and Crew Lists, 1900-1959
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
+2 CONC e: 2009
 0 @S359@ SOUR
 1 REFN 151483a1-e220-4a3b-b548-93f95ef37381
 1 TITL How to Bring Up a Baby: A Hand Book for Mothers [handwritin
@@ -40790,6 +41476,12 @@
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2013
+0 @S380@ SOUR
+1 REPO @R9@
+1 TITL New Jersey, Death Index, 1901-2017
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.; Location: Lehi, UT, USA; Date
+2 CONC : 2016
 0 @S285@ SOUR
 1 REPO @R9@
 1 TITL New Jersey, Marriage Index, 1901-2016
@@ -41702,6 +42394,12 @@
 1 TITL Steele Family History
 1 AUTH Steele, Ted
 1 PUBL Ancestry World Tree at Ancestry.com
+0 @S382@ SOUR
+1 REPO @R9@
+1 TITL Texas, Divorce Index, 1968-2014
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations Inc; Location: Provo, UT, USA; Date
+2 CONC : 2005
 0 @S186@ SOUR
 1 REPO @R9@
 1 TITL U.S. and Canada, Passenger and Immigration Lists Index, 1500
@@ -41728,7 +42426,7 @@
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2011
 0 @S262@ SOUR
-1 REPO @R1@
+1 REPO @R9@
 1 TITL U.S. Phone and Address Directories, 1993-2002
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations Inc; Location: Provo, UT, USA; Date
@@ -41751,6 +42449,12 @@
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Lehi, UT, USA; Date
 2 CONC : 2011
+0 @S384@ SOUR
+1 REPO @R9@
+1 TITL U.S. WWII Hospital Admission Card Files, 1942-1954
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.; Location: Lehi, UT, USA; Date
+2 CONC : 2019
 0 @S295@ SOUR
 1 REPO @R9@
 1 TITL U.S., Army Transport Service, Passenger Lists, 1910-1939
@@ -42968,6 +43672,12 @@
 1 REFN db8154f6-57aa-44df-add8-8f77b240fee4
 1 REPO @R1@
 1 TITL Web: New York, Find A Grave Index, 1660-2012
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
+2 CONC e: 2012
+0 @S383@ SOUR
+1 REPO @R9@
+1 TITL Web: Obituary Daily Times Index, 1995-2016
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2012
@@ -44302,16 +45012,6 @@
 2 FORM jpg
 2 TITL record-image_3Q9M-CS4X-XQS9-K
 2 _DATE 1/11/2018 5:45:57 PM
-0 @M159@ OBJE
-1 FILE http://trees.ancestry.com/rd?f=document&guid=5ac8c8fd-aebe-4
-2 CONC 6c6-a6c6-c8969d5ffeff&tid=61408113&pid=17
-2 FORM jpg
-2 TITL Hugh Moger/Mosher (1629-1713) - Immigrant
-0 @M160@ OBJE
-1 FILE http://trees.ancestry.com/rd?f=document&guid=a54ecf70-0b9b-4
-2 CONC bec-8c4f-13d683381900&tid=61408113&pid=17
-2 FORM jpg
-2 TITL Hugh Moger/Mosher&#39;s confusing Parentage
 0 @M161@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher Media\So
 2 CONC merset, England, Church of England Baptisms, Marriages, an
@@ -47142,4 +47842,430 @@
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher Media\dv
 2 CONC m_GenMono002734-00044-1.jpg
 2 FORM jpg
+0 @M580@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher Media\Co
+2 CONC lvin-Mosher marriage record.jpg
+2 FORM jpg
+2 TITL Colvin-Mosher marriage record
+2 _DATE 29 Jul 1908
+0 @M581@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher Media\Pe
+2 CONC arl COLVIN Mosher obituary.jpg
+2 FORM jpg
+2 TITL Pearl COLVIN Mosher obituary
+2 _DATE 19 Sept 1968
+2 _TEXT Utica Daily Press,  page 32
+0 @M582@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher Media\Pe
+2 CONC arl and Lewis formal photo(1).jpg
+2 FORM jpg
+2 TITL Pearl and Lewis formal photo
+2 _DATE Circa 1948
+0 @M583@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher Media\Le
+2 CONC wis Mosher(1).jpg
+2 FORM jpg
+2 TITL Lewis Mosher
+2 _DATE Circa 1907
+2 _TEXT Lewis Mosher, probably before his marriage to Pearl
+0 @M584@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher Media\Ru
+2 CONC ssell Louis Cacciola.jpg
+2 FORM jpg
+2 TITL Russell Louis Cacciola
+2 _TEXT "U.S., School Yearbooks, 1880-2012"; School Name: Smithsbur
+3 CONC g High School; Year: 1973
+0 @M585@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher Media\Pe
+2 CONC arl and Lewis - wedding(1).jpg
+2 FORM jpg
+2 TITL Pearl and Lewis - wedding
+2 _DATE 29 July 1908
+0 @M586@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher Media\Br
+2 CONC uce Cacciola.jpg
+2 FORM jpg
+2 TITL Bruce Cacciola
+2 _TEXT "U.S., School Yearbooks, 1880-2012"; School Name: Smithsbur
+3 CONC g High School; Year: 1974
+0 @M587@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher Media\Ka
+2 CONC ren Musolino.jpg
+2 FORM jpg
+2 TITL Karen Musolino
+2 _TEXT "U.S., School Yearbooks, 1880-2012"; School Name: Somervill
+3 CONC e High School; Year: 1976
+0 @M588@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher Media\Lo
+2 CONC uis Mario Cacciola Jr.jpg
+2 FORM jpg
+2 TITL Louis Mario Cacciola Jr
+2 _TEXT "U.S., School Yearbooks, 1880-2012"; School Name: Smithsbur
+3 CONC g High School; Year: 1974
+0 @M589@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher Media\Pe
+2 CONC arl and Lewis(1).jpg
+2 FORM jpg
+2 TITL Pearl and Lewis
+2 _DATE Circa 1952
+0 @M590@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher Media\Ke
+2 CONC vin Cacciola.jpg
+2 FORM jpg
+2 TITL Kevin Cacciola
+2 _TEXT "U.S., School Yearbooks, 1880-2012"; School Name: Smithsbur
+3 CONC g High School; Year: 1982
+0 @M591@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher Media\Di
+2 CONC ana Straub.jpg
+2 FORM jpg
+2 TITL Diana Straub
+2 _TEXT "U.S., School Yearbooks, 1880-2012"; School Name: Hillsborou
+3 CONC gh High School; Year: 1976
+0 @M592@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher Media\Fr
+2 CONC ederick Mosher headstone(1).jpg
+2 FORM jpg
+2 TITL Frederick Mosher headstone
+2 _DATE 06 Aug 2016
+0 @M593@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher Media\Di
+2 CONC ana Strub.jpg
+2 FORM jpg
+2 TITL Diana Strub
+2 _TEXT "U.S., School Yearbooks, 1880-2012"; School Name: Hillsborou
+3 CONC gh High School; Year: 1975
+0 @M594@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher Media\Ho
+2 CONC nolulu, Hawaii, Passenger and Crew Lists, 1900-1959.jpg
+2 FORM jpg
+2 TITL Honolulu, Hawaii, Passenger and Crew Lists, 1900-1959
+2 _TEXT National Archives and Records Administration (NARA); Washing
+3 CONC ton, D.C.; Passenger and Crew Lists of Vessels and Airplane
+3 CONC s Departing from Honolulu, Hawaii, compiled 12/1954 - 05/197
+3 CONC 1; National Archives Microfilm Publication: A3574; Roll: 22
+3 CONC ; Record Group Tit
+0 @M595@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher Media\U.
+2 CONC S., School Yearbooks, 1900-1999(11).jpg
+2 FORM jpg
+2 TITL U.S., School Yearbooks, 1900-1999
+2 _TEXT "U.S., School Yearbooks, 1880-2012"; School Name: Somervill
+3 CONC e High School; Year: 1976
+0 @M596@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher Media\U.
+2 CONC S., School Yearbooks, 1900-1999(12).jpg
+2 FORM jpg
+2 TITL U.S., School Yearbooks, 1900-1999
+2 _TEXT "U.S., School Yearbooks, 1880-2012"; School Name: Smithsbur
+3 CONC g High School; Year: 1974
+0 @M597@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher Media\U.
+2 CONC S., School Yearbooks, 1900-1999(13).jpg
+2 FORM jpg
+2 TITL U.S., School Yearbooks, 1900-1999
+2 _TEXT "U.S., School Yearbooks, 1880-2012"; School Name: Smithsbur
+3 CONC g High School; Year: 1974
+0 @M598@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher Media\U.
+2 CONC S., School Yearbooks, 1900-1999(14).jpg
+2 FORM jpg
+2 TITL U.S., School Yearbooks, 1900-1999
+2 _TEXT "U.S., School Yearbooks, 1880-2012"; School Name: Smithsbur
+3 CONC g High School; Year: 1977
+0 @M599@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher Media\U.
+2 CONC S., School Yearbooks, 1900-1999(15).jpg
+2 FORM jpg
+2 TITL U.S., School Yearbooks, 1900-1999
+2 _TEXT "U.S., School Yearbooks, 1880-2012"; School Name: Smithsbur
+3 CONC g High School; Year: 1974
+0 @M600@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher Media\U.
+2 CONC S., School Yearbooks, 1900-1999(16).jpg
+2 FORM jpg
+2 TITL U.S., School Yearbooks, 1900-1999
+2 _TEXT "U.S., School Yearbooks, 1880-2012"; School Name: Smithsbur
+3 CONC g High School; Year: 1982
+0 @M601@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher Media\U.
+2 CONC S., School Yearbooks, 1900-1999(17).jpg
+2 FORM jpg
+2 TITL U.S., School Yearbooks, 1900-1999
+2 _TEXT "U.S., School Yearbooks, 1880-2012"; School Name: Hillsborou
+3 CONC gh High School; Year: 1976
+0 @M602@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher Media\U.
+2 CONC S., School Yearbooks, 1900-1999(18).jpg
+2 FORM jpg
+2 TITL U.S., School Yearbooks, 1900-1999
+2 _TEXT "U.S., School Yearbooks, 1880-2012"; School Name: Hillsborou
+3 CONC gh High School; Year: 1975
+0 @M603@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher Media\U.
+2 CONC S., School Yearbooks, 1900-1999(19).jpg
+2 FORM jpg
+2 TITL U.S., School Yearbooks, 1900-1999
+2 _TEXT "U.S., School Yearbooks, 1880-2012"; School Name: Smithsbur
+3 CONC g High School; Year: 1982
+0 @M604@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher Media\19
+2 CONC 40 United States Federal Census(16).jpg
+2 FORM jpg
+2 TITL 1940 United States Federal Census
+2 _TEXT Year: 1940; Census Place: New York, Kings, New York; Roll: m
+3 CONC -t0627-02609; Page: 5A; Enumeration District: 24-2386
+0 @M605@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher Media\Ne
+2 CONC w York State, Marriage Index, 1881-1967(17).jpg
+2 FORM jpg
+2 TITL New York State, Marriage Index, 1881-1967
+2 _TEXT New York State Department of Health; Albany, NY, USA; New Yo
+3 CONC rk State Marriage Index
+0 @M606@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher Media\U.
+2 CONC S. WWII Draft Cards Young Men, 1940-1947.jpg
+2 FORM jpg
+2 TITL U.S. WWII Draft Cards Young Men, 1940-1947
+0 @M607@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher Media\Ne
+2 CONC w Jersey, Death Index, 1901-2017.jpg
+2 FORM jpg
+2 TITL New Jersey, Death Index, 1901-2017
+2 _TEXT Year Range: 1984; Surname Range: M-R; Title: New Jersey, Dea
+3 CONC th Indexes, 1904-2000
+0 @M608@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher Media\Ne
+2 CONC w York State, Marriage Index, 1881-1967(18).jpg
+2 FORM jpg
+2 TITL New York State, Marriage Index, 1881-1967
+2 _TEXT New York State Department of Health; Albany, NY, USA; New Yo
+3 CONC rk State Marriage Index
+0 @M609@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher Media\Ca
+2 CONC lifornia, Voter Registrations, 1900-1968(2).jpg
+2 FORM jpg
+2 TITL California, Voter Registrations, 1900-1968
+2 _TEXT California State Library; Sacramento, California; Great Regi
+3 CONC ster of Voters, 1900-1968
+0 @M610@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher Media\Ne
+2 CONC w York State, Birth Index, 1881-1942(6).jpg
+2 FORM jpg
+2 TITL New York State, Birth Index, 1881-1942
+2 _TEXT New York State Department of Health; Albany, NY, USA; New Yo
+3 CONC rk State Birth Index
+0 @M611@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher Media\U.
+2 CONC S. WWII Draft Cards Young Men, 1940-1947(1).jpg
+2 FORM jpg
+2 TITL U.S. WWII Draft Cards Young Men, 1940-1947
+2 _TEXT The National Archives in St. Louis, Missouri; St. Louis, Mis
+3 CONC souri; WWII Draft Registration Cards for New Jersey, 10/16/1
+3 CONC 940-03/31/1947; Record Group: Records of the Selective Servi
+3 CONC ce System, 147; Box: 464
+0 @M612@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher Media\U.
+2 CONC S., School Yearbooks, 1900-1999(20).jpg
+2 FORM jpg
+2 TITL U.S., School Yearbooks, 1900-1999
+2 _TEXT "U.S., School Yearbooks, 1880-2012"; School Name: Cazenovi
+3 CONC a High School; Year: 1960
+0 @M613@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher Media\U.
+2 CONC S. WWII Draft Cards Young Men, 1940-1947(2).jpg
+2 FORM jpg
+2 TITL U.S. WWII Draft Cards Young Men, 1940-1947
+2 _TEXT The National Archives in St. Louis, Missouri; St. Louis, Mis
+3 CONC souri; WWII Draft Registration Cards for California, 10/16/1
+3 CONC 940-03/31/1947; Record Group: Records of the Selective Servi
+3 CONC ce System, 147; Box: 1145
+0 @M614@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher Media\U.
+2 CONC S., School Yearbooks, 1900-1999(21).jpg
+2 FORM jpg
+2 TITL U.S., School Yearbooks, 1900-1999
+2 _TEXT "U.S., School Yearbooks, 1880-2012"; School Name: Smithsbur
+3 CONC g High School; Year: 1974
+0 @M615@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher Media\U.
+2 CONC S., School Yearbooks, 1900-1999(22).jpg
+2 FORM jpg
+2 TITL U.S., School Yearbooks, 1900-1999
+2 _TEXT "U.S., School Yearbooks, 1880-2012"; School Name: Smithsbur
+3 CONC g High School; Year: 1974
+0 @M616@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher Media\Ne
+2 CONC w York State, Birth Index, 1881-1942(7).jpg
+2 FORM jpg
+2 TITL New York State, Birth Index, 1881-1942
+2 _TEXT New York State Department of Health; Albany, NY, USA; New Yo
+3 CONC rk State Birth Index
+0 @M617@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher Media\U.
+2 CONC S., School Yearbooks, 1900-1999(23).jpg
+2 FORM jpg
+2 TITL U.S., School Yearbooks, 1900-1999
+2 _TEXT "U.S., School Yearbooks, 1880-2012"; School Name: Smithsbur
+3 CONC g High School; Year: 1973
+0 @M618@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher Media\U.
+2 CONC S., School Yearbooks, 1900-1999(24).jpg
+2 FORM jpg
+2 TITL U.S., School Yearbooks, 1900-1999
+2 _TEXT "U.S., School Yearbooks, 1880-2012"; School Name: Hamilton H
+3 CONC igh School; Year: 1971
+0 @M619@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher Media\U.
+2 CONC S., School Yearbooks, 1900-1999(25).jpg
+2 FORM jpg
+2 TITL U.S., School Yearbooks, 1900-1999
+2 _TEXT "U.S., School Yearbooks, 1880-2012"; School Name: Hamilton H
+3 CONC igh School; Year: 1960
+0 @M620@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher Media\U.
+2 CONC S., School Yearbooks, 1900-1999(26).jpg
+2 FORM jpg
+2 TITL U.S., School Yearbooks, 1900-1999
+2 _TEXT "U.S., School Yearbooks, 1880-2012"; School Name: Smithsbur
+3 CONC g High School; Year: 1973
+0 @M621@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher Media\U.
+2 CONC S. WWII Draft Cards Young Men, 1940-1947(3).jpg
+2 FORM jpg
+2 TITL U.S. WWII Draft Cards Young Men, 1940-1947
+0 @M622@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher Media\19
+2 CONC 30 United States Federal Census(13).jpg
+2 FORM jpg
+2 TITL 1930 United States Federal Census
+2 _DATE 5/29/2020 4:01:01 AM
+2 _TEXT Year: 1930; Census Place: Newport, Herkimer, New York; Roll
+3 CONC : 1442; Page: 6B; Enumeration District: 45; Image: 658.0; FH
+3 CONC L microfilm: 2341177
+0 @M623@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher Media\19
+2 CONC 30 United States Federal Census(14).jpg
+2 FORM jpg
+2 TITL 1930 United States Federal Census
+2 _DATE 5/29/2020 4:01:12 AM
+2 _TEXT Year: 1930; Census Place: Utica, Oneida, New York; Roll: 162
+3 CONC 1; Page: 3A; Enumeration District: 66; Image: 442.0; FHL mic
+3 CONC rofilm: 2341355
+0 @M624@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher Media\19
+2 CONC 40 United States Federal Census(17).jpg
+2 FORM jpg
+2 TITL 1940 United States Federal Census
+2 _DATE 5/29/2020 4:01:38 AM
+2 _TEXT Year: 1940; Census Place: Hamilton, Madison, New York; Roll
+3 CONC : T627_2624; Page: 11A; Enumeration District: 27-18
+0 @M625@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher Media\19
+2 CONC 00 United States Federal Census(13).jpg
+2 FORM jpg
+2 TITL 1900 United States Federal Census
+2 _DATE 5/29/2020 4:08:51 AM
+2 _TEXT Year: 1900; Census Place: Madison, Madison, New York; Roll
+3 CONC : 1072; Page: 1A; Enumeration District: 0023; FHL microfilm
+3 CONC : 1241072
+0 @M627@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher Media\19
+2 CONC 10 United States Federal Census(14).jpg
+2 FORM jpg
+2 TITL 1910 United States Federal Census
+2 _DATE 5/29/2020 4:09:19 AM
+2 _TEXT Year: 1910; Census Place: Hamilton, Madison, New York; Roll
+3 CONC : T624_987; Page: 1A; Enumeration District: 0013; FHL microf
+3 CONC ilm: 1375000
+0 @M628@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher Media\19
+2 CONC 20 United States Federal Census(15).jpg
+2 FORM jpg
+2 TITL 1920 United States Federal Census
+2 _DATE 5/29/2020 4:09:46 AM
+2 _TEXT Year: 1920; Census Place: Madison, Madison, New York
+0 @M629@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher Media\19
+2 CONC 20 United States Federal Census(16).jpg
+2 FORM jpg
+2 TITL 1920 United States Federal Census
+2 _DATE 5/29/2020 4:10:07 AM
+2 _TEXT Year: 1920; Census Place: Madison, Madison, New York
+0 @M630@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher Media\Ne
+2 CONC w York, State Census, 1905(6).jpg
+2 FORM jpg
+2 TITL New York, State Census, 1905
+2 _DATE 5/29/2020 4:10:47 AM
+2 _TEXT New York State Archives; Albany, New York; State Populatio
+3 CONC n Census Schedules, 1905; Election District: E.D. 01; City
+3 CONC : Madison; County: Madison; Page: 5
+0 @M631@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher Media\Ne
+2 CONC w York, State Census, 1915(6).jpg
+2 FORM jpg
+2 TITL New York, State Census, 1915
+2 _DATE 5/29/2020 4:11:01 AM
+2 _TEXT New York State Archives; Albany, New York; State Populatio
+3 CONC n Census Schedules, 1915; Election District: 02; Assembly Di
+3 CONC strict: 01; City: Madison; County: Madison; Page: 06
+0 @M632@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher Media\Ne
+2 CONC w York, State Census, 1925(8).jpg
+2 FORM jpg
+2 TITL New York, State Census, 1925
+2 _DATE 5/29/2020 4:11:12 AM
+2 _TEXT New York State Archives; Albany, New York; State Populatio
+3 CONC n Census Schedules, 1925; Election District: 01; Assembly Di
+3 CONC strict: 01; City: Madison; County: Madison; Page: 11
+0 @M633@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher Media\Ne
+2 CONC w York, State Census, 1925(9).jpg
+2 FORM jpg
+2 TITL New York, State Census, 1925
+2 _DATE 5/29/2020 4:13:00 AM
+2 _TEXT New York State Archives; Albany, New York; State Populatio
+3 CONC n Census Schedules, 1925; Election District: 02; Assembly Di
+3 CONC strict: 02; City: Sangerfield; County: Oneida; Page: 10
+0 @M634@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher Media\U
+2 CONC S WWII Draft Cards Young Men, 1940-1947.jpg
+2 FORM jpg
+2 TITL U.S. WWII Draft Cards Young Men, 1940-1947
+2 _DATE 5/29/2020 4:14:00 AM
+2 _TEXT The National Archives in St. Louis, Missouri; St. Louis, Mis
+3 CONC souri; WWII Draft Registration Cards for California, 10/16/1
+3 CONC 940 - 03/31/1947; Record Group: Records of the Selective Ser
+3 CONC vice System, 147; Box: 1271
+0 @M635@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher Media\U
+2 CONC S WWII Draft Cards Young Men, 1940-1947(1).jpg
+2 FORM jpg
+2 TITL U.S. WWII Draft Cards Young Men, 1940-1947
+2 _DATE 5/29/2020 4:19:43 AM
+2 _TEXT The National Archives in St. Louis, Missouri; St. Louis, Mis
+3 CONC souri; WWII Draft Registration Cards for Illinois, 10/16/194
+3 CONC 0 - 03/31/1947; Record Group: Records of the Selective Servi
+3 CONC ce System, 147; Box: 1260
+0 @M636@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher Media\U
+2 CONC S WWII Draft Cards Young Men, 1940-1947(2).jpg
+2 FORM jpg
+2 TITL U.S. WWII Draft Cards Young Men, 1940-1947
+2 _DATE 5/29/2020 4:20:00 AM
+2 _TEXT The National Archives in St. Louis, Missouri; St. Louis, Mis
+3 CONC souri; WWII Draft Registration Cards for Illinois, 10/16/194
+3 CONC 0 - 03/31/1947; Record Group: Records of the Selective Servi
+3 CONC ce System, 147; Box: 1260
+0 @M637@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher Media\U
+2 CONC S WWII Draft Cards Young Men, 1940-1947(3).jpg
+2 FORM jpg
+2 TITL U.S. WWII Draft Cards Young Men, 1940-1947
+2 _DATE 5/29/2020 4:20:13 AM
+2 _TEXT The National Archives in St. Louis, Missouri; St. Louis, Mis
+3 CONC souri; WWII Draft Registration Cards for Illinois, 10/16/194
+3 CONC 0 - 03/31/1947; Record Group: Records of the Selective Servi
+3 CONC ce System, 147; Box: 1260
 0 TRLR
