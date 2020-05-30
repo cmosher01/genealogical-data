@@ -7,16 +7,16 @@
 2 CONC , USA.
 1 SUBM @Umy2qBWIRUiwVSS6Hcn4@
 1 SOUR FTM
-2 VERS 23.2.0.1540
+2 VERS 24.0.1.1252
 2 NAME Family Tree Maker for Windows
 2 CORP The Software MacKiev Company
 3 ADDR 30 Union Wharf
 4 CONT Boston, MA 02109
 3 PHON (617) 227-6681
 1 DEST FTM
-1 FILE Disosway_2019-10-08-03-07-42.ftm.ged
-1 DATE 08 OCT 2019
-2 TIME 03:08:30
+1 FILE Disosway_2020-05-30-02-22-20.ftm.ged
+1 DATE 30 MAY 2020
+2 TIME 02:20:15
 0 @Umy2qBWIRUiwVSS6Hcn4@ SUBM
 1 NAME Christopher Alan Mosher
 2 EMAIL cmosher01@@gmail.com
@@ -845,9 +845,6 @@
 0 @I278@ INDI
 1 NAME [REDACTED]
 1 FAMC @F203@
-0 @I279@ INDI
-1 NAME [REDACTED]
-1 FAMC @F203@
 0 @I277@ INDI
 1 NAME [REDACTED]
 1 FAMC @F203@
@@ -1296,6 +1293,7 @@
 3 QUAY 1
 1 SEX F
 1 FAMC @Z67hCPz6TGKiau2H0P7m@
+1 FAMS @F206@
 1 BAPM
 2 DATE 03 JUN 1722
 2 PLAC Reformed Dutch Church, 54 Port Richmond Road, Port Richmond
@@ -2597,6 +2595,7 @@
 3 _APID 1,2469::1213593657
 2 SOUR @S144@
 3 PAGE 1944
+3 OBJE @M227@
 3 _APID 1,2469::1483967027
 2 SOUR @S144@
 3 PAGE 1944 (2nd index entry)
@@ -2880,6 +2879,7 @@
 4 LATI N40.7744
 4 LONG W73.9721
 2 SOUR @S144@
+3 OBJE @M225@
 2 SOUR @S144@
 3 PAGE 1925
 3 OBJE @M213@
@@ -2959,6 +2959,7 @@
 4 LATI N40.7744
 4 LONG W73.9721
 2 SOUR @S144@
+3 OBJE @M226@
 2 SOUR @S144@
 3 PAGE 1943
 3 OBJE @M214@
@@ -2971,6 +2972,7 @@
 4 LONG W73.9721
 2 SOUR @S144@
 3 PAGE 1944
+3 OBJE @M227@
 3 _APID 1,2469::1483967027
 2 SOUR @S144@
 3 PAGE 1944 (2nd index entry)
@@ -3093,6 +3095,7 @@
 2 SOUR @S144@
 3 PAGE "Brooklyn, New York, City Directory, 1885," p. 319, image 37
 4 CONC 7
+3 OBJE @M228@
 3 _APID 1,2469::55439152
 2 SOUR @S144@
 3 PAGE "Brooklyn, New York, City Directory, 1886," p. 255, image 15
@@ -3185,6 +3188,8 @@
 1 FAMC @jyCZPToSQBOp98OgIwfM@
 1 FAMS @wgqzNudqQiahTIVJVBRt@
 1 OBJE @lQZruK9OQc6iCg7yWAJ7@
+1 OBJE @M222@
+1 OBJE @M221@
 1 BIRT
 2 DATE AUG 1859
 2 PLAC New Bern, Craven, North Carolina, USA
@@ -3422,6 +3427,7 @@
 2 SOUR @S144@
 3 PAGE "Brooklyn, New York, City Directory, 1885," p. 319, image 37
 4 CONC 7
+3 OBJE @M228@
 3 _APID 1,2469::55439152
 1 RESI
 2 DATE 1886
@@ -3769,6 +3775,7 @@
 3 QUAY 3
 2 NOTE possibly he moved in with his son after his wife died
 1 _XY 143515 2148
+1 _PHOTO @M221@
 0 @4swstAy1TN2u50tsMR0O@ INDI
 1 REFN 6d48ead0-2950-4741-a15a-894cbd19140b
 1 NAME Israel /Disosway/
@@ -4066,6 +4073,7 @@
 3 QUAY 1
 1 SEX M
 1 FAMC @dCFJk1wFR1GPmafi9pJI@
+1 FAMS @F205@
 1 BIRT
 2 DATE 1765
 2 SOUR @hpjMLgmJTOiRswjAwKqF@
@@ -4951,6 +4959,13 @@
 3 PAGE New York City Municipal Archives; New York, New York; Boroug
 4 CONC h: Brooklyn; Kenneth Disosway
 3 _APID 1,61406::3364108
+2 SOUR @S200@
+3 PAGE The Boston Globe; Publication Date: 5/ Apr/ 2010; Publicatio
+4 CONC n Place: Boston, Massachusetts, United States of America; UR
+4 CONC L: https://www.newspapers.com/image/443991980/?article=7aa11
+4 CONC b2d-d1fa-4673-8adc-1f00612d9502&focus=0.81401515,0.41607916,
+4 CONC 0.98515785,0.507
+3 _APID 1,61843::654679543
 2 SOUR @S144@
 3 OBJE @M205@
 3 _APID 1,2469::47121131
@@ -4983,6 +4998,7 @@
 1 FAMS @F203@
 1 FAMS @F202@
 1 OBJE @M207@
+1 OBJE @M220@
 1 BIRT
 2 DATE 06 MAY 1932
 2 PLAC Caledonian Campus, Brooklyn Hospital Center, 100 Parkside Av
@@ -5061,6 +5077,13 @@
 3 MAP
 4 LATI N42.4604
 4 LONG W71.3489
+2 SOUR @S200@
+3 PAGE The Boston Globe; Publication Date: 5/ Apr/ 2010; Publicatio
+4 CONC n Place: Boston, Massachusetts, United States of America; UR
+4 CONC L: https://www.newspapers.com/image/443991980/?article=7aa11
+4 CONC b2d-d1fa-4673-8adc-1f00612d9502&focus=0.81401515,0.41607916,
+4 CONC 0.98515785,0.507
+3 _APID 1,61843::654679543
 2 SOUR @S137@
 3 PAGE Publication Date: 04/ 12/ 2010; Web edition: http://www.lega
 4 CONC cy.com/obituaries/wickedlocal-concord/obituary.aspx?n=kennet
@@ -5196,6 +5219,13 @@
 3 OBJE @M125@
 3 _APID 1,6061::10757105
 2 NOTE Relation to Head: Daughter; Residence Marital Status: Single
+1 OCCU medical doctor intern
+2 DATE 1925
+2 PLAC James Walker Hospital, Wilmington, New Hanover, North Caroli
+3 CONC na, USA
+2 SOUR @S199@
+3 PAGE 61: 3, p. 145
+3 _LINK https://archive.org/details/northcarolinamed612000/page/145/
 1 EVEN
 2 TYPE Departure
 2 DATE 30 AUG 1930
@@ -6038,6 +6068,9 @@
 3 PAGE Disosway
 3 OBJE @M142@
 3 _APID 1,60090::1668877
+0 @I279@ INDI
+1 NAME [REDACTED]
+1 FAMC @F203@
 0 @BvZA7PniSG23Lbf2kwvZ@ INDI
 1 REFN 021cd446-3677-42c7-a21f-fa8d254254f3
 1 NAME Montford Boylan /Disosway/
@@ -6742,6 +6775,19 @@
 4 CONC h Carolina Death Certificates; William Justice Disosway
 3 OBJE @M133@
 3 _APID 1,1121::651937
+0 @I284@ INDI
+1 NAME Ann /Doty/
+1 SEX F
+1 FAMC @F206@
+1 FAMS @F205@
+1 BIRT
+2 DATE 1768
+0 @I285@ INDI
+1 NAME Moses /Doty/
+1 SEX M
+1 FAMS @F206@
+1 BIRT
+2 DATE 1731
 0 @I243@ INDI
 1 REFN ff0a1ea1-7ed1-4bb7-9235-3ab6d91eb3af
 1 NAME Carol Virginia /Dunn/
@@ -7687,7 +7733,7 @@
 4 CONC 715, 1897-1957; Microfilm Roll: Roll 8154; Line: 21; Page Nu
 4 CONC mber: 28
 3 OBJE @M166@
-3 _APID 1,7488::__TODO__
+3 _APID 1,7488::3028779573
 2 SOUR @lDuG27hSTACWHq7z54Ba@
 3 _APID 1,60525::110556420
 2 SOUR @kRuFRPwjRGW6pfPCjXRF@
@@ -7709,7 +7755,7 @@
 4 CONC 715, 1897-1957; Microfilm Roll: Roll 8154; Line: 21; Page Nu
 4 CONC mber: 28
 3 OBJE @M166@
-3 _APID 1,7488::__TODO__
+3 _APID 1,7488::3028779573
 2 SOUR @lDuG27hSTACWHq7z54Ba@
 3 _APID 1,60525::110556420
 2 SOUR @kRuFRPwjRGW6pfPCjXRF@
@@ -7750,7 +7796,7 @@
 4 CONC 715, 1897-1957; Microfilm Roll: Roll 8154; Line: 21; Page Nu
 4 CONC mber: 28
 3 OBJE @M166@
-3 _APID 1,7488::__TODO__
+3 _APID 1,7488::3028779573
 1 EVEN
 2 TYPE Arrival
 2 DATE 31 MAY 1952
@@ -7760,7 +7806,7 @@
 4 CONC 715, 1897-1957; Microfilm Roll: Roll 8154; Line: 21; Page Nu
 4 CONC mber: 28
 3 OBJE @M166@
-3 _APID 1,7488::__TODO__
+3 _APID 1,7488::3028779573
 1 DEAT
 2 DATE 10 OCT 1994
 2 PLAC Shepherdstown, Jefferson, West Virginia, USA
@@ -9170,6 +9216,8 @@
 0 @I280@ INDI
 1 REFN fe7bd519-2785-4eb7-9eb4-4f662a4b6fd6
 1 NAME Katherine Hollier /Mosedale/
+2 SOUR @S204@
+3 _APID 1,60541::158911466
 2 SOUR @S161@
 3 PAGE New York State Department of Health; Albany, NY, USA; New Yo
 4 CONC rk State Birth Index
@@ -9179,6 +9227,13 @@
 3 PAGE New York City Municipal Archives; New York, New York; Boroug
 4 CONC h: Brooklyn; Katherine Mosedale
 3 _APID 1,61406::903364108
+2 SOUR @S200@
+3 PAGE The Boston Globe; Publication Date: 15/ Jul/ 1997; Publicati
+4 CONC on Place: Boston, Massachusetts, United States of America; U
+4 CONC RL: https://www.newspapers.com/image/441951682/?article=2625
+4 CONC 06bf-2e3f-4e92-bc23-eff64abd4ff5&focus=0.34306946,0.17552494
+4 CONC ,0.5021672,0.253
+3 _APID 1,61843::623588651
 2 SOUR @S175@
 3 QUAY 1
 2 SOUR @S144@
@@ -9202,6 +9257,8 @@
 3 MAP
 4 LATI N42.8864
 4 LONG W78.8784
+2 SOUR @S204@
+3 _APID 1,60541::158911466
 2 SOUR @S161@
 3 PAGE New York State Department of Health; Albany, NY, USA; New Yo
 4 CONC rk State Birth Index
@@ -9240,6 +9297,15 @@
 3 MAP
 4 LATI N41.9584
 4 LONG W70.6672
+2 SOUR @S204@
+3 _APID 1,60541::158911466
+2 SOUR @S200@
+3 PAGE The Boston Globe; Publication Date: 15/ Jul/ 1997; Publicati
+4 CONC on Place: Boston, Massachusetts, United States of America; U
+4 CONC RL: https://www.newspapers.com/image/441951682/?article=2625
+4 CONC 06bf-2e3f-4e92-bc23-eff64abd4ff5&focus=0.34306946,0.17552494
+4 CONC ,0.5021672,0.253
+3 _APID 1,61843::623588651
 2 SOUR @S175@
 3 PAGE p. 25
 3 QUAY 1
@@ -9249,6 +9315,13 @@
 3 PAGE Number: 119-28-0547; Issue State: New York; Issue Date: 1952
 4 CONC -1954
 3 _APID 1,3693::15049198
+1 BURI
+2 PLAC Hamburg, Erie, New York, USA
+3 MAP
+4 LATI N42.7159
+4 LONG W78.8295
+2 SOUR @S204@
+3 _APID 1,60541::158911466
 1 RESI
 2 PLAC 18 Sharps Drive, Plymouth, Plymouth, Massachusetts, USA
 2 SOUR @S172@
@@ -11289,6 +11362,13 @@
 0 @I276@ INDI
 1 REFN a4e04159-0221-44d1-8c58-33955790bb3c
 1 NAME Eliza /Tan/
+2 SOUR @S200@
+3 PAGE The Boston Globe; Publication Date: 5/ Apr/ 2010; Publicatio
+4 CONC n Place: Boston, Massachusetts, United States of America; UR
+4 CONC L: https://www.newspapers.com/image/443991980/?article=7aa11
+4 CONC b2d-d1fa-4673-8adc-1f00612d9502&focus=0.81401515,0.41607916,
+4 CONC 0.98515785,0.507
+3 _APID 1,61843::696173745
 2 SOUR @S137@
 3 PAGE Publication Date: 12/ Apr/ 2010; Publication Place: Concord
 4 CONC , Massachusetts, USA; URL: http://www.legacy.com/obituaries/
@@ -12971,6 +13051,9 @@
 2 NOTE Bond #25783
 3 CONT Bondsman: Albert G. Hubb
 3 CONT Witness: J. G. Stanly
+0 @F205@ FAM
+1 HUSB @B7fwfboHRqGmmwKta5Oa@
+1 WIFE @I284@
 0 @F168@ FAM
 1 HUSB @2FXSVkJcRauyCWJUaelp@
 1 WIFE @I207@
@@ -13219,6 +13302,12 @@
 2 _FREL Natural
 2 _MREL Natural
 1 CHIL @I229@
+2 _FREL Natural
+2 _MREL Natural
+0 @F206@ FAM
+1 HUSB @I285@
+1 WIFE @thPUAq5VRv2sQIObh0Gv@
+1 CHIL @I284@
 2 _FREL Natural
 2 _MREL Natural
 0 @o0HvXRpqTuWUUaLW0KIN@ FAM
@@ -14629,6 +14718,13 @@
 2 CONT "A Glance Behind the Scenes" (rich!) Sent sealed, 15c. (silv
 2 CONC er). H. Disosway, Polloksville, No. Ca.
 2 CONT </p>
+0 @S204@ SOUR
+1 REPO @t1Wm6WiqTK6oX61EAKx1@
+1 TITL Global, Find A Grave Index for Burials at Sea and other Sele
+2 CONC ct Burial Locations, 1300s-Current
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
+2 CONC e: 2012
 0 @N8lU6HBuRoSCDrgi2xFv@ SOUR
 1 REFN 0cb15e12-60e7-4dd5-876e-903e97f0b146
 1 TITL Gravestone of Disosway, Israel, and Justice, Ann Maria
@@ -15210,6 +15306,15 @@
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2015
+0 @S200@ SOUR
+1 REPO @t1Wm6WiqTK6oX61EAKx1@
+1 TITL Newspapers.com Obituary Index, 1800s-current
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations Inc; Location: Lehi, UT, USA; Date
+2 CONC : 2019
+0 @S199@ SOUR
+1 TITL North Carolina Medical Journal
+1 NOTE <line />
 0 @S140@ SOUR
 1 REPO @t1Wm6WiqTK6oX61EAKx1@
 1 TITL North Carolina, Death Certificates, 1909-1976
@@ -17157,6 +17262,12 @@
 2 FORM jpg
 2 TITL U.S. City Directories, 1821-1989
 1 REFN 5ffce338-b701-4ade-a586-6405607ae6bc
+0 @M106@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Disosway Media\
+2 CONC U.S. City Directories, 1822-1995(3).jpg
+2 FORM jpg
+2 TITL U.S. City Directories, 1822-1995
+1 REFN 8563ef2d-75c0-4078-9a54-5c03d64a312d
 0 @Vq5GpIOyS66CqO4tIZFd@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Disosway Media\
 2 CONC U.S. City Directories, 1822-1995(6).jpg
@@ -17923,4 +18034,58 @@
 2 TITL New York, New York, Marriage License Indexes, 1907-1995
 2 _TEXT New York City Municipal Archives; New York, New York; Boroug
 3 CONC h: Brooklyn
+0 @M220@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Disosway Media\
+2 CONC Kenneth George Disosway(1).jpg
+2 FORM jpg
+2 TITL Kenneth George Disosway
+0 @M221@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Disosway Media\
+2 CONC Disosway_Harry_Hamilton.jpg
+2 FORM jpg
+2 TITL Disosway_Harry_Hamilton
+0 @M222@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Disosway Media\
+2 CONC Bio from Find A Grave.htm
+2 FORM jpg
+2 TITL Bio from Find A Grave
+0 @M223@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Disosway Media\
+2 CONC 1850 United States Federal Census.jpg
+2 FORM jpg
+2 TITL 1850 United States Federal Census
+2 _DATE 5/30/2020 2:18:45 AM
+0 @M224@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Disosway Media\
+2 CONC 1860 United States Federal Census.jpg
+2 FORM jpg
+2 TITL 1860 United States Federal Census
+2 _DATE 5/30/2020 2:19:03 AM
+0 @M225@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Disosway Media\
+2 CONC US City Directories, 1822-1995.jpg
+2 FORM jpg
+2 TITL U.S. City Directories, 1822-1995
+2 _DATE 5/30/2020 2:20:45 AM
+0 @M226@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Disosway Media\
+2 CONC US City Directories, 1822-1995(1).jpg
+2 FORM jpg
+2 TITL U.S. City Directories, 1822-1995
+2 _DATE 5/30/2020 2:20:53 AM
+0 @M227@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Disosway Media\
+2 CONC US City Directories, 1822-1995(2).jpg
+2 FORM jpg
+2 TITL U.S. City Directories, 1822-1995
+2 _DATE 5/30/2020 2:21:00 AM
+2 _TEXT 1944
+0 @M228@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Disosway Media\
+2 CONC US City Directories, 1822-1995(3).jpg
+2 FORM jpg
+2 TITL U.S. City Directories, 1822-1995
+2 _DATE 5/30/2020 2:21:07 AM
+2 _TEXT "Brooklyn, New York, City Directory, 1885," p. 319, image 37
+3 CONC 7
 0 TRLR
