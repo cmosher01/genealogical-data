@@ -7,16 +7,16 @@
 2 CONC , USA.
 1 SUBM @Umy2qBWIRUiwVSS6Hcn4@
 1 SOUR FTM
-2 VERS 23.2.0.1540
+2 VERS 24.0.1.1252
 2 NAME Family Tree Maker for Windows
 2 CORP The Software MacKiev Company
 3 ADDR 30 Union Wharf
 4 CONT Boston, MA 02109
 3 PHON (617) 227-6681
 1 DEST FTM
-1 FILE Harrison_2019-10-08-03-40-13.ftm.ged
-1 DATE 08 OCT 2019
-2 TIME 03:40:57
+1 FILE Harrison_2020-05-30-02-12-10.ftm.ged
+1 DATE 30 MAY 2020
+2 TIME 02:10:35
 0 @Umy2qBWIRUiwVSS6Hcn4@ SUBM
 1 NAME Christopher Alan Mosher
 2 EMAIL cmosher01@@gmail.com
@@ -83,6 +83,10 @@
 0 @I593@ INDI
 1 REFN 455b5b38-23ac-49c1-834c-e3da591277f1
 1 NAME Thomas A. /Andreassi/
+2 SOUR @S216@
+3 PAGE Publication Place: Rochester, NY, USA; URL: http://bartolome
+4 CONC o.com/tribute/details/1482/Yolanda-Andreassi/obituary.html
+3 _APID 1,2190::66403114
 1 SEX M
 1 FAMS @F488@
 0 @9YU1KayQSZejf6gQUwoW@ INDI
@@ -2155,6 +2159,23 @@
 0 @HL3W1NpDRbSSIRed9Bhx@ INDI
 1 REFN 1b81982e-4b6c-41e8-bdf0-cdab78f42c91
 1 NAME Mary /Cornell/
+2 SOUR @S239@
+3 PAGE Mary Cornell
+3 OBJE @M173@
+3 _APID 1,61175::450008691
+2 SOUR @PXfI0YHYQUKRMhHLFv7r@
+3 PAGE Mary Cornell
+3 _APID 1,7249::10032945
+2 SOUR @S238@
+3 PAGE Book Title: Thomas Stevenson of London, England and his desc
+4 CONC endants
+3 OBJE @M169@
+3 _APID 1,61157::1342860
+2 SOUR @S237@
+3 PAGE Genealogical Publishing Co.; Baltimore, MD, USA; Volume Titl
+4 CONC e: New England Marriages Prior to 1700; Mary Sands/Cornell
+3 OBJE @M168@
+3 _APID 1,3824::166080
 1 SEX F
 1 FAMC @aSwH3KbQTF6VWaGofLO2@
 1 FAMS @GIHNr2WbQeSCFpILMcxA@
@@ -2164,8 +2185,16 @@
 3 MAP
 4 LATI N40.8518
 4 LONG W73.7188
+2 SOUR @PXfI0YHYQUKRMhHLFv7r@
+3 PAGE Mary Cornell
+3 _APID 1,7249::10032945
 2 SOUR @04SiVuvYQEmBxeuHmV1e@
 3 PAGE p. 4
+2 SOUR @S237@
+3 PAGE Genealogical Publishing Co.; Baltimore, MD, USA; Volume Titl
+4 CONC e: New England Marriages Prior to 1700; Mary Sands/Cornell
+3 OBJE @M168@
+3 _APID 1,3824::166080
 2 NOTE place is assumed from father's residence
 1 DEAT
 2 DATE AFT 1728
@@ -3449,7 +3478,17 @@
 1 _XY 96499 1837
 0 @I598@ INDI
 1 REFN 5754f5e6-4b7a-4c96-accf-47baf88486cf
-1 NAME Thelma Loretta /Greene/
+1 NAME Thelma L. /Greene/
+2 SOUR @EK7T5HK7THyj56uQA095@
+3 PAGE Year: 1920; Census Place: Hornby, Steuben, New York; Roll: T
+4 CONC 625_1267; Page: 1A; Enumeration District: 114
+3 OBJE @M181@
+3 _APID 1,6061::87520499
+2 SOUR @6ueRmpMIQ9qSG0rSnwpX@
+3 PAGE Year: 1930; Census Place: Corning, Steuben, New York; Page
+4 CONC : 15A; Enumeration District: 0032; FHL microfilm: 2341382
+3 OBJE @M179@
+3 _APID 1,6224::46281029
 2 SOUR @2Tqe6FIjTKCB96mC4JOU@
 3 PAGE Year: 1940; Census Place: Corning, Steuben, New York; Roll
 4 CONC : T627_2781; Page: 12A; Enumeration District: 51-29
@@ -3460,6 +3499,10 @@
 3 DATA
 4 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=62861
 5 CONC &pid=1185
+2 SOUR @S232@
+3 PAGE New York State Department of Health; Albany, NY, USA; New Yo
+4 CONC rk State Death Index
+3 _APID 1,61668::678272
 2 SOUR @S175@
 3 PAGE New York State Department of Health; Albany, NY, USA; New Yo
 4 CONC rk State Marriage Index; Thelma L. Green
@@ -3469,9 +3512,27 @@
 3 PAGE Thelma Loretta Greene
 3 OBJE @M115@
 3 _APID 1,61377::900674704
+2 SOUR @XLqOXBdKSiS546wsc0IB@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1925; Election District: 01; Assembly Di
+4 CONC strict: 01; City: Hornby; County: Steuben; Page: 13
+3 OBJE @M182@
+3 _APID 1,2704::25133647
+2 SOUR @S219@
+3 PAGE Democrat and Chronicle; Publication Date: 23/ Aug/ 1959; Pub
+4 CONC lication Place: Rochester, New York, United States of Americ
+4 CONC a; URL: https://www.newspapers.com/image/135683651/?article=
+4 CONC 5b557e34-219b-4c4d-a3c6-9e3446e67495&focus=0.14072792,0.5172
+4 CONC 464,0.26092556,0
+3 _APID 1,61843::507273162
 2 SOUR @D5SLrrBySbi6oa3ygAnv@
 3 OBJE @M114@
 3 _APID 1,2469::90966942
+2 SOUR @S222@
+3 OBJE @M178@
+3 _APID 1,2238::334186251
+2 SOUR @fgk8xAOsQLeHP2vct6BI@
+3 _APID 1,60525::139097725
 1 SEX F
 1 FAMS @F490@
 1 OBJE @M117@
@@ -3481,15 +3542,81 @@
 3 MAP
 4 LATI N42.7531
 4 LONG W74.2224
+2 SOUR @EK7T5HK7THyj56uQA095@
+3 PAGE Year: 1920; Census Place: Hornby, Steuben, New York; Roll: T
+4 CONC 625_1267; Page: 1A; Enumeration District: 114
+3 OBJE @M181@
+3 _APID 1,6061::87520499
+2 SOUR @6ueRmpMIQ9qSG0rSnwpX@
+3 PAGE Year: 1930; Census Place: Corning, Steuben, New York; Page
+4 CONC : 15A; Enumeration District: 0032; FHL microfilm: 2341382
+3 OBJE @M179@
+3 _APID 1,6224::46281029
 2 SOUR @2Tqe6FIjTKCB96mC4JOU@
 3 PAGE Year: 1940; Census Place: Corning, Steuben, New York; Roll
 4 CONC : T627_2781; Page: 12A; Enumeration District: 51-29
 3 OBJE @M109@
 3 _APID 1,2442::8661580
+2 SOUR @S232@
+3 PAGE New York State Department of Health; Albany, NY, USA; New Yo
+4 CONC rk State Death Index
+3 _APID 1,61668::678272
 2 SOUR @S195@
 3 PAGE Thelma Loretta Greene
 3 OBJE @M115@
 3 _APID 1,61377::900674704
+2 SOUR @XLqOXBdKSiS546wsc0IB@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1925; Election District: 01; Assembly Di
+4 CONC strict: 01; City: Hornby; County: Steuben; Page: 13
+3 OBJE @M182@
+3 _APID 1,2704::25133647
+2 SOUR @S219@
+3 PAGE Democrat and Chronicle; Publication Date: 23/ Aug/ 1959; Pub
+4 CONC lication Place: Rochester, New York, United States of Americ
+4 CONC a; URL: https://www.newspapers.com/image/135683651/?article=
+4 CONC 5b557e34-219b-4c4d-a3c6-9e3446e67495&focus=0.14072792,0.5172
+4 CONC 464,0.26092556,0
+3 _APID 1,61843::507273162
+2 SOUR @fgk8xAOsQLeHP2vct6BI@
+3 _APID 1,60525::139097725
+1 RESI
+2 DATE 1920
+2 PLAC Hornby, Steuben, New York, USA
+3 MAP
+4 LATI N42.2442
+4 LONG W77.0444
+2 SOUR @EK7T5HK7THyj56uQA095@
+3 PAGE Year: 1920; Census Place: Hornby, Steuben, New York; Roll: T
+4 CONC 625_1267; Page: 1A; Enumeration District: 114
+3 OBJE @M181@
+3 _APID 1,6061::87520499
+2 NOTE Marital Status: Single; Relation to Head: Daughter
+1 RESI
+2 DATE 1925
+2 PLAC Hornby, Steuben, New York, USA
+3 MAP
+4 LATI N42.2442
+4 LONG W77.0444
+2 SOUR @XLqOXBdKSiS546wsc0IB@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1925; Election District: 01; Assembly Di
+4 CONC strict: 01; City: Hornby; County: Steuben; Page: 13
+3 OBJE @M182@
+3 _APID 1,2704::25133647
+2 NOTE Relation to Head: Daughter
+1 RESI
+2 DATE 1930
+2 PLAC Corning, Steuben, New York, USA
+3 MAP
+4 LATI N42.1429
+4 LONG W77.0547
+2 SOUR @6ueRmpMIQ9qSG0rSnwpX@
+3 PAGE Year: 1930; Census Place: Corning, Steuben, New York; Page
+4 CONC : 15A; Enumeration District: 0032; FHL microfilm: 2341382
+3 OBJE @M179@
+3 _APID 1,6224::46281029
+2 NOTE Marital Status: Single; Relation to Head: Daughter
 1 RESI
 2 DATE 1931
 2 PLAC Painted Post, Steuben, New York, USA
@@ -3521,6 +3648,44 @@
 2 NOTE Age: 28; Marital Status: Married; Relation to Head of House
 3 CONC : Wife
 2 NOTE Marital Status: Married; Relation to Head: Wife
+1 RESI
+2 DATE ABT 1959
+2 PLAC 279 Ames Street, Beechwood, Rochester, Monroe, New York, USA
+2 SOUR @S232@
+3 PAGE New York State Department of Health; Albany, NY, USA; New Yo
+4 CONC rk State Death Index
+3 _APID 1,61668::678272
+2 SOUR @S219@
+3 PAGE Democrat and Chronicle; Publication Date: 23/ Aug/ 1959; Pub
+4 CONC lication Place: Rochester, New York, United States of Americ
+4 CONC a; URL: https://www.newspapers.com/image/135683651/?article=
+4 CONC 5b557e34-219b-4c4d-a3c6-9e3446e67495&focus=0.14072792,0.5172
+4 CONC 464,0.26092556,0
+3 _APID 1,61843::507273162
+1 DEAT
+2 DATE 21 AUG 1959
+2 PLAC New York, USA
+3 MAP
+4 LATI N42.7531
+4 LONG W74.2224
+2 SOUR @S232@
+3 PAGE New York State Department of Health; Albany, NY, USA; New Yo
+4 CONC rk State Death Index
+3 _APID 1,61668::678272
+2 SOUR @S219@
+3 PAGE Democrat and Chronicle; Publication Date: 23/ Aug/ 1959; Pub
+4 CONC lication Place: Rochester, New York, United States of Americ
+4 CONC a; URL: https://www.newspapers.com/image/135683651/?article=
+4 CONC 5b557e34-219b-4c4d-a3c6-9e3446e67495&focus=0.14072792,0.5172
+4 CONC 464,0.26092556,0
+3 _APID 1,61843::507273162
+2 SOUR @fgk8xAOsQLeHP2vct6BI@
+3 _APID 1,60525::139097725
+1 BURI
+2 DATE ABT 24 AUG 1959
+2 PLAC Holy Sepulchre Cemetery, Rochester, Monroe, New York, USA
+2 SOUR @fgk8xAOsQLeHP2vct6BI@
+3 _APID 1,60525::139097725
 1 _XY 2730 4250
 1 _PHOTO @M117@
 0 @N9GnMTbPStiRBdgJgxHi@ INDI
@@ -3902,6 +4067,9 @@
 4 CONC strict: 01; City: Hornby; County: Steuben; Page: 13
 3 OBJE @M73@
 3 _APID 1,2704::25133675
+2 SOUR @S222@
+3 OBJE @M186@
+3 _APID 1,2238::333155618
 2 SOUR @fgk8xAOsQLeHP2vct6BI@
 3 _APID 1,60525::134903332
 2 SOUR @S200@
@@ -3913,6 +4081,7 @@
 3 _APID 1,1265::352943825
 2 SOUR @S200@
 3 PAGE p. 4, “Faculty” photograph
+3 OBJE @M193@
 3 _APID 1,1265::352944245
 2 SOUR @S200@
 3 PAGE p. 5, “Faculty” photograph
@@ -3989,6 +4158,7 @@
 3 _APID 1,1265::352943825
 2 SOUR @S200@
 3 PAGE p. 4, “Faculty” photograph
+3 OBJE @M193@
 3 _APID 1,1265::352944245
 2 SOUR @S200@
 3 PAGE p. 5, “Faculty” photograph
@@ -4234,6 +4404,7 @@
 3 _APID 1,1265::352943825
 2 SOUR @S200@
 3 PAGE p. 4, “Faculty” photograph
+3 OBJE @M193@
 3 _APID 1,1265::352944245
 1 RESI
 2 DATE 1950
@@ -4612,6 +4783,27 @@
 4 CONC rk State Marriage Index; Gale Harrison
 3 OBJE @M112@
 3 _APID 1,61632::3230174
+2 SOUR @S219@
+3 PAGE Democrat and Chronicle; Publication Date: 18/ Dec/ 1991; Pub
+4 CONC lication Place: Rochester, New York, United States of Americ
+4 CONC a; URL: https://www.newspapers.com/image/137417755/?article=
+4 CONC 3ebbab13-6a60-41c8-a79c-78fec60b5733&focus=0.18538387,0.7037
+4 CONC 3607,0.34197524,
+3 _APID 1,61843::424843614
+2 SOUR @S219@
+3 PAGE Democrat and Chronicle; Publication Date: 23/ Aug/ 1959; Pub
+4 CONC lication Place: Rochester, New York, United States of Americ
+4 CONC a; URL: https://www.newspapers.com/image/135683651/?article=
+4 CONC 5b557e34-219b-4c4d-a3c6-9e3446e67495&focus=0.14072792,0.5172
+4 CONC 464,0.26092556,0
+3 _APID 1,61843::45594471
+2 SOUR @S219@
+3 PAGE Democrat and Chronicle; Publication Date: 7/ Dec/ 2017; Publ
+4 CONC ication Place: Rochester, New York, United States of America
+4 CONC ; URL: https://www.newspapers.com/image/356254167/?article=5
+4 CONC 2ba41ae-f4b5-4a38-a409-a658c3588989&focus=0.021862768,0.2412
+4 CONC 7907,0.40473256,
+3 _APID 1,61843::660082607
 2 SOUR @D5SLrrBySbi6oa3ygAnv@
 3 PAGE 1957
 3 OBJE @M111@
@@ -4678,6 +4870,13 @@
 4 CONC rk State Birth Index
 3 OBJE @M110@
 3 _APID 1,61667::4119024
+2 SOUR @S219@
+3 PAGE Democrat and Chronicle; Publication Date: 7/ Dec/ 2017; Publ
+4 CONC ication Place: Rochester, New York, United States of America
+4 CONC ; URL: https://www.newspapers.com/image/356254167/?article=5
+4 CONC 2ba41ae-f4b5-4a38-a409-a658c3588989&focus=0.021862768,0.2412
+4 CONC 7907,0.40473256,
+3 _APID 1,61843::660082607
 2 SOUR @S187@
 3 _APID 1,1788::9473899
 2 SOUR @S191@
@@ -4748,6 +4947,22 @@
 3 MAP
 4 LATI N43.1523
 4 LONG W77.7122
+2 SOUR @S219@
+3 PAGE Democrat and Chronicle; Publication Date: 7/ Dec/ 2017; Publ
+4 CONC ication Place: Rochester, New York, United States of America
+4 CONC ; URL: https://www.newspapers.com/image/356254167/?article=5
+4 CONC 2ba41ae-f4b5-4a38-a409-a658c3588989&focus=0.021862768,0.2412
+4 CONC 7907,0.40473256,
+3 _APID 1,61843::660082607
+1 BURI
+2 DATE 09 DEC 2017
+2 SOUR @S219@
+3 PAGE Democrat and Chronicle; Publication Date: 7/ Dec/ 2017; Publ
+4 CONC ication Place: Rochester, New York, United States of America
+4 CONC ; URL: https://www.newspapers.com/image/356254167/?article=5
+4 CONC 2ba41ae-f4b5-4a38-a409-a658c3588989&focus=0.021862768,0.2412
+4 CONC 7907,0.40473256,
+3 _APID 1,61843::660082607
 1 _XY 2111 4350
 0 @9LS1J0pFQEyXdpItrBUb@ INDI
 1 REFN 01f7ab3c-393a-456f-831e-eb09830a4efb
@@ -4978,6 +5193,9 @@
 4 CONC rk State Marriage Index; Elmer Harrison
 3 OBJE @M88@
 3 _APID 1,61632::1663612
+2 SOUR @S229@
+3 OBJE @M164@
+3 _APID 1,61377::1050674704
 2 SOUR @no7YvbwBTZSkjmmfIcME@
 3 OBJE @ShTO93LeQX6QHoJyeHB8@
 3 _APID 1,7250::1382758778
@@ -4999,6 +5217,20 @@
 4 CONC strict: 01; City: Hornby; County: Steuben; Page: 13
 3 OBJE @M73@
 3 _APID 1,2704::25133672
+2 SOUR @S219@
+3 PAGE Star-Gazette; Publication Date: 18/ Jun/ 1912; Publication P
+4 CONC lace: Elmira, New York, United States of America; URL: https
+4 CONC ://www.newspapers.com/image/275831846/?article=e9720691-50d8
+4 CONC -49dc-b78f-6c6d28d9e344&focus=0.03206978,0.31163746,0.173950
+4 CONC 96,0.4039288&xid
+3 _APID 1,61843::247068450
+2 SOUR @S219@
+3 PAGE The Evening Times; Publication Date: 29/ Apr/ 1943; Publicat
+4 CONC ion Place: Sayre, Pennsylvania, United States of America; UR
+4 CONC L: https://www.newspapers.com/image/96229044/?article=a23ab4
+4 CONC ac-a03a-410f-ab65-4069ba616731&focus=0.23869812,0.7283542,0.
+4 CONC 35886252,0.77065
+3 _APID 1,61843::496100867
 2 SOUR @mxzIXZPLSUyTgjhiRzgy@
 3 OBJE @L5kixP7QTjO169k0tL8b@
 3 _APID 1,5164::4131890
@@ -5017,6 +5249,8 @@
 1 FAMC @PJVSYwODQruvZvNmcrDX@
 1 FAMS @SECEG17DTR2JpN35QBiT@
 1 OBJE @QLNFJ1K5QuKfFCXXAnml@
+1 OBJE @M152@
+1 OBJE @M154@
 1 BIRT
 2 DATE 11 NOV 1873
 2 PLAC Harrison Homestead, Hornby, Steuben, New York, USA
@@ -5076,6 +5310,13 @@
 4 CONC strict: 01; City: Hornby; County: Steuben; Page: 13
 3 OBJE @M73@
 3 _APID 1,2704::25133672
+2 SOUR @S219@
+3 PAGE The Evening Times; Publication Date: 29/ Apr/ 1943; Publicat
+4 CONC ion Place: Sayre, Pennsylvania, United States of America; UR
+4 CONC L: https://www.newspapers.com/image/96229044/?article=a23ab4
+4 CONC ac-a03a-410f-ab65-4069ba616731&focus=0.23869812,0.7283542,0.
+4 CONC 35886252,0.77065
+3 _APID 1,61843::496100867
 2 SOUR @mxzIXZPLSUyTgjhiRzgy@
 3 OBJE @L5kixP7QTjO169k0tL8b@
 3 _APID 1,5164::4131890
@@ -5364,6 +5605,13 @@
 2 SOUR @ljUxuuY3QhivtsTpBOoP@
 2 SOUR @upX5ahmjSgqsX8Qi6H7k@
 3 QUAY 1
+2 SOUR @S219@
+3 PAGE The Evening Times; Publication Date: 29/ Apr/ 1943; Publicat
+4 CONC ion Place: Sayre, Pennsylvania, United States of America; UR
+4 CONC L: https://www.newspapers.com/image/96229044/?article=a23ab4
+4 CONC ac-a03a-410f-ab65-4069ba616731&focus=0.23869812,0.7283542,0.
+4 CONC 35886252,0.77065
+3 _APID 1,61843::496100867
 2 SOUR @mxzIXZPLSUyTgjhiRzgy@
 3 OBJE @L5kixP7QTjO169k0tL8b@
 3 _APID 1,5164::4131890
@@ -5393,6 +5641,20 @@
 0 @I595@ INDI
 1 REFN 027e2758-624f-42f0-adfd-81f3e6fe93dd
 1 NAME Gerald Michael /Harrison/
+2 SOUR @S219@
+3 PAGE Democrat and Chronicle; Publication Date: 18/ Dec/ 1991; Pub
+4 CONC lication Place: Rochester, New York, United States of Americ
+4 CONC a; URL: https://www.newspapers.com/image/137417755/?article=
+4 CONC 3ebbab13-6a60-41c8-a79c-78fec60b5733&focus=0.18538387,0.7037
+4 CONC 3607,0.34197524,
+3 _APID 1,61843::621666304
+2 SOUR @S219@
+3 PAGE Democrat and Chronicle; Publication Date: 7/ Dec/ 2017; Publ
+4 CONC ication Place: Rochester, New York, United States of America
+4 CONC ; URL: https://www.newspapers.com/image/356254167/?article=5
+4 CONC 2ba41ae-f4b5-4a38-a409-a658c3588989&focus=0.021862768,0.2412
+4 CONC 7907,0.40473256,
+3 _APID 1,61843::736386634
 2 SOUR @fgk8xAOsQLeHP2vct6BI@
 3 _APID 1,60525::139304263
 2 SOUR @S186@
@@ -5423,6 +5685,13 @@
 3 _APID 1,3693::25901148
 1 DEAT
 2 DATE 16 DEC 1991
+2 SOUR @S219@
+3 PAGE Democrat and Chronicle; Publication Date: 18/ Dec/ 1991; Pub
+4 CONC lication Place: Rochester, New York, United States of Americ
+4 CONC a; URL: https://www.newspapers.com/image/137417755/?article=
+4 CONC 3ebbab13-6a60-41c8-a79c-78fec60b5733&focus=0.18538387,0.7037
+4 CONC 3607,0.34197524,
+3 _APID 1,61843::621666304
 2 SOUR @fgk8xAOsQLeHP2vct6BI@
 3 _APID 1,60525::139304263
 2 SOUR @nuNi9KjuQRC7bV7GdbqW@
@@ -5496,9 +5765,19 @@
 4 CONC strict: 01; City: Hornby; County: Steuben; Page: 13
 3 OBJE @M73@
 3 _APID 1,2704::25133677
+2 SOUR @S219@
+3 PAGE Democrat and Chronicle; Publication Date: 23/ Aug/ 1959; Pub
+4 CONC lication Place: Rochester, New York, United States of Americ
+4 CONC a; URL: https://www.newspapers.com/image/135683651/?article=
+4 CONC 5b557e34-219b-4c4d-a3c6-9e3446e67495&focus=0.14072792,0.5172
+4 CONC 464,0.26092556,0
+3 _APID 1,61843::45314196
 2 SOUR @D5SLrrBySbi6oa3ygAnv@
 3 OBJE @M114@
 3 _APID 1,2469::90966943
+2 SOUR @S222@
+3 OBJE @M178@
+3 _APID 1,2238::304186251
 2 SOUR @fgk8xAOsQLeHP2vct6BI@
 3 _APID 1,60525::139304262
 2 SOUR @S188@
@@ -5551,6 +5830,11 @@
 4 CONC strict: 01; City: Hornby; County: Steuben; Page: 13
 3 OBJE @M73@
 3 _APID 1,2704::25133677
+2 SOUR @S222@
+3 OBJE @M178@
+3 _APID 1,2238::304186251
+2 SOUR @fgk8xAOsQLeHP2vct6BI@
+3 _APID 1,60525::139304262
 2 SOUR @S188@
 3 PAGE Number: 076-05-7356; Issue State: New York; Issue Date: Befo
 4 CONC re 1951
@@ -5660,6 +5944,7 @@
 4 CONC re 1951
 3 _APID 1,3693::25901187
 1 BURI
+2 DATE ABT 28 OCT 1977
 2 PLAC Rochester, Monroe, New York, USA
 3 MAP
 4 LATI N43.1548
@@ -5757,6 +6042,13 @@
 2 SOUR @2BrYALWfRGeGIhxft2Zm@
 3 OBJE @M71@
 3 _APID 1,7364::2943878
+2 SOUR @S219@
+3 PAGE Star-Gazette; Publication Date: 18/ Jun/ 1912; Publication P
+4 CONC lace: Elmira, New York, United States of America; URL: https
+4 CONC ://www.newspapers.com/image/275831846/?article=e9720691-50d8
+4 CONC -49dc-b78f-6c6d28d9e344&focus=0.03206978,0.31163746,0.173950
+4 CONC 96,0.4039288&xid
+3 _APID 1,61843::573116577
 2 SOUR @S183@
 3 PAGE Pennsylvania Historic and Museum Commission; Harrisburg, Pen
 4 CONC nsylvania; Pennsylvania (State). Death certificates, 1906–19
@@ -5830,6 +6122,13 @@
 2 SOUR @2BrYALWfRGeGIhxft2Zm@
 3 OBJE @M71@
 3 _APID 1,7364::2943878
+2 SOUR @S219@
+3 PAGE Star-Gazette; Publication Date: 18/ Jun/ 1912; Publication P
+4 CONC lace: Elmira, New York, United States of America; URL: https
+4 CONC ://www.newspapers.com/image/275831846/?article=e9720691-50d8
+4 CONC -49dc-b78f-6c6d28d9e344&focus=0.03206978,0.31163746,0.173950
+4 CONC 96,0.4039288&xid
+3 _APID 1,61843::573116577
 2 SOUR @S183@
 3 PAGE Pennsylvania Historic and Museum Commission; Harrisburg, Pen
 4 CONC nsylvania; Pennsylvania (State). Death certificates, 1906–19
@@ -6116,6 +6415,13 @@
 3 QUAY 1
 3 DATA
 4 TEXT cert. no. 48149
+2 SOUR @S219@
+3 PAGE Star-Gazette; Publication Date: 18/ Jun/ 1912; Publication P
+4 CONC lace: Elmira, New York, United States of America; URL: https
+4 CONC ://www.newspapers.com/image/275831846/?article=e9720691-50d8
+4 CONC -49dc-b78f-6c6d28d9e344&focus=0.03206978,0.31163746,0.173950
+4 CONC 96,0.4039288&xid
+3 _APID 1,61843::573116577
 2 SOUR @fgk8xAOsQLeHP2vct6BI@
 3 _APID 1,60525::46328064
 2 SOUR @yFxQHMAuSEmv66wxgGMH@
@@ -6125,6 +6431,13 @@
 2 PLAC Central Valley Cemetery, Hornby, Steuben, New York, USA
 2 SOUR @aRUuMRplQZKkD9hq4lV8@
 3 QUAY 2
+2 SOUR @S219@
+3 PAGE Star-Gazette; Publication Date: 18/ Jun/ 1912; Publication P
+4 CONC lace: Elmira, New York, United States of America; URL: https
+4 CONC ://www.newspapers.com/image/275831846/?article=e9720691-50d8
+4 CONC -49dc-b78f-6c6d28d9e344&focus=0.03206978,0.31163746,0.173950
+4 CONC 96,0.4039288&xid
+3 _APID 1,61843::573116577
 2 SOUR @fgk8xAOsQLeHP2vct6BI@
 3 _APID 1,60525::46328064
 2 SOUR @yFxQHMAuSEmv66wxgGMH@
@@ -6214,6 +6527,11 @@
 2 SOUR @S197@
 2 SOUR @1SIe6ODlREuvmbzQ0vzX@
 3 QUAY 1
+2 SOUR @S175@
+3 PAGE New York State Department of Health; Albany, NY, USA; New Yo
+4 CONC rk State Marriage Index; James L. Harrison
+3 OBJE @M185@
+3 _APID 1,61632::7402016
 2 SOUR @vsHf59o6QmyAlKrTp9EW@
 3 PAGE New York State Archives; Albany, New York; State Populatio
 4 CONC n Census Schedules, 1915; Election District: 01; Assembly Di
@@ -6226,10 +6544,25 @@
 4 CONC strict: 01; City: Hornby; County: Steuben; Page: 13
 3 OBJE @M73@
 3 _APID 1,2704::25133676
+2 SOUR @D5SLrrBySbi6oa3ygAnv@
+3 PAGE 1958, Corning
+3 OBJE @M155@
+3 _APID 1,2469::91105503
+2 SOUR @D5SLrrBySbi6oa3ygAnv@
+3 PAGE Painted Post
+3 OBJE @M156@
+3 _APID 1,2469::57227856
 2 SOUR @S187@
 3 _APID 1,1788::62612170
 2 SOUR @S191@
 3 _APID 1,1732::269426902
+2 SOUR @S222@
+3 OBJE @M157@
+3 _APID 1,2238::304185814
+2 SOUR @fgk8xAOsQLeHP2vct6BI@
+3 _APID 1,60525::37910266
+2 SOUR @nuNi9KjuQRC7bV7GdbqW@
+3 _APID 1,60901::801697600
 2 SOUR @S188@
 3 PAGE Number: 129-16-2871; Issue State: New York; Issue Date: Befo
 4 CONC re 1951
@@ -6239,6 +6572,7 @@
 1 FAMS @F491@
 1 OBJE @M127@
 1 OBJE @M128@
+1 OBJE @M153@
 1 OBJE @M126@
 1 BIRT
 2 DATE 06 APR 1907
@@ -6283,6 +6617,13 @@
 3 _APID 1,1788::62612170
 2 SOUR @S191@
 3 _APID 1,1732::269426902
+2 SOUR @S222@
+3 OBJE @M157@
+3 _APID 1,2238::304185814
+2 SOUR @fgk8xAOsQLeHP2vct6BI@
+3 _APID 1,60525::37910266
+2 SOUR @nuNi9KjuQRC7bV7GdbqW@
+3 _APID 1,60901::801697600
 2 SOUR @S188@
 3 PAGE Number: 129-16-2871; Issue State: New York; Issue Date: Befo
 4 CONC re 1951
@@ -6379,6 +6720,26 @@
 3 _APID 1,2442::8680818
 2 NOTE Age: 33; Marital Status: Married; Relation to Head of House
 3 CONC : Head
+1 RESI
+2 DATE 1940
+2 PLAC Painted Post, Steuben, New York, USA
+3 MAP
+4 LATI N42.162
+4 LONG W77.0941
+2 SOUR @S222@
+3 OBJE @M157@
+3 _APID 1,2238::304185814
+2 NOTE Relative Relation to Head: Wife
+1 RESI
+2 DATE 1958
+2 PLAC Corning, Steuben, New York, USA
+3 MAP
+4 LATI N42.1429
+4 LONG W77.0547
+2 SOUR @D5SLrrBySbi6oa3ygAnv@
+3 PAGE 1958, Corning
+3 OBJE @M155@
+3 _APID 1,2469::91105503
 1 DEAT
 2 DATE 21 SEP 1996
 2 PLAC Painted Post, Steuben, New York, USA
@@ -6387,13 +6748,32 @@
 4 LONG W77.0941
 2 SOUR @S199@
 3 QUAY 2
+2 SOUR @fgk8xAOsQLeHP2vct6BI@
+3 _APID 1,60525::37910266
+2 SOUR @nuNi9KjuQRC7bV7GdbqW@
+3 _APID 1,60901::801697600
 2 SOUR @S188@
 3 PAGE Number: 129-16-2871; Issue State: New York; Issue Date: Befo
 4 CONC re 1951
 3 _APID 1,3693::25906085
+1 BURI
+2 DATE ABT 24 SEP 1996
+2 PLAC Coopers Plains Cemetery, Coopers Plains, Steuben, New York
+3 CONC , USA
+2 SOUR @fgk8xAOsQLeHP2vct6BI@
+3 _APID 1,60525::37910266
 1 SSN 129-16-2871
 2 SOUR @S199@
 3 QUAY 3
+1 RESI
+2 PLAC Painted Post, Steuben, New York, USA
+3 MAP
+4 LATI N42.162
+4 LONG W77.0941
+2 SOUR @D5SLrrBySbi6oa3ygAnv@
+3 PAGE Painted Post
+3 OBJE @M156@
+3 _APID 1,2469::57227856
 1 _XY 85502 2636
 1 _XY 2316 4244
 1 _PHOTO @M127@
@@ -6429,6 +6809,8 @@
 4 LONG W1.4611
 2 SOUR @4vbdHhs2RsuLVBStmnX6@
 3 PAGE p. 345
+2 SOUR @fgk8xAOsQLeHP2vct6BI@
+3 _APID 1,60525::86932045
 2 NOTE date from family papers
 1 RESI
 2 DATE FROM 1801 TO 1817
@@ -6691,6 +7073,9 @@
 4 CONC strict: 01; City: Hornby; County: Steuben; Page: 13
 3 OBJE @M73@
 3 _APID 1,2704::25133674
+2 SOUR @S222@
+3 OBJE @M162@
+3 _APID 1,2238::304185893
 2 SOUR @S216@
 3 PAGE Publication Place: Cambridge, Massachusetts, USA; URL: http:
 4 CONC //www.keefefuneralhome.com/book-of-memories/68020/Jung-Miria
@@ -6752,6 +7137,9 @@
 4 CONC strict: 01; City: Hornby; County: Steuben; Page: 13
 3 OBJE @M73@
 3 _APID 1,2704::25133674
+2 SOUR @S222@
+3 OBJE @M162@
+3 _APID 1,2238::304185893
 2 SOUR @S188@
 3 PAGE Number: 056-14-4624; Issue State: New York; Issue Date: Befo
 4 CONC re 1951
@@ -6821,15 +7209,16 @@
 2 NOTE Age: 23; Relation to Head of House: Son
 1 RESI
 2 DATE 1935
-2 PLAC Hamilton, Madison, New York, USA
-3 MAP
-4 LATI N42.827
-4 LONG W75.5446
+2 PLAC Spring Street, Hamilton, Madison, New York, USA
 2 SOUR @2Tqe6FIjTKCB96mC4JOU@
 3 PAGE Year: 1940; Census Place: Hamilton, Madison, New York; Roll
 4 CONC : T627_2624; Page: 1A; Enumeration District: 27-19
 3 OBJE @M130@
 3 _APID 1,2442::11197630
+2 SOUR @S222@
+3 OBJE @M162@
+3 _APID 1,2238::304185893
+2 NOTE Relative Relation to Head: Wife
 1 RESI
 2 DATE 01 APR 1940
 2 PLAC Hamilton, Madison, New York, USA
@@ -7726,6 +8115,13 @@
 4 CONC : T627_2624; Page: 1A; Enumeration District: 27-19
 3 OBJE @M130@
 3 _APID 1,2442::11197634
+2 SOUR @S219@
+3 PAGE The Boston Globe; Publication Date: 15/ Mar/ 2007; Publicati
+4 CONC on Place: Boston, Massachusetts, United States of America; U
+4 CONC RL: https://www.newspapers.com/image/444222613/?article=6300
+4 CONC 1a8b-28f9-4346-9959-87fc765381a6&focus=0.034186456,0.2032603
+4 CONC 2,0.19964944,0.2
+3 _APID 1,61843::640047560
 2 SOUR @S187@
 3 _APID 1,1788::253339302
 2 SOUR @S191@
@@ -7743,6 +8139,16 @@
 4 CONC blication Place: Lexington, Massachusetts, USA; URL: http://
 4 CONC www.townonline.com/arlington/obituaries/x941396022
 3 _APID 1,7545::14314241
+2 SOUR @S186@
+3 PAGE Arlington Advocate, The; Publication Date: 22/ Mar/ 2007; Pu
+4 CONC blication Place: Lexington, Massachusetts, USA; URL: http://
+4 CONC www.townonline.com/arlington/obituaries
+3 _APID 1,7545::14127461
+2 SOUR @S227@
+3 PAGE "U.S., School Yearbooks, 1880-2012"; School Name: Hamilton H
+4 CONC igh School; Year: 1951
+3 OBJE @M187@
+3 _APID 1,1265::428614912
 2 SOUR @nuNi9KjuQRC7bV7GdbqW@
 3 _APID 1,60901::19704446
 2 SOUR @S188@
@@ -7779,6 +8185,16 @@
 4 CONC blication Place: Lexington, Massachusetts, USA; URL: http://
 4 CONC www.townonline.com/arlington/obituaries/x941396022
 3 _APID 1,7545::14314241
+2 SOUR @S186@
+3 PAGE Arlington Advocate, The; Publication Date: 22/ Mar/ 2007; Pu
+4 CONC blication Place: Lexington, Massachusetts, USA; URL: http://
+4 CONC www.townonline.com/arlington/obituaries
+3 _APID 1,7545::14127461
+2 SOUR @S227@
+3 PAGE "U.S., School Yearbooks, 1880-2012"; School Name: Hamilton H
+4 CONC igh School; Year: 1951
+3 OBJE @M187@
+3 _APID 1,1265::428614912
 2 SOUR @nuNi9KjuQRC7bV7GdbqW@
 3 _APID 1,60901::19704446
 2 SOUR @S188@
@@ -7838,6 +8254,13 @@
 3 MAP
 4 LATI N42.5048
 4 LONG W71.1956
+2 SOUR @S219@
+3 PAGE The Boston Globe; Publication Date: 15/ Mar/ 2007; Publicati
+4 CONC on Place: Boston, Massachusetts, United States of America; U
+4 CONC RL: https://www.newspapers.com/image/444222613/?article=6300
+4 CONC 1a8b-28f9-4346-9959-87fc765381a6&focus=0.034186456,0.2032603
+4 CONC 2,0.19964944,0.2
+3 _APID 1,61843::640047560
 2 SOUR @S215@
 3 PAGE Publication Place: Cambridge, Massachusetts, USA
 3 _APID 1,2190::374663010
@@ -7851,6 +8274,11 @@
 4 CONC blication Place: Lexington, Massachusetts, USA; URL: http://
 4 CONC www.townonline.com/arlington/obituaries/x941396022
 3 _APID 1,7545::14314241
+2 SOUR @S186@
+3 PAGE Arlington Advocate, The; Publication Date: 22/ Mar/ 2007; Pu
+4 CONC blication Place: Lexington, Massachusetts, USA; URL: http://
+4 CONC www.townonline.com/arlington/obituaries
+3 _APID 1,7545::14127461
 2 SOUR @nuNi9KjuQRC7bV7GdbqW@
 3 _APID 1,60901::19704446
 2 SOUR @S188@
@@ -7863,6 +8291,18 @@
 4 CONC blication Place: Lexington, Massachusetts, USA; URL: http://
 4 CONC www.townonline.com/arlington/obituaries/x941396022
 3 _APID 1,7545::14314241
+1 RESI
+2 PLAC Woburn, Middlesex, Massachusetts, USA
+3 MAP
+4 LATI N42.4793
+4 LONG W71.1523
+2 SOUR @S219@
+3 PAGE The Boston Globe; Publication Date: 15/ Mar/ 2007; Publicati
+4 CONC on Place: Boston, Massachusetts, United States of America; U
+4 CONC RL: https://www.newspapers.com/image/444222613/?article=6300
+4 CONC 1a8b-28f9-4346-9959-87fc765381a6&focus=0.034186456,0.2032603
+4 CONC 2,0.19964944,0.2
+3 _APID 1,61843::640047560
 1 _XY 1881 4344
 0 @vvnoetMSSQi5Ut0a9nFk@ INDI
 1 REFN 0eee3511-419d-496a-9db9-7ef9949f8727
@@ -8487,6 +8927,16 @@
 2 SOUR @S197@
 2 SOUR @1SIe6ODlREuvmbzQ0vzX@
 3 QUAY 1
+2 SOUR @S192@
+3 PAGE New York State Department of Health; Albany, NY, USA; New Yo
+4 CONC rk State Birth Index
+3 OBJE @M183@
+3 _APID 1,61667::930896
+2 SOUR @S242@
+3 PAGE New York Department of Health; Albany, NY; NY State Death In
+4 CONC dex
+3 OBJE @M184@
+3 _APID 1,61535::821029
 2 SOUR @fgk8xAOsQLeHP2vct6BI@
 3 _APID 1,60525::115063044
 1 SEX M
@@ -8503,6 +8953,11 @@
 2 SOUR @S197@
 2 SOUR @1SIe6ODlREuvmbzQ0vzX@
 3 QUAY 1
+2 SOUR @S192@
+3 PAGE New York State Department of Health; Albany, NY, USA; New Yo
+4 CONC rk State Birth Index
+3 OBJE @M183@
+3 _APID 1,61667::930896
 2 SOUR @fgk8xAOsQLeHP2vct6BI@
 3 _APID 1,60525::115063044
 1 RESI
@@ -8528,6 +8983,11 @@
 2 SOUR @S197@
 2 SOUR @1SIe6ODlREuvmbzQ0vzX@
 3 QUAY 1
+2 SOUR @S242@
+3 PAGE New York Department of Health; Albany, NY; NY State Death In
+4 CONC dex
+3 OBJE @M184@
+3 _APID 1,61535::821029
 2 SOUR @fgk8xAOsQLeHP2vct6BI@
 3 _APID 1,60525::115063044
 1 BURI
@@ -10503,6 +10963,18 @@
 0 @I608@ INDI
 1 REFN 20073253-7e6a-44cf-9507-599ed6b1022d
 1 NAME Jonathan /Jung/
+2 SOUR @S219@
+3 PAGE The Boston Globe; Publication Date: 15/ Mar/ 2007; Publicati
+4 CONC on Place: Boston, Massachusetts, United States of America; U
+4 CONC RL: https://www.newspapers.com/image/444222613/?article=6300
+4 CONC 1a8b-28f9-4346-9959-87fc765381a6&focus=0.034186456,0.2032603
+4 CONC 2,0.19964944,0.2
+3 _APID 1,61843::479343745
+2 SOUR @S216@
+3 PAGE Publication Place: Cambridge, Massachusetts, USA; URL: http:
+4 CONC //www.keefefuneralhome.com/book-of-memories/68020/Jung-Miria
+4 CONC m/service-details.php
+3 _APID 1,2190::91982460
 2 SOUR @S186@
 3 PAGE Publication Date: 13/ Apr/ 2007; Publication Place: Lexingto
 4 CONC n, Massachusetts, USA; URL: http://www.townonline.com/arling
@@ -10518,16 +10990,45 @@
 0 @I609@ INDI
 1 REFN d2546f1e-f0d3-4fff-885d-55166af6bd0e
 1 NAME Richard /Jung/
+2 SOUR @S219@
+3 PAGE The Boston Globe; Publication Date: 15/ Mar/ 2007; Publicati
+4 CONC on Place: Boston, Massachusetts, United States of America; U
+4 CONC RL: https://www.newspapers.com/image/444222613/?article=6300
+4 CONC 1a8b-28f9-4346-9959-87fc765381a6&focus=0.034186456,0.2032603
+4 CONC 2,0.19964944,0.2
+3 _APID 1,61843::478824555
+2 SOUR @S216@
+3 PAGE Publication Place: Cambridge, Massachusetts, USA; URL: http:
+4 CONC //www.keefefuneralhome.com/book-of-memories/68020/Jung-Miria
+4 CONC m/service-details.php
+3 _APID 1,2190::143828193
 2 SOUR @S186@
 3 PAGE Publication Date: 13/ Apr/ 2007; Publication Place: Lexingto
 4 CONC n, Massachusetts, USA; URL: http://www.townonline.com/arling
 4 CONC ton/obituaries/x941396022
 3 _APID 1,7545::149153983
+2 SOUR @S186@
+3 PAGE Publication Date: 22/ Mar/ 2007; Publication Place: Lexingto
+4 CONC n, Massachusetts, USA; URL: http://www.townonline.com/arling
+4 CONC ton/obituaries
+3 _APID 1,7545::149435597
 1 SEX M
 1 FAMS @F497@
 0 @I607@ INDI
 1 REFN c38492c5-fe8f-4bdb-acda-3ca9a339c848
 1 NAME Timothy /Jung/
+2 SOUR @S219@
+3 PAGE The Boston Globe; Publication Date: 15/ Mar/ 2007; Publicati
+4 CONC on Place: Boston, Massachusetts, United States of America; U
+4 CONC RL: https://www.newspapers.com/image/444222613/?article=6300
+4 CONC 1a8b-28f9-4346-9959-87fc765381a6&focus=0.034186456,0.2032603
+4 CONC 2,0.19964944,0.2
+3 _APID 1,61843::479137514
+2 SOUR @S216@
+3 PAGE Publication Place: Cambridge, Massachusetts, USA; URL: http:
+4 CONC //www.keefefuneralhome.com/book-of-memories/68020/Jung-Miria
+4 CONC m/service-details.php
+3 _APID 1,2190::73043082
 2 SOUR @S186@
 3 PAGE Publication Date: 13/ Apr/ 2007; Publication Place: Lexingto
 4 CONC n, Massachusetts, USA; URL: http://www.townonline.com/arling
@@ -11691,6 +12192,10 @@
 0 @lgV6pFdBSZS4hmWrAK0H@ INDI
 1 REFN 83e0dc39-5236-4b89-8b1c-68c913c2b0ab
 1 NAME Susanna /Lang/
+2 SOUR @D5Hfu5V4QiadE6qpxHG2@
+3 PAGE Volume: 298
+3 OBJE @M174@
+3 _APID 1,2204::1238457
 1 SEX F
 1 FAMC @Mr7JCmCCRCieYbPXagjg@
 1 FAMS @xf5KVes0R52nVPjRsXxl@
@@ -11702,6 +12207,10 @@
 4 LONG W73.5321
 2 SOUR @iX7z90TwQxmD47CWB4F0@
 3 QUAY 1
+2 SOUR @D5Hfu5V4QiadE6qpxHG2@
+3 PAGE Volume: 298
+3 OBJE @M174@
+3 _APID 1,2204::1238457
 1 DEAT
 2 DATE 1757
 2 PLAC Bedford, Westchester, New York, USA
@@ -11710,6 +12219,10 @@
 4 LONG W73.6438
 2 SOUR @iX7z90TwQxmD47CWB4F0@
 3 QUAY 1
+2 SOUR @D5Hfu5V4QiadE6qpxHG2@
+3 PAGE Volume: 298
+3 OBJE @M174@
+3 _APID 1,2204::1238457
 1 _XY 86910 1671
 0 @myLxxObVRfa70Y7ycawk@ INDI
 1 REFN 07b52db4-bfdf-4d3c-846b-12d58c08bf88
@@ -11766,16 +12279,36 @@
 3 DATA
 4 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=62861
 5 CONC &pid=1184
+2 SOUR @S175@
+3 PAGE New York State Department of Health; Albany, NY, USA; New Yo
+4 CONC rk State Marriage Index; Madeline D. Lowery
+3 OBJE @M159@
+3 _APID 1,61632::7416836
 2 SOUR @XLqOXBdKSiS546wsc0IB@
 3 PAGE New York State Archives; Albany, New York; State Populatio
 4 CONC n Census Schedules, 1925; Election District: 03; Assembly Di
 4 CONC strict: 01; City: Corning; County: Steuben; Page: 6
 3 OBJE @M124@
 3 _APID 1,2704::25161873
+2 SOUR @D5SLrrBySbi6oa3ygAnv@
+3 PAGE 1958, Corning
+3 OBJE @M155@
+3 _APID 1,2469::91105504
+2 SOUR @D5SLrrBySbi6oa3ygAnv@
+3 PAGE Painted Post
+3 OBJE @M156@
+3 _APID 1,2469::57227855
 2 SOUR @S187@
 3 _APID 1,1788::219297906
+2 SOUR @S191@
+3 _APID 1,1732::269426901
+2 SOUR @S222@
+3 OBJE @M157@
+3 _APID 1,2238::334185814
 2 SOUR @fgk8xAOsQLeHP2vct6BI@
 3 _APID 1,60525::37910294
+2 SOUR @nuNi9KjuQRC7bV7GdbqW@
+3 _APID 1,60901::800457293
 2 SOUR @S188@
 3 PAGE Issue State: New York; Issue Date: Before 1951
 3 _APID 1,3693::80892045
@@ -11783,6 +12316,7 @@
 1 FAMS @F491@
 1 OBJE @M125@
 1 OBJE @M126@
+1 OBJE @M150@
 1 BIRT
 2 DATE 10 MAY 1909
 2 PLAC Bath, Steuben, New York, USA
@@ -11812,8 +12346,12 @@
 3 _APID 1,2704::25161873
 2 SOUR @S187@
 3 _APID 1,1788::219297906
+2 SOUR @S191@
+3 _APID 1,1732::269426901
 2 SOUR @fgk8xAOsQLeHP2vct6BI@
 3 _APID 1,60525::37910294
+2 SOUR @nuNi9KjuQRC7bV7GdbqW@
+3 _APID 1,60901::800457293
 2 SOUR @S188@
 3 PAGE Issue State: New York; Issue Date: Before 1951
 3 _APID 1,3693::80892045
@@ -11880,6 +12418,16 @@
 3 _APID 1,2442::8680819
 2 NOTE Age: 30; Marital Status: Married; Relation to Head of House
 3 CONC : Wife
+1 RESI
+2 DATE 1958
+2 PLAC Corning, Steuben, New York, USA
+3 MAP
+4 LATI N42.1429
+4 LONG W77.0547
+2 SOUR @D5SLrrBySbi6oa3ygAnv@
+3 PAGE 1958, Corning
+3 OBJE @M155@
+3 _APID 1,2469::91105504
 1 DEAT
 2 DATE 22 OCT 2007
 2 PLAC Painted Post, Steuben, New York, USA
@@ -11888,6 +12436,8 @@
 4 LONG W77.0941
 2 SOUR @fgk8xAOsQLeHP2vct6BI@
 3 _APID 1,60525::37910294
+2 SOUR @nuNi9KjuQRC7bV7GdbqW@
+3 _APID 1,60901::800457293
 2 SOUR @S188@
 3 PAGE Issue State: New York; Issue Date: Before 1951
 3 _APID 1,3693::80892045
@@ -11898,6 +12448,15 @@
 4 LONG W77.1419
 2 SOUR @fgk8xAOsQLeHP2vct6BI@
 3 _APID 1,60525::37910294
+1 RESI
+2 PLAC Painted Post, Steuben, New York, USA
+3 MAP
+4 LATI N42.162
+4 LONG W77.0941
+2 SOUR @D5SLrrBySbi6oa3ygAnv@
+3 PAGE Painted Post
+3 OBJE @M156@
+3 _APID 1,2469::57227855
 1 _XY 2437 4244
 1 _PHOTO @M125@
 0 @c7KhnZUcSISNf8wMT3Cq@ INDI
@@ -12094,6 +12653,9 @@
 4 CONC rk State Marriage Index; May A McLaughlin
 3 OBJE @M89@
 3 _APID 1,61632::1673798
+2 SOUR @S229@
+3 OBJE @M164@
+3 _APID 1,61377::1200674704
 1 SEX F
 1 FAMS @SECEG17DTR2JpN35QBiT@
 1 BIRT
@@ -12150,6 +12712,10 @@
 2 SOUR @oZEq5RcjSqSFBjCnTjBj@
 3 QUAY 1
 1 _XY 93832 3817
+0 @I612@ INDI
+1 NAME Frederick Colvin /Mosher/
+1 SEX M
+1 FAMS @F492@
 0 @1Pwj3sxxRZGvQiN8IRFG@ INDI
 1 REFN f68e89ab-b66f-49a4-9126-b5ab47ef5719
 1 NAME Margery /Moyer/
@@ -14658,6 +15224,11 @@
 0 @UnfJZ27RRkCGwDoREsT3@ INDI
 1 REFN a39bc133-49c3-450a-a7e9-4ee63cc86b82
 1 NAME Bathsheba /Sands/
+2 SOUR @S238@
+3 PAGE Book Title: Thomas Stevenson of London, England and his desc
+4 CONC endants
+3 OBJE @M169@
+3 _APID 1,61157::1342858
 1 SEX F
 1 FAMC @GIHNr2WbQeSCFpILMcxA@
 1 BIRT
@@ -14846,6 +15417,36 @@
 0 @9iXLU6NwT5q06yipbyNH@ INDI
 1 REFN 7b496bb7-0e29-427b-bea4-0b4290d93e2f
 1 NAME James /Sands/
+2 SOUR @S239@
+3 PAGE Captain James Sands
+3 OBJE @M173@
+3 _APID 1,61175::8691
+2 SOUR @PXfI0YHYQUKRMhHLFv7r@
+3 PAGE James Sands
+3 _APID 1,7249::10032943
+2 SOUR @S231@
+3 PAGE New York State Archives; Albany, New York; Records of will
+4 CONC s and probates, 1665-1787; Series Number: J0043-92
+3 OBJE @M165@
+3 _APID 1,60387::41745
+2 SOUR @S230@
+3 PAGE Wills and Administrations (New York County, New York), 1680-
+4 CONC 1804; Author: New York. Surrogate's Court (New York County)
+4 CONC ; Probate Place: New York, New York
+3 OBJE @M163@
+3 _APID 1,8800::5076971
+2 SOUR @S238@
+3 PAGE Book Title: Thomas Stevenson of London, England and his desc
+4 CONC endants
+3 OBJE @M169@
+3 _APID 1,61157::1342859
+2 SOUR @8JKRT5eyQIacofBNTJGN@
+3 PAGE p. 7
+2 SOUR @S237@
+3 PAGE Genealogical Publishing Co.; Baltimore, MD, USA; Volume Titl
+4 CONC e: New England Marriages Prior to 1700; James Sands
+3 OBJE @M168@
+3 _APID 1,3824::66080
 1 SEX M
 1 FAMC @WEXNUs7dR46YH09CkMFZ@
 1 FAMS @GIHNr2WbQeSCFpILMcxA@
@@ -14855,6 +15456,13 @@
 3 MAP
 4 LATI N41.1724
 4 LONG W71.5578
+2 SOUR @S239@
+3 PAGE Captain James Sands
+3 OBJE @M173@
+3 _APID 1,61175::8691
+2 SOUR @PXfI0YHYQUKRMhHLFv7r@
+3 PAGE James Sands
+3 _APID 1,7249::10032943
 2 SOUR @JxJh0QIRS7qzs8S8U6uS@
 1 RESI
 2 DATE FROM 1671 TO 1691
@@ -14874,6 +15482,8 @@
 2 SOUR @gOBFdjV9TfmQ06dX3rLw@
 3 PAGE p. 9
 3 QUAY 1
+2 SOUR @8JKRT5eyQIacofBNTJGN@
+3 PAGE p. 7
 1 RESI
 2 DATE FROM 1697 TO 1731
 2 PLAC Matinecock, Oyster Bay, Nassau, New York, USA
@@ -15008,6 +15618,17 @@
 5 CONC l Underhill, of Oyster Bay, executors. Witnesses, William Bu
 5 CONC rch, Peter Hegeman, Benjamin Carpenter. Proved, January 16
 5 CONC , 1733/4.
+2 SOUR @S231@
+3 PAGE New York State Archives; Albany, New York; Records of will
+4 CONC s and probates, 1665-1787; Series Number: J0043-92
+3 OBJE @M165@
+3 _APID 1,60387::41745
+2 SOUR @S230@
+3 PAGE Wills and Administrations (New York County, New York), 1680-
+4 CONC 1804; Author: New York. Surrogate's Court (New York County)
+4 CONC ; Probate Place: New York, New York
+3 OBJE @M163@
+3 _APID 1,8800::5076971
 1 DEAT
 2 DATE ABT 15 JAN 1734
 2 PLAC Matinecock, Oyster Bay, Nassau, New York, USA
@@ -15047,8 +15668,35 @@
 5 CONC l Underhill, of Oyster Bay, executors. Witnesses, William Bu
 5 CONC rch, Peter Hegeman, Benjamin Carpenter. Proved, January 16
 5 CONC , 1733/4.
+2 SOUR @S239@
+3 PAGE Captain James Sands
+3 OBJE @M173@
+3 _APID 1,61175::8691
+2 SOUR @PXfI0YHYQUKRMhHLFv7r@
+3 PAGE James Sands
+3 _APID 1,7249::10032943
+2 SOUR @S231@
+3 PAGE New York State Archives; Albany, New York; Records of will
+4 CONC s and probates, 1665-1787; Series Number: J0043-92
+3 OBJE @M165@
+3 _APID 1,60387::41745
+2 SOUR @S230@
+3 PAGE Wills and Administrations (New York County, New York), 1680-
+4 CONC 1804; Author: New York. Surrogate's Court (New York County)
+4 CONC ; Probate Place: New York, New York
+3 OBJE @M163@
+3 _APID 1,8800::5076971
+2 SOUR @S237@
+3 PAGE Genealogical Publishing Co.; Baltimore, MD, USA; Volume Titl
+4 CONC e: New England Marriages Prior to 1700; James Sands
+3 OBJE @M168@
+3 _APID 1,3824::66080
 1 PROB
-2 DATE 16 JAN 1734
+2 DATE 19 JAN 1734
+2 PLAC New York, New York, USA
+3 MAP
+4 LATI N40.7744
+4 LONG W73.9721
 2 SOUR @S20@
 3 QUAY 1
 3 DATA
@@ -15085,6 +15733,17 @@
 5 CONC l Underhill, of Oyster Bay, executors. Witnesses, William Bu
 5 CONC rch, Peter Hegeman, Benjamin Carpenter. Proved, January 16
 5 CONC , 1733/4.
+2 SOUR @S231@
+3 PAGE New York State Archives; Albany, New York; Records of will
+4 CONC s and probates, 1665-1787; Series Number: J0043-92
+3 OBJE @M165@
+3 _APID 1,60387::41745
+2 SOUR @S230@
+3 PAGE Wills and Administrations (New York County, New York), 1680-
+4 CONC 1804; Author: New York. Surrogate's Court (New York County)
+4 CONC ; Probate Place: New York, New York
+3 OBJE @M163@
+3 _APID 1,8800::5076971
 1 _XY 87258 1887
 0 @nAJ7oDTQTNuADhX9ViIr@ INDI
 1 REFN 5f3a1168-c74d-4a4a-a97c-623bb9401e63
@@ -15302,6 +15961,7 @@
 4 LATI N41.2548
 4 LONG W73.9002
 2 SOUR @ap7ZdI44QYGY4jw7fGXi@
+3 OBJE @M190@
 2 SOUR @ap7ZdI44QYGY4jw7fGXi@
 3 PAGE New York: Westchester County: Cortlandt, 1801
 3 OBJE @ste4cEkGR5izkDrj7Ffq@
@@ -15313,6 +15973,7 @@
 4 LATI N41.2548
 4 LONG W73.9002
 2 SOUR @ap7ZdI44QYGY4jw7fGXi@
+3 OBJE @M191@
 2 SOUR @ap7ZdI44QYGY4jw7fGXi@
 3 PAGE New York: Westchester County: Cortlandt, 1802
 3 OBJE @fcFx3NVhR92oZvMpaPRU@
@@ -15324,6 +15985,7 @@
 4 LATI N41.2548
 4 LONG W73.9002
 2 SOUR @ap7ZdI44QYGY4jw7fGXi@
+3 OBJE @M192@
 2 SOUR @ap7ZdI44QYGY4jw7fGXi@
 3 PAGE New York: Westchester County: Cortlandt, 1803
 3 OBJE @dq5XyF0PRHaQRPnvNCHY@
@@ -16159,6 +16821,29 @@
 0 @K3KqxhA8S3q3tzizlPX6@ INDI
 1 REFN 8ca5bb12-370b-4fe7-b594-c659171adf77
 1 NAME Othiniel /Sands/
+2 SOUR @S230@
+3 PAGE Probate Court Records, Wills and Administrations, Ulster Cou
+4 CONC nty, New York, 1662-1783, 1787-1822; Author: New York. Surro
+4 CONC gate's Court (Ulster County); Probate Place: Ulster, New Yor
+4 CONC k
+3 OBJE @M180@
+3 _APID 1,8800::4515528
+2 SOUR @S230@
+3 PAGE Record of Wills, 1665-1916; Index to Wills, 1662-1923 (New Y
+4 CONC ork County); Author: New York. Surrogate's Court (New York C
+4 CONC ounty); Probate Place: New York, New York
+3 OBJE @M176@
+3 _APID 1,8800::1036474
+2 SOUR @S230@
+3 PAGE Wills and Administrations (New York County, New York), 1680-
+4 CONC 1804; Author: New York. Surrogate's Court (New York County)
+4 CONC ; Probate Place: New York, New York
+3 OBJE @M175@
+3 _APID 1,8800::5036622
+2 SOUR @D5Hfu5V4QiadE6qpxHG2@
+3 PAGE Volume: 298
+3 OBJE @M174@
+3 _APID 1,2204::1238456
 1 SEX M
 1 FAMC @GIHNr2WbQeSCFpILMcxA@
 1 FAMS @xf5KVes0R52nVPjRsXxl@
@@ -16166,6 +16851,10 @@
 2 DATE 1699
 2 PLAC Matinecock, Oyster Bay, Nassau, New York, USA
 2 SOUR @JxJh0QIRS7qzs8S8U6uS@
+2 SOUR @D5Hfu5V4QiadE6qpxHG2@
+3 PAGE Volume: 298
+3 OBJE @M174@
+3 _APID 1,2204::1238456
 2 NOTE place is assumed from father's residence
 1 RESI
 2 DATE FROM 1699 TO 1746
@@ -16245,7 +16934,13 @@
 5 CONC icles of domestic use, after her death they are to go to m
 5 CONC y daughter Jerusha. September 3, 1757. Proved, April 2, 1761
 5 CONC .
-1 WILL
+2 SOUR @S230@
+3 PAGE Wills and Administrations (New York County, New York), 1680-
+4 CONC 1804; Author: New York. Surrogate's Court (New York County)
+4 CONC ; Probate Place: New York, New York
+3 OBJE @M175@
+3 _APID 1,8800::5036622
+1 WILL codicil
 2 DATE 03 SEP 1757
 2 PLAC Bedford, Westchester, New York, USA
 3 MAP
@@ -16279,6 +16974,12 @@
 5 CONC icles of domestic use, after her death they are to go to m
 5 CONC y daughter Jerusha. September 3, 1757. Proved, April 2, 1761
 5 CONC .
+2 SOUR @S230@
+3 PAGE Wills and Administrations (New York County, New York), 1680-
+4 CONC 1804; Author: New York. Surrogate's Court (New York County)
+4 CONC ; Probate Place: New York, New York
+3 OBJE @M175@
+3 _APID 1,8800::5036622
 1 DEAT
 2 DATE ABT 01 APR 1761
 2 PLAC Bedford, Westchester, New York, USA
@@ -16313,13 +17014,29 @@
 5 CONC icles of domestic use, after her death they are to go to m
 5 CONC y daughter Jerusha. September 3, 1757. Proved, April 2, 1761
 5 CONC .
+2 SOUR @S230@
+3 PAGE Record of Wills, 1665-1916; Index to Wills, 1662-1923 (New Y
+4 CONC ork County); Author: New York. Surrogate's Court (New York C
+4 CONC ounty); Probate Place: New York, New York
+3 OBJE @M176@
+3 _APID 1,8800::1036474
+2 SOUR @S230@
+3 PAGE Wills and Administrations (New York County, New York), 1680-
+4 CONC 1804; Author: New York. Surrogate's Court (New York County)
+4 CONC ; Probate Place: New York, New York
+3 OBJE @M175@
+3 _APID 1,8800::5036622
+2 SOUR @D5Hfu5V4QiadE6qpxHG2@
+3 PAGE Volume: 298
+3 OBJE @M174@
+3 _APID 1,2204::1238456
 2 NOTE based on date of will probate
 1 PROB
 2 DATE 02 APR 1761
-2 PLAC Bedford, Westchester, New York, USA
+2 PLAC Westchester, New York, USA
 3 MAP
-4 LATI N41.2043
-4 LONG W73.6438
+4 LATI N41.1536
+4 LONG W73.754
 2 SOUR @S20@
 3 QUAY 1
 3 DATA
@@ -16349,10 +17066,66 @@
 5 CONC y daughter Jerusha. September 3, 1757. Proved, April 2, 1761
 5 CONC .
 2 SOUR @Xvb3WGgOTTO3EC7sl8Ia@
+2 SOUR @S230@
+3 PAGE Probate Court Records, Wills and Administrations, Ulster Cou
+4 CONC nty, New York, 1662-1783, 1787-1822; Author: New York. Surro
+4 CONC gate's Court (Ulster County); Probate Place: Ulster, New Yor
+4 CONC k
+3 OBJE @M180@
+3 _APID 1,8800::4515528
+2 SOUR @S230@
+3 PAGE Wills and Administrations (New York County, New York), 1680-
+4 CONC 1804; Author: New York. Surrogate's Court (New York County)
+4 CONC ; Probate Place: New York, New York
+3 OBJE @M175@
+3 _APID 1,8800::5036622
+1 PROB
+2 DATE 06 APR 1761
+2 PLAC Westchester, New York, USA
+3 MAP
+4 LATI N41.1536
+4 LONG W73.754
+2 SOUR @S230@
+3 PAGE Probate Court Records, Wills and Administrations, Ulster Cou
+4 CONC nty, New York, 1662-1783, 1787-1822; Author: New York. Surro
+4 CONC gate's Court (Ulster County); Probate Place: Ulster, New Yor
+4 CONC k
+3 OBJE @M180@
+3 _APID 1,8800::4515528
+2 SOUR @S230@
+3 PAGE Record of Wills, 1665-1916; Index to Wills, 1662-1923 (New Y
+4 CONC ork County); Author: New York. Surrogate's Court (New York C
+4 CONC ounty); Probate Place: New York, New York
+3 OBJE @M176@
+3 _APID 1,8800::1036474
+2 SOUR @S230@
+3 PAGE Wills and Administrations (New York County, New York), 1680-
+4 CONC 1804; Author: New York. Surrogate's Court (New York County)
+4 CONC ; Probate Place: New York, New York
+3 OBJE @M175@
+3 _APID 1,8800::5036622
+1 PROB
+2 DATE 16 APR 1761
+2 PLAC New York, New York, USA
+3 MAP
+4 LATI N40.7744
+4 LONG W73.9721
+2 SOUR @S230@
+3 PAGE Wills and Administrations (New York County, New York), 1680-
+4 CONC 1804; Author: New York. Surrogate's Court (New York County)
+4 CONC ; Probate Place: New York, New York
+3 OBJE @M175@
+3 _APID 1,8800::5036622
 1 _XY 87258 1987
 0 @wQswKgUJSXKwQQ7KRMdu@ INDI
 1 REFN c64f2067-82d1-45fa-aede-57451c1789cc
 1 NAME Othiniel /Sands/
+2 SOUR @S240@
+3 PAGE Year: 1790; Census Place: York, Westchester, New York; Serie
+4 CONC s: M637; Roll: 6; Page: 214; Image: 625; Family History Libr
+4 CONC ary Film: 0568146
+3 OBJE @M177@
+3 _APID 1,5058::283992
 2 SOUR @S174@
 3 PAGE Year: 1800; Census Place: Salem, Westchester, New York; Seri
 4 CONC es: M32; Roll: 27; Page: 90; Image: 308; Family History Libr
@@ -16486,6 +17259,18 @@
 3 CONC wnship of Hanover, within Cortlandt's manor." Since 1790 cen
 3 CONC sus shows him in Yorktown, I'm assuming this 1779 location i
 3 CONC s also Yorktown.
+1 RESI
+2 DATE 1790
+2 PLAC Yorktown, Westchester, New York, USA
+3 MAP
+4 LATI N41.2956
+4 LONG W73.8086
+2 SOUR @S240@
+3 PAGE Year: 1790; Census Place: York, Westchester, New York; Serie
+4 CONC s: M637; Roll: 6; Page: 214; Image: 625; Family History Libr
+4 CONC ary Film: 0568146
+3 OBJE @M177@
+3 _APID 1,5058::283992
 1 CENS
 2 DATE 02 AUG 1790
 2 PLAC Yorktown, Westchester, New York, USA
@@ -19200,6 +19985,13 @@
 4 CONC rk State Marriage Index; Mary J. Sypian
 3 OBJE @M107@
 3 _APID 1,61632::3275616
+2 SOUR @S219@
+3 PAGE Democrat and Chronicle; Publication Date: 9/ Aug/ 1989; Publ
+4 CONC ication Place: Rochester, New York, United States of America
+4 CONC ; URL: https://www.newspapers.com/image/137334833/?article=f
+4 CONC 0fd07d4-4238-427a-8fb7-66ede07e922d&focus=0.49667794,0.17641
+4 CONC 532,0.65086865,0
+3 _APID 1,61843::293902685
 2 SOUR @D5SLrrBySbi6oa3ygAnv@
 3 PAGE (1st index entry)
 3 OBJE @M106@
@@ -19292,6 +20084,11 @@
 4 CONC m: 1375093
 3 OBJE @M138@
 3 _APID 1,7884::103800852
+2 SOUR @EK7T5HK7THyj56uQA095@
+3 PAGE Year: 1920; Census Place: Hornby, Steuben, New York; Roll: T
+4 CONC 625_1267; Page: 7A; Enumeration District: 114
+3 OBJE @M171@
+3 _APID 1,6061::87521098
 2 SOUR @6ueRmpMIQ9qSG0rSnwpX@
 3 PAGE Year: 1930; Census Place: Hornby, Steuben, New York; Roll: 1
 4 CONC 648; Page: 3B; Enumeration District: 44; Image: 994.0; FHL m
@@ -19335,6 +20132,9 @@
 4 CONC strict: 01; City: Hornby; County: Steuben; Page: 6
 3 OBJE @M141@
 3 _APID 1,2704::25133328
+2 SOUR @S222@
+3 OBJE @M162@
+3 _APID 1,2238::334185893
 2 SOUR @S216@
 3 PAGE Publication Place: Cambridge, Massachusetts, USA; URL: http:
 4 CONC //www.keefefuneralhome.com/book-of-memories/68020/Jung-Miria
@@ -19351,10 +20151,14 @@
 3 PAGE Number: 069-24-0800; Issue State: New York; Issue Date: Befo
 4 CONC re 1951
 3 _APID 1,3693::25893438
+2 SOUR @S228@
+3 OBJE @M166@
+3 _APID 1,2997::146861386
 1 SEX F
 1 FAMS @F495@
 1 OBJE @M145@
 1 OBJE @M146@
+1 OBJE @M151@
 1 BIRT
 2 DATE 22 MAY 1903
 2 PLAC Hornby, Steuben, New York, USA
@@ -19367,6 +20171,11 @@
 4 CONC m: 1375093
 3 OBJE @M138@
 3 _APID 1,7884::103800852
+2 SOUR @EK7T5HK7THyj56uQA095@
+3 PAGE Year: 1920; Census Place: Hornby, Steuben, New York; Roll: T
+4 CONC 625_1267; Page: 7A; Enumeration District: 114
+3 OBJE @M171@
+3 _APID 1,6061::87521098
 2 SOUR @6ueRmpMIQ9qSG0rSnwpX@
 3 PAGE Year: 1930; Census Place: Hornby, Steuben, New York; Roll: 1
 4 CONC 648; Page: 3B; Enumeration District: 44; Image: 994.0; FHL m
@@ -19404,6 +20213,9 @@
 3 PAGE Number: 069-24-0800; Issue State: New York; Issue Date: Befo
 4 CONC re 1951
 3 _APID 1,3693::25893438
+2 SOUR @S228@
+3 OBJE @M166@
+3 _APID 1,2997::146861386
 1 RESI
 2 DATE 1905
 2 PLAC Campbell, Steuben, New York, USA
@@ -19444,6 +20256,18 @@
 3 OBJE @M139@
 3 _APID 1,2703::6629452
 2 NOTE Age: 12; Relation to Head of House: Daughter
+1 RESI
+2 DATE 1920
+2 PLAC Hornby, Steuben, New York, USA
+3 MAP
+4 LATI N42.2442
+4 LONG W77.0444
+2 SOUR @EK7T5HK7THyj56uQA095@
+3 PAGE Year: 1920; Census Place: Hornby, Steuben, New York; Roll: T
+4 CONC 625_1267; Page: 7A; Enumeration District: 114
+3 OBJE @M171@
+3 _APID 1,6061::87521098
+2 NOTE Marital Status: Single; Relation to Head: Daughter
 1 RESI
 2 DATE 01 JUN 1925
 2 PLAC Hornby, Steuben, New York, USA
@@ -19495,6 +20319,16 @@
 3 _APID 1,2442::11197632
 2 NOTE Age: 37; Marital Status: Married; Relation to Head of House
 3 CONC : Wife
+1 EVEN
+2 TYPE Departure
+2 DATE 04 AUG 1950
+2 PLAC Liverpool, Lancashire, England
+3 MAP
+4 LATI N53.4055
+4 LONG W2.9805
+2 SOUR @S228@
+3 OBJE @M166@
+3 _APID 1,2997::146861386
 1 DEAT
 2 DATE 25 AUG 1998
 2 PLAC Ellicott City, Howard, Maryland, USA
@@ -21090,8 +21924,6 @@
 1 DEAT
 2 DATE 19 SEP 1702
 1 _XY 87928 3133
-0 @F492@ FAM
-1 WIFE @TxTDl5TdTdqYQBctCLt1@
 0 @lx4th97LSMCDxoF6hN2L@ FAM
 1 REFN 8ed03841-1794-421a-a7cd-7946c81a2ed0
 1 HUSB @3OOja4ebQHaQ3F5oIdwP@
@@ -21761,7 +22593,6 @@
 2 SOUR @JpOBqF2MTEmAkzsDtKVU@
 3 QUAY 1
 0 @F491@ FAM
-1 REFN 7190ef94-2577-4c7c-8e55-291e60981257
 1 HUSB @IBXtlFqRSU6uk41gdSuo@
 1 WIFE @I599@
 0 @QCyD0QckQVSosMDkO6Q0@ FAM
@@ -22428,6 +23259,9 @@
 4 CONC : 1240418
 3 OBJE @HzOLYD4yQLqpkslMCA9t@
 3 _APID 1,7602::1750078
+0 @F492@ FAM
+1 HUSB @I612@
+1 WIFE @TxTDl5TdTdqYQBctCLt1@
 0 @uI7atGknSI6MXOftENHi@ FAM
 1 REFN e1e4f80d-ddd4-412d-aa9d-77b2be7e661a
 1 HUSB @YUrXuiTmRFOt0pJPumAY@
@@ -22757,7 +23591,32 @@
 2 _MREL Natural
 1 MARR
 2 DATE 1697
+2 PLAC Sands Point, Nassau, New York, USA
+3 MAP
+4 LATI N40.8518
+4 LONG W73.7188
+2 SOUR @S239@
+3 PAGE Captain James Sands
+3 OBJE @M173@
+3 _APID 1,61175::8691
+2 SOUR @S239@
+3 PAGE Mary Cornell
+3 OBJE @M173@
+2 SOUR @PXfI0YHYQUKRMhHLFv7r@
+3 PAGE James Sands
+3 _APID 1,7249::10032943
+2 SOUR @PXfI0YHYQUKRMhHLFv7r@
+3 PAGE Mary Cornell
 2 SOUR @JxJh0QIRS7qzs8S8U6uS@
+2 SOUR @S237@
+3 PAGE Genealogical Publishing Co.; Baltimore, MD, USA; Volume Titl
+4 CONC e: New England Marriages Prior to 1700; James Sands
+3 OBJE @M168@
+3 _APID 1,3824::66080
+2 SOUR @S237@
+3 PAGE Genealogical Publishing Co.; Baltimore, MD, USA; Volume Titl
+4 CONC e: New England Marriages Prior to 1700; Mary Sands/Cornell
+3 OBJE @M168@
 0 @GTepajPdSnuW649k1Rru@ FAM
 1 REFN 0366c3e7-922a-4dd1-820e-4a1be4680e9e
 1 HUSB @GFLJibeaQsOfVXX1RI8L@
@@ -23579,6 +24438,12 @@
 1 ADDR http://www.Ancestry.com
 1 EMAIL
 1 PHON
+0 @S240@ SOUR
+1 REPO @kBzDdT7sR6qYOEZMnKPD@
+1 TITL 1790 United States Federal Census
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
+2 CONC e: 2010
 0 @S174@ SOUR
 1 REPO @kBzDdT7sR6qYOEZMnKPD@
 1 TITL 1800 United States Federal Census
@@ -23660,7 +24525,6 @@
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2010
 0 @6ueRmpMIQ9qSG0rSnwpX@ SOUR
-1 REFN bf7a7fac-6431-4870-bf88-a5ac07592f5d
 1 REPO @kBzDdT7sR6qYOEZMnKPD@
 1 TITL 1930 United States Federal Census
 1 AUTH Ancestry.com
@@ -23813,6 +24677,12 @@
 1 TITL Certificate of death, Mosher, Alice H
 1 AUTH Bureau of Vital Statistics, Board of Health, Delaware, USA
 1 PUBL 13 Apr 1971, Delaware, USA
+0 @S239@ SOUR
+1 REPO @kBzDdT7sR6qYOEZMnKPD@
+1 TITL Colonial Families of the USA, 1607-1775
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.; Location: Lehi, UT, USA; Date
+2 CONC : 2016
 0 @S207@ SOUR
 1 REFN 71c5479e-e95d-4a69-ac4a-3076429afc82
 1 TITL Commencement invitation, Corning Northside High School
@@ -24670,7 +25540,6 @@
 1 AUTH Marshall, John
 1 PUBL http://homepages.rootsweb.com/~marshall/
 0 @PXfI0YHYQUKRMhHLFv7r@ SOUR
-1 REFN e64d9fc3-5d79-4ea5-9f17-e848a7ba6b60
 1 REPO @kBzDdT7sR6qYOEZMnKPD@
 1 TITL Millennium File
 1 AUTH Heritage Consulting
@@ -24684,6 +25553,13 @@
 1 REFN c8b76329-2213-4f7e-926b-125ceec6794c
 1 TITL NEHGR, vol. 31
 1 PUBL NEHGS, 1877
+0 @S231@ SOUR
+1 REPO @kBzDdT7sR6qYOEZMnKPD@
+1 TITL New York County, New York, Wills and Probate Records, 1658-1
+2 CONC 880 (NYSA)
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
+2 CONC e: 2015
 0 @Yb5VQblvQOKqvmQyMB79@ SOUR
 1 REFN 292d91c1-e4b0-4716-93ad-fb5f1dccb623
 1 TITL New York in the Revolution as Colony and State
@@ -24701,6 +25577,12 @@
 0 @S192@ SOUR
 1 REPO @kBzDdT7sR6qYOEZMnKPD@
 1 TITL New York State, Birth Index, 1881-1942
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.; Location: Lehi, UT, USA; Date
+2 CONC : 2018
+0 @S232@ SOUR
+1 REPO @kBzDdT7sR6qYOEZMnKPD@
+1 TITL New York State, Death Index, 1957-1968
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Lehi, UT, USA; Date
 2 CONC : 2018
@@ -24722,6 +25604,12 @@
 2 CONT 1730 sep Will of JAMES SANDS, Oyster Bay, son Othniel, lan
 2 CONC d "lately bought of Isaac FOREMAN" (3:136) (orig Liber 12:12
 2 CONC 9)
+0 @S229@ SOUR
+1 REPO @kBzDdT7sR6qYOEZMnKPD@
+1 TITL New York, County Marriage Records, 1847-1849, 1907-1936
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.; Location: Lehi, UT, USA; Date
+2 CONC : 2016
 0 @S195@ SOUR
 1 REFN e57544e0-3dcd-429a-9322-24f156f4fedb
 1 REPO @kBzDdT7sR6qYOEZMnKPD@
@@ -24729,6 +25617,12 @@
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Lehi, UT, USA; Date
 2 CONC : 2016
+0 @S242@ SOUR
+1 REPO @kBzDdT7sR6qYOEZMnKPD@
+1 TITL New York, Death Index, 1852-1956
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.; Location: Lehi, UT, USA; Date
+2 CONC : 2017
 0 @KZ6n7HI9SIWa4oMSz70e@ SOUR
 1 REFN fbd9ebcc-c238-41f3-b2c5-b69bbe2bde6b
 1 REPO @kBzDdT7sR6qYOEZMnKPD@
@@ -24784,7 +25678,6 @@
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2012
 0 @XLqOXBdKSiS546wsc0IB@ SOUR
-1 REFN f9bbe302-05d9-4b2d-b453-cee9732f91fb
 1 REPO @kBzDdT7sR6qYOEZMnKPD@
 1 TITL New York, State Census, 1925
 1 AUTH Ancestry.com
@@ -24798,6 +25691,24 @@
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2014
+0 @S230@ SOUR
+1 REPO @kBzDdT7sR6qYOEZMnKPD@
+1 TITL New York, Wills and Probate Records, 1659-1999
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
+2 CONC e: 2015
+0 @S219@ SOUR
+1 REPO @kBzDdT7sR6qYOEZMnKPD@
+1 TITL Newspapers.com Obituary Index, 1800s-current
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations Inc; Location: Lehi, UT, USA; Date
+2 CONC : 2019
+0 @S238@ SOUR
+1 REPO @kBzDdT7sR6qYOEZMnKPD@
+1 TITL North America, Family Histories, 1500-2000
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
+2 CONC e: 2016
 0 @QrzGDL3iRkq7FMbAOIur@ SOUR
 1 REFN a8b1d2d6-6747-4158-960c-e0dbdad1f281
 1 TITL Notes on the Webb Family
@@ -25265,6 +26176,12 @@
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2010
+0 @S222@ SOUR
+1 REPO @kBzDdT7sR6qYOEZMnKPD@
+1 TITL U.S. WWII Draft Cards Young Men, 1940-1947
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.; Location: Lehi, UT, USA; Date
+2 CONC : 2011
 0 @S215@ SOUR
 1 REFN 6d2180c3-bb1c-47c0-b6dd-0b65ac326713
 1 REPO @kBzDdT7sR6qYOEZMnKPD@
@@ -25286,12 +26203,17 @@
 1 PUBL Ancestry.com Operations Inc; Location: Provo, UT, USA; Date
 2 CONC : 2009
 0 @fgk8xAOsQLeHP2vct6BI@ SOUR
-1 REFN 61726be3-f3b9-482c-acf7-9a10c8965f29
 1 REPO @kBzDdT7sR6qYOEZMnKPD@
 1 TITL U.S., Find A Grave Index, 1600s-Current
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2012
+0 @S237@ SOUR
+1 REPO @kBzDdT7sR6qYOEZMnKPD@
+1 TITL U.S., New England Marriages Prior to 1700
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations Inc; Location: Provo, UT, USA; Date
+2 CONC : 2012
 0 @S186@ SOUR
 1 REPO @kBzDdT7sR6qYOEZMnKPD@
 1 TITL U.S., Obituary Collection, 1930-Current
@@ -25305,8 +26227,13 @@
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2010
+0 @S227@ SOUR
+1 REPO @kBzDdT7sR6qYOEZMnKPD@
+1 TITL U.S., School Yearbooks, 1900-1999
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
+2 CONC e: 2010
 0 @nuNi9KjuQRC7bV7GdbqW@ SOUR
-1 REFN 25b57835-25b5-4d65-8ce4-63260608ffbe
 1 REPO @kBzDdT7sR6qYOEZMnKPD@
 1 TITL U.S., Social Security Applications and Claims Index, 1936-20
 2 CONC 07
@@ -25320,7 +26247,6 @@
 1 PUBL Ancestry.com Operations Inc; Location: Provo, UT, USA; Date
 2 CONC : 2014
 0 @D5Hfu5V4QiadE6qpxHG2@ SOUR
-1 REFN 6204610e-5fb9-470d-9ab7-2c798642bfa3
 1 REPO @kBzDdT7sR6qYOEZMnKPD@
 1 TITL U.S., Sons of the American Revolution Membership Application
 2 CONC s, 1889-1970
@@ -25334,6 +26260,12 @@
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations Inc; Location: Provo, UT, USA; Date
 2 CONC : 2005
+0 @S228@ SOUR
+1 REPO @kBzDdT7sR6qYOEZMnKPD@
+1 TITL UK and Ireland, Outward Passenger Lists, 1890-1960
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
+2 CONC e: 2012
 0 @APc3Wf1oR9eUJ0Ler2x5@ SOUR
 1 REFN 237f5a95-a10c-41e9-be9c-d87dee2b7699
 1 TITL US Census, 1790, CT, Fairfield, Greenwich
@@ -27678,4 +28610,301 @@
 2 TITL New York State, Marriage Index, 1881-1967
 2 _TEXT New York State Department of Health; Albany, NY, USA; New Yo
 3 CONC rk State Marriage Index
+0 @M150@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Harrison Media\
+2 CONC Madeline Doris Lowery Harrison(1).jpg
+2 FORM jpg
+2 TITL Madeline Doris Lowery Harrison
+0 @M151@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Harrison Media\
+2 CONC marriage record (2).htm
+2 FORM jpg
+2 TITL marriage record
+0 @M152@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Harrison Media\
+2 CONC DNA Male.jpg
+2 FORM jpg
+2 TITL DNA Male
+0 @M153@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Harrison Media\
+2 CONC Harrison James Leo & Madeline doris(1).jpg
+2 FORM jpg
+2 TITL Harrison James Leo & Madeline doris
+2 _DATE 26 Mar 2012
+0 @M154@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Harrison Media\
+2 CONC Harrison Family.jpg
+2 FORM jpg
+2 TITL Harrison Family
+2 _DATE About 1904
+2 _TEXT  Harrison Family Farm   (L to R) Ann McLaughlin Harrison Elm
+3 CONC er Harrison, John Harrison Henry Harrison  the banjo in th
+3 CONC e photo is displayed in the Hornby Historical Museum next t
+3 CONC o this photo.
+0 @M155@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Harrison Media\
+2 CONC U.S. City Directories, 1822-1995(1).jpg
+2 FORM jpg
+2 TITL U.S. City Directories, 1822-1995
+0 @M156@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Harrison Media\
+2 CONC U.S. City Directories, 1822-1995(2).jpg
+2 FORM jpg
+2 TITL U.S. City Directories, 1822-1995
+0 @M157@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Harrison Media\
+2 CONC U.S. WWII Draft Cards Young Men, 1940-1947.jpg
+2 FORM jpg
+2 TITL U.S. WWII Draft Cards Young Men, 1940-1947
+0 @M158@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Harrison Media\
+2 CONC New York State, Marriage Index, 1881-1967(8).jpg
+2 FORM jpg
+2 TITL New York State, Marriage Index, 1881-1967
+2 _TEXT New York State Department of Health; Albany, NY, USA; New Yo
+3 CONC rk State Marriage Index
+0 @M159@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Harrison Media\
+2 CONC New York State, Marriage Index, 1881-1967(9).jpg
+2 FORM jpg
+2 TITL New York State, Marriage Index, 1881-1967
+2 _TEXT New York State Department of Health; Albany, NY, USA; New Yo
+3 CONC rk State Marriage Index
+0 @M160@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Harrison Media\
+2 CONC New York State, Birth Index, 1881-1942(2).jpg
+2 FORM jpg
+2 TITL New York State, Birth Index, 1881-1942
+2 _TEXT New York State Department of Health; Albany, NY, USA; New Yo
+3 CONC rk State Birth Index
+0 @M161@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Harrison Media\
+2 CONC U.S., School Yearbooks, 1900-1999.jpg
+2 FORM jpg
+2 TITL U.S., School Yearbooks, 1900-1999
+2 _TEXT "U.S., School Yearbooks, 1880-2012"; School Name: Hamilton H
+3 CONC igh School; Year: 1951
+0 @M162@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Harrison Media\
+2 CONC U.S. WWII Draft Cards Young Men, 1940-1947(1).jpg
+2 FORM jpg
+2 TITL U.S. WWII Draft Cards Young Men, 1940-1947
+0 @M163@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Harrison Media\
+2 CONC New York, Wills and Probate Records, 1659-1999.jpg
+2 FORM jpg
+2 TITL New York, Wills and Probate Records, 1659-1999
+2 _TEXT Wills and Administrations (New York County, New York), 1680-
+3 CONC 1804; Author: New York. Surrogate's Court (New York County)
+3 CONC ; Probate Place: New York, New York
+0 @M164@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Harrison Media\
+2 CONC New York, County Marriage Records, 1847-1849, 1907-1936.jpg
+2 FORM jpg
+2 TITL New York, County Marriage Records, 1847-1849, 1907-1936
+0 @M165@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Harrison Media\
+2 CONC New York County, New York, Wills and Probate Records, 1658-1
+2 CONC 880 (NYSA).jpg
+2 FORM jpg
+2 TITL New York County, New York, Wills and Probate Records, 1658-1
+3 CONC 880 (NYSA)
+2 _TEXT New York State Archives; Albany, New York; Records of will
+3 CONC s and probates, 1665-1787; Series Number: J0043-92
+0 @M166@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Harrison Media\
+2 CONC UK and Ireland, Outward Passenger Lists, 1890-1960.jpg
+2 FORM jpg
+2 TITL UK and Ireland, Outward Passenger Lists, 1890-1960
+0 @M167@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Harrison Media\
+2 CONC New York State, Marriage Index, 1881-1967(10).jpg
+2 FORM jpg
+2 TITL New York State, Marriage Index, 1881-1967
+2 _TEXT New York State Department of Health; Albany, NY, USA; New Yo
+3 CONC rk State Marriage Index
+0 @M168@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Harrison Media\
+2 CONC U.S., New England Marriages Prior to 1700.jpg
+2 FORM jpg
+2 TITL U.S., New England Marriages Prior to 1700
+2 _TEXT Genealogical Publishing Co.; Baltimore, MD, USA; Volume Titl
+3 CONC e: New England Marriages Prior to 1700
+0 @M169@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Harrison Media\
+2 CONC North America, Family Histories, 1500-2000.jpg
+2 FORM jpg
+2 TITL North America, Family Histories, 1500-2000
+2 _TEXT Book Title: Thomas Stevenson of London, England and his desc
+3 CONC endants
+0 @M170@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Harrison Media\
+2 CONC U.S., School Yearbooks, 1900-1999(1).jpg
+2 FORM jpg
+2 TITL U.S., School Yearbooks, 1900-1999
+2 _TEXT "U.S., School Yearbooks, 1880-2012"; School Name: Hamilton H
+3 CONC igh School; Year: 1951
+0 @M171@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Harrison Media\
+2 CONC 1920 United States Federal Census(2).jpg
+2 FORM jpg
+2 TITL 1920 United States Federal Census
+2 _TEXT Year: 1920; Census Place: Hornby, Steuben, New York; Roll: T
+3 CONC 625_1267; Page: 7A; Enumeration District: 114
+0 @M172@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Harrison Media\
+2 CONC New York State, Birth Index, 1881-1942(3).jpg
+2 FORM jpg
+2 TITL New York State, Birth Index, 1881-1942
+2 _TEXT New York State Department of Health; Albany, NY, USA; New Yo
+3 CONC rk State Birth Index
+0 @M173@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Harrison Media\
+2 CONC Colonial Families of the USA, 1607-1775.jpg
+2 FORM jpg
+2 TITL Colonial Families of the USA, 1607-1775
+0 @M174@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Harrison Media\
+2 CONC U.S., Sons of the American Revolution Membership Application
+2 CONC s, 1889-1970.jpg
+2 FORM jpg
+2 TITL U.S., Sons of the American Revolution Membership Application
+3 CONC s, 1889-1970
+2 _TEXT Volume: 298
+0 @M175@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Harrison Media\
+2 CONC New York, Wills and Probate Records, 1659-1999(1).jpg
+2 FORM jpg
+2 TITL New York, Wills and Probate Records, 1659-1999
+2 _TEXT Wills and Administrations (New York County, New York), 1680-
+3 CONC 1804; Author: New York. Surrogate's Court (New York County)
+3 CONC ; Probate Place: New York, New York
+0 @M176@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Harrison Media\
+2 CONC New York, Wills and Probate Records, 1659-1999(2).jpg
+2 FORM jpg
+2 TITL New York, Wills and Probate Records, 1659-1999
+2 _TEXT Record of Wills, 1665-1916; Index to Wills, 1662-1923 (New Y
+3 CONC ork County); Author: New York. Surrogate's Court (New York C
+3 CONC ounty); Probate Place: New York, New York
+0 @M177@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Harrison Media\
+2 CONC 1790 United States Federal Census.jpg
+2 FORM jpg
+2 TITL 1790 United States Federal Census
+2 _TEXT Year: 1790; Census Place: York, Westchester, New York; Serie
+3 CONC s: M637; Roll: 6; Page: 214; Image: 625; Family History Libr
+3 CONC ary Film: 0568146
+0 @M178@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Harrison Media\
+2 CONC U.S. WWII Draft Cards Young Men, 1940-1947(2).jpg
+2 FORM jpg
+2 TITL U.S. WWII Draft Cards Young Men, 1940-1947
+0 @M179@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Harrison Media\
+2 CONC 1930 United States Federal Census(1).jpg
+2 FORM jpg
+2 TITL 1930 United States Federal Census
+2 _TEXT Year: 1930; Census Place: Corning, Steuben, New York; Page
+3 CONC : 15A; Enumeration District: 0032; FHL microfilm: 2341382
+0 @M180@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Harrison Media\
+2 CONC New York, Wills and Probate Records, 1659-1999(3).jpg
+2 FORM jpg
+2 TITL New York, Wills and Probate Records, 1659-1999
+2 _TEXT Probate Court Records, Wills and Administrations, Ulster Cou
+3 CONC nty, New York, 1662-1783, 1787-1822; Author: New York. Surro
+3 CONC gate's Court (Ulster County); Probate Place: Ulster, New Yor
+3 CONC k
+0 @M181@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Harrison Media\
+2 CONC 1920 United States Federal Census(3).jpg
+2 FORM jpg
+2 TITL 1920 United States Federal Census
+2 _TEXT Year: 1920; Census Place: Hornby, Steuben, New York; Roll: T
+3 CONC 625_1267; Page: 1A; Enumeration District: 114
+0 @M182@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Harrison Media\
+2 CONC New York, State Census, 1925(1).jpg
+2 FORM jpg
+2 TITL New York, State Census, 1925
+2 _TEXT New York State Archives; Albany, New York; State Populatio
+3 CONC n Census Schedules, 1925; Election District: 01; Assembly Di
+3 CONC strict: 01; City: Hornby; County: Steuben; Page: 13
+0 @M183@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Harrison Media\
+2 CONC New York State, Birth Index, 1881-1942(4).jpg
+2 FORM jpg
+2 TITL New York State, Birth Index, 1881-1942
+2 _TEXT New York State Department of Health; Albany, NY, USA; New Yo
+3 CONC rk State Birth Index
+0 @M184@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Harrison Media\
+2 CONC New York, Death Index, 1852-1956.jpg
+2 FORM jpg
+2 TITL New York, Death Index, 1852-1956
+2 _TEXT New York Department of Health; Albany, NY; NY State Death In
+3 CONC dex
+0 @M185@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Harrison Media\
+2 CONC New York State, Marriage Index, 1881-1967(11).jpg
+2 FORM jpg
+2 TITL New York State, Marriage Index, 1881-1967
+2 _TEXT New York State Department of Health; Albany, NY, USA; New Yo
+3 CONC rk State Marriage Index
+0 @M186@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Harrison Media\
+2 CONC U.S. WWII Draft Cards Young Men, 1940-1947(3).jpg
+2 FORM jpg
+2 TITL U.S. WWII Draft Cards Young Men, 1940-1947
+0 @M187@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Harrison Media\
+2 CONC U.S., School Yearbooks, 1900-1999(2).jpg
+2 FORM jpg
+2 TITL U.S., School Yearbooks, 1900-1999
+2 _TEXT "U.S., School Yearbooks, 1880-2012"; School Name: Hamilton H
+3 CONC igh School; Year: 1951
+0 @M188@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Harrison Media\
+2 CONC 1860 United States Federal Census(1).jpg
+2 FORM jpg
+2 TITL 1860 United States Federal Census
+2 _DATE 5/30/2020 1:33:19 AM
+0 @M189@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Harrison Media\
+2 CONC 1880 United States Federal Census.jpg
+2 FORM jpg
+2 TITL 1880 United States Federal Census
+2 _DATE 5/30/2020 1:33:30 AM
+0 @M190@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Harrison Media\
+2 CONC New York, Tax Assessment Rolls of Real and Personal Estates
+2 CONC , 1799-1804(4).jpg
+2 FORM jpg
+2 TITL New York, Tax Assessment Rolls of Real and Personal Estates
+3 CONC , 1799-1804
+2 _DATE 5/30/2020 1:34:41 AM
+0 @M191@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Harrison Media\
+2 CONC New York, Tax Assessment Rolls of Real and Personal Estates
+2 CONC , 1799-1804(5).jpg
+2 FORM jpg
+2 TITL New York, Tax Assessment Rolls of Real and Personal Estates
+3 CONC , 1799-1804
+2 _DATE 5/30/2020 1:34:48 AM
+0 @M192@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Harrison Media\
+2 CONC New York, Tax Assessment Rolls of Real and Personal Estates
+2 CONC , 1799-1804(6).jpg
+2 FORM jpg
+2 TITL New York, Tax Assessment Rolls of Real and Personal Estates
+3 CONC , 1799-1804
+2 _DATE 5/30/2020 1:34:54 AM
+0 @M193@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Harrison Media\
+2 CONC US, School Yearbooks, 1880-2012.jpg
+2 FORM jpg
+2 TITL U.S., School Yearbooks, 1880-2012
+2 _DATE 5/30/2020 1:35:31 AM
+2 _TEXT p. 4, “Faculty” photograph
 0 TRLR
