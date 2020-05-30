@@ -14,9 +14,9 @@
 4 CONT Boston, MA 02109
 3 PHON (617) 227-6681
 1 DEST FTM
-1 FILE Lopez_2020-05-17-01-43-36.ftm.ged
-1 DATE 17 MAY 2020
-2 TIME 01:41:46
+1 FILE Lopez_2020-05-30-14-14-10.ftm.ged
+1 DATE 30 MAY 2020
+2 TIME 14:12:05
 0 @Umy2qBWIRUiwVSS6Hcn4@ SUBM
 1 NAME Christopher Alan Mosher
 2 EMAIL cmosher01@@gmail.com
@@ -39,6 +39,19 @@
 2 PHON +1-203-513-9292
 1 LANG English
 1 RIN Umy2qBWIRUiwVSS6Hcn4
+0 @I323@ INDI
+1 NAME [REDACTED]
+1 FAMS @F198@
+0 @I309@ INDI
+1 NAME Anthony William /Aprile/
+2 SOUR @S162@
+3 PAGE New Jersey State Archives; Trenton, New Jersey; Marriage Ind
+4 CONC exes; Index Type: Combined; Year Range: 2006; Anthony Willia
+4 CONC m Aprile
+3 OBJE @M168@
+3 _APID 1,61253::1082787782
+1 SEX M
+1 FAMS @F192@
 0 @I49@ INDI
 1 REFN 69e4b47c-a2c1-4c71-b902-5895faba3b70
 1 NAME Carlos /Auz/
@@ -145,6 +158,10 @@
 0 @I56@ INDI
 1 REFN 8a6f14c7-4cf8-4f1c-bff1-b6be9e820fd9
 1 NAME Mariano /Auz/
+2 SOUR @S142@
+3 PAGE New York City Department of Records & Information Services
+4 CONC ; New York City, New York; New York City Death Certificates
+3 _APID 1,61778::61712701
 2 SOUR @S94@
 1 SEX M
 1 FAMC @F17@
@@ -157,6 +174,10 @@
 3 MAP
 4 LATI S0.2167
 4 LONG W78.5
+2 SOUR @S142@
+3 PAGE New York City Department of Records & Information Services
+4 CONC ; New York City, New York; New York City Death Certificates
+3 _APID 1,61778::61712701
 2 SOUR @S94@
 1 TITL Comendador del Convento
 2 DATE FROM 1861 TO 1864
@@ -1080,6 +1101,13 @@
 2 SOUR @8SpggOHIRZiow2E3C3cu@
 3 _APID 1,60525::36337865
 1 _XY 3006 1970
+0 @I306@ INDI
+1 NAME [REDACTED]
+1 FAMS @F190@
+1 FAMS @F191@
+0 @I308@ INDI
+1 NAME [REDACTED]
+1 FAMC @F190@
 0 @I77@ INDI
 1 REFN f33bae71-57c6-4e62-b426-0e93de0721a0
 1 NAME Rosario /Daste/
@@ -2169,12 +2197,15 @@
 1 FAMC @F183@
 0 @I219@ INDI
 1 REFN 3be0f0a1-23c1-44a3-a9ce-d4ec54051bba
-1 NAME Anne /DiGennaro/
+1 NAME Annina /DiGennaro/
 2 SOUR @cYpH9GKbREexd30xG7Ri@
 3 PAGE Year: 1930; Census Place: Brooklyn, Kings, New York; Page: 2
 4 CONC 8B; Enumeration District: 1928; FHL microfilm: 2341258
 3 OBJE @M140@
 3 _APID 1,6224::39685045
+2 SOUR @S84@
+3 OBJE @M179@
+3 _APID 1,61457::354550
 2 SOUR @S135@
 3 PAGE Daily News; Publication Date: 19/ Nov/ 1993; Publication Pla
 4 CONC ce: New York, New York, United States of America; URL: https
@@ -2194,6 +2225,9 @@
 4 CONC 8B; Enumeration District: 1928; FHL microfilm: 2341258
 3 OBJE @M140@
 3 _APID 1,6224::39685045
+2 SOUR @S84@
+3 OBJE @M179@
+3 _APID 1,61457::354550
 1 RESI
 2 DATE 1930
 2 PLAC Brooklyn, New York City, New York, USA
@@ -2252,6 +2286,11 @@
 3 OBJE @M140@
 3 _APID 1,6224::39685009
 2 NOTE Marital Status: Married; Relation to Head: Head
+0 @I324@ INDI
+1 REFN 707d49da-5f83-4b74-ab43-f8d3ce729934
+1 NAME Harry Flandreau /Disosway/
+1 SEX M
+1 FAMS @F177@
 0 @I303@ INDI
 1 NAME Dios Celina /Donosa Munos/
 1 SEX F
@@ -2453,6 +2492,38 @@
 3 MAP
 4 LATI S2.1667
 4 LONG W79.9
+0 @I165@ INDI
+1 REFN 6b10f95a-5352-4f2a-b544-94bcd16d774d
+1 NAME Amalia /Donoso Hurtado Zambrano/
+2 SOUR @S94@
+1 SEX F
+1 FAMC @F55@
+1 FAMS @F61@
+1 FAMS @F62@
+1 OBJE @M129@
+1 OBJE @M133@
+1 NOTE There are some distant DNA matches whose ancestors are in co
+2 CONC mmon with those of Joaquín Donoso Ortiz, so the possibilit
+2 CONC y that Amalia's biological father was actually Joaquín Dono
+2 CONC so Ortiz, and not the suspected Hurtado, warrants further in
+2 CONC vestigation.
+1 BIRT
+2 DATE 1835
+2 PLAC Quito, Pichincha, Ecuador
+3 MAP
+4 LATI S0.2167
+4 LONG W78.5
+2 SOUR @S94@
+3 PAGE p. 25
+1 DEAT
+2 DATE 1913
+2 PLAC Quito, Pichincha, Ecuador
+3 MAP
+4 LATI S0.2167
+4 LONG W78.5
+2 SOUR @S94@
+1 _XY 1373 1684
+1 _PHOTO @M129@
 0 @I296@ INDI
 1 NAME Antonia /Donoso Mogrovejo Moya/
 1 SEX F
@@ -2663,6 +2734,22 @@
 3 MAP
 4 LATI S0.2167
 4 LONG W78.5
+0 @I314@ INDI
+1 NAME Rosemarie /Duarte/
+2 SOUR @S103@
+3 PAGE p. C557241; Rosemarie Duarte
+3 _APID 1,1100::4462835
+1 SEX F
+1 FAMS @F196@
+1 RESI
+2 DATE ABT 1994
+2 PLAC California, USA
+3 MAP
+4 LATI N37.25
+4 LONG W118.7334
+2 SOUR @S103@
+3 PAGE p. C557241; Rosemarie Duarte
+3 _APID 1,1100::4462835
 0 @I263@ INDI
 1 NAME [REDACTED]
 1 FAMS @F176@
@@ -2675,6 +2762,13 @@
 2 SOUR @S84@
 3 OBJE @M112@
 3 _APID 1,61457::3766751
+2 SOUR @S135@
+3 PAGE The Brooklyn Daily Eagle; Publication Date: 28/ Mar/ 1946; P
+4 CONC ublication Place: Brooklyn, New York, USA; URL: https://www.
+4 CONC newspapers.com/image/52880189/?article=c1edb243-c1b4-4a25-9c
+4 CONC 97-952d34f5db8f&focus=0.022291776,0.61840713,0.14868397,0.65
+4 CONC 13784&xid=2378
+3 _APID 1,61843::107026582
 2 SOUR @S85@
 3 _APID 1,1788::305122408
 2 SOUR @S2fyUKW7QvupWtUQHBOs@
@@ -2737,6 +2831,24 @@
 3 PAGE Number: 092-32-0504; Issue State: New York; Issue Date: 1957
 4 CONC -1958
 1 _XY 4764 4376
+0 @I315@ INDI
+1 NAME Allen /Eldredge/
+2 SOUR @S135@
+3 PAGE "Allen Eldredge", Newspapers.com ( https://www.newspapers.co
+4 CONC m/image/515825261/?article=db584855-b1fd-4ef3-ab0c-e006bc890
+4 CONC 896&focus=0.023811571,0.04719825,0.34711325,0.4553802 ), Obi
+4 CONC tuary Index; citing Times-News (Twin Falls, Idaho), 15 Aug 2
+4 CONC 017.
+3 _APID 1,61843::734381152
+1 SEX M
+1 FAMS @F194@
+0 @I313@ INDI
+1 NAME Eldon Roger /Erbe/
+2 SOUR @S103@
+3 PAGE p. C951909; Eldon Roger Erbe
+3 _APID 1,1100::3050093
+1 SEX M
+1 FAMS @F193@
 0 @cIbRXenQRiq6juLUmspF@ INDI
 1 REFN f93133fe-86bc-44f0-b105-8cb46f2636a5
 1 NAME Enid /Espinosa/
@@ -2932,6 +3044,10 @@
 2 SOUR @wN4p8JORTTCTcTlwT98u@
 3 PAGE Date: 1981-05-02
 3 _APID 1,5180::2554580
+2 SOUR @S134@
+3 PAGE Walter Vincent Ganley
+3 OBJE @M193@
+3 _APID 1,2238::195143729
 2 SOUR @GFCLw2yOQvibba3edsSE@
 3 PAGE Number: 054-07-2738; Issue State: New York; Issue Date: Befo
 4 CONC re 1951
@@ -2940,10 +3056,10 @@
 1 FAMS @F171@
 1 BIRT
 2 DATE 02 FEB 1914
-2 PLAC New Jersey, USA
+2 PLAC West New York, Hudson, New Jersey, USA
 3 MAP
-4 LATI N40.1365
-4 LONG W73.2613
+4 LATI N40.7879
+4 LONG W74.0143
 2 SOUR @pZSp306qQOGHvPqm0c60@
 3 PAGE Year: 1920; Census Place: West New York Ward 1, Hudson, Ne
 4 CONC w Jersey; Roll: T625_1051; Page: 28A; Enumeration District
@@ -2963,6 +3079,10 @@
 2 SOUR @wN4p8JORTTCTcTlwT98u@
 3 PAGE Date: 1981-05-02
 3 _APID 1,5180::2554580
+2 SOUR @S134@
+3 PAGE Walter Vincent Ganley
+3 OBJE @M193@
+3 _APID 1,2238::195143729
 2 SOUR @GFCLw2yOQvibba3edsSE@
 3 PAGE Number: 054-07-2738; Issue State: New York; Issue Date: Befo
 4 CONC re 1951
@@ -3013,6 +3133,14 @@
 3 _APID 1,2442::10647127
 2 NOTE Age: 26; Marital Status: Married; Relation to Head of House
 3 CONC : Head
+1 RESI
+2 DATE 1940
+2 PLAC 2117 Foster Avenue, Brooklyn, New York City, New York, USA
+2 SOUR @S134@
+3 PAGE Walter Vincent Ganley
+3 OBJE @M193@
+3 _APID 1,2238::195143729
+2 NOTE Relative Relation to Head: Stepfather
 1 DEAT
 2 DATE 02 MAY 1981
 2 PLAC West Covina, Los Angeles, California, USA
@@ -3027,6 +3155,16 @@
 4 CONC re 1951
 3 _APID 1,3693::21236236
 1 _XY 4271 4293
+0 @I322@ INDI
+1 NAME [REDACTED]
+1 FAMS @F175@
+0 @I257@ INDI
+1 NAME [REDACTED]
+1 FAMC @F175@
+0 @I310@ INDI
+1 NAME Gladys //
+1 SEX F
+1 FAMS @F199@
 0 @I162@ INDI
 1 REFN b7c89d8e-73bc-4cdb-9c8b-489c19d9c565
 1 NAME Beatriz /Gómez/
@@ -3097,6 +3235,40 @@
 1 FAMS @F187@
 1 BIRT
 2 DATE 1848
+0 @I320@ INDI
+1 NAME Angelica R. /Hedegaard/
+2 SOUR @S135@
+3 PAGE The Times-News; Publication Date: 15/ Aug/ 2017; Publicatio
+4 CONC n Place: Twin Falls, Idaho, United States of America; URL: h
+4 CONC ttps://www.newspapers.com/image/515825261/?article=db584855-
+4 CONC b1fd-4ef3-ab0c-e006bc890896&focus=0.023811571,0.04719825,0.3
+4 CONC 4711325,0.4553802
+3 _APID 1,61843::735231935
+1 SEX F
+1 FAMC @F197@
+1 RESI
+2 DATE 2017
+2 PLAC Salt Lake City, Salt Lake, Utah, USA
+3 MAP
+4 LATI N40.7608
+4 LONG W111.891
+0 @I319@ INDI
+1 NAME Ganley Allen /Hedegaard/
+2 SOUR @S135@
+3 PAGE The Times-News; Publication Date: 15/ Aug/ 2017; Publicatio
+4 CONC n Place: Twin Falls, Idaho, United States of America; URL: h
+4 CONC ttps://www.newspapers.com/image/515825261/?article=db584855-
+4 CONC b1fd-4ef3-ab0c-e006bc890896&focus=0.023811571,0.04719825,0.3
+4 CONC 4711325,0.4553802
+3 _APID 1,61843::735203330
+1 SEX M
+1 FAMC @F197@
+1 RESI
+2 DATE 2017
+2 PLAC Boise, Ada, Idaho, USA
+3 MAP
+4 LATI N43.6135
+4 LONG W116.2035
 0 @I241@ INDI
 1 NAME [REDACTED]
 1 FAMC @F160@
@@ -3115,6 +3287,7 @@
 1 FAMC @F160@
 1 FAMS @F166@
 1 OBJE @M90@
+1 OBJE @M151@
 1 BIRT
 2 DATE 13 DEC 1953
 2 PLAC Brooklyn, New York City, New York, USA
@@ -3175,6 +3348,15 @@
 3 PAGE Number: 127-24-2013; Issue State: New York; Issue Date: Befo
 4 CONC re 1951
 3 _APID 1,3693::70558126
+2 SOUR @S156@
+3 PAGE The National Archives of the UK; Kew, Surrey, England; Boar
+4 CONC d of Trade: Commercial and Statistical Department and succes
+4 CONC sors: Inwards Passenger Lists.; Class: BT26; Piece: 1134
+3 OBJE @M192@
+3 _APID 1,1518::10147935
+2 SOUR @S157@
+3 OBJE @M194@
+3 _APID 1,2997::140455060
 1 SEX M
 1 FAMS @F160@
 1 BIRT
@@ -3204,6 +3386,15 @@
 3 PAGE Number: 127-24-2013; Issue State: New York; Issue Date: Befo
 4 CONC re 1951
 3 _APID 1,3693::70558126
+2 SOUR @S156@
+3 PAGE The National Archives of the UK; Kew, Surrey, England; Boar
+4 CONC d of Trade: Commercial and Statistical Department and succes
+4 CONC sors: Inwards Passenger Lists.; Class: BT26; Piece: 1134
+3 OBJE @M192@
+3 _APID 1,1518::10147935
+2 SOUR @S157@
+3 OBJE @M194@
+3 _APID 1,2997::140455060
 1 RESI
 2 DATE 1935
 2 PLAC 3720 Avenue R, Brooklyn, New York City, New York, USA
@@ -3212,6 +3403,29 @@
 4 CONC -t0627-02554; Page: 15B; Enumeration District: 24-328
 3 OBJE @M92@
 3 _APID 1,2442::10677873
+1 EVEN
+2 TYPE Arrival
+2 DATE 22 APR 1937
+2 PLAC Southampton, Hampshire, England
+3 MAP
+4 LATI N50.9
+4 LONG W1.4
+2 SOUR @S156@
+3 PAGE The National Archives of the UK; Kew, Surrey, England; Boar
+4 CONC d of Trade: Commercial and Statistical Department and succes
+4 CONC sors: Inwards Passenger Lists.; Class: BT26; Piece: 1134
+3 OBJE @M192@
+3 _APID 1,1518::10147935
+1 EVEN
+2 TYPE Departure
+2 DATE 29 MAY 1937
+2 PLAC Southampton, Hampshire, England
+3 MAP
+4 LATI N50.9
+4 LONG W1.4
+2 SOUR @S157@
+3 OBJE @M194@
+3 _APID 1,2997::140455060
 1 EVEN
 2 TYPE Arrival
 2 DATE 06 JUN 1937
@@ -3266,6 +3480,7 @@
 0 @I222@ INDI
 1 NAME [REDACTED]
 1 FAMC @F160@
+1 FAMS @F196@
 0 @I226@ INDI
 1 REFN be462741-bcec-49f8-9b35-3af0fb69513f
 1 NAME Joan Marie /Hedegard/
@@ -3276,6 +3491,10 @@
 2 SOUR @S84@
 3 OBJE @M85@
 3 _APID 1,61457::7917587
+2 SOUR @S85@
+3 _APID 1,1788::251033226
+2 SOUR @S61@
+3 _APID 1,1732::376663750
 2 SOUR @GFCLw2yOQvibba3edsSE@
 3 PAGE Issue State: California; Issue Date: 1976
 3 _APID 1,3693::83050564
@@ -3294,11 +3513,29 @@
 2 SOUR @S84@
 3 OBJE @M85@
 3 _APID 1,61457::7917587
+2 SOUR @S61@
+3 _APID 1,1732::376663750
 2 SOUR @GFCLw2yOQvibba3edsSE@
 3 PAGE Issue State: California; Issue Date: 1976
 3 _APID 1,3693::83050564
 2 SOUR @S102@
 3 _APID 1,70833::44019
+1 RESI
+2 DATE 1987
+2 PLAC San Juan Capistrano, Orange, California, USA
+3 MAP
+4 LATI N33.5017
+4 LONG W117.6626
+2 SOUR @S85@
+3 _APID 1,1788::251033226
+1 RESI
+2 DATE 1996
+2 PLAC Costa Mesa, Orange, California, USA
+3 MAP
+4 LATI N33.6411
+4 LONG W117.9187
+2 SOUR @S85@
+3 _APID 1,1788::251033226
 1 DEAT
 2 DATE 21 JUL 2008
 2 PLAC Los Angeles, Los Angeles, California, USA
@@ -3310,6 +3547,27 @@
 3 _APID 1,3693::83050564
 2 SOUR @S102@
 3 _APID 1,70833::44019
+1 RESI
+2 PLAC Chino, San Bernardino, California, USA
+3 MAP
+4 LATI N34.0122
+4 LONG W117.689
+2 SOUR @S61@
+3 _APID 1,1732::376663750
+1 RESI
+2 PLAC Cerritos, Los Angeles, California, USA
+3 MAP
+4 LATI N33.8583
+4 LONG W118.0648
+2 SOUR @S85@
+3 _APID 1,1788::251033226
+1 RESI
+2 PLAC Newport Beach, Orange, California, USA
+3 MAP
+4 LATI N33.6189
+4 LONG W117.929
+2 SOUR @S85@
+3 _APID 1,1788::251033226
 0 @I231@ INDI
 1 NAME [REDACTED]
 1 FAMC @F160@
@@ -3322,9 +3580,71 @@
 1 NAME [REDACTED]
 1 FAMC @F160@
 1 FAMS @F159@
+1 FAMS @F193@
 0 @I227@ INDI
 1 NAME [REDACTED]
 1 FAMC @F160@
+1 FAMS @F197@
+1 FAMS @F198@
+0 @I307@ INDI
+1 NAME Angela Ann /Herbert/
+2 SOUR @S100@
+3 PAGE Birthdate: 12 Aug 1971; Birth County: Merced
+3 _APID 1,5247::11845007
+2 SOUR @S160@
+3 PAGE Minnesota Department of Health; Saint Paul, Minnesota; Minne
+4 CONC sota, Birth Index, 1935-2000
+3 _APID 1,8742::335431749
+2 SOUR @S85@
+3 _APID 1,1788::234240683
+2 SOUR @S61@
+3 _APID 1,1732::44831674
+2 SOUR @S147@
+3 _APID 1,70050::11438532
+1 SEX F
+1 FAMS @F190@
+1 BIRT
+2 DATE 12 AUG 1971
+2 PLAC Merced, California, USA
+3 MAP
+4 LATI N37.1895
+4 LONG W120.7111
+2 SOUR @S100@
+3 PAGE Birthdate: 12 Aug 1971; Birth County: Merced
+3 _APID 1,5247::11845007
+2 SOUR @S160@
+3 PAGE Minnesota Department of Health; Saint Paul, Minnesota; Minne
+4 CONC sota, Birth Index, 1935-2000
+3 _APID 1,8742::335431749
+2 SOUR @S85@
+3 _APID 1,1788::234240683
+2 SOUR @S61@
+3 _APID 1,1732::44831674
+2 SOUR @S147@
+3 _APID 1,70050::11438532
+1 RESI
+2 DATE 1996
+2 PLAC Marine on St Croix, Washington, Minnesota, USA
+2 SOUR @S85@
+3 _APID 1,1788::234240683
+1 RESI
+2 DATE ABT 1999
+2 PLAC White Bear Lake, Ramsey, Minnesota, USA
+3 MAP
+4 LATI N45.0847
+4 LONG W93.01
+2 SOUR @S160@
+3 PAGE Minnesota Department of Health; Saint Paul, Minnesota; Minne
+4 CONC sota, Birth Index, 1935-2000
+3 _APID 1,8742::335431749
+1 DEAT
+2 DATE ABT 2006
+2 PLAC Tyler, Smith, Texas, USA
+3 MAP
+4 LATI N32.3513
+4 LONG W95.301
+2 SOUR @S147@
+3 _APID 1,70050::11438532
 0 @I252@ INDI
 1 NAME [REDACTED]
 1 FAMS @F173@
@@ -3341,38 +3661,6 @@
 2 PLAC Los Ríos, Ecuador
 2 SOUR @S94@
 1 _XY 1459 1529
-0 @I165@ INDI
-1 REFN 6b10f95a-5352-4f2a-b544-94bcd16d774d
-1 NAME Amalia /Hurtado Donoso Zambrano/
-2 SOUR @S94@
-1 SEX F
-1 FAMC @F55@
-1 FAMS @F61@
-1 FAMS @F62@
-1 OBJE @M129@
-1 OBJE @M133@
-1 NOTE There are some distant DNA matches whose ancestors are in co
-2 CONC mmon with those of Joaquín Donoso Ortiz, so the possibilit
-2 CONC y that Amalia's biological father was actually Joaquín Dono
-2 CONC so Ortiz, and not the suspected Hurtado, warrants further in
-2 CONC vestigation.
-1 BIRT
-2 DATE 1835
-2 PLAC Quito, Pichincha, Ecuador
-3 MAP
-4 LATI S0.2167
-4 LONG W78.5
-2 SOUR @S94@
-3 PAGE p. 25
-1 DEAT
-2 DATE 1913
-2 PLAC Quito, Pichincha, Ecuador
-3 MAP
-4 LATI S0.2167
-4 LONG W78.5
-2 SOUR @S94@
-1 _XY 1373 1684
-1 _PHOTO @M129@
 0 @I167@ INDI
 1 REFN df41ecdd-7570-43b7-86fd-9fac29f59d9b
 1 NAME Anserma /India/
@@ -3431,11 +3719,23 @@
 4 LATI N0.35
 4 LONG W78.1167
 1 _XY 5470 479
-0 @I257@ INDI
-1 REFN ebf193a5-ebe4-45d1-b643-e15498f00f7d
-1 NAME Kimberly //
+0 @I316@ INDI
+1 NAME Whitnee /Kieran/
+2 SOUR @S135@
+3 PAGE The Times-News; Publication Date: 15/ Aug/ 2017; Publicatio
+4 CONC n Place: Twin Falls, Idaho, United States of America; URL: h
+4 CONC ttps://www.newspapers.com/image/515825261/?article=db584855-
+4 CONC b1fd-4ef3-ab0c-e006bc890896&focus=0.023811571,0.04719825,0.3
+4 CONC 4711325,0.4553802
+3 _APID 1,61843::734922765
 1 SEX F
-1 FAMC @F175@
+1 FAMC @F194@
+1 RESI
+2 DATE 2017
+2 PLAC Boise, Ada, Idaho, USA
+3 MAP
+4 LATI N43.6135
+4 LONG W116.2035
 0 @I238@ INDI
 1 NAME [REDACTED]
 1 FAMS @F168@
@@ -3752,6 +4052,10 @@
 0 @I173@ INDI
 1 REFN 4848199e-b999-4d0f-8b48-d40d285d5e41
 1 NAME Dolores /López/
+2 SOUR @S142@
+3 PAGE New York City Department of Records & Information Services
+4 CONC ; New York City, New York; New York City Death Certificates
+3 _APID 1,61778::76712701
 2 SOUR @S94@
 1 SEX F
 1 FAMC @F65@
@@ -3762,6 +4066,10 @@
 3 MAP
 4 LATI S0.2167
 4 LONG W78.5
+2 SOUR @S142@
+3 PAGE New York City Department of Records & Information Services
+4 CONC ; New York City, New York; New York City Death Certificates
+3 _APID 1,61778::76712701
 2 SOUR @S94@
 1 DEAT
 2 DATE 1872
@@ -4130,7 +4438,7 @@
 2 SOUR @S63@
 3 PAGE Year: 1911; Arrival: New York, New York; Microfilm Serial: T
 4 CONC 715, 1897-1957; Microfilm Roll: Roll 1631; Line: 3; Page Num
-4 CONC ber: 194
+4 CONC ber: 194; _APID 1,7488::4036481463
 3 OBJE @M72@
 3 _APID 1,7488::4036481463
 2 SOUR @Ap7270q8QDmqnp4oKY6u@
@@ -4181,7 +4489,7 @@
 2 SOUR @S63@
 3 PAGE Year: 1911; Arrival: New York, New York; Microfilm Serial: T
 4 CONC 715, 1897-1957; Microfilm Roll: Roll 1631; Line: 3; Page Num
-4 CONC ber: 194
+4 CONC ber: 194; _APID 1,7488::4036481463
 3 OBJE @M72@
 3 _APID 1,7488::4036481463
 2 SOUR @Ap7270q8QDmqnp4oKY6u@
@@ -4259,7 +4567,7 @@
 2 SOUR @S63@
 3 PAGE Year: 1911; Arrival: New York, New York; Microfilm Serial: T
 4 CONC 715, 1897-1957; Microfilm Roll: Roll 1631; Line: 3; Page Num
-4 CONC ber: 194
+4 CONC ber: 194; _APID 1,7488::4036481463
 3 OBJE @M72@
 3 _APID 1,7488::4036481463
 1 RESI
@@ -4385,10 +4693,18 @@
 3 _APID 1,7884::18089626
 2 SOUR @rF6T1DrXQt2JZCH7KGmd@
 3 _APID 1,7833::81066
+2 SOUR @S142@
+3 PAGE New York City Department of Records & Information Services
+4 CONC ; New York City, New York; New York City Death Certificates
+4 CONC ; Borough: Brooklyn; Year: 1917
+3 _APID 1,61778::1712701
+2 SOUR @S142@
+3 PAGE Samuel Lopez
+3 _APID 1,61778::62108836
 2 SOUR @S63@
 3 PAGE Year: 1911; Arrival: New York, New York; Microfilm Serial: T
 4 CONC 715, 1897-1957; Microfilm Roll: Roll 1631; Line: 2; Page Num
-4 CONC ber: 194
+4 CONC ber: 194; _APID 1,7488::4036481462
 3 DATA
 4 TEXT <text xml:lang="en">
 5 CONT <body>
@@ -4506,10 +4822,18 @@
 3 _APID 1,7884::18089626
 2 SOUR @rF6T1DrXQt2JZCH7KGmd@
 3 _APID 1,7833::81066
+2 SOUR @S142@
+3 PAGE New York City Department of Records & Information Services
+4 CONC ; New York City, New York; New York City Death Certificates
+4 CONC ; Borough: Brooklyn; Year: 1917
+3 _APID 1,61778::1712701
+2 SOUR @S142@
+3 PAGE Samuel Lopez
+3 _APID 1,61778::62108836
 2 SOUR @S63@
 3 PAGE Year: 1911; Arrival: New York, New York; Microfilm Serial: T
 4 CONC 715, 1897-1957; Microfilm Roll: Roll 1631; Line: 2; Page Num
-4 CONC ber: 194
+4 CONC ber: 194; _APID 1,7488::4036481462
 3 DATA
 4 TEXT <text xml:lang="en">
 5 CONT <body>
@@ -5033,7 +5357,7 @@
 2 SOUR @S63@
 3 PAGE Year: 1911; Arrival: New York, New York; Microfilm Serial: T
 4 CONC 715, 1897-1957; Microfilm Roll: Roll 1631; Line: 2; Page Num
-4 CONC ber: 194
+4 CONC ber: 194; _APID 1,7488::4036481462
 3 QUAY 3
 3 DATA
 4 TEXT <text xml:lang="en">
@@ -5132,7 +5456,7 @@
 2 SOUR @S63@
 3 PAGE Year: 1911; Arrival: New York, New York; Microfilm Serial: T
 4 CONC 715, 1897-1957; Microfilm Roll: Roll 1631; Line: 2; Page Num
-4 CONC ber: 194
+4 CONC ber: 194; _APID 1,7488::4036481462
 3 QUAY 4
 3 DATA
 4 TEXT <text xml:lang="en">
@@ -5236,6 +5560,11 @@
 3 OBJE @M76@
 2 SOUR @rF6T1DrXQt2JZCH7KGmd@
 3 _APID 1,7833::81066
+2 SOUR @S142@
+3 PAGE New York City Department of Records & Information Services
+4 CONC ; New York City, New York; New York City Death Certificates
+4 CONC ; Borough: Brooklyn; Year: 1917
+3 _APID 1,61778::1712701
 2 SOUR @DcGYKHpaRGm6ojIcId4e@
 3 OBJE @V73uFtl5QxKCndz1XQzs@
 3 _APID 1,50015::564651
@@ -5249,6 +5578,11 @@
 3 QUAY 1
 3 OBJE @M76@
 2 SOUR @VfFgMYfGS9eDLgFo6tfB@
+2 SOUR @S142@
+3 PAGE New York City Department of Records & Information Services
+4 CONC ; New York City, New York; New York City Death Certificates
+4 CONC ; Borough: Brooklyn; Year: 1917
+3 _APID 1,61778::1712701
 1 _XY 2288 1684
 0 @I175@ INDI
 1 REFN 36b7b80b-98ad-40da-8b5e-3a4155516222
@@ -5333,10 +5667,13 @@
 3 _APID 1,8842::2030170
 2 SOUR @AjMegeGBTpu0nJWDRMDA@
 3 _APID 1,9131::3345252
+2 SOUR @S142@
+3 PAGE Samuel Lopez
+3 _APID 1,61778::2108836
 2 SOUR @S63@
 3 PAGE Year: 1922; Arrival: New York, New York; Microfilm Serial: T
 4 CONC 715, 1897-1957; Microfilm Roll: Roll 3094; Line: 1; Page Num
-4 CONC ber: 154
+4 CONC ber: 154; _APID 1,7488::4028967694
 3 DATA
 4 TEXT <p>
 5 CONT [image 264 of 1043]
@@ -5622,10 +5959,13 @@
 3 _APID 1,8842::2030170
 2 SOUR @AjMegeGBTpu0nJWDRMDA@
 3 _APID 1,9131::3345252
+2 SOUR @S142@
+3 PAGE Samuel Lopez
+3 _APID 1,61778::2108836
 2 SOUR @S63@
 3 PAGE Year: 1922; Arrival: New York, New York; Microfilm Serial: T
 4 CONC 715, 1897-1957; Microfilm Roll: Roll 3094; Line: 1; Page Num
-4 CONC ber: 154
+4 CONC ber: 154; _APID 1,7488::4028967694
 3 DATA
 4 TEXT <p>
 5 CONT [image 264 of 1043]
@@ -6137,7 +6477,7 @@
 2 SOUR @S63@
 3 PAGE Year: 1922; Arrival: New York, New York; Microfilm Serial: T
 4 CONC 715, 1897-1957; Microfilm Roll: Roll 3094; Line: 1; Page Num
-4 CONC ber: 154
+4 CONC ber: 154; _APID 1,7488::4028967694
 3 DATA
 4 TEXT <p>
 5 CONT [image 264 of 1043]
@@ -6212,7 +6552,7 @@
 2 SOUR @S63@
 3 PAGE Year: 1922; Arrival: New York, New York; Microfilm Serial: T
 4 CONC 715, 1897-1957; Microfilm Roll: Roll 3094; Line: 1; Page Num
-4 CONC ber: 154
+4 CONC ber: 154; _APID 1,7488::4028967694
 3 DATA
 4 TEXT <p>
 5 CONT [image 264 of 1043]
@@ -6568,8 +6908,18 @@
 4 LONG W73.95
 2 SOUR @AjMegeGBTpu0nJWDRMDA@
 3 _APID 1,9131::3345252
+2 SOUR @S142@
+3 PAGE Samuel Lopez
+3 _APID 1,61778::2108836
 2 SOUR @S94@
 3 QUAY 1
+1 BURI
+2 DATE 15 SEP 1933
+2 PLAC Cemetery of the Evergreens, Brooklyn, New York City, New Yor
+3 CONC k, USA
+2 SOUR @S142@
+3 PAGE Samuel Lopez
+3 _APID 1,61778::2108836
 1 _XY 3284 2054
 1 _PHOTO @M131@
 0 @I177@ INDI
@@ -6654,6 +7004,29 @@
 4 CONC 627_2615; Page: 2A; Enumeration District: 24-2589
 3 OBJE @M15@
 3 _APID 1,2442::5009215
+2 SOUR @S155@
+3 OBJE @M185@
+3 _APID 1,61461::1440538
+2 SOUR @S141@
+3 PAGE New York City Department of Records & Information Services
+4 CONC ; New York City, New York; New York City Birth Certificates
+4 CONC ; Emila Maria Pazmino
+3 _APID 1,61779::30873111
+2 SOUR @S141@
+3 PAGE New York City Department of Records & Information Services
+4 CONC ; New York City, New York; New York City Birth Certificates
+4 CONC ; Lelia Estela Pazmino
+3 _APID 1,61779::30017257
+2 SOUR @S141@
+3 PAGE New York City Department of Records & Information Services
+4 CONC ; New York City, New York; New York City Birth Certificates
+4 CONC ; Lelia Pazmino
+3 _APID 1,61779::30024240
+2 SOUR @S141@
+3 PAGE New York City Department of Records & Information Services
+4 CONC ; New York City, New York; New York City Birth Certificates
+4 CONC ; Lucila Marieta Pazmino
+3 _APID 1,61779::30678045
 2 SOUR @Ap7270q8QDmqnp4oKY6u@
 3 PAGE New York State Archives; Albany, New York; State Populatio
 4 CONC n Census Schedules, 1905; Election District: A.D. 18 E.D. 16
@@ -6672,9 +7045,28 @@
 4 CONC strict: 21; City: Brooklyn; County: Kings; Page: 14
 3 OBJE @M37@
 3 _APID 1,2704::18252562
+2 SOUR @S134@
+3 PAGE Albert August Pazmino
+3 OBJE @M188@
+3 _APID 1,2238::223523204
+2 SOUR @S134@
+3 PAGE Alfred Ulysses Pazmino
+3 OBJE @M187@
+3 _APID 1,2238::223523205
+2 SOUR @S134@
+3 PAGE George Pazmino
+3 OBJE @M183@
+3 _APID 1,2238::223523206
+2 SOUR @S134@
+3 PAGE Victor Estenio Pazmino
+3 OBJE @M186@
+3 _APID 1,2238::223523207
 1 SEX F
 1 FAMC @KHbLkt6WRqSDo0DTyyKL@
 1 FAMS @1SlIoqLYRCqfA1ineuNc@
+1 OBJE @M153@
+1 OBJE @M160@
+1 OBJE @M147@
 1 BIRT
 2 DATE 26 AUG 1877
 2 PLAC Jipijapa, Manabi, Ecuador
@@ -6711,6 +7103,29 @@
 3 _APID 1,2442::5009215
 2 SOUR @1O8LcKCjQo6uGwMQ77sB@
 3 OBJE @M77@
+2 SOUR @S155@
+3 OBJE @M185@
+3 _APID 1,61461::1440538
+2 SOUR @S141@
+3 PAGE New York City Department of Records & Information Services
+4 CONC ; New York City, New York; New York City Birth Certificates
+4 CONC ; Emila Maria Pazmino
+3 _APID 1,61779::30873111
+2 SOUR @S141@
+3 PAGE New York City Department of Records & Information Services
+4 CONC ; New York City, New York; New York City Birth Certificates
+4 CONC ; Lelia Estela Pazmino
+3 _APID 1,61779::30017257
+2 SOUR @S141@
+3 PAGE New York City Department of Records & Information Services
+4 CONC ; New York City, New York; New York City Birth Certificates
+4 CONC ; Lelia Pazmino
+3 _APID 1,61779::30024240
+2 SOUR @S141@
+3 PAGE New York City Department of Records & Information Services
+4 CONC ; New York City, New York; New York City Birth Certificates
+4 CONC ; Lucila Marieta Pazmino
+3 _APID 1,61779::30678045
 2 SOUR @Ap7270q8QDmqnp4oKY6u@
 3 PAGE New York State Archives; Albany, New York; State Populatio
 4 CONC n Census Schedules, 1905; Election District: A.D. 18 E.D. 16
@@ -6946,6 +7361,9 @@
 2 SOUR @1O8LcKCjQo6uGwMQ77sB@
 3 QUAY 3
 3 OBJE @M77@
+2 SOUR @S155@
+3 OBJE @M185@
+3 _APID 1,61461::1440538
 2 NOTE time: 4:30 PM ET
 1 BURI
 2 DATE 02 JAN 1963
@@ -6958,6 +7376,7 @@
 2 TYPE note
 2 NOTE she remained a citizen of Ecuador her whole life
 1 _XY 1936 1972
+1 _PHOTO @M160@
 0 @I181@ INDI
 1 REFN cf418531-cb55-4c14-b82e-1c070f3191b0
 1 NAME Lorenzo /López/
@@ -6974,7 +7393,7 @@
 2 SOUR @S63@
 3 PAGE Year: 1911; Arrival: New York, New York; Microfilm Serial: T
 4 CONC 715, 1897-1957; Microfilm Roll: Roll 1693; Line: 13; Page Nu
-4 CONC mber: 194
+4 CONC mber: 194; _APID 1,7488::4036554315
 3 OBJE @M73@
 3 _APID 1,7488::4036554315
 2 SOUR @Ap7270q8QDmqnp4oKY6u@
@@ -6998,7 +7417,7 @@
 2 SOUR @S63@
 3 PAGE Year: 1911; Arrival: New York, New York; Microfilm Serial: T
 4 CONC 715, 1897-1957; Microfilm Roll: Roll 1693; Line: 13; Page Nu
-4 CONC mber: 194
+4 CONC mber: 194; _APID 1,7488::4036554315
 3 OBJE @M73@
 3 _APID 1,7488::4036554315
 2 SOUR @Ap7270q8QDmqnp4oKY6u@
@@ -7038,7 +7457,7 @@
 2 SOUR @S63@
 3 PAGE Year: 1911; Arrival: New York, New York; Microfilm Serial: T
 4 CONC 715, 1897-1957; Microfilm Roll: Roll 1693; Line: 13; Page Nu
-4 CONC mber: 194
+4 CONC mber: 194; _APID 1,7488::4036554315
 3 OBJE @M73@
 3 _APID 1,7488::4036554315
 1 EVEN
@@ -7048,7 +7467,7 @@
 2 SOUR @S63@
 3 PAGE Year: 1911; Arrival: New York, New York; Microfilm Serial: T
 4 CONC 715, 1897-1957; Microfilm Roll: Roll 1693; Line: 13; Page Nu
-4 CONC mber: 194
+4 CONC mber: 194; _APID 1,7488::4036554315
 3 OBJE @M73@
 3 _APID 1,7488::4036554315
 1 EVEN
@@ -7061,7 +7480,7 @@
 2 SOUR @S63@
 3 PAGE Year: 1911; Arrival: New York, New York; Microfilm Serial: T
 4 CONC 715, 1897-1957; Microfilm Roll: Roll 1693; Line: 13; Page Nu
-4 CONC mber: 194
+4 CONC mber: 194; _APID 1,7488::4036554315
 3 OBJE @M73@
 3 _APID 1,7488::4036554315
 1 DEAT
@@ -7096,7 +7515,7 @@
 1 _XY 2365 1368
 0 @lfzXmEJlR7yx4R6MSYy4@ INDI
 1 REFN f54bfbbf-a9f4-4a17-bd6d-1db2952e304a
-1 NAME Robert Aquiles /López/
+1 NAME Roberto Aquiles /López/
 2 SOUR @pZSp306qQOGHvPqm0c60@
 3 PAGE Year: 1920; Census Place: Santa Monica, Los Angeles, Califor
 4 CONC nia; Roll: T625_116; Page: 11B; Enumeration District: 604; I
@@ -7130,7 +7549,7 @@
 3 PAGE The National Archives in St. Louis, Missouri; St. Louis, Mis
 4 CONC souri; WWII Draft Registration Cards for California, 10/16/1
 4 CONC 940-03/31/1947; Record Group: Records of the Selective Servi
-4 CONC ce System, 147; Box: 1073
+4 CONC ce System, 147; Box: 1073; Robert Aquiles Lopez
 3 OBJE @M145@
 3 _APID 1,2238::17719539
 1 SEX M
@@ -7171,7 +7590,7 @@
 3 PAGE The National Archives in St. Louis, Missouri; St. Louis, Mis
 4 CONC souri; WWII Draft Registration Cards for California, 10/16/1
 4 CONC 940-03/31/1947; Record Group: Records of the Selective Servi
-4 CONC ce System, 147; Box: 1073
+4 CONC ce System, 147; Box: 1073; Robert Aquiles Lopez
 3 OBJE @M145@
 3 _APID 1,2238::17719539
 1 RESI
@@ -7237,7 +7656,7 @@
 3 PAGE The National Archives in St. Louis, Missouri; St. Louis, Mis
 4 CONC souri; WWII Draft Registration Cards for California, 10/16/1
 4 CONC 940-03/31/1947; Record Group: Records of the Selective Servi
-4 CONC ce System, 147; Box: 1073
+4 CONC ce System, 147; Box: 1073; Robert Aquiles Lopez
 3 OBJE @M145@
 3 _APID 1,2238::17719539
 2 NOTE Marital Status: Single; Relation to Head of House: Stepson
@@ -7336,6 +7755,14 @@
 1 SEX F
 1 FAMS @F56@
 1 _XY 8009 430
+0 @I311@ INDI
+1 NAME Matthew Albert //
+1 NAME Matthew Albert Pazmiño
+2 TYPE aka
+1 SEX M
+1 FAMC @F199@
+1 BIRT
+2 PLAC Bolivia
 0 @I254@ INDI
 1 NAME [REDACTED]
 1 FAMS @F172@
@@ -7421,11 +7848,74 @@
 0 @I215@ INDI
 1 REFN e85080ec-9e50-4c81-90b0-b2fc7785e8aa
 1 NAME Cassandra /Parkinson/
+2 SOUR @S135@
+3 PAGE The Delta Democrat-Times; Publication Date: 15/ Dec/ 2017; P
+4 CONC ublication Place: Greenville, Mississippi, United States o
+4 CONC f America; URL: https://www.newspapers.com/image/539958643/?
+4 CONC article=2107e54d-7361-469b-b589-6a4649b1675d&focus=0.4567372
+4 CONC 8,0.19070944,0.649
+3 _APID 1,61843::660760122
+2 SOUR @S86@
+3 PAGE City: West Columbia; State: South Carolina; Year(s): 1998-20
+4 CONC 02
+3 _APID 1,7339::301130922
+2 SOUR @S85@
+3 _APID 1,1788::336774401
+2 SOUR @S61@
+3 _APID 1,1732::298915815
+2 SOUR @S143@
+3 PAGE Publication Date: 30/ Jul/ 2013; Publication Place: Jasper C
+4 CONC ounty, Mississippi, USA; URL: http://www.legacy.com/obituari
+4 CONC es/clarionledger/obituary.aspx?n=patrick-parkinson&amp;pid=1
+4 CONC 66117400
+3 _APID 1,7545::45175868
 1 SEX F
 1 FAMS @F158@
+1 BIRT
+2 DATE 30 JUN 1965
+2 PLAC Greenville
+2 SOUR @S135@
+3 PAGE The Delta Democrat-Times; Publication Date: 15/ Dec/ 2017; P
+4 CONC ublication Place: Greenville, Mississippi, United States o
+4 CONC f America; URL: https://www.newspapers.com/image/539958643/?
+4 CONC article=2107e54d-7361-469b-b589-6a4649b1675d&focus=0.4567372
+4 CONC 8,0.19070944,0.649
+3 _APID 1,61843::660760122
+2 SOUR @S85@
+3 _APID 1,1788::336774401
+2 SOUR @S61@
+3 _APID 1,1732::298915815
+1 RESI
+2 DATE 1995
+2 PLAC Columbia, Richland, South Carolina, USA
+3 MAP
+4 LATI N34.0007
+4 LONG W81.0348
+2 SOUR @S85@
+3 _APID 1,1788::336774401
+1 DEAT
+2 DATE 05 DEC 2017
+2 PLAC Pass Christian, Harrison, Mississippi, USA
+3 MAP
+4 LATI N30.3158
+4 LONG W89.2475
+2 SOUR @S135@
+3 PAGE The Delta Democrat-Times; Publication Date: 15/ Dec/ 2017; P
+4 CONC ublication Place: Greenville, Mississippi, United States o
+4 CONC f America; URL: https://www.newspapers.com/image/539958643/?
+4 CONC article=2107e54d-7361-469b-b589-6a4649b1675d&focus=0.4567372
+4 CONC 8,0.19070944,0.649
+3 _APID 1,61843::660760122
 0 @I256@ INDI
 1 REFN 6fd72ea9-21fa-4ad0-8f82-6c79d1f0efcb
 1 NAME Albert /Pazmiño/
+2 SOUR @S135@
+3 PAGE Daily News; Publication Date: 15/ Jun/ 2007; Publication Pla
+4 CONC ce: New York, New York, United States of America; URL: https
+4 CONC ://www.newspapers.com/image/409590720/?article=c3e9781e-77e8
+4 CONC -44b9-b0dd-64a984887eb3&focus=0.67724866,0.49759015,0.807535
+4 CONC 9,0.66573566&xid
+3 _APID 1,61843::474035844
 1 SEX M
 1 FAMC @F174@
 1 BIRT
@@ -7491,6 +7981,20 @@
 4 CONC strict: 21; City: Brooklyn; County: Kings; Page: 14
 3 OBJE @M37@
 3 _APID 1,2704::18252578
+2 SOUR @S135@
+3 PAGE Daily News; Publication Date: 15/ Jun/ 2007; Publication Pla
+4 CONC ce: New York, New York, United States of America; URL: https
+4 CONC ://www.newspapers.com/image/409590720/?article=c3e9781e-77e8
+4 CONC -44b9-b0dd-64a984887eb3&focus=0.67724866,0.49759015,0.807535
+4 CONC 9,0.66573566&xid
+3 _APID 1,61843::473727287
+2 SOUR @S135@
+3 PAGE Daily News; Publication Date: 25/ Aug/ 1986; Publication Pla
+4 CONC ce: New York, New York, United States of America; URL: https
+4 CONC ://www.newspapers.com/image/490902044/?article=b4d0cc89-1a32
+4 CONC -40c8-9fb6-87c306c6f501&focus=0.80158645,0.72039574,0.949094
+4 CONC 3,0.79463935&xid
+3 _APID 1,61843::579189288
 2 SOUR @S94@
 3 QUAY 1
 2 SOUR @Oy22YaudTC62HcdmoSkr@
@@ -7498,6 +8002,10 @@
 3 _APID 1,2469::1461928288
 2 SOUR @S114@
 3 _APID 1,8750::2375455
+2 SOUR @S134@
+3 PAGE Albert August Pazmino
+3 OBJE @M188@
+3 _APID 1,2238::193523204
 2 SOUR @S107@
 3 _APID 1,2441::3240573
 2 SOUR @8SpggOHIRZiow2E3C3cu@
@@ -7559,6 +8067,10 @@
 3 QUAY 1
 2 SOUR @S114@
 3 _APID 1,8750::2375455
+2 SOUR @S134@
+3 PAGE Albert August Pazmino
+3 OBJE @M188@
+3 _APID 1,2238::193523204
 2 SOUR @S107@
 3 _APID 1,2441::3240573
 2 SOUR @8SpggOHIRZiow2E3C3cu@
@@ -7661,6 +8173,10 @@
 4 CONC 627_2615; Page: 2A; Enumeration District: 24-2589
 3 OBJE @M15@
 3 _APID 1,2442::5009221
+2 SOUR @S134@
+3 PAGE Albert August Pazmino
+3 OBJE @M188@
+3 _APID 1,2238::193523204
 2 NOTE Age: 30; Marital Status: Single; Relation to Head of House
 3 CONC : Son
 1 EVEN
@@ -7686,6 +8202,13 @@
 3 MAP
 4 LATI N40.65
 4 LONG W73.95
+2 SOUR @S135@
+3 PAGE Daily News; Publication Date: 25/ Aug/ 1986; Publication Pla
+4 CONC ce: New York, New York, United States of America; URL: https
+4 CONC ://www.newspapers.com/image/490902044/?article=b4d0cc89-1a32
+4 CONC -40c8-9fb6-87c306c6f501&focus=0.80158645,0.72039574,0.949094
+4 CONC 3,0.79463935&xid
+3 _APID 1,61843::579189288
 2 SOUR @S117@
 3 QUAY 2
 2 SOUR @S114@
@@ -7754,6 +8277,11 @@
 3 _APID 1,5157::704568
 2 SOUR @Ju7QFFoAQjKaE1Ey19sj@
 3 _APID 1,9089::148563
+2 SOUR @S141@
+3 PAGE New York City Department of Records & Information Services
+4 CONC ; New York City, New York; New York City Birth Certificates
+4 CONC ; Borough: Brooklyn; Year: 1902
+3 _APID 1,61779::24240
 2 SOUR @Ap7270q8QDmqnp4oKY6u@
 3 PAGE New York State Archives; Albany, New York; State Populatio
 4 CONC n Census Schedules, 1905; Election District: A.D. 18 E.D. 16
@@ -7774,6 +8302,10 @@
 3 _APID 1,2704::18252572
 2 SOUR @S94@
 3 QUAY 1
+2 SOUR @S134@
+3 PAGE Alfred Ulysses Pazmino
+3 OBJE @M187@
+3 _APID 1,2238::193523205
 1 SEX M
 1 FAMC @1SlIoqLYRCqfA1ineuNc@
 1 BIRT
@@ -7812,6 +8344,11 @@
 3 _APID 1,5157::704568
 2 SOUR @Ju7QFFoAQjKaE1Ey19sj@
 3 _APID 1,9089::148563
+2 SOUR @S141@
+3 PAGE New York City Department of Records & Information Services
+4 CONC ; New York City, New York; New York City Birth Certificates
+4 CONC ; Borough: Brooklyn; Year: 1902
+3 _APID 1,61779::24240
 2 SOUR @Ap7270q8QDmqnp4oKY6u@
 3 PAGE New York State Archives; Albany, New York; State Populatio
 4 CONC n Census Schedules, 1905; Election District: A.D. 18 E.D. 16
@@ -7830,6 +8367,10 @@
 4 CONC strict: 21; City: Brooklyn; County: Kings; Page: 14
 3 OBJE @M37@
 3 _APID 1,2704::18252572
+2 SOUR @S134@
+3 PAGE Alfred Ulysses Pazmino
+3 OBJE @M187@
+3 _APID 1,2238::193523205
 2 NOTE cert# 9263
 1 RESI
 2 DATE 1905
@@ -8188,6 +8729,9 @@
 4 CONC 627_2615; Page: 2A; Enumeration District: 24-2589
 3 OBJE @M15@
 3 _APID 1,2442::5009222
+2 SOUR @S84@
+3 OBJE @M184@
+3 _APID 1,61457::326238
 2 SOUR @es9CfZUrS7S7jzWga8jJ@
 3 PAGE New York State Archives; Albany, New York; State Populatio
 4 CONC n Census Schedules, 1915; Election District: 24; Assembly Di
@@ -8209,13 +8753,22 @@
 3 _APID 1,61843::336065624
 2 SOUR @S94@
 3 QUAY 1
+2 SOUR @S86@
+3 PAGE City: Brooklyn; State: New York; Year(s): 1993-2002
+3 _APID 1,7339::49519267
 2 SOUR @S85@
 3 _APID 1,1788::378983727
 2 SOUR @S97@
 3 _APID 1,8939::115596
+2 SOUR @S134@
+3 PAGE George Pazmino
+3 OBJE @M183@
+3 _APID 1,2238::193523206
 1 SEX M
 1 FAMC @1SlIoqLYRCqfA1ineuNc@
 1 FAMS @F156@
+1 OBJE @M157@
+1 OBJE @M159@
 1 BIRT
 2 DATE 04 MAR 1913
 2 PLAC Brooklyn, Kings, New York, USA
@@ -8238,6 +8791,9 @@
 4 CONC 627_2615; Page: 2A; Enumeration District: 24-2589
 3 OBJE @M15@
 3 _APID 1,2442::5009222
+2 SOUR @S84@
+3 OBJE @M184@
+3 _APID 1,61457::326238
 2 SOUR @es9CfZUrS7S7jzWga8jJ@
 3 PAGE New York State Archives; Albany, New York; State Populatio
 4 CONC n Census Schedules, 1915; Election District: 24; Assembly Di
@@ -8256,6 +8812,10 @@
 3 _APID 1,1788::378983727
 2 SOUR @S97@
 3 _APID 1,8939::115596
+2 SOUR @S134@
+3 PAGE George Pazmino
+3 OBJE @M183@
+3 _APID 1,2238::193523206
 2 NOTE birthday is from daughter Georgianna
 1 RESI
 2 DATE 01 JUN 1915
@@ -8332,6 +8892,10 @@
 4 CONC 627_2615; Page: 2A; Enumeration District: 24-2589
 3 OBJE @M15@
 3 _APID 1,2442::5009222
+2 SOUR @S134@
+3 PAGE George Pazmino
+3 OBJE @M183@
+3 _APID 1,2238::193523206
 2 NOTE Age: 27; Marital Status: Single; Relation to Head of House
 3 CONC : Son
 1 EVEN
@@ -8342,16 +8906,17 @@
 3 _APID 1,8939::115596
 1 RESI
 2 DATE 1976
-2 PLAC Brooklyn, Kings, New York, USA
-3 MAP
-4 LATI N40.65
-4 LONG W73.95
+2 PLAC 979 East 42nd Street, Brooklyn, New York City, New York, USA
+2 SOUR @S86@
+3 PAGE City: Brooklyn; State: New York; Year(s): 1993-2002
+3 _APID 1,7339::49519267
 2 SOUR @S85@
 3 _APID 1,1788::378983727
 1 DEAT
 2 DATE 04 MAR 2015
 2 PLAC Brooklyn, New York City, New York, USA
 1 _XY 1526 2173
+1 _PHOTO @M157@
 0 @I258@ INDI
 1 NAME [REDACTED]
 1 FAMC @F174@
@@ -8414,10 +8979,16 @@
 3 _APID 1,61406::7654061
 2 SOUR @Ju7QFFoAQjKaE1Ey19sj@
 3 _APID 1,9089::45733
+2 SOUR @S141@
+3 PAGE New York City Department of Records & Information Services
+4 CONC ; New York City, New York; New York City Birth Certificates
+4 CONC ; Borough: Brooklyn; Year: 1901
+3 _APID 1,61779::17257
 2 SOUR @S121@
 3 _APID 1,9105::4721707
 2 SOUR @S63@
-3 PAGE Year: 1935
+3 PAGE Year: 1935; Arrival: New York, New York; Microfilm Serial: T
+4 CONC 715, 1897-1957; Line: 18; Page Number: 108
 3 OBJE @M117@
 3 _APID 1,7488::30252307
 2 SOUR @Ap7270q8QDmqnp4oKY6u@
@@ -8475,8 +9046,14 @@
 3 _APID 1,5157::626157
 2 SOUR @Ju7QFFoAQjKaE1Ey19sj@
 3 _APID 1,9089::45733
+2 SOUR @S141@
+3 PAGE New York City Department of Records & Information Services
+4 CONC ; New York City, New York; New York City Birth Certificates
+4 CONC ; Borough: Brooklyn; Year: 1901
+3 _APID 1,61779::17257
 2 SOUR @S63@
-3 PAGE Year: 1935
+3 PAGE Year: 1935; Arrival: New York, New York; Microfilm Serial: T
+4 CONC 715, 1897-1957; Line: 18; Page Number: 108
 3 OBJE @M117@
 3 _APID 1,7488::30252307
 2 SOUR @Ap7270q8QDmqnp4oKY6u@
@@ -8643,7 +9220,8 @@
 4 LATI N32.3103
 4 LONG W64.7625
 2 SOUR @S63@
-3 PAGE Year: 1935
+3 PAGE Year: 1935; Arrival: New York, New York; Microfilm Serial: T
+4 CONC 715, 1897-1957; Line: 18; Page Number: 108
 3 OBJE @M117@
 3 _APID 1,7488::30252307
 1 EVEN
@@ -8654,7 +9232,8 @@
 4 LATI N40.7744
 4 LONG W73.9721
 2 SOUR @S63@
-3 PAGE Year: 1935
+3 PAGE Year: 1935; Arrival: New York, New York; Microfilm Serial: T
+4 CONC 715, 1897-1957; Line: 18; Page Number: 108
 3 OBJE @M117@
 3 _APID 1,7488::30252307
 1 RESI
@@ -8712,6 +9291,7 @@
 0 @I259@ INDI
 1 NAME [REDACTED]
 1 FAMC @F174@
+1 FAMS @F192@
 0 @7dwtINhERSyVygimODYv@ INDI
 1 REFN dc5e324d-13e2-4a1d-81c9-fbd10c56138f
 1 NAME Lucila María /Pazmiño/
@@ -8749,6 +9329,11 @@
 3 _APID 1,61406::592202
 2 SOUR @AjMegeGBTpu0nJWDRMDA@
 3 _APID 1,9131::4437234
+2 SOUR @S141@
+3 PAGE New York City Department of Records & Information Services
+4 CONC ; New York City, New York; New York City Birth Certificates
+4 CONC ; Borough: Brooklyn; Year: 1907
+3 _APID 1,61779::873111
 2 SOUR @es9CfZUrS7S7jzWga8jJ@
 3 PAGE New York State Archives; Albany, New York; State Populatio
 4 CONC n Census Schedules, 1915; Election District: 24; Assembly Di
@@ -8761,6 +9346,13 @@
 4 CONC strict: 21; City: Brooklyn; County: Kings; Page: 14
 3 OBJE @M37@
 3 _APID 1,2704::18252575
+2 SOUR @S135@
+3 PAGE The Brooklyn Daily Eagle; Publication Date: 28/ Mar/ 1946; P
+4 CONC ublication Place: Brooklyn, New York, USA; URL: https://www.
+4 CONC newspapers.com/image/52880189/?article=c1edb243-c1b4-4a25-9c
+4 CONC 97-952d34f5db8f&focus=0.022291776,0.61840713,0.14868397,0.65
+4 CONC 13784&xid=2378
+3 _APID 1,61843::7026582
 2 SOUR @S94@
 3 QUAY 1
 2 SOUR @S2fyUKW7QvupWtUQHBOs@
@@ -8769,7 +9361,7 @@
 1 FAMC @1SlIoqLYRCqfA1ineuNc@
 1 FAMS @F176@
 1 BIRT
-2 DATE 26 APR 1907
+2 DATE 28 APR 1907
 2 PLAC Brooklyn, Kings, New York, USA
 3 MAP
 4 LATI N40.65
@@ -8798,6 +9390,11 @@
 3 _APID 1,2442::10647126
 2 SOUR @AjMegeGBTpu0nJWDRMDA@
 3 _APID 1,9131::4437234
+2 SOUR @S141@
+3 PAGE New York City Department of Records & Information Services
+4 CONC ; New York City, New York; New York City Birth Certificates
+4 CONC ; Borough: Brooklyn; Year: 1907
+3 _APID 1,61779::873111
 2 SOUR @es9CfZUrS7S7jzWga8jJ@
 3 PAGE New York State Archives; Albany, New York; State Populatio
 4 CONC n Census Schedules, 1915; Election District: 24; Assembly Di
@@ -8908,6 +9505,13 @@
 4 LONG W73.95
 2 SOUR @AjMegeGBTpu0nJWDRMDA@
 3 _APID 1,9131::4437234
+2 SOUR @S135@
+3 PAGE The Brooklyn Daily Eagle; Publication Date: 28/ Mar/ 1946; P
+4 CONC ublication Place: Brooklyn, New York, USA; URL: https://www.
+4 CONC newspapers.com/image/52880189/?article=c1edb243-c1b4-4a25-9c
+4 CONC 97-952d34f5db8f&focus=0.022291776,0.61840713,0.14868397,0.65
+4 CONC 13784&xid=2378
+3 _APID 1,61843::7026582
 2 SOUR @S94@
 3 QUAY 1
 1 _XY 1017 2166
@@ -8916,6 +9520,11 @@
 1 NAME Lucila Marieta /Pazmiño/
 2 SOUR @Ju7QFFoAQjKaE1Ey19sj@
 3 _APID 1,9089::655446
+2 SOUR @S141@
+3 PAGE New York City Department of Records & Information Services
+4 CONC ; New York City, New York; New York City Birth Certificates
+4 CONC ; Borough: Brooklyn; Year: 1905
+3 _APID 1,61779::678045
 2 SOUR @S94@
 3 QUAY 1
 1 SEX F
@@ -8928,6 +9537,11 @@
 4 LONG W73.95
 2 SOUR @Ju7QFFoAQjKaE1Ey19sj@
 3 _APID 1,9089::655446
+2 SOUR @S141@
+3 PAGE New York City Department of Records & Information Services
+4 CONC ; New York City, New York; New York City Birth Certificates
+4 CONC ; Borough: Brooklyn; Year: 1905
+3 _APID 1,61779::678045
 2 SOUR @S94@
 2 NOTE from NYC birth index (cert #17495)
 1 DEAT
@@ -8952,6 +9566,7 @@
 0 @I260@ INDI
 1 NAME [REDACTED]
 1 FAMC @F174@
+1 FAMS @F199@
 0 @I195@ INDI
 1 REFN 6034cd99-90bc-4258-a56b-23b0c3a0808e
 1 NAME Rosario /Pazmiño/
@@ -9059,6 +9674,10 @@
 4 CONC 865-1957; Microfilm Serial: M1164; Microfilm Roll: 104
 3 OBJE @M122@
 3 _APID 1,1192::92084
+2 SOUR @S134@
+3 PAGE Victor Estenio Pazmino
+3 OBJE @M186@
+3 _APID 1,2238::193523207
 2 SOUR @GFCLw2yOQvibba3edsSE@
 3 PAGE Number: 054-07-0241; Issue State: New York; Issue Date: Befo
 4 CONC re 1951
@@ -9167,6 +9786,10 @@
 4 CONC 865-1957; Microfilm Serial: M1164; Microfilm Roll: 104
 3 OBJE @M122@
 3 _APID 1,1192::92084
+2 SOUR @S134@
+3 PAGE Victor Estenio Pazmino
+3 OBJE @M186@
+3 _APID 1,2238::193523207
 2 SOUR @GFCLw2yOQvibba3edsSE@
 3 PAGE Number: 054-07-0241; Issue State: New York; Issue Date: Befo
 4 CONC re 1951
@@ -9434,10 +10057,30 @@
 3 _APID 1,2442::5009213
 2 SOUR @AjMegeGBTpu0nJWDRMDA@
 3 _APID 1,9131::4259816
+2 SOUR @S141@
+3 PAGE New York City Department of Records & Information Services
+4 CONC ; New York City, New York; New York City Birth Certificates
+4 CONC ; Alfred Ulysses Pazmino
+3 _APID 1,61779::15024240
+2 SOUR @S141@
+3 PAGE New York City Department of Records & Information Services
+4 CONC ; New York City, New York; New York City Birth Certificates
+4 CONC ; Emila Maria Pazmino
+3 _APID 1,61779::15873111
+2 SOUR @S141@
+3 PAGE New York City Department of Records & Information Services
+4 CONC ; New York City, New York; New York City Birth Certificates
+4 CONC ; Lelia Estela Pazmino
+3 _APID 1,61779::15017257
+2 SOUR @S141@
+3 PAGE New York City Department of Records & Information Services
+4 CONC ; New York City, New York; New York City Birth Certificates
+4 CONC ; Lucila Marieta Pazmino
+3 _APID 1,61779::15678045
 2 SOUR @S63@
 3 PAGE Year: 1911; Arrival: New York, New York; Microfilm Serial: T
 4 CONC 715, 1897-1957; Microfilm Roll: Roll 1760; Line: 3; Page Num
-4 CONC ber: 191
+4 CONC ber: 191; _APID 1,7488::4008815246
 3 OBJE @M71@
 3 _APID 1,7488::4008815246
 2 SOUR @Ap7270q8QDmqnp4oKY6u@
@@ -9464,6 +10107,9 @@
 1 SEX M
 1 FAMC @F62@
 1 FAMS @1SlIoqLYRCqfA1ineuNc@
+1 OBJE @M149@
+1 OBJE @M154@
+1 OBJE @M163@
 1 BIRT
 2 DATE 07 DEC 1871
 2 PLAC Quito, Pichincha, Ecuador
@@ -9500,10 +10146,30 @@
 3 _APID 1,2442::5009213
 2 SOUR @AjMegeGBTpu0nJWDRMDA@
 3 _APID 1,9131::4259816
+2 SOUR @S141@
+3 PAGE New York City Department of Records & Information Services
+4 CONC ; New York City, New York; New York City Birth Certificates
+4 CONC ; Alfred Ulysses Pazmino
+3 _APID 1,61779::15024240
+2 SOUR @S141@
+3 PAGE New York City Department of Records & Information Services
+4 CONC ; New York City, New York; New York City Birth Certificates
+4 CONC ; Emila Maria Pazmino
+3 _APID 1,61779::15873111
+2 SOUR @S141@
+3 PAGE New York City Department of Records & Information Services
+4 CONC ; New York City, New York; New York City Birth Certificates
+4 CONC ; Lelia Estela Pazmino
+3 _APID 1,61779::15017257
+2 SOUR @S141@
+3 PAGE New York City Department of Records & Information Services
+4 CONC ; New York City, New York; New York City Birth Certificates
+4 CONC ; Lucila Marieta Pazmino
+3 _APID 1,61779::15678045
 2 SOUR @S63@
 3 PAGE Year: 1911; Arrival: New York, New York; Microfilm Serial: T
 4 CONC 715, 1897-1957; Microfilm Roll: Roll 1760; Line: 3; Page Num
-4 CONC ber: 191
+4 CONC ber: 191; _APID 1,7488::4008815246
 3 OBJE @M71@
 3 _APID 1,7488::4008815246
 2 SOUR @Ap7270q8QDmqnp4oKY6u@
@@ -9659,7 +10325,7 @@
 2 SOUR @S63@
 3 PAGE Year: 1911; Arrival: New York, New York; Microfilm Serial: T
 4 CONC 715, 1897-1957; Microfilm Roll: Roll 1760; Line: 3; Page Num
-4 CONC ber: 191
+4 CONC ber: 191; _APID 1,7488::4008815246
 3 OBJE @M71@
 3 _APID 1,7488::4008815246
 2 SOUR @2CVhfK4DR7aVv7LHdGjv@
@@ -9673,7 +10339,7 @@
 2 SOUR @S63@
 3 PAGE Year: 1911; Arrival: New York, New York; Microfilm Serial: T
 4 CONC 715, 1897-1957; Microfilm Roll: Roll 1760; Line: 3; Page Num
-4 CONC ber: 191
+4 CONC ber: 191; _APID 1,7488::4008815246
 3 OBJE @M71@
 3 _APID 1,7488::4008815246
 2 SOUR @2CVhfK4DR7aVv7LHdGjv@
@@ -9818,6 +10484,7 @@
 3 OBJE @M78@
 2 SOUR @ppJywqnWQhaCV2cMhIHS@
 1 _XY 631 1975
+1 _PHOTO @M163@
 0 @I191@ INDI
 1 REFN 3a368c79-cb81-4b2e-be21-ef62a8bf70ed
 1 NAME /Paz y Miño/
@@ -10048,12 +10715,7 @@
 1 SEX M
 1 FAMC @F163@
 0 @I230@ INDI
-1 REFN b1d1d177-6098-4578-9c7b-4dc7343bd4b3
-1 NAME Darron Ronald /Provost/
-2 SOUR @S103@
-3 PAGE Darron Ronald Provost
-3 _APID 1,1100::610945
-1 SEX M
+1 NAME [REDACTED]
 1 FAMS @F163@
 0 @I199@ INDI
 1 REFN 5450b68d-73bb-4e9c-92fa-87fbb7687b81
@@ -10139,10 +10801,17 @@
 0 @IbtmRqXpR8uV8qwLr1kQ@ INDI
 1 REFN f0a16daf-2789-4774-8d42-12d10761033a
 1 NAME Francisca /Romero/
+2 SOUR @S142@
+3 PAGE Samuel Lopez
+3 _APID 1,61778::77108836
 1 SEX F
 1 FAMS @KHbLkt6WRqSDo0DTyyKL@
 1 BIRT
 2 DATE 25 SEP 1850
+2 PLAC South America
+2 SOUR @S142@
+3 PAGE Samuel Lopez
+3 _APID 1,61778::77108836
 1 DEAT
 2 DATE 14 OCT 1940
 1 _XY 2166 1684
@@ -10181,6 +10850,20 @@
 4 CONC h: Brooklyn; Laura R. Roney
 3 OBJE @M107@
 3 _APID 1,61406::914244
+2 SOUR @S135@
+3 PAGE Daily News; Publication Date: 15/ Jun/ 2007; Publication Pla
+4 CONC ce: New York, New York, United States of America; URL: https
+4 CONC ://www.newspapers.com/image/409590720/?article=c3e9781e-77e8
+4 CONC -44b9-b0dd-64a984887eb3&focus=0.67724866,0.49759015,0.807535
+4 CONC 9,0.66573566&xid
+3 _APID 1,61843::639505611
+2 SOUR @S135@
+3 PAGE Daily News; Publication Date: 25/ Aug/ 1986; Publication Pla
+4 CONC ce: New York, New York, United States of America; URL: https
+4 CONC ://www.newspapers.com/image/490902044/?article=b4d0cc89-1a32
+4 CONC -40c8-9fb6-87c306c6f501&focus=0.80158645,0.72039574,0.949094
+4 CONC 3,0.79463935&xid
+3 _APID 1,61843::258334504
 2 SOUR @S61@
 3 PAGE 411 Senior Dr E Apt D, Newark, OH, 43055-2878
 3 _APID 1,1732::4782820
@@ -10198,10 +10881,10 @@
 1 FAMS @F174@
 1 BIRT
 2 DATE 13 AUG 1920
-2 PLAC Pennsylvania, USA
+2 PLAC Bristol, Bucks, Pennsylvania, USA
 3 MAP
-4 LATI N40.8583
-4 LONG W76.3834
+4 LATI N40.1007
+4 LONG W74.8518
 2 SOUR @cYpH9GKbREexd30xG7Ri@
 3 PAGE Year: 1930; Census Place: Philadelphia, Philadelphia, Pennsy
 4 CONC lvania; Page: 15B; Enumeration District: 0935; FHL microfilm
@@ -10216,6 +10899,13 @@
 3 _APID 1,2442::26924013
 2 SOUR @S113@
 3 _APID 1,61260::403534
+2 SOUR @S135@
+3 PAGE Daily News; Publication Date: 15/ Jun/ 2007; Publication Pla
+4 CONC ce: New York, New York, United States of America; URL: https
+4 CONC ://www.newspapers.com/image/409590720/?article=c3e9781e-77e8
+4 CONC -44b9-b0dd-64a984887eb3&focus=0.67724866,0.49759015,0.807535
+4 CONC 9,0.66573566&xid
+3 _APID 1,61843::639505611
 2 SOUR @S61@
 3 PAGE 411 Senior Dr E Apt D, Newark, OH, 43055-2878
 3 _APID 1,1732::4782820
@@ -10267,12 +10957,15 @@
 2 NOTE Marital Status: Single; Relation to Head: S Nurse
 1 DEAT
 2 DATE 13 JUN 2007
-2 PLAC New Jersey, USA
-3 MAP
-4 LATI N40.1365
-4 LONG W73.2613
 2 SOUR @S113@
 3 _APID 1,61260::403534
+2 SOUR @S135@
+3 PAGE Daily News; Publication Date: 15/ Jun/ 2007; Publication Pla
+4 CONC ce: New York, New York, United States of America; URL: https
+4 CONC ://www.newspapers.com/image/409590720/?article=c3e9781e-77e8
+4 CONC -44b9-b0dd-64a984887eb3&focus=0.67724866,0.49759015,0.807535
+4 CONC 9,0.66573566&xid
+3 _APID 1,61843::639505611
 2 SOUR @8SpggOHIRZiow2E3C3cu@
 3 _APID 1,60525::51371628
 2 SOUR @GFCLw2yOQvibba3edsSE@
@@ -10283,6 +10976,13 @@
 1 BURI
 2 PLAC Calverton National Cemetery, Calverton, Suffolk, New York, U
 3 CONC SA
+2 SOUR @S135@
+3 PAGE Daily News; Publication Date: 15/ Jun/ 2007; Publication Pla
+4 CONC ce: New York, New York, United States of America; URL: https
+4 CONC ://www.newspapers.com/image/409590720/?article=c3e9781e-77e8
+4 CONC -44b9-b0dd-64a984887eb3&focus=0.67724866,0.49759015,0.807535
+4 CONC 9,0.66573566&xid
+3 _APID 1,61843::639505611
 2 SOUR @8SpggOHIRZiow2E3C3cu@
 3 _APID 1,60525::51371628
 2 SOUR @S112@
@@ -10334,6 +11034,13 @@
 4 CONC l Title: State of Oregon Death Index; Year Range: 1991-2000
 3 OBJE @M84@
 3 _APID 1,5254::1601483
+2 SOUR @S61@
+3 _APID 1,1732::382737844
+2 SOUR @S91@
+3 PAGE "U.S., School Yearbooks, 1880-2012"; School Name: Walnut Hig
+4 CONC h School; Year: 1977
+3 OBJE @M173@
+3 _APID 1,1265::647042784
 2 SOUR @S2fyUKW7QvupWtUQHBOs@
 3 _APID 1,60901::33415375
 2 SOUR @GFCLw2yOQvibba3edsSE@
@@ -10342,6 +11049,7 @@
 3 _APID 1,3693::56893011
 1 SEX M
 1 FAMS @F162@
+1 OBJE @M146@
 1 BIRT
 2 DATE 30 JUN 1961
 2 PLAC San Bernardino, California, USA
@@ -10360,12 +11068,27 @@
 4 CONC l Title: State of Oregon Death Index; Year Range: 1991-2000
 3 OBJE @M84@
 3 _APID 1,5254::1601483
+2 SOUR @S61@
+3 _APID 1,1732::382737844
+2 SOUR @S91@
+3 PAGE "U.S., School Yearbooks, 1880-2012"; School Name: Walnut Hig
+4 CONC h School; Year: 1977
+3 OBJE @M173@
+3 _APID 1,1265::647042784
 2 SOUR @S2fyUKW7QvupWtUQHBOs@
 3 _APID 1,60901::33415375
 2 SOUR @GFCLw2yOQvibba3edsSE@
 3 PAGE Number: 554-72-6529; Issue State: California; Issue Date: 19
 4 CONC 63
 3 _APID 1,3693::56893011
+1 RESI
+2 DATE 1977
+2 PLAC Walnut High School, Walnut, Los Angeles, California, USA
+2 SOUR @S91@
+3 PAGE "U.S., School Yearbooks, 1880-2012"; School Name: Walnut Hig
+4 CONC h School; Year: 1977
+3 OBJE @M173@
+3 _APID 1,1265::647042784
 1 DEAT
 2 DATE 10 DEC 2000
 2 PLAC Linn, Oregon, USA
@@ -10383,6 +11106,14 @@
 3 PAGE Number: 554-72-6529; Issue State: California; Issue Date: 19
 4 CONC 63
 3 _APID 1,3693::56893011
+1 RESI
+2 PLAC Coquille, Coos, Oregon, USA
+3 MAP
+4 LATI N43.1771
+4 LONG W124.1876
+2 SOUR @S61@
+3 _APID 1,1732::382737844
+1 _PHOTO @M146@
 0 @FJk6qyKJTzCXM3s8ubkE@ INDI
 1 REFN c1aae287-d761-48e8-a119-8b0616d508c2
 1 NAME Byron /Stevens/
@@ -10542,6 +11273,10 @@
 4 CONC fore 1951
 3 _APID 1,3693::59521294
 1 _XY 4619 2159
+0 @I321@ INDI
+1 NAME [REDACTED]
+1 FAMC @F200@
+1 FAMS @F195@
 0 @I240@ INDI
 1 NAME [REDACTED]
 1 FAMS @F169@
@@ -10554,10 +11289,90 @@
 1 FAMS @F188@
 1 BIRT
 2 DATE 1825
+0 @I312@ INDI
+1 NAME Starla Galene /Taylor/
+2 SOUR @S103@
+3 PAGE p. C832944; "Starla Galene Taylor"
+3 _APID 1,1100::3868288
+2 SOUR @S135@
+3 PAGE "Starla Galene Taylor", Newspapers.com ( https://www.newspap
+4 CONC ers.com/image/515825261/?article=db584855-b1fd-4ef3-ab0c-e00
+4 CONC 6bc890896&focus=0.023811571,0.04719825,0.34711325,0.455380
+4 CONC 2 ), Obituary Index; citing Times-News (Twin Falls, Idaho)
+4 CONC , 15 Aug 2017.
+3 _APID 1,61843::660722825
+2 SOUR @S86@
+3 PAGE City: Wendell; State: Idaho; Year(s): 2001
+3 _APID 1,7339::128557378
+2 SOUR @S85@
+3 _APID 1,1788::232561308
+2 SOUR @S61@
+3 _APID 1,1732::151543637
+1 SEX F
+1 FAMS @F194@
+1 FAMS @F197@
+1 FAMS @F200@
+1 BIRT
+2 DATE 11 NOV 1963
+2 PLAC Jerome, Jerome, Idaho, USA
+3 MAP
+4 LATI N42.7241
+4 LONG W114.5187
+2 SOUR @S135@
+3 PAGE "Starla Galene Taylor", Newspapers.com ( https://www.newspap
+4 CONC ers.com/image/515825261/?article=db584855-b1fd-4ef3-ab0c-e00
+4 CONC 6bc890896&focus=0.023811571,0.04719825,0.34711325,0.455380
+4 CONC 2 ), Obituary Index; citing Times-News (Twin Falls, Idaho)
+4 CONC , 15 Aug 2017.
+3 _APID 1,61843::660722825
+2 SOUR @S61@
+3 _APID 1,1732::151543637
+1 RESI
+2 DATE 1984
+2 PLAC Phoenix, Maricopa, Arizona, USA
+3 MAP
+4 LATI N33.4484
+4 LONG W112.074
+1 RESI
+2 DATE 2001
+2 PLAC 258 2Nd Avenue W, Wendell, Gooding, Idaho, USA
+2 SOUR @S86@
+3 PAGE City: Wendell; State: Idaho; Year(s): 2001
+3 _APID 1,7339::128557378
+1 DEAT
+2 DATE 04 AUG 2017
+2 PLAC Boise, Ada, Idaho, USA
+3 MAP
+4 LATI N43.6135
+4 LONG W116.2035
+2 SOUR @S135@
+3 PAGE "Starla Galene Taylor", Newspapers.com ( https://www.newspap
+4 CONC ers.com/image/515825261/?article=db584855-b1fd-4ef3-ab0c-e00
+4 CONC 6bc890896&focus=0.023811571,0.04719825,0.34711325,0.455380
+4 CONC 2 ), Obituary Index; citing Times-News (Twin Falls, Idaho)
+4 CONC , 15 Aug 2017.
+3 _APID 1,61843::660722825
+1 RESI
+2 PLAC 733 4th Avenue E, Gooding, Gooding, Idaho, USA
+2 SOUR @S61@
+3 _APID 1,1732::151543637
+1 RESI
+2 PLAC Wendell, Gooding, Idaho, USA
+3 MAP
+4 LATI N42.7757
+4 LONG W114.7042
+2 SOUR @S135@
+3 PAGE "Starla Galene Taylor", Newspapers.com ( https://www.newspap
+4 CONC ers.com/image/515825261/?article=db584855-b1fd-4ef3-ab0c-e00
+4 CONC 6bc890896&focus=0.023811571,0.04719825,0.34711325,0.455380
+4 CONC 2 ), Obituary Index; citing Times-News (Twin Falls, Idaho)
+4 CONC , 15 Aug 2017.
+3 _APID 1,61843::660722825
+0 @I317@ INDI
+1 NAME [REDACTED]
+1 FAMS @F195@
 0 @I213@ INDI
-1 REFN 5bf3878b-b4ba-451c-94f4-951212af7e08
-1 NAME Howard D. /Timmons/
-1 SEX M
+1 NAME [REDACTED]
 1 FAMC @F157@
 0 @I217@ INDI
 1 REFN 9aaf1ff5-fbf1-47e5-9337-ce454738af08
@@ -10566,6 +11381,13 @@
 3 PAGE New York City Municipal Archives; New York, New York; Boroug
 4 CONC h: Brooklyn; Howard Timmons
 3 _APID 1,61406::3380908
+2 SOUR @S135@
+3 PAGE The Charlotte Observer; Publication Date: 28/ Jun/ 1974; Pub
+4 CONC lication Place: Charlotte, North Carolina, United States o
+4 CONC f America; URL: https://www.newspapers.com/image/622410608/?
+4 CONC article=a8ed7a38-01d2-46fd-bac2-0343827ab644&focus=0.1375441
+4 CONC ,0.49319118,0.2546
+3 _APID 1,61843::793464315
 2 SOUR @S92@
 3 PAGE North Carolina State Archives; Raleigh, North Carolina; Nort
 4 CONC h Carolina Death Certificates
@@ -10573,16 +11395,43 @@
 3 _APID 1,1121::184778
 2 SOUR @S93@
 3 _APID 1,8908::4649594
+2 SOUR @S107@
+3 _APID 1,2441::5928919
 2 SOUR @8SpggOHIRZiow2E3C3cu@
 3 _APID 1,60525::16542773
+2 SOUR @S91@
+3 PAGE "U.S., School Yearbooks, 1880-2012"; School Name: Rock Hil
+4 CONC l High School; Year: 1959
+3 OBJE @M170@
+3 _APID 1,1265::438842426
+2 SOUR @S2fyUKW7QvupWtUQHBOs@
+3 _APID 1,60901::804248427
+2 SOUR @GFCLw2yOQvibba3edsSE@
+3 PAGE Social Security Administration; Washington D.C., USA; Socia
+4 CONC l Security Death Index, Master File
+3 _APID 1,3693::62643878
+2 SOUR @S150@
+3 _APID 1,70589::160170
+2 SOUR @S151@
+3 _APID 1,70533::13288
 1 SEX M
 1 FAMS @F157@
+1 OBJE @M162@
+1 OBJE @M165@
+1 OBJE @M148@
 1 BIRT
 2 DATE 11 JUL 1942
 2 PLAC South Carolina, USA
 3 MAP
 4 LATI N33.6375
 4 LONG W80.0833
+2 SOUR @S135@
+3 PAGE The Charlotte Observer; Publication Date: 28/ Jun/ 1974; Pub
+4 CONC lication Place: Charlotte, North Carolina, United States o
+4 CONC f America; URL: https://www.newspapers.com/image/622410608/?
+4 CONC article=a8ed7a38-01d2-46fd-bac2-0343827ab644&focus=0.1375441
+4 CONC ,0.49319118,0.2546
+3 _APID 1,61843::793464315
 2 SOUR @S92@
 3 PAGE North Carolina State Archives; Raleigh, North Carolina; Nort
 4 CONC h Carolina Death Certificates
@@ -10590,14 +11439,49 @@
 3 _APID 1,1121::184778
 2 SOUR @S93@
 3 _APID 1,8908::4649594
+2 SOUR @S107@
+3 _APID 1,2441::5928919
 2 SOUR @8SpggOHIRZiow2E3C3cu@
 3 _APID 1,60525::16542773
+2 SOUR @S91@
+3 PAGE "U.S., School Yearbooks, 1880-2012"; School Name: Rock Hil
+4 CONC l High School; Year: 1959
+3 OBJE @M170@
+3 _APID 1,1265::438842426
+2 SOUR @S2fyUKW7QvupWtUQHBOs@
+3 _APID 1,60901::804248427
+2 SOUR @GFCLw2yOQvibba3edsSE@
+3 PAGE Social Security Administration; Washington D.C., USA; Socia
+4 CONC l Security Death Index, Master File
+3 _APID 1,3693::62643878
+1 RESI
+2 DATE 1958
+2 PLAC South Carolina, USA
+3 MAP
+4 LATI N33.6375
+4 LONG W80.0833
+2 SOUR @GFCLw2yOQvibba3edsSE@
+3 PAGE Social Security Administration; Washington D.C., USA; Socia
+4 CONC l Security Death Index, Master File
+3 _APID 1,3693::62643878
+1 EVEN
+2 TYPE military
+2 DATE 19 SEP 1960
+2 SOUR @S107@
+3 _APID 1,2441::5928919
 1 DEAT
 2 DATE 26 JUN 1974
 2 PLAC Charlotte, Mecklenburg, North Carolina, USA
 3 MAP
 4 LATI N35.2271
 4 LONG W80.8431
+2 SOUR @S135@
+3 PAGE The Charlotte Observer; Publication Date: 28/ Jun/ 1974; Pub
+4 CONC lication Place: Charlotte, North Carolina, United States o
+4 CONC f America; URL: https://www.newspapers.com/image/622410608/?
+4 CONC article=a8ed7a38-01d2-46fd-bac2-0343827ab644&focus=0.1375441
+4 CONC ,0.49319118,0.2546
+3 _APID 1,61843::793464315
 2 SOUR @S92@
 3 PAGE North Carolina State Archives; Raleigh, North Carolina; Nort
 4 CONC h Carolina Death Certificates
@@ -10605,8 +11489,20 @@
 3 _APID 1,1121::184778
 2 SOUR @S93@
 3 _APID 1,8908::4649594
+2 SOUR @S107@
+3 _APID 1,2441::5928919
 2 SOUR @8SpggOHIRZiow2E3C3cu@
 3 _APID 1,60525::16542773
+2 SOUR @S2fyUKW7QvupWtUQHBOs@
+3 _APID 1,60901::804248427
+2 SOUR @GFCLw2yOQvibba3edsSE@
+3 PAGE Social Security Administration; Washington D.C., USA; Socia
+4 CONC l Security Death Index, Master File
+3 _APID 1,3693::62643878
+2 SOUR @S150@
+3 _APID 1,70589::160170
+2 SOUR @S151@
+3 _APID 1,70533::13288
 1 BURI
 2 PLAC Rock Hill, York, South Carolina, USA
 3 MAP
@@ -10624,6 +11520,7 @@
 4 CONC h Carolina Death Certificates
 3 OBJE @M82@
 3 _APID 1,1121::184778
+1 _PHOTO @M165@
 0 @I212@ INDI
 1 REFN 0c7464aa-6b4b-4ed8-af2b-03ea7f17710e
 1 NAME Jennifer Ann /Timmons/
@@ -10637,18 +11534,74 @@
 0 @I216@ INDI
 1 REFN 4b95fc26-70fb-4dc7-9fd6-82bc165ac888
 1 NAME Raymond Scott /Timmons/
+2 SOUR @S135@
+3 PAGE The Charlotte Observer; Publication Date: 28/ Jun/ 1974; Pub
+4 CONC lication Place: Charlotte, North Carolina, United States o
+4 CONC f America; URL: https://www.newspapers.com/image/622410608/?
+4 CONC article=a8ed7a38-01d2-46fd-bac2-0343827ab644&focus=0.1375441
+4 CONC ,0.49319118,0.2546
+3 _APID 1,61843::793537223
+2 SOUR @S93@
+3 _APID 1,8908::12659040
+2 SOUR @S86@
+3 PAGE City: West Columbia; State: South Carolina; Year(s): 1998-20
+4 CONC 02
+3 _APID 1,7339::117460227
+2 SOUR @S61@
+3 _APID 1,1732::397816903
+2 SOUR @S2fyUKW7QvupWtUQHBOs@
+3 _APID 1,60901::39461018
+2 SOUR @GFCLw2yOQvibba3edsSE@
+3 PAGE Social Security Administration; Washington D.C., USA; Socia
+4 CONC l Security Death Index, Master File
+3 _APID 1,3693::70752719
+2 SOUR @S147@
+3 _APID 1,70050::22334750
 1 SEX M
 1 FAMC @F157@
 1 FAMS @F158@
 1 BIRT
 2 DATE 29 APR 1966
 2 PLAC Brooklyn, New York City, New York, USA
+2 SOUR @S93@
+3 _APID 1,8908::12659040
+2 SOUR @S61@
+3 _APID 1,1732::397816903
+2 SOUR @S2fyUKW7QvupWtUQHBOs@
+3 _APID 1,60901::39461018
+2 SOUR @GFCLw2yOQvibba3edsSE@
+3 PAGE Social Security Administration; Washington D.C., USA; Socia
+4 CONC l Security Death Index, Master File
+3 _APID 1,3693::70752719
+2 SOUR @S147@
+3 _APID 1,70050::22334750
 1 DEAT
 2 DATE 13 JUN 2003
 2 PLAC Dare, North Carolina, USA
 3 MAP
 4 LATI N35.6899
 4 LONG W75.727
+2 SOUR @S93@
+3 _APID 1,8908::12659040
+2 SOUR @S2fyUKW7QvupWtUQHBOs@
+3 _APID 1,60901::39461018
+2 SOUR @GFCLw2yOQvibba3edsSE@
+3 PAGE Social Security Administration; Washington D.C., USA; Socia
+4 CONC l Security Death Index, Master File
+3 _APID 1,3693::70752719
+2 SOUR @S147@
+3 _APID 1,70050::22334750
+1 RESI
+2 PLAC West Columbia, Lexington, South Carolina, USA
+3 MAP
+4 LATI N33.9935
+4 LONG W81.074
+2 SOUR @S93@
+3 _APID 1,8908::12659040
+2 NOTE Marital Status: Married
+0 @I318@ INDI
+1 NAME [REDACTED]
+1 FAMC @F194@
 0 @I236@ INDI
 1 NAME [REDACTED]
 1 FAMS @F166@
@@ -10662,17 +11615,9 @@
 1 FAMS @F165@
 1 FAMS @F164@
 0 @I264@ INDI
-1 REFN 4666dc9e-8ba0-4b0e-802b-e3dcf1ca1383
-1 NAME Susan Lynn /Turnblad/
-2 SOUR @S103@
-3 PAGE p. C412190, Susan Lynn Turnblad
-3 _APID 1,1100::4227147
-2 SOUR @S103@
-3 PAGE p. Z002564, Susan Lynn Turnblad
-3 _APID 1,1100::4227148
-1 SEX F
-1 FAMS @F178@
+1 NAME [REDACTED]
 1 FAMS @F167@
+1 FAMS @F191@
 0 @I220@ INDI
 1 NAME [REDACTED]
 1 FAMC @F159@
@@ -10967,6 +11912,11 @@
 5 CONC et (Loma Chica Street).]
 3 _LINK http://www.patrimonio.quito.gob.ec/index.php/centro-document
 4 CONC al/fondo-editorial?id=308
+1 PROP discharge of mortgage, 3000 pesos, paid by daughter Amalia i
+2 CONC n services
+2 DATE 17 JAN 1870
+2 PLAC Calle de los Milagros, Quito, Pichincha, Ecuador
+2 SOUR @S94@
 1 DEAT
 2 DATE ABT FEB 1873
 2 SOUR @S94@
@@ -11167,18 +12117,16 @@
 3 _APID 1,2442::4966016
 2 SOUR @fGtagMi3TwuZAiqyWBib@
 3 PAGE "Nonstatistical Manifests and Statistical Index Cards of Ali
-4 CONC ens Arriving at Laredo, Texas, May 1903 - November 1929," NA
-4 CONC I #2843448, Record Group #85, "Records of the Immigration an
-4 CONC d Naturalization Service, 1787-2004," series A3379, roll 112
-4 CONC , image 640
+4 CONC ens Arriving at Laredo, Texas, May 1903 - November 1929," R
+4 CONC G 85, "Records of the Immigration and Naturalization Service
+4 CONC , 1787-2004," series A3379, roll 112, image 640
 3 OBJE @3PUEIslVQTSK9D3FLKO5@
 3 _APID 1,1082::2232447
 2 SOUR @fGtagMi3TwuZAiqyWBib@
 3 PAGE "Nonstatistical Manifests and Statistical Index Cards of Ali
-4 CONC ens Arriving at Laredo, Texas, May 1903 - November 1929," NA
-4 CONC I #2843448, Record Group #85, "Records of the Immigration an
-4 CONC d Naturalization Service, 1787-2004," series A3379, roll 112
-4 CONC , image 641
+4 CONC ens Arriving at Laredo, Texas, May 1903 - November 1929," R
+4 CONC G 85, "Records of the Immigration and Naturalization Service
+4 CONC , 1787-2004," series A3379, roll 112, image 641
 3 DATA
 4 TEXT Has passport No. 66690
 3 OBJE @49Q5uPjzRhGUxbMAravR@
@@ -11216,7 +12164,7 @@
 2 SOUR @S63@
 3 PAGE Year: 1919; Arrival: New York, New York; Microfilm Serial: T
 4 CONC 715, 1897-1957; Microfilm Roll: Roll 2692; Line: 1; Page Num
-4 CONC ber: 116
+4 CONC ber: 116; _APID 1,7488::4017765877
 3 OBJE @M75@
 3 _APID 1,7488::4017765877
 2 SOUR @es9CfZUrS7S7jzWga8jJ@
@@ -11286,18 +12234,16 @@
 3 _APID 1,2442::4966016
 2 SOUR @fGtagMi3TwuZAiqyWBib@
 3 PAGE "Nonstatistical Manifests and Statistical Index Cards of Ali
-4 CONC ens Arriving at Laredo, Texas, May 1903 - November 1929," NA
-4 CONC I #2843448, Record Group #85, "Records of the Immigration an
-4 CONC d Naturalization Service, 1787-2004," series A3379, roll 112
-4 CONC , image 640
+4 CONC ens Arriving at Laredo, Texas, May 1903 - November 1929," R
+4 CONC G 85, "Records of the Immigration and Naturalization Service
+4 CONC , 1787-2004," series A3379, roll 112, image 640
 3 OBJE @3PUEIslVQTSK9D3FLKO5@
 3 _APID 1,1082::2232447
 2 SOUR @fGtagMi3TwuZAiqyWBib@
 3 PAGE "Nonstatistical Manifests and Statistical Index Cards of Ali
-4 CONC ens Arriving at Laredo, Texas, May 1903 - November 1929," NA
-4 CONC I #2843448, Record Group #85, "Records of the Immigration an
-4 CONC d Naturalization Service, 1787-2004," series A3379, roll 112
-4 CONC , image 641
+4 CONC ens Arriving at Laredo, Texas, May 1903 - November 1929," R
+4 CONC G 85, "Records of the Immigration and Naturalization Service
+4 CONC , 1787-2004," series A3379, roll 112, image 641
 3 DATA
 4 TEXT Has passport No. 66690
 3 OBJE @49Q5uPjzRhGUxbMAravR@
@@ -11335,7 +12281,7 @@
 2 SOUR @S63@
 3 PAGE Year: 1919; Arrival: New York, New York; Microfilm Serial: T
 4 CONC 715, 1897-1957; Microfilm Roll: Roll 2692; Line: 1; Page Num
-4 CONC ber: 116
+4 CONC ber: 116; _APID 1,7488::4017765877
 3 OBJE @M75@
 3 _APID 1,7488::4017765877
 2 SOUR @es9CfZUrS7S7jzWga8jJ@
@@ -11440,10 +12386,9 @@
 4 LONG W99.5075
 2 SOUR @fGtagMi3TwuZAiqyWBib@
 3 PAGE "Nonstatistical Manifests and Statistical Index Cards of Ali
-4 CONC ens Arriving at Laredo, Texas, May 1903 - November 1929," NA
-4 CONC I #2843448, Record Group #85, "Records of the Immigration an
-4 CONC d Naturalization Service, 1787-2004," series A3379, roll 112
-4 CONC , image 641
+4 CONC ens Arriving at Laredo, Texas, May 1903 - November 1929," R
+4 CONC G 85, "Records of the Immigration and Naturalization Service
+4 CONC , 1787-2004," series A3379, roll 112, image 641
 3 DATA
 4 TEXT Has passport No. 66690
 3 OBJE @49Q5uPjzRhGUxbMAravR@
@@ -11454,7 +12399,7 @@
 2 SOUR @S63@
 3 PAGE Year: 1919; Arrival: New York, New York; Microfilm Serial: T
 4 CONC 715, 1897-1957; Microfilm Roll: Roll 2692; Line: 1; Page Num
-4 CONC ber: 116
+4 CONC ber: 116; _APID 1,7488::4017765877
 3 OBJE @M75@
 3 _APID 1,7488::4017765877
 1 EVEN
@@ -11464,7 +12409,7 @@
 2 SOUR @S63@
 3 PAGE Year: 1919; Arrival: New York, New York; Microfilm Serial: T
 4 CONC 715, 1897-1957; Microfilm Roll: Roll 2692; Line: 1; Page Num
-4 CONC ber: 116
+4 CONC ber: 116; _APID 1,7488::4017765877
 3 OBJE @M75@
 3 _APID 1,7488::4017765877
 1 EVEN
@@ -11477,7 +12422,7 @@
 2 SOUR @S63@
 3 PAGE Year: 1919; Arrival: New York, New York; Microfilm Serial: T
 4 CONC 715, 1897-1957; Microfilm Roll: Roll 2692; Line: 1; Page Num
-4 CONC ber: 116
+4 CONC ber: 116; _APID 1,7488::4017765877
 3 OBJE @M75@
 3 _APID 1,7488::4017765877
 1 RESI
@@ -11527,10 +12472,9 @@
 4 LONG W99.5075
 2 SOUR @fGtagMi3TwuZAiqyWBib@
 3 PAGE "Nonstatistical Manifests and Statistical Index Cards of Ali
-4 CONC ens Arriving at Laredo, Texas, May 1903 - November 1929," NA
-4 CONC I #2843448, Record Group #85, "Records of the Immigration an
-4 CONC d Naturalization Service, 1787-2004," series A3379, roll 112
-4 CONC , image 640
+4 CONC ens Arriving at Laredo, Texas, May 1903 - November 1929," R
+4 CONC G 85, "Records of the Immigration and Naturalization Service
+4 CONC , 1787-2004," series A3379, roll 112, image 640
 3 OBJE @3PUEIslVQTSK9D3FLKO5@
 3 _APID 1,1082::2232447
 1 EVEN
@@ -11757,10 +12701,9 @@
 1 BIRT
 2 DATE ABT 1880
 1 _XY 4180 1989
-0 @F177@ FAM
-1 WIFE @WoxchgtUThaqilYvgwn2@
-0 @F178@ FAM
-1 WIFE @I264@
+0 @F192@ FAM
+1 HUSB @I309@
+1 WIFE @I259@
 0 @F17@ FAM
 1 REFN 9e8a722b-7cfd-43bf-9d55-8617839f447b
 1 HUSB @I54@
@@ -11913,6 +12856,15 @@
 1 REFN f2b63b0f-3fd4-4944-bc91-97939a3fdaf1
 1 HUSB @K0gk4jcYQdijxbxDOqnW@
 1 WIFE @k71urNFWTqGNlRZnKxQA@
+0 @F190@ FAM
+1 HUSB @I306@
+1 WIFE @I307@
+1 CHIL @I308@
+2 _FREL Natural
+2 _MREL Natural
+0 @F191@ FAM
+1 HUSB @I306@
+1 WIFE @I264@
 0 @F46@ FAM
 1 REFN 1236c5c8-91f7-4d3c-af91-a5af0a60836f
 1 HUSB @I116@
@@ -12157,6 +13109,9 @@
 1 CHIL @I283@
 2 _FREL Natural
 2 _MREL Natural
+0 @F177@ FAM
+1 HUSB @I324@
+1 WIFE @WoxchgtUThaqilYvgwn2@
 0 @F186@ FAM
 1 HUSB @I147@
 1 WIFE @I302@
@@ -12252,6 +13207,10 @@
 2 _MREL Natural
 1 MARR
 2 DATE ABT 1825
+2 PLAC Quito, Pichincha, Ecuador
+3 MAP
+4 LATI S0.2167
+4 LONG W78.5
 2 SOUR @S72@
 0 @F184@ FAM
 1 HUSB @I145@
@@ -12348,6 +13307,18 @@
 1 CHIL @I262@
 2 _FREL Natural
 2 _MREL Natural
+0 @F194@ FAM
+1 HUSB @I315@
+1 WIFE @I312@
+1 CHIL @I316@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I318@
+2 _FREL Natural
+2 _MREL Natural
+0 @F193@ FAM
+1 HUSB @I313@
+1 WIFE @I221@
 0 @F25@ FAM
 1 REFN c21b70a4-460b-4586-81ef-980b255ad879
 1 HUSB @I151@
@@ -12386,6 +13357,12 @@
 1 HUSB @I249@
 1 WIFE @4p97S4PRROqpAsXPq5TW@
 1 CHIL @I248@
+2 _FREL Natural
+2 _MREL Natural
+0 @F175@ FAM
+1 HUSB @I322@
+1 WIFE @I258@
+1 CHIL @I257@
 2 _FREL Natural
 2 _MREL Natural
 0 @F59@ FAM
@@ -12432,29 +13409,38 @@
 1 CHIL @I221@
 2 _FREL Natural
 2 _MREL Natural
+0 @F196@ FAM
+1 HUSB @I222@
+1 WIFE @I314@
 0 @F159@ FAM
 1 WIFE @I221@
 1 CHIL @I220@
+2 _MREL Natural
+0 @F198@ FAM
+1 HUSB @I227@
+1 WIFE @I323@
+0 @F197@ FAM
+1 HUSB @I227@
+1 WIFE @I312@
+1 CHIL @I319@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I320@
+2 _FREL Natural
 2 _MREL Natural
 0 @F60@ FAM
 1 REFN 64ebd315-0e39-4c7b-87f1-d1b6bfff9975
 1 HUSB @I166@
 1 WIFE @I209@
 1 EVEN
-2 TYPE partnered
-2 DATE ABT 1840
+2 TYPE Partnership
+2 DATE ABT 1834
 2 PLAC Quito, Pichincha, Ecuador
 3 MAP
 4 LATI S0.2167
 4 LONG W78.5
+2 SOUR @S94@
 2 NOTE based on birth date of child Amalia
-1 EVEN
-2 TYPE Event
-2 DATE ABT 1840
-2 PLAC Quito, Pichincha, Ecuador
-3 MAP
-4 LATI S0.2167
-4 LONG W78.5
 0 @F168@ FAM
 1 HUSB @I238@
 1 WIFE @I241@
@@ -12525,6 +13511,12 @@
 1 CHIL @I174@
 2 _FREL Natural
 2 _MREL Natural
+1 MARR
+2 DATE ABT 1878
+2 PLAC Quito, Pichincha, Ecuador
+3 MAP
+4 LATI S0.2167
+4 LONG W78.5
 0 @DnBgQnFRRUKpvOAH0yMh@ FAM
 1 HUSB @NaIT2nB5R8G9YqCemqbB@
 1 WIFE @i8Zw35JcRuSjN7sdAwfN@
@@ -12640,10 +13632,6 @@
 1 CHIL @I210@
 2 _FREL Natural
 2 _MREL Natural
-0 @F175@ FAM
-1 WIFE @I258@
-1 CHIL @I257@
-2 _MREL Natural
 0 @F172@ FAM
 1 HUSB @I255@
 1 WIFE @I254@
@@ -12653,6 +13641,12 @@
 1 CHIL @I250@
 2 _FREL Natural
 2 _MREL Natural
+0 @F199@ FAM
+1 HUSB @I260@
+1 WIFE @I310@
+1 CHIL @I311@
+2 _FREL Adopted
+2 _MREL Adopted
 0 @1SlIoqLYRCqfA1ineuNc@ FAM
 1 REFN d3a98f33-9be7-463b-a043-62ec930cf2d7
 1 HUSB @LFyrTkO8TJeRCMYIp1k4@
@@ -12719,6 +13713,12 @@
 1 CHIL @LFyrTkO8TJeRCMYIp1k4@
 2 _FREL Natural
 2 _MREL Natural
+1 MARR
+2 DATE ABT 1870
+2 PLAC Quito, Pichincha, Ecuador
+3 MAP
+4 LATI S0.2167
+4 LONG W78.5
 0 @F26@ FAM
 1 REFN db2266d3-33e7-48a1-8536-e5d0dfcf35d7
 1 HUSB @I193@
@@ -12798,6 +13798,13 @@
 1 CHIL @I239@
 2 _FREL Natural
 2 _MREL Natural
+0 @F200@ FAM
+1 WIFE @I312@
+1 CHIL @I321@
+2 _MREL Natural
+0 @F195@ FAM
+1 HUSB @I317@
+1 WIFE @I321@
 0 @F157@ FAM
 1 HUSB @I217@
 1 WIFE @I218@
@@ -12977,6 +13984,12 @@
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations Inc; Location: Provo, UT, USA; Date
 2 CONC : 2000
+0 @S153@ SOUR
+1 REPO @R7@
+1 TITL California, Divorce Index, 1966-1984
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations Inc; Location: Provo, UT, USA; Date
+2 CONC : 2007
 0 @S98@ SOUR
 1 REPO @R7@
 1 TITL California, Marriage Index, 1960-1985
@@ -13294,6 +14307,24 @@
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2011
+0 @S160@ SOUR
+1 REPO @R7@
+1 TITL Minnesota, Birth Index, 1935-2000
+1 AUTH Minnesota Department of Health
+1 PUBL Ancestry.com Operations Inc; Location: Provo, UT, USA; Date
+2 CONC : 2004
+0 @S159@ SOUR
+1 REPO @R7@
+1 TITL Minnesota, Divorce Index, 1970-1995
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations Inc; Location: Provo, UT, USA; Date
+2 CONC : 2006
+0 @S158@ SOUR
+1 REPO @R7@
+1 TITL Minnesota, Marriage Index, 1958-2001
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations Inc; Location: Provo, UT, USA; Date
+2 CONC : 2007
 0 @S104@ SOUR
 1 REPO @R7@
 1 TITL Nevada, Birth Index, 1975-2012
@@ -13315,6 +14346,12 @@
 0 @S113@ SOUR
 1 REPO @R7@
 1 TITL New Jersey, Death Index, 1901-2017
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.; Location: Lehi, UT, USA; Date
+2 CONC : 2016
+0 @S162@ SOUR
+1 REPO @R7@
+1 TITL New Jersey, Marriage Index, 1901-2016
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Lehi, UT, USA; Date
 2 CONC : 2016
@@ -13380,6 +14417,22 @@
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2014
+0 @S155@ SOUR
+1 REPO @R7@
+1 TITL New York, New York, Death Index, 1949-1965
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.; Location: Lehi, UT, USA; Date
+2 CONC : 2017
+0 @S141@ SOUR
+1 REPO @R7@
+1 TITL New York, New York, Index to Birth Certificates, 1866-1909
+1 AUTH Ancestry.com
+1 PUBL Location: Lehi, UT; Date: 2020;
+0 @S142@ SOUR
+1 REPO @R7@
+1 TITL New York, New York, Index to Death Certificates, 1862-1948
+1 AUTH Ancestry.com
+1 PUBL Location: Lehi, UT; Date: 2020;
 0 @S121@ SOUR
 1 REFN ed704121-1846-4e6e-a386-93cb656291de
 1 REPO @R7@
@@ -13775,8 +14828,7 @@
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2010
 0 @S61@ SOUR
-1 REFN 02031712-40fa-41c6-9cb7-0983146f6e42
-1 REPO @R1@
+1 REPO @R7@
 1 TITL U.S. Public Records Index, 1950-1993, Volume 2
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
@@ -13835,6 +14887,12 @@
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2014
+0 @S143@ SOUR
+1 REPO @R7@
+1 TITL U.S., Obituary Collection, 1930-Current
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations Inc; Location: Lehi, UT, USA; Date
+2 CONC : 2006
 0 @vNJdxKubTEGSLeFQMo6f@ SOUR
 1 REFN c80125e3-7ac4-425d-a702-384be0b3d346
 1 REPO @R1@
@@ -13850,8 +14908,7 @@
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2010
 0 @S2fyUKW7QvupWtUQHBOs@ SOUR
-1 REFN efe7e3f3-2f4d-4fee-9155-e91345132ab1
-1 REPO @R1@
+1 REPO @R7@
 1 TITL U.S., Social Security Applications and Claims Index, 1936-20
 2 CONC 07
 1 AUTH Ancestry.com
@@ -13891,6 +14948,18 @@
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2010
+0 @S156@ SOUR
+1 REPO @R7@
+1 TITL UK and Ireland, Incoming Passenger Lists, 1878-1960
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations Inc; Location: Provo, UT, USA; Date
+2 CONC : 2008
+0 @S157@ SOUR
+1 REPO @R7@
+1 TITL UK and Ireland, Outward Passenger Lists, 1890-1960
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
+2 CONC e: 2012
 0 @WyAcKDcLTWqt25ov9LYE@ SOUR
 1 REFN bc667901-6ffc-4c34-88f9-2622599ebb17
 1 REPO @R1@
@@ -14751,10 +15820,30 @@
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2016
+0 @S150@ SOUR
+1 REPO @R7@
+1 TITL Web: Mecklenburg County, North Carolina, Death Index, 1992-2
+2 CONC 012
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.; Location: Lehi, UT, USA; Date
+2 CONC : 2012
 0 @S112@ SOUR
 1 REFN 5a8886f2-0208-433f-987c-f8e3c0b3c33a
 1 REPO @R7@
 1 TITL Web: New York, Find A Grave Index, 1660-2012
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
+2 CONC e: 2012
+0 @S147@ SOUR
+1 REPO @R7@
+1 TITL Web: Obituary Daily Times Index, 1995-2016
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
+2 CONC e: 2012
+0 @S151@ SOUR
+1 REPO @R7@
+1 TITL Web: Richland County, South Carolina, Obituary Index, 1892-2
+2 CONC 000
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2012
@@ -15848,6 +16937,298 @@
 3 CONC souri; WWII Draft Registration Cards for California, 10/16/1
 3 CONC 940-03/31/1947; Record Group: Records of the Selective Servi
 3 CONC ce System, 147; Box: 1073
+0 @M146@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Lopez Media\Dav
+2 CONC e Shoop.jpg
+2 FORM jpg
+2 TITL Dave Shoop
+2 _TEXT "U.S., School Yearbooks, 1880-2012"; School Name: Walnut Hig
+3 CONC h School; Year: 1977
+0 @M147@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Lopez Media\Lel
+2 CONC ia Lopez Pazmino with childen.jpg
+2 FORM jpg
+2 TITL Lelia Lopez Pazmino with childen
+2 _TEXT After 1900, but before 1913.
+0 @M148@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Lopez Media\PTD
+2 CONC C0001.jpg
+2 FORM jpg
+2 TITL PTDC0001
+0 @M149@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Lopez Media\Con
+2 CONC sul General.jpg
+2 FORM jpg
+2 TITL Consul General
+2 _TEXT Monthly Bulletin of the Bureau of the American Republics, In
+3 CONC ternational Union of American Republics: 1901
+0 @M150@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Lopez Media\Jef
+2 CONC f Treganowan.jpg
+2 FORM jpg
+2 TITL Jeff Treganowan
+2 _TEXT "U.S., School Yearbooks, 1880-2012"; School Name: John A Row
+3 CONC land High School; Year: 1967
+0 @M151@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Lopez Media\Jos
+2 CONC h Treganowan, Linn(1).jpg
+2 FORM jpg
+2 TITL Josh Treganowan, Linn
+2 _DATE 9/9/2017 1:46:07 PM
+0 @M152@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Lopez Media\Dav
+2 CONC id Hedegard.jpg
+2 FORM jpg
+2 TITL David Hedegard
+2 _TEXT "U.S., School Yearbooks, 1880-2012"; School Name: Klein Hig
+3 CONC h School; Year: 1983
+0 @M153@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Lopez Media\Lel
+2 CONC ia - Malvina - Rosario -Eloisa - Dolores(1).jpg
+2 FORM jpg
+2 TITL Lelia - Malvina - Rosario -Eloisa - Dolores
+0 @M154@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Lopez Media\Lel
+2 CONC ia and Victor M Pazmino_1901.jpg
+2 FORM jpg
+2 TITL Lelia and Victor M Pazmino_1901
+0 @M155@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Lopez Media\Wal
+2 CONC ter Hedegard.jpg
+2 FORM jpg
+2 TITL Walter Hedegard
+2 _TEXT "U.S., School Yearbooks, 1880-2012"; School Name: Walnut Hig
+3 CONC h School; Year: 1977
+0 @M156@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Lopez Media\Lau
+2 CONC ra Hedegard.jpg
+2 FORM jpg
+2 TITL Laura Hedegard
+2 _TEXT "U.S., School Yearbooks, 1880-2012"; School Name: Walnut Hig
+3 CONC h School; Year: 1975
+0 @M157@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Lopez Media\Geo
+2 CONC rge Pazmino.jpg
+2 FORM jpg
+2 TITL George Pazmino
+0 @M158@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Lopez Media\Mar
+2 CONC ion Hedegard.jpg
+2 FORM jpg
+2 TITL Marion Hedegard
+2 _TEXT "U.S., School Yearbooks, 1880-2012"; School Name: Charter Oa
+3 CONC k High School; Year: 1983
+0 @M159@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Lopez Media\Geo
+2 CONC rge Pazmino_school photo.jpg
+2 FORM jpg
+2 TITL George Pazmino_school photo
+0 @M160@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Lopez Media\Lel
+2 CONC ia and Victor M Pazmino_1901(1).jpg
+2 FORM jpg
+2 TITL Lelia and Victor M Pazmino_1901
+0 @M161@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Lopez Media\Geo
+2 CONC rgianna Pazmino.jpg
+2 FORM jpg
+2 TITL Georgianna Pazmino
+2 _DATE 1961
+0 @M162@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Lopez Media\How
+2 CONC ard and Georgianna Timmons.jpg
+2 FORM jpg
+2 TITL Howard and Georgianna Timmons
+0 @M163@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Lopez Media\Vic
+2 CONC tor Manuel Pazmino.jpg
+2 FORM jpg
+2 TITL Victor Manuel Pazmino
+0 @M164@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Lopez Media\Geo
+2 CONC rgianna Pazmino(1).jpg
+2 FORM jpg
+2 TITL Georgianna Pazmino
+2 _TEXT "U.S., School Yearbooks, 1880-2012"; School Name: Midwood Hi
+3 CONC gh School 405; Year: 1961
+0 @M165@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Lopez Media\How
+2 CONC ard Timmons.jpg
+2 FORM jpg
+2 TITL Howard Timmons
+2 _TEXT "U.S., School Yearbooks, 1880-2012"; School Name: Rock Hil
+3 CONC l High School; Year: 1959
+0 @M166@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Lopez Media\Min
+2 CONC nesota, Divorce Index, 1970-1995.jpg
+2 FORM jpg
+2 TITL Minnesota, Divorce Index, 1970-1995
+0 @M167@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Lopez Media\Min
+2 CONC nesota, Marriage Index, 1958-2001.jpg
+2 FORM jpg
+2 TITL Minnesota, Marriage Index, 1958-2001
+0 @M168@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Lopez Media\Ne
+2 CONC w Jersey, Marriage Index, 1901-2016.jpg
+2 FORM jpg
+2 TITL New Jersey, Marriage Index, 1901-2016
+2 _TEXT New Jersey State Archives; Trenton, New Jersey; Marriage Ind
+3 CONC exes; Index Type: Combined; Year Range: 2006; Surname Range
+3 CONC : All
+0 @M169@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Lopez Media\Ne
+2 CONC w York, New York, Births, 1910-1965(2).jpg
+2 FORM jpg
+2 TITL New York, New York, Births, 1910-1965
+0 @M170@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Lopez Media\U.S
+2 CONC ., School Yearbooks, 1900-1999(2).jpg
+2 FORM jpg
+2 TITL U.S., School Yearbooks, 1900-1999
+2 _TEXT "U.S., School Yearbooks, 1880-2012"; School Name: Rock Hil
+3 CONC l High School; Year: 1959
+0 @M171@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Lopez Media\U.S
+2 CONC ., School Yearbooks, 1900-1999(3).jpg
+2 FORM jpg
+2 TITL U.S., School Yearbooks, 1900-1999
+2 _TEXT "U.S., School Yearbooks, 1880-2012"; School Name: Charter Oa
+3 CONC k High School; Year: 1983
+0 @M172@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Lopez Media\U.S
+2 CONC ., School Yearbooks, 1900-1999(4).jpg
+2 FORM jpg
+2 TITL U.S., School Yearbooks, 1900-1999
+2 _TEXT "U.S., School Yearbooks, 1880-2012"; School Name: Midwood Hi
+3 CONC gh School 405; Year: 1961
+0 @M173@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Lopez Media\U.S
+2 CONC ., School Yearbooks, 1900-1999(5).jpg
+2 FORM jpg
+2 TITL U.S., School Yearbooks, 1900-1999
+2 _TEXT "U.S., School Yearbooks, 1880-2012"; School Name: Walnut Hig
+3 CONC h School; Year: 1977
+0 @M174@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Lopez Media\U.S
+2 CONC ., School Yearbooks, 1900-1999(6).jpg
+2 FORM jpg
+2 TITL U.S., School Yearbooks, 1900-1999
+2 _TEXT "U.S., School Yearbooks, 1880-2012"; School Name: Charter Oa
+3 CONC k High School; Year: 1982
+0 @M175@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Lopez Media\U.S
+2 CONC ., School Yearbooks, 1900-1999(7).jpg
+2 FORM jpg
+2 TITL U.S., School Yearbooks, 1900-1999
+2 _TEXT "U.S., School Yearbooks, 1880-2012"; School Name: Charter Oa
+3 CONC k High School; Year: 1984
+0 @M176@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Lopez Media\U.S
+2 CONC ., School Yearbooks, 1900-1999(8).jpg
+2 FORM jpg
+2 TITL U.S., School Yearbooks, 1900-1999
+2 _TEXT "U.S., School Yearbooks, 1880-2012"; School Name: Klein Hig
+3 CONC h School; Year: 1983
+0 @M177@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Lopez Media\Ne
+2 CONC w York, New York, Births, 1910-1965(3).jpg
+2 FORM jpg
+2 TITL New York, New York, Births, 1910-1965
+0 @M178@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Lopez Media\Cal
+2 CONC ifornia, Divorce Index, 1966-1984.jpg
+2 FORM jpg
+2 TITL California, Divorce Index, 1966-1984
+0 @M179@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Lopez Media\Ne
+2 CONC w York, New York, Births, 1910-1965(4).jpg
+2 FORM jpg
+2 TITL New York, New York, Births, 1910-1965
+0 @M180@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Lopez Media\U.S
+2 CONC ., School Yearbooks, 1900-1999(9).jpg
+2 FORM jpg
+2 TITL U.S., School Yearbooks, 1900-1999
+2 _TEXT "U.S., School Yearbooks, 1880-2012"; School Name: Walnut Hig
+3 CONC h School; Year: 1977
+0 @M181@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Lopez Media\Cal
+2 CONC ifornia, Marriage Index, 1960-1985(2).jpg
+2 FORM jpg
+2 TITL California, Marriage Index, 1960-1985
+0 @M182@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Lopez Media\Ne
+2 CONC w York, New York, Births, 1910-1965(5).jpg
+2 FORM jpg
+2 TITL New York, New York, Births, 1910-1965
+0 @M183@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Lopez Media\U.S
+2 CONC . WWII Draft Cards Young Men, 1940-1947(1).jpg
+2 FORM jpg
+2 TITL U.S. WWII Draft Cards Young Men, 1940-1947
+0 @M184@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Lopez Media\Ne
+2 CONC w York, New York, Births, 1910-1965(6).jpg
+2 FORM jpg
+2 TITL New York, New York, Births, 1910-1965
+0 @M185@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Lopez Media\Ne
+2 CONC w York, New York, Death Index, 1949-1965.jpg
+2 FORM jpg
+2 TITL New York, New York, Death Index, 1949-1965
+0 @M186@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Lopez Media\U.S
+2 CONC . WWII Draft Cards Young Men, 1940-1947(2).jpg
+2 FORM jpg
+2 TITL U.S. WWII Draft Cards Young Men, 1940-1947
+0 @M187@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Lopez Media\U.S
+2 CONC . WWII Draft Cards Young Men, 1940-1947(3).jpg
+2 FORM jpg
+2 TITL U.S. WWII Draft Cards Young Men, 1940-1947
+0 @M188@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Lopez Media\U.S
+2 CONC . WWII Draft Cards Young Men, 1940-1947(4).jpg
+2 FORM jpg
+2 TITL U.S. WWII Draft Cards Young Men, 1940-1947
+0 @M189@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Lopez Media\Min
+2 CONC nesota, Divorce Index, 1970-1995(1).jpg
+2 FORM jpg
+2 TITL Minnesota, Divorce Index, 1970-1995
+0 @M190@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Lopez Media\U.S
+2 CONC ., School Yearbooks, 1900-1999(10).jpg
+2 FORM jpg
+2 TITL U.S., School Yearbooks, 1900-1999
+2 _TEXT "U.S., School Yearbooks, 1880-2012"; School Name: Walnut Hig
+3 CONC h School; Year: 1975
+0 @M191@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Lopez Media\U.S
+2 CONC ., School Yearbooks, 1900-1999(11).jpg
+2 FORM jpg
+2 TITL U.S., School Yearbooks, 1900-1999
+2 _TEXT "U.S., School Yearbooks, 1880-2012"; School Name: John A Row
+3 CONC land High School; Year: 1967
+0 @M192@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Lopez Media\U
+2 CONC K and Ireland, Incoming Passenger Lists, 1878-1960.jpg
+2 FORM jpg
+2 TITL UK and Ireland, Incoming Passenger Lists, 1878-1960
+2 _TEXT The National Archives of the UK; Kew, Surrey, England; Boar
+3 CONC d of Trade: Commercial and Statistical Department and succes
+3 CONC sors: Inwards Passenger Lists.; Class: BT26; Piece: 1134
+0 @M193@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Lopez Media\U.S
+2 CONC . WWII Draft Cards Young Men, 1940-1947(5).jpg
+2 FORM jpg
+2 TITL U.S. WWII Draft Cards Young Men, 1940-1947
+0 @M194@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Lopez Media\U
+2 CONC K and Ireland, Outward Passenger Lists, 1890-1960.jpg
+2 FORM jpg
+2 TITL UK and Ireland, Outward Passenger Lists, 1890-1960
 0 @N224@ NOTE affidavit, page 1
 0 @N223@ NOTE affidavit, page 2
 0 @N222@ NOTE certificate
