@@ -14,9 +14,9 @@
 4 CONT Boston, MA 02109
 3 PHON (617) 227-6681
 1 DEST FTM
-1 FILE Lopez_2020-05-30-14-14-10.ftm.ged
-1 DATE 30 MAY 2020
-2 TIME 14:12:05
+1 FILE Lopez_2020-06-06-00-02-24.ftm.ged
+1 DATE 06 JUN 2020
+2 TIME 00:00:24
 0 @Umy2qBWIRUiwVSS6Hcn4@ SUBM
 1 NAME Christopher Alan Mosher
 2 EMAIL cmosher01@@gmail.com
@@ -43,6 +43,7 @@
 1 NAME [REDACTED]
 1 FAMS @F198@
 0 @I309@ INDI
+1 REFN 5989a946-cd06-4946-bbe9-19a640cf0ece
 1 NAME Anthony William /Aprile/
 2 SOUR @S162@
 3 PAGE New Jersey State Archives; Trenton, New Jersey; Marriage Ind
@@ -250,18 +251,21 @@
 3 PAGE http://gw.geneanet.org/ecuadorgen?p=gustavo;n=barba
 1 _XY 30 1694
 0 @I266@ INDI
+1 REFN 9cbeea10-90c0-45f6-b159-f58c5c3a6bd1
 1 NAME Facundo /Bayas/
 1 SEX M
 1 FAMC @F179@
 1 BIRT
 2 DATE 1868
 0 @I276@ INDI
+1 REFN 1f992499-9b3e-4fbd-b658-6ad09d4e89c0
 1 NAME Juan /Bayas/
 1 SEX M
 1 FAMS @F179@
 1 BIRT
 2 DATE 1838
 0 @I265@ INDI
+1 REFN 81d73768-2a51-4773-9d5f-076667b283f3
 1 NAME Manuel /Bayas/
 1 SEX M
 1 FAMC @F179@
@@ -606,6 +610,7 @@
 2 PLAC San Juan de Pasto, Nariño, Colombia
 1 _XY 3593 706
 0 @I287@ INDI
+1 REFN 203d08a8-3ac7-41d4-8a44-8ba3bc10bd45
 1 NAME Teresa Javiera Victoria /Chiriboga Sánchez de Espinosa y Lu
 2 CONC na/
 1 SEX F
@@ -623,6 +628,7 @@
 4 LATI S0.2167
 4 LONG W78.5
 0 @I285@ INDI
+1 REFN 2f1cb3fd-1cd0-48b1-b75a-74c7e8b09fb7
 1 NAME María Rosa /Chiriboga y Jijón/
 1 SEX F
 1 FAMS @F181@
@@ -1123,6 +1129,7 @@
 1 FAMS @F20@
 1 _XY 1456 1328
 0 @I298@ INDI
+1 REFN 54b0f71c-819e-4ed7-abd2-47ffab84862f
 1 NAME Ana María /Dávalos y Mancheno/
 1 SEX F
 1 FAMS @F184@
@@ -1246,6 +1253,7 @@
 2 PLAC Plasencia, Extremadura, España
 1 _XY 8111 515
 0 @I294@ INDI
+1 REFN 40b3e652-4b0f-48f3-a45b-d327232d4967
 1 NAME Gaetano /DeRosa/
 2 SOUR @cYpH9GKbREexd30xG7Ri@
 3 PAGE Year: 1930; Census Place: Brooklyn, Kings, New York; Page: 2
@@ -2253,6 +2261,7 @@
 1 NAME [REDACTED]
 1 FAMC @F183@
 0 @I293@ INDI
+1 REFN 2450723c-6cab-45ba-ae7b-4cfbf06cef4c
 1 NAME Giovanni /DiGennaro/
 2 SOUR @cYpH9GKbREexd30xG7Ri@
 3 PAGE Year: 1930; Census Place: Brooklyn, Kings, New York; Page: 2
@@ -2291,14 +2300,6 @@
 1 NAME Harry Flandreau /Disosway/
 1 SEX M
 1 FAMS @F177@
-0 @I303@ INDI
-1 NAME Dios Celina /Donosa Munos/
-1 SEX F
-1 FAMC @F186@
-1 OBJE @M134@
-1 BIRT
-2 DATE 1870
-1 _PHOTO @M134@
 0 @I146@ INDI
 1 REFN e7cea020-3b2a-4eab-b3ee-99abbc38f63f
 1 NAME Adela /Donoso/
@@ -2315,6 +2316,7 @@
 2 SOUR @S71@
 1 _XY 1237 1642
 0 @I271@ INDI
+1 REFN 32ce6636-143b-479e-8226-09e5a03adf40
 1 NAME Angela /Donoso/
 1 SEX F
 1 FAMC @F186@
@@ -2340,6 +2342,7 @@
 2 SOUR @S74@
 1 _XY 710 1641
 0 @I269@ INDI
+1 REFN b013c4b4-7a23-4aa9-9858-baa030a3ed57
 1 NAME Beatriz Clemencia /Donoso/
 1 SEX F
 1 FAMC @F186@
@@ -2360,6 +2363,7 @@
 2 DATE ABT 1828
 1 _XY 850 1650
 0 @I270@ INDI
+1 REFN b7ab9f3c-d192-4edc-9997-a12268a96243
 1 NAME Carlos /Donoso/
 1 SEX M
 1 FAMC @F186@
@@ -2370,6 +2374,7 @@
 4 LATI S2.1667
 4 LONG W79.9
 0 @I281@ INDI
+1 REFN 08d4adb1-f569-4426-971d-a2f66f744302
 1 NAME Dolores /Donoso/
 1 SEX F
 1 FAMC @F187@
@@ -2380,6 +2385,7 @@
 4 LATI S0.2167
 4 LONG W78.5
 0 @I280@ INDI
+1 REFN 33922e57-6055-477d-a2e2-90982dbfecb2
 1 NAME Joaquin /Donoso/
 1 SEX M
 1 FAMC @F188@
@@ -2390,6 +2396,7 @@
 4 LATI S0.2167
 4 LONG W78.5
 0 @I278@ INDI
+1 REFN 0c23c9ca-44ec-401f-b731-d59388811bcb
 1 NAME Jose /Donoso/
 1 SEX M
 1 FAMC @F188@
@@ -2400,6 +2407,7 @@
 4 LATI S0.2167
 4 LONG W78.5
 0 @I277@ INDI
+1 REFN 1c1abbf3-e397-4f4c-b175-f433a36a310b
 1 NAME Marco Tulio /Donoso/
 1 SEX M
 1 FAMC @F188@
@@ -2410,7 +2418,8 @@
 4 LATI S0.2167
 4 LONG W78.5
 0 @I268@ INDI
-1 NAME MarcoTulio /Donoso/
+1 REFN 7f09fc89-b65c-4a75-857a-7bf1e60ba8ac
+1 NAME Marco Tulio /Donoso/
 1 SEX M
 1 FAMC @F186@
 1 BIRT
@@ -2420,6 +2429,7 @@
 4 LATI S2.1667
 4 LONG W79.9
 0 @I272@ INDI
+1 REFN 964328cf-d848-4abc-b964-eaefd0993a72
 1 NAME Maria /Donoso/
 1 SEX F
 1 FAMC @F186@
@@ -2447,6 +2457,7 @@
 2 SOUR @S71@
 1 _XY 977 1642
 0 @I279@ INDI
+1 REFN 7ba5f59c-bb6f-47d0-a354-db4228de6cab
 1 NAME Modesto /Donoso/
 1 SEX M
 1 FAMC @F188@
@@ -2457,6 +2468,7 @@
 4 LATI S0.2167
 4 LONG W78.5
 0 @I282@ INDI
+1 REFN 2e21f8d0-c9ad-4e25-9776-3ccfe74c06c5
 1 NAME Ricardo Elias /Donoso/
 1 SEX M
 1 FAMC @F187@
@@ -2483,6 +2495,7 @@
 2 SOUR @S71@
 1 _XY 1114 1642
 0 @I267@ INDI
+1 REFN 8893c24e-b8a8-4000-a492-4f2dfa933ede
 1 NAME Timoleon /Donoso/
 1 SEX M
 1 FAMC @F186@
@@ -2525,6 +2538,7 @@
 1 _XY 1373 1684
 1 _PHOTO @M129@
 0 @I296@ INDI
+1 REFN 7d10bcef-0d65-4480-9c98-0c41fbe9fabe
 1 NAME Antonia /Donoso Mogrovejo Moya/
 1 SEX F
 1 FAMC @F180@
@@ -2560,6 +2574,7 @@
 2 SOUR @S72@
 1 _XY 794 1522
 0 @I290@ INDI
+1 REFN d44b6377-4894-4830-88a2-bc9e889e3f82
 1 NAME Bartolomé Marcelino /Donoso y Chiriboga/
 1 SEX M
 1 FAMC @F181@
@@ -2570,6 +2585,7 @@
 2 DATE 1864
 2 PLAC Quito, Pichincha, Ecuador.
 0 @I305@ INDI
+1 REFN 3025cd01-42b6-4613-839e-a99ced263e28
 1 NAME Diego /Donoso y Chiriboga/
 1 SEX M
 1 FAMC @F53@
@@ -2612,12 +2628,14 @@
 4 LONG W78.6334
 1 _XY 699 1431
 0 @I273@ INDI
+1 REFN d4b2042b-bd5b-4143-9d68-d4f74d4b41cd
 1 NAME Francisco /Donoso y Chiriboga/
 1 SEX M
 1 FAMC @F53@
 1 BIRT
 2 DATE 1804
 0 @I292@ INDI
+1 REFN f0d3d84b-18c9-4d26-92c1-2daaa2810a71
 1 NAME Manuel Gabriel /Donoso y Chiriboga/
 1 SEX M
 1 FAMC @F181@
@@ -2634,12 +2652,14 @@
 4 LATI S0.2167
 4 LONG W78.5
 0 @I304@ INDI
+1 REFN 55797793-e006-497c-9d03-575599a85ec7
 1 NAME Maria Josepha /Donoso y Chiriboga/
 1 SEX F
 1 FAMC @F53@
 1 BIRT
 2 DATE 1798
 0 @I284@ INDI
+1 REFN fdd13655-bb7f-402e-ab8b-6a5230007be7
 1 NAME Mariano Luis /Donoso y Chiriboga/
 1 SEX M
 1 FAMC @F182@
@@ -2652,6 +2672,7 @@
 2 DATE 22 DEC 1805
 2 PLAC Real Audiencia, Quito, Pichincha, Ecuador
 0 @I288@ INDI
+1 REFN 0a9d6406-428d-4e85-b43a-66e7df72a23b
 1 NAME Mariano Pedro Francisco Javier /Donoso y Chiriboga/
 1 SEX M
 1 FAMC @F181@
@@ -2662,6 +2683,7 @@
 2 DATE 1870
 2 PLAC Riobamba, Chimborzo, Ecuador
 0 @I289@ INDI
+1 REFN 1a68082c-0ced-4423-840d-4159d30fe147
 1 NAME Pedro Antonio /Donoso y Chiriboga/
 1 SEX M
 1 FAMC @F181@
@@ -2678,6 +2700,7 @@
 4 LATI S1.6667
 4 LONG W78.6334
 0 @I291@ INDI
+1 REFN c1c16bb8-e880-4f8a-86ef-54bfabe96bad
 1 NAME Pedro Ramón /Donoso y Chiriboga/
 1 SEX M
 1 FAMC @F181@
@@ -2694,6 +2717,7 @@
 4 LATI S0.2167
 4 LONG W78.5
 0 @I299@ INDI
+1 REFN aadf3379-f22d-422a-bd1a-55ec4880acff
 1 NAME José /Donoso y Dávalos/
 1 SEX M
 1 FAMC @F184@
@@ -2704,6 +2728,7 @@
 4 LATI S1.6667
 4 LONG W78.6334
 0 @I300@ INDI
+1 REFN 8f73588d-8f59-419b-ae6a-82ecf464dfae
 1 NAME María Concepción /Donoso y Dávalos/
 1 SEX F
 1 FAMC @F184@
@@ -2719,6 +2744,7 @@
 4 LATI S1.6667
 4 LONG W78.6334
 0 @I286@ INDI
+1 REFN 492d8357-4ce0-4beb-8927-4f9870ce1c45
 1 NAME Diego /Donoso y de la Carrera/
 1 SEX M
 1 FAMS @F182@
@@ -2735,6 +2761,7 @@
 4 LATI S0.2167
 4 LONG W78.5
 0 @I314@ INDI
+1 REFN 03b911e9-86f8-4c95-a267-3154dd93b2d9
 1 NAME Rosemarie /Duarte/
 2 SOUR @S103@
 3 PAGE p. C557241; Rosemarie Duarte
@@ -2832,6 +2859,7 @@
 4 CONC -1958
 1 _XY 4764 4376
 0 @I315@ INDI
+1 REFN 20fb3878-6bf0-420e-81dd-7eee823d7a15
 1 NAME Allen /Eldredge/
 2 SOUR @S135@
 3 PAGE "Allen Eldredge", Newspapers.com ( https://www.newspapers.co
@@ -2843,6 +2871,7 @@
 1 SEX M
 1 FAMS @F194@
 0 @I313@ INDI
+1 REFN b3729cd1-8fc8-4e82-887c-ca0734ab47f1
 1 NAME Eldon Roger /Erbe/
 2 SOUR @S103@
 3 PAGE p. C951909; Eldon Roger Erbe
@@ -2928,6 +2957,7 @@
 1 FAMC @F25@
 1 _XY 2126 1131
 0 @I301@ INDI
+1 REFN d49aae9a-ad8c-4760-954f-ec46d02c4989
 1 NAME Mariana /Freile Y Chiriboga/
 1 SEX F
 1 FAMS @F185@
@@ -3162,6 +3192,7 @@
 1 NAME [REDACTED]
 1 FAMC @F175@
 0 @I310@ INDI
+1 REFN d626b033-d186-4770-abbb-d32124494e7d
 1 NAME Gladys //
 1 SEX F
 1 FAMS @F199@
@@ -3230,12 +3261,14 @@
 2 PLAC Membrilla, Toledo, Espana
 1 _XY 7561 324
 0 @I275@ INDI
+1 REFN 09efc17e-3750-4e85-90ea-5222e1719784
 1 NAME Angela /Guarderas/
 1 SEX F
 1 FAMS @F187@
 1 BIRT
 2 DATE 1848
 0 @I320@ INDI
+1 REFN 025c7ae2-2b8d-41d9-8440-e29e24733855
 1 NAME Angelica R. /Hedegaard/
 2 SOUR @S135@
 3 PAGE The Times-News; Publication Date: 15/ Aug/ 2017; Publicatio
@@ -3253,6 +3286,7 @@
 4 LATI N40.7608
 4 LONG W111.891
 0 @I319@ INDI
+1 REFN 2cc55f38-689f-4f68-b0ac-059ed6e01295
 1 NAME Ganley Allen /Hedegaard/
 2 SOUR @S135@
 3 PAGE The Times-News; Publication Date: 15/ Aug/ 2017; Publicatio
@@ -3587,6 +3621,7 @@
 1 FAMS @F197@
 1 FAMS @F198@
 0 @I307@ INDI
+1 REFN 7e94c4ff-246d-49db-bc89-c99129b9c97d
 1 NAME Angela Ann /Herbert/
 2 SOUR @S100@
 3 PAGE Birthdate: 12 Aug 1971; Birth County: Merced
@@ -3720,6 +3755,7 @@
 4 LONG W78.1167
 1 _XY 5470 479
 0 @I316@ INDI
+1 REFN 498b3585-d05b-4950-b738-01dbbfcaee8c
 1 NAME Whitnee /Kieran/
 2 SOUR @S135@
 3 PAGE The Times-News; Publication Date: 15/ Aug/ 2017; Publicatio
@@ -7756,6 +7792,7 @@
 1 FAMS @F56@
 1 _XY 8009 430
 0 @I311@ INDI
+1 REFN ef1f3b82-22e5-41c1-88e8-e3f482f6777a
 1 NAME Matthew Albert //
 1 NAME Matthew Albert Pazmiño
 2 TYPE aka
@@ -7767,6 +7804,7 @@
 1 NAME [REDACTED]
 1 FAMS @F172@
 0 @I297@ INDI
+1 REFN 9cf66a4a-05b6-4024-bcb4-b1f78fc10628
 1 NAME Josepha /Mogrovejo Moya/
 1 SEX F
 1 FAMS @F180@
@@ -7797,11 +7835,21 @@
 2 PLAC Cartagena de Indias, Colombia
 1 _XY 5417 171
 0 @I302@ INDI
+1 REFN f5dcf891-fc97-40fe-bc70-560a5cf7e3b6
 1 NAME Beatriz /Muños/
 1 SEX F
 1 FAMS @F186@
 1 BIRT
 2 DATE 1850
+0 @I303@ INDI
+1 REFN 74462fb8-d034-405c-ba6e-cf5ce43b6fd5
+1 NAME Dios Celina Donoso /Munos/
+1 SEX F
+1 FAMC @F186@
+1 OBJE @M134@
+1 BIRT
+2 DATE 1870
+1 _PHOTO @M134@
 0 @I188@ INDI
 1 REFN fdf32243-834a-4d2c-b006-e87d58becee5
 1 NAME María /Núñez/
@@ -11284,12 +11332,14 @@
 1 NAME [REDACTED]
 1 FAMC @F169@
 0 @I274@ INDI
+1 REFN 34b61699-639d-4420-8db3-c19a104fc408
 1 NAME Juana /Tama/
 1 SEX F
 1 FAMS @F188@
 1 BIRT
 2 DATE 1825
 0 @I312@ INDI
+1 REFN 90d32d24-4953-41c9-8d27-62d1bbe3d0f1
 1 NAME Starla Galene /Taylor/
 2 SOUR @S103@
 3 PAGE p. C832944; "Starla Galene Taylor"
@@ -12193,6 +12243,12 @@
 4 CONC ficates: 87750-87999, 11 Jun 1919-12 Jun 1919
 3 OBJE @BI9pkStTSaaWxiGku6d2@
 3 _APID 1,1174::90797
+2 SOUR @qpTDKzDDQdu7knNOyc6m@
+3 PAGE National Archives and Records Administration (NARA); Washing
+4 CONC ton D.C.; Roll #: 406; Volume #: Roll 0406 - Certificates: 6
+4 CONC 6401-66700, 20 Sep 1917-22 Sep 1917
+3 OBJE @M195@
+3 _APID 1,1174::505783
 2 SOUR @S2fyUKW7QvupWtUQHBOs@
 3 _APID 1,60901::1650038
 2 SOUR @dqHcxE1wRc6wPON8Y87m@
@@ -12213,7 +12269,7 @@
 1 FAMS @CG3lu0waRu2DmiRoC3LG@
 1 FAMS @GfXPo47fS6ObLCP0vT4w@
 1 BIRT
-2 DATE 09 DEC 1880
+2 DATE 09 DEC 1889
 2 PLAC Munich, Bavaria, Germany
 2 SOUR @pZSp306qQOGHvPqm0c60@
 3 PAGE Year: 1920; Census Place: New Orleans Ward 14, Orleans, Loui
@@ -12310,6 +12366,12 @@
 4 CONC ficates: 87750-87999, 11 Jun 1919-12 Jun 1919
 3 OBJE @BI9pkStTSaaWxiGku6d2@
 3 _APID 1,1174::90797
+2 SOUR @qpTDKzDDQdu7knNOyc6m@
+3 PAGE National Archives and Records Administration (NARA); Washing
+4 CONC ton D.C.; Roll #: 406; Volume #: Roll 0406 - Certificates: 6
+4 CONC 6401-66700, 20 Sep 1917-22 Sep 1917
+3 OBJE @M195@
+3 _APID 1,1174::505783
 2 SOUR @S2fyUKW7QvupWtUQHBOs@
 3 _APID 1,60901::1650038
 2 SOUR @dqHcxE1wRc6wPON8Y87m@
@@ -12368,10 +12430,16 @@
 2 NOTE Relation to Head of House: Head
 1 RESI
 2 DATE 1917
-2 PLAC Nassau, New York, USA
+2 PLAC Freeport, Nassau, New York, USA
 3 MAP
-4 LATI N40.7328
-4 LONG W73.5884
+4 LATI N40.6576
+4 LONG W73.5832
+2 SOUR @qpTDKzDDQdu7knNOyc6m@
+3 PAGE National Archives and Records Administration (NARA); Washing
+4 CONC ton D.C.; Roll #: 406; Volume #: Roll 0406 - Certificates: 6
+4 CONC 6401-66700, 20 Sep 1917-22 Sep 1917
+3 OBJE @M195@
+3 _APID 1,1174::505783
 2 SOUR @dqHcxE1wRc6wPON8Y87m@
 3 PAGE Registration State: New York; Registration County: Nassau; R
 4 CONC oll: 1754388; Draft Board: 3
@@ -14809,12 +14877,11 @@
 2 CONC roll down to the bottom of this page for <a href="#microfilm
 2 CONC ">NARA microfilm details.</a>
 0 @qpTDKzDDQdu7knNOyc6m@ SOUR
-1 REFN 597f3bf9-f988-440c-b4e5-5566eabc8b1b
-1 REPO @R1@
+1 REPO @R7@
 1 TITL U.S. Passport Applications, 1795-1925
 1 AUTH Ancestry.com
-1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
-2 CONC e: 2007
+1 PUBL Ancestry.com Operations, Inc.; Location: Lehi, UT, USA; Date
+2 CONC : 2007
 0 @S86@ SOUR
 1 REPO @R1@
 1 TITL U.S. Phone and Address Directories, 1993-2002
@@ -17229,6 +17296,14 @@
 2 CONC K and Ireland, Outward Passenger Lists, 1890-1960.jpg
 2 FORM jpg
 2 TITL UK and Ireland, Outward Passenger Lists, 1890-1960
+0 @M195@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Lopez Media\U.S
+2 CONC . Passport Applications, 1795-1925.jpg
+2 FORM jpg
+2 TITL U.S. Passport Applications, 1795-1925
+2 _TEXT National Archives and Records Administration (NARA); Washing
+3 CONC ton D.C.; Roll #: 406; Volume #: Roll 0406 - Certificates: 6
+3 CONC 6401-66700, 20 Sep 1917-22 Sep 1917
 0 @N224@ NOTE affidavit, page 1
 0 @N223@ NOTE affidavit, page 2
 0 @N222@ NOTE certificate
