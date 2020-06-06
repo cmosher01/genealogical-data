@@ -3,7 +3,7 @@
 1 GEDC
 2 VERS 5.5.1
 2 FORM LINEAGE-LINKED
-1 COPR Copyright © 1998–2019, Christopher Alan Mosher, Shelton, CT
+1 COPR Copyright © 1998–2020, Christopher Alan Mosher, Shelton, CT
 2 CONC , USA.
 1 SUBM @Umy2qBWIRUiwVSS6Hcn4@
 1 SOUR FTM
@@ -14,9 +14,9 @@
 4 CONT Boston, MA 02109
 3 PHON (617) 227-6681
 1 DEST FTM
-1 FILE Disosway_2020-05-30-02-22-20.ftm.ged
-1 DATE 30 MAY 2020
-2 TIME 02:20:15
+1 FILE Disosway_2020-06-06-16-14-42.ftm.ged
+1 DATE 06 JUN 2020
+2 TIME 16:12:37
 0 @Umy2qBWIRUiwVSS6Hcn4@ SUBM
 1 NAME Christopher Alan Mosher
 2 EMAIL cmosher01@@gmail.com
@@ -6776,6 +6776,7 @@
 3 OBJE @M133@
 3 _APID 1,1121::651937
 0 @I284@ INDI
+1 REFN dc15369a-55fc-4bc4-a8b5-6e748d0bdf91
 1 NAME Ann /Doty/
 1 SEX F
 1 FAMC @F206@
@@ -6783,6 +6784,7 @@
 1 BIRT
 2 DATE 1768
 0 @I285@ INDI
+1 REFN f47143a7-d03d-4218-8698-e5e8a914e144
 1 NAME Moses /Doty/
 1 SEX M
 1 FAMS @F206@
@@ -7732,6 +7734,8 @@
 3 PAGE Year: 1952; Arrival: New York, New York; Microfilm Serial: T
 4 CONC 715, 1897-1957; Microfilm Roll: Roll 8154; Line: 21; Page Nu
 4 CONC mber: 28
+3 DATA
+4 TEXT _APID 1,7488::3028779573
 3 OBJE @M166@
 3 _APID 1,7488::3028779573
 2 SOUR @lDuG27hSTACWHq7z54Ba@
@@ -7754,6 +7758,8 @@
 3 PAGE Year: 1952; Arrival: New York, New York; Microfilm Serial: T
 4 CONC 715, 1897-1957; Microfilm Roll: Roll 8154; Line: 21; Page Nu
 4 CONC mber: 28
+3 DATA
+4 TEXT _APID 1,7488::3028779573
 3 OBJE @M166@
 3 _APID 1,7488::3028779573
 2 SOUR @lDuG27hSTACWHq7z54Ba@
@@ -7795,6 +7801,8 @@
 3 PAGE Year: 1952; Arrival: New York, New York; Microfilm Serial: T
 4 CONC 715, 1897-1957; Microfilm Roll: Roll 8154; Line: 21; Page Nu
 4 CONC mber: 28
+3 DATA
+4 TEXT _APID 1,7488::3028779573
 3 OBJE @M166@
 3 _APID 1,7488::3028779573
 1 EVEN
@@ -7805,6 +7813,8 @@
 3 PAGE Year: 1952; Arrival: New York, New York; Microfilm Serial: T
 4 CONC 715, 1897-1957; Microfilm Roll: Roll 8154; Line: 21; Page Nu
 4 CONC mber: 28
+3 DATA
+4 TEXT _APID 1,7488::3028779573
 3 OBJE @M166@
 3 _APID 1,7488::3028779573
 1 DEAT
