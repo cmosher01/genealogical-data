@@ -14,9 +14,9 @@
 4 CONT Boston, MA 02109
 3 PHON (617) 227-6681
 1 DEST FTM
-1 FILE Mosher_2020-05-31-02-07-22.ftm.ged
-1 DATE 31 MAY 2020
-2 TIME 02:05:30
+1 FILE Mosher_2020-06-06-00-59-53.ftm.ged
+1 DATE 06 JUN 2020
+2 TIME 00:57:51
 0 @Umy2qBWIRUiwVSS6Hcn4@ SUBM
 1 NAME Christopher Alan Mosher
 2 EMAIL cmosher01@@gmail.com
@@ -1268,6 +1268,7 @@
 1 FAMC @F385@
 1 FAMS @F392@
 0 @I672@ INDI
+1 REFN 5c69a086-3973-4b54-b623-ccdf12b08952
 1 NAME James Kent /Blackburn/
 2 SOUR @S284@
 3 PAGE James Kent Blackburn, 1989
@@ -3286,6 +3287,25 @@
 3 OBJE @M254@
 3 _APID 1,61157::2725941
 1 _XY 7175.00 1850.00
+0 @I674@ INDI
+1 REFN 489e09e6-78bc-4860-b583-70a4552ad877
+1 NAME Mary /Cranston/
+2 SOUR @vDza9JfJR7CV2E1SvFkI@
+3 PAGE Genealogical Publishing Co.; Baltimore, MD, USA; Volume Titl
+4 CONC e: New England Marriages Prior to 1700, entry for "Mary Stan
+4 CONC ton/Jones/Cranston/Clark"
+3 OBJE @M680@
+3 _APID 1,3824::168435
+1 SEX F
+1 FAMS @F510@
+1 DEAT
+2 DATE 1711
+2 SOUR @vDza9JfJR7CV2E1SvFkI@
+3 PAGE Genealogical Publishing Co.; Baltimore, MD, USA; Volume Titl
+4 CONC e: New England Marriages Prior to 1700, entry for "Mary Stan
+4 CONC ton/Jones/Cranston/Clark"
+3 OBJE @M680@
+3 _APID 1,3824::168435
 0 @SDIWwuLUS36TTZPgBATb@ INDI
 1 REFN 1ababb76-067b-42fb-97f3-b4db93cca43a
 1 NAME Elizabeth /Creel/
@@ -5425,14 +5445,28 @@
 0 @j75Y8ohLSpG61uWWgGGh@ INDI
 1 REFN 18bccedc-8b69-4d6a-a67b-30d084e63aae
 1 NAME Mary /Harndell/
+2 SOUR @xCp8VgpUTy6BVuoyJk5I@
+3 _APID 1,3599::3137441
 2 SOUR @CNCZKGpeSrKJ6BUTT9Hu@
 3 PAGE p. 1
 3 QUAY 1
+2 SOUR @lIFoQFKzTHCalwRjxIxf@
+3 PAGE Mary Harndell
+3 _APID 1,7249::103715779
+2 SOUR @S322@
+3 OBJE @M681@
+3 _APID 1,3897::203092
 2 SOUR @XkYfWXOxTRycLRJJyxNy@
 3 PAGE Source number: 16367.000; Source type: Electronic Database
 4 CONC ; Number of Pages: 1; Submitter Code: BFO, entry for "Mary H
 4 CONC arndell"
 3 _APID 1,7836::531659
+2 SOUR @vDza9JfJR7CV2E1SvFkI@
+3 PAGE Genealogical Publishing Co.; Baltimore, MD, USA; Volume Titl
+4 CONC e: New England Marriages Prior to 1700, entry for "Mary Stan
+4 CONC ton Harndell"
+3 OBJE @M680@
+3 _APID 1,3824::168434
 1 SEX F
 1 FAMC @9s2toM8HQyqgZt4COopO@
 1 FAMS @F502@
@@ -5442,12 +5476,26 @@
 3 MAP
 4 LATI N41.4901
 4 LONG W71.3129
+2 SOUR @xCp8VgpUTy6BVuoyJk5I@
+3 _APID 1,3599::3137441
 2 SOUR @91JIXBEJQz6bVLkVlmAF@
+2 SOUR @lIFoQFKzTHCalwRjxIxf@
+3 PAGE Mary Harndell
+3 _APID 1,7249::103715779
+2 SOUR @S322@
+3 OBJE @M681@
+3 _APID 1,3897::203092
 2 SOUR @XkYfWXOxTRycLRJJyxNy@
 3 PAGE Source number: 16367.000; Source type: Electronic Database
 4 CONC ; Number of Pages: 1; Submitter Code: BFO, entry for "Mary H
 4 CONC arndell"
 3 _APID 1,7836::531659
+2 SOUR @vDza9JfJR7CV2E1SvFkI@
+3 PAGE Genealogical Publishing Co.; Baltimore, MD, USA; Volume Titl
+4 CONC e: New England Marriages Prior to 1700, entry for "Mary Stan
+4 CONC ton Harndell"
+3 OBJE @M680@
+3 _APID 1,3824::168434
 1 DEAT
 2 DATE AUG 1687
 2 PLAC Newport, Newport, Rhode Island, USA
@@ -5455,6 +5503,9 @@
 4 LATI N41.4901
 4 LONG W71.3129
 2 SOUR @91JIXBEJQz6bVLkVlmAF@
+2 SOUR @lIFoQFKzTHCalwRjxIxf@
+3 PAGE Mary Harndell
+3 _APID 1,7249::103715779
 1 _XY 7250.00 350.00
 0 @cArw16VCSc68WnLWK1Tn@ INDI
 1 REFN 6aaff34e-1100-4823-89bc-72a9ab0c07f2
@@ -8347,6 +8398,7 @@
 1 FAMS @F414@
 1 _XY 700.00 2025.00
 0 @I663@ INDI
+1 REFN 43e2c829-5114-40b3-956b-2fd050cc87f5
 1 NAME /Keane/
 1 SEX M
 1 FAMS @F504@
@@ -11027,6 +11079,7 @@
 1 FAMS @ln2BUWTmTKyC7MX14UKP@
 1 _XY 8825.00 0.00
 0 @I670@ INDI
+1 REFN 60c7a6ff-477c-435a-adcc-afd99f724fed
 1 NAME Richard /Mathis/
 2 SOUR @S337@
 3 PAGE The Orlando Sentinel; Publication Date: 13/ Oct/ 2003; Publi
@@ -11230,9 +11283,9 @@
 1 FAMC @F483@
 0 @I664@ INDI
 1 NAME [REDACTED]
-1 NAME [REDACTED]
 1 FAMC @F484@
 0 @I661@ INDI
+1 REFN 7c46d704-2105-42b3-8146-852f31e58830
 1 NAME Ronald /Mathis/
 2 SOUR @S337@
 3 PAGE The Orlando Sentinel; Publication Date: 13/ Oct/ 2003; Publi
@@ -11244,7 +11297,6 @@
 1 SEX M
 1 FAMC @F483@
 0 @I665@ INDI
-1 NAME [REDACTED]
 1 NAME [REDACTED]
 1 FAMC @F484@
 1 FAMS @F503@
@@ -12187,6 +12239,12 @@
 2 SOUR @wUzo8nJ5TOiqkGFxDvd2@
 3 OBJE @M570@
 3 _APID 1,2496::39575
+2 SOUR @S397@
+3 OBJE @M682@
+3 _APID 1,24869::2623
+2 SOUR @S186@
+3 PAGE Place: Boston, Massachusetts; Year: 1634; Page Number: 192
+3 _APID 1,7486::696479
 1 SEX M
 2 SOUR @wUzo8nJ5TOiqkGFxDvd2@
 3 _APID 1,2496::39575
@@ -12201,6 +12259,16 @@
 2 SOUR @wUzo8nJ5TOiqkGFxDvd2@
 3 OBJE @M570@
 3 _APID 1,2496::39575
+1 EVEN
+2 TYPE Arrival
+2 DATE 1634
+2 PLAC Boston, Suffolk, Massachusetts, USA
+3 MAP
+4 LATI N42.3583
+4 LONG W71.0603
+2 SOUR @S186@
+3 PAGE Place: Boston, Massachusetts; Year: 1634; Page Number: 192
+3 _APID 1,7486::696479
 1 IMMI
 2 DATE 18 SEP 1634
 2 PLAC Boston, Suffolk, Massachusetts, USA
@@ -12229,6 +12297,9 @@
 2 SOUR @wUzo8nJ5TOiqkGFxDvd2@
 3 OBJE @M570@
 3 _APID 1,2496::39575
+2 SOUR @S397@
+3 OBJE @M682@
+3 _APID 1,24869::2623
 1 OCCU blacksmith
 2 DATE 07 FEB 1639
 2 PLAC Portsmouth, Newport, Rhode Island, USA
@@ -13979,6 +14050,11 @@
 2 SOUR @N6EpiaNTS4y7ivSXES5Z@
 3 _APID 1,5769::3190320
 2 SOUR @cHqs3hdITfGhgYkNTQzb@
+2 SOUR @S368@
+3 OBJE @M572@
+3 _LINK https://search.ancestry.com/cgi-bin/sse.dll?db=FLHG-LittleCo
+4 CONC mptonFamiliesVol2&h=60613&ti=0&indiv=try&gss=pt
+3 _APID 1,49228::60613
 2 SOUR @lIFoQFKzTHCalwRjxIxf@
 3 _APID 1,7249::10629958
 2 SOUR @XkYfWXOxTRycLRJJyxNy@
@@ -17183,6 +17259,7 @@
 2 DATE ABT FEB 1616
 1 _XY 6275.00 325.00
 0 @I660@ INDI
+1 REFN 51d6409f-0c38-4cfc-bbbb-ab6867d041d4
 1 NAME Margaret /Moger/
 1 SEX F
 1 FAMC @F305@
@@ -31886,6 +31963,7 @@
 3 _APID 1,60525::5241149
 1 _XY 7475.00 1975.00
 0 @I662@ INDI
+1 REFN 21c731fa-42e4-433a-bfa0-6075fac47875
 1 NAME /Rinehard/
 1 SEX M
 1 FAMS @F503@
@@ -33646,7 +33724,9 @@
 3 OBJE @bhRTPfWVT5K8hhvCljxW@
 3 _APID 1,3897::81586
 2 SOUR @vDza9JfJR7CV2E1SvFkI@
-3 PAGE U.S., New England Marriages Prior to 1700 Record
+3 PAGE Genealogical Publishing Co.; Baltimore, MD, USA; Volume Titl
+4 CONC e: New England Marriages Prior to 1700, entry for "William S
+4 CONC herman"
 3 OBJE @c0pRpJZVSoecdL4z4fwc@
 3 _APID 1,3824::67003
 1 SEX M
@@ -33661,7 +33741,9 @@
 3 OBJE @bhRTPfWVT5K8hhvCljxW@
 3 _APID 1,3897::81586
 2 SOUR @vDza9JfJR7CV2E1SvFkI@
-3 PAGE U.S., New England Marriages Prior to 1700 Record
+3 PAGE Genealogical Publishing Co.; Baltimore, MD, USA; Volume Titl
+4 CONC e: New England Marriages Prior to 1700, entry for "William S
+4 CONC herman"
 3 OBJE @c0pRpJZVSoecdL4z4fwc@
 3 _APID 1,3824::67003
 1 _XY 3050.00 575.00
@@ -34294,20 +34376,76 @@
 0 @I659@ INDI
 1 REFN 0df45025-0965-4978-ad4c-bda0508a8150
 1 NAME John /Stanton/
+2 SOUR @lIFoQFKzTHCalwRjxIxf@
+3 PAGE John Stanton
+3 _APID 1,7249::103715775
 2 SOUR @XkYfWXOxTRycLRJJyxNy@
 3 PAGE Source number: 16367.000; Source type: Electronic Database
 4 CONC ; Number of Pages: 1; Submitter Code: BFO, entry for "John S
 4 CONC tanton"
 3 _APID 1,7836::1154144
+2 SOUR @vDza9JfJR7CV2E1SvFkI@
+3 PAGE Genealogical Publishing Co.; Baltimore, MD, USA; Volume Titl
+4 CONC e: New England Marriages Prior to 1700, entry for "John Stan
+4 CONC ton", 1668
+3 OBJE @M680@
+3 _APID 1,3824::68434
+2 SOUR @vDza9JfJR7CV2E1SvFkI@
+3 PAGE Genealogical Publishing Co.; Baltimore, MD, USA; Volume Titl
+4 CONC e: New England Marriages Prior to 1700, entry for "John Stan
+4 CONC ton", 1680
+3 OBJE @M680@
+3 _APID 1,3824::68435
 1 SEX M
 1 FAMS @F502@
+1 FAMS @F510@
 1 BIRT
-2 DATE 1645
+2 DATE 06 AUG 1645
+2 PLAC Newport, Newport, Rhode Island, USA
+3 MAP
+4 LATI N41.4901
+4 LONG W71.3129
+2 SOUR @lIFoQFKzTHCalwRjxIxf@
+3 PAGE John Stanton
+3 _APID 1,7249::103715775
 2 SOUR @XkYfWXOxTRycLRJJyxNy@
 3 PAGE Source number: 16367.000; Source type: Electronic Database
 4 CONC ; Number of Pages: 1; Submitter Code: BFO, entry for "John S
 4 CONC tanton"
 3 _APID 1,7836::1154144
+2 SOUR @vDza9JfJR7CV2E1SvFkI@
+3 PAGE Genealogical Publishing Co.; Baltimore, MD, USA; Volume Titl
+4 CONC e: New England Marriages Prior to 1700, entry for "John Stan
+4 CONC ton", 1668
+3 OBJE @M680@
+3 _APID 1,3824::68434
+2 SOUR @vDza9JfJR7CV2E1SvFkI@
+3 PAGE Genealogical Publishing Co.; Baltimore, MD, USA; Volume Titl
+4 CONC e: New England Marriages Prior to 1700, entry for "John Stan
+4 CONC ton", 1680
+3 OBJE @M680@
+3 _APID 1,3824::68435
+1 DEAT
+2 DATE 03 OCT 1713
+2 PLAC Newport, Newport, Rhode Island, USA
+3 MAP
+4 LATI N41.4901
+4 LONG W71.3129
+2 SOUR @lIFoQFKzTHCalwRjxIxf@
+3 PAGE John Stanton
+3 _APID 1,7249::103715775
+2 SOUR @vDza9JfJR7CV2E1SvFkI@
+3 PAGE Genealogical Publishing Co.; Baltimore, MD, USA; Volume Titl
+4 CONC e: New England Marriages Prior to 1700, entry for "John Stan
+4 CONC ton", 1668
+3 OBJE @M680@
+3 _APID 1,3824::68434
+2 SOUR @vDza9JfJR7CV2E1SvFkI@
+3 PAGE Genealogical Publishing Co.; Baltimore, MD, USA; Volume Titl
+4 CONC e: New England Marriages Prior to 1700, entry for "John Stan
+4 CONC ton", 1680
+3 OBJE @M680@
+3 _APID 1,3824::68435
 0 @I545@ INDI
 1 REFN 6d609043-2bcb-4f26-bfa9-7eafd3658c85
 1 NAME Robert /Startid/
@@ -40782,15 +40920,36 @@
 3 _APID 1,3824::68041
 2 SOUR @nYBSdideQ5ySmVqtWTkY@
 3 QUAY 1
+0 @F510@ FAM
+1 HUSB @I659@
+1 WIFE @I674@
+1 MARR
+2 DATE ABT 1680
+2 SOUR @vDza9JfJR7CV2E1SvFkI@
+3 PAGE Genealogical Publishing Co.; Baltimore, MD, USA; Volume Titl
+4 CONC e: New England Marriages Prior to 1700, entry for "John Stan
+4 CONC ton", 1680
+3 OBJE @M680@
+2 SOUR @vDza9JfJR7CV2E1SvFkI@
+3 PAGE Genealogical Publishing Co.; Baltimore, MD, USA; Volume Titl
+4 CONC e: New England Marriages Prior to 1700, entry for "Mary Stan
+4 CONC ton/Jones/Cranston/Clark"
+3 OBJE @M680@
+3 _APID 1,3824::168435
 0 @F502@ FAM
 1 HUSB @I659@
 1 WIFE @j75Y8ohLSpG61uWWgGGh@
 1 MARR
 2 DATE 1666
-2 PLAC Rhode Island, USA
+2 PLAC Newport, Newport, Rhode Island, USA
 3 MAP
-4 LATI N41.6583
-4 LONG W70.4917
+4 LATI N41.4901
+4 LONG W71.3129
+2 SOUR @lIFoQFKzTHCalwRjxIxf@
+3 PAGE John Stanton
+3 _APID 1,7249::103715775
+2 SOUR @lIFoQFKzTHCalwRjxIxf@
+3 PAGE Mary Harndell
 2 SOUR @XkYfWXOxTRycLRJJyxNy@
 3 PAGE Source number: 16367.000; Source type: Electronic Database
 4 CONC ; Number of Pages: 1; Submitter Code: BFO, entry for "John S
@@ -40800,6 +40959,17 @@
 3 PAGE Source number: 16367.000; Source type: Electronic Database
 4 CONC ; Number of Pages: 1; Submitter Code: BFO, entry for "Mary H
 4 CONC arndell"
+2 SOUR @vDza9JfJR7CV2E1SvFkI@
+3 PAGE Genealogical Publishing Co.; Baltimore, MD, USA; Volume Titl
+4 CONC e: New England Marriages Prior to 1700, entry for "John Stan
+4 CONC ton", 1668
+3 OBJE @M680@
+3 _APID 1,3824::68434
+2 SOUR @vDza9JfJR7CV2E1SvFkI@
+3 PAGE Genealogical Publishing Co.; Baltimore, MD, USA; Volume Titl
+4 CONC e: New England Marriages Prior to 1700, entry for "Mary Stan
+4 CONC ton Harndell"
+3 OBJE @M680@
 0 @F422@ FAM
 1 HUSB @I545@
 1 WIFE @I525@
@@ -41373,12 +41543,11 @@
 2 CONC s the daughter of Mr. and Mrs. Elmer Harrison of Hornby, Ne
 2 CONC w York. [written in ink:] 1934
 0 @xCp8VgpUTy6BVuoyJk5I@ SOUR
-1 REFN 22073ee0-886d-48f6-81ab-be4e7f29a686
-1 REPO @R1@
+1 REPO @R9@
 1 TITL American Genealogical-Biographical Index (AGBI)
 1 AUTH Godfrey Memorial Library, comp.
-1 PUBL Ancestry.com Operations Inc; Location: Provo, UT, USA; Date
-2 CONC : 1999
+1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
+2 CONC e: 1999
 0 @BMtiZpNPSRiKk9O84IkF@ SOUR
 1 REFN 3ed6de3b-b9a8-4dbf-bffc-d93a0d10a416
 1 TITL Ancestors and Descendants of Philip Sherman
@@ -42306,8 +42475,7 @@
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2015
 0 @lIFoQFKzTHCalwRjxIxf@ SOUR
-1 REFN 6c1004ee-fc94-4f26-a3ab-7ad8b2e407f6
-1 REPO @R1@
+1 REPO @R9@
 1 TITL Millennium File
 1 AUTH Heritage Consulting
 1 PUBL Ancestry.com Operations Inc; Location: Provo, UT, USA; Date
@@ -43315,6 +43483,12 @@
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations Inc; Location: Provo, UT, USA; Date
 2 CONC : 2005
+0 @S397@ SOUR
+1 REPO @R9@
+1 TITL The history of the state of Rhode Island and Providence Plan
+2 CONC tations
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations Inc; Location: Provo, UT; Date: 2005
 0 @S186@ SOUR
 1 REPO @R9@
 1 TITL U.S. and Canada, Passenger and Immigration Lists Index, 1500
@@ -49466,4 +49640,23 @@
 2 _TEXT Year: 1910; Census Place: Madison, Madison, New York; Roll
 3 CONC : T624_987; Page: 11B; Enumeration District: 0023; FHL micro
 3 CONC film: 1375000
+0 @M680@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher Media\U.
+2 CONC S., New England Marriages Prior to 1700(6).jpg
+2 FORM jpg
+2 TITL U.S., New England Marriages Prior to 1700
+2 _TEXT Genealogical Publishing Co.; Baltimore, MD, USA; Volume Titl
+3 CONC e: New England Marriages Prior to 1700
+0 @M681@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher Media\Rh
+2 CONC ode Island, Vital Extracts, 1636-1899(2).jpg
+2 FORM jpg
+2 TITL Rhode Island, Vital Extracts, 1636-1899
+0 @M682@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Mosher Media\Th
+2 CONC e history of the state of Rhode Island and Providence Planta
+2 CONC tions.jpg
+2 FORM jpg
+2 TITL The history of the state of Rhode Island and Providence Plan
+3 CONC tations
 0 TRLR
