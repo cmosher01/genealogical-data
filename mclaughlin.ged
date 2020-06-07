@@ -3,20 +3,20 @@
 1 GEDC
 2 VERS 5.5.1
 2 FORM LINEAGE-LINKED
-1 COPR Copyright © 1998–2019, Christopher Alan Mosher, Shelton, CT
+1 COPR Copyright © 1998–2020, Christopher Alan Mosher, Shelton, CT
 2 CONC , USA.
 1 SUBM @Umy2qBWIRUiwVSS6Hcn4@
 1 SOUR FTM
-2 VERS 23.2.0.1540
+2 VERS 24.0.1.1252
 2 NAME Family Tree Maker for Windows
 2 CORP The Software MacKiev Company
 3 ADDR 30 Union Wharf
 4 CONT Boston, MA 02109
 3 PHON (617) 227-6681
 1 DEST FTM
-1 FILE McLaughlin_2019-10-05-21-58-04.ftm.ged
-1 DATE 05 OCT 2019
-2 TIME 21:58:39
+1 FILE McLaughlin_2020-06-07-20-02-53.ftm.ged
+1 DATE 07 JUN 2020
+2 TIME 20:00:39
 0 @Umy2qBWIRUiwVSS6Hcn4@ SUBM
 1 NAME Christopher Alan Mosher
 2 EMAIL cmosher01@@gmail.com
@@ -134,6 +134,9 @@
 4 CONC film: 1375074
 3 OBJE @2G0mhxgOQICB08eEoqg2@
 3 _APID 1,7884::138313551
+2 SOUR @S73@
+3 OBJE @M221@
+3 _APID 1,61377::900189846
 2 SOUR @7tJxBxhGR46VSVFwI4mZ@
 3 OBJE @J4OocKbtTsakmcID7dRM@
 3 _APID 1,7250::1374616276
@@ -163,6 +166,9 @@
 4 CONC film: 1375074
 3 OBJE @2G0mhxgOQICB08eEoqg2@
 3 _APID 1,7884::138313551
+2 SOUR @S73@
+3 OBJE @M221@
+3 _APID 1,61377::900189846
 2 SOUR @7tJxBxhGR46VSVFwI4mZ@
 3 OBJE @J4OocKbtTsakmcID7dRM@
 3 _APID 1,7250::1374616276
@@ -239,6 +245,9 @@
 4 CONC film: 1375074
 3 OBJE @2G0mhxgOQICB08eEoqg2@
 3 _APID 1,7884::19649836
+2 SOUR @S73@
+3 OBJE @M221@
+3 _APID 1,61377::1350189846
 2 SOUR @m7Phkg8qRz2NO0TDWP4l@
 3 OBJE @vdBip9OFTC65EIqa3DQi@
 3 _APID 1,7218::2233452
@@ -1720,6 +1729,7 @@
 3 _APID 1,60525::115594525
 1 SEX F
 1 FAMS @A2Y2JNlUSdqZzT8QcHDD@
+1 OBJE @M209@
 1 NOTE There was a Hannah Gilbert who married a James McLaughlin i
 2 CONC n Jefferson, Illinois, on 28 Nov 1850. That Hannah is not th
 2 CONC is Honora Dougherty.
@@ -1793,6 +1803,23 @@
 4 CONC , Hannah McLaughlin, 20 Nov 1861</citedRange>. </bibl>
 3 _LINK https://mosher.mine.nu/tei/genealogy/main/sources/old/mclaug
 4 CONC hlin/mclaughlin_james_gravestone.tei.xml
+2 SOUR @S25@
+3 PAGE <bibl> <author>St. Mary’s Cemetery (South Corning, New York
+4 CONC , USA)</author>, <citedRange>McLaughlin (James, Hannah, Char
+4 CONC les, Wm., Margaret) marker</citedRange>; personally read c
+4 CONC . 1990, location of marker in cemetery from entrance, take f
+4 CONC irst right, road curves left and merges, gravestone is at th
+4 CONC at intersection on the left, it is an obelisk with a cross o
+4 CONC n top, marker appears to have been created long after many o
+4 CONC f the actual deaths, and contains errors; transcription, <ti
+4 CONC tle level="u">McLaughlin Documents</title>, <author>Christop
+4 CONC her A. Mosher</author>, <title level="m">Archive of Historic
+4 CONC al Family Documents</title> (<ref target="https://mosher.min
+4 CONC e.nu/tei/genealogy/main/sources/old/mclaughlin/mclaughlin_ja
+4 CONC mes_gravestone.tei.xml"/> : 23 Oct 2018), <citedRange>p. 1
+4 CONC , James McLaughlin, 15 Nov 1858</citedRange>. </bibl>
+3 _LINK https://mosher.mine.nu/tei/genealogy/main/sources/old/mclaug
+4 CONC hlin/mclaughlin_james_gravestone.tei.xml
 2 SOUR @S80@
 3 PAGE <bibl> <author>St. Mary’s of the Lake Church (Watkins Glen
 4 CONC , New York, USA)</author>, <title level="u">Deaths Ledger 18
@@ -1829,6 +1856,23 @@
 4 CONC , Hannah McLaughlin, 20 Nov 1861</citedRange>. </bibl>
 3 _LINK https://mosher.mine.nu/tei/genealogy/main/sources/old/mclaug
 4 CONC hlin/mclaughlin_james_gravestone.tei.xml
+2 SOUR @S25@
+3 PAGE <bibl> <author>St. Mary’s Cemetery (South Corning, New York
+4 CONC , USA)</author>, <citedRange>McLaughlin (James, Hannah, Char
+4 CONC les, Wm., Margaret) marker</citedRange>; personally read c
+4 CONC . 1990, location of marker in cemetery from entrance, take f
+4 CONC irst right, road curves left and merges, gravestone is at th
+4 CONC at intersection on the left, it is an obelisk with a cross o
+4 CONC n top, marker appears to have been created long after many o
+4 CONC f the actual deaths, and contains errors; transcription, <ti
+4 CONC tle level="u">McLaughlin Documents</title>, <author>Christop
+4 CONC her A. Mosher</author>, <title level="m">Archive of Historic
+4 CONC al Family Documents</title> (<ref target="https://mosher.min
+4 CONC e.nu/tei/genealogy/main/sources/old/mclaughlin/mclaughlin_ja
+4 CONC mes_gravestone.tei.xml"/> : 23 Oct 2018), <citedRange>p. 1
+4 CONC , James McLaughlin, 15 Nov 1858</citedRange>. </bibl>
+3 _LINK https://mosher.mine.nu/tei/genealogy/main/sources/old/mclaug
+4 CONC hlin/mclaughlin_james_gravestone.tei.xml
 2 SOUR @S80@
 3 PAGE <bibl> <author>St. Mary’s of the Lake Church (Watkins Glen
 4 CONC , New York, USA)</author>, <title level="u">Deaths Ledger 18
@@ -1845,6 +1889,7 @@
 2 SOUR @S74@
 3 _APID 1,60525::115594525
 1 _XY 185192.00 4113.00
+1 _PHOTO @M209@
 0 @GviXjWiaSiKWelb4tlqK@ INDI
 1 REFN 9732772f-ea6b-4db9-96e6-7f39c458cff1
 1 NAME Margaret /Dougherty/
@@ -2574,7 +2619,7 @@
 2 SOUR @S92@
 3 PAGE Year: 1900; Census Place: Hornby, Steuben, New York; Roll: 1
 4 CONC 163; Page: 2A; Enumeration District: 0087; FHL microfilm: 12
-4 CONC 41163
+4 CONC 41163; "Rebecca Mc Laughlin"
 3 OBJE @DtQl8dYcRLmVvfXGoYqd@
 3 _APID 1,7602::56735516
 2 SOUR @m7Phkg8qRz2NO0TDWP4l@
@@ -2617,7 +2662,7 @@
 2 SOUR @S92@
 3 PAGE Year: 1900; Census Place: Hornby, Steuben, New York; Roll: 1
 4 CONC 163; Page: 2A; Enumeration District: 0087; FHL microfilm: 12
-4 CONC 41163
+4 CONC 41163; "Rebecca Mc Laughlin"
 3 OBJE @DtQl8dYcRLmVvfXGoYqd@
 3 _APID 1,7602::56735516
 2 SOUR @m7Phkg8qRz2NO0TDWP4l@
@@ -2643,7 +2688,7 @@
 2 SOUR @S92@
 3 PAGE Year: 1900; Census Place: Hornby, Steuben, New York; Roll: 1
 4 CONC 163; Page: 2A; Enumeration District: 0087; FHL microfilm: 12
-4 CONC 41163
+4 CONC 41163; "Rebecca Mc Laughlin"
 3 OBJE @DtQl8dYcRLmVvfXGoYqd@
 3 _APID 1,7602::56735516
 1 RESI
@@ -2668,6 +2713,7 @@
 4 CONC m: 552594
 3 OBJE @dB2m8Ct5Qu6widYx8fsk@
 3 _APID 1,7163::32339414
+2 NOTE Residence Post Office: Hornby
 1 RESI
 2 DATE 01 JUN 1875
 2 PLAC Hornby, Steuben, New York, USA
@@ -2692,6 +2738,7 @@
 3 _APID 1,6742::5178829
 2 NOTE Age: 50; Marital Status: Married; Relation to Head of House
 3 CONC : Wife
+2 NOTE Marital Status: Married; Relation to Head: Wife
 1 RESI
 2 DATE 1892
 2 PLAC Hornby, Steuben, New York, USA
@@ -2710,11 +2757,12 @@
 2 SOUR @S92@
 3 PAGE Year: 1900; Census Place: Hornby, Steuben, New York; Roll: 1
 4 CONC 163; Page: 2A; Enumeration District: 0087; FHL microfilm: 12
-4 CONC 41163
+4 CONC 41163; "Rebecca Mc Laughlin"
 3 OBJE @DtQl8dYcRLmVvfXGoYqd@
 3 _APID 1,7602::56735516
 2 NOTE Age: 69; Marital Status: Married; Relation to Head of House
 3 CONC : Wife
+2 NOTE Marital Status: Married; Relation to Head: Wife
 1 RESI
 2 DATE 1905
 2 PLAC Hornby, Steuben, New York, USA
@@ -3433,6 +3481,40 @@
 4 CONC -1966
 3 _APID 1,3693::41140282
 1 _XY 185292.00 4488.00
+0 @I107@ INDI
+1 REFN 61756080-5272-4e88-ad85-26e71bc9f699
+1 NAME Sarah Elizabeth /Hendrick/
+2 SOUR @S73@
+3 OBJE @M219@
+3 _APID 1,61377::1500218370
+2 SOUR @TGKTvmYkRIad5UXaC837@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1915; Election District: 07; Assembly Di
+4 CONC strict: 01; City: Corning Ward 01; County: Steuben; Page: 03
+3 OBJE @M215@
+3 _APID 1,2703::6617947
+2 SOUR @S97@
+3 _APID 1,60901::790746903
+1 SEX F
+1 FAMS @F69@
+1 BIRT
+2 DATE ABT 1863
+2 SOUR @TGKTvmYkRIad5UXaC837@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1915; Election District: 07; Assembly Di
+4 CONC strict: 01; City: Corning Ward 01; County: Steuben; Page: 03
+3 OBJE @M215@
+3 _APID 1,2703::6617947
+1 RESI
+2 DATE 01 JUN 1915
+2 PLAC Corning Ward 01, Steuben, New York, United States
+2 SOUR @TGKTvmYkRIad5UXaC837@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1915; Election District: 07; Assembly Di
+4 CONC strict: 01; City: Corning Ward 01; County: Steuben; Page: 03
+3 OBJE @M215@
+3 _APID 1,2703::6617947
+2 NOTE Relation to Head of House: Wife
 0 @I68@ INDI
 1 REFN 3aee0a9e-7756-43f8-8d33-41d5d7bea005
 1 NAME Alice Elizabeth /Hogue/
@@ -3486,6 +3568,48 @@
 2 DATE 21 MAY 1993
 2 SOUR @S97@
 3 _APID 1,60901::800427801
+0 @I109@ INDI
+1 REFN a8c7032c-8f84-4d2d-b973-5ae996b73c72
+1 NAME George E. /Keenan/
+2 SOUR @S75@
+3 PAGE New York State Department of Health; Albany, NY, USA; New Yo
+4 CONC rk State Marriage Index; "George E Keenan"
+3 OBJE @M222@
+3 _APID 1,61632::2511368
+1 SEX M
+1 FAMS @F68@
+0 @I110@ INDI
+1 REFN b67c23c1-7a07-4756-95ac-27a29dfdbc88
+1 NAME Catharine /McCarty/
+2 SOUR @TGKTvmYkRIad5UXaC837@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1915; Election District: 07; Assembly Di
+4 CONC strict: 01; City: Corning Ward 01; County: Steuben; Page: 03
+3 OBJE @M215@
+3 _APID 1,2703::6617949
+1 SEX F
+1 FAMC @F69@
+1 BIRT
+2 DATE ABT 1890
+2 SOUR @TGKTvmYkRIad5UXaC837@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1915; Election District: 07; Assembly Di
+4 CONC strict: 01; City: Corning Ward 01; County: Steuben; Page: 03
+3 OBJE @M215@
+3 _APID 1,2703::6617949
+1 RESI
+2 DATE 01 JUN 1915
+2 PLAC Corning, Steuben, New York, USA
+3 MAP
+4 LATI N42.1429
+4 LONG W77.0547
+2 SOUR @TGKTvmYkRIad5UXaC837@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1915; Election District: 07; Assembly Di
+4 CONC strict: 01; City: Corning Ward 01; County: Steuben; Page: 03
+3 OBJE @M215@
+3 _APID 1,2703::6617949
+2 NOTE Relation to Head of House: Daughter
 0 @i1luMIYVSWGVkEsyjmR2@ INDI
 1 REFN fa3fe437-f6f4-46fc-b552-db5af6e11da4
 1 NAME Charles /McCarty/
@@ -3614,6 +3738,64 @@
 1 DEAT
 2 DATE 1939
 1 _XY 185492.00 4338.00
+0 @I100@ INDI
+1 REFN 7c39e9de-0832-4f1f-9e5b-41c7c38d702a
+1 NAME Clarence E. /McCarty/
+2 SOUR @TGKTvmYkRIad5UXaC837@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1915; Election District: 07; Assembly Di
+4 CONC strict: 01; City: Corning Ward 01; County: Steuben; Page: 03
+3 OBJE @M215@
+3 _APID 1,2703::6617951
+2 SOUR @XwjA9DOQSF6Rp4tqv0Z2@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1925; Election District: 07; Assembly Di
+4 CONC strict: 01; City: Corning; County: Steuben; Page: 5
+3 OBJE @M218@
+3 _APID 1,2704::25199830
+1 SEX M
+1 FAMC @F69@
+1 BIRT
+2 DATE ABT 1897
+2 PLAC USA
+2 SOUR @TGKTvmYkRIad5UXaC837@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1915; Election District: 07; Assembly Di
+4 CONC strict: 01; City: Corning Ward 01; County: Steuben; Page: 03
+3 OBJE @M215@
+3 _APID 1,2703::6617951
+2 SOUR @XwjA9DOQSF6Rp4tqv0Z2@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1925; Election District: 07; Assembly Di
+4 CONC strict: 01; City: Corning; County: Steuben; Page: 5
+3 OBJE @M218@
+3 _APID 1,2704::25199830
+1 RESI
+2 DATE 01 JUN 1915
+2 PLAC Corning, Steuben, New York, USA
+3 MAP
+4 LATI N42.1429
+4 LONG W77.0547
+2 SOUR @TGKTvmYkRIad5UXaC837@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1915; Election District: 07; Assembly Di
+4 CONC strict: 01; City: Corning Ward 01; County: Steuben; Page: 03
+3 OBJE @M215@
+3 _APID 1,2703::6617951
+2 NOTE Relation to Head of House: Son
+1 RESI
+2 DATE 1925
+2 PLAC Corning, Steuben, New York, USA
+3 MAP
+4 LATI N42.1429
+4 LONG W77.0547
+2 SOUR @XwjA9DOQSF6Rp4tqv0Z2@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1925; Election District: 07; Assembly Di
+4 CONC strict: 01; City: Corning; County: Steuben; Page: 5
+3 OBJE @M218@
+3 _APID 1,2704::25199830
+2 NOTE Relation to Head: Son
 0 @spjhn9LYR4KHhVJ07pSB@ INDI
 1 REFN e36ab0e0-4d1b-4cc8-8d77-2056f0e9e369
 1 NAME Daniel /McCarty/
@@ -3622,6 +3804,66 @@
 1 BIRT
 2 DATE ABT 1830
 1 _XY 185467.00 4263.00
+0 @I108@ INDI
+1 REFN c74ec681-8faf-45ac-a690-9ea76327c54d
+1 NAME Ethel Claudia /McCarty/
+2 SOUR @S75@
+3 PAGE New York State Department of Health; Albany, NY, USA; New Yo
+4 CONC rk State Marriage Index; "Ethel C MacCarty"
+3 OBJE @M220@
+3 _APID 1,61632::2519725
+2 SOUR @S73@
+3 OBJE @M219@
+3 _APID 1,61377::900218370
+2 SOUR @TGKTvmYkRIad5UXaC837@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1915; Election District: 07; Assembly Di
+4 CONC strict: 01; City: Corning Ward 01; County: Steuben; Page: 03
+3 OBJE @M215@
+3 _APID 1,2703::6617954
+2 SOUR @S97@
+3 _APID 1,60901::40746903
+1 SEX F
+1 FAMC @F69@
+1 FAMS @F68@
+1 OBJE @M214@
+1 OBJE @M211@
+1 OBJE @M212@
+1 BIRT
+2 DATE 03 SEP 1900
+2 PLAC Hornby, Steuben, New York, USA
+3 MAP
+4 LATI N42.2442
+4 LONG W77.0444
+2 SOUR @S73@
+3 OBJE @M219@
+3 _APID 1,61377::900218370
+2 SOUR @TGKTvmYkRIad5UXaC837@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1915; Election District: 07; Assembly Di
+4 CONC strict: 01; City: Corning Ward 01; County: Steuben; Page: 03
+3 OBJE @M215@
+3 _APID 1,2703::6617954
+2 SOUR @S97@
+3 _APID 1,60901::40746903
+1 RESI
+2 DATE 01 JUN 1915
+2 PLAC Corning, Steuben, New York, USA
+3 MAP
+4 LATI N42.1429
+4 LONG W77.0547
+2 SOUR @TGKTvmYkRIad5UXaC837@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1915; Election District: 07; Assembly Di
+4 CONC strict: 01; City: Corning Ward 01; County: Steuben; Page: 03
+3 OBJE @M215@
+3 _APID 1,2703::6617954
+2 NOTE Relation to Head of House: Daughter
+1 DEAT
+2 DATE 31 JAN 1988
+2 SOUR @S97@
+3 _APID 1,60901::40746903
+1 _PHOTO @M212@
 0 @SJYfKQSURKWLc6g1jlMV@ INDI
 1 REFN 97bcaaf1-0271-4d8a-9c85-2edc42337aa8
 1 NAME James /McCarty/
@@ -3672,6 +3914,9 @@
 4 CONC : T627_2781; Page: 11B; Enumeration District: 51-39
 3 OBJE @eJYCFaWWTkawhgsD1EDB@
 3 _APID 1,2442::8671918
+2 SOUR @S73@
+3 OBJE @M219@
+3 _APID 1,61377::1350218370
 2 SOUR @m7Phkg8qRz2NO0TDWP4l@
 3 OBJE @vdBip9OFTC65EIqa3DQi@
 3 _APID 1,7218::2229581
@@ -3687,8 +3932,23 @@
 4 CONC ; City: Hornby; County: Steuben; Page: 17
 3 OBJE @UeFhyZ7MSUq3D29aArK0@
 3 _APID 1,7364::1349937
+2 SOUR @TGKTvmYkRIad5UXaC837@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1915; Election District: 07; Assembly Di
+4 CONC strict: 01; City: Corning Ward 01; County: Steuben; Page: 03
+3 OBJE @M215@
+3 _APID 1,2703::6617945
+2 SOUR @XwjA9DOQSF6Rp4tqv0Z2@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1925; Election District: 07; Assembly Di
+4 CONC strict: 01; City: Corning; County: Steuben; Page: 5
+3 OBJE @M218@
+3 _APID 1,2704::25199827
+2 SOUR @S97@
+3 _APID 1,60901::640746903
 1 SEX M
 1 FAMC @NIar77lmT5uysyErX7KE@
+1 FAMS @F69@
 1 BIRT
 2 DATE 05 MAR 1860
 2 PLAC Dix, Schuyler, New York, USA
@@ -3757,6 +4017,18 @@
 4 CONC ; City: Hornby; County: Steuben; Page: 17
 3 OBJE @UeFhyZ7MSUq3D29aArK0@
 3 _APID 1,7364::1349937
+2 SOUR @TGKTvmYkRIad5UXaC837@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1915; Election District: 07; Assembly Di
+4 CONC strict: 01; City: Corning Ward 01; County: Steuben; Page: 03
+3 OBJE @M215@
+3 _APID 1,2703::6617945
+2 SOUR @XwjA9DOQSF6Rp4tqv0Z2@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1925; Election District: 07; Assembly Di
+4 CONC strict: 01; City: Corning; County: Steuben; Page: 5
+3 OBJE @M218@
+3 _APID 1,2704::25199827
 2 SOUR @S80@
 3 PAGE <bibl> <author>St. Mary’s of the Lake Church (Watkins Glen
 4 CONC , New York, USA)</author>, <title level="u">Baptismal Regist
@@ -3893,6 +4165,19 @@
 3 _APID 1,7884::19997872
 2 NOTE Marital Status: Married; Relation to Head of House: Head
 1 RESI
+2 DATE 01 JUN 1915
+2 PLAC Corning, Steuben, New York, USA
+3 MAP
+4 LATI N42.1429
+4 LONG W77.0547
+2 SOUR @TGKTvmYkRIad5UXaC837@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1915; Election District: 07; Assembly Di
+4 CONC strict: 01; City: Corning Ward 01; County: Steuben; Page: 03
+3 OBJE @M215@
+3 _APID 1,2703::6617945
+2 NOTE Relation to Head of House: Head
+1 RESI
 2 DATE 1920
 2 PLAC Corning, Steuben, New York, USA
 3 MAP
@@ -3905,6 +4190,19 @@
 3 OBJE @KGcx1IH8QMC8wbI1t4et@
 3 _APID 1,6061::87509541
 2 NOTE Marital Status: Married; Relation to Head of House: Head
+1 RESI
+2 DATE 1925
+2 PLAC Corning, Steuben, New York, USA
+3 MAP
+4 LATI N42.1429
+4 LONG W77.0547
+2 SOUR @XwjA9DOQSF6Rp4tqv0Z2@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1925; Election District: 07; Assembly Di
+4 CONC strict: 01; City: Corning; County: Steuben; Page: 5
+3 OBJE @M218@
+3 _APID 1,2704::25199827
+2 NOTE Relation to Head: Head
 1 RESI
 2 DATE 1930
 2 PLAC Corning, Steuben, New York, USA
@@ -4148,6 +4446,13 @@
 2 SOUR @7tJxBxhGR46VSVFwI4mZ@
 3 OBJE @6TTZBuleSLmOaw2XEQeI@
 3 _APID 1,7250::1374618722
+2 SOUR @S104@
+3 PAGE Star-Gazette; Publication Date: 21/ Jul/ 1911; Publication P
+4 CONC lace: Elmira, New York, United States of America; URL: https
+4 CONC ://www.newspapers.com/image/275812572/?article=9a5997a1-0b7f
+4 CONC -4177-8381-1c7539b58d81&focus=0.5799218,0.34510115,0.7158339
+4 CONC ,0.47591397&xid=
+3 _APID 1,61843::673010917
 2 SOUR @S74@
 3 _APID 1,60525::61367477
 1 SEX F
@@ -4582,6 +4887,23 @@
 2 SOUR @S74@
 3 _APID 1,60525::115594186
 1 _XY 187592.00 4263.00
+0 @I105@ INDI
+1 REFN e354fed5-e265-4add-8a64-06fee8132902
+1 NAME Charles /McLaughlin/
+1 SEX M
+1 FAMC @1IW7Gpm7RLy2D4dm2VVr@
+1 BIRT
+2 DATE 1867
+2 PLAC Hornby, Steuben, New York, USA
+3 MAP
+4 LATI N42.2442
+4 LONG W77.0444
+1 DEAT
+2 DATE 1868
+2 PLAC Hornby, Steuben, New York, USA
+3 MAP
+4 LATI N42.2442
+4 LONG W77.0444
 0 @S17Vnhg8SuirLtBJgWb6@ INDI
 1 REFN 24bc4d27-92c5-41bc-b949-137f46477673
 1 NAME Charles F. /McLaughlin/
@@ -4871,6 +5193,23 @@
 2 SOUR @S74@
 3 _APID 1,60525::120825058
 1 _XY 184517.00 4488.00
+0 @I106@ INDI
+1 REFN 1600cf52-1ecb-4fb9-8b0d-90075e9834f2
+1 NAME Christina /McLaughlin/
+1 SEX F
+1 FAMC @1IW7Gpm7RLy2D4dm2VVr@
+1 BIRT
+2 DATE 1871
+2 PLAC Hornby, Steuben, New York, USA
+3 MAP
+4 LATI N42.2442
+4 LONG W77.0444
+1 DEAT
+2 DATE 1871
+2 PLAC Hornby, Steuben, New York, USA
+3 MAP
+4 LATI N42.2442
+4 LONG W77.0444
 0 @I72@ INDI
 1 NAME [REDACTED]
 1 FAMC @F39@
@@ -5518,6 +5857,68 @@
 3 OBJE @M114@
 3 _APID 1,61535::2358588
 1 _XY 186042.00 4263.00
+0 @I103@ INDI
+1 REFN 0f43386e-eb67-4923-97fb-df3b50701341
+1 NAME Elizabeth /McLaughlin/
+2 SOUR @S85@
+3 PAGE Year: 1870; Census Place: Hornby, Steuben, New York; Roll: M
+4 CONC 593_1095; Page: 219A; Family History Library Film: 552594
+3 OBJE @M217@
+3 _APID 1,7163::32339419
+2 SOUR @S87@
+3 PAGE Year: 1880; Census Place: Hornby, Steuben, New York; Roll: 9
+4 CONC 33; Page: 268C; Enumeration District: 177
+3 OBJE @M216@
+3 _APID 1,6742::5178955
+2 SOUR @S104@
+3 PAGE Star-Gazette; Publication Date: 21/ Jul/ 1911; Publication P
+4 CONC lace: Elmira, New York, United States of America; URL: https
+4 CONC ://www.newspapers.com/image/275812572/?article=9a5997a1-0b7f
+4 CONC -4177-8381-1c7539b58d81&focus=0.5799218,0.34510115,0.7158339
+4 CONC ,0.47591397&xid=
+3 _APID 1,61843::672738244
+1 SEX F
+1 FAMC @1IW7Gpm7RLy2D4dm2VVr@
+1 BIRT
+2 DATE ABT 1870
+2 PLAC New York, USA
+3 MAP
+4 LATI N42.7531
+4 LONG W74.2224
+2 SOUR @S85@
+3 PAGE Year: 1870; Census Place: Hornby, Steuben, New York; Roll: M
+4 CONC 593_1095; Page: 219A; Family History Library Film: 552594
+3 OBJE @M217@
+3 _APID 1,7163::32339419
+2 SOUR @S87@
+3 PAGE Year: 1880; Census Place: Hornby, Steuben, New York; Roll: 9
+4 CONC 33; Page: 268C; Enumeration District: 177
+3 OBJE @M216@
+3 _APID 1,6742::5178955
+1 RESI
+2 DATE 1870
+2 PLAC Hornby, Steuben, New York, USA
+3 MAP
+4 LATI N42.2442
+4 LONG W77.0444
+2 SOUR @S85@
+3 PAGE Year: 1870; Census Place: Hornby, Steuben, New York; Roll: M
+4 CONC 593_1095; Page: 219A; Family History Library Film: 552594
+3 OBJE @M217@
+3 _APID 1,7163::32339419
+2 NOTE Residence Post Office: Hornby
+1 RESI
+2 DATE 1880
+2 PLAC Hornby, Steuben, New York, USA
+3 MAP
+4 LATI N42.2442
+4 LONG W77.0444
+2 SOUR @S87@
+3 PAGE Year: 1880; Census Place: Hornby, Steuben, New York; Roll: 9
+4 CONC 33; Page: 268C; Enumeration District: 177
+3 OBJE @M216@
+3 _APID 1,6742::5178955
+2 NOTE Marital Status: Single; Relation to Head: Daughter
 0 @ZfZ6WA7gSfOqbKsceTjx@ INDI
 1 REFN 90981090-397e-4c83-b5a5-74efc870d455
 1 NAME Ellen Nancy /McLaughlin/
@@ -6698,6 +7099,9 @@
 2 SOUR @jwkwJiwySpmJ1YbUX3O0@
 3 PAGE p. 1
 3 QUAY 1
+2 SOUR @S73@
+3 OBJE @M221@
+3 _APID 1,61377::1500189846
 2 SOUR @m7Phkg8qRz2NO0TDWP4l@
 3 OBJE @vdBip9OFTC65EIqa3DQi@
 3 _APID 1,7218::2233439
@@ -6851,6 +7255,7 @@
 1 NAME James /McLaughlin/
 1 SEX M
 1 FAMS @A2Y2JNlUSdqZzT8QcHDD@
+1 OBJE @M213@
 1 BIRT
 2 DATE 1800
 2 PLAC Donegal, Ireland
@@ -6954,6 +7359,7 @@
 2 SOUR @S74@
 3 _APID 1,60525::115613851
 1 _XY 185292.00 4113.00
+1 _PHOTO @M213@
 0 @U7GWAEiOSweChFWSX9In@ INDI
 1 REFN 5fbf88cf-032c-472e-aa4c-9c9dd5cce948
 1 NAME James /McLaughlin/
@@ -6978,7 +7384,7 @@
 2 SOUR @S92@
 3 PAGE Year: 1900; Census Place: Hornby, Steuben, New York; Roll: 1
 4 CONC 163; Page: 2A; Enumeration District: 0087; FHL microfilm: 12
-4 CONC 41163
+4 CONC 41163; "James Mc Laughlin"
 3 OBJE @DtQl8dYcRLmVvfXGoYqd@
 3 _APID 1,7602::56735515
 2 SOUR @S89@
@@ -6994,6 +7400,11 @@
 4 CONC 900; Archive Collection #: 13775-83; Box #: 959; Roll #: 615
 3 OBJE @t5rK9IC6Sxar5PIKyVk4@
 3 _APID 1,1965::134980
+2 SOUR @S71@
+3 PAGE New York Department of Health; Albany, NY; NY State Death In
+4 CONC dex
+3 OBJE @M224@
+3 _APID 1,61535::1370833
 2 SOUR @m7Phkg8qRz2NO0TDWP4l@
 3 OBJE @IdTMrcALTNufJgYMAl1n@
 3 _APID 1,7218::734205
@@ -7009,6 +7420,13 @@
 4 CONC ; City: Hornby; County: Steuben; Page: 2
 3 OBJE @3aaM41riTymhB0XGJka4@
 3 _APID 1,7364::2378150
+2 SOUR @S104@
+3 PAGE Star-Gazette; Publication Date: 21/ Jul/ 1911; Publication P
+4 CONC lace: Elmira, New York, United States of America; URL: https
+4 CONC ://www.newspapers.com/image/275812572/?article=9a5997a1-0b7f
+4 CONC -4177-8381-1c7539b58d81&focus=0.5799218,0.34510115,0.7158339
+4 CONC ,0.47591397&xid=
+3 _APID 1,61843::646002187
 2 SOUR @XO6j9SijRyGVeXfL600G@
 3 PAGE National Archives and Records Administration (NARA); Washing
 4 CONC ton, D.C.; Consolidated Lists of Civil War Draft Registratio
@@ -7024,9 +7442,17 @@
 3 _APID 1,1555::2544371
 2 SOUR @S74@
 3 _APID 1,60525::115613824
+2 SOUR @S82@
+3 PAGE Census Year: 1880; Census Place: Hornby, Steuben, New York
+4 CONC ; Archive Collection Number: A67; Roll: 67; Page: 14; Line
+4 CONC : 9; Schedule Type: Agriculture
+3 OBJE @M223@
+3 _APID 1,1276::4270637
 1 SEX M
 1 FAMC @A2Y2JNlUSdqZzT8QcHDD@
 1 FAMS @1IW7Gpm7RLy2D4dm2VVr@
+1 OBJE @M208@
+1 OBJE @M210@
 1 BIRT
 2 DATE NOV 1825
 2 PLAC Donegal, Ireland
@@ -7054,7 +7480,7 @@
 2 SOUR @S92@
 3 PAGE Year: 1900; Census Place: Hornby, Steuben, New York; Roll: 1
 4 CONC 163; Page: 2A; Enumeration District: 0087; FHL microfilm: 12
-4 CONC 41163
+4 CONC 41163; "James Mc Laughlin"
 3 OBJE @DtQl8dYcRLmVvfXGoYqd@
 3 _APID 1,7602::56735515
 2 SOUR @S89@
@@ -7085,6 +7511,13 @@
 4 CONC ; City: Hornby; County: Steuben; Page: 2
 3 OBJE @3aaM41riTymhB0XGJka4@
 3 _APID 1,7364::2378150
+2 SOUR @S104@
+3 PAGE Star-Gazette; Publication Date: 21/ Jul/ 1911; Publication P
+4 CONC lace: Elmira, New York, United States of America; URL: https
+4 CONC ://www.newspapers.com/image/275812572/?article=9a5997a1-0b7f
+4 CONC -4177-8381-1c7539b58d81&focus=0.5799218,0.34510115,0.7158339
+4 CONC ,0.47591397&xid=
+3 _APID 1,61843::646002187
 2 SOUR @XO6j9SijRyGVeXfL600G@
 3 PAGE National Archives and Records Administration (NARA); Washing
 4 CONC ton, D.C.; Consolidated Lists of Civil War Draft Registratio
@@ -7186,6 +7619,7 @@
 4 CONC m: 552594
 3 OBJE @dB2m8Ct5Qu6widYx8fsk@
 3 _APID 1,7163::32339413
+2 NOTE Residence Post Office: Hornby
 1 RESI
 2 DATE 01 JUN 1875
 2 PLAC Hornby, Steuben, New York, USA
@@ -7208,8 +7642,15 @@
 4 CONC strict: 177; Image: 0540
 3 OBJE @PfQCvBr2SLC53Vws7vgr@
 3 _APID 1,6742::4542832
+2 SOUR @S82@
+3 PAGE Census Year: 1880; Census Place: Hornby, Steuben, New York
+4 CONC ; Archive Collection Number: A67; Roll: 67; Page: 14; Line
+4 CONC : 9; Schedule Type: Agriculture
+3 OBJE @M223@
+3 _APID 1,1276::4270637
 2 NOTE Age: 46; Marital Status: Married; Relation to Head of House
 3 CONC : Self
+2 NOTE Marital Status: Married; Relation to Head: Self
 1 RESI
 2 DATE 1892
 2 PLAC Hornby, Steuben, New York, USA
@@ -7228,11 +7669,12 @@
 2 SOUR @S92@
 3 PAGE Year: 1900; Census Place: Hornby, Steuben, New York; Roll: 1
 4 CONC 163; Page: 2A; Enumeration District: 0087; FHL microfilm: 12
-4 CONC 41163
+4 CONC 41163; "James Mc Laughlin"
 3 OBJE @DtQl8dYcRLmVvfXGoYqd@
 3 _APID 1,7602::56735515
 2 NOTE Age: 69; Marital Status: Married; Relation to Head of House
 3 CONC : Head
+2 NOTE Marital Status: Married; Relation to Head: Head
 1 RESI
 2 DATE 1905
 2 PLAC Hornby, Steuben, New York, USA
@@ -7268,6 +7710,18 @@
 4 LONG W77.0444
 2 SOUR @CjXHrGelRbOCGmAkW59P@
 3 QUAY 1
+2 SOUR @S71@
+3 PAGE New York Department of Health; Albany, NY; NY State Death In
+4 CONC dex
+3 OBJE @M224@
+3 _APID 1,61535::1370833
+2 SOUR @S104@
+3 PAGE Star-Gazette; Publication Date: 21/ Jul/ 1911; Publication P
+4 CONC lace: Elmira, New York, United States of America; URL: https
+4 CONC ://www.newspapers.com/image/275812572/?article=9a5997a1-0b7f
+4 CONC -4177-8381-1c7539b58d81&focus=0.5799218,0.34510115,0.7158339
+4 CONC ,0.47591397&xid=
+3 _APID 1,61843::646002187
 2 SOUR @S74@
 3 _APID 1,60525::115613824
 1 BURI
@@ -7277,6 +7731,90 @@
 2 SOUR @S74@
 3 _APID 1,60525::115613824
 1 _XY 185292.00 4263.00
+0 @I101@ INDI
+1 REFN 178b5e75-4a50-4c52-99eb-29815fbc7bfc
+1 NAME James A. /McLaughlin/
+2 SOUR @S85@
+3 PAGE Year: 1870; Census Place: Hornby, Steuben, New York; Roll: M
+4 CONC 593_1095; Page: 219A; Family History Library Film: 552594
+3 OBJE @M217@
+3 _APID 1,7163::32339417
+2 SOUR @S87@
+3 PAGE Year: 1880; Census Place: Hornby, Steuben, New York; Roll: 9
+4 CONC 33; Page: 268C; Enumeration District: 177
+3 OBJE @M216@
+3 _APID 1,6742::5178916
+2 SOUR @S92@
+3 PAGE Year: 1900; Census Place: Hornby, Steuben, New York; Page: 2
+4 CONC ; Enumeration District: 0087; FHL microfilm: 1241163
+3 OBJE @M225@
+3 _APID 1,7602::56735517
+2 SOUR @S104@
+3 PAGE Star-Gazette; Publication Date: 21/ Jul/ 1911; Publication P
+4 CONC lace: Elmira, New York, United States of America; URL: https
+4 CONC ://www.newspapers.com/image/275812572/?article=9a5997a1-0b7f
+4 CONC -4177-8381-1c7539b58d81&focus=0.5799218,0.34510115,0.7158339
+4 CONC ,0.47591397&xid=
+3 _APID 1,61843::672862108
+1 SEX M
+1 FAMC @1IW7Gpm7RLy2D4dm2VVr@
+1 BIRT
+2 DATE FEB 1863
+2 PLAC New York, USA
+3 MAP
+4 LATI N42.7531
+4 LONG W74.2224
+2 SOUR @S85@
+3 PAGE Year: 1870; Census Place: Hornby, Steuben, New York; Roll: M
+4 CONC 593_1095; Page: 219A; Family History Library Film: 552594
+3 OBJE @M217@
+3 _APID 1,7163::32339417
+2 SOUR @S87@
+3 PAGE Year: 1880; Census Place: Hornby, Steuben, New York; Roll: 9
+4 CONC 33; Page: 268C; Enumeration District: 177
+3 OBJE @M216@
+3 _APID 1,6742::5178916
+2 SOUR @S92@
+3 PAGE Year: 1900; Census Place: Hornby, Steuben, New York; Page: 2
+4 CONC ; Enumeration District: 0087; FHL microfilm: 1241163
+3 OBJE @M225@
+3 _APID 1,7602::56735517
+1 RESI
+2 DATE 1870
+2 PLAC Hornby, Steuben, New York, USA
+3 MAP
+4 LATI N42.2442
+4 LONG W77.0444
+2 SOUR @S85@
+3 PAGE Year: 1870; Census Place: Hornby, Steuben, New York; Roll: M
+4 CONC 593_1095; Page: 219A; Family History Library Film: 552594
+3 OBJE @M217@
+3 _APID 1,7163::32339417
+2 NOTE Residence Post Office: Hornby
+1 RESI
+2 DATE 1880
+2 PLAC Hornby, Steuben, New York, USA
+3 MAP
+4 LATI N42.2442
+4 LONG W77.0444
+2 SOUR @S87@
+3 PAGE Year: 1880; Census Place: Hornby, Steuben, New York; Roll: 9
+4 CONC 33; Page: 268C; Enumeration District: 177
+3 OBJE @M216@
+3 _APID 1,6742::5178916
+2 NOTE Marital Status: Single; Relation to Head: Son
+1 RESI
+2 DATE 1900
+2 PLAC Hornby, Steuben, New York, USA
+3 MAP
+4 LATI N42.2442
+4 LONG W77.0444
+2 SOUR @S92@
+3 PAGE Year: 1900; Census Place: Hornby, Steuben, New York; Page: 2
+4 CONC ; Enumeration District: 0087; FHL microfilm: 1241163
+3 OBJE @M225@
+3 _APID 1,7602::56735517
+2 NOTE Marital Status: Single; Relation to Head: Son
 0 @WnxyQEohROmKc9FV2S1B@ INDI
 1 REFN a3d8668c-b737-403c-936e-73d81f6c17fa
 1 NAME James W. /McLaughlin/
@@ -7993,6 +8531,90 @@
 2 SOUR @e0k10AjRSSyDnTOmeiMT@
 3 _APID 1,70572::409397
 1 _XY 185967.00 4488.00
+0 @I102@ INDI
+1 REFN f961e123-2cac-4e0c-82e4-5207c9df27fe
+1 NAME Margaret H. /McLaughlin/
+2 SOUR @S85@
+3 PAGE Year: 1870; Census Place: Hornby, Steuben, New York; Roll: M
+4 CONC 593_1095; Page: 219A; Family History Library Film: 552594
+3 OBJE @M217@
+3 _APID 1,7163::32339418
+2 SOUR @S87@
+3 PAGE Year: 1880; Census Place: Hornby, Steuben, New York; Roll: 9
+4 CONC 33; Page: 268C; Enumeration District: 177
+3 OBJE @M216@
+3 _APID 1,6742::4542600
+2 SOUR @S92@
+3 PAGE Year: 1900; Census Place: Hornby, Steuben, New York; Page: 2
+4 CONC ; Enumeration District: 0087; FHL microfilm: 1241163
+3 OBJE @M225@
+3 _APID 1,7602::56735518
+2 SOUR @S104@
+3 PAGE Star-Gazette; Publication Date: 21/ Jul/ 1911; Publication P
+4 CONC lace: Elmira, New York, United States of America; URL: https
+4 CONC ://www.newspapers.com/image/275812572/?article=9a5997a1-0b7f
+4 CONC -4177-8381-1c7539b58d81&focus=0.5799218,0.34510115,0.7158339
+4 CONC ,0.47591397&xid=
+3 _APID 1,61843::672625799
+1 SEX F
+1 FAMC @1IW7Gpm7RLy2D4dm2VVr@
+1 BIRT
+2 DATE DEC 1864
+2 PLAC New York, USA
+3 MAP
+4 LATI N42.7531
+4 LONG W74.2224
+2 SOUR @S85@
+3 PAGE Year: 1870; Census Place: Hornby, Steuben, New York; Roll: M
+4 CONC 593_1095; Page: 219A; Family History Library Film: 552594
+3 OBJE @M217@
+3 _APID 1,7163::32339418
+2 SOUR @S87@
+3 PAGE Year: 1880; Census Place: Hornby, Steuben, New York; Roll: 9
+4 CONC 33; Page: 268C; Enumeration District: 177
+3 OBJE @M216@
+3 _APID 1,6742::4542600
+2 SOUR @S92@
+3 PAGE Year: 1900; Census Place: Hornby, Steuben, New York; Page: 2
+4 CONC ; Enumeration District: 0087; FHL microfilm: 1241163
+3 OBJE @M225@
+3 _APID 1,7602::56735518
+1 RESI
+2 DATE 1870
+2 PLAC Hornby, Steuben, New York, USA
+3 MAP
+4 LATI N42.2442
+4 LONG W77.0444
+2 SOUR @S85@
+3 PAGE Year: 1870; Census Place: Hornby, Steuben, New York; Roll: M
+4 CONC 593_1095; Page: 219A; Family History Library Film: 552594
+3 OBJE @M217@
+3 _APID 1,7163::32339418
+2 NOTE Residence Post Office: Hornby
+1 RESI
+2 DATE 1880
+2 PLAC Hornby, Steuben, New York, USA
+3 MAP
+4 LATI N42.2442
+4 LONG W77.0444
+2 SOUR @S87@
+3 PAGE Year: 1880; Census Place: Hornby, Steuben, New York; Roll: 9
+4 CONC 33; Page: 268C; Enumeration District: 177
+3 OBJE @M216@
+3 _APID 1,6742::4542600
+2 NOTE Marital Status: Single; Relation to Head: Daughter
+1 RESI
+2 DATE 1900
+2 PLAC Hornby, Steuben, New York, USA
+3 MAP
+4 LATI N42.2442
+4 LONG W77.0444
+2 SOUR @S92@
+3 PAGE Year: 1900; Census Place: Hornby, Steuben, New York; Page: 2
+4 CONC ; Enumeration District: 0087; FHL microfilm: 1241163
+3 OBJE @M225@
+3 _APID 1,7602::56735518
+2 NOTE Marital Status: Single; Relation to Head: Daughter
 0 @3c2XzZW2RdeKOyGDgEno@ INDI
 1 REFN ebc2a17f-cecf-4f05-b00b-4c629530eabf
 1 NAME Mary /McLaughlin/
@@ -8156,6 +8778,46 @@
 2 SOUR @S74@
 3 _APID 1,60525::52685788
 1 _XY 186742.00 4263.00
+0 @I104@ INDI
+1 REFN 7ad55ef4-8c64-470b-b55d-357e39cc9093
+1 NAME Mary /McLaughlin/
+2 SOUR @S85@
+3 PAGE Year: 1870; Census Place: Hornby, Steuben, New York; Roll: M
+4 CONC 593_1095; Page: 219A; Family History Library Film: 552594
+3 OBJE @M217@
+3 _APID 1,7163::32339415
+2 SOUR @S104@
+3 PAGE Star-Gazette; Publication Date: 21/ Jul/ 1911; Publication P
+4 CONC lace: Elmira, New York, United States of America; URL: https
+4 CONC ://www.newspapers.com/image/275812572/?article=9a5997a1-0b7f
+4 CONC -4177-8381-1c7539b58d81&focus=0.5799218,0.34510115,0.7158339
+4 CONC ,0.47591397&xid=
+3 _APID 1,61843::672467632
+1 SEX F
+1 FAMC @1IW7Gpm7RLy2D4dm2VVr@
+1 BIRT
+2 DATE ABT 1859
+2 PLAC New York, USA
+3 MAP
+4 LATI N42.7531
+4 LONG W74.2224
+2 SOUR @S85@
+3 PAGE Year: 1870; Census Place: Hornby, Steuben, New York; Roll: M
+4 CONC 593_1095; Page: 219A; Family History Library Film: 552594
+3 OBJE @M217@
+3 _APID 1,7163::32339415
+1 RESI
+2 DATE 1870
+2 PLAC Hornby, Steuben, New York, USA
+3 MAP
+4 LATI N42.2442
+4 LONG W77.0444
+2 SOUR @S85@
+3 PAGE Year: 1870; Census Place: Hornby, Steuben, New York; Roll: M
+4 CONC 593_1095; Page: 219A; Family History Library Film: 552594
+3 OBJE @M217@
+3 _APID 1,7163::32339415
+2 NOTE Residence Post Office: Hornby
 0 @Wzl76UmZRG23GU19zsWX@ INDI
 1 REFN b947db54-f4e3-449c-80e3-c05cfe17abc9
 1 NAME Mary Ann /McLaughlin/
@@ -9618,6 +10280,68 @@
 2 SOUR @S74@
 3 _APID 1,60525::115614129
 1 _XY 185192.00 4263.00
+0 @I111@ INDI
+1 REFN 9b613aa2-6dc3-4076-ae09-89c32936ecd4
+1 NAME William /McLaughlin/
+2 SOUR @S85@
+3 PAGE Year: 1870; Census Place: Hornby, Steuben, New York; Roll: M
+4 CONC 593_1095; Page: 219A; Family History Library Film: 552594
+3 OBJE @M217@
+3 _APID 1,7163::32339416
+2 SOUR @S87@
+3 PAGE Year: 1880; Census Place: Hornby, Steuben, New York; Roll: 9
+4 CONC 33; Page: 268C; Enumeration District: 177
+3 OBJE @M216@
+3 _APID 1,6742::39384660
+2 SOUR @S104@
+3 PAGE Star-Gazette; Publication Date: 21/ Jul/ 1911; Publication P
+4 CONC lace: Elmira, New York, United States of America; URL: https
+4 CONC ://www.newspapers.com/image/275812572/?article=9a5997a1-0b7f
+4 CONC -4177-8381-1c7539b58d81&focus=0.5799218,0.34510115,0.7158339
+4 CONC ,0.47591397&xid=
+3 _APID 1,61843::672813557
+1 SEX M
+1 FAMC @1IW7Gpm7RLy2D4dm2VVr@
+1 BIRT
+2 DATE ABT 1861
+2 PLAC New York, USA
+3 MAP
+4 LATI N42.7531
+4 LONG W74.2224
+2 SOUR @S85@
+3 PAGE Year: 1870; Census Place: Hornby, Steuben, New York; Roll: M
+4 CONC 593_1095; Page: 219A; Family History Library Film: 552594
+3 OBJE @M217@
+3 _APID 1,7163::32339416
+2 SOUR @S87@
+3 PAGE Year: 1880; Census Place: Hornby, Steuben, New York; Roll: 9
+4 CONC 33; Page: 268C; Enumeration District: 177
+3 OBJE @M216@
+3 _APID 1,6742::39384660
+1 RESI
+2 DATE 1870
+2 PLAC Hornby, Steuben, New York, USA
+3 MAP
+4 LATI N42.2442
+4 LONG W77.0444
+2 SOUR @S85@
+3 PAGE Year: 1870; Census Place: Hornby, Steuben, New York; Roll: M
+4 CONC 593_1095; Page: 219A; Family History Library Film: 552594
+3 OBJE @M217@
+3 _APID 1,7163::32339416
+2 NOTE Residence Post Office: Hornby
+1 RESI
+2 DATE 1880
+2 PLAC Hornby, Steuben, New York, USA
+3 MAP
+4 LATI N42.2442
+4 LONG W77.0444
+2 SOUR @S87@
+3 PAGE Year: 1880; Census Place: Hornby, Steuben, New York; Roll: 9
+4 CONC 33; Page: 268C; Enumeration District: 177
+3 OBJE @M216@
+3 _APID 1,6742::39384660
+2 NOTE Marital Status: Single; Relation to Head: Son
 0 @0B4WRq7ATy2levCzNn1m@ INDI
 1 REFN 96ddaf2a-9d54-4e78-9abf-0ecb204c63ae
 1 NAME William P. /McLaughlin/
@@ -13416,6 +14140,9 @@
 4 CONC rk State Marriage Index
 3 OBJE @M119@
 3 _APID 1,61632::1141857
+0 @F68@ FAM
+1 HUSB @I109@
+1 WIFE @I108@
 0 @NIar77lmT5uysyErX7KE@ FAM
 1 REFN 1bae5a89-3850-49e0-9276-91d82f88e353
 1 HUSB @spjhn9LYR4KHhVJ07pSB@
@@ -13443,6 +14170,18 @@
 3 QUAY 4
 3 OBJE @M140@
 3 _LINK https://www.familysearch.org/ark:/61903/3:1:3Q9M-CS7W-YKN4
+0 @F69@ FAM
+1 HUSB @SJYfKQSURKWLc6g1jlMV@
+1 WIFE @I107@
+1 CHIL @I110@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I100@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I108@
+2 _FREL Natural
+2 _MREL Natural
 0 @4nPpWdfsRf2Bu6xPkGvg@ FAM
 1 REFN ae38d49f-5f45-4104-befa-a2bbd8b1f745
 1 HUSB @8RwTkZtzQvOEtDPIlAeu@
@@ -13594,14 +14333,41 @@
 1 REFN 0c80bccf-155f-4a0b-99fd-feda2731bd09
 1 HUSB @U7GWAEiOSweChFWSX9In@
 1 WIFE @igQhrFxERLe8UXxOn1vz@
+1 CHIL @I104@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I111@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I101@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I102@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I105@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I103@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I106@
+2 _FREL Natural
+2 _MREL Natural
 1 MARR
 2 DATE 1858
 2 SOUR @S92@
 3 PAGE Year: 1900; Census Place: Hornby, Steuben, New York; Roll: 1
 4 CONC 163; Page: 2A; Enumeration District: 0087; FHL microfilm: 12
-4 CONC 41163
+4 CONC 41163; "James Mc Laughlin"
 3 OBJE @DtQl8dYcRLmVvfXGoYqd@
 3 _APID 1,7602::56735515
+2 SOUR @S92@
+3 PAGE Year: 1900; Census Place: Hornby, Steuben, New York; Roll: 1
+4 CONC 163; Page: 2A; Enumeration District: 0087; FHL microfilm: 12
+4 CONC 41163; "Rebecca Mc Laughlin"
+3 OBJE @DtQl8dYcRLmVvfXGoYqd@
+3 _APID 1,7602::56735516
 0 @P67uzx6lSJe4yt0jVTlU@ FAM
 1 REFN 191f18e1-474f-418b-a151-56ca7f2f51e3
 1 HUSB @WnxyQEohROmKc9FV2S1B@
@@ -14017,15 +14783,13 @@
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2014
 0 @TGKTvmYkRIad5UXaC837@ SOUR
-1 REFN 5e486cbf-92ef-446c-bc91-3f00d8388184
-1 REPO @R1@
+1 REPO @R4@
 1 TITL New York, State Census, 1915
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2012
 0 @XwjA9DOQSF6Rp4tqv0Z2@ SOUR
-1 REFN 2976839b-db1c-4208-af62-0234cf305d19
-1 REPO @R1@
+1 REPO @R4@
 1 TITL New York, State Census, 1925
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
@@ -14037,6 +14801,12 @@
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2011
+0 @S104@ SOUR
+1 REPO @R4@
+1 TITL Newspapers.com Obituary Index, 1800s-current
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations Inc; Location: Lehi, UT, USA; Date
+2 CONC : 2019
 0 @EN0e5E9qRzetfuaNWGkV@ SOUR
 1 REFN e94ac2af-a6b1-47e0-bbe8-b88dd05d2367
 1 TITL NY Census, 1865, Steuben Co., Hornby, image 5 of 34
@@ -15027,6 +15797,14 @@
 2 _TEXT Year: 1850; Census Place: Orange, Steuben, New York; Roll: M
 3 CONC 432_598; Page: 143B; Image: 291
 1 REFN 560287db-b9cf-4ecf-909a-795e0476d14e
+0 @M5@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\McLaughlin Medi
+2 CONC a\1850 United States Federal Census(44).jpg
+2 FORM jpg
+2 TITL 1850 United States Federal Census
+2 _TEXT Year: 1850; Census Place: Hornby, Steuben, New York; Roll: M
+3 CONC 432_598; Page: 99B; Image: 203
+1 REFN f722e098-4730-4839-afd0-ed6b1c1168ad
 0 @0Jm5zbBUQzqsp5EcwsWK@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\McLaughlin Medi
 2 CONC a\1860 United States Federal Census(3).jpg
@@ -15135,6 +15913,14 @@
 3 CONC : M593_1092; Page: 614A; Image: 375; Family History Librar
 3 CONC y Film: 552591
 1 REFN 8a2bade5-3a4e-40f5-8e67-7c1122f9cf80
+0 @M18@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\McLaughlin Medi
+2 CONC a\1870 United States Federal Census(42).jpg
+2 FORM jpg
+2 TITL 1870 United States Federal Census
+2 _TEXT Year: 1870; Census Place: Orange, Schuyler, New York; Image
+3 CONC : 340609
+1 REFN f382be09-9499-4f1b-ba8a-761a39dca32b
 0 @yL4luUa4SnGeXtUjDYcL@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\McLaughlin Medi
 2 CONC a\1880 United States Federal Census(1).jpg
@@ -15160,6 +15946,20 @@
 2 TITL 1880 United States Federal Census
 2 _TEXT Year: 1880; Census Place: Hornby, Steuben, New York
 1 REFN 5601a066-a385-48f4-87b7-15c7929e4f35
+0 @M22@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\McLaughlin Medi
+2 CONC a\1880 United States Federal Census(30).jpg
+2 FORM jpg
+2 TITL 1880 United States Federal Census
+2 _TEXT Year: 1880; Census Place: Orange, Schuyler, New York
+1 REFN ad05a12a-690a-447c-833e-9cf76dc7a55a
+0 @M23@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\McLaughlin Medi
+2 CONC a\1880 United States Federal Census(31).jpg
+2 FORM jpg
+2 TITL 1880 United States Federal Census
+2 _TEXT Year: 1880; Census Place: Reading, Schuyler, New York
+1 REFN 6f95ea6d-bb87-4703-8c9b-da2365fb7af6
 0 @8xpisfPRR66SFPKI57Tm@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\McLaughlin Medi
 2 CONC a\1880 United States Federal Census(34).jpg
@@ -15176,6 +15976,21 @@
 2 TITL 1880 United States Federal Census
 2 _TEXT Year: 1880; Census Place: Watkins, Schuyler, New York
 1 REFN 32331224-b25c-4a37-8267-65f3ab1f2b29
+0 @M26@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\McLaughlin Medi
+2 CONC a\1880 United States Federal Census(39).jpg
+2 FORM jpg
+2 TITL 1880 United States Federal Census
+2 _TEXT Year: 1880; Census Place: Hornby, Steuben, New York
+1 REFN 3132e333-ecb1-46d5-9da1-8429bd60b15d
+0 @M27@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\McLaughlin Medi
+2 CONC a\1890 Veterans Schedules.jpg
+2 FORM jpg
+2 TITL 1890 Veterans Schedules
+2 _TEXT Year: 1890; Census Place: Hornby, Steuben, New York; Roll: 5
+3 CONC 4; Page: 3; Enumeration District: 224
+1 REFN 89ff9973-af45-43f7-bb10-a4f5fb50706d
 0 @1Z2SqTbXQ96LECASGsUV@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\McLaughlin Medi
 2 CONC a\1900 United States Federal Census(1).jpg
@@ -15266,6 +16081,24 @@
 3 CONC : 1161; Page: 16A; Enumeration District: 0047; FHL microfilm
 3 CONC : 1241161
 1 REFN 95792508-094d-4ac8-9496-550e7b8f0cee
+0 @M38@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\McLaughlin Medi
+2 CONC a\1910 United States Federal Census.jpg
+2 FORM jpg
+2 TITL 1910 United States Federal Census
+2 _TEXT Year: 1910; Census Place: Hornby, Steuben, New York; Roll: T
+3 CONC 624_1080; Page: 9B; Enumeration District: 0132; FHL microfil
+3 CONC m: 1375093
+1 REFN 384e2265-7a69-4eb0-a198-40318cbf3b55
+0 @M39@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\McLaughlin Medi
+2 CONC a\1910 United States Federal Census(21).jpg
+2 FORM jpg
+2 TITL 1910 United States Federal Census
+2 _TEXT Year: 1910; Census Place: Arcadia, Wayne, New York; Roll: T6
+3 CONC 24_1094; Page: 15A; Enumeration District: 0125; FHL microfil
+3 CONC m: 1375107
+1 REFN 9ca1dc12-997d-4efb-a915-4ad6a9112a17
 0 @WBZZAwP9SxisBni4wxdS@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\McLaughlin Medi
 2 CONC a\1910 United States Federal Census(23).jpg
@@ -15371,6 +16204,13 @@
 2 _TEXT Year: 1920; Census Place: Hornby, Steuben, New York; Roll: T
 3 CONC 625_1267; Page: 2A; Enumeration District: 114; Image: 537
 1 REFN 7590c07f-d28f-4534-8427-69051382399d
+0 @M52@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\McLaughlin Medi
+2 CONC a\1920 United States Federal Census(17).jpg
+2 FORM jpg
+2 TITL 1920 United States Federal Census
+2 _TEXT Year: 1920; Census Place: Corning Ward 6, Steuben, New York
+1 REFN bd3dddbb-48ba-4ce5-9401-8ad634362e1c
 0 @ZnegIMjhSAm9jQo1eyYC@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\McLaughlin Medi
 2 CONC a\1920 United States Federal Census(18).jpg
@@ -15387,6 +16227,14 @@
 2 _TEXT Year: 1920; Census Place: Hornby, Steuben, New York; Roll: T
 3 CONC 625_1267; Page: 7B; Enumeration District: 114; Image: 548
 1 REFN 5ed5bec1-87cd-45d3-9549-73b567fdad45
+0 @M55@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\McLaughlin Medi
+2 CONC a\1920 United States Federal Census(24).jpg
+2 FORM jpg
+2 TITL 1920 United States Federal Census
+2 _TEXT Year: 1920; Census Place: Hornby, Steuben, New York; Roll: T
+3 CONC 625_1267; Page: 1B; Enumeration District: 114; Image: 536
+1 REFN 9aa7799c-cf23-494c-bcd8-69cbd3e15911
 0 @KGcx1IH8QMC8wbI1t4et@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\McLaughlin Medi
 2 CONC a\1920 United States Federal Census(38).jpg
@@ -15441,6 +16289,14 @@
 3 CONC : 1648; Page: 10A; Enumeration District: 0032; Image: 529.0
 3 CONC ; FHL microfilm: 2341382
 1 REFN c9812498-f662-45cd-b4b4-20d3caf2b26c
+0 @M62@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\McLaughlin Medi
+2 CONC a\1940 United States Federal Census.jpg
+2 FORM jpg
+2 TITL 1940 United States Federal Census
+2 _TEXT Year: 1940; Census Place: Hornby, Steuben, New York; Roll: T
+3 CONC 627_2781; Page: 5A; Enumeration District: 51-54
+1 REFN 0197a88c-4a25-443f-8007-a7c6931d3236
 0 @kxiVnbA2TjW1IKlDdj8j@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\McLaughlin Medi
 2 CONC a\1940 United States Federal Census(15).jpg
@@ -15530,6 +16386,15 @@
 2 FORM jpg
 2 TITL Mary Antoinette (Ward) McLaughlin with her grandson, Harold
 1 REFN 839549a9-a8bf-415b-8b79-d37bdcfdba24
+0 @M75@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\McLaughlin Medi
+2 CONC a\New York, Civil War Muster Roll Abstracts, 1861-1900.jpg
+2 FORM jpg
+2 TITL New York, Civil War Muster Roll Abstracts, 1861-1900
+2 _TEXT New York State Archives, Cultural Education Center, Albany
+3 CONC , New York; New York Civil War Muster Roll Abstracts, 1861-1
+3 CONC 900; Archive Collection #: 13775-83; Box #: 959; Roll #: 615
+1 REFN 77cb7c09-aa5f-461d-a87b-75d502960445
 0 @t5rK9IC6Sxar5PIKyVk4@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\McLaughlin Medi
 2 CONC a\New York, Civil War Muster Roll Abstracts, 1861-1900(2).jp
@@ -15790,6 +16655,13 @@
 3 CONC rollment Lists, 1863-1865); Record Group: 110, Records of th
 3 CONC e Provost Marsha
 1 REFN c65b7baf-a6fa-4638-ac94-d5622487c34f
+0 @M111@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\McLaughlin Medi
+2 CONC a\US Civil War Pension Index General Index to Pensio(1).jpg
+2 FORM jpg
+2 TITL U.S., Civil War Pension Index: General Index to Pension File
+3 CONC s, 1861-1934
+1 REFN fc805c86-83a9-47df-9faf-68a91016ed97
 0 @gngpC2kKSsuJSVF6Eg2P@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\McLaughlin Medi
 2 CONC a\U.S., Indexed County Land Ownership Maps, 1860-1918.jpg
@@ -15820,6 +16692,13 @@
 2 TITL 1860 United States Federal Census
 2 _TEXT Year: 1860; Census Place: Dix, Schuyler, New York; Roll: M65
 3 CONC 3_859; Page: 832; Family History Library Film: 803859
+0 @M117@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\McLaughlin Medi
+2 CONC a\New York State, Marriage Index, 1881-1967.jpg
+2 FORM jpg
+2 TITL New York State, Marriage Index, 1881-1967
+2 _TEXT New York State Department of Health; Albany, NY, USA; New Yo
+3 CONC rk State Marriage Index
 0 @M118@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\McLaughlin Medi
 2 CONC a\New York, County Marriage Records, 1847-1849, 1907-1936.jp
@@ -16106,6 +16985,13 @@
 2 TITL 1880 United States Federal Census
 2 _TEXT Year: 1880; Census Place: Hornby, Steuben, New York; Roll: 9
 3 CONC 33; Page: 262D; Enumeration District: 177
+0 @M160@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\McLaughlin Medi
+2 CONC a\1920 United States Federal Census(1).jpg
+2 FORM jpg
+2 TITL 1920 United States Federal Census
+2 _TEXT Year: 1920; Census Place: Hornby, Steuben, New York; Roll: T
+3 CONC 625_1267; Page: 2A; Enumeration District: 114
 0 @M161@ OBJE
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\McLaughlin Medi
 2 CONC a\1880 United States Federal Census(2).jpg
@@ -16432,4 +17318,125 @@
 2 CONC .jpg
 2 FORM jpg
 2 TITL New York, County Marriage Records, 1847-1849, 1907-1936
+0 @M208@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\McLaughlin Medi
+2 CONC a\obit.jpg
+2 FORM jpg
+2 TITL obit
+0 @M209@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\McLaughlin Medi
+2 CONC a\IMG_0311.JPG.jpg
+2 FORM jpg
+2 TITL IMG_0311.JPG
+2 _DATE 30 Apr 2015
+0 @M210@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\McLaughlin Medi
+2 CONC a\Obituary.jpg
+2 FORM jpg
+2 TITL Obituary
+2 _DATE 21 Jul 1911
+0 @M211@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\McLaughlin Medi
+2 CONC a\DSCF4001.jpg
+2 FORM jpg
+2 TITL DSCF4001
+2 _DATE Abt. 1920
+2 _TEXT Ray & Edith Griffin, Thomas & Alice Keenan, Ethel Keenan, th
+3 CONC e Keenan boys & wives
+0 @M212@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\McLaughlin Medi
+2 CONC a\Ethel Keenen (BJ's Mom).jpg
+2 FORM jpg
+2 TITL Ethel Keenen (BJ's Mom)
+0 @M213@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\McLaughlin Medi
+2 CONC a\IMG_0311.JPG(1).jpg
+2 FORM jpg
+2 TITL IMG_0311.JPG
+2 _DATE 30 Apr 2015
+0 @M214@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\McLaughlin Medi
+2 CONC a\DSCF3416.jpg
+2 FORM jpg
+2 TITL DSCF3416
+0 @M215@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\McLaughlin Medi
+2 CONC a\New York, State Census, 1915(1).jpg
+2 FORM jpg
+2 TITL New York, State Census, 1915
+2 _TEXT New York State Archives; Albany, New York; State Populatio
+3 CONC n Census Schedules, 1915; Election District: 07; Assembly Di
+3 CONC strict: 01; City: Corning Ward 01; County: Steuben; Page: 03
+0 @M216@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\McLaughlin Medi
+2 CONC a\1880 United States Federal Census(10).jpg
+2 FORM jpg
+2 TITL 1880 United States Federal Census
+2 _TEXT Year: 1880; Census Place: Hornby, Steuben, New York; Roll: 9
+3 CONC 33; Page: 268C; Enumeration District: 177
+0 @M217@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\McLaughlin Medi
+2 CONC a\1870 United States Federal Census(1).jpg
+2 FORM jpg
+2 TITL 1870 United States Federal Census
+2 _TEXT Year: 1870; Census Place: Hornby, Steuben, New York; Roll: M
+3 CONC 593_1095; Page: 219A; Family History Library Film: 552594
+0 @M218@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\McLaughlin Medi
+2 CONC a\New York, State Census, 1925(3).jpg
+2 FORM jpg
+2 TITL New York, State Census, 1925
+2 _TEXT New York State Archives; Albany, New York; State Populatio
+3 CONC n Census Schedules, 1925; Election District: 07; Assembly Di
+3 CONC strict: 01; City: Corning; County: Steuben; Page: 5
+0 @M219@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\McLaughlin Medi
+2 CONC a\New York, County Marriage Records, 1847-1849, 1907-1936(6)
+2 CONC .jpg
+2 FORM jpg
+2 TITL New York, County Marriage Records, 1847-1849, 1907-1936
+0 @M220@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\McLaughlin Medi
+2 CONC a\New York State, Marriage Index, 1881-1967(3).jpg
+2 FORM jpg
+2 TITL New York State, Marriage Index, 1881-1967
+2 _TEXT New York State Department of Health; Albany, NY, USA; New Yo
+3 CONC rk State Marriage Index
+0 @M221@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\McLaughlin Medi
+2 CONC a\New York, County Marriage Records, 1847-1849, 1907-1936(7)
+2 CONC .jpg
+2 FORM jpg
+2 TITL New York, County Marriage Records, 1847-1849, 1907-1936
+0 @M222@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\McLaughlin Medi
+2 CONC a\New York State, Marriage Index, 1881-1967(4).jpg
+2 FORM jpg
+2 TITL New York State, Marriage Index, 1881-1967
+2 _TEXT New York State Department of Health; Albany, NY, USA; New Yo
+3 CONC rk State Marriage Index
+0 @M223@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\McLaughlin Medi
+2 CONC a\U.S., Selected Federal Census Non-Population Schedules, 18
+2 CONC 50-1880(1).jpg
+2 FORM jpg
+2 TITL U.S., Selected Federal Census Non-Population Schedules, 1850
+3 CONC -1880
+2 _TEXT Census Year: 1880; Census Place: Hornby, Steuben, New York
+3 CONC ; Archive Collection Number: A67; Roll: 67; Page: 14; Line
+3 CONC : 9; Schedule Type: Agriculture
+0 @M224@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\McLaughlin Medi
+2 CONC a\New York, Death Index, 1880-1956(7).jpg
+2 FORM jpg
+2 TITL New York, Death Index, 1880-1956
+2 _TEXT New York Department of Health; Albany, NY; NY State Death In
+3 CONC dex
+0 @M225@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\McLaughlin Medi
+2 CONC a\1900 United States Federal Census(2).jpg
+2 FORM jpg
+2 TITL 1900 United States Federal Census
+2 _TEXT Year: 1900; Census Place: Hornby, Steuben, New York; Page: 2
+3 CONC ; Enumeration District: 0087; FHL microfilm: 1241163
 0 TRLR
