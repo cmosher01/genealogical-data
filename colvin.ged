@@ -14,9 +14,9 @@
 4 CONT Boston, MA 02109
 3 PHON (617) 227-6681
 1 DEST FTM
-1 FILE Colvin_2020-06-07-18-57-22.ftm.ged
-1 DATE 07 JUN 2020
-2 TIME 19:16:57
+1 FILE Colvin_2020-06-08-03-40-31.ftm.ged
+1 DATE 08 JUN 2020
+2 TIME 03:38:48
 0 @Umy2qBWIRUiwVSS6Hcn4@ SUBM
 1 NAME Christopher Alan Mosher
 2 EMAIL cmosher01@@gmail.com
@@ -94,6 +94,42 @@
 2 SOUR @S121@
 3 _APID 1,70581::272495
 1 _PHOTO @M181@
+0 @I297@ INDI
+1 REFN f894b8fe-6bab-44fc-ac1b-06cf9b42b6d0
+1 NAME Andrew /Bach/
+1 SEX M
+1 FAMC @F72@
+1 FAMS @F124@
+1 RESI
+2 DATE 2008
+2 PLAC Rosemount, Dakota, Minnesota, USA
+3 MAP
+4 LATI N44.7394
+4 LONG W93.1257
+0 @I291@ INDI
+1 REFN 4f513d51-0042-451e-bf77-71a3c2f17a23
+1 NAME Barry /Bach/
+1 SEX M
+1 FAMC @F72@
+1 FAMS @F121@
+1 RESI
+2 DATE 2008
+2 PLAC Erieville, Madison, New York, USA
+3 MAP
+4 LATI N42.8517
+4 LONG W75.7558
+0 @I293@ INDI
+1 REFN b2991e24-3911-4fa5-918d-b716296a4b9e
+1 NAME Garry /Bach/
+1 SEX M
+1 FAMC @F72@
+1 FAMS @F122@
+1 RESI
+2 DATE 2008
+2 PLAC North Mankato, Nicollet, Minnesota, USA
+3 MAP
+4 LATI N44.1733
+4 LONG W94.0338
 0 @I194@ INDI
 1 REFN 120ebe0e-5aec-4a80-8516-28dca4622412
 1 NAME George Irving /Bach/
@@ -102,8 +138,48 @@
 4 CONC rk State Marriage Index; George I Bach
 3 OBJE @M315@
 3 _APID 1,61632::7180693
+2 SOUR @NOkWCGM8RZO0xw4vd39X@
+3 PAGE Social Security Administration; Washington D.C., USA; Socia
+4 CONC l Security Death Index, Master File
+3 _APID 1,3693::84173369
 1 SEX M
 1 FAMS @F72@
+1 BIRT
+2 DATE 03 JUL 1927
+2 SOUR @NOkWCGM8RZO0xw4vd39X@
+3 PAGE Social Security Administration; Washington D.C., USA; Socia
+4 CONC l Security Death Index, Master File
+3 _APID 1,3693::84173369
+1 DEAT
+2 DATE 31 DEC 2008
+2 SOUR @NOkWCGM8RZO0xw4vd39X@
+3 PAGE Social Security Administration; Washington D.C., USA; Socia
+4 CONC l Security Death Index, Master File
+3 _APID 1,3693::84173369
+0 @I295@ INDI
+1 REFN ea30baa7-5900-4166-b6a4-a1c9b884d0dd
+1 NAME Jamison /Bach/
+1 SEX M
+1 FAMC @F72@
+1 FAMS @F123@
+1 RESI
+2 DATE 2008
+2 PLAC Canastota, Madison, New York, USA
+3 MAP
+4 LATI N43.0795
+4 LONG W75.7508
+0 @I289@ INDI
+1 REFN 2b557ea6-a4e9-4a53-b085-fac7822538b8
+1 NAME Kristine /Bach/
+1 SEX F
+1 FAMC @F72@
+1 FAMS @F120@
+1 RESI
+2 DATE 2008
+2 PLAC York, York, Pennsylvania, USA
+3 MAP
+4 LATI N39.9626
+4 LONG W76.7278
 0 @I225@ INDI
 1 REFN 9303b174-b889-443a-8a4a-af0c0d3400de
 1 NAME Alice E. /Bachmann/
@@ -352,6 +428,9 @@
 2 PLAC Carr Cemetery, Marcy, Oneida, New York, USA
 2 SOUR @S102@
 3 _APID 1,60525::65912174
+0 @I302@ INDI
+1 NAME [REDACTED]
+1 FAMS @F119@
 0 @I210@ INDI
 1 REFN cc4f7e01-288a-44ba-b3b8-1733cb8ed60f
 1 NAME Bessie O. /Blowers/
@@ -639,6 +718,11 @@
 2 PLAC Morrisville, Eaton, Madison, New York, USA
 2 SOUR @S102@
 3 _APID 1,60525::18709991
+0 @I294@ INDI
+1 REFN 9e609ee9-7ddd-45ea-ad5b-90f4bcbb03b4
+1 NAME Colleen //
+1 SEX F
+1 FAMS @F122@
 0 @I228@ INDI
 1 REFN 9f6adf58-79d9-4b46-b8a3-ae203d062d96
 1 NAME Albert J. /Colvin/
@@ -2882,6 +2966,11 @@
 4 CONC ; Enumeration District: 0011; FHL microfilm: 2341180
 3 OBJE @M309@
 3 _APID 1,6224::40859423
+2 SOUR @Uy92PZYtTYyuTqW66j1r@
+3 PAGE Year: 1940; Census Place: Eaton, Madison, New York; Roll: m-
+4 CONC t0627-02624; Page: 8A; Enumeration District: 27-12
+3 OBJE @M507@
+3 _APID 1,2442::11189355
 2 SOUR @S158@
 3 PAGE New York State Department of Health; Albany, NY, USA; New Yo
 4 CONC rk State Birth Index
@@ -2948,6 +3037,11 @@
 4 CONC ; Enumeration District: 0011; FHL microfilm: 2341180
 3 OBJE @M309@
 3 _APID 1,6224::40859423
+2 SOUR @Uy92PZYtTYyuTqW66j1r@
+3 PAGE Year: 1940; Census Place: Eaton, Madison, New York; Roll: m-
+4 CONC t0627-02624; Page: 8A; Enumeration District: 27-12
+3 OBJE @M507@
+3 _APID 1,2442::11189355
 2 SOUR @S158@
 3 PAGE New York State Department of Health; Albany, NY, USA; New Yo
 4 CONC rk State Birth Index
@@ -3072,6 +3166,18 @@
 4 CONC ; Enumeration District: 0011; FHL microfilm: 2341180
 3 OBJE @M309@
 3 _APID 1,6224::40859423
+2 NOTE Marital Status: Married; Relation to Head: Wife
+1 RESI
+2 DATE 1940
+2 PLAC Eaton, Madison, New York, USA
+3 MAP
+4 LATI N42.8497
+4 LONG W75.6122
+2 SOUR @Uy92PZYtTYyuTqW66j1r@
+3 PAGE Year: 1940; Census Place: Eaton, Madison, New York; Roll: m-
+4 CONC t0627-02624; Page: 8A; Enumeration District: 27-12
+3 OBJE @M507@
+3 _APID 1,2442::11189355
 2 NOTE Marital Status: Married; Relation to Head: Wife
 1 DEAT
 2 DATE 22 FEB 1943
@@ -11634,6 +11740,10 @@
 4 LONG W75.745
 2 SOUR @S102@
 3 _APID 1,60525::21406351
+0 @I283@ INDI
+1 NAME [REDACTED]
+1 FAMC @F70@
+1 FAMS @F116@
 0 @I192@ INDI
 1 REFN edf23214-8b8c-4890-a466-b707ac7a3192
 1 NAME Betty Mae /DeGroat/
@@ -11642,28 +11752,49 @@
 4 CONC ge: 4A; Enumeration District: 0009; FHL microfilm: 2341180
 3 OBJE @M310@
 3 _APID 1,6224::40868216
+2 SOUR @Uy92PZYtTYyuTqW66j1r@
+3 PAGE Year: 1940; Census Place: Smithfield, Madison, New York; Rol
+4 CONC l: m-t0627-02624; Page: 4A; Enumeration District: 27-51
+3 OBJE @M510@
+3 _APID 1,2442::11240785
+2 SOUR @S158@
+3 PAGE New York State Department of Health; Albany, NY, USA; New Yo
+4 CONC rk State Birth Index
+3 OBJE @M520@
+3 _APID 1,61667::3657266
 2 SOUR @S152@
 3 PAGE New York State Department of Health; Albany, NY, USA; New Yo
 4 CONC rk State Marriage Index; Betty M Degroat
 3 OBJE @M312@
 3 _APID 1,61632::7049786
 2 SOUR @NOkWCGM8RZO0xw4vd39X@
+3 PAGE Social Security Administration; Washington D.C., USA; Socia
+4 CONC l Security Death Index, Master File
 3 _APID 1,3693::83807739
 1 SEX F
 1 FAMC @F70@
 1 FAMS @F72@
 1 BIRT
 2 DATE 06 JAN 1930
-2 PLAC New York, USA
-3 MAP
-4 LATI N42.7531
-4 LONG W74.2224
+2 PLAC Morrisville, Eaton, Madison, New York, USA
 2 SOUR @Z6rqhHe6TT6AOpzl0BeY@
 3 PAGE Year: 1930; Census Place: Morrisville, Madison, New York; Pa
 4 CONC ge: 4A; Enumeration District: 0009; FHL microfilm: 2341180
 3 OBJE @M310@
 3 _APID 1,6224::40868216
+2 SOUR @Uy92PZYtTYyuTqW66j1r@
+3 PAGE Year: 1940; Census Place: Smithfield, Madison, New York; Rol
+4 CONC l: m-t0627-02624; Page: 4A; Enumeration District: 27-51
+3 OBJE @M510@
+3 _APID 1,2442::11240785
+2 SOUR @S158@
+3 PAGE New York State Department of Health; Albany, NY, USA; New Yo
+4 CONC rk State Birth Index
+3 OBJE @M520@
+3 _APID 1,61667::3657266
 2 SOUR @NOkWCGM8RZO0xw4vd39X@
+3 PAGE Social Security Administration; Washington D.C., USA; Socia
+4 CONC l Security Death Index, Master File
 3 _APID 1,3693::83807739
 1 RESI
 2 DATE 1930
@@ -11677,13 +11808,286 @@
 3 OBJE @M310@
 3 _APID 1,6224::40868216
 2 NOTE Marital Status: Single; Relation to Head: Daughter
+1 RESI
+2 DATE 1940
+2 PLAC Smithfield, Madison, New York, USA
+3 MAP
+4 LATI N42.9712
+4 LONG W75.6768
+2 SOUR @Uy92PZYtTYyuTqW66j1r@
+3 PAGE Year: 1940; Census Place: Smithfield, Madison, New York; Rol
+4 CONC l: m-t0627-02624; Page: 4A; Enumeration District: 27-51
+3 OBJE @M510@
+3 _APID 1,2442::11240785
+2 NOTE Marital Status: Single; Relation to Head: Daughter
+1 RESI
+2 DATE 2008
+2 PLAC 3963 Whitman Road, Canastota, Madison, New York, USA
 1 DEAT
 2 DATE 25 NOV 2008
+2 PLAC University Hospital, Syracuse, Onondaga, New York, USA
 2 SOUR @NOkWCGM8RZO0xw4vd39X@
+3 PAGE Social Security Administration; Washington D.C., USA; Socia
+4 CONC l Security Death Index, Master File
 3 _APID 1,3693::83807739
-0 @I191@ INDI
+0 @I285@ INDI
 1 NAME [REDACTED]
 1 FAMC @F70@
+1 FAMS @F117@
+0 @I191@ INDI
+1 REFN cd6d4171-8bec-4d36-b06e-a8df2f0d4535
+1 NAME Carl James /DeGroat/
+2 SOUR @Z6rqhHe6TT6AOpzl0BeY@
+3 PAGE Year: 1930; Census Place: Morrisville, Madison, New York; Pa
+4 CONC ge: 4A; Enumeration District: 0009; FHL microfilm: 2341180
+3 OBJE @M310@
+3 _APID 1,6224::40868233
+2 SOUR @Uy92PZYtTYyuTqW66j1r@
+3 PAGE Year: 1940; Census Place: Smithfield, Madison, New York; Rol
+4 CONC l: m-t0627-02624; Page: 4A; Enumeration District: 27-51
+3 OBJE @M510@
+3 _APID 1,2442::11240784
+2 SOUR @S158@
+3 PAGE New York State Department of Health; Albany, NY, USA; New Yo
+4 CONC rk State Birth Index
+3 OBJE @M516@
+3 _APID 1,61667::3362507
+2 SOUR @S152@
+3 PAGE New York State Department of Health; Albany, NY, USA; New Yo
+4 CONC rk State Marriage Index; "Carl J Degroat"
+3 OBJE @M515@
+3 _APID 1,61632::6735175
+2 SOUR @S167@
+3 OBJE @M519@
+3 _APID 1,2238::302738247
+2 SOUR @S102@
+3 _APID 1,60525::102303447
+2 SOUR @S179@
+3 PAGE Oneida Daily Dispatch, The; Publication Date: 23/ Oct/ 2007
+4 CONC ; Publication Place: Oneida, New York, USA; URL: http://www.
+4 CONC zwire.com/site/news.cfm?brd=1709&amp;dept_id=68846
+3 _APID 1,7545::16202096
+2 SOUR @S179@
+3 PAGE Oneida Daily Dispatch, The; Publication Date: 23/ Oct/ 2007
+4 CONC ; Publication Place: Oneida, New York, USA; URL: http://www.
+4 CONC zwire.com/site/news.cfm?newsid=18941886&amp;BRD=1709&amp;PAG
+4 CONC =461&amp;dept_id=68846&amp;rfi=6
+3 _APID 1,7545::16202100
+1 SEX M
+1 FAMC @F70@
+1 FAMS @F119@
+1 BIRT
+2 DATE 18 OCT 1927
+2 PLAC Eaton, Madison, New York, USA
+3 MAP
+4 LATI N42.8497
+4 LONG W75.6122
+2 SOUR @Z6rqhHe6TT6AOpzl0BeY@
+3 PAGE Year: 1930; Census Place: Morrisville, Madison, New York; Pa
+4 CONC ge: 4A; Enumeration District: 0009; FHL microfilm: 2341180
+3 OBJE @M310@
+3 _APID 1,6224::40868233
+2 SOUR @Uy92PZYtTYyuTqW66j1r@
+3 PAGE Year: 1940; Census Place: Smithfield, Madison, New York; Rol
+4 CONC l: m-t0627-02624; Page: 4A; Enumeration District: 27-51
+3 OBJE @M510@
+3 _APID 1,2442::11240784
+2 SOUR @S158@
+3 PAGE New York State Department of Health; Albany, NY, USA; New Yo
+4 CONC rk State Birth Index
+3 OBJE @M516@
+3 _APID 1,61667::3362507
+2 SOUR @S167@
+3 OBJE @M519@
+3 _APID 1,2238::302738247
+2 SOUR @S179@
+3 PAGE Oneida Daily Dispatch, The; Publication Date: 23/ Oct/ 2007
+4 CONC ; Publication Place: Oneida, New York, USA; URL: http://www.
+4 CONC zwire.com/site/news.cfm?brd=1709&amp;dept_id=68846
+3 _APID 1,7545::16202096
+2 SOUR @S179@
+3 PAGE Oneida Daily Dispatch, The; Publication Date: 23/ Oct/ 2007
+4 CONC ; Publication Place: Oneida, New York, USA; URL: http://www.
+4 CONC zwire.com/site/news.cfm?newsid=18941886&amp;BRD=1709&amp;PAG
+4 CONC =461&amp;dept_id=68846&amp;rfi=6
+3 _APID 1,7545::16202100
+1 RESI
+2 DATE 1930
+2 PLAC Morrisville, Madison, New York, USA
+3 MAP
+4 LATI N42.8987
+4 LONG W75.6402
+2 SOUR @Z6rqhHe6TT6AOpzl0BeY@
+3 PAGE Year: 1930; Census Place: Morrisville, Madison, New York; Pa
+4 CONC ge: 4A; Enumeration District: 0009; FHL microfilm: 2341180
+3 OBJE @M310@
+3 _APID 1,6224::40868233
+2 NOTE Marital Status: Single; Relation to Head: Son
+1 RESI
+2 DATE 1940
+2 PLAC Smithfield, Madison, New York, USA
+3 MAP
+4 LATI N42.9712
+4 LONG W75.6768
+2 SOUR @Uy92PZYtTYyuTqW66j1r@
+3 PAGE Year: 1940; Census Place: Smithfield, Madison, New York; Rol
+4 CONC l: m-t0627-02624; Page: 4A; Enumeration District: 27-51
+3 OBJE @M510@
+3 _APID 1,2442::11240784
+2 NOTE Marital Status: Single; Relation to Head: Son
+1 DEAT
+2 DATE 19 OCT 2007
+2 PLAC Utica, Oneida, New York, USA
+3 MAP
+4 LATI N43.1009
+4 LONG W75.2327
+2 SOUR @S102@
+3 _APID 1,60525::102303447
+2 SOUR @S179@
+3 PAGE Oneida Daily Dispatch, The; Publication Date: 23/ Oct/ 2007
+4 CONC ; Publication Place: Oneida, New York, USA; URL: http://www.
+4 CONC zwire.com/site/news.cfm?brd=1709&amp;dept_id=68846
+3 _APID 1,7545::16202096
+2 SOUR @S179@
+3 PAGE Oneida Daily Dispatch, The; Publication Date: 23/ Oct/ 2007
+4 CONC ; Publication Place: Oneida, New York, USA; URL: http://www.
+4 CONC zwire.com/site/news.cfm?newsid=18941886&amp;BRD=1709&amp;PAG
+4 CONC =461&amp;dept_id=68846&amp;rfi=6
+3 _APID 1,7545::16202100
+1 BURI
+2 DATE 23 OCT 2007
+2 PLAC Peterboro Cemetery, Peterboro, Madison, New York, USA
+2 SOUR @S102@
+3 _APID 1,60525::102303447
+2 SOUR @S179@
+3 PAGE Oneida Daily Dispatch, The; Publication Date: 23/ Oct/ 2007
+4 CONC ; Publication Place: Oneida, New York, USA; URL: http://www.
+4 CONC zwire.com/site/news.cfm?newsid=18941886&amp;BRD=1709&amp;PAG
+4 CONC =461&amp;dept_id=68846&amp;rfi=6
+3 _APID 1,7545::16202100
+0 @I281@ INDI
+1 NAME [REDACTED]
+1 FAMC @F70@
+1 FAMS @F115@
+0 @I287@ INDI
+1 REFN 412f91cb-4486-4205-81c3-b66f5ce913f3
+1 NAME DeAlton E. /DeGroat/
+2 SOUR @Uy92PZYtTYyuTqW66j1r@
+3 PAGE Year: 1940; Census Place: Smithfield, Madison, New York; Rol
+4 CONC l: m-t0627-02624; Page: 4A; Enumeration District: 27-51
+3 OBJE @M510@
+3 _APID 1,2442::11240787
+2 SOUR @S158@
+3 PAGE New York State Department of Health; Albany, NY, USA; New Yo
+4 CONC rk State Birth Index
+3 OBJE @M511@
+3 _APID 1,61667::3752650
+2 SOUR @S103@
+3 PAGE New York State Department of Health; Albany, NY, USA; New Yo
+4 CONC rk State Death Index
+3 _APID 1,61668::12315
+1 SEX M
+1 FAMC @F70@
+1 BIRT
+2 DATE 19 NOV 1931
+2 PLAC Morrisville, Eaton, Madison, New York, USA
+2 SOUR @Uy92PZYtTYyuTqW66j1r@
+3 PAGE Year: 1940; Census Place: Smithfield, Madison, New York; Rol
+4 CONC l: m-t0627-02624; Page: 4A; Enumeration District: 27-51
+3 OBJE @M510@
+3 _APID 1,2442::11240787
+2 SOUR @S158@
+3 PAGE New York State Department of Health; Albany, NY, USA; New Yo
+4 CONC rk State Birth Index
+3 OBJE @M511@
+3 _APID 1,61667::3752650
+2 SOUR @S103@
+3 PAGE New York State Department of Health; Albany, NY, USA; New Yo
+4 CONC rk State Death Index
+3 _APID 1,61668::12315
+1 RESI
+2 DATE 1940
+2 PLAC Smithfield, Madison, New York, USA
+3 MAP
+4 LATI N42.9712
+4 LONG W75.6768
+2 SOUR @Uy92PZYtTYyuTqW66j1r@
+3 PAGE Year: 1940; Census Place: Smithfield, Madison, New York; Rol
+4 CONC l: m-t0627-02624; Page: 4A; Enumeration District: 27-51
+3 OBJE @M510@
+3 _APID 1,2442::11240787
+2 NOTE Marital Status: Single; Relation to Head: Son
+1 DEAT
+2 DATE 19 MAR 1967
+2 PLAC New York, USA
+3 MAP
+4 LATI N42.7531
+4 LONG W74.2224
+2 SOUR @S103@
+3 PAGE New York State Department of Health; Albany, NY, USA; New Yo
+4 CONC rk State Death Index
+3 _APID 1,61668::12315
+0 @I304@ INDI
+1 REFN 8274eb71-b3f1-4eab-9d0b-01f27ed80519
+1 NAME Dennis H. /DeGroat/
+2 SOUR @S171@
+3 _APID 1,1732::263697933
+2 SOUR @S102@
+3 _APID 1,60525::168308937
+2 SOUR @S179@
+3 PAGE Publication Date: 23/ Oct/ 2007; Publication Place: Oneida
+4 CONC , New York, USA; URL: http://www.zwire.com/site/news.cfm?new
+4 CONC sid=18941886&amp;BRD=1709&amp;PAG=461&amp;dept_id=68846&amp;
+4 CONC rfi=6
+3 _APID 1,7545::172527240
+1 SEX M
+1 FAMC @F119@
+1 BIRT
+2 DATE 09 FEB 1954
+2 SOUR @S171@
+3 _APID 1,1732::263697933
+2 SOUR @S102@
+3 _APID 1,60525::168308937
+1 DEAT
+2 DATE 2019
+2 SOUR @S102@
+3 _APID 1,60525::168308937
+1 BURI
+2 DATE 2019
+2 PLAC Peterboro, Madison, New York, USA
+3 MAP
+4 LATI N42.9672
+4 LONG W75.6884
+2 SOUR @S102@
+3 _APID 1,60525::168308937
+1 RESI
+2 PLAC Peterboro, Madison, New York, USA
+3 MAP
+4 LATI N42.9672
+4 LONG W75.6884
+2 SOUR @S171@
+3 _APID 1,1732::263697933
+0 @I305@ INDI
+1 REFN 848f0e64-1e21-4d5a-bb46-17c1bbd831a7
+1 NAME Diane /DeGroat/
+1 SEX F
+1 FAMC @F119@
+1 FAMS @F126@
+1 RESI
+2 PLAC Utah, USA
+3 MAP
+4 LATI N39.5
+4 LONG W111.5
+0 @I307@ INDI
+1 REFN a23914c0-5fd3-468f-a26a-da6e8cdc9210
+1 NAME Douglas /DeGroat/
+1 SEX M
+1 FAMC @F119@
+1 RESI
+2 PLAC Colorado, USA
+3 MAP
+4 LATI N39
+4 LONG W105.5
 0 @I190@ INDI
 1 REFN b712d4f2-ad46-44db-92a1-05f12fff5934
 1 NAME Edward J. /DeGroat/
@@ -11692,24 +12096,66 @@
 4 CONC ge: 4A; Enumeration District: 0009; FHL microfilm: 2341180
 3 OBJE @M310@
 3 _APID 1,6224::40868254
+2 SOUR @Uy92PZYtTYyuTqW66j1r@
+3 PAGE Year: 1940; Census Place: Smithfield, Madison, New York; Rol
+4 CONC l: m-t0627-02624; Page: 4A; Enumeration District: 27-51
+3 OBJE @M510@
+3 _APID 1,2442::11240781
+2 SOUR @S158@
+3 PAGE New York State Department of Health; Albany, NY, USA; New Yo
+4 CONC rk State Birth Index
+3 OBJE @M517@
+3 _APID 1,61667::1313198
 2 SOUR @S152@
 3 PAGE New York State Department of Health; Albany, NY, USA; New Yo
 4 CONC rk State Marriage Index; Edward J DeGroat
 3 OBJE @M311@
 3 _APID 1,61632::2331302
+2 SOUR @S179@
+3 PAGE Publication Date: 23/ Oct/ 2007; Publication Place: Oneida
+4 CONC , New York, USA; URL: http://www.zwire.com/site/news.cfm?brd
+4 CONC =1709&amp;dept_id=68846
+3 _APID 1,7545::226297339
+2 SOUR @S179@
+3 PAGE Publication Date: 23/ Oct/ 2007; Publication Place: Oneida
+4 CONC , New York, USA; URL: http://www.zwire.com/site/news.cfm?new
+4 CONC sid=18941886&amp;BRD=1709&amp;PAG=461&amp;dept_id=68846&amp;
+4 CONC rfi=6
+3 _APID 1,7545::27774391
+2 SOUR @S96@
+3 PAGE Edward Degroat
+3 _APID 1,60901::631908805
+2 SOUR @NOkWCGM8RZO0xw4vd39X@
+3 PAGE Social Security Administration; Washington D.C., USA; Socia
+4 CONC l Security Death Index, Master File
+3 _APID 1,3693::14859028
 1 SEX M
 1 FAMS @F70@
 1 BIRT
-2 DATE ABT 1908
-2 PLAC New York, USA
+2 DATE 15 JUN 1907
+2 PLAC Canastota, Madison, New York, USA
 3 MAP
-4 LATI N42.7531
-4 LONG W74.2224
+4 LATI N43.0795
+4 LONG W75.7508
 2 SOUR @Z6rqhHe6TT6AOpzl0BeY@
 3 PAGE Year: 1930; Census Place: Morrisville, Madison, New York; Pa
 4 CONC ge: 4A; Enumeration District: 0009; FHL microfilm: 2341180
 3 OBJE @M310@
 3 _APID 1,6224::40868254
+2 SOUR @Uy92PZYtTYyuTqW66j1r@
+3 PAGE Year: 1940; Census Place: Smithfield, Madison, New York; Rol
+4 CONC l: m-t0627-02624; Page: 4A; Enumeration District: 27-51
+3 OBJE @M510@
+3 _APID 1,2442::11240781
+2 SOUR @S158@
+3 PAGE New York State Department of Health; Albany, NY, USA; New Yo
+4 CONC rk State Birth Index
+3 OBJE @M517@
+3 _APID 1,61667::1313198
+2 SOUR @NOkWCGM8RZO0xw4vd39X@
+3 PAGE Social Security Administration; Washington D.C., USA; Socia
+4 CONC l Security Death Index, Master File
+3 _APID 1,3693::14859028
 1 RESI
 2 DATE 1930
 2 PLAC Morrisville, Madison, New York, USA
@@ -11722,6 +12168,149 @@
 3 OBJE @M310@
 3 _APID 1,6224::40868254
 2 NOTE Marital Status: Married; Relation to Head: Head
+1 RESI
+2 DATE 1940
+2 PLAC Smithfield, Madison, New York, USA
+3 MAP
+4 LATI N42.9712
+4 LONG W75.6768
+2 SOUR @Uy92PZYtTYyuTqW66j1r@
+3 PAGE Year: 1940; Census Place: Smithfield, Madison, New York; Rol
+4 CONC l: m-t0627-02624; Page: 4A; Enumeration District: 27-51
+3 OBJE @M510@
+3 _APID 1,2442::11240781
+2 NOTE Marital Status: Married; Relation to Head: Head
+1 DEAT
+2 DATE 31 MAY 1990
+2 SOUR @NOkWCGM8RZO0xw4vd39X@
+3 PAGE Social Security Administration; Washington D.C., USA; Socia
+4 CONC l Security Death Index, Master File
+3 _APID 1,3693::14859028
+0 @I288@ INDI
+1 REFN 5dc267e3-932d-4dcb-b179-f8710d7a20fa
+1 NAME Edward Norman /DeGroat/
+2 SOUR @Uy92PZYtTYyuTqW66j1r@
+3 PAGE Year: 1940; Census Place: Smithfield, Madison, New York; Rol
+4 CONC l: m-t0627-02624; Page: 4A; Enumeration District: 27-51
+3 OBJE @M510@
+3 _APID 1,2442::11240790
+2 SOUR @S152@
+3 PAGE New York State Department of Health; Albany, NY, USA; New Yo
+4 CONC rk State Marriage Index; "Edward N Degroat"
+3 OBJE @M513@
+3 _APID 1,61632::1406940
+2 SOUR @S201@
+3 OBJE @M514@
+3 _APID 1,60714::1522
+2 SOUR @S96@
+3 PAGE Edward Norman Degroat
+3 _APID 1,60901::16066213
+1 SEX M
+1 FAMC @F70@
+1 FAMS @F118@
+1 BIRT
+2 DATE 02 NOV 1934
+2 PLAC Peterboro, Madison, New York, USA
+3 MAP
+4 LATI N42.9672
+4 LONG W75.6884
+2 SOUR @Uy92PZYtTYyuTqW66j1r@
+3 PAGE Year: 1940; Census Place: Smithfield, Madison, New York; Rol
+4 CONC l: m-t0627-02624; Page: 4A; Enumeration District: 27-51
+3 OBJE @M510@
+3 _APID 1,2442::11240790
+2 SOUR @S96@
+3 PAGE Edward Norman Degroat
+3 _APID 1,60901::16066213
+1 RESI
+2 DATE 1940
+2 PLAC Smithfield, Madison, New York, USA
+3 MAP
+4 LATI N42.9712
+4 LONG W75.6768
+2 SOUR @Uy92PZYtTYyuTqW66j1r@
+3 PAGE Year: 1940; Census Place: Smithfield, Madison, New York; Rol
+4 CONC l: m-t0627-02624; Page: 4A; Enumeration District: 27-51
+3 OBJE @M510@
+3 _APID 1,2442::11240790
+2 NOTE Marital Status: Single; Relation to Head: Son
+1 RESI
+2 DATE 1954
+2 PLAC Morrisville, Eaton, Madison, New York, USA
+2 SOUR @S201@
+3 OBJE @M514@
+3 _APID 1,60714::1522
+1 DEAT
+2 DATE 15 AUG 1987
+2 SOUR @S96@
+3 PAGE Edward Norman Degroat
+3 _APID 1,60901::16066213
+0 @I299@ INDI
+1 NAME [REDACTED]
+1 FAMC @F70@
+1 FAMS @F125@
+0 @I308@ INDI
+1 REFN d90df285-5666-4b66-a943-0ee821cba878
+1 NAME Joan /DeGroat/
+1 SEX F
+1 FAMC @F119@
+1 FAMS @F127@
+0 @I300@ INDI
+1 REFN c0ed1966-0337-4d72-aff7-25b9d8441bce
+1 NAME LaVerne Charles /DeGroat/
+2 SOUR @Uy92PZYtTYyuTqW66j1r@
+3 PAGE Year: 1940; Census Place: Smithfield, Madison, New York; Rol
+4 CONC l: m-t0627-02624; Page: 4A; Enumeration District: 27-51
+3 OBJE @M510@
+3 _APID 1,2442::11240789
+2 SOUR @S96@
+3 PAGE Laverne Charles Degroat
+3 _APID 1,60901::31908805
+1 SEX M
+1 FAMC @F70@
+1 BIRT
+2 DATE 09 APR 1933
+2 PLAC Morrisville, Eaton, Madison, New York, USA
+2 SOUR @Uy92PZYtTYyuTqW66j1r@
+3 PAGE Year: 1940; Census Place: Smithfield, Madison, New York; Rol
+4 CONC l: m-t0627-02624; Page: 4A; Enumeration District: 27-51
+3 OBJE @M510@
+3 _APID 1,2442::11240789
+2 SOUR @S96@
+3 PAGE Laverne Charles Degroat
+3 _APID 1,60901::31908805
+1 RESI
+2 DATE 1940
+2 PLAC Smithfield, Madison, New York, USA
+3 MAP
+4 LATI N42.9712
+4 LONG W75.6768
+2 SOUR @Uy92PZYtTYyuTqW66j1r@
+3 PAGE Year: 1940; Census Place: Smithfield, Madison, New York; Rol
+4 CONC l: m-t0627-02624; Page: 4A; Enumeration District: 27-51
+3 OBJE @M510@
+3 _APID 1,2442::11240789
+2 NOTE Marital Status: Single; Relation to Head: Son
+1 DEAT
+2 DATE 23 MAR 2003
+2 SOUR @S96@
+3 PAGE Laverne Charles Degroat
+3 _APID 1,60901::31908805
+0 @I272@ INDI
+1 REFN c45d728f-ceeb-430b-b2ab-afec61bc194a
+1 NAME Susan /DeGroat/
+1 SEX F
+1 FAMC @F119@
+1 FAMS @F111@
+1 RESI
+2 PLAC North Carolina, USA
+3 MAP
+4 LATI N35.175
+4 LONG W79.125
+0 @I279@ INDI
+1 NAME [REDACTED]
+1 FAMC @F70@
+1 FAMS @F114@
 0 @I216@ INDI
 1 REFN 758bb791-7bb4-409f-a9b8-1da261430d8f
 1 NAME /Donahue/
@@ -11803,6 +12392,11 @@
 2 PLAC Oakwood Cemetery, Chittenango, Madison, New York, USA
 2 SOUR @S102@
 3 _APID 1,60525::126106061
+0 @I290@ INDI
+1 REFN 9f56e2a3-15e8-4928-8417-e9f5b5ebb450
+1 NAME Lowell /Firman/
+1 SEX M
+1 FAMS @F120@
 0 @I153@ INDI
 1 REFN 3efbcb69-57ff-476f-bf1b-c47b2a126a62
 1 NAME Ada Elvira /Ford/
@@ -13253,6 +13847,16 @@
 4 CONC dd49bf9&focus=0.10256902,0.4137261,0.19545507,0.43534258&xid
 4 CONC =2378
 3 _APID 1,61843::500244489
+0 @I303@ INDI
+1 REFN 67ecc50a-3741-4838-8d9f-e37c97161cac
+1 NAME Lavonn S. /Griffin/
+2 SOUR @S152@
+3 PAGE New York State Department of Health; Albany, NY, USA; New Yo
+4 CONC rk State Marriage Index; Lavonn S Griffin
+3 OBJE @M525@
+3 _APID 1,61632::3097493
+1 SEX F
+1 FAMS @F125@
 0 @I245@ INDI
 1 REFN fc7d50e4-3b00-43a5-b268-48219607c0f8
 1 NAME Nellie M. /Hamlin/
@@ -13446,6 +14050,11 @@
 2 SOUR @S184@
 3 _APID 1,70050::14197630
 1 _PHOTO @M277@
+0 @I298@ INDI
+1 REFN a2b41a9a-ed05-490f-bf5a-33f9b593cd60
+1 NAME Heather //
+1 SEX F
+1 FAMS @F124@
 0 @I39@ INDI
 1 REFN 20f72799-1f00-4d41-b37c-676a67a82d52
 1 NAME Anthony J. /House/
@@ -14667,6 +15276,20 @@
 3 _APID 1,70572::8401458
 1 _XY -9475.00 -2200.00
 1 _PHOTO @M253@
+0 @I282@ INDI
+1 REFN 98552b06-ff9d-4767-add5-f03b8476dbed
+1 NAME Diana F. /Hynes/
+2 SOUR @S152@
+3 PAGE New York State Department of Health; Albany, NY, USA; New Yo
+4 CONC rk State Marriage Index; Diana F Hynes
+3 _APID 1,61632::100063325
+1 SEX F
+1 FAMS @F115@
+0 @I309@ INDI
+1 REFN 5552ab63-ae35-4ca2-ab9f-bf1d0920d38a
+1 NAME Jerry /Ives/
+1 SEX M
+1 FAMS @F127@
 0 @I97@ INDI
 1 REFN 9121322b-3836-4d65-9ec6-5097a4f5ec98
 1 NAME Martha /J/
@@ -14858,6 +15481,11 @@
 4 CONC ; Enumeration District: 0011; FHL microfilm: 2341180
 3 OBJE @M309@
 3 _APID 1,6224::40859440
+2 SOUR @Uy92PZYtTYyuTqW66j1r@
+3 PAGE Year: 1940; Census Place: Eaton, Madison, New York; Roll: m-
+4 CONC t0627-02624; Page: 8A; Enumeration District: 27-12
+3 OBJE @M507@
+3 _APID 1,2442::11189354
 2 SOUR @S152@
 3 PAGE New York State Department of Health; Albany, NY, USA; New Yo
 4 CONC rk State Marriage Index; Carl J Jipson
@@ -14922,6 +15550,11 @@
 4 CONC ; Enumeration District: 0011; FHL microfilm: 2341180
 3 OBJE @M309@
 3 _APID 1,6224::40859440
+2 SOUR @Uy92PZYtTYyuTqW66j1r@
+3 PAGE Year: 1940; Census Place: Eaton, Madison, New York; Roll: m-
+4 CONC t0627-02624; Page: 8A; Enumeration District: 27-12
+3 OBJE @M507@
+3 _APID 1,2442::11189354
 2 SOUR @S89@
 3 PAGE New York Department of Health; Albany, NY; NY State Death In
 4 CONC dex
@@ -15018,6 +15651,18 @@
 3 _APID 1,6224::40859440
 2 NOTE Marital Status: Married; Relation to Head: Head
 1 RESI
+2 DATE 1940
+2 PLAC Eaton, Madison, New York, USA
+3 MAP
+4 LATI N42.8497
+4 LONG W75.6122
+2 SOUR @Uy92PZYtTYyuTqW66j1r@
+3 PAGE Year: 1940; Census Place: Eaton, Madison, New York; Roll: m-
+4 CONC t0627-02624; Page: 8A; Enumeration District: 27-12
+3 OBJE @M507@
+3 _APID 1,2442::11189354
+2 NOTE Marital Status: Married; Relation to Head: Head
+1 RESI
 2 DATE 1942
 2 PLAC Morrisville, Madison, New York, USA
 3 MAP
@@ -15055,7 +15700,7 @@
 3 _APID 1,60525::44495931
 0 @I189@ INDI
 1 REFN 814f9627-5b80-408b-854d-7bc941acf016
-1 NAME Gladys J. /Jipson/
+1 NAME Gladys Jessie /Jipson/
 2 SOUR @GpcA8GZ1Qyuc3mwiGu82@
 3 PAGE Year: 1920; Census Place: Smithfield, Madison, New York; Rol
 4 CONC l: T625_1119; Page: 6A; Enumeration District: 129
@@ -15078,6 +15723,9 @@
 4 CONC strict: 01; City: Eaton; County: Madison; Page: 15
 3 OBJE @M307@
 3 _APID 1,2704::20715630
+2 SOUR @S167@
+3 OBJE @M518@
+3 _APID 1,2238::333445055
 2 SOUR @S179@
 3 PAGE Oneida Daily Dispatch, The; Publication Date: 20/ Sep/ 2005
 4 CONC ; Publication Place: Oneida, New York, USA; URL: http://www.
@@ -15184,6 +15832,98 @@
 4 CONC zwire.com/site/news.cfm?newsid=15238495&amp;BRD=1709&amp;PAG
 4 CONC =461&amp;dept_id=68846&amp;rfi=6
 3 _APID 1,7545::8814373
+0 @I276@ INDI
+1 REFN 0018acbd-394e-41eb-9a96-a8cab8dd8792
+1 NAME Kenneth C. /Jipson/
+2 SOUR @Z6rqhHe6TT6AOpzl0BeY@
+3 PAGE Year: 1930; Census Place: Eaton, Madison, New York; Page: 8A
+4 CONC ; Enumeration District: 0011; FHL microfilm: 2341180
+3 OBJE @M509@
+3 _APID 1,6224::40859439
+2 SOUR @Uy92PZYtTYyuTqW66j1r@
+3 PAGE Year: 1940; Census Place: Eaton, Madison, New York; Roll: m-
+4 CONC t0627-02624; Page: 8A; Enumeration District: 27-12
+3 OBJE @M507@
+3 _APID 1,2442::11189356
+2 SOUR @S158@
+3 PAGE New York State Department of Health; Albany, NY, USA; New Yo
+4 CONC rk State Birth Index
+3 OBJE @M508@
+3 _APID 1,61667::3583594
+2 SOUR @S179@
+3 PAGE The Observer-Dispatch; Publication Place: Utica, NY, USA; UR
+4 CONC L: http://www.legacy.com/obituaries/uticaod/obituary.aspx?n=
+4 CONC kenneth-c-jipson-jip&pid=190153608
+3 _APID 1,7545::1949368549
+1 SEX M
+1 FAMC @F69@
+1 FAMS @F113@
+1 BIRT
+2 DATE 11 MAR 1929
+2 PLAC Morrisville, Eaton, Madison, New York, USA
+2 SOUR @Z6rqhHe6TT6AOpzl0BeY@
+3 PAGE Year: 1930; Census Place: Eaton, Madison, New York; Page: 8A
+4 CONC ; Enumeration District: 0011; FHL microfilm: 2341180
+3 OBJE @M509@
+3 _APID 1,6224::40859439
+2 SOUR @Uy92PZYtTYyuTqW66j1r@
+3 PAGE Year: 1940; Census Place: Eaton, Madison, New York; Roll: m-
+4 CONC t0627-02624; Page: 8A; Enumeration District: 27-12
+3 OBJE @M507@
+3 _APID 1,2442::11189356
+2 SOUR @S158@
+3 PAGE New York State Department of Health; Albany, NY, USA; New Yo
+4 CONC rk State Birth Index
+3 OBJE @M508@
+3 _APID 1,61667::3583594
+2 SOUR @S179@
+3 PAGE The Observer-Dispatch; Publication Place: Utica, NY, USA; UR
+4 CONC L: http://www.legacy.com/obituaries/uticaod/obituary.aspx?n=
+4 CONC kenneth-c-jipson-jip&pid=190153608
+3 _APID 1,7545::1949368549
+1 RESI
+2 DATE 1930
+2 PLAC Eaton, Madison, New York, USA
+3 MAP
+4 LATI N42.8497
+4 LONG W75.6122
+2 SOUR @Z6rqhHe6TT6AOpzl0BeY@
+3 PAGE Year: 1930; Census Place: Eaton, Madison, New York; Page: 8A
+4 CONC ; Enumeration District: 0011; FHL microfilm: 2341180
+3 OBJE @M509@
+3 _APID 1,6224::40859439
+2 NOTE Marital Status: Single; Relation to Head: Son
+1 RESI
+2 DATE 1940
+2 PLAC Eaton, Madison, New York, USA
+3 MAP
+4 LATI N42.8497
+4 LONG W75.6122
+2 SOUR @Uy92PZYtTYyuTqW66j1r@
+3 PAGE Year: 1940; Census Place: Eaton, Madison, New York; Roll: m-
+4 CONC t0627-02624; Page: 8A; Enumeration District: 27-12
+3 OBJE @M507@
+3 _APID 1,2442::11189356
+2 NOTE Marital Status: Single; Relation to Head: Son
+1 DEAT
+2 DATE ABT 05 SEP 2018
+2 SOUR @S179@
+3 PAGE The Observer-Dispatch; Publication Place: Utica, NY, USA; UR
+4 CONC L: http://www.legacy.com/obituaries/uticaod/obituary.aspx?n=
+4 CONC kenneth-c-jipson-jip&pid=190153608
+3 _APID 1,7545::1949368549
+1 BURI
+2 DATE 08 SEP 2018
+2 SOUR @S179@
+3 PAGE The Observer-Dispatch; Publication Place: Utica, NY, USA; UR
+4 CONC L: http://www.legacy.com/obituaries/uticaod/obituary.aspx?n=
+4 CONC kenneth-c-jipson-jip&pid=190153608
+3 _APID 1,7545::1949368549
+1 RESI
+2 PLAC Deansboro, Oneida, New York, USA
+3 MAP
+4 LATI N42.995
+4 LONG W75.4289
 0 @I188@ INDI
 1 REFN bcad95d2-db98-45c7-8844-b580a4fb3fda
 1 NAME Pearl L. /Jipson/
@@ -15197,6 +15937,11 @@
 4 CONC ge: 4A; Enumeration District: 0009; FHL microfilm: 2341180
 3 OBJE @M310@
 3 _APID 1,6224::40868231
+2 SOUR @Uy92PZYtTYyuTqW66j1r@
+3 PAGE Year: 1940; Census Place: Smithfield, Madison, New York; Rol
+4 CONC l: m-t0627-02624; Page: 4A; Enumeration District: 27-51
+3 OBJE @M510@
+3 _APID 1,2442::11240783
 2 SOUR @S152@
 3 PAGE New York State Department of Health; Albany, NY, USA; New Yo
 4 CONC rk State Marriage Index; Pearl L Jipson
@@ -15214,9 +15959,23 @@
 4 CONC strict: 01; City: Eaton; County: Madison; Page: 15
 3 OBJE @M307@
 3 _APID 1,2704::20715627
+2 SOUR @S179@
+3 PAGE Publication Date: 23/ Oct/ 2007; Publication Place: Oneida
+4 CONC , New York, USA; URL: http://www.zwire.com/site/news.cfm?brd
+4 CONC =1709&amp;dept_id=68846
+3 _APID 1,7545::154530353
+2 SOUR @S179@
+3 PAGE Publication Date: 23/ Oct/ 2007; Publication Place: Oneida
+4 CONC , New York, USA; URL: http://www.zwire.com/site/news.cfm?new
+4 CONC sid=18941886&amp;BRD=1709&amp;PAG=461&amp;dept_id=68846&amp;
+4 CONC rfi=6
+3 _APID 1,7545::154359371
 2 SOUR @S96@
 3 PAGE Pearl J Degroat
 3 _APID 1,60901::26688961
+2 SOUR @S96@
+3 PAGE Pearl L Gipson
+3 _APID 1,60901::781908805
 1 SEX F
 1 FAMC @F69@
 1 FAMS @F70@
@@ -15233,6 +15992,11 @@
 4 CONC ge: 4A; Enumeration District: 0009; FHL microfilm: 2341180
 3 OBJE @M310@
 3 _APID 1,6224::40868231
+2 SOUR @Uy92PZYtTYyuTqW66j1r@
+3 PAGE Year: 1940; Census Place: Smithfield, Madison, New York; Rol
+4 CONC l: m-t0627-02624; Page: 4A; Enumeration District: 27-51
+3 OBJE @M510@
+3 _APID 1,2442::11240783
 2 SOUR @W7LxqysiTQKb0jxIb32w@
 3 PAGE New York State Archives; Albany, New York; State Populatio
 4 CONC n Census Schedules, 1915; Election District: 01; Assembly Di
@@ -15298,11 +16062,26 @@
 3 OBJE @M310@
 3 _APID 1,6224::40868231
 2 NOTE Marital Status: Married; Relation to Head: Wife
+1 RESI
+2 DATE 1940
+2 PLAC Smithfield, Madison, New York, USA
+3 MAP
+4 LATI N42.9712
+4 LONG W75.6768
+2 SOUR @Uy92PZYtTYyuTqW66j1r@
+3 PAGE Year: 1940; Census Place: Smithfield, Madison, New York; Rol
+4 CONC l: m-t0627-02624; Page: 4A; Enumeration District: 27-51
+3 OBJE @M510@
+3 _APID 1,2442::11240783
+2 NOTE Marital Status: Married; Relation to Head: Wife
 1 DEAT
 2 DATE JAN 1993
 2 SOUR @S96@
 3 PAGE Pearl J Degroat
 3 _APID 1,60901::26688961
+0 @I278@ INDI
+1 NAME [REDACTED]
+1 FAMC @F69@
 0 @I222@ INDI
 1 NAME [REDACTED]
 1 FAMC @F82@
@@ -16030,6 +16809,21 @@
 2 SOUR @rp9Z8lHgQkCUwI6kJGpm@
 3 _APID 1,70572::7718700
 1 _XY -9875.00 -2325.00
+0 @I273@ INDI
+1 REFN 1828a5b6-09a7-47bd-aca5-a152878de72b
+1 NAME Charles /Marshall/
+1 SEX M
+1 FAMS @F111@
+0 @I296@ INDI
+1 REFN 18832aae-d86b-430a-ae15-1d418d5e2755
+1 NAME Maryanne //
+1 SEX F
+1 FAMS @F123@
+0 @I306@ INDI
+1 REFN 2be2dba3-2de4-494a-b3ee-cd344e18da1a
+1 NAME Peter /McDonough/
+1 SEX M
+1 FAMS @F126@
 0 @I183@ INDI
 1 REFN 02cc70b1-fd3a-4bc5-8020-0ddeaa65bbdd
 1 NAME Connie /Mennig/
@@ -16286,6 +17080,9 @@
 3 MAP
 4 LATI N42.9873
 4 LONG W85.0711
+0 @I277@ INDI
+1 NAME [REDACTED]
+1 FAMS @F113@
 0 @aRnSyVy2RNCIhMsIj2K9@ INDI
 1 REFN b7b0516c-904a-434c-a23b-a4d4a5cd2238
 1 NAME Alta Elnor /Mosher/
@@ -16975,22 +17772,62 @@
 2 DATE 1902
 1 DEAT
 2 DATE 1996
+0 @I274@ INDI
+1 NAME [REDACTED]
+1 FAMC @F71@
+1 FAMS @F112@
 0 @I193@ INDI
 1 REFN 9785bf13-8450-42be-a22b-935905c4e32a
-1 NAME Gerald E. /Richmond/
+1 NAME Gerald Ernest /Richmond/
 2 SOUR @S152@
 3 PAGE New York State Department of Health; Albany, NY, USA; New Yo
 4 CONC rk State Marriage Index; Gerald E. Richmond
 3 OBJE @M314@
 3 _APID 1,61632::3782796
+2 SOUR @S167@
+3 OBJE @M518@
+3 _APID 1,2238::303445055
 2 SOUR @S179@
 3 PAGE Publication Date: 20/ Sep/ 2005; Publication Place: Oneida
 4 CONC , New York, USA; URL: http://www.zwire.com/site/news.cfm?new
 4 CONC sid=15238495&amp;BRD=1709&amp;PAG=461&amp;dept_id=68846&amp;
 4 CONC rfi=6
 3 _APID 1,7545::78669354
+2 SOUR @NOkWCGM8RZO0xw4vd39X@
+3 PAGE Social Security Administration; Washington D.C., USA; Socia
+4 CONC l Security Death Index, Master File
+3 _APID 1,3693::51965924
 1 SEX M
 1 FAMS @F71@
+1 BIRT
+2 DATE 03 FEB 1907
+2 PLAC Lenox, Madison, New York, USA
+3 MAP
+4 LATI N43.0583
+4 LONG W75.7047
+2 SOUR @S167@
+3 OBJE @M518@
+3 _APID 1,2238::303445055
+2 SOUR @NOkWCGM8RZO0xw4vd39X@
+3 PAGE Social Security Administration; Washington D.C., USA; Socia
+4 CONC l Security Death Index, Master File
+3 _APID 1,3693::51965924
+1 RESI
+2 DATE 1942
+2 PLAC Lincoln, Madison, New York, USA
+3 MAP
+4 LATI N43.0298
+4 LONG W75.731
+2 SOUR @S167@
+3 OBJE @M518@
+3 _APID 1,2238::303445055
+2 NOTE Relative Relation to Head: Wife
+1 DEAT
+2 DATE 08 NOV 1992
+2 SOUR @NOkWCGM8RZO0xw4vd39X@
+3 PAGE Social Security Administration; Washington D.C., USA; Socia
+4 CONC l Security Death Index, Master File
+3 _APID 1,3693::51965924
 0 @I84@ INDI
 1 REFN d80b49dd-1c5e-41b5-b220-e98ee26ab476
 1 NAME Gershom /Rogers/
@@ -17236,6 +18073,11 @@
 3 _APID 1,60525::12389994
 1 _XY -11075.00 -2325.00
 1 _PHOTO @M285@
+0 @I280@ INDI
+1 REFN 0622f4d5-41de-43c3-ba44-b86998389bc8
+1 NAME Rosalie //
+1 SEX F
+1 FAMS @F114@
 0 @I195@ INDI
 1 REFN 77352011-7c77-4eac-9c5b-4d11292c2eca
 1 NAME Sandy //
@@ -18441,6 +19283,26 @@
 0 @I217@ INDI
 1 NAME [REDACTED]
 1 FAMS @F98@
+0 @I284@ INDI
+1 REFN 2f3515b6-640e-4b30-be62-13a96fb8b3ff
+1 NAME Lloyd /Stoker/
+1 SEX M
+1 FAMS @F116@
+0 @I301@ INDI
+1 REFN 1c6d0a11-7432-4d4c-8d02-5c558c7fd26c
+1 NAME Wilma M. /Stoker/
+2 SOUR @S152@
+3 PAGE New York State Department of Health; Albany, NY, USA; New Yo
+4 CONC rk State Marriage Index; "Wilma M Stoker"
+3 OBJE @M522@
+3 _APID 1,61632::2065887
+1 SEX F
+1 FAMS @F118@
+0 @I292@ INDI
+1 REFN 8c6d281c-7c8c-4af6-8505-ec8f60137c7a
+1 NAME Susan //
+1 SEX F
+1 FAMS @F121@
 0 @I262@ INDI
 1 REFN 990725be-6d1e-4ee8-8980-fd053fab7408
 1 NAME Gordon Ray /Tompkins/
@@ -18675,6 +19537,11 @@
 3 PAGE Legacy; URL: http://www.legacy.com/obituaries/oneidadispatch
 4 CONC /obituary.aspx?n=joyce-a-card&amp;pid=176916370
 3 _APID 1,7545::502909538
+0 @I286@ INDI
+1 REFN 27e26bc1-8c8f-4a55-aa4a-4d1fd1949ce6
+1 NAME /Wambsgam/
+1 SEX M
+1 FAMS @F117@
 0 @I110@ INDI
 1 REFN b0a072bb-996a-4626-bf35-ea62452e657d
 1 NAME Olive B. /Ward/
@@ -19273,6 +20140,11 @@
 3 _APID 1,6742::3308516
 2 NOTE Age: 35; Marital Status: Married; Relation to Head of House
 3 CONC : Wife
+0 @I275@ INDI
+1 REFN 388c8a9f-d8cb-4351-959e-b4a8c2a43c2a
+1 NAME Hugh /Wilke/
+1 SEX M
+1 FAMS @F112@
 0 @I105@ INDI
 1 REFN 5f3e5de5-b9d6-4281-91cd-048d74c19fef
 1 NAME Chapin C /Wood/
@@ -19508,9 +20380,36 @@
 0 @F74@ FAM
 1 HUSB @I200@
 1 WIFE @I197@
+0 @F124@ FAM
+1 HUSB @I297@
+1 WIFE @I298@
+0 @F121@ FAM
+1 HUSB @I291@
+1 WIFE @I292@
+0 @F122@ FAM
+1 HUSB @I293@
+1 WIFE @I294@
 0 @F72@ FAM
 1 HUSB @I194@
 1 WIFE @I192@
+1 CHIL @I289@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I291@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I293@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I295@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I297@
+2 _FREL Natural
+2 _MREL Natural
+0 @F123@ FAM
+1 HUSB @I295@
+1 WIFE @I296@
 0 @F79@ FAM
 1 HUSB @I208@
 1 WIFE @I207@
@@ -20116,6 +21015,27 @@
 3 MAP
 4 LATI N43.0583
 4 LONG W75.7047
+0 @F119@ FAM
+1 HUSB @I191@
+1 WIFE @I302@
+1 CHIL @I272@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I305@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I307@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I308@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I304@
+2 _FREL Natural
+2 _MREL Natural
+0 @F115@ FAM
+1 HUSB @I281@
+1 WIFE @I282@
 0 @F70@ FAM
 1 HUSB @I190@
 1 WIFE @I188@
@@ -20125,9 +21045,45 @@
 1 CHIL @I192@
 2 _FREL Natural
 2 _MREL Natural
+1 CHIL @I287@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I300@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I288@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I283@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I285@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I279@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I299@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I281@
+2 _FREL Natural
+2 _MREL Natural
+0 @F118@ FAM
+1 HUSB @I288@
+1 WIFE @I301@
+0 @F125@ FAM
+1 HUSB @I299@
+1 WIFE @I303@
+0 @F114@ FAM
+1 HUSB @I279@
+1 WIFE @I280@
 0 @F81@ FAM
 1 HUSB @I216@
 1 WIFE @I215@
+0 @F120@ FAM
+1 HUSB @I290@
+1 WIFE @I289@
 0 @F55@ FAM
 1 HUSB @I118@
 1 WIFE @I133@
@@ -20290,6 +21246,9 @@
 1 CHIL @I253@
 2 _FREL Natural
 2 _MREL Natural
+0 @F127@ FAM
+1 HUSB @I309@
+1 WIFE @I308@
 0 @F69@ FAM
 1 HUSB @I187@
 1 WIFE @I172@
@@ -20297,6 +21256,12 @@
 2 _FREL Natural
 2 _MREL Natural
 1 CHIL @I189@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I278@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I276@
 2 _FREL Natural
 2 _MREL Natural
 1 MARR
@@ -20314,6 +21279,9 @@
 3 PAGE New York State Department of Health; Albany, NY, USA; New Yo
 4 CONC rk State Marriage Index; Grace A Colvin
 3 OBJE @M445@
+0 @F113@ FAM
+1 HUSB @I276@
+1 WIFE @I277@
 0 @F82@ FAM
 1 HUSB @I221@
 1 WIFE @I230@
@@ -20363,6 +21331,12 @@
 4 CONC : 1241071
 3 OBJE @6H37w1sWR0SoGBYGuH5p@
 3 _APID 1,7602::55837888
+0 @F111@ FAM
+1 HUSB @I273@
+1 WIFE @I272@
+0 @F126@ FAM
+1 HUSB @I306@
+1 WIFE @I305@
 0 @F67@ FAM
 1 HUSB @I180@
 1 WIFE @I212@
@@ -20488,6 +21462,9 @@
 0 @F71@ FAM
 1 HUSB @I193@
 1 WIFE @I189@
+1 CHIL @I274@
+2 _FREL Natural
+2 _MREL Natural
 0 @F51@ FAM
 1 HUSB @I84@
 1 WIFE @I102@
@@ -20537,6 +21514,9 @@
 0 @F86@ FAM
 1 HUSB @I239@
 1 WIFE @I238@
+0 @F116@ FAM
+1 HUSB @I284@
+1 WIFE @I283@
 0 @F105@ FAM
 1 HUSB @I262@
 1 WIFE @I261@
@@ -20558,6 +21538,9 @@
 1 CHIL @I207@
 2 _FREL Natural
 2 _MREL Natural
+0 @F117@ FAM
+1 HUSB @I286@
+1 WIFE @I285@
 0 @F104@ FAM
 1 HUSB @I258@
 1 WIFE @h1dtQGQqSB23NplobbYu@
@@ -20614,6 +21597,9 @@
 2 _MREL Natural
 1 MARR
 2 DATE 28 OCT 1813
+0 @F112@ FAM
+1 HUSB @I275@
+1 WIFE @I274@
 0 @F53@ FAM
 1 HUSB @I105@
 1 WIFE @I100@
@@ -20813,11 +21799,6 @@
 1 AUTH Godfrey Memorial Library, comp.
 1 PUBL Ancestry.com Operations Inc; Location: Provo, UT, USA; Date
 2 CONC : 1999
-0 @S197@ SOUR
-1 REPO @R1@
-1 TITL Ancestry Family Trees
-1 PUBL Online publication - Provo, UT, USA: Ancestry.com.  Origina
-2 CONC l data:  Family Tree files submitted by Ancestry members.
 0 @S193@ SOUR
 1 REPO @R1@
 1 TITL Biography & Genealogy Master Index (BGMI)
@@ -21214,6 +22195,13 @@
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations Inc; Location: Lehi, UT, USA; Date
 2 CONC : 2019
+0 @S201@ SOUR
+1 REPO @R1@
+1 TITL Niagara Falls, Ontario, Canada, Honeymoon and Visitor Regist
+2 CONC ers, 1949-2011
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.; Location: Lehi, UT, USA; Date
+2 CONC : 2016
 0 @haeMsoUKQIevFSMBOQze@ SOUR
 1 REFN 70548e6e-0d5f-40ac-b241-aa5bf46e0a33
 1 TITL NY Census, 1855, Madison Co
@@ -26075,4 +27063,140 @@
 2 CONC S. WWII Draft Cards Young Men, 1940-1947(12).jpg
 2 FORM jpg
 2 TITL U.S. WWII Draft Cards Young Men, 1940-1947
+0 @M507@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Colvin Media\19
+2 CONC 40 United States Federal Census(13).jpg
+2 FORM jpg
+2 TITL 1940 United States Federal Census
+2 _TEXT Year: 1940; Census Place: Eaton, Madison, New York; Roll: m-
+3 CONC t0627-02624; Page: 8A; Enumeration District: 27-12
+0 @M508@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Colvin Media\Ne
+2 CONC w York State, Birth Index, 1881-1942(27).jpg
+2 FORM jpg
+2 TITL New York State, Birth Index, 1881-1942
+2 _TEXT New York State Department of Health; Albany, NY, USA; New Yo
+3 CONC rk State Birth Index
+0 @M509@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Colvin Media\19
+2 CONC 30 United States Federal Census(16).jpg
+2 FORM jpg
+2 TITL 1930 United States Federal Census
+2 _TEXT Year: 1930; Census Place: Eaton, Madison, New York; Page: 8A
+3 CONC ; Enumeration District: 0011; FHL microfilm: 2341180
+0 @M510@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Colvin Media\19
+2 CONC 40 United States Federal Census(14).jpg
+2 FORM jpg
+2 TITL 1940 United States Federal Census
+2 _TEXT Year: 1940; Census Place: Smithfield, Madison, New York; Rol
+3 CONC l: m-t0627-02624; Page: 4A; Enumeration District: 27-51
+0 @M511@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Colvin Media\Ne
+2 CONC w York State, Birth Index, 1881-1942(28).jpg
+2 FORM jpg
+2 TITL New York State, Birth Index, 1881-1942
+2 _TEXT New York State Department of Health; Albany, NY, USA; New Yo
+3 CONC rk State Birth Index
+0 @M512@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Colvin Media\19
+2 CONC 20 United States Federal Census(16).jpg
+2 FORM jpg
+2 TITL 1920 United States Federal Census
+2 _TEXT Year: 1920; Census Place: Smithfield, Madison, New York; Rol
+3 CONC l: T625_1119; Page: 6A; Enumeration District: 129
+0 @M513@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Colvin Media\Ne
+2 CONC w York State, Marriage Index, 1881-1967(51).jpg
+2 FORM jpg
+2 TITL New York State, Marriage Index, 1881-1967
+2 _TEXT New York State Department of Health; Albany, NY, USA; New Yo
+3 CONC rk State Marriage Index; "Edward N Degroat"
+0 @M514@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Colvin Media\Ni
+2 CONC agara Falls, Ontario, Canada, Honeymoon and Visitor Register
+2 CONC s, 1949-2011.jpg
+2 FORM jpg
+2 TITL Niagara Falls, Ontario, Canada, Honeymoon and Visitor Regist
+3 CONC ers, 1949-2011
+0 @M515@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Colvin Media\Ne
+2 CONC w York State, Marriage Index, 1881-1967(52).jpg
+2 FORM jpg
+2 TITL New York State, Marriage Index, 1881-1967
+2 _TEXT New York State Department of Health; Albany, NY, USA; New Yo
+3 CONC rk State Marriage Index; "Carl J Degroat"
+0 @M516@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Colvin Media\Ne
+2 CONC w York State, Birth Index, 1881-1942(29).jpg
+2 FORM jpg
+2 TITL New York State, Birth Index, 1881-1942
+2 _TEXT New York State Department of Health; Albany, NY, USA; New Yo
+3 CONC rk State Birth Index
+0 @M517@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Colvin Media\Ne
+2 CONC w York State, Birth Index, 1881-1942(30).jpg
+2 FORM jpg
+2 TITL New York State, Birth Index, 1881-1942
+2 _TEXT New York State Department of Health; Albany, NY, USA; New Yo
+3 CONC rk State Birth Index
+0 @M518@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Colvin Media\U.
+2 CONC S. WWII Draft Cards Young Men, 1940-1947(13).jpg
+2 FORM jpg
+2 TITL U.S. WWII Draft Cards Young Men, 1940-1947
+0 @M519@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Colvin Media\U.
+2 CONC S. WWII Draft Cards Young Men, 1940-1947(14).jpg
+2 FORM jpg
+2 TITL U.S. WWII Draft Cards Young Men, 1940-1947
+0 @M520@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Colvin Media\Ne
+2 CONC w York State, Birth Index, 1881-1942(31).jpg
+2 FORM jpg
+2 TITL New York State, Birth Index, 1881-1942
+2 _TEXT New York State Department of Health; Albany, NY, USA; New Yo
+3 CONC rk State Birth Index
+0 @M521@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Colvin Media\Ne
+2 CONC w York State, Birth Index, 1881-1942(32).jpg
+2 FORM jpg
+2 TITL New York State, Birth Index, 1881-1942
+2 _TEXT New York State Department of Health; Albany, NY, USA; New Yo
+3 CONC rk State Birth Index
+0 @M522@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Colvin Media\Ne
+2 CONC w York State, Marriage Index, 1881-1967(53).jpg
+2 FORM jpg
+2 TITL New York State, Marriage Index, 1881-1967
+2 _TEXT New York State Department of Health; Albany, NY, USA; New Yo
+3 CONC rk State Marriage Index; "Wilma M Stoker"
+0 @M523@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Colvin Media\Ne
+2 CONC w York State, Marriage Index, 1881-1967(54).jpg
+2 FORM jpg
+2 TITL New York State, Marriage Index, 1881-1967
+2 _TEXT New York State Department of Health; Albany, NY, USA; New Yo
+3 CONC rk State Marriage Index; "Ximena A Bliss"
+0 @M524@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Colvin Media\Ne
+2 CONC w York State, Birth Index, 1881-1942(33).jpg
+2 FORM jpg
+2 TITL New York State, Birth Index, 1881-1942
+2 _TEXT New York State Department of Health; Albany, NY, USA; New Yo
+3 CONC rk State Birth Index
+0 @M525@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Colvin Media\Ne
+2 CONC w York State, Marriage Index, 1881-1967(55).jpg
+2 FORM jpg
+2 TITL New York State, Marriage Index, 1881-1967
+2 _TEXT New York State Department of Health; Albany, NY, USA; New Yo
+3 CONC rk State Marriage Index
+0 @M526@ OBJE
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Colvin Media\Ne
+2 CONC w York State, Marriage Index, 1881-1967(56).jpg
+2 FORM jpg
+2 TITL New York State, Marriage Index, 1881-1967
+2 _TEXT New York State Department of Health; Albany, NY, USA; New Yo
+3 CONC rk State Marriage Index
 0 TRLR
