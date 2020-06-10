@@ -3,20 +3,20 @@
 1 GEDC
 2 VERS 5.5.1
 2 FORM LINEAGE-LINKED
-1 COPR Copyright © 1998–2019, Christopher Alan Mosher, Shelton, CT
+1 COPR Copyright © 1998–2020, Christopher Alan Mosher, Shelton, CT
 2 CONC , USA.
 1 SUBM @Umy2qBWIRUiwVSS6Hcn4@
 1 SOUR FTM
-2 VERS 23.2.0.1540
+2 VERS 24.0.1.1252
 2 NAME Family Tree Maker for Windows
 2 CORP The Software MacKiev Company
 3 ADDR 30 Union Wharf
 4 CONT Boston, MA 02109
 3 PHON (617) 227-6681
 1 DEST FTM
-1 FILE rollo_research_2019-09-21-20-36-21.ftm.ged
-1 DATE 21 SEP 2019
-2 TIME 20:37:07
+1 FILE rollo_research_2020-06-10-21-36-39.ftm.ged
+1 DATE 10 JUN 2020
+2 TIME 21:34:29
 0 @Umy2qBWIRUiwVSS6Hcn4@ SUBM
 1 NAME Christopher Alan Mosher
 2 EMAIL cmosher01@@gmail.com
@@ -44,15 +44,15 @@
 1 NAME Faith /Blackman/
 2 SOUR @S18@
 3 OBJE @M29@
-3 _APID 1,3032::537679
+3 _APID 3032:537679
 2 SOUR @S16@
 3 PAGE Faith Blackman
 3 OBJE @M25@
-3 _APID 1,61367::2887
+3 _APID 61367:2887
 2 SOUR @S15@
 3 PAGE Faith Blackman
 3 OBJE @M28@
-3 _APID 1,1062::95515
+3 _APID 1062:95515
 1 SEX F
 1 FAMS @F9@
 1 BIRT
@@ -69,7 +69,8 @@
 4 LONG W72.2131
 2 SOUR @S18@
 3 OBJE @M29@
-3 _APID 1,3032::537679
+3 _APID 3032:537679
+1 _GUID e6e149ac-f61c-4e5c-86b1-3a0486acf2ea
 0 @I21@ INDI
 1 REFN abc4ad15-7ae2-4c29-becc-7f6f5ae419d0
 1 NAME Amanda Lovina /Burdick/
@@ -81,6 +82,7 @@
 3 MAP
 4 LATI N42.6756
 4 LONG W75.8772
+1 _GUID 1f1de3fd-88ed-4a00-b0fc-457dc301130b
 0 @I25@ INDI
 1 REFN a68bc2e3-a6e9-43ba-9db2-d38114466cc8
 1 NAME Elizabeth Celinda /Burdick/
@@ -97,6 +99,7 @@
 1 DEAT
 2 DATE 22 AUG 1922
 2 PLAC Butler Center, Wayne, Steuben, New York, USA
+1 _GUID 0dbf9775-18f0-4824-91f8-ff955ef77d0f
 0 @I22@ INDI
 1 REFN fe021644-3649-4069-b34c-c916ee41ff2d
 1 NAME Esther Almeda /Burdick/
@@ -108,6 +111,7 @@
 3 MAP
 4 LATI N42.6756
 4 LONG W75.8772
+1 _GUID 6489b926-703c-4198-afe3-131176f0abef
 0 @I23@ INDI
 1 REFN 931562a4-eb17-43c7-b09a-f7b69487626d
 1 NAME Phoebe /Burdick/
@@ -119,6 +123,7 @@
 3 MAP
 4 LATI N42.6756
 4 LONG W75.8772
+1 _GUID cec212f9-31a1-483d-aa25-bd21de1d7737
 0 @I4@ INDI
 1 REFN e73699d6-c271-4f65-bece-cf012e5d7bd0
 1 NAME Samantha /Burdick/
@@ -126,15 +131,15 @@
 3 PAGE Year: 1850; Census Place: Lincklaen, Chenango, New York; Rol
 4 CONC l: M432_487; Page: 72B; Image: 151
 3 OBJE @M19@
-3 _APID 1,8054::11481070
+3 _APID 8054:11481070
 2 SOUR @S4@
 3 PAGE Year: 1860; Census Place: Pompey, Onondaga, New York; Roll
 4 CONC : M653_829; Page: 748; Family History Library Film: 803829
 3 OBJE @M18@
-3 _APID 1,7667::47651805
+3 _APID 7667:47651805
 2 SOUR @S2@
 3 OBJE @M3@
-3 _APID 1,7181::1655666649
+3 _APID 7181:1655666649
 1 SEX F
 1 FAMC @F8@
 1 FAMS @F2@
@@ -148,15 +153,15 @@
 3 PAGE Year: 1850; Census Place: Lincklaen, Chenango, New York; Rol
 4 CONC l: M432_487; Page: 72B; Image: 151
 3 OBJE @M19@
-3 _APID 1,8054::11481070
+3 _APID 8054:11481070
 2 SOUR @S4@
 3 PAGE Year: 1860; Census Place: Pompey, Onondaga, New York; Roll
 4 CONC : M653_829; Page: 748; Family History Library Film: 803829
 3 OBJE @M18@
-3 _APID 1,7667::47651805
+3 _APID 7667:47651805
 2 SOUR @S2@
 3 OBJE @M3@
-3 _APID 1,7181::1655666649
+3 _APID 7181:1655666649
 1 RESI
 2 DATE 1850
 2 PLAC Lincklaen, Chenango, New York, USA
@@ -167,7 +172,7 @@
 3 PAGE Year: 1850; Census Place: Lincklaen, Chenango, New York; Rol
 4 CONC l: M432_487; Page: 72B; Image: 151
 3 OBJE @M19@
-3 _APID 1,8054::11481070
+3 _APID 8054:11481070
 1 RESI
 2 DATE ABT MAY 1852
 2 PLAC DeRuyter, Madison, New York, USA
@@ -176,7 +181,7 @@
 2 PLAC DeRuyter, Madison, New York, USA
 2 SOUR @S2@
 3 OBJE @M3@
-3 _APID 1,7181::1655666649
+3 _APID 7181:1655666649
 2 NOTE Relation to Head: Wife
 1 RESI
 2 DATE 1860
@@ -188,11 +193,12 @@
 3 PAGE Year: 1860; Census Place: Pompey, Onondaga, New York; Roll
 4 CONC : M653_829; Page: 748; Family History Library Film: 803829
 3 OBJE @M18@
-3 _APID 1,7667::47651805
+3 _APID 7667:47651805
 2 NOTE Residence Post Office: Pompey
 1 DEAT
 2 DATE 31 MAR 1901
 2 PLAC Pompey, Onandoga, NY, USA
+1 _GUID dfefe073-9e06-4dcd-8ad9-e92861c2198b
 0 @I24@ INDI
 1 REFN cf8d6ef7-ff25-44e7-8bdb-ce16974f4fb1
 1 NAME Sarah B. /Burdick/
@@ -200,6 +206,7 @@
 1 FAMC @F8@
 1 BIRT
 2 DATE 1837
+1 _GUID 286d4ecd-c4fa-450f-8317-ed9da77b16dc
 0 @I19@ INDI
 1 REFN 9ab683b6-e7a6-4d4c-92b0-e61013716283
 1 NAME Spaulding /Burdick/
@@ -217,17 +224,16 @@
 3 MAP
 4 LATI N42.6756
 4 LONG W75.8772
+1 _GUID 962f7ad0-4d7c-452c-bce3-f1cd269c207a
 0 @I17@ INDI
 1 REFN d50de5dd-d1db-4d23-92c3-2ee4112cb367
 1 NAME Joseph /Byram/
 2 SOUR @S1@
 3 PAGE Iowa, State Census Collection, 1836-1925 Record
 3 OBJE @M13@
-3 _APID 1,1084::7557130
+3 _APID 1084:7557130
 1 NAME /Byram/
 1 SEX M
-2 SOUR @S1@
-3 _APID 1,1084::7557130
 1 FAMS @F6@
 1 BIRT
 2 DATE ABT 1785
@@ -238,7 +244,7 @@
 2 SOUR @S1@
 3 PAGE Iowa, State Census Collection, 1836-1925 Record
 3 OBJE @M13@
-3 _APID 1,1084::7557130
+3 _APID 1084:7557130
 1 RESI
 2 DATE 1856
 2 PLAC Hardin, Hardin, Iowa, USA
@@ -248,10 +254,11 @@
 2 SOUR @S1@
 3 PAGE Iowa, State Census Collection, 1836-1925 Record
 3 OBJE @M13@
-3 _APID 1,1084::7557130
+3 _APID 1084:7557130
 2 NOTE Marital Status: Married
 1 BIRT
 2 DATE ABT 1875
+1 _GUID 41fc9bfd-f173-4399-a753-7c141211c6c1
 0 @I10@ INDI
 1 REFN 4dc03f39-a10f-4a3f-b99b-08ce2d12972c
 1 NAME Louisa A. /Byram/
@@ -259,40 +266,40 @@
 3 PAGE Year: 1850; Census Place: De Ruyter, Madison, New York; Roll
 4 CONC : M432_527; Page: 285A; Image: 30
 3 OBJE @M6@
-3 _APID 1,8054::7044427
+3 _APID 8054:7044427
 2 SOUR @S4@
 3 PAGE Year: 1860; Census Place: De Ruyter, Madison, New York; Roll
 4 CONC : M653_780; Page: 258; Family History Library Film: 803780
 3 OBJE @M5@
-3 _APID 1,7667::46710229
+3 _APID 7667:46710229
 2 SOUR @S6@
 3 PAGE Year: 1870; Census Place: Hardin, Hardin, Iowa; Roll: M593_3
 4 CONC 94; Page: 450A; Family History Library Film: 545893
 3 OBJE @M8@
-3 _APID 1,7163::35377409
+3 _APID 7163:35377409
 2 SOUR @S8@
 3 PAGE Year: 1880; Census Place: Iowa Falls, Hardin, Iowa; Roll: 34
 4 CONC 3; Page: 373B; Enumeration District: 117
 3 OBJE @M11@
-3 _APID 1,6742::32507927
+3 _APID 6742:32507927
 2 SOUR @S7@
 3 PAGE Iowa Department of Public Health; Des Moines, Iowa; Series T
 4 CONC itle: Iowa Marriage Records, 1880–1922; Record Type: Textua
 4 CONC l Records
 3 OBJE @M10@
-3 _APID 1,8823::1503311867
+3 _APID 8823:1503311867
 2 SOUR @S1@
 3 OBJE @M2@
-3 _APID 1,1084::6890447
+3 _APID 1084:6890447
 2 SOUR @S9@
 3 PAGE The New York Genealogical and Biographical Record (quarterly
 4 CONC -1941) - Extracts; Publication Place: New York; Publisher: N
 4 CONC ew York Genealogical and Biographical Society; Page Number
 4 CONC : 235
-3 _APID 1,7831::102158
+3 _APID 7831:102158
 2 SOUR @S5@
 3 OBJE @M7@
-3 _APID 1,7218::1863830
+3 _APID 7218:1863830
 1 SEX F
 1 FAMC @F6@
 1 FAMS @F4@
@@ -305,7 +312,7 @@
 4 CONC -1941) - Extracts; Publication Place: New York; Publisher: N
 4 CONC ew York Genealogical and Biographical Society; Page Number
 4 CONC : 235
-3 _APID 1,7831::102158
+3 _APID 7831:102158
 1 BIRT
 2 DATE ABT 1822
 2 PLAC New York County, New York, USA
@@ -316,28 +323,28 @@
 3 PAGE Year: 1850; Census Place: De Ruyter, Madison, New York; Roll
 4 CONC : M432_527; Page: 285A; Image: 30
 3 OBJE @M6@
-3 _APID 1,8054::7044427
+3 _APID 8054:7044427
 2 SOUR @S4@
 3 PAGE Year: 1860; Census Place: De Ruyter, Madison, New York; Roll
 4 CONC : M653_780; Page: 258; Family History Library Film: 803780
 3 OBJE @M5@
-3 _APID 1,7667::46710229
+3 _APID 7667:46710229
 2 SOUR @S6@
 3 PAGE Year: 1870; Census Place: Hardin, Hardin, Iowa; Roll: M593_3
 4 CONC 94; Page: 450A; Family History Library Film: 545893
 3 OBJE @M8@
-3 _APID 1,7163::35377409
+3 _APID 7163:35377409
 2 SOUR @S8@
 3 PAGE Year: 1880; Census Place: Iowa Falls, Hardin, Iowa; Roll: 34
 4 CONC 3; Page: 373B; Enumeration District: 117
 3 OBJE @M11@
-3 _APID 1,6742::32507927
+3 _APID 6742:32507927
 2 SOUR @S1@
 3 OBJE @M2@
-3 _APID 1,1084::6890447
+3 _APID 1084:6890447
 2 SOUR @S5@
 3 OBJE @M7@
-3 _APID 1,7218::1863830
+3 _APID 7218:1863830
 1 RESI
 2 DATE 1850
 2 PLAC DeRuyter, Madison, New York, USA
@@ -345,7 +352,7 @@
 3 PAGE Year: 1850; Census Place: De Ruyter, Madison, New York; Roll
 4 CONC : M432_527; Page: 285A; Image: 30
 3 OBJE @M6@
-3 _APID 1,8054::7044427
+3 _APID 8054:7044427
 1 RESI
 2 DATE 1855
 2 PLAC DeRuyter, Madison, New York, USA
@@ -357,14 +364,14 @@
 3 PAGE Year: 1860; Census Place: De Ruyter, Madison, New York; Roll
 4 CONC : M653_780; Page: 258; Family History Library Film: 803780
 3 OBJE @M5@
-3 _APID 1,7667::46710229
+3 _APID 7667:46710229
 2 NOTE Residence Post Office: De Ruyter
 1 RESI
 2 DATE 1865
 2 PLAC DeRuyter, Madison, New York, USA
 2 SOUR @S5@
 3 OBJE @M7@
-3 _APID 1,7218::1863830
+3 _APID 7218:1863830
 2 NOTE Relation to Head of House: Head
 1 RESI
 2 DATE 1870
@@ -376,7 +383,7 @@
 3 PAGE Year: 1870; Census Place: Hardin, Hardin, Iowa; Roll: M593_3
 4 CONC 94; Page: 450A; Family History Library Film: 545893
 3 OBJE @M8@
-3 _APID 1,7163::35377409
+3 _APID 7163:35377409
 2 NOTE Residence Post Office: Eldora
 1 RESI
 2 DATE 1880
@@ -388,7 +395,7 @@
 3 PAGE Year: 1880; Census Place: Iowa Falls, Hardin, Iowa; Roll: 34
 4 CONC 3; Page: 373B; Enumeration District: 117
 3 OBJE @M11@
-3 _APID 1,6742::32507927
+3 _APID 6742:32507927
 2 NOTE Marital Status: Widowed; Relation to Head: Self
 1 RESI
 2 DATE 1885
@@ -398,17 +405,18 @@
 4 LONG W91.4822
 2 SOUR @S1@
 3 OBJE @M2@
-3 _APID 1,1084::6890447
+3 _APID 1084:6890447
 2 NOTE Marital Status: Widowed
+1 _GUID 615c1e46-980d-4d22-b03c-d2a59d83f255
 0 @I13@ INDI
 1 REFN 205cfe95-2270-4002-b4d8-b02f0d73397a
 1 NAME Mary A. /Byram/
 2 SOUR @S1@
 3 OBJE @M16@
-3 _APID 1,1084::7557035
+3 _APID 1084:7557035
 2 SOUR @S5@
 3 OBJE @M7@
-3 _APID 1,7218::1863797
+3 _APID 7218:1863797
 1 SEX F
 1 FAMC @F6@
 1 BIRT
@@ -419,10 +427,10 @@
 4 LONG W73.9721
 2 SOUR @S1@
 3 OBJE @M16@
-3 _APID 1,1084::7557035
+3 _APID 1084:7557035
 2 SOUR @S5@
 3 OBJE @M7@
-3 _APID 1,7218::1863797
+3 _APID 7218:1863797
 1 RESI
 2 DATE 1856
 2 PLAC Hardin, Hardin, Iowa, USA
@@ -431,14 +439,15 @@
 4 LONG W91.4822
 2 SOUR @S1@
 3 OBJE @M16@
-3 _APID 1,1084::7557035
+3 _APID 1084:7557035
 1 RESI
 2 DATE 1865
 2 PLAC DeRuyter, Madison, New York, USA
 2 SOUR @S5@
 3 OBJE @M7@
-3 _APID 1,7218::1863797
+3 _APID 7218:1863797
 2 NOTE Relation to Head of House: Sister
+1 _GUID 722ebb1a-95fc-40d6-99eb-d9c5551ff944
 0 @I15@ INDI
 1 REFN 60f6e624-d08f-4f8f-ab12-3daf2a3ff820
 1 NAME Elnar C. /Jorden/
@@ -447,10 +456,10 @@
 4 CONC itle: Iowa Marriage Records, 1880–1922; Record Type: Textua
 4 CONC l Records; Elnar C Jorden
 3 OBJE @M10@
-3 _APID 1,8823::3311867
+3 _APID 8823:3311867
 2 SOUR @S1@
 3 OBJE @M2@
-3 _APID 1,1084::6890448
+3 _APID 1084:6890448
 1 SEX M
 1 FAMS @F5@
 1 BIRT
@@ -464,10 +473,10 @@
 4 CONC itle: Iowa Marriage Records, 1880–1922; Record Type: Textua
 4 CONC l Records; Elnar C Jorden
 3 OBJE @M10@
-3 _APID 1,8823::3311867
+3 _APID 8823:3311867
 2 SOUR @S1@
 3 OBJE @M2@
-3 _APID 1,1084::6890448
+3 _APID 1084:6890448
 1 RESI
 2 DATE 1885
 2 PLAC Hardin, Hardin, Iowa, USA
@@ -476,14 +485,15 @@
 4 LONG W91.4822
 2 SOUR @S1@
 3 OBJE @M2@
-3 _APID 1,1084::6890448
+3 _APID 1084:6890448
 2 NOTE Marital Status: Married
+1 _GUID 9ea1cd9e-3b5c-468b-a01a-c93fda0a14c4
 0 @I1@ INDI
 1 REFN 33c73820-3c26-4e31-a41c-6db3381b9658
 1 NAME Mary M. /Jorden/
 2 SOUR @S1@
 3 OBJE @M2@
-3 _APID 1,1084::6890450
+3 _APID 1084:6890450
 1 SEX F
 1 FAMC @F5@
 1 BIRT
@@ -494,7 +504,7 @@
 4 LONG W91.4822
 2 SOUR @S1@
 3 OBJE @M2@
-3 _APID 1,1084::6890450
+3 _APID 1084:6890450
 1 RESI
 2 DATE 1885
 2 PLAC Hardin, Hardin, Iowa, USA
@@ -503,8 +513,9 @@
 4 LONG W91.4822
 2 SOUR @S1@
 3 OBJE @M2@
-3 _APID 1,1084::6890450
+3 _APID 1084:6890450
 2 NOTE Marital Status: Single
+1 _GUID acba8099-bb30-4422-b0dc-8a7af20a1d08
 0 @I16@ INDI
 1 REFN 5daad5d8-30f2-45d0-8ab5-f1612f63ac6b
 1 NAME Addie /Lewis/
@@ -512,7 +523,7 @@
 3 PAGE Year: 1880; Census Place: Iowa Falls, Hardin, Iowa; Roll: 34
 4 CONC 3; Page: 374C; Enumeration District: 117
 3 OBJE @M14@
-3 _APID 1,6742::32154824
+3 _APID 6742:32154824
 1 SEX F
 1 FAMC @F7@
 1 BIRT
@@ -525,7 +536,7 @@
 3 PAGE Year: 1880; Census Place: Iowa Falls, Hardin, Iowa; Roll: 34
 4 CONC 3; Page: 374C; Enumeration District: 117
 3 OBJE @M14@
-3 _APID 1,6742::32154824
+3 _APID 6742:32154824
 1 RESI
 2 DATE 1880
 2 PLAC Iowa Falls, Hardin, Iowa, USA
@@ -536,23 +547,24 @@
 3 PAGE Year: 1880; Census Place: Iowa Falls, Hardin, Iowa; Roll: 34
 4 CONC 3; Page: 374C; Enumeration District: 117
 3 OBJE @M14@
-3 _APID 1,6742::32154824
+3 _APID 6742:32154824
 2 NOTE Marital Status: Single; Relation to Head: Adopted Daughter
+1 _GUID 33f44b0a-c1bc-4b69-9068-cc19f1394430
 0 @I12@ INDI
 1 REFN a2706414-b1f6-4d6d-a38f-850c8fa94171
 1 NAME Maragret //
 2 SOUR @S1@
 3 OBJE @M13@
-3 _APID 1,1084::7557131
+3 _APID 1084:7557131
 2 SOUR @S9@
 3 PAGE The New York Genealogical and Biographical Record (quarterly
 4 CONC -1941) - Extracts; Publication Place: New York; Publisher: N
 4 CONC ew York Genealogical and Biographical Society; Page Number
 4 CONC : 82
-3 _APID 1,7831::102159
+3 _APID 7831:102159
 2 SOUR @S5@
 3 OBJE @M7@
-3 _APID 1,7218::1864381
+3 _APID 7218:1864381
 1 SEX F
 1 FAMS @F6@
 1 BIRT
@@ -563,10 +575,10 @@
 4 LONG W73.9721
 2 SOUR @S1@
 3 OBJE @M13@
-3 _APID 1,1084::7557131
+3 _APID 1084:7557131
 2 SOUR @S5@
 3 OBJE @M7@
-3 _APID 1,7218::1864381
+3 _APID 7218:1864381
 1 RESI
 2 DATE 1821
 2 PLAC The Bowery, New York County, New York, USA
@@ -575,7 +587,7 @@
 4 CONC -1941) - Extracts; Publication Place: New York; Publisher: N
 4 CONC ew York Genealogical and Biographical Society; Page Number
 4 CONC : 82
-3 _APID 1,7831::102159
+3 _APID 7831:102159
 1 RESI
 2 DATE 1856
 2 PLAC Hardin, Hardin, Iowa, USA
@@ -584,35 +596,36 @@
 4 LONG W91.4822
 2 SOUR @S1@
 3 OBJE @M13@
-3 _APID 1,1084::7557131
+3 _APID 1084:7557131
 2 NOTE Marital Status: Married
 1 RESI
 2 DATE 1865
 2 PLAC DeRuyter, Madison, New York, USA
 2 SOUR @S5@
 3 OBJE @M7@
-3 _APID 1,7218::1864381
+3 _APID 7218:1864381
 2 NOTE Relation to Head of House: Mother
+1 _GUID 4ef5ea65-6cb8-4a9b-8e69-2abad78a84d5
 0 @I8@ INDI
 1 REFN ac53ccc1-18b1-4ca3-af34-eb36e341e0ba
 1 NAME Cornelia /Parslow/
 2 SOUR @S2@
 3 OBJE @M9@
-3 _APID 1,7181::1655657075
+3 _APID 7181:1655657075
 1 NAME Cornelia /Rollo/
 2 SOUR @S4@
 3 PAGE Year: 1860; Census Place: De Ruyter, Madison, New York; Roll
 4 CONC : M653_780; Page: 258; Family History Library Film: 803780
 3 OBJE @M5@
-3 _APID 1,7667::46710230
+3 _APID 7667:46710230
 2 SOUR @S6@
 3 PAGE Year: 1870; Census Place: Georgetown, Madison, New York; Rol
 4 CONC l: M593_967; Page: 208A; Family History Library Film: 552466
 3 OBJE @M12@
-3 _APID 1,7163::24729335
+3 _APID 7163:24729335
 2 SOUR @S5@
 3 OBJE @M7@
-3 _APID 1,7218::1863826
+3 _APID 7218:1863826
 1 SEX F
 1 FAMC @F1@
 1 FAMC @F4@
@@ -637,39 +650,39 @@
 3 PAGE Year: 1860; Census Place: De Ruyter, Madison, New York; Roll
 4 CONC : M653_780; Page: 258; Family History Library Film: 803780
 3 OBJE @M5@
-3 _APID 1,7667::46710230
+3 _APID 7667:46710230
 2 SOUR @S6@
 3 PAGE Year: 1870; Census Place: Georgetown, Madison, New York; Rol
 4 CONC l: M593_967; Page: 208A; Family History Library Film: 552466
 3 OBJE @M12@
-3 _APID 1,7163::24729335
+3 _APID 7163:24729335
 2 SOUR @S2@
 3 OBJE @M9@
-3 _APID 1,7181::1655657075
+3 _APID 7181:1655657075
 2 SOUR @S5@
 3 OBJE @M7@
-3 _APID 1,7218::1863826
+3 _APID 7218:1863826
 2 SOUR @S12@
 3 OBJE @M22@
-3 _APID 1,7250::1398341614
+3 _APID 7250:1398341614
 1 RESI
 2 DATE ABT MAY 1852
 2 PLAC DeRuyter, Madison, New York, USA
 2 SOUR @S2@
 3 OBJE @M9@
-3 _APID 1,7181::1655657075
+3 _APID 7181:1655657075
 1 ADOP
 2 DATE ABT 1853
 2 PLAC DeRuyter, Madison, New York, USA
 2 SOUR @S2@
 3 OBJE @M9@
-3 _APID 1,7181::1655657075
+3 _APID 7181:1655657075
 1 RESI
 2 DATE 1855
 2 PLAC DeRuyter, Madison, New York, USA
 2 SOUR @S2@
 3 OBJE @M9@
-3 _APID 1,7181::1655657075
+3 _APID 7181:1655657075
 2 NOTE Relation to Head: Adopted Daughter
 1 RESI
 2 DATE 1860
@@ -678,14 +691,14 @@
 3 PAGE Year: 1860; Census Place: De Ruyter, Madison, New York; Roll
 4 CONC : M653_780; Page: 258; Family History Library Film: 803780
 3 OBJE @M5@
-3 _APID 1,7667::46710230
+3 _APID 7667:46710230
 2 NOTE Residence Post Office: De Ruyter
 1 RESI
 2 DATE 1865
 2 PLAC DeRuyter, Madison, New York, USA
 2 SOUR @S5@
 3 OBJE @M7@
-3 _APID 1,7218::1863826
+3 _APID 7218:1863826
 2 NOTE Relation to Head of House: Apprentice
 1 RESI
 2 DATE 1870
@@ -697,15 +710,16 @@
 3 PAGE Year: 1870; Census Place: Georgetown, Madison, New York; Rol
 4 CONC l: M593_967; Page: 208A; Family History Library Film: 552466
 3 OBJE @M12@
-3 _APID 1,7163::24729335
+3 _APID 7163:24729335
 2 NOTE Residence Post Office: Cazenovia
 1 RESI
 2 DATE 01 JUN 1875
 2 PLAC DeRuyter, Madison, New York, USA
 2 SOUR @S12@
 3 OBJE @M22@
-3 _APID 1,7250::1398341614
+3 _APID 7250:1398341614
 2 NOTE Relation to Head: Wife
+1 _GUID d3f9973e-71ee-43f6-9903-25e57cd343c7
 0 @I26@ INDI
 1 REFN e7f20b98-d5b8-41fe-8a29-de96062f09e8
 1 NAME Cynthia Jane /Parslow/
@@ -723,6 +737,7 @@
 3 MAP
 4 LATI N43.2291
 4 LONG W76.1427
+1 _GUID 01e46a1b-24e7-4f1a-b8c5-b7eef419a842
 0 @I27@ INDI
 1 REFN 8e926b1c-fd8d-4d59-9faa-483ec940fe6e
 1 NAME Elizabeth Celinda /Parslow/
@@ -737,6 +752,7 @@
 1 DEAT
 2 DATE 28 MAY 1934
 2 PLAC DeRuyter, Madison, New York, USA
+1 _GUID e3c5e27b-e136-4f5c-8e87-1dff91372680
 0 @I5@ INDI
 1 REFN 705729fc-1246-4737-bc3c-dd5f6cd29e79
 1 NAME Franklin /Parslow/
@@ -744,10 +760,10 @@
 3 PAGE Year: 1860; Census Place: Pompey, Onondaga, New York; Roll
 4 CONC : M653_829; Page: 748; Family History Library Film: 803829
 3 OBJE @M18@
-3 _APID 1,7667::47651806
+3 _APID 7667:47651806
 2 SOUR @S2@
 3 OBJE @M3@
-3 _APID 1,7181::1655666757
+3 _APID 7181:1655666757
 1 SEX M
 1 FAMC @F2@
 1 BIRT
@@ -760,16 +776,16 @@
 3 PAGE Year: 1860; Census Place: Pompey, Onondaga, New York; Roll
 4 CONC : M653_829; Page: 748; Family History Library Film: 803829
 3 OBJE @M18@
-3 _APID 1,7667::47651806
+3 _APID 7667:47651806
 2 SOUR @S2@
 3 OBJE @M3@
-3 _APID 1,7181::1655666757
+3 _APID 7181:1655666757
 1 RESI
 2 DATE 1855
 2 PLAC DeRuyter, Madison, New York, USA
 2 SOUR @S2@
 3 OBJE @M3@
-3 _APID 1,7181::1655666757
+3 _APID 7181:1655666757
 2 NOTE Relation to Head: Son
 1 RESI
 2 DATE 1860
@@ -781,10 +797,11 @@
 3 PAGE Year: 1860; Census Place: Pompey, Onondaga, New York; Roll
 4 CONC : M653_829; Page: 748; Family History Library Film: 803829
 3 OBJE @M18@
-3 _APID 1,7667::47651806
+3 _APID 7667:47651806
 2 NOTE Residence Post Office: Pompey
 1 DEAT
 2 DATE 12 NOV 1906
+1 _GUID 20efae73-5b38-40c4-b5c0-af480322293f
 0 @I6@ INDI
 1 REFN e2f3d278-604f-4576-94bf-d9053db390f1
 1 NAME John Snyder /Parslow/
@@ -803,6 +820,7 @@
 3 MAP
 4 LATI N42.6756
 4 LONG W75.8772
+1 _GUID 94252267-3cc1-4d82-8e93-c74a55ee7878
 1 _PHOTO @M1@
 0 @I3@ INDI
 1 REFN fdaaf555-f77e-481c-8804-daa16a126b86
@@ -811,16 +829,16 @@
 3 PAGE Year: 1850; Census Place: Lincklaen, Chenango, New York; Rol
 4 CONC l: M432_487; Page: 76B; Image: 159
 3 OBJE @M4@
-3 _APID 1,8054::11481429
+3 _APID 8054:11481429
 2 SOUR @S4@
 3 PAGE Year: 1860; Census Place: Pompey, Onondaga, New York; Roll
 4 CONC : M653_829; Page: 748; Family History Library Film: 803829
 3 OBJE @M18@
-3 _APID 1,7667::47651793
+3 _APID 7667:47651793
 2 SOUR @S2@
 3 PAGE New York, State Census, 1855 Record
 3 OBJE @M3@
-3 _APID 1,7181::1655668870
+3 _APID 7181:1655668870
 1 NAME /Parslow/
 1 SEX M
 1 FAMC @F3@
@@ -839,16 +857,16 @@
 3 PAGE Year: 1850; Census Place: Lincklaen, Chenango, New York; Rol
 4 CONC l: M432_487; Page: 76B; Image: 159
 3 OBJE @M4@
-3 _APID 1,8054::11481429
+3 _APID 8054:11481429
 2 SOUR @S4@
 3 PAGE Year: 1860; Census Place: Pompey, Onondaga, New York; Roll
 4 CONC : M653_829; Page: 748; Family History Library Film: 803829
 3 OBJE @M18@
-3 _APID 1,7667::47651793
+3 _APID 7667:47651793
 2 SOUR @S2@
 3 PAGE New York, State Census, 1855 Record
 3 OBJE @M3@
-3 _APID 1,7181::1655668870
+3 _APID 7181:1655668870
 1 RESI
 2 DATE 1850
 2 PLAC Lincklaen, Chenango, New York, USA
@@ -859,21 +877,21 @@
 3 PAGE Year: 1850; Census Place: Lincklaen, Chenango, New York; Rol
 4 CONC l: M432_487; Page: 76B; Image: 159
 3 OBJE @M4@
-3 _APID 1,8054::11481429
+3 _APID 8054:11481429
 1 RESI
 2 DATE ABT MAY 1852
 2 PLAC DeRuyter, Madison, New York, USA
 2 SOUR @S2@
 3 PAGE New York, State Census, 1855 Record
 3 OBJE @M3@
-3 _APID 1,7181::1655668870
+3 _APID 7181:1655668870
 1 RESI
 2 DATE 1855
 2 PLAC DeRuyter, Madison, New York, USA
 2 SOUR @S2@
 3 PAGE New York, State Census, 1855 Record
 3 OBJE @M3@
-3 _APID 1,7181::1655668870
+3 _APID 7181:1655668870
 2 NOTE Relation to Head: Head
 1 RESI
 2 DATE 1860
@@ -885,7 +903,7 @@
 3 PAGE Year: 1860; Census Place: Pompey, Onondaga, New York; Roll
 4 CONC : M653_829; Page: 748; Family History Library Film: 803829
 3 OBJE @M18@
-3 _APID 1,7667::47651793
+3 _APID 7667:47651793
 2 NOTE Residence Post Office: Pompey
 1 DEAT
 2 DATE 01 OCT 1915
@@ -893,6 +911,7 @@
 3 MAP
 4 LATI N42.8989
 4 LONG W76.0164
+1 _GUID 5caa539e-0748-467e-bdd3-f3aade16e283
 0 @I28@ INDI
 1 REFN 751e1666-766c-475f-b2dd-12cefa34bdc0
 1 NAME Sarah Ann /Parslow/
@@ -910,6 +929,7 @@
 3 MAP
 4 LATI N42.442
 4 LONG W75.5977
+1 _GUID f4794fb1-dd5a-4295-bb55-275f8290c184
 0 @I20@ INDI
 1 REFN 3f32d119-2b6e-48c9-88c4-e1bc0f30d1ec
 1 NAME Celinda /Preston/
@@ -927,6 +947,7 @@
 3 MAP
 4 LATI N42.6756
 4 LONG W75.8772
+1 _GUID c72729cb-4ca9-4282-bb61-a1b04b8f23ce
 0 @I9@ INDI
 1 REFN c27a721b-d3ea-4474-a0c4-60663eed6cef
 1 NAME Alexander /Rollo/
@@ -934,26 +955,24 @@
 3 PAGE Year: 1850; Census Place: De Ruyter, Madison, New York; Roll
 4 CONC : M432_527; Page: 285A; Image: 30
 3 OBJE @M6@
-3 _APID 1,8054::7044426
+3 _APID 8054:7044426
 2 SOUR @S4@
 3 PAGE 1860 United States Federal Census Record
 3 OBJE @M5@
-3 _APID 1,7667::46710228
+3 _APID 7667:46710228
 2 SOUR @S13@
 3 OBJE @M21@
-3 _APID 1,1034::100423
+3 _APID 1034:100423
 2 SOUR @S7@
 3 PAGE Iowa Department of Public Health; Des Moines, Iowa; Series T
 4 CONC itle: Iowa Marriage Records, 1880–1922; Record Type: Textua
 4 CONC l Records
 3 OBJE @M10@
-3 _APID 1,8823::1353311867
+3 _APID 8823:1353311867
 2 SOUR @S2@
 3 OBJE @M9@
-3 _APID 1,7181::1655657073
+3 _APID 7181:1655657073
 1 SEX M
-2 SOUR @S4@
-3 _APID 1,7667::46710228
 1 FAMC @F9@
 1 FAMS @F4@
 1 BIRT
@@ -966,17 +985,17 @@
 3 PAGE Year: 1850; Census Place: De Ruyter, Madison, New York; Roll
 4 CONC : M432_527; Page: 285A; Image: 30
 3 OBJE @M6@
-3 _APID 1,8054::7044426
+3 _APID 8054:7044426
 2 SOUR @S4@
 3 PAGE 1860 United States Federal Census Record
 3 OBJE @M5@
-3 _APID 1,7667::46710228
+3 _APID 7667:46710228
 2 SOUR @S13@
 3 OBJE @M21@
-3 _APID 1,1034::100423
+3 _APID 1034:100423
 2 SOUR @S2@
 3 OBJE @M9@
-3 _APID 1,7181::1655657073
+3 _APID 7181:1655657073
 1 RESI
 2 DATE 1850
 2 PLAC DeRuyter, Madison, New York, USA
@@ -984,13 +1003,13 @@
 3 PAGE Year: 1850; Census Place: De Ruyter, Madison, New York; Roll
 4 CONC : M432_527; Page: 285A; Image: 30
 3 OBJE @M6@
-3 _APID 1,8054::7044426
+3 _APID 8054:7044426
 1 RESI
 2 DATE 1855
 2 PLAC DeRuyter, Madison, New York, USA
 2 SOUR @S2@
 3 OBJE @M9@
-3 _APID 1,7181::1655657073
+3 _APID 7181:1655657073
 2 NOTE Relation to Head: Head
 1 RESI
 2 DATE 1860
@@ -998,11 +1017,12 @@
 2 SOUR @S4@
 3 PAGE 1860 United States Federal Census Record
 3 OBJE @M5@
-3 _APID 1,7667::46710228
+3 _APID 7667:46710228
 2 NOTE Residence Post Office: De Ruyter
 1 DEAT
 2 DATE ABT 1863
 2 PLAC DeRuyter, Madison, New York, USA
+1 _GUID bb3e04b5-7c3c-423a-ba6f-8c553ffc19c4
 0 @I29@ INDI
 1 REFN 12e81476-662d-4dd6-baf4-2df8c16a32af
 1 NAME Alexander Williams /Rollo/
@@ -1010,20 +1030,20 @@
 3 PAGE 1820 U S Census; Census Place: De Ruyter, Madison, New York
 4 CONC ; Page: 78; NARA Roll: M33_73; Image: 90
 3 OBJE @M26@
-3 _APID 1,7734::449882
+3 _APID 7734:449882
 2 SOUR @S13@
 3 OBJE @M27@
-3 _APID 1,1034::517812
+3 _APID 1034:517812
 2 SOUR @S16@
 3 PAGE Alexander Rollo
 3 OBJE @M25@
-3 _APID 1,61367::900002887
+3 _APID 61367:900002887
 2 SOUR @S15@
 3 PAGE Alexander Rollo
 3 OBJE @M24@
-3 _APID 1,1062::100422
+3 _APID 1062:100422
 2 SOUR @S10@
-3 _APID 1,60525::25844386
+3 _APID 60525:25844386
 1 SEX M
 1 FAMS @F9@
 1 BIRT
@@ -1034,9 +1054,9 @@
 4 LONG W72.4612
 2 SOUR @S13@
 3 OBJE @M27@
-3 _APID 1,1034::517812
+3 _APID 1034:517812
 2 SOUR @S10@
-3 _APID 1,60525::25844386
+3 _APID 60525:25844386
 1 RESI
 2 DATE 1820
 2 PLAC DeRuyter, Madison, New York, USA
@@ -1044,16 +1064,17 @@
 3 PAGE 1820 U S Census; Census Place: De Ruyter, Madison, New York
 4 CONC ; Page: 78; NARA Roll: M33_73; Image: 90
 3 OBJE @M26@
-3 _APID 1,7734::449882
+3 _APID 7734:449882
 1 DEAT
 2 DATE 1827
 2 PLAC DeRuyter, Madison, New York, USA
 2 SOUR @S10@
-3 _APID 1,60525::25844386
+3 _APID 60525:25844386
 1 BURI
 2 PLAC DeRuyter, Madison, New York, USA
 2 SOUR @S10@
-3 _APID 1,60525::25844386
+3 _APID 60525:25844386
+1 _GUID 558caa43-3ce9-49f8-8973-d7996641468e
 0 @I14@ INDI
 1 REFN fca314a6-0a1f-442e-9b46-80df32c8dfdc
 1 NAME Edwin R. /Rollo/
@@ -1061,26 +1082,24 @@
 3 PAGE Year: 1850; Census Place: De Ruyter, Madison, New York; Roll
 4 CONC : M432_527; Page: 285A; Image: 30
 3 OBJE @M6@
-3 _APID 1,8054::7044409
+3 _APID 8054:7044409
 2 SOUR @S4@
 3 PAGE Year: 1860; Census Place: De Ruyter, Madison, New York; Roll
 4 CONC : M653_780; Page: 265; Family History Library Film: 803780
 3 OBJE @M17@
-3 _APID 1,7667::46710730
+3 _APID 7667:46710730
 2 SOUR @S2@
 3 OBJE @M15@
-3 _APID 1,7181::1655665065
+3 _APID 7181:1655665065
 2 SOUR @S5@
 3 PAGE New York, State Census, 1865 Record
 3 OBJE @M7@
-3 _APID 1,7218::1863807
+3 _APID 7218:1863807
 2 SOUR @S14@
 3 OBJE @M23@
-3 _APID 1,3212::1805581
+3 _APID 3212:1805581
 1 NAME Edwin /Rolllo/
 1 SEX M
-2 SOUR @S5@
-3 _APID 1,7218::1863807
 1 FAMC @F9@
 1 BIRT
 2 DATE ABT 1808
@@ -1092,28 +1111,28 @@
 3 PAGE Year: 1850; Census Place: De Ruyter, Madison, New York; Roll
 4 CONC : M432_527; Page: 285A; Image: 30
 3 OBJE @M6@
-3 _APID 1,8054::7044409
+3 _APID 8054:7044409
 2 SOUR @S4@
 3 PAGE Year: 1860; Census Place: De Ruyter, Madison, New York; Roll
 4 CONC : M653_780; Page: 265; Family History Library Film: 803780
 3 OBJE @M17@
-3 _APID 1,7667::46710730
+3 _APID 7667:46710730
 2 SOUR @S2@
 3 OBJE @M15@
-3 _APID 1,7181::1655665065
+3 _APID 7181:1655665065
 2 SOUR @S5@
 3 PAGE New York, State Census, 1865 Record
 3 OBJE @M7@
-3 _APID 1,7218::1863807
+3 _APID 7218:1863807
 2 SOUR @S14@
 3 OBJE @M23@
-3 _APID 1,3212::1805581
+3 _APID 3212:1805581
 1 RESI
 2 DATE ABT 1817
 2 PLAC DeRuyter, Madison, New York, USA
 2 SOUR @S2@
 3 OBJE @M15@
-3 _APID 1,7181::1655665065
+3 _APID 7181:1655665065
 1 RESI
 2 DATE 1850
 2 PLAC DeRuyter, Madison, New York, USA
@@ -1121,13 +1140,13 @@
 3 PAGE Year: 1850; Census Place: De Ruyter, Madison, New York; Roll
 4 CONC : M432_527; Page: 285A; Image: 30
 3 OBJE @M6@
-3 _APID 1,8054::7044409
+3 _APID 8054:7044409
 1 RESI
 2 DATE 1855
 2 PLAC DeRuyter, Madison, New York, USA
 2 SOUR @S2@
 3 OBJE @M15@
-3 _APID 1,7181::1655665065
+3 _APID 7181:1655665065
 2 NOTE Relation to Head: Laborer
 1 RESI
 2 DATE 1860
@@ -1136,7 +1155,7 @@
 3 PAGE Year: 1860; Census Place: De Ruyter, Madison, New York; Roll
 4 CONC : M653_780; Page: 265; Family History Library Film: 803780
 3 OBJE @M17@
-3 _APID 1,7667::46710730
+3 _APID 7667:46710730
 2 NOTE Residence Post Office: De Ruyter
 1 RESI
 2 DATE 1865
@@ -1144,7 +1163,7 @@
 2 SOUR @S5@
 3 PAGE New York, State Census, 1865 Record
 3 OBJE @M7@
-3 _APID 1,7218::1863807
+3 _APID 7218:1863807
 2 NOTE Relation to Head of House: Boarder
 1 RESI
 2 DATE 1892
@@ -1154,7 +1173,8 @@
 4 LONG W74.8403
 2 SOUR @S14@
 3 OBJE @M23@
-3 _APID 1,3212::1805581
+3 _APID 3212:1805581
+1 _GUID 9670d379-8457-4ddf-ac32-1e806192402e
 0 @I18@ INDI
 1 REFN a1884a9e-f8b0-4de3-bda5-547853beecda
 1 NAME Elisha /Rollo/
@@ -1162,9 +1182,9 @@
 3 PAGE Year: 1850; Census Place: De Ruyter, Madison, New York; Roll
 4 CONC : M432_527; Page: 285A; Image: 30
 3 OBJE @M20@
-3 _APID 1,8054::7044410
+3 _APID 8054:7044410
 2 SOUR @S10@
-3 _APID 1,60525::25844373
+3 _APID 60525:25844373
 1 SEX M
 1 FAMC @F9@
 1 BIRT
@@ -1177,9 +1197,9 @@
 3 PAGE Year: 1850; Census Place: De Ruyter, Madison, New York; Roll
 4 CONC : M432_527; Page: 285A; Image: 30
 3 OBJE @M20@
-3 _APID 1,8054::7044410
+3 _APID 8054:7044410
 2 SOUR @S10@
-3 _APID 1,60525::25844373
+3 _APID 60525:25844373
 1 RESI
 2 DATE 1850
 2 PLAC DeRuyter, Madison, New York, USA
@@ -1187,16 +1207,17 @@
 3 PAGE Year: 1850; Census Place: De Ruyter, Madison, New York; Roll
 4 CONC : M432_527; Page: 285A; Image: 30
 3 OBJE @M20@
-3 _APID 1,8054::7044410
+3 _APID 8054:7044410
 1 DEAT
 2 DATE 1853
 2 PLAC DeRuyter, Madison, New York, USA
 2 SOUR @S10@
-3 _APID 1,60525::25844373
+3 _APID 60525:25844373
 1 BURI
 2 PLAC DeRuyter, Madison, New York, USA
 2 SOUR @S10@
-3 _APID 1,60525::25844373
+3 _APID 60525:25844373
+1 _GUID d3afedba-2197-44c2-a7f5-4bccfdac4ccc
 0 @I11@ INDI
 1 REFN b75601da-98ee-4ed9-9751-54d346fe95cd
 1 NAME Harriet M. /Rollo/
@@ -1204,29 +1225,29 @@
 3 PAGE Year: 1860; Census Place: De Ruyter, Madison, New York; Roll
 4 CONC : M653_780; Page: 258; Family History Library Film: 803780
 3 OBJE @M5@
-3 _APID 1,7667::46710231
+3 _APID 7667:46710231
 2 SOUR @S6@
 3 PAGE Year: 1870; Census Place: Hardin, Hardin, Iowa; Roll: M593_3
 4 CONC 94; Page: 450A; Family History Library Film: 545893
 3 OBJE @M8@
-3 _APID 1,7163::21256421
+3 _APID 7163:21256421
 2 SOUR @S8@
 3 PAGE Year: 1880; Census Place: Iowa Falls, Hardin, Iowa; Roll: 34
 4 CONC 3; Page: 373B; Enumeration District: 117
 3 OBJE @M11@
-3 _APID 1,6742::47708307
+3 _APID 6742:47708307
 2 SOUR @S7@
 3 PAGE Iowa Department of Public Health; Des Moines, Iowa; Series T
 4 CONC itle: Iowa Marriage Records, 1880–1922; Record Type: Textua
 4 CONC l Records; Hattie Rollo
 3 OBJE @M10@
-3 _APID 1,8823::903311867
+3 _APID 8823:903311867
 2 SOUR @S1@
 3 OBJE @M2@
-3 _APID 1,1084::6890449
+3 _APID 1084:6890449
 2 SOUR @S5@
 3 OBJE @M7@
-3 _APID 1,7218::1863833
+3 _APID 7218:1863833
 1 SEX F
 1 FAMC @F4@
 1 FAMS @F5@
@@ -1240,29 +1261,29 @@
 3 PAGE Year: 1860; Census Place: De Ruyter, Madison, New York; Roll
 4 CONC : M653_780; Page: 258; Family History Library Film: 803780
 3 OBJE @M5@
-3 _APID 1,7667::46710231
+3 _APID 7667:46710231
 2 SOUR @S6@
 3 PAGE Year: 1870; Census Place: Hardin, Hardin, Iowa; Roll: M593_3
 4 CONC 94; Page: 450A; Family History Library Film: 545893
 3 OBJE @M8@
-3 _APID 1,7163::21256421
+3 _APID 7163:21256421
 2 SOUR @S8@
 3 PAGE Year: 1880; Census Place: Iowa Falls, Hardin, Iowa; Roll: 34
 4 CONC 3; Page: 373B; Enumeration District: 117
 3 OBJE @M11@
-3 _APID 1,6742::47708307
+3 _APID 6742:47708307
 2 SOUR @S7@
 3 PAGE Iowa Department of Public Health; Des Moines, Iowa; Series T
 4 CONC itle: Iowa Marriage Records, 1880–1922; Record Type: Textua
 4 CONC l Records; Hattie Rollo
 3 OBJE @M10@
-3 _APID 1,8823::903311867
+3 _APID 8823:903311867
 2 SOUR @S1@
 3 OBJE @M2@
-3 _APID 1,1084::6890449
+3 _APID 1084:6890449
 2 SOUR @S5@
 3 OBJE @M7@
-3 _APID 1,7218::1863833
+3 _APID 7218:1863833
 1 RESI
 2 DATE 1860
 2 PLAC DeRuyter, Madison, New York, USA
@@ -1270,14 +1291,14 @@
 3 PAGE Year: 1860; Census Place: De Ruyter, Madison, New York; Roll
 4 CONC : M653_780; Page: 258; Family History Library Film: 803780
 3 OBJE @M5@
-3 _APID 1,7667::46710231
+3 _APID 7667:46710231
 2 NOTE Residence Post Office: De Ruyter
 1 RESI
 2 DATE 1865
 2 PLAC DeRuyter, Madison, New York, USA
 2 SOUR @S5@
 3 OBJE @M7@
-3 _APID 1,7218::1863833
+3 _APID 7218:1863833
 2 NOTE Relation to Head of House: Daughter
 1 RESI
 2 DATE 1870
@@ -1289,7 +1310,7 @@
 3 PAGE Year: 1870; Census Place: Hardin, Hardin, Iowa; Roll: M593_3
 4 CONC 94; Page: 450A; Family History Library Film: 545893
 3 OBJE @M8@
-3 _APID 1,7163::21256421
+3 _APID 7163:21256421
 2 NOTE Residence Post Office: Eldora
 1 RESI
 2 DATE 1880
@@ -1301,7 +1322,7 @@
 3 PAGE Year: 1880; Census Place: Iowa Falls, Hardin, Iowa; Roll: 34
 4 CONC 3; Page: 373B; Enumeration District: 117
 3 OBJE @M11@
-3 _APID 1,6742::47708307
+3 _APID 6742:47708307
 2 NOTE Marital Status: Single; Relation to Head: Daughter
 1 RESI
 2 DATE 1885
@@ -1311,8 +1332,9 @@
 4 LONG W91.4822
 2 SOUR @S1@
 3 OBJE @M2@
-3 _APID 1,1084::6890449
+3 _APID 1084:6890449
 2 NOTE Marital Status: Married
+1 _GUID b0a4e9dc-8e4f-4869-98a0-1f52b5dda347
 0 @I31@ INDI
 1 REFN bdf5a3ea-5d21-4fd1-ac48-785fa63310cf
 1 NAME John Samuel /Rollo/
@@ -1320,18 +1342,18 @@
 3 PAGE Year: 1850; Census Place: De Ruyter, Madison, New York; Roll
 4 CONC : M432_527; Page: 285A; Image: 30
 3 OBJE @M20@
-3 _APID 1,8054::7044411
+3 _APID 8054:7044411
 2 SOUR @S4@
 3 PAGE Year: 1860; Census Place: De Ruyter, Madison, New York; Roll
 4 CONC : M653_780; Page: 279; Family History Library Film: 803780
 3 OBJE @M31@
-3 _APID 1,7667::46711850
+3 _APID 7667:46711850
 2 SOUR @S13@
 3 OBJE @M21@
-3 _APID 1,1034::100275
+3 _APID 1034:100275
 2 SOUR @S2@
 3 OBJE @M30@
-3 _APID 1,7181::1655657071
+3 _APID 7181:1655657071
 1 SEX M
 1 FAMC @F9@
 1 BIRT
@@ -1344,18 +1366,18 @@
 3 PAGE Year: 1850; Census Place: De Ruyter, Madison, New York; Roll
 4 CONC : M432_527; Page: 285A; Image: 30
 3 OBJE @M20@
-3 _APID 1,8054::7044411
+3 _APID 8054:7044411
 2 SOUR @S4@
 3 PAGE Year: 1860; Census Place: De Ruyter, Madison, New York; Roll
 4 CONC : M653_780; Page: 279; Family History Library Film: 803780
 3 OBJE @M31@
-3 _APID 1,7667::46711850
+3 _APID 7667:46711850
 2 SOUR @S13@
 3 OBJE @M21@
-3 _APID 1,1034::100275
+3 _APID 1034:100275
 2 SOUR @S2@
 3 OBJE @M30@
-3 _APID 1,7181::1655657071
+3 _APID 7181:1655657071
 1 RESI
 2 DATE 1850
 2 PLAC DeRuyter, Madison, New York, USA
@@ -1363,13 +1385,13 @@
 3 PAGE Year: 1850; Census Place: De Ruyter, Madison, New York; Roll
 4 CONC : M432_527; Page: 285A; Image: 30
 3 OBJE @M20@
-3 _APID 1,8054::7044411
+3 _APID 8054:7044411
 1 RESI
 2 DATE 1855
 2 PLAC DeRuyter, Madison, New York, USA
 2 SOUR @S2@
 3 OBJE @M30@
-3 _APID 1,7181::1655657071
+3 _APID 7181:1655657071
 2 NOTE Relation to Head: Son
 1 RESI
 2 DATE 1860
@@ -1378,8 +1400,9 @@
 3 PAGE Year: 1860; Census Place: De Ruyter, Madison, New York; Roll
 4 CONC : M653_780; Page: 279; Family History Library Film: 803780
 3 OBJE @M31@
-3 _APID 1,7667::46711850
+3 _APID 7667:46711850
 2 NOTE Residence Post Office: De Ruyter
+1 _GUID 222c9450-a55a-4617-b5b8-1ad2cbf7dbf5
 0 @I2@ INDI
 1 REFN 9eea2f80-3fda-45ac-b084-1848596b246f
 1 NAME unknown //
@@ -1391,6 +1414,7 @@
 2 CONC ck (Peter's later wife).
 1 BIRT
 2 DATE ABT 1833
+1 _GUID 03800784-a67b-4b47-b2f9-ae501d202d00
 0 @I7@ INDI
 1 REFN 506be442-75e9-4dbc-b5c6-f4a9d0ac3e95
 1 NAME Elizabeth June /Woodcock/
@@ -1408,6 +1432,7 @@
 3 MAP
 4 LATI N42.6756
 4 LONG W75.8772
+1 _GUID 320182a4-5b97-48a4-88d3-6e81bf76aa2e
 0 @F8@ FAM
 1 HUSB @I19@
 1 WIFE @I20@
@@ -1459,12 +1484,13 @@
 4 CONC itle: Iowa Marriage Records, 1880–1922; Record Type: Textua
 4 CONC l Records; Elnar C Jorden
 3 OBJE @M10@
-3 _APID 1,8823::3311867
+3 _APID 8823:3311867
 2 SOUR @S7@
 3 PAGE Iowa Department of Public Health; Des Moines, Iowa; Series T
 4 CONC itle: Iowa Marriage Records, 1880–1922; Record Type: Textua
 4 CONC l Records; Hattie Rollo
 3 OBJE @M10@
+3 _APID 8823:903311867
 0 @F3@ FAM
 1 HUSB @I6@
 1 WIFE @I7@
@@ -1545,17 +1571,19 @@
 2 SOUR @S16@
 3 PAGE Alexander Rollo
 3 OBJE @M25@
-3 _APID 1,61367::900002887
+3 _APID 61367:900002887
 2 SOUR @S16@
 3 PAGE Faith Blackman
 3 OBJE @M25@
+3 _APID 61367:2887
 2 SOUR @S15@
 3 PAGE Alexander Rollo
 3 OBJE @M24@
-3 _APID 1,1062::100422
+3 _APID 1062:100422
 2 SOUR @S15@
 3 PAGE Faith Blackman
 3 OBJE @M28@
+3 _APID 1062:95515
 0 @R1@ REPO
 1 NAME Ancestry.com
 1 ADDR
@@ -1567,24 +1595,28 @@
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2010
+1 _APID 7734
 0 @S3@ SOUR
 1 REPO @R1@
 1 TITL 1850 United States Federal Census
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2009
+1 _APID 8054
 0 @S4@ SOUR
 1 REPO @R1@
 1 TITL 1860 United States Federal Census
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2009
+1 _APID 7667
 0 @S6@ SOUR
 1 REPO @R1@
 1 TITL 1870 United States Federal Census
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2009
+1 _APID 7163
 0 @S8@ SOUR
 1 REPO @R1@
 1 TITL 1880 United States Federal Census
@@ -1592,6 +1624,13 @@
 2 CONC ints
 1 PUBL Ancestry.com Operations Inc; Location: Lehi, UT, USA; Date
 2 CONC : 2010
+1 _APID 6742
+0 @S11@ SOUR
+1 REPO @R1@
+1 TITL Ancestry Family Trees
+1 PUBL Online publication - Provo, UT, USA: Ancestry.com.  Origina
+2 CONC l data:  Family Tree files submitted by Ancestry members.
+1 _APID 1030
 0 @S13@ SOUR
 1 REPO @R1@
 1 TITL Connecticut Town Birth Records, pre-1870 (Barbour Collection
@@ -1599,17 +1638,20 @@
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations Inc; Location: Provo, UT, USA; Date
 2 CONC : 2006
+1 _APID 1034
 0 @S18@ SOUR
 1 REPO @R1@
 1 TITL Connecticut, Church Record Abstracts, 1630-1920
 1 AUTH Ancestry.com
 1 PUBL Location: Provo, UT, USA; Date: 2013;
+1 _APID 3032
 0 @S16@ SOUR
 1 REPO @R1@
 1 TITL Connecticut, Marriage Index, 1620-1926
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Lehi, UT, USA; Date
 2 CONC : 2016
+1 _APID 61367
 0 @S15@ SOUR
 1 REPO @R1@
 1 TITL Connecticut, Town Marriage Records, pre-1870 (Barbour Collec
@@ -1617,71 +1659,84 @@
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations Inc; Location: Provo, UT, USA; Date
 2 CONC : 2006
+1 _APID 1062
 0 @S7@ SOUR
 1 REPO @R1@
 1 TITL Iowa, Marriage Records, 1880-1940
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Lehi, UT, USA; Date
 2 CONC : 2014
+1 _APID 8823
 0 @S1@ SOUR
 1 REPO @R1@
 1 TITL Iowa, State Census Collection, 1836-1925
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2007
+1 _APID 1084
 0 @S9@ SOUR
 1 REPO @R1@
 1 TITL New York, Genealogical Records, 1675-1920
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations Inc; Location: Provo, UT, USA; Date
 2 CONC : 2004
+1 _APID 7831
 0 @S2@ SOUR
 1 REPO @R1@
 1 TITL New York, State Census, 1855
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2013
+1 _APID 7181
 0 @S5@ SOUR
 1 REPO @R1@
 1 TITL New York, State Census, 1865
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2014
+1 _APID 7218
 0 @S12@ SOUR
 1 REPO @R1@
 1 TITL New York, State Census, 1875
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2013
+1 _APID 7250
 0 @S14@ SOUR
 1 REPO @R1@
 1 TITL New York, State Census, 1892
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2012
+1 _APID 3212
 0 @S10@ SOUR
 1 REPO @R1@
 1 TITL U.S., Find A Grave Index, 1600s-Current
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2012
+1 _APID 60525
 0 @M1@ OBJE
+1 _GUID 342be436-3f62-4d51-88fb-55c53d37b4d1
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\rollo_researc
 2 CONC h Media\PARSLOWJohnSnyder_headstone.jpg
 2 FORM jpg
 2 TITL PARSLOWJohnSnyder_headstone
 0 @M2@ OBJE
+1 _GUID 3e3b577a-518a-40ec-88ba-4599955f563a
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\rollo_researc
 2 CONC h Media\Iowa, State Census Collection, 1836-1925.jpg
 2 FORM jpg
 2 TITL Iowa, State Census Collection, 1836-1925
 0 @M3@ OBJE
+1 _GUID dc29c6c4-8369-4c45-b6eb-cf1e51d84b5d
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\rollo_researc
 2 CONC h Media\New York, State Census, 1855.jpg
 2 FORM jpg
 2 TITL New York, State Census, 1855
 2 _TEXT New York, State Census, 1855 Record
 0 @M4@ OBJE
+1 _GUID e1d0e000-aca9-4a4f-a6f4-10fef347b805
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\rollo_researc
 2 CONC h Media\1850 United States Federal Census.jpg
 2 FORM jpg
@@ -1689,6 +1744,7 @@
 2 _TEXT Year: 1850; Census Place: Lincklaen, Chenango, New York; Rol
 3 CONC l: M432_487; Page: 76B; Image: 159
 0 @M5@ OBJE
+1 _GUID 5346e0bb-3417-4210-ab42-212388fe388d
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\rollo_researc
 2 CONC h Media\1860 United States Federal Census.jpg
 2 FORM jpg
@@ -1696,6 +1752,7 @@
 2 _TEXT Year: 1860; Census Place: De Ruyter, Madison, New York; Roll
 3 CONC : M653_780; Page: 258; Family History Library Film: 803780
 0 @M6@ OBJE
+1 _GUID c1aa5b1b-9b5a-4db6-9699-0fbbae8a6b40
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\rollo_researc
 2 CONC h Media\1850 United States Federal Census(1).jpg
 2 FORM jpg
@@ -1703,11 +1760,13 @@
 2 _TEXT Year: 1850; Census Place: De Ruyter, Madison, New York; Roll
 3 CONC : M432_527; Page: 285A; Image: 30
 0 @M7@ OBJE
+1 _GUID e0ffc77c-863a-45f2-8b24-d98faaad657c
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\rollo_researc
 2 CONC h Media\New York, State Census, 1865.jpg
 2 FORM jpg
 2 TITL New York, State Census, 1865
 0 @M8@ OBJE
+1 _GUID 07149bbe-26c2-4f0e-9167-ea445add4f66
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\rollo_researc
 2 CONC h Media\1870 United States Federal Census.jpg
 2 FORM jpg
@@ -1715,11 +1774,13 @@
 2 _TEXT Year: 1870; Census Place: Hardin, Hardin, Iowa; Roll: M593_3
 3 CONC 94; Page: 450A; Family History Library Film: 545893
 0 @M9@ OBJE
+1 _GUID 1ccdfe00-5fee-4426-b747-203803da97ef
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\rollo_researc
 2 CONC h Media\New York, State Census, 1855(1).jpg
 2 FORM jpg
 2 TITL New York, State Census, 1855
 0 @M10@ OBJE
+1 _GUID dcaca9e1-1d6c-492c-826f-d4d7ccb67ca7
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\rollo_researc
 2 CONC h Media\Iowa, Marriage Records, 1880-1940.jpg
 2 FORM jpg
@@ -1728,6 +1789,7 @@
 3 CONC itle: Iowa Marriage Records, 1880–1922; Record Type: Textua
 3 CONC l Records
 0 @M11@ OBJE
+1 _GUID 27de24b1-a727-4b05-a032-67e28208a281
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\rollo_researc
 2 CONC h Media\1880 United States Federal Census.jpg
 2 FORM jpg
@@ -1735,6 +1797,7 @@
 2 _TEXT Year: 1880; Census Place: Iowa Falls, Hardin, Iowa; Roll: 34
 3 CONC 3; Page: 373B; Enumeration District: 117
 0 @M12@ OBJE
+1 _GUID 6bd9834b-16ae-4fe6-99c4-83b9a62a0738
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\rollo_researc
 2 CONC h Media\1870 United States Federal Census(1).jpg
 2 FORM jpg
@@ -1742,11 +1805,13 @@
 2 _TEXT Year: 1870; Census Place: Georgetown, Madison, New York; Rol
 3 CONC l: M593_967; Page: 208A; Family History Library Film: 552466
 0 @M13@ OBJE
+1 _GUID c7d2e211-2405-4c77-9387-355447243267
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\rollo_researc
 2 CONC h Media\Iowa, State Census Collection, 1836-1925(1).jpg
 2 FORM jpg
 2 TITL Iowa, State Census Collection, 1836-1925
 0 @M14@ OBJE
+1 _GUID b8e172bb-a90b-4483-a39d-f37c77cbfe16
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\rollo_researc
 2 CONC h Media\1880 United States Federal Census(1).jpg
 2 FORM jpg
@@ -1754,16 +1819,19 @@
 2 _TEXT Year: 1880; Census Place: Iowa Falls, Hardin, Iowa; Roll: 34
 3 CONC 3; Page: 374C; Enumeration District: 117
 0 @M15@ OBJE
+1 _GUID 4a981a39-7b15-4b15-9ad1-e6282105b9c7
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\rollo_researc
 2 CONC h Media\New York, State Census, 1855(2).jpg
 2 FORM jpg
 2 TITL New York, State Census, 1855
 0 @M16@ OBJE
+1 _GUID 48fd90b9-576e-4c35-aa64-2d4551a32106
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\rollo_researc
 2 CONC h Media\Iowa, State Census Collection, 1836-1925(2).jpg
 2 FORM jpg
 2 TITL Iowa, State Census Collection, 1836-1925
 0 @M17@ OBJE
+1 _GUID e7adc989-8947-4035-a18a-6cca51e23fef
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\rollo_researc
 2 CONC h Media\1860 United States Federal Census(1).jpg
 2 FORM jpg
@@ -1771,6 +1839,7 @@
 2 _TEXT Year: 1860; Census Place: De Ruyter, Madison, New York; Roll
 3 CONC : M653_780; Page: 265; Family History Library Film: 803780
 0 @M18@ OBJE
+1 _GUID b821ccbd-ec7d-4ceb-aef6-452ff40dd481
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\rollo_researc
 2 CONC h Media\1860 United States Federal Census(2).jpg
 2 FORM jpg
@@ -1778,6 +1847,7 @@
 2 _TEXT Year: 1860; Census Place: Pompey, Onondaga, New York; Roll
 3 CONC : M653_829; Page: 748; Family History Library Film: 803829
 0 @M19@ OBJE
+1 _GUID 5d6ba836-80d4-4108-9ec7-e27eb8d0453e
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\rollo_researc
 2 CONC h Media\1850 United States Federal Census(2).jpg
 2 FORM jpg
@@ -1785,6 +1855,7 @@
 2 _TEXT Year: 1850; Census Place: Lincklaen, Chenango, New York; Rol
 3 CONC l: M432_487; Page: 72B; Image: 151
 0 @M20@ OBJE
+1 _GUID ccc3a5e7-0c31-4bdf-8623-0e52cf4ef025
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\rollo_researc
 2 CONC h Media\1850 United States Federal Census(3).jpg
 2 FORM jpg
@@ -1792,6 +1863,7 @@
 2 _TEXT Year: 1850; Census Place: De Ruyter, Madison, New York; Roll
 3 CONC : M432_527; Page: 285A; Image: 30
 0 @M21@ OBJE
+1 _GUID 286203fd-7398-49a8-8d1a-76107b81e551
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\rollo_researc
 2 CONC h Media\Connecticut Town Birth Records, pre-1870 (Barbour Co
 2 CONC llection).jpg
@@ -1799,16 +1871,19 @@
 2 TITL Connecticut Town Birth Records, pre-1870 (Barbour Collection
 3 CONC )
 0 @M22@ OBJE
+1 _GUID ddecdf14-3fc4-4f1b-bc82-ecd09f7efe2e
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\rollo_researc
 2 CONC h Media\New York, State Census, 1875.jpg
 2 FORM jpg
 2 TITL New York, State Census, 1875
 0 @M23@ OBJE
+1 _GUID 1aaab007-4edf-41f8-9dcf-064d37899d2f
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\rollo_researc
 2 CONC h Media\New York, State Census, 1892.jpg
 2 FORM jpg
 2 TITL New York, State Census, 1892
 0 @M24@ OBJE
+1 _GUID 1ad2880e-e617-4b2c-a26b-06306650e5f6
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\rollo_researc
 2 CONC h Media\Connecticut, Town Marriage Records, pre-1870 (Barbou
 2 CONC r Collection).jpg
@@ -1816,11 +1891,13 @@
 2 TITL Connecticut, Town Marriage Records, pre-1870 (Barbour Collec
 3 CONC tion)
 0 @M25@ OBJE
+1 _GUID 063ff152-26f1-435e-a235-c1dce84cf891
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\rollo_researc
 2 CONC h Media\Connecticut, Marriage Index, 1620-1926.jpg
 2 FORM jpg
 2 TITL Connecticut, Marriage Index, 1620-1926
 0 @M26@ OBJE
+1 _GUID 7c1eb6cc-d7ae-4d8f-8ed3-da30048b9b86
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\rollo_researc
 2 CONC h Media\1820 United States Federal Census.jpg
 2 FORM jpg
@@ -1828,6 +1905,7 @@
 2 _TEXT 1820 U S Census; Census Place: De Ruyter, Madison, New York
 3 CONC ; Page: 78; NARA Roll: M33_73; Image: 90
 0 @M27@ OBJE
+1 _GUID 8595ef04-0920-4785-81fb-b6710c31fd9d
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\rollo_researc
 2 CONC h Media\Connecticut Town Birth Records, pre-1870 (Barbour Co
 2 CONC llection)(1).jpg
@@ -1835,6 +1913,7 @@
 2 TITL Connecticut Town Birth Records, pre-1870 (Barbour Collection
 3 CONC )
 0 @M28@ OBJE
+1 _GUID 764c3e52-84be-4edf-b1f3-00112b3d32a6
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\rollo_researc
 2 CONC h Media\Connecticut, Town Marriage Records, pre-1870 (Barbou
 2 CONC r Collection)(1).jpg
@@ -1842,16 +1921,19 @@
 2 TITL Connecticut, Town Marriage Records, pre-1870 (Barbour Collec
 3 CONC tion)
 0 @M29@ OBJE
+1 _GUID dab8a4e1-e8f9-4211-adc2-157427a9cade
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\rollo_researc
 2 CONC h Media\Connecticut, Church Record Abstracts, 1630-1920.jpg
 2 FORM jpg
 2 TITL Connecticut, Church Record Abstracts, 1630-1920
 0 @M30@ OBJE
+1 _GUID e31ff492-44d5-4539-80d2-52dc04ffa2d5
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\rollo_researc
 2 CONC h Media\New York, State Census, 1855(3).jpg
 2 FORM jpg
 2 TITL New York, State Census, 1855
 0 @M31@ OBJE
+1 _GUID 251c2522-614c-4e02-99e8-76be69203b86
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\rollo_researc
 2 CONC h Media\1860 United States Federal Census(3).jpg
 2 FORM jpg
