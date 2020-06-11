@@ -3,20 +3,20 @@
 1 GEDC
 2 VERS 5.5.1
 2 FORM LINEAGE-LINKED
-1 COPR Copyright © 1998–2019, Christopher Alan Mosher, Shelton, CT
+1 COPR Copyright © 1998–2020, Christopher Alan Mosher, Shelton, CT
 2 CONC , USA.
 1 SUBM @Umy2qBWIRUiwVSS6Hcn4@
 1 SOUR FTM
-2 VERS 23.2.0.1540
+2 VERS 24.0.1.1252
 2 NAME Family Tree Maker for Windows
 2 CORP The Software MacKiev Company
 3 ADDR 30 Union Wharf
 4 CONT Boston, MA 02109
 3 PHON (617) 227-6681
 1 DEST FTM
-1 FILE Taylorson_2019-10-08-22-00-50.ftm.ged
-1 DATE 08 OCT 2019
-2 TIME 22:01:31
+1 FILE Taylorson_2020-06-11-19-28-35.ftm.ged
+1 DATE 11 JUN 2020
+2 TIME 19:25:44
 0 @Umy2qBWIRUiwVSS6Hcn4@ SUBM
 1 NAME Christopher Alan Mosher
 2 EMAIL cmosher01@@gmail.com
@@ -45,7 +45,7 @@
 2 SOUR @S79@
 3 QUAY 1
 2 SOUR @S101@
-3 _APID 1,9841::64084142
+3 _APID 9841:64084142
 1 SEX M
 1 FAMS @F26@
 1 BIRT
@@ -54,7 +54,8 @@
 2 SOUR @S79@
 3 QUAY 1
 2 SOUR @S101@
-3 _APID 1,9841::64084142
+3 _APID 9841:64084142
+1 _GUID 92f3fb1c-17fa-44e1-8831-8cf0d8fa1249
 1 _XY 1234 387
 0 @I39@ INDI
 1 REFN 58268388-7660-4d08-aaec-4d9be5fb7e62
@@ -62,7 +63,7 @@
 2 SOUR @S79@
 3 QUAY 1
 2 SOUR @S101@
-3 _APID 1,9841::64086626
+3 _APID 9841:64086626
 1 SEX F
 1 FAMC @F26@
 1 FAMS @F27@
@@ -75,7 +76,8 @@
 2 DATE 03 NOV 1605
 2 PLAC Elton, Stockton upon Tees, Durham, England, UK
 2 SOUR @S101@
-3 _APID 1,9841::64084143
+3 _APID 9841:64084143
+1 _GUID 4d87c7a0-df97-4208-9dce-78a605bbcfbd
 1 _XY 1273 449
 0 @I40@ INDI
 1 REFN 3859bdea-1048-4acb-a4fd-07e738d74f33
@@ -92,6 +94,7 @@
 2 PLAC Aycliffe, Sedgefield, Durham, England, UK
 2 SOUR @S79@
 3 QUAY 1
+1 _GUID d03b88d3-fe3f-43ac-801b-bdf3a0063aaf
 1 _XY 1428 926
 0 @I41@ INDI
 1 REFN d5477b63-2dc1-4472-9d26-8701cf99a0bf
@@ -100,7 +103,7 @@
 3 QUAY 1
 2 SOUR @S97@
 3 PAGE FHL 90784, Elizabeth Barwicke
-3 _APID 1,9852::8850014
+3 _APID 9852:8850014
 1 SEX F
 1 FAMS @F29@
 1 BIRT
@@ -108,6 +111,7 @@
 2 PLAC North Yorkshire, England, UK
 2 SOUR @S79@
 3 QUAY 1
+1 _GUID 03beb22b-1d38-49e4-9103-6e65db533003
 1 _XY 771 171
 0 @fKPuctm5RyC81oct8sFI@ INDI
 1 REFN 2287b07c-4938-4b8f-974d-a3e0ef8105ab
@@ -117,35 +121,35 @@
 4 CONC ll: T624_1423; Page: 12A; Enumeration District: 0170; FHL mi
 4 CONC crofilm: 1375436
 3 OBJE @NOtiDwokQXi1m65EbyOt@
-3 _APID 1,7884::25924633
+3 _APID 7884:25924633
 2 SOUR @gEzHretGQ9iAdPxO8HPJ@
 3 PAGE Year: 1920; Census Place: Triangle, Broome, New York; Roll
 4 CONC : T625_1085; Page: 5B; Enumeration District: 84; Image: 424
 3 OBJE @CQh0oq7cRFuTgHq9Z5Qy@
-3 _APID 1,6061::30990994
+3 _APID 6061:30990994
 2 SOUR @z1TPRpwkRpi0Hb52420e@
 3 PAGE Year: 1930; Census Place: Militia District 8, Chatham, Georg
 4 CONC ia; Roll: 345; Page: 5B; Enumeration District: 0059; Image
 4 CONC : 571.0; FHL microfilm: 2340080
 3 OBJE @dPbzlcp5SKu5yzm2rorL@
-3 _APID 1,6224::22425078
+3 _APID 6224:22425078
 2 SOUR @Qxz8JDP7SuCtqVmDijnb@
 3 PAGE New York State Archives; Albany, New York; State Populatio
 4 CONC n Census Schedules, 1915; Election District: 01; Assembly Di
 4 CONC strict: 01; City: Triangle; County: Broome; Page: 05
 3 OBJE @OIK2qEQJQt27BDzaZlSn@
-3 _APID 1,2703::10115784
+3 _APID 2703:10115784
 2 SOUR @7LxrgfRmTNWyu6slXQjR@
 3 PAGE New York State Archives; Albany, New York; State Populatio
 4 CONC n Census Schedules, 1925; Election District: 01; Assembly Di
 4 CONC strict: 01; City: Triangle; County: Broome; Page: 9
 3 OBJE @rWcKZXjfQla5Tn5Oxjxk@
-3 _APID 1,2704::23052953
+3 _APID 2704:23052953
 2 SOUR @f9TGKjo7Q0eOosH9qjGk@
 3 PAGE Registration State: New York; Registration County: Broome; R
 4 CONC oll: 1712045
 3 OBJE @kgWfkHKETxaxTbVRoUEK@
-3 _APID 1,6482::16202341
+3 _APID 6482:16202341
 1 SEX M
 1 FAMS @fI43Fj8ISFedoJZOHhUW@
 1 BIRT
@@ -159,35 +163,35 @@
 4 CONC ll: T624_1423; Page: 12A; Enumeration District: 0170; FHL mi
 4 CONC crofilm: 1375436
 3 OBJE @NOtiDwokQXi1m65EbyOt@
-3 _APID 1,7884::25924633
+3 _APID 7884:25924633
 2 SOUR @gEzHretGQ9iAdPxO8HPJ@
 3 PAGE Year: 1920; Census Place: Triangle, Broome, New York; Roll
 4 CONC : T625_1085; Page: 5B; Enumeration District: 84; Image: 424
 3 OBJE @CQh0oq7cRFuTgHq9Z5Qy@
-3 _APID 1,6061::30990994
+3 _APID 6061:30990994
 2 SOUR @z1TPRpwkRpi0Hb52420e@
 3 PAGE Year: 1930; Census Place: Militia District 8, Chatham, Georg
 4 CONC ia; Roll: 345; Page: 5B; Enumeration District: 0059; Image
 4 CONC : 571.0; FHL microfilm: 2340080
 3 OBJE @dPbzlcp5SKu5yzm2rorL@
-3 _APID 1,6224::22425078
+3 _APID 6224:22425078
 2 SOUR @Qxz8JDP7SuCtqVmDijnb@
 3 PAGE New York State Archives; Albany, New York; State Populatio
 4 CONC n Census Schedules, 1915; Election District: 01; Assembly Di
 4 CONC strict: 01; City: Triangle; County: Broome; Page: 05
 3 OBJE @OIK2qEQJQt27BDzaZlSn@
-3 _APID 1,2703::10115784
+3 _APID 2703:10115784
 2 SOUR @7LxrgfRmTNWyu6slXQjR@
 3 PAGE New York State Archives; Albany, New York; State Populatio
 4 CONC n Census Schedules, 1925; Election District: 01; Assembly Di
 4 CONC strict: 01; City: Triangle; County: Broome; Page: 9
 3 OBJE @rWcKZXjfQla5Tn5Oxjxk@
-3 _APID 1,2704::23052953
+3 _APID 2704:23052953
 2 SOUR @f9TGKjo7Q0eOosH9qjGk@
 3 PAGE Registration State: New York; Registration County: Broome; R
 4 CONC oll: 1712045
 3 OBJE @kgWfkHKETxaxTbVRoUEK@
-3 _APID 1,6482::16202341
+3 _APID 6482:16202341
 1 RESI
 2 DATE 1910
 2 PLAC Westfield, Tioga, Pennsylvania, USA
@@ -199,7 +203,7 @@
 4 CONC ll: T624_1423; Page: 12A; Enumeration District: 0170; FHL mi
 4 CONC crofilm: 1375436
 3 OBJE @NOtiDwokQXi1m65EbyOt@
-3 _APID 1,7884::25924633
+3 _APID 7884:25924633
 2 NOTE Age: 36; Marital Status: Married; Relation to Head of House
 3 CONC : Head
 1 RESI
@@ -213,7 +217,7 @@
 4 CONC n Census Schedules, 1915; Election District: 01; Assembly Di
 4 CONC strict: 01; City: Triangle; County: Broome; Page: 05
 3 OBJE @OIK2qEQJQt27BDzaZlSn@
-3 _APID 1,2703::10115784
+3 _APID 2703:10115784
 2 NOTE Relation to Head of House: Head
 1 RESI
 2 DATE 1917
@@ -225,7 +229,7 @@
 3 PAGE Registration State: New York; Registration County: Broome; R
 4 CONC oll: 1712045
 3 OBJE @kgWfkHKETxaxTbVRoUEK@
-3 _APID 1,6482::16202341
+3 _APID 6482:16202341
 1 RESI
 2 DATE 1920
 2 PLAC Triangle, Broome, New York, USA
@@ -236,7 +240,7 @@
 3 PAGE Year: 1920; Census Place: Triangle, Broome, New York; Roll
 4 CONC : T625_1085; Page: 5B; Enumeration District: 84; Image: 424
 3 OBJE @CQh0oq7cRFuTgHq9Z5Qy@
-3 _APID 1,6061::30990994
+3 _APID 6061:30990994
 2 NOTE Age: 45; Marital Status: Married; Relation to Head of House
 3 CONC : Head
 1 RESI
@@ -250,7 +254,7 @@
 4 CONC n Census Schedules, 1925; Election District: 01; Assembly Di
 4 CONC strict: 01; City: Triangle; County: Broome; Page: 9
 3 OBJE @rWcKZXjfQla5Tn5Oxjxk@
-3 _APID 1,2704::23052953
+3 _APID 2704:23052953
 2 NOTE Age: 50; Relation to Head of House: Head
 1 RESI
 2 DATE 1930
@@ -263,9 +267,10 @@
 4 CONC ia; Roll: 345; Page: 5B; Enumeration District: 0059; Image
 4 CONC : 571.0; FHL microfilm: 2340080
 3 OBJE @dPbzlcp5SKu5yzm2rorL@
-3 _APID 1,6224::22425078
+3 _APID 6224:22425078
 2 NOTE Age: 57; Marital Status: Married; Relation to Head of House
 3 CONC : Head
+1 _GUID 0d1d8152-93a7-4a0e-b594-f231ca2a3a69
 1 _XY 683 2666
 0 @I42@ INDI
 1 REFN aa5dd8f6-07a9-42cb-8b3c-b3f689dc150b
@@ -279,6 +284,7 @@
 2 PLAC Durham, England, UK
 2 SOUR @S79@
 3 QUAY 1
+1 _GUID ff91e0f4-cdfe-44ff-88fd-5aaa866a38c5
 1 _XY 592 1692
 0 @9WAccuOOSxeL794NGODe@ INDI
 1 REFN 8986562e-db17-444b-b03b-28914312bea1
@@ -297,6 +303,7 @@
 3 MAP
 4 LATI N42.1373
 4 LONG W76.9369
+1 _GUID f115e0b3-77f3-4408-a73a-bb542a4f61d3
 1 _XY 929 2339
 0 @I43@ INDI
 1 REFN 2544c7df-3e66-4ce4-b0a7-8bfcb12d5c50
@@ -311,6 +318,7 @@
 2 PLAC Easington, Durham, England, UK
 2 SOUR @S79@
 3 QUAY 1
+1 _GUID 5779848c-154d-4e92-92dc-7e861c61c81c
 1 _XY 992 1290
 0 @I44@ INDI
 1 REFN aebccb0f-4410-43d9-a910-a263e83fcd6f
@@ -324,6 +332,7 @@
 2 PLAC Easington, Durham, England, UK
 2 SOUR @S79@
 3 QUAY 1
+1 _GUID bd9338be-d59a-4457-b674-a4c50b47f7b7
 1 _XY 766 1290
 0 @I45@ INDI
 1 REFN a88c966f-72a4-4f17-b7ad-783da4ac106b
@@ -337,6 +346,7 @@
 2 PLAC Easington, Durham, England, UK
 2 SOUR @S79@
 3 QUAY 1
+1 _GUID 132eee27-d8f6-4afa-be36-b22ded536b71
 1 _XY 661 1290
 0 @I46@ INDI
 1 REFN 70d3fa7c-1e89-4cb2-9b9b-b6defd3e3fc2
@@ -350,6 +360,7 @@
 2 PLAC Easington, Durham, England, UK
 2 SOUR @S79@
 3 QUAY 1
+1 _GUID db62a7df-daca-4a1e-ac41-7e0559f0e3b5
 1 _XY 423 1290
 0 @I47@ INDI
 1 REFN 4da182a0-55eb-448c-8855-4189821be054
@@ -363,6 +374,7 @@
 2 PLAC Easington, Durham, England, UK
 2 SOUR @S79@
 3 QUAY 1
+1 _GUID c04dca75-f905-4817-8908-92da2573673f
 1 _XY 325 1290
 0 @I48@ INDI
 1 REFN 28e7434b-d837-4728-bce5-b0b4053536fa
@@ -376,6 +388,7 @@
 2 PLAC Easington, Durham, England, UK
 2 SOUR @S79@
 3 QUAY 1
+1 _GUID 05f24d54-499d-4993-a787-6a057559eaa2
 1 _XY 307 1124
 0 @I49@ INDI
 1 REFN eec0fab4-0a5b-463a-9e39-9d91e91c0fdb
@@ -389,6 +402,7 @@
 2 PLAC Easington, Durham, England, UK
 2 SOUR @S79@
 3 QUAY 1
+1 _GUID e9b14017-8bf0-4903-ad70-5ce7f2e9a208
 1 _XY 547 1290
 0 @I130@ INDI
 1 REFN 7538b2d1-3448-4c16-89de-36a1b7e9a239
@@ -402,6 +416,7 @@
 2 PLAC Easington, Durham, England, UK
 2 SOUR @S79@
 3 QUAY 1
+1 _GUID 5d1c9d78-0151-41b4-90ce-9c3ef8109cd2
 1 _XY 878 1290
 0 @H67Ja6P6T1a1Zne59bfx@ INDI
 1 REFN 907ea277-5faa-46ac-b078-5f9fd6e05d0e
@@ -411,19 +426,19 @@
 4 CONC : 933; Family History Film: 1254933; Page: 167A; Enumeratio
 4 CONC n District: 171; Image: 0337
 3 OBJE @9fekSPhgS6eGJGlIKd5Y@
-3 _APID 1,6742::5159197
+3 _APID 6742:5159197
 2 SOUR @NDN2XTgxTLmnX7Bgq4LP@
 3 PAGE Year: 1900; Census Place: Elmira Ward 9, Chemung, New York
 4 CONC ; Roll: 1016; Page: 7B; Enumeration District: 0029; FHL micr
 4 CONC ofilm: 1241016
 3 OBJE @lC8XOZvVRhKv5mXdghJR@
-3 _APID 1,7602::18575300
+3 _APID 7602:18575300
 2 SOUR @c4Kpe8hwRqSW5hMTvu1S@
 3 PAGE Year: 1910; Census Place: Elmira Ward 9, Chemung, New York
 4 CONC ; Roll: T624_931; Page: 4B; Enumeration District: 0032; FH
 4 CONC L microfilm: 1374944
 3 OBJE @b734qYM2RbSlfVJjNEgL@
-3 _APID 1,7884::17168732
+3 _APID 7884:17168732
 2 SOUR @N62jTQiMTmmRVQc5KCCK@
 3 PAGE Ancestry Family Tree
 3 DATA
@@ -431,10 +446,10 @@
 5 CONC &pid=1187
 2 SOUR @4jCt5j3VRkqTuhypLl9x@
 3 OBJE @3aa407SjRJWvIepXS4R2@
-3 _APID 1,7364::3325050
+3 _APID 7364:3325050
 2 SOUR @xcXXXJstR1iS4OizBZKh@
 3 OBJE @6xe0YWM6RW2e4ItJnpRy@
-3 _APID 1,2469::85584815
+3 _APID 2469:85584815
 1 SEX M
 1 FAMS @7Oru3OoaSFiSLD0h0ctk@
 1 BIRT
@@ -448,22 +463,22 @@
 4 CONC : 933; Family History Film: 1254933; Page: 167A; Enumeratio
 4 CONC n District: 171; Image: 0337
 3 OBJE @9fekSPhgS6eGJGlIKd5Y@
-3 _APID 1,6742::5159197
+3 _APID 6742:5159197
 2 SOUR @NDN2XTgxTLmnX7Bgq4LP@
 3 PAGE Year: 1900; Census Place: Elmira Ward 9, Chemung, New York
 4 CONC ; Roll: 1016; Page: 7B; Enumeration District: 0029; FHL micr
 4 CONC ofilm: 1241016
 3 OBJE @lC8XOZvVRhKv5mXdghJR@
-3 _APID 1,7602::18575300
+3 _APID 7602:18575300
 2 SOUR @c4Kpe8hwRqSW5hMTvu1S@
 3 PAGE Year: 1910; Census Place: Elmira Ward 9, Chemung, New York
 4 CONC ; Roll: T624_931; Page: 4B; Enumeration District: 0032; FH
 4 CONC L microfilm: 1374944
 3 OBJE @b734qYM2RbSlfVJjNEgL@
-3 _APID 1,7884::17168732
+3 _APID 7884:17168732
 2 SOUR @4jCt5j3VRkqTuhypLl9x@
 3 OBJE @3aa407SjRJWvIepXS4R2@
-3 _APID 1,7364::3325050
+3 _APID 7364:3325050
 1 EVEN
 2 TYPE Arrival
 2 DATE 1866
@@ -472,13 +487,13 @@
 4 CONC ; Roll: 1016; Page: 7B; Enumeration District: 0029; FHL micr
 4 CONC ofilm: 1241016
 3 OBJE @lC8XOZvVRhKv5mXdghJR@
-3 _APID 1,7602::18575300
+3 _APID 7602:18575300
 2 SOUR @c4Kpe8hwRqSW5hMTvu1S@
 3 PAGE Year: 1910; Census Place: Elmira Ward 9, Chemung, New York
 4 CONC ; Roll: T624_931; Page: 4B; Enumeration District: 0032; FH
 4 CONC L microfilm: 1374944
 3 OBJE @b734qYM2RbSlfVJjNEgL@
-3 _APID 1,7884::17168732
+3 _APID 7884:17168732
 1 RESI
 2 DATE 1880
 2 PLAC Corning, Steuben, New York, USA
@@ -490,7 +505,7 @@
 4 CONC : 933; Family History Film: 1254933; Page: 167A; Enumeratio
 4 CONC n District: 171; Image: 0337
 3 OBJE @9fekSPhgS6eGJGlIKd5Y@
-3 _APID 1,6742::5159197
+3 _APID 6742:5159197
 2 NOTE Age: 34; Marital Status: Married; Relation to Head of House
 3 CONC : Self
 1 RESI
@@ -504,7 +519,7 @@
 4 CONC ; Roll: 1016; Page: 7B; Enumeration District: 0029; FHL micr
 4 CONC ofilm: 1241016
 3 OBJE @lC8XOZvVRhKv5mXdghJR@
-3 _APID 1,7602::18575300
+3 _APID 7602:18575300
 2 NOTE Age: 55; Marital Status: Married; Relation to Head of House
 3 CONC : Head
 1 RESI
@@ -515,7 +530,7 @@
 4 LONG W76.8077
 2 SOUR @4jCt5j3VRkqTuhypLl9x@
 3 OBJE @3aa407SjRJWvIepXS4R2@
-3 _APID 1,7364::3325050
+3 _APID 7364:3325050
 2 NOTE Relation to Head of House: Head
 1 RESI
 2 DATE 1910
@@ -528,7 +543,7 @@
 4 CONC ; Roll: T624_931; Page: 4B; Enumeration District: 0032; FH
 4 CONC L microfilm: 1374944
 3 OBJE @b734qYM2RbSlfVJjNEgL@
-3 _APID 1,7884::17168732
+3 _APID 7884:17168732
 2 NOTE Age: 65; Marital Status: Married; Relation to Head of House
 3 CONC : Head
 1 DEAT
@@ -537,6 +552,7 @@
 3 MAP
 4 LATI N42.0898
 4 LONG W76.8077
+1 _GUID 226496a1-3237-4a3c-9a9e-b407999cef6f
 1 _XY 1943 2551
 0 @I50@ INDI
 1 REFN 6e78bc9f-3139-4c15-83c6-fb415d4029a3
@@ -546,13 +562,13 @@
 4 CONC pon Tees; County: Durham; Enumeration District: 1; Folio: 5
 4 CONC ; Page: 5; Line: 6; GSU roll: 241357
 3 OBJE @M64@
-3 _APID 1,8978::4478944
+3 _APID 8978:4478944
 2 SOUR @S101@
-3 _APID 1,9841::63730348
+3 _APID 9841:63730348
 2 SOUR @S98@
-3 _APID 1,9840::3262826
+3 _APID 9840:3262826
 2 SOUR @S97@
-3 _APID 1,9852::27081379
+3 _APID 9852:27081379
 1 SEX F
 1 FAMS @F33@
 1 BIRT
@@ -563,9 +579,9 @@
 4 CONC pon Tees; County: Durham; Enumeration District: 1; Folio: 5
 4 CONC ; Page: 5; Line: 6; GSU roll: 241357
 3 OBJE @M64@
-3 _APID 1,8978::4478944
+3 _APID 8978:4478944
 2 SOUR @S98@
-3 _APID 1,9840::3262826
+3 _APID 9840:3262826
 1 RESI
 2 DATE 1841
 2 PLAC Castle Building, Stockton upon Tees, Durham, England, UK
@@ -574,17 +590,18 @@
 4 CONC pon Tees; County: Durham; Enumeration District: 1; Folio: 5
 4 CONC ; Page: 5; Line: 6; GSU roll: 241357
 3 OBJE @M64@
-3 _APID 1,8978::4478944
+3 _APID 8978:4478944
 1 BURI
 2 DATE 17 JAN 1851
 2 PLAC Stockton upon Tees, Durham, England, UK
 2 SOUR @S98@
-3 _APID 1,9840::3262826
+3 _APID 9840:3262826
 1 DEAT
 2 DATE ABT MAR 1851
 2 PLAC Middlesbrough, Yorkshire, England, UK
 2 SOUR @S98@
-3 _APID 1,9840::3262826
+3 _APID 9840:3262826
+1 _GUID 7279f7e2-7656-409a-b7b3-330554ce3e32
 1 _XY 2297 1695
 0 @W4pdcIGCSZmd8JedOduR@ INDI
 1 REFN 560ed73d-9210-465e-9641-b50161c18607
@@ -594,24 +611,24 @@
 4 CONC 653_730; Page: 422; Image: 44; Family History Library Film
 4 CONC : 803730
 3 OBJE @889BnmNXRsGuR9Tf7azK@
-3 _APID 1,7667::45958762
+3 _APID 7667:45958762
 2 SOUR @tagmH3kSS5mNE6mkVQFl@
 3 PAGE Year: 1880; Census Place: Horseheads, Chemung, New York; Rol
 4 CONC l: 817; Family History Film: 1254817; Page: 510D; Enumeratio
 4 CONC n District: 083; Image: 0600
 3 OBJE @x9Ek0jDvRxGDBg7agg40@
-3 _APID 1,6742::1613824
+3 _APID 6742:1613824
 2 SOUR @NDN2XTgxTLmnX7Bgq4LP@
 3 PAGE Year: 1900; Census Place: Big Flats, Chemung, New York; Roll
 4 CONC : 1016; Page: 2B; Enumeration District: 0003; FHL microfilm
 4 CONC : 1241016
 3 OBJE @aCcLzDjzTFKBYJsHRbt8@
-3 _APID 1,7602::18542709
+3 _APID 7602:18542709
 2 SOUR @uCbrD4YUQIiXVgJwjDWE@
 3 QUAY 1
 2 SOUR @74P5lXIpRomDQfd5WmFi@
 3 OBJE @XA9Vo3BZQR2gnVPVkgzL@
-3 _APID 1,7250::1382745706
+3 _APID 7250:1382745706
 1 SEX F
 1 FAMC @WjmbSMpISim4MuXH6gKY@
 1 FAMS @DCtlZtRIRVm4T1ZfUDC3@
@@ -627,24 +644,24 @@
 4 CONC 653_730; Page: 422; Image: 44; Family History Library Film
 4 CONC : 803730
 3 OBJE @889BnmNXRsGuR9Tf7azK@
-3 _APID 1,7667::45958762
+3 _APID 7667:45958762
 2 SOUR @tagmH3kSS5mNE6mkVQFl@
 3 PAGE Year: 1880; Census Place: Horseheads, Chemung, New York; Rol
 4 CONC l: 817; Family History Film: 1254817; Page: 510D; Enumeratio
 4 CONC n District: 083; Image: 0600
 3 OBJE @x9Ek0jDvRxGDBg7agg40@
-3 _APID 1,6742::1613824
+3 _APID 6742:1613824
 2 SOUR @NDN2XTgxTLmnX7Bgq4LP@
 3 PAGE Year: 1900; Census Place: Big Flats, Chemung, New York; Roll
 4 CONC : 1016; Page: 2B; Enumeration District: 0003; FHL microfilm
 4 CONC : 1241016
 3 OBJE @aCcLzDjzTFKBYJsHRbt8@
-3 _APID 1,7602::18542709
+3 _APID 7602:18542709
 2 SOUR @5qMhuSQnSDaq5a3QWOkH@
 3 QUAY 1
 2 SOUR @74P5lXIpRomDQfd5WmFi@
 3 OBJE @XA9Vo3BZQR2gnVPVkgzL@
-3 _APID 1,7250::1382745706
+3 _APID 7250:1382745706
 1 RESI
 2 DATE 1860
 2 PLAC Elmira, Chemung, New York, USA
@@ -656,7 +673,7 @@
 4 CONC 653_730; Page: 422; Image: 44; Family History Library Film
 4 CONC : 803730
 3 OBJE @889BnmNXRsGuR9Tf7azK@
-3 _APID 1,7667::45958762
+3 _APID 7667:45958762
 1 RESI
 2 DATE 01 JUN 1875
 2 PLAC Corning, Steuben, New York, USA
@@ -665,7 +682,7 @@
 4 LONG W77.0547
 2 SOUR @74P5lXIpRomDQfd5WmFi@
 3 OBJE @XA9Vo3BZQR2gnVPVkgzL@
-3 _APID 1,7250::1382745706
+3 _APID 7250:1382745706
 2 NOTE Relation to Head of House: Wife
 1 RESI
 2 DATE 1880
@@ -678,7 +695,7 @@
 4 CONC l: 817; Family History Film: 1254817; Page: 510D; Enumeratio
 4 CONC n District: 083; Image: 0600
 3 OBJE @x9Ek0jDvRxGDBg7agg40@
-3 _APID 1,6742::1613824
+3 _APID 6742:1613824
 2 NOTE Marital Status: Married; Relation to Head of House: Wife
 1 RESI
 2 DATE 1900
@@ -691,9 +708,10 @@
 4 CONC : 1016; Page: 2B; Enumeration District: 0003; FHL microfilm
 4 CONC : 1241016
 3 OBJE @aCcLzDjzTFKBYJsHRbt8@
-3 _APID 1,7602::18542709
+3 _APID 7602:18542709
 2 NOTE Age: 69; Marital Status: Widowed; Relation to Head of House
 3 CONC : Aunt
+1 _GUID f26a6f09-bc84-4ce8-a444-f22220b0a6ab
 1 _XY 1049 2424
 0 @EB6NjE3oQVGO87LT1YtO@ INDI
 1 REFN d7bf4578-7d23-4f79-9163-dea31f7917f4
@@ -703,20 +721,20 @@
 4 CONC : M593_914; Page: 32B; Image: 69; Family History Library Fil
 4 CONC m: 552413
 3 OBJE @2Wig0snFRv6jTr0YLJzt@
-3 _APID 1,7163::29583713
+3 _APID 7163:29583713
 2 SOUR @c4Kpe8hwRqSW5hMTvu1S@
 3 PAGE Year: 1910; Census Place: Big Flats, Chemung, New York; Roll
 4 CONC : T624_931; Page: 8A; Enumeration District: 0004; FHL microf
 4 CONC ilm: 1374944
 3 OBJE @CAnv2YCMRHe7oSHYxN9l@
-3 _APID 1,7884::119237807
+3 _APID 7884:119237807
 2 SOUR @2bg2kSXxR9G5oJVTCXgV@
 3 OBJE @4SyVrL4jSEyARW3Yyqoh@
-3 _APID 1,7218::970013
+3 _APID 7218:970013
 2 SOUR @PTkUNEaISa61ijB7VnKA@
-3 _APID 1,60525::28659561
+3 _APID 60525:28659561
 2 SOUR @7jxFiZGcR16IjiRnFxmM@
-3 _APID 1,70572::1129545
+3 _APID 70572:1129545
 1 SEX M
 1 FAMC @WjmbSMpISim4MuXH6gKY@
 1 FAMS @qtAzdYXQTPuUIVc7IQWS@
@@ -731,18 +749,18 @@
 4 CONC : M593_914; Page: 32B; Image: 69; Family History Library Fil
 4 CONC m: 552413
 3 OBJE @2Wig0snFRv6jTr0YLJzt@
-3 _APID 1,7163::29583713
+3 _APID 7163:29583713
 2 SOUR @c4Kpe8hwRqSW5hMTvu1S@
 3 PAGE Year: 1910; Census Place: Big Flats, Chemung, New York; Roll
 4 CONC : T624_931; Page: 8A; Enumeration District: 0004; FHL microf
 4 CONC ilm: 1374944
 3 OBJE @CAnv2YCMRHe7oSHYxN9l@
-3 _APID 1,7884::119237807
+3 _APID 7884:119237807
 2 SOUR @2bg2kSXxR9G5oJVTCXgV@
 3 OBJE @4SyVrL4jSEyARW3Yyqoh@
-3 _APID 1,7218::970013
+3 _APID 7218:970013
 2 SOUR @PTkUNEaISa61ijB7VnKA@
-3 _APID 1,60525::28659561
+3 _APID 60525:28659561
 1 RESI
 2 DATE 1865
 2 PLAC Southport, Chemung, New York, USA
@@ -751,7 +769,7 @@
 4 LONG W76.8191
 2 SOUR @2bg2kSXxR9G5oJVTCXgV@
 3 OBJE @4SyVrL4jSEyARW3Yyqoh@
-3 _APID 1,7218::970013
+3 _APID 7218:970013
 2 NOTE Relation to Head of House: Brother
 1 RESI
 2 DATE 1870
@@ -764,7 +782,7 @@
 4 CONC : M593_914; Page: 32B; Image: 69; Family History Library Fil
 4 CONC m: 552413
 3 OBJE @2Wig0snFRv6jTr0YLJzt@
-3 _APID 1,7163::29583713
+3 _APID 7163:29583713
 2 NOTE Age: 27; Census Post Office: Big Flats
 1 RESI
 2 DATE 1910
@@ -777,7 +795,7 @@
 4 CONC : T624_931; Page: 8A; Enumeration District: 0004; FHL microf
 4 CONC ilm: 1374944
 3 OBJE @CAnv2YCMRHe7oSHYxN9l@
-3 _APID 1,7884::119237807
+3 _APID 7884:119237807
 2 NOTE Age: 66; Marital Status: Widowed; Marital Status: Married; R
 3 CONC elation to Head of House: Father
 1 DEAT
@@ -787,15 +805,16 @@
 4 LATI N42.167
 4 LONG W76.8205
 2 SOUR @PTkUNEaISa61ijB7VnKA@
-3 _APID 1,60525::28659561
+3 _APID 60525:28659561
 2 SOUR @7jxFiZGcR16IjiRnFxmM@
-3 _APID 1,70572::1129545
+3 _APID 70572:1129545
 1 BURI
 2 PLAC Maple Grove Cemetery, Horseheads, Chemung, New York, USA
 2 SOUR @PTkUNEaISa61ijB7VnKA@
-3 _APID 1,60525::28659561
+3 _APID 60525:28659561
 2 SOUR @7jxFiZGcR16IjiRnFxmM@
-3 _APID 1,70572::1129545
+3 _APID 70572:1129545
+1 _GUID ccacead0-5ad0-42c5-91a8-f430edca5423
 1 _XY 754 2473
 0 @SYu4FgiIQpijrK9kHfmA@ INDI
 1 REFN 6f7cc92f-56ce-4d52-bfb7-fdfce4bd7faf
@@ -805,32 +824,32 @@
 4 CONC ll: T624_1423; Page: 12A; Enumeration District: 0170; FHL mi
 4 CONC crofilm: 1375436
 3 OBJE @NOtiDwokQXi1m65EbyOt@
-3 _APID 1,7884::114459489
+3 _APID 7884:114459489
 2 SOUR @gEzHretGQ9iAdPxO8HPJ@
 3 PAGE Year: 1920; Census Place: Triangle, Broome, New York; Roll
 4 CONC : T625_1085; Page: 5B; Enumeration District: 84; Image: 424
 3 OBJE @CQh0oq7cRFuTgHq9Z5Qy@
-3 _APID 1,6061::30990995
+3 _APID 6061:30990995
 2 SOUR @z1TPRpwkRpi0Hb52420e@
 3 PAGE Year: 1930; Census Place: Militia District 8, Chatham, Georg
 4 CONC ia; Roll: 345; Page: 5B; Enumeration District: 0059; Image
 4 CONC : 571.0; FHL microfilm: 2340080
 3 OBJE @dPbzlcp5SKu5yzm2rorL@
-3 _APID 1,6224::19049154
+3 _APID 6224:19049154
 2 SOUR @Qxz8JDP7SuCtqVmDijnb@
 3 PAGE New York State Archives; Albany, New York; State Populatio
 4 CONC n Census Schedules, 1915; Election District: 01; Assembly Di
 4 CONC strict: 01; City: Triangle; County: Broome; Page: 05
 3 OBJE @OIK2qEQJQt27BDzaZlSn@
-3 _APID 1,2703::10115785
+3 _APID 2703:10115785
 2 SOUR @7LxrgfRmTNWyu6slXQjR@
 3 PAGE New York State Archives; Albany, New York; State Populatio
 4 CONC n Census Schedules, 1925; Election District: 01; Assembly Di
 4 CONC strict: 01; City: Triangle; County: Broome; Page: 9
 3 OBJE @rWcKZXjfQla5Tn5Oxjxk@
-3 _APID 1,2704::23052958
+3 _APID 2704:23052958
 2 SOUR @PTkUNEaISa61ijB7VnKA@
-3 _APID 1,60525::22965253
+3 _APID 60525:22965253
 1 SEX F
 1 FAMC @qtAzdYXQTPuUIVc7IQWS@
 1 FAMS @fI43Fj8ISFedoJZOHhUW@
@@ -846,32 +865,32 @@
 4 CONC ll: T624_1423; Page: 12A; Enumeration District: 0170; FHL mi
 4 CONC crofilm: 1375436
 3 OBJE @NOtiDwokQXi1m65EbyOt@
-3 _APID 1,7884::114459489
+3 _APID 7884:114459489
 2 SOUR @gEzHretGQ9iAdPxO8HPJ@
 3 PAGE Year: 1920; Census Place: Triangle, Broome, New York; Roll
 4 CONC : T625_1085; Page: 5B; Enumeration District: 84; Image: 424
 3 OBJE @CQh0oq7cRFuTgHq9Z5Qy@
-3 _APID 1,6061::30990995
+3 _APID 6061:30990995
 2 SOUR @z1TPRpwkRpi0Hb52420e@
 3 PAGE Year: 1930; Census Place: Militia District 8, Chatham, Georg
 4 CONC ia; Roll: 345; Page: 5B; Enumeration District: 0059; Image
 4 CONC : 571.0; FHL microfilm: 2340080
 3 OBJE @dPbzlcp5SKu5yzm2rorL@
-3 _APID 1,6224::19049154
+3 _APID 6224:19049154
 2 SOUR @Qxz8JDP7SuCtqVmDijnb@
 3 PAGE New York State Archives; Albany, New York; State Populatio
 4 CONC n Census Schedules, 1915; Election District: 01; Assembly Di
 4 CONC strict: 01; City: Triangle; County: Broome; Page: 05
 3 OBJE @OIK2qEQJQt27BDzaZlSn@
-3 _APID 1,2703::10115785
+3 _APID 2703:10115785
 2 SOUR @7LxrgfRmTNWyu6slXQjR@
 3 PAGE New York State Archives; Albany, New York; State Populatio
 4 CONC n Census Schedules, 1925; Election District: 01; Assembly Di
 4 CONC strict: 01; City: Triangle; County: Broome; Page: 9
 3 OBJE @rWcKZXjfQla5Tn5Oxjxk@
-3 _APID 1,2704::23052958
+3 _APID 2704:23052958
 2 SOUR @PTkUNEaISa61ijB7VnKA@
-3 _APID 1,60525::22965253
+3 _APID 60525:22965253
 1 RESI
 2 DATE 1910
 2 PLAC Westfield, Tioga, Pennsylvania, USA
@@ -883,7 +902,7 @@
 4 CONC ll: T624_1423; Page: 12A; Enumeration District: 0170; FHL mi
 4 CONC crofilm: 1375436
 3 OBJE @NOtiDwokQXi1m65EbyOt@
-3 _APID 1,7884::114459489
+3 _APID 7884:114459489
 2 NOTE Age: 23; Marital Status: Married; Relation to Head of House
 3 CONC : Wife
 1 RESI
@@ -897,7 +916,7 @@
 4 CONC n Census Schedules, 1915; Election District: 01; Assembly Di
 4 CONC strict: 01; City: Triangle; County: Broome; Page: 05
 3 OBJE @OIK2qEQJQt27BDzaZlSn@
-3 _APID 1,2703::10115785
+3 _APID 2703:10115785
 2 NOTE Relation to Head of House: Wife
 1 RESI
 2 DATE 1920
@@ -909,7 +928,7 @@
 3 PAGE Year: 1920; Census Place: Triangle, Broome, New York; Roll
 4 CONC : T625_1085; Page: 5B; Enumeration District: 84; Image: 424
 3 OBJE @CQh0oq7cRFuTgHq9Z5Qy@
-3 _APID 1,6061::30990995
+3 _APID 6061:30990995
 2 NOTE Age: 32; Marital Status: Married; Relation to Head of House
 3 CONC : Wife
 1 RESI
@@ -923,7 +942,7 @@
 4 CONC n Census Schedules, 1925; Election District: 01; Assembly Di
 4 CONC strict: 01; City: Triangle; County: Broome; Page: 9
 3 OBJE @rWcKZXjfQla5Tn5Oxjxk@
-3 _APID 1,2704::23052958
+3 _APID 2704:23052958
 2 NOTE Age: 37; Relation to Head of House: Wife
 1 RESI
 2 DATE 1930
@@ -936,20 +955,21 @@
 4 CONC ia; Roll: 345; Page: 5B; Enumeration District: 0059; Image
 4 CONC : 571.0; FHL microfilm: 2340080
 3 OBJE @dPbzlcp5SKu5yzm2rorL@
-3 _APID 1,6224::19049154
+3 _APID 6224:19049154
 2 NOTE Age: 43; Marital Status: Married; Relation to Head of House
 3 CONC : Wife
 1 DEAT
 2 DATE 1969
 2 SOUR @PTkUNEaISa61ijB7VnKA@
-3 _APID 1,60525::22965253
+3 _APID 60525:22965253
 1 BURI
 2 PLAC Corning, Steuben, New York, USA
 3 MAP
 4 LATI N42.1429
 4 LONG W77.0547
 2 SOUR @PTkUNEaISa61ijB7VnKA@
-3 _APID 1,60525::22965253
+3 _APID 60525:22965253
+1 _GUID 46731ea7-97ec-468f-b63a-6d1533bb7d62
 1 _XY 808 2659
 0 @ukQpywN8TxGzUzVMBsqS@ INDI
 1 REFN 95854072-bae6-4beb-851b-73f5e0960296
@@ -969,6 +989,7 @@
 3 MAP
 4 LATI N42.1373
 4 LONG W76.9369
+1 _GUID 24d65fee-b166-4a5e-aa1d-87c63100038a
 1 _XY 813 2339
 0 @J2G7NMjCRACgR1HOLINv@ INDI
 1 REFN d28c6eb0-0840-43d3-a56b-28bdb6a0a48f
@@ -978,7 +999,7 @@
 4 CONC : T624_931; Page: 8A; Enumeration District: 0004; FHL microf
 4 CONC ilm: 1374944
 3 OBJE @CAnv2YCMRHe7oSHYxN9l@
-3 _APID 1,7884::17151172
+3 _APID 7884:17151172
 1 SEX M
 1 FAMC @qtAzdYXQTPuUIVc7IQWS@
 1 BIRT
@@ -992,7 +1013,7 @@
 4 CONC : T624_931; Page: 8A; Enumeration District: 0004; FHL microf
 4 CONC ilm: 1374944
 3 OBJE @CAnv2YCMRHe7oSHYxN9l@
-3 _APID 1,7884::17151172
+3 _APID 7884:17151172
 1 RESI
 2 DATE 1910
 2 PLAC Big Flats, Chemung, New York, USA
@@ -1004,9 +1025,10 @@
 4 CONC : T624_931; Page: 8A; Enumeration District: 0004; FHL microf
 4 CONC ilm: 1374944
 3 OBJE @CAnv2YCMRHe7oSHYxN9l@
-3 _APID 1,7884::17151172
+3 _APID 7884:17151172
 2 NOTE Age: 29; Age: 29; Marital Status: Married; Relation to Hea
 3 CONC d of House: Head
+1 _GUID 31874712-17b0-41bd-8d24-b4e5b4d46acc
 1 _XY 945 2665
 0 @I37@ INDI
 1 REFN 55701dab-6af5-4635-93cb-086d8d92bd49
@@ -1028,6 +1050,7 @@
 1 DEAT
 2 DATE ABT 1846
 2 NOTE just a guess
+1 _GUID 9590e8ff-1321-4002-b879-d1fa5c1ea420
 1 _XY 156 1684
 0 @LmanY00ISmSHfOkpVndB@ INDI
 1 REFN bbe58a75-2265-4424-b990-21af3f400dc5
@@ -1037,7 +1060,7 @@
 4 CONC : 933; Family History Film: 1254933; Page: 165B; Enumeratio
 4 CONC n District: 171; Image: 0334
 3 OBJE @k2xDoMfDQ2CEf4yVCuqo@
-3 _APID 1,6742::5159210
+3 _APID 6742:5159210
 2 SOUR @N62jTQiMTmmRVQc5KCCK@
 3 PAGE Ancestry Family Tree
 3 DATA
@@ -1045,12 +1068,12 @@
 5 CONC &pid=1203
 2 SOUR @eaHR0oxuTfOp5myA78b9@
 3 OBJE @SGnHaKBtQYGRR9ubBWg4@
-3 _APID 1,3212::279025
+3 _APID 3212:279025
 2 SOUR @mDWKwIsCRaCKr5iO25hg@
 3 OBJE @cw72CZy8Sa2fFE5yZQ21@
-3 _APID 1,2469::1224098616
+3 _APID 2469:1224098616
 2 SOUR @PTkUNEaISa61ijB7VnKA@
-3 _APID 1,60525::105603154
+3 _APID 60525:105603154
 1 SEX M
 1 FAMS @Frfm36v7QBCGN8pZPXpa@
 1 BIRT
@@ -1064,12 +1087,12 @@
 4 CONC : 933; Family History Film: 1254933; Page: 165B; Enumeratio
 4 CONC n District: 171; Image: 0334
 3 OBJE @k2xDoMfDQ2CEf4yVCuqo@
-3 _APID 1,6742::5159210
+3 _APID 6742:5159210
 2 SOUR @eaHR0oxuTfOp5myA78b9@
 3 OBJE @SGnHaKBtQYGRR9ubBWg4@
-3 _APID 1,3212::279025
+3 _APID 3212:279025
 2 SOUR @PTkUNEaISa61ijB7VnKA@
-3 _APID 1,60525::105603154
+3 _APID 60525:105603154
 1 RESI
 2 DATE 1880
 2 PLAC Corning, Steuben, New York, USA
@@ -1081,7 +1104,7 @@
 4 CONC : 933; Family History Film: 1254933; Page: 165B; Enumeratio
 4 CONC n District: 171; Image: 0334
 3 OBJE @k2xDoMfDQ2CEf4yVCuqo@
-3 _APID 1,6742::5159210
+3 _APID 6742:5159210
 2 NOTE Age: 26; Marital Status: Married; Relation to Head of House
 3 CONC : Self
 1 RESI
@@ -1092,16 +1115,17 @@
 4 LONG W77.0547
 2 SOUR @eaHR0oxuTfOp5myA78b9@
 3 OBJE @SGnHaKBtQYGRR9ubBWg4@
-3 _APID 1,3212::279025
+3 _APID 3212:279025
 2 NOTE Age: 36
 1 DEAT
 2 DATE 1892
 2 SOUR @PTkUNEaISa61ijB7VnKA@
-3 _APID 1,60525::105603154
+3 _APID 60525:105603154
 1 BURI
 2 PLAC Hope Cemetery, Corning, Steuben, New York, USA
 2 SOUR @PTkUNEaISa61ijB7VnKA@
-3 _APID 1,60525::105603154
+3 _APID 60525:105603154
+1 _GUID af2183ae-31e6-40df-a705-16763dfecb02
 1 _XY 2171 2551
 0 @I51@ INDI
 1 REFN cf314538-9f20-4b1c-8888-fd07a9ba5cb1
@@ -1122,6 +1146,7 @@
 2 PLAC Hart, Hartlepool, Durham, England, UK
 2 SOUR @S79@
 3 QUAY 1
+1 _GUID b09934e3-4b74-46f7-aa35-3384632b54a5
 1 _XY 1828 1685
 0 @I52@ INDI
 1 REFN e3f58cc1-6935-4c12-9c04-7c7f0ac05095
@@ -1134,6 +1159,7 @@
 2 DATE ABT 1635
 2 PLAC Bishop Auckland, Durham, England, UK
 2 SOUR @S79@
+1 _GUID b36a945d-b960-44fc-a0ec-e60bf17ef3ee
 1 _XY 1354 653
 0 @jnoSTucrQgqucWKYBL8O@ INDI
 1 REFN 92ad4118-36fa-4dd3-b167-6214d3146d91
@@ -1144,6 +1170,7 @@
 2 DATE 11 NOV 1873
 1 DEAT
 2 DATE 29 APR 1943
+1 _GUID c899fbab-2fab-47a4-a13d-969118d3f84b
 1 _XY 1660 2661
 0 @x3gMSG40RiC2bkzW21WP@ INDI
 1 REFN 13d9c0d7-cf92-45f6-8842-43663f962c40
@@ -1154,6 +1181,7 @@
 2 DATE ABT 1880
 1 DEAT
 2 DATE 1895
+1 _GUID 3fef0923-cab5-4fbe-9e77-e3d46150a9f3
 1 _XY 1541 2661
 0 @RLBiZk8zQ7GzqZdaLguh@ INDI
 1 REFN 82499566-a27b-42ea-95e9-e8b691c92155
@@ -1164,6 +1192,7 @@
 2 DATE 24 MAY 1840
 1 DEAT
 2 DATE 14 JUN 1912
+1 _GUID d8c47dce-8e7a-4601-9187-fffb0ad65023
 1 _XY 1523 2551
 0 @I53@ INDI
 1 REFN f0e06bf7-0ad3-4918-adbb-661a45a3a2cc
@@ -1182,6 +1211,7 @@
 2 PLAC Hart, Hartlepool, Durham, England, UK
 2 SOUR @S79@
 3 QUAY 1
+1 _GUID c0cc4806-ff6a-40b3-952a-14a5a5b0f247
 1 _XY 1336 1283
 0 @eqjrwzpxTiyQLvNx06kf@ INDI
 1 REFN d071f7c3-15c1-469c-91ff-a9b2474c7858
@@ -1191,18 +1221,18 @@
 4 CONC pon Tees; County: Durham; Enumeration District: 2; Folio: 27
 4 CONC ; Page: 22; Line: 17; GSU roll: 241357
 3 OBJE @fkkFGltLRgGeUuNdFwkz@
-3 _APID 1,8978::4479730
+3 _APID 8978:4479730
 2 SOUR @PPoEna95SvGGrbNZGrWG@
 3 QUAY 1
 2 SOUR @tftkH4FoRDy9YV8UqUaZ@
 2 SOUR @OeOCLbwlTzu3dQqftwwk@
 3 OBJE @6ad42r9ySR286aDp5r82@
-3 _APID 1,8914::32992822
+3 _APID 8914:32992822
 2 SOUR @7kJ3C8C4QFesOwUmgdI4@
 2 SOUR @S101@
-3 _APID 1,9841::44353563
+3 _APID 9841:44353563
 2 SOUR @S97@
-3 _APID 1,9852::34987084
+3 _APID 9852:34987084
 1 SEX F
 1 FAMC @F33@
 1 FAMS @SBsOGRdKSbijpGIgiBgo@
@@ -1214,7 +1244,7 @@
 4 CONC pon Tees; County: Durham; Enumeration District: 2; Folio: 27
 4 CONC ; Page: 22; Line: 17; GSU roll: 241357
 3 OBJE @fkkFGltLRgGeUuNdFwkz@
-3 _APID 1,8978::4479730
+3 _APID 8978:4479730
 2 SOUR @7kJ3C8C4QFesOwUmgdI4@
 3 QUAY 1
 2 NOTE place is from P. Sidgwick
@@ -1231,7 +1261,7 @@
 4 CONC pon Tees; County: Durham; Enumeration District: 2; Folio: 27
 4 CONC ; Page: 22; Line: 17; GSU roll: 241357
 3 OBJE @fkkFGltLRgGeUuNdFwkz@
-3 _APID 1,8978::4479730
+3 _APID 8978:4479730
 1 DEAT
 2 DATE 17 MAY 1845
 2 PLAC Commercial Steet, Middlesbrough, Stockton upon Tees, Durham
@@ -1240,15 +1270,16 @@
 3 QUAY 3
 2 SOUR @OeOCLbwlTzu3dQqftwwk@
 3 OBJE @6ad42r9ySR286aDp5r82@
-3 _APID 1,8914::32992822
+3 _APID 8914:32992822
 1 RESI
 2 PLAC Stockton-on-Tees, Durham, England
 3 MAP
 4 LATI N54.5833
 4 LONG E1.4167
 2 SOUR @S97@
-3 _APID 1,9852::34987084
+3 _APID 9852:34987084
 2 NOTE Marital Status: Single
+1 _GUID 021c0f4a-60e5-4b45-9214-59a458c9aec5
 1 _XY 2192 1931
 0 @I54@ INDI
 1 REFN 106384cf-459d-4982-b11d-184a2b077655
@@ -1258,26 +1289,26 @@
 4 CONC pon Tees; County: Durham; Enumeration District: 12; Folio: 3
 4 CONC 3; Page: 30; Line: 5; GSU roll: 241357
 3 OBJE @M66@
-3 _APID 1,8978::1583282
+3 _APID 8978:1583282
 2 SOUR @S81@
 3 PAGE Class: HO107; Piece: 2383; Folio: 722; Page: 1; GSU roll: 87
 4 CONC 061
 3 OBJE @M67@
-3 _APID 1,8860::14435579
+3 _APID 8860:14435579
 2 SOUR @OeOCLbwlTzu3dQqftwwk@
 3 OBJE @M68@
-3 _APID 1,8914::21087128
+3 _APID 8914:21087128
 2 SOUR @S101@
-3 _APID 1,9841::63730071
+3 _APID 9841:63730071
 2 SOUR @S98@
-3 _APID 1,9840::7872730
+3 _APID 9840:7872730
 1 SEX M
 1 FAMC @F33@
 1 BAPM
 2 DATE 27 MAR 1793
 2 PLAC Egglescliffe, Stockton upon Tees, Durham, England, UK
 2 SOUR @S101@
-3 _APID 1,9841::63730071
+3 _APID 9841:63730071
 1 BIRT
 2 DATE ABT 1793
 2 PLAC Eaglescliffe, Durham, England, UK
@@ -1286,14 +1317,14 @@
 4 CONC pon Tees; County: Durham; Enumeration District: 12; Folio: 3
 4 CONC 3; Page: 30; Line: 5; GSU roll: 241357
 3 OBJE @M66@
-3 _APID 1,8978::1583282
+3 _APID 8978:1583282
 2 SOUR @S81@
 3 PAGE Class: HO107; Piece: 2383; Folio: 722; Page: 1; GSU roll: 87
 4 CONC 061
 3 OBJE @M67@
-3 _APID 1,8860::14435579
+3 _APID 8860:14435579
 2 SOUR @S98@
-3 _APID 1,9840::7872730
+3 _APID 9840:7872730
 1 RESI
 2 DATE 1841
 2 PLAC Stockton upon Tees, Durham, England, UK
@@ -1302,7 +1333,7 @@
 4 CONC pon Tees; County: Durham; Enumeration District: 12; Folio: 3
 4 CONC 3; Page: 30; Line: 5; GSU roll: 241357
 3 OBJE @M66@
-3 _APID 1,8978::1583282
+3 _APID 8978:1583282
 1 RESI
 2 DATE 1851
 2 PLAC Stockton upon Tees, Durham, England, UK
@@ -1310,21 +1341,22 @@
 3 PAGE Class: HO107; Piece: 2383; Folio: 722; Page: 1; GSU roll: 87
 4 CONC 061
 3 OBJE @M67@
-3 _APID 1,8860::14435579
+3 _APID 8860:14435579
 2 NOTE Relationship: Head
 1 DEAT
 2 DATE JAN 1861
 2 PLAC Stockton upon Tees, Durham, England, UK
 2 SOUR @OeOCLbwlTzu3dQqftwwk@
 3 OBJE @M68@
-3 _APID 1,8914::21087128
+3 _APID 8914:21087128
 2 SOUR @S98@
-3 _APID 1,9840::7872730
+3 _APID 9840:7872730
 1 BURI
 2 DATE 06 FEB 1861
 2 PLAC Holy Trinity, Stockton upon Tees, Durham, England, UK
 2 SOUR @S98@
-3 _APID 1,9840::7872730
+3 _APID 9840:7872730
+1 _GUID 3cbce319-45af-4cf8-aa63-c4ba66c15449
 1 _XY 2314 1931
 0 @I55@ INDI
 1 REFN 82451606-6252-4b43-a4ce-fdf5dfdb3d86
@@ -1334,14 +1366,14 @@
 4 CONC pon Tees; County: Durham; Enumeration District: 1; Folio: 5
 4 CONC ; Page: 5; Line: 5; GSU roll: 241357
 3 OBJE @M64@
-3 _APID 1,8978::4478943
+3 _APID 8978:4478943
 2 SOUR @OeOCLbwlTzu3dQqftwwk@
 3 OBJE @M69@
-3 _APID 1,8914::21088004
+3 _APID 8914:21088004
 2 SOUR @S101@
-3 _APID 1,9841::63730347
+3 _APID 9841:63730347
 2 SOUR @S97@
-3 _APID 1,9852::27081380
+3 _APID 9852:27081380
 1 SEX M
 1 FAMS @F33@
 1 BIRT
@@ -1352,7 +1384,7 @@
 4 CONC pon Tees; County: Durham; Enumeration District: 1; Folio: 5
 4 CONC ; Page: 5; Line: 5; GSU roll: 241357
 3 OBJE @M64@
-3 _APID 1,8978::4478943
+3 _APID 8978:4478943
 1 RESI
 2 DATE 1841
 2 PLAC Castle Building, Stockton upon Tees, Durham, England, UK
@@ -1361,13 +1393,14 @@
 4 CONC pon Tees; County: Durham; Enumeration District: 1; Folio: 5
 4 CONC ; Page: 5; Line: 5; GSU roll: 241357
 3 OBJE @M64@
-3 _APID 1,8978::4478943
+3 _APID 8978:4478943
 1 DEAT
 2 DATE ABT NOV 1847
 2 PLAC Stockton upon Tees, Durham, England, UK
 2 SOUR @OeOCLbwlTzu3dQqftwwk@
 3 OBJE @M69@
-3 _APID 1,8914::21088004
+3 _APID 8914:21088004
+1 _GUID 6c0446d9-b3b0-4b16-b730-67c04ea0eefa
 1 _XY 2194 1695
 0 @wOdCOhFCRTaQXwucacDH@ INDI
 1 REFN 65bc05e1-39ad-4e35-86a6-03060ffceae8
@@ -1377,12 +1410,12 @@
 4 CONC 653_730; Page: 422; Image: 44; Family History Library Film
 4 CONC : 803730
 3 OBJE @889BnmNXRsGuR9Tf7azK@
-3 _APID 1,7667::45958761
+3 _APID 7667:45958761
 2 SOUR @qNGRvFLKRVCetGMY4KMl@
 3 QUAY 1
 2 SOUR @mDWKwIsCRaCKr5iO25hg@
 3 OBJE @XML95beXRRqyNjAogSfG@
-3 _APID 1,2469::1400102586
+3 _APID 2469:1400102586
 1 SEX M
 1 FAMS @DCtlZtRIRVm4T1ZfUDC3@
 1 BIRT
@@ -1396,7 +1429,7 @@
 4 CONC 653_730; Page: 422; Image: 44; Family History Library Film
 4 CONC : 803730
 3 OBJE @889BnmNXRsGuR9Tf7azK@
-3 _APID 1,7667::45958761
+3 _APID 7667:45958761
 1 RESI
 2 DATE 1860
 2 PLAC Elmira, Chemung, New York, USA
@@ -1408,13 +1441,14 @@
 4 CONC 653_730; Page: 422; Image: 44; Family History Library Film
 4 CONC : 803730
 3 OBJE @889BnmNXRsGuR9Tf7azK@
-3 _APID 1,7667::45958761
+3 _APID 7667:45958761
 1 RESI
 2 DATE 1863
 2 PLAC 24 Baldwin Street, Elmira, Chemung, New York, USA
 2 SOUR @mDWKwIsCRaCKr5iO25hg@
 3 OBJE @XML95beXRRqyNjAogSfG@
-3 _APID 1,2469::1400102586
+3 _APID 2469:1400102586
+1 _GUID f5d530f8-2341-48d8-b48f-4981afc17274
 1 _XY 917 2424
 0 @oWkOgOV1Tp6JTZoU93DW@ INDI
 1 REFN 7a0fb84d-ead0-42a9-aee0-fdfa2e62a992
@@ -1424,24 +1458,24 @@
 4 CONC 3; Family History Film: 1254933; Page: 219A; Enumeration Dis
 4 CONC trict: 173; Image: 0441
 3 OBJE @xNxl4cTfRbaETAVSHqgQ@
-3 _APID 1,6742::5174211
+3 _APID 6742:5174211
 2 SOUR @NDN2XTgxTLmnX7Bgq4LP@
 3 PAGE Year: 1900; Census Place: Erwin, Steuben, New York; Roll: 11
 4 CONC 63; Page: 6B; Enumeration District: 0082; FHL microfilm: 124
 4 CONC 1163
 3 OBJE @blNQH6aXRTWrpDosAT1j@
-3 _APID 1,7602::56731112
+3 _APID 7602:56731112
 2 SOUR @h7WBKNgwRSOUt2BNNsOI@
 3 OBJE @e2itw6lqSXqxQ9OzyjyJ@
-3 _APID 1,7181::1655632241
+3 _APID 7181:1655632241
 2 SOUR @74P5lXIpRomDQfd5WmFi@
 3 OBJE @kWmywm3ESauERQbRJVR3@
-3 _APID 1,7250::1382752965
+3 _APID 7250:1382752965
 2 SOUR @2W7E32UHQqKiWPSvCYOW@
 3 QUAY 1
 2 SOUR @mDWKwIsCRaCKr5iO25hg@
 3 OBJE @5LeyQN3uRPG0yM2uCFqI@
-3 _APID 1,2469::53821327
+3 _APID 2469:53821327
 1 SEX F
 1 FAMS @9lQRIZf6SYK7Y5hx8Llz@
 1 BIRT
@@ -1452,7 +1486,7 @@
 4 CONC 63; Page: 6B; Enumeration District: 0082; FHL microfilm: 124
 4 CONC 1163
 3 OBJE @blNQH6aXRTWrpDosAT1j@
-3 _APID 1,7602::56731112
+3 _APID 7602:56731112
 2 SOUR @S82@
 3 QUAY 1
 2 NOTE place is from husband's obituary
@@ -1464,7 +1498,7 @@
 4 LONG W77.1408
 2 SOUR @h7WBKNgwRSOUt2BNNsOI@
 3 OBJE @e2itw6lqSXqxQ9OzyjyJ@
-3 _APID 1,7181::1655632241
+3 _APID 7181:1655632241
 2 NOTE Relation to Head of House: Wife
 1 CENS
 2 DATE 01 JUN 1860
@@ -1490,7 +1524,7 @@
 4 LONG W77.1408
 2 SOUR @74P5lXIpRomDQfd5WmFi@
 3 OBJE @kWmywm3ESauERQbRJVR3@
-3 _APID 1,7250::1382752965
+3 _APID 7250:1382752965
 2 NOTE Relation to Head of House: Wife
 1 CENS
 2 DATE 01 JUN 1880
@@ -1511,7 +1545,7 @@
 4 CONC 3; Family History Film: 1254933; Page: 219A; Enumeration Dis
 4 CONC trict: 173; Image: 0441
 3 OBJE @xNxl4cTfRbaETAVSHqgQ@
-3 _APID 1,6742::5174211
+3 _APID 6742:5174211
 2 NOTE Marital Status: Married; Relation to Head of House: Wife
 1 RESI
 2 DATE 1893
@@ -1521,7 +1555,7 @@
 4 LONG W77.0547
 2 SOUR @mDWKwIsCRaCKr5iO25hg@
 3 OBJE @5LeyQN3uRPG0yM2uCFqI@
-3 _APID 1,2469::53821327
+3 _APID 2469:53821327
 1 RESI
 2 DATE 1900
 2 PLAC Erwin, Steuben, New York, USA
@@ -1533,9 +1567,10 @@
 4 CONC 63; Page: 6B; Enumeration District: 0082; FHL microfilm: 124
 4 CONC 1163
 3 OBJE @blNQH6aXRTWrpDosAT1j@
-3 _APID 1,7602::56731112
+3 _APID 7602:56731112
 2 NOTE Age: 79; Marital Status: Widowed; Relation to Head of House
 3 CONC : Mother
+1 _GUID 26124ffb-67c9-4315-8cf4-1bc7eb397386
 1 _XY 1904 1938
 0 @I57@ INDI
 1 REFN bea11a22-7ed6-4c08-ae7a-8d09f12ff4f1
@@ -1545,17 +1580,17 @@
 4 CONC ty: Durham; Enumeration District: 6a; Folio: 6; Page: 8; Lin
 4 CONC e: 2; GSU roll: 241356
 3 OBJE @M70@
-3 _APID 1,8978::4077000
+3 _APID 8978:4077000
 2 SOUR @S81@
 3 PAGE Class: HO107; Piece: 2384; Folio: 421; Page: 16; GSU roll: 8
 4 CONC 7062
 3 OBJE @M71@
-3 _APID 1,8860::14453571
+3 _APID 8860:14453571
 2 SOUR @S83@
 3 PAGE Class: RG 9; Piece: 3704; Folio: 107; Page: 28; GSU roll: 54
 4 CONC 3175
 3 OBJE @M72@
-3 _APID 1,8767::12361431
+3 _APID 8767:12361431
 2 SOUR @N62jTQiMTmmRVQc5KCCK@
 3 PAGE Ancestry Family Tree
 3 DATA
@@ -1563,11 +1598,11 @@
 5 CONC 414&pid=13
 2 SOUR @OeOCLbwlTzu3dQqftwwk@
 3 OBJE @M73@
-3 _APID 1,8914::32992838
+3 _APID 8914:32992838
 2 SOUR @S84@
 3 QUAY 1
 2 SOUR @S97@
-3 _APID 1,9852::1653089
+3 _APID 9852:1653089
 1 SEX F
 1 FAMC @F25@
 1 FAMS @F37@
@@ -1583,20 +1618,20 @@
 4 CONC ty: Durham; Enumeration District: 6a; Folio: 6; Page: 8; Lin
 4 CONC e: 2; GSU roll: 241356
 3 OBJE @M70@
-3 _APID 1,8978::4077000
+3 _APID 8978:4077000
 2 SOUR @S81@
 3 PAGE Class: HO107; Piece: 2384; Folio: 421; Page: 16; GSU roll: 8
 4 CONC 7062
 3 OBJE @M71@
-3 _APID 1,8860::14453571
+3 _APID 8860:14453571
 2 SOUR @S83@
 3 PAGE Class: RG 9; Piece: 3704; Folio: 107; Page: 28; GSU roll: 54
 4 CONC 3175
 3 OBJE @M72@
-3 _APID 1,8767::12361431
+3 _APID 8767:12361431
 2 SOUR @OeOCLbwlTzu3dQqftwwk@
 3 OBJE @M73@
-3 _APID 1,8914::32992838
+3 _APID 8914:32992838
 2 SOUR @S85@
 3 QUAY 1
 1 CENS
@@ -1612,7 +1647,7 @@
 4 CONC ty: Durham; Enumeration District: 6a; Folio: 6; Page: 8; Lin
 4 CONC e: 2; GSU roll: 241356
 3 OBJE @M70@
-3 _APID 1,8978::4077000
+3 _APID 8978:4077000
 1 CENS
 2 DATE 30 MAR 1851
 2 PLAC Northgate, Hartlepool, Hartlepool, Durham, England, UK
@@ -1625,7 +1660,7 @@
 3 PAGE Class: HO107; Piece: 2384; Folio: 421; Page: 16; GSU roll: 8
 4 CONC 7062
 3 OBJE @M71@
-3 _APID 1,8860::14453571
+3 _APID 8860:14453571
 2 NOTE Relationship: Wife
 1 CENS
 2 DATE 07 APR 1861
@@ -1642,7 +1677,7 @@
 3 PAGE Class: RG 9; Piece: 3704; Folio: 107; Page: 28; GSU roll: 54
 4 CONC 3175
 3 OBJE @M72@
-3 _APID 1,8767::12361431
+3 _APID 8767:12361431
 2 NOTE Relationship: Wife
 1 DEAT
 2 DATE 14 AUG 1868
@@ -1651,8 +1686,9 @@
 3 QUAY 1
 2 SOUR @OeOCLbwlTzu3dQqftwwk@
 3 OBJE @M73@
-3 _APID 1,8914::32992838
+3 _APID 8914:32992838
 2 NOTE need to order death cert. from England
+1 _GUID fae0f39b-40bc-4a72-9cee-deabddea1230
 1 _XY 181 1914
 0 @I56@ INDI
 1 REFN ec70f18a-05ec-4133-9fe5-d78d061aa9b9
@@ -1661,6 +1697,7 @@
 1 FAMS @F25@
 1 BIRT
 2 DATE ABT 1760
+1 _GUID d433663e-6ee1-4496-8067-77536949969a
 1 _XY 53 1691
 0 @xVTACTXwRVeBYyOibXVl@ INDI
 1 REFN 04391868-79a3-4392-a577-93b837c53676
@@ -1670,24 +1707,24 @@
 4 CONC ; Family History Film: 1254828; Page: 35B; Enumeration Distr
 4 CONC ict: 120; Image: 0426
 3 OBJE @b5CvY48XSSOaRlEiT0q5@
-3 _APID 1,6742::2211012
+3 _APID 6742:2211012
 2 SOUR @NDN2XTgxTLmnX7Bgq4LP@
 3 PAGE Year: 1900; Census Place: Olean, Cattaraugus, New York; Roll
 4 CONC : 1011; Page: 4A; Enumeration District: 0056; FHL microfilm
 4 CONC : 1241011
 3 OBJE @nUHy1YBHRXSE4eLmMUJo@
-3 _APID 1,7602::18439146
+3 _APID 7602:18439146
 2 SOUR @c4Kpe8hwRqSW5hMTvu1S@
 3 PAGE Year: 1910; Census Place: Olean Ward 3, Cattaraugus, New Yor
 4 CONC k; Roll: T624_927; Page: 7A; Enumeration District: 0078; FH
 4 CONC L microfilm: 1374940
 3 OBJE @RIbmdKWERFWQyvHXdKyl@
-3 _APID 1,7884::109795561
+3 _APID 7884:109795561
 2 SOUR @gEzHretGQ9iAdPxO8HPJ@
 3 PAGE Year: 1920; Census Place: Olean Ward 3, Cattaraugus, New Yor
 4 CONC k
 3 OBJE @ski6SX2XRdSwVekHG1fj@
-3 _APID 1,6061::81631797
+3 _APID 6061:81631797
 2 SOUR @N62jTQiMTmmRVQc5KCCK@
 3 PAGE Ancestry Family Tree
 3 DATA
@@ -1695,7 +1732,7 @@
 5 CONC &pid=1186
 2 SOUR @xcXXXJstR1iS4OizBZKh@
 3 OBJE @8LVfnfmpSXeZbCrHJqfp@
-3 _APID 1,2469::1208138167
+3 _APID 2469:1208138167
 1 SEX F
 1 FAMS @x0FfmvNVTaardWNmUxSB@
 1 BIRT
@@ -1709,24 +1746,24 @@
 4 CONC ; Family History Film: 1254828; Page: 35B; Enumeration Distr
 4 CONC ict: 120; Image: 0426
 3 OBJE @b5CvY48XSSOaRlEiT0q5@
-3 _APID 1,6742::2211012
+3 _APID 6742:2211012
 2 SOUR @NDN2XTgxTLmnX7Bgq4LP@
 3 PAGE Year: 1900; Census Place: Olean, Cattaraugus, New York; Roll
 4 CONC : 1011; Page: 4A; Enumeration District: 0056; FHL microfilm
 4 CONC : 1241011
 3 OBJE @nUHy1YBHRXSE4eLmMUJo@
-3 _APID 1,7602::18439146
+3 _APID 7602:18439146
 2 SOUR @c4Kpe8hwRqSW5hMTvu1S@
 3 PAGE Year: 1910; Census Place: Olean Ward 3, Cattaraugus, New Yor
 4 CONC k; Roll: T624_927; Page: 7A; Enumeration District: 0078; FH
 4 CONC L microfilm: 1374940
 3 OBJE @RIbmdKWERFWQyvHXdKyl@
-3 _APID 1,7884::109795561
+3 _APID 7884:109795561
 2 SOUR @gEzHretGQ9iAdPxO8HPJ@
 3 PAGE Year: 1920; Census Place: Olean Ward 3, Cattaraugus, New Yor
 4 CONC k
 3 OBJE @ski6SX2XRdSwVekHG1fj@
-3 _APID 1,6061::81631797
+3 _APID 6061:81631797
 1 RESI
 2 DATE 1880
 2 PLAC Buffalo, Erie, New York, USA
@@ -1738,7 +1775,7 @@
 4 CONC ; Family History Film: 1254828; Page: 35B; Enumeration Distr
 4 CONC ict: 120; Image: 0426
 3 OBJE @b5CvY48XSSOaRlEiT0q5@
-3 _APID 1,6742::2211012
+3 _APID 6742:2211012
 2 NOTE Age: 25; Marital Status: Married; Relation to Head of House
 3 CONC : Wife
 1 RESI
@@ -1752,7 +1789,7 @@
 4 CONC : 1011; Page: 4A; Enumeration District: 0056; FHL microfilm
 4 CONC : 1241011
 3 OBJE @nUHy1YBHRXSE4eLmMUJo@
-3 _APID 1,7602::18439146
+3 _APID 7602:18439146
 2 NOTE Age: 45; Marital Status: Married; Relation to Head of House
 3 CONC : Wife
 1 RESI
@@ -1766,7 +1803,7 @@
 4 CONC k; Roll: T624_927; Page: 7A; Enumeration District: 0078; FH
 4 CONC L microfilm: 1374940
 3 OBJE @RIbmdKWERFWQyvHXdKyl@
-3 _APID 1,7884::109795561
+3 _APID 7884:109795561
 2 NOTE Age: 55; Marital Status: Married; Relation to Head of House
 3 CONC : Wife
 1 RESI
@@ -1779,12 +1816,13 @@
 3 PAGE Year: 1920; Census Place: Olean Ward 3, Cattaraugus, New Yor
 4 CONC k
 3 OBJE @ski6SX2XRdSwVekHG1fj@
-3 _APID 1,6061::81631797
+3 _APID 6061:81631797
 2 SOUR @xcXXXJstR1iS4OizBZKh@
 3 OBJE @8LVfnfmpSXeZbCrHJqfp@
-3 _APID 1,2469::1208138167
+3 _APID 2469:1208138167
 2 NOTE Age: 65; Marital Status: Married; Relation to Head of House
 3 CONC : Wife
+1 _GUID 82fa1827-2f53-4c48-b2e9-16f37c90e67a
 1 _XY 1110 2558
 0 @I58@ INDI
 1 REFN aecb49b8-7ff5-4d98-9154-c1c7dde33e06
@@ -1798,6 +1836,7 @@
 2 PLAC Hart, Hartlepool, Durham, England, UK
 2 SOUR @S79@
 3 QUAY 1
+1 _GUID 7b2831d4-a2b6-4773-8290-d20090328d63
 1 _XY 376 1692
 0 @I59@ INDI
 1 REFN b01b1343-23be-4e75-8334-217774e7a2e3
@@ -1815,6 +1854,7 @@
 2 DATE 13 JAN 1711
 2 SOUR @S79@
 3 QUAY 1
+1 _GUID 8077e8f8-89be-4ccc-8c4e-e4023b95e6e6
 1 _XY 898 1138
 0 @I60@ INDI
 1 REFN 4cee59ec-3519-4c34-8184-2f4caa7d153a
@@ -1832,6 +1872,7 @@
 2 DATE ABT 1683
 2 SOUR @S79@
 3 QUAY 1
+1 _GUID 251a109f-ed36-4d82-a057-78d25234d8a5
 1 _XY 792 947
 0 @I61@ INDI
 1 REFN 6efb9436-0877-42a7-8546-f1e981eb40b8
@@ -1850,6 +1891,7 @@
 2 PLAC Aycliffe, Sedgefield, Durham, England, UK
 2 SOUR @S79@
 3 QUAY 1
+1 _GUID a5696322-a05d-4be5-a78a-955dfb21536b
 1 _XY 919 947
 0 @I62@ INDI
 1 REFN 498d4544-81ad-4746-96be-52f4ab1793bf
@@ -1867,6 +1909,7 @@
 2 DATE 24 JUN 1582
 2 SOUR @S79@
 3 QUAY 1
+1 _GUID 59b5c355-d155-48a0-97be-a01400a71eba
 1 _XY 1396 171
 0 @I63@ INDI
 1 REFN 44094cc3-dda4-492f-ba19-3186751ef1c1
@@ -1880,6 +1923,7 @@
 2 PLAC Elton, Stockton upon Tees, Durham, England, UK
 2 SOUR @S79@
 3 QUAY 1
+1 _GUID dec5ed4f-2198-4bea-b7be-d8605f4617d4
 1 _XY 1154 728
 0 @I64@ INDI
 1 REFN 8d1e5176-3b4f-4a49-818c-fe0197a1921c
@@ -1893,6 +1937,7 @@
 2 PLAC Aycliffe, Sedgefield, Durham, England, UK
 2 SOUR @S79@
 3 QUAY 1
+1 _GUID 05ec2dfb-e02b-480e-9d57-bebdb80bb91d
 1 _XY 1189 1196
 0 @I65@ INDI
 1 REFN 6deb06ba-8a8e-4a20-93ac-5f0a9dcbffe2
@@ -1906,6 +1951,7 @@
 2 PLAC Aycliffe, Sedgefield, Durham, England, UK
 2 SOUR @S79@
 3 QUAY 1
+1 _GUID 93135b46-31ce-4e37-a5f7-511f1ec4d88f
 1 _XY 1690 1283
 0 @I66@ INDI
 1 REFN 03239d91-d848-478d-b42e-3c8fb7cc56d6
@@ -1924,6 +1970,7 @@
 2 PLAC Sedgefield, Durham, England, UK
 2 SOUR @S79@
 3 QUAY 1
+1 _GUID 6c316bd8-19c9-44fc-9fb2-a87163360aeb
 1 _XY 1467 1938
 0 @I67@ INDI
 1 REFN 8f98329c-2999-44d0-a98f-86c7322f6d51
@@ -1937,6 +1984,7 @@
 2 PLAC Elton, Stockton upon Tees, Durham, England, UK
 2 SOUR @S79@
 3 QUAY 1
+1 _GUID b8a9a680-d539-4833-98da-8365c21cf22f
 1 _XY 165 947
 0 @I68@ INDI
 1 REFN 93007e75-d899-4212-aa5d-a6a27746f209
@@ -1950,6 +1998,7 @@
 2 PLAC Aycliffe, Sedgefield, Durham, England, UK
 2 SOUR @S79@
 3 QUAY 1
+1 _GUID cae7ab23-8bca-4668-8938-f8be099b2b24
 1 _XY 1111 1685
 0 @I69@ INDI
 1 REFN 66c4b6d5-4216-45d4-a7c1-8c49d6223709
@@ -1963,6 +2012,7 @@
 2 PLAC Aycliffe, Sedgefield, Durham, England, UK
 2 SOUR @S79@
 3 QUAY 1
+1 _GUID 1e02c1a4-0970-45b4-b875-36b11c5e7f85
 1 _XY 1440 1685
 0 @I70@ INDI
 1 REFN a23548b8-05e2-4730-97a5-6852606e449b
@@ -1970,14 +2020,14 @@
 2 SOUR @S79@
 3 QUAY 1
 2 SOUR @S101@
-3 _APID 1,9841::100199535
+3 _APID 9841:100199535
 1 SEX M
 1 FAMC @F29@
 1 BAPM
 2 DATE 15 MAY 1603
 2 PLAC Egglescliffe, Stockton upon Tees, Durham, England, UK
 2 SOUR @S101@
-3 _APID 1,9841::100199535
+3 _APID 9841:100199535
 1 BIRT
 2 DATE 1603
 2 PLAC Egglescliffe, Stockton upon Tees, Durham, England, UK
@@ -1988,6 +2038,7 @@
 2 PLAC Egglescliffe, Stockton upon Tees, Durham, England, UK
 2 SOUR @S79@
 3 QUAY 1
+1 _GUID 7f2b7854-ab97-4cad-ae34-7f5aecf563fd
 1 _XY 982 449
 0 @I71@ INDI
 1 REFN 6575c323-885f-4fc2-8912-dda2c3441883
@@ -1995,7 +2046,7 @@
 2 SOUR @S79@
 3 QUAY 1
 2 SOUR @S101@
-3 _APID 1,9841::64086620
+3 _APID 9841:64086620
 1 SEX F
 1 FAMC @F27@
 1 BIRT
@@ -2007,7 +2058,8 @@
 2 DATE 25 AUG 1644
 2 PLAC Elton, Stockton upon Tees, Durham, England, UK
 2 SOUR @S101@
-3 _APID 1,9841::64086620
+3 _APID 9841:64086620
+1 _GUID 30260a74-d6ec-48e1-9bf1-17c976771aa9
 1 _XY 1024 728
 0 @I72@ INDI
 1 REFN 52711ab8-9160-4a24-bda6-24e9eff37226
@@ -2021,6 +2073,7 @@
 2 PLAC Egglescliffe, Stockton upon Tees, Durham, England, UK
 2 SOUR @S79@
 3 QUAY 1
+1 _GUID e81a880b-8ff4-4535-b80e-4cb168f73262
 1 _XY 1045 171
 0 @I73@ INDI
 1 REFN 1867df2d-4d96-4175-8ae6-df8566a7066c
@@ -2034,6 +2087,7 @@
 2 PLAC Elton, Stockton upon Tees, Durham, England, UK
 2 SOUR @S79@
 3 QUAY 1
+1 _GUID 48f64d1a-7565-4aff-981c-ffe99d7de7a9
 1 _XY 1042 948
 0 @I74@ INDI
 1 REFN 43cb9608-8493-4747-bfbd-5bfb4e1c04d6
@@ -2047,6 +2101,7 @@
 2 PLAC Aycliffe, Sedgefield, Durham, England, UK
 2 SOUR @S79@
 3 QUAY 1
+1 _GUID 3b993cde-cbff-46b8-9958-55353edb9efd
 1 _XY 1451 996
 0 @I75@ INDI
 1 REFN 64955ead-5f4a-4fff-bafd-7c57fe54fdfd
@@ -2060,6 +2115,7 @@
 2 PLAC Aycliffe, Sedgefield, Durham, England, UK
 2 SOUR @S79@
 3 QUAY 1
+1 _GUID 0454e324-a4a0-4ba2-bd9f-6792fcc08cb9
 1 _XY 1216 1685
 0 @I76@ INDI
 1 REFN 0b3acabd-60be-4340-a0cb-0051ae31c36f
@@ -2073,6 +2129,7 @@
 2 PLAC Hart, Hartlepool, Durham, England, UK
 2 SOUR @S79@
 3 QUAY 1
+1 _GUID 0635f7d9-e5a0-4591-b793-ab19ecc5d0f4
 1 _XY 1379 1576
 0 @I77@ INDI
 1 REFN 1915c7f1-4764-4a07-8243-a13bdff92916
@@ -2089,6 +2146,7 @@
 2 PLAC Aycliffe, Sedgefield, Durham, England, UK
 2 SOUR @S79@
 3 QUAY 1
+1 _GUID cd467f60-ce25-4985-9c57-8c0c47bf4dc9
 1 _XY 1269 991
 0 @I78@ INDI
 1 REFN 7fcf3a82-32a3-4601-b9f7-00b434b54ed1
@@ -2102,6 +2160,7 @@
 2 PLAC Aycliffe, Sedgefield, Durham, England, UK
 2 SOUR @S79@
 3 QUAY 1
+1 _GUID 7e25329f-04f0-4766-9934-9f0a5fb77a70
 1 _XY 963 1197
 0 @I79@ INDI
 1 REFN 627586c9-ee27-4357-8090-59f41aeb0133
@@ -2109,7 +2168,7 @@
 2 SOUR @S79@
 3 QUAY 1
 2 SOUR @S101@
-3 _APID 1,9841::135030320
+3 _APID 9841:135030320
 1 SEX M
 1 FAMC @F32@
 1 FAMS @F30@
@@ -2124,12 +2183,13 @@
 2 DATE 04 APR 1758
 2 PLAC Aycliffe Village, Durham, England, UK
 2 SOUR @S101@
-3 _APID 1,9841::135030320
+3 _APID 9841:135030320
 1 DEAT
 2 DATE 14 AUG 1834
 2 PLAC Hart, Hartlepool, Durham, England, UK
 2 SOUR @S79@
 3 QUAY 1
+1 _GUID 4d0320be-ec24-4f2e-bfbe-f749e9fcef53
 1 _XY 481 1685
 0 @I80@ INDI
 1 REFN 7851c981-28ed-4dd6-9936-82a1327c55b2
@@ -2139,12 +2199,12 @@
 4 CONC ty: Durham; Enumeration District: 6a; Folio: 6; Page: 8; Lin
 4 CONC e: 5; GSU roll: 241356
 3 OBJE @M70@
-3 _APID 1,8978::4077003
+3 _APID 8978:4077003
 2 SOUR @S81@
 3 PAGE Class: HO107; Piece: 2384; Folio: 421; Page: 16; GSU roll: 8
 4 CONC 7062
 3 OBJE @M71@
-3 _APID 1,8860::14453572
+3 _APID 8860:14453572
 2 SOUR @N62jTQiMTmmRVQc5KCCK@
 3 PAGE Ancestry Family Tree
 3 DATA
@@ -2162,12 +2222,12 @@
 4 CONC ty: Durham; Enumeration District: 6a; Folio: 6; Page: 8; Lin
 4 CONC e: 5; GSU roll: 241356
 3 OBJE @M70@
-3 _APID 1,8978::4077003
+3 _APID 8978:4077003
 2 SOUR @S81@
 3 PAGE Class: HO107; Piece: 2384; Folio: 421; Page: 16; GSU roll: 8
 4 CONC 7062
 3 OBJE @M71@
-3 _APID 1,8860::14453572
+3 _APID 8860:14453572
 1 BAPM
 2 DATE 01 AUG 1833
 2 PLAC Hart, Hartlepool, Durham, England, UK
@@ -2181,7 +2241,7 @@
 4 CONC ty: Durham; Enumeration District: 6a; Folio: 6; Page: 8; Lin
 4 CONC e: 5; GSU roll: 241356
 3 OBJE @M70@
-3 _APID 1,8978::4077003
+3 _APID 8978:4077003
 1 RESI
 2 DATE 1851
 2 PLAC Hartlepool, Durham, England, UK
@@ -2189,7 +2249,7 @@
 3 PAGE Class: HO107; Piece: 2384; Folio: 421; Page: 16; GSU roll: 8
 4 CONC 7062
 3 OBJE @M71@
-3 _APID 1,8860::14453572
+3 _APID 8860:14453572
 2 NOTE Relationship: Son
 1 DEAT
 2 DATE 17 DEC 1889
@@ -2197,6 +2257,7 @@
 3 MAP
 4 LATI N54.9248
 4 LONG W1.5757
+1 _GUID 61beff86-ab94-404b-aa06-64465d88da00
 1 _XY 549 2209
 0 @I81@ INDI
 1 REFN 3d3bae09-bc68-4e68-ad11-52fbae20ad0a
@@ -2204,7 +2265,7 @@
 2 SOUR @S79@
 3 QUAY 1
 2 SOUR @S101@
-3 _APID 1,9841::158580176
+3 _APID 9841:158580176
 1 SEX F
 1 FAMC @F29@
 1 BIRT
@@ -2216,7 +2277,8 @@
 2 DATE 11 JUL 1596
 2 PLAC Egglescliffe, Stockton upon Tees, Durham, England, UK
 2 SOUR @S101@
-3 _APID 1,9841::158580176
+3 _APID 9841:158580176
+1 _GUID 0e0ce3cf-efd9-45cf-a48a-f67448707d38
 1 _XY 731 449
 0 @I82@ INDI
 1 REFN 59fc5530-2ef7-43e0-8835-caaeb1f1e727
@@ -2230,6 +2292,7 @@
 2 PLAC Longnewton, Stockton upon Tees, Durham, England, UK
 2 SOUR @S79@
 3 QUAY 1
+1 _GUID 01690962-d32e-4394-96c3-a06f85835289
 1 _XY 955 652
 0 @I83@ INDI
 1 REFN a6efaf77-e047-45bf-a639-470e0333b0ab
@@ -2243,6 +2306,7 @@
 2 PLAC Aycliffe, Sedgefield, Durham, England, UK
 2 SOUR @S79@
 3 QUAY 1
+1 _GUID a114e1a0-1c14-410a-8634-1bf2751743ba
 1 _XY 866 1685
 0 @I84@ INDI
 1 REFN 1e5d238d-44bb-4227-8e6c-098b7a49f753
@@ -2260,6 +2324,7 @@
 2 DATE 1814
 2 SOUR @S79@
 3 QUAY 1
+1 _GUID ac0de0e7-c52a-47bb-b8da-a508612b0697
 1 _XY 1660 1933
 0 @I85@ INDI
 1 REFN b099a15a-eaf7-4efe-bc49-4403b2b3fb0b
@@ -2278,6 +2343,7 @@
 2 PLAC Hart, Hartlepool, Durham, England, UK
 2 SOUR @S79@
 3 QUAY 1
+1 _GUID 2bbd52cd-14ef-4710-913d-f8fccb5b8143
 1 _XY 1488 1576
 0 @I86@ INDI
 1 REFN f4409130-c2cc-4d56-8570-812f30442739
@@ -2287,12 +2353,12 @@
 4 CONC ty: Durham; Enumeration District: 6a; Folio: 6; Page: 8; Lin
 4 CONC e: 7; GSU roll: 241356
 3 OBJE @M70@
-3 _APID 1,8978::4077005
+3 _APID 8978:4077005
 2 SOUR @S81@
 3 PAGE Class: HO107; Piece: 2384; Folio: 421; Page: 16; GSU roll: 8
 4 CONC 7062
 3 OBJE @M71@
-3 _APID 1,8860::14453573
+3 _APID 8860:14453573
 2 SOUR @N62jTQiMTmmRVQc5KCCK@
 3 PAGE Ancestry Family Tree
 3 DATA
@@ -2310,12 +2376,12 @@
 4 CONC ty: Durham; Enumeration District: 6a; Folio: 6; Page: 8; Lin
 4 CONC e: 7; GSU roll: 241356
 3 OBJE @M70@
-3 _APID 1,8978::4077005
+3 _APID 8978:4077005
 2 SOUR @S81@
 3 PAGE Class: HO107; Piece: 2384; Folio: 421; Page: 16; GSU roll: 8
 4 CONC 7062
 3 OBJE @M71@
-3 _APID 1,8860::14453573
+3 _APID 8860:14453573
 1 RESI
 2 DATE 1841
 2 PLAC Hart, Durham, England, UK
@@ -2324,7 +2390,7 @@
 4 CONC ty: Durham; Enumeration District: 6a; Folio: 6; Page: 8; Lin
 4 CONC e: 7; GSU roll: 241356
 3 OBJE @M70@
-3 _APID 1,8978::4077005
+3 _APID 8978:4077005
 1 RESI
 2 DATE 1851
 2 PLAC Hartlepool, Durham, England, UK
@@ -2332,8 +2398,9 @@
 3 PAGE Class: HO107; Piece: 2384; Folio: 421; Page: 16; GSU roll: 8
 4 CONC 7062
 3 OBJE @M71@
-3 _APID 1,8860::14453573
+3 _APID 8860:14453573
 2 NOTE Relationship: Daughter
+1 _GUID 0d8630c4-2c31-47d0-b82b-8d2b7505496d
 1 _XY 918 2209
 0 @I87@ INDI
 1 REFN c6f04ebe-d14b-4c4c-aa47-076291f10610
@@ -2359,6 +2426,7 @@
 3 QUAY 1
 1 DEAT
 2 DATE BEF 1823
+1 _GUID 6adb29f2-2ae1-4358-8ae1-40552a0b5de9
 1 _XY 30 2209
 0 @I88@ INDI
 1 REFN 368b0ba1-308b-47b3-af52-bbefd6635d58
@@ -2368,7 +2436,7 @@
 4 CONC ty: Durham; Enumeration District: 6a; Folio: 6; Page: 8; Lin
 4 CONC e: 3; GSU roll: 241356
 3 OBJE @M70@
-3 _APID 1,8978::4077001
+3 _APID 8978:4077001
 2 SOUR @N62jTQiMTmmRVQc5KCCK@
 3 PAGE Ancestry Family Tree
 3 DATA
@@ -2389,7 +2457,7 @@
 4 CONC ty: Durham; Enumeration District: 6a; Folio: 6; Page: 8; Lin
 4 CONC e: 3; GSU roll: 241356
 3 OBJE @M70@
-3 _APID 1,8978::4077001
+3 _APID 8978:4077001
 2 SOUR @N62jTQiMTmmRVQc5KCCK@
 3 PAGE Ancestry Family Tree
 3 DATA
@@ -2403,13 +2471,14 @@
 4 CONC ty: Durham; Enumeration District: 6a; Folio: 6; Page: 8; Lin
 4 CONC e: 3; GSU roll: 241356
 3 OBJE @M70@
-3 _APID 1,8978::4077001
+3 _APID 8978:4077001
 1 DEAT
 2 DATE JUL 1903
 2 PLAC Sunderland, Durham, England
 3 MAP
 4 LATI N54.7
 4 LONG W3.2667
+1 _GUID 36499b1b-404b-4ec2-804e-38f8bff53db8
 1 _XY 284 2209
 0 @I89@ INDI
 1 REFN bdfcc64f-32ea-4fef-a2a1-947fac4ea79d
@@ -2423,6 +2492,7 @@
 2 PLAC Elton, Stockton upon Tees, Durham, England, UK
 2 SOUR @S79@
 3 QUAY 1
+1 _GUID aba7dc0e-c2d1-413e-a96d-c7e85de0aba7
 1 _XY 587 947
 0 @I90@ INDI
 1 REFN 78742dcd-70fb-4ee2-bf07-fccb2d73b942
@@ -2440,6 +2510,7 @@
 2 DATE 14 JAN 1721
 2 SOUR @S79@
 3 QUAY 1
+1 _GUID f2788756-333c-4116-97c9-5a40978e84ae
 1 _XY 1131 1139
 0 @I91@ INDI
 1 REFN c266b754-58d3-4c6d-af50-a038b35d0439
@@ -2453,6 +2524,7 @@
 2 PLAC Elton, Stockton upon Tees, Durham, England, UK
 2 SOUR @S79@
 3 QUAY 1
+1 _GUID 3cb9ab7f-a646-40d1-856b-748025869a8e
 1 _XY 688 947
 0 @I92@ INDI
 1 REFN 7baf7867-8a35-4597-8d3c-d91864e518df
@@ -2466,6 +2538,7 @@
 2 PLAC Hart, Hartlepool, Durham, England, UK
 2 SOUR @S79@
 3 QUAY 1
+1 _GUID 93c3714d-6fd3-4b56-8bf6-fefa1a03b05d
 1 _XY 1605 1576
 0 @I93@ INDI
 1 REFN ea16c486-e4f6-4f8b-ae6d-91d03ce7febc
@@ -2479,6 +2552,7 @@
 2 PLAC Hart, Hartlepool, Durham, England, UK
 2 SOUR @S79@
 3 QUAY 1
+1 _GUID 20f9a354-77f7-4774-b724-a94a0eada10b
 1 _XY 506 1918
 0 @I94@ INDI
 1 REFN 740cc42d-d9e9-4ba0-a325-d8be3150285d
@@ -2505,6 +2579,7 @@
 2 PLAC Hart, Hartlepool, Durham, England, UK
 2 SOUR @S79@
 3 QUAY 1
+1 _GUID 62b412eb-3970-4ba8-8d12-fefe23173d81
 1 _XY 673 2209
 0 @I95@ INDI
 1 REFN edeb9202-4b06-4304-b121-f740b4821211
@@ -2518,6 +2593,7 @@
 2 PLAC Stainton, Middlesbrough, North Yorkshire, England, UK
 2 SOUR @S79@
 3 QUAY 1
+1 _GUID 67f01134-6bdd-4cc0-a8da-19c3242172d5
 1 _XY 1063 37
 0 @I96@ INDI
 1 REFN 8a028a62-c60a-453e-b0b5-207d86880f80
@@ -2535,6 +2611,7 @@
 2 DATE 26 JUN 1575
 2 SOUR @S79@
 3 QUAY 1
+1 _GUID fa7a7fe4-89e4-4ea5-b53f-9f7b3422f73d
 1 _XY 1286 171
 0 @I97@ INDI
 1 REFN 17406db9-b3c1-44d6-be25-1fbd7aa57db7
@@ -2542,7 +2619,7 @@
 2 SOUR @S79@
 3 QUAY 1
 2 SOUR @S101@
-3 _APID 1,9841::64086623
+3 _APID 9841:64086623
 1 SEX M
 1 FAMC @F29@
 1 FAMS @F27@
@@ -2551,6 +2628,7 @@
 2 PLAC Egglescliffe, Stockton upon Tees, Durham, England, UK
 2 SOUR @S79@
 3 QUAY 1
+1 _GUID dee47e58-8c08-4b32-b5f1-145f2d15cf8b
 1 _XY 1105 449
 0 @I98@ INDI
 1 REFN a3267dec-d22c-49db-84d4-32edd23a6e02
@@ -2565,6 +2643,7 @@
 2 PLAC Longnewton, Stockton upon Tees, Durham, England, UK
 2 SOUR @S79@
 3 QUAY 1
+1 _GUID 75e64709-767c-4b5e-95a5-702dc4e4675b
 1 _XY 1207 652
 0 @I99@ INDI
 1 REFN d47611bb-3bf7-48b2-9ded-fe4d4700957a
@@ -2578,6 +2657,7 @@
 2 PLAC Elton, Stockton upon Tees, Durham, England, UK
 2 SOUR @S79@
 3 QUAY 1
+1 _GUID 7a1107f8-a818-40c7-86d4-e563d288e95c
 1 _XY 382 947
 0 @I100@ INDI
 1 REFN f87bc277-70f4-4e5c-83e4-122f32028c37
@@ -2595,6 +2675,7 @@
 2 DATE 22 FEB 1713
 2 SOUR @S79@
 3 QUAY 1
+1 _GUID 8f591cef-cac6-4719-a775-b2ff6cbf04cf
 1 _XY 1019 1139
 0 @I101@ INDI
 1 REFN f06e293a-9dfa-4a91-9536-5de08a0ba9a8
@@ -2612,6 +2693,7 @@
 2 DATE ABT 1728
 2 SOUR @S79@
 3 QUAY 1
+1 _GUID 5cc58684-a9cc-4371-a6f9-7ac419d26a8e
 1 _XY 1468 1283
 0 @I102@ INDI
 1 REFN c389d98d-d2c1-4b05-9543-b0c0aca05c74
@@ -2625,6 +2707,7 @@
 2 PLAC Aycliffe, Sedgefield, Durham, England, UK
 2 SOUR @S79@
 3 QUAY 1
+1 _GUID c84549d5-9459-48f5-9d50-aff87039f7c9
 1 _XY 1793 1283
 0 @I103@ INDI
 1 REFN 6e13b32b-2bc1-40b8-8042-7214ffa6da90
@@ -2632,7 +2715,7 @@
 2 SOUR @S79@
 3 QUAY 1
 2 SOUR @S101@
-3 _APID 1,9841::34020788
+3 _APID 9841:34020788
 1 SEX M
 1 FAMC @F32@
 1 FAMS @F34@
@@ -2645,7 +2728,7 @@
 2 DATE 14 JAN 1761
 2 PLAC Aycliffe, Sedgefield, Durham, England, UK
 2 SOUR @S101@
-3 _APID 1,9841::34020788
+3 _APID 9841:34020788
 1 CENS
 2 DATE 06 JUN 1841
 2 PLAC Hart, Hartlepool, Durham, England, UK
@@ -2656,6 +2739,7 @@
 2 PLAC Hart, Hartlepool, Durham, England, UK
 2 SOUR @S79@
 3 QUAY 1
+1 _GUID fa660303-e865-4ef4-9f5e-130afd2080c4
 1 _XY 1720 1685
 0 @I104@ INDI
 1 REFN b2efe5b5-d88f-4683-b426-731bab6f5aad
@@ -2669,6 +2753,7 @@
 2 PLAC Hart, Hartlepool, Durham, England, UK
 2 SOUR @S79@
 3 QUAY 1
+1 _GUID 6e27e00e-681e-46e1-8dab-c932bf407293
 1 _XY 1776 1939
 0 @I105@ INDI
 1 REFN 11e393cf-f7cb-4707-b032-fd6e6152da37
@@ -2678,17 +2763,17 @@
 4 CONC ty: Durham; Enumeration District: 6a; Folio: 6; Page: 8; Lin
 4 CONC e: 6; GSU roll: 241356
 3 OBJE @M70@
-3 _APID 1,8978::4077004
+3 _APID 8978:4077004
 2 SOUR @S81@
 3 PAGE Class: HO107; Piece: 2384; Folio: 421; Page: 16; GSU roll: 8
 4 CONC 7062
 3 OBJE @M71@
-3 _APID 1,8860::14453574
+3 _APID 8860:14453574
 2 SOUR @S83@
 3 PAGE Class: RG 9; Piece: 3704; Folio: 107; Page: 28; GSU roll: 54
 4 CONC 3175
 3 OBJE @M72@
-3 _APID 1,8767::12361432
+3 _APID 8767:12361432
 2 SOUR @N62jTQiMTmmRVQc5KCCK@
 3 PAGE Ancestry Family Tree
 3 DATA
@@ -2706,17 +2791,17 @@
 4 CONC ty: Durham; Enumeration District: 6a; Folio: 6; Page: 8; Lin
 4 CONC e: 6; GSU roll: 241356
 3 OBJE @M70@
-3 _APID 1,8978::4077004
+3 _APID 8978:4077004
 2 SOUR @S81@
 3 PAGE Class: HO107; Piece: 2384; Folio: 421; Page: 16; GSU roll: 8
 4 CONC 7062
 3 OBJE @M71@
-3 _APID 1,8860::14453574
+3 _APID 8860:14453574
 2 SOUR @S83@
 3 PAGE Class: RG 9; Piece: 3704; Folio: 107; Page: 28; GSU roll: 54
 4 CONC 3175
 3 OBJE @M72@
-3 _APID 1,8767::12361432
+3 _APID 8767:12361432
 2 SOUR @S85@
 3 QUAY 1
 1 RESI
@@ -2727,7 +2812,7 @@
 4 CONC ty: Durham; Enumeration District: 6a; Folio: 6; Page: 8; Lin
 4 CONC e: 6; GSU roll: 241356
 3 OBJE @M70@
-3 _APID 1,8978::4077004
+3 _APID 8978:4077004
 1 RESI
 2 DATE 1851
 2 PLAC Hartlepool, Durham, England, UK
@@ -2735,7 +2820,7 @@
 3 PAGE Class: HO107; Piece: 2384; Folio: 421; Page: 16; GSU roll: 8
 4 CONC 7062
 3 OBJE @M71@
-3 _APID 1,8860::14453574
+3 _APID 8860:14453574
 2 NOTE Relationship: Son
 1 RESI
 2 DATE 1861
@@ -2747,13 +2832,14 @@
 3 PAGE Class: RG 9; Piece: 3704; Folio: 107; Page: 28; GSU roll: 54
 4 CONC 3175
 3 OBJE @M72@
-3 _APID 1,8767::12361432
+3 _APID 8767:12361432
 2 NOTE Relationship: Son
 1 DEAT
 2 DATE 11 MAR 1865
 2 PLAC Hartlepool, Durham
 2 SOUR @S79@
 3 QUAY 1
+1 _GUID b9a7753f-5305-4f16-84e0-a8c066356e45
 1 _XY 803 2209
 0 @I106@ INDI
 1 REFN db520158-e479-4afd-bc8e-d719487830e7
@@ -2767,6 +2853,7 @@
 2 PLAC Norton, Stockton upon Tees, Durham, England, UK
 2 SOUR @S79@
 3 QUAY 1
+1 _GUID a0da6b21-9947-41e2-b4b2-2d247a7e2361
 1 _XY 1148 947
 0 @I107@ INDI
 1 REFN 3b98908e-0ab9-4a8f-8cb5-7a46cd1e9357
@@ -2775,12 +2862,12 @@
 3 QUAY 1
 2 SOUR @S101@
 3 PAGE FHL 91092
-3 _APID 1,9841::52840677
+3 _APID 9841:52840677
 2 SOUR @S98@
 3 PAGE FHL 1894203
-3 _APID 1,9840::11016115
+3 _APID 9840:11016115
 2 SOUR @S99@
-3 _APID 1,60526::1097317
+3 _APID 60526:1097317
 1 SEX M
 1 FAMC @F32@
 1 OBJE @M83@
@@ -2795,7 +2882,7 @@
 2 PLAC Aycliffe, Sedgefield, Durham, England, UK
 2 SOUR @S101@
 3 PAGE FHL 91092
-3 _APID 1,9841::52840677
+3 _APID 9841:52840677
 1 DEAT
 2 DATE 20 JUN 1787
 2 PLAC Hart, Hartlepool, Durham, England, UK
@@ -2803,18 +2890,19 @@
 3 QUAY 1
 2 SOUR @S98@
 3 PAGE FHL 1894203
-3 _APID 1,9840::11016115
+3 _APID 9840:11016115
 2 SOUR @S99@
-3 _APID 1,60526::1097317
+3 _APID 60526:1097317
 1 BURI
 2 DATE 27 JUN 1787
 2 PLAC Saint Mary Magdalene Churchyard, Hartlepool, Durham, England
 3 CONC , UK
 2 SOUR @S98@
 3 PAGE FHL 1894203
-3 _APID 1,9840::11016115
+3 _APID 9840:11016115
 2 SOUR @S99@
-3 _APID 1,60526::1097317
+3 _APID 60526:1097317
+1 _GUID 907850a0-a31e-44c3-91f9-436873d776fc
 1 _XY 988 1685
 0 @PRBlkLKCSUKFRPTlxW7h@ INDI
 1 REFN 0194d49c-c780-45d8-b9ed-c20c1e5124bc
@@ -2824,28 +2912,28 @@
 4 CONC ty: Durham; Enumeration District: 6a; Folio: 6; Page: 8; Lin
 4 CONC e: 1; GSU roll: 241356
 3 OBJE @M70@
-3 _APID 1,8978::4076999
+3 _APID 8978:4076999
 2 SOUR @S81@
 3 PAGE Class: HO107; Piece: 2384; Folio: 421; Page: 16; GSU roll: 8
 4 CONC 7062
 3 OBJE @M71@
-3 _APID 1,8860::14453570
+3 _APID 8860:14453570
 2 SOUR @S83@
 3 PAGE Class: RG 9; Piece: 3704; Folio: 107; Page: 28; GSU roll: 54
 4 CONC 3175
 3 OBJE @M72@
-3 _APID 1,8767::12361430
+3 _APID 8767:12361430
 2 SOUR @S88@
 3 PAGE Class: RG10; Piece: 5024; Folio: 71; Page: 53; GSU roll: 848
 4 CONC 490
 3 OBJE @M74@
-3 _APID 1,7619::16843916
+3 _APID 7619:16843916
 2 SOUR @S79@
 2 SOUR @OeOCLbwlTzu3dQqftwwk@
 3 OBJE @M75@
-3 _APID 1,8914::33251417
+3 _APID 8914:33251417
 2 SOUR @S97@
-3 _APID 1,9852::1653088
+3 _APID 9852:1653088
 2 SOUR @Ok2EiItMTYaIoVo6zEWZ@
 3 QUAY 1
 1 SEX M
@@ -2861,25 +2949,25 @@
 4 CONC ty: Durham; Enumeration District: 6a; Folio: 6; Page: 8; Lin
 4 CONC e: 1; GSU roll: 241356
 3 OBJE @M70@
-3 _APID 1,8978::4076999
+3 _APID 8978:4076999
 2 SOUR @S81@
 3 PAGE Class: HO107; Piece: 2384; Folio: 421; Page: 16; GSU roll: 8
 4 CONC 7062
 3 OBJE @M71@
-3 _APID 1,8860::14453570
+3 _APID 8860:14453570
 2 SOUR @S83@
 3 PAGE Class: RG 9; Piece: 3704; Folio: 107; Page: 28; GSU roll: 54
 4 CONC 3175
 3 OBJE @M72@
-3 _APID 1,8767::12361430
+3 _APID 8767:12361430
 2 SOUR @S88@
 3 PAGE Class: RG10; Piece: 5024; Folio: 71; Page: 53; GSU roll: 848
 4 CONC 490
 3 OBJE @M74@
-3 _APID 1,7619::16843916
+3 _APID 7619:16843916
 2 SOUR @OeOCLbwlTzu3dQqftwwk@
 3 OBJE @M75@
-3 _APID 1,8914::33251417
+3 _APID 8914:33251417
 2 SOUR @S85@
 3 QUAY 1
 2 NOTE P. Sidgwick gives place as Monk Hesleden.
@@ -2896,7 +2984,7 @@
 4 CONC ty: Durham; Enumeration District: 6a; Folio: 6; Page: 8; Lin
 4 CONC e: 1; GSU roll: 241356
 3 OBJE @M70@
-3 _APID 1,8978::4076999
+3 _APID 8978:4076999
 1 CENS
 2 DATE 30 MAR 1851
 2 PLAC Northgate, Hartlepool, Hartlepool, Durham, England, UK
@@ -2911,7 +2999,7 @@
 3 PAGE Class: HO107; Piece: 2384; Folio: 421; Page: 16; GSU roll: 8
 4 CONC 7062
 3 OBJE @M71@
-3 _APID 1,8860::14453570
+3 _APID 8860:14453570
 2 NOTE Relationship: Head
 1 CENS
 2 DATE 07 APR 1861
@@ -2928,7 +3016,7 @@
 3 PAGE Class: RG 9; Piece: 3704; Folio: 107; Page: 28; GSU roll: 54
 4 CONC 3175
 3 OBJE @M72@
-3 _APID 1,8767::12361430
+3 _APID 8767:12361430
 2 NOTE Relationship: Head
 1 DEAT
 2 DATE 14 JUN 1871
@@ -2937,7 +3025,7 @@
 3 QUAY 1
 2 SOUR @OeOCLbwlTzu3dQqftwwk@
 3 OBJE @M75@
-3 _APID 1,8914::33251417
+3 _APID 8914:33251417
 2 NOTE need to order death cert. from England
 1 RESI
 2 DATE 1871
@@ -2946,11 +3034,12 @@
 3 PAGE Class: RG10; Piece: 5024; Folio: 71; Page: 53; GSU roll: 848
 4 CONC 490
 3 OBJE @M74@
-3 _APID 1,7619::16843916
+3 _APID 7619:16843916
 2 NOTE Relationship: Visitor
 1 OCCU farmer
 2 SOUR @Ok2EiItMTYaIoVo6zEWZ@
 3 QUAY 1
+1 _GUID f4bda7df-96dd-419f-9889-4c7ed709851a
 1 _XY 328 1914
 0 @I109@ INDI
 1 REFN 6560b51a-ed20-48c6-98e1-2a0d1eb2664a
@@ -2960,7 +3049,7 @@
 4 CONC ty: Durham; Enumeration District: 6a; Folio: 6; Page: 8; Lin
 4 CONC e: 4; GSU roll: 241356
 3 OBJE @M70@
-3 _APID 1,8978::4077002
+3 _APID 8978:4077002
 2 SOUR @N62jTQiMTmmRVQc5KCCK@
 3 PAGE Ancestry Family Tree
 3 DATA
@@ -2978,7 +3067,7 @@
 4 CONC ty: Durham; Enumeration District: 6a; Folio: 6; Page: 8; Lin
 4 CONC e: 4; GSU roll: 241356
 3 OBJE @M70@
-3 _APID 1,8978::4077002
+3 _APID 8978:4077002
 2 SOUR @S84@
 3 QUAY 1
 1 RESI
@@ -2989,10 +3078,11 @@
 4 CONC ty: Durham; Enumeration District: 6a; Folio: 6; Page: 8; Lin
 4 CONC e: 4; GSU roll: 241356
 3 OBJE @M70@
-3 _APID 1,8978::4077002
+3 _APID 8978:4077002
 1 DEAT
 2 DATE 26 DEC 1864
 2 PLAC Monkwearmouth Shore, Sunderland, Durham, England
+1 _GUID 460f285f-f5bb-45c7-8178-a5f040c14b15
 1 _XY 420 2209
 0 @I110@ INDI
 1 REFN a6ade635-8ca5-4b29-9c08-b412f01a69e0
@@ -3006,6 +3096,7 @@
 2 PLAC Elton, Stockton upon Tees, Durham, England, UK
 2 SOUR @S79@
 3 QUAY 1
+1 _GUID aa866cf0-63c0-4d87-9802-915b3b8f61a5
 1 _XY 270 947
 0 @I111@ INDI
 1 REFN a0998051-3276-4ac7-b3b2-d53b6ff20ddf
@@ -3019,6 +3110,7 @@
 2 PLAC Hart, Hartlepool, Durham, England, UK
 2 SOUR @S79@
 3 QUAY 1
+1 _GUID ea63634d-0fb0-41dd-acff-02299302070e
 1 _XY 1265 1576
 0 @I112@ INDI
 1 REFN 556e29c0-0ab8-4129-837d-a9ebf992b005
@@ -3026,19 +3118,20 @@
 2 SOUR @S79@
 3 QUAY 1
 2 SOUR @S101@
-3 _APID 1,9841::14109692
+3 _APID 9841:14109692
 1 SEX F
 1 FAMC @F27@
 1 BAPM
 2 DATE 01 JAN 1639
 2 PLAC Longnewton, Stockton upon Tees, Durham, England, UK
 2 SOUR @S101@
-3 _APID 1,9841::14109692
+3 _APID 9841:14109692
 1 BIRT
 2 DATE 1639
 2 PLAC Longnewton, Stockton upon Tees, Durham, England, UK
 2 SOUR @S79@
 3 QUAY 1
+1 _GUID 5f62fb68-1286-4892-8730-c71993a2acee
 1 _XY 773 728
 0 @I113@ INDI
 1 REFN bfda2955-bac9-454c-80ad-52d0d137f705
@@ -3052,6 +3145,7 @@
 2 PLAC Aycliffe, Sedgefield, Durham, England, UK
 2 SOUR @S79@
 3 QUAY 1
+1 _GUID c1c5e2d5-d574-484b-9b29-4418ab42384e
 1 _XY 1067 1197
 0 @I114@ INDI
 1 REFN dd21ea75-124c-4664-a36f-5ea9b3cb9bb3
@@ -3070,6 +3164,7 @@
 2 PLAC Hart, Hartlepool, Durham, England, UK
 2 SOUR @S79@
 3 QUAY 1
+1 _GUID 7a646c4c-afa9-466f-b857-2d0a3a537a89
 1 _XY 1345 1935
 0 @I115@ INDI
 1 REFN 079f2ec5-2238-48c2-b96f-c5aba7d1664f
@@ -3087,6 +3182,7 @@
 2 DATE 1628
 2 SOUR @S79@
 3 QUAY 1
+1 _GUID 2b4b3e5a-870b-4174-9d7d-cf6f6dee981a
 1 _XY 603 652
 0 @I116@ INDI
 1 REFN 7528a192-f842-402d-a03e-2bd81cbe3a75
@@ -3100,6 +3196,7 @@
 2 PLAC Egglescliffe, Stockton upon Tees, Durham, England, UK
 2 SOUR @S79@
 3 QUAY 1
+1 _GUID 963228e4-1357-4017-8866-dc8b51682168
 1 _XY 839 652
 0 @I117@ INDI
 1 REFN d1fe4a94-84c9-47a5-be7f-02294c807c37
@@ -3113,6 +3210,7 @@
 2 PLAC Elton, Stockton upon Tees, Durham, England, UK
 2 SOUR @S79@
 3 QUAY 1
+1 _GUID a2eedd75-caba-44c9-8588-472aaddbf802
 1 _XY 897 728
 0 @I118@ INDI
 1 REFN 3144b503-29a4-4a4d-b23e-3d5c34f7ee7e
@@ -3126,6 +3224,7 @@
 2 PLAC Elton, Stockton upon Tees, Durham, England, UK
 2 SOUR @S79@
 3 QUAY 1
+1 _GUID 642235e5-dc15-4a0b-837f-b600ea274d40
 1 _XY 483 947
 0 @I119@ INDI
 1 REFN 4dc1dad5-af01-4068-ba58-0093bb471a67
@@ -3139,6 +3238,7 @@
 2 PLAC Aycliffe, Sedgefield, Durham, England, UK
 2 SOUR @S79@
 3 QUAY 1
+1 _GUID 4f4725d1-45ff-485d-897d-d6037a7c8cfe
 1 _XY 1580 1283
 0 @I120@ INDI
 1 REFN 4fdd6fe4-6f91-4d51-8a6e-b0dd07bc9ead
@@ -3152,6 +3252,7 @@
 2 PLAC Hart, Hartlepool, Durham, England, UK
 2 SOUR @S79@
 3 QUAY 1
+1 _GUID 4516b42e-30be-4e5f-a152-44ca70deb526
 1 _XY 1822 1576
 0 @I121@ INDI
 1 REFN 7671e8f5-ff20-4b01-8160-bf7aeb292917
@@ -3170,6 +3271,7 @@
 2 PLAC Hart, Hartlepool, Durham, England, UK
 2 SOUR @S79@
 3 QUAY 1
+1 _GUID efd140c5-f230-455d-b68a-5770d6d4abe1
 1 _XY 1561 1939
 0 @I122@ INDI
 1 REFN 9d9f09ea-4ab9-433a-a80f-dc9e3fcebf41
@@ -3178,12 +3280,12 @@
 3 QUAY 1
 2 SOUR @S101@
 3 PAGE baptism of child David Taylerson, 4 Apr 1758
-3 _APID 1,9841::135030321
+3 _APID 9841:135030321
 2 SOUR @S101@
 3 PAGE baptism of child John Taylerson, 14 Jan 1761
-3 _APID 1,9841::34020789
+3 _APID 9841:34020789
 2 SOUR @S89@
-3 _APID 1,70699::1620985
+3 _APID 70699:1620985
 1 SEX M
 1 FAMC @F40@
 1 FAMS @F32@
@@ -3200,12 +3302,13 @@
 2 SOUR @S79@
 3 QUAY 1
 2 SOUR @S89@
-3 _APID 1,70699::1620985
+3 _APID 70699:1620985
 1 BURI
 2 PLAC Saint Mary Magdalene Churchyard, Hart, Hartlepool, Durham, E
 3 CONC ngland, UK
 2 SOUR @S89@
-3 _APID 1,70699::1620985
+3 _APID 70699:1620985
+1 _GUID c55c0793-5198-490d-a877-9aba98a91f6d
 1 _XY 1214 1283
 0 @I123@ INDI
 1 REFN b5545ea8-d26b-42fb-a860-4bfaa98944c6
@@ -3224,6 +3327,7 @@
 2 PLAC Aycliffe, Sedgefield, Durham, England, UK
 2 SOUR @S79@
 3 QUAY 1
+1 _GUID 6032ba1c-7f92-47a1-a429-1bb463c8e31f
 1 _XY 740 1685
 0 @I124@ INDI
 1 REFN a65ed18d-ebf5-432e-a86a-48559d79222c
@@ -3231,10 +3335,10 @@
 2 SOUR @S79@
 3 QUAY 1
 2 SOUR @S101@
-3 _APID 1,9841::158580177
+3 _APID 9841:158580177
 2 SOUR @S97@
 3 PAGE FHL 90784, Rowland Taylerson
-3 _APID 1,9852::8850013
+3 _APID 9852:8850013
 1 SEX M
 1 FAMC @F24@
 1 FAMS @F29@
@@ -3244,6 +3348,7 @@
 2 PLAC North Yorkshire, England, UK
 2 SOUR @S79@
 3 QUAY 1
+1 _GUID e0184b9f-65c4-4781-b7a2-a7c7887785fd
 1 _XY 919 171
 0 @I125@ INDI
 1 REFN d1b3efa5-50d9-467a-bb6f-6daf4b10259a
@@ -3251,7 +3356,7 @@
 2 SOUR @S79@
 3 QUAY 1
 2 SOUR @S101@
-3 _APID 1,9841::20738976
+3 _APID 9841:20738976
 1 SEX M
 1 FAMC @F27@
 1 NOTE _UID d1b3efa5-50d9-467a-bb6f-6daf4b10259a
@@ -3264,7 +3369,8 @@
 2 DATE 03 DEC 1629
 2 PLAC Egglescliffe, Stockton upon Tees, Durham, England, UK
 2 SOUR @S101@
-3 _APID 1,9841::20738976
+3 _APID 9841:20738976
+1 _GUID cb97f20f-fbc5-4db9-92e0-1414c17edb3f
 1 _XY 709 652
 0 @I126@ INDI
 1 REFN 6f2cfe22-bb95-490a-8542-e14871307789
@@ -3278,6 +3384,7 @@
 2 PLAC Egglescliffe, Stockton upon Tees, Durham, England, UK
 2 SOUR @S79@
 3 QUAY 1
+1 _GUID 76c84819-9a9d-461e-b0a8-e8764879d9a9
 1 _XY 861 449
 0 @I127@ INDI
 1 REFN bb6183f4-c00b-4c26-b4dd-93610d72972f
@@ -3291,6 +3398,7 @@
 2 PLAC Egglescliffe, Stockton upon Tees, Durham, England, UK
 2 SOUR @S79@
 3 QUAY 1
+1 _GUID 8e665f06-d417-4f73-aa8c-6f1632ce8f98
 1 _XY 1167 171
 0 @I128@ INDI
 1 REFN e0812599-908a-42b8-a7e1-b26a39e23fe9
@@ -3308,6 +3416,7 @@
 2 DATE ABT 1637
 2 SOUR @S79@
 3 QUAY 1
+1 _GUID 84b4ea35-3cae-44a4-bf68-8ef2b84a39ae
 1 _XY 1085 652
 0 @I129@ INDI
 1 REFN 23ddd9fe-5b39-474d-890c-c7e79a3c1fda
@@ -3321,6 +3430,7 @@
 2 PLAC Longnewton, Stockton upon Tees, Durham, England, UK
 2 SOUR @S79@
 3 QUAY 1
+1 _GUID 1cb774b4-355b-498e-a4b3-826dec9fde65
 1 _XY 648 728
 0 @I131@ INDI
 1 REFN 7804d396-94eb-495d-8566-b63541088bab
@@ -3334,6 +3444,7 @@
 2 PLAC Aycliffe, Sedgefield, Durham, England, UK
 2 SOUR @S79@
 3 QUAY 1
+1 _GUID 240cdbc5-a9ff-4917-a6b9-d2d5b696b255
 1 _XY 1326 1685
 0 @I132@ INDI
 1 REFN 30dac700-09e1-456c-9122-7985e7f8f559
@@ -3347,6 +3458,7 @@
 2 PLAC Hart, Hartlepool, Durham, England, UK
 2 SOUR @S79@
 3 QUAY 1
+1 _GUID 2a30d7e2-2108-4547-adf0-90c05dec331f
 1 _XY 1704 1576
 0 @I133@ INDI
 1 REFN 7430c7c5-e1a5-4fc5-a944-b39339e3af7f
@@ -3370,6 +3482,7 @@
 2 PLAC Faversham, Swale, Kent, England, UK
 2 SOUR @S79@
 3 QUAY 1
+1 _GUID f05520f3-ce8e-4191-b1ba-f7b5b5efda2d
 1 _XY 165 2209
 0 @YhiPH712RKmaIbDrXHIj@ INDI
 1 REFN 209acc3f-c7bc-4b91-bf43-92cd7b1994ea
@@ -3379,24 +3492,24 @@
 4 CONC pon Tees; County: Durham; Enumeration District: 2; Folio: 27
 4 CONC ; Page: 22; Line: 18; GSU roll: 241357
 3 OBJE @fkkFGltLRgGeUuNdFwkz@
-3 _APID 1,8978::4479731
+3 _APID 8978:4479731
 2 SOUR @JkzVLCTZRve6xkWeiQJy@
 3 PAGE Year: 1850; Census Place: Painted Post, Steuben, New York; R
 4 CONC oll: M432_598; Page: 1A; Image: 9
 3 OBJE @Sb0wdP9kRhCZ8ZFMto5r@
-3 _APID 1,8054::8387273
+3 _APID 8054:8387273
 2 SOUR @jmFGuFh1RiicUCdCiNYx@
 3 PAGE Year: 1860; Census Place: Corning, Steuben, New York; Roll
 4 CONC : M653_863; Page: 217; Image: 222; Family History Library Fi
 4 CONC lm: 803863
 3 OBJE @8Lh2FaDrRvS7dppiyXOL@
-3 _APID 1,7667::48686987
+3 _APID 7667:48686987
 2 SOUR @VqbyczWoTAunjNaTg1gt@
 3 PAGE Year: 1870; Census Place: Corning, Steuben, New York; Roll
 4 CONC : M593_1095; Page: 49A; Image: 102; Family History Library F
 4 CONC ilm: 552594
 3 OBJE @pmMZwiYLSwS64UMhv6PB@
-3 _APID 1,7163::32326404
+3 _APID 7163:32326404
 2 SOUR @N62jTQiMTmmRVQc5KCCK@
 3 PAGE Ancestry Family Tree
 3 DATA
@@ -3404,17 +3517,17 @@
 5 CONC &pid=528
 2 SOUR @STI3sk0lQsyDfygLDOjf@
 3 OBJE @oi1Or17IT4m6nzElyser@
-3 _APID 1,8913::28151377
+3 _APID 8913:28151377
 2 SOUR @S101@
-3 _APID 1,9841::44353561
+3 _APID 9841:44353561
 2 SOUR @XGGvH505QiGDGXaNUUub@
-3 _APID 1,5969::564781
+3 _APID 5969:564781
 2 SOUR @h7WBKNgwRSOUt2BNNsOI@
 3 OBJE @YYd8YtQCTaO3vcc9rJqb@
-3 _APID 1,7181::1655634890
+3 _APID 7181:1655634890
 2 SOUR @2bg2kSXxR9G5oJVTCXgV@
 3 OBJE @zDWuPkvNQy6AqcVvTWKS@
-3 _APID 1,7218::728636
+3 _APID 7218:728636
 1 SEX F
 1 FAMC @SBsOGRdKSbijpGIgiBgo@
 1 FAMS @VVoxPoqYQb2s80iiPRRo@
@@ -3429,39 +3542,39 @@
 4 CONC pon Tees; County: Durham; Enumeration District: 2; Folio: 27
 4 CONC ; Page: 22; Line: 18; GSU roll: 241357
 3 OBJE @fkkFGltLRgGeUuNdFwkz@
-3 _APID 1,8978::4479731
+3 _APID 8978:4479731
 2 SOUR @JkzVLCTZRve6xkWeiQJy@
 3 PAGE Year: 1850; Census Place: Painted Post, Steuben, New York; R
 4 CONC oll: M432_598; Page: 1A; Image: 9
 3 OBJE @Sb0wdP9kRhCZ8ZFMto5r@
-3 _APID 1,8054::8387273
+3 _APID 8054:8387273
 2 SOUR @jmFGuFh1RiicUCdCiNYx@
 3 PAGE Year: 1860; Census Place: Corning, Steuben, New York; Roll
 4 CONC : M653_863; Page: 217; Image: 222; Family History Library Fi
 4 CONC lm: 803863
 3 OBJE @8Lh2FaDrRvS7dppiyXOL@
-3 _APID 1,7667::48686987
+3 _APID 7667:48686987
 2 SOUR @VqbyczWoTAunjNaTg1gt@
 3 PAGE Year: 1870; Census Place: Corning, Steuben, New York; Roll
 4 CONC : M593_1095; Page: 49A; Image: 102; Family History Library F
 4 CONC ilm: 552594
 3 OBJE @pmMZwiYLSwS64UMhv6PB@
-3 _APID 1,7163::32326404
+3 _APID 7163:32326404
 2 SOUR @RdkuIHc9QdiI8rbGMkHb@
 2 SOUR @XGGvH505QiGDGXaNUUub@
-3 _APID 1,5969::564781
+3 _APID 5969:564781
 2 SOUR @h7WBKNgwRSOUt2BNNsOI@
 3 OBJE @YYd8YtQCTaO3vcc9rJqb@
-3 _APID 1,7181::1655634890
+3 _APID 7181:1655634890
 2 SOUR @2bg2kSXxR9G5oJVTCXgV@
 3 OBJE @zDWuPkvNQy6AqcVvTWKS@
-3 _APID 1,7218::728636
+3 _APID 7218:728636
 2 NOTE place is from 1841 England census
 1 BAPM
 2 DATE 05 SEP 1824
 2 PLAC Saint Thomas, Stockton upon Tees, Durham, England, UK
 2 SOUR @S101@
-3 _APID 1,9841::44353561
+3 _APID 9841:44353561
 1 CENS
 2 DATE 06 JUN 1841
 2 PLAC Brunswick Street, Stockton-on-Tees, Durham, England
@@ -3478,7 +3591,7 @@
 4 CONC pon Tees; County: Durham; Enumeration District: 2; Folio: 27
 4 CONC ; Page: 22; Line: 18; GSU roll: 241357
 3 OBJE @fkkFGltLRgGeUuNdFwkz@
-3 _APID 1,8978::4479731
+3 _APID 8978:4479731
 1 RESI
 2 DATE 14 AUG 1847
 2 PLAC North Street, Middlesbrough, Stockton-on-Tees, Durham, Engla
@@ -3499,7 +3612,7 @@
 2 DATE 05 JUL 1849
 2 PLAC USA
 2 SOUR @XGGvH505QiGDGXaNUUub@
-3 _APID 1,5969::564781
+3 _APID 5969:564781
 1 CENS
 2 DATE 01 JUN 1850
 2 PLAC Painted Post, Steuben, New York, USA
@@ -3518,7 +3631,7 @@
 3 PAGE Year: 1850; Census Place: Painted Post, Steuben, New York; R
 4 CONC oll: M432_598; Page: 1A; Image: 9
 3 OBJE @Sb0wdP9kRhCZ8ZFMto5r@
-3 _APID 1,8054::8387273
+3 _APID 8054:8387273
 1 RESI
 2 DATE 1855
 2 PLAC Corning, Steuben, New York, USA
@@ -3527,7 +3640,7 @@
 4 LONG W77.0547
 2 SOUR @h7WBKNgwRSOUt2BNNsOI@
 3 OBJE @YYd8YtQCTaO3vcc9rJqb@
-3 _APID 1,7181::1655634890
+3 _APID 7181:1655634890
 2 NOTE Relation to Head of House: Wife
 1 CENS
 2 DATE 01 JUN 1860
@@ -3548,7 +3661,7 @@
 4 CONC : M653_863; Page: 217; Image: 222; Family History Library Fi
 4 CONC lm: 803863
 3 OBJE @8Lh2FaDrRvS7dppiyXOL@
-3 _APID 1,7667::48686987
+3 _APID 7667:48686987
 1 CENS
 2 DATE 01 JUN 1865
 2 PLAC Corning, Steuben, New York, USA
@@ -3565,7 +3678,7 @@
 4 LONG W77.0547
 2 SOUR @2bg2kSXxR9G5oJVTCXgV@
 3 OBJE @zDWuPkvNQy6AqcVvTWKS@
-3 _APID 1,7218::728636
+3 _APID 7218:728636
 2 NOTE Relation to Head of House: Wife
 1 CENS
 2 DATE 01 JUN 1870
@@ -3583,7 +3696,7 @@
 4 CONC : M593_1095; Page: 49A; Image: 102; Family History Library F
 4 CONC ilm: 552594
 3 OBJE @pmMZwiYLSwS64UMhv6PB@
-3 _APID 1,7163::32326404
+3 _APID 7163:32326404
 1 DEAT
 2 DATE 28 JAN 1873
 2 PLAC Corning, Steuben, New York, USA
@@ -3593,13 +3706,14 @@
 2 SOUR @RdkuIHc9QdiI8rbGMkHb@
 3 QUAY 1
 2 NOTE Steuben Co. Abstract of Wills and Admins. gives Feb 1872
+1 _GUID edc7db37-4cf3-439c-9e86-5d098e858426
 1 _XY 1537 2209
 0 @eSATTRXURDaNBnm977gU@ INDI
 1 REFN edc1c1d7-d005-4603-8e30-6c4582320ea9
 1 NAME Christina /Taylorson/
 2 SOUR @h7WBKNgwRSOUt2BNNsOI@
 3 OBJE @e2itw6lqSXqxQ9OzyjyJ@
-3 _APID 1,7181::1655632243
+3 _APID 7181:1655632243
 2 SOUR @WA6UwoKUTnCqPE5cO5ER@
 3 QUAY 1
 1 SEX F
@@ -3612,7 +3726,7 @@
 4 LONG W74.2224
 2 SOUR @h7WBKNgwRSOUt2BNNsOI@
 3 OBJE @e2itw6lqSXqxQ9OzyjyJ@
-3 _APID 1,7181::1655632243
+3 _APID 7181:1655632243
 2 SOUR @WA6UwoKUTnCqPE5cO5ER@
 3 QUAY 1
 1 RESI
@@ -3623,8 +3737,9 @@
 4 LONG W77.1408
 2 SOUR @h7WBKNgwRSOUt2BNNsOI@
 3 OBJE @e2itw6lqSXqxQ9OzyjyJ@
-3 _APID 1,7181::1655632243
+3 _APID 7181:1655632243
 2 NOTE Relation to Head of House: Child
+1 _GUID bf4c6f03-5e87-414f-829f-bd4fdbcd2fcd
 1 _XY 1999 2015
 0 @BbbwuN7NS0KOfVbBorj2@ INDI
 1 REFN f075d7d6-c526-4658-b668-b32883bbaeaf
@@ -3634,10 +3749,10 @@
 4 CONC pon Tees; County: Durham; Enumeration District: 2; Folio: 27
 4 CONC ; Page: 22; Line: 19; GSU roll: 241357
 3 OBJE @fkkFGltLRgGeUuNdFwkz@
-3 _APID 1,8978::4479732
+3 _APID 8978:4479732
 2 SOUR @7kJ3C8C4QFesOwUmgdI4@
 2 SOUR @S101@
-3 _APID 1,9841::20268137
+3 _APID 9841:20268137
 1 SEX F
 1 FAMC @SBsOGRdKSbijpGIgiBgo@
 1 BIRT
@@ -3649,7 +3764,7 @@
 2 DATE 16 JUL 1826
 2 PLAC Saint Thomas' Church, Stockton-on-Tees, Durham, England
 2 SOUR @S101@
-3 _APID 1,9841::20268137
+3 _APID 9841:20268137
 1 RESI
 2 DATE 1841
 2 PLAC Stockton-on-Tees, Durham, England
@@ -3661,7 +3776,8 @@
 4 CONC pon Tees; County: Durham; Enumeration District: 2; Folio: 27
 4 CONC ; Page: 22; Line: 19; GSU roll: 241357
 3 OBJE @fkkFGltLRgGeUuNdFwkz@
-3 _APID 1,8978::4479732
+3 _APID 8978:4479732
+1 _GUID 2a88b0d1-3587-45a4-80a6-f329d32318c1
 1 _XY 1656 2209
 0 @t69e9zVpQzqtTG4aD2Rl@ INDI
 1 REFN d2ce250c-c2e4-49cc-a852-9c782bf587a6
@@ -3671,11 +3787,11 @@
 4 CONC pon Tees; County: Durham; Enumeration District: 2; Folio: 27
 4 CONC ; Page: 22; Line: 23; GSU roll: 241357
 3 OBJE @fkkFGltLRgGeUuNdFwkz@
-3 _APID 1,8978::4479736
+3 _APID 8978:4479736
 2 SOUR @0MacWIUSR0yCwHHfzvGN@
 3 QUAY 1
 2 SOUR @XGGvH505QiGDGXaNUUub@
-3 _APID 1,5969::564782
+3 _APID 5969:564782
 1 SEX F
 1 FAMC @SBsOGRdKSbijpGIgiBgo@
 1 BIRT
@@ -3687,7 +3803,7 @@
 2 DATE 06 JUL 1834
 2 PLAC Saint Thomas, Stockton upon Tees, Durham, England, UK
 2 SOUR @S101@
-3 _APID 1,9841::82700338
+3 _APID 9841:82700338
 1 RESI
 2 DATE 1841
 2 PLAC Stockton-on-Tees, Durham, England
@@ -3699,13 +3815,14 @@
 4 CONC pon Tees; County: Durham; Enumeration District: 2; Folio: 27
 4 CONC ; Page: 22; Line: 23; GSU roll: 241357
 3 OBJE @fkkFGltLRgGeUuNdFwkz@
-3 _APID 1,8978::4479736
+3 _APID 8978:4479736
 1 EVEN
 2 TYPE Arrival
 2 DATE 05 JUL 1849
 2 PLAC USA
 2 SOUR @XGGvH505QiGDGXaNUUub@
-3 _APID 1,5969::564782
+3 _APID 5969:564782
+1 _GUID 00606dab-501c-4e98-be9f-ccab1ad4884a
 1 _XY 2300 2209
 0 @ckfxNTKHTiGp0GxlaIQm@ INDI
 1 REFN 4a501e56-96b0-4ecd-8370-21b804827878
@@ -3715,13 +3832,13 @@
 4 CONC pon Tees; County: Durham; Enumeration District: 2; Folio: 27
 4 CONC ; Page: 22; Line: 22; GSU roll: 241357
 3 OBJE @fkkFGltLRgGeUuNdFwkz@
-3 _APID 1,8978::4479735
+3 _APID 8978:4479735
 2 SOUR @7kJ3C8C4QFesOwUmgdI4@
 3 QUAY 1
 2 SOUR @S101@
-3 _APID 1,9841::144940117
+3 _APID 9841:144940117
 2 SOUR @XGGvH505QiGDGXaNUUub@
-3 _APID 1,5969::564783
+3 _APID 5969:564783
 1 SEX F
 1 FAMC @SBsOGRdKSbijpGIgiBgo@
 1 BIRT
@@ -3732,15 +3849,15 @@
 4 CONC pon Tees; County: Durham; Enumeration District: 2; Folio: 27
 4 CONC ; Page: 22; Line: 22; GSU roll: 241357
 3 OBJE @fkkFGltLRgGeUuNdFwkz@
-3 _APID 1,8978::4479735
+3 _APID 8978:4479735
 2 SOUR @7kJ3C8C4QFesOwUmgdI4@
 2 SOUR @S101@
-3 _APID 1,9841::144940117
+3 _APID 9841:144940117
 1 BAPM
 2 DATE 03 AUG 1832
 2 PLAC Saint Thomas' Church, Stockton-on-Tees, Durham, England
 2 SOUR @S101@
-3 _APID 1,9841::144940117
+3 _APID 9841:144940117
 1 RESI
 2 DATE 1841
 2 PLAC Stockton-on-Tees, Durham, England
@@ -3752,14 +3869,15 @@
 4 CONC pon Tees; County: Durham; Enumeration District: 2; Folio: 27
 4 CONC ; Page: 22; Line: 22; GSU roll: 241357
 3 OBJE @fkkFGltLRgGeUuNdFwkz@
-3 _APID 1,8978::4479735
+3 _APID 8978:4479735
 2 SOUR @7kJ3C8C4QFesOwUmgdI4@
 1 EVEN
 2 TYPE Arrival
 2 DATE 05 JUL 1849
 2 PLAC USA
 2 SOUR @XGGvH505QiGDGXaNUUub@
-3 _APID 1,5969::564783
+3 _APID 5969:564783
+1 _GUID b9cfb844-1d6f-4959-90ad-3202217b0715
 1 _XY 2167 2209
 0 @te7t7Lo2QraoEgWshr1c@ INDI
 1 REFN e77ed17b-9eb9-44b8-8c5b-0c0ed38cfe2b
@@ -3768,42 +3886,42 @@
 3 PAGE Year: 1850; Census Place: Painted Post, Steuben, New York; R
 4 CONC oll: M432_598; Page: 1A; Image: 9
 3 OBJE @Sb0wdP9kRhCZ8ZFMto5r@
-3 _APID 1,8054::8446448
+3 _APID 8054:8446448
 2 SOUR @jmFGuFh1RiicUCdCiNYx@
 3 PAGE Year: 1860; Census Place: Corning, Steuben, New York; Roll
 4 CONC : M653_863; Page: 217; Image: 222; Family History Library Fi
 4 CONC lm: 803863
 3 OBJE @8Lh2FaDrRvS7dppiyXOL@
-3 _APID 1,7667::48686999
+3 _APID 7667:48686999
 2 SOUR @VqbyczWoTAunjNaTg1gt@
 3 PAGE Year: 1870; Census Place: Corning, Steuben, New York; Roll
 4 CONC : M593_1095; Page: 49A; Image: 102; Family History Library F
 4 CONC ilm: 552594
 3 OBJE @pmMZwiYLSwS64UMhv6PB@
-3 _APID 1,7163::32326405
+3 _APID 7163:32326405
 2 SOUR @tagmH3kSS5mNE6mkVQFl@
 3 PAGE Year: 1880; Census Place: Buffalo, Erie, New York; Roll: 828
 4 CONC ; Family History Film: 1254828; Page: 35B; Enumeration Distr
 4 CONC ict: 120; Image: 0426
 3 OBJE @b5CvY48XSSOaRlEiT0q5@
-3 _APID 1,6742::1594081
+3 _APID 6742:1594081
 2 SOUR @NDN2XTgxTLmnX7Bgq4LP@
 3 PAGE Year: 1900; Census Place: Olean, Cattaraugus, New York; Roll
 4 CONC : 1011; Page: 4A; Enumeration District: 0056; FHL microfilm
 4 CONC : 1241011
 3 OBJE @nUHy1YBHRXSE4eLmMUJo@
-3 _APID 1,7602::18439145
+3 _APID 7602:18439145
 2 SOUR @c4Kpe8hwRqSW5hMTvu1S@
 3 PAGE Year: 1910; Census Place: Olean Ward 3, Cattaraugus, New Yor
 4 CONC k; Roll: T624_927; Page: 7A; Enumeration District: 0078; FH
 4 CONC L microfilm: 1374940
 3 OBJE @RIbmdKWERFWQyvHXdKyl@
-3 _APID 1,7884::17076312
+3 _APID 7884:17076312
 2 SOUR @gEzHretGQ9iAdPxO8HPJ@
 3 PAGE Year: 1920; Census Place: Olean Ward 3, Cattaraugus, New Yor
 4 CONC k
 3 OBJE @ski6SX2XRdSwVekHG1fj@
-3 _APID 1,6061::81631796
+3 _APID 6061:81631796
 2 SOUR @N62jTQiMTmmRVQc5KCCK@
 3 PAGE Ancestry Family Tree
 3 DATA
@@ -3816,21 +3934,21 @@
 5 CONC 414&pid=26
 2 SOUR @g1kvijD7QFuspa8K7nFd@
 3 OBJE @0kjuZ5g4SAO42LgBAmTw@
-3 _APID 1,8912::54486335
+3 _APID 8912:54486335
 2 SOUR @lfO2pboiTVupZdmq8c8n@
 3 OBJE @jJJVXiNLTJOtnFzmfuE6@
-3 _APID 1,8842::3261842
+3 _APID 8842:3261842
 2 SOUR @XGGvH505QiGDGXaNUUub@
-3 _APID 1,5969::564784
+3 _APID 5969:564784
 2 SOUR @h7WBKNgwRSOUt2BNNsOI@
 3 OBJE @YYd8YtQCTaO3vcc9rJqb@
-3 _APID 1,7181::1655634891
+3 _APID 7181:1655634891
 2 SOUR @2bg2kSXxR9G5oJVTCXgV@
 3 OBJE @zDWuPkvNQy6AqcVvTWKS@
-3 _APID 1,7218::728637
+3 _APID 7218:728637
 2 SOUR @xcXXXJstR1iS4OizBZKh@
 3 OBJE @8LVfnfmpSXeZbCrHJqfp@
-3 _APID 1,2469::104829283
+3 _APID 2469:104829283
 1 SEX M
 1 FAMC @VVoxPoqYQb2s80iiPRRo@
 1 FAMS @x0FfmvNVTaardWNmUxSB@
@@ -3841,19 +3959,19 @@
 3 PAGE Year: 1850; Census Place: Painted Post, Steuben, New York; R
 4 CONC oll: M432_598; Page: 1A; Image: 9
 3 OBJE @Sb0wdP9kRhCZ8ZFMto5r@
-3 _APID 1,8054::8446448
+3 _APID 8054:8446448
 2 SOUR @jmFGuFh1RiicUCdCiNYx@
 3 PAGE Year: 1860; Census Place: Corning, Steuben, New York; Roll
 4 CONC : M653_863; Page: 217; Image: 222; Family History Library Fi
 4 CONC lm: 803863
 3 OBJE @8Lh2FaDrRvS7dppiyXOL@
-3 _APID 1,7667::48686999
+3 _APID 7667:48686999
 2 SOUR @VqbyczWoTAunjNaTg1gt@
 3 PAGE Year: 1870; Census Place: Corning, Steuben, New York; Roll
 4 CONC : M593_1095; Page: 49A; Image: 102; Family History Library F
 4 CONC ilm: 552594
 3 OBJE @pmMZwiYLSwS64UMhv6PB@
-3 _APID 1,7163::32326405
+3 _APID 7163:32326405
 2 SOUR @amQ48G9oSLGJYInGx0OC@
 3 QUAY 3
 1 EVEN
@@ -3864,7 +3982,7 @@
 4 CONC k; Roll: T624_927; Page: 7A; Enumeration District: 0078; FH
 4 CONC L microfilm: 1374940
 3 OBJE @RIbmdKWERFWQyvHXdKyl@
-3 _APID 1,7884::17076312
+3 _APID 7884:17076312
 1 EVEN
 2 TYPE Arrival
 2 DATE 05 JUL 1849
@@ -3874,9 +3992,9 @@
 4 CONC : 1011; Page: 4A; Enumeration District: 0056; FHL microfilm
 4 CONC : 1241011
 3 OBJE @nUHy1YBHRXSE4eLmMUJo@
-3 _APID 1,7602::18439145
+3 _APID 7602:18439145
 2 SOUR @XGGvH505QiGDGXaNUUub@
-3 _APID 1,5969::564784
+3 _APID 5969:564784
 1 RESI
 2 DATE 1850
 2 PLAC Painted Post, Steuben, New York, USA
@@ -3887,7 +4005,7 @@
 3 PAGE Year: 1850; Census Place: Painted Post, Steuben, New York; R
 4 CONC oll: M432_598; Page: 1A; Image: 9
 3 OBJE @Sb0wdP9kRhCZ8ZFMto5r@
-3 _APID 1,8054::8446448
+3 _APID 8054:8446448
 1 EVEN
 2 TYPE Arrival
 2 DATE 1850
@@ -3895,7 +4013,7 @@
 3 PAGE Year: 1920; Census Place: Olean Ward 3, Cattaraugus, New Yor
 4 CONC k
 3 OBJE @ski6SX2XRdSwVekHG1fj@
-3 _APID 1,6061::81631796
+3 _APID 6061:81631796
 1 RESI
 2 DATE 1855
 2 PLAC Corning, Steuben, New York, USA
@@ -3904,7 +4022,7 @@
 4 LONG W77.0547
 2 SOUR @h7WBKNgwRSOUt2BNNsOI@
 3 OBJE @YYd8YtQCTaO3vcc9rJqb@
-3 _APID 1,7181::1655634891
+3 _APID 7181:1655634891
 2 NOTE Relation to Head of House: Child
 1 RESI
 2 DATE 1860
@@ -3917,7 +4035,7 @@
 4 CONC : M653_863; Page: 217; Image: 222; Family History Library Fi
 4 CONC lm: 803863
 3 OBJE @8Lh2FaDrRvS7dppiyXOL@
-3 _APID 1,7667::48686999
+3 _APID 7667:48686999
 1 RESI
 2 DATE 1865
 2 PLAC Corning, Steuben, New York, USA
@@ -3926,7 +4044,7 @@
 4 LONG W77.0547
 2 SOUR @2bg2kSXxR9G5oJVTCXgV@
 3 OBJE @zDWuPkvNQy6AqcVvTWKS@
-3 _APID 1,7218::728637
+3 _APID 7218:728637
 2 NOTE Relation to Head of House: Son
 1 RESI
 2 DATE 1870
@@ -3939,7 +4057,7 @@
 4 CONC : M593_1095; Page: 49A; Image: 102; Family History Library F
 4 CONC ilm: 552594
 3 OBJE @pmMZwiYLSwS64UMhv6PB@
-3 _APID 1,7163::32326405
+3 _APID 7163:32326405
 1 RESI
 2 DATE 1880
 2 PLAC Buffalo, Erie, New York, USA
@@ -3951,7 +4069,7 @@
 4 CONC ; Family History Film: 1254828; Page: 35B; Enumeration Distr
 4 CONC ict: 120; Image: 0426
 3 OBJE @b5CvY48XSSOaRlEiT0q5@
-3 _APID 1,6742::1594081
+3 _APID 6742:1594081
 2 NOTE Age: 32; Marital Status: Married; Relation to Head of House
 3 CONC : Self
 1 RESI
@@ -3965,7 +4083,7 @@
 4 CONC : 1011; Page: 4A; Enumeration District: 0056; FHL microfilm
 4 CONC : 1241011
 3 OBJE @nUHy1YBHRXSE4eLmMUJo@
-3 _APID 1,7602::18439145
+3 _APID 7602:18439145
 2 NOTE Age: 51; Marital Status: Married; Relation to Head of House
 3 CONC : Head
 1 RESI
@@ -3979,7 +4097,7 @@
 4 CONC k; Roll: T624_927; Page: 7A; Enumeration District: 0078; FH
 4 CONC L microfilm: 1374940
 3 OBJE @RIbmdKWERFWQyvHXdKyl@
-3 _APID 1,7884::17076312
+3 _APID 7884:17076312
 2 NOTE Age: 61; Age: 61; Marital Status: Married; Relation to Hea
 3 CONC d of House: Head
 1 RESI
@@ -3992,10 +4110,10 @@
 3 PAGE Year: 1920; Census Place: Olean Ward 3, Cattaraugus, New Yor
 4 CONC k
 3 OBJE @ski6SX2XRdSwVekHG1fj@
-3 _APID 1,6061::81631796
+3 _APID 6061:81631796
 2 SOUR @xcXXXJstR1iS4OizBZKh@
 3 OBJE @8LVfnfmpSXeZbCrHJqfp@
-3 _APID 1,2469::104829283
+3 _APID 2469:104829283
 2 NOTE Age: 71; Marital Status: Married; Relation to Head of House
 3 CONC : Head
 1 EVEN
@@ -4007,7 +4125,7 @@
 4 LONG W81.7826
 2 SOUR @lfO2pboiTVupZdmq8c8n@
 3 OBJE @jJJVXiNLTJOtnFzmfuE6@
-3 _APID 1,8842::3261842
+3 _APID 8842:3261842
 1 DEAT
 2 DATE 01 APR 1923
 2 PLAC New York, USA
@@ -4016,6 +4134,7 @@
 4 LONG W74.2224
 2 SOUR @yfJejJTbTyae3CxS1bJt@
 3 QUAY 1
+1 _GUID c6dc979e-9eb6-409b-bfc3-0aac426d91a3
 1 _XY 1207 2551
 0 @TV5ID2LuRiW5x8cwWgSf@ INDI
 1 REFN 9814cb22-068d-4d6e-85e1-742d4582e207
@@ -4025,31 +4144,31 @@
 4 CONC : M653_863; Page: 217; Image: 222; Family History Library Fi
 4 CONC lm: 803863
 3 OBJE @8Lh2FaDrRvS7dppiyXOL@
-3 _APID 1,7667::48687001
+3 _APID 7667:48687001
 2 SOUR @h7WBKNgwRSOUt2BNNsOI@
 3 OBJE @YYd8YtQCTaO3vcc9rJqb@
-3 _APID 1,7181::1655634893
+3 _APID 7181:1655634893
 2 SOUR @2bg2kSXxR9G5oJVTCXgV@
 3 OBJE @zDWuPkvNQy6AqcVvTWKS@
-3 _APID 1,7218::728638
+3 _APID 7218:728638
 2 SOUR @74P5lXIpRomDQfd5WmFi@
 3 OBJE @MkjqZjVXTQ6rkkGn6INa@
-3 _APID 1,7250::1382758777
+3 _APID 7250:1382758777
 2 SOUR @PTkUNEaISa61ijB7VnKA@
-3 _APID 1,60525::46327910
+3 _APID 60525:46327910
 1 NAME Hannah S. /Taylorson/
 2 SOUR @VqbyczWoTAunjNaTg1gt@
 3 PAGE Year: 1870; Census Place: Corning, Steuben, New York; Roll
 4 CONC : M593_1095; Page: 49A; Image: 102; Family History Library F
 4 CONC ilm: 552594
 3 OBJE @pmMZwiYLSwS64UMhv6PB@
-3 _APID 1,7163::32326420
+3 _APID 7163:32326420
 2 SOUR @tagmH3kSS5mNE6mkVQFl@
 3 PAGE Year: 1880; Census Place: Hornby, Steuben, New York; Roll: 9
 4 CONC 33; Family History Film: 1254933; Page: 266C; Enumeration Di
 4 CONC strict: 177; Image: 0536
 3 OBJE @7Qe3Q54kTFen6vc1sLFi@
-3 _APID 1,6742::39384914
+3 _APID 6742:39384914
 2 SOUR @N62jTQiMTmmRVQc5KCCK@
 3 PAGE Ancestry Family Tree
 3 DATA
@@ -4070,31 +4189,31 @@
 4 CONC : M653_863; Page: 217; Image: 222; Family History Library Fi
 4 CONC lm: 803863
 3 OBJE @8Lh2FaDrRvS7dppiyXOL@
-3 _APID 1,7667::48687001
+3 _APID 7667:48687001
 2 SOUR @VqbyczWoTAunjNaTg1gt@
 3 PAGE Year: 1870; Census Place: Corning, Steuben, New York; Roll
 4 CONC : M593_1095; Page: 49A; Image: 102; Family History Library F
 4 CONC ilm: 552594
 3 OBJE @pmMZwiYLSwS64UMhv6PB@
-3 _APID 1,7163::32326420
+3 _APID 7163:32326420
 2 SOUR @tagmH3kSS5mNE6mkVQFl@
 3 PAGE Year: 1880; Census Place: Hornby, Steuben, New York; Roll: 9
 4 CONC 33; Family History Film: 1254933; Page: 266C; Enumeration Di
 4 CONC strict: 177; Image: 0536
 3 OBJE @7Qe3Q54kTFen6vc1sLFi@
-3 _APID 1,6742::39384914
+3 _APID 6742:39384914
 2 SOUR @73BbZwueSqGkdeK8ueNP@
 2 SOUR @h7WBKNgwRSOUt2BNNsOI@
 3 OBJE @YYd8YtQCTaO3vcc9rJqb@
-3 _APID 1,7181::1655634893
+3 _APID 7181:1655634893
 2 SOUR @2bg2kSXxR9G5oJVTCXgV@
 3 OBJE @zDWuPkvNQy6AqcVvTWKS@
-3 _APID 1,7218::728638
+3 _APID 7218:728638
 2 SOUR @74P5lXIpRomDQfd5WmFi@
 3 OBJE @MkjqZjVXTQ6rkkGn6INa@
-3 _APID 1,7250::1382758777
+3 _APID 7250:1382758777
 2 SOUR @PTkUNEaISa61ijB7VnKA@
-3 _APID 1,60525::46327910
+3 _APID 60525:46327910
 1 RESI
 2 DATE 1855
 2 PLAC Corning, Steuben, New York, USA
@@ -4103,7 +4222,7 @@
 4 LONG W77.0547
 2 SOUR @h7WBKNgwRSOUt2BNNsOI@
 3 OBJE @YYd8YtQCTaO3vcc9rJqb@
-3 _APID 1,7181::1655634893
+3 _APID 7181:1655634893
 2 NOTE Relation to Head of House: Child
 1 CENS
 2 DATE 01 JUN 1860
@@ -4124,7 +4243,7 @@
 4 CONC : M653_863; Page: 217; Image: 222; Family History Library Fi
 4 CONC lm: 803863
 3 OBJE @8Lh2FaDrRvS7dppiyXOL@
-3 _APID 1,7667::48687001
+3 _APID 7667:48687001
 2 NOTE Age: 8
 1 CENS
 2 DATE 01 JUN 1865
@@ -4142,7 +4261,7 @@
 4 LONG W77.0547
 2 SOUR @2bg2kSXxR9G5oJVTCXgV@
 3 OBJE @zDWuPkvNQy6AqcVvTWKS@
-3 _APID 1,7218::728638
+3 _APID 7218:728638
 2 NOTE Relation to Head of House: Daughter
 1 CENS
 2 DATE 01 JUN 1870
@@ -4167,7 +4286,7 @@
 4 CONC : M593_1095; Page: 49A; Image: 102; Family History Library F
 4 CONC ilm: 552594
 3 OBJE @pmMZwiYLSwS64UMhv6PB@
-3 _APID 1,7163::32326420
+3 _APID 7163:32326420
 2 NOTE Age: 18
 1 RESI
 2 DATE 01 JUN 1875
@@ -4177,7 +4296,7 @@
 4 LONG W77.0444
 2 SOUR @74P5lXIpRomDQfd5WmFi@
 3 OBJE @MkjqZjVXTQ6rkkGn6INa@
-3 _APID 1,7250::1382758777
+3 _APID 7250:1382758777
 2 NOTE Relation to Head of House: Wife
 1 CENS
 2 DATE 1875
@@ -4218,7 +4337,7 @@
 4 CONC 33; Family History Film: 1254933; Page: 266C; Enumeration Di
 4 CONC strict: 177; Image: 0536
 3 OBJE @7Qe3Q54kTFen6vc1sLFi@
-3 _APID 1,6742::39384914
+3 _APID 6742:39384914
 2 NOTE Age: 28; Marital Status: Married; Relation to Head of House
 3 CONC : Wife
 1 EVEN
@@ -4242,7 +4361,7 @@
 4 LONG W77.0444
 2 SOUR @QjqphwFCTh22O6HarJAj@
 2 SOUR @PTkUNEaISa61ijB7VnKA@
-3 _APID 1,60525::46327910
+3 _APID 60525:46327910
 2 NOTE Applicants Working Sheet DAR agrees
 3 CONT [need to check NY Vital Records: death certificate #22790]
 1 BURI
@@ -4250,7 +4369,8 @@
 2 SOUR @3811HBnDStKtooOM2mFC@
 3 QUAY 2
 2 SOUR @PTkUNEaISa61ijB7VnKA@
-3 _APID 1,60525::46327910
+3 _APID 60525:46327910
+1 _GUID af0a13e3-8a74-46e1-b4e8-c6b19ae97ba1
 1 _XY 1679 2551
 0 @dFnJrONrTXmSUU1bpTty@ INDI
 1 REFN 193d1da7-a6c6-47e3-9fc8-d095b17f3aad
@@ -4260,19 +4380,19 @@
 4 CONC : M593_1095; Page: 49A; Image: 102; Family History Library F
 4 CONC ilm: 552594
 3 OBJE @pmMZwiYLSwS64UMhv6PB@
-3 _APID 1,7163::32326423
+3 _APID 7163:32326423
 2 SOUR @c4Kpe8hwRqSW5hMTvu1S@
 3 PAGE Year: 1910; Census Place: Westfield, Tioga, Pennsylvania; Ro
 4 CONC ll: T624_1423; Page: 12A; Enumeration District: 0170; FHL mi
 4 CONC crofilm: 1375436
 3 OBJE @NOtiDwokQXi1m65EbyOt@
-3 _APID 1,7884::25924631
+3 _APID 7884:25924631
 2 SOUR @2bg2kSXxR9G5oJVTCXgV@
 3 OBJE @zDWuPkvNQy6AqcVvTWKS@
-3 _APID 1,7218::728642
+3 _APID 7218:728642
 2 SOUR @74P5lXIpRomDQfd5WmFi@
 3 OBJE @XA9Vo3BZQR2gnVPVkgzL@
-3 _APID 1,7250::1382745708
+3 _APID 7250:1382745708
 1 NAME Hattie Ellen /Taylorson/
 2 SOUR @lCxbRWUpRmWLryAWJU56@
 3 QUAY 1
@@ -4298,19 +4418,19 @@
 4 CONC : M593_1095; Page: 49A; Image: 102; Family History Library F
 4 CONC ilm: 552594
 3 OBJE @pmMZwiYLSwS64UMhv6PB@
-3 _APID 1,7163::32326423
+3 _APID 7163:32326423
 2 SOUR @c4Kpe8hwRqSW5hMTvu1S@
 3 PAGE Year: 1910; Census Place: Westfield, Tioga, Pennsylvania; Ro
 4 CONC ll: T624_1423; Page: 12A; Enumeration District: 0170; FHL mi
 4 CONC crofilm: 1375436
 3 OBJE @NOtiDwokQXi1m65EbyOt@
-3 _APID 1,7884::25924631
+3 _APID 7884:25924631
 2 SOUR @2bg2kSXxR9G5oJVTCXgV@
 3 OBJE @zDWuPkvNQy6AqcVvTWKS@
-3 _APID 1,7218::728642
+3 _APID 7218:728642
 2 SOUR @74P5lXIpRomDQfd5WmFi@
 3 OBJE @XA9Vo3BZQR2gnVPVkgzL@
-3 _APID 1,7250::1382745708
+3 _APID 7250:1382745708
 2 SOUR @2WoDCiydQiS8tg1JkJWc@
 3 QUAY 1
 2 SOUR @WjJ6YPanRKegWyl1IRoB@
@@ -4326,7 +4446,7 @@
 4 LONG W77.0547
 2 SOUR @2bg2kSXxR9G5oJVTCXgV@
 3 OBJE @zDWuPkvNQy6AqcVvTWKS@
-3 _APID 1,7218::728642
+3 _APID 7218:728642
 2 NOTE Relation to Head of House: Daughter
 1 RESI
 2 DATE 1870
@@ -4339,7 +4459,7 @@
 4 CONC : M593_1095; Page: 49A; Image: 102; Family History Library F
 4 CONC ilm: 552594
 3 OBJE @pmMZwiYLSwS64UMhv6PB@
-3 _APID 1,7163::32326423
+3 _APID 7163:32326423
 1 RESI
 2 DATE 01 JUN 1875
 2 PLAC Corning, Steuben, New York, USA
@@ -4348,7 +4468,7 @@
 4 LONG W77.0547
 2 SOUR @74P5lXIpRomDQfd5WmFi@
 3 OBJE @XA9Vo3BZQR2gnVPVkgzL@
-3 _APID 1,7250::1382745708
+3 _APID 7250:1382745708
 2 NOTE Relation to Head of House: Daughter
 1 RESI
 2 DATE 1910
@@ -4361,7 +4481,7 @@
 4 CONC ll: T624_1423; Page: 12A; Enumeration District: 0170; FHL mi
 4 CONC crofilm: 1375436
 3 OBJE @NOtiDwokQXi1m65EbyOt@
-3 _APID 1,7884::25924631
+3 _APID 7884:25924631
 2 NOTE Age: 46; Marital Status: Married; Relation to Head of House
 3 CONC : Mother
 1 DEAT
@@ -4371,6 +4491,7 @@
 4 LATI N42.329
 4 LONG W75.9677
 2 SOUR @cloCGCgMQYqTs7SReZRJ@
+1 _GUID ed95c7c8-51d3-4708-97d1-b30160c98c78
 1 _XY 975 2551
 0 @JGTsqYB9SdiI2txJXQIS@ INDI
 1 REFN 0ee270de-4193-466f-8463-dea0f9b96e24
@@ -4380,11 +4501,11 @@
 4 CONC pon Tees; County: Durham; Enumeration District: 2; Folio: 27
 4 CONC ; Page: 22; Line: 21; GSU roll: 241357
 3 OBJE @fkkFGltLRgGeUuNdFwkz@
-3 _APID 1,8978::4479734
+3 _APID 8978:4479734
 2 SOUR @7kJ3C8C4QFesOwUmgdI4@
 3 QUAY 1
 2 SOUR @XGGvH505QiGDGXaNUUub@
-3 _APID 1,5969::564785
+3 _APID 5969:564785
 1 SEX F
 1 FAMC @SBsOGRdKSbijpGIgiBgo@
 1 BIRT
@@ -4403,13 +4524,14 @@
 4 CONC pon Tees; County: Durham; Enumeration District: 2; Folio: 27
 4 CONC ; Page: 22; Line: 21; GSU roll: 241357
 3 OBJE @fkkFGltLRgGeUuNdFwkz@
-3 _APID 1,8978::4479734
+3 _APID 8978:4479734
 1 EVEN
 2 TYPE Arrival
 2 DATE 05 JUL 1849
 2 PLAC USA
 2 SOUR @XGGvH505QiGDGXaNUUub@
-3 _APID 1,5969::564785
+3 _APID 5969:564785
+1 _GUID f06a69bb-f17b-4382-8923-61af7c562600
 1 _XY 1931 2209
 0 @I134@ INDI
 1 REFN 219ec0a8-0093-4917-8b76-516e336317cf
@@ -4417,7 +4539,7 @@
 2 SOUR @S79@
 3 QUAY 1
 2 SOUR @S101@
-3 _APID 1,9841::56203517
+3 _APID 9841:56203517
 1 SEX F
 1 FAMC @SBsOGRdKSbijpGIgiBgo@
 1 BIRT
@@ -4429,10 +4551,11 @@
 2 DATE 17 AUG 1831
 2 PLAC Saint Thomas, Stockton upon Tees, Durham, England, UK
 2 SOUR @S101@
-3 _APID 1,9841::56203517
+3 _APID 9841:56203517
 1 DEAT
 2 DATE 1840
 2 PLAC Stockton upon Tees, Durham, England, UK
+1 _GUID 0221f712-bce5-4846-8ceb-0818daa1d844
 1 _XY 2055 2209
 0 @Lmx965BAQlylTqGWwUO8@ INDI
 1 REFN 08cef02e-a7f7-46f4-8569-7582cd71b1dd
@@ -4442,23 +4565,23 @@
 4 CONC : M653_863; Page: 217; Image: 222; Family History Library Fi
 4 CONC lm: 803863
 3 OBJE @8Lh2FaDrRvS7dppiyXOL@
-3 _APID 1,7667::48687003
+3 _APID 7667:48687003
 2 SOUR @VqbyczWoTAunjNaTg1gt@
 3 PAGE Year: 1870; Census Place: Corning, Steuben, New York; Roll
 4 CONC : M593_1095; Page: 49A; Family History Library Film: 552594
 3 OBJE @M82@
-3 _APID 1,7163::32326422
+3 _APID 7163:32326422
 2 SOUR @tagmH3kSS5mNE6mkVQFl@
 3 PAGE Year: 1880; Census Place: Corning, Steuben, New York; Roll
 4 CONC : 933; Family History Film: 1254933; Page: 165B; Enumeratio
 4 CONC n District: 171; Image: 0334
 3 OBJE @k2xDoMfDQ2CEf4yVCuqo@
-3 _APID 1,6742::5159176
+3 _APID 6742:5159176
 2 SOUR @krZH9vsSTamYxiNlOr6t@
 3 PAGE Year: 1940; Census Place: New York, New York, New York; Roll
 4 CONC : T627_2656; Page: 61A; Enumeration District: 31-1374
 3 OBJE @HxENyvXZQBqj46tAufBU@
-3 _APID 1,2442::9622304
+3 _APID 2442:9622304
 2 SOUR @N62jTQiMTmmRVQc5KCCK@
 3 PAGE Ancestry Family Tree
 3 DATA
@@ -4466,16 +4589,16 @@
 5 CONC &pid=533
 2 SOUR @2bg2kSXxR9G5oJVTCXgV@
 3 OBJE @zDWuPkvNQy6AqcVvTWKS@
-3 _APID 1,7218::728640
+3 _APID 7218:728640
 2 SOUR @74P5lXIpRomDQfd5WmFi@
 3 OBJE @XA9Vo3BZQR2gnVPVkgzL@
-3 _APID 1,7250::1382745707
+3 _APID 7250:1382745707
 2 SOUR @eaHR0oxuTfOp5myA78b9@
 3 OBJE @SGnHaKBtQYGRR9ubBWg4@
-3 _APID 1,3212::279026
+3 _APID 3212:279026
 2 SOUR @mDWKwIsCRaCKr5iO25hg@
 3 OBJE @cw72CZy8Sa2fFE5yZQ21@
-3 _APID 1,2469::1224098615
+3 _APID 2469:1224098615
 2 SOUR @LgUvDQExRraJTm0SceCH@
 3 QUAY 1
 1 SEX F
@@ -4493,34 +4616,34 @@
 4 CONC : M653_863; Page: 217; Image: 222; Family History Library Fi
 4 CONC lm: 803863
 3 OBJE @8Lh2FaDrRvS7dppiyXOL@
-3 _APID 1,7667::48687003
+3 _APID 7667:48687003
 2 SOUR @VqbyczWoTAunjNaTg1gt@
 3 PAGE Year: 1870; Census Place: Corning, Steuben, New York; Roll
 4 CONC : M593_1095; Page: 49A; Family History Library Film: 552594
 3 OBJE @M82@
-3 _APID 1,7163::32326422
+3 _APID 7163:32326422
 2 SOUR @tagmH3kSS5mNE6mkVQFl@
 3 PAGE Year: 1880; Census Place: Corning, Steuben, New York; Roll
 4 CONC : 933; Family History Film: 1254933; Page: 165B; Enumeratio
 4 CONC n District: 171; Image: 0334
 3 OBJE @k2xDoMfDQ2CEf4yVCuqo@
-3 _APID 1,6742::5159176
+3 _APID 6742:5159176
 2 SOUR @krZH9vsSTamYxiNlOr6t@
 3 PAGE Year: 1940; Census Place: New York, New York, New York; Roll
 4 CONC : T627_2656; Page: 61A; Enumeration District: 31-1374
 3 OBJE @HxENyvXZQBqj46tAufBU@
-3 _APID 1,2442::9622304
+3 _APID 2442:9622304
 2 SOUR @P03XE2GqQSunPkn5yDpr@
 3 QUAY 1
 2 SOUR @2bg2kSXxR9G5oJVTCXgV@
 3 OBJE @zDWuPkvNQy6AqcVvTWKS@
-3 _APID 1,7218::728640
+3 _APID 7218:728640
 2 SOUR @74P5lXIpRomDQfd5WmFi@
 3 OBJE @XA9Vo3BZQR2gnVPVkgzL@
-3 _APID 1,7250::1382745707
+3 _APID 7250:1382745707
 2 SOUR @eaHR0oxuTfOp5myA78b9@
 3 OBJE @SGnHaKBtQYGRR9ubBWg4@
-3 _APID 1,3212::279026
+3 _APID 3212:279026
 2 SOUR @LgUvDQExRraJTm0SceCH@
 1 RESI
 2 DATE 1860
@@ -4533,7 +4656,7 @@
 4 CONC : M653_863; Page: 217; Image: 222; Family History Library Fi
 4 CONC lm: 803863
 3 OBJE @8Lh2FaDrRvS7dppiyXOL@
-3 _APID 1,7667::48687003
+3 _APID 7667:48687003
 2 NOTE Age: 4
 1 RESI
 2 DATE 1865
@@ -4543,7 +4666,7 @@
 4 LONG W77.0547
 2 SOUR @2bg2kSXxR9G5oJVTCXgV@
 3 OBJE @zDWuPkvNQy6AqcVvTWKS@
-3 _APID 1,7218::728640
+3 _APID 7218:728640
 2 NOTE Relation to Head of House: Daughter
 1 RESI
 2 DATE 1870
@@ -4555,7 +4678,7 @@
 3 PAGE Year: 1870; Census Place: Corning, Steuben, New York; Roll
 4 CONC : M593_1095; Page: 49A; Family History Library Film: 552594
 3 OBJE @M82@
-3 _APID 1,7163::32326422
+3 _APID 7163:32326422
 2 NOTE Residence Post Office: Corning
 1 RESI
 2 DATE 01 JUN 1875
@@ -4565,7 +4688,7 @@
 4 LONG W77.0547
 2 SOUR @74P5lXIpRomDQfd5WmFi@
 3 OBJE @XA9Vo3BZQR2gnVPVkgzL@
-3 _APID 1,7250::1382745707
+3 _APID 7250:1382745707
 2 NOTE Relation to Head of House: Daughter
 1 RESI
 2 DATE 1880
@@ -4578,7 +4701,7 @@
 4 CONC : 933; Family History Film: 1254933; Page: 165B; Enumeratio
 4 CONC n District: 171; Image: 0334
 3 OBJE @k2xDoMfDQ2CEf4yVCuqo@
-3 _APID 1,6742::5159176
+3 _APID 6742:5159176
 2 NOTE Age: 24; Marital Status: Married; Relation to Head of House
 3 CONC : Wife
 1 RESI
@@ -4589,14 +4712,14 @@
 4 LONG W77.0547
 2 SOUR @eaHR0oxuTfOp5myA78b9@
 3 OBJE @SGnHaKBtQYGRR9ubBWg4@
-3 _APID 1,3212::279026
+3 _APID 3212:279026
 2 NOTE Age: 34
 1 RESI
 2 DATE 1917
 2 PLAC 50 West 39th Street, Manhattan, New York, New York, USA
 2 SOUR @mDWKwIsCRaCKr5iO25hg@
 3 OBJE @cw72CZy8Sa2fFE5yZQ21@
-3 _APID 1,2469::1224098615
+3 _APID 2469:1224098615
 1 RESI
 2 DATE 1935
 2 PLAC New York, New York, USA
@@ -4607,7 +4730,7 @@
 3 PAGE Year: 1940; Census Place: New York, New York, New York; Roll
 4 CONC : T627_2656; Page: 61A; Enumeration District: 31-1374
 3 OBJE @HxENyvXZQBqj46tAufBU@
-3 _APID 1,2442::9622304
+3 _APID 2442:9622304
 1 RESI
 2 DATE 01 APR 1940
 2 PLAC New York, New York, USA
@@ -4618,7 +4741,7 @@
 3 PAGE Year: 1940; Census Place: New York, New York, New York; Roll
 4 CONC : T627_2656; Page: 61A; Enumeration District: 31-1374
 3 OBJE @HxENyvXZQBqj46tAufBU@
-3 _APID 1,2442::9622304
+3 _APID 2442:9622304
 2 NOTE Age: 83; Marital Status: Widowed; Relation to Head of House
 3 CONC : Friend
 1 DEAT
@@ -4626,6 +4749,7 @@
 2 PLAC 222 West 56th Street, New York, New York, USA
 2 SOUR @P03XE2GqQSunPkn5yDpr@
 3 QUAY 1
+1 _GUID 41f0711f-de60-4065-a2a5-75bf286eaac4
 1 _XY 2059 2551
 0 @lOqV0HFoS0eFxVLV9X46@ INDI
 1 REFN ac050d7e-6c5c-4c54-85db-84d6e7a8bc65
@@ -4635,46 +4759,46 @@
 4 CONC : M653_863; Page: 217; Image: 222; Family History Library Fi
 4 CONC lm: 803863
 3 OBJE @8Lh2FaDrRvS7dppiyXOL@
-3 _APID 1,7667::48687002
+3 _APID 7667:48687002
 2 SOUR @VqbyczWoTAunjNaTg1gt@
 3 PAGE Year: 1870; Census Place: Corning, Steuben, New York; Roll
 4 CONC : M593_1095; Page: 49A; Image: 102; Family History Library F
 4 CONC ilm: 552594
 3 OBJE @pmMZwiYLSwS64UMhv6PB@
-3 _APID 1,7163::32326421
+3 _APID 7163:32326421
 2 SOUR @tagmH3kSS5mNE6mkVQFl@
 3 PAGE Year: 1880; Census Place: Corning, Steuben, New York; Roll
 4 CONC : 933; Family History Film: 1254933; Page: 167A; Enumeratio
 4 CONC n District: 171; Image: 0337
 3 OBJE @9fekSPhgS6eGJGlIKd5Y@
-3 _APID 1,6742::5159013
+3 _APID 6742:5159013
 2 SOUR @NDN2XTgxTLmnX7Bgq4LP@
 3 PAGE Year: 1900; Census Place: Elmira Ward 9, Chemung, New York
 4 CONC ; Roll: 1016; Page: 7B; Enumeration District: 0029; FHL micr
 4 CONC ofilm: 1241016
 3 OBJE @lC8XOZvVRhKv5mXdghJR@
-3 _APID 1,7602::18575301
+3 _APID 7602:18575301
 2 SOUR @c4Kpe8hwRqSW5hMTvu1S@
 3 PAGE Year: 1910; Census Place: Elmira Ward 9, Chemung, New York
 4 CONC ; Roll: T624_931; Page: 4B; Enumeration District: 0032; FH
 4 CONC L microfilm: 1374944
 3 OBJE @b734qYM2RbSlfVJjNEgL@
-3 _APID 1,7884::119281621
+3 _APID 7884:119281621
 2 SOUR @gEzHretGQ9iAdPxO8HPJ@
 3 PAGE Year: 1920; Census Place: Elmira Ward 9, Chemung, New York
 3 OBJE @UPKQIecMQOG7HmNjyCuN@
-3 _APID 1,6061::31234024
+3 _APID 6061:31234024
 2 SOUR @z1TPRpwkRpi0Hb52420e@
 3 PAGE Year: 1930; Census Place: Elmira, Chemung, New York; Roll: 1
 4 CONC 415; Page: 2A; Enumeration District: 31; FHL microfilm: 2341
 4 CONC 150
 3 OBJE @RMTRznOgTyKbSzKbFd6b@
-3 _APID 1,6224::1105665834
+3 _APID 6224:1105665834
 2 SOUR @krZH9vsSTamYxiNlOr6t@
 3 PAGE Year: 1940; Census Place: Elmira, Chemung, New York; Roll: T
 4 CONC 627_2514; Page: 3A; Enumeration District: 8-57
 3 OBJE @NWt8uo0tQv2t1cVZiK3m@
-3 _APID 1,2442::3047495
+3 _APID 2442:3047495
 2 SOUR @N62jTQiMTmmRVQc5KCCK@
 3 PAGE Ancestry Family Tree
 3 DATA
@@ -4682,24 +4806,24 @@
 5 CONC &pid=534
 2 SOUR @h7WBKNgwRSOUt2BNNsOI@
 3 OBJE @YYd8YtQCTaO3vcc9rJqb@
-3 _APID 1,7181::1655634894
+3 _APID 7181:1655634894
 2 SOUR @2bg2kSXxR9G5oJVTCXgV@
 3 OBJE @zDWuPkvNQy6AqcVvTWKS@
-3 _APID 1,7218::728639
+3 _APID 7218:728639
 2 SOUR @4jCt5j3VRkqTuhypLl9x@
 3 OBJE @3aa407SjRJWvIepXS4R2@
-3 _APID 1,7364::3920290
+3 _APID 7364:3920290
 2 SOUR @7LxrgfRmTNWyu6slXQjR@
 3 PAGE New York State Archives; Albany, New York; State Populatio
 4 CONC n Census Schedules, 1925; Election District: 02; Assembly Di
 4 CONC strict: 01; City: Elmira Ward 09; County: Chemung; Page: 6
 3 OBJE @2jGTC07gTD6rNgHwuMW9@
-3 _APID 1,2704::23623856
+3 _APID 2704:23623856
 2 SOUR @xcXXXJstR1iS4OizBZKh@
 3 OBJE @6xe0YWM6RW2e4ItJnpRy@
-3 _APID 1,2469::85584814
+3 _APID 2469:85584814
 2 SOUR @PTkUNEaISa61ijB7VnKA@
-3 _APID 1,60525::106593300
+3 _APID 60525:106593300
 2 SOUR @WjJ6YPanRKegWyl1IRoB@
 3 QUAY 1
 1 SEX F
@@ -4717,63 +4841,63 @@
 4 CONC : M653_863; Page: 217; Image: 222; Family History Library Fi
 4 CONC lm: 803863
 3 OBJE @8Lh2FaDrRvS7dppiyXOL@
-3 _APID 1,7667::48687002
+3 _APID 7667:48687002
 2 SOUR @VqbyczWoTAunjNaTg1gt@
 3 PAGE Year: 1870; Census Place: Corning, Steuben, New York; Roll
 4 CONC : M593_1095; Page: 49A; Image: 102; Family History Library F
 4 CONC ilm: 552594
 3 OBJE @pmMZwiYLSwS64UMhv6PB@
-3 _APID 1,7163::32326421
+3 _APID 7163:32326421
 2 SOUR @tagmH3kSS5mNE6mkVQFl@
 3 PAGE Year: 1880; Census Place: Corning, Steuben, New York; Roll
 4 CONC : 933; Family History Film: 1254933; Page: 167A; Enumeratio
 4 CONC n District: 171; Image: 0337
 3 OBJE @9fekSPhgS6eGJGlIKd5Y@
-3 _APID 1,6742::5159013
+3 _APID 6742:5159013
 2 SOUR @NDN2XTgxTLmnX7Bgq4LP@
 3 PAGE Year: 1900; Census Place: Elmira Ward 9, Chemung, New York
 4 CONC ; Roll: 1016; Page: 7B; Enumeration District: 0029; FHL micr
 4 CONC ofilm: 1241016
 3 OBJE @lC8XOZvVRhKv5mXdghJR@
-3 _APID 1,7602::18575301
+3 _APID 7602:18575301
 2 SOUR @c4Kpe8hwRqSW5hMTvu1S@
 3 PAGE Year: 1910; Census Place: Elmira Ward 9, Chemung, New York
 4 CONC ; Roll: T624_931; Page: 4B; Enumeration District: 0032; FH
 4 CONC L microfilm: 1374944
 3 OBJE @b734qYM2RbSlfVJjNEgL@
-3 _APID 1,7884::119281621
+3 _APID 7884:119281621
 2 SOUR @gEzHretGQ9iAdPxO8HPJ@
 3 PAGE Year: 1920; Census Place: Elmira Ward 9, Chemung, New York
 3 OBJE @UPKQIecMQOG7HmNjyCuN@
-3 _APID 1,6061::31234024
+3 _APID 6061:31234024
 2 SOUR @z1TPRpwkRpi0Hb52420e@
 3 PAGE Year: 1930; Census Place: Elmira, Chemung, New York; Roll: 1
 4 CONC 415; Page: 2A; Enumeration District: 31; FHL microfilm: 2341
 4 CONC 150
 3 OBJE @RMTRznOgTyKbSzKbFd6b@
-3 _APID 1,6224::1105665834
+3 _APID 6224:1105665834
 2 SOUR @krZH9vsSTamYxiNlOr6t@
 3 PAGE Year: 1940; Census Place: Elmira, Chemung, New York; Roll: T
 4 CONC 627_2514; Page: 3A; Enumeration District: 8-57
 3 OBJE @NWt8uo0tQv2t1cVZiK3m@
-3 _APID 1,2442::3047495
+3 _APID 2442:3047495
 2 SOUR @h7WBKNgwRSOUt2BNNsOI@
 3 OBJE @YYd8YtQCTaO3vcc9rJqb@
-3 _APID 1,7181::1655634894
+3 _APID 7181:1655634894
 2 SOUR @2bg2kSXxR9G5oJVTCXgV@
 3 OBJE @zDWuPkvNQy6AqcVvTWKS@
-3 _APID 1,7218::728639
+3 _APID 7218:728639
 2 SOUR @4jCt5j3VRkqTuhypLl9x@
 3 OBJE @3aa407SjRJWvIepXS4R2@
-3 _APID 1,7364::3920290
+3 _APID 7364:3920290
 2 SOUR @7LxrgfRmTNWyu6slXQjR@
 3 PAGE New York State Archives; Albany, New York; State Populatio
 4 CONC n Census Schedules, 1925; Election District: 02; Assembly Di
 4 CONC strict: 01; City: Elmira Ward 09; County: Chemung; Page: 6
 3 OBJE @2jGTC07gTD6rNgHwuMW9@
-3 _APID 1,2704::23623856
+3 _APID 2704:23623856
 2 SOUR @PTkUNEaISa61ijB7VnKA@
-3 _APID 1,60525::106593300
+3 _APID 60525:106593300
 2 SOUR @LgUvDQExRraJTm0SceCH@
 2 NOTE 1900 US Census (listed under "Sabinia Dodd or Lavinia Dodd
 3 CONC , etc." Place is just assumed.
@@ -4785,7 +4909,7 @@
 4 LONG W77.0547
 2 SOUR @h7WBKNgwRSOUt2BNNsOI@
 3 OBJE @YYd8YtQCTaO3vcc9rJqb@
-3 _APID 1,7181::1655634894
+3 _APID 7181:1655634894
 2 NOTE Relation to Head of House: Child
 1 RESI
 2 DATE 1860
@@ -4798,7 +4922,7 @@
 4 CONC : M653_863; Page: 217; Image: 222; Family History Library Fi
 4 CONC lm: 803863
 3 OBJE @8Lh2FaDrRvS7dppiyXOL@
-3 _APID 1,7667::48687002
+3 _APID 7667:48687002
 2 NOTE Age: 6
 1 RESI
 2 DATE 1865
@@ -4808,7 +4932,7 @@
 4 LONG W77.0547
 2 SOUR @2bg2kSXxR9G5oJVTCXgV@
 3 OBJE @zDWuPkvNQy6AqcVvTWKS@
-3 _APID 1,7218::728639
+3 _APID 7218:728639
 2 NOTE Relation to Head of House: Daughter
 1 RESI
 2 DATE 1870
@@ -4821,7 +4945,7 @@
 4 CONC : M593_1095; Page: 49A; Image: 102; Family History Library F
 4 CONC ilm: 552594
 3 OBJE @pmMZwiYLSwS64UMhv6PB@
-3 _APID 1,7163::32326421
+3 _APID 7163:32326421
 1 RESI
 2 DATE 1880
 2 PLAC Corning, Steuben, New York, USA
@@ -4833,7 +4957,7 @@
 4 CONC : 933; Family History Film: 1254933; Page: 167A; Enumeratio
 4 CONC n District: 171; Image: 0337
 3 OBJE @9fekSPhgS6eGJGlIKd5Y@
-3 _APID 1,6742::5159013
+3 _APID 6742:5159013
 2 NOTE Age: 36; Marital Status: Married; Relation to Head of House
 3 CONC : Wife
 1 RESI
@@ -4847,7 +4971,7 @@
 4 CONC ; Roll: 1016; Page: 7B; Enumeration District: 0029; FHL micr
 4 CONC ofilm: 1241016
 3 OBJE @lC8XOZvVRhKv5mXdghJR@
-3 _APID 1,7602::18575301
+3 _APID 7602:18575301
 2 NOTE Age: 46; Marital Status: Married; Relation to Head of House
 3 CONC : Wife
 1 RESI
@@ -4858,7 +4982,7 @@
 4 LONG W76.8077
 2 SOUR @4jCt5j3VRkqTuhypLl9x@
 3 OBJE @3aa407SjRJWvIepXS4R2@
-3 _APID 1,7364::3920290
+3 _APID 7364:3920290
 2 NOTE Relation to Head of House: Wife
 1 RESI
 2 DATE 1910
@@ -4871,7 +4995,7 @@
 4 CONC ; Roll: T624_931; Page: 4B; Enumeration District: 0032; FH
 4 CONC L microfilm: 1374944
 3 OBJE @b734qYM2RbSlfVJjNEgL@
-3 _APID 1,7884::119281621
+3 _APID 7884:119281621
 2 NOTE Age: 56; Marital Status: Married; Relation to Head of House
 3 CONC : Wife
 1 RESI
@@ -4883,7 +5007,7 @@
 2 SOUR @gEzHretGQ9iAdPxO8HPJ@
 3 PAGE Year: 1920; Census Place: Elmira Ward 9, Chemung, New York
 3 OBJE @UPKQIecMQOG7HmNjyCuN@
-3 _APID 1,6061::31234024
+3 _APID 6061:31234024
 2 NOTE Age: 65; Marital Status: Widowed; Marital Status: Widow; Rel
 3 CONC ation to Head of House: Head
 1 RESI
@@ -4897,7 +5021,7 @@
 4 CONC n Census Schedules, 1925; Election District: 02; Assembly Di
 4 CONC strict: 01; City: Elmira Ward 09; County: Chemung; Page: 6
 3 OBJE @2jGTC07gTD6rNgHwuMW9@
-3 _APID 1,2704::23623856
+3 _APID 2704:23623856
 2 NOTE Age: 71; Relation to Head of House: Head
 1 RESI
 2 DATE 1926
@@ -4907,7 +5031,7 @@
 4 LONG W76.8077
 2 SOUR @xcXXXJstR1iS4OizBZKh@
 3 OBJE @6xe0YWM6RW2e4ItJnpRy@
-3 _APID 1,2469::85584814
+3 _APID 2469:85584814
 1 RESI
 2 DATE 1930
 2 PLAC Elmira, Chemung, New York, USA
@@ -4919,7 +5043,7 @@
 4 CONC 415; Page: 2A; Enumeration District: 31; FHL microfilm: 2341
 4 CONC 150
 3 OBJE @RMTRznOgTyKbSzKbFd6b@
-3 _APID 1,6224::1105665834
+3 _APID 6224:1105665834
 2 NOTE Age: 76; Marital Status: Widowed; Relation to Head of House
 3 CONC : Head
 1 RESI
@@ -4932,7 +5056,7 @@
 3 PAGE Year: 1940; Census Place: Elmira, Chemung, New York; Roll: T
 4 CONC 627_2514; Page: 3A; Enumeration District: 8-57
 3 OBJE @NWt8uo0tQv2t1cVZiK3m@
-3 _APID 1,2442::3047495
+3 _APID 2442:3047495
 1 RESI
 2 DATE 01 APR 1940
 2 PLAC Elmira, Chemung, New York, USA
@@ -4943,7 +5067,7 @@
 3 PAGE Year: 1940; Census Place: Elmira, Chemung, New York; Roll: T
 4 CONC 627_2514; Page: 3A; Enumeration District: 8-57
 3 OBJE @NWt8uo0tQv2t1cVZiK3m@
-3 _APID 1,2442::3047495
+3 _APID 2442:3047495
 2 NOTE Age: 85; Marital Status: Widowed; Relation to Head of House
 3 CONC : Lodger
 1 DEAT
@@ -4956,13 +5080,14 @@
 3 QUAY 1
 2 SOUR @yfJejJTbTyae3CxS1bJt@
 2 SOUR @PTkUNEaISa61ijB7VnKA@
-3 _APID 1,60525::106593300
+3 _APID 60525:106593300
 2 NOTE in the morning, at a nursing home
 1 BURI
 2 DATE NOV 1942
 2 PLAC Hope Cemetery, Corning, Steuben, New York, USA
 2 SOUR @PTkUNEaISa61ijB7VnKA@
-3 _APID 1,60525::106593300
+3 _APID 60525:106593300
+1 _GUID a6512242-a010-49aa-a19e-40a43786c331
 1 _XY 1828 2551
 0 @EdyRn2BhRdOyia90zmi2@ INDI
 1 REFN 1117a599-805b-4429-ae35-2a61694c3111
@@ -4972,7 +5097,7 @@
 4 CONC pon Tees; County: Durham; Enumeration District: 2; Folio: 27
 4 CONC ; Page: 22; Line: 20; GSU roll: 241357
 3 OBJE @fkkFGltLRgGeUuNdFwkz@
-3 _APID 1,8978::4479733
+3 _APID 8978:4479733
 2 SOUR @7kJ3C8C4QFesOwUmgdI4@
 3 QUAY 1
 1 SEX F
@@ -4994,12 +5119,13 @@
 4 CONC pon Tees; County: Durham; Enumeration District: 2; Folio: 27
 4 CONC ; Page: 22; Line: 20; GSU roll: 241357
 3 OBJE @fkkFGltLRgGeUuNdFwkz@
-3 _APID 1,8978::4479733
+3 _APID 8978:4479733
 1 DEAT
 2 DATE 10 DEC 1898
 2 PLAC Stockton upon Tees, Durham, England, UK
 2 SOUR @S79@
 3 QUAY 1
+1 _GUID c2b8eae1-43c2-4082-ab70-f1ee6de38c33
 1 _XY 1794 2209
 0 @LDWl6FlpTzuo2KFKCln3@ INDI
 1 REFN 866a15e5-02e5-49a8-ab0c-b263c0dcfa17
@@ -5009,13 +5135,13 @@
 4 CONC 63; Page: 6B; Enumeration District: 0082; FHL microfilm: 124
 4 CONC 1163
 3 OBJE @blNQH6aXRTWrpDosAT1j@
-3 _APID 1,7602::56731111
+3 _APID 7602:56731111
 2 SOUR @h7WBKNgwRSOUt2BNNsOI@
 3 OBJE @e2itw6lqSXqxQ9OzyjyJ@
-3 _APID 1,7181::1655632242
+3 _APID 7181:1655632242
 2 SOUR @74P5lXIpRomDQfd5WmFi@
 3 OBJE @kWmywm3ESauERQbRJVR3@
-3 _APID 1,7250::1382752966
+3 _APID 7250:1382752966
 2 SOUR @WA6UwoKUTnCqPE5cO5ER@
 3 QUAY 1
 1 SEX F
@@ -5032,13 +5158,13 @@
 4 CONC 63; Page: 6B; Enumeration District: 0082; FHL microfilm: 124
 4 CONC 1163
 3 OBJE @blNQH6aXRTWrpDosAT1j@
-3 _APID 1,7602::56731111
+3 _APID 7602:56731111
 2 SOUR @h7WBKNgwRSOUt2BNNsOI@
 3 OBJE @e2itw6lqSXqxQ9OzyjyJ@
-3 _APID 1,7181::1655632242
+3 _APID 7181:1655632242
 2 SOUR @74P5lXIpRomDQfd5WmFi@
 3 OBJE @kWmywm3ESauERQbRJVR3@
-3 _APID 1,7250::1382752966
+3 _APID 7250:1382752966
 2 SOUR @WA6UwoKUTnCqPE5cO5ER@
 3 QUAY 1
 1 RESI
@@ -5049,7 +5175,7 @@
 4 LONG W77.1408
 2 SOUR @h7WBKNgwRSOUt2BNNsOI@
 3 OBJE @e2itw6lqSXqxQ9OzyjyJ@
-3 _APID 1,7181::1655632242
+3 _APID 7181:1655632242
 2 NOTE Relation to Head of House: Child
 1 RESI
 2 DATE 01 JUN 1875
@@ -5059,7 +5185,7 @@
 4 LONG W77.1408
 2 SOUR @74P5lXIpRomDQfd5WmFi@
 3 OBJE @kWmywm3ESauERQbRJVR3@
-3 _APID 1,7250::1382752966
+3 _APID 7250:1382752966
 2 NOTE Relation to Head of House: Daughter
 1 RESI
 2 DATE 1900
@@ -5072,9 +5198,10 @@
 4 CONC 63; Page: 6B; Enumeration District: 0082; FHL microfilm: 124
 4 CONC 1163
 3 OBJE @blNQH6aXRTWrpDosAT1j@
-3 _APID 1,7602::56731111
+3 _APID 7602:56731111
 2 NOTE Age: 48; Marital Status: Widowed; Relation to Head of House
 3 CONC : Head
+1 _GUID 9715e7ca-2161-458a-b015-3bfcc27952cc
 1 _XY 1862 2015
 0 @sYcIbAElSS6iNamoD9pr@ INDI
 1 REFN 440be94f-44ed-4901-a461-daa925513fff
@@ -5083,17 +5210,17 @@
 3 QUAY 3
 2 SOUR @XIqTsRCAQmO5BvSmizub@
 3 OBJE @kd3IvfIYQ4WNqYfrIaLw@
-3 _APID 1,8912::54486500
+3 _APID 8912:54486500
 1 NAME Mary Ann /Taylorson/
 2 SOUR @8r0fX153SZWQXOlPdnxp@
 3 PAGE Class: HO107; Piece: 317; Book: 23; Civil Parish: Stockton U
 4 CONC pon Tees; County: Durham; Enumeration District: 2; Folio: 27
 4 CONC ; Page: 22; Line: 24; GSU roll: 241357
 3 OBJE @fkkFGltLRgGeUuNdFwkz@
-3 _APID 1,8978::4479737
+3 _APID 8978:4479737
 2 SOUR @0MacWIUSR0yCwHHfzvGN@
 2 SOUR @XGGvH505QiGDGXaNUUub@
-3 _APID 1,5969::564786
+3 _APID 5969:564786
 1 SEX F
 1 FAMC @SBsOGRdKSbijpGIgiBgo@
 1 BIRT
@@ -5115,13 +5242,14 @@
 4 CONC pon Tees; County: Durham; Enumeration District: 2; Folio: 27
 4 CONC ; Page: 22; Line: 24; GSU roll: 241357
 3 OBJE @fkkFGltLRgGeUuNdFwkz@
-3 _APID 1,8978::4479737
+3 _APID 8978:4479737
 1 EVEN
 2 TYPE Arrival
 2 DATE 05 JUL 1849
 2 PLAC USA
 2 SOUR @XGGvH505QiGDGXaNUUub@
-3 _APID 1,5969::564786
+3 _APID 5969:564786
+1 _GUID d0396029-4ecf-4d4f-8d60-910a32c44ebb
 1 _XY 2457 2209
 0 @BQ6oOeJnQFGzhVudXWcy@ INDI
 1 REFN cd69b404-83a4-4f57-95e1-20ae15876818
@@ -5131,39 +5259,39 @@
 4 CONC pon Tees; County: Durham; Enumeration District: 2; Folio: 27
 4 CONC ; Page: 22; Line: 16; GSU roll: 241357
 3 OBJE @fkkFGltLRgGeUuNdFwkz@
-3 _APID 1,8978::4479729
+3 _APID 8978:4479729
 2 SOUR @VqbyczWoTAunjNaTg1gt@
 3 PAGE Year: 1870; Census Place: Erwin, Steuben, New York; Roll: M5
 4 CONC 93_1095; Page: 158A; Image: 324; Family History Library Film
 4 CONC : 552594
 3 OBJE @s8ynwYiPQLuIV6VOEw7U@
-3 _APID 1,7163::32333315
+3 _APID 7163:32333315
 2 SOUR @tagmH3kSS5mNE6mkVQFl@
 3 PAGE Year: 1880; Census Place: Erwin, Steuben, New York; Roll: 93
 4 CONC 3; Family History Film: 1254933; Page: 219A; Enumeration Dis
 4 CONC trict: 173; Image: 0441
 3 OBJE @xNxl4cTfRbaETAVSHqgQ@
-3 _APID 1,6742::4062664
+3 _APID 6742:4062664
 2 SOUR @S101@
-3 _APID 1,9841::44353562
+3 _APID 9841:44353562
 2 SOUR @S97@
-3 _APID 1,9852::34987081
+3 _APID 9852:34987081
 2 SOUR @0MacWIUSR0yCwHHfzvGN@
 3 QUAY 1
 2 SOUR @XGGvH505QiGDGXaNUUub@
-3 _APID 1,5969::564788
+3 _APID 5969:564788
 2 SOUR @h7WBKNgwRSOUt2BNNsOI@
 3 OBJE @e2itw6lqSXqxQ9OzyjyJ@
-3 _APID 1,7181::1655632240
+3 _APID 7181:1655632240
 2 SOUR @2bg2kSXxR9G5oJVTCXgV@
 3 OBJE @2spUibxcTFmJOtiRvf5u@
-3 _APID 1,7218::791636
+3 _APID 7218:791636
 2 SOUR @74P5lXIpRomDQfd5WmFi@
 3 OBJE @kWmywm3ESauERQbRJVR3@
-3 _APID 1,7250::1382752964
+3 _APID 7250:1382752964
 2 SOUR @mDWKwIsCRaCKr5iO25hg@
 3 OBJE @5LeyQN3uRPG0yM2uCFqI@
-3 _APID 1,2469::53821328
+3 _APID 2469:53821328
 1 SEX M
 1 FAMC @F34@
 1 FAMS @SBsOGRdKSbijpGIgiBgo@
@@ -5199,7 +5327,7 @@
 4 CONC pon Tees; County: Durham; Enumeration District: 2; Folio: 27
 4 CONC ; Page: 22; Line: 16; GSU roll: 241357
 3 OBJE @fkkFGltLRgGeUuNdFwkz@
-3 _APID 1,8978::4479729
+3 _APID 8978:4479729
 2 NOTE Age: 45
 1 IMMI
 2 DATE 05 JUL 1849
@@ -5215,7 +5343,7 @@
 2 DATE 05 JUL 1849
 2 PLAC USA
 2 SOUR @XGGvH505QiGDGXaNUUub@
-3 _APID 1,5969::564788
+3 _APID 5969:564788
 1 CENS
 2 DATE 01 JUN 1850
 2 PLAC Painted Post, Erwin, Steuben, New York, USA
@@ -5256,7 +5384,7 @@
 4 LONG W77.1408
 2 SOUR @h7WBKNgwRSOUt2BNNsOI@
 3 OBJE @e2itw6lqSXqxQ9OzyjyJ@
-3 _APID 1,7181::1655632240
+3 _APID 7181:1655632240
 2 NOTE Relation to Head of House: Head
 1 CENS
 2 DATE 01 JUN 1860
@@ -5269,7 +5397,7 @@
 4 LONG W77.1408
 2 SOUR @2bg2kSXxR9G5oJVTCXgV@
 3 OBJE @2spUibxcTFmJOtiRvf5u@
-3 _APID 1,7218::791636
+3 _APID 7218:791636
 1 CENS
 2 DATE 01 JUN 1870
 2 PLAC Painted Post, Erwin, Steuben, New York, USA
@@ -5284,7 +5412,7 @@
 4 CONC 93_1095; Page: 158A; Image: 324; Family History Library Film
 4 CONC : 552594
 3 OBJE @s8ynwYiPQLuIV6VOEw7U@
-3 _APID 1,7163::32333315
+3 _APID 7163:32333315
 1 RESI
 2 DATE 01 JUN 1875
 2 PLAC Erwin, Steuben, New York, USA
@@ -5293,7 +5421,7 @@
 4 LONG W77.1408
 2 SOUR @74P5lXIpRomDQfd5WmFi@
 3 OBJE @kWmywm3ESauERQbRJVR3@
-3 _APID 1,7250::1382752964
+3 _APID 7250:1382752964
 2 NOTE Relation to Head of House: Head
 1 CENS
 2 DATE 01 JUN 1880
@@ -5309,7 +5437,7 @@
 4 CONC 3; Family History Film: 1254933; Page: 219A; Enumeration Dis
 4 CONC trict: 173; Image: 0441
 3 OBJE @xNxl4cTfRbaETAVSHqgQ@
-3 _APID 1,6742::4062664
+3 _APID 6742:4062664
 2 NOTE Marital Status: Married; Relation to Head of House: Self
 1 DEAT
 2 DATE 20 DEC 1889
@@ -5322,7 +5450,7 @@
 4 LATI N54.5833
 4 LONG E1.4167
 2 SOUR @S97@
-3 _APID 1,9852::34987081
+3 _APID 9852:34987081
 2 NOTE Marital Status: Single
 1 RESI
 2 PLAC Painted Post, Steuben, New York, USA
@@ -5334,7 +5462,7 @@
 4 CONC 93_1095; Page: 158A; Image: 324; Family History Library Film
 4 CONC : 552594
 3 OBJE @s8ynwYiPQLuIV6VOEw7U@
-3 _APID 1,7163::32333315
+3 _APID 7163:32333315
 1 EVEN
 2 TYPE Departure
 2 PLAC Newcastle, Shropshire, England
@@ -5342,7 +5470,8 @@
 4 LATI N54.9881
 4 LONG W1.6194
 2 SOUR @XGGvH505QiGDGXaNUUub@
-3 _APID 1,5969::564788
+3 _APID 5969:564788
+1 _GUID 9d6f0def-c58b-4bbe-a492-13805f962291
 1 _XY 2048 1931
 1 _XY 821 1955
 1 _XY 821 1955
@@ -5354,17 +5483,17 @@
 4 CONC pon Tees; County: Durham; Enumeration District: 2; Folio: 27
 4 CONC ; Page: 22; Line: 25; GSU roll: 241357
 3 OBJE @fkkFGltLRgGeUuNdFwkz@
-3 _APID 1,8978::4479738
+3 _APID 8978:4479738
 2 SOUR @VqbyczWoTAunjNaTg1gt@
 3 PAGE Year: 1870; Census Place: Hornby, Steuben, New York; Roll: M
 4 CONC 593_1095; Page: 223A; Image: 456; Family History Library Fil
 4 CONC m: 552594
 3 OBJE @gmzJ2mv3Q92sNpwZzTg1@
-3 _APID 1,7163::32339542
+3 _APID 7163:32339542
 2 SOUR @7kJ3C8C4QFesOwUmgdI4@
 3 QUAY 1
 2 SOUR @XGGvH505QiGDGXaNUUub@
-3 _APID 1,5969::564787
+3 _APID 5969:564787
 1 SEX M
 1 FAMC @SBsOGRdKSbijpGIgiBgo@
 1 BIRT
@@ -5386,13 +5515,13 @@
 4 CONC pon Tees; County: Durham; Enumeration District: 2; Folio: 27
 4 CONC ; Page: 22; Line: 25; GSU roll: 241357
 3 OBJE @fkkFGltLRgGeUuNdFwkz@
-3 _APID 1,8978::4479738
+3 _APID 8978:4479738
 1 EVEN
 2 TYPE Arrival
 2 DATE 05 JUL 1849
 2 PLAC USA
 2 SOUR @XGGvH505QiGDGXaNUUub@
-3 _APID 1,5969::564787
+3 _APID 5969:564787
 1 RESI
 2 DATE 1870
 2 PLAC Hornby, Steuben, New York, USA
@@ -5404,7 +5533,7 @@
 4 CONC 593_1095; Page: 223A; Image: 456; Family History Library Fil
 4 CONC m: 552594
 3 OBJE @gmzJ2mv3Q92sNpwZzTg1@
-3 _APID 1,7163::32339542
+3 _APID 7163:32339542
 1 DEAT
 2 DATE ABT 26 MAR 1920
 2 PLAC Steuben, New York, USA
@@ -5413,6 +5542,7 @@
 4 LONG W77.3854
 2 SOUR @yfJejJTbTyae3CxS1bJt@
 3 QUAY 1
+1 _GUID 57aca1ed-e32a-48e2-9931-fa52912f217b
 1 _XY 2597 2209
 0 @6QhngKLWSYmHZD5Bqxx0@ INDI
 1 REFN ca6908f6-090c-4341-88f9-7fce933ad7f2
@@ -5421,25 +5551,25 @@
 3 PAGE Year: 1850; Census Place: Painted Post, Steuben, New York; R
 4 CONC oll: M432_598; Page: 1A; Image: 9
 3 OBJE @Sb0wdP9kRhCZ8ZFMto5r@
-3 _APID 1,8054::8387272
+3 _APID 8054:8387272
 2 SOUR @VqbyczWoTAunjNaTg1gt@
 3 PAGE Year: 1870; Census Place: Corning, Steuben, New York; Roll
 4 CONC : M593_1095; Page: 49A; Family History Library Film: 552594
 3 OBJE @M82@
-3 _APID 1,7163::32326403
+3 _APID 7163:32326403
 2 SOUR @tagmH3kSS5mNE6mkVQFl@
 3 PAGE Year: 1880; Census Place: Horseheads, Chemung, New York; Rol
 4 CONC l: 817; Family History Film: 1254817; Page: 510D; Enumeratio
 4 CONC n District: 083; Image: 0600
 3 OBJE @x9Ek0jDvRxGDBg7agg40@
-3 _APID 1,6742::1370612
+3 _APID 6742:1370612
 2 SOUR @N62jTQiMTmmRVQc5KCCK@
 3 PAGE Ancestry Family Tree
 3 DATA
 4 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=62861
 5 CONC &pid=529
 2 SOUR @XGGvH505QiGDGXaNUUub@
-3 _APID 1,5969::564789
+3 _APID 5969:564789
 2 SOUR @vSTctLqpQBOn58w94Odp@
 3 PAGE Year: 1849; Arrival:  , ; Microfilm serial: M237; Microfil
 4 CONC m roll: M237_81; Line: ; List number: .
@@ -5453,22 +5583,22 @@
 5 CONT Departure Place:
 5 CONT Newcastle On Tyne, England
 3 OBJE @aS6JRZtMREG9oKSAp4Jl@
-3 _APID 1,7488::1023563168
+3 _APID 7488:1023563168
 2 SOUR @h7WBKNgwRSOUt2BNNsOI@
 3 OBJE @YYd8YtQCTaO3vcc9rJqb@
-3 _APID 1,7181::1655634889
+3 _APID 7181:1655634889
 2 SOUR @2bg2kSXxR9G5oJVTCXgV@
 3 OBJE @zDWuPkvNQy6AqcVvTWKS@
-3 _APID 1,7218::728635
+3 _APID 7218:728635
 2 SOUR @74P5lXIpRomDQfd5WmFi@
 3 OBJE @XA9Vo3BZQR2gnVPVkgzL@
-3 _APID 1,7250::1382745705
+3 _APID 7250:1382745705
 2 SOUR @k7ap0rujQFex5IgQ5CXx@
 3 OBJE @7NmGDrRTQsmoRy5W87LG@
-3 _APID 1,1540::695726
+3 _APID 1540:695726
 2 SOUR @JuHilP68RmSAugv75uhL@
 3 OBJE @CsKj7hxCT7KfNOwW7nJ0@
-3 _APID 1,1264::3283025
+3 _APID 1264:3283025
 1 SEX M
 1 FAMC @F37@
 1 FAMS @VVoxPoqYQb2s80iiPRRo@
@@ -5485,21 +5615,21 @@
 3 PAGE Year: 1850; Census Place: Painted Post, Steuben, New York; R
 4 CONC oll: M432_598; Page: 1A; Image: 9
 3 OBJE @Sb0wdP9kRhCZ8ZFMto5r@
-3 _APID 1,8054::8387272
+3 _APID 8054:8387272
 2 SOUR @VqbyczWoTAunjNaTg1gt@
 3 PAGE Year: 1870; Census Place: Corning, Steuben, New York; Roll
 4 CONC : M593_1095; Page: 49A; Family History Library Film: 552594
 3 OBJE @M82@
-3 _APID 1,7163::32326403
+3 _APID 7163:32326403
 2 SOUR @tagmH3kSS5mNE6mkVQFl@
 3 PAGE Year: 1880; Census Place: Horseheads, Chemung, New York; Rol
 4 CONC l: 817; Family History Film: 1254817; Page: 510D; Enumeratio
 4 CONC n District: 083; Image: 0600
 3 OBJE @x9Ek0jDvRxGDBg7agg40@
-3 _APID 1,6742::1370612
+3 _APID 6742:1370612
 2 SOUR @RdkuIHc9QdiI8rbGMkHb@
 2 SOUR @XGGvH505QiGDGXaNUUub@
-3 _APID 1,5969::564789
+3 _APID 5969:564789
 2 SOUR @vSTctLqpQBOn58w94Odp@
 3 PAGE Year: 1849; Arrival:  , ; Microfilm serial: M237; Microfil
 4 CONC m roll: M237_81; Line: ; List number: .
@@ -5513,16 +5643,16 @@
 5 CONT Departure Place:
 5 CONT Newcastle On Tyne, England
 3 OBJE @aS6JRZtMREG9oKSAp4Jl@
-3 _APID 1,7488::1023563168
+3 _APID 7488:1023563168
 2 SOUR @h7WBKNgwRSOUt2BNNsOI@
 3 OBJE @YYd8YtQCTaO3vcc9rJqb@
-3 _APID 1,7181::1655634889
+3 _APID 7181:1655634889
 2 SOUR @2bg2kSXxR9G5oJVTCXgV@
 3 OBJE @zDWuPkvNQy6AqcVvTWKS@
-3 _APID 1,7218::728635
+3 _APID 7218:728635
 2 SOUR @74P5lXIpRomDQfd5WmFi@
 3 OBJE @XA9Vo3BZQR2gnVPVkgzL@
-3 _APID 1,7250::1382745705
+3 _APID 7250:1382745705
 2 NOTE 1850 US Census gives England; 1841 England census gives ag
 3 CONC e 15 (b. c. 1826)
 1 CENS
@@ -5555,7 +5685,7 @@
 2 DATE 05 JUL 1849
 2 PLAC USA
 2 SOUR @XGGvH505QiGDGXaNUUub@
-3 _APID 1,5969::564789
+3 _APID 5969:564789
 1 CENS
 2 DATE 01 JUN 1850
 2 PLAC Painted Post, Steuben, New York, USA
@@ -5577,7 +5707,7 @@
 3 PAGE Year: 1850; Census Place: Painted Post, Steuben, New York; R
 4 CONC oll: M432_598; Page: 1A; Image: 9
 3 OBJE @Sb0wdP9kRhCZ8ZFMto5r@
-3 _APID 1,8054::8387272
+3 _APID 8054:8387272
 1 RESI
 2 DATE 1855
 2 PLAC Corning, Steuben, New York, USA
@@ -5586,7 +5716,7 @@
 4 LONG W77.0547
 2 SOUR @h7WBKNgwRSOUt2BNNsOI@
 3 OBJE @YYd8YtQCTaO3vcc9rJqb@
-3 _APID 1,7181::1655634889
+3 _APID 7181:1655634889
 2 NOTE Relation to Head of House: Head
 1 CENS
 2 DATE 1855
@@ -5663,7 +5793,7 @@
 4 LONG W74.2224
 2 SOUR @JuHilP68RmSAugv75uhL@
 3 OBJE @CsKj7hxCT7KfNOwW7nJ0@
-3 _APID 1,1264::3283025
+3 _APID 1264:3283025
 1 OCCU cabinet maker
 2 DATE 01 JUN 1865
 2 PLAC Corning, Steuben, New York, USA
@@ -5688,7 +5818,7 @@
 4 LONG W77.0547
 2 SOUR @2bg2kSXxR9G5oJVTCXgV@
 3 OBJE @zDWuPkvNQy6AqcVvTWKS@
-3 _APID 1,7218::728635
+3 _APID 7218:728635
 2 NOTE Relation to Head of House: Head
 1 CENS
 2 DATE 1865
@@ -5720,14 +5850,14 @@
 3 PAGE Year: 1870; Census Place: Corning, Steuben, New York; Roll
 4 CONC : M593_1095; Page: 49A; Family History Library Film: 552594
 3 OBJE @M82@
-3 _APID 1,7163::32326403
+3 _APID 7163:32326403
 2 NOTE Residence Post Office: Corning
 1 RESI
 2 DATE 1874
 2 PLAC 35 West Market Street, Corning, Steuben, New York, USA
 2 SOUR @k7ap0rujQFex5IgQ5CXx@
 3 OBJE @7NmGDrRTQsmoRy5W87LG@
-3 _APID 1,1540::695726
+3 _APID 1540:695726
 1 RESI
 2 DATE 01 JUN 1875
 2 PLAC Corning, Steuben, New York, USA
@@ -5736,7 +5866,7 @@
 4 LONG W77.0547
 2 SOUR @74P5lXIpRomDQfd5WmFi@
 3 OBJE @XA9Vo3BZQR2gnVPVkgzL@
-3 _APID 1,7250::1382745705
+3 _APID 7250:1382745705
 2 NOTE Relation to Head of House: Head
 1 CENS
 2 DATE 1875
@@ -5773,7 +5903,7 @@
 4 CONC l: 817; Family History Film: 1254817; Page: 510D; Enumeratio
 4 CONC n District: 083; Image: 0600
 3 OBJE @x9Ek0jDvRxGDBg7agg40@
-3 _APID 1,6742::1370612
+3 _APID 6742:1370612
 2 NOTE Marital Status: Married; Relation to Head of House: Self
 1 DEAT
 2 DATE 16 JUN 1886
@@ -5793,6 +5923,7 @@
 3 MAP
 4 LATI N42.1429
 4 LONG W77.0547
+1 _GUID ae95556c-f162-4ae9-906b-9fd69df97a03
 1 _XY 1307 2210
 0 @ak7Nx2hgROSzahNLtXBH@ INDI
 1 REFN 5a5b50f5-3e75-4495-b198-fb402df68ca9
@@ -5801,13 +5932,13 @@
 3 PAGE Year: 1850; Census Place: Painted Post, Steuben, New York; R
 4 CONC oll: M432_598; Page: 1A; Image: 9
 3 OBJE @Sb0wdP9kRhCZ8ZFMto5r@
-3 _APID 1,8054::8446449
+3 _APID 8054:8446449
 2 SOUR @jmFGuFh1RiicUCdCiNYx@
 3 PAGE Year: 1860; Census Place: Corning, Steuben, New York; Roll
 4 CONC : M653_863; Page: 217; Image: 222; Family History Library Fi
 4 CONC lm: 803863
 3 OBJE @8Lh2FaDrRvS7dppiyXOL@
-3 _APID 1,7667::48687000
+3 _APID 7667:48687000
 2 SOUR @N62jTQiMTmmRVQc5KCCK@
 3 PAGE Ancestry Family Tree
 3 DATA
@@ -5815,7 +5946,7 @@
 5 CONC &pid=536
 2 SOUR @h7WBKNgwRSOUt2BNNsOI@
 3 OBJE @YYd8YtQCTaO3vcc9rJqb@
-3 _APID 1,7181::1655634892
+3 _APID 7181:1655634892
 2 SOUR @GGFJAebSQ06ZNolWRXDN@
 3 QUAY 1
 1 SEX M
@@ -5830,16 +5961,16 @@
 3 PAGE Year: 1850; Census Place: Painted Post, Steuben, New York; R
 4 CONC oll: M432_598; Page: 1A; Image: 9
 3 OBJE @Sb0wdP9kRhCZ8ZFMto5r@
-3 _APID 1,8054::8446449
+3 _APID 8054:8446449
 2 SOUR @jmFGuFh1RiicUCdCiNYx@
 3 PAGE Year: 1860; Census Place: Corning, Steuben, New York; Roll
 4 CONC : M653_863; Page: 217; Image: 222; Family History Library Fi
 4 CONC lm: 803863
 3 OBJE @8Lh2FaDrRvS7dppiyXOL@
-3 _APID 1,7667::48687000
+3 _APID 7667:48687000
 2 SOUR @h7WBKNgwRSOUt2BNNsOI@
 3 OBJE @YYd8YtQCTaO3vcc9rJqb@
-3 _APID 1,7181::1655634892
+3 _APID 7181:1655634892
 2 SOUR @GGFJAebSQ06ZNolWRXDN@
 2 NOTE Steuben Co. is from 1860 census; Painted Post is assumed fro
 3 CONC m place of residence in 1850 census (when he was two month
@@ -5854,7 +5985,7 @@
 3 PAGE Year: 1850; Census Place: Painted Post, Steuben, New York; R
 4 CONC oll: M432_598; Page: 1A; Image: 9
 3 OBJE @Sb0wdP9kRhCZ8ZFMto5r@
-3 _APID 1,8054::8446449
+3 _APID 8054:8446449
 1 RESI
 2 DATE 1855
 2 PLAC Corning, Steuben, New York, USA
@@ -5863,7 +5994,7 @@
 4 LONG W77.0547
 2 SOUR @h7WBKNgwRSOUt2BNNsOI@
 3 OBJE @YYd8YtQCTaO3vcc9rJqb@
-3 _APID 1,7181::1655634892
+3 _APID 7181:1655634892
 2 NOTE Relation to Head of House: Child
 1 RESI
 2 DATE 1860
@@ -5876,7 +6007,7 @@
 4 CONC : M653_863; Page: 217; Image: 222; Family History Library Fi
 4 CONC lm: 803863
 3 OBJE @8Lh2FaDrRvS7dppiyXOL@
-3 _APID 1,7667::48687000
+3 _APID 7667:48687000
 1 DEAT
 2 DATE ABT 1865
 2 PLAC Corning, Steuben, New York, USA
@@ -5885,6 +6016,7 @@
 4 LONG W77.0547
 2 NOTE This is just a pure guess, based on the fact that he is in t
 3 CONC he 1860 census, but not in the 1870 census.
+1 _GUID 5ec1cbda-c756-4166-b328-6a81f0b8c403
 1 _XY 1376 2551
 0 @I36@ INDI
 1 REFN 0172e965-2ca7-472c-9a41-f30008bc71fb
@@ -5903,6 +6035,7 @@
 2 PLAC Aislaby, Stockton upon Tees, Durham, England, UK
 2 SOUR @S79@
 3 QUAY 1
+1 _GUID fe9f37b5-a824-4437-97ca-7401d9ec955a
 1 _XY 1183 30
 0 @I136@ INDI
 1 REFN 15584f0d-f264-4e71-8882-00b595089b89
@@ -5920,6 +6053,7 @@
 2 DATE 1718
 2 SOUR @S79@
 3 QUAY 1
+1 _GUID e0dad900-aab9-46dc-b8ff-38abaf02a584
 1 _XY 1131 1023
 0 @I137@ INDI
 1 REFN c3f69a86-d6dc-465f-8dfa-8929ea9d9a6a
@@ -5937,6 +6071,7 @@
 2 PLAC Sedgefield, Durham, England, UK
 2 SOUR @S79@
 3 QUAY 1
+1 _GUID 5da40212-2fd2-4e8b-9b9e-085124f107eb
 1 _XY 1618 1150
 0 @I139@ INDI
 1 REFN d3f308fc-9b14-4785-9462-6f0f4e786ef5
@@ -5950,6 +6085,7 @@
 2 PLAC Sedgefield, Durham, England, UK
 2 SOUR @S79@
 3 QUAY 1
+1 _GUID fd707a45-3818-42ea-93b7-91fa72ba39f1
 1 _XY 1627 1084
 0 @I140@ INDI
 1 REFN ce5915bf-0193-4342-b2d0-cffd0ef5da24
@@ -5963,6 +6099,7 @@
 2 PLAC Durham, England, UK
 2 SOUR @S79@
 3 QUAY 1
+1 _GUID 00b99452-679d-4221-b906-f19cd98bacdb
 1 _XY 422 1124
 0 @F9@ FAM
 0 @F26@ FAM
@@ -6010,7 +6147,7 @@
 4 CONC ; Roll: 1016; Page: 7B; Enumeration District: 0029; FHL micr
 4 CONC ofilm: 1241016
 3 OBJE @lC8XOZvVRhKv5mXdghJR@
-3 _APID 1,7602::18575300
+3 _APID 7602:18575300
 0 @qtAzdYXQTPuUIVc7IQWS@ FAM
 1 REFN 711d2971-b372-4366-b86c-de91eb593d30
 1 HUSB @EB6NjE3oQVGO87LT1YtO@
@@ -6065,7 +6202,7 @@
 2 DATE 13 MAY 1790
 2 PLAC Hutton Rudby, Yorkshire, England, UK
 2 SOUR @S97@
-3 _APID 1,9852::27081380
+3 _APID 9852:27081380
 0 @DCtlZtRIRVm4T1ZfUDC3@ FAM
 1 REFN 73a80109-9548-495b-8bc6-ed7c7e8626da
 1 HUSB @wOdCOhFCRTaQXwucacDH@
@@ -6325,7 +6462,7 @@
 2 PLAC Saint Mary Magdalene Church, Hart, Hartlepool, Durham, Engla
 3 CONC nd, UK
 2 SOUR @S97@
-3 _APID 1,9852::1653088
+3 _APID 9852:1653088
 0 @F32@ FAM
 1 REFN 77c78f51-bafd-48d8-b1ca-150d5b374cc1
 1 HUSB @I122@
@@ -6406,9 +6543,10 @@
 3 QUAY 1
 2 SOUR @S97@
 3 PAGE FHL 90784, Elizabeth Barwicke
+3 _APID 9852:8850014
 2 SOUR @S97@
 3 PAGE FHL 90784, Rowland Taylerson
-3 _APID 1,9852::8850013
+3 _APID 9852:8850013
 0 @x0FfmvNVTaardWNmUxSB@ FAM
 1 REFN 1869b511-8ad7-4d55-8b37-e48125efca75
 1 HUSB @te7t7Lo2QraoEgWshr1c@
@@ -6420,7 +6558,7 @@
 4 CONC : 1011; Page: 4A; Enumeration District: 0056; FHL microfilm
 4 CONC : 1241011
 3 OBJE @nUHy1YBHRXSE4eLmMUJo@
-3 _APID 1,7602::18439145
+3 _APID 7602:18439145
 1 MARR
 2 DATE ABT 1875
 0 @SBsOGRdKSbijpGIgiBgo@ FAM
@@ -6461,7 +6599,7 @@
 2 SOUR @S79@
 3 QUAY 1
 2 SOUR @S97@
-3 _APID 1,9852::34987081
+3 _APID 9852:34987081
 0 @9lQRIZf6SYK7Y5hx8Llz@ FAM
 1 REFN ab77c28b-2bc9-4708-bd2a-3c60d588bed6
 1 HUSB @BQ6oOeJnQFGzhVudXWcy@
@@ -6520,9 +6658,10 @@
 2 PLAC Stockton upon Tees, Durham, England, UK
 2 SOUR @S90@
 3 OBJE @M79@
+3 _APID 8913:28151377
 2 SOUR @STI3sk0lQsyDfygLDOjf@
 3 OBJE @oi1Or17IT4m6nzElyser@
-3 _APID 1,8913::28151377
+3 _APID 8913:28151377
 2 SOUR @Ok2EiItMTYaIoVo6zEWZ@
 3 QUAY 3
 0 @F42@ FAM
@@ -6549,6 +6688,7 @@
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2009
+1 _APID 8054
 0 @S81@ SOUR
 1 REFN 631ba11b-9771-4aa4-872b-86b945dd4d21
 1 REPO @R1@
@@ -6563,6 +6703,7 @@
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2009
+1 _APID 7667
 0 @S83@ SOUR
 1 REFN 2f9b8a45-3281-44df-ab95-4ca0cb3c1872
 1 REPO @R1@
@@ -6577,6 +6718,7 @@
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2009
+1 _APID 7163
 0 @S88@ SOUR
 1 REFN ff707158-a92e-4222-a798-c73fcd613da7
 1 REPO @R1@
@@ -6592,6 +6734,7 @@
 2 CONC ints
 1 PUBL Ancestry.com Operations Inc; Location: Provo, UT, USA; Date
 2 CONC : 2010
+1 _APID 6742
 0 @NDN2XTgxTLmnX7Bgq4LP@ SOUR
 1 REFN 46b3831d-b1f3-4dde-a073-4d6310c5c0c8
 1 REPO @R1@
@@ -6599,6 +6742,7 @@
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations Inc; Location: Provo, UT, USA; Date
 2 CONC : 2004
+1 _APID 7602
 0 @c4Kpe8hwRqSW5hMTvu1S@ SOUR
 1 REFN 3e80ac6a-6d60-4d8a-9f49-fb6b70b7ee0f
 1 REPO @R1@
@@ -6606,6 +6750,7 @@
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations Inc; Location: Provo, UT, USA; Date
 2 CONC : 2006
+1 _APID 7884
 0 @gEzHretGQ9iAdPxO8HPJ@ SOUR
 1 REFN b6ed10f2-f18d-4fe3-bd7f-b383c7044f24
 1 REPO @R1@
@@ -6628,6 +6773,7 @@
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations Inc; Location: Provo, UT, USA; Date
 2 CONC : 2002
+1 _APID 6224
 0 @krZH9vsSTamYxiNlOr6t@ SOUR
 1 REFN 61d7e281-450b-4ef8-bf38-6e12fda8cc84
 1 REPO @R1@
@@ -6991,6 +7137,7 @@
 1 AUTH FreeBMD
 1 PUBL Ancestry.com Operations Inc; Location: Provo, UT, USA; Date
 2 CONC : 2006
+1 _APID 8912
 0 @OeOCLbwlTzu3dQqftwwk@ SOUR
 1 REFN 1621b523-222c-4e13-83e0-e8b01a366ce9
 1 REPO @R1@
@@ -6998,6 +7145,7 @@
 1 AUTH FreeBMD
 1 PUBL Ancestry.com Operations Inc; Location: Provo, UT, USA; Date
 2 CONC : 2006
+1 _APID 8914
 0 @STI3sk0lQsyDfygLDOjf@ SOUR
 1 REFN 3556fe10-312b-4fb6-a62e-5ec65696b0b5
 1 REPO @R1@
@@ -7005,6 +7153,7 @@
 1 AUTH FreeBMD
 1 PUBL Ancestry.com Operations Inc; Location: Provo, UT, USA; Date
 2 CONC : 2006
+1 _APID 8913
 0 @S84@ SOUR
 1 REFN b6135008-2293-48b3-8c28-0a777929aca6
 1 TITL England Census, 1841, Durham, Hart, Hartlepool, District 6a
@@ -7387,18 +7536,21 @@
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2014
+1 _APID 9841
 0 @S98@ SOUR
 1 REPO @R1@
 1 TITL England, Select Deaths and Burials, 1538-1991
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2014
+1 _APID 9840
 0 @S97@ SOUR
 1 REPO @R1@
 1 TITL England, Select Marriages, 1538–1973
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2014
+1 _APID 9852
 0 @lfO2pboiTVupZdmq8c8n@ SOUR
 1 REFN 0aa5ab46-0bb6-4681-a5ee-89bbddacc423
 1 REPO @R1@
@@ -7406,6 +7558,7 @@
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations Inc; Location: Provo, UT, USA; Date
 2 CONC : 2006
+1 _APID 8842
 0 @P03XE2GqQSunPkn5yDpr@ SOUR
 1 REFN 11b7f9fa-d902-45b1-9207-30db0fa07b26
 1 TITL Githler, Mrs. John , obituary
@@ -7850,6 +8003,7 @@
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2010
+1 _APID 7488
 0 @h7WBKNgwRSOUt2BNNsOI@ SOUR
 1 REFN f995469d-de6e-4f8a-b9b5-5d2a0ffd5e25
 1 REPO @R1@
@@ -7857,6 +8011,7 @@
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2013
+1 _APID 7181
 0 @2bg2kSXxR9G5oJVTCXgV@ SOUR
 1 REFN 59225912-66cd-4d33-a51e-147570d74d6c
 1 REPO @R1@
@@ -7864,6 +8019,7 @@
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2014
+1 _APID 7218
 0 @74P5lXIpRomDQfd5WmFi@ SOUR
 1 REFN 70b53fc8-be2b-480f-940d-34fb9697f10b
 1 REPO @R1@
@@ -7871,6 +8027,7 @@
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2013
+1 _APID 7250
 0 @eaHR0oxuTfOp5myA78b9@ SOUR
 1 REFN 421a3559-6aa7-465c-ab13-479137b518e3
 1 REPO @R1@
@@ -7878,6 +8035,7 @@
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2012
+1 _APID 3212
 0 @4jCt5j3VRkqTuhypLl9x@ SOUR
 1 REFN e6b7df74-cd4b-4460-a429-54751ee5401f
 1 REPO @R1@
@@ -7885,6 +8043,7 @@
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2014
+1 _APID 7364
 0 @Qxz8JDP7SuCtqVmDijnb@ SOUR
 1 REFN 27f04933-14e3-44e9-8670-40c6cfe55434
 1 REPO @R1@
@@ -7892,6 +8051,7 @@
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2012
+1 _APID 2703
 0 @7LxrgfRmTNWyu6slXQjR@ SOUR
 1 REFN 1b6cb1fe-cfa3-4ce4-877e-c4fdbb846eed
 1 REPO @R1@
@@ -7899,6 +8059,7 @@
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2012
+1 _APID 2704
 0 @Iei3CqvQTlOZK8WBxJrE@ SOUR
 1 REFN fe03e589-f706-4723-8777-389e71459730
 1 TITL Novelty Block [advertisement]
@@ -8270,6 +8431,7 @@
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2011
+1 _APID 2469
 0 @xcXXXJstR1iS4OizBZKh@ SOUR
 1 REFN 5279ef12-0e5f-41a7-9116-fa55425df9aa
 1 REPO @R1@
@@ -8301,6 +8463,7 @@
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2012
+1 _APID 60525
 0 @f9TGKjo7Q0eOosH9qjGk@ SOUR
 1 REFN fda57307-52d8-4d6e-a2c8-209984c57b81
 1 REPO @R1@
@@ -8308,12 +8471,14 @@
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations Inc; Location: Provo, UT, USA; Date
 2 CONC : 2005
+1 _APID 6482
 0 @S99@ SOUR
 1 REPO @R1@
 1 TITL UK and Ireland, Find A Grave Index, 1300s-Current
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2012
+1 _APID 60526
 0 @GGFJAebSQ06ZNolWRXDN@ SOUR
 1 REFN 7447873b-604c-4c5c-97a9-f25b49595f4c
 1 TITL US Census, 1850, NY, Steuben, Painted Post
@@ -8606,6 +8771,13 @@
 2 CONC au</td><td>s</td><td>&nbsp;</td><td>NY</td><td>Ire</td><td>I
 2 CONC re</td></tr>
 2 CONT </table>
+0 @S95@ SOUR
+1 REFN 6c33f357-8773-495f-8c45-cce0fefd9090
+1 TITL US Census, 1900, NY, Chemung, Elmina, Ward 9, District 29, p
+2 CONC . 14 of 22
+1 AUTH US Census Bureau
+1 PUBL 1900-06-11
+1 TEXT Dodd Labinia Jan. 1854 48
 0 @S82@ SOUR
 1 REFN 2f1e6fe9-b7f0-4cc2-9696-c1700f487c78
 1 TITL US Census, 1900, NY, Steuben, Erwin, District 82, p. 11 of 2
@@ -8629,7 +8801,9 @@
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2012
+1 _APID 70572
 0 @N7y6pNMQSQqOHwJJtOxS@ OBJE
+1 _GUID 7ab22133-33b8-4468-8459-f214f86a40cc
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Taylorson Media
 2 CONC \0002_Taylorson_Hannah_L.jpg
 2 FORM jpg
@@ -8637,6 +8811,7 @@
 2 _DATE 9/26/2013 9:19:12 PM
 1 REFN 952ba9ab-8b1c-445d-b197-2b8d533aee6d
 0 @yIcc6Zt8T5Skx2BfWvVF@ OBJE
+1 _GUID 2ddc1a47-5565-481b-af83-695bbefb4f36
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Taylorson Media
 2 CONC \0019_Taylorson_Jessie.jpg
 2 FORM jpg
@@ -8644,6 +8819,7 @@
 2 _DATE 9/26/2013 10:07:41 PM
 1 REFN 3e01ce36-1c3d-46cd-b528-c8f264ec4591
 0 @JhTF9BoKTIKGi4OxEGiI@ OBJE
+1 _GUID 520321cb-4d2d-4ffb-871a-9791287955d8
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Taylorson Media
 2 CONC \0019_Taylorson_Lavinia.jpg
 2 FORM jpg
@@ -8651,6 +8827,7 @@
 2 _DATE 9/26/2013 10:08:15 PM
 1 REFN 5eba02f4-a445-4368-9920-2fcef6197da3
 0 @nj58FScOQgu4WauwfdaZ@ OBJE
+1 _GUID 7f96d0e2-9487-4db1-b822-a044e92640dc
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Taylorson Media
 2 CONC \0090_Edminster_Jessie_E.jpg
 2 FORM jpg
@@ -8658,6 +8835,7 @@
 2 _DATE 9/27/2013 8:21:45 PM
 1 REFN 6930b603-185d-4264-8529-18eeec16698b
 0 @fkkFGltLRgGeUuNdFwkz@ OBJE
+1 _GUID c0859a11-13fd-4894-af64-9027a29ffe42
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Taylorson Media
 2 CONC \1841 England Census(9).jpg
 2 FORM jpg
@@ -8667,6 +8845,7 @@
 3 CONC ; Page: 22; Line: 18; GSU roll: 241357
 1 REFN 7f83244d-f88b-4f79-8bca-22373a1dcb54
 0 @Sb0wdP9kRhCZ8ZFMto5r@ OBJE
+1 _GUID 4a6d0207-d6a9-4337-9721-0b8cd3e74c64
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Taylorson Media
 2 CONC \1850 United States Federal Census(8).jpg
 2 FORM jpg
@@ -8675,6 +8854,7 @@
 3 CONC oll: M432_598; Page: 1A; Image: 9
 1 REFN 965ca434-b667-4944-a144-0e0894742d1e
 0 @8Lh2FaDrRvS7dppiyXOL@ OBJE
+1 _GUID 66bf2efc-aa17-47fe-bcb0-abfd908d3ac0
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Taylorson Media
 2 CONC \1860 United States Federal Census(12).jpg
 2 FORM jpg
@@ -8684,6 +8864,7 @@
 3 CONC lm: 803863
 1 REFN 9c2a1d10-f56a-49c4-8db5-4ea53794b087
 0 @889BnmNXRsGuR9Tf7azK@ OBJE
+1 _GUID 3248ad3d-463c-40da-80de-d2c9d24b1245
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Taylorson Media
 2 CONC \1860 United States Federal Census(38).jpg
 2 FORM jpg
@@ -8693,6 +8874,7 @@
 3 CONC : 803730
 1 REFN 2a60f3ce-39d2-4b67-b6f6-3727900abd9d
 0 @pmMZwiYLSwS64UMhv6PB@ OBJE
+1 _GUID 806e8ce2-2159-44c6-bf87-e3510e3dd3d2
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Taylorson Media
 2 CONC \1870 United States Federal Census(9).jpg
 2 FORM jpg
@@ -8702,6 +8884,7 @@
 3 CONC ilm: 552594
 1 REFN 4b8ef700-fd9d-49f6-bb76-2d5c170c5364
 0 @gmzJ2mv3Q92sNpwZzTg1@ OBJE
+1 _GUID b79eae4e-1c1e-4603-93a8-c80b1eec7332
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Taylorson Media
 2 CONC \1870 United States Federal Census(40).jpg
 2 FORM jpg
@@ -8711,6 +8894,7 @@
 3 CONC m: 552594
 1 REFN 45718147-d28c-4749-bcb8-665a6ab9b4f2
 0 @s8ynwYiPQLuIV6VOEw7U@ OBJE
+1 _GUID 1d54c74d-3356-4ad1-a33b-dd04f379b229
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Taylorson Media
 2 CONC \1870 United States Federal Census(53).jpg
 2 FORM jpg
@@ -8720,6 +8904,7 @@
 3 CONC : 552594
 1 REFN 61062653-d010-421a-9e9c-9e4b8ca7f58d
 0 @2Wig0snFRv6jTr0YLJzt@ OBJE
+1 _GUID 1dc0eb83-4a71-4a4d-a0da-f38de4dcfd5b
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Taylorson Media
 2 CONC \1870 United States Federal Census(56).jpg
 2 FORM jpg
@@ -8729,6 +8914,7 @@
 3 CONC m: 552413
 1 REFN cfe08e68-0fc9-452f-b3e8-26ca7a03aeff
 0 @7Qe3Q54kTFen6vc1sLFi@ OBJE
+1 _GUID 984523d9-00bd-47b7-a586-f283682d997e
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Taylorson Media
 2 CONC \1880 United States Federal Census(1).jpg
 2 FORM jpg
@@ -8738,6 +8924,7 @@
 3 CONC strict: 177; Image: 0536
 1 REFN 19b7a019-71c8-4d1c-bf5c-e7f5b5c5c867
 0 @x9Ek0jDvRxGDBg7agg40@ OBJE
+1 _GUID 4ddebb4e-6a60-4995-8630-08e4259e42b3
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Taylorson Media
 2 CONC \1880 United States Federal Census(6).jpg
 2 FORM jpg
@@ -8747,6 +8934,7 @@
 3 CONC n District: 083; Image: 0600
 1 REFN 402e2bf6-94cf-4da3-97f8-30f79b7e140d
 0 @b5CvY48XSSOaRlEiT0q5@ OBJE
+1 _GUID 8f3d8408-4ef6-491d-8a6a-c08802f7fbca
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Taylorson Media
 2 CONC \1880 United States Federal Census(20).jpg
 2 FORM jpg
@@ -8756,6 +8944,7 @@
 3 CONC ict: 120; Image: 0426
 1 REFN b2b87235-74c4-492e-bfff-c5705d349eeb
 0 @9fekSPhgS6eGJGlIKd5Y@ OBJE
+1 _GUID 15da3a56-dedc-4012-9be1-0f7c440b5101
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Taylorson Media
 2 CONC \1880 United States Federal Census(22).jpg
 2 FORM jpg
@@ -8765,6 +8954,7 @@
 3 CONC n District: 171; Image: 0337
 1 REFN edb7d5d5-325d-4955-950b-559a4ae8c0e8
 0 @xNxl4cTfRbaETAVSHqgQ@ OBJE
+1 _GUID 7766de2c-2d4b-4239-805e-cda978acf8b3
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Taylorson Media
 2 CONC \1880 United States Federal Census(38).jpg
 2 FORM jpg
@@ -8774,6 +8964,7 @@
 3 CONC trict: 173; Image: 0441
 1 REFN 9cf51969-fae4-4dca-9ac8-9471c1377407
 0 @k2xDoMfDQ2CEf4yVCuqo@ OBJE
+1 _GUID 51f6a35a-e381-46ca-9565-0aae05a28a64
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Taylorson Media
 2 CONC \1880 United States Federal Census(42).jpg
 2 FORM jpg
@@ -8783,6 +8974,7 @@
 3 CONC n District: 171; Image: 0334
 1 REFN 93d9efd9-78dd-4798-a67a-1e40bb980413
 0 @nUHy1YBHRXSE4eLmMUJo@ OBJE
+1 _GUID e6a76d6d-a1d6-4351-b41b-813f2583581c
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Taylorson Media
 2 CONC \1900 United States Federal Census(22).jpg
 2 FORM jpg
@@ -8792,6 +8984,7 @@
 3 CONC : 1241011
 1 REFN 95636459-7be3-4107-bf53-330b7da1197f
 0 @lC8XOZvVRhKv5mXdghJR@ OBJE
+1 _GUID 35b0ad2e-0256-4211-829e-6517b5ea42b2
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Taylorson Media
 2 CONC \1900 United States Federal Census(26).jpg
 2 FORM jpg
@@ -8801,6 +8994,7 @@
 3 CONC ofilm: 1241016
 1 REFN 7be513af-5032-4054-b811-a495c5d22b60
 0 @blNQH6aXRTWrpDosAT1j@ OBJE
+1 _GUID 57676be5-aa7d-4e48-b79c-cc25b0f2329f
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Taylorson Media
 2 CONC \1900 United States Federal Census(41).jpg
 2 FORM jpg
@@ -8810,6 +9004,7 @@
 3 CONC 1163
 1 REFN 7cd2b5c7-e874-470f-b440-0c8081a466e1
 0 @aCcLzDjzTFKBYJsHRbt8@ OBJE
+1 _GUID 01425e68-2a83-4458-8707-f7f3c68fa39f
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Taylorson Media
 2 CONC \1900 United States Federal Census(47).jpg
 2 FORM jpg
@@ -8819,6 +9014,7 @@
 3 CONC : 1241016
 1 REFN b5dc3066-c22f-4096-9c1c-062239c54058
 0 @RIbmdKWERFWQyvHXdKyl@ OBJE
+1 _GUID adf236ab-6df1-4a06-a3c7-30d5acde80ea
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Taylorson Media
 2 CONC \1910 United States Federal Census(18).jpg
 2 FORM jpg
@@ -8828,6 +9024,7 @@
 3 CONC L microfilm: 1374940
 1 REFN 680bd5e5-683b-44fb-acbb-2c5eb5fb56fc
 0 @b734qYM2RbSlfVJjNEgL@ OBJE
+1 _GUID 34c0e094-0e1c-4c9d-bb6f-44903b2c27a5
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Taylorson Media
 2 CONC \1910 United States Federal Census(22).jpg
 2 FORM jpg
@@ -8837,6 +9034,7 @@
 3 CONC L microfilm: 1374944
 1 REFN f51059d6-609d-4ddc-af2c-35c9a206b1f3
 0 @NOtiDwokQXi1m65EbyOt@ OBJE
+1 _GUID 0dfcaf9c-0246-4250-89b1-9a97ea6adabd
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Taylorson Media
 2 CONC \1910 United States Federal Census(27).jpg
 2 FORM jpg
@@ -8846,6 +9044,7 @@
 3 CONC crofilm: 1375436
 1 REFN 3e2c58e6-70f5-4c80-bd40-f7de96494cf3
 0 @CAnv2YCMRHe7oSHYxN9l@ OBJE
+1 _GUID 260273d1-4114-4e31-81e5-665c486669a7
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Taylorson Media
 2 CONC \1910 United States Federal Census(40).jpg
 2 FORM jpg
@@ -8855,6 +9054,7 @@
 3 CONC ilm: 1374944
 1 REFN 5190d12e-785e-476f-819a-51b7a2bb486c
 0 @ski6SX2XRdSwVekHG1fj@ OBJE
+1 _GUID 44839716-6085-45a9-b236-a774ebe4e64c
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Taylorson Media
 2 CONC \1920 United States Federal Census(11).jpg
 2 FORM jpg
@@ -8863,6 +9063,7 @@
 3 CONC k
 1 REFN 914fade4-000d-4602-a966-f2605b42862b
 0 @UPKQIecMQOG7HmNjyCuN@ OBJE
+1 _GUID c8cf10d8-8f9d-410e-bd42-b785043e5f1c
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Taylorson Media
 2 CONC \1920 United States Federal Census(16).jpg
 2 FORM jpg
@@ -8870,6 +9071,7 @@
 2 _TEXT Year: 1920; Census Place: Elmira Ward 9, Chemung, New York
 1 REFN 624dd24f-edf2-47b7-bebc-145b7d2ff6b3
 0 @CQh0oq7cRFuTgHq9Z5Qy@ OBJE
+1 _GUID d555402a-2175-49a7-a254-233690b08a58
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Taylorson Media
 2 CONC \1920 United States Federal Census(33).jpg
 2 FORM jpg
@@ -8878,6 +9080,7 @@
 3 CONC : T625_1085; Page: 5B; Enumeration District: 84; Image: 424
 1 REFN b42c21ab-8f91-45e4-ae12-a2c2f8eaeaf1
 0 @RMTRznOgTyKbSzKbFd6b@ OBJE
+1 _GUID 87d3dcac-3cf2-4d7d-8043-c38c7266f2a9
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Taylorson Media
 2 CONC \1930 United States Federal Census(10).jpg
 2 FORM jpg
@@ -8887,6 +9090,7 @@
 3 CONC 150
 1 REFN e86cb2c9-7e2f-43e0-b585-0b20cd5540e4
 0 @dPbzlcp5SKu5yzm2rorL@ OBJE
+1 _GUID 2dd31108-b54c-4158-887e-477b1668c3ec
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Taylorson Media
 2 CONC \1930 United States Federal Census(23).jpg
 2 FORM jpg
@@ -8896,6 +9100,7 @@
 3 CONC : 571.0; FHL microfilm: 2340080
 1 REFN e821f726-4fc9-4be3-a48d-b4a165ad2b7e
 0 @NWt8uo0tQv2t1cVZiK3m@ OBJE
+1 _GUID a5bd0515-5d9f-4d92-b35e-f5eddf9b09c0
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Taylorson Media
 2 CONC \1940 United States Federal Census(16).jpg
 2 FORM jpg
@@ -8904,6 +9109,7 @@
 3 CONC 627_2514; Page: 3A; Enumeration District: 8-57
 1 REFN 68cfec90-931a-486e-8f68-ebfd7bbfe7e2
 0 @HxENyvXZQBqj46tAufBU@ OBJE
+1 _GUID 39a2ff4a-4ee6-4edf-91eb-c46073026780
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Taylorson Media
 2 CONC \1940 United States Federal Census(25).jpg
 2 FORM jpg
@@ -8912,6 +9118,7 @@
 3 CONC : T627_2656; Page: 61A; Enumeration District: 31-1374
 1 REFN 78ddbd9f-ccb8-4c16-a664-1ed59542cdad
 0 @GdEop12iQKCgubsvVmdV@ OBJE
+1 _GUID b194c4f3-a982-41ce-988f-41331c52fb40
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Taylorson Media
 2 CONC \6407693337_f01dfabd1e_o.jpg
 2 FORM jpg
@@ -8922,6 +9129,7 @@
 3 CONC rnal newspaper, October 9, 1862.
 1 REFN b4901546-d120-47f0-b5cb-c93df114f293
 0 @0kjuZ5g4SAO42LgBAmTw@ OBJE
+1 _GUID a3455d49-a8d8-4616-8a87-dca04011028f
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Taylorson Media
 2 CONC \England & Wales, Civil Registration Birth Index, 1837-1915.
 2 CONC jpg
@@ -8929,30 +9137,35 @@
 2 TITL England & Wales, Civil Registration Birth Index, 1837-1915
 1 REFN 0da99197-6e30-47f0-9c95-1acc20ad50ab
 0 @kd3IvfIYQ4WNqYfrIaLw@ OBJE
+1 _GUID ad206f37-08b5-4784-a5e9-e18e5feba2f2
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Taylorson Media
 2 CONC \England & Wales, FreeBMD Birth Index, 1837-1915.jpg
 2 FORM jpg
 2 TITL England & Wales, FreeBMD Birth Index, 1837-1915
 1 REFN ff77cb13-fd48-4963-978c-abc086855df2
 0 @6ad42r9ySR286aDp5r82@ OBJE
+1 _GUID 094d9165-fbda-4caf-9eac-007c04a699cc
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Taylorson Media
 2 CONC \England & Wales, FreeBMD Death Index, 1837-1915.jpg
 2 FORM jpg
 2 TITL England & Wales, FreeBMD Death Index, 1837-1915
 1 REFN 4875063f-d24e-402a-837b-21683bf091ac
 0 @oi1Or17IT4m6nzElyser@ OBJE
+1 _GUID 40dab0b8-05de-4182-89b0-041d86246e8d
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Taylorson Media
 2 CONC \England & Wales, FreeBMD Marriage Index, 1837-1915.jpg
 2 FORM jpg
 2 TITL England & Wales, FreeBMD Marriage Index, 1837-1915
 1 REFN c0922152-d01e-40d5-aebd-8559b40a230b
 0 @jJJVXiNLTJOtnFzmfuE6@ OBJE
+1 _GUID 8c06744d-7c11-4850-91ba-95c5b3dde892
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Taylorson Media
 2 CONC \Florida Passenger Lists, 1898-1964.jpg
 2 FORM jpg
 2 TITL Florida Passenger Lists, 1898-1964
 1 REFN 94ca9ef5-1212-4d12-872f-a7f88ed0326e
 0 @a29rouemTyuezBT9XapO@ OBJE
+1 _GUID f70f0431-db49-47fb-aa61-6f71c9cb620d
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Taylorson Media
 2 CONC \Land Deed, Taylorson, Robert, Chemung Street, Painted Post
 2 CONC , NY.jpg
@@ -8961,6 +9174,7 @@
 3 CONC , NY
 1 REFN e7348ab3-e799-4a04-8d54-6a8450035b5a
 0 @UApIl18aQxyH5g5K2jkU@ OBJE
+1 _GUID cceac2af-0fe3-4072-bf32-69ff4149ac96
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Taylorson Media
 2 CONC \Land Deed, Taylorson, Thomas, Canton Road, South Corning, N
 2 CONC Y.jpg
@@ -8968,6 +9182,7 @@
 2 TITL Land Deed, Taylorson, Thomas, Canton Road, South Corning, NY
 1 REFN 30882525-bbee-4ca7-8f60-15b1a5fcc821
 0 @aS6JRZtMREG9oKSAp4Jl@ OBJE
+1 _GUID 33ebda3f-f447-4a37-ae2f-52564a4bcd00
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Taylorson Media
 2 CONC \New York, Passenger Lists, 1820-1957.jpg
 2 FORM jpg
@@ -8976,66 +9191,77 @@
 3 CONC m roll: M237_81; Line: ; List number: .
 1 REFN bcb0b8b5-6cb7-451a-be32-d4d929fd837e
 0 @YYd8YtQCTaO3vcc9rJqb@ OBJE
+1 _GUID bc05e50e-2f0e-4764-9edd-7f183dc4550d
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Taylorson Media
 2 CONC \New York, State Census, 1855(4).jpg
 2 FORM jpg
 2 TITL New York, State Census, 1855
 1 REFN 28f658d5-c5a7-40f3-b054-4547723e1a34
 0 @e2itw6lqSXqxQ9OzyjyJ@ OBJE
+1 _GUID 2055aec8-57ad-49d5-9fe3-b60cf809957b
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Taylorson Media
 2 CONC \New York, State Census, 1855(12).jpg
 2 FORM jpg
 2 TITL New York, State Census, 1855
 1 REFN 5b776a2f-721c-404e-b475-3a4ad4188d70
 0 @zDWuPkvNQy6AqcVvTWKS@ OBJE
+1 _GUID d381032f-a4a6-4064-a427-96728fb74490
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Taylorson Media
 2 CONC \New York, State Census, 1865(7).jpg
 2 FORM jpg
 2 TITL New York, State Census, 1865
 1 REFN fed3674a-1eb0-4a8b-8bd4-4b774d394d57
 0 @2spUibxcTFmJOtiRvf5u@ OBJE
+1 _GUID 39bd267c-2349-42be-a383-2e3a83d424e7
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Taylorson Media
 2 CONC \New York, State Census, 1865(22).jpg
 2 FORM jpg
 2 TITL New York, State Census, 1865
 1 REFN 6866895f-5aa8-4011-b00b-d90da4b4c20b
 0 @4SyVrL4jSEyARW3Yyqoh@ OBJE
+1 _GUID 3cd35dfb-c863-4663-b7ba-0bc53d37e8a3
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Taylorson Media
 2 CONC \New York, State Census, 1865(23).jpg
 2 FORM jpg
 2 TITL New York, State Census, 1865
 1 REFN 451903e5-8120-4e2f-ad0b-186cad228c1f
 0 @MkjqZjVXTQ6rkkGn6INa@ OBJE
+1 _GUID b9ee2b91-17ad-413e-982d-03e08c076a60
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Taylorson Media
 2 CONC \New York, State Census, 1875(2).jpg
 2 FORM jpg
 2 TITL New York, State Census, 1875
 1 REFN ec1a5804-bcca-4467-acba-c9164111f36d
 0 @XA9Vo3BZQR2gnVPVkgzL@ OBJE
+1 _GUID d6fe59e1-c167-4c38-b822-47e9eda10698
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Taylorson Media
 2 CONC \New York, State Census, 1875(9).jpg
 2 FORM jpg
 2 TITL New York, State Census, 1875
 1 REFN 44e1205c-5a64-4cc2-af41-7ada0c92bb29
 0 @kWmywm3ESauERQbRJVR3@ OBJE
+1 _GUID 14188bd8-1a5a-401e-82da-b3693276bada
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Taylorson Media
 2 CONC \New York, State Census, 1875(18).jpg
 2 FORM jpg
 2 TITL New York, State Census, 1875
 1 REFN 0a8f8be0-7f9f-4b39-ad3a-45bfbd367277
 0 @SGnHaKBtQYGRR9ubBWg4@ OBJE
+1 _GUID 73a36efd-d392-4887-b959-0767f7fcaf7d
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Taylorson Media
 2 CONC \New York, State Census, 1892(12).jpg
 2 FORM jpg
 2 TITL New York, State Census, 1892
 1 REFN 19c7c677-2bb3-48b0-a9f1-fdb6909a02e5
 0 @3aa407SjRJWvIepXS4R2@ OBJE
+1 _GUID 8917a547-3e84-4461-ac5a-0e776908bb75
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Taylorson Media
 2 CONC \New York, State Census, 1905(15).jpg
 2 FORM jpg
 2 TITL New York, State Census, 1905
 1 REFN c7140763-d87b-41f6-83a1-93f841259719
 0 @OIK2qEQJQt27BDzaZlSn@ OBJE
+1 _GUID 64255068-ecb7-4a36-8a1b-a0334c339212
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Taylorson Media
 2 CONC \New York, State Census, 1915(18).jpg
 2 FORM jpg
@@ -9045,6 +9271,7 @@
 3 CONC strict: 01; City: Triangle; County: Broome; Page: 05
 1 REFN c9db7291-6301-4d1d-bf99-400782d9a7a4
 0 @2jGTC07gTD6rNgHwuMW9@ OBJE
+1 _GUID b2a58d9a-230b-4eba-b117-47fa536a69b1
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Taylorson Media
 2 CONC \New York, State Census, 1925(9).jpg
 2 FORM jpg
@@ -9054,6 +9281,7 @@
 3 CONC strict: 01; City: Elmira Ward 09; County: Chemung; Page: 6
 1 REFN 98fcee16-da2a-42a2-9c36-02264d2017ba
 0 @rWcKZXjfQla5Tn5Oxjxk@ OBJE
+1 _GUID 57050cb2-791f-4bf7-b649-3f04e83c1d67
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Taylorson Media
 2 CONC \New York, State Census, 1925(16).jpg
 2 FORM jpg
@@ -9063,48 +9291,56 @@
 3 CONC strict: 01; City: Triangle; County: Broome; Page: 9
 1 REFN f579a484-5914-46a6-86ef-424240b17614
 0 @7NmGDrRTQsmoRy5W87LG@ OBJE
+1 _GUID 63721c5c-7b86-41a8-8b41-6f9578a2b6cf
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Taylorson Media
 2 CONC \U.S. City Directories.jpg
 2 FORM jpg
 2 TITL U.S. City Directories
 1 REFN e1013570-1fb8-42f6-bde2-95eb5ef2ea65
 0 @5LeyQN3uRPG0yM2uCFqI@ OBJE
+1 _GUID 7c84bd4c-fe74-41b0-975e-ab8b3315b410
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Taylorson Media
 2 CONC \U.S. City Directories, 1821-1989(30).jpg
 2 FORM jpg
 2 TITL U.S. City Directories, 1821-1989
 1 REFN 392254fb-c89b-430a-8d41-009f4629f8c9
 0 @cw72CZy8Sa2fFE5yZQ21@ OBJE
+1 _GUID 8d9ec684-427a-409c-911e-9822f0af214f
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Taylorson Media
 2 CONC \U.S. City Directories, 1821-1989(35).jpg
 2 FORM jpg
 2 TITL U.S. City Directories, 1821-1989
 1 REFN 984f1e93-8444-474d-8cc1-2c57b307bf75
 0 @XML95beXRRqyNjAogSfG@ OBJE
+1 _GUID e2c17a72-394d-41ca-8f2d-a12041eb25ca
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Taylorson Media
 2 CONC \U.S. City Directories, 1821-1989(36).jpg
 2 FORM jpg
 2 TITL U.S. City Directories, 1821-1989
 1 REFN e2277052-51fe-4d40-bbf6-81963a3f4feb
 0 @8LVfnfmpSXeZbCrHJqfp@ OBJE
+1 _GUID f90162f6-39e8-43b1-a039-833f1a14bcb2
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Taylorson Media
 2 CONC \U.S. City Directories, 1822-1995(8).jpg
 2 FORM jpg
 2 TITL U.S. City Directories, 1822-1995
 1 REFN 238c3e39-de1d-4bb6-a189-cfed0778ab9e
 0 @6xe0YWM6RW2e4ItJnpRy@ OBJE
+1 _GUID c4ea28eb-4ce9-4837-b974-efc458f316e4
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Taylorson Media
 2 CONC \U.S. City Directories, 1822-1995(10).jpg
 2 FORM jpg
 2 TITL U.S. City Directories, 1822-1995
 1 REFN fa890567-44bc-48d9-b326-1445a31fe5b5
 0 @CsKj7hxCT7KfNOwW7nJ0@ OBJE
+1 _GUID b0519897-d5de-4ca8-8a14-4788caf9d7d8
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Taylorson Media
 2 CONC \U.S. IRS Tax Assessment Lists, 1862-1918.jpg
 2 FORM jpg
 2 TITL U.S. IRS Tax Assessment Lists, 1862-1918
 1 REFN 94e420bf-1979-4efd-a582-38c6c47f5fc7
 0 @kgWfkHKETxaxTbVRoUEK@ OBJE
+1 _GUID 2096525e-c1fe-4856-a6e1-d931c584262f
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Taylorson Media
 2 CONC \U.S., World War I Draft Registration Cards, 1917-1918(11).j
 2 CONC pg
@@ -9114,6 +9350,7 @@
 3 CONC oll: 1712045
 1 REFN 175c93b1-7c90-4028-bf68-14ee02b9e488
 0 @M64@ OBJE
+1 _GUID 65e0a52f-a16c-4a02-ac6d-85c83083cdff
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Taylorson Media
 2 CONC \1841 England Census.jpg
 2 FORM jpg
@@ -9123,12 +9360,14 @@
 3 CONC ; Page: 5; Line: 5; GSU roll: 241357
 1 REFN 476b653a-c34e-4f6c-9833-89a1187fd2f8
 0 @M65@ OBJE
+1 _GUID 292a6046-cf7c-4fdb-972b-73e15f5baf61
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Taylorson Media
 2 CONC \Wife's burial.jpg
 2 FORM jpg
 2 TITL Wife's burial
 1 REFN e0cd3e7e-9368-4019-801c-beee0e120668
 0 @M66@ OBJE
+1 _GUID 75444e38-e521-48bb-8761-3e5ec45f8b79
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Taylorson Media
 2 CONC \1841 England Census(1).jpg
 2 FORM jpg
@@ -9138,6 +9377,7 @@
 3 CONC 3; Page: 30; Line: 5; GSU roll: 241357
 1 REFN 92098c58-b62f-45e5-8b53-753f64ba20ab
 0 @M67@ OBJE
+1 _GUID fe8e540e-7288-479b-b61f-257f7b09fa19
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Taylorson Media
 2 CONC \1851 England Census.jpg
 2 FORM jpg
@@ -9146,18 +9386,21 @@
 3 CONC 061
 1 REFN 1443f8de-a594-422d-9fe4-f5da4b788c2a
 0 @M68@ OBJE
+1 _GUID 23f936e2-49da-409d-a0a9-2c27f8af0c1f
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Taylorson Media
 2 CONC \England & Wales, FreeBMD Death Index, 1837-1915(9).jpg
 2 FORM jpg
 2 TITL England & Wales, FreeBMD Death Index, 1837-1915
 1 REFN 84f2deb1-377a-468d-8c78-949a3d505752
 0 @M69@ OBJE
+1 _GUID 3bd9b458-3aa4-412a-8918-d140e3c95bb5
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Taylorson Media
 2 CONC \England & Wales, FreeBMD Death Index, 1837-1915(8).jpg
 2 FORM jpg
 2 TITL England & Wales, FreeBMD Death Index, 1837-1915
 1 REFN 22c4f112-c761-454e-a509-c897380aa937
 0 @M70@ OBJE
+1 _GUID 50074fd6-beb5-4f69-a7ea-14aa67082b3c
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Taylorson Media
 2 CONC \1841 England Census(2).jpg
 2 FORM jpg
@@ -9167,6 +9410,7 @@
 3 CONC e: 1; GSU roll: 241356
 1 REFN 2e1b3571-73b3-49db-a38f-447d612999af
 0 @M71@ OBJE
+1 _GUID bddf86f8-2ba7-455a-9655-69b5b320d490
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Taylorson Media
 2 CONC \1851 England Census(1).jpg
 2 FORM jpg
@@ -9175,6 +9419,7 @@
 3 CONC 7062
 1 REFN 7392b16a-5962-467a-af69-2016a6f4cc55
 0 @M72@ OBJE
+1 _GUID f2857e90-3f25-4f59-8a12-e0152d18a844
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Taylorson Media
 2 CONC \1861 England Census.jpg
 2 FORM jpg
@@ -9183,12 +9428,14 @@
 3 CONC 3175
 1 REFN 8a8851ae-e8db-41b2-85a5-63ddbad126d5
 0 @M73@ OBJE
+1 _GUID 5058036c-7fe3-42d0-9ccc-65d8a0520c7f
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Taylorson Media
 2 CONC \England & Wales, FreeBMD Death Index, 1837-1915(4).jpg
 2 FORM jpg
 2 TITL England & Wales, FreeBMD Death Index, 1837-1915
 1 REFN 09e3506f-47d0-4727-a42c-e1872692cd88
 0 @M74@ OBJE
+1 _GUID e960cc51-2dc5-427b-9821-e27c34049260
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Taylorson Media
 2 CONC \1871 England Census.jpg
 2 FORM jpg
@@ -9197,24 +9444,28 @@
 3 CONC 490
 1 REFN e5b82d4a-af60-4841-9a35-d541b3b09e42
 0 @M75@ OBJE
+1 _GUID 222f352e-4350-4f32-8faa-b0ac58e3302c
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Taylorson Media
 2 CONC \England & Wales, FreeBMD Death Index, 1837-1915(2).jpg
 2 FORM jpg
 2 TITL England & Wales, FreeBMD Death Index, 1837-1915
 1 REFN 7ea8418e-8597-4d56-bd18-56721d1cf0a7
 0 @M76@ OBJE
+1 _GUID a4767540-b1a3-4143-9b2f-2303b46aaa1d
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Taylorson Media
 2 CONC \Burial.jpg
 2 FORM jpg
 2 TITL Burial
 1 REFN 6202015d-f945-4928-b2da-fb1840298032
 0 @M77@ OBJE
+1 _GUID f1c539eb-c816-49d6-b9a0-2a164f3f7c48
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Taylorson Media
 2 CONC \Marriage.jpg
 2 FORM jpg
 2 TITL Marriage
 1 REFN 0d63e16d-a196-44df-ac17-b798a0d929cf
 0 @M79@ OBJE
+1 _GUID fc46e6fd-0081-461e-8195-311532ddc99c
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Taylorson Media
 2 CONC \England & Wales, Civil Registration Marriage Index, 1837-19
 2 CONC 15.jpg
@@ -9222,7 +9473,25 @@
 2 TITL England & Wales, Civil Registration Marriage Index, 1837-191
 3 CONC 5
 1 REFN 4a02c136-3dff-4738-83bd-bf7ea5682e15
+0 @M80@ OBJE
+1 _GUID 65f9ea89-0651-492e-89c2-1dde1582f48b
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Taylorson Media
+2 CONC \U.S. City Directories, 1822-1989.jpg
+2 FORM jpg
+2 TITL U.S. City Directories, 1822-1989
+1 REFN 66f97a38-b23c-4658-a53f-788e4ca950e3
+0 @M81@ OBJE
+1 _GUID 6d1f374d-2a70-4619-8db6-47465989dba9
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Taylorson Media
+2 CONC \1860 United States Federal Census(1).jpg
+2 FORM jpg
+2 TITL 1860 United States Federal Census
+2 _TEXT Year: 1860; Census Place: Corning, Steuben, New York; Roll
+3 CONC : M653_863; Page: 216; Image: 221; Family History Library Fi
+3 CONC lm: 803863
+1 REFN 7d4c7de7-2b0f-492c-a2b8-4b1aaebd9efc
 0 @M82@ OBJE
+1 _GUID a2bdf489-d608-49a4-8984-a1d3a2736aec
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Taylorson Media
 2 CONC \1870 United States Federal Census.jpg
 2 FORM jpg
@@ -9230,11 +9499,13 @@
 2 _TEXT Year: 1870; Census Place: Corning, Steuben, New York; Roll
 3 CONC : M593_1095; Page: 49A; Family History Library Film: 552594
 0 @M83@ OBJE
+1 _GUID d70be29d-de03-4f5f-88a3-941b76caefac
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Taylorson Media
 2 CONC \Baptism.jpg
 2 FORM jpg
 2 TITL Baptism
 0 @M84@ OBJE
+1 _GUID f9e03cbf-a369-4f15-9c41-f3e16ac2d4da
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Taylorson Media
 2 CONC \Grave of Robert Taylerson and Jonathan Taylerson.jpg
 2 FORM jpg
