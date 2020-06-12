@@ -14,9 +14,9 @@
 4 CONT Boston, MA 02109
 3 PHON (617) 227-6681
 1 DEST FTM
-1 FILE rollo_research_2020-06-10-21-36-39.ftm.ged
-1 DATE 10 JUN 2020
-2 TIME 21:34:29
+1 FILE rollo_research_2020-06-12-02-55-48.ftm.ged
+1 DATE 12 JUN 2020
+2 TIME 02:53:17
 0 @Umy2qBWIRUiwVSS6Hcn4@ SUBM
 1 NAME Christopher Alan Mosher
 2 EMAIL cmosher01@@gmail.com
@@ -229,7 +229,6 @@
 1 REFN d50de5dd-d1db-4d23-92c3-2ee4112cb367
 1 NAME Joseph /Byram/
 2 SOUR @S1@
-3 PAGE Iowa, State Census Collection, 1836-1925 Record
 3 OBJE @M13@
 3 _APID 1084:7557130
 1 NAME /Byram/
@@ -242,7 +241,6 @@
 4 LATI N42.025
 4 LONG W70.275
 2 SOUR @S1@
-3 PAGE Iowa, State Census Collection, 1836-1925 Record
 3 OBJE @M13@
 3 _APID 1084:7557130
 1 RESI
@@ -252,7 +250,6 @@
 4 LATI N43.0776
 4 LONG W91.4822
 2 SOUR @S1@
-3 PAGE Iowa, State Census Collection, 1836-1925 Record
 3 OBJE @M13@
 3 _APID 1084:7557130
 2 NOTE Marital Status: Married
@@ -836,7 +833,6 @@
 3 OBJE @M18@
 3 _APID 7667:47651793
 2 SOUR @S2@
-3 PAGE New York, State Census, 1855 Record
 3 OBJE @M3@
 3 _APID 7181:1655668870
 1 NAME /Parslow/
@@ -864,7 +860,6 @@
 3 OBJE @M18@
 3 _APID 7667:47651793
 2 SOUR @S2@
-3 PAGE New York, State Census, 1855 Record
 3 OBJE @M3@
 3 _APID 7181:1655668870
 1 RESI
@@ -882,14 +877,12 @@
 2 DATE ABT MAY 1852
 2 PLAC DeRuyter, Madison, New York, USA
 2 SOUR @S2@
-3 PAGE New York, State Census, 1855 Record
 3 OBJE @M3@
 3 _APID 7181:1655668870
 1 RESI
 2 DATE 1855
 2 PLAC DeRuyter, Madison, New York, USA
 2 SOUR @S2@
-3 PAGE New York, State Census, 1855 Record
 3 OBJE @M3@
 3 _APID 7181:1655668870
 2 NOTE Relation to Head: Head
@@ -957,7 +950,8 @@
 3 OBJE @M6@
 3 _APID 8054:7044426
 2 SOUR @S4@
-3 PAGE 1860 United States Federal Census Record
+3 PAGE Year: 1860; Census Place: De Ruyter, Madison, New York; Page
+4 CONC : 258; Family History Library Film: 803780
 3 OBJE @M5@
 3 _APID 7667:46710228
 2 SOUR @S13@
@@ -987,7 +981,8 @@
 3 OBJE @M6@
 3 _APID 8054:7044426
 2 SOUR @S4@
-3 PAGE 1860 United States Federal Census Record
+3 PAGE Year: 1860; Census Place: De Ruyter, Madison, New York; Page
+4 CONC : 258; Family History Library Film: 803780
 3 OBJE @M5@
 3 _APID 7667:46710228
 2 SOUR @S13@
@@ -1015,7 +1010,8 @@
 2 DATE 1860
 2 PLAC DeRuyter, Madison, New York, USA
 2 SOUR @S4@
-3 PAGE 1860 United States Federal Census Record
+3 PAGE Year: 1860; Census Place: De Ruyter, Madison, New York; Page
+4 CONC : 258; Family History Library Film: 803780
 3 OBJE @M5@
 3 _APID 7667:46710228
 2 NOTE Residence Post Office: De Ruyter
@@ -1092,7 +1088,6 @@
 3 OBJE @M15@
 3 _APID 7181:1655665065
 2 SOUR @S5@
-3 PAGE New York, State Census, 1865 Record
 3 OBJE @M7@
 3 _APID 7218:1863807
 2 SOUR @S14@
@@ -1121,7 +1116,6 @@
 3 OBJE @M15@
 3 _APID 7181:1655665065
 2 SOUR @S5@
-3 PAGE New York, State Census, 1865 Record
 3 OBJE @M7@
 3 _APID 7218:1863807
 2 SOUR @S14@
@@ -1161,7 +1155,6 @@
 2 DATE 1865
 2 PLAC DeRuyter, Madison, New York, USA
 2 SOUR @S5@
-3 PAGE New York, State Census, 1865 Record
 3 OBJE @M7@
 3 _APID 7218:1863807
 2 NOTE Relation to Head of House: Boarder
