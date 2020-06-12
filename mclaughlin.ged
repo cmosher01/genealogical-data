@@ -14,9 +14,9 @@
 4 CONT Boston, MA 02109
 3 PHON (617) 227-6681
 1 DEST FTM
-1 FILE McLaughlin_2020-06-12-03-27-28.ftm.ged
+1 FILE McLaughlin_2020-06-12-03-45-18.ftm.ged
 1 DATE 12 JUN 2020
-2 TIME 03:24:48
+2 TIME 03:42:37
 0 @Umy2qBWIRUiwVSS6Hcn4@ SUBM
 1 NAME Christopher Alan Mosher
 2 EMAIL cmosher01@@gmail.com
@@ -1794,6 +1794,45 @@
 3 OBJE @0Jm5zbBUQzqsp5EcwsWK@
 3 _APID 7667:48615956
 2 SOUR @yuEWiW3cScuvdxwbqXvS@
+3 DATA
+4 TEXT Page No. 70<br />
+5 CONT SCHEDULE 1. Free Inhabitants in Dix in the County of Schuyle
+5 CONC r State of New York enumerated by me, on the 26th day of Jul
+5 CONC y 1860.<br />
+5 CONT Post Office Watkins<br />
+5 CONT [...]<br />
+5 CONT [Dwelling] 568<br />
+5 CONT [Family] 574<br />
+5 CONT <table border="1">
+5 CONT <tr><td>[name</td><td>age</td><td>gender</td><td>occu</td><t
+5 CONC d>real$</td><td>persl$</td><td>birthplace]</td></tr>
+5 CONT <tr><td>William McLaughlin</td><td>29</td><td>M</td><td>Farm
+5 CONC er</td><td>840</td><td>525</td><td>Ireland</td></tr>
+5 CONT <tr><td>Hannah</td><td>50</td><td>F</td><td>&nbsp;</td><td>&
+5 CONC nbsp;</td><td>&nbsp;</td><td>"</td></tr>
+5 CONT <tr><td>Elizabeth</td><td>32</td><td>F</td><td>&nbsp;</td><t
+5 CONC d>&nbsp;</td><td>&nbsp;</td><td>"</td></tr>
+5 CONT </table>
+5 CONT [Dwelling] 569<br />
+5 CONT [Family] 575<br />
+5 CONT <table border="1">
+5 CONT <tr><td>James McLaughlin</td><td>28</td><td>M</td><td>Farmer
+5 CONC </td><td>&nbsp;</td><td>&nbsp;</td><td>"</td></tr>
+5 CONT <tr><td>Hannah McCarthy</td><td>26</td><td>F</td><td>&nbsp;<
+5 CONC /td><td>&nbsp;</td><td>&nbsp;</td><td>"</td></tr>
+5 CONT <tr><td>Ellen McLaughlin</td><td>24</td><td>F</td><td>&nbsp;
+5 CONC </td><td>&nbsp;</td><td>&nbsp;</td><td>"</td></tr>
+5 CONT <tr><td>Charles</td><td>22</td><td>M</td><td>farm laborer</t
+5 CONC d><td>&nbsp;</td><td>&nbsp;</td><td>"</td></tr>
+5 CONT <tr><td>Anna</td><td>18</td><td>F</td><td>&nbsp;</td><td>&nb
+5 CONC sp;</td><td>&nbsp;</td><td>"</td></tr>
+5 CONT <tr><td>Hannah McGinly</td><td>5</td><td>F</td><td>&nbsp;</t
+5 CONC d><td>&nbsp;</td><td>&nbsp;</td><td>New York</td></tr>
+5 CONT <tr><td>Charles McCarthy</td><td>2</td><td>M</td><td>&nbsp;<
+5 CONC /td><td>&nbsp;</td><td>&nbsp;</td><td>"</td></tr>
+5 CONT <tr><td>James</td><td>7/12</td><td>M</td><td>&nbsp;</td><td>
+5 CONC &nbsp;</td><td>&nbsp;</td><td>"</td></tr>
+5 CONT </table>
 2 NOTE Age: 50
 1 DEAT
 2 DATE 20 NOV 1861
@@ -2015,6 +2054,39 @@
 3 _APID 60525:115613980
 2 SOUR @0VVQ8i0xTuG0p9aveWFA@
 3 QUAY 1
+3 DATA
+4 TEXT dwelling #69<br />
+5 CONT family# 70<br />
+5 CONT last-name,first-name,relation,race,sex,birth,age,mard/sing,y
+5 CONC rs-msrd,child,child-live,born,father-born,mother-born,immig,
+5 CONC yrs-in-US,natural,occu,read/write<br />
+5 CONT McLaughlin, Wm, Head, W, M, May 1821, 79, M, 39, , , Ireland
+5 CONC , Ireland, Ireland, 1857, 49, NA, farmer, RW<br />
+5 CONT -, Margeret, Wife, W, F, May 1835, 65, M, 39, 10, 9, Ireland
+5 CONC , Ireland, Ireland, 1857, 42, , , RW<br />
+5 CONT -, William P, son, W, M, May 1866, 34, M, 0, , , NY, ", "
+5 CONC , , , , farmer, RW<br />
+5 CONT -, Bridget, dau-in-law, W, F, Sept 1873, 26, M, 0, 0, 0, Ire
+5 CONC land, Ireland, Ireland, 1889, 10, , , RW<br />
+5 CONT -, Thomas, son, W, M, Jan 1869, 31, S, , , , NY, ", "
+5 CONC , , , , carpenter, RW<br />
+5 CONT -, Frank, son, W, M, Aug 1873, 26, S, , , , NY, ", "
+5 CONC , , , , own mort farm farmer, RW<br />
+5 CONT dwelling #70<br />
+5 CONT family# 71<br />
+5 CONT last-name,first-name,relation,race,sex,birth,age,mard/sing,y
+5 CONC rs-msrd,child,child-live,born,father-born,mother-born,occu<b
+5 CONC r />
+5 CONT Harrison, Henry F, Head, W, M, May 1840, 60, M, , , , NY, NY
+5 CONC , NY, own free farm farmer<br />
+5 CONT -, Elmer, son, W, M, Nov 1873, 26, M, 2, , , NY, NY, NY, far
+5 CONC m laborer<br />
+5 CONT -, M. Annie, dau in law, W, F, Jul 1870, 29, M, 2, 11, , NY
+5 CONC , Ireland, Ireland<br />
+5 CONT -, Walter E, gran'son, Jan 1900, 5/12, S, , , , NY, NY, NY<b
+5 CONC r />
+5 CONT Kniffin, James C., servant, W, M, Feb 1886, 14, S, , , , NY
+5 CONC , NY, NY, at school 4 mos
 2 NOTE gravestone gives 1 Jun 1835, Donegal
 1 IMMI
 2 DATE 1857
@@ -2026,6 +2098,39 @@
 3 _APID 7602:56735660
 2 SOUR @0VVQ8i0xTuG0p9aveWFA@
 3 QUAY 1
+3 DATA
+4 TEXT dwelling #69<br />
+5 CONT family# 70<br />
+5 CONT last-name,first-name,relation,race,sex,birth,age,mard/sing,y
+5 CONC rs-msrd,child,child-live,born,father-born,mother-born,immig,
+5 CONC yrs-in-US,natural,occu,read/write<br />
+5 CONT McLaughlin, Wm, Head, W, M, May 1821, 79, M, 39, , , Ireland
+5 CONC , Ireland, Ireland, 1857, 49, NA, farmer, RW<br />
+5 CONT -, Margeret, Wife, W, F, May 1835, 65, M, 39, 10, 9, Ireland
+5 CONC , Ireland, Ireland, 1857, 42, , , RW<br />
+5 CONT -, William P, son, W, M, May 1866, 34, M, 0, , , NY, ", "
+5 CONC , , , , farmer, RW<br />
+5 CONT -, Bridget, dau-in-law, W, F, Sept 1873, 26, M, 0, 0, 0, Ire
+5 CONC land, Ireland, Ireland, 1889, 10, , , RW<br />
+5 CONT -, Thomas, son, W, M, Jan 1869, 31, S, , , , NY, ", "
+5 CONC , , , , carpenter, RW<br />
+5 CONT -, Frank, son, W, M, Aug 1873, 26, S, , , , NY, ", "
+5 CONC , , , , own mort farm farmer, RW<br />
+5 CONT dwelling #70<br />
+5 CONT family# 71<br />
+5 CONT last-name,first-name,relation,race,sex,birth,age,mard/sing,y
+5 CONC rs-msrd,child,child-live,born,father-born,mother-born,occu<b
+5 CONC r />
+5 CONT Harrison, Henry F, Head, W, M, May 1840, 60, M, , , , NY, NY
+5 CONC , NY, own free farm farmer<br />
+5 CONT -, Elmer, son, W, M, Nov 1873, 26, M, 2, , , NY, NY, NY, far
+5 CONC m laborer<br />
+5 CONT -, M. Annie, dau in law, W, F, Jul 1870, 29, M, 2, 11, , NY
+5 CONC , Ireland, Ireland<br />
+5 CONT -, Walter E, gran'son, Jan 1900, 5/12, S, , , , NY, NY, NY<b
+5 CONC r />
+5 CONT Kniffin, James C., servant, W, M, Feb 1886, 14, S, , , , NY
+5 CONC , NY, NY, at school 4 mos
 1 RESI
 2 DATE 01 JUN 1860
 2 PLAC Reading, Schuyler, New York, USA
@@ -2039,6 +2144,27 @@
 3 OBJE @nvb8CuTNTjKRWtFkiAbM@
 3 _APID 7667:48588926
 2 SOUR @98UuyDryS9OVRI6rs8y5@
+3 DATA
+4 TEXT Page No. 18<br />
+5 CONT SCHEDULE 1.--Free Inhabitants in the town of Reading in th
+5 CONC e County of Schuyler State of New York enumerated by me, o
+5 CONC n the 9th day of August 1860.<br />
+5 CONT Post Office Orange<br />
+5 CONT [...]<br />
+5 CONT [Dwelling] 1102<br />
+5 CONT [Family] 1129<br />
+5 CONT <table border="1">
+5 CONT <tr><td>[name</td><td>age</td><td>gender</td><td>occu</td><t
+5 CONC d>real$</td><td>persl$</td><td>birthplace]</td></tr>
+5 CONT <tr><td>William Diven</td><td>71</td><td>M</td><td>D[itt]o [
+5 CONC farmer]</td><td>5000</td><td>1560</td><td>Penn</td></tr>
+5 CONT <tr><td>Mary A. "</td><td>52</td><td>F</td><td>&nbsp;</td><t
+5 CONC d>&nbsp;</td><td>&nbsp;</td><td>N.Y.</td></tr>
+5 CONT <tr><td>Maria A "</td><td>14</td><td>F</td><td>&nbsp;</td><t
+5 CONC d>&nbsp;</td><td>&nbsp;</td><td>"</td></tr>
+5 CONT <tr><td>Margaret Dougherty</td><td>25</td><td>F</td><td>Dome
+5 CONC stic</td><td>&nbsp;</td><td>&nbsp;</td><td>Ireland</td></tr>
+5 CONT </table>
 2 NOTE Age: 25
 1 RESI
 2 DATE APR 1861
@@ -2056,6 +2182,62 @@
 3 OBJE @wJaZdqzJSDuNkXUe0ibY@
 3 _APID 7218:716497
 2 SOUR @EN0e5E9qRzetfuaNWGkV@
+3 DATA
+4 TEXT <table border="1">
+5 CONT <thead>
+5 CONT <tr><th>visitation</th><th>material built</th><th>Value</th>
+5 CONC <th>Family</th><th colspan="2">Name</th><th>Age.</th><th>Sex
+5 CONC .</th><th>Color</th><th>Relation</th><th>born</th><th>childr
+5 CONC en</th><th>times married</th><th>married</th><th>widowed</th
+5 CONC ><th>single</th><th>occupation</th><th>employment if out o
+5 CONC f town</th><th>Native</th><th>Naturalized</th><th>Alien</th>
+5 CONC <th>Colored</th><th>Owner of land</th><th>not able to read/w
+5 CONC rite</th><th>deaf, dumb...</th><th>army</th><th>navy</th><th
+5 CONC >former army</th><th>former navy</th></tr>
+5 CONT </thead>
+5 CONT <tbody>
+5 CONT <tr><td>67</td><td>Frame</td><td>$200</td><td>67</td><td>Wil
+5 CONC liam</td><td>McLaughlin</td><td>40</td><td>M</td><td>&nbsp;<
+5 CONC /td><td>&nbsp;</td><td>Ireland</td><td>&nbsp;</td><td>1</td>
+5 CONC <td>1</td><td>&nbsp;</td><td>&nbsp;</td><td>Soldier</td><td>
+5 CONC &nbsp;</td><td>&nbsp;</td><td>1</td><td>&nbsp;</td><td>&nbsp
+5 CONC ;</td><td>1</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td
+5 CONC ><td>&nbsp;</td><td>1</td><td>&nbsp;</td></tr>
+5 CONT <tr><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;<
+5 CONC /td><td>Margaret</td><td>McLaughlin</td><td>34</td><td>F</td
+5 CONC ><td>&nbsp;</td><td>Wife</td><td>&quot; &quot;</td><td>3</td
+5 CONC ><td>1</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>
+5 CONC &nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>
+5 CONC &nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>
+5 CONC &nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>
+5 CONC &nbsp;</td></tr>
+5 CONT <tr><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;<
+5 CONC /td><td>Charles</td><td>McLaughlin</td><td>4</td><td>M</td><
+5 CONC td>&nbsp;</td><td>Child</td><td>Steuben</td><td>&nbsp;</td><
+5 CONC td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><
+5 CONC td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><
+5 CONC td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><
+5 CONC td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><
+5 CONC td>&nbsp;</td></tr>
+5 CONT <tr><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;<
+5 CONC /td><td>James</td><td>McLaughlin</td><td>2 <sup>3</sup>&fras
+5 CONC l;<sub>12</sub></td><td>M</td><td>&nbsp;</td><td>&quot; &quo
+5 CONC t;</td><td>&quot; &quot;</td><td>&nbsp;</td><td>&nbsp;</td><
+5 CONC td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><
+5 CONC td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><
+5 CONC td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><
+5 CONC td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><
+5 CONC /tr>
+5 CONT <tr><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;<
+5 CONC /td><td>George</td><td>McLaughlin</td><td>1</td><td>M</td><t
+5 CONC d>&nbsp;</td><td>&quot; &quot;</td><td>&quot; &quot;</td><td
+5 CONC >&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td
+5 CONC >&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td
+5 CONC >&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td
+5 CONC >&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td
+5 CONC >&nbsp;</td><td>&nbsp;</td></tr>
+5 CONT </tbody>
+5 CONT </table>
 2 NOTE Relation to Head of House: Wife
 1 RESI
 2 DATE 01 JUN 1870
@@ -2070,6 +2252,76 @@
 3 OBJE @lRGm7wHXSuWcFcZLYnH3@
 3 _APID 7163:32338608
 2 SOUR @XHbynk1vRyWlvMJITFAn@
+3 DATA
+4 TEXT [AIS page 218]<br />
+5 CONT Page No. 13<br />
+5 CONT SCHEDULE 1.--Inhabitants in Hornby, in the County of Steuben
+5 CONC , State of New York, enumerated by me on the 29th day of Jun
+5 CONC e, 1870.<br />
+5 CONT [...]<br />
+5 CONT [Dwelling] 123<br />
+5 CONT [Family] 111<br />
+5 CONT <table border="1">
+5 CONT <tr><td>McLantghelin, W.</td><td>45</td><td>M</td><td>W</td>
+5 CONC <td>Farmer</td><td>2,500</td><td>600</td><td>Ireland</td><td
+5 CONC >[ffb]</td><td>[mfb]</td><td>&nbsp;</td><td>[cread]</td><td>
+5 CONC &nbsp;</td></tr>
+5 CONT <tr><td>-- Margaret</td><td>37</td><td>F</td><td>W</td><td>K
+5 CONC eeping house</td><td>&nbsp;</td><td>&nbsp;</td><td>d[itt]o</
+5 CONC td><td>[ffb]</td><td>[mfb]</td><td>&nbsp;</td><td>[cread]</t
+5 CONC d><td>[cwrite]</td></tr>
+5 CONT <tr><td>-- Charles</td><td>8</td><td>M</td><td>W</td><td>&nb
+5 CONC sp;</td><td>&nbsp;</td><td>&nbsp;</td><td>d[itt]o</td><td>[f
+5 CONC fb]</td><td>[mfb]</td><td>[school]</td><td>[cread]</td><td>&
+5 CONC nbsp;</td></tr>
+5 CONT <tr><td>-- James</td><td>7</td><td>M</td><td>W</td><td>&nbsp
+5 CONC ;</td><td>&nbsp;</td><td>&nbsp;</td><td>New York</td><td>[ff
+5 CONC b]</td><td>[mfb]</td><td>[school]</td><td>[cread]</td><td>&n
+5 CONC bsp;</td></tr>
+5 CONT <tr><td>-- George</td><td>6</td><td>M</td><td>W</td><td>&nbs
+5 CONC p;</td><td>&nbsp;</td><td>&nbsp;</td><td>d[itt]o</td><td>[ff
+5 CONC b]</td><td>[mfb]</td><td>[school]</td><td>[cread]</td><td>&n
+5 CONC bsp;</td></tr>
+5 CONT <tr><td>-- Wiliam</td><td>4</td><td>M</td><td>W</td><td>&nbs
+5 CONC p;</td><td>&nbsp;</td><td>&nbsp;</td><td>d[itt]o</td><td>[ff
+5 CONC b]</td><td>[mfb]</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp
+5 CONC ;</td></tr>
+5 CONT <tr><td>-- Daniel</td><td>2</td><td>M</td><td>W</td><td>&nbs
+5 CONC p;</td><td>&nbsp;</td><td>&nbsp;</td><td>d[itt]o</td><td>[ff
+5 CONC b]</td><td>[mfb]</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp
+5 CONC ;</td></tr>
+5 CONT <tr><td>-- Thomas</td><td>1</td><td>M</td><td>W</td><td>&nbs
+5 CONC p;</td><td>&nbsp;</td><td>&nbsp;</td><td>d[itt]o</td><td>[ff
+5 CONC b]</td><td>[mfb]</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp
+5 CONC ;</td></tr>
+5 CONT </table>
+5 CONT [Dwelling] 124<br />
+5 CONT [Family] 112<br />
+5 CONT <table border="1">
+5 CONT <tr><td>Harrison H F</td><td>30</td><td>M</td><td>W</td><td>
+5 CONC Farmer</td><td>2,000</td><td>500</td><td>New York</td><td>&n
+5 CONC bsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>[cread]</td><td>[
+5 CONC cwrite]</td></tr>
+5 CONT <tr><td>-- Mary</td><td>61</td><td>F</td><td>W</td><td>Keepi
+5 CONC ng house</td><td>&nbsp;</td><td>&nbsp;</td><td>d[itt]o</td><
+5 CONC td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>[cread]</td>
+5 CONC <td>[cwrite]</td></tr>
+5 CONT </table>
+5 CONT [AIS page 219]<br />
+5 CONT Page No. 14<br />
+5 CONT SCHEDULE 1.--Inhabitants in Hornby, in the County of Steuben
+5 CONC , State of New York, enumerated by me on the 29th day of Jun
+5 CONC e, 1870.<br />
+5 CONT [...]<br />
+5 CONT <table border="1">
+5 CONT <tr><td>Harrison Sarah</td><td>22</td><td>F</td><td>W</td><t
+5 CONC d>House keeping</td><td>&nbsp;</td><td>&nbsp;</td><td>New Yo
+5 CONC rk</td><td>&nbsp;</td><td>[cread]</td><td>[cwrite]</td></tr>
+5 CONT </table>
+5 CONT [ffb = father was of foreign birth<br />
+5 CONT mfb = mother was of foreign birth,<br />
+5 CONT cread = cannot read<br />
+5 CONT cwrite = cannot write]<br />
 2 NOTE Age: 37; Census Post Office: Hornby
 1 RESI
 2 DATE 01 JUN 1875
@@ -2094,6 +2346,67 @@
 3 OBJE @yL4luUa4SnGeXtUjDYcL@
 3 _APID 6742:4066196
 2 SOUR @pzS3cyb7RDaOk3XQGybM@
+3 DATA
+4 TEXT dwelling #117<br />
+5 CONT family #118<br />
+5 CONT [all white]<br />
+5 CONT <table border="1">
+5 CONT <tr><td>last</td><td>given</td><td>gen</td><td>age</td><td>r
+5 CONC el</td><td>s/m/w</td><td>occ</td><td>b</td><td>fb</td><td>mb
+5 CONC </td></tr>
+5 CONT <tr><td>Harrison</td><td>Henry F</td><td>M</td><td>40</td><t
+5 CONC d>&nbsp;</td><td>m</td><td>farming</td><td>NY</td><td>NY</td
+5 CONC ><td>NY</td></tr>
+5 CONT <tr><td>"</td><td>Hannah</td><td>F</td><td>28</td><td>wife</
+5 CONC td><td>m</td><td>keeping house</td><td>NY</td><td>England</t
+5 CONC d><td>England</td></tr>
+5 CONT <tr><td>"</td><td>George E</td><td>M</td><td>6</td><td>son</
+5 CONC td><td>s</td><td>&nbsp;</td><td>NY</td><td>NY</td><td>NY</td
+5 CONC ></tr>
+5 CONT <tr><td>"</td><td>Mary E</td><td>F</td><td>71</td><td>mother
+5 CONC </td><td>w</td><td>at home</td><td>NY</td><td>NY</td><td>Con
+5 CONC n</td></tr>
+5 CONT </table>
+5 CONT dwelling #118<br />
+5 CONT family #119<br />
+5 CONT <table border="1">
+5 CONT <tr><td>McLaughlin</td><td>William</td><td>M</td><td>52</td>
+5 CONC <td>&nbsp;</td><td>m</td><td>farming</td><td>Ire</td><td>Ire
+5 CONC </td><td>Ire</td></tr>
+5 CONT <tr><td>"</td><td>Margaret</td><td>F</td><td>43</td><td>wife
+5 CONC </td><td>m</td><td>keeping house</td><td>NY</td><td>Ire</td>
+5 CONC <td>Ire</td></tr>
+5 CONT <tr><td>"</td><td>Charles</td><td>M</td><td>18</td><td>son</
+5 CONC td><td>s</td><td>labors on farm</td><td>NY</td><td>Ire</td><
+5 CONC td>Ire</td></tr>
+5 CONT <tr><td>"</td><td>James</td><td>M</td><td>17</td><td>son</td
+5 CONC ><td>s</td><td>labors on farm</td><td>NY</td><td>Ire</td><td
+5 CONC >Ire</td></tr>
+5 CONT <tr><td>"</td><td>George</td><td>M</td><td>16</td><td>son</t
+5 CONC d><td>s</td><td>labors on farm</td><td>NY</td><td>Ire</td><t
+5 CONC d>Ire</td></tr>
+5 CONT <tr><td>"</td><td>William</td><td>M</td><td>14</td><td>son</
+5 CONC td><td>s</td><td>labors on farm</td><td>NY</td><td>Ire</td><
+5 CONC td>Ire</td></tr>
+5 CONT <tr><td>"</td><td>Daniel</td><td>M</td><td>12</td><td>son</t
+5 CONC d><td>s</td><td>labors on farm</td><td>NY</td><td>Ire</td><t
+5 CONC d>Ire</td></tr>
+5 CONT <tr><td>"</td><td>Thomas</td><td>M</td><td>10</td><td>son</t
+5 CONC d><td>s</td><td>labors on farm</td><td>NY</td><td>Ire</td><t
+5 CONC d>Ire</td></tr>
+5 CONT <tr><td>"</td><td>Mary Ann</td><td>F</td><td>9</td><td>dau</
+5 CONC td><td>s</td><td>&nbsp;</td><td>NY</td><td>NY</td><td>Ire</t
+5 CONC d></tr>
+5 CONT <tr><td>"</td><td>Hannah</td><td>F</td><td>8</td><td>dau</td
+5 CONC ><td>s</td><td>&nbsp;</td><td>NY</td><td>Ire</td><td>Ire</td
+5 CONC ></tr>
+5 CONT <tr><td>"</td><td>Francis</td><td>F</td><td>6</td><td>son</t
+5 CONC d><td>s</td><td>&nbsp;</td><td>NY</td><td>Ire</td><td>Ire</t
+5 CONC d></tr>
+5 CONT <tr><td>"</td><td>Catherine J.</td><td>F</td><td>4</td><td>d
+5 CONC au</td><td>s</td><td>&nbsp;</td><td>NY</td><td>Ire</td><td>I
+5 CONC re</td></tr>
+5 CONT </table>
 2 NOTE Age: 43; Marital Status: Married; Relation to Head of House
 3 CONC : Wife
 1 RESI
@@ -2106,6 +2419,57 @@
 3 OBJE @LbIqjIkPT6unhzRXeyGN@
 3 _APID 3212:294915
 2 SOUR @X52okFSjQVGrzZVhB8AG@
+3 DATA
+4 TEXT <table border="1">
+5 CONT <thead>
+5 CONT <tr><th colspan="2">NAME.</th><th>Male or Female.</th><th>AG
+5 CONC E.</th><th>Color.</th><th>IN WHAT COUNTRY BORN.</th><th>Citz
+5 CONC en or Alien.</th><th>OCCUPATION.</th></tr>
+5 CONT </thead>
+5 CONT <tbody>
+5 CONT <tr><td>William</td><td>M<sup>c</sup>Laughlin</td><td>m</td>
+5 CONC <td>67</td><td>&nbsp;</td><td>Ireland</td><td>c</td><td>Farm
+5 CONC er</td></tr>
+5 CONT <tr><td>Margaret</td><td>M<sup>c</sup>Laughlin</td><td>f</td
+5 CONC ><td>60</td><td>&nbsp;</td><td>&quot;</td><td>c</td><td>&nbs
+5 CONC p;</td></tr>
+5 CONT <tr><td>James W.</td><td>M<sup>c</sup>Laughlin</td><td>m</td
+5 CONC ><td>30</td><td>&nbsp;</td><td>U.S.</td><td>c</td><td>Carpen
+5 CONC ter &amp; Joiner</td></tr>
+5 CONT <tr><td>George E.</td><td>M<sup>c</sup>Laughlin</td><td>m</t
+5 CONC d><td>28</td><td>&nbsp;</td><td>U.S.</td><td>c</td><td>&quot
+5 CONC ;</td></tr>
+5 CONT <tr><td>William P.</td><td>M<sup>c</sup>Laughlin</td><td>m</
+5 CONC td><td>27</td><td>&nbsp;</td><td>U.S.</td><td>c</td><td>&quo
+5 CONC t;</td></tr>
+5 CONT <tr><td>Daniel J.</td><td>M<sup>c</sup>Laughlin</td><td>m</t
+5 CONC d><td>25</td><td>&nbsp;</td><td>U.S.</td><td>c</td><td>Farme
+5 CONC r</td></tr>
+5 CONT <tr><td>Thomas F.</td><td>M<sup>c</sup>Laughlin</td><td>m</t
+5 CONC d><td>24</td><td>&nbsp;</td><td>U.S.</td><td>c</td><td>&quot
+5 CONC ;</td></tr>
+5 CONT <tr><td>Framcis J.</td><td>M<sup>c</sup>Laughlin</td><td>m</
+5 CONC td><td>19</td><td>&nbsp;</td><td>U.S.</td><td>c</td><td>&nbs
+5 CONC p;</td></tr>
+5 CONT <tr><td>Mary A.</td><td>M<sup>c</sup>Laughlin</td><td>f</td>
+5 CONC <td>22</td><td>&nbsp;</td><td>U.S.</td><td>c</td><td>&nbsp;<
+5 CONC /td></tr>
+5 CONT <tr><td>Catherine J.</td><td>M<sup>c</sup>Laughlin</td><td>f
+5 CONC </td><td>16</td><td>&nbsp;</td><td>U.S.</td><td>c</td><td>&n
+5 CONC bsp;</td></tr>
+5 CONT <tr><td colspan="8">[...]</td></tr>
+5 CONT <tr><td>Henry F.</td><td>Harrison</td><td>m</td><td>52</td><
+5 CONC td>&nbsp;</td><td>U.S.</td><td>c</td><td>Farmer</td></tr>
+5 CONT <tr><td>Hannah L.</td><td>Harrison</td><td>f</td><td>40</td>
+5 CONC <td>&nbsp;</td><td>U.S.</td><td>c</td><td>&nbsp;</td></tr>
+5 CONT <tr><td>G. Elmer</td><td>Harrison</td><td>m</td><td>19</td><
+5 CONC td>&nbsp;</td><td>U.S.</td><td>c</td><td>&nbsp;</td></tr>
+5 CONT <tr><td>Mary</td><td>Rosier</td><td>f</td><td>9</td><td>&nbs
+5 CONC p;</td><td>U.S.</td><td>c</td><td>&nbsp;</td></tr>
+5 CONT <tr><td>Mary E.</td><td>Harrison</td><td>f</td><td>83</td><t
+5 CONC d>&nbsp;</td><td>U.S.</td><td>c</td><td>&nbsp;</td></tr>
+5 CONT </tbody>
+5 CONT </table>
 2 NOTE Age: 60
 1 RESI
 2 DATE 01 JUN 1900
@@ -2120,6 +2484,39 @@
 3 OBJE @M169@
 3 _APID 7602:56735660
 2 SOUR @0VVQ8i0xTuG0p9aveWFA@
+3 DATA
+4 TEXT dwelling #69<br />
+5 CONT family# 70<br />
+5 CONT last-name,first-name,relation,race,sex,birth,age,mard/sing,y
+5 CONC rs-msrd,child,child-live,born,father-born,mother-born,immig,
+5 CONC yrs-in-US,natural,occu,read/write<br />
+5 CONT McLaughlin, Wm, Head, W, M, May 1821, 79, M, 39, , , Ireland
+5 CONC , Ireland, Ireland, 1857, 49, NA, farmer, RW<br />
+5 CONT -, Margeret, Wife, W, F, May 1835, 65, M, 39, 10, 9, Ireland
+5 CONC , Ireland, Ireland, 1857, 42, , , RW<br />
+5 CONT -, William P, son, W, M, May 1866, 34, M, 0, , , NY, ", "
+5 CONC , , , , farmer, RW<br />
+5 CONT -, Bridget, dau-in-law, W, F, Sept 1873, 26, M, 0, 0, 0, Ire
+5 CONC land, Ireland, Ireland, 1889, 10, , , RW<br />
+5 CONT -, Thomas, son, W, M, Jan 1869, 31, S, , , , NY, ", "
+5 CONC , , , , carpenter, RW<br />
+5 CONT -, Frank, son, W, M, Aug 1873, 26, S, , , , NY, ", "
+5 CONC , , , , own mort farm farmer, RW<br />
+5 CONT dwelling #70<br />
+5 CONT family# 71<br />
+5 CONT last-name,first-name,relation,race,sex,birth,age,mard/sing,y
+5 CONC rs-msrd,child,child-live,born,father-born,mother-born,occu<b
+5 CONC r />
+5 CONT Harrison, Henry F, Head, W, M, May 1840, 60, M, , , , NY, NY
+5 CONC , NY, own free farm farmer<br />
+5 CONT -, Elmer, son, W, M, Nov 1873, 26, M, 2, , , NY, NY, NY, far
+5 CONC m laborer<br />
+5 CONT -, M. Annie, dau in law, W, F, Jul 1870, 29, M, 2, 11, , NY
+5 CONC , Ireland, Ireland<br />
+5 CONT -, Walter E, gran'son, Jan 1900, 5/12, S, , , , NY, NY, NY<b
+5 CONC r />
+5 CONT Kniffin, James C., servant, W, M, Feb 1886, 14, S, , , , NY
+5 CONC , NY, NY, at school 4 mos
 2 NOTE Age: 65; Marital Status: Married; Relation to Head of House
 3 CONC : Wife
 2 NOTE Marital Status: Married; Relation to Head: Wife
@@ -6253,6 +6650,67 @@
 3 _APID 6482:14658570
 2 SOUR @pzS3cyb7RDaOk3XQGybM@
 3 QUAY 1
+3 DATA
+4 TEXT dwelling #117<br />
+5 CONT family #118<br />
+5 CONT [all white]<br />
+5 CONT <table border="1">
+5 CONT <tr><td>last</td><td>given</td><td>gen</td><td>age</td><td>r
+5 CONC el</td><td>s/m/w</td><td>occ</td><td>b</td><td>fb</td><td>mb
+5 CONC </td></tr>
+5 CONT <tr><td>Harrison</td><td>Henry F</td><td>M</td><td>40</td><t
+5 CONC d>&nbsp;</td><td>m</td><td>farming</td><td>NY</td><td>NY</td
+5 CONC ><td>NY</td></tr>
+5 CONT <tr><td>"</td><td>Hannah</td><td>F</td><td>28</td><td>wife</
+5 CONC td><td>m</td><td>keeping house</td><td>NY</td><td>England</t
+5 CONC d><td>England</td></tr>
+5 CONT <tr><td>"</td><td>George E</td><td>M</td><td>6</td><td>son</
+5 CONC td><td>s</td><td>&nbsp;</td><td>NY</td><td>NY</td><td>NY</td
+5 CONC ></tr>
+5 CONT <tr><td>"</td><td>Mary E</td><td>F</td><td>71</td><td>mother
+5 CONC </td><td>w</td><td>at home</td><td>NY</td><td>NY</td><td>Con
+5 CONC n</td></tr>
+5 CONT </table>
+5 CONT dwelling #118<br />
+5 CONT family #119<br />
+5 CONT <table border="1">
+5 CONT <tr><td>McLaughlin</td><td>William</td><td>M</td><td>52</td>
+5 CONC <td>&nbsp;</td><td>m</td><td>farming</td><td>Ire</td><td>Ire
+5 CONC </td><td>Ire</td></tr>
+5 CONT <tr><td>"</td><td>Margaret</td><td>F</td><td>43</td><td>wife
+5 CONC </td><td>m</td><td>keeping house</td><td>NY</td><td>Ire</td>
+5 CONC <td>Ire</td></tr>
+5 CONT <tr><td>"</td><td>Charles</td><td>M</td><td>18</td><td>son</
+5 CONC td><td>s</td><td>labors on farm</td><td>NY</td><td>Ire</td><
+5 CONC td>Ire</td></tr>
+5 CONT <tr><td>"</td><td>James</td><td>M</td><td>17</td><td>son</td
+5 CONC ><td>s</td><td>labors on farm</td><td>NY</td><td>Ire</td><td
+5 CONC >Ire</td></tr>
+5 CONT <tr><td>"</td><td>George</td><td>M</td><td>16</td><td>son</t
+5 CONC d><td>s</td><td>labors on farm</td><td>NY</td><td>Ire</td><t
+5 CONC d>Ire</td></tr>
+5 CONT <tr><td>"</td><td>William</td><td>M</td><td>14</td><td>son</
+5 CONC td><td>s</td><td>labors on farm</td><td>NY</td><td>Ire</td><
+5 CONC td>Ire</td></tr>
+5 CONT <tr><td>"</td><td>Daniel</td><td>M</td><td>12</td><td>son</t
+5 CONC d><td>s</td><td>labors on farm</td><td>NY</td><td>Ire</td><t
+5 CONC d>Ire</td></tr>
+5 CONT <tr><td>"</td><td>Thomas</td><td>M</td><td>10</td><td>son</t
+5 CONC d><td>s</td><td>labors on farm</td><td>NY</td><td>Ire</td><t
+5 CONC d>Ire</td></tr>
+5 CONT <tr><td>"</td><td>Mary Ann</td><td>F</td><td>9</td><td>dau</
+5 CONC td><td>s</td><td>&nbsp;</td><td>NY</td><td>NY</td><td>Ire</t
+5 CONC d></tr>
+5 CONT <tr><td>"</td><td>Hannah</td><td>F</td><td>8</td><td>dau</td
+5 CONC ><td>s</td><td>&nbsp;</td><td>NY</td><td>Ire</td><td>Ire</td
+5 CONC ></tr>
+5 CONT <tr><td>"</td><td>Francis</td><td>F</td><td>6</td><td>son</t
+5 CONC d><td>s</td><td>&nbsp;</td><td>NY</td><td>Ire</td><td>Ire</t
+5 CONC d></tr>
+5 CONT <tr><td>"</td><td>Catherine J.</td><td>F</td><td>4</td><td>d
+5 CONC au</td><td>s</td><td>&nbsp;</td><td>NY</td><td>Ire</td><td>I
+5 CONC re</td></tr>
+5 CONT </table>
 1 SEX M
 1 FAMC @k3eINVMISsa7AVKKO8hC@
 1 FAMS @njEp3U6YSLqoUyt4DwYy@
@@ -7039,6 +7497,67 @@
 3 _LINK https://mosher.mine.nu/tei/genealogy/main/sources/old/mclaug
 4 CONC hlin/mclaughlin_james_gravestone.tei.xml
 2 SOUR @pzS3cyb7RDaOk3XQGybM@
+3 DATA
+4 TEXT dwelling #117<br />
+5 CONT family #118<br />
+5 CONT [all white]<br />
+5 CONT <table border="1">
+5 CONT <tr><td>last</td><td>given</td><td>gen</td><td>age</td><td>r
+5 CONC el</td><td>s/m/w</td><td>occ</td><td>b</td><td>fb</td><td>mb
+5 CONC </td></tr>
+5 CONT <tr><td>Harrison</td><td>Henry F</td><td>M</td><td>40</td><t
+5 CONC d>&nbsp;</td><td>m</td><td>farming</td><td>NY</td><td>NY</td
+5 CONC ><td>NY</td></tr>
+5 CONT <tr><td>"</td><td>Hannah</td><td>F</td><td>28</td><td>wife</
+5 CONC td><td>m</td><td>keeping house</td><td>NY</td><td>England</t
+5 CONC d><td>England</td></tr>
+5 CONT <tr><td>"</td><td>George E</td><td>M</td><td>6</td><td>son</
+5 CONC td><td>s</td><td>&nbsp;</td><td>NY</td><td>NY</td><td>NY</td
+5 CONC ></tr>
+5 CONT <tr><td>"</td><td>Mary E</td><td>F</td><td>71</td><td>mother
+5 CONC </td><td>w</td><td>at home</td><td>NY</td><td>NY</td><td>Con
+5 CONC n</td></tr>
+5 CONT </table>
+5 CONT dwelling #118<br />
+5 CONT family #119<br />
+5 CONT <table border="1">
+5 CONT <tr><td>McLaughlin</td><td>William</td><td>M</td><td>52</td>
+5 CONC <td>&nbsp;</td><td>m</td><td>farming</td><td>Ire</td><td>Ire
+5 CONC </td><td>Ire</td></tr>
+5 CONT <tr><td>"</td><td>Margaret</td><td>F</td><td>43</td><td>wife
+5 CONC </td><td>m</td><td>keeping house</td><td>NY</td><td>Ire</td>
+5 CONC <td>Ire</td></tr>
+5 CONT <tr><td>"</td><td>Charles</td><td>M</td><td>18</td><td>son</
+5 CONC td><td>s</td><td>labors on farm</td><td>NY</td><td>Ire</td><
+5 CONC td>Ire</td></tr>
+5 CONT <tr><td>"</td><td>James</td><td>M</td><td>17</td><td>son</td
+5 CONC ><td>s</td><td>labors on farm</td><td>NY</td><td>Ire</td><td
+5 CONC >Ire</td></tr>
+5 CONT <tr><td>"</td><td>George</td><td>M</td><td>16</td><td>son</t
+5 CONC d><td>s</td><td>labors on farm</td><td>NY</td><td>Ire</td><t
+5 CONC d>Ire</td></tr>
+5 CONT <tr><td>"</td><td>William</td><td>M</td><td>14</td><td>son</
+5 CONC td><td>s</td><td>labors on farm</td><td>NY</td><td>Ire</td><
+5 CONC td>Ire</td></tr>
+5 CONT <tr><td>"</td><td>Daniel</td><td>M</td><td>12</td><td>son</t
+5 CONC d><td>s</td><td>labors on farm</td><td>NY</td><td>Ire</td><t
+5 CONC d>Ire</td></tr>
+5 CONT <tr><td>"</td><td>Thomas</td><td>M</td><td>10</td><td>son</t
+5 CONC d><td>s</td><td>labors on farm</td><td>NY</td><td>Ire</td><t
+5 CONC d>Ire</td></tr>
+5 CONT <tr><td>"</td><td>Mary Ann</td><td>F</td><td>9</td><td>dau</
+5 CONC td><td>s</td><td>&nbsp;</td><td>NY</td><td>NY</td><td>Ire</t
+5 CONC d></tr>
+5 CONT <tr><td>"</td><td>Hannah</td><td>F</td><td>8</td><td>dau</td
+5 CONC ><td>s</td><td>&nbsp;</td><td>NY</td><td>Ire</td><td>Ire</td
+5 CONC ></tr>
+5 CONT <tr><td>"</td><td>Francis</td><td>F</td><td>6</td><td>son</t
+5 CONC d><td>s</td><td>&nbsp;</td><td>NY</td><td>Ire</td><td>Ire</t
+5 CONC d></tr>
+5 CONT <tr><td>"</td><td>Catherine J.</td><td>F</td><td>4</td><td>d
+5 CONC au</td><td>s</td><td>&nbsp;</td><td>NY</td><td>Ire</td><td>I
+5 CONC re</td></tr>
+5 CONT </table>
 2 NOTE Hornby, Steuben is assumed.
 1 BAPM
 2 DATE 18 MAR 1872
@@ -7066,6 +7585,67 @@
 3 OBJE @3Si1qPd6SrW0Al0ZgiVA@
 3 _APID 7250:1382758434
 2 SOUR @pzS3cyb7RDaOk3XQGybM@
+3 DATA
+4 TEXT dwelling #117<br />
+5 CONT family #118<br />
+5 CONT [all white]<br />
+5 CONT <table border="1">
+5 CONT <tr><td>last</td><td>given</td><td>gen</td><td>age</td><td>r
+5 CONC el</td><td>s/m/w</td><td>occ</td><td>b</td><td>fb</td><td>mb
+5 CONC </td></tr>
+5 CONT <tr><td>Harrison</td><td>Henry F</td><td>M</td><td>40</td><t
+5 CONC d>&nbsp;</td><td>m</td><td>farming</td><td>NY</td><td>NY</td
+5 CONC ><td>NY</td></tr>
+5 CONT <tr><td>"</td><td>Hannah</td><td>F</td><td>28</td><td>wife</
+5 CONC td><td>m</td><td>keeping house</td><td>NY</td><td>England</t
+5 CONC d><td>England</td></tr>
+5 CONT <tr><td>"</td><td>George E</td><td>M</td><td>6</td><td>son</
+5 CONC td><td>s</td><td>&nbsp;</td><td>NY</td><td>NY</td><td>NY</td
+5 CONC ></tr>
+5 CONT <tr><td>"</td><td>Mary E</td><td>F</td><td>71</td><td>mother
+5 CONC </td><td>w</td><td>at home</td><td>NY</td><td>NY</td><td>Con
+5 CONC n</td></tr>
+5 CONT </table>
+5 CONT dwelling #118<br />
+5 CONT family #119<br />
+5 CONT <table border="1">
+5 CONT <tr><td>McLaughlin</td><td>William</td><td>M</td><td>52</td>
+5 CONC <td>&nbsp;</td><td>m</td><td>farming</td><td>Ire</td><td>Ire
+5 CONC </td><td>Ire</td></tr>
+5 CONT <tr><td>"</td><td>Margaret</td><td>F</td><td>43</td><td>wife
+5 CONC </td><td>m</td><td>keeping house</td><td>NY</td><td>Ire</td>
+5 CONC <td>Ire</td></tr>
+5 CONT <tr><td>"</td><td>Charles</td><td>M</td><td>18</td><td>son</
+5 CONC td><td>s</td><td>labors on farm</td><td>NY</td><td>Ire</td><
+5 CONC td>Ire</td></tr>
+5 CONT <tr><td>"</td><td>James</td><td>M</td><td>17</td><td>son</td
+5 CONC ><td>s</td><td>labors on farm</td><td>NY</td><td>Ire</td><td
+5 CONC >Ire</td></tr>
+5 CONT <tr><td>"</td><td>George</td><td>M</td><td>16</td><td>son</t
+5 CONC d><td>s</td><td>labors on farm</td><td>NY</td><td>Ire</td><t
+5 CONC d>Ire</td></tr>
+5 CONT <tr><td>"</td><td>William</td><td>M</td><td>14</td><td>son</
+5 CONC td><td>s</td><td>labors on farm</td><td>NY</td><td>Ire</td><
+5 CONC td>Ire</td></tr>
+5 CONT <tr><td>"</td><td>Daniel</td><td>M</td><td>12</td><td>son</t
+5 CONC d><td>s</td><td>labors on farm</td><td>NY</td><td>Ire</td><t
+5 CONC d>Ire</td></tr>
+5 CONT <tr><td>"</td><td>Thomas</td><td>M</td><td>10</td><td>son</t
+5 CONC d><td>s</td><td>labors on farm</td><td>NY</td><td>Ire</td><t
+5 CONC d>Ire</td></tr>
+5 CONT <tr><td>"</td><td>Mary Ann</td><td>F</td><td>9</td><td>dau</
+5 CONC td><td>s</td><td>&nbsp;</td><td>NY</td><td>NY</td><td>Ire</t
+5 CONC d></tr>
+5 CONT <tr><td>"</td><td>Hannah</td><td>F</td><td>8</td><td>dau</td
+5 CONC ><td>s</td><td>&nbsp;</td><td>NY</td><td>Ire</td><td>Ire</td
+5 CONC ></tr>
+5 CONT <tr><td>"</td><td>Francis</td><td>F</td><td>6</td><td>son</t
+5 CONC d><td>s</td><td>&nbsp;</td><td>NY</td><td>Ire</td><td>Ire</t
+5 CONC d></tr>
+5 CONT <tr><td>"</td><td>Catherine J.</td><td>F</td><td>4</td><td>d
+5 CONC au</td><td>s</td><td>&nbsp;</td><td>NY</td><td>Ire</td><td>I
+5 CONC re</td></tr>
+5 CONT </table>
 2 NOTE Relation to Head of House: Daughter
 1 RESI
 2 DATE 1880
@@ -7950,6 +8530,67 @@
 2 SOUR @S74@
 3 _APID 60525:49771550
 2 SOUR @pzS3cyb7RDaOk3XQGybM@
+3 DATA
+4 TEXT dwelling #117<br />
+5 CONT family #118<br />
+5 CONT [all white]<br />
+5 CONT <table border="1">
+5 CONT <tr><td>last</td><td>given</td><td>gen</td><td>age</td><td>r
+5 CONC el</td><td>s/m/w</td><td>occ</td><td>b</td><td>fb</td><td>mb
+5 CONC </td></tr>
+5 CONT <tr><td>Harrison</td><td>Henry F</td><td>M</td><td>40</td><t
+5 CONC d>&nbsp;</td><td>m</td><td>farming</td><td>NY</td><td>NY</td
+5 CONC ><td>NY</td></tr>
+5 CONT <tr><td>"</td><td>Hannah</td><td>F</td><td>28</td><td>wife</
+5 CONC td><td>m</td><td>keeping house</td><td>NY</td><td>England</t
+5 CONC d><td>England</td></tr>
+5 CONT <tr><td>"</td><td>George E</td><td>M</td><td>6</td><td>son</
+5 CONC td><td>s</td><td>&nbsp;</td><td>NY</td><td>NY</td><td>NY</td
+5 CONC ></tr>
+5 CONT <tr><td>"</td><td>Mary E</td><td>F</td><td>71</td><td>mother
+5 CONC </td><td>w</td><td>at home</td><td>NY</td><td>NY</td><td>Con
+5 CONC n</td></tr>
+5 CONT </table>
+5 CONT dwelling #118<br />
+5 CONT family #119<br />
+5 CONT <table border="1">
+5 CONT <tr><td>McLaughlin</td><td>William</td><td>M</td><td>52</td>
+5 CONC <td>&nbsp;</td><td>m</td><td>farming</td><td>Ire</td><td>Ire
+5 CONC </td><td>Ire</td></tr>
+5 CONT <tr><td>"</td><td>Margaret</td><td>F</td><td>43</td><td>wife
+5 CONC </td><td>m</td><td>keeping house</td><td>NY</td><td>Ire</td>
+5 CONC <td>Ire</td></tr>
+5 CONT <tr><td>"</td><td>Charles</td><td>M</td><td>18</td><td>son</
+5 CONC td><td>s</td><td>labors on farm</td><td>NY</td><td>Ire</td><
+5 CONC td>Ire</td></tr>
+5 CONT <tr><td>"</td><td>James</td><td>M</td><td>17</td><td>son</td
+5 CONC ><td>s</td><td>labors on farm</td><td>NY</td><td>Ire</td><td
+5 CONC >Ire</td></tr>
+5 CONT <tr><td>"</td><td>George</td><td>M</td><td>16</td><td>son</t
+5 CONC d><td>s</td><td>labors on farm</td><td>NY</td><td>Ire</td><t
+5 CONC d>Ire</td></tr>
+5 CONT <tr><td>"</td><td>William</td><td>M</td><td>14</td><td>son</
+5 CONC td><td>s</td><td>labors on farm</td><td>NY</td><td>Ire</td><
+5 CONC td>Ire</td></tr>
+5 CONT <tr><td>"</td><td>Daniel</td><td>M</td><td>12</td><td>son</t
+5 CONC d><td>s</td><td>labors on farm</td><td>NY</td><td>Ire</td><t
+5 CONC d>Ire</td></tr>
+5 CONT <tr><td>"</td><td>Thomas</td><td>M</td><td>10</td><td>son</t
+5 CONC d><td>s</td><td>labors on farm</td><td>NY</td><td>Ire</td><t
+5 CONC d>Ire</td></tr>
+5 CONT <tr><td>"</td><td>Mary Ann</td><td>F</td><td>9</td><td>dau</
+5 CONC td><td>s</td><td>&nbsp;</td><td>NY</td><td>NY</td><td>Ire</t
+5 CONC d></tr>
+5 CONT <tr><td>"</td><td>Hannah</td><td>F</td><td>8</td><td>dau</td
+5 CONC ><td>s</td><td>&nbsp;</td><td>NY</td><td>Ire</td><td>Ire</td
+5 CONC ></tr>
+5 CONT <tr><td>"</td><td>Francis</td><td>F</td><td>6</td><td>son</t
+5 CONC d><td>s</td><td>&nbsp;</td><td>NY</td><td>Ire</td><td>Ire</t
+5 CONC d></tr>
+5 CONT <tr><td>"</td><td>Catherine J.</td><td>F</td><td>4</td><td>d
+5 CONC au</td><td>s</td><td>&nbsp;</td><td>NY</td><td>Ire</td><td>I
+5 CONC re</td></tr>
+5 CONT </table>
 2 SOUR @e0k10AjRSSyDnTOmeiMT@
 3 _APID 70572:7339457
 1 SEX M
@@ -8330,6 +8971,67 @@
 3 OBJE @yL4luUa4SnGeXtUjDYcL@
 3 _APID 6742:5178706
 2 SOUR @pzS3cyb7RDaOk3XQGybM@
+3 DATA
+4 TEXT dwelling #117<br />
+5 CONT family #118<br />
+5 CONT [all white]<br />
+5 CONT <table border="1">
+5 CONT <tr><td>last</td><td>given</td><td>gen</td><td>age</td><td>r
+5 CONC el</td><td>s/m/w</td><td>occ</td><td>b</td><td>fb</td><td>mb
+5 CONC </td></tr>
+5 CONT <tr><td>Harrison</td><td>Henry F</td><td>M</td><td>40</td><t
+5 CONC d>&nbsp;</td><td>m</td><td>farming</td><td>NY</td><td>NY</td
+5 CONC ><td>NY</td></tr>
+5 CONT <tr><td>"</td><td>Hannah</td><td>F</td><td>28</td><td>wife</
+5 CONC td><td>m</td><td>keeping house</td><td>NY</td><td>England</t
+5 CONC d><td>England</td></tr>
+5 CONT <tr><td>"</td><td>George E</td><td>M</td><td>6</td><td>son</
+5 CONC td><td>s</td><td>&nbsp;</td><td>NY</td><td>NY</td><td>NY</td
+5 CONC ></tr>
+5 CONT <tr><td>"</td><td>Mary E</td><td>F</td><td>71</td><td>mother
+5 CONC </td><td>w</td><td>at home</td><td>NY</td><td>NY</td><td>Con
+5 CONC n</td></tr>
+5 CONT </table>
+5 CONT dwelling #118<br />
+5 CONT family #119<br />
+5 CONT <table border="1">
+5 CONT <tr><td>McLaughlin</td><td>William</td><td>M</td><td>52</td>
+5 CONC <td>&nbsp;</td><td>m</td><td>farming</td><td>Ire</td><td>Ire
+5 CONC </td><td>Ire</td></tr>
+5 CONT <tr><td>"</td><td>Margaret</td><td>F</td><td>43</td><td>wife
+5 CONC </td><td>m</td><td>keeping house</td><td>NY</td><td>Ire</td>
+5 CONC <td>Ire</td></tr>
+5 CONT <tr><td>"</td><td>Charles</td><td>M</td><td>18</td><td>son</
+5 CONC td><td>s</td><td>labors on farm</td><td>NY</td><td>Ire</td><
+5 CONC td>Ire</td></tr>
+5 CONT <tr><td>"</td><td>James</td><td>M</td><td>17</td><td>son</td
+5 CONC ><td>s</td><td>labors on farm</td><td>NY</td><td>Ire</td><td
+5 CONC >Ire</td></tr>
+5 CONT <tr><td>"</td><td>George</td><td>M</td><td>16</td><td>son</t
+5 CONC d><td>s</td><td>labors on farm</td><td>NY</td><td>Ire</td><t
+5 CONC d>Ire</td></tr>
+5 CONT <tr><td>"</td><td>William</td><td>M</td><td>14</td><td>son</
+5 CONC td><td>s</td><td>labors on farm</td><td>NY</td><td>Ire</td><
+5 CONC td>Ire</td></tr>
+5 CONT <tr><td>"</td><td>Daniel</td><td>M</td><td>12</td><td>son</t
+5 CONC d><td>s</td><td>labors on farm</td><td>NY</td><td>Ire</td><t
+5 CONC d>Ire</td></tr>
+5 CONT <tr><td>"</td><td>Thomas</td><td>M</td><td>10</td><td>son</t
+5 CONC d><td>s</td><td>labors on farm</td><td>NY</td><td>Ire</td><t
+5 CONC d>Ire</td></tr>
+5 CONT <tr><td>"</td><td>Mary Ann</td><td>F</td><td>9</td><td>dau</
+5 CONC td><td>s</td><td>&nbsp;</td><td>NY</td><td>NY</td><td>Ire</t
+5 CONC d></tr>
+5 CONT <tr><td>"</td><td>Hannah</td><td>F</td><td>8</td><td>dau</td
+5 CONC ><td>s</td><td>&nbsp;</td><td>NY</td><td>Ire</td><td>Ire</td
+5 CONC ></tr>
+5 CONT <tr><td>"</td><td>Francis</td><td>F</td><td>6</td><td>son</t
+5 CONC d><td>s</td><td>&nbsp;</td><td>NY</td><td>Ire</td><td>Ire</t
+5 CONC d></tr>
+5 CONT <tr><td>"</td><td>Catherine J.</td><td>F</td><td>4</td><td>d
+5 CONC au</td><td>s</td><td>&nbsp;</td><td>NY</td><td>Ire</td><td>I
+5 CONC re</td></tr>
+5 CONT </table>
 1 SEX F
 1 FAMC @k3eINVMISsa7AVKKO8hC@
 1 FAMS @PSokYrI2TOykE1xyKLU9@
@@ -8412,6 +9114,67 @@
 3 PAGE Number: 096-38-2925; Issue State: New York; Issue Date: 1963
 3 _APID 3693:26938761
 2 SOUR @pzS3cyb7RDaOk3XQGybM@
+3 DATA
+4 TEXT dwelling #117<br />
+5 CONT family #118<br />
+5 CONT [all white]<br />
+5 CONT <table border="1">
+5 CONT <tr><td>last</td><td>given</td><td>gen</td><td>age</td><td>r
+5 CONC el</td><td>s/m/w</td><td>occ</td><td>b</td><td>fb</td><td>mb
+5 CONC </td></tr>
+5 CONT <tr><td>Harrison</td><td>Henry F</td><td>M</td><td>40</td><t
+5 CONC d>&nbsp;</td><td>m</td><td>farming</td><td>NY</td><td>NY</td
+5 CONC ><td>NY</td></tr>
+5 CONT <tr><td>"</td><td>Hannah</td><td>F</td><td>28</td><td>wife</
+5 CONC td><td>m</td><td>keeping house</td><td>NY</td><td>England</t
+5 CONC d><td>England</td></tr>
+5 CONT <tr><td>"</td><td>George E</td><td>M</td><td>6</td><td>son</
+5 CONC td><td>s</td><td>&nbsp;</td><td>NY</td><td>NY</td><td>NY</td
+5 CONC ></tr>
+5 CONT <tr><td>"</td><td>Mary E</td><td>F</td><td>71</td><td>mother
+5 CONC </td><td>w</td><td>at home</td><td>NY</td><td>NY</td><td>Con
+5 CONC n</td></tr>
+5 CONT </table>
+5 CONT dwelling #118<br />
+5 CONT family #119<br />
+5 CONT <table border="1">
+5 CONT <tr><td>McLaughlin</td><td>William</td><td>M</td><td>52</td>
+5 CONC <td>&nbsp;</td><td>m</td><td>farming</td><td>Ire</td><td>Ire
+5 CONC </td><td>Ire</td></tr>
+5 CONT <tr><td>"</td><td>Margaret</td><td>F</td><td>43</td><td>wife
+5 CONC </td><td>m</td><td>keeping house</td><td>NY</td><td>Ire</td>
+5 CONC <td>Ire</td></tr>
+5 CONT <tr><td>"</td><td>Charles</td><td>M</td><td>18</td><td>son</
+5 CONC td><td>s</td><td>labors on farm</td><td>NY</td><td>Ire</td><
+5 CONC td>Ire</td></tr>
+5 CONT <tr><td>"</td><td>James</td><td>M</td><td>17</td><td>son</td
+5 CONC ><td>s</td><td>labors on farm</td><td>NY</td><td>Ire</td><td
+5 CONC >Ire</td></tr>
+5 CONT <tr><td>"</td><td>George</td><td>M</td><td>16</td><td>son</t
+5 CONC d><td>s</td><td>labors on farm</td><td>NY</td><td>Ire</td><t
+5 CONC d>Ire</td></tr>
+5 CONT <tr><td>"</td><td>William</td><td>M</td><td>14</td><td>son</
+5 CONC td><td>s</td><td>labors on farm</td><td>NY</td><td>Ire</td><
+5 CONC td>Ire</td></tr>
+5 CONT <tr><td>"</td><td>Daniel</td><td>M</td><td>12</td><td>son</t
+5 CONC d><td>s</td><td>labors on farm</td><td>NY</td><td>Ire</td><t
+5 CONC d>Ire</td></tr>
+5 CONT <tr><td>"</td><td>Thomas</td><td>M</td><td>10</td><td>son</t
+5 CONC d><td>s</td><td>labors on farm</td><td>NY</td><td>Ire</td><t
+5 CONC d>Ire</td></tr>
+5 CONT <tr><td>"</td><td>Mary Ann</td><td>F</td><td>9</td><td>dau</
+5 CONC td><td>s</td><td>&nbsp;</td><td>NY</td><td>NY</td><td>Ire</t
+5 CONC d></tr>
+5 CONT <tr><td>"</td><td>Hannah</td><td>F</td><td>8</td><td>dau</td
+5 CONC ><td>s</td><td>&nbsp;</td><td>NY</td><td>Ire</td><td>Ire</td
+5 CONC ></tr>
+5 CONT <tr><td>"</td><td>Francis</td><td>F</td><td>6</td><td>son</t
+5 CONC d><td>s</td><td>&nbsp;</td><td>NY</td><td>Ire</td><td>Ire</t
+5 CONC d></tr>
+5 CONT <tr><td>"</td><td>Catherine J.</td><td>F</td><td>4</td><td>d
+5 CONC au</td><td>s</td><td>&nbsp;</td><td>NY</td><td>Ire</td><td>I
+5 CONC re</td></tr>
+5 CONT </table>
 2 SOUR @e0k10AjRSSyDnTOmeiMT@
 3 _APID 70572:409397
 2 NOTE Place is assumed.
@@ -9092,6 +9855,67 @@
 3 OBJE @yL4luUa4SnGeXtUjDYcL@
 3 _APID 6742:4066064
 2 SOUR @pzS3cyb7RDaOk3XQGybM@
+3 DATA
+4 TEXT dwelling #117<br />
+5 CONT family #118<br />
+5 CONT [all white]<br />
+5 CONT <table border="1">
+5 CONT <tr><td>last</td><td>given</td><td>gen</td><td>age</td><td>r
+5 CONC el</td><td>s/m/w</td><td>occ</td><td>b</td><td>fb</td><td>mb
+5 CONC </td></tr>
+5 CONT <tr><td>Harrison</td><td>Henry F</td><td>M</td><td>40</td><t
+5 CONC d>&nbsp;</td><td>m</td><td>farming</td><td>NY</td><td>NY</td
+5 CONC ><td>NY</td></tr>
+5 CONT <tr><td>"</td><td>Hannah</td><td>F</td><td>28</td><td>wife</
+5 CONC td><td>m</td><td>keeping house</td><td>NY</td><td>England</t
+5 CONC d><td>England</td></tr>
+5 CONT <tr><td>"</td><td>George E</td><td>M</td><td>6</td><td>son</
+5 CONC td><td>s</td><td>&nbsp;</td><td>NY</td><td>NY</td><td>NY</td
+5 CONC ></tr>
+5 CONT <tr><td>"</td><td>Mary E</td><td>F</td><td>71</td><td>mother
+5 CONC </td><td>w</td><td>at home</td><td>NY</td><td>NY</td><td>Con
+5 CONC n</td></tr>
+5 CONT </table>
+5 CONT dwelling #118<br />
+5 CONT family #119<br />
+5 CONT <table border="1">
+5 CONT <tr><td>McLaughlin</td><td>William</td><td>M</td><td>52</td>
+5 CONC <td>&nbsp;</td><td>m</td><td>farming</td><td>Ire</td><td>Ire
+5 CONC </td><td>Ire</td></tr>
+5 CONT <tr><td>"</td><td>Margaret</td><td>F</td><td>43</td><td>wife
+5 CONC </td><td>m</td><td>keeping house</td><td>NY</td><td>Ire</td>
+5 CONC <td>Ire</td></tr>
+5 CONT <tr><td>"</td><td>Charles</td><td>M</td><td>18</td><td>son</
+5 CONC td><td>s</td><td>labors on farm</td><td>NY</td><td>Ire</td><
+5 CONC td>Ire</td></tr>
+5 CONT <tr><td>"</td><td>James</td><td>M</td><td>17</td><td>son</td
+5 CONC ><td>s</td><td>labors on farm</td><td>NY</td><td>Ire</td><td
+5 CONC >Ire</td></tr>
+5 CONT <tr><td>"</td><td>George</td><td>M</td><td>16</td><td>son</t
+5 CONC d><td>s</td><td>labors on farm</td><td>NY</td><td>Ire</td><t
+5 CONC d>Ire</td></tr>
+5 CONT <tr><td>"</td><td>William</td><td>M</td><td>14</td><td>son</
+5 CONC td><td>s</td><td>labors on farm</td><td>NY</td><td>Ire</td><
+5 CONC td>Ire</td></tr>
+5 CONT <tr><td>"</td><td>Daniel</td><td>M</td><td>12</td><td>son</t
+5 CONC d><td>s</td><td>labors on farm</td><td>NY</td><td>Ire</td><t
+5 CONC d>Ire</td></tr>
+5 CONT <tr><td>"</td><td>Thomas</td><td>M</td><td>10</td><td>son</t
+5 CONC d><td>s</td><td>labors on farm</td><td>NY</td><td>Ire</td><t
+5 CONC d>Ire</td></tr>
+5 CONT <tr><td>"</td><td>Mary Ann</td><td>F</td><td>9</td><td>dau</
+5 CONC td><td>s</td><td>&nbsp;</td><td>NY</td><td>NY</td><td>Ire</t
+5 CONC d></tr>
+5 CONT <tr><td>"</td><td>Hannah</td><td>F</td><td>8</td><td>dau</td
+5 CONC ><td>s</td><td>&nbsp;</td><td>NY</td><td>Ire</td><td>Ire</td
+5 CONC ></tr>
+5 CONT <tr><td>"</td><td>Francis</td><td>F</td><td>6</td><td>son</t
+5 CONC d><td>s</td><td>&nbsp;</td><td>NY</td><td>Ire</td><td>Ire</t
+5 CONC d></tr>
+5 CONT <tr><td>"</td><td>Catherine J.</td><td>F</td><td>4</td><td>d
+5 CONC au</td><td>s</td><td>&nbsp;</td><td>NY</td><td>Ire</td><td>I
+5 CONC re</td></tr>
+5 CONT </table>
 2 NOTE Age: 9; Marital Status: Single; Relation to Head of House: D
 3 CONC aughter
 1 RESI
@@ -9104,6 +9928,57 @@
 3 OBJE @M154@
 3 _APID 3212:294922
 2 SOUR @X52okFSjQVGrzZVhB8AG@
+3 DATA
+4 TEXT <table border="1">
+5 CONT <thead>
+5 CONT <tr><th colspan="2">NAME.</th><th>Male or Female.</th><th>AG
+5 CONC E.</th><th>Color.</th><th>IN WHAT COUNTRY BORN.</th><th>Citz
+5 CONC en or Alien.</th><th>OCCUPATION.</th></tr>
+5 CONT </thead>
+5 CONT <tbody>
+5 CONT <tr><td>William</td><td>M<sup>c</sup>Laughlin</td><td>m</td>
+5 CONC <td>67</td><td>&nbsp;</td><td>Ireland</td><td>c</td><td>Farm
+5 CONC er</td></tr>
+5 CONT <tr><td>Margaret</td><td>M<sup>c</sup>Laughlin</td><td>f</td
+5 CONC ><td>60</td><td>&nbsp;</td><td>&quot;</td><td>c</td><td>&nbs
+5 CONC p;</td></tr>
+5 CONT <tr><td>James W.</td><td>M<sup>c</sup>Laughlin</td><td>m</td
+5 CONC ><td>30</td><td>&nbsp;</td><td>U.S.</td><td>c</td><td>Carpen
+5 CONC ter &amp; Joiner</td></tr>
+5 CONT <tr><td>George E.</td><td>M<sup>c</sup>Laughlin</td><td>m</t
+5 CONC d><td>28</td><td>&nbsp;</td><td>U.S.</td><td>c</td><td>&quot
+5 CONC ;</td></tr>
+5 CONT <tr><td>William P.</td><td>M<sup>c</sup>Laughlin</td><td>m</
+5 CONC td><td>27</td><td>&nbsp;</td><td>U.S.</td><td>c</td><td>&quo
+5 CONC t;</td></tr>
+5 CONT <tr><td>Daniel J.</td><td>M<sup>c</sup>Laughlin</td><td>m</t
+5 CONC d><td>25</td><td>&nbsp;</td><td>U.S.</td><td>c</td><td>Farme
+5 CONC r</td></tr>
+5 CONT <tr><td>Thomas F.</td><td>M<sup>c</sup>Laughlin</td><td>m</t
+5 CONC d><td>24</td><td>&nbsp;</td><td>U.S.</td><td>c</td><td>&quot
+5 CONC ;</td></tr>
+5 CONT <tr><td>Framcis J.</td><td>M<sup>c</sup>Laughlin</td><td>m</
+5 CONC td><td>19</td><td>&nbsp;</td><td>U.S.</td><td>c</td><td>&nbs
+5 CONC p;</td></tr>
+5 CONT <tr><td>Mary A.</td><td>M<sup>c</sup>Laughlin</td><td>f</td>
+5 CONC <td>22</td><td>&nbsp;</td><td>U.S.</td><td>c</td><td>&nbsp;<
+5 CONC /td></tr>
+5 CONT <tr><td>Catherine J.</td><td>M<sup>c</sup>Laughlin</td><td>f
+5 CONC </td><td>16</td><td>&nbsp;</td><td>U.S.</td><td>c</td><td>&n
+5 CONC bsp;</td></tr>
+5 CONT <tr><td colspan="8">[...]</td></tr>
+5 CONT <tr><td>Henry F.</td><td>Harrison</td><td>m</td><td>52</td><
+5 CONC td>&nbsp;</td><td>U.S.</td><td>c</td><td>Farmer</td></tr>
+5 CONT <tr><td>Hannah L.</td><td>Harrison</td><td>f</td><td>40</td>
+5 CONC <td>&nbsp;</td><td>U.S.</td><td>c</td><td>&nbsp;</td></tr>
+5 CONT <tr><td>G. Elmer</td><td>Harrison</td><td>m</td><td>19</td><
+5 CONC td>&nbsp;</td><td>U.S.</td><td>c</td><td>&nbsp;</td></tr>
+5 CONT <tr><td>Mary</td><td>Rosier</td><td>f</td><td>9</td><td>&nbs
+5 CONC p;</td><td>U.S.</td><td>c</td><td>&nbsp;</td></tr>
+5 CONT <tr><td>Mary E.</td><td>Harrison</td><td>f</td><td>83</td><t
+5 CONC d>&nbsp;</td><td>U.S.</td><td>c</td><td>&nbsp;</td></tr>
+5 CONT </tbody>
+5 CONT </table>
 1 RESI
 2 DATE 01 JUN 1900
 2 PLAC Hornby, Steuben, New York, USA
@@ -9117,6 +9992,39 @@
 3 OBJE @1Z2SqTbXQ96LECASGsUV@
 3 _APID 7602:56735667
 2 SOUR @0VVQ8i0xTuG0p9aveWFA@
+3 DATA
+4 TEXT dwelling #69<br />
+5 CONT family# 70<br />
+5 CONT last-name,first-name,relation,race,sex,birth,age,mard/sing,y
+5 CONC rs-msrd,child,child-live,born,father-born,mother-born,immig,
+5 CONC yrs-in-US,natural,occu,read/write<br />
+5 CONT McLaughlin, Wm, Head, W, M, May 1821, 79, M, 39, , , Ireland
+5 CONC , Ireland, Ireland, 1857, 49, NA, farmer, RW<br />
+5 CONT -, Margeret, Wife, W, F, May 1835, 65, M, 39, 10, 9, Ireland
+5 CONC , Ireland, Ireland, 1857, 42, , , RW<br />
+5 CONT -, William P, son, W, M, May 1866, 34, M, 0, , , NY, ", "
+5 CONC , , , , farmer, RW<br />
+5 CONT -, Bridget, dau-in-law, W, F, Sept 1873, 26, M, 0, 0, 0, Ire
+5 CONC land, Ireland, Ireland, 1889, 10, , , RW<br />
+5 CONT -, Thomas, son, W, M, Jan 1869, 31, S, , , , NY, ", "
+5 CONC , , , , carpenter, RW<br />
+5 CONT -, Frank, son, W, M, Aug 1873, 26, S, , , , NY, ", "
+5 CONC , , , , own mort farm farmer, RW<br />
+5 CONT dwelling #70<br />
+5 CONT family# 71<br />
+5 CONT last-name,first-name,relation,race,sex,birth,age,mard/sing,y
+5 CONC rs-msrd,child,child-live,born,father-born,mother-born,occu<b
+5 CONC r />
+5 CONT Harrison, Henry F, Head, W, M, May 1840, 60, M, , , , NY, NY
+5 CONC , NY, own free farm farmer<br />
+5 CONT -, Elmer, son, W, M, Nov 1873, 26, M, 2, , , NY, NY, NY, far
+5 CONC m laborer<br />
+5 CONT -, M. Annie, dau in law, W, F, Jul 1870, 29, M, 2, 11, , NY
+5 CONC , Ireland, Ireland<br />
+5 CONT -, Walter E, gran'son, Jan 1900, 5/12, S, , , , NY, NY, NY<b
+5 CONC r />
+5 CONT Kniffin, James C., servant, W, M, Feb 1886, 14, S, , , , NY
+5 CONC , NY, NY, at school 4 mos
 2 NOTE Age: 29; Marital Status: Married; Relation to Head of House
 3 CONC : Daughter in Law; Relation to Head of House: Daughter-in-la
 3 CONC w
@@ -9130,6 +10038,29 @@
 3 OBJE @ZSIx1RfETYq1bY0eaZbJ@
 3 _APID 7364:409023
 2 SOUR @Ym3qyaniTfeOl2MBXIRZ@
+3 DATA
+4 TEXT <table border="1">
+5 CONT <thead>
+5 CONT <tr><th colspan="2">NAME</th><th>RELATION.</th><th>Color.</t
+5 CONC h><th>Sex.</th><th>Age</th><th>NATIVITY.</th><th>Years in US
+5 CONC </th><th>Citizen or alien.</th><th>Occupation.</th><th>Class
+5 CONC </th></tr>
+5 CONT </thead>
+5 CONT <tbody>
+5 CONT <tr><td>Harrison</td><td>Henry F</td><td>Head</td><td>W</td>
+5 CONC <td>M</td><td>65</td></td><td>United States<td>&nbsp;</td><t
+5 CONC d>Cit</td><td>Farmer</td><td>O[wn] A[ccount]</td></tr>
+5 CONT <tr><td>-</td><td>Elmer G</td><td>Son</td><td>W</td><td>M</t
+5 CONC d><td>32</td></td><td>United States<td>&nbsp;</td><td>Cit</t
+5 CONC d><td>Farmer</td><td>O[wn] A[ccount]</td></tr>
+5 CONT <tr><td>-</td><td>Anna M.</td><td>D in law</td><td>W</td><td
+5 CONC >F</td><td>34</td></td><td>United States<td>&nbsp;</td><td>C
+5 CONC it</td><td>Housework</td><td>X</td></tr>
+5 CONT <tr><td>-</td><td>John F</td><td>G son</td><td>W</td><td>M</
+5 CONC td><td>4</td></td><td>United States<td>&nbsp;</td><td>Cit</t
+5 CONC d><td>X</td><td>X</td></tr>
+5 CONT </tbody>
+5 CONT </table>
 2 NOTE Relation to Head of House: Daughter-in-law
 1 RESI
 2 DATE 15 APR 1910
@@ -9144,6 +10075,71 @@
 3 OBJE @M174@
 3 _APID 7884:103801440
 2 SOUR @zNXhGxUeTBSDFa7mPzjy@
+3 DATA
+4 TEXT DEPARTMENT OF COMMERCE--BUREAU OF THE CENSUS<br />
+5 CONT THIRTEENTH CENSUS OF THE UNITED STATES: 1910--POPULATION<b
+5 CONC r />
+5 CONT STATE New York<br />
+5 CONT COUNTY Steuben<br />
+5 CONT TOWNSHIP OR OTHER DIVISION OF COUNTY Hornby Town<br />
+5 CONT SUPERVISOR'S DISTRICT NO. 17<br />
+5 CONT ENUMERATION DISTRICT NO. 132<br />
+5 CONT SHEET NO 9 B<br />
+5 CONT ENUMERATED BY ME ON THE 5 DAY OF May 1910, Geroge E. Harriso
+5 CONC n, ENUMERATOR.<br />
+5 CONT [...]<br />
+5 CONT [last family listed in Hornby]<br />
+5 CONT <table border="1">
+5 CONT <tr><td>[last</td><td>first</td><td>rel</td><td>gend</td><td
+5 CONC >race</td><td>age</td><td>mard</td><td>mard.yrs.</td><td>chi
+5 CONC ld</td><td>living</td><td>birthplace</td><td>fathers</td><td
+5 CONC >mother</td><td>tongue</td><td>occ</td><td>industry</td><td>
+5 CONC employ</td><td>can read</td><td>can write</td><td>att.sch.</
+5 CONC td><td>own/rent</td><td>free/mort</td><td>farm/house</td><td
+5 CONC >sched]</td></tr>
+5 CONT <tr><td>Harrison</td><td>G. Elmer</td><td>Head</td><td>M</td
+5 CONC ><td>W</td><td>36</td><td>M1</td><td>12</td><td>&nbsp;</td><
+5 CONC td>&nbsp;</td><td>New York</td><td>New York</td><td>New York
+5 CONC </td><td>English</td><td>Farmer</td><td>General Farm</td><td
+5 CONC >Emp</td><td>yes</td><td>yes</td><td>&nbsp;</td><td>R</td><t
+5 CONC d>&nbsp;</td><td>F</td><td>187[?]</td></tr>
+5 CONT <tr><td>--</td><td>Anna</td><td>Wife</td><td>F</td><td>W</td
+5 CONC ><td>39</td><td>M1</td><td>12</td><td>5</td><td>4</td><td>Ne
+5 CONC w York</td><td>Ire-English</td><td>Ire-English</td><td>Engli
+5 CONC sh</td><td>none</td><td>&nbsp;</td><td>&nbsp;</td><td>yes</t
+5 CONC d><td>yes</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><
+5 CONC td>&nbsp;</td><td>&nbsp;</td></tr>
+5 CONT <tr><td>--</td><td>John</td><td>Son</td><td>M</td><td>W</td>
+5 CONC <td>8</td><td>S</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;
+5 CONC </td><td>New York</td><td>New York</td><td>New York</td><td>
+5 CONC &nbsp;</td><td>none</td><td>&nbsp;</td><td>&nbsp;</td><td>&n
+5 CONC bsp;</td><td>&nbsp;</td><td>yes</td><td>&nbsp;</td><td>&nbsp
+5 CONC ;</td><td>&nbsp;</td><td>&nbsp;</td></tr>
+5 CONT <tr><td>--</td><td>Alice</td><td>Daughter</td><td>F</td><td>
+5 CONC W</td><td>4</td><td>S</td><td>&nbsp;</td><td>&nbsp;</td><td>
+5 CONC &nbsp;</td><td>New York</td><td>New York</td><td>New York</t
+5 CONC d><td>&nbsp;</td><td>none</td><td>&nbsp;</td><td>&nbsp;</td>
+5 CONC <td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+5 CONC <td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr>
+5 CONT <tr><td>--</td><td>Leo</td><td>Son</td><td>M</td><td>W</td><
+5 CONC td>3</td><td>S</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;<
+5 CONC /td><td>New York</td><td>New York</td><td>New York</td><td>&
+5 CONC nbsp;</td><td>none</td><td>&nbsp;</td><td>&nbsp;</td><td>&nb
+5 CONC sp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nb
+5 CONC sp;</td><td>&nbsp;</td><td>&nbsp;</td></tr>
+5 CONT <tr><td>--</td><td>Gerald</td><td>Son</td><td>M</td><td>W</t
+5 CONC d><td>1 8/12</td><td>S</td><td>&nbsp;</td><td>&nbsp;</td><td
+5 CONC >&nbsp;</td><td>New York</td><td>New York</td><td>New York</
+5 CONC td><td>&nbsp;</td><td>none</td><td>&nbsp;</td><td>&nbsp;</td
+5 CONC ><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td
+5 CONC ><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr>
+5 CONT <tr><td>--</td><td>Henry</td><td>Father</td><td>M</td><td>W<
+5 CONC /td><td>68</td><td>Wd</td><td>&nbsp;</td><td>&nbsp;</td><td>
+5 CONC &nbsp;</td><td>New York</td><td>New York</td><td>New York</t
+5 CONC d><td>&nbsp;</td><td>Retired</td><td>Own income</td><td>&nbs
+5 CONC p;</td><td>yes</td><td>yes</td><td>&nbsp;</td><td>&nbsp;</td
+5 CONC ><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr>
+5 CONT </table>
 2 NOTE Age: 39; Marital Status: Married; Relation to Head of House
 3 CONC : Wife
 2 NOTE Marital Status: Married; Relation to Head of House: Wife
@@ -9173,6 +10169,66 @@
 3 _APID 6061:87520709
 2 SOUR @Oqz6n5lyTPy7yuOdyBXV@
 3 QUAY 3
+3 DATA
+4 TEXT DEPARTMENT OF COMMERCE--BUREAU OF THE CENSUS<br />
+5 CONT FOURTEENTH CENSUS OF THE UNITED STATES: 1920--POPULATION<b
+5 CONC r />
+5 CONT STATE New York<br />
+5 CONT COUNTY Steuben<br />
+5 CONT TOWNSHIP OR OTHER DIVISION OF COUNTY Hornby Town<br />
+5 CONT SUPERVISOR'S DISTRICT NO. 18<br />
+5 CONT ENUMERATION DISTRICT NO. 114<br />
+5 CONT SHEET NO 3 A<br />
+5 CONT ENUMERATED BY ME ON THE 8-9 DAY OF January 1920, Elmer Harri
+5 CONC son, ENUMERATOR.<br />
+5 CONT [...]<br />
+5 CONT [Dwelling] 61<br />
+5 CONT [Family] 61<br />
+5 CONT <table border="1">
+5 CONT <tr><td>[last</td><td>first</td><td>rel.</td><td>own/rent</t
+5 CONC d><td>free/mort</td><td>gend.</td><td>race</td><td>age</td><
+5 CONC td>mard/singl</td><td>att.sch.</td><td>can read</td><td>ca
+5 CONC n write</td><td>birthplace</td><td>&nbsp;</td><td>father</td
+5 CONC ><td>tongue</td><td>mother</td><td>tongue</td><td>spk.Eng.</
+5 CONC td><td>occ</td><td>industry</td><td>wmpl</td><td>farm sched]
+5 CONC </td></tr>
+5 CONT <tr><td>Harrison</td><td>Elmer</td><td>Head</td><td>O</td><t
+5 CONC d>F</td><td>M</td><td>W</td><td>46</td><td>M</td><td>&nbsp;<
+5 CONC /td><td>yes</td><td>yes</td><td>New York</td><td>&nbsp;</td>
+5 CONC <td>New York</td><td>&nbsp;</td><td>New York</td><td>&nbsp;<
+5 CONC /td><td>yes</td><td>Farmer</td><td>General Farm</td><td>O.A.
+5 CONC </td><td>48</td></tr>
+5 CONT <tr><td>--</td><td>Anna</td><td>Wife</td><td>&nbsp;</td><td>
+5 CONC &nbsp;</td><td>F</td><td>W</td><td>49</td><td>M</td><td>&nbs
+5 CONC p;</td><td>yes</td><td>yes</td><td>New York</td><td>&nbsp;</
+5 CONC td><td>Ireland</td><td>English</td><td>Ireland</td><td>Engli
+5 CONC sh</td><td>yes</td><td>None</td><td>&nbsp;</td><td>&nbsp;</t
+5 CONC d><td>&nbsp;</td></tr>
+5 CONT <tr><td>--</td><td>John</td><td>Son</td><td>&nbsp;</td><td>&
+5 CONC nbsp;</td><td>M</td><td>W</td><td>18</td><td>S</td><td>no</t
+5 CONC d><td>yes</td><td>yes</td><td>New York</td><td>&nbsp;</td><t
+5 CONC d>New York</td><td>&nbsp;</td><td>New York</td><td>&nbsp;</t
+5 CONC d><td>yes</td><td>Laborer</td><td>House Farm</td><td>W</td><
+5 CONC td>&nbsp;</td></tr>
+5 CONT <tr><td>--</td><td>Alice</td><td>Daughter</td><td>&nbsp;</td
+5 CONC ><td>&nbsp;</td><td>F</td><td>W</td><td>14</td><td>S</td><td
+5 CONC >yes</td><td>yes</td><td>yes</td><td>New York</td><td>&nbsp;
+5 CONC </td><td>New York</td><td>&nbsp;</td><td>New York</td><td>&n
+5 CONC bsp;</td><td>yes</td><td>None</td><td>&nbsp;</td><td>&nbsp;<
+5 CONC /td><td>&nbsp;</td></tr>
+5 CONT <tr><td>--</td><td>Leo J.</td><td>Son</td><td>&nbsp;</td><td
+5 CONC >&nbsp;</td><td>M</td><td>W</td><td>12</td><td>S</td><td>yes
+5 CONC </td><td>yes</td><td>yes</td><td>New York</td><td>&nbsp;</td
+5 CONC ><td>New York</td><td>&nbsp;</td><td>New York</td><td>&nbsp;
+5 CONC </td><td>yes</td><td>None</td><td>&nbsp;</td><td>&nbsp;</td>
+5 CONC <td>&nbsp;</td></tr>
+5 CONT <tr><td>--</td><td>Gerald</td><td>Son</td><td>&nbsp;</td><td
+5 CONC >&nbsp;</td><td>M</td><td>W</td><td>10</td><td>S</td><td>yes
+5 CONC </td><td>yes</td><td>yes</td><td>New York</td><td>&nbsp;</td
+5 CONC ><td>New York</td><td>&nbsp;</td><td>New York</td><td>&nbsp;
+5 CONC </td><td>yes</td><td>None</td><td>&nbsp;</td><td>&nbsp;</td>
+5 CONC <td>&nbsp;</td></tr>
+5 CONT </table>
 2 NOTE Age: 49; Marital Status: Married; Relation to Head of House
 3 CONC : Wife
 2 NOTE Relation to Head: Wife; Residence Marital Status: Married
@@ -9201,6 +10257,289 @@
 3 OBJE @M173@
 3 _APID 6224:46292272
 2 SOUR @n9RFlzKrRM2Tyr8oEN6M@
+3 DATA
+4 TEXT <table width="100%">
+5 CONT <tr><td></td><td></td><td style="text-align:center">DEPARTME
+5 CONC NT OF COMMERCE&mdash;BUREAU OF THE CENSUS</td><td></td><td><
+5 CONC /td></tr>
+5 CONT <tr><td>State <b>New York</b></td><td>Incorporated place <b>
+5 CONC [blank]</b></td><td style="text-align:center">FIFTEENTH CENS
+5 CONC US OF THE UNITED STATES: 1930</td><td>Enumeration District N
+5 CONC o. <b>51-44</b></td><td>Sheet No.</td></tr>
+5 CONT <tr><td>County <b>Steuben</b></td><td>Ward of city <b>[blank
+5 CONC ]</b> Block No. <b>[blank]</b></td><td style="text-align:cen
+5 CONC ter;font-size:150%">POPULATION SCHEDULE</td><td>Supervisor'
+5 CONC s District No. <b>13</b></td><td><b>7 B</b></td></tr>
+5 CONT <tr><td>Township or other<br />&nbsp;division of county <b>H
+5 CONC ornby Town</b></td><td>Unincorporated place <b>[blank]</b><t
+5 CONC d>Institution <b>[blank]</b></td><td>Enumerated by me on <b>
+5 CONC April 26</b>, 1930, <b>Fred L Rogers</b>, <i>Enumerator.</i>
+5 CONC </td></tr>
+5 CONT </table>
+5 CONT <table width="100%" border="1" style="text-align:center">
+5 CONT <tr><td rowspan="4">&nbsp;</td><td colspan="4">PLACE OF ABOD
+5 CONC E</td>
+5 CONT <td nowrap="nowrap" rowspan="3" colspan="2">
+5 CONT NAME<br /><br />
+5 CONT of each person whose <i>place of abode</i> on<br />April 1
+5 CONC , 1930, was in this family<br /><br />
+5 CONT Enter surname first, then the given name and<br />middle ini
+5 CONC tial, if any<br /><br />
+5 CONT Include every person living on April 1, 1930. Omit<br />chil
+5 CONC dren born since April 1, 1930</td>
+5 CONT <td rowspan="3">RELATION<br /><br />Relationship of<br />thi
+5 CONC s person to<br />the head of the<br />family</td>
+5 CONT <td colspan="4">HOME DATA</td>
+5 CONT <td colspan="5">PERSONAL DESCRIPTION</td>
+5 CONT <td colspan="2">EDUCATION</td>
+5 CONT <td colspan="3">PLACE OF BIRTH</td>
+5 CONT <td colspan="4">MOTHER TONGUE (OR NATIVE<br />LANGUAGE) OF F
+5 CONC OREIGN BORN</td>
+5 CONT <td colspan="3">CITIZENSHIP, ETC.</td>
+5 CONT <td colspan="4">OCCUPATION AND INDUSTRY</td>
+5 CONT <td colspan="2" rowspan="2">EMPLOYMENT<br /><br />Whether ac
+5 CONC tually at work yesterday (or the last regular working day)</
+5 CONC td>
+5 CONT <td colspan="2" rowspan="2">VETERANS<br /><br />Whether a ve
+5 CONC teran of U.S. military or naval forces</td>
+5 CONT <td rowspan="3">Num-<br />ber of<br />farm<br />sched-<br />
+5 CONC ule</td>
+5 CONT <td rowspan="4">&nbsp;</td>
+5 CONT </tr>
+5 CONT <tr>
+5 CONT <td rowspan="2">Street, avenue, road, etc.</td>
+5 CONT <td rowspan="2">House number (in cities or towns)</td>
+5 CONT <td rowspan="2">Number of dwelling house in the order of vis
+5 CONC itation.</td>
+5 CONT <td rowspan="2">Number of family in the order of visitation.
+5 CONC </td>
+5 CONT <td rowspan="2">House owned or rented</td>
+5 CONT <td rowspan="2">Value of house, <i>if</i> owned, or monthl
+5 CONC y rental, <i>if</i> rented</td>
+5 CONT <td rowspan="2">Radio set</td>
+5 CONT <td rowspan="2">Does this family live on a farm?</td>
+5 CONT <td rowspan="2">Sex</td>
+5 CONT <td rowspan="2">Color or race</td>
+5 CONT <td rowspan="2">Age at last birthday</td>
+5 CONT <td rowspan="2">Marital condition</td>
+5 CONT <td rowspan="2">Age at first marriage</td>
+5 CONT <td rowspan="2">Attended school or college any time since Ap
+5 CONC ril 1, 1929</td>
+5 CONT <td rowspan="2">Whether able to read and write</td>
+5 CONT <td colspan="3">
+5 CONT Place of birth of each person enumerated and of his or her p
+5 CONC arents. If born in the United
+5 CONT States, give State or Territory. If of foreign birth, give t
+5 CONC he country in which birthplace
+5 CONT is now situated. (See Instructions.) Distinguish Canada-Fren
+5 CONC ch from Canada-English, and
+5 CONT Irish Free State from Northern Ireland.
+5 CONT </td>
+5 CONT <td rowspan="2">Language spoken in home before coming to th
+5 CONC e United States</td>
+5 CONT <td colspan="3">CODE (For office use only. Do not write in t
+5 CONC hese columns)</td>
+5 CONT <td rowspan="2">Year of immigration to the United States</td
+5 CONC >
+5 CONT <td rowspan="2">Naturalization</td>
+5 CONT <td rowspan="2">Whether able to speak English</td>
+5 CONT <td rowspan="2">OCCUPATION<br /><br />Trade, profession, o
+5 CONC r particular kind of work, as <i>spinner,
+5 CONT salesman, riveter, teacher, etc.</i></td>
+5 CONT <td rowspan="2">INDUSTRY<br /><br />Industry or business, a
+5 CONC s <i>cotton mill, dry-goods store,
+5 CONT shipyard, public school, etc.</i></td>
+5 CONT <td rowspan="2">CODE<br /><br />(For office use only. Do no
+5 CONC t write in this column)</td>
+5 CONT <td rowspan="2">Class of worker</td>
+5 CONT </tr>
+5 CONT <tr>
+5 CONT <td>PERSON</td><td>FATHER</td><td>MOTHER</td><td>State or N.
+5 CONC T.</td><td>Country</td><td>Nativity</td><td>Yes or No</td><t
+5 CONC d>If not, line number on Unemployment Schedule</td><td>Yes o
+5 CONC r No</td><td>What war or expedition?</td>
+5 CONT </tr>
+5 CONT <tr>
+5 CONT <td>1</td><td>2</td><td>3</td><td>4</td><td colspan="2">5</t
+5 CONC d><td>6</td><td>7</td><td>8</td><td>9</td><td>10</td>
+5 CONT <td>11</td><td>12</td><td>13</td><td>14</td><td>15</td><td>1
+5 CONC 6</td><td>17</td><td>18</td><td>19</td><td>20</td><td>21</td
+5 CONC >
+5 CONT <td>A</td><td>B</td><td>C</td>
+5 CONT <td>22</td><td>23</td><td>24</td><td>25</td><td>26</td>
+5 CONT <td>D</td>
+5 CONT <td>27</td><td>28</td><td>29</td><td>30</td><td>31</td><td>3
+5 CONC 2</td>
+5 CONT </tr>
+5 CONT <tr><td colspan="39" style="text-align:left">[...]</td></tr>
+5 CONT <tr><td colspan="39" style="text-align:left"><b>Apl 28</b></
+5 CONC td></tr>
+5 CONT <tr><td colspan="39" style="text-align:left">[...]</td></tr>
+5 CONT <tr>
+5 CONT <td>79</td>
+5 CONT <td rowspan="4">&nbsp;</td>
+5 CONT <td>&nbsp;</td>
+5 CONT <td><b>170</b></td>
+5 CONT <td><b>175</b></td>
+5 CONT <td><b>Harrison</b></td>
+5 CONT <td><b>Elmer</b></td>
+5 CONT <td><b>Head</b></td>
+5 CONT <td><b>O</b></td>
+5 CONT <td><b>&nbsp;</b></td>
+5 CONT <td><b>R</b></td>
+5 CONT <td><b>yes</b></td>
+5 CONT <td><b>M</b></td>
+5 CONT <td><b>W</b></td>
+5 CONT <td><b>56</b></td>
+5 CONT <td><b>M</b></td>
+5 CONT <td><b>24</b></td>
+5 CONT <td><b>no</b></td>
+5 CONT <td><b>yes</b></td>
+5 CONT <td><b>New&nbsp;York</b></td>
+5 CONT <td><b>New&nbsp;York</b></td>
+5 CONT <td><b>New&nbsp;York</b></td>
+5 CONT <td><b>&nbsp;</b></td>
+5 CONT <td><b>56</b></td>
+5 CONT <td><b>&nbsp;</b></td>
+5 CONT <td><b>&nbsp;</b></td>
+5 CONT <td><b>&nbsp;</b></td>
+5 CONT <td><b>&nbsp;</b></td>
+5 CONT <td><b>yes</b></td>
+5 CONT <td><b>Farmer</b></td>
+5 CONT <td><b>General Farm</b></td>
+5 CONT <td><b>VVVV</b></td>
+5 CONT <td><b>E</b></td>
+5 CONT <td><b>yes</b></td>
+5 CONT <td><b>&nbsp;</b></td>
+5 CONT <td><b>no</b></td>
+5 CONT <td><b>&nbsp;</b></td>
+5 CONT <td><b>141</b></td>
+5 CONT <td>79</td>
+5 CONT </tr>
+5 CONT <tr>
+5 CONT <td>80</td>
+5 CONT <td>&nbsp;</td>
+5 CONT <td><b>&nbsp;</b></td>
+5 CONT <td><b>&nbsp;</b></td>
+5 CONT <td><b>&mdash;</b></td>
+5 CONT <td><b>Mary A</b></td>
+5 CONT <td><b>Wife H</b></td>
+5 CONT <td><b>&nbsp;</b></td>
+5 CONT <td><b>&nbsp;</b></td>
+5 CONT <td><b>&nbsp;</b></td>
+5 CONT <td><b>X</b></td>
+5 CONT <td><b>F</b></td>
+5 CONT <td><b>W</b></td>
+5 CONT <td><b>59</b></td>
+5 CONT <td><b>M</b></td>
+5 CONT <td><b>27</b></td>
+5 CONT <td><b>no</b></td>
+5 CONT <td><b>yes</b></td>
+5 CONT <td><b>New&nbsp;York</b></td>
+5 CONT <td><b>Irish&nbsp;Free&nbsp;State</b></td>
+5 CONT <td><b>Irish&nbsp;Free&nbsp;State</b></td>
+5 CONT <td><b>&nbsp;</b></td>
+5 CONT <td><b>56</b></td>
+5 CONT <td><b>04</b></td>
+5 CONT <td><b>0</b></td>
+5 CONT <td><b>&nbsp;</b></td>
+5 CONT <td><b>&nbsp;</b></td>
+5 CONT <td><b>yes</b></td>
+5 CONT <td><b>none</b></td>
+5 CONT <td><b>&nbsp;</b></td>
+5 CONT <td><b>&nbsp;</b></td>
+5 CONT <td><b>&nbsp;</b></td>
+5 CONT <td><b>&nbsp;</b></td>
+5 CONT <td><b>&nbsp;</b></td>
+5 CONT <td><b>&nbsp;</b></td>
+5 CONT <td><b>&nbsp;</b></td>
+5 CONT <td><b>&nbsp;</b></td>
+5 CONT <td>80</td>
+5 CONT </tr>
+5 CONT <tr>
+5 CONT <td>81</td>
+5 CONT <td>&nbsp;</td>
+5 CONT <td><b>&nbsp;</b></td>
+5 CONT <td><b>&nbsp;</b></td>
+5 CONT <td><b>&mdash;</b></td>
+5 CONT <td><b>Alice I</b></td>
+5 CONT <td><b>Daughter</b></td>
+5 CONT <td><b>&nbsp;</b></td>
+5 CONT <td><b>&nbsp;</b></td>
+5 CONT <td><b>&nbsp;</b></td>
+5 CONT <td><b>X</b></td>
+5 CONT <td><b>F</b></td>
+5 CONT <td><b>W</b></td>
+5 CONT <td><b>24</b></td>
+5 CONT <td><b>S</b></td>
+5 CONT <td><b>&nbsp;</b></td>
+5 CONT <td><b>no</b></td>
+5 CONT <td><b>yes</b></td>
+5 CONT <td><b>New&nbsp;York</b></td>
+5 CONT <td><b>New&nbsp;York</b></td>
+5 CONT <td><b>New&nbsp;York</b></td>
+5 CONT <td><b>&nbsp;</b></td>
+5 CONT <td><b>56</b></td>
+5 CONT <td><b>&nbsp;</b></td>
+5 CONT <td><b>&nbsp;</b></td>
+5 CONT <td><b>&nbsp;</b></td>
+5 CONT <td><b>&nbsp;</b></td>
+5 CONT <td><b>yes</b></td>
+5 CONT <td><b>Teacher</b></td>
+5 CONT <td><b>District&nbsp;School</b></td>
+5 CONT <td><b>9494</b></td>
+5 CONT <td><b>W</b></td>
+5 CONT <td><b>yes</b></td>
+5 CONT <td><b>&nbsp;</b></td>
+5 CONT <td><b>&nbsp;</b></td>
+5 CONT <td><b>&nbsp;</b></td>
+5 CONT <td><b>&nbsp;</b></td>
+5 CONT <td>81</td>
+5 CONT </tr>
+5 CONT <tr>
+5 CONT <td>82</td>
+5 CONT <td>&nbsp;</td>
+5 CONT <td><b>&nbsp;</b></td>
+5 CONT <td><b>&nbsp;</b></td>
+5 CONT <td><b>&mdash;</b></td>
+5 CONT <td><b>Leo</b></td>
+5 CONT <td><b>Son</b></td>
+5 CONT <td><b>&nbsp;</b></td>
+5 CONT <td><b>&nbsp;</b></td>
+5 CONT <td><b>&nbsp;</b></td>
+5 CONT <td><b>X</b></td>
+5 CONT <td><b>M</b></td>
+5 CONT <td><b>W</b></td>
+5 CONT <td><b>23</b></td>
+5 CONT <td><b>S</b></td>
+5 CONT <td><b>&nbsp;</b></td>
+5 CONT <td><b>no</b></td>
+5 CONT <td><b>yes</b></td>
+5 CONT <td><b>New&nbsp;York</b></td>
+5 CONT <td><b>New&nbsp;York</b></td>
+5 CONT <td><b>New&nbsp;York</b></td>
+5 CONT <td><b>&nbsp;</b></td>
+5 CONT <td><b>56</b></td>
+5 CONT <td><b>&nbsp;</b></td>
+5 CONT <td><b>&nbsp;</b></td>
+5 CONT <td><b>&nbsp;</b></td>
+5 CONT <td><b>&nbsp;</b></td>
+5 CONT <td><b>yes</b></td>
+5 CONT <td><b>Teacher</b></td>
+5 CONT <td><b>District&nbsp;School</b></td>
+5 CONT <td><b>9494</b></td>
+5 CONT <td><b>W</b></td>
+5 CONT <td><b>yes</b></td>
+5 CONT <td><b>&nbsp;</b></td>
+5 CONT <td><b>no</b></td>
+5 CONT <td><b>&nbsp;</b></td>
+5 CONT <td><b>&nbsp;</b></td>
+5 CONT <td>82</td>
+5 CONT </tr>
+5 CONT </table>
+5 CONT [this is the next to the last entry in Hornby]<br />
+5 CONT Col. 27&mdash;Wage or salary worker: W<br />
+5 CONT Employer: E
 2 NOTE Age: 59; Marital Status: Married; Relation to Head of House
 3 CONC : Wife
 2 NOTE Marital Status: Married; Relation to Head: Wife
@@ -9276,6 +10615,9 @@
 2 DATE 06 MAY 1953
 2 PLAC Central Valley Cemetery, Hornby, Steuben, New York, USA
 2 SOUR @MQZgWkG8QhWLmgvaw3m7@
+3 DATA
+4 TEXT HARRISON ELMER 1873-1943
+5 CONT ANNA 1870-1953
 2 SOUR @S26@
 3 PAGE <bibl> <title level="u">In Loving Memory of Mary Anne Harris
 4 CONC on</title>, funeral booklet, 6 May 1953, Corning, New York
@@ -9373,6 +10715,67 @@
 3 _APID 3212:294920
 2 SOUR @pzS3cyb7RDaOk3XQGybM@
 3 QUAY 1
+3 DATA
+4 TEXT dwelling #117<br />
+5 CONT family #118<br />
+5 CONT [all white]<br />
+5 CONT <table border="1">
+5 CONT <tr><td>last</td><td>given</td><td>gen</td><td>age</td><td>r
+5 CONC el</td><td>s/m/w</td><td>occ</td><td>b</td><td>fb</td><td>mb
+5 CONC </td></tr>
+5 CONT <tr><td>Harrison</td><td>Henry F</td><td>M</td><td>40</td><t
+5 CONC d>&nbsp;</td><td>m</td><td>farming</td><td>NY</td><td>NY</td
+5 CONC ><td>NY</td></tr>
+5 CONT <tr><td>"</td><td>Hannah</td><td>F</td><td>28</td><td>wife</
+5 CONC td><td>m</td><td>keeping house</td><td>NY</td><td>England</t
+5 CONC d><td>England</td></tr>
+5 CONT <tr><td>"</td><td>George E</td><td>M</td><td>6</td><td>son</
+5 CONC td><td>s</td><td>&nbsp;</td><td>NY</td><td>NY</td><td>NY</td
+5 CONC ></tr>
+5 CONT <tr><td>"</td><td>Mary E</td><td>F</td><td>71</td><td>mother
+5 CONC </td><td>w</td><td>at home</td><td>NY</td><td>NY</td><td>Con
+5 CONC n</td></tr>
+5 CONT </table>
+5 CONT dwelling #118<br />
+5 CONT family #119<br />
+5 CONT <table border="1">
+5 CONT <tr><td>McLaughlin</td><td>William</td><td>M</td><td>52</td>
+5 CONC <td>&nbsp;</td><td>m</td><td>farming</td><td>Ire</td><td>Ire
+5 CONC </td><td>Ire</td></tr>
+5 CONT <tr><td>"</td><td>Margaret</td><td>F</td><td>43</td><td>wife
+5 CONC </td><td>m</td><td>keeping house</td><td>NY</td><td>Ire</td>
+5 CONC <td>Ire</td></tr>
+5 CONT <tr><td>"</td><td>Charles</td><td>M</td><td>18</td><td>son</
+5 CONC td><td>s</td><td>labors on farm</td><td>NY</td><td>Ire</td><
+5 CONC td>Ire</td></tr>
+5 CONT <tr><td>"</td><td>James</td><td>M</td><td>17</td><td>son</td
+5 CONC ><td>s</td><td>labors on farm</td><td>NY</td><td>Ire</td><td
+5 CONC >Ire</td></tr>
+5 CONT <tr><td>"</td><td>George</td><td>M</td><td>16</td><td>son</t
+5 CONC d><td>s</td><td>labors on farm</td><td>NY</td><td>Ire</td><t
+5 CONC d>Ire</td></tr>
+5 CONT <tr><td>"</td><td>William</td><td>M</td><td>14</td><td>son</
+5 CONC td><td>s</td><td>labors on farm</td><td>NY</td><td>Ire</td><
+5 CONC td>Ire</td></tr>
+5 CONT <tr><td>"</td><td>Daniel</td><td>M</td><td>12</td><td>son</t
+5 CONC d><td>s</td><td>labors on farm</td><td>NY</td><td>Ire</td><t
+5 CONC d>Ire</td></tr>
+5 CONT <tr><td>"</td><td>Thomas</td><td>M</td><td>10</td><td>son</t
+5 CONC d><td>s</td><td>labors on farm</td><td>NY</td><td>Ire</td><t
+5 CONC d>Ire</td></tr>
+5 CONT <tr><td>"</td><td>Mary Ann</td><td>F</td><td>9</td><td>dau</
+5 CONC td><td>s</td><td>&nbsp;</td><td>NY</td><td>NY</td><td>Ire</t
+5 CONC d></tr>
+5 CONT <tr><td>"</td><td>Hannah</td><td>F</td><td>8</td><td>dau</td
+5 CONC ><td>s</td><td>&nbsp;</td><td>NY</td><td>Ire</td><td>Ire</td
+5 CONC ></tr>
+5 CONT <tr><td>"</td><td>Francis</td><td>F</td><td>6</td><td>son</t
+5 CONC d><td>s</td><td>&nbsp;</td><td>NY</td><td>Ire</td><td>Ire</t
+5 CONC d></tr>
+5 CONT <tr><td>"</td><td>Catherine J.</td><td>F</td><td>4</td><td>d
+5 CONC au</td><td>s</td><td>&nbsp;</td><td>NY</td><td>Ire</td><td>I
+5 CONC re</td></tr>
+5 CONT </table>
 1 SEX M
 1 FAMC @k3eINVMISsa7AVKKO8hC@
 1 BIRT
@@ -9419,6 +10822,39 @@
 3 _LINK https://www.familysearch.org/ark:/61903/3:1:3Q9M-CS7W-P9JM-C
 2 SOUR @0VVQ8i0xTuG0p9aveWFA@
 3 QUAY 1
+3 DATA
+4 TEXT dwelling #69<br />
+5 CONT family# 70<br />
+5 CONT last-name,first-name,relation,race,sex,birth,age,mard/sing,y
+5 CONC rs-msrd,child,child-live,born,father-born,mother-born,immig,
+5 CONC yrs-in-US,natural,occu,read/write<br />
+5 CONT McLaughlin, Wm, Head, W, M, May 1821, 79, M, 39, , , Ireland
+5 CONC , Ireland, Ireland, 1857, 49, NA, farmer, RW<br />
+5 CONT -, Margeret, Wife, W, F, May 1835, 65, M, 39, 10, 9, Ireland
+5 CONC , Ireland, Ireland, 1857, 42, , , RW<br />
+5 CONT -, William P, son, W, M, May 1866, 34, M, 0, , , NY, ", "
+5 CONC , , , , farmer, RW<br />
+5 CONT -, Bridget, dau-in-law, W, F, Sept 1873, 26, M, 0, 0, 0, Ire
+5 CONC land, Ireland, Ireland, 1889, 10, , , RW<br />
+5 CONT -, Thomas, son, W, M, Jan 1869, 31, S, , , , NY, ", "
+5 CONC , , , , carpenter, RW<br />
+5 CONT -, Frank, son, W, M, Aug 1873, 26, S, , , , NY, ", "
+5 CONC , , , , own mort farm farmer, RW<br />
+5 CONT dwelling #70<br />
+5 CONT family# 71<br />
+5 CONT last-name,first-name,relation,race,sex,birth,age,mard/sing,y
+5 CONC rs-msrd,child,child-live,born,father-born,mother-born,occu<b
+5 CONC r />
+5 CONT Harrison, Henry F, Head, W, M, May 1840, 60, M, , , , NY, NY
+5 CONC , NY, own free farm farmer<br />
+5 CONT -, Elmer, son, W, M, Nov 1873, 26, M, 2, , , NY, NY, NY, far
+5 CONC m laborer<br />
+5 CONT -, M. Annie, dau in law, W, F, Jul 1870, 29, M, 2, 11, , NY
+5 CONC , Ireland, Ireland<br />
+5 CONT -, Walter E, gran'son, Jan 1900, 5/12, S, , , , NY, NY, NY<b
+5 CONC r />
+5 CONT Kniffin, James C., servant, W, M, Feb 1886, 14, S, , , , NY
+5 CONC , NY, NY, at school 4 mos
 2 NOTE Hornby, Steuben is assumed.
 1 BAPM
 2 DATE 07 FEB 1869
@@ -9471,6 +10907,67 @@
 3 OBJE @yL4luUa4SnGeXtUjDYcL@
 3 _APID 6742:4066232
 2 SOUR @pzS3cyb7RDaOk3XQGybM@
+3 DATA
+4 TEXT dwelling #117<br />
+5 CONT family #118<br />
+5 CONT [all white]<br />
+5 CONT <table border="1">
+5 CONT <tr><td>last</td><td>given</td><td>gen</td><td>age</td><td>r
+5 CONC el</td><td>s/m/w</td><td>occ</td><td>b</td><td>fb</td><td>mb
+5 CONC </td></tr>
+5 CONT <tr><td>Harrison</td><td>Henry F</td><td>M</td><td>40</td><t
+5 CONC d>&nbsp;</td><td>m</td><td>farming</td><td>NY</td><td>NY</td
+5 CONC ><td>NY</td></tr>
+5 CONT <tr><td>"</td><td>Hannah</td><td>F</td><td>28</td><td>wife</
+5 CONC td><td>m</td><td>keeping house</td><td>NY</td><td>England</t
+5 CONC d><td>England</td></tr>
+5 CONT <tr><td>"</td><td>George E</td><td>M</td><td>6</td><td>son</
+5 CONC td><td>s</td><td>&nbsp;</td><td>NY</td><td>NY</td><td>NY</td
+5 CONC ></tr>
+5 CONT <tr><td>"</td><td>Mary E</td><td>F</td><td>71</td><td>mother
+5 CONC </td><td>w</td><td>at home</td><td>NY</td><td>NY</td><td>Con
+5 CONC n</td></tr>
+5 CONT </table>
+5 CONT dwelling #118<br />
+5 CONT family #119<br />
+5 CONT <table border="1">
+5 CONT <tr><td>McLaughlin</td><td>William</td><td>M</td><td>52</td>
+5 CONC <td>&nbsp;</td><td>m</td><td>farming</td><td>Ire</td><td>Ire
+5 CONC </td><td>Ire</td></tr>
+5 CONT <tr><td>"</td><td>Margaret</td><td>F</td><td>43</td><td>wife
+5 CONC </td><td>m</td><td>keeping house</td><td>NY</td><td>Ire</td>
+5 CONC <td>Ire</td></tr>
+5 CONT <tr><td>"</td><td>Charles</td><td>M</td><td>18</td><td>son</
+5 CONC td><td>s</td><td>labors on farm</td><td>NY</td><td>Ire</td><
+5 CONC td>Ire</td></tr>
+5 CONT <tr><td>"</td><td>James</td><td>M</td><td>17</td><td>son</td
+5 CONC ><td>s</td><td>labors on farm</td><td>NY</td><td>Ire</td><td
+5 CONC >Ire</td></tr>
+5 CONT <tr><td>"</td><td>George</td><td>M</td><td>16</td><td>son</t
+5 CONC d><td>s</td><td>labors on farm</td><td>NY</td><td>Ire</td><t
+5 CONC d>Ire</td></tr>
+5 CONT <tr><td>"</td><td>William</td><td>M</td><td>14</td><td>son</
+5 CONC td><td>s</td><td>labors on farm</td><td>NY</td><td>Ire</td><
+5 CONC td>Ire</td></tr>
+5 CONT <tr><td>"</td><td>Daniel</td><td>M</td><td>12</td><td>son</t
+5 CONC d><td>s</td><td>labors on farm</td><td>NY</td><td>Ire</td><t
+5 CONC d>Ire</td></tr>
+5 CONT <tr><td>"</td><td>Thomas</td><td>M</td><td>10</td><td>son</t
+5 CONC d><td>s</td><td>labors on farm</td><td>NY</td><td>Ire</td><t
+5 CONC d>Ire</td></tr>
+5 CONT <tr><td>"</td><td>Mary Ann</td><td>F</td><td>9</td><td>dau</
+5 CONC td><td>s</td><td>&nbsp;</td><td>NY</td><td>NY</td><td>Ire</t
+5 CONC d></tr>
+5 CONT <tr><td>"</td><td>Hannah</td><td>F</td><td>8</td><td>dau</td
+5 CONC ><td>s</td><td>&nbsp;</td><td>NY</td><td>Ire</td><td>Ire</td
+5 CONC ></tr>
+5 CONT <tr><td>"</td><td>Francis</td><td>F</td><td>6</td><td>son</t
+5 CONC d><td>s</td><td>&nbsp;</td><td>NY</td><td>Ire</td><td>Ire</t
+5 CONC d></tr>
+5 CONT <tr><td>"</td><td>Catherine J.</td><td>F</td><td>4</td><td>d
+5 CONC au</td><td>s</td><td>&nbsp;</td><td>NY</td><td>Ire</td><td>I
+5 CONC re</td></tr>
+5 CONT </table>
 2 NOTE Age: 10; Marital Status: Single; Relation to Head of House
 3 CONC : Son
 1 RESI
@@ -9495,6 +10992,39 @@
 3 OBJE @1Z2SqTbXQ96LECASGsUV@
 3 _APID 7602:56735663
 2 SOUR @0VVQ8i0xTuG0p9aveWFA@
+3 DATA
+4 TEXT dwelling #69<br />
+5 CONT family# 70<br />
+5 CONT last-name,first-name,relation,race,sex,birth,age,mard/sing,y
+5 CONC rs-msrd,child,child-live,born,father-born,mother-born,immig,
+5 CONC yrs-in-US,natural,occu,read/write<br />
+5 CONT McLaughlin, Wm, Head, W, M, May 1821, 79, M, 39, , , Ireland
+5 CONC , Ireland, Ireland, 1857, 49, NA, farmer, RW<br />
+5 CONT -, Margeret, Wife, W, F, May 1835, 65, M, 39, 10, 9, Ireland
+5 CONC , Ireland, Ireland, 1857, 42, , , RW<br />
+5 CONT -, William P, son, W, M, May 1866, 34, M, 0, , , NY, ", "
+5 CONC , , , , farmer, RW<br />
+5 CONT -, Bridget, dau-in-law, W, F, Sept 1873, 26, M, 0, 0, 0, Ire
+5 CONC land, Ireland, Ireland, 1889, 10, , , RW<br />
+5 CONT -, Thomas, son, W, M, Jan 1869, 31, S, , , , NY, ", "
+5 CONC , , , , carpenter, RW<br />
+5 CONT -, Frank, son, W, M, Aug 1873, 26, S, , , , NY, ", "
+5 CONC , , , , own mort farm farmer, RW<br />
+5 CONT dwelling #70<br />
+5 CONT family# 71<br />
+5 CONT last-name,first-name,relation,race,sex,birth,age,mard/sing,y
+5 CONC rs-msrd,child,child-live,born,father-born,mother-born,occu<b
+5 CONC r />
+5 CONT Harrison, Henry F, Head, W, M, May 1840, 60, M, , , , NY, NY
+5 CONC , NY, own free farm farmer<br />
+5 CONT -, Elmer, son, W, M, Nov 1873, 26, M, 2, , , NY, NY, NY, far
+5 CONC m laborer<br />
+5 CONT -, M. Annie, dau in law, W, F, Jul 1870, 29, M, 2, 11, , NY
+5 CONC , Ireland, Ireland<br />
+5 CONT -, Walter E, gran'son, Jan 1900, 5/12, S, , , , NY, NY, NY<b
+5 CONC r />
+5 CONT Kniffin, James C., servant, W, M, Feb 1886, 14, S, , , , NY
+5 CONC , NY, NY, at school 4 mos
 2 NOTE Age: 31; Marital Status: Single; Relation to Head of House
 3 CONC : Son
 1 DEAT
@@ -9930,6 +11460,39 @@
 3 _APID 1555:158611
 2 SOUR @0VVQ8i0xTuG0p9aveWFA@
 3 QUAY 1
+3 DATA
+4 TEXT dwelling #69<br />
+5 CONT family# 70<br />
+5 CONT last-name,first-name,relation,race,sex,birth,age,mard/sing,y
+5 CONC rs-msrd,child,child-live,born,father-born,mother-born,immig,
+5 CONC yrs-in-US,natural,occu,read/write<br />
+5 CONT McLaughlin, Wm, Head, W, M, May 1821, 79, M, 39, , , Ireland
+5 CONC , Ireland, Ireland, 1857, 49, NA, farmer, RW<br />
+5 CONT -, Margeret, Wife, W, F, May 1835, 65, M, 39, 10, 9, Ireland
+5 CONC , Ireland, Ireland, 1857, 42, , , RW<br />
+5 CONT -, William P, son, W, M, May 1866, 34, M, 0, , , NY, ", "
+5 CONC , , , , farmer, RW<br />
+5 CONT -, Bridget, dau-in-law, W, F, Sept 1873, 26, M, 0, 0, 0, Ire
+5 CONC land, Ireland, Ireland, 1889, 10, , , RW<br />
+5 CONT -, Thomas, son, W, M, Jan 1869, 31, S, , , , NY, ", "
+5 CONC , , , , carpenter, RW<br />
+5 CONT -, Frank, son, W, M, Aug 1873, 26, S, , , , NY, ", "
+5 CONC , , , , own mort farm farmer, RW<br />
+5 CONT dwelling #70<br />
+5 CONT family# 71<br />
+5 CONT last-name,first-name,relation,race,sex,birth,age,mard/sing,y
+5 CONC rs-msrd,child,child-live,born,father-born,mother-born,occu<b
+5 CONC r />
+5 CONT Harrison, Henry F, Head, W, M, May 1840, 60, M, , , , NY, NY
+5 CONC , NY, own free farm farmer<br />
+5 CONT -, Elmer, son, W, M, Nov 1873, 26, M, 2, , , NY, NY, NY, far
+5 CONC m laborer<br />
+5 CONT -, M. Annie, dau in law, W, F, Jul 1870, 29, M, 2, 11, , NY
+5 CONC , Ireland, Ireland<br />
+5 CONT -, Walter E, gran'son, Jan 1900, 5/12, S, , , , NY, NY, NY<b
+5 CONC r />
+5 CONT Kniffin, James C., servant, W, M, Feb 1886, 14, S, , , , NY
+5 CONC , NY, NY, at school 4 mos
 2 NOTE gravestone gives 1 May 1825, Donegal
 1 IMMI
 2 DATE 1857
@@ -9940,6 +11503,39 @@
 3 OBJE @M169@
 3 _APID 7602:56735659
 2 SOUR @0VVQ8i0xTuG0p9aveWFA@
+3 DATA
+4 TEXT dwelling #69<br />
+5 CONT family# 70<br />
+5 CONT last-name,first-name,relation,race,sex,birth,age,mard/sing,y
+5 CONC rs-msrd,child,child-live,born,father-born,mother-born,immig,
+5 CONC yrs-in-US,natural,occu,read/write<br />
+5 CONT McLaughlin, Wm, Head, W, M, May 1821, 79, M, 39, , , Ireland
+5 CONC , Ireland, Ireland, 1857, 49, NA, farmer, RW<br />
+5 CONT -, Margeret, Wife, W, F, May 1835, 65, M, 39, 10, 9, Ireland
+5 CONC , Ireland, Ireland, 1857, 42, , , RW<br />
+5 CONT -, William P, son, W, M, May 1866, 34, M, 0, , , NY, ", "
+5 CONC , , , , farmer, RW<br />
+5 CONT -, Bridget, dau-in-law, W, F, Sept 1873, 26, M, 0, 0, 0, Ire
+5 CONC land, Ireland, Ireland, 1889, 10, , , RW<br />
+5 CONT -, Thomas, son, W, M, Jan 1869, 31, S, , , , NY, ", "
+5 CONC , , , , carpenter, RW<br />
+5 CONT -, Frank, son, W, M, Aug 1873, 26, S, , , , NY, ", "
+5 CONC , , , , own mort farm farmer, RW<br />
+5 CONT dwelling #70<br />
+5 CONT family# 71<br />
+5 CONT last-name,first-name,relation,race,sex,birth,age,mard/sing,y
+5 CONC rs-msrd,child,child-live,born,father-born,mother-born,occu<b
+5 CONC r />
+5 CONT Harrison, Henry F, Head, W, M, May 1840, 60, M, , , , NY, NY
+5 CONC , NY, own free farm farmer<br />
+5 CONT -, Elmer, son, W, M, Nov 1873, 26, M, 2, , , NY, NY, NY, far
+5 CONC m laborer<br />
+5 CONT -, M. Annie, dau in law, W, F, Jul 1870, 29, M, 2, 11, , NY
+5 CONC , Ireland, Ireland<br />
+5 CONT -, Walter E, gran'son, Jan 1900, 5/12, S, , , , NY, NY, NY<b
+5 CONC r />
+5 CONT Kniffin, James C., servant, W, M, Feb 1886, 14, S, , , , NY
+5 CONC , NY, NY, at school 4 mos
 1 RESI
 2 DATE 01 JUN 1860
 2 PLAC Dix, Schuyler, New York, USA
@@ -9953,6 +11549,45 @@
 3 OBJE @0Jm5zbBUQzqsp5EcwsWK@
 3 _APID 7667:48615955
 2 SOUR @yuEWiW3cScuvdxwbqXvS@
+3 DATA
+4 TEXT Page No. 70<br />
+5 CONT SCHEDULE 1. Free Inhabitants in Dix in the County of Schuyle
+5 CONC r State of New York enumerated by me, on the 26th day of Jul
+5 CONC y 1860.<br />
+5 CONT Post Office Watkins<br />
+5 CONT [...]<br />
+5 CONT [Dwelling] 568<br />
+5 CONT [Family] 574<br />
+5 CONT <table border="1">
+5 CONT <tr><td>[name</td><td>age</td><td>gender</td><td>occu</td><t
+5 CONC d>real$</td><td>persl$</td><td>birthplace]</td></tr>
+5 CONT <tr><td>William McLaughlin</td><td>29</td><td>M</td><td>Farm
+5 CONC er</td><td>840</td><td>525</td><td>Ireland</td></tr>
+5 CONT <tr><td>Hannah</td><td>50</td><td>F</td><td>&nbsp;</td><td>&
+5 CONC nbsp;</td><td>&nbsp;</td><td>"</td></tr>
+5 CONT <tr><td>Elizabeth</td><td>32</td><td>F</td><td>&nbsp;</td><t
+5 CONC d>&nbsp;</td><td>&nbsp;</td><td>"</td></tr>
+5 CONT </table>
+5 CONT [Dwelling] 569<br />
+5 CONT [Family] 575<br />
+5 CONT <table border="1">
+5 CONT <tr><td>James McLaughlin</td><td>28</td><td>M</td><td>Farmer
+5 CONC </td><td>&nbsp;</td><td>&nbsp;</td><td>"</td></tr>
+5 CONT <tr><td>Hannah McCarthy</td><td>26</td><td>F</td><td>&nbsp;<
+5 CONC /td><td>&nbsp;</td><td>&nbsp;</td><td>"</td></tr>
+5 CONT <tr><td>Ellen McLaughlin</td><td>24</td><td>F</td><td>&nbsp;
+5 CONC </td><td>&nbsp;</td><td>&nbsp;</td><td>"</td></tr>
+5 CONT <tr><td>Charles</td><td>22</td><td>M</td><td>farm laborer</t
+5 CONC d><td>&nbsp;</td><td>&nbsp;</td><td>"</td></tr>
+5 CONT <tr><td>Anna</td><td>18</td><td>F</td><td>&nbsp;</td><td>&nb
+5 CONC sp;</td><td>&nbsp;</td><td>"</td></tr>
+5 CONT <tr><td>Hannah McGinly</td><td>5</td><td>F</td><td>&nbsp;</t
+5 CONC d><td>&nbsp;</td><td>&nbsp;</td><td>New York</td></tr>
+5 CONT <tr><td>Charles McCarthy</td><td>2</td><td>M</td><td>&nbsp;<
+5 CONC /td><td>&nbsp;</td><td>&nbsp;</td><td>"</td></tr>
+5 CONT <tr><td>James</td><td>7/12</td><td>M</td><td>&nbsp;</td><td>
+5 CONC &nbsp;</td><td>&nbsp;</td><td>"</td></tr>
+5 CONT </table>
 2 NOTE Age: 29.
 3 CONT Exact location (best guess) based on 1874 Pomeroy Altas an
 3 CONC d 1860/70/80 US Census records: Vanzandt Hollow Road.
@@ -10124,6 +11759,62 @@
 3 OBJE @wJaZdqzJSDuNkXUe0ibY@
 3 _APID 7218:716496
 2 SOUR @EN0e5E9qRzetfuaNWGkV@
+3 DATA
+4 TEXT <table border="1">
+5 CONT <thead>
+5 CONT <tr><th>visitation</th><th>material built</th><th>Value</th>
+5 CONC <th>Family</th><th colspan="2">Name</th><th>Age.</th><th>Sex
+5 CONC .</th><th>Color</th><th>Relation</th><th>born</th><th>childr
+5 CONC en</th><th>times married</th><th>married</th><th>widowed</th
+5 CONC ><th>single</th><th>occupation</th><th>employment if out o
+5 CONC f town</th><th>Native</th><th>Naturalized</th><th>Alien</th>
+5 CONC <th>Colored</th><th>Owner of land</th><th>not able to read/w
+5 CONC rite</th><th>deaf, dumb...</th><th>army</th><th>navy</th><th
+5 CONC >former army</th><th>former navy</th></tr>
+5 CONT </thead>
+5 CONT <tbody>
+5 CONT <tr><td>67</td><td>Frame</td><td>$200</td><td>67</td><td>Wil
+5 CONC liam</td><td>McLaughlin</td><td>40</td><td>M</td><td>&nbsp;<
+5 CONC /td><td>&nbsp;</td><td>Ireland</td><td>&nbsp;</td><td>1</td>
+5 CONC <td>1</td><td>&nbsp;</td><td>&nbsp;</td><td>Soldier</td><td>
+5 CONC &nbsp;</td><td>&nbsp;</td><td>1</td><td>&nbsp;</td><td>&nbsp
+5 CONC ;</td><td>1</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td
+5 CONC ><td>&nbsp;</td><td>1</td><td>&nbsp;</td></tr>
+5 CONT <tr><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;<
+5 CONC /td><td>Margaret</td><td>McLaughlin</td><td>34</td><td>F</td
+5 CONC ><td>&nbsp;</td><td>Wife</td><td>&quot; &quot;</td><td>3</td
+5 CONC ><td>1</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>
+5 CONC &nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>
+5 CONC &nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>
+5 CONC &nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>
+5 CONC &nbsp;</td></tr>
+5 CONT <tr><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;<
+5 CONC /td><td>Charles</td><td>McLaughlin</td><td>4</td><td>M</td><
+5 CONC td>&nbsp;</td><td>Child</td><td>Steuben</td><td>&nbsp;</td><
+5 CONC td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><
+5 CONC td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><
+5 CONC td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><
+5 CONC td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><
+5 CONC td>&nbsp;</td></tr>
+5 CONT <tr><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;<
+5 CONC /td><td>James</td><td>McLaughlin</td><td>2 <sup>3</sup>&fras
+5 CONC l;<sub>12</sub></td><td>M</td><td>&nbsp;</td><td>&quot; &quo
+5 CONC t;</td><td>&quot; &quot;</td><td>&nbsp;</td><td>&nbsp;</td><
+5 CONC td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><
+5 CONC td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><
+5 CONC td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><
+5 CONC td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><
+5 CONC /tr>
+5 CONT <tr><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;<
+5 CONC /td><td>George</td><td>McLaughlin</td><td>1</td><td>M</td><t
+5 CONC d>&nbsp;</td><td>&quot; &quot;</td><td>&quot; &quot;</td><td
+5 CONC >&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td
+5 CONC >&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td
+5 CONC >&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td
+5 CONC >&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td
+5 CONC >&nbsp;</td><td>&nbsp;</td></tr>
+5 CONT </tbody>
+5 CONT </table>
 2 NOTE Relation to Head of House: Head
 1 RESI
 2 DATE 01 JUN 1870
@@ -10138,6 +11829,76 @@
 3 OBJE @lRGm7wHXSuWcFcZLYnH3@
 3 _APID 7163:32338607
 2 SOUR @XHbynk1vRyWlvMJITFAn@
+3 DATA
+4 TEXT [AIS page 218]<br />
+5 CONT Page No. 13<br />
+5 CONT SCHEDULE 1.--Inhabitants in Hornby, in the County of Steuben
+5 CONC , State of New York, enumerated by me on the 29th day of Jun
+5 CONC e, 1870.<br />
+5 CONT [...]<br />
+5 CONT [Dwelling] 123<br />
+5 CONT [Family] 111<br />
+5 CONT <table border="1">
+5 CONT <tr><td>McLantghelin, W.</td><td>45</td><td>M</td><td>W</td>
+5 CONC <td>Farmer</td><td>2,500</td><td>600</td><td>Ireland</td><td
+5 CONC >[ffb]</td><td>[mfb]</td><td>&nbsp;</td><td>[cread]</td><td>
+5 CONC &nbsp;</td></tr>
+5 CONT <tr><td>-- Margaret</td><td>37</td><td>F</td><td>W</td><td>K
+5 CONC eeping house</td><td>&nbsp;</td><td>&nbsp;</td><td>d[itt]o</
+5 CONC td><td>[ffb]</td><td>[mfb]</td><td>&nbsp;</td><td>[cread]</t
+5 CONC d><td>[cwrite]</td></tr>
+5 CONT <tr><td>-- Charles</td><td>8</td><td>M</td><td>W</td><td>&nb
+5 CONC sp;</td><td>&nbsp;</td><td>&nbsp;</td><td>d[itt]o</td><td>[f
+5 CONC fb]</td><td>[mfb]</td><td>[school]</td><td>[cread]</td><td>&
+5 CONC nbsp;</td></tr>
+5 CONT <tr><td>-- James</td><td>7</td><td>M</td><td>W</td><td>&nbsp
+5 CONC ;</td><td>&nbsp;</td><td>&nbsp;</td><td>New York</td><td>[ff
+5 CONC b]</td><td>[mfb]</td><td>[school]</td><td>[cread]</td><td>&n
+5 CONC bsp;</td></tr>
+5 CONT <tr><td>-- George</td><td>6</td><td>M</td><td>W</td><td>&nbs
+5 CONC p;</td><td>&nbsp;</td><td>&nbsp;</td><td>d[itt]o</td><td>[ff
+5 CONC b]</td><td>[mfb]</td><td>[school]</td><td>[cread]</td><td>&n
+5 CONC bsp;</td></tr>
+5 CONT <tr><td>-- Wiliam</td><td>4</td><td>M</td><td>W</td><td>&nbs
+5 CONC p;</td><td>&nbsp;</td><td>&nbsp;</td><td>d[itt]o</td><td>[ff
+5 CONC b]</td><td>[mfb]</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp
+5 CONC ;</td></tr>
+5 CONT <tr><td>-- Daniel</td><td>2</td><td>M</td><td>W</td><td>&nbs
+5 CONC p;</td><td>&nbsp;</td><td>&nbsp;</td><td>d[itt]o</td><td>[ff
+5 CONC b]</td><td>[mfb]</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp
+5 CONC ;</td></tr>
+5 CONT <tr><td>-- Thomas</td><td>1</td><td>M</td><td>W</td><td>&nbs
+5 CONC p;</td><td>&nbsp;</td><td>&nbsp;</td><td>d[itt]o</td><td>[ff
+5 CONC b]</td><td>[mfb]</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp
+5 CONC ;</td></tr>
+5 CONT </table>
+5 CONT [Dwelling] 124<br />
+5 CONT [Family] 112<br />
+5 CONT <table border="1">
+5 CONT <tr><td>Harrison H F</td><td>30</td><td>M</td><td>W</td><td>
+5 CONC Farmer</td><td>2,000</td><td>500</td><td>New York</td><td>&n
+5 CONC bsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>[cread]</td><td>[
+5 CONC cwrite]</td></tr>
+5 CONT <tr><td>-- Mary</td><td>61</td><td>F</td><td>W</td><td>Keepi
+5 CONC ng house</td><td>&nbsp;</td><td>&nbsp;</td><td>d[itt]o</td><
+5 CONC td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>[cread]</td>
+5 CONC <td>[cwrite]</td></tr>
+5 CONT </table>
+5 CONT [AIS page 219]<br />
+5 CONT Page No. 14<br />
+5 CONT SCHEDULE 1.--Inhabitants in Hornby, in the County of Steuben
+5 CONC , State of New York, enumerated by me on the 29th day of Jun
+5 CONC e, 1870.<br />
+5 CONT [...]<br />
+5 CONT <table border="1">
+5 CONT <tr><td>Harrison Sarah</td><td>22</td><td>F</td><td>W</td><t
+5 CONC d>House keeping</td><td>&nbsp;</td><td>&nbsp;</td><td>New Yo
+5 CONC rk</td><td>&nbsp;</td><td>[cread]</td><td>[cwrite]</td></tr>
+5 CONT </table>
+5 CONT [ffb = father was of foreign birth<br />
+5 CONT mfb = mother was of foreign birth,<br />
+5 CONT cread = cannot read<br />
+5 CONT cwrite = cannot write]<br />
 2 NOTE Age: 45
 1 RESI
 2 DATE 1873
@@ -10170,6 +11931,67 @@
 3 OBJE @yL4luUa4SnGeXtUjDYcL@
 3 _APID 6742:39384838
 2 SOUR @pzS3cyb7RDaOk3XQGybM@
+3 DATA
+4 TEXT dwelling #117<br />
+5 CONT family #118<br />
+5 CONT [all white]<br />
+5 CONT <table border="1">
+5 CONT <tr><td>last</td><td>given</td><td>gen</td><td>age</td><td>r
+5 CONC el</td><td>s/m/w</td><td>occ</td><td>b</td><td>fb</td><td>mb
+5 CONC </td></tr>
+5 CONT <tr><td>Harrison</td><td>Henry F</td><td>M</td><td>40</td><t
+5 CONC d>&nbsp;</td><td>m</td><td>farming</td><td>NY</td><td>NY</td
+5 CONC ><td>NY</td></tr>
+5 CONT <tr><td>"</td><td>Hannah</td><td>F</td><td>28</td><td>wife</
+5 CONC td><td>m</td><td>keeping house</td><td>NY</td><td>England</t
+5 CONC d><td>England</td></tr>
+5 CONT <tr><td>"</td><td>George E</td><td>M</td><td>6</td><td>son</
+5 CONC td><td>s</td><td>&nbsp;</td><td>NY</td><td>NY</td><td>NY</td
+5 CONC ></tr>
+5 CONT <tr><td>"</td><td>Mary E</td><td>F</td><td>71</td><td>mother
+5 CONC </td><td>w</td><td>at home</td><td>NY</td><td>NY</td><td>Con
+5 CONC n</td></tr>
+5 CONT </table>
+5 CONT dwelling #118<br />
+5 CONT family #119<br />
+5 CONT <table border="1">
+5 CONT <tr><td>McLaughlin</td><td>William</td><td>M</td><td>52</td>
+5 CONC <td>&nbsp;</td><td>m</td><td>farming</td><td>Ire</td><td>Ire
+5 CONC </td><td>Ire</td></tr>
+5 CONT <tr><td>"</td><td>Margaret</td><td>F</td><td>43</td><td>wife
+5 CONC </td><td>m</td><td>keeping house</td><td>NY</td><td>Ire</td>
+5 CONC <td>Ire</td></tr>
+5 CONT <tr><td>"</td><td>Charles</td><td>M</td><td>18</td><td>son</
+5 CONC td><td>s</td><td>labors on farm</td><td>NY</td><td>Ire</td><
+5 CONC td>Ire</td></tr>
+5 CONT <tr><td>"</td><td>James</td><td>M</td><td>17</td><td>son</td
+5 CONC ><td>s</td><td>labors on farm</td><td>NY</td><td>Ire</td><td
+5 CONC >Ire</td></tr>
+5 CONT <tr><td>"</td><td>George</td><td>M</td><td>16</td><td>son</t
+5 CONC d><td>s</td><td>labors on farm</td><td>NY</td><td>Ire</td><t
+5 CONC d>Ire</td></tr>
+5 CONT <tr><td>"</td><td>William</td><td>M</td><td>14</td><td>son</
+5 CONC td><td>s</td><td>labors on farm</td><td>NY</td><td>Ire</td><
+5 CONC td>Ire</td></tr>
+5 CONT <tr><td>"</td><td>Daniel</td><td>M</td><td>12</td><td>son</t
+5 CONC d><td>s</td><td>labors on farm</td><td>NY</td><td>Ire</td><t
+5 CONC d>Ire</td></tr>
+5 CONT <tr><td>"</td><td>Thomas</td><td>M</td><td>10</td><td>son</t
+5 CONC d><td>s</td><td>labors on farm</td><td>NY</td><td>Ire</td><t
+5 CONC d>Ire</td></tr>
+5 CONT <tr><td>"</td><td>Mary Ann</td><td>F</td><td>9</td><td>dau</
+5 CONC td><td>s</td><td>&nbsp;</td><td>NY</td><td>NY</td><td>Ire</t
+5 CONC d></tr>
+5 CONT <tr><td>"</td><td>Hannah</td><td>F</td><td>8</td><td>dau</td
+5 CONC ><td>s</td><td>&nbsp;</td><td>NY</td><td>Ire</td><td>Ire</td
+5 CONC ></tr>
+5 CONT <tr><td>"</td><td>Francis</td><td>F</td><td>6</td><td>son</t
+5 CONC d><td>s</td><td>&nbsp;</td><td>NY</td><td>Ire</td><td>Ire</t
+5 CONC d></tr>
+5 CONT <tr><td>"</td><td>Catherine J.</td><td>F</td><td>4</td><td>d
+5 CONC au</td><td>s</td><td>&nbsp;</td><td>NY</td><td>Ire</td><td>I
+5 CONC re</td></tr>
+5 CONT </table>
 2 NOTE Age: 52; Marital Status: Married; Relation to Head of House
 3 CONC : Self
 1 RESI
@@ -10189,6 +12011,33 @@
 3 _APID 8667:489089
 2 SOUR @WyOooWAfTtGDtQ27yScX@
 3 QUAY 3
+3 DATA
+4 TEXT <table border="1">
+5 CONT <thead>
+5 CONT <tr><th rowspan="2">House No.</th><th rowspan="2">Family No.
+5 CONC </th><th rowspan="2">Names of Surviving Soldiers [...]</th><
+5 CONC th rowspan="2">Rank.</th><th rowspan="2">Company.</th><th ro
+5 CONC wspan="2">Name of Regiment or Vessel.</th><th rowspan="2" co
+5 CONC lspan="3">Date of Enlistment.</th><th rowspan="2" colspan="3
+5 CONC ">Date of Discharge</th><th colspan="3">Length of Service</t
+5 CONC h></tr>
+5 CONT <tr><th>Yrs.</th><th>Mos.</th><th>Days</th></tr>
+5 CONT </thead>
+5 CONT <tbody>
+5 CONT <tr><td>164</td><td>164</td><td>McLaughlin William</td><td>P
+5 CONC </td><td>M</td><td>15 NY Eng</td><td>9</td><td>Sept.</td><td
+5 CONC >1864</td><td>13</td><td>June</td><td>1865</td><td>[blank]</
+5 CONC td><td>9</td><td>4</td></tr>
+5 CONT </tbody>
+5 CONT </table>
+5 CONT <table border="1">
+5 CONT <thead>
+5 CONT <tr><th>Post-Office Address.</th></tr>
+5 CONT </thead>
+5 CONT <tbody>
+5 CONT <tr><td>&quot; [Hornby New York]</td></tr>
+5 CONT </tbody>
+5 CONT </table>
 1 RESI
 2 DATE 1891
 2 PLAC Hornby, Steuben, New York, USA
@@ -10213,6 +12062,57 @@
 3 OBJE @LbIqjIkPT6unhzRXeyGN@
 3 _APID 3212:294914
 2 SOUR @X52okFSjQVGrzZVhB8AG@
+3 DATA
+4 TEXT <table border="1">
+5 CONT <thead>
+5 CONT <tr><th colspan="2">NAME.</th><th>Male or Female.</th><th>AG
+5 CONC E.</th><th>Color.</th><th>IN WHAT COUNTRY BORN.</th><th>Citz
+5 CONC en or Alien.</th><th>OCCUPATION.</th></tr>
+5 CONT </thead>
+5 CONT <tbody>
+5 CONT <tr><td>William</td><td>M<sup>c</sup>Laughlin</td><td>m</td>
+5 CONC <td>67</td><td>&nbsp;</td><td>Ireland</td><td>c</td><td>Farm
+5 CONC er</td></tr>
+5 CONT <tr><td>Margaret</td><td>M<sup>c</sup>Laughlin</td><td>f</td
+5 CONC ><td>60</td><td>&nbsp;</td><td>&quot;</td><td>c</td><td>&nbs
+5 CONC p;</td></tr>
+5 CONT <tr><td>James W.</td><td>M<sup>c</sup>Laughlin</td><td>m</td
+5 CONC ><td>30</td><td>&nbsp;</td><td>U.S.</td><td>c</td><td>Carpen
+5 CONC ter &amp; Joiner</td></tr>
+5 CONT <tr><td>George E.</td><td>M<sup>c</sup>Laughlin</td><td>m</t
+5 CONC d><td>28</td><td>&nbsp;</td><td>U.S.</td><td>c</td><td>&quot
+5 CONC ;</td></tr>
+5 CONT <tr><td>William P.</td><td>M<sup>c</sup>Laughlin</td><td>m</
+5 CONC td><td>27</td><td>&nbsp;</td><td>U.S.</td><td>c</td><td>&quo
+5 CONC t;</td></tr>
+5 CONT <tr><td>Daniel J.</td><td>M<sup>c</sup>Laughlin</td><td>m</t
+5 CONC d><td>25</td><td>&nbsp;</td><td>U.S.</td><td>c</td><td>Farme
+5 CONC r</td></tr>
+5 CONT <tr><td>Thomas F.</td><td>M<sup>c</sup>Laughlin</td><td>m</t
+5 CONC d><td>24</td><td>&nbsp;</td><td>U.S.</td><td>c</td><td>&quot
+5 CONC ;</td></tr>
+5 CONT <tr><td>Framcis J.</td><td>M<sup>c</sup>Laughlin</td><td>m</
+5 CONC td><td>19</td><td>&nbsp;</td><td>U.S.</td><td>c</td><td>&nbs
+5 CONC p;</td></tr>
+5 CONT <tr><td>Mary A.</td><td>M<sup>c</sup>Laughlin</td><td>f</td>
+5 CONC <td>22</td><td>&nbsp;</td><td>U.S.</td><td>c</td><td>&nbsp;<
+5 CONC /td></tr>
+5 CONT <tr><td>Catherine J.</td><td>M<sup>c</sup>Laughlin</td><td>f
+5 CONC </td><td>16</td><td>&nbsp;</td><td>U.S.</td><td>c</td><td>&n
+5 CONC bsp;</td></tr>
+5 CONT <tr><td colspan="8">[...]</td></tr>
+5 CONT <tr><td>Henry F.</td><td>Harrison</td><td>m</td><td>52</td><
+5 CONC td>&nbsp;</td><td>U.S.</td><td>c</td><td>Farmer</td></tr>
+5 CONT <tr><td>Hannah L.</td><td>Harrison</td><td>f</td><td>40</td>
+5 CONC <td>&nbsp;</td><td>U.S.</td><td>c</td><td>&nbsp;</td></tr>
+5 CONT <tr><td>G. Elmer</td><td>Harrison</td><td>m</td><td>19</td><
+5 CONC td>&nbsp;</td><td>U.S.</td><td>c</td><td>&nbsp;</td></tr>
+5 CONT <tr><td>Mary</td><td>Rosier</td><td>f</td><td>9</td><td>&nbs
+5 CONC p;</td><td>U.S.</td><td>c</td><td>&nbsp;</td></tr>
+5 CONT <tr><td>Mary E.</td><td>Harrison</td><td>f</td><td>83</td><t
+5 CONC d>&nbsp;</td><td>U.S.</td><td>c</td><td>&nbsp;</td></tr>
+5 CONT </tbody>
+5 CONT </table>
 2 NOTE Age: 67
 1 RESI
 2 DATE 01 JUN 1900
@@ -10227,6 +12127,39 @@
 3 OBJE @M169@
 3 _APID 7602:56735659
 2 SOUR @0VVQ8i0xTuG0p9aveWFA@
+3 DATA
+4 TEXT dwelling #69<br />
+5 CONT family# 70<br />
+5 CONT last-name,first-name,relation,race,sex,birth,age,mard/sing,y
+5 CONC rs-msrd,child,child-live,born,father-born,mother-born,immig,
+5 CONC yrs-in-US,natural,occu,read/write<br />
+5 CONT McLaughlin, Wm, Head, W, M, May 1821, 79, M, 39, , , Ireland
+5 CONC , Ireland, Ireland, 1857, 49, NA, farmer, RW<br />
+5 CONT -, Margeret, Wife, W, F, May 1835, 65, M, 39, 10, 9, Ireland
+5 CONC , Ireland, Ireland, 1857, 42, , , RW<br />
+5 CONT -, William P, son, W, M, May 1866, 34, M, 0, , , NY, ", "
+5 CONC , , , , farmer, RW<br />
+5 CONT -, Bridget, dau-in-law, W, F, Sept 1873, 26, M, 0, 0, 0, Ire
+5 CONC land, Ireland, Ireland, 1889, 10, , , RW<br />
+5 CONT -, Thomas, son, W, M, Jan 1869, 31, S, , , , NY, ", "
+5 CONC , , , , carpenter, RW<br />
+5 CONT -, Frank, son, W, M, Aug 1873, 26, S, , , , NY, ", "
+5 CONC , , , , own mort farm farmer, RW<br />
+5 CONT dwelling #70<br />
+5 CONT family# 71<br />
+5 CONT last-name,first-name,relation,race,sex,birth,age,mard/sing,y
+5 CONC rs-msrd,child,child-live,born,father-born,mother-born,occu<b
+5 CONC r />
+5 CONT Harrison, Henry F, Head, W, M, May 1840, 60, M, , , , NY, NY
+5 CONC , NY, own free farm farmer<br />
+5 CONT -, Elmer, son, W, M, Nov 1873, 26, M, 2, , , NY, NY, NY, far
+5 CONC m laborer<br />
+5 CONT -, M. Annie, dau in law, W, F, Jul 1870, 29, M, 2, 11, , NY
+5 CONC , Ireland, Ireland<br />
+5 CONT -, Walter E, gran'son, Jan 1900, 5/12, S, , , , NY, NY, NY<b
+5 CONC r />
+5 CONT Kniffin, James C., servant, W, M, Feb 1886, 14, S, , , , NY
+5 CONC , NY, NY, at school 4 mos
 2 NOTE Age: 79; Marital Status: Married; Relation to Head of House
 3 CONC : Head
 2 NOTE Marital Status: Married; Relation to Head: Head
@@ -14790,30 +16723,23 @@
 2 CONC e: 2012
 1 _APID 2442
 0 @6aZvkyP9TuKlLHdCOmYL@ SOUR
-1 REFN f38e0d40-6297-43e6-a96d-a3e9b38ef9d1
 1 TITL Atlas of Madison County, NY
 1 AUTH Beers, D. G.
 1 PUBL Pomeroy, Whitman, & Co., Philadelphia, PA, 1875
 0 @CjXHrGelRbOCGmAkW59P@ SOUR
-1 REFN f059b556-eb8e-4e35-869c-1f2bbc8198b1
 1 TITL Death Index
 1 PUBL Steuben Co. Clerks Office, Bath, NY
 0 @jwkwJiwySpmJ1YbUX3O0@ SOUR
-1 REFN 3271c84b-5577-4068-aadd-e5101b722829
 1 TITL Dozens of Cousins
 1 AUTH Regan, Shirley Frost
 1 PUBL In possession of Chris Mosher, Sep 1974
 0 @MQZgWkG8QhWLmgvaw3m7@ SOUR
-1 REFN 9dd4c39a-bfba-4372-b45c-4f5236811684
 1 TITL Gravestone, Harrison, George Elmer, and McLaughlin, Mary Ann
 1 PUBL Central Valley Cemetery, Hornby, NY
-1 TEXT HARRISON ELMER 1873-1943<br />
-2 CONT ANNA 1870-1953
 0 @S26@ SOUR
 1 REPO @R3@
 1 TITL Harrison/McLaughlin Documents
 0 @EndAqtV7TBSOao81uFyz@ SOUR
-1 REFN a0eb25cd-b960-4624-b276-87afd8026666
 1 TITL Lillian's Hornby, Newsletters 1969-1993 by Historian Lillia
 2 CONC n Adams
 1 AUTH Hornby [New York] Historical Society
@@ -14876,7 +16802,6 @@
 2 CONC e: 2013
 1 _APID 7181
 0 @m7Phkg8qRz2NO0TDWP4l@ SOUR
-1 REFN 9e8f31ef-249c-4681-88bd-aa39769e3cc6
 1 REPO @R1@
 1 TITL New York, State Census, 1865
 1 AUTH Ancestry.com
@@ -14884,7 +16809,6 @@
 2 CONC e: 2014
 1 _APID 7218
 0 @7tJxBxhGR46VSVFwI4mZ@ SOUR
-1 REFN 8960520c-bf23-4c5d-b7c2-9e1440b74ff5
 1 REPO @R1@
 1 TITL New York, State Census, 1875
 1 AUTH Ancestry.com
@@ -14899,7 +16823,6 @@
 2 CONC e: 2012
 1 _APID 3212
 0 @6NcIzxfbRyyWNjNadTrG@ SOUR
-1 REFN 4ad5e1dd-9ac2-439f-8261-9a598dcd661b
 1 REPO @R1@
 1 TITL New York, State Census, 1905
 1 AUTH Ancestry.com
@@ -14936,149 +16859,18 @@
 2 CONC : 2019
 1 _APID 61843
 0 @EN0e5E9qRzetfuaNWGkV@ SOUR
-1 REFN e94ac2af-a6b1-47e0-bbe8-b88dd05d2367
 1 TITL NY Census, 1865, Steuben Co., Hornby, image 5 of 34
 1 AUTH New York State
 1 PUBL FamilySearch.org
-1 TEXT <table border="1">
-2 CONT <thead>
-2 CONT <tr><th>visitation</th><th>material built</th><th>Value</th>
-2 CONC <th>Family</th><th colspan="2">Name</th><th>Age.</th><th>Sex
-2 CONC .</th><th>Color</th><th>Relation</th><th>born</th><th>childr
-2 CONC en</th><th>times married</th><th>married</th><th>widowed</th
-2 CONC ><th>single</th><th>occupation</th><th>employment if out o
-2 CONC f town</th><th>Native</th><th>Naturalized</th><th>Alien</th>
-2 CONC <th>Colored</th><th>Owner of land</th><th>not able to read/w
-2 CONC rite</th><th>deaf, dumb...</th><th>army</th><th>navy</th><th
-2 CONC >former army</th><th>former navy</th></tr>
-2 CONT </thead>
-2 CONT <tbody>
-2 CONT <tr><td>67</td><td>Frame</td><td>$200</td><td>67</td><td>Wil
-2 CONC liam</td><td>McLaughlin</td><td>40</td><td>M</td><td>&nbsp;<
-2 CONC /td><td>&nbsp;</td><td>Ireland</td><td>&nbsp;</td><td>1</td>
-2 CONC <td>1</td><td>&nbsp;</td><td>&nbsp;</td><td>Soldier</td><td>
-2 CONC &nbsp;</td><td>&nbsp;</td><td>1</td><td>&nbsp;</td><td>&nbsp
-2 CONC ;</td><td>1</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td
-2 CONC ><td>&nbsp;</td><td>1</td><td>&nbsp;</td></tr>
-2 CONT <tr><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;<
-2 CONC /td><td>Margaret</td><td>McLaughlin</td><td>34</td><td>F</td
-2 CONC ><td>&nbsp;</td><td>Wife</td><td>&quot; &quot;</td><td>3</td
-2 CONC ><td>1</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>
-2 CONC &nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>
-2 CONC &nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>
-2 CONC &nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>
-2 CONC &nbsp;</td></tr>
-2 CONT <tr><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;<
-2 CONC /td><td>Charles</td><td>McLaughlin</td><td>4</td><td>M</td><
-2 CONC td>&nbsp;</td><td>Child</td><td>Steuben</td><td>&nbsp;</td><
-2 CONC td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><
-2 CONC td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><
-2 CONC td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><
-2 CONC td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><
-2 CONC td>&nbsp;</td></tr>
-2 CONT <tr><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;<
-2 CONC /td><td>James</td><td>McLaughlin</td><td>2 <sup>3</sup>&fras
-2 CONC l;<sub>12</sub></td><td>M</td><td>&nbsp;</td><td>&quot; &quo
-2 CONC t;</td><td>&quot; &quot;</td><td>&nbsp;</td><td>&nbsp;</td><
-2 CONC td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><
-2 CONC td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><
-2 CONC td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><
-2 CONC td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><
-2 CONC /tr>
-2 CONT <tr><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;<
-2 CONC /td><td>George</td><td>McLaughlin</td><td>1</td><td>M</td><t
-2 CONC d>&nbsp;</td><td>&quot; &quot;</td><td>&quot; &quot;</td><td
-2 CONC >&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td
-2 CONC >&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td
-2 CONC >&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td
-2 CONC >&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td
-2 CONC >&nbsp;</td><td>&nbsp;</td></tr>
-2 CONT </tbody>
-2 CONT </table>
 0 @X52okFSjQVGrzZVhB8AG@ SOUR
-1 REFN e4e630ba-5073-4cd5-a60f-d3177b7dbcd9
 1 TITL NY Census, 1892, Steuben Co., Hornby, ED 1, image 3 of 9
 1 AUTH New York State
 1 PUBL FamilySearch.org
-1 TEXT <table border="1">
-2 CONT <thead>
-2 CONT <tr><th colspan="2">NAME.</th><th>Male or Female.</th><th>AG
-2 CONC E.</th><th>Color.</th><th>IN WHAT COUNTRY BORN.</th><th>Citz
-2 CONC en or Alien.</th><th>OCCUPATION.</th></tr>
-2 CONT </thead>
-2 CONT <tbody>
-2 CONT <tr><td>William</td><td>M<sup>c</sup>Laughlin</td><td>m</td>
-2 CONC <td>67</td><td>&nbsp;</td><td>Ireland</td><td>c</td><td>Farm
-2 CONC er</td></tr>
-2 CONT <tr><td>Margaret</td><td>M<sup>c</sup>Laughlin</td><td>f</td
-2 CONC ><td>60</td><td>&nbsp;</td><td>&quot;</td><td>c</td><td>&nbs
-2 CONC p;</td></tr>
-2 CONT <tr><td>James W.</td><td>M<sup>c</sup>Laughlin</td><td>m</td
-2 CONC ><td>30</td><td>&nbsp;</td><td>U.S.</td><td>c</td><td>Carpen
-2 CONC ter &amp; Joiner</td></tr>
-2 CONT <tr><td>George E.</td><td>M<sup>c</sup>Laughlin</td><td>m</t
-2 CONC d><td>28</td><td>&nbsp;</td><td>U.S.</td><td>c</td><td>&quot
-2 CONC ;</td></tr>
-2 CONT <tr><td>William P.</td><td>M<sup>c</sup>Laughlin</td><td>m</
-2 CONC td><td>27</td><td>&nbsp;</td><td>U.S.</td><td>c</td><td>&quo
-2 CONC t;</td></tr>
-2 CONT <tr><td>Daniel J.</td><td>M<sup>c</sup>Laughlin</td><td>m</t
-2 CONC d><td>25</td><td>&nbsp;</td><td>U.S.</td><td>c</td><td>Farme
-2 CONC r</td></tr>
-2 CONT <tr><td>Thomas F.</td><td>M<sup>c</sup>Laughlin</td><td>m</t
-2 CONC d><td>24</td><td>&nbsp;</td><td>U.S.</td><td>c</td><td>&quot
-2 CONC ;</td></tr>
-2 CONT <tr><td>Framcis J.</td><td>M<sup>c</sup>Laughlin</td><td>m</
-2 CONC td><td>19</td><td>&nbsp;</td><td>U.S.</td><td>c</td><td>&nbs
-2 CONC p;</td></tr>
-2 CONT <tr><td>Mary A.</td><td>M<sup>c</sup>Laughlin</td><td>f</td>
-2 CONC <td>22</td><td>&nbsp;</td><td>U.S.</td><td>c</td><td>&nbsp;<
-2 CONC /td></tr>
-2 CONT <tr><td>Catherine J.</td><td>M<sup>c</sup>Laughlin</td><td>f
-2 CONC </td><td>16</td><td>&nbsp;</td><td>U.S.</td><td>c</td><td>&n
-2 CONC bsp;</td></tr>
-2 CONT <tr><td colspan="8">[...]</td></tr>
-2 CONT <tr><td>Henry F.</td><td>Harrison</td><td>m</td><td>52</td><
-2 CONC td>&nbsp;</td><td>U.S.</td><td>c</td><td>Farmer</td></tr>
-2 CONT <tr><td>Hannah L.</td><td>Harrison</td><td>f</td><td>40</td>
-2 CONC <td>&nbsp;</td><td>U.S.</td><td>c</td><td>&nbsp;</td></tr>
-2 CONT <tr><td>G. Elmer</td><td>Harrison</td><td>m</td><td>19</td><
-2 CONC td>&nbsp;</td><td>U.S.</td><td>c</td><td>&nbsp;</td></tr>
-2 CONT <tr><td>Mary</td><td>Rosier</td><td>f</td><td>9</td><td>&nbs
-2 CONC p;</td><td>U.S.</td><td>c</td><td>&nbsp;</td></tr>
-2 CONT <tr><td>Mary E.</td><td>Harrison</td><td>f</td><td>83</td><t
-2 CONC d>&nbsp;</td><td>U.S.</td><td>c</td><td>&nbsp;</td></tr>
-2 CONT </tbody>
-2 CONT </table>
 0 @Ym3qyaniTfeOl2MBXIRZ@ SOUR
-1 REFN fa732ce8-f1db-4937-9781-edda3d119bbd
 1 TITL NY Census, 1905, Steuben Co., Hornby, AD 1 ED 1
 1 AUTH New York State
 1 PUBL FamilySearch.org
-1 TEXT <table border="1">
-2 CONT <thead>
-2 CONT <tr><th colspan="2">NAME</th><th>RELATION.</th><th>Color.</t
-2 CONC h><th>Sex.</th><th>Age</th><th>NATIVITY.</th><th>Years in US
-2 CONC </th><th>Citizen or alien.</th><th>Occupation.</th><th>Class
-2 CONC </th></tr>
-2 CONT </thead>
-2 CONT <tbody>
-2 CONT <tr><td>Harrison</td><td>Henry F</td><td>Head</td><td>W</td>
-2 CONC <td>M</td><td>65</td></td><td>United States<td>&nbsp;</td><t
-2 CONC d>Cit</td><td>Farmer</td><td>O[wn] A[ccount]</td></tr>
-2 CONT <tr><td>-</td><td>Elmer G</td><td>Son</td><td>W</td><td>M</t
-2 CONC d><td>32</td></td><td>United States<td>&nbsp;</td><td>Cit</t
-2 CONC d><td>Farmer</td><td>O[wn] A[ccount]</td></tr>
-2 CONT <tr><td>-</td><td>Anna M.</td><td>D in law</td><td>W</td><td
-2 CONC >F</td><td>34</td></td><td>United States<td>&nbsp;</td><td>C
-2 CONC it</td><td>Housework</td><td>X</td></tr>
-2 CONT <tr><td>-</td><td>John F</td><td>G son</td><td>W</td><td>M</
-2 CONC td><td>4</td></td><td>United States<td>&nbsp;</td><td>Cit</t
-2 CONC d><td>X</td><td>X</td></tr>
-2 CONT </tbody>
-2 CONT </table>
 0 @X42OSNfDR6eKC3kcqAeS@ SOUR
-1 REFN cceb6bd8-f346-4605-8690-7e07f0d84636
 1 TITL Social Security Death Index
 1 AUTH US Social Security Administration
 0 @S25@ SOUR
@@ -15091,7 +16883,6 @@
 1 TITL St. Mary’s of the Lake Church Records
 1 AUTH St. Mary’s of the Lake Church (Watkins Glen, New York, USA)
 0 @w3Was8NjTqaJ1xyf2G1Y@ SOUR
-1 REFN e6fc4f55-0768-4528-929c-f1b367633e4e
 1 REPO @R1@
 1 TITL Steuben County, New York Directory, 1891
 1 AUTH Ancestry.com
@@ -15120,7 +16911,6 @@
 2 CONC : 2006
 1 _APID 8750
 0 @XO6j9SijRyGVeXfL600G@ SOUR
-1 REFN f9ceabcf-0b8a-452f-8756-0c7cca97e3d6
 1 REPO @R1@
 1 TITL U.S., Civil War Draft Registrations Records, 1863-1865
 1 AUTH Ancestry.com
@@ -15150,7 +16940,6 @@
 2 CONC e: 2012
 1 _APID 60525
 0 @Q8iDZeKCS1CzlZZGz67M@ SOUR
-1 REFN 74af6156-9a4c-4b71-8e25-c6310be25969
 1 REPO @R1@
 1 TITL U.S., Indexed County Land Ownership Maps, 1860-1918
 1 AUTH Ancestry.com
@@ -15181,7 +16970,6 @@
 2 CONC e: 2015
 1 _APID 60901
 0 @GBMDFX2WTtuAjoiA5QpK@ SOUR
-1 REFN 88eeb28b-101b-4ddc-a6b1-c0e913d3e8fa
 1 REPO @R1@
 1 TITL U.S., Social Security Death Index, 1935-Current
 1 AUTH Ancestry.com
@@ -15189,7 +16977,6 @@
 2 CONC : 2011
 1 _APID 3693
 0 @1yLmCieuQLi5Xq8U1nQe@ SOUR
-1 REFN f804d24c-5c5a-466b-8461-10617a3e29eb
 1 REPO @R1@
 1 TITL U.S., World War I Draft Registration Cards, 1917-1918
 1 AUTH Ancestry.com
@@ -15197,701 +16984,42 @@
 2 CONC : 2005
 1 _APID 6482
 0 @yuEWiW3cScuvdxwbqXvS@ SOUR
-1 REFN b03eb000-538b-4c61-999b-dcdce9676f45
 1 TITL US Census, 1860, NY, Schuyler, Dix
 1 AUTH US Census Bureau
 1 PUBL M653.859, p. 882
-1 TEXT Page No. 70<br />
-2 CONT SCHEDULE 1. Free Inhabitants in Dix in the County of Schuyle
-2 CONC r State of New York enumerated by me, on the 26th day of Jul
-2 CONC y 1860.<br />
-2 CONT Post Office Watkins<br />
-2 CONT [...]<br />
-2 CONT [Dwelling] 568<br />
-2 CONT [Family] 574<br />
-2 CONT <table border="1">
-2 CONT <tr><td>[name</td><td>age</td><td>gender</td><td>occu</td><t
-2 CONC d>real$</td><td>persl$</td><td>birthplace]</td></tr>
-2 CONT <tr><td>William McLaughlin</td><td>29</td><td>M</td><td>Farm
-2 CONC er</td><td>840</td><td>525</td><td>Ireland</td></tr>
-2 CONT <tr><td>Hannah</td><td>50</td><td>F</td><td>&nbsp;</td><td>&
-2 CONC nbsp;</td><td>&nbsp;</td><td>"</td></tr>
-2 CONT <tr><td>Elizabeth</td><td>32</td><td>F</td><td>&nbsp;</td><t
-2 CONC d>&nbsp;</td><td>&nbsp;</td><td>"</td></tr>
-2 CONT </table>
-2 CONT [Dwelling] 569<br />
-2 CONT [Family] 575<br />
-2 CONT <table border="1">
-2 CONT <tr><td>James McLaughlin</td><td>28</td><td>M</td><td>Farmer
-2 CONC </td><td>&nbsp;</td><td>&nbsp;</td><td>"</td></tr>
-2 CONT <tr><td>Hannah McCarthy</td><td>26</td><td>F</td><td>&nbsp;<
-2 CONC /td><td>&nbsp;</td><td>&nbsp;</td><td>"</td></tr>
-2 CONT <tr><td>Ellen McLaughlin</td><td>24</td><td>F</td><td>&nbsp;
-2 CONC </td><td>&nbsp;</td><td>&nbsp;</td><td>"</td></tr>
-2 CONT <tr><td>Charles</td><td>22</td><td>M</td><td>farm laborer</t
-2 CONC d><td>&nbsp;</td><td>&nbsp;</td><td>"</td></tr>
-2 CONT <tr><td>Anna</td><td>18</td><td>F</td><td>&nbsp;</td><td>&nb
-2 CONC sp;</td><td>&nbsp;</td><td>"</td></tr>
-2 CONT <tr><td>Hannah McGinly</td><td>5</td><td>F</td><td>&nbsp;</t
-2 CONC d><td>&nbsp;</td><td>&nbsp;</td><td>New York</td></tr>
-2 CONT <tr><td>Charles McCarthy</td><td>2</td><td>M</td><td>&nbsp;<
-2 CONC /td><td>&nbsp;</td><td>&nbsp;</td><td>"</td></tr>
-2 CONT <tr><td>James</td><td>7/12</td><td>M</td><td>&nbsp;</td><td>
-2 CONC &nbsp;</td><td>&nbsp;</td><td>"</td></tr>
-2 CONT </table>
 0 @98UuyDryS9OVRI6rs8y5@ SOUR
-1 REFN 1aa83def-dee8-4cb5-bd25-9d060dede12c
 1 TITL US Census, 1860, NY, Schuyler, Reading
 1 AUTH US Census Bureau
 1 PUBL M653.859, p. 646
-1 TEXT Page No. 18<br />
-2 CONT SCHEDULE 1.--Free Inhabitants in the town of Reading in th
-2 CONC e County of Schuyler State of New York enumerated by me, o
-2 CONC n the 9th day of August 1860.<br />
-2 CONT Post Office Orange<br />
-2 CONT [...]<br />
-2 CONT [Dwelling] 1102<br />
-2 CONT [Family] 1129<br />
-2 CONT <table border="1">
-2 CONT <tr><td>[name</td><td>age</td><td>gender</td><td>occu</td><t
-2 CONC d>real$</td><td>persl$</td><td>birthplace]</td></tr>
-2 CONT <tr><td>William Diven</td><td>71</td><td>M</td><td>D[itt]o [
-2 CONC farmer]</td><td>5000</td><td>1560</td><td>Penn</td></tr>
-2 CONT <tr><td>Mary A. "</td><td>52</td><td>F</td><td>&nbsp;</td><t
-2 CONC d>&nbsp;</td><td>&nbsp;</td><td>N.Y.</td></tr>
-2 CONT <tr><td>Maria A "</td><td>14</td><td>F</td><td>&nbsp;</td><t
-2 CONC d>&nbsp;</td><td>&nbsp;</td><td>"</td></tr>
-2 CONT <tr><td>Margaret Dougherty</td><td>25</td><td>F</td><td>Dome
-2 CONC stic</td><td>&nbsp;</td><td>&nbsp;</td><td>Ireland</td></tr>
-2 CONT </table>
 0 @XHbynk1vRyWlvMJITFAn@ SOUR
-1 REFN 40c8efe6-2cb8-4e28-84eb-5e416887b444
 1 TITL US Census, 1870, NY, Steuben, Hornby
 1 AUTH US Census Bureau
 1 PUBL M593.1095, pp. 218-219
-1 TEXT [AIS page 218]<br />
-2 CONT Page No. 13<br />
-2 CONT SCHEDULE 1.--Inhabitants in Hornby, in the County of Steuben
-2 CONC , State of New York, enumerated by me on the 29th day of Jun
-2 CONC e, 1870.<br />
-2 CONT [...]<br />
-2 CONT [Dwelling] 123<br />
-2 CONT [Family] 111<br />
-2 CONT <table border="1">
-2 CONT <tr><td>McLantghelin, W.</td><td>45</td><td>M</td><td>W</td>
-2 CONC <td>Farmer</td><td>2,500</td><td>600</td><td>Ireland</td><td
-2 CONC >[ffb]</td><td>[mfb]</td><td>&nbsp;</td><td>[cread]</td><td>
-2 CONC &nbsp;</td></tr>
-2 CONT <tr><td>-- Margaret</td><td>37</td><td>F</td><td>W</td><td>K
-2 CONC eeping house</td><td>&nbsp;</td><td>&nbsp;</td><td>d[itt]o</
-2 CONC td><td>[ffb]</td><td>[mfb]</td><td>&nbsp;</td><td>[cread]</t
-2 CONC d><td>[cwrite]</td></tr>
-2 CONT <tr><td>-- Charles</td><td>8</td><td>M</td><td>W</td><td>&nb
-2 CONC sp;</td><td>&nbsp;</td><td>&nbsp;</td><td>d[itt]o</td><td>[f
-2 CONC fb]</td><td>[mfb]</td><td>[school]</td><td>[cread]</td><td>&
-2 CONC nbsp;</td></tr>
-2 CONT <tr><td>-- James</td><td>7</td><td>M</td><td>W</td><td>&nbsp
-2 CONC ;</td><td>&nbsp;</td><td>&nbsp;</td><td>New York</td><td>[ff
-2 CONC b]</td><td>[mfb]</td><td>[school]</td><td>[cread]</td><td>&n
-2 CONC bsp;</td></tr>
-2 CONT <tr><td>-- George</td><td>6</td><td>M</td><td>W</td><td>&nbs
-2 CONC p;</td><td>&nbsp;</td><td>&nbsp;</td><td>d[itt]o</td><td>[ff
-2 CONC b]</td><td>[mfb]</td><td>[school]</td><td>[cread]</td><td>&n
-2 CONC bsp;</td></tr>
-2 CONT <tr><td>-- Wiliam</td><td>4</td><td>M</td><td>W</td><td>&nbs
-2 CONC p;</td><td>&nbsp;</td><td>&nbsp;</td><td>d[itt]o</td><td>[ff
-2 CONC b]</td><td>[mfb]</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp
-2 CONC ;</td></tr>
-2 CONT <tr><td>-- Daniel</td><td>2</td><td>M</td><td>W</td><td>&nbs
-2 CONC p;</td><td>&nbsp;</td><td>&nbsp;</td><td>d[itt]o</td><td>[ff
-2 CONC b]</td><td>[mfb]</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp
-2 CONC ;</td></tr>
-2 CONT <tr><td>-- Thomas</td><td>1</td><td>M</td><td>W</td><td>&nbs
-2 CONC p;</td><td>&nbsp;</td><td>&nbsp;</td><td>d[itt]o</td><td>[ff
-2 CONC b]</td><td>[mfb]</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp
-2 CONC ;</td></tr>
-2 CONT </table>
-2 CONT [Dwelling] 124<br />
-2 CONT [Family] 112<br />
-2 CONT <table border="1">
-2 CONT <tr><td>Harrison H F</td><td>30</td><td>M</td><td>W</td><td>
-2 CONC Farmer</td><td>2,000</td><td>500</td><td>New York</td><td>&n
-2 CONC bsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>[cread]</td><td>[
-2 CONC cwrite]</td></tr>
-2 CONT <tr><td>-- Mary</td><td>61</td><td>F</td><td>W</td><td>Keepi
-2 CONC ng house</td><td>&nbsp;</td><td>&nbsp;</td><td>d[itt]o</td><
-2 CONC td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>[cread]</td>
-2 CONC <td>[cwrite]</td></tr>
-2 CONT </table>
-2 CONT [AIS page 219]<br />
-2 CONT Page No. 14<br />
-2 CONT SCHEDULE 1.--Inhabitants in Hornby, in the County of Steuben
-2 CONC , State of New York, enumerated by me on the 29th day of Jun
-2 CONC e, 1870.<br />
-2 CONT [...]<br />
-2 CONT <table border="1">
-2 CONT <tr><td>Harrison Sarah</td><td>22</td><td>F</td><td>W</td><t
-2 CONC d>House keeping</td><td>&nbsp;</td><td>&nbsp;</td><td>New Yo
-2 CONC rk</td><td>&nbsp;</td><td>[cread]</td><td>[cwrite]</td></tr>
-2 CONT </table>
-2 CONT [ffb = father was of foreign birth<br />
-2 CONT mfb = mother was of foreign birth,<br />
-2 CONT cread = cannot read<br />
-2 CONT cwrite = cannot write]<br />
 0 @pzS3cyb7RDaOk3XQGybM@ SOUR
-1 REFN 9d0cf581-df8b-4c71-b97a-961b4c74bb48
 1 TITL US Census, 1880, NY, Steuben Co
 1 AUTH US Census Bureau
 1 PUBL Hornby, Steuben, NY, 10 Jun 1880
-1 TEXT dwelling #117<br />
-2 CONT family #118<br />
-2 CONT [all white]<br />
-2 CONT <table border="1">
-2 CONT <tr><td>last</td><td>given</td><td>gen</td><td>age</td><td>r
-2 CONC el</td><td>s/m/w</td><td>occ</td><td>b</td><td>fb</td><td>mb
-2 CONC </td></tr>
-2 CONT <tr><td>Harrison</td><td>Henry F</td><td>M</td><td>40</td><t
-2 CONC d>&nbsp;</td><td>m</td><td>farming</td><td>NY</td><td>NY</td
-2 CONC ><td>NY</td></tr>
-2 CONT <tr><td>"</td><td>Hannah</td><td>F</td><td>28</td><td>wife</
-2 CONC td><td>m</td><td>keeping house</td><td>NY</td><td>England</t
-2 CONC d><td>England</td></tr>
-2 CONT <tr><td>"</td><td>George E</td><td>M</td><td>6</td><td>son</
-2 CONC td><td>s</td><td>&nbsp;</td><td>NY</td><td>NY</td><td>NY</td
-2 CONC ></tr>
-2 CONT <tr><td>"</td><td>Mary E</td><td>F</td><td>71</td><td>mother
-2 CONC </td><td>w</td><td>at home</td><td>NY</td><td>NY</td><td>Con
-2 CONC n</td></tr>
-2 CONT </table>
-2 CONT dwelling #118<br />
-2 CONT family #119<br />
-2 CONT <table border="1">
-2 CONT <tr><td>McLaughlin</td><td>William</td><td>M</td><td>52</td>
-2 CONC <td>&nbsp;</td><td>m</td><td>farming</td><td>Ire</td><td>Ire
-2 CONC </td><td>Ire</td></tr>
-2 CONT <tr><td>"</td><td>Margaret</td><td>F</td><td>43</td><td>wife
-2 CONC </td><td>m</td><td>keeping house</td><td>NY</td><td>Ire</td>
-2 CONC <td>Ire</td></tr>
-2 CONT <tr><td>"</td><td>Charles</td><td>M</td><td>18</td><td>son</
-2 CONC td><td>s</td><td>labors on farm</td><td>NY</td><td>Ire</td><
-2 CONC td>Ire</td></tr>
-2 CONT <tr><td>"</td><td>James</td><td>M</td><td>17</td><td>son</td
-2 CONC ><td>s</td><td>labors on farm</td><td>NY</td><td>Ire</td><td
-2 CONC >Ire</td></tr>
-2 CONT <tr><td>"</td><td>George</td><td>M</td><td>16</td><td>son</t
-2 CONC d><td>s</td><td>labors on farm</td><td>NY</td><td>Ire</td><t
-2 CONC d>Ire</td></tr>
-2 CONT <tr><td>"</td><td>William</td><td>M</td><td>14</td><td>son</
-2 CONC td><td>s</td><td>labors on farm</td><td>NY</td><td>Ire</td><
-2 CONC td>Ire</td></tr>
-2 CONT <tr><td>"</td><td>Daniel</td><td>M</td><td>12</td><td>son</t
-2 CONC d><td>s</td><td>labors on farm</td><td>NY</td><td>Ire</td><t
-2 CONC d>Ire</td></tr>
-2 CONT <tr><td>"</td><td>Thomas</td><td>M</td><td>10</td><td>son</t
-2 CONC d><td>s</td><td>labors on farm</td><td>NY</td><td>Ire</td><t
-2 CONC d>Ire</td></tr>
-2 CONT <tr><td>"</td><td>Mary Ann</td><td>F</td><td>9</td><td>dau</
-2 CONC td><td>s</td><td>&nbsp;</td><td>NY</td><td>NY</td><td>Ire</t
-2 CONC d></tr>
-2 CONT <tr><td>"</td><td>Hannah</td><td>F</td><td>8</td><td>dau</td
-2 CONC ><td>s</td><td>&nbsp;</td><td>NY</td><td>Ire</td><td>Ire</td
-2 CONC ></tr>
-2 CONT <tr><td>"</td><td>Francis</td><td>F</td><td>6</td><td>son</t
-2 CONC d><td>s</td><td>&nbsp;</td><td>NY</td><td>Ire</td><td>Ire</t
-2 CONC d></tr>
-2 CONT <tr><td>"</td><td>Catherine J.</td><td>F</td><td>4</td><td>d
-2 CONC au</td><td>s</td><td>&nbsp;</td><td>NY</td><td>Ire</td><td>I
-2 CONC re</td></tr>
-2 CONT </table>
 0 @WyOooWAfTtGDtQ27yScX@ SOUR
-1 REFN 7a1da585-8804-495f-965f-9eb866a30973
 1 TITL US Census, 1890, Vererans Schedules, NY, Steuben, Hornby, im
 2 CONC age 3 of 5
 1 AUTH US Census Bureau
 1 PUBL M123.54, p. 3
-1 TEXT <table border="1">
-2 CONT <thead>
-2 CONT <tr><th rowspan="2">House No.</th><th rowspan="2">Family No.
-2 CONC </th><th rowspan="2">Names of Surviving Soldiers [...]</th><
-2 CONC th rowspan="2">Rank.</th><th rowspan="2">Company.</th><th ro
-2 CONC wspan="2">Name of Regiment or Vessel.</th><th rowspan="2" co
-2 CONC lspan="3">Date of Enlistment.</th><th rowspan="2" colspan="3
-2 CONC ">Date of Discharge</th><th colspan="3">Length of Service</t
-2 CONC h></tr>
-2 CONT <tr><th>Yrs.</th><th>Mos.</th><th>Days</th></tr>
-2 CONT </thead>
-2 CONT <tbody>
-2 CONT <tr><td>164</td><td>164</td><td>McLaughlin William</td><td>P
-2 CONC </td><td>M</td><td>15 NY Eng</td><td>9</td><td>Sept.</td><td
-2 CONC >1864</td><td>13</td><td>June</td><td>1865</td><td>[blank]</
-2 CONC td><td>9</td><td>4</td></tr>
-2 CONT </tbody>
-2 CONT </table>
-2 CONT <table border="1">
-2 CONT <thead>
-2 CONT <tr><th>Post-Office Address.</th></tr>
-2 CONT </thead>
-2 CONT <tbody>
-2 CONT <tr><td>&quot; [Hornby New York]</td></tr>
-2 CONT </tbody>
-2 CONT </table>
 0 @0VVQ8i0xTuG0p9aveWFA@ SOUR
-1 REFN c1e8f9c2-ab4f-4243-aee4-5b022488ec18
 1 TITL US Census, 1900, NY, Steuben Co., ed87, p3
 1 AUTH US Census Bureau
 1 PUBL Hornby, Steuben, NY, June 7, 1900
-1 TEXT dwelling #69<br />
-2 CONT family# 70<br />
-2 CONT last-name,first-name,relation,race,sex,birth,age,mard/sing,y
-2 CONC rs-msrd,child,child-live,born,father-born,mother-born,immig,
-2 CONC yrs-in-US,natural,occu,read/write<br />
-2 CONT McLaughlin, Wm, Head, W, M, May 1821, 79, M, 39, , , Ireland
-2 CONC , Ireland, Ireland, 1857, 49, NA, farmer, RW<br />
-2 CONT -, Margeret, Wife, W, F, May 1835, 65, M, 39, 10, 9, Ireland
-2 CONC , Ireland, Ireland, 1857, 42, , , RW<br />
-2 CONT -, William P, son, W, M, May 1866, 34, M, 0, , , NY, ", "
-2 CONC , , , , farmer, RW<br />
-2 CONT -, Bridget, dau-in-law, W, F, Sept 1873, 26, M, 0, 0, 0, Ire
-2 CONC land, Ireland, Ireland, 1889, 10, , , RW<br />
-2 CONT -, Thomas, son, W, M, Jan 1869, 31, S, , , , NY, ", "
-2 CONC , , , , carpenter, RW<br />
-2 CONT -, Frank, son, W, M, Aug 1873, 26, S, , , , NY, ", "
-2 CONC , , , , own mort farm farmer, RW<br />
-2 CONT dwelling #70<br />
-2 CONT family# 71<br />
-2 CONT last-name,first-name,relation,race,sex,birth,age,mard/sing,y
-2 CONC rs-msrd,child,child-live,born,father-born,mother-born,occu<b
-2 CONC r />
-2 CONT Harrison, Henry F, Head, W, M, May 1840, 60, M, , , , NY, NY
-2 CONC , NY, own free farm farmer<br />
-2 CONT -, Elmer, son, W, M, Nov 1873, 26, M, 2, , , NY, NY, NY, far
-2 CONC m laborer<br />
-2 CONT -, M. Annie, dau in law, W, F, Jul 1870, 29, M, 2, 11, , NY
-2 CONC , Ireland, Ireland<br />
-2 CONT -, Walter E, gran'son, Jan 1900, 5/12, S, , , , NY, NY, NY<b
-2 CONC r />
-2 CONT Kniffin, James C., servant, W, M, Feb 1886, 14, S, , , , NY
-2 CONC , NY, NY, at school 4 mos.<br />
 0 @zNXhGxUeTBSDFa7mPzjy@ SOUR
-1 REFN b9f750df-bb34-4db3-a575-7613603c4f2d
 1 TITL US Census, 1910, NY, Steuben, Hornby
 1 AUTH US Census Bureau
 1 PUBL T624.1080, p. 9B
-1 TEXT DEPARTMENT OF COMMERCE--BUREAU OF THE CENSUS<br />
-2 CONT THIRTEENTH CENSUS OF THE UNITED STATES: 1910--POPULATION<b
-2 CONC r />
-2 CONT STATE New York<br />
-2 CONT COUNTY Steuben<br />
-2 CONT TOWNSHIP OR OTHER DIVISION OF COUNTY Hornby Town<br />
-2 CONT SUPERVISOR'S DISTRICT NO. 17<br />
-2 CONT ENUMERATION DISTRICT NO. 132<br />
-2 CONT SHEET NO 9 B<br />
-2 CONT ENUMERATED BY ME ON THE 5 DAY OF May 1910, Geroge E. Harriso
-2 CONC n, ENUMERATOR.<br />
-2 CONT [...]<br />
-2 CONT [last family listed in Hornby]<br />
-2 CONT <table border="1">
-2 CONT <tr><td>[last</td><td>first</td><td>rel</td><td>gend</td><td
-2 CONC >race</td><td>age</td><td>mard</td><td>mard.yrs.</td><td>chi
-2 CONC ld</td><td>living</td><td>birthplace</td><td>fathers</td><td
-2 CONC >mother</td><td>tongue</td><td>occ</td><td>industry</td><td>
-2 CONC employ</td><td>can read</td><td>can write</td><td>att.sch.</
-2 CONC td><td>own/rent</td><td>free/mort</td><td>farm/house</td><td
-2 CONC >sched]</td></tr>
-2 CONT <tr><td>Harrison</td><td>G. Elmer</td><td>Head</td><td>M</td
-2 CONC ><td>W</td><td>36</td><td>M1</td><td>12</td><td>&nbsp;</td><
-2 CONC td>&nbsp;</td><td>New York</td><td>New York</td><td>New York
-2 CONC </td><td>English</td><td>Farmer</td><td>General Farm</td><td
-2 CONC >Emp</td><td>yes</td><td>yes</td><td>&nbsp;</td><td>R</td><t
-2 CONC d>&nbsp;</td><td>F</td><td>187[?]</td></tr>
-2 CONT <tr><td>--</td><td>Anna</td><td>Wife</td><td>F</td><td>W</td
-2 CONC ><td>39</td><td>M1</td><td>12</td><td>5</td><td>4</td><td>Ne
-2 CONC w York</td><td>Ire-English</td><td>Ire-English</td><td>Engli
-2 CONC sh</td><td>none</td><td>&nbsp;</td><td>&nbsp;</td><td>yes</t
-2 CONC d><td>yes</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><
-2 CONC td>&nbsp;</td><td>&nbsp;</td></tr>
-2 CONT <tr><td>--</td><td>John</td><td>Son</td><td>M</td><td>W</td>
-2 CONC <td>8</td><td>S</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;
-2 CONC </td><td>New York</td><td>New York</td><td>New York</td><td>
-2 CONC &nbsp;</td><td>none</td><td>&nbsp;</td><td>&nbsp;</td><td>&n
-2 CONC bsp;</td><td>&nbsp;</td><td>yes</td><td>&nbsp;</td><td>&nbsp
-2 CONC ;</td><td>&nbsp;</td><td>&nbsp;</td></tr>
-2 CONT <tr><td>--</td><td>Alice</td><td>Daughter</td><td>F</td><td>
-2 CONC W</td><td>4</td><td>S</td><td>&nbsp;</td><td>&nbsp;</td><td>
-2 CONC &nbsp;</td><td>New York</td><td>New York</td><td>New York</t
-2 CONC d><td>&nbsp;</td><td>none</td><td>&nbsp;</td><td>&nbsp;</td>
-2 CONC <td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
-2 CONC <td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr>
-2 CONT <tr><td>--</td><td>Leo</td><td>Son</td><td>M</td><td>W</td><
-2 CONC td>3</td><td>S</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;<
-2 CONC /td><td>New York</td><td>New York</td><td>New York</td><td>&
-2 CONC nbsp;</td><td>none</td><td>&nbsp;</td><td>&nbsp;</td><td>&nb
-2 CONC sp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nb
-2 CONC sp;</td><td>&nbsp;</td><td>&nbsp;</td></tr>
-2 CONT <tr><td>--</td><td>Gerald</td><td>Son</td><td>M</td><td>W</t
-2 CONC d><td>1 8/12</td><td>S</td><td>&nbsp;</td><td>&nbsp;</td><td
-2 CONC >&nbsp;</td><td>New York</td><td>New York</td><td>New York</
-2 CONC td><td>&nbsp;</td><td>none</td><td>&nbsp;</td><td>&nbsp;</td
-2 CONC ><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td
-2 CONC ><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr>
-2 CONT <tr><td>--</td><td>Henry</td><td>Father</td><td>M</td><td>W<
-2 CONC /td><td>68</td><td>Wd</td><td>&nbsp;</td><td>&nbsp;</td><td>
-2 CONC &nbsp;</td><td>New York</td><td>New York</td><td>New York</t
-2 CONC d><td>&nbsp;</td><td>Retired</td><td>Own income</td><td>&nbs
-2 CONC p;</td><td>yes</td><td>yes</td><td>&nbsp;</td><td>&nbsp;</td
-2 CONC ><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr>
-2 CONT </table>
 0 @Oqz6n5lyTPy7yuOdyBXV@ SOUR
-1 REFN bcbbe3fb-ea3b-45cd-a687-231cf3d33292
 1 TITL US Census, 1920, NY, Steuben, Hornby
 1 AUTH US Census Bureau
 1 PUBL T625.1267, p. 3A
-1 TEXT DEPARTMENT OF COMMERCE--BUREAU OF THE CENSUS<br />
-2 CONT FOURTEENTH CENSUS OF THE UNITED STATES: 1920--POPULATION<b
-2 CONC r />
-2 CONT STATE New York<br />
-2 CONT COUNTY Steuben<br />
-2 CONT TOWNSHIP OR OTHER DIVISION OF COUNTY Hornby Town<br />
-2 CONT SUPERVISOR'S DISTRICT NO. 18<br />
-2 CONT ENUMERATION DISTRICT NO. 114<br />
-2 CONT SHEET NO 3 A<br />
-2 CONT ENUMERATED BY ME ON THE 8-9 DAY OF January 1920, Elmer Harri
-2 CONC son, ENUMERATOR.<br />
-2 CONT [...]<br />
-2 CONT [Dwelling] 61<br />
-2 CONT [Family] 61<br />
-2 CONT <table border="1">
-2 CONT <tr><td>[last</td><td>first</td><td>rel.</td><td>own/rent</t
-2 CONC d><td>free/mort</td><td>gend.</td><td>race</td><td>age</td><
-2 CONC td>mard/singl</td><td>att.sch.</td><td>can read</td><td>ca
-2 CONC n write</td><td>birthplace</td><td>&nbsp;</td><td>father</td
-2 CONC ><td>tongue</td><td>mother</td><td>tongue</td><td>spk.Eng.</
-2 CONC td><td>occ</td><td>industry</td><td>wmpl</td><td>farm sched]
-2 CONC </td></tr>
-2 CONT <tr><td>Harrison</td><td>Elmer</td><td>Head</td><td>O</td><t
-2 CONC d>F</td><td>M</td><td>W</td><td>46</td><td>M</td><td>&nbsp;<
-2 CONC /td><td>yes</td><td>yes</td><td>New York</td><td>&nbsp;</td>
-2 CONC <td>New York</td><td>&nbsp;</td><td>New York</td><td>&nbsp;<
-2 CONC /td><td>yes</td><td>Farmer</td><td>General Farm</td><td>O.A.
-2 CONC </td><td>48</td></tr>
-2 CONT <tr><td>--</td><td>Anna</td><td>Wife</td><td>&nbsp;</td><td>
-2 CONC &nbsp;</td><td>F</td><td>W</td><td>49</td><td>M</td><td>&nbs
-2 CONC p;</td><td>yes</td><td>yes</td><td>New York</td><td>&nbsp;</
-2 CONC td><td>Ireland</td><td>English</td><td>Ireland</td><td>Engli
-2 CONC sh</td><td>yes</td><td>None</td><td>&nbsp;</td><td>&nbsp;</t
-2 CONC d><td>&nbsp;</td></tr>
-2 CONT <tr><td>--</td><td>John</td><td>Son</td><td>&nbsp;</td><td>&
-2 CONC nbsp;</td><td>M</td><td>W</td><td>18</td><td>S</td><td>no</t
-2 CONC d><td>yes</td><td>yes</td><td>New York</td><td>&nbsp;</td><t
-2 CONC d>New York</td><td>&nbsp;</td><td>New York</td><td>&nbsp;</t
-2 CONC d><td>yes</td><td>Laborer</td><td>House Farm</td><td>W</td><
-2 CONC td>&nbsp;</td></tr>
-2 CONT <tr><td>--</td><td>Alice</td><td>Daughter</td><td>&nbsp;</td
-2 CONC ><td>&nbsp;</td><td>F</td><td>W</td><td>14</td><td>S</td><td
-2 CONC >yes</td><td>yes</td><td>yes</td><td>New York</td><td>&nbsp;
-2 CONC </td><td>New York</td><td>&nbsp;</td><td>New York</td><td>&n
-2 CONC bsp;</td><td>yes</td><td>None</td><td>&nbsp;</td><td>&nbsp;<
-2 CONC /td><td>&nbsp;</td></tr>
-2 CONT <tr><td>--</td><td>Leo J.</td><td>Son</td><td>&nbsp;</td><td
-2 CONC >&nbsp;</td><td>M</td><td>W</td><td>12</td><td>S</td><td>yes
-2 CONC </td><td>yes</td><td>yes</td><td>New York</td><td>&nbsp;</td
-2 CONC ><td>New York</td><td>&nbsp;</td><td>New York</td><td>&nbsp;
-2 CONC </td><td>yes</td><td>None</td><td>&nbsp;</td><td>&nbsp;</td>
-2 CONC <td>&nbsp;</td></tr>
-2 CONT <tr><td>--</td><td>Gerald</td><td>Son</td><td>&nbsp;</td><td
-2 CONC >&nbsp;</td><td>M</td><td>W</td><td>10</td><td>S</td><td>yes
-2 CONC </td><td>yes</td><td>yes</td><td>New York</td><td>&nbsp;</td
-2 CONC ><td>New York</td><td>&nbsp;</td><td>New York</td><td>&nbsp;
-2 CONC </td><td>yes</td><td>None</td><td>&nbsp;</td><td>&nbsp;</td>
-2 CONC <td>&nbsp;</td></tr>
-2 CONT </table>
 0 @n9RFlzKrRM2Tyr8oEN6M@ SOUR
-1 REFN bf158be5-59ce-4a77-aa96-16f94e874f9c
 1 TITL US Census, 1930, NY, Steuben, Hornby
 1 AUTH US Census Bureau
 1 PUBL T626.1648, p. 1002
-1 TEXT <table width="100%">
-2 CONT <tr><td></td><td></td><td style="text-align:center">DEPARTME
-2 CONC NT OF COMMERCE&mdash;BUREAU OF THE CENSUS</td><td></td><td><
-2 CONC /td></tr>
-2 CONT <tr><td>State <b>New York</b></td><td>Incorporated place <b>
-2 CONC [blank]</b></td><td style="text-align:center">FIFTEENTH CENS
-2 CONC US OF THE UNITED STATES: 1930</td><td>Enumeration District N
-2 CONC o. <b>51-44</b></td><td>Sheet No.</td></tr>
-2 CONT <tr><td>County <b>Steuben</b></td><td>Ward of city <b>[blank
-2 CONC ]</b> Block No. <b>[blank]</b></td><td style="text-align:cen
-2 CONC ter;font-size:150%">POPULATION SCHEDULE</td><td>Supervisor'
-2 CONC s District No. <b>13</b></td><td><b>7 B</b></td></tr>
-2 CONT <tr><td>Township or other<br />&nbsp;division of county <b>H
-2 CONC ornby Town</b></td><td>Unincorporated place <b>[blank]</b><t
-2 CONC d>Institution <b>[blank]</b></td><td>Enumerated by me on <b>
-2 CONC April 26</b>, 1930, <b>Fred L Rogers</b>, <i>Enumerator.</i>
-2 CONC </td></tr>
-2 CONT </table>
-2 CONT <table width="100%" border="1" style="text-align:center">
-2 CONT <tr><td rowspan="4">&nbsp;</td><td colspan="4">PLACE OF ABOD
-2 CONC E</td>
-2 CONT <td nowrap="nowrap" rowspan="3" colspan="2">
-2 CONT NAME<br /><br />
-2 CONT of each person whose <i>place of abode</i> on<br />April 1
-2 CONC , 1930, was in this family<br /><br />
-2 CONT Enter surname first, then the given name and<br />middle ini
-2 CONC tial, if any<br /><br />
-2 CONT Include every person living on April 1, 1930. Omit<br />chil
-2 CONC dren born since April 1, 1930</td>
-2 CONT <td rowspan="3">RELATION<br /><br />Relationship of<br />thi
-2 CONC s person to<br />the head of the<br />family</td>
-2 CONT <td colspan="4">HOME DATA</td>
-2 CONT <td colspan="5">PERSONAL DESCRIPTION</td>
-2 CONT <td colspan="2">EDUCATION</td>
-2 CONT <td colspan="3">PLACE OF BIRTH</td>
-2 CONT <td colspan="4">MOTHER TONGUE (OR NATIVE<br />LANGUAGE) OF F
-2 CONC OREIGN BORN</td>
-2 CONT <td colspan="3">CITIZENSHIP, ETC.</td>
-2 CONT <td colspan="4">OCCUPATION AND INDUSTRY</td>
-2 CONT <td colspan="2" rowspan="2">EMPLOYMENT<br /><br />Whether ac
-2 CONC tually at work yesterday (or the last regular working day)</
-2 CONC td>
-2 CONT <td colspan="2" rowspan="2">VETERANS<br /><br />Whether a ve
-2 CONC teran of U.S. military or naval forces</td>
-2 CONT <td rowspan="3">Num-<br />ber of<br />farm<br />sched-<br />
-2 CONC ule</td>
-2 CONT <td rowspan="4">&nbsp;</td>
-2 CONT </tr>
-2 CONT <tr>
-2 CONT <td rowspan="2">Street, avenue, road, etc.</td>
-2 CONT <td rowspan="2">House number (in cities or towns)</td>
-2 CONT <td rowspan="2">Number of dwelling house in the order of vis
-2 CONC itation.</td>
-2 CONT <td rowspan="2">Number of family in the order of visitation.
-2 CONC </td>
-2 CONT <td rowspan="2">House owned or rented</td>
-2 CONT <td rowspan="2">Value of house, <i>if</i> owned, or monthl
-2 CONC y rental, <i>if</i> rented</td>
-2 CONT <td rowspan="2">Radio set</td>
-2 CONT <td rowspan="2">Does this family live on a farm?</td>
-2 CONT <td rowspan="2">Sex</td>
-2 CONT <td rowspan="2">Color or race</td>
-2 CONT <td rowspan="2">Age at last birthday</td>
-2 CONT <td rowspan="2">Marital condition</td>
-2 CONT <td rowspan="2">Age at first marriage</td>
-2 CONT <td rowspan="2">Attended school or college any time since Ap
-2 CONC ril 1, 1929</td>
-2 CONT <td rowspan="2">Whether able to read and write</td>
-2 CONT <td colspan="3">
-2 CONT Place of birth of each person enumerated and of his or her p
-2 CONC arents. If born in the United
-2 CONT States, give State or Territory. If of foreign birth, give t
-2 CONC he country in which birthplace
-2 CONT is now situated. (See Instructions.) Distinguish Canada-Fren
-2 CONC ch from Canada-English, and
-2 CONT Irish Free State from Northern Ireland.
-2 CONT </td>
-2 CONT <td rowspan="2">Language spoken in home before coming to th
-2 CONC e United States</td>
-2 CONT <td colspan="3">CODE (For office use only. Do not write in t
-2 CONC hese columns)</td>
-2 CONT <td rowspan="2">Year of immigration to the United States</td
-2 CONC >
-2 CONT <td rowspan="2">Naturalization</td>
-2 CONT <td rowspan="2">Whether able to speak English</td>
-2 CONT <td rowspan="2">OCCUPATION<br /><br />Trade, profession, o
-2 CONC r particular kind of work, as <i>spinner,
-2 CONT salesman, riveter, teacher, etc.</i></td>
-2 CONT <td rowspan="2">INDUSTRY<br /><br />Industry or business, a
-2 CONC s <i>cotton mill, dry-goods store,
-2 CONT shipyard, public school, etc.</i></td>
-2 CONT <td rowspan="2">CODE<br /><br />(For office use only. Do no
-2 CONC t write in this column)</td>
-2 CONT <td rowspan="2">Class of worker</td>
-2 CONT </tr>
-2 CONT <tr>
-2 CONT <td>PERSON</td><td>FATHER</td><td>MOTHER</td><td>State or N.
-2 CONC T.</td><td>Country</td><td>Nativity</td><td>Yes or No</td><t
-2 CONC d>If not, line number on Unemployment Schedule</td><td>Yes o
-2 CONC r No</td><td>What war or expedition?</td>
-2 CONT </tr>
-2 CONT <tr>
-2 CONT <td>1</td><td>2</td><td>3</td><td>4</td><td colspan="2">5</t
-2 CONC d><td>6</td><td>7</td><td>8</td><td>9</td><td>10</td>
-2 CONT <td>11</td><td>12</td><td>13</td><td>14</td><td>15</td><td>1
-2 CONC 6</td><td>17</td><td>18</td><td>19</td><td>20</td><td>21</td
-2 CONC >
-2 CONT <td>A</td><td>B</td><td>C</td>
-2 CONT <td>22</td><td>23</td><td>24</td><td>25</td><td>26</td>
-2 CONT <td>D</td>
-2 CONT <td>27</td><td>28</td><td>29</td><td>30</td><td>31</td><td>3
-2 CONC 2</td>
-2 CONT </tr>
-2 CONT <tr><td colspan="39" style="text-align:left">[...]</td></tr>
-2 CONT <tr><td colspan="39" style="text-align:left"><b>Apl 28</b></
-2 CONC td></tr>
-2 CONT <tr><td colspan="39" style="text-align:left">[...]</td></tr>
-2 CONT <tr>
-2 CONT <td>79</td>
-2 CONT <td rowspan="4">&nbsp;</td>
-2 CONT <td>&nbsp;</td>
-2 CONT <td><b>170</b></td>
-2 CONT <td><b>175</b></td>
-2 CONT <td><b>Harrison</b></td>
-2 CONT <td><b>Elmer</b></td>
-2 CONT <td><b>Head</b></td>
-2 CONT <td><b>O</b></td>
-2 CONT <td><b>&nbsp;</b></td>
-2 CONT <td><b>R</b></td>
-2 CONT <td><b>yes</b></td>
-2 CONT <td><b>M</b></td>
-2 CONT <td><b>W</b></td>
-2 CONT <td><b>56</b></td>
-2 CONT <td><b>M</b></td>
-2 CONT <td><b>24</b></td>
-2 CONT <td><b>no</b></td>
-2 CONT <td><b>yes</b></td>
-2 CONT <td><b>New&nbsp;York</b></td>
-2 CONT <td><b>New&nbsp;York</b></td>
-2 CONT <td><b>New&nbsp;York</b></td>
-2 CONT <td><b>&nbsp;</b></td>
-2 CONT <td><b>56</b></td>
-2 CONT <td><b>&nbsp;</b></td>
-2 CONT <td><b>&nbsp;</b></td>
-2 CONT <td><b>&nbsp;</b></td>
-2 CONT <td><b>&nbsp;</b></td>
-2 CONT <td><b>yes</b></td>
-2 CONT <td><b>Farmer</b></td>
-2 CONT <td><b>General Farm</b></td>
-2 CONT <td><b>VVVV</b></td>
-2 CONT <td><b>E</b></td>
-2 CONT <td><b>yes</b></td>
-2 CONT <td><b>&nbsp;</b></td>
-2 CONT <td><b>no</b></td>
-2 CONT <td><b>&nbsp;</b></td>
-2 CONT <td><b>141</b></td>
-2 CONT <td>79</td>
-2 CONT </tr>
-2 CONT <tr>
-2 CONT <td>80</td>
-2 CONT <td>&nbsp;</td>
-2 CONT <td><b>&nbsp;</b></td>
-2 CONT <td><b>&nbsp;</b></td>
-2 CONT <td><b>&mdash;</b></td>
-2 CONT <td><b>Mary A</b></td>
-2 CONT <td><b>Wife H</b></td>
-2 CONT <td><b>&nbsp;</b></td>
-2 CONT <td><b>&nbsp;</b></td>
-2 CONT <td><b>&nbsp;</b></td>
-2 CONT <td><b>X</b></td>
-2 CONT <td><b>F</b></td>
-2 CONT <td><b>W</b></td>
-2 CONT <td><b>59</b></td>
-2 CONT <td><b>M</b></td>
-2 CONT <td><b>27</b></td>
-2 CONT <td><b>no</b></td>
-2 CONT <td><b>yes</b></td>
-2 CONT <td><b>New&nbsp;York</b></td>
-2 CONT <td><b>Irish&nbsp;Free&nbsp;State</b></td>
-2 CONT <td><b>Irish&nbsp;Free&nbsp;State</b></td>
-2 CONT <td><b>&nbsp;</b></td>
-2 CONT <td><b>56</b></td>
-2 CONT <td><b>04</b></td>
-2 CONT <td><b>0</b></td>
-2 CONT <td><b>&nbsp;</b></td>
-2 CONT <td><b>&nbsp;</b></td>
-2 CONT <td><b>yes</b></td>
-2 CONT <td><b>none</b></td>
-2 CONT <td><b>&nbsp;</b></td>
-2 CONT <td><b>&nbsp;</b></td>
-2 CONT <td><b>&nbsp;</b></td>
-2 CONT <td><b>&nbsp;</b></td>
-2 CONT <td><b>&nbsp;</b></td>
-2 CONT <td><b>&nbsp;</b></td>
-2 CONT <td><b>&nbsp;</b></td>
-2 CONT <td><b>&nbsp;</b></td>
-2 CONT <td>80</td>
-2 CONT </tr>
-2 CONT <tr>
-2 CONT <td>81</td>
-2 CONT <td>&nbsp;</td>
-2 CONT <td><b>&nbsp;</b></td>
-2 CONT <td><b>&nbsp;</b></td>
-2 CONT <td><b>&mdash;</b></td>
-2 CONT <td><b>Alice I</b></td>
-2 CONT <td><b>Daughter</b></td>
-2 CONT <td><b>&nbsp;</b></td>
-2 CONT <td><b>&nbsp;</b></td>
-2 CONT <td><b>&nbsp;</b></td>
-2 CONT <td><b>X</b></td>
-2 CONT <td><b>F</b></td>
-2 CONT <td><b>W</b></td>
-2 CONT <td><b>24</b></td>
-2 CONT <td><b>S</b></td>
-2 CONT <td><b>&nbsp;</b></td>
-2 CONT <td><b>no</b></td>
-2 CONT <td><b>yes</b></td>
-2 CONT <td><b>New&nbsp;York</b></td>
-2 CONT <td><b>New&nbsp;York</b></td>
-2 CONT <td><b>New&nbsp;York</b></td>
-2 CONT <td><b>&nbsp;</b></td>
-2 CONT <td><b>56</b></td>
-2 CONT <td><b>&nbsp;</b></td>
-2 CONT <td><b>&nbsp;</b></td>
-2 CONT <td><b>&nbsp;</b></td>
-2 CONT <td><b>&nbsp;</b></td>
-2 CONT <td><b>yes</b></td>
-2 CONT <td><b>Teacher</b></td>
-2 CONT <td><b>District&nbsp;School</b></td>
-2 CONT <td><b>9494</b></td>
-2 CONT <td><b>W</b></td>
-2 CONT <td><b>yes</b></td>
-2 CONT <td><b>&nbsp;</b></td>
-2 CONT <td><b>&nbsp;</b></td>
-2 CONT <td><b>&nbsp;</b></td>
-2 CONT <td><b>&nbsp;</b></td>
-2 CONT <td>81</td>
-2 CONT </tr>
-2 CONT <tr>
-2 CONT <td>82</td>
-2 CONT <td>&nbsp;</td>
-2 CONT <td><b>&nbsp;</b></td>
-2 CONT <td><b>&nbsp;</b></td>
-2 CONT <td><b>&mdash;</b></td>
-2 CONT <td><b>Leo</b></td>
-2 CONT <td><b>Son</b></td>
-2 CONT <td><b>&nbsp;</b></td>
-2 CONT <td><b>&nbsp;</b></td>
-2 CONT <td><b>&nbsp;</b></td>
-2 CONT <td><b>X</b></td>
-2 CONT <td><b>M</b></td>
-2 CONT <td><b>W</b></td>
-2 CONT <td><b>23</b></td>
-2 CONT <td><b>S</b></td>
-2 CONT <td><b>&nbsp;</b></td>
-2 CONT <td><b>no</b></td>
-2 CONT <td><b>yes</b></td>
-2 CONT <td><b>New&nbsp;York</b></td>
-2 CONT <td><b>New&nbsp;York</b></td>
-2 CONT <td><b>New&nbsp;York</b></td>
-2 CONT <td><b>&nbsp;</b></td>
-2 CONT <td><b>56</b></td>
-2 CONT <td><b>&nbsp;</b></td>
-2 CONT <td><b>&nbsp;</b></td>
-2 CONT <td><b>&nbsp;</b></td>
-2 CONT <td><b>&nbsp;</b></td>
-2 CONT <td><b>yes</b></td>
-2 CONT <td><b>Teacher</b></td>
-2 CONT <td><b>District&nbsp;School</b></td>
-2 CONT <td><b>9494</b></td>
-2 CONT <td><b>W</b></td>
-2 CONT <td><b>yes</b></td>
-2 CONT <td><b>&nbsp;</b></td>
-2 CONT <td><b>no</b></td>
-2 CONT <td><b>&nbsp;</b></td>
-2 CONT <td><b>&nbsp;</b></td>
-2 CONT <td>82</td>
-2 CONT </tr>
-2 CONT </table>
-2 CONT [this is the next to the last entry in Hornby]<br />
-2 CONT Col. 27&mdash;Wage or salary worker: W<br />
-2 CONT Employer: E
 0 @S18@ SOUR
 1 TITL USA. New York. Corning. Evening Leader
 0 @S95@ SOUR
@@ -15899,11 +17027,9 @@
 0 @S31@ SOUR
 1 TITL USA. New York. Rochester. Democrat and Chronicle
 0 @N0QDvsKzRd6L25GA73AW@ SOUR
-1 REFN 3bea1dc2-986f-4f0f-89c0-f7b5a5fe0ece
 1 TITL USA. New York. Steuben, County of. Land Deed Records
 1 AUTH USA. New York. Steuben, County of.
 0 @e0k10AjRSSyDnTOmeiMT@ SOUR
-1 REFN 4180cfb4-b0b5-476b-a3a3-b85b6410a690
 1 REPO @R1@
 1 TITL Web: New York, Find A Grave Index, 1660-2012
 1 AUTH Ancestry.com
