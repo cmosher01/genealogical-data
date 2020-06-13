@@ -14,9 +14,9 @@
 4 CONT Boston, MA 02109
 3 PHON (617) 227-6681
 1 DEST FTM
-1 FILE rollo_research_2020-06-12-02-55-48.ftm.ged
-1 DATE 12 JUN 2020
-2 TIME 02:53:17
+1 FILE rollo_research_2020-06-13-03-27-16.ftm.ged
+1 DATE 13 JUN 2020
+2 TIME 03:24:25
 0 @Umy2qBWIRUiwVSS6Hcn4@ SUBM
 1 NAME Christopher Alan Mosher
 2 EMAIL cmosher01@@gmail.com
@@ -255,6 +255,7 @@
 2 NOTE Marital Status: Married
 1 BIRT
 2 DATE ABT 1875
+1 FSID MPNT-N57
 1 _GUID 41fc9bfd-f173-4399-a753-7c141211c6c1
 0 @I10@ INDI
 1 REFN 4dc03f39-a10f-4a3f-b99b-08ce2d12972c
@@ -279,6 +280,21 @@
 4 CONC 3; Page: 373B; Enumeration District: 117
 3 OBJE @M11@
 3 _APID 6742:32507927
+2 SOUR @S19@
+3 PAGE "Family Tree," database, <i>FamilySearch</i> (http://familys
+4 CONC earch.org : modified 30 March 2020, 21:12), entry for Louis
+4 CONC a Byram(PID https://familysearch.org/ark:/61903/4:1:MPNL-YJF
+4 CONC ); contributed by various users. PersonID MPNL-YJF
+3 DATA
+4 TEXT Louisa Byram
+3 _LINK https://familysearch.org/ark:/61903/4:1:MPNL-YJF
+2 SOUR @S19@
+3 PAGE "New York Births and Christenings, 1640-1962", database, <i>
+4 CONC FamilySearch</i> (https://familysearch.org/ark:/61903/1:1:V2
+4 CONC H6-9CL : 20 January 2020), Louisa Byram, 1821.
+3 DATA
+4 TEXT Louisa Byram, "New York Births and Christenings, 1640-1962"
+3 _LINK https://familysearch.org/ark:/61903/1:1:V2H6-9CL
 2 SOUR @S7@
 3 PAGE Iowa Department of Public Health; Des Moines, Iowa; Series T
 4 CONC itle: Iowa Marriage Records, 1880–1922; Record Type: Textua
@@ -301,21 +317,9 @@
 1 FAMC @F6@
 1 FAMS @F4@
 1 FAMS @F7@
-1 BAPM
-2 DATE 1821
-2 PLAC The Bowery, New York County, New York, USA
-2 SOUR @S9@
-3 PAGE The New York Genealogical and Biographical Record (quarterly
-4 CONC -1941) - Extracts; Publication Place: New York; Publisher: N
-4 CONC ew York Genealogical and Biographical Society; Page Number
-4 CONC : 235
-3 _APID 7831:102158
 1 BIRT
-2 DATE ABT 1822
-2 PLAC New York County, New York, USA
-3 MAP
-4 LATI N40.7744
-4 LONG W73.9721
+2 DATE 29 APR 1821
+2 PLAC New York City, New York County, New York, United States
 2 SOUR @S3@
 3 PAGE Year: 1850; Census Place: De Ruyter, Madison, New York; Roll
 4 CONC : M432_527; Page: 285A; Image: 30
@@ -336,12 +340,54 @@
 4 CONC 3; Page: 373B; Enumeration District: 117
 3 OBJE @M11@
 3 _APID 6742:32507927
+2 SOUR @S19@
+3 PAGE "Family Tree," database, <i>FamilySearch</i> (http://familys
+4 CONC earch.org : modified 30 March 2020, 21:12), entry for Louis
+4 CONC a Byram(PID https://familysearch.org/ark:/61903/4:1:MPNL-YJF
+4 CONC ); contributed by various users. PersonID MPNL-YJF
+3 DATA
+4 TEXT Louisa Byram
+3 _LINK https://familysearch.org/ark:/61903/4:1:MPNL-YJF
+2 SOUR @S19@
+3 PAGE "New York Births and Christenings, 1640-1962", database, <i>
+4 CONC FamilySearch</i> (https://familysearch.org/ark:/61903/1:1:V2
+4 CONC H6-9CL : 20 January 2020), Louisa Byram, 1821.
+3 DATA
+4 TEXT Louisa Byram, "New York Births and Christenings, 1640-1962"
+3 _LINK https://familysearch.org/ark:/61903/1:1:V2H6-9CL
 2 SOUR @S1@
 3 OBJE @M2@
 3 _APID 1084:6890447
 2 SOUR @S5@
 3 OBJE @M7@
 3 _APID 7218:1863830
+1 CHR
+2 DATE 17 JUN 1821
+2 PLAC Saint Marks Church,New York,New York,New York
+2 SOUR @S19@
+3 PAGE "Family Tree," database, <i>FamilySearch</i> (http://familys
+4 CONC earch.org : modified 30 March 2020, 21:12), entry for Louis
+4 CONC a Byram(PID https://familysearch.org/ark:/61903/4:1:MPNL-YJF
+4 CONC ); contributed by various users. PersonID MPNL-YJF
+3 DATA
+4 TEXT Louisa Byram
+3 _LINK https://familysearch.org/ark:/61903/4:1:MPNL-YJF
+2 SOUR @S19@
+3 PAGE "New York Births and Christenings, 1640-1962", database, <i>
+4 CONC FamilySearch</i> (https://familysearch.org/ark:/61903/1:1:V2
+4 CONC H6-9CL : 20 January 2020), Louisa Byram, 1821.
+3 DATA
+4 TEXT Louisa Byram, "New York Births and Christenings, 1640-1962"
+3 _LINK https://familysearch.org/ark:/61903/1:1:V2H6-9CL
+1 BAPM
+2 DATE 1821
+2 PLAC The Bowery, New York County, New York, USA
+2 SOUR @S9@
+3 PAGE The New York Genealogical and Biographical Record (quarterly
+4 CONC -1941) - Extracts; Publication Place: New York; Publisher: N
+4 CONC ew York Genealogical and Biographical Society; Page Number
+4 CONC : 235
+3 _APID 7831:102158
 1 RESI
 2 DATE 1850
 2 PLAC DeRuyter, Madison, New York, USA
@@ -404,6 +450,22 @@
 3 OBJE @M2@
 3 _APID 1084:6890447
 2 NOTE Marital Status: Widowed
+1 FSID MPNL-YJF
+2 SOUR @S19@
+3 PAGE "Family Tree," database, <i>FamilySearch</i> (http://familys
+4 CONC earch.org : modified 30 March 2020, 21:12), entry for Louis
+4 CONC a Byram(PID https://familysearch.org/ark:/61903/4:1:MPNL-YJF
+4 CONC ); contributed by various users. PersonID MPNL-YJF
+3 DATA
+4 TEXT Louisa Byram
+3 _LINK https://familysearch.org/ark:/61903/4:1:MPNL-YJF
+2 SOUR @S19@
+3 PAGE "New York Births and Christenings, 1640-1962", database, <i>
+4 CONC FamilySearch</i> (https://familysearch.org/ark:/61903/1:1:V2
+4 CONC H6-9CL : 20 January 2020), Louisa Byram, 1821.
+3 DATA
+4 TEXT Louisa Byram, "New York Births and Christenings, 1640-1962"
+3 _LINK https://familysearch.org/ark:/61903/1:1:V2H6-9CL
 1 _GUID 615c1e46-980d-4d22-b03c-d2a59d83f255
 0 @I13@ INDI
 1 REFN 205cfe95-2270-4002-b4d8-b02f0d73397a
@@ -547,62 +609,6 @@
 3 _APID 6742:32154824
 2 NOTE Marital Status: Single; Relation to Head: Adopted Daughter
 1 _GUID 33f44b0a-c1bc-4b69-9068-cc19f1394430
-0 @I12@ INDI
-1 REFN a2706414-b1f6-4d6d-a38f-850c8fa94171
-1 NAME Maragret //
-2 SOUR @S1@
-3 OBJE @M13@
-3 _APID 1084:7557131
-2 SOUR @S9@
-3 PAGE The New York Genealogical and Biographical Record (quarterly
-4 CONC -1941) - Extracts; Publication Place: New York; Publisher: N
-4 CONC ew York Genealogical and Biographical Society; Page Number
-4 CONC : 82
-3 _APID 7831:102159
-2 SOUR @S5@
-3 OBJE @M7@
-3 _APID 7218:1864381
-1 SEX F
-1 FAMS @F6@
-1 BIRT
-2 DATE ABT 1796
-2 PLAC New York County, New York, USA
-3 MAP
-4 LATI N40.7744
-4 LONG W73.9721
-2 SOUR @S1@
-3 OBJE @M13@
-3 _APID 1084:7557131
-2 SOUR @S5@
-3 OBJE @M7@
-3 _APID 7218:1864381
-1 RESI
-2 DATE 1821
-2 PLAC The Bowery, New York County, New York, USA
-2 SOUR @S9@
-3 PAGE The New York Genealogical and Biographical Record (quarterly
-4 CONC -1941) - Extracts; Publication Place: New York; Publisher: N
-4 CONC ew York Genealogical and Biographical Society; Page Number
-4 CONC : 82
-3 _APID 7831:102159
-1 RESI
-2 DATE 1856
-2 PLAC Hardin, Hardin, Iowa, USA
-3 MAP
-4 LATI N43.0776
-4 LONG W91.4822
-2 SOUR @S1@
-3 OBJE @M13@
-3 _APID 1084:7557131
-2 NOTE Marital Status: Married
-1 RESI
-2 DATE 1865
-2 PLAC DeRuyter, Madison, New York, USA
-2 SOUR @S5@
-3 OBJE @M7@
-3 _APID 7218:1864381
-2 NOTE Relation to Head of House: Mother
-1 _GUID 4ef5ea65-6cb8-4a9b-8e69-2abad78a84d5
 0 @I8@ INDI
 1 REFN ac53ccc1-18b1-4ca3-af34-eb36e341e0ba
 1 NAME Cornelia /Parslow/
@@ -1018,6 +1024,7 @@
 1 DEAT
 2 DATE ABT 1863
 2 PLAC DeRuyter, Madison, New York, USA
+1 FSID MGL7-778
 1 _GUID bb3e04b5-7c3c-423a-ba6f-8c553ffc19c4
 0 @I29@ INDI
 1 REFN 12e81476-662d-4dd6-baf4-2df8c16a32af
@@ -1396,6 +1403,207 @@
 3 _APID 7667:46711850
 2 NOTE Residence Post Office: De Ruyter
 1 _GUID 222c9450-a55a-4617-b5b8-1ad2cbf7dbf5
+0 @I12@ INDI
+1 REFN a2706414-b1f6-4d6d-a38f-850c8fa94171
+1 NAME Margaret /Smull/
+2 SOUR @S19@
+3 PAGE "Family Tree," database, <i>FamilySearch</i> (http://familys
+4 CONC earch.org : modified 13 December 2019, 19:57), entry for Mar
+4 CONC garet Smull(PID https://familysearch.org/ark:/61903/4:1:MP2Z
+4 CONC -2XD); contributed by various users. PersonID MP2Z-2XD
+3 DATA
+4 TEXT Margaret Smull
+3 _LINK https://familysearch.org/ark:/61903/4:1:MP2Z-2XD
+2 SOUR @S19@
+3 PAGE "New York Births and Christenings, 1640-1962", database, <i>
+4 CONC FamilySearch</i> (https://familysearch.org/ark:/61903/1:1:V2
+4 CONC H6-8YJ : 20 January 2020), Margaret in entry for Maria Ann B
+4 CONC yram, 1824.
+3 DATA
+4 TEXT Margaret in entry for Maria Ann Byram, "New York Births an
+5 CONC d Christenings, 1640-1962"
+3 _LINK https://familysearch.org/ark:/61903/1:1:V2H6-8YJ
+2 SOUR @S19@
+3 PAGE "New York Births and Christenings, 1640-1962", database, <i>
+4 CONC FamilySearch</i> (https://familysearch.org/ark:/61903/1:1:V2
+4 CONC H6-9CP : 20 January 2020), Margt in entry for Louisa Byram
+4 CONC , 1821.
+3 DATA
+4 TEXT Margt in entry for Louisa Byram, "New York Births and Christ
+5 CONC enings, 1640-1962"
+3 _LINK https://familysearch.org/ark:/61903/1:1:V2H6-9CP
+2 SOUR @S19@
+3 PAGE "New York Births and Christenings, 1640-1962", database, <i>
+4 CONC FamilySearch</i> (https://familysearch.org/ark:/61903/1:1:V2
+4 CONC HD-15Q : 20 January 2020), Margaret in entry for Joann Killb
+4 CONC urn Byram, 1821.
+3 DATA
+4 TEXT Margaret in entry for Joann Killburn Byram, "New York Birth
+5 CONC s and Christenings, 1640-1962"
+3 _LINK https://familysearch.org/ark:/61903/1:1:V2HD-15Q
+2 SOUR @S19@
+3 PAGE "New York Marriages, 1686-1980", database, <i>FamilySearch</
+4 CONC i> (https://familysearch.org/ark:/61903/1:1:F6QL-PQD : 21 Ja
+4 CONC nuary 2020), Margaret Smull in entry for Henry Wheeler, 1875
+4 CONC .
+3 DATA
+4 TEXT Margaret Smull in entry for Henry Wheeler, "New York Marriag
+5 CONC es, 1686-1980"
+3 _LINK https://familysearch.org/ark:/61903/1:1:F6QL-PQD
+2 SOUR @S19@
+3 PAGE "New York, New York City Marriage Records, 1829-1940," datab
+4 CONC ase, <i>FamilySearch</i> (https://familysearch.org/ark:/6190
+4 CONC 3/1:1:249G-TW3 : 10 February 2018), Margaret Smull in entr
+4 CONC y for Henry Wheeler and Joann Byram Ebbets, 23 Dec 1875; cit
+4 CONC ing Marriage, Manhattan, New York, New York, United States
+4 CONC , New York City Municipal Archives, New York; FHL microfil
+4 CONC m 1,562,123.
+3 DATA
+4 TEXT Margaret Smull in entry for Henry Wheeler and Joann Byram Eb
+5 CONC bets, "New York, New York City Marriage Records, 1829-1940"
+3 _LINK https://familysearch.org/ark:/61903/1:1:249G-TW3
+2 SOUR @S1@
+3 OBJE @M13@
+3 _APID 1084:7557131
+2 SOUR @S9@
+3 PAGE The New York Genealogical and Biographical Record (quarterly
+4 CONC -1941) - Extracts; Publication Place: New York; Publisher: N
+4 CONC ew York Genealogical and Biographical Society; Page Number
+4 CONC : 82
+3 _APID 7831:102159
+2 SOUR @S5@
+3 OBJE @M7@
+3 _APID 7218:1864381
+1 SEX F
+1 FAMS @F6@
+1 BIRT
+2 DATE ABT 1796
+2 PLAC New York County, New York, USA
+3 MAP
+4 LATI N40.7744
+4 LONG W73.9721
+2 SOUR @S19@
+3 PAGE "Family Tree," database, <i>FamilySearch</i> (http://familys
+4 CONC earch.org : modified 13 December 2019, 19:57), entry for Mar
+4 CONC garet Smull(PID https://familysearch.org/ark:/61903/4:1:MP2Z
+4 CONC -2XD); contributed by various users. PersonID MP2Z-2XD
+3 DATA
+4 TEXT Margaret Smull
+3 _LINK https://familysearch.org/ark:/61903/4:1:MP2Z-2XD
+2 SOUR @S19@
+3 PAGE "New York Births and Christenings, 1640-1962", database, <i>
+4 CONC FamilySearch</i> (https://familysearch.org/ark:/61903/1:1:V2
+4 CONC H6-8YJ : 20 January 2020), Margaret in entry for Maria Ann B
+4 CONC yram, 1824.
+3 DATA
+4 TEXT Margaret in entry for Maria Ann Byram, "New York Births an
+5 CONC d Christenings, 1640-1962"
+3 _LINK https://familysearch.org/ark:/61903/1:1:V2H6-8YJ
+2 SOUR @S19@
+3 PAGE "New York Births and Christenings, 1640-1962", database, <i>
+4 CONC FamilySearch</i> (https://familysearch.org/ark:/61903/1:1:V2
+4 CONC H6-9CP : 20 January 2020), Margt in entry for Louisa Byram
+4 CONC , 1821.
+3 DATA
+4 TEXT Margt in entry for Louisa Byram, "New York Births and Christ
+5 CONC enings, 1640-1962"
+3 _LINK https://familysearch.org/ark:/61903/1:1:V2H6-9CP
+2 SOUR @S19@
+3 PAGE "New York Births and Christenings, 1640-1962", database, <i>
+4 CONC FamilySearch</i> (https://familysearch.org/ark:/61903/1:1:V2
+4 CONC HD-15Q : 20 January 2020), Margaret in entry for Joann Killb
+4 CONC urn Byram, 1821.
+3 DATA
+4 TEXT Margaret in entry for Joann Killburn Byram, "New York Birth
+5 CONC s and Christenings, 1640-1962"
+3 _LINK https://familysearch.org/ark:/61903/1:1:V2HD-15Q
+2 SOUR @S19@
+3 PAGE "New York Marriages, 1686-1980", database, <i>FamilySearch</
+4 CONC i> (https://familysearch.org/ark:/61903/1:1:F6QL-PQD : 21 Ja
+4 CONC nuary 2020), Margaret Smull in entry for Henry Wheeler, 1875
+4 CONC .
+3 DATA
+4 TEXT Margaret Smull in entry for Henry Wheeler, "New York Marriag
+5 CONC es, 1686-1980"
+3 _LINK https://familysearch.org/ark:/61903/1:1:F6QL-PQD
+2 SOUR @S1@
+3 OBJE @M13@
+3 _APID 1084:7557131
+2 SOUR @S5@
+3 OBJE @M7@
+3 _APID 7218:1864381
+1 RESI
+2 DATE 1821
+2 PLAC The Bowery, New York County, New York, USA
+2 SOUR @S9@
+3 PAGE The New York Genealogical and Biographical Record (quarterly
+4 CONC -1941) - Extracts; Publication Place: New York; Publisher: N
+4 CONC ew York Genealogical and Biographical Society; Page Number
+4 CONC : 82
+3 _APID 7831:102159
+1 RESI
+2 DATE 1856
+2 PLAC Hardin, Hardin, Iowa, USA
+3 MAP
+4 LATI N43.0776
+4 LONG W91.4822
+2 SOUR @S1@
+3 OBJE @M13@
+3 _APID 1084:7557131
+2 NOTE Marital Status: Married
+1 RESI
+2 DATE 1865
+2 PLAC DeRuyter, Madison, New York, USA
+2 SOUR @S5@
+3 OBJE @M7@
+3 _APID 7218:1864381
+2 NOTE Relation to Head of House: Mother
+1 FSID MP2Z-2XD
+2 SOUR @S19@
+3 PAGE "Family Tree," database, <i>FamilySearch</i> (http://familys
+4 CONC earch.org : modified 13 December 2019, 19:57), entry for Mar
+4 CONC garet Smull(PID https://familysearch.org/ark:/61903/4:1:MP2Z
+4 CONC -2XD); contributed by various users. PersonID MP2Z-2XD
+3 DATA
+4 TEXT Margaret Smull
+3 _LINK https://familysearch.org/ark:/61903/4:1:MP2Z-2XD
+2 SOUR @S19@
+3 PAGE "New York Births and Christenings, 1640-1962", database, <i>
+4 CONC FamilySearch</i> (https://familysearch.org/ark:/61903/1:1:V2
+4 CONC H6-8YJ : 20 January 2020), Margaret in entry for Maria Ann B
+4 CONC yram, 1824.
+3 DATA
+4 TEXT Margaret in entry for Maria Ann Byram, "New York Births an
+5 CONC d Christenings, 1640-1962"
+3 _LINK https://familysearch.org/ark:/61903/1:1:V2H6-8YJ
+2 SOUR @S19@
+3 PAGE "New York Births and Christenings, 1640-1962", database, <i>
+4 CONC FamilySearch</i> (https://familysearch.org/ark:/61903/1:1:V2
+4 CONC H6-9CP : 20 January 2020), Margt in entry for Louisa Byram
+4 CONC , 1821.
+3 DATA
+4 TEXT Margt in entry for Louisa Byram, "New York Births and Christ
+5 CONC enings, 1640-1962"
+3 _LINK https://familysearch.org/ark:/61903/1:1:V2H6-9CP
+2 SOUR @S19@
+3 PAGE "New York Marriages, 1686-1980", database, <i>FamilySearch</
+4 CONC i> (https://familysearch.org/ark:/61903/1:1:F6QL-PQD : 21 Ja
+4 CONC nuary 2020), Margaret Smull in entry for Henry Wheeler, 1875
+4 CONC .
+3 DATA
+4 TEXT Margaret Smull in entry for Henry Wheeler, "New York Marriag
+5 CONC es, 1686-1980"
+3 _LINK https://familysearch.org/ark:/61903/1:1:F6QL-PQD
+2 SOUR @S19@
+3 PAGE "New York Births and Christenings, 1640-1962", database, <i>
+4 CONC FamilySearch</i> (https://familysearch.org/ark:/61903/1:1:V2
+4 CONC HD-15Q : 20 January 2020), Margaret in entry for Joann Killb
+4 CONC urn Byram, 1821.
+3 DATA
+4 TEXT Margaret in entry for Joann Killburn Byram, "New York Birth
+5 CONC s and Christenings, 1640-1962"
+3 _LINK https://familysearch.org/ark:/61903/1:1:V2HD-15Q
+1 _GUID 4ef5ea65-6cb8-4a9b-8e69-2abad78a84d5
 0 @I2@ INDI
 1 REFN 9eea2f80-3fda-45ac-b084-1848596b246f
 1 NAME unknown //
@@ -1582,6 +1790,11 @@
 1 ADDR
 1 EMAIL
 1 PHON
+0 @R2@ REPO
+1 NAME FamilySearch
+1 ADDR
+1 EMAIL
+1 PHON
 0 @S17@ SOUR
 1 REPO @R1@
 1 TITL 1820 United States Federal Census
@@ -1653,6 +1866,10 @@
 1 PUBL Ancestry.com Operations Inc; Location: Provo, UT, USA; Date
 2 CONC : 2006
 1 _APID 1062
+0 @S19@ SOUR
+1 REPO @R2@
+1 TITL FamilySearch Family Tree
+1 AUTH FamilySearch.org
 0 @S7@ SOUR
 1 REPO @R1@
 1 TITL Iowa, Marriage Records, 1880-1940
