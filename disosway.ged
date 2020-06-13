@@ -14,9 +14,9 @@
 4 CONT Boston, MA 02109
 3 PHON (617) 227-6681
 1 DEST FTM
-1 FILE Disosway_2020-06-12-02-22-04.ftm.ged
-1 DATE 12 JUN 2020
-2 TIME 02:19:32
+1 FILE Disosway_2020-06-13-04-02-51.ftm.ged
+1 DATE 13 JUN 2020
+2 TIME 04:00:24
 0 @Umy2qBWIRUiwVSS6Hcn4@ SUBM
 1 NAME Christopher Alan Mosher
 2 EMAIL cmosher01@@gmail.com
@@ -2215,12 +2215,6 @@
 4 CONC rolina
 3 OBJE @WZ5cXgLmRHSffS9AstUt@
 3 _APID 9061:194144
-1 BURI
-2 PLAC Cedar Grove Cemetery, New Bern, Craven, North Carolina, USA
-2 SOUR @lDuG27hSTACWHq7z54Ba@
-3 _APID 60525:94080758
-2 SOUR @66FLWeWiQUGE4LioOMuq@
-3 _APID 70634:907872
 1 RESI
 2 PLAC Black Mountain, Buncombe, North Carolina, USA
 3 MAP
@@ -2231,6 +2225,12 @@
 4 CONC h Carolina Death Certificates; Emma Eugenia Disosway
 3 OBJE @T1syScFlQaKO4pVtxXMc@
 3 _APID 1121:831611
+1 BURI
+2 PLAC Cedar Grove Cemetery, New Bern, Craven, North Carolina, USA
+2 SOUR @lDuG27hSTACWHq7z54Ba@
+3 _APID 60525:94080758
+2 SOUR @66FLWeWiQUGE4LioOMuq@
+3 _APID 70634:907872
 1 _GUID 12e54755-6c97-4599-85f4-cc20413af447
 1 _XY 143659 2091
 0 @tN86To0oTXKq4Y9W5BoW@ INDI
@@ -2499,7 +2499,8 @@
 3 OBJE @M122@
 3 _APID 6224:2364154
 2 SOUR @S152@
-3 PAGE Issue State: Georgia; Issue Date: Before 1951
+3 PAGE Social Security Administration; Washington D.C., USA; Socia
+4 CONC l Security Death Index, Master File
 3 _APID 3693:77351476
 1 SEX M
 1 FAMC @F168@
@@ -2515,7 +2516,8 @@
 3 OBJE @M122@
 3 _APID 6224:2364154
 2 SOUR @S152@
-3 PAGE Issue State: Georgia; Issue Date: Before 1951
+3 PAGE Social Security Administration; Washington D.C., USA; Socia
+4 CONC l Security Death Index, Master File
 3 _APID 3693:77351476
 1 RESI
 2 DATE 1930
@@ -2536,7 +2538,8 @@
 4 LATI N40.973
 4 LONG W117.7357
 2 SOUR @S152@
-3 PAGE Issue State: Georgia; Issue Date: Before 1951
+3 PAGE Social Security Administration; Washington D.C., USA; Socia
+4 CONC l Security Death Index, Master File
 3 _APID 3693:77351476
 1 _GUID 2119c091-f956-457a-8dad-cb2bb9c933b2
 0 @d2mZZbDyRCKH2NvV0RQD@ INDI
@@ -3929,7 +3932,7 @@
 2 SOUR @S171@
 3 PAGE 1842, Isarel Dissosway
 3 _APID 4802:56886
-2 SOUR @RK2jjKBxR1KOXCD0xkMw@
+2 SOUR @S171@
 3 PAGE 1856, Israel Disosway
 3 _APID 4802:83113
 2 SOUR @S170@
@@ -4762,9 +4765,9 @@
 3 OBJE @M200@
 3 _APID 8908:4032668
 2 SOUR @S137@
-3 PAGE Publication Date: 9/ Feb/ 2007; Publication Place: Louisa, V
-4 CONC irginia, USA; URL: http://www.thecentralvirginian.com/Obitua
-4 CONC ries.htm
+3 PAGE Central Virginian, The; Publication Date: 9 Feb 2007; Public
+4 CONC ation Place: Louisa, Virginia, USA; URL: http://www.thecentr
+4 CONC alvirginian.com/Obituaries.htm
 3 _APID 7545:143834614
 2 SOUR @S136@
 3 PAGE Virginia Department of Health; Richmond, Virginia; Virgini
@@ -5050,20 +5053,23 @@
 2 SOUR @S173@
 3 _APID 1788:253123142
 2 SOUR @S137@
-3 PAGE Publication Date: 04/ 12/ 2010; Web edition: http://www.lega
-4 CONC cy.com/obituaries/wickedlocal-concord/obituary.aspx?n=kennet
-4 CONC h-demay&amp;pid=141539044
-3 _APID 7545:22547059
-2 SOUR @S137@
-3 PAGE Publication Date: 04/ 5/ 2010; Web edition: http://www.legac
-4 CONC y.com/obituaries/bostonglobe/obituary.aspx?n=kenneth-disoswa
-4 CONC y-demay&amp;pid=141506221
+3 PAGE Boston Globe; Publication Date: 5 Apr 2010; Publication Plac
+4 CONC e: Boston, Massachusetts, USA; URL: http://www.legacy.com/ob
+4 CONC ituaries/bostonglobe/obituary.aspx?n=kenneth-disosway-demay&
+4 CONC pid=141506221
 3 _APID 7545:22538520
+2 SOUR @S137@
+3 PAGE Concord Journal; Publication Date: 12 Apr 2010; Publicatio
+4 CONC n Place: Concord, Massachusetts, USA; URL: http://www.legacy
+4 CONC .com/obituaries/wickedlocal-concord/obituary.aspx?n=kenneth-
+4 CONC demay&pid=141539044
+3 _APID 7545:22547059
 2 SOUR @S158@
 3 OBJE @M204@
 3 _APID 1265:418626606
-2 SOUR @hbWNuFKLSJGED9AQ2SKp@
-3 PAGE Issue State: New York; Issue Date: 1953-1954
+2 SOUR @S152@
+3 PAGE Social Security Administration; Washington D.C., USA; Socia
+4 CONC l Security Death Index, Master File
 3 _APID 3693:87079127
 2 SOUR @S179@
 3 _APID 70050:11763996
@@ -5102,8 +5108,9 @@
 2 SOUR @S158@
 3 OBJE @M204@
 3 _APID 1265:418626606
-2 SOUR @hbWNuFKLSJGED9AQ2SKp@
-3 PAGE Issue State: New York; Issue Date: 1953-1954
+2 SOUR @S152@
+3 PAGE Social Security Administration; Washington D.C., USA; Socia
+4 CONC l Security Death Index, Master File
 3 _APID 3693:87079127
 1 RESI
 2 DATE 01 APR 1940
@@ -5142,9 +5149,10 @@
 3 PAGE City: Concord; State: Massachusetts; Year(s): 1995-1997
 3 _APID 7339:171283670
 2 SOUR @S137@
-3 PAGE Publication Date: 04/ 5/ 2010; Web edition: http://www.legac
-4 CONC y.com/obituaries/bostonglobe/obituary.aspx?n=kenneth-disoswa
-4 CONC y-demay&amp;pid=141506221
+3 PAGE Boston Globe; Publication Date: 5 Apr 2010; Publication Plac
+4 CONC e: Boston, Massachusetts, USA; URL: http://www.legacy.com/ob
+4 CONC ituaries/bostonglobe/obituary.aspx?n=kenneth-disosway-demay&
+4 CONC pid=141506221
 3 _APID 7545:22538520
 1 DEAT
 2 DATE 01 APR 2010
@@ -5160,17 +5168,20 @@
 4 CONC 5785,0.5070931&xid=2378
 3 _APID 61843:654679543
 2 SOUR @S137@
-3 PAGE Publication Date: 04/ 12/ 2010; Web edition: http://www.lega
-4 CONC cy.com/obituaries/wickedlocal-concord/obituary.aspx?n=kennet
-4 CONC h-demay&amp;pid=141539044
-3 _APID 7545:22547059
-2 SOUR @S137@
-3 PAGE Publication Date: 04/ 5/ 2010; Web edition: http://www.legac
-4 CONC y.com/obituaries/bostonglobe/obituary.aspx?n=kenneth-disoswa
-4 CONC y-demay&amp;pid=141506221
+3 PAGE Boston Globe; Publication Date: 5 Apr 2010; Publication Plac
+4 CONC e: Boston, Massachusetts, USA; URL: http://www.legacy.com/ob
+4 CONC ituaries/bostonglobe/obituary.aspx?n=kenneth-disosway-demay&
+4 CONC pid=141506221
 3 _APID 7545:22538520
-2 SOUR @hbWNuFKLSJGED9AQ2SKp@
-3 PAGE Issue State: New York; Issue Date: 1953-1954
+2 SOUR @S137@
+3 PAGE Concord Journal; Publication Date: 12 Apr 2010; Publicatio
+4 CONC n Place: Concord, Massachusetts, USA; URL: http://www.legacy
+4 CONC .com/obituaries/wickedlocal-concord/obituary.aspx?n=kenneth-
+4 CONC demay&pid=141539044
+3 _APID 7545:22547059
+2 SOUR @S152@
+3 PAGE Social Security Administration; Washington D.C., USA; Socia
+4 CONC l Security Death Index, Master File
 3 _APID 3693:87079127
 2 SOUR @S179@
 3 _APID 70050:11763996
@@ -5217,8 +5228,8 @@
 3 OBJE @M143@
 3 _APID 1121:1984351
 2 SOUR @S152@
-3 PAGE Number: 244-56-1598; Issue State: North Carolina; Issue Date
-4 CONC : 1955
+3 PAGE Social Security Administration; Washington D.C., USA; Socia
+4 CONC l Security Death Index, Master File
 3 _APID 3693:15774099
 1 SEX F
 1 FAMC @idqxJ6GMTPCd5TvMdNJd@
@@ -5256,8 +5267,8 @@
 3 OBJE @M143@
 3 _APID 1121:1984351
 2 SOUR @S152@
-3 PAGE Number: 244-56-1598; Issue State: North Carolina; Issue Date
-4 CONC : 1955
+3 PAGE Social Security Administration; Washington D.C., USA; Socia
+4 CONC l Security Death Index, Master File
 3 _APID 3693:15774099
 1 RESI
 2 DATE 1900
@@ -5341,8 +5352,8 @@
 3 OBJE @M143@
 3 _APID 1121:1984351
 2 SOUR @S152@
-3 PAGE Number: 244-56-1598; Issue State: North Carolina; Issue Date
-4 CONC : 1955
+3 PAGE Social Security Administration; Washington D.C., USA; Socia
+4 CONC l Security Death Index, Master File
 3 _APID 3693:15774099
 1 _GUID 688ac7a0-09b9-4425-8836-26d678d105e2
 0 @HaSJJn4pS0Kn0bY5Awxm@ INDI
@@ -5518,9 +5529,9 @@
 2 SOUR @kRuFRPwjRGW6pfPCjXRF@
 3 PAGE Margaret McKinley Oakes (entry for mother Margaret Disoswax)
 3 _APID 60901:779979879
-2 SOUR @hbWNuFKLSJGED9AQ2SKp@
-3 PAGE Number: 579-60-4534; Issue State: District of Columbia; Issu
-4 CONC e Date: 1962
+2 SOUR @S152@
+3 PAGE Social Security Administration; Washington D.C., USA; Socia
+4 CONC l Security Death Index, Master File
 3 _APID 3693:41061496
 1 SEX F
 1 FAMC @D8xlYLEfRmGBNIIwnLig@
@@ -5562,9 +5573,9 @@
 3 _APID 8750:2036398
 2 SOUR @lDuG27hSTACWHq7z54Ba@
 3 _APID 60525:32364222
-2 SOUR @hbWNuFKLSJGED9AQ2SKp@
-3 PAGE Number: 579-60-4534; Issue State: District of Columbia; Issu
-4 CONC e Date: 1962
+2 SOUR @S152@
+3 PAGE Social Security Administration; Washington D.C., USA; Socia
+4 CONC l Security Death Index, Master File
 3 _APID 3693:41061496
 1 RESI
 2 DATE 1900
@@ -5632,9 +5643,9 @@
 3 _APID 8750:2036398
 2 SOUR @lDuG27hSTACWHq7z54Ba@
 3 _APID 60525:32364222
-2 SOUR @hbWNuFKLSJGED9AQ2SKp@
-3 PAGE Number: 579-60-4534; Issue State: District of Columbia; Issu
-4 CONC e Date: 1962
+2 SOUR @S152@
+3 PAGE Social Security Administration; Washington D.C., USA; Socia
+4 CONC l Security Death Index, Master File
 3 _APID 3693:41061496
 1 BURI
 2 DATE 11 MAY 1979
@@ -5678,9 +5689,9 @@
 1 REFN df11a7c2-3660-4b90-be9c-a0fb8d98fc97
 1 NAME Marjorie /Disosway/
 2 SOUR @S137@
-3 PAGE Publication Date: 9/ Feb/ 2007; Publication Place: Louisa, V
-4 CONC irginia, USA; URL: http://www.thecentralvirginian.com/Obitua
-4 CONC ries.htm
+3 PAGE Central Virginian, The; Publication Date: 9 Feb 2007; Public
+4 CONC ation Place: Louisa, Virginia, USA; URL: http://www.thecentr
+4 CONC alvirginian.com/Obituaries.htm
 3 _APID 7545:202882363
 1 SEX F
 1 FAMC @F171@
@@ -6167,10 +6178,6 @@
 3 _APID 60525:66343632
 1 SEX M
 1 FAMC @jyCZPToSQBOp98OgIwfM@
-1 BURI
-2 PLAC Cedar Grove Cemetery, New Bern, Craven, North Carolina, USA
-2 SOUR @lDuG27hSTACWHq7z54Ba@
-3 _APID 60525:66343632
 1 DEAT
 2 PLAC New Bern, Craven, North Carolina, USA
 3 MAP
@@ -6179,6 +6186,10 @@
 2 SOUR @69q3fvyiQfiwmy10eHKm@
 3 QUAY 1
 2 NOTE Aged 4 mos. Place is assumed.
+1 BURI
+2 PLAC Cedar Grove Cemetery, New Bern, Craven, North Carolina, USA
+2 SOUR @lDuG27hSTACWHq7z54Ba@
+3 _APID 60525:66343632
 1 _GUID 87ba20e3-ab55-49c3-b984-9937060c00a8
 1 _XY 143186 2091
 0 @YEBDD742S4q5fctJ0n6K@ INDI
@@ -7214,9 +7225,9 @@
 1 REFN 9627d394-edf0-4b1f-b485-33c9ba4ec047
 1 NAME Elizabeth Hortense /Harrell/
 2 SOUR @S137@
-3 PAGE Central Virginian, The; Publication Date: 9/ Feb/ 2007; Publ
-4 CONC ication Place: Louisa, Virginia, USA; URL: http://www.thecen
-4 CONC tralvirginian.com/Obituaries.htm
+3 PAGE Central Virginian, The; Publication Date: 9 Feb 2007; Public
+4 CONC ation Place: Louisa, Virginia, USA; URL: http://www.thecentr
+4 CONC alvirginian.com/Obituaries.htm
 3 _APID 7545:13745148
 2 SOUR @S136@
 3 PAGE Virginia Department of Health; Richmond, Virginia; Virgini
@@ -7233,9 +7244,9 @@
 4 LATI N36.5033
 4 LONG W76.7695
 2 SOUR @S137@
-3 PAGE Central Virginian, The; Publication Date: 9/ Feb/ 2007; Publ
-4 CONC ication Place: Louisa, Virginia, USA; URL: http://www.thecen
-4 CONC tralvirginian.com/Obituaries.htm
+3 PAGE Central Virginian, The; Publication Date: 9 Feb 2007; Public
+4 CONC ation Place: Louisa, Virginia, USA; URL: http://www.thecentr
+4 CONC alvirginian.com/Obituaries.htm
 3 _APID 7545:13745148
 2 SOUR @S136@
 3 PAGE Virginia Department of Health; Richmond, Virginia; Virgini
@@ -7246,9 +7257,9 @@
 1 DEAT
 2 DATE 21 JAN 2007
 2 SOUR @S137@
-3 PAGE Central Virginian, The; Publication Date: 9/ Feb/ 2007; Publ
-4 CONC ication Place: Louisa, Virginia, USA; URL: http://www.thecen
-4 CONC tralvirginian.com/Obituaries.htm
+3 PAGE Central Virginian, The; Publication Date: 9 Feb 2007; Public
+4 CONC ation Place: Louisa, Virginia, USA; URL: http://www.thecentr
+4 CONC alvirginian.com/Obituaries.htm
 3 _APID 7545:13745148
 1 BURI
 2 DATE 27 JAN 2007
@@ -7257,9 +7268,9 @@
 4 LATI N35.1085
 4 LONG W77.0441
 2 SOUR @S137@
-3 PAGE Central Virginian, The; Publication Date: 9/ Feb/ 2007; Publ
-4 CONC ication Place: Louisa, Virginia, USA; URL: http://www.thecen
-4 CONC tralvirginian.com/Obituaries.htm
+3 PAGE Central Virginian, The; Publication Date: 9 Feb 2007; Public
+4 CONC ation Place: Louisa, Virginia, USA; URL: http://www.thecentr
+4 CONC alvirginian.com/Obituaries.htm
 3 _APID 7545:13745148
 1 _GUID 1db56b76-4029-4cb8-a41f-fc3fc0f87bb9
 0 @I207@ INDI
@@ -7954,6 +7965,8 @@
 2 SOUR @kRuFRPwjRGW6pfPCjXRF@
 3 PAGE Anne Brandreth McAlpin
 3 _APID 60901:47178460
+1 EDUC
+2 PLAC Saint Mary’s College, San Antonio, Bexar, Texas, USA
 1 BURI
 2 PLAC West Point, Orange, New York, USA
 3 MAP
@@ -7961,8 +7974,6 @@
 4 LONG W73.956
 2 SOUR @lDuG27hSTACWHq7z54Ba@
 3 _APID 60525:110556420
-1 EDUC
-2 PLAC Saint Mary’s College, San Antonio, Bexar, Texas, USA
 1 _GUID fda9e6c6-8e2c-41c7-be1c-3c4c447d5fe5
 0 @zzUEiuVURYiP0VRdy85M@ INDI
 1 REFN 8177d521-a38f-4a95-86aa-092bb4e3b1f8
@@ -8324,10 +8335,6 @@
 3 _APID 2272:22554514
 2 SOUR @lDuG27hSTACWHq7z54Ba@
 3 _APID 60525:1490356
-1 BURI
-2 PLAC San Antonio, Bexar County, Texas, United States of America
-2 SOUR @lDuG27hSTACWHq7z54Ba@
-3 _APID 60525:1490356
 1 RESI
 2 PLAC San Antonio, Bexar, Texas, USA
 3 MAP
@@ -8337,6 +8344,10 @@
 3 PAGE Texas Department of State Health Services; Austin Texas, USA
 3 OBJE @M177@
 3 _APID 2272:22554514
+1 BURI
+2 PLAC San Antonio, Bexar County, Texas, United States of America
+2 SOUR @lDuG27hSTACWHq7z54Ba@
+3 _APID 60525:1490356
 1 _GUID bc3b305e-cf25-4450-a8c5-66de9b84c29f
 0 @I254@ INDI
 1 REFN d05e7b69-2b72-40db-b80a-c172f32eb5e8
@@ -9037,6 +9048,8 @@
 4 LONG W78.8784
 2 SOUR @lDuG27hSTACWHq7z54Ba@
 3 _APID 60525:46671280
+1 TITL President of the United States of America
+2 PLAC Washington, Washington, District of Columbia, USA
 1 BURI
 2 PLAC Canton, Stark, Ohio, USA
 3 MAP
@@ -9044,8 +9057,6 @@
 4 LONG W81.3785
 2 SOUR @lDuG27hSTACWHq7z54Ba@
 3 _APID 60525:46671280
-1 TITL President of the United States of America
-2 PLAC Washington, Washington, District of Columbia, USA
 1 _GUID d48a045f-d8bf-4b90-af03-0c9d826007e1
 1 _XY 144592 2223
 1 _PHOTO @M161@
@@ -9399,9 +9410,9 @@
 3 _APID 1732:387356315
 2 SOUR @kRuFRPwjRGW6pfPCjXRF@
 3 _APID 60901:24991847
-2 SOUR @hbWNuFKLSJGED9AQ2SKp@
-3 PAGE Number: 119-28-0547; Issue State: New York; Issue Date: 1952
-4 CONC -1954
+2 SOUR @S152@
+3 PAGE Social Security Administration; Washington D.C., USA; Socia
+4 CONC l Security Death Index, Master File
 3 _APID 3693:15049198
 1 SEX F
 1 FAMS @F203@
@@ -9424,9 +9435,9 @@
 3 _APID 1732:387356315
 2 SOUR @kRuFRPwjRGW6pfPCjXRF@
 3 _APID 60901:24991847
-2 SOUR @hbWNuFKLSJGED9AQ2SKp@
-3 PAGE Number: 119-28-0547; Issue State: New York; Issue Date: 1952
-4 CONC -1954
+2 SOUR @S152@
+3 PAGE Social Security Administration; Washington D.C., USA; Socia
+4 CONC l Security Death Index, Master File
 3 _APID 3693:15049198
 1 RESI
 2 DATE 1956
@@ -9465,10 +9476,14 @@
 3 QUAY 1
 2 SOUR @kRuFRPwjRGW6pfPCjXRF@
 3 _APID 60901:24991847
-2 SOUR @hbWNuFKLSJGED9AQ2SKp@
-3 PAGE Number: 119-28-0547; Issue State: New York; Issue Date: 1952
-4 CONC -1954
+2 SOUR @S152@
+3 PAGE Social Security Administration; Washington D.C., USA; Socia
+4 CONC l Security Death Index, Master File
 3 _APID 3693:15049198
+1 RESI
+2 PLAC 18 Sharps Drive, Plymouth, Plymouth, Massachusetts, USA
+2 SOUR @S172@
+3 _APID 1732:387356315
 1 BURI
 2 PLAC Hamburg, Erie, New York, USA
 3 MAP
@@ -9476,10 +9491,6 @@
 4 LONG W78.8295
 2 SOUR @S204@
 3 _APID 60541:158911466
-1 RESI
-2 PLAC 18 Sharps Drive, Plymouth, Plymouth, Massachusetts, USA
-2 SOUR @S172@
-3 _APID 1732:387356315
 1 _GUID 68a98525-def3-4289-930d-ad9b5c383621
 1 _XY 3288 4696
 0 @DrGf0Rt8SZutBcb5fAwW@ INDI
@@ -9596,7 +9607,8 @@
 2 SOUR @lDuG27hSTACWHq7z54Ba@
 3 _APID 60525:80874092
 2 SOUR @S152@
-3 PAGE Issue State: Tennessee; Issue Date: 1957
+3 PAGE Social Security Administration; Washington D.C., USA; Socia
+4 CONC l Security Death Index, Master File
 3 _APID 3693:92239186
 1 SEX M
 1 FAMC @F184@
@@ -9617,7 +9629,8 @@
 2 SOUR @lDuG27hSTACWHq7z54Ba@
 3 _APID 60525:80874092
 2 SOUR @S152@
-3 PAGE Issue State: Tennessee; Issue Date: 1957
+3 PAGE Social Security Administration; Washington D.C., USA; Socia
+4 CONC l Security Death Index, Master File
 3 _APID 3693:92239186
 1 RESI
 2 DATE 1940
@@ -9638,7 +9651,8 @@
 2 SOUR @lDuG27hSTACWHq7z54Ba@
 3 _APID 60525:80874092
 2 SOUR @S152@
-3 PAGE Issue State: Tennessee; Issue Date: 1957
+3 PAGE Social Security Administration; Washington D.C., USA; Socia
+4 CONC l Security Death Index, Master File
 3 _APID 3693:92239186
 1 BURI
 2 PLAC West Point, Orange, New York, USA
@@ -9801,10 +9815,6 @@
 4 LATI N40.5834
 4 LONG W74.1496
 2 SOUR @QwqiUXPhTfujGhk4Jui7@
-1 BURI
-2 PLAC Stonybrook Cemetery (lost) (now Arrochar Park), Sand Lane, S
-3 CONC taten Island, Richmond, New York, USA
-2 SOUR @QwqiUXPhTfujGhk4Jui7@
 1 EVEN
 2 TYPE note
 2 SOUR @SmsK3xjdRVW2J9UNSg62@
@@ -9830,6 +9840,10 @@
 3 CONT Certains de leurs descendants
 3 CONT ont places ici cette inscriptions
 3 CONT A.D. 1903"
+1 BURI
+2 PLAC Stonybrook Cemetery (lost) (now Arrochar Park), Sand Lane, S
+3 CONC taten Island, Richmond, New York, USA
+2 SOUR @QwqiUXPhTfujGhk4Jui7@
 1 _GUID db83c252-bb04-4519-995b-f197d8ab4d4e
 1 _XY 149081 1001
 0 @btJ7PvvJT2asCv7qaNko@ INDI
@@ -11212,16 +11226,16 @@
 4 LONG W73.6861
 2 SOUR @VHjvLE2zQBW9sJgDIyRj@
 3 QUAY 1
-1 BURI
-2 PLAC Mount Zion Cemetery, 76 Primrose Street, Somers, Westchester
-3 CONC , New York, USA
-2 SOUR @Jf3FjEDYSsO1WyBpm8DQ@
-3 QUAY 3
 1 EVEN
 2 TYPE note
 2 SOUR @oyij8W8JTpeesDhCeXbv@
 3 QUAY 1
 2 NOTE last name also given as Savil
+1 BURI
+2 PLAC Mount Zion Cemetery, 76 Primrose Street, Somers, Westchester
+3 CONC , New York, USA
+2 SOUR @Jf3FjEDYSsO1WyBpm8DQ@
+3 QUAY 3
 1 _GUID 97db1c3b-8be6-4496-91ac-055346044363
 1 _XY 147770 1798
 0 @I226@ INDI
@@ -11511,6 +11525,10 @@
 3 _APID 9061:2107133
 2 SOUR @lDuG27hSTACWHq7z54Ba@
 3 _APID 60525:69680737
+1 BURI
+2 PLAC Cedar Grove Cemetery, New Bern, Craven, North Carolina, USA
+2 SOUR @lDuG27hSTACWHq7z54Ba@
+3 _APID 60525:69680737
 1 PROB
 2 PLAC Craven, North Carolina, USA
 3 MAP
@@ -11521,10 +11539,6 @@
 4 CONC aven County); Probate Place: Craven, North Carolina
 3 OBJE @x8XeY41VRtOkT0lDzEjx@
 3 _APID 9061:2107133
-1 BURI
-2 PLAC Cedar Grove Cemetery, New Bern, Craven, North Carolina, USA
-2 SOUR @lDuG27hSTACWHq7z54Ba@
-3 _APID 60525:69680737
 1 _GUID 1a64c0d5-d08a-424f-a43d-a38250f2612f
 1 _XY 142843 2091
 0 @I218@ INDI
@@ -11594,17 +11608,17 @@
 4 CONC 5785,0.5070931&xid=2378
 3 _APID 61843:696173745
 2 SOUR @S137@
-3 PAGE Publication Date: 12/ Apr/ 2010; Publication Place: Concord
-4 CONC , Massachusetts, USA; URL: http://www.legacy.com/obituaries/
-4 CONC wickedlocal-concord/obituary.aspx?n=kenneth-demay&amp;pid=14
-4 CONC 1539044
-3 _APID 7545:60004116
-2 SOUR @S137@
-3 PAGE Publication Date: 5/ Apr/ 2010; Publication Place: Boston, M
-4 CONC assachusetts, USA; URL: http://www.legacy.com/obituaries/bos
-4 CONC tonglobe/obituary.aspx?n=kenneth-disosway-demay&amp;pid=1415
-4 CONC 06221
+3 PAGE Boston Globe; Publication Date: 5 Apr 2010; Publication Plac
+4 CONC e: Boston, Massachusetts, USA; URL: http://www.legacy.com/ob
+4 CONC ituaries/bostonglobe/obituary.aspx?n=kenneth-disosway-demay&
+4 CONC pid=141506221
 3 _APID 7545:147549650
+2 SOUR @S137@
+3 PAGE Concord Journal; Publication Date: 12 Apr 2010; Publicatio
+4 CONC n Place: Concord, Massachusetts, USA; URL: http://www.legacy
+4 CONC .com/obituaries/wickedlocal-concord/obituary.aspx?n=kenneth-
+4 CONC demay&pid=141539044
+3 _APID 7545:60004116
 1 SEX F
 1 FAMS @F202@
 1 _GUID 2addd40e-b03f-4a5b-b030-564c65d4d6e1
@@ -13318,7 +13332,7 @@
 2 SOUR @S171@
 3 PAGE 1856, Ann Maria Justice
 3 _APID 4802:1083113
-2 SOUR @RK2jjKBxR1KOXCD0xkMw@
+2 SOUR @S171@
 3 PAGE 1856, Israel Disosway
 3 _APID 4802:83113
 2 SOUR @S147@
@@ -15653,14 +15667,6 @@
 1 PUBL Ancestry.com Operations Inc; Location: Provo, UT, USA; Date
 2 CONC : 2000
 1 _APID 4802
-0 @RK2jjKBxR1KOXCD0xkMw@ SOUR
-1 REFN 5ad18b93-314b-4999-a690-92402a5a06a4
-1 REPO @t1Wm6WiqTK6oX61EAKx1@
-1 TITL North Carolina, Marriage Bonds, 1741-1868
-1 AUTH Ancestry.com
-1 PUBL Ancestry.com Operations Inc; Location: Provo, UT, USA; Date
-2 CONC : 2000
-1 _APID 4802
 0 @S170@ SOUR
 1 REPO @t1Wm6WiqTK6oX61EAKx1@
 1 TITL North Carolina, Marriage Index, 1741-2004
@@ -16070,14 +16076,6 @@
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations Inc; Location: Provo, UT, USA; Date
 2 CONC : 2014
-1 _APID 3693
-0 @hbWNuFKLSJGED9AQ2SKp@ SOUR
-1 REFN 10de571e-ae23-42bc-8c70-627f50f82030
-1 REPO @t1Wm6WiqTK6oX61EAKx1@
-1 TITL U.S., Social Security Death Index, 1935-Current
-1 AUTH Ancestry.com
-1 PUBL Ancestry.com Operations Inc; Location: Provo, UT, USA; Date
-2 CONC : 2011
 1 _APID 3693
 0 @ioJy6aYrR3m98xzVluJ0@ SOUR
 1 REFN bf9fa8f8-3780-4fc9-bdae-1f81511cbc87
