@@ -14,9 +14,9 @@
 4 CONT Boston, MA 02109
 3 PHON (617) 227-6681
 1 DEST FTM
-1 FILE Disosway_2020-06-13-04-30-53.ftm.ged
-1 DATE 13 JUN 2020
-2 TIME 04:28:07
+1 FILE Disosway_2020-06-14-02-59-50.ftm.ged
+1 DATE 14 JUN 2020
+2 TIME 02:59:05
 0 @Umy2qBWIRUiwVSS6Hcn4@ SUBM
 1 NAME Christopher Alan Mosher
 2 EMAIL cmosher01@@gmail.com
@@ -885,6 +885,52 @@
 0 @KShlMXNFS0eOD2f7hhwH@ INDI
 1 REFN 56c02524-f931-4a61-8378-03c400853af2
 1 NAME Marcus /de Sauchoy/
+2 SOUR @S210@
+3 PAGE Nationaal Archief Nieuw-Nederland; Den Haag, Nederland; DT
+4 CONC B Baptism
+3 _APID 61284:5938547
+2 SOUR @S207@
+3 OBJE @M230@
+3 _APID 27177:122
+2 SOUR @S208@
+3 OBJE @M229@
+3 _APID 17027:243
+2 SOUR @S206@
+3 PAGE Place: New Netherland; Year: 1657; Page Number: 1
+3 _APID 7486:1627365
+2 SOUR @S206@
+3 PAGE Place: New Netherland; Year: 1657; Page Number: 117
+3 _APID 7486:1627405
+2 SOUR @S206@
+3 PAGE Place: New Netherland; Year: 1657; Page Number: 163
+3 _APID 7486:1627406
+2 SOUR @S206@
+3 PAGE Place: New Netherland; Year: 1657; Page Number: 17
+3 _APID 7486:4479339
+2 SOUR @S206@
+3 PAGE Place: New Netherland; Year: 1657; Page Number: 170
+3 _APID 7486:1627364
+2 SOUR @S206@
+3 PAGE Place: New Netherland; Year: 1657; Page Number: 35
+3 _APID 7486:1627367
+2 SOUR @S206@
+3 PAGE Place: New Netherland; Year: 1657; Page Number: 52
+3 _APID 7486:1627366
+2 SOUR @S206@
+3 PAGE Place: New Netherland; Year: 1657; Page Number: 55
+3 _APID 7486:1627404
+2 SOUR @S206@
+3 PAGE Place: New York, New York; Year: 1657; Page Number: 141
+3 _APID 7486:1864196
+2 SOUR @S206@
+3 PAGE Place: New York, New York; Year: 1657; Page Number: 185
+3 _APID 7486:1864197
+2 SOUR @S206@
+3 PAGE Place: New York, New York; Year: 1657; Page Number: 194
+3 _APID 7486:1864198
+2 SOUR @S206@
+3 PAGE Place: New York, New York; Year: 1657; Page Number: 5
+3 _APID 7486:2269626
 1 SEX M
 1 FAMS @R1JOsWmCTbuI9MsdipEd@
 1 OBJE @7fpRlluWTNGapCBv05ms@
@@ -1129,14 +1175,37 @@
 2 PLAC Netherlands
 2 SOUR @hpjMLgmJTOiRswjAwKqF@
 3 QUAY 1
-1 IMMI
-2 DATE BET 02 APR 1657 AND 22 MAY 1657
-2 PLAC New York, New York, USA
+1 EVEN
+2 TYPE Departure
+2 DATE 02 APR 1657
+2 PLAC Amsterdam, Amsterdam, Noord-Holland, Netherlands
 3 MAP
-4 LATI N40.7744
-4 LONG W73.9721
+4 LATI N52.35
+4 LONG E4.9167
+2 SOUR @S205@
+3 PAGE <bibl><author><foreign xml:lang="nl">Geoctrooieerde West‐Ind
+4 CONC ische Compagnie</foreign> ([Dutch] Chartered West India Comp
+4 CONC any)</author>, <title level="u">“Accounts 1654 to 1664, F[or
+4 CONC t] Amsterdam in N[ew] Nederlant”, List of emigrants from Hol
+4 CONC land to New Netherland from 1654 to 1664, with their account
+4 CONC s, debit and credit</title>, vol. <biblScope unit="volume">K
+4 CONC K</biblScope>, numbered (with minor inconsistencies) account
+4 CONC ing ledger spreads, with unnumbered entries, in chronoligica
+4 CONC l order, <citedRange>spread 3 verso (debit), entry no. 1, da
+4 CONC ted 2 Apr 1657, for Marcus de Chousoy</citedRange>; digita
+4 CONC l images, Series <biblScope unit="series">A1810</biblScope>
+4 CONC , <title level="s">New Netherland Council, Dutch colonial ad
+4 CONC ministrative correspondence, 1646-1664</title>, [<title leve
+4 CONC l="s">New York Historical Manuscripts</title>] (<ref target=
+4 CONC "http://digitalcollections.archives.nysed.gov/index.php/Deta
+4 CONC il/objects/54615"/> : accessed 13 Jun 2020), <citedRange>bo
+4 CONC x 5, vol. 14, item 83, NYSA_A1810-78_V14_0083, image 6 of 18
+4 CONC 0</citedRange>; Dutch Records, Digital Collections, New Yor
+4 CONC k State Archives, Albany.</bibl>
+3 OBJE @M232@
+3 _LINK http://digitalcollections.archives.nysed.gov/index.php/Detai
+4 CONC l/objects/54615
 2 SOUR @W6JSOd6SQi6Ja2GqJNJT@
-3 QUAY 1
 3 DATA
 4 TEXT Sailed after 24 March 1657 from Amsterdam, arrived New Amste
 5 CONC rdam between 22 May and 14 August 1657([as per JJ).<br />
@@ -1155,7 +1224,65 @@
 5 CONC therland, 1657-1664" from "The Documentary History of New Yo
 5 CONC rk" in two volumes (Vol. 1) privately printed Edinburgh 1888
 5 CONC .<br /> Marcus de Chousoy and wife, two workmen and two boys
-2 NOTE on ship "Draetvat"
+1 EVEN
+2 TYPE Arrival
+2 DATE ABT JUL 1657
+2 PLAC New York City, New York, USA
+2 SOUR @W6JSOd6SQi6Ja2GqJNJT@
+3 DATA
+4 TEXT Sailed after 24 March 1657 from Amsterdam, arrived New Amste
+5 CONC rdam between 22 May and 14 August 1657([as per JJ).<br />
+5 CONT From "Papers Relating to the First Settlement of New York b
+5 CONC y the Dutch containing a List of the Early Immigrants to Ne
+5 CONC w Netherland, 1657-1664" from "The Documentary History of Ne
+5 CONC w York" in two volumes (Vol. 1) privately printed Edinburg
+5 CONC h 1888.<br />
+5 CONT Marcus de Chousoy and wife, two workmen and two boys
+2 SOUR @W6JSOd6SQi6Ja2GqJNJT@
+3 DATA
+4 TEXT Sailed after 24 March 1657 from Amsterdam, arrived New Amste
+5 CONC rdam between 22 May and 14 August 1657([as per JJ).<br /> Fr
+5 CONC om "Papers Relating to the First Settlement of New York by t
+5 CONC he Dutch containing a List of the Early Immigrants to New Ne
+5 CONC therland, 1657-1664" from "The Documentary History of New Yo
+5 CONC rk" in two volumes (Vol. 1) privately printed Edinburgh 1888
+5 CONC .<br /> Marcus de Chousoy and wife, two workmen and two boys
+2 SOUR @S206@
+3 PAGE Place: New Netherland; Year: 1657; Page Number: 1
+3 _APID 7486:1627365
+2 SOUR @S206@
+3 PAGE Place: New Netherland; Year: 1657; Page Number: 117
+3 _APID 7486:1627405
+2 SOUR @S206@
+3 PAGE Place: New Netherland; Year: 1657; Page Number: 163
+3 _APID 7486:1627406
+2 SOUR @S206@
+3 PAGE Place: New Netherland; Year: 1657; Page Number: 17
+3 _APID 7486:4479339
+2 SOUR @S206@
+3 PAGE Place: New Netherland; Year: 1657; Page Number: 170
+3 _APID 7486:1627364
+2 SOUR @S206@
+3 PAGE Place: New Netherland; Year: 1657; Page Number: 35
+3 _APID 7486:1627367
+2 SOUR @S206@
+3 PAGE Place: New Netherland; Year: 1657; Page Number: 52
+3 _APID 7486:1627366
+2 SOUR @S206@
+3 PAGE Place: New Netherland; Year: 1657; Page Number: 55
+3 _APID 7486:1627404
+2 SOUR @S206@
+3 PAGE Place: New York, New York; Year: 1657; Page Number: 141
+3 _APID 7486:1864196
+2 SOUR @S206@
+3 PAGE Place: New York, New York; Year: 1657; Page Number: 185
+3 _APID 7486:1864197
+2 SOUR @S206@
+3 PAGE Place: New York, New York; Year: 1657; Page Number: 194
+3 _APID 7486:1864198
+2 SOUR @S206@
+3 PAGE Place: New York, New York; Year: 1657; Page Number: 5
+3 _APID 7486:2269626
 1 RESI
 2 DATE FROM AUG 1657 TO 1660
 2 PLAC Long Island City, Queens, New York, USA
@@ -6090,6 +6217,10 @@
 2 SOUR @Pntdey3hRciTPlSOGIjt@
 3 PAGE Birth year: 1659; Birth city: Staten Island; Birth state: NY
 3 _APID 4725:4694754
+2 SOUR @S210@
+3 PAGE Nationaal Archief Nieuw-Nederland; Den Haag, Nederland; DT
+4 CONC B Baptism
+3 _APID 61284:938547
 2 SOUR @cBzHCpzEQEucFGpwqEAf@
 3 PAGE The New York Genealogical and Biographical Record (quarterly
 4 CONC -1874) - Extracts; Publication Place: New York; Publisher: N
@@ -6138,6 +6269,10 @@
 2 PLAC Reformed Dutch Church, New York, New York, USA
 2 SOUR @hpjMLgmJTOiRswjAwKqF@
 3 QUAY 1
+2 SOUR @S210@
+3 PAGE Nationaal Archief Nieuw-Nederland; Den Haag, Nederland; DT
+4 CONC B Baptism
+3 _APID 61284:938547
 2 NOTE [original record probably used Gregorian calendar]
 1 EVEN
 2 TYPE member
@@ -11015,7 +11150,7 @@
 3 QUAY 1
 2 SOUR @aST1lt8SQ0mm8XdCieVD@
 3 _APID 7249:10492220
-2 SOUR @r8z4KK5oSiCHcHw1jNfg@
+2 SOUR @S206@
 3 PAGE Place: New York, New York; Year: 1640-1665; Page Number: 505
 3 _APID 7486:1769287
 2 SOUR @lDuG27hSTACWHq7z54Ba@
@@ -11690,6 +11825,10 @@
 3 PAGE Birth year: 1640; Birth city: of Staten Island; Birth state
 4 CONC : NY
 3 _APID 4725:4675076
+2 SOUR @S210@
+3 PAGE Nationaal Archief Nieuw-Nederland; Den Haag, Nederland; DT
+4 CONC B Baptism
+3 _APID 61284:10938547
 2 SOUR @3GGekgpiTSm2eBAudMwY@
 3 PAGE Source number: 1497.000; Source type: Electronic Database; N
 4 CONC umber of Pages: 1; Submitter Code: PJN
@@ -14939,6 +15078,12 @@
 1 ADDR
 1 EMAIL
 1 PHON
+0 @S205@ SOUR
+1 TITL "Dutch Records", New York State Archives, Digital Collection
+2 CONC s
+1 NOTE "Dutch Records".  images.  New York State Archives.  Digita
+2 CONC l Collections.  http://digitalcollections.archives.nysed.gov
+2 CONC /.
 0 @KXTHkVUfSzyC3wV1mY6m@ SOUR
 1 REPO @t1Wm6WiqTK6oX61EAKx1@
 1 TITL 1840 United States Federal Census
@@ -15523,6 +15668,13 @@
 1 AUTH NY State, Secretary of State
 1 PUBL Weed, Parsons, & Co., Albany, 1860
 1 TEXT Marriage Bonds v. VII, p. 520
+0 @S210@ SOUR
+1 REPO @t1Wm6WiqTK6oX61EAKx1@
+1 TITL Netherlands, Baptism Index, 1557-1902
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.; Location: Lehi, UT, USA; Date
+2 CONC : 2016
+1 _APID 61284
 0 @kCzSeQPqSmSRCOREkD1J@ SOUR
 1 REFN b091ad19-ddfe-48b8-9f93-f800b13ba923
 1 REPO @t1Wm6WiqTK6oX61EAKx1@
@@ -16033,6 +16185,13 @@
 2 CONC , N. J. Families, (Rockaway, N.J., Rockaway Publishing Co.
 2 CONC , 1902)<br />
 2 CONT <br />
+0 @S207@ SOUR
+1 REPO @t1Wm6WiqTK6oX61EAKx1@
+1 TITL Pre-Revolutionary Dutch houses and families in northern Ne
+2 CONC w Jersey and southern New York
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations Inc; Location: Provo, UT; Date: 2005
+1 _APID 27177
 0 @S163@ SOUR
 1 REPO @t1Wm6WiqTK6oX61EAKx1@
 1 TITL Puerto Rico, Passenger and Crew Lists, 1901-1962
@@ -16069,6 +16228,12 @@
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2010
 1 _APID 1616
+0 @S208@ SOUR
+1 REPO @t1Wm6WiqTK6oX61EAKx1@
+1 TITL Revised history of Harlem (city of New York)
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations Inc; Location: Provo, UT; Date: 2005
+1 _APID 17027
 0 @AjME57hWTyqDyKMmFR3x@ SOUR
 1 REFN 7ae44e36-b6ce-4951-b3c5-0f372b1910e5
 1 TITL Richmond County (New York) Land Deeds
@@ -16079,6 +16244,11 @@
 1 AUTH Stoner, Scott
 1 PUBL http://familytreemaker.genealogy.com/users/s/t/o/Scott-S-Sto
 2 CONC ner/index.html
+0 @S209@ SOUR
+1 REPO @t1Wm6WiqTK6oX61EAKx1@
+1 TITL Seventeenth Century Colonial Ancestors, Vol. I
+1 NOTE <line />
+1 _APID 48055
 0 @S177@ SOUR
 1 REFN cceb6bd8-f346-4605-8690-7e07f0d84636
 1 TITL Social Security Death Index
@@ -16163,8 +16333,7 @@
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2014
 1 _APID 60183
-0 @r8z4KK5oSiCHcHw1jNfg@ SOUR
-1 REFN 25571bbd-1d9c-423b-923c-ea91f8ed7dc9
+0 @S206@ SOUR
 1 REPO @t1Wm6WiqTK6oX61EAKx1@
 1 TITL U.S. and Canada, Passenger and Immigration Lists Index, 1500
 2 CONC s-1900s
@@ -18876,4 +19045,31 @@
 2 _DATE 5/30/2020 2:21:07 AM
 2 _TEXT "Brooklyn, New York, City Directory, 1885," p. 319, image 37
 3 CONC 7
+0 @M229@ OBJE
+1 _GUID 26354fee-84f2-43ce-81d7-e8b9b65bd1cd
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Disosway Media\
+2 CONC Revised history of Harlem (city of New York).jpg
+2 FORM jpg
+2 TITL Revised history of Harlem (city of New York)
+0 @M230@ OBJE
+1 _GUID 09b38107-334a-44eb-b6b8-0957b4e2f643
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Disosway Media\
+2 CONC Pre-Revolutionary Dutch houses and families in northern Ne
+2 CONC w Jersey and southern New York.jpg
+2 FORM jpg
+2 TITL Pre-Revolutionary Dutch houses and families in northern Ne
+3 CONC w Jersey and southern New York
+0 @M231@ OBJE
+1 _GUID 3f741088-10bd-4f0e-b877-9ef58e6bd044
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Disosway Media\
+2 CONC Seventeenth Century Colonial Ancestors, Vol. I.jpg
+2 FORM jpg
+2 TITL Seventeenth Century Colonial Ancestors, Vol. I
+0 @M232@ OBJE
+1 _GUID dc72eb5c-54c6-4fbd-b9c6-45f22a1865cf
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Disosway Media\
+2 CONC dechousoy_marcus_1657-04-02_draetvat.png
+2 FORM jpg
+2 TITL dechousoy_marcus_1657-04-02_draetvat
+2 _DATE 6/14/2020 2:57:02 AM
 0 TRLR
