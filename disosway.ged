@@ -14,9 +14,9 @@
 4 CONT Boston, MA 02109
 3 PHON (617) 227-6681
 1 DEST FTM
-1 FILE Disosway_2020-06-14-03-22-07.ftm.ged
+1 FILE Disosway_2020-06-14-17-36-11.ftm.ged
 1 DATE 14 JUN 2020
-2 TIME 03:19:21
+2 TIME 17:35:05
 0 @Umy2qBWIRUiwVSS6Hcn4@ SUBM
 1 NAME Christopher Alan Mosher
 2 EMAIL cmosher01@@gmail.com
@@ -1166,10 +1166,38 @@
 3 MAP
 4 LATI N40.7231
 4 LONG W73.913
-2 SOUR @hpjMLgmJTOiRswjAwKqF@
-3 DATA
-4 TEXT [Transcribed from New York Historical Records, v. V, p. 327.
-5 CONC ]
+2 SOUR @S205@
+3 PAGE <bibl><title level="u">Deed, Claes van Elsland to Peter Tarr
+4 CONC agon, 17 Jun 1655, Mespachtes [Maspeth, Queens, New York]</t
+4 CONC itle>; digital images, Series <biblScope unit="series">A0270
+4 CONC </biblScope>, <author>Secretary, Province of New Netherlan
+4 CONC d (America)</author>, <title level="s">Register, 1642-60</ti
+4 CONC tle>, (<ref target="http://digitalcollections.archives.nysed
+4 CONC .gov/index.php/Detail/objects/19306"/> : accessed 13 Jun 202
+4 CONC 0), <citedRange>box 3, vol. 3, item 132e, NYSA_A0270-78_V3_1
+4 CONC 32e</citedRange>; Dutch Records, Digital Collections, New Yo
+4 CONC rk State Archives, Albany.</bibl>
+3 OBJE @M233@
+3 _LINK http://digitalcollections.archives.nysed.gov/index.php/Detai
+4 CONC l/objects/19306
+2 SOUR @S211@
+3 PAGE bibl><author>Arnold Johan Ferdinand VanLaer, transcriber</au
+4 CONC thor>, <title level="m">Records of New Netherland, Registe
+4 CONC r of the Provincial Secretary, Volume 3, 1648-1660, Dutch Te
+4 CONC xt</title>, typescript (<pubPlace>Albany</pubPlace>: <publis
+4 CONC her>State University of New York</publisher>, <date>1939</da
+4 CONC te>), <citedRange>638-9</citedRange>; digital images, <autho
+4 CONC r>New Netherland Insititute (Albany, New York)</author>, <ti
+4 CONC tle leve="m">Register of the Provincial Secretary, 1638-1660
+4 CONC , transcriptions</title> (<ref target="https://www.newnether
+4 CONC landinstitute.org/files/2913/9170/8116/NYSA_A3266-88_V3.pdf"
+4 CONC /> : accessed 13 Jun 2020), <citedRange>3: 638-9</citedRange
+4 CONC >; citing <title level="u">New York [Dutch] Colonial [Histor
+4 CONC ical] Manuscripts</title>, <citedRange>3: 132e</citedRange>.
+4 CONC </bibl>
+3 OBJE @M234@
+3 _LINK https://www.newnetherlandinstitute.org/files/2913/9170/8116/
+4 CONC NYSA_A3266-88_V3.pdf
 1 RESI
 2 DATE 1656
 2 PLAC Netherlands
@@ -1195,10 +1223,9 @@
 4 CONC , dated 2 Apr 1657, for Marcus de Chousoy</citedRange>; digi
 4 CONC tal images, Series <biblScope unit="series">A1810</biblScope
 4 CONC >, <title level="s">New Netherland Council, Dutch colonial a
-4 CONC dministrative correspondence, 1646-1664</title>, [<title lev
-4 CONC el="s">New York Historical Manuscripts</title>] (<ref target
-4 CONC ="http://digitalcollections.archives.nysed.gov/index.php/Det
-4 CONC ail/objects/54615"/> : accessed 13 Jun 2020), <citedRange>bo
+4 CONC dministrative correspondence, 1646-64</title>, (<ref target=
+4 CONC "http://digitalcollections.archives.nysed.gov/index.php/Deta
+4 CONC il/objects/54615"/> : accessed 13 Jun 2020), <citedRange>bo
 4 CONC x 5, vol. 14, item 83, NYSA_A1810-78_V14_0083, image 6 of 18
 4 CONC 0</citedRange>; Dutch Records, Digital Collections, New Yor
 4 CONC k State Archives, Albany.</bibl>
@@ -15084,6 +15111,13 @@
 1 NOTE "Dutch Records".  images.  New York State Archives.  Digita
 2 CONC l Collections.  http://digitalcollections.archives.nysed.gov
 2 CONC /.
+0 @S211@ SOUR
+1 TITL "From the Collections of the New York State Archives", New N
+2 CONC etherland Institute, Online Publications
+1 NOTE "From the Collections of the New York State Archives".  imag
+2 CONC es.  New Netherland Institute.  Online Publications.  https:
+2 CONC //www.newnetherlandinstitute.org/research/online-publication
+2 CONC s/.
 0 @KXTHkVUfSzyC3wV1mY6m@ SOUR
 1 REPO @t1Wm6WiqTK6oX61EAKx1@
 1 TITL 1840 United States Federal Census
@@ -19072,4 +19106,18 @@
 2 FORM jpg
 2 TITL dechousoy_marcus_1657-04-02_draetvat
 2 _DATE 6/14/2020 2:57:02 AM
+0 @M233@ OBJE
+1 _GUID ad2cae74-6637-4972-83df-2697da5bfcb8
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Disosway Media\
+2 CONC dusausoy_marc_1655-06-17_witness_original.jpg
+2 FORM jpg
+2 TITL dusausoy_marc_1655-06-17_witness_original
+2 _DATE 6/21/2011 9:28:44 AM
+0 @M234@ OBJE
+1 _GUID 9d283a58-1a4b-402c-9b26-2baadac5d633
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Disosway Media\
+2 CONC dusausoy_marc_1655-06-17_witness_typescript.pdf
+2 FORM jpg
+2 TITL dusausoy_marc_1655-06-17_witness_typescript
+2 _DATE 6/14/2020 5:31:33 PM
 0 TRLR
