@@ -14,9 +14,9 @@
 4 CONT Boston, MA 02109
 3 PHON (617) 227-6681
 1 DEST FTM
-1 FILE Disosway_2020-06-14-21-33-19.ftm.ged
+1 FILE Disosway_2020-06-14-22-15-25.ftm.ged
 1 DATE 14 JUN 2020
-2 TIME 21:30:52
+2 TIME 22:12:41
 0 @Umy2qBWIRUiwVSS6Hcn4@ SUBM
 1 NAME Christopher Alan Mosher
 2 EMAIL cmosher01@@gmail.com
@@ -2190,6 +2190,7 @@
 3 OBJE @smzaEWVCQR6pTLSdGFrR@
 3 _APID 7163:22828038
 2 NOTE Age: 4
+2 NOTE Residence Post Office: New Bern
 1 RESI
 2 DATE 1880
 2 PLAC New Bern, Craven, North Carolina, USA
@@ -2335,7 +2336,7 @@
 1 _GUID be42a582-02e3-4b1a-bbf6-85a9987e7b7b
 0 @akkH4Wi1TkCjtZwtK4ww@ INDI
 1 REFN a92e9e1f-0e6a-4cdd-9212-e3cee4319240
-1 NAME Emma Ellen /Disosway/
+1 NAME Emma Eugenia /Disosway/
 2 SOUR @Wnf5hnofQkiOccuDzHC0@
 3 PAGE Year: 1860; Census Place: Perth Amboy, Middlesex, New Jersey
 4 CONC ; Roll: M653_699; Page: 27; Image: 26; Family History Librar
@@ -2367,8 +2368,6 @@
 3 PAGE Volume: 212; SAR Membership Number: 42330
 3 OBJE @qIkHprRVSXOgaG20aJmD@
 3 _APID 2204:515388
-1 NAME Emma Eugenia /Disosway/
-2 SOUR @hcjVXhxmQGWqASqV2gHt@
 1 SEX F
 1 FAMC @IpbpbU5rRAiNxfJoH6QB@
 1 FAMS @nO4aySgIQAmTsyu9I2Ji@
@@ -2622,6 +2621,7 @@
 3 OBJE @smzaEWVCQR6pTLSdGFrR@
 3 _APID 7163:22828039
 2 NOTE Age: 8
+2 NOTE Residence Post Office: New Bern
 1 RESI
 2 DATE 1880
 2 PLAC New Bern, Craven, North Carolina, USA
@@ -3137,11 +3137,6 @@
 4 CONC 627_2615; Page: 9B; Enumeration District: 24-2591
 3 OBJE @M203@
 3 _APID 2442:5014025
-2 SOUR @S186@
-3 PAGE Ancestry Family Tree
-3 DATA
-4 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=62861
-5 CONC &pid=13
 2 SOUR @S185@
 3 OBJE @M211@
 3 _APID 3030:16806
@@ -3297,8 +3292,6 @@
 4 CONC ton, D.C.; State Headquarters: New York
 3 OBJE @M209@
 3 _APID 1002:2875840
-2 SOUR @HpzOZCKqRi2EQXxSy2qR@
-3 QUAY 2
 2 NOTE Place is assumed from father's residence at the time.
 1 RESI
 2 DATE 26 JUL 1887
@@ -3548,8 +3541,11 @@
 3 MAP
 4 LATI N40.65
 4 LONG W73.95
-2 SOUR @HpzOZCKqRi2EQXxSy2qR@
-3 QUAY 3
+2 SOUR @S154@
+3 PAGE Registration State: New York; Registration County: Kings; Ro
+4 CONC ll: 1754590; Draft Board: 63
+3 OBJE @M208@
+3 _APID 6482:10578626
 1 EVEN
 2 TYPE draft registration
 2 DATE 05 JUN 1917
@@ -3557,8 +3553,11 @@
 3 MAP
 4 LATI N40.65
 4 LONG W73.95
-2 SOUR @HpzOZCKqRi2EQXxSy2qR@
-3 QUAY 3
+2 SOUR @S154@
+3 PAGE Registration State: New York; Registration County: Kings; Ro
+4 CONC ll: 1754590; Draft Board: 63
+3 OBJE @M208@
+3 _APID 6482:10578626
 1 RESI
 2 DATE 05 JUN 1917
 2 PLAC 892 Lafayette Avenue, Brooklyn, Kings, New York, USA
@@ -3566,16 +3565,22 @@
 3 PAGE 1917
 3 OBJE @M212@
 3 _APID 2469:1437659980
-2 SOUR @HpzOZCKqRi2EQXxSy2qR@
-3 QUAY 3
+2 SOUR @S154@
+3 PAGE Registration State: New York; Registration County: Kings; Ro
+4 CONC ll: 1754590; Draft Board: 63
+3 OBJE @M208@
+3 _APID 6482:10578626
 1 DSCR hair color: brown
 2 DATE 05 JUN 1917
 2 PLAC Brooklyn, Kings, New York, USA
 3 MAP
 4 LATI N40.65
 4 LONG W73.95
-2 SOUR @HpzOZCKqRi2EQXxSy2qR@
-3 QUAY 3
+2 SOUR @S154@
+3 PAGE Registration State: New York; Registration County: Kings; Ro
+4 CONC ll: 1754590; Draft Board: 63
+3 OBJE @M208@
+3 _APID 6482:10578626
 1 OCCU insurance broker
 2 DATE 1917
 2 PLAC 123 William Street, Manhattan, New York City, New York, USA
@@ -4531,6 +4536,7 @@
 3 OBJE @smzaEWVCQR6pTLSdGFrR@
 3 _APID 7163:19913284
 2 NOTE Age: 11
+2 NOTE Residence Post Office: New Bern
 1 EVEN
 2 TYPE Civil
 2 DATE ABT 1871
@@ -5318,8 +5324,11 @@
 1 RESI
 2 DATE 05 JUN 1917
 2 PLAC 892 Lafayette Avenue, Brooklyn, Kings, New York, USA
-2 SOUR @HpzOZCKqRi2EQXxSy2qR@
-3 QUAY 2
+2 SOUR @S154@
+3 PAGE Registration State: New York; Registration County: Kings; Ro
+4 CONC ll: 1754590; Draft Board: 63
+3 OBJE @M208@
+3 _APID 6482:10578626
 2 NOTE Assume he lived with his son.
 1 CENS
 2 DATE 01 JAN 1920
@@ -5931,6 +5940,11 @@
 0 @4pWXAjAYQne1SoMvRo4c@ INDI
 1 REFN 166aa90f-f7d6-4b17-a249-18ce27520023
 1 NAME Israel /Disosway/
+2 SOUR @KXTHkVUfSzyC3wV1mY6m@
+3 PAGE Year: 1840; Census Place: Newbern, Craven, North Carolina; R
+4 CONC oll: 358; Page: 57; Family History Library Film: 0018093
+3 OBJE @M236@
+3 _APID 8057:3301757
 2 SOUR @IInKWJzORPKM9mUwzsnZ@
 3 PAGE Year: 1850; Census Place: New Berne, Craven, North Carolina
 4 CONC ; Roll: M432_626; Page: 305B; Image: 173
@@ -6068,6 +6082,17 @@
 5 CONT [m20-29 Israel Disosway (c32)]<br />
 5 CONT employed in commerce
 2 NOTE Shown in index as "J. Disosway"
+1 RESI
+2 DATE 1840
+2 PLAC New Bern, Craven, North Carolina, USA
+3 MAP
+4 LATI N35.1085
+4 LONG W77.0441
+2 SOUR @KXTHkVUfSzyC3wV1mY6m@
+3 PAGE Year: 1840; Census Place: Newbern, Craven, North Carolina; R
+4 CONC oll: 358; Page: 57; Family History Library Film: 0018093
+3 OBJE @M236@
+3 _APID 8057:3301757
 1 CENS
 2 DATE 01 JUN 1850
 2 PLAC New Bern, Craven, North Carolina, USA
@@ -6169,6 +6194,7 @@
 3 OBJE @pZyYUdpWTp65S4pCyntO@
 3 _APID 7667:41153876
 2 NOTE Age: 44
+2 NOTE Residence Post Office: New Bern
 1 CENS
 2 DATE 01 JUN 1870
 2 PLAC New Bern, Craven, North Carolina, USA
@@ -6190,6 +6216,7 @@
 3 OBJE @smzaEWVCQR6pTLSdGFrR@
 3 _APID 7163:19913285
 2 NOTE Age: 54
+2 NOTE Residence Post Office: New Bern
 1 RESI
 2 DATE 19 SEP 1871
 2 PLAC East Front Street, New Bern, Craven, North Carolina, USA
@@ -6876,6 +6903,7 @@
 3 OBJE @smzaEWVCQR6pTLSdGFrR@
 3 _APID 7163:35102588
 2 NOTE Age: 2
+2 NOTE Residence Post Office: New Bern
 1 RESI
 2 DATE 1880
 2 PLAC New Bern, Craven, North Carolina, USA
@@ -8928,6 +8956,7 @@
 3 OBJE @smzaEWVCQR6pTLSdGFrR@
 3 _APID 7163:22828040
 2 NOTE Age: 12
+2 NOTE Residence Post Office: New Bern
 1 EVEN
 2 TYPE Civil
 2 DATE ABT 1871
@@ -9486,6 +9515,7 @@
 3 OBJE @smzaEWVCQR6pTLSdGFrR@
 3 _APID 7163:19913286
 2 NOTE Age: 20
+2 NOTE Residence Post Office: New Bern
 1 DEAT
 2 DATE BEF 01 JAN 1938
 2 NOTE wife "Hariet Elinor Dissosway" death certificate has her a
@@ -14983,18 +15013,37 @@
 0 @jm525Zf8R0qIT1ajStwq@ INDI
 1 REFN ab27d425-73da-4ecc-ac5a-dafafd752dde
 1 NAME William F. /Teed/
-2 SOUR @sZoR7SNqSeawwoJZ5KX5@
-3 QUAY 1
+2 SOUR @IInKWJzORPKM9mUwzsnZ@
+3 PAGE Year: 1850; Census Place: Somers, Westchester, New York; Rol
+4 CONC l: 614; Page: 296B
+3 OBJE @M235@
+3 _APID 8054:8838351
 1 SEX M
 1 FAMC @HJ7LmxekSCeiHM2WPbwT@
 1 BIRT
-2 DATE 1791
+2 DATE ABT 1790
 2 PLAC Somers, Westchester, New York, USA
 3 MAP
 4 LATI N41.3281
 4 LONG W73.6861
+2 SOUR @IInKWJzORPKM9mUwzsnZ@
+3 PAGE Year: 1850; Census Place: Somers, Westchester, New York; Rol
+4 CONC l: 614; Page: 296B
+3 OBJE @M235@
+3 _APID 8054:8838351
 2 SOUR @oyij8W8JTpeesDhCeXbv@
 3 QUAY 1
+1 RESI
+2 DATE 1850
+2 PLAC Somers, Westchester, New York, USA
+3 MAP
+4 LATI N41.3281
+4 LONG W73.6861
+2 SOUR @IInKWJzORPKM9mUwzsnZ@
+3 PAGE Year: 1850; Census Place: Somers, Westchester, New York; Rol
+4 CONC l: 614; Page: 296B
+3 OBJE @M235@
+3 _APID 8054:8838351
 1 DEAT
 2 DATE 03 JUN 1870
 2 SOUR @oyij8W8JTpeesDhCeXbv@
@@ -15201,8 +15250,6 @@
 3 MAP
 4 LATI N52.27
 4 LONG E6.192
-2 SOUR @T3V2PTb4Q22OkAQc2E67@
-3 QUAY 1
 2 SOUR @T3V2PTb4Q22OkAQc2E67@
 3 PAGE p. 229
 1 BAPM
@@ -17160,11 +17207,6 @@
 1 TITL Ancestral File
 1 AUTH LDS
 1 PUBL http://www.familysearch.org/
-0 @S186@ SOUR
-1 REPO @t1Wm6WiqTK6oX61EAKx1@
-1 TITL Ancestry Family Trees
-1 PUBL Online publication - Provo, UT, USA: Ancestry.com.  Origina
-2 CONC l data:  Family Tree files submitted by Ancestry members.
 0 @xWgrwMT3TIq8H9C6AaHO@ SOUR
 1 TITL Ancestry World Tree
 1 AUTH Ancestry.com
@@ -17285,10 +17327,6 @@
 1 TITL E-mail to Chris Mosher, Disosway Genealogy
 1 AUTH Rapp, Linda
 1 PUBL 31 Mar 2001, Shelton, CT
-0 @hcjVXhxmQGWqASqV2gHt@ SOUR
-1 TITL Email from Stephen Sanford to Chris Mosher
-1 AUTH Sanford, Stephen
-1 PUBL 2006-10-31.
 0 @0zvdsl77TZ2L5t0dEAlY@ SOUR
 1 REPO @t1Wm6WiqTK6oX61EAKx1@
 1 TITL Family Data Collection - Births
@@ -17314,10 +17352,6 @@
 1 TITL Genealogy of J. Butler
 1 AUTH Butler, J.
 1 PUBL http://www.uh.edu/~jbutler/gean/afamilies/PERSONS.html
-0 @sZoR7SNqSeawwoJZ5KX5@ SOUR
-1 TITL GenForum Post: Re: Teeds,Westchester County,NY
-1 AUTH Fish, Rick
-1 PUBL www.genforum.com Teed Family Genealogy Forum, 9 Mar 1999
 0 @VHjvLE2zQBW9sJgDIyRj@ SOUR
 1 TITL GenForum Post: Teeds of Westchester, NY
 1 AUTH McManus, Pater
@@ -18204,11 +18238,6 @@
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2012
 1 _APID 70050
-0 @HpzOZCKqRi2EQXxSy2qR@ SOUR
-1 TITL World War I Selective Service System Draft Registration Card
-2 CONC s, 1917-18 [database online]
-1 AUTH Ancestry.com
-1 PUBL Provo, UT: Ancestry.com, 2002
 0 @YVkJ57SQSredA03RWXVU@ OBJE
 1 _GUID 3411a420-f9a2-430d-b9dd-b9d02945c0b9
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Disosway Media\
@@ -19933,4 +19962,20 @@
 2 FORM jpg
 2 TITL dusausoy_marc_1655-06-17_witness_typescript
 2 _DATE 6/14/2020 5:31:33 PM
+0 @M235@ OBJE
+1 _GUID 9097ad59-c18b-400c-945f-8e18cc237d55
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Disosway Media\
+2 CONC 1850 United States Federal Census(1).jpg
+2 FORM jpg
+2 TITL 1850 United States Federal Census
+2 _TEXT Year: 1850; Census Place: Somers, Westchester, New York; Rol
+3 CONC l: 614; Page: 296B
+0 @M236@ OBJE
+1 _GUID 1b95d89b-6854-4124-a116-eeb8450a5e80
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Disosway Media\
+2 CONC 1840 United States Federal Census.jpg
+2 FORM jpg
+2 TITL 1840 United States Federal Census
+2 _TEXT Year: 1840; Census Place: Newbern, Craven, North Carolina; R
+3 CONC oll: 358; Page: 57; Family History Library Film: 0018093
 0 TRLR
