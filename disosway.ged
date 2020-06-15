@@ -14,9 +14,9 @@
 4 CONT Boston, MA 02109
 3 PHON (617) 227-6681
 1 DEST FTM
-1 FILE Disosway_2020-06-14-22-15-25.ftm.ged
-1 DATE 14 JUN 2020
-2 TIME 22:12:41
+1 FILE Disosway_2020-06-15-03-18-31.ftm.ged
+1 DATE 15 JUN 2020
+2 TIME 03:15:50
 0 @Umy2qBWIRUiwVSS6Hcn4@ SUBM
 1 NAME Christopher Alan Mosher
 2 EMAIL cmosher01@@gmail.com
@@ -647,7 +647,7 @@
 1 SEX F
 1 FAMS @ThcbIexKRqKmFhWq25nZ@
 1 BIRT
-2 DATE BET 1756 AND 1774
+2 DATE ABT 1770
 2 SOUR @7vZvyhtyRZaLFmdO55PS@
 3 QUAY 1
 3 DATA
@@ -1017,6 +1017,14 @@
 1 BIRT
 2 DATE ABT 1626
 2 SOUR @hpjMLgmJTOiRswjAwKqF@
+3 DATA
+4 TEXT Dusway, Mark 80
+5 CONT ", Mark, Jr.
+5 CONT Dusway, Mary
+5 CONT ", Dyan
+5 CONT ", Sarah
+5 CONT ", Susana
+5 CONT ", Elizabeth
 1 RESI
 2 DATE ABT 1643
 2 PLAC Picardie, France
@@ -1223,6 +1231,14 @@
 4 LONG W73.95
 2 SOUR @hpjMLgmJTOiRswjAwKqF@
 3 QUAY 1
+3 DATA
+4 TEXT Dusway, Mark 80
+5 CONT ", Mark, Jr.
+5 CONT Dusway, Mary
+5 CONT ", Dyan
+5 CONT ", Sarah
+5 CONT ", Susana
+5 CONT ", Elizabeth
 1 EVEN
 2 TYPE court
 2 DATE 31 MAY 1655
@@ -1279,6 +1295,14 @@
 2 PLAC Netherlands
 2 SOUR @hpjMLgmJTOiRswjAwKqF@
 3 QUAY 1
+3 DATA
+4 TEXT Dusway, Mark 80
+5 CONT ", Mark, Jr.
+5 CONT Dusway, Mary
+5 CONT ", Dyan
+5 CONT ", Sarah
+5 CONT ", Susana
+5 CONT ", Elizabeth
 1 EVEN
 2 TYPE Departure
 2 DATE 02 APR 1657
@@ -1387,13 +1411,21 @@
 3 PAGE Place: New York, New York; Year: 1657; Page Number: 5
 3 _APID 7486:2269626
 1 RESI
-2 DATE FROM AUG 1657 TO 1660
+2 DATE AUG 1657
 2 PLAC Long Island City, Queens, New York, USA
 3 MAP
 4 LATI N40.7447
 4 LONG W73.9492
 2 SOUR @hpjMLgmJTOiRswjAwKqF@
 3 QUAY 1
+3 DATA
+4 TEXT Dusway, Mark 80
+5 CONT ", Mark, Jr.
+5 CONT Dusway, Mary
+5 CONT ", Dyan
+5 CONT ", Sarah
+5 CONT ", Susana
+5 CONT ", Elizabeth
 2 NOTE Leased the mill of Buger Joris on Dutch Kills, near present-
 3 CONC day Skillman Ave. viaduct/railroad yard.
 3 CONT Ending date is approx.
@@ -1410,27 +1442,51 @@
 5 CONC . III, p. 70.]
 1 EVEN
 2 TYPE member
-2 DATE FROM 1660 TO 10 APR 1661
+2 DATE 1660
 2 PLAC New Amsterdam Reformed Dutch Church, New York, New York, USA
 2 SOUR @hpjMLgmJTOiRswjAwKqF@
 3 QUAY 1
+3 DATA
+4 TEXT Dusway, Mark 80
+5 CONT ", Mark, Jr.
+5 CONT Dusway, Mary
+5 CONT ", Dyan
+5 CONT ", Sarah
+5 CONT ", Susana
+5 CONT ", Elizabeth
 2 NOTE from before 1660
 1 RESI
-2 DATE FROM 1660 TO 1662
+2 DATE 1660
 2 PLAC Brooklyn, Kings, New York, USA
 3 MAP
 4 LATI N40.65
 4 LONG W73.95
 2 SOUR @hpjMLgmJTOiRswjAwKqF@
 3 QUAY 1
+3 DATA
+4 TEXT Dusway, Mark 80
+5 CONT ", Mark, Jr.
+5 CONT Dusway, Mary
+5 CONT ", Dyan
+5 CONT ", Sarah
+5 CONT ", Susana
+5 CONT ", Elizabeth
 2 NOTE Farm.
 3 CONT Dates approx.
 1 EVEN
 2 TYPE member
-2 DATE FROM 10 APR 1661 TO 07 JUN 1683
+2 DATE 10 APR 1661
 2 PLAC Reformed Dutch First Church, Brooklyn, New York, USA
 2 SOUR @hpjMLgmJTOiRswjAwKqF@
 3 QUAY 1
+3 DATA
+4 TEXT Dusway, Mark 80
+5 CONT ", Mark, Jr.
+5 CONT Dusway, Mary
+5 CONT ", Dyan
+5 CONT ", Sarah
+5 CONT ", Susana
+5 CONT ", Elizabeth
 1 RESI
 2 DATE 21 MAR 1662
 2 PLAC Maspeth, Queens, New York, USA
@@ -1439,33 +1495,63 @@
 4 LONG W73.913
 2 SOUR @hpjMLgmJTOiRswjAwKqF@
 3 QUAY 1
+3 DATA
+4 TEXT Dusway, Mark 80
+5 CONT ", Mark, Jr.
+5 CONT Dusway, Mary
+5 CONT ", Dyan
+5 CONT ", Sarah
+5 CONT ", Susana
+5 CONT ", Elizabeth
 2 NOTE "1661" is probably 1661/2
 1 RESI
-2 DATE FROM 1665 TO 1666
+2 DATE ABT 1665
 2 PLAC Harlem, Bronx, New York, USA
 2 SOUR @hpjMLgmJTOiRswjAwKqF@
 3 QUAY 1
-2 NOTE dates approx.
+3 DATA
+4 TEXT Dusway, Mark 80
+5 CONT ", Mark, Jr.
+5 CONT Dusway, Mary
+5 CONT ", Dyan
+5 CONT ", Sarah
+5 CONT ", Susana
+5 CONT ", Elizabeth
 1 RESI
-2 DATE FROM 05 DEC 1669 TO 05 DEC 1674
+2 DATE 05 DEC 1669
 2 PLAC Fordham, Bronx, New York, USA
 2 SOUR @hpjMLgmJTOiRswjAwKqF@
 3 DATA
 4 TEXT [Transcribed from Harlem Court Records, Riker Translation, v
 5 CONC . 2, p. 83.]
 1 RESI
-2 DATE FROM 1681
+2 DATE 1681
 2 PLAC Staten Island, Richmond, New York, USA
 3 MAP
 4 LATI N40.5834
 4 LONG W74.1496
 2 SOUR @hpjMLgmJTOiRswjAwKqF@
 3 QUAY 1
-2 NOTE from before 1681
+3 DATA
+4 TEXT Dusway, Mark 80
+5 CONT ", Mark, Jr.
+5 CONT Dusway, Mary
+5 CONT ", Dyan
+5 CONT ", Sarah
+5 CONT ", Susana
+5 CONT ", Elizabeth
 1 EVEN
 2 TYPE member
-2 DATE FROM 07 JUN 1683
+2 DATE 07 JUN 1683
 2 SOUR @hpjMLgmJTOiRswjAwKqF@
+3 DATA
+4 TEXT Dusway, Mark 80
+5 CONT ", Mark, Jr.
+5 CONT Dusway, Mary
+5 CONT ", Dyan
+5 CONT ", Sarah
+5 CONT ", Susana
+5 CONT ", Elizabeth
 2 NOTE French Church
 1 PROP received land patent from James II (via Thomas Dongan)
 2 DATE 16 JUL 1685
@@ -1514,13 +1600,14 @@
 4 LATI N40.5834
 4 LONG W74.1496
 2 SOUR @hpjMLgmJTOiRswjAwKqF@
-2 NOTE Dusway, Mark 80
-3 CONT ", Mark, Jr.
-3 CONT Dusway, Mary
-3 CONT ", Dyan
-3 CONT ", Sarah
-3 CONT ", Susana
-3 CONT ", Elizabeth
+3 DATA
+4 TEXT Dusway, Mark 80
+5 CONT ", Mark, Jr.
+5 CONT Dusway, Mary
+5 CONT ", Dyan
+5 CONT ", Sarah
+5 CONT ", Susana
+5 CONT ", Elizabeth
 1 FSID LZPD-9S2
 1 _GUID cb83b45a-0d7f-470a-8baa-7e670544d02d
 1 _XY 141105 1291
@@ -1750,6 +1837,14 @@
 3 CONC , Staten Island, Richmond, New York, USA
 2 SOUR @hpjMLgmJTOiRswjAwKqF@
 3 QUAY 1
+3 DATA
+4 TEXT Dusway, Mark 80
+5 CONT ", Mark, Jr.
+5 CONT Dusway, Mary
+5 CONT ", Dyan
+5 CONT ", Sarah
+5 CONT ", Susana
+5 CONT ", Elizabeth
 1 BIRT
 2 DATE ABT JUN 1722
 1 _GUID 82a6bfd7-b63c-4b6d-93e1-8d903a54b45e
@@ -1969,6 +2064,14 @@
 3 _APID 6742:4324677
 2 SOUR @hpjMLgmJTOiRswjAwKqF@
 3 QUAY 1
+3 DATA
+4 TEXT Dusway, Mark 80
+5 CONT ", Mark, Jr.
+5 CONT Dusway, Mary
+5 CONT ", Dyan
+5 CONT ", Sarah
+5 CONT ", Susana
+5 CONT ", Elizabeth
 2 SOUR @lDuG27hSTACWHq7z54Ba@
 3 _APID 60525:93231260
 2 SOUR @9AUWldr6TOqBHTT0KpU7@
@@ -2001,6 +2104,14 @@
 3 _APID 6742:4324677
 2 SOUR @hpjMLgmJTOiRswjAwKqF@
 3 QUAY 1
+3 DATA
+4 TEXT Dusway, Mark 80
+5 CONT ", Mark, Jr.
+5 CONT Dusway, Mary
+5 CONT ", Dyan
+5 CONT ", Sarah
+5 CONT ", Susana
+5 CONT ", Elizabeth
 2 SOUR @lDuG27hSTACWHq7z54Ba@
 3 _APID 60525:93231260
 1 RESI
@@ -2049,6 +2160,14 @@
 4 LONG W73.6438
 2 SOUR @hpjMLgmJTOiRswjAwKqF@
 3 QUAY 1
+3 DATA
+4 TEXT Dusway, Mark 80
+5 CONT ", Mark, Jr.
+5 CONT Dusway, Mary
+5 CONT ", Dyan
+5 CONT ", Sarah
+5 CONT ", Susana
+5 CONT ", Elizabeth
 2 SOUR @lDuG27hSTACWHq7z54Ba@
 3 _APID 60525:93231260
 2 SOUR @9AUWldr6TOqBHTT0KpU7@
@@ -2139,7 +2258,7 @@
 5 CONC /td><td>&nbsp;</td></tr>
 5 CONT </table>
 1 SEX M
-1 FAMC @jyCZPToSQBOp98OgIwfM@
+1 FAMC @F12@
 1 FAMS @F167@
 1 BIRT
 2 DATE NOV 1866
@@ -2252,15 +2371,39 @@
 1 NAME Cornelius /Disosway/
 2 SOUR @hpjMLgmJTOiRswjAwKqF@
 3 QUAY 1
+3 DATA
+4 TEXT Dusway, Mark 80
+5 CONT ", Mark, Jr.
+5 CONT Dusway, Mary
+5 CONT ", Dyan
+5 CONT ", Sarah
+5 CONT ", Susana
+5 CONT ", Elizabeth
 1 SEX M
 1 FAMC @Z67hCPz6TGKiau2H0P7m@
 1 BIRT
 2 DATE 1731
 2 SOUR @hpjMLgmJTOiRswjAwKqF@
 3 QUAY 1
+3 DATA
+4 TEXT Dusway, Mark 80
+5 CONT ", Mark, Jr.
+5 CONT Dusway, Mary
+5 CONT ", Dyan
+5 CONT ", Sarah
+5 CONT ", Susana
+5 CONT ", Elizabeth
 1 DEAT
 2 DATE 18 DEC 1785
 2 SOUR @hpjMLgmJTOiRswjAwKqF@
+3 DATA
+4 TEXT Dusway, Mark 80
+5 CONT ", Mark, Jr.
+5 CONT Dusway, Mary
+5 CONT ", Dyan
+5 CONT ", Sarah
+5 CONT ", Susana
+5 CONT ", Elizabeth
 2 NOTE [also has 19 Dec]
 1 _GUID 2a220f2d-b7c2-42ac-b9ee-2b85fb3391a5
 1 _XY 141709 1592
@@ -2269,6 +2412,14 @@
 1 NAME Dianah /Disosway/
 2 SOUR @hpjMLgmJTOiRswjAwKqF@
 3 QUAY 1
+3 DATA
+4 TEXT Dusway, Mark 80
+5 CONT ", Mark, Jr.
+5 CONT Dusway, Mary
+5 CONT ", Dyan
+5 CONT ", Sarah
+5 CONT ", Susana
+5 CONT ", Elizabeth
 1 SEX F
 1 FAMC @NeDJdHgVT5eYCiltuDJK@
 1 BIRT
@@ -2285,6 +2436,14 @@
 1 NAME Elizabeth /Disosway/
 2 SOUR @hpjMLgmJTOiRswjAwKqF@
 3 QUAY 1
+3 DATA
+4 TEXT Dusway, Mark 80
+5 CONT ", Mark, Jr.
+5 CONT Dusway, Mary
+5 CONT ", Dyan
+5 CONT ", Sarah
+5 CONT ", Susana
+5 CONT ", Elizabeth
 1 SEX F
 1 FAMC @NeDJdHgVT5eYCiltuDJK@
 1 BIRT
@@ -2567,7 +2726,7 @@
 2 SOUR @66FLWeWiQUGE4LioOMuq@
 3 _APID 70634:907872
 1 SEX F
-1 FAMC @jyCZPToSQBOp98OgIwfM@
+1 FAMC @F12@
 1 BIRT
 2 DATE 16 NOV 1862
 2 PLAC New Bern, Craven, North Carolina, USA
@@ -3010,6 +3169,14 @@
 1 NAME Gabriel /Disosway/
 2 SOUR @hpjMLgmJTOiRswjAwKqF@
 3 QUAY 1
+3 DATA
+4 TEXT Dusway, Mark 80
+5 CONT ", Mark, Jr.
+5 CONT Dusway, Mary
+5 CONT ", Dyan
+5 CONT ", Sarah
+5 CONT ", Susana
+5 CONT ", Elizabeth
 1 SEX M
 1 FAMC @NeDJdHgVT5eYCiltuDJK@
 1 BIRT
@@ -3020,6 +3187,14 @@
 3 CONC , Staten Island, Richmond, New York, USA
 2 SOUR @hpjMLgmJTOiRswjAwKqF@
 3 QUAY 1
+3 DATA
+4 TEXT Dusway, Mark 80
+5 CONT ", Mark, Jr.
+5 CONT Dusway, Mary
+5 CONT ", Dyan
+5 CONT ", Sarah
+5 CONT ", Susana
+5 CONT ", Elizabeth
 2 NOTE IGI has 20 Apr 1703
 1 _GUID 1293c4de-43e2-4baa-a3c1-b6c250d63239
 1 _XY 141611 1488
@@ -3028,6 +3203,14 @@
 1 NAME Gabriel /Disosway/
 2 SOUR @hpjMLgmJTOiRswjAwKqF@
 3 QUAY 1
+3 DATA
+4 TEXT Dusway, Mark 80
+5 CONT ", Mark, Jr.
+5 CONT Dusway, Mary
+5 CONT ", Dyan
+5 CONT ", Sarah
+5 CONT ", Susana
+5 CONT ", Elizabeth
 1 SEX M
 1 FAMC @Z67hCPz6TGKiau2H0P7m@
 1 BIRT
@@ -3144,6 +3327,15 @@
 3 _APID 9089:892626
 2 SOUR @S188@
 3 _APID 61461:230019
+2 SOUR @S218@
+3 PAGE New York City Department of Records & Information Services
+4 CONC ; New York City, New York; New York City Birth Certificates
+4 CONC ; Borough: Brooklyn; Year: 1887
+3 _APID 61779:820138
+2 SOUR @S217@
+3 PAGE New York City Department of Records & Information Services
+4 CONC ; New York City, New York; New York City Death Certificates
+3 _APID 61778:92132843
 2 SOUR @Dut2uBTNRuK1Lv2laWIn@
 3 _APID 9105:4212119
 2 SOUR @S176@
@@ -3163,6 +3355,40 @@
 2 SOUR @RnHpwQCwRlGqTPkQrHzm@
 3 OBJE @M71@
 3 _APID 3212:2819830
+2 SOUR @S216@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1905; Election District: A.D. 16 E.D. 01
+4 CONC ; City: Brooklyn; County: Kings
+3 DATA
+4 TEXT <table border="1">
+5 CONT <thead>
+5 CONT <tr><th>Street.</th><th>House Number</th><th colspan="2">NAM
+5 CONC E</th><th>RELATION.</th><th>Color.</th><th>Sex.</th><th>Age<
+5 CONC /th><th>NATIVITY.</th><th>Years in US</th><th>Citizen or ali
+5 CONC en.</th><th>Occupation.</th><th>Class</th></tr>
+5 CONT </thead>
+5 CONT <tbody>
+5 CONT <tr><td rowspan="5">Lafayette Avenue</td><td>1012</td><td>Fl
+5 CONC andrau</td><td>Elijah P</td><td>head</td><td>W</td><td>M</td
+5 CONC ><td>76</td><td>US</td><td>&nbsp;</td><td>Cit</td><td>X <str
+5 CONC ike>Druggist</strike></td><td>X <strike>OA</strike></td></tr
+5 CONC >
+5 CONT <tr><td>&nbsp;</td><td>Disosway</td><td>Harry H</td><td>head
+5 CONC </td><td>W</td><td>M</td><td>39</td><td>US</td><td>&nbsp;</t
+5 CONC d><td>Cit</td><td>Druggist</td><td>Emp</td></tr>
+5 CONT <tr><td>&nbsp;</td><td>&mdash;</td><td>Lola P</td><td>wife</
+5 CONC td><td>W</td><td>F</td><td>39</td><td>US</td><td>&nbsp;</td>
+5 CONC <td>Cit</td><td>Housework</td><td>X</td></tr>
+5 CONT <tr><td>&nbsp;</td><td>&mdash;</td><td>Harry F</td><td>son</
+5 CONC td><td>W</td><td>M</td><td>18</td><td>US</td><td>&nbsp;</td>
+5 CONC <td>Cit</td><td>At School [district] 8</td><td>X</td></tr>
+5 CONT <tr><td>&nbsp;</td><td>Johnson</td><td>Eliza</td><td>servant
+5 CONC </td><td>W</td><td>F</td><td>50</td><td>US</td><td>&nbsp;</t
+5 CONC d><td>Cit</td><td>Servant</td><td>W</td></tr>
+5 CONT </tbody>
+5 CONT </table>
+3 OBJE @M237@
+3 _APID 7364:4941204
 2 SOUR @KWFzo27VQ6mUgbiGZxfT@
 3 PAGE New York State Archives; Albany, New York; State Populatio
 4 CONC n Census Schedules, 1915; Election District: 24; Assembly Di
@@ -3183,6 +3409,13 @@
 4 CONC 7bf08f7c9&focus=0.16056712,0.44682097,0.2714292,0.48771977&x
 4 CONC id=2378
 3 _APID 61843:10641001
+2 SOUR @S200@
+3 PAGE Brooklyn Daily Eagle; Publication Date: 9 Aug 1934; Publicat
+4 CONC ion Place: Brooklyn, New York, United States of America; URL
+4 CONC : https://www.newspapers.com/image/59866987/?article=b82de65
+4 CONC 2-b804-480c-b806-587036d44811&focus=0.12561645,0.5151252,0.2
+4 CONC 4541673,0.5974792&xid=2378
+3 _APID 61843:70035694
 2 SOUR @S144@
 3 PAGE 1917
 3 OBJE @M212@
@@ -3260,6 +3493,11 @@
 3 _APID 9089:892626
 2 SOUR @S188@
 3 _APID 61461:230019
+2 SOUR @S218@
+3 PAGE New York City Department of Records & Information Services
+4 CONC ; New York City, New York; New York City Birth Certificates
+4 CONC ; Borough: Brooklyn; Year: 1887
+3 _APID 61779:820138
 2 SOUR @S155@
 3 PAGE Year: 1935
 3 OBJE @M210@
@@ -3267,6 +3505,40 @@
 2 SOUR @RnHpwQCwRlGqTPkQrHzm@
 3 OBJE @M71@
 3 _APID 3212:2819830
+2 SOUR @S216@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1905; Election District: A.D. 16 E.D. 01
+4 CONC ; City: Brooklyn; County: Kings
+3 DATA
+4 TEXT <table border="1">
+5 CONT <thead>
+5 CONT <tr><th>Street.</th><th>House Number</th><th colspan="2">NAM
+5 CONC E</th><th>RELATION.</th><th>Color.</th><th>Sex.</th><th>Age<
+5 CONC /th><th>NATIVITY.</th><th>Years in US</th><th>Citizen or ali
+5 CONC en.</th><th>Occupation.</th><th>Class</th></tr>
+5 CONT </thead>
+5 CONT <tbody>
+5 CONT <tr><td rowspan="5">Lafayette Avenue</td><td>1012</td><td>Fl
+5 CONC andrau</td><td>Elijah P</td><td>head</td><td>W</td><td>M</td
+5 CONC ><td>76</td><td>US</td><td>&nbsp;</td><td>Cit</td><td>X <str
+5 CONC ike>Druggist</strike></td><td>X <strike>OA</strike></td></tr
+5 CONC >
+5 CONT <tr><td>&nbsp;</td><td>Disosway</td><td>Harry H</td><td>head
+5 CONC </td><td>W</td><td>M</td><td>39</td><td>US</td><td>&nbsp;</t
+5 CONC d><td>Cit</td><td>Druggist</td><td>Emp</td></tr>
+5 CONT <tr><td>&nbsp;</td><td>&mdash;</td><td>Lola P</td><td>wife</
+5 CONC td><td>W</td><td>F</td><td>39</td><td>US</td><td>&nbsp;</td>
+5 CONC <td>Cit</td><td>Housework</td><td>X</td></tr>
+5 CONT <tr><td>&nbsp;</td><td>&mdash;</td><td>Harry F</td><td>son</
+5 CONC td><td>W</td><td>M</td><td>18</td><td>US</td><td>&nbsp;</td>
+5 CONC <td>Cit</td><td>At School [district] 8</td><td>X</td></tr>
+5 CONT <tr><td>&nbsp;</td><td>Johnson</td><td>Eliza</td><td>servant
+5 CONC </td><td>W</td><td>F</td><td>50</td><td>US</td><td>&nbsp;</t
+5 CONC d><td>Cit</td><td>Servant</td><td>W</td></tr>
+5 CONT </tbody>
+5 CONT </table>
+3 OBJE @M237@
+3 _APID 7364:4941204
 2 SOUR @KWFzo27VQ6mUgbiGZxfT@
 3 PAGE New York State Archives; Albany, New York; State Populatio
 4 CONC n Census Schedules, 1915; Election District: 24; Assembly Di
@@ -3356,8 +3628,40 @@
 1 CENS
 2 DATE 01 JUN 1905
 2 PLAC 1012 Lafayette Avenue, Brooklyn, Kings, New York, USA
-2 SOUR @S191@
-3 QUAY 3
+1 EDUC
+2 DATE ABT 1905
+2 PLAC Commercial High School, 150 Albany Avenue, Brooklyn, Kings
+3 CONC , New York, USA
+2 SOUR @S193@
+3 QUAY 1
+3 DATA
+4 TEXT <h2>Miss Stella Pazmino to Be Wed to H. F. Disosway Jr.</h2>
+5 CONT <p>
+5 CONT Mr. and Mrs. Victor Pazmino of 2114 Glenwood Road announce t
+5 CONC he engagement of their daughter, Miss Stella Pazmino, to Har
+5 CONC ry F. Disosway Jr., son of Mr. and Mrs. Harry F. [sic] Disos
+5 CONC way of 622 Jefferson Ave.
+5 CONT </p>
+5 CONT <p>
+5 CONT Miss Pazmino is a graduate of Erasmus Hall High School and C
+5 CONC ooper Union Art School. Mr. Disosway received his educatio
+5 CONC n at Commercial High School.
+5 CONT </p>
+5 CONT <p>
+5 CONT No date has been set for the wedding.
+5 CONT </p>
+2 NOTE Date is just a guess (of graduating at age 18). I believe th
+3 CONC is is the right school. Built in 1903 as "Commercial High Sc
+3 CONC hool," later "Alexander Hamilton Vocational High School," la
+3 CONC ter "Paul Robeson High School for Business and Technology,
+3 CONC " later "Pathways in Technology Early College High School."
+1 RESI
+2 DATE 1905
+2 PLAC Brooklyn, New York City, New York, USA
+2 SOUR @S216@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1905; Election District: A.D. 16 E.D. 01
+4 CONC ; City: Brooklyn; County: Kings
 3 DATA
 4 TEXT <table border="1">
 5 CONT <thead>
@@ -3386,33 +3690,9 @@
 5 CONC d><td>Cit</td><td>Servant</td><td>W</td></tr>
 5 CONT </tbody>
 5 CONT </table>
-1 EDUC
-2 DATE ABT 1905
-2 PLAC Commercial High School, 150 Albany Avenue, Brooklyn, Kings
-3 CONC , New York, USA
-2 SOUR @S193@
-3 QUAY 1
-3 DATA
-4 TEXT <h2>Miss Stella Pazmino to Be Wed to H. F. Disosway Jr.</h2>
-5 CONT <p>
-5 CONT Mr. and Mrs. Victor Pazmino of 2114 Glenwood Road announce t
-5 CONC he engagement of their daughter, Miss Stella Pazmino, to Har
-5 CONC ry F. Disosway Jr., son of Mr. and Mrs. Harry F. [sic] Disos
-5 CONC way of 622 Jefferson Ave.
-5 CONT </p>
-5 CONT <p>
-5 CONT Miss Pazmino is a graduate of Erasmus Hall High School and C
-5 CONC ooper Union Art School. Mr. Disosway received his educatio
-5 CONC n at Commercial High School.
-5 CONT </p>
-5 CONT <p>
-5 CONT No date has been set for the wedding.
-5 CONT </p>
-2 NOTE Date is just a guess (of graduating at age 18). I believe th
-3 CONC is is the right school. Built in 1903 as "Commercial High Sc
-3 CONC hool," later "Alexander Hamilton Vocational High School," la
-3 CONC ter "Paul Robeson High School for Business and Technology,
-3 CONC " later "Pathways in Technology Early College High School."
+3 OBJE @M237@
+3 _APID 7364:4941204
+2 NOTE Relationship to Head: Son
 1 EDUC
 2 DATE ABT 1906
 2 PLAC New York University, New York, New York, USA
@@ -4200,6 +4480,15 @@
 3 _APID 50000:774992
 2 SOUR @DpKPjtDSTBqxPEO4KBsj@
 3 _APID 9131:3384116
+2 SOUR @S218@
+3 PAGE New York City Department of Records & Information Services
+4 CONC ; New York City, New York; New York City Birth Certificates
+3 _APID 61779:15820138
+2 SOUR @S217@
+3 PAGE New York City Department of Records & Information Services
+4 CONC ; New York City, New York; New York City Death Certificates
+4 CONC ; Borough: Brooklyn; Year: 1934
+3 _APID 61778:2132843
 2 SOUR @S169@
 3 PAGE New York City Municipal Archive; New York, New York, USA; 19
 4 CONC 24 NYC Voter List
@@ -4208,12 +4497,53 @@
 2 SOUR @RnHpwQCwRlGqTPkQrHzm@
 3 OBJE @M71@
 3 _APID 3212:2819828
+2 SOUR @S216@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1905; Election District: A.D. 16 E.D. 01
+4 CONC ; City: Brooklyn; County: Kings
+3 DATA
+4 TEXT <table border="1">
+5 CONT <thead>
+5 CONT <tr><th>Street.</th><th>House Number</th><th colspan="2">NAM
+5 CONC E</th><th>RELATION.</th><th>Color.</th><th>Sex.</th><th>Age<
+5 CONC /th><th>NATIVITY.</th><th>Years in US</th><th>Citizen or ali
+5 CONC en.</th><th>Occupation.</th><th>Class</th></tr>
+5 CONT </thead>
+5 CONT <tbody>
+5 CONT <tr><td rowspan="5">Lafayette Avenue</td><td>1012</td><td>Fl
+5 CONC andrau</td><td>Elijah P</td><td>head</td><td>W</td><td>M</td
+5 CONC ><td>76</td><td>US</td><td>&nbsp;</td><td>Cit</td><td>X <str
+5 CONC ike>Druggist</strike></td><td>X <strike>OA</strike></td></tr
+5 CONC >
+5 CONT <tr><td>&nbsp;</td><td>Disosway</td><td>Harry H</td><td>head
+5 CONC </td><td>W</td><td>M</td><td>39</td><td>US</td><td>&nbsp;</t
+5 CONC d><td>Cit</td><td>Druggist</td><td>Emp</td></tr>
+5 CONT <tr><td>&nbsp;</td><td>&mdash;</td><td>Lola P</td><td>wife</
+5 CONC td><td>W</td><td>F</td><td>39</td><td>US</td><td>&nbsp;</td>
+5 CONC <td>Cit</td><td>Housework</td><td>X</td></tr>
+5 CONT <tr><td>&nbsp;</td><td>&mdash;</td><td>Harry F</td><td>son</
+5 CONC td><td>W</td><td>M</td><td>18</td><td>US</td><td>&nbsp;</td>
+5 CONC <td>Cit</td><td>At School [district] 8</td><td>X</td></tr>
+5 CONT <tr><td>&nbsp;</td><td>Johnson</td><td>Eliza</td><td>servant
+5 CONC </td><td>W</td><td>F</td><td>50</td><td>US</td><td>&nbsp;</t
+5 CONC d><td>Cit</td><td>Servant</td><td>W</td></tr>
+5 CONT </tbody>
+5 CONT </table>
+3 OBJE @M237@
+3 _APID 7364:4017526
 2 SOUR @KWFzo27VQ6mUgbiGZxfT@
 3 PAGE New York State Archives; Albany, New York; State Populatio
 4 CONC n Census Schedules, 1915; Election District: 24; Assembly Di
 4 CONC strict: 17; City: New York; County: Kings; Page: 17
 3 OBJE @M72@
 3 _APID 2703:12829480
+2 SOUR @S200@
+3 PAGE Brooklyn Daily Eagle; Publication Date: 9 Aug 1934; Publicat
+4 CONC ion Place: Brooklyn, New York, United States of America; URL
+4 CONC : https://www.newspapers.com/image/59866987/?article=b82de65
+4 CONC 2-b804-480c-b806-587036d44811&focus=0.12561645,0.5151252,0.2
+4 CONC 4541673,0.5974792&xid=2378
+3 _APID 61843:517167637
 2 SOUR @S144@
 3 PAGE "Brooklyn, New York, City Directory, 1885," p. 319, image 37
 4 CONC 7
@@ -4307,7 +4637,7 @@
 2 SOUR @9AUWldr6TOqBHTT0KpU7@
 3 _APID 70572:840541
 1 SEX M
-1 FAMC @jyCZPToSQBOp98OgIwfM@
+1 FAMC @F12@
 1 FAMS @wgqzNudqQiahTIVJVBRt@
 1 OBJE @M221@
 1 BIRT
@@ -4359,15 +4689,65 @@
 3 _APID 6224:39833960
 2 SOUR @DpKPjtDSTBqxPEO4KBsj@
 3 _APID 9131:3384116
+2 SOUR @S218@
+3 PAGE New York City Department of Records & Information Services
+4 CONC ; New York City, New York; New York City Birth Certificates
+3 _APID 61779:15820138
+2 SOUR @S217@
+3 PAGE New York City Department of Records & Information Services
+4 CONC ; New York City, New York; New York City Death Certificates
+4 CONC ; Borough: Brooklyn; Year: 1934
+3 _APID 61778:2132843
 2 SOUR @RnHpwQCwRlGqTPkQrHzm@
 3 OBJE @M71@
 3 _APID 3212:2819828
+2 SOUR @S216@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1905; Election District: A.D. 16 E.D. 01
+4 CONC ; City: Brooklyn; County: Kings
+3 DATA
+4 TEXT <table border="1">
+5 CONT <thead>
+5 CONT <tr><th>Street.</th><th>House Number</th><th colspan="2">NAM
+5 CONC E</th><th>RELATION.</th><th>Color.</th><th>Sex.</th><th>Age<
+5 CONC /th><th>NATIVITY.</th><th>Years in US</th><th>Citizen or ali
+5 CONC en.</th><th>Occupation.</th><th>Class</th></tr>
+5 CONT </thead>
+5 CONT <tbody>
+5 CONT <tr><td rowspan="5">Lafayette Avenue</td><td>1012</td><td>Fl
+5 CONC andrau</td><td>Elijah P</td><td>head</td><td>W</td><td>M</td
+5 CONC ><td>76</td><td>US</td><td>&nbsp;</td><td>Cit</td><td>X <str
+5 CONC ike>Druggist</strike></td><td>X <strike>OA</strike></td></tr
+5 CONC >
+5 CONT <tr><td>&nbsp;</td><td>Disosway</td><td>Harry H</td><td>head
+5 CONC </td><td>W</td><td>M</td><td>39</td><td>US</td><td>&nbsp;</t
+5 CONC d><td>Cit</td><td>Druggist</td><td>Emp</td></tr>
+5 CONT <tr><td>&nbsp;</td><td>&mdash;</td><td>Lola P</td><td>wife</
+5 CONC td><td>W</td><td>F</td><td>39</td><td>US</td><td>&nbsp;</td>
+5 CONC <td>Cit</td><td>Housework</td><td>X</td></tr>
+5 CONT <tr><td>&nbsp;</td><td>&mdash;</td><td>Harry F</td><td>son</
+5 CONC td><td>W</td><td>M</td><td>18</td><td>US</td><td>&nbsp;</td>
+5 CONC <td>Cit</td><td>At School [district] 8</td><td>X</td></tr>
+5 CONT <tr><td>&nbsp;</td><td>Johnson</td><td>Eliza</td><td>servant
+5 CONC </td><td>W</td><td>F</td><td>50</td><td>US</td><td>&nbsp;</t
+5 CONC d><td>Cit</td><td>Servant</td><td>W</td></tr>
+5 CONT </tbody>
+5 CONT </table>
+3 OBJE @M237@
+3 _APID 7364:4017526
 2 SOUR @KWFzo27VQ6mUgbiGZxfT@
 3 PAGE New York State Archives; Albany, New York; State Populatio
 4 CONC n Census Schedules, 1915; Election District: 24; Assembly Di
 4 CONC strict: 17; City: New York; County: Kings; Page: 17
 3 OBJE @M72@
 3 _APID 2703:12829480
+2 SOUR @S200@
+3 PAGE Brooklyn Daily Eagle; Publication Date: 9 Aug 1934; Publicat
+4 CONC ion Place: Brooklyn, New York, United States of America; URL
+4 CONC : https://www.newspapers.com/image/59866987/?article=b82de65
+4 CONC 2-b804-480c-b806-587036d44811&focus=0.12561645,0.5151252,0.2
+4 CONC 4541673,0.5974792&xid=2378
+3 _APID 61843:517167637
 2 SOUR @lDuG27hSTACWHq7z54Ba@
 3 _APID 60525:2004346
 2 SOUR @yBY5Qh3dTFGJZDwrFS37@
@@ -4566,7 +4946,7 @@
 5 CONT Sisters, [blank]<br />
 5 CONT Signature, Hamilton Disosway
 1 OCCU writer
-2 DATE FROM SEP 1878
+2 DATE SEP 1878
 2 PLAC New Bern, Craven, North Carolina, USA
 3 MAP
 4 LATI N35.1085
@@ -4799,7 +5179,15 @@
 3 OBJE @Ixnd925ySjydhqVX08ki@
 3 _APID 2469:55164899
 1 RESI
-2 DATE FROM 1886 TO 1888
+2 DATE 1887
+2 PLAC 216 South 4th Street, Brooklyn, Kings, New York, USA
+2 SOUR @S144@
+3 PAGE "Brooklyn, New York, City Directory, 1887," p. 282, image 19
+4 CONC 4
+3 OBJE @GCsM7F6pRaqqTHysJ4ZZ@
+3 _APID 2469:1211463638
+1 RESI
+2 DATE 1888
 2 PLAC 216 South 4th Street, Brooklyn, Kings, New York, USA
 2 SOUR @ZQnGPkxZQQy04hQn1YTD@
 3 QUAY 2
@@ -4879,14 +5267,6 @@
 5 CONT <tr><td>1890</td><td>397</td><td>Flandreau, Elijah P. coope
 5 CONC r West NY h 272 S 5th</td></tr>
 5 CONT </table>
-1 RESI
-2 DATE 1887
-2 PLAC 216 South 4th Street, Brooklyn, Kings, New York, USA
-2 SOUR @S144@
-3 PAGE "Brooklyn, New York, City Directory, 1887," p. 282, image 19
-4 CONC 4
-3 OBJE @GCsM7F6pRaqqTHysJ4ZZ@
-3 _APID 2469:1211463638
 1 RESI
 2 DATE 1889
 2 PLAC 161 Havemeyer Street, Brooklyn, Kings, New York, USA
@@ -5042,7 +5422,7 @@
 3 OBJE @70apnbRERIGi9tjKJMln@
 3 _APID 2525:3239815
 1 TITL treasurer of Sterling wheelmen
-2 DATE FROM APR 1897 TO 1898
+2 DATE APR 1897
 2 PLAC 980 Lafayette Avenue, Brooklyn, Kings, New York, USA
 2 SOUR @r2RVv2tJTsqQHgTWEI3o@
 3 PAGE p. 9
@@ -5185,11 +5565,13 @@
 4 CONC 9
 3 OBJE @ghsOLqXTTiSrJJDvcWXv@
 3 _APID 2469:125935319
-1 CENS
+1 CENS Relationship to Head: Head
 2 DATE 01 JUN 1905
 2 PLAC 1012 Lafayette Avenue, Brooklyn, Kings, New York, USA
-2 SOUR @S83@
-3 QUAY 3
+2 SOUR @S216@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1905; Election District: A.D. 16 E.D. 01
+4 CONC ; City: Brooklyn; County: Kings
 3 DATA
 4 TEXT <table border="1">
 5 CONT <thead>
@@ -5218,12 +5600,8 @@
 5 CONC d><td>Cit</td><td>Servant</td><td>W</td></tr>
 5 CONT </tbody>
 5 CONT </table>
-1 RESI
-2 DATE 01 JUL 1905
-2 PLAC Brooklyn, Kings, New York, USA
-3 MAP
-4 LATI N40.65
-4 LONG W73.95
+3 OBJE @M237@
+3 _APID 7364:4017526
 2 SOUR @gGR3QIQFQGiGIAruDIXh@
 3 PAGE Department of Commerce and Labor, Bureau of the Census. Offi
 4 CONC cial Register of the United States, Containing a List of th
@@ -5732,6 +6110,18 @@
 5 CONT Permit Number (Undertaker's) 590<br />
 2 SOUR @DpKPjtDSTBqxPEO4KBsj@
 3 _APID 9131:3384116
+2 SOUR @S217@
+3 PAGE New York City Department of Records & Information Services
+4 CONC ; New York City, New York; New York City Death Certificates
+4 CONC ; Borough: Brooklyn; Year: 1934
+3 _APID 61778:2132843
+2 SOUR @S200@
+3 PAGE Brooklyn Daily Eagle; Publication Date: 9 Aug 1934; Publicat
+4 CONC ion Place: Brooklyn, New York, United States of America; URL
+4 CONC : https://www.newspapers.com/image/59866987/?article=b82de65
+4 CONC 2-b804-480c-b806-587036d44811&focus=0.12561645,0.5151252,0.2
+4 CONC 4541673,0.5974792&xid=2378
+3 _APID 61843:517167637
 2 SOUR @lDuG27hSTACWHq7z54Ba@
 3 _APID 60525:2004346
 2 SOUR @9AUWldr6TOqBHTT0KpU7@
@@ -5757,6 +6147,11 @@
 2 PLAC Crypt 78, Aisle JJ, Cypress Hills Abbey, Cypress Hills Cemet
 3 CONC ery, Queens, New York, USA
 2 SOUR @IsVD5KjvQLe8wpqrdqVr@
+2 SOUR @S217@
+3 PAGE New York City Department of Records & Information Services
+4 CONC ; New York City, New York; New York City Death Certificates
+4 CONC ; Borough: Brooklyn; Year: 1934
+3 _APID 61778:2132843
 2 SOUR @lDuG27hSTACWHq7z54Ba@
 3 _APID 60525:2004346
 2 SOUR @9AUWldr6TOqBHTT0KpU7@
@@ -5884,7 +6279,7 @@
 5 CONC s salt medow, Sunken Marsh, Jerseys<br />
 5 CONT wife: Kertry
 1 DEAT
-2 DATE ABT 04 OCT 1754
+2 DATE ABT 03 OCT 1754
 2 PLAC Staten Island, Richmond, New York, USA
 3 MAP
 4 LATI N40.5834
@@ -5921,6 +6316,14 @@
 1 NAME Israel /Disosway/
 2 SOUR @hpjMLgmJTOiRswjAwKqF@
 3 QUAY 1
+3 DATA
+4 TEXT Dusway, Mark 80
+5 CONT ", Mark, Jr.
+5 CONT Dusway, Mary
+5 CONT ", Dyan
+5 CONT ", Sarah
+5 CONT ", Susana
+5 CONT ", Elizabeth
 1 SEX M
 1 FAMC @Z67hCPz6TGKiau2H0P7m@
 1 BIRT
@@ -5935,6 +6338,14 @@
 2 DATE 1769
 2 SOUR @hpjMLgmJTOiRswjAwKqF@
 3 QUAY 1
+3 DATA
+4 TEXT Dusway, Mark 80
+5 CONT ", Mark, Jr.
+5 CONT Dusway, Mary
+5 CONT ", Dyan
+5 CONT ", Sarah
+5 CONT ", Susana
+5 CONT ", Elizabeth
 1 _GUID fc0ce8a9-3e30-4243-a989-db2a4479f878
 1 _XY 141463 1592
 0 @4pWXAjAYQne1SoMvRo4c@ INDI
@@ -5962,6 +6373,10 @@
 4 CONC ory Library Film: 552631
 3 OBJE @smzaEWVCQR6pTLSdGFrR@
 3 _APID 7163:19913285
+2 SOUR @S217@
+3 PAGE New York City Department of Records & Information Services
+4 CONC ; New York City, New York; New York City Death Certificates
+3 _APID 61778:62132843
 2 SOUR @S140@
 3 PAGE North Carolina State Archives; Raleigh, North Carolina; Nort
 4 CONC h Carolina Death Certificates; Emma Eugenia Disosway
@@ -6004,7 +6419,7 @@
 3 _APID 70634:3107192
 1 SEX M
 1 FAMC @IpbpbU5rRAiNxfJoH6QB@
-1 FAMS @jyCZPToSQBOp98OgIwfM@
+1 FAMS @F12@
 1 FAMS @Gya3FLotS12EE2y7A2PG@
 1 OBJE @UaA9aTKHT6uDyhsaqWl3@
 1 BIRT
@@ -6030,6 +6445,10 @@
 4 CONC ory Library Film: 552631
 3 OBJE @smzaEWVCQR6pTLSdGFrR@
 3 _APID 7163:19913285
+2 SOUR @S217@
+3 PAGE New York City Department of Records & Information Services
+4 CONC ; New York City, New York; New York City Death Certificates
+3 _APID 61778:62132843
 2 SOUR @lDuG27hSTACWHq7z54Ba@
 3 PAGE "Find a Grave," Disosway, Israel. Previous duplicate entry
 4 CONC , now merged.
@@ -6327,12 +6746,28 @@
 1 NAME Israel Poillon /Disosway/
 2 SOUR @hpjMLgmJTOiRswjAwKqF@
 3 QUAY 1
+3 DATA
+4 TEXT Dusway, Mark 80
+5 CONT ", Mark, Jr.
+5 CONT Dusway, Mary
+5 CONT ", Dyan
+5 CONT ", Sarah
+5 CONT ", Susana
+5 CONT ", Elizabeth
 1 SEX M
 1 FAMC @dCFJk1wFR1GPmafi9pJI@
 1 FAMS @F205@
 1 BIRT
 2 DATE 1765
 2 SOUR @hpjMLgmJTOiRswjAwKqF@
+3 DATA
+4 TEXT Dusway, Mark 80
+5 CONT ", Mark, Jr.
+5 CONT Dusway, Mary
+5 CONT ", Dyan
+5 CONT ", Sarah
+5 CONT ", Susana
+5 CONT ", Elizabeth
 1 EVEN
 2 TYPE built
 2 DATE 1809
@@ -6340,6 +6775,14 @@
 3 CONC ens, New York, USA
 2 SOUR @hpjMLgmJTOiRswjAwKqF@
 3 QUAY 1
+3 DATA
+4 TEXT Dusway, Mark 80
+5 CONT ", Mark, Jr.
+5 CONT Dusway, Mary
+5 CONT ", Dyan
+5 CONT ", Sarah
+5 CONT ", Susana
+5 CONT ", Elizabeth
 1 DEAT
 2 DATE 19 JUN 1813
 2 PLAC New York, New York, USA
@@ -6348,6 +6791,14 @@
 4 LONG W73.9721
 2 SOUR @hpjMLgmJTOiRswjAwKqF@
 3 QUAY 1
+3 DATA
+4 TEXT Dusway, Mark 80
+5 CONT ", Mark, Jr.
+5 CONT Dusway, Mary
+5 CONT ", Dyan
+5 CONT ", Sarah
+5 CONT ", Susana
+5 CONT ", Elizabeth
 2 NOTE Need to check original source: Commercial Advertiser, NY, 2
 3 CONC 2 Jun 1813.
 1 _GUID 3ab6fb9a-d93e-4e71-9f4b-947746b982ce
@@ -6680,6 +7131,14 @@
 1 REFN 516216b2-abfd-46ca-9aaf-7fa13fcf3648
 1 NAME Jannetie /Disosway/
 2 SOUR @hpjMLgmJTOiRswjAwKqF@
+3 DATA
+4 TEXT Dusway, Mark 80
+5 CONT ", Mark, Jr.
+5 CONT Dusway, Mary
+5 CONT ", Dyan
+5 CONT ", Sarah
+5 CONT ", Susana
+5 CONT ", Elizabeth
 1 SEX F
 1 FAMC @R1JOsWmCTbuI9MsdipEd@
 1 BIRT
@@ -6689,6 +7148,14 @@
 2 PLAC Reformed Dutch Church, Brooklyn, New York, USA
 2 SOUR @hpjMLgmJTOiRswjAwKqF@
 3 QUAY 1
+3 DATA
+4 TEXT Dusway, Mark 80
+5 CONT ", Mark, Jr.
+5 CONT Dusway, Mary
+5 CONT ", Dyan
+5 CONT ", Sarah
+5 CONT ", Susana
+5 CONT ", Elizabeth
 1 _GUID 711e161d-a7d0-4e7d-865c-63b7a56c10fc
 1 _XY 141260 1382
 0 @d66DvdanRbCH8xtPGsBV@ INDI
@@ -6708,6 +7175,14 @@
 1 REFN 3c8118a4-11a0-4d8f-892e-2d1bf3fe57d4
 1 NAME Jean /Disosway/
 2 SOUR @hpjMLgmJTOiRswjAwKqF@
+3 DATA
+4 TEXT Dusway, Mark 80
+5 CONT ", Mark, Jr.
+5 CONT Dusway, Mary
+5 CONT ", Dyan
+5 CONT ", Sarah
+5 CONT ", Susana
+5 CONT ", Elizabeth
 1 SEX M
 1 FAMC @R1JOsWmCTbuI9MsdipEd@
 1 BIRT
@@ -6717,12 +7192,28 @@
 2 PLAC Reformed Dutch Church, New York, New York, USA
 2 SOUR @hpjMLgmJTOiRswjAwKqF@
 3 QUAY 1
+3 DATA
+4 TEXT Dusway, Mark 80
+5 CONT ", Mark, Jr.
+5 CONT Dusway, Mary
+5 CONT ", Dyan
+5 CONT ", Sarah
+5 CONT ", Susana
+5 CONT ", Elizabeth
 1 _GUID 07d683c4-0976-40be-9faa-60ea1c26f232
 1 _XY 141394 1382
 0 @7Emr0MZHTh6GQHpMbhxt@ INDI
 1 REFN 24f42df3-cd61-4285-9960-6f08bcc65a14
 1 NAME Job /Disosway/
 2 SOUR @hpjMLgmJTOiRswjAwKqF@
+3 DATA
+4 TEXT Dusway, Mark 80
+5 CONT ", Mark, Jr.
+5 CONT Dusway, Mary
+5 CONT ", Dyan
+5 CONT ", Sarah
+5 CONT ", Susana
+5 CONT ", Elizabeth
 1 SEX M
 1 FAMC @NeDJdHgVT5eYCiltuDJK@
 1 BIRT
@@ -6829,7 +7320,7 @@
 2 SOUR @66FLWeWiQUGE4LioOMuq@
 3 _APID 70634:915924
 1 SEX M
-1 FAMC @jyCZPToSQBOp98OgIwfM@
+1 FAMC @F12@
 1 FAMS @D8xlYLEfRmGBNIIwnLig@
 1 OBJE @cT8ImPqRS1eQdEssD0gT@
 1 BIRT
@@ -7143,7 +7634,7 @@
 2 SOUR @lDuG27hSTACWHq7z54Ba@
 3 _APID 60525:66343596
 1 SEX M
-1 FAMC @jyCZPToSQBOp98OgIwfM@
+1 FAMC @F12@
 1 BIRT
 2 DATE ABT 1856
 2 PLAC North Carolina, USA
@@ -7228,6 +7719,14 @@
 1 NAME Judith S. /Disosway/
 2 SOUR @hpjMLgmJTOiRswjAwKqF@
 3 QUAY 1
+3 DATA
+4 TEXT Dusway, Mark 80
+5 CONT ", Mark, Jr.
+5 CONT Dusway, Mary
+5 CONT ", Dyan
+5 CONT ", Sarah
+5 CONT ", Susana
+5 CONT ", Elizabeth
 1 SEX F
 1 FAMC @dCFJk1wFR1GPmafi9pJI@
 1 BIRT
@@ -7520,9 +8019,6 @@
 3 _APID 3693:87079127
 2 SOUR @S179@
 3 _APID 70050:11763996
-1 EVEN
-2 TYPE changed name
-2 NOTE to Kenneth George /DeMay/
 1 _GUID 1751656e-027a-4770-99f2-f1012354d026
 1 _XY 3134 4696
 1 _PHOTO @M207@
@@ -7696,6 +8192,14 @@
 1 NAME Magdeleentie /Disosway/
 2 SOUR @hpjMLgmJTOiRswjAwKqF@
 3 QUAY 1
+3 DATA
+4 TEXT Dusway, Mark 80
+5 CONT ", Mark, Jr.
+5 CONT Dusway, Mary
+5 CONT ", Dyan
+5 CONT ", Sarah
+5 CONT ", Susana
+5 CONT ", Elizabeth
 1 SEX F
 1 FAMC @R1JOsWmCTbuI9MsdipEd@
 1 BIRT
@@ -7705,6 +8209,14 @@
 2 PLAC Reformed Dutch Church, New York, New York, USA
 2 SOUR @hpjMLgmJTOiRswjAwKqF@
 3 QUAY 1
+3 DATA
+4 TEXT Dusway, Mark 80
+5 CONT ", Mark, Jr.
+5 CONT Dusway, Mary
+5 CONT ", Dyan
+5 CONT ", Sarah
+5 CONT ", Susana
+5 CONT ", Elizabeth
 1 _GUID 797f2239-79f5-47b8-b2bd-1efb654edf70
 1 _XY 141102 1382
 0 @7VOmBsXaRTuZ5k3l420k@ INDI
@@ -7749,6 +8261,14 @@
 4 LONG W73.913
 2 SOUR @hpjMLgmJTOiRswjAwKqF@
 3 QUAY 1
+3 DATA
+4 TEXT Dusway, Mark 80
+5 CONT ", Mark, Jr.
+5 CONT Dusway, Mary
+5 CONT ", Dyan
+5 CONT ", Sarah
+5 CONT ", Susana
+5 CONT ", Elizabeth
 2 SOUR @Pntdey3hRciTPlSOGIjt@
 3 PAGE Birth year: 1659; Birth city: Staten Island; Birth state: NY
 3 _APID 4725:4694754
@@ -7765,6 +8285,14 @@
 2 PLAC Reformed Dutch Church, New York, New York, USA
 2 SOUR @hpjMLgmJTOiRswjAwKqF@
 3 QUAY 1
+3 DATA
+4 TEXT Dusway, Mark 80
+5 CONT ", Mark, Jr.
+5 CONT Dusway, Mary
+5 CONT ", Dyan
+5 CONT ", Sarah
+5 CONT ", Susana
+5 CONT ", Elizabeth
 2 SOUR @S210@
 3 PAGE Nationaal Archief Nieuw-Nederland; Den Haag, Nederland; DT
 4 CONC B Baptism
@@ -7772,10 +8300,18 @@
 2 NOTE [original record probably used Gregorian calendar]
 1 EVEN
 2 TYPE member
-2 DATE FROM 30 NOV 1676
+2 DATE 30 NOV 1676
 2 PLAC Reformed Dutch Church, New York, New York, USA
 2 SOUR @hpjMLgmJTOiRswjAwKqF@
 3 QUAY 1
+3 DATA
+4 TEXT Dusway, Mark 80
+5 CONT ", Mark, Jr.
+5 CONT Dusway, Mary
+5 CONT ", Dyan
+5 CONT ", Sarah
+5 CONT ", Susana
+5 CONT ", Elizabeth
 2 NOTE in New Amsterdam?
 1 EVEN
 2 TYPE named executor
@@ -8014,6 +8550,14 @@
 1 REFN aff8f949-70a1-4372-ba26-f8f24c28b193
 1 NAME Maria /Disosway/
 2 SOUR @hpjMLgmJTOiRswjAwKqF@
+3 DATA
+4 TEXT Dusway, Mark 80
+5 CONT ", Mark, Jr.
+5 CONT Dusway, Mary
+5 CONT ", Dyan
+5 CONT ", Sarah
+5 CONT ", Susana
+5 CONT ", Elizabeth
 1 SEX F
 1 FAMC @R1JOsWmCTbuI9MsdipEd@
 1 BAPM
@@ -8021,6 +8565,14 @@
 2 PLAC Reformed Dutch Church, New York, New York, USA
 2 SOUR @hpjMLgmJTOiRswjAwKqF@
 3 QUAY 1
+3 DATA
+4 TEXT Dusway, Mark 80
+5 CONT ", Mark, Jr.
+5 CONT Dusway, Mary
+5 CONT ", Dyan
+5 CONT ", Sarah
+5 CONT ", Susana
+5 CONT ", Elizabeth
 1 BIRT
 2 DATE ABT OCT 1669
 1 _GUID 69347fd1-b3ed-4203-a985-f0953b349595
@@ -8102,17 +8654,16 @@
 3 _APID 8054:8821741
 2 SOUR @hpjMLgmJTOiRswjAwKqF@
 3 QUAY 1
+3 DATA
+4 TEXT Dusway, Mark 80
+5 CONT ", Mark, Jr.
+5 CONT Dusway, Mary
+5 CONT ", Dyan
+5 CONT ", Sarah
+5 CONT ", Susana
+5 CONT ", Elizabeth
 2 SOUR @lDuG27hSTACWHq7z54Ba@
 3 _APID 60525:39557788
-1 RESI
-2 DATE FROM 1764 TO 1802
-2 PLAC Staten Island, Richmond, New York, USA
-3 MAP
-4 LATI N40.5834
-4 LONG W74.1496
-2 SOUR @hpjMLgmJTOiRswjAwKqF@
-3 QUAY 1
-2 NOTE dates approx.
 1 CENS
 2 DATE 02 AUG 1790
 2 PLAC Disosway House, Westfield, Staten Island, Richmond, New York
@@ -8191,14 +8742,21 @@
 5 CONT 7 slaves<br />
 5 CONT ]
 1 RESI
-2 DATE FROM 1802 TO 1813
+2 DATE ABT 1802
 2 PLAC Jamaica, Queens, New York, USA
 3 MAP
 4 LATI N40.6914
 4 LONG W73.8061
 2 SOUR @hpjMLgmJTOiRswjAwKqF@
 3 QUAY 1
-2 NOTE dates approx.
+3 DATA
+4 TEXT Dusway, Mark 80
+5 CONT ", Mark, Jr.
+5 CONT Dusway, Mary
+5 CONT ", Dyan
+5 CONT ", Sarah
+5 CONT ", Susana
+5 CONT ", Elizabeth
 1 EVEN
 2 TYPE member
 2 DATE 08 FEB 1803
@@ -8214,6 +8772,14 @@
 3 CONC ens, New York, USA
 2 SOUR @hpjMLgmJTOiRswjAwKqF@
 3 QUAY 1
+3 DATA
+4 TEXT Dusway, Mark 80
+5 CONT ", Mark, Jr.
+5 CONT Dusway, Mary
+5 CONT ", Dyan
+5 CONT ", Sarah
+5 CONT ", Susana
+5 CONT ", Elizabeth
 2 NOTE assisted his brother Israel
 1 CENS
 2 DATE 06 AUG 1810
@@ -8243,19 +8809,26 @@
 5 CONT 3 slaves<br />
 5 CONT ]
 1 RESI
-2 DATE FROM 1813 TO 1826
+2 DATE ABT 1813
 2 PLAC New York, New York, USA
 3 MAP
 4 LATI N40.7744
 4 LONG W73.9721
 2 SOUR @hpjMLgmJTOiRswjAwKqF@
 3 QUAY 1
-2 NOTE dates approx.
-3 CONT Source says "New York City residence 51 Vesey St." but has n
+3 DATA
+4 TEXT Dusway, Mark 80
+5 CONT ", Mark, Jr.
+5 CONT Dusway, Mary
+5 CONT ", Dyan
+5 CONT ", Sarah
+5 CONT ", Susana
+5 CONT ", Elizabeth
+2 NOTE Source says "New York City residence 51 Vesey St." but has n
 3 CONC o dates, and says "1813 he moved to New York City" but doesn
 3 CONC 't give address. Also gives a residence at 191 Fulton St.
 1 OCCU Dry Goods Store
-2 DATE FROM 1815 TO 1825
+2 DATE ABT 1815
 2 PLAC 201 Pearl Street, New York, New York, USA
 2 SOUR @CnSpTewqSkO5E5jF36Ck@
 3 PAGE p. 191
@@ -8277,7 +8850,6 @@
 3 CONC .
 3 CONT Mark probably stepped in upon Israel's death to help keep th
 3 CONC e store open.
-3 CONT Ending date is from Disosway Family Research.
 1 RESI
 2 DATE 1818
 2 PLAC Asbury, Warren, New Jersey, USA
@@ -8319,14 +8891,21 @@
 5 CONC eed family]
 2 NOTE unconfirmed
 1 RESI
-2 DATE FROM 1826 TO 1836
+2 DATE ABT 1826
 2 PLAC Morristown, Morris, New Jersey, USA
 3 MAP
 4 LATI N40.7968
 4 LONG W74.4815
 2 SOUR @hpjMLgmJTOiRswjAwKqF@
 3 QUAY 1
-2 NOTE dates approx.
+3 DATA
+4 TEXT Dusway, Mark 80
+5 CONT ", Mark, Jr.
+5 CONT Dusway, Mary
+5 CONT ", Dyan
+5 CONT ", Sarah
+5 CONT ", Susana
+5 CONT ", Elizabeth
 1 CENS
 2 DATE 01 JUN 1830
 2 PLAC Morristown, Morris, New Jersey, USA
@@ -8354,13 +8933,21 @@
 3 CONC nship until after 1865, so I'm assuming he's in the part o
 3 CONC f Morris Township in present-day Morristown Township.
 1 RESI
-2 DATE FROM 1836 TO 10 SEP 1851
+2 DATE ABT 1836
 2 PLAC Bedford, Westchester, New York, USA
 3 MAP
 4 LATI N41.2043
 4 LONG W73.6438
 2 SOUR @hpjMLgmJTOiRswjAwKqF@
 3 QUAY 1
+3 DATA
+4 TEXT Dusway, Mark 80
+5 CONT ", Mark, Jr.
+5 CONT Dusway, Mary
+5 CONT ", Dyan
+5 CONT ", Sarah
+5 CONT ", Susana
+5 CONT ", Elizabeth
 2 NOTE at his daugher Catherine McCord's house (but not so in 184
 3 CONC 0 nor 1850 census).
 1 CENS
@@ -8711,7 +9298,7 @@
 2 SOUR @lDuG27hSTACWHq7z54Ba@
 3 _APID 60525:66343632
 1 SEX M
-1 FAMC @jyCZPToSQBOp98OgIwfM@
+1 FAMC @F12@
 1 DEAT
 2 PLAC New Bern, Craven, North Carolina, USA
 3 MAP
@@ -8870,7 +9457,7 @@
 3 OBJE @sRWv8Q08QLWDhoVlZPhK@
 3 _APID 8755:237805
 1 SEX M
-1 FAMC @jyCZPToSQBOp98OgIwfM@
+1 FAMC @F12@
 1 FAMS @idqxJ6GMTPCd5TvMdNJd@
 1 BIRT
 2 DATE 22 APR 1858
@@ -9060,6 +9647,14 @@
 1 NAME Sarah /Disosway/
 2 SOUR @hpjMLgmJTOiRswjAwKqF@
 3 QUAY 1
+3 DATA
+4 TEXT Dusway, Mark 80
+5 CONT ", Mark, Jr.
+5 CONT Dusway, Mary
+5 CONT ", Dyan
+5 CONT ", Sarah
+5 CONT ", Susana
+5 CONT ", Elizabeth
 1 SEX F
 1 FAMC @NeDJdHgVT5eYCiltuDJK@
 1 BIRT
@@ -9106,6 +9701,14 @@
 1 NAME Susannah /Disosway/
 2 SOUR @hpjMLgmJTOiRswjAwKqF@
 3 QUAY 1
+3 DATA
+4 TEXT Dusway, Mark 80
+5 CONT ", Mark, Jr.
+5 CONT Dusway, Mary
+5 CONT ", Dyan
+5 CONT ", Sarah
+5 CONT ", Susana
+5 CONT ", Elizabeth
 1 SEX F
 1 FAMC @NeDJdHgVT5eYCiltuDJK@
 1 BIRT
@@ -9140,7 +9743,7 @@
 1 SEX F
 1 FAMC @ThcbIexKRqKmFhWq25nZ@
 1 BIRT
-2 DATE FROM 1791 TO 1794
+2 DATE ABT 1792
 2 SOUR @YLdpDjJMQzKF9qQ8fVEh@
 3 DATA
 4 TEXT <table border="1">
@@ -9161,58 +9764,9 @@
 5 CONT f16-25 ?<br />
 5 CONT 3 slaves<br />
 5 CONT ]
-2 NOTE 1791 is based on marriage date of parents
+2 NOTE based on marriage date of parents
 1 _GUID ccd9d787-0554-401a-a909-ef90c6fac4a7
 1 _XY 140976 1838
-0 @7yqq0IeUStm3BVuZN2M0@ INDI
-1 REFN 8c20b69a-0ff1-41ac-8c7a-3e8e6ef50312
-1 NAME unknown /Disosway/
-2 SOUR @YLdpDjJMQzKF9qQ8fVEh@
-3 DATA
-4 TEXT <table border="1">
-5 CONT <tr><td>Mark</td><td>Dissisway</td><td>&nbsp;</td><td>1</td>
-5 CONC <td>&nbsp;</td><td>&nbsp;</td><td>1</td><td>&nbsp;</td><td>2
-5 CONC </td><td>1</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
-5 CONC <td>3</td></tr>
-5 CONT <tr><td>Peter</td><td>Cortelyou</td><td>&nbsp;</td><td>&nbsp
-5 CONC ;</td><td>2</td><td>&nbsp;</td><td>1</td><td>2</td><td>&nbsp
-5 CONC ;</td><td>1</td><td>1</td><td>1</td><td>3</td><td>2</td></tr
-5 CONC >
-5 CONT </table>
-5 CONT [<br />
-5 CONT m44+ Mark Disosway (46)<br />
-5 CONT m10-15 ?<br />
-5 CONT f10-15 Margaret Munay Disosway (7??)<br />
-5 CONT f10-15 ?<br />
-5 CONT f16-25 ?<br />
-5 CONT 3 slaves<br />
-5 CONT ]
-1 SEX F
-1 FAMC @ThcbIexKRqKmFhWq25nZ@
-1 BIRT
-2 DATE FROM 1795 TO 1800
-2 SOUR @YLdpDjJMQzKF9qQ8fVEh@
-3 DATA
-4 TEXT <table border="1">
-5 CONT <tr><td>Mark</td><td>Dissisway</td><td>&nbsp;</td><td>1</td>
-5 CONC <td>&nbsp;</td><td>&nbsp;</td><td>1</td><td>&nbsp;</td><td>2
-5 CONC </td><td>1</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
-5 CONC <td>3</td></tr>
-5 CONT <tr><td>Peter</td><td>Cortelyou</td><td>&nbsp;</td><td>&nbsp
-5 CONC ;</td><td>2</td><td>&nbsp;</td><td>1</td><td>2</td><td>&nbsp
-5 CONC ;</td><td>1</td><td>1</td><td>1</td><td>3</td><td>2</td></tr
-5 CONC >
-5 CONT </table>
-5 CONT [<br />
-5 CONT m44+ Mark Disosway (46)<br />
-5 CONT m10-15 ?<br />
-5 CONT f10-15 Margaret Munay Disosway (7??)<br />
-5 CONT f10-15 ?<br />
-5 CONT f16-25 ?<br />
-5 CONT 3 slaves<br />
-5 CONT ]
-1 _GUID e4bc1426-2afb-43df-b67d-ddb5cea07a18
-1 _XY 141114 1838
 0 @hwPT1Go9TmOSOHl4Cubk@ INDI
 1 REFN dff719aa-3f74-49ee-a26f-ce1ef38cde90
 1 NAME unknown /Disosway/
@@ -9239,7 +9793,7 @@
 1 SEX M
 1 FAMC @ThcbIexKRqKmFhWq25nZ@
 1 BIRT
-2 DATE FROM 1795 TO 1800
+2 DATE ABT 1797
 2 SOUR @YLdpDjJMQzKF9qQ8fVEh@
 3 DATA
 4 TEXT <table border="1">
@@ -9262,6 +9816,55 @@
 5 CONT ]
 1 _GUID ab49ae7d-f339-488d-b29e-9f4ed4da4bb4
 1 _XY 141248 1838
+0 @7yqq0IeUStm3BVuZN2M0@ INDI
+1 REFN 8c20b69a-0ff1-41ac-8c7a-3e8e6ef50312
+1 NAME unknown /Disosway/
+2 SOUR @YLdpDjJMQzKF9qQ8fVEh@
+3 DATA
+4 TEXT <table border="1">
+5 CONT <tr><td>Mark</td><td>Dissisway</td><td>&nbsp;</td><td>1</td>
+5 CONC <td>&nbsp;</td><td>&nbsp;</td><td>1</td><td>&nbsp;</td><td>2
+5 CONC </td><td>1</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+5 CONC <td>3</td></tr>
+5 CONT <tr><td>Peter</td><td>Cortelyou</td><td>&nbsp;</td><td>&nbsp
+5 CONC ;</td><td>2</td><td>&nbsp;</td><td>1</td><td>2</td><td>&nbsp
+5 CONC ;</td><td>1</td><td>1</td><td>1</td><td>3</td><td>2</td></tr
+5 CONC >
+5 CONT </table>
+5 CONT [<br />
+5 CONT m44+ Mark Disosway (46)<br />
+5 CONT m10-15 ?<br />
+5 CONT f10-15 Margaret Munay Disosway (7??)<br />
+5 CONT f10-15 ?<br />
+5 CONT f16-25 ?<br />
+5 CONT 3 slaves<br />
+5 CONT ]
+1 SEX F
+1 FAMC @ThcbIexKRqKmFhWq25nZ@
+1 BIRT
+2 DATE ABT 1798
+2 SOUR @YLdpDjJMQzKF9qQ8fVEh@
+3 DATA
+4 TEXT <table border="1">
+5 CONT <tr><td>Mark</td><td>Dissisway</td><td>&nbsp;</td><td>1</td>
+5 CONC <td>&nbsp;</td><td>&nbsp;</td><td>1</td><td>&nbsp;</td><td>2
+5 CONC </td><td>1</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+5 CONC <td>3</td></tr>
+5 CONT <tr><td>Peter</td><td>Cortelyou</td><td>&nbsp;</td><td>&nbsp
+5 CONC ;</td><td>2</td><td>&nbsp;</td><td>1</td><td>2</td><td>&nbsp
+5 CONC ;</td><td>1</td><td>1</td><td>1</td><td>3</td><td>2</td></tr
+5 CONC >
+5 CONT </table>
+5 CONT [<br />
+5 CONT m44+ Mark Disosway (46)<br />
+5 CONT m10-15 ?<br />
+5 CONT f10-15 Margaret Munay Disosway (7??)<br />
+5 CONT f10-15 ?<br />
+5 CONT f16-25 ?<br />
+5 CONT 3 slaves<br />
+5 CONT ]
+1 _GUID e4bc1426-2afb-43df-b67d-ddb5cea07a18
+1 _XY 141114 1838
 0 @npWqLcjwSCKEA7iYuYBM@ INDI
 1 REFN c7732e6b-186a-4816-acab-b0b3e4da8ac9
 1 NAME unknown son of Marcus /Disosway/
@@ -9771,23 +10374,10 @@
 0 @9jmMKQ4kRliQfouKgWAX@ INDI
 1 REFN 9bbe1eba-7c5f-4bbf-9e7b-6642722bc24b
 1 NAME Lola Potter /Flandreau/
-2 SOUR @S169@
-3 PAGE New York City Municipal Archive; New York, New York, USA; 19
-4 CONC 24 NYC Voter List
-3 OBJE @M198@
-3 _APID 61536:256266
 1 SEX F
 1 FAMS @wgqzNudqQiahTIVJVBRt@
 1 BIRT
 2 DATE 21 FEB 1866
-1 RESI
-2 DATE 1924
-2 PLAC 981 Lafayette Avenue, Brooklyn, New York City, New York, USA
-2 SOUR @S169@
-3 PAGE New York City Municipal Archive; New York, New York, USA; 19
-4 CONC 24 NYC Voter List
-3 OBJE @M198@
-3 _APID 61536:256266
 1 DEAT
 2 DATE 17 JAN 1933
 1 _GUID 40f0512d-d290-4c49-aca0-0594210355cf
@@ -10294,14 +10884,14 @@
 2 NOTE Date from IGI
 1 EVEN
 2 TYPE member
-2 DATE FROM 25 DEC 1662
+2 DATE 25 DEC 1662
 2 PLAC Reformed Dutch Church, Brooklyn, New York, USA
 2 SOUR @T3V2PTb4Q22OkAQc2E67@
 3 PAGE p. 15
 3 QUAY 1
 1 EVEN
 2 TYPE member
-2 DATE FROM OCT 1677
+2 DATE OCT 1677
 2 PLAC Reformed Dutch Church, New Utrecht, Brooklyn, New York, USA
 2 SOUR @T3V2PTb4Q22OkAQc2E67@
 3 PAGE p. 17
@@ -10500,13 +11090,22 @@
 0 @7nAjtoHjQEaNxO44L4VR@ INDI
 1 REFN b0c4c217-9b4d-4fa6-88f9-eb18d543488f
 1 NAME Ann Maria /Justice/
+2 SOUR @S217@
+3 PAGE New York City Department of Records & Information Services
+4 CONC ; New York City, New York; New York City Death Certificates
+3 _APID 61778:77132843
 2 SOUR @S171@
 3 PAGE 1856, Ann Maria Justice
 3 _APID 4802:1083113
 1 SEX F
-1 FAMS @jyCZPToSQBOp98OgIwfM@
+1 FAMS @F12@
 1 BIRT
 2 DATE NOV 1827
+2 PLAC USA
+2 SOUR @S217@
+3 PAGE New York City Department of Records & Information Services
+4 CONC ; New York City, New York; New York City Death Certificates
+3 _APID 61778:77132843
 1 DEAT
 2 DATE 16 JUL 1886
 1 _GUID 7cb1446a-b292-48b3-bc27-2188b53fe36a
@@ -11607,7 +12206,7 @@
 1 FAMC @fb5TYf8VShq9Cue9pS6P@
 1 FAMS @rtYnuBRORFGCm5SYEtxl@
 1 BIRT
-2 DATE ABT 1834
+2 DATE 27 SEP 1833
 2 PLAC Lisbon, Columbiana, Ohio, USA
 3 MAP
 4 LATI N40.772
@@ -12634,7 +13233,7 @@
 3 QUAY 1
 2 NOTE on ship "Philip" in fleet of Sir George Carteret
 1 RESI
-2 DATE FROM 1688
+2 DATE 1688
 2 PLAC Smoking Point, Rossville, Staten Island, Richmond, New York
 3 CONC , USA
 2 SOUR @SmsK3xjdRVW2J9UNSg62@
@@ -13422,6 +14021,23 @@
 2 SOUR @xWgrwMT3TIq8H9C6AaHO@
 1 _GUID 305ae800-8cae-4212-b08b-679f83020feb
 1 _XY 146279 1288
+0 @lXhFtoapRMSeIG472QQo@ INDI
+1 REFN e1bd6a79-9c86-4dac-902a-e06bac4fdefc
+1 NAME Jacob /Poillon/
+1 NAME James /Poillon/
+2 SOUR @q7EjXFekQ2GhXPFge5K6@
+1 SEX M
+1 FAMC @cG9OqWw6SQqCcT2TbzrK@
+1 BAPM
+2 DATE 03 NOV 1773
+2 PLAC Saint Andrew's Church, 40 Old Mill Road, New Dorp, Staten Is
+3 CONC land, Richmond, New York, USA
+2 SOUR @q7EjXFekQ2GhXPFge5K6@
+2 NOTE 3 Nov 1793 also given
+1 BIRT
+2 DATE ABT NOV 1773
+1 _GUID fc2a511a-f63d-49c8-afac-1365ab0a67ec
+1 _XY 146608 1491
 0 @CrA0sFegRFuSd7dRS7zN@ INDI
 1 REFN 4317bdb5-1686-402c-a0c8-2989bb7397ee
 1 NAME Jacques /Poillon/
@@ -13523,27 +14139,19 @@
 2 SOUR @xWgrwMT3TIq8H9C6AaHO@
 1 _GUID 2f893c1b-7f98-4f44-97a0-222a2388f91c
 1 _XY 146305 1159
-0 @lXhFtoapRMSeIG472QQo@ INDI
-1 REFN e1bd6a79-9c86-4dac-902a-e06bac4fdefc
-1 NAME James or Jacob /Poillon/
-2 SOUR @q7EjXFekQ2GhXPFge5K6@
-1 SEX M
-1 FAMC @cG9OqWw6SQqCcT2TbzrK@
-1 BAPM
-2 DATE 03 NOV 1773
-2 PLAC Saint Andrew's Church, 40 Old Mill Road, New Dorp, Staten Is
-3 CONC land, Richmond, New York, USA
-2 SOUR @q7EjXFekQ2GhXPFge5K6@
-2 NOTE 3 Nov 1793 also given
-1 BIRT
-2 DATE ABT NOV 1773
-1 _GUID fc2a511a-f63d-49c8-afac-1365ab0a67ec
-1 _XY 146608 1491
 0 @9M1NHUvfTsqWyok7DF1Q@ INDI
 1 REFN 9a3187f5-2a87-4e92-a434-746a91e51a76
 1 NAME Jean /Poillon/
 2 SOUR @hpjMLgmJTOiRswjAwKqF@
 3 QUAY 1
+3 DATA
+4 TEXT Dusway, Mark 80
+5 CONT ", Mark, Jr.
+5 CONT Dusway, Mary
+5 CONT ", Dyan
+5 CONT ", Sarah
+5 CONT ", Susana
+5 CONT ", Elizabeth
 1 SEX M
 1 FAMC @aLfpegxsQ7iGOEZmu06L@
 1 FAMS @cG9OqWw6SQqCcT2TbzrK@
@@ -13644,15 +14252,39 @@
 2 PLAC Saint Andrew's Church, 40 Old Mill Road, New Dorp, Staten Is
 3 CONC land, Richmond, New York, USA
 2 SOUR @hpjMLgmJTOiRswjAwKqF@
+3 DATA
+4 TEXT Dusway, Mark 80
+5 CONT ", Mark, Jr.
+5 CONT Dusway, Mary
+5 CONT ", Dyan
+5 CONT ", Sarah
+5 CONT ", Susana
+5 CONT ", Elizabeth
 2 NOTE "1746" is probably 1745/6
 1 DEAT
 2 DATE 1775
 2 SOUR @hpjMLgmJTOiRswjAwKqF@
 3 QUAY 1
+3 DATA
+4 TEXT Dusway, Mark 80
+5 CONT ", Mark, Jr.
+5 CONT Dusway, Mary
+5 CONT ", Dyan
+5 CONT ", Sarah
+5 CONT ", Susana
+5 CONT ", Elizabeth
 1 BURI
 2 PLAC Moravian Cemetery, Staten Island, Richmond, New York, USA
 2 SOUR @hpjMLgmJTOiRswjAwKqF@
 3 QUAY 1
+3 DATA
+4 TEXT Dusway, Mark 80
+5 CONT ", Mark, Jr.
+5 CONT Dusway, Mary
+5 CONT ", Dyan
+5 CONT ", Sarah
+5 CONT ", Susana
+5 CONT ", Elizabeth
 2 NOTE [can't find a record of this at the cemetery]
 1 _GUID e5c5ef32-a19a-4853-a25b-8362e61d049a
 1 _XY 145429 1491
@@ -13837,6 +14469,14 @@
 1 REFN b265f7f5-5e78-483e-9c39-39144ca1da6f
 1 NAME Gosen /Ryersz/
 2 SOUR @hpjMLgmJTOiRswjAwKqF@
+3 DATA
+4 TEXT Dusway, Mark 80
+5 CONT ", Mark, Jr.
+5 CONT Dusway, Mary
+5 CONT ", Dyan
+5 CONT ", Sarah
+5 CONT ", Susana
+5 CONT ", Elizabeth
 1 SEX M
 1 FAMS @AfNR54ufS02zD4MUVs0j@
 1 _GUID 9a7d393a-7310-481a-b1e5-f14ac3add68c
@@ -15155,13 +15795,13 @@
 3 QUAY 1
 2 NOTE "1665/6"
 1 RESI
-2 DATE FROM 1666
+2 DATE 1666
 2 PLAC New Utrecht, Brooklyn, New York, USA
 2 SOUR @T3V2PTb4Q22OkAQc2E67@
 3 PAGE p. 228
 1 EVEN
 2 TYPE member
-2 DATE FROM 09 APR 1688
+2 DATE 09 APR 1688
 2 PLAC Reformed Dutch Church, Flatbush, Brooklyn, New York, USA
 2 SOUR @T3V2PTb4Q22OkAQc2E67@
 3 PAGE p. 228
@@ -15271,14 +15911,13 @@
 3 PAGE p. 10
 1 EVEN
 2 TYPE member
-2 DATE FROM 1650
+2 DATE ABT 1650
 2 PLAC Dutch Church, Utrecht, Utrecht, Netherlands
 2 SOUR @T3V2PTb4Q22OkAQc2E67@
 3 PAGE p. 10
 3 QUAY 1
-2 NOTE start date approx.
 1 RESI
-2 DATE FROM 1653 TO 08 APR 1662
+2 DATE 1653
 2 PLAC Bunnik, Utrecht, Netherlands
 3 MAP
 4 LATI N52.0542
@@ -15286,7 +15925,7 @@
 2 SOUR @T3V2PTb4Q22OkAQc2E67@
 3 PAGE p. 10
 1 IMMI
-2 DATE FROM 08 APR 1662 TO 29 JUN 1662
+2 DATE 08 APR 1662
 2 PLAC New York, New York, USA
 3 MAP
 4 LATI N40.7744
@@ -15306,7 +15945,7 @@
 2 NOTE ship Hoop (English: Hope), Captain Pieter Jansz Aemilius. Wi
 3 CONC th wife and three children.
 1 RESI
-2 DATE FROM 29 JUN 1662 TO JAN 1664
+2 DATE 29 JUN 1662
 2 PLAC Brooklyn, Kings, New York, USA
 3 MAP
 4 LATI N40.65
@@ -15315,32 +15954,32 @@
 3 PAGE p. 13
 1 EVEN
 2 TYPE member
-2 DATE FROM 25 DEC 1662
+2 DATE 25 DEC 1662
 2 PLAC Reformed Dutch Church, Brooklyn, New York, USA
 2 SOUR @T3V2PTb4Q22OkAQc2E67@
 3 PAGE p. 15
 3 QUAY 1
 1 RESI
-2 DATE FROM JAN 1664 TO 1692
+2 DATE JAN 1664
 2 PLAC New Utrecht, Brooklyn, New York, USA
 2 SOUR @T3V2PTb4Q22OkAQc2E67@
 3 PAGE p. 15
 1 OCCU magistrate
-2 DATE FROM 18 AUG 1673 TO SEP 1687
+2 DATE 18 AUG 1673
 2 PLAC New Utrecht, Brooklyn, New York, USA
 2 SOUR @T3V2PTb4Q22OkAQc2E67@
 3 PAGE p. 16
 3 QUAY 1
 1 EVEN
 2 TYPE member
-2 DATE FROM OCT 1677
+2 DATE OCT 1677
 2 PLAC Reformed Dutch Church, New Utrecht, Brooklyn, New York, USA
 2 SOUR @T3V2PTb4Q22OkAQc2E67@
 3 PAGE p. 17
 3 QUAY 1
 2 NOTE one of the original members
 1 OCCU deacon
-2 DATE FROM 1679 TO 1689
+2 DATE 1679
 2 PLAC Reformed Dutch Church, New Utrecht, Brooklyn, New York, USA
 2 SOUR @T3V2PTb4Q22OkAQc2E67@
 3 PAGE p. 16
@@ -15681,8 +16320,8 @@
 3 MAP
 4 LATI N40.7744
 4 LONG W73.9721
-2 NOTE Just a guess. Assume he was born before brother Abraham beca
-3 CONC use he died before Abraham.
+2 NOTE Assume he was born before brother Abraham because he died be
+3 CONC fore Abraham.
 1 BAPM
 2 DATE 05 JAN 1681
 2 PLAC Reformed Dutch Church, New York, New York, USA
@@ -15733,7 +16372,7 @@
 5 CONC m Jan's knife, Jan fled for America.
 2 NOTE of murder in absentia
 1 IMMI
-2 DATE FROM 16 APR 1663 TO 17 AUG 1663
+2 DATE 16 APR 1663
 2 PLAC New York, New York, USA
 3 MAP
 4 LATI N40.7744
@@ -16108,12 +16747,6 @@
 1 MARR
 2 DATE 12 OCT 1886
 2 PLAC 272 South 5th Street, Brooklyn, Kings, New York, USA
-2 SOUR @S153@
-3 PAGE Year: 1900; Census Place: Brooklyn Ward 23, Kings, New York
-4 CONC ; Roll: 1061; Page: 2B; Enumeration District: 0406; FHL micr
-4 CONC ofilm: 1241061
-3 OBJE @M31@
-3 _APID 7602:48792506
 2 SOUR @ENX4MoLkQxmLOcXN9EkC@
 3 PAGE p. 6
 3 QUAY 2
@@ -16207,8 +16840,7 @@
 2 NOTE Bond #25784
 3 CONT Bondsman: Alexander C. B.
 3 CONT Witness: J. G. Stanly
-0 @jyCZPToSQBOp98OgIwfM@ FAM
-1 REFN 775eb617-1dc2-4a90-90e7-24b491a2519e
+0 @F12@ FAM
 1 HUSB @4pWXAjAYQne1SoMvRo4c@
 1 WIFE @7nAjtoHjQEaNxO44L4VR@
 1 CHIL @BvZA7PniSG23Lbf2kwvZ@
@@ -16379,10 +17011,10 @@
 1 CHIL @CCC8crbbRvu3lQEroRzH@
 2 _FREL Natural
 2 _MREL Natural
-1 CHIL @7yqq0IeUStm3BVuZN2M0@
+1 CHIL @hwPT1Go9TmOSOHl4Cubk@
 2 _FREL Natural
 2 _MREL Natural
-1 CHIL @hwPT1Go9TmOSOHl4Cubk@
+1 CHIL @7yqq0IeUStm3BVuZN2M0@
 2 _FREL Natural
 2 _MREL Natural
 1 CHIL @58I38s1VRAGEdGSbqAJP@
@@ -16393,6 +17025,14 @@
 2 PLAC Saint Andrew's Church, 40 Old Mill Road, New Dorp, Staten Is
 3 CONC land, Richmond, New York, USA
 2 SOUR @hpjMLgmJTOiRswjAwKqF@
+3 DATA
+4 TEXT Dusway, Mark 80
+5 CONT ", Mark, Jr.
+5 CONT Dusway, Mary
+5 CONT ", Dyan
+5 CONT ", Sarah
+5 CONT ", Susana
+5 CONT ", Elizabeth
 2 SOUR @6Al9BaG1Q6ylCMDjV1sl@
 3 _APID 4272:5233
 2 NOTE or Feb 11th???
@@ -16426,6 +17066,14 @@
 4 LONG W73.8061
 2 SOUR @hpjMLgmJTOiRswjAwKqF@
 3 QUAY 1
+3 DATA
+4 TEXT Dusway, Mark 80
+5 CONT ", Mark, Jr.
+5 CONT Dusway, Mary
+5 CONT ", Dyan
+5 CONT ", Sarah
+5 CONT ", Susana
+5 CONT ", Elizabeth
 0 @5nuQnohtSvOomCjy4DEd@ FAM
 1 REFN 01bf4328-b3f0-4b66-90f3-5521cb56ce95
 1 HUSB @w52HmQ77QJOkUGcz24Mi@
@@ -16927,6 +17575,14 @@
 2 DATE 27 JAN 1773
 2 SOUR @hpjMLgmJTOiRswjAwKqF@
 3 QUAY 1
+3 DATA
+4 TEXT Dusway, Mark 80
+5 CONT ", Mark, Jr.
+5 CONT Dusway, Mary
+5 CONT ", Dyan
+5 CONT ", Sarah
+5 CONT ", Susana
+5 CONT ", Elizabeth
 0 @F165@ FAM
 1 HUSB @I218@
 1 WIFE @I212@
@@ -17730,6 +18386,18 @@
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Lehi, UT, USA; Date
 2 CONC : 2017
+0 @S218@ SOUR
+1 REPO @t1Wm6WiqTK6oX61EAKx1@
+1 TITL New York, New York, Index to Birth Certificates, 1866-1909
+1 AUTH Ancestry.com
+1 PUBL Location: Lehi, UT; Date: 2020;
+1 _APID 61779
+0 @S217@ SOUR
+1 REPO @t1Wm6WiqTK6oX61EAKx1@
+1 TITL New York, New York, Index to Death Certificates, 1862-1948
+1 AUTH Ancestry.com
+1 PUBL Location: Lehi, UT; Date: 2020;
+1 _APID 61778
 0 @Dut2uBTNRuK1Lv2laWIn@ SOUR
 1 REPO @t1Wm6WiqTK6oX61EAKx1@
 1 TITL New York, New York, Marriage Index 1866-1937
@@ -17766,6 +18434,13 @@
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2012
 1 _APID 3212
+0 @S216@ SOUR
+1 REPO @t1Wm6WiqTK6oX61EAKx1@
+1 TITL New York, State Census, 1905
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
+2 CONC e: 2014
+1 _APID 7364
 0 @KWFzo27VQ6mUgbiGZxfT@ SOUR
 1 REPO @t1Wm6WiqTK6oX61EAKx1@
 1 TITL New York, State Census, 1915
@@ -17838,16 +18513,6 @@
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2015
 1 _APID 9061
-0 @S83@ SOUR
-1 TITL NY Census, 1905, Kings Co., Brooklyn, AD 16, ED 1, image 3 o
-2 CONC f 27
-1 AUTH New York State
-1 PUBL FamilySearch.org
-0 @S191@ SOUR
-1 TITL NY Census, 1905, Kings Co., Brooklyn, AD 16, ED 1, image 3 o
-2 CONC f 27
-1 AUTH New York State
-1 PUBL FamilySearch.org
 0 @s2fVOmvZSeOkulbqhRZg@ SOUR
 1 TITL NY City Letters of Admin [extracts], Disosway, Mark
 0 @12NbpiT1SM6Ruij1HKyl@ SOUR
@@ -19978,4 +20643,13 @@
 2 TITL 1840 United States Federal Census
 2 _TEXT Year: 1840; Census Place: Newbern, Craven, North Carolina; R
 3 CONC oll: 358; Page: 57; Family History Library Film: 0018093
+0 @M237@ OBJE
+1 _GUID fead9dab-18f3-44c3-b3a7-99502041a19b
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Disosway Media\
+2 CONC New York, State Census, 1905.jpg
+2 FORM jpg
+2 TITL New York, State Census, 1905
+2 _TEXT New York State Archives; Albany, New York; State Populatio
+3 CONC n Census Schedules, 1905; Election District: A.D. 16 E.D. 01
+3 CONC ; City: Brooklyn; County: Kings
 0 TRLR
