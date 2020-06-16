@@ -14,9 +14,9 @@
 4 CONT Boston, MA 02109
 3 PHON (617) 227-6681
 1 DEST FTM
-1 FILE root_2020-06-13-02-56-39.ftm.ged
-1 DATE 13 JUN 2020
-2 TIME 02:53:53
+1 FILE root_2020-06-16-12-39-41.ftm.ged
+1 DATE 16 JUN 2020
+2 TIME 12:40:00
 0 @Umy2qBWIRUiwVSS6Hcn4@ SUBM
 1 NAME Christopher Alan Mosher
 2 EMAIL cmosher01@@gmail.com
@@ -81,13 +81,6 @@
 4 CONC : T627_2624; Page: 1A; Enumeration District: 27-19
 3 OBJE @dHJ8mphgTUWWxu6hUIKh@
 3 _APID 2442:11197641
-2 SOUR @S190@
-3 PAGE The News Journal; Publication Date: 17 Mar 2019; Publicatio
-4 CONC n Place: Wilmington, Delaware, United States of America; URL
-4 CONC : https://www.newspapers.com/image/544435899/?article=3fb519
-4 CONC fc-b81a-4416-b4dc-250c03733734&focus=0.027137123,0.7171319,0
-4 CONC .3459657,0.93637145&xid=2378
-3 _APID 61843:664230187
 2 SOUR @xaxSo2jsSdCj5xwpSVdX@
 3 PAGE Facebook update -  - 10/25/2013
 3 _LINK http://www.facebook.com/100000963550759
@@ -100,6 +93,13 @@
 3 PAGE New York City Municipal Archives; New York, New York; Boroug
 4 CONC h: Brooklyn; Barry Mosher
 3 _APID 61406:3448647
+2 SOUR @S195@
+3 PAGE News Journal; Publication Date: 17 Mar 2019; Publication Pla
+4 CONC ce: Wilmington, Delaware, United States of America; URL: htt
+4 CONC ps://www.newspapers.com/image/544435899/?article=3fb519fc-b8
+4 CONC 1a-4416-b4dc-250c03733734&focus=0.027137123,0.7171319,0.3459
+4 CONC 657,0.93637145&xid=2378
+3 _APID 61843:664230187
 2 SOUR @S172@
 3 PAGE City: Newark; State: Delaware; Year(s): 1993 1994 1995 199
 4 CONC 6 1997 1998 1999 2000 2001 2002
@@ -136,13 +136,6 @@
 4 CONC : T627_2624; Page: 1A; Enumeration District: 27-19
 3 OBJE @dHJ8mphgTUWWxu6hUIKh@
 3 _APID 2442:11197641
-2 SOUR @S190@
-3 PAGE The News Journal; Publication Date: 17 Mar 2019; Publicatio
-4 CONC n Place: Wilmington, Delaware, United States of America; URL
-4 CONC : https://www.newspapers.com/image/544435899/?article=3fb519
-4 CONC fc-b81a-4416-b4dc-250c03733734&focus=0.027137123,0.7171319,0
-4 CONC .3459657,0.93637145&xid=2378
-3 _APID 61843:664230187
 2 SOUR @K5FFKa9wS3KlopARf4Hv@
 3 QUAY 3
 2 SOUR @S181@
@@ -150,6 +143,13 @@
 4 CONC rk State Birth Index
 3 OBJE @M164@
 3 _APID 61667:4306883
+2 SOUR @S195@
+3 PAGE News Journal; Publication Date: 17 Mar 2019; Publication Pla
+4 CONC ce: Wilmington, Delaware, United States of America; URL: htt
+4 CONC ps://www.newspapers.com/image/544435899/?article=3fb519fc-b8
+4 CONC 1a-4416-b4dc-250c03733734&focus=0.027137123,0.7171319,0.3459
+4 CONC 657,0.93637145&xid=2378
+3 _APID 61843:664230187
 2 SOUR @S165@
 3 PAGE Barry R Mosher
 3 _APID 1788:302105836
@@ -177,7 +177,7 @@
 1 RESI
 2 DATE 03 SEP 1937
 2 PLAC Spring Street, Hamilton, Madison, New York, USA
-2 SOUR @fzsLPVccTgeiJyfHvlqO@
+2 SOUR @S50@
 3 QUAY 3
 1 EVEN
 2 TYPE photograph
@@ -185,6 +185,29 @@
 2 PLAC Mosher Farm, Madison, Madison, New York, USA
 2 SOUR @S97@
 3 QUAY 3
+3 DATA
+4 TEXT <a href="https://www.flickr.com/photos/mosher/6310845518" ti
+5 CONC tle="William George Mosher and Frederick Colvin Mosher"><im
+5 CONC g src="https://live.staticflickr.com/6233/6310845518_8749cf9
+5 CONC 677_t.jpg" width="56" height="100" alt="William George Moshe
+5 CONC r and Frederick Colvin Mosher"></a>
+5 CONT <a href="https://www.flickr.com/photos/mosher/6310795088" ti
+5 CONC tle="William George Mosher and Frederick Colvin Mosher"><im
+5 CONC g src="https://live.staticflickr.com/6217/6310795088_d532221
+5 CONC 548_t.jpg" width="56" height="100" alt="William George Moshe
+5 CONC r and Frederick Colvin Mosher"></a>
+5 CONT <a href="https://www.flickr.com/photos/mosher/6310230003" ti
+5 CONC tle="Mosher Men"><img src="https://live.staticflickr.com/603
+5 CONC 3/6310230003_8061078653_t.jpg" width="56" height="100" alt="
+5 CONC Mosher Men"></a>
+5 CONT <a href="https://www.flickr.com/photos/mosher/6307230493" ti
+5 CONC tle="Mosher Women"><img src="https://live.staticflickr.com/6
+5 CONC 036/6307230493_c745d57839_t.jpg" width="56" height="100" alt
+5 CONC ="Mosher Women"></a>
+5 CONT <a href="https://www.flickr.com/photos/mosher/6307175085" ti
+5 CONC tle="Mosher Women"><img src="https://live.staticflickr.com/6
+5 CONC 037/6307175085_6807df926c_t.jpg" width="100" height="57" alt
+5 CONC ="Mosher Women"></a>
 1 RESI
 2 DATE 01 APR 1940
 2 PLAC Hamilton, Madison, New York, USA
@@ -202,14 +225,14 @@
 2 DATE 04 APR 1942
 2 PLAC Saint Thomas Church, Madison Street, Hamilton, Madison, Ne
 3 CONC w York, USA
-2 SOUR @UyP4o9VZRGGPzEtV2LaE@
+2 SOUR @S51@
 3 QUAY 1
 2 NOTE by Reverend Samuel F. Burhans
 1 EDUC kindergarten to 5th grade
 2 DATE SEP 1942
 2 PLAC Hamilton Central School, Broad Street, Hamilton, Madison, Ne
 3 CONC w York, USA
-2 SOUR @fzsLPVccTgeiJyfHvlqO@
+2 SOUR @S50@
 3 QUAY 3
 2 NOTE SE corner of Broad St. and Hamilton St. Lot had two building
 3 CONC s connected by hallway: High School (older buliding, on corn
@@ -221,10 +244,14 @@
 2 PLAC Spring Street, Hamilton, Madison, New York, USA
 2 SOUR @b1LaFcEgQGCOqgf7QkXQ@
 3 QUAY 3
+3 DATA
+4 TEXT <a href="https://www.flickr.com/photos/mosher/6304968404"><i
+5 CONC mg src="https://live.staticflickr.com/6054/6304968404_0eae41
+5 CONC 24d3_t.jpg" width="100" height="70"></a>
 1 EDUC 6th grade to 10th grade
 2 DATE SEP 1948
 2 PLAC Earlville Central School, Earlville, Madison, New York, USA
-2 SOUR @fzsLPVccTgeiJyfHvlqO@
+2 SOUR @S50@
 3 QUAY 3
 2 SOUR @S175@
 3 PAGE p. 24, “Seventh Grade” photograph
@@ -244,10 +271,17 @@
 3 CONC w York, USA
 2 SOUR @xjNSiHhuR16SwZ324kGn@
 3 QUAY 3
+3 DATA
+4 TEXT Diocese of Central New York In the Name of the Father, and o
+5 CONC f the Son, and of the Holy Ghost. Amen. This is to certify t
+5 CONC hat Barry Rexford Mosher presented by Samuel F Burhans Recto
+5 CONC r received the Apostolic Rite of Laying on of Hands at a Con
+5 CONC firmation held in St. Thomas Church Sunday, Mar. 13, 1949 A.
+5 CONC D. By the Right Reverend [blank,] Bishop
 1 RESI
 2 DATE 01 JUL 1953
 2 PLAC 23 South Main Street, Earlville, Chenango, New York, USA
-2 SOUR @fzsLPVccTgeiJyfHvlqO@
+2 SOUR @S50@
 3 QUAY 3
 1 RESI
 2 DATE SEP 1953
@@ -262,7 +296,7 @@
 1 EDUC 11th grade and 12th grade
 2 DATE SEP 1953
 2 PLAC Manlius School, Manlius, Onondaga, New York, USA
-2 SOUR @fzsLPVccTgeiJyfHvlqO@
+2 SOUR @S50@
 3 QUAY 3
 1 RESI
 2 DATE SEP 1954
@@ -274,13 +308,13 @@
 2 DATE SEP 1955
 2 PLAC Room 113, C Dorm, Rensselaer Polytechnic Institute, Troy, Re
 3 CONC nsselaer, New York, USA
-2 SOUR @fzsLPVccTgeiJyfHvlqO@
+2 SOUR @S50@
 3 QUAY 3
 1 EDUC 4 year college
 2 DATE SEP 1955
 2 PLAC Rensselaer Polytechnic Institute, Troy, Rensselaer, New York
 3 CONC , USA
-2 SOUR @fzsLPVccTgeiJyfHvlqO@
+2 SOUR @S50@
 3 QUAY 3
 1 RESI
 2 DATE 01 JUL 1956
@@ -299,13 +333,13 @@
 1 RESI
 2 DATE 1957
 2 PLAC 49 North Main Street, Earlville, Madison, New York, USA
-2 SOUR @UyP4o9VZRGGPzEtV2LaE@
+2 SOUR @S51@
 3 QUAY 3
 1 RESI
 2 DATE SEP 1957
 2 PLAC Zeta Psi Fraternity, 25 Belle Avenue, Troy, Rensselaer, Ne
 3 CONC w York, USA
-2 SOUR @fzsLPVccTgeiJyfHvlqO@
+2 SOUR @S50@
 3 QUAY 3
 1 RESI
 2 DATE JUN 1958
@@ -317,7 +351,7 @@
 2 DATE SEP 1958
 2 PLAC Zeta Psi Fraternity, 25 Belle Avenue, Troy, Rensselaer, Ne
 3 CONC w York, USA
-2 SOUR @fzsLPVccTgeiJyfHvlqO@
+2 SOUR @S50@
 3 QUAY 3
 1 GRAD
 2 DATE 05 JUN 1959
@@ -325,11 +359,16 @@
 3 CONC aer, New York, USA
 2 SOUR @ef1cuYhAQVqPjvdZlDsT@
 3 QUAY 2
+3 DATA
+4 TEXT The Class of 1959 requests the honor of your presence at th
+5 CONC e 153rd Commencement Exercises of Rensselaer Polytechnic Ins
+5 CONC titute on Friday, June the fifth at two-fifteen o'clock R.P.
+5 CONC I. Field House Troy, New York
 2 NOTE after 2:15 PM
 1 RESI
 2 DATE 06 JUN 1959
 2 PLAC 5 West Kendrick Avenue, Hamilton, Madison, New York, USA
-2 SOUR @fzsLPVccTgeiJyfHvlqO@
+2 SOUR @S50@
 3 QUAY 3
 2 NOTE left this house for Brooklyn, married Linda on 27 Jun, spen
 3 CONC t 3 days at Kenneth Disosway's house in Brooklyn, then wen
@@ -401,26 +440,26 @@
 1 RESI
 2 DATE ABT AUG 1966
 2 PLAC Cardinal Drive, Pulaski, Pulaski, Virginia, USA
-2 SOUR @fzsLPVccTgeiJyfHvlqO@
+2 SOUR @S50@
 3 QUAY 3
 1 RESI
 2 DATE AUG 1967
 2 PLAC 100 Cambridge Drive, Windsor Hills, Brandywine, New Castle
 3 CONC , Delaware, USA
-2 SOUR @fzsLPVccTgeiJyfHvlqO@
+2 SOUR @S50@
 3 QUAY 3
 2 NOTE need to check New Castle County deeds: Deed Record H, vol. 7
 3 CONC 9, p. 525
 1 RESI
 2 DATE DEC 1969
 2 PLAC 1303 Foulk Road, Brandywine, New Castle, Delaware, USA
-2 SOUR @fzsLPVccTgeiJyfHvlqO@
+2 SOUR @S50@
 3 QUAY 3
 1 RESI
 2 DATE 1971
 2 PLAC 2210 Garfield Avenue, Gwinhurst, Brandywine, New Castle, Del
 3 CONC aware, USA
-2 SOUR @fzsLPVccTgeiJyfHvlqO@
+2 SOUR @S50@
 3 QUAY 3
 2 SOUR @S165@
 3 PAGE Barry R Mosher
@@ -438,7 +477,7 @@
 2 DATE AUG 1975
 2 PLAC 1324 Riverside Drive, Kynlyn Apartments, Brandywine, New Cas
 3 CONC tle, Delaware, USA
-2 SOUR @fzsLPVccTgeiJyfHvlqO@
+2 SOUR @S50@
 3 QUAY 3
 2 SOUR @S165@
 3 PAGE Barry R Mosher
@@ -448,7 +487,7 @@
 2 DATE MAR 1981
 2 PLAC 4 Vansant Road, Deacons Walk, Mill Creek, New Castle, Delawa
 3 CONC re, USA
-2 SOUR @fzsLPVccTgeiJyfHvlqO@
+2 SOUR @S50@
 3 QUAY 3
 2 SOUR @S172@
 3 PAGE City: Newark; State: Delaware; Year(s): 1993 1994 1995 199
@@ -461,12 +500,12 @@
 2 DATE 11 MAR 2019
 2 PLAC 4 Vansant Road, Deacons Walk, Mill Creek, New Castle, Delawa
 3 CONC re, USA
-2 SOUR @S190@
-3 PAGE The News Journal; Publication Date: 17 Mar 2019; Publicatio
-4 CONC n Place: Wilmington, Delaware, United States of America; URL
-4 CONC : https://www.newspapers.com/image/544435899/?article=3fb519
-4 CONC fc-b81a-4416-b4dc-250c03733734&focus=0.027137123,0.7171319,0
-4 CONC .3459657,0.93637145&xid=2378
+2 SOUR @S195@
+3 PAGE News Journal; Publication Date: 17 Mar 2019; Publication Pla
+4 CONC ce: Wilmington, Delaware, United States of America; URL: htt
+4 CONC ps://www.newspapers.com/image/544435899/?article=3fb519fc-b8
+4 CONC 1a-4416-b4dc-250c03733734&focus=0.027137123,0.7171319,0.3459
+4 CONC 657,0.93637145&xid=2378
 3 _APID 61843:664230187
 1 BURI
 2 DATE 19 MAR 2019
@@ -498,12 +537,12 @@
 0 @I150@ INDI
 1 REFN 84d81e65-eb7c-45e7-87eb-a89ba94d5ccb
 1 NAME Barbara Ann /Murray/
-2 SOUR @S190@
-3 PAGE The News Journal; Publication Date: 17 Mar 2019; Publicatio
-4 CONC n Place: Wilmington, Delaware, United States of America; URL
-4 CONC : https://www.newspapers.com/image/544435899/?article=3fb519
-4 CONC fc-b81a-4416-b4dc-250c03733734&focus=0.027137123,0.7171319,0
-4 CONC .3459657,0.93637145&xid=2378
+2 SOUR @S195@
+3 PAGE News Journal; Publication Date: 17 Mar 2019; Publication Pla
+4 CONC ce: Wilmington, Delaware, United States of America; URL: htt
+4 CONC ps://www.newspapers.com/image/544435899/?article=3fb519fc-b8
+4 CONC 1a-4416-b4dc-250c03733734&focus=0.027137123,0.7171319,0.3459
+4 CONC 657,0.93637145&xid=2378
 3 _APID 61843:742510195
 1 SEX F
 1 FAMS @F94@
@@ -511,7 +550,7 @@
 0 @YQBI16LwTvm4NZRMXtBc@ INDI
 1 REFN 811f8e3f-56ab-4d34-b2bd-292589766140
 1 NAME Bradley /Quire/
-2 SOUR @iqZVhadBSeqpuLb9Lvb3@
+2 SOUR @S49@
 3 QUAY 1
 1 SEX M
 1 FAMS @DuAitdSuROi1j9Pk9NjS@
@@ -520,7 +559,7 @@
 3 MAP
 4 LATI N38.2009
 4 LONG W84.8733
-2 SOUR @iqZVhadBSeqpuLb9Lvb3@
+2 SOUR @S49@
 3 QUAY 1
 1 _GUID dd6799bd-5451-4642-944d-ad07bb49150a
 1 _XY 2523 4927
@@ -749,65 +788,32 @@
 2 CONC e: 2012
 1 _APID 2442
 0 @1XGYR3rbRqOFl7zQNojw@ SOUR
-1 REFN 562372a5-c65d-4a44-bb08-f9460233a9a4
 1 TITL Baptism certification, Mosher, Christopher Alan
 1 AUTH Campbell, John R.
 1 PUBL Pulaski, VA, USA, 1967. In possession of Chris Mosher
-1 TEXT We do certify that according to the ordinance of our Lord Je
-2 CONC sus Christ, we did administer to Christopher Alan Mosher wh
-2 CONC o was born at Radford, Virginia on July 3 A.D. 1966 the Sacr
-2 CONC ament of Holy Baptism with water, in the name of The Father
-2 CONC , and of The Son, and of The Holy Ghost in Christ Episcopa
-2 CONC l Church Pulaski, Virginia on March 9 A.D. 1967 thereby maki
-2 CONC ng him a member of Christ, The Child of God, and an inherito
-2 CONC r of The Kingdom of Heaven. Parents Barry Rexford Mosher Lin
-2 CONC da Disosway Mosher sponsors Robert L. Campbell Edith Campbel
-2 CONC l (signed) John R. Campbell
-0 @S190@ SOUR
-1 REPO @0DlujSAeTb6NOTLsW2c9@
-1 TITL Beta: Newspapers.com Obituary Index, 1940-1955
-1 AUTH Ancestry.com
-1 PUBL Ancestry.com Operations Inc; Location: Lehi, UT, USA; Date
-2 CONC : 2019
-1 _APID 61843
 0 @EnTF7egPSSKWipldCPQE@ SOUR
-1 REFN ce8ab6e4-ee51-4b57-988e-53a51ebc4842
 1 TITL Certificate of birth, Disosway, Linda Marilyn, Number 39487
 1 AUTH Bureau of Vital Records, Department of Health, New York City
 2 CONC , New York, USA
 1 PUBL 23 Dec 1939, Brooklyn, New York, USA
 0 @K5FFKa9wS3KlopARf4Hv@ SOUR
-1 REFN 65ec59ec-0e16-4037-bbbe-d0637e715e6a
 1 TITL Certificate of birth, Mosher, Barry Rexford, Number 60040
 1 AUTH Division of Vital Statistics, Department of Health, New York
 2 CONC , USA
 1 PUBL 3 Sep 1937, Oneida, Madison, New York, USA
 0 @gcVAmmerSkCMVaduj0A2@ SOUR
-1 REFN e9d52f7d-0509-4ea7-97ec-e11a2f2d6ae6
 1 TITL Certificate of birth, Mosher, Christopher Alan, Registratio
 2 CONC n Area 221, Certificate 563, State Birth 145-66-041027
 1 AUTH Bureau of Vital Records and Health Statistics, Department o
 2 CONC f Health, Virginia, USA
 1 PUBL 3 Jul 1966, Radford, Virginia, USA
 0 @ef1cuYhAQVqPjvdZlDsT@ SOUR
-1 REFN 44e91eb3-d239-456e-b586-125cdf2559dd
 1 TITL Commencement Exercises invitation, R.P.I., Troy, NY
 1 PUBL Troy, NY, 1959
-1 TEXT The Class of 1959 requests the honor of your presence at th
-2 CONC e 153rd Commencement Exercises of Rensselaer Polytechnic Ins
-2 CONC titute on Friday, June the fifth at two-fifteen o'clock R.P.
-2 CONC I. Field House Troy, New York
 0 @xjNSiHhuR16SwZ324kGn@ SOUR
-1 REFN c0979f03-dbeb-4337-9744-9a85904a98c4
 1 TITL Confirmation certification, Mosher, Barry Rexford
 1 AUTH Burhans, Samuel F.
 1 PUBL Hamilton, NY, 1949
-1 TEXT Diocese of Central New York In the Name of the Father, and o
-2 CONC f the Son, and of the Holy Ghost. Amen. This is to certify t
-2 CONC hat Barry Rexford Mosher presented by Samuel F Burhans Recto
-2 CONC r received the Apostolic Rite of Laying on of Hands at a Con
-2 CONC firmation held in St. Thomas Church Sunday, Mar. 13, 1949 A.
-2 CONC D. By the Right Reverend [blank,] Bishop
 0 @S192@ SOUR
 1 REPO @0DlujSAeTb6NOTLsW2c9@
 1 TITL Connecticut, Divorce Index, 1968-1997
@@ -816,135 +822,72 @@
 2 CONC e: 2010
 1 _APID 1706
 0 @aB276kklQ569PVvbpaAH@ SOUR
-1 REFN 90e98929-abd9-4442-b36e-027a467e4128
 1 REPO @0DlujSAeTb6NOTLsW2c9@
 1 TITL Connecticut, Marriage Index, 1959-2001
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations Inc; Location: Provo, UT, USA; Date
 2 CONC : 2003
-1 TEXT Connecticut. <i>1959-77 Connecticut Marriage File</i>. Hartf
-2 CONC ord, Connecticut: Connecticut Department of Public Health. <
-2 CONC p>Connecticut. <i>1978-79 Connecticut Marriage File</i>. Har
-2 CONC tford, Connecticut: Connecticut Department of Public Health.
-2 CONC </p><p>Connecticut. <i>1980 Connecticut Marriage File</i>. H
-2 CONC artford, Connecticut: Connecticut Department of Public Healt
-2 CONC h.</p><p>Connecticut. <i>1981-2001 Connecticut Marriage File
-2 CONC </i>. Hartford, Connecticut: Connecticut Department of Publi
-2 CONC c Health.</p>
 0 @2RQpSl9tSPSmNGvcNOQ8@ SOUR
-1 REFN d650b8e1-f23b-4b91-8cf4-95315f79ddd9
 1 TITL Constancia de Matrimonio, James Ray Rapp and Linda D. Mosher
 1 AUTH Oficina del Registro Civil
 1 PUBL Civil Registrar, Juárez, Mexico
-1 TEXT Estados Unidos Mexicanos<br />
-2 CONT Constancia de Matrimonio<br />
-2 CONT Como Juez del Registro Civil de esta Ciudad, hago constar qu
-2 CONC e el día 9 del mes de DICIEMBRE de 1969 siendo las 16 hora
-2 CONC s 30 minutos, contrajeron matrimonio Civil el Sr. JAMES RA
-2 CONC Y RAPP y la SrA. Linda D. Mosher según aparece en el Libr
-2 CONC o de Registro número 478 Folio 73 de la Sección respectiva
-2 CONC <br />
-2 CONT Cd. Juárez, Chih., MEXICO. DIC. 9 de 1969.<br />
-2 CONT El Juez de la Oficina del Registro Civil,<br />
-2 CONT [signature of] LIC, FILIBERTO TERRAZAS
 0 @aiAb56DuR2yGXYVd99WD@ SOUR
-1 REFN 7e02da97-5e5a-4653-a997-6904e2fe897a
 1 TITL Copia Certificada de Sentencia de Divorcio [Mosher, Barry an
 2 CONC d Linda]
 1 AUTH Poder Judicial del Estado de Chihuahua
 1 PUBL First Civil Court, District of Bravos, Chihuahua, Mexico
-1 TEXT ACTA No. 353705
-2 CONT RESOLUCION:
-2 CONT Ciudad Juárez, Chihuahua, a nueve de Diciembre de mil novec
-2 CONC ientos sesenta y nueve [December 9, 1969].
-2 CONT Expediente [File] No. 14023/969
 0 @j3wI0UmkSKKZCsMcrL5O@ SOUR
-1 REFN afa48b6d-3288-4787-aca2-60fe79328ead
 1 TITL Copia Certificada de Sentencia de Divorcio [Rapp, James an
 2 CONC d Neville]
 1 AUTH Poder Judicial del Estado de Chihuahua
 1 PUBL First Civil Court, District of Bravos, Chihuahua, Mexico
-1 TEXT ACTA No. 353703
-2 CONT RESOLUCION:
-2 CONT Ciudad Juárez, Chihuahua, a nueve de Diciembre de mil novec
-2 CONC ientos sesenta y nueve [December 9, 1969].
-2 CONT Expediente [File] No. 14022/969
 0 @2E6d10MOQ5GomThqphXK@ SOUR
-1 REFN 947d04f8-2c6b-4684-879c-947a56af0d0a
 1 TITL Eyewitness
 1 AUTH Mosher, Christopher Alan
 0 @xaxSo2jsSdCj5xwpSVdX@ SOUR
-1 REFN 2f1d980e-3a9e-4575-b5fd-713014ac88b3
 1 REPO @gQwxw1B9RhGzp2DwRpKN@
 1 TITL Facebook
 1 PUBL Facebook; Location: http://www.facebook.com/
-0 @ZGdPfMtpQTeSuwiWOF8U@ SOUR
-1 REFN 38a989fd-9f93-4499-9ef8-3b5e3cc1b7f2
+0 @S48@ SOUR
 1 TITL Interview
 1 AUTH Meece, Nancy
 1 PUBL 17 Feb 2001
-0 @iqZVhadBSeqpuLb9Lvb3@ SOUR
-1 REFN 57b63c45-b0d5-4f27-a9eb-9b3951c4f07e
+0 @S49@ SOUR
 1 TITL Interview
 1 AUTH Meece, Nancy
 1 PUBL 2005-12-27, Lewes, DE
-0 @fzsLPVccTgeiJyfHvlqO@ SOUR
-1 REFN 50f4135e-62df-49fd-b1ad-5e91aa1c3e95
+0 @S50@ SOUR
 1 TITL Interview
 1 AUTH Mosher, Barry Rexford
 1 PUBL 9 Jan 2000, Shelton, CT
-0 @UyP4o9VZRGGPzEtV2LaE@ SOUR
-1 REFN 5ba9bcbd-83b5-4f21-8cfe-5e6e0c97c456
+0 @S51@ SOUR
 1 TITL Interview
 1 AUTH Mosher, Barry Rexford
-0 @ZoYZwUNYTc2TUns9kHv8@ SOUR
-1 REFN 0579c4e0-5053-4a43-9b19-d7378c09a073
+0 @S53@ SOUR
 1 TITL Interview
 1 AUTH Rapp, Linda
 1 PUBL 13 Aug 2003, Lewes, DE
-1 TEXT Linda owned Nut Hut 2211 Concord Pike
-2 CONT c. Aug 1988-May 1997
-2 CONT more paralegal work:
-2 CONT Gary Bryde, Wilm., DE (c.1980-c.1986)
-2 CONT then out of house
-2 CONT then in Hokessen
-2 CONT then for Woloshin and Tenenbaum at Independence Mall, Concor
-2 CONC d Pike, Wilm. (c. 1986-Aug 1988)
-2 CONT then bought Nut Hut
-2 CONT -----------------------------------------------
-2 CONT All New Castle County events were in Brandywine Hundred.
-2 CONT Orchard View is in Kennett Township.
-2 CONT Katsura Drive is in East Marlborough Township.
-0 @ssLWYP08T0aoeJMWIl1a@ SOUR
-1 REFN 56a209e2-a916-4876-8137-7e3c9619a161
+0 @S54@ SOUR
 1 TITL Interview
 1 AUTH Rapp, Linda (Marilyn Disosway)
 1 PUBL 26 Dec 2001
-0 @npa3qRT7TkCArtDFO0vE@ SOUR
-1 REFN 127cabf0-37f7-4dcc-9082-c535fbd5285a
+0 @S55@ SOUR
 1 TITL Interview
 1 AUTH Rapp, Linda [Marilyn Disosway]
 1 PUBL 26 May 2001, Lewes, DE
-0 @UKkwkJWBTMibqjlwzKB3@ SOUR
-1 REFN 9791637f-9654-4db7-9d7e-ee4c2f212cf5
+0 @S56@ SOUR
 1 TITL Interview
 1 AUTH Rapp, Linda [Marilyn Disosway]
-0 @USLOxtsMSzSfir2oCwtG@ SOUR
-1 REFN 6d385b15-1cce-4fdf-9602-8f8993e008ad
+0 @S57@ SOUR
 1 TITL Interview
 1 AUTH Rapp, Perry Russell
 1 PUBL 18 Aug 2000
 0 @IunM8SIdRkiPS2JBPpkx@ SOUR
-1 REFN 3769f65f-f46d-4f5d-aeba-1c0eff6164a4
 1 REPO @0DlujSAeTb6NOTLsW2c9@
 1 TITL Kentucky, Birth Index, 1911-1999
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations Inc.; Location: Provo, UT, USA; Date
 2 CONC : 2006
-1 TEXT Kentucky Department for Libraries and Archives. <i>Kentuck
-2 CONC y Birth, Marriage, and Death Databases: Births 1911-1999</i>
-2 CONC . Frankfort, Kentucky: Kentucky Department for Libraries an
-2 CONC d Archives.
 0 @S193@ SOUR
 1 REPO @0DlujSAeTb6NOTLsW2c9@
 1 TITL Kentucky, Divorce Records, 1962-2005
@@ -960,19 +903,10 @@
 2 CONC : 2005
 1 _APID 8787
 0 @EsvYHeCsTuWS89s4olBY@ SOUR
-1 REFN 067b388e-f1d5-4aa3-a808-c9a0fc4cd026
 1 TITL Marriage Invitation, Mosher, Barry, and Disosway, Linda [tw
 2 CONC o pages]
 1 AUTH Pazmino, Lelia
 1 PUBL In possession of Chris Mosher
-1 TEXT Mrs. Harry Disosway requests the honour of your presence a
-2 CONC t the marriage of her daughter Linda Marilyn to Mr. Barry Re
-2 CONC xford Mosher on Saturday, the twenty-seventh of June Ninetee
-2 CONC n hundred and fifty-nine at two-thirty o'clock The Church o
-2 CONC f the Transfiguration Manhattan, New York<br />
-2 CONT <br />
-2 CONT Reception following the ceremony at the home of the bride 69
-2 CONC 5 East 19th Street Brooklyn, New York
 0 @S181@ SOUR
 1 REPO @0DlujSAeTb6NOTLsW2c9@
 1 TITL New York State, Birth Index, 1881-1942
@@ -994,72 +928,41 @@
 1 PUBL Ancestry.com Operations, Inc.; Location: Lehi, UT, USA; Date
 2 CONC : 2017
 1 _APID 61406
+0 @S195@ SOUR
+1 REPO @0DlujSAeTb6NOTLsW2c9@
+1 TITL Newspapers.com Obituary Index, 1800s-current [database on-li
+2 CONC ne]
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations Inc; Location: Lehi, UT, USA; Date
+2 CONC : 2019
+1 _APID 61843
 0 @9EH2MHqcRta1ZnxRWMox@ SOUR
-1 REFN e1ed4c1a-5615-4033-b8a8-d0bb6520c179
 1 REPO @0DlujSAeTb6NOTLsW2c9@
 1 TITL North Carolina, Birth Indexes, 1800-2000
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations Inc; Location: Provo, UT, USA; Date
 2 CONC : 2005
-1 TEXT Register of Deeds. <i>North Carolina Birth Indexes</i>. Rale
-2 CONC igh, North Carolina: North Carolina State Archives. Microfil
-2 CONC m.
 0 @b1LaFcEgQGCOqgf7QkXQ@ SOUR
 1 TITL photograph, Mosher, Lewis William, and Colvin, Pearl Mae, an
 2 CONC d Descendants, c. 1943
 1 PUBL In possession of Chris Mosher
-1 TEXT <br>
-2 CONT <a href="https://www.flickr.com/photos/mosher/6304968404" ti
-2 CONC tle="Mosher Family"><img src="https://live.staticflickr.com/
-2 CONC 6054/6304968404_0eae4124d3_t.jpg" width="100" height="70" al
-2 CONC t="Mosher Family"></a><br>
 0 @S97@ SOUR
 1 TITL photographs, Mosher, Lewis William, and Colvin, Pearl Mae, a
 2 CONC nd Children and their Spouses, c. 1938
 1 PUBL In possession of Chris Mosher
-1 TEXT <br>
-2 CONT <a href="https://www.flickr.com/photos/mosher/6310845518" ti
-2 CONC tle="William George Mosher and Frederick Colvin Mosher"><im
-2 CONC g src="https://live.staticflickr.com/6233/6310845518_8749cf9
-2 CONC 677_t.jpg" width="56" height="100" alt="William George Moshe
-2 CONC r and Frederick Colvin Mosher"></a>
-2 CONT <a href="https://www.flickr.com/photos/mosher/6310795088" ti
-2 CONC tle="William George Mosher and Frederick Colvin Mosher"><im
-2 CONC g src="https://live.staticflickr.com/6217/6310795088_d532221
-2 CONC 548_t.jpg" width="56" height="100" alt="William George Moshe
-2 CONC r and Frederick Colvin Mosher"></a>
-2 CONT <a href="https://www.flickr.com/photos/mosher/6310230003" ti
-2 CONC tle="Mosher Men"><img src="https://live.staticflickr.com/603
-2 CONC 3/6310230003_8061078653_t.jpg" width="56" height="100" alt="
-2 CONC Mosher Men"></a>
-2 CONT <a href="https://www.flickr.com/photos/mosher/6307230493" ti
-2 CONC tle="Mosher Women"><img src="https://live.staticflickr.com/6
-2 CONC 036/6307230493_c745d57839_t.jpg" width="56" height="100" alt
-2 CONC ="Mosher Women"></a>
-2 CONT <a href="https://www.flickr.com/photos/mosher/6307175085" ti
-2 CONC tle="Mosher Women"><img src="https://live.staticflickr.com/6
-2 CONC 037/6307175085_6807df926c_t.jpg" width="100" height="57" alt
-2 CONC ="Mosher Women"></a><br>
 0 @3JApn7stTVuiBWTPHdBv@ SOUR
-1 REFN d970a9cb-c54b-4116-a6c3-ae3b55bef49a
 1 TITL Rapp, Linda, Interview by Christopher Mosher, 10 Nov 2013
-1 TEXT Rapp, Linda.
-2 CONT 235 Katsura Drive, Kennett Square, Pennsylvania, USA.
-2 CONT Interview by Christopher Mosher, 10 Nov 2013.
-2 CONT Interview.
+1 PUBL Location: 235 Katsura Drive, Kennett Square, Pennsylvania, U
+2 CONC SA.;
 0 @8HX0SZGNTlK4FBeRafN4@ SOUR
-1 REFN f677850b-0640-4da9-b586-3cf17adc0134
 1 TITL Separation Agreement, Mosher, Barry, and Mosher, Linda
 1 AUTH Mosher, Barry and Linda
 1 PUBL In possession of Linda Rapp
-1 TEXT THIS AGREEMENT made this FIRST day of December, 1969, ...
 0 @OB1JYmvoRzSJOHNjFaIq@ SOUR
-1 REFN e33dc74f-adf6-48bf-a16b-74dcacdcd979
 1 TITL Social Security Card, Mosher, Holly Anne
 1 AUTH U Social Security Administration
 1 PUBL In possession of Chris Mosher
 0 @lvk9SOz7S3G3fa5SjvbK@ SOUR
-1 REFN b4dfafbf-6edf-4e0e-a1e7-dee7351c775d
 1 REPO @0DlujSAeTb6NOTLsW2c9@
 1 TITL U.S. City Directories, 1821-1989
 1 AUTH Ancestry.com
@@ -1087,6 +990,13 @@
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2010
 1 _APID 1732
+0 @S194@ SOUR
+1 REPO @0DlujSAeTb6NOTLsW2c9@
+1 TITL U.S., Obituary Collection, 1930-Current
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations Inc; Location: Lehi, UT, USA; Date
+2 CONC : 2006
+1 _APID 7545
 0 @S175@ SOUR
 1 REPO @0DlujSAeTb6NOTLsW2c9@
 1 TITL U.S., School Yearbooks, 1900-1999
@@ -1095,7 +1005,6 @@
 2 CONC e: 2010
 1 _APID 1265
 0 @IvLO8rI1TCyDR6vNjBQC@ SOUR
-1 REFN 16f91340-d8c2-400b-8220-1b633ceefd73
 1 TITL Up Date Addresses B. Mosher
 1 AUTH Mosher, Barry Rexford
 1 PUBL 14 Feb 2000, in possession of Chris Mosher.
@@ -1155,7 +1064,6 @@
 2 CONT [this in one of the automobiles he owns:]<br />
 2 CONT 1967 Austin Healey 3000 VIN HBJ8L 36775<br />
 0 @CskdzWVyR6OZH7fynyWt@ SOUR
-1 REFN 4a3fae35-a597-4d42-b9c9-cca892eef2e0
 1 REPO @0DlujSAeTb6NOTLsW2c9@
 1 TITL Virginia, Birth Records, 1864-2014
 1 AUTH Ancestry.com
