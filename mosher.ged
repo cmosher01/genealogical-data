@@ -14,9 +14,9 @@
 4 CONT Boston, MA 02109
 3 PHON (617) 227-6681
 1 DEST FTM
-1 FILE Mosher_2020-06-17-02-13-34.ftm.ged
+1 FILE Mosher_2020-06-17-03-48-03.ftm.ged
 1 DATE 17 JUN 2020
-2 TIME 02:14:12
+2 TIME 03:48:33
 0 @Umy2qBWIRUiwVSS6Hcn4@ SUBM
 1 NAME Christopher Alan Mosher
 2 EMAIL cmosher01@@gmail.com
@@ -180,7 +180,7 @@
 1 FAMC @mxADF6KYSpCLui4fx6QN@
 1 FAMS @cA5xngzbT8ChiJzp3j6V@
 1 BIRT
-2 DATE BET 23 JUN 1591 AND 22 JUN 1592
+2 DATE ABT 1591
 2 PLAC Wherwell, Hampshire, England
 3 MAP
 4 LATI N51.15
@@ -188,7 +188,7 @@
 2 SOUR @DmaIWlgWS4Kg0oXBWhrJ@
 3 QUAY 1
 1 IMMI
-2 DATE FROM 09 MAR 1632 TO 05 JUN 1632
+2 DATE ABT APR 1632
 2 PLAC Boston, Suffolk, Massachusetts, USA
 3 MAP
 4 LATI N42.3583
@@ -197,7 +197,7 @@
 3 QUAY 1
 2 NOTE on ship "William and Francis"
 1 DEAT
-2 DATE BET 1655 AND 1680
+2 DATE ABT 1660
 2 PLAC Yarmouth, Barnstable, Massachusetts, USA
 3 MAP
 4 LATI N41.7057
@@ -225,7 +225,7 @@
 2 SOUR @vUfwiDpgS1aE7Bg8SoG8@
 3 QUAY 1
 1 DEAT
-2 DATE BEF 04 MAY 1647
+2 DATE ABT 1646
 2 SOUR @vUfwiDpgS1aE7Bg8SoG8@
 3 QUAY 1
 1 _GUID aafdd759-3339-47e0-8a22-bcc72bf3b374
@@ -300,7 +300,7 @@
 2 SOUR @GtclANoWREmborUeOAiA@
 3 QUAY 1
 1 RELI vicar of Holy Cross and Saint Peter
-2 DATE FROM 17 JUL 1587 TO 09 AUG 1605
+2 DATE 17 JUL 1587
 2 PLAC Wherwell, Hampshire, England
 3 MAP
 4 LATI N51.15
@@ -317,7 +317,7 @@
 2 SOUR @GtclANoWREmborUeOAiA@
 3 QUAY 1
 1 IMMI
-2 DATE FROM 09 MAR 1632 TO 05 JUN 1632
+2 DATE 09 MAR 1632
 2 PLAC Boston, Suffolk, Massachusetts, USA
 3 MAP
 4 LATI N42.3583
@@ -3719,7 +3719,7 @@
 2 SOUR @DmaIWlgWS4Kg0oXBWhrJ@
 3 QUAY 1
 1 DEAT
-2 DATE AFT 1731
+2 DATE ABT 1735
 2 PLAC Sandwich, Barnstable, Massachusetts, USA
 3 MAP
 4 LATI N41.759
@@ -4020,6 +4020,7 @@
 1 BIRT
 2 DATE ABT JUN 1627
 2 SOUR @91JIXBEJQz6bVLkVlmAF@
+2 NOTE __
 1 CHR
 2 DATE 23 JUN 1627
 2 PLAC Cotesbach, Leicestershire, England
@@ -8928,7 +8929,6 @@
 4 LATI N52.2
 4 LONG E0.1167
 2 SOUR @91JIXBEJQz6bVLkVlmAF@
-2 NOTE date is just a guess
 1 DEAT
 2 DATE 1661
 2 PLAC Portsmouth, Newport, Rhode Island, USA
@@ -9976,7 +9976,7 @@
 3 CONT 1884 (obit): aged 63
 3 CONT assume 25,35,45,55,69 respectively
 1 RESI
-2 DATE FROM 1846 TO 1848
+2 DATE ABT 1847
 2 PLAC Corning, Steuben, New York, USA
 3 MAP
 4 LATI N42.1429
@@ -11095,7 +11095,7 @@
 1 SEX M
 1 FAMS @tP1xpbKWR0Wcxp8WtEkn@
 1 BIRT
-2 DATE ABT 1780
+2 DATE ABT 1785
 2 PLAC New York, USA
 3 MAP
 4 LATI N42.7531
@@ -11573,7 +11573,7 @@
 3 _APID 7836:792892
 2 NOTE Descendants of Hugh Mosher (revised) gives 10 Aug 1710
 1 DEAT
-2 DATE BEF 1753
+2 DATE ABT 1752
 2 SOUR @H9NsrdLJQZi4I3umdlYg@
 3 PAGE p. 16
 3 QUAY 1
@@ -11710,7 +11710,6 @@
 2 PLAC of Salisbury, Essex, Massachusetts, United States
 2 SOUR @S366@
 3 _APID 9289:8141549
-2 NOTE date is just a guess
 1 EVEN
 2 TYPE signed Bradbury petition
 2 DATE 1692
@@ -11963,7 +11962,7 @@
 2 SOUR @S366@
 3 _APID 9289:8142446
 1 RESI
-2 DATE BET 1703 AND 1707
+2 DATE ABT 1705
 2 PLAC Dartmouth, Bristol, Massachusetts, USA
 3 MAP
 4 LATI N41.6282
@@ -12083,7 +12082,7 @@
 1 FAMC @LlcJAdH6T26e0JPuLaxN@
 1 FAMS @cYd5V1CvQvmlIvrdsmMQ@
 1 BIRT
-2 DATE MAR 1639
+2 DATE ABT 1639
 2 PLAC Portsmouth, Newport, Rhode Island, USA
 3 MAP
 4 LATI N41.6023
@@ -12595,7 +12594,7 @@
 1 SEX M
 1 FAMS @qj7Sa6FVQPC1ks066NyF@
 1 BIRT
-2 DATE ABT 1586
+2 DATE ABT 1590
 2 PLAC England
 3 MAP
 4 LATI N52.5898
@@ -19358,31 +19357,9 @@
 3 _APID 4725:3371792
 1 _GUID 3cc42edd-fe02-4fc1-a4e5-35eb9fb8d2d0
 1 _XY 6100.00 875.00
-0 @mA2YIDapRtaPagcn2TNv@ INDI
-1 REFN 9a80b461-60a9-4dfe-bfdb-8a646315ca4c
-1 NAME Benjamin /Mosher/
-1 SEX M
-1 FAMC @2dxXpLYQSwmEGrrODfqQ@
-1 BIRT
-2 DATE 1784
-2 PLAC Dutchess, New York, USA
-3 MAP
-4 LATI N41.7645
-4 LONG W73.7472
-2 SOUR @cHqs3hdITfGhgYkNTQzb@
-2 NOTE Canada? (see note regarding 1850 census) (or Canadice, Ontar
-3 CONC io Co., NY???? just a far fetched guess)
-1 DEAT
-2 DATE 1817
-2 PLAC Saratoga, New York, USA
-3 MAP
-4 LATI N43.1059
-4 LONG W73.8677
-1 _GUID fc745b62-b71f-49c5-bf2a-a4b62ae4ba76
-1 _XY 7375.00 1375.00
 0 @SmVULPdXTq2vvPtzzJiX@ INDI
 1 REFN 2fb7dc24-a1de-4f53-a151-1d3987a6e037
-1 NAME Benjamin /Mosher/ Junior
+1 NAME Benjamin /Mosher/
 1 SEX M
 1 FAMC @OCH2zFVDRhC5fcvAXv4n@
 1 BIRT
@@ -19405,6 +19382,28 @@
 3 QUAY 1
 1 _GUID 9ed40988-623c-412a-b45b-2cdd5e7a7bd1
 1 _XY 6725.00 1075.00
+0 @mA2YIDapRtaPagcn2TNv@ INDI
+1 REFN 9a80b461-60a9-4dfe-bfdb-8a646315ca4c
+1 NAME Benjamin /Mosher/
+1 SEX M
+1 FAMC @2dxXpLYQSwmEGrrODfqQ@
+1 BIRT
+2 DATE 1784
+2 PLAC Dutchess, New York, USA
+3 MAP
+4 LATI N41.7645
+4 LONG W73.7472
+2 SOUR @cHqs3hdITfGhgYkNTQzb@
+2 NOTE Canada? (see note regarding 1850 census) (or Canadice, Ontar
+3 CONC io Co., NY???? just a far fetched guess)
+1 DEAT
+2 DATE 1817
+2 PLAC Saratoga, New York, USA
+3 MAP
+4 LATI N43.1059
+4 LONG W73.8677
+1 _GUID fc745b62-b71f-49c5-bf2a-a4b62ae4ba76
+1 _XY 7375.00 1375.00
 0 @I517@ INDI
 1 REFN f9a6b658-f4c8-4407-aa6c-b9d2d2a0daa5
 1 NAME Betsa Gertrude /Mosher/
@@ -21447,7 +21446,7 @@
 3 CONC d of House: Brother
 1 EVEN
 2 TYPE admitted to hospital
-2 DATE BET 1880 AND 20 MAY 1893
+2 DATE ABT 1885
 2 PLAC State Hospital, Binghamton, Broome, New York, USA
 2 SOUR @f3SzqVExRXm5SkzzgqM3@
 3 QUAY 2
@@ -21507,7 +21506,7 @@
 2 NOTE 8:30 AM, of tuberculosis, at his sister Eliza's residence i
 3 CONC n "South Hamilton"
 1 BURI
-2 DATE ABT 16 MAY 1910
+2 DATE 14 MAY 1910
 2 PLAC Hamilton Center Cemetery, Hamilton Center, Madison, NYew Yor
 3 CONC k USA
 2 SOUR @rRk1DHyqTYCh37E1vcAF@
@@ -21842,7 +21841,7 @@
 3 PAGE p. 57
 3 QUAY 1
 1 DEAT
-2 DATE BET 1810 AND 1820
+2 DATE ABT 1815
 2 PLAC Stratford, Fulton, New York, USA
 3 MAP
 4 LATI N43.1799
@@ -25041,7 +25040,7 @@
 3 QUAY 1
 2 NOTE place from IGI
 1 DEAT
-2 DATE BEF 07 MAY 1754
+2 DATE ABT 05 MAY 1754
 2 PLAC Dartmouth, Bristol, Massachusetts, USA
 3 MAP
 4 LATI N41.6282
@@ -28170,7 +28169,6 @@
 1 FAMS @7wuNUgZ8QuOUwTAaTwWM@
 1 BIRT
 2 DATE ABT 1685
-2 NOTE a guess
 1 _GUID a961dc5d-1659-4592-ab21-c97c71b97e83
 1 _XY 6120 749
 0 @fp9bvhz6SbKxRdlOsnjL@ INDI
@@ -28216,7 +28214,7 @@
 3 OBJE @ZIjn0V7XQYuVR3HR3QPs@
 3 _APID 2495:80622783
 1 DEAT
-2 DATE BET 22 FEB 1753 AND 27 MAY 1754
+2 DATE ABT 1753
 2 SOUR @CNCZKGpeSrKJ6BUTT9Hu@
 3 PAGE pp. 6-7
 3 QUAY 1
@@ -28471,14 +28469,13 @@
 1 FAMC @FpSmj7eiSECEkyexIYXl@
 1 BIRT
 2 DATE ABT 1666
-2 PLAC Westerly, Washington, Rhode Island, USA
+2 PLAC Newport, Newport, Rhode Island, USA
 3 MAP
-4 LATI N41.3776
-4 LONG W71.8273
+4 LATI N41.4901
+4 LONG W71.3129
 2 SOUR @CNCZKGpeSrKJ6BUTT9Hu@
 3 PAGE p. 4
 3 QUAY 1
-2 NOTE (Westerly assumed from father's residence)
 1 DEAT
 2 DATE 14 AUG 1747
 2 PLAC Tiverton, Newport, Rhode Island, USA
@@ -29297,7 +29294,7 @@
 3 OBJE @z5CTZyqtSHCB9mNsT6AI@
 3 _APID 2495:80622832
 1 DEAT
-2 DATE BET 1790 AND 1800
+2 DATE ABT 1795
 2 PLAC Dartmouth, Bristol, Massachusetts, USA
 3 MAP
 4 LATI N41.6282
@@ -33351,7 +33348,6 @@
 4 LATI N50.6667
 4 LONG W3.6833
 2 SOUR @91JIXBEJQz6bVLkVlmAF@
-2 NOTE date is just a guess
 1 DEAT
 2 DATE 01 JAN 1673
 2 PLAC Dartmouth, Bristol, Massachusetts, USA
@@ -35329,7 +35325,7 @@
 3 QUAY 3
 2 NOTE as "Phillip Shearman"
 1 TITL Secretary of Portsmouth
-2 DATE FROM 01 JUL 1639
+2 DATE 01 JUL 1639
 2 PLAC Portsmouth, Newport, Rhode Island, USA
 3 MAP
 4 LATI N41.6023
@@ -39841,7 +39837,7 @@
 2 SOUR @DmaIWlgWS4Kg0oXBWhrJ@
 3 QUAY 1
 1 IMMI
-2 DATE FROM 09 MAR 1632 TO 05 JUN 1632
+2 DATE 09 MAR 1632
 2 PLAC Boston, Suffolk, Massachusetts, USA
 3 MAP
 4 LATI N42.3583
