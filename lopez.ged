@@ -14,9 +14,9 @@
 4 CONT Boston, MA 02109
 3 PHON (617) 227-6681
 1 DEST FTM
-1 FILE Lopez_2020-06-13-00-53-44.ftm.ged
-1 DATE 13 JUN 2020
-2 TIME 01:15:26
+1 FILE Lopez_2020-06-17-04-11-58.ftm.ged
+1 DATE 17 JUN 2020
+2 TIME 04:12:17
 0 @Umy2qBWIRUiwVSS6Hcn4@ SUBM
 1 NAME Christopher Alan Mosher
 2 EMAIL cmosher01@@gmail.com
@@ -187,7 +187,7 @@
 3 _APID 61778:61712701
 2 SOUR @S94@
 1 TITL Comendador del Convento
-2 DATE FROM 1861 TO 1864
+2 DATE 1861
 2 PLAC Iglesia de la Merced [Church of Mercy], Calle Chile y Call
 3 CONC e Cuenca, Quito, Pichincha, Ecuador
 3 MAP
@@ -195,6 +195,13 @@
 4 LONG W78.5139
 2 SOUR @S69@
 3 PAGE p. 139
+3 QUAY 1
+1 EVEN
+2 TYPE blessed
+2 DATE 21 APR 1872
+2 PLAC Cementerio de San Diego, Imbabura 119, Quito, Pichincha, Ecu
+3 CONC ador
+2 SOUR @S70@
 3 QUAY 1
 1 OCCU priest
 2 PLAC Iglesia de la Merced [Church of Mercy], Calle Chile y Call
@@ -212,13 +219,6 @@
 4 LATI S0.2166
 4 LONG W78.5163
 2 SOUR @S94@
-1 EVEN
-2 TYPE blessed
-2 DATE 21 APR 1872
-2 PLAC Cementerio de San Diego, Imbabura 119, Quito, Pichincha, Ecu
-3 CONC ador
-2 SOUR @S70@
-3 QUAY 1
 1 _GUID 715aa8dd-2d05-4764-bf8f-20131c9d569b
 1 _XY 1625 1312
 0 @I48@ INDI
@@ -715,11 +715,11 @@
 4 CONC fore 1951
 3 _APID 3693:11529685
 2 SOUR @EVQKUqUsRpSjkR6xDfl1@
-3 PAGE The National Archives at St. Louis; St. Louis, Missouri; Dra
-4 CONC ft Registration Cards for Fourth Registration for California
-4 CONC , 04/27/1942 - 04/27/1942; NAI Number: 603155; Record Grou
-4 CONC p Title: Records of the Selective Service System; Record Gro
-4 CONC up Number: 147
+3 PAGE National Archives at St. Louis; St. Louis, Missouri; Draft R
+4 CONC egistration Cards for Fourth Registration for California, 04
+4 CONC /27/1942 - 04/27/1942; NAI Number: 603155; Record Group Titl
+4 CONC e: Records of the Selective Service System; Record Group Num
+4 CONC ber: 147
 3 OBJE @EOe2npVwTmSO4dZ7UaOt@
 3 _APID 1002:13600737
 2 SOUR @WyAcKDcLTWqt25ov9LYE@
@@ -758,11 +758,11 @@
 4 CONC fore 1951
 3 _APID 3693:11529685
 2 SOUR @EVQKUqUsRpSjkR6xDfl1@
-3 PAGE The National Archives at St. Louis; St. Louis, Missouri; Dra
-4 CONC ft Registration Cards for Fourth Registration for California
-4 CONC , 04/27/1942 - 04/27/1942; NAI Number: 603155; Record Grou
-4 CONC p Title: Records of the Selective Service System; Record Gro
-4 CONC up Number: 147
+3 PAGE National Archives at St. Louis; St. Louis, Missouri; Draft R
+4 CONC egistration Cards for Fourth Registration for California, 04
+4 CONC /27/1942 - 04/27/1942; NAI Number: 603155; Record Group Titl
+4 CONC e: Records of the Selective Service System; Record Group Num
+4 CONC ber: 147
 3 OBJE @EOe2npVwTmSO4dZ7UaOt@
 3 _APID 1002:13600737
 2 SOUR @WyAcKDcLTWqt25ov9LYE@
@@ -818,11 +818,11 @@
 2 PLAC 907 North Bedford Drive, Beverly Hills, Los Angeles, Califor
 3 CONC nia, USA
 2 SOUR @EVQKUqUsRpSjkR6xDfl1@
-3 PAGE The National Archives at St. Louis; St. Louis, Missouri; Dra
-4 CONC ft Registration Cards for Fourth Registration for California
-4 CONC , 04/27/1942 - 04/27/1942; NAI Number: 603155; Record Grou
-4 CONC p Title: Records of the Selective Service System; Record Gro
-4 CONC up Number: 147
+3 PAGE National Archives at St. Louis; St. Louis, Missouri; Draft R
+4 CONC egistration Cards for Fourth Registration for California, 04
+4 CONC /27/1942 - 04/27/1942; NAI Number: 603155; Record Group Titl
+4 CONC e: Records of the Selective Service System; Record Group Num
+4 CONC ber: 147
 3 OBJE @EOe2npVwTmSO4dZ7UaOt@
 3 _APID 1002:13600737
 1 EVEN
@@ -2301,10 +2301,10 @@
 5 CONC 892&pid=158
 1 SEX M
 1 FAMC @F51@
-1 BIRT
-2 PLAC Santiago de Cali, Valle del Cauca, Colombia
 1 DEAT
 2 DATE BEF 1675
+1 BIRT
+2 PLAC Santiago de Cali, Valle del Cauca, Colombia
 1 _GUID 167f55f0-313d-431b-9cdb-5a57978768b0
 1 _XY 6713 707
 0 @I295@ INDI
@@ -2976,11 +2976,6 @@
 3 CONC , USA
 2 SOUR @S85@
 3 _APID 1788:305122408
-1 SSN 092-32-0504
-2 SOUR @GFCLw2yOQvibba3edsSE@
-3 PAGE Number: 092-32-0504; Issue State: New York; Issue Date: 1957
-4 CONC -1958
-3 _APID 3693:16628194
 1 RESI
 2 DATE ABT 1992
 2 PLAC 61 Hartford Street, San Francisco, San Francisco, California
@@ -2998,6 +2993,11 @@
 3 _APID 5180:1989561
 2 SOUR @S2fyUKW7QvupWtUQHBOs@
 3 _APID 60901:42563824
+2 SOUR @GFCLw2yOQvibba3edsSE@
+3 PAGE Number: 092-32-0504; Issue State: New York; Issue Date: 1957
+4 CONC -1958
+3 _APID 3693:16628194
+1 SSN 092-32-0504
 2 SOUR @GFCLw2yOQvibba3edsSE@
 3 PAGE Number: 092-32-0504; Issue State: New York; Issue Date: 1957
 4 CONC -1958
@@ -3368,13 +3368,13 @@
 5 CONC 892&pid=138
 1 SEX F
 1 FAMS @F59@
+1 DEAT
+2 DATE BEF MAY 1594
 1 BIRT
 2 PLAC El Barco de Ávila, Avila, Castilla-Leon, Spain
 3 MAP
 4 LATI N40.35
 4 LONG W5.5167
-1 DEAT
-2 DATE BEF MAY 1594
 1 _GUID 056bbc08-8443-4531-908f-fb0b81916931
 1 _XY 8869 222
 0 @I163@ INDI
@@ -3403,13 +3403,13 @@
 5 CONC 892&pid=139
 1 SEX M
 1 FAMS @F59@
+1 DEAT
+2 DATE BEF MAY 1594
 1 BIRT
 2 PLAC El Barco de Ávila, Avila, Castilla-Leon, Spain
 3 MAP
 4 LATI N40.35
 4 LONG W5.5167
-1 DEAT
-2 DATE BEF MAY 1594
 1 _GUID 4bac35d7-9a59-42bb-8e93-95a7928f0ac5
 1 _XY 8758 222
 0 @I161@ INDI
@@ -3500,15 +3500,15 @@
 3 _APID 1144:9373192
 2 SOUR @S2fyUKW7QvupWtUQHBOs@
 3 _APID 60901:22888456
+1 DEAT murdered
+2 DATE 15 SEP 1989
+2 SOUR @S2fyUKW7QvupWtUQHBOs@
+3 _APID 60901:22888456
 1 RESI
 2 PLAC Petaluma, Sonoma, California, USA
 3 MAP
 4 LATI N38.2324
 4 LONG W122.6366
-1 DEAT murdered
-2 DATE 15 SEP 1989
-2 SOUR @S2fyUKW7QvupWtUQHBOs@
-3 _APID 60901:22888456
 1 _GUID b4bc77db-6f8d-4c2b-816d-f1e17afe8e14
 1 _PHOTO @M90@
 0 @I228@ INDI
@@ -3726,27 +3726,6 @@
 2 SOUR @S102@
 3 _APID 70833:44019
 1 RESI
-2 PLAC Chino, San Bernardino, California, USA
-3 MAP
-4 LATI N34.0122
-4 LONG W117.689
-2 SOUR @S61@
-3 _APID 1732:376663750
-1 RESI
-2 PLAC Cerritos, Los Angeles, California, USA
-3 MAP
-4 LATI N33.8583
-4 LONG W118.0648
-2 SOUR @S85@
-3 _APID 1788:251033226
-1 RESI
-2 PLAC Newport Beach, Orange, California, USA
-3 MAP
-4 LATI N33.6189
-4 LONG W117.929
-2 SOUR @S85@
-3 _APID 1788:251033226
-1 RESI
 2 DATE 1987
 2 PLAC San Juan Capistrano, Orange, California, USA
 3 MAP
@@ -3773,6 +3752,27 @@
 3 _APID 3693:83050564
 2 SOUR @S102@
 3 _APID 70833:44019
+1 RESI
+2 PLAC Chino, San Bernardino, California, USA
+3 MAP
+4 LATI N34.0122
+4 LONG W117.689
+2 SOUR @S61@
+3 _APID 1732:376663750
+1 RESI
+2 PLAC Cerritos, Los Angeles, California, USA
+3 MAP
+4 LATI N33.8583
+4 LONG W118.0648
+2 SOUR @S85@
+3 _APID 1788:251033226
+1 RESI
+2 PLAC Newport Beach, Orange, California, USA
+3 MAP
+4 LATI N33.6189
+4 LONG W117.929
+2 SOUR @S85@
+3 _APID 1788:251033226
 1 _GUID 3d3ecee7-9412-465b-ac89-0a9d4288dc63
 0 @I231@ INDI
 1 NAME [REDACTED]
@@ -4013,13 +4013,6 @@
 4 CONC ; New York City, New York; New York City Death Certificates
 3 _APID 61778:76712701
 2 SOUR @S94@
-1 RESI
-2 PLAC Calle del Cebollar [Onion Patch Street], Quito, Pichincha, E
-3 CONC cuador
-3 MAP
-4 LATI S0.2166
-4 LONG W78.5163
-2 SOUR @S94@
 1 DEAT
 2 DATE 1872
 2 PLAC Quito, Pichincha, Ecuador
@@ -4069,6 +4062,13 @@
 5 CONT On the other side: the stable of Mr. Luis Rivadeneira.]
 3 _LINK http://www.patrimonio.quito.gob.ec/index.php/centro-document
 4 CONC al/fondo-editorial?id=303
+1 RESI
+2 PLAC Calle del Cebollar [Onion Patch Street], Quito, Pichincha, E
+3 CONC cuador
+3 MAP
+4 LATI S0.2166
+4 LONG W78.5163
+2 SOUR @S94@
 1 _GUID 7d366650-ba53-4e6e-b501-736a007d012b
 1 _XY 2003 1353
 0 @MXy97gGiR8OdDYExTOv7@ INDI
@@ -4198,11 +4198,6 @@
 3 OBJE @M34@
 3 _APID 7364:1517653
 2 NOTE Relationship to Head: Daughter
-1 SSN 099-10-6893
-2 SOUR @a1r7XFsISaCymdVb2Acn@
-3 QUAY 3
-2 NOTE show as Dolores Zilker (I am just assuming that this is righ
-3 CONC t Dolores, because birth and death dates match)
 1 RESI
 2 DATE 1910
 2 PLAC Brooklyn, Kings, New York, USA
@@ -4304,6 +4299,11 @@
 3 PAGE Number: 099-10-6893; Issue State: New York; Issue Date: Befo
 4 CONC re 1951
 3 _APID 3693:69779249
+1 SSN 099-10-6893
+2 SOUR @a1r7XFsISaCymdVb2Acn@
+3 QUAY 3
+2 NOTE show as Dolores Zilker (I am just assuming that this is righ
+3 CONC t Dolores, because birth and death dates match)
 1 _GUID 2e8d8185-baee-4f7b-a44c-d71eb6b6f0ad
 1 _XY 3872 1989
 1 _PHOTO @M135@
@@ -7455,9 +7455,6 @@
 2 PLAC 6 Agate Court, Brooklyn, Kings, New York, USA
 2 SOUR @6aqPLR14TiS7VI3rS1TL@
 3 QUAY 3
-1 EVEN
-2 TYPE note
-2 NOTE she remained a citizen of Ecuador her whole life
 1 RESI
 2 DATE JUN 1900
 2 PLAC 6 Agate Court, Brooklyn, Kings, New York, USA
@@ -7627,6 +7624,9 @@
 3 QUAY 1
 3 OBJE @M77@
 2 SOUR @JHSV9E06RcWH5gFPri09@
+1 EVEN
+2 TYPE note
+2 NOTE she remained a citizen of Ecuador her whole life
 1 _GUID 97deb044-dcb1-4a2f-9f13-57b2bf505cef
 1 _XY 1936 1972
 1 _PHOTO @M160@
@@ -8385,9 +8385,6 @@
 3 _APID 7884:119643626
 2 NOTE Age in 1910: 0; Age in 1910: 11/12; Marital Status: Single
 3 CONC ; Relation to Head of House: Grandson
-1 SSN 055-09-1749
-2 SOUR @a1r7XFsISaCymdVb2Acn@
-3 QUAY 3
 1 RESI
 2 DATE 01 JUN 1915
 2 PLAC Brooklyn, Kings, New York, USA
@@ -8527,6 +8524,9 @@
 3 _APID 60525:681567
 2 SOUR @S112@
 3 _APID 70572:589184
+1 SSN 055-09-1749
+2 SOUR @a1r7XFsISaCymdVb2Acn@
+3 QUAY 3
 1 _GUID 293cdc3f-5d9a-4431-85c6-be25c7d7701a
 1 _XY 1176 2166
 0 @j1yCKUy8RY2O8Xjdk7B7@ INDI
@@ -8784,14 +8784,14 @@
 2 SOUR @S94@
 1 SEX F
 1 FAMC @F62@
-1 BIRT
+1 DEAT
+2 DATE 1943
 2 PLAC Quito, Pichincha, Ecuador
 3 MAP
 4 LATI S0.2167
 4 LONG W78.5
 2 SOUR @S94@
-1 DEAT
-2 DATE 1943
+1 BIRT
 2 PLAC Quito, Pichincha, Ecuador
 3 MAP
 4 LATI S0.2167
@@ -9558,11 +9558,6 @@
 2 SOUR @S124@
 3 QUAY 3
 2 NOTE Lived with daughter Linda and her husband Barry Mosher
-1 RESI
-2 PLAC Brentwood Road, Brooklyn, Kings, New York, USA
-1 RESI
-2 PLAC Avenue I (at East 29th Street), Brooklyn, Kings, New York, U
-3 CONC SA
 1 DEAT
 2 DATE 23 JUL 1960
 2 PLAC Harvard, Worcester, Massachusetts, USA
@@ -9579,6 +9574,11 @@
 2 PLAC Woodlawn Cemetery, Ayer, Middlesex, Massachusetts, USA
 2 SOUR @S124@
 3 QUAY 2
+1 RESI
+2 PLAC Brentwood Road, Brooklyn, Kings, New York, USA
+1 RESI
+2 PLAC Avenue I (at East 29th Street), Brooklyn, Kings, New York, U
+3 CONC SA
 1 _GUID d789c6d3-7932-41a8-a092-8f7ea35dee8c
 1 _XY 529 2166
 0 @I259@ INDI
@@ -9868,14 +9868,14 @@
 2 SOUR @S94@
 1 SEX F
 1 FAMC @F62@
-1 BIRT
+1 DEAT
+2 DATE 1957
 2 PLAC Quito, Pichincha, Ecuador
 3 MAP
 4 LATI S0.2167
 4 LONG W78.5
 2 SOUR @S94@
-1 DEAT
-2 DATE 1957
+1 BIRT
 2 PLAC Quito, Pichincha, Ecuador
 3 MAP
 4 LATI S0.2167
@@ -10102,10 +10102,6 @@
 3 OBJE @M120@
 3 _APID 6482:12000565
 2 NOTE date agrees with SSDI
-1 BAPM
-2 SOUR @7hzCF6rURECkbdc8IJaU@
-3 QUAY 1
-2 NOTE godfather was Eloy Alfaro
 1 RESI
 2 DATE 1900
 2 PLAC Brooklyn, Kings, New York, USA
@@ -10175,55 +10171,6 @@
 3 _APID 7884:119643622
 2 NOTE Age in 1910: 10; Marital Status: Single; Relation to Head o
 3 CONC f House: Grandson
-1 EVEN
-2 TYPE NaturalizationDeclaration
-2 DATE 15 NOV 1922
-2 PLAC New York, USA
-3 MAP
-4 LATI N42.7531
-4 LONG W74.2224
-2 SOUR @S87@
-3 PAGE NARA; Washington, DC; NAI Title: Index to Petitions for Natu
-4 CONC ralizations Filed in Federal, State, and Local Courts in Ne
-4 CONC w York City, 1792-1906; NAI 5700802; RG "Records of Distric
-4 CONC t Courts of the United States, 1685-2009"; RG 21; 15 Nov 192
-4 CONC 2
-3 OBJE @M70@
-3 _APID 2280:3792382
-2 SOUR @S131@
-3 PAGE National Archives and Records Administration (NARA); Washing
-4 CONC ton, D.C.; Index to Naturalization Petitions of the United S
-4 CONC tates District Court for the Eastern District of New York, 1
-4 CONC 865-1957; Microfilm Serial: M1164; Microfilm Roll: 104
-3 OBJE @M122@
-3 _APID 1192:92084
-1 EVEN
-2 TYPE NaturalizationPetition
-2 DATE 14 DEC 1925
-2 PLAC New York, New York, USA
-3 MAP
-4 LATI N40.7744
-4 LONG W73.9721
-2 SOUR @S87@
-3 PAGE NARA; Washington, DC; NAI Title: Index to Petitions for Natu
-4 CONC ralizations Filed in Federal, State, and Local Courts in Ne
-4 CONC w York City, 1792-1906; NAI 5700802; RG "Records of Distric
-4 CONC t Courts of the United States, 1685-2009"; RG 21; 14 Dec 192
-4 CONC 5
-3 OBJE @M123@
-3 _APID 2280:3358634
-2 SOUR @S165@
-3 PAGE National Archives and Records Administration (NARA), Washing
-4 CONC ton D.C.; Petitions for Naturalization of the U.S. Distric
-4 CONC t Court for the Eastern District of New York, 1865-1937; NAR
-4 CONC A Series: M1879; Reference: (Roll 313) Petition No 53151 - P
-4 CONC etition No 53500
-3 OBJE @M197@
-3 _APID 1554:3358634
-1 EVEN 054-07-0241
-2 TYPE Event
-2 SOUR @a1r7XFsISaCymdVb2Acn@
-3 QUAY 3
 1 RESI
 2 DATE 01 JUN 1915
 2 PLAC Brooklyn, Kings, New York, USA
@@ -10250,6 +10197,28 @@
 3 _APID 6061:85922397
 2 NOTE Age: 20; Marital Status: Single; Relation to Head of House
 3 CONC : Son
+1 EVEN
+2 TYPE NaturalizationDeclaration
+2 DATE 15 NOV 1922
+2 PLAC New York, USA
+3 MAP
+4 LATI N42.7531
+4 LONG W74.2224
+2 SOUR @S87@
+3 PAGE NARA; Washington, DC; NAI Title: Index to Petitions for Natu
+4 CONC ralizations Filed in Federal, State, and Local Courts in Ne
+4 CONC w York City, 1792-1906; NAI 5700802; RG "Records of Distric
+4 CONC t Courts of the United States, 1685-2009"; RG 21; 15 Nov 192
+4 CONC 2
+3 OBJE @M70@
+3 _APID 2280:3792382
+2 SOUR @S131@
+3 PAGE National Archives and Records Administration (NARA); Washing
+4 CONC ton, D.C.; Index to Naturalization Petitions of the United S
+4 CONC tates District Court for the Eastern District of New York, 1
+4 CONC 865-1957; Microfilm Serial: M1164; Microfilm Roll: 104
+3 OBJE @M122@
+3 _APID 1192:92084
 1 RESI
 2 DATE 01 JUN 1925
 2 PLAC Brooklyn, Kings, New York, USA
@@ -10263,6 +10232,29 @@
 3 OBJE @M37@
 3 _APID 2704:18252567
 2 NOTE Age: 25; Relation to Head of House: Son
+1 EVEN
+2 TYPE NaturalizationPetition
+2 DATE 14 DEC 1925
+2 PLAC New York, New York, USA
+3 MAP
+4 LATI N40.7744
+4 LONG W73.9721
+2 SOUR @S87@
+3 PAGE NARA; Washington, DC; NAI Title: Index to Petitions for Natu
+4 CONC ralizations Filed in Federal, State, and Local Courts in Ne
+4 CONC w York City, 1792-1906; NAI 5700802; RG "Records of Distric
+4 CONC t Courts of the United States, 1685-2009"; RG 21; 14 Dec 192
+4 CONC 5
+3 OBJE @M123@
+3 _APID 2280:3358634
+2 SOUR @S165@
+3 PAGE National Archives and Records Administration (NARA), Washing
+4 CONC ton D.C.; Petitions for Naturalization of the U.S. Distric
+4 CONC t Court for the Eastern District of New York, 1865-1937; NAR
+4 CONC A Series: M1879; Reference: (Roll 313) Petition No 53151 - P
+4 CONC etition No 53500
+3 OBJE @M197@
+3 _APID 1554:3358634
 1 RESI
 2 DATE 1930
 2 PLAC Brooklyn, Kings, New York, USA
@@ -10318,6 +10310,14 @@
 3 PAGE Number: 054-07-0241; Issue State: New York; Issue Date: Befo
 4 CONC re 1951
 3 _APID 3693:47841158
+1 BAPM
+2 SOUR @7hzCF6rURECkbdc8IJaU@
+3 QUAY 1
+2 NOTE godfather was Eloy Alfaro
+1 EVEN 054-07-0241
+2 TYPE Event
+2 SOUR @a1r7XFsISaCymdVb2Acn@
+3 QUAY 3
 1 _GUID 31dec6b8-a4ea-4153-8be8-e920d8dcc39e
 1 _XY 362 2166
 1 _PHOTO @M119@
@@ -11040,10 +11040,10 @@
 1 SEX M
 1 FAMC @F58@
 1 FAMS @F66@
-1 BIRT
-2 PLAC Membrilla, Toledo, Espana
 1 DEAT
 2 DATE BEF 1565
+1 BIRT
+2 PLAC Membrilla, Toledo, Espana
 1 _GUID 1d722db1-0739-4580-ad4a-9fb4b56ad743
 1 _XY 7561 416
 0 @I201@ INDI
@@ -11398,13 +11398,6 @@
 4 CONC 63
 3 _APID 3693:56893011
 1 RESI
-2 PLAC Coquille, Coos, Oregon, USA
-3 MAP
-4 LATI N43.1771
-4 LONG W124.1876
-2 SOUR @S61@
-3 _APID 1732:382737844
-1 RESI
 2 DATE 1977
 2 PLAC Walnut High School, Walnut, Los Angeles, California, USA
 2 SOUR @S91@
@@ -11429,6 +11422,13 @@
 3 PAGE Number: 554-72-6529; Issue State: California; Issue Date: 19
 4 CONC 63
 3 _APID 3693:56893011
+1 RESI
+2 PLAC Coquille, Coos, Oregon, USA
+3 MAP
+4 LATI N43.1771
+4 LONG W124.1876
+2 SOUR @S61@
+3 _APID 1732:382737844
 1 _GUID 38ffe324-67ac-45a1-b467-0f9de808a7a8
 1 _PHOTO @M146@
 0 @FJk6qyKJTzCXM3s8ubkE@ INDI
@@ -11662,6 +11662,19 @@
 2 SOUR @S86@
 3 PAGE City: Wendell; State: Idaho; Year(s): 2001
 3 _APID 7339:128557378
+1 DEAT
+2 DATE 04 AUG 2017
+2 PLAC Boise, Ada, Idaho, USA
+3 MAP
+4 LATI N43.6135
+4 LONG W116.2035
+2 SOUR @S135@
+3 PAGE Times-News; Publication Date: 15 Aug 2017; Publication Place
+4 CONC : Twin Falls, Idaho, United States of America; URL: https://
+4 CONC www.newspapers.com/image/515825261/?article=db584855-b1fd-4e
+4 CONC f3-ab0c-e006bc890896&focus=0.023811571,0.04719825,0.34711325
+4 CONC ,0.45538026&xid=2378
+3 _APID 61843:660722825
 1 RESI
 2 PLAC 733 4th Avenue E, Gooding, Gooding, Idaho, USA
 2 SOUR @S61@
@@ -11671,19 +11684,6 @@
 3 MAP
 4 LATI N42.7757
 4 LONG W114.7042
-2 SOUR @S135@
-3 PAGE Times-News; Publication Date: 15 Aug 2017; Publication Place
-4 CONC : Twin Falls, Idaho, United States of America; URL: https://
-4 CONC www.newspapers.com/image/515825261/?article=db584855-b1fd-4e
-4 CONC f3-ab0c-e006bc890896&focus=0.023811571,0.04719825,0.34711325
-4 CONC ,0.45538026&xid=2378
-3 _APID 61843:660722825
-1 DEAT
-2 DATE 04 AUG 2017
-2 PLAC Boise, Ada, Idaho, USA
-3 MAP
-4 LATI N43.6135
-4 LONG W116.2035
 2 SOUR @S135@
 3 PAGE Times-News; Publication Date: 15 Aug 2017; Publication Place
 4 CONC : Twin Falls, Idaho, United States of America; URL: https://
@@ -11779,16 +11779,6 @@
 4 CONC l Security Death Index, Master File
 3 _APID 3693:62643878
 1 RESI
-2 PLAC Rock Hill, York, South Carolina, USA
-3 MAP
-4 LATI N34.9249
-4 LONG W81.0251
-2 SOUR @S92@
-3 PAGE North Carolina State Archives; Raleigh, North Carolina; Nort
-4 CONC h Carolina Death Certificates
-3 OBJE @M82@
-3 _APID 1121:184778
-1 RESI
 2 DATE 1958
 2 PLAC South Carolina, USA
 3 MAP
@@ -11837,6 +11827,16 @@
 3 _APID 70589:160170
 2 SOUR @S151@
 3 _APID 70533:13288
+1 RESI
+2 PLAC Rock Hill, York, South Carolina, USA
+3 MAP
+4 LATI N34.9249
+4 LONG W81.0251
+2 SOUR @S92@
+3 PAGE North Carolina State Archives; Raleigh, North Carolina; Nort
+4 CONC h Carolina Death Certificates
+3 OBJE @M82@
+3 _APID 1121:184778
 1 BURI
 2 PLAC Rock Hill, York, South Carolina, USA
 3 MAP
@@ -11902,14 +11902,6 @@
 3 _APID 3693:70752719
 2 SOUR @S147@
 3 _APID 70050:22334750
-1 RESI
-2 PLAC West Columbia, Lexington, South Carolina, USA
-3 MAP
-4 LATI N33.9935
-4 LONG W81.074
-2 SOUR @S93@
-3 _APID 8908:12659040
-2 NOTE Marital Status: Married
 1 DEAT
 2 DATE 13 JUN 2003
 2 PLAC Dare, North Carolina, USA
@@ -11926,6 +11918,14 @@
 3 _APID 3693:70752719
 2 SOUR @S147@
 3 _APID 70050:22334750
+1 RESI
+2 PLAC West Columbia, Lexington, South Carolina, USA
+3 MAP
+4 LATI N33.9935
+4 LONG W81.074
+2 SOUR @S93@
+3 _APID 8908:12659040
+2 NOTE Marital Status: Married
 1 _GUID 7321d78c-0be9-419a-884d-faecf4e4cf3c
 0 @I318@ INDI
 1 NAME [REDACTED]
@@ -12542,11 +12542,11 @@
 3 OBJE @ry5hlWo2Ra63oqp7aFlT@
 3 _APID 6482:16025961
 2 SOUR @EVQKUqUsRpSjkR6xDfl1@
-3 PAGE The National Archives at St. Louis; St. Louis, Missouri; Dra
-4 CONC ft Registration Cards for Fourth Registration for New York S
-4 CONC tate, 04/27/1942 - 04/27/1942; NAI Number: 2555973; Record G
-4 CONC roup Title: Records of the Selective Service System; Recor
-4 CONC d Group Number: 147
+3 PAGE National Archives at St. Louis; St. Louis, Missouri; Draft R
+4 CONC egistration Cards for Fourth Registration for New York State
+4 CONC , 04/27/1942 - 04/27/1942; NAI Number: 2555973; Record Grou
+4 CONC p Title: Records of the Selective Service System; Record Gro
+4 CONC up Number: 147
 3 OBJE @xXG4y1syTo6uSduLrNWM@
 3 _APID 1002:7914432
 1 SEX M
@@ -12941,11 +12941,11 @@
 4 LATI N40.5834
 4 LONG W74.1496
 2 SOUR @EVQKUqUsRpSjkR6xDfl1@
-3 PAGE The National Archives at St. Louis; St. Louis, Missouri; Dra
-4 CONC ft Registration Cards for Fourth Registration for New York S
-4 CONC tate, 04/27/1942 - 04/27/1942; NAI Number: 2555973; Record G
-4 CONC roup Title: Records of the Selective Service System; Recor
-4 CONC d Group Number: 147
+3 PAGE National Archives at St. Louis; St. Louis, Missouri; Draft R
+4 CONC egistration Cards for Fourth Registration for New York State
+4 CONC , 04/27/1942 - 04/27/1942; NAI Number: 2555973; Record Grou
+4 CONC p Title: Records of the Selective Service System; Record Gro
+4 CONC up Number: 147
 3 OBJE @xXG4y1syTo6uSduLrNWM@
 3 _APID 1002:7914432
 1 DEAT
@@ -15057,13 +15057,6 @@
 2 CONT <tr><td align="right" nowrap="true">[signed] Geo. Seivattina
 2 CONC [?] Ex dor[?]</td></tr>
 2 CONT </table>
-0 @S130@ SOUR
-1 REPO @R1@
-1 TITL Selected U.S. Naturalization Records - Original Documents, 1
-2 CONC 790-1974
-1 AUTH Ancestry.com
-1 PUBL Ancestry.com Operations Inc; Location: Provo, UT, USA; Date
-2 CONC : 2009
 0 @S165@ SOUR
 1 REPO @R7@
 1 TITL Selected U.S. Naturalization Records - Original Documents, 1
@@ -16812,55 +16805,6 @@
 2 FORM jpg
 2 TITL Pazmiño Coat of Arms
 1 REFN 50973ce2-7135-4bfb-826d-23d973386678
-0 @M60@ OBJE
-1 _GUID 52dd4b28-3f33-4578-a5f2-62ccb9cc2015
-1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Pazmino_Lopez M
-2 CONC edia\1910 United States Federal Census.jpg
-2 FORM jpg
-2 TITL 1910 United States Federal Census
-2 _TEXT Year: 1910; Census Place: Brooklyn Ward 29, Kings, New York
-3 CONC ; Roll: T624_982; Page: 3B; Enumeration District: 0931; FH
-3 CONC L microfilm: 1374995
-1 REFN f99559ef-241e-49e1-899f-4ea0a76d9b7f
-0 @M61@ OBJE
-1 _GUID 1df74c0b-1334-496b-aade-1d22722aeaf6
-1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Pazmino_Lopez M
-2 CONC edia\1920 United States Federal Census(1).jpg
-2 FORM jpg
-2 TITL 1920 United States Federal Census
-2 _TEXT Year: 1920; Census Place: Brooklyn Assembly District 1, King
-3 CONC s, New York; Roll: T625_1143; Page: 10A; Enumeration Distric
-3 CONC t: 4; Image: 723
-1 REFN 8970675c-4647-44e1-ac3a-6899870407dc
-0 @M62@ OBJE
-1 _GUID 208cdded-d836-498d-9b69-3a5cd8f7ab4a
-1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Pazmino_Lopez M
-2 CONC edia\1930 United States Federal Census(1).jpg
-2 FORM jpg
-2 TITL 1930 United States Federal Census
-2 _TEXT Year: 1930; Census Place: Brooklyn, Kings, New York; Roll: 1
-3 CONC 538; Page: 18A; Enumeration District: 877; Image: 827.0; FH
-3 CONC L microfilm: 2341273
-1 REFN 1941ba65-5371-49aa-a372-50dee100ae1c
-0 @M63@ OBJE
-1 _GUID f57b89c3-a10d-4d44-88c1-584fd1fee3c7
-1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Pazmino_Lopez M
-2 CONC edia\1940 United States Federal Census.jpg
-2 FORM jpg
-2 TITL 1940 United States Federal Census
-2 _TEXT Year: 1940; Census Place: New York, Kings, New York; Roll: T
-3 CONC 627_2615; Page: 2A; Enumeration District: 24-2589
-1 REFN cde5e397-1055-4b3a-b86c-eb7c59d21ae4
-0 @M64@ OBJE
-1 _GUID 5a60bfa7-a540-4d9e-b617-86282d4d11e2
-1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Pazmino_Lopez M
-2 CONC edia\New York, State Census, 1915.jpg
-2 FORM jpg
-2 TITL New York, State Census, 1915
-2 _TEXT New York State Archives; Albany, New York; State Populatio
-3 CONC n Census Schedules, 1915; Election District: 24; Assembly Di
-3 CONC strict: 18; City: New York; County: Kings; Page: 48
-1 REFN 551d4e90-b0e2-403a-b37e-96773198799d
 0 @M65@ OBJE
 1 _GUID 95e7147c-fd48-4d31-b0ce-80bd828dd8c9
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Lopez Media\rec
