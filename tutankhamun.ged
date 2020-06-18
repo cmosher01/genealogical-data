@@ -14,9 +14,9 @@
 4 CONT Boston, MA 02109
 3 PHON (617) 227-6681
 1 DEST FTM
-1 FILE Tutankhamun_2020-06-18-03-45-31.ftm.ged
+1 FILE Tutankhamun_2020-06-18-17-19-25.ftm.ged
 1 DATE 18 JUN 2020
-2 TIME 03:45:55
+2 TIME 17:21:01
 0 @Umy2qBWIRUiwVSS6Hcn4@ SUBM
 1 NAME Christopher Alan Mosher
 2 EMAIL cmosher01@@gmail.com
@@ -41,6 +41,8 @@
 1 RIN Umy2qBWIRUiwVSS6Hcn4
 0 @I2@ INDI
 1 NAME Akhenaten //
+2 SOUR @S1@
+3 _APID 9289:6993911
 1 NAME Amenhotep // [IV]
 1 SEX M
 1 FAMC @F3@
@@ -60,6 +62,8 @@
 1 _PHOTO @M3@
 0 @I3@ INDI
 1 NAME Amenhotep // [III]
+2 SOUR @S1@
+3 _APID 9289:27668736
 1 SEX M
 1 FAMC @F5@
 1 FAMS @F3@
@@ -70,10 +74,10 @@
 2 DATE ABT 1352 BC
 1 BURI
 2 DATE ABT 1352 BC
-2 PLAC KV35
+2 PLAC WV22
 1 BURI
 2 DATE ABT 850 BC
-2 PLAC WV22
+2 PLAC KV35
 1 EVEN CG 61074
 2 TYPE Mummy Inventory ID
 1 _GUID 94862c85-a4e8-4a2b-a4c2-17fbadf353c6
@@ -130,6 +134,8 @@
 1 _XY 566 38
 0 @I4@ INDI
 1 NAME Tjye //
+2 SOUR @S1@
+3 _APID 9289:6993540
 1 NAME [Elder Lady] //
 1 SEX F
 1 FAMC @F4@
@@ -214,6 +220,18 @@
 1 CHIL @I4@
 2 _FREL Natural
 2 _MREL Natural
+0 @R1@ REPO
+1 NAME Ancestry.com
+1 ADDR
+1 EMAIL
+1 PHON
+0 @S1@ SOUR
+1 REPO @R1@
+1 TITL Web: Netherlands, GenealogieOnline Trees Index, 1000-2015
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
+2 CONC e: 2014
+1 _APID 9289
 0 @M2@ OBJE
 1 _GUID 087537d8-f7ee-44e2-ba30-968da451a9c4
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Tutankhamun Med
