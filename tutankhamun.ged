@@ -14,9 +14,9 @@
 4 CONT Boston, MA 02109
 3 PHON (617) 227-6681
 1 DEST FTM
-1 FILE Tutankhamun_2020-06-18-03-00-15.ftm.ged
+1 FILE Tutankhamun_2020-06-18-03-45-31.ftm.ged
 1 DATE 18 JUN 2020
-2 TIME 03:00:43
+2 TIME 03:45:55
 0 @Umy2qBWIRUiwVSS6Hcn4@ SUBM
 1 NAME Christopher Alan Mosher
 2 EMAIL cmosher01@@gmail.com
@@ -40,12 +40,13 @@
 1 LANG English
 1 RIN Umy2qBWIRUiwVSS6Hcn4
 0 @I2@ INDI
-1 NAME /Akhenaten/
+1 NAME Akhenaten //
 1 NAME Amenhotep // [IV]
 1 SEX M
 1 FAMC @F3@
 1 FAMS @F1@
 1 FAMS @F2@
+1 OBJE @M3@
 1 BIRT
 2 DATE ABT 1367 BC
 1 DEAT
@@ -56,11 +57,13 @@
 2 PLAC KV 55
 1 _GUID 26ffeea8-3f99-4b4a-9123-396340852ff2
 1 _XY 150 297
+1 _PHOTO @M3@
 0 @I3@ INDI
 1 NAME Amenhotep // [III]
 1 SEX M
 1 FAMC @F5@
 1 FAMS @F3@
+1 OBJE @M7@
 1 BIRT
 2 DATE ABT 1401 BC
 1 DEAT
@@ -75,17 +78,7 @@
 2 TYPE Mummy Inventory ID
 1 _GUID 94862c85-a4e8-4a2b-a4c2-17fbadf353c6
 1 _XY 170 135
-0 @I5@ INDI
-1 NAME [Younger /Lady]/
-1 SEX F
-1 FAMC @F3@
-1 FAMS @F1@
-1 EVEN CG 61072
-2 TYPE Mummy Inventory ID
-1 BURI
-2 PLAC KV35
-1 _GUID a626fbd6-d7b9-43f5-beac-ce7504df5b60
-1 _XY 422 289
+1 _PHOTO @M7@
 0 @I10@ INDI
 1 NAME Mutemwiya //
 1 SEX F
@@ -96,6 +89,7 @@
 1 NAME Nefertiti //
 1 SEX F
 1 FAMS @F2@
+1 OBJE @M2@
 1 BIRT
 2 DATE ABT 1370 BC
 1 DEAT
@@ -104,11 +98,13 @@
 2 TYPE Mummy Inventory ID
 1 _GUID 8a34e368-43d2-4790-844b-2b00fc232ba2
 1 _XY 30 297
+1 _PHOTO @M2@
 0 @I9@ INDI
 1 NAME Thutmose // [IV]
-1 NAME /Menkheperure/
+1 NAME Menkheperure //
 1 SEX M
 1 FAMS @F5@
+1 OBJE @M8@
 1 DEAT
 2 DATE ABT 1390 BC
 1 EVEN CG 61073
@@ -119,10 +115,11 @@
 2 PLAC KV35
 1 _GUID dabfaa78-faaf-4d31-93c1-fa3479a68803
 1 _XY 65 30
+1 _PHOTO @M8@
 0 @I8@ INDI
-1 NAME /Thuya/
-1 NAME /Tjuyu/
-1 NAME /Tuyu/
+1 NAME Thuya //
+1 NAME Tjuyu //
+1 NAME Tuyu //
 1 SEX F
 1 FAMS @F4@
 1 EVEN CG 51191
@@ -132,27 +129,29 @@
 1 _GUID 6b2f2a27-84b2-4bbc-bdc5-e8e01f271ba2
 1 _XY 566 38
 0 @I4@ INDI
-1 NAME /Tjye/
-1 NAME [Elder /Lady]/
+1 NAME Tjye //
+1 NAME [Elder Lady] //
 1 SEX F
 1 FAMC @F4@
 1 FAMS @F3@
+1 OBJE @M5@
 1 EVEN CG 61070
 2 TYPE Mummy Inventory ID
 1 BURI
 2 PLAC KV35
 1 _GUID c7095b07-1ea6-4c5c-bdbb-a1b03c0d2ea5
 1 _XY 436 135
+1 _PHOTO @M5@
 0 @I1@ INDI
-1 NAME /Tutankhamun/
+1 NAME Tutankhamun //
 1 NAME twt-9nx-w-jtn-r9 (Tut-ankh-w-aten) //
 1 NAME twt-9nx-jtn-r9 (Tut-ankh-aten) //
 1 NAME 𓍹𓇋𓏠𓈖𓏏𓅱𓏏𓋹𓍺 (twt-9nx-jmnn) (Tut-ankh-amun) //
-1 NAME King Tut //
+1 NAME [King Tut] //
 1 NAME 𓍹𓇋𓏠𓈖𓏏𓅱𓏏𓋹𓍺 //
 1 SEX M
 1 FAMC @F1@
-1 OBJE @M1@
+1 OBJE @M4@
 1 BIRT
 2 DATE ABT 1342 BC
 1 DEAT
@@ -161,9 +160,22 @@
 2 PLAC KV62
 1 _GUID e711d617-28d2-4763-b9d7-1a60120b590a
 1 _XY 284 429
-1 _PHOTO @M1@
+1 _PHOTO @M4@
+0 @I5@ INDI
+1 NAME [Younger Lady] //
+1 SEX F
+1 FAMC @F3@
+1 FAMS @F1@
+1 OBJE @M6@
+1 EVEN CG 61072
+2 TYPE Mummy Inventory ID
+1 BURI
+2 PLAC KV35
+1 _GUID a626fbd6-d7b9-43f5-beac-ce7504df5b60
+1 _XY 422 289
+1 _PHOTO @M6@
 0 @I7@ INDI
-1 NAME /Yuya/
+1 NAME Yuya //
 1 SEX M
 1 FAMS @F4@
 1 EVEN CG 51190
@@ -172,15 +184,15 @@
 2 PLAC KV46
 1 _GUID f7981264-8735-4ccf-997b-39b1c64adb80
 1 _XY 447 38
+0 @F2@ FAM
+1 HUSB @I2@
+1 WIFE @I6@
 0 @F1@ FAM
 1 HUSB @I2@
 1 WIFE @I5@
 1 CHIL @I1@
 2 _FREL Natural
 2 _MREL Natural
-0 @F2@ FAM
-1 HUSB @I2@
-1 WIFE @I6@
 0 @F3@ FAM
 1 HUSB @I3@
 1 WIFE @I4@
@@ -202,10 +214,53 @@
 1 CHIL @I4@
 2 _FREL Natural
 2 _MREL Natural
-0 @M1@ OBJE
-1 _GUID 902f0696-4505-457a-b42d-02df478fbbba
+0 @M2@ OBJE
+1 _GUID 087537d8-f7ee-44e2-ba30-968da451a9c4
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Tutankhamun Med
-2 CONC ia\King Tut 02.jpg
+2 CONC ia\Nefertiti.jpg
 2 FORM jpg
-2 TITL King Tut 02
+2 TITL Amarna 3D - Nefertiti Bust 3D Reconstruction
+2 _DATE 2/12/2015 1:43:10 PM
+0 @M3@ OBJE
+1 _GUID b133b652-d7b7-4e95-8cce-7bbc8cda0bfd
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Tutankhamun Med
+2 CONC ia\Akhenaten.jpg
+2 FORM jpg
+2 TITL Akhenaten
+2 _DATE 6/18/2020 3:21:53 AM
+0 @M4@ OBJE
+1 _GUID d96951df-3371-40a8-bb0e-06ca7fc2fcad
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Tutankhamun Med
+2 CONC ia\Tutankhamun.jpg
+2 FORM jpg
+2 TITL Tutankhamun
+2 _DATE 6/18/2020 3:25:06 AM
+0 @M5@ OBJE
+1 _GUID 5e25e8e8-1056-458e-a33d-4ef1382d9b4c
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Tutankhamun Med
+2 CONC ia\ElderLady.gif
+2 FORM jpg
+2 TITL ElderLady
+2 _DATE 6/18/2020 3:27:47 AM
+0 @M6@ OBJE
+1 _GUID 4f6ba72f-e684-418e-a5a9-603d4bd7bc7a
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Tutankhamun Med
+2 CONC ia\YoungerLady.jpg
+2 FORM jpg
+2 TITL YoungerLady
+2 _DATE 6/18/2020 3:29:27 AM
+0 @M7@ OBJE
+1 _GUID 41611261-3d67-4d91-8503-c23ee3a7748e
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Tutankhamun Med
+2 CONC ia\AmenhotepIII.jpg
+2 FORM jpg
+2 TITL AmenhotepIII
+2 _DATE 11/27/2009 12:44:21 PM
+0 @M8@ OBJE
+1 _GUID ff0b5f26-71f1-4891-8283-851c7be0c924
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Tutankhamun Med
+2 CONC ia\ThutmoseIV.jpg
+2 FORM jpg
+2 TITL ThutmoseIV
+2 _DATE 6/18/2020 3:36:36 AM
 0 TRLR
