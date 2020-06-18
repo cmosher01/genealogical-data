@@ -3,20 +3,20 @@
 1 GEDC
 2 VERS 5.5.1
 2 FORM LINEAGE-LINKED
-1 COPR Copyright © 1998–2019, Christopher Alan Mosher, Shelton, CT
+1 COPR Copyright © 1998–2020, Christopher Alan Mosher, Shelton, CT
 2 CONC , USA.
 1 SUBM @Umy2qBWIRUiwVSS6Hcn4@
 1 SOUR FTM
-2 VERS 23.2.0.1540
+2 VERS 24.0.1.1252
 2 NAME Family Tree Maker for Windows
 2 CORP The Software MacKiev Company
 3 ADDR 30 Union Wharf
 4 CONT Boston, MA 02109
 3 PHON (617) 227-6681
 1 DEST FTM
-1 FILE Joseph_2019-10-09-23-37-42.ftm.ged
-1 DATE 09 OCT 2019
-2 TIME 23:38:19
+1 FILE Joseph_2020-06-17-16-18-32.ftm.ged
+1 DATE 17 JUN 2020
+2 TIME 16:18:45
 0 @Umy2qBWIRUiwVSS6Hcn4@ SUBM
 1 NAME Christopher Alan Mosher
 2 EMAIL cmosher01@@gmail.com
@@ -55,20 +55,20 @@
 3 PAGE Year: 1930; Census Place: Tinicum, Delaware, Pennsylvania; P
 4 CONC age: 8B; Enumeration District: 0138; FHL microfilm: 2341767
 3 OBJE @M9@
-3 _APID 1,6224::51164991
+3 _APID 6224:51164991
 2 SOUR @S7@
 3 PAGE Year: 1940; Census Place: Tinicum, Delaware, Pennsylvania; R
 4 CONC oll: m-t0627-03496; Page: 9A; Enumeration District: 23-175
 3 OBJE @M12@
-3 _APID 1,2442::19848335
+3 _APID 2442:19848335
 2 SOUR @S12@
 3 PAGE Historical Society of Pennsylvania; Philadelphia, Pennsylvan
 4 CONC ia; Historic Pennsylvania Church and Town Records; Reel: 627
 4 CONC ; Helen Ruth Aniba
 3 OBJE @M11@
-3 _APID 1,2451::2502403
+3 _APID 2451:2502403
 2 SOUR @S6@
-3 _APID 1,60901::14546632
+3 _APID 60901:14546632
 1 SEX F
 1 FAMC @F14@
 1 FAMS @F1@
@@ -82,20 +82,20 @@
 3 PAGE Year: 1930; Census Place: Tinicum, Delaware, Pennsylvania; P
 4 CONC age: 8B; Enumeration District: 0138; FHL microfilm: 2341767
 3 OBJE @M9@
-3 _APID 1,6224::51164991
+3 _APID 6224:51164991
 2 SOUR @S7@
 3 PAGE Year: 1940; Census Place: Tinicum, Delaware, Pennsylvania; R
 4 CONC oll: m-t0627-03496; Page: 9A; Enumeration District: 23-175
 3 OBJE @M12@
-3 _APID 1,2442::19848335
+3 _APID 2442:19848335
 2 SOUR @S12@
 3 PAGE Historical Society of Pennsylvania; Philadelphia, Pennsylvan
 4 CONC ia; Historic Pennsylvania Church and Town Records; Reel: 627
 4 CONC ; Helen Ruth Aniba
 3 OBJE @M11@
-3 _APID 1,2451::2502403
+3 _APID 2451:2502403
 2 SOUR @S6@
-3 _APID 1,60901::14546632
+3 _APID 60901:14546632
 1 RESI
 2 DATE 1930
 2 PLAC Tinicum, Delaware, Pennsylvania, USA
@@ -106,7 +106,7 @@
 3 PAGE Year: 1930; Census Place: Tinicum, Delaware, Pennsylvania; P
 4 CONC age: 8B; Enumeration District: 0138; FHL microfilm: 2341767
 3 OBJE @M9@
-3 _APID 1,6224::51164991
+3 _APID 6224:51164991
 2 NOTE Marital Status: Single; Relation to Head: Daughter
 1 BAPM
 2 DATE 14 DEC 1930
@@ -119,7 +119,7 @@
 4 CONC ia; Historic Pennsylvania Church and Town Records; Reel: 627
 4 CONC ; Helen Ruth Aniba
 3 OBJE @M11@
-3 _APID 1,2451::2502403
+3 _APID 2451:2502403
 1 RESI
 2 DATE 1940
 2 PLAC Tinicum, Delaware, Pennsylvania, USA
@@ -130,12 +130,13 @@
 3 PAGE Year: 1940; Census Place: Tinicum, Delaware, Pennsylvania; R
 4 CONC oll: m-t0627-03496; Page: 9A; Enumeration District: 23-175
 3 OBJE @M12@
-3 _APID 1,2442::19848335
+3 _APID 2442:19848335
 2 NOTE Marital Status: Single; Relation to Head: Daughter
 1 DEAT
 2 DATE DEC 1991
 2 SOUR @S6@
-3 _APID 1,60901::14546632
+3 _APID 60901:14546632
+1 _GUID dd4e705b-8d43-41c1-ac1b-4a0544d26375
 0 @I23@ INDI
 1 REFN 94db3b51-1f4c-4f59-8db8-e4232d2d2b91
 1 NAME Howard Franklin /Aniba/
@@ -144,7 +145,7 @@
 4 CONC SA; Pennsylvania, Death Certificates, 1906-1965; Certificat
 4 CONC e Number Range: 087001-090000
 3 OBJE @M10@
-3 _APID 1,5164::4823730
+3 _APID 5164:4823730
 1 SEX M
 1 FAMC @F14@
 1 BIRT
@@ -158,7 +159,7 @@
 4 CONC SA; Pennsylvania, Death Certificates, 1906-1965; Certificat
 4 CONC e Number Range: 087001-090000
 3 OBJE @M10@
-3 _APID 1,5164::4823730
+3 _APID 5164:4823730
 1 DEAT
 2 DATE 10 SEP 1927
 2 PLAC Sharon Hill, Delaware, Pennsylvania, USA
@@ -170,7 +171,8 @@
 4 CONC SA; Pennsylvania, Death Certificates, 1906-1965; Certificat
 4 CONC e Number Range: 087001-090000
 3 OBJE @M10@
-3 _APID 1,5164::4823730
+3 _APID 5164:4823730
+1 _GUID 965b9c43-2cf8-467a-9089-9cee2635d6e1
 0 @I30@ INDI
 1 REFN 4dacb30a-4854-4a9d-92e6-52efe7e0e9eb
 1 NAME John Alvin /Aniba/
@@ -178,49 +180,49 @@
 3 PAGE Year: 1930; Census Place: Tinicum, Delaware, Pennsylvania; P
 4 CONC age: 8B; Enumeration District: 0138; FHL microfilm: 2341767
 3 OBJE @M9@
-3 _APID 1,6224::51164971
+3 _APID 6224:51164971
 2 SOUR @S7@
 3 PAGE Year: 1940; Census Place: Tinicum, Delaware, Pennsylvania; R
 4 CONC oll: m-t0627-03496; Page: 9A; Enumeration District: 23-175
 3 OBJE @M12@
-3 _APID 1,2442::19848324
+3 _APID 2442:19848324
 2 SOUR @S10@
 3 PAGE Delaware Public Archives; Dover, Delaware; Delaware Vital Re
 4 CONC cords, 1800-1933; Series Number: Death Certificates - 21
 3 OBJE @M14@
-3 _APID 1,1674::600071266
+3 _APID 1674:600071266
 2 SOUR @S12@
 3 PAGE Historical Society of Pennsylvania; Philadelphia, Pennsylvan
 4 CONC ia; Historic Pennsylvania Church and Town Records; Reel: 627
 4 CONC ; John Alvin Aniba (in record of Harry Raymond Aniba)
 3 OBJE @M11@
-3 _APID 1,2451::18780601
+3 _APID 2451:18780601
 2 SOUR @S12@
 3 PAGE Historical Society of Pennsylvania; Philadelphia, Pennsylvan
 4 CONC ia; Historic Pennsylvania Church and Town Records; Reel: 627
 4 CONC ; John Alvin Aniba (in record of Helen Ruth Aniba)
 3 OBJE @M11@
-3 _APID 1,2451::18780597
+3 _APID 2451:18780597
 2 SOUR @S12@
 3 PAGE Historical Society of Pennsylvania; Philadelphia, Pennsylvan
 4 CONC ia; Historic Pennsylvania Church and Town Records; Reel: 627
 4 CONC ; John Alvin Aniba (in record of Margaret Isabella Aniba)
 3 OBJE @M11@
-3 _APID 1,2451::18780599
+3 _APID 2451:18780599
 2 SOUR @S13@
 3 PAGE Pennsylvania Historic and Museum Commission; Pennsylvania, U
 4 CONC SA; Pennsylvania, Death Certificates, 1906-1965; Certificat
 4 CONC e Number Range: 058501-061200
 3 OBJE @M13@
-3 _APID 1,5164::606316624
+3 _APID 5164:606316624
 2 SOUR @S13@
 3 PAGE Pennsylvania Historic and Museum Commission; Pennsylvania, U
 4 CONC SA; Pennsylvania, Death Certificates, 1906-1965; Certificat
 4 CONC e Number Range: 087001-090000
 3 OBJE @M10@
-3 _APID 1,5164::604823730
+3 _APID 5164:604823730
 2 SOUR @S6@
-3 _APID 1,60901::614546632
+3 _APID 60901:614546632
 1 SEX M
 1 FAMS @F14@
 1 BIRT
@@ -233,18 +235,18 @@
 3 PAGE Year: 1930; Census Place: Tinicum, Delaware, Pennsylvania; P
 4 CONC age: 8B; Enumeration District: 0138; FHL microfilm: 2341767
 3 OBJE @M9@
-3 _APID 1,6224::51164971
+3 _APID 6224:51164971
 2 SOUR @S7@
 3 PAGE Year: 1940; Census Place: Tinicum, Delaware, Pennsylvania; R
 4 CONC oll: m-t0627-03496; Page: 9A; Enumeration District: 23-175
 3 OBJE @M12@
-3 _APID 1,2442::19848324
+3 _APID 2442:19848324
 2 SOUR @S13@
 3 PAGE Pennsylvania Historic and Museum Commission; Pennsylvania, U
 4 CONC SA; Pennsylvania, Death Certificates, 1906-1965; Certificat
 4 CONC e Number Range: 087001-090000
 3 OBJE @M10@
-3 _APID 1,5164::604823730
+3 _APID 5164:604823730
 1 RESI
 2 DATE 1930
 2 PLAC Tinicum, Delaware, Pennsylvania, USA
@@ -255,7 +257,7 @@
 3 PAGE Year: 1930; Census Place: Tinicum, Delaware, Pennsylvania; P
 4 CONC age: 8B; Enumeration District: 0138; FHL microfilm: 2341767
 3 OBJE @M9@
-3 _APID 1,6224::51164971
+3 _APID 6224:51164971
 2 NOTE Marital Status: Married; Relation to Head: Head
 1 RESI
 2 DATE 1940
@@ -267,8 +269,9 @@
 3 PAGE Year: 1940; Census Place: Tinicum, Delaware, Pennsylvania; R
 4 CONC oll: m-t0627-03496; Page: 9A; Enumeration District: 23-175
 3 OBJE @M12@
-3 _APID 1,2442::19848324
+3 _APID 2442:19848324
 2 NOTE Marital Status: Married; Relation to Head: Head
+1 _GUID 1222f0fe-8d3f-44ce-b399-b294c3a62d8a
 0 @I24@ INDI
 1 REFN 5ea67549-221f-454c-be33-e78cdecef386
 1 NAME John Paige /Aniba/
@@ -276,13 +279,13 @@
 3 PAGE Year: 1940; Census Place: Tinicum, Delaware, Pennsylvania; R
 4 CONC oll: m-t0627-03496; Page: 9A; Enumeration District: 23-175
 3 OBJE @M12@
-3 _APID 1,2442::19848345
+3 _APID 2442:19848345
 2 SOUR @S13@
 3 PAGE Pennsylvania Historic and Museum Commission; Pennsylvania, U
 4 CONC SA; Pennsylvania, Death Certificates, 1906-1965; Certificat
 4 CONC e Number Range: 058501-061200
 3 OBJE @M13@
-3 _APID 1,5164::6316624
+3 _APID 5164:6316624
 1 SEX M
 1 FAMC @F14@
 1 BIRT
@@ -295,13 +298,13 @@
 3 PAGE Year: 1940; Census Place: Tinicum, Delaware, Pennsylvania; R
 4 CONC oll: m-t0627-03496; Page: 9A; Enumeration District: 23-175
 3 OBJE @M12@
-3 _APID 1,2442::19848345
+3 _APID 2442:19848345
 2 SOUR @S13@
 3 PAGE Pennsylvania Historic and Museum Commission; Pennsylvania, U
 4 CONC SA; Pennsylvania, Death Certificates, 1906-1965; Certificat
 4 CONC e Number Range: 058501-061200
 3 OBJE @M13@
-3 _APID 1,5164::6316624
+3 _APID 5164:6316624
 1 RESI
 2 DATE 1940
 2 PLAC Tinicum, Delaware, Pennsylvania, USA
@@ -312,7 +315,7 @@
 3 PAGE Year: 1940; Census Place: Tinicum, Delaware, Pennsylvania; R
 4 CONC oll: m-t0627-03496; Page: 9A; Enumeration District: 23-175
 3 OBJE @M12@
-3 _APID 1,2442::19848345
+3 _APID 2442:19848345
 2 NOTE Marital Status: Single; Relation to Head: Son
 1 DEAT
 2 DATE 27 JUL 1952
@@ -325,7 +328,8 @@
 4 CONC SA; Pennsylvania, Death Certificates, 1906-1965; Certificat
 4 CONC e Number Range: 058501-061200
 3 OBJE @M13@
-3 _APID 1,5164::6316624
+3 _APID 5164:6316624
+1 _GUID f22eb803-9233-4560-ba21-447bc5eceacc
 0 @I26@ INDI
 1 NAME [REDACTED]
 1 FAMC @F14@
@@ -336,7 +340,7 @@
 3 PAGE Delaware Public Archives; Dover, Delaware; Delaware Vital Re
 4 CONC cords, 1800-1933; Series Number: Death Certificates - 21
 3 OBJE @M14@
-3 _APID 1,1674::71266
+3 _APID 1674:71266
 1 SEX M
 1 FAMC @F14@
 1 BIRT
@@ -345,7 +349,7 @@
 3 PAGE Delaware Public Archives; Dover, Delaware; Delaware Vital Re
 4 CONC cords, 1800-1933; Series Number: Death Certificates - 21
 3 OBJE @M14@
-3 _APID 1,1674::71266
+3 _APID 1674:71266
 1 DEAT
 2 DATE 03 JUN 1922
 2 PLAC New Castle, Delaware, USA
@@ -356,7 +360,8 @@
 3 PAGE Delaware Public Archives; Dover, Delaware; Delaware Vital Re
 4 CONC cords, 1800-1933; Series Number: Death Certificates - 21
 3 OBJE @M14@
-3 _APID 1,1674::71266
+3 _APID 1674:71266
+1 _GUID a7dea7aa-d807-4f34-80d9-b7dd6628e690
 0 @I21@ INDI
 1 NAME [REDACTED]
 1 FAMC @F14@
@@ -377,12 +382,12 @@
 4 CONC , Delaware; Roll: T625_200; Page: 8B; Enumeration District
 4 CONC : 184
 3 OBJE @M6@
-3 _APID 1,6061::3789258
+3 _APID 6061:3789258
 2 SOUR @S9@
 3 PAGE Delaware Public Archives; Dover, Delaware; Collection Number
 4 CONC : Birth Certificates - Delayed - 2; Roll Number: 91
 3 OBJE @M4@
-3 _APID 1,1672::300097717
+3 _APID 1672:300097717
 1 SEX F
 1 FAMS @F4@
 1 BIRT
@@ -396,7 +401,7 @@
 4 CONC , Delaware; Roll: T625_200; Page: 8B; Enumeration District
 4 CONC : 184
 3 OBJE @M6@
-3 _APID 1,6061::3789258
+3 _APID 6061:3789258
 1 RESI
 2 DATE 1920
 2 PLAC Sussex, Delaware, USA
@@ -408,8 +413,9 @@
 4 CONC , Delaware; Roll: T625_200; Page: 8B; Enumeration District
 4 CONC : 184
 3 OBJE @M6@
-3 _APID 1,6061::3789258
+3 _APID 6061:3789258
 2 NOTE Relation to Head: Wife; Residence Marital Status: Married
+1 _GUID fa6ba6c5-5b6f-4a19-bf49-b9ca419b13f1
 0 @I14@ INDI
 1 REFN ab17f3cc-becc-4b1b-a427-64816db514e1
 1 NAME Austin James /Joseph/
@@ -417,7 +423,7 @@
 3 PAGE Delaware Public Archives; Dover, Delaware; Delaware Vital Re
 4 CONC cords, 1800-1933; Series Number: Death Certificates - 27
 3 OBJE @M5@
-3 _APID 1,1674::80197
+3 _APID 1674:80197
 1 SEX M
 1 FAMC @F2@
 1 BIRT
@@ -426,7 +432,7 @@
 3 PAGE Delaware Public Archives; Dover, Delaware; Delaware Vital Re
 4 CONC cords, 1800-1933; Series Number: Death Certificates - 27
 3 OBJE @M5@
-3 _APID 1,1674::80197
+3 _APID 1674:80197
 1 DEAT
 2 DATE 01 MAR 1926
 2 PLAC Georgetown, Sussex, Delaware, USA
@@ -437,7 +443,8 @@
 3 PAGE Delaware Public Archives; Dover, Delaware; Delaware Vital Re
 4 CONC cords, 1800-1933; Series Number: Death Certificates - 27
 3 OBJE @M5@
-3 _APID 1,1674::80197
+3 _APID 1674:80197
+1 _GUID 75174c2a-b497-440d-9286-7fc016c06ce5
 0 @I6@ INDI
 1 NAME [REDACTED]
 1 FAMC @F2@
@@ -452,12 +459,12 @@
 4 CONC , Delaware; Roll: T625_200; Page: 8B; Enumeration District
 4 CONC : 184
 3 OBJE @M6@
-3 _APID 1,6061::3789257
+3 _APID 6061:3789257
 2 SOUR @S9@
 3 PAGE Delaware Public Archives; Dover, Delaware; Collection Number
 4 CONC : Birth Certificates - Delayed - 2; Roll Number: 91
 3 OBJE @M4@
-3 _APID 1,1672::150097717
+3 _APID 1672:150097717
 1 SEX M
 1 FAMS @F4@
 1 BIRT
@@ -471,7 +478,7 @@
 4 CONC , Delaware; Roll: T625_200; Page: 8B; Enumeration District
 4 CONC : 184
 3 OBJE @M6@
-3 _APID 1,6061::3789257
+3 _APID 6061:3789257
 1 RESI
 2 DATE 1920
 2 PLAC Sussex, Delaware, USA
@@ -483,8 +490,9 @@
 4 CONC , Delaware; Roll: T625_200; Page: 8B; Enumeration District
 4 CONC : 184
 3 OBJE @M6@
-3 _APID 1,6061::3789257
+3 _APID 6061:3789257
 2 NOTE Relation to Head: Head; Residence Marital Status: Married
+1 _GUID 989505c5-b8c1-4163-bce2-24edf36b47e2
 0 @I17@ INDI
 1 NAME [REDACTED]
 1 FAMC @F4@
@@ -496,7 +504,7 @@
 4 CONC , Delaware; Roll: T625_200; Page: 8B; Enumeration District
 4 CONC : 184
 3 OBJE @M6@
-3 _APID 1,6061::3789259
+3 _APID 6061:3789259
 1 SEX M
 1 FAMC @F4@
 1 BIRT
@@ -510,7 +518,7 @@
 4 CONC , Delaware; Roll: T625_200; Page: 8B; Enumeration District
 4 CONC : 184
 3 OBJE @M6@
-3 _APID 1,6061::3789259
+3 _APID 6061:3789259
 1 RESI
 2 DATE 1920
 2 PLAC Sussex, Delaware, USA
@@ -522,8 +530,9 @@
 4 CONC , Delaware; Roll: T625_200; Page: 8B; Enumeration District
 4 CONC : 184
 3 OBJE @M6@
-3 _APID 1,6061::3789259
+3 _APID 6061:3789259
 2 NOTE Relation to Head: Son; Residence Marital Status: Single
+1 _GUID 59428e1d-28c6-49db-88b0-012183f176be
 0 @I7@ INDI
 1 NAME [REDACTED]
 1 FAMC @F2@
@@ -535,33 +544,33 @@
 4 CONC lvania; Page: 11B; Enumeration District: 0142; FHL microfilm
 4 CONC : 2341767
 3 OBJE @M1@
-3 _APID 1,6224::51171944
+3 _APID 6224:51171944
 2 SOUR @S7@
 3 PAGE Year: 1940; Census Place: Upper Chichester, Delaware, Pennsy
 4 CONC lvania; Roll: m-t0627-03496; Page: 18A; Enumeration District
 4 CONC : 23-181
 3 OBJE @M3@
-3 _APID 1,2442::19861718
+3 _APID 2442:19861718
 2 SOUR @S4@
 3 OBJE @M2@
-3 _APID 1,3147::1217569
+3 _APID 3147:1217569
 2 SOUR @S5@
 3 PAGE The National Archives in St. Louis, Missouri; St. Louis, Mis
 4 CONC souri; Record Group: Records of the Selective Service System
 4 CONC , 147; Box: 1247
-3 _APID 1,2238::7164290
+3 _APID 2238:7164290
 2 SOUR @S3@
-3 _APID 1,2441::13128430
+3 _APID 2441:13128430
 2 SOUR @S1@
 3 PAGE Publication Place: Delaware, USA; URL: http://www.tributes.c
 4 CONC om/obituary/print_selections/17207966?type=1
-3 _APID 1,7545::363934522
+3 _APID 7545:363934522
 2 SOUR @S6@
-3 _APID 1,60901::42741209
+3 _APID 60901:42741209
 2 SOUR @S2@
 3 PAGE Number: 176-20-5501; Issue State: Pennsylvania; Issue Date
 4 CONC : Before 1951
-3 _APID 1,3693::31910014
+3 _APID 3693:31910014
 1 SEX M
 1 FAMC @F2@
 1 FAMS @F1@
@@ -576,33 +585,33 @@
 4 CONC lvania; Page: 11B; Enumeration District: 0142; FHL microfilm
 4 CONC : 2341767
 3 OBJE @M1@
-3 _APID 1,6224::51171944
+3 _APID 6224:51171944
 2 SOUR @S7@
 3 PAGE Year: 1940; Census Place: Upper Chichester, Delaware, Pennsy
 4 CONC lvania; Roll: m-t0627-03496; Page: 18A; Enumeration District
 4 CONC : 23-181
 3 OBJE @M3@
-3 _APID 1,2442::19861718
+3 _APID 2442:19861718
 2 SOUR @S4@
 3 OBJE @M2@
-3 _APID 1,3147::1217569
+3 _APID 3147:1217569
 2 SOUR @S5@
 3 PAGE The National Archives in St. Louis, Missouri; St. Louis, Mis
 4 CONC souri; Record Group: Records of the Selective Service System
 4 CONC , 147; Box: 1247
-3 _APID 1,2238::7164290
+3 _APID 2238:7164290
 2 SOUR @S3@
-3 _APID 1,2441::13128430
+3 _APID 2441:13128430
 2 SOUR @S1@
 3 PAGE Publication Place: Delaware, USA; URL: http://www.tributes.c
 4 CONC om/obituary/print_selections/17207966?type=1
-3 _APID 1,7545::363934522
+3 _APID 7545:363934522
 2 SOUR @S6@
-3 _APID 1,60901::42741209
+3 _APID 60901:42741209
 2 SOUR @S2@
 3 PAGE Number: 176-20-5501; Issue State: Pennsylvania; Issue Date
 4 CONC : Before 1951
-3 _APID 1,3693::31910014
+3 _APID 3693:31910014
 1 RESI
 2 DATE 1930
 2 PLAC Upper Chichester, Delaware, Pennsylvania, USA
@@ -614,7 +623,7 @@
 4 CONC lvania; Page: 11B; Enumeration District: 0142; FHL microfilm
 4 CONC : 2341767
 3 OBJE @M1@
-3 _APID 1,6224::51171944
+3 _APID 6224:51171944
 2 NOTE Marital Status: Single; Relation to Head: Son
 1 RESI
 2 DATE 1940
@@ -627,7 +636,7 @@
 4 CONC lvania; Roll: m-t0627-03496; Page: 18A; Enumeration District
 4 CONC : 23-181
 3 OBJE @M3@
-3 _APID 1,2442::19861718
+3 _APID 2442:19861718
 2 NOTE Marital Status: Single; Relation to Head: Son
 1 RESI
 2 DATE 1944
@@ -639,13 +648,13 @@
 3 PAGE The National Archives in St. Louis, Missouri; St. Louis, Mis
 4 CONC souri; Record Group: Records of the Selective Service System
 4 CONC , 147; Box: 1247
-3 _APID 1,2238::7164290
+3 _APID 2238:7164290
 2 NOTE Relation to Head: Self
 1 EVEN
 2 TYPE military
 2 DATE 11 DEC 1944
 2 SOUR @S3@
-3 _APID 1,2441::13128430
+3 _APID 2441:13128430
 1 RESI
 2 DATE 1950
 2 PLAC Essington, Delaware, Pennsylvania, USA
@@ -654,7 +663,7 @@
 4 LONG W75.2975
 2 SOUR @S4@
 3 OBJE @M2@
-3 _APID 1,3147::1217569
+3 _APID 3147:1217569
 1 DEAT
 2 DATE 02 APR 1993
 2 PLAC Wilmington, New Castle, Delaware, USA
@@ -662,17 +671,17 @@
 4 LATI N39.7459
 4 LONG W75.5466
 2 SOUR @S3@
-3 _APID 1,2441::13128430
+3 _APID 2441:13128430
 2 SOUR @S1@
 3 PAGE Publication Place: Delaware, USA; URL: http://www.tributes.c
 4 CONC om/obituary/print_selections/17207966?type=1
-3 _APID 1,7545::363934522
+3 _APID 7545:363934522
 2 SOUR @S6@
-3 _APID 1,60901::42741209
+3 _APID 60901:42741209
 2 SOUR @S2@
 3 PAGE Number: 176-20-5501; Issue State: Pennsylvania; Issue Date
 4 CONC : Before 1951
-3 _APID 1,3693::31910014
+3 _APID 3693:31910014
 1 RESI
 2 PLAC Wilmington, New Castle, Delaware, USA
 3 MAP
@@ -681,7 +690,8 @@
 2 SOUR @S1@
 3 PAGE Publication Place: Delaware, USA; URL: http://www.tributes.c
 4 CONC om/obituary/print_selections/17207966?type=1
-3 _APID 1,7545::363934522
+3 _APID 7545:363934522
+1 _GUID 9134ca5d-48e1-4893-9103-079914866663
 0 @I4@ INDI
 1 REFN 2f0268d7-aeae-4de4-89f1-595e025de05d
 1 NAME Martin Herman /Joseph/
@@ -690,40 +700,40 @@
 4 CONC , Delaware; Roll: T625_200; Page: 8B; Enumeration District
 4 CONC : 184
 3 OBJE @M6@
-3 _APID 1,6061::3789260
+3 _APID 6061:3789260
 2 SOUR @S8@
 3 PAGE Year: 1930; Census Place: Upper Chichester, Delaware, Pennsy
 4 CONC lvania; Page: 11B; Enumeration District: 0142; FHL microfilm
 4 CONC : 2341767
 3 OBJE @M1@
-3 _APID 1,6224::51171935
+3 _APID 6224:51171935
 2 SOUR @S7@
 3 PAGE Year: 1940; Census Place: Upper Chichester, Delaware, Pennsy
 4 CONC lvania; Roll: m-t0627-03496; Page: 18A; Enumeration District
 4 CONC : 23-181
 3 OBJE @M3@
-3 _APID 1,2442::19861716
+3 _APID 2442:19861716
 2 SOUR @S10@
 3 PAGE Delaware Public Archives; Dover, Delaware; Delaware Vital Re
 4 CONC cords, 1800-1933; Series Number: Death Certificates - 27
 3 OBJE @M5@
-3 _APID 1,1674::600080197
+3 _APID 1674:600080197
 2 SOUR @S9@
 3 PAGE Delaware Public Archives; Dover, Delaware; Collection Number
 4 CONC : Birth Certificates - Delayed - 2; Roll Number: 91
 3 OBJE @M4@
-3 _APID 1,1672::97717
+3 _APID 1672:97717
 2 SOUR @S5@
 3 PAGE The National Archives in St. Louis, Missouri; St. Louis, Mis
 4 CONC souri; Record Group: Records of the Selective Service System
 4 CONC , 147; Box: 1247
-3 _APID 1,2238::7164772
+3 _APID 2238:7164772
 2 SOUR @S6@
-3 _APID 1,60901::642741209
+3 _APID 60901:642741209
 2 SOUR @S2@
 3 PAGE Number: 183-05-6576; Issue State: Pennsylvania; Issue Date
 4 CONC : Before 1951
-3 _APID 1,3693::31911078
+3 _APID 3693:31911078
 1 SEX M
 1 FAMC @F4@
 1 FAMS @F2@
@@ -738,33 +748,33 @@
 4 CONC , Delaware; Roll: T625_200; Page: 8B; Enumeration District
 4 CONC : 184
 3 OBJE @M6@
-3 _APID 1,6061::3789260
+3 _APID 6061:3789260
 2 SOUR @S8@
 3 PAGE Year: 1930; Census Place: Upper Chichester, Delaware, Pennsy
 4 CONC lvania; Page: 11B; Enumeration District: 0142; FHL microfilm
 4 CONC : 2341767
 3 OBJE @M1@
-3 _APID 1,6224::51171935
+3 _APID 6224:51171935
 2 SOUR @S7@
 3 PAGE Year: 1940; Census Place: Upper Chichester, Delaware, Pennsy
 4 CONC lvania; Roll: m-t0627-03496; Page: 18A; Enumeration District
 4 CONC : 23-181
 3 OBJE @M3@
-3 _APID 1,2442::19861716
+3 _APID 2442:19861716
 2 SOUR @S9@
 3 PAGE Delaware Public Archives; Dover, Delaware; Collection Number
 4 CONC : Birth Certificates - Delayed - 2; Roll Number: 91
 3 OBJE @M4@
-3 _APID 1,1672::97717
+3 _APID 1672:97717
 2 SOUR @S5@
 3 PAGE The National Archives in St. Louis, Missouri; St. Louis, Mis
 4 CONC souri; Record Group: Records of the Selective Service System
 4 CONC , 147; Box: 1247
-3 _APID 1,2238::7164772
+3 _APID 2238:7164772
 2 SOUR @S2@
 3 PAGE Number: 183-05-6576; Issue State: Pennsylvania; Issue Date
 4 CONC : Before 1951
-3 _APID 1,3693::31911078
+3 _APID 3693:31911078
 1 RESI
 2 DATE 1920
 2 PLAC Sussex, Delaware, USA
@@ -776,7 +786,7 @@
 4 CONC , Delaware; Roll: T625_200; Page: 8B; Enumeration District
 4 CONC : 184
 3 OBJE @M6@
-3 _APID 1,6061::3789260
+3 _APID 6061:3789260
 2 NOTE Relation to Head: Son; Residence Marital Status: Single
 1 RESI
 2 DATE 1930
@@ -789,7 +799,7 @@
 4 CONC lvania; Page: 11B; Enumeration District: 0142; FHL microfilm
 4 CONC : 2341767
 3 OBJE @M1@
-3 _APID 1,6224::51171935
+3 _APID 6224:51171935
 2 NOTE Marital Status: Married; Relation to Head: Head
 1 RESI
 2 DATE 1940
@@ -802,7 +812,7 @@
 4 CONC lvania; Roll: m-t0627-03496; Page: 18A; Enumeration District
 4 CONC : 23-181
 3 OBJE @M3@
-3 _APID 1,2442::19861716
+3 _APID 2442:19861716
 2 NOTE Marital Status: Married; Relation to Head: Head
 1 DEAT
 2 DATE MAR 1973
@@ -813,12 +823,14 @@
 2 SOUR @S2@
 3 PAGE Number: 183-05-6576; Issue State: Pennsylvania; Issue Date
 4 CONC : Before 1951
-3 _APID 1,3693::31911078
+3 _APID 3693:31911078
+1 _GUID 8f1ddc36-ec24-46c3-8184-e3a8336be9e2
 0 @I29@ INDI
 1 REFN bc9b8dc5-c1a9-4f99-a032-8ff4e8c5ffba
 1 NAME Patricia /Joseph/
 1 SEX F
 1 FAMC @F2@
+1 _GUID a6780c03-858f-4269-af71-dc31538d757b
 0 @I8@ INDI
 1 NAME [REDACTED]
 1 FAMC @F2@
@@ -833,7 +845,7 @@
 4 CONC , Delaware; Roll: T625_200; Page: 8B; Enumeration District
 4 CONC : 184
 3 OBJE @M6@
-3 _APID 1,6061::3789261
+3 _APID 6061:3789261
 1 SEX F
 1 FAMC @F4@
 1 BIRT
@@ -847,7 +859,7 @@
 4 CONC , Delaware; Roll: T625_200; Page: 8B; Enumeration District
 4 CONC : 184
 3 OBJE @M6@
-3 _APID 1,6061::3789261
+3 _APID 6061:3789261
 1 RESI
 2 DATE 1920
 2 PLAC Sussex, Delaware, USA
@@ -859,18 +871,21 @@
 4 CONC , Delaware; Roll: T625_200; Page: 8B; Enumeration District
 4 CONC : 184
 3 OBJE @M6@
-3 _APID 1,6061::3789261
+3 _APID 6061:3789261
 2 NOTE Relation to Head: Daughter; Residence Marital Status: Single
+1 _GUID ba98b391-12e5-4d1d-8fde-836decfcc46a
 0 @I28@ INDI
 1 REFN e170339e-3d17-45c7-b73b-9829a28e805c
 1 NAME Thomas /Joseph/
 1 SEX M
 1 FAMC @F2@
+1 _GUID 6bb9fb5f-1318-4a87-8105-45e6a309b8a2
 0 @I1@ INDI
 1 REFN 5b80ebe6-9dc8-4ed0-a335-969f98204f86
 1 NAME William /Joseph/
 1 SEX M
 1 FAMC @F1@
+1 _GUID 03b301b1-88e2-484e-ac59-aa9d0edd4894
 0 @I11@ INDI
 1 REFN f4639a5b-d2b0-4f37-b36a-cc81e074edfc
 1 NAME Lillie //
@@ -878,8 +893,10 @@
 3 PAGE Delaware Public Archives; Dover, Delaware; Collection Number
 4 CONC : Birth Certificates - Delayed - 12; Roll Number: 101
 3 OBJE @M7@
+3 _APID 1672:300053430
 1 SEX F
 1 FAMS @F3@
+1 _GUID 41d762ef-695d-4efb-ac3c-47b1580c773f
 0 @I10@ INDI
 1 REFN 6fcf7c65-5621-43ed-a88f-a1b3a7c538ff
 1 NAME James /Ryan/
@@ -887,9 +904,10 @@
 3 PAGE Delaware Public Archives; Dover, Delaware; Collection Number
 4 CONC : Birth Certificates - Delayed - 12; Roll Number: 101
 3 OBJE @M7@
-3 _APID 1,1672::150053430
+3 _APID 1672:150053430
 1 SEX M
 1 FAMS @F3@
+1 _GUID a62f1902-76d1-43c3-a9da-049fd2b41e97
 0 @I5@ INDI
 1 REFN 751dad0b-ebdf-4b49-bef1-026785ecb59d
 1 NAME Lillian /Ryan/
@@ -898,29 +916,29 @@
 4 CONC lvania; Page: 11B; Enumeration District: 0142; FHL microfilm
 4 CONC : 2341767
 3 OBJE @M1@
-3 _APID 1,6224::51171941
+3 _APID 6224:51171941
 2 SOUR @S7@
 3 PAGE Year: 1940; Census Place: Upper Chichester, Delaware, Pennsy
 4 CONC lvania; Roll: m-t0627-03496; Page: 18A; Enumeration District
 4 CONC : 23-181
 3 OBJE @M3@
-3 _APID 1,2442::19861717
+3 _APID 2442:19861717
 2 SOUR @S10@
 3 PAGE Delaware Public Archives; Dover, Delaware; Delaware Vital Re
 4 CONC cords, 1800-1933; Series Number: Death Certificates - 27
 3 OBJE @M5@
-3 _APID 1,1674::750080197
+3 _APID 1674:750080197
 2 SOUR @S9@
 3 PAGE Delaware Public Archives; Dover, Delaware; Collection Number
 4 CONC : Birth Certificates - Delayed - 12; Roll Number: 101
 3 OBJE @M7@
-3 _APID 1,1672::53430
+3 _APID 1672:53430
 2 SOUR @S6@
-3 _APID 1,60901::792741209
+3 _APID 60901:792741209
 2 SOUR @S2@
 3 PAGE Number: 166-42-0072; Issue State: Pennsylvania; Issue Date
 4 CONC : 1966-1967
-3 _APID 1,3693::31910115
+3 _APID 3693:31910115
 1 SEX F
 1 FAMC @F3@
 1 FAMS @F2@
@@ -935,22 +953,22 @@
 4 CONC lvania; Page: 11B; Enumeration District: 0142; FHL microfilm
 4 CONC : 2341767
 3 OBJE @M1@
-3 _APID 1,6224::51171941
+3 _APID 6224:51171941
 2 SOUR @S7@
 3 PAGE Year: 1940; Census Place: Upper Chichester, Delaware, Pennsy
 4 CONC lvania; Roll: m-t0627-03496; Page: 18A; Enumeration District
 4 CONC : 23-181
 3 OBJE @M3@
-3 _APID 1,2442::19861717
+3 _APID 2442:19861717
 2 SOUR @S9@
 3 PAGE Delaware Public Archives; Dover, Delaware; Collection Number
 4 CONC : Birth Certificates - Delayed - 12; Roll Number: 101
 3 OBJE @M7@
-3 _APID 1,1672::53430
+3 _APID 1672:53430
 2 SOUR @S2@
 3 PAGE Number: 166-42-0072; Issue State: Pennsylvania; Issue Date
 4 CONC : 1966-1967
-3 _APID 1,3693::31910115
+3 _APID 3693:31910115
 1 RESI
 2 DATE 1930
 2 PLAC Upper Chichester, Delaware, Pennsylvania, USA
@@ -962,7 +980,7 @@
 4 CONC lvania; Page: 11B; Enumeration District: 0142; FHL microfilm
 4 CONC : 2341767
 3 OBJE @M1@
-3 _APID 1,6224::51171941
+3 _APID 6224:51171941
 2 NOTE Marital Status: Married; Relation to Head: Wife
 1 RESI
 2 DATE 1940
@@ -975,14 +993,15 @@
 4 CONC lvania; Roll: m-t0627-03496; Page: 18A; Enumeration District
 4 CONC : 23-181
 3 OBJE @M3@
-3 _APID 1,2442::19861717
+3 _APID 2442:19861717
 2 NOTE Marital Status: Married; Relation to Head: Wife
 1 DEAT
 2 DATE 10 JUL 1988
 2 SOUR @S2@
 3 PAGE Number: 166-42-0072; Issue State: Pennsylvania; Issue Date
 4 CONC : 1966-1967
-3 _APID 1,3693::31910115
+3 _APID 3693:31910115
+1 _GUID 4b6b8561-ba79-4d42-89f9-00264ba95266
 0 @I31@ INDI
 1 REFN 8ac5bdb5-f4e3-4905-a0d4-dd51e7374284
 1 NAME Helen Marie /Willis/
@@ -990,49 +1009,49 @@
 3 PAGE Year: 1930; Census Place: Tinicum, Delaware, Pennsylvania; P
 4 CONC age: 8B; Enumeration District: 0138; FHL microfilm: 2341767
 3 OBJE @M9@
-3 _APID 1,6224::51164985
+3 _APID 6224:51164985
 2 SOUR @S7@
 3 PAGE Year: 1940; Census Place: Tinicum, Delaware, Pennsylvania; R
 4 CONC oll: m-t0627-03496; Page: 9A; Enumeration District: 23-175
 3 OBJE @M12@
-3 _APID 1,2442::19848326
+3 _APID 2442:19848326
 2 SOUR @S10@
 3 PAGE Delaware Public Archives; Dover, Delaware; Delaware Vital Re
 4 CONC cords, 1800-1933; Series Number: Death Certificates - 21
 3 OBJE @M14@
-3 _APID 1,1674::750071266
+3 _APID 1674:750071266
 2 SOUR @S12@
 3 PAGE Historical Society of Pennsylvania; Philadelphia, Pennsylvan
 4 CONC ia; Historic Pennsylvania Church and Town Records; Reel: 627
 4 CONC ; Helen Marie Aniba (in record of Harry Raymond Aniba)
 3 OBJE @M11@
-3 _APID 1,2451::35058747
+3 _APID 2451:35058747
 2 SOUR @S12@
 3 PAGE Historical Society of Pennsylvania; Philadelphia, Pennsylvan
 4 CONC ia; Historic Pennsylvania Church and Town Records; Reel: 627
 4 CONC ; Helen Marie Aniba (in record of Helen Ruth Aniba)
 3 OBJE @M11@
-3 _APID 1,2451::35058743
+3 _APID 2451:35058743
 2 SOUR @S12@
 3 PAGE Historical Society of Pennsylvania; Philadelphia, Pennsylvan
 4 CONC ia; Historic Pennsylvania Church and Town Records; Reel: 627
 4 CONC ; Helen Marie Aniba (in record of Margaret Isabella Aniba)
 3 OBJE @M11@
-3 _APID 1,2451::35058745
+3 _APID 2451:35058745
 2 SOUR @S13@
 3 PAGE Pennsylvania Historic and Museum Commission; Pennsylvania, U
 4 CONC SA; Pennsylvania, Death Certificates, 1906-1965; Certificat
 4 CONC e Number Range: 058501-061200
 3 OBJE @M13@
-3 _APID 1,5164::756316624
+3 _APID 5164:756316624
 2 SOUR @S13@
 3 PAGE Pennsylvania Historic and Museum Commission; Pennsylvania, U
 4 CONC SA; Pennsylvania, Death Certificates, 1906-1965; Certificat
 4 CONC e Number Range: 087001-090000
 3 OBJE @M10@
-3 _APID 1,5164::754823730
+3 _APID 5164:754823730
 2 SOUR @S6@
-3 _APID 1,60901::764546632
+3 _APID 60901:764546632
 1 SEX F
 1 FAMS @F14@
 1 BIRT
@@ -1045,18 +1064,18 @@
 3 PAGE Year: 1930; Census Place: Tinicum, Delaware, Pennsylvania; P
 4 CONC age: 8B; Enumeration District: 0138; FHL microfilm: 2341767
 3 OBJE @M9@
-3 _APID 1,6224::51164985
+3 _APID 6224:51164985
 2 SOUR @S7@
 3 PAGE Year: 1940; Census Place: Tinicum, Delaware, Pennsylvania; R
 4 CONC oll: m-t0627-03496; Page: 9A; Enumeration District: 23-175
 3 OBJE @M12@
-3 _APID 1,2442::19848326
+3 _APID 2442:19848326
 2 SOUR @S13@
 3 PAGE Pennsylvania Historic and Museum Commission; Pennsylvania, U
 4 CONC SA; Pennsylvania, Death Certificates, 1906-1965; Certificat
 4 CONC e Number Range: 087001-090000
 3 OBJE @M10@
-3 _APID 1,5164::754823730
+3 _APID 5164:754823730
 1 RESI
 2 DATE 1930
 2 PLAC Tinicum, Delaware, Pennsylvania, USA
@@ -1067,7 +1086,7 @@
 3 PAGE Year: 1930; Census Place: Tinicum, Delaware, Pennsylvania; P
 4 CONC age: 8B; Enumeration District: 0138; FHL microfilm: 2341767
 3 OBJE @M9@
-3 _APID 1,6224::51164985
+3 _APID 6224:51164985
 2 NOTE Marital Status: Married; Relation to Head: Wife
 1 RESI
 2 DATE 1940
@@ -1079,8 +1098,9 @@
 3 PAGE Year: 1940; Census Place: Tinicum, Delaware, Pennsylvania; R
 4 CONC oll: m-t0627-03496; Page: 9A; Enumeration District: 23-175
 3 OBJE @M12@
-3 _APID 1,2442::19848326
+3 _APID 2442:19848326
 2 NOTE Marital Status: Married; Relation to Head: Wife
+1 _GUID e462b0ee-09a9-4bba-812b-24d448084848
 0 @F14@ FAM
 1 REFN 8b338f36-d591-4c78-9971-20b00ea6441b
 1 HUSB @I30@
@@ -1193,30 +1213,35 @@
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2010
+1 _APID 6061
 0 @S8@ SOUR
 1 REPO @R1@
 1 TITL 1930 United States Federal Census
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations Inc; Location: Provo, UT, USA; Date
 2 CONC : 2002
+1 _APID 6224
 0 @S7@ SOUR
 1 REPO @R1@
 1 TITL 1940 United States Federal Census
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2012
+1 _APID 2442
 0 @S10@ SOUR
 1 REPO @R1@
 1 TITL Delaware Death Records, 1861-1933
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2010
+1 _APID 1674
 0 @S9@ SOUR
 1 REPO @R1@
 1 TITL Delaware, Birth Records, 1800-1932
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2010
+1 _APID 1672
 0 @S12@ SOUR
 1 REPO @R1@
 1 TITL Pennsylvania and New Jersey, Church and Town Records, 1669-2
@@ -1224,12 +1249,14 @@
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Lehi, UT, USA; Date
 2 CONC : 2011
+1 _APID 2451
 0 @S13@ SOUR
 1 REPO @R1@
-1 TITL Pennsylvania, Death Certificates, 1906-1966
+1 TITL Pennsylvania, Death Certificates, 1906-1967
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2014
+1 _APID 5164
 0 @S4@ SOUR
 1 REPO @R1@
 1 TITL Pennsylvania, Veteran Compensation Application Files, WWII
@@ -1237,12 +1264,14 @@
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2015
+1 _APID 3147
 0 @S5@ SOUR
 1 REPO @R1@
 1 TITL U.S. WWII Draft Cards Young Men, 1940-1947
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Lehi, UT, USA; Date
 2 CONC : 2011
+1 _APID 2238
 0 @S3@ SOUR
 1 REPO @R1@
 1 TITL U.S., Department of Veterans Affairs BIRLS Death File, 1850-
@@ -1250,12 +1279,14 @@
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2011
+1 _APID 2441
 0 @S1@ SOUR
 1 REPO @R1@
-1 TITL U.S., Obituary Collection, 1930-2018
+1 TITL U.S., Obituary Collection, 1930-Current
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations Inc; Location: Lehi, UT, USA; Date
 2 CONC : 2006
+1 _APID 7545
 0 @S6@ SOUR
 1 REPO @R1@
 1 TITL U.S., Social Security Applications and Claims Index, 1936-20
@@ -1263,13 +1294,16 @@
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2015
+1 _APID 60901
 0 @S2@ SOUR
 1 REPO @R1@
 1 TITL U.S., Social Security Death Index, 1935-2014
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations Inc; Location: Provo, UT, USA; Date
 2 CONC : 2014
+1 _APID 3693
 0 @M1@ OBJE
+1 _GUID d54560b0-30cd-4ad4-939c-237ba4887424
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Joseph Media\19
 2 CONC 30 United States Federal Census.jpg
 2 FORM jpg
@@ -1278,6 +1312,7 @@
 3 CONC lvania; Page: 11B; Enumeration District: 0142; FHL microfilm
 3 CONC : 2341767
 0 @M2@ OBJE
+1 _GUID 56ef4b2d-efb9-46ab-af2b-c85fe80f9dc1
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Joseph Media\Pe
 2 CONC nnsylvania, Veteran Compensation Application Files, WWII, 19
 2 CONC 50-1966.jpg
@@ -1285,6 +1320,7 @@
 2 TITL Pennsylvania, Veteran Compensation Application Files, WWII
 3 CONC , 1950-1966
 0 @M3@ OBJE
+1 _GUID f0938693-bb49-4885-87dc-1ba81637b7ef
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Joseph Media\19
 2 CONC 40 United States Federal Census.jpg
 2 FORM jpg
@@ -1293,6 +1329,7 @@
 3 CONC lvania; Roll: m-t0627-03496; Page: 18A; Enumeration District
 3 CONC : 23-181
 0 @M4@ OBJE
+1 _GUID a3b38428-8f6c-4452-bf85-c4624daafb5d
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Joseph Media\De
 2 CONC laware, Birth Records, 1800-1932.jpg
 2 FORM jpg
@@ -1300,6 +1337,7 @@
 2 _TEXT Delaware Public Archives; Dover, Delaware; Collection Number
 3 CONC : Birth Certificates - Delayed - 2; Roll Number: 91
 0 @M5@ OBJE
+1 _GUID a9518f7e-32d1-4994-aa48-8b217d4f722c
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Joseph Media\De
 2 CONC laware Death Records, 1861-1933.jpg
 2 FORM jpg
@@ -1307,6 +1345,7 @@
 2 _TEXT Delaware Public Archives; Dover, Delaware; Delaware Vital Re
 3 CONC cords, 1800-1933; Series Number: Death Certificates - 27
 0 @M6@ OBJE
+1 _GUID 008343c1-0d33-4a4b-9193-92c7f1472dc4
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Joseph Media\19
 2 CONC 20 United States Federal Census.jpg
 2 FORM jpg
@@ -1315,6 +1354,7 @@
 3 CONC , Delaware; Roll: T625_200; Page: 8B; Enumeration District
 3 CONC : 184
 0 @M7@ OBJE
+1 _GUID 0d0f7f82-396d-4294-ab62-9852b70c6f35
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Joseph Media\De
 2 CONC laware, Birth Records, 1800-1932(1).jpg
 2 FORM jpg
@@ -1322,6 +1362,7 @@
 2 _TEXT Delaware Public Archives; Dover, Delaware; Collection Number
 3 CONC : Birth Certificates - Delayed - 12; Roll Number: 101
 0 @M8@ OBJE
+1 _GUID f996b2df-787d-4108-8410-893c36a99027
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Joseph Media\19
 2 CONC 40 United States Federal Census(1).jpg
 2 FORM jpg
@@ -1330,6 +1371,7 @@
 3 CONC lvania; Roll: m-t0627-03496; Page: 18B; Enumeration District
 3 CONC : 23-181
 0 @M9@ OBJE
+1 _GUID bf00493e-d914-4f8c-bff0-0076a2b956ae
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Joseph Media\19
 2 CONC 30 United States Federal Census(1).jpg
 2 FORM jpg
@@ -1337,6 +1379,7 @@
 2 _TEXT Year: 1930; Census Place: Tinicum, Delaware, Pennsylvania; P
 3 CONC age: 8B; Enumeration District: 0138; FHL microfilm: 2341767
 0 @M10@ OBJE
+1 _GUID 2446f439-bd07-4a9e-882d-206e26ef52c4
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Joseph Media\Pe
 2 CONC nnsylvania, Death Certificates, 1906-1966.jpg
 2 FORM jpg
@@ -1345,6 +1388,7 @@
 3 CONC SA; Pennsylvania, Death Certificates, 1906-1965; Certificat
 3 CONC e Number Range: 087001-090000
 0 @M11@ OBJE
+1 _GUID d930ad2d-e6b4-4193-b129-db06503449df
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Joseph Media\Pe
 2 CONC nnsylvania and New Jersey, Church and Town Records, 1669-201
 2 CONC 3.jpg
@@ -1354,6 +1398,7 @@
 2 _TEXT Historical Society of Pennsylvania; Philadelphia, Pennsylvan
 3 CONC ia; Historic Pennsylvania Church and Town Records; Reel: 627
 0 @M12@ OBJE
+1 _GUID e484c35b-228f-4f2f-a0f2-b83f96ff3b4d
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Joseph Media\19
 2 CONC 40 United States Federal Census(2).jpg
 2 FORM jpg
@@ -1361,6 +1406,7 @@
 2 _TEXT Year: 1940; Census Place: Tinicum, Delaware, Pennsylvania; R
 3 CONC oll: m-t0627-03496; Page: 9A; Enumeration District: 23-175
 0 @M13@ OBJE
+1 _GUID 91af3b53-5524-4f49-b19f-0c2e879e6dd6
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Joseph Media\Pe
 2 CONC nnsylvania, Death Certificates, 1906-1966(1).jpg
 2 FORM jpg
@@ -1369,6 +1415,7 @@
 3 CONC SA; Pennsylvania, Death Certificates, 1906-1965; Certificat
 3 CONC e Number Range: 058501-061200
 0 @M14@ OBJE
+1 _GUID 9aecbc45-abc3-4cb1-963b-9ef7ef95ba35
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Joseph Media\De
 2 CONC laware Death Records, 1861-1933(1).jpg
 2 FORM jpg
