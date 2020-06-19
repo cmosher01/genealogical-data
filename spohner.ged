@@ -14,9 +14,9 @@
 4 CONT Boston, MA 02109
 3 PHON (617) 227-6681
 1 DEST FTM
-1 FILE Spohner_2020-06-19-22-25-35.ftm.ged
+1 FILE Spohner_2020-06-19-23-43-40.ftm.ged
 1 DATE 19 JUN 2020
-2 TIME 22:25:52
+2 TIME 23:43:54
 0 @Umy2qBWIRUiwVSS6Hcn4@ SUBM
 1 NAME Christopher Alan Mosher
 2 EMAIL cmosher01@@gmail.com
@@ -1207,14 +1207,12 @@
 1 FAMS @gK8lyotsTeihyO19ObZo@
 1 BIRT
 2 DATE ABT 1713
-2 NOTE a guess
 1 DEAT
 2 DATE ABT 1800
 2 PLAC New York, USA
 3 MAP
 4 LATI N42.7531
 4 LONG W74.2224
-2 NOTE a guess
 1 _GUID b506d3dc-48aa-438e-bcc5-69a8e54954b4
 1 _XY 447.00 345.00
 0 @DC6K2THNSeSjGxhDXmVP@ INDI
@@ -1321,7 +1319,6 @@
 2 SOUR @qoy40CNvRKyU8tvzmQEO@
 3 PAGE p. 5
 3 QUAY 1
-2 NOTE date is just a guess
 1 DEAT
 2 DATE ABT 1772
 2 PLAC New York, USA
@@ -2250,7 +2247,6 @@
 3 CONC A
 2 SOUR @Kt7XY60BQbiuutf7dN0N@
 3 QUAY 1
-2 NOTE date is just a guess
 1 _GUID 48563e93-26ae-4cb9-af2d-b8aa7f69112b
 1 _XY 7593.00 514.00
 0 @s1emVMyRQReTAlDS84F0@ INDI
@@ -3072,7 +3068,7 @@
 3 QUAY 1
 1 EVEN
 2 TYPE military
-2 DATE FROM 1775 TO 1776
+2 DATE 1775
 2 SOUR @oPrx8lnRTDKc57mQIfn0@
 3 QUAY 1
 2 NOTE Revolutionary War
@@ -3146,14 +3142,12 @@
 1 SEX M
 1 FAMS @InhlithhS0Wm5hk0W8NM@
 1 BIRT
-2 DATE ABT 1727
+2 DATE ABT 1737
 2 PLAC Sponheim, Bad Kreuznach, Rheinland-Pfalz, Germany
 3 MAP
 4 LATI N49.85
 4 LONG E7.7333
 2 SOUR @bUxrfzO4Rn2nVjB4LwnS@
-2 NOTE This date seems a little too early. Maybe c. 1737 is a bette
-3 CONC r fit.
 1 DEAT
 2 DATE 06 AUG 1777
 2 PLAC Oriskany, Oneida, New York, USA
@@ -3782,6 +3776,7 @@
 3 _APID 60525:12601234
 2 SOUR @OGXwsRzKTTqSepyc7LXD@
 3 _APID 70572:189382
+1 NAME Aaron /Spohner/
 1 SEX M
 1 FAMC @apzmHapNRDiyYHvyYt6E@
 1 FAMS @zMLdQvBAR5e0Ch3H6aDq@
@@ -3917,10 +3912,9 @@
 3 OBJE @Dhzz6LKJSPSgijx1fOwX@
 3 _APID 8054:11969908
 2 NOTE Age: 19
-1 EVEN
+1 EVEN Aaron /Spohner/
 2 TYPE name change
-2 DATE BET 07 SEP 1850 AND 1860
-2 NOTE changed last name to "Spohner" or "Spooner"
+2 DATE ABT 1855
 1 CENS
 2 DATE 01 JUN 1860
 2 PLAC Smithfield, Madison, New York, USA
@@ -4194,7 +4188,6 @@
 3 _APID 60525:12601234
 2 SOUR @OGXwsRzKTTqSepyc7LXD@
 3 _APID 70572:189382
-2 NOTE date is just a guess
 1 _GUID 1d48795f-b3c4-4cee-9a93-149085317bcc
 1 _XY 447.00 745.00
 0 @CqVogy9XTIqKEZPIij9N@ INDI
@@ -4944,25 +4937,19 @@
 4 LONG E7.8
 2 SOUR @bUxrfzO4Rn2nVjB4LwnS@
 1 RESI
-2 DATE FROM 1687 TO 1709
-2 PLAC Cölln, Donnersbergkreis, Rheinland-Pfalz, Germany
-3 MAP
-4 LATI N49.6833
-4 LONG E7.8
-1 RESI
-2 DATE 1709
+2 DATE ABT 1708
 2 PLAC Rotterdam, Zuid-Holland, Netherlands
 3 MAP
 4 LATI N51.9045
 4 LONG E4.4475
 1 RESI
-2 DATE FROM 1709 TO 20 JAN 1710
+2 DATE 1709
 2 PLAC Blackheath, London, England
 1 RESI
-2 DATE FROM 10 JUN 1710 TO OCT 1710
+2 DATE 10 JUN 1710
 2 PLAC Governors Island, New York, New York, USA
 1 RESI
-2 DATE FROM OCT 1710 TO 1713
+2 DATE OCT 1710
 2 PLAC West Camp, Ulster, New York, USA
 3 MAP
 4 LATI N42.1231
@@ -4972,7 +4959,7 @@
 2 NOTE based on birth date and place of son Johann Henrich, assum
 3 CONC e the family came with the Palatine immigration to this area
 1 RESI
-2 DATE FROM 1713 TO 1722
+2 DATE 1713
 2 PLAC Hartmansdorf, Middleburgh, Schoharie, New York, USA
 2 SOUR @rDBLjZdmSXOiGFdtABLo@
 3 QUAY 1
@@ -5004,7 +4991,7 @@
 3 CONC gh and Schoharie, which only existed from
 3 CONT about 1713 to about 1722.
 1 RESI
-2 DATE FROM 1722
+2 DATE 1722
 2 PLAC East Herkimer, Herkimer, New York, USA
 3 MAP
 4 LATI N43.0304
@@ -5078,13 +5065,6 @@
 4 LONG W73.9353
 2 SOUR @ioLutjcVS4eR7plvM9Jd@
 3 QUAY 1
-1 RESI
-2 DATE FROM 30 JUL 1712 TO 1713
-2 PLAC West Camp, Ulster, New York, USA
-3 MAP
-4 LATI N42.1231
-4 LONG W73.9353
-2 NOTE Assume he was living with his father.
 1 BAPM
 2 DATE 10 AUG 1712
 2 PLAC Saint Paul's Lutheran Church, West Camp, Ulster, New York, U
@@ -5092,11 +5072,11 @@
 2 SOUR @ioLutjcVS4eR7plvM9Jd@
 3 QUAY 1
 1 RESI
-2 DATE FROM 1713 TO 1722
+2 DATE 1713
 2 PLAC Hartmansdorf, Middleburgh, Schoharie, New York, USA
 2 NOTE Assume he was living with his father.
 1 RESI
-2 DATE FROM 1722
+2 DATE 1722
 2 PLAC German Flatts, Herkimer, New York, USA
 3 MAP
 4 LATI N42.9881
@@ -7065,16 +7045,9 @@
 1 FAMS @wV0YSvVLQuC54rNgMFUo@
 1 OBJE @METLLW1jR5u87zI3RElK@
 1 OBJE @1nauENXLQTqrrExM42Kc@
-1 RESI
-2 DATE FROM 1861 TO 1886
-2 PLAC Morrisville, Eaton, Madison, New York, USA
-2 NOTE Dates are guesses.
 1 BIRT
 2 DATE 26 JUL 1861
-2 PLAC Madison, New York, USA
-3 MAP
-4 LATI N42.9118
-4 LONG W75.6682
+2 PLAC Morrisville, Eaton, Madison, New York, USA
 2 SOUR @xnvxS4D3TOyu7JDskm0I@
 3 PAGE Year: 1870; Census Place: Eaton, Madison, New York; Roll: M5
 4 CONC 93_967; Page: 160A; Image: 324; Family History Library Film
@@ -7272,14 +7245,14 @@
 3 OBJE @M57@
 3 OBJE @M58@
 1 RESI
-2 DATE FROM 1886 TO 09 FEB 1894
+2 DATE ABT 1886
 2 PLAC Oneida Castle, Oneida, New York, USA
 3 MAP
 4 LATI N43.0826
 4 LONG W75.6335
-2 NOTE Assume based on husband. Dates are guesses.
+2 NOTE Assume based on husband
 1 RESI
-2 DATE FROM 09 FEB 1894 TO 01 JUN 1897
+2 DATE 09 FEB 1894
 2 PLAC Siloam, Smithfield, Madison, New York, USA
 2 NOTE Assumed based on husband (assume family moved in with Willia
 3 CONC m's brother, James Colvin, when William became sick). Assum
@@ -7324,7 +7297,6 @@
 3 CONC r, New York, USA
 2 SOUR @Kt7XY60BQbiuutf7dN0N@
 3 QUAY 1
-2 NOTE date is just a guess
 1 _GUID 8d3113cf-fd2e-402f-9845-a18d92ea6e12
 1 _XY 8033.00 412.00
 0 @2VaN8g9WTDyePHGMzsfM@ INDI
@@ -8524,7 +8496,6 @@
 3 QUAY 1
 2 SOUR @OGXwsRzKTTqSepyc7LXD@
 3 _APID 70572:6350983
-2 NOTE date is just a guess
 1 _GUID 9a7f7a2a-7f76-4127-9a54-e94b5461e84f
 1 _XY 3882.00 700.00
 0 @gOEvGS4PSdyVltNbpfZN@ INDI
@@ -8926,7 +8897,7 @@
 5 CONC p;</td></tr>
 5 CONT </table>
 1 DEAT
-2 DATE AFT 1860
+2 DATE AFT JUL 1860
 2 PLAC Little Falls, Herkimer, New York, USA
 3 MAP
 4 LATI N43.0434
