@@ -14,9 +14,9 @@
 4 CONT Boston, MA 02109
 3 PHON (617) 227-6681
 1 DEST FTM
-1 FILE Spohner_2020-06-11-19-20-11.ftm.ged
-1 DATE 11 JUN 2020
-2 TIME 19:17:22
+1 FILE Spohner_2020-06-19-22-25-35.ftm.ged
+1 DATE 19 JUN 2020
+2 TIME 22:25:52
 0 @Umy2qBWIRUiwVSS6Hcn4@ SUBM
 1 NAME Christopher Alan Mosher
 2 EMAIL cmosher01@@gmail.com
@@ -219,6 +219,10 @@
 4 LONG W74.8057
 2 SOUR @yHZ5z9CgT7GmhDribrey@
 3 QUAY 3
+3 DATA
+4 TEXT [page] 33<br />
+5 CONT [...]<br />
+5 CONT Honyost Eadle
 2 NOTE Census gives Palatine, Mongomery Co. for the place. Manhei
 3 CONC m was formed from (part of Palatine) in 1817, so I'm assumin
 3 CONC g that he is in the part of Palatine that became Manheim, be
@@ -231,6 +235,39 @@
 4 LONG W74.8057
 2 SOUR @bCpRCaSzTReRh0yLpGLk@
 3 QUAY 1
+3 DATA
+4 TEXT [AIS page] 52<br />
+5 CONT Town of Manheim<br />
+5 CONT John Adle<br />
+5 CONT [Right-hand pages are missing (they contain last 9 columns),
+5 CONC <br />
+5 CONT only left-hand columns show (name plus first 3 columns of ag
+5 CONC es).<br />
+5 CONT Backwards images of right-hand pages apprear to be faintly v
+5 CONC isible over top of normal left-hand page images. It seems a
+5 CONC s though the right-hand page corresponding to a given left-h
+5 CONC and page is over top of the *following* page. For example, p
+5 CONC age 2's faint images correspond to page 1's left-hand norma
+5 CONC l images. However, the ages don't match up very well with th
+5 CONC e known children of Johann Georg Adle. I still believe thi
+5 CONC s is his household, because it is immediately before his bro
+5 CONC ther Johann Josef Alde's household (shown as "Joseph Adle").
+5 CONC <br />
+5 CONT The ages for the "John Adle" household appear to be as follo
+5 CONC ws:<br />
+5 CONT 0 0 0 0 1 0 0 1 0 0
+5 CONT m45+<br />
+5 CONT f16-25<br />
+5 CONT However, Johann Georg Adle's household should be as follows:
+5 CONC <br />
+5 CONT 2 0 0 1 0 1 0 1 0 0:<br />
+5 CONT m 0-9 Georg or Jakob (0-5 from 1810 census)<br />
+5 CONT m 0-9 Johann Adle (7)<br />
+5 CONT m 26-44 Johann Georg Adle (42)<br />
+5 CONT f 0-9 Katharine Adle (3)<br />
+5 CONT f 16-25 Magdalena Klock (25)<br />
+5 CONT ]<br />
+5 CONT Joseph Adle [Johann Josef Adle]
 1 CENS
 2 DATE 06 AUG 1810
 2 PLAC Manheim, Herkimer, New York, USA
@@ -239,6 +276,27 @@
 4 LONG W74.8057
 2 SOUR @OrgEQH1MT2OuoU5iE0Z2@
 3 QUAY 3
+3 DATA
+4 TEXT [AIS page] 104<br />
+5 CONT [page] 211<br />
+5 CONT [...]<br />
+5 CONT Baltis Trough<br />
+5 CONT [note: this is under Battes Trough in AIS index;<br />
+5 CONT I believe this is Baldus Strauch b. 1787, brother of Matthia
+5 CONC s Strauch]<br />
+5 CONT [...]<br />
+5 CONT John Adle<br />
+5 CONT [m 0-9 Jakob Adle (age unknown)<br />
+5 CONT m 10-15 Georg Adle (age unknown)<br />
+5 CONT m 16-25 Johann Adle (17)<br />
+5 CONT m 26-44 Johann Georg Adle (52)?<br />
+5 CONT f 0-9 Mary Adle (1)<br />
+5 CONT f 0-9 Anna Adle (1)<br />
+5 CONT f 0-9 Nancy Adle (7)<br />
+5 CONT f 0-9 Lydia Adle (4)<br />
+5 CONT f 10-15 Katharine Adle (13)<br />
+5 CONT f 26-44 Magdalena Klock (35)<br />
+5 CONT ]
 1 EVEN
 2 TYPE military
 2 DATE ABT 1812
@@ -441,6 +499,17 @@
 4 LONG W74.8057
 2 SOUR @ERq7zwYZRNyrfmXMGzVN@
 3 QUAY 1
+3 DATA
+4 TEXT Town of Manheim<br />
+5 CONT [...]<br />
+5 CONT John Strough<br />
+5 CONT Matthew Strough<br />
+5 CONT [m20-29 Matthew Strough (c30)<br />
+5 CONT f0-4 ? b1826-1830<br />
+5 CONT f20-29 Lydia Adle (c24)<br />
+5 CONT ]<br />
+5 CONT [...]<br />
+5 CONT Baltus Strough
 1 CENS
 2 DATE 01 JUN 1840
 2 PLAC Manheim, Herkimer, New York, USA
@@ -449,6 +518,16 @@
 4 LONG W74.8057
 2 SOUR @JgO2XSnQS36bXrtvko5v@
 3 QUAY 2
+3 DATA
+4 TEXT Manheim<br />
+5 CONT [...]<br />
+5 CONT Matthew Strough<br />
+5 CONT [m40-49 Matthew Strough (c40)<br />
+5 CONT f0-4 Nancy Strough (3)<br />
+5 CONT f5-9 Magdalena Strough (8)<br />
+5 CONT f10-14 ? b1826-1830<br />
+5 CONT f30-39 Lydia Adle (34)<br />
+5 CONT ]
 1 CENS
 2 DATE 01 JUN 1850
 2 PLAC Manheim, Herkimer, New York, USA
@@ -457,6 +536,23 @@
 4 LONG W74.8057
 2 SOUR @y0rbFeaiRdq4vqT8x9R7@
 3 QUAY 3
+3 DATA
+4 TEXT 27 Aug 1850<br />
+5 CONT dwelling 208<br />
+5 CONT family 211<br />
+5 CONT <table border="1">
+5 CONT <tr><td>Mathew</td><td>Strough</td><td>50</td><td>m</td><td>
+5 CONC " [Labourer]</td><td>" " [New York]</td><td>[can't r/w]</td>
+5 CONC </tr>
+5 CONT <tr><td>Lydia</td><td>"</td><td>44</td><td>f</td><td>&nbsp;<
+5 CONC /td><td>" "</td><td>[can't r/w]</td></tr>
+5 CONT <tr><td>Lany</td><td>"</td><td>18</td><td>f</td><td>&nbsp;</
+5 CONC td><td>" "</td><td>&nbsp;</td></tr>
+5 CONT <tr><td>Nancy</td><td>"</td><td>13</td><td>f</td><td>&nbsp;<
+5 CONC /td><td>" "</td><td>&nbsp;</td></tr>
+5 CONT <tr><td>Lydia</td><td>"</td><td>3</td><td>f</td><td>&nbsp;</
+5 CONC td><td>" "</td><td>&nbsp;</td></tr>
+5 CONT </table>
 1 RESI
 2 DATE 1850
 2 PLAC Manheim, Herkimer, New York, USA
@@ -498,9 +594,65 @@
 3 MAP
 4 LATI N42.8497
 4 LONG W75.6122
-2 SOUR @oxokfBzJTdqN32mtJ0tY@
+2 SOUR @S83@
 3 QUAY 3
-2 SOUR @dfwZDtFZTyOI5x6dwE0Q@
+3 DATA
+4 TEXT Page No. 65<br />
+5 CONT SCHEDULE 1.--Inhabitants in Eaton, in the County of Madison
+5 CONC , State of New York, enumerated by me on the 25 day of July
+5 CONC , 1870.<br />
+5 CONT Post Office: Morrisville<br />
+5 CONT [...]<br />
+5 CONT [Dwelling] 532<br />
+5 CONT [Family] 549<br />
+5 CONT <table border="1">
+5 CONT <tr><td>[last</td><td>first</td><td>age</td><td>gend</td><td
+5 CONC >race</td><td>occ</td><td>real</td><td>pers</td><td>birth</t
+5 CONC d><td>at sch]</td></tr>
+5 CONT <tr><td>Spooner</td><td>Aaron</td><td>40</td><td>M</td><td>W
+5 CONC </td><td>Farmer</td><td>1450</td><td>300</td><td>New York</t
+5 CONC d><td>&nbsp;</td></tr>
+5 CONT <tr><td>--</td><td>Laura</td><td>37</td><td>F</td><td>W</td>
+5 CONC <td>Keeping House</td><td>&nbsp;</td><td>&nbsp;</td><td>Ne
+5 CONC w York</td><td>&nbsp;</td></tr>
+5 CONT <tr><td>--</td><td>Herman</td><td>15</td><td>M</td><td>W</td
+5 CONC ><td>Form Labor</td><td>&nbsp;</td><td>&nbsp;</td><td>New Yo
+5 CONC rk</td><td>1</td></tr>
+5 CONT <tr><td>--</td><td>Lydia</td><td>11</td><td>F</td><td>W</td>
+5 CONC <td>At School</td><td>&nbsp;</td><td>&nbsp;</td><td>New York
+5 CONC </td><td>1</td></tr>
+5 CONT <tr><td>--</td><td>Nancy</td><td>8</td><td>F</td><td>W</td><
+5 CONC td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>New York</td
+5 CONC ><td>1</td></tr>
+5 CONT <tr><td>--</td><td>Mary</td><td>7</td><td>F</td><td>W</td><t
+5 CONC d>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>New York</td>
+5 CONC <td>1</td></tr>
+5 CONT <tr><td>--</td><td>Aaron</td><td>1</td><td>M</td><td>W</td><
+5 CONC td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>New York</td
+5 CONC ><td>&nbsp;</td></tr>
+5 CONT <tr><td>Straugh</td><td>Lydia</td><td>66</td><td>F</td><td>W
+5 CONC </td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>New Yo
+5 CONC rk</td><td>&nbsp;</td></tr>
+5 CONT </table>
+2 SOUR @S82@
+3 DATA
+4 TEXT Page No. 68<br />
+5 CONT SCHEDULE I.--Inhabitants in Eaton, in the County of Madison
+5 CONC , State of New York, enumerated by me on the 25 day of July
+5 CONC , 1870.<br />
+5 CONT Post Office: Pratts Hollow<br />
+5 CONT <table border="1">
+5 CONT <tr><td>558</td><td>573</td></tr>
+5 CONT <tr><td>&nbsp;</td><td>&nbsp;</td><td>Slocum</td><td>Peleg</
+5 CONC td><td>67</td><td>M</td><td>W</td><td>Farmer</td><td>3000</t
+5 CONC d><td>675</td><td>Rhode Island</td></tr>
+5 CONT <tr><td>&nbsp;</td><td>&nbsp;</td><td>--</td><td>Olive</td><
+5 CONC td>61</td><td>F</td><td>W</td><td>Keeping House</td><td>&nbs
+5 CONC p;</td><td>&nbsp;</td><td>New York</td></tr>
+5 CONT <tr><td>&nbsp;</td><td>&nbsp;</td><td>--</td><td>Jennette</t
+5 CONC d><td>40</td><td>F</td><td>W</td><td>At Home</td><td>&nbsp;<
+5 CONC /td><td>&nbsp;</td><td>New York</td><td>Blind</td></tr>
+5 CONT </table>
 1 RESI
 2 DATE 1870
 2 PLAC Morrisville, Eaton, Madison, New York, United States
@@ -518,6 +670,29 @@
 4 LONG W75.6122
 2 SOUR @SvybU5f8TmGg2t5AX4Fo@
 3 QUAY 3
+3 DATA
+4 TEXT dwelling 354 frame $500<br />
+5 CONT family 383<br />
+5 CONT <table border="1">
+5 CONT <tr><td>Aaron</td><td>Spooner</td><td>45</td><td>m</td><td>-
+5 CONC </td><td>Herkimer</td><td>married</td><td>farmer</td></tr>
+5 CONT <tr><td>Lana</td><td>Spooner</td><td>43</td><td>f</td><td>Wi
+5 CONC fe</td><td>"</td><td>married</td><td>&nbsp;</td></tr>
+5 CONT <tr><td>Herman E.</td><td>Spooner</td><td>19</td><td>m</td><
+5 CONC td>Son</td><td>Madison</td><td>single</td><td>&nbsp;</td></t
+5 CONC r>
+5 CONT <tr><td>Lydia E.</td><td>Spooner</td><td>16</td><td>f</td><t
+5 CONC d>Daughter</td><td>"</td><td>single</td><td>&nbsp;</td></tr>
+5 CONT <tr><td>Nancy E.</td><td>Spooner</td><td>13</td><td>f</td><t
+5 CONC d>Daughter</td><td>"</td><td>single</td><td>&nbsp;</td></tr>
+5 CONT <tr><td>Mary E.</td><td>Spooner</td><td>11</td><td>f</td><td
+5 CONC >Daughter</td><td>"</td><td>single</td><td>&nbsp;</td></tr>
+5 CONT <tr><td>Aaron E.</td><td>Spooner</td><td>6</td><td>m</td><td
+5 CONC >Son</td><td>"</td><td>single</td><td>&nbsp;</td></tr>
+5 CONT <tr><td>Lydia</td><td>Strow</td><td>67</td><td>f</td><td>Wif
+5 CONC e's Mother</td><td>Herkimer</td><td>&nbsp;</td><td>&nbsp;</t
+5 CONC d></tr>
+5 CONT </table>
 1 DEAT
 2 DATE 1889
 2 PLAC Morrisville, Eaton, Madison, New York, USA
@@ -533,6 +708,13 @@
 3 CONC , USA
 2 SOUR @lRXHBsTAT52nQGLIao0P@
 3 QUAY 2
+3 DATA
+4 TEXT <center>
+5 CONT LYDIA<br />
+5 CONT WIFE OF<br />
+5 CONT MATHEW STROUGH<br />
+5 CONT 1806-1889<br />
+5 CONT </center>
 2 SOUR @T04Thx8JT9W2rNmp2cvO@
 3 _APID 60525:21086348
 2 SOUR @OGXwsRzKTTqSepyc7LXD@
@@ -757,6 +939,17 @@
 4 LONG W74.986
 2 SOUR @J5wonceqRjit4ipUMzY4@
 3 QUAY 1
+3 DATA
+4 TEXT Nicholas Spoon<br />
+5 CONT [m0-15 Johannes Nicholas Spoon (1)<br />
+5 CONT m0-15 Nicholas Spoon (3)<br />
+5 CONT m16+ ???Nicholas Henrich Spoon (67)<br />
+5 CONT m16+ ?<br />
+5 CONT m16+ Johann Nicholas Spohn (28)<br />
+5 CONT f ???Susanna Spoon (20)<br />
+5 CONT f ???Elizabeth Diefendorf (67)<br />
+5 CONT f Cathatina Kilts (23)<br />
+5 CONT ]
 1 CENS
 2 DATE 06 AUG 1810
 2 PLAC Herkimer, Herkimer, New York, USA
@@ -765,6 +958,22 @@
 4 LONG W74.986
 2 SOUR @p9kEMQAvTleXohid5BlA@
 3 QUAY 1
+3 DATA
+4 TEXT Herkimer<br />
+5 CONT [...]<br />
+5 CONT Nicholas Spoon<br />
+5 CONT [m10-15 George (10)<br />
+5 CONT m16-25 Werner (16)<br />
+5 CONT m16-25 Adam (19)<br />
+5 CONT m16-25 Johannes (21)<br />
+5 CONT m26-44 Nicholas Spoon (23???)<br />
+5 CONT m45+ Johann Nicholas Spohn (48)<br />
+5 CONT f0-9 Eva (3)<br />
+5 CONT f0-9 Elizabeth (7)<br />
+5 CONT f10-15 Catharina??? (5)<br />
+5 CONT f45+ Catharina Kilts (43???)<br />
+5 CONT f45+ Elizabeth Diefendorf (77)<br />
+5 CONT ]
 1 DEAT
 2 DATE 20 AUG 1817
 2 PLAC German Flatts, Herkimer, New York, USA
@@ -777,26 +986,38 @@
 0 @1Mvc9435TMKYlDrm99Ah@ INDI
 1 REFN c98d22ac-4557-43cd-a92b-d1f401a555e8
 1 NAME Katharine /Eccker/
-2 SOUR @Mk1x4uMjRbysDoH9sw0u@
+2 SOUR @S60@
 3 QUAY 1
+3 DATA
+4 TEXT Frontiersman of N.Y. [Frontiersmen of New York] Vol 11 pag
+5 CONC e 342
 1 SEX F
 1 FAMC @kewSWP2cTGyFLrZyNx7w@
 1 FAMS @o03fTm5ZQjuu1V8YwGpN@
 1 BIRT
 2 DATE 07 APR 1729
-2 SOUR @Mk1x4uMjRbysDoH9sw0u@
+2 SOUR @S60@
 3 QUAY 1
+3 DATA
+4 TEXT Frontiersman of N.Y. [Frontiersmen of New York] Vol 11 pag
+5 CONC e 342
 1 DEAT
 2 DATE 02 FEB 1756
-2 SOUR @Mk1x4uMjRbysDoH9sw0u@
+2 SOUR @S60@
 3 QUAY 1
+3 DATA
+4 TEXT Frontiersman of N.Y. [Frontiersmen of New York] Vol 11 pag
+5 CONC e 342
 1 _GUID 323bd796-0cae-4539-ac88-0e2528a6c924
 1 _XY 9370.00 367.00
 0 @2LOGMH6hSX6pQRqiJCnK@ INDI
 1 REFN 2414e164-99fd-4118-b352-a93b367988a7
 1 NAME Nickolaus /Eccker/
-2 SOUR @Mk1x4uMjRbysDoH9sw0u@
+2 SOUR @S60@
 3 QUAY 1
+3 DATA
+4 TEXT Frontiersman of N.Y. [Frontiersmen of New York] Vol 11 pag
+5 CONC e 342
 1 SEX M
 1 FAMS @kewSWP2cTGyFLrZyNx7w@
 1 _GUID 8d89d420-a555-48f4-86e9-7901f42be5c8
@@ -819,8 +1040,11 @@
 0 @vybp1nt4S3yizSA1VKYu@ INDI
 1 REFN d6746593-ee37-4157-9058-7ab010094f5a
 1 NAME Maria Elisabeth /Goebel/
-2 SOUR @Mk1x4uMjRbysDoH9sw0u@
+2 SOUR @S60@
 3 QUAY 1
+3 DATA
+4 TEXT Frontiersman of N.Y. [Frontiersmen of New York] Vol 11 pag
+5 CONC e 342
 1 SEX F
 1 FAMS @noRwHg7rRUaaAPaSrO6v@
 1 _GUID 508620e4-9e7c-4857-abc9-8fbdb9b88ac9
@@ -848,6 +1072,41 @@
 3 OBJE @Dhzz6LKJSPSgijx1fOwX@
 3 _APID 8054:11969914
 2 SOUR @OezS9TKgTzyeOYHQtB5E@
+3 DATA
+4 TEXT SCHEDULE I.--Free Inhabitants in the town of Herkimer in th
+5 CONC e County of Herkimer State of New York enumerated by me, o
+5 CONC n the 6th day of Sept 1850.<br />
+5 CONT [...]<br />
+5 CONT [Dwelling] 18<br />
+5 CONT [Family] 19<br />
+5 CONT <table border="1">
+5 CONT <tr><td>George Spoon</td><td>50</td><td>M</td><td>Farmer</td
+5 CONC ><td>4000</td><td>"[NY]</td><td>&nbsp;</td></tr>
+5 CONT <tr><td>Elizabeth</td><td>50</td><td>F</td><td>&nbsp;</td><t
+5 CONC d>&nbsp;</td><td>"</td><td>&nbsp;</td></tr>
+5 CONT <tr><td>Jeremiah</td><td>29</td><td>M</td><td>"</td><td>&nbs
+5 CONC p;</td><td>"</td><td>&nbsp;</td></tr>
+5 CONT <tr><td>Mary</td><td>21["1" appears to be written over "2"]<
+5 CONC /td><td>F</td><td>&nbsp;</td><td>&nbsp;</td><td>"</td><td>[a
+5 CONC ttended school]</td></tr>
+5 CONT <tr><td>Aaron</td><td>19</td><td>M</td><td>"</td><td>&nbsp;<
+5 CONC /td><td>"</td><td>[attended school]</td></tr>
+5 CONT <tr><td>Norman</td><td>16</td><td>M</td><td>"</td><td>&nbsp;
+5 CONC </td><td>"</td><td>[attended school]</td></tr>
+5 CONT <tr><td>Elizabeth</td><td>13</td><td>F</td><td>&nbsp;</td><t
+5 CONC d>&nbsp;</td><td>"</td><td>[attended school]</td></tr>
+5 CONT <tr><td>George</td><td>10</td><td>M</td><td>&nbsp;</td><td>&
+5 CONC nbsp;</td><td>"</td><td>[attended school]</td></tr>
+5 CONT <tr><td>Sally</td><td>7</td><td>F</td><td>&nbsp;</td><td>&nb
+5 CONC sp;</td><td>"</td><td>&nbsp;</td></tr>
+5 CONT <tr><td>Susan</td><td>20</td><td>F</td><td>&nbsp;</td><td>&n
+5 CONC bsp;</td><td>"</td><td>&nbsp;</td></tr>
+5 CONT <tr><td>Elizabeth Zuller</td><td>65</td><td>F</td><td>&nbsp;
+5 CONC </td><td>&nbsp;</td><td>"</td><td>&nbsp;</td></tr>
+5 CONT </table>
+5 CONT [for Elizabeth Zuller there appears to be a 1 in the colum
+5 CONC n stating she was married within the year, but that doesn'
+5 CONC t seem to make sense.]
 1 CENS
 2 DATE 01 JUN 1850
 2 PLAC Herkimer, Herkimer, New York, USA
@@ -856,6 +1115,41 @@
 4 LONG W74.986
 2 SOUR @OezS9TKgTzyeOYHQtB5E@
 3 QUAY 3
+3 DATA
+4 TEXT SCHEDULE I.--Free Inhabitants in the town of Herkimer in th
+5 CONC e County of Herkimer State of New York enumerated by me, o
+5 CONC n the 6th day of Sept 1850.<br />
+5 CONT [...]<br />
+5 CONT [Dwelling] 18<br />
+5 CONT [Family] 19<br />
+5 CONT <table border="1">
+5 CONT <tr><td>George Spoon</td><td>50</td><td>M</td><td>Farmer</td
+5 CONC ><td>4000</td><td>"[NY]</td><td>&nbsp;</td></tr>
+5 CONT <tr><td>Elizabeth</td><td>50</td><td>F</td><td>&nbsp;</td><t
+5 CONC d>&nbsp;</td><td>"</td><td>&nbsp;</td></tr>
+5 CONT <tr><td>Jeremiah</td><td>29</td><td>M</td><td>"</td><td>&nbs
+5 CONC p;</td><td>"</td><td>&nbsp;</td></tr>
+5 CONT <tr><td>Mary</td><td>21["1" appears to be written over "2"]<
+5 CONC /td><td>F</td><td>&nbsp;</td><td>&nbsp;</td><td>"</td><td>[a
+5 CONC ttended school]</td></tr>
+5 CONT <tr><td>Aaron</td><td>19</td><td>M</td><td>"</td><td>&nbsp;<
+5 CONC /td><td>"</td><td>[attended school]</td></tr>
+5 CONT <tr><td>Norman</td><td>16</td><td>M</td><td>"</td><td>&nbsp;
+5 CONC </td><td>"</td><td>[attended school]</td></tr>
+5 CONT <tr><td>Elizabeth</td><td>13</td><td>F</td><td>&nbsp;</td><t
+5 CONC d>&nbsp;</td><td>"</td><td>[attended school]</td></tr>
+5 CONT <tr><td>George</td><td>10</td><td>M</td><td>&nbsp;</td><td>&
+5 CONC nbsp;</td><td>"</td><td>[attended school]</td></tr>
+5 CONT <tr><td>Sally</td><td>7</td><td>F</td><td>&nbsp;</td><td>&nb
+5 CONC sp;</td><td>"</td><td>&nbsp;</td></tr>
+5 CONT <tr><td>Susan</td><td>20</td><td>F</td><td>&nbsp;</td><td>&n
+5 CONC bsp;</td><td>"</td><td>&nbsp;</td></tr>
+5 CONT <tr><td>Elizabeth Zuller</td><td>65</td><td>F</td><td>&nbsp;
+5 CONC </td><td>&nbsp;</td><td>"</td><td>&nbsp;</td></tr>
+5 CONT </table>
+5 CONT [for Elizabeth Zuller there appears to be a 1 in the colum
+5 CONC n stating she was married within the year, but that doesn'
+5 CONC t seem to make sense.]
 1 RESI
 2 DATE 1850
 2 PLAC Herkimer, Herkimer, New York, USA
@@ -1198,6 +1492,17 @@
 4 LONG W74.986
 2 SOUR @J5wonceqRjit4ipUMzY4@
 3 QUAY 1
+3 DATA
+4 TEXT Nicholas Spoon<br />
+5 CONT [m0-15 Johannes Nicholas Spoon (1)<br />
+5 CONT m0-15 Nicholas Spoon (3)<br />
+5 CONT m16+ ???Nicholas Henrich Spoon (67)<br />
+5 CONT m16+ ?<br />
+5 CONT m16+ Johann Nicholas Spohn (28)<br />
+5 CONT f ???Susanna Spoon (20)<br />
+5 CONT f ???Elizabeth Diefendorf (67)<br />
+5 CONT f Cathatina Kilts (23)<br />
+5 CONT ]
 1 CENS
 2 DATE 06 AUG 1810
 2 PLAC Herkimer, Herkimer, New York, USA
@@ -1206,6 +1511,22 @@
 4 LONG W74.986
 2 SOUR @p9kEMQAvTleXohid5BlA@
 3 QUAY 1
+3 DATA
+4 TEXT Herkimer<br />
+5 CONT [...]<br />
+5 CONT Nicholas Spoon<br />
+5 CONT [m10-15 George (10)<br />
+5 CONT m16-25 Werner (16)<br />
+5 CONT m16-25 Adam (19)<br />
+5 CONT m16-25 Johannes (21)<br />
+5 CONT m26-44 Nicholas Spoon (23???)<br />
+5 CONT m45+ Johann Nicholas Spohn (48)<br />
+5 CONT f0-9 Eva (3)<br />
+5 CONT f0-9 Elizabeth (7)<br />
+5 CONT f10-15 Catharina??? (5)<br />
+5 CONT f45+ Catharina Kilts (43???)<br />
+5 CONT f45+ Elizabeth Diefendorf (77)<br />
+5 CONT ]
 1 CENS
 2 DATE 01 JUN 1840
 2 PLAC Herkimer, Herkimer, New York, USA
@@ -1214,6 +1535,21 @@
 4 LONG W74.986
 2 SOUR @5zeUJhrjRV6hMRdrJYmA@
 3 QUAY 1
+3 DATA
+4 TEXT Herkimer<br />
+5 CONT [...]<br />
+5 CONT George Spoon<br />
+5 CONT [m5-9 Norman Spohn (6)<br />
+5 CONT m5-9 Aaron Spohn (8)<br />
+5 CONT m10-14 Abraham Spohn (13)<br />
+5 CONT m15-19 Jeremias Spohn (19)<br />
+5 CONT m40-49 George Spohn (c40)<br />
+5 CONT f0-4 Elizabeth Spohn (3)<br />
+5 CONT f10-14 Mary Ann Spohn (11)<br />
+5 CONT f40-49 Elizabeth Zoller (c40)<br />
+5 CONT f70-79 prob. Catharina Kilts (77)<br />
+5 CONT note: where is William Henry Spohn (20)?<br />
+5 CONT ]
 1 DEAT
 2 DATE 1848
 2 SOUR @5KOa4unRSR20jVy2K9Gs@
@@ -2914,8 +3250,11 @@
 0 @T9E3JDklSmm5wmC0ZYEM@ INDI
 1 REFN 157b71c8-0a03-47b0-915e-88f42a600350
 1 NAME Adolph /Seeber/
-2 SOUR @Mk1x4uMjRbysDoH9sw0u@
+2 SOUR @S60@
 3 QUAY 1
+3 DATA
+4 TEXT Frontiersman of N.Y. [Frontiersmen of New York] Vol 11 pag
+5 CONC e 342
 1 SEX M
 1 FAMC @o03fTm5ZQjuu1V8YwGpN@
 1 BIRT
@@ -2924,8 +3263,11 @@
 3 MAP
 4 LATI N42.9545
 4 LONG W74.3765
-2 SOUR @Mk1x4uMjRbysDoH9sw0u@
-2 SOUR @iKPMekUtTomLMyDxS2qu@
+2 SOUR @S60@
+3 DATA
+4 TEXT Frontiersman of N.Y. [Frontiersmen of New York] Vol 11 pag
+5 CONC e 342
+2 SOUR @S59@
 3 QUAY 1
 1 DEAT
 2 DATE 06 AUG 1777
@@ -2933,8 +3275,11 @@
 3 MAP
 4 LATI N43.1573
 4 LONG W75.3327
-2 SOUR @Mk1x4uMjRbysDoH9sw0u@
-2 SOUR @iKPMekUtTomLMyDxS2qu@
+2 SOUR @S60@
+3 DATA
+4 TEXT Frontiersman of N.Y. [Frontiersmen of New York] Vol 11 pag
+5 CONC e 342
+2 SOUR @S59@
 3 QUAY 1
 2 NOTE Killed in the Battle of Oriskany, Revolutionary War.
 1 _GUID 60bcd781-6ecb-4f3a-a2a9-4a7550dbe3be
@@ -2942,8 +3287,11 @@
 0 @zmlLY2mjSOqIJvNbUbtX@ INDI
 1 REFN fe128207-5c27-428d-a898-2e5aa8aa7d94
 1 NAME Conrad /Seeber/
-2 SOUR @Mk1x4uMjRbysDoH9sw0u@
+2 SOUR @S60@
 3 QUAY 1
+3 DATA
+4 TEXT Frontiersman of N.Y. [Frontiersmen of New York] Vol 11 pag
+5 CONC e 342
 1 SEX M
 1 FAMC @o03fTm5ZQjuu1V8YwGpN@
 1 BIRT
@@ -2952,8 +3300,11 @@
 3 MAP
 4 LATI N42.9545
 4 LONG W74.3765
-2 SOUR @Mk1x4uMjRbysDoH9sw0u@
-2 SOUR @iKPMekUtTomLMyDxS2qu@
+2 SOUR @S60@
+3 DATA
+4 TEXT Frontiersman of N.Y. [Frontiersmen of New York] Vol 11 pag
+5 CONC e 342
+2 SOUR @S59@
 3 QUAY 1
 1 DEAT
 2 DATE 02 SEP 1812
@@ -2961,48 +3312,69 @@
 3 MAP
 4 LATI N42.9056
 4 LONG W74.5718
-2 SOUR @Mk1x4uMjRbysDoH9sw0u@
-2 SOUR @iKPMekUtTomLMyDxS2qu@
+2 SOUR @S60@
+3 DATA
+4 TEXT Frontiersman of N.Y. [Frontiersmen of New York] Vol 11 pag
+5 CONC e 342
+2 SOUR @S59@
 3 QUAY 1
 1 _GUID 6a5c3fa5-a4e6-435f-a9d0-3b06e27fad8c
 1 _XY 9259.00 446.00
 0 @y0ufNHS4TGWoENhiKfFt@ INDI
 1 REFN 23ca4f16-c56f-44d6-b437-485d3fc68baf
 1 NAME Elisabeth /Seeber/
-2 SOUR @Mk1x4uMjRbysDoH9sw0u@
+2 SOUR @S60@
 3 QUAY 1
+3 DATA
+4 TEXT Frontiersman of N.Y. [Frontiersmen of New York] Vol 11 pag
+5 CONC e 342
 1 SEX F
 1 FAMC @noRwHg7rRUaaAPaSrO6v@
 1 BIRT
 2 DATE 10 SEP 1765
-2 SOUR @Mk1x4uMjRbysDoH9sw0u@
+2 SOUR @S60@
 3 QUAY 1
+3 DATA
+4 TEXT Frontiersman of N.Y. [Frontiersmen of New York] Vol 11 pag
+5 CONC e 342
 1 DEAT
 2 DATE 16 MAY 1768
-2 SOUR @Mk1x4uMjRbysDoH9sw0u@
+2 SOUR @S60@
 3 QUAY 1
+3 DATA
+4 TEXT Frontiersman of N.Y. [Frontiersmen of New York] Vol 11 pag
+5 CONC e 342
 1 _GUID b0e0acdd-726d-457e-b421-7f8f7b757960
 1 _XY 10260.00 343.00
 0 @e2dHZbX0QA2BvKtaBUXd@ INDI
 1 REFN 19aac324-6712-436a-a91f-366c6da6afba
 1 NAME Heinrich /Seeber/
-2 SOUR @Mk1x4uMjRbysDoH9sw0u@
+2 SOUR @S60@
 3 QUAY 1
+3 DATA
+4 TEXT Frontiersman of N.Y. [Frontiersmen of New York] Vol 11 pag
+5 CONC e 342
 1 SEX M
 1 FAMC @lcKEi0jmRfy6SlYGoRpf@
 1 BIRT
 2 DATE 15 MAR 1741
 2 PLAC Indian Castle, Herkimer, New York, USA
-2 SOUR @Mk1x4uMjRbysDoH9sw0u@
-2 SOUR @iKPMekUtTomLMyDxS2qu@
+2 SOUR @S60@
+3 DATA
+4 TEXT Frontiersman of N.Y. [Frontiersmen of New York] Vol 11 pag
+5 CONC e 342
+2 SOUR @S59@
 3 QUAY 1
 1 _GUID 4874a07b-abf3-4507-abbc-7bf8af494c5a
 1 _XY 9279.00 199.00
 0 @KG3kpvLIRmSEIC4jTjXe@ INDI
 1 REFN 240bb277-2846-48fe-801a-82b4047f88e7
 1 NAME Heinrich /Seeber/
-2 SOUR @Mk1x4uMjRbysDoH9sw0u@
+2 SOUR @S60@
 3 QUAY 1
+3 DATA
+4 TEXT Frontiersman of N.Y. [Frontiersmen of New York] Vol 11 pag
+5 CONC e 342
 1 SEX M
 1 FAMC @noRwHg7rRUaaAPaSrO6v@
 1 BIRT
@@ -3011,21 +3383,30 @@
 3 MAP
 4 LATI N42.9545
 4 LONG W74.3765
-2 SOUR @Mk1x4uMjRbysDoH9sw0u@
-2 SOUR @iKPMekUtTomLMyDxS2qu@
+2 SOUR @S60@
+3 DATA
+4 TEXT Frontiersman of N.Y. [Frontiersmen of New York] Vol 11 pag
+5 CONC e 342
+2 SOUR @S59@
 3 QUAY 1
 1 DEAT
 2 DATE 03 DEC 1830
-2 SOUR @Mk1x4uMjRbysDoH9sw0u@
-2 SOUR @iKPMekUtTomLMyDxS2qu@
+2 SOUR @S60@
+3 DATA
+4 TEXT Frontiersman of N.Y. [Frontiersmen of New York] Vol 11 pag
+5 CONC e 342
+2 SOUR @S59@
 3 QUAY 1
 1 _GUID 5c325803-7afc-4bd4-8f23-21b885e645ff
 1 _XY 9745.00 343.00
 0 @TBueCHBATemQKLFSt87F@ INDI
 1 REFN 00756adc-7bc7-4b28-ae8c-5eb8b9380a14
 1 NAME Jakob /Seeber/
-2 SOUR @Mk1x4uMjRbysDoH9sw0u@
+2 SOUR @S60@
 3 QUAY 1
+3 DATA
+4 TEXT Frontiersman of N.Y. [Frontiersmen of New York] Vol 11 pag
+5 CONC e 342
 1 SEX M
 1 FAMC @lcKEi0jmRfy6SlYGoRpf@
 1 _GUID 32cc3be1-fb34-4a9f-9186-06b000f059aa
@@ -3033,8 +3414,11 @@
 0 @pyy3o3B0SHmZXAkgZsaP@ INDI
 1 REFN 809b8667-b3e6-4a67-979d-055256bc1a36
 1 NAME Jakob /Seeber/
-2 SOUR @Mk1x4uMjRbysDoH9sw0u@
+2 SOUR @S60@
 3 QUAY 1
+3 DATA
+4 TEXT Frontiersman of N.Y. [Frontiersmen of New York] Vol 11 pag
+5 CONC e 342
 1 SEX M
 1 FAMC @o03fTm5ZQjuu1V8YwGpN@
 1 BIRT
@@ -3043,8 +3427,11 @@
 3 MAP
 4 LATI N42.9545
 4 LONG W74.3765
-2 SOUR @Mk1x4uMjRbysDoH9sw0u@
-2 SOUR @iKPMekUtTomLMyDxS2qu@
+2 SOUR @S60@
+3 DATA
+4 TEXT Frontiersman of N.Y. [Frontiersmen of New York] Vol 11 pag
+5 CONC e 342
+2 SOUR @S59@
 3 QUAY 1
 1 DEAT
 2 DATE 06 AUG 1777
@@ -3052,8 +3439,11 @@
 3 MAP
 4 LATI N43.1573
 4 LONG W75.3327
-2 SOUR @Mk1x4uMjRbysDoH9sw0u@
-2 SOUR @iKPMekUtTomLMyDxS2qu@
+2 SOUR @S60@
+3 DATA
+4 TEXT Frontiersman of N.Y. [Frontiersmen of New York] Vol 11 pag
+5 CONC e 342
+2 SOUR @S59@
 3 QUAY 1
 2 NOTE Killed in the Battle of Oriskany, Revolutionary War
 1 _GUID e61b9133-cb9f-4f12-ae0d-55ec38e6f4cc
@@ -3061,8 +3451,11 @@
 0 @Ma4LSzE5QdKvRCXFj3Mj@ INDI
 1 REFN bbf33a24-a72e-4ba7-9399-76a540bdccd6
 1 NAME Johann /Seeber/
-2 SOUR @Mk1x4uMjRbysDoH9sw0u@
+2 SOUR @S60@
 3 QUAY 1
+3 DATA
+4 TEXT Frontiersman of N.Y. [Frontiersmen of New York] Vol 11 pag
+5 CONC e 342
 1 SEX M
 1 FAMC @noRwHg7rRUaaAPaSrO6v@
 1 _GUID 7eaf0d1f-9355-4f25-8b85-7d0dad61a64a
@@ -3070,8 +3463,11 @@
 0 @1PLRpmwJRSqnEmNBqgon@ INDI
 1 REFN b029196e-d787-4c10-af35-4c0b4e19685d
 1 NAME Johann /Seeber/
-2 SOUR @Mk1x4uMjRbysDoH9sw0u@
+2 SOUR @S60@
 3 QUAY 1
+3 DATA
+4 TEXT Frontiersman of N.Y. [Frontiersmen of New York] Vol 11 pag
+5 CONC e 342
 1 SEX M
 1 FAMC @noRwHg7rRUaaAPaSrO6v@
 1 BIRT
@@ -3080,39 +3476,57 @@
 3 MAP
 4 LATI N42.9545
 4 LONG W74.3765
-2 SOUR @Mk1x4uMjRbysDoH9sw0u@
-2 SOUR @iKPMekUtTomLMyDxS2qu@
+2 SOUR @S60@
+3 DATA
+4 TEXT Frontiersman of N.Y. [Frontiersmen of New York] Vol 11 pag
+5 CONC e 342
+2 SOUR @S59@
 3 QUAY 1
 1 DEAT
 2 DATE 27 AUG 1851
-2 SOUR @Mk1x4uMjRbysDoH9sw0u@
-2 SOUR @iKPMekUtTomLMyDxS2qu@
+2 SOUR @S60@
+3 DATA
+4 TEXT Frontiersman of N.Y. [Frontiersmen of New York] Vol 11 pag
+5 CONC e 342
+2 SOUR @S59@
 3 QUAY 1
 1 _GUID a47eb432-b5e5-4226-b2b4-bcfc618455d7
 1 _XY 10140.00 343.00
 0 @kE5m7H0KTyaJAptw3kHY@ INDI
 1 REFN cff28818-0ba5-47ea-82e6-8f67959bc0fb
 1 NAME Johann Adam /Seeber/
-2 SOUR @Mk1x4uMjRbysDoH9sw0u@
+2 SOUR @S60@
 3 QUAY 1
+3 DATA
+4 TEXT Frontiersman of N.Y. [Frontiersmen of New York] Vol 11 pag
+5 CONC e 342
 1 SEX M
 1 FAMC @noRwHg7rRUaaAPaSrO6v@
 1 BIRT
 2 DATE 03 JUL 1768
-2 SOUR @Mk1x4uMjRbysDoH9sw0u@
+2 SOUR @S60@
 3 QUAY 1
+3 DATA
+4 TEXT Frontiersman of N.Y. [Frontiersmen of New York] Vol 11 pag
+5 CONC e 342
 1 DEAT
 2 DATE 1840
-2 SOUR @Mk1x4uMjRbysDoH9sw0u@
-2 SOUR @iKPMekUtTomLMyDxS2qu@
+2 SOUR @S60@
+3 DATA
+4 TEXT Frontiersman of N.Y. [Frontiersmen of New York] Vol 11 pag
+5 CONC e 342
+2 SOUR @S59@
 3 QUAY 1
 1 _GUID 50bf4fbd-b5f6-4126-bf38-2a6a20b2a01f
 1 _XY 10386.00 343.00
 0 @bFHC88rDQQWj17pxWsTq@ INDI
 1 REFN 652e4796-4329-4f4f-a4cb-12d93986dbca
 1 NAME Johann Wilhelm /Seeber/
-2 SOUR @Mk1x4uMjRbysDoH9sw0u@
+2 SOUR @S60@
 3 QUAY 1
+3 DATA
+4 TEXT Frontiersman of N.Y. [Frontiersmen of New York] Vol 11 pag
+5 CONC e 342
 1 SEX M
 1 FAMS @o03fTm5ZQjuu1V8YwGpN@
 1 FAMS @noRwHg7rRUaaAPaSrO6v@
@@ -3124,22 +3538,31 @@
 1 EVEN
 2 TYPE military
 2 DATE 06 AUG 1777
-2 SOUR @Mk1x4uMjRbysDoH9sw0u@
+2 SOUR @S60@
 3 QUAY 1
+3 DATA
+4 TEXT Frontiersman of N.Y. [Frontiersmen of New York] Vol 11 pag
+5 CONC e 342
 2 NOTE Held rank of Major in the Battle of Oriskany, Revolutionar
 3 CONC y War, where he was mortally wounded.
 1 DEAT
 2 DATE 01 SEP 1777
-2 SOUR @Mk1x4uMjRbysDoH9sw0u@
+2 SOUR @S60@
 3 QUAY 1
+3 DATA
+4 TEXT Frontiersman of N.Y. [Frontiersmen of New York] Vol 11 pag
+5 CONC e 342
 2 NOTE From wounds received in the Battle of Oriskany
 1 _GUID e4cf1c96-1194-4c5b-bf35-c57ea5ebf9c0
 1 _XY 9571.00 247.00
 0 @5UUW0fFSQJyZrHxrw97Q@ INDI
 1 REFN bfb65ea3-bde9-4f08-9e78-c8b866dabc89
 1 NAME Johann Wilhelm /Seeber/
-2 SOUR @Mk1x4uMjRbysDoH9sw0u@
+2 SOUR @S60@
 3 QUAY 1
+3 DATA
+4 TEXT Frontiersman of N.Y. [Frontiersmen of New York] Vol 11 pag
+5 CONC e 342
 1 SEX M
 1 FAMC @o03fTm5ZQjuu1V8YwGpN@
 1 BIRT
@@ -3148,8 +3571,11 @@
 3 MAP
 4 LATI N42.9545
 4 LONG W74.3765
-2 SOUR @Mk1x4uMjRbysDoH9sw0u@
-2 SOUR @iKPMekUtTomLMyDxS2qu@
+2 SOUR @S60@
+3 DATA
+4 TEXT Frontiersman of N.Y. [Frontiersmen of New York] Vol 11 pag
+5 CONC e 342
+2 SOUR @S59@
 3 QUAY 1
 1 DEAT
 2 DATE 02 JUN 1828
@@ -3165,8 +3591,11 @@
 0 @EKg8JWZFTMGScssCgfwD@ INDI
 1 REFN d784a764-5e8c-45ad-a796-621a4bd4f883
 1 NAME Katharina /Seeber/
-2 SOUR @Mk1x4uMjRbysDoH9sw0u@
+2 SOUR @S60@
 3 QUAY 1
+3 DATA
+4 TEXT Frontiersman of N.Y. [Frontiersmen of New York] Vol 11 pag
+5 CONC e 342
 1 SEX F
 1 FAMC @o03fTm5ZQjuu1V8YwGpN@
 1 FAMS @i0IfP1dFQum3bZFUtCs3@
@@ -3176,8 +3605,11 @@
 3 MAP
 4 LATI N42.9545
 4 LONG W74.3765
-2 SOUR @Mk1x4uMjRbysDoH9sw0u@
-2 SOUR @iKPMekUtTomLMyDxS2qu@
+2 SOUR @S60@
+3 DATA
+4 TEXT Frontiersman of N.Y. [Frontiersmen of New York] Vol 11 pag
+5 CONC e 342
+2 SOUR @S59@
 3 QUAY 1
 1 DEAT
 2 DATE 10 JAN 1844
@@ -3185,59 +3617,86 @@
 3 MAP
 4 LATI N43.069
 4 LONG W74.8057
-2 SOUR @Mk1x4uMjRbysDoH9sw0u@
-2 SOUR @iKPMekUtTomLMyDxS2qu@
+2 SOUR @S60@
+3 DATA
+4 TEXT Frontiersman of N.Y. [Frontiersmen of New York] Vol 11 pag
+5 CONC e 342
+2 SOUR @S59@
 3 QUAY 1
 1 _GUID a1503a19-14fb-4601-ad8a-10c554ce058f
 1 _XY 8973.00 446.00
 0 @2BAZyMTCTD6LsND4gtsl@ INDI
 1 REFN ad950a6f-e316-4290-9458-f2f26e79b5fb
 1 NAME Magdalena /Seeber/
-2 SOUR @Mk1x4uMjRbysDoH9sw0u@
+2 SOUR @S60@
 3 QUAY 1
+3 DATA
+4 TEXT Frontiersman of N.Y. [Frontiersmen of New York] Vol 11 pag
+5 CONC e 342
 1 SEX F
 1 FAMC @o03fTm5ZQjuu1V8YwGpN@
 1 BIRT
 2 DATE 26 JAN 1756
-2 SOUR @Mk1x4uMjRbysDoH9sw0u@
+2 SOUR @S60@
 3 QUAY 1
+3 DATA
+4 TEXT Frontiersman of N.Y. [Frontiersmen of New York] Vol 11 pag
+5 CONC e 342
 1 _GUID 7b8b2e8f-8c11-4e8e-a662-4313940323b5
 1 _XY 9626.00 452.00
 0 @Gp9fx8gQTFGja9XtfhYC@ INDI
 1 REFN 80f86422-48d8-4373-8e4d-0bcb5d118082
 1 NAME Maria /Seeber/
-2 SOUR @Mk1x4uMjRbysDoH9sw0u@
+2 SOUR @S60@
 3 QUAY 1
+3 DATA
+4 TEXT Frontiersman of N.Y. [Frontiersmen of New York] Vol 11 pag
+5 CONC e 342
 1 SEX F
 1 FAMC @noRwHg7rRUaaAPaSrO6v@
 1 BIRT
 2 DATE 13 JUN 1761
-2 SOUR @Mk1x4uMjRbysDoH9sw0u@
+2 SOUR @S60@
 3 QUAY 1
+3 DATA
+4 TEXT Frontiersman of N.Y. [Frontiersmen of New York] Vol 11 pag
+5 CONC e 342
 1 DEAT
 2 DATE 08 MAR 1774
-2 SOUR @Mk1x4uMjRbysDoH9sw0u@
+2 SOUR @S60@
 3 QUAY 1
+3 DATA
+4 TEXT Frontiersman of N.Y. [Frontiersmen of New York] Vol 11 pag
+5 CONC e 342
 1 _GUID e826d2b9-c96a-43e1-a910-9c4fcf98a150
 1 _XY 10022.00 343.00
 0 @rKlQIMDiQZqrNmXw1HJ7@ INDI
 1 REFN 6547bc7e-ebf7-4236-a51e-9555c2eae0bb
 1 NAME Maria Elisabeth /Seeber/
-2 SOUR @Mk1x4uMjRbysDoH9sw0u@
+2 SOUR @S60@
 3 QUAY 1
+3 DATA
+4 TEXT Frontiersman of N.Y. [Frontiersmen of New York] Vol 11 pag
+5 CONC e 342
 1 SEX F
 1 FAMC @noRwHg7rRUaaAPaSrO6v@
 1 BIRT
 2 DATE 07 SEP 1759
-2 SOUR @Mk1x4uMjRbysDoH9sw0u@
+2 SOUR @S60@
 3 QUAY 1
+3 DATA
+4 TEXT Frontiersman of N.Y. [Frontiersmen of New York] Vol 11 pag
+5 CONC e 342
 1 _GUID f5075897-d8ce-46eb-b006-047e39fcf932
 1 _XY 9867.00 349.00
 0 @bjAJ0B6WT62Qahu1ARup@ INDI
 1 REFN 9cc7bc5b-d574-46c1-b2aa-1459af5c9234
 1 NAME Severin /Seeber/
-2 SOUR @Mk1x4uMjRbysDoH9sw0u@
+2 SOUR @S60@
 3 QUAY 1
+3 DATA
+4 TEXT Frontiersman of N.Y. [Frontiersmen of New York] Vol 11 pag
+5 CONC e 342
 1 SEX M
 1 FAMC @lcKEi0jmRfy6SlYGoRpf@
 1 BIRT
@@ -3246,8 +3705,11 @@
 3 MAP
 4 LATI N42.9056
 4 LONG W74.5718
-2 SOUR @Mk1x4uMjRbysDoH9sw0u@
-2 SOUR @iKPMekUtTomLMyDxS2qu@
+2 SOUR @S60@
+3 DATA
+4 TEXT Frontiersman of N.Y. [Frontiersmen of New York] Vol 11 pag
+5 CONC e 342
+2 SOUR @S59@
 3 QUAY 1
 1 DEAT
 2 DATE 06 AUG 1777
@@ -3255,8 +3717,11 @@
 3 MAP
 4 LATI N43.1573
 4 LONG W75.3327
-2 SOUR @Mk1x4uMjRbysDoH9sw0u@
-2 SOUR @iKPMekUtTomLMyDxS2qu@
+2 SOUR @S60@
+3 DATA
+4 TEXT Frontiersman of N.Y. [Frontiersmen of New York] Vol 11 pag
+5 CONC e 342
+2 SOUR @S59@
 3 QUAY 1
 2 NOTE Killed in the Battle of Oriskany, Revolutionary War.
 1 _GUID 0ca1f55d-4d59-4053-8363-3c1da084bee8
@@ -3382,6 +3847,21 @@
 4 LONG W74.986
 2 SOUR @5zeUJhrjRV6hMRdrJYmA@
 3 QUAY 1
+3 DATA
+4 TEXT Herkimer<br />
+5 CONT [...]<br />
+5 CONT George Spoon<br />
+5 CONT [m5-9 Norman Spohn (6)<br />
+5 CONT m5-9 Aaron Spohn (8)<br />
+5 CONT m10-14 Abraham Spohn (13)<br />
+5 CONT m15-19 Jeremias Spohn (19)<br />
+5 CONT m40-49 George Spohn (c40)<br />
+5 CONT f0-4 Elizabeth Spohn (3)<br />
+5 CONT f10-14 Mary Ann Spohn (11)<br />
+5 CONT f40-49 Elizabeth Zoller (c40)<br />
+5 CONT f70-79 prob. Catharina Kilts (77)<br />
+5 CONT note: where is William Henry Spohn (20)?<br />
+5 CONT ]
 1 CENS
 2 DATE 01 JUN 1850
 2 PLAC Herkimer, Herkimer, New York, USA
@@ -3390,6 +3870,41 @@
 4 LONG W74.986
 2 SOUR @OezS9TKgTzyeOYHQtB5E@
 3 QUAY 3
+3 DATA
+4 TEXT SCHEDULE I.--Free Inhabitants in the town of Herkimer in th
+5 CONC e County of Herkimer State of New York enumerated by me, o
+5 CONC n the 6th day of Sept 1850.<br />
+5 CONT [...]<br />
+5 CONT [Dwelling] 18<br />
+5 CONT [Family] 19<br />
+5 CONT <table border="1">
+5 CONT <tr><td>George Spoon</td><td>50</td><td>M</td><td>Farmer</td
+5 CONC ><td>4000</td><td>"[NY]</td><td>&nbsp;</td></tr>
+5 CONT <tr><td>Elizabeth</td><td>50</td><td>F</td><td>&nbsp;</td><t
+5 CONC d>&nbsp;</td><td>"</td><td>&nbsp;</td></tr>
+5 CONT <tr><td>Jeremiah</td><td>29</td><td>M</td><td>"</td><td>&nbs
+5 CONC p;</td><td>"</td><td>&nbsp;</td></tr>
+5 CONT <tr><td>Mary</td><td>21["1" appears to be written over "2"]<
+5 CONC /td><td>F</td><td>&nbsp;</td><td>&nbsp;</td><td>"</td><td>[a
+5 CONC ttended school]</td></tr>
+5 CONT <tr><td>Aaron</td><td>19</td><td>M</td><td>"</td><td>&nbsp;<
+5 CONC /td><td>"</td><td>[attended school]</td></tr>
+5 CONT <tr><td>Norman</td><td>16</td><td>M</td><td>"</td><td>&nbsp;
+5 CONC </td><td>"</td><td>[attended school]</td></tr>
+5 CONT <tr><td>Elizabeth</td><td>13</td><td>F</td><td>&nbsp;</td><t
+5 CONC d>&nbsp;</td><td>"</td><td>[attended school]</td></tr>
+5 CONT <tr><td>George</td><td>10</td><td>M</td><td>&nbsp;</td><td>&
+5 CONC nbsp;</td><td>"</td><td>[attended school]</td></tr>
+5 CONT <tr><td>Sally</td><td>7</td><td>F</td><td>&nbsp;</td><td>&nb
+5 CONC sp;</td><td>"</td><td>&nbsp;</td></tr>
+5 CONT <tr><td>Susan</td><td>20</td><td>F</td><td>&nbsp;</td><td>&n
+5 CONC bsp;</td><td>"</td><td>&nbsp;</td></tr>
+5 CONT <tr><td>Elizabeth Zuller</td><td>65</td><td>F</td><td>&nbsp;
+5 CONC </td><td>&nbsp;</td><td>"</td><td>&nbsp;</td></tr>
+5 CONT </table>
+5 CONT [for Elizabeth Zuller there appears to be a 1 in the colum
+5 CONC n stating she was married within the year, but that doesn'
+5 CONC t seem to make sense.]
 1 RESI
 2 DATE 1850
 2 PLAC Herkimer, Herkimer, New York, USA
@@ -3414,6 +3929,25 @@
 4 LONG W75.6768
 2 SOUR @iPcAuJX7SYCyvVvw9uEM@
 3 QUAY 3
+3 DATA
+4 TEXT 11 Aug 1860<br />
+5 CONT [note that dwelling 1026 was unoccupied]<br />
+5 CONT dwelling 1027<br />
+5 CONT family 1026<br />
+5 CONT <table border="1">
+5 CONT <tr><td>Aaron</td><td>Spooner</td><td>28</td><td>m</td><td>D
+5 CONC ay Laborer</td><td>p$100</td><td>New York</td><td>&nbsp;</td
+5 CONC ><td>&nbsp;</td></tr>
+5 CONT <tr><td>Lana</td><td>"</td><td>28</td><td>f</td><td>&nbsp;</
+5 CONC td><td>&nbsp;</td><td>&nbsp;</td><td>D[itt]o</td><td>[canno
+5 CONC t read and write]</td></tr>
+5 CONT <tr><td>Herman E</td><td>"</td><td>4</td><td>m</td><td>&nbsp
+5 CONC ;</td><td>&nbsp;</td><td>&nbsp;</td><td>Do</td><td>[attende
+5 CONC d school within the year]</td></tr>
+5 CONT <tr><td>Lydia E</td><td>"</td><td>1</td><td>f</td><td>&nbsp;
+5 CONC </td><td>&nbsp;</td><td>&nbsp;</td><td>Do</td><td>&nbsp;</td
+5 CONC ></tr>
+5 CONT </table>
 1 RESI
 2 DATE 1860
 2 PLAC Smithfield, Madison, New York, USA
@@ -3457,9 +3991,65 @@
 1 CENS
 2 DATE 25 JUL 1870
 2 PLAC Morrisville, Eaton, Madison, New York, USA
-2 SOUR @oxokfBzJTdqN32mtJ0tY@
+2 SOUR @S83@
 3 QUAY 3
-2 SOUR @dfwZDtFZTyOI5x6dwE0Q@
+3 DATA
+4 TEXT Page No. 65<br />
+5 CONT SCHEDULE 1.--Inhabitants in Eaton, in the County of Madison
+5 CONC , State of New York, enumerated by me on the 25 day of July
+5 CONC , 1870.<br />
+5 CONT Post Office: Morrisville<br />
+5 CONT [...]<br />
+5 CONT [Dwelling] 532<br />
+5 CONT [Family] 549<br />
+5 CONT <table border="1">
+5 CONT <tr><td>[last</td><td>first</td><td>age</td><td>gend</td><td
+5 CONC >race</td><td>occ</td><td>real</td><td>pers</td><td>birth</t
+5 CONC d><td>at sch]</td></tr>
+5 CONT <tr><td>Spooner</td><td>Aaron</td><td>40</td><td>M</td><td>W
+5 CONC </td><td>Farmer</td><td>1450</td><td>300</td><td>New York</t
+5 CONC d><td>&nbsp;</td></tr>
+5 CONT <tr><td>--</td><td>Laura</td><td>37</td><td>F</td><td>W</td>
+5 CONC <td>Keeping House</td><td>&nbsp;</td><td>&nbsp;</td><td>Ne
+5 CONC w York</td><td>&nbsp;</td></tr>
+5 CONT <tr><td>--</td><td>Herman</td><td>15</td><td>M</td><td>W</td
+5 CONC ><td>Form Labor</td><td>&nbsp;</td><td>&nbsp;</td><td>New Yo
+5 CONC rk</td><td>1</td></tr>
+5 CONT <tr><td>--</td><td>Lydia</td><td>11</td><td>F</td><td>W</td>
+5 CONC <td>At School</td><td>&nbsp;</td><td>&nbsp;</td><td>New York
+5 CONC </td><td>1</td></tr>
+5 CONT <tr><td>--</td><td>Nancy</td><td>8</td><td>F</td><td>W</td><
+5 CONC td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>New York</td
+5 CONC ><td>1</td></tr>
+5 CONT <tr><td>--</td><td>Mary</td><td>7</td><td>F</td><td>W</td><t
+5 CONC d>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>New York</td>
+5 CONC <td>1</td></tr>
+5 CONT <tr><td>--</td><td>Aaron</td><td>1</td><td>M</td><td>W</td><
+5 CONC td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>New York</td
+5 CONC ><td>&nbsp;</td></tr>
+5 CONT <tr><td>Straugh</td><td>Lydia</td><td>66</td><td>F</td><td>W
+5 CONC </td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>New Yo
+5 CONC rk</td><td>&nbsp;</td></tr>
+5 CONT </table>
+2 SOUR @S82@
+3 DATA
+4 TEXT Page No. 68<br />
+5 CONT SCHEDULE I.--Inhabitants in Eaton, in the County of Madison
+5 CONC , State of New York, enumerated by me on the 25 day of July
+5 CONC , 1870.<br />
+5 CONT Post Office: Pratts Hollow<br />
+5 CONT <table border="1">
+5 CONT <tr><td>558</td><td>573</td></tr>
+5 CONT <tr><td>&nbsp;</td><td>&nbsp;</td><td>Slocum</td><td>Peleg</
+5 CONC td><td>67</td><td>M</td><td>W</td><td>Farmer</td><td>3000</t
+5 CONC d><td>675</td><td>Rhode Island</td></tr>
+5 CONT <tr><td>&nbsp;</td><td>&nbsp;</td><td>--</td><td>Olive</td><
+5 CONC td>61</td><td>F</td><td>W</td><td>Keeping House</td><td>&nbs
+5 CONC p;</td><td>&nbsp;</td><td>New York</td></tr>
+5 CONT <tr><td>&nbsp;</td><td>&nbsp;</td><td>--</td><td>Jennette</t
+5 CONC d><td>40</td><td>F</td><td>W</td><td>At Home</td><td>&nbsp;<
+5 CONC /td><td>&nbsp;</td><td>New York</td><td>Blind</td></tr>
+5 CONT </table>
 1 RESI
 2 DATE 01 JUN 1875
 2 PLAC Eaton, Madison, New York, USA
@@ -3478,11 +4068,36 @@
 4 LONG W75.6122
 2 SOUR @SvybU5f8TmGg2t5AX4Fo@
 3 QUAY 3
+3 DATA
+4 TEXT dwelling 354 frame $500<br />
+5 CONT family 383<br />
+5 CONT <table border="1">
+5 CONT <tr><td>Aaron</td><td>Spooner</td><td>45</td><td>m</td><td>-
+5 CONC </td><td>Herkimer</td><td>married</td><td>farmer</td></tr>
+5 CONT <tr><td>Lana</td><td>Spooner</td><td>43</td><td>f</td><td>Wi
+5 CONC fe</td><td>"</td><td>married</td><td>&nbsp;</td></tr>
+5 CONT <tr><td>Herman E.</td><td>Spooner</td><td>19</td><td>m</td><
+5 CONC td>Son</td><td>Madison</td><td>single</td><td>&nbsp;</td></t
+5 CONC r>
+5 CONT <tr><td>Lydia E.</td><td>Spooner</td><td>16</td><td>f</td><t
+5 CONC d>Daughter</td><td>"</td><td>single</td><td>&nbsp;</td></tr>
+5 CONT <tr><td>Nancy E.</td><td>Spooner</td><td>13</td><td>f</td><t
+5 CONC d>Daughter</td><td>"</td><td>single</td><td>&nbsp;</td></tr>
+5 CONT <tr><td>Mary E.</td><td>Spooner</td><td>11</td><td>f</td><td
+5 CONC >Daughter</td><td>"</td><td>single</td><td>&nbsp;</td></tr>
+5 CONT <tr><td>Aaron E.</td><td>Spooner</td><td>6</td><td>m</td><td
+5 CONC >Son</td><td>"</td><td>single</td><td>&nbsp;</td></tr>
+5 CONT <tr><td>Lydia</td><td>Strow</td><td>67</td><td>f</td><td>Wif
+5 CONC e's Mother</td><td>Herkimer</td><td>&nbsp;</td><td>&nbsp;</t
+5 CONC d></tr>
+5 CONT </table>
 1 RESI
 2 DATE ABT 1875
 2 PLAC Spohner House, Morrisville, Madison, New York, USA
 2 SOUR @W2oqrAOXRri4oGwNj48q@
 3 QUAY 2
+3 DATA
+4 TEXT "A Spohner DIST. N<sup>o</sup>.4" (just west of Morrisville)
 2 NOTE A. Spohner
 3 CONT [house is shown at south-east corner of what is today (2002
 3 CONC ) US Route 20 and Williams Corners Road.]
@@ -3495,6 +4110,21 @@
 4 LONG W75.6122
 2 SOUR @A8yDyed7TICVNJtyv3nw@
 3 QUAY 3
+3 DATA
+4 TEXT <table border="1">
+5 CONT <thead>
+5 CONT <tr><th colspan="2">NAME.</th><th>Male or Female.</th><th>AG
+5 CONC E.</th><th>Color.</th><th>IN WHAT COUNTRY BORN.</th><th>Citz
+5 CONC en or Alien.</th><th>OCCUPATION.</th></tr>
+5 CONT </thead>
+5 CONT <tbody>
+5 CONT <tr><td>Aaron</td><td>Spohner</td><td>m</td><td>60</td><td>&
+5 CONC nbsp;</td><td>&quot; [US]</td><td>c</td><td>&quot; [Farmer]<
+5 CONC /td></tr>
+5 CONT <tr><td>Laney</td><td>Spohner</td><td>f</td><td>62</td><td>&
+5 CONC nbsp;</td><td>US</td><td>c</td><td>Farmer [sic]</td></tr>
+5 CONT </tbody>
+5 CONT </table>
 1 RESI
 2 DATE 1892
 2 PLAC Eaton, Madison, New York, USA
@@ -3513,6 +4143,24 @@
 4 LONG W75.6122
 2 SOUR @4npJjaihQAeOij06FIBH@
 3 QUAY 3
+3 DATA
+4 TEXT dwelling 301<br />
+5 CONT family 303<br />
+5 CONT [all white]<br />
+5 CONT [all b NY, f b NY, m b NY]<br />
+5 CONT <table border="1">
+5 CONT <tr><td>Spohner</td><td>Aaron</td><td>Head</td><td>m</td><td
+5 CONC >Jan 1830</td><td>70</td><td>married 48 yrs.</td><td>Farm La
+5 CONC borer</td><td>&nbsp;</td></tr>
+5 CONT <tr><td>-</td><td>Laney</td><td>Wife</td><td>f</td><td>Oct 1
+5 CONC 830</td><td>[crossed out "70"] 69</td><td>married 48 yrs.
+5 CONC , 5 children, 4 living</td><td>&nbsp;</td><td>&nbsp;</td></t
+5 CONC r>
+5 CONT <tr><td>-</td><td>Clarence</td><td>Grandson</td><td>m</td><t
+5 CONC d>Apr 1894</td><td>6</td><td>single</td><td>&nbsp;</td><td>a
+5 CONC t school</td></tr>
+5 CONT </table>
+5 CONT [note: the Clarance listed is probably Clarence Colvin]
 1 RESI
 2 DATE 1900
 2 PLAC Eaton, Madison, New York, USA
@@ -3676,6 +4324,41 @@
 5 CONC &pid=1117
 2 SOUR @OezS9TKgTzyeOYHQtB5E@
 3 QUAY 1
+3 DATA
+4 TEXT SCHEDULE I.--Free Inhabitants in the town of Herkimer in th
+5 CONC e County of Herkimer State of New York enumerated by me, o
+5 CONC n the 6th day of Sept 1850.<br />
+5 CONT [...]<br />
+5 CONT [Dwelling] 18<br />
+5 CONT [Family] 19<br />
+5 CONT <table border="1">
+5 CONT <tr><td>George Spoon</td><td>50</td><td>M</td><td>Farmer</td
+5 CONC ><td>4000</td><td>"[NY]</td><td>&nbsp;</td></tr>
+5 CONT <tr><td>Elizabeth</td><td>50</td><td>F</td><td>&nbsp;</td><t
+5 CONC d>&nbsp;</td><td>"</td><td>&nbsp;</td></tr>
+5 CONT <tr><td>Jeremiah</td><td>29</td><td>M</td><td>"</td><td>&nbs
+5 CONC p;</td><td>"</td><td>&nbsp;</td></tr>
+5 CONT <tr><td>Mary</td><td>21["1" appears to be written over "2"]<
+5 CONC /td><td>F</td><td>&nbsp;</td><td>&nbsp;</td><td>"</td><td>[a
+5 CONC ttended school]</td></tr>
+5 CONT <tr><td>Aaron</td><td>19</td><td>M</td><td>"</td><td>&nbsp;<
+5 CONC /td><td>"</td><td>[attended school]</td></tr>
+5 CONT <tr><td>Norman</td><td>16</td><td>M</td><td>"</td><td>&nbsp;
+5 CONC </td><td>"</td><td>[attended school]</td></tr>
+5 CONT <tr><td>Elizabeth</td><td>13</td><td>F</td><td>&nbsp;</td><t
+5 CONC d>&nbsp;</td><td>"</td><td>[attended school]</td></tr>
+5 CONT <tr><td>George</td><td>10</td><td>M</td><td>&nbsp;</td><td>&
+5 CONC nbsp;</td><td>"</td><td>[attended school]</td></tr>
+5 CONT <tr><td>Sally</td><td>7</td><td>F</td><td>&nbsp;</td><td>&nb
+5 CONC sp;</td><td>"</td><td>&nbsp;</td></tr>
+5 CONT <tr><td>Susan</td><td>20</td><td>F</td><td>&nbsp;</td><td>&n
+5 CONC bsp;</td><td>"</td><td>&nbsp;</td></tr>
+5 CONT <tr><td>Elizabeth Zuller</td><td>65</td><td>F</td><td>&nbsp;
+5 CONC </td><td>&nbsp;</td><td>"</td><td>&nbsp;</td></tr>
+5 CONT </table>
+5 CONT [for Elizabeth Zuller there appears to be a 1 in the colum
+5 CONC n stating she was married within the year, but that doesn'
+5 CONC t seem to make sense.]
 1 SEX F
 1 FAMC @apzmHapNRDiyYHvyYt6E@
 1 BIRT
@@ -3691,6 +4374,41 @@
 3 _APID 8054:11969910
 2 SOUR @OezS9TKgTzyeOYHQtB5E@
 3 QUAY 1
+3 DATA
+4 TEXT SCHEDULE I.--Free Inhabitants in the town of Herkimer in th
+5 CONC e County of Herkimer State of New York enumerated by me, o
+5 CONC n the 6th day of Sept 1850.<br />
+5 CONT [...]<br />
+5 CONT [Dwelling] 18<br />
+5 CONT [Family] 19<br />
+5 CONT <table border="1">
+5 CONT <tr><td>George Spoon</td><td>50</td><td>M</td><td>Farmer</td
+5 CONC ><td>4000</td><td>"[NY]</td><td>&nbsp;</td></tr>
+5 CONT <tr><td>Elizabeth</td><td>50</td><td>F</td><td>&nbsp;</td><t
+5 CONC d>&nbsp;</td><td>"</td><td>&nbsp;</td></tr>
+5 CONT <tr><td>Jeremiah</td><td>29</td><td>M</td><td>"</td><td>&nbs
+5 CONC p;</td><td>"</td><td>&nbsp;</td></tr>
+5 CONT <tr><td>Mary</td><td>21["1" appears to be written over "2"]<
+5 CONC /td><td>F</td><td>&nbsp;</td><td>&nbsp;</td><td>"</td><td>[a
+5 CONC ttended school]</td></tr>
+5 CONT <tr><td>Aaron</td><td>19</td><td>M</td><td>"</td><td>&nbsp;<
+5 CONC /td><td>"</td><td>[attended school]</td></tr>
+5 CONT <tr><td>Norman</td><td>16</td><td>M</td><td>"</td><td>&nbsp;
+5 CONC </td><td>"</td><td>[attended school]</td></tr>
+5 CONT <tr><td>Elizabeth</td><td>13</td><td>F</td><td>&nbsp;</td><t
+5 CONC d>&nbsp;</td><td>"</td><td>[attended school]</td></tr>
+5 CONT <tr><td>George</td><td>10</td><td>M</td><td>&nbsp;</td><td>&
+5 CONC nbsp;</td><td>"</td><td>[attended school]</td></tr>
+5 CONT <tr><td>Sally</td><td>7</td><td>F</td><td>&nbsp;</td><td>&nb
+5 CONC sp;</td><td>"</td><td>&nbsp;</td></tr>
+5 CONT <tr><td>Susan</td><td>20</td><td>F</td><td>&nbsp;</td><td>&n
+5 CONC bsp;</td><td>"</td><td>&nbsp;</td></tr>
+5 CONT <tr><td>Elizabeth Zuller</td><td>65</td><td>F</td><td>&nbsp;
+5 CONC </td><td>&nbsp;</td><td>"</td><td>&nbsp;</td></tr>
+5 CONT </table>
+5 CONT [for Elizabeth Zuller there appears to be a 1 in the colum
+5 CONC n stating she was married within the year, but that doesn'
+5 CONC t seem to make sense.]
 1 RESI
 2 DATE 1850
 2 PLAC Herkimer, Herkimer, New York, USA
@@ -3787,6 +4505,22 @@
 4 LONG W74.986
 2 SOUR @p9kEMQAvTleXohid5BlA@
 3 QUAY 1
+3 DATA
+4 TEXT Herkimer<br />
+5 CONT [...]<br />
+5 CONT Nicholas Spoon<br />
+5 CONT [m10-15 George (10)<br />
+5 CONT m16-25 Werner (16)<br />
+5 CONT m16-25 Adam (19)<br />
+5 CONT m16-25 Johannes (21)<br />
+5 CONT m26-44 Nicholas Spoon (23???)<br />
+5 CONT m45+ Johann Nicholas Spohn (48)<br />
+5 CONT f0-9 Eva (3)<br />
+5 CONT f0-9 Elizabeth (7)<br />
+5 CONT f10-15 Catharina??? (5)<br />
+5 CONT f45+ Catharina Kilts (43???)<br />
+5 CONT f45+ Elizabeth Diefendorf (77)<br />
+5 CONT ]
 1 CONF
 2 DATE 1813
 2 PLAC Herkimer, Herkimer, New York, USA
@@ -3803,6 +4537,17 @@
 4 LONG W74.986
 2 SOUR @iQrOkn70R961iNiT9apw@
 3 QUAY 3
+3 DATA
+4 TEXT Town of Herkimer<br />
+5 CONT George Spoon<br />
+5 CONT [m0-4 Abraham Spohn (4)<br />
+5 CONT m5-9 Jeremias Spohn (9)<br />
+5 CONT m10-14 William Henry Spohn (11)<br />
+5 CONT m20-29 brother of Georgius?<br />
+5 CONT m30-39 Georgius Nicholas Spohn (30)<br />
+5 CONT f0-4 Mary Ann Spohn (1)<br />
+5 CONT f30-39 Elizabeth Zoller (30)<br />
+5 CONT ]
 1 CENS
 2 DATE 01 JUN 1840
 2 PLAC Herkimer, Herkimer, New York, USA
@@ -3811,6 +4556,21 @@
 4 LONG W74.986
 2 SOUR @5zeUJhrjRV6hMRdrJYmA@
 3 QUAY 3
+3 DATA
+4 TEXT Herkimer<br />
+5 CONT [...]<br />
+5 CONT George Spoon<br />
+5 CONT [m5-9 Norman Spohn (6)<br />
+5 CONT m5-9 Aaron Spohn (8)<br />
+5 CONT m10-14 Abraham Spohn (13)<br />
+5 CONT m15-19 Jeremias Spohn (19)<br />
+5 CONT m40-49 George Spohn (c40)<br />
+5 CONT f0-4 Elizabeth Spohn (3)<br />
+5 CONT f10-14 Mary Ann Spohn (11)<br />
+5 CONT f40-49 Elizabeth Zoller (c40)<br />
+5 CONT f70-79 prob. Catharina Kilts (77)<br />
+5 CONT note: where is William Henry Spohn (20)?<br />
+5 CONT ]
 1 CENS
 2 DATE 01 JUN 1850
 2 PLAC Herkimer, Herkimer, New York, USA
@@ -3819,6 +4579,41 @@
 4 LONG W74.986
 2 SOUR @OezS9TKgTzyeOYHQtB5E@
 3 QUAY 3
+3 DATA
+4 TEXT SCHEDULE I.--Free Inhabitants in the town of Herkimer in th
+5 CONC e County of Herkimer State of New York enumerated by me, o
+5 CONC n the 6th day of Sept 1850.<br />
+5 CONT [...]<br />
+5 CONT [Dwelling] 18<br />
+5 CONT [Family] 19<br />
+5 CONT <table border="1">
+5 CONT <tr><td>George Spoon</td><td>50</td><td>M</td><td>Farmer</td
+5 CONC ><td>4000</td><td>"[NY]</td><td>&nbsp;</td></tr>
+5 CONT <tr><td>Elizabeth</td><td>50</td><td>F</td><td>&nbsp;</td><t
+5 CONC d>&nbsp;</td><td>"</td><td>&nbsp;</td></tr>
+5 CONT <tr><td>Jeremiah</td><td>29</td><td>M</td><td>"</td><td>&nbs
+5 CONC p;</td><td>"</td><td>&nbsp;</td></tr>
+5 CONT <tr><td>Mary</td><td>21["1" appears to be written over "2"]<
+5 CONC /td><td>F</td><td>&nbsp;</td><td>&nbsp;</td><td>"</td><td>[a
+5 CONC ttended school]</td></tr>
+5 CONT <tr><td>Aaron</td><td>19</td><td>M</td><td>"</td><td>&nbsp;<
+5 CONC /td><td>"</td><td>[attended school]</td></tr>
+5 CONT <tr><td>Norman</td><td>16</td><td>M</td><td>"</td><td>&nbsp;
+5 CONC </td><td>"</td><td>[attended school]</td></tr>
+5 CONT <tr><td>Elizabeth</td><td>13</td><td>F</td><td>&nbsp;</td><t
+5 CONC d>&nbsp;</td><td>"</td><td>[attended school]</td></tr>
+5 CONT <tr><td>George</td><td>10</td><td>M</td><td>&nbsp;</td><td>&
+5 CONC nbsp;</td><td>"</td><td>[attended school]</td></tr>
+5 CONT <tr><td>Sally</td><td>7</td><td>F</td><td>&nbsp;</td><td>&nb
+5 CONC sp;</td><td>"</td><td>&nbsp;</td></tr>
+5 CONT <tr><td>Susan</td><td>20</td><td>F</td><td>&nbsp;</td><td>&n
+5 CONC bsp;</td><td>"</td><td>&nbsp;</td></tr>
+5 CONT <tr><td>Elizabeth Zuller</td><td>65</td><td>F</td><td>&nbsp;
+5 CONC </td><td>&nbsp;</td><td>"</td><td>&nbsp;</td></tr>
+5 CONT </table>
+5 CONT [for Elizabeth Zuller there appears to be a 1 in the colum
+5 CONC n stating she was married within the year, but that doesn'
+5 CONC t seem to make sense.]
 1 RESI
 2 DATE 1850
 2 PLAC Herkimer, Herkimer, New York, USA
@@ -3849,6 +4644,43 @@
 3 OBJE @Dhzz6LKJSPSgijx1fOwX@
 3 _APID 8054:11969911
 2 SOUR @5XXAeSVaQ4uit4NRcsSs@
+3 DATA
+4 TEXT Page No. 66<br />
+5 CONT SCHEDULE 1.--Free Inhabitants in Herkimer in the County of H
+5 CONC erkimer State of New York enumerated by me, on the 2nd day o
+5 CONC f July 1860.<br />
+5 CONT [...]<br />
+5 CONT [Dwelling] 471<br />
+5 CONT [Family] 481<br />
+5 CONT <table border="1">
+5 CONT <tr><td>Jeremiah Sphon</td><td>35</td><td>M</td><td>Farmer</
+5 CONC td><td>9.000</td><td>1.000</td><td>New York</td><td>&nbsp;</
+5 CONC td></tr>
+5 CONT <tr><td>Margaret</td><td>6</td><td>F</td><td>&nbsp;</td><td>
+5 CONC &nbsp;</td><td>&nbsp;</td><td>New York</td><td>[attended sch
+5 CONC ool]</td></tr>
+5 CONT <tr><td>Charles</td><td>2</td><td>M</td><td>&nbsp;</td><td>&
+5 CONC nbsp;</td><td>&nbsp;</td><td>New York</td><td>&nbsp;</td></t
+5 CONC r>
+5 CONT <tr><td>Elizabeth Sphon</td><td>63</td><td>F</td><td>&nbsp;<
+5 CONC /td><td>&nbsp;</td><td>&nbsp;</td><td>New York</td><td>&nbsp
+5 CONC ;</td></tr>
+5 CONT <tr><td>Sally Ann</td><td>16</td><td>F</td><td>&nbsp;</td><t
+5 CONC d>&nbsp;</td><td>&nbsp;</td><td>New York</td><td>&nbsp;</td>
+5 CONC </tr>
+5 CONT <tr><td>George P. Sphon</td><td>19</td><td>M</td><td>Farm Ha
+5 CONC nd</td><td>&nbsp;</td><td>&nbsp;</td><td>New York</td><td>&n
+5 CONC bsp;</td></tr>
+5 CONT <tr><td>Caroline</td><td>18</td><td>F</td><td>&nbsp;</td><td
+5 CONC >&nbsp;</td><td>&nbsp;</td><td>New York</td><td>&nbsp;</td><
+5 CONC /tr>
+5 CONT <tr><td>Catharine M</td><td>1/12</td><td>F</td><td>&nbsp;</t
+5 CONC d><td>&nbsp;</td><td>&nbsp;</td><td>New York</td><td>&nbsp;<
+5 CONC /td></tr>
+5 CONT <tr><td>Frederick Faby</td><td>17</td><td>M</td><td>Farm Han
+5 CONC d</td><td>&nbsp;</td><td>&nbsp;</td><td>Germany</td><td>&nbs
+5 CONC p;</td></tr>
+5 CONT </table>
 1 NAME George G. /Spohn/
 2 SOUR @gZWgWoNPTcyB004alViM@
 3 PAGE Ancestry Family Tree
@@ -3858,6 +4690,43 @@
 1 NAME George P. /Spohn/
 2 SOUR @5XXAeSVaQ4uit4NRcsSs@
 3 QUAY 1
+3 DATA
+4 TEXT Page No. 66<br />
+5 CONT SCHEDULE 1.--Free Inhabitants in Herkimer in the County of H
+5 CONC erkimer State of New York enumerated by me, on the 2nd day o
+5 CONC f July 1860.<br />
+5 CONT [...]<br />
+5 CONT [Dwelling] 471<br />
+5 CONT [Family] 481<br />
+5 CONT <table border="1">
+5 CONT <tr><td>Jeremiah Sphon</td><td>35</td><td>M</td><td>Farmer</
+5 CONC td><td>9.000</td><td>1.000</td><td>New York</td><td>&nbsp;</
+5 CONC td></tr>
+5 CONT <tr><td>Margaret</td><td>6</td><td>F</td><td>&nbsp;</td><td>
+5 CONC &nbsp;</td><td>&nbsp;</td><td>New York</td><td>[attended sch
+5 CONC ool]</td></tr>
+5 CONT <tr><td>Charles</td><td>2</td><td>M</td><td>&nbsp;</td><td>&
+5 CONC nbsp;</td><td>&nbsp;</td><td>New York</td><td>&nbsp;</td></t
+5 CONC r>
+5 CONT <tr><td>Elizabeth Sphon</td><td>63</td><td>F</td><td>&nbsp;<
+5 CONC /td><td>&nbsp;</td><td>&nbsp;</td><td>New York</td><td>&nbsp
+5 CONC ;</td></tr>
+5 CONT <tr><td>Sally Ann</td><td>16</td><td>F</td><td>&nbsp;</td><t
+5 CONC d>&nbsp;</td><td>&nbsp;</td><td>New York</td><td>&nbsp;</td>
+5 CONC </tr>
+5 CONT <tr><td>George P. Sphon</td><td>19</td><td>M</td><td>Farm Ha
+5 CONC nd</td><td>&nbsp;</td><td>&nbsp;</td><td>New York</td><td>&n
+5 CONC bsp;</td></tr>
+5 CONT <tr><td>Caroline</td><td>18</td><td>F</td><td>&nbsp;</td><td
+5 CONC >&nbsp;</td><td>&nbsp;</td><td>New York</td><td>&nbsp;</td><
+5 CONC /tr>
+5 CONT <tr><td>Catharine M</td><td>1/12</td><td>F</td><td>&nbsp;</t
+5 CONC d><td>&nbsp;</td><td>&nbsp;</td><td>New York</td><td>&nbsp;<
+5 CONC /td></tr>
+5 CONT <tr><td>Frederick Faby</td><td>17</td><td>M</td><td>Farm Han
+5 CONC d</td><td>&nbsp;</td><td>&nbsp;</td><td>Germany</td><td>&nbs
+5 CONC p;</td></tr>
+5 CONT </table>
 1 SEX M
 1 FAMC @apzmHapNRDiyYHvyYt6E@
 1 BIRT
@@ -3879,6 +4748,41 @@
 4 LONG W74.2224
 2 SOUR @OezS9TKgTzyeOYHQtB5E@
 3 QUAY 1
+3 DATA
+4 TEXT SCHEDULE I.--Free Inhabitants in the town of Herkimer in th
+5 CONC e County of Herkimer State of New York enumerated by me, o
+5 CONC n the 6th day of Sept 1850.<br />
+5 CONT [...]<br />
+5 CONT [Dwelling] 18<br />
+5 CONT [Family] 19<br />
+5 CONT <table border="1">
+5 CONT <tr><td>George Spoon</td><td>50</td><td>M</td><td>Farmer</td
+5 CONC ><td>4000</td><td>"[NY]</td><td>&nbsp;</td></tr>
+5 CONT <tr><td>Elizabeth</td><td>50</td><td>F</td><td>&nbsp;</td><t
+5 CONC d>&nbsp;</td><td>"</td><td>&nbsp;</td></tr>
+5 CONT <tr><td>Jeremiah</td><td>29</td><td>M</td><td>"</td><td>&nbs
+5 CONC p;</td><td>"</td><td>&nbsp;</td></tr>
+5 CONT <tr><td>Mary</td><td>21["1" appears to be written over "2"]<
+5 CONC /td><td>F</td><td>&nbsp;</td><td>&nbsp;</td><td>"</td><td>[a
+5 CONC ttended school]</td></tr>
+5 CONT <tr><td>Aaron</td><td>19</td><td>M</td><td>"</td><td>&nbsp;<
+5 CONC /td><td>"</td><td>[attended school]</td></tr>
+5 CONT <tr><td>Norman</td><td>16</td><td>M</td><td>"</td><td>&nbsp;
+5 CONC </td><td>"</td><td>[attended school]</td></tr>
+5 CONT <tr><td>Elizabeth</td><td>13</td><td>F</td><td>&nbsp;</td><t
+5 CONC d>&nbsp;</td><td>"</td><td>[attended school]</td></tr>
+5 CONT <tr><td>George</td><td>10</td><td>M</td><td>&nbsp;</td><td>&
+5 CONC nbsp;</td><td>"</td><td>[attended school]</td></tr>
+5 CONT <tr><td>Sally</td><td>7</td><td>F</td><td>&nbsp;</td><td>&nb
+5 CONC sp;</td><td>"</td><td>&nbsp;</td></tr>
+5 CONT <tr><td>Susan</td><td>20</td><td>F</td><td>&nbsp;</td><td>&n
+5 CONC bsp;</td><td>"</td><td>&nbsp;</td></tr>
+5 CONT <tr><td>Elizabeth Zuller</td><td>65</td><td>F</td><td>&nbsp;
+5 CONC </td><td>&nbsp;</td><td>"</td><td>&nbsp;</td></tr>
+5 CONT </table>
+5 CONT [for Elizabeth Zuller there appears to be a 1 in the colum
+5 CONC n stating she was married within the year, but that doesn'
+5 CONC t seem to make sense.]
 1 RESI
 2 DATE 1850
 2 PLAC Herkimer, Herkimer, New York, USA
@@ -4080,6 +4984,22 @@
 2 PLAC Hartmansdorf, Middleburgh, Schoharie, New York, USA
 2 SOUR @7r8bOwMCRQGDMV5Yv5Lz@
 3 QUAY 1
+3 DATA
+4 TEXT The list contains the Appendix of Ulrich Simmendinger's pamp
+5 CONC hlet, Warhoffte und glaubwurdige Verzeichnuss jeniger Person
+5 CONC en; welche sich anno 1709 aus Teutschland in Americam oder n
+5 CONC eue welt begeben. . . . (Reuttlingen, ca. 1717).<br />
+5 CONT [...]<br />
+5 CONT The villages marked (f) to (l) are apparently German names f
+5 CONC or the seven Schoharie Valley settlements, probably used onl
+5 CONC y in the pamphlet to impress the people in the Fatherland fo
+5 CONC r whom the lists were prepared. Tentatively, by the identifi
+5 CONC cation of a few family names known to reside in the severa
+5 CONC l villages, they appear to be as follows:<br />
+5 CONT [...]<br />
+5 CONT Neu=Quunsberg (h) -------Hartmansdorf<br />
+5 CONT [...]<br />
+5 CONT Spon, Heinrich, (h) w. Maria Catharine & 3 ch
 2 NOTE "Hartman's dorf" was a Palatine settlement between Middlebur
 3 CONC gh and Schoharie, which only existed from
 3 CONT about 1713 to about 1722.
@@ -4091,6 +5011,39 @@
 4 LONG W74.964
 2 SOUR @BjB1o1swQASuhlr4tZpD@
 3 QUAY 1
+3 DATA
+4 TEXT THE SPOON FAMILY<br />
+5 CONT <br />
+5 CONT This name is also spelled Spohn and Spochn. The first recor
+5 CONC d is Hendrick Spoon who received lot# 32, North side of Moha
+5 CONC wk, Burnetsfield Patent. In 1725; his son Hendrick Spoon, Jr
+5 CONC . received lot # 7 . The later was one of eighteen named i
+5 CONC n Staley's Patent, in 1755. *<br />
+5 CONT <br />
+5 CONT Hendrick Spoon was the father of:<br />
+5 CONT <br />
+5 CONT 1- Hannah, who married Conrad Eychner<br />
+5 CONT 2- Susan, who was scalped by the Indians but lived.<br />
+5 CONT 3- John served in the New York Militia.......<br />
+5 CONT 4- Nicholas, who served in the New York Militia.......<br />
+5 CONT <br />
+5 CONT Their Mother was said to have been Swede, and that her nam
+5 CONC e was Hannah. The writer well remembers when a small girl o
+5 CONC f hearing her parents speak of Susan, who was scalped by th
+5 CONC e Indians.<br />
+5 CONT <br />
+5 CONT Conrad and Hannah Spoon Eychner were the parents of Benjami
+5 CONC n Eychner and great grand parents of the Eychner family. <b
+5 CONC r />
+5 CONT <br />
+5 CONT *This information has recently been verified in a Book Calle
+5 CONC d History of the Mohawk Valley Gateway to the West 1614 - 19
+5 CONC 25 covering Six Counties of Schenectady, Schoharie, Montgome
+5 CONC ry, Fulton, Herkimer and Oneida. Found In Volume #1 page 506
+5 CONC . Edited by Nelson Greene Copyright 1925 by The S. J. Clark
+5 CONC e Publishing Company. The Information in this book is liste
+5 CONC d as follows: Hendrick Spoon Lot No. 32, 100 acres, South. H
+5 CONC endrick Spoon Jr., Lot No. 7, 100 acres North.
 2 NOTE "Hendrick Spoon" lot #7 on north side of Mohawk River (100 a
 3 CONC cres), of the list of patentees on the "Burnetsfield Patent
 3 CONC " (request 1721, issued 25 Apr 1725). Also see "History of t
@@ -4150,6 +5103,39 @@
 4 LONG W74.9852
 2 SOUR @BjB1o1swQASuhlr4tZpD@
 3 QUAY 1
+3 DATA
+4 TEXT THE SPOON FAMILY<br />
+5 CONT <br />
+5 CONT This name is also spelled Spohn and Spochn. The first recor
+5 CONC d is Hendrick Spoon who received lot# 32, North side of Moha
+5 CONC wk, Burnetsfield Patent. In 1725; his son Hendrick Spoon, Jr
+5 CONC . received lot # 7 . The later was one of eighteen named i
+5 CONC n Staley's Patent, in 1755. *<br />
+5 CONT <br />
+5 CONT Hendrick Spoon was the father of:<br />
+5 CONT <br />
+5 CONT 1- Hannah, who married Conrad Eychner<br />
+5 CONT 2- Susan, who was scalped by the Indians but lived.<br />
+5 CONT 3- John served in the New York Militia.......<br />
+5 CONT 4- Nicholas, who served in the New York Militia.......<br />
+5 CONT <br />
+5 CONT Their Mother was said to have been Swede, and that her nam
+5 CONC e was Hannah. The writer well remembers when a small girl o
+5 CONC f hearing her parents speak of Susan, who was scalped by th
+5 CONC e Indians.<br />
+5 CONT <br />
+5 CONT Conrad and Hannah Spoon Eychner were the parents of Benjami
+5 CONC n Eychner and great grand parents of the Eychner family. <b
+5 CONC r />
+5 CONT <br />
+5 CONT *This information has recently been verified in a Book Calle
+5 CONC d History of the Mohawk Valley Gateway to the West 1614 - 19
+5 CONC 25 covering Six Counties of Schenectady, Schoharie, Montgome
+5 CONC ry, Fulton, Herkimer and Oneida. Found In Volume #1 page 506
+5 CONC . Edited by Nelson Greene Copyright 1925 by The S. J. Clark
+5 CONC e Publishing Company. The Information in this book is liste
+5 CONC d as follows: Hendrick Spoon Lot No. 32, 100 acres, South. H
+5 CONC endrick Spoon Jr., Lot No. 7, 100 acres North.
 2 NOTE "Henrick Spoon Jr." on Burnetsfield patent (see father's not
 3 CONC e).
 1 DEAT
@@ -4234,6 +5220,17 @@
 4 LONG W74.986
 2 SOUR @J5wonceqRjit4ipUMzY4@
 3 QUAY 3
+3 DATA
+4 TEXT Nicholas Spoon<br />
+5 CONT [m0-15 Johannes Nicholas Spoon (1)<br />
+5 CONT m0-15 Nicholas Spoon (3)<br />
+5 CONT m16+ ???Nicholas Henrich Spoon (67)<br />
+5 CONT m16+ ?<br />
+5 CONT m16+ Johann Nicholas Spohn (28)<br />
+5 CONT f ???Susanna Spoon (20)<br />
+5 CONT f ???Elizabeth Diefendorf (67)<br />
+5 CONT f Cathatina Kilts (23)<br />
+5 CONT ]
 1 CENS
 2 DATE 06 AUG 1810
 2 PLAC Herkimer, Herkimer, New York, USA
@@ -4242,6 +5239,22 @@
 4 LONG W74.986
 2 SOUR @p9kEMQAvTleXohid5BlA@
 3 QUAY 3
+3 DATA
+4 TEXT Herkimer<br />
+5 CONT [...]<br />
+5 CONT Nicholas Spoon<br />
+5 CONT [m10-15 George (10)<br />
+5 CONT m16-25 Werner (16)<br />
+5 CONT m16-25 Adam (19)<br />
+5 CONT m16-25 Johannes (21)<br />
+5 CONT m26-44 Nicholas Spoon (23???)<br />
+5 CONT m45+ Johann Nicholas Spohn (48)<br />
+5 CONT f0-9 Eva (3)<br />
+5 CONT f0-9 Elizabeth (7)<br />
+5 CONT f10-15 Catharina??? (5)<br />
+5 CONT f45+ Catharina Kilts (43???)<br />
+5 CONT f45+ Elizabeth Diefendorf (77)<br />
+5 CONT ]
 1 DEAT
 2 DATE 27 APR 1830
 2 PLAC German Flatts, Herkimer, New York, USA
@@ -4461,6 +5474,17 @@
 4 LONG W74.986
 2 SOUR @J5wonceqRjit4ipUMzY4@
 3 QUAY 1
+3 DATA
+4 TEXT Nicholas Spoon<br />
+5 CONT [m0-15 Johannes Nicholas Spoon (1)<br />
+5 CONT m0-15 Nicholas Spoon (3)<br />
+5 CONT m16+ ???Nicholas Henrich Spoon (67)<br />
+5 CONT m16+ ?<br />
+5 CONT m16+ Johann Nicholas Spohn (28)<br />
+5 CONT f ???Susanna Spoon (20)<br />
+5 CONT f ???Elizabeth Diefendorf (67)<br />
+5 CONT f Cathatina Kilts (23)<br />
+5 CONT ]
 1 DEAT
 2 DATE 07 MAR 1817
 2 PLAC Herkimer, New York, USA
@@ -4487,6 +5511,41 @@
 5 CONC &pid=1118
 2 SOUR @OezS9TKgTzyeOYHQtB5E@
 3 QUAY 1
+3 DATA
+4 TEXT SCHEDULE I.--Free Inhabitants in the town of Herkimer in th
+5 CONC e County of Herkimer State of New York enumerated by me, o
+5 CONC n the 6th day of Sept 1850.<br />
+5 CONT [...]<br />
+5 CONT [Dwelling] 18<br />
+5 CONT [Family] 19<br />
+5 CONT <table border="1">
+5 CONT <tr><td>George Spoon</td><td>50</td><td>M</td><td>Farmer</td
+5 CONC ><td>4000</td><td>"[NY]</td><td>&nbsp;</td></tr>
+5 CONT <tr><td>Elizabeth</td><td>50</td><td>F</td><td>&nbsp;</td><t
+5 CONC d>&nbsp;</td><td>"</td><td>&nbsp;</td></tr>
+5 CONT <tr><td>Jeremiah</td><td>29</td><td>M</td><td>"</td><td>&nbs
+5 CONC p;</td><td>"</td><td>&nbsp;</td></tr>
+5 CONT <tr><td>Mary</td><td>21["1" appears to be written over "2"]<
+5 CONC /td><td>F</td><td>&nbsp;</td><td>&nbsp;</td><td>"</td><td>[a
+5 CONC ttended school]</td></tr>
+5 CONT <tr><td>Aaron</td><td>19</td><td>M</td><td>"</td><td>&nbsp;<
+5 CONC /td><td>"</td><td>[attended school]</td></tr>
+5 CONT <tr><td>Norman</td><td>16</td><td>M</td><td>"</td><td>&nbsp;
+5 CONC </td><td>"</td><td>[attended school]</td></tr>
+5 CONT <tr><td>Elizabeth</td><td>13</td><td>F</td><td>&nbsp;</td><t
+5 CONC d>&nbsp;</td><td>"</td><td>[attended school]</td></tr>
+5 CONT <tr><td>George</td><td>10</td><td>M</td><td>&nbsp;</td><td>&
+5 CONC nbsp;</td><td>"</td><td>[attended school]</td></tr>
+5 CONT <tr><td>Sally</td><td>7</td><td>F</td><td>&nbsp;</td><td>&nb
+5 CONC sp;</td><td>"</td><td>&nbsp;</td></tr>
+5 CONT <tr><td>Susan</td><td>20</td><td>F</td><td>&nbsp;</td><td>&n
+5 CONC bsp;</td><td>"</td><td>&nbsp;</td></tr>
+5 CONT <tr><td>Elizabeth Zuller</td><td>65</td><td>F</td><td>&nbsp;
+5 CONC </td><td>&nbsp;</td><td>"</td><td>&nbsp;</td></tr>
+5 CONT </table>
+5 CONT [for Elizabeth Zuller there appears to be a 1 in the colum
+5 CONC n stating she was married within the year, but that doesn'
+5 CONC t seem to make sense.]
 1 SEX M
 1 FAMC @apzmHapNRDiyYHvyYt6E@
 1 BIRT
@@ -4502,6 +5561,41 @@
 3 _APID 8054:11969909
 2 SOUR @OezS9TKgTzyeOYHQtB5E@
 3 QUAY 1
+3 DATA
+4 TEXT SCHEDULE I.--Free Inhabitants in the town of Herkimer in th
+5 CONC e County of Herkimer State of New York enumerated by me, o
+5 CONC n the 6th day of Sept 1850.<br />
+5 CONT [...]<br />
+5 CONT [Dwelling] 18<br />
+5 CONT [Family] 19<br />
+5 CONT <table border="1">
+5 CONT <tr><td>George Spoon</td><td>50</td><td>M</td><td>Farmer</td
+5 CONC ><td>4000</td><td>"[NY]</td><td>&nbsp;</td></tr>
+5 CONT <tr><td>Elizabeth</td><td>50</td><td>F</td><td>&nbsp;</td><t
+5 CONC d>&nbsp;</td><td>"</td><td>&nbsp;</td></tr>
+5 CONT <tr><td>Jeremiah</td><td>29</td><td>M</td><td>"</td><td>&nbs
+5 CONC p;</td><td>"</td><td>&nbsp;</td></tr>
+5 CONT <tr><td>Mary</td><td>21["1" appears to be written over "2"]<
+5 CONC /td><td>F</td><td>&nbsp;</td><td>&nbsp;</td><td>"</td><td>[a
+5 CONC ttended school]</td></tr>
+5 CONT <tr><td>Aaron</td><td>19</td><td>M</td><td>"</td><td>&nbsp;<
+5 CONC /td><td>"</td><td>[attended school]</td></tr>
+5 CONT <tr><td>Norman</td><td>16</td><td>M</td><td>"</td><td>&nbsp;
+5 CONC </td><td>"</td><td>[attended school]</td></tr>
+5 CONT <tr><td>Elizabeth</td><td>13</td><td>F</td><td>&nbsp;</td><t
+5 CONC d>&nbsp;</td><td>"</td><td>[attended school]</td></tr>
+5 CONT <tr><td>George</td><td>10</td><td>M</td><td>&nbsp;</td><td>&
+5 CONC nbsp;</td><td>"</td><td>[attended school]</td></tr>
+5 CONT <tr><td>Sally</td><td>7</td><td>F</td><td>&nbsp;</td><td>&nb
+5 CONC sp;</td><td>"</td><td>&nbsp;</td></tr>
+5 CONT <tr><td>Susan</td><td>20</td><td>F</td><td>&nbsp;</td><td>&n
+5 CONC bsp;</td><td>"</td><td>&nbsp;</td></tr>
+5 CONT <tr><td>Elizabeth Zuller</td><td>65</td><td>F</td><td>&nbsp;
+5 CONC </td><td>&nbsp;</td><td>"</td><td>&nbsp;</td></tr>
+5 CONT </table>
+5 CONT [for Elizabeth Zuller there appears to be a 1 in the colum
+5 CONC n stating she was married within the year, but that doesn'
+5 CONC t seem to make sense.]
 1 RESI
 2 DATE 1850
 2 PLAC Herkimer, Herkimer, New York, USA
@@ -4530,6 +5624,43 @@
 5 CONC &pid=1114
 2 SOUR @5XXAeSVaQ4uit4NRcsSs@
 3 QUAY 1
+3 DATA
+4 TEXT Page No. 66<br />
+5 CONT SCHEDULE 1.--Free Inhabitants in Herkimer in the County of H
+5 CONC erkimer State of New York enumerated by me, on the 2nd day o
+5 CONC f July 1860.<br />
+5 CONT [...]<br />
+5 CONT [Dwelling] 471<br />
+5 CONT [Family] 481<br />
+5 CONT <table border="1">
+5 CONT <tr><td>Jeremiah Sphon</td><td>35</td><td>M</td><td>Farmer</
+5 CONC td><td>9.000</td><td>1.000</td><td>New York</td><td>&nbsp;</
+5 CONC td></tr>
+5 CONT <tr><td>Margaret</td><td>6</td><td>F</td><td>&nbsp;</td><td>
+5 CONC &nbsp;</td><td>&nbsp;</td><td>New York</td><td>[attended sch
+5 CONC ool]</td></tr>
+5 CONT <tr><td>Charles</td><td>2</td><td>M</td><td>&nbsp;</td><td>&
+5 CONC nbsp;</td><td>&nbsp;</td><td>New York</td><td>&nbsp;</td></t
+5 CONC r>
+5 CONT <tr><td>Elizabeth Sphon</td><td>63</td><td>F</td><td>&nbsp;<
+5 CONC /td><td>&nbsp;</td><td>&nbsp;</td><td>New York</td><td>&nbsp
+5 CONC ;</td></tr>
+5 CONT <tr><td>Sally Ann</td><td>16</td><td>F</td><td>&nbsp;</td><t
+5 CONC d>&nbsp;</td><td>&nbsp;</td><td>New York</td><td>&nbsp;</td>
+5 CONC </tr>
+5 CONT <tr><td>George P. Sphon</td><td>19</td><td>M</td><td>Farm Ha
+5 CONC nd</td><td>&nbsp;</td><td>&nbsp;</td><td>New York</td><td>&n
+5 CONC bsp;</td></tr>
+5 CONT <tr><td>Caroline</td><td>18</td><td>F</td><td>&nbsp;</td><td
+5 CONC >&nbsp;</td><td>&nbsp;</td><td>New York</td><td>&nbsp;</td><
+5 CONC /tr>
+5 CONT <tr><td>Catharine M</td><td>1/12</td><td>F</td><td>&nbsp;</t
+5 CONC d><td>&nbsp;</td><td>&nbsp;</td><td>New York</td><td>&nbsp;<
+5 CONC /td></tr>
+5 CONT <tr><td>Frederick Faby</td><td>17</td><td>M</td><td>Farm Han
+5 CONC d</td><td>&nbsp;</td><td>&nbsp;</td><td>Germany</td><td>&nbs
+5 CONC p;</td></tr>
+5 CONT </table>
 1 SEX F
 1 FAMC @apzmHapNRDiyYHvyYt6E@
 1 BIRT
@@ -4545,6 +5676,41 @@
 3 _APID 8054:11969912
 2 SOUR @OezS9TKgTzyeOYHQtB5E@
 3 QUAY 1
+3 DATA
+4 TEXT SCHEDULE I.--Free Inhabitants in the town of Herkimer in th
+5 CONC e County of Herkimer State of New York enumerated by me, o
+5 CONC n the 6th day of Sept 1850.<br />
+5 CONT [...]<br />
+5 CONT [Dwelling] 18<br />
+5 CONT [Family] 19<br />
+5 CONT <table border="1">
+5 CONT <tr><td>George Spoon</td><td>50</td><td>M</td><td>Farmer</td
+5 CONC ><td>4000</td><td>"[NY]</td><td>&nbsp;</td></tr>
+5 CONT <tr><td>Elizabeth</td><td>50</td><td>F</td><td>&nbsp;</td><t
+5 CONC d>&nbsp;</td><td>"</td><td>&nbsp;</td></tr>
+5 CONT <tr><td>Jeremiah</td><td>29</td><td>M</td><td>"</td><td>&nbs
+5 CONC p;</td><td>"</td><td>&nbsp;</td></tr>
+5 CONT <tr><td>Mary</td><td>21["1" appears to be written over "2"]<
+5 CONC /td><td>F</td><td>&nbsp;</td><td>&nbsp;</td><td>"</td><td>[a
+5 CONC ttended school]</td></tr>
+5 CONT <tr><td>Aaron</td><td>19</td><td>M</td><td>"</td><td>&nbsp;<
+5 CONC /td><td>"</td><td>[attended school]</td></tr>
+5 CONT <tr><td>Norman</td><td>16</td><td>M</td><td>"</td><td>&nbsp;
+5 CONC </td><td>"</td><td>[attended school]</td></tr>
+5 CONT <tr><td>Elizabeth</td><td>13</td><td>F</td><td>&nbsp;</td><t
+5 CONC d>&nbsp;</td><td>"</td><td>[attended school]</td></tr>
+5 CONT <tr><td>George</td><td>10</td><td>M</td><td>&nbsp;</td><td>&
+5 CONC nbsp;</td><td>"</td><td>[attended school]</td></tr>
+5 CONT <tr><td>Sally</td><td>7</td><td>F</td><td>&nbsp;</td><td>&nb
+5 CONC sp;</td><td>"</td><td>&nbsp;</td></tr>
+5 CONT <tr><td>Susan</td><td>20</td><td>F</td><td>&nbsp;</td><td>&n
+5 CONC bsp;</td><td>"</td><td>&nbsp;</td></tr>
+5 CONT <tr><td>Elizabeth Zuller</td><td>65</td><td>F</td><td>&nbsp;
+5 CONC </td><td>&nbsp;</td><td>"</td><td>&nbsp;</td></tr>
+5 CONT </table>
+5 CONT [for Elizabeth Zuller there appears to be a 1 in the colum
+5 CONC n stating she was married within the year, but that doesn'
+5 CONC t seem to make sense.]
 1 RESI
 2 DATE 1850
 2 PLAC Herkimer, Herkimer, New York, USA
@@ -4733,6 +5899,12 @@
 3 QUAY 1
 3 DATA
 4 TEXT [note that "Aaron" is from 1875 NY Census]
+5 CONT <a href="http://www.flickr.com/photos/mosher/6255965940/" ti
+5 CONC tle="Aaron Ezelous Spohner by cmosher01, on Flickr"><img src
+5 CONC ="http://farm7.static.flickr.com/6060/6255965940_b9c7fbf8da_
+5 CONC m.jpg" width="166" height="240" alt="Aaron Ezelous Spohner">
+5 CONC </a><br />
+5 CONT Ezelous A. Spohner/Nancy Spohner Colvin's/youngest brother
 2 SOUR @sdi0PHZsQSSEeKVaaNyF@
 3 _APID 4600:98761
 2 SOUR @GrI3zKZyQoOSZdzfVQhP@
@@ -4794,6 +5966,10 @@
 2 SOUR @XOhKwTvRTLikm9QwBjaT@
 3 QUAY 1
 2 SOUR @xdbrM46HTvmEPDPBaIWY@
+3 DATA
+4 TEXT 9 Niagara<br />
+5 CONT Spooner E. A.<br />
+5 CONT Aug. 1869, age 30
 2 NOTE place is from Nolan
 1 RESI
 2 DATE 1870
@@ -4834,6 +6010,13 @@
 2 DATE ABT 1895
 2 SOUR @O7bfMxIzT8umZzFka3XE@
 3 QUAY 3
+3 DATA
+4 TEXT <a href="http://www.flickr.com/photos/mosher/6255965940/" ti
+5 CONC tle="Aaron Ezelous Spohner by cmosher01, on Flickr"><img src
+5 CONC ="http://farm7.static.flickr.com/6060/6255965940_b9c7fbf8da_
+5 CONC m.jpg" width="166" height="240" alt="Aaron Ezelous Spohner">
+5 CONC </a><br />
+5 CONT Ezelous A. Spohner/Nancy Spohner Colvin's/youngest brother
 1 RESI
 2 DATE 1900
 2 PLAC 113 Lyell Avenue, Rochester, Monroe, New York, USA
@@ -5049,7 +6232,7 @@
 4 CONC L microfilm: 2341186
 3 OBJE @uVvkdSiwQLqj5waJ6pru@
 3 _APID 6224:41224825
-2 SOUR @AiRSpGQ5SdCsu458Yo2g@
+2 SOUR @WJThGg91QeeEjdHx6ACi@
 3 PAGE Year: 1940; Census Place: Rochester, Monroe, New York; Roll
 4 CONC : T627_2846; Page: 9A; Enumeration District: 65-157
 3 OBJE @r6VdM7wgSrKYiXEwD2Dj@
@@ -5076,7 +6259,7 @@
 4 CONC L microfilm: 2341186
 3 OBJE @uVvkdSiwQLqj5waJ6pru@
 3 _APID 6224:41224825
-2 SOUR @AiRSpGQ5SdCsu458Yo2g@
+2 SOUR @WJThGg91QeeEjdHx6ACi@
 3 PAGE Year: 1940; Census Place: Rochester, Monroe, New York; Roll
 4 CONC : T627_2846; Page: 9A; Enumeration District: 65-157
 3 OBJE @r6VdM7wgSrKYiXEwD2Dj@
@@ -5181,7 +6364,7 @@
 1 RESI
 2 DATE 01 APR 1940
 2 PLAC 781 Meigs Street, Rochester, Monroe, New York, USA
-2 SOUR @AiRSpGQ5SdCsu458Yo2g@
+2 SOUR @WJThGg91QeeEjdHx6ACi@
 3 PAGE Year: 1940; Census Place: Rochester, Monroe, New York; Roll
 4 CONC : T627_2846; Page: 9A; Enumeration District: 65-157
 3 OBJE @r6VdM7wgSrKYiXEwD2Dj@
@@ -5448,6 +6631,20 @@
 1 BURI
 2 PLAC Maple Grove Cemetery, Jordan, Onondaga, New York, USA
 2 SOUR @tZW1bdykRNCewbsGuOxL@
+3 DATA
+4 TEXT Birth:
+5 CONT 1855
+5 CONT Death:
+5 CONT 1919
+5 CONT Burial:
+5 CONT Maple Grove Cemetery
+5 CONT Jordan
+5 CONT Onondaga County
+5 CONT New York, USA
+5 CONT Plot: SECTION B, LOT 46: SPINNING/(SPOHNER)
+5 CONT Created by: BArnold
+5 CONT Record added: Mar 01, 2011
+5 CONT Find A Grave Memorial# 66320125
 2 SOUR @T04Thx8JT9W2rNmp2cvO@
 3 _APID 60525:25153352
 2 SOUR @OGXwsRzKTTqSepyc7LXD@
@@ -5894,7 +7091,25 @@
 3 QUAY 1
 2 SOUR @T04Thx8JT9W2rNmp2cvO@
 3 _APID 60525:30656547
-2 SOUR @dfwZDtFZTyOI5x6dwE0Q@
+2 SOUR @S82@
+3 DATA
+4 TEXT Page No. 68<br />
+5 CONT SCHEDULE I.--Inhabitants in Eaton, in the County of Madison
+5 CONC , State of New York, enumerated by me on the 25 day of July
+5 CONC , 1870.<br />
+5 CONT Post Office: Pratts Hollow<br />
+5 CONT <table border="1">
+5 CONT <tr><td>558</td><td>573</td></tr>
+5 CONT <tr><td>&nbsp;</td><td>&nbsp;</td><td>Slocum</td><td>Peleg</
+5 CONC td><td>67</td><td>M</td><td>W</td><td>Farmer</td><td>3000</t
+5 CONC d><td>675</td><td>Rhode Island</td></tr>
+5 CONT <tr><td>&nbsp;</td><td>&nbsp;</td><td>--</td><td>Olive</td><
+5 CONC td>61</td><td>F</td><td>W</td><td>Keeping House</td><td>&nbs
+5 CONC p;</td><td>&nbsp;</td><td>New York</td></tr>
+5 CONT <tr><td>&nbsp;</td><td>&nbsp;</td><td>--</td><td>Jennette</t
+5 CONC d><td>40</td><td>F</td><td>W</td><td>At Home</td><td>&nbsp;<
+5 CONC /td><td>&nbsp;</td><td>New York</td><td>Blind</td></tr>
+5 CONT </table>
 2 SOUR @OGXwsRzKTTqSepyc7LXD@
 3 _APID 70572:515282
 2 NOTE place from NY Census, 1875
@@ -5914,9 +7129,65 @@
 3 MAP
 4 LATI N42.8497
 4 LONG W75.6122
-2 SOUR @dfwZDtFZTyOI5x6dwE0Q@
-2 SOUR @oxokfBzJTdqN32mtJ0tY@
+2 SOUR @S82@
+3 DATA
+4 TEXT Page No. 68<br />
+5 CONT SCHEDULE I.--Inhabitants in Eaton, in the County of Madison
+5 CONC , State of New York, enumerated by me on the 25 day of July
+5 CONC , 1870.<br />
+5 CONT Post Office: Pratts Hollow<br />
+5 CONT <table border="1">
+5 CONT <tr><td>558</td><td>573</td></tr>
+5 CONT <tr><td>&nbsp;</td><td>&nbsp;</td><td>Slocum</td><td>Peleg</
+5 CONC td><td>67</td><td>M</td><td>W</td><td>Farmer</td><td>3000</t
+5 CONC d><td>675</td><td>Rhode Island</td></tr>
+5 CONT <tr><td>&nbsp;</td><td>&nbsp;</td><td>--</td><td>Olive</td><
+5 CONC td>61</td><td>F</td><td>W</td><td>Keeping House</td><td>&nbs
+5 CONC p;</td><td>&nbsp;</td><td>New York</td></tr>
+5 CONT <tr><td>&nbsp;</td><td>&nbsp;</td><td>--</td><td>Jennette</t
+5 CONC d><td>40</td><td>F</td><td>W</td><td>At Home</td><td>&nbsp;<
+5 CONC /td><td>&nbsp;</td><td>New York</td><td>Blind</td></tr>
+5 CONT </table>
+2 SOUR @S83@
 3 QUAY 3
+3 DATA
+4 TEXT Page No. 65<br />
+5 CONT SCHEDULE 1.--Inhabitants in Eaton, in the County of Madison
+5 CONC , State of New York, enumerated by me on the 25 day of July
+5 CONC , 1870.<br />
+5 CONT Post Office: Morrisville<br />
+5 CONT [...]<br />
+5 CONT [Dwelling] 532<br />
+5 CONT [Family] 549<br />
+5 CONT <table border="1">
+5 CONT <tr><td>[last</td><td>first</td><td>age</td><td>gend</td><td
+5 CONC >race</td><td>occ</td><td>real</td><td>pers</td><td>birth</t
+5 CONC d><td>at sch]</td></tr>
+5 CONT <tr><td>Spooner</td><td>Aaron</td><td>40</td><td>M</td><td>W
+5 CONC </td><td>Farmer</td><td>1450</td><td>300</td><td>New York</t
+5 CONC d><td>&nbsp;</td></tr>
+5 CONT <tr><td>--</td><td>Laura</td><td>37</td><td>F</td><td>W</td>
+5 CONC <td>Keeping House</td><td>&nbsp;</td><td>&nbsp;</td><td>Ne
+5 CONC w York</td><td>&nbsp;</td></tr>
+5 CONT <tr><td>--</td><td>Herman</td><td>15</td><td>M</td><td>W</td
+5 CONC ><td>Form Labor</td><td>&nbsp;</td><td>&nbsp;</td><td>New Yo
+5 CONC rk</td><td>1</td></tr>
+5 CONT <tr><td>--</td><td>Lydia</td><td>11</td><td>F</td><td>W</td>
+5 CONC <td>At School</td><td>&nbsp;</td><td>&nbsp;</td><td>New York
+5 CONC </td><td>1</td></tr>
+5 CONT <tr><td>--</td><td>Nancy</td><td>8</td><td>F</td><td>W</td><
+5 CONC td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>New York</td
+5 CONC ><td>1</td></tr>
+5 CONT <tr><td>--</td><td>Mary</td><td>7</td><td>F</td><td>W</td><t
+5 CONC d>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>New York</td>
+5 CONC <td>1</td></tr>
+5 CONT <tr><td>--</td><td>Aaron</td><td>1</td><td>M</td><td>W</td><
+5 CONC td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>New York</td
+5 CONC ><td>&nbsp;</td></tr>
+5 CONT <tr><td>Straugh</td><td>Lydia</td><td>66</td><td>F</td><td>W
+5 CONC </td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>New Yo
+5 CONC rk</td><td>&nbsp;</td></tr>
+5 CONT </table>
 1 RESI
 2 DATE 1870
 2 PLAC Morrisville, Eaton, Madison, New York, United States
@@ -5944,6 +7215,29 @@
 4 LONG W75.6122
 2 SOUR @SvybU5f8TmGg2t5AX4Fo@
 3 QUAY 3
+3 DATA
+4 TEXT dwelling 354 frame $500<br />
+5 CONT family 383<br />
+5 CONT <table border="1">
+5 CONT <tr><td>Aaron</td><td>Spooner</td><td>45</td><td>m</td><td>-
+5 CONC </td><td>Herkimer</td><td>married</td><td>farmer</td></tr>
+5 CONT <tr><td>Lana</td><td>Spooner</td><td>43</td><td>f</td><td>Wi
+5 CONC fe</td><td>"</td><td>married</td><td>&nbsp;</td></tr>
+5 CONT <tr><td>Herman E.</td><td>Spooner</td><td>19</td><td>m</td><
+5 CONC td>Son</td><td>Madison</td><td>single</td><td>&nbsp;</td></t
+5 CONC r>
+5 CONT <tr><td>Lydia E.</td><td>Spooner</td><td>16</td><td>f</td><t
+5 CONC d>Daughter</td><td>"</td><td>single</td><td>&nbsp;</td></tr>
+5 CONT <tr><td>Nancy E.</td><td>Spooner</td><td>13</td><td>f</td><t
+5 CONC d>Daughter</td><td>"</td><td>single</td><td>&nbsp;</td></tr>
+5 CONT <tr><td>Mary E.</td><td>Spooner</td><td>11</td><td>f</td><td
+5 CONC >Daughter</td><td>"</td><td>single</td><td>&nbsp;</td></tr>
+5 CONT <tr><td>Aaron E.</td><td>Spooner</td><td>6</td><td>m</td><td
+5 CONC >Son</td><td>"</td><td>single</td><td>&nbsp;</td></tr>
+5 CONT <tr><td>Lydia</td><td>Strow</td><td>67</td><td>f</td><td>Wif
+5 CONC e's Mother</td><td>Herkimer</td><td>&nbsp;</td><td>&nbsp;</t
+5 CONC d></tr>
+5 CONT </table>
 1 CENS
 2 DATE 01 JUN 1880
 2 PLAC Eaton, Madison, New York, USA
@@ -5952,11 +7246,29 @@
 4 LONG W75.6122
 2 SOUR @WVZ9YGEQTe2HhI4pqt83@
 3 QUAY 3
+3 DATA
+4 TEXT <table border="1">
+5 CONT <tr><td>Colvin,</td><td>George</td><td>w</td><td>m</td><td>2
+5 CONC 4</td></tr>
+5 CONT <tr><td>-</td><td>Nancy</td><td>"</td><td>f</td><td>[destroy
+5 CONC ed]</td></tr>
+5 CONT </table>
 1 EVEN
 2 TYPE photograph
 2 DATE ABT 1885
 2 SOUR @uDNUT3zxQwK8uCm0ATDx@
 3 QUAY 2
+3 DATA
+4 TEXT A series of two drawings that appear to have been made fro
+5 CONC m other photographs, rather than from the subjects themselve
+5 CONC s.<br />
+5 CONT (drawing 1)<br />
+5 CONT William D. Mosher (drawing actually says "William George Mos
+5 CONC her" but that is incorrect)<br />
+5 CONT Alta Amelia Lovejoy<br />
+5 CONT (drawing 2)<br />
+5 CONT Nancy Elnora Spohner<br />
+5 CONT George William Colvin
 3 OBJE @M57@
 3 OBJE @M58@
 1 RESI
@@ -6097,6 +7409,18 @@
 2 DATE 20 SEP 1782
 2 SOUR @rxfni07VRLWpJ86MYxY3@
 3 QUAY 1
+3 DATA
+4 TEXT <table border="1">
+5 CONT <tr><th>Name</th><th>Army and German Town of origin</th><th>
+5 CONC Military rank or rating</th><th>Military unit</th><th>Sourc
+5 CONC e of military record</th><th>Personal information and sourc
+5 CONC e for additional information, if any</th></tr>
+5 CONT <tr><td>Strauch, Balthasar</td><td>Hesse-Cassel; Eschwege</t
+5 CONC d><td>Private</td><td>Erb Prinz Reg.. Co. 4</td><td>HETRIN
+5 CONC A Vol III</td><td>Deserted on 20 Sept. 1782 and joined the A
+5 CONC merican forces; Straight-line genealogy established.</td></t
+5 CONC r>
+5 CONT </table>
 2 NOTE He was a "Hessian Solidier" in the Revolutionary War, in Com
 3 CONC pany 4 of Erb Prinz Regiment. This is the date that he deser
 3 CONC ted the British troops and joined the American troops.
@@ -6108,6 +7432,16 @@
 4 LONG W74.5718
 2 SOUR @0tS0RQvJRZqGoPULgAot@
 3 QUAY 3
+3 DATA
+4 TEXT [page] 91<br />
+5 CONT [...]<br />
+5 CONT Baltus Strow<br />
+5 CONT [m16+ Balthazar Strauch (42)<br />
+5 CONT m0-15 Heinrich Strauch (5)<br />
+5 CONT m0-15 Baldus Strauch (3)<br />
+5 CONT f Maria Katharina Ritter (25)<br />
+5 CONT f ?<br />
+5 CONT ]
 1 _GUID cfe38815-80ef-4598-9399-3685e7e50de5
 1 _XY 4652.00 493.00
 0 @BSMT7hvgSducC12BNmK4@ INDI
@@ -6196,6 +7530,23 @@
 3 _APID 8054:11969092
 2 SOUR @y0rbFeaiRdq4vqT8x9R7@
 3 QUAY 2
+3 DATA
+4 TEXT 27 Aug 1850<br />
+5 CONT dwelling 208<br />
+5 CONT family 211<br />
+5 CONT <table border="1">
+5 CONT <tr><td>Mathew</td><td>Strough</td><td>50</td><td>m</td><td>
+5 CONC " [Labourer]</td><td>" " [New York]</td><td>[can't r/w]</td>
+5 CONC </tr>
+5 CONT <tr><td>Lydia</td><td>"</td><td>44</td><td>f</td><td>&nbsp;<
+5 CONC /td><td>" "</td><td>[can't r/w]</td></tr>
+5 CONT <tr><td>Lany</td><td>"</td><td>18</td><td>f</td><td>&nbsp;</
+5 CONC td><td>" "</td><td>&nbsp;</td></tr>
+5 CONT <tr><td>Nancy</td><td>"</td><td>13</td><td>f</td><td>&nbsp;<
+5 CONC /td><td>" "</td><td>&nbsp;</td></tr>
+5 CONT <tr><td>Lydia</td><td>"</td><td>3</td><td>f</td><td>&nbsp;</
+5 CONC td><td>" "</td><td>&nbsp;</td></tr>
+5 CONT </table>
 1 CENS
 2 DATE 01 JUN 1830
 2 PLAC Manheim, Herkimer, New York, USA
@@ -6204,6 +7555,17 @@
 4 LONG W74.8057
 2 SOUR @ERq7zwYZRNyrfmXMGzVN@
 3 QUAY 3
+3 DATA
+4 TEXT Town of Manheim<br />
+5 CONT [...]<br />
+5 CONT John Strough<br />
+5 CONT Matthew Strough<br />
+5 CONT [m20-29 Matthew Strough (c30)<br />
+5 CONT f0-4 ? b1826-1830<br />
+5 CONT f20-29 Lydia Adle (c24)<br />
+5 CONT ]<br />
+5 CONT [...]<br />
+5 CONT Baltus Strough
 1 CENS
 2 DATE 01 JUN 1840
 2 PLAC Manheim, Herkimer, New York, USA
@@ -6212,6 +7574,16 @@
 4 LONG W74.8057
 2 SOUR @JgO2XSnQS36bXrtvko5v@
 3 QUAY 3
+3 DATA
+4 TEXT Manheim<br />
+5 CONT [...]<br />
+5 CONT Matthew Strough<br />
+5 CONT [m40-49 Matthew Strough (c40)<br />
+5 CONT f0-4 Nancy Strough (3)<br />
+5 CONT f5-9 Magdalena Strough (8)<br />
+5 CONT f10-14 ? b1826-1830<br />
+5 CONT f30-39 Lydia Adle (34)<br />
+5 CONT ]
 1 CENS
 2 DATE 01 JUN 1850
 2 PLAC Manheim, Herkimer, New York, USA
@@ -6220,6 +7592,23 @@
 4 LONG W74.8057
 2 SOUR @y0rbFeaiRdq4vqT8x9R7@
 3 QUAY 3
+3 DATA
+4 TEXT 27 Aug 1850<br />
+5 CONT dwelling 208<br />
+5 CONT family 211<br />
+5 CONT <table border="1">
+5 CONT <tr><td>Mathew</td><td>Strough</td><td>50</td><td>m</td><td>
+5 CONC " [Labourer]</td><td>" " [New York]</td><td>[can't r/w]</td>
+5 CONC </tr>
+5 CONT <tr><td>Lydia</td><td>"</td><td>44</td><td>f</td><td>&nbsp;<
+5 CONC /td><td>" "</td><td>[can't r/w]</td></tr>
+5 CONT <tr><td>Lany</td><td>"</td><td>18</td><td>f</td><td>&nbsp;</
+5 CONC td><td>" "</td><td>&nbsp;</td></tr>
+5 CONT <tr><td>Nancy</td><td>"</td><td>13</td><td>f</td><td>&nbsp;<
+5 CONC /td><td>" "</td><td>&nbsp;</td></tr>
+5 CONT <tr><td>Lydia</td><td>"</td><td>3</td><td>f</td><td>&nbsp;</
+5 CONC td><td>" "</td><td>&nbsp;</td></tr>
+5 CONT </table>
 1 RESI
 2 DATE 1850
 2 PLAC Manheim, Herkimer, New York, USA
@@ -6407,6 +7796,21 @@
 3 OBJE @oDKXoku6QA2x0riCy3N8@
 3 _APID 7181:1653745448
 2 SOUR @5zeUJhrjRV6hMRdrJYmA@
+3 DATA
+4 TEXT Herkimer<br />
+5 CONT [...]<br />
+5 CONT George Spoon<br />
+5 CONT [m5-9 Norman Spohn (6)<br />
+5 CONT m5-9 Aaron Spohn (8)<br />
+5 CONT m10-14 Abraham Spohn (13)<br />
+5 CONT m15-19 Jeremias Spohn (19)<br />
+5 CONT m40-49 George Spohn (c40)<br />
+5 CONT f0-4 Elizabeth Spohn (3)<br />
+5 CONT f10-14 Mary Ann Spohn (11)<br />
+5 CONT f40-49 Elizabeth Zoller (c40)<br />
+5 CONT f70-79 prob. Catharina Kilts (77)<br />
+5 CONT note: where is William Henry Spohn (20)?<br />
+5 CONT ]
 1 SEX F
 1 FAMC @jJIjDgWNTZe3utIMbKCq@
 1 FAMS @azl5oK56RbaNDNigwzkC@
@@ -6417,6 +7821,21 @@
 3 _APID 7181:1653745448
 2 SOUR @5zeUJhrjRV6hMRdrJYmA@
 3 QUAY 1
+3 DATA
+4 TEXT Herkimer<br />
+5 CONT [...]<br />
+5 CONT George Spoon<br />
+5 CONT [m5-9 Norman Spohn (6)<br />
+5 CONT m5-9 Aaron Spohn (8)<br />
+5 CONT m10-14 Abraham Spohn (13)<br />
+5 CONT m15-19 Jeremias Spohn (19)<br />
+5 CONT m40-49 George Spohn (c40)<br />
+5 CONT f0-4 Elizabeth Spohn (3)<br />
+5 CONT f10-14 Mary Ann Spohn (11)<br />
+5 CONT f40-49 Elizabeth Zoller (c40)<br />
+5 CONT f70-79 prob. Catharina Kilts (77)<br />
+5 CONT note: where is William Henry Spohn (20)?<br />
+5 CONT ]
 1 RESI
 2 DATE 1855
 2 PLAC Smithfield, Madison, New York, USA
@@ -6469,6 +7888,23 @@
 3 _APID 2703:11968779
 2 SOUR @y0rbFeaiRdq4vqT8x9R7@
 3 QUAY 1
+3 DATA
+4 TEXT 27 Aug 1850<br />
+5 CONT dwelling 208<br />
+5 CONT family 211<br />
+5 CONT <table border="1">
+5 CONT <tr><td>Mathew</td><td>Strough</td><td>50</td><td>m</td><td>
+5 CONC " [Labourer]</td><td>" " [New York]</td><td>[can't r/w]</td>
+5 CONC </tr>
+5 CONT <tr><td>Lydia</td><td>"</td><td>44</td><td>f</td><td>&nbsp;<
+5 CONC /td><td>" "</td><td>[can't r/w]</td></tr>
+5 CONT <tr><td>Lany</td><td>"</td><td>18</td><td>f</td><td>&nbsp;</
+5 CONC td><td>" "</td><td>&nbsp;</td></tr>
+5 CONT <tr><td>Nancy</td><td>"</td><td>13</td><td>f</td><td>&nbsp;<
+5 CONC /td><td>" "</td><td>&nbsp;</td></tr>
+5 CONT <tr><td>Lydia</td><td>"</td><td>3</td><td>f</td><td>&nbsp;</
+5 CONC td><td>" "</td><td>&nbsp;</td></tr>
+5 CONT </table>
 2 SOUR @OGXwsRzKTTqSepyc7LXD@
 3 _APID 70572:404954
 1 SEX F
@@ -6518,8 +7954,29 @@
 3 OBJE @eItAgKkVQjGbyFzKF1pn@
 3 _APID 2703:11968779
 2 SOUR @y0rbFeaiRdq4vqT8x9R7@
+3 DATA
+4 TEXT 27 Aug 1850<br />
+5 CONT dwelling 208<br />
+5 CONT family 211<br />
+5 CONT <table border="1">
+5 CONT <tr><td>Mathew</td><td>Strough</td><td>50</td><td>m</td><td>
+5 CONC " [Labourer]</td><td>" " [New York]</td><td>[can't r/w]</td>
+5 CONC </tr>
+5 CONT <tr><td>Lydia</td><td>"</td><td>44</td><td>f</td><td>&nbsp;<
+5 CONC /td><td>" "</td><td>[can't r/w]</td></tr>
+5 CONT <tr><td>Lany</td><td>"</td><td>18</td><td>f</td><td>&nbsp;</
+5 CONC td><td>" "</td><td>&nbsp;</td></tr>
+5 CONT <tr><td>Nancy</td><td>"</td><td>13</td><td>f</td><td>&nbsp;<
+5 CONC /td><td>" "</td><td>&nbsp;</td></tr>
+5 CONT <tr><td>Lydia</td><td>"</td><td>3</td><td>f</td><td>&nbsp;</
+5 CONC td><td>" "</td><td>&nbsp;</td></tr>
+5 CONT </table>
 2 SOUR @QGKTfndrRemFkriG35bw@
 3 QUAY 1
+3 DATA
+4 TEXT Nye<br />
+5 CONT [...]<br />
+5 CONT Candace Apr 1846
 2 SOUR @OGXwsRzKTTqSepyc7LXD@
 3 _APID 70572:404954
 1 RESI
@@ -6733,6 +8190,21 @@
 4 LONG W74.8057
 2 SOUR @5zeUJhrjRV6hMRdrJYmA@
 3 QUAY 1
+3 DATA
+4 TEXT Herkimer<br />
+5 CONT [...]<br />
+5 CONT George Spoon<br />
+5 CONT [m5-9 Norman Spohn (6)<br />
+5 CONT m5-9 Aaron Spohn (8)<br />
+5 CONT m10-14 Abraham Spohn (13)<br />
+5 CONT m15-19 Jeremias Spohn (19)<br />
+5 CONT m40-49 George Spohn (c40)<br />
+5 CONT f0-4 Elizabeth Spohn (3)<br />
+5 CONT f10-14 Mary Ann Spohn (11)<br />
+5 CONT f40-49 Elizabeth Zoller (c40)<br />
+5 CONT f70-79 prob. Catharina Kilts (77)<br />
+5 CONT note: where is William Henry Spohn (20)?<br />
+5 CONT ]
 1 CENS
 2 DATE 01 JUN 1850
 2 PLAC Manheim, Herkimer, New York, USA
@@ -6741,6 +8213,23 @@
 4 LONG W74.8057
 2 SOUR @y0rbFeaiRdq4vqT8x9R7@
 3 QUAY 3
+3 DATA
+4 TEXT 27 Aug 1850<br />
+5 CONT dwelling 208<br />
+5 CONT family 211<br />
+5 CONT <table border="1">
+5 CONT <tr><td>Mathew</td><td>Strough</td><td>50</td><td>m</td><td>
+5 CONC " [Labourer]</td><td>" " [New York]</td><td>[can't r/w]</td>
+5 CONC </tr>
+5 CONT <tr><td>Lydia</td><td>"</td><td>44</td><td>f</td><td>&nbsp;<
+5 CONC /td><td>" "</td><td>[can't r/w]</td></tr>
+5 CONT <tr><td>Lany</td><td>"</td><td>18</td><td>f</td><td>&nbsp;</
+5 CONC td><td>" "</td><td>&nbsp;</td></tr>
+5 CONT <tr><td>Nancy</td><td>"</td><td>13</td><td>f</td><td>&nbsp;<
+5 CONC /td><td>" "</td><td>&nbsp;</td></tr>
+5 CONT <tr><td>Lydia</td><td>"</td><td>3</td><td>f</td><td>&nbsp;</
+5 CONC td><td>" "</td><td>&nbsp;</td></tr>
+5 CONT </table>
 1 RESI
 2 DATE 1850
 2 PLAC Manheim, Herkimer, New York, USA
@@ -6761,6 +8250,25 @@
 4 LONG W75.6768
 2 SOUR @iPcAuJX7SYCyvVvw9uEM@
 3 QUAY 3
+3 DATA
+4 TEXT 11 Aug 1860<br />
+5 CONT [note that dwelling 1026 was unoccupied]<br />
+5 CONT dwelling 1027<br />
+5 CONT family 1026<br />
+5 CONT <table border="1">
+5 CONT <tr><td>Aaron</td><td>Spooner</td><td>28</td><td>m</td><td>D
+5 CONC ay Laborer</td><td>p$100</td><td>New York</td><td>&nbsp;</td
+5 CONC ><td>&nbsp;</td></tr>
+5 CONT <tr><td>Lana</td><td>"</td><td>28</td><td>f</td><td>&nbsp;</
+5 CONC td><td>&nbsp;</td><td>&nbsp;</td><td>D[itt]o</td><td>[canno
+5 CONC t read and write]</td></tr>
+5 CONT <tr><td>Herman E</td><td>"</td><td>4</td><td>m</td><td>&nbsp
+5 CONC ;</td><td>&nbsp;</td><td>&nbsp;</td><td>Do</td><td>[attende
+5 CONC d school within the year]</td></tr>
+5 CONT <tr><td>Lydia E</td><td>"</td><td>1</td><td>f</td><td>&nbsp;
+5 CONC </td><td>&nbsp;</td><td>&nbsp;</td><td>Do</td><td>&nbsp;</td
+5 CONC ></tr>
+5 CONT </table>
 1 RESI
 2 DATE 1860
 2 PLAC Smithfield, Madison, New York, USA
@@ -6789,9 +8297,65 @@
 3 MAP
 4 LATI N42.8497
 4 LONG W75.6122
-2 SOUR @oxokfBzJTdqN32mtJ0tY@
+2 SOUR @S83@
 3 QUAY 3
-2 SOUR @dfwZDtFZTyOI5x6dwE0Q@
+3 DATA
+4 TEXT Page No. 65<br />
+5 CONT SCHEDULE 1.--Inhabitants in Eaton, in the County of Madison
+5 CONC , State of New York, enumerated by me on the 25 day of July
+5 CONC , 1870.<br />
+5 CONT Post Office: Morrisville<br />
+5 CONT [...]<br />
+5 CONT [Dwelling] 532<br />
+5 CONT [Family] 549<br />
+5 CONT <table border="1">
+5 CONT <tr><td>[last</td><td>first</td><td>age</td><td>gend</td><td
+5 CONC >race</td><td>occ</td><td>real</td><td>pers</td><td>birth</t
+5 CONC d><td>at sch]</td></tr>
+5 CONT <tr><td>Spooner</td><td>Aaron</td><td>40</td><td>M</td><td>W
+5 CONC </td><td>Farmer</td><td>1450</td><td>300</td><td>New York</t
+5 CONC d><td>&nbsp;</td></tr>
+5 CONT <tr><td>--</td><td>Laura</td><td>37</td><td>F</td><td>W</td>
+5 CONC <td>Keeping House</td><td>&nbsp;</td><td>&nbsp;</td><td>Ne
+5 CONC w York</td><td>&nbsp;</td></tr>
+5 CONT <tr><td>--</td><td>Herman</td><td>15</td><td>M</td><td>W</td
+5 CONC ><td>Form Labor</td><td>&nbsp;</td><td>&nbsp;</td><td>New Yo
+5 CONC rk</td><td>1</td></tr>
+5 CONT <tr><td>--</td><td>Lydia</td><td>11</td><td>F</td><td>W</td>
+5 CONC <td>At School</td><td>&nbsp;</td><td>&nbsp;</td><td>New York
+5 CONC </td><td>1</td></tr>
+5 CONT <tr><td>--</td><td>Nancy</td><td>8</td><td>F</td><td>W</td><
+5 CONC td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>New York</td
+5 CONC ><td>1</td></tr>
+5 CONT <tr><td>--</td><td>Mary</td><td>7</td><td>F</td><td>W</td><t
+5 CONC d>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>New York</td>
+5 CONC <td>1</td></tr>
+5 CONT <tr><td>--</td><td>Aaron</td><td>1</td><td>M</td><td>W</td><
+5 CONC td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>New York</td
+5 CONC ><td>&nbsp;</td></tr>
+5 CONT <tr><td>Straugh</td><td>Lydia</td><td>66</td><td>F</td><td>W
+5 CONC </td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>New Yo
+5 CONC rk</td><td>&nbsp;</td></tr>
+5 CONT </table>
+2 SOUR @S82@
+3 DATA
+4 TEXT Page No. 68<br />
+5 CONT SCHEDULE I.--Inhabitants in Eaton, in the County of Madison
+5 CONC , State of New York, enumerated by me on the 25 day of July
+5 CONC , 1870.<br />
+5 CONT Post Office: Pratts Hollow<br />
+5 CONT <table border="1">
+5 CONT <tr><td>558</td><td>573</td></tr>
+5 CONT <tr><td>&nbsp;</td><td>&nbsp;</td><td>Slocum</td><td>Peleg</
+5 CONC td><td>67</td><td>M</td><td>W</td><td>Farmer</td><td>3000</t
+5 CONC d><td>675</td><td>Rhode Island</td></tr>
+5 CONT <tr><td>&nbsp;</td><td>&nbsp;</td><td>--</td><td>Olive</td><
+5 CONC td>61</td><td>F</td><td>W</td><td>Keeping House</td><td>&nbs
+5 CONC p;</td><td>&nbsp;</td><td>New York</td></tr>
+5 CONT <tr><td>&nbsp;</td><td>&nbsp;</td><td>--</td><td>Jennette</t
+5 CONC d><td>40</td><td>F</td><td>W</td><td>At Home</td><td>&nbsp;<
+5 CONC /td><td>&nbsp;</td><td>New York</td><td>Blind</td></tr>
+5 CONT </table>
 1 RESI
 2 DATE 1870
 2 PLAC Morrisville, Eaton, Madison, New York, United States
@@ -6819,6 +8383,29 @@
 4 LONG W75.6122
 2 SOUR @SvybU5f8TmGg2t5AX4Fo@
 3 QUAY 3
+3 DATA
+4 TEXT dwelling 354 frame $500<br />
+5 CONT family 383<br />
+5 CONT <table border="1">
+5 CONT <tr><td>Aaron</td><td>Spooner</td><td>45</td><td>m</td><td>-
+5 CONC </td><td>Herkimer</td><td>married</td><td>farmer</td></tr>
+5 CONT <tr><td>Lana</td><td>Spooner</td><td>43</td><td>f</td><td>Wi
+5 CONC fe</td><td>"</td><td>married</td><td>&nbsp;</td></tr>
+5 CONT <tr><td>Herman E.</td><td>Spooner</td><td>19</td><td>m</td><
+5 CONC td>Son</td><td>Madison</td><td>single</td><td>&nbsp;</td></t
+5 CONC r>
+5 CONT <tr><td>Lydia E.</td><td>Spooner</td><td>16</td><td>f</td><t
+5 CONC d>Daughter</td><td>"</td><td>single</td><td>&nbsp;</td></tr>
+5 CONT <tr><td>Nancy E.</td><td>Spooner</td><td>13</td><td>f</td><t
+5 CONC d>Daughter</td><td>"</td><td>single</td><td>&nbsp;</td></tr>
+5 CONT <tr><td>Mary E.</td><td>Spooner</td><td>11</td><td>f</td><td
+5 CONC >Daughter</td><td>"</td><td>single</td><td>&nbsp;</td></tr>
+5 CONT <tr><td>Aaron E.</td><td>Spooner</td><td>6</td><td>m</td><td
+5 CONC >Son</td><td>"</td><td>single</td><td>&nbsp;</td></tr>
+5 CONT <tr><td>Lydia</td><td>Strow</td><td>67</td><td>f</td><td>Wif
+5 CONC e's Mother</td><td>Herkimer</td><td>&nbsp;</td><td>&nbsp;</t
+5 CONC d></tr>
+5 CONT </table>
 1 CENS
 2 DATE 16 FEB 1892
 2 PLAC Eaton, Madison, New York, USA
@@ -6827,6 +8414,21 @@
 4 LONG W75.6122
 2 SOUR @A8yDyed7TICVNJtyv3nw@
 3 QUAY 3
+3 DATA
+4 TEXT <table border="1">
+5 CONT <thead>
+5 CONT <tr><th colspan="2">NAME.</th><th>Male or Female.</th><th>AG
+5 CONC E.</th><th>Color.</th><th>IN WHAT COUNTRY BORN.</th><th>Citz
+5 CONC en or Alien.</th><th>OCCUPATION.</th></tr>
+5 CONT </thead>
+5 CONT <tbody>
+5 CONT <tr><td>Aaron</td><td>Spohner</td><td>m</td><td>60</td><td>&
+5 CONC nbsp;</td><td>&quot; [US]</td><td>c</td><td>&quot; [Farmer]<
+5 CONC /td></tr>
+5 CONT <tr><td>Laney</td><td>Spohner</td><td>f</td><td>62</td><td>&
+5 CONC nbsp;</td><td>US</td><td>c</td><td>Farmer [sic]</td></tr>
+5 CONT </tbody>
+5 CONT </table>
 1 RESI
 2 DATE 1892
 2 PLAC Eaton, Madison, New York, USA
@@ -6845,6 +8447,24 @@
 4 LONG W75.6122
 2 SOUR @4npJjaihQAeOij06FIBH@
 3 QUAY 3
+3 DATA
+4 TEXT dwelling 301<br />
+5 CONT family 303<br />
+5 CONT [all white]<br />
+5 CONT [all b NY, f b NY, m b NY]<br />
+5 CONT <table border="1">
+5 CONT <tr><td>Spohner</td><td>Aaron</td><td>Head</td><td>m</td><td
+5 CONC >Jan 1830</td><td>70</td><td>married 48 yrs.</td><td>Farm La
+5 CONC borer</td><td>&nbsp;</td></tr>
+5 CONT <tr><td>-</td><td>Laney</td><td>Wife</td><td>f</td><td>Oct 1
+5 CONC 830</td><td>[crossed out "70"] 69</td><td>married 48 yrs.
+5 CONC , 5 children, 4 living</td><td>&nbsp;</td><td>&nbsp;</td></t
+5 CONC r>
+5 CONT <tr><td>-</td><td>Clarence</td><td>Grandson</td><td>m</td><t
+5 CONC d>Apr 1894</td><td>6</td><td>single</td><td>&nbsp;</td><td>a
+5 CONC t school</td></tr>
+5 CONT </table>
+5 CONT [note: the Clarance listed is probably Clarence Colvin]
 1 RESI
 2 DATE 1900
 2 PLAC Eaton, Madison, New York, USA
@@ -6864,6 +8484,27 @@
 2 PLAC Turnpike Road, Eaton, Madison, New York, USA
 2 SOUR @pjdwDah0S8ud2aI9VOgW@
 3 QUAY 3
+3 DATA
+4 TEXT <table border="1">
+5 CONT <thead>
+5 CONT <tr><th>RESIDENCE. Street.</th><th>House number.</th><th col
+5 CONC span="2">NAME</th><th>RELATION.</th><th>Color.</th><th>Sex.<
+5 CONC /th><th>Age</th><th>NATIVITY.</th><th>Years in US</th><th>Ci
+5 CONC tizen or alien.</th><th>Occupation.</th><th>Class</th></tr>
+5 CONT </thead>
+5 CONT <tbody>
+5 CONT <tr><td rowspan="3">Turnpike Road</td><td>&nbsp;</td><td>Kem
+5 CONC p</td><td>John W</td><td>Head</td><td>W</td><td>M</td><td>28
+5 CONC </td></td><td>United States<td>&nbsp;</td><td>Cit</td><td>Fa
+5 CONC rmer</td><td>O[wn] A[ccount]</td></tr>
+5 CONT <tr><td>&nbsp;</td><td>&mdash;</td><td>Lena B</td><td>Wife</
+5 CONC td><td>W</td><td>F</td><td>23</td></td><td>&quot; &quot;<td>
+5 CONC &nbsp;</td><td>Cit</td><td>Houseowrk</td><td>X</td></tr>
+5 CONT <tr><td>&nbsp;</td><td>Spooner</td><td>Laney</td><td>G-Mothe
+5 CONC r</td><td>W</td><td>F</td><td>73</td></td><td>&quot; &quot;<
+5 CONC td>&nbsp;</td><td>Cit</td><td>X</td><td>X</td></tr>
+5 CONT </tbody>
+5 CONT </table>
 1 DEAT
 2 DATE 15 FEB 1908
 2 PLAC Eaton, Madison, New York, USA
@@ -6896,6 +8537,23 @@
 3 _APID 8054:11969095
 2 SOUR @y0rbFeaiRdq4vqT8x9R7@
 3 QUAY 2
+3 DATA
+4 TEXT 27 Aug 1850<br />
+5 CONT dwelling 208<br />
+5 CONT family 211<br />
+5 CONT <table border="1">
+5 CONT <tr><td>Mathew</td><td>Strough</td><td>50</td><td>m</td><td>
+5 CONC " [Labourer]</td><td>" " [New York]</td><td>[can't r/w]</td>
+5 CONC </tr>
+5 CONT <tr><td>Lydia</td><td>"</td><td>44</td><td>f</td><td>&nbsp;<
+5 CONC /td><td>" "</td><td>[can't r/w]</td></tr>
+5 CONT <tr><td>Lany</td><td>"</td><td>18</td><td>f</td><td>&nbsp;</
+5 CONC td><td>" "</td><td>&nbsp;</td></tr>
+5 CONT <tr><td>Nancy</td><td>"</td><td>13</td><td>f</td><td>&nbsp;<
+5 CONC /td><td>" "</td><td>&nbsp;</td></tr>
+5 CONT <tr><td>Lydia</td><td>"</td><td>3</td><td>f</td><td>&nbsp;</
+5 CONC td><td>" "</td><td>&nbsp;</td></tr>
+5 CONT </table>
 1 SEX F
 1 FAMC @jJIjDgWNTZe3utIMbKCq@
 1 BIRT
@@ -6911,6 +8569,23 @@
 3 _APID 8054:11969095
 2 SOUR @y0rbFeaiRdq4vqT8x9R7@
 3 QUAY 1
+3 DATA
+4 TEXT 27 Aug 1850<br />
+5 CONT dwelling 208<br />
+5 CONT family 211<br />
+5 CONT <table border="1">
+5 CONT <tr><td>Mathew</td><td>Strough</td><td>50</td><td>m</td><td>
+5 CONC " [Labourer]</td><td>" " [New York]</td><td>[can't r/w]</td>
+5 CONC </tr>
+5 CONT <tr><td>Lydia</td><td>"</td><td>44</td><td>f</td><td>&nbsp;<
+5 CONC /td><td>" "</td><td>[can't r/w]</td></tr>
+5 CONT <tr><td>Lany</td><td>"</td><td>18</td><td>f</td><td>&nbsp;</
+5 CONC td><td>" "</td><td>&nbsp;</td></tr>
+5 CONT <tr><td>Nancy</td><td>"</td><td>13</td><td>f</td><td>&nbsp;<
+5 CONC /td><td>" "</td><td>&nbsp;</td></tr>
+5 CONT <tr><td>Lydia</td><td>"</td><td>3</td><td>f</td><td>&nbsp;</
+5 CONC td><td>" "</td><td>&nbsp;</td></tr>
+5 CONT </table>
 1 RESI
 2 DATE 1850
 2 PLAC Manheim, Herkimer, New York, USA
@@ -6928,11 +8603,41 @@
 1 REFN 8349b31b-43ea-462c-964c-ec80d7fb2c67
 1 NAME unknown /Strough/
 2 SOUR @5zeUJhrjRV6hMRdrJYmA@
+3 DATA
+4 TEXT Herkimer<br />
+5 CONT [...]<br />
+5 CONT George Spoon<br />
+5 CONT [m5-9 Norman Spohn (6)<br />
+5 CONT m5-9 Aaron Spohn (8)<br />
+5 CONT m10-14 Abraham Spohn (13)<br />
+5 CONT m15-19 Jeremias Spohn (19)<br />
+5 CONT m40-49 George Spohn (c40)<br />
+5 CONT f0-4 Elizabeth Spohn (3)<br />
+5 CONT f10-14 Mary Ann Spohn (11)<br />
+5 CONT f40-49 Elizabeth Zoller (c40)<br />
+5 CONT f70-79 prob. Catharina Kilts (77)<br />
+5 CONT note: where is William Henry Spohn (20)?<br />
+5 CONT ]
 1 SEX F
 1 FAMC @jJIjDgWNTZe3utIMbKCq@
 1 BIRT
 2 DATE ABT 1828
 2 SOUR @5zeUJhrjRV6hMRdrJYmA@
+3 DATA
+4 TEXT Herkimer<br />
+5 CONT [...]<br />
+5 CONT George Spoon<br />
+5 CONT [m5-9 Norman Spohn (6)<br />
+5 CONT m5-9 Aaron Spohn (8)<br />
+5 CONT m10-14 Abraham Spohn (13)<br />
+5 CONT m15-19 Jeremias Spohn (19)<br />
+5 CONT m40-49 George Spohn (c40)<br />
+5 CONT f0-4 Elizabeth Spohn (3)<br />
+5 CONT f10-14 Mary Ann Spohn (11)<br />
+5 CONT f40-49 Elizabeth Zoller (c40)<br />
+5 CONT f70-79 prob. Catharina Kilts (77)<br />
+5 CONT note: where is William Henry Spohn (20)?<br />
+5 CONT ]
 1 _GUID b974864b-a7b2-4b1f-8e28-73b40cfe36cc
 1 _XY 4251.00 694.00
 0 @zeOqeqoIRuOC1xkHNEsG@ INDI
@@ -6945,8 +8650,11 @@
 0 @6mGCz7yCSI6Vo8ipGo6y@ INDI
 1 REFN c69eaf2a-36e0-4fb2-9be9-2e9756ed4612
 1 NAME Maria Katharina /Wallrath/
-2 SOUR @Mk1x4uMjRbysDoH9sw0u@
+2 SOUR @S60@
 3 QUAY 1
+3 DATA
+4 TEXT Frontiersman of N.Y. [Frontiersmen of New York] Vol 11 pag
+5 CONC e 342
 1 SEX F
 1 FAMS @lcKEi0jmRfy6SlYGoRpf@
 1 _GUID fbd1bac9-0466-43fe-b73c-def87b62bc27
@@ -7041,6 +8749,41 @@
 3 _APID 8054:11969905
 2 SOUR @OezS9TKgTzyeOYHQtB5E@
 3 QUAY 1
+3 DATA
+4 TEXT SCHEDULE I.--Free Inhabitants in the town of Herkimer in th
+5 CONC e County of Herkimer State of New York enumerated by me, o
+5 CONC n the 6th day of Sept 1850.<br />
+5 CONT [...]<br />
+5 CONT [Dwelling] 18<br />
+5 CONT [Family] 19<br />
+5 CONT <table border="1">
+5 CONT <tr><td>George Spoon</td><td>50</td><td>M</td><td>Farmer</td
+5 CONC ><td>4000</td><td>"[NY]</td><td>&nbsp;</td></tr>
+5 CONT <tr><td>Elizabeth</td><td>50</td><td>F</td><td>&nbsp;</td><t
+5 CONC d>&nbsp;</td><td>"</td><td>&nbsp;</td></tr>
+5 CONT <tr><td>Jeremiah</td><td>29</td><td>M</td><td>"</td><td>&nbs
+5 CONC p;</td><td>"</td><td>&nbsp;</td></tr>
+5 CONT <tr><td>Mary</td><td>21["1" appears to be written over "2"]<
+5 CONC /td><td>F</td><td>&nbsp;</td><td>&nbsp;</td><td>"</td><td>[a
+5 CONC ttended school]</td></tr>
+5 CONT <tr><td>Aaron</td><td>19</td><td>M</td><td>"</td><td>&nbsp;<
+5 CONC /td><td>"</td><td>[attended school]</td></tr>
+5 CONT <tr><td>Norman</td><td>16</td><td>M</td><td>"</td><td>&nbsp;
+5 CONC </td><td>"</td><td>[attended school]</td></tr>
+5 CONT <tr><td>Elizabeth</td><td>13</td><td>F</td><td>&nbsp;</td><t
+5 CONC d>&nbsp;</td><td>"</td><td>[attended school]</td></tr>
+5 CONT <tr><td>George</td><td>10</td><td>M</td><td>&nbsp;</td><td>&
+5 CONC nbsp;</td><td>"</td><td>[attended school]</td></tr>
+5 CONT <tr><td>Sally</td><td>7</td><td>F</td><td>&nbsp;</td><td>&nb
+5 CONC sp;</td><td>"</td><td>&nbsp;</td></tr>
+5 CONT <tr><td>Susan</td><td>20</td><td>F</td><td>&nbsp;</td><td>&n
+5 CONC bsp;</td><td>"</td><td>&nbsp;</td></tr>
+5 CONT <tr><td>Elizabeth Zuller</td><td>65</td><td>F</td><td>&nbsp;
+5 CONC </td><td>&nbsp;</td><td>"</td><td>&nbsp;</td></tr>
+5 CONT </table>
+5 CONT [for Elizabeth Zuller there appears to be a 1 in the colum
+5 CONC n stating she was married within the year, but that doesn'
+5 CONC t seem to make sense.]
 1 CENS
 2 DATE 01 JUN 1830
 2 PLAC Herkimer, Herkimer, New York, USA
@@ -7049,6 +8792,17 @@
 4 LONG W74.986
 2 SOUR @iQrOkn70R961iNiT9apw@
 3 QUAY 1
+3 DATA
+4 TEXT Town of Herkimer<br />
+5 CONT George Spoon<br />
+5 CONT [m0-4 Abraham Spohn (4)<br />
+5 CONT m5-9 Jeremias Spohn (9)<br />
+5 CONT m10-14 William Henry Spohn (11)<br />
+5 CONT m20-29 brother of Georgius?<br />
+5 CONT m30-39 Georgius Nicholas Spohn (30)<br />
+5 CONT f0-4 Mary Ann Spohn (1)<br />
+5 CONT f30-39 Elizabeth Zoller (30)<br />
+5 CONT ]
 1 CENS
 2 DATE 01 JUN 1840
 2 PLAC Herkimer, Herkimer, New York, USA
@@ -7057,6 +8811,21 @@
 4 LONG W74.986
 2 SOUR @5zeUJhrjRV6hMRdrJYmA@
 3 QUAY 1
+3 DATA
+4 TEXT Herkimer<br />
+5 CONT [...]<br />
+5 CONT George Spoon<br />
+5 CONT [m5-9 Norman Spohn (6)<br />
+5 CONT m5-9 Aaron Spohn (8)<br />
+5 CONT m10-14 Abraham Spohn (13)<br />
+5 CONT m15-19 Jeremias Spohn (19)<br />
+5 CONT m40-49 George Spohn (c40)<br />
+5 CONT f0-4 Elizabeth Spohn (3)<br />
+5 CONT f10-14 Mary Ann Spohn (11)<br />
+5 CONT f40-49 Elizabeth Zoller (c40)<br />
+5 CONT f70-79 prob. Catharina Kilts (77)<br />
+5 CONT note: where is William Henry Spohn (20)?<br />
+5 CONT ]
 1 CENS
 2 DATE 01 JUN 1850
 2 PLAC Herkimer, Herkimer, New York, USA
@@ -7065,6 +8834,41 @@
 4 LONG W74.986
 2 SOUR @OezS9TKgTzyeOYHQtB5E@
 3 QUAY 3
+3 DATA
+4 TEXT SCHEDULE I.--Free Inhabitants in the town of Herkimer in th
+5 CONC e County of Herkimer State of New York enumerated by me, o
+5 CONC n the 6th day of Sept 1850.<br />
+5 CONT [...]<br />
+5 CONT [Dwelling] 18<br />
+5 CONT [Family] 19<br />
+5 CONT <table border="1">
+5 CONT <tr><td>George Spoon</td><td>50</td><td>M</td><td>Farmer</td
+5 CONC ><td>4000</td><td>"[NY]</td><td>&nbsp;</td></tr>
+5 CONT <tr><td>Elizabeth</td><td>50</td><td>F</td><td>&nbsp;</td><t
+5 CONC d>&nbsp;</td><td>"</td><td>&nbsp;</td></tr>
+5 CONT <tr><td>Jeremiah</td><td>29</td><td>M</td><td>"</td><td>&nbs
+5 CONC p;</td><td>"</td><td>&nbsp;</td></tr>
+5 CONT <tr><td>Mary</td><td>21["1" appears to be written over "2"]<
+5 CONC /td><td>F</td><td>&nbsp;</td><td>&nbsp;</td><td>"</td><td>[a
+5 CONC ttended school]</td></tr>
+5 CONT <tr><td>Aaron</td><td>19</td><td>M</td><td>"</td><td>&nbsp;<
+5 CONC /td><td>"</td><td>[attended school]</td></tr>
+5 CONT <tr><td>Norman</td><td>16</td><td>M</td><td>"</td><td>&nbsp;
+5 CONC </td><td>"</td><td>[attended school]</td></tr>
+5 CONT <tr><td>Elizabeth</td><td>13</td><td>F</td><td>&nbsp;</td><t
+5 CONC d>&nbsp;</td><td>"</td><td>[attended school]</td></tr>
+5 CONT <tr><td>George</td><td>10</td><td>M</td><td>&nbsp;</td><td>&
+5 CONC nbsp;</td><td>"</td><td>[attended school]</td></tr>
+5 CONT <tr><td>Sally</td><td>7</td><td>F</td><td>&nbsp;</td><td>&nb
+5 CONC sp;</td><td>"</td><td>&nbsp;</td></tr>
+5 CONT <tr><td>Susan</td><td>20</td><td>F</td><td>&nbsp;</td><td>&n
+5 CONC bsp;</td><td>"</td><td>&nbsp;</td></tr>
+5 CONT <tr><td>Elizabeth Zuller</td><td>65</td><td>F</td><td>&nbsp;
+5 CONC </td><td>&nbsp;</td><td>"</td><td>&nbsp;</td></tr>
+5 CONT </table>
+5 CONT [for Elizabeth Zuller there appears to be a 1 in the colum
+5 CONC n stating she was married within the year, but that doesn'
+5 CONC t seem to make sense.]
 1 RESI
 2 DATE 1850
 2 PLAC Herkimer, Herkimer, New York, USA
@@ -7084,6 +8888,43 @@
 4 LONG W74.986
 2 SOUR @5XXAeSVaQ4uit4NRcsSs@
 3 QUAY 3
+3 DATA
+4 TEXT Page No. 66<br />
+5 CONT SCHEDULE 1.--Free Inhabitants in Herkimer in the County of H
+5 CONC erkimer State of New York enumerated by me, on the 2nd day o
+5 CONC f July 1860.<br />
+5 CONT [...]<br />
+5 CONT [Dwelling] 471<br />
+5 CONT [Family] 481<br />
+5 CONT <table border="1">
+5 CONT <tr><td>Jeremiah Sphon</td><td>35</td><td>M</td><td>Farmer</
+5 CONC td><td>9.000</td><td>1.000</td><td>New York</td><td>&nbsp;</
+5 CONC td></tr>
+5 CONT <tr><td>Margaret</td><td>6</td><td>F</td><td>&nbsp;</td><td>
+5 CONC &nbsp;</td><td>&nbsp;</td><td>New York</td><td>[attended sch
+5 CONC ool]</td></tr>
+5 CONT <tr><td>Charles</td><td>2</td><td>M</td><td>&nbsp;</td><td>&
+5 CONC nbsp;</td><td>&nbsp;</td><td>New York</td><td>&nbsp;</td></t
+5 CONC r>
+5 CONT <tr><td>Elizabeth Sphon</td><td>63</td><td>F</td><td>&nbsp;<
+5 CONC /td><td>&nbsp;</td><td>&nbsp;</td><td>New York</td><td>&nbsp
+5 CONC ;</td></tr>
+5 CONT <tr><td>Sally Ann</td><td>16</td><td>F</td><td>&nbsp;</td><t
+5 CONC d>&nbsp;</td><td>&nbsp;</td><td>New York</td><td>&nbsp;</td>
+5 CONC </tr>
+5 CONT <tr><td>George P. Sphon</td><td>19</td><td>M</td><td>Farm Ha
+5 CONC nd</td><td>&nbsp;</td><td>&nbsp;</td><td>New York</td><td>&n
+5 CONC bsp;</td></tr>
+5 CONT <tr><td>Caroline</td><td>18</td><td>F</td><td>&nbsp;</td><td
+5 CONC >&nbsp;</td><td>&nbsp;</td><td>New York</td><td>&nbsp;</td><
+5 CONC /tr>
+5 CONT <tr><td>Catharine M</td><td>1/12</td><td>F</td><td>&nbsp;</t
+5 CONC d><td>&nbsp;</td><td>&nbsp;</td><td>New York</td><td>&nbsp;<
+5 CONC /td></tr>
+5 CONT <tr><td>Frederick Faby</td><td>17</td><td>M</td><td>Farm Han
+5 CONC d</td><td>&nbsp;</td><td>&nbsp;</td><td>Germany</td><td>&nbs
+5 CONC p;</td></tr>
+5 CONT </table>
 1 DEAT
 2 DATE AFT 1860
 2 PLAC Little Falls, Herkimer, New York, USA
@@ -7268,6 +9109,9 @@
 4 LONG W75.6481
 2 SOUR @56Zv69AVTW262SuwI65R@
 3 QUAY 2
+3 DATA
+4 TEXT In Lebanon, July 3 by Rev. S. M. Dodge, William G. Colvin t
+5 CONC o Miss Nancy E. Spooner, both of Eaton
 2 NOTE by Reverend S. M. Dodge (from family interviews)
 0 @Ps8Rgc0bQA6EQsQl9cxJ@ FAM
 1 REFN 3234e9b2-4b19-4e5a-b1d1-11685570be2b
@@ -7360,9 +9204,12 @@
 2 _MREL Natural
 1 MARR
 2 DATE 1773
-2 SOUR @iKPMekUtTomLMyDxS2qu@
+2 SOUR @S59@
 3 QUAY 1
-2 SOUR @Mk1x4uMjRbysDoH9sw0u@
+2 SOUR @S60@
+3 DATA
+4 TEXT Frontiersman of N.Y. [Frontiersmen of New York] Vol 11 pag
+5 CONC e 342
 0 @PjLUffVzSayMWdNoNGrX@ FAM
 1 REFN 7475709d-8069-4b63-94ed-50eec3003f1a
 1 HUSB @D6M0ryjGTYS741XsG3Rp@
@@ -7600,8 +9447,11 @@
 2 DATE 13 JUL 1746
 2 PLAC High Low Dutch Reformed Church, Schoharie, Schoharie, New Yo
 3 CONC rk, USA
-2 SOUR @Mk1x4uMjRbysDoH9sw0u@
+2 SOUR @S60@
 3 QUAY 1
+3 DATA
+4 TEXT Frontiersman of N.Y. [Frontiersmen of New York] Vol 11 pag
+5 CONC e 342
 0 @noRwHg7rRUaaAPaSrO6v@ FAM
 1 REFN 1a16c50f-83cb-4743-b0c4-865694459d56
 1 HUSB @bFHC88rDQQWj17pxWsTq@
@@ -7629,8 +9479,11 @@
 2 _MREL Natural
 1 MARR
 2 DATE 09 AUG 1756
-2 SOUR @Mk1x4uMjRbysDoH9sw0u@
+2 SOUR @S60@
 3 QUAY 1
+3 DATA
+4 TEXT Frontiersman of N.Y. [Frontiersmen of New York] Vol 11 pag
+5 CONC e 342
 0 @lcKEi0jmRfy6SlYGoRpf@ FAM
 1 REFN 6a6e00f8-a468-4ec9-b640-a8648f3ba585
 1 HUSB @bFHC88rDQQWj17pxWsTq@
@@ -7673,6 +9526,24 @@
 3 _APID 7602:55835081
 2 SOUR @4npJjaihQAeOij06FIBH@
 3 QUAY 2
+3 DATA
+4 TEXT dwelling 301<br />
+5 CONT family 303<br />
+5 CONT [all white]<br />
+5 CONT [all b NY, f b NY, m b NY]<br />
+5 CONT <table border="1">
+5 CONT <tr><td>Spohner</td><td>Aaron</td><td>Head</td><td>m</td><td
+5 CONC >Jan 1830</td><td>70</td><td>married 48 yrs.</td><td>Farm La
+5 CONC borer</td><td>&nbsp;</td></tr>
+5 CONT <tr><td>-</td><td>Laney</td><td>Wife</td><td>f</td><td>Oct 1
+5 CONC 830</td><td>[crossed out "70"] 69</td><td>married 48 yrs.
+5 CONC , 5 children, 4 living</td><td>&nbsp;</td><td>&nbsp;</td></t
+5 CONC r>
+5 CONT <tr><td>-</td><td>Clarence</td><td>Grandson</td><td>m</td><t
+5 CONC d>Apr 1894</td><td>6</td><td>single</td><td>&nbsp;</td><td>a
+5 CONC t school</td></tr>
+5 CONT </table>
+5 CONT [note: the Clarance listed is probably Clarence Colvin]
 0 @apzmHapNRDiyYHvyYt6E@ FAM
 1 REFN 5e20b253-62b5-428c-8778-6720ea50ab1f
 1 HUSB @dwwggwvtSbGnvtz51rz4@
@@ -8022,7 +9893,6 @@
 1 EMAIL
 1 PHON
 0 @Z79K3buPRe6LAzUDsM5q@ SOUR
-1 REFN d3b79b0d-e472-4df1-8602-b376d4551eac
 1 REPO @sM46ZEGAS5awEGlV488U@
 1 TITL 1850 United States Federal Census
 1 AUTH Ancestry.com
@@ -8030,7 +9900,6 @@
 2 CONC e: 2009
 1 _APID 8054
 0 @IVggXpCmTBqN985K2DYG@ SOUR
-1 REFN 7d0a13ab-cb14-471c-8695-81a7d6772e81
 1 REPO @sM46ZEGAS5awEGlV488U@
 1 TITL 1860 United States Federal Census
 1 AUTH Ancestry.com
@@ -8038,7 +9907,6 @@
 2 CONC e: 2009
 1 _APID 7667
 0 @xnvxS4D3TOyu7JDskm0I@ SOUR
-1 REFN 1620f80a-6d52-46e4-81d4-32cf945119d1
 1 REPO @sM46ZEGAS5awEGlV488U@
 1 TITL 1870 United States Federal Census
 1 AUTH Ancestry.com
@@ -8046,7 +9914,6 @@
 2 CONC e: 2009
 1 _APID 7163
 0 @9V8mEkRSRCWqb4eI815t@ SOUR
-1 REFN 70b1f776-da3e-47ba-870a-dcb2f9cc99f3
 1 REPO @sM46ZEGAS5awEGlV488U@
 1 TITL 1880 United States Federal Census
 1 AUTH Ancestry.com and The Church of Jesus Christ of Latter-day Sa
@@ -8055,7 +9922,6 @@
 2 CONC : 2010
 1 _APID 6742
 0 @ERoUdrSPSLiUzXwhStdK@ SOUR
-1 REFN cf83a02f-fa30-40b2-bd2c-3aa4be6340e1
 1 REPO @sM46ZEGAS5awEGlV488U@
 1 TITL 1900 United States Federal Census
 1 AUTH Ancestry.com
@@ -8063,7 +9929,6 @@
 2 CONC : 2004
 1 _APID 7602
 0 @eZFJdtHKQ1WR2G9um2PE@ SOUR
-1 REFN 5a967872-658e-4d5d-a20a-48dbdeaf3025
 1 REPO @sM46ZEGAS5awEGlV488U@
 1 TITL 1910 United States Federal Census
 1 AUTH Ancestry.com
@@ -8071,22 +9936,12 @@
 2 CONC : 2006
 1 _APID 7884
 0 @37FiEnd6Qgal7ljuRtp7@ SOUR
-1 REFN ec1168bc-6982-4ff2-bd2c-1b28c72bca45
 1 REPO @hxiM8gDvS7OY9nFUZjnh@
 1 TITL 1920 United States Federal Census
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2010
-1 TEXT Fourteenth Census of the United States, 1920. (NARA microfil
-2 CONC m publication T625, 2076 rolls). Records of the Bureau of th
-2 CONC e Census, Record Group 29. National Archives, Washington, D.
-2 CONC C. For details on the contents of the film numbers, visit th
-2 CONC e following NARA web page: <a href="http://www.archives.gov/
-2 CONC publications/microfilm-catalogs/census/1920/part-07.html" ta
-2 CONC rget="_blank">NARA</a>. Note: Enumeration Districts 819-83
-2 CONC 9 are on roll 323 (Chicago City).
 0 @eA0he6iOQwK7h8LnDTRK@ SOUR
-1 REFN 0272824d-4fef-411c-ae34-26d97d9c8ecf
 1 REPO @sM46ZEGAS5awEGlV488U@
 1 TITL 1930 United States Federal Census
 1 AUTH Ancestry.com
@@ -8094,156 +9949,83 @@
 2 CONC : 2002
 1 _APID 6224
 0 @WJThGg91QeeEjdHx6ACi@ SOUR
-1 REFN 9be9804e-4938-4376-89e5-288842a07ec1
 1 REPO @hxiM8gDvS7OY9nFUZjnh@
 1 TITL 1940 United States Federal Census
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2012
-1 TEXT United States of America, Bureau of the Census. <i>Sixteent
-2 CONC h Census of the United States, 1940</i>. Washington, D.C.: N
-2 CONC ational Archives and Records Administration, 1940. T627, 4,6
-2 CONC 43 rolls.
-0 @AiRSpGQ5SdCsu458Yo2g@ SOUR
-1 REFN 6374e254-416f-4cd7-ab60-0015588c1171
-1 REPO @sM46ZEGAS5awEGlV488U@
-1 TITL 1940 United States Federal Census, OLD
-1 AUTH Ancestry.com
-1 PUBL Online publication - Provo, UT, USA: Ancestry.com Operations
-2 CONC , Inc., 2012.Original data - United States of America, Burea
-2 CONC u of the Census. Sixteenth Census of the United States, 1940
-2 CONC . Washington, D.C.: National Archives and Records Administra
-2 CONC tion, 1940. T627
-1 _APID 2442
 0 @W2oqrAOXRri4oGwNj48q@ SOUR
-1 REFN ccdbe742-0cbc-4434-be73-6be0243002f6
 1 TITL Altas of Madison County [scanned image of part]
 1 AUTH Beers, D. G.
 1 PUBL http://www.borg.com/~mcholli/graphics/1868eatn.jpg
-1 TEXT "A Spohner DIST. N<sup>o</sup>.4" (just west of Morrisville)
 0 @Tui45AQRSuKsA2YgMN68@ SOUR
-1 REFN ef3f3020-2a43-4890-acb6-a0a5356d13e5
 1 TITL Ancestors of Frank & Sharon Stees
 1 AUTH Stees, Sharon
 1 PUBL http://www.gencircles.com/users/stees/1
 0 @bUxrfzO4Rn2nVjB4LwnS@ SOUR
-1 REFN cccffb58-160b-4859-9d73-5d42133dc766
 1 TITL Ancestral File
 1 AUTH LDS
 1 PUBL http://www.familysearch.org/
 0 @gZWgWoNPTcyB004alViM@ SOUR
-1 REFN c46fae46-e655-445e-9bf6-eb3032aa3711
 1 REPO @sM46ZEGAS5awEGlV488U@
 1 TITL Ancestry Family Trees
-1 PUBL Online publication - Provo, UT, USA: Ancestry.com.  Origina
-2 CONC l data:  Family Tree files submitted by Ancestry members.
-1 TEXT This information comes from 1 or more individual Ancestry Fa
-2 CONC mily Tree files. This source citation points you to a curren
-2 CONC t version of those files.
-2 CONT Note:
-2 CONT The owners of these tree files may have removed or changed i
-2 CONC nformation since this source citation was created.
+1 PUBL Ancestry.com; Location: Provo, UT, USA
+1 NOTE Original data:  Family Tree files submitted by Ancestry memb
+2 CONC ers.
 0 @KCVzpAutTVqvgDccbrma@ SOUR
-1 REFN e8e61775-0dbe-42de-bc0a-464f8f81ec73
 1 TITL Baptismal Records of the Old Yellow Church
 1 AUTH Ingalls, Douglas J.
 1 PUBL http://herkimer.nygenweb.net/manheim/yelbap1.html
 0 @ioLutjcVS4eR7plvM9Jd@ SOUR
-1 REFN d611aaa4-bcaa-476b-9863-89f18b41b3ce
 1 TITL Baptisms at St. Paul's Lutheran Church, West Camp, Ulster Co
 2 CONC unty, New York
 1 AUTH [unknown]
 1 PUBL http://www.geocities.com/Heartland/Acres/5934/contents2.htm
 0 @FMQ5JTKQQWKSGBjw3XlD@ SOUR
-1 REFN a271858b-0803-461a-8710-6778c4bb9c16
 1 TITL Bryson to Adam
 1 AUTH Bryson, Jack Leroy
 1 PUBL Ancestry World Tree at Ancestry.com
 0 @B5QkGkrBTUOyCmWXT7jn@ SOUR
-1 REFN c59327ec-8906-4dcb-a33b-378a54de7841
 1 TITL Cemetery Inscriptions of Madison County, New York
 1 AUTH Scott, J.C., and Meyer, M. K.
 1 PUBL Onondaga County Public Library, Syracuse, NY, USA
 0 @FT9WrMKwTSqj2hjutf4y@ SOUR
-1 REFN 81ccc034-440f-4183-8671-875a4a58c9ed
 1 TITL Coffman and Crowder
 1 AUTH Coffman, Ruth
 1 PUBL Ancestry World Tree at Ancestry,com
 0 @56Zv69AVTW262SuwI65R@ SOUR
-1 REFN dad57f8d-683b-4177-abc3-76f9b0f2924b
 1 TITL Democratic Republican (Madison Co., NY) [newspaper]
 1 PUBL 1879
-1 TEXT In Lebanon, July 3 by Rev. S. M. Dodge, William G. Colvin t
-2 CONC o Miss Nancy E. Spooner, both of Eaton
 0 @qoy40CNvRKyU8tvzmQEO@ SOUR
-1 REFN d236258f-c433-422f-b0c1-86eaf9851726
 1 TITL Descendants of Johann Conrad Kilts, The
 1 AUTH Witthoft, Herman W.
 1 PUBL http://threerivershms.com/TOCkilts.htm
-1 TEXT The KILTS site is based on the Kilts publication by Herman W
-2 CONC . Witthoft, Sr.<br />
+1 NOTE The KILTS site is based on the Kilts publication by Herman W
+2 CONC . Witthoft, Sr.
 0 @f5SRkyt0SGm3UnfBxwl3@ SOUR
-1 REFN 8852a2c1-c33d-41ad-bc89-8c408da5b5ed
 1 TITL Descendants of Johann Georg Adle
 1 AUTH Nolan, Brent
-1 PUBL In possession of Chris Mosher, 2002
+1 PUBL In possession of Chris Mosher; Date: 2002
 0 @kLKyFZUcQJWOwgC0wZ8w@ SOUR
-1 REFN 281e7f84-bd1c-4112-b925-4306385c45c1
 1 TITL Descendants of Johannes Straup
 1 AUTH Nolan, Brent
-1 PUBL In possession of Chris Mosher, 2002
+1 PUBL In possession of Chris Mosher; Date: 2002
 0 @kVxCF1h5T3KyZceps1zF@ SOUR
-1 REFN bb3b971c-f1d3-4fbf-8f86-73f4bb601a3a
 1 TITL Descendants of Mary Eleanor Spohner
 1 AUTH Nolan, Brent
 1 PUBL In possession of Chris Mosher.
 0 @BQVqXY1rTNKQYtSMpfbd@ SOUR
-1 REFN a1e50676-9b6a-4db4-8576-018e50427f17
 1 TITL E-mail to Chris Mosher, Spohn(er)
 1 AUTH Nolan, Brent
-1 PUBL 26 May 2002
+1 PUBL Date: 26 May 2002;
 0 @F04MkaLOQMWi3LDxBPbf@ SOUR
 1 TITL Eaton, 1868, Northern Portion of Town of Eaton [NY]
 1 PUBL http://www.borg.com/~mcholli/graphics/1868eatn.jpg
 0 @BjB1o1swQASuhlr4tZpD@ SOUR
-1 REFN cf85cd12-576c-4736-b2d3-d4b45f86c449
 1 TITL Eychner Genealogy
 1 AUTH Finn, David H.
 1 PUBL http://members.aol.com/marcusf804/eych1.html
-1 TEXT THE SPOON FAMILY<br />
-2 CONT <br />
-2 CONT This name is also spelled Spohn and Spochn. The first recor
-2 CONC d is Hendrick Spoon who received lot# 32, North side of Moha
-2 CONC wk, Burnetsfield Patent. In 1725; his son Hendrick Spoon, Jr
-2 CONC . received lot # 7 . The later was one of eighteen named i
-2 CONC n Staley's Patent, in 1755. *<br />
-2 CONT <br />
-2 CONT Hendrick Spoon was the father of:<br />
-2 CONT <br />
-2 CONT 1- Hannah, who married Conrad Eychner<br />
-2 CONT 2- Susan, who was scalped by the Indians but lived.<br />
-2 CONT 3- John served in the New York Militia.......<br />
-2 CONT 4- Nicholas, who served in the New York Militia.......<br />
-2 CONT <br />
-2 CONT Their Mother was said to have been Swede, and that her nam
-2 CONC e was Hannah. The writer well remembers when a small girl o
-2 CONC f hearing her parents speak of Susan, who was scalped by th
-2 CONC e Indians.<br />
-2 CONT <br />
-2 CONT Conrad and Hannah Spoon Eychner were the parents of Benjami
-2 CONC n Eychner and great grand parents of the Eychner family. <b
-2 CONC r />
-2 CONT <br />
-2 CONT *This information has recently been verified in a Book Calle
-2 CONC d History of the Mohawk Valley Gateway to the West 1614 - 19
-2 CONC 25 covering Six Counties of Schenectady, Schoharie, Montgome
-2 CONC ry, Fulton, Herkimer and Oneida. Found In Volume #1 page 506
-2 CONC . Edited by Nelson Greene Copyright 1925 by The S. J. Clark
-2 CONC e Publishing Company. The Information in this book is liste
-2 CONC d as follows: Hendrick Spoon Lot No. 32, 100 acres, South. H
-2 CONC endrick Spoon Jr., Lot No. 7, 100 acres North.<br />
 0 @5KOa4unRSR20jVy2K9Gs@ SOUR
-1 REFN 17037752-dfa6-41a0-8b50-4c956ee722b0
 1 REPO @sM46ZEGAS5awEGlV488U@
 1 TITL Global, Find A Grave Index for Burials at Sea and other Sele
 2 CONC ct Burial Locations, 1300s-Current
@@ -8252,93 +10034,51 @@
 2 CONC e: 2012
 1 _APID 60541
 0 @lRXHBsTAT52nQGLIao0P@ SOUR
-1 REFN f3fac917-e839-49ed-92d6-87e665ef0cc0
 1 TITL Gravestone, Adle, Lydia
 1 PUBL Morrisville Cemetery, Morrisville, NY
-1 TEXT <center>
-2 CONT LYDIA<br />
-2 CONT WIFE OF<br />
-2 CONT MATHEW STROUGH<br />
-2 CONT 1806-1889<br />
-2 CONT </center>
 0 @dzQtshGpQTOpxGHs4ER4@ SOUR
-1 REFN 710c2854-2b72-439e-afbc-86d26987be9a
 1 TITL Hanes/Gilbert Family
 1 AUTH Hanes, Don
 1 PUBL http://www.gencircles.com/users/hanesgen/1
 0 @rDBLjZdmSXOiGFdtABLo@ SOUR
-1 REFN e89c419b-a5cd-4da5-9a9b-388954750fd3
 1 TITL History of Schoharie County, New York [Transcript]
 1 AUTH Roscoe, William E.
 1 PUBL http://www.rootsweb.com/~nyschoha/chap14.html
-1 TEXT [transcribed at Schoharie County, New York, Rootsweb site]
+1 NOTE transcribed at Schoharie County, New York, Rootsweb site.
 0 @U22d43bfR4i266jKFHG2@ SOUR
-1 REFN 70333235-447a-4ea5-8fcf-319100ada376
 1 TITL History of the Old Fort Herkimer Church
 1 AUTH Fort Klock Historic Restoration
 1 PUBL http://www.fortklock.com/oldfortherkimer4.htm
 0 @zEVjaiBvQyyfQImBXeHA@ SOUR
-1 REFN 61610d14-884c-456d-843d-a0a83612f39d
 1 TITL International Genealogical Index (IGI)
 1 AUTH LDS
 1 PUBL http://www.familysearch.org/
 0 @rxfni07VRLWpJ86MYxY3@ SOUR
-1 REFN 23c36126-80c8-40c4-b3af-4c088cefa73a
 1 TITL JSHA Registry of German Auxiliary Troops who remained in Nor
 2 CONC th America after the Revolutionary War
 1 AUTH Johannes Schwalm Historical Association, Inc.
 1 PUBL http://pages.prodigy.net/halschwalm/jshahome.html
-1 TEXT <table border="1">
-2 CONT <tr><th>Name</th><th>Army and German Town of origin</th><th>
-2 CONC Military rank or rating</th><th>Military unit</th><th>Sourc
-2 CONC e of military record</th><th>Personal information and sourc
-2 CONC e for additional information, if any</th></tr>
-2 CONT <tr><td>Strauch, Balthasar</td><td>Hesse-Cassel; Eschwege</t
-2 CONC d><td>Private</td><td>Erb Prinz Reg.. Co. 4</td><td>HETRIN
-2 CONC A Vol III</td><td>Deserted on 20 Sept. 1782 and joined the A
-2 CONC merican forces; Straight-line genealogy established.</td></t
-2 CONC r>
-2 CONT </table>
 0 @Kt7XY60BQbiuutf7dN0N@ SOUR
-1 REFN bafd6377-9cd9-4377-bc51-6e5cf40b0175
 1 TITL Klock Genealogy
 1 AUTH Williams, Helen Clock
 1 PUBL http://www.fortklock.com/Klock.htm
 0 @HGET1vZKTxebsYXILKNL@ SOUR
-1 REFN e4976213-f1c5-4ae1-9579-ee64fa49add6
 1 TITL Lyons-Richer Genealogy, DB 2950685
 1 AUTH Lyons, Richard
 1 PUBL Ancestry World Tree, ancestry.com
 0 @tZW1bdykRNCewbsGuOxL@ SOUR
-1 REFN c05f3dcb-4ec5-46ca-acec-3bc82af9410f
 1 TITL Maple Grove Cemetery Listings
 1 AUTH Arnold, B.
 1 PUBL findagrave.com
-1 TEXT Birth:
-2 CONT 1855
-2 CONT Death:
-2 CONT 1919
-2 CONT Burial:
-2 CONT Maple Grove Cemetery
-2 CONT Jordan
-2 CONT Onondaga County
-2 CONT New York, USA
-2 CONT Plot: SECTION B, LOT 46: SPINNING/(SPOHNER)
-2 CONT Created by: BArnold
-2 CONT Record added: Mar 01, 2011
-2 CONT Find A Grave Memorial# 66320125
 0 @OPitzGRMTg6mmmCH0T7Q@ SOUR
-1 REFN dcc719e6-34a7-4891-abce-7927de35ce31
 1 TITL Message Posted on Seeber Genforum
 1 AUTH Green, Nancy Seeber
-1 PUBL April 08, 2001, genforum.genealogy.com
+1 PUBL genealogy.com; Date: 08 Apr 2001
 0 @YoM01cYsQkeMZFrifJFd@ SOUR
-1 REFN 28343cdd-6363-4fb5-9a04-c3bab29dc69a
 1 TITL Moon Genealogy Web Site
 1 AUTH Moon, William J.
 1 PUBL http://www.moongenealogy.com/
 0 @pjugFyo8TUe6TRnMaSMD@ SOUR
-1 REFN 4d51b632-fe5f-44d7-807b-4417da3e154a
 1 REPO @sM46ZEGAS5awEGlV488U@
 1 TITL New York, Compiled Census and Census Substitutes Index, 1790
 2 CONC -1890
@@ -8347,7 +10087,6 @@
 2 CONC : 1999
 1 _APID 3564
 0 @2W94QGKUSTqP106mPtAK@ SOUR
-1 REFN e16b27c8-0921-4997-b0a8-0b6ff23ebd88
 1 REPO @sM46ZEGAS5awEGlV488U@
 1 TITL New York, State Census, 1855
 1 AUTH Ancestry.com
@@ -8355,7 +10094,6 @@
 2 CONC e: 2013
 1 _APID 7181
 0 @H1L9lVzsRt2Db3Qa4H4q@ SOUR
-1 REFN 3721d96a-9434-4858-a103-c7c8eec3b695
 1 REPO @sM46ZEGAS5awEGlV488U@
 1 TITL New York, State Census, 1865
 1 AUTH Ancestry.com
@@ -8363,7 +10101,6 @@
 2 CONC e: 2014
 1 _APID 7218
 0 @clmDgO4bRNC7cDVTrL6o@ SOUR
-1 REFN 689c7013-af38-426c-a8bf-f3fc1ec6e6e2
 1 REPO @sM46ZEGAS5awEGlV488U@
 1 TITL New York, State Census, 1875
 1 AUTH Ancestry.com
@@ -8371,7 +10108,6 @@
 2 CONC e: 2013
 1 _APID 7250
 0 @ok0NXuD0QHa680WzKPDl@ SOUR
-1 REFN c0ef60a6-5ed8-4d17-b5ae-1ddb414425d6
 1 REPO @sM46ZEGAS5awEGlV488U@
 1 TITL New York, State Census, 1892
 1 AUTH Ancestry.com
@@ -8379,7 +10115,6 @@
 2 CONC e: 2012
 1 _APID 3212
 0 @fhlBOCWvStCYv9oCAbNv@ SOUR
-1 REFN a193c4aa-562a-4117-8c90-9b8dd752c96f
 1 REPO @sM46ZEGAS5awEGlV488U@
 1 TITL New York, State Census, 1905
 1 AUTH Ancestry.com
@@ -8387,7 +10122,6 @@
 2 CONC e: 2014
 1 _APID 7364
 0 @mdBH13I4T96tcIftH6Q2@ SOUR
-1 REFN 9627c0c9-1fd2-4e6a-9c68-9179585ac06d
 1 REPO @sM46ZEGAS5awEGlV488U@
 1 TITL New York, State Census, 1915
 1 AUTH Ancestry.com
@@ -8395,7 +10129,6 @@
 2 CONC e: 2012
 1 _APID 2703
 0 @0H6fParEQxmrulQPFyWv@ SOUR
-1 REFN c9cd086f-ac63-41f7-b3a2-c32dcdbb5c3a
 1 REPO @sM46ZEGAS5awEGlV488U@
 1 TITL New York, Wills and Probate Records, 1659-1999
 1 AUTH Ancestry.com
@@ -8403,158 +10136,68 @@
 2 CONC e: 2015
 1 _APID 8800
 0 @SvybU5f8TmGg2t5AX4Fo@ SOUR
-1 REFN 00e6b4d0-4aaa-4029-8315-29c1a23d5e4f
 1 TITL NY Census, 1875, Madison Co., p. 38
 1 PUBL Eaton, Madison, NY, 24 Jun 1875
-1 TEXT dwelling 354 frame $500<br />
-2 CONT family 383<br />
-2 CONT <table border="1">
-2 CONT <tr><td>Aaron</td><td>Spooner</td><td>45</td><td>m</td><td>-
-2 CONC </td><td>Herkimer</td><td>married</td><td>farmer</td></tr>
-2 CONT <tr><td>Lana</td><td>Spooner</td><td>43</td><td>f</td><td>Wi
-2 CONC fe</td><td>"</td><td>married</td><td>&nbsp;</td></tr>
-2 CONT <tr><td>Herman E.</td><td>Spooner</td><td>19</td><td>m</td><
-2 CONC td>Son</td><td>Madison</td><td>single</td><td>&nbsp;</td></t
-2 CONC r>
-2 CONT <tr><td>Lydia E.</td><td>Spooner</td><td>16</td><td>f</td><t
-2 CONC d>Daughter</td><td>"</td><td>single</td><td>&nbsp;</td></tr>
-2 CONT <tr><td>Nancy E.</td><td>Spooner</td><td>13</td><td>f</td><t
-2 CONC d>Daughter</td><td>"</td><td>single</td><td>&nbsp;</td></tr>
-2 CONT <tr><td>Mary E.</td><td>Spooner</td><td>11</td><td>f</td><td
-2 CONC >Daughter</td><td>"</td><td>single</td><td>&nbsp;</td></tr>
-2 CONT <tr><td>Aaron E.</td><td>Spooner</td><td>6</td><td>m</td><td
-2 CONC >Son</td><td>"</td><td>single</td><td>&nbsp;</td></tr>
-2 CONT <tr><td>Lydia</td><td>Strow</td><td>67</td><td>f</td><td>Wif
-2 CONC e's Mother</td><td>Herkimer</td><td>&nbsp;</td><td>&nbsp;</t
-2 CONC d></tr>
-2 CONT </table>
 0 @A8yDyed7TICVNJtyv3nw@ SOUR
-1 REFN 14d01f94-b276-4675-b0c9-198d092ce65f
 1 TITL NY Census, 1892, Madison Co., Eaton, ED 1, image 3 of 8
 1 AUTH New York State
 1 PUBL FamilySearch.org
-1 TEXT <table border="1">
-2 CONT <thead>
-2 CONT <tr><th colspan="2">NAME.</th><th>Male or Female.</th><th>AG
-2 CONC E.</th><th>Color.</th><th>IN WHAT COUNTRY BORN.</th><th>Citz
-2 CONC en or Alien.</th><th>OCCUPATION.</th></tr>
-2 CONT </thead>
-2 CONT <tbody>
-2 CONT <tr><td>Aaron</td><td>Spohner</td><td>m</td><td>60</td><td>&
-2 CONC nbsp;</td><td>&quot; [US]</td><td>c</td><td>&quot; [Farmer]<
-2 CONC /td></tr>
-2 CONT <tr><td>Laney</td><td>Spohner</td><td>f</td><td>62</td><td>&
-2 CONC nbsp;</td><td>US</td><td>c</td><td>Farmer [sic]</td></tr>
-2 CONT </tbody>
-2 CONT </table>
 0 @pjdwDah0S8ud2aI9VOgW@ SOUR
-1 REFN c37b7e76-95d0-498f-b824-dedd8967a018
 1 TITL NY Census, 1905, Madison Co., Eaton, ED 1, image 2 of 4
 1 AUTH New York State
 1 PUBL FamilySearch.org
-1 TEXT <table border="1">
-2 CONT <thead>
-2 CONT <tr><th>RESIDENCE. Street.</th><th>House number.</th><th col
-2 CONC span="2">NAME</th><th>RELATION.</th><th>Color.</th><th>Sex.<
-2 CONC /th><th>Age</th><th>NATIVITY.</th><th>Years in US</th><th>Ci
-2 CONC tizen or alien.</th><th>Occupation.</th><th>Class</th></tr>
-2 CONT </thead>
-2 CONT <tbody>
-2 CONT <tr><td rowspan="3">Turnpike Road</td><td>&nbsp;</td><td>Kem
-2 CONC p</td><td>John W</td><td>Head</td><td>W</td><td>M</td><td>28
-2 CONC </td></td><td>United States<td>&nbsp;</td><td>Cit</td><td>Fa
-2 CONC rmer</td><td>O[wn] A[ccount]</td></tr>
-2 CONT <tr><td>&nbsp;</td><td>&mdash;</td><td>Lena B</td><td>Wife</
-2 CONC td><td>W</td><td>F</td><td>23</td></td><td>&quot; &quot;<td>
-2 CONC &nbsp;</td><td>Cit</td><td>Houseowrk</td><td>X</td></tr>
-2 CONT <tr><td>&nbsp;</td><td>Spooner</td><td>Laney</td><td>G-Mothe
-2 CONC r</td><td>W</td><td>F</td><td>73</td></td><td>&quot; &quot;<
-2 CONC td>&nbsp;</td><td>Cit</td><td>X</td><td>X</td></tr>
-2 CONT </tbody>
-2 CONT </table>
 0 @oPrx8lnRTDKc57mQIfn0@ SOUR
-1 REFN 9c324fa1-bef2-478a-8ed2-01dc65775be7
 1 TITL O-Sullivan [Genealogy]
 1 AUTH Jennings, Erin
 1 PUBL Ancestry World Tree at Ancestry.com
 0 @rjpqnQElTdqIgFaZ3NIo@ SOUR
-1 REFN 2b4db994-a634-43ab-b199-bc0cc6d2ccaf
 1 TITL Palatine Emmigration of 1709-1710
 1 AUTH Witthoft, Melissa
 1 PUBL http://www.fortklock.com/emigration.htm
 0 @o3joax0cSIWZmjzqc1zR@ SOUR
-1 REFN d0c63547-8cbd-40ff-a9ed-b992c1083332
 1 TITL Pedigree Resource File
 1 AUTH LDS
 1 PUBL http://www.familysearch.org/
 0 @uDNUT3zxQwK8uCm0ATDx@ SOUR
-1 REFN 667df36c-0f09-4196-9fb1-457b639771cc
 1 TITL photograph, Mosher, William D., and Lovejoy, Alta Amelia [dr
 2 CONC awing reproduction]
 1 PUBL In possession of Chris Mosher
-1 TEXT A series of two drawings that appear to have been made fro
-2 CONC m other photographs, rather than from the subjects themselve
-2 CONC s.<br />
-2 CONT (drawing 1)<br />
-2 CONT William D. Mosher (drawing actually says "William George Mos
-2 CONC her" but that is incorrect)<br />
-2 CONT Alta Amelia Lovejoy<br />
-2 CONT (drawing 2)<br />
-2 CONT Nancy Elnora Spohner<br />
-2 CONT George William Colvin<br />
 0 @O7bfMxIzT8umZzFka3XE@ SOUR
-1 REFN 2067a2fe-279a-4dc4-a3bc-dc004115a9a1
 1 TITL photograph, Spohner, Aaron Ezelous
 1 AUTH [unknown]
 1 PUBL In possession of Chris Mosher
-1 TEXT <a href="http://www.flickr.com/photos/mosher/6255965940/" ti
-2 CONC tle="Aaron Ezelous Spohner by cmosher01, on Flickr"><img src
-2 CONC ="http://farm7.static.flickr.com/6060/6255965940_b9c7fbf8da_
-2 CONC m.jpg" width="166" height="240" alt="Aaron Ezelous Spohner">
-2 CONC </a><br />
-2 CONT Ezelous A. Spohner/Nancy Spohner Colvin's/youngest brother
 0 @llW81mnvTMmflUjdF7Cz@ SOUR
-1 REFN a28e5c40-9881-4569-a177-555f4c05ae03
 1 TITL Posting to Ancient Faces Message Board
 1 AUTH Morse, Lee
-1 PUBL 6 Feb 2002, http://www.ancientfaces.com/cgi-bin/message.cfm?
-2 CONC Forum=4&Thread=49
+1 PUBL http://www.ancientfaces.com/cgi-bin/message.cfm?Forum=4&Thre
+2 CONC ad=49; Date: 6 Feb 2002
 0 @sdi0PHZsQSSEeKVaaNyF@ SOUR
-1 REFN bdcc46fc-8aae-4585-a2bc-5c73c1a7c964
 1 REPO @sM46ZEGAS5awEGlV488U@
 1 TITL Rochester, New York Directory, 1888-91
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations Inc; Location: Provo, UT, USA; Date
 2 CONC : 2000
 1 _APID 4600
-0 @iKPMekUtTomLMyDxS2qu@ SOUR
-1 REFN aa888f4a-252f-4854-b06b-f8a1b2450117
+0 @S59@ SOUR
 1 TITL Seeber [web site]
 1 AUTH Alary, Marcia Seeber
 1 PUBL http://familytreemaker.genealogy.com/users/a/l/a/Marcia-S-Al
 2 CONC ary/
-0 @Mk1x4uMjRbysDoH9sw0u@ SOUR
-1 REFN 983ced3d-c730-474a-942e-8b3a7be82dff
+0 @S60@ SOUR
 1 TITL Seeber [web site]
 1 AUTH Alary, Marcia Seeber
 1 PUBL http://www.geocities.com/heartland/prairie/7191/
-1 TEXT Frontiersman of N.Y. [Frontiersmen of New York] Vol 11 pag
-2 CONC e 342
 0 @XOhKwTvRTLikm9QwBjaT@ SOUR
-1 REFN 44d0fd5d-c61b-410c-916d-55cb5776a84d
 1 TITL Straubs of Florida Ancestor Research
 1 AUTH Straub, G. Keith
-1 PUBL FamilyTreeMaker Online, Genealogy.com
-1 TEXT <a href="http://familytreemaker.genealogy.com/users/s/t/r/Ga
-2 CONC ron-K-Straub/index.html">Straubs of Florida Ancestor Researc
-2 CONC h</a>
+1 PUBL FamilyTreeMaker Online, Genealogy.com; Location: http://fami
+2 CONC lytreemaker.genealogy.com/users/s/t/r/Garon-K-Straub/index.h
+2 CONC tml
 0 @Qq5Dj3IWSjqwqeJKJQrZ@ SOUR
-1 REFN 5f1fe747-ae48-4e36-800e-82755d872d4a
 1 TITL SuperEeyore's Family Tree
 1 AUTH Ehrichs, Laurel Elyse
 1 PUBL Ancestry World Tree at Ancestry.com
 0 @GrI3zKZyQoOSZdzfVQhP@ SOUR
-1 REFN b78cccbe-3d48-4f71-96c0-1cc552407de0
 1 REPO @sM46ZEGAS5awEGlV488U@
 1 TITL U.S. City Directories, 1821-1989
 1 AUTH Ancestry.com
@@ -8562,19 +10205,12 @@
 2 CONC e: 2011
 1 _APID 2469
 0 @mqgBq4CJQXqkKHX90EaD@ SOUR
-1 REFN c62f7850-ef5a-48dd-998b-efc3e18abc5c
 1 REPO @hxiM8gDvS7OY9nFUZjnh@
 1 TITL U.S. City Directories, 1822-1995
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2011
-1 TEXT Original sources vary according to directory. The title of t
-2 CONC he specific directory being viewed is listed at the top of t
-2 CONC he image viewer page.
-2 CONT Check the directory title page image for full title and publ
-2 CONC ication information.
 0 @M4n5TJTsTLaaMnHcbjeN@ SOUR
-1 REFN d32b7edd-f03c-47fd-8027-952c03c9e8a2
 1 REPO @sM46ZEGAS5awEGlV488U@
 1 TITL U.S., Dutch Reformed Church Records in Selected States, 1639
 2 CONC -1989
@@ -8583,7 +10219,6 @@
 2 CONC e: 2014
 1 _APID 6961
 0 @T04Thx8JT9W2rNmp2cvO@ SOUR
-1 REFN 5f8a8c34-99ea-41af-b664-9c27eefa1e72
 1 REPO @sM46ZEGAS5awEGlV488U@
 1 TITL U.S., Find A Grave Index, 1600s-Current
 1 AUTH Ancestry.com
@@ -8591,452 +10226,95 @@
 2 CONC e: 2012
 1 _APID 60525
 0 @7r8bOwMCRQGDMV5Yv5Lz@ SOUR
-1 REFN 55b655e1-b199-4082-8905-f177cabc1421
 1 TITL Ulrich Simmendinger's book Appendix [Transcription]
 1 AUTH Fort Klock Historic Restoration
 1 PUBL http://www.fortklock.com/knittlesimmendinger.htm
-1 TEXT The list contains the Appendix of Ulrich Simmendinger's pamp
-2 CONC hlet, Warhoffte und glaubwurdige Verzeichnuss jeniger Person
-2 CONC en; welche sich anno 1709 aus Teutschland in Americam oder n
-2 CONC eue welt begeben. . . . (Reuttlingen, ca. 1717).<br />
-2 CONT [...]<br />
-2 CONT The villages marked (f) to (l) are apparently German names f
-2 CONC or the seven Schoharie Valley settlements, probably used onl
-2 CONC y in the pamphlet to impress the people in the Fatherland fo
-2 CONC r whom the lists were prepared. Tentatively, by the identifi
-2 CONC cation of a few family names known to reside in the severa
-2 CONC l villages, they appear to be as follows:<br />
-2 CONT [...]<br />
-2 CONT Neu=Quunsberg (h) -------Hartmansdorf<br />
-2 CONT [...]<br />
-2 CONT Spon, Heinrich, (h) w. Maria Catharine & 3 ch<br />
 0 @0tS0RQvJRZqGoPULgAot@ SOUR
-1 REFN 2bfbd3e2-c7d3-4e3a-8cc8-ee9ee8b5d6fe
 1 TITL US Census, 1790, NY, Montgomery, Canajoharie
 1 AUTH US Census Bureau
 1 PUBL M637.6, p. 63
-1 TEXT [page] 91<br />
-2 CONT [...]<br />
-2 CONT Baltus Strow<br />
-2 CONT [m16+ Balthazar Strauch (42)<br />
-2 CONT m0-15 Heinrich Strauch (5)<br />
-2 CONT m0-15 Baldus Strauch (3)<br />
-2 CONT f Maria Katharina Ritter (25)<br />
-2 CONT f ?<br />
-2 CONT ]
 0 @J5wonceqRjit4ipUMzY4@ SOUR
-1 REFN 9a370a80-b083-4740-af1c-7cc71c0abcd5
 1 TITL US Census, 1790, NY, Montgomery, Herkimer
 1 AUTH US Census Bureau
 1 PUBL M637.6, p.
-1 TEXT Nicholas Spoon<br />
-2 CONT [m0-15 Johannes Nicholas Spoon (1)<br />
-2 CONT m0-15 Nicholas Spoon (3)<br />
-2 CONT m16+ ???Nicholas Henrich Spoon (67)<br />
-2 CONT m16+ ?<br />
-2 CONT m16+ Johann Nicholas Spohn (28)<br />
-2 CONT f ???Susanna Spoon (20)<br />
-2 CONT f ???Elizabeth Diefendorf (67)<br />
-2 CONT f Cathatina Kilts (23)<br />
-2 CONT ]<br />
 0 @yHZ5z9CgT7GmhDribrey@ SOUR
-1 REFN 0dd229b4-d80f-4cb4-8a95-650ff5c43454
 1 TITL US Census, 1790, NY, Montgomery, Palatine
 1 AUTH US Census Bureau
 1 PUBL M637.6, p. 115
-1 TEXT [page] 33<br />
-2 CONT [...]<br />
-2 CONT Honyost Eadle<br />
 0 @bCpRCaSzTReRh0yLpGLk@ SOUR
-1 REFN e9ef5501-4f1f-470f-88f5-45124237d971
 1 TITL US Census, 1800, NY, Montgomery, Manheim
 1 AUTH US Census Bureau
 1 PUBL M32.24, p. 386
-1 TEXT [AIS page] 52<br />
-2 CONT Town of Manheim<br />
-2 CONT John Adle<br />
-2 CONT [Right-hand pages are missing (they contain last 9 columns),
-2 CONC <br />
-2 CONT only left-hand columns show (name plus first 3 columns of ag
-2 CONC es).<br />
-2 CONT Backwards images of right-hand pages apprear to be faintly v
-2 CONC isible over top of normal left-hand page images. It seems a
-2 CONC s though the right-hand page corresponding to a given left-h
-2 CONC and page is over top of the *following* page. For example, p
-2 CONC age 2's faint images correspond to page 1's left-hand norma
-2 CONC l images. However, the ages don't match up very well with th
-2 CONC e known children of Johann Georg Adle. I still believe thi
-2 CONC s is his household, because it is immediately before his bro
-2 CONC ther Johann Josef Alde's household (shown as "Joseph Adle").
-2 CONC <br />
-2 CONT The ages for the "John Adle" household appear to be as follo
-2 CONC ws:<br />
-2 CONT 0 0 0 0 1 0 0 1 0 0
-2 CONT m45+<br />
-2 CONT f16-25<br />
-2 CONT However, Johann Georg Adle's household should be as follows:
-2 CONC <br />
-2 CONT 2 0 0 1 0 1 0 1 0 0:<br />
-2 CONT m 0-9 Georg or Jakob (0-5 from 1810 census)<br />
-2 CONT m 0-9 Johann Adle (7)<br />
-2 CONT m 26-44 Johann Georg Adle (42)<br />
-2 CONT f 0-9 Katharine Adle (3)<br />
-2 CONT f 16-25 Magdalena Klock (25)<br />
-2 CONT ]<br />
-2 CONT Joseph Adle [Johann Josef Adle]
 0 @p9kEMQAvTleXohid5BlA@ SOUR
-1 REFN 58c13e56-848e-4866-95b5-86349a5f1824
 1 TITL US Census, 1810, NY, Herkimer, Herkimer
 1 AUTH US Census Bureau
 1 PUBL M252.27, p. 340
-1 TEXT Herkimer<br />
-2 CONT [...]<br />
-2 CONT Nicholas Spoon<br />
-2 CONT [m10-15 George (10)<br />
-2 CONT m16-25 Werner (16)<br />
-2 CONT m16-25 Adam (19)<br />
-2 CONT m16-25 Johannes (21)<br />
-2 CONT m26-44 Nicholas Spoon (23???)<br />
-2 CONT m45+ Johann Nicholas Spohn (48)<br />
-2 CONT f0-9 Eva (3)<br />
-2 CONT f0-9 Elizabeth (7)<br />
-2 CONT f10-15 Catharina??? (5)<br />
-2 CONT f45+ Catharina Kilts (43???)<br />
-2 CONT f45+ Elizabeth Diefendorf (77)<br />
-2 CONT ]
 0 @OrgEQH1MT2OuoU5iE0Z2@ SOUR
-1 REFN e228f8b5-63b4-44e3-96b0-151fc8d9dc86
 1 TITL US Census, 1810, NY, Montgomery, Manheim
 1 AUTH US Census Bureau
 1 PUBL M252.29, p. 104
-1 TEXT [AIS page] 104<br />
-2 CONT [page] 211<br />
-2 CONT [...]<br />
-2 CONT Baltis Trough<br />
-2 CONT [note: this is under Battes Trough in AIS index;<br />
-2 CONT I believe this is Baldus Strauch b. 1787, brother of Matthia
-2 CONC s Strauch]<br />
-2 CONT [...]<br />
-2 CONT John Adle<br />
-2 CONT [m 0-9 Jakob Adle (age unknown)<br />
-2 CONT m 10-15 Georg Adle (age unknown)<br />
-2 CONT m 16-25 Johann Adle (17)<br />
-2 CONT m 26-44 Johann Georg Adle (52)?<br />
-2 CONT f 0-9 Mary Adle (1)<br />
-2 CONT f 0-9 Anna Adle (1)<br />
-2 CONT f 0-9 Nancy Adle (7)<br />
-2 CONT f 0-9 Lydia Adle (4)<br />
-2 CONT f 10-15 Katharine Adle (13)<br />
-2 CONT f 26-44 Magdalena Klock (35)<br />
-2 CONT ]
 0 @iQrOkn70R961iNiT9apw@ SOUR
-1 REFN 8aeca24b-fa4f-4ef7-83ff-95c9b8c6bc7b
 1 TITL US Census, 1830, NY, Herkimer, Herkimer
 1 AUTH US Census Bureau
 1 PUBL M19.91, p. 60
-1 TEXT Town of Herkimer<br />
-2 CONT George Spoon<br />
-2 CONT [m0-4 Abraham Spohn (4)<br />
-2 CONT m5-9 Jeremias Spohn (9)<br />
-2 CONT m10-14 William Henry Spohn (11)<br />
-2 CONT m20-29 brother of Georgius?<br />
-2 CONT m30-39 Georgius Nicholas Spohn (30)<br />
-2 CONT f0-4 Mary Ann Spohn (1)<br />
-2 CONT f30-39 Elizabeth Zoller (30)<br />
-2 CONT ]<br />
 0 @ERq7zwYZRNyrfmXMGzVN@ SOUR
-1 REFN b2665b32-5584-4aa9-b998-5269f8f63b00
 1 TITL US Census, 1830, NY, Herkimer, Manheim
 1 AUTH US Census Bureau
 1 PUBL M19.91, p. 125
-1 TEXT Town of Manheim<br />
-2 CONT [...]<br />
-2 CONT John Strough<br />
-2 CONT Matthew Strough<br />
-2 CONT [m20-29 Matthew Strough (c30)<br />
-2 CONT f0-4 ? b1826-1830<br />
-2 CONT f20-29 Lydia Adle (c24)<br />
-2 CONT ]<br />
-2 CONT [...]<br />
-2 CONT Baltus Strough<br />
 0 @5zeUJhrjRV6hMRdrJYmA@ SOUR
-1 REFN 55f36fb7-c705-469e-af7c-6def212a9b1a
 1 TITL US Census, 1840, NY, Herkimer, Herkimer
 1 AUTH US Census Bureau
 1 PUBL M704.290, p. 17
-1 TEXT Herkimer<br />
-2 CONT [...]<br />
-2 CONT George Spoon<br />
-2 CONT [m5-9 Norman Spohn (6)<br />
-2 CONT m5-9 Aaron Spohn (8)<br />
-2 CONT m10-14 Abraham Spohn (13)<br />
-2 CONT m15-19 Jeremias Spohn (19)<br />
-2 CONT m40-49 George Spohn (c40)<br />
-2 CONT f0-4 Elizabeth Spohn (3)<br />
-2 CONT f10-14 Mary Ann Spohn (11)<br />
-2 CONT f40-49 Elizabeth Zoller (c40)<br />
-2 CONT f70-79 prob. Catharina Kilts (77)<br />
-2 CONT note: where is William Henry Spohn (20)?<br />
-2 CONT ]<br />
 0 @JgO2XSnQS36bXrtvko5v@ SOUR
-1 REFN d75bec20-f228-4cf7-95c0-f84219f6eff3
 1 TITL US Census, 1840, NY, Herkimer, Manheim
 1 AUTH US Census Bureau
 1 PUBL M704.290, p. 56
-1 TEXT Manheim<br />
-2 CONT [...]<br />
-2 CONT Matthew Strough<br />
-2 CONT [m40-49 Matthew Strough (c40)<br />
-2 CONT f0-4 Nancy Strough (3)<br />
-2 CONT f5-9 Magdalena Strough (8)<br />
-2 CONT f10-14 ? b1826-1830<br />
-2 CONT f30-39 Lydia Adle (34)<br />
-2 CONT ]<br />
 0 @OezS9TKgTzyeOYHQtB5E@ SOUR
-1 REFN a58e2c28-4700-4bc5-83ec-64884010827d
 1 TITL US Census, 1850, NY, Herkimer, Herkimer
 1 AUTH US Census Bureau
 1 PUBL M432.513, p. 2
-1 TEXT SCHEDULE I.--Free Inhabitants in the town of Herkimer in th
-2 CONC e County of Herkimer State of New York enumerated by me, o
-2 CONC n the 6th day of Sept 1850.<br />
-2 CONT [...]<br />
-2 CONT [Dwelling] 18<br />
-2 CONT [Family] 19<br />
-2 CONT <table border="1">
-2 CONT <tr><td>George Spoon</td><td>50</td><td>M</td><td>Farmer</td
-2 CONC ><td>4000</td><td>"[NY]</td><td>&nbsp;</td></tr>
-2 CONT <tr><td>Elizabeth</td><td>50</td><td>F</td><td>&nbsp;</td><t
-2 CONC d>&nbsp;</td><td>"</td><td>&nbsp;</td></tr>
-2 CONT <tr><td>Jeremiah</td><td>29</td><td>M</td><td>"</td><td>&nbs
-2 CONC p;</td><td>"</td><td>&nbsp;</td></tr>
-2 CONT <tr><td>Mary</td><td>21["1" appears to be written over "2"]<
-2 CONC /td><td>F</td><td>&nbsp;</td><td>&nbsp;</td><td>"</td><td>[a
-2 CONC ttended school]</td></tr>
-2 CONT <tr><td>Aaron</td><td>19</td><td>M</td><td>"</td><td>&nbsp;<
-2 CONC /td><td>"</td><td>[attended school]</td></tr>
-2 CONT <tr><td>Norman</td><td>16</td><td>M</td><td>"</td><td>&nbsp;
-2 CONC </td><td>"</td><td>[attended school]</td></tr>
-2 CONT <tr><td>Elizabeth</td><td>13</td><td>F</td><td>&nbsp;</td><t
-2 CONC d>&nbsp;</td><td>"</td><td>[attended school]</td></tr>
-2 CONT <tr><td>George</td><td>10</td><td>M</td><td>&nbsp;</td><td>&
-2 CONC nbsp;</td><td>"</td><td>[attended school]</td></tr>
-2 CONT <tr><td>Sally</td><td>7</td><td>F</td><td>&nbsp;</td><td>&nb
-2 CONC sp;</td><td>"</td><td>&nbsp;</td></tr>
-2 CONT <tr><td>Susan</td><td>20</td><td>F</td><td>&nbsp;</td><td>&n
-2 CONC bsp;</td><td>"</td><td>&nbsp;</td></tr>
-2 CONT <tr><td>Elizabeth Zuller</td><td>65</td><td>F</td><td>&nbsp;
-2 CONC </td><td>&nbsp;</td><td>"</td><td>&nbsp;</td></tr>
-2 CONT </table>
-2 CONT [for Elizabeth Zuller there appears to be a 1 in the colum
-2 CONC n stating she was married within the year, but that doesn'
-2 CONC t seem to make sense.]<br />
 0 @y0rbFeaiRdq4vqT8x9R7@ SOUR
-1 REFN 3b8a493b-5d36-4164-9577-9a7e3c15f216
 1 TITL US Census, 1850, NY, Herkimer, Manheim
 1 AUTH US Census Bureau
 1 PUBL M432.513, p. 369B
-1 TEXT 27 Aug 1850<br />
-2 CONT dwelling 208<br />
-2 CONT family 211<br />
-2 CONT <table border="1">
-2 CONT <tr><td>Mathew</td><td>Strough</td><td>50</td><td>m</td><td>
-2 CONC " [Labourer]</td><td>" " [New York]</td><td>[can't r/w]</td>
-2 CONC </tr>
-2 CONT <tr><td>Lydia</td><td>"</td><td>44</td><td>f</td><td>&nbsp;<
-2 CONC /td><td>" "</td><td>[can't r/w]</td></tr>
-2 CONT <tr><td>Lany</td><td>"</td><td>18</td><td>f</td><td>&nbsp;</
-2 CONC td><td>" "</td><td>&nbsp;</td></tr>
-2 CONT <tr><td>Nancy</td><td>"</td><td>13</td><td>f</td><td>&nbsp;<
-2 CONC /td><td>" "</td><td>&nbsp;</td></tr>
-2 CONT <tr><td>Lydia</td><td>"</td><td>3</td><td>f</td><td>&nbsp;</
-2 CONC td><td>" "</td><td>&nbsp;</td></tr>
-2 CONT </table>
 0 @5XXAeSVaQ4uit4NRcsSs@ SOUR
-1 REFN a7f61241-f419-4fe0-a35e-abeaefaee9f9
 1 TITL US Census, 1860, NY, Herkimer, Herkimer
 1 AUTH US Census Bureau
 1 PUBL M653.760, p. 1108
-1 TEXT Page No. 66<br />
-2 CONT SCHEDULE 1.--Free Inhabitants in Herkimer in the County of H
-2 CONC erkimer State of New York enumerated by me, on the 2nd day o
-2 CONC f July 1860.<br />
-2 CONT [...]<br />
-2 CONT [Dwelling] 471<br />
-2 CONT [Family] 481<br />
-2 CONT <table border="1">
-2 CONT <tr><td>Jeremiah Sphon</td><td>35</td><td>M</td><td>Farmer</
-2 CONC td><td>9.000</td><td>1.000</td><td>New York</td><td>&nbsp;</
-2 CONC td></tr>
-2 CONT <tr><td>Margaret</td><td>6</td><td>F</td><td>&nbsp;</td><td>
-2 CONC &nbsp;</td><td>&nbsp;</td><td>New York</td><td>[attended sch
-2 CONC ool]</td></tr>
-2 CONT <tr><td>Charles</td><td>2</td><td>M</td><td>&nbsp;</td><td>&
-2 CONC nbsp;</td><td>&nbsp;</td><td>New York</td><td>&nbsp;</td></t
-2 CONC r>
-2 CONT <tr><td>Elizabeth Sphon</td><td>63</td><td>F</td><td>&nbsp;<
-2 CONC /td><td>&nbsp;</td><td>&nbsp;</td><td>New York</td><td>&nbsp
-2 CONC ;</td></tr>
-2 CONT <tr><td>Sally Ann</td><td>16</td><td>F</td><td>&nbsp;</td><t
-2 CONC d>&nbsp;</td><td>&nbsp;</td><td>New York</td><td>&nbsp;</td>
-2 CONC </tr>
-2 CONT <tr><td>George P. Sphon</td><td>19</td><td>M</td><td>Farm Ha
-2 CONC nd</td><td>&nbsp;</td><td>&nbsp;</td><td>New York</td><td>&n
-2 CONC bsp;</td></tr>
-2 CONT <tr><td>Caroline</td><td>18</td><td>F</td><td>&nbsp;</td><td
-2 CONC >&nbsp;</td><td>&nbsp;</td><td>New York</td><td>&nbsp;</td><
-2 CONC /tr>
-2 CONT <tr><td>Catharine M</td><td>1/12</td><td>F</td><td>&nbsp;</t
-2 CONC d><td>&nbsp;</td><td>&nbsp;</td><td>New York</td><td>&nbsp;<
-2 CONC /td></tr>
-2 CONT <tr><td>Frederick Faby</td><td>17</td><td>M</td><td>Farm Han
-2 CONC d</td><td>&nbsp;</td><td>&nbsp;</td><td>Germany</td><td>&nbs
-2 CONC p;</td></tr>
-2 CONT </table>
 0 @iPcAuJX7SYCyvVvw9uEM@ SOUR
-1 REFN 322f7afb-c7f9-489a-9358-4a234e7c2942
 1 TITL US Census, 1860, NY, Madison, Smithfield
 1 AUTH US Census Bureau
 1 PUBL M653.780, p. 445
-1 TEXT 11 Aug 1860<br />
-2 CONT [note that dwelling 1026 was unoccupied]<br />
-2 CONT dwelling 1027<br />
-2 CONT family 1026<br />
-2 CONT <table border="1">
-2 CONT <tr><td>Aaron</td><td>Spooner</td><td>28</td><td>m</td><td>D
-2 CONC ay Laborer</td><td>p$100</td><td>New York</td><td>&nbsp;</td
-2 CONC ><td>&nbsp;</td></tr>
-2 CONT <tr><td>Lana</td><td>"</td><td>28</td><td>f</td><td>&nbsp;</
-2 CONC td><td>&nbsp;</td><td>&nbsp;</td><td>D[itt]o</td><td>[canno
-2 CONC t read and write]</td></tr>
-2 CONT <tr><td>Herman E</td><td>"</td><td>4</td><td>m</td><td>&nbsp
-2 CONC ;</td><td>&nbsp;</td><td>&nbsp;</td><td>Do</td><td>[attende
-2 CONC d school within the year]</td></tr>
-2 CONT <tr><td>Lydia E</td><td>"</td><td>1</td><td>f</td><td>&nbsp;
-2 CONC </td><td>&nbsp;</td><td>&nbsp;</td><td>Do</td><td>&nbsp;</td
-2 CONC ></tr>
-2 CONT </table>
-0 @dfwZDtFZTyOI5x6dwE0Q@ SOUR
-1 REFN 6b8fe9b0-4b87-4bde-ac4b-70ded883f14d
+0 @S82@ SOUR
 1 TITL US Census, 1870, NY, Madison, Eaton
 1 AUTH US Census Bureau
 1 PUBL M593.967, p. 68
-1 TEXT Page No. 68<br />
-2 CONT SCHEDULE I.--Inhabitants in Eaton, in the County of Madison
-2 CONC , State of New York, enumerated by me on the 25 day of July
-2 CONC , 1870.<br />
-2 CONT Post Office: Pratts Hollow<br />
-2 CONT <table border="1">
-2 CONT <tr><td>558</td><td>573</td></tr>
-2 CONT <tr><td>&nbsp;</td><td>&nbsp;</td><td>Slocum</td><td>Peleg</
-2 CONC td><td>67</td><td>M</td><td>W</td><td>Farmer</td><td>3000</t
-2 CONC d><td>675</td><td>Rhode Island</td></tr>
-2 CONT <tr><td>&nbsp;</td><td>&nbsp;</td><td>--</td><td>Olive</td><
-2 CONC td>61</td><td>F</td><td>W</td><td>Keeping House</td><td>&nbs
-2 CONC p;</td><td>&nbsp;</td><td>New York</td></tr>
-2 CONT <tr><td>&nbsp;</td><td>&nbsp;</td><td>--</td><td>Jennette</t
-2 CONC d><td>40</td><td>F</td><td>W</td><td>At Home</td><td>&nbsp;<
-2 CONC /td><td>&nbsp;</td><td>New York</td><td>Blind</td></tr>
-2 CONT </table>
-0 @oxokfBzJTdqN32mtJ0tY@ SOUR
-1 REFN bcd79525-cb15-4734-a717-68bb8aa99da4
+0 @S83@ SOUR
 1 TITL US Census, 1870, NY, Madison, Eaton
 1 AUTH US Census Bureau
 1 PUBL M593.967, p. 65
-1 TEXT Page No. 65<br />
-2 CONT SCHEDULE 1.--Inhabitants in Eaton, in the County of Madison
-2 CONC , State of New York, enumerated by me on the 25 day of July
-2 CONC , 1870.<br />
-2 CONT Post Office: Morrisville<br />
-2 CONT [...]<br />
-2 CONT [Dwelling] 532<br />
-2 CONT [Family] 549<br />
-2 CONT <table border="1">
-2 CONT <tr><td>[last</td><td>first</td><td>age</td><td>gend</td><td
-2 CONC >race</td><td>occ</td><td>real</td><td>pers</td><td>birth</t
-2 CONC d><td>at sch]</td></tr>
-2 CONT <tr><td>Spooner</td><td>Aaron</td><td>40</td><td>M</td><td>W
-2 CONC </td><td>Farmer</td><td>1450</td><td>300</td><td>New York</t
-2 CONC d><td>&nbsp;</td></tr>
-2 CONT <tr><td>--</td><td>Laura</td><td>37</td><td>F</td><td>W</td>
-2 CONC <td>Keeping House</td><td>&nbsp;</td><td>&nbsp;</td><td>Ne
-2 CONC w York</td><td>&nbsp;</td></tr>
-2 CONT <tr><td>--</td><td>Herman</td><td>15</td><td>M</td><td>W</td
-2 CONC ><td>Form Labor</td><td>&nbsp;</td><td>&nbsp;</td><td>New Yo
-2 CONC rk</td><td>1</td></tr>
-2 CONT <tr><td>--</td><td>Lydia</td><td>11</td><td>F</td><td>W</td>
-2 CONC <td>At School</td><td>&nbsp;</td><td>&nbsp;</td><td>New York
-2 CONC </td><td>1</td></tr>
-2 CONT <tr><td>--</td><td>Nancy</td><td>8</td><td>F</td><td>W</td><
-2 CONC td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>New York</td
-2 CONC ><td>1</td></tr>
-2 CONT <tr><td>--</td><td>Mary</td><td>7</td><td>F</td><td>W</td><t
-2 CONC d>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>New York</td>
-2 CONC <td>1</td></tr>
-2 CONT <tr><td>--</td><td>Aaron</td><td>1</td><td>M</td><td>W</td><
-2 CONC td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>New York</td
-2 CONC ><td>&nbsp;</td></tr>
-2 CONT <tr><td>Straugh</td><td>Lydia</td><td>66</td><td>F</td><td>W
-2 CONC </td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>New Yo
-2 CONC rk</td><td>&nbsp;</td></tr>
-2 CONT </table>
 0 @WVZ9YGEQTe2HhI4pqt83@ SOUR
-1 REFN f7237454-36e3-4f87-bc83-a47502ddf8e3
 1 TITL US Census, 1880, NY, Madison Co
 1 AUTH US Census Bureau
 1 PUBL Eaton, Madison, NY, ED 1, p. 13, 20 Apr 1880
-1 TEXT <table border="1">
-2 CONT <tr><td>Colvin,</td><td>George</td><td>w</td><td>m</td><td>2
-2 CONC 4</td></tr>
-2 CONT <tr><td>-</td><td>Nancy</td><td>"</td><td>f</td><td>[destroy
-2 CONC ed]</td></tr>
-2 CONT </table>
 0 @xdbrM46HTvmEPDPBaIWY@ SOUR
-1 REFN 4833adc8-8773-485a-9403-1a43577235ab
 1 TITL US Census, 1900, NY, Erie, Buffalo, Ward 20, District 168
 1 AUTH US Census Bureau
 1 PUBL T623.1031, p. 4A
-1 TEXT 9 Niagara<br />
-2 CONT Spooner E. A.<br />
-2 CONT Aug. 1869, age 30
 0 @4npJjaihQAeOij06FIBH@ SOUR
-1 REFN 9805a770-1337-4de6-b3cf-2c609c9a5210
 1 TITL US Census, 1900, NY, Madison Co
 1 AUTH US Census Bureau
 1 PUBL Eaton, Madison, NY, ED 9, p. 12, 19 Jun 1900
-1 TEXT dwelling 301<br />
-2 CONT family 303<br />
-2 CONT [all white]<br />
-2 CONT [all b NY, f b NY, m b NY]<br />
-2 CONT <table border="1">
-2 CONT <tr><td>Spohner</td><td>Aaron</td><td>Head</td><td>m</td><td
-2 CONC >Jan 1830</td><td>70</td><td>married 48 yrs.</td><td>Farm La
-2 CONC borer</td><td>&nbsp;</td></tr>
-2 CONT <tr><td>-</td><td>Laney</td><td>Wife</td><td>f</td><td>Oct 1
-2 CONC 830</td><td>[crossed out "70"] 69</td><td>married 48 yrs.
-2 CONC , 5 children, 4 living</td><td>&nbsp;</td><td>&nbsp;</td></t
-2 CONC r>
-2 CONT <tr><td>-</td><td>Clarence</td><td>Grandson</td><td>m</td><t
-2 CONC d>Apr 1894</td><td>6</td><td>single</td><td>&nbsp;</td><td>a
-2 CONC t school</td></tr>
-2 CONT </table>
-2 CONT [note: the Clarance listed is probably Clarence Colvin]
 0 @QGKTfndrRemFkriG35bw@ SOUR
-1 REFN 63246912-219a-4822-9c57-54626dcaa5db
 1 TITL US Census, 1900, NY, Madison, Eaton, District 8, image 17 o
 2 CONC f 24
 1 AUTH US Census Bureau
 1 PUBL T623.1071
-1 TEXT Nye<br />
-2 CONT [...]<br />
-2 CONT Candace Apr 1846
 0 @IlOj9B1IRwWPm8IcmbCD@ SOUR
-1 REFN eec43e05-c4cf-481c-a765-a259d65140a3
 1 TITL US Census, 1900, NY, Onondaga, Elbridge, District 46
 1 AUTH US Census Bureau
 1 PUBL T623.1134, p. 9A
 0 @OGXwsRzKTTqSepyc7LXD@ SOUR
-1 REFN 5e2a6f3c-2c5d-4d6f-aed7-5eebe5976191
 1 REPO @sM46ZEGAS5awEGlV488U@
 1 TITL Web: New York, Find A Grave Index, 1660-2012
 1 AUTH Ancestry.com
@@ -9050,7 +10328,6 @@
 2 FORM jpg
 2 TITL 0009_Spohner_Aaron_Ezelous
 2 _DATE 9/26/2013 9:23:44 PM
-1 REFN 217107f1-758e-4d2a-8142-a35a8b35b3e6
 0 @ZdQ70UlPR9asyCQhbSt5@ OBJE
 1 _GUID ebede4bd-a6e9-43a3-b2fd-a26c7cbbff79
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Spohner Media\0
@@ -9058,7 +10335,6 @@
 2 FORM jpg
 2 TITL 0010_Nye_Ethel_S
 2 _DATE 9/26/2013 9:47:29 PM
-1 REFN ec389bda-5259-4860-ba6f-36aa4838c6a8
 0 @Jpxg5vPjTaeqtnnamBTT@ OBJE
 1 _GUID 28965a61-d8f6-4c77-bcfd-4b542ccaa302
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Spohner Media\1
@@ -9067,7 +10343,6 @@
 2 TITL 1850 United States Federal Census
 2 _TEXT Year: 1850; Census Place: Manheim, Herkimer, New York; Roll
 3 CONC : M432_513; Page: 369B; Image: 231
-1 REFN 268194c0-388d-498d-919e-5f449425accc
 0 @Dhzz6LKJSPSgijx1fOwX@ OBJE
 1 _GUID a4bb4c7b-2213-48b8-9309-93811b0a5a2a
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Spohner Media\1
@@ -9076,7 +10351,6 @@
 2 TITL 1850 United States Federal Census
 2 _TEXT Year: 1850; Census Place: Herkimer, Herkimer, New York; Roll
 3 CONC : M432_513; Page: 2A; Image: 252
-1 REFN 8600c279-8eec-4ffd-8f33-81759db71df8
 0 @52mWEbAETDuVXnVkgAXM@ OBJE
 1 _GUID 4e8a8919-e57e-437f-9b60-42fc704154bf
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Spohner Media\1
@@ -9085,7 +10359,6 @@
 2 TITL 1850 United States Federal Census
 2 _TEXT Year: 1850; Census Place: Manheim, Herkimer, New York; Roll
 3 CONC : M432_513; Page: 370A; Image: 232
-1 REFN 514253a4-6557-453c-8b1b-0095394bbb9e
 0 @EamnD9EHRFWP2F0t3I7j@ OBJE
 1 _GUID c7e03764-2e39-4031-8314-e8b6af565a85
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Spohner Media\1
@@ -9095,7 +10368,6 @@
 2 _TEXT Year: 1860; Census Place: Smithfield, Madison, New York; Rol
 3 CONC l: M653_780; Page: 445; Image: 450; Family History Library F
 3 CONC ilm: 803780
-1 REFN fa3beb39-d8e4-47ec-b0c7-c112e51abaf2
 0 @0e2KhYObT6OkDpGDVpMe@ OBJE
 1 _GUID 70b36785-78a1-4d86-9667-ed0cf6003c2a
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Spohner Media\1
@@ -9105,7 +10377,6 @@
 2 _TEXT Year: 1860; Census Place: Fenner, Madison, New York; Roll: M
 3 CONC 653_780; Page: 329; Image: 334; Family History Library Film
 3 CONC : 803780
-1 REFN 88071e4e-9a95-4d3c-9575-af83ab372582
 0 @ke7mw6zqTbaX3RJTYmmc@ OBJE
 1 _GUID c59153a4-3b4d-486f-a271-2e778128249b
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Spohner Media\1
@@ -9115,7 +10386,6 @@
 2 _TEXT Year: 1860; Census Place: Manheim, Herkimer, New York; Roll
 3 CONC : M653_759; Page: 133; Image: 138; Family History Library Fi
 3 CONC lm: 803759
-1 REFN 008f282f-e68a-4288-abcf-901e06eb659e
 0 @F2WzJY7yTsK3IgoJhAZL@ OBJE
 1 _GUID f1b1610b-c508-4c58-b3b7-2cb64e502c84
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Spohner Media\1
@@ -9125,7 +10395,6 @@
 2 _TEXT Year: 1860; Census Place: Theresa, Jefferson, New York; Roll
 3 CONC : M653_762; Page: 750; Image: 749; Family History Library Fi
 3 CONC lm: 803762
-1 REFN cf03407e-1e03-40df-82c7-d21e4e4df829
 0 @WlHfw08hS7WmxwWSfx5R@ OBJE
 1 _GUID de14bb71-e507-4a48-8d29-0f746b2528b8
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Spohner Media\1
@@ -9135,7 +10404,6 @@
 2 _TEXT Year: 1870; Census Place: Eaton, Madison, New York; Roll: M5
 3 CONC 93_967; Page: 160A; Image: 324; Family History Library Film
 3 CONC : 552466
-1 REFN e702c249-f38a-49e3-af63-a1b06ab0cc0b
 0 @8bInsY6eRcKggOanvT9Z@ OBJE
 1 _GUID 68d57a01-b2d5-4995-8b15-d65ac89e6e44
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Spohner Media\1
@@ -9145,7 +10413,6 @@
 2 _TEXT Year: 1870; Census Place: Columbia, Herkimer, New York; Roll
 3 CONC : M593_942; Page: 6A; Image: 16; Family History Library Film
 3 CONC : 552441
-1 REFN 795a0b08-214c-469e-b52f-12c06f3eac8e
 0 @wDtKPYOcQsS99FEay8Lh@ OBJE
 1 _GUID c51a0f8e-d196-4329-8f75-f9d78784290e
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Spohner Media\1
@@ -9155,7 +10422,6 @@
 2 _TEXT Year: 1880; Census Place: Oxford, Chenango, New York; Roll
 3 CONC : 818; Family History Film: 1254818; Page: 306C; Enumeratio
 3 CONC n District: 107; Image: 0614
-1 REFN 8d0f2b7e-abc3-4a24-86de-03b0fa0bb8d6
 0 @tsduPJ6ZSEGjJ5BaabtJ@ OBJE
 1 _GUID 1aba7ab8-cfe2-43c1-9666-192da332986f
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Spohner Media\1
@@ -9165,7 +10431,6 @@
 2 _TEXT Year: 1900; Census Place: Eaton, Madison, New York; Roll: 10
 3 CONC 71; Page: 12A; Enumeration District: 0009; FHL microfilm: 12
 3 CONC 41071
-1 REFN d7a47ee8-97ef-455e-a29f-08b98ac2d589
 0 @0O8z8OCjRryiHDnlEn7m@ OBJE
 1 _GUID 0ebb1e28-bc7c-4eaa-9b64-d547145ad81f
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Spohner Media\1
@@ -9175,7 +10440,6 @@
 2 _TEXT Year: 1900; Census Place: Elbridge, Onondaga, New York; Roll
 3 CONC : 1134; Page: 9A; Enumeration District: 0046; FHL microfilm
 3 CONC : 1241134
-1 REFN 0d84ca78-5ef7-4140-be4a-ebd97a609a22
 0 @VtkLwVx6TImvmwrPT42h@ OBJE
 1 _GUID 67a6dc47-39c8-41d9-b067-e82105e48392
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Spohner Media\1
@@ -9185,7 +10449,6 @@
 2 _TEXT Year: 1900; Census Place: Eaton, Madison, New York; Roll: 10
 3 CONC 71; Page: 2B; Enumeration District: 0008; FHL microfilm: 124
 3 CONC 1071
-1 REFN 7e6770db-d778-48e8-8bea-10e2a0e3d62c
 0 @q3gMBeuQS5KkRkTMMNJ3@ OBJE
 1 _GUID a47cba0f-02cc-446b-b2e7-0e50fc9e0b9b
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Spohner Media\1
@@ -9195,7 +10458,6 @@
 2 _TEXT Year: 1900; Census Place: Eaton, Madison, New York; Roll: 10
 3 CONC 71; Page: 9A; Enumeration District: 0008; FHL microfilm: 124
 3 CONC 1071
-1 REFN 0c7e485c-652c-4231-93fc-0c4c15340eb7
 0 @hKFjKq8iSTG3JBOPYAE9@ OBJE
 1 _GUID 5fd744a7-b6da-4069-b3e7-0e8677fbca9d
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Spohner Media\1
@@ -9205,7 +10467,6 @@
 2 _TEXT Year: 1900; Census Place: Rochester Ward 15, Monroe, New Yor
 3 CONC k; Roll: 1075; Page: 2A; Enumeration District: 0094; FHL mic
 3 CONC rofilm: 1241075
-1 REFN bfc86182-f92c-499c-b182-1bb6d6bfecdd
 0 @W5XuTb9SQLmosh3hRuA6@ OBJE
 1 _GUID 73b9590b-6b38-4343-a4b5-bdadaf47123f
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Spohner Media\1
@@ -9215,7 +10476,6 @@
 2 _TEXT Year: 1910; Census Place: Elbridge, Onondaga, New York; Roll
 3 CONC : T624_1054; Page: 3B; Enumeration District: 0052; FHL micro
 3 CONC film: 1375067
-1 REFN df3efda6-ab2d-41c5-9c3e-55911d78ec33
 0 @zZyucSODQeyTf2CMDnZS@ OBJE
 1 _GUID aa74db2f-a356-4540-b50b-e6e13f2d02aa
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Spohner Media\1
@@ -9225,7 +10485,6 @@
 2 _TEXT Year: 1910; Census Place: Smithfield, Madison, New York; Rol
 3 CONC l: T624_987; Page: 8A; Enumeration District: 0032; FHL micro
 3 CONC film: 1375000
-1 REFN 229b519f-084b-4238-8186-a079410c0c10
 0 @h0FbegcOQGahK0Lo1sh6@ OBJE
 1 _GUID 6acf02c1-b0cb-4199-bd04-fe674402fe66
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Spohner Media\1
@@ -9235,7 +10494,6 @@
 2 _TEXT Year: 1910; Census Place: Eaton, Madison, New York; Roll: T6
 3 CONC 24_987; Page: 3A; Enumeration District: 0008; FHL microfilm
 3 CONC : 1375000
-1 REFN 0b0bb3a7-8f5e-41ba-8215-1c2d33c0e44c
 0 @u3p1gfCuR1CWk8MqRVWq@ OBJE
 1 _GUID 529aa123-6935-4855-bb94-710f73dd708f
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Spohner Media\1
@@ -9245,7 +10503,6 @@
 2 _TEXT Year: 1910; Census Place: Rochester Ward 13, Monroe, New Yor
 3 CONC k; Roll: T624_992; Page: 6A; Enumeration District: 0133; FH
 3 CONC L microfilm: 1375005
-1 REFN 06bc2cf8-ad86-4d52-8212-4a6b70d4fd59
 0 @APaz8ey1To6PKPebu4cC@ OBJE
 1 _GUID 5e5f870f-fc95-4598-b53b-711143e58f7f
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Spohner Media\1
@@ -9253,7 +10510,6 @@
 2 FORM jpg
 2 TITL 1920 United States Federal Census
 2 _TEXT Year: 1920; Census Place: Eaton, Madison, New York
-1 REFN 63090562-9110-42d8-aa38-645c5ce8bd14
 0 @8x982pVORfieisuCoYJG@ OBJE
 1 _GUID 104f0579-1333-4de1-ac38-542a5e43b314
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Spohner Media\1
@@ -9262,7 +10518,6 @@
 2 TITL 1920 United States Federal Census
 2 _TEXT Year: 1920; Census Place: Rochester Ward 13, Monroe, New Yor
 3 CONC k
-1 REFN ca220a63-bc7c-4a97-bfe8-8d47525af8f6
 0 @y3nKIJFjTNOrEZY7xknU@ OBJE
 1 _GUID 61717f47-9b3f-4b23-b41d-ae8601bfbb4a
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Spohner Media\1
@@ -9272,7 +10527,6 @@
 2 _TEXT Year: 1930; Census Place: North Norwich, Chenango, New York
 3 CONC ; Roll: 1416; Page: 3A; Enumeration District: 0017; Image: 1
 3 CONC 75.0; FHL microfilm: 2341151
-1 REFN 3c0a9c9a-5c3a-4610-b44d-07d78fd7932a
 0 @uVvkdSiwQLqj5waJ6pru@ OBJE
 1 _GUID f8f1c567-ad83-4afa-98d5-1ffc563fdcf1
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Spohner Media\1
@@ -9282,7 +10536,6 @@
 2 _TEXT Year: 1930; Census Place: Rochester, Monroe, New York; Roll
 3 CONC : 1451; Page: 9A; Enumeration District: 86; Image: 530.0; FH
 3 CONC L microfilm: 2341186
-1 REFN 7933f5a2-b1cc-4226-9276-19046a20dcfc
 0 @xn6Pq3ZITSWOFbLbmDYg@ OBJE
 1 _GUID 8175b2e7-6d2e-421c-8b0c-b4979f6232f4
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Spohner Media\1
@@ -9291,7 +10544,6 @@
 2 TITL 1940 United States Federal Census
 2 _TEXT Year: 1940; Census Place: Lenox, Madison, New York; Roll: T6
 3 CONC 27_2624; Page: 9A; Enumeration District: 27-30
-1 REFN 43c55225-1558-4cf6-951a-664c730d1030
 0 @r6VdM7wgSrKYiXEwD2Dj@ OBJE
 1 _GUID 35055930-166b-47fc-80ee-1137614da71b
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Spohner Media\1
@@ -9300,21 +10552,18 @@
 2 TITL 1940 United States Federal Census
 2 _TEXT Year: 1940; Census Place: Rochester, Monroe, New York; Roll
 3 CONC : T627_2846; Page: 9A; Enumeration District: 65-157
-1 REFN 17c31490-0ce6-4cb0-a015-3fd7d83fb160
 0 @FyTiLw3GTFm9W9t0SHpG@ OBJE
 1 _GUID 51a6e4ce-13e6-456f-8d90-55d2ba5a296b
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Spohner Media\A
 2 CONC aron Spohner.jpg
 2 FORM jpg
 2 TITL Aaron Spohner
-1 REFN d1fbbdf5-cb01-4007-af29-103e01a951b8
 0 @Y7TRStxEQPCZiWelxcUn@ OBJE
 1 _GUID 266b2f26-0a3b-4e11-a542-8e778a6c3476
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Spohner Media\B
 2 CONC etsey Zoller.jpg
 2 FORM jpg
 2 TITL Betsey Zoller
-1 REFN ffb28674-cd18-4dd4-9fb7-16597236fd14
 0 @METLLW1jR5u87zI3RElK@ OBJE
 1 _GUID da176c6f-5a8b-44b9-a521-df4aaf3cda74
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Spohner Media\D
@@ -9326,70 +10575,60 @@
 3 CONC denly Tuesday afternoon in the home of her parents, Mr. an
 3 CONC d Mrs. Aaron Spooner, two miles west of Morrisville, from a
 3 CONC n over dose of chloroform, taken to relieve pain.
-1 REFN d6bdcb1e-d385-4fbd-a37a-8e00372fa437
 0 @wfs1XVgdSEOBDsa9Hgwj@ OBJE
 1 _GUID 43d29c5c-7b1e-4863-a9fc-386dbc668bcc
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Spohner Media\J
 2 CONC ames D. Moon.jpg
 2 FORM jpg
 2 TITL James D. Moon
-1 REFN a64e5990-78db-4805-9626-aa2541ef87c3
 0 @rBN1LfvhQAOolZebeU4g@ OBJE
 1 _GUID 51fb78f3-a7d4-4af5-9393-55287e0df2cb
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Spohner Media\M
 2 CONC ary Eleanor Spohner Moon.jpg
 2 FORM jpg
 2 TITL Mary Eleanor Spohner Moon
-1 REFN e02e42a6-bd4b-4f4b-aaf3-853f5d8c6f1f
 0 @1nauENXLQTqrrExM42Kc@ OBJE
 1 _GUID 21d4ae7f-1903-4cdc-9f92-f983d131a44e
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Spohner Media\N
 2 CONC ancy E. Colvin.jpg
 2 FORM jpg
 2 TITL Nancy E. Colvin
-1 REFN e93cd2fe-7058-4751-86d6-8f659bf560f4
 0 @oDKXoku6QA2x0riCy3N8@ OBJE
 1 _GUID 4fccca4c-d21a-4f53-96c9-2ad074d6793e
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Spohner Media\N
 2 CONC ew York, State Census, 1855(3).jpg
 2 FORM jpg
 2 TITL New York, State Census, 1855
-1 REFN 33e6e73f-312e-457a-8c87-f212080fb3e7
 0 @HdqBixNcTh6A84mBlenE@ OBJE
 1 _GUID 17d11381-dda3-4a3e-83d0-68e19d4340eb
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Spohner Media\N
 2 CONC ew York, State Census, 1855(13).jpg
 2 FORM jpg
 2 TITL New York, State Census, 1855
-1 REFN 20f1b604-6468-4153-8f49-f01e1c3d3363
 0 @k4BGVQACSkWZYEfpwuRC@ OBJE
 1 _GUID e2147e72-7a55-4d61-9a7c-72937ca54654
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Spohner Media\N
 2 CONC ew York, State Census, 1865(6).jpg
 2 FORM jpg
 2 TITL New York, State Census, 1865
-1 REFN c2ac8793-49bd-4070-9d95-f0727e27b527
 0 @5boOpvo0Sjm80MVSpgBM@ OBJE
 1 _GUID 8f0a3271-6531-4de3-813c-361e80974f6a
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Spohner Media\N
 2 CONC ew York, State Census, 1875(7).jpg
 2 FORM jpg
 2 TITL New York, State Census, 1875
-1 REFN bcd84416-38ea-4834-8652-020d7de05210
 0 @2lxuaSceSvmn2a72NXjJ@ OBJE
 1 _GUID 1dc15c47-75d4-467c-b3f6-215d0a13a256
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Spohner Media\N
 2 CONC ew York, State Census, 1892(3).jpg
 2 FORM jpg
 2 TITL New York, State Census, 1892
-1 REFN 460b4349-1dc2-494a-9244-7467a3c67de2
 0 @mmfq6k0fTG2QdMjT8Cwh@ OBJE
 1 _GUID 2d14bec7-ba60-4757-8ef6-2019a100d18d
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Spohner Media\N
 2 CONC ew York, State Census, 1892(10).jpg
 2 FORM jpg
 2 TITL New York, State Census, 1892
-1 REFN bede7177-3fe3-47fb-8f13-4d1d4f073392
 0 @1lsXqoQdTxazfTD3eu04@ OBJE
 1 _GUID 1f127c2d-1d6c-48f7-8275-d5ea3be7a156
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Spohner Media\N
@@ -9399,7 +10638,6 @@
 2 _TEXT New York State Archives; Albany, New York; State Populatio
 3 CONC n Census Schedules, 1905; Election District: E.D. 01; City
 3 CONC : Eaton; County: Madison; Page: 8
-1 REFN e10eafaf-ec23-499c-8928-2d3f2aeaf327
 0 @42Ac6OFTSgu8vZHJtGDd@ OBJE
 1 _GUID a66ab046-b485-4430-8b3b-3652c965a101
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Spohner Media\N
@@ -9409,7 +10647,6 @@
 2 _TEXT New York State Archives; Albany, New York; State Populatio
 3 CONC n Census Schedules, 1905; Election District: E.D. 02; City
 3 CONC : Elbridge; County: Onondaga; Page: 5
-1 REFN 4f61d479-bf26-4ee8-b457-9342bef69998
 0 @1LExzbY7SIeMlc8ZuX3W@ OBJE
 1 _GUID 87275111-9f7e-46cb-aaa1-fdf2688e5169
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Spohner Media\N
@@ -9419,7 +10656,6 @@
 2 _TEXT New York State Archives; Albany, New York; State Populatio
 3 CONC n Census Schedules, 1905; Election District: E.D. 01; City
 3 CONC : Eaton; County: Madison; Page: 15
-1 REFN 766e9ab1-1db0-4a8e-868e-926703043e94
 0 @jm5U0YK9TICztoGdK2nf@ OBJE
 1 _GUID 8435d75c-8147-4d74-9975-19bd963ea7bb
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Spohner Media\N
@@ -9429,7 +10665,6 @@
 2 _TEXT New York State Archives; Albany, New York; State Populatio
 3 CONC n Census Schedules, 1915; Election District: 02; Assembly Di
 3 CONC strict: 01; City: Elbridge; County: Onondaga; Page: 01
-1 REFN df6457da-3bab-4847-a9a9-3d22bca0cc06
 0 @eItAgKkVQjGbyFzKF1pn@ OBJE
 1 _GUID ac1e1421-c751-48c9-9746-353f82172ecb
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Spohner Media\N
@@ -9439,7 +10674,6 @@
 2 _TEXT New York State Archives; Albany, New York; State Populatio
 3 CONC n Census Schedules, 1915; Election District: 01; Assembly Di
 3 CONC strict: 01; City: Eaton; County: Madison; Page: 15
-1 REFN 762430b5-3d29-4f0f-b840-b8fdcfb4c604
 0 @1hz6BHibQcOIKg8rYdge@ OBJE
 1 _GUID 67b6c8fd-3b6e-4c50-ae9f-d58f81c23102
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Spohner Media\N
@@ -9449,7 +10683,6 @@
 2 _TEXT Wills, 1792-1917; Will Index, 1792-1970; Author: New York. S
 3 CONC urrogate's Court (Herkimer County); Probate Place: Herkimer
 3 CONC , New York
-1 REFN ca4ab76c-0b81-48df-b87b-4f67a60f8ff3
 0 @riexrrwUR9me2i7wFBtl@ OBJE
 1 _GUID 8a8235cf-c071-4529-b1a2-14ac396354c5
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Spohner Media\N
@@ -9457,42 +10690,36 @@
 2 FORM jpg
 2 TITL Nye, Wilson G (14333-19) 1831-1907 & Candace L Stroogh
 2 _TEXT Location: Morrisville, Madison, New York
-1 REFN 0b6792cf-bcb0-44de-91cf-1f8965370827
 0 @QB2BuCYBRSuRW8CV6CaT@ OBJE
 1 _GUID dac433dc-87fa-424d-b3d0-20863718328f
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Spohner Media\U
 2 CONC .S. City Directories, 1821-1989(29).jpg
 2 FORM jpg
 2 TITL U.S. City Directories, 1821-1989
-1 REFN fcba23db-4793-4fe4-bca8-34e2c1ee0e60
 0 @YzUwltuNQaaPROM0wbj5@ OBJE
 1 _GUID 5eff0ed1-9a69-476d-81a3-c0c8f7046451
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Spohner Media\U
 2 CONC .S. City Directories, 1821-1989(31).jpg
 2 FORM jpg
 2 TITL U.S. City Directories, 1821-1989
-1 REFN 112fe6c1-ca5c-4b1c-90c2-c0cd9cb70cfe
 0 @9y0XzhHsR1C2H3YG2yY9@ OBJE
 1 _GUID 7ed8fa9c-1e41-48a2-8b0d-ee96c2515ac7
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Spohner Media\U
 2 CONC .S. City Directories, 1822-1995(4).jpg
 2 FORM jpg
 2 TITL U.S. City Directories, 1822-1995
-1 REFN 61c6e74b-2587-42da-a809-15c41aca8da4
 0 @XrYYFGawSK2joPInARjM@ OBJE
 1 _GUID 73cffd13-6be6-4a70-b9cc-62ddb39d5c7a
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Spohner Media\U
 2 CONC .S. City Directories, 1822-1995(11).jpg
 2 FORM jpg
 2 TITL U.S. City Directories, 1822-1995
-1 REFN e45bb164-eae4-4fe3-86e4-9e1c8ae9e254
 0 @vDD0GEbeQS2uuOdXcK70@ OBJE
 1 _GUID 2b59ec2a-c11e-47c3-aef0-5e254bc5e281
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Spohner Media\U
 2 CONC .S. City Directories, 1822-1995(12).jpg
 2 FORM jpg
 2 TITL U.S. City Directories, 1822-1995
-1 REFN c06150f6-125e-408c-b39d-9ac22e781dad
 0 @jqJGigdGSQCiCZnUSZHD@ OBJE
 1 _GUID d4323781-99bd-4436-919c-0cd0a72c951e
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Spohner Media\U
@@ -9503,7 +10730,6 @@
 3 CONC -1989
 2 _TEXT Holland Society of New York; New York, New York; Stone Arabi
 3 CONC a and Staten Island, Book 48
-1 REFN 4bfa1a5c-915a-4dce-8223-46033bbddf98
 0 @sQcLZxrbRnW2TuOKDJcT@ OBJE
 1 _GUID 3b96fb5f-fc0a-4b07-a26e-f8e80eaa14c6
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Spohner Media\U
@@ -9515,7 +10741,6 @@
 2 _TEXT The Archives of the Reformed Church in America; New Brunswic
 3 CONC k, New Jersey; Stone Arabia Church, Baptisms, Members, Death
 3 CONC s, 1739-1987
-1 REFN 10f65c9b-fd41-4ec7-a6b6-74bb3ab585b1
 0 @gDxp3KrOSYu5CtvdXzHr@ OBJE
 1 _GUID 979b7b67-aa46-4b83-be6b-bd81d78bb5c8
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Spohner Media\W
@@ -9523,7 +10748,6 @@
 2 FORM jpg
 2 TITL Wilson Nye 1831
 2 _DATE 10/2/2011 Andrew L.
-1 REFN e1c55e8e-cfe0-4d6a-9362-5b0896fb5689
 0 @ZGYLazsjS8uu8nWakZqs@ OBJE
 1 _GUID 3cdab7e3-8499-40b7-9269-fff2e0f6a64c
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Spohner Media\Z
@@ -9531,7 +10755,6 @@
 2 FORM jpg
 2 TITL Zoeller_Elisabeth
 2 _DATE 9/28/2013 8:35:06 PM
-1 REFN 827328c1-634f-4257-94e8-509b9786df27
 0 @M56@ OBJE
 1 _GUID 3645656b-dac8-42a2-ae61-6e8b5261e35d
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Spohner Media\e
