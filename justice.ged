@@ -14,9 +14,9 @@
 4 CONT Boston, MA 02109
 3 PHON (617) 227-6681
 1 DEST FTM
-1 FILE Justice_2020-06-11-19-30-54.ftm.ged
-1 DATE 11 JUN 2020
-2 TIME 19:28:14
+1 FILE Justice_2020-06-19-21-56-46.ftm.ged
+1 DATE 19 JUN 2020
+2 TIME 21:57:01
 0 @Umy2qBWIRUiwVSS6Hcn4@ SUBM
 1 NAME Christopher Alan Mosher
 2 EMAIL cmosher01@@gmail.com
@@ -100,6 +100,30 @@
 4 LONG W77.0821
 2 SOUR @mnCLLXYnQ9iigWGc6OQq@
 3 QUAY 1
+3 DATA
+4 TEXT Justice, Barbara<br />
+5 CONT State:
+5 CONT NC<br />
+5 CONT County:
+5 CONT Craven Co.<br />
+5 CONT Census/Enumeration year:
+5 CONT 1769<br />
+5 CONT <br />
+5 CONT Justice, Elias<br />
+5 CONT State:
+5 CONT NC<br />
+5 CONT County:
+5 CONT Craven Co.<br />
+5 CONT Census/Enumeration year:
+5 CONT 1769<br />
+5 CONT <br />
+5 CONT Justice, Silvanus<br />
+5 CONT State:
+5 CONT NC<br />
+5 CONT County:
+5 CONT Craven Co.<br />
+5 CONT Census/Enumeration year:
+5 CONT 1769
 1 _GUID 7c4fa119-144b-4f56-8119-478e206d0645
 1 _XY 160403 729
 0 @xjwB5wZTSlKhwoAEV9Hs@ INDI
@@ -282,17 +306,10 @@
 4 CONC rict: 082; Image: 0411
 3 OBJE @vsvup6udT4uB8QnhU2cT@
 3 _APID 6742:29892886
-2 SOUR @wjAqL1bxRgejhew4R2YB@
-3 PAGE Ancestry Family Tree
-3 DATA
-4 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=62861
-5 CONC &pid=1607
 2 SOUR @ZzXjWzLrTuuekxXGC19u@
 3 _APID 60525:70132717
 1 SEX F
 1 FAMS @uJJ7JYxRSky605zXNc2H@
-1 OBJE @c4yCzsyZR9SlHlm458wU@
-1 OBJE @XvzaInKzSqSyix7ldQuY@
 1 OBJE @Njr0F3QkRb2S3FTtO63D@
 1 BIRT
 2 DATE 17 DEC 1823
@@ -362,6 +379,7 @@
 2 PLAC Arcola Township Cemetery, Arcola, Douglas, Illinois, USA
 2 SOUR @ZzXjWzLrTuuekxXGC19u@
 3 _APID 60525:70132717
+2 OBJE @feA9Ink1TG6aNT0NKwd1@
 1 _GUID 30417573-46e8-4b74-a810-43b75d8132b0
 1 _XY 157304 1036
 0 @2zc7yhqTSp6bt0e5GQQl@ INDI
@@ -416,12 +434,7 @@
 4 CONC : 0018093
 3 OBJE @6r29y05xRRKExNJu1Nys@
 3 _APID 8057:3302058
-2 SOUR @wjAqL1bxRgejhew4R2YB@
-3 PAGE Ancestry Family Tree
-3 DATA
-4 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=62861
-5 CONC &pid=92
-2 SOUR @ZSC23gmCQ1SyO6E3XV2f@
+2 SOUR @S73@
 3 _APID 4802:1020526
 2 SOUR @lt20KFOuToWnB9azRMqU@
 3 PAGE Data Source: County Court Records - FHL # 0296803-0296808
@@ -479,14 +492,45 @@
 4 LONG W77.0821
 2 SOUR @F2xNzzNDRJSgwi3xLcLm@
 3 QUAY 2
+3 DATA
+4 TEXT Craven County<br />
+5 CONT [..]<br />
+5 CONT John C. Bryan 1 2 4 - 8<br />
+5 CONT [m16+ John Council Bryan<br />
+5 CONT m0-15 Thomas Bryan<br />
+5 CONT m0-15 Hardy Bryan<br />
+5 CONT f Elizabeth Oliver<br />
+5 CONT f Ann Maria Bryan<br />
+5 CONT f Elizabeth Bryan<br />
+5 CONT f Mary Bryan<br />
+5 CONT 8 slaves<br />
+5 CONT ]
 1 CENS
 2 DATE 04 AUG 1800
 2 PLAC New Bern, Craven, North Carolina, USA
 3 MAP
 4 LATI N35.1085
 4 LONG W77.0441
-2 SOUR @HFpa01mvTWWm26U5L8yu@
+2 SOUR @S60@
 3 QUAY 2
+3 DATA
+4 TEXT [p. 6]<br />
+5 CONT Newbern<br />
+5 CONT <hr />
+5 CONT [p. 7]<br />
+5 CONT John C. Bryan 1 - 2 - 1 3 2 - 1 - - 18<br />
+5 CONT [m0-9 ?<br />
+5 CONT m16-25 Hardy Bryan<br />
+5 CONT m16-25 Thomas Bryan<br />
+5 CONT m45+ John Council Bryan<br />
+5 CONT f0-9 Mary Bryan?<br />
+5 CONT f0-9 Alice Bryan?<br />
+5 CONT f0-9 Sally Bryan?<br />
+5 CONT f10-15 Elizabeth Bryan<br />
+5 CONT f10-15 Ann Maria Bryan<br />
+5 CONT f26-44 Mary Ann Fulford<br />
+5 CONT 18 slaves<br />
+5 CONT ]
 1 CENS
 2 DATE 06 AUG 1810
 2 PLAC New Bern, Craven, North Carolina, USA
@@ -501,9 +545,36 @@
 3 MAP
 4 LATI N35.1085
 4 LONG W77.0441
-2 SOUR @4cKVD5igQZuyeKM35bFR@
+2 SOUR @S64@
 3 QUAY 3
-2 SOUR @HvFiiybrSPu5Hf2mePlO@
+3 DATA
+4 TEXT Ann M Justice<br />
+5 CONT [m10-14 Alexander Justice (c14)<br />
+5 CONT m15-19 James Cicero Justice (18)<br />
+5 CONT m20-29 John Richard Justice (21)<br />
+5 CONT f10-14 Ann Mason Justice (12)<br />
+5 CONT f15-19 Elizabeth Justice (c23?)<br />
+5 CONT f50-59 Ann Maria --- (c52) mother, head of household<br />
+5 CONT note that father John W. Justice died 1831<br />
+5 CONT also in household were 22 slaves as follows:<br />
+5 CONT m10-23: 1<br />
+5 CONT m24-35: 2<br />
+5 CONT m36-54: 3<br />
+5 CONT m55-99: 1<br />
+5 CONT f0-9: 6<br />
+5 CONT f10-23: 3<br />
+5 CONT f24-35: 3<br />
+5 CONT f36-54: 2<br />
+5 CONT f55-99: 1<br />
+5 CONT ]<br />
+5 CONT 1 [person empl. in navigation of canals, lakes, rivers]<br /
+5 CONC >
+5 CONT 1 [learned professional engineer]
+2 SOUR @S63@
+3 DATA
+4 TEXT I. Disosway<br />
+5 CONT [m20-29 Israel Disosway (c32)]<br />
+5 CONT employed in commerce
 1 RESI
 2 DATE 1840
 2 PLAC New Bern, Craven, North Carolina, USA
@@ -599,6 +670,71 @@
 4 LATI N35.1204
 4 LONG W77.0821
 2 SOUR @cQ1Jq1OLSPeMjSv4v7Sa@
+3 DATA
+4 TEXT NORTH CAROLINA WILLS: A Testator Index, 1665-1900<br />
+5 CONT Thornton W. Mitchell<br />
+5 CONT Corrected and Revised Edition<br />
+5 CONT In one volume<br />
+5 CONT [title page]<br />
+5 CONT <hr />
+5 CONT [...]<br />
+5 CONT <u>028--Craven County</u><br />
+5 CONT Formed 1705 as Archdale Precinct of Bath County; name change
+5 CONC d to Craven
+5 CONT about 1712. Early records are believed to have been destroye
+5 CONC d during the
+5 CONT Tuscarora Indian War of 1712. Most, but not all, original wi
+5 CONC lls were filed with
+5 CONT the provincial secretary prior to 1760 and thereafter some C
+5 CONC raven County
+5 CONT wills were filed in the secretary of state<br />
+5 CONT [page] xx<br />
+5 CONT <hr />
+5 CONT records. From 1765 until December term, 1784, wills were
+5 CONT not recorded but the originals were filed in the clerk's
+5 CONT office. Beginning with December court, 1784, will books
+5 CONT were maintained, although part of Will Book C appears to
+5 CONT have been lost. After March term, 1862, until September
+5 CONT term, 1865, no wills were recorded in Craven County. There
+5 CONT is some indication that wills were proved in other counties
+5 CONT during that period; at least one is known to have been
+5 CONT proved in Lenoir county, the records of which burned in 1878
+5 CONT and 1880.<br />
+5 CONT [...]<br />
+5 CONT [page] xxi<br />
+5 CONT <hr />
+5 CONT [couldn't find any listings for Disosway]
+5 CONT <hr />
+5 CONT [... there are 7 listings for surname Justice in Craven Co.:
+5 CONC ]
+5 CONT <table border="1">
+5 CONT <tr><th>Name [of testator]</th><th>Co[unty proved]</th><th>D
+5 CONC ate [probated]</th><th>Recorded Copy</th><th>Original</th></
+5 CONC tr>
+5 CONT <tr><td>Justice, Alexander</td><td>028</td><td>1879</td><td>
+5 CONC WB-E/202</td><td>&nbsp;</td></tr>
+5 CONT <tr><td>Justice, Ann Maria</td><td>028</td><td>1843</td><td>
+5 CONC WB-D/84</td><td>AR</td></tr>
+5 CONT <tr><td>Justice, Elias</td><td>028</td><td>1784</td><td>WB-D
+5 CONC /240</td><td>AR</td></tr>
+5 CONT <tr><td>Justice, Elizabeth</td><td>028</td><td>1894</td><td>
+5 CONC WB-F/116</td><td>&nbsp;</td></tr>
+5 CONT <tr><td>Justice, Sidney E.</td><td>028</td><td>1879</td><td>
+5 CONC WB-E/206</td><td>AR</td></tr>
+5 CONT <tr><td>Justis, Joseph</td><td>028</td><td>1768</td><td>Orig
+5 CONC [inal] Only [no recorded copy]</td><td>AR</td></tr>
+5 CONT <tr><td>Justis, Selvenus</td><td>028</td><td>1774</td><td>Or
+5 CONC ig[inal] Only [no recorded copy]</td><td>AR</td></tr>
+5 CONT </table>
+5 CONT [In the "Recorded Copy" column, "WB" indicates that a copy o
+5 CONC f the will is in (Craven County probate court) Will Book, an
+5 CONC d
+5 CONT this is followed by volume/page, and "AR" in the "Original
+5 CONC " column indicates that there is an original will (or copy t
+5 CONC hereof) in the
+5 CONT North Carolina State Archives in Raleigh, NC.]<br />
+5 CONT [...]<br />
+5 CONT [page] 282
 2 SOUR @ePNB7NmLQRqId75EUtHh@
 3 PAGE Wills and Estate Papers (Craven County), 1663-1978; Author
 4 CONC : North Carolina. Division of Archives and History; Probat
@@ -632,8 +768,47 @@
 0 @brIVTTsqSoKsCtDRE3DA@ INDI
 1 REFN f7aee43d-acbc-43b2-8bb4-3b35d98910c4
 1 NAME Ann Rebecca /Bryan/
-2 SOUR @poXXsZD1QUukl42S9wKD@
+2 SOUR @S22@
 3 QUAY 1
+3 DATA
+4 TEXT 14.
+5 CONT JOHN COUNCIL BRYAN - also in Will book<br />
+5 CONT <br />
+5 CONT 11 February 1806 - wife MARY - house and lot where I now liv
+5 CONC e, Negroes
+5 CONT David and Nancy which she purchased with her own money, $16
+5 CONC 0 which I
+5 CONT borrowed from her; son HARDY - SS Trent - 250 acs adj SPAIGH
+5 CONC T, LEECH and
+5 CONT LANE and $100;
+5 CONT son THOMAS - land where he now lives called Chelsea - 350
+5 CONT acs and $100; daughters ANN MARIE BRYAN - 2 lots on NS Pollo
+5 CONC ck Street and
+5 CONT 1/7 of the estate plus 110 acs adj WEST, SMITH and MAHON an
+5 CONC d $1000;
+5 CONT grandchildren BETSY and MARIA TISDALE half a lot occupied b
+5 CONC y their father;
+5 CONT rest of estate divided by wife and children, BETSY, ANN, REB
+5 CONC ECCA, SALLY,
+5 CONT ALICE, and MARY BRYAN.
+5 CONT The minor children's estate to be held in trust.
+5 CONT Exec
+5 CONT wife
+5 CONT WIT - FRANCES HAWKS, MARY LANDY ?<br />
+5 CONT <br />
+5 CONT NOTE:
+5 CONT The estate records, when done are going to give us more info
+5 CONC rmation
+5 CONT on this estate<br />
+5 CONT <br />
+5 CONT From Sue<br />
+5 CONT <br />
+5 CONT John Council Bryan (1806) List of children includes Ann Rebe
+5 CONC cca.
+5 CONT There's no comma between these 2 names, so I think it's th
+5 CONC e same person.
+5 CONT Other children in the list clearly have commas separating th
+5 CONC e names.
 1 SEX F
 1 FAMC @wmBJXMotQaq831REc0KA@
 1 _GUID ae27e803-6fa1-4c30-9bd7-256258f899b3
@@ -719,22 +894,82 @@
 4 LATI N51.4611
 4 LONG W0.0667
 2 SOUR @9e7JYXgfSaySsy7l19M4@
+3 DATA
+4 TEXT "On 20 Dec 1673 Hodges Council made a gift of land as follow
+5 CONC s: "I Hodges Councill of the Lower Parish do give.... to Jos
+5 CONC eph Vick of ye said Parish, 50 acres on Beaver Dam Swamp, ad
+5 CONC jacent to Robert Lawrence... and furthermore it is agreed th
+5 CONC at if the said Joseph Vicks have any other child beside thi
+5 CONC s his present daughter, going by and bearing the name of Luc
+5 CONC y, she shall after the decease of her father enjoy the lan
+5 CONC d for her and her heirs, but if the aforesaid Jos. Vicks sha
+5 CONC ll have any more children by this, his present wife, sonne o
+5 CONC r daughter, neverthe less the above Lucy shall enjoy ye land
+5 CONC , but if the said Lucy shall decease without heirs, then th
+5 CONC e said land shall fall to either brother or sister, but if t
+5 CONC he said Joseph Vicks and his daughter Lucy shall both deceas
+5 CONC e without heirs, then the aforesaid shall fall unto ye sai
+5 CONC d Hodges Councill and his heirs again.
+5 CONT Signed Hodges Council<br />
+5 CONT Witnesses: John Brown, Rowland Buckley, & Richard Booth"<b
+5 CONC r />
+5 CONT This deed was recorded on 9 March 1681/2 (IOW DB1, p.480)
 1 RESI
-2 DATE FROM 1690 TO 1700
+2 DATE 1690
 2 PLAC Nansemond, Virginia, USA
 3 MAP
 4 LATI N36.7282
 4 LONG W76.5835
 2 SOUR @9e7JYXgfSaySsy7l19M4@
+3 DATA
+4 TEXT "On 20 Dec 1673 Hodges Council made a gift of land as follow
+5 CONC s: "I Hodges Councill of the Lower Parish do give.... to Jos
+5 CONC eph Vick of ye said Parish, 50 acres on Beaver Dam Swamp, ad
+5 CONC jacent to Robert Lawrence... and furthermore it is agreed th
+5 CONC at if the said Joseph Vicks have any other child beside thi
+5 CONC s his present daughter, going by and bearing the name of Luc
+5 CONC y, she shall after the decease of her father enjoy the lan
+5 CONC d for her and her heirs, but if the aforesaid Jos. Vicks sha
+5 CONC ll have any more children by this, his present wife, sonne o
+5 CONC r daughter, neverthe less the above Lucy shall enjoy ye land
+5 CONC , but if the said Lucy shall decease without heirs, then th
+5 CONC e said land shall fall to either brother or sister, but if t
+5 CONC he said Joseph Vicks and his daughter Lucy shall both deceas
+5 CONC e without heirs, then the aforesaid shall fall unto ye sai
+5 CONC d Hodges Councill and his heirs again.
+5 CONT Signed Hodges Council<br />
+5 CONT Witnesses: John Brown, Rowland Buckley, & Richard Booth"<b
+5 CONC r />
+5 CONT This deed was recorded on 9 March 1681/2 (IOW DB1, p.480)
 1 RESI
-2 DATE FROM 1700
+2 DATE 1700
 2 PLAC Craven, North Carolina, USA
 3 MAP
 4 LATI N35.1204
 4 LONG W77.0821
 2 SOUR @9e7JYXgfSaySsy7l19M4@
+3 DATA
+4 TEXT "On 20 Dec 1673 Hodges Council made a gift of land as follow
+5 CONC s: "I Hodges Councill of the Lower Parish do give.... to Jos
+5 CONC eph Vick of ye said Parish, 50 acres on Beaver Dam Swamp, ad
+5 CONC jacent to Robert Lawrence... and furthermore it is agreed th
+5 CONC at if the said Joseph Vicks have any other child beside thi
+5 CONC s his present daughter, going by and bearing the name of Luc
+5 CONC y, she shall after the decease of her father enjoy the lan
+5 CONC d for her and her heirs, but if the aforesaid Jos. Vicks sha
+5 CONC ll have any more children by this, his present wife, sonne o
+5 CONC r daughter, neverthe less the above Lucy shall enjoy ye land
+5 CONC , but if the said Lucy shall decease without heirs, then th
+5 CONC e said land shall fall to either brother or sister, but if t
+5 CONC he said Joseph Vicks and his daughter Lucy shall both deceas
+5 CONC e without heirs, then the aforesaid shall fall unto ye sai
+5 CONC d Hodges Councill and his heirs again.
+5 CONT Signed Hodges Council<br />
+5 CONT Witnesses: John Brown, Rowland Buckley, & Richard Booth"<b
+5 CONC r />
+5 CONT This deed was recorded on 9 March 1681/2 (IOW DB1, p.480)
 1 RESI
-2 DATE FROM 1706
+2 DATE 1706
 2 PLAC Bertie, North Carolina, USA
 3 MAP
 4 LATI N36.0591
@@ -742,7 +977,7 @@
 2 SOUR @4sPgOXMzQSOruKNjv351@
 3 QUAY 1
 1 DEAT
-2 DATE BEF MAR 1739
+2 DATE ABT 1738
 2 PLAC Craven, North Carolina, USA
 3 MAP
 4 LATI N35.1204
@@ -989,22 +1224,92 @@
 4 LONG W77.0821
 2 SOUR @F2xNzzNDRJSgwi3xLcLm@
 3 QUAY 3
+3 DATA
+4 TEXT Craven County<br />
+5 CONT [..]<br />
+5 CONT John C. Bryan 1 2 4 - 8<br />
+5 CONT [m16+ John Council Bryan<br />
+5 CONT m0-15 Thomas Bryan<br />
+5 CONT m0-15 Hardy Bryan<br />
+5 CONT f Elizabeth Oliver<br />
+5 CONT f Ann Maria Bryan<br />
+5 CONT f Elizabeth Bryan<br />
+5 CONT f Mary Bryan<br />
+5 CONT 8 slaves<br />
+5 CONT ]
 1 CENS
 2 DATE 04 AUG 1800
 2 PLAC New Bern, Craven, North Carolina, USA
 3 MAP
 4 LATI N35.1085
 4 LONG W77.0441
-2 SOUR @HFpa01mvTWWm26U5L8yu@
+2 SOUR @S60@
 3 QUAY 3
+3 DATA
+4 TEXT [p. 6]<br />
+5 CONT Newbern<br />
+5 CONT <hr />
+5 CONT [p. 7]<br />
+5 CONT John C. Bryan 1 - 2 - 1 3 2 - 1 - - 18<br />
+5 CONT [m0-9 ?<br />
+5 CONT m16-25 Hardy Bryan<br />
+5 CONT m16-25 Thomas Bryan<br />
+5 CONT m45+ John Council Bryan<br />
+5 CONT f0-9 Mary Bryan?<br />
+5 CONT f0-9 Alice Bryan?<br />
+5 CONT f0-9 Sally Bryan?<br />
+5 CONT f10-15 Elizabeth Bryan<br />
+5 CONT f10-15 Ann Maria Bryan<br />
+5 CONT f26-44 Mary Ann Fulford<br />
+5 CONT 18 slaves<br />
+5 CONT ]
 1 WILL
 2 DATE 11 FEB 1806
 2 PLAC New Bern, Craven, North Carolina, USA
 3 MAP
 4 LATI N35.1085
 4 LONG W77.0441
-2 SOUR @poXXsZD1QUukl42S9wKD@
+2 SOUR @S22@
 3 QUAY 1
+3 DATA
+4 TEXT 14.
+5 CONT JOHN COUNCIL BRYAN - also in Will book<br />
+5 CONT <br />
+5 CONT 11 February 1806 - wife MARY - house and lot where I now liv
+5 CONC e, Negroes
+5 CONT David and Nancy which she purchased with her own money, $16
+5 CONC 0 which I
+5 CONT borrowed from her; son HARDY - SS Trent - 250 acs adj SPAIGH
+5 CONC T, LEECH and
+5 CONT LANE and $100;
+5 CONT son THOMAS - land where he now lives called Chelsea - 350
+5 CONT acs and $100; daughters ANN MARIE BRYAN - 2 lots on NS Pollo
+5 CONC ck Street and
+5 CONT 1/7 of the estate plus 110 acs adj WEST, SMITH and MAHON an
+5 CONC d $1000;
+5 CONT grandchildren BETSY and MARIA TISDALE half a lot occupied b
+5 CONC y their father;
+5 CONT rest of estate divided by wife and children, BETSY, ANN, REB
+5 CONC ECCA, SALLY,
+5 CONT ALICE, and MARY BRYAN.
+5 CONT The minor children's estate to be held in trust.
+5 CONT Exec
+5 CONT wife
+5 CONT WIT - FRANCES HAWKS, MARY LANDY ?<br />
+5 CONT <br />
+5 CONT NOTE:
+5 CONT The estate records, when done are going to give us more info
+5 CONC rmation
+5 CONT on this estate<br />
+5 CONT <br />
+5 CONT From Sue<br />
+5 CONT <br />
+5 CONT John Council Bryan (1806) List of children includes Ann Rebe
+5 CONC cca.
+5 CONT There's no comma between these 2 names, so I think it's th
+5 CONC e same person.
+5 CONT Other children in the list clearly have commas separating th
+5 CONC e names.
 1 DEAT
 2 DATE 15 FEB 1807
 2 PLAC New Bern, Craven, North Carolina, USA
@@ -1013,6 +1318,19 @@
 4 LONG W77.0441
 2 SOUR @uGLfTOXnSVKbIOTN1bot@
 3 QUAY 1
+3 DATA
+4 TEXT From the Elizabeth Moore Papers, Collection 322, East Caroli
+5 CONC na Manuscript
+5 CONT Collection, J. Y. Joyner Library, East Carolina University
+5 CONC , Greenville, NC.
+5 CONT Permission to publish granted.
+5 CONT Transcribed by Florence Fulford Moore.<br />
+5 CONT NOTE:
+5 CONT RR = Raleigh Register newspaper<br />
+5 CONT <br />
+5 CONT DEATHS<br />
+5 CONT [...]<br />
+5 CONT John C. Bryan, Feb. 15, New Bern, RR, Mar. 30, 1807
 1 _GUID b0d8508f-c282-48cf-b3a6-de73474d2ef4
 1 _XY 162908 727
 0 @er3ft7veSce7Cdpzqxvc@ INDI
@@ -1626,7 +1944,7 @@
 4 LONG W76.7112
 2 SOUR @mbBLgPrLTEWTKKCxQSy5@
 1 DEAT
-2 DATE BEF MAR 1744
+2 DATE ABT 1743
 2 PLAC Craven, North Carolina, USA
 3 MAP
 4 LATI N35.1204
@@ -2083,9 +2401,20 @@
 4 LONG W78.5833
 2 SOUR @H5Xpa7hgTGyPQSiFPOan@
 3 QUAY 1
+3 DATA
+4 TEXT 1622 The Southampton, from London, arrived at Virginia<br />
+5 CONT <br />
+5 CONT Ship and Passenger Information:<br />
+5 CONT <br />
+5 CONT Passengers from the Port of London on the Southampton to Vir
+5 CONC ginia <br />
+5 CONT <br />
+5 CONT [...]<br />
+5 CONT Freame, John . . . . . -- Age 16 in Virginia Muster, Januar
+5 CONC y 21, 1624/5
 2 NOTE on ship "Southampton", from London
 1 RESI
-2 DATE FROM 1622 TO 1625
+2 DATE 1622
 2 PLAC Jordan Point, Prince George, Virginia, USA
 2 SOUR @5LsXjn4HQ0yYQoeiMO9U@
 3 QUAY 1
@@ -2113,6 +2442,17 @@
 2 PLAC Jordan Point, Prince George, Virginia, USA
 2 SOUR @H5Xpa7hgTGyPQSiFPOan@
 3 QUAY 1
+3 DATA
+4 TEXT 1622 The Southampton, from London, arrived at Virginia<br />
+5 CONT <br />
+5 CONT Ship and Passenger Information:<br />
+5 CONT <br />
+5 CONT Passengers from the Port of London on the Southampton to Vir
+5 CONC ginia <br />
+5 CONT <br />
+5 CONT [...]<br />
+5 CONT Freame, John . . . . . -- Age 16 in Virginia Muster, Januar
+5 CONC y 21, 1624/5
 1 DEAT
 2 DATE 17 DEC 1655
 2 PLAC Charles City, Virginia, USA
@@ -2359,7 +2699,7 @@
 4 CONC mber of Pages: 1; Submitter Code: DGS
 3 _APID 7836:493795
 1 RESI
-2 DATE FROM 1697
+2 DATE 1697
 2 PLAC Pamlico, North Carolina, USA
 3 MAP
 4 LATI N35.1503
@@ -2597,7 +2937,7 @@
 2 SOUR @tyILcGBxTGm4xs8NDvY6@
 3 OBJE @LeRrLW9BQvuXulz8w5Q0@
 3 _APID 1121:751539627
-2 SOUR @ZSC23gmCQ1SyO6E3XV2f@
+2 SOUR @S73@
 3 _APID 4802:1058873
 2 SOUR @vWqoaZPbQGyYvwnHAzpW@
 3 PAGE "North Carolina County Registers of Deeds," Record Group #48
@@ -2739,7 +3079,7 @@
 4 CONC numeration District: 105; Image: 0006
 3 OBJE @54oI7ULNQ0yk0Pba6bjB@
 3 _APID 6742:19653790
-2 SOUR @ZSC23gmCQ1SyO6E3XV2f@
+2 SOUR @S73@
 3 _APID 4802:1060136
 2 SOUR @lt20KFOuToWnB9azRMqU@
 3 PAGE Data Source: County Court Records - FHL # 0296803-0296808
@@ -2866,7 +3206,7 @@
 2 SOUR @mbBLgPrLTEWTKKCxQSy5@
 2 NOTE Hardy's Mill
 1 OCCU Burgess
-2 DATE FROM 1640 TO 01 MAR 1655
+2 DATE 1640
 2 PLAC Isle of Wight, Virginia, USA
 3 MAP
 4 LATI N36.907
@@ -2928,6 +3268,26 @@
 4 LATI N36.907
 4 LONG W76.7112
 2 SOUR @9e7JYXgfSaySsy7l19M4@
+3 DATA
+4 TEXT "On 20 Dec 1673 Hodges Council made a gift of land as follow
+5 CONC s: "I Hodges Councill of the Lower Parish do give.... to Jos
+5 CONC eph Vick of ye said Parish, 50 acres on Beaver Dam Swamp, ad
+5 CONC jacent to Robert Lawrence... and furthermore it is agreed th
+5 CONC at if the said Joseph Vicks have any other child beside thi
+5 CONC s his present daughter, going by and bearing the name of Luc
+5 CONC y, she shall after the decease of her father enjoy the lan
+5 CONC d for her and her heirs, but if the aforesaid Jos. Vicks sha
+5 CONC ll have any more children by this, his present wife, sonne o
+5 CONC r daughter, neverthe less the above Lucy shall enjoy ye land
+5 CONC , but if the said Lucy shall decease without heirs, then th
+5 CONC e said land shall fall to either brother or sister, but if t
+5 CONC he said Joseph Vicks and his daughter Lucy shall both deceas
+5 CONC e without heirs, then the aforesaid shall fall unto ye sai
+5 CONC d Hodges Councill and his heirs again.
+5 CONT Signed Hodges Council<br />
+5 CONT Witnesses: John Brown, Rowland Buckley, & Richard Booth"<b
+5 CONC r />
+5 CONT This deed was recorded on 9 March 1681/2 (IOW DB1, p.480)
 2 NOTE Year is given as "167_"; 1676 is a guess. Place is from RGB2
 3 CONC 4.GED.
 1 DEAT
@@ -2935,6 +3295,26 @@
 1 PROB
 2 DATE 09 JUN 1677
 2 SOUR @9e7JYXgfSaySsy7l19M4@
+3 DATA
+4 TEXT "On 20 Dec 1673 Hodges Council made a gift of land as follow
+5 CONC s: "I Hodges Councill of the Lower Parish do give.... to Jos
+5 CONC eph Vick of ye said Parish, 50 acres on Beaver Dam Swamp, ad
+5 CONC jacent to Robert Lawrence... and furthermore it is agreed th
+5 CONC at if the said Joseph Vicks have any other child beside thi
+5 CONC s his present daughter, going by and bearing the name of Luc
+5 CONC y, she shall after the decease of her father enjoy the lan
+5 CONC d for her and her heirs, but if the aforesaid Jos. Vicks sha
+5 CONC ll have any more children by this, his present wife, sonne o
+5 CONC r daughter, neverthe less the above Lucy shall enjoy ye land
+5 CONC , but if the said Lucy shall decease without heirs, then th
+5 CONC e said land shall fall to either brother or sister, but if t
+5 CONC he said Joseph Vicks and his daughter Lucy shall both deceas
+5 CONC e without heirs, then the aforesaid shall fall unto ye sai
+5 CONC d Hodges Councill and his heirs again.
+5 CONT Signed Hodges Council<br />
+5 CONT Witnesses: John Brown, Rowland Buckley, & Richard Booth"<b
+5 CONC r />
+5 CONT This deed was recorded on 9 March 1681/2 (IOW DB1, p.480)
 1 _GUID e019e8c8-a1f6-43f3-b840-f015ef61da94
 1 _XY 164139 227
 0 @c7TpXnw7S6upAbjomT4F@ INDI
@@ -3291,9 +3671,9 @@
 3 OBJE @LeRrLW9BQvuXulz8w5Q0@
 3 _APID 1121:601539627
 2 SOUR @S73@
-3 _APID 4802:58873
-2 SOUR @ZSC23gmCQ1SyO6E3XV2f@
 3 _APID 4802:151173
+2 SOUR @S73@
+3 _APID 4802:58873
 2 SOUR @lt20KFOuToWnB9azRMqU@
 3 PAGE Data Source: County Court Records - FHL # 0296803-0296808
 3 _APID 8909:2175338
@@ -3419,11 +3799,6 @@
 4 CONC ration District: 041; Image: 0684
 3 OBJE @8qi5loBjQDGfLiH0XBhW@
 3 _APID 6742:43033530
-2 SOUR @wjAqL1bxRgejhew4R2YB@
-3 PAGE Ancestry Family Tree
-3 DATA
-4 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=62861
-5 CONC &pid=65
 2 SOUR @ou0WJ3bOQ0SDdFjRzbRZ@
 3 QUAY 1
 2 SOUR @tyILcGBxTGm4xs8NDvY6@
@@ -3432,7 +3807,7 @@
 2 SOUR @iwr78NZEQ1eiXDUJL5ab@
 3 OBJE @rp1MVAAERHCelcHnQFZ1@
 3 _APID 60090:1788258
-2 SOUR @ZSC23gmCQ1SyO6E3XV2f@
+2 SOUR @S73@
 3 _APID 4802:1083113
 2 SOUR @vWqoaZPbQGyYvwnHAzpW@
 3 OBJE @rwFyvPgyQGKMVMnB5H1O@
@@ -3445,7 +3820,6 @@
 1 SEX F
 1 FAMC @iSwzCnTOQna7YU7ICqIy@
 1 FAMS @KpKAn5nXQE6Iew6cZZgB@
-1 OBJE @riaau2aUT6miFmv6KsbN@
 1 OBJE @SN6MqEmvScmNz9UXYhts@
 1 BIRT
 2 DATE NOV 1827
@@ -3495,9 +3869,36 @@
 3 MAP
 4 LATI N35.1085
 4 LONG W77.0441
-2 SOUR @4cKVD5igQZuyeKM35bFR@
+2 SOUR @S64@
 3 QUAY 3
-2 SOUR @HvFiiybrSPu5Hf2mePlO@
+3 DATA
+4 TEXT Ann M Justice<br />
+5 CONT [m10-14 Alexander Justice (c14)<br />
+5 CONT m15-19 James Cicero Justice (18)<br />
+5 CONT m20-29 John Richard Justice (21)<br />
+5 CONT f10-14 Ann Mason Justice (12)<br />
+5 CONT f15-19 Elizabeth Justice (c23?)<br />
+5 CONT f50-59 Ann Maria --- (c52) mother, head of household<br />
+5 CONT note that father John W. Justice died 1831<br />
+5 CONT also in household were 22 slaves as follows:<br />
+5 CONT m10-23: 1<br />
+5 CONT m24-35: 2<br />
+5 CONT m36-54: 3<br />
+5 CONT m55-99: 1<br />
+5 CONT f0-9: 6<br />
+5 CONT f10-23: 3<br />
+5 CONT f24-35: 3<br />
+5 CONT f36-54: 2<br />
+5 CONT f55-99: 1<br />
+5 CONT ]<br />
+5 CONT 1 [person empl. in navigation of canals, lakes, rivers]<br /
+5 CONC >
+5 CONT 1 [learned professional engineer]
+2 SOUR @S63@
+3 DATA
+4 TEXT I. Disosway<br />
+5 CONT [m20-29 Israel Disosway (c32)]<br />
+5 CONT employed in commerce
 2 NOTE household had 22 slaves
 1 RESI
 2 DATE BEF 1840
@@ -3505,7 +3906,11 @@
 3 MAP
 4 LATI N35.1085
 4 LONG W77.0441
-2 SOUR @HvFiiybrSPu5Hf2mePlO@
+2 SOUR @S63@
+3 DATA
+4 TEXT I. Disosway<br />
+5 CONT [m20-29 Israel Disosway (c32)]<br />
+5 CONT employed in commerce
 1 RESI
 2 DATE 1850
 2 PLAC New Bern, Craven, North Carolina, USA
@@ -3524,8 +3929,21 @@
 3 MAP
 4 LATI N35.1085
 4 LONG W77.0441
-2 SOUR @ZJCNMfS8RX6epqf1EZAT@
+2 SOUR @S66@
 3 QUAY 3
+3 DATA
+4 TEXT SCHEDULE I.--Free Inhabitants in New Berne in the County o
+5 CONC f Craven State of No Carolina enumerated by me, on the 13t
+5 CONC h day of Sept. 1850.<br />
+5 CONT [...]<br />
+5 CONT [Dwelling] 631<br />
+5 CONT [Family] 631<br />
+5 CONT <table border="1">
+5 CONT <tr><td>Eliz. Justice</td><td>33</td><td>F</td><td>[r$] 3000
+5 CONC </td><td>N.Ca.</td></tr>
+5 CONT <tr><td>Ann Justice</td><td>23</td><td>F</td><td>&nbsp;</td>
+5 CONC <td>N.Ca.</td></tr>
+5 CONT </table>
 1 RESI
 2 DATE 1860
 2 PLAC New Bern, Craven, North Carolina, USA
@@ -3547,6 +3965,38 @@
 4 LONG W77.0441
 2 SOUR @2WFvR20ORkKLsoMvLSqM@
 3 QUAY 3
+3 DATA
+4 TEXT dwelling #800<br />
+5 CONT family #793<br />
+5 CONT <table border="1">
+5 CONT <tr><td>name</td><td>&nbsp;</td><td>age</td><td>sex</td><td>
+5 CONC property value</td><td>&nbsp;</td><td>state born</td><td>&nb
+5 CONC sp;</td></tr>
+5 CONT <tr><td>Israel Disosway</td><td>44</td><td>M</td><td>$200
+5 CONC 0 r $20000[sic] p</td><td>NY</td><td>&nbsp;</td><td>&nbsp;</
+5 CONC td><td>&nbsp;</td></tr>
+5 CONT <tr><td>Anne Mariah ""</td><td>33</td><td>F</td><td>&nbsp;</
+5 CONC td><td>&nbsp;</td><td>&nbsp;</td><td>NC</td><td>&nbsp;</td><
+5 CONC /tr>
+5 CONT <tr><td>Jane E. ""</td><td>15</td><td>F</td><td>&nbsp;</td><
+5 CONC td>&nbsp;</td><td>&nbsp;</td><td>do</td><td>&nbsp;</td></tr>
+5 CONT <tr><td>Fannie M. ""</td><td>12</td><td>F</td><td>&nbsp;</td
+5 CONC ><td>&nbsp;</td><td>&nbsp;</td><td>do</td><td>&nbsp;</td></t
+5 CONC r>
+5 CONT <tr><td>William H. ""</td><td>11</td><td>M</td><td>&nbsp;</t
+5 CONC d><td>&nbsp;</td><td>&nbsp;</td><td>do</td><td>&nbsp;</td></
+5 CONC tr>
+5 CONT <tr><td>Mark ""</td><td>&nbsp;</td><td>9</td><td>M</td><td>&
+5 CONC nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>do</td></tr>
+5 CONT <tr><td>John I. ""</td><td>&nbsp;</td><td>4</td><td>F [sic]<
+5 CONC /td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>do</td>
+5 CONC </tr>
+5 CONT <tr><td>Regnild I. ""</td><td>3</td><td>M</td><td>&nbsp;</td
+5 CONC ><td>&nbsp;</td><td>&nbsp;</td><td>do</td><td>&nbsp;</td></t
+5 CONC r>
+5 CONT <tr><td>Hamilton ""</td><td>2</td><td>M</td><td>&nbsp;</td><
+5 CONC td>&nbsp;</td><td>&nbsp;</td><td>do</td><td>&nbsp;</td></tr>
+5 CONT </table>
 1 CENS
 2 DATE 17 JUN 1870
 2 PLAC New Bern, Craven, North Carolina, USA
@@ -3555,6 +4005,41 @@
 4 LONG W77.0441
 2 SOUR @AGijbc78TA2ftVarJlJf@
 3 QUAY 3
+3 DATA
+4 TEXT dwelling #91<br />
+5 CONT family #95<br />
+5 CONT <table border="1">
+5 CONT <tr><td>name</td><td>&nbsp;</td><td>age</td><td>sx rac</td><
+5 CONC td>occup.</td><td>property value</td><td>state d</td><td>sr
+5 CONC w (at school, read, write)</td><td>&nbsp;</td></tr>
+5 CONT <tr><td>Disosway Israel</td><td>54</td><td>M W</td><td>drugg
+5 CONC ist</td><td>$4000 r $3000 p</td><td>NY</td><td>-XX</td><td>&
+5 CONC nbsp;</td><td>&nbsp;</td></tr>
+5 CONT <tr><td>" Ann M</td><td>&nbsp;</td><td>40 [44]</td><td>F W</
+5 CONC td><td>keeping house</td><td>&nbsp;</td><td>NC</td><td>-XX</
+5 CONC td><td>&nbsp;</td></tr>
+5 CONT <tr><td>" William</td><td>&nbsp;</td><td>20</td><td>M W</td>
+5 CONC <td>druggist clerk</td><td>&nbsp;</td><td>NC</td><td>-XX</td
+5 CONC ><td>&nbsp;</td></tr>
+5 CONT <tr><td>" Justice</td><td>&nbsp;</td><td>12</td><td>M W</td>
+5 CONC <td>going to school</td><td>&nbsp;</td><td>NC</td><td>XXX</t
+5 CONC d><td>&nbsp;</td></tr>
+5 CONT <tr><td>" Hamilton</td><td>11</td><td>M W</td><td>" " "</td>
+5 CONC <td>&nbsp;</td><td>&nbsp;</td><td>NC</td><td>XXX</td><td>&nb
+5 CONC sp;</td></tr>
+5 CONT <tr><td>" Emma</td><td>&nbsp;</td><td>8</td><td>F W</td><td>
+5 CONC " " "</td><td>&nbsp;</td><td>&nbsp;</td><td>NC</td><td>XXX</
+5 CONC td></tr>
+5 CONT <tr><td>" Clarence</td><td>4</td><td>M W</td><td>at home</td
+5 CONC ><td>&nbsp;</td><td>&nbsp;</td><td>NC</td><td>&nbsp;</td><td
+5 CONC >&nbsp;</td></tr>
+5 CONT <tr><td>" John</td><td>&nbsp;</td><td>2</td><td>M W</td><td>
+5 CONC at home</td><td>&nbsp;</td><td>&nbsp;</td><td>NC</td><td>&nb
+5 CONC sp;</td></tr>
+5 CONT <tr><td>Justice Elizabeth</td><td>50</td><td>F W</td><td>a
+5 CONC t home</td><td>&nbsp;</td><td>&nbsp;</td><td>NC</td><td>-XX<
+5 CONC /td><td>&nbsp;</td></tr>
+5 CONT </table>
 1 RESI
 2 DATE 1870
 2 PLAC New Bern, Craven, North Carolina, USA
@@ -3576,6 +4061,38 @@
 4 LONG W77.0441
 2 SOUR @M0yLYlaTRUGeQjEI2KZm@
 3 QUAY 3
+3 DATA
+4 TEXT dwelling #18<br />
+5 CONT family #17<br />
+5 CONT <table border="1">
+5 CONT <tr><td>name</td><td>&nbsp;</td><td>r s</td><td>age</td><td>
+5 CONC relat</td><td>&nbsp;</td><td>&nbsp;</td><td>b, father b, mot
+5 CONC her b</td></tr>
+5 CONT <tr><td>Disosway Ann</td><td>W F</td><td>45</td><td>&nbsp;</
+5 CONC td><td>&nbsp;</td><td>&nbsp;</td><td>NC NC NC</td><td>&nbsp;
+5 CONC </td></tr>
+5 CONT <tr><td>- Justice</td><td>&nbsp;</td><td>W M</td><td>21</td>
+5 CONC <td>son</td><td>keeping house</td><td>NC NC NC</td><td>&nbsp
+5 CONC ;</td></tr>
+5 CONT <tr><td>- Annie</td><td>&nbsp;</td><td>W F</td><td>17</td><t
+5 CONC d>daughter</td><td>Clerk Clyde Steamer</td><td>NC NC NC</td>
+5 CONC <td>&nbsp;</td></tr>
+5 CONT <tr><td>- Clarence</td><td>W M</td><td>13</td><td>son</td><t
+5 CONC d>at home</td><td>&nbsp;</td><td>NC NC NC</td><td>&nbsp;</td
+5 CONC ></tr>
+5 CONT <tr><td>- John</td><td>&nbsp;</td><td>W M</td><td>11</td><td
+5 CONC >son</td><td>at shcool</td><td>&nbsp;</td><td>NC NC NC</td><
+5 CONC /tr>
+5 CONT <tr><td>Justice Elizabeth</td><td>W F</td><td>47</td><td>sis
+5 CONC ter</td><td>at school</td><td>&nbsp;</td><td>NC NC NC</td><t
+5 CONC d>&nbsp;</td></tr>
+5 CONT <tr><td>Harding Laney</td><td>W F</td><td>35</td><td>&nbsp;<
+5 CONC /td><td>house keeper</td><td>NC NC NC</td><td>&nbsp;</td><td
+5 CONC >&nbsp;</td></tr>
+5 CONT <tr><td>Edward Thomas</td><td>B M</td><td>18</td><td>servant
+5 CONC </td><td>servant</td><td>&nbsp;</td><td>NC NC NC</td><td>&nb
+5 CONC sp;</td></tr>
+5 CONT </table>
 1 RESI
 2 DATE 1880
 2 PLAC New Bern, Craven, North Carolina, USA
@@ -3598,6 +4115,29 @@
 4 LONG W77.0441
 2 SOUR @PDd186jjRWOH0eoUsTjF@
 3 QUAY 1
+3 DATA
+4 TEXT ISRAEL DISOSWAY.<br />
+5 CONT DIED JULY 11, 1874.<br />
+5 CONT AGED 59 YEARS.<br />
+5 CONT ----<br />
+5 CONT AND HIS WIFE<br />
+5 CONT ANN MARIA JUSTICE.<br />
+5 CONT DIED JULY 16, 1886.<br />
+5 CONT AGED 58 YEARS.<br />
+5 CONT ----<br />
+5 CONT "NEARER MY GOD TO THEE."<br />
+5 CONT -----<br />
+5 CONT [back]<br />
+5 CONT CHILDREN OF<br />
+5 CONT I. & A. M. DISOSWAY.<br />
+5 CONT JOHN RICHARD.<br />
+5 CONT AGED 6 YRS.<br />
+5 CONT ----<br />
+5 CONT MONTFORD BOYLAN.<br />
+5 CONT AGED 4 MOS.<br />
+5 CONT ----<br />
+5 CONT [base]<br />
+5 CONT DISOSWAY
 2 SOUR @ZzXjWzLrTuuekxXGC19u@
 3 PAGE "Find A Grave."
 3 _APID 60525:102916551
@@ -3609,6 +4149,29 @@
 2 PLAC Cedar Grove Cemetery, New Bern, Craven, North Carolina, USA
 2 SOUR @PDd186jjRWOH0eoUsTjF@
 3 QUAY 3
+3 DATA
+4 TEXT ISRAEL DISOSWAY.<br />
+5 CONT DIED JULY 11, 1874.<br />
+5 CONT AGED 59 YEARS.<br />
+5 CONT ----<br />
+5 CONT AND HIS WIFE<br />
+5 CONT ANN MARIA JUSTICE.<br />
+5 CONT DIED JULY 16, 1886.<br />
+5 CONT AGED 58 YEARS.<br />
+5 CONT ----<br />
+5 CONT "NEARER MY GOD TO THEE."<br />
+5 CONT -----<br />
+5 CONT [back]<br />
+5 CONT CHILDREN OF<br />
+5 CONT I. & A. M. DISOSWAY.<br />
+5 CONT JOHN RICHARD.<br />
+5 CONT AGED 6 YRS.<br />
+5 CONT ----<br />
+5 CONT MONTFORD BOYLAN.<br />
+5 CONT AGED 4 MOS.<br />
+5 CONT ----<br />
+5 CONT [base]<br />
+5 CONT DISOSWAY
 2 SOUR @ZzXjWzLrTuuekxXGC19u@
 3 PAGE "Find A Grave," previous duplicate merged record.
 3 _APID 60525:94080729
@@ -3617,8 +4180,7 @@
 3 _APID 60525:102916551
 2 SOUR @aaG5j4kLQ868LlRQfsE8@
 3 _APID 70634:3107193
-2 NOTE date is a guess;
-3 CONT findagrave.com lists it as "Cedar Grove Cemetery" (Find A Gr
+2 NOTE findagrave.com lists it as "Cedar Grove Cemetery" (Find A Gr
 3 CONC ave Memorial# 28305030)
 1 _GUID 30e8bb91-5594-4f61-a862-7ba87e39c37b
 1 _XY 158780 1039
@@ -3684,6 +4246,30 @@
 4 LONG W77.0821
 2 SOUR @mnCLLXYnQ9iigWGc6OQq@
 3 QUAY 1
+3 DATA
+4 TEXT Justice, Barbara<br />
+5 CONT State:
+5 CONT NC<br />
+5 CONT County:
+5 CONT Craven Co.<br />
+5 CONT Census/Enumeration year:
+5 CONT 1769<br />
+5 CONT <br />
+5 CONT Justice, Elias<br />
+5 CONT State:
+5 CONT NC<br />
+5 CONT County:
+5 CONT Craven Co.<br />
+5 CONT Census/Enumeration year:
+5 CONT 1769<br />
+5 CONT <br />
+5 CONT Justice, Silvanus<br />
+5 CONT State:
+5 CONT NC<br />
+5 CONT County:
+5 CONT Craven Co.<br />
+5 CONT Census/Enumeration year:
+5 CONT 1769
 2 NOTE Since Elias, Barabara, and Silvanus are the only Justices li
 3 CONC sted in Craven Co. in this census, I assume that they are th
 3 CONC is Elias and his mother Barbara, and his grandfather Silvanu
@@ -3748,6 +4334,71 @@
 4 LATI N35.1204
 4 LONG W77.0821
 2 SOUR @cQ1Jq1OLSPeMjSv4v7Sa@
+3 DATA
+4 TEXT NORTH CAROLINA WILLS: A Testator Index, 1665-1900<br />
+5 CONT Thornton W. Mitchell<br />
+5 CONT Corrected and Revised Edition<br />
+5 CONT In one volume<br />
+5 CONT [title page]<br />
+5 CONT <hr />
+5 CONT [...]<br />
+5 CONT <u>028--Craven County</u><br />
+5 CONT Formed 1705 as Archdale Precinct of Bath County; name change
+5 CONC d to Craven
+5 CONT about 1712. Early records are believed to have been destroye
+5 CONC d during the
+5 CONT Tuscarora Indian War of 1712. Most, but not all, original wi
+5 CONC lls were filed with
+5 CONT the provincial secretary prior to 1760 and thereafter some C
+5 CONC raven County
+5 CONT wills were filed in the secretary of state<br />
+5 CONT [page] xx<br />
+5 CONT <hr />
+5 CONT records. From 1765 until December term, 1784, wills were
+5 CONT not recorded but the originals were filed in the clerk's
+5 CONT office. Beginning with December court, 1784, will books
+5 CONT were maintained, although part of Will Book C appears to
+5 CONT have been lost. After March term, 1862, until September
+5 CONT term, 1865, no wills were recorded in Craven County. There
+5 CONT is some indication that wills were proved in other counties
+5 CONT during that period; at least one is known to have been
+5 CONT proved in Lenoir county, the records of which burned in 1878
+5 CONT and 1880.<br />
+5 CONT [...]<br />
+5 CONT [page] xxi<br />
+5 CONT <hr />
+5 CONT [couldn't find any listings for Disosway]
+5 CONT <hr />
+5 CONT [... there are 7 listings for surname Justice in Craven Co.:
+5 CONC ]
+5 CONT <table border="1">
+5 CONT <tr><th>Name [of testator]</th><th>Co[unty proved]</th><th>D
+5 CONC ate [probated]</th><th>Recorded Copy</th><th>Original</th></
+5 CONC tr>
+5 CONT <tr><td>Justice, Alexander</td><td>028</td><td>1879</td><td>
+5 CONC WB-E/202</td><td>&nbsp;</td></tr>
+5 CONT <tr><td>Justice, Ann Maria</td><td>028</td><td>1843</td><td>
+5 CONC WB-D/84</td><td>AR</td></tr>
+5 CONT <tr><td>Justice, Elias</td><td>028</td><td>1784</td><td>WB-D
+5 CONC /240</td><td>AR</td></tr>
+5 CONT <tr><td>Justice, Elizabeth</td><td>028</td><td>1894</td><td>
+5 CONC WB-F/116</td><td>&nbsp;</td></tr>
+5 CONT <tr><td>Justice, Sidney E.</td><td>028</td><td>1879</td><td>
+5 CONC WB-E/206</td><td>AR</td></tr>
+5 CONT <tr><td>Justis, Joseph</td><td>028</td><td>1768</td><td>Orig
+5 CONC [inal] Only [no recorded copy]</td><td>AR</td></tr>
+5 CONT <tr><td>Justis, Selvenus</td><td>028</td><td>1774</td><td>Or
+5 CONC ig[inal] Only [no recorded copy]</td><td>AR</td></tr>
+5 CONT </table>
+5 CONT [In the "Recorded Copy" column, "WB" indicates that a copy o
+5 CONC f the will is in (Craven County probate court) Will Book, an
+5 CONC d
+5 CONT this is followed by volume/page, and "AR" in the "Original
+5 CONC " column indicates that there is an original will (or copy t
+5 CONC hereof) in the
+5 CONT North Carolina State Archives in Raleigh, NC.]<br />
+5 CONT [...]<br />
+5 CONT [page] 282
 2 SOUR @ePNB7NmLQRqId75EUtHh@
 3 PAGE Wills and Estate Papers (Craven County), 1663-1978; Author
 4 CONC : North Carolina. Division of Archives and History; Probat
@@ -3863,8 +4514,42 @@
 4 CONC ration District: 041; Image: 0684
 3 OBJE @8qi5loBjQDGfLiH0XBhW@
 3 _APID 6742:43033531
-2 SOUR @ZJCNMfS8RX6epqf1EZAT@
-2 SOUR @DWMkCjvQQ9CD1nuBdTKD@
+2 SOUR @S66@
+3 DATA
+4 TEXT SCHEDULE I.--Free Inhabitants in New Berne in the County o
+5 CONC f Craven State of No Carolina enumerated by me, on the 13t
+5 CONC h day of Sept. 1850.<br />
+5 CONT [...]<br />
+5 CONT [Dwelling] 631<br />
+5 CONT [Family] 631<br />
+5 CONT <table border="1">
+5 CONT <tr><td>Eliz. Justice</td><td>33</td><td>F</td><td>[r$] 3000
+5 CONC </td><td>N.Ca.</td></tr>
+5 CONT <tr><td>Ann Justice</td><td>23</td><td>F</td><td>&nbsp;</td>
+5 CONC <td>N.Ca.</td></tr>
+5 CONT </table>
+2 SOUR @S65@
+3 DATA
+4 TEXT SCHEDULE I.--Free Inhabitants in New Berne in the County o
+5 CONC f Craven State of No Carolina enumerated by me, on the 10t
+5 CONC h day of Sept. 1850.<br />
+5 CONT [...]<br />
+5 CONT [Dwelling] 603<br />
+5 CONT [Family] 603<br />
+5 CONT <table border="1">
+5 CONT <tr><td>[name</td><td>age</td><td>sex</td><td>occup.</td><td
+5 CONC >real $</td><td>state born]</td></tr>
+5 CONT <tr><td>Israel Disosway</td><td>32</td><td>M</td><td>druggis
+5 CONC t</td><td>5000</td><td>N. York</td></tr>
+5 CONT <tr><td>Susan M.</td><td>26</td><td>F</td><td>&nbsp;</td><td
+5 CONC >&nbsp;</td><td>N.Ca.</td></tr>
+5 CONT <tr><td>Jane E.</td><td>4</td><td>F</td><td>&nbsp;</td><td>&
+5 CONC nbsp;</td><td>N.Ca.</td></tr>
+5 CONT <tr><td>Francis M.</td><td>2</td><td>F</td><td>&nbsp;</td><t
+5 CONC d>&nbsp;</td><td>N.Ca.</td></tr>
+5 CONT <tr><td>William</td><td>7/12</td><td>M</td><td>&nbsp;</td><t
+5 CONC d>&nbsp;</td><td>N.Ca.</td></tr>
+5 CONT </table>
 1 RESI
 2 DATE 1850
 2 PLAC New Bern, Craven, North Carolina, USA
@@ -3943,7 +4628,7 @@
 3 OBJE @AmTAglnvQZu7wni7niEB@
 3 _APID 8054:12659494
 2 SOUR @IQUdJc6gSXSH40pfzCXH@
-2 SOUR @ZSC23gmCQ1SyO6E3XV2f@
+2 SOUR @S73@
 3 _APID 4802:1083135
 2 SOUR @lt20KFOuToWnB9azRMqU@
 3 PAGE Data Source: County Court Records - FHL # 0296803-0296808
@@ -4045,11 +4730,6 @@
 4 CONC crofilm: 1240240
 3 OBJE @cYQil2KnSYa9GyC3ER8c@
 3 _APID 7602:645793
-2 SOUR @wjAqL1bxRgejhew4R2YB@
-3 PAGE Ancestry Family Tree
-3 DATA
-4 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=62861
-5 CONC &pid=984
 2 SOUR @ou0WJ3bOQ0SDdFjRzbRZ@
 3 QUAY 1
 2 SOUR @ZzXjWzLrTuuekxXGC19u@
@@ -4057,9 +4737,6 @@
 1 SEX M
 1 FAMC @iSwzCnTOQna7YU7ICqIy@
 1 FAMS @uJJ7JYxRSky605zXNc2H@
-1 OBJE @hN0TRm7zTG6UWarWY6ZE@
-1 OBJE @feA9Ink1TG6aNT0NKwd1@
-1 OBJE @7uZtJ7FqQaqrs1ykF8Gf@
 1 BIRT
 2 DATE 07 AUG 1821
 2 PLAC New Bern, Craven, North Carolina, USA
@@ -4175,6 +4852,7 @@
 2 PLAC Arcola Township Cemetery, Arcola, Douglas, Illinois, USA
 2 SOUR @ZzXjWzLrTuuekxXGC19u@
 3 _APID 60525:70132792
+2 OBJE @feA9Ink1TG6aNT0NKwd1@
 1 _GUID e50e4747-c0f5-48f2-92a4-67e161b31686
 1 _XY 157462 1036
 0 @dKJzfygGSJKuJv5U0om6@ INDI
@@ -4295,7 +4973,7 @@
 3 _APID 8054:12659200
 2 SOUR @ou0WJ3bOQ0SDdFjRzbRZ@
 3 QUAY 1
-2 SOUR @ZSC23gmCQ1SyO6E3XV2f@
+2 SOUR @S73@
 3 _APID 4802:60136
 2 SOUR @lt20KFOuToWnB9azRMqU@
 3 PAGE Data Source: County Court Records - FHL # 0296803-0296808
@@ -4380,13 +5058,8 @@
 4 CONC 18085
 3 OBJE @9vtejc0mR1S0O8xBaNBv@
 3 _APID 8058:182169
-2 SOUR @wjAqL1bxRgejhew4R2YB@
-3 PAGE Ancestry Family Tree
-3 DATA
-4 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=62861
-5 CONC &pid=93
 2 SOUR @2UNYccWMTqaL9HNP9zg5@
-2 SOUR @ZSC23gmCQ1SyO6E3XV2f@
+2 SOUR @S73@
 3 _APID 4802:20526
 2 SOUR @lt20KFOuToWnB9azRMqU@
 3 PAGE Data Source: County Court Records - FHL # 0296803-0296808
@@ -4422,8 +5095,14 @@
 3 MAP
 4 LATI N35.1085
 4 LONG W77.0441
-2 SOUR @Fs4su2zeSrq86W5zeVe9@
+2 SOUR @S59@
 3 QUAY 3
+3 DATA
+4 TEXT Newbern<br />
+5 CONT [...]<br />
+5 CONT John Justice [m16-25]<br />
+5 CONT [...]<br />
+5 CONT Rebecca Justice [f45+] [also slaves:] 11
 1 CENS
 2 DATE 06 AUG 1810
 2 PLAC New Bern, Craven, North Carolina, USA
@@ -4451,6 +5130,30 @@
 4 LONG W77.0441
 2 SOUR @vzpRVHQUR4KUjWUCwmEG@
 3 QUAY 3
+3 DATA
+4 TEXT Coppey for New Bern No 6<br />
+5 CONT [...]<br />
+5 CONT John Justice<br />
+5 CONT [m0-9 ? (b1819-1820)<br />
+5 CONT m0-9 John Richard Justice (1)<br />
+5 CONT m16-17 ? (b1803-1804)<br />
+5 CONT m16-25 ? (b1795-1804)<br />
+5 CONT m26-45 John W. Justice (42)<br />
+5 CONT f0-9 Elizabeth Justice (3)<br />
+5 CONT f16-25 ? (b1795-1804)<br />
+5 CONT f16-25 ? (b1795-1804)<br />
+5 CONT f26-45 Ann Maria (wife) (32)<br />
+5 CONT ]<br />
+5 CONT persons engaged in commerce 9 [presumably the whole family]<
+5 CONC br />
+5 CONT slaves [21 total:]<br />
+5 CONT [m0-13] 6<br />
+5 CONT [m26-44] 4<br />
+5 CONT [m45+] 2<br />
+5 CONT [f0-13] 3<br />
+5 CONT [f14-25] 2<br />
+5 CONT [f26-44] 2<br />
+5 CONT [f45+] 2
 1 CENS
 2 DATE 01 JUN 1830
 2 PLAC New Bern, Craven, North Carolina, USA
@@ -4459,6 +5162,31 @@
 4 LONG W77.0441
 2 SOUR @JX7SgwQZRue6lnpgQdkh@
 3 QUAY 3
+3 DATA
+4 TEXT Newbern<br />
+5 CONT [...]<br />
+5 CONT John Justice<br />
+5 CONT [m0-4 Alexander Justice (c5)<br />
+5 CONT m5-9 James Cicero Justice (9)<br />
+5 CONT m10-14 John Richard Justice (11)<br />
+5 CONT m15-19 ? (b: c1810-c1815)<br />
+5 CONT m20-29 ? (b: c1800-c1810)<br />
+5 CONT m50-59 John W. Justice (c52), father, head of household<br /
+5 CONC >
+5 CONT f0-4 Ann Mason Justice (2)<br />
+5 CONT f10-14 Elizabeth Justice (c12)<br />
+5 CONT f20-29 (b: c1800-c1810)<br />
+5 CONT f30-39 Ann Maria --- (c42), mother<br />
+5 CONT also in household were 35 slaves as follows:<br />
+5 CONT m0-9: 3<br />
+5 CONT m10-23: 6<br />
+5 CONT m24-35: 10<br />
+5 CONT m36-54: 1<br />
+5 CONT f0-9: 6<br />
+5 CONT f10-23: 4<br />
+5 CONT f24-35: 2<br />
+5 CONT f55-99: 3<br />
+5 CONT ]
 2 NOTE household had 35 slaves
 1 RESI
 2 DATE 1830
@@ -4752,6 +5480,14 @@
 4 LONG W77.0441
 2 SOUR @30rsDgupTk2f0hWChLPn@
 3 QUAY 3
+3 DATA
+4 TEXT Rebecca Justice<br />
+5 CONT [m0-15 John W.(c12) or Sidney (c8) or James (c4)?<br />
+5 CONT f Rebecca ---, mother, head of household<br />
+5 CONT f Polly Justice<br />
+5 CONT where is Hannah (c12)<br />
+5 CONT ]<br />
+5 CONT slaves 11
 1 RESI
 2 DATE 1800
 2 PLAC New Bern, Craven, North Carolina, USA
@@ -4770,8 +5506,14 @@
 3 MAP
 4 LATI N35.1085
 4 LONG W77.0441
-2 SOUR @Fs4su2zeSrq86W5zeVe9@
+2 SOUR @S59@
 3 QUAY 3
+3 DATA
+4 TEXT Newbern<br />
+5 CONT [...]<br />
+5 CONT John Justice [m16-25]<br />
+5 CONT [...]<br />
+5 CONT Rebecca Justice [f45+] [also slaves:] 11
 2 NOTE household had 11 slaves
 1 DEAT
 2 DATE ABT 24 JUL 1823
@@ -4860,6 +5602,30 @@
 4 LONG W77.0821
 2 SOUR @mnCLLXYnQ9iigWGc6OQq@
 3 QUAY 1
+3 DATA
+4 TEXT Justice, Barbara<br />
+5 CONT State:
+5 CONT NC<br />
+5 CONT County:
+5 CONT Craven Co.<br />
+5 CONT Census/Enumeration year:
+5 CONT 1769<br />
+5 CONT <br />
+5 CONT Justice, Elias<br />
+5 CONT State:
+5 CONT NC<br />
+5 CONT County:
+5 CONT Craven Co.<br />
+5 CONT Census/Enumeration year:
+5 CONT 1769<br />
+5 CONT <br />
+5 CONT Justice, Silvanus<br />
+5 CONT State:
+5 CONT NC<br />
+5 CONT County:
+5 CONT Craven Co.<br />
+5 CONT Census/Enumeration year:
+5 CONT 1769
 1 WILL
 2 DATE 09 OCT 1769
 2 PLAC Craven, North Carolina, USA
@@ -4987,6 +5753,20 @@
 4 LATI N37.3516
 4 LONG W77.0614
 2 SOUR @K1w59eW1QxqLiJcLQXMm@
+3 DATA
+4 TEXT 1656<br />
+5 CONT From " Virginia Colonial Abstracts" Vol. III<br />
+5 CONT Charles City County, Court Orders, 1655-1658<br />
+5 CONT pg. 50 (1656)<br />
+5 CONT William Justice hath proved right by testimony of Capt. Thom
+5 CONC as Stegge and Mrs. Mary ffitzgarrett to 1200 acres of land f
+5 CONC or the charge of Importation of Mary Sherwood, ffrancis Nels
+5 CONC on, Ann Lawrence, W. Phillips, Jo Barber, Arthur Lawrence, A
+5 CONC les Mitchell, Joseph Erreene, Sara Lawrence, Mathew Bayule
+5 CONC , Wm Prise, Wm Ballance, Tho: Whittier [Whitter], Edmond Joy
+5 CONC ner, JO: HALLEY, Rebecca fframe, Tho: Hayslwood, Eliz: Heath
+5 CONC , Rich: Lee, Wm Lawrence, Peter Plum'er, Wm Coleman, Mary La
+5 CONC wrence twice.
 1 DEAT
 2 DATE 03 FEB 1664
 2 PLAC Charles City, Virginia, USA
@@ -5127,6 +5907,19 @@
 4 LONG W77.0821
 2 SOUR @F2xNzzNDRJSgwi3xLcLm@
 3 QUAY 2
+3 DATA
+4 TEXT Craven County<br />
+5 CONT [..]<br />
+5 CONT John C. Bryan 1 2 4 - 8<br />
+5 CONT [m16+ John Council Bryan<br />
+5 CONT m0-15 Thomas Bryan<br />
+5 CONT m0-15 Hardy Bryan<br />
+5 CONT f Elizabeth Oliver<br />
+5 CONT f Ann Maria Bryan<br />
+5 CONT f Elizabeth Bryan<br />
+5 CONT f Mary Bryan<br />
+5 CONT 8 slaves<br />
+5 CONT ]
 1 _GUID 719701e8-e504-41b6-98a7-277ba3deefb2
 1 _XY 164661 822
 0 @UHam8Ud4QmmOLxfsCsAx@ INDI
@@ -5267,7 +6060,7 @@
 2 DATE ABT 1690
 2 SOUR @Wv62VR8YSVe3bT3VNl7e@
 1 RESI
-2 DATE FROM 1690 TO 1710
+2 DATE ABT 1700
 2 PLAC Dublin, Dublin, Ireland
 3 MAP
 4 LATI N52.5744
@@ -5601,7 +6394,7 @@
 4 CONC y Film: 803894
 3 OBJE @JMTXkf45SHmwJUs5LMTP@
 3 _APID 7667:41154069
-2 SOUR @ZSC23gmCQ1SyO6E3XV2f@
+2 SOUR @S73@
 3 _APID 4802:1151173
 2 SOUR @lt20KFOuToWnB9azRMqU@
 3 PAGE Data Source: County Court Records - FHL # 0296803-0296808
@@ -6655,9 +7448,9 @@
 4 LATI N35.4843
 4 LONG W81.2228
 2 SOUR @S73@
-3 _APID 4802:58873
-2 SOUR @ZSC23gmCQ1SyO6E3XV2f@
 3 _APID 4802:1058873
+2 SOUR @S73@
+3 _APID 4802:58873
 2 SOUR @vWqoaZPbQGyYvwnHAzpW@
 3 PAGE "North Carolina County Registers of Deeds," Record Group #48
 4 CONC , North Carolina State Archives, Raleigh; Green, Sidney; bon
@@ -6702,7 +7495,7 @@
 3 MAP
 4 LATI N35.1085
 4 LONG W77.0441
-2 SOUR @ZSC23gmCQ1SyO6E3XV2f@
+2 SOUR @S73@
 3 _APID 4802:1151173
 2 SOUR @lt20KFOuToWnB9azRMqU@
 3 PAGE Data Source: County Court Records - FHL # 0296803-0296808
@@ -6808,6 +7601,9 @@
 4 LATI N35.1085
 4 LONG W77.0441
 2 SOUR @IDPB50HnR4GPdlTLLajW@
+3 DATA
+4 TEXT J. Justice married Dec 31, 1807, Maria Bryan, both of New Be
+5 CONC rn, NC
 2 SOUR @NPRAGNEPQh64SAfKsTUN@
 3 QUAY 1
 2 SOUR @lt20KFOuToWnB9azRMqU@
@@ -7078,13 +7874,7 @@
 1 ADDR http://www.Ancestry.com
 1 EMAIL
 1 PHON
-0 @H91HOuLrQxOXy8zMr3To@ REPO
-1 NAME Ancestry.com, II, OLD
-1 ADDR
-1 EMAIL
-1 PHON
 0 @L364v03MTruFubxHSaYG@ SOUR
-1 REFN 0c77b33e-0be4-40ed-8962-a3f857878028
 1 REPO @jsk6dvTsRoOoMI0Co3S5@
 1 TITL 1790 United States Federal Census
 1 AUTH Ancestry.com
@@ -7092,7 +7882,6 @@
 2 CONC e: 2010
 1 _APID 5058
 0 @dWvhQr0CRU6qFaf4HTow@ SOUR
-1 REFN 645ef800-763b-4740-bf5c-0e314b0a7bca
 1 REPO @jsk6dvTsRoOoMI0Co3S5@
 1 TITL 1800 United States Federal Census
 1 AUTH Ancestry.com
@@ -7100,7 +7889,6 @@
 2 CONC : 2010
 1 _APID 7590
 0 @yOiDT7PuQpqZQH4RrG1x@ SOUR
-1 REFN 35819295-cb53-4440-9ef4-373ba83836a2
 1 REPO @jsk6dvTsRoOoMI0Co3S5@
 1 TITL 1820 United States Federal Census
 1 AUTH Ancestry.com
@@ -7108,7 +7896,6 @@
 2 CONC e: 2010
 1 _APID 7734
 0 @AriCXBKaQe6JSHdFJzSR@ SOUR
-1 REFN b6ad44a7-1345-419e-a9e7-ccfde07fed42
 1 REPO @jsk6dvTsRoOoMI0Co3S5@
 1 TITL 1830 United States Federal Census
 1 AUTH Ancestry.com
@@ -7116,7 +7903,6 @@
 2 CONC e: 2010
 1 _APID 8058
 0 @HVSex3EeReaEjgGvG3OK@ SOUR
-1 REFN 033b90de-da44-43f6-b9ae-eca9c0f26448
 1 REPO @jsk6dvTsRoOoMI0Co3S5@
 1 TITL 1840 United States Federal Census
 1 AUTH Ancestry.com
@@ -7124,7 +7910,6 @@
 2 CONC e: 2010
 1 _APID 8057
 0 @o6Xlbk0jTdyRixv0xQdd@ SOUR
-1 REFN 54f91d57-a5bb-4980-b7a6-0f30e35d3dee
 1 REPO @jsk6dvTsRoOoMI0Co3S5@
 1 TITL 1850 U.S. Federal Census - Slave Schedules
 1 AUTH Ancestry.com
@@ -7132,7 +7917,6 @@
 2 CONC : 2004
 1 _APID 8055
 0 @9fpft4cyRuu0T3Oow62U@ SOUR
-1 REFN 833e22fd-2295-4335-ad68-0fa1d41a2395
 1 REPO @jsk6dvTsRoOoMI0Co3S5@
 1 TITL 1850 United States Federal Census
 1 AUTH Ancestry.com
@@ -7140,7 +7924,6 @@
 2 CONC e: 2009
 1 _APID 8054
 0 @COAw5Qc6SiOK4rSkdCIc@ SOUR
-1 REFN d6af3b5b-69c3-4632-8d03-253a19ee3b52
 1 REPO @jsk6dvTsRoOoMI0Co3S5@
 1 TITL 1860 United States Federal Census
 1 AUTH Ancestry.com
@@ -7148,7 +7931,6 @@
 2 CONC e: 2009
 1 _APID 7667
 0 @ZxtAiaxWROqB7SROlHBO@ SOUR
-1 REFN 19fa57ad-4685-4a91-9b38-6eb40a63f74d
 1 REPO @jsk6dvTsRoOoMI0Co3S5@
 1 TITL 1870 United States Federal Census
 1 AUTH Ancestry.com
@@ -7156,7 +7938,6 @@
 2 CONC e: 2009
 1 _APID 7163
 0 @OGkHyQXuRcGEkJTOgIEu@ SOUR
-1 REFN 2cdd5488-c3cb-4bf5-be2c-e315050c2406
 1 REPO @jsk6dvTsRoOoMI0Co3S5@
 1 TITL 1880 United States Federal Census
 1 AUTH Ancestry.com and The Church of Jesus Christ of Latter-day Sa
@@ -7165,195 +7946,72 @@
 2 CONC : 2010
 1 _APID 6742
 0 @u0vHNeCnQlmJdhYRGdMT@ SOUR
-1 REFN 8f5b9799-b325-43b3-b4cf-4a5f15be38c0
 1 REPO @jsk6dvTsRoOoMI0Co3S5@
 1 TITL 1900 United States Federal Census
 1 AUTH Ancestry.com
-1 PUBL Ancestry.com Operations Inc; Location: Provo, UT, USA; Date
+1 PUBL Ancestry.com Operations Inc; Location:  Provo, UT, USA; Date
 2 CONC : 2004
 1 _APID 7602
 0 @Wv62VR8YSVe3bT3VNl7e@ SOUR
-1 REFN cccffb58-160b-4859-9d73-5d42133dc766
 1 TITL Ancestral File
 1 AUTH LDS
 1 PUBL http://www.familysearch.org/
-0 @wjAqL1bxRgejhew4R2YB@ SOUR
-1 REFN 3b21e735-9f37-45f3-a58f-288328b05df9
-1 REPO @jsk6dvTsRoOoMI0Co3S5@
-1 TITL Ancestry Family Trees
-1 PUBL Online publication - Provo, UT, USA: Ancestry.com.  Origina
-2 CONC l data:  Family Tree files submitted by Ancestry members.
-1 TEXT This information comes from 1 or more individual Ancestry Fa
-2 CONC mily Tree files. This source citation points you to a curren
-2 CONC t version of those files.
-2 CONT Note:
-2 CONT The owners of these tree files may have removed or changed i
-2 CONC nformation since this source citation was created.
 0 @8lZlsfR6TGqvDsSMMiyd@ SOUR
-1 REFN 71603494-e0f2-45b0-aa58-13311e13da03
 1 TITL Bluebonnets and Buckeyes
 1 AUTH Robicheaux, Jean, and Mullen, Regina
 1 PUBL http://members.aol.com/_ht_a/mullenrlr/blue.htm
 0 @ckb1p60vSzOdGEIuy2wi@ SOUR
-1 REFN eb5da723-254e-4f1c-8004-ef5d6ce3ae07
 1 TITL Brooks/Wiles/Slattery/Ganung Family
 1 AUTH Richards, Martha Ann Brooks
 1 PUBL Ancestry World Tree at Ancestry.com
 0 @mnCLLXYnQ9iigWGc6OQq@ SOUR
-1 REFN 627345de-cc85-4244-b98a-7fad556697ce
 1 TITL Colonial America, 1607-1789 Census Index
 1 PUBL From Genealogy.com
-1 TEXT Justice, Barbara<br />
-2 CONT State:
-2 CONT NC<br />
-2 CONT County:
-2 CONT Craven Co.<br />
-2 CONT Census/Enumeration year:
-2 CONT 1769<br />
-2 CONT <br />
-2 CONT Justice, Elias<br />
-2 CONT State:
-2 CONT NC<br />
-2 CONT County:
-2 CONT Craven Co.<br />
-2 CONT Census/Enumeration year:
-2 CONT 1769<br />
-2 CONT <br />
-2 CONT Justice, Silvanus<br />
-2 CONT State:
-2 CONT NC<br />
-2 CONT County:
-2 CONT Craven Co.<br />
-2 CONT Census/Enumeration year:
-2 CONT 1769<br />
 0 @9e7JYXgfSaySsy7l19M4@ SOUR
-1 REFN c75b5efd-bdb1-4d44-951e-a995f1f74a48
 1 TITL Council Documentation
 1 AUTH Hughes, B. J.
 1 PUBL http://www.bjhughes.org/coundoc.html
-1 TEXT "On 20 Dec 1673 Hodges Council made a gift of land as follow
-2 CONC s: "I Hodges Councill of the Lower Parish do give.... to Jos
-2 CONC eph Vick of ye said Parish, 50 acres on Beaver Dam Swamp, ad
-2 CONC jacent to Robert Lawrence... and furthermore it is agreed th
-2 CONC at if the said Joseph Vicks have any other child beside thi
-2 CONC s his present daughter, going by and bearing the name of Luc
-2 CONC y, she shall after the decease of her father enjoy the lan
-2 CONC d for her and her heirs, but if the aforesaid Jos. Vicks sha
-2 CONC ll have any more children by this, his present wife, sonne o
-2 CONC r daughter, neverthe less the above Lucy shall enjoy ye land
-2 CONC , but if the said Lucy shall decease without heirs, then th
-2 CONC e said land shall fall to either brother or sister, but if t
-2 CONC he said Joseph Vicks and his daughter Lucy shall both deceas
-2 CONC e without heirs, then the aforesaid shall fall unto ye sai
-2 CONC d Hodges Councill and his heirs again.
-2 CONT Signed Hodges Council<br />
-2 CONT Witnesses: John Brown, Rowland Buckley, & Richard Booth"<b
-2 CONC r />
-2 CONT This deed was recorded on 9 March 1681/2 (IOW DB1, p.480)<b
-2 CONC r />
-2 CONT ...<br />
 0 @IDPB50HnR4GPdlTLLajW@ SOUR
-1 REFN f2b35de8-0eaf-47bc-87fa-80b79c5b63e8
 1 TITL Craven County Marriage Bonds
 1 AUTH Potts, Guy
 1 PUBL http://files.usgwarchives.net/nc/craven/marriages/bonds01.tx
 2 CONC t
-1 TEXT J. Justice married Dec 31, 1807, Maria Bryan, both of New Be
-2 CONC rn, NC
 0 @ou0WJ3bOQ0SDdFjRzbRZ@ SOUR
-1 REFN b82d7357-ba1b-41ca-a934-d57c6fc9bbf0
 1 TITL Craven County, NC - Church - Christ Church Parish Baptism Re
 2 CONC cords
 1 AUTH Potts, Guy
 1 PUBL http://files.usgwarchives.net/nc/craven/churches/chrchurbapt
 2 CONC s.txt
 0 @2UNYccWMTqaL9HNP9zg5@ SOUR
-1 REFN 566b178f-271c-45c4-a845-bfff8dae8dce
 1 TITL Craven County, NC - Church - Christ Church Parish Burial Rec
 2 CONC ords
 1 AUTH Marble, Martha
 1 PUBL ftp://ftp.rootsweb.com/pub/usgenweb/nc/craven/churches/chrch
 2 CONC urburials.txt
 0 @VLfi9VU0QHGmRKjC18EH@ SOUR
-1 REFN df196091-6063-447d-abee-fd8bc466cc68
 1 TITL CRAVEN COUNTY, NC - Collection - Bryan Family Estate Records
 1 AUTH Guptill, Sue
 1 PUBL http://ftp.rootsweb.com/pub/usgenweb/nc/craven/misc/bryanest
 2 CONC s.txt
-0 @poXXsZD1QUukl42S9wKD@ SOUR
-1 REFN 7320f90f-d550-493c-8964-acb824b36560
-1 TITL CRAVEN COUNTY, NC - Wills - BRYAN FAMILY COLLECTION
+0 @S22@ SOUR
+1 TITL Craven County, NC - Wills - Bryan Family Collection
 1 AUTH Marble, Martha
 1 PUBL http://searches.rootsweb.com/usgenweb/archives/nc/craven/wil
 2 CONC ls/bryanfamW.txt
-1 TEXT 14.
-2 CONT JOHN COUNCIL BRYAN - also in Will book<br />
-2 CONT <br />
-2 CONT 11 February 1806 - wife MARY - house and lot where I now liv
-2 CONC e, Negroes
-2 CONT David and Nancy which she purchased with her own money, $16
-2 CONC 0 which I
-2 CONT borrowed from her; son HARDY - SS Trent - 250 acs adj SPAIGH
-2 CONC T, LEECH and
-2 CONT LANE and $100;
-2 CONT son THOMAS - land where he now lives called Chelsea - 350
-2 CONT acs and $100; daughters ANN MARIE BRYAN - 2 lots on NS Pollo
-2 CONC ck Street and
-2 CONT 1/7 of the estate plus 110 acs adj WEST, SMITH and MAHON an
-2 CONC d $1000;
-2 CONT grandchildren BETSY and MARIA TISDALE half a lot occupied b
-2 CONC y their father;
-2 CONT rest of estate divided by wife and children, BETSY, ANN, REB
-2 CONC ECCA, SALLY,
-2 CONT ALICE, and MARY BRYAN.
-2 CONT The minor children's estate to be held in trust.
-2 CONT Exec
-2 CONT wife
-2 CONT WIT - FRANCES HAWKS, MARY LANDY ?<br />
-2 CONT <br />
-2 CONT NOTE:
-2 CONT The estate records, when done are going to give us more info
-2 CONC rmation
-2 CONT on this estate<br />
-2 CONT <br />
-2 CONT From Sue<br />
-2 CONT <br />
-2 CONT John Council Bryan (1806) List of children includes Ann Rebe
-2 CONC cca.
-2 CONT There's no comma between these 2 names, so I think it's th
-2 CONC e same person.
-2 CONT Other children in the list clearly have commas separating th
-2 CONC e names.
 0 @uGLfTOXnSVKbIOTN1bot@ SOUR
-1 REFN 85bbd502-7dfb-4ee9-8724-5191969d73a1
 1 TITL Craven County, NC Vitals--Deaths, 1799-1825
 1 AUTH Moore, Florence Fulford
 1 PUBL http://ftp.rootsweb.com/pub/usgenweb/nc/craven/vitals/1799dt
 2 CONC hs.txt
-1 TEXT From the Elizabeth Moore Papers, Collection 322, East Caroli
-2 CONC na Manuscript
-2 CONT Collection, J. Y. Joyner Library, East Carolina University
-2 CONC , Greenville, NC.
-2 CONT Permission to publish granted.
-2 CONT Transcribed by Florence Fulford Moore.<br />
-2 CONT NOTE:
-2 CONT RR = Raleigh Register newspaper<br />
-2 CONT <br />
-2 CONT DEATHS<br />
-2 CONT [...]<br />
-2 CONT John C. Bryan, Feb. 15, New Bern, RR, Mar. 30, 1807<br />
 0 @Oyw0BqZZRTeb32MoN4pb@ SOUR
-1 REFN afb1f545-6e6c-49b1-826d-60c2f0ffe921
 1 TITL Descendants of Roger Green
 1 AUTH Green, W.
 1 PUBL http://greeneforest.tripod.com/furnifold_green.htm
 0 @4sPgOXMzQSOruKNjv351@ SOUR
-1 REFN 1ad0499d-b0fe-49a0-8722-b3b2aa85c0ac
 1 TITL Edwin Etheredge Family Genealogy [Web Site]
 1 AUTH Etheredge, Edwin
 1 PUBL http://freepages.genealogy.rootsweb.com/~ethrdge/
 0 @WDvx8UaFQjKFAslv1BOm@ SOUR
-1 REFN 66c4b7d8-d995-4df9-994b-4695234f8e0e
 1 REPO @jsk6dvTsRoOoMI0Co3S5@
 1 TITL Family Data Collection - Births
 1 AUTH Edmund West, comp.
@@ -7361,7 +8019,6 @@
 2 CONC : 2001
 1 _APID 5769
 0 @ARSZQ3nRTwioTAxeqimq@ SOUR
-1 REFN 4da052a6-cad6-49da-98bd-d595fabb6904
 1 REPO @jsk6dvTsRoOoMI0Co3S5@
 1 TITL Family Data Collection - Deaths
 1 AUTH Edmund West, comp.
@@ -7369,7 +8026,6 @@
 2 CONC : 2001
 1 _APID 5771
 0 @FKV4Riy9T4mpDI2lrsCc@ SOUR
-1 REFN 26b58549-fb39-433e-962a-23c9ab2f83fa
 1 REPO @jsk6dvTsRoOoMI0Co3S5@
 1 TITL Family Data Collection - Individual Records
 1 AUTH Edmund West, comp.
@@ -7377,7 +8033,6 @@
 2 CONC : 2000
 1 _APID 4725
 0 @ybUSCecST9e3HWlaAfmU@ SOUR
-1 REFN 2c786c6f-1d26-4c9e-b50b-a7d09a18068b
 1 REPO @jsk6dvTsRoOoMI0Co3S5@
 1 TITL Family Data Collection - Marriages
 1 AUTH Edmund West, comp.
@@ -7385,80 +8040,13 @@
 2 CONC : 2001
 1 _APID 5774
 0 @cQ1Jq1OLSPeMjSv4v7Sa@ SOUR
-1 REFN b0025527-9b45-4af3-92fe-80c98f445d99
 1 TITL Genealogical Records: North Carolina Wills, 1665-1900
 1 PUBL From Genealogy.com
-1 TEXT NORTH CAROLINA WILLS: A Testator Index, 1665-1900<br />
-2 CONT Thornton W. Mitchell<br />
-2 CONT Corrected and Revised Edition<br />
-2 CONT In one volume<br />
-2 CONT [title page]<br />
-2 CONT <hr />
-2 CONT [...]<br />
-2 CONT <u>028--Craven County</u><br />
-2 CONT Formed 1705 as Archdale Precinct of Bath County; name change
-2 CONC d to Craven
-2 CONT about 1712. Early records are believed to have been destroye
-2 CONC d during the
-2 CONT Tuscarora Indian War of 1712. Most, but not all, original wi
-2 CONC lls were filed with
-2 CONT the provincial secretary prior to 1760 and thereafter some C
-2 CONC raven County
-2 CONT wills were filed in the secretary of state<br />
-2 CONT [page] xx<br />
-2 CONT <hr />
-2 CONT records. From 1765 until December term, 1784, wills were
-2 CONT not recorded but the originals were filed in the clerk's
-2 CONT office. Beginning with December court, 1784, will books
-2 CONT were maintained, although part of Will Book C appears to
-2 CONT have been lost. After March term, 1862, until September
-2 CONT term, 1865, no wills were recorded in Craven County. There
-2 CONT is some indication that wills were proved in other counties
-2 CONT during that period; at least one is known to have been
-2 CONT proved in Lenoir county, the records of which burned in 1878
-2 CONT and 1880.<br />
-2 CONT [...]<br />
-2 CONT [page] xxi<br />
-2 CONT <hr />
-2 CONT [couldn't find any listings for Disosway]
-2 CONT <hr />
-2 CONT [... there are 7 listings for surname Justice in Craven Co.:
-2 CONC ]
-2 CONT <table border="1">
-2 CONT <tr><th>Name [of testator]</th><th>Co[unty proved]</th><th>D
-2 CONC ate [probated]</th><th>Recorded Copy</th><th>Original</th></
-2 CONC tr>
-2 CONT <tr><td>Justice, Alexander</td><td>028</td><td>1879</td><td>
-2 CONC WB-E/202</td><td>&nbsp;</td></tr>
-2 CONT <tr><td>Justice, Ann Maria</td><td>028</td><td>1843</td><td>
-2 CONC WB-D/84</td><td>AR</td></tr>
-2 CONT <tr><td>Justice, Elias</td><td>028</td><td>1784</td><td>WB-D
-2 CONC /240</td><td>AR</td></tr>
-2 CONT <tr><td>Justice, Elizabeth</td><td>028</td><td>1894</td><td>
-2 CONC WB-F/116</td><td>&nbsp;</td></tr>
-2 CONT <tr><td>Justice, Sidney E.</td><td>028</td><td>1879</td><td>
-2 CONC WB-E/206</td><td>AR</td></tr>
-2 CONT <tr><td>Justis, Joseph</td><td>028</td><td>1768</td><td>Orig
-2 CONC [inal] Only [no recorded copy]</td><td>AR</td></tr>
-2 CONT <tr><td>Justis, Selvenus</td><td>028</td><td>1774</td><td>Or
-2 CONC ig[inal] Only [no recorded copy]</td><td>AR</td></tr>
-2 CONT </table>
-2 CONT [In the "Recorded Copy" column, "WB" indicates that a copy o
-2 CONC f the will is in (Craven County probate court) Will Book, an
-2 CONC d
-2 CONT this is followed by volume/page, and "AR" in the "Original
-2 CONC " column indicates that there is an original will (or copy t
-2 CONC hereof) in the
-2 CONT North Carolina State Archives in Raleigh, NC.]<br />
-2 CONT [...]<br />
-2 CONT [page] 282<br />
 0 @hQiwUucLQI2rke9QZFtT@ SOUR
-1 REFN 3d4d7ee5-3299-4ad2-8409-acb384e4969c
 1 TITL Ghotes of Virginia, William Justice
 1 AUTH Burn, Jack and Burn, Mary Jane
 1 PUBL http://www.esva.net/ghotes/wjustice/
 0 @ZVXo9ZVITYqTGirKpR5Z@ SOUR
-1 REFN e03d52f4-4c3a-464c-a930-89a62d26f113
 1 REPO @jsk6dvTsRoOoMI0Co3S5@
 1 TITL Global, Find A Grave Index for Burials at Sea and other Sele
 2 CONC ct Burial Locations, 1300s-Current
@@ -7467,49 +8055,22 @@
 2 CONC e: 2012
 1 _APID 60541
 0 @PDd186jjRWOH0eoUsTjF@ SOUR
-1 REFN 0cb15e12-60e7-4dd5-876e-903e97f0b146
 1 TITL Gravestone of Disosway, Israel, and Justice, Ann Maria
 1 PUBL Maple Grove Cemetery, New Bern, NC
-1 TEXT ISRAEL DISOSWAY.<br />
-2 CONT DIED JULY 11, 1874.<br />
-2 CONT AGED 59 YEARS.<br />
-2 CONT ----<br />
-2 CONT AND HIS WIFE<br />
-2 CONT ANN MARIA JUSTICE.<br />
-2 CONT DIED JULY 16, 1886.<br />
-2 CONT AGED 58 YEARS.<br />
-2 CONT ----<br />
-2 CONT "NEARER MY GOD TO THEE."<br />
-2 CONT -----<br />
-2 CONT [back]<br />
-2 CONT CHILDREN OF<br />
-2 CONT I. & A. M. DISOSWAY.<br />
-2 CONT JOHN RICHARD.<br />
-2 CONT AGED 6 YRS.<br />
-2 CONT ----<br />
-2 CONT MONTFORD BOYLAN.<br />
-2 CONT AGED 4 MOS.<br />
-2 CONT ----<br />
-2 CONT [base]<br />
-2 CONT DISOSWAY<br />
 0 @5LsXjn4HQ0yYQoeiMO9U@ SOUR
-1 REFN da25290c-1f9e-4c0b-bb5a-8418d4a878c3
 1 TITL Hitchcock Family
 1 AUTH Dukes, Lena Hitchcock
 1 PUBL http://www.gencircles.com/users/lenadukes/1/
 0 @IQUdJc6gSXSH40pfzCXH@ SOUR
-1 REFN 61610d14-884c-456d-843d-a0a83612f39d
 1 TITL International Genealogical Index (IGI)
 1 AUTH LDS
 1 PUBL http://www.familysearch.org/
 0 @NnJEkoRpTXqqI6z3cSpq@ SOUR
-1 REFN 3c25f9c0-4e9a-4afa-95c4-e22bda28b49d
 1 TITL Justice, Smith, Harless, Ferrell, Curry, Cyfers, Williams, S
 2 CONC lone, Smedley, and Stanton Ancestry Page
 1 AUTH Justice, Jeffrey, and Justice, Kaytrina
 1 PUBL http://www.charleston.quik.com/jeffkat/index.htm
 0 @EirothqERH2nQNYNtuoH@ SOUR
-1 REFN 3d7944cb-c042-4773-bd3a-13fe13bb9a62
 1 REPO @jsk6dvTsRoOoMI0Co3S5@
 1 TITL Maryland, Wills and Probate Records, 1604-1878
 1 AUTH Ancestry.com
@@ -7517,7 +8078,6 @@
 2 CONC e: 2015
 1 _APID 9068
 0 @3H80MYpSRCeJrVZcHDL3@ SOUR
-1 REFN c3d5283e-0080-4518-9ddb-4c207ee6238a
 1 REPO @jsk6dvTsRoOoMI0Co3S5@
 1 TITL Millennium File
 1 AUTH Heritage Consulting
@@ -7525,25 +8085,17 @@
 2 CONC : 2003
 1 _APID 7249
 0 @GqRY6va8Sge9RBkCvFNL@ SOUR
-1 REFN 49740c41-a21d-4a3e-9f81-e69270d2e9bc
 1 TITL noah-scott family trees
 1 AUTH Scott, Nancy
 1 PUBL Ancestry World Tree #2232436 from http://www.ancestry.com
-1 TEXT [In this source, all dates are given as "1 JUN" so I assum
-2 CONC e only the year is correct.]
+1 NOTE In this source, all dates are given as "1 JUN" so I assume o
+2 CONC nly the year is correct.
 0 @NPRAGNEPQh64SAfKsTUN@ SOUR
-1 REFN 74fae554-bc0d-4c9a-bc62-c5e8f897f333
 1 TITL North Carolina Marriage Bonds, 1741-1868
 1 AUTH Ancestry.com
-1 PUBL Ancestry.com
-1 TEXT Source Information:
-2 CONT Ancestry.com, comp. North Carolina Marriage Bonds, 1741-1868
-2 CONC . [database online] Provo, UT: Ancestry.com, 2000. Origina
-2 CONC l data: State of North Carolina. An Index to Marriage Bond
-2 CONC s Filed in the North Carolina State Archives. Raleigh, NC: N
-2 CONC orth Carolina Division of Archives and History, 1977.
+1 PUBL Ancestry.com Operations, Inc.; Location: Provo. UT, USA; Dat
+2 CONC e: 2000
 0 @hRUSv9odRUSzyM8FfBGR@ SOUR
-1 REFN 0bac2cd8-1f6e-4970-aac5-f498d7a10ee9
 1 REPO @jsk6dvTsRoOoMI0Co3S5@
 1 TITL North Carolina, Compiled Census and Census Substitutes Index
 2 CONC , 1790-1890
@@ -7552,7 +8104,6 @@
 2 CONC : 1999
 1 _APID 3566
 0 @tyILcGBxTGm4xs8NDvY6@ SOUR
-1 REFN ff037286-3c81-448f-8863-74d926a747bd
 1 REPO @jsk6dvTsRoOoMI0Co3S5@
 1 TITL North Carolina, Death Certificates, 1909-1976
 1 AUTH Ancestry.com
@@ -7560,7 +8111,6 @@
 2 CONC : 2007
 1 _APID 1121
 0 @iwr78NZEQ1eiXDUJL5ab@ SOUR
-1 REFN 3f2001d9-2941-4261-b87c-bfd923b54d48
 1 REPO @jsk6dvTsRoOoMI0Co3S5@
 1 TITL North Carolina, Deaths, 1906-1930
 1 AUTH Ancestry.com
@@ -7574,16 +8124,7 @@
 1 PUBL Ancestry.com Operations Inc; Location: Provo, UT, USA; Date
 2 CONC : 2000
 1 _APID 4802
-0 @ZSC23gmCQ1SyO6E3XV2f@ SOUR
-1 REFN eff27c04-724f-4405-9b00-5f83199cb9a4
-1 REPO @jsk6dvTsRoOoMI0Co3S5@
-1 TITL North Carolina, Marriage Bonds, 1741-1868
-1 AUTH Ancestry.com
-1 PUBL Ancestry.com Operations Inc; Location: Provo, UT, USA; Date
-2 CONC : 2000
-1 _APID 4802
 0 @lt20KFOuToWnB9azRMqU@ SOUR
-1 REFN 8c5d31da-2784-4e57-9cf5-829a108dfc76
 1 REPO @jsk6dvTsRoOoMI0Co3S5@
 1 TITL North Carolina, Marriage Index, 1741-2004
 1 AUTH Ancestry.com
@@ -7591,7 +8132,6 @@
 2 CONC : 2007
 1 _APID 8909
 0 @vWqoaZPbQGyYvwnHAzpW@ SOUR
-1 REFN 5ded9d15-60f3-489a-ab93-a30a1fd0d499
 1 REPO @jsk6dvTsRoOoMI0Co3S5@
 1 TITL North Carolina, Marriage Records, 1741-2011
 1 AUTH Ancestry.com
@@ -7599,7 +8139,6 @@
 2 CONC e: 2015
 1 _APID 60548
 0 @ePNB7NmLQRqId75EUtHh@ SOUR
-1 REFN 654186e4-416d-42ce-93f0-f3131fda24ab
 1 REPO @jsk6dvTsRoOoMI0Co3S5@
 1 TITL North Carolina, Wills and Probate Records, 1665-1998
 1 AUTH Ancestry.com
@@ -7607,40 +8146,25 @@
 2 CONC e: 2015
 1 _APID 9061
 0 @Pv9QrJkbRKOHSFsgIu6S@ SOUR
-1 REFN 685fc53c-5f74-4927-9373-0fac317711cf
 1 TITL Pamela Pearson Prokasy Ancestry
 1 AUTH Prokasy, Bill
 1 PUBL Ancestry Word Tree pprokasy at http://www.ancestry.com/
 0 @mbBLgPrLTEWTKKCxQSy5@ SOUR
-1 REFN c2d3029d-4f3a-4504-99f6-5f9d30ea3705
 1 TITL RGB24.GED
 1 AUTH Bush, Robert
 1 PUBL Ancestry World Tree DB 2550597
-1 TEXT Robert Bush: bushrg@@appstate.edu<br />
-2 CONT name that amost all dates in this source are given as "1 JUN
-2 CONC " (i.e., June 1st), and so are incorrect.
+1 NOTE Note that almost all dates in this source are given as "1 JU
+2 CONC N" (i.e., June 1st), and therefore should be assumed to be i
+2 CONC ncorrect.
 0 @H5Xpa7hgTGyPQSiFPOan@ SOUR
-1 REFN 13ecdb70-e7c2-410c-afe5-c0898cf65006
 1 TITL Southampton, at American Plantations & Colonies [web site]
 1 AUTH Langford, Thomas
 1 PUBL http://englishamerica.home.att.net/spls/622va006.htm
-1 TEXT 1622 The Southampton, from London, arrived at Virginia<br />
-2 CONT <br />
-2 CONT Ship and Passenger Information:<br />
-2 CONT <br />
-2 CONT Passengers from the Port of London on the Southampton to Vir
-2 CONC ginia <br />
-2 CONT <br />
-2 CONT [...]<br />
-2 CONT Freame, John . . . . . -- Age 16 in Virginia Muster, Januar
-2 CONC y 21, 1624/5
 0 @h6yb8F3eQ3K5LamY3azb@ SOUR
-1 REFN 2dd95cf6-a469-4c63-aa51-9b844222454e
 1 TITL Surface
 1 AUTH Surface, Derrell G.
 1 PUBL Ancestry World Tree at Ancestry.com
 0 @KnaovjhMRYqdFh3q6C3S@ SOUR
-1 REFN fb629d02-6eb9-469e-9e78-eb35cb479a93
 1 REPO @jsk6dvTsRoOoMI0Co3S5@
 1 TITL U.S. and Canada, Passenger and Immigration Lists Index, 1500
 2 CONC s-1900s
@@ -7649,7 +8173,6 @@
 2 CONC : 2010
 1 _APID 7486
 0 @S4pQg73NQmG0ukT2qre2@ SOUR
-1 REFN caf314de-0b19-4750-a885-b0ab3c8de34d
 1 REPO @jsk6dvTsRoOoMI0Co3S5@
 1 TITL U.S. and International Marriage Records, 1560-1900
 1 AUTH Yates Publishing
@@ -7657,7 +8180,6 @@
 2 CONC : 2004
 1 _APID 7836
 0 @ee4ydv06QICKLWXCGh20@ SOUR
-1 REFN 4e472c75-80cb-4edf-9bc9-97c833e3f78b
 1 REPO @jsk6dvTsRoOoMI0Co3S5@
 1 TITL U.S. Federal Census Mortality Schedules, 1850-1885
 1 AUTH Ancestry.com
@@ -7665,7 +8187,6 @@
 2 CONC e: 2010
 1 _APID 8756
 0 @ZzXjWzLrTuuekxXGC19u@ SOUR
-1 REFN c9577f21-6cbf-4659-930f-f1aa49d2f05a
 1 REPO @jsk6dvTsRoOoMI0Co3S5@
 1 TITL U.S., Find A Grave Index, 1600s-Current
 1 AUTH Ancestry.com
@@ -7673,7 +8194,6 @@
 2 CONC e: 2012
 1 _APID 60525
 0 @0dhBtPjBSzWSzs1XkZRA@ SOUR
-1 REFN 4450ca00-f65c-44c7-8705-bf8aee6e84c2
 1 REPO @jsk6dvTsRoOoMI0Co3S5@
 1 TITL U.S., Newspaper Extractions from the Northeast, 1704-1930
 1 AUTH Ancestry.com
@@ -7681,332 +8201,63 @@
 2 CONC e: 2014
 1 _APID 50015
 0 @F2xNzzNDRJSgwi3xLcLm@ SOUR
-1 REFN b173a28e-b1ac-4452-a0bc-cec189ddbc51
 1 TITL US Census, 1790, NC, Craven
 1 AUTH US Census Bureau
 1 PUBL M637.7, p. 130
-1 TEXT Craven County<br />
-2 CONT [..]<br />
-2 CONT John C. Bryan 1 2 4 - 8<br />
-2 CONT [m16+ John Council Bryan<br />
-2 CONT m0-15 Thomas Bryan<br />
-2 CONT m0-15 Hardy Bryan<br />
-2 CONT f Elizabeth Oliver<br />
-2 CONT f Ann Maria Bryan<br />
-2 CONT f Elizabeth Bryan<br />
-2 CONT f Mary Bryan<br />
-2 CONT 8 slaves<br />
-2 CONT ]
 0 @30rsDgupTk2f0hWChLPn@ SOUR
-1 REFN e6782ffd-6d9a-4404-879e-5f4a00e32f6e
 1 TITL US Census, 1790, NC, Craven, New Bern
 1 AUTH US Census Bureau
 1 PUBL M637.7, p. 130
-1 TEXT Rebecca Justice<br />
-2 CONT [m0-15 John W.(c12) or Sidney (c8) or James (c4)?<br />
-2 CONT f Rebecca ---, mother, head of household<br />
-2 CONT f Polly Justice<br />
-2 CONT where is Hannah (c12)<br />
-2 CONT ]<br />
-2 CONT slaves 11<br />
-0 @Fs4su2zeSrq86W5zeVe9@ SOUR
-1 REFN 1d5a295a-1652-4d41-8a21-6af01ee46f98
+0 @S59@ SOUR
 1 TITL US Census, 1800, NC, Craven, New Bern
 1 AUTH US Census Bureau
 1 PUBL M32.31, p. 5
-1 TEXT Newbern<br />
-2 CONT [...]<br />
-2 CONT John Justice [m16-25]<br />
-2 CONT [...]<br />
-2 CONT Rebecca Justice [f45+] [also slaves:] 11<br />
-0 @HFpa01mvTWWm26U5L8yu@ SOUR
-1 REFN 8d2b4006-6202-417f-bc87-c555d32c70a8
+0 @S60@ SOUR
 1 TITL US Census, 1800, NC, Craven, New Bern
 1 AUTH US Census Bureau
 1 PUBL M32.31, p. 7
-1 TEXT [p. 6]<br />
-2 CONT Newbern<br />
-2 CONT <hr />
-2 CONT [p. 7]<br />
-2 CONT John C. Bryan 1 - 2 - 1 3 2 - 1 - - 18<br />
-2 CONT [m0-9 ?<br />
-2 CONT m16-25 Hardy Bryan<br />
-2 CONT m16-25 Thomas Bryan<br />
-2 CONT m45+ John Council Bryan<br />
-2 CONT f0-9 Mary Bryan?<br />
-2 CONT f0-9 Alice Bryan?<br />
-2 CONT f0-9 Sally Bryan?<br />
-2 CONT f10-15 Elizabeth Bryan<br />
-2 CONT f10-15 Ann Maria Bryan<br />
-2 CONT f26-44 Mary Ann Fulford<br />
-2 CONT 18 slaves<br />
-2 CONT ]
 0 @vzpRVHQUR4KUjWUCwmEG@ SOUR
-1 REFN 0cd897e0-3e2a-4c4b-b717-0d1e8fdc600b
 1 TITL US Census, 1820, NC, Craven, New Bern
 1 AUTH US Census Bureau
 1 PUBL M33.84, p. 73
-1 TEXT Coppey for New Bern No 6<br />
-2 CONT [...]<br />
-2 CONT John Justice<br />
-2 CONT [m0-9 ? (b1819-1820)<br />
-2 CONT m0-9 John Richard Justice (1)<br />
-2 CONT m16-17 ? (b1803-1804)<br />
-2 CONT m16-25 ? (b1795-1804)<br />
-2 CONT m26-45 John W. Justice (42)<br />
-2 CONT f0-9 Elizabeth Justice (3)<br />
-2 CONT f16-25 ? (b1795-1804)<br />
-2 CONT f16-25 ? (b1795-1804)<br />
-2 CONT f26-45 Ann Maria (wife) (32)<br />
-2 CONT ]<br />
-2 CONT persons engaged in commerce 9 [presumably the whole family]<
-2 CONC br />
-2 CONT slaves [21 total:]<br />
-2 CONT [m0-13] 6<br />
-2 CONT [m26-44] 4<br />
-2 CONT [m45+] 2<br />
-2 CONT [f0-13] 3<br />
-2 CONT [f14-25] 2<br />
-2 CONT [f26-44] 2<br />
-2 CONT [f45+] 2<br />
 0 @JX7SgwQZRue6lnpgQdkh@ SOUR
-1 REFN 598f1fc2-f688-4789-976d-66c4d34f5f6a
 1 TITL US Census, 1830, NC, Craven, New Bern
 1 AUTH US Census Bureau
 1 PUBL M19.119, p. 132
-1 TEXT Newbern<br />
-2 CONT [...]<br />
-2 CONT John Justice<br />
-2 CONT [m0-4 Alexander Justice (c5)<br />
-2 CONT m5-9 James Cicero Justice (9)<br />
-2 CONT m10-14 John Richard Justice (11)<br />
-2 CONT m15-19 ? (b: c1810-c1815)<br />
-2 CONT m20-29 ? (b: c1800-c1810)<br />
-2 CONT m50-59 John W. Justice (c52), father, head of household<br /
-2 CONC >
-2 CONT f0-4 Ann Mason Justice (2)<br />
-2 CONT f10-14 Elizabeth Justice (c12)<br />
-2 CONT f20-29 (b: c1800-c1810)<br />
-2 CONT f30-39 Ann Maria --- (c42), mother<br />
-2 CONT also in household were 35 slaves as follows:<br />
-2 CONT m0-9: 3<br />
-2 CONT m10-23: 6<br />
-2 CONT m24-35: 10<br />
-2 CONT m36-54: 1<br />
-2 CONT f0-9: 6<br />
-2 CONT f10-23: 4<br />
-2 CONT f24-35: 2<br />
-2 CONT f55-99: 3<br />
-2 CONT ]<br />
-0 @HvFiiybrSPu5Hf2mePlO@ SOUR
-1 REFN c6177e13-1059-4816-857c-4c984d5ec09d
+0 @S63@ SOUR
 1 TITL US Census, 1840, NC, Craven, New Bern
 1 AUTH US Census Bureau
 1 PUBL M704.358, p. 58
-1 TEXT I. Disosway<br />
-2 CONT [m20-29 Israel Disosway (c32)]<br />
-2 CONT employed in commerce<br />
-0 @4cKVD5igQZuyeKM35bFR@ SOUR
-1 REFN 485bc465-7c64-4f14-8a19-836eb2d8f0f6
+0 @S64@ SOUR
 1 TITL US Census, 1840, NC, Craven, New Bern
 1 AUTH US Census Bureau
 1 PUBL M704.358, p. 68
-1 TEXT Ann M Justice<br />
-2 CONT [m10-14 Alexander Justice (c14)<br />
-2 CONT m15-19 James Cicero Justice (18)<br />
-2 CONT m20-29 John Richard Justice (21)<br />
-2 CONT f10-14 Ann Mason Justice (12)<br />
-2 CONT f15-19 Elizabeth Justice (c23?)<br />
-2 CONT f50-59 Ann Maria --- (c52) mother, head of household<br />
-2 CONT note that father John W. Justice died 1831<br />
-2 CONT also in household were 22 slaves as follows:<br />
-2 CONT m10-23: 1<br />
-2 CONT m24-35: 2<br />
-2 CONT m36-54: 3<br />
-2 CONT m55-99: 1<br />
-2 CONT f0-9: 6<br />
-2 CONT f10-23: 3<br />
-2 CONT f24-35: 3<br />
-2 CONT f36-54: 2<br />
-2 CONT f55-99: 1<br />
-2 CONT ]<br />
-2 CONT 1 [person empl. in navigation of canals, lakes, rivers]<br /
-2 CONC >
-2 CONT 1 [learned professional engineer]<br />
-0 @DWMkCjvQQ9CD1nuBdTKD@ SOUR
-1 REFN c08c1526-3afc-4a39-910c-f8942b387733
+0 @S65@ SOUR
 1 TITL US Census, 1850, NC, Craven, New Bern
 1 AUTH US Census Bureau
 1 PUBL M432.626, p. 305
-1 TEXT SCHEDULE I.--Free Inhabitants in New Berne in the County o
-2 CONC f Craven State of No Carolina enumerated by me, on the 10t
-2 CONC h day of Sept. 1850.<br />
-2 CONT [...]<br />
-2 CONT [Dwelling] 603<br />
-2 CONT [Family] 603<br />
-2 CONT <table border="1">
-2 CONT <tr><td>[name</td><td>age</td><td>sex</td><td>occup.</td><td
-2 CONC >real $</td><td>state born]</td></tr>
-2 CONT <tr><td>Israel Disosway</td><td>32</td><td>M</td><td>druggis
-2 CONC t</td><td>5000</td><td>N. York</td></tr>
-2 CONT <tr><td>Susan M.</td><td>26</td><td>F</td><td>&nbsp;</td><td
-2 CONC >&nbsp;</td><td>N.Ca.</td></tr>
-2 CONT <tr><td>Jane E.</td><td>4</td><td>F</td><td>&nbsp;</td><td>&
-2 CONC nbsp;</td><td>N.Ca.</td></tr>
-2 CONT <tr><td>Francis M.</td><td>2</td><td>F</td><td>&nbsp;</td><t
-2 CONC d>&nbsp;</td><td>N.Ca.</td></tr>
-2 CONT <tr><td>William</td><td>7/12</td><td>M</td><td>&nbsp;</td><t
-2 CONC d>&nbsp;</td><td>N.Ca.</td></tr>
-2 CONT </table>
-0 @ZJCNMfS8RX6epqf1EZAT@ SOUR
-1 REFN 263b5128-b93a-4b66-8886-8e17b0e54c19
+0 @S66@ SOUR
 1 TITL US Census, 1850, NC, Craven, New Bern
 1 AUTH US Census Bureau
 1 PUBL M432.626, p. 306
-1 TEXT SCHEDULE I.--Free Inhabitants in New Berne in the County o
-2 CONC f Craven State of No Carolina enumerated by me, on the 13t
-2 CONC h day of Sept. 1850.<br />
-2 CONT [...]<br />
-2 CONT [Dwelling] 631<br />
-2 CONT [Family] 631<br />
-2 CONT <table border="1">
-2 CONT <tr><td>Eliz. Justice</td><td>33</td><td>F</td><td>[r$] 3000
-2 CONC </td><td>N.Ca.</td></tr>
-2 CONT <tr><td>Ann Justice</td><td>23</td><td>F</td><td>&nbsp;</td>
-2 CONC <td>N.Ca.</td></tr>
-2 CONT </table>
 0 @2WFvR20ORkKLsoMvLSqM@ SOUR
-1 REFN a77c003f-f11f-4701-8910-1e54a3849af6
 1 TITL US Census, 1860, NC, Craven Co., p. 100
 1 AUTH US Census Bureau
 1 PUBL New Bern, Craven, NC, 13 Nov 1860
-1 TEXT dwelling #800<br />
-2 CONT family #793<br />
-2 CONT <table border="1">
-2 CONT <tr><td>name</td><td>&nbsp;</td><td>age</td><td>sex</td><td>
-2 CONC property value</td><td>&nbsp;</td><td>state born</td><td>&nb
-2 CONC sp;</td></tr>
-2 CONT <tr><td>Israel Disosway</td><td>44</td><td>M</td><td>$200
-2 CONC 0 r $20000[sic] p</td><td>NY</td><td>&nbsp;</td><td>&nbsp;</
-2 CONC td><td>&nbsp;</td></tr>
-2 CONT <tr><td>Anne Mariah ""</td><td>33</td><td>F</td><td>&nbsp;</
-2 CONC td><td>&nbsp;</td><td>&nbsp;</td><td>NC</td><td>&nbsp;</td><
-2 CONC /tr>
-2 CONT <tr><td>Jane E. ""</td><td>15</td><td>F</td><td>&nbsp;</td><
-2 CONC td>&nbsp;</td><td>&nbsp;</td><td>do</td><td>&nbsp;</td></tr>
-2 CONT <tr><td>Fannie M. ""</td><td>12</td><td>F</td><td>&nbsp;</td
-2 CONC ><td>&nbsp;</td><td>&nbsp;</td><td>do</td><td>&nbsp;</td></t
-2 CONC r>
-2 CONT <tr><td>William H. ""</td><td>11</td><td>M</td><td>&nbsp;</t
-2 CONC d><td>&nbsp;</td><td>&nbsp;</td><td>do</td><td>&nbsp;</td></
-2 CONC tr>
-2 CONT <tr><td>Mark ""</td><td>&nbsp;</td><td>9</td><td>M</td><td>&
-2 CONC nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>do</td></tr>
-2 CONT <tr><td>John I. ""</td><td>&nbsp;</td><td>4</td><td>F [sic]<
-2 CONC /td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>do</td>
-2 CONC </tr>
-2 CONT <tr><td>Regnild I. ""</td><td>3</td><td>M</td><td>&nbsp;</td
-2 CONC ><td>&nbsp;</td><td>&nbsp;</td><td>do</td><td>&nbsp;</td></t
-2 CONC r>
-2 CONT <tr><td>Hamilton ""</td><td>2</td><td>M</td><td>&nbsp;</td><
-2 CONC td>&nbsp;</td><td>&nbsp;</td><td>do</td><td>&nbsp;</td></tr>
-2 CONT </table>
 0 @AGijbc78TA2ftVarJlJf@ SOUR
-1 REFN 8f742570-f890-4f6d-bc60-d885b580eb7a
 1 TITL US Census, 1870, NC, Craven Co., [old] p. 10
 1 AUTH US Census Bureau
 1 PUBL New Bern, Craven, NC, 17 Jun 1870
-1 TEXT dwelling #91<br />
-2 CONT family #95<br />
-2 CONT <table border="1">
-2 CONT <tr><td>name</td><td>&nbsp;</td><td>age</td><td>sx rac</td><
-2 CONC td>occup.</td><td>property value</td><td>state d</td><td>sr
-2 CONC w (at school, read, write)</td><td>&nbsp;</td></tr>
-2 CONT <tr><td>Disosway Israel</td><td>54</td><td>M W</td><td>drugg
-2 CONC ist</td><td>$4000 r $3000 p</td><td>NY</td><td>-XX</td><td>&
-2 CONC nbsp;</td><td>&nbsp;</td></tr>
-2 CONT <tr><td>" Ann M</td><td>&nbsp;</td><td>40 [44]</td><td>F W</
-2 CONC td><td>keeping house</td><td>&nbsp;</td><td>NC</td><td>-XX</
-2 CONC td><td>&nbsp;</td></tr>
-2 CONT <tr><td>" William</td><td>&nbsp;</td><td>20</td><td>M W</td>
-2 CONC <td>druggist clerk</td><td>&nbsp;</td><td>NC</td><td>-XX</td
-2 CONC ><td>&nbsp;</td></tr>
-2 CONT <tr><td>" Justice</td><td>&nbsp;</td><td>12</td><td>M W</td>
-2 CONC <td>going to school</td><td>&nbsp;</td><td>NC</td><td>XXX</t
-2 CONC d><td>&nbsp;</td></tr>
-2 CONT <tr><td>" Hamilton</td><td>11</td><td>M W</td><td>" " "</td>
-2 CONC <td>&nbsp;</td><td>&nbsp;</td><td>NC</td><td>XXX</td><td>&nb
-2 CONC sp;</td></tr>
-2 CONT <tr><td>" Emma</td><td>&nbsp;</td><td>8</td><td>F W</td><td>
-2 CONC " " "</td><td>&nbsp;</td><td>&nbsp;</td><td>NC</td><td>XXX</
-2 CONC td></tr>
-2 CONT <tr><td>" Clarence</td><td>4</td><td>M W</td><td>at home</td
-2 CONC ><td>&nbsp;</td><td>&nbsp;</td><td>NC</td><td>&nbsp;</td><td
-2 CONC >&nbsp;</td></tr>
-2 CONT <tr><td>" John</td><td>&nbsp;</td><td>2</td><td>M W</td><td>
-2 CONC at home</td><td>&nbsp;</td><td>&nbsp;</td><td>NC</td><td>&nb
-2 CONC sp;</td></tr>
-2 CONT <tr><td>Justice Elizabeth</td><td>50</td><td>F W</td><td>a
-2 CONC t home</td><td>&nbsp;</td><td>&nbsp;</td><td>NC</td><td>-XX<
-2 CONC /td><td>&nbsp;</td></tr>
-2 CONT </table>
 0 @M0yLYlaTRUGeQjEI2KZm@ SOUR
-1 REFN 3b53d1f0-f0fe-4358-ad99-9a8327c5b0b3
 1 TITL US Census, 1880, NC, Craven Co
 1 AUTH US Census Bureau
 1 PUBL New Bern, Craven, NC, 1 Jun 1880
-1 TEXT dwelling #18<br />
-2 CONT family #17<br />
-2 CONT <table border="1">
-2 CONT <tr><td>name</td><td>&nbsp;</td><td>r s</td><td>age</td><td>
-2 CONC relat</td><td>&nbsp;</td><td>&nbsp;</td><td>b, father b, mot
-2 CONC her b</td></tr>
-2 CONT <tr><td>Disosway Ann</td><td>W F</td><td>45</td><td>&nbsp;</
-2 CONC td><td>&nbsp;</td><td>&nbsp;</td><td>NC NC NC</td><td>&nbsp;
-2 CONC </td></tr>
-2 CONT <tr><td>- Justice</td><td>&nbsp;</td><td>W M</td><td>21</td>
-2 CONC <td>son</td><td>keeping house</td><td>NC NC NC</td><td>&nbsp
-2 CONC ;</td></tr>
-2 CONT <tr><td>- Annie</td><td>&nbsp;</td><td>W F</td><td>17</td><t
-2 CONC d>daughter</td><td>Clerk Clyde Steamer</td><td>NC NC NC</td>
-2 CONC <td>&nbsp;</td></tr>
-2 CONT <tr><td>- Clarence</td><td>W M</td><td>13</td><td>son</td><t
-2 CONC d>at home</td><td>&nbsp;</td><td>NC NC NC</td><td>&nbsp;</td
-2 CONC ></tr>
-2 CONT <tr><td>- John</td><td>&nbsp;</td><td>W M</td><td>11</td><td
-2 CONC >son</td><td>at shcool</td><td>&nbsp;</td><td>NC NC NC</td><
-2 CONC /tr>
-2 CONT <tr><td>Justice Elizabeth</td><td>W F</td><td>47</td><td>sis
-2 CONC ter</td><td>at school</td><td>&nbsp;</td><td>NC NC NC</td><t
-2 CONC d>&nbsp;</td></tr>
-2 CONT <tr><td>Harding Laney</td><td>W F</td><td>35</td><td>&nbsp;<
-2 CONC /td><td>house keeper</td><td>NC NC NC</td><td>&nbsp;</td><td
-2 CONC >&nbsp;</td></tr>
-2 CONT <tr><td>Edward Thomas</td><td>B M</td><td>18</td><td>servant
-2 CONC </td><td>servant</td><td>&nbsp;</td><td>NC NC NC</td><td>&nb
-2 CONC sp;</td></tr>
-2 CONT </table>
 0 @K1w59eW1QxqLiJcLQXMm@ SOUR
-1 REFN bdf46fec-f094-4f9f-b054-1725a69ff73e
 1 TITL Virginia Chronology
 1 AUTH Holler, Haley
 1 PUBL http://www.iqthost.com/velocity/haley/virginia/vachronology.
 2 CONC html
-1 TEXT 1656<br />
-2 CONT From " Virginia Colonial Abstracts" Vol. III<br />
-2 CONT Charles City County, Court Orders, 1655-1658<br />
-2 CONT pg. 50 (1656)<br />
-2 CONT William Justice hath proved right by testimony of Capt. Thom
-2 CONC as Stegge and Mrs. Mary ffitzgarrett to 1200 acres of land f
-2 CONC or the charge of Importation of Mary Sherwood, ffrancis Nels
-2 CONC on, Ann Lawrence, W. Phillips, Jo Barber, Arthur Lawrence, A
-2 CONC les Mitchell, Joseph Erreene, Sara Lawrence, Mathew Bayule
-2 CONC , Wm Prise, Wm Ballance, Tho: Whittier [Whitter], Edmond Joy
-2 CONC ner, JO: HALLEY, Rebecca fframe, Tho: Hayslwood, Eliz: Heath
-2 CONC , Rich: Lee, Wm Lawrence, Peter Plum'er, Wm Coleman, Mary La
-2 CONC wrence twice.<br />
 0 @h0oxKZjXRGuRDEg46JxO@ SOUR
-1 REFN 89cbc6ab-4547-4e17-bc80-12521d200a62
 1 REPO @jsk6dvTsRoOoMI0Co3S5@
 1 TITL Virginia, Marriages of the Northern Neck of Virginia, 1649-1
 2 CONC 800
@@ -8015,14 +8266,11 @@
 2 CONC e: 2012
 1 _APID 5063
 0 @aaG5j4kLQ868LlRQfsE8@ SOUR
-1 REFN 0becb66b-4931-4c8f-89b7-684b7eb019bf
-1 REPO @H91HOuLrQxOXy8zMr3To@
+1 REPO @jsk6dvTsRoOoMI0Co3S5@
 1 TITL Web: North Carolina, Find A Grave Index, 1716-2012
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2012
-1 TEXT <i>Find A Grave</i>. Find A Grave. http://www.findagrave.com
-2 CONC /cgi-bin/fg.cgi: accessed 18 January 2013.
 0 @iKTUQLhxRYyEHTL240iw@ OBJE
 1 _GUID a2c90f15-c2e8-400c-9c7d-aca22a614654
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Justice Media\1
@@ -8032,7 +8280,6 @@
 2 _TEXT Year: 1790; Census Place: Craven, North Carolina; Series: M6
 3 CONC 37; Roll: 7; Page: 429; Image: 573; Family History Library F
 3 CONC ilm: 0568147
-1 REFN a69a45f5-ecec-4606-bcb4-98f9824a3368
 0 @JHwP2iD7RAOJw3SVNEpS@ OBJE
 1 _GUID b97cb428-a000-468b-ac75-5be558ad6815
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Justice Media\1
@@ -8042,7 +8289,6 @@
 2 _TEXT Year: 1800; Census Place: New Bern, Craven, North Carolina
 3 CONC ; Series: M32; Roll: 31; Page: 123; Image: 253; Family Histo
 3 CONC ry Library Film: 337907
-1 REFN fc6824ca-2ae1-4fce-aa9c-7418f2aeea54
 0 @Y60AaE2lTl2Yd9tiaPjh@ OBJE
 1 _GUID e64784d9-0cef-4571-8b58-09bedf3600f7
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Justice Media\1
@@ -8051,7 +8297,6 @@
 2 TITL 1820 United States Federal Census
 2 _TEXT 1820 U S Census; Census Place: New Bern, Craven, North Carol
 3 CONC ina; Page: 73; NARA Roll: M33_84; Image: 78
-1 REFN aea1d62d-7db0-4ee2-9905-892de112468c
 0 @9vtejc0mR1S0O8xBaNBv@ OBJE
 1 _GUID a4589406-502d-4799-9df2-e4ea222e04da
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Justice Media\1
@@ -8061,7 +8306,6 @@
 2 _TEXT 1830; Census Place: New Bern, Craven, North Carolina; Series
 3 CONC : M19; Roll: 119; Page: 132; Family History Library Film: 00
 3 CONC 18085
-1 REFN 94e63e5e-bff1-4dda-afba-adf835032e23
 0 @6r29y05xRRKExNJu1Nys@ OBJE
 1 _GUID 6bd40197-ef20-485a-b40c-e124993acc2c
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Justice Media\1
@@ -8071,14 +8315,12 @@
 2 _TEXT Year: 1840; Census Place: Newbern, Craven, North Carolina; R
 3 CONC oll: 358; Page: 67; Image: 770; Family History Library Film
 3 CONC : 0018093
-1 REFN 2b6907f2-7a2a-416a-9697-328a31fd81b2
 0 @M8ib0k4USueY7DB1ciLb@ OBJE
 1 _GUID ad596c4b-d3ea-439c-a092-fa2055d060e0
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Justice Media\1
 2 CONC 850 U.S. Federal Census - Slave Schedules.jpg
 2 FORM jpg
 2 TITL 1850 U.S. Federal Census - Slave Schedules
-1 REFN 338efa35-32cd-46aa-b7f0-8971c2c3c736
 0 @YKooQd39RrKDkpwwiJcn@ OBJE
 1 _GUID f305eb41-198c-47a4-8a2a-b7b3a84f678a
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Justice Media\1
@@ -8087,7 +8329,6 @@
 2 TITL 1850 United States Federal Census
 2 _TEXT Year: 1850; Census Place: New Berne, Craven, North Carolina
 3 CONC ; Roll: M432_626; Page: 305B; Image: 173
-1 REFN 787da3c1-a754-482c-9ea4-0a3d953ca7aa
 0 @ccLUwPK5QfWxIDucOxxU@ OBJE
 1 _GUID c60cfa3f-4311-418b-af5d-6b4c0af49911
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Justice Media\1
@@ -8096,7 +8337,6 @@
 2 TITL 1850 United States Federal Census
 2 _TEXT Year: 1850; Census Place: New Berne, Craven, North Carolina
 3 CONC ; Roll: M432_626; Page: 306B; Image: 175
-1 REFN 55aef205-85db-4b03-90e7-e215fcdb774a
 0 @sQPDfBUcSQSz2LMPHfg4@ OBJE
 1 _GUID 15764403-33dc-406d-9c01-e86e7857d2e1
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Justice Media\1
@@ -8105,7 +8345,6 @@
 2 TITL 1850 United States Federal Census
 2 _TEXT Year: 1850; Census Place: New Berne, Craven, North Carolina
 3 CONC ; Roll: M432_626; Page: 293B; Image: 149
-1 REFN d6eafbff-3e41-430e-976f-0997e6b416f1
 0 @NZK5Zf2eR8CxJ3qPiNGy@ OBJE
 1 _GUID da308a10-e46d-4e4d-b1de-8bcddf93dfa8
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Justice Media\1
@@ -8114,7 +8353,6 @@
 2 TITL 1850 United States Federal Census
 2 _TEXT Year: 1850; Census Place: New Berne, Craven, North Carolina
 3 CONC ; Roll: M432_626; Page: 296A; Image: 154
-1 REFN 7df1b41c-2263-40c1-b224-bc8e4415fce3
 0 @AmTAglnvQZu7wni7niEB@ OBJE
 1 _GUID 36dbd128-64cf-4fd9-9abd-10623733f108
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Justice Media\1
@@ -8123,7 +8361,6 @@
 2 TITL 1850 United States Federal Census
 2 _TEXT Year: 1850; Census Place: New Berne, Craven, North Carolina
 3 CONC ; Roll: M432_626; Page: 299B; Image: 161
-1 REFN 97d5beed-fbc7-4248-a174-c8fba2c309c9
 0 @nFpl6AiHQt2pNR4G6A1R@ OBJE
 1 _GUID e63136d4-cd4e-4e61-8846-000a256da27b
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Justice Media\1
@@ -8133,7 +8370,6 @@
 2 _TEXT Year: 1860; Census Place: New Bern, Craven, North Carolina
 3 CONC ; Roll: M653_894; Page: 49; Image: 100; Family History Libra
 3 CONC ry Film: 803894
-1 REFN f159be57-1389-4cdf-be18-e40fb96beb65
 0 @JMTXkf45SHmwJUs5LMTP@ OBJE
 1 _GUID 9c63feb0-3fc9-49bf-a181-548583c8a8eb
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Justice Media\1
@@ -8143,7 +8379,6 @@
 2 _TEXT Year: 1860; Census Place: New Bern, Craven, North Carolina
 3 CONC ; Roll: M653_894; Page: 46; Image: 93; Family History Librar
 3 CONC y Film: 803894
-1 REFN ec4944e4-af17-47d8-b906-4c4b622858a7
 0 @WBaf0hFxR3u93EVOZnF8@ OBJE
 1 _GUID 2459577e-49df-4c4f-8825-24882375c794
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Justice Media\1
@@ -8153,7 +8388,6 @@
 2 _TEXT Year: 1860; Census Place: New Bern, Craven, North Carolina
 3 CONC ; Roll: M653_894; Page: 39; Image: 79; Family History Librar
 3 CONC y Film: 803894
-1 REFN 1570576a-fad4-4fea-8824-a37ecb151547
 0 @FoM5Hs85Sher7W4vciaP@ OBJE
 1 _GUID 8b11ca65-b87b-4a21-b818-0753a901999b
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Justice Media\1
@@ -8163,7 +8397,6 @@
 2 _TEXT Year: 1870; Census Place: New Berne Ward 1, Craven, North Ca
 3 CONC rolina; Roll: M593_1132; Page: 358B; Image: 170; Family Hist
 3 CONC ory Library Film: 552631
-1 REFN dfade0d1-19fc-46a7-9538-d2bb9aa9d692
 0 @R6IBOPB0Sv25BWbayjZW@ OBJE
 1 _GUID 7a70b53e-6fb8-4526-ace4-d4e3b2e5cbee
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Justice Media\1
@@ -8172,7 +8405,6 @@
 2 TITL 1870 United States Federal Census
 2 _TEXT Year: 1870; Census Place: Arcola, Douglas, Illinois; Image
 3 CONC : 207709
-1 REFN 42f6a8a7-f9ea-4b47-9bb4-ecbdeb9274f8
 0 @8qi5loBjQDGfLiH0XBhW@ OBJE
 1 _GUID 6a5116f2-f374-4972-b5f6-5cfd10668da6
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Justice Media\1
@@ -8182,7 +8414,6 @@
 2 _TEXT Year: 1880; Census Place: New Berne, Craven, North Carolina
 3 CONC ; Roll: 959; Family History Film: 1254959; Page: 257B; Enume
 3 CONC ration District: 041; Image: 0684
-1 REFN 797da5ae-0b7b-4bb3-a52f-43ca9097d0c8
 0 @vsvup6udT4uB8QnhU2cT@ OBJE
 1 _GUID 13c09282-49ac-41f7-8e8e-c0e6ce23b158
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Justice Media\1
@@ -8192,7 +8423,6 @@
 2 _TEXT Year: 1880; Census Place: Arcola, Douglas, Illinois; Roll: 2
 3 CONC 03; Family History Film: 1254203; Page: 1A; Enumeration Dist
 3 CONC rict: 082; Image: 0411
-1 REFN 542835da-319e-474e-bcbf-709374032788
 0 @54oI7ULNQ0yk0Pba6bjB@ OBJE
 1 _GUID b06e76fc-bd91-4770-b6f4-b5326686e2fe
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Justice Media\1
@@ -8202,7 +8432,6 @@
 2 _TEXT Year: 1880; Census Place: Charlotte, Mecklenburg, North Caro
 3 CONC lina; Roll: 972; Family History Film: 1254972; Page: 289B; E
 3 CONC numeration District: 105; Image: 0006
-1 REFN d9e8fab9-dd27-4e7f-80c1-2c77ec2916f0
 0 @cYQil2KnSYa9GyC3ER8c@ OBJE
 1 _GUID 1f879322-8589-4d66-8d69-2c3c808545d3
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Justice Media\1
@@ -8212,63 +8441,24 @@
 2 _TEXT Year: 1900; Census Place: Champaign Ward 4, Champaign, Illin
 3 CONC ois; Roll: 240; Page: 2A; Enumeration District: 0007; FHL mi
 3 CONC crofilm: 1240240
-1 REFN ff8f0659-eb5d-46a7-9af3-5b739cdbf252
-0 @riaau2aUT6miFmv6KsbN@ OBJE
-1 _GUID f91932b4-ab24-41d5-af4c-6b8315498fe6
-1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Justice Media\c
-2 CONC hrchurbapts.txt
-2 FORM jpg
-2 TITL chrchurbapts
-1 REFN 29b79748-654f-4ad1-b8d3-c9d73354a2a0
-0 @hN0TRm7zTG6UWarWY6ZE@ OBJE
-1 _GUID 03733d94-2edb-444b-8bc3-231f3ef3ec44
-1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Justice Media\c
-2 CONC hrchurbapts(1).txt
-2 FORM jpg
-2 TITL chrchurbapts
-1 REFN af157398-0b91-461b-a91a-df797f608c3b
 0 @SN6MqEmvScmNz9UXYhts@ OBJE
 1 _GUID 4be91055-d8b3-4c76-8a8f-8504e059799e
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Justice Media\I
 2 CONC sreal M. Disosway(1).jpg
 2 FORM jpg
 2 TITL Isreal M. Disosway
-1 REFN 1ec39106-b9b9-442a-9928-fe7629bad507
-0 @c4yCzsyZR9SlHlm458wU@ OBJE
-1 _GUID 56143f81-62c9-4040-96c5-b7b4e5cd2f2c
-1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Justice Media\J
-2 CONC ames Cicero & Margaret Ann Blackwell Justice.jpg
-2 FORM jpg
-2 TITL James Cicero & Margaret Ann Blackwell Justice
-1 REFN d39a5500-4743-4d23-bc0f-4db2922c8cea
 0 @feA9Ink1TG6aNT0NKwd1@ OBJE
 1 _GUID 9567c0c5-7eaf-407a-af7f-0b6e875b9d4c
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Justice Media\J
 2 CONC ames Cicero Justice 1821-1905.jpg
 2 FORM jpg
-2 TITL James Cicero Justice 1821-1905
-1 REFN 869f0a75-b931-4e4e-9c54-dc39ddd58ec0
-0 @7uZtJ7FqQaqrs1ykF8Gf@ OBJE
-1 _GUID 676b4cbd-8b78-4cf8-8a3a-685f8d72e95f
-1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Justice Media\J
-2 CONC ames Cicero Justice 1821-1905(1).jpg
-2 FORM jpg
-2 TITL James Cicero Justice 1821-1905
-1 REFN 7fd3aeb7-f70b-4e8e-abdc-e2e0a642c9ed
-0 @XvzaInKzSqSyix7ldQuY@ OBJE
-1 _GUID e9f8a9bb-1778-4b48-abe4-67c4e04b9dd9
-1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Justice Media\J
-2 CONC ames Cicero Justice 1821-1905(2).jpg
-2 FORM jpg
-2 TITL James Cicero Justice 1821-1905
-1 REFN 0755aa49-d70b-4826-bd10-1cff9b5f37e3
+2 TITL Justice family gravestone
 0 @Njr0F3QkRb2S3FTtO63D@ OBJE
 1 _GUID 3892c8ef-86ac-4902-a7ab-b5a5ac640615
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Justice Media\M
 2 CONC argaret Ann Blackwell Justice 1823-1899.jpg
 2 FORM jpg
 2 TITL Margaret Ann Blackwell Justice 1823-1899
-1 REFN a55c1447-08ad-4143-81a5-beaceb363f63
 0 @eohX9He9TNe8Jho0wBBV@ OBJE
 1 _GUID ba6c534e-8165-4fd0-b041-5cedd97ca2d4
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Justice Media\M
@@ -8277,7 +8467,6 @@
 2 TITL Maryland, Wills and Probate Records, 1604-1878
 2 _TEXT Will books; Author: Maryland. Prerogative Court; Probate Pla
 3 CONC ce: Maryland
-1 REFN 46b8a025-5095-4a50-887f-add8d6f889e5
 0 @ZK8NchvnTESHvJsJTuur@ OBJE
 1 _GUID 4c64c39e-8503-4b19-bb4b-5e2e557cb52e
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Justice Media\m
@@ -8287,63 +8476,54 @@
 2 _TEXT This is from a monument in Washington DC which pays homage t
 3 CONC o Zachariah Wade and others on whose land the Federal City (
 3 CONC D.C.) was built.
-1 REFN 3c59ba9c-b775-4990-a383-1321123aac5a
 0 @tN6ubv3NQEOry0m8rnOM@ OBJE
 1 _GUID 2c5c37db-a1e5-4239-9a75-4cd9de2edba0
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Justice Media\N
 2 CONC orth Carolina, Death Certificates, 1909-1976.jpg
 2 FORM jpg
 2 TITL North Carolina, Death Certificates, 1909-1976
-1 REFN 9cc6bc4a-9c2b-4c50-bc60-9b21ee7c03ca
 0 @LeRrLW9BQvuXulz8w5Q0@ OBJE
 1 _GUID cb127fcc-3e18-4c4e-a2d2-25aadbf457f3
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Justice Media\N
 2 CONC orth Carolina, Death Certificates, 1909-1976(3).jpg
 2 FORM jpg
 2 TITL North Carolina, Death Certificates, 1909-1976
-1 REFN 6aa343f8-e148-48c5-bf4e-1cd7711aa301
 0 @rp1MVAAERHCelcHnQFZ1@ OBJE
 1 _GUID 5a99f96a-1c7d-4aca-9b55-073881fd4f51
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Justice Media\N
 2 CONC orth Carolina, Deaths, 1906-1930.jpg
 2 FORM jpg
 2 TITL North Carolina, Deaths, 1906-1930
-1 REFN 58fb7513-d180-41cb-bdaf-36052916ee97
 0 @rwFyvPgyQGKMVMnB5H1O@ OBJE
 1 _GUID c2ae72c5-9ec1-447d-9428-276941554f43
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Justice Media\N
 2 CONC orth Carolina, Marriage Records, 1741-2011.jpg
 2 FORM jpg
 2 TITL North Carolina, Marriage Records, 1741-2011
-1 REFN 0b904e99-5ed0-4575-b098-c7f315147bec
 0 @Wu0ZNJQnQxylmDHp1QPc@ OBJE
 1 _GUID ec3b4e7e-9c4b-4e4b-92cb-cd1fd556a51e
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Justice Media\N
 2 CONC orth Carolina, Marriage Records, 1741-2011(2).jpg
 2 FORM jpg
 2 TITL North Carolina, Marriage Records, 1741-2011
-1 REFN 3b383fcc-daf4-433b-84d3-1f48845d61be
 0 @yxv4SPaTQ2apTPRHygSy@ OBJE
 1 _GUID ab15b306-8465-4a13-9a9a-da5c892a206c
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Justice Media\N
 2 CONC orth Carolina, Marriage Records, 1741-2011(3).jpg
 2 FORM jpg
 2 TITL North Carolina, Marriage Records, 1741-2011
-1 REFN e04d9350-c1f9-4ecb-8ebb-677dc0ed471d
 0 @t8e1DOY6Qx2wpLIA6SPM@ OBJE
 1 _GUID 08dbbe51-962c-4bdf-b89f-f5d7564c5fe3
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Justice Media\N
 2 CONC orth Carolina, Marriage Records, 1741-2011(4).jpg
 2 FORM jpg
 2 TITL North Carolina, Marriage Records, 1741-2011
-1 REFN f5f9dd83-f762-4098-a957-61c6e332d7c2
 0 @AKMYbtnoRC69u1sV9K3K@ OBJE
 1 _GUID 40b60c67-90c5-40a6-8c33-92d5005026d6
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Justice Media\N
 2 CONC orth Carolina, Marriage Records, 1741-2011(5).jpg
 2 FORM jpg
 2 TITL North Carolina, Marriage Records, 1741-2011
-1 REFN 347b182a-227d-4832-b919-caa48cd66ce7
 0 @nF2VNky4SfqHnXsY4CFB@ OBJE
 1 _GUID 6cea64a0-7bc2-4701-a06c-073ca0579e3d
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Justice Media\N
@@ -8353,7 +8533,6 @@
 2 _TEXT Wills and Estate Papers (Craven County), 1663-1978; Author
 3 CONC : North Carolina. Division of Archives and History; Probat
 3 CONC e Place: Craven, North Carolina
-1 REFN 93e56da8-7197-4eb3-960a-51967dd588b3
 0 @2U1ZOO24SdGkoaF9z9gU@ OBJE
 1 _GUID 5b4efaf1-bc49-41f9-a23e-cef128f811de
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Justice Media\N
@@ -8363,7 +8542,6 @@
 2 _TEXT Wills and Estate Papers (Craven County), 1663-1978; Author
 3 CONC : North Carolina. Division of Archives and History; Probat
 3 CONC e Place: Craven, North Carolina
-1 REFN 09eeabf3-834b-43e5-a0c5-b82d119ec096
 0 @Su7OqrZvSSKG5WwJP87i@ OBJE
 1 _GUID acb42da1-ff5c-4e70-89bd-652ee874e627
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Justice Media\N
@@ -8373,7 +8551,6 @@
 2 _TEXT Wills and Estate Papers (Craven County), 1663-1978; Author
 3 CONC : North Carolina. Division of Archives and History; Probat
 3 CONC e Place: Craven, North Carolina
-1 REFN 786f954f-533a-4806-93c9-88b9204ee85e
 0 @0LenpLvBQrqRbtKRdPzJ@ OBJE
 1 _GUID 953e9ba1-1de4-4f8f-a121-09141cdfc026
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Justice Media\N
@@ -8383,7 +8560,6 @@
 2 _TEXT Wills and Estate Papers (Craven County), 1663-1978; Author
 3 CONC : North Carolina. Division of Archives and History; Probat
 3 CONC e Place: Craven, North Carolina
-1 REFN b932f579-e544-4e96-a479-faa26943af77
 0 @IglctF0oSKiJZ0lsFoek@ OBJE
 1 _GUID 4d4a8f69-1858-4402-85b8-f521e3f69262
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Justice Media\N
@@ -8393,7 +8569,6 @@
 2 _TEXT Wills and Estate Papers (Craven County), 1663-1978; Author
 3 CONC : North Carolina. Division of Archives and History; Probat
 3 CONC e Place: Craven, North Carolina
-1 REFN b31c84e5-9734-4093-ac40-6f738d90d9ec
 0 @PzMQn8NvRGeIAi2NOG0m@ OBJE
 1 _GUID efaddd4b-2d68-482b-abbb-e623836326ea
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Justice Media\N
@@ -8402,7 +8577,6 @@
 2 TITL North Carolina, Wills and Probate Records, 1665-1998
 2 _TEXT Wills; Author: North Carolina. Superior Court (Craven County
 3 CONC ); Probate Place: Craven, North Carolina
-1 REFN 60ca38fc-1752-4f9f-9e0a-ec50d3368251
 0 @tfCuLjZ9RmKZDgV1SVkf@ OBJE
 1 _GUID ed797b5d-e256-4527-930f-08c7007420b8
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Justice Media\N
@@ -8412,7 +8586,6 @@
 2 _TEXT Wills and Estate Papers (Craven County), 1663-1978; Author
 3 CONC : North Carolina. Division of Archives and History (Raleigh
 3 CONC , North Carolina); Probate Place: Craven, North Carolina
-1 REFN 7b1e38e1-0e88-4956-b2bd-b101872fdd85
 0 @7WVmclrHSnyCTT5sBfnx@ OBJE
 1 _GUID 3557b784-aeba-481e-95ea-8f0584c0e296
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Justice Media\N
@@ -8422,7 +8595,6 @@
 2 _TEXT Wills and Estate Papers (Craven County), 1663-1978; Author
 3 CONC : North Carolina. Division of Archives and History (Raleigh
 3 CONC , North Carolina); Probate Place: Craven, North Carolina
-1 REFN 3948083b-b14e-4c1b-8a7f-dd4442756c11
 0 @Y0pe3EBySMaiMc1Iypxw@ OBJE
 1 _GUID bff036b7-34f9-43b6-a99b-b52e6bbdf715
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Justice Media\N
@@ -8431,7 +8603,6 @@
 2 TITL North Carolina, Wills and Probate Records, 1665-1998
 2 _TEXT Wills; Author: North Carolina. Superior Court (Craven County
 3 CONC ); Probate Place: Craven, North Carolina
-1 REFN 867ddbcc-2c9a-495e-bc50-43c79281f1ca
 0 @eNrCkUlcRDaVA7eOXkoj@ OBJE
 1 _GUID 6bd56394-ed8e-4256-ace0-34f739697d85
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Justice Media\N
@@ -8441,7 +8612,6 @@
 2 _TEXT Wills and Estate Papers (Craven County), 1663-1978; Author
 3 CONC : North Carolina. Division of Archives and History; Probat
 3 CONC e Place: Craven, North Carolina
-1 REFN ba88c5c1-a389-4378-98a6-b67c99d491a7
 0 @N2oSeP0OTxO2JrsxlH5t@ OBJE
 1 _GUID a8051008-9c8d-49d0-8857-6cfca0f4816b
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Justice Media\N
@@ -8451,7 +8621,6 @@
 2 _TEXT Wills and Estate Papers (Craven County), 1663-1978; Author
 3 CONC : North Carolina. Division of Archives and History; Probat
 3 CONC e Place: Craven, North Carolina
-1 REFN 482ea240-eb36-4693-b03e-c4748fd734e1
 0 @YLPXJGW0SrCgeAs5sYl2@ OBJE
 1 _GUID 9268cab8-4233-481c-acd8-2a8bf587308c
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Justice Media\N
@@ -8461,7 +8630,6 @@
 2 _TEXT Wills and Estate Papers (Craven County), 1663-1978; Author
 3 CONC : North Carolina. Division of Archives and History; Probat
 3 CONC e Place: Craven, North Carolina
-1 REFN cdba8379-8e75-4f2d-993e-3d0cea902cf9
 0 @o06vPnlbRnCl06GYBuVN@ OBJE
 1 _GUID ebf7485f-4e7d-4f26-b2e8-4b4c9370e2a7
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Justice Media\N
@@ -8471,7 +8639,6 @@
 2 _TEXT Wills and Estate Papers (Craven County), 1663-1978; Author
 3 CONC : North Carolina. Division of Archives and History; Probat
 3 CONC e Place: Craven, North Carolina
-1 REFN 1424d41b-8b78-483f-ba2f-dcafc9f1ae65
 0 @TUUnc4XCT6u9iVvAcUFM@ OBJE
 1 _GUID e701b83d-d3bc-482d-917f-3f0b712964fd
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Justice Media\N
@@ -8481,7 +8648,6 @@
 2 _TEXT Wills and Estate Papers (Craven County), 1663-1978; Author
 3 CONC : North Carolina. Division of Archives and History; Probat
 3 CONC e Place: Craven, North Carolina
-1 REFN 24f649bb-8020-4f1e-9ff2-9e356f32566f
 0 @eiUNwUXITBaGMjARjGv4@ OBJE
 1 _GUID 33bf2c10-dbe6-42db-9a67-cb915e4c9e9a
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Justice Media\N
@@ -8491,7 +8657,6 @@
 2 _TEXT Wills and Estate Papers (Craven County), 1663-1978; Author
 3 CONC : North Carolina. Division of Archives and History; Probat
 3 CONC e Place: Craven, North Carolina
-1 REFN 79f35ab0-5811-404d-b45a-5df566ebe43f
 0 @VqP2BTaxQK6hl4u1ibWW@ OBJE
 1 _GUID 737a04ba-8e46-4943-b9e7-3f8e4341b170
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Justice Media\N
@@ -8501,7 +8666,6 @@
 2 _TEXT Wills and Estate Papers (Craven County), 1663-1978; Author
 3 CONC : North Carolina. Division of Archives and History (Raleigh
 3 CONC , North Carolina); Probate Place: Craven, North Carolina
-1 REFN ad8c1e94-ac88-4082-95f9-4a753e8d0322
 0 @JGY2CX9sTiG3csnpySYs@ OBJE
 1 _GUID 508c6c28-cb59-4e3b-bb23-7cc62993903e
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Justice Media\N
@@ -8511,7 +8675,6 @@
 2 _TEXT Wills and Estate Papers (Craven County), 1663-1978; Author
 3 CONC : North Carolina. Division of Archives and History (Raleigh
 3 CONC , North Carolina); Probate Place: Craven, North Carolina
-1 REFN dfe181eb-2f89-4527-9314-e85f6856b84e
 0 @1JO4zPKiRXqRvRHYXzk0@ OBJE
 1 _GUID 4a7c6785-d62a-4f82-a093-cd0050d882df
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Justice Media\N
@@ -8521,7 +8684,6 @@
 2 _TEXT Wills and Estate Papers (Craven County), 1663-1978; Author
 3 CONC : North Carolina. Division of Archives and History (Raleigh
 3 CONC , North Carolina); Probate Place: Craven, North Carolina
-1 REFN f67422bc-9048-4077-96af-56589b22d738
 0 @FSGReHbcTMSzTlu21bDR@ OBJE
 1 _GUID a18b4e48-b58b-438d-9890-a11556a78f6c
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Justice Media\N
@@ -8531,7 +8693,6 @@
 2 _TEXT Wills and Estate Papers (Craven County), 1663-1978; Author
 3 CONC : North Carolina. Division of Archives and History (Raleigh
 3 CONC , North Carolina); Probate Place: Craven, North Carolina
-1 REFN 66a3ff8f-b966-4624-9a36-1fe26f87aab8
 0 @oO0RjjsOSoCDHIep7dwY@ OBJE
 1 _GUID bce58267-c123-44ca-943d-32704a378691
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Justice Media\N
@@ -8541,7 +8702,6 @@
 2 _TEXT Wills and Estate Papers (Craven County), 1663-1978; Author
 3 CONC : North Carolina. Division of Archives and History (Raleigh
 3 CONC , North Carolina); Probate Place: Craven, North Carolina
-1 REFN c263b80b-f37c-4fcb-83d9-d4c60fe58ee2
 0 @gCpXJeLASMWycWrQwgRq@ OBJE
 1 _GUID 67377c4c-b590-43e5-9dec-4daac13e580e
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Justice Media\N
@@ -8551,7 +8711,6 @@
 2 _TEXT Wills and Estate Papers (Craven County), 1663-1978; Author
 3 CONC : North Carolina. Division of Archives and History (Raleigh
 3 CONC , North Carolina); Probate Place: Craven, North Carolina
-1 REFN 61f2d1b7-f75c-4f11-9c08-dc2c194400fb
 0 @ShP21B4lSVq0TXmQAha1@ OBJE
 1 _GUID a582ed43-bf07-4e54-94b3-b278bf698ca2
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Justice Media\N
@@ -8561,7 +8720,6 @@
 2 _TEXT Wills and Estate Papers (Craven County), 1663-1978; Author
 3 CONC : North Carolina. Division of Archives and History (Raleigh
 3 CONC , North Carolina); Probate Place: Craven, North Carolina
-1 REFN cf9a99e5-652b-41c8-8b5d-f817445a1b90
 0 @s37L49gPQLGmRfUPX0Qp@ OBJE
 1 _GUID f0585dd8-e63b-45c9-9274-dfeacff1a01b
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Justice Media\N
@@ -8571,7 +8729,6 @@
 2 _TEXT Wills and Estate Papers (Craven County), 1663-1978; Author
 3 CONC : North Carolina. Division of Archives and History (Raleigh
 3 CONC , North Carolina); Probate Place: Craven, North Carolina
-1 REFN 0e0efdf2-5870-4e5a-81ce-86548f90d692
 0 @i5XtEaY8RCSRhBUbMqXe@ OBJE
 1 _GUID 6f6e5403-8f4d-422d-8b76-081bd9224e58
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Justice Media\N
@@ -8581,7 +8738,6 @@
 2 _TEXT Wills and Estate Papers (Craven County), 1663-1978; Author
 3 CONC : North Carolina. Division of Archives and History (Raleigh
 3 CONC , North Carolina); Probate Place: Craven, North Carolina
-1 REFN 5241a6e5-e46b-4855-9d68-627b7c1ea45c
 0 @H1F1RzDYTdy3MEDyx8CE@ OBJE
 1 _GUID 7ea4cad1-8aba-4557-aff9-e29427c998d5
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Justice Media\N
@@ -8591,7 +8747,6 @@
 2 _TEXT Wills and Estate Papers (Craven County), 1663-1978; Author
 3 CONC : North Carolina. Division of Archives and History (Raleigh
 3 CONC , North Carolina); Probate Place: Craven, North Carolina
-1 REFN 350ae0ef-6fbf-486d-943e-425d062874cb
 0 @WRSGc5YZQCCmBYJH1Zes@ OBJE
 1 _GUID b69e3fc4-ef4a-4fab-806a-e7f29554c71e
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Justice Media\N
@@ -8601,7 +8756,6 @@
 2 _TEXT Wills and Estate Papers (Craven County), 1663-1978; Author
 3 CONC : North Carolina. Division of Archives and History (Raleigh
 3 CONC , North Carolina); Probate Place: Craven, North Carolina
-1 REFN 3ade8c23-356e-4f77-a134-e5e0122d0631
 0 @nIbTfvMDQhesdehaAzes@ OBJE
 1 _GUID baf32f40-cdd8-44f7-a93a-f7b01fe12e65
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Justice Media\N
@@ -8611,7 +8765,6 @@
 2 _TEXT Wills and Estate Papers (Craven County), 1663-1978; Author
 3 CONC : North Carolina. Division of Archives and History (Raleigh
 3 CONC , North Carolina); Probate Place: Craven, North Carolina
-1 REFN 1820fef4-1f7c-43c6-9b63-760d990e7427
 0 @fA3pImmwRye4GVrKiHbR@ OBJE
 1 _GUID 506e6511-e960-40f0-baa0-408bc99558e0
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Justice Media\N
@@ -8621,7 +8774,6 @@
 2 _TEXT Wills and Estate Papers (Craven County), 1663-1978; Author
 3 CONC : North Carolina. Division of Archives and History (Raleigh
 3 CONC , North Carolina); Probate Place: Craven, North Carolina
-1 REFN e1a160a9-f789-4568-8714-8f86f2f3ada7
 0 @Qde2268zRiSEPE8KKXKU@ OBJE
 1 _GUID c44ae9bf-0b02-41ba-af6b-16908c0931b7
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Justice Media\N
@@ -8631,7 +8783,6 @@
 2 _TEXT Wills and Estate Papers (Craven County), 1663-1978; Author
 3 CONC : North Carolina. Division of Archives and History (Raleigh
 3 CONC , North Carolina); Probate Place: Craven, North Carolina
-1 REFN c1efd41d-e537-4a37-8541-306b26bee92b
 0 @iI9WqSjySLer4beydL6L@ OBJE
 1 _GUID d6c7981a-a2fd-47cf-b99c-626a2577fc9f
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Justice Media\N
@@ -8641,7 +8792,6 @@
 2 _TEXT Wills and Estate Papers (Craven County), 1663-1978; Author
 3 CONC : North Carolina. Division of Archives and History; Probat
 3 CONC e Place: Craven, North Carolina
-1 REFN fea9ebb9-74e5-4d5c-9439-00967f7bb3b4
 0 @xqqrH7kITMKgE6XTeiUT@ OBJE
 1 _GUID 1db9155f-6907-4dd1-aa1e-8a69872429a4
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Justice Media\N
@@ -8651,7 +8801,6 @@
 2 _TEXT Wills and Estate Papers (Craven County), 1663-1978; Author
 3 CONC : North Carolina. Division of Archives and History; Probat
 3 CONC e Place: Craven, North Carolina
-1 REFN c01fd3a0-7a2c-46ff-9197-46a0c077d4aa
 0 @yResReACQeOPzZE3EqLm@ OBJE
 1 _GUID b7d1f165-ff1b-4338-85ff-4b4c6bec84b9
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Justice Media\N
@@ -8661,7 +8810,6 @@
 2 _TEXT Wills and Estate Papers (Craven County), 1663-1978; Author
 3 CONC : North Carolina. Division of Archives and History; Probat
 3 CONC e Place: Craven, North Carolina
-1 REFN 9964e0bc-fef8-4ed9-9722-e5e8d40da2dd
 0 @TG6Zul29RTCrk0eUyjVt@ OBJE
 1 _GUID 54607892-e1b2-4d43-b86d-3e1ac9234261
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Justice Media\N
@@ -8671,7 +8819,6 @@
 2 _TEXT Wills and Estate Papers (Craven County), 1663-1978; Author
 3 CONC : North Carolina. Division of Archives and History; Probat
 3 CONC e Place: Craven, North Carolina
-1 REFN d267b5bf-5e30-4768-a110-baf69bec3eca
 0 @63p2u9ynQp2kdDhTx7lG@ OBJE
 1 _GUID e968179c-cebf-46fd-8ad9-84dc40550a03
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Justice Media\N
@@ -8681,7 +8828,6 @@
 2 _TEXT Wills and Estate Papers (Craven County), 1663-1978; Author
 3 CONC : North Carolina. Division of Archives and History; Probat
 3 CONC e Place: Craven, North Carolina
-1 REFN 09689241-b5f9-4744-8de3-d134fa814dec
 0 @FMo8IhzGSlaGPnF9P4Iu@ OBJE
 1 _GUID 9a6460b4-882c-48d2-9e8f-5b825a06a5b4
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Justice Media\N
@@ -8691,7 +8837,6 @@
 2 _TEXT Wills and Estate Papers (Craven County), 1663-1978; Author
 3 CONC : North Carolina. Division of Archives and History; Probat
 3 CONC e Place: Craven, North Carolina
-1 REFN f1fc6d76-594e-426f-9bfc-f6252d955084
 0 @LPlYN4wiTxyZeVd4caq9@ OBJE
 1 _GUID 63eed1cc-ef2e-4b67-a606-3c5d15d60912
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Justice Media\N
@@ -8701,7 +8846,6 @@
 2 _TEXT Wills and Estate Papers (Craven County), 1663-1978; Author
 3 CONC : North Carolina. Division of Archives and History; Probat
 3 CONC e Place: Craven, North Carolina
-1 REFN 2bb3af46-9c52-411c-a51f-510541998f0f
 0 @BPYOuaLIQcOMqy9jJAqF@ OBJE
 1 _GUID 1bd2a84c-2153-4aaf-a32f-c80c1e8dad44
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Justice Media\N
@@ -8711,7 +8855,6 @@
 2 _TEXT Wills and Estate Papers (Craven County), 1663-1978; Author
 3 CONC : North Carolina. Division of Archives and History; Probat
 3 CONC e Place: Craven, North Carolina
-1 REFN 1c68dec1-7272-49c8-a7a7-a0f9420bd80c
 0 @fEbNmkQjRPCQEpGg0bYu@ OBJE
 1 _GUID 45e1ef7f-2bf4-4fe2-abf2-b77f05869887
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Justice Media\U
@@ -8719,7 +8862,6 @@
 2 FORM jpg
 2 TITL U.S. Federal Census Mortality Schedules, 1850-1885
 2 _TEXT Census Year: 1880; Census Location: Craven, North Carolina
-1 REFN 178391fe-ad43-49dc-8e70-d8decbcd5ae5
 0 @fl6WtM7YSMmKAUbyL5xZ@ OBJE
 1 _GUID 49008f15-3860-4336-a12d-5b0440ecc82c
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Justice Media\U
@@ -8727,7 +8869,6 @@
 2 CONC jpg
 2 FORM jpg
 2 TITL U.S., Newspaper Extractions from the Northeast, 1704-1930
-1 REFN 7f5338f6-dbd1-4e9a-8dff-4be2d7f2589b
 0 @F01tTqcoS0OLFMB0ezzs@ OBJE
 1 _GUID 1365ea14-d491-40cf-ae6d-7d8e4112ba14
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Justice Media\V
@@ -8736,7 +8877,6 @@
 2 FORM jpg
 2 TITL Virginia, Marriages of the Northern Neck of Virginia, 1649-1
 3 CONC 800
-1 REFN 5079bba3-e55f-4d23-be89-aebe625d47fc
 0 @32xyg3elTC6zgMp7htjj@ OBJE
 1 _GUID c2c8aa21-4c35-41fc-8f7c-8e8a250646cc
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Justice Media\V
@@ -8745,12 +8885,10 @@
 2 FORM jpg
 2 TITL Virginia, Marriages of the Northern Neck of Virginia, 1649-1
 3 CONC 800
-1 REFN 50671205-5c47-434b-b8b1-2fb397a7ed42
 0 @1NFM5mGLSneL0Lt6qy4Z@ OBJE
 1 _GUID e2fd36a3-499c-482c-91d0-5254ef6b228e
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Justice Media\W
 2 CONC ade Zachary land fr Margaret Brent.jpg
 2 FORM jpg
 2 TITL Wade Zachary land fr Margaret Brent
-1 REFN d251db7b-384f-4285-bd23-3b285a995676
 0 TRLR
