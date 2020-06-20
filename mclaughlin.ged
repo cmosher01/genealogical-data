@@ -14,9 +14,9 @@
 4 CONT Boston, MA 02109
 3 PHON (617) 227-6681
 1 DEST FTM
-1 FILE McLaughlin_2020-06-12-03-45-18.ftm.ged
-1 DATE 12 JUN 2020
-2 TIME 03:42:37
+1 FILE McLaughlin_2020-06-20-02-22-10.ftm.ged
+1 DATE 20 JUN 2020
+2 TIME 02:22:29
 0 @Umy2qBWIRUiwVSS6Hcn4@ SUBM
 1 NAME Christopher Alan Mosher
 2 EMAIL cmosher01@@gmail.com
@@ -16646,11 +16646,6 @@
 1 ADDR Shelton, Connecticut, USA
 1 EMAIL
 1 PHON
-0 @R4@ REPO
-1 NAME Ancestry.com
-1 ADDR
-1 EMAIL
-1 PHON
 0 @S86@ SOUR
 1 REPO @R1@
 1 TITL 1850 United States Federal Census
@@ -16745,14 +16740,14 @@
 1 AUTH Hornby [New York] Historical Society
 1 PUBL Tennessee Valley Publishing, Knoxville, TN, 2000
 0 @S101@ SOUR
-1 REPO @R4@
+1 REPO @R1@
 1 TITL New York State, Birth Index, 1881-1942
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Lehi, UT, USA; Date
 2 CONC : 2018
 1 _APID 61667
 0 @S102@ SOUR
-1 REPO @R4@
+1 REPO @R1@
 1 TITL New York State, Death Index, 1957-1968
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Lehi, UT, USA; Date
@@ -16830,14 +16825,14 @@
 2 CONC e: 2014
 1 _APID 7364
 0 @TGKTvmYkRIad5UXaC837@ SOUR
-1 REPO @R4@
+1 REPO @R1@
 1 TITL New York, State Census, 1915
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2012
 1 _APID 2703
 0 @XwjA9DOQSF6Rp4tqv0Z2@ SOUR
-1 REPO @R4@
+1 REPO @R1@
 1 TITL New York, State Census, 1925
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
@@ -16852,7 +16847,7 @@
 2 CONC e: 2011
 1 _APID 1964
 0 @S104@ SOUR
-1 REPO @R4@
+1 REPO @R1@
 1 TITL Newspapers.com Obituary Index, 1800s-current
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations Inc; Location: Lehi, UT, USA; Date
@@ -16897,14 +16892,14 @@
 2 CONC e: 2010
 1 _APID 1791
 0 @S98@ SOUR
-1 REPO @R4@
+1 REPO @R1@
 1 TITL U.S. City Directories, 1822-1995
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2011
 1 _APID 2469
 0 @S99@ SOUR
-1 REPO @R4@
+1 REPO @R1@
 1 TITL U.S. Veterans' Gravesites, ca.1775-2006
 1 AUTH National Cemetery Administration
 1 PUBL Ancestry.com Operations Inc; Location: Provo, UT, USA; Date
@@ -16947,7 +16942,7 @@
 2 CONC e: 2010
 1 _APID 1127
 0 @S100@ SOUR
-1 REPO @R4@
+1 REPO @R1@
 1 TITL U.S., Obituary Collection, 1930-2018
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations Inc; Location: Lehi, UT, USA; Date
@@ -16962,7 +16957,7 @@
 2 CONC e: 2010
 1 _APID 1276
 0 @S97@ SOUR
-1 REPO @R4@
+1 REPO @R1@
 1 TITL U.S., Social Security Applications and Claims Index, 1936-20
 2 CONC 07
 1 AUTH Ancestry.com

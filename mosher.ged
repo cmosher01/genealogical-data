@@ -14,9 +14,9 @@
 4 CONT Boston, MA 02109
 3 PHON (617) 227-6681
 1 DEST FTM
-1 FILE Mosher_2020-06-17-03-48-03.ftm.ged
-1 DATE 17 JUN 2020
-2 TIME 03:48:33
+1 FILE Mosher_2020-06-20-02-20-29.ftm.ged
+1 DATE 20 JUN 2020
+2 TIME 02:20:55
 0 @Umy2qBWIRUiwVSS6Hcn4@ SUBM
 1 NAME Christopher Alan Mosher
 2 EMAIL cmosher01@@gmail.com
@@ -43362,41 +43362,36 @@
 1 ADDR
 1 EMAIL
 1 PHON
-0 @R9@ REPO
-1 NAME Ancestry.com
-1 ADDR
-1 EMAIL
-1 PHON
 0 @S320@ SOUR
-1 REPO @R9@
+1 REPO @R1@
 1 TITL 1790 United States Federal Census
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2010
 1 _APID 5058
 0 @S315@ SOUR
-1 REPO @R9@
+1 REPO @R1@
 1 TITL 1800 United States Federal Census
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations Inc; Location: Provo, UT, USA; Date
 2 CONC : 2010
 1 _APID 7590
 0 @S316@ SOUR
-1 REPO @R9@
+1 REPO @R1@
 1 TITL 1810 United States Federal Census
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2010
 1 _APID 7613
 0 @8DCmzn75S8CoxNQmoyL8@ SOUR
-1 REPO @R9@
+1 REPO @R1@
 1 TITL 1820 United States Federal Census
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2010
 1 _APID 7734
 0 @IXkilGMfSsmx954YFeZF@ SOUR
-1 REPO @R9@
+1 REPO @R1@
 1 TITL 1830 United States Federal Census
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
@@ -43439,7 +43434,7 @@
 2 CONC : 2010
 1 _APID 6742
 0 @MYPTYwXjROCnuswpONVl@ SOUR
-1 REPO @R9@
+1 REPO @R1@
 1 TITL 1900 United States Federal Census
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations Inc; Location: Provo, UT, USA; Date
@@ -43467,7 +43462,7 @@
 2 CONC e: 2010
 1 _APID 6061
 0 @S393@ SOUR
-1 REPO @R9@
+1 REPO @R1@
 1 TITL 1921 Census of Canada
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations Inc; Location: Provo, UT, USA; Date
@@ -43491,7 +43486,7 @@
 1 TITL [Unknown newspaper, clipping, Mosher, Frederick, marriage]
 1 PUBL In possession of Chris Mosher, 1934
 0 @xCp8VgpUTy6BVuoyJk5I@ SOUR
-1 REPO @R9@
+1 REPO @R1@
 1 TITL American Genealogical-Biographical Index (AGBI)
 1 AUTH Godfrey Memorial Library, comp.
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
@@ -43535,14 +43530,14 @@
 1 AUTH Thiessen, Jo
 1 PUBL http://www.mindspring.com/~jogt/surnames/batcheld.htm
 0 @S287@ SOUR
-1 REPO @R9@
+1 REPO @R1@
 1 TITL California Birth Index, 1905-1995
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations Inc; Location: Provo, UT, USA; Date
 2 CONC : 2005
 1 _APID 5247
 0 @S304@ SOUR
-1 REPO @R9@
+1 REPO @R1@
 1 TITL California, County Birth, Marriage, and Death Records, 1849-
 2 CONC 1980
 1 AUTH Ancestry.com
@@ -43564,21 +43559,21 @@
 2 CONC : 2000
 1 _APID 5180
 0 @S387@ SOUR
-1 REPO @R9@
+1 REPO @R1@
 1 TITL California, Divorce Index, 1966-1984
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations Inc; Location: Provo, UT, USA; Date
 2 CONC : 2007
 1 _APID 1141
 0 @S307@ SOUR
-1 REPO @R9@
+1 REPO @R1@
 1 TITL California, Voter Registrations, 1900-1968
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations Inc; Location: Provo, UT, USA; Date
 2 CONC : 2017
 1 _APID 61066
 0 @S386@ SOUR
-1 REPO @R9@
+1 REPO @R1@
 1 TITL Carson City, Nevada, Marriage Index, 1855-1985
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
@@ -43615,7 +43610,7 @@
 2 CONC h 4 loose pages]
 1 PUBL In possession of Chris Mosher
 0 @S312@ SOUR
-1 REPO @R9@
+1 REPO @R1@
 1 TITL Connecticut, Town Marriage Records, pre-1870 (Barbour Collec
 2 CONC tion)
 1 AUTH Ancestry.com
@@ -43627,42 +43622,42 @@
 2 CONC y copy?]
 1 PUBL In possession of Chris Mosher, 1961
 0 @S294@ SOUR
-1 REPO @R9@
+1 REPO @R1@
 1 TITL Cook County, Illinois Birth Index, 1916-1935
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations Inc; Location: Provo, UT, USA; Date
 2 CONC : 2008
 1 _APID 1499
 0 @S283@ SOUR
-1 REPO @R9@
+1 REPO @R1@
 1 TITL Cook County, Illinois Death Index, 1908-1988
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations Inc; Location: Provo, UT, USA; Date
 2 CONC : 2008
 1 _APID 1501
 0 @S302@ SOUR
-1 REPO @R9@
+1 REPO @R1@
 1 TITL Cook County, Illinois Marriage Index, 1930-1960
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations Inc; Location: Provo, UT, USA; Date
 2 CONC : 2008
 1 _APID 1500
 0 @S293@ SOUR
-1 REPO @R9@
+1 REPO @R1@
 1 TITL Cook County, Illinois, Birth Certificates Index, 1871-1922
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2011
 1 _APID 2545
 0 @S288@ SOUR
-1 REPO @R9@
+1 REPO @R1@
 1 TITL Cook County, Illinois, Deaths Index, 1878-1922
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2011
 1 _APID 2552
 0 @S292@ SOUR
-1 REPO @R9@
+1 REPO @R1@
 1 TITL Cook County, Illinois, Marriages Index, 1871-1920
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
@@ -43724,7 +43719,7 @@
 2 CONT dob 1911 say grad hs @@ 18 would make 1929<br />
 2 CONT earliest for colgate<br />
 0 @S314@ SOUR
-1 REPO @R9@
+1 REPO @R1@
 1 TITL Early Connecticut Marriages
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
@@ -43818,14 +43813,14 @@
 2 CONC : 2004
 1 _APID 7338
 0 @S308@ SOUR
-1 REPO @R9@
+1 REPO @R1@
 1 TITL Florida, Divorce Index, 1927-2001
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations Inc; Location: Provo, UT, USA; Date
 2 CONC : 2005
 1 _APID 8837
 0 @S284@ SOUR
-1 REPO @R9@
+1 REPO @R1@
 1 TITL Florida, Marriage Indexes, 1822-1875 and 1927-2001
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations Inc; Location: Provo, UT, USA; Date
@@ -43839,7 +43834,7 @@
 2 CONC : 2008
 1 _APID 1506
 0 @S371@ SOUR
-1 REPO @R9@
+1 REPO @R1@
 1 TITL Global, Find A Grave Index for Burials at Sea and other Sele
 2 CONC ct Burial Locations, 1300s-Current
 1 AUTH Ancestry.com
@@ -43861,7 +43856,7 @@
 1 AUTH Lane Memorial Library, Hampton, NH, USA
 1 PUBL http://www.hampton.lib.nh.us/genealog/
 0 @S385@ SOUR
-1 REPO @R9@
+1 REPO @R1@
 1 TITL Honolulu, Hawaii, Passenger and Crew Lists, 1900-1959
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
@@ -43873,14 +43868,14 @@
 1 AUTH Scovil, Elizabeth Robinson
 1 PUBL Procter & Gamble Co., Cincinnati, OH, 1906
 0 @S282@ SOUR
-1 REPO @R9@
+1 REPO @R1@
 1 TITL Illinois, Deaths and Stillbirths Index, 1916-1947
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2011
 1 _APID 2542
 0 @S388@ SOUR
-1 REPO @R9@
+1 REPO @R1@
 1 TITL Indiana, Birth Certificates, 1907-1940
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
@@ -45152,7 +45147,7 @@
 2 CONC e: 2012
 1 _APID 70573
 0 @S377@ SOUR
-1 REPO @R9@
+1 REPO @R1@
 1 TITL Web: Rhode Island, Historical Cemetery Commission Index, 164
 2 CONC 7-2008
 1 AUTH Ancestry.com
