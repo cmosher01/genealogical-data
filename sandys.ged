@@ -1,0 +1,707 @@
+0 HEAD
+1 CHAR UTF-8
+1 GEDC
+2 VERS 5.5.1
+2 FORM LINEAGE-LINKED
+1 COPR Copyright © 1998–2020, Christopher Alan Mosher, Shelton, CT
+2 CONC , USA.
+1 SUBM @Umy2qBWIRUiwVSS6Hcn4@
+1 SOUR FTM
+2 VERS 24.0.1.1252
+2 NAME Family Tree Maker for Windows
+2 CORP The Software MacKiev Company
+3 ADDR 30 Union Wharf
+4 CONT Boston, MA 02109
+3 PHON (617) 227-6681
+1 DEST FTM
+1 FILE Sandys_2020-06-21-18-36-19.ftm.ged
+1 DATE 21 JUN 2020
+2 TIME 18:36:56
+0 @Umy2qBWIRUiwVSS6Hcn4@ SUBM
+1 NAME Christopher Alan Mosher
+2 EMAIL cmosher01@@gmail.com
+2 WWW https://mosher.mine.nu/
+2 WWW https://github.com/cmosher01/
+2 WWW https://www.ancestry.com/connect/Profile/0065664a-0000-0000-
+3 CONC 0000-000000000000
+2 ADDR 41 Brook Pine Drive
+3 CONT Shelton, Connecticut 06484-5912
+3 CONT USA
+3 ADR1 41 Brook Pine Drive
+3 ADR2 Shelton, Connecticut 06484-5912
+3 ADR3 USA
+3 CITY Shelton
+3 STAE Connecticut
+3 POST 06484-5912
+3 CTRY USA
+2 PHON +1-203-414-7716
+2 PHON +1-203-944-9487
+2 PHON +1-203-513-9292
+1 LANG English
+1 RIN Umy2qBWIRUiwVSS6Hcn4
+0 @I1@ INDI
+1 NAME Elizabeth /Cavendish/
+1 SEX F
+1 FAMS @F5@
+1 _GUID d15045b6-0d15-463f-99fe-15c2732c9b40
+0 @I13@ INDI
+1 NAME Priscilla /Chauncy/
+1 SEX F
+1 FAMS @F1@
+1 _GUID 3213cee6-8b8b-4e57-812e-04a4a862ce10
+0 @I17@ INDI
+1 NAME Edward /Goffe/
+1 SEX M
+1 FAMS @F11@
+1 _GUID 7d237546-2f10-435e-a575-efd9e5fcf01a
+0 @I18@ INDI
+1 NAME Edward /Goffe/
+1 SEX M
+1 FAMC @F11@
+1 _GUID 832f51f0-1836-4b2e-8610-2605ce36e493
+0 @I16@ INDI
+1 NAME Elizabeth /Goffe/
+2 SOUR @S3@
+3 PAGE Source number: 737.000; Source type: Electronic Database; Nu
+4 CONC mber of Pages: 1; Submitter Code: BKJ
+3 _APID 7836:476262
+1 SEX F
+1 FAMC @F11@
+1 FAMS @F2@
+1 _GUID adf58908-1a81-49bb-ac60-74f268027803
+0 @I7@ INDI
+1 NAME George /Sandes/
+1 SEX M
+1 FAMC @F9@
+1 FAMS @F8@
+1 _GUID 352ecd87-4b25-4ce3-88ea-b1c5dc0f6d80
+0 @I10@ INDI
+1 NAME Oliver /Sandes/
+1 SEX M
+1 FAMC @F9@
+1 _GUID 8b92a2cc-2ff3-4bc4-ac7e-ce0bc3346190
+0 @I11@ INDI
+1 NAME William /Sandes/
+1 SEX M
+1 FAMC @F10@
+1 FAMS @F13@
+1 _GUID 444250f6-689d-4539-b299-4d993d1448cb
+0 @I6@ INDI
+1 NAME William /Sandes/
+1 SEX M
+1 FAMC @F8@
+1 FAMS @F12@
+1 DEAT
+2 DATE ABT 1549
+1 _GUID 786bb912-d1f7-419b-8818-841ac22d75c1
+0 @I8@ INDI
+1 NAME William /Sandes/
+1 SEX M
+1 FAMS @F9@
+1 _GUID 1c0e6262-46ba-4e46-a8d9-08f0010a78f9
+0 @I9@ INDI
+1 NAME William /Sandes/
+1 SEX M
+1 FAMC @F9@
+1 FAMS @F10@
+1 _GUID 9f645ef9-379d-4f65-bf1d-781730213ab4
+0 @I2@ INDI
+1 NAME Anne /Sandys/
+1 SEX F
+1 FAMC @F5@
+1 _GUID ec6d608b-8763-4797-a5a2-dfc1d8811afa
+0 @I14@ INDI
+1 NAME Chauncy /Sandys/
+2 SOUR @S2@
+3 _APID 3997:60770
+1 SEX M
+1 FAMC @F1@
+1 BIRT
+2 DATE 1606
+2 PLAC Edgcote, Northamptonshire, England
+3 MAP
+4 LATI N52.1261
+4 LONG W1.2655
+1 EDUC admitted
+2 DATE 27 JUL 1621
+2 PLAC Sidney Sussex College, Cambridge University, Cambridge, Camb
+3 CONC ridgeshire, England
+2 SOUR @S10@
+3 PAGE <bibl><author>John Venn and J[ohn] A[rchibald] Venn</author>
+4 CONC , compilers, <title level="m">Alumni Cantabrigienses
+4 CONC ;     a biographical list of all known students, graduates
+4 CONC , and holders of office,     at the University of Cambridge
+4 CONC , from the earliest times to 1900</title> (<pubPlace>Cambrid
+4 CONC ge</pubPlace>: <publisher>The University press</publisher>
+4 CONC , 1927), <citedRange>part 1, vol. 4, p. 19</citedRange>; dig
+4 CONC ital images, <title level="m">Internet Archive</title> (<re
+4 CONC f target="https://archive.org/details/p1alumnicantabri04univ
+4 CONC uoft/page/19/mode/1up"/> : accessed 21 Jun 2020).</bibl>
+3 DATA
+4 TEXT SANDYS, CHAUNCEY. Adm. pens. (age 15) at SIDNEY, July 27, 16
+5 CONC 21. S. of Henry, of Culworth, Northants., gent., deceased (a
+5 CONC nd Priscilla, dau. of Sir Toby Chauncy, of Edgcote). B. at E
+5 CONC dgcote, Northants. Schools, Edgcote and Ashby. Matric. 1621.
+3 OBJE @M5@
+3 _LINK https://archive.org/details/p1alumnicantabri04univuoft/page/
+4 CONC 19/mode/1up
+2 SOUR @S2@
+3 _APID 3997:60770
+1 _GUID a2bd315f-6836-41c4-abe6-b89cb11e9d2c
+0 @I20@ INDI
+1 NAME Edwin /Sandys/
+2 SOUR @S7@
+3 OBJE @M2@
+3 _APID 7077:5268
+2 SOUR @S4@
+3 _APID 7249:10037009
+2 SOUR @S5@
+3 _APID 60526:249559
+2 SOUR @S6@
+3 _APID 1610:277728
+1 SEX M
+1 FAMC @F12@
+1 FAMS @F3@
+1 FAMS @F4@
+1 BIRT
+2 DATE ABT 1519
+2 PLAC Hawkshead, Lancashire, England
+3 MAP
+4 LATI N54.3749
+4 LONG W3.0003
+2 SOUR @S7@
+3 OBJE @M2@
+3 _APID 7077:5268
+2 SOUR @S9@
+3 PAGE sec. 5, part 2, image 420 of 449
+3 OBJE @M3@
+3 _APID 28849:406
+2 SOUR @S4@
+3 _APID 7249:10037009
+2 SOUR @S5@
+3 _APID 60526:249559
+1 DEAT
+2 DATE 10 JUL 1588
+2 PLAC Southwell, Nottinghamshire, England
+3 MAP
+4 LATI N53.0667
+4 LONG W0.95
+2 SOUR @S7@
+3 OBJE @M2@
+3 _APID 7077:5268
+2 SOUR @S9@
+3 PAGE sec. 5, part 2, image 420 of 449
+3 OBJE @M3@
+3 _APID 28849:406
+2 SOUR @S4@
+3 _APID 7249:10037009
+2 SOUR @S5@
+3 _APID 60526:249559
+2 SOUR @S6@
+3 _APID 1610:277728
+1 BURI
+2 DATE ABT JUL 1588
+2 PLAC Southwell, Nottinghamshire, England
+3 MAP
+4 LATI N53.0667
+4 LONG W0.95
+2 SOUR @S5@
+3 _APID 60526:249559
+1 _GUID 26143c59-36d6-417b-bae9-271dffc07dfa
+0 @I26@ INDI
+1 NAME Edwin /Sandys/
+1 SEX M
+1 FAMC @F3@
+1 BIRT
+2 DATE ABT 1550
+1 DEAT
+2 DATE ABT 1557
+2 PLAC Strasburg, Vorpommern-Greifswald, Mecklenburg-Vorpommern, Ge
+3 CONC rmany
+1 _GUID a585d556-0526-4c49-98ad-3f11c3a55362
+0 @I24@ INDI
+1 NAME Edwin /Sandys/
+2 SOUR @S5@
+3 _APID 60526:702839
+1 SEX M
+1 FAMC @F4@
+1 BIRT
+2 DATE 09 DEC 1561
+2 SOUR @S5@
+3 _APID 60526:702839
+1 DEAT
+2 DATE 1623
+2 SOUR @S5@
+3 _APID 60526:702839
+1 BURI
+2 PLAC Northbourne, Kent, England
+3 MAP
+4 LATI N51.2198
+4 LONG E1.3396
+2 SOUR @S5@
+3 _APID 60526:702839
+1 _GUID e665e960-2aa7-4939-b7f0-f71e9b069e07
+0 @I23@ INDI
+1 NAME George /Sandys/
+2 SOUR @S8@
+3 PAGE London, England: Oxford University Press; Volume: Vol 17; Pa
+4 CONC ge: 779
+3 OBJE @M4@
+3 _APID 1981:48246
+2 SOUR @S1@
+3 OBJE @M1@
+3 _APID 8942:199567
+2 SOUR @S5@
+3 _APID 60526:4995
+1 SEX M
+1 FAMC @F4@
+1 BIRT
+2 DATE 02 MAR 1578
+2 PLAC Bishopthorpe, Yorkshire, England
+3 MAP
+4 LATI N53.9225
+4 LONG W1.096
+2 SOUR @S8@
+3 PAGE London, England: Oxford University Press; Volume: Vol 17; Pa
+4 CONC ge: 779
+3 OBJE @M4@
+3 _APID 1981:48246
+2 SOUR @S5@
+3 _APID 60526:4995
+1 DEAT
+2 DATE 04 MAR 1644
+2 SOUR @S8@
+3 PAGE London, England: Oxford University Press; Volume: Vol 17; Pa
+4 CONC ge: 779
+3 OBJE @M4@
+3 _APID 1981:48246
+2 SOUR @S5@
+3 _APID 60526:4995
+1 BURI
+2 PLAC Boxley, Kent, England
+3 MAP
+4 LATI N51.3015
+4 LONG E0.546
+2 SOUR @S5@
+3 _APID 60526:4995
+1 _GUID 6d614054-a9cb-4fdd-8f71-02b23a96bc1e
+0 @I15@ INDI
+1 NAME Henry /Sandys/
+2 SOUR @S2@
+3 _APID 3997:60778
+2 SOUR @S3@
+3 PAGE Source number: 737.000; Source type: Electronic Database; Nu
+4 CONC mber of Pages: 1; Submitter Code: BKJ
+3 _APID 7836:1060740
+1 SEX M
+1 FAMS @F2@
+1 NOTE Friend of John Winthrop (1588-1649), of Massachusetts Bay Co
+2 CONC lony, in New England. Winthrop refers to his as "Reverend He
+2 CONC nry Sandys" in his papers.
+2 CONT
+2 CONT Henry is often mentioned to be the father of James Sands (o
+2 CONC f Block Island, Rhode Island, in New England), but there i
+2 CONC s no evidence of this.
+2 CONT
+2 CONT Also, there is no evidence of who Henry's parents are.
+2 CONT
+2 CONT I'm not sure about the evidence of his spouse, listed here a
+2 CONC s Elizabeth Goffe.
+2 CONT
+2 CONT Do not confuse this Henry with Henry Sandys the son of Edwi
+2 CONC n Sandys (Archbishop of York), which Henry having married Pr
+2 CONC iscilla Chauncy.
+1 BIRT
+2 DATE 1549
+2 PLAC England
+3 MAP
+4 LATI N52.5898
+4 LONG W1.4611
+2 SOUR @S3@
+3 PAGE Source number: 737.000; Source type: Electronic Database; Nu
+4 CONC mber of Pages: 1; Submitter Code: BKJ
+3 _APID 7836:1060740
+1 EDUC admitted
+2 DATE SEP 1569
+2 PLAC Saint John’s College, Cambridge University, Cambridge, Cambr
+3 CONC idgeshire, England
+2 SOUR @S2@
+3 _APID 3997:60778
+1 DEAT
+2 DATE 09 NOV 1626
+2 PLAC Groton, Suffolk, England
+3 MAP
+4 LATI N52.0383
+4 LONG E0.8546
+1 TITL Reverend
+1 _GUID d8016f32-c22a-4fdc-bd5c-6f939ec7946a
+0 @I12@ INDI
+1 NAME Henry /Sandys/
+2 SOUR @S2@
+3 _APID 3997:60770
+2 SOUR @S1@
+3 OBJE @M1@
+3 _APID 8942:199658
+1 SEX M
+1 FAMC @F4@
+1 FAMS @F1@
+1 BIRT
+2 DATE 30 SEP 1572
+2 SOUR @S1@
+3 OBJE @M1@
+3 _APID 8942:199658
+1 EDUC admitted
+2 DATE 05 DEC 1589
+2 PLAC Saint Mary Hall, High Street, Oxford University, Oxford, Oxf
+3 CONC ordshire, England
+2 SOUR @S1@
+3 OBJE @M1@
+3 _APID 8942:199658
+1 DEAT
+2 DATE 1620
+2 SOUR @S10@
+3 PAGE <bibl><author>John Venn and J[ohn] A[rchibald] Venn</author>
+4 CONC , compilers, <title level="m">Alumni Cantabrigienses
+4 CONC ;     a biographical list of all known students, graduates
+4 CONC , and holders of office,     at the University of Cambridge
+4 CONC , from the earliest times to 1900</title> (<pubPlace>Cambrid
+4 CONC ge</pubPlace>: <publisher>The University press</publisher>
+4 CONC , 1927), <citedRange>part 1, vol. 4, p. 19</citedRange>; dig
+4 CONC ital images, <title level="m">Internet Archive</title> (<re
+4 CONC f target="https://archive.org/details/p1alumnicantabri04univ
+4 CONC uoft/page/19/mode/1up"/> : accessed 21 Jun 2020).</bibl>
+3 DATA
+4 TEXT SANDYS, CHAUNCEY. Adm. pens. (age 15) at SIDNEY, July 27, 16
+5 CONC 21. S. of Henry, of Culworth, Northants., gent., deceased (a
+5 CONC nd Priscilla, dau. of Sir Toby Chauncy, of Edgcote). B. at E
+5 CONC dgcote, Northants. Schools, Edgcote and Ashby. Matric. 1621.
+3 OBJE @M5@
+3 _LINK https://archive.org/details/p1alumnicantabri04univuoft/page/
+4 CONC 19/mode/1up
+2 SOUR @S2@
+3 _APID 3997:60770
+1 _GUID 4649db6a-11eb-4ef4-95a3-48fc1da222ee
+0 @I3@ INDI
+1 NAME Henry /Sandys/
+1 SEX M
+1 FAMC @F6@
+1 FAMS @F7@
+1 BIRT
+2 DATE ABT 1585
+2 PLAC Berkshire, England
+3 MAP
+4 LATI N51.5213
+4 LONG W0.9257
+1 _GUID 0b9a4697-0d42-497e-a9b1-c9b339c058bc
+0 @I5@ INDI
+1 NAME Henry /Sandys/
+1 SEX M
+1 FAMC @F7@
+1 BIRT
+2 DATE 1618
+2 PLAC Berkshire, England
+3 MAP
+4 LATI N51.5213
+4 LONG W0.9257
+1 DEAT
+2 DATE 1651
+2 PLAC Boston, Suffolk, Massachusetts, USA
+3 MAP
+4 LATI N42.3583
+4 LONG W71.0603
+1 _GUID 173b669b-3c11-4e8c-aabc-7c485e1fbd2d
+0 @I19@ INDI
+1 NAME James /Sandys/
+1 SEX M
+1 FAMC @F3@
+1 FAMS @F6@
+1 BIRT
+2 DATE ABT 1549
+1 _GUID baf23c7a-53ed-4974-8943-7f22bdfbc88f
+0 @I4@ INDI
+1 NAME James /Sandys/
+1 SEX M
+1 FAMC @F7@
+1 BIRT
+2 DATE ABT 1622
+2 PLAC Berkshire, England
+3 MAP
+4 LATI N51.5213
+4 LONG W0.9257
+1 DEAT
+2 DATE 13 MAR 1695
+2 PLAC Block Island, Washington, Rhode Island, USA
+3 MAP
+4 LATI N41.1724
+4 LONG W71.5578
+1 _GUID 019645b5-783a-472e-982a-26a7ad6570f0
+0 @I27@ INDI
+1 NAME John /Sandys/
+1 SEX M
+1 FAMC @F13@
+1 FAMS @F5@
+1 DEAT
+2 DATE FEB 1558
+1 _GUID 9145cddd-4326-4e5d-af6b-7fbaa1290927
+0 @I21@ INDI
+1 NAME Mary /Sandys/
+1 SEX F
+1 FAMC @F5@
+1 FAMS @F3@
+1 BIRT
+2 DATE ABT 1523
+2 PLAC Bracknell, Berkshire, England
+3 MAP
+4 LATI N51.4167
+4 LONG W0.75
+1 DEAT
+2 DATE 1555
+2 PLAC Strasburg, Vorpommern-Greifswald, Mecklenburg-Vorpommern, Ge
+3 CONC rmany
+1 _GUID 3e721ee7-610f-4b70-9530-4f323ec21801
+0 @I25@ INDI
+1 NAME Samuel /Sandys/
+2 SOUR @S5@
+3 _APID 60526:3041237
+1 SEX M
+1 FAMC @F4@
+1 BIRT
+2 DATE 28 DEC 1560
+2 SOUR @S5@
+3 _APID 60526:3041237
+1 DEAT
+2 DATE 18 AUG 1623
+2 SOUR @S5@
+3 _APID 60526:3041237
+1 BURI
+2 PLAC Wickhamford, Worcestershire, England
+3 MAP
+4 LATI N52.0712
+4 LONG W1.9036
+2 SOUR @S5@
+3 _APID 60526:3041237
+1 _GUID 2f54ae12-6bac-400e-a7e3-832d50a9e1cb
+0 @I28@ INDI
+1 NAME William /Sandys/
+1 SEX M
+1 FAMC @F5@
+1 _GUID b073c1cb-ac5c-4825-9302-69a6f934e7f2
+0 @I22@ INDI
+1 NAME Cicely /Wilford/
+2 SOUR @S5@
+3 _APID 60526:608472
+1 SEX M
+1 FAMS @F4@
+1 BIRT
+2 DATE 1534
+2 SOUR @S5@
+3 _APID 60526:608472
+1 DEAT
+2 DATE 05 FEB 1610
+2 PLAC Essex, England
+3 MAP
+4 LATI N51.7809
+4 LONG E0.7324
+2 SOUR @S5@
+3 _APID 60526:608472
+1 BURI
+2 PLAC Woodham Ferrers, Essex, England
+3 MAP
+4 LATI N51.65
+4 LONG E0.6
+2 SOUR @S5@
+3 _APID 60526:608472
+1 _GUID f6be2275-4012-4e46-b515-9c057f485d3a
+0 @F11@ FAM
+1 HUSB @I17@
+1 CHIL @I16@
+2 _FREL Natural
+1 CHIL @I18@
+2 _FREL Natural
+0 @F8@ FAM
+1 HUSB @I7@
+1 CHIL @I6@
+2 _FREL Natural
+0 @F13@ FAM
+1 HUSB @I11@
+1 CHIL @I27@
+2 _FREL Natural
+0 @F12@ FAM
+1 HUSB @I6@
+1 CHIL @I20@
+2 _FREL Natural
+0 @F9@ FAM
+1 HUSB @I8@
+1 CHIL @I10@
+2 _FREL Natural
+1 CHIL @I7@
+2 _FREL Natural
+1 CHIL @I9@
+2 _FREL Natural
+0 @F10@ FAM
+1 HUSB @I9@
+1 CHIL @I11@
+2 _FREL Natural
+0 @F3@ FAM
+1 HUSB @I20@
+1 WIFE @I21@
+1 CHIL @I19@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I26@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR
+2 DATE ABT 1548
+0 @F4@ FAM
+1 HUSB @I20@
+1 WIFE @I22@
+1 CHIL @I25@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I24@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I12@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I23@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR
+2 DATE 19 FEB 1559
+0 @F2@ FAM
+1 HUSB @I15@
+1 WIFE @I16@
+0 @F1@ FAM
+1 HUSB @I12@
+1 WIFE @I13@
+1 CHIL @I14@
+2 _FREL Natural
+2 _MREL Natural
+0 @F7@ FAM
+1 HUSB @I3@
+1 CHIL @I5@
+2 _FREL Natural
+1 CHIL @I4@
+2 _FREL Natural
+0 @F6@ FAM
+1 HUSB @I19@
+1 CHIL @I3@
+2 _FREL Natural
+0 @F5@ FAM
+1 HUSB @I27@
+1 WIFE @I1@
+1 CHIL @I2@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I28@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I21@
+2 _FREL Natural
+2 _MREL Natural
+0 @R1@ REPO
+1 NAME Ancestry.com
+1 ADDR
+1 EMAIL
+1 PHON
+0 @S10@ SOUR
+1 TITL Alumni Cantabrigienses
+1 AUTH Venn, John, and Venn, J. A.
+1 PUBL University Pess; Location: Cambridge; Date: 1922-1954
+0 @S2@ SOUR
+1 REPO @R1@
+1 TITL Cambridge University Alumni, 1261-1900
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations Inc; Location: Provo, UT, USA; Date
+2 CONC : 1999
+1 _APID 3997
+0 @S7@ SOUR
+1 REPO @R1@
+1 TITL Chalmers' General Biographical Dictionary
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations Inc; Location: Provo, UT, USA; Date
+2 CONC : 2010
+1 _APID 7077
+0 @S8@ SOUR
+1 REPO @R1@
+1 TITL Dictionary of National Biography, Volumes 1-22
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
+2 CONC e: 2010
+1 _APID 1981
+0 @S9@ SOUR
+1 REPO @R1@
+1 TITL History of the family of Sandys of Cumberland
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations Inc; Location: Provo, UT, USA; Date
+2 CONC : 2005
+0 @S4@ SOUR
+1 REPO @R1@
+1 TITL Millennium File
+1 AUTH Heritage Consulting
+1 PUBL Ancestry.com Operations Inc; Location: Provo, UT, USA; Date
+2 CONC : 2003
+1 _APID 7249
+0 @S1@ SOUR
+1 REPO @R1@
+1 TITL Oxford University Alumni, 1500-1886
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations Inc; Location: Provo, UT, USA; Date
+2 CONC : 2007
+1 _APID 8942
+0 @S3@ SOUR
+1 REPO @R1@
+1 TITL U.S. and International Marriage Records, 1560-1900
+1 AUTH Yates Publishing
+1 PUBL Ancestry.com Operations Inc; Location: Provo, UT, USA; Date
+2 CONC : 2004
+1 _APID 7836
+0 @S5@ SOUR
+1 REPO @R1@
+1 TITL UK and Ireland, Find A Grave Index, 1300s-Current
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
+2 CONC e: 2012
+1 _APID 60526
+0 @S6@ SOUR
+1 REPO @R1@
+1 TITL UK, Extracted Probate Records, 1269-1975
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations Inc; Location: Provo, UT, USA; Date
+2 CONC : 2009
+1 _APID 1610
+0 @M1@ OBJE
+1 _GUID 9023136f-61f9-4eef-98c5-17b2d7c4010a
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Sandys Media\Ox
+2 CONC ford University Alumni, 1500-1886.jpg
+2 FORM jpg
+2 TITL Oxford University Alumni, 1500-1886
+0 @M2@ OBJE
+1 _GUID 4149b49a-5365-47e2-a4be-848b8494dfe6
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Sandys Media\Ch
+2 CONC almers' General Biographical Dictionary.jpg
+2 FORM jpg
+2 TITL Chalmers' General Biographical Dictionary
+0 @M3@ OBJE
+1 _GUID 2fc4f1c8-6ce2-48d5-9862-67b3623b7ca1
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Sandys Media\dv
+2 CONC m_GenMono008205-00244-0.jpg
+2 FORM jpg
+0 @M4@ OBJE
+1 _GUID 64c326d4-ddf5-4c80-b9cd-1311b23ba6f9
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Sandys Media\Di
+2 CONC ctionary of National Biography, Volumes 1-22.jpg
+2 FORM jpg
+2 TITL Dictionary of National Biography, Volumes 1-22
+2 _TEXT London, England: Oxford University Press; Volume: Vol 17; Pa
+3 CONC ge: 779
+0 @M5@ OBJE
+1 _GUID 8315257a-ab55-4adf-a60a-f4d9806558c5
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Sandys Media\ca
+2 CONC mbridge_alumni_1_4_19.jpg
+2 FORM jpg
+2 TITL cambridge_alumni_1_4_19
+2 _DATE 6/21/2020 6:34:42 PM
+0 TRLR
