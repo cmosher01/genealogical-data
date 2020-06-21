@@ -14,9 +14,9 @@
 4 CONT Boston, MA 02109
 3 PHON (617) 227-6681
 1 DEST FTM
-1 FILE Harrison_2020-06-21-03-10-38.ftm.ged
+1 FILE Harrison_2020-06-21-14-32-57.ftm.ged
 1 DATE 21 JUN 2020
-2 TIME 03:11:04
+2 TIME 14:33:27
 0 @Umy2qBWIRUiwVSS6Hcn4@ SUBM
 1 NAME Christopher Alan Mosher
 2 EMAIL cmosher01@@gmail.com
@@ -4194,22 +4194,25 @@
 2 SOUR @fgk8xAOsQLeHP2vct6BI@
 3 _APID 60525:134903332
 2 SOUR @S200@
-3 OBJE @M133@
-2 SOUR @S200@
-3 PAGE p. 21, top photograph, Alice is the teacher standing in th
-4 CONC e back, (unindexed)
+3 PAGE "U.S., School Yearbooks, 1880-2012"; School Name: Earlvill
+4 CONC e High School; Year: 1948; p. 21, top photograph, Alice is t
+4 CONC he teacher standing in the back, (unindexed)
 3 OBJE @M131@
 3 _APID 1265:352943825
 2 SOUR @S200@
-3 PAGE p. 4, “Faculty” photograph
+3 PAGE "U.S., School Yearbooks, 1880-2012"; School Name: Earlvill
+4 CONC e High School; Year: 1948; p. 4, “Faculty” photograph
 3 OBJE @M193@
 3 _APID 1265:352944245
 2 SOUR @S200@
-3 PAGE p. 5, “Faculty” photograph
+3 PAGE "U.S., School Yearbooks, 1880-2012"; School Name: Earlvill
+4 CONC e High School; Year: 1950; p. 5, “Faculty” photograph
 3 OBJE @M132@
 3 _APID 1265:379585121
 2 SOUR @S200@
-3 PAGE p. 5, “Faculty” photograph, (2nd index entry)
+3 PAGE "U.S., School Yearbooks, 1880-2012"; School Name: Earlvill
+4 CONC e High School; Year: 1950; p. 5, “Faculty” photograph, (2n
+4 CONC d index entry)
 3 OBJE @M132@
 3 _APID 1265:379585711
 2 SOUR @S188@
@@ -4270,25 +4273,6 @@
 3 _APID 2704:25133675
 2 SOUR @fgk8xAOsQLeHP2vct6BI@
 3 _APID 60525:134903332
-2 SOUR @S200@
-3 OBJE @M133@
-2 SOUR @S200@
-3 PAGE p. 21, top photograph, Alice is the teacher standing in th
-4 CONC e back, (unindexed)
-3 OBJE @M131@
-3 _APID 1265:352943825
-2 SOUR @S200@
-3 PAGE p. 4, “Faculty” photograph
-3 OBJE @M193@
-3 _APID 1265:352944245
-2 SOUR @S200@
-3 PAGE p. 5, “Faculty” photograph
-3 OBJE @M132@
-3 _APID 1265:379585121
-2 SOUR @S200@
-3 PAGE p. 5, “Faculty” photograph, (2nd index entry)
-3 OBJE @M132@
-3 _APID 1265:379585711
 2 SOUR @S188@
 3 PAGE Number: 108-32-4321; Issue State: New York; Issue Date: 1957
 4 CONC -1959
@@ -4530,10 +4514,20 @@
 4 LATI N42.4401
 4 LONG W79.3317
 2 SOUR @S200@
-3 NOTE This record was for Alice Harrison in the 1925 Fredonia Stat
-4 CONC e Normal School Yearbook, p. 53, but was later lost on Ances
-4 CONC try.com. https://www.ancestry.com/interactive/1265/30757_061
-4 CONC 618-00054
+3 PAGE <bibl><author>Class of 1925, Fredonia State Normal School (F
+4 CONC redonia, New York, USA)</author>, <title level="m">The Yea
+4 CONC r Book of the Fredonia State Normal School, 1925</title>, (<
+4 CONC pubPlace>Fredonia, New York</pubPlace>: <publisher>privatel
+4 CONC y printed</publisher>, 1925) <citedRange>53</citedRange>; di
+4 CONC gital images, “<title>U.S., School Yearbooks, 1900-1999</tit
+4 CONC le>”, <title level="m">Ancestry.com</title> (<ref target="ht
+4 CONC tps://www.ancestry.com/interactive/1265/30757_061618-00054"/
+4 CONC > : accessed 21 Jun 2020), <citedRange>image 55 of 100</cite
+4 CONC dRange>.</bibl>
+3 DATA
+4 TEXT Freshmen Class of 1927 Harrison, Alice
+3 OBJE @M194@
+3 _LINK https://www.ancestry.com/interactive/1265/30757_061618-00054
 1 GRAD
 2 DATE 10 AUG 1925
 2 PLAC Corning, Steuben, New York, USA
@@ -4989,23 +4983,28 @@
 2 DATE 1948
 2 PLAC Earlville, New York, USA
 2 SOUR @S200@
-3 PAGE p. 21, top photograph, Alice is the teacher standing in th
-4 CONC e back, (unindexed)
+3 PAGE "U.S., School Yearbooks, 1880-2012"; School Name: Earlvill
+4 CONC e High School; Year: 1948; p. 21, top photograph, Alice is t
+4 CONC he teacher standing in the back, (unindexed)
 3 OBJE @M131@
 3 _APID 1265:352943825
 2 SOUR @S200@
-3 PAGE p. 4, “Faculty” photograph
+3 PAGE "U.S., School Yearbooks, 1880-2012"; School Name: Earlvill
+4 CONC e High School; Year: 1948; p. 4, “Faculty” photograph
 3 OBJE @M193@
 3 _APID 1265:352944245
 1 RESI
 2 DATE 1950
 2 PLAC Earlville, New York, USA
 2 SOUR @S200@
-3 PAGE p. 5, “Faculty” photograph
+3 PAGE "U.S., School Yearbooks, 1880-2012"; School Name: Earlvill
+4 CONC e High School; Year: 1950; p. 5, “Faculty” photograph
 3 OBJE @M132@
 3 _APID 1265:379585121
 2 SOUR @S200@
-3 PAGE p. 5, “Faculty” photograph, (2nd index entry)
+3 PAGE "U.S., School Yearbooks, 1880-2012"; School Name: Earlvill
+4 CONC e High School; Year: 1950; p. 5, “Faculty” photograph, (2n
+4 CONC d index entry)
 3 OBJE @M132@
 3 _APID 1265:379585711
 1 TITL President of Earlville, NY, Teachers Association
@@ -28495,7 +28494,7 @@
 1 _APID 7545
 0 @S200@ SOUR
 1 REPO @kBzDdT7sR6qYOEZMnKPD@
-1 TITL U.S., School Yearbooks, 1880-2012
+1 TITL U.S., School Yearbooks, 1900-1999
 1 AUTH Ancestry.com
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2010
@@ -29715,12 +29714,6 @@
 2 CONC U.S., School Yearbooks, 1880-2012(8).jpg
 2 FORM jpg
 2 TITL U.S., School Yearbooks, 1880-2012
-0 @M133@ OBJE
-1 _GUID cf774585-b897-4c3c-b73a-39fcfaa1d805
-1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Harrison Media\
-2 CONC U.S., School Yearbooks, 1880-2012(9).jpg
-2 FORM jpg
-2 TITL U.S., School Yearbooks, 1880-2012
 0 @M134@ OBJE
 1 _GUID 55c43f47-f04e-478e-bda1-d05ec022af04
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Harrison Media\
@@ -30180,4 +30173,11 @@
 2 TITL U.S., School Yearbooks, 1880-2012
 2 _DATE 5/30/2020 1:35:31 AM
 2 _TEXT p. 4, “Faculty” photograph
+0 @M194@ OBJE
+1 _GUID 173c1973-8e51-4c06-89cd-72ee65c80d90
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Harrison Media\
+2 CONC Yearbook_full_record_image.jpg
+2 FORM jpg
+2 TITL Yearbook_full_record_image
+2 _DATE 6/21/2020 2:25:36 PM
 0 TRLR
