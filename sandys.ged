@@ -14,9 +14,9 @@
 4 CONT Boston, MA 02109
 3 PHON (617) 227-6681
 1 DEST FTM
-1 FILE Sandys_2020-06-21-18-36-19.ftm.ged
-1 DATE 21 JUN 2020
-2 TIME 18:36:56
+1 FILE Sandys_2020-06-22-22-02-59.ftm.ged
+1 DATE 22 JUN 2020
+2 TIME 22:03:13
 0 @Umy2qBWIRUiwVSS6Hcn4@ SUBM
 1 NAME Christopher Alan Mosher
 2 EMAIL cmosher01@@gmail.com
@@ -49,6 +49,21 @@
 1 SEX F
 1 FAMS @F1@
 1 _GUID 3213cee6-8b8b-4e57-812e-04a4a862ce10
+0 @I30@ INDI
+1 NAME Margaret /Curwen/
+1 SEX F
+1 FAMS @F8@
+1 _GUID 66fe622e-a750-4277-951e-f430125a7f48
+0 @I29@ INDI
+1 NAME Margaret /Dixon/
+1 SEX F
+1 FAMS @F12@
+1 _GUID 8e406d3a-c8b8-4e1f-91fb-00938e5b3ce8
+0 @I32@ INDI
+1 NAME Margery /Gerrard/
+1 SEX F
+1 FAMS @F13@
+1 _GUID d927104c-7624-4e39-b5fc-c5f189acc551
 0 @I17@ INDI
 1 NAME Edward /Goffe/
 1 SEX M
@@ -69,6 +84,11 @@
 1 FAMC @F11@
 1 FAMS @F2@
 1 _GUID adf58908-1a81-49bb-ac60-74f268027803
+0 @I31@ INDI
+1 NAME Margaret /Rawson/
+1 SEX F
+1 FAMS @F9@
+1 _GUID 850a01fd-f4fa-41f7-a248-5f42e3ab62d7
 0 @I7@ INDI
 1 NAME George /Sandes/
 1 SEX M
@@ -138,10 +158,12 @@
 4 CONC f target="https://archive.org/details/p1alumnicantabri04univ
 4 CONC uoft/page/19/mode/1up"/> : accessed 21 Jun 2020).</bibl>
 3 DATA
-4 TEXT SANDYS, CHAUNCEY. Adm. pens. (age 15) at SIDNEY, July 27, 16
-5 CONC 21. S. of Henry, of Culworth, Northants., gent., deceased (a
-5 CONC nd Priscilla, dau. of Sir Toby Chauncy, of Edgcote). B. at E
-5 CONC dgcote, Northants. Schools, Edgcote and Ashby. Matric. 1621.
+4 TEXT SANDYS, CHAUNCEY. Adm[itted to college] pens[ioner] (age 15
+5 CONC ) at Sidney [Sussex College], July 27, 1621. S[on] of Henry
+5 CONC , of Culworth, Northants., gent[leman], deceased (and Prisci
+5 CONC lla, dau[ghter] of Sir Toby Chauncy, of Edgcote). B[ord] a
+5 CONC t Edgcote, Northants. Schools, Edgcote and Ashby. Matric[ula
+5 CONC tion into University] 1621.
 3 OBJE @M5@
 3 _LINK https://archive.org/details/p1alumnicantabri04univuoft/page/
 4 CONC 19/mode/1up
@@ -161,8 +183,9 @@
 3 _APID 1610:277728
 1 SEX M
 1 FAMC @F12@
-1 FAMS @F3@
 1 FAMS @F4@
+1 FAMS @F3@
+1 OBJE @M6@
 1 BIRT
 2 DATE ABT 1519
 2 PLAC Hawkshead, Lancashire, England
@@ -180,6 +203,29 @@
 3 _APID 7249:10037009
 2 SOUR @S5@
 3 _APID 60526:249559
+1 TITL Bishop of Worcester
+2 DATE 1559
+2 PLAC Worcester, Worcestershire, England
+3 MAP
+4 LATI N52.1918
+4 LONG W2.2216
+1 TITL Bishop of London
+2 DATE 1570
+2 PLAC Saint Paul's Cathedral, London, London, England
+1 EVEN
+2 TYPE Portrait
+2 DATE 1571
+2 PLAC England
+3 MAP
+4 LATI N52.5898
+4 LONG W1.4611
+2 OBJE @M6@
+1 TITL Archbishop of York
+2 DATE 1576
+2 PLAC York, Yorkshire, England
+3 MAP
+4 LATI N53.9592
+4 LONG W1.0813
 1 DEAT
 2 DATE 10 JUL 1588
 2 PLAC Southwell, Nottinghamshire, England
@@ -200,7 +246,7 @@
 2 SOUR @S6@
 3 _APID 1610:277728
 1 BURI
-2 DATE ABT JUL 1588
+2 DATE ABT 15 JUL 1588
 2 PLAC Southwell, Nottinghamshire, England
 3 MAP
 4 LATI N53.0667
@@ -208,6 +254,7 @@
 2 SOUR @S5@
 3 _APID 60526:249559
 1 _GUID 26143c59-36d6-417b-bae9-271dffc07dfa
+1 _PHOTO @M6@
 0 @I26@ INDI
 1 NAME Edwin /Sandys/
 1 SEX M
@@ -371,10 +418,12 @@
 4 CONC f target="https://archive.org/details/p1alumnicantabri04univ
 4 CONC uoft/page/19/mode/1up"/> : accessed 21 Jun 2020).</bibl>
 3 DATA
-4 TEXT SANDYS, CHAUNCEY. Adm. pens. (age 15) at SIDNEY, July 27, 16
-5 CONC 21. S. of Henry, of Culworth, Northants., gent., deceased (a
-5 CONC nd Priscilla, dau. of Sir Toby Chauncy, of Edgcote). B. at E
-5 CONC dgcote, Northants. Schools, Edgcote and Ashby. Matric. 1621.
+4 TEXT SANDYS, CHAUNCEY. Adm[itted to college] pens[ioner] (age 15
+5 CONC ) at Sidney [Sussex College], July 27, 1621. S[on] of Henry
+5 CONC , of Culworth, Northants., gent[leman], deceased (and Prisci
+5 CONC lla, dau[ghter] of Sir Toby Chauncy, of Edgcote). B[ord] a
+5 CONC t Edgcote, Northants. Schools, Edgcote and Ashby. Matric[ula
+5 CONC tion into University] 1621.
 3 OBJE @M5@
 3 _LINK https://archive.org/details/p1alumnicantabri04univuoft/page/
 4 CONC 19/mode/1up
@@ -492,6 +541,7 @@
 3 _APID 60526:608472
 1 SEX M
 1 FAMS @F4@
+1 OBJE @M6@
 1 BIRT
 2 DATE 1534
 2 SOUR @S5@
@@ -512,6 +562,7 @@
 2 SOUR @S5@
 3 _APID 60526:608472
 1 _GUID f6be2275-4012-4e46-b515-9c057f485d3a
+1 _PHOTO @M6@
 0 @F11@ FAM
 1 HUSB @I17@
 1 CHIL @I16@
@@ -520,24 +571,34 @@
 2 _FREL Natural
 0 @F8@ FAM
 1 HUSB @I7@
+1 WIFE @I30@
 1 CHIL @I6@
 2 _FREL Natural
+2 _MREL Natural
 0 @F13@ FAM
 1 HUSB @I11@
+1 WIFE @I32@
 1 CHIL @I27@
 2 _FREL Natural
+2 _MREL Natural
 0 @F12@ FAM
 1 HUSB @I6@
+1 WIFE @I29@
 1 CHIL @I20@
 2 _FREL Natural
+2 _MREL Natural
 0 @F9@ FAM
 1 HUSB @I8@
+1 WIFE @I31@
 1 CHIL @I10@
 2 _FREL Natural
+2 _MREL Natural
 1 CHIL @I7@
 2 _FREL Natural
+2 _MREL Natural
 1 CHIL @I9@
 2 _FREL Natural
+2 _MREL Natural
 0 @F10@ FAM
 1 HUSB @I9@
 1 CHIL @I11@
@@ -704,4 +765,11 @@
 2 FORM jpg
 2 TITL cambridge_alumni_1_4_19
 2 _DATE 6/21/2020 6:34:42 PM
+0 @M6@ OBJE
+1 _GUID 8790c450-3182-42eb-81c3-9cb075ae7800
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Sandys Media\Sa
+2 CONC ndys_Edwin_Cicely.jpg
+2 FORM jpg
+2 TITL Sandys_Edwin_Cicely
+2 _DATE 6/22/2020 1:29:57 AM
 0 TRLR
