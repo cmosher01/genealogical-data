@@ -14,9 +14,9 @@
 4 CONT Boston, MA 02109
 3 PHON (617) 227-6681
 1 DEST FTM
-1 FILE Sandys_2020-06-24-11-21-33.ftm.ged
-1 DATE 24 JUN 2020
-2 TIME 11:22:04
+1 FILE Sandys_2020-06-26-02-54-19.ftm.ged
+1 DATE 26 JUN 2020
+2 TIME 02:54:38
 0 @Umy2qBWIRUiwVSS6Hcn4@ SUBM
 1 NAME Christopher Alan Mosher
 2 EMAIL cmosher01@@gmail.com
@@ -39,6 +39,16 @@
 2 PHON +1-203-513-9292
 1 LANG English
 1 RIN Umy2qBWIRUiwVSS6Hcn4
+0 @I50@ INDI
+1 NAME Jane /Agmondisham/
+1 SEX F
+1 FAMS @F21@
+1 _GUID fbd19123-caa9-406b-8238-39458ceb2c6c
+0 @I53@ INDI
+1 NAME /Anne/
+1 SEX F
+1 FAMS @F22@
+1 _GUID bbf883f5-8797-4287-9f1a-73ffaf30b0a8
 0 @I1@ INDI
 1 NAME Elizabeth /Cavendish/
 2 SOUR @S9@
@@ -53,16 +63,36 @@
 1 SEX F
 1 FAMS @F1@
 1 _GUID 3213cee6-8b8b-4e57-812e-04a4a862ce10
+0 @I46@ INDI
+1 NAME /Comber/
+1 SEX M
+1 FAMS @F19@
+1 _GUID aa4f6d0f-7aa1-4120-b518-1c0cd7eef616
 0 @I30@ INDI
 1 NAME Margaret /Curwen/
+2 SOUR @S4@
+3 _APID 7249:10387613
 1 SEX F
 1 FAMS @F8@
+1 BIRT
+2 DATE ABT 1465
+2 SOUR @S4@
+3 _APID 7249:10387613
 1 _GUID 66fe622e-a750-4277-951e-f430125a7f48
 0 @I29@ INDI
 1 NAME Margaret /Dixon/
 1 SEX F
 1 FAMS @F12@
 1 _GUID 8e406d3a-c8b8-4e1f-91fb-00938e5b3ce8
+0 @I48@ INDI
+1 NAME /Elliott/
+2 SOUR @S9@
+3 PAGE sec. 5, part 2, image 421 of 449
+3 OBJE @M7@
+3 _APID 28849:407
+1 SEX M
+1 FAMS @F20@
+1 _GUID 265540ae-72ad-4a7d-9fe6-f433bcf5d0ea
 0 @I32@ INDI
 1 NAME Margery /Gerrard/
 1 SEX F
@@ -88,30 +118,137 @@
 1 FAMC @F11@
 1 FAMS @F2@
 1 _GUID adf58908-1a81-49bb-ac60-74f268027803
+0 @I38@ INDI
+1 NAME /Joan/
+1 SEX F
+1 FAMS @F15@
+1 _GUID fd38b841-27ab-4b0b-91fa-f5bcf0791f2b
+0 @I36@ INDI
+1 NAME /Joanne/
+1 SEX F
+1 FAMS @F10@
+1 _GUID 83b88d9d-0286-4fcc-b4ef-9640499cfdc8
+0 @I44@ INDI
+1 NAME William /Lusher/
+2 SOUR @S9@
+3 PAGE sec. 5, part 2, image 421 of 449
+3 OBJE @M7@
+3 _APID 28849:407
+1 SEX M
+1 FAMS @F18@
+1 _GUID c9bc3fcd-2ee5-4e29-8578-67f16612a01a
+0 @I37@ INDI
+1 NAME /Margaret/
+1 SEX F
+1 FAMS @F14@
+1 _GUID e37df351-2db3-4ba5-b7fc-68e653e4abb8
 0 @I31@ INDI
 1 NAME Margaret /Rawson/
 1 SEX F
 1 FAMS @F9@
 1 _GUID 850a01fd-f4fa-41f7-a248-5f42e3ab62d7
+0 @I43@ INDI
+1 NAME Alice /Sandes/
+2 SOUR @S9@
+3 PAGE sec. 5, part 2, image 421 of 449
+3 OBJE @M7@
+3 _APID 28849:407
+1 SEX F
+1 FAMC @F10@
+1 FAMS @F18@
+1 _GUID 26b9cfd5-e656-4c83-9bed-09c3828e4faf
 0 @I7@ INDI
 1 NAME George /Sandes/
+2 SOUR @S4@
+3 _APID 7249:10387611
 1 SEX M
 1 FAMC @F9@
 1 FAMS @F8@
 1 BIRT
 2 DATE ABT 1460
+2 PLAC Esthwaite Hall, Hawkshead, Furness Fells, Cumbria, (ancien
+3 CONC t Lancashire), England
+2 SOUR @S4@
+3 _APID 7249:10387611
+1 DEAT
+2 DATE 1513
+2 SOUR @S4@
+3 _APID 7249:10387611
 1 _GUID 352ecd87-4b25-4ce3-88ea-b1c5dc0f6d80
 0 @I35@ INDI
 1 NAME Henry /Sandes/
+2 SOUR @S13@
+3 PAGE National Archives; Kew, England; Prerogative Court of Canter
+4 CONC bury and Related Probate Jurisdictions: Will Registers; Clas
+4 CONC s: PROB 11; Piece: 52
+3 OBJE @M11@
+3 OBJE @M12@
+3 OBJE @M13@
+3 _APID 5111:913689
+2 SOUR @S9@
+3 PAGE sec. 4, image 277 of 449
+3 OBJE @M10@
+3 _APID 28849:265
 1 SEX M
 1 FAMC @F15@
-1 DEAT
-2 DATE 1570
+1 FAMS @F22@
+1 WILL
+2 DATE 27 JUL 1569
 2 PLAC Sonning, Berkshire, England
 3 MAP
 4 LATI N51.4667
 4 LONG W0.9
+2 SOUR @S13@
+3 PAGE National Archives; Kew, England; Prerogative Court of Canter
+4 CONC bury and Related Probate Jurisdictions: Will Registers; Clas
+4 CONC s: PROB 11; Piece: 52
+3 OBJE @M11@
+3 OBJE @M12@
+3 OBJE @M13@
+3 _APID 5111:913689
+1 DEAT
+2 DATE ABT 09 JUN 1570
+2 PLAC Sonning, Berkshire, England
+3 MAP
+4 LATI N51.4667
+4 LONG W0.9
+2 SOUR @S13@
+3 PAGE National Archives; Kew, England; Prerogative Court of Canter
+4 CONC bury and Related Probate Jurisdictions: Will Registers; Clas
+4 CONC s: PROB 11; Piece: 52
+3 OBJE @M11@
+3 OBJE @M12@
+3 OBJE @M13@
+3 _APID 5111:913689
+2 SOUR @S9@
+3 PAGE sec. 4, image 277 of 449
+3 OBJE @M10@
+3 _APID 28849:265
+1 PROB
+2 DATE 10 JUN 1570
+2 PLAC Sonning, Berkshire, England
+3 MAP
+4 LATI N51.4667
+4 LONG W0.9
+2 SOUR @S13@
+3 PAGE National Archives; Kew, England; Prerogative Court of Canter
+4 CONC bury and Related Probate Jurisdictions: Will Registers; Clas
+4 CONC s: PROB 11; Piece: 52
+3 OBJE @M11@
+3 OBJE @M12@
+3 OBJE @M13@
+3 _APID 5111:913689
 1 _GUID ae726416-aa30-476b-8862-6bacb97877d4
+0 @I41@ INDI
+1 NAME Jane /Sandes/
+2 SOUR @S9@
+3 PAGE sec. 5, part 2, image 421 of 449
+3 OBJE @M7@
+3 _APID 28849:407
+1 SEX F
+1 FAMC @F10@
+1 FAMS @F17@
+1 _GUID 96a3eb19-ac5a-4ce3-ba3f-8d6f1737964a
 0 @I27@ INDI
 1 NAME John /Sandes/
 2 SOUR @S9@
@@ -142,6 +279,25 @@
 4 LATI N51.4667
 4 LONG W0.9
 1 _GUID f889249c-3849-4bd2-8de0-f5997f91c2cd
+0 @I52@ INDI
+1 NAME John /Sandes/
+2 SOUR @S9@
+3 PAGE sec. 5, part 2, image 421 of 449
+3 OBJE @M7@
+3 _APID 28849:407
+1 SEX M
+1 FAMC @F10@
+1 _GUID f7b51c70-6dc4-49d7-a731-d2a63ef8885e
+0 @I39@ INDI
+1 NAME Julian /Sandes/
+2 SOUR @S9@
+3 PAGE sec. 5, part 2, image 421 of 449
+3 OBJE @M7@
+3 _APID 28849:407
+1 SEX F
+1 FAMC @F10@
+1 FAMS @F16@
+1 _GUID 029fc5b7-a782-4133-af8a-49b4522de6fd
 0 @I10@ INDI
 1 NAME Oliver /Sandes/
 1 SEX M
@@ -159,7 +315,42 @@
 1 DEAT
 2 DATE 1509
 2 PLAC Harleyford Manor, Great Marlow, Buckinghamshire, England
+2 SOUR @S9@
+3 PAGE sec. 4, image 276 of 449
+3 OBJE @M9@
+3 _APID 28849:264
 1 _GUID 2295d6c8-4732-4aad-9bad-91f246ac9a28
+0 @I49@ INDI
+1 NAME Thomas /Sandes/
+1 SEX M
+1 FAMC @F14@
+1 FAMS @F21@
+1 _GUID e55eabbd-6a89-4f2e-970a-79ea88a466a0
+0 @I51@ INDI
+1 NAME Thomas /Sandes/
+1 SEX M
+1 FAMC @F15@
+1 _GUID f4115664-a954-4b04-82cb-df70cd5ea085
+0 @I47@ INDI
+1 NAME unknown daugher of William /Sandes/
+2 SOUR @S9@
+3 PAGE sec. 5, part 2, image 421 of 449
+3 OBJE @M7@
+3 _APID 28849:407
+1 SEX F
+1 FAMC @F10@
+1 FAMS @F20@
+1 _GUID 1003fad4-9a0d-46c7-9c4d-cdb60c890aff
+0 @I45@ INDI
+1 NAME unknown daughter of William /Sandes/
+2 SOUR @S9@
+3 PAGE sec. 5, part 2, image 421 of 449
+3 OBJE @M7@
+3 _APID 28849:407
+1 SEX F
+1 FAMC @F10@
+1 FAMS @F19@
+1 _GUID c96f62da-4349-4541-bc7a-b84f47f83adb
 0 @I11@ INDI
 1 NAME William /Sandes/
 1 SEX M
@@ -175,20 +366,51 @@
 1 FAMS @F9@
 1 BIRT
 2 DATE ABT 1435
+1 DEAT
+2 DATE ABT 1515
+1 RESI
+2 PLAC Esthwaite Hall, Hawkshead, Furness Fells, Cumbria, (ancien
+3 CONC t Lancashire), England
+2 SOUR @S9@
+3 PAGE sec. 5, part 2, image 421 of 449
+3 OBJE @M7@
+3 _APID 28849:407
 1 _GUID 1c0e6262-46ba-4e46-a8d9-08f0010a78f9
 0 @I9@ INDI
 1 NAME William /Sandes/
+1 NAME //
+1 NAME //
 1 SEX M
 1 FAMC @F9@
 1 FAMS @F10@
 1 BIRT
 2 DATE ABT 1462
-1 EVEN Battle of Stoke Field, Wars of the Roses
+1 EVEN Battle of Martin Swarte, Stoke Field; Wars of the Roses
 2 TYPE Knighted
 2 DATE 16 JUN 1487
 2 PLAC East Stoke, Newark and Sherwood, Nottinghamshire, England
+2 SOUR @S9@
+3 PAGE sec. 4, image 275 of 449
+3 OBJE @M8@
+3 _APID 28849:263
+2 SOUR @S9@
+3 PAGE sec. 5, part 2, image 421 of 449
+3 OBJE @M7@
+3 _APID 28849:407
 1 TITL Sir
 2 DATE 16 JUN 1487
+2 SOUR @S9@
+3 PAGE sec. 5, part 2, image 421 of 449
+3 OBJE @M7@
+3 _APID 28849:407
+1 DEAT
+2 DATE 10 JAN 1493
+2 SOUR @S9@
+3 PAGE sec. 4, image 276 of 449
+3 OBJE @M9@
+3 _APID 28849:264
+1 RESI
+2 PLAC Little Petersham (Pachesham), Leatherhead, Surrey, England
 1 _GUID 9f645ef9-379d-4f65-bf1d-781730213ab4
 0 @I6@ INDI
 1 NAME William /Sandes/
@@ -659,6 +881,11 @@
 1 SEX M
 1 FAMC @F5@
 1 _GUID b073c1cb-ac5c-4825-9302-69a6f934e7f2
+0 @I40@ INDI
+1 NAME John /Weston/
+1 SEX M
+1 FAMS @F16@
+1 _GUID e232be9d-bfc3-4697-a25a-cadbd05a9a5a
 0 @I22@ INDI
 1 NAME Cicely /Wilford/
 2 SOUR @S5@
@@ -687,18 +914,39 @@
 3 _APID 60526:608472
 1 _GUID f6be2275-4012-4e46-b515-9c057f485d3a
 1 _PHOTO @M6@
+0 @I42@ INDI
+1 NAME Robert /Wintersell/
+2 SOUR @S9@
+3 PAGE sec. 5, part 2, image 421 of 449
+3 OBJE @M7@
+3 _APID 28849:407
+1 SEX M
+1 FAMS @F17@
+1 _GUID 0627bacc-d120-4806-bc3c-52684161c52e
+0 @F19@ FAM
+1 HUSB @I46@
+1 WIFE @I45@
+0 @F20@ FAM
+1 HUSB @I48@
+1 WIFE @I47@
 0 @F11@ FAM
 1 HUSB @I17@
 1 CHIL @I16@
 2 _FREL Natural
 1 CHIL @I18@
 2 _FREL Natural
+0 @F18@ FAM
+1 HUSB @I44@
+1 WIFE @I43@
 0 @F8@ FAM
 1 HUSB @I7@
 1 WIFE @I30@
 1 CHIL @I6@
 2 _FREL Natural
 2 _MREL Natural
+0 @F22@ FAM
+1 HUSB @I35@
+1 WIFE @I53@
 0 @F5@ FAM
 1 HUSB @I27@
 1 WIFE @I1@
@@ -713,12 +961,25 @@
 2 _MREL Natural
 0 @F15@ FAM
 1 HUSB @I34@
+1 WIFE @I38@
 1 CHIL @I35@
 2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I51@
+2 _FREL Natural
+2 _MREL Natural
 0 @F14@ FAM
 1 HUSB @I33@
+1 WIFE @I37@
 1 CHIL @I34@
 2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I49@
+2 _FREL Natural
+2 _MREL Natural
+0 @F21@ FAM
+1 HUSB @I49@
+1 WIFE @I50@
 0 @F13@ FAM
 1 HUSB @I11@
 1 WIFE @I32@
@@ -739,10 +1000,31 @@
 2 _MREL Natural
 0 @F10@ FAM
 1 HUSB @I9@
+1 WIFE @I36@
 1 CHIL @I11@
 2 _FREL Natural
+2 _MREL Natural
 1 CHIL @I33@
 2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I39@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I41@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I43@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I45@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I47@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I52@
+2 _FREL Natural
+2 _MREL Natural
 0 @F12@ FAM
 1 HUSB @I6@
 1 WIFE @I29@
@@ -806,6 +1088,12 @@
 1 HUSB @I19@
 1 CHIL @I3@
 2 _FREL Natural
+0 @F16@ FAM
+1 HUSB @I40@
+1 WIFE @I39@
+0 @F17@ FAM
+1 HUSB @I42@
+1 WIFE @I41@
 0 @R1@ REPO
 1 NAME Ancestry.com
 1 ADDR
@@ -853,6 +1141,14 @@
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2010
 1 _APID 1981
+0 @S13@ SOUR
+1 REPO @R1@
+1 TITL England & Wales, Prerogative Court of Canterbury Wills, 1384
+2 CONC -1858
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
+2 CONC e: 2013
+1 _APID 5111
 0 @S9@ SOUR
 1 REPO @R1@
 1 TITL History of the family of Sandys of Cumberland
@@ -942,4 +1238,44 @@
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Sandys Media\dv
 2 CONC m_GenMono008205-00245-0.jpg
 2 FORM jpg
+0 @M8@ OBJE
+1 _GUID 9695dce6-2059-4944-93bf-350657b94418
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Sandys Media\dv
+2 CONC m_GenMono008205-00166-1.jpg
+2 FORM jpg
+0 @M9@ OBJE
+1 _GUID ab824a32-3471-47fb-b5e1-ec3ab52b28db
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Sandys Media\dv
+2 CONC m_GenMono008205-00167-0.jpg
+2 FORM jpg
+0 @M10@ OBJE
+1 _GUID f606fe46-263e-4ea6-8364-18985d561902
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Sandys Media\dv
+2 CONC m_GenMono008205-00167-1.jpg
+2 FORM jpg
+0 @M11@ OBJE
+1 _GUID d0ed0bcd-8274-433c-8f44-24c968136703
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Sandys Media\En
+2 CONC gland & Wales, Prerogative Court of Canterbury Wills, 1384-1
+2 CONC 858.jpg
+2 FORM jpg
+2 TITL England & Wales, Prerogative Court of Canterbury Wills, 1384
+3 CONC -1858
+2 _TEXT The National Archives; Kew, England; Prerogative Court of Ca
+3 CONC nterbury and Related Probate Jurisdictions: Will Registers
+3 CONC ; Class: PROB 11; Piece: 52
+0 @M12@ OBJE
+1 _GUID 4ff7404e-058b-4c7a-b497-33d4d7370b1d
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Sandys Media\40
+2 CONC 611_311317-00302.jpg
+2 FORM jpg
+2 TITL 40611_311317-00302
+2 _DATE 6/24/2020 11:14:09 PM
+0 @M13@ OBJE
+1 _GUID 8989c166-46de-4822-a147-b58db360a442
+1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Sandys Media\40
+2 CONC 611_311317-00303.jpg
+2 FORM jpg
+2 TITL 40611_311317-00303
+2 _DATE 6/24/2020 11:14:09 PM
 0 TRLR
