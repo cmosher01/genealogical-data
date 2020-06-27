@@ -14,9 +14,9 @@
 4 CONT Boston, MA 02109
 3 PHON (617) 227-6681
 1 DEST FTM
-1 FILE Sandys_2020-06-26-02-54-19.ftm.ged
-1 DATE 26 JUN 2020
-2 TIME 02:54:38
+1 FILE Sandys_2020-06-27-21-17-29.ftm.ged
+1 DATE 27 JUN 2020
+2 TIME 21:17:54
 0 @Umy2qBWIRUiwVSS6Hcn4@ SUBM
 1 NAME Christopher Alan Mosher
 2 EMAIL cmosher01@@gmail.com
@@ -61,8 +61,14 @@
 0 @I13@ INDI
 1 NAME Priscilla /Chauncy/
 1 SEX F
+1 FAMC @F23@
 1 FAMS @F1@
 1 _GUID 3213cee6-8b8b-4e57-812e-04a4a862ce10
+0 @I59@ INDI
+1 NAME Tobias /Chauncy/
+1 SEX M
+1 FAMS @F23@
+1 _GUID 66133406-9671-4e95-b997-9454dd13bcf1
 0 @I46@ INDI
 1 NAME /Comber/
 1 SEX M
@@ -157,6 +163,51 @@
 1 FAMC @F10@
 1 FAMS @F18@
 1 _GUID 26b9cfd5-e656-4c83-9bed-09c3828e4faf
+0 @I56@ INDI
+1 NAME Anne /Sandes/
+2 SOUR @S13@
+3 PAGE National Archives; Kew, England; Prerogative Court of Canter
+4 CONC bury and Related Probate Jurisdictions: Will Registers; PRO
+4 CONC B 11/52/251
+3 OBJE @M11@
+3 OBJE @M12@
+3 OBJE @M13@
+3 _APID 5111:913689
+3 _LINK http://localhost:8080/genealogy/main/sources/old/harrison/sa
+4 CONC ndes_henry_of_sonning_will_1569.tei.xml
+1 SEX F
+1 FAMC @F22@
+1 _GUID 1fdabfda-f176-462d-9c04-6792ae451e6d
+0 @I58@ INDI
+1 NAME Elizabeth /Sandes/
+2 SOUR @S13@
+3 PAGE National Archives; Kew, England; Prerogative Court of Canter
+4 CONC bury and Related Probate Jurisdictions: Will Registers; PRO
+4 CONC B 11/52/251
+3 OBJE @M11@
+3 OBJE @M12@
+3 OBJE @M13@
+3 _APID 5111:913689
+3 _LINK http://localhost:8080/genealogy/main/sources/old/harrison/sa
+4 CONC ndes_henry_of_sonning_will_1569.tei.xml
+1 SEX F
+1 FAMC @F22@
+1 _GUID af74d4e8-5a5d-4cfe-8764-7e963dd49940
+0 @I57@ INDI
+1 NAME Frances /Sandes/
+2 SOUR @S13@
+3 PAGE National Archives; Kew, England; Prerogative Court of Canter
+4 CONC bury and Related Probate Jurisdictions: Will Registers; PRO
+4 CONC B 11/52/251
+3 OBJE @M11@
+3 OBJE @M12@
+3 OBJE @M13@
+3 _APID 5111:913689
+3 _LINK http://localhost:8080/genealogy/main/sources/old/harrison/sa
+4 CONC ndes_henry_of_sonning_will_1569.tei.xml
+1 SEX F
+1 FAMC @F22@
+1 _GUID 6d449813-9713-4217-9eb1-b51219838fb3
 0 @I7@ INDI
 1 NAME George /Sandes/
 2 SOUR @S4@
@@ -175,23 +226,60 @@
 2 SOUR @S4@
 3 _APID 7249:10387611
 1 _GUID 352ecd87-4b25-4ce3-88ea-b1c5dc0f6d80
-0 @I35@ INDI
-1 NAME Henry /Sandes/
+0 @I55@ INDI
+1 NAME Gilbert /Sandes/
 2 SOUR @S13@
 3 PAGE National Archives; Kew, England; Prerogative Court of Canter
-4 CONC bury and Related Probate Jurisdictions: Will Registers; Clas
-4 CONC s: PROB 11; Piece: 52
+4 CONC bury and Related Probate Jurisdictions: Will Registers; PRO
+4 CONC B 11/52/251
 3 OBJE @M11@
 3 OBJE @M12@
 3 OBJE @M13@
 3 _APID 5111:913689
+3 _LINK http://localhost:8080/genealogy/main/sources/old/harrison/sa
+4 CONC ndes_henry_of_sonning_will_1569.tei.xml
+1 SEX M
+1 FAMC @F22@
+1 BIRT between abt 1551 and abt 1565
+2 DATE ABT 1556
+2 PLAC Sonning, Berkshire, England
+3 MAP
+4 LATI N51.4667
+4 LONG W0.9
+2 SOUR @S13@
+3 PAGE National Archives; Kew, England; Prerogative Court of Canter
+4 CONC bury and Related Probate Jurisdictions: Will Registers; PRO
+4 CONC B 11/52/251
+3 OBJE @M11@
+3 OBJE @M12@
+3 OBJE @M13@
+3 _APID 5111:913689
+3 _LINK http://localhost:8080/genealogy/main/sources/old/harrison/sa
+4 CONC ndes_henry_of_sonning_will_1569.tei.xml
+1 _GUID 4ceb4dfd-1eb5-4098-a3fa-52757350b857
+0 @I35@ INDI
+1 NAME Henry /Sandes/
+2 SOUR @S13@
+3 PAGE National Archives; Kew, England; Prerogative Court of Canter
+4 CONC bury and Related Probate Jurisdictions: Will Registers; PRO
+4 CONC B 11/52/251
+3 OBJE @M11@
+3 OBJE @M12@
+3 OBJE @M13@
+3 _APID 5111:913689
+3 _LINK http://localhost:8080/genealogy/main/sources/old/harrison/sa
+4 CONC ndes_henry_of_sonning_will_1569.tei.xml
 2 SOUR @S9@
 3 PAGE sec. 4, image 277 of 449
 3 OBJE @M10@
 3 _APID 28849:265
+2 SOUR @S6@
+3 _APID 1610:1208425
 1 SEX M
 1 FAMC @F15@
 1 FAMS @F22@
+1 BIRT
+2 DATE ABT 1530
 1 WILL
 2 DATE 27 JUL 1569
 2 PLAC Sonning, Berkshire, England
@@ -200,12 +288,14 @@
 4 LONG W0.9
 2 SOUR @S13@
 3 PAGE National Archives; Kew, England; Prerogative Court of Canter
-4 CONC bury and Related Probate Jurisdictions: Will Registers; Clas
-4 CONC s: PROB 11; Piece: 52
+4 CONC bury and Related Probate Jurisdictions: Will Registers; PRO
+4 CONC B 11/52/251
 3 OBJE @M11@
 3 OBJE @M12@
 3 OBJE @M13@
 3 _APID 5111:913689
+3 _LINK http://localhost:8080/genealogy/main/sources/old/harrison/sa
+4 CONC ndes_henry_of_sonning_will_1569.tei.xml
 1 DEAT
 2 DATE ABT 09 JUN 1570
 2 PLAC Sonning, Berkshire, England
@@ -214,16 +304,20 @@
 4 LONG W0.9
 2 SOUR @S13@
 3 PAGE National Archives; Kew, England; Prerogative Court of Canter
-4 CONC bury and Related Probate Jurisdictions: Will Registers; Clas
-4 CONC s: PROB 11; Piece: 52
+4 CONC bury and Related Probate Jurisdictions: Will Registers; PRO
+4 CONC B 11/52/251
 3 OBJE @M11@
 3 OBJE @M12@
 3 OBJE @M13@
 3 _APID 5111:913689
+3 _LINK http://localhost:8080/genealogy/main/sources/old/harrison/sa
+4 CONC ndes_henry_of_sonning_will_1569.tei.xml
 2 SOUR @S9@
 3 PAGE sec. 4, image 277 of 449
 3 OBJE @M10@
 3 _APID 28849:265
+2 SOUR @S6@
+3 _APID 1610:1208425
 1 PROB
 2 DATE 10 JUN 1570
 2 PLAC Sonning, Berkshire, England
@@ -232,12 +326,14 @@
 4 LONG W0.9
 2 SOUR @S13@
 3 PAGE National Archives; Kew, England; Prerogative Court of Canter
-4 CONC bury and Related Probate Jurisdictions: Will Registers; Clas
-4 CONC s: PROB 11; Piece: 52
+4 CONC bury and Related Probate Jurisdictions: Will Registers; PRO
+4 CONC B 11/52/251
 3 OBJE @M11@
 3 OBJE @M12@
 3 OBJE @M13@
 3 _APID 5111:913689
+3 _LINK http://localhost:8080/genealogy/main/sources/old/harrison/sa
+4 CONC ndes_henry_of_sonning_will_1569.tei.xml
 1 _GUID ae726416-aa30-476b-8862-6bacb97877d4
 0 @I41@ INDI
 1 NAME Jane /Sandes/
@@ -267,18 +363,6 @@
 3 OBJE @M7@
 3 _APID 28849:407
 1 _GUID 9145cddd-4326-4e5d-af6b-7fbaa1290927
-0 @I34@ INDI
-1 NAME John /Sandes/
-1 SEX M
-1 FAMC @F14@
-1 FAMS @F15@
-1 DEAT
-2 DATE ABT 1554
-2 PLAC Sonning, Berkshire, England
-3 MAP
-4 LATI N51.4667
-4 LONG W0.9
-1 _GUID f889249c-3849-4bd2-8de0-f5997f91c2cd
 0 @I52@ INDI
 1 NAME John /Sandes/
 2 SOUR @S9@
@@ -288,6 +372,20 @@
 1 SEX M
 1 FAMC @F10@
 1 _GUID f7b51c70-6dc4-49d7-a731-d2a63ef8885e
+0 @I34@ INDI
+1 NAME John /Sandes/
+1 SEX M
+1 FAMC @F14@
+1 FAMS @F15@
+1 BIRT
+2 DATE ABT 1507
+1 DEAT
+2 DATE ABT 1554
+2 PLAC Sonning, Berkshire, England
+3 MAP
+4 LATI N51.4667
+4 LONG W0.9
+1 _GUID f889249c-3849-4bd2-8de0-f5997f91c2cd
 0 @I39@ INDI
 1 NAME Julian /Sandes/
 2 SOUR @S9@
@@ -303,6 +401,37 @@
 1 SEX M
 1 FAMC @F9@
 1 _GUID 8b92a2cc-2ff3-4bc4-ac7e-ce0bc3346190
+0 @I54@ INDI
+1 NAME Richard /Sandes/
+2 SOUR @S13@
+3 PAGE National Archives; Kew, England; Prerogative Court of Canter
+4 CONC bury and Related Probate Jurisdictions: Will Registers; PRO
+4 CONC B 11/52/251
+3 OBJE @M11@
+3 OBJE @M12@
+3 OBJE @M13@
+3 _APID 5111:913689
+3 _LINK http://localhost:8080/genealogy/main/sources/old/harrison/sa
+4 CONC ndes_henry_of_sonning_will_1569.tei.xml
+1 SEX M
+1 FAMC @F22@
+1 BIRT bwtween abt 1549 and abt 1563 (the eldest son)
+2 DATE ABT 1554
+2 PLAC Sonning, Berkshire, England
+3 MAP
+4 LATI N51.4667
+4 LONG W0.9
+2 SOUR @S13@
+3 PAGE National Archives; Kew, England; Prerogative Court of Canter
+4 CONC bury and Related Probate Jurisdictions: Will Registers; PRO
+4 CONC B 11/52/251
+3 OBJE @M11@
+3 OBJE @M12@
+3 OBJE @M13@
+3 _APID 5111:913689
+3 _LINK http://localhost:8080/genealogy/main/sources/old/harrison/sa
+4 CONC ndes_henry_of_sonning_will_1569.tei.xml
+1 _GUID 80cb8173-2cd0-4d05-866f-fdf96ddf0a6b
 0 @I33@ INDI
 1 NAME Robert /Sandes/
 2 SOUR @S9@
@@ -312,6 +441,8 @@
 1 SEX M
 1 FAMC @F10@
 1 FAMS @F14@
+1 BIRT
+2 DATE ABT 1485
 1 DEAT
 2 DATE 1509
 2 PLAC Harleyford Manor, Great Marlow, Buckinghamshire, England
@@ -378,8 +509,6 @@
 1 _GUID 1c0e6262-46ba-4e46-a8d9-08f0010a78f9
 0 @I9@ INDI
 1 NAME William /Sandes/
-1 NAME //
-1 NAME //
 1 SEX M
 1 FAMC @F9@
 1 FAMS @F10@
@@ -881,6 +1010,11 @@
 1 SEX M
 1 FAMC @F5@
 1 _GUID b073c1cb-ac5c-4825-9302-69a6f934e7f2
+0 @I60@ INDI
+1 NAME Bridget /Shelley/
+1 SEX F
+1 FAMS @F23@
+1 _GUID 61ae553a-92af-4eeb-97cb-b2080f2b55d8
 0 @I40@ INDI
 1 NAME John /Weston/
 1 SEX M
@@ -923,6 +1057,12 @@
 1 SEX M
 1 FAMS @F17@
 1 _GUID 0627bacc-d120-4806-bc3c-52684161c52e
+0 @F23@ FAM
+1 HUSB @I59@
+1 WIFE @I60@
+1 CHIL @I13@
+2 _FREL Natural
+2 _MREL Natural
 0 @F19@ FAM
 1 HUSB @I46@
 1 WIFE @I45@
@@ -947,6 +1087,23 @@
 0 @F22@ FAM
 1 HUSB @I35@
 1 WIFE @I53@
+1 CHIL @I56@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I57@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I58@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I54@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I55@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR
+2 DATE ABT 1550
 0 @F5@ FAM
 1 HUSB @I27@
 1 WIFE @I1@
@@ -962,19 +1119,19 @@
 0 @F15@ FAM
 1 HUSB @I34@
 1 WIFE @I38@
-1 CHIL @I35@
+1 CHIL @I51@
 2 _FREL Natural
 2 _MREL Natural
-1 CHIL @I51@
+1 CHIL @I35@
 2 _FREL Natural
 2 _MREL Natural
 0 @F14@ FAM
 1 HUSB @I33@
 1 WIFE @I37@
-1 CHIL @I34@
+1 CHIL @I49@
 2 _FREL Natural
 2 _MREL Natural
-1 CHIL @I49@
+1 CHIL @I34@
 2 _FREL Natural
 2 _MREL Natural
 0 @F21@ FAM
@@ -1004,9 +1161,6 @@
 1 CHIL @I11@
 2 _FREL Natural
 2 _MREL Natural
-1 CHIL @I33@
-2 _FREL Natural
-2 _MREL Natural
 1 CHIL @I39@
 2 _FREL Natural
 2 _MREL Natural
@@ -1023,6 +1177,9 @@
 2 _FREL Natural
 2 _MREL Natural
 1 CHIL @I52@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I33@
 2 _FREL Natural
 2 _MREL Natural
 0 @F12@ FAM
