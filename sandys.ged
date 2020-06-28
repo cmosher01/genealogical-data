@@ -14,9 +14,9 @@
 4 CONT Boston, MA 02109
 3 PHON (617) 227-6681
 1 DEST FTM
-1 FILE Sandys_2020-06-27-23-16-09.ftm.ged
-1 DATE 27 JUN 2020
-2 TIME 23:16:27
+1 FILE Sandys_2020-06-28-04-42-44.ftm.ged
+1 DATE 28 JUN 2020
+2 TIME 04:43:03
 0 @Umy2qBWIRUiwVSS6Hcn4@ SUBM
 1 NAME Christopher Alan Mosher
 2 EMAIL cmosher01@@gmail.com
@@ -49,6 +49,25 @@
 1 SEX F
 1 FAMS @F22@
 1 _GUID bbf883f5-8797-4287-9f1a-73ffaf30b0a8
+0 @I61@ INDI
+1 NAME Frances /Archisden/
+2 SOUR @S12@
+3 PAGE p. 70
+3 _LINK https://babel.hathitrust.org/cgi/pt?id=wu.89064841596&view=1
+4 CONC up&seq=80
+1 SEX F
+1 FAMS @F24@
+1 DEAT
+2 DATE 17 JAN 1618
+2 PLAC Brettenham, Suffolk, England
+3 MAP
+4 LATI N52.4167
+4 LONG E0.8333
+2 SOUR @S12@
+3 PAGE p. 70
+3 _LINK https://babel.hathitrust.org/cgi/pt?id=wu.89064841596&view=1
+4 CONC up&seq=80
+1 _GUID aaad3023-7f96-401e-8c3b-5712cb6135b1
 0 @I1@ INDI
 1 NAME Elizabeth /Cavendish/
 2 SOUR @S9@
@@ -768,6 +787,8 @@
 3 _APID 7836:1060740
 1 SEX M
 1 FAMS @F2@
+1 FAMS @F24@
+1 FAMS @F25@
 1 NOTE Friend of John Winthrop (1588-1649), of Massachusetts Bay Co
 2 CONC lony, in New England. Winthrop refers to him as "Reverend He
 2 CONC nry Sandys" in his papers.
@@ -812,12 +833,24 @@
 3 PAGE Source number: 737.000; Source type: Electronic Database; Nu
 4 CONC mber of Pages: 1; Submitter Code: BKJ
 3 _APID 7836:1060740
+1 RESI
+2 DATE ABT 1560
+2 PLAC Ipswich, Suffolk, England
+3 MAP
+4 LATI N52.0833
+4 LONG E1.1667
 1 EDUC admitted
 2 DATE SEP 1569
 2 PLAC Saint John’s College, Cambridge University, Cambridge, Cambr
 3 CONC idgeshire, England
 2 SOUR @S2@
 3 _APID 3997:60778
+1 OCCU Vicar
+2 DATE 1578
+2 PLAC Preston St Mary, Suffolk, England
+3 MAP
+4 LATI N52.1166
+4 LONG E0.8396
 1 RESI
 2 DATE ABT 1595
 2 PLAC Groton, Suffolk, England
@@ -1005,6 +1038,17 @@
 2 SOUR @S5@
 3 _APID 60526:3041237
 1 _GUID 2f54ae12-6bac-400e-a7e3-832d50a9e1cb
+0 @I62@ INDI
+1 NAME unknown first wife of Henry /Sandys/
+1 SEX F
+1 FAMS @F25@
+1 DEAT
+2 DATE 27 AUG 1616
+2 PLAC Groton, Suffolk, England
+3 MAP
+4 LATI N52.0383
+4 LONG E0.8546
+1 _GUID 252c8b9c-9600-4c79-bc39-2b1ddebbab01
 0 @I28@ INDI
 1 NAME William /Sandys/
 1 SEX M
@@ -1198,7 +1242,7 @@
 2 _FREL Natural
 2 _MREL Natural
 1 MARR
-2 DATE ABT 1548
+2 DATE ABT 1553
 2 SOUR @S9@
 3 PAGE sec. 5, part 2, image 421 of 449
 3 OBJE @M7@
@@ -1220,15 +1264,25 @@
 2 _MREL Natural
 1 MARR
 2 DATE 19 FEB 1559
-0 @F2@ FAM
+0 @F24@ FAM
 1 HUSB @I15@
-1 WIFE @I16@
+1 WIFE @I61@
 1 MARR
 2 DATE 10 JUN 1617
 2 PLAC Brettenham, Suffolk, England
 3 MAP
 4 LATI N52.4167
 4 LONG E0.8333
+0 @F2@ FAM
+1 HUSB @I15@
+1 WIFE @I16@
+1 MARR
+2 DATE ABT 1619
+0 @F25@ FAM
+1 HUSB @I15@
+1 WIFE @I62@
+1 MARR
+2 DATE ABT 1580
 0 @F1@ FAM
 1 HUSB @I12@
 1 WIFE @I13@
