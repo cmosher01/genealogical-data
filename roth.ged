@@ -1488,8 +1488,63 @@
 2 DATE 1931
 1 _GUID 86ded9da-5c1b-4ffd-91c2-3a1aa9e935f3
 0 @I37@ INDI
-1 NAME [REDACTED]
+1 REFN 8ab4312f-f61a-4187-aabc-819cd9133170
+1 NAME Marjorie /Cohen/
+2 SOUR @S3@
+3 PAGE Year: 1920; Census Place: Brooklyn Assembly District 2, King
+4 CONC s, New York; Roll: T625_1145; Page: 19B; Enumeration Distric
+4 CONC t: 74
+3 OBJE @M8@
+3 _APID 6061:81736713
+2 SOUR @S4@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1925; Election District: 46; Assembly Di
+4 CONC strict: 02; City: Brooklyn; County: Kings; Page: 60
+3 OBJE @M5@
+3 _APID 2704:21131994
+1 SEX F
 1 FAMC @F6@
+1 BIRT
+2 DATE ABT 1910
+2 PLAC New York, USA
+3 MAP
+4 LATI N42.7531
+4 LONG W74.2224
+2 SOUR @S3@
+3 PAGE Year: 1920; Census Place: Brooklyn Assembly District 2, King
+4 CONC s, New York; Roll: T625_1145; Page: 19B; Enumeration Distric
+4 CONC t: 74
+3 OBJE @M8@
+3 _APID 6061:81736713
+2 SOUR @S4@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1925; Election District: 46; Assembly Di
+4 CONC strict: 02; City: Brooklyn; County: Kings; Page: 60
+3 OBJE @M5@
+3 _APID 2704:21131994
+1 RESI
+2 DATE 1920
+2 PLAC 348 Williams Avenue, East New York, Brooklyn, New York City
+3 CONC , New York, USA
+2 SOUR @S3@
+3 PAGE Year: 1920; Census Place: Brooklyn Assembly District 2, King
+4 CONC s, New York; Roll: T625_1145; Page: 19B; Enumeration Distric
+4 CONC t: 74
+3 OBJE @M8@
+3 _APID 6061:81736713
+2 NOTE Relation to Head: Daughter; Residence Marital Status: Single
+1 RESI
+2 DATE 01 JUN 1925
+2 PLAC 348 Williams Avenue, East New York, Brooklyn, New York City
+3 CONC , New York, USA
+2 SOUR @S4@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1925; Election District: 46; Assembly Di
+4 CONC strict: 02; City: Brooklyn; County: Kings; Page: 60
+3 OBJE @M5@
+3 _APID 2704:21131994
+2 NOTE Relation to Head of House: Daughter
+1 _GUID 0e705634-5cd5-4f13-ae6a-98eec9f5d5c9
 0 @I36@ INDI
 1 REFN cfdbdbf8-ea8c-438e-b648-f4a32fa293e7
 1 NAME Samuel /Cohen/
@@ -2323,8 +2378,39 @@
 2 NOTE Relation to Head: Head; Residence Marital Status: Married
 1 _GUID 782ece09-f8e8-4599-8b41-44bce311d0cb
 0 @I58@ INDI
-1 NAME [REDACTED]
+1 REFN 3b3faba2-7154-4183-88b0-c27492a3df78
+1 NAME Annie /Levites/
+2 SOUR @S3@
+3 PAGE Year: 1920; Census Place: Manhattan Assembly District 6, Ne
+4 CONC w York, New York; Roll: T625_1195; Page: 1A; Enumeration Dis
+4 CONC trict: 478
+3 OBJE @M39@
+3 _APID 6061:32442022
+1 SEX F
 1 FAMC @F46@
+1 BIRT
+2 DATE ABT 1910
+2 PLAC New York, USA
+3 MAP
+4 LATI N42.7531
+4 LONG W74.2224
+2 SOUR @S3@
+3 PAGE Year: 1920; Census Place: Manhattan Assembly District 6, Ne
+4 CONC w York, New York; Roll: T625_1195; Page: 1A; Enumeration Dis
+4 CONC trict: 478
+3 OBJE @M39@
+3 _APID 6061:32442022
+1 RESI
+2 DATE 1920
+2 PLAC Manhattan, New York City, New York, USA
+2 SOUR @S3@
+3 PAGE Year: 1920; Census Place: Manhattan Assembly District 6, Ne
+4 CONC w York, New York; Roll: T625_1195; Page: 1A; Enumeration Dis
+4 CONC trict: 478
+3 OBJE @M39@
+3 _APID 6061:32442022
+2 NOTE Relation to Head: Daughter; Residence Marital Status: Single
+1 _GUID f989b9e9-db06-4b6c-8524-4741ff917771
 0 @I59@ INDI
 1 NAME [REDACTED]
 1 FAMC @F46@
@@ -4549,8 +4635,39 @@
 2 NOTE Relation to Head: Wife; Residence Marital Status: Married
 1 _GUID df232b2d-5457-493e-9c1a-fc1ebb20212c
 0 @I67@ INDI
-1 NAME [REDACTED]
+1 REFN 92ea5b00-5187-4a2f-ad61-693e878865bd
+1 NAME Solomon /Rosanoff/
+2 SOUR @S12@
+3 PAGE Year: 1910; Census Place: Manhattan Ward 11, New York, New Y
+4 CONC ork; Roll: T624_1011; Page: 9A; Enumeration District: 0248
+4 CONC ; FHL microfilm: 1375024
+3 OBJE @M38@
+3 _APID 7884:100608853
+1 SEX M
 1 FAMC @F54@
+1 BIRT
+2 DATE ABT 1910
+2 PLAC New York, USA
+3 MAP
+4 LATI N42.7531
+4 LONG W74.2224
+2 SOUR @S12@
+3 PAGE Year: 1910; Census Place: Manhattan Ward 11, New York, New Y
+4 CONC ork; Roll: T624_1011; Page: 9A; Enumeration District: 0248
+4 CONC ; FHL microfilm: 1375024
+3 OBJE @M38@
+3 _APID 7884:100608853
+1 RESI
+2 DATE 1910
+2 PLAC Manhattan, New York City, New York, USA
+2 SOUR @S12@
+3 PAGE Year: 1910; Census Place: Manhattan Ward 11, New York, New Y
+4 CONC ork; Roll: T624_1011; Page: 9A; Enumeration District: 0248
+4 CONC ; FHL microfilm: 1375024
+3 OBJE @M38@
+3 _APID 7884:100608853
+2 NOTE Marital Status: Single; Relation to Head of House: Son
+1 _GUID e6eb30a9-cf52-4733-bd3e-ca5ca931c145
 0 @I6@ INDI
 1 REFN 7ac8712b-1852-48f3-a534-f58827cc90c2
 1 NAME unnamed twin 1 /Rosanoff/

@@ -14,9 +14,9 @@
 4 CONT Boston, MA 02109
 3 PHON (617) 227-6681
 1 DEST FTM
-1 FILE Sandys_2020-06-28-04-42-44.ftm.ged
-1 DATE 28 JUN 2020
-2 TIME 04:43:03
+1 FILE Sandys_2020-07-10-14-14-49.ftm.ged
+1 DATE 10 JUL 2020
+2 TIME 14:15:32
 0 @Umy2qBWIRUiwVSS6Hcn4@ SUBM
 1 NAME Christopher Alan Mosher
 2 EMAIL cmosher01@@gmail.com
@@ -77,6 +77,13 @@
 1 SEX F
 1 FAMS @F5@
 1 _GUID d15045b6-0d15-463f-99fe-15c2732c9b40
+0 @I63@ INDI
+1 NAME Richard /Cavendish/
+1 SEX M
+1 FAMS @F26@
+1 RESI
+2 PLAC Grimston Hall, Trimley St Martin, Suffolk, England
+1 _GUID b68e72a2-6400-46e1-9f71-fe5399ee08f0
 0 @I13@ INDI
 1 NAME Priscilla /Chauncy/
 1 SEX F
@@ -118,6 +125,11 @@
 1 SEX M
 1 FAMS @F20@
 1 _GUID 265540ae-72ad-4a7d-9fe6-f433bcf5d0ea
+0 @I64@ INDI
+1 NAME Anne /Felton/
+1 SEX F
+1 FAMS @F27@
+1 _GUID 804fa9a9-b99d-4b12-ae13-8ba92e402d39
 0 @I32@ INDI
 1 NAME Margery /Gerrard/
 1 SEX F
@@ -354,6 +366,130 @@
 3 _LINK https://mosher.mine.nu/tei/genealogy/main/sources/old/harris
 4 CONC on/sandes_henry_of_sonning_will_1569.tei.xml
 1 _GUID ae726416-aa30-476b-8862-6bacb97877d4
+0 @I15@ INDI
+1 NAME Henry /Sandes/
+2 SOUR @S2@
+3 PAGE Henry Sandys
+3 _APID 3997:60778
+2 SOUR @S3@
+3 PAGE Source number: 737.000; Source type: Electronic Database; Nu
+4 CONC mber of Pages: 1; Submitter Code: BKJ
+3 _APID 7836:1060740
+2 SOUR @S14@
+3 DATA
+4 TEXT Hen. Sandes.
+3 _LINK http://www.masshist.org/publications/winthrop/index.php/view
+4 CONC /PWF01p270
+1 SEX M
+1 FAMS @F2@
+1 FAMS @F24@
+1 FAMS @F25@
+1 NOTE Friend of John Winthrop (1588-1649), of Massachusetts Bay Co
+2 CONC lony, in New England. Winthrop refers to him as "Reverend He
+2 CONC nry Sandys" in his papers.
+1 NOTE This Henry Sandys is often mentioned to be the father of Jam
+2 CONC es Sands (of Block Island, Rhode Island, in New England), bu
+2 CONC t no evidence has been found for this assertion. Also, in th
+2 CONC is same context, this Henry Sandys is often conflated with H
+2 CONC enry Sandys the son of Archbishop Edwin Sandys.
+2 CONT
+2 CONT There is no direct evidence yet found for who Henry's parent
+2 CONC s are.
+1 BIRT
+2 DATE ABT MAY 1549
+2 PLAC England
+3 MAP
+4 LATI N52.5898
+4 LONG W1.4611
+2 SOUR @S11@
+3 PAGE <bibl><author>Francis Peck</author>, <title level="m">Deside
+4 CONC rata Curiosa: or, A Collection of Divers Scarce and Curiou
+4 CONC s Pieces Relating Chiefly to Matters of English History; con
+4 CONC sisting of choice tracts, memoirs, letters, wills, epitaphs
+4 CONC , &amp;c. transcribed, many of them, from the originals them
+4 CONC selves, and the rest from divers antient ms. copies, or th
+4 CONC e ms. collections of sundry famous antiquaries and other emi
+4 CONC nent persons, both of the last and present age: the whole, a
+4 CONC s near as possible, digested into an order of time, and illu
+4 CONC strated with ample notes, contents, additional discourses, a
+4 CONC nd a complete index</title> (<pubPlace>London</pubPlace>: <p
+4 CONC ublisher>Thomas Evans</publisher>, 1779), <citedRange>p. 21
+4 CONC 6 (vol. 1, liber 6, no. 9)</citedRange>; digital images, <ti
+4 CONC tle level="m">Internet Archive</title> (<ref target="https:/
+4 CONC /archive.org/details/desideratacuriosa00peck/page/216/mode/1
+4 CONC up"/> : accessed 23 Jun 2020); citing <title level="u">epita
+4 CONC phs</title>, manuscript book, Samuel Knight, prebendary of E
+4 CONC ly, Cambridgeshire, England, <citedRange>2 ch. 1</citedRange
+4 CONC >; citing Boxford Cememtery (Boxford, Suffolk, England), Hen
+4 CONC ry Sands monument, 1626.</bibl>
+3 _LINK https://archive.org/details/desideratacuriosa00peck/page/216
+4 CONC /mode/1up
+2 SOUR @S3@
+3 PAGE Source number: 737.000; Source type: Electronic Database; Nu
+4 CONC mber of Pages: 1; Submitter Code: BKJ
+3 _APID 7836:1060740
+1 RESI
+2 DATE ABT 1560
+2 PLAC Ipswich, Suffolk, England
+3 MAP
+4 LATI N52.0833
+4 LONG E1.1667
+1 EDUC admitted
+2 DATE SEP 1569
+2 PLAC Saint John’s College, Cambridge University, Cambridge, Cambr
+3 CONC idgeshire, England
+2 SOUR @S2@
+3 PAGE Henry Sandys
+3 _APID 3997:60778
+1 OCCU Vicar
+2 DATE 1578
+2 PLAC Preston St Mary, Suffolk, England
+3 MAP
+4 LATI N52.1166
+4 LONG E0.8396
+1 RESI
+2 DATE ABT 1595
+2 PLAC Groton, Suffolk, England
+3 MAP
+4 LATI N52.0383
+4 LONG E0.8546
+1 DEAT
+2 DATE 09 NOV 1626
+2 PLAC Groton, Suffolk, England
+3 MAP
+4 LATI N52.0383
+4 LONG E0.8546
+1 BURI
+2 DATE ABT 09 NOV 1626
+2 PLAC Boxford, Suffolk, England
+3 MAP
+4 LATI N52.0167
+4 LONG E0.8667
+2 SOUR @S11@
+3 PAGE <bibl><author>Francis Peck</author>, <title level="m">Deside
+4 CONC rata Curiosa: or, A Collection of Divers Scarce and Curiou
+4 CONC s Pieces Relating Chiefly to Matters of English History; con
+4 CONC sisting of choice tracts, memoirs, letters, wills, epitaphs
+4 CONC , &amp;c. transcribed, many of them, from the originals them
+4 CONC selves, and the rest from divers antient ms. copies, or th
+4 CONC e ms. collections of sundry famous antiquaries and other emi
+4 CONC nent persons, both of the last and present age: the whole, a
+4 CONC s near as possible, digested into an order of time, and illu
+4 CONC strated with ample notes, contents, additional discourses, a
+4 CONC nd a complete index</title> (<pubPlace>London</pubPlace>: <p
+4 CONC ublisher>Thomas Evans</publisher>, 1779), <citedRange>p. 21
+4 CONC 6 (vol. 1, liber 6, no. 9)</citedRange>; digital images, <ti
+4 CONC tle level="m">Internet Archive</title> (<ref target="https:/
+4 CONC /archive.org/details/desideratacuriosa00peck/page/216/mode/1
+4 CONC up"/> : accessed 23 Jun 2020); citing <title level="u">epita
+4 CONC phs</title>, manuscript book, Samuel Knight, prebendary of E
+4 CONC ly, Cambridgeshire, England, <citedRange>2 ch. 1</citedRange
+4 CONC >; citing Boxford Cememtery (Boxford, Suffolk, England), Hen
+4 CONC ry Sands monument, 1626.</bibl>
+3 _LINK https://archive.org/details/desideratacuriosa00peck/page/216
+4 CONC /mode/1up
+1 TITL Reverend
+1 _GUID d8016f32-c22a-4fdc-bd5c-6f939ec7946a
 0 @I41@ INDI
 1 NAME Jane /Sandes/
 2 SOUR @S9@
@@ -574,10 +710,33 @@
 1 NAME Anne /Sandys/
 1 SEX F
 1 FAMC @F5@
+1 FAMS @F26@
 1 _GUID ec6d608b-8763-4797-a5a2-dfc1d8811afa
 0 @I14@ INDI
 1 NAME Chauncy /Sandys/
+2 SOUR @S10@
+3 PAGE <bibl><author>John Venn and J[ohn] A[rchibald] Venn</author>
+4 CONC , compilers, <title level="m">Alumni Cantabrigienses
+4 CONC ;     a biographical list of all known students, graduates
+4 CONC , and holders of office,     at the University of Cambridge
+4 CONC , from the earliest times to 1900</title> (<pubPlace>Cambrid
+4 CONC ge</pubPlace>: <publisher>The University press</publisher>
+4 CONC , 1927), <citedRange>part 1, vol. 4, p. 19</citedRange>; dig
+4 CONC ital images, <title level="m">Internet Archive</title> (<re
+4 CONC f target="https://archive.org/details/p1alumnicantabri04univ
+4 CONC uoft/page/19/mode/1up"/> : accessed 21 Jun 2020).</bibl>
+3 DATA
+4 TEXT SANDYS, CHAUNCEY. Adm[itted to college] pens[ioner] (age 15
+5 CONC ) at Sidney [Sussex College], July 27, 1621. S[on] of Henry
+5 CONC , of Culworth, Northants., gent[leman], deceased (and Prisci
+5 CONC lla, dau[ghter] of Sir Toby Chauncy, of Edgcote). B[orn] a
+5 CONC t Edgcote, Northants. Schools, Edgcote and Ashby. Matric[ula
+5 CONC tion into University] 1621.
+3 OBJE @M5@
+3 _LINK https://archive.org/details/p1alumnicantabri04univuoft/page/
+4 CONC 19/mode/1up
 2 SOUR @S2@
+3 PAGE Chauncy Sandys
 3 _APID 3997:60770
 1 SEX M
 1 FAMC @F1@
@@ -587,6 +746,30 @@
 3 MAP
 4 LATI N52.1261
 4 LONG W1.2655
+2 SOUR @S10@
+3 PAGE <bibl><author>John Venn and J[ohn] A[rchibald] Venn</author>
+4 CONC , compilers, <title level="m">Alumni Cantabrigienses
+4 CONC ;     a biographical list of all known students, graduates
+4 CONC , and holders of office,     at the University of Cambridge
+4 CONC , from the earliest times to 1900</title> (<pubPlace>Cambrid
+4 CONC ge</pubPlace>: <publisher>The University press</publisher>
+4 CONC , 1927), <citedRange>part 1, vol. 4, p. 19</citedRange>; dig
+4 CONC ital images, <title level="m">Internet Archive</title> (<re
+4 CONC f target="https://archive.org/details/p1alumnicantabri04univ
+4 CONC uoft/page/19/mode/1up"/> : accessed 21 Jun 2020).</bibl>
+3 DATA
+4 TEXT SANDYS, CHAUNCEY. Adm[itted to college] pens[ioner] (age 15
+5 CONC ) at Sidney [Sussex College], July 27, 1621. S[on] of Henry
+5 CONC , of Culworth, Northants., gent[leman], deceased (and Prisci
+5 CONC lla, dau[ghter] of Sir Toby Chauncy, of Edgcote). B[orn] a
+5 CONC t Edgcote, Northants. Schools, Edgcote and Ashby. Matric[ula
+5 CONC tion into University] 1621.
+3 OBJE @M5@
+3 _LINK https://archive.org/details/p1alumnicantabri04univuoft/page/
+4 CONC 19/mode/1up
+2 SOUR @S2@
+3 PAGE Chauncy Sandys
+3 _APID 3997:60770
 1 EDUC admitted
 2 DATE 27 JUL 1621
 2 PLAC Sidney Sussex College, Cambridge University, Cambridge, Camb
@@ -606,13 +789,14 @@
 4 TEXT SANDYS, CHAUNCEY. Adm[itted to college] pens[ioner] (age 15
 5 CONC ) at Sidney [Sussex College], July 27, 1621. S[on] of Henry
 5 CONC , of Culworth, Northants., gent[leman], deceased (and Prisci
-5 CONC lla, dau[ghter] of Sir Toby Chauncy, of Edgcote). B[ord] a
+5 CONC lla, dau[ghter] of Sir Toby Chauncy, of Edgcote). B[orn] a
 5 CONC t Edgcote, Northants. Schools, Edgcote and Ashby. Matric[ula
 5 CONC tion into University] 1621.
 3 OBJE @M5@
 3 _LINK https://archive.org/details/p1alumnicantabri04univuoft/page/
 4 CONC 19/mode/1up
 2 SOUR @S2@
+3 PAGE Chauncy Sandys
 3 _APID 3997:60770
 1 _GUID a2bd315f-6836-41c4-abe6-b89cb11e9d2c
 0 @I20@ INDI
@@ -633,10 +817,8 @@
 1 OBJE @M6@
 1 BIRT
 2 DATE ABT 1519
-2 PLAC Hawkshead, Lancashire, England
-3 MAP
-4 LATI N54.3749
-4 LONG W3.0003
+2 PLAC Esthwaite Hall, Hawkshead, Furness Fells, Cumbria, (ancien
+3 CONC t Lancashire), England
 2 SOUR @S7@
 3 OBJE @M2@
 3 _APID 7077:5268
@@ -648,6 +830,10 @@
 3 _APID 7249:10037009
 2 SOUR @S5@
 3 _APID 60526:249559
+1 EVEN
+2 TYPE Exile
+2 DATE 1553
+2 PLAC Germany
 1 TITL Bishop of Worcester
 2 DATE 1559
 2 PLAC Worcester, Worcestershire, England
@@ -777,126 +963,10 @@
 2 SOUR @S5@
 3 _APID 60526:4995
 1 _GUID 6d614054-a9cb-4fdd-8f71-02b23a96bc1e
-0 @I15@ INDI
-1 NAME Henry /Sandys/
-2 SOUR @S2@
-3 _APID 3997:60778
-2 SOUR @S3@
-3 PAGE Source number: 737.000; Source type: Electronic Database; Nu
-4 CONC mber of Pages: 1; Submitter Code: BKJ
-3 _APID 7836:1060740
-1 SEX M
-1 FAMS @F2@
-1 FAMS @F24@
-1 FAMS @F25@
-1 NOTE Friend of John Winthrop (1588-1649), of Massachusetts Bay Co
-2 CONC lony, in New England. Winthrop refers to him as "Reverend He
-2 CONC nry Sandys" in his papers.
-1 NOTE This Henry Sandys is often mentioned to be the father of Jam
-2 CONC es Sands (of Block Island, Rhode Island, in New England), bu
-2 CONC t no evidence has been found for this assertion. Also, in th
-2 CONC is same context, this Henry Sandys is often conflated with H
-2 CONC enry Sandys the son of Archbishop Edwin Sandys.
-2 CONT
-2 CONT There is no direct evidence yet found for who Henry's parent
-2 CONC s are.
-1 BIRT
-2 DATE ABT MAY 1549
-2 PLAC England
-3 MAP
-4 LATI N52.5898
-4 LONG W1.4611
-2 SOUR @S11@
-3 PAGE <bibl><author>Francis Peck</author>, <title level="m">Deside
-4 CONC rata Curiosa: or, A Collection of Divers Scarce and Curiou
-4 CONC s Pieces Relating Chiefly to Matters of English History; con
-4 CONC sisting of choice tracts, memoirs, letters, wills, epitaphs
-4 CONC , &amp;c. transcribed, many of them, from the originals them
-4 CONC selves, and the rest from divers antient ms. copies, or th
-4 CONC e ms. collections of sundry famous antiquaries and other emi
-4 CONC nent persons, both of the last and present age: the whole, a
-4 CONC s near as possible, digested into an order of time, and illu
-4 CONC strated with ample notes, contents, additional discourses, a
-4 CONC nd a complete index</title> (<pubPlace>London</pubPlace>: <p
-4 CONC ublisher>Thomas Evans</publisher>, 1779), <citedRange>p. 21
-4 CONC 6 (vol. 1, liber 6, no. 9)</citedRange>; digital images, <ti
-4 CONC tle level="m">Internet Archive</title> (<ref target="https:/
-4 CONC /archive.org/details/desideratacuriosa00peck/page/216/mode/1
-4 CONC up"/> : accessed 23 Jun 2020); citing <title level="u">epita
-4 CONC phs</title>, manuscript book, Samuel Knight, prebendary of E
-4 CONC ly, Cambridgeshire, England, <citedRange>2 ch. 1</citedRange
-4 CONC >; citing Boxford Cememtery (Boxford, Suffolk, England), Hen
-4 CONC ry Sands monument, 1626.</bibl>
-3 _LINK https://archive.org/details/desideratacuriosa00peck/page/216
-4 CONC /mode/1up
-2 SOUR @S3@
-3 PAGE Source number: 737.000; Source type: Electronic Database; Nu
-4 CONC mber of Pages: 1; Submitter Code: BKJ
-3 _APID 7836:1060740
-1 RESI
-2 DATE ABT 1560
-2 PLAC Ipswich, Suffolk, England
-3 MAP
-4 LATI N52.0833
-4 LONG E1.1667
-1 EDUC admitted
-2 DATE SEP 1569
-2 PLAC Saint John’s College, Cambridge University, Cambridge, Cambr
-3 CONC idgeshire, England
-2 SOUR @S2@
-3 _APID 3997:60778
-1 OCCU Vicar
-2 DATE 1578
-2 PLAC Preston St Mary, Suffolk, England
-3 MAP
-4 LATI N52.1166
-4 LONG E0.8396
-1 RESI
-2 DATE ABT 1595
-2 PLAC Groton, Suffolk, England
-3 MAP
-4 LATI N52.0383
-4 LONG E0.8546
-1 DEAT
-2 DATE 09 NOV 1626
-2 PLAC Groton, Suffolk, England
-3 MAP
-4 LATI N52.0383
-4 LONG E0.8546
-1 BURI
-2 DATE ABT 09 NOV 1626
-2 PLAC Boxford, Suffolk, England
-3 MAP
-4 LATI N52.0167
-4 LONG E0.8667
-2 SOUR @S11@
-3 PAGE <bibl><author>Francis Peck</author>, <title level="m">Deside
-4 CONC rata Curiosa: or, A Collection of Divers Scarce and Curiou
-4 CONC s Pieces Relating Chiefly to Matters of English History; con
-4 CONC sisting of choice tracts, memoirs, letters, wills, epitaphs
-4 CONC , &amp;c. transcribed, many of them, from the originals them
-4 CONC selves, and the rest from divers antient ms. copies, or th
-4 CONC e ms. collections of sundry famous antiquaries and other emi
-4 CONC nent persons, both of the last and present age: the whole, a
-4 CONC s near as possible, digested into an order of time, and illu
-4 CONC strated with ample notes, contents, additional discourses, a
-4 CONC nd a complete index</title> (<pubPlace>London</pubPlace>: <p
-4 CONC ublisher>Thomas Evans</publisher>, 1779), <citedRange>p. 21
-4 CONC 6 (vol. 1, liber 6, no. 9)</citedRange>; digital images, <ti
-4 CONC tle level="m">Internet Archive</title> (<ref target="https:/
-4 CONC /archive.org/details/desideratacuriosa00peck/page/216/mode/1
-4 CONC up"/> : accessed 23 Jun 2020); citing <title level="u">epita
-4 CONC phs</title>, manuscript book, Samuel Knight, prebendary of E
-4 CONC ly, Cambridgeshire, England, <citedRange>2 ch. 1</citedRange
-4 CONC >; citing Boxford Cememtery (Boxford, Suffolk, England), Hen
-4 CONC ry Sands monument, 1626.</bibl>
-3 _LINK https://archive.org/details/desideratacuriosa00peck/page/216
-4 CONC /mode/1up
-1 TITL Reverend
-1 _GUID d8016f32-c22a-4fdc-bd5c-6f939ec7946a
 0 @I12@ INDI
 1 NAME Henry /Sandys/
 2 SOUR @S2@
+3 PAGE Chauncy Sandys
 3 _APID 3997:60770
 2 SOUR @S1@
 3 OBJE @M1@
@@ -933,13 +1003,14 @@
 4 TEXT SANDYS, CHAUNCEY. Adm[itted to college] pens[ioner] (age 15
 5 CONC ) at Sidney [Sussex College], July 27, 1621. S[on] of Henry
 5 CONC , of Culworth, Northants., gent[leman], deceased (and Prisci
-5 CONC lla, dau[ghter] of Sir Toby Chauncy, of Edgcote). B[ord] a
+5 CONC lla, dau[ghter] of Sir Toby Chauncy, of Edgcote). B[orn] a
 5 CONC t Edgcote, Northants. Schools, Edgcote and Ashby. Matric[ula
 5 CONC tion into University] 1621.
 3 OBJE @M5@
 3 _LINK https://archive.org/details/p1alumnicantabri04univuoft/page/
 4 CONC 19/mode/1up
 2 SOUR @S2@
+3 PAGE Chauncy Sandys
 3 _APID 3997:60770
 1 _GUID 4649db6a-11eb-4ef4-95a3-48fc1da222ee
 0 @I3@ INDI
@@ -1038,6 +1109,11 @@
 2 SOUR @S5@
 3 _APID 60526:3041237
 1 _GUID 2f54ae12-6bac-400e-a7e3-832d50a9e1cb
+0 @I65@ INDI
+1 NAME Thomas /Sandys/
+1 SEX M
+1 FAMC @F27@
+1 _GUID d129ecef-91fd-4c68-b4e4-8e5035c1f4d2
 0 @I62@ INDI
 1 NAME unknown first wife of Henry /Sandys/
 1 SEX F
@@ -1053,7 +1129,13 @@
 1 NAME William /Sandys/
 1 SEX M
 1 FAMC @F5@
+1 FAMS @F27@
 1 _GUID b073c1cb-ac5c-4825-9302-69a6f934e7f2
+0 @I66@ INDI
+1 NAME William /Sandys/
+1 SEX M
+1 FAMC @F27@
+1 _GUID 0ff6c18b-643d-4227-a87b-346f14e89a30
 0 @I60@ INDI
 1 NAME Bridget /Shelley/
 1 SEX F
@@ -1101,6 +1183,9 @@
 1 SEX M
 1 FAMS @F17@
 1 _GUID 0627bacc-d120-4806-bc3c-52684161c52e
+0 @F26@ FAM
+1 HUSB @I63@
+1 WIFE @I2@
 0 @F23@ FAM
 1 HUSB @I59@
 1 WIFE @I60@
@@ -1148,6 +1233,25 @@
 2 _MREL Natural
 1 MARR
 2 DATE ABT 1550
+0 @F24@ FAM
+1 HUSB @I15@
+1 WIFE @I61@
+1 MARR
+2 DATE 10 JUN 1617
+2 PLAC Brettenham, Suffolk, England
+3 MAP
+4 LATI N52.4167
+4 LONG E0.8333
+0 @F2@ FAM
+1 HUSB @I15@
+1 WIFE @I16@
+1 MARR
+2 DATE ABT 1619
+0 @F25@ FAM
+1 HUSB @I15@
+1 WIFE @I62@
+1 MARR
+2 DATE ABT 1580
 0 @F5@ FAM
 1 HUSB @I27@
 1 WIFE @I1@
@@ -1242,7 +1346,7 @@
 2 _FREL Natural
 2 _MREL Natural
 1 MARR
-2 DATE ABT 1553
+2 DATE ABT 1548
 2 SOUR @S9@
 3 PAGE sec. 5, part 2, image 421 of 449
 3 OBJE @M7@
@@ -1264,25 +1368,6 @@
 2 _MREL Natural
 1 MARR
 2 DATE 19 FEB 1559
-0 @F24@ FAM
-1 HUSB @I15@
-1 WIFE @I61@
-1 MARR
-2 DATE 10 JUN 1617
-2 PLAC Brettenham, Suffolk, England
-3 MAP
-4 LATI N52.4167
-4 LONG E0.8333
-0 @F2@ FAM
-1 HUSB @I15@
-1 WIFE @I16@
-1 MARR
-2 DATE ABT 1619
-0 @F25@ FAM
-1 HUSB @I15@
-1 WIFE @I62@
-1 MARR
-2 DATE ABT 1580
 0 @F1@ FAM
 1 HUSB @I12@
 1 WIFE @I13@
@@ -1299,6 +1384,15 @@
 1 HUSB @I19@
 1 CHIL @I3@
 2 _FREL Natural
+0 @F27@ FAM
+1 HUSB @I28@
+1 WIFE @I64@
+1 CHIL @I65@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I66@
+2 _FREL Natural
+2 _MREL Natural
 0 @F16@ FAM
 1 HUSB @I40@
 1 WIFE @I39@
@@ -1313,6 +1407,11 @@
 0 @R2@ REPO
 1 NAME Archive.org
 1 ADDR
+1 EMAIL
+1 PHON
+0 @R3@ REPO
+1 NAME Massachusetts (USA) Historical Society
+1 ADDR http://www.masshist.org/
 1 EMAIL
 1 PHON
 0 @S10@ SOUR
@@ -1405,6 +1504,12 @@
 1 PUBL Ancestry.com Operations Inc; Location: Provo, UT, USA; Date
 2 CONC : 2009
 1 _APID 1610
+0 @S14@ SOUR
+1 REPO @R3@
+1 TITL Winthrop Papers Digital Edition
+1 AUTH Massachusetts (USA) Historical Society
+1 PUBL Massachusetts (USA) Historical Society; Location: http://www
+2 CONC .masshist.org/publications/winthrop/; Date: 2020
 0 @M1@ OBJE
 1 _GUID 9023136f-61f9-4eef-98c5-17b2d7c4010a
 1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Sandys Media\Ox
