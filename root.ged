@@ -14,9 +14,9 @@
 4 CONT Boston, MA 02109
 3 PHON (617) 227-6681
 1 DEST FTM
-1 FILE root_2020-06-16-23-11-59.ftm.ged
-1 DATE 16 JUN 2020
-2 TIME 23:12:09
+1 FILE root_2020-07-10-14-19-39.ftm.ged
+1 DATE 10 JUL 2020
+2 TIME 14:19:53
 0 @Umy2qBWIRUiwVSS6Hcn4@ SUBM
 1 NAME Christopher Alan Mosher
 2 EMAIL cmosher01@@gmail.com
@@ -569,6 +569,9 @@
 0 @I143@ INDI
 1 NAME [REDACTED]
 1 FAMC @F80@
+0 @I152@ INDI
+1 NAME [REDACTED]
+1 FAMC @F80@
 0 @I142@ INDI
 1 NAME [REDACTED]
 1 FAMC @F80@
@@ -724,6 +727,9 @@
 1 CHIL @I143@
 2 _FREL Natural
 2 _MREL Natural
+1 CHIL @I152@
+2 _FREL Natural
+2 _MREL Natural
 0 @F27@ FAM
 1 HUSB @AqQ7I0JERUey7r6ilRTB@
 1 WIFE @UT4OTME3R267tPKiKqSg@
@@ -797,12 +803,6 @@
 1 AUTH Division of Vital Statistics, Department of Health, New York
 2 CONC , USA
 1 PUBL 3 Sep 1937, Oneida, Madison, New York, USA
-0 @gcVAmmerSkCMVaduj0A2@ SOUR
-1 TITL Certificate of birth, Mosher, Christopher Alan, Registratio
-2 CONC n Area 221, Certificate 563, State Birth 145-66-041027
-1 AUTH Bureau of Vital Records and Health Statistics, Department o
-2 CONC f Health, Virginia, USA
-1 PUBL 3 Jul 1966, Radford, Virginia, USA
 0 @ef1cuYhAQVqPjvdZlDsT@ SOUR
 1 TITL Commencement Exercises invitation, R.P.I., Troy, NY
 1 PUBL Troy, NY, 1959
@@ -1006,7 +1006,13 @@
 0 @IvLO8rI1TCyDR6vNjBQC@ SOUR
 1 TITL Up Date Addresses B. Mosher
 1 AUTH Mosher, Barry Rexford
-1 PUBL 14 Feb 2000, in possession of Chris Mosher.
+1 PUBL 14 Feb 2000, in possession of Chris Mosher.; Location: https
+2 CONC ://mosher.mine.nu/tei/genealogy/main/sources/recent/mosher_d
+2 CONC isosway/mosher_disosway_records.tei.xml
+0 @S22@ SOUR
+1 TITL USA. Virginia, Commonwealth of. Department of Health. Birt
+2 CONC h Certificates
+1 AUTH USA. Virginia, Commonwealth of.
 0 @S196@ SOUR
 1 REPO @0DlujSAeTb6NOTLsW2c9@
 1 TITL Virginia, Birth Records, 1912-2015, Delayed Birth Records, 1
