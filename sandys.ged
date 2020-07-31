@@ -14,9 +14,9 @@
 4 CONT Boston, MA 02109
 3 PHON (617) 227-6681
 1 DEST FTM
-1 FILE Sandys_2020-07-10-14-14-49.ftm.ged
-1 DATE 10 JUL 2020
-2 TIME 14:15:32
+1 FILE Sandys_2020-07-30-21-22-19.ftm.ged
+1 DATE 30 JUL 2020
+2 TIME 21:24:34
 0 @Umy2qBWIRUiwVSS6Hcn4@ SUBM
 1 NAME Christopher Alan Mosher
 2 EMAIL cmosher01@@gmail.com
@@ -111,11 +111,44 @@
 2 SOUR @S4@
 3 _APID 7249:10387613
 1 _GUID 66fe622e-a750-4277-951e-f430125a7f48
+0 @I67@ INDI
+1 NAME John /Dixon/
+2 SOUR @S4@
+3 _APID 7249:10397905
+1 SEX M
+1 FAMS @F28@
+1 BIRT
+2 DATE 1460
+2 PLAC London, London, England
+3 MAP
+4 LATI N51.5
+4 LONG W0.1167
+2 SOUR @S4@
+3 _APID 7249:10397905
+1 _GUID 57d5e624-4129-4c89-b2fa-91eb559d9bdf
 0 @I29@ INDI
 1 NAME Margaret /Dixon/
+2 SOUR @S8@
+3 PAGE London, England: Oxford University Press; Volume: Vol 17; Pa
+4 CONC ge: 772
+3 OBJE @M16@
+3 _APID 1981:20048237
+2 SOUR @S4@
+3 _APID 7249:10397900
 1 SEX F
+1 FAMC @F28@
 1 FAMS @F12@
+1 OBJE @M14@
+1 BIRT
+2 DATE 1490
+2 PLAC London, London, England
+3 MAP
+4 LATI N51.5
+4 LONG W0.1167
+2 SOUR @S4@
+3 _APID 7249:10397900
 1 _GUID 8e406d3a-c8b8-4e1f-91fb-00938e5b3ce8
+1 _PHOTO @M14@
 0 @I48@ INDI
 1 NAME /Elliott/
 2 SOUR @S9@
@@ -139,6 +172,12 @@
 1 NAME Edward /Goffe/
 1 SEX M
 1 FAMS @F11@
+1 RESI
+2 DATE ABT 1570
+2 PLAC Groton, Suffolk, England
+3 MAP
+4 LATI N52.0383
+4 LONG E0.8546
 1 _GUID 7d237546-2f10-435e-a575-efd9e5fcf01a
 0 @I18@ INDI
 1 NAME Edward /Goffe/
@@ -184,6 +223,17 @@
 1 SEX F
 1 FAMS @F9@
 1 _GUID 850a01fd-f4fa-41f7-a248-5f42e3ab62d7
+0 @I68@ INDI
+1 NAME Anne /Roos/
+2 SOUR @S4@
+3 _APID 7249:10397906
+1 SEX F
+1 FAMS @F28@
+1 BIRT
+2 DATE 1465
+2 SOUR @S4@
+3 _APID 7249:10397906
+1 _GUID 74b2abf9-e5fa-432b-96c7-ce38243dc34a
 0 @I43@ INDI
 1 NAME Alice /Sandes/
 2 SOUR @S9@
@@ -650,6 +700,7 @@
 1 NAME William /Sandes/
 1 SEX M
 1 FAMS @F9@
+1 OBJE @M15@
 1 BIRT
 2 DATE ABT 1435
 1 DEAT
@@ -662,6 +713,7 @@
 3 OBJE @M7@
 3 _APID 28849:407
 1 _GUID 1c0e6262-46ba-4e46-a8d9-08f0010a78f9
+1 _PHOTO @M15@
 0 @I9@ INDI
 1 NAME William /Sandes/
 1 SEX M
@@ -698,6 +750,11 @@
 1 _GUID 9f645ef9-379d-4f65-bf1d-781730213ab4
 0 @I6@ INDI
 1 NAME William /Sandes/
+2 SOUR @S8@
+3 PAGE London, England: Oxford University Press; Volume: Vol 17; Pa
+4 CONC ge: 772
+3 OBJE @M16@
+3 _APID 1981:10048237
 1 SEX M
 1 FAMC @F8@
 1 FAMS @F12@
@@ -804,6 +861,11 @@
 2 SOUR @S7@
 3 OBJE @M2@
 3 _APID 7077:5268
+2 SOUR @S8@
+3 PAGE London, England: Oxford University Press; Volume: Vol 17; Pa
+4 CONC ge: 772
+3 OBJE @M16@
+3 _APID 1981:48237
 2 SOUR @S4@
 3 _APID 7249:10037009
 2 SOUR @S5@
@@ -816,12 +878,17 @@
 1 FAMS @F3@
 1 OBJE @M6@
 1 BIRT
-2 DATE ABT 1519
+2 DATE 1516
 2 PLAC Esthwaite Hall, Hawkshead, Furness Fells, Cumbria, (ancien
 3 CONC t Lancashire), England
 2 SOUR @S7@
 3 OBJE @M2@
 3 _APID 7077:5268
+2 SOUR @S8@
+3 PAGE London, England: Oxford University Press; Volume: Vol 17; Pa
+4 CONC ge: 772
+3 OBJE @M16@
+3 _APID 1981:48237
 2 SOUR @S9@
 3 PAGE sec. 5, part 2, image 420 of 449
 3 OBJE @M3@
@@ -866,6 +933,11 @@
 2 SOUR @S7@
 3 OBJE @M2@
 3 _APID 7077:5268
+2 SOUR @S8@
+3 PAGE London, England: Oxford University Press; Volume: Vol 17; Pa
+4 CONC ge: 772
+3 OBJE @M16@
+3 _APID 1981:48237
 2 SOUR @S9@
 3 PAGE sec. 5, part 2, image 420 of 449
 3 OBJE @M3@
@@ -1195,6 +1267,12 @@
 0 @F19@ FAM
 1 HUSB @I46@
 1 WIFE @I45@
+0 @F28@ FAM
+1 HUSB @I67@
+1 WIFE @I68@
+1 CHIL @I29@
+2 _FREL Natural
+2 _MREL Natural
 0 @F20@ FAM
 1 HUSB @I48@
 1 WIFE @I47@
@@ -1512,68 +1590,67 @@
 2 CONC .masshist.org/publications/winthrop/; Date: 2020
 0 @M1@ OBJE
 1 _GUID 9023136f-61f9-4eef-98c5-17b2d7c4010a
-1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Sandys Media\Ox
-2 CONC ford University Alumni, 1500-1886.jpg
+1 FILE C:\Users\vagrant\FTM_DOCUMENTS\Sandys Media\Oxford Universit
+2 CONC y Alumni, 1500-1886.jpg
 2 FORM jpg
 2 TITL Oxford University Alumni, 1500-1886
 0 @M2@ OBJE
 1 _GUID 4149b49a-5365-47e2-a4be-848b8494dfe6
-1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Sandys Media\Ch
-2 CONC almers' General Biographical Dictionary.jpg
+1 FILE C:\Users\vagrant\FTM_DOCUMENTS\Sandys Media\Chalmers' Genera
+2 CONC l Biographical Dictionary.jpg
 2 FORM jpg
 2 TITL Chalmers' General Biographical Dictionary
 0 @M3@ OBJE
 1 _GUID 2fc4f1c8-6ce2-48d5-9862-67b3623b7ca1
-1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Sandys Media\dv
-2 CONC m_GenMono008205-00244-0.jpg
+1 FILE C:\Users\vagrant\FTM_DOCUMENTS\Sandys Media\dvm_GenMono00820
+2 CONC 5-00244-0.jpg
 2 FORM jpg
 0 @M4@ OBJE
 1 _GUID 64c326d4-ddf5-4c80-b9cd-1311b23ba6f9
-1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Sandys Media\Di
-2 CONC ctionary of National Biography, Volumes 1-22.jpg
+1 FILE C:\Users\vagrant\FTM_DOCUMENTS\Sandys Media\Dictionary of Na
+2 CONC tional Biography, Volumes 1-22.jpg
 2 FORM jpg
 2 TITL Dictionary of National Biography, Volumes 1-22
 2 _TEXT London, England: Oxford University Press; Volume: Vol 17; Pa
 3 CONC ge: 779
 0 @M5@ OBJE
 1 _GUID 8315257a-ab55-4adf-a60a-f4d9806558c5
-1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Sandys Media\ca
-2 CONC mbridge_alumni_1_4_19.jpg
+1 FILE C:\Users\vagrant\FTM_DOCUMENTS\Sandys Media\cambridge_alumni
+2 CONC _1_4_19.jpg
 2 FORM jpg
 2 TITL cambridge_alumni_1_4_19
 2 _DATE 6/21/2020 6:34:42 PM
 0 @M6@ OBJE
 1 _GUID 8790c450-3182-42eb-81c3-9cb075ae7800
-1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Sandys Media\Sa
-2 CONC ndys_Edwin_Cicely.jpg
+1 FILE C:\Users\vagrant\FTM_DOCUMENTS\Sandys Media\Sandys_Edwin_Cic
+2 CONC ely.jpg
 2 FORM jpg
 2 TITL Sandys_Edwin_Cicely
 2 _DATE 6/22/2020 1:29:57 AM
 0 @M7@ OBJE
 1 _GUID aebe9fda-66aa-486a-94eb-50b9ebe60427
-1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Sandys Media\dv
-2 CONC m_GenMono008205-00245-0.jpg
+1 FILE C:\Users\vagrant\FTM_DOCUMENTS\Sandys Media\dvm_GenMono00820
+2 CONC 5-00245-0.jpg
 2 FORM jpg
 0 @M8@ OBJE
 1 _GUID 9695dce6-2059-4944-93bf-350657b94418
-1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Sandys Media\dv
-2 CONC m_GenMono008205-00166-1.jpg
+1 FILE C:\Users\vagrant\FTM_DOCUMENTS\Sandys Media\dvm_GenMono00820
+2 CONC 5-00166-1.jpg
 2 FORM jpg
 0 @M9@ OBJE
 1 _GUID ab824a32-3471-47fb-b5e1-ec3ab52b28db
-1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Sandys Media\dv
-2 CONC m_GenMono008205-00167-0.jpg
+1 FILE C:\Users\vagrant\FTM_DOCUMENTS\Sandys Media\dvm_GenMono00820
+2 CONC 5-00167-0.jpg
 2 FORM jpg
 0 @M10@ OBJE
 1 _GUID f606fe46-263e-4ea6-8364-18985d561902
-1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Sandys Media\dv
-2 CONC m_GenMono008205-00167-1.jpg
+1 FILE C:\Users\vagrant\FTM_DOCUMENTS\Sandys Media\dvm_GenMono00820
+2 CONC 5-00167-1.jpg
 2 FORM jpg
 0 @M11@ OBJE
 1 _GUID d0ed0bcd-8274-433c-8f44-24c968136703
-1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Sandys Media\En
-2 CONC gland & Wales, Prerogative Court of Canterbury Wills, 1384-1
-2 CONC 858.jpg
+1 FILE C:\Users\vagrant\FTM_DOCUMENTS\Sandys Media\England & Wales
+2 CONC , Prerogative Court of Canterbury Wills, 1384-1858.jpg
 2 FORM jpg
 2 TITL England & Wales, Prerogative Court of Canterbury Wills, 1384
 3 CONC -1858
@@ -1582,16 +1659,35 @@
 3 CONC ; Class: PROB 11; Piece: 52
 0 @M12@ OBJE
 1 _GUID 4ff7404e-058b-4c7a-b497-33d4d7370b1d
-1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Sandys Media\40
-2 CONC 611_311317-00302.jpg
+1 FILE C:\Users\vagrant\FTM_DOCUMENTS\Sandys Media\40611_311317-003
+2 CONC 02.jpg
 2 FORM jpg
 2 TITL 40611_311317-00302
 2 _DATE 6/24/2020 11:14:09 PM
 0 @M13@ OBJE
 1 _GUID 8989c166-46de-4822-a147-b58db360a442
-1 FILE C:\Users\vagrant\Documents\Family Tree Maker\Sandys Media\40
-2 CONC 611_311317-00303.jpg
+1 FILE C:\Users\vagrant\FTM_DOCUMENTS\Sandys Media\40611_311317-003
+2 CONC 03.jpg
 2 FORM jpg
 2 TITL 40611_311317-00303
 2 _DATE 6/24/2020 11:14:09 PM
+0 @M14@ OBJE
+1 _GUID b0b8b323-b4bb-4364-80ee-9b24b85f68d6
+1 FILE C:\Users\vagrant\FTM_DOCUMENTS\Sandys Media\Dixon.jpg
+2 FORM jpg
+2 TITL Dixon
+0 @M15@ OBJE
+1 _GUID 82fcc67e-2b85-4880-af09-b373986069a2
+1 FILE C:\Users\vagrant\FTM_DOCUMENTS\Sandys Media\Sandes coat of a
+2 CONC rms.jpg
+2 FORM jpg
+2 TITL Sandes coat of arms
+0 @M16@ OBJE
+1 _GUID 9b605be7-b415-475f-92da-7673d5d4a4ae
+1 FILE C:\Users\vagrant\FTM_DOCUMENTS\Sandys Media\Dictionary of Na
+2 CONC tional Biography, Volumes 1-22(1).jpg
+2 FORM jpg
+2 TITL Dictionary of National Biography, Volumes 1-22
+2 _TEXT London, England: Oxford University Press; Volume: Vol 17; Pa
+3 CONC ge: 772
 0 TRLR
