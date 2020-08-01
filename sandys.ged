@@ -14,9 +14,9 @@
 4 CONT Boston, MA 02109
 3 PHON (617) 227-6681
 1 DEST FTM
-1 FILE Sandys_2020-08-01-19-24-15.ftm.ged
+1 FILE Sandys_2020-08-01-19-41-18.ftm.ged
 1 DATE 01 AUG 2020
-2 TIME 19:25:05
+2 TIME 19:41:50
 0 @Umy2qBWIRUiwVSS6Hcn4@ SUBM
 1 NAME Christopher Alan Mosher
 2 EMAIL cmosher01@@gmail.com
@@ -320,8 +320,11 @@
 3 _LINK https://www.werelate.org/wiki/Person:Thomas_Gosse_(2)
 1 _GUID 1b25c717-d32b-498f-a202-a5d1cb2d9fa8
 0 @I76@ INDI
-1 NAME Thomasin /Gosse/
+1 NAME Thomasine /Gosse/
 2 SOUR @S15@
+2 SOUR @S16@
+3 PAGE entry for Thomasine Gosse
+3 _LINK https://www.werelate.org/wiki/Person:Thomasine_Gosse_(1)
 1 SEX F
 1 FAMC @F36@
 1 FAMS @F34@
@@ -663,8 +666,8 @@
 4 CONC up"/> : accessed 23 Jun 2020); citing <title level="u">epita
 4 CONC phs</title>, manuscript book, Samuel Knight, prebendary of E
 4 CONC ly, Cambridgeshire, England, <citedRange>2 ch. 1</citedRange
-4 CONC >; citing Boxford Cememtery (Boxford, Suffolk, England), Hen
-4 CONC ry Sands monument, 1626.</bibl>
+4 CONC >; citing Boxford Cemetery (Boxford, Suffolk, England), Henr
+4 CONC y Sands monument, 1626.</bibl>
 3 _LINK https://archive.org/details/desideratacuriosa00peck/page/216
 4 CONC /mode/1up
 2 SOUR @S3@
@@ -687,6 +690,7 @@
 1 OCCU Vicar
 2 DATE 1578
 2 PLAC Preston Saint Mary, Suffolk, England
+2 SOUR @S15@
 1 RESI
 2 DATE ABT 1584
 2 PLAC Boxford, Suffolk, England
@@ -739,8 +743,8 @@
 4 CONC up"/> : accessed 23 Jun 2020); citing <title level="u">epita
 4 CONC phs</title>, manuscript book, Samuel Knight, prebendary of E
 4 CONC ly, Cambridgeshire, England, <citedRange>2 ch. 1</citedRange
-4 CONC >; citing Boxford Cememtery (Boxford, Suffolk, England), Hen
-4 CONC ry Sands monument, 1626.</bibl>
+4 CONC >; citing Boxford Cemetery (Boxford, Suffolk, England), Henr
+4 CONC y Sands monument, 1626.</bibl>
 3 _LINK https://archive.org/details/desideratacuriosa00peck/page/216
 4 CONC /mode/1up
 1 TITL Reverend
@@ -1588,6 +1592,11 @@
 3 MAP
 4 LATI N52.297
 4 LONG E1.1821
+2 SOUR @S15@
+2 NOTE Henry's marriage to Thomasine Gosse may be the source of th
+3 CONC e oft given reference to a spouse named "Elizabeth Goffe". I
+3 CONC t is possible that there is confusion due to the similarit
+3 CONC y of the two surnames "Gosse" and "Goffe".
 0 @F24@ FAM
 1 HUSB @I15@
 1 WIFE @I61@
@@ -1597,6 +1606,10 @@
 3 MAP
 4 LATI N52.4167
 4 LONG E0.8333
+2 SOUR @S12@
+3 PAGE p. 70
+3 _LINK https://babel.hathitrust.org/cgi/pt?id=wu.89064841596&view=1
+4 CONC up&seq=80
 0 @F5@ FAM
 1 HUSB @I27@
 1 WIFE @I1@
