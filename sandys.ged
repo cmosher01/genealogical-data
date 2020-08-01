@@ -14,9 +14,9 @@
 4 CONT Boston, MA 02109
 3 PHON (617) 227-6681
 1 DEST FTM
-1 FILE Sandys_2020-07-30-21-22-19.ftm.ged
-1 DATE 30 JUL 2020
-2 TIME 21:24:34
+1 FILE Sandys_2020-08-01-19-24-15.ftm.ged
+1 DATE 01 AUG 2020
+2 TIME 19:25:05
 0 @Umy2qBWIRUiwVSS6Hcn4@ SUBM
 1 NAME Christopher Alan Mosher
 2 EMAIL cmosher01@@gmail.com
@@ -49,25 +49,137 @@
 1 SEX F
 1 FAMS @F22@
 1 _GUID bbf883f5-8797-4287-9f1a-73ffaf30b0a8
-0 @I61@ INDI
-1 NAME Frances /Archisden/
-2 SOUR @S12@
-3 PAGE p. 70
-3 _LINK https://babel.hathitrust.org/cgi/pt?id=wu.89064841596&view=1
-4 CONC up&seq=80
+0 @I75@ INDI
+1 NAME Frances /Arkesden/
+2 SOUR @S15@
 1 SEX F
-1 FAMS @F24@
+1 FAMC @F32@
+1 _GUID adad9b5c-d445-4623-a9a0-680e222ea73d
+0 @I72@ INDI
+1 NAME Thomas /Arkesden/
+1 SEX M
+1 FAMS @F32@
+1 _GUID 02fc1d5e-501f-4c70-8471-d60f2230777b
+0 @I74@ INDI
+1 NAME Thomas /Arkesden/
+2 SOUR @S15@
+1 SEX M
+1 FAMC @F32@
+1 _GUID 9eae6cc8-3db2-40bb-86bb-60e9be2ae2f8
+0 @I62@ INDI
+1 NAME Margaret /Byrd/
+2 SOUR @S15@
+1 SEX F
+1 FAMC @F29@
+1 FAMS @F25@
+1 FAMS @F30@
 1 DEAT
-2 DATE 17 JAN 1618
-2 PLAC Brettenham, Suffolk, England
+2 DATE 27 AUG 1616
+2 PLAC Groton, Suffolk, England
 3 MAP
-4 LATI N52.4167
-4 LONG E0.8333
+4 LATI N52.0383
+4 LONG E0.8546
 2 SOUR @S12@
-3 PAGE p. 70
+3 PAGE p. 71
 3 _LINK https://babel.hathitrust.org/cgi/pt?id=wu.89064841596&view=1
-4 CONC up&seq=80
-1 _GUID aaad3023-7f96-401e-8c3b-5712cb6135b1
+4 CONC up&seq=81
+1 _GUID 252c8b9c-9600-4c79-bc39-2b1ddebbab01
+0 @I69@ INDI
+1 NAME William /Byrd/
+2 SOUR @S15@
+1 SEX M
+1 FAMS @F29@
+1 OCCU vicar
+2 PLAC Boxford, Suffolk, England
+3 MAP
+4 LATI N52.0167
+4 LONG E0.8667
+2 SOUR @S15@
+1 _GUID 05474cb9-5e15-457f-8aa0-9f7c28dfb987
+0 @I80@ INDI
+1 NAME Rebecca /Caly/
+2 SOUR @S15@
+1 SEX F
+1 FAMC @F35@
+1 _GUID fdf3a75a-aebe-46d5-8f85-6c51f3f1454b
+0 @I79@ INDI
+1 NAME Sarah /Caly/
+2 SOUR @S15@
+1 SEX F
+1 FAMC @F35@
+1 BIRT
+2 DATE ABT MAY 1607
+1 BAPM
+2 DATE 26 MAY 1607
+2 PLAC Little Waldingfield, Suffolk, England
+3 MAP
+4 LATI N52.0714
+4 LONG E0.8034
+2 SOUR @S16@
+3 PAGE entry for Sarah Caly (1)
+3 _LINK https://www.werelate.org/wiki/Person:Sarah_Caly_(1)
+1 WILL
+2 DATE 14 JUL 1636
+2 PLAC Ipswich, Essex, Massachusetts, USA
+3 MAP
+4 LATI N42.6793
+4 LONG W70.8411
+2 SOUR @S16@
+3 PAGE entry for Sarah Caly (1)
+3 _LINK https://www.werelate.org/wiki/Person:Sarah_Caly_(1)
+1 DEAT
+2 DATE ABT AUG 1636
+1 PROB
+2 DATE 06 SEP 1636
+2 PLAC Ipswich, Essex, Massachusetts, USA
+3 MAP
+4 LATI N42.6793
+4 LONG W70.8411
+2 SOUR @S16@
+3 PAGE entry for Sarah Caly (1)
+3 _LINK https://www.werelate.org/wiki/Person:Sarah_Caly_(1)
+1 _GUID 4b85f1ff-8815-4aa3-a477-23d0372700b1
+0 @I77@ INDI
+1 NAME Thomas /Caly/
+1 SEX M
+1 FAMS @F35@
+1 BAPM
+2 DATE 06 MAY 1565
+2 PLAC Norton, Suffolk, England
+3 MAP
+4 LATI N52.25
+4 LONG E0.8667
+2 SOUR @S16@
+3 PAGE entry for Thomas Caly
+3 _LINK https://www.werelate.org/wiki/Person:Thomas_Caly_(1)
+1 DEAT
+2 DATE BEF 02 APR 1618
+2 SOUR @S15@
+2 SOUR @S16@
+3 PAGE entry for Thomas Caly
+3 _LINK https://www.werelate.org/wiki/Person:Thomas_Caly_(1)
+1 BURI
+2 DATE 02 APR 1618
+2 PLAC Little Waldingfield, Suffolk, England
+3 MAP
+4 LATI N52.0714
+4 LONG E0.8034
+2 SOUR @S16@
+3 PAGE entry for Thomas Caly
+3 _LINK https://www.werelate.org/wiki/Person:Thomas_Caly_(1)
+1 RESI
+2 PLAC Little Waldingfield, Suffolk, England
+3 MAP
+4 LATI N52.0714
+4 LONG E0.8034
+2 SOUR @S15@
+1 _GUID 87ae08c2-fa1c-45ba-a5d5-4d78db07c32b
+0 @I78@ INDI
+1 NAME Thomas /Caly/
+2 SOUR @S15@
+1 SEX M
+1 FAMC @F35@
+1 _GUID 70afae91-2e29-4ca4-8bfb-29ccbb4a623b
 0 @I1@ INDI
 1 NAME Elizabeth /Cavendish/
 2 SOUR @S9@
@@ -192,8 +304,38 @@
 3 _APID 7836:476262
 1 SEX F
 1 FAMC @F11@
-1 FAMS @F2@
 1 _GUID adf58908-1a81-49bb-ac60-74f268027803
+0 @I81@ INDI
+1 NAME Thomas /Gosse/
+1 SEX M
+1 FAMS @F36@
+1 BURI
+2 DATE 11 JUN 1615
+2 PLAC Little Waldingfield, Suffolk, England
+3 MAP
+4 LATI N52.0714
+4 LONG E0.8034
+2 SOUR @S16@
+3 PAGE entry for Thomas Gosse (2)
+3 _LINK https://www.werelate.org/wiki/Person:Thomas_Gosse_(2)
+1 _GUID 1b25c717-d32b-498f-a202-a5d1cb2d9fa8
+0 @I76@ INDI
+1 NAME Thomasin /Gosse/
+2 SOUR @S15@
+1 SEX F
+1 FAMC @F36@
+1 FAMS @F34@
+1 FAMS @F35@
+1 BAPM
+2 DATE 28 JUL 1578
+2 PLAC Little Waldingfield, Suffolk, England
+3 MAP
+4 LATI N52.0714
+4 LONG E0.8034
+2 SOUR @S16@
+3 PAGE entry for Thomasine Gosse
+3 _LINK https://www.werelate.org/wiki/Person:Thomasine_Gosse_(1)
+1 _GUID 4a3ee022-212c-444b-b74f-cdb34df86a6d
 0 @I38@ INDI
 1 NAME /Joan/
 1 SEX F
@@ -218,6 +360,39 @@
 1 SEX F
 1 FAMS @F14@
 1 _GUID e37df351-2db3-4ba5-b7fc-68e653e4abb8
+0 @I82@ INDI
+1 NAME Thomasine /Nottingham/
+1 SEX F
+1 FAMS @F36@
+1 _GUID 6149228d-e8ef-41fe-ae61-4cbc7aa69f1e
+0 @I61@ INDI
+1 NAME Frances /Plumbe/
+2 SOUR @S12@
+3 PAGE p. 70
+3 _LINK https://babel.hathitrust.org/cgi/pt?id=wu.89064841596&view=1
+4 CONC up&seq=80
+2 SOUR @S15@
+1 SEX F
+1 FAMC @F33@
+1 FAMS @F24@
+1 FAMS @F32@
+1 DEAT
+2 DATE 17 JAN 1618
+2 PLAC Brettenham, Suffolk, England
+3 MAP
+4 LATI N52.4167
+4 LONG E0.8333
+2 SOUR @S12@
+3 PAGE p. 70
+3 _LINK https://babel.hathitrust.org/cgi/pt?id=wu.89064841596&view=1
+4 CONC up&seq=80
+1 _GUID aaad3023-7f96-401e-8c3b-5712cb6135b1
+0 @I73@ INDI
+1 NAME Robert /Plumbe/
+2 SOUR @S15@
+1 SEX M
+1 FAMS @F33@
+1 _GUID eca5c91a-8171-4d73-8b97-8c70635ddc7a
 0 @I31@ INDI
 1 NAME Margaret /Rawson/
 1 SEX F
@@ -338,6 +513,24 @@
 3 _LINK https://mosher.mine.nu/tei/genealogy/main/sources/old/harris
 4 CONC on/sandes_henry_of_sonning_will_1569.tei.xml
 1 _GUID 4ceb4dfd-1eb5-4098-a3fa-52757350b857
+0 @I71@ INDI
+1 NAME Henry /Sandes/
+2 SOUR @S15@
+1 SEX M
+1 FAMC @F25@
+1 BAPM
+2 DATE AUG 1586
+2 PLAC Epping, Essex, England
+3 MAP
+4 LATI N51.7001
+4 LONG E0.1127
+2 SOUR @S15@
+1 DEAT
+2 DATE ABT 1600
+2 SOUR @S15@
+2 NOTE Assume he died in infancy, since he is not mentioned in hi
+3 CONC s father's will.
+1 _GUID 9e4d5388-7e5d-4555-8561-f9f7a3bdf0fb
 0 @I35@ INDI
 1 NAME Henry /Sandes/
 2 SOUR @S13@
@@ -431,9 +624,9 @@
 3 _LINK http://www.masshist.org/publications/winthrop/index.php/view
 4 CONC /PWF01p270
 1 SEX M
-1 FAMS @F2@
 1 FAMS @F24@
 1 FAMS @F25@
+1 FAMS @F34@
 1 NOTE Friend of John Winthrop (1588-1649), of Massachusetts Bay Co
 2 CONC lony, in New England. Winthrop refers to him as "Reverend He
 2 CONC nry Sandys" in his papers.
@@ -493,16 +686,24 @@
 3 _APID 3997:60778
 1 OCCU Vicar
 2 DATE 1578
-2 PLAC Preston St Mary, Suffolk, England
+2 PLAC Preston Saint Mary, Suffolk, England
+1 RESI
+2 DATE ABT 1584
+2 PLAC Boxford, Suffolk, England
 3 MAP
-4 LATI N52.1166
-4 LONG E0.8396
+4 LATI N52.0167
+4 LONG E0.8667
+2 SOUR @S15@
 1 RESI
 2 DATE ABT 1595
 2 PLAC Groton, Suffolk, England
 3 MAP
 4 LATI N52.0383
 4 LONG E0.8546
+2 SOUR @S12@
+3 PAGE p. 70
+3 _LINK https://babel.hathitrust.org/cgi/pt?id=wu.89064841596&view=1
+4 CONC up&seq=80
 1 DEAT
 2 DATE 09 NOV 1626
 2 PLAC Groton, Suffolk, England
@@ -510,11 +711,15 @@
 4 LATI N52.0383
 4 LONG E0.8546
 1 BURI
-2 DATE ABT 09 NOV 1626
+2 DATE 09 NOV 1626
 2 PLAC Boxford, Suffolk, England
 3 MAP
 4 LATI N52.0167
 4 LONG E0.8667
+2 SOUR @S12@
+3 PAGE p. 71
+3 _LINK https://babel.hathitrust.org/cgi/pt?id=wu.89064841596&view=1
+4 CONC up&seq=81
 2 SOUR @S11@
 3 PAGE <bibl><author>Francis Peck</author>, <title level="m">Deside
 4 CONC rata Curiosa: or, A Collection of Divers Scarce and Curiou
@@ -1186,17 +1391,6 @@
 1 SEX M
 1 FAMC @F27@
 1 _GUID d129ecef-91fd-4c68-b4e4-8e5035c1f4d2
-0 @I62@ INDI
-1 NAME unknown first wife of Henry /Sandys/
-1 SEX F
-1 FAMS @F25@
-1 DEAT
-2 DATE 27 AUG 1616
-2 PLAC Groton, Suffolk, England
-3 MAP
-4 LATI N52.0383
-4 LONG E0.8546
-1 _GUID 252c8b9c-9600-4c79-bc39-2b1ddebbab01
 0 @I28@ INDI
 1 NAME William /Sandys/
 1 SEX M
@@ -1213,6 +1407,15 @@
 1 SEX F
 1 FAMS @F23@
 1 _GUID 61ae553a-92af-4eeb-97cb-b2080f2b55d8
+0 @I70@ INDI
+1 NAME John /Warner/
+2 SOUR @S15@
+1 SEX M
+1 FAMS @F30@
+1 DEAT
+2 DATE AUG 1573
+2 SOUR @S15@
+1 _GUID cbf7f502-f032-4511-a7ab-1eb78ed2fe83
 0 @I40@ INDI
 1 NAME John /Weston/
 1 SEX M
@@ -1255,6 +1458,39 @@
 1 SEX M
 1 FAMS @F17@
 1 _GUID 0627bacc-d120-4806-bc3c-52684161c52e
+0 @F32@ FAM
+1 HUSB @I72@
+1 WIFE @I61@
+1 CHIL @I74@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I75@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR
+2 DATE FEB 1607
+2 SOUR @S15@
+0 @F29@ FAM
+1 HUSB @I69@
+1 CHIL @I62@
+2 _FREL Natural
+0 @F35@ FAM
+1 HUSB @I77@
+1 WIFE @I76@
+1 CHIL @I78@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I80@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I79@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR
+2 DATE ABT 1597
+2 SOUR @S16@
+3 PAGE entry for Thomas Caly
+3 _LINK https://www.werelate.org/wiki/Person:Thomas_Caly_(1)
 0 @F26@ FAM
 1 HUSB @I63@
 1 WIFE @I2@
@@ -1282,9 +1518,28 @@
 2 _FREL Natural
 1 CHIL @I18@
 2 _FREL Natural
+0 @F36@ FAM
+1 HUSB @I81@
+1 WIFE @I82@
+1 CHIL @I76@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR
+2 DATE 09 FEB 1576
+2 PLAC Little Waldingfield, Suffolk, England
+3 MAP
+4 LATI N52.0714
+4 LONG E0.8034
+2 SOUR @S16@
+3 PAGE entry for Thomas Gosse (2)
+3 _LINK https://www.werelate.org/wiki/Person:Thomas_Gosse_(2)
 0 @F18@ FAM
 1 HUSB @I44@
 1 WIFE @I43@
+0 @F33@ FAM
+1 HUSB @I73@
+1 CHIL @I61@
+2 _FREL Natural
 0 @F8@ FAM
 1 HUSB @I7@
 1 WIFE @I30@
@@ -1311,6 +1566,28 @@
 2 _MREL Natural
 1 MARR
 2 DATE ABT 1550
+0 @F25@ FAM
+1 HUSB @I15@
+1 WIFE @I62@
+1 CHIL @I71@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR
+2 DATE DEC 1578
+2 PLAC Suffolk, England
+3 MAP
+4 LATI N52.297
+4 LONG E1.1821
+2 SOUR @S15@
+0 @F34@ FAM
+1 HUSB @I15@
+1 WIFE @I76@
+1 MARR
+2 DATE ABT 1619
+2 PLAC Suffolk, England
+3 MAP
+4 LATI N52.297
+4 LONG E1.1821
 0 @F24@ FAM
 1 HUSB @I15@
 1 WIFE @I61@
@@ -1320,16 +1597,6 @@
 3 MAP
 4 LATI N52.4167
 4 LONG E0.8333
-0 @F2@ FAM
-1 HUSB @I15@
-1 WIFE @I16@
-1 MARR
-2 DATE ABT 1619
-0 @F25@ FAM
-1 HUSB @I15@
-1 WIFE @I62@
-1 MARR
-2 DATE ABT 1580
 0 @F5@ FAM
 1 HUSB @I27@
 1 WIFE @I1@
@@ -1471,6 +1738,15 @@
 1 CHIL @I66@
 2 _FREL Natural
 2 _MREL Natural
+0 @F30@ FAM
+1 HUSB @I70@
+1 WIFE @I62@
+1 MARR
+2 DATE NOV 1568
+2 PLAC Boxford, Suffolk, England
+3 MAP
+4 LATI N52.0167
+4 LONG E0.8667
 0 @F16@ FAM
 1 HUSB @I40@
 1 WIFE @I39@
@@ -1492,6 +1768,11 @@
 1 ADDR http://www.masshist.org/
 1 EMAIL
 1 PHON
+0 @R4@ REPO
+1 NAME WeRelate.org
+1 ADDR
+1 EMAIL
+1 PHON
 0 @S10@ SOUR
 1 TITL Alumni Cantabrigienses
 1 AUTH Venn, John, and Venn, J. A.
@@ -1500,15 +1781,15 @@
 1 REPO @R1@
 1 TITL Cambridge University Alumni, 1261-1900
 1 AUTH Ancestry.com
-1 PUBL Ancestry.com Operations Inc; Location: Provo, UT, USA; Date
-2 CONC : 1999
+1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
+2 CONC e: 1999
 1 _APID 3997
 0 @S7@ SOUR
 1 REPO @R1@
 1 TITL Chalmers' General Biographical Dictionary
 1 AUTH Ancestry.com
-1 PUBL Ancestry.com Operations Inc; Location: Provo, UT, USA; Date
-2 CONC : 2010
+1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
+2 CONC e: 2010
 1 _APID 7077
 0 @S12@ SOUR
 1 REPO @R2@
@@ -1541,8 +1822,8 @@
 1 REPO @R1@
 1 TITL History of the family of Sandys of Cumberland
 1 AUTH Ancestry.com
-1 PUBL Ancestry.com Operations Inc; Location: Provo, UT, USA; Date
-2 CONC : 2005
+1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
+2 CONC e: 2005
 1 NOTE Original data: Sandys, Edward Seton,. History of the famil
 2 CONC y of Sandys of Cumberland : afterwards of Furness in North L
 2 CONC ancashire, and its branches in other parts of England and i
@@ -1551,22 +1832,26 @@
 1 REPO @R1@
 1 TITL Millennium File
 1 AUTH Heritage Consulting
-1 PUBL Ancestry.com Operations Inc; Location: Provo, UT, USA; Date
-2 CONC : 2003
+1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
+2 CONC e: 2003
 1 _APID 7249
+0 @S15@ SOUR
+1 TITL Mr. Henry Sandes of Boxford, Suffolk
+1 AUTH Nick Alexander
+1 PUBL Date: 2016;
 0 @S1@ SOUR
 1 REPO @R1@
 1 TITL Oxford University Alumni, 1500-1886
 1 AUTH Ancestry.com
-1 PUBL Ancestry.com Operations Inc; Location: Provo, UT, USA; Date
-2 CONC : 2007
+1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
+2 CONC e: 2007
 1 _APID 8942
 0 @S3@ SOUR
 1 REPO @R1@
 1 TITL U.S. and International Marriage Records, 1560-1900
 1 AUTH Yates Publishing
-1 PUBL Ancestry.com Operations Inc; Location: Provo, UT, USA; Date
-2 CONC : 2004
+1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
+2 CONC e: 2004
 1 _APID 7836
 0 @S5@ SOUR
 1 REPO @R1@
@@ -1577,11 +1862,15 @@
 1 _APID 60526
 0 @S6@ SOUR
 1 REPO @R1@
-1 TITL UK, Extracted Probate Records, 1269-1975
+1 TITL UK, Extracted Probate Records, 1269–1975
 1 AUTH Ancestry.com
-1 PUBL Ancestry.com Operations Inc; Location: Provo, UT, USA; Date
-2 CONC : 2009
+1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
+2 CONC e: 2009
 1 _APID 1610
+0 @S16@ SOUR
+1 REPO @R4@
+1 TITL WeRelate Pando, public global family tree
+1 PUBL Foundation for On-Line Genealogy; Location: Orem, UT, USA
 0 @S14@ SOUR
 1 REPO @R3@
 1 TITL Winthrop Papers Digital Edition
