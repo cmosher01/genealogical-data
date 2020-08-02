@@ -14,9 +14,9 @@
 4 CONT Boston, MA 02109
 3 PHON (617) 227-6681
 1 DEST FTM
-1 FILE Sandys_2020-08-01-22-34-21.ftm.ged
-1 DATE 01 AUG 2020
-2 TIME 22:34:43
+1 FILE Sandys_2020-08-02-00-42-26.ftm.ged
+1 DATE 02 AUG 2020
+2 TIME 00:42:48
 0 @Umy2qBWIRUiwVSS6Hcn4@ SUBM
 1 NAME Christopher Alan Mosher
 2 EMAIL cmosher01@@gmail.com
@@ -1262,6 +1262,10 @@
 2 DATE ABT 1557
 2 PLAC Strasburg, Vorpommern-Greifswald, Mecklenburg-Vorpommern, Ge
 3 CONC rmany
+2 SOUR @S12@
+3 PAGE p. 71
+3 _LINK https://babel.hathitrust.org/cgi/pt?id=wu.89064841596&view=1
+4 CONC up&seq=81
 1 _GUID a585d556-0526-4c49-98ad-3f11c3a55362
 0 @I24@ INDI
 1 NAME Edwin /Sandys/
@@ -1410,11 +1414,22 @@
 1 _GUID 173b669b-3c11-4e8c-aabc-7c485e1fbd2d
 0 @I19@ INDI
 1 NAME James /Sandys/
+2 SOUR @S12@
+3 PAGE p. 71
+3 _LINK https://babel.hathitrust.org/cgi/pt?id=wu.89064841596&view=1
+4 CONC up&seq=81
 1 SEX M
 1 FAMC @F3@
 1 FAMS @F6@
 1 BIRT
 2 DATE ABT 1549
+1 RESI
+2 PLAC Edwarde's Manor (Edwin's Hall), Edwin's Hall Road, Woodham F
+3 CONC errers, Chelmsford, Essex, England
+2 SOUR @S12@
+3 PAGE p. 71
+3 _LINK https://babel.hathitrust.org/cgi/pt?id=wu.89064841596&view=1
+4 CONC up&seq=81
 1 _GUID baf23c7a-53ed-4974-8943-7f22bdfbc88f
 0 @I4@ INDI
 1 NAME James /Sandys/
@@ -1422,10 +1437,16 @@
 1 FAMC @F7@
 1 BIRT
 2 DATE ABT 1622
-2 PLAC Berkshire, England
+2 PLAC Reading, Berkshire, England
 3 MAP
-4 LATI N51.5213
-4 LONG W0.9257
+4 LATI N51.4333
+4 LONG W1
+2 SOUR @S12@
+3 PAGE p. 71
+3 _LINK https://babel.hathitrust.org/cgi/pt?id=wu.89064841596&view=1
+4 CONC up&seq=81
+2 NOTE Possibility of ancestry of James Sands of Block Island, an
+3 CONC d determined by Malcolm Sands Wilson.
 1 DEAT
 2 DATE 13 MAR 1695
 2 PLAC Block Island, Washington, Rhode Island, USA
@@ -1435,6 +1456,10 @@
 1 _GUID 019645b5-783a-472e-982a-26a7ad6570f0
 0 @I21@ INDI
 1 NAME Mary /Sandys/
+2 SOUR @S9@
+3 PAGE sec. 5, part 2, image 421 of 449
+3 OBJE @M7@
+3 _APID 28849:407
 1 SEX F
 1 FAMC @F5@
 1 FAMS @F3@
@@ -1452,6 +1477,17 @@
 2 DATE 1555
 2 PLAC Strasburg, Vorpommern-Greifswald, Mecklenburg-Vorpommern, Ge
 3 CONC rmany
+2 SOUR @S12@
+3 PAGE p. 71
+3 _LINK https://babel.hathitrust.org/cgi/pt?id=wu.89064841596&view=1
+4 CONC up&seq=81
+1 RESI
+2 PLAC Edwarde's Manor (Edwin's Hall), Edwin's Hall Road, Woodham F
+3 CONC errers, Chelmsford, Essex, England
+2 SOUR @S12@
+3 PAGE p. 71
+3 _LINK https://babel.hathitrust.org/cgi/pt?id=wu.89064841596&view=1
+4 CONC up&seq=81
 1 _GUID 3e721ee7-610f-4b70-9530-4f323ec21801
 0 @I25@ INDI
 1 NAME Samuel /Sandys/
@@ -1531,10 +1567,12 @@
 3 _APID 60526:608472
 1 DEAT
 2 DATE 05 FEB 1610
-2 PLAC Essex, England
-3 MAP
-4 LATI N51.7809
-4 LONG E0.7324
+2 PLAC Edwarde's Manor (Edwin's Hall), Edwin's Hall Road, Woodham F
+3 CONC errers, Chelmsford, Essex, England
+2 SOUR @S12@
+3 PAGE p. 71
+3 _LINK https://babel.hathitrust.org/cgi/pt?id=wu.89064841596&view=1
+4 CONC up&seq=81
 2 SOUR @S5@
 3 _APID 60526:608472
 1 BURI
@@ -1894,6 +1932,11 @@
 1 ADDR
 1 EMAIL
 1 PHON
+0 @R5@ REPO
+1 NAME HathiTrust Digital Library
+1 ADDR
+1 EMAIL
+1 PHON
 0 @S18@ SOUR
 1 TITL Albert Arnold Sprague’s and Claudia C. Milstead’s Genealogic
 2 CONC al Website
@@ -1918,7 +1961,7 @@
 2 CONC e: 2010
 1 _APID 7077
 0 @S12@ SOUR
-1 REPO @R2@
+1 REPO @R5@
 2 CALN 929.2 SA5677W
 1 TITL Descendants of James Sands of Block Island
 1 AUTH Wilson, Malcolm Sands
