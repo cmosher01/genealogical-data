@@ -14,9 +14,9 @@
 4 CONT Boston, MA 02109
 3 PHON (617) 227-6681
 1 DEST FTM
-1 FILE Sandys_2020-08-02-21-39-07.ftm.ged
-1 DATE 02 AUG 2020
-2 TIME 21:39:28
+1 FILE Sandys_2020-08-03-04-36-15.ftm.ged
+1 DATE 03 AUG 2020
+2 TIME 04:44:16
 0 @Umy2qBWIRUiwVSS6Hcn4@ SUBM
 1 NAME Christopher Alan Mosher
 2 EMAIL cmosher01@@gmail.com
@@ -702,10 +702,6 @@
 2 SOUR @S2@
 3 PAGE Henry Sandys
 3 _APID 3997:60778
-2 SOUR @S3@
-3 PAGE Source number: 737.000; Source type: Electronic Database; Nu
-4 CONC mber of Pages: 1; Submitter Code: BKJ
-3 _APID 7836:1060740
 2 SOUR @S14@
 3 DATA
 4 TEXT Hen. Sandes.
@@ -755,10 +751,6 @@
 4 CONC y Sands monument, 1626.</bibl>
 3 _LINK https://archive.org/details/desideratacuriosa00peck/page/216
 4 CONC /mode/1up
-2 SOUR @S3@
-3 PAGE Source number: 737.000; Source type: Electronic Database; Nu
-4 CONC mber of Pages: 1; Submitter Code: BKJ
-3 _APID 7836:1060740
 1 RESI
 2 DATE ABT 1560
 2 PLAC Ipswich, Suffolk, England
@@ -1006,6 +998,11 @@
 3 PAGE sec. 5, part 2, image 421 of 449
 3 OBJE @M7@
 3 _APID 28849:407
+2 SOUR @S9@
+3 PAGE sec.5, part 2, which consists entirely of pedigree charts, s
+4 CONC ee attached re-packaging of all pedigree charts in PDF forma
+4 CONC t, constituting the content of all images 418 through 449
+3 OBJE @M18@
 1 _GUID 1c0e6262-46ba-4e46-a8d9-08f0010a78f9
 1 _PHOTO @M15@
 0 @I9@ INDI
@@ -1160,6 +1157,11 @@
 4 CONC ge: 772
 3 OBJE @M16@
 3 _APID 1981:48237
+2 SOUR @S9@
+3 PAGE sec.5, part 2, which consists entirely of pedigree charts, s
+4 CONC ee attached re-packaging of all pedigree charts in PDF forma
+4 CONC t, constituting the content of all images 418 through 449
+3 OBJE @M18@
 2 SOUR @S4@
 3 _APID 7249:10037009
 2 SOUR @S20@
@@ -1400,6 +1402,10 @@
 1 _GUID 4649db6a-11eb-4ef4-95a3-48fc1da222ee
 0 @I3@ INDI
 1 NAME Henry /Sandys/
+2 SOUR @S22@
+3 PAGE Source number: 737.000; Source type: Electronic Database; Nu
+4 CONC mber of Pages: 1; Submitter Code: BKJ
+3 _APID 7836:1060740
 1 SEX M
 1 FAMC @F6@
 1 FAMS @F7@
@@ -1409,6 +1415,10 @@
 3 MAP
 4 LATI N51.5213
 4 LONG W0.9257
+2 SOUR @S22@
+3 PAGE Source number: 737.000; Source type: Electronic Database; Nu
+4 CONC mber of Pages: 1; Submitter Code: BKJ
+3 _APID 7836:1060740
 1 _GUID 0b9a4697-0d42-497e-a9b1-c9b339c058bc
 0 @I5@ INDI
 1 NAME Henry /Sandys/
@@ -1483,6 +1493,11 @@
 3 PAGE sec. 5, part 2, image 421 of 449
 3 OBJE @M7@
 3 _APID 28849:407
+2 SOUR @S9@
+3 PAGE sec.5, part 2, which consists entirely of pedigree charts, s
+4 CONC ee attached re-packaging of all pedigree charts in PDF forma
+4 CONC t, constituting the content of all images 418 through 449
+3 OBJE @M18@
 1 SEX F
 1 FAMC @F5@
 1 FAMS @F3@
@@ -2074,6 +2089,13 @@
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2004
 1 _APID 7836
+0 @S22@ SOUR
+1 REPO @R1@
+1 TITL U.S. and International Marriage Records, 1560-1900
+1 AUTH Yates Publishing
+1 PUBL Ancestry.com Operations Inc; Location: Provo, UT, USA; Date
+2 CONC : 2004
+1 _APID 7836
 0 @S5@ SOUR
 1 REPO @R1@
 1 TITL UK and Ireland, Find A Grave Index, 1300s-Current
@@ -2207,4 +2229,11 @@
 2 FORM jpg
 2 TITL Sandes, Edwin, heraldry
 2 _DATE 8/2/2020 3:50:12 PM
+0 @M18@ OBJE
+1 _GUID 1287e143-bc4f-49ce-96bc-9724c4b7e832
+1 FILE C:\Users\vagrant\FTM_DOCUMENTS\Sandys Media\sands_pedigrees.
+2 CONC pdf
+2 FORM jpg
+2 TITL sands_pedigrees
+2 _DATE 8/3/2020 4:32:54 AM
 0 TRLR
