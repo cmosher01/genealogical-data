@@ -14,9 +14,9 @@
 4 CONT Boston, MA 02109
 3 PHON (617) 227-6681
 1 DEST FTM
-1 FILE Roth_2020-08-22-16-34-23.ftm.ged
+1 FILE Roth_2020-08-22-21-57-44.ftm.ged
 1 DATE 22 AUG 2020
-2 TIME 16:35:07
+2 TIME 21:58:09
 0 @Umy2qBWIRUiwVSS6Hcn4@ SUBM
 1 NAME Christopher Alan Mosher
 2 EMAIL cmosher01@@gmail.com
@@ -2196,19 +2196,6 @@
 3 _APID 6061:32233173
 2 NOTE Marital Status: Single; Relation to Head: Daughter
 1 _GUID 58dba1a9-bf8b-499f-aa07-58969d1e937e
-0 @I53@ INDI
-1 REFN a34aa73f-dc20-4264-aae6-f82a7c6c76eb
-1 NAME Ztle /Greenvolt/
-2 SOUR @S2@
-3 _APID 60901:762003713
-1 SEX F
-1 FAMS @F12@
-1 _GUID a257f378-a1e9-486b-a702-ebad8e00a702
-0 @I116@ INDI
-1 NAME /Grotasch/
-1 SEX M
-1 FAMS @F90@
-1 _GUID ed380dbd-ed8b-448c-a48d-a277bd788779
 0 @I24@ INDI
 1 NAME [REDACTED]
 1 NAME [REDACTED]
@@ -2216,7 +2203,7 @@
 1 FAMS @F83@
 0 @I18@ INDI
 1 REFN b209ee6e-9087-4247-9e73-1fb7d2bca59d
-1 NAME Feivel /Grotasch/
+1 NAME Feivel /Grabasch/
 2 SOUR @S3@
 3 PAGE Year: 1920; Census Place: Manhattan Assembly District 2, Ne
 4 CONC w York, New York; Roll: T625_1186; Page: 6A; Enumeration Dis
@@ -2599,15 +2586,12 @@
 1 _GUID baf21ba4-d192-4ec2-9b2f-691278d71453
 0 @I20@ INDI
 1 REFN 0fea82ba-5ab2-4db8-a77e-b1ab7475385b
-1 NAME Gershon /Grotasch/
-2 SOUR @S29@
-3 PAGE New York City Department of Records & Information Services
-4 CONC ; New York City, New York; New York City Death Certificates
-3 _APID 61778:60376754
-2 SOUR @S29@
-3 PAGE New York City Department of Records & Information Services
-4 CONC ; New York City, New York; New York City Death Certificates
-3 _APID 61778:62230721
+1 NAME Gershon /Grabasch/
+2 SOUR @S28@
+3 PAGE Year: 1896; Arrival: New York, New York, USA; Microfilm Seri
+4 CONC al: M237, 1820-1897; Line: 12
+3 OBJE @M121@
+3 _APID 7488:4002434008
 2 SOUR @S28@
 3 PAGE Year: 1909; Arrival: New York, New York, USA; Microfilm Seri
 4 CONC al: T715, 1897-1957; Line: 26; Page Number: 187
@@ -2623,11 +2607,12 @@
 2 SOUR @S14@
 3 _APID 9131:2075245
 1 SEX M
-1 FAMC @F90@
+1 FAMC @F93@
+1 FAMS @F92@
 1 FAMS @F4@
-1 FAMS @F86@
+1 FAMS @F94@
 1 BIRT
-2 DATE ABT 1872
+2 DATE ABT 1874
 2 PLAC Tykocin, Podlaskie, Poland
 3 MAP
 4 LATI N53.2
@@ -2640,17 +2625,26 @@
 3 _APID 7884:17747697
 2 SOUR @S14@
 3 _APID 9131:2075245
-2 SOUR @S29@
-3 PAGE New York City Department of Records & Information Services
-4 CONC ; New York City, New York; New York City Death Certificates
-3 _APID 61778:60376754
-2 SOUR @S29@
-3 PAGE New York City Department of Records & Information Services
-4 CONC ; New York City, New York; New York City Death Certificates
-3 _APID 61778:62230721
+2 SOUR @S28@
+3 PAGE Year: 1896; Arrival: New York, New York, USA; Microfilm Seri
+4 CONC al: M237, 1820-1897; Line: 12
+3 OBJE @M121@
+3 _APID 7488:4002434008
+1 EVEN
+2 TYPE Departure
+2 DATE ABT 01 MAY 1896
+2 PLAC Bremen, Bremen, Bremen, Germany
+3 MAP
+4 LATI N53.0833
+4 LONG E8.8
+2 SOUR @S28@
+3 PAGE Year: 1896; Arrival: New York, New York, USA; Microfilm Seri
+4 CONC al: M237, 1820-1897; Line: 12
+3 OBJE @M121@
+3 _APID 7488:4002434008
 1 EVEN
 2 TYPE Arrival
-2 DATE 1898
+2 DATE 13 MAY 1896
 2 PLAC New York City, New York, USA
 2 SOUR @S12@
 3 PAGE Year: 1910; Census Place: Brooklyn Ward 13, Kings, New York
@@ -2658,6 +2652,11 @@
 4 CONC L microfilm: 1374974
 3 OBJE @M15@
 3 _APID 7884:17747697
+2 SOUR @S28@
+3 PAGE Year: 1896; Arrival: New York, New York, USA; Microfilm Seri
+4 CONC al: M237, 1820-1897; Line: 12
+3 OBJE @M121@
+3 _APID 7488:4002434008
 1 RESI
 2 DATE 12 JUL 1909
 2 PLAC 107 Monroe Street, Brooklyn, New York City, New York, USA
@@ -2684,7 +2683,7 @@
 1 _GUID 1d3c48af-bcc5-4e18-81db-4547a6eee519
 0 @I22@ INDI
 1 REFN db33af09-bbda-431b-89d0-a9b811df9c05
-1 NAME Henda /Grotasch/
+1 NAME Henda /Grabasch/
 2 SOUR @S3@
 3 PAGE Year: 1920; Census Place: Manhattan Assembly District 2, Ne
 4 CONC w York, New York; Roll: T625_1186; Page: 6A; Enumeration Dis
@@ -2913,7 +2912,7 @@
 1 _GUID bb605bcb-4710-46f1-a153-6454d7870b81
 0 @I23@ INDI
 1 REFN b47fd725-2ed3-43eb-8bc6-9b0901c9db8d
-1 NAME Moishe /Grotasch/
+1 NAME Moishe /Grabasch/
 2 SOUR @S3@
 3 PAGE Year: 1920; Census Place: Manhattan Assembly District 2, Ne
 4 CONC w York, New York; Roll: T625_1186; Page: 15A; Enumeration Di
@@ -3170,13 +3169,15 @@
 2 NOTE Marital Status: Married; Relation to Head: Head
 1 _GUID 0c881be9-82cf-4020-a39a-94adbdb258bc
 0 @I117@ INDI
-1 NAME Sarah /Grotasch/
+1 NAME Sori /Grabasch/
 2 SOUR @S3@
 3 PAGE Year: 1920; Census Place: Manhattan Assembly District 1, Ne
 4 CONC w York, New York; Roll: T625_1184; Page: 10B; Enumeration Di
 4 CONC strict: 36
 3 OBJE @M79@
 3 _APID 6061:27132045
+2 SOUR @S14@
+3 _APID 9131:3827701
 2 SOUR @S29@
 3 PAGE New York City Department of Records & Information Services
 4 CONC ; New York City, New York; New York City Death Certificates
@@ -3193,12 +3194,18 @@
 3 _APID 61788:1500323024
 2 SOUR @S15@
 3 _APID 9105:2720372
+2 SOUR @S28@
+3 PAGE Year: 1910; Arrival: New York, New York, USA; Microfilm Seri
+4 CONC al: T715, 1897-1957; Line: 18; Page Number: 67
+3 OBJE @M120@
+3 _APID 7488:4008265391
 2 SOUR @S13@
 3 PAGE New York, State Census, 1915 Record
 3 OBJE @M78@
 3 _APID 2703:10470600
 1 SEX F
-1 FAMC @F86@
+1 FAMC @F93@
+1 FAMC @F95@
 1 FAMS @F79@
 1 NOTE Assuming Sylvia in 1910 census is same person as Sarah in 19
 2 CONC 15 census. Dates and relationship are slightly off. Assume s
@@ -3206,19 +3213,18 @@
 2 CONC her possibility is she is a sister of Gershon.
 1 BIRT
 2 DATE 15 APR 1892
-2 PLAC Poland
-2 SOUR @S12@
-3 PAGE Year: 1910; Census Place: Brooklyn Ward 13, Kings, New York
-4 CONC ; Roll: T624_961; Page: 5B; Enumeration District: 0264; FH
-4 CONC L microfilm: 1374974
-3 OBJE @M77@
-3 _APID 7884:119442761
+2 PLAC Tykocin, Podlaskie, Poland
+3 MAP
+4 LATI N53.2
+4 LONG E22.7833
 2 SOUR @S3@
 3 PAGE Year: 1920; Census Place: Manhattan Assembly District 1, Ne
 4 CONC w York, New York; Roll: T625_1184; Page: 10B; Enumeration Di
 4 CONC strict: 36
 3 OBJE @M79@
 3 _APID 6061:27132045
+2 SOUR @S14@
+3 _APID 9131:3827701
 2 SOUR @S29@
 3 PAGE New York City Department of Records & Information Services
 4 CONC ; New York City, New York; New York City Death Certificates
@@ -3233,39 +3239,43 @@
 3 PAGE New York City Department of Records & Information Services
 4 CONC ; New York City, New York; New York City Marriage Licenses
 3 _APID 61788:1500323024
+2 SOUR @S28@
+3 PAGE Year: 1910; Arrival: New York, New York, USA; Microfilm Seri
+4 CONC al: T715, 1897-1957; Line: 18; Page Number: 67
+3 OBJE @M120@
+3 _APID 7488:4008265391
 2 SOUR @S13@
 3 PAGE New York, State Census, 1915 Record
 3 OBJE @M78@
 3 _APID 2703:10470600
 1 EVEN
+2 TYPE Departure
+2 DATE 28 MAY 1910
+2 PLAC Antwerp, Antwerpen, Belgium
+2 SOUR @S28@
+3 PAGE Year: 1910; Arrival: New York, New York, USA; Microfilm Seri
+4 CONC al: T715, 1897-1957; Line: 18; Page Number: 67
+3 OBJE @M120@
+3 _APID 7488:4008265391
+1 EVEN
 2 TYPE Arrival
-2 DATE 1906
-2 SOUR @S12@
-3 PAGE Year: 1910; Census Place: Brooklyn Ward 13, Kings, New York
-4 CONC ; Roll: T624_961; Page: 5B; Enumeration District: 0264; FH
-4 CONC L microfilm: 1374974
-3 OBJE @M77@
-3 _APID 7884:119442761
+2 DATE 07 JUN 1910
+2 PLAC New York City, New York, USA
 2 SOUR @S3@
 3 PAGE Year: 1920; Census Place: Manhattan Assembly District 1, Ne
 4 CONC w York, New York; Roll: T625_1184; Page: 10B; Enumeration Di
 4 CONC strict: 36
 3 OBJE @M79@
 3 _APID 6061:27132045
+2 SOUR @S28@
+3 PAGE Year: 1910; Arrival: New York, New York, USA; Microfilm Seri
+4 CONC al: T715, 1897-1957; Line: 18; Page Number: 67
+3 OBJE @M120@
+3 _APID 7488:4008265391
 2 SOUR @S13@
 3 PAGE New York, State Census, 1915 Record
 3 OBJE @M78@
 3 _APID 2703:10470600
-1 RESI
-2 DATE 1910
-2 PLAC 159 South 2nd Street, Brooklyn, New York City, New York, USA
-2 SOUR @S12@
-3 PAGE Year: 1910; Census Place: Brooklyn Ward 13, Kings, New York
-4 CONC ; Roll: T624_961; Page: 5B; Enumeration District: 0264; FH
-4 CONC L microfilm: 1374974
-3 OBJE @M77@
-3 _APID 7884:119442761
-2 NOTE Marital Status: Single; Relation to Head of House: Daughter
 1 RESI
 2 DATE 01 JUN 1915
 2 PLAC 50 Pike Street, Manhattan, New York City, New York, USA
@@ -3287,6 +3297,8 @@
 1 DEAT
 2 DATE 14 MAY 1938
 2 PLAC New York City, New York, USA
+2 SOUR @S14@
+3 _APID 9131:3827701
 2 SOUR @S29@
 3 PAGE New York City Department of Records & Information Services
 4 CONC ; New York City, New York; New York City Death Certificates
@@ -3311,6 +3323,83 @@
 4 CONC ; Borough: Brooklyn; Year: 1938
 3 _APID 61778:2230721
 1 _GUID 2335635c-70ac-427f-b62a-658c396871a9
+0 @I139@ INDI
+1 NAME Sylvia /Grabasch/
+2 SOUR @S12@
+3 PAGE Year: 1910; Census Place: Brooklyn Ward 13, Kings, New York
+4 CONC ; Roll: T624_961; Page: 5B; Enumeration District: 0264; FH
+4 CONC L microfilm: 1374974
+3 OBJE @M122@
+3 _APID 7884:119442761
+1 SEX F
+1 FAMC @F92@
+1 BIRT
+2 DATE ABT 1891
+2 PLAC Tykocin, Podlaskie, Poland
+3 MAP
+4 LATI N53.2
+4 LONG E22.7833
+2 SOUR @S12@
+3 PAGE Year: 1910; Census Place: Brooklyn Ward 13, Kings, New York
+4 CONC ; Roll: T624_961; Page: 5B; Enumeration District: 0264; FH
+4 CONC L microfilm: 1374974
+3 OBJE @M122@
+3 _APID 7884:119442761
+1 EVEN
+2 TYPE Arrival
+2 DATE 1906
+2 SOUR @S12@
+3 PAGE Year: 1910; Census Place: Brooklyn Ward 13, Kings, New York
+4 CONC ; Roll: T624_961; Page: 5B; Enumeration District: 0264; FH
+4 CONC L microfilm: 1374974
+3 OBJE @M122@
+3 _APID 7884:119442761
+1 RESI
+2 DATE 1910
+2 PLAC 159 South 2nd Street, Brooklyn, New York City, New York, USA
+2 SOUR @S12@
+3 PAGE Year: 1910; Census Place: Brooklyn Ward 13, Kings, New York
+4 CONC ; Roll: T624_961; Page: 5B; Enumeration District: 0264; FH
+4 CONC L microfilm: 1374974
+3 OBJE @M122@
+3 _APID 7884:119442761
+2 NOTE Marital Status: Single; Relation to Head of House: Daughter
+1 _GUID fae5a49d-c5f3-4345-9af5-adadf0447e6b
+0 @I138@ INDI
+1 NAME unknown partner of Gershon /Grabasch/
+1 SEX F
+1 FAMS @F92@
+1 BIRT
+2 DATE ABT 1874
+2 PLAC Poland
+1 _GUID 40c5aaee-9ecd-47b8-a7d6-6b40236dd249
+0 @I137@ INDI
+1 NAME William /Grabasch/
+2 SOUR @S29@
+3 PAGE New York City Department of Records & Information Services
+4 CONC ; New York City, New York; New York City Death Certificates
+3 _APID 61778:62230721
+1 SEX M
+1 FAMS @F93@
+1 BIRT
+2 DATE ABT 1858
+2 PLAC Tykocin, Podlaskie, Poland
+3 MAP
+4 LATI N53.2
+4 LONG E22.7833
+2 SOUR @S29@
+3 PAGE New York City Department of Records & Information Services
+4 CONC ; New York City, New York; New York City Death Certificates
+3 _APID 61778:62230721
+1 _GUID 1399e2f2-9724-4225-86c1-b4364962a46e
+0 @I53@ INDI
+1 REFN a34aa73f-dc20-4264-aae6-f82a7c6c76eb
+1 NAME Ztle /Greenvolt/
+2 SOUR @S2@
+3 _APID 60901:762003713
+1 SEX F
+1 FAMS @F12@
+1 _GUID a257f378-a1e9-486b-a702-ebad8e00a702
 0 @I84@ INDI
 1 REFN dbc4c252-6372-4871-8265-24cb7ff24528
 1 NAME Ida /Gussack/
@@ -3510,9 +3599,10 @@
 4 CONC ; New York City, New York; New York City Death Certificates
 3 _APID 61778:77230721
 1 SEX F
-1 FAMS @F86@
+1 FAMS @F93@
+1 FAMS @F95@
 1 BIRT
-2 DATE ABT 1874
+2 DATE ABT 1858
 2 PLAC Poland
 2 SOUR @S29@
 3 PAGE New York City Department of Records & Information Services
@@ -8108,6 +8198,8 @@
 3 _APID 6061:32061927
 2 NOTE Relation to Head: Head; Residence Marital Status: Married
 1 _GUID cf0b4fe9-87c8-4d14-bb1a-323d654291a6
+0 @F94@ FAM
+1 HUSB @I20@
 0 @F49@ FAM
 1 HUSB @I93@
 1 WIFE @I92@
@@ -8220,25 +8312,20 @@
 0 @F84@ FAM
 1 HUSB @I129@
 1 WIFE @I21@
-0 @F90@ FAM
-1 HUSB @I116@
-1 CHIL @I20@
-2 _FREL Natural
 0 @F3@ FAM
 1 HUSB @I18@
 1 WIFE @I19@
 1 CHIL @I12@
 2 _FREL Natural
 2 _MREL Natural
-0 @F86@ FAM
+0 @F92@ FAM
 1 HUSB @I20@
-1 WIFE @I121@
-1 CHIL @I117@
+1 WIFE @I138@
+1 CHIL @I139@
 2 _FREL Natural
 2 _MREL Natural
 1 MARR
-2 DATE ABT 1891
-2 PLAC Poland
+2 DATE ABT 1890
 0 @F4@ FAM
 1 HUSB @I20@
 1 WIFE @I21@
@@ -8256,6 +8343,7 @@
 2 _MREL Natural
 1 MARR
 2 DATE ABT 1893
+2 PLAC Poland
 0 @F87@ FAM
 1 HUSB @I23@
 1 WIFE @I132@
@@ -8263,6 +8351,15 @@
 2 _FREL Natural
 2 _MREL Natural
 1 CHIL @I134@
+2 _FREL Natural
+2 _MREL Natural
+0 @F93@ FAM
+1 HUSB @I137@
+1 WIFE @I121@
+1 CHIL @I20@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I117@
 2 _FREL Natural
 2 _MREL Natural
 0 @F45@ FAM
@@ -8285,6 +8382,10 @@
 2 _MREL Natural
 1 MARR
 2 DATE ABT 1893
+0 @F95@ FAM
+1 WIFE @I121@
+1 CHIL @I117@
+2 _MREL Natural
 0 @F83@ FAM
 1 HUSB @I125@
 1 WIFE @I24@
@@ -9871,4 +9972,47 @@
 2 TITL New York City, Marriage Indexes, 1907-1995
 2 _TEXT New York City Municipal Archives; New York, New York; Boroug
 3 CONC h: Bronx
+0 @M118@ OBJE
+1 _GUID 301b8a61-1dd3-443a-9a49-ad7d160aaa29
+1 FILE C:\Users\vagrant\FTM_DOCUMENTS\Roth Media\bialis_lang_mar_af
+2 CONC fidavit.jpg
+2 FORM jpg
+2 TITL bialis_lang_mar_affidavit
+2 _DATE 8/22/2020 6:08:54 PM
+0 @M119@ OBJE
+1 _GUID 95ff682a-f696-4ab8-93ed-f122a67bf548
+1 FILE C:\Users\vagrant\FTM_DOCUMENTS\Roth Media\bialis_lang_mar_li
+2 CONC cense.jpg
+2 FORM jpg
+2 TITL bialis_lang_mar_license
+2 _DATE 8/22/2020 6:08:54 PM
+0 @M120@ OBJE
+1 _GUID af5889c7-3c96-46d6-a469-51cde0ed0eb3
+1 FILE C:\Users\vagrant\FTM_DOCUMENTS\Roth Media\New York, Passenge
+2 CONC r and Crew Lists (including Castle Garden and Ellis Island)
+2 CONC , 1820-1957(2).jpg
+2 FORM jpg
+2 TITL New York, Passenger and Crew Lists (including Castle Garde
+3 CONC n and Ellis Island), 1820-1957
+2 _TEXT Year: 1910; Arrival: New York, New York, USA; Microfilm Seri
+3 CONC al: T715, 1897-1957; Line: 18; Page Number: 67
+0 @M121@ OBJE
+1 _GUID 063f5f2e-91cc-4f34-a4b9-698312748503
+1 FILE C:\Users\vagrant\FTM_DOCUMENTS\Roth Media\New York, Passenge
+2 CONC r and Crew Lists (including Castle Garden and Ellis Island)
+2 CONC , 1820-1957(3).jpg
+2 FORM jpg
+2 TITL New York, Passenger and Crew Lists (including Castle Garde
+3 CONC n and Ellis Island), 1820-1957
+2 _TEXT Year: 1896; Arrival: New York, New York, USA; Microfilm Seri
+3 CONC al: M237, 1820-1897; Line: 12
+0 @M122@ OBJE
+1 _GUID 7383708d-b544-4bb3-9951-c9a4543cf553
+1 FILE C:\Users\vagrant\FTM_DOCUMENTS\Roth Media\1910 United State
+2 CONC s Federal Census(10).jpg
+2 FORM jpg
+2 TITL 1910 United States Federal Census
+2 _TEXT Year: 1910; Census Place: Brooklyn Ward 13, Kings, New York
+3 CONC ; Roll: T624_961; Page: 5B; Enumeration District: 0264; FH
+3 CONC L microfilm: 1374974
 0 TRLR
