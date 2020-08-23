@@ -14,9 +14,9 @@
 4 CONT Boston, MA 02109
 3 PHON (617) 227-6681
 1 DEST FTM
-1 FILE Roth_2020-08-22-21-57-44.ftm.ged
-1 DATE 22 AUG 2020
-2 TIME 21:58:09
+1 FILE Roth_2020-08-23-03-10-38.ftm.ged
+1 DATE 23 AUG 2020
+2 TIME 03:14:34
 0 @Umy2qBWIRUiwVSS6Hcn4@ SUBM
 1 NAME Christopher Alan Mosher
 2 EMAIL cmosher01@@gmail.com
@@ -1587,6 +1587,12 @@
 4 CONC strict: 02; City: New York; County: New York; Page: 111
 3 OBJE @M78@
 3 _APID 2703:10470601
+2 SOUR @S4@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1925; Election District: 14; Assembly Di
+4 CONC strict: 01; City: New York; County: New York; Page: 53
+3 OBJE @M123@
+3 _APID 2704:20223202
 1 SEX M
 1 FAMS @F79@
 1 BIRT
@@ -1608,6 +1614,12 @@
 4 CONC strict: 02; City: New York; County: New York; Page: 111
 3 OBJE @M78@
 3 _APID 2703:10470601
+2 SOUR @S4@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1925; Election District: 14; Assembly Di
+4 CONC strict: 01; City: New York; County: New York; Page: 53
+3 OBJE @M123@
+3 _APID 2704:20223202
 1 EVEN
 2 TYPE Arrival
 2 DATE 1910
@@ -1637,6 +1649,16 @@
 3 OBJE @M79@
 3 _APID 6061:27132044
 2 NOTE Marital Status: Married; Relation to Head: Head
+1 RESI
+2 DATE 1925
+2 PLAC 44 Henry Street, Manhattan, New York City, New York, USA
+2 SOUR @S4@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1925; Election District: 14; Assembly Di
+4 CONC strict: 01; City: New York; County: New York; Page: 53
+3 OBJE @M123@
+3 _APID 2704:20223202
+2 NOTE Relation to Head: Husband
 1 _GUID 7dc564ad-a466-4905-8a1e-c6e1c51b364d
 0 @I55@ INDI
 1 REFN 7ea2cec5-1f4e-4487-8f6d-40c5b6ea27bf
@@ -3203,9 +3225,14 @@
 3 PAGE New York, State Census, 1915 Record
 3 OBJE @M78@
 3 _APID 2703:10470600
+2 SOUR @S4@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1925; Election District: 14; Assembly Di
+4 CONC strict: 01; City: New York; County: New York; Page: 53
+3 OBJE @M123@
+3 _APID 2704:20223204
 1 SEX F
 1 FAMC @F93@
-1 FAMC @F95@
 1 FAMS @F79@
 1 NOTE Assuming Sylvia in 1910 census is same person as Sarah in 19
 2 CONC 15 census. Dates and relationship are slightly off. Assume s
@@ -3248,6 +3275,12 @@
 3 PAGE New York, State Census, 1915 Record
 3 OBJE @M78@
 3 _APID 2703:10470600
+2 SOUR @S4@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1925; Election District: 14; Assembly Di
+4 CONC strict: 01; City: New York; County: New York; Page: 53
+3 OBJE @M123@
+3 _APID 2704:20223204
 1 EVEN
 2 TYPE Departure
 2 DATE 28 MAY 1910
@@ -3294,6 +3327,16 @@
 3 OBJE @M79@
 3 _APID 6061:27132045
 2 NOTE Marital Status: Married; Relation to Head: Wife
+1 RESI
+2 DATE 1925
+2 PLAC 44 Henry Street, Manhattan, New York City, New York, USA
+2 SOUR @S4@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1925; Election District: 14; Assembly Di
+4 CONC strict: 01; City: New York; County: New York; Page: 53
+3 OBJE @M123@
+3 _APID 2704:20223204
+2 NOTE Relation to Head: Wife
 1 DEAT
 2 DATE 14 MAY 1938
 2 PLAC New York City, New York, USA
@@ -3374,11 +3417,15 @@
 2 PLAC Poland
 1 _GUID 40c5aaee-9ecd-47b8-a7d6-6b40236dd249
 0 @I137@ INDI
-1 NAME William /Grabasch/
+1 NAME Wolf /Grabasch/
 2 SOUR @S29@
 3 PAGE New York City Department of Records & Information Services
 4 CONC ; New York City, New York; New York City Death Certificates
 3 _APID 61778:62230721
+2 SOUR @S29@
+3 PAGE New York City Department of Records & Information Services
+4 CONC ; New York City, New York; New York City Death Certificates
+3 _APID 61778:60376754
 1 SEX M
 1 FAMS @F93@
 1 BIRT
@@ -3391,6 +3438,10 @@
 3 PAGE New York City Department of Records & Information Services
 4 CONC ; New York City, New York; New York City Death Certificates
 3 _APID 61778:62230721
+2 SOUR @S29@
+3 PAGE New York City Department of Records & Information Services
+4 CONC ; New York City, New York; New York City Death Certificates
+3 _APID 61778:60376754
 1 _GUID 1399e2f2-9724-4225-86c1-b4364962a46e
 0 @I53@ INDI
 1 REFN a34aa73f-dc20-4264-aae6-f82a7c6c76eb
@@ -3600,7 +3651,6 @@
 3 _APID 61778:77230721
 1 SEX F
 1 FAMS @F93@
-1 FAMS @F95@
 1 BIRT
 2 DATE ABT 1858
 2 PLAC Poland
@@ -8382,10 +8432,6 @@
 2 _MREL Natural
 1 MARR
 2 DATE ABT 1893
-0 @F95@ FAM
-1 WIFE @I121@
-1 CHIL @I117@
-2 _MREL Natural
 0 @F83@ FAM
 1 HUSB @I125@
 1 WIFE @I24@
@@ -10015,4 +10061,13 @@
 2 _TEXT Year: 1910; Census Place: Brooklyn Ward 13, Kings, New York
 3 CONC ; Roll: T624_961; Page: 5B; Enumeration District: 0264; FH
 3 CONC L microfilm: 1374974
+0 @M123@ OBJE
+1 _GUID 342a5d10-44f3-475a-a1b0-1b7259b94903
+1 FILE C:\Users\vagrant\FTM_DOCUMENTS\Roth Media\New York, State Ce
+2 CONC nsus, 1925(8).jpg
+2 FORM jpg
+2 TITL New York, State Census, 1925
+2 _TEXT New York State Archives; Albany, New York; State Populatio
+3 CONC n Census Schedules, 1925; Election District: 14; Assembly Di
+3 CONC strict: 01; City: New York; County: New York; Page: 53
 0 TRLR
