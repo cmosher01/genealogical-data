@@ -14,9 +14,9 @@
 4 CONT Boston, MA 02109
 3 PHON (617) 227-6681
 1 DEST FTM
-1 FILE Roth_2020-08-23-03-10-38.ftm.ged
-1 DATE 23 AUG 2020
-2 TIME 03:14:34
+1 FILE Roth_2020-09-01-21-22-35.ftm.ged
+1 DATE 01 SEP 2020
+2 TIME 21:22:50
 0 @Umy2qBWIRUiwVSS6Hcn4@ SUBM
 1 NAME Christopher Alan Mosher
 2 EMAIL cmosher01@@gmail.com
@@ -600,6 +600,10 @@
 4 CONC h: Manhattan; Volume Number: 10
 3 OBJE @M54@
 3 _APID 61406:7890908
+2 SOUR @S15@
+3 _APID 9105:2494073
+2 SOUR @S2@
+3 _APID 60901:637227897
 1 SEX M
 1 FAMS @F47@
 1 BIRT
@@ -657,11 +661,168 @@
 1 NAME [REDACTED]
 1 FAMC @F47@
 0 @I89@ INDI
-1 NAME [REDACTED]
+1 REFN 23bb0d1b-00e2-41c8-ae4c-332754d3a026
+1 NAME Annette Grace /Botwin/
+2 SOUR @S1@
+3 PAGE Year: 1930; Census Place: Bronx, Bronx, New York; Roll: 1467
+4 CONC ; Page: 12B; Enumeration District: 0150; FHL microfilm: 2341
+4 CONC 202
+3 OBJE @M47@
+3 _APID 6224:31409500
+2 SOUR @S5@
+3 PAGE Year: 1940; Census Place: New York, New York, New York; Roll
+4 CONC : T627_2631; Page: 61B; Enumeration District: 31-307
+3 OBJE @M41@
+3 _APID 2442:11539611
+2 SOUR @S2@
+3 _APID 60901:37227897
+1 SEX F
 1 FAMC @F47@
+1 BIRT
+2 DATE 09 AUG 1921
+2 PLAC New York City, New York, USA
+2 SOUR @S1@
+3 PAGE Year: 1930; Census Place: Bronx, Bronx, New York; Roll: 1467
+4 CONC ; Page: 12B; Enumeration District: 0150; FHL microfilm: 2341
+4 CONC 202
+3 OBJE @M47@
+3 _APID 6224:31409500
+2 SOUR @S5@
+3 PAGE Year: 1940; Census Place: New York, New York, New York; Roll
+4 CONC : T627_2631; Page: 61B; Enumeration District: 31-307
+3 OBJE @M41@
+3 _APID 2442:11539611
+2 SOUR @S2@
+3 _APID 60901:37227897
+1 RESI
+2 DATE 1930
+2 PLAC Bronx, New York City, New York, USA
+2 SOUR @S1@
+3 PAGE Year: 1930; Census Place: Bronx, Bronx, New York; Roll: 1467
+4 CONC ; Page: 12B; Enumeration District: 0150; FHL microfilm: 2341
+4 CONC 202
+3 OBJE @M47@
+3 _APID 6224:31409500
+2 NOTE Marital Status: Single; Relation to Head: Daughter
+1 RESI
+2 DATE 1935
+2 PLAC Manhattan, New York City, New York, USA
+2 SOUR @S5@
+3 PAGE Year: 1940; Census Place: New York, New York, New York; Roll
+4 CONC : T627_2631; Page: 61B; Enumeration District: 31-307
+3 OBJE @M41@
+3 _APID 2442:11539611
+1 RESI
+2 DATE 01 APR 1940
+2 PLAC Manhattan, New York City, New York, USA
+2 SOUR @S5@
+3 PAGE Year: 1940; Census Place: New York, New York, New York; Roll
+4 CONC : T627_2631; Page: 61B; Enumeration District: 31-307
+3 OBJE @M41@
+3 _APID 2442:11539611
+2 NOTE Marital Status: Single; Relation to Head of House: Daughter
+1 DEAT
+2 DATE 24 DEC 1996
+2 SOUR @S2@
+3 _APID 60901:37227897
+1 _GUID 822bccb2-d406-49bb-8bc4-16044bec85b9
 0 @I60@ INDI
-1 NAME [REDACTED]
+1 REFN 830ebfca-2a5f-4cba-b1b7-2cbdb0fcc0dc
+1 NAME Bernard E. /Botwin/
+2 SOUR @S1@
+3 PAGE Year: 1930; Census Place: Bronx, Bronx, New York; Roll: 1467
+4 CONC ; Page: 12B; Enumeration District: 0150; FHL microfilm: 2341
+4 CONC 202
+3 OBJE @M47@
+3 _APID 6224:31409504
+2 SOUR @S5@
+3 PAGE Year: 1940; Census Place: New York, New York, New York; Roll
+4 CONC : T627_2631; Page: 61B; Enumeration District: 31-307
+3 OBJE @M41@
+3 _APID 2442:11539613
+2 SOUR @S22@
+3 OBJE @M137@
+3 _APID 2238:194883653
+2 SOUR @S19@
+3 PAGE Social Security Administration; Washington D.C., USA; Socia
+4 CONC l Security Death Index, Master File
+3 _APID 3693:5958285
+1 SEX M
 1 FAMC @F47@
+1 FAMS @F99@
+1 BIRT
+2 DATE 03 JUN 1926
+2 PLAC New York, USA
+3 MAP
+4 LATI N42.7531
+4 LONG W74.2224
+2 SOUR @S1@
+3 PAGE Year: 1930; Census Place: Bronx, Bronx, New York; Roll: 1467
+4 CONC ; Page: 12B; Enumeration District: 0150; FHL microfilm: 2341
+4 CONC 202
+3 OBJE @M47@
+3 _APID 6224:31409504
+2 SOUR @S5@
+3 PAGE Year: 1940; Census Place: New York, New York, New York; Roll
+4 CONC : T627_2631; Page: 61B; Enumeration District: 31-307
+3 OBJE @M41@
+3 _APID 2442:11539613
+2 SOUR @S22@
+3 OBJE @M137@
+3 _APID 2238:194883653
+2 SOUR @S19@
+3 PAGE Social Security Administration; Washington D.C., USA; Socia
+4 CONC l Security Death Index, Master File
+3 _APID 3693:5958285
+1 RESI
+2 DATE 1930
+2 PLAC Bronx, New York City, New York, USA
+2 SOUR @S1@
+3 PAGE Year: 1930; Census Place: Bronx, Bronx, New York; Roll: 1467
+4 CONC ; Page: 12B; Enumeration District: 0150; FHL microfilm: 2341
+4 CONC 202
+3 OBJE @M47@
+3 _APID 6224:31409504
+2 NOTE Marital Status: Single; Relation to Head: Son
+1 RESI
+2 DATE 1935
+2 PLAC Manhattan, New York City, New York, USA
+2 SOUR @S5@
+3 PAGE Year: 1940; Census Place: New York, New York, New York; Roll
+4 CONC : T627_2631; Page: 61B; Enumeration District: 31-307
+3 OBJE @M41@
+3 _APID 2442:11539613
+1 RESI
+2 DATE 01 APR 1940
+2 PLAC Manhattan, New York City, New York, USA
+2 SOUR @S5@
+3 PAGE Year: 1940; Census Place: New York, New York, New York; Roll
+4 CONC : T627_2631; Page: 61B; Enumeration District: 31-307
+3 OBJE @M41@
+3 _APID 2442:11539613
+2 NOTE Marital Status: Single; Relation to Head of House: Son
+1 RESI
+2 DATE 05 JUN 1944
+2 PLAC 95 Cannon Street, Manhattan, New York City, New York, USA
+2 SOUR @S22@
+3 OBJE @M137@
+3 _APID 2238:194883653
+1 DEAT
+2 DATE OCT 1980
+2 SOUR @S19@
+3 PAGE Social Security Administration; Washington D.C., USA; Socia
+4 CONC l Security Death Index, Master File
+3 _APID 3693:5958285
+1 _GUID 19bde4a5-b01d-46e9-8ebc-d73cc03b4215
+0 @I143@ INDI
+1 NAME Norman /Botwin/
+1 SEX M
+1 FAMC @F99@
+1 BIRT
+2 DATE 1953
+1 DEAT
+2 DATE 1993
+1 _GUID 9763feb0-b1ef-4c9b-9084-c24593e5d0af
 0 @I90@ INDI
 1 REFN f64f1b04-83a1-4acc-bfaf-d21e89c318b9
 1 NAME Sarah /Braun/
@@ -679,6 +840,13 @@
 4 CONC ; FHL microfilm: 1375024
 3 OBJE @M36@
 3 _APID 7884:100608849
+1 NAME Philipine /Russanoff/
+2 SOUR @S7@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1905; Election District: A.D. 12 E.D. 08
+4 CONC ; City: Manhattan; County: New York; Page: 117
+3 OBJE @M138@
+3 _APID 7364:6656695
 1 SEX F
 1 FAMS @F54@
 1 BIRT
@@ -690,6 +858,12 @@
 4 CONC ; FHL microfilm: 1375024
 3 OBJE @M36@
 3 _APID 7884:100608849
+2 SOUR @S7@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1905; Election District: A.D. 12 E.D. 08
+4 CONC ; City: Manhattan; County: New York; Page: 117
+3 OBJE @M138@
+3 _APID 7364:6656695
 1 EVEN
 2 TYPE Arrival
 2 DATE 1898
@@ -699,6 +873,16 @@
 4 CONC ; FHL microfilm: 1375024
 3 OBJE @M36@
 3 _APID 7884:100608849
+1 RESI
+2 DATE 1905
+2 PLAC 270 Delancey Street, Manhattan, New York, New York, USA
+2 SOUR @S7@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1905; Election District: A.D. 12 E.D. 08
+4 CONC ; City: Manhattan; County: New York; Page: 117
+3 OBJE @M138@
+3 _APID 7364:6656695
+2 NOTE Relationship to Head: Wife
 1 RESI
 2 DATE 1910
 2 PLAC Manhattan, New York City, New York, USA
@@ -913,6 +1097,40 @@
 2 SOUR @S20@
 3 _APID 60525:4147513
 1 _GUID 768d9ca4-e3e9-4304-bbbc-4374e25f432f
+0 @I155@ INDI
+1 NAME Benjamin /Cohen/
+2 SOUR @S29@
+3 PAGE New York City Department of Records & Information Services
+4 CONC ; New York City, New York; New York City Death Certificates
+4 CONC ; Borough: Brooklyn; Year: 1913
+3 _APID 61778:1619644
+1 SEX M
+1 FAMC @F6@
+1 BIRT
+2 DATE ABT 1912
+2 PLAC USA
+2 SOUR @S29@
+3 PAGE New York City Department of Records & Information Services
+4 CONC ; New York City, New York; New York City Death Certificates
+4 CONC ; Borough: Brooklyn; Year: 1913
+3 _APID 61778:1619644
+1 DEAT
+2 DATE 27 FEB 1913
+2 PLAC New York City, New York, USA
+2 SOUR @S29@
+3 PAGE New York City Department of Records & Information Services
+4 CONC ; New York City, New York; New York City Death Certificates
+4 CONC ; Borough: Brooklyn; Year: 1913
+3 _APID 61778:1619644
+1 BURI
+2 DATE 27 FEB 1913
+2 PLAC Mount Zion Cemetery, Queens, New York City, New York, USA
+2 SOUR @S29@
+3 PAGE New York City Department of Records & Information Services
+4 CONC ; New York City, New York; New York City Death Certificates
+4 CONC ; Borough: Brooklyn; Year: 1913
+3 _APID 61778:1619644
+1 _GUID f4e5d971-e7e3-4bc9-8aad-ce069ed5cb40
 0 @I35@ INDI
 1 REFN 04a3d26e-2fef-4b99-ae01-40a7d90fb170
 1 NAME Bessie /Cohen/
@@ -928,6 +1146,21 @@
 4 CONC t: 74
 3 OBJE @M8@
 3 _APID 6061:81736710
+2 SOUR @S1@
+3 PAGE Year: 1930; Census Place: Brooklyn, Kings, New York; Page: 4
+4 CONC B; Enumeration District: 1789; FHL microfilm: 2341228
+3 OBJE @M136@
+3 _APID 6224:39561193
+2 SOUR @S5@
+3 PAGE Year: 1940; Census Place: New York, Kings, New York; Roll: m
+4 CONC -t0627-02549; Page: 3A; Enumeration District: 24-110
+3 OBJE @M126@
+3 _APID 2442:6262578
+2 SOUR @S16@
+3 PAGE New York City Municipal Archives; New York, New York; Boroug
+4 CONC h: Brooklyn
+3 OBJE @M140@
+3 _APID 61406:564840
 2 SOUR @S13@
 3 PAGE New York State Archives; Albany, New York; State Populatio
 4 CONC n Census Schedules, 1915; Election District: 02; Assembly Di
@@ -940,10 +1173,16 @@
 4 CONC strict: 02; City: Brooklyn; County: Kings; Page: 60
 3 OBJE @M5@
 3 _APID 2704:21131985
+2 SOUR @S22@
+3 OBJE @M127@
+3 _APID 2238:223839356
+2 SOUR @S2@
+3 _APID 60901:785594557
 1 SEX F
 1 FAMC @F6@
+1 FAMS @F96@
 1 BIRT
-2 DATE ABT 1905
+2 DATE ABT 1907
 2 PLAC New York, USA
 3 MAP
 4 LATI N42.7531
@@ -960,6 +1199,16 @@
 4 CONC t: 74
 3 OBJE @M8@
 3 _APID 6061:81736710
+2 SOUR @S1@
+3 PAGE Year: 1930; Census Place: Brooklyn, Kings, New York; Page: 4
+4 CONC B; Enumeration District: 1789; FHL microfilm: 2341228
+3 OBJE @M136@
+3 _APID 6224:39561193
+2 SOUR @S5@
+3 PAGE Year: 1940; Census Place: New York, Kings, New York; Roll: m
+4 CONC -t0627-02549; Page: 3A; Enumeration District: 24-110
+3 OBJE @M126@
+3 _APID 2442:6262578
 2 SOUR @S13@
 3 PAGE New York State Archives; Albany, New York; State Populatio
 4 CONC n Census Schedules, 1915; Election District: 02; Assembly Di
@@ -1016,6 +1265,25 @@
 3 OBJE @M5@
 3 _APID 2704:21131985
 2 NOTE Relation to Head of House: Daughter
+1 RESI
+2 DATE 1930
+2 PLAC 603 East 94th Street, Brooklyn, New York City, New York, USA
+2 SOUR @S1@
+3 PAGE Year: 1930; Census Place: Brooklyn, Kings, New York; Page: 4
+4 CONC B; Enumeration District: 1789; FHL microfilm: 2341228
+3 OBJE @M136@
+3 _APID 6224:39561193
+2 NOTE Marital Status: Single; Relation to Head: Niece
+1 RESI
+2 DATE 1940
+2 PLAC 394 Christopher Street, Brooklyn, New York City, New York, U
+3 CONC SA
+2 SOUR @S5@
+3 PAGE Year: 1940; Census Place: New York, Kings, New York; Roll: m
+4 CONC -t0627-02549; Page: 3A; Enumeration District: 24-110
+3 OBJE @M126@
+3 _APID 2442:6262578
+2 NOTE Marital Status: Married; Relation to Head: Wife
 1 _GUID d0b25c85-2ea2-40b8-9841-fd9122a5733c
 0 @I34@ INDI
 1 REFN cd661c87-3879-4dba-86a9-9146ac80d838
@@ -1026,12 +1294,20 @@
 4 CONC t: 74
 3 OBJE @M8@
 3 _APID 6061:81736709
+2 SOUR @S5@
+3 PAGE Year: 1940; Census Place: Hillsborough, Florida; Roll: m-t06
+4 CONC 27-00590; Page: 15B; Enumeration District: 29-10
+3 OBJE @M128@
+3 _APID 2442:130759228
 2 SOUR @S4@
 3 PAGE New York State Archives; Albany, New York; State Populatio
 4 CONC n Census Schedules, 1925; Election District: 46; Assembly Di
 4 CONC strict: 02; City: Brooklyn; County: Kings; Page: 60
 3 OBJE @M5@
 3 _APID 2704:21131982
+2 SOUR @S38@
+3 OBJE @M139@
+3 _APID 9170:70945
 1 SEX F
 1 FAMS @F7@
 1 BIRT
@@ -1043,6 +1319,11 @@
 4 CONC t: 74
 3 OBJE @M8@
 3 _APID 6061:81736709
+2 SOUR @S5@
+3 PAGE Year: 1940; Census Place: Hillsborough, Florida; Roll: m-t06
+4 CONC 27-00590; Page: 15B; Enumeration District: 29-10
+3 OBJE @M128@
+3 _APID 2442:130759228
 2 SOUR @S4@
 3 PAGE New York State Archives; Albany, New York; State Populatio
 4 CONC n Census Schedules, 1925; Election District: 46; Assembly Di
@@ -1080,6 +1361,21 @@
 3 OBJE @M5@
 3 _APID 2704:21131982
 2 NOTE Relation to Head of House: Wife
+1 RESI
+2 DATE 1940
+2 PLAC 1403 Bay Villa Place, Tampa, Hillsborough, Florida, USA
+2 SOUR @S5@
+3 PAGE Year: 1940; Census Place: Hillsborough, Florida; Roll: m-t06
+4 CONC 27-00590; Page: 15B; Enumeration District: 29-10
+3 OBJE @M128@
+3 _APID 2442:130759228
+2 NOTE Marital Status: Widowed; Relation to Head: Mother-in-law
+1 RESI
+2 DATE 19 JUN 1941
+2 PLAC 71 Fennimore Avenue, Yonkers, Westchester, New York, USA
+2 SOUR @S38@
+3 OBJE @M139@
+3 _APID 9170:70945
 1 _GUID feca4585-79e9-43ef-9e19-0af0f8a62072
 0 @I33@ INDI
 1 REFN 7c10585a-55ef-4ccf-8962-ebffff82f22d
@@ -1096,6 +1392,14 @@
 4 CONC t: 74
 3 OBJE @M8@
 3 _APID 6061:81736708
+2 SOUR @S29@
+3 PAGE New York City Department of Records & Information Services
+4 CONC ; New York City, New York; New York City Death Certificates
+3 _APID 61778:61619644
+2 SOUR @S29@
+3 PAGE New York City Department of Records & Information Services
+4 CONC ; New York City, New York; New York City Death Certificates
+3 _APID 61778:61529718
 2 SOUR @S7@
 3 PAGE New York State Archives; Albany, New York; State Populatio
 4 CONC n Census Schedules, 1905; Election District: A.D. 12 E.D. 10
@@ -1121,7 +1425,10 @@
 1 FAMS @F7@
 1 BIRT
 2 DATE ABT 1880
-2 PLAC Russia
+2 PLAC Kiev, Kiev, Ukraine
+3 MAP
+4 LATI N50.45
+4 LONG E30.5233
 2 SOUR @S12@
 3 PAGE Year: 1910; Census Place: Manhattan Ward 7, New York, New Yo
 4 CONC rk; Roll: T624_1008; Page: 3B; Enumeration District: 0097; F
@@ -1134,6 +1441,14 @@
 4 CONC t: 74
 3 OBJE @M8@
 3 _APID 6061:81736708
+2 SOUR @S29@
+3 PAGE New York City Department of Records & Information Services
+4 CONC ; New York City, New York; New York City Death Certificates
+3 _APID 61778:61619644
+2 SOUR @S29@
+3 PAGE New York City Department of Records & Information Services
+4 CONC ; New York City, New York; New York City Death Certificates
+3 _APID 61778:61529718
 2 SOUR @S7@
 3 PAGE New York State Archives; Albany, New York; State Populatio
 4 CONC n Census Schedules, 1905; Election District: A.D. 12 E.D. 10
@@ -1163,16 +1478,18 @@
 3 _APID 6061:81736708
 1 EVEN
 2 TYPE Arrival
-2 DATE 1905
-2 SOUR @S12@
-3 PAGE Year: 1910; Census Place: Manhattan Ward 7, New York, New Yo
-4 CONC rk; Roll: T624_1008; Page: 3B; Enumeration District: 0097; F
-4 CONC HL microfilm: 1375021
-3 OBJE @M6@
-3 _APID 7884:18581646
+2 DATE ABT 15 MAR 1905
+2 PLAC Manhattan, New York City, New York, USA
+2 SOUR @S7@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1905; Election District: A.D. 12 E.D. 10
+4 CONC ; City: Manhattan; County: New York; Page: 22
+3 OBJE @M49@
+3 _APID 7364:353769
 1 RESI
 2 DATE 1905
-2 PLAC Manhattan, New York City, New York, USA
+2 PLAC 3 Goerick Street, Lower East Side, Manhattan, New York City
+3 CONC , New York, USA
 2 SOUR @S7@
 3 PAGE New York State Archives; Albany, New York; State Populatio
 4 CONC n Census Schedules, 1905; Election District: A.D. 12 E.D. 10
@@ -1225,8 +1542,44 @@
 3 _APID 2704:21131979
 2 NOTE Relation to Head of House: Head
 1 DEAT
-2 DATE 1931
+2 DATE ABT 1928
+2 PLAC Brooklyn, New York City, New York, USA
 1 _GUID 86ded9da-5c1b-4ffd-91c2-3a1aa9e935f3
+0 @I156@ INDI
+1 NAME Jannie /Cohen/
+2 SOUR @S29@
+3 PAGE New York City Department of Records & Information Services
+4 CONC ; New York City, New York; New York City Death Certificates
+4 CONC ; Borough: Brooklyn; Year: 1909
+3 _APID 61778:1529718
+1 SEX F
+1 FAMC @F6@
+1 BIRT
+2 DATE ABT 1908
+2 PLAC USA
+2 SOUR @S29@
+3 PAGE New York City Department of Records & Information Services
+4 CONC ; New York City, New York; New York City Death Certificates
+4 CONC ; Borough: Brooklyn; Year: 1909
+3 _APID 61778:1529718
+1 DEAT
+2 DATE 17 JUL 1909
+2 PLAC New York City, New York, USA
+2 SOUR @S29@
+3 PAGE New York City Department of Records & Information Services
+4 CONC ; New York City, New York; New York City Death Certificates
+4 CONC ; Borough: Brooklyn; Year: 1909
+3 _APID 61778:1529718
+1 BURI
+2 DATE 18 JUL 1909
+2 PLAC Montefiore Springfield Cemetery, Queens, New York City, Ne
+3 CONC w York, USA
+2 SOUR @S29@
+3 PAGE New York City Department of Records & Information Services
+4 CONC ; New York City, New York; New York City Death Certificates
+4 CONC ; Borough: Brooklyn; Year: 1909
+3 _APID 61778:1529718
+1 _GUID 67ad03fa-4d9f-4cc9-9aac-8874af10f28f
 0 @I37@ INDI
 1 REFN 8ab4312f-f61a-4187-aabc-819cd9133170
 1 NAME Marjorie /Cohen/
@@ -1236,14 +1589,35 @@
 4 CONC t: 74
 3 OBJE @M8@
 3 _APID 6061:81736713
+2 SOUR @S1@
+3 PAGE Year: 1930; Census Place: Bronx, Bronx, New York; Page: 7B
+4 CONC ; Enumeration District: 0190; FHL microfilm: 2341204
+3 OBJE @M131@
+3 _APID 6224:31307715
+2 SOUR @S5@
+3 PAGE Year: 1940; Census Place: Hillsborough, Florida; Roll: m-t06
+4 CONC 27-00590; Page: 15B; Enumeration District: 29-10
+3 OBJE @M128@
+3 _APID 2442:130759225
 2 SOUR @S4@
 3 PAGE New York State Archives; Albany, New York; State Populatio
 4 CONC n Census Schedules, 1925; Election District: 46; Assembly Di
 4 CONC strict: 02; City: Brooklyn; County: Kings; Page: 60
 3 OBJE @M5@
 3 _APID 2704:21131994
+2 SOUR @S39@
+3 OBJE @M130@
+3 _APID 2469:667306579
+2 SOUR @S22@
+3 PAGE The National Archives in St. Louis, Missouri; St. Louis, Mis
+4 CONC souri; WWII Draft Registration Cards for Florida, 10/16/1940
+4 CONC -03/31/1947; Record Group: Records of the Selective Servic
+4 CONC e System, 147; Box: 475
+3 OBJE @M129@
+3 _APID 2238:912481517
 1 SEX F
 1 FAMC @F6@
+1 FAMS @F97@
 1 BIRT
 2 DATE ABT 1910
 2 PLAC New York, USA
@@ -1256,6 +1630,16 @@
 4 CONC t: 74
 3 OBJE @M8@
 3 _APID 6061:81736713
+2 SOUR @S1@
+3 PAGE Year: 1930; Census Place: Bronx, Bronx, New York; Page: 7B
+4 CONC ; Enumeration District: 0190; FHL microfilm: 2341204
+3 OBJE @M131@
+3 _APID 6224:31307715
+2 SOUR @S5@
+3 PAGE Year: 1940; Census Place: Hillsborough, Florida; Roll: m-t06
+4 CONC 27-00590; Page: 15B; Enumeration District: 29-10
+3 OBJE @M128@
+3 _APID 2442:130759225
 2 SOUR @S4@
 3 PAGE New York State Archives; Albany, New York; State Populatio
 4 CONC n Census Schedules, 1925; Election District: 46; Assembly Di
@@ -1284,7 +1668,50 @@
 3 OBJE @M5@
 3 _APID 2704:21131994
 2 NOTE Relation to Head of House: Daughter
+1 RESI
+2 DATE 1930
+2 PLAC 1511 Sheridan Avenue, Bronx, Bronx, New York City, New York
+3 CONC , USA
+2 SOUR @S1@
+3 PAGE Year: 1930; Census Place: Bronx, Bronx, New York; Page: 7B
+4 CONC ; Enumeration District: 0190; FHL microfilm: 2341204
+3 OBJE @M131@
+3 _APID 6224:31307715
+2 NOTE Marital Status: Married; Relation to Head: Wife
+1 RESI
+2 DATE 1940
+2 PLAC 1403 Bay Villa Place, Tampa, Hillsborough, Florida, USA
+2 SOUR @S5@
+3 PAGE Year: 1940; Census Place: Hillsborough, Florida; Roll: m-t06
+4 CONC 27-00590; Page: 15B; Enumeration District: 29-10
+3 OBJE @M128@
+3 _APID 2442:130759225
+2 NOTE Marital Status: Married; Relation to Head: Wife
+1 RESI
+2 DATE 1959
+2 PLAC 2120 Verdun Drive, Miami Beach, Miami-Dade, Florida, USA
+2 SOUR @S39@
+3 OBJE @M130@
+3 _APID 2469:667306579
 1 _GUID 0e705634-5cd5-4f13-ae6a-98eec9f5d5c9
+0 @I160@ INDI
+1 NAME Minnie /Cohen/
+2 SOUR @S45@
+3 PAGE New England Historic Genealogical Society; Boston, Massachus
+4 CONC etts; Massachusetts Vital Records, 1911–1915
+3 OBJE @M133@
+3 _APID 2511:1208843115
+1 SEX F
+1 FAMS @F98@
+1 BIRT
+2 DATE ABT 1850
+2 PLAC Kiev, Kiev, Ukraine
+3 MAP
+4 LATI N50.45
+4 LONG E30.5233
+1 DEAT
+2 DATE ABT 1890
+1 _GUID 45f5d8cf-4dae-4cbb-8218-b3d47d6e19bc
 0 @I36@ INDI
 1 REFN cfdbdbf8-ea8c-438e-b648-f4a32fa293e7
 1 NAME Samuel /Cohen/
@@ -1390,14 +1817,247 @@
 2 NOTE Relation to Head of House: Son
 1 _GUID 26d8cbda-d035-40be-a2fa-bd13b048648f
 0 @I38@ INDI
-1 NAME [REDACTED]
+1 REFN 8e0ad952-6b2e-4f5e-9de6-7bf5a797932f
+1 NAME Theodore /Cohen/
+2 SOUR @S43@
+3 _APID 60534:65228
+2 SOUR @S36@
+3 OBJE @M142@
+3 _APID 61457:1522092
+2 SOUR @S4@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1925; Election District: 46; Assembly Di
+4 CONC strict: 02; City: Brooklyn; County: Kings; Page: 60
+3 OBJE @M5@
+3 _APID 2704:21131997
+2 SOUR @S22@
+3 PAGE The National Archives in St. Louis, Missouri; St. Louis, Mis
+4 CONC souri; WWII Draft Registration Cards for Florida, 10/16/1940
+4 CONC -03/31/1947; Record Group: Records of the Selective Servic
+4 CONC e System, 147; Box: 87
+3 OBJE @M141@
+3 _APID 2238:12515584
+2 SOUR @S38@
+3 OBJE @M139@
+3 _APID 9170:70945
+2 SOUR @S42@
+3 OBJE @M143@
+3 _APID 1102:59761
+2 SOUR @S40@
+3 _APID 8853:87601
+2 SOUR @S41@
+3 _APID 4283:26763
+2 SOUR @S44@
+3 PAGE National Archives at College Park; College Park, Maryland, U
+4 CONC SA; Electronic Army Serial Number Merged File, 1938-1946; NA
+4 CONC ID: 1263923; Record Group Title: Records of the National Arc
+4 CONC hives and Records Administration, 1789-ca. 2007; Record Grou
+4 CONC p: 64; Box Number: 01532; Reel: 10
+3 _APID 8939:4091003
+1 SEX M
 1 FAMC @F7@
+1 BIRT
+2 DATE 24 MAR 1920
+2 PLAC Brooklyn, New York City, New York, USA
+2 SOUR @S43@
+3 _APID 60534:65228
+2 SOUR @S36@
+3 OBJE @M142@
+3 _APID 61457:1522092
+2 SOUR @S4@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1925; Election District: 46; Assembly Di
+4 CONC strict: 02; City: Brooklyn; County: Kings; Page: 60
+3 OBJE @M5@
+3 _APID 2704:21131997
+2 SOUR @S22@
+3 PAGE The National Archives in St. Louis, Missouri; St. Louis, Mis
+4 CONC souri; WWII Draft Registration Cards for Florida, 10/16/1940
+4 CONC -03/31/1947; Record Group: Records of the Selective Servic
+4 CONC e System, 147; Box: 87
+3 OBJE @M141@
+3 _APID 2238:12515584
+2 SOUR @S44@
+3 PAGE National Archives at College Park; College Park, Maryland, U
+4 CONC SA; Electronic Army Serial Number Merged File, 1938-1946; NA
+4 CONC ID: 1263923; Record Group Title: Records of the National Arc
+4 CONC hives and Records Administration, 1789-ca. 2007; Record Grou
+4 CONC p: 64; Box Number: 01532; Reel: 10
+3 _APID 8939:4091003
+1 RESI
+2 DATE 01 JUN 1925
+2 PLAC 348 Williams Avenue, East New York, Brooklyn, New York City
+3 CONC , New York, USA
+2 SOUR @S4@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1925; Election District: 46; Assembly Di
+4 CONC strict: 02; City: Brooklyn; County: Kings; Page: 60
+3 OBJE @M5@
+3 _APID 2704:21131997
+2 NOTE Relation to Head of House: Son
+1 RESI
+2 DATE 01 JUL 1941
+2 PLAC 1403 Bay Villa Place, Tampa, Hillsborough, Florida, USA
+2 SOUR @S22@
+3 PAGE The National Archives in St. Louis, Missouri; St. Louis, Mis
+4 CONC souri; WWII Draft Registration Cards for Florida, 10/16/1940
+4 CONC -03/31/1947; Record Group: Records of the Selective Servic
+4 CONC e System, 147; Box: 87
+3 OBJE @M141@
+3 _APID 2238:12515584
+1 EVEN
+2 TYPE military
+2 DATE 11 DEC 1941
+2 PLAC Camp Blanding Joint Training Center, Starke, Bradford, Flori
+3 CONC da, USA
+2 SOUR @S44@
+3 PAGE National Archives at College Park; College Park, Maryland, U
+4 CONC SA; Electronic Army Serial Number Merged File, 1938-1946; NA
+4 CONC ID: 1263923; Record Group Title: Records of the National Arc
+4 CONC hives and Records Administration, 1789-ca. 2007; Record Grou
+4 CONC p: 64; Box Number: 01532; Reel: 10
+3 _APID 8939:4091003
+1 DEAT
+2 DATE 19 JUN 1944
+2 PLAC Florence, Firenze, Toscana, Italy
+3 MAP
+4 LATI N43.7667
+4 LONG E11.25
+2 SOUR @S43@
+3 _APID 60534:65228
+2 SOUR @S38@
+3 OBJE @M139@
+3 _APID 9170:70945
+2 SOUR @S40@
+3 _APID 8853:87601
+2 SOUR @S41@
+3 _APID 4283:26763
+1 EVEN
+2 TYPE military
+2 DATE 1944
+2 PLAC Florence, Firenze, Toscana, Italy
+3 MAP
+4 LATI N43.7667
+4 LONG E11.25
+2 SOUR @S38@
+3 OBJE @M139@
+3 _APID 9170:70945
+2 SOUR @S40@
+3 _APID 8853:87601
+2 SOUR @S41@
+3 _APID 4283:26763
+2 NOTE Technician Fifth Grade, 117th Cavalry Reconnaissance Squadro
+3 CONC n
+1 BURI
+2 DATE 1944
+2 PLAC Florence American Cemetery and Memorial, Florence, Firenze
+3 CONC , Toscana, Italy
+2 SOUR @S43@
+3 _APID 60534:65228
+2 SOUR @S38@
+3 OBJE @M139@
+3 _APID 9170:70945
+2 SOUR @S42@
+3 OBJE @M143@
+3 _APID 1102:59761
+1 _GUID 38dd18f6-f942-4336-b88f-14d740e3c6b1
+1 _MILTID 14064423
+2 DATE 11 DEC 1941
+2 SOUR @S40@
+3 _APID 8853:87601
+2 SOUR @S38@
+3 OBJE @M139@
+3 _APID 9170:70945
+2 SOUR @S42@
+3 OBJE @M143@
+3 _APID 1102:59761
+2 SOUR @S44@
+3 PAGE National Archives at College Park; College Park, Maryland, U
+4 CONC SA; Electronic Army Serial Number Merged File, 1938-1946; NA
+4 CONC ID: 1263923; Record Group Title: Records of the National Arc
+4 CONC hives and Records Administration, 1789-ca. 2007; Record Grou
+4 CONC p: 64; Box Number: 01532; Reel: 10
+3 _APID 8939:4091003
 0 @I106@ INDI
 1 REFN 96e35e87-7c6f-430f-8487-37307c1235fd
 1 NAME Leah /Dell/
 1 SEX F
 1 FAMC @F78@
 1 _GUID 10337286-d14a-43dd-ab8d-01b60a5b2388
+0 @I150@ INDI
+1 NAME George /Ehrlich/
+2 SOUR @S2@
+3 _APID 60901:35594557
+1 SEX M
+1 FAMC @F96@
+1 BIRT
+2 DATE 21 DEC 1942
+2 PLAC Brooklyn, New York City, New York, USA
+2 SOUR @S2@
+3 _APID 60901:35594557
+1 DEAT
+2 DATE 12 AUG 1996
+2 SOUR @S2@
+3 _APID 60901:35594557
+1 _GUID d845729d-71a3-4353-ab14-009240422da3
+0 @I148@ INDI
+1 NAME Hyman /Ehrlich/
+2 SOUR @S5@
+3 PAGE Year: 1940; Census Place: New York, Kings, New York; Roll: m
+4 CONC -t0627-02549; Page: 3A; Enumeration District: 24-110
+3 OBJE @M126@
+3 _APID 2442:6262576
+2 SOUR @S16@
+3 PAGE New York City Municipal Archives; New York, New York; Boroug
+4 CONC h: Brooklyn
+3 OBJE @M125@
+3 _APID 61406:569727
+2 SOUR @S22@
+3 OBJE @M127@
+3 _APID 2238:193839356
+2 SOUR @S2@
+3 _APID 60901:635594557
+2 SOUR @S19@
+3 PAGE Social Security Administration; Washington D.C., USA; Socia
+4 CONC l Security Death Index, Master File
+3 _APID 3693:17496887
+1 SEX M
+1 FAMS @F96@
+1 BIRT
+2 DATE 28 DEC 1910
+2 PLAC Romania
+2 SOUR @S5@
+3 PAGE Year: 1940; Census Place: New York, Kings, New York; Roll: m
+4 CONC -t0627-02549; Page: 3A; Enumeration District: 24-110
+3 OBJE @M126@
+3 _APID 2442:6262576
+2 SOUR @S22@
+3 OBJE @M127@
+3 _APID 2238:193839356
+2 SOUR @S19@
+3 PAGE Social Security Administration; Washington D.C., USA; Socia
+4 CONC l Security Death Index, Master File
+3 _APID 3693:17496887
+1 RESI
+2 DATE 1940
+2 PLAC 394 Christopher Avenue, Brooklyn, New York City, New York, U
+3 CONC SA
+2 SOUR @S5@
+3 PAGE Year: 1940; Census Place: New York, Kings, New York; Roll: m
+4 CONC -t0627-02549; Page: 3A; Enumeration District: 24-110
+3 OBJE @M126@
+3 _APID 2442:6262576
+2 NOTE Marital Status: Married; Relation to Head: Head
+1 DEAT
+2 DATE FEB 1978
+2 SOUR @S19@
+3 PAGE Social Security Administration; Washington D.C., USA; Socia
+4 CONC l Security Death Index, Master File
+3 _APID 3693:17496887
+1 _GUID a037d646-19af-42c6-b665-b39c18a67b16
+0 @I149@ INDI
+1 NAME [REDACTED]
+1 FAMC @F96@
 0 @I96@ INDI
 1 REFN 246dd05e-e19e-47b5-a634-5eab3c2795c1
 1 NAME Benjamin /Fischler/
@@ -1663,32 +2323,130 @@
 0 @I55@ INDI
 1 REFN 7ea2cec5-1f4e-4487-8f6d-40c5b6ea27bf
 1 NAME Pearl /Goldberg/
+2 SOUR @S29@
+3 PAGE New York City Department of Records & Information Services
+4 CONC ; New York City, New York; New York City Death Certificates
+3 _APID 61778:76745718
+1 NAME Pauline /Goldberg/
+2 SOUR @S12@
+3 PAGE Year: 1910; Census Place: Manhattan Ward 7, New York, New Yo
+4 CONC rk; Roll: T624_1008; Page: 26A; Enumeration District: 0095
+4 CONC ; FHL microfilm: 1375021
+3 OBJE @M144@
+3 _APID 7884:18580314
+2 SOUR @S3@
+3 PAGE Year: 1920; Census Place: Manhattan Assembly District 4, Ne
+4 CONC w York, New York; Roll: T625_1191; Page: 4A; Enumeration Dis
+4 CONC trict: 328
+3 OBJE @M132@
+3 _APID 6061:32391033
 2 SOUR @S1@
 3 PAGE Year: 1930; Census Place: Bronx, Bronx, New York; Roll: 1467
 4 CONC ; Page: 12B; Enumeration District: 0150; FHL microfilm: 2341
 4 CONC 202
 3 OBJE @M47@
 3 _APID 6224:31409533
+2 SOUR @S14@
+3 _APID 9131:3262099
+2 SOUR @S29@
+3 PAGE New York City Department of Records & Information Services
+4 CONC ; New York City, New York; New York City Death Certificates
+3 _APID 61778:76916054
+2 SOUR @S29@
+3 PAGE New York City Department of Records & Information Services
+4 CONC ; New York City, New York; New York City Death Certificates
+3 _APID 61778:77202490
+2 SOUR @S20@
+3 _APID 60525:78202786
 1 SEX F
 1 FAMS @F13@
 1 BIRT
-2 DATE ABT 1845
-2 PLAC Russia
+2 DATE ABT 1855
+2 PLAC Kiev, Kiev, Ukraine
+3 MAP
+4 LATI N50.45
+4 LONG E30.5233
+2 SOUR @S12@
+3 PAGE Year: 1910; Census Place: Manhattan Ward 7, New York, New Yo
+4 CONC rk; Roll: T624_1008; Page: 26A; Enumeration District: 0095
+4 CONC ; FHL microfilm: 1375021
+3 OBJE @M144@
+3 _APID 7884:18580314
+2 SOUR @S3@
+3 PAGE Year: 1920; Census Place: Manhattan Assembly District 4, Ne
+4 CONC w York, New York; Roll: T625_1191; Page: 4A; Enumeration Dis
+4 CONC trict: 328
+3 OBJE @M132@
+3 _APID 6061:32391033
 2 SOUR @S1@
 3 PAGE Year: 1930; Census Place: Bronx, Bronx, New York; Roll: 1467
 4 CONC ; Page: 12B; Enumeration District: 0150; FHL microfilm: 2341
 4 CONC 202
 3 OBJE @M47@
 3 _APID 6224:31409533
+2 SOUR @S14@
+3 _APID 9131:3262099
+2 SOUR @S29@
+3 PAGE New York City Department of Records & Information Services
+4 CONC ; New York City, New York; New York City Death Certificates
+3 _APID 61778:76916054
+2 SOUR @S29@
+3 PAGE New York City Department of Records & Information Services
+4 CONC ; New York City, New York; New York City Death Certificates
+3 _APID 61778:77202490
+2 SOUR @S29@
+3 PAGE New York City Department of Records & Information Services
+4 CONC ; New York City, New York; New York City Death Certificates
+3 _APID 61778:76745718
 1 EVEN
 2 TYPE Arrival
 2 DATE 1908
+2 SOUR @S12@
+3 PAGE Year: 1910; Census Place: Manhattan Ward 7, New York, New Yo
+4 CONC rk; Roll: T624_1008; Page: 26A; Enumeration District: 0095
+4 CONC ; FHL microfilm: 1375021
+3 OBJE @M144@
+3 _APID 7884:18580314
+2 SOUR @S3@
+3 PAGE Year: 1920; Census Place: Manhattan Assembly District 4, Ne
+4 CONC w York, New York; Roll: T625_1191; Page: 4A; Enumeration Dis
+4 CONC trict: 328
+3 OBJE @M132@
+3 _APID 6061:32391033
 2 SOUR @S1@
 3 PAGE Year: 1930; Census Place: Bronx, Bronx, New York; Roll: 1467
 4 CONC ; Page: 12B; Enumeration District: 0150; FHL microfilm: 2341
 4 CONC 202
 3 OBJE @M47@
 3 _APID 6224:31409533
+1 RESI
+2 DATE 1910
+2 PLAC 333-43 Madison Street, Manhattan, New York City, New York, U
+3 CONC SA
+2 SOUR @S12@
+3 PAGE Year: 1910; Census Place: Manhattan Ward 7, New York, New Yo
+4 CONC rk; Roll: T624_1008; Page: 26A; Enumeration District: 0095
+4 CONC ; FHL microfilm: 1375021
+3 OBJE @M144@
+3 _APID 7884:18580314
+2 NOTE Marital Status: Widowed; Relation to Head of House: Head
+1 RESI
+2 DATE 1920
+2 PLAC 284 Henry Street, Manhattan, New York City, New York, USA
+2 SOUR @S3@
+3 PAGE Year: 1920; Census Place: Manhattan Assembly District 4, Ne
+4 CONC w York, New York; Roll: T625_1191; Page: 4A; Enumeration Dis
+4 CONC trict: 328
+3 OBJE @M132@
+3 _APID 6061:32391033
+2 NOTE Marital Status: Widowed; Relation to Head: Head
+1 DEAT
+2 DATE 26 MAY 1930
+2 PLAC Bronx, New York City, New York, USA
+2 SOUR @S14@
+3 _APID 9131:3262099
+2 SOUR @S20@
+3 _APID 60525:78202786
 1 RESI
 2 DATE 1930
 2 PLAC Bronx, New York City, New York, USA
@@ -1699,8 +2457,10 @@
 3 OBJE @M47@
 3 _APID 6224:31409533
 2 NOTE Marital Status: Widowed; Relation to Head: Mother-in-law
-1 DEAT
-2 DATE ABT 1930
+1 BURI
+2 PLAC Mount Zion Cemetery, Queens, New York City, New York, USA
+2 SOUR @S20@
+3 _APID 60525:78202786
 1 _GUID c778e1d3-490a-46d1-8142-1de57af89265
 0 @I111@ INDI
 1 NAME Bessie /Goldstein/
@@ -3454,12 +4214,30 @@
 0 @I84@ INDI
 1 REFN dbc4c252-6372-4871-8265-24cb7ff24528
 1 NAME Ida /Gussack/
+2 SOUR @S12@
+3 PAGE Year: 1910; Census Place: Manhattan Ward 7, New York, New Yo
+4 CONC rk; Roll: T624_1008; Page: 4A; Enumeration District: 0097; F
+4 CONC HL microfilm: 1375021
+3 OBJE @M147@
+3 _APID 7884:103410335
+2 SOUR @S3@
+3 PAGE Year: 1920; Census Place: Brooklyn Assembly District 3, King
+4 CONC s, New York; Roll: T625_1148; Page: 7A; Enumeration District
+4 CONC : 1664
+3 OBJE @M149@
+3 _APID 6061:110125077
 2 SOUR @S7@
 3 PAGE New York State Archives; Albany, New York; State Populatio
 4 CONC n Census Schedules, 1905; Election District: A.D. 12 E.D. 10
 4 CONC ; City: Manhattan; County: New York; Page: 22
 3 OBJE @M49@
 3 _APID 7364:353768
+2 SOUR @S13@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1915; Election District: 08; Assembly Di
+4 CONC strict: 09; City: New York; County: Kings; Page: 15
+3 OBJE @M148@
+3 _APID 2703:10884919
 2 SOUR @S4@
 3 PAGE New York State Archives; Albany, New York; State Populatio
 4 CONC n Census Schedules, 1925; Election District: 23; Assembly Di
@@ -3471,12 +4249,30 @@
 1 BIRT
 2 DATE ABT 1905
 2 PLAC USA
+2 SOUR @S12@
+3 PAGE Year: 1910; Census Place: Manhattan Ward 7, New York, New Yo
+4 CONC rk; Roll: T624_1008; Page: 4A; Enumeration District: 0097; F
+4 CONC HL microfilm: 1375021
+3 OBJE @M147@
+3 _APID 7884:103410335
+2 SOUR @S3@
+3 PAGE Year: 1920; Census Place: Brooklyn Assembly District 3, King
+4 CONC s, New York; Roll: T625_1148; Page: 7A; Enumeration District
+4 CONC : 1664
+3 OBJE @M149@
+3 _APID 6061:110125077
 2 SOUR @S7@
 3 PAGE New York State Archives; Albany, New York; State Populatio
 4 CONC n Census Schedules, 1905; Election District: A.D. 12 E.D. 10
 4 CONC ; City: Manhattan; County: New York; Page: 22
 3 OBJE @M49@
 3 _APID 7364:353768
+2 SOUR @S13@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1915; Election District: 08; Assembly Di
+4 CONC strict: 09; City: New York; County: Kings; Page: 15
+3 OBJE @M148@
+3 _APID 2703:10884919
 2 SOUR @S4@
 3 PAGE New York State Archives; Albany, New York; State Populatio
 4 CONC n Census Schedules, 1925; Election District: 23; Assembly Di
@@ -3493,6 +4289,36 @@
 3 OBJE @M49@
 3 _APID 7364:353768
 2 NOTE Relationship to Head: Daughter
+1 RESI
+2 DATE 1910
+2 PLAC 35 Jackson Street, Manhattan, New York City, New York, USA
+2 SOUR @S12@
+3 PAGE Year: 1910; Census Place: Manhattan Ward 7, New York, New Yo
+4 CONC rk; Roll: T624_1008; Page: 4A; Enumeration District: 0097; F
+4 CONC HL microfilm: 1375021
+3 OBJE @M147@
+3 _APID 7884:103410335
+2 NOTE Marital Status: Single; Relation to Head of House: Daughter
+1 RESI
+2 DATE 01 JUN 1915
+2 PLAC 270 48th Street, Brooklyn, New York City, New York, USA
+2 SOUR @S13@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1915; Election District: 08; Assembly Di
+4 CONC strict: 09; City: New York; County: Kings; Page: 15
+3 OBJE @M148@
+3 _APID 2703:10884919
+2 NOTE Relation to Head of House: Daughter
+1 RESI
+2 DATE 1920
+2 PLAC 270 48th Street, Brooklyn, New York City, New York, USA
+2 SOUR @S3@
+3 PAGE Year: 1920; Census Place: Brooklyn Assembly District 3, King
+4 CONC s, New York; Roll: T625_1148; Page: 7A; Enumeration District
+4 CONC : 1664
+3 OBJE @M149@
+3 _APID 6061:110125077
+2 NOTE Marital Status: Single; Relation to Head: Daughter
 1 RESI
 2 DATE 01 JUN 1925
 2 PLAC Brooklyn, New York City, New York, USA
@@ -3504,68 +4330,38 @@
 3 _APID 2704:21037305
 2 NOTE Relation to Head of House: Daughter
 1 _GUID c80e51d1-027e-49ff-bf18-ba3557f20bd8
-0 @I82@ INDI
-1 REFN 658737f9-1522-4ee3-93ce-21b3466ac3e7
-1 NAME Samuel /Gussack/
-2 SOUR @S7@
-3 PAGE New York State Archives; Albany, New York; State Populatio
-4 CONC n Census Schedules, 1905; Election District: A.D. 12 E.D. 10
-4 CONC ; City: Manhattan; County: New York; Page: 22
-3 OBJE @M49@
-3 _APID 7364:3879859
-2 SOUR @S4@
-3 PAGE New York State Archives; Albany, New York; State Populatio
-4 CONC n Census Schedules, 1925; Election District: 23; Assembly Di
-4 CONC strict: 03; City: Brooklyn; County: Kings; Page: 6
-3 OBJE @M46@
-3 _APID 2704:21037302
-1 SEX M
-1 FAMS @F45@
-1 BIRT
-2 DATE ABT 1875
-2 PLAC Russia
-2 SOUR @S7@
-3 PAGE New York State Archives; Albany, New York; State Populatio
-4 CONC n Census Schedules, 1905; Election District: A.D. 12 E.D. 10
-4 CONC ; City: Manhattan; County: New York; Page: 22
-3 OBJE @M49@
-3 _APID 7364:3879859
-2 SOUR @S4@
-3 PAGE New York State Archives; Albany, New York; State Populatio
-4 CONC n Census Schedules, 1925; Election District: 23; Assembly Di
-4 CONC strict: 03; City: Brooklyn; County: Kings; Page: 6
-3 OBJE @M46@
-3 _APID 2704:21037302
-1 RESI
-2 DATE 1905
-2 PLAC Manhattan, New York City, New York, USA
-2 SOUR @S7@
-3 PAGE New York State Archives; Albany, New York; State Populatio
-4 CONC n Census Schedules, 1905; Election District: A.D. 12 E.D. 10
-4 CONC ; City: Manhattan; County: New York; Page: 22
-3 OBJE @M49@
-3 _APID 7364:3879859
-2 NOTE Relationship to Head: Head
-1 RESI
-2 DATE 01 JUN 1925
-2 PLAC Brooklyn, New York City, New York, USA
-2 SOUR @S4@
-3 PAGE New York State Archives; Albany, New York; State Populatio
-4 CONC n Census Schedules, 1925; Election District: 23; Assembly Di
-4 CONC strict: 03; City: Brooklyn; County: Kings; Page: 6
-3 OBJE @M46@
-3 _APID 2704:21037302
-2 NOTE Relation to Head of House: Head
-1 _GUID ca5dcceb-0f65-4d82-bd05-5d7f77cfe149
 0 @I83@ INDI
 1 REFN 57a2929b-90bf-4c31-8ec4-99a0b13c78d4
-1 NAME Shirley /Gussack/
+1 NAME Sadie /Gussack/
+2 SOUR @S12@
+3 PAGE Year: 1910; Census Place: Manhattan Ward 7, New York, New Yo
+4 CONC rk; Roll: T624_1008; Page: 4A; Enumeration District: 0097; F
+4 CONC HL microfilm: 1375021
+3 OBJE @M147@
+3 _APID 7884:103410334
+2 SOUR @S3@
+3 PAGE Year: 1920; Census Place: Brooklyn Assembly District 3, King
+4 CONC s, New York; Roll: T625_1148; Page: 7A; Enumeration District
+4 CONC : 1664
+3 OBJE @M149@
+3 _APID 6061:110125076
+2 SOUR @S28@
+3 PAGE Year: 1903; Arrival: New York, New York, USA; Microfilm Seri
+4 CONC al: T715, 1897-1957; Line: 20; Page Number: 96
+3 OBJE @M146@
+3 _APID 7488:4001797563
 2 SOUR @S7@
 3 PAGE New York State Archives; Albany, New York; State Populatio
 4 CONC n Census Schedules, 1905; Election District: A.D. 12 E.D. 10
 4 CONC ; City: Manhattan; County: New York; Page: 22
 3 OBJE @M49@
 3 _APID 7364:3879861
+2 SOUR @S13@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1915; Election District: 08; Assembly Di
+4 CONC strict: 09; City: New York; County: Kings; Page: 15
+3 OBJE @M148@
+3 _APID 2703:10884917
 2 SOUR @S4@
 3 PAGE New York State Archives; Albany, New York; State Populatio
 4 CONC n Census Schedules, 1925; Election District: 23; Assembly Di
@@ -3574,18 +4370,71 @@
 3 _APID 2704:21037304
 1 SEX F
 1 FAMC @F45@
+1 EVEN
+2 TYPE Arrival
+2 DATE 1902
+2 SOUR @S3@
+3 PAGE Year: 1920; Census Place: Brooklyn Assembly District 3, King
+4 CONC s, New York; Roll: T625_1148; Page: 7A; Enumeration District
+4 CONC : 1664
+3 OBJE @M149@
+3 _APID 6061:110125076
+1 EVEN
+2 TYPE Departure
+2 DATE 15 FEB 1903
+2 PLAC Southampton, Hampshire, England
+3 MAP
+4 LATI N50.9
+4 LONG W1.4
+2 SOUR @S28@
+3 PAGE Year: 1903; Arrival: New York, New York, USA; Microfilm Seri
+4 CONC al: T715, 1897-1957; Line: 20; Page Number: 96
+3 OBJE @M146@
+3 _APID 7488:4001797563
+1 EVEN
+2 TYPE Arrival
+2 DATE 24 FEB 1903
+2 PLAC Manhattan, New York City, New York, USA
+2 SOUR @S28@
+3 PAGE Year: 1903; Arrival: New York, New York, USA; Microfilm Seri
+4 CONC al: T715, 1897-1957; Line: 20; Page Number: 96
+3 OBJE @M146@
+3 _APID 7488:4001797563
 1 BIRT
 2 DATE ABT 1903
-2 PLAC England
+2 PLAC London, England
 3 MAP
-4 LATI N52.5898
-4 LONG W1.4611
+4 LATI N51.4611
+4 LONG W0.0667
+2 SOUR @S12@
+3 PAGE Year: 1910; Census Place: Manhattan Ward 7, New York, New Yo
+4 CONC rk; Roll: T624_1008; Page: 4A; Enumeration District: 0097; F
+4 CONC HL microfilm: 1375021
+3 OBJE @M147@
+3 _APID 7884:103410334
+2 SOUR @S3@
+3 PAGE Year: 1920; Census Place: Brooklyn Assembly District 3, King
+4 CONC s, New York; Roll: T625_1148; Page: 7A; Enumeration District
+4 CONC : 1664
+3 OBJE @M149@
+3 _APID 6061:110125076
+2 SOUR @S28@
+3 PAGE Year: 1903; Arrival: New York, New York, USA; Microfilm Seri
+4 CONC al: T715, 1897-1957; Line: 20; Page Number: 96
+3 OBJE @M146@
+3 _APID 7488:4001797563
 2 SOUR @S7@
 3 PAGE New York State Archives; Albany, New York; State Populatio
 4 CONC n Census Schedules, 1905; Election District: A.D. 12 E.D. 10
 4 CONC ; City: Manhattan; County: New York; Page: 22
 3 OBJE @M49@
 3 _APID 7364:3879861
+2 SOUR @S13@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1915; Election District: 08; Assembly Di
+4 CONC strict: 09; City: New York; County: Kings; Page: 15
+3 OBJE @M148@
+3 _APID 2703:10884917
 2 SOUR @S4@
 3 PAGE New York State Archives; Albany, New York; State Populatio
 4 CONC n Census Schedules, 1925; Election District: 23; Assembly Di
@@ -3603,6 +4452,36 @@
 3 _APID 7364:3879861
 2 NOTE Relationship to Head: Daughter
 1 RESI
+2 DATE 1910
+2 PLAC 35 Jackson Street, Manhattan, New York City, New York, USA
+2 SOUR @S12@
+3 PAGE Year: 1910; Census Place: Manhattan Ward 7, New York, New Yo
+4 CONC rk; Roll: T624_1008; Page: 4A; Enumeration District: 0097; F
+4 CONC HL microfilm: 1375021
+3 OBJE @M147@
+3 _APID 7884:103410334
+2 NOTE Marital Status: Single; Relation to Head of House: Daughter
+1 RESI
+2 DATE 01 JUN 1915
+2 PLAC 270 48th Street, Brooklyn, New York City, New York, USA
+2 SOUR @S13@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1915; Election District: 08; Assembly Di
+4 CONC strict: 09; City: New York; County: Kings; Page: 15
+3 OBJE @M148@
+3 _APID 2703:10884917
+2 NOTE Relation to Head of House: Daughter
+1 RESI
+2 DATE 1920
+2 PLAC 270 48th Street, Brooklyn, New York City, New York, USA
+2 SOUR @S3@
+3 PAGE Year: 1920; Census Place: Brooklyn Assembly District 3, King
+4 CONC s, New York; Roll: T625_1148; Page: 7A; Enumeration District
+4 CONC : 1664
+3 OBJE @M149@
+3 _APID 6061:110125076
+2 NOTE Marital Status: Single; Relation to Head: Daughter
+1 RESI
 2 DATE 01 JUN 1925
 2 PLAC Brooklyn, New York City, New York, USA
 2 SOUR @S4@
@@ -3613,6 +4492,183 @@
 3 _APID 2704:21037304
 2 NOTE Relation to Head of House: Daughter
 1 _GUID 97ffccaf-39b0-43ca-9278-a26c5ee74608
+0 @I82@ INDI
+1 REFN 658737f9-1522-4ee3-93ce-21b3466ac3e7
+1 NAME Schmiel /Gussack/
+2 SOUR @S12@
+3 PAGE Year: 1910; Census Place: Manhattan Ward 7, New York, New Yo
+4 CONC rk; Roll: T624_1008; Page: 4A; Enumeration District: 0097; F
+4 CONC HL microfilm: 1375021
+3 OBJE @M147@
+3 _APID 7884:18581667
+2 SOUR @S3@
+3 PAGE Year: 1920; Census Place: Brooklyn Assembly District 3, King
+4 CONC s, New York; Roll: T625_1148; Page: 7A; Enumeration District
+4 CONC : 1664
+3 OBJE @M149@
+3 _APID 6061:110125074
+2 SOUR @S28@
+3 PAGE Year: 1902; Arrival: New York, New York, USA; Microfilm Seri
+4 CONC al: T715, 1897-1957; Line: 7; Page Number: 147
+3 OBJE @M151@
+3 _APID 7488:4001758281
+2 SOUR @S7@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1905; Election District: A.D. 12 E.D. 10
+4 CONC ; City: Manhattan; County: New York; Page: 22
+3 OBJE @M49@
+3 _APID 7364:3879859
+2 SOUR @S13@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1915; Election District: 08; Assembly Di
+4 CONC strict: 09; City: New York; County: Kings; Page: 14
+3 OBJE @M148@
+3 _APID 2703:10884911
+2 SOUR @S4@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1925; Election District: 23; Assembly Di
+4 CONC strict: 03; City: Brooklyn; County: Kings; Page: 6
+3 OBJE @M46@
+3 _APID 2704:21037302
+1 NAME Samuel /Gussack/
+1 SEX M
+1 FAMS @F45@
+1 BIRT
+2 DATE ABT 1875
+2 PLAC Russia
+2 SOUR @S12@
+3 PAGE Year: 1910; Census Place: Manhattan Ward 7, New York, New Yo
+4 CONC rk; Roll: T624_1008; Page: 4A; Enumeration District: 0097; F
+4 CONC HL microfilm: 1375021
+3 OBJE @M147@
+3 _APID 7884:18581667
+2 SOUR @S3@
+3 PAGE Year: 1920; Census Place: Brooklyn Assembly District 3, King
+4 CONC s, New York; Roll: T625_1148; Page: 7A; Enumeration District
+4 CONC : 1664
+3 OBJE @M149@
+3 _APID 6061:110125074
+2 SOUR @S28@
+3 PAGE Year: 1902; Arrival: New York, New York, USA; Microfilm Seri
+4 CONC al: T715, 1897-1957; Line: 7; Page Number: 147
+3 OBJE @M151@
+3 _APID 7488:4001758281
+2 SOUR @S7@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1905; Election District: A.D. 12 E.D. 10
+4 CONC ; City: Manhattan; County: New York; Page: 22
+3 OBJE @M49@
+3 _APID 7364:3879859
+2 SOUR @S13@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1915; Election District: 08; Assembly Di
+4 CONC strict: 09; City: New York; County: Kings; Page: 14
+3 OBJE @M148@
+3 _APID 2703:10884911
+2 SOUR @S4@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1925; Election District: 23; Assembly Di
+4 CONC strict: 03; City: Brooklyn; County: Kings; Page: 6
+3 OBJE @M46@
+3 _APID 2704:21037302
+1 EVEN
+2 TYPE Arrival
+2 DATE 1901
+2 SOUR @S12@
+3 PAGE Year: 1910; Census Place: Manhattan Ward 7, New York, New Yo
+4 CONC rk; Roll: T624_1008; Page: 4A; Enumeration District: 0097; F
+4 CONC HL microfilm: 1375021
+3 OBJE @M147@
+3 _APID 7884:18581667
+2 SOUR @S3@
+3 PAGE Year: 1920; Census Place: Brooklyn Assembly District 3, King
+4 CONC s, New York; Roll: T625_1148; Page: 7A; Enumeration District
+4 CONC : 1664
+3 OBJE @M149@
+3 _APID 6061:110125074
+1 RESI
+2 DATE 1902
+2 PLAC London, London, England
+3 MAP
+4 LATI N51.5
+4 LONG W0.1167
+2 SOUR @S28@
+3 PAGE Year: 1902; Arrival: New York, New York, USA; Microfilm Seri
+4 CONC al: T715, 1897-1957; Line: 7; Page Number: 147
+3 OBJE @M151@
+3 _APID 7488:4001758281
+1 EVEN
+2 TYPE Departure
+2 DATE 08 NOV 1902
+2 PLAC Southampton, Hampshire, England
+3 MAP
+4 LATI N50.9
+4 LONG W1.4
+2 SOUR @S28@
+3 PAGE Year: 1902; Arrival: New York, New York, USA; Microfilm Seri
+4 CONC al: T715, 1897-1957; Line: 7; Page Number: 147
+3 OBJE @M151@
+3 _APID 7488:4001758281
+1 EVEN
+2 TYPE Arrival
+2 DATE 16 NOV 1902
+2 PLAC Manhattan, New York City, New York, USA
+2 SOUR @S28@
+3 PAGE Year: 1902; Arrival: New York, New York, USA; Microfilm Seri
+4 CONC al: T715, 1897-1957; Line: 7; Page Number: 147
+3 OBJE @M151@
+3 _APID 7488:4001758281
+1 RESI
+2 DATE 1905
+2 PLAC 3 Goerick Street, Manhattan, New York City, New York, USA
+2 SOUR @S7@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1905; Election District: A.D. 12 E.D. 10
+4 CONC ; City: Manhattan; County: New York; Page: 22
+3 OBJE @M49@
+3 _APID 7364:3879859
+2 NOTE Relationship to Head: Head
+1 RESI
+2 DATE 1910
+2 PLAC 35 Jackson Street, Manhattan, New York City, New York, USA
+2 SOUR @S12@
+3 PAGE Year: 1910; Census Place: Manhattan Ward 7, New York, New Yo
+4 CONC rk; Roll: T624_1008; Page: 4A; Enumeration District: 0097; F
+4 CONC HL microfilm: 1375021
+3 OBJE @M147@
+3 _APID 7884:18581667
+2 NOTE Marital Status: Married; Relation to Head of House: Head
+1 RESI
+2 DATE 01 JUN 1915
+2 PLAC 270 48th Street, Brooklyn, New York City, New York, USA
+2 SOUR @S13@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1915; Election District: 08; Assembly Di
+4 CONC strict: 09; City: New York; County: Kings; Page: 14
+3 OBJE @M148@
+3 _APID 2703:10884911
+2 NOTE Relation to Head of House: Head
+1 RESI
+2 DATE 1920
+2 PLAC 270 48th Street, Brooklyn, New York City, New York, USA
+2 SOUR @S3@
+3 PAGE Year: 1920; Census Place: Brooklyn Assembly District 3, King
+4 CONC s, New York; Roll: T625_1148; Page: 7A; Enumeration District
+4 CONC : 1664
+3 OBJE @M149@
+3 _APID 6061:110125074
+2 NOTE Marital Status: Married; Relation to Head: Head
+1 RESI
+2 DATE 01 JUN 1925
+2 PLAC Brooklyn, New York City, New York, USA
+2 SOUR @S4@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1925; Election District: 23; Assembly Di
+4 CONC strict: 03; City: Brooklyn; County: Kings; Page: 6
+3 OBJE @M46@
+3 _APID 2704:21037302
+2 NOTE Relation to Head of House: Head
+1 _GUID ca5dcceb-0f65-4d82-bd05-5d7f77cfe149
 0 @I91@ INDI
 1 REFN 52f11c45-eb8e-49d6-80f9-4ec2bcadfcfd
 1 NAME /Gussier/
@@ -4090,6 +5146,334 @@
 3 _APID 6224:41640692
 2 NOTE Marital Status: Single; Relation to Head: Daughter
 1 _GUID 70715cbe-c607-4dbd-aa54-55744949e614
+0 @I162@ INDI
+1 NAME Eva /Lehner/
+2 SOUR @S8@
+3 PAGE Year: 1900; Census Place: Worcester Ward 3, Worcester, Massa
+4 CONC chusetts; Page: 3; Enumeration District: 1731; FHL microfilm
+4 CONC : 1240696
+3 OBJE @M124@
+3 _APID 7602:75706866
+1 SEX F
+1 FAMC @F98@
+1 BIRT
+2 DATE APR 1879
+2 PLAC Russia
+2 SOUR @S8@
+3 PAGE Year: 1900; Census Place: Worcester Ward 3, Worcester, Massa
+4 CONC chusetts; Page: 3; Enumeration District: 1731; FHL microfilm
+4 CONC : 1240696
+3 OBJE @M124@
+3 _APID 7602:75706866
+1 EVEN
+2 TYPE Arrival
+2 DATE 1890
+2 SOUR @S8@
+3 PAGE Year: 1900; Census Place: Worcester Ward 3, Worcester, Massa
+4 CONC chusetts; Page: 3; Enumeration District: 1731; FHL microfilm
+4 CONC : 1240696
+3 OBJE @M124@
+3 _APID 7602:75706866
+1 RESI
+2 DATE 1900
+2 PLAC 20 Harrison Street, Worcester, Worcester, Massachusetts, USA
+2 SOUR @S8@
+3 PAGE Year: 1900; Census Place: Worcester Ward 3, Worcester, Massa
+4 CONC chusetts; Page: 3; Enumeration District: 1731; FHL microfilm
+4 CONC : 1240696
+3 OBJE @M124@
+3 _APID 7602:75706866
+2 NOTE Marital Status: Single; Relation to Head: Daughter
+1 _GUID 826c3c9f-eea7-4152-a563-2f245985ce98
+0 @I147@ INDI
+1 NAME Isaac /Lehner/
+2 SOUR @S8@
+3 PAGE Year: 1900; Census Place: Worcester Ward 3, Worcester, Massa
+4 CONC chusetts; Page: 3; Enumeration District: 1731; FHL microfilm
+4 CONC : 1240696
+3 OBJE @M124@
+3 _APID 7602:75706870
+1 SEX M
+1 FAMC @F98@
+1 BIRT
+2 DATE MAY 1889
+2 PLAC Russia
+2 SOUR @S8@
+3 PAGE Year: 1900; Census Place: Worcester Ward 3, Worcester, Massa
+4 CONC chusetts; Page: 3; Enumeration District: 1731; FHL microfilm
+4 CONC : 1240696
+3 OBJE @M124@
+3 _APID 7602:75706870
+1 EVEN
+2 TYPE Arrival
+2 DATE 1890
+2 SOUR @S8@
+3 PAGE Year: 1900; Census Place: Worcester Ward 3, Worcester, Massa
+4 CONC chusetts; Page: 3; Enumeration District: 1731; FHL microfilm
+4 CONC : 1240696
+3 OBJE @M124@
+3 _APID 7602:75706870
+1 RESI
+2 DATE 1900
+2 PLAC 20 Harrison Street, Worcester, Worcester, Massachusetts, USA
+2 SOUR @S8@
+3 PAGE Year: 1900; Census Place: Worcester Ward 3, Worcester, Massa
+4 CONC chusetts; Page: 3; Enumeration District: 1731; FHL microfilm
+4 CONC : 1240696
+3 OBJE @M124@
+3 _APID 7602:75706870
+2 NOTE Marital Status: Single; Relation to Head: Son
+1 _GUID 5d3462c7-78e0-4e83-9684-7f08d521f73e
+0 @I161@ INDI
+1 NAME Israel /Lehner/
+2 SOUR @S8@
+3 PAGE Year: 1900; Census Place: Worcester Ward 3, Worcester, Massa
+4 CONC chusetts; Page: 3; Enumeration District: 1731; FHL microfilm
+4 CONC : 1240696
+3 OBJE @M124@
+3 _APID 7602:75706865
+1 SEX M
+1 FAMC @F98@
+1 BIRT
+2 DATE JUL 1873
+2 PLAC Russia
+2 SOUR @S8@
+3 PAGE Year: 1900; Census Place: Worcester Ward 3, Worcester, Massa
+4 CONC chusetts; Page: 3; Enumeration District: 1731; FHL microfilm
+4 CONC : 1240696
+3 OBJE @M124@
+3 _APID 7602:75706865
+1 EVEN
+2 TYPE Arrival
+2 DATE 1890
+2 SOUR @S8@
+3 PAGE Year: 1900; Census Place: Worcester Ward 3, Worcester, Massa
+4 CONC chusetts; Page: 3; Enumeration District: 1731; FHL microfilm
+4 CONC : 1240696
+3 OBJE @M124@
+3 _APID 7602:75706865
+1 RESI
+2 DATE 1900
+2 PLAC 20 Harrison Street, Worcester, Worcester, Massachusetts, USA
+2 SOUR @S8@
+3 PAGE Year: 1900; Census Place: Worcester Ward 3, Worcester, Massa
+4 CONC chusetts; Page: 3; Enumeration District: 1731; FHL microfilm
+4 CONC : 1240696
+3 OBJE @M124@
+3 _APID 7602:75706865
+2 NOTE Marital Status: Single; Relation to Head: Son
+1 _GUID 1571ede8-196e-4981-b509-d65bebf92fc0
+0 @I158@ INDI
+1 NAME Louis /Lehner/
+2 SOUR @S8@
+3 PAGE Year: 1900; Census Place: Worcester Ward 3, Worcester, Massa
+4 CONC chusetts; Page: 3; Enumeration District: 1731; FHL microfilm
+4 CONC : 1240696
+3 OBJE @M124@
+3 _APID 7602:75706864
+2 SOUR @S45@
+3 PAGE Massachusetts, Marriage Records, 1840-1915 Record
+3 OBJE @M133@
+3 _APID 2511:8843115
+1 SEX M
+1 FAMC @F98@
+1 BIRT
+2 DATE ABT 1872
+2 PLAC Kiev, Kiev, Ukraine
+3 MAP
+4 LATI N50.45
+4 LONG E30.5233
+2 SOUR @S8@
+3 PAGE Year: 1900; Census Place: Worcester Ward 3, Worcester, Massa
+4 CONC chusetts; Page: 3; Enumeration District: 1731; FHL microfilm
+4 CONC : 1240696
+3 OBJE @M124@
+3 _APID 7602:75706864
+2 SOUR @S45@
+3 PAGE Massachusetts, Marriage Records, 1840-1915 Record
+3 OBJE @M133@
+3 _APID 2511:8843115
+1 EVEN
+2 TYPE Arrival
+2 DATE 1890
+2 SOUR @S8@
+3 PAGE Year: 1900; Census Place: Worcester Ward 3, Worcester, Massa
+4 CONC chusetts; Page: 3; Enumeration District: 1731; FHL microfilm
+4 CONC : 1240696
+3 OBJE @M124@
+3 _APID 7602:75706864
+1 RESI
+2 DATE 1900
+2 PLAC 20 Harrison Street, Worcester, Worcester, Massachusetts, USA
+2 SOUR @S8@
+3 PAGE Year: 1900; Census Place: Worcester Ward 3, Worcester, Massa
+4 CONC chusetts; Page: 3; Enumeration District: 1731; FHL microfilm
+4 CONC : 1240696
+3 OBJE @M124@
+3 _APID 7602:75706864
+2 NOTE Marital Status: Single; Relation to Head: Son
+1 _GUID 8922d6c0-9c5f-4ae0-9108-9ce6b9d3f43f
+0 @I145@ INDI
+1 NAME Mary /Lehner/
+2 SOUR @S8@
+3 PAGE Year: 1900; Census Place: Worcester Ward 3, Worcester, Massa
+4 CONC chusetts; Page: 3; Enumeration District: 1731; FHL microfilm
+4 CONC : 1240696
+3 OBJE @M124@
+3 _APID 7602:75706868
+1 SEX F
+1 FAMC @F98@
+1 BIRT
+2 DATE JUN 1884
+2 PLAC Russia
+2 SOUR @S8@
+3 PAGE Year: 1900; Census Place: Worcester Ward 3, Worcester, Massa
+4 CONC chusetts; Page: 3; Enumeration District: 1731; FHL microfilm
+4 CONC : 1240696
+3 OBJE @M124@
+3 _APID 7602:75706868
+1 EVEN
+2 TYPE Arrival
+2 DATE 1890
+2 SOUR @S8@
+3 PAGE Year: 1900; Census Place: Worcester Ward 3, Worcester, Massa
+4 CONC chusetts; Page: 3; Enumeration District: 1731; FHL microfilm
+4 CONC : 1240696
+3 OBJE @M124@
+3 _APID 7602:75706868
+1 RESI
+2 DATE 1900
+2 PLAC 20 Harrison Street, Worcester, Worcester, Massachusetts, USA
+2 SOUR @S8@
+3 PAGE Year: 1900; Census Place: Worcester Ward 3, Worcester, Massa
+4 CONC chusetts; Page: 3; Enumeration District: 1731; FHL microfilm
+4 CONC : 1240696
+3 OBJE @M124@
+3 _APID 7602:75706868
+2 NOTE Marital Status: Single; Relation to Head: Daughter
+1 _GUID fef20bc8-c4d7-4005-a1f6-043a34f46278
+0 @I159@ INDI
+1 NAME Max /Lehner/
+2 SOUR @S8@
+3 PAGE Year: 1900; Census Place: Worcester Ward 3, Worcester, Massa
+4 CONC chusetts; Page: 3; Enumeration District: 1731; FHL microfilm
+4 CONC : 1240696
+3 OBJE @M124@
+3 _APID 7602:75706863
+2 SOUR @S45@
+3 PAGE New England Historic Genealogical Society; Boston, Massachus
+4 CONC etts; Massachusetts Vital Records, 1911–1915
+3 OBJE @M133@
+3 _APID 2511:1058843115
+1 SEX M
+1 FAMS @F98@
+1 BIRT
+2 DATE MAY 1838
+2 PLAC Russia
+2 SOUR @S8@
+3 PAGE Year: 1900; Census Place: Worcester Ward 3, Worcester, Massa
+4 CONC chusetts; Page: 3; Enumeration District: 1731; FHL microfilm
+4 CONC : 1240696
+3 OBJE @M124@
+3 _APID 7602:75706863
+1 EVEN
+2 TYPE Arrival
+2 DATE 1890
+2 SOUR @S8@
+3 PAGE Year: 1900; Census Place: Worcester Ward 3, Worcester, Massa
+4 CONC chusetts; Page: 3; Enumeration District: 1731; FHL microfilm
+4 CONC : 1240696
+3 OBJE @M124@
+3 _APID 7602:75706863
+1 RESI
+2 DATE 1900
+2 PLAC 20 Harrison Street, Worcester, Worcester, Massachusetts, USA
+2 SOUR @S8@
+3 PAGE Year: 1900; Census Place: Worcester Ward 3, Worcester, Massa
+4 CONC chusetts; Page: 3; Enumeration District: 1731; FHL microfilm
+4 CONC : 1240696
+3 OBJE @M124@
+3 _APID 7602:75706863
+2 NOTE Marital Status: Widowed; Relation to Head: Head
+1 _GUID 97757460-a9fc-484f-8be3-9a9eb5967271
+0 @I144@ INDI
+1 NAME Sarah /Lehner/
+2 SOUR @S8@
+3 PAGE Year: 1900; Census Place: Worcester Ward 3, Worcester, Massa
+4 CONC chusetts; Page: 3; Enumeration District: 1731; FHL microfilm
+4 CONC : 1240696
+3 OBJE @M124@
+3 _APID 7602:75706867
+1 SEX F
+1 FAMC @F98@
+1 BIRT
+2 DATE JAN 1882
+2 PLAC Russia
+2 SOUR @S8@
+3 PAGE Year: 1900; Census Place: Worcester Ward 3, Worcester, Massa
+4 CONC chusetts; Page: 3; Enumeration District: 1731; FHL microfilm
+4 CONC : 1240696
+3 OBJE @M124@
+3 _APID 7602:75706867
+1 EVEN
+2 TYPE Arrival
+2 DATE 1890
+2 SOUR @S8@
+3 PAGE Year: 1900; Census Place: Worcester Ward 3, Worcester, Massa
+4 CONC chusetts; Page: 3; Enumeration District: 1731; FHL microfilm
+4 CONC : 1240696
+3 OBJE @M124@
+3 _APID 7602:75706867
+1 RESI
+2 DATE 1900
+2 PLAC 20 Harrison Street, Worcester, Worcester, Massachusetts, USA
+2 SOUR @S8@
+3 PAGE Year: 1900; Census Place: Worcester Ward 3, Worcester, Massa
+4 CONC chusetts; Page: 3; Enumeration District: 1731; FHL microfilm
+4 CONC : 1240696
+3 OBJE @M124@
+3 _APID 7602:75706867
+2 NOTE Marital Status: Single; Relation to Head: Daughter
+1 _GUID 44e3dec4-5fe6-4086-8a09-d4de42761444
+0 @I146@ INDI
+1 NAME Solomon /Lehner/
+2 SOUR @S8@
+3 PAGE Year: 1900; Census Place: Worcester Ward 3, Worcester, Massa
+4 CONC chusetts; Page: 3; Enumeration District: 1731; FHL microfilm
+4 CONC : 1240696
+3 OBJE @M124@
+3 _APID 7602:75706869
+1 SEX M
+1 FAMC @F98@
+1 BIRT
+2 DATE DEC 1885
+2 PLAC Russia
+2 SOUR @S8@
+3 PAGE Year: 1900; Census Place: Worcester Ward 3, Worcester, Massa
+4 CONC chusetts; Page: 3; Enumeration District: 1731; FHL microfilm
+4 CONC : 1240696
+3 OBJE @M124@
+3 _APID 7602:75706869
+1 EVEN
+2 TYPE Arrival
+2 DATE 1890
+2 SOUR @S8@
+3 PAGE Year: 1900; Census Place: Worcester Ward 3, Worcester, Massa
+4 CONC chusetts; Page: 3; Enumeration District: 1731; FHL microfilm
+4 CONC : 1240696
+3 OBJE @M124@
+3 _APID 7602:75706869
+1 RESI
+2 DATE 1900
+2 PLAC 20 Harrison Street, Worcester, Worcester, Massachusetts, USA
+2 SOUR @S8@
+3 PAGE Year: 1900; Census Place: Worcester Ward 3, Worcester, Massa
+4 CONC chusetts; Page: 3; Enumeration District: 1731; FHL microfilm
+4 CONC : 1240696
+3 OBJE @M124@
+3 _APID 7602:75706869
+2 NOTE Marital Status: Single; Relation to Head: Son
+1 _GUID d7c70f89-7d75-4d45-a9e6-57c7ba2174ae
 0 @I112@ INDI
 1 NAME Lena //
 2 SOUR @S8@
@@ -4420,6 +5804,12 @@
 0 @I85@ INDI
 1 REFN 84aaf2ef-4762-483e-87f3-edae37c36baa
 1 NAME Abraham /Levites/
+2 SOUR @S12@
+3 PAGE Year: 1910; Census Place: Manhattan Ward 7, New York, New Yo
+4 CONC rk; Roll: T624_1007; Page: 5B; Enumeration District: 0066; F
+4 CONC HL microfilm: 1375020
+3 OBJE @M135@
+3 _APID 7884:18562065
 2 SOUR @S3@
 3 PAGE Year: 1920; Census Place: Manhattan Assembly District 6, Ne
 4 CONC w York, New York; Roll: T625_1195; Page: 1A; Enumeration Dis
@@ -4433,6 +5823,12 @@
 1 BIRT
 2 DATE ABT 1882
 2 PLAC Russia
+2 SOUR @S12@
+3 PAGE Year: 1910; Census Place: Manhattan Ward 7, New York, New Yo
+4 CONC rk; Roll: T624_1007; Page: 5B; Enumeration District: 0066; F
+4 CONC HL microfilm: 1375020
+3 OBJE @M135@
+3 _APID 7884:18562065
 2 SOUR @S3@
 3 PAGE Year: 1920; Census Place: Manhattan Assembly District 6, Ne
 4 CONC w York, New York; Roll: T625_1195; Page: 1A; Enumeration Dis
@@ -4442,12 +5838,28 @@
 1 EVEN
 2 TYPE Arrival
 2 DATE 1903
+2 SOUR @S12@
+3 PAGE Year: 1910; Census Place: Manhattan Ward 7, New York, New Yo
+4 CONC rk; Roll: T624_1007; Page: 5B; Enumeration District: 0066; F
+4 CONC HL microfilm: 1375020
+3 OBJE @M135@
+3 _APID 7884:18562065
 2 SOUR @S3@
 3 PAGE Year: 1920; Census Place: Manhattan Assembly District 6, Ne
 4 CONC w York, New York; Roll: T625_1195; Page: 1A; Enumeration Dis
 4 CONC trict: 478
 3 OBJE @M39@
 3 _APID 6061:32442019
+1 RESI
+2 DATE 1910
+2 PLAC 126 Henry Street, Manhattan, New York City, New York, USA
+2 SOUR @S12@
+3 PAGE Year: 1910; Census Place: Manhattan Ward 7, New York, New Yo
+4 CONC rk; Roll: T624_1007; Page: 5B; Enumeration District: 0066; F
+4 CONC HL microfilm: 1375020
+3 OBJE @M135@
+3 _APID 7884:18562065
+2 NOTE Marital Status: Married; Relation to Head of House: Head
 1 RESI
 2 DATE 1920
 2 PLAC Manhattan, New York City, New York, USA
@@ -4462,6 +5874,12 @@
 0 @I58@ INDI
 1 REFN 3b3faba2-7154-4183-88b0-c27492a3df78
 1 NAME Annie /Levites/
+2 SOUR @S12@
+3 PAGE Year: 1910; Census Place: Manhattan Ward 7, New York, New Yo
+4 CONC rk; Roll: T624_1007; Page: 5B; Enumeration District: 0066; F
+4 CONC HL microfilm: 1375020
+3 OBJE @M135@
+3 _APID 7884:138115102
 2 SOUR @S3@
 3 PAGE Year: 1920; Census Place: Manhattan Assembly District 6, Ne
 4 CONC w York, New York; Roll: T625_1195; Page: 1A; Enumeration Dis
@@ -4476,12 +5894,28 @@
 3 MAP
 4 LATI N42.7531
 4 LONG W74.2224
+2 SOUR @S12@
+3 PAGE Year: 1910; Census Place: Manhattan Ward 7, New York, New Yo
+4 CONC rk; Roll: T624_1007; Page: 5B; Enumeration District: 0066; F
+4 CONC HL microfilm: 1375020
+3 OBJE @M135@
+3 _APID 7884:138115102
 2 SOUR @S3@
 3 PAGE Year: 1920; Census Place: Manhattan Assembly District 6, Ne
 4 CONC w York, New York; Roll: T625_1195; Page: 1A; Enumeration Dis
 4 CONC trict: 478
 3 OBJE @M39@
 3 _APID 6061:32442022
+1 RESI
+2 DATE 1910
+2 PLAC 126 Henry Street, Manhattan, New York City, New York, USA
+2 SOUR @S12@
+3 PAGE Year: 1910; Census Place: Manhattan Ward 7, New York, New Yo
+4 CONC rk; Roll: T624_1007; Page: 5B; Enumeration District: 0066; F
+4 CONC HL microfilm: 1375020
+3 OBJE @M135@
+3 _APID 7884:138115102
+2 NOTE Marital Status: Single; Relation to Head of House: Daughter
 1 RESI
 2 DATE 1920
 2 PLAC Manhattan, New York City, New York, USA
@@ -4499,6 +5933,12 @@
 0 @I69@ INDI
 1 REFN d0fa0dc1-22c0-44b3-b53e-0b5d50ee4205
 1 NAME Morris /Levites/
+2 SOUR @S12@
+3 PAGE Year: 1910; Census Place: Manhattan Ward 7, New York, New Yo
+4 CONC rk; Roll: T624_1007; Page: 5B; Enumeration District: 0066; F
+4 CONC HL microfilm: 1375020
+3 OBJE @M135@
+3 _APID 7884:138115101
 2 SOUR @S3@
 3 PAGE Year: 1920; Census Place: Manhattan Assembly District 6, Ne
 4 CONC w York, New York; Roll: T625_1195; Page: 1A; Enumeration Dis
@@ -4513,12 +5953,28 @@
 3 MAP
 4 LATI N42.7531
 4 LONG W74.2224
+2 SOUR @S12@
+3 PAGE Year: 1910; Census Place: Manhattan Ward 7, New York, New Yo
+4 CONC rk; Roll: T624_1007; Page: 5B; Enumeration District: 0066; F
+4 CONC HL microfilm: 1375020
+3 OBJE @M135@
+3 _APID 7884:138115101
 2 SOUR @S3@
 3 PAGE Year: 1920; Census Place: Manhattan Assembly District 6, Ne
 4 CONC w York, New York; Roll: T625_1195; Page: 1A; Enumeration Dis
 4 CONC trict: 478
 3 OBJE @M39@
 3 _APID 6061:32442021
+1 RESI
+2 DATE 1910
+2 PLAC 126 Henry Street, Manhattan, New York City, New York, USA
+2 SOUR @S12@
+3 PAGE Year: 1910; Census Place: Manhattan Ward 7, New York, New Yo
+4 CONC rk; Roll: T624_1007; Page: 5B; Enumeration District: 0066; F
+4 CONC HL microfilm: 1375020
+3 OBJE @M135@
+3 _APID 7884:138115101
+2 NOTE Marital Status: Single; Relation to Head of House: Son
 1 RESI
 2 DATE 1920
 2 PLAC Manhattan, New York City, New York, USA
@@ -6495,21 +7951,44 @@
 0 @I2@ INDI
 1 REFN 4efb3eb5-4011-4270-9557-47620a443e00
 1 NAME Abraham /Rosanoff/
+2 SOUR @S12@
+3 PAGE Year: 1910; Census Place: Manhattan Ward 7, New York, New Yo
+4 CONC rk; Roll: T624_1008; Page: 26A; Enumeration District: 0095
+4 CONC ; FHL microfilm: 1375021
+3 OBJE @M144@
+3 _APID 7884:103405617
 1 SEX M
 1 FAMC @F13@
 1 BIRT
 2 DATE ABT 1887
+2 PLAC Russia
+2 SOUR @S12@
+3 PAGE Year: 1910; Census Place: Manhattan Ward 7, New York, New Yo
+4 CONC rk; Roll: T624_1008; Page: 26A; Enumeration District: 0095
+4 CONC ; FHL microfilm: 1375021
+3 OBJE @M144@
+3 _APID 7884:103405617
+1 EVEN
+2 TYPE Arrival
+2 DATE 1902
+2 SOUR @S12@
+3 PAGE Year: 1910; Census Place: Manhattan Ward 7, New York, New Yo
+4 CONC rk; Roll: T624_1008; Page: 26A; Enumeration District: 0095
+4 CONC ; FHL microfilm: 1375021
+3 OBJE @M144@
+3 _APID 7884:103405617
+1 RESI
+2 DATE 1910
+2 PLAC 333-43 Madison Street, Manhattan, New York City, New York, U
+3 CONC SA
+2 SOUR @S12@
+3 PAGE Year: 1910; Census Place: Manhattan Ward 7, New York, New Yo
+4 CONC rk; Roll: T624_1008; Page: 26A; Enumeration District: 0095
+4 CONC ; FHL microfilm: 1375021
+3 OBJE @M144@
+3 _APID 7884:103405617
+2 NOTE Marital Status: Single; Relation to Head of House: Son
 1 _GUID 07a30129-fdaa-4bac-befa-1ce0f158b8b7
-0 @I54@ INDI
-1 REFN abf04c93-4119-40f0-852f-37deb5c0a4b2
-1 NAME Bernard /Rosanoff/
-1 SEX M
-1 FAMS @F13@
-1 BIRT
-2 DATE ABT 1835
-1 DEAT
-2 DATE ABT 1910
-1 _GUID 5789842f-7e83-47ab-bc25-ff582ce71e72
 0 @I66@ INDI
 1 REFN 363ef887-c7c5-4795-81c7-d42536e7b735
 1 NAME Elizabeth /Rosanoff/
@@ -6519,6 +7998,12 @@
 4 CONC ; FHL microfilm: 1375024
 3 OBJE @M38@
 3 _APID 7884:100608851
+2 SOUR @S7@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1905; Election District: A.D. 12 E.D. 08
+4 CONC ; City: Manhattan; County: New York; Page: 117
+3 OBJE @M138@
+3 _APID 7364:6656697
 1 SEX F
 1 FAMC @F54@
 1 BIRT
@@ -6533,6 +8018,22 @@
 4 CONC ; FHL microfilm: 1375024
 3 OBJE @M38@
 3 _APID 7884:100608851
+2 SOUR @S7@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1905; Election District: A.D. 12 E.D. 08
+4 CONC ; City: Manhattan; County: New York; Page: 117
+3 OBJE @M138@
+3 _APID 7364:6656697
+1 RESI
+2 DATE 1905
+2 PLAC 270 Delancey Street, Manhattan, New York, New York, USA
+2 SOUR @S7@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1905; Election District: A.D. 12 E.D. 08
+4 CONC ; City: Manhattan; County: New York; Page: 117
+3 OBJE @M138@
+3 _APID 7364:6656697
+2 NOTE Relationship to Head: Daughter
 1 RESI
 2 DATE 1910
 2 PLAC Manhattan, New York City, New York, USA
@@ -6553,6 +8054,12 @@
 4 CONC ; FHL microfilm: 1375024
 3 OBJE @M38@
 3 _APID 7884:100608852
+2 SOUR @S7@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1905; Election District: A.D. 12 E.D. 08
+4 CONC ; City: Manhattan; County: New York; Page: 117
+3 OBJE @M138@
+3 _APID 7364:6656698
 1 SEX F
 1 FAMC @F54@
 1 BIRT
@@ -6567,6 +8074,22 @@
 4 CONC ; FHL microfilm: 1375024
 3 OBJE @M38@
 3 _APID 7884:100608852
+2 SOUR @S7@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1905; Election District: A.D. 12 E.D. 08
+4 CONC ; City: Manhattan; County: New York; Page: 117
+3 OBJE @M138@
+3 _APID 7364:6656698
+1 RESI
+2 DATE 1905
+2 PLAC 270 Delancey Street, Manhattan, New York, New York, USA
+2 SOUR @S7@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1905; Election District: A.D. 12 E.D. 08
+4 CONC ; City: Manhattan; County: New York; Page: 117
+3 OBJE @M138@
+3 _APID 7364:6656698
+2 NOTE Relationship to Head: Daughter
 1 RESI
 2 DATE 1910
 2 PLAC Manhattan, New York City, New York, USA
@@ -6589,6 +8112,19 @@
 3 _APID 7884:103410288
 2 SOUR @S14@
 3 _APID 9131:2080416
+2 SOUR @S29@
+3 PAGE New York City Department of Records & Information Services
+4 CONC ; New York City, New York; New York City Death Certificates
+3 _APID 61778:76619644
+2 SOUR @S29@
+3 PAGE New York City Department of Records & Information Services
+4 CONC ; New York City, New York; New York City Death Certificates
+3 _APID 61778:76529718
+2 SOUR @S29@
+3 PAGE New York City Department of Records & Information Services
+4 CONC ; New York City, New York; New York City Death Certificates
+4 CONC ; Borough: Brooklyn; Year: 1918
+3 _APID 61778:1745718
 2 SOUR @S7@
 3 PAGE New York State Archives; Albany, New York; State Populatio
 4 CONC n Census Schedules, 1905; Election District: A.D. 12 E.D. 10
@@ -6607,8 +8143,11 @@
 1 FAMC @F13@
 1 FAMS @F6@
 1 BIRT
-2 DATE 1870
-2 PLAC Galicia
+2 DATE ABT 1879
+2 PLAC Kiev, Kiev, Ukraine
+3 MAP
+4 LATI N50.45
+4 LONG E30.5233
 2 SOUR @S12@
 3 PAGE Year: 1910; Census Place: Manhattan Ward 7, New York, New Yo
 4 CONC rk; Roll: T624_1008; Page: 3B; Enumeration District: 0097; F
@@ -6617,6 +8156,19 @@
 3 _APID 7884:103410288
 2 SOUR @S14@
 3 _APID 9131:2080416
+2 SOUR @S29@
+3 PAGE New York City Department of Records & Information Services
+4 CONC ; New York City, New York; New York City Death Certificates
+3 _APID 61778:76619644
+2 SOUR @S29@
+3 PAGE New York City Department of Records & Information Services
+4 CONC ; New York City, New York; New York City Death Certificates
+3 _APID 61778:76529718
+2 SOUR @S29@
+3 PAGE New York City Department of Records & Information Services
+4 CONC ; New York City, New York; New York City Death Certificates
+4 CONC ; Borough: Brooklyn; Year: 1918
+3 _APID 61778:1745718
 2 SOUR @S7@
 3 PAGE New York State Archives; Albany, New York; State Populatio
 4 CONC n Census Schedules, 1905; Election District: A.D. 12 E.D. 10
@@ -6634,16 +8186,18 @@
 2 DATE 1899
 1 EVEN
 2 TYPE Arrival
-2 DATE 1905
-2 SOUR @S12@
-3 PAGE Year: 1910; Census Place: Manhattan Ward 7, New York, New Yo
-4 CONC rk; Roll: T624_1008; Page: 3B; Enumeration District: 0097; F
-4 CONC HL microfilm: 1375021
-3 OBJE @M6@
-3 _APID 7884:103410288
+2 DATE ABT 15 MAR 1905
+2 PLAC Manhattan, New York City, New York, USA
+2 SOUR @S7@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1905; Election District: A.D. 12 E.D. 10
+4 CONC ; City: Manhattan; County: New York; Page: 22
+3 OBJE @M49@
+3 _APID 7364:376673
 1 RESI
 2 DATE 1905
-2 PLAC Manhattan, New York City, New York, USA
+2 PLAC 3 Goerick Street, Lower East Side, Manhattan, New York City
+3 CONC , New York, USA
 2 SOUR @S7@
 3 PAGE New York State Archives; Albany, New York; State Populatio
 4 CONC n Census Schedules, 1905; Election District: A.D. 12 E.D. 10
@@ -6674,26 +8228,141 @@
 3 _APID 2703:10857224
 2 NOTE Relation to Head of House: Wife
 1 DEAT
-2 DATE 19 MAY 1917
+2 DATE 18 DEC 1918
 2 PLAC Brooklyn, New York City, New York, USA
 2 SOUR @S14@
 3 _APID 9131:2080416
+2 SOUR @S29@
+3 PAGE New York City Department of Records & Information Services
+4 CONC ; New York City, New York; New York City Death Certificates
+4 CONC ; Borough: Brooklyn; Year: 1918
+3 _APID 61778:1745718
+1 BURI
+2 DATE 19 DEC 1918
+2 PLAC Mount Carmel Cemetery, Queens, New York City, New York, USA
+2 SOUR @S29@
+3 PAGE New York City Department of Records & Information Services
+4 CONC ; New York City, New York; New York City Death Certificates
+4 CONC ; Borough: Brooklyn; Year: 1918
+3 _APID 61778:1745718
 1 _GUID 3798dd1c-5033-425b-b349-5f9cc06c448d
+0 @I154@ INDI
+1 NAME Harry /Rosanoff/
+2 SOUR @S3@
+3 PAGE Year: 1920; Census Place: Manhattan Assembly District 4, Ne
+4 CONC w York, New York; Roll: T625_1191; Page: 4A; Enumeration Dis
+4 CONC trict: 328
+3 OBJE @M132@
+3 _APID 6061:32391035
+1 SEX M
+1 FAMC @F13@
+1 BIRT
+2 DATE ABT 1902
+2 PLAC Russia
+2 SOUR @S3@
+3 PAGE Year: 1920; Census Place: Manhattan Assembly District 4, Ne
+4 CONC w York, New York; Roll: T625_1191; Page: 4A; Enumeration Dis
+4 CONC trict: 328
+3 OBJE @M132@
+3 _APID 6061:32391035
+1 EVEN
+2 TYPE Arrival
+2 DATE 1904
+2 SOUR @S3@
+3 PAGE Year: 1920; Census Place: Manhattan Assembly District 4, Ne
+4 CONC w York, New York; Roll: T625_1191; Page: 4A; Enumeration Dis
+4 CONC trict: 328
+3 OBJE @M132@
+3 _APID 6061:32391035
+1 RESI
+2 DATE 1920
+2 PLAC 284 Henry Street, Manhattan, New York City, New York, USA
+2 SOUR @S3@
+3 PAGE Year: 1920; Census Place: Manhattan Assembly District 4, Ne
+4 CONC w York, New York; Roll: T625_1191; Page: 4A; Enumeration Dis
+4 CONC trict: 328
+3 OBJE @M132@
+3 _APID 6061:32391035
+2 NOTE Marital Status: Single; Relation to Head: Son
+1 _GUID 8a8ccdb8-e4a5-40fe-b605-74196f169710
 0 @I5@ INDI
 1 REFN 21a990e3-6f3b-4e86-b702-fadaf10df9a3
 1 NAME Katie /Rosanoff/
+2 SOUR @S12@
+3 PAGE Year: 1910; Census Place: Manhattan Ward 7, New York, New Yo
+4 CONC rk; Roll: T624_1008; Page: 26A; Enumeration District: 0095
+4 CONC ; FHL microfilm: 1375021
+3 OBJE @M144@
+3 _APID 7884:103405620
 1 SEX F
 1 FAMC @F13@
+1 BIRT
+2 DATE ABT 1893
+2 PLAC Russia
+2 SOUR @S12@
+3 PAGE Year: 1910; Census Place: Manhattan Ward 7, New York, New Yo
+4 CONC rk; Roll: T624_1008; Page: 26A; Enumeration District: 0095
+4 CONC ; FHL microfilm: 1375021
+3 OBJE @M144@
+3 _APID 7884:103405620
+1 EVEN
+2 TYPE Arrival
+2 DATE 1905
+2 SOUR @S12@
+3 PAGE Year: 1910; Census Place: Manhattan Ward 7, New York, New Yo
+4 CONC rk; Roll: T624_1008; Page: 26A; Enumeration District: 0095
+4 CONC ; FHL microfilm: 1375021
+3 OBJE @M144@
+3 _APID 7884:103405620
+1 RESI
+2 DATE 1910
+2 PLAC 333-43 Madison Street, Manhattan, New York City, New York, U
+3 CONC SA
+2 SOUR @S12@
+3 PAGE Year: 1910; Census Place: Manhattan Ward 7, New York, New Yo
+4 CONC rk; Roll: T624_1008; Page: 26A; Enumeration District: 0095
+4 CONC ; FHL microfilm: 1375021
+3 OBJE @M144@
+3 _APID 7884:103405620
+2 NOTE Marital Status: Single; Relation to Head of House: Daughter
 1 _GUID 3b7cd251-f117-4234-9161-c1abcaba3850
 0 @I57@ INDI
 1 REFN 1615dc7b-47f4-4429-9122-ad670d28f8e2
 1 NAME Leah /Rosanoff/
+2 SOUR @S12@
+3 PAGE Year: 1910; Census Place: Manhattan Ward 7, New York, New Yo
+4 CONC rk; Roll: T624_1008; Page: 4A; Enumeration District: 0097; F
+4 CONC HL microfilm: 1375021
+3 OBJE @M147@
+3 _APID 7884:103410333
+2 SOUR @S3@
+3 PAGE Year: 1920; Census Place: Brooklyn Assembly District 3, King
+4 CONC s, New York; Roll: T625_1148; Page: 7A; Enumeration District
+4 CONC : 1664
+3 OBJE @M149@
+3 _APID 6061:110125075
+2 SOUR @S29@
+3 PAGE New York City Department of Records & Information Services
+4 CONC ; New York City, New York; New York City Death Certificates
+4 CONC ; Borough: Brooklyn; Year: 1926
+3 _APID 61778:1916054
+2 SOUR @S28@
+3 PAGE Year: 1903; Arrival: New York, New York, USA; Microfilm Seri
+4 CONC al: T715, 1897-1957; Line: 19; Page Number: 96
+3 OBJE @M146@
+3 _APID 7488:4001797562
 2 SOUR @S7@
 3 PAGE New York State Archives; Albany, New York; State Populatio
 4 CONC n Census Schedules, 1905; Election District: A.D. 12 E.D. 10
 4 CONC ; City: Manhattan; County: New York; Page: 22
 3 OBJE @M49@
 3 _APID 7364:3879860
+2 SOUR @S13@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1915; Election District: 08; Assembly Di
+4 CONC strict: 09; City: New York; County: Kings; Page: 15
+3 OBJE @M148@
+3 _APID 2703:10884914
 2 SOUR @S4@
 3 PAGE New York State Archives; Albany, New York; State Populatio
 4 CONC n Census Schedules, 1925; Election District: 23; Assembly Di
@@ -6704,23 +8373,87 @@
 1 FAMC @F13@
 1 FAMS @F45@
 1 BIRT
-2 DATE ABT 1880
+2 DATE 15 MAR 1882
 2 PLAC Russia
+2 SOUR @S12@
+3 PAGE Year: 1910; Census Place: Manhattan Ward 7, New York, New Yo
+4 CONC rk; Roll: T624_1008; Page: 4A; Enumeration District: 0097; F
+4 CONC HL microfilm: 1375021
+3 OBJE @M147@
+3 _APID 7884:103410333
+2 SOUR @S3@
+3 PAGE Year: 1920; Census Place: Brooklyn Assembly District 3, King
+4 CONC s, New York; Roll: T625_1148; Page: 7A; Enumeration District
+4 CONC : 1664
+3 OBJE @M149@
+3 _APID 6061:110125075
+2 SOUR @S29@
+3 PAGE New York City Department of Records & Information Services
+4 CONC ; New York City, New York; New York City Death Certificates
+4 CONC ; Borough: Brooklyn; Year: 1926
+3 _APID 61778:1916054
 2 SOUR @S7@
 3 PAGE New York State Archives; Albany, New York; State Populatio
 4 CONC n Census Schedules, 1905; Election District: A.D. 12 E.D. 10
 4 CONC ; City: Manhattan; County: New York; Page: 22
 3 OBJE @M49@
 3 _APID 7364:3879860
+2 SOUR @S13@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1915; Election District: 08; Assembly Di
+4 CONC strict: 09; City: New York; County: Kings; Page: 15
+3 OBJE @M148@
+3 _APID 2703:10884914
 2 SOUR @S4@
 3 PAGE New York State Archives; Albany, New York; State Populatio
 4 CONC n Census Schedules, 1925; Election District: 23; Assembly Di
 4 CONC strict: 03; City: Brooklyn; County: Kings; Page: 6
 3 OBJE @M46@
 3 _APID 2704:21037303
+1 BIRT
+2 DATE ABT 1877
+2 PLAC Russia
+2 SOUR @S28@
+3 PAGE Year: 1903; Arrival: New York, New York, USA; Microfilm Seri
+4 CONC al: T715, 1897-1957; Line: 19; Page Number: 96
+3 OBJE @M146@
+3 _APID 7488:4001797562
+1 EVEN
+2 TYPE Departure
+2 DATE 15 FEB 1903
+2 PLAC Southampton, Hampshire, England
+3 MAP
+4 LATI N50.9
+4 LONG W1.4
+2 SOUR @S28@
+3 PAGE Year: 1903; Arrival: New York, New York, USA; Microfilm Seri
+4 CONC al: T715, 1897-1957; Line: 19; Page Number: 96
+3 OBJE @M146@
+3 _APID 7488:4001797562
+1 EVEN
+2 TYPE Arrival
+2 DATE 24 FEB 1903
+2 PLAC Manhattan, New York City, New York, USA
+2 SOUR @S12@
+3 PAGE Year: 1910; Census Place: Manhattan Ward 7, New York, New Yo
+4 CONC rk; Roll: T624_1008; Page: 4A; Enumeration District: 0097; F
+4 CONC HL microfilm: 1375021
+3 OBJE @M147@
+3 _APID 7884:103410333
+2 SOUR @S3@
+3 PAGE Year: 1920; Census Place: Brooklyn Assembly District 3, King
+4 CONC s, New York; Roll: T625_1148; Page: 7A; Enumeration District
+4 CONC : 1664
+3 OBJE @M149@
+3 _APID 6061:110125075
+2 SOUR @S28@
+3 PAGE Year: 1903; Arrival: New York, New York, USA; Microfilm Seri
+4 CONC al: T715, 1897-1957; Line: 19; Page Number: 96
+3 OBJE @M146@
+3 _APID 7488:4001797562
 1 RESI
 2 DATE 1905
-2 PLAC Manhattan, New York City, New York, USA
+2 PLAC 3 Goerick Street, Manhattan, New York City, New York, USA
 2 SOUR @S7@
 3 PAGE New York State Archives; Albany, New York; State Populatio
 4 CONC n Census Schedules, 1905; Election District: A.D. 12 E.D. 10
@@ -6728,6 +8461,36 @@
 3 OBJE @M49@
 3 _APID 7364:3879860
 2 NOTE Relationship to Head: Wife
+1 RESI
+2 DATE 1910
+2 PLAC 35 Jackson Street, Manhattan, New York City, New York, USA
+2 SOUR @S12@
+3 PAGE Year: 1910; Census Place: Manhattan Ward 7, New York, New Yo
+4 CONC rk; Roll: T624_1008; Page: 4A; Enumeration District: 0097; F
+4 CONC HL microfilm: 1375021
+3 OBJE @M147@
+3 _APID 7884:103410333
+2 NOTE Marital Status: Married; Relation to Head of House: Wife
+1 RESI
+2 DATE 01 JUN 1915
+2 PLAC 270 48th Street, Brooklyn, New York City, New York, USA
+2 SOUR @S13@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1915; Election District: 08; Assembly Di
+4 CONC strict: 09; City: New York; County: Kings; Page: 15
+3 OBJE @M148@
+3 _APID 2703:10884914
+2 NOTE Relation to Head of House: Wife
+1 RESI
+2 DATE 1920
+2 PLAC 270 48th Street, Brooklyn, New York City, New York, USA
+2 SOUR @S3@
+3 PAGE Year: 1920; Census Place: Brooklyn Assembly District 3, King
+4 CONC s, New York; Roll: T625_1148; Page: 7A; Enumeration District
+4 CONC : 1664
+3 OBJE @M149@
+3 _APID 6061:110125075
+2 NOTE Marital Status: Married; Relation to Head: Wife
 1 RESI
 2 DATE 01 JUN 1925
 2 PLAC Brooklyn, New York City, New York, USA
@@ -6738,6 +8501,32 @@
 3 OBJE @M46@
 3 _APID 2704:21037303
 2 NOTE Relation to Head of House: Wife
+1 DEAT
+2 DATE 02 MAR 1926
+2 PLAC New York City, New York, USA
+2 SOUR @S29@
+3 PAGE New York City Department of Records & Information Services
+4 CONC ; New York City, New York; New York City Death Certificates
+4 CONC ; Borough: Brooklyn; Year: 1926
+3 _APID 61778:1916054
+1 BURI
+2 DATE 03 MAR 1926
+2 PLAC Mount Judah Cemetery, Queens, New York City, New York, USA
+2 SOUR @S29@
+3 PAGE New York City Department of Records & Information Services
+4 CONC ; New York City, New York; New York City Death Certificates
+4 CONC ; Borough: Brooklyn; Year: 1926
+3 _APID 61778:1916054
+1 RESI
+2 PLAC London, England
+3 MAP
+4 LATI N51.4611
+4 LONG W0.0667
+2 SOUR @S28@
+3 PAGE Year: 1903; Arrival: New York, New York, USA; Microfilm Seri
+4 CONC al: T715, 1897-1957; Line: 19; Page Number: 96
+3 OBJE @M146@
+3 _APID 7488:4001797562
 1 _GUID 0fbd6396-bcd7-4576-bbd1-b62d3b07b334
 0 @I65@ INDI
 1 REFN 9e408bdf-adbb-460f-a164-f3fe371f4ae6
@@ -6748,6 +8537,12 @@
 4 CONC ; FHL microfilm: 1375024
 3 OBJE @M36@
 3 _APID 7884:100608850
+2 SOUR @S7@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1905; Election District: A.D. 12 E.D. 08
+4 CONC ; City: Manhattan; County: New York; Page: 117
+3 OBJE @M138@
+3 _APID 7364:6656696
 1 SEX M
 1 FAMC @F54@
 1 BIRT
@@ -6759,6 +8554,12 @@
 4 CONC ; FHL microfilm: 1375024
 3 OBJE @M36@
 3 _APID 7884:100608850
+2 SOUR @S7@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1905; Election District: A.D. 12 E.D. 08
+4 CONC ; City: Manhattan; County: New York; Page: 117
+3 OBJE @M138@
+3 _APID 7364:6656696
 1 EVEN
 2 TYPE Arrival
 2 DATE 1898
@@ -6768,6 +8569,16 @@
 4 CONC ; FHL microfilm: 1375024
 3 OBJE @M36@
 3 _APID 7884:100608850
+1 RESI
+2 DATE 1905
+2 PLAC 270 Delancey Street, Manhattan, New York, New York, USA
+2 SOUR @S7@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1905; Election District: A.D. 12 E.D. 08
+4 CONC ; City: Manhattan; County: New York; Page: 117
+3 OBJE @M138@
+3 _APID 7364:6656696
+2 NOTE Relationship to Head: Son
 1 RESI
 2 DATE 1910
 2 PLAC Manhattan, New York City, New York, USA
@@ -6779,15 +8590,58 @@
 3 _APID 7884:100608850
 2 NOTE Marital Status: Single; Relation to Head of House: Son
 1 _GUID 0a7572c6-5bf2-4a1e-9728-56623dde191f
+0 @I54@ INDI
+1 REFN abf04c93-4119-40f0-852f-37deb5c0a4b2
+1 NAME Moishe /Rosanoff/
+2 SOUR @S29@
+3 PAGE New York City Department of Records & Information Services
+4 CONC ; New York City, New York; New York City Death Certificates
+3 _APID 61778:62202490
+1 NAME Bernard /Rosanoff/
+2 SOUR @S29@
+3 PAGE New York City Department of Records & Information Services
+4 CONC ; New York City, New York; New York City Death Certificates
+3 _APID 61778:61916054
+1 SEX M
+1 FAMS @F13@
+1 BIRT
+2 DATE ABT 1835
+2 PLAC Kiev, Kiev, Ukraine
+3 MAP
+4 LATI N50.45
+4 LONG E30.5233
+2 SOUR @S29@
+3 PAGE New York City Department of Records & Information Services
+4 CONC ; New York City, New York; New York City Death Certificates
+3 _APID 61778:61916054
+2 SOUR @S29@
+3 PAGE New York City Department of Records & Information Services
+4 CONC ; New York City, New York; New York City Death Certificates
+3 _APID 61778:62202490
+1 DEAT
+2 DATE ABT 1910
+2 PLAC New York City, New York, USA
+1 _GUID 5789842f-7e83-47ab-bc25-ff582ce71e72
 0 @I1@ INDI
 1 REFN 872e908d-f889-45bc-9eb0-88b5d1f7f8b2
 1 NAME Mollie /Rosanoff/
+2 SOUR @S12@
+3 PAGE Year: 1910; Census Place: Manhattan Ward 7, New York, New Yo
+4 CONC rk; Roll: T624_1007; Page: 5B; Enumeration District: 0066; F
+4 CONC HL microfilm: 1375020
+3 OBJE @M135@
+3 _APID 7884:138115100
 2 SOUR @S3@
 3 PAGE Year: 1920; Census Place: Manhattan Assembly District 6, Ne
 4 CONC w York, New York; Roll: T625_1195; Page: 1A; Enumeration Dis
 4 CONC trict: 478
 3 OBJE @M39@
 3 _APID 6061:32442020
+2 SOUR @S29@
+3 PAGE New York City Department of Records & Information Services
+4 CONC ; New York City, New York; New York City Death Certificates
+4 CONC ; Borough: Brooklyn; Year: 1937
+3 _APID 61778:2202490
 2 SOUR @S2@
 3 _APID 60901:778441702
 1 SEX F
@@ -6796,21 +8650,48 @@
 1 BIRT
 2 DATE ABT 1884
 2 PLAC Russia
+2 SOUR @S12@
+3 PAGE Year: 1910; Census Place: Manhattan Ward 7, New York, New Yo
+4 CONC rk; Roll: T624_1007; Page: 5B; Enumeration District: 0066; F
+4 CONC HL microfilm: 1375020
+3 OBJE @M135@
+3 _APID 7884:138115100
 2 SOUR @S3@
 3 PAGE Year: 1920; Census Place: Manhattan Assembly District 6, Ne
 4 CONC w York, New York; Roll: T625_1195; Page: 1A; Enumeration Dis
 4 CONC trict: 478
 3 OBJE @M39@
 3 _APID 6061:32442020
+2 SOUR @S29@
+3 PAGE New York City Department of Records & Information Services
+4 CONC ; New York City, New York; New York City Death Certificates
+4 CONC ; Borough: Brooklyn; Year: 1937
+3 _APID 61778:2202490
 1 EVEN
 2 TYPE Arrival
 2 DATE 1901
+2 SOUR @S12@
+3 PAGE Year: 1910; Census Place: Manhattan Ward 7, New York, New Yo
+4 CONC rk; Roll: T624_1007; Page: 5B; Enumeration District: 0066; F
+4 CONC HL microfilm: 1375020
+3 OBJE @M135@
+3 _APID 7884:138115100
 2 SOUR @S3@
 3 PAGE Year: 1920; Census Place: Manhattan Assembly District 6, Ne
 4 CONC w York, New York; Roll: T625_1195; Page: 1A; Enumeration Dis
 4 CONC trict: 478
 3 OBJE @M39@
 3 _APID 6061:32442020
+1 RESI
+2 DATE 1910
+2 PLAC 126 Henry Street, Manhattan, New York City, New York, USA
+2 SOUR @S12@
+3 PAGE Year: 1910; Census Place: Manhattan Ward 7, New York, New Yo
+4 CONC rk; Roll: T624_1007; Page: 5B; Enumeration District: 0066; F
+4 CONC HL microfilm: 1375020
+3 OBJE @M135@
+3 _APID 7884:138115100
+2 NOTE Marital Status: Married; Relation to Head of House: Wife
 1 RESI
 2 DATE 1920
 2 PLAC Manhattan, New York City, New York, USA
@@ -6821,6 +8702,22 @@
 3 OBJE @M39@
 3 _APID 6061:32442020
 2 NOTE Relation to Head: Wife; Residence Marital Status: Married
+1 DEAT
+2 DATE 06 APR 1937
+2 PLAC New York City, New York, USA
+2 SOUR @S29@
+3 PAGE New York City Department of Records & Information Services
+4 CONC ; New York City, New York; New York City Death Certificates
+4 CONC ; Borough: Brooklyn; Year: 1937
+3 _APID 61778:2202490
+1 BURI
+2 DATE 07 APR 1937
+2 PLAC Beth David Cemetery, Elmont, Nassau, New York, USA
+2 SOUR @S29@
+3 PAGE New York City Department of Records & Information Services
+4 CONC ; New York City, New York; New York City Death Certificates
+4 CONC ; Borough: Brooklyn; Year: 1937
+3 _APID 61778:2202490
 1 _GUID d11db173-21e8-451e-8e0a-da80d165b8b6
 0 @I56@ INDI
 1 REFN fa9bc06d-b988-472e-92d2-9a673f2f37d6
@@ -6831,11 +8728,26 @@
 4 CONC ; FHL microfilm: 1375024
 3 OBJE @M36@
 3 _APID 7884:18629161
+2 SOUR @S9@
+3 PAGE National Archives and Records Administration; Washington, DC
+4 CONC ; NAI Title: Index to Petitions for Naturalizations Filed i
+4 CONC n Federal, State, and Local Courts in New York City, 1792-19
+4 CONC 06; NAI Number: 5700802; Record Group Title: Records of Dist
+4 CONC rict Courts of the United States, 1685-2009; Record Group Nu
+4 CONC mber: RG 21
+3 OBJE @M145@
+3 _APID 2280:504139
+2 SOUR @S7@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1905; Election District: A.D. 12 E.D. 08
+4 CONC ; City: Manhattan; County: New York; Page: 117
+3 OBJE @M138@
+3 _APID 7364:6656694
 1 SEX M
 1 FAMC @F13@
 1 FAMS @F54@
 1 BIRT
-2 DATE ABT 1874
+2 DATE JAN 1871
 2 PLAC Russia
 2 SOUR @S12@
 3 PAGE Year: 1910; Census Place: Manhattan Ward 11, New York, New Y
@@ -6843,6 +8755,21 @@
 4 CONC ; FHL microfilm: 1375024
 3 OBJE @M36@
 3 _APID 7884:18629161
+2 SOUR @S9@
+3 PAGE National Archives and Records Administration; Washington, DC
+4 CONC ; NAI Title: Index to Petitions for Naturalizations Filed i
+4 CONC n Federal, State, and Local Courts in New York City, 1792-19
+4 CONC 06; NAI Number: 5700802; Record Group Title: Records of Dist
+4 CONC rict Courts of the United States, 1685-2009; Record Group Nu
+4 CONC mber: RG 21
+3 OBJE @M145@
+3 _APID 2280:504139
+2 SOUR @S7@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1905; Election District: A.D. 12 E.D. 08
+4 CONC ; City: Manhattan; County: New York; Page: 117
+3 OBJE @M138@
+3 _APID 7364:6656694
 1 EVEN
 2 TYPE Arrival
 2 DATE 1893
@@ -6852,6 +8779,42 @@
 4 CONC ; FHL microfilm: 1375024
 3 OBJE @M36@
 3 _APID 7884:18629161
+1 EVEN
+2 TYPE Arrival
+2 DATE 25 OCT 1898
+2 PLAC Manhattan, New York City, New York, USA
+2 SOUR @S9@
+3 PAGE National Archives and Records Administration; Washington, DC
+4 CONC ; NAI Title: Index to Petitions for Naturalizations Filed i
+4 CONC n Federal, State, and Local Courts in New York City, 1792-19
+4 CONC 06; NAI Number: 5700802; Record Group Title: Records of Dist
+4 CONC rict Courts of the United States, 1685-2009; Record Group Nu
+4 CONC mber: RG 21
+3 OBJE @M145@
+3 _APID 2280:504139
+1 EVEN
+2 TYPE NaturalizationPetition
+2 DATE 10 MAR 1905
+2 PLAC Brooklyn, New York City, New York, USA
+2 SOUR @S9@
+3 PAGE National Archives and Records Administration; Washington, DC
+4 CONC ; NAI Title: Index to Petitions for Naturalizations Filed i
+4 CONC n Federal, State, and Local Courts in New York City, 1792-19
+4 CONC 06; NAI Number: 5700802; Record Group Title: Records of Dist
+4 CONC rict Courts of the United States, 1685-2009; Record Group Nu
+4 CONC mber: RG 21
+3 OBJE @M145@
+3 _APID 2280:504139
+1 RESI
+2 DATE 1905
+2 PLAC 270 Delancey Street, Manhattan, New York, New York, USA
+2 SOUR @S7@
+3 PAGE New York State Archives; Albany, New York; State Populatio
+4 CONC n Census Schedules, 1905; Election District: A.D. 12 E.D. 08
+4 CONC ; City: Manhattan; County: New York; Page: 117
+3 OBJE @M138@
+3 _APID 7364:6656694
+2 NOTE Relationship to Head: Head
 1 RESI
 2 DATE 1910
 2 PLAC Manhattan, New York City, New York, USA
@@ -6866,6 +8829,18 @@
 0 @I4@ INDI
 1 REFN a8e2004b-651e-4e37-92f8-257ab1efb0d7
 1 NAME Rebecca /Rosanoff/
+2 SOUR @S12@
+3 PAGE Year: 1910; Census Place: Manhattan Ward 7, New York, New Yo
+4 CONC rk; Roll: T624_1008; Page: 26A; Enumeration District: 0095
+4 CONC ; FHL microfilm: 1375021
+3 OBJE @M144@
+3 _APID 7884:103405619
+2 SOUR @S3@
+3 PAGE Year: 1920; Census Place: Manhattan Assembly District 4, Ne
+4 CONC w York, New York; Roll: T625_1191; Page: 4A; Enumeration Dis
+4 CONC trict: 328
+3 OBJE @M132@
+3 _APID 6061:32391034
 2 SOUR @S1@
 3 PAGE Year: 1930; Census Place: Bronx, Bronx, New York; Roll: 1467
 4 CONC ; Page: 12B; Enumeration District: 0150; FHL microfilm: 2341
@@ -6882,12 +8857,33 @@
 4 CONC h: Manhattan; Volume Number: 10
 3 OBJE @M65@
 3 _APID 61406:7950847
+2 SOUR @S30@
+3 OBJE @M150@
+3 _APID 61461:1519360
+2 SOUR @S15@
+3 _APID 9105:2990042
+2 SOUR @S20@
+3 _APID 60525:71574916
+2 SOUR @S2@
+3 _APID 60901:787227897
 1 SEX F
 1 FAMC @F13@
 1 FAMS @F47@
 1 BIRT
 2 DATE ABT 1891
 2 PLAC Russia
+2 SOUR @S12@
+3 PAGE Year: 1910; Census Place: Manhattan Ward 7, New York, New Yo
+4 CONC rk; Roll: T624_1008; Page: 26A; Enumeration District: 0095
+4 CONC ; FHL microfilm: 1375021
+3 OBJE @M144@
+3 _APID 7884:103405619
+2 SOUR @S3@
+3 PAGE Year: 1920; Census Place: Manhattan Assembly District 4, Ne
+4 CONC w York, New York; Roll: T625_1191; Page: 4A; Enumeration Dis
+4 CONC trict: 328
+3 OBJE @M132@
+3 _APID 6061:32391034
 2 SOUR @S1@
 3 PAGE Year: 1930; Census Place: Bronx, Bronx, New York; Roll: 1467
 4 CONC ; Page: 12B; Enumeration District: 0150; FHL microfilm: 2341
@@ -6899,15 +8895,51 @@
 4 CONC : T627_2631; Page: 61B; Enumeration District: 31-307
 3 OBJE @M41@
 3 _APID 2442:11539609
+2 SOUR @S30@
+3 OBJE @M150@
+3 _APID 61461:1519360
 1 EVEN
 2 TYPE Arrival
 2 DATE 1908
+2 SOUR @S12@
+3 PAGE Year: 1910; Census Place: Manhattan Ward 7, New York, New Yo
+4 CONC rk; Roll: T624_1008; Page: 26A; Enumeration District: 0095
+4 CONC ; FHL microfilm: 1375021
+3 OBJE @M144@
+3 _APID 7884:103405619
+2 SOUR @S3@
+3 PAGE Year: 1920; Census Place: Manhattan Assembly District 4, Ne
+4 CONC w York, New York; Roll: T625_1191; Page: 4A; Enumeration Dis
+4 CONC trict: 328
+3 OBJE @M132@
+3 _APID 6061:32391034
 2 SOUR @S1@
 3 PAGE Year: 1930; Census Place: Bronx, Bronx, New York; Roll: 1467
 4 CONC ; Page: 12B; Enumeration District: 0150; FHL microfilm: 2341
 4 CONC 202
 3 OBJE @M47@
 3 _APID 6224:31410101
+1 RESI
+2 DATE 1910
+2 PLAC 333-43 Madison Street, Manhattan, New York City, New York, U
+3 CONC SA
+2 SOUR @S12@
+3 PAGE Year: 1910; Census Place: Manhattan Ward 7, New York, New Yo
+4 CONC rk; Roll: T624_1008; Page: 26A; Enumeration District: 0095
+4 CONC ; FHL microfilm: 1375021
+3 OBJE @M144@
+3 _APID 7884:103405619
+2 NOTE Marital Status: Single; Relation to Head of House: Daughter
+1 RESI
+2 DATE 1920
+2 PLAC 284 Henry Street, Manhattan, New York City, New York, USA
+2 SOUR @S3@
+3 PAGE Year: 1920; Census Place: Manhattan Assembly District 4, Ne
+4 CONC w York, New York; Roll: T625_1191; Page: 4A; Enumeration Dis
+4 CONC trict: 328
+3 OBJE @M132@
+3 _APID 6061:32391034
+2 NOTE Marital Status: Single; Relation to Head: Daughter
 1 RESI
 2 DATE 1930
 2 PLAC Bronx, New York City, New York, USA
@@ -6935,37 +8967,100 @@
 3 OBJE @M41@
 3 _APID 2442:11539609
 2 NOTE Marital Status: Married; Relation to Head of House: Wife
+1 DEAT
+2 DATE 07 MAR 1951
+2 PLAC Manhattan, New York City, New York, USA
+2 SOUR @S30@
+3 OBJE @M150@
+3 _APID 61461:1519360
+2 SOUR @S20@
+3 _APID 60525:71574916
+1 BURI
+2 DATE 08 MAR 1951
+2 PLAC Mount Judah Cemetery, Queens, New York City, New York, USA
+2 SOUR @S20@
+3 _APID 60525:71574916
 1 _GUID eafaaeea-b40c-4fed-bd8f-d587c785627c
 0 @I3@ INDI
 1 REFN 3f2e81e7-201e-4fdc-80ca-106e16685360
 1 NAME Rose /Rosanoff/
+2 SOUR @S12@
+3 PAGE Year: 1910; Census Place: Manhattan Ward 7, New York, New Yo
+4 CONC rk; Roll: T624_1008; Page: 26A; Enumeration District: 0095
+4 CONC ; FHL microfilm: 1375021
+3 OBJE @M144@
+3 _APID 7884:103405618
 2 SOUR @S3@
 3 PAGE Year: 1920; Census Place: Brooklyn Assembly District 2, King
 4 CONC s, New York; Roll: T625_1146; Page: 30B; Enumeration Distric
 4 CONC t: 82
 3 OBJE @M37@
 3 _APID 6061:32061928
+2 SOUR @S1@
+3 PAGE Year: 1930; Census Place: Brooklyn, Kings, New York; Page: 4
+4 CONC B; Enumeration District: 1789; FHL microfilm: 2341228
+3 OBJE @M136@
+3 _APID 6224:39561167
+2 SOUR @S22@
+3 OBJE @M134@
+3 _APID 2238:223322911
 1 SEX F
 1 FAMC @F13@
 1 FAMS @F44@
 1 BIRT
-2 DATE ABT 1894
-2 PLAC Russia
+2 DATE ABT 1888
+2 PLAC Kiev, Kiev, Ukraine
+3 MAP
+4 LATI N50.45
+4 LONG E30.5233
+2 SOUR @S12@
+3 PAGE Year: 1910; Census Place: Manhattan Ward 7, New York, New Yo
+4 CONC rk; Roll: T624_1008; Page: 26A; Enumeration District: 0095
+4 CONC ; FHL microfilm: 1375021
+3 OBJE @M144@
+3 _APID 7884:103405618
 2 SOUR @S3@
 3 PAGE Year: 1920; Census Place: Brooklyn Assembly District 2, King
 4 CONC s, New York; Roll: T625_1146; Page: 30B; Enumeration Distric
 4 CONC t: 82
 3 OBJE @M37@
 3 _APID 6061:32061928
+2 SOUR @S1@
+3 PAGE Year: 1930; Census Place: Brooklyn, Kings, New York; Page: 4
+4 CONC B; Enumeration District: 1789; FHL microfilm: 2341228
+3 OBJE @M136@
+3 _APID 6224:39561167
 1 EVEN
 2 TYPE Arrival
 2 DATE 1906
+2 SOUR @S12@
+3 PAGE Year: 1910; Census Place: Manhattan Ward 7, New York, New Yo
+4 CONC rk; Roll: T624_1008; Page: 26A; Enumeration District: 0095
+4 CONC ; FHL microfilm: 1375021
+3 OBJE @M144@
+3 _APID 7884:103405618
 2 SOUR @S3@
 3 PAGE Year: 1920; Census Place: Brooklyn Assembly District 2, King
 4 CONC s, New York; Roll: T625_1146; Page: 30B; Enumeration Distric
 4 CONC t: 82
 3 OBJE @M37@
 3 _APID 6061:32061928
+2 SOUR @S1@
+3 PAGE Year: 1930; Census Place: Brooklyn, Kings, New York; Page: 4
+4 CONC B; Enumeration District: 1789; FHL microfilm: 2341228
+3 OBJE @M136@
+3 _APID 6224:39561167
+1 RESI
+2 DATE 1910
+2 PLAC 333-43 Madison Street, Manhattan, New York City, New York, U
+3 CONC SA
+2 SOUR @S12@
+3 PAGE Year: 1910; Census Place: Manhattan Ward 7, New York, New Yo
+4 CONC rk; Roll: T624_1008; Page: 26A; Enumeration District: 0095
+4 CONC ; FHL microfilm: 1375021
+3 OBJE @M144@
+3 _APID 7884:103405618
+2 NOTE Marital Status: Single; Relation to Head of House: Daughter
 1 RESI
 2 DATE 1920
 2 PLAC Brooklyn, New York City, New York, USA
@@ -6976,6 +9071,15 @@
 3 OBJE @M37@
 3 _APID 6061:32061928
 2 NOTE Relation to Head: Wife; Residence Marital Status: Married
+1 RESI
+2 DATE 1930
+2 PLAC 603 East 94th Street, Brooklyn, New York City, New York, USA
+2 SOUR @S1@
+3 PAGE Year: 1930; Census Place: Brooklyn, Kings, New York; Page: 4
+4 CONC B; Enumeration District: 1789; FHL microfilm: 2341228
+3 OBJE @M136@
+3 _APID 6224:39561167
+2 NOTE Marital Status: Married; Relation to Head: Wife
 1 _GUID df232b2d-5457-493e-9c1a-fc1ebb20212c
 0 @I67@ INDI
 1 REFN 92ea5b00-5187-4a2f-ad61-693e878865bd
@@ -8076,6 +10180,98 @@
 2 SOUR @S2@
 3 _APID 60901:37252976
 1 _GUID 3e4639ac-a809-47d1-976d-612081708805
+0 @I151@ INDI
+1 NAME Charles /Weingarten/
+2 SOUR @S1@
+3 PAGE Year: 1930; Census Place: Bronx, Bronx, New York; Page: 7B
+4 CONC ; Enumeration District: 0190; FHL microfilm: 2341204
+3 OBJE @M131@
+3 _APID 6224:31307728
+2 SOUR @S5@
+3 PAGE Year: 1940; Census Place: Hillsborough, Florida; Roll: m-t06
+4 CONC 27-00590; Page: 15B; Enumeration District: 29-10
+3 OBJE @M128@
+3 _APID 2442:130759224
+2 SOUR @S39@
+3 OBJE @M130@
+3 _APID 2469:667306578
+2 SOUR @S22@
+3 PAGE The National Archives in St. Louis, Missouri; St. Louis, Mis
+4 CONC souri; WWII Draft Registration Cards for Florida, 10/16/1940
+4 CONC -03/31/1947; Record Group: Records of the Selective Servic
+4 CONC e System, 147; Box: 475
+3 OBJE @M129@
+3 _APID 2238:12481517
+1 SEX M
+1 FAMS @F97@
+1 BIRT
+2 DATE 02 JUL 1907
+2 PLAC New York City, New York, USA
+2 SOUR @S1@
+3 PAGE Year: 1930; Census Place: Bronx, Bronx, New York; Page: 7B
+4 CONC ; Enumeration District: 0190; FHL microfilm: 2341204
+3 OBJE @M131@
+3 _APID 6224:31307728
+2 SOUR @S5@
+3 PAGE Year: 1940; Census Place: Hillsborough, Florida; Roll: m-t06
+4 CONC 27-00590; Page: 15B; Enumeration District: 29-10
+3 OBJE @M128@
+3 _APID 2442:130759224
+2 SOUR @S22@
+3 PAGE The National Archives in St. Louis, Missouri; St. Louis, Mis
+4 CONC souri; WWII Draft Registration Cards for Florida, 10/16/1940
+4 CONC -03/31/1947; Record Group: Records of the Selective Servic
+4 CONC e System, 147; Box: 475
+3 OBJE @M129@
+3 _APID 2238:12481517
+1 RESI
+2 DATE 1930
+2 PLAC 1511 Sheridan Avenue, Bronx, Bronx, New York City, New York
+3 CONC , USA
+2 SOUR @S1@
+3 PAGE Year: 1930; Census Place: Bronx, Bronx, New York; Page: 7B
+4 CONC ; Enumeration District: 0190; FHL microfilm: 2341204
+3 OBJE @M131@
+3 _APID 6224:31307728
+2 NOTE Marital Status: Married; Relation to Head: Head
+1 RESI
+2 DATE 1940
+2 PLAC 1403 Bay Villa Place, Tampa, Hillsborough, Florida, USA
+2 SOUR @S5@
+3 PAGE Year: 1940; Census Place: Hillsborough, Florida; Roll: m-t06
+4 CONC 27-00590; Page: 15B; Enumeration District: 29-10
+3 OBJE @M128@
+3 _APID 2442:130759224
+2 SOUR @S22@
+3 PAGE The National Archives in St. Louis, Missouri; St. Louis, Mis
+4 CONC souri; WWII Draft Registration Cards for Florida, 10/16/1940
+4 CONC -03/31/1947; Record Group: Records of the Selective Servic
+4 CONC e System, 147; Box: 475
+3 OBJE @M129@
+3 _APID 2238:12481517
+2 NOTE Marital Status: Married; Relation to Head: Head
+1 RESI
+2 DATE 1959
+2 PLAC 2120 Verdun Drive, Miami Beach, Miami-Dade, Florida, USA
+2 SOUR @S39@
+3 OBJE @M130@
+3 _APID 2469:667306578
+1 _GUID f4fce31f-ce06-482b-8f2b-6c5bcd3be3fd
+0 @I153@ INDI
+1 NAME [REDACTED]
+1 FAMC @F97@
+0 @I152@ INDI
+1 NAME [REDACTED]
+1 FAMC @F97@
+0 @I142@ INDI
+1 NAME Shirley /Wenig/
+1 SEX F
+1 FAMS @F99@
+1 BIRT
+2 DATE 1929
+1 DEAT
+2 DATE 2011
+1 _GUID bad1c917-8cc5-4f81-bb99-8542018c5fd7
 0 @I107@ INDI
 1 NAME Barbara /Wescourt/
 1 SEX F
@@ -8202,12 +10398,42 @@
 3 _APID 2238:195319386
 2 NOTE Relative Relation to Head: Mother
 1 _GUID 9094bf03-17d5-45c2-8285-6d8c66b1ef78
+0 @I141@ INDI
+1 NAME Mitchell /Wolf/
+1 SEX M
+1 FAMC @F100@
+1 _GUID a4f06100-6ed5-4356-ab4f-fbe5b58083e9
 0 @I62@ INDI
 1 NAME [REDACTED]
 1 FAMC @F44@
 0 @I63@ INDI
 1 NAME [REDACTED]
 1 FAMC @F44@
+0 @I157@ INDI
+1 NAME Irving /Wolff/
+2 SOUR @S22@
+3 OBJE @M134@
+3 _APID 2238:193322911
+1 SEX M
+1 FAMC @F44@
+1 BIRT
+2 DATE 22 FEB 1910
+2 PLAC Brooklyn, New York City, New York, USA
+2 SOUR @S22@
+3 OBJE @M134@
+3 _APID 2238:193322911
+1 RESI
+2 DATE 16 OCT 1940
+2 PLAC 938 50th Street, Brooklyn, New York City, New York, USA
+2 SOUR @S22@
+3 OBJE @M134@
+3 _APID 2238:193322911
+2 NOTE Relative Relation to Head: Mother
+1 _GUID 17623c82-95ef-4c47-ae14-85f3e03443c9
+0 @I140@ INDI
+1 NAME [REDACTED]
+1 FAMC @F44@
+1 FAMS @F100@
 0 @I61@ INDI
 1 REFN 046d45b0-5ff0-4022-bc80-52b4ab5707d9
 1 NAME Philip /Wolff/
@@ -8217,17 +10443,30 @@
 4 CONC t: 82
 3 OBJE @M37@
 3 _APID 6061:32061927
+2 SOUR @S1@
+3 PAGE Year: 1930; Census Place: Brooklyn, Kings, New York; Page: 4
+4 CONC B; Enumeration District: 1789; FHL microfilm: 2341228
+3 OBJE @M136@
+3 _APID 6224:39561184
 1 SEX M
 1 FAMS @F44@
 1 BIRT
 2 DATE ABT 1891
-2 PLAC Russia
+2 PLAC Warszawa, Mazowieckie, Poland
+3 MAP
+4 LATI N52.25
+4 LONG E21
 2 SOUR @S3@
 3 PAGE Year: 1920; Census Place: Brooklyn Assembly District 2, King
 4 CONC s, New York; Roll: T625_1146; Page: 30B; Enumeration Distric
 4 CONC t: 82
 3 OBJE @M37@
 3 _APID 6061:32061927
+2 SOUR @S1@
+3 PAGE Year: 1930; Census Place: Brooklyn, Kings, New York; Page: 4
+4 CONC B; Enumeration District: 1789; FHL microfilm: 2341228
+3 OBJE @M136@
+3 _APID 6224:39561184
 1 EVEN
 2 TYPE Arrival
 2 DATE 1912
@@ -8237,6 +10476,11 @@
 4 CONC t: 82
 3 OBJE @M37@
 3 _APID 6061:32061927
+2 SOUR @S1@
+3 PAGE Year: 1930; Census Place: Brooklyn, Kings, New York; Page: 4
+4 CONC B; Enumeration District: 1789; FHL microfilm: 2341228
+3 OBJE @M136@
+3 _APID 6224:39561184
 1 RESI
 2 DATE 1920
 2 PLAC Brooklyn, New York City, New York, USA
@@ -8247,6 +10491,15 @@
 3 OBJE @M37@
 3 _APID 6061:32061927
 2 NOTE Relation to Head: Head; Residence Marital Status: Married
+1 RESI
+2 DATE 1930
+2 PLAC 603 East 94th Street, Brooklyn, New York City, New York, USA
+2 SOUR @S1@
+3 PAGE Year: 1930; Census Place: Brooklyn, Kings, New York; Page: 4
+4 CONC B; Enumeration District: 1789; FHL microfilm: 2341228
+3 OBJE @M136@
+3 _APID 6224:39561184
+2 NOTE Marital Status: Married; Relation to Head: Head
 1 _GUID cf0b4fe9-87c8-4d14-bb1a-323d654291a6
 0 @F94@ FAM
 1 HUSB @I20@
@@ -8276,13 +10529,19 @@
 0 @F47@ FAM
 1 HUSB @I87@
 1 WIFE @I4@
-1 CHIL @I88@
-2 _FREL Natural
-2 _MREL Natural
 1 CHIL @I89@
 2 _FREL Natural
 2 _MREL Natural
+1 CHIL @I88@
+2 _FREL Natural
+2 _MREL Natural
 1 CHIL @I60@
+2 _FREL Natural
+2 _MREL Natural
+0 @F99@ FAM
+1 HUSB @I60@
+1 WIFE @I142@
+1 CHIL @I143@
 2 _FREL Natural
 2 _MREL Natural
 0 @F75@ FAM
@@ -8306,14 +10565,29 @@
 1 CHIL @I36@
 2 _FREL Natural
 2 _MREL Natural
+1 CHIL @I156@
+2 _FREL Natural
+2 _MREL Natural
 1 CHIL @I13@
 2 _FREL Natural
 2 _MREL Natural
 1 CHIL @I37@
 2 _FREL Natural
 2 _MREL Natural
+1 CHIL @I155@
+2 _FREL Natural
+2 _MREL Natural
 1 MARR
 2 DATE ABT 1904
+0 @F96@ FAM
+1 HUSB @I148@
+1 WIFE @I35@
+1 CHIL @I149@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I150@
+2 _FREL Natural
+2 _MREL Natural
 0 @F50@ FAM
 1 HUSB @I96@
 1 WIFE @I95@
@@ -8465,6 +10739,30 @@
 1 CHIL @I32@
 2 _FREL Natural
 2 _MREL Natural
+0 @F98@ FAM
+1 HUSB @I159@
+1 WIFE @I160@
+1 CHIL @I158@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I161@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I162@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I144@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I145@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I146@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I147@
+2 _FREL Natural
+2 _MREL Natural
 0 @F91@ FAM
 1 HUSB @I128@
 1 CHIL @I21@
@@ -8574,19 +10872,16 @@
 0 @F13@ FAM
 1 HUSB @I54@
 1 WIFE @I55@
-1 CHIL @I5@
-2 _FREL Natural
-2 _MREL Natural
 1 CHIL @I6@
 2 _FREL Natural
 2 _MREL Natural
 1 CHIL @I7@
 2 _FREL Natural
 2 _MREL Natural
-1 CHIL @I39@
+1 CHIL @I56@
 2 _FREL Natural
 2 _MREL Natural
-1 CHIL @I56@
+1 CHIL @I39@
 2 _FREL Natural
 2 _MREL Natural
 1 CHIL @I57@
@@ -8598,10 +10893,16 @@
 1 CHIL @I2@
 2 _FREL Natural
 2 _MREL Natural
+1 CHIL @I3@
+2 _FREL Natural
+2 _MREL Natural
 1 CHIL @I4@
 2 _FREL Natural
 2 _MREL Natural
-1 CHIL @I3@
+1 CHIL @I5@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I154@
 2 _FREL Natural
 2 _MREL Natural
 0 @F54@ FAM
@@ -8697,6 +10998,15 @@
 1 CHIL @I124@
 2 _FREL Natural
 2 _MREL Natural
+0 @F97@ FAM
+1 HUSB @I151@
+1 WIFE @I37@
+1 CHIL @I152@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I153@
+2 _FREL Natural
+2 _MREL Natural
 0 @F76@ FAM
 1 HUSB @I103@
 1 WIFE @I14@
@@ -8722,13 +11032,23 @@
 1 CHIL @I110@
 2 _FREL Natural
 2 _MREL Natural
+0 @F100@ FAM
+1 HUSB @I140@
+1 CHIL @I141@
+2 _FREL Natural
 0 @F44@ FAM
 1 HUSB @I61@
 1 WIFE @I3@
+1 CHIL @I157@
+2 _FREL Natural
+2 _MREL Natural
 1 CHIL @I62@
 2 _FREL Natural
 2 _MREL Natural
 1 CHIL @I63@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @I140@
 2 _FREL Natural
 2 _MREL Natural
 0 @R1@ REPO
@@ -8797,6 +11117,23 @@
 1 PUBL Ancestry.com Operations, Inc.; Location: Lehi, UT, USA; Date
 2 CONC : 2016
 1 _APID 61196
+0 @S43@ SOUR
+1 REPO @R1@
+1 TITL Italy, Find A Grave Index, 1800s-Current
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
+2 CONC e: 2012
+1 _APID 60534
+0 @S45@ SOUR
+1 TITL Massachusetts, Marriage Records, 1840-1915
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
+2 CONC e: 2013
+1 NOTE Massachusetts Vital Records, 1840–1911. New England Histori
+2 CONC c Genealogical Society, Boston, Massachusetts.<br>Massachuse
+2 CONC tts Vital Records, 1911–1915. New England Historic Genealogi
+2 CONC cal Society, Boston, Massachusetts.
+1 _APID 2511
 0 @S16@ SOUR
 1 REPO @R1@
 1 TITL New York City, Marriage Indexes, 1907-1995
@@ -8937,6 +11274,13 @@
 1 PUBL Ancestry.com Operations Inc; Location: Provo, UT, USA; Date
 2 CONC : 2009
 1 _APID 1554
+0 @S39@ SOUR
+1 REPO @R1@
+1 TITL U.S. City Directories, 1822-1995
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
+2 CONC e: 2011
+1 _APID 2469
 0 @S11@ SOUR
 1 REPO @R1@
 1 TITL U.S. Naturalization Records Indexes, 1794-1995
@@ -8972,6 +11316,21 @@
 1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
 2 CONC e: 2012
 1 _APID 60525
+0 @S38@ SOUR
+1 REPO @R1@
+1 TITL U.S., Headstone and Interment Records for U.S. Military Ceme
+2 CONC teries on Foreign Soil, 1942-1949
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
+2 CONC e: 2014
+1 _APID 9170
+0 @S42@ SOUR
+1 REPO @R1@
+1 TITL U.S., Rosters of World War II Dead, 1939-1945
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations Inc; Location: Lehi, UT, USA; Date
+2 CONC : 2007
+1 _APID 1102
 0 @S2@ SOUR
 1 REPO @R1@
 1 TITL U.S., Social Security Applications and Claims Index, 1936-20
@@ -8994,6 +11353,29 @@
 1 PUBL Ancestry.com Operations Inc; Location: Provo, UT, USA; Date
 2 CONC : 2005
 1 _APID 6482
+0 @S40@ SOUR
+1 REPO @R1@
+1 TITL U.S., World War I, World War II, and Korean War Casualty Lis
+2 CONC tings
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.; Location: Lehi, UT, USA; Date
+2 CONC : 2005
+1 _APID 8853
+0 @S41@ SOUR
+1 REPO @R1@
+1 TITL U.S., World War II and Korean Conflict Veterans Interred Ove
+2 CONC rseas
+1 AUTH National Archives and Records Administration
+1 PUBL Ancestry.com Operations Inc; Location: Lehi, UT, USA; Date
+2 CONC : 2000
+1 _APID 4283
+0 @S44@ SOUR
+1 REPO @R1@
+1 TITL U.S., World War II Army Enlistment Records, 1938-1946
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.; Location: Provo, UT, USA; Dat
+2 CONC e: 2005
+1 _APID 8939
 0 @S6@ SOUR
 1 REPO @R1@
 1 TITL U.S., World War II Draft Registration Cards, 1942
@@ -10070,4 +12452,233 @@
 2 _TEXT New York State Archives; Albany, New York; State Populatio
 3 CONC n Census Schedules, 1925; Election District: 14; Assembly Di
 3 CONC strict: 01; City: New York; County: New York; Page: 53
+0 @M124@ OBJE
+1 _GUID 9bb12190-8546-40af-b08a-df850840d282
+1 FILE C:\Users\vagrant\FTM_DOCUMENTS\Roth Media\1900 United State
+2 CONC s Federal Census(2).jpg
+2 FORM jpg
+2 TITL 1900 United States Federal Census
+2 _TEXT Year: 1900; Census Place: Worcester Ward 3, Worcester, Massa
+3 CONC chusetts; Page: 3; Enumeration District: 1731; FHL microfilm
+3 CONC : 1240696
+0 @M125@ OBJE
+1 _GUID 31145f80-6ff8-40f3-b261-59bd3d250285
+1 FILE C:\Users\vagrant\FTM_DOCUMENTS\Roth Media\New York City, Mar
+2 CONC riage Indexes, 1907-1995(22).jpg
+2 FORM jpg
+2 TITL New York City, Marriage Indexes, 1907-1995
+2 _TEXT New York City Municipal Archives; New York, New York; Boroug
+3 CONC h: Brooklyn
+0 @M126@ OBJE
+1 _GUID dc75204b-9f0a-4ea2-8d34-3944bd95175d
+1 FILE C:\Users\vagrant\FTM_DOCUMENTS\Roth Media\1940 United State
+2 CONC s Federal Census(9).jpg
+2 FORM jpg
+2 TITL 1940 United States Federal Census
+2 _TEXT Year: 1940; Census Place: New York, Kings, New York; Roll: m
+3 CONC -t0627-02549; Page: 3A; Enumeration District: 24-110
+0 @M127@ OBJE
+1 _GUID e566c339-13b2-4293-b26a-c5df60399e97
+1 FILE C:\Users\vagrant\FTM_DOCUMENTS\Roth Media\U.S. WWII Draft Ca
+2 CONC rds Young Men, 1940-1947(2).jpg
+2 FORM jpg
+2 TITL U.S. WWII Draft Cards Young Men, 1940-1947
+0 @M128@ OBJE
+1 _GUID 264c7aed-8432-4920-8e9c-e429953c4693
+1 FILE C:\Users\vagrant\FTM_DOCUMENTS\Roth Media\1940 United State
+2 CONC s Federal Census(10).jpg
+2 FORM jpg
+2 TITL 1940 United States Federal Census
+2 _TEXT Year: 1940; Census Place: Hillsborough, Florida; Roll: m-t06
+3 CONC 27-00590; Page: 15B; Enumeration District: 29-10
+0 @M129@ OBJE
+1 _GUID 50400154-0231-4110-9905-175730c2e93a
+1 FILE C:\Users\vagrant\FTM_DOCUMENTS\Roth Media\U.S. WWII Draft Ca
+2 CONC rds Young Men, 1940-1947(3).jpg
+2 FORM jpg
+2 TITL U.S. WWII Draft Cards Young Men, 1940-1947
+2 _TEXT The National Archives in St. Louis, Missouri; St. Louis, Mis
+3 CONC souri; WWII Draft Registration Cards for Florida, 10/16/1940
+3 CONC -03/31/1947; Record Group: Records of the Selective Servic
+3 CONC e System, 147; Box: 475
+0 @M130@ OBJE
+1 _GUID bab08b3c-a914-45f5-86b0-a825112b1fc8
+1 FILE C:\Users\vagrant\FTM_DOCUMENTS\Roth Media\U.S. City Director
+2 CONC ies, 1822-1995.jpg
+2 FORM jpg
+2 TITL U.S. City Directories, 1822-1995
+0 @M131@ OBJE
+1 _GUID 973f3461-c653-4322-ad9a-90d644443373
+1 FILE C:\Users\vagrant\FTM_DOCUMENTS\Roth Media\1930 United State
+2 CONC s Federal Census(12).jpg
+2 FORM jpg
+2 TITL 1930 United States Federal Census
+2 _TEXT Year: 1930; Census Place: Bronx, Bronx, New York; Page: 7B
+3 CONC ; Enumeration District: 0190; FHL microfilm: 2341204
+0 @M132@ OBJE
+1 _GUID 7a44c5e5-13a6-4fdb-b6c3-82d26f741252
+1 FILE C:\Users\vagrant\FTM_DOCUMENTS\Roth Media\1920 United State
+2 CONC s Federal Census(12).jpg
+2 FORM jpg
+2 TITL 1920 United States Federal Census
+2 _TEXT Year: 1920; Census Place: Manhattan Assembly District 4, Ne
+3 CONC w York, New York; Roll: T625_1191; Page: 4A; Enumeration Dis
+3 CONC trict: 328
+0 @M133@ OBJE
+1 _GUID 596c311c-4277-4083-a317-e7698ae836e0
+1 FILE C:\Users\vagrant\FTM_DOCUMENTS\Roth Media\Massachusetts, Mar
+2 CONC riage Records, 1840-1915.jpg
+2 FORM jpg
+2 TITL Massachusetts, Marriage Records, 1840-1915
+2 _TEXT Massachusetts, Marriage Records, 1840-1915 Record
+0 @M134@ OBJE
+1 _GUID 40191f3f-a5c3-4fb1-9238-09ca6b3bcd7b
+1 FILE C:\Users\vagrant\FTM_DOCUMENTS\Roth Media\U.S. WWII Draft Ca
+2 CONC rds Young Men, 1940-1947(4).jpg
+2 FORM jpg
+2 TITL U.S. WWII Draft Cards Young Men, 1940-1947
+0 @M135@ OBJE
+1 _GUID 56296fa0-29a4-4c3d-9557-692af4088d93
+1 FILE C:\Users\vagrant\FTM_DOCUMENTS\Roth Media\1910 United State
+2 CONC s Federal Census(11).jpg
+2 FORM jpg
+2 TITL 1910 United States Federal Census
+2 _TEXT Year: 1910; Census Place: Manhattan Ward 7, New York, New Yo
+3 CONC rk; Roll: T624_1007; Page: 5B; Enumeration District: 0066; F
+3 CONC HL microfilm: 1375020
+0 @M136@ OBJE
+1 _GUID 7670ad5a-1d17-45ba-8aec-3292a36b8129
+1 FILE C:\Users\vagrant\FTM_DOCUMENTS\Roth Media\1930 United State
+2 CONC s Federal Census(13).jpg
+2 FORM jpg
+2 TITL 1930 United States Federal Census
+2 _TEXT Year: 1930; Census Place: Brooklyn, Kings, New York; Page: 4
+3 CONC B; Enumeration District: 1789; FHL microfilm: 2341228
+0 @M137@ OBJE
+1 _GUID fb46cc3e-5138-46e5-8dad-4f2f257c55d4
+1 FILE C:\Users\vagrant\FTM_DOCUMENTS\Roth Media\U.S. WWII Draft Ca
+2 CONC rds Young Men, 1940-1947(5).jpg
+2 FORM jpg
+2 TITL U.S. WWII Draft Cards Young Men, 1940-1947
+0 @M138@ OBJE
+1 _GUID 97c84988-2b77-460f-8ac2-87bbf05547f0
+1 FILE C:\Users\vagrant\FTM_DOCUMENTS\Roth Media\New York, State Ce
+2 CONC nsus, 1905(4).jpg
+2 FORM jpg
+2 TITL New York, State Census, 1905
+2 _TEXT New York State Archives; Albany, New York; State Populatio
+3 CONC n Census Schedules, 1905; Election District: A.D. 12 E.D. 08
+3 CONC ; City: Manhattan; County: New York; Page: 117
+0 @M139@ OBJE
+1 _GUID 7d26e81d-d10a-4481-aed2-629a02bf7e29
+1 FILE C:\Users\vagrant\FTM_DOCUMENTS\Roth Media\U.S., Headstone an
+2 CONC d Interment Records for U.S. Military Cemeteries on Foreig
+2 CONC n Soil, 1942-1949.jpg
+2 FORM jpg
+2 TITL U.S., Headstone and Interment Records for U.S. Military Ceme
+3 CONC teries on Foreign Soil, 1942-1949
+0 @M140@ OBJE
+1 _GUID b7ef4163-f6e4-42d6-bab2-5950dfa0bebf
+1 FILE C:\Users\vagrant\FTM_DOCUMENTS\Roth Media\New York City, Mar
+2 CONC riage Indexes, 1907-1995(23).jpg
+2 FORM jpg
+2 TITL New York City, Marriage Indexes, 1907-1995
+2 _TEXT New York City Municipal Archives; New York, New York; Boroug
+3 CONC h: Brooklyn
+0 @M141@ OBJE
+1 _GUID 942a9ee8-dd53-4443-917c-cdd00a6e2730
+1 FILE C:\Users\vagrant\FTM_DOCUMENTS\Roth Media\U.S. WWII Draft Ca
+2 CONC rds Young Men, 1940-1947(6).jpg
+2 FORM jpg
+2 TITL U.S. WWII Draft Cards Young Men, 1940-1947
+2 _TEXT The National Archives in St. Louis, Missouri; St. Louis, Mis
+3 CONC souri; WWII Draft Registration Cards for Florida, 10/16/1940
+3 CONC -03/31/1947; Record Group: Records of the Selective Servic
+3 CONC e System, 147; Box: 87
+0 @M142@ OBJE
+1 _GUID f6db8b7f-0bc1-4a01-a478-bd669059ab95
+1 FILE C:\Users\vagrant\FTM_DOCUMENTS\Roth Media\New York, New York
+2 CONC , Birth Index, 1910-1965(4).jpg
+2 FORM jpg
+2 TITL New York, New York, Birth Index, 1910-1965
+0 @M143@ OBJE
+1 _GUID afecb715-7068-4c48-99f6-228b1b216121
+1 FILE C:\Users\vagrant\FTM_DOCUMENTS\Roth Media\U.S., Rosters of W
+2 CONC orld War II Dead, 1939-1945.jpg
+2 FORM jpg
+2 TITL U.S., Rosters of World War II Dead, 1939-1945
+0 @M144@ OBJE
+1 _GUID e6fae8b9-7563-4b94-a1a6-4e998cb39cad
+1 FILE C:\Users\vagrant\FTM_DOCUMENTS\Roth Media\1910 United State
+2 CONC s Federal Census(12).jpg
+2 FORM jpg
+2 TITL 1910 United States Federal Census
+2 _TEXT Year: 1910; Census Place: Manhattan Ward 7, New York, New Yo
+3 CONC rk; Roll: T624_1008; Page: 26A; Enumeration District: 0095
+3 CONC ; FHL microfilm: 1375021
+0 @M145@ OBJE
+1 _GUID 36479830-6f39-4810-9ef2-d98cb88d0f4b
+1 FILE C:\Users\vagrant\FTM_DOCUMENTS\Roth Media\New York, State an
+2 CONC d Federal Naturalization Records, 1794-1940(9).jpg
+2 FORM jpg
+2 TITL New York, State and Federal Naturalization Records, 1794-194
+3 CONC 0
+2 _TEXT National Archives and Records Administration; Washington, DC
+3 CONC ; NAI Title: Index to Petitions for Naturalizations Filed i
+3 CONC n Federal, State, and Local Courts in New York City, 1792-19
+3 CONC 06; NAI Number: 5700802; Record Group Title: Records of Dist
+3 CONC rict Courts of th
+0 @M146@ OBJE
+1 _GUID 88db54ca-5894-4e52-ad80-1538c8fe86de
+1 FILE C:\Users\vagrant\FTM_DOCUMENTS\Roth Media\New York, Passenge
+2 CONC r and Crew Lists (including Castle Garden and Ellis Island)
+2 CONC , 1820-1957(4).jpg
+2 FORM jpg
+2 TITL New York, Passenger and Crew Lists (including Castle Garde
+3 CONC n and Ellis Island), 1820-1957
+2 _TEXT Year: 1903; Arrival: New York, New York, USA; Microfilm Seri
+3 CONC al: T715, 1897-1957; Line: 19; Page Number: 96
+0 @M147@ OBJE
+1 _GUID 47ed9842-44d1-4fa2-8ef5-790aae1631ed
+1 FILE C:\Users\vagrant\FTM_DOCUMENTS\Roth Media\1910 United State
+2 CONC s Federal Census(13).jpg
+2 FORM jpg
+2 TITL 1910 United States Federal Census
+2 _TEXT Year: 1910; Census Place: Manhattan Ward 7, New York, New Yo
+3 CONC rk; Roll: T624_1008; Page: 4A; Enumeration District: 0097; F
+3 CONC HL microfilm: 1375021
+0 @M148@ OBJE
+1 _GUID 6aa19f51-3119-4b68-9cea-f5c3bc51d394
+1 FILE C:\Users\vagrant\FTM_DOCUMENTS\Roth Media\New York, State Ce
+2 CONC nsus, 1915(5).jpg
+2 FORM jpg
+2 TITL New York, State Census, 1915
+2 _TEXT New York State Archives; Albany, New York; State Populatio
+3 CONC n Census Schedules, 1915; Election District: 08; Assembly Di
+3 CONC strict: 09; City: New York; County: Kings; Page: 15
+0 @M149@ OBJE
+1 _GUID 56bf0ad9-0554-4484-b22e-94f538b6ec9b
+1 FILE C:\Users\vagrant\FTM_DOCUMENTS\Roth Media\1920 United State
+2 CONC s Federal Census(13).jpg
+2 FORM jpg
+2 TITL 1920 United States Federal Census
+2 _TEXT Year: 1920; Census Place: Brooklyn Assembly District 3, King
+3 CONC s, New York; Roll: T625_1148; Page: 7A; Enumeration District
+3 CONC : 1664
+0 @M150@ OBJE
+1 _GUID e5e0dad9-3122-4cef-9c7e-a588962ced35
+1 FILE C:\Users\vagrant\FTM_DOCUMENTS\Roth Media\New York, New York
+2 CONC , Death Index, 1949-1965(1).jpg
+2 FORM jpg
+2 TITL New York, New York, Death Index, 1949-1965
+0 @M151@ OBJE
+1 _GUID ef676835-13da-4109-b862-4dae6baf82d0
+1 FILE C:\Users\vagrant\FTM_DOCUMENTS\Roth Media\New York, Passenge
+2 CONC r and Crew Lists (including Castle Garden and Ellis Island)
+2 CONC , 1820-1957(5).jpg
+2 FORM jpg
+2 TITL New York, Passenger and Crew Lists (including Castle Garde
+3 CONC n and Ellis Island), 1820-1957
+2 _TEXT Year: 1902; Arrival: New York, New York, USA; Microfilm Seri
+3 CONC al: T715, 1897-1957; Line: 7; Page Number: 147
 0 TRLR
