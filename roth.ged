@@ -2216,9 +2216,30 @@
 3 _APID 60901:19641141
 1 _GUID f5af3cd8-7cab-4b33-baea-35344f643afe
 0 @I119@ INDI
-1 NAME [REDACTED]
+1 NAME Hannah /Goldberg/
+2 SOUR @S16@
+3 PAGE New York City Municipal Archives; New York, New York; Boroug
+4 CONC h: Manhattan; Volume Number: 8
+3 OBJE @M83@
+3 _APID 61406:205677
+2 SOUR @S34@
+3 PAGE New York City Department of Records & Information Services
+4 CONC ; New York City, New York; New York City Marriage Licenses
+3 _APID 61788:90323024
+1 SEX F
 1 FAMC @F79@
 1 FAMS @F81@
+1 BIRT
+2 DATE APR 1911
+2 PLAC Tel Aviv, Tel Aviv, Israel
+3 MAP
+4 LATI N32.0667
+4 LONG E34.7667
+2 SOUR @S34@
+3 PAGE New York City Department of Records & Information Services
+4 CONC ; New York City, New York; New York City Marriage Licenses
+3 _APID 61788:90323024
+1 _GUID 2f59b087-ab1c-4c59-aacf-97badda9505a
 0 @I118@ INDI
 1 NAME Joseph /Goldberg/
 2 SOUR @S3@
